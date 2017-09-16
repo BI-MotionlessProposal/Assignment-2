@@ -53,7 +53,7 @@ def html_tbody_to_list(table_body):
 
             else:
                 lr.append(c)
-            l.append(lr)
+        l.append(lr)
     return l
 
 def html_file_to_csv(html_file):
