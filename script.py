@@ -24,7 +24,8 @@ def html_thead_to_list(table_head):
     return l
 
 def get_zip_code(str):
-    return 'uknown'
+    str = str.replace(' København K','')
+    return str[-4:]
 
 def get_sell_date(s):
     s = re.match('([\d-]*)', s, 0)
