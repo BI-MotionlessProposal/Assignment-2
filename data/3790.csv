@@ -1,0 +1,1009 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Nørregade 53790 Hasle,asle,510.000,22-04-2017,Alm. Salg,7.083,3,Rækkehus,72,1777,,Aktuel værdi
+Fælledvej 253790 Hasle,asle,645.000,19-04-2017,Alm. Salg,4.886,4,Villa,132,1912,0 %,Aktuel værdi
+Toftegårdsvej 63790 Hasle,asle,650.000,17-04-2017,Alm. Salg,10.000,3,Sommerhus,65,1940,,Aktuel værdi
+Storegade 83790 Hasle,asle,80.000,10-04-2017,Alm. Salg,800,5,Villa,100,1885,,Aktuel værdi
+Kirkevej 43790 Hasle,asle,850.000,10-04-2017,Fam. Salg,5.629,6,Sommerhus,151,1800,,Aktuel værdi
+Nydamsvej 13790 Hasle,asle,625.000,04-04-2017,Alm. Salg,5.000,5,Villa,125,1802,,Aktuel værdi
+Skovkanten 3. L273790 Hasle,asle,380.000,30-03-2017,Alm. Salg,3.800,5,Sommerhus,100,2002,,Aktuel værdi
+Campanella 93790 Hasle,asle,975.000,27-03-2017,Alm. Salg,21.195,3,Sommerhus,46,1942,-2 %,Aktuel værdi
+Skovkanten 18. L403790 Hasle,asle,995.000,23-03-2017,Alm. Salg,9.950,5,Sommerhus,100,2001,0 %,Aktuel værdi
+Vestergade 433790 Hasle,asle,545.000,16-03-2017,Alm. Salg,5.923,2,Rækkehus,92,1850,,Aktuel værdi
+Rubinvej 2. L033790 Hasle,asle,1.200.000,10-03-2017,Alm. Salg,9.756,5,Sommerhus,123,1999,,Aktuel værdi
+Svalhøjvej 503790 Hasle,asle,247.500,09-03-2017,Fam. Salg,1.819,6,Villa,136,1947,-58 %,Aktuel værdi
+Kirkegade 183790 Hasle,asle,445.000,07-03-2017,Alm. Salg,4.684,4,Rækkehus,95,1900,-1 %,Aktuel værdi
+Hasle Marina 263790 Hasle,asle,1.700.000,02-03-2017,Alm. Salg,18.888,5,Rækkehus,90,2003,-6 %,Aktuel værdi
+Svalhøjvej 703790 Hasle,asle,265.000,20-02-2017,Alm. Salg,2.598,4,Villa,102,1902,0 %,Aktuel værdi
+Borregærdet 133790 Hasle,asle,1.200.000,16-02-2017,Alm. Salg,14.117,4,Sommerhus,85,1973,,Aktuel værdi
+"Storegade 75, 13790 Hasle",asle,1.387.995,16-02-2017,Alm. Salg,8.069,4,Lejlighed,172,1957,,Aktuel værdi
+Kirkedalsvej 273790 Hasle,asle,5.190.000,14-02-2017,Alm. Salg,25.441,5,Stuehus,204,1803,,
+Aabyvej 263790 Hasle,asle,260.000,06-02-2017,Alm. Salg,2.241,5,Villa,116,1951,-12 %,Aktuel værdi
+Kirkedalsvej 303790 Hasle,asle,980.000,06-02-2017,Fam. Salg,6.012,7,Stuehus,163,1850,,
+Hasle Marina 383790 Hasle,asle,2.450.000,05-02-2017,Alm. Salg,20.081,5,Rækkehus,122,2003,,Aktuel værdi
+Rubinvej 2. L083790 Hasle,asle,1.150.000,01-02-2017,Alm. Salg,9.349,5,Sommerhus,123,1999,,Aktuel værdi
+Storegade 173790 Hasle,asle,350.000,24-01-2017,Alm. Salg,4.320,7,Rækkehus,81,1887,,Aktuel værdi
+Hasle Marina 293790 Hasle,asle,727.829,20-01-2017,Fam. Salg,8.086,5,Rækkehus,90,2006,,Aktuel værdi
+Vestergade 203790 Hasle,asle,365.000,19-01-2017,Andet,2.786,4,Villa,131,1911,,Aktuel værdi
+Hasle Feriepark 713790 Hasle,asle,370.000,17-01-2017,Alm. Salg,7.872,3,Sommerhus,47,1974,,Aktuel værdi
+Heroldsgade 133790 Hasle,asle,400.000,16-01-2017,Alm. Salg,4.705,4,Rækkehus,85,1890,-6 %,Aktuel værdi
+Gammeltoft 113790 Hasle,asle,1.450.000,02-01-2017,Alm. Salg,7.923,5,Villa,183,1978,-2 %,Aktuel værdi
+Kirkebyen 253790 Hasle,asle,60.000,20-12-2016,Alm. Salg,606,5,Villa,99,1935,,Aktuel værdi
+Hasle Feriepark 543790 Hasle,asle,400.000,15-12-2016,Alm. Salg,8.333,3,Sommerhus,48,1974,,Aktuel værdi
+Nørregade 313790 Hasle,asle,875.000,06-12-2016,Alm. Salg,5.872,4,Rækkehus,149,1877,0 %,Aktuel værdi
+Storegade 863790 Hasle,asle,875.000,29-11-2016,Alm. Salg,6.118,5,Villa,143,1877,-2 %,Aktuel værdi
+Strandvejen 113790 Hasle,asle,2.975.000,28-11-2016,Alm. Salg,18.829,5,Villa,158,1953,-7 %,Aktuel værdi
+Hasle Hytteby 343790 Hasle,asle,140.000,17-11-2016,Alm. Salg,11.666,1,Sommerhus,12,1986,-3 %,Aktuel værdi
+Fuglebakken 153790 Hasle,asle,1.960.000,16-11-2016,Alm. Salg,17.043,5,Sommerhus,115,2009,,Aktuel værdi
+Toftegårdsvej 283790 Hasle,asle,695.000,14-11-2016,Alm. Salg,8.475,3,Sommerhus,82,1940,0 %,Aktuel værdi
+Skovkanten 8. L253790 Hasle,asle,1.000.000,10-11-2016,Alm. Salg,8.130,5,Sommerhus,123,2002,-9 %,Aktuel værdi
+Rubinvej 2. L023790 Hasle,asle,1.000.000,08-11-2016,Alm. Salg,8.130,5,Sommerhus,123,1999,,Aktuel værdi
+Skovkanten 17. L363790 Hasle,asle,1.075.000,07-11-2016,Alm. Salg,8.739,5,Sommerhus,123,2004,-6 %,Aktuel værdi
+Tofteløkken 63790 Hasle,asle,1.045.000,07-11-2016,Alm. Salg,6.411,5,Villa,163,1977,-5 %,Aktuel værdi
+Sildetorvet 13790 Hasle,asle,245.000,19-10-2016,Alm. Salg,2.882,3,Rækkehus,85,1827,0 %,Aktuel værdi
+Strandgade 73790 Hasle,asle,300.000,17-10-2016,Fam. Salg,4.166,3,Rækkehus,72,1875,,Aktuel værdi
+Svalhøjvej 23790 Hasle,asle,775.000,11-10-2016,Alm. Salg,3.780,7,Villa,205,1907,,Aktuel værdi
+Hasle Hytteby 93790 Hasle,asle,125.000,05-10-2016,Alm. Salg,10.416,1,Sommerhus,12,1986,,Aktuel værdi
+Vang 523790 Hasle,asle,1.575.000,30-09-2016,Alm. Salg,26.250,4,Sommerhus,60,1962,-2 %,Aktuel værdi
+Løkken 13790 Hasle,asle,319.000,29-09-2016,Fam. Salg,8.861,3,Sommerhus,36,1993,,Aktuel værdi
+Krogholmsvej 73790 Hasle,asle,381.280,20-09-2016,Andet,2.072,6,Villa,184,1890,,Aktuel værdi
+Paradisvej 223790 Hasle,asle,995.000,19-09-2016,Alm. Salg,9.386,3,Sommerhus,106,1890,0 %,Aktuel værdi
+Teglkåsvej 383790 Hasle,asle,750.000,19-09-2016,Alm. Salg,10.416,3,Villa,72,1887,,Aktuel værdi
+Mølleparken 173790 Hasle,asle,500.000,16-09-2016,Alm. Salg,4.629,4,Villa,108,1985,-9 %,Aktuel værdi
+Storegade 393790 Hasle,asle,410.000,15-09-2016,Alm. Salg,5.000,4,Rækkehus,82,1870,-9 %,Aktuel værdi
+Ved Brønden 23790 Hasle,asle,374.000,12-09-2016,Auktion,7.333,3,Sommerhus,51,1972,-30 %,Aktuel værdi
+Ved Brønden 73790 Hasle,asle,1.460.000,09-09-2016,Alm. Salg,14.747,5,Sommerhus,99,1999,-11 %,Aktuel værdi
+Bagå 33790 Hasle,asle,495.000,01-09-2016,Alm. Salg,6.036,3,Villa,82,1937,0 %,Aktuel værdi
+Strandgade 213790 Hasle,asle,395.000,31-08-2016,Alm. Salg,3.798,4,Villa,104,1900,0 %,Aktuel værdi
+Grønnegade 103790 Hasle,asle,1.045.000,25-08-2016,Alm. Salg,6.920,4,Villa,151,1750,0 %,Aktuel værdi
+Vang 593790 Hasle,asle,850.000,22-08-2016,Alm. Salg,11.643,3,Villa,73,1938,0 %,Aktuel værdi
+Vang 573790 Hasle,asle,960.000,15-08-2016,Alm. Salg,10.434,5,Sommerhus,92,1974,-4 %,Aktuel værdi
+Ved Brønden 43790 Hasle,asle,500.000,04-08-2016,Alm. Salg,9.259,3,Sommerhus,54,1969,-12 %,Aktuel værdi
+Bagå 43790 Hasle,asle,925.000,27-07-2016,Alm. Salg,6.954,5,Villa,133,1952,-3 %,Aktuel værdi
+Østergade 403790 Hasle,asle,575.000,25-07-2016,Alm. Salg,4.389,4,Rækkehus,131,1913,-4 %,Aktuel værdi
+Toftelunden 263790 Hasle,asle,1.400.000,20-07-2016,Alm. Salg,7.070,5,Villa,198,1977,0 %,Aktuel værdi
+Vang 683790 Hasle,asle,2.150.000,15-07-2016,Alm. Salg,16.044,4,Villa,134,1897,0 %,Aktuel værdi
+Krummevej 13790 Hasle,asle,400.000,10-07-2016,Alm. Salg,3.252,4,Villa,123,1850,,Aktuel værdi
+Strandgade 113790 Hasle,asle,795.000,06-07-2016,Alm. Salg,6.259,5,Rækkehus,127,1929,0 %,Aktuel værdi
+Helligpedervej 73790 Hasle,asle,2.125.000,04-07-2016,Alm. Salg,14.166,5,Villa,150,1850,-15 %,Aktuel værdi
+Udmarksvej 143790 Hasle,asle,2.350.000,02-07-2016,Alm. Salg,12.239,7,Stuehus,192,1870,0 %,
+Sandløkkegade 93790 Hasle,asle,680.000,27-06-2016,Alm. Salg,5.037,4,Villa,135,1897,-2 %,Aktuel værdi
+Toldbodgade 23790 Hasle,asle,212.500,17-06-2016,Fam. Salg,1.622,4,Rækkehus,131,1897,,Aktuel værdi
+Vestergade 153790 Hasle,asle,325.000,16-06-2016,Alm. Salg,2.407,5,Villa,135,1852,-13 %,Aktuel værdi
+Campanella 183790 Hasle,asle,1.026.000,15-06-2016,Alm. Salg,18.654,4,Sommerhus,55,1942,29 %,Aktuel værdi
+Hasle Marina 463790 Hasle,asle,1.600.000,15-06-2016,Alm. Salg,17.777,5,Rækkehus,90,2003,,Aktuel værdi
+Storegade 773790 Hasle,asle,1.295.000,15-06-2016,Alm. Salg,4.137,14,Rækkehus,313,1900,0 %,Aktuel værdi
+Knarregårdsvej 93790 Hasle,asle,1.020.000,13-06-2016,Alm. Salg,4.857,5,Stuehus,210,1900,-5 %,
+Brænderivej 93790 Hasle,asle,825.000,09-06-2016,Alm. Salg,7.300,4,Villa,113,1971,-3 %,Aktuel værdi
+Toftekrogen 13790 Hasle,asle,795.000,03-06-2016,Alm. Salg,3.822,5,Villa,208,1978,0 %,Aktuel værdi
+Vang 413790 Hasle,asle,2.600.000,27-05-2016,Alm. Salg,13.612,6,Villa,191,1934,-4 %,Aktuel værdi
+Hasle Hytteby 363790 Hasle,asle,150.000,23-05-2016,Alm. Salg,12.500,1,Sommerhus,12,1986,,Aktuel værdi
+Jydegårdsvej 133790 Hasle,asle,1.110.000,06-05-2016,Alm. Salg,12.197,4,Sommerhus,91,2003,1 %,Aktuel værdi
+Hasle Feriepark 663790 Hasle,asle,200.000,02-05-2016,Fam. Salg,4.166,3,Sommerhus,48,1974,,Aktuel værdi
+Krummeledvej 163790 Hasle,asle,1.495.000,13-04-2016,Alm. Salg,4.853,7,Villa,308,1877,0 %,Aktuel værdi
+Kirkevej 183790 Hasle,asle,1.550.000,13-04-2016,Alm. Salg,7.788,6,Stuehus,199,1900,,
+Borregærdet 93790 Hasle,asle,1.450.000,11-04-2016,Alm. Salg,18.831,4,Sommerhus,77,1974,,Aktuel værdi
+Skovkanten 343790 Hasle,asle,875.000,04-04-2016,Alm. Salg,6.481,4,Sommerhus,135,1994,0 %,Aktuel værdi
+Fælledvej 613790 Hasle,asle,550.000,23-03-2016,Alm. Salg,7.432,4,Villa,74,1850,-8 %,Aktuel værdi
+Tassevej 93790 Hasle,asle,265.000,21-03-2016,Fam. Salg,1.358,6,Stuehus,195,1892,,
+Storegade 993790 Hasle,asle,500.000,15-03-2016,Alm. Salg,2.777,7,Stuehus,180,1800,-16 %,
+Finnedalsvej 23790 Hasle,asle,650.000,12-03-2016,Alm. Salg,18.055,2,Sommerhus,36,1960,,Aktuel værdi
+Vestergade 413790 Hasle,asle,250.000,01-03-2016,Fam. Salg,3.048,5,Rækkehus,82,1870,,Aktuel værdi
+Fuglebakken 73790 Hasle,asle,550.041,20-02-2016,Alm. Salg,7.143,5,Sommerhus,77,1982,-54 %,Aktuel værdi
+Krummeledvej 43790 Hasle,asle,650.000,21-12-2015,Alm. Salg,5.555,5,Stuehus,117,1957,-6 %,
+Storegade 723790 Hasle,asle,1.100.000,02-12-2015,Alm. Salg,6.508,6,Rækkehus,169,1880,-8 %,Aktuel værdi
+Storegade 873790 Hasle,asle,600.000,30-11-2015,Andet,6.666,4,Rækkehus,90,1850,,Aktuel værdi
+Toftebakken 33790 Hasle,asle,965.000,27-11-2015,Alm. Salg,7.201,4,Villa,134,1974,0 %,Aktuel værdi
+Borrelyngvej 13790 Hasle,asle,1.400.000,23-11-2015,Alm. Salg,9.271,5,Stuehus,151,1907,0 %,
+Damløkkevej 13790 Hasle,asle,575.000,17-11-2015,Alm. Salg,3.859,4,Villa,149,1974,-12 %,Aktuel værdi
+Vang 283790 Hasle,asle,850.000,16-11-2015,Alm. Salg,6.028,5,Villa,141,1850,-15 %,Aktuel værdi
+Udmarksvej 33790 Hasle,asle,500.000,12-11-2015,Fam. Salg,5.617,7,Villa,89,1890,,Aktuel værdi
+Teglkåsvej 663790 Hasle,asle,2.400.000,09-11-2015,Alm. Salg,16.216,6,Villa,148,1800,-6 %,Aktuel værdi
+Møllebakken 13A3790 Hasle,asle,1.350.000,19-10-2015,Alm. Salg,8.035,5,Villa,168,1979,-7 %,Aktuel værdi
+Fuglesangsvej 123790 Hasle,asle,312.242,01-10-2015,Fam. Salg,2.497,6,Sommerhus,125,1890,,Aktuel værdi
+Østergade 1B3790 Hasle,asle,475.000,30-09-2015,Alm. Salg,3.958,4,Villa,120,1964,-14 %,Aktuel værdi
+Kirkegade 163790 Hasle,asle,300.000,30-09-2015,Alm. Salg,2.400,4,Rækkehus,125,1905,0 %,Aktuel værdi
+Svalhøjvej 403790 Hasle,asle,332.076,28-09-2015,Alm. Salg,1.685,6,Stuehus,197,1912,-51 %,
+Ringedalsvej 53790 Hasle,asle,1.800.000,15-09-2015,Alm. Salg,13.333,6,Sommerhus,135,1899,-3 %,Aktuel værdi
+Nydamsvej 63790 Hasle,asle,3.990.000,09-09-2015,Alm. Salg,24.937,4,Stuehus,160,1865,,
+Strandgade 293790 Hasle,asle,630.000,08-09-2015,Alm. Salg,6.057,4,Rækkehus,104,1953,-9 %,Aktuel værdi
+Nydamsvej 43790 Hasle,asle,350.000,02-09-2015,Alm. Salg,1.842,6,Stuehus,190,1827,-29 %,
+Teglkåsvej 183790 Hasle,asle,1.950.000,01-09-2015,Alm. Salg,13.829,5,Villa,141,1877,-2 %,Aktuel værdi
+Borrelyngvej 393790 Hasle,asle,7.250.000,28-08-2015,Alm. Salg,11.983,8,Stuehus,605,1820,45 %,
+Kirkebyen 553790 Hasle,asle,885.000,25-08-2015,Alm. Salg,4.809,5,Stuehus,184,1777,0 %,
+Vestergade 243790 Hasle,asle,50.000,24-08-2015,Auktion,378,5,Villa,132,1902,,Aktuel værdi
+Toftekrogen 83790 Hasle,asle,456.428,17-08-2015,Fam. Salg,3.868,5,Villa,118,1977,,Aktuel værdi
+Rubinvej 2. L053790 Hasle,asle,975.000,17-08-2015,Alm. Salg,7.926,5,Sommerhus,123,1999,,Aktuel værdi
+Julegade 83790 Hasle,asle,323.547,14-08-2015,Alm. Salg,3.370,3,Rækkehus,96,1895,,Aktuel værdi
+Gasværksvej 83790 Hasle,asle,250.000,13-08-2015,Alm. Salg,2.380,3,Rækkehus,105,1909,-15 %,Aktuel værdi
+Storegade 653790 Hasle,asle,1.200.000,13-08-2015,Alm. Salg,4.494,9,Rækkehus,267,1908,-7 %,Aktuel værdi
+Campanella 23790 Hasle,asle,439.300,12-08-2015,Alm. Salg,7.574,4,Sommerhus,58,1975,,Aktuel værdi
+Finnedalsvej 63790 Hasle,asle,422.600,30-07-2015,Fam. Salg,6.037,4,Sommerhus,70,1962,,Aktuel værdi
+Tofteløkken 73790 Hasle,asle,470.000,28-07-2015,Fam. Salg,2.848,5,Villa,165,1978,,Aktuel værdi
+Gasværksvej 123790 Hasle,asle,300.000,16-07-2015,Alm. Salg,3.296,3,Rækkehus,91,1910,-14 %,Aktuel værdi
+Campanella 123790 Hasle,asle,501.500,13-07-2015,Fam. Salg,11.662,3,Sommerhus,43,1942,,Aktuel værdi
+Kirkedalsvej 133790 Hasle,asle,700.000,09-07-2015,Alm. Salg,2.800,11,Sommerhus,250,1850,-7 %,Aktuel værdi
+Hasle Feriepark 323790 Hasle,asle,425.000,30-06-2015,Alm. Salg,9.042,3,Sommerhus,47,1974,,Aktuel værdi
+Kumlehøjvej 173790 Hasle,asle,850.000,29-06-2015,Alm. Salg,6.028,6,Stuehus,141,1886,0 %,
+Dambakken 33790 Hasle,asle,425.000,17-06-2015,Alm. Salg,5.448,3,Villa,78,1954,0 %,Aktuel værdi
+Finnedalsvej 33790 Hasle,asle,2.250.000,10-06-2015,Alm. Salg,15.845,6,Villa,142,1939,-10 %,Aktuel værdi
+Dambakken 223790 Hasle,asle,815.000,09-06-2015,Alm. Salg,3.313,8,Villa,246,1965,-18 %,Aktuel værdi
+Tofte 63790 Hasle,asle,795.000,09-06-2015,Alm. Salg,7.571,7,Villa,105,1936,-6 %,Aktuel værdi
+Toftebakken 53790 Hasle,asle,1.125.000,29-05-2015,Alm. Salg,6.617,5,Villa,170,1974,,Aktuel værdi
+Vang 733790 Hasle,asle,1.000.000,27-05-2015,Alm. Salg,9.090,3,Villa,110,1900,-20 %,Aktuel værdi
+Storegade 103790 Hasle,asle,485.000,06-05-2015,Alm. Salg,5.511,3,Villa,88,1963,0 %,Aktuel værdi
+Vystebyvej 13790 Hasle,asle,450.000,05-05-2015,Andet,2.922,6,Stuehus,154,1926,-59 %,
+Kumlehøjvej 13790 Hasle,asle,1.000.000,30-04-2015,Alm. Salg,4.385,9,Stuehus,228,1963,,
+Løkken 33790 Hasle,asle,850.000,17-04-2015,Alm. Salg,17.708,3,Sommerhus,48,1957,0 %,Aktuel værdi
+Toftegårdsvej 163790 Hasle,asle,500.000,16-04-2015,Alm. Salg,5.494,4,Rækkehus,91,1917,-5 %,Aktuel værdi
+Simonsgårdsvej 23790 Hasle,asle,975.000,13-04-2015,Alm. Salg,6.055,5,Stuehus,161,1860,-2 %,
+Hasle Feriepark 563790 Hasle,asle,385.000,29-03-2015,Alm. Salg,8.191,3,Sommerhus,47,1974,,Aktuel værdi
+Teglkåsvej 123790 Hasle,asle,2.450.000,26-03-2015,Alm. Salg,13.841,5,Villa,177,1870,,Aktuel værdi
+Toftelunden 223790 Hasle,asle,675.000,25-03-2015,Alm. Salg,5.152,4,Villa,131,1978,-10 %,Aktuel værdi
+Fælledvej 493790 Hasle,asle,500.000,24-03-2015,Alm. Salg,4.201,4,Villa,119,1930,0 %,Aktuel værdi
+Hasle Marina 473790 Hasle,asle,1.850.000,24-03-2015,Alm. Salg,14.453,6,Rækkehus,128,2006,-14 %,Aktuel værdi
+Præstegade 73790 Hasle,asle,200.000,24-02-2015,Alm. Salg,2.000,2,Rækkehus,100,1785,-32 %,Aktuel værdi
+Hasle Hytteby 13790 Hasle,asle,157.000,20-02-2015,Alm. Salg,13.083,1,Sommerhus,12,1986,-7 %,Aktuel værdi
+Svalhøjvej 543790 Hasle,asle,218.523,18-02-2015,Alm. Salg,1.496,5,Villa,146,1777,,Aktuel værdi
+Hc Sierstedsvej 13790 Hasle,asle,275.000,11-02-2015,Alm. Salg,5.851,2,Sommerhus,47,1959,,Aktuel værdi
+Brænderivej 133790 Hasle,asle,730.000,08-02-2015,Alm. Salg,6.460,4,Villa,113,1973,,Aktuel værdi
+Sandløkkegade 133790 Hasle,asle,650.000,03-02-2015,Fam. Salg,6.770,5,Rækkehus,96,1900,,Aktuel værdi
+Almestræde 33790 Hasle,asle,200.000,19-01-2015,Alm. Salg,2.000,3,Villa,100,1880,,Aktuel værdi
+Vang 693790 Hasle,asle,646.000,06-01-2015,Fam. Salg,10.253,3,Sommerhus,63,1959,,Aktuel værdi
+Nørregade 113790 Hasle,asle,925.000,17-12-2014,Alm. Salg,7.341,3,Villa,126,1976,,Aktuel værdi
+Hasle Marina 543790 Hasle,asle,2.350.000,28-11-2014,Andet,19.747,4,Rækkehus,119,2003,-6 %,Aktuel værdi
+Hasle Hytteby 393790 Hasle,asle,140.000,26-11-2014,Alm. Salg,11.666,1,Sommerhus,12,1986,,Aktuel værdi
+Storegade 70A3790 Hasle,asle,391.000,25-11-2014,Alm. Salg,4.115,5,Rækkehus,95,1910,,Aktuel værdi
+Knarregårdsvej 133790 Hasle,asle,1.900.000,21-11-2014,Alm. Salg,6.959,9,Stuehus,273,1874,-17 %,
+Tofteløkken 43790 Hasle,asle,950.000,13-11-2014,Alm. Salg,5.900,5,Villa,161,1977,-10 %,Aktuel værdi
+Østergade 63790 Hasle,asle,498.000,07-11-2014,Alm. Salg,5.297,2,Rækkehus,94,1940,0 %,Aktuel værdi
+Pellegårdsvej 83790 Hasle,asle,525.000,07-11-2014,Alm. Salg,7.000,3,Sommerhus,75,1900,-9 %,Aktuel værdi
+Hc Sierstedsvej 233790 Hasle,asle,469.000,05-11-2014,Alm. Salg,7.564,4,Sommerhus,62,1978,0 %,Aktuel værdi
+Gasværksvej 143790 Hasle,asle,60.000,30-10-2014,Alm. Salg,705,2,Rækkehus,85,1911,-39 %,Aktuel værdi
+Vestergade 63790 Hasle,asle,675.000,30-10-2014,Alm. Salg,6.958,4,Villa,97,1900,,Aktuel værdi
+Kirkebyen 33790 Hasle,asle,60.000,27-10-2014,Alm. Salg,1.153,3,Villa,52,1947,-20 %,Aktuel værdi
+Kirkebyen 13790 Hasle,asle,90.000,27-10-2014,Alm. Salg,978,5,Villa,92,1960,-28 %,Aktuel værdi
+Vang 253790 Hasle,asle,835.000,24-10-2014,Alm. Salg,6.844,3,Villa,122,1877,-7 %,Aktuel værdi
+Byledsgade 23790 Hasle,asle,220.000,16-10-2014,Alm. Salg,1.774,5,Villa,124,1944,0 %,Aktuel værdi
+Bagå 5B3790 Hasle,asle,74.360,14-10-2014,Alm. Salg,590,4,Villa,126,2016,,Aktuel værdi
+Sandløkkegade 193790 Hasle,asle,260.000,13-10-2014,Alm. Salg,3.939,2,Rækkehus,66,1880,-5 %,Aktuel værdi
+Toftelunden 443790 Hasle,asle,925.000,03-10-2014,Alm. Salg,7.708,4,Villa,120,1985,,Aktuel værdi
+Vestergade 133790 Hasle,asle,1.050.000,02-10-2014,Alm. Salg,7.394,5,Rækkehus,142,1907,-3 %,Aktuel værdi
+Ringedalsvej 103790 Hasle,asle,3.000.000,30-09-2014,Alm. Salg,18.518,5,Villa,162,1933,,Aktuel værdi
+Ved Brønden 33790 Hasle,asle,1.650.000,30-09-2014,Alm. Salg,20.370,3,Sommerhus,81,2001,,Aktuel værdi
+Toftebakken 13790 Hasle,asle,625.000,28-09-2014,Alm. Salg,3.765,5,Villa,166,1975,-7 %,Aktuel værdi
+Ved Brønden 1A3790 Hasle,asle,1.800.000,27-09-2014,Alm. Salg,14.876,4,Sommerhus,121,2007,-10 %,Aktuel værdi
+Vestergade 103790 Hasle,asle,698.000,19-09-2014,Alm. Salg,6.069,5,Rækkehus,115,1936,0 %,Aktuel værdi
+Vang 99A3790 Hasle,asle,500.000,17-09-2014,Alm. Salg,8.333,3,Sommerhus,60,1877,,Aktuel værdi
+Knarregårdsvej 153790 Hasle,asle,15.265.400,17-09-2014,Fam. Salg,57.388,9,Stuehus,266,1800,,
+Borrelyngvej 93790 Hasle,asle,1.295.000,28-08-2014,Alm. Salg,5.487,7,Villa,236,1911,0 %,Aktuel værdi
+Vang 643790 Hasle,asle,1.050.000,25-08-2014,Alm. Salg,11.290,5,Rækkehus,93,1899,-5 %,Aktuel værdi
+Borrelyngvej 413790 Hasle,asle,6.000.000,22-08-2014,Alm. Salg,13.157,6,Stuehus,456,1850,,
+Hasle Feriepark 373790 Hasle,asle,330.402,22-08-2014,Fam. Salg,6.883,3,Sommerhus,48,1974,,Aktuel værdi
+Levkavej 123790 Hasle,asle,510.000,21-08-2014,Fam. Salg,8.500,3,Sommerhus,60,1994,,Aktuel værdi
+Borrelyngvej 63790 Hasle,asle,250.000,21-08-2014,Alm. Salg,2.049,6,Villa,122,1935,,Aktuel værdi
+Vang 433790 Hasle,asle,1.700.000,20-08-2014,Alm. Salg,13.178,5,Villa,129,1934,0 %,Aktuel værdi
+Ved Brønden 203790 Hasle,asle,995.000,20-08-2014,Alm. Salg,11.705,5,Sommerhus,85,1981,0 %,Aktuel værdi
+Toldbodgade 13790 Hasle,asle,347.000,15-08-2014,Alm. Salg,2.628,5,Villa,132,1935,-12 %,Aktuel værdi
+Kirkebyen 193790 Hasle,asle,195.000,08-08-2014,Alm. Salg,1.500,5,Villa,130,1951,0 %,Aktuel værdi
+Hasle Feriepark 273790 Hasle,asle,400.000,08-08-2014,Alm. Salg,8.510,3,Sommerhus,47,1974,,Aktuel værdi
+Toftegårdsvej 383790 Hasle,asle,250.000,07-08-2014,Alm. Salg,2.808,2,Rækkehus,89,1900,0 %,Aktuel værdi
+Borrelyngvej 123790 Hasle,asle,850.000,07-08-2014,Alm. Salg,6.250,5,Stuehus,136,1968,114 %,
+Rosendalevej 203790 Hasle,asle,925.000,04-08-2014,Alm. Salg,4.262,7,Stuehus,217,1777,-7 %,
+Tassevej 63790 Hasle,asle,195.000,24-07-2014,Alm. Salg,2.321,4,Sommerhus,84,1845,0 %,Aktuel værdi
+Toftekrogen 43790 Hasle,asle,400.000,11-07-2014,Fam. Salg,1.574,6,Rækkehus,254,1977,,Aktuel værdi
+Heroldsgade 103790 Hasle,asle,420.903,02-07-2014,Fam. Salg,3.507,6,Villa,120,1945,,Aktuel værdi
+Hasle Feriepark 453790 Hasle,asle,480.000,23-06-2014,Alm. Salg,10.212,3,Sommerhus,47,1974,,Aktuel værdi
+Nydamsvej 23790 Hasle,asle,350.000,19-06-2014,Alm. Salg,2.229,6,Villa,157,1850,0 %,Aktuel værdi
+Fælledvej 433790 Hasle,asle,320.000,17-06-2014,Alm. Salg,2.962,4,Villa,108,1936,-17 %,Aktuel værdi
+Strandvejen 203790 Hasle,asle,2.600.000,11-06-2014,Alm. Salg,12.500,9,Villa,208,1876,45 %,Aktuel værdi
+Krakvej 23790 Hasle,asle,765.000,03-06-2014,Alm. Salg,3.227,7,Villa,237,1912,-4 %,Aktuel værdi
+Løkken 63790 Hasle,asle,139.462,19-05-2014,Auktion,1.483,4,Rækkehus,94,1930,-75 %,Aktuel værdi
+Rosendalevej 163790 Hasle,asle,675.000,24-04-2014,Alm. Salg,3.443,5,Villa,196,1825,-15 %,Aktuel værdi
+Møllebakken 133790 Hasle,asle,500.000,16-04-2014,Alm. Salg,3.731,4,Villa,134,1968,-20 %,Aktuel værdi
+Vang 393790 Hasle,asle,325.000,09-04-2014,Fam. Salg,4.062,4,Villa,80,1938,,Aktuel værdi
+Vang 793790 Hasle,asle,2.350.000,09-04-2014,Alm. Salg,11.298,6,Villa,208,1900,-6 %,Aktuel værdi
+Kirkebyen 73790 Hasle,asle,195.000,26-03-2014,Alm. Salg,1.535,4,Villa,127,1950,0 %,Aktuel værdi
+Hasle Marina 163790 Hasle,asle,740.672,18-03-2014,Fam. Salg,8.229,3,Rækkehus,90,2004,,Aktuel værdi
+Julegade 53790 Hasle,asle,535.000,05-03-2014,Alm. Salg,4.314,6,Rækkehus,124,1930,0 %,Aktuel værdi
+Hasle Marina 193790 Hasle,asle,491.829,03-03-2014,Fam. Salg,3.670,6,Rækkehus,134,2006,,Aktuel værdi
+Kirkebyen 273790 Hasle,asle,600.000,18-02-2014,Alm. Salg,2.816,8,Villa,213,1970,-14 %,Aktuel værdi
+Toftegårdsvej 153790 Hasle,asle,570.000,03-02-2014,Alm. Salg,3.149,4,Villa,181,1900,,Aktuel værdi
+Hasle Feriepark 383790 Hasle,asle,598.000,03-02-2014,Fam. Salg,12.723,3,Sommerhus,47,1974,,Aktuel værdi
+Hc Sierstedsvej 153790 Hasle,asle,1.450.000,22-01-2014,Alm. Salg,13.942,5,Sommerhus,104,2006,-3 %,Aktuel værdi
+Kirkebyen 153790 Hasle,asle,378.400,20-01-2014,Fam. Salg,2.802,4,Villa,135,1932,,Aktuel værdi
+Hasle Feriepark 753790 Hasle,asle,3.300.000,17-01-2014,Alm. Salg,32.352,5,Rækkehus,102,1986,,Aktuel værdi
+Krakvej 53790 Hasle,asle,235.000,16-01-2014,Alm. Salg,3.133,4,Villa,75,1906,,Aktuel værdi
+Hasle Feriepark 703790 Hasle,asle,300.000,06-01-2014,Alm. Salg,6.382,3,Sommerhus,47,1974,,Aktuel værdi
+Møllebakken 123790 Hasle,asle,720.000,04-12-2013,Alm. Salg,4.832,6,Villa,149,1967,-3 %,Aktuel værdi
+Fælledvej 153790 Hasle,asle,485.000,30-11-2013,Alm. Salg,3.943,5,Villa,123,1897,-13 %,Aktuel værdi
+Dambakken 43790 Hasle,asle,535.000,08-11-2013,Alm. Salg,4.495,5,Villa,119,1962,-3 %,Aktuel værdi
+Storegade 323790 Hasle,asle,200.000,16-10-2013,Alm. Salg,1.587,7,Rækkehus,126,1895,-32 %,Aktuel værdi
+Storegade 553790 Hasle,asle,550.000,16-10-2013,Alm. Salg,6.470,2,Sommerhus,85,1890,,Aktuel værdi
+Dambakken 83790 Hasle,asle,400.000,14-10-2013,Alm. Salg,3.636,3,Villa,110,1955,-11 %,Aktuel værdi
+Svalhøjvej 303790 Hasle,asle,1.000.000,03-10-2013,Alm. Salg,5.524,4,Stuehus,181,1912,-16 %,
+Storegade 683790 Hasle,asle,190.000,27-09-2013,Alm. Salg,1.310,6,Rækkehus,145,1830,-36 %,Aktuel værdi
+Storegade 963790 Hasle,asle,175.000,26-09-2013,Alm. Salg,2.302,3,Rækkehus,76,1877,0 %,Aktuel værdi
+Gasværksvej 9A3790 Hasle,asle,425.000,18-09-2013,Alm. Salg,3.483,3,Villa,122,1961,-19 %,Aktuel værdi
+Toftegårdsvej 34A3790 Hasle,asle,600.000,10-09-2013,Alm. Salg,10.714,3,Sommerhus,56,1961,-14 %,Aktuel værdi
+Hasle Feriepark 23790 Hasle,asle,525.000,10-09-2013,Alm. Salg,11.170,3,Sommerhus,47,1974,,Aktuel værdi
+Ellebakken 123790 Hasle,asle,487.000,06-09-2013,Alm. Salg,4.509,5,Villa,108,1968,-11 %,Aktuel værdi
+Fælledvej 63790 Hasle,asle,575.000,13-08-2013,Alm. Salg,4.107,6,Rækkehus,140,1890,-3 %,Aktuel værdi
+Hasle Feriepark 683790 Hasle,asle,445.000,10-08-2013,Alm. Salg,9.468,3,Sommerhus,47,1974,,Aktuel værdi
+Fælledvej 393790 Hasle,asle,600.000,20-06-2013,Alm. Salg,5.769,4,Villa,104,1955,,Aktuel værdi
+Nørre Krak 13790 Hasle,asle,2.880.000,17-06-2013,Alm. Salg,23.414,3,Stuehus,123,1986,,
+Kirkevej 113790 Hasle,asle,195.000,04-06-2013,Alm. Salg,979,6,Stuehus,199,1852,,
+Krakvej 123790 Hasle,asle,930.000,03-06-2013,Alm. Salg,4.650,6,Villa,200,1800,-27 %,Aktuel værdi
+Aabyvej 223790 Hasle,asle,300.000,31-05-2013,Alm. Salg,2.727,3,Villa,110,1897,,Aktuel værdi
+Skovkanten 14. L383790 Hasle,asle,895.000,13-05-2013,Alm. Salg,8.950,5,Sommerhus,100,2001,-10 %,Aktuel værdi
+Vestergade 273790 Hasle,asle,130.000,13-05-2013,Auktion,1.666,4,Rækkehus,78,1937,,Aktuel værdi
+Paradisvej 133790 Hasle,asle,370.000,01-05-2013,Fam. Salg,3.700,3,Villa,100,1890,,Aktuel værdi
+Hasle Hytteby 163790 Hasle,asle,193.000,30-04-2013,Alm. Salg,16.083,1,Sommerhus,12,1986,,Aktuel værdi
+Storegade 533790 Hasle,asle,220.000,29-04-2013,Alm. Salg,3.333,2,Rækkehus,66,1880,,Aktuel værdi
+Ellebakken 83790 Hasle,asle,830.000,23-04-2013,Alm. Salg,5.424,5,Villa,153,1967,-7 %,Aktuel værdi
+Vestergade 403790 Hasle,asle,400.000,23-04-2013,Alm. Salg,2.777,6,Villa,144,1899,-19 %,Aktuel værdi
+Storegade 283790 Hasle,asle,87.500,22-04-2013,Auktion,951,3,Rækkehus,92,1877,-70 %,Aktuel værdi
+Fuglebakken 263790 Hasle,asle,300.000,10-04-2013,Alm. Salg,4.000,4,Sommerhus,75,1973,,Aktuel værdi
+Østergade 323790 Hasle,asle,100.000,08-04-2013,Auktion,769,4,Villa,130,1897,,Aktuel værdi
+Hasselvej 123790 Hasle,asle,685.000,05-04-2013,Alm. Salg,4.928,4,Villa,139,1977,-14 %,Aktuel værdi
+Paradisvej 173790 Hasle,asle,2.500.000,03-04-2013,Alm. Salg,11.574,6,Villa,216,2006,-10 %,Aktuel værdi
+Toftebakken 203790 Hasle,asle,970.000,27-03-2013,Alm. Salg,5.271,5,Villa,184,1975,-3 %,Aktuel værdi
+Grønnegade 13790 Hasle,asle,875.000,25-03-2013,Auktion,5.028,6,Villa,174,1916,,Aktuel værdi
+Fælledvej 23790 Hasle,asle,1.700.000,21-03-2013,Alm. Salg,4.116,11,Rækkehus,413,1777,-14 %,Aktuel værdi
+Nørre Krak 33790 Hasle,asle,335.000,21-03-2013,Alm. Salg,4.036,4,Stuehus,83,1904,-4 %,
+Kirkevej 163790 Hasle,asle,1.575.000,04-03-2013,Alm. Salg,6.562,8,Stuehus,240,1777,,
+Dambakken 143790 Hasle,asle,500.000,12-02-2013,Alm. Salg,2.873,5,Villa,174,1967,-20 %,Aktuel værdi
+Sildetorvet 33790 Hasle,asle,72.000,14-01-2013,Auktion,1.263,2,Rækkehus,57,1860,,Aktuel værdi
+Vestergade 28A3790 Hasle,asle,55.000,14-01-2013,Auktion,859,3,Rækkehus,64,1897,,Aktuel værdi
+Nørregade 153790 Hasle,asle,1.600.000,09-01-2013,Alm. Salg,12.121,5,Villa,132,1983,-4 %,Aktuel værdi
+Hasle Feriepark 283790 Hasle,asle,495.000,20-12-2012,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Løkkegade 103790 Hasle,asle,725.000,18-12-2012,Alm. Salg,5.492,4,Villa,132,1967,-9 %,Aktuel værdi
+Nørregade 333790 Hasle,asle,225.000,12-12-2012,Andet,2.008,4,Rækkehus,112,1875,,Aktuel værdi
+Rubinvej 2. L103790 Hasle,asle,965.000,06-12-2012,Alm. Salg,7.845,5,Sommerhus,123,1999,,Aktuel værdi
+Ved Brønden 123790 Hasle,asle,637.500,26-11-2012,Alm. Salg,8.388,4,Sommerhus,76,1980,,Aktuel værdi
+Løkken 53790 Hasle,asle,750.000,15-11-2012,Alm. Salg,13.636,4,Sommerhus,55,1957,,Aktuel værdi
+Tofteløkken 93790 Hasle,asle,725.000,19-10-2012,Alm. Salg,5.330,4,Villa,136,1978,0 %,Aktuel værdi
+Teglkåsvej 203790 Hasle,asle,1.200.000,16-10-2012,Alm. Salg,13.793,3,Villa,87,1900,0 %,Aktuel værdi
+Borregærdet 43790 Hasle,asle,850.000,29-09-2012,Alm. Salg,13.281,4,Sommerhus,64,1986,,Aktuel værdi
+Østergade 113790 Hasle,asle,433.500,12-09-2012,Fam. Salg,3.235,4,Rækkehus,134,1885,,Aktuel værdi
+Hasselvej 33790 Hasle,asle,351.500,03-09-2012,Auktion,2.169,5,Villa,162,1969,-61 %,Aktuel værdi
+Brænderivej 63790 Hasle,asle,1.115.000,24-08-2012,Alm. Salg,9.369,5,Villa,119,1972,-3 %,Aktuel værdi
+Fælledvej 223790 Hasle,asle,610.000,10-08-2012,Alm. Salg,4.485,5,Rækkehus,136,1850,-5 %,Aktuel værdi
+Tofteløkken 113790 Hasle,asle,965.000,03-08-2012,Alm. Salg,4.777,8,Villa,202,1976,-3 %,Aktuel værdi
+Hasle Marina 563790 Hasle,asle,2.030.000,26-07-2012,Alm. Salg,17.500,5,Rækkehus,116,2003,-22 %,Aktuel værdi
+Rubinvej 2. L073790 Hasle,asle,980.000,17-07-2012,Alm. Salg,7.967,5,Sommerhus,123,1999,,Aktuel værdi
+Udmarksvej 43790 Hasle,asle,2.600.000,27-06-2012,Alm. Salg,12.380,7,Stuehus,210,1870,-13 %,
+Storegade 593790 Hasle,asle,498.000,09-06-2012,Alm. Salg,4.081,5,Rækkehus,122,1860,0 %,Aktuel værdi
+Gulerodsgade 93790 Hasle,asle,110.000,29-05-2012,Alm. Salg,1.896,2,Rækkehus,58,1895,-12 %,Aktuel værdi
+Vestergade 343790 Hasle,asle,485.000,29-05-2012,Alm. Salg,6.466,4,Rækkehus,75,1900,-2 %,Aktuel værdi
+Vestergade 93790 Hasle,asle,550.000,26-05-2012,Alm. Salg,5.238,3,Rækkehus,105,1900,0 %,Aktuel værdi
+Ellebakken 103790 Hasle,asle,800.000,25-05-2012,Alm. Salg,5.161,6,Villa,155,1965,-5 %,Aktuel værdi
+Tassevej 53790 Hasle,asle,700.000,03-05-2012,Alm. Salg,5.468,5,Stuehus,128,1916,-12 %,
+Kirkedalsvej 263790 Hasle,asle,525.000,30-04-2012,Alm. Salg,4.133,5,Stuehus,127,1930,,
+Fuglesangsvej 23790 Hasle,asle,250.000,16-04-2012,Alm. Salg,943,6,Villa,265,1897,-15 %,Aktuel værdi
+Østergade 523790 Hasle,asle,300.000,12-04-2012,Alm. Salg,2.631,4,Rækkehus,114,1911,-10 %,Aktuel værdi
+Rubinvej 2. L163790 Hasle,asle,1.200.000,29-02-2012,Alm. Salg,9.756,5,Sommerhus,123,2005,,Aktuel værdi
+Vestergade 473790 Hasle,asle,150.000,13-02-2012,Auktion,1.136,5,Rækkehus,132,1914,-60 %,Aktuel værdi
+Hasle Feriepark 673790 Hasle,asle,100.655,10-02-2012,Fam. Salg,2.096,3,Sommerhus,48,1974,,Aktuel værdi
+Vestergade 313790 Hasle,asle,533.334,05-01-2012,Fam. Salg,2.576,6,Sommerhus,207,1777,,Aktuel værdi
+Fælledvej 333790 Hasle,asle,485.000,02-01-2012,Alm. Salg,4.409,3,Villa,110,1938,-33 %,Aktuel værdi
+Gulerodsgade 73790 Hasle,asle,300.000,22-12-2011,Alm. Salg,3.333,4,Rækkehus,90,1895,-22 %,Aktuel værdi
+Vang 603790 Hasle,asle,976.000,07-12-2011,Andet,6.216,7,Villa,157,1912,,Aktuel værdi
+Borrelyngvej 333790 Hasle,asle,251.000,14-11-2011,Auktion,1.530,6,Villa,164,1877,-66 %,Aktuel værdi
+Julegade 2B3790 Hasle,asle,500.000,10-11-2011,Alm. Salg,6.250,5,Rækkehus,80,1947,-13 %,Aktuel værdi
+Knarregårdsvej 13790 Hasle,asle,700.000,25-10-2011,Alm. Salg,5.000,6,Villa,140,1925,-12 %,Aktuel værdi
+Møllebakken 13790 Hasle,asle,845.000,14-10-2011,Alm. Salg,5.522,5,Villa,153,1967,0 %,Aktuel værdi
+Campanella 133790 Hasle,asle,561.800,07-10-2011,Fam. Salg,10.803,4,Sommerhus,52,1967,,Aktuel værdi
+Rubinvej 2. L043790 Hasle,asle,935.000,04-10-2011,Alm. Salg,7.601,5,Sommerhus,123,1999,,Aktuel værdi
+Hasle Feriepark 363790 Hasle,asle,488.000,22-09-2011,Alm. Salg,10.166,3,Sommerhus,48,1974,,Aktuel værdi
+Løkkegade 83790 Hasle,asle,750.000,06-09-2011,Alm. Salg,10.135,4,Rækkehus,74,1937,-6 %,Aktuel værdi
+"Vandmøllevej 2B, ST. TV3790 Hasle",asle,1.650.000,25-08-2011,Alm. Salg,14.102,5,Fritid,117,1877,-13 %,Aktuel værdi
+"Storegade 46, 13790 Hasle",asle,350.000,25-08-2011,Alm. Salg,2.845,5,Rækkehus,123,1915,-11 %,Aktuel værdi
+Hasle Feriepark 393790 Hasle,asle,425.000,25-08-2011,Alm. Salg,9.042,3,Sommerhus,47,1974,,Aktuel værdi
+Fælledvej 83790 Hasle,asle,200.000,09-08-2011,Alm. Salg,2.040,3,Rækkehus,98,1894,-11 %,Aktuel værdi
+Hc Sierstedsvej 173790 Hasle,asle,775.000,05-08-2011,Alm. Salg,14.090,4,Sommerhus,55,1976,-3 %,Aktuel værdi
+Hasle Marina 213790 Hasle,asle,1.775.000,20-07-2011,Alm. Salg,15.301,5,Rækkehus,116,2006,-11 %,Aktuel værdi
+Udmarksvej 183790 Hasle,asle,1.000.000,17-07-2011,Alm. Salg,10.309,3,Villa,97,1897,,Aktuel værdi
+Hasle Hytteby 193790 Hasle,asle,148.500,04-07-2011,Alm. Salg,12.375,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 203790 Hasle,asle,148.500,04-07-2011,Alm. Salg,12.375,1,Sommerhus,12,1986,,Aktuel værdi
+Kirkebyen 123790 Hasle,asle,250.000,17-05-2011,Alm. Salg,2.403,4,Villa,104,1940,-7 %,Aktuel værdi
+Hasle Hytteby 153790 Hasle,asle,185.000,15-05-2011,Alm. Salg,15.416,1,Sommerhus,12,1986,,Aktuel værdi
+Vang 373790 Hasle,asle,680.000,13-05-2011,Alm. Salg,5.312,4,Villa,128,1934,-3 %,Aktuel værdi
+Hc Sierstedsvej 33790 Hasle,asle,470.000,12-05-2011,Alm. Salg,13.428,2,Sommerhus,35,1960,-5 %,Aktuel værdi
+Baggårdsvej 23790 Hasle,asle,825.000,09-05-2011,Alm. Salg,4.252,4,Villa,194,1966,-6 %,Aktuel værdi
+"Havnegade 4, ST. 43790 Hasle",asle,420.000,28-04-2011,Alm. Salg,11.052,1,Lejlighed,38,1910,0 %,Aktuel værdi
+Vestergade 493790 Hasle,asle,845.000,18-04-2011,Alm. Salg,6.035,7,Rækkehus,140,1916,,Aktuel værdi
+Pellegårdsvej 163790 Hasle,asle,915.000,31-03-2011,Alm. Salg,7.500,4,Villa,122,1955,-8 %,Aktuel værdi
+Skovkanten 233790 Hasle,asle,750.000,21-03-2011,Alm. Salg,11.718,5,Sommerhus,64,1966,,Aktuel værdi
+Østergade 603790 Hasle,asle,990.000,28-02-2011,Alm. Salg,6.827,4,Rækkehus,145,1889,-10 %,Aktuel værdi
+Brænderivej 43790 Hasle,asle,739.500,25-02-2011,Fam. Salg,5.916,4,Villa,125,1969,,Aktuel værdi
+Møllebakken 153790 Hasle,asle,739.000,25-02-2011,Fam. Salg,6.316,4,Villa,117,1967,,Aktuel værdi
+Borregærdet 13790 Hasle,asle,550.000,16-02-2011,Fam. Salg,7.746,3,Sommerhus,71,2001,,Aktuel værdi
+Ringedalsvej 33790 Hasle,asle,246.500,14-01-2011,Fam. Salg,4.324,3,Sommerhus,57,1902,,Aktuel værdi
+Gulerodsgade 43790 Hasle,asle,190.426,10-01-2011,Fam. Salg,2.092,5,Villa,91,1904,,Aktuel værdi
+Vang 233790 Hasle,asle,545.000,29-11-2010,Alm. Salg,5.561,4,Villa,98,1902,,Aktuel værdi
+Vang 273790 Hasle,asle,350.000,26-11-2010,Alm. Salg,2.272,5,Villa,154,1924,-12 %,Aktuel værdi
+Krummevej 2B3790 Hasle,asle,3.000.000,05-11-2010,Alm. Salg,22.556,3,Lejlighed,133,1939,,Aktuel værdi
+Gammeltoft 133790 Hasle,asle,500.000,03-11-2010,Fam. Salg,3.676,5,Villa,136,1984,,Aktuel værdi
+Gammeltoft 233790 Hasle,asle,200.000,21-10-2010,Alm. Salg,1.250,6,Villa,160,2012,,Aktuel værdi
+Jydegårdsvej 113790 Hasle,asle,390.000,18-10-2010,Alm. Salg,5.571,3,Sommerhus,70,1967,,Aktuel værdi
+Byledsgade 53790 Hasle,asle,880.000,05-10-2010,Alm. Salg,6.241,4,Villa,141,1865,-1 %,Aktuel værdi
+"Storegade 50, 13790 Hasle",asle,400.000,04-10-2010,Alm. Salg,4.444,2,Rækkehus,90,1927,-10 %,Aktuel værdi
+Nørregade 73790 Hasle,asle,610.000,20-09-2010,Alm. Salg,5.495,5,Rækkehus,111,1827,-12 %,Aktuel værdi
+Bagå 83790 Hasle,asle,598.000,17-09-2010,Fam. Salg,10.678,4,Sommerhus,56,1973,,Aktuel værdi
+Kirkegade 13790 Hasle,asle,175.000,12-09-2010,Fam. Salg,3.500,3,Villa,50,1885,,Aktuel værdi
+Hasle Hytteby 43790 Hasle,asle,170.000,25-08-2010,Alm. Salg,14.166,1,Sommerhus,12,1986,,Aktuel værdi
+Sandløkkegade 163790 Hasle,asle,700.000,24-08-2010,Alm. Salg,6.034,4,Rækkehus,116,1912,,Aktuel værdi
+Storegade 853790 Hasle,asle,673.000,20-08-2010,Alm. Salg,4.398,6,Rækkehus,153,1889,-4 %,Aktuel værdi
+"Havnegade 4, ST. 13790 Hasle",asle,500.000,11-08-2010,Alm. Salg,7.462,2,Lejlighed,67,1910,,Aktuel værdi
+Teglkåsvej 583790 Hasle,asle,2.200.000,06-08-2010,Alm. Salg,23.655,4,Sommerhus,93,1825,-6 %,Aktuel værdi
+Skovkanten 10. L323790 Hasle,asle,1.250.000,15-07-2010,Alm. Salg,10.162,5,Sommerhus,123,2002,,Aktuel værdi
+Helligpedervej 63790 Hasle,asle,2.775.000,29-06-2010,Alm. Salg,12.788,7,Villa,217,1895,0 %,Aktuel værdi
+Ved Brønden 103790 Hasle,asle,910.000,24-06-2010,Alm. Salg,13.787,4,Sommerhus,66,1986,-16 %,Aktuel værdi
+Rubinvej 2. L063790 Hasle,asle,970.000,22-06-2010,Alm. Salg,7.886,5,Sommerhus,123,1999,,Aktuel værdi
+Baggårdsvej 103790 Hasle,asle,450.000,10-06-2010,Alm. Salg,4.128,5,Villa,109,1897,,Aktuel værdi
+Borrelyngvej 243790 Hasle,asle,675.000,04-06-2010,Alm. Salg,5.487,5,Villa,123,1937,0 %,Aktuel værdi
+Hasle Søndergade 223790 Hasle,asle,520.000,02-06-2010,Alm. Salg,7.222,4,Villa,72,1944,-5 %,Aktuel værdi
+Teglkåsvej 603790 Hasle,asle,3.500.000,26-05-2010,Alm. Salg,18.817,5,Villa,186,1939,-12 %,Aktuel værdi
+Storegade 983790 Hasle,asle,680.000,20-05-2010,Alm. Salg,6.476,3,Rækkehus,105,1906,-3 %,Aktuel værdi
+Knarregårdsvej 73790 Hasle,asle,720.000,20-05-2010,Alm. Salg,5.669,5,Sommerhus,127,1880,-9 %,Aktuel værdi
+Havnegade 53790 Hasle,asle,1.095.000,14-05-2010,Alm. Salg,9.864,5,Villa,111,1900,0 %,Aktuel værdi
+Vestergade 33790 Hasle,asle,695.000,13-05-2010,Alm. Salg,6.881,3,Rækkehus,101,1915,-13 %,Aktuel værdi
+Julegade 113790 Hasle,asle,310.707,03-05-2010,Alm. Salg,1.941,5,Rækkehus,160,1850,-48 %,Aktuel værdi
+Vystebyvej 53790 Hasle,asle,700.000,23-04-2010,Alm. Salg,4.294,5,Villa,163,1850,-8 %,Aktuel værdi
+Bæla 23790 Hasle,asle,645.000,22-04-2010,Alm. Salg,5.758,5,Villa,112,1930,-7 %,Aktuel værdi
+Kumlehøjvej 83790 Hasle,asle,520.000,21-04-2010,Alm. Salg,4.000,6,Villa,130,1942,-5 %,Aktuel værdi
+Møllebakken 143790 Hasle,asle,1.075.000,20-04-2010,Alm. Salg,9.267,4,Villa,116,1967,,Aktuel værdi
+Vang 493790 Hasle,asle,850.000,19-04-2010,Auktion,3.556,8,Villa,239,1978,-65 %,Aktuel værdi
+Storegade 973790 Hasle,asle,700.000,16-04-2010,Alm. Salg,5.600,4,Rækkehus,125,1904,,Aktuel værdi
+Præstegade 53790 Hasle,asle,10.000,12-04-2010,Auktion,66,4,Rækkehus,150,1785,-98 %,Aktuel værdi
+Fælledvej 203790 Hasle,asle,56.000,12-04-2010,Auktion,933,3,Rækkehus,60,1880,-86 %,Aktuel værdi
+Østergade 563790 Hasle,asle,295.000,02-03-2010,Alm. Salg,3.206,3,Villa,92,1777,0 %,Aktuel værdi
+Møllebakken 33790 Hasle,asle,637.500,10-02-2010,Fam. Salg,4.086,3,Villa,156,1966,-54 %,Aktuel værdi
+Sildetorvet 43790 Hasle,asle,360.000,09-02-2010,Alm. Salg,5.538,2,Rækkehus,65,1827,,Aktuel værdi
+Halledalsvej 53790 Hasle,asle,1.700.000,29-01-2010,Alm. Salg,7.391,8,Stuehus,230,1875,-10 %,
+Havnegade 93790 Hasle,asle,530.000,25-01-2010,Alm. Salg,8.833,3,Villa,60,1900,-8 %,Aktuel værdi
+Hasle Feriepark 493790 Hasle,asle,480.000,25-01-2010,Alm. Salg,10.000,3,Sommerhus,48,1974,,Aktuel værdi
+Knarregårdsvej 23790 Hasle,asle,625.000,21-01-2010,Alm. Salg,5.530,4,Villa,113,1877,-14 %,Aktuel værdi
+Ved Brønden 1B3790 Hasle,asle,1.950.000,20-01-2010,Alm. Salg,16.386,5,Sommerhus,119,2006,-2 %,Aktuel værdi
+Skovtoften 243790 Hasle,asle,250.000,14-01-2010,Alm. Salg,3.333,3,Sommerhus,75,2012,-17 %,Aktuel værdi
+Korsgade 103790 Hasle,asle,725.000,05-01-2010,Alm. Salg,5.410,3,Rækkehus,134,1870,-19 %,Aktuel værdi
+Rosendalevej 113790 Hasle,asle,130.000,07-12-2009,Alm. Salg,625,8,Stuehus,208,1940,,
+Brænderivej 193790 Hasle,asle,1.535.000,01-12-2009,Alm. Salg,7.309,6,Villa,210,1972,-4 %,Aktuel værdi
+Svalhøjvej 353790 Hasle,asle,2.075.000,23-11-2009,Alm. Salg,7.410,9,Stuehus,280,1884,,
+Kirkevej 143790 Hasle,asle,1.200.000,19-11-2009,Alm. Salg,6.857,7,Stuehus,175,1920,-8 %,
+Vandmøllevej 63790 Hasle,asle,700.000,07-11-2009,Andet,12.727,3,Sommerhus,55,1969,,Aktuel værdi
+Borrelyngvej 7B3790 Hasle,asle,1.040.000,19-10-2009,Auktion,5.875,6,Villa,177,1948,,Aktuel værdi
+Sandløkkegade 43790 Hasle,asle,795.000,27-08-2009,Alm. Salg,7.098,5,Rækkehus,112,1827,0 %,Aktuel værdi
+Borrelyngvej 313790 Hasle,asle,365.000,25-08-2009,Alm. Salg,3.093,4,Villa,118,1934,0 %,Aktuel værdi
+Hasle Hytteby 373790 Hasle,asle,210.000,17-08-2009,Alm. Salg,17.500,1,Sommerhus,12,1986,,Aktuel værdi
+Kirkebyen 163790 Hasle,asle,2.500.000,10-08-2009,Alm. Salg,17.857,4,Stuehus,140,1934,159 %,
+Fælledvej 183790 Hasle,asle,595.000,07-08-2009,Alm. Salg,6.611,6,Rækkehus,90,1800,0 %,Aktuel værdi
+Hasselvej 83790 Hasle,asle,1.250.000,30-07-2009,Fam. Salg,7.621,5,Villa,164,1971,,Aktuel værdi
+Vestergade 143790 Hasle,asle,575.000,27-07-2009,Alm. Salg,8.846,3,Villa,65,1875,0 %,Aktuel værdi
+Hasle Hytteby 23790 Hasle,asle,210.000,27-07-2009,Alm. Salg,17.500,1,Sommerhus,12,1986,,Aktuel værdi
+Østergade 1A3790 Hasle,asle,725.000,08-07-2009,Alm. Salg,6.473,4,Villa,112,1966,0 %,Aktuel værdi
+Hasle Hytteby 173790 Hasle,asle,225.000,07-07-2009,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Strandgade 93790 Hasle,asle,450.000,01-07-2009,Alm. Salg,5.294,4,Villa,85,1927,,Aktuel værdi
+Kumlehøjvej 133790 Hasle,asle,4.406.174,01-07-2009,Alm. Salg,25.035,10,Stuehus,176,1923,,
+Storegade 1043790 Hasle,asle,1.195.000,25-06-2009,Alm. Salg,7.029,7,Villa,170,1920,0 %,Aktuel værdi
+Krummevej 63790 Hasle,asle,475.000,23-06-2009,Alm. Salg,7.196,4,Rækkehus,66,1870,-21 %,Aktuel værdi
+Storegade 133790 Hasle,asle,321.000,22-06-2009,Auktion,3.489,4,Rækkehus,92,1895,-46 %,Aktuel værdi
+Korsgade 13790 Hasle,asle,915.000,08-06-2009,Alm. Salg,7.887,4,Villa,116,1900,-16 %,Aktuel værdi
+Rådhusgade 43790 Hasle,asle,110.000,25-05-2009,Alm. Salg,1.896,3,Rækkehus,58,1800,-4 %,Aktuel værdi
+Storegade 613790 Hasle,asle,220.000,18-05-2009,Auktion,3.142,1,Rækkehus,70,1860,,Aktuel værdi
+Krogholmsvej 63790 Hasle,asle,1.250.000,12-05-2009,Alm. Salg,-,6,Stuehus,250,1775,-15 %,
+Gulerodsgade 33790 Hasle,asle,550.000,24-04-2009,Alm. Salg,6.043,4,Rækkehus,91,1890,0 %,Aktuel værdi
+Fuglesangsvej 143790 Hasle,asle,600.000,24-04-2009,Alm. Salg,5.555,5,Sommerhus,108,1850,-17 %,Aktuel værdi
+Toftegårdsvej 20C3790 Hasle,asle,315.000,14-04-2009,Alm. Salg,15.750,1,Sommerhus,20,2010,-5 %,Aktuel værdi
+Hasle Marina 223790 Hasle,asle,1.050.000,01-04-2009,Fam. Salg,8.606,5,Rækkehus,122,2004,,Aktuel værdi
+Hasle Marina 143790 Hasle,asle,2.250.000,24-03-2009,Alm. Salg,23.684,4,Rækkehus,95,2004,,Aktuel værdi
+Østergade 53790 Hasle,asle,375.000,16-03-2009,Auktion,3.125,3,Rækkehus,120,1910,,Aktuel værdi
+"Kirkebyen 49, 13790 Hasle",asle,1.700.000,20-02-2009,Alm. Salg,15.454,4,Lejlighed,110,1907,,Aktuel værdi
+Storegade 2B3790 Hasle,asle,700.000,22-01-2009,Alm. Salg,5.263,5,Villa,133,1978,0 %,Aktuel værdi
+Byledsgade 7A3790 Hasle,asle,525.000,04-12-2008,Alm. Salg,5.198,4,Villa,101,1963,,Aktuel værdi
+Kumlehøjvej 123790 Hasle,asle,950.000,18-11-2008,Alm. Salg,8.962,4,Villa,106,1921,-19 %,Aktuel værdi
+Sandløkkegade 83790 Hasle,asle,785.000,31-10-2008,Alm. Salg,8.010,6,Villa,98,1890,0 %,Aktuel værdi
+Østergade 153790 Hasle,asle,11.470.000,30-10-2008,Alm. Salg,74.480,4,Rækkehus,154,1926,1182 %,Aktuel værdi
+Krummeledvej 183790 Hasle,asle,1.135.000,24-10-2008,Alm. Salg,7.827,4,Villa,145,1940,0 %,Aktuel værdi
+Hasle Marina 493790 Hasle,asle,1.970.000,24-10-2008,Alm. Salg,21.888,5,Rækkehus,90,2006,-10 %,Aktuel værdi
+Pellegårdsvej 243790 Hasle,asle,4.000.000,10-10-2008,Alm. Salg,18.957,4,Stuehus,211,1920,-33 %,
+Julegade 103790 Hasle,asle,100.000,29-09-2008,Alm. Salg,775,5,Villa,129,1882,,Aktuel værdi
+Møllebakken 63790 Hasle,asle,1.395.000,10-09-2008,Alm. Salg,8.718,9,Villa,160,1967,-3 %,Aktuel værdi
+Hasle Hytteby 143790 Hasle,asle,200.000,09-09-2008,Fam. Salg,16.666,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 133790 Hasle,asle,200.000,09-09-2008,Fam. Salg,16.666,1,Sommerhus,12,1986,,Aktuel værdi
+Vestergade 263790 Hasle,asle,600.000,08-09-2008,Alm. Salg,15.000,2,Rækkehus,40,1890,,Aktuel værdi
+Gammeltoft 23790 Hasle,asle,1.435.000,05-09-2008,Alm. Salg,11.210,4,Villa,128,1978,0 %,Aktuel værdi
+Klympen 193790 Hasle,asle,385.000,05-09-2008,Alm. Salg,10.694,3,Sommerhus,36,1975,0 %,Aktuel værdi
+Vang 873790 Hasle,asle,975.000,01-09-2008,Alm. Salg,13.356,4,Villa,73,1910,0 %,Aktuel værdi
+Hasle Søndergade 103790 Hasle,asle,425.000,30-08-2008,Alm. Salg,5.821,2,Rækkehus,73,1870,-12 %,Aktuel værdi
+Borrelyngvej 213790 Hasle,asle,2.500.000,25-08-2008,Alm. Salg,7.331,7,Stuehus,341,1800,-15 %,
+Heroldsgade 23790 Hasle,asle,685.000,19-08-2008,Alm. Salg,5.436,6,Villa,126,1906,-12 %,Aktuel værdi
+Klympen 133790 Hasle,asle,385.000,18-08-2008,Alm. Salg,10.694,3,Sommerhus,36,1964,0 %,Aktuel værdi
+Klympen 293790 Hasle,asle,385.000,04-08-2008,Alm. Salg,10.694,3,Sommerhus,36,1975,0 %,Aktuel værdi
+Malerstræde 33790 Hasle,asle,785.000,18-07-2008,Alm. Salg,8.177,4,Rækkehus,96,1939,0 %,Aktuel værdi
+Rosendalevej 213790 Hasle,asle,1.157.701,14-07-2008,Alm. Salg,11.462,4,Sommerhus,101,1928,-9 %,Aktuel værdi
+Toftegårdsvej 83790 Hasle,asle,825.000,02-07-2008,Alm. Salg,7.638,2,Villa,108,1905,-11 %,Aktuel værdi
+Bagå 123790 Hasle,asle,576.100,19-06-2008,Fam. Salg,4.115,3,Villa,140,1877,,Aktuel værdi
+Nydamsvej 83790 Hasle,asle,881.780,19-06-2008,Alm. Salg,3.800,7,Stuehus,232,1887,1 %,
+Simblegårdsvej 283790 Hasle,asle,700.000,18-06-2008,Alm. Salg,2.692,8,Villa,260,1928,-22 %,Aktuel værdi
+Kumlehøjvej 23790 Hasle,asle,1.600.000,09-06-2008,Alm. Salg,6.584,6,Stuehus,243,1902,-19 %,
+Klympen 153790 Hasle,asle,385.000,28-05-2008,Alm. Salg,10.694,3,Sommerhus,36,1975,0 %,Aktuel værdi
+Klympen 173790 Hasle,asle,385.000,28-05-2008,Alm. Salg,7.129,4,Sommerhus,54,1975,0 %,Aktuel værdi
+Klympen 273790 Hasle,asle,385.000,28-05-2008,Alm. Salg,10.694,3,Sommerhus,36,1975,0 %,Aktuel værdi
+Klympen 313790 Hasle,asle,385.000,28-05-2008,Alm. Salg,10.694,3,Sommerhus,36,1964,0 %,Aktuel værdi
+Sildetorvet 83790 Hasle,asle,395.000,23-05-2008,Alm. Salg,5.563,2,Rækkehus,71,1820,,Aktuel værdi
+Storegade 153790 Hasle,asle,450.000,19-05-2008,Fam. Salg,4.205,2,Rækkehus,107,1895,,Aktuel værdi
+Kirkegade 53790 Hasle,asle,785.000,30-04-2008,Alm. Salg,6.946,4,Rækkehus,113,1882,-10 %,Aktuel værdi
+Hasle Hytteby 243790 Hasle,asle,230.000,15-04-2008,Alm. Salg,19.166,1,Sommerhus,12,1986,,Aktuel værdi
+Fuglebakken 223790 Hasle,asle,975.000,10-04-2008,Alm. Salg,17.727,4,Sommerhus,55,1973,,Aktuel værdi
+Søndre Bæk 63790 Hasle,asle,1.195.000,30-03-2008,Alm. Salg,-,7,Villa,156,1912,,Aktuel værdi
+Svalhøjvej 13790 Hasle,asle,400.000,15-03-2008,Fam. Salg,5.333,3,Sommerhus,75,1964,,Aktuel værdi
+Sandløkkegade 1A3790 Hasle,asle,380.000,11-03-2008,Alm. Salg,4.935,3,Villa,77,1885,-4 %,Aktuel værdi
+Storegade 293790 Hasle,asle,332.000,08-03-2008,Auktion,3.102,6,Rækkehus,107,1900,,Aktuel værdi
+Møllebakken 103790 Hasle,asle,1.273.000,29-02-2008,Alm. Salg,10.434,4,Villa,122,1966,-2 %,Aktuel værdi
+Kumlehøjvej 73790 Hasle,asle,850.000,14-02-2008,Alm. Salg,7.589,4,Villa,112,1952,-15 %,Aktuel værdi
+Dambakken 163790 Hasle,asle,820.000,11-02-2008,Alm. Salg,7.454,4,Villa,110,1964,-3 %,Aktuel værdi
+Sildetorvet 63790 Hasle,asle,400.000,04-02-2008,Alm. Salg,6.153,3,Rækkehus,65,1777,-14 %,Aktuel værdi
+Rådhusgade 1B3790 Hasle,asle,1.095.000,01-02-2008,Alm. Salg,8.423,4,Rækkehus,130,1887,0 %,Aktuel værdi
+Julegade 13790 Hasle,asle,825.000,25-01-2008,Alm. Salg,6.111,4,Villa,135,1885,0 %,Aktuel værdi
+Ringedalsvej 43790 Hasle,asle,1.025.000,22-01-2008,Alm. Salg,11.781,4,Villa,87,1936,,Aktuel værdi
+Storegade 163790 Hasle,asle,1.200.000,18-12-2007,Alm. Salg,6.349,9,Villa,189,1892,-6 %,Aktuel værdi
+Brænderivej 153790 Hasle,asle,1.345.000,14-12-2007,Alm. Salg,9.746,5,Villa,138,1974,0 %,Aktuel værdi
+Dambakken 73790 Hasle,asle,725.000,12-12-2007,Alm. Salg,8.055,4,Villa,90,1962,0 %,Aktuel værdi
+Kirkebyen 233790 Hasle,asle,212.639,03-12-2007,Alm. Salg,2.389,4,Villa,89,1940,,Aktuel værdi
+Østergade 83790 Hasle,asle,850.000,19-11-2007,Alm. Salg,9.883,4,Rækkehus,86,1939,-2 %,Aktuel værdi
+Kirkebyen 25A3790 Hasle,asle,760.000,12-11-2007,Alm. Salg,6.031,4,Villa,126,1971,-2 %,Aktuel værdi
+Fælledvej 513790 Hasle,asle,925.000,06-11-2007,Alm. Salg,6.514,6,Villa,142,1935,-3 %,Aktuel værdi
+Nørregade 33790 Hasle,asle,320.000,06-11-2007,Alm. Salg,4.383,4,Rækkehus,73,1777,,Aktuel værdi
+Løkkegade 93790 Hasle,asle,698.000,04-11-2007,Alm. Salg,7.347,5,Rækkehus,95,1934,0 %,Aktuel værdi
+Vestergade 353790 Hasle,asle,1.575.000,30-10-2007,Alm. Salg,14.318,4,Villa,110,1877,,Aktuel værdi
+Østergade 73790 Hasle,asle,420.000,25-10-2007,Alm. Salg,4.285,3,Villa,98,1880,,Aktuel værdi
+Vang 293790 Hasle,asle,1.300.000,19-10-2007,Alm. Salg,13.000,3,Sommerhus,100,1967,,Aktuel værdi
+Kirkevej 33790 Hasle,asle,2.450.000,18-10-2007,Alm. Salg,10.652,9,Villa,230,1775,,Aktuel værdi
+Fælledvej 373790 Hasle,asle,1.110.000,08-10-2007,Alm. Salg,9.568,5,Villa,116,1930,-1 %,Aktuel værdi
+Hasle Feriepark 403790 Hasle,asle,675.000,03-10-2007,Alm. Salg,14.361,3,Sommerhus,47,1974,,Aktuel værdi
+Pellegårdsvej 23790 Hasle,asle,895.000,02-10-2007,Alm. Salg,5.966,5,Villa,150,1880,0 %,Aktuel værdi
+Hasle Søndergade 163790 Hasle,asle,695.000,01-10-2007,Alm. Salg,6.556,3,Rækkehus,106,1917,0 %,Aktuel værdi
+Hasle Hytteby 323790 Hasle,asle,225.000,17-09-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Feriepark 103790 Hasle,asle,630.000,11-09-2007,Alm. Salg,13.404,3,Sommerhus,47,1974,,Aktuel værdi
+Storegade 313790 Hasle,asle,875.000,10-09-2007,Alm. Salg,6.118,6,Rækkehus,143,1896,-1 %,Aktuel værdi
+Storegade 943790 Hasle,asle,815.000,10-09-2007,Alm. Salg,7.086,4,Rækkehus,115,1888,0 %,Aktuel værdi
+Tofteløkken 13790 Hasle,asle,1.295.000,01-09-2007,Andet,7.573,5,Rækkehus,171,1977,,Aktuel værdi
+Storegade 53790 Hasle,asle,750.000,29-08-2007,Alm. Salg,6.097,5,Villa,123,1947,-11 %,Aktuel værdi
+Hasle Feriepark 443790 Hasle,asle,675.000,28-08-2007,Alm. Salg,14.361,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Hytteby 33790 Hasle,asle,225.000,26-08-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 293790 Hasle,asle,225.000,26-08-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 113790 Hasle,asle,225.000,23-08-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Kumlehøjvej 143790 Hasle,asle,785.000,22-08-2007,Alm. Salg,4.220,6,Villa,186,1902,0 %,Aktuel værdi
+Fælledvej 133790 Hasle,asle,525.000,20-08-2007,Alm. Salg,5.645,4,Rækkehus,93,1909,,Aktuel værdi
+Hasle Hytteby 353790 Hasle,asle,225.000,16-08-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 383790 Hasle,asle,225.000,13-08-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Svalhøjvej 113790 Hasle,asle,1.400.000,08-08-2007,Alm. Salg,6.422,7,Villa,218,1922,-6 %,Aktuel værdi
+Hasle Hytteby 303790 Hasle,asle,225.000,08-08-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 273790 Hasle,asle,225.000,07-08-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 253790 Hasle,asle,225.000,07-08-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 313790 Hasle,asle,225.000,02-08-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 403790 Hasle,asle,225.000,01-08-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Borrelyngvej 253790 Hasle,asle,775.000,30-07-2007,Alm. Salg,6.352,4,Villa,122,1910,0 %,Aktuel værdi
+Kirkebyen 113790 Hasle,asle,555.000,25-07-2007,Alm. Salg,5.967,3,Villa,93,1952,12 %,Aktuel værdi
+Hasle Feriepark 53790 Hasle,asle,610.000,19-07-2007,Alm. Salg,12.978,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Hytteby 213790 Hasle,asle,225.000,18-07-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 73790 Hasle,asle,225.000,13-07-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Julegade 63790 Hasle,asle,226.786,06-07-2007,Andet,3.194,3,Rækkehus,71,1885,,Aktuel værdi
+Kumlehøjvej 53790 Hasle,asle,350.000,05-07-2007,Alm. Salg,2.046,7,Stuehus,171,1875,,
+Campanella 103790 Hasle,asle,875.000,27-06-2007,Alm. Salg,24.305,3,Sommerhus,36,1942,0 %,Aktuel værdi
+Hasle Søndergade 113790 Hasle,asle,915.000,22-06-2007,Alm. Salg,9.631,4,Rækkehus,95,1911,-6 %,Aktuel værdi
+Dambakken 133790 Hasle,asle,420.000,21-06-2007,Alm. Salg,5.121,3,Rækkehus,82,1948,,Aktuel værdi
+Hasle Hytteby 8. 83790 Hasle,asle,225.000,18-06-2007,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Vandmøllevej 2A3790 Hasle,asle,2.050.000,14-06-2007,Alm. Salg,-,9,Rækkehus,197,1877,3 %,Aktuel værdi
+Vestergade 83790 Hasle,asle,698.000,14-06-2007,Alm. Salg,7.122,4,Rækkehus,98,1936,0 %,Aktuel værdi
+Simblegårdsvej 203790 Hasle,asle,3.100.000,07-06-2007,Alm. Salg,15.048,5,Stuehus,206,1875,-6 %,
+Dambakken 103790 Hasle,asle,1.125.000,01-06-2007,Alm. Salg,10.416,4,Villa,108,1963,,Aktuel værdi
+Kirkebyen 173790 Hasle,asle,118.000,29-05-2007,Alm. Salg,513,6,Stuehus,230,1940,,
+Vestergade 163790 Hasle,asle,525.000,29-05-2007,Alm. Salg,6.034,4,Rækkehus,87,1934,,Aktuel værdi
+Vestergade 383790 Hasle,asle,285.000,26-05-2007,Alm. Salg,2.035,4,Villa,140,1900,0 %,Aktuel værdi
+Gasværksvej 23790 Hasle,asle,798.000,23-05-2007,Alm. Salg,8.312,4,Rækkehus,96,1875,0 %,Aktuel værdi
+Sandløkkegade 33790 Hasle,asle,355.000,23-05-2007,Alm. Salg,2.958,8,Villa,120,1885,,Aktuel værdi
+Gammeltoft 373790 Hasle,asle,154.500,20-04-2007,Alm. Salg,753,8,Villa,205,2008,,Aktuel værdi
+Tassevej 33790 Hasle,asle,1.680.000,18-04-2007,Fam. Salg,12.824,8,Villa,131,1863,,Aktuel værdi
+Hasle Marina 443790 Hasle,asle,2.950.000,03-04-2007,Alm. Salg,23.046,5,Rækkehus,128,2003,,Aktuel værdi
+Strandgade 173790 Hasle,asle,1.000.000,26-03-2007,Alm. Salg,7.874,6,Rækkehus,127,1907,-9 %,Aktuel værdi
+Gasværksvej 163790 Hasle,asle,398.000,24-03-2007,Alm. Salg,4.279,4,Rækkehus,93,1912,0 %,Aktuel værdi
+Baggårdsvej 93790 Hasle,asle,150.000,23-03-2007,Fam. Salg,1.056,6,Villa,142,1777,,Aktuel værdi
+Heroldsgade 93790 Hasle,asle,880.000,06-03-2007,Alm. Salg,6.376,4,Rækkehus,138,1817,,Aktuel værdi
+Storegade 70B3790 Hasle,asle,865.000,05-03-2007,Alm. Salg,8.564,5,Rækkehus,101,1900,0 %,Aktuel værdi
+Gammeltoft 73790 Hasle,asle,1.500.000,09-02-2007,Alm. Salg,8.875,6,Villa,169,1978,,Aktuel værdi
+Hasle Feriepark 533790 Hasle,asle,680.000,06-02-2007,Alm. Salg,14.468,3,Sommerhus,47,1974,,Aktuel værdi
+Vestergade 633790 Hasle,asle,450.000,01-02-2007,Alm. Salg,6.338,3,Rækkehus,71,1850,,Aktuel værdi
+Toftebakken 173790 Hasle,asle,1.600.000,27-01-2007,Alm. Salg,7.766,8,Villa,206,1976,,Aktuel værdi
+Rosendalevej 43790 Hasle,asle,1.285.000,16-01-2007,Alm. Salg,7.138,3,Villa,180,1850,,Aktuel værdi
+Knarregårdsvej 173790 Hasle,asle,7.000.000,03-01-2007,Alm. Salg,26.615,9,Stuehus,263,1903,,
+Rubinvej 2. L093790 Hasle,asle,607.500,01-01-2007,Alm. Salg,4.939,5,Sommerhus,123,1999,,Aktuel værdi
+Paradisvej 103790 Hasle,asle,654.500,23-12-2006,Fam. Salg,9.625,4,Sommerhus,68,1975,,Aktuel værdi
+Duebjergvej 23790 Hasle,asle,107.752,21-12-2006,Alm. Salg,352,11,Stuehus,306,1869,,
+Kirkebyen 263790 Hasle,asle,548.000,18-12-2006,Alm. Salg,4.215,5,Villa,130,1939,,Aktuel værdi
+Simblegårdsvej 223790 Hasle,asle,7.157.500,15-12-2006,Fam. Salg,-,12,Stuehus,435,1899,,
+Vestergade 533790 Hasle,asle,785.000,14-12-2006,Alm. Salg,7.405,6,Rækkehus,106,1937,,Aktuel værdi
+Kumlehøjvej 213790 Hasle,asle,1.995.000,21-11-2006,Alm. Salg,10.283,8,Stuehus,194,1883,,
+Toftegårdsvej 34C3790 Hasle,asle,451.000,20-11-2006,Alm. Salg,5.183,4,Sommerhus,87,2007,,Aktuel værdi
+Toftegårdsvej 263790 Hasle,asle,450.000,16-11-2006,Alm. Salg,14.516,2,Sommerhus,31,1961,,Aktuel værdi
+Løkkegade 73790 Hasle,asle,725.000,13-11-2006,Alm. Salg,6.359,3,Rækkehus,114,1934,,Aktuel værdi
+Fælledvej 413790 Hasle,asle,1.225.000,03-11-2006,Alm. Salg,7.753,5,Villa,158,1935,,Aktuel værdi
+Storegade 73790 Hasle,asle,748.000,25-10-2006,Alm. Salg,7.333,3,Villa,102,1946,,Aktuel værdi
+Hasle Hytteby 233790 Hasle,asle,225.000,19-10-2006,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Søndre Bæk 23790 Hasle,asle,501.500,17-10-2006,Fam. Salg,3.770,4,Villa,133,1966,,Aktuel værdi
+Hasle Hytteby 103790 Hasle,asle,225.000,16-10-2006,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 283790 Hasle,asle,225.000,16-10-2006,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Østergade 44A3790 Hasle,asle,795.625,13-10-2006,Alm. Salg,5.807,4,Villa,137,1970,,Aktuel værdi
+Hasle Feriepark 73790 Hasle,asle,620.000,13-10-2006,Alm. Salg,12.916,3,Sommerhus,48,1974,,Aktuel værdi
+Hasle Hytteby 333790 Hasle,asle,199.995,13-10-2006,Alm. Salg,16.666,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 53790 Hasle,asle,225.000,12-10-2006,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 123790 Hasle,asle,225.000,10-10-2006,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 263790 Hasle,asle,225.000,09-10-2006,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Hytteby 63790 Hasle,asle,225.000,07-10-2006,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Kirkegade 213790 Hasle,asle,650.000,05-10-2006,Alm. Salg,7.303,3,Rækkehus,89,1943,,Aktuel værdi
+Hasle Hytteby 223790 Hasle,asle,225.000,05-10-2006,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Møllebakken 173790 Hasle,asle,890.000,03-10-2006,Alm. Salg,8.989,3,Villa,99,1968,,Aktuel værdi
+Hasle Hytteby 183790 Hasle,asle,225.000,03-10-2006,Alm. Salg,18.750,1,Sommerhus,12,1986,,Aktuel værdi
+Hasle Marina 243790 Hasle,asle,2.425.000,26-09-2006,Alm. Salg,25.260,5,Rækkehus,96,2003,,Aktuel værdi
+Hc Sierstedsvej 93790 Hasle,asle,1.000.000,20-09-2006,Fam. Salg,12.820,4,Sommerhus,78,1973,,Aktuel værdi
+Fuglesangsvej 103790 Hasle,asle,1.400.000,31-08-2006,Alm. Salg,9.090,4,Stuehus,154,1900,,
+Fuglesangsvej 43790 Hasle,asle,595.000,18-08-2006,Alm. Salg,5.509,7,Sommerhus,108,1700,,Aktuel værdi
+Østergade 483790 Hasle,asle,650.000,11-08-2006,Alm. Salg,4.609,3,Villa,141,1930,,Aktuel værdi
+Storegade 123790 Hasle,asle,776.000,31-07-2006,Alm. Salg,4.538,6,Stuehus,171,1800,,
+Tofte 53790 Hasle,asle,925.000,27-07-2006,Alm. Salg,13.028,3,Sommerhus,71,1910,,Aktuel værdi
+Storegade 1003790 Hasle,asle,825.000,19-07-2006,Alm. Salg,7.236,5,Rækkehus,114,1883,,Aktuel værdi
+Fuglesangsvej 93790 Hasle,asle,1.300.000,19-07-2006,Alm. Salg,8.387,6,Villa,155,1952,,Aktuel værdi
+Storegade 1063790 Hasle,asle,375.000,18-07-2006,Alm. Salg,3.048,7,Villa,123,1920,,Aktuel værdi
+Hc Sierstedsvej 293790 Hasle,asle,265.000,15-07-2006,Alm. Salg,6.625,3,Sommerhus,40,1965,,Aktuel værdi
+Campanella 143790 Hasle,asle,1.095.000,04-07-2006,Alm. Salg,11.774,4,Sommerhus,93,2007,,Aktuel værdi
+Brænderivej 53790 Hasle,asle,935.000,23-06-2006,Alm. Salg,7.663,4,Villa,122,1969,,Aktuel værdi
+Østergade 583790 Hasle,asle,565.000,16-06-2006,Alm. Salg,6.010,4,Rækkehus,94,1892,,Aktuel værdi
+Hasle Marina 313790 Hasle,asle,2.495.000,16-06-2006,Alm. Salg,19.492,6,Rækkehus,128,2006,,Aktuel værdi
+Gasværksvej 9B3790 Hasle,asle,910.000,02-06-2006,Alm. Salg,5.352,3,Villa,170,1900,,Aktuel værdi
+Rosendalevej 243790 Hasle,asle,947.847,31-05-2006,Alm. Salg,4.429,7,Stuehus,214,1877,,
+Gammeltoft 393790 Hasle,asle,745.000,30-05-2006,Alm. Salg,4.775,4,Villa,156,1930,,Aktuel værdi
+Fælledvej 13790 Hasle,asle,720.000,23-05-2006,Alm. Salg,6.260,4,Rækkehus,115,1800,,Aktuel værdi
+Toftelunden 183790 Hasle,asle,635.000,19-05-2006,Alm. Salg,8.698,3,Villa,73,1977,,Aktuel værdi
+Halledalsvej 33790 Hasle,asle,500.000,04-05-2006,Fam. Salg,3.731,4,Villa,134,1877,,Aktuel værdi
+Hasle Feriepark 573790 Hasle,asle,495.000,18-04-2006,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Fuglesangsvej 53790 Hasle,asle,1.175.000,17-04-2006,Alm. Salg,3.036,7,Stuehus,387,1861,,
+Bagå 2C3790 Hasle,asle,1.335.000,30-03-2006,Alm. Salg,11.125,4,Villa,120,1936,,Aktuel værdi
+Hasle Feriepark 603790 Hasle,asle,495.000,30-03-2006,Alm. Salg,10.312,3,Sommerhus,48,1974,,Aktuel værdi
+Hasle Feriepark 633790 Hasle,asle,495.000,29-03-2006,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Pellegårdsvej 123790 Hasle,asle,1.200.000,17-03-2006,Alm. Salg,11.764,6,Sommerhus,102,1877,,Aktuel værdi
+Præstegade 13790 Hasle,asle,600.000,12-03-2006,Alm. Salg,4.411,4,Villa,136,1917,,Aktuel værdi
+Hasle Feriepark 333790 Hasle,asle,695.000,05-03-2006,Alm. Salg,14.787,3,Sommerhus,47,1974,,Aktuel værdi
+Vystebyvej 33790 Hasle,asle,1.100.000,01-03-2006,Fam. Salg,4.104,8,Stuehus,268,1827,,
+Hc Sierstedsvej 273790 Hasle,asle,727.000,28-02-2006,Alm. Salg,22.030,2,Sommerhus,33,1979,,Aktuel værdi
+Fælledvej 163790 Hasle,asle,648.000,27-02-2006,Alm. Salg,4.438,7,Villa,146,1922,,Aktuel værdi
+Hasle Feriepark 553790 Hasle,asle,495.000,22-02-2006,Alm. Salg,10.312,3,Sommerhus,48,1974,,Aktuel værdi
+Vestergade 13790 Hasle,asle,695.000,20-02-2006,Alm. Salg,7.554,3,Villa,92,1847,,Aktuel værdi
+"Havnegade 4, ST. 23790 Hasle",asle,249.558,16-02-2006,Alm. Salg,4.302,2,Lejlighed,58,1910,,Aktuel værdi
+Borregærdet 53790 Hasle,asle,1.485.000,07-02-2006,Alm. Salg,14.009,4,Sommerhus,106,1970,,Aktuel værdi
+Hasle Feriepark 593790 Hasle,asle,495.000,01-02-2006,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Korsgade 33790 Hasle,asle,735.000,30-01-2006,Alm. Salg,7.067,4,Rækkehus,104,1910,,Aktuel værdi
+Hasle Feriepark 723790 Hasle,asle,495.000,27-01-2006,Alm. Salg,10.312,3,Sommerhus,48,1974,,Aktuel værdi
+Skovkanten 283790 Hasle,asle,925.000,21-01-2006,Alm. Salg,16.818,4,Sommerhus,55,1985,,Aktuel værdi
+Hc Sierstedsvej 193790 Hasle,asle,450.000,20-01-2006,Fam. Salg,10.000,4,Sommerhus,45,1960,,Aktuel værdi
+Hasle Feriepark 413790 Hasle,asle,495.000,20-01-2006,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 313790 Hasle,asle,695.000,19-01-2006,Alm. Salg,14.479,3,Sommerhus,48,1974,,Aktuel værdi
+Hasle Marina 393790 Hasle,asle,1.895.000,14-01-2006,Alm. Salg,21.055,5,Rækkehus,90,2006,,Aktuel værdi
+Klympen 13790 Hasle,asle,720.000,11-01-2006,Alm. Salg,12.000,3,Sommerhus,60,1977,,Aktuel værdi
+Tofteløkken 23790 Hasle,asle,1.050.000,09-01-2006,Alm. Salg,7.094,4,Villa,148,1980,,Aktuel værdi
+Hasle Feriepark 63790 Hasle,asle,495.000,27-12-2005,Alm. Salg,10.312,3,Sommerhus,48,1974,,Aktuel værdi
+Pellegårdsvej 13790 Hasle,asle,320.000,20-12-2005,Alm. Salg,-,7,Sommerhus,250,1852,,Aktuel værdi
+Ved Brønden 83790 Hasle,asle,1.575.000,17-12-2005,Alm. Salg,19.444,6,Sommerhus,81,1986,,Aktuel værdi
+Østergade 263790 Hasle,asle,700.000,16-12-2005,Alm. Salg,7.865,3,Rækkehus,89,1885,,Aktuel værdi
+Hasle Feriepark 123790 Hasle,asle,495.000,16-12-2005,Alm. Salg,10.312,3,Sommerhus,48,1974,,Aktuel værdi
+Hasle Feriepark 253790 Hasle,asle,495.000,15-12-2005,Alm. Salg,10.312,3,Sommerhus,48,1974,,Aktuel værdi
+Simonsgårdsvej 43790 Hasle,asle,65.000,14-12-2005,Alm. Salg,520,5,Stuehus,125,1876,,
+Gulerodsgade 53790 Hasle,asle,545.000,09-12-2005,Alm. Salg,6.264,4,Rækkehus,87,1895,,Aktuel værdi
+Kirkebyen 223790 Hasle,asle,590.000,08-12-2005,Alm. Salg,3.089,6,Villa,191,1980,,Aktuel værdi
+Hc Sierstedsvej 253790 Hasle,asle,895.000,06-12-2005,Alm. Salg,10.529,6,Sommerhus,85,1987,,Aktuel værdi
+Sandløkkegade 173790 Hasle,asle,151.000,05-12-2005,Auktion,1.961,2,Rækkehus,77,1885,,Aktuel værdi
+Mølleparken 193790 Hasle,asle,115.000,02-12-2005,Alm. Salg,701,5,Villa,164,2007,,Aktuel værdi
+Julegade 93790 Hasle,asle,465.000,01-12-2005,Alm. Salg,4.008,4,Rækkehus,116,1897,,Aktuel værdi
+Nyker Strandvej 1A3790 Hasle,asle,792.500,29-11-2005,Alm. Salg,4.580,8,Villa,173,1900,,Aktuel værdi
+Storegade 203790 Hasle,asle,357.000,28-11-2005,Fam. Salg,2.395,6,Rækkehus,149,1947,,Aktuel værdi
+Vestergade 363790 Hasle,asle,585.000,28-11-2005,Alm. Salg,8.239,4,Rækkehus,71,1890,,Aktuel værdi
+Brænderivej 73790 Hasle,asle,845.000,16-11-2005,Alm. Salg,7.477,4,Villa,113,1971,,Aktuel værdi
+Hc Sierstedsvej 353790 Hasle,asle,141.000,14-11-2005,Fam. Salg,2.660,3,Sommerhus,53,2006,,Aktuel værdi
+Løkkegade 53790 Hasle,asle,375.000,04-11-2005,Alm. Salg,3.504,4,Rækkehus,107,1934,,Aktuel værdi
+Vang 1013790 Hasle,asle,1.235.000,02-11-2005,Alm. Salg,10.378,4,Villa,119,1777,,Aktuel værdi
+Hasle Søndergade 73790 Hasle,asle,1.725.000,01-11-2005,Alm. Salg,9.426,5,Villa,183,1984,,Aktuel værdi
+Vang 613790 Hasle,asle,1.325.000,01-11-2005,Alm. Salg,12.500,3,Villa,106,1959,,Aktuel værdi
+Rubinvej 2. L213790 Hasle,asle,1.270.000,01-11-2005,Alm. Salg,12.700,5,Sommerhus,100,2001,,Aktuel værdi
+Rosendalevej 33790 Hasle,asle,3.575.700,17-10-2005,Fam. Salg,25.540,5,Stuehus,140,1915,,
+Heroldsgade 113790 Hasle,asle,375.000,12-10-2005,Alm. Salg,5.281,3,Rækkehus,71,1895,,Aktuel værdi
+Krakvej 133790 Hasle,asle,595.000,30-09-2005,Alm. Salg,5.666,4,Villa,105,1914,,Aktuel værdi
+Toftegårdsvej 223790 Hasle,asle,300.000,25-09-2005,Alm. Salg,3.225,4,Sommerhus,93,2007,,Aktuel værdi
+Hasle Feriepark 643790 Hasle,asle,250.000,25-09-2005,Alm. Salg,5.319,3,Sommerhus,47,1974,,Aktuel værdi
+Kirkebyen 443790 Hasle,asle,885.000,20-09-2005,Alm. Salg,1.871,8,Villa,473,1907,,Aktuel værdi
+Skovkanten 21. L343790 Hasle,asle,1.612.500,12-09-2005,Alm. Salg,13.109,5,Sommerhus,123,2004,,Aktuel værdi
+Korsgade 143790 Hasle,asle,410.000,07-09-2005,Fam. Salg,-,5,Villa,140,1872,,Aktuel værdi
+Storegade 893790 Hasle,asle,500.000,06-09-2005,Alm. Salg,4.587,4,Rækkehus,109,1800,,Aktuel værdi
+Aabyvej 243790 Hasle,asle,490.000,05-09-2005,Alm. Salg,2.987,5,Villa,164,1938,,Aktuel værdi
+Klympen 53790 Hasle,asle,488.000,02-09-2005,Alm. Salg,7.746,4,Sommerhus,63,1976,,Aktuel værdi
+Tassevej 113790 Hasle,asle,600.000,31-08-2005,Alm. Salg,1.260,11,Sommerhus,476,1930,,Aktuel værdi
+"Havnen 14, 1. 33790 Hasle",asle,265.000,31-08-2005,Alm. Salg,4.416,2,Lejlighed,60,1973,,Aktuel værdi
+"Havnen 14, 1. 23790 Hasle",asle,265.000,31-08-2005,Alm. Salg,4.274,2,Lejlighed,62,1973,,Aktuel værdi
+"Havnen 14, 1. 43790 Hasle",asle,265.000,31-08-2005,Alm. Salg,4.274,2,Lejlighed,62,1973,,Aktuel værdi
+"Havnen 14, 2. 53790 Hasle",asle,265.000,31-08-2005,Alm. Salg,4.344,2,Lejlighed,61,1973,,Aktuel værdi
+"Havnen 14, 2. 63790 Hasle",asle,265.000,31-08-2005,Alm. Salg,4.491,2,Lejlighed,59,1973,,Aktuel værdi
+"Havnen 14, 2. 73790 Hasle",asle,265.000,31-08-2005,Alm. Salg,4.344,2,Lejlighed,61,1973,,Aktuel værdi
+Hasle Feriepark 43790 Hasle,asle,539.000,30-08-2005,Alm. Salg,11.468,3,Sommerhus,47,1974,,Aktuel værdi
+Fælledvej 28A3790 Hasle,asle,150.000,29-08-2005,Alm. Salg,-,26,"Ferie, andet",158,1947,,Aktuel værdi
+Klympen 233790 Hasle,asle,380.000,26-08-2005,Fam. Salg,5.757,3,Sommerhus,66,1978,,Aktuel værdi
+Korsgade 93790 Hasle,asle,370.000,23-08-2005,Alm. Salg,4.625,3,Rækkehus,80,1906,,Aktuel værdi
+Fuglesangsvej 113790 Hasle,asle,800.000,22-08-2005,Alm. Salg,6.060,6,Sommerhus,132,1880,,Aktuel værdi
+Østergade 233790 Hasle,asle,245.086,15-08-2005,Fam. Salg,1.678,6,Rækkehus,146,1928,,Aktuel værdi
+Hasle Feriepark 433790 Hasle,asle,495.000,09-08-2005,Alm. Salg,10.312,3,Sommerhus,48,1974,,Aktuel værdi
+Toldbodgade 43790 Hasle,asle,335.000,16-07-2005,Alm. Salg,5.775,3,Rækkehus,58,1897,,Aktuel værdi
+Hasle Feriepark 263790 Hasle,asle,495.000,14-07-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Klympen 33790 Hasle,asle,498.000,11-07-2005,Alm. Salg,6.916,4,Sommerhus,72,1977,,Aktuel værdi
+Hasle Marina 423790 Hasle,asle,2.028.940,05-07-2005,Alm. Salg,17.490,4,Rækkehus,116,2003,,Aktuel værdi
+Hasle Feriepark 483790 Hasle,asle,495.000,28-06-2005,Alm. Salg,10.312,3,Sommerhus,48,1974,,Aktuel værdi
+Hasle Feriepark 623790 Hasle,asle,495.000,28-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Ellebakken 93790 Hasle,asle,995.000,27-06-2005,Alm. Salg,5.621,7,Villa,177,1965,,Aktuel værdi
+Toftebakken 143790 Hasle,asle,1.075.000,23-06-2005,Alm. Salg,7.678,4,Villa,140,1973,,Aktuel værdi
+Fuglebakken 103790 Hasle,asle,910.000,21-06-2005,Alm. Salg,16.545,4,Sommerhus,55,1973,,Aktuel værdi
+Hasle Feriepark 473790 Hasle,asle,495.000,20-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 503790 Hasle,asle,495.000,19-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 423790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.312,3,Sommerhus,48,1974,,Aktuel værdi
+Hasle Feriepark 13790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.312,3,Sommerhus,48,1974,,Aktuel værdi
+Hasle Feriepark 653790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 343790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 693790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 113790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 583790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 33790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 613790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.312,3,Sommerhus,48,1974,,Aktuel værdi
+Hasle Feriepark 293790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 93790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 83790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 463790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 353790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 303790 Hasle,asle,495.000,14-06-2005,Alm. Salg,10.312,3,Sommerhus,48,1974,,Aktuel værdi
+Hasle Feriepark 513790 Hasle,asle,495.000,10-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Hasle Feriepark 523790 Hasle,asle,495.000,08-06-2005,Alm. Salg,10.531,3,Sommerhus,47,1974,,Aktuel værdi
+Tassevej 83790 Hasle,asle,475.000,27-05-2005,Alm. Salg,2.794,6,Stuehus,170,1928,,
+Korsgade 223790 Hasle,asle,290.000,26-05-2005,Alm. Salg,3.670,3,Rækkehus,79,1880,,Aktuel værdi
+Storegade 4B3790 Hasle,asle,695.000,10-05-2005,Alm. Salg,6.435,3,Villa,108,1964,,Aktuel værdi
+Havnegade 33790 Hasle,asle,350.000,02-05-2005,Alm. Salg,3.398,4,Villa,103,1900,,Aktuel værdi
+Fuglebakken 133790 Hasle,asle,1.200.000,08-04-2005,Alm. Salg,14.814,4,Sommerhus,81,1982,,Aktuel værdi
+Rubinvej 2. L203790 Hasle,asle,1.250.000,04-04-2005,Alm. Salg,12.500,5,Sommerhus,100,2001,,Aktuel værdi
+Kumlehøjvej 43790 Hasle,asle,724.500,30-03-2005,Alm. Salg,4.187,8,Villa,173,1926,,Aktuel værdi
+Hasle Marina 233790 Hasle,asle,1.085.000,20-03-2005,Fam. Salg,12.055,5,Rækkehus,90,2006,,Aktuel værdi
+Hasle Marina 433790 Hasle,asle,1.085.000,20-03-2005,Fam. Salg,12.055,5,Rækkehus,90,2006,,Aktuel værdi
+Campanella 43790 Hasle,asle,835.000,25-02-2005,Alm. Salg,-,5,Sommerhus,116,1942,,Aktuel værdi
+Hasle Marina 513790 Hasle,asle,1.775.000,07-02-2005,Alm. Salg,13.867,5,Rækkehus,128,2006,,Aktuel værdi
+Ved Brønden 63790 Hasle,asle,1.175.000,28-01-2005,Alm. Salg,15.666,5,Sommerhus,75,1986,,Aktuel værdi
+Nørregade 13790 Hasle,asle,625.000,18-01-2005,Alm. Salg,5.530,5,Rækkehus,113,1777,,Aktuel værdi
+Teglkåsvej 66A3790 Hasle,asle,1.430.000,01-01-2005,Alm. Salg,16.823,2,Villa,85,1920,,Aktuel værdi
+Hasle Marina 353790 Hasle,asle,1.952.906,22-12-2004,Alm. Salg,14.573,5,Rækkehus,134,2006,,Aktuel værdi
+Vestergade 553790 Hasle,asle,525.000,13-12-2004,Alm. Salg,5.965,4,Rækkehus,88,1938,,Aktuel værdi
+Korsgade 123790 Hasle,asle,1.095.000,13-12-2004,Alm. Salg,9.049,4,Rækkehus,121,1850,,Aktuel værdi
+Tassevej 133790 Hasle,asle,650.000,01-12-2004,Alm. Salg,3.779,7,Villa,172,1935,,Aktuel værdi
+Torpevej 203790 Hasle,asle,273.500,29-11-2004,Alm. Salg,1.698,7,Villa,161,1942,,Aktuel værdi
+Toftegårdsvej 243790 Hasle,asle,625.000,22-11-2004,Alm. Salg,14.204,3,Sommerhus,44,1962,,Aktuel værdi
+Kirkedalsvej 203790 Hasle,asle,150.000,16-11-2004,Fam. Salg,1.648,4,Villa,91,1931,,Aktuel værdi
+Korsgade 183790 Hasle,asle,1.275.000,11-11-2004,Alm. Salg,-,4,Rækkehus,159,1880,,Aktuel værdi
+Hasle Marina 273790 Hasle,asle,1.422.185,08-11-2004,Alm. Salg,15.802,5,Rækkehus,90,2006,,Aktuel værdi
+Hasle Marina 453790 Hasle,asle,1.645.000,02-11-2004,Alm. Salg,14.181,5,Rækkehus,116,2006,,Aktuel værdi
+Hasle Marina 413790 Hasle,asle,1.380.455,02-11-2004,Alm. Salg,15.338,5,Rækkehus,90,2006,,Aktuel værdi
+Møllebakken 163790 Hasle,asle,600.000,01-11-2004,Alm. Salg,6.818,3,Villa,88,1966,,Aktuel værdi
+Hasle Marina 333790 Hasle,asle,1.660.730,19-10-2004,Alm. Salg,13.612,5,Rækkehus,122,2006,,Aktuel værdi
+Pilestræde 13790 Hasle,asle,1.125.000,24-09-2004,Alm. Salg,-,3,Lejlighed,133,1889,,Aktuel værdi
+Kirkevej 93790 Hasle,asle,925.000,07-09-2004,Alm. Salg,4.468,5,Stuehus,207,1735,,
+Toftegårdsvej 183790 Hasle,asle,500.000,05-09-2004,Alm. Salg,4.629,3,Sommerhus,108,1909,,Aktuel værdi
+Storegade 823790 Hasle,asle,595.000,17-07-2004,Alm. Salg,4.219,3,Villa,141,1897,,Aktuel værdi
+Storegade 20B3790 Hasle,asle,250.000,05-07-2004,Alm. Salg,1.838,4,Rækkehus,136,1827,,Aktuel værdi
+Toftekrogen 23790 Hasle,asle,940.000,25-06-2004,Alm. Salg,5.497,5,Rækkehus,171,1977,,Aktuel værdi
+Storegade 1103790 Hasle,asle,1.075.000,22-06-2004,Alm. Salg,5.569,5,Villa,193,1905,,Aktuel værdi
+"Havnegade 4, 1. 63790 Hasle",asle,1.050.000,09-06-2004,Fam. Salg,7.000,4,Lejlighed,150,1910,,Aktuel værdi
+Hasle Marina 533790 Hasle,asle,1.645.000,09-06-2004,Alm. Salg,13.483,6,Rækkehus,122,2006,,Aktuel værdi
+Hasle Marina 253790 Hasle,asle,1.285.000,06-06-2004,Alm. Salg,14.277,5,Rækkehus,90,2006,,Aktuel værdi
+Dambakken 63790 Hasle,asle,650.000,02-06-2004,Alm. Salg,7.738,5,Villa,84,1951,,Aktuel værdi
+Storegade 273790 Hasle,asle,565.000,24-05-2004,Alm. Salg,4.312,4,Rækkehus,131,1900,,Aktuel værdi
+Jons Kapelvej 23790 Hasle,asle,895.000,19-05-2004,Alm. Salg,6.302,5,Villa,142,1948,,Aktuel værdi
+Baggårdsvej 63790 Hasle,asle,109.525,05-05-2004,Alm. Salg,373,6,Stuehus,293,1871,,
+Heroldsgade 63790 Hasle,asle,387.500,05-05-2004,Alm. Salg,2.672,5,Rækkehus,145,1912,,Aktuel værdi
+Hyldegårdsvej 33790 Hasle,asle,450.000,05-05-2004,Alm. Salg,4.787,4,Stuehus,94,1912,,
+Borregærdet 103790 Hasle,asle,810.000,30-04-2004,Andet,11.408,3,Sommerhus,71,1996,,Aktuel værdi
+Byledsgade 33790 Hasle,asle,50.000,26-04-2004,Alm. Salg,666,2,Villa,75,1900,,Aktuel værdi
+Hasle Marina 373790 Hasle,asle,1.645.000,24-04-2004,Alm. Salg,14.181,5,Rækkehus,116,2006,,Aktuel værdi
+Østergade 293790 Hasle,asle,290.000,20-04-2004,Alm. Salg,4.264,4,Villa,68,1960,,Aktuel værdi
+Toldbodgade 33790 Hasle,asle,455.000,17-04-2004,Alm. Salg,4.460,4,Rækkehus,102,1935,,Aktuel værdi
+Hasle Marina 183790 Hasle,asle,1.356.875,16-04-2004,Alm. Salg,15.076,3,Rækkehus,90,2004,,Aktuel værdi
+Kumlehøjvej 63790 Hasle,asle,464.959,06-04-2004,Alm. Salg,4.843,4,Sommerhus,96,1942,,Aktuel værdi
+Sandløkkegade 113790 Hasle,asle,430.000,24-03-2004,Alm. Salg,5.657,3,Rækkehus,76,1900,,Aktuel værdi
+Bykærvej 143790 Hasle,asle,1.020.000,23-03-2004,Alm. Salg,7.034,7,Stuehus,145,1857,,
+Borrelyngvej 263790 Hasle,asle,430.000,15-03-2004,Fam. Salg,3.028,5,Villa,142,1927,,Aktuel værdi
+Campanella 203790 Hasle,asle,750.000,04-03-2004,Alm. Salg,12.096,3,Sommerhus,62,1967,,Aktuel værdi
+Hasle Nygade 13790 Hasle,asle,1.350.000,24-02-2004,Alm. Salg,10.150,4,Villa,133,1870,,Aktuel værdi
+Sildetorvet 53790 Hasle,asle,310.000,20-02-2004,Alm. Salg,5.166,3,Rækkehus,60,1777,,Aktuel værdi
+Kirkebyen 53790 Hasle,asle,425.000,11-02-2004,Alm. Salg,3.244,4,Villa,131,1950,,Aktuel værdi
+Hasle Marina 203790 Hasle,asle,1.765.000,26-01-2004,Alm. Salg,13.682,6,Rækkehus,129,2004,,Aktuel værdi
+Teglkåsvej 823790 Hasle,asle,1.530.000,23-01-2004,Alm. Salg,11.769,3,Villa,130,1954,,Aktuel værdi
+Borregærdet 33790 Hasle,asle,2.250.000,20-01-2004,Alm. Salg,15.734,5,Sommerhus,143,2002,,Aktuel værdi
+Krummeledvej 123790 Hasle,asle,420.000,19-12-2003,Fam. Salg,5.250,4,Stuehus,80,1915,,
+Simblegårdsvej 233790 Hasle,asle,8.480.000,19-12-2003,Fam. Salg,42.400,6,Stuehus,200,1900,,
+Sandløkkegade 153790 Hasle,asle,345.000,15-12-2003,Alm. Salg,4.312,2,Rækkehus,80,1900,,Aktuel værdi
+Klympen 103790 Hasle,asle,495.000,02-12-2003,Alm. Salg,11.785,2,Sommerhus,42,1946,,Aktuel værdi
+Toftegårdsvej 203790 Hasle,asle,210.000,21-11-2003,Alm. Salg,3.888,3,Villa,54,1936,,Aktuel værdi
+Ellebakken 183790 Hasle,asle,765.000,12-11-2003,Alm. Salg,5.464,5,Villa,140,1969,,Aktuel værdi
+Hasle Marina 323790 Hasle,asle,1.695.000,10-11-2003,Alm. Salg,13.242,6,Rækkehus,128,2003,,Aktuel værdi
+Grønnegade 93790 Hasle,asle,348.000,30-10-2003,Alm. Salg,3.515,5,Rækkehus,99,1902,,Aktuel værdi
+Vang 483790 Hasle,asle,598.000,18-10-2003,Alm. Salg,5.537,7,Villa,108,1827,,Aktuel værdi
+Nørregade 23790 Hasle,asle,335.000,15-10-2003,Alm. Salg,3.722,4,Rækkehus,90,1900,,Aktuel værdi
+Fuglebakken 113790 Hasle,asle,745.000,08-10-2003,Alm. Salg,10.205,5,Sommerhus,73,1973,,Aktuel værdi
+Vang 45B3790 Hasle,asle,1.250.000,07-10-2003,Alm. Salg,4.789,11,Villa,261,1933,,Aktuel værdi
+Strandgade 53790 Hasle,asle,275.000,09-08-2003,Alm. Salg,4.910,3,Rækkehus,56,1877,,Aktuel værdi
+Klympen 93790 Hasle,asle,645.000,06-08-2003,Alm. Salg,11.120,3,Sommerhus,58,1963,,Aktuel værdi
+Skovkanten 6. L243790 Hasle,asle,998.000,02-08-2003,Alm. Salg,9.980,5,Sommerhus,100,2001,,Aktuel værdi
+Teglkåsvej 723790 Hasle,asle,1.165.000,14-07-2003,Alm. Salg,7.420,5,Villa,157,1906,,Aktuel værdi
+Gammeltoft 173790 Hasle,asle,875.000,11-07-2003,Alm. Salg,8.027,4,Villa,109,1986,,Aktuel værdi
+Hasle Nygade 53790 Hasle,asle,150.000,09-07-2003,Alm. Salg,1.829,4,Villa,82,1942,,Aktuel værdi
+Helligpedervej 13790 Hasle,asle,1.200.000,02-07-2003,Alm. Salg,5.853,6,Stuehus,205,1910,,
+Skovkanten 15. L373790 Hasle,asle,1.425.000,27-06-2003,Alm. Salg,11.585,5,Sommerhus,123,2005,,Aktuel værdi
+Storegade 883790 Hasle,asle,550.000,24-06-2003,Alm. Salg,4.044,5,Villa,136,1900,,Aktuel værdi
+Kirkedalsvej 43790 Hasle,asle,950.000,13-06-2003,Alm. Salg,3.380,6,Stuehus,281,1850,,
+Skovkanten 12. L333790 Hasle,asle,1.425.000,02-06-2003,Alm. Salg,11.585,5,Sommerhus,123,2004,,Aktuel værdi
+Hasle Marina 283790 Hasle,asle,1.185.000,01-06-2003,Alm. Salg,13.166,5,Rækkehus,90,2003,,Aktuel værdi
+Skovkanten 5. L263790 Hasle,asle,1.158.000,28-05-2003,Alm. Salg,11.580,5,Sommerhus,100,2002,,Aktuel værdi
+Bagå 103790 Hasle,asle,490.000,28-05-2003,Alm. Salg,8.166,3,Sommerhus,60,1967,,Aktuel værdi
+Skovkanten 11. L293790 Hasle,asle,1.258.000,25-05-2003,Alm. Salg,10.227,5,Sommerhus,123,2004,,Aktuel værdi
+Nørregade 173790 Hasle,asle,1.265.000,23-05-2003,Alm. Salg,-,7,Villa,221,1988,,Aktuel værdi
+Hasle Marina 343790 Hasle,asle,1.525.000,22-05-2003,Alm. Salg,13.146,4,Rækkehus,116,2003,,Aktuel værdi
+Hasle Marina 503790 Hasle,asle,1.185.000,22-05-2003,Alm. Salg,13.166,4,Rækkehus,90,2003,,Aktuel værdi
+Hasle Marina 523790 Hasle,asle,1.585.000,22-05-2003,Alm. Salg,12.680,5,Rækkehus,125,2003,,Aktuel værdi
+Hasle Marina 363790 Hasle,asle,1.695.000,19-05-2003,Alm. Salg,13.242,6,Rækkehus,128,2003,,Aktuel værdi
+Hasle Marina 483790 Hasle,asle,1.185.000,19-05-2003,Alm. Salg,13.166,4,Rækkehus,90,2003,,Aktuel værdi
+Korsgade 133790 Hasle,asle,249.000,01-05-2003,Fam. Salg,2.929,5,Villa,85,1901,,Aktuel værdi
+Julegade 2C3790 Hasle,asle,750.000,28-04-2003,Alm. Salg,-,5,Villa,169,1860,,Aktuel værdi
+Heroldsgade 33790 Hasle,asle,594.516,23-04-2003,Alm. Salg,6.605,3,Rækkehus,90,1927,,Aktuel værdi
+Byledsgade 73790 Hasle,asle,250.000,22-04-2003,Alm. Salg,-,4,Villa,159,1911,,Aktuel værdi
+Krummeledvej 63790 Hasle,asle,525.000,26-03-2003,Alm. Salg,3.977,5,Villa,132,1910,,Aktuel værdi
+Toldbodgade 63790 Hasle,asle,210.000,13-03-2003,Alm. Salg,3.000,3,Rækkehus,70,1900,,Aktuel værdi
+Hoglebjergvej 13790 Hasle,asle,875.000,04-03-2003,Alm. Salg,3.365,8,Stuehus,260,1916,,
+Skovkanten 20. L413790 Hasle,asle,1.158.000,25-02-2003,Alm. Salg,11.580,5,Sommerhus,100,2001,,Aktuel værdi
+Fuglesangsvej 183790 Hasle,asle,380.000,07-02-2003,Fam. Salg,2.171,6,Stuehus,175,1907,,
+Sandløkkegade 103790 Hasle,asle,790.000,30-01-2003,Alm. Salg,5.197,4,Villa,152,1900,,Aktuel værdi
+Nørregade 353790 Hasle,asle,2.050.000,30-01-2003,Alm. Salg,11.781,6,Villa,174,1988,,Aktuel værdi
+Hasle Marina 303790 Hasle,asle,1.235.000,28-01-2003,Alm. Salg,13.722,4,Rækkehus,90,2003,,Aktuel værdi
+Sildetorvet 73790 Hasle,asle,310.000,13-01-2003,Fam. Salg,3.924,4,Rækkehus,79,1700,,Aktuel værdi
+Ellebakken 53790 Hasle,asle,460.000,10-01-2003,Alm. Salg,4.423,4,Villa,104,1967,,Aktuel værdi
+Korsgade 203790 Hasle,asle,280.000,02-01-2003,Alm. Salg,2.333,4,Rækkehus,120,1700,,Aktuel værdi
+Gammeltoft 103790 Hasle,asle,585.000,19-12-2002,Alm. Salg,-,6,Villa,163,1978,,Aktuel værdi
+Kumlehøjvej 153790 Hasle,asle,30.000,19-12-2002,Alm. Salg,200,5,Stuehus,150,1976,,
+Borregærdet 63790 Hasle,asle,595.000,04-12-2002,Alm. Salg,-,4,Sommerhus,53,1986,,Aktuel værdi
+Borrelyngvej 33790 Hasle,asle,373.279,04-12-2002,Andet,2.827,4,Stuehus,132,1900,,
+Heroldsgade 13790 Hasle,asle,465.000,04-12-2002,Alm. Salg,5.812,3,Rækkehus,80,1932,,Aktuel værdi
+Toftekrogen 103790 Hasle,asle,705.000,29-11-2002,Alm. Salg,4.638,5,Villa,152,1976,,Aktuel værdi
+Hasle Søndergade 203790 Hasle,asle,624.842,06-11-2002,Alm. Salg,4.221,5,Villa,148,1930,,Aktuel værdi
+Damløkkevej 153790 Hasle,asle,437.500,31-10-2002,Alm. Salg,4.419,3,Villa,99,1969,,Aktuel værdi
+Svalhøjvej 603790 Hasle,asle,275.000,27-10-2002,Alm. Salg,2.412,4,Villa,114,1949,,Aktuel værdi
+Borrelyngvej 53790 Hasle,asle,1.100.000,25-10-2002,Alm. Salg,7.189,5,Sommerhus,153,1952,,Aktuel værdi
+Sandløkkegade 1B3790 Hasle,asle,375.000,16-10-2002,Alm. Salg,4.934,3,Rækkehus,76,1860,,Aktuel værdi
+Hasle Marina 583790 Hasle,asle,1.695.000,10-10-2002,Alm. Salg,12.649,6,Rækkehus,134,2003,,Aktuel værdi
+Campanella 163790 Hasle,asle,240.987,06-10-2002,Fam. Salg,5.476,3,Sommerhus,44,1942,,Aktuel værdi
+Krakvej 93790 Hasle,asle,420.000,04-10-2002,Alm. Salg,3.442,4,Sommerhus,122,1900,,Aktuel værdi
+Fælledvej 583790 Hasle,asle,150.000,21-09-2002,Alm. Salg,1.145,5,Sommerhus,131,1877,,Aktuel værdi
+Kirkedalsvej 163790 Hasle,asle,485.000,18-09-2002,Alm. Salg,2.921,4,Villa,166,1910,,Aktuel værdi
+Mølleparken 163790 Hasle,asle,1.230.000,03-09-2002,Alm. Salg,5.211,6,Villa,236,1986,,Aktuel værdi
+Rosendalevej 23790 Hasle,asle,440.000,27-08-2002,Alm. Salg,4.400,3,Villa,100,1850,,Aktuel værdi
+Vystebyvej 23790 Hasle,asle,128.310,23-08-2002,Alm. Salg,499,9,Stuehus,257,1920,,
+Svalhøjvej 253790 Hasle,asle,610.000,22-08-2002,Alm. Salg,3.910,5,Stuehus,156,1890,,
+Jydegårdsvej 173790 Hasle,asle,237.500,12-08-2002,Alm. Salg,2.473,4,Sommerhus,96,2001,,Aktuel værdi
+Vang 383790 Hasle,asle,2.785.000,01-08-2002,Alm. Salg,13.136,4,Villa,212,1984,,Aktuel værdi
+Rubinvej 2. L153790 Hasle,asle,1.258.000,08-06-2002,Alm. Salg,10.227,5,Sommerhus,123,2002,,Aktuel værdi
+Halledalsvej 23790 Hasle,asle,1.000.000,03-06-2002,Alm. Salg,5.555,7,Stuehus,180,1853,,
+Krogholmsvej 43790 Hasle,asle,475.000,27-05-2002,Alm. Salg,3.830,6,Stuehus,124,1955,,
+Hasle Marina 403790 Hasle,asle,1.185.000,22-05-2002,Alm. Salg,12.343,5,Rækkehus,96,2003,,Aktuel værdi
+Skovkanten 2. L223790 Hasle,asle,178.000,15-04-2002,Alm. Salg,1.459,5,Sommerhus,122,2012,,Aktuel værdi
+Skovkanten 4. L233790 Hasle,asle,178.000,15-04-2002,Alm. Salg,1.379,5,Sommerhus,129,2006,,Aktuel værdi
+Kirkebyen 293790 Hasle,asle,345.000,20-03-2002,Alm. Salg,3.080,4,Villa,112,1968,,Aktuel værdi
+Strandgade 33790 Hasle,asle,285.000,14-03-2002,Alm. Salg,-,5,Villa,132,1850,,Aktuel værdi
+Vestergade 513790 Hasle,asle,665.000,12-02-2002,Alm. Salg,5.683,7,Villa,117,1900,,Aktuel værdi
+Ved Brønden 223790 Hasle,asle,442.000,10-02-2002,Fam. Salg,7.245,4,Sommerhus,61,1984,,Aktuel værdi
+Borrelyngvej 73790 Hasle,asle,2.650.000,31-01-2002,Alm. Salg,9.962,7,Stuehus,266,1917,,
+Toftelunden 383790 Hasle,asle,935.000,15-01-2002,Alm. Salg,5.312,6,Villa,176,1984,,Aktuel værdi
+"Havnegade 4, ST. 33790 Hasle",asle,160.000,04-12-2001,Alm. Salg,3.200,2,Lejlighed,50,1910,,Aktuel værdi
+Korsgade 113790 Hasle,asle,564.000,01-12-2001,Alm. Salg,5.640,4,Rækkehus,100,1906,,Aktuel værdi
+Østergade 4B3790 Hasle,asle,760.000,16-11-2001,Alm. Salg,-,8,Villa,250,1962,,Aktuel værdi
+Fælledvej 603790 Hasle,asle,331.500,08-11-2001,Fam. Salg,5.525,3,Sommerhus,60,1777,,Aktuel værdi
+Rosendalevej 13790 Hasle,asle,485.000,03-10-2001,Alm. Salg,5.159,4,Villa,94,1850,,Aktuel værdi
+Pellegårdsvej 183790 Hasle,asle,350.000,26-09-2001,Alm. Salg,3.846,2,Villa,91,1961,,Aktuel værdi
+Baggårdsvej 243790 Hasle,asle,498.000,18-09-2001,Alm. Salg,5.242,4,Villa,95,1900,,Aktuel værdi
+Krakvej 143790 Hasle,asle,450.000,16-09-2001,Alm. Salg,7.500,4,Sommerhus,60,1870,,
+Kirkedalsvej 213790 Hasle,asle,447.989,22-08-2001,Alm. Salg,2.966,6,Stuehus,151,1975,,
+Kirkegade 113790 Hasle,asle,390.000,17-08-2001,Andet,4.875,3,Rækkehus,80,1785,,Aktuel værdi
+Storegade 263790 Hasle,asle,330.000,03-08-2001,Alm. Salg,1.964,6,Rækkehus,168,1900,,Aktuel værdi
+Storegade 253790 Hasle,asle,345.000,30-07-2001,Alm. Salg,2.633,7,Rækkehus,131,1907,,Aktuel værdi
+Storegade 233790 Hasle,asle,327.000,29-07-2001,Alm. Salg,2.554,4,Rækkehus,128,1916,,Aktuel værdi
+Løkkegade 63790 Hasle,asle,574.411,19-07-2001,Alm. Salg,4.670,4,Rækkehus,123,1937,,Aktuel værdi
+Storegade 303790 Hasle,asle,425.000,05-07-2001,Alm. Salg,3.794,5,Rækkehus,112,1875,,Aktuel værdi
+Gasværksvej 103790 Hasle,asle,521.370,02-07-2001,Andet,4.739,4,Rækkehus,110,1909,,Aktuel værdi
+"Storegade 22, 13790 Hasle",asle,425.000,21-06-2001,Alm. Salg,3.057,5,Lejlighed,139,1877,,Aktuel værdi
+Vestergade 43790 Hasle,asle,377.000,21-06-2001,Alm. Salg,4.435,2,Villa,85,1895,,Aktuel værdi
+Skovkanten 263790 Hasle,asle,155.000,13-06-2001,Fam. Salg,2.924,3,Sommerhus,53,1985,,Aktuel værdi
+Storegade 20A3790 Hasle,asle,210.000,23-05-2001,Alm. Salg,1.810,4,Rækkehus,116,1827,,Aktuel værdi
+Fælledvej 103790 Hasle,asle,135.000,22-05-2001,Alm. Salg,1.928,2,Villa,70,1880,,Aktuel værdi
+Rubinvej 2. L0193790 Hasle,asle,945.000,14-05-2001,Alm. Salg,9.450,5,Sommerhus,100,2002,,Aktuel værdi
+Teglkåsvej 363790 Hasle,asle,1.078.000,09-05-2001,Alm. Salg,5.988,4,Villa,180,1917,,Aktuel værdi
+Storegade 37C3790 Hasle,asle,240.000,02-05-2001,Alm. Salg,2.790,4,Rækkehus,86,1800,,Aktuel værdi
+Simblegårdsvej 253790 Hasle,asle,593.592,01-05-2001,Alm. Salg,3.372,6,Stuehus,176,1954,,
+Fælledvej 473790 Hasle,asle,456.000,26-04-2001,Alm. Salg,-,3,Villa,80,1959,,Aktuel værdi
+Østergade 363790 Hasle,asle,385.000,26-04-2001,Alm. Salg,3.208,5,Villa,120,1929,,Aktuel værdi
+Skovkanten 363790 Hasle,asle,106.668,15-04-2001,Alm. Salg,1.481,4,Sommerhus,72,2002,,Aktuel værdi
+Fælledvej 573790 Hasle,asle,330.000,28-03-2001,Alm. Salg,3.473,4,Rækkehus,95,1937,,Aktuel værdi
+Ndr Tværgade 13790 Hasle,asle,437.000,26-03-2001,Alm. Salg,3.641,4,Rækkehus,120,1850,,Aktuel værdi
+Fælledvej 4B3790 Hasle,asle,285.000,04-03-2001,Alm. Salg,4.830,3,Rækkehus,59,1890,,Aktuel værdi
+Sandløkkegade 143790 Hasle,asle,403.000,02-03-2001,Alm. Salg,3.148,5,Rækkehus,128,1911,,Aktuel værdi
+Paradisvej 163790 Hasle,asle,795.000,22-02-2001,Alm. Salg,-,4,Sommerhus,100,1966,,Aktuel værdi
+Kirkevej 23790 Hasle,asle,1.320.000,23-01-2001,Alm. Salg,5.096,7,Villa,259,1877,,Aktuel værdi
+Kirkedalsvej 143790 Hasle,asle,330.000,28-12-2000,Alm. Salg,3.267,4,Villa,101,1953,,Aktuel værdi
+Storegade 3A3790 Hasle,asle,175.000,08-12-2000,Alm. Salg,1.129,7,Villa,155,1900,,Aktuel værdi
+Krakvej 33790 Hasle,asle,180.000,02-12-2000,Alm. Salg,1.875,3,Sommerhus,96,1905,,Aktuel værdi
+Ellebakken 13790 Hasle,asle,585.000,12-11-2000,Alm. Salg,3.900,5,Villa,150,1966,,Aktuel værdi
+Tofteløkken 83790 Hasle,asle,760.000,07-11-2000,Alm. Salg,5.588,5,Villa,136,1976,,Aktuel værdi
+Bagå 13790 Hasle,asle,835.000,03-11-2000,Alm. Salg,6.900,4,Villa,121,1912,,Aktuel værdi
+Kirkedalsvej 113790 Hasle,asle,300.000,01-11-2000,Alm. Salg,2.343,6,Villa,128,1942,,Aktuel værdi
+Havnegade 23790 Hasle,asle,570.000,26-10-2000,Alm. Salg,4.672,5,Villa,122,1900,,Aktuel værdi
+Brænderivej 123790 Hasle,asle,760.000,09-10-2000,Alm. Salg,4.470,5,Villa,170,1973,,Aktuel værdi
+Kirkevej 53790 Hasle,asle,460.426,04-10-2000,Alm. Salg,3.069,6,Stuehus,150,1850,,
+Skovkanten 16. L393790 Hasle,asle,1.095.000,02-09-2000,Alm. Salg,10.950,5,Sommerhus,100,2001,,Aktuel værdi
+Vestergade 113790 Hasle,asle,424.590,01-09-2000,Alm. Salg,3.968,3,Rækkehus,107,1912,,Aktuel værdi
+Udmarksvej 83790 Hasle,asle,1.030.000,11-08-2000,Fam. Salg,7.357,5,Stuehus,140,1900,,
+Campanella 33790 Hasle,asle,475.000,31-07-2000,Fam. Salg,9.895,3,Sommerhus,48,1970,,Aktuel værdi
+Borrelyngvej 353790 Hasle,asle,440.000,12-07-2000,Alm. Salg,2.404,6,Stuehus,183,1841,,
+Storegade 663790 Hasle,asle,360.000,12-07-2000,Alm. Salg,-,8,Villa,150,1827,,Aktuel værdi
+Gammeltoft 33790 Hasle,asle,676.000,04-07-2000,Alm. Salg,6.035,4,Villa,112,1977,,Aktuel værdi
+Toftelunden 403790 Hasle,asle,637.718,04-07-2000,Alm. Salg,5.745,5,Villa,111,1982,,Aktuel værdi
+Klympen 23790 Hasle,asle,385.000,03-07-2000,Alm. Salg,5.746,5,Sommerhus,67,1977,,Aktuel værdi
+Malerstræde 23790 Hasle,asle,287.000,23-06-2000,Alm. Salg,4.484,3,Villa,64,1960,,Aktuel værdi
+Kirkebyen 363790 Hasle,asle,500.000,19-06-2000,Alm. Salg,3.906,6,Stuehus,128,1862,,
+Klympen 63790 Hasle,asle,380.000,16-06-2000,Alm. Salg,-,4,Sommerhus,75,1977,,Aktuel værdi
+Løkkegade 43790 Hasle,asle,290.000,13-06-2000,Alm. Salg,3.815,3,Rækkehus,76,1938,,Aktuel værdi
+Jydegårdsvej 63790 Hasle,asle,360.000,24-05-2000,Alm. Salg,4.000,4,Stuehus,90,1930,,
+Krummeledvej 23790 Hasle,asle,261.770,16-05-2000,Alm. Salg,-,7,Stuehus,214,1877,,
+Hasle Søndergade 43790 Hasle,asle,150.000,08-05-2000,Alm. Salg,1.315,4,Rækkehus,114,1890,,Aktuel værdi
+Storegade 213790 Hasle,asle,575.000,03-05-2000,Alm. Salg,2.405,9,Rækkehus,239,1895,,Aktuel værdi
+Fuglebakken 53790 Hasle,asle,565.403,17-04-2000,Alm. Salg,10.280,4,Sommerhus,55,1978,,Aktuel værdi
+Dambakken 153790 Hasle,asle,225.000,24-02-2000,Alm. Salg,-,4,Rækkehus,94,1948,,Aktuel værdi
+Vang 663790 Hasle,asle,220.000,10-02-2000,Alm. Salg,4.400,4,Rækkehus,50,1900,,Aktuel værdi
+Grønnegade 23790 Hasle,asle,1.450.000,26-01-2000,Alm. Salg,18.125,3,Rækkehus,80,1989,,Aktuel værdi
+Grønnegade 43790 Hasle,asle,1.450.000,26-01-2000,Alm. Salg,18.125,3,Rækkehus,80,1989,,Aktuel værdi
+Grønnegade 63790 Hasle,asle,1.450.000,26-01-2000,Alm. Salg,18.125,3,Rækkehus,80,1989,,Aktuel værdi
+Storegade 37A3790 Hasle,asle,1.450.000,26-01-2000,Alm. Salg,15.934,3,Rækkehus,91,1800,,Aktuel værdi
+Udmarksvej 13790 Hasle,asle,665.000,27-12-1999,Alm. Salg,10.390,3,Sommerhus,64,1827,,Aktuel værdi
+Skråvej 23790 Hasle,asle,532.400,10-12-1999,Alm. Salg,3.095,6,Stuehus,172,1955,,
+Skovkanten 253790 Hasle,asle,160.049,08-12-1999,Alm. Salg,1.739,3,Sommerhus,92,2008,,Aktuel værdi
+Søndre Bæk 83790 Hasle,asle,545.000,04-12-1999,Alm. Salg,6.411,4,Villa,85,1937,,Aktuel værdi
+Storegade 243790 Hasle,asle,176.203,29-11-1999,Alm. Salg,1.587,3,Rækkehus,111,1900,,Aktuel værdi
+Østergade 4A3790 Hasle,asle,342.947,22-11-1999,Alm. Salg,6.595,2,Sommerhus,52,1959,,Aktuel værdi
+Ellebakken 23790 Hasle,asle,732.000,17-11-1999,Alm. Salg,6.203,4,Villa,118,1983,,Aktuel værdi
+Kirkegade 133790 Hasle,asle,495.000,01-11-1999,Alm. Salg,6.689,3,Rækkehus,74,1785,,Aktuel værdi
+Kirkedalsvej 173790 Hasle,asle,531.547,30-10-1999,Alm. Salg,3.108,8,Stuehus,171,1850,,
+Svalhøjvej 643790 Hasle,asle,380.000,26-10-1999,Alm. Salg,-,5,Stuehus,220,1885,,
+Storegade 13790 Hasle,asle,70.000,06-10-1999,Alm. Salg,510,7,Villa,137,1880,,Aktuel værdi
+Teglkåsvej 63790 Hasle,asle,1.560.010,05-10-1999,Alm. Salg,7.323,7,Villa,213,1922,,Aktuel værdi
+Ndr Tværgade 53790 Hasle,asle,99.390,22-09-1999,Andet,928,3,Villa,107,1827,,Aktuel værdi
+Fuglebakken 283790 Hasle,asle,235.773,06-09-1999,Fam. Salg,2.619,4,Sommerhus,90,1973,,Aktuel værdi
+Toftelunden 83790 Hasle,asle,90.640,01-09-1999,Alm. Salg,708,5,Villa,128,2000,,Aktuel værdi
+Teglkåsvej 103790 Hasle,asle,630.000,11-08-1999,Alm. Salg,-,5,Villa,86,1878,,Aktuel værdi
+Vang 543790 Hasle,asle,707.000,19-07-1999,Alm. Salg,-,5,Villa,148,1937,,Aktuel værdi
+Nørregade 63790 Hasle,asle,409.931,09-07-1999,Alm. Salg,1.673,5,Rækkehus,245,1900,,Aktuel værdi
+Storegade 843790 Hasle,asle,900.000,07-07-1999,Alm. Salg,-,10,Villa,281,1890,,Aktuel værdi
+Hasle Søndergade 23790 Hasle,asle,374.000,05-07-1999,Alm. Salg,3.816,4,Rækkehus,98,1835,,Aktuel værdi
+Kumlehøjvej 163790 Hasle,asle,98.000,29-06-1999,Alm. Salg,657,5,Stuehus,149,1870,,
+Østergade 1C3790 Hasle,asle,493.480,16-06-1999,Alm. Salg,2.937,6,Villa,168,1912,,Aktuel værdi
+Østergade 253790 Hasle,asle,150.000,11-06-1999,Alm. Salg,1.546,4,Rækkehus,97,1927,,Aktuel værdi
+Borrelyngvej 233790 Hasle,asle,76.500,08-06-1999,Andet,357,7,Stuehus,214,1936,,
+Rådhusgade 1A3790 Hasle,asle,285.000,01-06-1999,Alm. Salg,-,8,Rækkehus,176,1887,,Aktuel værdi
+Borregærdet 113790 Hasle,asle,441.980,26-05-1999,Alm. Salg,8.839,3,Sommerhus,50,1982,,Aktuel værdi
+Sandløkkegade 73790 Hasle,asle,165.000,05-05-1999,Alm. Salg,-,5,Rækkehus,125,1900,,Aktuel værdi
+Campanella 73790 Hasle,asle,260.000,03-05-1999,Alm. Salg,8.387,3,Sommerhus,31,1942,,Aktuel værdi
+Vandmøllevej 13790 Hasle,asle,1.200.000,14-04-1999,Alm. Salg,5.633,6,Villa,213,1973,,Aktuel værdi
+Løkken 23790 Hasle,asle,625.000,29-03-1999,Alm. Salg,3.453,5,Villa,181,1890,,Aktuel værdi
+Borrelyngvej 373790 Hasle,asle,380.000,11-03-1999,Alm. Salg,3.392,5,Villa,112,1870,,Aktuel værdi
+Toftelunden 203790 Hasle,asle,820.000,08-03-1999,Alm. Salg,4.079,6,Villa,201,1978,,Aktuel værdi
+Rosendalevej 143790 Hasle,asle,6.101.556,03-03-1999,Andet,63.557,3,Stuehus,96,1949,,
+Knarregårdsvej 193790 Hasle,asle,300.000,02-03-1999,Alm. Salg,1.986,6,Villa,151,1978,,Aktuel værdi
+Mølleparken 153790 Hasle,asle,397.500,27-01-1999,Andet,2.944,5,Villa,135,1986,,Aktuel værdi
+Jons Kapelvej 13790 Hasle,asle,16.675,30-12-1998,Fam. Salg,61,8,Stuehus,270,1864,,
+Fuglesangsvej 163790 Hasle,asle,310.000,16-12-1998,Alm. Salg,-,5,Villa,138,1800,,Aktuel værdi
+Dambakken 183790 Hasle,asle,430.242,25-11-1998,Alm. Salg,3.983,4,Villa,108,1964,,Aktuel værdi
+Finnedalsvej 43790 Hasle,asle,527.297,26-10-1998,Alm. Salg,4.750,6,Villa,111,1941,,Aktuel værdi
+Nørregade 253790 Hasle,asle,253.480,21-10-1998,Alm. Salg,2.347,4,Rækkehus,108,1937,,Aktuel værdi
+Damløkkevej 63790 Hasle,asle,561.000,13-10-1998,Alm. Salg,4.250,5,Villa,132,1965,,Aktuel værdi
+Gasværksvej 43790 Hasle,asle,347.000,12-10-1998,Alm. Salg,3.691,6,Rækkehus,94,1895,,Aktuel værdi
+Storegade 37B3790 Hasle,asle,585.000,24-09-1998,Alm. Salg,6.573,2,Rækkehus,89,1800,,Aktuel værdi
+Sandløkkegade 183790 Hasle,asle,149.926,10-09-1998,Alm. Salg,1.629,3,Rækkehus,92,1912,,Aktuel værdi
+Kirkebyen 213790 Hasle,asle,175.000,09-09-1998,Alm. Salg,1.315,5,Villa,133,1944,,Aktuel værdi
+Hasle Søndergade 183790 Hasle,asle,447.760,04-09-1998,Alm. Salg,4.713,5,Rækkehus,95,1915,,Aktuel værdi
+Ellebakken 63790 Hasle,asle,660.000,04-09-1998,Alm. Salg,6.055,4,Villa,109,1965,,Aktuel værdi
+Pellegårdsvej 63790 Hasle,asle,185.000,11-08-1998,Alm. Salg,1.761,4,Sommerhus,105,1877,,Aktuel værdi
+Storegade 43790 Hasle,asle,486.600,29-07-1998,Alm. Salg,3.265,5,Villa,149,1890,,Aktuel værdi
+Klympen 213790 Hasle,asle,524.000,20-07-1998,Alm. Salg,6.550,4,Sommerhus,80,1975,,Aktuel værdi
+Vestergade 573790 Hasle,asle,315.000,16-07-1998,Alm. Salg,3.058,2,Rækkehus,103,1830,,Aktuel værdi
+Kirkebyen 143790 Hasle,asle,294.300,30-06-1998,Alm. Salg,2.452,4,Villa,120,1930,,Aktuel værdi
+Teglkåsvej 263790 Hasle,asle,550.000,09-06-1998,Alm. Salg,3.503,5,Villa,157,1870,,Aktuel værdi
+Nørregade 43790 Hasle,asle,367.803,02-06-1998,Alm. Salg,3.226,4,Rækkehus,114,1900,,Aktuel værdi
+Pellegårdsvej 143790 Hasle,asle,284.180,22-05-1998,Alm. Salg,3.343,3,Villa,85,1875,,Aktuel værdi
+Strandgade 193790 Hasle,asle,300.000,20-05-1998,Alm. Salg,2.678,4,Villa,112,1899,,Aktuel værdi
+Vang 773790 Hasle,asle,320.000,27-04-1998,Alm. Salg,3.200,4,Villa,100,1900,,Aktuel værdi
+Strandvejen 43790 Hasle,asle,386.000,14-04-1998,Alm. Salg,5.361,3,Villa,72,1960,,Aktuel værdi
+Brænderivej 113790 Hasle,asle,627.420,14-04-1998,Alm. Salg,5.552,4,Villa,113,1971,,Aktuel værdi
+Rådhusgade 63790 Hasle,asle,183.000,14-04-1998,Alm. Salg,2.346,3,Rækkehus,78,1870,,Aktuel værdi
+Vang 563790 Hasle,asle,900.000,14-04-1998,Alm. Salg,6.428,5,Villa,140,1827,,Aktuel værdi
+Vang 343790 Hasle,asle,393.880,06-04-1998,Alm. Salg,3.647,4,Villa,108,1937,,Aktuel værdi
+Dambakken 93790 Hasle,asle,215.000,06-04-1998,Alm. Salg,2.150,2,Rækkehus,100,1948,,Aktuel værdi
+Østergade 133790 Hasle,asle,244.419,31-03-1998,Alm. Salg,3.133,4,Rækkehus,78,1925,,Aktuel værdi
+Smedestræde 23790 Hasle,asle,518.321,26-03-1998,Alm. Salg,4.430,6,Rækkehus,117,1877,,Aktuel værdi
+Fuglebakken 323790 Hasle,asle,293.256,25-02-1998,Alm. Salg,5.331,4,Sommerhus,55,1973,,Aktuel værdi
+Toftebakken 63790 Hasle,asle,770.050,12-02-1998,Alm. Salg,4.843,6,Villa,159,1973,,Aktuel værdi
+Østergade 443790 Hasle,asle,432.050,10-02-1998,Alm. Salg,4.235,4,Villa,102,1915,,Aktuel værdi
+Svalhøjvej 363790 Hasle,asle,560.000,09-02-1998,Alm. Salg,4.745,4,Villa,118,1912,,Aktuel værdi
+Sandløkkegade 63790 Hasle,asle,323.000,26-01-1998,Alm. Salg,3.755,4,Rækkehus,86,1900,,Aktuel værdi
+Hasle Søndergade 153790 Hasle,asle,482.520,14-01-1998,Alm. Salg,4.195,5,Rækkehus,115,1954,,Aktuel værdi
+Ved Brønden 243790 Hasle,asle,130.000,29-12-1997,Alm. Salg,1.444,4,Sommerhus,90,1999,,Aktuel værdi
+Toftelunden 363790 Hasle,asle,882.200,13-12-1997,Alm. Salg,5.445,6,Villa,162,1984,,Aktuel værdi
+Vang 443790 Hasle,asle,335.000,12-12-1997,Alm. Salg,-,4,Sommerhus,60,1976,,Aktuel værdi
+Gasværksvej 73790 Hasle,asle,292.000,09-12-1997,Fam. Salg,4.112,3,Rækkehus,71,1948,,Aktuel værdi
+Fuglebakken 83790 Hasle,asle,300.000,18-11-1997,Alm. Salg,5.454,4,Sommerhus,55,1973,,Aktuel værdi
+Knarregårdsvej 43790 Hasle,asle,425.000,07-11-1997,Alm. Salg,1.958,7,Villa,217,1777,,Aktuel værdi
+Strandvejen 13790 Hasle,asle,1.586.000,04-11-1997,Alm. Salg,8.217,6,Villa,193,1931,,Aktuel værdi
+Kirkegade 153790 Hasle,asle,475.000,25-10-1997,Alm. Salg,3.104,5,Villa,153,1877,,Aktuel værdi
+Fælledvej 143790 Hasle,asle,230.572,29-09-1997,Alm. Salg,2.452,3,Rækkehus,94,1923,,Aktuel værdi
+Simblegårdsvej 263790 Hasle,asle,556.000,11-09-1997,Alm. Salg,1.853,5,Villa,300,1961,,Aktuel værdi
+Fuglesangsvej 73790 Hasle,asle,574.410,05-08-1997,Alm. Salg,4.045,5,Stuehus,142,1902,,
+Østergade 243790 Hasle,asle,619.822,14-07-1997,Alm. Salg,-,3,Rækkehus,89,1885,,Aktuel værdi
+Julegade 33790 Hasle,asle,408.960,25-06-1997,Alm. Salg,3.271,3,Rækkehus,125,1937,,Aktuel værdi
+Brænderivej 213790 Hasle,asle,618.220,24-06-1997,Alm. Salg,5.470,4,Villa,113,1973,,Aktuel værdi
+Vestergade 613790 Hasle,asle,345.000,13-06-1997,Andet,4.207,3,Rækkehus,82,1850,,Aktuel værdi
+Levkavej 63790 Hasle,asle,317.440,03-06-1997,Alm. Salg,2.713,4,Sommerhus,117,1932,,Aktuel værdi
+Kirkevej 193790 Hasle,asle,256.640,28-05-1997,Alm. Salg,2.820,4,Villa,91,1958,,Aktuel værdi
+Hasle Nygade 23790 Hasle,asle,750.000,26-04-1997,Fam. Salg,4.601,8,Villa,163,1850,,Aktuel værdi
+Borrelyngvej 283790 Hasle,asle,535.000,24-04-1997,Alm. Salg,-,5,Stuehus,176,1932,,
+Rosendalevej 223790 Hasle,asle,180.000,09-04-1997,Alm. Salg,2.903,1,Villa,62,1877,,Aktuel værdi
+Ringedalsvej 23790 Hasle,asle,355.000,07-04-1997,Alm. Salg,2.500,4,Villa,142,1952,,Aktuel værdi
+Fuglesangsvej 133790 Hasle,asle,371.220,02-04-1997,Alm. Salg,3.535,4,Villa,105,1850,,Aktuel værdi
+Toftebakken 153790 Hasle,asle,680.100,06-03-1997,Alm. Salg,5.000,5,Villa,136,1976,,Aktuel værdi
+Hasle Nygade 83790 Hasle,asle,339.375,03-03-1997,Alm. Salg,3.649,3,Villa,93,1908,,Aktuel værdi
+Bagå 53790 Hasle,asle,349.400,17-02-1997,Alm. Salg,4.313,3,Villa,81,1937,,Aktuel værdi
+"Storegade 48, 13790 Hasle",asle,313.415,30-12-1996,Alm. Salg,2.089,6,Lejlighed,150,1912,,Aktuel værdi
+Bagå 63790 Hasle,asle,365.000,19-12-1996,Alm. Salg,-,3,Sommerhus,60,1966,,Aktuel værdi
+Klympen 333790 Hasle,asle,190.000,12-12-1996,Alm. Salg,5.428,2,Sommerhus,35,1963,,Aktuel værdi
+Fuglebakken 93790 Hasle,asle,425.000,28-11-1996,Alm. Salg,5.519,5,Sommerhus,77,1982,,Aktuel værdi
+Damløkkevej 53790 Hasle,asle,282.500,25-11-1996,Fam. Salg,2.522,3,Villa,112,1969,,Aktuel værdi
+Hasselvej 53790 Hasle,asle,670.450,08-11-1996,Alm. Salg,4.440,5,Villa,151,1970,,Aktuel værdi
+Brænderivej 173790 Hasle,asle,550.000,23-10-1996,Alm. Salg,4.867,3,Villa,113,1973,,Aktuel værdi
+Nørre Krak 43790 Hasle,asle,60.000,10-10-1996,Alm. Salg,576,3,Villa,104,1930,,Aktuel værdi
+Fælledvej 123790 Hasle,asle,425.000,07-10-1996,Alm. Salg,3.695,3,Rækkehus,115,1914,,Aktuel værdi
+Gasværksvej 113790 Hasle,asle,210.000,26-09-1996,Alm. Salg,-,5,Villa,177,1906,,Aktuel værdi
+Krakvej 113790 Hasle,asle,90.200,19-09-1996,Alm. Salg,859,4,Villa,105,1935,,Aktuel værdi
+Mølleparken 43790 Hasle,asle,82.500,19-09-1996,Alm. Salg,730,4,Villa,113,1996,,Aktuel værdi
+Teglkåsvej 163790 Hasle,asle,375.000,31-08-1996,Alm. Salg,4.032,6,Sommerhus,93,1877,,Aktuel værdi
+Pellegårdsvej 283790 Hasle,asle,306.000,31-08-1996,Fam. Salg,2.781,4,Sommerhus,110,1927,,Aktuel værdi
+Kirkedalsvej 283790 Hasle,asle,653.971,25-08-1996,Fam. Salg,3.633,6,Stuehus,180,1930,,
+Halledalsvej 13790 Hasle,asle,361.100,04-07-1996,Alm. Salg,3.540,4,Stuehus,102,1877,,
+Storegade 93790 Hasle,asle,536.510,01-07-1996,Alm. Salg,5.208,5,Villa,103,1900,,Aktuel værdi
+Korsgade 83790 Hasle,asle,346.720,24-06-1996,Alm. Salg,-,5,Rækkehus,96,1877,,Aktuel værdi
+Vestergade 53790 Hasle,asle,288.700,20-06-1996,Alm. Salg,3.436,3,Rækkehus,84,1919,,Aktuel værdi
+Teglkåsvej 703790 Hasle,asle,699.680,15-06-1996,Alm. Salg,4.428,6,Villa,158,1872,,Aktuel værdi
+Storegade 743790 Hasle,asle,383.640,03-06-1996,Alm. Salg,3.761,4,Villa,102,1888,,Aktuel værdi
+Campanella 113790 Hasle,asle,302.000,31-05-1996,Alm. Salg,6.565,3,Sommerhus,46,1967,,Aktuel værdi
+Dambakken 173790 Hasle,asle,265.000,30-05-1996,Alm. Salg,3.397,3,Rækkehus,78,1948,,Aktuel værdi
+Campanella 53790 Hasle,asle,488.000,23-05-1996,Alm. Salg,5.362,4,Sommerhus,91,1942,,Aktuel værdi
+Hasselvej 103790 Hasle,asle,585.000,06-05-1996,Alm. Salg,3.874,5,Villa,151,1972,,Aktuel værdi
+Østergade 33790 Hasle,asle,200.000,23-04-1996,Alm. Salg,1.960,3,Rækkehus,102,1913,,Aktuel værdi
+Vang 503790 Hasle,asle,383.000,17-04-1996,Alm. Salg,-,7,Villa,245,1873,,Aktuel værdi
+Kirkegade 253790 Hasle,asle,479.000,02-04-1996,Alm. Salg,3.236,5,Villa,148,1880,,Aktuel værdi
+Tofte 33790 Hasle,asle,313.000,01-03-1996,Alm. Salg,2.129,7,Rækkehus,147,1900,,Aktuel værdi
+Fælledvej 113790 Hasle,asle,222.480,29-02-1996,Alm. Salg,1.765,5,Rækkehus,126,1900,,Aktuel værdi
+Krakvej 63790 Hasle,asle,187.000,15-02-1996,Alm. Salg,2.671,3,Villa,70,1910,,Aktuel værdi
+Toftelunden 283790 Hasle,asle,678.519,12-02-1996,Alm. Salg,5.026,5,Villa,135,1985,,Aktuel værdi
+Nørregade 193790 Hasle,asle,450.000,24-01-1996,Alm. Salg,4.411,4,Rækkehus,102,1872,,Aktuel værdi
+Østergade 273790 Hasle,asle,335.000,15-01-1996,Alm. Salg,3.453,4,Villa,97,1960,,Aktuel værdi

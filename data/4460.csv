@@ -1,0 +1,361 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Nykøbingvej 234460 Snertinge,inge,150.000,05-04-2017,Alm. Salg,1.209,4,Villa,124,1934,,Aktuel værdi
+Bakkekammen 54460 Snertinge,inge,1.145.000,24-03-2017,Alm. Salg,9.015,3,Villa,127,1971,-4 %,Aktuel værdi
+Æblekjærvej 114460 Snertinge,inge,700.000,15-02-2017,Alm. Salg,6.666,3,Villa,105,1946,-12 %,Aktuel værdi
+Bakkekammen 74460 Snertinge,inge,920.000,30-01-2017,Alm. Salg,8.518,4,Villa,108,1966,-3 %,Aktuel værdi
+Tværvej 44460 Snertinge,inge,300.000,01-12-2016,Alm. Salg,3.061,3,Villa,98,1964,,Aktuel værdi
+Højgårdsvej 44460 Snertinge,inge,450.000,25-11-2016,Andet,5.056,3,Villa,89,1956,,Aktuel værdi
+Møllevej 44460 Snertinge,inge,2.150.000,07-11-2016,Alm. Salg,6.039,14,Villa,356,1790,-4 %,Aktuel værdi
+Nykøbingvej 504460 Snertinge,inge,850.000,27-10-2016,Alm. Salg,7.142,4,Villa,119,1965,,Aktuel værdi
+Slagelsevej 1B4460 Snertinge,inge,840.000,03-10-2016,Alm. Salg,3.255,7,Stuehus,258,1870,,
+Askelunden 14460 Snertinge,inge,499.000,09-09-2016,Alm. Salg,4.990,4,Rækkehus,100,1981,0 %,Aktuel værdi
+Birkevej 64460 Snertinge,inge,1.230.000,15-07-2016,Alm. Salg,8.200,6,Villa,150,1978,-11 %,Aktuel værdi
+Kalundborgvej 244460 Snertinge,inge,975.000,14-07-2016,Alm. Salg,7.386,7,Lejlighed,132,1932,,Aktuel værdi
+Bjergstedvej 284460 Snertinge,inge,200.000,06-07-2016,Auktion,2.000,4,Villa,100,1938,,Aktuel værdi
+Kalundborgvej 114460 Snertinge,inge,650.000,21-06-2016,Alm. Salg,6.632,3,Villa,98,1915,-6 %,Aktuel værdi
+Gartnerstien 154460 Snertinge,inge,1.295.000,20-06-2016,Alm. Salg,9.316,6,Villa,139,1987,-4 %,Aktuel værdi
+Teglværksvej 84460 Snertinge,inge,825.000,06-05-2016,Alm. Salg,4.388,5,Villa,188,1904,-31 %,Aktuel værdi
+Ellevej 54460 Snertinge,inge,1.735.000,25-04-2016,Alm. Salg,10.451,5,Villa,166,2001,-3 %,Aktuel værdi
+Loddenhøj 24460 Snertinge,inge,1.895.000,11-02-2016,Alm. Salg,6.719,6,Villa,282,1853,0 %,Aktuel værdi
+Højgårdsvej 134460 Snertinge,inge,305.000,22-01-2016,Andet,4.121,4,Stuehus,74,1847,,
+Skelbæk 114460 Snertinge,inge,825.000,15-01-2016,Alm. Salg,4.852,5,Stuehus,170,1917,-6 %,
+Bjergstedvej 154460 Snertinge,inge,535.000,08-01-2016,Alm. Salg,3.741,5,Villa,143,1950,-17 %,Aktuel værdi
+Æblekjærvej 104460 Snertinge,inge,540.000,04-01-2016,Alm. Salg,3.354,4,Villa,161,1897,-9 %,Aktuel værdi
+Skippingevej 34460 Snertinge,inge,225.300,16-12-2015,Auktion,1.341,6,Villa,168,1923,,Aktuel værdi
+Apotekervej 44460 Snertinge,inge,455.000,17-11-2015,Alm. Salg,3.473,4,Villa,131,1963,-8 %,Aktuel værdi
+Gartnerstien 94460 Snertinge,inge,475.000,16-11-2015,Auktion,5.864,3,Rækkehus,81,1987,-17 %,Aktuel værdi
+Kalundborgvej 164460 Snertinge,inge,600.000,18-10-2015,Alm. Salg,7.058,3,Villa,85,1929,-8 %,Aktuel værdi
+Vesterbjergvej 104460 Snertinge,inge,590.000,06-09-2015,Alm. Salg,6.145,4,Rækkehus,96,2000,-21 %,Aktuel værdi
+Nykøbingvej 384460 Snertinge,inge,200.000,29-07-2015,Auktion,1.492,5,Villa,134,1934,,Aktuel værdi
+Nykøbingvej 74460 Snertinge,inge,715.000,18-06-2015,Andet,3.310,7,Villa,216,1937,,Aktuel værdi
+Mellemvangsvej 84460 Snertinge,inge,950.000,03-06-2015,Auktion,7.661,4,Villa,124,1971,-27 %,Aktuel værdi
+Bakken 94460 Snertinge,inge,950.000,29-04-2015,Alm. Salg,4.773,9,Villa,199,1980,-25 %,Aktuel værdi
+Skelbæk 54460 Snertinge,inge,395.000,22-04-2015,Auktion,3.185,5,Villa,124,1932,,Aktuel værdi
+Vesterbjergvej 224460 Snertinge,inge,900.000,20-04-2015,Alm. Salg,6.923,4,Villa,130,1987,-10 %,Aktuel værdi
+Poppelvej 34460 Snertinge,inge,1.195.000,15-04-2015,Alm. Salg,8.851,5,Villa,135,1975,-4 %,Aktuel værdi
+Firhøjvej 164460 Snertinge,inge,900.000,19-03-2015,Alm. Salg,6.716,5,Villa,134,2007,-10 %,Aktuel værdi
+Bakken 14460 Snertinge,inge,635.000,15-01-2015,Alm. Salg,5.381,4,Villa,118,1980,-14 %,Aktuel værdi
+Skippingevej 214460 Snertinge,inge,250.000,25-11-2014,Fam. Salg,2.403,4,Villa,104,1920,,Aktuel værdi
+Slagelsevej 324460 Snertinge,inge,1.750.000,31-10-2014,Alm. Salg,13.257,6,Stuehus,132,1930,-10 %,
+Møllevej 84460 Snertinge,inge,600.000,09-10-2014,Alm. Salg,3.973,6,Villa,151,1900,-33 %,Aktuel værdi
+Nykøbingvej 374460 Snertinge,inge,450.000,04-09-2014,Alm. Salg,3.333,4,Villa,135,1937,,Aktuel værdi
+Gartnerstien 84460 Snertinge,inge,450.000,24-07-2014,Alm. Salg,5.769,3,Rækkehus,78,1987,-22 %,Aktuel værdi
+Vesterbjergvej 214460 Snertinge,inge,1.145.000,14-07-2014,Alm. Salg,10.223,3,Villa,112,1985,0 %,Aktuel værdi
+Olesmindevej 54460 Snertinge,inge,1.100.000,30-06-2014,Alm. Salg,6.875,5,Villa,160,1883,,Aktuel værdi
+Nykøbingvej 214460 Snertinge,inge,455.276,16-04-2014,Alm. Salg,4.335,3,Villa,105,1933,,Aktuel værdi
+Bjergstedvej 334460 Snertinge,inge,588.000,31-03-2014,Alm. Salg,7.259,3,Villa,81,1948,,Aktuel værdi
+Højgårdsvej 54460 Snertinge,inge,1.850.000,25-03-2014,Fam. Salg,14.015,3,Stuehus,132,1950,,
+Bakkekammen 24460 Snertinge,inge,350.000,23-03-2014,Alm. Salg,4.375,3,Villa,80,1969,-11 %,Aktuel værdi
+Gartnerstien 44460 Snertinge,inge,895.000,13-03-2014,Alm. Salg,8.287,3,Villa,108,1987,0 %,Aktuel værdi
+Bjergstedvej 404460 Snertinge,inge,750.000,06-03-2014,Andet,3.750,3,Stuehus,200,1920,,
+Kildegården 14460 Snertinge,inge,2.650.000,26-02-2014,Alm. Salg,14.804,6,Villa,179,2016,-17 %,Aktuel værdi
+Mellemvangsvej 74460 Snertinge,inge,780.000,10-01-2014,Fam. Salg,7.722,4,Villa,101,1975,,Aktuel værdi
+Skippingevej 104460 Snertinge,inge,267.600,02-01-2014,Auktion,3.716,3,Villa,72,1870,,Aktuel værdi
+Skelbæk 34460 Snertinge,inge,275.000,10-12-2013,Alm. Salg,2.254,4,Villa,122,1880,-30 %,Aktuel værdi
+Skippingevej 274460 Snertinge,inge,775.000,29-11-2013,Alm. Salg,6.404,4,Villa,121,1904,-6 %,Aktuel værdi
+Nykøbingvej 514460 Snertinge,inge,164.000,28-11-2013,Auktion,1.906,3,Villa,86,1780,-44 %,Aktuel værdi
+Lindebjergvej 64460 Snertinge,inge,2.800.000,22-11-2013,Alm. Salg,26.666,2,Stuehus,105,1911,,
+Møllevej 14460 Snertinge,inge,470.500,03-10-2013,Auktion,3.055,3,Villa,154,1952,,Aktuel værdi
+Nykøbingvej 484460 Snertinge,inge,300.000,26-09-2013,Alm. Salg,3.529,2,Villa,85,1948,-19 %,Aktuel værdi
+Møllevej 144460 Snertinge,inge,1.350.403,08-09-2013,Alm. Salg,8.712,3,Stuehus,155,1817,,
+Slagelsevej 454460 Snertinge,inge,320.000,23-07-2013,Alm. Salg,1.641,6,Villa,195,1900,-2 %,Aktuel værdi
+Slagelsevej 394460 Snertinge,inge,643.000,09-07-2013,Andet,3.695,3,Villa,174,1909,,Aktuel værdi
+Bakken 154460 Snertinge,inge,1.500.000,17-06-2013,Alm. Salg,8.108,5,Villa,185,2002,,Aktuel værdi
+Skovlyvej 34460 Snertinge,inge,2.000.000,29-05-2013,Fam. Salg,9.950,3,Stuehus,201,1938,,
+Højgårdsvej 24460 Snertinge,inge,500.000,20-05-2013,Alm. Salg,4.166,4,Villa,120,1969,-28 %,Aktuel værdi
+Poppelvej 24460 Snertinge,inge,1.195.000,10-05-2013,Alm. Salg,7.966,5,Villa,150,1975,0 %,Aktuel værdi
+Trunebjergvej 34460 Snertinge,inge,280.000,06-03-2013,Auktion,3.888,5,Villa,72,1956,,Aktuel værdi
+Poppelvej 64460 Snertinge,inge,750.000,05-03-2013,Alm. Salg,6.355,4,Villa,118,1976,-11 %,Aktuel værdi
+Hækkemosen 74460 Snertinge,inge,1.600.000,06-02-2013,Alm. Salg,9.580,4,Villa,167,1971,-3 %,Aktuel værdi
+Firhøjvej 134460 Snertinge,inge,839.510,22-01-2013,Andet,6.265,5,Villa,134,2007,,Aktuel værdi
+Mellemvangsvej 14460 Snertinge,inge,745.000,19-09-2012,Alm. Salg,5.960,4,Villa,125,1973,-6 %,Aktuel værdi
+Møllevej 34460 Snertinge,inge,320.000,20-08-2012,Auktion,3.106,4,Villa,103,1964,,Aktuel værdi
+Kalundborgvej 284460 Snertinge,inge,275.000,05-07-2012,Alm. Salg,3.395,4,Villa,81,1900,-30 %,Aktuel værdi
+Knoldvej 44460 Snertinge,inge,1.240.000,01-07-2012,Alm. Salg,10.689,4,Villa,116,1900,,Aktuel værdi
+Kalundborgvej 144460 Snertinge,inge,150.000,25-06-2012,Auktion,1.612,2,Villa,93,1780,-62 %,Aktuel værdi
+Skelbæk 24460 Snertinge,inge,450.000,21-06-2012,Auktion,3.383,5,Stuehus,133,1877,,
+Nykøbingvej 104460 Snertinge,inge,530.000,08-06-2012,Alm. Salg,4.649,3,Villa,114,1902,-24 %,Aktuel værdi
+Skippingevej 264460 Snertinge,inge,690.000,29-04-2012,Alm. Salg,6.831,4,Villa,101,1964,-7 %,Aktuel værdi
+Bjergstedvej 414460 Snertinge,inge,800.000,01-03-2012,Fam. Salg,8.000,4,Villa,100,1963,,Aktuel værdi
+Skelbæk 174460 Snertinge,inge,260.000,29-02-2012,Auktion,1.793,5,Villa,145,1827,,Aktuel værdi
+Nykøbingvej 194460 Snertinge,inge,750.000,29-01-2012,Alm. Salg,6.880,4,Villa,109,1928,,Aktuel værdi
+Nykøbingvej 64460 Snertinge,inge,1.100.000,01-11-2011,Alm. Salg,5.759,5,Villa,191,1912,11 %,Aktuel værdi
+Vesterbjergvej 134460 Snertinge,inge,1.190.000,27-09-2011,Alm. Salg,9.083,4,Villa,131,1942,-13 %,Aktuel værdi
+Æblekjærvej 94460 Snertinge,inge,663.000,14-09-2011,Fam. Salg,6.138,3,Villa,108,1929,,Aktuel værdi
+Tværvej 24460 Snertinge,inge,1.000.000,12-09-2011,Alm. Salg,9.708,4,Villa,103,1938,-16 %,Aktuel værdi
+Skippingevej 344460 Snertinge,inge,815.000,30-08-2011,Alm. Salg,5.292,5,Villa,154,1942,-9 %,Aktuel værdi
+Særslev Enge 34460 Snertinge,inge,1.250.000,17-08-2011,Alm. Salg,6.983,7,Stuehus,179,1951,14 %,
+Askelunden 64460 Snertinge,inge,600.000,17-08-2011,Alm. Salg,6.060,4,Rækkehus,99,1981,-14 %,Aktuel værdi
+Æblekjærvej 134460 Snertinge,inge,800.000,05-05-2011,Alm. Salg,9.090,4,Villa,88,1947,,Aktuel værdi
+Tingvej 24460 Snertinge,inge,400.000,02-05-2011,Fam. Salg,4.545,3,Villa,88,1968,,Aktuel værdi
+Æblekjærvej 154460 Snertinge,inge,830.000,17-04-2011,Alm. Salg,8.469,3,Villa,98,1947,-7 %,Aktuel værdi
+Bakkekammen 254460 Snertinge,inge,920.000,11-04-2011,Alm. Salg,8.932,3,Rækkehus,103,1981,-3 %,Aktuel værdi
+Trunebjergvej 54460 Snertinge,inge,420.000,21-03-2011,Alm. Salg,4.883,2,Villa,86,1975,-15 %,Aktuel værdi
+Møllevej 24460 Snertinge,inge,800.000,15-03-2011,Alm. Salg,12.500,3,Villa,64,1880,,Aktuel værdi
+Firhøjvej 214460 Snertinge,inge,1.675.000,20-02-2011,Alm. Salg,10.339,5,Villa,162,2010,-9 %,Aktuel værdi
+Slagelsevej 164460 Snertinge,inge,400.000,24-01-2011,Alm. Salg,2.941,6,Villa,136,1830,-19 %,Aktuel værdi
+Skippingevej 94460 Snertinge,inge,235.000,15-12-2010,Auktion,1.740,3,Villa,135,1927,,Aktuel værdi
+Olesmindevej 14460 Snertinge,inge,500.000,02-12-2010,Alm. Salg,5.617,4,Villa,89,1964,-16 %,Aktuel værdi
+Vesterbjergvej 154460 Snertinge,inge,675.000,29-11-2010,Alm. Salg,6.683,3,Villa,101,1962,-10 %,Aktuel værdi
+Nykøbingvej 364460 Snertinge,inge,420.000,25-11-2010,Alm. Salg,7.500,3,Villa,56,1945,-15 %,Aktuel værdi
+Firhøjvej 314460 Snertinge,inge,1.675.000,23-11-2010,Alm. Salg,9.517,5,Villa,176,2007,-12 %,Aktuel værdi
+Højgårdsvej 94460 Snertinge,inge,2.300.000,03-11-2010,Auktion,8.646,6,Villa,266,1850,-39 %,Aktuel værdi
+Kalundborgvej 184460 Snertinge,inge,1.350.000,25-10-2010,Alm. Salg,10.000,5,Villa,135,1939,-8 %,Aktuel værdi
+Firhøjvej 334460 Snertinge,inge,1.900.000,19-10-2010,Alm. Salg,10.497,5,Villa,181,2007,-9 %,Aktuel værdi
+Møllevej 104460 Snertinge,inge,858.236,14-10-2010,Alm. Salg,12.438,3,Stuehus,69,1880,-46 %,
+Skippingevej 154460 Snertinge,inge,1.050.000,01-10-2010,Alm. Salg,7.394,6,Villa,142,1955,,Aktuel værdi
+Vesterbjergvej 174460 Snertinge,inge,900.000,28-09-2010,Alm. Salg,6.976,4,Villa,129,1962,-17 %,Aktuel værdi
+Skippingevej 144460 Snertinge,inge,1.375.000,19-09-2010,Fam. Salg,12.276,4,Villa,112,1960,,Aktuel værdi
+Nykøbingvej 334460 Snertinge,inge,535.000,28-06-2010,Auktion,3.566,4,Villa,150,1927,-51 %,Aktuel værdi
+Firhøjvej 24460 Snertinge,inge,950.000,04-03-2010,Fam. Salg,6.834,5,Villa,139,2007,,Aktuel værdi
+Slagelsevej 104460 Snertinge,inge,300.000,02-03-2010,Alm. Salg,3.846,3,Villa,78,1873,,Aktuel værdi
+Nykøbingvej 12B4460 Snertinge,inge,1.450.000,24-02-2010,Auktion,10.583,3,Villa,137,1983,,Aktuel værdi
+Mellemvangsvej 34460 Snertinge,inge,1.250.000,19-12-2009,Alm. Salg,10.162,4,Villa,123,1974,,Aktuel værdi
+Mellemvangsvej 124460 Snertinge,inge,900.000,09-12-2009,Alm. Salg,8.181,4,Villa,110,1971,-25 %,Aktuel værdi
+Vesterbjergvej 244460 Snertinge,inge,1.250.000,28-09-2009,Alm. Salg,11.160,4,Villa,112,1984,-5 %,Aktuel værdi
+Birkevej 14460 Snertinge,inge,1.390.000,26-09-2009,Alm. Salg,14.183,4,Villa,98,1975,0 %,Aktuel værdi
+Slagelsevej 474460 Snertinge,inge,400.000,23-09-2009,Auktion,2.836,5,Villa,141,1910,,Aktuel værdi
+Nykøbingvej 394460 Snertinge,inge,600.000,01-09-2009,Alm. Salg,5.714,3,Villa,105,1922,-13 %,Aktuel værdi
+Nykøbingvej 354460 Snertinge,inge,295.000,24-06-2009,Auktion,3.277,5,Villa,90,1930,,Aktuel værdi
+Bjergstedvej 454460 Snertinge,inge,1.850.000,15-04-2009,Fam. Salg,10.220,1,Villa,181,1880,,Aktuel værdi
+Tingvej 64460 Snertinge,inge,610.762,06-04-2009,Alm. Salg,6.047,3,Villa,101,1892,-52 %,Aktuel værdi
+Hækkemosen 94460 Snertinge,inge,1.260.000,29-10-2008,Alm. Salg,10.080,4,Villa,125,1970,-3 %,Aktuel værdi
+Gartnerstien 64460 Snertinge,inge,1.125.000,27-10-2008,Alm. Salg,11.029,4,Rækkehus,102,1987,-10 %,Aktuel værdi
+Skelbæk 164460 Snertinge,inge,382.500,23-09-2008,Fam. Salg,5.884,4,Stuehus,65,1903,,
+Firhøjvej 144460 Snertinge,inge,2.290.000,23-08-2008,Alm. Salg,12.651,5,Villa,181,2007,-4 %,Aktuel værdi
+Bjergstedvej 124460 Snertinge,inge,950.000,10-08-2008,Alm. Salg,6.785,6,Villa,140,1964,-12 %,Aktuel værdi
+Skippingevej 244460 Snertinge,inge,1.920.000,30-06-2008,Alm. Salg,10.105,7,Villa,190,1877,-4 %,Aktuel værdi
+Langholm 24460 Snertinge,inge,1.000.000,25-06-2008,Alm. Salg,12.195,3,Villa,82,1877,,Aktuel værdi
+Amtsvejen 454460 Snertinge,inge,920.000,18-06-2008,Alm. Salg,10.109,4,Villa,91,1900,-8 %,Aktuel værdi
+Tværvej 104460 Snertinge,inge,820.000,15-06-2008,Alm. Salg,8.039,3,Villa,102,1939,-8 %,Aktuel værdi
+Teglværksvej 34460 Snertinge,inge,125.760,08-05-2008,Alm. Salg,714,4,Stuehus,176,1971,,
+Nykøbingvej 414460 Snertinge,inge,1.150.000,23-04-2008,Alm. Salg,9.274,3,Villa,124,1910,-2 %,Aktuel værdi
+Bakkekammen 64460 Snertinge,inge,1.295.000,17-04-2008,Alm. Salg,12.333,3,Villa,105,1967,0 %,Aktuel værdi
+Nykøbingvej 14A4460 Snertinge,inge,706.999,15-04-2008,Andet,4.134,6,Villa,171,1934,,Aktuel værdi
+Mellemvangsvej 44460 Snertinge,inge,1.685.000,16-03-2008,Alm. Salg,11.783,3,Villa,143,1970,0 %,Aktuel værdi
+Olesmindevej 64460 Snertinge,inge,950.000,22-02-2008,Alm. Salg,9.313,3,Villa,102,1970,-5 %,Aktuel værdi
+Slagelsevej 94460 Snertinge,inge,1.230.044,18-12-2007,Alm. Salg,4.767,7,Villa,258,1900,,Aktuel værdi
+Langholm 44460 Snertinge,inge,440.000,18-12-2007,Andet,5.569,3,Villa,79,1877,,Aktuel værdi
+Æblekjærvej 24460 Snertinge,inge,2.300.000,13-12-2007,Alm. Salg,15.333,4,Villa,150,1925,,Aktuel værdi
+Bakkekammen 314460 Snertinge,inge,1.154.500,13-12-2007,Alm. Salg,11.208,2,Rækkehus,103,1981,-3 %,Aktuel værdi
+Lønnevej 24460 Snertinge,inge,4.500.000,12-12-2007,Alm. Salg,40.178,4,Rækkehus,112,2002,201 %,Aktuel værdi
+Skelbæk 294460 Snertinge,inge,1.375.000,03-12-2007,Alm. Salg,9.290,6,Stuehus,148,1887,,
+Mellemvangsvej 104460 Snertinge,inge,1.250.000,12-11-2007,Alm. Salg,8.561,4,Villa,146,1973,,Aktuel værdi
+Højgårdsvej 104460 Snertinge,inge,965.000,27-09-2007,Alm. Salg,11.626,3,Villa,83,1900,0 %,Aktuel værdi
+Slagelsevej 434460 Snertinge,inge,700.000,21-09-2007,Alm. Salg,9.589,3,Villa,73,1880,,Aktuel værdi
+Teglværksvej 104460 Snertinge,inge,1.350.000,18-09-2007,Alm. Salg,15.697,5,Villa,86,1913,-8 %,Aktuel værdi
+Apotekervej 34460 Snertinge,inge,1.900.000,16-08-2007,Alm. Salg,8.878,5,Villa,214,1890,,Aktuel værdi
+Knoldvej 104460 Snertinge,inge,42.000,06-08-2007,Alm. Salg,254,5,Stuehus,165,1961,,
+Nykøbingvej 344460 Snertinge,inge,1.470.000,31-07-2007,Alm. Salg,17.093,8,Villa,86,1900,,Aktuel værdi
+Skippingevej 234460 Snertinge,inge,1.025.000,14-06-2007,Alm. Salg,9.761,4,Villa,105,1900,-5 %,Aktuel værdi
+Bakken 134460 Snertinge,inge,1.805.000,21-04-2007,Alm. Salg,12.448,4,Villa,145,1981,1 %,Aktuel værdi
+Birkevej 44460 Snertinge,inge,1.385.000,30-03-2007,Alm. Salg,10.413,4,Villa,133,1974,-3 %,Aktuel værdi
+Lindebjergvej 14460 Snertinge,inge,1.445.000,18-02-2007,Fam. Salg,8.652,5,Villa,167,2011,,Aktuel værdi
+Skelbæk 74460 Snertinge,inge,1.425.000,12-12-2006,Alm. Salg,12.837,5,Villa,111,1877,,Aktuel værdi
+Firhøjvej 54460 Snertinge,inge,345.000,10-12-2006,Alm. Salg,3.000,4,Villa,115,2007,,Aktuel værdi
+Ellevej 14460 Snertinge,inge,3.160.000,05-12-2006,Alm. Salg,17.853,5,Villa,177,2004,,Aktuel værdi
+Bakkekammen 134460 Snertinge,inge,1.330.000,05-12-2006,Alm. Salg,13.039,3,Villa,102,1965,,Aktuel værdi
+Askelunden 104460 Snertinge,inge,1.095.000,03-12-2006,Alm. Salg,10.735,4,Rækkehus,102,1981,,Aktuel værdi
+Mellemvangsvej 54460 Snertinge,inge,1.300.000,27-11-2006,Alm. Salg,12.149,4,Villa,107,1975,,Aktuel værdi
+Skippingevej 84460 Snertinge,inge,1.575.000,24-11-2006,Alm. Salg,12.022,4,Villa,131,1890,,Aktuel værdi
+Mellemvangsvej 144460 Snertinge,inge,1.080.000,17-11-2006,Alm. Salg,11.489,4,Villa,94,1972,,Aktuel værdi
+Firhøjvej 324460 Snertinge,inge,335.000,09-11-2006,Alm. Salg,2.030,5,Villa,165,2008,,Aktuel værdi
+Tværvej 34460 Snertinge,inge,661.000,09-11-2006,Alm. Salg,5.084,3,Villa,130,1979,,Aktuel værdi
+Kalundborgvej 294460 Snertinge,inge,1.800.000,26-10-2006,Fam. Salg,7.826,6,Stuehus,230,1931,,
+Kalundborgvej 194460 Snertinge,inge,2.560.000,22-10-2006,Alm. Salg,8.951,6,Villa,286,1972,,Aktuel værdi
+Firhøjvej 184460 Snertinge,inge,325.000,21-09-2006,Alm. Salg,1.900,5,Villa,171,2007,,Aktuel værdi
+Teglværksvej 24460 Snertinge,inge,500.000,18-09-2006,Alm. Salg,2.314,5,Villa,216,2011,,Aktuel værdi
+Knoldvej 24460 Snertinge,inge,1.435.000,22-08-2006,Alm. Salg,5.583,7,Villa,257,1830,,Aktuel værdi
+Firhøjvej 374460 Snertinge,inge,265.000,25-07-2006,Andet,1.656,5,Villa,160,2008,,Aktuel værdi
+Apotekervej 54460 Snertinge,inge,1.085.000,10-07-2006,Alm. Salg,13.231,2,Villa,82,1918,,Aktuel værdi
+Trunebjergvej 44460 Snertinge,inge,1.155.000,03-07-2006,Alm. Salg,11.907,4,Villa,97,1953,,Aktuel værdi
+Firhøjvej 384460 Snertinge,inge,335.000,24-06-2006,Alm. Salg,2.445,5,Villa,137,2006,,Aktuel værdi
+Firhøjvej 124460 Snertinge,inge,320.000,16-06-2006,Alm. Salg,2.012,4,Villa,159,2009,,Aktuel værdi
+Firhøjvej 304460 Snertinge,inge,335.000,16-06-2006,Alm. Salg,2.055,5,Villa,163,2007,,Aktuel værdi
+Firhøjvej 204460 Snertinge,inge,320.000,14-06-2006,Alm. Salg,2.711,4,Villa,118,2007,,Aktuel værdi
+Nykøbingvej 44460 Snertinge,inge,1.175.000,05-05-2006,Alm. Salg,6.752,7,Villa,174,1897,,Aktuel værdi
+Firhøjvej 114460 Snertinge,inge,195.000,04-05-2006,Alm. Salg,859,7,Villa,227,2008,,Aktuel værdi
+Nykøbingvej 274460 Snertinge,inge,1.350.000,20-04-2006,Alm. Salg,9.642,5,Villa,140,1936,,Aktuel værdi
+Firhøjvej 254460 Snertinge,inge,265.000,28-03-2006,Alm. Salg,1.962,4,Villa,135,2007,,Aktuel værdi
+Tingvej 44460 Snertinge,inge,640.000,15-03-2006,Alm. Salg,7.191,4,Villa,89,1897,,Aktuel værdi
+Bakkekammen 294460 Snertinge,inge,990.000,14-03-2006,Alm. Salg,9.611,4,Rækkehus,103,1981,,Aktuel værdi
+Skippingevej 114460 Snertinge,inge,1.264.986,10-03-2006,Andet,1.907,23,Døgninstitution,663,1914,,Aktuel værdi
+Skovlyvej 24460 Snertinge,inge,1.200.000,08-03-2006,Alm. Salg,13.793,2,Villa,87,1800,,Aktuel værdi
+Skippingevej 224460 Snertinge,inge,425.000,07-03-2006,Alm. Salg,6.250,4,Villa,68,1945,,Aktuel værdi
+Nykøbingvej 464460 Snertinge,inge,1.268.000,27-02-2006,Andet,9.606,6,Villa,132,1960,,Aktuel værdi
+Gartnerstien 34460 Snertinge,inge,1.100.000,21-02-2006,Alm. Salg,13.414,3,Villa,82,1986,,Aktuel værdi
+Firhøjvej 74460 Snertinge,inge,265.000,10-02-2006,Alm. Salg,1.505,6,Villa,176,2008,,Aktuel værdi
+Firhøjvej 354460 Snertinge,inge,265.000,31-01-2006,Alm. Salg,1.577,4,Villa,168,2009,,Aktuel værdi
+Firhøjvej 174460 Snertinge,inge,230.000,20-01-2006,Alm. Salg,1.031,5,Villa,223,2007,,Aktuel værdi
+Skippingevej 14460 Snertinge,inge,1.400.000,13-12-2005,Alm. Salg,10.071,5,Villa,139,1876,,Aktuel værdi
+Bjergstedvej 174460 Snertinge,inge,1.045.000,05-12-2005,Alm. Salg,6.005,7,Villa,174,1902,,Aktuel værdi
+Slagelsevej 114460 Snertinge,inge,2.575.000,05-12-2005,Alm. Salg,10.218,8,Villa,252,1870,,Aktuel værdi
+Firhøjvej 154460 Snertinge,inge,265.000,21-11-2005,Alm. Salg,1.866,4,Villa,142,2006,,Aktuel værdi
+Knoldvej 64460 Snertinge,inge,4.500.000,07-11-2005,Alm. Salg,6.130,11,Stuehus,734,1970,,
+Firhøjvej 274460 Snertinge,inge,265.000,26-10-2005,Alm. Salg,1.586,4,Villa,167,2009,,Aktuel værdi
+Vesterbjergvej 64460 Snertinge,inge,1.460.000,24-10-2005,Alm. Salg,10.656,5,Villa,137,1985,,Aktuel værdi
+Bjergstedvej 374460 Snertinge,inge,2.750.000,16-10-2005,Alm. Salg,11.270,8,Stuehus,244,1948,,
+Firhøjvej 294460 Snertinge,inge,265.000,14-10-2005,Alm. Salg,1.232,5,Villa,215,2009,,Aktuel værdi
+Firhøjvej 234460 Snertinge,inge,265.000,13-10-2005,Alm. Salg,1.892,4,Villa,140,2007,,Aktuel værdi
+Firhøjvej 94460 Snertinge,inge,265.000,13-10-2005,Alm. Salg,1.906,5,Villa,139,2006,,Aktuel værdi
+Gartnerstien 144460 Snertinge,inge,1.330.000,10-10-2005,Alm. Salg,12.090,4,Villa,110,1988,,Aktuel værdi
+Askelunden 44460 Snertinge,inge,975.000,10-10-2005,Alm. Salg,9.558,4,Rækkehus,102,1981,,Aktuel værdi
+Skelbæk 64460 Snertinge,inge,1.485.000,27-09-2005,Alm. Salg,10.457,4,Stuehus,142,1898,,
+Bakkekammen 84460 Snertinge,inge,1.195.000,09-09-2005,Alm. Salg,11.715,4,Villa,102,1966,,Aktuel værdi
+Højgårdsvej 14460 Snertinge,inge,832.668,30-08-2005,Fam. Salg,5.990,4,Villa,139,1900,,Aktuel værdi
+Skippingevej 134460 Snertinge,inge,525.000,16-08-2005,Alm. Salg,5.303,3,Villa,99,1925,,Aktuel værdi
+Møllevej 64460 Snertinge,inge,1.100.000,02-08-2005,Fam. Salg,10.476,4,Stuehus,105,1880,,
+Nykøbingvej 124460 Snertinge,inge,975.000,02-08-2005,Alm. Salg,5.668,5,Villa,172,1895,,Aktuel værdi
+Slagelsevej 214460 Snertinge,inge,1.351.000,18-07-2005,Fam. Salg,9.650,6,Stuehus,140,1951,,
+Trunebjergvej 74460 Snertinge,inge,850.000,04-07-2005,Alm. Salg,7.203,3,Villa,118,1960,,Aktuel værdi
+Askelunden 74460 Snertinge,inge,950.000,19-06-2005,Alm. Salg,9.595,4,Rækkehus,99,1981,,Aktuel værdi
+Gartnerstien 14460 Snertinge,inge,1.026.000,15-06-2005,Alm. Salg,8.208,4,Villa,125,1960,,Aktuel værdi
+Møllevej 54460 Snertinge,inge,2.598.750,31-05-2005,Alm. Salg,-,24,Døgninstitution,708,1958,,Aktuel værdi
+Skippingevej 164460 Snertinge,inge,489.619,26-05-2005,Alm. Salg,4.753,3,Villa,103,1873,,Aktuel værdi
+Ellevej 24460 Snertinge,inge,1.596.000,22-05-2005,Alm. Salg,8.226,4,Villa,194,2002,,Aktuel værdi
+Dalbovej 14460 Snertinge,inge,1.095.000,20-04-2005,Alm. Salg,9.954,3,Villa,110,1972,,Aktuel værdi
+Vesterbjergvej 234460 Snertinge,inge,1.160.000,16-04-2005,Alm. Salg,10.357,4,Villa,112,1989,,Aktuel værdi
+Nykøbingvej 454460 Snertinge,inge,929.000,15-04-2005,Alm. Salg,9.019,4,Villa,103,1890,,Aktuel værdi
+Nykøbingvej 254460 Snertinge,inge,1.275.000,05-04-2005,Alm. Salg,7.680,6,Villa,166,1937,,Aktuel værdi
+Bjergstedvej 184460 Snertinge,inge,825.000,20-03-2005,Alm. Salg,7.366,4,Villa,112,1885,,Aktuel værdi
+Tværvej 84460 Snertinge,inge,536.067,11-02-2005,Andet,-,3,Villa,153,1940,,Aktuel værdi
+Askelunden 54460 Snertinge,inge,899.000,07-02-2005,Alm. Salg,8.813,4,Rækkehus,102,1981,,Aktuel værdi
+Slagelsevej 234460 Snertinge,inge,920.000,25-01-2005,Alm. Salg,5.287,6,Villa,174,1830,,Aktuel værdi
+Bjergstedvej 144460 Snertinge,inge,5.600.000,30-12-2004,Fam. Salg,20.216,9,Stuehus,277,1913,,
+Kalundborgvej 204460 Snertinge,inge,1.083.000,13-12-2004,Alm. Salg,10.514,5,Villa,103,1941,,Aktuel værdi
+Nykøbingvej 444460 Snertinge,inge,885.000,29-11-2004,Alm. Salg,9.414,2,Villa,94,1927,,Aktuel værdi
+Olesmindevej 34460 Snertinge,inge,890.000,04-10-2004,Alm. Salg,9.175,3,Villa,97,1960,,Aktuel værdi
+Skippingevej 174460 Snertinge,inge,780.000,17-09-2004,Alm. Salg,6.610,6,Villa,118,1797,,Aktuel værdi
+Skippingevej 124460 Snertinge,inge,650.000,18-06-2004,Alm. Salg,-,3,Villa,189,1950,,Aktuel værdi
+Slagelsevej 304460 Snertinge,inge,795.000,21-05-2004,Alm. Salg,5.031,3,Villa,158,1920,,Aktuel værdi
+Kalundborgvej 254460 Snertinge,inge,810.360,20-04-2004,Alm. Salg,9.882,4,Villa,82,1940,,Aktuel værdi
+Skippingevej 24460 Snertinge,inge,1.135.000,30-03-2004,Alm. Salg,7.418,5,Villa,153,1935,,Aktuel værdi
+Nykøbingvej 244460 Snertinge,inge,950.000,23-03-2004,Alm. Salg,7.364,4,Villa,129,1800,,Aktuel værdi
+Vesterbjergvej 184460 Snertinge,inge,1.200.000,09-03-2004,Alm. Salg,-,4,Villa,136,1984,,Aktuel værdi
+Skelbæk 124460 Snertinge,inge,1.624.620,03-03-2004,Andet,11.604,4,Villa,140,1930,,Aktuel værdi
+Skippingevej 184460 Snertinge,inge,295.000,25-02-2004,Alm. Salg,6.555,2,Villa,45,1848,,Aktuel værdi
+Askelunden 24460 Snertinge,inge,1.045.000,22-02-2004,Alm. Salg,10.245,4,Rækkehus,102,1981,,Aktuel værdi
+Østergade 44460 Snertinge,inge,669.635,29-01-2004,Alm. Salg,9.704,2,Villa,69,1959,,Aktuel værdi
+Møllevej 94460 Snertinge,inge,750.000,28-01-2004,Auktion,4.870,6,Stuehus,154,1877,,
+Bjergstedvej 234460 Snertinge,inge,621.378,13-01-2004,Alm. Salg,8.630,3,Villa,72,1961,,Aktuel værdi
+Apotekervej 24460 Snertinge,inge,650.000,07-01-2004,Alm. Salg,6.372,4,Villa,102,1960,,Aktuel værdi
+Nykøbingvej 164460 Snertinge,inge,635.000,11-12-2003,Alm. Salg,7.937,3,Villa,80,1917,,Aktuel værdi
+Slagelsevej 134460 Snertinge,inge,495.000,21-11-2003,Alm. Salg,3.036,4,Villa,163,1912,,Aktuel værdi
+Amtsvejen 41B4460 Snertinge,inge,1.295.000,27-10-2003,Alm. Salg,8.869,5,Villa,146,1977,,Aktuel værdi
+Mellemvangsvej 64460 Snertinge,inge,770.561,22-09-2003,Alm. Salg,6.421,3,Villa,120,1970,,Aktuel værdi
+Bjergstedvej 74460 Snertinge,inge,745.000,21-08-2003,Alm. Salg,7.163,4,Villa,104,1964,,Aktuel værdi
+Dalbovej 6A4460 Snertinge,inge,650.000,05-08-2003,Alm. Salg,4.220,5,Villa,154,1998,,Aktuel værdi
+Slagelsevej 374460 Snertinge,inge,1.150.000,30-07-2003,Alm. Salg,5.721,4,Villa,201,1877,,Aktuel værdi
+Vesterbjergvej 54460 Snertinge,inge,1.034.000,30-06-2003,Alm. Salg,7.659,5,Villa,135,1984,,Aktuel værdi
+Skelbæk 104460 Snertinge,inge,925.000,16-06-2003,Alm. Salg,6.379,5,Villa,145,1928,,Aktuel værdi
+Slagelsevej 144460 Snertinge,inge,2.200.000,06-06-2003,Alm. Salg,3.806,16,Villa,578,1869,,Aktuel værdi
+Slagelsevej 354460 Snertinge,inge,730.000,06-06-2003,Alm. Salg,6.576,2,Villa,111,1924,,Aktuel værdi
+Nykøbingvej 174460 Snertinge,inge,977.164,06-06-2003,Alm. Salg,5.648,4,Villa,173,1932,,Aktuel værdi
+Gartnerstien 114460 Snertinge,inge,905.000,03-05-2003,Alm. Salg,8.457,4,Villa,107,1988,,Aktuel værdi
+Vesterbjergvej 44460 Snertinge,inge,60.000,20-04-2003,Alm. Salg,317,5,Villa,189,2005,,Aktuel værdi
+Kalundborgvej 304460 Snertinge,inge,600.000,14-04-2003,Alm. Salg,5.504,3,Villa,109,1917,,Aktuel værdi
+Dalbovej 6B4460 Snertinge,inge,1.195.000,10-04-2003,Alm. Salg,7.759,5,Villa,154,1998,,Aktuel værdi
+Bjergstedvej 84460 Snertinge,inge,1.063.558,28-02-2003,Alm. Salg,-,4,Villa,122,1882,,Aktuel værdi
+Amtsvejen 144460 Snertinge,inge,1.775.000,09-02-2003,Alm. Salg,6.826,8,Stuehus,260,1900,,
+Skovlyvej 14460 Snertinge,inge,1.200.000,13-12-2002,Alm. Salg,6.000,8,Villa,200,1900,,Aktuel værdi
+Skippingevej 74460 Snertinge,inge,1.135.000,02-12-2002,Alm. Salg,6.168,6,Villa,184,1931,,Aktuel værdi
+Skippingevej 254460 Snertinge,inge,1.868.404,24-11-2002,Alm. Salg,2.723,18,Stuehus,686,1822,,
+Kalundborgvej 214460 Snertinge,inge,995.000,19-11-2002,Alm. Salg,-,3,Villa,125,1958,,Aktuel værdi
+Dalbovej 44460 Snertinge,inge,395.000,11-11-2002,Alm. Salg,6.370,2,Villa,62,1907,,Aktuel værdi
+Kalundborgvej 104460 Snertinge,inge,317.825,07-11-2002,Andet,7.391,2,Villa,43,1900,,Aktuel værdi
+Bakkekammen 124460 Snertinge,inge,700.000,05-11-2002,Fam. Salg,5.185,4,Villa,135,1965,,Aktuel værdi
+Bjergstedvej 274460 Snertinge,inge,891.315,04-11-2002,Alm. Salg,3.841,4,Villa,232,1859,,Aktuel værdi
+Slagelsevej 224460 Snertinge,inge,545.000,27-09-2002,Alm. Salg,-,4,Villa,109,1915,,Aktuel værdi
+Slagelsevej 154460 Snertinge,inge,330.000,09-09-2002,Alm. Salg,2.340,4,Villa,141,1880,,Aktuel værdi
+Gartnerstien 24460 Snertinge,inge,445.143,08-09-2002,Andet,4.160,4,Villa,107,1987,,Aktuel værdi
+Trunebjergvej 64460 Snertinge,inge,887.000,22-08-2002,Alm. Salg,6.770,5,Villa,131,1961,,Aktuel værdi
+Nykøbingvej 204460 Snertinge,inge,590.000,12-08-2002,Alm. Salg,4.836,4,Villa,122,1922,,Aktuel værdi
+Ellevej 44460 Snertinge,inge,85.000,07-06-2002,Alm. Salg,598,4,Villa,142,2004,,Aktuel værdi
+Skelbæk 334460 Snertinge,inge,1.475.000,30-03-2002,Alm. Salg,4.804,9,Villa,307,1777,,Aktuel værdi
+Ellevej 34460 Snertinge,inge,85.000,21-03-2002,Alm. Salg,594,5,Villa,143,2004,,Aktuel værdi
+Dalbovej 34460 Snertinge,inge,430.747,10-02-2002,Alm. Salg,6.626,2,Villa,65,1887,,Aktuel værdi
+Olesmindevej 94460 Snertinge,inge,85.000,07-02-2002,Alm. Salg,696,4,Stuehus,122,2007,,
+Kalundborgvej 334460 Snertinge,inge,2.600.000,07-02-2002,Fam. Salg,12.682,8,Stuehus,205,1967,,
+Bjergstedvej 204460 Snertinge,inge,300.000,10-01-2002,Alm. Salg,-,4,Stuehus,157,1924,,
+Askelunden 34460 Snertinge,inge,898.300,24-10-2001,Alm. Salg,9.073,4,Rækkehus,99,1981,,Aktuel værdi
+Teglværksvej 44460 Snertinge,inge,800.836,19-09-2001,Alm. Salg,6.729,5,Villa,119,1950,,Aktuel værdi
+Teglværksvej 54460 Snertinge,inge,1.150.000,09-08-2001,Alm. Salg,-,8,Villa,238,1907,,Aktuel værdi
+Nykøbingvej 54460 Snertinge,inge,643.794,31-07-2001,Alm. Salg,6.437,4,Villa,100,1934,,Aktuel værdi
+Slagelsevej 44460 Snertinge,inge,490.000,28-07-2001,Alm. Salg,4.049,5,Villa,121,1780,,Aktuel værdi
+Skippingevej 364460 Snertinge,inge,1.295.000,21-06-2001,Alm. Salg,6.962,5,Stuehus,186,1973,,
+Skelbæk 44460 Snertinge,inge,1.575.000,20-06-2001,Alm. Salg,11.330,4,Villa,139,1909,,Aktuel værdi
+Bakkekammen 274460 Snertinge,inge,665.427,22-03-2001,Alm. Salg,6.460,4,Rækkehus,103,1981,,Aktuel værdi
+Nykøbingvej 434460 Snertinge,inge,265.000,19-03-2001,Alm. Salg,2.523,3,Villa,105,1890,,Aktuel værdi
+Kalundborgvej 34460 Snertinge,inge,1.511.721,05-03-2001,Alm. Salg,-,9,Stuehus,281,1890,,
+Skelbæk 94460 Snertinge,inge,913.626,16-02-2001,Alm. Salg,-,6,Villa,162,1933,,Aktuel værdi
+Gartnerstien 134460 Snertinge,inge,546.992,08-02-2001,Fam. Salg,5.112,4,Villa,107,1988,,Aktuel værdi
+Skelbæk 234460 Snertinge,inge,814.400,14-12-2000,Alm. Salg,5.090,4,Villa,160,1870,,Aktuel værdi
+Nykøbingvej 584460 Snertinge,inge,525.911,06-12-2000,Alm. Salg,4.494,4,Villa,117,1950,,Aktuel værdi
+Tværvej 64460 Snertinge,inge,493.658,14-11-2000,Alm. Salg,4.255,4,Villa,116,1938,,Aktuel værdi
+Bakken 174460 Snertinge,inge,1.119.076,11-10-2000,Alm. Salg,5.921,9,Villa,189,1979,,Aktuel værdi
+Nykøbingvej 324460 Snertinge,inge,701.760,03-07-2000,Alm. Salg,7.160,3,Villa,98,1901,,Aktuel værdi
+Teglværksvej 144460 Snertinge,inge,879.000,03-06-2000,Alm. Salg,4.650,7,Stuehus,189,1900,,
+Askelunden 84460 Snertinge,inge,800.000,18-05-2000,Alm. Salg,8.163,4,Rækkehus,98,1981,,Aktuel værdi
+Bakken 84460 Snertinge,inge,894.935,10-05-2000,Alm. Salg,6.831,4,Villa,131,1979,,Aktuel værdi
+Nykøbingvej 184460 Snertinge,inge,850.000,27-12-1999,Alm. Salg,5.151,7,Villa,165,1918,,Aktuel værdi
+Slagelsevej 274460 Snertinge,inge,410.000,18-12-1999,Alm. Salg,5.256,2,Villa,78,1961,,Aktuel værdi
+Bjergstedvej 344460 Snertinge,inge,420.380,17-12-1999,Alm. Salg,2.919,4,Stuehus,144,1900,,
+Højgårdsvej 114460 Snertinge,inge,647.300,01-11-1999,Alm. Salg,-,6,Villa,212,1939,,Aktuel værdi
+Vesterbjergvej 114460 Snertinge,inge,870.000,19-10-1999,Alm. Salg,9.062,4,Rækkehus,96,2000,,Aktuel værdi
+Trunebjergvej 14460 Snertinge,inge,743.680,29-09-1999,Alm. Salg,7.746,2,Villa,96,1947,,Aktuel værdi
+Teglværksvej 164460 Snertinge,inge,586.210,08-09-1999,Alm. Salg,3.574,5,Villa,164,2008,,Aktuel værdi
+Kalundborgvej 14460 Snertinge,inge,445.000,27-08-1999,Alm. Salg,4.734,2,Stuehus,94,1880,,
+Olesmindevej 84460 Snertinge,inge,1.400.000,26-08-1999,Alm. Salg,7.650,3,Villa,183,1800,,Aktuel værdi
+Olesmindevej 24460 Snertinge,inge,248.097,13-08-1999,Fam. Salg,1.285,7,Villa,193,1880,,Aktuel værdi
+Vesterbjergvej 164460 Snertinge,inge,637.200,09-07-1999,Alm. Salg,7.324,5,Villa,87,1963,,Aktuel værdi
+Birkevej 34460 Snertinge,inge,670.348,24-06-1999,Alm. Salg,-,6,Villa,150,1976,,Aktuel værdi
+Kalundborgvej 264460 Snertinge,inge,2.617.384,21-06-1999,Andet,27.551,4,Villa,95,1966,,Aktuel værdi
+Mellemvangsvej 24460 Snertinge,inge,770.000,08-06-1999,Alm. Salg,8.020,4,Villa,96,1970,,Aktuel værdi
+Stenager 14460 Snertinge,inge,5.147.065,06-06-1999,Fam. Salg,26.807,8,Stuehus,192,1916,,
+Rosenstien 44460 Snertinge,inge,40.000,28-04-1999,Alm. Salg,185,5,Villa,216,2011,,Aktuel værdi
+Rosenstien 54460 Snertinge,inge,950.000,15-04-1999,Alm. Salg,6.129,4,Villa,155,1982,,Aktuel værdi
+Kalundborgvej 274460 Snertinge,inge,1.400.000,18-02-1999,Alm. Salg,5.737,7,Stuehus,244,1980,,
+Bjergstedvej 64460 Snertinge,inge,824.000,06-01-1999,Alm. Salg,4.963,7,Stuehus,166,1911,,
+Langholm 14460 Snertinge,inge,672.260,16-12-1998,Alm. Salg,5.335,6,Villa,126,1827,,Aktuel værdi
+Nykøbingvej 564460 Snertinge,inge,234.117,11-11-1998,Alm. Salg,2.787,4,Villa,84,1945,,Aktuel værdi
+Bakken 214460 Snertinge,inge,850.000,25-10-1998,Alm. Salg,5.666,4,Villa,150,1980,,Aktuel værdi
+Rosenstien 14460 Snertinge,inge,500.000,22-10-1998,Alm. Salg,4.032,4,Villa,124,1966,,Aktuel værdi
+Slagelsevej 284460 Snertinge,inge,807.780,24-09-1998,Alm. Salg,5.688,6,Villa,142,1880,,Aktuel værdi
+Nykøbingvej 474460 Snertinge,inge,543.000,23-09-1998,Alm. Salg,4.309,4,Villa,126,1959,,Aktuel værdi
+Bjergstedvej 324460 Snertinge,inge,959.584,18-08-1998,Alm. Salg,5.360,5,Villa,179,1912,,Aktuel værdi
+Skelbæk 134460 Snertinge,inge,786.800,17-08-1998,Alm. Salg,5.245,4,Villa,150,1968,,Aktuel værdi
+Bjergstedvej 434460 Snertinge,inge,386.000,21-07-1998,Alm. Salg,-,6,Villa,187,1999,,Aktuel værdi
+Gartnerstien 74460 Snertinge,inge,563.318,07-07-1998,Alm. Salg,6.954,3,Rækkehus,81,1988,,Aktuel værdi
+Skippingevej 294460 Snertinge,inge,690.000,02-07-1998,Alm. Salg,6.330,3,Villa,109,1966,,Aktuel værdi
+Ellevej 64460 Snertinge,inge,80.000,12-06-1998,Alm. Salg,519,5,Villa,154,1999,,Aktuel værdi
+Bjergstedvej 94460 Snertinge,inge,432.000,06-05-1998,Alm. Salg,-,6,Villa,178,1939,,Aktuel værdi
+Nykøbingvej 14460 Snertinge,inge,590.000,05-05-1998,Alm. Salg,5.841,3,Villa,101,1951,,Aktuel værdi
+Bjergstedvej 304460 Snertinge,inge,1.020.000,12-04-1998,Alm. Salg,11.333,3,Stuehus,90,1880,,
+Kalundborgvej 84460 Snertinge,inge,885.000,12-02-1998,Alm. Salg,4.022,11,Villa,220,1950,,Aktuel værdi
+Slagelsevej 334460 Snertinge,inge,550.000,16-01-1998,Fam. Salg,4.330,4,Villa,127,1916,,Aktuel værdi
+Bjergstedvej 264460 Snertinge,inge,475.000,15-10-1997,Alm. Salg,4.357,6,Villa,109,1900,,Aktuel værdi
+Skelbæk 274460 Snertinge,inge,793.000,08-10-1997,Alm. Salg,4.720,7,Villa,168,1918,,Aktuel værdi
+Lindebjergvej 44460 Snertinge,inge,1.516.880,27-09-1997,Alm. Salg,4.225,7,Villa,359,1877,,Aktuel værdi
+Skippingevej 324460 Snertinge,inge,932.060,02-07-1997,Alm. Salg,6.091,4,Stuehus,153,1876,,
+Gartnerstien 124460 Snertinge,inge,585.000,26-03-1997,Alm. Salg,5.467,4,Villa,107,1989,,Aktuel værdi
+Skelbæk 184460 Snertinge,inge,525.000,25-11-1996,Alm. Salg,5.147,4,Villa,102,1877,,Aktuel værdi
+Tingvej 84460 Snertinge,inge,450.000,02-09-1996-,,3.488,4,Villa,129,1852,,Aktuel værdi
+Bjergstedvej 54460 Snertinge,inge,490.000,18-07-1996,Alm. Salg,3.024,7,Villa,162,1910,,Aktuel værdi
+Skelbæk 84460 Snertinge,inge,285.000,19-06-1996,Alm. Salg,2.614,3,Villa,109,1902,,Aktuel værdi
+Bjergstedvej 34460 Snertinge,inge,240.000,13-03-1996,Alm. Salg,1.846,3,Villa,130,1902,,Aktuel værdi
+Nykøbingvej 134460 Snertinge,inge,530.000,07-03-1996,Alm. Salg,3.605,5,Villa,147,1922,,Aktuel værdi
+Vesterbjergvej 94460 Snertinge,inge,637.000,29-02-1996,Alm. Salg,5.687,4,Villa,112,1986,,Aktuel værdi
+Løvvang 24460 Snertinge,inge,884.558,31-08-1995,Alm. Salg,4.293,7,Villa,206,1988,,Aktuel værdi
+Bakken 104460 Snertinge,inge,520.000,16-06-1995,Alm. Salg,4.160,4,Villa,125,1980,,Aktuel værdi
+Lindebjergvej 24460 Snertinge,inge,1.020.000,27-05-1995,Alm. Salg,5.795,5,Stuehus,176,1920,,
+Trunebjergvej 24460 Snertinge,inge,411.339,24-05-1995,Alm. Salg,3.739,4,Villa,110,1950,,Aktuel værdi
+Bjergstedvej 384460 Snertinge,inge,755.000,03-05-1995,Alm. Salg,4.148,5,Stuehus,182,1914,,
+Bjergstedvej 194460 Snertinge,inge,2.027.330,18-04-1995,Andet,8.590,4,Stuehus,236,1959,,
+Højgårdsvej 64460 Snertinge,inge,645.100,28-03-1995,Alm. Salg,2.841,5,Villa,227,1998,,Aktuel værdi
+Hækkemosen 114460 Snertinge,inge,495.000,01-08-1994,Alm. Salg,4.267,4,Villa,116,1972,,Aktuel værdi
+Nykøbingvej 84460 Snertinge,inge,495.000,29-04-1994,Alm. Salg,2.964,4,Villa,167,1908,,Aktuel værdi
+Slagelsevej 124460 Snertinge,inge,360.000,22-11-1993,Alm. Salg,5.070,3,Villa,71,1879,,Aktuel værdi
+Knoldvej 14460 Snertinge,inge,384.023,16-06-1993,Alm. Salg,3.254,2,Stuehus,118,1907,,
+Lindebjergvej 84460 Snertinge,inge,565.000,13-03-1992,Alm. Salg,-,6,Stuehus,147,1910,,
+Slagelsevej 64460 Snertinge,inge,175.000,17-02-1992,Auktion,1.054,6,Villa,166,1900,,Aktuel værdi
+Lindebjergvej 104460 Snertinge,inge,710.000,07-01-1992,Alm. Salg,-,5,Villa,173,1917,,Aktuel værdi

@@ -1,0 +1,374 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Krügersvej 96541 Bevtoft,toft,100.000,26-04-2017,Alm. Salg,735,6,Villa,136,1913,,Aktuel værdi
+Hjartbro Byvej 86541 Bevtoft,toft,375.000,10-03-2017,Alm. Salg,2.516,7,Villa,149,1952,-5 %,Aktuel værdi
+Vestagervej 146541 Bevtoft,toft,495.000,03-03-2017,Alm. Salg,3.639,4,Villa,136,1946,-9 %,Aktuel værdi
+Parkvej 76541 Bevtoft,toft,995.000,25-02-2017,Alm. Salg,4.950,7,Villa,201,1976,0 %,Aktuel værdi
+Galstedvej 366541 Bevtoft,toft,999.999,16-02-2017,Alm. Salg,2.949,6,Stuehus,339,1742,0 %,
+Møllebakken 36541 Bevtoft,toft,525.000,08-01-2017,Alm. Salg,3.860,4,Villa,136,1958,-12 %,Aktuel værdi
+Tjørnevænget 16541 Bevtoft,toft,737.500,06-01-2017,Alm. Salg,6.095,4,Villa,121,1977,-5 %,Aktuel værdi
+Rosenvænget 446541 Bevtoft,toft,497.500,14-12-2016,Alm. Salg,3.090,5,Villa,161,1976,,Aktuel værdi
+Galstedvej 226541 Bevtoft,toft,550.000,09-12-2016,Alm. Salg,3.594,7,Villa,153,1910,,Aktuel værdi
+Møllebakken 176541 Bevtoft,toft,675.000,04-12-2016,Alm. Salg,6.490,4,Villa,104,1934,-9 %,Aktuel værdi
+Galstedvej 36541 Bevtoft,toft,390.000,13-11-2016,Alm. Salg,2.689,5,Villa,145,1913,,Aktuel værdi
+Tirslundvej 126541 Bevtoft,toft,93.523,27-10-2016,Auktion,779,6,Villa,120,1907,,Aktuel værdi
+Buen 146541 Bevtoft,toft,290.000,05-10-2016,Alm. Salg,2.589,4,Villa,112,1967,-3 %,Aktuel værdi
+Galstedvej 136541 Bevtoft,toft,200.000,08-09-2016,Alm. Salg,3.225,3,Villa,62,1927,,Aktuel værdi
+Åbøl Østermarksvej 76541 Bevtoft,toft,120.000,30-08-2016,Alm. Salg,1.250,4,Villa,96,1832,-38 %,Aktuel værdi
+Pile Alle 26541 Bevtoft,toft,1.400.000,26-05-2016,Alm. Salg,8.045,7,Stuehus,174,1922,,
+Galstedvej 356541 Bevtoft,toft,700.000,15-04-2016,Alm. Salg,4.046,4,Stuehus,173,1973,,
+Bevtoftvej 276541 Bevtoft,toft,125.604,14-03-2016,Auktion,483,7,Stuehus,260,1880,-74 %,
+Parkvej 26541 Bevtoft,toft,640.000,03-03-2016,Alm. Salg,4.776,6,Villa,134,1975,-8 %,Aktuel værdi
+Galstedvej 176541 Bevtoft,toft,160.000,08-02-2016,Auktion,2.461,3,Villa,65,1959,-57 %,Aktuel værdi
+Tjørnevænget 386541 Bevtoft,toft,1.385.000,26-01-2016,Alm. Salg,9.295,5,Villa,149,2007,-1 %,Aktuel værdi
+Birkevænget 126541 Bevtoft,toft,350.000,13-01-2016,Alm. Salg,2.397,5,Villa,146,1986,-11 %,Aktuel værdi
+Hyrupvej 66541 Bevtoft,toft,500.000,08-01-2016,Alm. Salg,4.166,4,Stuehus,120,1959,-44 %,
+Hyrupvej 186541 Bevtoft,toft,175.000,15-12-2015,Alm. Salg,1.241,5,Villa,141,1940,-53 %,Aktuel værdi
+Tirslundvej 116541 Bevtoft,toft,220.000,07-12-2015,Alm. Salg,1.235,5,Stuehus,178,1790,-75 %,
+Krügersvej 316541 Bevtoft,toft,700.000,22-10-2015,Alm. Salg,3.381,6,Villa,207,1950,,Aktuel værdi
+Krügersvej 236541 Bevtoft,toft,153.395,08-10-2015,Auktion,1.009,5,Villa,152,1939,-69 %,Aktuel værdi
+Krügersvej 566541 Bevtoft,toft,545.000,07-10-2015,Alm. Salg,3.732,6,Villa,146,1967,0 %,Aktuel værdi
+Birkevænget 86541 Bevtoft,toft,569.516,01-10-2015,Fam. Salg,3.722,5,Villa,153,2003,,Aktuel værdi
+Over Jerstalvej 2186541 Bevtoft,toft,125.000,28-09-2015,Alm. Salg,1.000,5,Villa,125,1936,0 %,Aktuel værdi
+Tirslundvej 36541 Bevtoft,toft,225.000,27-08-2015,Alm. Salg,2.008,3,Villa,112,1880,,Aktuel værdi
+Møllebakken 96541 Bevtoft,toft,260.000,24-08-2015,Alm. Salg,1.897,5,Rækkehus,137,1838,,Aktuel værdi
+Møllevænget 56541 Bevtoft,toft,600.000,24-08-2015,Alm. Salg,4.477,4,Villa,134,1980,,Aktuel værdi
+Diagonalvej 46541 Bevtoft,toft,1.820.000,15-08-2015,Alm. Salg,8.834,6,Stuehus,206,1955,-9 %,
+Birkevænget 436541 Bevtoft,toft,250.000,11-08-2015,Alm. Salg,2.475,4,Rækkehus,101,1982,-23 %,Aktuel værdi
+Birkevænget 676541 Bevtoft,toft,795.000,28-07-2015,Alm. Salg,6.973,4,Rækkehus,114,1981,0 %,Aktuel værdi
+Buen 206541 Bevtoft,toft,731.670,29-06-2015,Fam. Salg,4.877,5,Villa,150,1973,,Aktuel værdi
+Hyrupvej 116541 Bevtoft,toft,600.000,29-06-2015,Alm. Salg,4.958,4,Villa,121,1953,-7 %,Aktuel værdi
+Rosenvænget 166541 Bevtoft,toft,600.000,15-06-2015,Alm. Salg,4.000,5,Villa,150,1973,-4 %,Aktuel værdi
+Bøgevænget 76541 Bevtoft,toft,340.000,23-04-2015,Auktion,2.481,5,Villa,137,1980,-62 %,Aktuel værdi
+Mergellandvej 106541 Bevtoft,toft,296.767,20-03-2015,Alm. Salg,1.705,6,Stuehus,174,1878,,
+Hjartbrovej 66541 Bevtoft,toft,1.995.000,13-03-2015,Alm. Salg,10.178,8,Stuehus,196,1931,135 %,
+Åbøl Østermarksvej 36541 Bevtoft,toft,635.000,04-02-2015,Alm. Salg,4.096,5,Stuehus,155,1926,,
+Hyrupvej 96541 Bevtoft,toft,422.500,21-01-2015,Andet,3.353,4,Villa,126,1948,,Aktuel værdi
+Galstedvej 23A6541 Bevtoft,toft,1.250.000,20-01-2015,Alm. Salg,8.680,6,Villa,144,2008,0 %,Aktuel værdi
+Åbøl Østermarksvej 16541 Bevtoft,toft,4.537.000,19-01-2015,Alm. Salg,18.670,9,Stuehus,243,1867,-9 %,
+Kirkebjergvej 116541 Bevtoft,toft,460.000,09-01-2015,Andet,2.222,7,Villa,207,1859,,Aktuel værdi
+Hjartbro Byvej 16541 Bevtoft,toft,475.000,19-12-2014,Alm. Salg,2.398,4,Stuehus,198,1805,,
+Bevtoftvej 326541 Bevtoft,toft,16.600.000,14-11-2014,Alm. Salg,69.166,7,Stuehus,240,1930,-13 %,
+Buen 156541 Bevtoft,toft,310.000,10-11-2014,Alm. Salg,2.540,3,Villa,122,1969,-22 %,Aktuel værdi
+Galstedvej 386541 Bevtoft,toft,100.000,20-10-2014,Alm. Salg,699,5,Villa,143,1828,,Aktuel værdi
+Krügersvej 146541 Bevtoft,toft,280.000,16-10-2014,Alm. Salg,1.647,8,Villa,170,1950,-19 %,Aktuel værdi
+Parkvej 196541 Bevtoft,toft,221.497,29-09-2014,Fam. Salg,2.129,3,Rækkehus,104,1979,,Aktuel værdi
+Krügersvej 616541 Bevtoft,toft,200.000,27-06-2014,Alm. Salg,2.000,4,Villa,100,1966,-27 %,Aktuel værdi
+Bevtoftvej 236541 Bevtoft,toft,500.000,26-05-2014,Auktion,3.571,15,Undervisning o.l.,140,1858,,Aktuel værdi
+Neder Jerstalvej 126541 Bevtoft,toft,379.000,25-04-2014,Alm. Salg,3.211,5,Villa,118,1952,,Aktuel værdi
+Kirkebjergvej 86541 Bevtoft,toft,514.962,10-04-2014,Andet,2.524,7,Villa,204,1961,,Aktuel værdi
+Rosenvænget 86541 Bevtoft,toft,213.818,10-03-2014,Auktion,1.683,4,Villa,127,1973,-57 %,Aktuel værdi
+Birkevænget 796541 Bevtoft,toft,157.715,05-03-2014,Andet,1.546,4,Rækkehus,102,1981,,Aktuel værdi
+Kirkebjergvej 146541 Bevtoft,toft,475.000,12-02-2014,Alm. Salg,3.166,4,Villa,150,1880,-20 %,Aktuel værdi
+Vestagervej 186541 Bevtoft,toft,135.000,07-02-2014,Alm. Salg,1.054,5,Villa,128,1850,-7 %,Aktuel værdi
+Kirkebjergvej 186541 Bevtoft,toft,500.000,06-01-2014,Auktion,4.807,5,Villa,104,1929,-13 %,Aktuel værdi
+Birkelundvej 76541 Bevtoft,toft,1.790.000,30-12-2013,Alm. Salg,6.754,8,Stuehus,265,1950,,
+Hjartbrovej 56541 Bevtoft,toft,670.000,09-12-2013,Alm. Salg,5.193,4,Villa,129,1942,-8 %,Aktuel værdi
+Rosenvænget 466541 Bevtoft,toft,810.000,16-11-2013,Alm. Salg,6.923,4,Villa,117,1975,-5 %,Aktuel værdi
+Tirslundvej 96541 Bevtoft,toft,250.000,28-10-2013,Alm. Salg,2.049,5,Villa,122,1827,-12 %,Aktuel værdi
+Tjørnevænget 406541 Bevtoft,toft,500.000,10-09-2013,Alm. Salg,4.098,4,Villa,122,1979,-15 %,Aktuel værdi
+Krügersvej 116541 Bevtoft,toft,570.350,09-07-2013,Andet,2.501,11,Villa,228,1919,-56 %,Aktuel værdi
+Neder Jerstalvej 316541 Bevtoft,toft,4.072.000,21-06-2013,Alm. Salg,25.450,5,Stuehus,160,1844,,
+Rosenvænget 196541 Bevtoft,toft,234.243,10-06-2013,Auktion,1.626,5,Villa,144,1976,,Aktuel værdi
+Kirkebjergvej 26541 Bevtoft,toft,20.000,30-04-2013,Alm. Salg,206,3,Villa,97,1958,,Aktuel værdi
+Pionervej 66541 Bevtoft,toft,275.000,26-03-2013,Alm. Salg,2.835,4,Villa,97,1976,,Aktuel værdi
+Kirkebjergvej 56541 Bevtoft,toft,15.200.000,05-03-2013,Alm. Salg,63.333,7,Stuehus,240,1928,,
+Tirslund Sognevej 36541 Bevtoft,toft,830.000,23-01-2013,Alm. Salg,2.593,10,Stuehus,320,1855,,
+Rosenvænget 56541 Bevtoft,toft,340.000,22-01-2013,Alm. Salg,2.905,4,Villa,117,1973,-28 %,Aktuel værdi
+Rosenvænget 256541 Bevtoft,toft,500.000,10-01-2013,Alm. Salg,4.273,2,Villa,117,1975,-16 %,Aktuel værdi
+Hyrupvej 216541 Bevtoft,toft,349.764,08-10-2012,Alm. Salg,2.331,5,Villa,150,1959,-56 %,Aktuel værdi
+Tirslund Sognevej 126541 Bevtoft,toft,300.000,20-09-2012,Alm. Salg,1.530,7,Stuehus,196,1880,,
+Tjørnevænget 66541 Bevtoft,toft,425.000,21-08-2012,Alm. Salg,3.541,5,Villa,120,1977,-6 %,Aktuel værdi
+Tirslund Sognevej 26541 Bevtoft,toft,450.000,15-08-2012,Alm. Salg,3.125,3,Villa,144,1852,,Aktuel værdi
+Pionervej 86541 Bevtoft,toft,15.564.000,09-08-2012,Alm. Salg,48.037,9,Stuehus,324,2006,,
+Åbøl Østermarksvej 9B6541 Bevtoft,toft,550.000,24-07-2012,Alm. Salg,4.910,4,Villa,112,1974,-12 %,Aktuel værdi
+Rosenvænget 226541 Bevtoft,toft,740.000,30-06-2012,Fam. Salg,4.431,6,Villa,167,1974,,Aktuel værdi
+Parkvej 156541 Bevtoft,toft,765.000,29-06-2012,Alm. Salg,5.930,3,Rækkehus,129,1979,-13 %,Aktuel værdi
+Parkvej 106541 Bevtoft,toft,300.000,02-05-2012,Alm. Salg,3.529,3,Rækkehus,85,1979,,Aktuel værdi
+Tirslundvej 156541 Bevtoft,toft,300.000,15-04-2012,Alm. Salg,1.500,7,Villa,200,1943,-45 %,Aktuel værdi
+Neder Jerstalvej 146541 Bevtoft,toft,350.000,11-04-2012,Alm. Salg,2.302,6,Villa,152,1968,-18 %,Aktuel værdi
+Hyrupvej 416541 Bevtoft,toft,1.600.000,10-04-2012,Fam. Salg,6.926,8,Stuehus,231,1877,,
+Hyrupvej 136541 Bevtoft,toft,230.000,26-03-2012,Alm. Salg,2.053,4,Villa,112,1954,-22 %,Aktuel værdi
+Vestagervej 176541 Bevtoft,toft,400.000,14-02-2012,Alm. Salg,4.000,3,Villa,100,1949,,Aktuel værdi
+Buen 236541 Bevtoft,toft,530.000,08-12-2011,Alm. Salg,4.453,4,Villa,119,1971,-3 %,Aktuel værdi
+Krügersvej 346541 Bevtoft,toft,425.000,10-11-2011,Auktion,2.135,8,Villa,199,1927,-53 %,Aktuel værdi
+Krügersvej 286541 Bevtoft,toft,1.949.747,31-10-2011,Andet,5.872,10,Villa,332,1854,,Aktuel værdi
+Galstedvej 256541 Bevtoft,toft,6.016.300,27-10-2011,Fam. Salg,29.205,7,Stuehus,206,1925,,
+Mergellandvej 16541 Bevtoft,toft,3.362.000,13-10-2011,Alm. Salg,20.500,11,Stuehus,164,1880,,
+Neder Jerstalvej 76541 Bevtoft,toft,1.400.000,01-09-2011,Alm. Salg,6.603,7,Villa,212,1929,,Aktuel værdi
+Tjørnevænget 156541 Bevtoft,toft,1.200.000,01-09-2011,Alm. Salg,8.888,4,Villa,135,1979,,Aktuel værdi
+Møllebakken 46541 Bevtoft,toft,313.962,29-08-2011,Fam. Salg,2.452,5,Villa,128,1932,,Aktuel værdi
+Neder Jerstalvej 86541 Bevtoft,toft,285.000,30-06-2011,Auktion,2.500,3,Villa,114,1930,-48 %,Aktuel værdi
+Galstedvej 156541 Bevtoft,toft,650.000,30-06-2011,Alm. Salg,5.909,3,Villa,110,1953,-6 %,Aktuel værdi
+Bevtoftvej 426541 Bevtoft,toft,1.170.000,06-04-2011,Alm. Salg,8.540,5,Stuehus,137,1930,,
+Parkvej 126541 Bevtoft,toft,695.000,25-03-2011,Fam. Salg,6.682,3,Rækkehus,104,1979,,Aktuel værdi
+Birkevænget 476541 Bevtoft,toft,525.000,04-02-2011,Auktion,4.487,5,Rækkehus,117,1983,-9 %,Aktuel værdi
+Tjørnevænget 56541 Bevtoft,toft,562.500,25-12-2010,Andet,4.197,4,Villa,134,1977,,Aktuel værdi
+Birkevænget 106541 Bevtoft,toft,61.360,13-10-2010,Alm. Salg,371,5,Villa,165,2012,,Aktuel værdi
+Vestagervej 166541 Bevtoft,toft,1.750.000,30-09-2010,Alm. Salg,19.886,2,Stuehus,88,1900,,
+Galstedvej 426541 Bevtoft,toft,200.000,28-09-2010,Alm. Salg,2.247,5,Villa,89,1935,,Aktuel værdi
+Krügersvej 546541 Bevtoft,toft,455.000,26-09-2010,Alm. Salg,4.212,4,Villa,108,1962,-17 %,Aktuel værdi
+Gelsåvej 926541 Bevtoft,toft,1.100.000,22-06-2010,Alm. Salg,6.395,5,Villa,172,2000,-29 %,Aktuel værdi
+Rosenvænget 36541 Bevtoft,toft,275.000,03-06-2010,Auktion,2.115,5,Villa,130,1973,,Aktuel værdi
+Buen 56541 Bevtoft,toft,450.000,26-05-2010,Alm. Salg,3.688,4,Villa,122,1967,,Aktuel værdi
+Bevtoftvej 406541 Bevtoft,toft,1.790.000,11-03-2010,Alm. Salg,10.170,5,Stuehus,176,1978,,
+Tirslundvej 186541 Bevtoft,toft,400.000,25-02-2010,Auktion,3.174,4,Stuehus,126,1880,,
+Neder Jerstalvej 166541 Bevtoft,toft,504.244,16-02-2010,Andet,3.093,5,Villa,163,1975,,Aktuel værdi
+Jægerlundvej 56541 Bevtoft,toft,1.200.000,12-01-2010,Alm. Salg,4.255,8,Stuehus,282,2012,,
+Neder Jerstalvej 306541 Bevtoft,toft,195.000,03-12-2009,Auktion,1.772,4,Villa,110,1958,,Aktuel værdi
+Birkevænget 416541 Bevtoft,toft,800.000,16-11-2009,Alm. Salg,6.837,4,Rækkehus,117,1982,-9 %,Aktuel værdi
+Birkevænget 516541 Bevtoft,toft,690.000,27-10-2009,Alm. Salg,6.831,4,Rækkehus,101,1982,-5 %,Aktuel værdi
+Hyrupvej 266541 Bevtoft,toft,60.000,27-10-2009,Alm. Salg,-,7,Villa,292,1953,,Aktuel værdi
+Krügersvej 496541 Bevtoft,toft,745.000,23-10-2009,Alm. Salg,6.157,4,Villa,121,1948,-6 %,Aktuel værdi
+Hyrupvej 106541 Bevtoft,toft,950.000,21-10-2009,Alm. Salg,6.250,5,Stuehus,152,1959,-27 %,
+Birkevænget 556541 Bevtoft,toft,850.000,19-09-2009,Alm. Salg,7.264,4,Rækkehus,117,1982,0 %,Aktuel værdi
+Bøgevænget 136541 Bevtoft,toft,850.000,05-08-2009,Andet,4.829,6,Villa,176,2001,,Aktuel værdi
+Hjartbrovej 506541 Bevtoft,toft,790.000,26-06-2009,Alm. Salg,5.410,6,Villa,146,1931,-5 %,Aktuel værdi
+Birkelundvej 26541 Bevtoft,toft,569.311,15-06-2009,Alm. Salg,2.259,9,Stuehus,252,1921,,
+Vestagervej 15A6541 Bevtoft,toft,2.600.000,26-05-2009,Alm. Salg,13.265,6,Stuehus,196,1978,-2 %,
+Krügersvej 36541 Bevtoft,toft,675.000,19-11-2008,Alm. Salg,5.000,5,Villa,135,1933,,Aktuel værdi
+Mellemvej 16541 Bevtoft,toft,485.000,08-10-2008,Alm. Salg,5.388,4,Villa,90,1951,-12 %,Aktuel værdi
+Mellemvej 26541 Bevtoft,toft,425.000,02-10-2008,Alm. Salg,1.976,7,Villa,215,1956,,Aktuel værdi
+Galstedvej 266541 Bevtoft,toft,221.000,19-09-2008,Fam. Salg,2.376,3,Villa,93,1850,,Aktuel værdi
+Buen 176541 Bevtoft,toft,895.000,18-09-2008,Alm. Salg,7.276,5,Villa,123,1969,0 %,Aktuel værdi
+Egegårdsvej 26541 Bevtoft,toft,4.731.750,19-06-2008,Alm. Salg,20.936,5,Stuehus,226,1860,,
+Krügersvej 636541 Bevtoft,toft,740.000,13-06-2008,Alm. Salg,6.727,4,Villa,110,1965,-3 %,Aktuel værdi
+Hjartbrovej 176541 Bevtoft,toft,1.500.000,05-05-2008,Alm. Salg,7.978,6,Stuehus,188,1986,,
+Hyldevej 186541 Bevtoft,toft,240.000,25-04-2008,Auktion,2.086,3,Villa,115,1877,-20 %,Aktuel værdi
+Birkelundvej 96541 Bevtoft,toft,4.380.000,07-02-2008,Alm. Salg,26.545,7,Stuehus,165,1946,,
+Hjartbro Skovvej 96541 Bevtoft,toft,1.500.000,05-02-2008,Alm. Salg,-,6,Villa,205,1860,,Aktuel værdi
+Hyrupvej 456541 Bevtoft,toft,550.000,23-01-2008,Alm. Salg,3.437,6,Villa,160,1933,,Aktuel værdi
+Møllebakken 76541 Bevtoft,toft,850.000,21-01-2008,Alm. Salg,5.555,4,Rækkehus,153,1838,-3 %,Aktuel værdi
+Buen 196541 Bevtoft,toft,723.000,20-01-2008,Alm. Salg,5.738,4,Villa,126,1971,0 %,Aktuel værdi
+Krügersvej 526541 Bevtoft,toft,450.000,16-01-2008,Alm. Salg,4.326,3,Villa,104,1969,,Aktuel værdi
+Møllebakken 16541 Bevtoft,toft,700.000,14-01-2008,Alm. Salg,4.861,5,Villa,144,1934,,Aktuel værdi
+Bevtoftvej 296541 Bevtoft,toft,2.395.000,03-12-2007,Alm. Salg,10.936,7,Villa,219,1939,0 %,Aktuel værdi
+Krügersvej 26541 Bevtoft,toft,450.000,22-11-2007,Alm. Salg,5.769,3,Villa,78,1921,-9 %,Aktuel værdi
+Hjartbrovej 11A6541 Bevtoft,toft,525.000,17-10-2007,Alm. Salg,7.720,3,Villa,68,1961,,Aktuel værdi
+Hyrupvej 396541 Bevtoft,toft,475.000,29-09-2007,Alm. Salg,2.914,5,Villa,163,1908,-10 %,Aktuel værdi
+Krügersvej 296541 Bevtoft,toft,775.000,19-09-2007,Alm. Salg,6.623,5,Villa,117,1872,,Aktuel værdi
+Vestagervej 226541 Bevtoft,toft,578.430,18-09-2007,Alm. Salg,2.450,6,Stuehus,236,1995,,
+Vestagervej 216541 Bevtoft,toft,335.000,20-08-2007,Alm. Salg,2.248,4,Villa,149,1877,,Aktuel værdi
+Bøgevænget 26541 Bevtoft,toft,850.000,21-07-2007,Alm. Salg,6.854,4,Villa,124,1984,0 %,Aktuel værdi
+Tjørnevænget 256541 Bevtoft,toft,800.000,11-07-2007,Alm. Salg,6.666,4,Villa,120,1978,-9 %,Aktuel værdi
+Neder Jerstalvej 136541 Bevtoft,toft,890.000,03-07-2007,Alm. Salg,7.542,4,Villa,118,1948,,Aktuel værdi
+Vestagervej 256541 Bevtoft,toft,1.200.000,18-06-2007,Alm. Salg,5.825,8,Stuehus,206,1900,,
+Birkevænget 756541 Bevtoft,toft,5.659.537,15-06-2007,Alm. Salg,80.850,2,Rækkehus,70,1981,,Aktuel værdi
+Krügersvej 516541 Bevtoft,toft,985.000,06-06-2007,Alm. Salg,5.472,6,Villa,180,1932,,Aktuel værdi
+Kirkebjergvej 106541 Bevtoft,toft,10.400.000,03-06-2007,Alm. Salg,51.485,7,Stuehus,202,1899,,
+Rosenvænget 486541 Bevtoft,toft,915.000,31-05-2007,Alm. Salg,7.148,4,Villa,128,1977,,Aktuel værdi
+Neder Jerstalvej 326541 Bevtoft,toft,640.000,22-05-2007,Alm. Salg,5.818,5,Villa,110,1958,-5 %,Aktuel værdi
+Krügersvej 336541 Bevtoft,toft,500.000,15-05-2007,Alm. Salg,2.604,8,Villa,192,1930,-7 %,Aktuel værdi
+Rosenvænget 206541 Bevtoft,toft,785.000,27-04-2007,Alm. Salg,5.688,5,Villa,138,1973,5 %,Aktuel værdi
+Buen 186541 Bevtoft,toft,795.000,23-04-2007,Alm. Salg,5.638,6,Villa,141,1968,0 %,Aktuel værdi
+Tirslund Sognevej 46541 Bevtoft,toft,2.400.000,11-04-2007,Alm. Salg,5.783,14,Villa,415,1877,,Aktuel værdi
+Tjørnevænget 336541 Bevtoft,toft,1.100.000,23-03-2007,Alm. Salg,7.534,6,Villa,146,1979,-2 %,Aktuel værdi
+Hjartbrovej 156541 Bevtoft,toft,800.000,19-12-2006,Fam. Salg,3.773,8,Stuehus,212,1790,,
+Tjørnevænget 106541 Bevtoft,toft,800.000,19-12-2006,Fam. Salg,5.555,6,Villa,144,1977,,Aktuel værdi
+Krügersvej 196541 Bevtoft,toft,295.000,14-12-2006,Alm. Salg,2.062,6,Villa,143,1892,,Aktuel værdi
+Tirslund Sognevej 16541 Bevtoft,toft,1.500.000,11-09-2006,Alm. Salg,5.952,9,Villa,252,1900,,Aktuel værdi
+Hjartbro Byvej 176541 Bevtoft,toft,207.336,12-06-2006,Alm. Salg,1.001,8,Stuehus,207,1994,,
+Buen 36541 Bevtoft,toft,340.000,03-05-2006,Alm. Salg,2.297,6,Villa,148,1967,,Aktuel værdi
+Jægerlundvej 36541 Bevtoft,toft,865.000,03-04-2006,Alm. Salg,5.306,6,Villa,163,1859,,Aktuel værdi
+Neder Jerstalvej 156541 Bevtoft,toft,430.000,02-04-2006,Alm. Salg,4.174,3,Villa,103,1948,,Aktuel værdi
+Hjartbro Byvej 246541 Bevtoft,toft,585.000,09-03-2006,Alm. Salg,5.318,4,Villa,110,1964,,Aktuel værdi
+Kirkebjergvej 166541 Bevtoft,toft,225.000,09-03-2006,Alm. Salg,1.203,5,Villa,187,1857,,Aktuel værdi
+Pile Alle 16541 Bevtoft,toft,1.110.000,02-03-2006,Alm. Salg,-,10,Stuehus,272,1863,,
+Galstedvej 306541 Bevtoft,toft,285.000,28-02-2006,Fam. Salg,2.500,4,Villa,114,1870,,Aktuel værdi
+Hjartbro Byvej 156541 Bevtoft,toft,745.000,06-02-2006,Alm. Salg,-,6,Villa,130,1956,,Aktuel værdi
+Diagonalvej 116541 Bevtoft,toft,1.429.750,20-01-2006,Fam. Salg,10.436,6,Stuehus,137,1941,,
+Krügersvej 106541 Bevtoft,toft,445.000,13-01-2006,Alm. Salg,3.677,5,Villa,121,1945,,Aktuel værdi
+Diagonalvej 26541 Bevtoft,toft,3.230.000,24-12-2005,Fam. Salg,9.500,12,Stuehus,340,1879,,
+Tjørnevænget 76541 Bevtoft,toft,795.000,06-10-2005,Alm. Salg,5.802,4,Villa,137,1977,,Aktuel værdi
+Diagonalvej 76541 Bevtoft,toft,575.000,19-09-2005,Alm. Salg,5.133,4,Stuehus,112,1939,,
+Hyrupvej 536541 Bevtoft,toft,525.000,14-09-2005,Alm. Salg,3.917,5,Villa,134,1919,,Aktuel værdi
+Galstedvej 206541 Bevtoft,toft,1.500.000,02-09-2005,Fam. Salg,7.978,8,Stuehus,188,2011,,
+Tirslundvej 146541 Bevtoft,toft,270.000,02-09-2005,Alm. Salg,2.368,4,Stuehus,114,1820,,
+Hjartbro Byvej 18A6541 Bevtoft,toft,365.000,11-07-2005,Fam. Salg,2.225,6,Villa,164,1877,,Aktuel værdi
+Parkvej 46541 Bevtoft,toft,825.000,07-07-2005,Alm. Salg,5.500,5,Villa,150,1977,,Aktuel værdi
+Rosenvænget 606541 Bevtoft,toft,800.000,01-07-2005,Alm. Salg,5.194,5,Villa,154,1974,,Aktuel værdi
+Galstedvej 216541 Bevtoft,toft,325.000,24-06-2005,Alm. Salg,1.477,7,Villa,220,1952,,Aktuel værdi
+Hyldevej 86541 Bevtoft,toft,490.000,08-06-2005,Alm. Salg,4.152,3,Villa,118,1930,,Aktuel værdi
+Hyrupvej 256541 Bevtoft,toft,345.000,31-05-2005,Alm. Salg,-,4,Villa,126,1951,,Aktuel værdi
+Hjartbro Byvej 9A6541 Bevtoft,toft,1.148.000,25-05-2005,Alm. Salg,6.042,4,Stuehus,190,1880,,
+Neder Jerstalvej 236541 Bevtoft,toft,248.528,20-05-2005,Alm. Salg,986,10,Stuehus,252,1880,,
+Birkevænget 656541 Bevtoft,toft,675.000,13-05-2005,Alm. Salg,6.683,4,Rækkehus,101,1981,,Aktuel værdi
+Tirslundvej 76541 Bevtoft,toft,675.000,05-05-2005,Alm. Salg,5.192,3,Stuehus,130,1880,,
+Krügersvej 596541 Bevtoft,toft,664.000,10-04-2005,Alm. Salg,5.354,4,Villa,124,1966,,Aktuel værdi
+Birkevænget 736541 Bevtoft,toft,285.000,11-03-2005,Alm. Salg,4.071,2,Rækkehus,70,1981,,Aktuel værdi
+Hjartbro Byvej 116541 Bevtoft,toft,3.187.872,28-02-2005,Alm. Salg,11.939,12,Stuehus,267,1877,,
+Tjørnevænget 176541 Bevtoft,toft,635.000,04-02-2005,Alm. Salg,5.619,4,Villa,113,1978,,Aktuel værdi
+Parkvej 186541 Bevtoft,toft,425.000,25-01-2005,Alm. Salg,4.086,3,Rækkehus,104,1979,,Aktuel værdi
+Krügersvej 706541 Bevtoft,toft,325.000,20-12-2004,Andet,-,7,Villa,217,1914,,Aktuel værdi
+Galstedvej 126541 Bevtoft,toft,191.551,26-11-2004,Alm. Salg,2.487,3,Villa,77,1960,,Aktuel værdi
+Krügersvej 46541 Bevtoft,toft,406.000,15-11-2004,Auktion,1.906,9,Villa,213,1938,,Aktuel værdi
+Galstedvej 396541 Bevtoft,toft,227.520,07-10-2004,Alm. Salg,1.477,5,Villa,154,1850,,Aktuel værdi
+Kirkebjergvej 66541 Bevtoft,toft,2.576.712,07-10-2004,Andet,21.472,4,Villa,120,1964,,Aktuel værdi
+Neder Jerstalvej 256541 Bevtoft,toft,1.261.000,26-09-2004,Alm. Salg,6.433,6,Stuehus,196,1880,,
+Rosenvænget 266541 Bevtoft,toft,695.000,15-09-2004,Alm. Salg,4.826,5,Villa,144,1975,,Aktuel værdi
+Hyrupvej 206541 Bevtoft,toft,400.000,31-08-2004,Alm. Salg,1.769,7,Stuehus,226,1828,,
+Hyrupvej 276541 Bevtoft,toft,340.000,18-07-2004,Alm. Salg,3.090,3,Villa,110,1951,,Aktuel værdi
+Rosenvænget 146541 Bevtoft,toft,685.000,21-05-2004,Alm. Salg,4.756,3,Villa,144,1974,,Aktuel værdi
+Åbøl Østermarksvej 86541 Bevtoft,toft,399.000,21-03-2004,Alm. Salg,3.325,3,Villa,120,1965,,Aktuel værdi
+Mellemvej 66541 Bevtoft,toft,370.000,29-01-2004,Alm. Salg,2.642,6,Villa,140,1943,,Aktuel værdi
+Hyldevej 126541 Bevtoft,toft,104.683,02-12-2003,Auktion,910,3,Villa,115,1850,,Aktuel værdi
+Hjartbrovej 76541 Bevtoft,toft,970.000,01-12-2003,Alm. Salg,4.974,7,Villa,195,1935,,Aktuel værdi
+Krügersvej 606541 Bevtoft,toft,385.000,21-11-2003,Alm. Salg,3.564,4,Villa,108,1962,,Aktuel værdi
+Rosenvænget 246541 Bevtoft,toft,700.000,19-11-2003,Alm. Salg,4.605,5,Villa,152,1975,,Aktuel værdi
+Hyrupvej 316541 Bevtoft,toft,2.617.000,26-10-2003,Alm. Salg,14.145,7,Stuehus,185,1959,,
+Rosenvænget 26541 Bevtoft,toft,570.000,14-10-2003,Alm. Salg,2.953,6,Villa,193,1950,,Aktuel værdi
+Bevtoftgårdvej 26541 Bevtoft,toft,55.000,02-10-2003,Alm. Salg,224,8,Stuehus,245,1980,,
+Tjørnevænget 286541 Bevtoft,toft,276.900,01-09-2003,Andet,1.896,5,Villa,146,1979,,Aktuel værdi
+Neder Jerstalvej 246541 Bevtoft,toft,3.100.000,27-08-2003,Alm. Salg,21.232,6,Stuehus,146,1924,,
+Rosenvænget 276541 Bevtoft,toft,780.000,21-07-2003,Alm. Salg,6.446,4,Villa,121,1977,,Aktuel værdi
+Pile Alle 46541 Bevtoft,toft,1.325.000,18-07-2003,Alm. Salg,9.137,5,Stuehus,145,1975,,
+Bøgevænget 56541 Bevtoft,toft,710.000,14-07-2003,Alm. Salg,5.916,5,Villa,120,1986,,Aktuel værdi
+Tirslund Sognevej 66541 Bevtoft,toft,825.000,02-07-2003,Alm. Salg,3.650,8,Stuehus,226,1897,,
+Tjørnevænget 346541 Bevtoft,toft,312.500,02-06-2003,Fam. Salg,2.332,4,Villa,134,1978,,Aktuel værdi
+Jægerlundvej 76541 Bevtoft,toft,950.000,13-05-2003,Alm. Salg,4.773,7,Stuehus,199,1878,,
+Åbøl Østermarksvej 66541 Bevtoft,toft,700.000,12-05-2003,Alm. Salg,3.723,6,Stuehus,188,2004,,
+Krügersvej 156541 Bevtoft,toft,280.000,07-05-2003,Alm. Salg,2.800,3,Villa,100,1965,,Aktuel værdi
+Krügersvej 696541 Bevtoft,toft,400.000,27-03-2003,Alm. Salg,3.571,4,Villa,112,1972,,Aktuel værdi
+Galstedvej 106541 Bevtoft,toft,335.000,12-03-2003,Alm. Salg,2.445,4,Villa,137,1942,,Aktuel værdi
+Hyrupvej 56541 Bevtoft,toft,420.000,24-01-2003,Alm. Salg,3.500,5,Villa,120,1942,,Aktuel værdi
+Hjartbro Skovvej 76541 Bevtoft,toft,1.575.000,09-01-2003,Alm. Salg,7.291,5,Stuehus,216,1877,,
+Vestagervej 396541 Bevtoft,toft,285.000,30-12-2002,Alm. Salg,-,5,Villa,134,1905,,Aktuel værdi
+Hyrupvej 496541 Bevtoft,toft,300.000,06-12-2002,Fam. Salg,2.189,5,Villa,137,1834,,Aktuel værdi
+Krügersvej 256541 Bevtoft,toft,505.000,04-09-2002,Alm. Salg,4.675,4,Villa,108,1965,,Aktuel værdi
+Bevtoftvej 386541 Bevtoft,toft,765.000,15-08-2002,Alm. Salg,-,7,Villa,291,1913,,Aktuel værdi
+Krügersvej 586541 Bevtoft,toft,395.000,28-06-2002,Alm. Salg,3.434,4,Villa,115,1966,,Aktuel værdi
+Rosenvænget 236541 Bevtoft,toft,770.000,13-06-2002,Alm. Salg,-,7,Villa,186,1975,,Aktuel værdi
+Rosenvænget 66541 Bevtoft,toft,110.000,03-06-2002,Alm. Salg,705,6,Villa,156,2003,,Aktuel værdi
+Krügersvej 686541 Bevtoft,toft,401.000,08-05-2002,Alm. Salg,2.673,3,Villa,150,1940,,Aktuel værdi
+Krügersvej 576541 Bevtoft,toft,540.000,27-03-2002,Alm. Salg,4.122,5,Villa,131,1965,,Aktuel værdi
+Bøgevænget 16541 Bevtoft,toft,494.281,07-02-2002,Fam. Salg,3.051,5,Villa,162,1999,,Aktuel værdi
+Hyrupvej 29A6541 Bevtoft,toft,1.235.000,05-12-2001,Alm. Salg,5.145,6,Stuehus,240,1866,,
+Tjørnevænget 196541 Bevtoft,toft,725.000,18-11-2001,Alm. Salg,-,6,Villa,184,1979,,Aktuel værdi
+Hyrupvej 236541 Bevtoft,toft,323.784,06-11-2001,Alm. Salg,3.679,3,Villa,88,1957,,Aktuel værdi
+Pionervej 16541 Bevtoft,toft,235.079,04-11-2001,Fam. Salg,1.895,5,Villa,124,1938,,Aktuel værdi
+Birkevænget 596541 Bevtoft,toft,310.000,18-10-2001,Alm. Salg,4.492,2,Rækkehus,69,1981,,Aktuel værdi
+Hjartbro Byvej 186541 Bevtoft,toft,123.000,01-10-2001,Alm. Salg,1.078,4,Villa,114,1963,,Aktuel værdi
+Åbøl Østermarksvej 26541 Bevtoft,toft,3.933.000,12-09-2001,Fam. Salg,15.363,9,Stuehus,256,1877,,
+Vestagervej 356541 Bevtoft,toft,112.730,03-09-2001,Alm. Salg,1.483,3,Villa,76,1904,,Aktuel værdi
+Mellemvej 36541 Bevtoft,toft,378.797,09-07-2001,Alm. Salg,2.559,7,Villa,148,1950,,Aktuel værdi
+Hyrupvej 336541 Bevtoft,toft,1.241.000,13-06-2001,Alm. Salg,4.773,7,Stuehus,260,1978,,
+Møllebakken 56541 Bevtoft,toft,1.019.000,03-05-2001,Fam. Salg,4.392,10,Stuehus,232,1963,,
+Hjartbro Byvej 106541 Bevtoft,toft,135.000,19-04-2001,Alm. Salg,1.054,5,Rækkehus,128,1877,,Aktuel værdi
+Tjørnevænget 96541 Bevtoft,toft,683.908,12-03-2001,Alm. Salg,4.274,5,Villa,160,1977,,Aktuel værdi
+Buen 86541 Bevtoft,toft,380.000,22-02-2001,Fam. Salg,3.423,4,Villa,111,1966,,Aktuel værdi
+Jægerlundvej 16541 Bevtoft,toft,3.582.100,09-10-2000,Fam. Salg,13.169,6,Stuehus,272,1878,,
+Hyldevej 66541 Bevtoft,toft,400.000,06-10-2000,Alm. Salg,2.000,6,Villa,200,1830,,Aktuel værdi
+Tjørnevænget 296541 Bevtoft,toft,700.000,17-09-2000,Alm. Salg,4.191,7,Villa,167,1979,,Aktuel værdi
+Rosenvænget 506541 Bevtoft,toft,645.000,24-08-2000,Alm. Salg,5.560,4,Villa,116,1974,,Aktuel værdi
+Hyrupvej 556541 Bevtoft,toft,360.000,11-07-2000,Alm. Salg,4.000,5,Villa,90,1960,,Aktuel værdi
+Hjartbro Byvej 76541 Bevtoft,toft,220.000,04-07-2000,Alm. Salg,3.055,3,Villa,72,1966,,Aktuel værdi
+Tirslundvej 166541 Bevtoft,toft,240.000,30-06-2000,Fam. Salg,1.904,4,Villa,126,1942,,Aktuel værdi
+Hyrupvej 296541 Bevtoft,toft,400.000,02-06-2000,Alm. Salg,3.603,4,Villa,111,1944,,Aktuel værdi
+Rosenvænget 96541 Bevtoft,toft,484.485,31-05-2000,Alm. Salg,4.703,5,Villa,103,1974,,Aktuel værdi
+Egegårdsvej 16541 Bevtoft,toft,599.999,25-04-2000,Alm. Salg,3.370,4,Stuehus,178,2002,,
+Parkvej 166541 Bevtoft,toft,415.000,12-04-2000,Alm. Salg,3.990,3,Rækkehus,104,1979,,Aktuel værdi
+Krügersvej 176541 Bevtoft,toft,400.000,06-04-2000,Alm. Salg,2.453,7,Villa,163,1898,,Aktuel værdi
+Krügersvej 396541 Bevtoft,toft,400.000,31-03-2000,Alm. Salg,1.342,11,Villa,298,1890,,Aktuel værdi
+Savværksvej 66541 Bevtoft,toft,634.275,09-02-2000,Fam. Salg,-,8,Stuehus,216,1928,,
+Kreiselvej 26541 Bevtoft,toft,969.200,25-01-2000,Fam. Salg,10.095,4,Stuehus,96,1896,,
+Hyrupvej 376541 Bevtoft,toft,85.000,22-12-1999,Alm. Salg,307,8,Stuehus,276,1930,,
+Bevtoftvej 286541 Bevtoft,toft,450.000,15-11-1999,Alm. Salg,3.000,3,Stuehus,150,1984,,
+Rosenvænget 76541 Bevtoft,toft,535.000,09-11-1999,Alm. Salg,-,6,Villa,152,1973,,Aktuel værdi
+Galstedvej 296541 Bevtoft,toft,2.754.897,27-10-1999,Alm. Salg,13.438,6,Stuehus,205,1877,,
+Hjartbrovej 16541 Bevtoft,toft,790.000,08-10-1999,Alm. Salg,3.511,7,Stuehus,225,1930,,
+Vestagervej 276541 Bevtoft,toft,235.000,16-09-1999,Alm. Salg,-,10,Villa,253,1922,,Aktuel værdi
+Birkelundvej 136541 Bevtoft,toft,938.734,31-08-1999,Alm. Salg,4.838,9,Stuehus,194,1880,,
+Rosenvænget 526541 Bevtoft,toft,520.000,11-08-1999,Alm. Salg,4.333,4,Villa,120,1974,,Aktuel værdi
+Tjørnevænget 426541 Bevtoft,toft,500.000,06-08-1999,Alm. Salg,4.273,4,Villa,117,1980,,Aktuel værdi
+Krügersvej 206541 Bevtoft,toft,155.180,01-07-1999,Alm. Salg,-,5,Villa,99,1900,,Aktuel værdi
+Neder Jerstalvej 66541 Bevtoft,toft,350.000,12-06-1999,Alm. Salg,2.713,5,Villa,129,1925,,Aktuel værdi
+Rosenvænget 216541 Bevtoft,toft,565.000,12-05-1999,Alm. Salg,4.414,4,Villa,128,1976,,Aktuel værdi
+Neder Jerstalvej 56541 Bevtoft,toft,664.320,12-05-1999,Alm. Salg,3.796,4,Villa,175,1930,,Aktuel værdi
+Jægerlundvej 26541 Bevtoft,toft,686.500,22-03-1999,Alm. Salg,5.085,4,Villa,135,1940,,Aktuel værdi
+Gammelskovvej 126541 Bevtoft,toft,750.000,09-02-1999,Alm. Salg,3.472,5,Villa,216,1978,,Aktuel værdi
+Galstedvej 96541 Bevtoft,toft,170.000,31-01-1999,Alm. Salg,2.500,3,Villa,68,1926,,Aktuel værdi
+Savværksvej 36541 Bevtoft,toft,947.000,24-01-1999,Alm. Salg,5.955,6,Stuehus,159,1930,,
+Rosenvænget 326541 Bevtoft,toft,637.000,09-11-1998,Alm. Salg,-,6,Villa,153,1975,,Aktuel værdi
+Tirslundvej 66541 Bevtoft,toft,230.000,27-10-1998,Alm. Salg,1.533,6,Villa,150,1932,,Aktuel værdi
+Rosenvænget 306541 Bevtoft,toft,600.000,26-10-1998,Alm. Salg,4.285,4,Villa,140,1974,,Aktuel værdi
+Parkvej 176541 Bevtoft,toft,435.000,30-09-1998,Alm. Salg,4.182,3,Rækkehus,104,1979,,Aktuel værdi
+Tjørnevænget 236541 Bevtoft,toft,850.000,24-08-1998,Alm. Salg,4.047,4,Villa,210,1979,,Aktuel værdi
+Rosenvænget 16541 Bevtoft,toft,601.000,24-08-1998,Alm. Salg,4.769,4,Villa,126,1973,,Aktuel værdi
+Tjørnevænget 306541 Bevtoft,toft,723.883,09-08-1998,Alm. Salg,5.362,4,Villa,135,1979,,Aktuel værdi
+Bøgevænget 96541 Bevtoft,toft,704.000,08-07-1998,Alm. Salg,-,5,Villa,159,1980,,Aktuel værdi
+Hyrupvej 86541 Bevtoft,toft,772.000,23-06-1998,Alm. Salg,4.128,6,Stuehus,187,1959,,
+Kirkebjergvej 176541 Bevtoft,toft,250.000,15-06-1998,Alm. Salg,-,4,Villa,145,1923,,Aktuel værdi
+Savværksvej 106541 Bevtoft,toft,500.000,20-03-1998,Alm. Salg,5.813,3,BygningTilKontor,86,1925,,Aktuel værdi
+Krügersvej 536541 Bevtoft,toft,394.091,19-02-1998,Alm. Salg,4.478,4,Villa,88,1947,,Aktuel værdi
+Rosenvænget 546541 Bevtoft,toft,760.000,07-01-1998,Alm. Salg,4.903,5,Villa,155,1977,,Aktuel værdi
+Birkevænget 776541 Bevtoft,toft,201.128,14-12-1997,Alm. Salg,1.719,4,Rækkehus,117,1981,,Aktuel værdi
+Neder Jerstalvej 216541 Bevtoft,toft,2.345.000,12-12-1997,Fam. Salg,13.027,8,Stuehus,180,1930,,
+Rosenvænget 366541 Bevtoft,toft,576.000,01-09-1997,Alm. Salg,3.865,5,Villa,149,1974,,Aktuel værdi
+Åbøl Østermarksvej 116541 Bevtoft,toft,620.000,22-08-1997,Fam. Salg,-,6,Stuehus,173,1934,,
+Krügersvej 676541 Bevtoft,toft,280.500,18-07-1997,Fam. Salg,2.777,4,Villa,101,1965,,Aktuel værdi
+Krügersvej 326541 Bevtoft,toft,500.000,26-06-1997,Alm. Salg,3.067,7,Villa,163,1869,,Aktuel værdi
+Birkevænget 716541 Bevtoft,toft,347.519,11-06-1997,Alm. Salg,4.964,2,Rækkehus,70,1981,,Aktuel værdi
+Neder Jerstalvej 346541 Bevtoft,toft,283.000,15-05-1997,Alm. Salg,2.572,4,Villa,110,1951,,Aktuel værdi
+Bevtoftvej 196541 Bevtoft,toft,260.000,12-05-1997,Alm. Salg,2.280,5,Villa,114,1956,,Aktuel værdi
+Krügersvej 16541 Bevtoft,toft,360.000,22-04-1997,Alm. Salg,3.272,4,Villa,110,1924,,Aktuel værdi
+Mergellandvej 26541 Bevtoft,toft,5.533.545,26-03-1997,Fam. Salg,27.947,6,Stuehus,198,1894,,
+Birkevænget 836541 Bevtoft,toft,414.051,09-02-1997,Alm. Salg,-,7,Villa,193,1981,,Aktuel værdi
+Hjartbrovej 96541 Bevtoft,toft,249.100,01-02-1997,Alm. Salg,-,4,Villa,140,1949,,Aktuel værdi
+Galstedvej 446541 Bevtoft,toft,440.000,24-01-1997,Alm. Salg,-,8,Stuehus,215,1959,,
+Buen 126541 Bevtoft,toft,335.000,02-01-1997,Alm. Salg,3.045,4,Villa,110,1966,,Aktuel værdi
+Åbøl Østermarksvej 9A6541 Bevtoft,toft,387.000,19-12-1996,Alm. Salg,2.276,4,Villa,170,1937,,Aktuel værdi
+Hjartbro Byvej 136541 Bevtoft,toft,576.000,09-12-1996,Alm. Salg,-,6,Villa,153,1920,,Aktuel værdi
+Møllebakken 116541 Bevtoft,toft,290.000,29-10-1996,Alm. Salg,2.248,3,Villa,129,1947,,Aktuel værdi
+Bøgevænget 126541 Bevtoft,toft,141.066,24-10-1996,Fam. Salg,1.185,4,Villa,119,1980,,Aktuel værdi
+Hyrupvej 26541 Bevtoft,toft,335.000,01-10-1996,Alm. Salg,2.887,4,Villa,116,1965,,Aktuel værdi
+Hjartbro Byvej 206541 Bevtoft,toft,150.000,25-09-1996,Alm. Salg,-,5,Villa,205,1877,,Aktuel værdi
+Neder Jerstalvej 296541 Bevtoft,toft,989.000,12-08-1996,Fam. Salg,4.600,8,Stuehus,215,1936,,
+Hyrupvej 196541 Bevtoft,toft,382.500,10-08-1996,Fam. Salg,2.467,7,Villa,155,1963,,Aktuel værdi
+Møllevænget 66541 Bevtoft,toft,417.000,01-07-1996,Alm. Salg,3.111,4,Villa,134,1980,,Aktuel værdi
+Galstedvej 326541 Bevtoft,toft,170.000,01-07-1996,Alm. Salg,1.700,3,Villa,100,1890,,Aktuel værdi
+Krügersvej 86541 Bevtoft,toft,411.000,16-06-1996,Alm. Salg,2.815,5,Villa,146,1938,,Aktuel værdi
+Buen 136541 Bevtoft,toft,380.000,01-06-1996,Alm. Salg,3.166,4,Villa,120,1968,,Aktuel værdi
+Tirslundvej 246541 Bevtoft,toft,470.000,26-04-1996,Fam. Salg,1.942,7,Stuehus,242,1927,,
+Lille Åbølvej 26541 Bevtoft,toft,417.206,18-03-1996,Alm. Salg,-,6,Stuehus,177,1827,,
+Vestagervej 236541 Bevtoft,toft,80.000,01-03-1996,Alm. Salg,1.000,2,Villa,80,1850,,Aktuel værdi
+Krügersvej 66541 Bevtoft,toft,355.000,28-02-1996,Alm. Salg,2.795,5,Villa,127,1939,,Aktuel værdi
+Rosenvænget 126541 Bevtoft,toft,630.000,25-01-1996,Alm. Salg,2.863,7,Villa,220,1972,,Aktuel værdi
+Birkevænget 536541 Bevtoft,toft,100.000,15-01-1996,Auktion,990,3,Rækkehus,101,1982,,Aktuel værdi
+Parkvej 96541 Bevtoft,toft,580.000,13-01-1996,Alm. Salg,3.918,4,Villa,148,1976,,Aktuel værdi
+Neder Jerstalvej 106541 Bevtoft,toft,350.000,30-12-1995,Alm. Salg,2.845,5,Villa,123,1965,,Aktuel værdi
+Krügersvej 656541 Bevtoft,toft,379.800,16-10-1995,Alm. Salg,2.548,6,Villa,149,1966,,Aktuel værdi
+Hjartbro Byvej 36541 Bevtoft,toft,360.000,22-03-1995,Alm. Salg,2.000,6,Stuehus,180,1887,,
+Møllevænget 26541 Bevtoft,toft,514.000,15-03-1995,Alm. Salg,3.835,4,Villa,134,1980,,Aktuel værdi
+Hyldevej 16541 Bevtoft,toft,290.000,28-10-1994,Alm. Salg,4.531,4,Villa,64,1932,,Aktuel værdi
+Møllevænget 76541 Bevtoft,toft,435.000,28-10-1994,Alm. Salg,3.246,4,Villa,134,1980,,Aktuel værdi
+Hjartbro Byvej 166541 Bevtoft,toft,335.000,01-10-1994,Alm. Salg,-,5,Villa,177,1984,,Aktuel værdi
+Neder Jerstalvej 36541 Bevtoft,toft,240.000,08-09-1994,Alm. Salg,3.333,4,Villa,72,1872,,Aktuel værdi
+Tjørnevænget 206541 Bevtoft,toft,355.130,04-08-1994,Alm. Salg,-,6,Villa,169,1979,,Aktuel værdi
+Lille Åbølvej 66541 Bevtoft,toft,100.000,04-05-1994,Alm. Salg,606,4,Stuehus,165,1850,,
+Krügersvej 166541 Bevtoft,toft,132.000,25-04-1994,Auktion,825,5,Villa,160,1897,,Aktuel værdi
+Bevtoftvej 266541 Bevtoft,toft,182.000,07-03-1994,Fam. Salg,-,6,Villa,235,1944,,Aktuel værdi
+Hyldevej 46541 Bevtoft,toft,225.000,09-02-1994,Alm. Salg,2.045,4,Villa,110,1955,,Aktuel værdi
+Diagonalvej 2A6541 Bevtoft,toft,1.100.000,01-02-1994,Alm. Salg,7.051,4,Ukendt,156,1951,,Aktuel værdi
+Vestagervej 136541 Bevtoft,toft,550.000,25-01-1994,Alm. Salg,3.437,7,Stuehus,160,1961,,
+Mergellandvej 96541 Bevtoft,toft,925.000,17-12-1993,Alm. Salg,6.851,6,Stuehus,135,1867,,
+Galstedvej 286541 Bevtoft,toft,500.000,29-10-1993,Alm. Salg,-,7,Stuehus,190,1868,,
+Neder Jerstalvej 356541 Bevtoft,toft,365.000,23-10-1993,Alm. Salg,-,5,Stuehus,159,1939,,
+Mergellandvej 136541 Bevtoft,toft,2.023.254,15-10-1993,Fam. Salg,-,9,Stuehus,230,1820,,
+Hjartbro Byvej 306541 Bevtoft,toft,736.000,01-10-1993,Alm. Salg,4.134,6,Stuehus,178,1977,,
+Tjørnevænget 326541 Bevtoft,toft,201.102,07-09-1993,Fam. Salg,1.500,3,Villa,134,1978,,Aktuel værdi
+Rosenvænget 106541 Bevtoft,toft,485.000,31-08-1993,Fam. Salg,3.233,5,Villa,150,1973,,Aktuel værdi
+Galstedvej 346541 Bevtoft,toft,2.640.000,17-08-1993,Alm. Salg,8.000,9,Stuehus,330,1872,,
+Bevtoftvej 346541 Bevtoft,toft,1.023.000,16-07-1993,Fam. Salg,-,4,Stuehus,128,1948,,
+Tjørnevænget 316541 Bevtoft,toft,410.000,02-07-1993,Alm. Salg,3.059,4,Villa,134,1979,,Aktuel værdi
+Birkevænget 636541 Bevtoft,toft,143.901,05-05-1993,Alm. Salg,1.229,4,Rækkehus,117,1981,,Aktuel værdi
+Krügersvej 646541 Bevtoft,toft,200.000,05-05-1993,Alm. Salg,-,4,Villa,133,1943,,Aktuel værdi
+Hyrupvej 156541 Bevtoft,toft,87.000,24-03-1993,Alm. Salg,1.380,3,Villa,63,1955,,Aktuel værdi
+Krügersvej 136541 Bevtoft,toft,248.670,15-01-1993,Alm. Salg,1.751,5,Villa,142,1948,,Aktuel værdi
+Mergellandvej 86541 Bevtoft,toft,200.000,20-11-1992,Fam. Salg,-,7,Stuehus,250,1854,,
+Bøgevænget 66541 Bevtoft,toft,505.000,21-10-1992,Alm. Salg,3.607,6,Villa,140,1980,,Aktuel værdi
+Hjartbro Byvej 146541 Bevtoft,toft,180.341,13-05-1992,Andet,964,5,Villa,187,1900,,Aktuel værdi
+Bøgevænget 36541 Bevtoft,toft,410.000,30-04-1992,Fam. Salg,3.596,4,Villa,114,1980,,Aktuel værdi
+Galstedvej 186541 Bevtoft,toft,3.600.000,27-03-1992,Alm. Salg,16.363,7,Villa,220,1895,,Aktuel værdi
+Vestagervej 336541 Bevtoft,toft,2.400.000,20-03-1992,Fam. Salg,11.111,7,Stuehus,216,1910,,
+Hyrupvej 76541 Bevtoft,toft,166.807,08-03-1992,Alm. Salg,926,6,Villa,180,1943,,Aktuel værdi
+Birkevænget 496541 Bevtoft,toft,265.000,12-02-1992,Alm. Salg,2.264,4,Villa,117,1982,,Aktuel værdi
+Neder Jerstalvej 30A6541 Bevtoft,toft,297.586,04-02-1992,Fam. Salg,-,5,Stuehus,117,1934,,

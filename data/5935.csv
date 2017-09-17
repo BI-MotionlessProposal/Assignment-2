@@ -1,0 +1,378 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Klintevej 55935 Bagenkop,nkop,335.000,22-02-2017,Alm. Salg,3.941,3,Villa,85,1904,,Aktuel værdi
+Klintevej 65935 Bagenkop,nkop,1.610.000,22-02-2017,Alm. Salg,26.393,3,Villa,61,1930,-9 %,Aktuel værdi
+Østergade 95935 Bagenkop,nkop,800.000,23-01-2017,Alm. Salg,4.968,6,Villa,161,1908,-10 %,Aktuel værdi
+Bakkevej 15935 Bagenkop,nkop,250.000,17-01-2017,Alm. Salg,3.125,3,Villa,80,1965,,Aktuel værdi
+Smallegade 45935 Bagenkop,nkop,1.000.000,06-01-2017,Alm. Salg,8.928,3,Villa,112,1962,,Aktuel værdi
+Klintevej 45935 Bagenkop,nkop,290.000,21-12-2016,Fam. Salg,3.766,4,Rækkehus,77,1877,,Aktuel værdi
+"Færgevej 11, 1. TV5935 Bagenkop",nkop,1.825.000,05-12-2016,Alm. Salg,15.208,5,Lejlighed,120,2008,-1 %,Aktuel værdi
+Kløvervænget 135935 Bagenkop,nkop,425.000,03-11-2016,Alm. Salg,2.485,6,Villa,171,1970,-6 %,Aktuel værdi
+Søndenbro 85935 Bagenkop,nkop,200.000,01-11-2016,Alm. Salg,2.020,3,Villa,99,1910,,Aktuel værdi
+Kløvervænget 185935 Bagenkop,nkop,300.000,25-10-2016,Alm. Salg,2.142,4,Villa,140,1965,-9 %,Aktuel værdi
+Vognsbjergvej 135935 Bagenkop,nkop,120.000,20-10-2016,Alm. Salg,1.212,3,Villa,99,1910,,Aktuel værdi
+"Færgevej 16, ST. TV5935 Bagenkop",nkop,1.275.000,17-09-2016,Alm. Salg,13.281,3,Lejlighed,96,2008,-2 %,Aktuel værdi
+Vestervej 235935 Bagenkop,nkop,1.150.000,16-09-2016,Alm. Salg,13.529,3,Villa,85,1880,-10 %,Aktuel værdi
+Østervej 45935 Bagenkop,nkop,300.000,13-09-2016,Alm. Salg,2.678,4,Villa,112,1966,-35 %,Aktuel værdi
+Østergade 705935 Bagenkop,nkop,400.000,29-08-2016,Alm. Salg,2.702,6,Villa,148,1934,,Aktuel værdi
+Røjlevej 95935 Bagenkop,nkop,500.000,01-08-2016,Alm. Salg,4.950,3,Villa,101,1877,-9 %,Aktuel værdi
+Klintevej 275935 Bagenkop,nkop,780.000,29-07-2016,Alm. Salg,5.416,5,Villa,144,1981,-8 %,Aktuel værdi
+"Færgevej 14, 1. TV5935 Bagenkop",nkop,1.900.000,22-07-2016,Alm. Salg,14.503,5,Lejlighed,131,2008,,Aktuel værdi
+Østergade 175935 Bagenkop,nkop,750.000,04-07-2016,Alm. Salg,5.244,7,Villa,143,1896,,Aktuel værdi
+Bredgade 195935 Bagenkop,nkop,130.000,01-07-2016,Alm. Salg,792,7,Villa,164,1904,-48 %,Aktuel værdi
+"Færgevej 20, ST. TH5935 Bagenkop",nkop,1.125.000,23-05-2016,Alm. Salg,12.228,3,Lejlighed,92,2008,-6 %,Aktuel værdi
+Gulstavvej 95935 Bagenkop,nkop,35.000,27-04-2016,Auktion,176,7,Villa,198,1917,,Aktuel værdi
+Gulstavvej 115935 Bagenkop,nkop,442.000,29-01-2016,Fam. Salg,4.464,3,Villa,99,1870,,Aktuel værdi
+Vestervej 255935 Bagenkop,nkop,1.525.000,10-01-2016,Alm. Salg,9.967,5,Villa,153,2003,-5 %,Aktuel værdi
+Vognsbjergvej 185935 Bagenkop,nkop,850.000,01-12-2015,Alm. Salg,7.943,4,Villa,107,1877,-14 %,Aktuel værdi
+Kirkeby 95935 Bagenkop,nkop,264.000,03-09-2015,Auktion,1.233,9,Villa,214,1910,,Aktuel værdi
+Lundevej 25935 Bagenkop,nkop,278.000,31-08-2015,Fam. Salg,2.044,5,Villa,136,1877,,Aktuel værdi
+Østergade 505935 Bagenkop,nkop,175.000,11-08-2015,Alm. Salg,1.861,5,Villa,94,1913,-29 %,Aktuel værdi
+Vestervej 85935 Bagenkop,nkop,7.875.000,30-07-2015,Alm. Salg,20.507,10,Stuehus,384,1943,,
+Skolegade 115935 Bagenkop,nkop,200.000,27-07-2015,Alm. Salg,2.325,4,Villa,86,1949,-32 %,Aktuel værdi
+Østergade 8A5935 Bagenkop,nkop,450.000,17-07-2015,Andet,4.285,5,Villa,105,1964,,Aktuel værdi
+Kirkevej 65935 Bagenkop,nkop,386.270,14-06-2015,Alm. Salg,3.610,5,Villa,107,1932,,Aktuel værdi
+Fakkemosevej 105935 Bagenkop,nkop,111.700,26-05-2015,Auktion,1.618,3,Villa,69,1880,,Aktuel værdi
+Strandgade 115935 Bagenkop,nkop,100.000,21-05-2015,Alm. Salg,2.173,2,Rækkehus,46,1898,,Aktuel værdi
+Vestervej 165935 Bagenkop,nkop,700.000,05-05-2015,Alm. Salg,4.320,7,Villa,162,1802,-22 %,Aktuel værdi
+Søndenbro 75935 Bagenkop,nkop,450.000,30-04-2015,Alm. Salg,2.980,5,Villa,151,1937,-9 %,Aktuel værdi
+Vestervej 355935 Bagenkop,nkop,61.000,10-04-2015,Alm. Salg,414,4,Villa,147,1901,,Aktuel værdi
+Harresvej 25935 Bagenkop,nkop,1.250.000,08-04-2015,Alm. Salg,11.061,6,Villa,113,1877,,Aktuel værdi
+Vestervej 95935 Bagenkop,nkop,125.000,08-04-2015,Alm. Salg,1.050,5,Villa,119,1951,-50 %,Aktuel værdi
+Kirkeby 125935 Bagenkop,nkop,225.000,27-02-2015,Alm. Salg,1.165,6,Villa,193,1910,-15 %,Aktuel værdi
+Harresvej 125935 Bagenkop,nkop,620.000,19-02-2015,Alm. Salg,4.843,4,Villa,128,1880,-17 %,Aktuel værdi
+Østergade 225935 Bagenkop,nkop,175.000,04-02-2015,Alm. Salg,1.666,3,Villa,105,1898,-46 %,Aktuel værdi
+Østergade 325935 Bagenkop,nkop,400.000,14-01-2015,Alm. Salg,2.898,4,Villa,138,1902,-27 %,Aktuel værdi
+Kløvervænget 55935 Bagenkop,nkop,100.000,04-12-2014,Alm. Salg,1.666,3,Villa,60,1962,-80 %,Aktuel værdi
+Østervej 135935 Bagenkop,nkop,435.000,28-10-2014,Fam. Salg,5.178,5,Villa,84,1875,,Aktuel værdi
+Vestervej 395935 Bagenkop,nkop,245.000,20-10-2014,Alm. Salg,3.500,3,Villa,70,1878,0 %,Aktuel værdi
+Kirkeby 35935 Bagenkop,nkop,330.000,14-10-2014,Alm. Salg,1.907,5,Villa,173,1918,,Aktuel værdi
+"Færgevej 9, 1. TH5935 Bagenkop",nkop,2.000.000,13-10-2014,Alm. Salg,14.705,5,Lejlighed,136,2008,-5 %,Aktuel værdi
+Vestervej 155935 Bagenkop,nkop,600.000,28-08-2014,Alm. Salg,7.500,3,Villa,80,1959,,Aktuel værdi
+Østergade 15935 Bagenkop,nkop,200.000,15-08-2014,Alm. Salg,1.666,3,Villa,120,1948,,Aktuel værdi
+Søgårdsvej 65935 Bagenkop,nkop,1.350.000,10-07-2014,Alm. Salg,10.975,3,Stuehus,123,1920,-15 %,
+Vestervej 435935 Bagenkop,nkop,1.000.000,02-05-2014,Alm. Salg,8.333,4,Stuehus,120,1877,-16 %,
+Østervej 35935 Bagenkop,nkop,500.000,03-04-2014,Alm. Salg,3.205,4,Villa,156,1952,-16 %,Aktuel værdi
+Vognsbjergvej 95935 Bagenkop,nkop,525.000,18-03-2014,Alm. Salg,3.547,5,Stuehus,148,1926,-74 %,
+Strandvej 15935 Bagenkop,nkop,3.725.000,17-03-2014,Fam. Salg,14.163,10,Stuehus,263,1914,,
+Bredgade 85935 Bagenkop,nkop,340.000,10-03-2014,Alm. Salg,2.764,3,Villa,123,1904,-14 %,Aktuel værdi
+"Færgevej 14, ST. TV5935 Bagenkop",nkop,1.350.000,07-03-2014,Alm. Salg,14.673,3,Lejlighed,92,2008,,Aktuel værdi
+Østergade 185935 Bagenkop,nkop,1.200.000,26-02-2014,Alm. Salg,-,3,Villa,130,1943,-4 %,Aktuel værdi
+Kirkevej 55935 Bagenkop,nkop,595.000,24-02-2014,Alm. Salg,5.173,4,Villa,115,1944,,Aktuel værdi
+Østergade 365935 Bagenkop,nkop,145.000,10-02-2014,Alm. Salg,1.271,5,Villa,114,1930,-26 %,Aktuel værdi
+Stormgade 165935 Bagenkop,nkop,775.000,26-01-2014,Alm. Salg,4.189,7,Villa,185,1931,-13 %,Aktuel værdi
+Østergade 55935 Bagenkop,nkop,160.000,17-01-2014,Alm. Salg,2.077,3,Villa,77,1850,-36 %,Aktuel værdi
+Landevejen 115935 Bagenkop,nkop,135.000,30-12-2013,Alm. Salg,849,6,Villa,159,1926,-31 %,Aktuel værdi
+Vognsbjergvej 15935 Bagenkop,nkop,442.800,29-12-2013,Fam. Salg,3.486,5,Villa,127,1934,,Aktuel værdi
+Østergade 135935 Bagenkop,nkop,160.000,18-11-2013,Alm. Salg,2.222,3,Villa,72,1896,-46 %,Aktuel værdi
+Bakkevej 55935 Bagenkop,nkop,750.000,07-11-2013,Alm. Salg,8.928,3,Villa,84,1965,-3 %,Aktuel værdi
+Østergade 445935 Bagenkop,nkop,165.000,14-10-2013,Andet,1.250,4,Villa,132,1910,,Aktuel værdi
+Skolegade 35935 Bagenkop,nkop,650.000,04-07-2013,Alm. Salg,8.125,4,Villa,80,1901,-4 %,Aktuel værdi
+Østergade 625935 Bagenkop,nkop,698.534,26-06-2013,Fam. Salg,8.416,3,Villa,83,1948,,Aktuel værdi
+Gulstavvej 215935 Bagenkop,nkop,225.000,06-06-2013,Auktion,2.122,4,Villa,106,1877,,Aktuel værdi
+Fogedgade 85935 Bagenkop,nkop,700.000,15-05-2013,Alm. Salg,5.833,7,Villa,120,1890,-12 %,Aktuel værdi
+Landevejen 225935 Bagenkop,nkop,635.000,25-03-2013,Alm. Salg,5.669,3,Villa,112,1880,-2 %,Aktuel værdi
+Gulstavvej 85935 Bagenkop,nkop,90.500,03-01-2013,Auktion,599,6,Villa,151,1880,,Aktuel værdi
+Havnegade 75935 Bagenkop,nkop,900.000,10-12-2012,Alm. Salg,9.574,4,Villa,94,1902,-25 %,Aktuel værdi
+Kirkevej 95935 Bagenkop,nkop,595.800,03-12-2012,Fam. Salg,4.348,5,Villa,137,1963,,Aktuel værdi
+Ørredvej 65935 Bagenkop,nkop,700.000,30-11-2012,Alm. Salg,5.000,4,Villa,140,1977,-12 %,Aktuel værdi
+"Færgevej 5, 1. TH5935 Bagenkop",nkop,1.800.000,11-10-2012,Alm. Salg,15.000,5,Lejlighed,120,2008,-3 %,Aktuel værdi
+Fredsbjergvej 15935 Bagenkop,nkop,325.000,28-08-2012,Alm. Salg,3.385,6,Villa,96,1952,-18 %,Aktuel værdi
+Bredgade 155935 Bagenkop,nkop,250.000,06-08-2012,Alm. Salg,2.427,5,Villa,103,1917,,Aktuel værdi
+Lundevej 15935 Bagenkop,nkop,2.072.000,11-07-2012,Alm. Salg,13.113,3,Stuehus,158,1900,-28 %,
+Østergade 115935 Bagenkop,nkop,200.000,26-06-2012,Alm. Salg,2.105,5,Villa,95,1953,-49 %,Aktuel værdi
+Strandgårdsvej 475935 Bagenkop,nkop,1.175.000,21-06-2012,Alm. Salg,11.084,4,Sommerhus,106,2008,,Aktuel værdi
+Strandgårdsvej 685935 Bagenkop,nkop,1.050.000,21-06-2012,Alm. Salg,9.905,4,Sommerhus,106,2008,-45 %,Aktuel værdi
+Strandgårdsvej 595935 Bagenkop,nkop,1.175.000,21-06-2012,Alm. Salg,11.084,4,Sommerhus,106,2008,,Aktuel værdi
+Fredsbjergvej 45935 Bagenkop,nkop,500.000,27-05-2012,Alm. Salg,3.333,4,Villa,150,1960,-22 %,Aktuel værdi
+Røjlevej 115935 Bagenkop,nkop,250.000,27-04-2012,Alm. Salg,2.840,3,Villa,88,1900,0 %,Aktuel værdi
+Stationsvej 35935 Bagenkop,nkop,360.000,07-04-2012,Alm. Salg,2.975,4,Villa,121,1965,-27 %,Aktuel værdi
+Gulstavvej 25935 Bagenkop,nkop,560.000,05-04-2012,Alm. Salg,6.588,3,Stuehus,85,1932,-6 %,
+Rathvej 35935 Bagenkop,nkop,725.000,07-02-2012,Alm. Salg,3.940,7,Villa,184,1800,-33 %,Aktuel værdi
+Landevejen 155935 Bagenkop,nkop,30.000,30-01-2012,Alm. Salg,135,8,Villa,221,1877,,Aktuel værdi
+Søndenbro 265935 Bagenkop,nkop,315.000,22-12-2011,Alm. Salg,-,13,Villa,227,1918,-42 %,Aktuel værdi
+"Færgevej 7, ST. TV5935 Bagenkop",nkop,1.100.000,21-12-2011,Andet,11.956,3,Lejlighed,92,2008,,Aktuel værdi
+"Færgevej 3, 15935 Bagenkop",nkop,1.170.000,20-12-2011,Fam. Salg,9.000,3,Lejlighed,130,2008,,Aktuel værdi
+Østergade 415935 Bagenkop,nkop,385.000,16-08-2011,Alm. Salg,3.737,4,Villa,103,1958,-3 %,Aktuel værdi
+"Færgevej 17, ST. TH5935 Bagenkop",nkop,1.020.000,27-05-2011,Andet,10.851,3,Lejlighed,94,2008,,Aktuel værdi
+Ørredvej 45935 Bagenkop,nkop,500.000,26-04-2011,Alm. Salg,3.846,4,Villa,130,1976,-16 %,Aktuel værdi
+Norvej 55935 Bagenkop,nkop,492.500,15-04-2011,Alm. Salg,4.070,5,Villa,121,1897,,Aktuel værdi
+Strandgade 175935 Bagenkop,nkop,1.000.000,30-03-2011,Alm. Salg,5.813,5,Villa,172,1918,-22 %,Aktuel værdi
+Havnegade 155935 Bagenkop,nkop,400.000,29-03-2011,Alm. Salg,4.705,4,Villa,85,1777,-24 %,Aktuel værdi
+Landevejen 195935 Bagenkop,nkop,650.000,24-03-2011,Alm. Salg,3.385,5,Villa,192,2013,-26 %,Aktuel værdi
+Kirkeby 305935 Bagenkop,nkop,150.000,21-03-2011,Alm. Salg,2.000,4,Stuehus,75,1850,,
+Røjlevej 25935 Bagenkop,nkop,5.064.500,02-03-2011,Alm. Salg,31.262,6,Stuehus,162,1850,,
+"Færgevej 5, ST. TV5935 Bagenkop",nkop,1.055.000,17-02-2011,Auktion,11.467,3,Lejlighed,92,2008,,Aktuel værdi
+"Færgevej 5, ST. TH5935 Bagenkop",nkop,1.000.000,17-02-2011,Auktion,10.869,3,Lejlighed,92,2008,,Aktuel værdi
+"Færgevej 3, ST5935 Bagenkop",nkop,1.000.000,17-02-2011,Auktion,11.494,3,Lejlighed,87,2008,,Aktuel værdi
+"Færgevej 13, ST. TV5935 Bagenkop",nkop,1.200.000,17-02-2011,Auktion,13.043,3,Lejlighed,92,2008,,Aktuel værdi
+"Færgevej 11, ST. TV5935 Bagenkop",nkop,1.206.000,17-02-2011,Auktion,12.562,3,Lejlighed,96,2008,,Aktuel værdi
+"Færgevej 5, 1. TV5935 Bagenkop",nkop,1.500.000,17-02-2011,Auktion,12.500,5,Lejlighed,120,2008,,Aktuel værdi
+"Færgevej 13, ST. TH5935 Bagenkop",nkop,574.250,17-02-2011,Auktion,6.109,3,Lejlighed,94,2008,,Aktuel værdi
+"Færgevej 20, 1. TH5935 Bagenkop",nkop,1.580.000,17-02-2011,Auktion,12.343,5,Lejlighed,128,2008,,Aktuel værdi
+"Færgevej 11, ST. TH5935 Bagenkop",nkop,1.025.000,17-02-2011,Auktion,11.141,3,Lejlighed,92,2008,,Aktuel værdi
+"Færgevej 7, ST. TH5935 Bagenkop",nkop,1.000.000,17-02-2011,Auktion,10.869,3,Lejlighed,92,2008,,Aktuel værdi
+"Færgevej 9, ST. TV5935 Bagenkop",nkop,1.200.000,17-02-2011,Auktion,12.903,3,Lejlighed,93,2008,,Aktuel værdi
+"Færgevej 17, ST. TV5935 Bagenkop",nkop,1.010.000,16-02-2011,Auktion,10.978,3,Lejlighed,92,2008,,Aktuel værdi
+"Færgevej 15, 1. TH5935 Bagenkop",nkop,1.440.000,16-02-2011,Auktion,12.000,5,Lejlighed,120,2008,,Aktuel værdi
+"Færgevej 15, ST. TV5935 Bagenkop",nkop,1.075.000,16-02-2011,Auktion,11.436,3,Lejlighed,94,2008,,Aktuel værdi
+"Færgevej 16, ST. TH5935 Bagenkop",nkop,1.200.000,16-02-2011,Auktion,13.043,3,Lejlighed,92,2008,,Aktuel værdi
+"Færgevej 15, 1. TV5935 Bagenkop",nkop,1.450.000,16-02-2011,Auktion,11.788,5,Lejlighed,123,2008,,Aktuel værdi
+"Færgevej 16, 1. TV5935 Bagenkop",nkop,1.295.000,16-02-2011,Auktion,10.791,5,Lejlighed,120,2008,,Aktuel værdi
+"Færgevej 15, ST. TH5935 Bagenkop",nkop,1.000.000,16-02-2011,Auktion,10.869,3,Lejlighed,92,2008,,Aktuel værdi
+"Færgevej 18, 1. TV5935 Bagenkop",nkop,1.315.000,16-02-2011,Auktion,10.958,5,Lejlighed,120,2008,,Aktuel værdi
+"Færgevej 18, ST. TV5935 Bagenkop",nkop,1.200.000,16-02-2011,Auktion,12.903,3,Lejlighed,93,2008,,Aktuel værdi
+Mosevej 125935 Bagenkop,nkop,924.000,31-01-2011,Alm. Salg,6.285,6,Villa,147,1960,-16 %,Aktuel værdi
+Søndenbro 245935 Bagenkop,nkop,685.000,29-10-2010,Alm. Salg,4.691,5,Villa,146,1935,-14 %,Aktuel værdi
+Strandgade 215935 Bagenkop,nkop,750.000,24-09-2010,Alm. Salg,8.152,4,Villa,92,1934,-12 %,Aktuel værdi
+Skolegade 185935 Bagenkop,nkop,620.000,16-08-2010,Alm. Salg,5.740,4,Villa,108,1943,-4 %,Aktuel værdi
+Bredgade 135935 Bagenkop,nkop,450.000,31-07-2010,Alm. Salg,3.813,4,Villa,118,1900,-28 %,Aktuel værdi
+Vostervej 25935 Bagenkop,nkop,260.050,24-06-2010,Fam. Salg,2.708,4,Villa,96,1998,,Aktuel værdi
+Vostervej 35935 Bagenkop,nkop,375.000,17-06-2010,Alm. Salg,3.750,3,Villa,100,1910,-5 %,Aktuel værdi
+Nordhavnsgade 15935 Bagenkop,nkop,760.000,31-05-2010,Andet,6.333,4,Villa,120,1966,,Aktuel værdi
+Gulstavvej 15935 Bagenkop,nkop,800.000,25-05-2010,Alm. Salg,4.469,8,Villa,179,1932,0 %,Aktuel værdi
+Østervej 155935 Bagenkop,nkop,646.000,10-05-2010,Fam. Salg,4.893,5,Villa,132,1933,,Aktuel værdi
+Stationsvej 95935 Bagenkop,nkop,995.000,12-04-2010,Alm. Salg,8.223,5,Villa,121,1967,,Aktuel værdi
+Søndenbro 125935 Bagenkop,nkop,650.000,06-04-2010,Fam. Salg,3.403,7,Villa,191,1910,,Aktuel værdi
+Kløvervænget 65935 Bagenkop,nkop,665.000,15-01-2010,Alm. Salg,5.937,4,Villa,112,1966,-15 %,Aktuel værdi
+Havnegade 135935 Bagenkop,nkop,975.000,23-12-2009,Alm. Salg,6.866,4,Villa,142,1900,-18 %,Aktuel værdi
+Gulstavvej 395935 Bagenkop,nkop,1.330.000,02-12-2009,Alm. Salg,7.267,6,Villa,183,1877,-3 %,Aktuel værdi
+Nordhavnsgade 65935 Bagenkop,nkop,1.100.000,23-10-2009,Alm. Salg,7.189,8,Villa,153,1985,,Aktuel værdi
+Vestervej 375935 Bagenkop,nkop,790.000,28-09-2009,Alm. Salg,5.808,4,Villa,136,1908,-12 %,Aktuel værdi
+Røjlevej 135935 Bagenkop,nkop,850.000,09-09-2009,Alm. Salg,7.522,5,Villa,113,1830,-15 %,Aktuel værdi
+Dæmningen 95935 Bagenkop,nkop,365.000,10-07-2009,Alm. Salg,5.000,3,Villa,73,1912,-5 %,Aktuel værdi
+Vognsbjergvej 35935 Bagenkop,nkop,525.000,19-05-2009,Alm. Salg,4.605,5,Villa,114,1959,0 %,Aktuel værdi
+Strandgade 95935 Bagenkop,nkop,210.000,15-05-2009,Fam. Salg,2.727,3,Rækkehus,77,1867,,Aktuel værdi
+Strandgårdsvej 725935 Bagenkop,nkop,1.725.000,10-05-2009,Alm. Salg,16.273,4,Sommerhus,106,2008,-8 %,Aktuel værdi
+Vognsbjergvej 165935 Bagenkop,nkop,100.000,20-04-2009,Alm. Salg,1.562,4,Villa,64,1829,,Aktuel værdi
+Havnegade 35935 Bagenkop,nkop,1.100.000,11-04-2009,Alm. Salg,8.208,5,Villa,134,1901,-14 %,Aktuel værdi
+Østergade 215935 Bagenkop,nkop,135.000,23-03-2009,Alm. Salg,733,5,Villa,184,1927,,Aktuel værdi
+Østergade 295935 Bagenkop,nkop,700.000,26-02-2009,Alm. Salg,4.964,5,Villa,141,1900,,Aktuel værdi
+Strandgårdsvej 555935 Bagenkop,nkop,1.650.000,25-02-2009,Alm. Salg,15.566,4,Sommerhus,106,2008,-43 %,Aktuel værdi
+Strandgårdsvej 495935 Bagenkop,nkop,1.650.000,25-02-2009,Alm. Salg,15.566,4,Sommerhus,106,2008,-43 %,Aktuel værdi
+Vognsbjergvej 145935 Bagenkop,nkop,442.000,13-12-2008,Fam. Salg,3.946,4,Villa,112,1904,,Aktuel værdi
+Strandgårdsvej 575935 Bagenkop,nkop,1.660.000,12-12-2008,Alm. Salg,15.660,4,Sommerhus,106,2008,,Aktuel værdi
+Gulstavvej 295935 Bagenkop,nkop,1.952.000,10-11-2008,Fam. Salg,9.663,5,Stuehus,202,1777,,
+Strandgade 105935 Bagenkop,nkop,300.000,05-11-2008,Fam. Salg,5.263,3,Villa,57,1880,,Aktuel værdi
+Bredgade 55935 Bagenkop,nkop,500.000,22-10-2008,Andet,3.703,6,Villa,135,1924,,Aktuel værdi
+Vestervej 195935 Bagenkop,nkop,700.000,23-09-2008,Alm. Salg,5.982,2,Villa,117,1877,-19 %,Aktuel værdi
+"Færgevej 7, 1. TV5935 Bagenkop",nkop,2.298.000,17-06-2008,Alm. Salg,19.150,5,Lejlighed,120,2008,,Aktuel værdi
+Bredgade 185935 Bagenkop,nkop,1.050.000,12-06-2008,Alm. Salg,4.487,6,Villa,234,1877,,Aktuel værdi
+Østervej 95935 Bagenkop,nkop,1.200.000,11-06-2008,Alm. Salg,5.381,6,Villa,223,1878,0 %,Aktuel værdi
+"Færgevej 18, 1. TH5935 Bagenkop",nkop,2.316.750,10-06-2008,Alm. Salg,-,5,Lejlighed,120,2008,,Aktuel værdi
+Søgårdsvej 2A5935 Bagenkop,nkop,1.125.000,05-06-2008,Alm. Salg,5.514,8,Villa,204,2009,,Aktuel værdi
+"Færgevej 13, 1. TH5935 Bagenkop",nkop,2.438.000,03-06-2008,Alm. Salg,19.821,5,Lejlighed,123,2008,,Aktuel værdi
+"Færgevej 16, 1. TH5935 Bagenkop",nkop,2.348.000,30-05-2008,Alm. Salg,19.566,5,Lejlighed,120,2008,,Aktuel værdi
+Vestervej 415935 Bagenkop,nkop,1.200.000,14-05-2008,Alm. Salg,9.022,5,Villa,133,1802,,Aktuel værdi
+Østergade 375935 Bagenkop,nkop,425.000,25-02-2008,Fam. Salg,2.910,7,Villa,146,1957,,Aktuel værdi
+Strandgårdsvej 615935 Bagenkop,nkop,250.000,14-02-2008,Alm. Salg,2.358,4,Sommerhus,106,2008,,Aktuel værdi
+Strandgårdsvej 655935 Bagenkop,nkop,250.000,14-02-2008,Alm. Salg,2.358,4,Sommerhus,106,2008,,Aktuel værdi
+Klintevej 245935 Bagenkop,nkop,233.333,01-02-2008,Fam. Salg,4.022,4,Villa,58,1942,,Aktuel værdi
+Smallegade 35935 Bagenkop,nkop,595.000,17-12-2007,Alm. Salg,4.020,7,Villa,148,1907,,Aktuel værdi
+Søgårdsvej 165935 Bagenkop,nkop,1.045.000,10-12-2007,Alm. Salg,9.008,6,Stuehus,116,1912,,
+"Færgevej 7, 1. TH5935 Bagenkop",nkop,2.048.000,28-11-2007,Alm. Salg,17.066,5,Lejlighed,120,2008,,Aktuel værdi
+Landevejen 165935 Bagenkop,nkop,350.000,22-10-2007,Fam. Salg,2.611,4,Villa,134,1939,,Aktuel værdi
+Stormgade 15935 Bagenkop,nkop,350.000,30-09-2007,Fam. Salg,4.166,4,Rækkehus,84,1898,,Aktuel værdi
+Søndenbro 175935 Bagenkop,nkop,625.000,13-09-2007,Alm. Salg,6.443,4,Villa,97,1958,,Aktuel værdi
+Østergade 285935 Bagenkop,nkop,600.000,29-08-2007,Alm. Salg,2.857,6,Villa,210,1910,,Aktuel værdi
+"Færgevej 14, 1. TH5935 Bagenkop",nkop,2.198.000,27-08-2007,Alm. Salg,-,5,Lejlighed,123,2008,,Aktuel værdi
+Østervej 75935 Bagenkop,nkop,1.845.000,21-07-2007,Alm. Salg,12.902,5,Villa,143,1877,,Aktuel værdi
+Vognsbjergvej 85935 Bagenkop,nkop,725.000,11-07-2007,Alm. Salg,5.576,5,Villa,130,1897,,Aktuel værdi
+Smallegade 95935 Bagenkop,nkop,745.000,01-07-2007,Alm. Salg,5.437,5,Villa,137,1903,,Aktuel værdi
+Munkegårdevej 55935 Bagenkop,nkop,40.000,30-06-2007,Fam. Salg,254,6,Stuehus,157,1900,,
+Søgårdsvej 55935 Bagenkop,nkop,2.235.000,27-06-2007,Alm. Salg,10.443,4,Villa,214,1929,,Aktuel værdi
+"Færgevej 20, 1. TV5935 Bagenkop",nkop,2.248.000,20-06-2007,Alm. Salg,-,5,Lejlighed,123,2008,,Aktuel værdi
+"Færgevej 17, 1. TH5935 Bagenkop",nkop,2.198.000,20-06-2007,Alm. Salg,-,5,Lejlighed,123,2008,,Aktuel værdi
+"Færgevej 14, ST. TH5935 Bagenkop",nkop,1.998.000,07-06-2007,Alm. Salg,-,3,Lejlighed,94,2008,,Aktuel værdi
+Harresvej 4B5935 Bagenkop,nkop,100.000,30-05-2007,Alm. Salg,813,4,Villa,123,1987,,Aktuel værdi
+Østervej 175935 Bagenkop,nkop,442.000,25-05-2007,Fam. Salg,3.274,3,Villa,135,1760,,Aktuel værdi
+Bredgade 115935 Bagenkop,nkop,785.000,14-05-2007,Alm. Salg,8.532,5,Villa,92,1898,,Aktuel værdi
+"Færgevej 13, 1. TV5935 Bagenkop",nkop,2.148.000,08-05-2007,Alm. Salg,17.900,5,Lejlighed,120,2008,,Aktuel værdi
+Stormgade 35935 Bagenkop,nkop,760.000,29-04-2007,Alm. Salg,8.837,3,Villa,86,1955,,Aktuel værdi
+Klintevej 325935 Bagenkop,nkop,1.285.000,28-04-2007,Alm. Salg,6.489,5,Villa,198,1977,,Aktuel værdi
+Stormgade 175935 Bagenkop,nkop,100.000,09-04-2007,Fam. Salg,5.555,1,Villa,18,1955,,Aktuel værdi
+Fogedgade 65935 Bagenkop,nkop,2.360.000,07-04-2007,Fam. Salg,18.153,8,Stuehus,130,1777,,
+Gulstavvej 355935 Bagenkop,nkop,2.650.000,29-03-2007,Alm. Salg,11.471,10,Villa,231,1922,,Aktuel værdi
+Søndenbro 95935 Bagenkop,nkop,403.000,14-02-2007,Alm. Salg,4.428,3,Villa,91,1910,,Aktuel værdi
+Klintevej 135935 Bagenkop,nkop,665.000,19-01-2007,Alm. Salg,7.732,4,Villa,86,1931,,Aktuel værdi
+Bredgade 15935 Bagenkop,nkop,300.000,11-01-2007,Alm. Salg,2.857,4,Villa,105,1900,,Aktuel værdi
+Vestervej 15935 Bagenkop,nkop,745.000,19-12-2006,Alm. Salg,5.559,5,Villa,134,1943,,Aktuel værdi
+Østergade 395935 Bagenkop,nkop,695.000,02-12-2006,Alm. Salg,7.091,6,Villa,98,1959,,Aktuel værdi
+Gulstavvej 155935 Bagenkop,nkop,820.000,28-11-2006,Alm. Salg,2.981,4,Villa,275,1904,,Aktuel værdi
+Mosevej 15935 Bagenkop,nkop,625.000,14-11-2006,Alm. Salg,6.793,4,Villa,92,1937,,Aktuel værdi
+Skolegade 125935 Bagenkop,nkop,385.000,08-11-2006,Alm. Salg,3.407,3,Villa,113,1861,,Aktuel værdi
+Østergade 645935 Bagenkop,nkop,330.000,06-10-2006,Alm. Salg,3.473,3,Villa,95,1947,,Aktuel værdi
+Munkegårdevej 95935 Bagenkop,nkop,445.000,11-09-2006,Alm. Salg,3.201,5,Villa,139,1908,,Aktuel værdi
+Vestervej 145935 Bagenkop,nkop,1.750.000,25-08-2006,Alm. Salg,17.676,5,Stuehus,99,1920,,
+Østergade 315935 Bagenkop,nkop,525.000,30-07-2006,Alm. Salg,3.260,7,Villa,161,1900,,Aktuel værdi
+Fredsbjergvej 35935 Bagenkop,nkop,750.000,28-07-2006,Alm. Salg,7.142,4,Villa,105,1966,,Aktuel værdi
+Gulstavvej 375935 Bagenkop,nkop,218.314,29-06-2006,Andet,1.819,5,Villa,120,1827,,Aktuel værdi
+Landevejen 185935 Bagenkop,nkop,213.000,19-05-2006,Alm. Salg,2.696,2,Villa,79,1850,,Aktuel værdi
+Søndenbro 55935 Bagenkop,nkop,445.000,15-05-2006,Alm. Salg,2.763,7,Villa,161,1877,,Aktuel værdi
+Østergade 235935 Bagenkop,nkop,725.000,07-05-2006,Alm. Salg,5.410,4,Villa,134,1906,,Aktuel værdi
+Kirkeby 55935 Bagenkop,nkop,1.160.000,04-05-2006,Alm. Salg,10.000,3,Villa,116,1827,,Aktuel værdi
+"Færgevej 11, 1. TH5935 Bagenkop",nkop,2.148.000,24-04-2006,Alm. Salg,17.900,5,Lejlighed,120,2008,,Aktuel værdi
+Kirkevej 115935 Bagenkop,nkop,525.000,18-04-2006,Alm. Salg,4.375,5,Villa,120,1941,,Aktuel værdi
+Bredgade 165935 Bagenkop,nkop,1.435.000,08-04-2006,Alm. Salg,13.537,5,Villa,106,1845,,Aktuel værdi
+"Færgevej 17, 1. TV5935 Bagenkop",nkop,2.148.000,03-04-2006,Alm. Salg,-,5,Lejlighed,128,2008,,Aktuel værdi
+"Færgevej 9, 1. TV5935 Bagenkop",nkop,2.198.000,03-04-2006,Alm. Salg,18.316,5,Lejlighed,120,2008,,Aktuel værdi
+Kløvervænget 105935 Bagenkop,nkop,30.000,01-04-2006,Fam. Salg,161,5,Villa,186,2010,,Aktuel værdi
+Strandgade 145935 Bagenkop,nkop,670.000,05-03-2006,Alm. Salg,6.700,5,Villa,100,1887,,Aktuel værdi
+Kirkeby 165935 Bagenkop,nkop,550.000,13-02-2006,Alm. Salg,2.864,5,Villa,192,1920,,Aktuel værdi
+Bredgade 95935 Bagenkop,nkop,722.500,08-02-2006,Alm. Salg,8.704,6,Villa,83,1901,,Aktuel værdi
+Østergade 495935 Bagenkop,nkop,637.500,06-01-2006,Alm. Salg,5.357,5,Villa,119,1954,,Aktuel værdi
+Østergade 455935 Bagenkop,nkop,390.000,23-12-2005,Alm. Salg,5.492,3,Villa,71,1943,,Aktuel værdi
+Fogedgade 125935 Bagenkop,nkop,200.000,10-11-2005,Fam. Salg,961,6,Stuehus,208,1801,,
+Kløvervænget 115935 Bagenkop,nkop,745.000,01-11-2005,Alm. Salg,5.246,6,Villa,142,1972,,Aktuel værdi
+Klintevej 205935 Bagenkop,nkop,380.000,12-10-2005,Alm. Salg,3.392,4,Villa,112,1950,,Aktuel værdi
+Klintevej 255935 Bagenkop,nkop,550.000,19-09-2005,Alm. Salg,6.250,3,Villa,88,1967,,Aktuel værdi
+Vestervej 105935 Bagenkop,nkop,885.000,20-07-2005,Alm. Salg,7.080,5,Villa,125,1922,,Aktuel værdi
+Stormgade 75935 Bagenkop,nkop,675.000,11-07-2005,Alm. Salg,5.487,4,Villa,123,1927,,Aktuel værdi
+Munkegårdevej 15935 Bagenkop,nkop,750.000,28-06-2005,Alm. Salg,5.357,5,Villa,140,1877,,Aktuel værdi
+Vestervej 295935 Bagenkop,nkop,845.000,13-06-2005,Alm. Salg,3.722,7,Villa,227,1850,,Aktuel værdi
+Bredgade 75935 Bagenkop,nkop,550.000,12-06-2005,Alm. Salg,2.669,9,Villa,206,1910,,Aktuel værdi
+Søndenbro 165935 Bagenkop,nkop,397.000,07-06-2005,Alm. Salg,4.616,4,Villa,86,1850,,Aktuel værdi
+Skolegade 15935 Bagenkop,nkop,350.000,17-05-2005,Alm. Salg,2.916,5,Villa,120,1905,,Aktuel værdi
+Klintevej 265935 Bagenkop,nkop,450.000,10-05-2005,Alm. Salg,5.232,4,Villa,86,1967,,Aktuel værdi
+Fogedgade 105935 Bagenkop,nkop,370.000,02-05-2005,Alm. Salg,5.211,4,Villa,71,1890,,Aktuel værdi
+Fakkemosevej 45935 Bagenkop,nkop,725.000,02-05-2005,Alm. Salg,5.291,4,Villa,137,1934,,Aktuel værdi
+Smallegade 15935 Bagenkop,nkop,350.000,20-04-2005,Fam. Salg,3.571,4,Villa,98,1905,,Aktuel værdi
+Laksevej 45935 Bagenkop,nkop,795.000,05-04-2005,Alm. Salg,6.309,3,Villa,126,1980,,Aktuel værdi
+Kirkeby 115935 Bagenkop,nkop,525.000,04-04-2005,Alm. Salg,4.303,3,Villa,122,1880,,Aktuel værdi
+Klintevej 155935 Bagenkop,nkop,375.000,04-04-2005,Alm. Salg,4.076,4,Villa,92,1942,,Aktuel værdi
+Kirkeby 15935 Bagenkop,nkop,53.160,27-03-2005,Alm. Salg,135,13,Stuehus,392,1885,,
+Klintevej 215935 Bagenkop,nkop,350.000,16-03-2005,Alm. Salg,5.645,3,Villa,62,1950,,Aktuel værdi
+Kløvervænget 125935 Bagenkop,nkop,788.000,21-02-2005,Fam. Salg,4.169,8,Villa,189,1966,,Aktuel værdi
+Strandgårdsvej 635935 Bagenkop,nkop,250.000,14-02-2005,Alm. Salg,2.358,4,Sommerhus,106,2008,,Aktuel værdi
+Kløvervænget 75935 Bagenkop,nkop,346.000,09-02-2005,Auktion,3.844,3,Villa,90,1972,,Aktuel værdi
+Dæmningen 55935 Bagenkop,nkop,490.000,06-02-2005,Alm. Salg,2.969,4,Villa,165,1930,,Aktuel værdi
+Skolegade 95935 Bagenkop,nkop,98.986,17-01-2005,Fam. Salg,1.192,5,Villa,83,1906,,Aktuel værdi
+Mosevej 95935 Bagenkop,nkop,400.000,08-11-2004,Alm. Salg,5.000,3,Villa,80,1966,,Aktuel værdi
+Bredgade 105935 Bagenkop,nkop,280.500,11-10-2004,Fam. Salg,3.895,3,Villa,72,1880,,Aktuel værdi
+Fakkemosevej 225935 Bagenkop,nkop,765.000,04-10-2004,Alm. Salg,4.722,5,Villa,162,1800,,Aktuel værdi
+Bredgade 215935 Bagenkop,nkop,740.000,05-07-2004,Alm. Salg,4.180,6,Villa,177,1897,,Aktuel værdi
+Kirkeby 285935 Bagenkop,nkop,648.000,16-06-2004,Alm. Salg,5.491,5,Villa,118,1909,,Aktuel værdi
+Fredsbjergvej 95935 Bagenkop,nkop,795.000,07-06-2004,Alm. Salg,9.137,3,Villa,87,1872,,Aktuel værdi
+Østervej 65935 Bagenkop,nkop,450.000,07-06-2004,Alm. Salg,4.017,4,Villa,112,1966,,Aktuel værdi
+Skolegade 45935 Bagenkop,nkop,198.000,16-04-2004,Alm. Salg,2.084,3,Villa,95,1901,,Aktuel værdi
+Havnegade 1B5935 Bagenkop,nkop,350.000,12-01-2004,Alm. Salg,3.888,4,Villa,90,1850,,Aktuel værdi
+Stationsvej 15935 Bagenkop,nkop,178.500,12-12-2003,Fam. Salg,1.785,4,Villa,100,1903,,Aktuel værdi
+Mosevej 145935 Bagenkop,nkop,500.000,14-11-2003,Alm. Salg,4.385,5,Villa,114,1959,,Aktuel værdi
+Landevejen 245935 Bagenkop,nkop,1.600.000,14-11-2003,Alm. Salg,8.465,5,Stuehus,189,1954,,
+Vestervej 215935 Bagenkop,nkop,472.500,11-11-2003,Alm. Salg,7.159,3,Villa,66,1963,,Aktuel værdi
+Strandgade 125935 Bagenkop,nkop,275.000,24-10-2003,Alm. Salg,4.104,3,Rækkehus,67,1880,,Aktuel værdi
+Østergade 195935 Bagenkop,nkop,200.000,20-10-2003,Alm. Salg,1.183,8,Villa,169,1906,,Aktuel værdi
+Røjlevej 45935 Bagenkop,nkop,545.000,26-09-2003,Alm. Salg,5.000,4,Villa,109,1962,,Aktuel værdi
+Søndenbro 65935 Bagenkop,nkop,625.000,05-09-2003,Alm. Salg,4.340,5,Villa,144,1920,,Aktuel værdi
+Fredsbjergvej 75935 Bagenkop,nkop,310.000,28-08-2003,Fam. Salg,3.009,4,Villa,103,1910,,Aktuel værdi
+Rathvej 55935 Bagenkop,nkop,935.000,02-06-2003,Fam. Salg,7.601,3,Stuehus,123,1927,,
+Havnegade 55935 Bagenkop,nkop,430.000,01-06-2003,Alm. Salg,4.479,4,Villa,96,1904,,Aktuel værdi
+Bredgade 175935 Bagenkop,nkop,568.000,28-04-2003,Alm. Salg,4.694,4,Villa,121,1915,,Aktuel værdi
+Østergade 245935 Bagenkop,nkop,372.000,16-04-2003,Alm. Salg,2.530,6,Villa,147,1880,,Aktuel værdi
+Klintevej 115935 Bagenkop,nkop,410.000,16-03-2003,Alm. Salg,4.100,5,Villa,100,1908,,Aktuel værdi
+Gulstavvej 275935 Bagenkop,nkop,435.000,01-01-2003,Alm. Salg,4.142,4,Stuehus,105,1777,,
+Stormgade 105935 Bagenkop,nkop,450.000,18-12-2002,Alm. Salg,4.787,3,Villa,94,1904,,Aktuel værdi
+Skolegade 75935 Bagenkop,nkop,325.000,30-09-2002,Alm. Salg,2.954,4,Villa,110,1899,,Aktuel værdi
+Harresvej 145935 Bagenkop,nkop,1.600.000,26-08-2002,Alm. Salg,9.937,5,Villa,161,1877,,Aktuel værdi
+Østergade 255935 Bagenkop,nkop,506.815,17-08-2002,Alm. Salg,4.223,5,Stuehus,120,1866,,
+Røjlevej 8A5935 Bagenkop,nkop,440.000,29-07-2002,Alm. Salg,2.027,8,Villa,217,1929,,Aktuel værdi
+Landevejen 135935 Bagenkop,nkop,200.000,30-06-2002,Alm. Salg,2.222,4,Villa,90,1912,,Aktuel værdi
+Østergade 265935 Bagenkop,nkop,225.000,22-04-2002,Alm. Salg,2.960,4,Villa,76,1880,,Aktuel værdi
+Gulstavvej 415935 Bagenkop,nkop,105.000,15-02-2002,Alm. Salg,-,6,Villa,139,1772,,Aktuel værdi
+Gulstavvej 195935 Bagenkop,nkop,495.836,28-01-2002,Alm. Salg,6.792,3,Stuehus,73,1932,,
+Rathvej 65935 Bagenkop,nkop,620.369,02-01-2002,Alm. Salg,2.501,8,Stuehus,248,1943,,
+Kirkeby 65935 Bagenkop,nkop,455.000,06-12-2001,Alm. Salg,2.692,7,Villa,169,1912,,Aktuel værdi
+Nordhavnsgade 35935 Bagenkop,nkop,555.000,09-11-2001,Alm. Salg,6.166,5,Villa,90,1966,,Aktuel værdi
+Røjlevej 55935 Bagenkop,nkop,165.000,29-10-2001,Alm. Salg,2.260,4,Villa,73,1890,,Aktuel værdi
+Fakkemosevej 145935 Bagenkop,nkop,385.000,03-09-2001,Alm. Salg,4.695,4,Villa,82,1829,,Aktuel værdi
+Laksevej 25935 Bagenkop,nkop,862.000,16-08-2001,Alm. Salg,4.659,5,Villa,185,1979,,Aktuel værdi
+Smallegade 25935 Bagenkop,nkop,350.000,13-08-2001,Fam. Salg,4.375,3,Villa,80,1900,,Aktuel værdi
+Bredgade 17A5935 Bagenkop,nkop,306.461,30-07-2001,Alm. Salg,6.384,3,Villa,48,1877,,Aktuel værdi
+Klintevej 345935 Bagenkop,nkop,725.000,24-07-2001,Alm. Salg,4.617,6,Villa,157,1984,,Aktuel værdi
+Vostervej 15935 Bagenkop,nkop,239.829,23-07-2001,Alm. Salg,2.103,3,Villa,114,1870,,Aktuel værdi
+Østergade 105935 Bagenkop,nkop,540.000,27-06-2001,Alm. Salg,3.829,5,Villa,141,1930,,Aktuel værdi
+Strandvænge 75935 Bagenkop,nkop,985.000,14-06-2001,Alm. Salg,5.533,7,Villa,178,1980,,Aktuel værdi
+Østergade 475935 Bagenkop,nkop,450.000,11-06-2001,Alm. Salg,1.371,10,Villa,328,1911,,Aktuel værdi
+Fogedgade 145935 Bagenkop,nkop,246.871,16-03-2001,Fam. Salg,1.592,7,Villa,155,1947,,Aktuel værdi
+Østergade 355935 Bagenkop,nkop,685.000,13-03-2001,Alm. Salg,4.892,5,Villa,140,1977,,Aktuel værdi
+Norvej 35935 Bagenkop,nkop,615.000,12-02-2001,Alm. Salg,4.522,3,Villa,136,1777,,Aktuel værdi
+Vognsbjergvej 18A5935 Bagenkop,nkop,650.000,06-11-2000,Alm. Salg,5.118,4,Stuehus,127,1973,,
+Kirkeby 135935 Bagenkop,nkop,348.747,05-10-2000,Alm. Salg,5.365,3,Villa,65,1780,,Aktuel værdi
+Søndenbro 155935 Bagenkop,nkop,300.000,15-07-2000,Alm. Salg,3.614,3,Villa,83,1884,,Aktuel værdi
+Gulstavvej 315935 Bagenkop,nkop,655.000,12-05-2000,Alm. Salg,2.706,9,Villa,242,1900,,Aktuel værdi
+Norvej 65935 Bagenkop,nkop,750.000,20-03-2000,Alm. Salg,8.333,5,Villa,90,1870,,Aktuel værdi
+Skolegade 25935 Bagenkop,nkop,612.000,21-02-2000,Alm. Salg,4.080,5,Villa,150,1900,,Aktuel værdi
+Stormgade 55935 Bagenkop,nkop,366.799,07-01-2000,Alm. Salg,4.890,3,Villa,75,1907,,Aktuel værdi
+Fakkemosevej 205935 Bagenkop,nkop,705.000,15-10-1999,Alm. Salg,7.268,5,Villa,97,1900,,Aktuel værdi
+Fakkemosevej 185935 Bagenkop,nkop,715.000,13-09-1999,Fam. Salg,4.735,5,Stuehus,151,1917,,
+Gulstavvej 135935 Bagenkop,nkop,305.766,01-09-1999,Alm. Salg,2.635,6,Villa,116,1892,,Aktuel værdi
+Fakkemosevej 65935 Bagenkop,nkop,384.847,16-08-1999,Alm. Salg,3.405,6,Villa,113,1922,,Aktuel værdi
+Kirkevej 155935 Bagenkop,nkop,611.572,09-08-1999,Alm. Salg,4.777,5,Villa,128,1977,,Aktuel værdi
+Østergade 685935 Bagenkop,nkop,350.000,04-08-1999,Alm. Salg,2.083,-,Villa,168,1902,,Aktuel værdi
+Søgårdsvej 15935 Bagenkop,nkop,633.982,28-06-1999,Alm. Salg,4.372,5,Villa,145,1920,,Aktuel værdi
+Strandgade 55935 Bagenkop,nkop,284.464,27-05-1999,Alm. Salg,3.950,4,Villa,72,1877,,Aktuel værdi
+Fredsbjergvej 55935 Bagenkop,nkop,208.608,16-04-1999,Fam. Salg,2.045,3,Villa,102,1906,,Aktuel værdi
+Dæmningen 3A5935 Bagenkop,nkop,6.950.000,12-02-1999,Alm. Salg,56.504,4,Stuehus,123,1880,,
+Kirkeby 85935 Bagenkop,nkop,219.837,04-11-1998,Alm. Salg,2.892,3,Villa,76,1902,,Aktuel værdi
+Stormgade 45935 Bagenkop,nkop,215.584,15-09-1998,Alm. Salg,2.134,5,Villa,101,1901,,Aktuel værdi
+Vestervej 35935 Bagenkop,nkop,160.000,10-08-1998,Alm. Salg,1.649,4,Villa,97,1920,,Aktuel værdi
+Bredgade 145935 Bagenkop,nkop,165.000,05-06-1998,Alm. Salg,2.538,3,Villa,65,1890,,Aktuel værdi
+Mosevej 175935 Bagenkop,nkop,10.000,28-02-1998,Alm. Salg,66,4,Villa,151,1998,,Aktuel værdi
+Vognsbjergvej 195935 Bagenkop,nkop,600.000,26-02-1998,Alm. Salg,1.608,12,Rækkehus,373,2003,,Aktuel værdi
+Mosevej 45935 Bagenkop,nkop,254.699,23-02-1998,Alm. Salg,1.299,6,Villa,196,1985,,Aktuel værdi
+Bredgade 245935 Bagenkop,nkop,271.280,07-02-1998,Alm. Salg,2.260,7,Rækkehus,120,1905,,Aktuel værdi
+Gulstavvej 435935 Bagenkop,nkop,487.500,28-01-1998,Alm. Salg,2.366,6,Villa,206,2001,,Aktuel værdi
+Søndenbro 15935 Bagenkop,nkop,230.000,14-01-1998,Alm. Salg,3.833,3,Villa,60,1930,,Aktuel værdi
+Bredgade 285935 Bagenkop,nkop,300.000,11-12-1997,Alm. Salg,2.222,5,Villa,135,1880,,Aktuel værdi
+Kløvervænget 165935 Bagenkop,nkop,570.000,08-12-1997,Alm. Salg,4.830,4,Villa,118,1964,,Aktuel værdi
+Østergade 665935 Bagenkop,nkop,297.190,10-11-1997,Alm. Salg,4.435,3,Villa,67,1947,,Aktuel værdi
+Kirkevej 35935 Bagenkop,nkop,380.000,20-10-1997,Alm. Salg,3.762,3,Villa,101,1923,,Aktuel værdi
+Fakkemosevej 25935 Bagenkop,nkop,276.000,20-10-1997,Alm. Salg,2.464,4,Villa,112,1920,,Aktuel værdi
+Fogedgade 35935 Bagenkop,nkop,212.500,18-09-1997,Fam. Salg,2.724,3,Villa,78,1937,,Aktuel værdi
+Østergade 525935 Bagenkop,nkop,60.000,31-08-1997,Alm. Salg,-,5,Villa,144,1919,,Aktuel værdi
+Kirkeby 75935 Bagenkop,nkop,585.000,15-08-1997,Alm. Salg,3.679,3,Stuehus,159,1912,,
+Søgårdsvej 2B5935 Bagenkop,nkop,440.000,10-07-1997,Alm. Salg,2.146,7,Villa,205,1938,,Aktuel værdi
+Strandvænge 25935 Bagenkop,nkop,667.000,20-06-1997,Alm. Salg,4.446,5,Villa,150,1977,,Aktuel værdi
+Strandvænge 45935 Bagenkop,nkop,445.000,11-06-1997,Alm. Salg,3.677,4,Villa,121,1977,,Aktuel værdi
+Norvej 85935 Bagenkop,nkop,150.000,02-06-1997,Alm. Salg,1.648,4,Villa,91,1877,,Aktuel værdi
+Kirkevej 25935 Bagenkop,nkop,75.000,01-06-1997,Fam. Salg,735,6,Villa,102,1906,,Aktuel værdi
+Vognsbjergvej 155935 Bagenkop,nkop,122.000,10-02-1997,Alm. Salg,1.232,4,Villa,99,1887,,Aktuel værdi
+Røjlevej 35935 Bagenkop,nkop,159.000,25-01-1997,Alm. Salg,1.419,4,Villa,112,1945,,Aktuel værdi
+Søndenbro 185935 Bagenkop,nkop,260.000,21-01-1997,Alm. Salg,3.714,3,Villa,70,1830,,Aktuel værdi
+Strandgade 65935 Bagenkop,nkop,230.000,12-04-1996,Alm. Salg,2.090,5,Villa,110,1887,,Aktuel værdi
+Gulstavvej 175935 Bagenkop,nkop,130.829,27-11-1995,Alm. Salg,1.391,5,Stuehus,94,1000,,
+Stormgade 135935 Bagenkop,nkop,125.000,10-10-1995,Alm. Salg,1.315,4,Villa,95,1908,,Aktuel værdi
+Norvej 45935 Bagenkop,nkop,325.000,07-08-1995,Alm. Salg,2.685,5,Villa,121,1775,,Aktuel værdi
+Strandgade 235935 Bagenkop,nkop,300.000,24-05-1995,Alm. Salg,2.272,7,Villa,132,1918,,Aktuel værdi
+Østergade 465935 Bagenkop,nkop,175.000,14-05-1995,Alm. Salg,1.286,5,Villa,136,1850,,Aktuel værdi
+Ågabet 25935 Bagenkop,nkop,250.000,15-03-1995,Alm. Salg,2.403,4,Villa,104,1911,,Aktuel værdi
+Kløvervænget 265935 Bagenkop,nkop,458.672,09-03-1995,Alm. Salg,4.023,6,Villa,114,1967,,Aktuel værdi
+Bredgade 255935 Bagenkop,nkop,290.000,31-10-1994,Alm. Salg,2.929,5,Villa,99,1895,,Aktuel værdi
+Strandvænge 1B5935 Bagenkop,nkop,655.000,23-09-1994,Alm. Salg,3.786,6,Villa,173,1978,,Aktuel værdi
+Vognsbjergvej 25935 Bagenkop,nkop,963.923,23-08-1994,Alm. Salg,3.442,7,Villa,280,1920,,Aktuel værdi
+Havnegade 95935 Bagenkop,nkop,335.000,01-06-1994,Alm. Salg,2.680,3,Villa,125,1917,,Aktuel værdi
+Klintevej 385935 Bagenkop,nkop,575.000,11-05-1994,Alm. Salg,3.010,7,Villa,191,1979,,Aktuel værdi
+Vestervej 275935 Bagenkop,nkop,206.000,09-05-1994,Alm. Salg,2.710,2,Villa,76,1876,,Aktuel værdi
+Kirkevej 15935 Bagenkop,nkop,238.000,21-04-1994,Fam. Salg,1.525,5,Villa,156,1910,,Aktuel værdi
+Kirkeby 145935 Bagenkop,nkop,100.000,12-04-1994,Alm. Salg,1.408,2,Villa,71,1910,,Aktuel værdi
+Kirkeby 45935 Bagenkop,nkop,100.000,07-04-1994,Alm. Salg,854,4,Villa,117,1932,,Aktuel værdi
+Østervej 145935 Bagenkop,nkop,324.202,28-03-1994,Alm. Salg,-,5,Villa,112,1949,,Aktuel værdi
+Vognsbjergvej 225935 Bagenkop,nkop,245.000,24-03-1994,Alm. Salg,2.663,4,Villa,92,1943,,Aktuel værdi
+Bredgade 205935 Bagenkop,nkop,150.000,21-02-1994,Alm. Salg,1.086,6,Villa,138,1777,,Aktuel værdi
+Søndenbro 195935 Bagenkop,nkop,99.000,22-11-1993,Alm. Salg,980,3,Villa,101,1880,,Aktuel værdi
+Østergade 435935 Bagenkop,nkop,560.000,03-09-1993,Alm. Salg,6.588,4,Villa,85,1947,,Aktuel værdi
+Østergade 68A5935 Bagenkop,nkop,515.000,08-08-1993,Alm. Salg,3.280,5,Villa,157,1981,,Aktuel værdi
+Smallegade 55935 Bagenkop,nkop,228.305,14-07-1993,Andet,2.403,5,Villa,95,1877,,Aktuel værdi
+Bakkevej 45935 Bagenkop,nkop,174.700,19-04-1993,Fam. Salg,1.420,4,Villa,123,1966,,Aktuel værdi
+Bakkevej 35935 Bagenkop,nkop,320.000,12-04-1993,Alm. Salg,3.047,3,Villa,105,1971,,Aktuel værdi
+Søgårdsvænget 35935 Bagenkop,nkop,565.000,15-03-1993,Alm. Salg,4.484,4,Villa,126,1988,,Aktuel værdi
+Røjlevej 65935 Bagenkop,nkop,655.000,20-01-1993,Alm. Salg,-,6,Villa,203,1928,,Aktuel værdi
+Østervej 2A5935 Bagenkop,nkop,500.000,10-01-1993,Alm. Salg,3.401,5,Villa,147,1966,,Aktuel værdi
+Nordhavnsgade 25935 Bagenkop,nkop,405.000,23-12-1992,Alm. Salg,3.820,5,Villa,106,1966,,Aktuel værdi
+Søgårdsvej 35935 Bagenkop,nkop,375.000,30-11-1992,Alm. Salg,1.875,5,Villa,200,1900,,Aktuel værdi
+Østergade 35935 Bagenkop,nkop,325.000,07-11-1992,Alm. Salg,2.407,5,Villa,135,1924,,Aktuel værdi
+Søgårdsvej 145935 Bagenkop,nkop,300.000,06-10-1992,Alm. Salg,-,3,Villa,162,1930,,Aktuel værdi
+Keldsnorvej 45935 Bagenkop,nkop,600.000,17-09-1992,Alm. Salg,4.026,4,Stuehus,149,1919,,
+Gulstavvej 45935 Bagenkop,nkop,300.000,13-07-1992,Alm. Salg,3.614,4,Villa,83,1932,,Aktuel værdi
+Søgårdsvej 105935 Bagenkop,nkop,625.000,28-04-1992,Alm. Salg,7.716,3,Stuehus,81,1929,,
+Strandgade 155935 Bagenkop,nkop,300.000,11-02-1992,Alm. Salg,2.380,6,Villa,126,1941,,Aktuel værdi
+Keldsnorvej 15935 Bagenkop,nkop,4.400.000,24-01-1992,Fam. Salg,23.913,5,Stuehus,184,1877,,

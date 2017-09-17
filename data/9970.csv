@@ -1,0 +1,794 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Agervej 249970 Strandby,ndby,245.000,28-04-2017,Alm. Salg,6.125,1,Villa,40,1900,-9 %,Aktuel værdi
+Hannesvej 69970 Strandby,ndby,215.000,25-04-2017,Alm. Salg,2.028,4,Villa,106,1964,-49 %,Aktuel værdi
+Strandvej 59970 Strandby,ndby,400.000,18-04-2017,Alm. Salg,4.255,3,Villa,94,1952,0 %,Aktuel værdi
+Nørrevej 17A9970 Strandby,ndby,875.000,16-03-2017,Alm. Salg,10.802,3,Rækkehus,81,1989,,Aktuel værdi
+Nørgårdsvej 359970 Strandby,ndby,275.000,09-03-2017,Alm. Salg,2.925,4,Villa,94,1959,-7 %,Aktuel værdi
+Rapsmarken 139970 Strandby,ndby,795.000,03-03-2017,Alm. Salg,12.421,3,Sommerhus,64,1985,-5 %,Aktuel værdi
+Kornblomstvej 109970 Strandby,ndby,2.800.000,01-03-2017,Alm. Salg,12.068,5,Villa,232,1984,,Aktuel værdi
+Nørrevej 169970 Strandby,ndby,40.000,22-02-2017,Alm. Salg,215,5,Villa,186,1931,,Aktuel værdi
+Rugmarken 139970 Strandby,ndby,1.612.000,08-02-2017,Alm. Salg,16.282,4,Sommerhus,99,2004,,Aktuel værdi
+Stationsvej 369970 Strandby,ndby,625.000,07-02-2017,Alm. Salg,6.377,4,Villa,98,1960,-10 %,Aktuel værdi
+Anemonevej 79970 Strandby,ndby,1.845.000,06-02-2017,Alm. Salg,9.972,8,Villa,185,1982,-3 %,Aktuel værdi
+Rapsmarken 79970 Strandby,ndby,950.000,25-01-2017,Alm. Salg,12.837,4,Sommerhus,74,1985,-5 %,Aktuel værdi
+Gærdevej 69970 Strandby,ndby,1.300.000,18-01-2017,Andet,8.843,6,Villa,147,1979,,Aktuel værdi
+Rugmarken 59970 Strandby,ndby,810.000,13-01-2017,Alm. Salg,13.278,4,Sommerhus,61,1972,-7 %,Aktuel værdi
+Vandværksvej 39970 Strandby,ndby,635.000,12-01-2017,Andet,5.619,4,Villa,113,1965,,Aktuel værdi
+Nørrevej 149970 Strandby,ndby,907.500,06-12-2016,Alm. Salg,8.402,4,Villa,108,1908,-9 %,Aktuel værdi
+Digetsvej 259970 Strandby,ndby,715.000,30-11-2016,Alm. Salg,5.958,4,Villa,120,1969,-7 %,Aktuel værdi
+Tangvej 59970 Strandby,ndby,515.000,20-11-2016,Alm. Salg,6.437,3,Villa,80,1966,0 %,Aktuel værdi
+Følfodvej 99970 Strandby,ndby,1.225.000,18-11-2016,Alm. Salg,8.687,5,Villa,141,1987,,Aktuel værdi
+Strandvej 129970 Strandby,ndby,569.500,16-11-2016,Fam. Salg,6.945,4,Villa,82,1960,,Aktuel værdi
+Grøftekanten 59970 Strandby,ndby,569.500,16-11-2016,Fam. Salg,5.322,3,Rækkehus,107,1984,,Aktuel værdi
+Rugskellet 479970 Strandby,ndby,1.255.000,10-11-2016,Alm. Salg,4.419,5,Villa,284,2002,0 %,Aktuel værdi
+Nørrevej 369970 Strandby,ndby,5.375.000,25-10-2016,Alm. Salg,23.471,6,Villa,229,1981,,Aktuel værdi
+Ranunkelvej 7A9970 Strandby,ndby,1.650.000,25-10-2016,Alm. Salg,9.482,6,Villa,174,1979,10 %,Aktuel værdi
+Kløvermarken 69970 Strandby,ndby,675.000,24-10-2016,Alm. Salg,9.642,6,Sommerhus,70,1972,-9 %,Aktuel værdi
+Vandværksvej 519970 Strandby,ndby,750.000,18-10-2016,Andet,3.731,8,Villa,201,1972,,Aktuel værdi
+Tordenskjoldsvej 149970 Strandby,ndby,680.000,11-10-2016,Alm. Salg,5.913,3,Villa,115,1962,,Aktuel værdi
+Tordenskjoldsvej 39970 Strandby,ndby,350.000,10-10-2016,Alm. Salg,3.645,3,Villa,96,1962,,Aktuel værdi
+Munkevej 269970 Strandby,ndby,463.932,07-10-2016,Fam. Salg,3.931,4,Villa,118,1950,,Aktuel værdi
+Skagensvej 2569970 Strandby,ndby,261.359,07-10-2016,Andet,1.950,4,Villa,134,1929,,Aktuel værdi
+Grøftekanten 79970 Strandby,ndby,940.000,07-10-2016,Alm. Salg,9.494,3,Rækkehus,99,1984,-6 %,Aktuel værdi
+Strandvej 125A9970 Strandby,ndby,1.200.000,27-09-2016,Alm. Salg,15.384,2,Sommerhus,78,1966,,Aktuel værdi
+Munkevej 219970 Strandby,ndby,225.000,27-09-2016,Alm. Salg,2.295,4,Villa,98,1961,-18 %,Aktuel værdi
+Strandvej 819970 Strandby,ndby,430.000,26-09-2016,Alm. Salg,3.524,5,Villa,122,1959,-18 %,Aktuel værdi
+Møjen 239970 Strandby,ndby,1.800.000,02-09-2016,Alm. Salg,12.328,6,Sommerhus,146,1959,,Aktuel værdi
+Møjen 49970 Strandby,ndby,2.150.000,19-08-2016,Alm. Salg,20.873,5,Sommerhus,103,1981,,Aktuel værdi
+Tranevej 99970 Strandby,ndby,450.000,12-07-2016,Alm. Salg,2.866,6,Villa,157,1950,-17 %,Aktuel værdi
+Rughaven 11B9970 Strandby,ndby,1.510.000,08-07-2016,Alm. Salg,11.268,4,Villa,134,1998,-2 %,Aktuel værdi
+Strandvej 1049970 Strandby,ndby,3.000.000,29-06-2016,Alm. Salg,75.000,3,Sommerhus,40,1931,,Aktuel værdi
+Haldsvej 89970 Strandby,ndby,520.000,17-06-2016,Alm. Salg,5.098,4,Villa,102,1958,-5 %,Aktuel værdi
+Strandvej 669970 Strandby,ndby,1.090.000,15-06-2016,Alm. Salg,5.317,7,Villa,205,1963,-22 %,Aktuel værdi
+Valmuevej 129970 Strandby,ndby,700.000,15-06-2016,Fam. Salg,2.904,8,Villa,241,1980,-69 %,Aktuel værdi
+Rugmarken 339970 Strandby,ndby,825.000,01-06-2016,Fam. Salg,13.750,3,Sommerhus,60,1960,,Aktuel værdi
+Strandvej 46A9970 Strandby,ndby,720.000,09-05-2016,Alm. Salg,7.128,4,Lejlighed,101,1959,-3 %,Aktuel værdi
+Anemonevej 19970 Strandby,ndby,890.000,15-04-2016,Alm. Salg,7.120,5,Villa,125,1984,-5 %,Aktuel værdi
+Nørgårdsvej 109970 Strandby,ndby,1.450.000,13-04-2016,Alm. Salg,7.880,5,Villa,184,1960,-3 %,Aktuel værdi
+Rugholm 29970 Strandby,ndby,2.500.000,12-04-2016,Alm. Salg,10.245,8,Stuehus,244,1870,-7 %,
+Strandvej 62A9970 Strandby,ndby,810.000,05-04-2016,Andet,11.911,3,Villa,68,1958,,Aktuel værdi
+Stationsvej 279970 Strandby,ndby,700.000,04-04-2016,Alm. Salg,6.542,3,Villa,107,1959,-6 %,Aktuel værdi
+Klitmarken 3B9970 Strandby,ndby,900.000,16-03-2016,Alm. Salg,7.758,5,Sommerhus,116,2017,1 %,Aktuel værdi
+Svalevej 69970 Strandby,ndby,750.000,12-02-2016,Alm. Salg,7.500,3,Villa,100,1960,-6 %,Aktuel værdi
+Strandvej 95C9970 Strandby,ndby,1.395.000,02-02-2016,Alm. Salg,13.950,3,Villa,100,1925,,Aktuel værdi
+Rugmarken 359970 Strandby,ndby,310.000,01-02-2016,Fam. Salg,4.843,3,Sommerhus,64,1955,,Aktuel værdi
+Strandvej 119B9970 Strandby,ndby,2.095.000,29-01-2016,Alm. Salg,11.703,4,Villa,179,1984,-16 %,Aktuel værdi
+Svalevej 129970 Strandby,ndby,360.000,19-01-2016,Alm. Salg,3.396,3,Villa,106,1966,-27 %,Aktuel værdi
+Vandværksvej 159970 Strandby,ndby,855.000,17-01-2016,Alm. Salg,5.937,4,Villa,144,1971,-5 %,Aktuel værdi
+Vandværksvej 259970 Strandby,ndby,412.250,13-01-2016,Fam. Salg,3.123,4,Villa,132,1971,,Aktuel værdi
+Strandvej 70A9970 Strandby,ndby,575.000,12-01-2016,Alm. Salg,5.750,5,Villa,100,1963,-3 %,Aktuel værdi
+Strandvej 739970 Strandby,ndby,325.000,12-01-2016,Alm. Salg,4.642,2,Villa,70,1943,-6 %,Aktuel værdi
+Tangvej 19970 Strandby,ndby,400.000,04-01-2016,Alm. Salg,4.878,3,Villa,82,1959,,Aktuel værdi
+Strandvej 759970 Strandby,ndby,870.000,15-12-2015,Alm. Salg,9.666,2,Villa,90,1954,-3 %,Aktuel værdi
+Følfodvej 59970 Strandby,ndby,1.450.000,15-12-2015,Alm. Salg,10.740,4,Villa,135,1988,,Aktuel værdi
+Klitmarken 69970 Strandby,ndby,510.000,14-12-2015,Fam. Salg,6.219,4,Sommerhus,82,2000,,Aktuel værdi
+Hannesvej 119970 Strandby,ndby,670.000,03-12-2015,Alm. Salg,7.790,4,Villa,86,1966,-4 %,Aktuel værdi
+Rughaven 19A9970 Strandby,ndby,2.030.000,30-11-2015,Alm. Salg,6.904,10,Villa,294,2000,-3 %,Aktuel værdi
+Nørgårdsvej 1009970 Strandby,ndby,3.895.000,24-11-2015,Alm. Salg,17.388,6,Stuehus,224,1982,-3 %,
+Strandvej 20A9970 Strandby,ndby,460.000,03-11-2015,Alm. Salg,4.107,5,Villa,112,1942,-7 %,Aktuel værdi
+Strandvej 439970 Strandby,ndby,320.000,08-10-2015,Alm. Salg,2.539,8,Villa,126,1926,-19 %,Aktuel værdi
+Vandværksvej 59970 Strandby,ndby,840.000,06-10-2015,Alm. Salg,5.675,4,Villa,148,1964,-4 %,Aktuel værdi
+Niels Tvillings Vej 39970 Strandby,ndby,610.000,06-10-2015,Alm. Salg,4.066,5,Villa,150,1948,-10 %,Aktuel værdi
+Svalevej 79970 Strandby,ndby,640.000,05-10-2015,Alm. Salg,4.604,6,Villa,139,1964,-8 %,Aktuel værdi
+Havnevej 89970 Strandby,ndby,168.875,17-09-2015,Alm. Salg,1.232,4,Villa,137,1777,,Aktuel værdi
+Kornblomstvej 129970 Strandby,ndby,800.000,12-09-2015,Alm. Salg,7.207,4,Villa,111,1983,-9 %,Aktuel værdi
+Vandværksvej 49970 Strandby,ndby,445.000,31-08-2015,Alm. Salg,4.362,4,Villa,102,1965,,Aktuel værdi
+Anemonevej 229970 Strandby,ndby,1.055.000,24-08-2015,Alm. Salg,10.550,4,Villa,100,1981,-4 %,Aktuel værdi
+Nørtvedvej 529970 Strandby,ndby,1.535.000,19-08-2015,Alm. Salg,15.824,4,Sommerhus,97,2005,-4 %,Aktuel værdi
+Rugmarken 309970 Strandby,ndby,1.050.000,14-08-2015,Alm. Salg,16.153,4,Sommerhus,65,1982,-12 %,Aktuel værdi
+Haldsvej 339970 Strandby,ndby,1.655.000,12-08-2015,Alm. Salg,8.803,7,Villa,188,1968,-2 %,Aktuel værdi
+Havremarken 169970 Strandby,ndby,475.000,07-08-2015,Alm. Salg,5.277,4,Sommerhus,90,1973,-20 %,Aktuel værdi
+Klitvej 129970 Strandby,ndby,2.500.000,30-06-2015,Fam. Salg,10.416,7,Villa,240,1982,,Aktuel værdi
+Sennepsmarken 69970 Strandby,ndby,178.000,29-06-2015,Fam. Salg,1.521,4,Sommerhus,117,1986,,Aktuel værdi
+Rughaven 3A9970 Strandby,ndby,1.630.000,25-06-2015,Alm. Salg,10.124,5,Villa,161,2003,-9 %,Aktuel værdi
+Jernbanevej 20A9970 Strandby,ndby,1.975.000,23-06-2015,Alm. Salg,14.629,4,Anden beboelse,135,1979,,Aktuel værdi
+Strandvej 109970 Strandby,ndby,250.000,23-06-2015,Alm. Salg,1.712,5,Villa,146,1950,-28 %,Aktuel værdi
+Rugholm 319970 Strandby,ndby,665.195,22-06-2015,Fam. Salg,7.002,5,Sommerhus,95,1978,,Aktuel værdi
+Haldsvej 509970 Strandby,ndby,1.200.000,18-06-2015,Alm. Salg,7.741,5,Villa,155,1976,-7 %,Aktuel værdi
+Gøgeurtvej 119970 Strandby,ndby,1.700.000,17-06-2015,Alm. Salg,12.056,5,Villa,141,2005,-5 %,Aktuel værdi
+Rughaven 17A9970 Strandby,ndby,800.000,11-06-2015,Alm. Salg,7.142,3,Villa,112,1972,,Aktuel værdi
+Møjen 8C9970 Strandby,ndby,875.000,02-06-2015,Fam. Salg,8.333,5,Sommerhus,105,1916,,Aktuel værdi
+Hegnsvej 259970 Strandby,ndby,1.445.000,22-05-2015,Alm. Salg,9.145,5,Villa,158,1978,0 %,Aktuel værdi
+Gøgeurtvej 99970 Strandby,ndby,280.000,21-05-2015,Alm. Salg,1.320,6,Villa,212,2016,,Aktuel værdi
+Kirkevej 69970 Strandby,ndby,610.889,08-05-2015,Alm. Salg,6.170,3,Villa,99,1904,,Aktuel værdi
+Nørrevej 99970 Strandby,ndby,545.500,06-05-2015,Andet,3.661,5,Villa,149,1962,,Aktuel værdi
+Tranevej 89970 Strandby,ndby,635.000,24-04-2015,Alm. Salg,5.570,4,Villa,114,1964,0 %,Aktuel værdi
+Udegårdsvej 159970 Strandby,ndby,715.000,24-04-2015,Alm. Salg,4.583,4,Villa,156,1972,-9 %,Aktuel værdi
+Krøghsvej 19970 Strandby,ndby,240.000,17-04-2015,Alm. Salg,2.222,5,Villa,108,1934,-39 %,Aktuel værdi
+Sennepsmarken 319970 Strandby,ndby,1.075.000,26-03-2015,Alm. Salg,14.144,1,Sommerhus,76,1992,-5 %,Aktuel værdi
+Rypevej 39970 Strandby,ndby,800.000,23-03-2015,Alm. Salg,5.298,5,Villa,151,1967,,Aktuel værdi
+Rugholm 259970 Strandby,ndby,850.000,20-03-2015,Alm. Salg,8.854,5,Sommerhus,96,1977,-15 %,Aktuel værdi
+Udegårdsvej 109970 Strandby,ndby,1.395.000,19-03-2015,Alm. Salg,9.964,5,Villa,140,1972,0 %,Aktuel værdi
+Strandvej 629970 Strandby,ndby,802.955,13-02-2015,Alm. Salg,6.922,5,Villa,116,1941,,Aktuel værdi
+Nørrevej 249970 Strandby,ndby,950.000,02-02-2015,Alm. Salg,5.588,7,Villa,170,1960,,Aktuel værdi
+Møjen 8A9970 Strandby,ndby,1.400.000,24-01-2015,Alm. Salg,11.864,4,Sommerhus,118,2016,-12 %,Aktuel værdi
+Vandværksvej 369970 Strandby,ndby,900.000,08-12-2014,Alm. Salg,6.428,5,Villa,140,1969,-14 %,Aktuel værdi
+Digetsvej 379970 Strandby,ndby,1.025.000,20-11-2014,Alm. Salg,5.662,6,Villa,181,1970,-2 %,Aktuel værdi
+Møjen 229970 Strandby,ndby,3.250.000,17-11-2014,Alm. Salg,22.727,4,Sommerhus,143,2010,,Aktuel værdi
+Lærkevej 79970 Strandby,ndby,521.275,13-11-2014,Alm. Salg,5.265,4,Villa,99,1963,,Aktuel værdi
+Skramgårdsvej 109970 Strandby,ndby,275.000,04-11-2014,Alm. Salg,2.455,4,Villa,112,1966,,Aktuel værdi
+Havremarken 209970 Strandby,ndby,1.020.000,04-11-2014,Fam. Salg,10.736,5,Sommerhus,95,1972,,Aktuel værdi
+Bygmarken 29970 Strandby,ndby,1.540.000,31-10-2014,Alm. Salg,12.520,5,Sommerhus,123,2005,-3 %,Aktuel værdi
+Vandværksvej 279970 Strandby,ndby,1.200.000,31-10-2014,Fam. Salg,6.250,6,Villa,192,1968,,Aktuel værdi
+Følfodvej 229970 Strandby,ndby,720.000,29-10-2014,Alm. Salg,7.422,4,Villa,97,1981,-3 %,Aktuel værdi
+Rypevej 189970 Strandby,ndby,675.000,29-10-2014,Alm. Salg,3.308,6,Villa,204,1971,-15 %,Aktuel værdi
+Sennepsmarken 169970 Strandby,ndby,125.000,10-10-2014,Alm. Salg,1.288,4,Sommerhus,97,2016,,Aktuel værdi
+Udegårdsvej 59970 Strandby,ndby,980.000,07-10-2014,Fam. Salg,6.853,4,Villa,143,1973,,Aktuel værdi
+Grøftekanten 159970 Strandby,ndby,660.000,02-10-2014,Alm. Salg,6.666,3,Rækkehus,99,1980,-5 %,Aktuel værdi
+Hannesvej 219970 Strandby,ndby,500.000,24-09-2014,Alm. Salg,5.376,4,Villa,93,1962,,Aktuel værdi
+Havremarken 2B9970 Strandby,ndby,1.310.000,14-09-2014,Alm. Salg,14.886,4,Sommerhus,88,2004,,Aktuel værdi
+Nørtvedvej 609970 Strandby,ndby,1.125.000,04-09-2014,Alm. Salg,7.500,5,Sommerhus,150,2006,,Aktuel værdi
+Møjen 29970 Strandby,ndby,855.000,28-08-2014,Alm. Salg,15.000,4,Sommerhus,57,1981,-10 %,Aktuel værdi
+Møjen 8B9970 Strandby,ndby,1.650.000,18-08-2014,Alm. Salg,23.913,4,Sommerhus,69,1980,-13 %,Aktuel værdi
+Udegårdsvej 179970 Strandby,ndby,800.000,18-08-2014,Alm. Salg,5.673,5,Villa,141,1972,-5 %,Aktuel værdi
+Rugskellet 49970 Strandby,ndby,1.160.000,11-08-2014,Alm. Salg,17.846,3,Sommerhus,65,1969,,Aktuel værdi
+Bygmarken 179970 Strandby,ndby,800.000,07-08-2014,Alm. Salg,11.111,4,Sommerhus,72,1968,-11 %,Aktuel værdi
+Stationsvej 49970 Strandby,ndby,501.000,26-06-2014,Andet,4.106,5,Villa,122,1954,-44 %,Aktuel værdi
+Strandvej 1119970 Strandby,ndby,895.000,05-06-2014,Alm. Salg,19.042,3,Sommerhus,47,1970,,Aktuel værdi
+Skramgårdsvej 99970 Strandby,ndby,275.000,30-05-2014,Alm. Salg,2.067,4,Villa,133,1960,0 %,Aktuel værdi
+Skagensvej 2549970 Strandby,ndby,365.000,02-05-2014,Alm. Salg,3.802,3,Villa,96,1960,0 %,Aktuel værdi
+Skramgårdsvej 19970 Strandby,ndby,775.000,27-03-2014,Alm. Salg,5.308,5,Villa,146,1961,-3 %,Aktuel værdi
+Svalevej 59970 Strandby,ndby,725.000,19-03-2014,Alm. Salg,7.323,3,Villa,99,1962,,Aktuel værdi
+Tranevej 29970 Strandby,ndby,950.000,17-03-2014,Alm. Salg,10.555,3,Villa,90,1953,-9 %,Aktuel værdi
+Kvisselvej 459970 Strandby,ndby,436.196,24-01-2014,Fam. Salg,3.728,5,Stuehus,117,1890,,
+Haldsvej 499970 Strandby,ndby,1.154.000,10-01-2014,Fam. Salg,6.869,5,Villa,168,1977,-23 %,Aktuel værdi
+Rugholm 159970 Strandby,ndby,606.444,09-01-2014,Alm. Salg,6.591,4,Sommerhus,92,1989,-59 %,Aktuel værdi
+Rugholm 299970 Strandby,ndby,756.500,02-01-2014,Fam. Salg,11.462,4,Sommerhus,66,1969,,Aktuel værdi
+Rypevej 49970 Strandby,ndby,1.070.000,04-12-2013,Alm. Salg,5.977,6,Villa,179,1967,-2 %,Aktuel værdi
+Haldsvej 29970 Strandby,ndby,975.000,04-12-2013,Alm. Salg,8.863,4,Villa,110,1942,,Aktuel værdi
+Anemonevej 329970 Strandby,ndby,825.000,19-11-2013,Fam. Salg,5.536,5,Villa,149,1999,,Aktuel værdi
+Strandvej 319970 Strandby,ndby,575.000,15-11-2013,Fam. Salg,3.965,5,Villa,145,1965,,Aktuel værdi
+Ranunkelvej 99970 Strandby,ndby,4.600.000,31-10-2013,Alm. Salg,18.400,4,Stuehus,250,1978,,
+Havremarken 149970 Strandby,ndby,955.000,23-10-2013,Alm. Salg,13.263,4,Sommerhus,72,1971,-4 %,Aktuel værdi
+Haldsvej 489970 Strandby,ndby,800.000,23-10-2013,Alm. Salg,7.339,4,Villa,109,1976,-8 %,Aktuel værdi
+Tranevej 69970 Strandby,ndby,315.000,20-10-2013,Alm. Salg,3.620,2,Villa,87,1954,-20 %,Aktuel værdi
+Udegårdsvej 219970 Strandby,ndby,1.425.000,17-10-2013,Alm. Salg,8.850,5,Villa,161,1973,-11 %,Aktuel værdi
+Gærdevej 109970 Strandby,ndby,950.000,11-10-2013,Alm. Salg,7.421,4,Villa,128,1981,-5 %,Aktuel værdi
+Jernbanevej 49970 Strandby,ndby,925.000,07-10-2013,Alm. Salg,10.054,3,Villa,92,1956,-2 %,Aktuel værdi
+Hedelundsvej 89970 Strandby,ndby,700.000,01-10-2013,Alm. Salg,4.022,6,Villa,174,1907,,Aktuel værdi
+Havnevej 139970 Strandby,ndby,1.230.000,24-09-2013,Auktion,10.884,5,Villa,113,1910,,Aktuel værdi
+Rugengen 179970 Strandby,ndby,1.195.000,18-09-2013,Alm. Salg,9.122,5,Villa,131,1985,-14 %,Aktuel værdi
+Stationsvej 449970 Strandby,ndby,500.000,12-09-2013,Alm. Salg,3.731,3,Villa,134,1967,,Aktuel værdi
+Møjen 149970 Strandby,ndby,850.000,02-09-2013,Fam. Salg,14.166,3,Sommerhus,60,1960,,Aktuel værdi
+Niels Tvillings Vej 99970 Strandby,ndby,483.000,21-08-2013,Alm. Salg,3.803,4,Villa,127,1961,-19 %,Aktuel værdi
+Nørtvedvej 549970 Strandby,ndby,1.125.000,30-07-2013,Alm. Salg,7.500,4,Sommerhus,150,2005,-32 %,Aktuel værdi
+Gøgeurtvej 239970 Strandby,ndby,300.000,30-07-2013,Alm. Salg,1.145,7,Villa,262,2016,,Aktuel værdi
+Nørtvedvej 629970 Strandby,ndby,1.125.000,26-07-2013,Alm. Salg,7.500,4,Sommerhus,150,2005,-32 %,Aktuel værdi
+Rapsmarken 49970 Strandby,ndby,850.000,22-07-2013,Alm. Salg,15.454,4,Sommerhus,55,1984,-15 %,Aktuel værdi
+Agervej 199970 Strandby,ndby,800.000,16-07-2013,Alm. Salg,5.263,5,Villa,152,1944,-11 %,Aktuel værdi
+Nørgårdsvej 539970 Strandby,ndby,945.000,01-07-2013,Alm. Salg,5.053,7,Villa,187,1975,-5 %,Aktuel værdi
+Haldsvej 359970 Strandby,ndby,860.000,27-06-2013,Alm. Salg,5.810,6,Villa,148,1969,-4 %,Aktuel værdi
+Søndervej 1A9970 Strandby,ndby,925.000,21-06-2013,Alm. Salg,9.250,4,Rækkehus,100,1987,-3 %,Aktuel værdi
+Rugmarken 189970 Strandby,ndby,1.020.000,03-06-2013,Fam. Salg,10.099,5,Sommerhus,101,1968,,Aktuel værdi
+Strandvej 1079970 Strandby,ndby,1.495.000,03-06-2013,Alm. Salg,6.177,6,Villa,242,2016,0 %,Aktuel værdi
+Valmuevej 69970 Strandby,ndby,950.000,21-05-2013,Alm. Salg,9.895,3,Villa,96,1980,-5 %,Aktuel værdi
+Havremarken 19970 Strandby,ndby,825.000,15-05-2013,Alm. Salg,15.000,4,Sommerhus,55,1987,,Aktuel værdi
+Rugmarken 129970 Strandby,ndby,1.300.000,02-05-2013,Alm. Salg,18.055,4,Sommerhus,72,1986,-7 %,Aktuel værdi
+Krøghsvej 79970 Strandby,ndby,425.000,22-04-2013,Alm. Salg,3.427,2,Villa,124,1896,,Aktuel værdi
+Haldsvej 419970 Strandby,ndby,1.200.000,19-04-2013,Alm. Salg,8.275,5,Villa,145,1978,-7 %,Aktuel værdi
+Sennepsmarken 329970 Strandby,ndby,700.000,12-04-2013,Alm. Salg,11.475,4,Sommerhus,61,1986,-30 %,Aktuel værdi
+Nymarksvej 39970 Strandby,ndby,355.000,20-03-2013,Alm. Salg,-,4,Villa,143,1965,0 %,Aktuel værdi
+Stationsvej 99970 Strandby,ndby,900.000,15-03-2013,Alm. Salg,5.389,5,Villa,167,1977,-10 %,Aktuel værdi
+Kløvermarken 109970 Strandby,ndby,1.200.000,01-03-2013,Alm. Salg,15.189,4,Sommerhus,79,2000,-7 %,Aktuel værdi
+Nørrevej 129970 Strandby,ndby,1.150.000,27-02-2013,Alm. Salg,6.571,5,Villa,175,1904,-8 %,Aktuel værdi
+Digetsvej 389970 Strandby,ndby,1.195.000,06-02-2013,Alm. Salg,6.322,6,Villa,189,1966,-8 %,Aktuel værdi
+Rughaven 13A9970 Strandby,ndby,700.000,14-01-2013,Fam. Salg,8.536,4,Villa,82,1992,,Aktuel værdi
+Rugholm 399970 Strandby,ndby,500.000,21-12-2012,Fam. Salg,9.615,3,Sommerhus,52,1973,,Aktuel værdi
+Nørrevej 389970 Strandby,ndby,650.000,21-12-2012,Alm. Salg,-,4,Villa,75,1946,,Aktuel værdi
+Rugmarken 69970 Strandby,ndby,800.000,17-12-2012,Alm. Salg,7.339,4,Sommerhus,109,2015,,Aktuel værdi
+Udegårdsvej 209970 Strandby,ndby,1.135.000,03-12-2012,Alm. Salg,7.322,5,Villa,155,1973,-5 %,Aktuel værdi
+Nørtvedvej 199970 Strandby,ndby,2.100.000,22-11-2012,Alm. Salg,-,6,Stuehus,165,1987,-16 %,
+Lærkevej 139970 Strandby,ndby,1.100.000,08-10-2012,Alm. Salg,7.913,4,Villa,139,1965,-4 %,Aktuel værdi
+Karlsvej 3A9970 Strandby,ndby,325.000,08-10-2012,Alm. Salg,1.946,5,Villa,167,2013,,Aktuel værdi
+Strandbyvej 779970 Strandby,ndby,852.674,02-10-2012,Andet,6.004,5,Stuehus,142,1900,,
+Skagensvej 2559970 Strandby,ndby,200.000,26-09-2012,Alm. Salg,2.352,3,Villa,85,1900,-42 %,Aktuel værdi
+Niels Tvillings Vej 79970 Strandby,ndby,750.487,21-09-2012,Alm. Salg,5.248,4,Villa,143,1943,,Aktuel værdi
+Strandvej 47C9970 Strandby,ndby,500.000,31-08-2012,Alm. Salg,5.000,4,Anden beboelse,100,1920,-16 %,Aktuel værdi
+Haldsvej 259970 Strandby,ndby,1.250.000,22-08-2012,Alm. Salg,7.575,6,Villa,165,1967,-2 %,Aktuel værdi
+Valmuevej 119970 Strandby,ndby,775.000,16-08-2012,Alm. Salg,5.344,5,Villa,145,1980,-10 %,Aktuel værdi
+Rapsmarken 119970 Strandby,ndby,980.000,07-08-2012,Alm. Salg,12.727,5,Sommerhus,77,1985,,Aktuel værdi
+Digetsvej 349970 Strandby,ndby,1.080.000,27-07-2012,Alm. Salg,7.200,5,Villa,150,1967,-7 %,Aktuel værdi
+Strandvej 1279970 Strandby,ndby,876.300,13-07-2012,Fam. Salg,7.426,5,Sommerhus,118,1973,,Aktuel værdi
+Rugengen 129970 Strandby,ndby,1.950.000,07-06-2012,Alm. Salg,8.823,6,Villa,221,2008,-22 %,Aktuel værdi
+Anemonevej 189970 Strandby,ndby,1.800.000,29-05-2012,Alm. Salg,11.764,6,Villa,153,1995,-10 %,Aktuel værdi
+Haldsvej 269970 Strandby,ndby,493.500,25-04-2012,Fam. Salg,3.103,5,Villa,159,1973,,Aktuel værdi
+Sennepsmarken 209970 Strandby,ndby,1.275.000,11-04-2012,Alm. Salg,15.937,4,Sommerhus,80,1986,-2 %,Aktuel værdi
+Rypevej 169970 Strandby,ndby,750.000,04-04-2012,Alm. Salg,7.500,4,Villa,100,1964,-6 %,Aktuel værdi
+Hannesvej 29970 Strandby,ndby,585.000,02-04-2012,Alm. Salg,9.750,3,Villa,60,1961,-2 %,Aktuel værdi
+Kornblomstvej 329970 Strandby,ndby,1.030.000,07-03-2012,Alm. Salg,7.629,5,Villa,135,1980,,Aktuel værdi
+Klitmarken 49970 Strandby,ndby,700.000,07-02-2012,Fam. Salg,9.722,4,Sommerhus,72,1976,,Aktuel værdi
+Digetsvej 229970 Strandby,ndby,300.000,12-01-2012,Alm. Salg,3.333,3,Villa,90,1955,-33 %,Aktuel værdi
+Strandvej 189970 Strandby,ndby,710.000,21-12-2011,Alm. Salg,3.659,11,Villa,194,1942,-7 %,Aktuel værdi
+Strandvej 1229970 Strandby,ndby,3.750.000,14-12-2011,Alm. Salg,21.067,5,Villa,178,1974,,Aktuel værdi
+Gøgeurtvej 219970 Strandby,ndby,390.000,17-11-2011,Alm. Salg,2.063,7,Villa,189,2012,,Aktuel værdi
+Rapsmarken 19970 Strandby,ndby,850.000,15-11-2011,Alm. Salg,15.454,4,Sommerhus,55,1983,,Aktuel værdi
+Klitmarken 79970 Strandby,ndby,2.300.000,08-11-2011,Alm. Salg,42.592,2,Sommerhus,54,1937,-8 %,Aktuel værdi
+Sennepsmarken 349970 Strandby,ndby,775.000,31-10-2011,Alm. Salg,-,3,Sommerhus,74,1986,-3 %,Aktuel værdi
+Nørrevej 359970 Strandby,ndby,2.100.000,24-10-2011,Alm. Salg,13.043,5,Villa,161,1978,,Aktuel værdi
+Kornblomstvej 369970 Strandby,ndby,875.000,19-10-2011,Alm. Salg,7.608,4,Villa,115,1979,-2 %,Aktuel værdi
+Tranevej 79970 Strandby,ndby,450.000,07-10-2011,Alm. Salg,4.285,4,Villa,105,1948,,Aktuel værdi
+Strandvej 549970 Strandby,ndby,802.000,27-09-2011,Fam. Salg,3.612,9,Villa,222,1942,,Aktuel værdi
+Nørgårdsvej 379970 Strandby,ndby,375.000,13-09-2011,Alm. Salg,-,3,Villa,80,1961,,Aktuel værdi
+Strandvej 849970 Strandby,ndby,5.500.000,09-09-2011,Alm. Salg,17.295,7,Villa,318,1988,,Aktuel værdi
+Strandvej 289970 Strandby,ndby,1.605.000,09-09-2011,Fam. Salg,10.158,6,Villa,158,1943,,Aktuel værdi
+Ranunkelvej 89970 Strandby,ndby,1.147.500,18-08-2011,Alm. Salg,9.329,4,Villa,123,1979,-4 %,Aktuel værdi
+Rapsmarken 159970 Strandby,ndby,1.295.000,03-08-2011,Alm. Salg,17.266,4,Sommerhus,75,1985,0 %,Aktuel værdi
+Rugmarken 349970 Strandby,ndby,1.012.500,30-07-2011,Alm. Salg,8.728,4,Sommerhus,116,1960,-15 %,Aktuel værdi
+Digetsvej 239970 Strandby,ndby,600.000,22-07-2011,Alm. Salg,5.172,4,Villa,116,1970,-14 %,Aktuel værdi
+Hejrevej 59970 Strandby,ndby,985.000,21-07-2011,Alm. Salg,9.471,3,Villa,104,1950,-5 %,Aktuel værdi
+Tranevej 19970 Strandby,ndby,580.000,17-07-2011,Alm. Salg,7.837,3,Villa,74,1956,-11 %,Aktuel værdi
+Nørrevej 189970 Strandby,ndby,1.095.000,11-07-2011,Alm. Salg,8.902,4,Villa,123,1942,0 %,Aktuel værdi
+Haldsvej 409970 Strandby,ndby,500.000,03-07-2011,Fam. Salg,3.472,4,Villa,144,1972,,Aktuel værdi
+Strandvej 509970 Strandby,ndby,620.232,25-06-2011,Alm. Salg,6.264,5,Villa,99,1959,,Aktuel værdi
+Munkevej 24B9970 Strandby,ndby,515.000,13-06-2011,Alm. Salg,3.705,4,Villa,139,1958,,Aktuel værdi
+Strandvej 1209970 Strandby,ndby,1.000.000,06-06-2011,Alm. Salg,5.025,4,Villa,199,2014,,Aktuel værdi
+Stentevej 109970 Strandby,ndby,1.500.000,27-05-2011,Alm. Salg,9.146,5,Villa,164,1976,-6 %,Aktuel værdi
+Skeltvedvej 209970 Strandby,ndby,793.333,05-05-2011,Fam. Salg,2.222,9,Stuehus,357,1900,,
+Skagensvej 2519970 Strandby,ndby,700.000,04-05-2011,Alm. Salg,3.763,4,Villa,186,1957,-6 %,Aktuel værdi
+Risagervej 79970 Strandby,ndby,2.800.000,14-04-2011,Alm. Salg,16.000,5,Villa,175,1948,-7 %,Aktuel værdi
+Skolevej 59970 Strandby,ndby,919.002,08-04-2011,Alm. Salg,4.334,6,Villa,212,1910,-52 %,Aktuel værdi
+Jernbanevej 149970 Strandby,ndby,530.000,25-03-2011,Alm. Salg,5.520,3,Villa,96,1963,,Aktuel værdi
+Kornblomstvej 289970 Strandby,ndby,1.250.000,15-03-2011,Alm. Salg,8.116,5,Villa,154,1982,,Aktuel værdi
+Haldsvej 299970 Strandby,ndby,1.425.000,08-03-2011,Alm. Salg,7.307,6,Villa,195,1968,-11 %,Aktuel værdi
+Strandvej 969970 Strandby,ndby,2.720.000,06-03-2011,Fam. Salg,10.111,6,Villa,269,1989,,Aktuel værdi
+Nørgårdsvej 519970 Strandby,ndby,940.000,17-02-2011,Alm. Salg,6.619,5,Villa,142,1976,-4 %,Aktuel værdi
+Møjen 79970 Strandby,ndby,1.312.000,03-02-2011,Alm. Salg,18.742,4,Sommerhus,70,1992,1 %,Aktuel værdi
+Rughaven 19970 Strandby,ndby,325.000,16-12-2010,Andet,5.508,4,Villa,59,1992,,Aktuel værdi
+Kvisselvej 449970 Strandby,ndby,50.000,17-11-2010,Fam. Salg,588,3,Villa,85,1952,,Aktuel værdi
+Munkevej 24A9970 Strandby,ndby,500.000,28-10-2010,Alm. Salg,4.385,4,Villa,114,1959,,Aktuel værdi
+Hannesvej 109970 Strandby,ndby,595.000,25-10-2010,Alm. Salg,4.576,5,Villa,130,1964,0 %,Aktuel værdi
+Digetsvej 209970 Strandby,ndby,514.000,27-09-2010,Alm. Salg,4.990,4,Villa,103,1956,0 %,Aktuel værdi
+Nørgårdsvej 399970 Strandby,ndby,765.000,25-09-2010,Alm. Salg,8.315,3,Villa,92,1964,-4 %,Aktuel værdi
+Møjen 18B9970 Strandby,ndby,4.000.000,22-09-2010,Alm. Salg,34.188,3,Sommerhus,117,1991,-11 %,Aktuel værdi
+Klitmarken 139970 Strandby,ndby,1.900.000,18-09-2010,Alm. Salg,47.500,2,Sommerhus,40,1937,-5 %,Aktuel værdi
+Strandvej 309970 Strandby,ndby,850.000,17-09-2010,Alm. Salg,-,6,Villa,177,1937,0 %,Aktuel værdi
+Nymarksvej 19970 Strandby,ndby,725.000,16-09-2010,Alm. Salg,5.576,4,Villa,130,1965,0 %,Aktuel værdi
+Bygmarken 169970 Strandby,ndby,785.000,10-09-2010,Alm. Salg,14.017,4,Sommerhus,56,1970,-4 %,Aktuel værdi
+Digetsvej 339970 Strandby,ndby,800.000,03-09-2010,Alm. Salg,5.714,5,Villa,140,1969,-27 %,Aktuel værdi
+Havremarken 189970 Strandby,ndby,950.000,24-08-2010,Alm. Salg,10.555,4,Sommerhus,90,1973,,Aktuel værdi
+Strandvej 39970 Strandby,ndby,985.000,19-08-2010,Alm. Salg,14.701,2,Villa,67,1944,-1 %,Aktuel værdi
+Kajgårdsvej 69970 Strandby,ndby,360.000,10-08-2010,Auktion,2.093,5,Villa,172,1936,-47 %,Aktuel værdi
+Haldsvej 149970 Strandby,ndby,1.252.000,09-08-2010,Alm. Salg,6.355,9,Villa,197,1877,-10 %,Aktuel værdi
+Rughaven 89970 Strandby,ndby,2.875.000,14-07-2010,Alm. Salg,-,4,Villa,167,1977,0 %,Aktuel værdi
+Munkevej 149970 Strandby,ndby,745.000,08-07-2010,Alm. Salg,4.232,7,Villa,176,1950,-17 %,Aktuel værdi
+Lærkevej 109970 Strandby,ndby,1.290.000,07-07-2010,Alm. Salg,10.238,4,Villa,126,1967,0 %,Aktuel værdi
+Haldsvej 189970 Strandby,ndby,830.000,29-06-2010,Alm. Salg,6.102,6,Villa,136,1959,-4 %,Aktuel værdi
+Kornblomstvej 149970 Strandby,ndby,1.375.000,23-06-2010,Alm. Salg,10.742,5,Villa,128,1979,,Aktuel værdi
+Nørrevej 39970 Strandby,ndby,720.000,15-06-2010,Alm. Salg,6.000,5,Villa,120,1900,,Aktuel værdi
+Karlsvej 19970 Strandby,ndby,1.980.000,11-06-2010,Alm. Salg,12.611,5,Villa,157,1983,,Aktuel værdi
+Rugengen 39970 Strandby,ndby,1.795.000,07-06-2010,Alm. Salg,10.621,6,Villa,169,1986,0 %,Aktuel værdi
+Rugholm 359970 Strandby,ndby,1.160.000,31-05-2010,Alm. Salg,12.888,5,Sommerhus,90,1976,-17 %,Aktuel værdi
+Valmuevej 79970 Strandby,ndby,835.000,31-05-2010,Alm. Salg,8.789,4,Villa,95,1979,-6 %,Aktuel værdi
+Rugengen 159970 Strandby,ndby,1.300.000,21-05-2010,Alm. Salg,9.848,4,Villa,132,1985,0 %,Aktuel værdi
+Stationsvej 409970 Strandby,ndby,695.000,10-05-2010,Fam. Salg,7.239,2,Villa,96,1960,,Aktuel værdi
+Nørgårdsvej 129970 Strandby,ndby,1.750.000,10-05-2010,Alm. Salg,13.888,4,Villa,126,1922,,Aktuel værdi
+Røllikevej 59970 Strandby,ndby,850.000,09-05-2010,Alm. Salg,5.059,5,Villa,168,1986,,Aktuel værdi
+Hegnsvej 249970 Strandby,ndby,1.525.000,07-05-2010,Alm. Salg,9.775,6,Villa,156,1976,,Aktuel værdi
+Gøgeurtvej 139970 Strandby,ndby,200.000,24-04-2010,Alm. Salg,1.226,5,Villa,163,2011,,Aktuel værdi
+"Nørgårdsvej 27A, ST. TH9970 Strandby",ndby,2.100.000,23-03-2010,Auktion,38.888,2,Lejlighed,54,1970,,Aktuel værdi
+"Nørgårdsvej 27A, 1. TV9970 Strandby",ndby,2.100.000,23-03-2010,Auktion,38.888,2,Lejlighed,54,1970,,Aktuel værdi
+"Nørgårdsvej 27A, ST. TV9970 Strandby",ndby,2.100.000,23-03-2010,Auktion,38.888,2,Lejlighed,54,1970,,Aktuel værdi
+"Nørgårdsvej 27B, ST. TH9970 Strandby",ndby,2.100.000,23-03-2010,Auktion,38.888,2,Lejlighed,54,1970,,Aktuel værdi
+"Nørgårdsvej 27A, 1. TH9970 Strandby",ndby,2.100.000,23-03-2010,Auktion,38.888,2,Lejlighed,54,1970,,Aktuel værdi
+"Nørgårdsvej 27B, 1. TV9970 Strandby",ndby,2.100.000,23-03-2010,Auktion,38.888,2,Lejlighed,54,1970,,Aktuel værdi
+"Nørgårdsvej 27B, ST. TV9970 Strandby",ndby,2.100.000,23-03-2010,Auktion,38.888,2,Lejlighed,54,1970,,Aktuel værdi
+"Nørgårdsvej 27B, 1. TH9970 Strandby",ndby,2.100.000,23-03-2010,Auktion,38.888,2,Lejlighed,54,1970,,Aktuel værdi
+"Nørgårdsvej 27C, ST. TH9970 Strandby",ndby,2.100.000,23-03-2010,Auktion,-,4,Lejlighed,89,1970,,Aktuel værdi
+"Nørgårdsvej 27C, 1. TH9970 Strandby",ndby,2.100.000,23-03-2010,Auktion,-,4,Lejlighed,89,1970,,Aktuel værdi
+"Nørgårdsvej 27C, 1. TV9970 Strandby",ndby,2.100.000,23-03-2010,Auktion,-,2,Lejlighed,54,1970,,Aktuel værdi
+"Nørgårdsvej 27C, ST. TV9970 Strandby",ndby,2.100.000,23-03-2010,Auktion,-,2,Lejlighed,54,1970,,Aktuel værdi
+Tangvej 79970 Strandby,ndby,900.000,16-03-2010,Alm. Salg,9.183,3,Villa,98,1910,,Aktuel værdi
+Nørgårdsvej 339970 Strandby,ndby,1.300.000,12-03-2010,Fam. Salg,7.428,7,Villa,175,1972,,Aktuel værdi
+Valmuevej 309970 Strandby,ndby,980.000,05-03-2010,Alm. Salg,8.235,4,Villa,119,1980,-8 %,Aktuel værdi
+Stationsvej 89970 Strandby,ndby,540.000,26-02-2010,Alm. Salg,-,6,Villa,178,1929,,Aktuel værdi
+Nørrevej 19970 Strandby,ndby,1.300.000,11-02-2010,Fam. Salg,16.883,3,Villa,77,1901,,Aktuel værdi
+Nørgårdsvej 139970 Strandby,ndby,1.025.000,04-01-2010,Alm. Salg,11.918,4,Villa,86,1961,0 %,Aktuel værdi
+Rugmarken 279970 Strandby,ndby,1.272.500,31-12-2009,Alm. Salg,19.280,3,Sommerhus,66,1979,-5 %,Aktuel værdi
+Søndervej 329970 Strandby,ndby,1.100.000,30-12-2009,Alm. Salg,10.280,3,Rækkehus,107,1777,,Aktuel værdi
+Stationsvej 79970 Strandby,ndby,765.000,28-12-2009,Fam. Salg,5.349,5,Villa,143,1930,-30 %,Aktuel værdi
+Strandvej 259970 Strandby,ndby,775.100,18-12-2009,Alm. Salg,6.301,5,Villa,123,1947,3 %,Aktuel værdi
+Strandvej 100B9970 Strandby,ndby,1.955.000,16-12-2009,Fam. Salg,9.678,5,Villa,202,2000,,Aktuel værdi
+Nørrevej 409970 Strandby,ndby,600.000,07-12-2009,Fam. Salg,7.594,2,Sommerhus,79,1968,,Aktuel værdi
+Stationsvej 239970 Strandby,ndby,800.000,04-12-2009,Alm. Salg,8.988,4,Villa,89,1953,,Aktuel værdi
+Tranevej 49970 Strandby,ndby,435.000,18-11-2009,Auktion,4.627,2,Villa,94,1950,-45 %,Aktuel værdi
+Vandværksvej 459970 Strandby,ndby,1.260.000,12-11-2009,Alm. Salg,7.544,4,Villa,167,1970,-10 %,Aktuel værdi
+Skramgårdsvej 89970 Strandby,ndby,450.000,05-11-2009,Fam. Salg,4.591,4,Villa,98,1962,,Aktuel værdi
+Rugmarken 19970 Strandby,ndby,850.000,16-10-2009,Alm. Salg,11.333,4,Sommerhus,75,1972,,Aktuel værdi
+Munkevej 69970 Strandby,ndby,960.000,15-09-2009,Alm. Salg,7.933,5,Villa,121,1961,-4 %,Aktuel værdi
+Havnevej 19970 Strandby,ndby,1.750.000,12-08-2009,Alm. Salg,11.824,5,Villa,148,1925,,Aktuel værdi
+Møjen 39970 Strandby,ndby,800.000,10-08-2009,Alm. Salg,5.333,5,Sommerhus,150,2011,0 %,Aktuel værdi
+Nørrevej 239970 Strandby,ndby,850.000,08-08-2009,Alm. Salg,15.178,3,Villa,56,1941,,Aktuel værdi
+Søndervej 259970 Strandby,ndby,600.000,05-08-2009,Alm. Salg,5.714,4,Villa,105,1882,,Aktuel værdi
+Røllikevej 49970 Strandby,ndby,1.380.000,02-08-2009,Alm. Salg,9.387,5,Villa,147,1987,-8 %,Aktuel værdi
+Strandvej 1329970 Strandby,ndby,850.000,16-07-2009,Fam. Salg,13.281,3,Villa,64,1999,,Aktuel værdi
+Røllikevej 209970 Strandby,ndby,1.055.000,29-06-2009,Alm. Salg,8.647,4,Villa,122,1988,6 %,Aktuel værdi
+Rypevej 179970 Strandby,ndby,1.115.000,21-06-2009,Alm. Salg,6.757,5,Villa,165,1969,,Aktuel værdi
+Strandvej 79970 Strandby,ndby,425.000,17-06-2009,Alm. Salg,3.294,4,Villa,129,1957,,Aktuel værdi
+Kajgårdsvej 169970 Strandby,ndby,1.050.000,07-06-2009,Alm. Salg,10.937,3,Villa,96,1957,-4 %,Aktuel værdi
+Digetsvej 329970 Strandby,ndby,1.895.000,01-06-2009,Alm. Salg,9.023,6,Villa,210,1968,0 %,Aktuel værdi
+Jernbanevej 89970 Strandby,ndby,600.000,15-05-2009,Alm. Salg,2.531,5,Villa,237,1957,-44 %,Aktuel værdi
+Havremarken 79970 Strandby,ndby,735.000,04-05-2009,Alm. Salg,16.704,3,Sommerhus,44,1973,-2 %,Aktuel værdi
+Nørrevej 289970 Strandby,ndby,1.200.000,17-04-2009,Alm. Salg,7.100,4,Villa,169,2010,,Aktuel værdi
+Munkevej 13B9970 Strandby,ndby,1.465.000,09-03-2009,Alm. Salg,12.107,4,Villa,121,2003,-4 %,Aktuel værdi
+Strandvej 97D9970 Strandby,ndby,1.750.000,14-01-2009,Alm. Salg,10.937,5,Villa,160,1988,-12 %,Aktuel værdi
+Strandvej 879970 Strandby,ndby,1.045.000,20-12-2008,Alm. Salg,6.220,4,Villa,168,2013,-5 %,Aktuel værdi
+Kirkevej 49970 Strandby,ndby,1.010.000,17-12-2008,Alm. Salg,-,5,Villa,183,1905,,Aktuel værdi
+Nørrevej 429970 Strandby,ndby,1.250.000,10-12-2008,Fam. Salg,13.020,4,Villa,96,2015,,Aktuel værdi
+Vandværksvej 109970 Strandby,ndby,920.000,02-12-2008,Alm. Salg,6.013,5,Villa,153,1967,-8 %,Aktuel værdi
+Nørgårdsvej 149970 Strandby,ndby,650.000,01-12-2008,Alm. Salg,6.310,4,Villa,103,1922,13 %,Aktuel værdi
+Haldsvej 289970 Strandby,ndby,1.095.000,21-11-2008,Alm. Salg,-,6,Villa,208,1973,-8 %,Aktuel værdi
+Nørrevej 269970 Strandby,ndby,1.500.000,11-11-2008,Alm. Salg,8.823,4,Villa,170,1959,,Aktuel værdi
+Havnevej 39970 Strandby,ndby,900.000,03-10-2008,Alm. Salg,5.454,6,Villa,165,1932,,Aktuel værdi
+Digetsvej 269970 Strandby,ndby,1.105.000,02-10-2008,Fam. Salg,6.906,4,Villa,160,1959,,Aktuel værdi
+Nørrevej 29970 Strandby,ndby,745.000,02-10-2008,Alm. Salg,9.085,4,Villa,82,1887,,Aktuel værdi
+Strandvej 49970 Strandby,ndby,965.000,17-09-2008,Alm. Salg,6.609,4,Villa,146,1961,-12 %,Aktuel værdi
+Møjen 269970 Strandby,ndby,2.451.700,17-09-2008,Alm. Salg,17.638,5,Sommerhus,139,2013,11 %,Aktuel værdi
+Hegnsvej 79970 Strandby,ndby,925.000,04-09-2008,Alm. Salg,6.801,5,Villa,136,1978,-7 %,Aktuel værdi
+Skolevej 139970 Strandby,ndby,850.000,03-09-2008,Alm. Salg,5.782,4,Villa,147,1958,-15 %,Aktuel værdi
+Rugholm 339970 Strandby,ndby,1.265.000,29-08-2008,Alm. Salg,-,5,Sommerhus,91,1977,0 %,Aktuel værdi
+Nørgårdsvej 89970 Strandby,ndby,950.000,24-08-2008,Fam. Salg,6.985,4,Villa,136,1956,,Aktuel værdi
+Snerlevej 39970 Strandby,ndby,995.000,18-08-2008,Alm. Salg,-,4,Villa,122,1904,0 %,Aktuel værdi
+Strandvej 419970 Strandby,ndby,665.000,15-08-2008,Alm. Salg,6.273,4,Villa,106,1929,-16 %,Aktuel værdi
+Egerisvej 249970 Strandby,ndby,2.500.000,28-07-2008,Alm. Salg,12.820,4,Villa,195,2001,0 %,Aktuel værdi
+Haldsvej 19970 Strandby,ndby,680.000,21-07-2008,Alm. Salg,5.151,5,Villa,132,1943,-15 %,Aktuel værdi
+Havnevej 22A9970 Strandby,ndby,1.250.000,11-07-2008,Alm. Salg,-,6,Lejlighed,130,1962,,Aktuel værdi
+Stentevej 79970 Strandby,ndby,1.295.000,03-07-2008,Alm. Salg,7.573,6,Villa,171,1977,0 %,Aktuel værdi
+Snerlevej 69970 Strandby,ndby,1.595.000,26-06-2008,Alm. Salg,7.217,7,Villa,221,1971,0 %,Aktuel værdi
+Møjen 69970 Strandby,ndby,1.800.000,24-06-2008,Alm. Salg,17.647,4,Sommerhus,102,1982,,Aktuel værdi
+Møjen 10A9970 Strandby,ndby,616.250,07-06-2008,Fam. Salg,5.051,5,Sommerhus,122,1973,,Aktuel værdi
+Strandvej 20C9970 Strandby,ndby,635.000,30-05-2008,Alm. Salg,7.055,3,Villa,90,1962,-4 %,Aktuel værdi
+Søndervej 129970 Strandby,ndby,1.075.000,19-05-2008,Alm. Salg,7.789,4,Villa,138,1920,-2 %,Aktuel værdi
+Klitmarken 59970 Strandby,ndby,977.500,18-05-2008,Fam. Salg,10.741,4,Sommerhus,91,1973,,Aktuel værdi
+Munkevej 49970 Strandby,ndby,620.000,09-05-2008,Alm. Salg,4.592,5,Villa,135,1921,,Aktuel værdi
+Ranunkelvej 189970 Strandby,ndby,1.095.000,30-04-2008,Alm. Salg,7.711,3,Villa,142,1983,-8 %,Aktuel værdi
+Strandvej 1039970 Strandby,ndby,1.105.000,02-04-2008,Alm. Salg,10.728,3,Sommerhus,103,1968,,Aktuel værdi
+Havnevej 199970 Strandby,ndby,1.195.000,29-03-2008,Alm. Salg,12.712,4,Villa,94,1940,0 %,Aktuel værdi
+Rugmarken 379970 Strandby,ndby,760.000,19-03-2008,Fam. Salg,9.620,4,Sommerhus,79,1968,,Aktuel værdi
+Digetsvej 29970 Strandby,ndby,1.020.000,19-03-2008,Fam. Salg,-,5,Villa,132,1934,,Aktuel værdi
+Strandvej 219970 Strandby,ndby,1.250.000,19-03-2008,Alm. Salg,7.763,5,Villa,161,1963,,Aktuel værdi
+Rugengen 139970 Strandby,ndby,1.125.000,07-03-2008,Alm. Salg,10.227,4,Villa,110,1984,-5 %,Aktuel værdi
+Tordenskjoldsvej 59970 Strandby,ndby,372.385,19-02-2008,Fam. Salg,2.886,4,Villa,129,1955,,Aktuel værdi
+Vandværksvej 399970 Strandby,ndby,1.175.000,05-02-2008,Alm. Salg,5.964,8,Villa,197,1970,,Aktuel værdi
+Rugmarken 259970 Strandby,ndby,1.650.000,31-01-2008,Alm. Salg,18.750,4,Sommerhus,88,1970,,Aktuel værdi
+Hegnsvej 149970 Strandby,ndby,1.195.000,17-01-2008,Alm. Salg,8.917,5,Villa,134,1976,,Aktuel værdi
+Strandvej 569970 Strandby,ndby,1.295.000,14-01-2008,Alm. Salg,10.117,4,Villa,128,1965,0 %,Aktuel værdi
+Rugmarken 299970 Strandby,ndby,425.000,20-12-2007,Fam. Salg,7.870,3,Sommerhus,54,1974,,Aktuel værdi
+Gærdevej 79970 Strandby,ndby,1.375.000,13-12-2007,Alm. Salg,8.757,5,Villa,157,1980,,Aktuel værdi
+Nørtvedvej 589970 Strandby,ndby,1.750.000,30-11-2007,Alm. Salg,18.229,4,Sommerhus,96,2006,-3 %,Aktuel værdi
+Kvisselvej 529970 Strandby,ndby,345.000,22-11-2007,Alm. Salg,20.294,1,Kolonihavehus,17,1982,,Aktuel værdi
+Strandvej 1B9970 Strandby,ndby,630.000,09-11-2007,Alm. Salg,-,5,Villa,133,1948,-7 %,Aktuel værdi
+Haldsvej 119970 Strandby,ndby,725.000,25-10-2007,Alm. Salg,7.038,4,Villa,103,1960,-3 %,Aktuel værdi
+Hegnsvej 59970 Strandby,ndby,600.000,18-10-2007,Andet,2.777,6,Villa,216,1978,,Aktuel værdi
+Krøghsvej 59970 Strandby,ndby,600.000,17-10-2007,Alm. Salg,5.357,4,Villa,112,1933,-2 %,Aktuel værdi
+Bellisvej 99970 Strandby,ndby,1.895.000,05-10-2007,Alm. Salg,13.159,5,Villa,144,1997,0 %,Aktuel værdi
+Grøftekanten 39970 Strandby,ndby,1.270.000,04-10-2007,Alm. Salg,9.136,4,Villa,139,1980,-2 %,Aktuel værdi
+Risagervej 49970 Strandby,ndby,900.000,19-09-2007,Alm. Salg,5.232,5,Villa,172,1964,,Aktuel værdi
+Nymarksvej 89970 Strandby,ndby,1.150.000,17-09-2007,Alm. Salg,7.098,5,Villa,162,1967,,Aktuel værdi
+Strandvej 97C9970 Strandby,ndby,2.080.000,13-09-2007,Alm. Salg,11.620,5,Villa,179,1987,,Aktuel værdi
+Møjen 139970 Strandby,ndby,2.095.000,29-08-2007,Alm. Salg,16.895,4,Sommerhus,124,1963,,Aktuel værdi
+Havnevej 29970 Strandby,ndby,1.375.000,15-08-2007,Alm. Salg,6.365,6,Villa,216,1887,,Aktuel værdi
+Nørgårdsvej 79970 Strandby,ndby,863.000,08-08-2007,Alm. Salg,6.689,5,Villa,129,1963,,Aktuel værdi
+Søndervej 179970 Strandby,ndby,635.000,01-08-2007,Alm. Salg,5.080,3,Villa,125,1877,0 %,Aktuel værdi
+Haldsvej 309970 Strandby,ndby,1.155.000,01-08-2007,Alm. Salg,8.684,5,Villa,133,1973,,Aktuel værdi
+Strandvej 1179970 Strandby,ndby,487.500,23-07-2007,Fam. Salg,-,3,Villa,41,1979,,Aktuel værdi
+Munkevej 309970 Strandby,ndby,600.000,11-07-2007,Alm. Salg,7.692,4,Villa,78,1958,,Aktuel værdi
+Snerlevej 29970 Strandby,ndby,484.500,11-07-2007,Alm. Salg,4.287,5,Villa,113,1927,,Aktuel værdi
+Følfodvej 29970 Strandby,ndby,1.630.000,03-07-2007,Alm. Salg,-,6,Villa,177,1998,,Aktuel værdi
+Grøftekanten 69970 Strandby,ndby,1.400.000,02-07-2007,Alm. Salg,7.692,7,Villa,182,1979,-2 %,Aktuel værdi
+Rughaven 19B9970 Strandby,ndby,940.000,12-06-2007,Alm. Salg,5.911,5,Villa,159,2009,-3 %,Aktuel værdi
+Munkevej 79970 Strandby,ndby,1.375.000,12-06-2007,Alm. Salg,7.812,6,Villa,176,1933,,Aktuel værdi
+Sennepsmarken 89970 Strandby,ndby,1.075.000,15-05-2007,Alm. Salg,-,4,Sommerhus,119,1986,,Aktuel værdi
+Haldsvej 69970 Strandby,ndby,910.000,14-05-2007,Alm. Salg,11.234,5,Villa,81,1958,,Aktuel værdi
+Søndervej 249970 Strandby,ndby,750.000,29-04-2007,Alm. Salg,8.720,3,Villa,86,1925,,Aktuel værdi
+Hannesvej 209970 Strandby,ndby,495.000,13-04-2007,Alm. Salg,-,4,Villa,176,1962,,Aktuel værdi
+Klitvej 69970 Strandby,ndby,3.375.000,23-03-2007,Alm. Salg,-,6,Villa,151,1975,,Aktuel værdi
+Kløvermarken 219970 Strandby,ndby,1.032.500,20-03-2007,Alm. Salg,14.340,4,Sommerhus,72,1995,,Aktuel værdi
+Thaarupsvej 19970 Strandby,ndby,825.000,01-03-2007,Alm. Salg,7.366,5,Villa,112,1959,,Aktuel værdi
+Gøgeurtvej 59970 Strandby,ndby,1.850.000,28-02-2007,Alm. Salg,13.214,4,Villa,140,2005,,Aktuel værdi
+Munkevej 249970 Strandby,ndby,750.000,20-02-2007,Alm. Salg,6.355,3,Villa,118,1956,-6 %,Aktuel værdi
+Sennepsmarken 339970 Strandby,ndby,960.000,19-02-2007,Alm. Salg,-,4,Sommerhus,89,1986,,Aktuel værdi
+Nørgårdsvej 759970 Strandby,ndby,2.400.000,19-02-2007,Alm. Salg,8.759,6,Stuehus,274,2006,,
+Strandvej 689970 Strandby,ndby,1.085.000,03-02-2007,Alm. Salg,13.231,3,Villa,82,1962,,Aktuel værdi
+Agervej 309970 Strandby,ndby,695.000,02-02-2007,Alm. Salg,11.583,3,Villa,60,1877,,Aktuel værdi
+Karlsvej 59970 Strandby,ndby,1.120.000,27-01-2007,Alm. Salg,6.706,5,Villa,167,1963,,Aktuel værdi
+Bygmarken 119970 Strandby,ndby,1.700.000,03-01-2007,Alm. Salg,16.504,5,Sommerhus,103,2000,,Aktuel værdi
+Rapsmarken 39970 Strandby,ndby,1.400.000,08-12-2006,Alm. Salg,16.666,4,Sommerhus,84,1985,,Aktuel værdi
+Klitmarken 99970 Strandby,ndby,550.000,15-11-2006,Fam. Salg,11.000,3,Sommerhus,50,1937,,Aktuel værdi
+Kløvermarken 139970 Strandby,ndby,1.420.000,27-10-2006,Alm. Salg,15.268,4,Sommerhus,93,2004,,Aktuel værdi
+Svalevej 189970 Strandby,ndby,825.000,18-10-2006,Alm. Salg,5.612,5,Villa,147,1964,,Aktuel værdi
+Munkevej 39970 Strandby,ndby,780.000,13-09-2006,Alm. Salg,6.000,7,Villa,130,1919,,Aktuel værdi
+Nørgårdsvej 579970 Strandby,ndby,1.045.000,31-08-2006,Alm. Salg,9.086,4,Villa,115,1984,,Aktuel værdi
+Rughaven 15A9970 Strandby,ndby,1.150.000,25-07-2006,Alm. Salg,19.166,3,Sommerhus,60,1969,,Aktuel værdi
+Havnevej 129970 Strandby,ndby,520.000,15-07-2006,Alm. Salg,4.642,4,Rækkehus,112,1905,,Aktuel værdi
+Digetsvej 41A9970 Strandby,ndby,900.000,10-07-2006,Alm. Salg,7.758,5,Villa,116,1979,,Aktuel værdi
+Jernbanevej 2B9970 Strandby,ndby,125.000,22-06-2006,Alm. Salg,1.168,3,Villa,107,1959,,Aktuel værdi
+Lærkevej 49970 Strandby,ndby,550.000,10-06-2006,Alm. Salg,-,5,Villa,173,1964,,Aktuel værdi
+Strandvej 769970 Strandby,ndby,975.000,05-06-2006,Fam. Salg,-,3,Villa,144,1943,,Aktuel værdi
+Svalevej 179970 Strandby,ndby,1.200.000,27-05-2006,Alm. Salg,5.853,6,Villa,205,1967,,Aktuel værdi
+Niels Tvillings Vej 89970 Strandby,ndby,1.200.000,27-05-2006,Alm. Salg,9.523,4,Villa,126,1929,,Aktuel værdi
+Sennepsmarken 139970 Strandby,ndby,1.275.000,09-05-2006,Alm. Salg,15.000,4,Sommerhus,85,1986,,Aktuel værdi
+Bygmarken 99970 Strandby,ndby,550.000,04-05-2006,Alm. Salg,2.696,6,Stuehus,204,2001,,
+Svalevej 29970 Strandby,ndby,925.000,27-04-2006,Alm. Salg,8.644,4,Villa,107,1962,,Aktuel værdi
+Havremarken 119970 Strandby,ndby,987.500,25-04-2006,Alm. Salg,-,4,Sommerhus,56,1973,,Aktuel værdi
+Haldsvej 49970 Strandby,ndby,790.000,18-04-2006,Alm. Salg,5.524,5,Villa,143,1967,,Aktuel værdi
+Stationsvej 169970 Strandby,ndby,419.343,24-03-2006,Fam. Salg,6.166,3,Villa,68,1948,,Aktuel værdi
+Hannesvej 239970 Strandby,ndby,250.000,23-03-2006,Alm. Salg,1.237,6,Villa,202,2008,,Aktuel værdi
+Haldsvej 109970 Strandby,ndby,612.000,17-03-2006,Alm. Salg,4.781,5,Villa,128,1959,,Aktuel værdi
+Gøgeurtvej 19970 Strandby,ndby,175.000,08-03-2006,Alm. Salg,988,5,Villa,177,2007,,Aktuel værdi
+Stationsvej 209970 Strandby,ndby,846.000,08-03-2006,Alm. Salg,7.553,3,Villa,112,1963,,Aktuel værdi
+Bygmarken 89970 Strandby,ndby,1.275.000,08-03-2006,Alm. Salg,15.937,4,Sommerhus,80,1987,,Aktuel værdi
+Kløvermarken 49970 Strandby,ndby,1.335.000,20-02-2006,Alm. Salg,16.084,5,Sommerhus,83,1998,,Aktuel værdi
+Anemonevej 209970 Strandby,ndby,1.100.000,31-01-2006,Fam. Salg,7.746,5,Villa,142,1984,,Aktuel værdi
+Digetsvej 289970 Strandby,ndby,1.095.000,26-01-2006,Alm. Salg,-,7,Villa,181,1968,,Aktuel værdi
+Digetsvej 479970 Strandby,ndby,1.245.000,23-01-2006,Alm. Salg,5.231,7,Villa,238,1980,,Aktuel værdi
+Rapsmarken 169970 Strandby,ndby,1.400.000,23-01-2006,Alm. Salg,12.280,4,Sommerhus,114,1985,,Aktuel værdi
+Nørrevej 119970 Strandby,ndby,665.000,03-01-2006,Alm. Salg,-,5,Villa,157,1923,,Aktuel værdi
+Søndervej 20A9970 Strandby,ndby,650.000,08-12-2005,Alm. Salg,5.416,4,Villa,120,1966,,Aktuel værdi
+Møjen 119970 Strandby,ndby,161.000,01-12-2005,Fam. Salg,2.981,3,Sommerhus,54,1961,,Aktuel værdi
+Rugengen 99970 Strandby,ndby,1.340.000,25-11-2005,Alm. Salg,8.933,5,Villa,150,1986,,Aktuel værdi
+Nørrevej 219970 Strandby,ndby,500.000,20-11-2005,Alm. Salg,-,4,Villa,162,1944,,Aktuel værdi
+Strandvej 1139970 Strandby,ndby,900.000,16-11-2005,Alm. Salg,5.056,6,Villa,178,2011,,Aktuel værdi
+Snerlevej 79970 Strandby,ndby,587.000,15-11-2005,Fam. Salg,-,5,Villa,132,1954,,Aktuel værdi
+Søndervej 229970 Strandby,ndby,675.000,02-11-2005,Alm. Salg,6.081,3,Villa,111,1927,,Aktuel værdi
+Søndervej 209970 Strandby,ndby,850.000,28-10-2005,Alm. Salg,5.089,5,Villa,167,1965,,Aktuel værdi
+Ranunkelvej 69970 Strandby,ndby,1.345.000,26-10-2005,Alm. Salg,10.760,5,Villa,125,1982,,Aktuel værdi
+Digetsvej 19970 Strandby,ndby,1.600.000,20-10-2005,Fam. Salg,6.037,7,Villa,265,1980,,Aktuel værdi
+Strandvej 99A9970 Strandby,ndby,1.300.000,17-10-2005,Fam. Salg,8.552,4,Villa,152,1998,,Aktuel værdi
+Bygmarken 229970 Strandby,ndby,464.613,22-09-2005,Andet,4.075,4,Sommerhus,114,1978,,Aktuel værdi
+Rugmarken 119970 Strandby,ndby,435.000,20-09-2005,Fam. Salg,9.255,3,Sommerhus,47,1973,,Aktuel værdi
+Nymarksvej 109970 Strandby,ndby,450.000,19-09-2005,Alm. Salg,6.617,3,Villa,68,1880,,Aktuel værdi
+Strandvej 539970 Strandby,ndby,1.200.000,19-09-2005,Alm. Salg,7.947,4,Villa,151,1983,,Aktuel værdi
+Kornblomstvej 99970 Strandby,ndby,780.000,07-09-2005,Alm. Salg,7.155,4,Villa,109,1979,,Aktuel værdi
+Stationsvej 349970 Strandby,ndby,297.500,05-09-2005,Fam. Salg,1.847,5,Villa,161,1960,,Aktuel værdi
+Nørgårdsvej 479970 Strandby,ndby,1.200.000,12-08-2005,Alm. Salg,10.084,4,Villa,119,1998,,Aktuel værdi
+Møjen 24B9970 Strandby,ndby,368.296,18-07-2005,Alm. Salg,7.082,3,Sommerhus,52,1937,,Aktuel værdi
+Sennepsmarken 269970 Strandby,ndby,900.000,12-07-2005,Alm. Salg,13.235,4,Sommerhus,68,1986,,Aktuel værdi
+Digetsvej 109970 Strandby,ndby,798.000,30-06-2005,Alm. Salg,11.565,3,Villa,69,1877,,Aktuel værdi
+Sennepsmarken 79970 Strandby,ndby,1.090.000,24-06-2005,Alm. Salg,14.342,4,Sommerhus,76,1986,,Aktuel værdi
+Haldsvej 349970 Strandby,ndby,1.000.000,23-06-2005,Alm. Salg,7.812,4,Villa,128,1977,,Aktuel værdi
+Gøgeurtvej 39970 Strandby,ndby,175.000,08-06-2005,Alm. Salg,1.054,5,Villa,166,2005,,Aktuel værdi
+Skolevej 159970 Strandby,ndby,225.000,07-06-2005,Alm. Salg,1.130,4,Villa,199,2007,,Aktuel værdi
+Rypevej 59970 Strandby,ndby,998.000,26-05-2005,Alm. Salg,-,6,Villa,176,1965,,Aktuel værdi
+Strandvej 279970 Strandby,ndby,1.595.000,20-05-2005,Alm. Salg,10.290,5,Villa,155,1945,,Aktuel værdi
+Bygmarken 69970 Strandby,ndby,1.425.000,10-05-2005,Alm. Salg,15.322,4,Sommerhus,93,2003,,Aktuel værdi
+Gøgeurtvej 159970 Strandby,ndby,200.000,03-05-2005,Alm. Salg,1.234,5,Villa,162,2006,,Aktuel værdi
+Haldsvej 379970 Strandby,ndby,725.000,24-04-2005,Alm. Salg,5.620,4,Villa,129,1970,,Aktuel værdi
+Rugengen 79970 Strandby,ndby,1.730.000,19-04-2005,Alm. Salg,7.688,6,Villa,225,1985,,Aktuel værdi
+Strandbyvej 939970 Strandby,ndby,70.000,30-03-2005,Alm. Salg,-,1,Fritid,-,1960,,Aktuel værdi
+Sennepsmarken 109970 Strandby,ndby,1.000.000,25-03-2005,Alm. Salg,16.393,4,Sommerhus,61,1986,,Aktuel værdi
+Hannesvej 19970 Strandby,ndby,380.000,23-03-2005,Alm. Salg,4.691,4,Villa,81,1960,,Aktuel værdi
+Søndervej 169970 Strandby,ndby,460.000,22-03-2005,Alm. Salg,-,2,Villa,73,1934,,Aktuel værdi
+Kornblomstvej 269970 Strandby,ndby,750.000,28-02-2005,Alm. Salg,6.302,4,Villa,119,1980,,Aktuel værdi
+Vandværksvej 429970 Strandby,ndby,910.000,24-02-2005,Alm. Salg,6.232,5,Villa,146,1973,,Aktuel værdi
+Sennepsmarken 179970 Strandby,ndby,1.225.000,23-02-2005,Alm. Salg,16.118,1,Sommerhus,76,1992,,Aktuel værdi
+Sennepsmarken 199970 Strandby,ndby,1.360.000,03-02-2005,Alm. Salg,13.877,4,Sommerhus,98,1994,,Aktuel værdi
+Tordenskjoldsvej 69970 Strandby,ndby,860.000,03-12-2004,Alm. Salg,6.231,4,Villa,138,1973,,Aktuel værdi
+Haldsvej 169970 Strandby,ndby,345.450,18-11-2004,Alm. Salg,4.372,2,Villa,79,1960,,Aktuel værdi
+Skeltvedvej 39970 Strandby,ndby,1.025.000,09-11-2004,Alm. Salg,4.575,6,Stuehus,224,2008,,
+Niels Tvillings Vej 109970 Strandby,ndby,1.095.000,06-11-2004,Alm. Salg,9.201,3,Villa,119,1938,,Aktuel værdi
+Digetsvej 499970 Strandby,ndby,1.100.000,27-10-2004,Alm. Salg,8.870,4,Villa,124,1984,,Aktuel værdi
+Nørgårdsvej 49970 Strandby,ndby,289.375,26-10-2004,Alm. Salg,3.758,3,Villa,77,1957,,Aktuel værdi
+Agervej 139970 Strandby,ndby,1.150.000,24-10-2004,Alm. Salg,10.360,5,Villa,111,1877,,Aktuel værdi
+Kløvermarken 79970 Strandby,ndby,815.000,21-09-2004,Alm. Salg,8.763,4,Sommerhus,93,1978,,Aktuel værdi
+Kajgårdsvej 89970 Strandby,ndby,735.000,06-08-2004,Alm. Salg,5.787,3,Villa,127,1944,,Aktuel værdi
+Rugskellet 59970 Strandby,ndby,997.500,02-08-2004,Alm. Salg,5.168,7,Villa,193,1985,,Aktuel værdi
+Vandværksvej 139970 Strandby,ndby,1.065.000,29-07-2004,Alm. Salg,5.725,6,Villa,186,1970,,Aktuel værdi
+Havnevej 109970 Strandby,ndby,890.000,21-07-2004,Alm. Salg,5.894,4,Villa,151,1954,,Aktuel værdi
+Hegnsvej 219970 Strandby,ndby,1.030.000,22-06-2004,Alm. Salg,5.202,5,Villa,198,1976,,Aktuel værdi
+Sennepsmarken 309970 Strandby,ndby,300.000,27-05-2004,Alm. Salg,2.608,4,Sommerhus,115,2004,,Aktuel værdi
+Nørgårdsvej 219970 Strandby,ndby,565.000,25-05-2004,Alm. Salg,5.136,4,Villa,110,1961,,Aktuel værdi
+Rapsmarken 129970 Strandby,ndby,795.000,05-05-2004,Alm. Salg,13.032,4,Sommerhus,61,1984,,Aktuel værdi
+Sennepsmarken 29970 Strandby,ndby,985.000,04-05-2004,Alm. Salg,9.850,4,Sommerhus,100,1987,,Aktuel værdi
+Egerisvej 309970 Strandby,ndby,1.150.000,30-04-2004,Alm. Salg,8.273,5,Villa,139,1965,,Aktuel værdi
+Rugmarken 39970 Strandby,ndby,300.000,22-04-2004,Alm. Salg,3.750,3,Sommerhus,80,2005,,Aktuel værdi
+Vandværksvej 389970 Strandby,ndby,530.788,21-04-2004,Fam. Salg,3.296,4,Villa,161,1968,,Aktuel værdi
+Strandvej 1239970 Strandby,ndby,2.525.000,07-04-2004,Alm. Salg,15.586,6,Villa,162,1975,,Aktuel værdi
+Klitmarken 219970 Strandby,ndby,567.850,02-04-2004,Fam. Salg,9.309,3,Sommerhus,61,1940,,Aktuel værdi
+Søndervej 29970 Strandby,ndby,460.000,21-03-2004,Alm. Salg,-,8,Villa,217,1910,,Aktuel værdi
+Sennepsmarken 149970 Strandby,ndby,100.000,15-03-2004,Alm. Salg,763,5,Sommerhus,131,2008,,Aktuel værdi
+Vandværksvej 379970 Strandby,ndby,825.000,28-01-2004,Alm. Salg,5.124,5,Villa,161,1974,,Aktuel værdi
+Møjen 8E9970 Strandby,ndby,920.000,22-01-2004,Alm. Salg,8.846,4,Sommerhus,104,2015,,Aktuel værdi
+Gøgeurtvej 279970 Strandby,ndby,169.150,22-12-2003,Alm. Salg,977,5,Villa,173,2005,,Aktuel værdi
+Gøgeurtvej 179970 Strandby,ndby,172.350,22-12-2003,Alm. Salg,1.032,5,Villa,167,2005,,Aktuel værdi
+Gøgeurtvej 259970 Strandby,ndby,170.550,22-12-2003,Alm. Salg,879,6,Villa,194,2006,,Aktuel værdi
+Gøgeurtvej 199970 Strandby,ndby,172.900,22-12-2003,Alm. Salg,1.152,5,Villa,150,2007,,Aktuel værdi
+Vandværksvej 29970 Strandby,ndby,312.500,05-12-2003,Fam. Salg,3.063,4,Villa,102,1965,,Aktuel værdi
+Valmuevej 59970 Strandby,ndby,850.000,19-11-2003,Alm. Salg,8.252,5,Villa,103,1980,,Aktuel værdi
+Udegårdsvej 249970 Strandby,ndby,950.000,14-11-2003,Alm. Salg,6.462,5,Villa,147,1975,,Aktuel værdi
+Kløvermarken 199970 Strandby,ndby,165.000,29-10-2003,Alm. Salg,1.500,4,Sommerhus,110,2004,,Aktuel værdi
+Anemonevej 169970 Strandby,ndby,1.430.000,17-10-2003,Alm. Salg,9.407,6,Villa,152,1995,,Aktuel værdi
+Stentevej 149970 Strandby,ndby,445.468,02-10-2003,Alm. Salg,2.930,5,Villa,152,1976,,Aktuel værdi
+Rughaven 11A9970 Strandby,ndby,1.115.000,11-09-2003,Alm. Salg,-,7,Villa,155,1967,,Aktuel værdi
+Havremarken 2A9970 Strandby,ndby,925.000,29-08-2003,Alm. Salg,11.144,4,Sommerhus,83,2002,,Aktuel værdi
+Hannesvej 39970 Strandby,ndby,398.000,09-08-2003,Alm. Salg,4.522,4,Villa,88,1960,,Aktuel værdi
+Rugmarken 199970 Strandby,ndby,760.000,05-08-2003,Alm. Salg,12.881,4,Sommerhus,59,1969,,Aktuel værdi
+Klitvej 109970 Strandby,ndby,460.000,25-07-2003,Alm. Salg,4.742,3,Villa,97,2016,,Aktuel værdi
+Strandvej 929970 Strandby,ndby,350.000,22-07-2003,Fam. Salg,1.325,6,Villa,264,2005,,Aktuel værdi
+Rapsmarken 89970 Strandby,ndby,775.000,20-07-2003,Alm. Salg,12.109,3,Sommerhus,64,1983,,Aktuel værdi
+Skramgårdsvej 29970 Strandby,ndby,785.000,08-07-2003,Alm. Salg,6.541,4,Villa,120,1962,,Aktuel værdi
+Rypevej 79970 Strandby,ndby,595.000,05-07-2003,Alm. Salg,4.440,4,Villa,134,1965,,Aktuel værdi
+Munkevej 99970 Strandby,ndby,350.000,04-07-2003,Alm. Salg,3.431,5,Villa,102,1936,,Aktuel værdi
+Rugholm 239970 Strandby,ndby,570.000,16-06-2003,Alm. Salg,5.876,4,Sommerhus,97,1976,,Aktuel værdi
+Strandvej 149970 Strandby,ndby,440.000,27-05-2003,Alm. Salg,4.489,3,Villa,98,1947,,Aktuel værdi
+Strandvej 809970 Strandby,ndby,655.000,15-05-2003,Alm. Salg,-,6,Villa,141,1970,,Aktuel værdi
+Digetsvej 79970 Strandby,ndby,870.000,01-05-2003,Alm. Salg,4.780,6,Villa,182,1931,,Aktuel værdi
+Munkevej 289970 Strandby,ndby,750.000,27-04-2003,Alm. Salg,6.696,4,Villa,112,1960,,Aktuel værdi
+Valmuevej 189970 Strandby,ndby,831.000,25-04-2003,Alm. Salg,-,7,Villa,187,1980,,Aktuel værdi
+Søndervej 239970 Strandby,ndby,350.000,25-04-2003,Fam. Salg,2.734,4,Villa,128,1900,,Aktuel værdi
+Røllikevej 39970 Strandby,ndby,900.000,07-04-2003,Alm. Salg,7.377,4,Villa,122,1986,,Aktuel værdi
+Skagensvej 2509970 Strandby,ndby,1.000.000,16-03-2003,Alm. Salg,-,5,Stuehus,207,1919,,
+Egerisvej 19B9970 Strandby,ndby,1.100.000,20-02-2003,Andet,7.913,5,Stuehus,139,1982,,
+Sennepsmarken 219970 Strandby,ndby,170.000,17-02-2003,Alm. Salg,2.179,4,Sommerhus,78,2004,,Aktuel værdi
+Kornblomstvej 39970 Strandby,ndby,400.000,12-02-2003,Fam. Salg,2.380,5,Villa,168,1979,,Aktuel værdi
+Tangvej 69970 Strandby,ndby,510.000,30-01-2003,Alm. Salg,5.257,4,Villa,97,1950,,Aktuel værdi
+Rugholm 129970 Strandby,ndby,540.000,25-01-2003,Alm. Salg,8.437,4,Sommerhus,64,1983,,Aktuel værdi
+Sennepsmarken 119970 Strandby,ndby,610.000,19-12-2002,Alm. Salg,7.820,4,Sommerhus,78,1986,,Aktuel værdi
+Kløvermarken 89970 Strandby,ndby,510.000,18-11-2002,Alm. Salg,9.444,3,Sommerhus,54,1972,,Aktuel værdi
+Egerisvej 119970 Strandby,ndby,1.419.999,13-11-2002,Fam. Salg,-,7,Villa,250,1999,,Aktuel værdi
+Nørgårdsvej 319970 Strandby,ndby,600.000,04-11-2002,Alm. Salg,4.411,4,Rækkehus,136,1973,,Aktuel værdi
+Stationsvej 109970 Strandby,ndby,525.000,29-10-2002,Fam. Salg,3.776,5,Villa,139,1943,,Aktuel værdi
+Rugengen 49970 Strandby,ndby,1.020.000,28-10-2002,Alm. Salg,5.230,7,Villa,195,1984,,Aktuel værdi
+Strandvej 229970 Strandby,ndby,560.000,25-10-2002,Alm. Salg,5.714,2,Villa,98,1954,,Aktuel værdi
+Hannesvej 189970 Strandby,ndby,435.000,01-10-2002,Alm. Salg,4.182,4,Villa,104,1964,,Aktuel værdi
+Rugengen 89970 Strandby,ndby,1.180.200,30-09-2002,Fam. Salg,6.630,4,Villa,178,1985,,Aktuel værdi
+Havnevej 209970 Strandby,ndby,525.000,12-09-2002,Fam. Salg,3.523,7,Villa,149,1897,,Aktuel værdi
+Røllikevej 29970 Strandby,ndby,140.000,06-09-2002,Alm. Salg,897,5,Villa,156,2003,,Aktuel værdi
+Skagensvej 2589970 Strandby,ndby,365.000,04-06-2002,Alm. Salg,-,4,Villa,113,1900,,Aktuel værdi
+Tordenskjoldsvej 129970 Strandby,ndby,630.000,24-05-2002,Alm. Salg,4.883,4,Villa,129,1963,,Aktuel værdi
+Rugholm 219970 Strandby,ndby,635.000,13-05-2002,Alm. Salg,-,6,Sommerhus,115,1977,,Aktuel værdi
+Hannesvej 129970 Strandby,ndby,670.000,17-04-2002,Alm. Salg,4.466,6,Villa,150,1964,,Aktuel værdi
+Stationsvej 29970 Strandby,ndby,730.000,08-04-2002,Alm. Salg,5.530,5,Villa,132,1926,,Aktuel værdi
+Nørgårdsvej 419970 Strandby,ndby,498.513,08-04-2002,Fam. Salg,2.307,8,Villa,216,1963,,Aktuel værdi
+Snerlevej 1A9970 Strandby,ndby,450.000,27-03-2002,Alm. Salg,-,3,Villa,101,1963,,Aktuel værdi
+Munkevej 29970 Strandby,ndby,326.000,21-03-2002,Alm. Salg,1.509,6,Villa,216,1922,,Aktuel værdi
+Strandvej 389970 Strandby,ndby,515.000,15-03-2002,Alm. Salg,4.557,3,Villa,113,1961,,Aktuel værdi
+Strandvej 1309970 Strandby,ndby,610.000,11-03-2002,Fam. Salg,12.708,3,Sommerhus,48,1934,,Aktuel værdi
+Sennepsmarken 299970 Strandby,ndby,900.000,03-02-2002,Alm. Salg,11.392,4,Sommerhus,79,1993,,Aktuel værdi
+Røllikevej 69970 Strandby,ndby,1.565.000,29-01-2002,Alm. Salg,9.842,5,Villa,159,1991,,Aktuel værdi
+Hannesvej 49970 Strandby,ndby,435.000,17-01-2002,Alm. Salg,4.438,3,Villa,98,1963,,Aktuel værdi
+Valmuevej 89970 Strandby,ndby,790.000,14-01-2002,Alm. Salg,7.181,4,Villa,110,1980,,Aktuel værdi
+Møjen 279970 Strandby,ndby,390.000,10-01-2002,Alm. Salg,5.820,4,Sommerhus,67,1950,,Aktuel værdi
+Hegnsvej 109970 Strandby,ndby,950.000,09-01-2002,Alm. Salg,6.089,6,Villa,156,1976,,Aktuel værdi
+Rugholm 439970 Strandby,ndby,636.000,27-12-2001,Alm. Salg,12.979,3,Sommerhus,49,1977,,Aktuel værdi
+Klitmarken 129970 Strandby,ndby,980.277,25-11-2001,Alm. Salg,11.139,5,Sommerhus,88,1995,,Aktuel værdi
+Stationsvej 269970 Strandby,ndby,300.000,23-11-2001,Alm. Salg,3.571,4,Villa,84,1957,,Aktuel værdi
+Bygmarken 239970 Strandby,ndby,365.500,26-10-2001,Alm. Salg,-,4,Sommerhus,76,1969,,Aktuel værdi
+Munkevej 13A9970 Strandby,ndby,128.000,25-10-2001,Alm. Salg,977,4,Villa,131,2001,,Aktuel værdi
+Hannesvej 179970 Strandby,ndby,848.000,01-10-2001,Alm. Salg,5.691,5,Villa,149,1960,,Aktuel værdi
+Tranevej 129970 Strandby,ndby,370.000,26-09-2001,Fam. Salg,4.404,3,Villa,84,1959,,Aktuel værdi
+Nørgårdsvej 569970 Strandby,ndby,205.000,07-09-2001,Alm. Salg,1.145,5,Villa,179,2002,,Aktuel værdi
+Møjen 159970 Strandby,ndby,765.000,16-08-2001,Alm. Salg,7.574,4,Sommerhus,101,2006,,Aktuel værdi
+Digetsvej 159970 Strandby,ndby,765.000,06-08-2001,Alm. Salg,5.000,4,Villa,153,1969,,Aktuel værdi
+Kirkevej 29970 Strandby,ndby,350.000,30-07-2001,Fam. Salg,-,2,Villa,66,1909,,Aktuel værdi
+Haldsvej 129970 Strandby,ndby,575.000,23-07-2001,Alm. Salg,-,6,Villa,119,1960,,Aktuel værdi
+Stationsvej 429970 Strandby,ndby,800.000,08-06-2001,Alm. Salg,-,6,Villa,182,1967,,Aktuel værdi
+Følfodvej 289970 Strandby,ndby,1.299.500,05-06-2001,Alm. Salg,-,6,Villa,198,1998,,Aktuel værdi
+Rughaven 3B9970 Strandby,ndby,260.000,17-05-2001,Alm. Salg,1.274,6,Villa,204,2002,,Aktuel værdi
+Kløvermarken 99970 Strandby,ndby,450.000,14-05-2001,Fam. Salg,7.377,4,Sommerhus,61,1973,,Aktuel værdi
+Rugmarken 289970 Strandby,ndby,480.000,09-04-2001,Alm. Salg,5.517,4,Sommerhus,87,2012,,Aktuel værdi
+Skolevej 19970 Strandby,ndby,260.000,09-04-2001,Alm. Salg,-,3,Villa,100,1937,,Aktuel værdi
+Røllikevej 89970 Strandby,ndby,175.000,24-03-2001,Alm. Salg,1.215,5,Villa,144,2001,,Aktuel værdi
+Søndervej 219970 Strandby,ndby,1.110.000,22-03-2001,Alm. Salg,6.201,4,Villa,179,1877,,Aktuel værdi
+Søndervej 349970 Strandby,ndby,900.000,14-02-2001,Fam. Salg,5.202,6,Villa,173,1934,,Aktuel værdi
+Følfodvej 69970 Strandby,ndby,1.550.000,02-02-2001,Alm. Salg,9.567,6,Villa,162,1999,,Aktuel værdi
+Strandvej 99C9970 Strandby,ndby,2.074.110,16-01-2001,Alm. Salg,9.218,6,Villa,225,1988,,Aktuel værdi
+Digetsvej 409970 Strandby,ndby,470.000,15-01-2001,Alm. Salg,4.051,4,Villa,116,1966,,Aktuel værdi
+Strandvej 139970 Strandby,ndby,1.062.500,11-01-2001,Fam. Salg,4.829,8,Villa,220,1949,,Aktuel værdi
+Strandvej 129A9970 Strandby,ndby,595.000,22-12-2000,Alm. Salg,4.047,5,Villa,147,2006,,Aktuel værdi
+Sennepsmarken 59970 Strandby,ndby,670.000,15-11-2000,Alm. Salg,9.305,4,Sommerhus,72,1986,,Aktuel værdi
+Rugmarken 99970 Strandby,ndby,450.000,02-11-2000,Alm. Salg,6.716,4,Sommerhus,67,1970,,Aktuel værdi
+Stationsvej 319970 Strandby,ndby,810.000,02-11-2000,Fam. Salg,5.062,4,Villa,160,1968,,Aktuel værdi
+Rugholm 419970 Strandby,ndby,700.000,22-10-2000,Alm. Salg,7.142,4,Sommerhus,98,1974,,Aktuel værdi
+Udegårdsvej 289970 Strandby,ndby,941.000,17-07-2000,Alm. Salg,6.626,5,Villa,142,1977,,Aktuel værdi
+Hegnsvej 19970 Strandby,ndby,945.000,18-06-2000,Alm. Salg,6.136,5,Villa,154,1978,,Aktuel værdi
+Svalevej 119970 Strandby,ndby,570.000,15-06-2000,Alm. Salg,5.089,4,Villa,112,1963,,Aktuel værdi
+Digetsvej 199970 Strandby,ndby,870.000,08-06-2000,Alm. Salg,5.471,5,Villa,159,1968,,Aktuel værdi
+Udegårdsvej 259970 Strandby,ndby,876.000,27-05-2000,Alm. Salg,4.949,7,Villa,177,1972,,Aktuel værdi
+Nørrevej 209970 Strandby,ndby,545.000,10-05-2000,Fam. Salg,2.898,7,Villa,188,1959,,Aktuel værdi
+Stationsvej 149970 Strandby,ndby,585.000,05-04-2000,Fam. Salg,5.416,4,Villa,108,1934,,Aktuel værdi
+Nymarksvej 79970 Strandby,ndby,725.000,28-01-2000,Alm. Salg,3.661,6,Villa,198,1965,,Aktuel værdi
+Munkevej 199970 Strandby,ndby,400.000,28-01-2000,Alm. Salg,4.395,4,Villa,91,1959,,Aktuel værdi
+Søndervej 39970 Strandby,ndby,550.000,24-01-2000,Alm. Salg,3.900,4,Villa,141,1935,,Aktuel værdi
+Nørgårdsvej 29970 Strandby,ndby,375.000,20-01-2000,Alm. Salg,-,3,Villa,88,1948,,Aktuel værdi
+Rugengen 149970 Strandby,ndby,944.000,10-12-1999,Alm. Salg,7.097,5,Villa,133,1984,,Aktuel værdi
+Strandvej 559970 Strandby,ndby,660.000,10-12-1999,Alm. Salg,4.615,4,Villa,143,1932,,Aktuel værdi
+Havremarken 109970 Strandby,ndby,315.000,22-11-1999,Alm. Salg,-,4,Sommerhus,64,1974,,Aktuel værdi
+Bygmarken 209970 Strandby,ndby,380.000,18-11-1999,Alm. Salg,5.671,4,Sommerhus,67,1975,,Aktuel værdi
+Anemonevej 59970 Strandby,ndby,1.120.000,10-11-1999,Alm. Salg,6.363,6,Villa,176,1982,,Aktuel værdi
+Digetsvej 539970 Strandby,ndby,775.000,26-09-1999,Alm. Salg,6.054,5,Villa,128,1979,,Aktuel værdi
+Digetsvej 41B9970 Strandby,ndby,1.192.000,24-09-1999,Alm. Salg,6.340,6,Villa,188,1979,,Aktuel værdi
+Klitvej 89970 Strandby,ndby,392.345,09-09-1999,Fam. Salg,3.411,5,Villa,115,1965,,Aktuel værdi
+Stationsvej 379970 Strandby,ndby,525.000,08-09-1999,Alm. Salg,4.772,4,Villa,110,1963,,Aktuel værdi
+Havremarken 99970 Strandby,ndby,500.000,03-09-1999,Alm. Salg,6.250,7,Sommerhus,80,1973,,Aktuel værdi
+Hegnsvej 119970 Strandby,ndby,1.025.000,25-08-1999,Alm. Salg,7.481,5,Villa,137,1976,,Aktuel værdi
+Munkevej 279970 Strandby,ndby,350.000,06-08-1999,Alm. Salg,-,3,Villa,140,1958,,Aktuel værdi
+Hegnsvej 209970 Strandby,ndby,945.000,23-06-1999,Alm. Salg,6.019,6,Villa,157,1976,,Aktuel værdi
+Bygmarken 139970 Strandby,ndby,85.000,11-06-1999,Alm. Salg,825,2,Sommerhus,103,2003,,Aktuel værdi
+Lærkevej 39970 Strandby,ndby,688.000,27-05-1999,Alm. Salg,4.144,6,Villa,166,1964,,Aktuel værdi
+Tranevej 59970 Strandby,ndby,514.931,19-05-1999,Alm. Salg,4.597,2,Villa,112,1950,,Aktuel værdi
+Havremarken 129970 Strandby,ndby,400.000,04-05-1999,Fam. Salg,5.194,4,Sommerhus,77,1972,,Aktuel værdi
+Haldsvej 179970 Strandby,ndby,618.000,29-04-1999,Alm. Salg,-,5,Villa,148,1960,,Aktuel værdi
+Nørrevej 89970 Strandby,ndby,595.000,27-04-1999,Alm. Salg,6.071,4,Villa,98,1934,,Aktuel værdi
+Haldsvej 479970 Strandby,ndby,870.000,07-04-1999,Alm. Salg,-,9,Villa,245,1976,,Aktuel værdi
+Snerlevej 59970 Strandby,ndby,845.000,28-03-1999,Alm. Salg,4.183,6,Villa,202,1916,,Aktuel værdi
+Rypevej 19970 Strandby,ndby,930.000,18-03-1999,Alm. Salg,5.027,6,Villa,185,1965,,Aktuel værdi
+Kajgårdsvej 129970 Strandby,ndby,675.884,15-03-1999,Alm. Salg,5.877,4,Villa,115,1972,,Aktuel værdi
+Agervej 369970 Strandby,ndby,971.000,14-03-1999,Alm. Salg,5.306,8,Villa,183,1966,,Aktuel værdi
+Nørgårdsvej 39970 Strandby,ndby,374.776,27-01-1999,Fam. Salg,2.230,5,Villa,168,1963,,Aktuel værdi
+Sennepsmarken 229970 Strandby,ndby,495.000,20-01-1999,Alm. Salg,8.114,4,Sommerhus,61,1986,,Aktuel værdi
+Strandvej 1339970 Strandby,ndby,580.361,15-01-1999,Alm. Salg,-,6,Villa,187,1992,,Aktuel værdi
+Niels Tvillings Vej 59970 Strandby,ndby,340.000,13-01-1999,Fam. Salg,3.238,4,Villa,105,1932,,Aktuel værdi
+Havnevej 179970 Strandby,ndby,245.000,29-12-1998,Alm. Salg,-,2,Villa,106,1932,,Aktuel værdi
+Bygmarken 219970 Strandby,ndby,430.000,25-12-1998,Fam. Salg,8.113,4,Sommerhus,53,1969,,Aktuel værdi
+Hegnsvej 239970 Strandby,ndby,790.000,09-12-1998,Alm. Salg,4.224,5,Villa,187,1975,,Aktuel værdi
+Udegårdsvej 189970 Strandby,ndby,888.000,21-11-1998,Alm. Salg,-,5,Villa,164,1972,,Aktuel værdi
+Klitmarken 3A9970 Strandby,ndby,505.000,13-11-1998,Alm. Salg,9.017,4,Sommerhus,56,1979,,Aktuel værdi
+Følfodvej 49970 Strandby,ndby,131.835,22-10-1998,Alm. Salg,-,3,Villa,121,1999,,Aktuel værdi
+Rapsmarken 149970 Strandby,ndby,555.000,16-09-1998,Alm. Salg,8.283,3,Sommerhus,67,1984,,Aktuel værdi
+Strandvej 20B9970 Strandby,ndby,775.000,11-09-1998,Alm. Salg,6.150,4,Villa,126,1978,,Aktuel værdi
+Røllikevej 169970 Strandby,ndby,820.000,13-08-1998,Alm. Salg,-,5,Villa,178,1988,,Aktuel værdi
+Krøghsvej 119970 Strandby,ndby,374.000,25-06-1998,Alm. Salg,-,6,Villa,201,1999,,Aktuel værdi
+Møjen 8D9970 Strandby,ndby,960.700,24-06-1998,Alm. Salg,5.221,5,Sommerhus,184,1980,,Aktuel værdi
+Bygmarken 129970 Strandby,ndby,376.000,15-06-1998,Alm. Salg,8.355,3,Sommerhus,45,1981,,Aktuel værdi
+Kejserbakken 79970 Strandby,ndby,920.000,27-05-1998,Alm. Salg,-,7,Villa,156,1980,,Aktuel værdi
+Grøftekanten 119970 Strandby,ndby,540.000,27-05-1998,Alm. Salg,5.454,3,Rækkehus,99,1981,,Aktuel værdi
+Sennepsmarken 159970 Strandby,ndby,593.000,26-05-1998,Alm. Salg,8.850,4,Sommerhus,67,1986,,Aktuel værdi
+Strandvej 269970 Strandby,ndby,405.000,26-05-1998,Alm. Salg,-,5,Villa,120,1946,,Aktuel værdi
+Krøghsvej 139970 Strandby,ndby,200.000,13-05-1998,Alm. Salg,2.597,3,Villa,77,1877,,Aktuel værdi
+Sennepsmarken 249970 Strandby,ndby,480.000,07-05-1998,Alm. Salg,-,5,Sommerhus,80,1986,,Aktuel værdi
+Nørgårdsvej 909970 Strandby,ndby,1.200.000,27-04-1998,Fam. Salg,3.174,9,Stuehus,378,2015,,
+Snerlevej 19970 Strandby,ndby,777.000,23-04-1998,Alm. Salg,5.285,6,Villa,147,1911,,Aktuel værdi
+Hannesvej 149970 Strandby,ndby,895.000,28-03-1998,Alm. Salg,5.000,6,Villa,179,1964,,Aktuel værdi
+Rapsmarken 69970 Strandby,ndby,482.000,23-03-1998,Alm. Salg,6.885,4,Sommerhus,70,1983,,Aktuel værdi
+Agervej 219970 Strandby,ndby,639.000,10-03-1998,Alm. Salg,6.726,3,Villa,95,1946,,Aktuel værdi
+Digetsvej 439970 Strandby,ndby,915.000,25-02-1998,Alm. Salg,6.398,4,Villa,143,1979,,Aktuel værdi
+Stationsvej 309970 Strandby,ndby,585.000,23-02-1998,Alm. Salg,-,7,Villa,176,1958,,Aktuel værdi
+Haldsvej 469970 Strandby,ndby,785.000,04-02-1998,Alm. Salg,5.304,5,Villa,148,1976,,Aktuel værdi
+Følfodvej 269970 Strandby,ndby,99.450,27-01-1998,Alm. Salg,715,4,Villa,139,1999,,Aktuel værdi
+Møjen 209970 Strandby,ndby,255.162,23-12-1997,Alm. Salg,3.001,4,Sommerhus,85,1998,,Aktuel værdi
+Rughaven 239970 Strandby,ndby,275.000,17-12-1997,Alm. Salg,5.500,4,Sommerhus,50,1960,,Aktuel værdi
+Klitmarken 19970 Strandby,ndby,600.000,28-11-1997,Alm. Salg,7.692,4,Sommerhus,78,1986,,Aktuel værdi
+Røllikevej 179970 Strandby,ndby,135.000,15-11-1997,Alm. Salg,813,6,Villa,166,2001,,Aktuel værdi
+Møjen 129970 Strandby,ndby,675.000,05-11-1997,Alm. Salg,9.926,4,Sommerhus,68,1963,,Aktuel værdi
+Skagensvej 2529970 Strandby,ndby,793.500,31-10-1997,Alm. Salg,3.362,5,Villa,236,1908,,Aktuel værdi
+Lærkevej 119970 Strandby,ndby,440.000,27-09-1997,Alm. Salg,2.913,5,Villa,151,1965,,Aktuel værdi
+Følfodvej 119970 Strandby,ndby,117.937,26-09-1997,Alm. Salg,556,6,Villa,212,1998,,Aktuel værdi
+Følfodvej 19970 Strandby,ndby,115.260,15-09-1997,Alm. Salg,707,4,Villa,163,1998,,Aktuel værdi
+Skeltvedvej 699970 Strandby,ndby,1.198.950,01-09-1997,Alm. Salg,8.268,5,Villa,145,1988,,Aktuel værdi
+Strandvej 91B9970 Strandby,ndby,1.195.000,14-08-1997,Alm. Salg,8.356,5,Villa,143,1986,,Aktuel værdi
+Røllikevej 159970 Strandby,ndby,885.000,11-08-1997,Alm. Salg,4.783,6,Villa,185,1985,,Aktuel værdi
+Følfodvej 249970 Strandby,ndby,955.000,08-08-1997,Alm. Salg,6.541,5,Villa,146,1986,,Aktuel værdi
+Digetsvej 99970 Strandby,ndby,660.000,06-08-1997,Alm. Salg,6.111,3,Villa,108,1961,,Aktuel værdi
+Møjen 169970 Strandby,ndby,177.000,23-07-1997,Fam. Salg,1.903,4,Sommerhus,93,1936,,Aktuel værdi
+Bygmarken 189970 Strandby,ndby,283.000,14-07-1997,Alm. Salg,5.549,3,Sommerhus,51,1969,,Aktuel værdi
+Strandvej 89970 Strandby,ndby,1.100.000,27-06-1997,Alm. Salg,4.435,6,Villa,248,1960,,Aktuel værdi
+Jernbanevej 20B9970 Strandby,ndby,500.000,20-06-1997,Alm. Salg,5.050,3,Rækkehus,99,1980,,Aktuel værdi
+Strandvej 74A9970 Strandby,ndby,520.000,05-05-1997,Alm. Salg,3.768,7,Villa,138,1964,,Aktuel værdi
+Tordenskjoldsvej 99970 Strandby,ndby,520.000,05-05-1997,Fam. Salg,4.160,3,Villa,125,1963,,Aktuel værdi
+Stationsvej 229970 Strandby,ndby,1.370.720,30-04-1997,Alm. Salg,5.375,6,Villa,255,1970,,Aktuel værdi
+Rughaven 99970 Strandby,ndby,390.000,09-04-1997,Alm. Salg,1.839,6,Villa,212,1999,,Aktuel værdi
+Strandvej 125B9970 Strandby,ndby,1.432.000,06-04-1997,Alm. Salg,-,8,Villa,233,1981,,Aktuel værdi
+Møjen 10B9970 Strandby,ndby,1.520.000,14-03-1997,Alm. Salg,10.201,6,Sommerhus,149,1997,,Aktuel værdi
+Rypevej 159970 Strandby,ndby,737.000,07-03-1997,Alm. Salg,4.309,6,Villa,171,1967,,Aktuel værdi
+Tranevej 119970 Strandby,ndby,582.000,28-02-1997,Alm. Salg,3.683,3,Villa,158,1964,,Aktuel værdi
+Havremarken 69970 Strandby,ndby,379.000,15-02-1997,Alm. Salg,6.890,4,Sommerhus,55,1974,,Aktuel værdi
+Søndervej 189970 Strandby,ndby,555.000,30-01-1997,Alm. Salg,-,4,Villa,123,1961,,Aktuel værdi
+Stationsvej 159970 Strandby,ndby,612.000,19-12-1996,Andet,3.558,5,Villa,172,1960,,Aktuel værdi
+Skramgårdsvej 49970 Strandby,ndby,935.000,09-12-1996,Alm. Salg,4.651,8,Villa,201,1964,,Aktuel værdi
+Nørgårdsvej 99970 Strandby,ndby,498.000,26-11-1996,Alm. Salg,4.527,4,Villa,110,1961,,Aktuel værdi
+Grøftekanten 139970 Strandby,ndby,500.000,20-11-1996,Alm. Salg,5.050,3,Rækkehus,99,1981,,Aktuel værdi
+Kejserbakken 29970 Strandby,ndby,1.430.000,04-10-1996,Alm. Salg,6.651,6,Villa,215,1984,,Aktuel værdi
+Søndervej 89970 Strandby,ndby,730.000,03-10-1996,Alm. Salg,-,7,Villa,178,1972,,Aktuel værdi
+Rugmarken 269970 Strandby,ndby,360.000,01-10-1996,Alm. Salg,-,4,Sommerhus,71,1969,,Aktuel værdi
+Haldsvej 229970 Strandby,ndby,727.000,30-09-1996,Alm. Salg,5.345,5,Villa,136,1979,,Aktuel værdi
+Kornblomstvej 59970 Strandby,ndby,830.000,26-09-1996,Alm. Salg,4.825,5,Villa,172,1979,,Aktuel værdi
+Ranunkelvej 29970 Strandby,ndby,650.000,16-09-1996,Alm. Salg,5.752,5,Villa,113,1980,,Aktuel værdi
+Følfodvej 39970 Strandby,ndby,124.695,06-09-1996,Alm. Salg,724,5,Villa,172,1998,,Aktuel værdi
+Klitmarken 119970 Strandby,ndby,221.666,06-09-1996,Fam. Salg,2.358,4,Sommerhus,94,1979,,Aktuel værdi
+Nørrevej 3B9970 Strandby,ndby,535.000,02-09-1996,Fam. Salg,3.876,4,Villa,138,1930,,Aktuel værdi
+Havremarken 49970 Strandby,ndby,50.000,22-08-1996,Alm. Salg,781,5,Sommerhus,64,2001,,Aktuel værdi
+Nørrevej 199970 Strandby,ndby,570.000,16-08-1996,Alm. Salg,4.830,4,Villa,118,1960,,Aktuel værdi
+Strandvej 859970 Strandby,ndby,250.000,20-06-1996,Alm. Salg,1.811,4,Villa,138,1943,,Aktuel værdi
+Udegårdsvej 129970 Strandby,ndby,605.000,20-06-1996,Alm. Salg,4.352,5,Villa,139,1972,,Aktuel værdi
+Munkevej 259970 Strandby,ndby,376.000,11-06-1996,Alm. Salg,2.892,5,Villa,130,1958,,Aktuel værdi
+Nørrevej 299970 Strandby,ndby,1.048.000,07-06-1996,Alm. Salg,-,7,Villa,243,1976,,Aktuel værdi
+Rugmarken 159970 Strandby,ndby,270.000,20-05-1996,Alm. Salg,-,4,Sommerhus,76,1974,,Aktuel værdi
+Følfodvej 129970 Strandby,ndby,125.715,16-05-1996,Alm. Salg,917,6,Villa,137,1997,,Aktuel værdi
+Nørrevej 159970 Strandby,ndby,320.000,26-04-1996,Alm. Salg,-,4,Villa,161,1917,,Aktuel værdi
+Valmuevej 109970 Strandby,ndby,820.000,10-04-1996,Alm. Salg,5.985,5,Villa,137,1980,,Aktuel værdi
+Tangvej 29970 Strandby,ndby,650.000,27-03-1996,Alm. Salg,4.391,4,Villa,148,1932,,Aktuel værdi
+Strandvej 97A9970 Strandby,ndby,467.500,20-03-1996,Fam. Salg,2.799,5,Villa,167,1991,,Aktuel værdi
+Strandbyvej 1199970 Strandby,ndby,1.000.000,04-03-1996,Alm. Salg,2.785,10,Stuehus,359,1915,,
+Nymarksvej 59970 Strandby,ndby,375.000,04-03-1996,Alm. Salg,2.906,4,Villa,129,1965,,Aktuel værdi
+Møjen 59970 Strandby,ndby,255.000,17-02-1996,Fam. Salg,3.695,3,Sommerhus,69,1964,,Aktuel værdi
+Agervej 239970 Strandby,ndby,270.000,29-12-1995,Alm. Salg,3.913,2,Villa,69,1917,,Aktuel værdi
+Følfodvej 169970 Strandby,ndby,890.000,22-12-1995,Alm. Salg,-,5,Villa,149,1986,,Aktuel værdi
+Munkevej 89970 Strandby,ndby,297.255,28-11-1995,Auktion,3.377,5,Villa,88,1934,,Aktuel værdi
+Rugmarken 20A9970 Strandby,ndby,700.000,27-11-1995,Alm. Salg,5.737,6,Sommerhus,122,1976,,Aktuel værdi
+Snerlevej 49970 Strandby,ndby,340.000,16-11-1995,Fam. Salg,-,4,Villa,129,1934,,Aktuel værdi
+Nørrevej 319970 Strandby,ndby,545.000,07-11-1995,Fam. Salg,4.360,4,Villa,125,1962,,Aktuel værdi
+Søndervej 289970 Strandby,ndby,395.000,13-10-1995,Alm. Salg,5.895,3,Rækkehus,67,1800,,Aktuel værdi
+Hegnsvej 199970 Strandby,ndby,747.000,17-08-1995,Alm. Salg,4.788,5,Villa,156,1977,,Aktuel værdi
+Rugskellet 69970 Strandby,ndby,400.000,14-08-1995,Alm. Salg,-,6,Villa,184,1892,,Aktuel værdi
+Skeltvedvej 8A9970 Strandby,ndby,1.074.495,06-08-1995,Alm. Salg,4.054,7,Villa,265,1911,,Aktuel værdi
+Strandvej 909970 Strandby,ndby,238.000,03-07-1995,Fam. Salg,3.718,4,Sommerhus,64,1973,,Aktuel værdi
+Møjen 309970 Strandby,ndby,235.000,30-06-1995,Alm. Salg,-,3,Sommerhus,71,1938,,Aktuel værdi
+Strandvej 1059970 Strandby,ndby,300.000,16-06-1995,Fam. Salg,-,5,Sommerhus,106,1952,,Aktuel værdi
+Nørtvedvej 89970 Strandby,ndby,750.000,15-06-1995,Fam. Salg,3.926,7,Stuehus,191,1930,,
+Haldsvej 209970 Strandby,ndby,560.000,03-06-1995,Alm. Salg,4.242,4,Villa,132,1964,,Aktuel værdi
+Anemonevej 39970 Strandby,ndby,125.000,21-05-1995,Alm. Salg,690,6,Villa,181,1996,,Aktuel værdi
+Stationsvej 39970 Strandby,ndby,525.000,05-05-1995,Alm. Salg,-,5,Villa,153,1932,,Aktuel værdi
+Tordenskjoldsvej 89970 Strandby,ndby,620.000,30-04-1995,Alm. Salg,-,6,Villa,179,1974,,Aktuel værdi
+Haldsvej 329970 Strandby,ndby,670.000,27-04-1995,Alm. Salg,3.850,6,Villa,174,1972,,Aktuel værdi
+Kajgårdsvej 49970 Strandby,ndby,425.000,17-04-1995,Alm. Salg,3.863,4,Villa,110,1937,,Aktuel værdi
+Stentevej 69970 Strandby,ndby,815.000,04-04-1995,Alm. Salg,4.075,6,Villa,200,1976,,Aktuel værdi
+Kirkevej 59970 Strandby,ndby,682.330,27-03-1995,Alm. Salg,4.110,5,Villa,166,1897,,Aktuel værdi
+Grøftekanten 29970 Strandby,ndby,677.500,26-02-1995,Alm. Salg,4.737,5,Villa,143,1977,,Aktuel værdi
+Følfodvej 149970 Strandby,ndby,771.000,08-02-1995,Alm. Salg,-,5,Villa,146,1986,,Aktuel værdi
+Kløvermarken 159970 Strandby,ndby,40.950,27-01-1995,Fam. Salg,375,3,Sommerhus,109,1999,,Aktuel værdi
+Digetsvej 249970 Strandby,ndby,395.000,26-01-1995,Alm. Salg,-,3,Villa,78,1962,,Aktuel værdi
+Tordenskjoldsvej 49970 Strandby,ndby,460.000,01-01-1995,Andet,2.839,6,Villa,162,1965,,Aktuel værdi
+Tordenskjoldsvej 109970 Strandby,ndby,750.000,19-12-1994,Alm. Salg,-,5,Villa,177,1973,,Aktuel værdi
+Strandvej 449970 Strandby,ndby,188.000,16-12-1994,Auktion,899,5,Villa,209,1943,,Aktuel værdi
+Agervej 59970 Strandby,ndby,433.000,05-12-1994,Alm. Salg,-,4,Villa,137,1964,,Aktuel værdi
+Bellisvej 79970 Strandby,ndby,670.000,13-11-1994,Alm. Salg,3.681,6,Villa,182,1979,,Aktuel værdi
+Strandvej 159970 Strandby,ndby,438.000,30-09-1994,Alm. Salg,4.380,2,Villa,100,1958,,Aktuel værdi
+Hannesvej 229970 Strandby,ndby,400.000,24-08-1994,Alm. Salg,4.444,2,Villa,90,1962,,Aktuel værdi
+Rapsmarken 29970 Strandby,ndby,528.000,19-04-1994,Alm. Salg,8.250,3,Sommerhus,64,1984,,Aktuel værdi
+Havremarken 89970 Strandby,ndby,130.000,06-04-1994,Fam. Salg,-,4,Sommerhus,99,1974,,Aktuel værdi
+Strandvej 749970 Strandby,ndby,260.000,08-03-1994,Alm. Salg,-,3,Villa,100,1944,,Aktuel værdi
+Grøftekanten 89970 Strandby,ndby,534.000,01-03-1994,Alm. Salg,4.171,4,Villa,128,1979,,Aktuel værdi
+Kornblomstvej 169970 Strandby,ndby,600.000,27-01-1994,Alm. Salg,-,5,Villa,159,1979,,Aktuel værdi
+Strandvej 100A9970 Strandby,ndby,1.000.000,22-01-1994,Alm. Salg,-,2,Villa,110,1961,,Aktuel værdi
+Strandvej 359970 Strandby,ndby,169.221,11-01-1994,Alm. Salg,-,5,Villa,188,1948,,Aktuel værdi
+Digetsvej 459970 Strandby,ndby,620.500,29-12-1993,Fam. Salg,4.003,6,Villa,155,1980,,Aktuel værdi
+Munkevej 239970 Strandby,ndby,585.000,28-12-1993,Alm. Salg,4.178,4,Villa,140,1962,,Aktuel værdi
+Anemonevej 49970 Strandby,ndby,100.000,23-12-1993,Alm. Salg,-,6,Villa,183,1994,,Aktuel værdi
+Vandværksvej 239970 Strandby,ndby,200.000,22-12-1993,Auktion,865,7,Villa,231,1971,,Aktuel værdi
+Digetsvej 129970 Strandby,ndby,295.000,26-11-1993,Alm. Salg,5.175,2,Villa,57,1933,,Aktuel værdi
+Rughaven 7B9970 Strandby,ndby,275.000,11-11-1993,Alm. Salg,-,2,Villa,42,1967,,Aktuel værdi
+Søndervej 4A9970 Strandby,ndby,550.000,05-11-1993,Alm. Salg,3.142,6,Villa,175,1972,,Aktuel værdi
+Anemonevej 149970 Strandby,ndby,590.600,30-10-1993,Alm. Salg,4.921,5,Villa,120,1984,,Aktuel værdi
+Følfodvej 79970 Strandby,ndby,700.000,28-10-1993,Alm. Salg,-,1,Villa,159,1986,,Aktuel værdi
+Digetsvej 89970 Strandby,ndby,500.000,21-10-1993,Auktion,3.246,5,Villa,154,1827,,Aktuel værdi
+Digetsvej 489970 Strandby,ndby,550.000,19-10-1993,Alm. Salg,-,5,Villa,128,1971,,Aktuel værdi
+Egerisvej 49970 Strandby,ndby,715.000,14-10-1993,Auktion,-,5,Villa,160,1964,,Aktuel værdi
+Vandværksvej 199970 Strandby,ndby,677.900,07-10-1993,Alm. Salg,3.389,7,Villa,200,1970,,Aktuel værdi
+Haldsvej 279970 Strandby,ndby,515.000,30-09-1993,Alm. Salg,-,5,Villa,135,1967,,Aktuel værdi
+Anemonevej 89970 Strandby,ndby,515.000,06-09-1993,Alm. Salg,-,7,Villa,227,1980,,Aktuel værdi
+Sennepsmarken 239970 Strandby,ndby,570.000,29-08-1993,Alm. Salg,5.816,4,Sommerhus,98,1993,,Aktuel værdi
+Rugmarken 219970 Strandby,ndby,340.000,25-08-1993,Alm. Salg,-,3,Sommerhus,40,1972,,Aktuel værdi
+Hannesvej 59970 Strandby,ndby,600.500,16-07-1993,Fam. Salg,3.553,7,Villa,169,1965,,Aktuel værdi
+Klitmarken 89970 Strandby,ndby,420.000,22-06-1993,Alm. Salg,-,5,Sommerhus,132,1966,,Aktuel værdi
+Rugskellet 39970 Strandby,ndby,770.000,02-06-1993,Alm. Salg,4.230,6,Villa,182,1974,,Aktuel værdi
+Strandvej 1029970 Strandby,ndby,552.500,29-05-1993,Fam. Salg,3.453,4,Villa,160,2015,,Aktuel værdi
+Strandvej 1019970 Strandby,ndby,350.000,25-05-1993,Alm. Salg,7.000,3,Sommerhus,50,1950,,Aktuel værdi
+Kirkevej 39970 Strandby,ndby,534.000,21-05-1993,Alm. Salg,-,5,Villa,130,1902,,Aktuel værdi
+Bygmarken 159970 Strandby,ndby,240.000,20-05-1993,Alm. Salg,-,4,Sommerhus,98,1971,,Aktuel værdi
+Bellisvej 39970 Strandby,ndby,434.597,29-04-1993,Alm. Salg,3.449,4,Villa,126,1981,,Aktuel værdi
+Strandvej 1299970 Strandby,ndby,204.000,26-03-1993,Fam. Salg,-,2,Sommerhus,53,1958,,Aktuel værdi
+Anemonevej 29970 Strandby,ndby,517.638,16-03-1993,Alm. Salg,-,5,Villa,159,1984,,Aktuel værdi
+Krøghsvej 49970 Strandby,ndby,240.000,08-03-1993,Fam. Salg,2.000,4,Villa,120,1898,,Aktuel værdi
+Røllikevej 139970 Strandby,ndby,700.000,20-02-1993,Alm. Salg,-,6,Villa,181,1985,,Aktuel værdi
+Svalevej 159970 Strandby,ndby,495.000,28-01-1993,Alm. Salg,4.194,4,Villa,118,1968,,Aktuel værdi
+Hegnsvej 159970 Strandby,ndby,625.000,08-01-1993,Alm. Salg,-,8,Villa,179,1980,,Aktuel værdi
+Digetsvej 319970 Strandby,ndby,580.000,22-12-1992,Alm. Salg,3.314,6,Villa,175,1970,,Aktuel værdi
+Stationsvej 139970 Strandby,ndby,475.000,11-12-1992,Alm. Salg,4.702,3,Villa,101,1962,,Aktuel værdi
+Røllikevej 19970 Strandby,ndby,760.000,20-11-1992,Alm. Salg,5.428,5,Villa,140,1986,,Aktuel værdi
+Søndervej 119970 Strandby,ndby,425.000,09-10-1992,Alm. Salg,-,7,Villa,230,1915,,Aktuel værdi
+Agervej 149970 Strandby,ndby,565.000,01-08-1992,Alm. Salg,2.627,5,Villa,215,1968,,Aktuel værdi
+Røllikevej 189970 Strandby,ndby,695.000,22-07-1992,Alm. Salg,-,4,Villa,159,1987,,Aktuel værdi
+Nørgårdsvej 199970 Strandby,ndby,343.000,04-07-1992,Alm. Salg,-,4,Villa,118,1960,,Aktuel værdi
+Strandvej 889970 Strandby,ndby,80.000,30-06-1992,Fam. Salg,909,4,Villa,88,1984,,Aktuel værdi
+Bygmarken 199970 Strandby,ndby,292.826,02-06-1992,Alm. Salg,-,4,Sommerhus,86,1972,,Aktuel værdi
+Strandvej 129B9970 Strandby,ndby,371.500,08-05-1992,Alm. Salg,-,8,Villa,212,1969,,Aktuel værdi
+Rypevej 199970 Strandby,ndby,550.000,26-04-1992,Alm. Salg,3.055,6,Villa,180,1969,,Aktuel værdi
+Vandværksvej 559970 Strandby,ndby,490.000,24-04-1992,Fam. Salg,4.579,4,Villa,107,1973,,Aktuel værdi
+Rapsmarken 109970 Strandby,ndby,340.000,15-04-1992,Alm. Salg,3.063,4,Sommerhus,111,2009,,Aktuel værdi
+Havremarken 39970 Strandby,ndby,440.000,04-04-1992,Alm. Salg,6.470,4,Sommerhus,68,1980,,Aktuel værdi
+Følfodvej 89970 Strandby,ndby,665.000,23-03-1992,Alm. Salg,6.157,4,Villa,108,1987,,Aktuel værdi
+Hejrevej 69970 Strandby,ndby,540.000,12-03-1992,Fam. Salg,3.552,5,Villa,152,1965,,Aktuel værdi
+Lærkevej 149970 Strandby,ndby,520.000,09-03-1992,Fam. Salg,3.058,7,Villa,170,1966,,Aktuel værdi
+Nørrevej 3C9970 Strandby,ndby,315.000,25-02-1992,Alm. Salg,2.863,4,Villa,110,1936,,Aktuel værdi
+Nørgårdsvej 119970 Strandby,ndby,445.000,17-02-1992,Alm. Salg,3.803,5,Villa,117,1959,,Aktuel værdi
+Stationsvej 359970 Strandby,ndby,345.000,23-01-1992,Alm. Salg,3.317,4,Villa,104,1961,,Aktuel værdi

@@ -1,0 +1,694 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Syrenvænget 95631 Ebberup,erup,1.240.000,09-05-2017,Alm. Salg,16.103,5,Sommerhus,77,1971,-10 %,Aktuel værdi
+Topshøj 245631 Ebberup,erup,555.000,13-04-2017,Alm. Salg,8.283,2,Rækkehus,67,1979,-3 %,Aktuel værdi
+Højtoften 125631 Ebberup,erup,1.062.000,11-04-2017,Alm. Salg,7.426,5,Villa,143,1976,-10 %,Aktuel værdi
+Topshøj 4A5631 Ebberup,erup,500.000,06-04-2017,Fam. Salg,7.352,2,Villa,68,1979,,Aktuel værdi
+Gammelhave 95631 Ebberup,erup,1.150.000,31-03-2017,Alm. Salg,15.753,3,Sommerhus,73,1974,-18 %,Aktuel værdi
+Ryet 195631 Ebberup,erup,800.000,10-02-2017,Alm. Salg,6.106,5,Villa,131,1969,,Aktuel værdi
+Strandbakken 535631 Ebberup,erup,2.300.000,06-02-2017,Alm. Salg,17.692,5,Sommerhus,130,1870,-8 %,Aktuel værdi
+Pilehøjen 95631 Ebberup,erup,2.300.000,03-02-2017,Alm. Salg,12.041,7,Villa,191,1977,0 %,Aktuel værdi
+Topshøj 325631 Ebberup,erup,600.000,03-02-2017,Alm. Salg,7.894,2,Rækkehus,76,1979,,Aktuel værdi
+Rybergsvej 415631 Ebberup,erup,1.300.000,03-02-2017,Alm. Salg,8.227,6,Villa,158,1950,,Aktuel værdi
+Bjørnemosevej 235631 Ebberup,erup,1.700.000,21-11-2016,Alm. Salg,10.625,5,Villa,160,1927,-3 %,Aktuel værdi
+Rybergsvej 115631 Ebberup,erup,60.000,19-11-2016,Alm. Salg,833,2,Villa,72,1877,-60 %,Aktuel værdi
+Topshøj 8A5631 Ebberup,erup,550.000,24-10-2016,Alm. Salg,7.236,3,Rækkehus,76,1979,-8 %,Aktuel værdi
+Ebberupvej 14A5631 Ebberup,erup,650.000,20-10-2016,Alm. Salg,4.577,5,Villa,142,1976,,Aktuel værdi
+Brombærvænget 145631 Ebberup,erup,1.295.000,19-10-2016,Alm. Salg,14.388,3,Sommerhus,90,1998,-7 %,Aktuel værdi
+Ebberupvej 485631 Ebberup,erup,2.170.000,18-10-2016,Alm. Salg,11.243,7,Villa,193,1896,-1 %,Aktuel værdi
+Ebberupvej 1085631 Ebberup,erup,1.181.000,01-10-2016,Alm. Salg,4.900,9,Villa,241,1936,0 %,Aktuel værdi
+Å Strandvej 395631 Ebberup,erup,80.000,26-09-2016,Fam. Salg,1.176,4,Villa,68,1850,,Aktuel værdi
+Banevænget 25631 Ebberup,erup,685.000,25-09-2016,Alm. Salg,6.650,4,Villa,103,1933,0 %,Aktuel værdi
+Prinsevej 105631 Ebberup,erup,2.900.000,14-09-2016,Alm. Salg,9.863,12,Villa,294,1911,-3 %,Aktuel værdi
+Prinsevej 195631 Ebberup,erup,775.000,02-09-2016,Alm. Salg,4.558,7,Villa,170,1900,-13 %,Aktuel værdi
+Prinsevej 475631 Ebberup,erup,1.450.000,28-06-2016,Alm. Salg,10.357,4,Villa,140,1877,0 %,Aktuel værdi
+Ræveskoven 155631 Ebberup,erup,60.000,13-06-2016,Fam. Salg,535,4,Villa,112,1827,,Aktuel værdi
+Pilehøjen 155631 Ebberup,erup,1.095.000,26-05-2016,Alm. Salg,8.171,5,Villa,134,1974,0 %,Aktuel værdi
+Thinggyden 285631 Ebberup,erup,750.000,26-05-2016,Alm. Salg,3.588,6,Villa,209,1697,0 %,Aktuel værdi
+Ebberupvej 205631 Ebberup,erup,90.000,24-05-2016,Alm. Salg,1.084,4,Villa,83,1896,-55 %,Aktuel værdi
+Ravnekærvej 395631 Ebberup,erup,870.000,18-05-2016,Alm. Salg,6.444,5,Villa,135,1800,-3 %,Aktuel værdi
+Topshøj 125631 Ebberup,erup,2.250.000,06-05-2016,Alm. Salg,37.500,2,Rækkehus,60,1979,,Aktuel værdi
+Topshøj 185631 Ebberup,erup,450.000,06-05-2016,Alm. Salg,7.500,2,Rækkehus,60,1979,,Aktuel værdi
+Poppelvænget 325631 Ebberup,erup,750.000,19-04-2016,Alm. Salg,7.500,4,Sommerhus,100,1973,-21 %,Aktuel værdi
+Ravnekærvej 75631 Ebberup,erup,650.000,21-03-2016,Alm. Salg,6.500,4,Villa,100,1953,-6 %,Aktuel værdi
+Prinsevej 15631 Ebberup,erup,2.150.000,21-03-2016,Alm. Salg,6.635,7,Villa,324,1913,-2 %,Aktuel værdi
+Nyvej 85631 Ebberup,erup,555.000,18-03-2016,Alm. Salg,4.911,4,Villa,113,1967,-7 %,Aktuel værdi
+Ebberupvej 695631 Ebberup,erup,210.000,11-03-2016,Alm. Salg,2.210,3,Villa,95,1883,-40 %,Aktuel værdi
+Ravnekærvej 315631 Ebberup,erup,490.000,28-02-2016,Alm. Salg,4.260,5,Villa,115,1940,,Aktuel værdi
+Gammelhave 145631 Ebberup,erup,1.575.000,26-02-2016,Alm. Salg,17.119,4,Sommerhus,92,1976,-7 %,Aktuel værdi
+Helnæs Byvej 365631 Ebberup,erup,465.000,22-02-2016,Alm. Salg,4.227,5,Villa,110,1896,,Aktuel værdi
+Snaven 145631 Ebberup,erup,879.590,15-02-2016,Alm. Salg,5.943,5,Villa,148,1900,,Aktuel værdi
+Bøgevænget 15631 Ebberup,erup,739.057,12-02-2016,Fam. Salg,3.695,6,Villa,200,1972,,Aktuel værdi
+Degnegyden 45631 Ebberup,erup,470.000,03-02-2016,Alm. Salg,4.895,4,Villa,96,1947,-21 %,Aktuel værdi
+Birkevænget 55631 Ebberup,erup,596.625,13-01-2016,Alm. Salg,4.419,5,Villa,135,1969,-14 %,Aktuel værdi
+Åhaven 45631 Ebberup,erup,950.000,26-12-2015,Alm. Salg,12.500,4,Sommerhus,76,1890,-5 %,Aktuel værdi
+Nyvej 75631 Ebberup,erup,700.000,22-12-2015,Alm. Salg,6.481,3,Villa,108,1962,-6 %,Aktuel værdi
+Hasselvænget 65631 Ebberup,erup,1.000.000,16-12-2015,Alm. Salg,14.285,4,Sommerhus,70,1972,,Aktuel værdi
+Toftedalsvej 205631 Ebberup,erup,595.000,01-12-2015,Alm. Salg,4.250,4,Villa,140,1974,-14 %,Aktuel værdi
+Uglebjergsvej 55631 Ebberup,erup,4.122.500,01-12-2015,Fam. Salg,19.174,7,Stuehus,215,1933,,
+Bjørnemosevej 65631 Ebberup,erup,925.000,30-11-2015,Alm. Salg,5.854,5,Villa,158,1928,-7 %,Aktuel værdi
+Ågyden 25631 Ebberup,erup,1.250.000,20-11-2015,Alm. Salg,13.020,4,Villa,96,1953,0 %,Aktuel værdi
+Rybergsvej 495631 Ebberup,erup,550.000,26-10-2015,Fam. Salg,6.111,4,Villa,90,1850,,Aktuel værdi
+Ebberupvej 455631 Ebberup,erup,989.863,22-10-2015,Fam. Salg,4.458,7,Villa,222,1920,,Aktuel værdi
+Jasminvænget 45631 Ebberup,erup,250.000,21-10-2015,Alm. Salg,3.378,3,Villa,74,1962,,Aktuel værdi
+Johan Rantzaus Vej 35631 Ebberup,erup,14.373.970,24-09-2015,Alm. Salg,71.512,8,Stuehus,201,1966,,
+Snaven 75631 Ebberup,erup,995.000,21-08-2015,Alm. Salg,6.633,5,Villa,150,1970,0 %,Aktuel værdi
+Ryet 285631 Ebberup,erup,25.000,18-08-2015,Alm. Salg,166,5,Villa,150,1877,,Aktuel værdi
+Gammelhave 85631 Ebberup,erup,935.000,11-08-2015,Alm. Salg,14.609,3,Sommerhus,64,1971,-19 %,Aktuel værdi
+Pilehøjen 75631 Ebberup,erup,735.000,13-07-2015,Alm. Salg,5.975,4,Villa,123,1978,-8 %,Aktuel værdi
+Gammelhave 55631 Ebberup,erup,915.000,05-07-2015,Alm. Salg,16.052,3,Sommerhus,57,1971,-16 %,Aktuel værdi
+Skolevej 135631 Ebberup,erup,625.000,30-06-2015,Alm. Salg,5.482,6,Villa,114,1961,-10 %,Aktuel værdi
+Ebberupvej 185631 Ebberup,erup,1.300.000,30-06-2015,Alm. Salg,6.878,4,Villa,189,1933,-13 %,Aktuel værdi
+Ryet 35631 Ebberup,erup,29.000.000,30-06-2015,Andet,181.250,5,Stuehus,160,1970,,
+Ryet 225631 Ebberup,erup,2.000.000,29-06-2015,Alm. Salg,13.071,5,Villa,153,1939,-20 %,Aktuel værdi
+Nyvej 155631 Ebberup,erup,1.050.000,04-06-2015,Fam. Salg,8.536,5,Villa,123,1962,,Aktuel værdi
+Søvangen 55631 Ebberup,erup,18.025.000,03-06-2015,Alm. Salg,69.326,7,Stuehus,260,1867,,
+Prinsevej 75631 Ebberup,erup,1.000.000,28-05-2015,Alm. Salg,9.090,4,Villa,110,1938,,Aktuel værdi
+Strandbakken 435631 Ebberup,erup,2.425.000,27-05-2015,Alm. Salg,13.108,7,Sommerhus,185,1930,-3 %,Aktuel værdi
+Stævnevej 265631 Ebberup,erup,76.000,26-05-2015,Auktion,330,8,Stuehus,230,1848,,
+Tjørnevænget 95631 Ebberup,erup,1.500.000,04-05-2015,Alm. Salg,15.000,3,Sommerhus,100,1972,-12 %,Aktuel værdi
+Å Strandvej 615631 Ebberup,erup,2.600.000,17-04-2015,Alm. Salg,22.033,3,Villa,118,2008,,Aktuel værdi
+Mosemarksvej 15631 Ebberup,erup,1.300.000,10-04-2015,Alm. Salg,5.963,6,Villa,218,1898,-13 %,Aktuel værdi
+Ebberupvej 495631 Ebberup,erup,2.025.000,22-03-2015,Alm. Salg,9.507,5,Villa,213,1934,-7 %,Aktuel værdi
+Topshøj 265631 Ebberup,erup,475.000,16-03-2015,Alm. Salg,7.089,2,Rækkehus,67,1979,-5 %,Aktuel værdi
+Stensland 105631 Ebberup,erup,397.500,09-02-2015,Andet,4.184,2,Villa,95,1943,,Aktuel værdi
+Ravnekærvej 375631 Ebberup,erup,1.226.000,07-12-2014,Alm. Salg,4.574,8,Villa,268,1930,-12 %,Aktuel værdi
+Helnæs Byvej 515631 Ebberup,erup,1.150.000,06-11-2014,Alm. Salg,7.371,5,Villa,156,1914,-8 %,Aktuel værdi
+Helnæs Byvej 765631 Ebberup,erup,130.000,04-11-2014,Auktion,1.547,3,Sommerhus,84,1870,,Aktuel værdi
+Gammelhave 185631 Ebberup,erup,2.440.000,01-11-2014,Alm. Salg,14.610,5,Sommerhus,167,2005,-19 %,Aktuel værdi
+Ågyden 185631 Ebberup,erup,816.000,29-10-2014,Fam. Salg,13.600,4,Sommerhus,60,1952,,Aktuel værdi
+Nyvej 245631 Ebberup,erup,500.000,24-10-2014,Alm. Salg,5.813,3,Villa,86,1963,-17 %,Aktuel værdi
+Hegningen 55631 Ebberup,erup,250.000,21-10-2014,Fam. Salg,3.205,2,Sommerhus,78,1890,,Aktuel værdi
+Helnæs Byvej 735631 Ebberup,erup,625.000,05-09-2014,Alm. Salg,6.009,5,Villa,104,1912,-10 %,Aktuel værdi
+Å Strandvej 265631 Ebberup,erup,1.300.000,01-09-2014,Fam. Salg,9.558,5,Villa,136,1907,,Aktuel værdi
+Brombærvænget 65631 Ebberup,erup,825.000,25-08-2014,Fam. Salg,13.750,4,Sommerhus,60,1971,,Aktuel værdi
+Hasselvænget 85631 Ebberup,erup,1.200.000,22-08-2014,Alm. Salg,17.142,4,Sommerhus,70,1975,-14 %,Aktuel værdi
+Brombærvænget 135631 Ebberup,erup,900.000,16-08-2014,Alm. Salg,15.517,4,Sommerhus,58,1977,-10 %,Aktuel værdi
+Nyvej 305631 Ebberup,erup,250.000,15-08-2014,Alm. Salg,2.659,4,Villa,94,1967,-47 %,Aktuel værdi
+Mosemarksvej 65631 Ebberup,erup,665.000,30-07-2014,Alm. Salg,3.694,7,Stuehus,180,1893,0 %,
+Ebberupvej 395631 Ebberup,erup,905.000,29-07-2014,Alm. Salg,6.198,4,Villa,146,1935,-16 %,Aktuel værdi
+Snaven 195631 Ebberup,erup,350.000,29-07-2014,Alm. Salg,3.398,3,Villa,103,1953,0 %,Aktuel værdi
+Bjørnemosevej 35631 Ebberup,erup,1.137.500,23-07-2014,Fam. Salg,5.803,7,Villa,196,1927,,Aktuel værdi
+Topshøj 45631 Ebberup,erup,590.000,11-07-2014,Alm. Salg,7.763,3,Villa,76,1979,-9 %,Aktuel værdi
+Stensland 85631 Ebberup,erup,685.000,04-07-2014,Alm. Salg,5.569,3,Villa,123,1944,-8 %,Aktuel værdi
+Helnæs Byvej 475631 Ebberup,erup,1.200.000,16-06-2014,Alm. Salg,10.434,5,Villa,115,1953,-7 %,Aktuel værdi
+Strandbakken 215631 Ebberup,erup,3.250.000,04-06-2014,Alm. Salg,21.381,8,Villa,152,1906,,Aktuel værdi
+Ebberupvej 605631 Ebberup,erup,325.000,30-05-2014,Alm. Salg,3.693,4,Villa,88,1897,-18 %,Aktuel værdi
+Rønnevej 25631 Ebberup,erup,1.300.000,27-05-2014,Alm. Salg,5.327,6,Villa,244,1973,-13 %,Aktuel værdi
+Tjørnevænget 195631 Ebberup,erup,1.675.000,17-05-2014,Alm. Salg,22.635,4,Sommerhus,74,1972,-4 %,Aktuel værdi
+Å Strandvej 795631 Ebberup,erup,500.000,15-05-2014,Alm. Salg,3.623,3,Villa,138,1848,-16 %,Aktuel værdi
+Thinggyden 65631 Ebberup,erup,650.000,13-05-2014,Alm. Salg,7.142,4,Stuehus,91,1900,,
+Søvangen 295631 Ebberup,erup,595.000,08-05-2014,Alm. Salg,4.877,5,Villa,122,1812,-21 %,Aktuel værdi
+Hegnet 105631 Ebberup,erup,610.000,28-04-2014,Alm. Salg,5.258,4,Villa,116,1976,-12 %,Aktuel værdi
+Å Strandvej 135631 Ebberup,erup,1.125.000,16-04-2014,Andet,8.395,6,Villa,134,1937,,Aktuel værdi
+Syrenvænget 145631 Ebberup,erup,490.000,28-03-2014,Fam. Salg,8.032,4,Sommerhus,61,1984,,Aktuel værdi
+Hasselvænget 205631 Ebberup,erup,1.900.000,20-03-2014,Alm. Salg,18.627,3,Sommerhus,102,1974,-5 %,Aktuel værdi
+Stubben 35631 Ebberup,erup,546.714,14-03-2014,Alm. Salg,4.444,4,Villa,123,1976,-52 %,Aktuel værdi
+Ravnekærvej 735631 Ebberup,erup,695.000,25-02-2014,Alm. Salg,9.652,3,Villa,72,1900,,Aktuel værdi
+Nyvej 45631 Ebberup,erup,885.000,17-02-2014,Alm. Salg,6.321,3,Villa,140,1970,-11 %,Aktuel værdi
+Prinsevej 165631 Ebberup,erup,1.845.000,28-01-2014,Alm. Salg,10.250,5,Villa,180,1902,0 %,Aktuel værdi
+Ravnekærvej 225631 Ebberup,erup,1.159.000,23-01-2014,Alm. Salg,8.104,4,Villa,143,1900,-3 %,Aktuel værdi
+Ravnekærvej 265631 Ebberup,erup,340.000,14-01-2014,Auktion,2.428,7,Villa,140,1930,-66 %,Aktuel værdi
+Ravnekærvej 135631 Ebberup,erup,56.000,03-01-2014,Alm. Salg,589,4,Villa,95,1900,,Aktuel værdi
+Rybergsvej 105631 Ebberup,erup,510.000,20-12-2013,Alm. Salg,4.636,4,Villa,110,1897,,Aktuel værdi
+Helnæs Byvej 635631 Ebberup,erup,800.000,13-12-2013,Alm. Salg,1.526,25,Kollegium,524,1993,,Aktuel værdi
+Poppelvænget 425631 Ebberup,erup,910.000,09-12-2013,Alm. Salg,10.459,4,Sommerhus,87,1976,-27 %,Aktuel værdi
+Klinteskovsvej 45631 Ebberup,erup,885.000,05-12-2013,Auktion,5.673,5,Villa,156,2009,,Aktuel værdi
+Stensland 125631 Ebberup,erup,1.485.000,04-12-2013,Alm. Salg,6.780,7,Villa,219,1917,0 %,Aktuel værdi
+Helnæs Byvej 205631 Ebberup,erup,900.000,03-12-2013,Auktion,5.421,6,Villa,166,1933,,Aktuel værdi
+Prinsevej 395631 Ebberup,erup,240.000,05-11-2013,Auktion,2.666,3,Villa,90,1950,,Aktuel værdi
+Helnæs Byvej 555631 Ebberup,erup,375.000,16-10-2013,Alm. Salg,2.952,4,Villa,127,1930,-37 %,Aktuel værdi
+Hasselvænget 15631 Ebberup,erup,1.050.000,23-09-2013,Alm. Salg,10.294,5,Sommerhus,102,1975,-12 %,Aktuel værdi
+Topshøj 65631 Ebberup,erup,275.000,17-09-2013,Auktion,3.618,3,Villa,76,1979,,Aktuel værdi
+Krogen 75631 Ebberup,erup,2.250.000,16-09-2013,Alm. Salg,18.595,5,Stuehus,121,1942,,
+Helnæs Byvej 605631 Ebberup,erup,360.000,06-09-2013,Alm. Salg,2.790,6,Villa,129,1827,-39 %,Aktuel værdi
+Thinggyden 15631 Ebberup,erup,960.000,26-08-2013,Alm. Salg,7.559,5,Villa,127,1966,-12 %,Aktuel værdi
+Ryet 235631 Ebberup,erup,325.000,02-08-2013,Alm. Salg,2.096,3,Villa,155,1953,,Aktuel værdi
+Ryet 115631 Ebberup,erup,340.000,20-07-2013,Alm. Salg,2.677,5,Villa,127,1880,-20 %,Aktuel værdi
+Helnæs Byvej 155631 Ebberup,erup,2.250.000,01-07-2013,Fam. Salg,12.295,4,Villa,183,1989,-18 %,Aktuel værdi
+Helnæs Byvej 585631 Ebberup,erup,440.000,17-06-2013,Alm. Salg,3.577,5,Villa,123,1913,-19 %,Aktuel værdi
+Ræveskoven 105631 Ebberup,erup,750.000,17-06-2013,Alm. Salg,5.136,5,Villa,146,1850,-3 %,Aktuel værdi
+Højtoften 165631 Ebberup,erup,497.212,03-06-2013,Fam. Salg,3.946,4,Villa,126,1977,,Aktuel værdi
+Ryet 65631 Ebberup,erup,605.000,26-03-2013,Alm. Salg,5.215,4,Villa,116,1920,,Aktuel værdi
+Ebberupvej 245631 Ebberup,erup,408.500,27-02-2013,Alm. Salg,5.106,3,Villa,80,1878,,Aktuel værdi
+Poppelvænget 25631 Ebberup,erup,1.000.000,18-01-2013,Alm. Salg,8.771,5,Sommerhus,114,1976,-33 %,Aktuel værdi
+Ebberupvej 405631 Ebberup,erup,628.011,02-01-2013,Andet,2.462,7,Villa,255,1900,,Aktuel værdi
+"Rybergsvej 19, ST5631 Ebberup",erup,51.701,27-11-2012,Auktion,329,4,Lejlighed,157,1890,,Aktuel værdi
+Strandbakken 75631 Ebberup,erup,370.000,26-11-2012,Fam. Salg,5.211,4,Sommerhus,71,1900,,Aktuel værdi
+Kirkebakken 155631 Ebberup,erup,499.000,05-11-2012,Alm. Salg,3.080,3,Villa,162,2015,0 %,Aktuel værdi
+Hasselvænget 55631 Ebberup,erup,1.250.000,14-10-2012,Alm. Salg,19.230,4,Sommerhus,65,1973,,Aktuel værdi
+Rybergsvej 95631 Ebberup,erup,750.000,29-08-2012,Alm. Salg,3.968,5,Stuehus,189,1938,-16 %,
+Stævnevej 205631 Ebberup,erup,790.500,27-08-2012,Fam. Salg,6.426,6,Villa,123,1967,,Aktuel værdi
+Kirkebakken 75631 Ebberup,erup,505.000,30-07-2012,Alm. Salg,5.101,4,Villa,99,1937,-15 %,Aktuel værdi
+Strandbakken 275631 Ebberup,erup,1.495.000,04-07-2012,Alm. Salg,14.238,4,Sommerhus,105,1900,0 %,Aktuel værdi
+Nyvej 65631 Ebberup,erup,615.000,28-06-2012,Alm. Salg,7.151,3,Villa,86,1961,,Aktuel værdi
+Tjørnevænget 165631 Ebberup,erup,2.350.000,27-06-2012,Alm. Salg,28.658,4,Sommerhus,82,1961,,Aktuel værdi
+Syrenvænget 45631 Ebberup,erup,1.488.000,25-06-2012,Fam. Salg,14.880,5,Sommerhus,100,1971,-21 %,Aktuel værdi
+Syrenvænget 25631 Ebberup,erup,1.250.000,20-06-2012,Alm. Salg,20.491,4,Sommerhus,61,1971,-10 %,Aktuel værdi
+Søstien 75631 Ebberup,erup,690.000,20-06-2012,Alm. Salg,10.615,3,Villa,65,1860,-1 %,Aktuel værdi
+Prinsevej 375631 Ebberup,erup,700.000,12-05-2012,Alm. Salg,5.468,5,Villa,128,1949,-12 %,Aktuel værdi
+Ravnekærvej 695631 Ebberup,erup,395.000,07-05-2012,Alm. Salg,3.657,3,Villa,108,1900,0 %,Aktuel værdi
+Poppelvænget 45631 Ebberup,erup,1.150.000,24-04-2012,Alm. Salg,19.491,4,Sommerhus,59,1977,,Aktuel værdi
+Hegnet 135631 Ebberup,erup,650.000,21-03-2012,Fam. Salg,4.276,6,Villa,152,1978,,Aktuel værdi
+Toftedalsvej 145631 Ebberup,erup,1.100.000,15-03-2012,Alm. Salg,9.090,4,Villa,121,1976,-6 %,Aktuel værdi
+Rybergsvej 295631 Ebberup,erup,440.000,09-03-2012,Auktion,5.365,4,Villa,82,1965,,Aktuel værdi
+Nørremarksgyden 85631 Ebberup,erup,260.000,08-03-2012,Auktion,2.476,4,Villa,105,1890,-63 %,Aktuel værdi
+Nyvej 165631 Ebberup,erup,1.000.000,02-02-2012,Alm. Salg,9.803,4,Villa,102,1963,-9 %,Aktuel værdi
+Poppelvænget 445631 Ebberup,erup,902.600,23-12-2011,Fam. Salg,13.675,5,Sommerhus,66,1976,,Aktuel værdi
+Sommersgyde 185631 Ebberup,erup,900.000,16-12-2011,Alm. Salg,1.449,19,Døgninstitution,621,1900,,Aktuel værdi
+Søren Nordbys Vej 235631 Ebberup,erup,1.500.000,13-12-2011,Auktion,6.097,8,Stuehus,246,1872,,
+Langegyde 275631 Ebberup,erup,13.600.000,30-11-2011,Alm. Salg,48.398,7,Stuehus,281,1884,,
+Ågyden 75631 Ebberup,erup,550.000,30-11-2011,Alm. Salg,7.333,4,Sommerhus,75,1956,,Aktuel værdi
+Strandbakken 43A5631 Ebberup,erup,2.450.000,12-11-2011,Andet,18.992,6,Villa,129,1992,,Aktuel værdi
+Rybergsvej 505631 Ebberup,erup,830.000,01-11-2011,Alm. Salg,7.094,5,Villa,117,1951,-15 %,Aktuel værdi
+Ågyden 65631 Ebberup,erup,487.500,01-10-2011,Alm. Salg,6.964,3,Sommerhus,70,1930,,Aktuel værdi
+Åvangen 205631 Ebberup,erup,1.500.000,28-09-2011,Alm. Salg,18.750,3,Sommerhus,80,1962,-14 %,Aktuel værdi
+Skovsbjergvej 165631 Ebberup,erup,28.000,27-09-2011,Auktion,411,3,Villa,68,1750,-92 %,Aktuel værdi
+Ebberupvej 1145631 Ebberup,erup,1.320.000,27-09-2011,Auktion,8.198,4,Villa,161,1962,,Aktuel værdi
+Poppelvænget 75631 Ebberup,erup,1.065.500,26-09-2011,Fam. Salg,15.442,4,Sommerhus,69,1972,,Aktuel værdi
+Ebberupvej 1025631 Ebberup,erup,1.225.000,23-09-2011,Alm. Salg,10.040,4,Villa,122,1953,,Aktuel værdi
+Nyvej 265631 Ebberup,erup,677.831,05-09-2011,Andet,6.645,4,Villa,102,1964,,Aktuel værdi
+Ågyden 105631 Ebberup,erup,935.000,19-08-2011,Fam. Salg,14.384,3,Sommerhus,65,1943,,Aktuel værdi
+Stævnevej 35631 Ebberup,erup,750.000,09-08-2011,Alm. Salg,3.260,6,Villa,230,1925,,Aktuel værdi
+Rybergsvej 245631 Ebberup,erup,1.045.000,05-07-2011,Alm. Salg,7.798,5,Villa,134,1940,-13 %,Aktuel værdi
+Ågyden 145631 Ebberup,erup,500.000,01-07-2011,Alm. Salg,3.906,4,Sommerhus,128,1947,,Aktuel værdi
+Strandbakken 335631 Ebberup,erup,375.000,29-06-2011,Andet,4.807,4,Sommerhus,78,1969,,Aktuel værdi
+Helnæs Byvej 525631 Ebberup,erup,360.000,01-06-2011,Alm. Salg,5.714,3,Sommerhus,63,1877,-9 %,Aktuel værdi
+Toftedalsvej 75631 Ebberup,erup,850.000,16-05-2011,Alm. Salg,8.500,4,Villa,100,1971,,Aktuel værdi
+Nyvej 95631 Ebberup,erup,900.000,18-04-2011,Alm. Salg,8.823,3,Villa,102,1964,-5 %,Aktuel værdi
+Bøgeskovsvej 165631 Ebberup,erup,2.850.000,11-04-2011,Alm. Salg,8.769,10,Stuehus,325,1869,,
+Jasminvænget 155631 Ebberup,erup,830.000,28-03-2011,Alm. Salg,5.928,5,Villa,140,1974,-10 %,Aktuel værdi
+Banevænget 35631 Ebberup,erup,1.195.000,10-03-2011,Alm. Salg,9.053,4,Villa,132,1976,0 %,Aktuel værdi
+Birkevænget 85631 Ebberup,erup,715.000,09-02-2011,Alm. Salg,6.217,3,Villa,115,1971,-10 %,Aktuel værdi
+Å Strandvej 805631 Ebberup,erup,584.605,27-01-2011,Alm. Salg,3.438,5,Villa,170,1934,-72 %,Aktuel værdi
+Hasselvænget 75631 Ebberup,erup,1.220.000,12-01-2011,Alm. Salg,15.061,4,Sommerhus,81,2011,-9 %,Aktuel værdi
+Å Strandvej 565631 Ebberup,erup,1.150.000,11-01-2011,Fam. Salg,10.454,5,Villa,110,1962,,Aktuel værdi
+Hegnet 15631 Ebberup,erup,1.150.000,11-01-2011,Fam. Salg,8.098,5,Villa,142,1975,,Aktuel værdi
+Wittenbergvej 715631 Ebberup,erup,902.721,30-12-2010,Alm. Salg,4.653,5,Villa,194,2007,,Aktuel værdi
+Hegnet 155631 Ebberup,erup,1.470.000,23-12-2010,Alm. Salg,9.865,5,Villa,149,1979,-2 %,Aktuel værdi
+Topshøj 2A5631 Ebberup,erup,685.000,23-12-2010,Alm. Salg,9.013,3,Villa,76,1979,,Aktuel værdi
+Højtoften 115631 Ebberup,erup,850.000,07-12-2010,Auktion,5.944,4,Villa,143,1976,,Aktuel værdi
+Strandbakken 495631 Ebberup,erup,1.030.000,19-11-2010,Alm. Salg,7.923,5,Villa,130,1900,-20 %,Aktuel værdi
+Gammelhave 45631 Ebberup,erup,847.500,13-10-2010,Alm. Salg,12.282,4,Sommerhus,69,1971,,Aktuel værdi
+Å Strandvej 735631 Ebberup,erup,1.800.000,04-10-2010,Alm. Salg,21.686,4,Sommerhus,83,2007,-5 %,Aktuel værdi
+Topshøj 305631 Ebberup,erup,625.000,20-08-2010,Alm. Salg,8.223,2,Rækkehus,76,1979,-11 %,Aktuel værdi
+Brombærvænget 15631 Ebberup,erup,1.300.000,09-07-2010,Alm. Salg,17.105,4,Sommerhus,76,1979,-10 %,Aktuel værdi
+Poppelvænget 145631 Ebberup,erup,810.000,21-06-2010,Alm. Salg,8.350,4,Sommerhus,97,2011,-19 %,Aktuel værdi
+Ryet 13B5631 Ebberup,erup,375.000,21-06-2010,Alm. Salg,2.027,5,Rækkehus,185,1887,-19 %,Aktuel værdi
+Å Strandvej 475631 Ebberup,erup,760.000,16-06-2010,Fam. Salg,3.568,5,Stuehus,213,1852,,
+Hegningen 45631 Ebberup,erup,1.400.000,12-05-2010,Fam. Salg,17.948,3,Sommerhus,78,2007,,Aktuel værdi
+Jasminvænget 105631 Ebberup,erup,900.000,06-05-2010,Auktion,7.826,4,Villa,115,1972,,Aktuel værdi
+Bøgeskovsvej 135631 Ebberup,erup,95.000,10-04-2010,Alm. Salg,664,5,Stuehus,143,1900,,
+Ræveskoven 215631 Ebberup,erup,2.857.300,02-04-2010,Fam. Salg,26.955,3,Stuehus,106,1962,,
+Rybergsvej 155631 Ebberup,erup,493.000,31-03-2010,Andet,4.401,5,Villa,112,1965,,Aktuel værdi
+Stævnevej 115631 Ebberup,erup,925.000,23-03-2010,Alm. Salg,5.316,7,Stuehus,174,1947,-7 %,
+Ebberupvej 52D5631 Ebberup,erup,403.723,23-03-2010,Alm. Salg,5.243,3,Rækkehus,77,1990,,Aktuel værdi
+Ebberupvej 52B5631 Ebberup,erup,410.519,23-03-2010,Alm. Salg,5.401,3,Rækkehus,76,1990,,Aktuel værdi
+Prinsevej 95631 Ebberup,erup,850.000,15-03-2010,Alm. Salg,8.415,3,Villa,101,1933,-5 %,Aktuel værdi
+Prinsevej 435631 Ebberup,erup,1.530.000,12-03-2010,Alm. Salg,8.742,6,Villa,175,1930,-9 %,Aktuel værdi
+Strandbakken 555631 Ebberup,erup,2.185.000,10-03-2010,Alm. Salg,16.937,6,Villa,129,1948,-9 %,Aktuel værdi
+Gudøgyden 105631 Ebberup,erup,2.400.000,04-02-2010,Alm. Salg,8.988,9,Stuehus,267,1880,-8 %,
+Ravnekærvej 115631 Ebberup,erup,1.275.000,25-01-2010,Alm. Salg,5.985,7,Villa,213,1900,-9 %,Aktuel værdi
+Å Strandvej 905631 Ebberup,erup,1.000.000,21-01-2010,Alm. Salg,15.873,3,Sommerhus,63,1957,-16 %,Aktuel værdi
+Poppelvænget 245631 Ebberup,erup,1.775.000,13-12-2009,Alm. Salg,17.574,6,Sommerhus,101,1972,-5 %,Aktuel værdi
+Helnæs Byvej 285631 Ebberup,erup,672.500,02-12-2009,Andet,3.674,5,Villa,183,1900,,Aktuel værdi
+Ebberupvej 555631 Ebberup,erup,993.063,23-11-2009,Andet,6.168,6,Villa,161,1897,18 %,Aktuel værdi
+Søvangen 395631 Ebberup,erup,776.576,12-11-2009,Alm. Salg,3.021,8,Villa,257,1827,,Aktuel værdi
+Tjørnevænget 145631 Ebberup,erup,2.195.000,10-11-2009,Alm. Salg,22.864,4,Sommerhus,96,1990,0 %,Aktuel værdi
+Jasminvænget 75631 Ebberup,erup,1.685.000,09-11-2009,Alm. Salg,10.150,5,Villa,166,1972,-1 %,Aktuel værdi
+Stensland 65631 Ebberup,erup,830.000,06-11-2009,Alm. Salg,7.980,4,Villa,104,1927,-7 %,Aktuel værdi
+Højtoften 215631 Ebberup,erup,1.000.000,06-11-2009,Alm. Salg,7.042,4,Villa,142,1974,-26 %,Aktuel værdi
+Gammelhave 155631 Ebberup,erup,2.150.000,21-10-2009,Alm. Salg,28.666,4,Sommerhus,75,1972,,Aktuel værdi
+Ebberupvej 155631 Ebberup,erup,695.000,04-10-2009,Alm. Salg,5.515,7,Villa,126,1961,0 %,Aktuel værdi
+Wittenbergvej 595631 Ebberup,erup,1.655.000,15-09-2009,Alm. Salg,13.346,5,Villa,124,1999,-2 %,Aktuel værdi
+Pilehøjen 255631 Ebberup,erup,1.100.000,02-09-2009,Alm. Salg,9.482,4,Villa,116,1977,-4 %,Aktuel værdi
+Ravnekærvej 685631 Ebberup,erup,550.000,13-08-2009,Alm. Salg,8.461,3,Villa,65,1850,-6 %,Aktuel værdi
+Åvangen 145631 Ebberup,erup,1.232.500,06-08-2009,Fam. Salg,16.883,2,Sommerhus,73,1964,,Aktuel værdi
+Krogen 65631 Ebberup,erup,10.619.907,25-06-2009,Alm. Salg,52.835,7,Stuehus,201,1877,,
+Wittenbergvej 675631 Ebberup,erup,580.926,11-06-2009,Fam. Salg,4.503,5,Villa,129,2003,,Aktuel værdi
+Hegnet 55631 Ebberup,erup,1.395.000,09-06-2009,Alm. Salg,9.823,5,Villa,142,1975,0 %,Aktuel værdi
+Bøgevænget 35631 Ebberup,erup,890.000,14-05-2009,Alm. Salg,8.811,4,Villa,101,1972,-6 %,Aktuel værdi
+Toftedalsvej 285631 Ebberup,erup,855.000,30-04-2009,Alm. Salg,7.500,3,Villa,114,1967,-4 %,Aktuel værdi
+Højtoften 135631 Ebberup,erup,1.000.000,08-04-2009,Alm. Salg,8.130,4,Villa,123,1976,-9 %,Aktuel værdi
+Skovsbjergvej 105631 Ebberup,erup,1.300.000,21-03-2009,Alm. Salg,7.386,6,Villa,176,1900,,Aktuel værdi
+Ebberupvej 575631 Ebberup,erup,600.000,18-03-2009,Alm. Salg,5.660,4,Villa,106,1915,-20 %,Aktuel værdi
+Tjørnevænget 65631 Ebberup,erup,1.500.000,25-02-2009,Alm. Salg,33.333,3,Sommerhus,45,1970,,Aktuel værdi
+Banevænget 45631 Ebberup,erup,850.000,23-02-2009,Alm. Salg,7.203,5,Villa,118,1933,-5 %,Aktuel værdi
+Bjørnemosevej 85631 Ebberup,erup,6.650.000,16-02-2009,Alm. Salg,47.163,5,Stuehus,141,1928,,
+Prinsevej 535631 Ebberup,erup,10.850.000,16-02-2009,Alm. Salg,60.277,5,Stuehus,180,1927,,
+Bøgevænget 55631 Ebberup,erup,450.000,09-02-2009,Auktion,4.017,4,Villa,112,1971,-25 %,Aktuel værdi
+Stævnevej 24B5631 Ebberup,erup,800.000,02-02-2009,Alm. Salg,7.766,3,Villa,103,1989,-6 %,Aktuel værdi
+Toftedalsvej 305631 Ebberup,erup,820.000,01-02-2009,Alm. Salg,5.942,4,Villa,138,1966,-18 %,Aktuel værdi
+Toftedalsvej 265631 Ebberup,erup,1.145.000,31-01-2009,Alm. Salg,6.775,6,Villa,169,1967,-4 %,Aktuel værdi
+Poppelvænget 175631 Ebberup,erup,1.700.000,23-01-2009,Fam. Salg,17.171,3,Sommerhus,99,1977,,Aktuel værdi
+Å Strandvej 495631 Ebberup,erup,1.460.000,29-12-2008,Alm. Salg,16.043,4,Sommerhus,91,2014,-14 %,Aktuel værdi
+Syrenvænget 105631 Ebberup,erup,1.742.500,24-12-2008,Fam. Salg,16.134,5,Sommerhus,108,1974,,Aktuel værdi
+Prinsevej 55631 Ebberup,erup,550.000,12-12-2008,Alm. Salg,3.985,5,Villa,138,1943,,Aktuel værdi
+Gammelhave 105631 Ebberup,erup,810.000,08-12-2008,Andet,9.529,4,Sommerhus,85,1971,,Aktuel værdi
+Lindhovedvej 55631 Ebberup,erup,12.195.000,26-11-2008,Fam. Salg,44.184,9,Stuehus,276,1970,,
+Å Strandvej 845631 Ebberup,erup,860.000,20-11-2008,Fam. Salg,10.238,4,Sommerhus,84,2013,,Aktuel værdi
+Åvangen 65631 Ebberup,erup,1.457.000,31-10-2008,Alm. Salg,25.561,3,Sommerhus,57,1960,-12 %,Aktuel værdi
+Prinsevej 65631 Ebberup,erup,1.245.280,15-09-2008,Fam. Salg,8.769,5,Villa,142,1900,,Aktuel værdi
+Nyvej 195631 Ebberup,erup,1.145.000,12-09-2008,Alm. Salg,7.736,5,Villa,148,1961,-4 %,Aktuel værdi
+Lærkevænget 25631 Ebberup,erup,508.397,01-09-2008,Alm. Salg,2.905,7,Villa,175,1969,,Aktuel værdi
+Jasminvænget 85631 Ebberup,erup,1.355.000,28-08-2008,Alm. Salg,10.111,5,Villa,134,1972,-3 %,Aktuel værdi
+Strandbakken 45631 Ebberup,erup,650.000,13-08-2008,Alm. Salg,4.276,4,Sommerhus,152,1887,,Aktuel værdi
+Ebberupvej 775631 Ebberup,erup,10.000.000,12-08-2008,Andet,44.843,6,Villa,223,1912,,Aktuel værdi
+Rybergsvej 185631 Ebberup,erup,1.130.000,28-07-2008,Alm. Salg,-,6,Villa,180,1875,-5 %,Aktuel værdi
+Lærkevænget 15631 Ebberup,erup,950.000,21-07-2008,Alm. Salg,5.397,5,Villa,176,1970,,Aktuel værdi
+Bjergegyden 125631 Ebberup,erup,13.000.000,01-07-2008,Alm. Salg,58.558,6,Stuehus,222,1884,,
+Å Strandvej 535631 Ebberup,erup,2.350.000,23-06-2008,Alm. Salg,19.583,7,Sommerhus,120,1930,-9 %,Aktuel værdi
+Ryet 245631 Ebberup,erup,750.000,15-06-2008,Alm. Salg,6.410,3,Villa,117,1958,,Aktuel værdi
+Ræveskoven 75631 Ebberup,erup,600.000,24-05-2008,Alm. Salg,4.316,5,Villa,139,1967,,Aktuel værdi
+Ebberupvej 355631 Ebberup,erup,1.100.000,03-05-2008,Fam. Salg,10.091,3,Villa,109,1934,,Aktuel værdi
+Strandbakken 595631 Ebberup,erup,575.000,30-04-2008,Fam. Salg,9.913,4,Sommerhus,58,1930,,Aktuel værdi
+Snaven 165631 Ebberup,erup,1.575.000,08-04-2008,Alm. Salg,-,6,Villa,231,1927,-5 %,Aktuel værdi
+Poppelvænget 185631 Ebberup,erup,2.175.000,31-03-2008,Alm. Salg,23.641,4,Sommerhus,92,1999,-3 %,Aktuel værdi
+Ebberupvej 895631 Ebberup,erup,1.200.000,27-03-2008,Alm. Salg,8.219,6,Villa,146,1910,,Aktuel værdi
+Ravnekærvej 855631 Ebberup,erup,699.000,19-03-2008,Alm. Salg,8.223,3,Villa,85,1770,0 %,Aktuel værdi
+Ravnekærvej 165631 Ebberup,erup,740.734,07-03-2008,Andet,4.208,5,Villa,176,1932,,Aktuel værdi
+Ebberupvej 915631 Ebberup,erup,850.000,04-03-2008,Fam. Salg,9.883,4,Villa,86,1900,,Aktuel værdi
+Toftedalsvej 165631 Ebberup,erup,650.000,26-02-2008,Alm. Salg,5.652,4,Villa,115,1977,,Aktuel værdi
+Prinsevej 85631 Ebberup,erup,985.000,21-02-2008,Alm. Salg,8.565,6,Villa,115,1910,-21 %,Aktuel værdi
+Prinsevej 275631 Ebberup,erup,995.000,13-02-2008,Alm. Salg,9.299,4,Villa,107,1964,,Aktuel værdi
+Nyvej 205631 Ebberup,erup,855.000,23-01-2008,Alm. Salg,8.814,3,Villa,97,1963,,Aktuel værdi
+Å Strandvej 765631 Ebberup,erup,1.450.000,09-01-2008,Fam. Salg,22.656,5,Sommerhus,64,1947,,Aktuel værdi
+Snaven 15631 Ebberup,erup,1.770.000,16-12-2007,Alm. Salg,8.428,6,Villa,210,1880,,Aktuel værdi
+Gammelhave 195631 Ebberup,erup,2.082.500,10-12-2007,Fam. Salg,13.264,5,Sommerhus,157,1975,,Aktuel værdi
+Poppelvænget 285631 Ebberup,erup,1.585.000,28-11-2007,Alm. Salg,15.095,5,Sommerhus,105,1972,-1 %,Aktuel værdi
+Å Strandvej 225631 Ebberup,erup,1.856.000,20-11-2007,Alm. Salg,38.666,3,Sommerhus,48,2009,,Aktuel værdi
+Ravnekærvej 875631 Ebberup,erup,800.000,05-11-2007,Alm. Salg,6.956,4,Stuehus,115,1850,,
+Helnæs Byvej 565631 Ebberup,erup,1.800.000,16-10-2007,Alm. Salg,17.647,4,Villa,102,1870,,Aktuel værdi
+Sommersgyde 45631 Ebberup,erup,924.500,09-10-2007,Alm. Salg,8.404,4,Villa,110,1777,,Aktuel værdi
+Wittenbergvej 755631 Ebberup,erup,223.890,08-10-2007,Alm. Salg,1.913,3,Villa,117,2012,,Aktuel værdi
+Å Strandvej 515631 Ebberup,erup,1.093.400,03-10-2007,Alm. Salg,7.289,5,Villa,150,1923,,Aktuel værdi
+Topshøj 285631 Ebberup,erup,720.000,27-09-2007,Alm. Salg,9.473,3,Rækkehus,76,1979,,Aktuel værdi
+Kovejen 25631 Ebberup,erup,680.000,14-09-2007,Alm. Salg,6.071,4,Villa,112,1962,,Aktuel værdi
+Prinsevej 185631 Ebberup,erup,2.570.000,11-09-2007,Alm. Salg,7.342,12,Villa,350,1900,,Aktuel værdi
+Kirkebakken 245631 Ebberup,erup,735.000,11-09-2007,Alm. Salg,4.803,6,Villa,153,1880,,Aktuel værdi
+Ravnekærvej 635631 Ebberup,erup,635.000,06-09-2007,Alm. Salg,7.055,4,Villa,90,1825,-6 %,Aktuel værdi
+Ebberupvej 885631 Ebberup,erup,1.200.000,05-09-2007,Alm. Salg,9.160,4,Villa,131,1936,,Aktuel værdi
+Poppelvænget 125631 Ebberup,erup,2.175.000,23-08-2007,Alm. Salg,20.714,4,Sommerhus,105,1973,,Aktuel værdi
+Wittenbergvej 775631 Ebberup,erup,252.500,06-08-2007,Alm. Salg,1.174,7,Villa,215,2008,,Aktuel værdi
+Uglebjergsvej 145631 Ebberup,erup,1.195.000,04-07-2007,Alm. Salg,7.966,5,Villa,150,1910,,Aktuel værdi
+Ravnekærvej 515631 Ebberup,erup,940.000,26-06-2007,Alm. Salg,12.051,2,Villa,78,1989,,Aktuel værdi
+Nyvej 15631 Ebberup,erup,1.545.000,26-06-2007,Alm. Salg,7.087,7,Villa,218,1960,,Aktuel værdi
+Jasminvænget 35631 Ebberup,erup,895.000,13-06-2007,Alm. Salg,8.774,4,Villa,102,1972,,Aktuel værdi
+Poppelvænget 35631 Ebberup,erup,1.920.000,07-06-2007,Alm. Salg,27.826,4,Sommerhus,69,1994,,Aktuel værdi
+Poppelvænget 485631 Ebberup,erup,3.020.000,18-05-2007,Alm. Salg,-,6,Sommerhus,92,1975,,Aktuel værdi
+Stævnevej 245631 Ebberup,erup,1.345.000,13-05-2007,Alm. Salg,8.005,8,Villa,168,1940,,Aktuel værdi
+Ravnekærvej 775631 Ebberup,erup,1.085.000,03-05-2007,Alm. Salg,7.695,7,Villa,141,1900,,Aktuel værdi
+Nørremarksgyden 175631 Ebberup,erup,1.935.000,01-05-2007,Alm. Salg,8.958,7,Villa,216,1900,,Aktuel værdi
+Lærkevænget 85631 Ebberup,erup,420.000,30-04-2007,Fam. Salg,2.675,4,Villa,157,1971,,Aktuel værdi
+Wittenbergvej 735631 Ebberup,erup,224.910,19-04-2007,Alm. Salg,1.076,6,Villa,209,2008,,Aktuel værdi
+Gudøgyden 45631 Ebberup,erup,1.250.000,11-04-2007,Alm. Salg,11.160,3,Stuehus,112,1953,,
+Højtoften 75631 Ebberup,erup,1.105.000,04-04-2007,Alm. Salg,-,5,Villa,156,1976,,Aktuel værdi
+Ravnekærvej 55631 Ebberup,erup,357.146,27-03-2007,Alm. Salg,-,5,Villa,136,1917,,Aktuel værdi
+Helnæs Byvej 465631 Ebberup,erup,876.000,26-03-2007,Alm. Salg,8.342,4,Villa,105,1960,,Aktuel værdi
+Skovsbjergvej 95631 Ebberup,erup,650.000,15-03-2007,Alm. Salg,6.310,3,Villa,103,1900,,Aktuel værdi
+Ebberupvej 535631 Ebberup,erup,1.335.000,27-02-2007,Alm. Salg,4.784,6,Villa,279,1900,,Aktuel værdi
+Ebberupvej 995631 Ebberup,erup,725.000,27-02-2007,Alm. Salg,7.880,4,Villa,92,1939,,Aktuel værdi
+Snaven 105631 Ebberup,erup,2.000.679,27-02-2007,Alm. Salg,-,7,Villa,248,1927,,Aktuel værdi
+Poppelvænget 225631 Ebberup,erup,790.500,16-02-2007,Fam. Salg,10.540,3,Sommerhus,75,1974,,Aktuel værdi
+Å Strandvej 605631 Ebberup,erup,1.000.000,14-02-2007,Alm. Salg,11.363,3,Villa,88,1750,,Aktuel værdi
+Å Strandvej 625631 Ebberup,erup,5.000.000,14-02-2007,Alm. Salg,20.000,7,Stuehus,250,1964,,
+Å Strandvej 385631 Ebberup,erup,3.177.500,25-01-2007,Fam. Salg,18.367,7,Stuehus,173,1877,,
+Helnæs Byvej 435631 Ebberup,erup,4.601.480,25-01-2007,Alm. Salg,18.332,7,Stuehus,251,1917,,
+Thinggyden 205631 Ebberup,erup,995.000,19-01-2007,Alm. Salg,8.432,5,Villa,118,1870,,Aktuel værdi
+Ebberupvej 1045631 Ebberup,erup,740.000,18-01-2007,Alm. Salg,6.727,5,Villa,110,1954,,Aktuel værdi
+Ravnekærvej 565631 Ebberup,erup,2.600.000,08-01-2007,Fam. Salg,10.833,9,Stuehus,240,1897,,
+"Ebberupvej 67, 15631 Ebberup",erup,1.200.000,03-01-2007,Alm. Salg,-,8,Lejlighed,301,1933,,Aktuel værdi
+Ebberupvej 275631 Ebberup,erup,980.000,29-12-2006,Alm. Salg,5.444,6,Villa,180,1936,,Aktuel værdi
+Stævnevej 145631 Ebberup,erup,710.000,12-12-2006,Fam. Salg,7.888,4,Villa,90,1965,,Aktuel værdi
+Prinsevej 135631 Ebberup,erup,999.000,11-12-2006,Alm. Salg,10.627,4,Villa,94,1936,,Aktuel værdi
+Ebberupvej 665631 Ebberup,erup,1.325.000,16-11-2006,Alm. Salg,8.179,7,Villa,162,1877,,Aktuel værdi
+Snaven 125631 Ebberup,erup,1.995.000,07-11-2006,Alm. Salg,9.366,6,Stuehus,213,1928,,
+Ebberupvej 465631 Ebberup,erup,885.000,31-10-2006,Alm. Salg,6.860,4,Villa,129,1935,,Aktuel værdi
+Elmebjergvej 45631 Ebberup,erup,2.230.000,25-10-2006,Fam. Salg,26.235,3,Sommerhus,85,1856,,Aktuel værdi
+Rybergsvej 445631 Ebberup,erup,2.860.000,12-10-2006,Alm. Salg,10.631,9,Stuehus,269,1923,,
+Brombærvænget 55631 Ebberup,erup,1.165.000,04-10-2006,Alm. Salg,-,4,Sommerhus,58,1973,,Aktuel værdi
+Nørremarksgyden 195631 Ebberup,erup,2.495.000,30-09-2006,Alm. Salg,-,12,Stuehus,328,1861,,
+Helnæs Byvej 505631 Ebberup,erup,1.580.000,27-09-2006,Alm. Salg,11.532,3,Villa,137,1912,,Aktuel værdi
+Ravnekærvej 935631 Ebberup,erup,650.000,13-09-2006,Alm. Salg,6.632,5,Stuehus,98,1900,,
+Ågyden 125631 Ebberup,erup,710.000,12-09-2006,Fam. Salg,20.285,3,Sommerhus,35,1963,,Aktuel værdi
+Strandbakken 25631 Ebberup,erup,2.625.000,11-08-2006,Alm. Salg,20.192,12,Servicevirksomhed,130,1854,,Aktuel værdi
+Rybergsvej 285631 Ebberup,erup,1.069.000,11-08-2006,Alm. Salg,8.620,5,Villa,124,1777,,Aktuel værdi
+Ravnekærvej 795631 Ebberup,erup,799.000,04-08-2006,Alm. Salg,7.910,2,Villa,101,1959,,Aktuel værdi
+Degnegyden 25631 Ebberup,erup,1.395.000,02-08-2006,Alm. Salg,-,7,Villa,190,1849,,Aktuel værdi
+Ågyden 55631 Ebberup,erup,1.150.000,01-08-2006,Alm. Salg,15.333,5,Sommerhus,75,1950,,Aktuel værdi
+Strandbakken 145631 Ebberup,erup,1.020.000,30-07-2006,Fam. Salg,14.571,3,Sommerhus,70,1888,,Aktuel værdi
+Søvangen 75631 Ebberup,erup,1.365.000,30-06-2006,Alm. Salg,8.029,5,Villa,170,1770,,Aktuel værdi
+Søstien 95631 Ebberup,erup,394.159,29-06-2006,Fam. Salg,4.748,3,Villa,83,1877,,Aktuel værdi
+Stævnevej 185631 Ebberup,erup,391.463,23-06-2006,Alm. Salg,3.208,5,Villa,122,1930,,Aktuel værdi
+Tjørnevænget 175631 Ebberup,erup,1.485.000,18-06-2006,Alm. Salg,15.797,4,Sommerhus,94,2012,,Aktuel værdi
+Ebberupvej 285631 Ebberup,erup,645.000,15-06-2006,Alm. Salg,5.466,5,Villa,118,1909,,Aktuel værdi
+Højtoften 155631 Ebberup,erup,1.250.000,24-05-2006,Alm. Salg,8.445,4,Villa,148,1976,,Aktuel værdi
+Helnæs Byvej 275631 Ebberup,erup,2.520.000,03-05-2006,Alm. Salg,9.163,5,Villa,275,1802,,Aktuel værdi
+Hegnet 75631 Ebberup,erup,960.000,07-04-2006,Alm. Salg,5.680,6,Villa,169,1978,,Aktuel værdi
+Helnæs Byvej 425631 Ebberup,erup,895.000,29-03-2006,Alm. Salg,5.000,6,Villa,179,1890,,Aktuel værdi
+Løkkegravevej 25631 Ebberup,erup,1.735.000,28-03-2006,Alm. Salg,5.783,8,Villa,300,1867,,Aktuel værdi
+Ebberupvej 255631 Ebberup,erup,2.800.000,11-03-2006,Alm. Salg,19.310,3,Villa,145,1932,,Aktuel værdi
+Stubben 25631 Ebberup,erup,1.235.000,24-02-2006,Alm. Salg,8.636,5,Villa,143,1974,,Aktuel værdi
+Bøgeskovsvej 75631 Ebberup,erup,500.000,20-02-2006,Fam. Salg,4.310,4,Stuehus,116,1775,,
+Rybergsvej 395631 Ebberup,erup,1.195.000,20-02-2006,Alm. Salg,7.563,6,Stuehus,158,1747,,
+Prinsevej 125631 Ebberup,erup,2.195.000,08-02-2006,Alm. Salg,10.975,8,Villa,200,1912,,Aktuel værdi
+Hegnet 35631 Ebberup,erup,950.000,08-02-2006,Alm. Salg,6.690,5,Villa,142,1975,,Aktuel værdi
+Ravnekærvej 195631 Ebberup,erup,595.000,30-01-2006,Alm. Salg,5.173,4,Villa,115,1870,,Aktuel værdi
+Ravnekærvej 125631 Ebberup,erup,745.000,15-12-2005,Alm. Salg,5.775,5,Villa,129,1930,,Aktuel værdi
+Strandbakken 375631 Ebberup,erup,2.800.000,09-12-2005,Alm. Salg,15.819,6,Villa,177,2000,,Aktuel værdi
+Syrenvænget 85631 Ebberup,erup,671.500,08-12-2005,Alm. Salg,9.326,4,Sommerhus,72,1974,,Aktuel værdi
+Åvangen 85631 Ebberup,erup,1.445.000,08-12-2005,Alm. Salg,18.766,6,Sommerhus,77,1962,,Aktuel værdi
+Banevænget 65631 Ebberup,erup,699.000,27-10-2005,Alm. Salg,6.078,3,Villa,115,1933,,Aktuel værdi
+Strandbakken 165631 Ebberup,erup,475.246,18-10-2005,Alm. Salg,5.795,5,Sommerhus,82,1966,,Aktuel værdi
+Rybergsvej 475631 Ebberup,erup,364.725,12-10-2005,Alm. Salg,2.237,8,Stuehus,163,1847,,
+Ebberupvej 425631 Ebberup,erup,675.000,07-10-2005,Alm. Salg,-,4,Villa,146,1976,,Aktuel værdi
+Tjørnevænget 15631 Ebberup,erup,1.480.000,01-10-2005,Alm. Salg,18.734,5,Sommerhus,79,1971,,Aktuel værdi
+Krogen 55631 Ebberup,erup,1.850.000,30-09-2005,Alm. Salg,8.564,7,Villa,216,1927,,Aktuel værdi
+Lindhovedvej 155631 Ebberup,erup,445.198,30-09-2005,Fam. Salg,4.122,4,Villa,108,1939,,Aktuel værdi
+Birkevænget 65631 Ebberup,erup,835.000,21-09-2005,Alm. Salg,7.260,3,Villa,115,1969,,Aktuel værdi
+Gudøgyden 125631 Ebberup,erup,1.600.000,17-09-2005,Alm. Salg,4.071,9,Stuehus,393,1854,,
+Ryet 345631 Ebberup,erup,575.000,05-09-2005,Alm. Salg,5.324,5,Sommerhus,108,1938,,Aktuel værdi
+Ebberupvej 235631 Ebberup,erup,525.297,01-09-2005,Auktion,5.588,4,Villa,94,1935,,Aktuel værdi
+Ravnekærvej 45631 Ebberup,erup,780.000,30-08-2005,Alm. Salg,4.588,8,Villa,170,1907,,Aktuel værdi
+Tjørnevænget 125631 Ebberup,erup,630.000,18-08-2005,Fam. Salg,6.847,4,Sommerhus,92,2009,,Aktuel værdi
+Topshøj 10A5631 Ebberup,erup,750.000,15-08-2005,Alm. Salg,7.075,5,Villa,106,1979,,Aktuel værdi
+Ebberupvej 835631 Ebberup,erup,1.095.000,06-08-2005,Alm. Salg,6.117,10,Villa,179,1914,,Aktuel værdi
+Kirkebakken 265631 Ebberup,erup,790.000,25-07-2005,Alm. Salg,5.851,5,Villa,135,1750,,Aktuel værdi
+Tjørnevænget 225631 Ebberup,erup,2.295.000,08-07-2005,Alm. Salg,26.379,3,Sommerhus,87,2002,,Aktuel værdi
+Åhaven 25631 Ebberup,erup,1.030.000,09-06-2005,Alm. Salg,9.449,4,Sommerhus,109,1977,,Aktuel værdi
+Syrenvænget 15631 Ebberup,erup,1.350.000,06-06-2005,Alm. Salg,12.980,5,Sommerhus,104,1972,,Aktuel værdi
+Kovejen 45631 Ebberup,erup,1.275.000,02-06-2005,Alm. Salg,28.333,3,Sommerhus,45,1965,,Aktuel værdi
+Kirkebakken 95631 Ebberup,erup,200.000,19-05-2005,Alm. Salg,766,7,Villa,261,2008,,Aktuel værdi
+Kirkebakken 235631 Ebberup,erup,1.232.500,10-05-2005,Alm. Salg,8.055,5,Villa,153,1997,,Aktuel værdi
+Wittenbergvej 615631 Ebberup,erup,1.195.000,04-05-2005,Alm. Salg,7.376,4,Villa,162,1998,,Aktuel værdi
+Brombærvænget 75631 Ebberup,erup,1.175.000,02-05-2005,Alm. Salg,14.329,5,Sommerhus,82,1972,,Aktuel værdi
+Helnæs Byvej 35631 Ebberup,erup,375.000,25-04-2005,Fam. Salg,1.644,10,Villa,228,1787,,Aktuel værdi
+Nyvej 225631 Ebberup,erup,680.000,20-04-2005,Fam. Salg,7.555,4,Villa,90,1962,,Aktuel værdi
+Prinsevej 25631 Ebberup,erup,1.200.000,15-04-2005,Alm. Salg,6.382,6,Villa,188,1895,,Aktuel værdi
+Hasselvænget 165631 Ebberup,erup,1.000.000,14-04-2005,Fam. Salg,14.492,4,Sommerhus,69,1994,,Aktuel værdi
+Ebberupvej 505631 Ebberup,erup,755.000,05-04-2005,Alm. Salg,5.898,4,Villa,128,1900,,Aktuel værdi
+Brombærvænget 95631 Ebberup,erup,1.255.000,05-04-2005,Alm. Salg,16.298,4,Sommerhus,77,1972,,Aktuel værdi
+Lindhovedvej 25631 Ebberup,erup,680.000,24-03-2005,Alm. Salg,7.816,3,Sommerhus,87,1878,,Aktuel værdi
+Ebberupvej 735631 Ebberup,erup,598.000,17-03-2005,Alm. Salg,3.517,4,Villa,170,1885,,Aktuel værdi
+Højtoften 275631 Ebberup,erup,970.000,02-03-2005,Alm. Salg,6.783,5,Villa,143,1976,,Aktuel værdi
+Helnæs Byvej 52B5631 Ebberup,erup,30.000,27-02-2005,Alm. Salg,120,6,Villa,249,2014,,Aktuel værdi
+Bøgeskovsvej 35631 Ebberup,erup,1.400.000,21-02-2005,Fam. Salg,12.962,5,Stuehus,108,1957,,
+Tjørnevænget 115631 Ebberup,erup,399.500,14-02-2005,Fam. Salg,5.789,3,Sommerhus,69,1972,,Aktuel værdi
+Ræveskoven 45631 Ebberup,erup,17.531.212,06-01-2005,Fam. Salg,69.845,11,Stuehus,251,1953,,
+Tjørnevænget 265631 Ebberup,erup,1.062.500,24-12-2004,Fam. Salg,12.073,6,Sommerhus,88,1984,,Aktuel værdi
+Gammelhave 125631 Ebberup,erup,1.075.000,17-12-2004,Alm. Salg,15.357,4,Sommerhus,70,1971,,Aktuel værdi
+Å Strandvej 925631 Ebberup,erup,748.000,16-12-2004,Fam. Salg,9.121,3,Sommerhus,82,2009,,Aktuel værdi
+Pilehøjen 45631 Ebberup,erup,1.099.000,24-11-2004,Alm. Salg,5.664,5,Villa,194,1976,,Aktuel værdi
+Hegningen 155631 Ebberup,erup,3.257.000,08-11-2004,Alm. Salg,17.510,6,Stuehus,186,1834,,
+Pilehøjen 65631 Ebberup,erup,775.000,04-11-2004,Alm. Salg,6.102,4,Villa,127,1977,,Aktuel værdi
+Hasselvænget 185631 Ebberup,erup,1.110.000,03-11-2004,Alm. Salg,16.567,4,Sommerhus,67,1972,,Aktuel værdi
+Strandbakken 95631 Ebberup,erup,672.500,01-11-2004,Alm. Salg,-,6,Villa,124,1900,,Aktuel værdi
+Ræveskoven 35631 Ebberup,erup,539.000,22-10-2004,Alm. Salg,6.195,6,Villa,87,1887,,Aktuel værdi
+Uglebjergsvej 105631 Ebberup,erup,325.000,24-09-2004,Alm. Salg,3.009,3,Villa,108,1964,,Aktuel værdi
+Søstien 155631 Ebberup,erup,545.000,02-09-2004,Alm. Salg,4.160,3,Villa,131,1880,,Aktuel værdi
+Søvangen 135631 Ebberup,erup,895.000,30-08-2004,Alm. Salg,-,5,Villa,145,1863,,Aktuel værdi
+Å Strandvej 675631 Ebberup,erup,650.000,30-07-2004,Alm. Salg,17.567,3,Sommerhus,37,1942,,Aktuel værdi
+Ulvemosevej 55631 Ebberup,erup,788.142,14-07-2004,Alm. Salg,5.881,4,Villa,134,1927,,Aktuel værdi
+Strandbakken 85631 Ebberup,erup,775.000,21-05-2004,Alm. Salg,5.496,3,Sommerhus,141,1948,,Aktuel værdi
+Ravnekærvej 155631 Ebberup,erup,220.203,03-05-2004,Andet,1.835,5,Villa,120,1917,,Aktuel værdi
+Helnæs Byvej 385631 Ebberup,erup,500.000,03-05-2004,Alm. Salg,5.813,5,Villa,86,1866,,Aktuel værdi
+Gammelhave 135631 Ebberup,erup,1.050.000,20-04-2004,Alm. Salg,7.777,5,Sommerhus,135,2015,,Aktuel værdi
+Brombærvænget 235631 Ebberup,erup,1.100.000,04-04-2004,Alm. Salg,9.821,5,Sommerhus,112,2008,,Aktuel værdi
+Syrenvænget 165631 Ebberup,erup,875.000,25-03-2004,Alm. Salg,-,3,Sommerhus,96,1971,,Aktuel værdi
+Helnæs Byvej 415631 Ebberup,erup,830.000,18-03-2004,Alm. Salg,4.278,6,Villa,194,1827,,Aktuel værdi
+Jasminvænget 25631 Ebberup,erup,575.000,08-03-2004,Alm. Salg,5.927,3,Villa,97,1963,,Aktuel værdi
+Nyvej 55631 Ebberup,erup,745.811,29-02-2004,Alm. Salg,7.768,4,Villa,96,1962,,Aktuel værdi
+Brombærvænget 175631 Ebberup,erup,1.150.000,25-02-2004,Alm. Salg,10.952,4,Sommerhus,105,1973,,Aktuel værdi
+Højtoften 25631 Ebberup,erup,730.000,30-01-2004,Alm. Salg,5.069,4,Villa,144,1975,,Aktuel værdi
+Jasminvænget 175631 Ebberup,erup,988.000,30-01-2004,Alm. Salg,6.292,5,Villa,157,1976,,Aktuel værdi
+Hegningen 115631 Ebberup,erup,250.000,28-01-2004,Fam. Salg,3.125,3,Sommerhus,80,1872,,Aktuel værdi
+Poppelvænget 345631 Ebberup,erup,705.500,30-12-2003,Fam. Salg,-,5,Sommerhus,124,1979,,Aktuel værdi
+Birkevænget 25631 Ebberup,erup,870.000,22-12-2003,Alm. Salg,6.126,5,Villa,142,1972,,Aktuel værdi
+Poppelvænget 205631 Ebberup,erup,476.000,21-12-2003,Andet,6.611,4,Sommerhus,72,1995,,Aktuel værdi
+Søren Nordbys Vej 215631 Ebberup,erup,2.000.000,11-12-2003,Alm. Salg,5.102,13,Stuehus,392,1856,,
+Åhaven 55631 Ebberup,erup,1.900.000,17-10-2003,Alm. Salg,11.046,5,Villa,172,1850,,Aktuel værdi
+Thinggyden 25631 Ebberup,erup,840.000,04-10-2003,Alm. Salg,3.559,8,Villa,236,1850,,Aktuel værdi
+Søvangen 335631 Ebberup,erup,570.000,01-10-2003,Alm. Salg,6.627,4,Villa,86,1870,,Aktuel værdi
+Ebberupvej 1065631 Ebberup,erup,990.000,17-09-2003,Alm. Salg,6.827,6,Villa,145,1939,,Aktuel værdi
+Ravnekærvej 545631 Ebberup,erup,937.908,05-09-2003,Alm. Salg,5.718,4,Villa,164,1928,,Aktuel værdi
+Skovsbjergvej 45631 Ebberup,erup,475.000,08-08-2003,Alm. Salg,5.722,4,Villa,83,1937,,Aktuel værdi
+Å Strandvej 715631 Ebberup,erup,925.000,07-08-2003,Alm. Salg,-,5,Sommerhus,151,1830,,Aktuel værdi
+Højtoften 95631 Ebberup,erup,800.000,04-08-2003,Alm. Salg,6.250,4,Villa,128,1978,,Aktuel værdi
+Ebberupvej 375631 Ebberup,erup,659.000,31-07-2003,Alm. Salg,6.158,3,Villa,107,1930,,Aktuel værdi
+Poppelvænget 15631 Ebberup,erup,995.000,22-07-2003,Alm. Salg,13.266,4,Sommerhus,75,1976,,Aktuel værdi
+Prinsevej 175631 Ebberup,erup,920.000,08-07-2003,Alm. Salg,-,4,Villa,123,1954,,Aktuel værdi
+Hasselvænget 215631 Ebberup,erup,790.500,09-06-2003,Alm. Salg,11.625,6,Sommerhus,68,1971,,Aktuel værdi
+Poppelvænget 135631 Ebberup,erup,448.577,18-05-2003,Fam. Salg,5.607,4,Sommerhus,80,1975,,Aktuel værdi
+Egevænget 45631 Ebberup,erup,675.000,15-05-2003,Alm. Salg,6.750,4,Villa,100,1970,,Aktuel værdi
+Ebberupvej 305631 Ebberup,erup,1.075.000,02-05-2003,Alm. Salg,5.718,7,Villa,188,1916,,Aktuel værdi
+Hasselvænget 175631 Ebberup,erup,965.000,20-04-2003,Alm. Salg,12.062,4,Sommerhus,80,1972,,Aktuel værdi
+Stensland 25631 Ebberup,erup,600.000,03-04-2003,Alm. Salg,4.000,6,Villa,150,1930,,Aktuel værdi
+Prinsevej 115631 Ebberup,erup,570.000,24-03-2003,Alm. Salg,5.588,3,Villa,102,1934,,Aktuel værdi
+Wittenbergvej 655631 Ebberup,erup,845.000,04-03-2003,Alm. Salg,6.926,4,Villa,122,1985,,Aktuel værdi
+Syrenvænget 35631 Ebberup,erup,748.735,19-02-2003,Alm. Salg,14.398,4,Sommerhus,52,1969,,Aktuel værdi
+Syrenvænget 55631 Ebberup,erup,760.000,11-02-2003,Alm. Salg,11.515,4,Sommerhus,66,1971,,Aktuel værdi
+Brombærvænget 105631 Ebberup,erup,495.000,30-01-2003,Alm. Salg,7.071,4,Sommerhus,70,1972,,Aktuel værdi
+Topshøj 25631 Ebberup,erup,495.000,27-01-2003,Alm. Salg,6.513,3,Villa,76,1979,,Aktuel værdi
+Gammelhave 115631 Ebberup,erup,310.000,16-01-2003,Fam. Salg,3.483,5,Sommerhus,89,1971,,Aktuel værdi
+Rønnevej 15631 Ebberup,erup,820.000,30-12-2002,Alm. Salg,5.466,4,Villa,150,1974,,Aktuel værdi
+Å Strandvej 575631 Ebberup,erup,22.000,28-11-2002,Alm. Salg,611,2,Sommerhus,36,1955,,Aktuel værdi
+Lærkevænget 35631 Ebberup,erup,686.517,23-10-2002,Alm. Salg,4.767,4,Villa,144,1969,,Aktuel værdi
+Ebberupvej 985631 Ebberup,erup,989.000,07-10-2002,Alm. Salg,6.339,5,Villa,156,1936,,Aktuel værdi
+Søvangen 355631 Ebberup,erup,593.000,04-10-2002,Alm. Salg,5.542,3,Villa,107,1907,,Aktuel værdi
+Lindhovedvej 115631 Ebberup,erup,875.000,03-10-2002,Alm. Salg,7.352,5,Villa,119,1850,,Aktuel værdi
+Helnæs Byvej 695631 Ebberup,erup,664.086,30-09-2002,Alm. Salg,7.812,5,Villa,85,1865,,Aktuel værdi
+Bjørnemosevej 215631 Ebberup,erup,2.050.000,25-09-2002,Alm. Salg,17.226,3,Stuehus,119,1927,,
+Stævnevej 24A5631 Ebberup,erup,790.000,02-09-2002,Alm. Salg,5.524,5,Sommerhus,143,1977,,Aktuel værdi
+Hasselvænget 35631 Ebberup,erup,760.000,28-06-2002,Alm. Salg,9.620,5,Sommerhus,79,1979,,Aktuel værdi
+Ravnekærvej 475631 Ebberup,erup,4.273.642,22-06-2002,Fam. Salg,14.437,7,Stuehus,296,1850,,
+Ågyden 95631 Ebberup,erup,677.212,18-06-2002,Alm. Salg,10.107,3,Sommerhus,67,1958,,Aktuel værdi
+Ravnekærvej 73A5631 Ebberup,erup,382.995,13-06-2002,Fam. Salg,2.923,5,Villa,131,1979,,Aktuel værdi
+Slots Alle 85631 Ebberup,erup,712.779,29-05-2002,Alm. Salg,8.909,2,Villa,80,1880,,Aktuel værdi
+"Helnæs Byvej 21, ST. TV5631 Ebberup",erup,91.554,21-05-2002,Alm. Salg,880,5,Villa,104,1843,,Aktuel værdi
+Ravnekærvej 485631 Ebberup,erup,540.000,18-05-2002,Alm. Salg,2.596,6,Villa,208,1885,,Aktuel værdi
+Ebberupvej 965631 Ebberup,erup,700.000,01-05-2002,Alm. Salg,5.000,6,Villa,140,1915,,Aktuel værdi
+Dyrevænget 15631 Ebberup,erup,1.133.368,01-05-2002,Alm. Salg,4.927,9,Villa,230,1923,,Aktuel værdi
+Topshøj 105631 Ebberup,erup,455.000,23-04-2002,Alm. Salg,5.986,3,Villa,76,1979,,Aktuel værdi
+Lindhovedvej 175631 Ebberup,erup,8.084.109,18-03-2002,Fam. Salg,43.462,7,Stuehus,186,1882,,
+Brombærvænget 25631 Ebberup,erup,612.000,05-02-2002,Fam. Salg,-,4,Sommerhus,85,1973,,Aktuel værdi
+Uglebjergsvej 45631 Ebberup,erup,535.000,13-12-2001,Alm. Salg,4.863,3,Villa,110,1911,,Aktuel værdi
+Rybergsvej 275631 Ebberup,erup,705.963,20-11-2001,Alm. Salg,4.614,3,Villa,153,1914,,Aktuel værdi
+Ebberupvej 945631 Ebberup,erup,290.000,10-10-2001,Fam. Salg,2.101,5,Villa,138,1954,,Aktuel værdi
+Roveltsgyden 255631 Ebberup,erup,510.000,05-10-2001,Fam. Salg,4.322,5,Sommerhus,118,1850,,Aktuel værdi
+Slots Alle 105631 Ebberup,erup,1.950.000,29-09-2001,Andet,4.665,10,Villa,418,1800,,Aktuel værdi
+Højtoften 35631 Ebberup,erup,815.000,24-09-2001,Alm. Salg,6.367,4,Villa,128,1976,,Aktuel værdi
+Lindhovedvej 185631 Ebberup,erup,715.000,16-09-2001,Alm. Salg,5.860,5,Stuehus,122,1951,,
+Banevænget 85631 Ebberup,erup,659.000,24-08-2001,Alm. Salg,5.230,4,Villa,126,1933,,Aktuel værdi
+Ebberupvej 875631 Ebberup,erup,535.000,17-08-2001,Alm. Salg,2.675,7,Villa,200,1902,,Aktuel værdi
+Nyvej 345631 Ebberup,erup,580.000,16-08-2001,Alm. Salg,6.373,4,Villa,91,1964,,Aktuel værdi
+Bjergegyden 45631 Ebberup,erup,336.527,05-07-2001,Alm. Salg,2.926,4,Villa,115,1850,,Aktuel værdi
+Ravnekærvej 65631 Ebberup,erup,1.950.000,28-06-2001,Alm. Salg,7.862,7,Villa,248,1901,,Aktuel værdi
+Stævnevej 225631 Ebberup,erup,554.552,15-06-2001,Alm. Salg,8.402,3,Villa,66,1981,,Aktuel værdi
+Flædekærvej 175631 Ebberup,erup,525.000,14-06-2001,Alm. Salg,4.772,3,Villa,110,1900,,Aktuel værdi
+Nyvej 25631 Ebberup,erup,495.000,11-06-2001,Alm. Salg,5.322,4,Villa,93,1918,,Aktuel værdi
+Topshøj 405631 Ebberup,erup,525.000,30-05-2001,Alm. Salg,6.907,2,Rækkehus,76,1979,,Aktuel værdi
+Ebberupvej 635631 Ebberup,erup,960.000,28-05-2001,Alm. Salg,6.000,4,Villa,160,1959,,Aktuel værdi
+Poppelvænget 265631 Ebberup,erup,680.000,21-05-2001,Alm. Salg,8.395,4,Sommerhus,81,1972,,Aktuel værdi
+Ravnekærvej 345631 Ebberup,erup,760.000,19-05-2001,Alm. Salg,-,6,Villa,168,1900,,Aktuel værdi
+Nyvej 125631 Ebberup,erup,321.625,08-05-2001,Alm. Salg,-,5,Villa,143,1966,,Aktuel værdi
+Skovsbjergvej 205631 Ebberup,erup,17.600.000,30-03-2001,Alm. Salg,157.142,4,Villa,112,1951,,Aktuel værdi
+Toftedalsvej 125631 Ebberup,erup,825.000,19-03-2001,Alm. Salg,6.547,4,Villa,126,1969,,Aktuel værdi
+Ebberupvej 1205631 Ebberup,erup,100.000,18-02-2001,Alm. Salg,1.098,3,Villa,91,1884,,Aktuel værdi
+Å Strandvej 405631 Ebberup,erup,391.000,30-01-2001,Fam. Salg,5.835,3,Sommerhus,67,1961,,Aktuel værdi
+Hasselvænget 155631 Ebberup,erup,862.792,14-01-2001,Alm. Salg,11.503,5,Sommerhus,75,1972,,Aktuel værdi
+Wittenbergvej 635631 Ebberup,erup,870.000,08-12-2000,Alm. Salg,7.909,5,Villa,110,1988,,Aktuel værdi
+Å Strandvej 645631 Ebberup,erup,1.340.000,30-10-2000,Alm. Salg,7.657,6,Villa,175,1947,,Aktuel værdi
+Ravnekærvej 975631 Ebberup,erup,502.836,27-10-2000,Alm. Salg,7.183,4,Villa,70,1956,,Aktuel værdi
+Strandbakken 395631 Ebberup,erup,473.750,27-09-2000,Alm. Salg,3.458,6,Villa,137,1947,,Aktuel værdi
+Ebberupvej 415631 Ebberup,erup,640.000,14-09-2000,Alm. Salg,-,5,Villa,145,1930,,Aktuel værdi
+Å Strandvej 865631 Ebberup,erup,1.639.320,12-09-2000,Alm. Salg,11.228,5,Sommerhus,146,1770,,Aktuel værdi
+Hegnet 65631 Ebberup,erup,970.000,05-09-2000,Alm. Salg,7.028,4,Villa,138,1975,,Aktuel værdi
+Højtoften 65631 Ebberup,erup,735.000,05-08-2000,Alm. Salg,6.336,4,Villa,116,1978,,Aktuel værdi
+Å Strandvej 785631 Ebberup,erup,255.000,05-07-2000,Fam. Salg,4.722,4,Sommerhus,54,1937,,Aktuel værdi
+Stubben 45631 Ebberup,erup,890.000,27-06-2000,Alm. Salg,6.054,5,Villa,147,1975,,Aktuel værdi
+Fåborgvej 1125631 Ebberup,erup,349.000,26-06-2000,Alm. Salg,3.597,5,Villa,97,1880,,Aktuel værdi
+Toftedalsvej 45631 Ebberup,erup,535.392,06-05-2000,Alm. Salg,3.936,5,Villa,136,1970,,Aktuel værdi
+Klinteskovsvej 65631 Ebberup,erup,530.000,30-04-2000,Alm. Salg,3.630,7,Villa,146,1864,,Aktuel værdi
+Ulvemosevej 45631 Ebberup,erup,279.000,19-04-2000,Alm. Salg,-,3,Villa,144,1880,,Aktuel værdi
+Rybergsvej 255631 Ebberup,erup,1.027.403,08-04-2000,Alm. Salg,9.173,4,Villa,112,1900,,Aktuel værdi
+Prinsevej 415631 Ebberup,erup,649.000,28-03-2000,Alm. Salg,6.425,4,Villa,101,1953,,Aktuel værdi
+Ebberupvej 815631 Ebberup,erup,906.237,02-03-2000,Alm. Salg,5.663,6,Villa,160,1932,,Aktuel værdi
+Højtoften 255631 Ebberup,erup,876.733,15-02-2000,Andet,3.578,8,Villa,245,1973,,Aktuel værdi
+Tjørnevænget 45631 Ebberup,erup,355.000,11-02-2000,Alm. Salg,5.546,4,Sommerhus,64,1969,,Aktuel værdi
+Bjørnemosevej 155631 Ebberup,erup,850.000,09-01-2000,Alm. Salg,-,5,Stuehus,164,1927,,
+Ebberupvej 315631 Ebberup,erup,895.000,24-11-1999,Alm. Salg,4.917,5,Villa,182,1939,,Aktuel værdi
+Nyvej 175631 Ebberup,erup,713.157,20-10-1999,Alm. Salg,6.483,3,Villa,110,1962,,Aktuel værdi
+Lindhovedvej 45631 Ebberup,erup,720.000,13-10-1999,Alm. Salg,-,8,Villa,240,1867,,Aktuel værdi
+Jasminvænget 15631 Ebberup,erup,455.000,09-09-1999,Alm. Salg,6.500,3,Villa,70,1961,,Aktuel værdi
+Ebberupvej 935631 Ebberup,erup,650.000,01-09-1999,Alm. Salg,-,8,Villa,215,1912,,Aktuel værdi
+Syrenvænget 175631 Ebberup,erup,891.605,27-08-1999,Alm. Salg,12.213,4,Sommerhus,73,1974,,Aktuel værdi
+Strandbakken 475631 Ebberup,erup,1.400.000,25-08-1999,Alm. Salg,6.060,9,Villa,231,1895,,Aktuel værdi
+Rybergsvej 305631 Ebberup,erup,210.000,07-07-1999,Fam. Salg,1.653,4,Villa,127,1827,,Aktuel værdi
+Jasminvænget 95631 Ebberup,erup,849.273,03-07-1999,Alm. Salg,6.687,4,Villa,127,1976,,Aktuel værdi
+Ravnekærvej 575631 Ebberup,erup,425.979,02-07-1999,Alm. Salg,3.251,4,Villa,131,1850,,Aktuel værdi
+Topshøj 85631 Ebberup,erup,535.000,02-07-1999,Alm. Salg,7.039,3,Villa,76,1979,,Aktuel værdi
+Bjørnemosevej 175631 Ebberup,erup,850.000,01-07-1999,Alm. Salg,-,8,Villa,227,1927,,Aktuel værdi
+Ebberupvej 845631 Ebberup,erup,370.000,01-07-1999,Alm. Salg,3.189,5,Villa,116,1914,,Aktuel værdi
+Ræveskoven 125631 Ebberup,erup,625.000,22-06-1999,Alm. Salg,5.681,6,Villa,110,1915,,Aktuel værdi
+Gammelhave 35631 Ebberup,erup,735.000,17-06-1999,Alm. Salg,12.049,3,Sommerhus,61,1972,,Aktuel værdi
+Brombærvænget 155631 Ebberup,erup,1.250.000,03-05-1999,Alm. Salg,9.920,4,Sommerhus,126,1972,,Aktuel værdi
+Strandbakken 205631 Ebberup,erup,755.047,28-04-1999,Alm. Salg,3.561,7,Villa,212,1903,,Aktuel værdi
+Stensland 45631 Ebberup,erup,679.000,26-04-1999,Alm. Salg,6.656,5,Villa,102,1922,,Aktuel værdi
+Poppelvænget 505631 Ebberup,erup,1.200.000,15-04-1999,Alm. Salg,17.391,5,Sommerhus,69,1975,,Aktuel værdi
+Ebberupvej 175631 Ebberup,erup,578.848,08-04-1999,Alm. Salg,5.460,5,Villa,106,1956,,Aktuel værdi
+Strandbakken 55631 Ebberup,erup,770.000,04-04-1999,Fam. Salg,8.461,3,Stuehus,91,1995,,
+Søvangen 165631 Ebberup,erup,370.000,03-03-1999,Alm. Salg,7.400,3,Villa,50,1770,,Aktuel værdi
+Bjørnemosevej 125631 Ebberup,erup,863.399,12-02-1999,Alm. Salg,5.264,4,Stuehus,164,1947,,
+Ravnekærvej 85631 Ebberup,erup,890.000,22-01-1999,Alm. Salg,4.341,5,Villa,205,1910,,Aktuel værdi
+Søren Nordbys Vej 185631 Ebberup,erup,319.198,07-12-1998,Alm. Salg,5.148,2,Villa,62,1770,,Aktuel værdi
+Thinggyden 215631 Ebberup,erup,735.000,17-11-1998,Alm. Salg,4.323,6,Villa,170,1917,,Aktuel værdi
+Stævnevej 195631 Ebberup,erup,558.263,30-10-1998,Alm. Salg,3.342,7,Villa,167,1850,,Aktuel værdi
+Ryet 55631 Ebberup,erup,271.518,19-10-1998,Fam. Salg,3.824,5,Villa,71,1906,,Aktuel værdi
+Syrenvænget 185631 Ebberup,erup,980.000,17-09-1998,Alm. Salg,-,4,Sommerhus,79,1972,,Aktuel værdi
+Helnæs Byvej 26A5631 Ebberup,erup,115.000,09-09-1998,Alm. Salg,737,6,Villa,156,2005,,Aktuel værdi
+Stævnevej 95631 Ebberup,erup,535.000,03-09-1998,Alm. Salg,1.606,7,Villa,333,2000,,Aktuel værdi
+Snaven 115631 Ebberup,erup,995.000,07-08-1998,Fam. Salg,6.589,5,Villa,151,1965,,Aktuel værdi
+Pilehøjen 195631 Ebberup,erup,750.000,05-08-1998,Fam. Salg,5.859,4,Villa,128,1977,,Aktuel værdi
+Wittenbergvej 695631 Ebberup,erup,950.006,22-07-1998,Alm. Salg,6.291,6,Villa,151,1984,,Aktuel værdi
+Strandbakken 265631 Ebberup,erup,1.434.000,15-07-1998,Alm. Salg,9.075,4,Sommerhus,158,1932,,Aktuel værdi
+Strandbakken 125631 Ebberup,erup,650.000,13-07-1998,Alm. Salg,4.545,6,Villa,143,1905,,Aktuel værdi
+Bøgeskovsvej 25631 Ebberup,erup,315.000,06-07-1998,Alm. Salg,-,5,Villa,197,1907,,Aktuel værdi
+Banevænget 55631 Ebberup,erup,531.684,06-07-1998,Alm. Salg,4.505,3,Villa,118,1945,,Aktuel værdi
+Ebberupvej 215631 Ebberup,erup,550.000,25-06-1998,Alm. Salg,5.500,4,Villa,100,1938,,Aktuel værdi
+Bøgevænget 95631 Ebberup,erup,650.000,19-05-1998,Alm. Salg,6.500,4,Villa,100,1970,,Aktuel værdi
+Bjørnemosevej 195631 Ebberup,erup,1.000.000,19-05-1998,Alm. Salg,7.812,7,Villa,128,1927,,Aktuel værdi
+Topshøj 345631 Ebberup,erup,411.558,04-05-1998,Alm. Salg,5.415,3,Rækkehus,76,1979,,Aktuel værdi
+Poppelvænget 65631 Ebberup,erup,627.580,29-04-1998,Alm. Salg,-,4,Sommerhus,86,1973,,Aktuel værdi
+Syrenvænget 75631 Ebberup,erup,695.000,25-04-1998,Alm. Salg,10.692,4,Sommerhus,65,1970,,Aktuel værdi
+"Rybergsvej 19, 15631 Ebberup",erup,325.000,07-04-1998,Alm. Salg,2.685,3,Lejlighed,121,1890,,Aktuel værdi
+Rybergsvej 485631 Ebberup,erup,380.000,12-03-1998,Alm. Salg,5.277,3,Villa,72,1950,,Aktuel værdi
+Å Strandvej 1025631 Ebberup,erup,142.470,06-03-1998,Alm. Salg,1.565,3,Villa,91,1830,,Aktuel værdi
+Prinsevej 145631 Ebberup,erup,764.587,30-01-1998,Alm. Salg,3.640,6,Villa,210,1910,,Aktuel værdi
+Søstien 115631 Ebberup,erup,715.000,16-12-1997,Alm. Salg,-,5,Villa,140,1900,,Aktuel værdi
+Topshøj 365631 Ebberup,erup,436.000,01-12-1997,Alm. Salg,5.736,2,Rækkehus,76,1979,,Aktuel værdi
+Ebberupvej 615631 Ebberup,erup,303.550,25-11-1997,Alm. Salg,-,8,Villa,197,1886,,Aktuel værdi
+Poppelvænget 95631 Ebberup,erup,870.000,23-11-1997,Alm. Salg,10.357,4,Sommerhus,84,1974,,Aktuel værdi
+Rybergsvej 265631 Ebberup,erup,75.000,14-11-1997,Alm. Salg,382,6,Villa,196,1998,,Aktuel værdi
+Tjørnevænget 155631 Ebberup,erup,960.000,06-11-1997,Alm. Salg,16.000,4,Sommerhus,60,1973,,Aktuel værdi
+Åvangen 185631 Ebberup,erup,850.000,19-09-1997,Alm. Salg,8.500,4,Sommerhus,100,1963,,Aktuel værdi
+Ravnekærvej 715631 Ebberup,erup,204.465,29-08-1997,Alm. Salg,4.543,2,Sommerhus,45,1900,,Aktuel værdi
+Rybergsvej 345631 Ebberup,erup,573.922,29-08-1997,Alm. Salg,-,4,Villa,102,1935,,Aktuel værdi
+Bjørnemosevej 105631 Ebberup,erup,495.000,22-08-1997,Alm. Salg,2.877,5,Villa,172,1927,,Aktuel værdi
+Poppelvænget 155631 Ebberup,erup,950.000,03-08-1997,Alm. Salg,12.025,4,Sommerhus,79,1973,,Aktuel værdi
+Rybergsvej 555631 Ebberup,erup,386.051,30-06-1997,Alm. Salg,1.762,6,Villa,219,1900,,Aktuel værdi
+Hasselvænget 235631 Ebberup,erup,1.015.971,23-06-1997,Alm. Salg,13.917,4,Sommerhus,73,1973,,Aktuel værdi
+Ravnekærvej 495631 Ebberup,erup,268.000,23-05-1997,Alm. Salg,3.884,3,Rækkehus,69,1850,,Aktuel værdi
+Stævnevej 22A5631 Ebberup,erup,706.178,14-05-1997,Alm. Salg,8.938,4,Villa,79,1995,,Aktuel værdi
+Hasselvænget 125631 Ebberup,erup,525.000,09-05-1997,Alm. Salg,6.562,4,Sommerhus,80,1973,,Aktuel værdi
+Brombærvænget 255631 Ebberup,erup,909.000,06-05-1997,Alm. Salg,9.568,4,Sommerhus,95,2007,,Aktuel værdi
+Hasselvænget 225631 Ebberup,erup,575.000,01-05-1997,Alm. Salg,6.764,4,Sommerhus,85,1997,,Aktuel værdi
+Ravnekærvej 295631 Ebberup,erup,564.646,29-04-1997,Alm. Salg,5.703,5,Villa,99,1942,,Aktuel værdi
+Ravnekærvej 245631 Ebberup,erup,535.000,17-04-1997,Alm. Salg,-,6,Villa,137,1934,,Aktuel værdi
+Rybergsvej 75631 Ebberup,erup,2.000.000,04-04-1997,Fam. Salg,19.607,3,Villa,102,1900,,Aktuel værdi
+Odensevej 965631 Ebberup,erup,993.940,26-03-1997,Alm. Salg,7.150,5,Villa,139,1923,,Aktuel værdi
+Ravnekærvej 585631 Ebberup,erup,350.000,21-03-1997,Alm. Salg,3.500,4,Stuehus,100,1877,,
+Strandbakken 225631 Ebberup,erup,490.000,24-02-1997,Alm. Salg,4.188,5,Villa,117,1902,,Aktuel værdi
+Langegyde 95631 Ebberup,erup,350.000,16-02-1997,Alm. Salg,4.375,7,Villa,80,1951,,Aktuel værdi
+Ebberupvej 105631 Ebberup,erup,550.198,12-02-1997,Alm. Salg,3.217,6,Villa,171,1948,,Aktuel værdi
+Å Strandvej 365631 Ebberup,erup,148.750,09-12-1996,Fam. Salg,2.479,4,Sommerhus,60,1959,,Aktuel værdi
+Lindhovedvej 215631 Ebberup,erup,257.490,29-11-1996,Alm. Salg,-,8,Stuehus,214,1870,,
+Ågyden 245631 Ebberup,erup,576.332,20-11-1996,Alm. Salg,5.386,3,Sommerhus,107,2007,,Aktuel værdi
+Snaven 25631 Ebberup,erup,307.000,20-11-1996,Alm. Salg,3.488,4,Villa,88,1900,,Aktuel værdi
+Strandbakken 455631 Ebberup,erup,700.000,28-10-1996,Alm. Salg,-,7,Villa,89,1965,,Aktuel værdi
+Kirkebakken 15631 Ebberup,erup,267.609,04-10-1996,Alm. Salg,1.057,6,Villa,253,1847,,Aktuel værdi
+Nyvej 285631 Ebberup,erup,475.000,02-09-1996,Alm. Salg,5.588,4,Villa,85,1964,,Aktuel værdi
+Strandbakken 285631 Ebberup,erup,450.000,28-08-1996,Fam. Salg,-,5,Villa,141,1872,,Aktuel værdi
+Helnæs Byvej 455631 Ebberup,erup,300.000,16-08-1996,Alm. Salg,3.529,3,Villa,85,1938,,Aktuel værdi
+Ebberupvej 545631 Ebberup,erup,395.000,14-08-1996,Alm. Salg,3.237,4,Villa,122,1890,,Aktuel værdi
+Bøgeskovsvej 115631 Ebberup,erup,246.200,12-08-1996,Alm. Salg,2.930,3,Villa,84,1910,,Aktuel værdi
+Ravnekærvej 145631 Ebberup,erup,192.250,08-08-1996,Andet,1.716,4,Villa,112,1935,,Aktuel værdi
+Ryet 255631 Ebberup,erup,666.000,28-06-1996,Alm. Salg,-,7,Stuehus,231,1857,,
+Ågyden 15631 Ebberup,erup,325.000,21-06-1996,Alm. Salg,5.803,3,Sommerhus,56,1959,,Aktuel værdi
+Bjørnemosevej 75631 Ebberup,erup,653.585,17-06-1996,Alm. Salg,-,5,Villa,194,1927,,Aktuel værdi
+Brombærvænget 165631 Ebberup,erup,780.000,20-05-1996,Alm. Salg,13.220,4,Sommerhus,59,1988,,Aktuel værdi
+Bøgeskovsvej 185631 Ebberup,erup,1.700.000,17-05-1996,Alm. Salg,8.333,9,Stuehus,204,1833,,
+Birkevænget 105631 Ebberup,erup,715.000,17-05-1996,Alm. Salg,3.994,7,Villa,179,1970,,Aktuel værdi
+Hasselvænget 105631 Ebberup,erup,450.000,05-05-1996,Alm. Salg,5.921,4,Sommerhus,76,1972,,Aktuel værdi
+Ravnekærvej 215631 Ebberup,erup,450.000,03-04-1996,Alm. Salg,3.383,5,Villa,133,1925,,Aktuel værdi
+Ravnekærvej 405631 Ebberup,erup,713.604,03-04-1996,Alm. Salg,2.820,9,Stuehus,253,1880,,
+Lindhovedvej 255631 Ebberup,erup,2.000.000,02-04-1996,Fam. Salg,8.810,7,Stuehus,227,1858,,
+Fåborgvej 1435631 Ebberup,erup,425.000,26-03-1996,Alm. Salg,-,5,Villa,110,1930,,Aktuel værdi
+Lindhovedvej 75631 Ebberup,erup,648.000,04-03-1996,Alm. Salg,6.680,4,Villa,97,1951,,Aktuel værdi
+Jasminvænget 55631 Ebberup,erup,485.000,29-02-1996,Fam. Salg,3.540,5,Villa,137,1973,,Aktuel værdi
+Krogen 115631 Ebberup,erup,738.000,23-02-1996,Alm. Salg,3.989,5,Villa,185,1870,,Aktuel værdi
+Ebberupvej 565631 Ebberup,erup,265.000,30-01-1996,Fam. Salg,2.500,4,Villa,106,1915,,Aktuel værdi
+Brombærvænget 35631 Ebberup,erup,395.000,23-01-1996,Alm. Salg,6.583,4,Sommerhus,60,1976,,Aktuel værdi
+Ryet 45631 Ebberup,erup,250.000,31-12-1995,Fam. Salg,1.736,4,Villa,144,1964,,Aktuel værdi
+Ebberupvej 645631 Ebberup,erup,640.000,21-12-1995,Alm. Salg,4.413,5,Villa,145,1900,,Aktuel værdi
+Ågyden 85631 Ebberup,erup,225.000,30-10-1995,Fam. Salg,-,4,Sommerhus,66,1935,,Aktuel værdi
+Åvangen 125631 Ebberup,erup,620.000,28-10-1995,Alm. Salg,-,4,Sommerhus,69,1965,,Aktuel værdi
+Stævnevej 105631 Ebberup,erup,280.000,23-10-1995,Alm. Salg,1.958,4,Villa,143,1977,,Aktuel værdi
+Birkevænget 35631 Ebberup,erup,634.000,16-09-1995,Alm. Salg,3.234,6,Villa,196,1973,,Aktuel værdi
+Thinggyden 115631 Ebberup,erup,170.000,13-09-1995,Fam. Salg,1.700,3,Villa,100,1770,,Aktuel værdi
+Strandbakken 515631 Ebberup,erup,330.000,24-05-1995,Alm. Salg,3.113,5,Villa,106,1869,,Aktuel værdi
+Ravnekærvej 645631 Ebberup,erup,365.000,15-05-1995,Alm. Salg,1.409,10,Villa,259,1877,,Aktuel værdi
+Højtoften 55631 Ebberup,erup,430.000,07-04-1995,Alm. Salg,3.495,4,Villa,123,1977,,Aktuel værdi
+Nyvej 215631 Ebberup,erup,410.000,04-04-1995,Alm. Salg,2.397,6,Villa,171,1930,,Aktuel værdi
+Ræveskoven 165631 Ebberup,erup,680.000,20-01-1995,Alm. Salg,3.597,6,Stuehus,189,1777,,
+"Rybergsvej 19A, ST5631 Ebberup",erup,290.000,13-12-1994,Alm. Salg,2.416,3,Lejlighed,120,1890,,Aktuel værdi
+Klinteskovsvej 35631 Ebberup,erup,230.000,10-12-1994,Fam. Salg,2.277,4,Villa,101,1979,,Aktuel værdi
+Ravnekærvej 465631 Ebberup,erup,400.000,11-10-1994,Alm. Salg,3.669,3,Villa,109,1822,,Aktuel værdi
+Poppelvænget 405631 Ebberup,erup,420.000,19-08-1994,Fam. Salg,5.250,3,Sommerhus,80,1972,,Aktuel værdi
+Ebberupvej 1055631 Ebberup,erup,925.000,03-08-1994,Alm. Salg,2.899,8,Villa,319,1911,,Aktuel værdi
+Åvangen 25631 Ebberup,erup,905.000,28-07-1994,Alm. Salg,5.084,7,Villa,178,1966,,Aktuel værdi
+Å Strandvej 245631 Ebberup,erup,790.000,14-07-1994,Alm. Salg,-,7,Villa,261,1895,,Aktuel værdi
+Ravnekærvej 325631 Ebberup,erup,2.900.000,09-07-1994,Alm. Salg,10.394,11,Stuehus,279,1910,,
+Stævnevej 75631 Ebberup,erup,561.000,06-07-1994,Fam. Salg,2.573,8,Villa,218,1860,,Aktuel værdi
+Helnæs Byvej 355631 Ebberup,erup,270.000,26-06-1994,Alm. Salg,964,6,Villa,280,1998,,Aktuel værdi
+Å Strandvej 815631 Ebberup,erup,800.000,24-06-1994,Alm. Salg,4.597,3,Stuehus,174,1800,,
+Højtoften 175631 Ebberup,erup,578.000,23-06-1994,Fam. Salg,-,7,Villa,196,1976,,Aktuel værdi
+Højtoften 195631 Ebberup,erup,630.000,14-06-1994,Alm. Salg,3.750,6,Villa,168,1975,,Aktuel værdi
+Langegyde 355631 Ebberup,erup,290.000,13-06-1994,Alm. Salg,1.666,5,Villa,174,2006,,Aktuel værdi
+Bøgeskovsvej 55631 Ebberup,erup,1.455.675,08-06-1994,Alm. Salg,6.441,8,Stuehus,226,1877,,
+Ebberupvej 855631 Ebberup,erup,350.000,26-05-1994,Alm. Salg,2.611,5,Villa,134,1900,,Aktuel værdi
+Vintergårdsvej 25631 Ebberup,erup,1.000.000,18-05-1994,Alm. Salg,5.555,7,Stuehus,180,1827,,
+Syrenvænget 205631 Ebberup,erup,300.000,10-05-1994,Fam. Salg,2.343,4,Sommerhus,128,2014,,Aktuel værdi
+Højtoften 145631 Ebberup,erup,595.000,08-05-1994,Alm. Salg,3.520,4,Villa,169,1976,,Aktuel værdi
+Prinsevej 355631 Ebberup,erup,375.000,30-04-1994,Alm. Salg,3.826,4,Villa,98,1942,,Aktuel værdi
+Poppelvænget 305631 Ebberup,erup,188.000,28-04-1994,Alm. Salg,2.473,4,Sommerhus,76,1994,,Aktuel værdi
+Ravnekærvej 535631 Ebberup,erup,310.000,26-04-1994,Alm. Salg,2.198,5,Rækkehus,141,1920,,Aktuel værdi
+Thinggyden 55631 Ebberup,erup,610.000,18-04-1994,Alm. Salg,2.563,6,Villa,238,1825,,Aktuel værdi
+Syrenvænget 125631 Ebberup,erup,198.000,16-04-1994,Alm. Salg,2.129,4,Sommerhus,93,1995,,Aktuel værdi
+Ebberupvej 905631 Ebberup,erup,405.000,13-04-1994,Alm. Salg,-,4,Villa,130,1935,,Aktuel værdi
+Ågyden 165631 Ebberup,erup,497.137,12-04-1994,Alm. Salg,6.062,3,Sommerhus,82,1955,,Aktuel værdi
+Å Strandvej 945631 Ebberup,erup,686.000,19-03-1994,Alm. Salg,6.017,5,Villa,114,1902,,Aktuel værdi
+Dyrevænget 25631 Ebberup,erup,372.938,07-03-1994,Alm. Salg,2.095,8,Villa,178,1896,,Aktuel værdi
+Helnæs Byvej 615631 Ebberup,erup,205.000,04-02-1994,Fam. Salg,2.070,4,Sommerhus,99,1895,,Aktuel værdi
+Bøgevænget 45631 Ebberup,erup,470.000,21-01-1994,Alm. Salg,-,5,Villa,182,1973,,Aktuel værdi
+Ravnekærvej 205631 Ebberup,erup,3.293.000,03-01-1994,Alm. Salg,7.675,11,Stuehus,429,1893,,
+Kirkebakken 85631 Ebberup,erup,710.000,15-12-1993,Alm. Salg,3.944,6,Villa,180,1912,,Aktuel værdi
+Ravnekærvej 455631 Ebberup,erup,440.000,30-11-1993,Alm. Salg,-,5,Villa,146,1948,,Aktuel værdi
+Kirkebakken 225631 Ebberup,erup,200.000,27-10-1993,Fam. Salg,833,7,Villa,240,1924,,Aktuel værdi
+Søvangen 235631 Ebberup,erup,545.000,03-09-1993,Alm. Salg,2.930,6,Villa,186,1875,,Aktuel værdi
+Uglebjergsvej 65631 Ebberup,erup,195.000,24-08-1993,Alm. Salg,3.305,3,Villa,59,1869,,Aktuel værdi
+Syrenvænget 115631 Ebberup,erup,360.000,12-07-1993,Alm. Salg,6.428,4,Sommerhus,56,1971,,Aktuel værdi
+Topshøj 6A5631 Ebberup,erup,275.000,25-06-1993,Alm. Salg,4.044,2,Villa,68,1979,,Aktuel værdi
+Strandbakken 29B5631 Ebberup,erup,450.000,19-06-1993,Alm. Salg,5.625,4,Sommerhus,80,1979,,Aktuel værdi
+Ravnekærvej 595631 Ebberup,erup,241.000,18-06-1993,Alm. Salg,3.171,4,Villa,76,1949,,Aktuel værdi
+Helnæs Byvej 95631 Ebberup,erup,901.470,11-06-1993,Fam. Salg,3.756,7,Stuehus,240,1872,,
+Rybergsvej 425631 Ebberup,erup,610.000,29-04-1993,Alm. Salg,-,8,Villa,220,1857,,Aktuel værdi
+Søvangen 175631 Ebberup,erup,400.000,19-04-1993,Alm. Salg,-,7,Villa,161,1952,,Aktuel værdi
+Helnæs Byvej 115631 Ebberup,erup,1.350.000,18-04-1993,Alm. Salg,5.672,7,Stuehus,238,1951,,
+Lærkevænget 75631 Ebberup,erup,500.000,09-02-1993,Alm. Salg,3.623,4,Villa,138,1970,,Aktuel værdi
+Helnæs Byvej 185631 Ebberup,erup,586.773,21-01-1993,Alm. Salg,2.807,8,Stuehus,209,1923,,
+Åvangen 165631 Ebberup,erup,306.000,12-01-1993,Fam. Salg,5.275,2,Sommerhus,58,1963,,Aktuel værdi
+Helnæs Byvej 495631 Ebberup,erup,270.000,18-12-1992,Alm. Salg,3.000,2,Villa,90,1773,,Aktuel værdi
+Ebberupvej 585631 Ebberup,erup,425.000,04-12-1992,Alm. Salg,2.777,3,Villa,153,1897,,Aktuel værdi
+Nyvej 365631 Ebberup,erup,270.000,23-10-1992,Alm. Salg,3.000,5,Villa,90,1955,,Aktuel værdi
+Banevænget 15631 Ebberup,erup,240.000,19-10-1992,Alm. Salg,2.033,4,Villa,118,1948,,Aktuel værdi
+Prinsevej 205631 Ebberup,erup,700.000,07-10-1992,Alm. Salg,5.343,3,Stuehus,131,1927,,
+Prinsevej 575631 Ebberup,erup,650.000,23-09-1992,Alm. Salg,3.186,4,Villa,204,1925,,Aktuel værdi
+Pilehøjen 105631 Ebberup,erup,550.000,22-09-1992,Alm. Salg,3.125,6,Villa,176,1980,,Aktuel værdi
+Ravnekærvej 235631 Ebberup,erup,360.000,18-09-1992,Alm. Salg,4.337,4,Villa,83,1899,,Aktuel værdi
+Lindhovedvej 65631 Ebberup,erup,350.000,01-09-1992,Alm. Salg,1.767,5,Stuehus,198,1844,,
+Slots Alle 265631 Ebberup,erup,420.000,27-07-1992,Alm. Salg,2.500,6,Villa,168,1623,,Aktuel værdi
+Åvangen 45631 Ebberup,erup,255.528,19-06-1992,Alm. Salg,2.028,3,Sommerhus,126,2008,,Aktuel værdi
+Rybergsvej 535631 Ebberup,erup,450.000,04-06-1992,Alm. Salg,-,3,Villa,103,1933,,Aktuel værdi
+Jasminvænget 125631 Ebberup,erup,490.000,03-05-1992,Fam. Salg,3.101,5,Villa,158,1972,,Aktuel værdi
+Å Strandvej 555631 Ebberup,erup,474.000,09-04-1992,Alm. Salg,7.074,4,Villa,67,1840,,Aktuel værdi
+Bjergegyden 95631 Ebberup,erup,370.000,26-03-1992,Alm. Salg,1.510,12,Villa,245,1868,,Aktuel værdi
+Søvangen 315631 Ebberup,erup,805.000,03-02-1992,Fam. Salg,3.096,6,Stuehus,260,1888,,

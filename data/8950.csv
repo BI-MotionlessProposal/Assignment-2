@@ -1,0 +1,1330 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Havvejen 98950 Ørsted,sted,221.250,18-05-2017,Alm. Salg,4.425,1,Sommerhus,50,1964,-26 %,Aktuel værdi
+Dr Høegs Vej 98950 Ørsted,sted,1.395.000,11-05-2017,Andet,11.434,3,Villa,122,1962,,Aktuel værdi
+Spovevej 268950 Ørsted,sted,175.000,03-05-2017,Fam. Salg,2.083,5,Sommerhus,84,1982,,Aktuel værdi
+Rougsøvej 698950 Ørsted,sted,699.734,23-03-2017,Andet,2.429,8,Villa,288,1900,,Aktuel værdi
+Nydamsvej 398950 Ørsted,sted,2.100.000,16-03-2017,Alm. Salg,14.000,5,Stuehus,150,1927,,
+Voer Færgevej 14B8950 Ørsted,sted,565.000,16-03-2017,Alm. Salg,6.208,3,Villa,91,1900,-5 %,Aktuel værdi
+Sneppevej 388950 Ørsted,sted,420.000,10-03-2017,Alm. Salg,6.774,3,Sommerhus,62,1973,,Aktuel værdi
+Voer Færgevej 278950 Ørsted,sted,1.847.000,03-02-2017,Alm. Salg,13.192,8,Stuehus,140,1905,,
+Koglevej 58950 Ørsted,sted,275.000,25-01-2017,Fam. Salg,4.104,4,Sommerhus,67,1973,,Aktuel værdi
+Voer Færgevej 138950 Ørsted,sted,733.000,30-12-2016,Alm. Salg,6.264,5,Villa,117,1925,-2 %,Aktuel værdi
+"Voer Gade 13, ST8950 Ørsted",sted,930.000,27-12-2016,Alm. Salg,6.642,4,Villa,140,2014,-22 %,Aktuel værdi
+Voer Færgevej 838950 Ørsted,sted,500.000,12-12-2016,Alm. Salg,3.496,3,Villa,143,1976,-13 %,Aktuel værdi
+Kare Engvej 108950 Ørsted,sted,120.000,08-12-2016,Alm. Salg,895,4,Villa,134,1900,,Aktuel værdi
+Digemarken 98950 Ørsted,sted,515.000,07-12-2016,Alm. Salg,5.150,3,Villa,100,1956,-10 %,Aktuel værdi
+Mågevej 58950 Ørsted,sted,1.215.000,29-11-2016,Alm. Salg,9.492,5,Sommerhus,128,1964,,Aktuel værdi
+Havtornevej 178950 Ørsted,sted,313.500,24-11-2016,Alm. Salg,7.837,3,Sommerhus,40,1969,,Aktuel værdi
+Spovevej 388950 Ørsted,sted,495.000,14-11-2016,Alm. Salg,7.615,3,Sommerhus,65,1975,-17 %,Aktuel værdi
+Skovbakken 1A8950 Ørsted,sted,425.000,10-11-2016,Andet,3.663,4,Villa,116,1973,,Aktuel værdi
+Spovevej 228950 Ørsted,sted,330.000,08-11-2016,Alm. Salg,3.402,5,Sommerhus,97,1969,,Aktuel værdi
+Ternevej 178950 Ørsted,sted,845.000,08-11-2016,Alm. Salg,10.059,4,Sommerhus,84,2004,0 %,Aktuel værdi
+Hulvej 98950 Ørsted,sted,390.426,05-11-2016,Alm. Salg,2.730,5,Villa,143,1877,,Aktuel værdi
+Fuglevangsvej 208950 Ørsted,sted,333.333,29-10-2016,Fam. Salg,2.666,5,Sommerhus,125,2010,,Aktuel værdi
+Tørslevvej 1A8950 Ørsted,sted,1.575.000,22-10-2016,Alm. Salg,6.225,7,Stuehus,253,1925,-6 %,
+Sneppevej 368950 Ørsted,sted,495.000,21-10-2016,Alm. Salg,10.531,3,Sommerhus,47,1972,-14 %,Aktuel værdi
+Løkkeagrene 98950 Ørsted,sted,950.000,20-10-2016,Alm. Salg,6.934,5,Villa,137,1976,-5 %,Aktuel værdi
+Lillegade 278950 Ørsted,sted,750.000,20-10-2016,Alm. Salg,5.281,4,Villa,142,1900,-6 %,Aktuel værdi
+Rougsøvej 1768950 Ørsted,sted,391.000,14-10-2016,Fam. Salg,3.491,4,Villa,112,1880,,Aktuel værdi
+Fuglevangsvej 328950 Ørsted,sted,320.000,13-10-2016,Alm. Salg,7.111,3,Sommerhus,45,1989,-6 %,Aktuel værdi
+Vestvej 68950 Ørsted,sted,1.095.000,08-10-2016,Alm. Salg,6.257,7,Villa,175,1976,-4 %,Aktuel værdi
+Havvejen 4A8950 Ørsted,sted,300.000,27-09-2016,Fam. Salg,6.250,2,Sommerhus,48,1977,-20 %,Aktuel værdi
+Mosevænge 128950 Ørsted,sted,600.000,22-09-2016,Alm. Salg,4.026,5,Villa,149,1973,-7 %,Aktuel værdi
+Fasanvej 248950 Ørsted,sted,430.000,20-09-2016,Alm. Salg,6.515,3,Sommerhus,66,1972,-4 %,Aktuel værdi
+Voer Gade 208950 Ørsted,sted,695.000,14-09-2016,Alm. Salg,3.861,6,Villa,180,1907,0 %,Aktuel værdi
+Bode Engvej 98950 Ørsted,sted,1.180.000,12-09-2016,Alm. Salg,10.925,3,Stuehus,108,1962,-9 %,
+Spovevej 138950 Ørsted,sted,400.000,30-08-2016,Alm. Salg,5.797,3,Sommerhus,69,1970,,Aktuel værdi
+Lillegade 178950 Ørsted,sted,430.000,30-08-2016,Alm. Salg,5.180,5,Villa,83,1907,-8 %,Aktuel værdi
+Hvedemarksvej 48950 Ørsted,sted,335.000,27-08-2016,Alm. Salg,2.701,4,Villa,124,1976,-4 %,Aktuel værdi
+Bakkevej 48950 Ørsted,sted,25.000,25-08-2016,Alm. Salg,178,5,Villa,140,1795,,Aktuel værdi
+Voer Færgevej 638950 Ørsted,sted,60.684,17-08-2016,Auktion,632,4,Villa,96,1850,,Aktuel værdi
+Skovbakken 38950 Ørsted,sted,685.000,14-07-2016,Alm. Salg,4.892,4,Villa,140,1973,0 %,Aktuel værdi
+Vesterled 18950 Ørsted,sted,900.000,06-07-2016,Alm. Salg,4.812,7,Villa,187,1976,-7 %,Aktuel værdi
+Spovevej 398950 Ørsted,sted,1.210.000,05-07-2016,Alm. Salg,14.404,5,Sommerhus,84,1998,1 %,Aktuel værdi
+Mågevej 2A8950 Ørsted,sted,500.000,30-06-2016,Fam. Salg,3.937,6,Sommerhus,127,1975,,Aktuel værdi
+Estruplundvej 298950 Ørsted,sted,500.000,30-06-2016,Alm. Salg,4.545,4,Villa,110,1900,,Aktuel værdi
+Rougsøvej 2338950 Ørsted,sted,345.000,26-06-2016,Alm. Salg,3.285,3,Villa,105,1954,-13 %,Aktuel værdi
+Tingvej 38950 Ørsted,sted,386.500,14-06-2016,Fam. Salg,3.420,5,Villa,113,1982,,Aktuel værdi
+Alsikevej 98950 Ørsted,sted,975.000,13-06-2016,Alm. Salg,11.079,4,Sommerhus,88,2012,-2 %,Aktuel værdi
+Spangshusevej 2A8950 Ørsted,sted,594.000,10-06-2016,Alm. Salg,3.666,5,Villa,162,1877,,Aktuel værdi
+Bogfinkevej 38950 Ørsted,sted,260.000,06-06-2016,Alm. Salg,9.629,2,Sommerhus,27,2004,,Aktuel værdi
+Hevringvej 178950 Ørsted,sted,365.952,01-06-2016,Fam. Salg,2.152,6,Villa,170,1975,,Aktuel værdi
+Tingparken 378950 Ørsted,sted,560.594,30-05-2016,Alm. Salg,3.737,5,Villa,150,1980,,Aktuel værdi
+Ternevej 188950 Ørsted,sted,212.500,20-05-2016,Fam. Salg,2.656,4,Sommerhus,80,1995,,Aktuel værdi
+Rougsøvej 638950 Ørsted,sted,900.000,18-05-2016,Alm. Salg,4.390,5,Villa,205,1929,-10 %,Aktuel værdi
+Koglevej 38950 Ørsted,sted,560.000,18-05-2016,Fam. Salg,8.358,4,Sommerhus,67,1973,,Aktuel værdi
+Skyttevej 48950 Ørsted,sted,260.000,18-05-2016,Alm. Salg,638,10,Villa,407,1970,,Aktuel værdi
+Estruplundvej 198950 Ørsted,sted,1.575.000,17-05-2016,Alm. Salg,7.159,7,Stuehus,220,1891,,
+Ternevej 268950 Ørsted,sted,530.000,12-05-2016,Alm. Salg,10.192,3,Sommerhus,52,1971,-11 %,Aktuel værdi
+Rougsøvej 1838950 Ørsted,sted,578.000,08-05-2016,Fam. Salg,2.312,14,Detailhandel,250,1938,,Aktuel værdi
+Tingparken 78950 Ørsted,sted,750.000,03-05-2016,Alm. Salg,4.261,7,Villa,176,1979,,Aktuel værdi
+Hougårds Vej 18950 Ørsted,sted,400.000,02-05-2016,Alm. Salg,4.395,4,Villa,91,1961,-19 %,Aktuel værdi
+Rougsøvej 1408950 Ørsted,sted,965.000,19-04-2016,Alm. Salg,3.683,12,Villa,262,1907,-8 %,Aktuel værdi
+Engvej 18950 Ørsted,sted,110.000,13-04-2016,Alm. Salg,1.078,5,Villa,102,1900,-63 %,Aktuel værdi
+Tangvej 398950 Ørsted,sted,670.000,11-04-2016,Fam. Salg,8.072,3,Sommerhus,83,1945,,Aktuel værdi
+Krammesvej 98950 Ørsted,sted,187.000,01-04-2016,Fam. Salg,4.452,3,Sommerhus,42,1960,,Aktuel værdi
+Bogfinkevej 118950 Ørsted,sted,525.000,15-03-2016,Alm. Salg,6.402,5,Sommerhus,82,1984,-4 %,Aktuel værdi
+Spovevej 168950 Ørsted,sted,215.000,14-03-2016,Alm. Salg,4.300,5,Sommerhus,50,1970,,Aktuel værdi
+Vesterled 58950 Ørsted,sted,610.000,14-03-2016,Alm. Salg,5.213,4,Villa,117,1977,-11 %,Aktuel værdi
+Strandhusvej 138950 Ørsted,sted,460.000,04-03-2016,Alm. Salg,4.946,5,Sommerhus,93,1953,,Aktuel værdi
+Toftevænge 48950 Ørsted,sted,685.000,19-02-2016,Alm. Salg,5.708,5,Villa,120,1956,,Aktuel værdi
+Hevringvej 88950 Ørsted,sted,1.750.000,18-02-2016,Alm. Salg,6.603,7,Villa,265,1860,-3 %,Aktuel værdi
+Kare Engvej 138950 Ørsted,sted,843.000,11-02-2016,Alm. Salg,5.203,6,Villa,162,1880,-6 %,Aktuel værdi
+Krammesvej 2B8950 Ørsted,sted,612.000,09-02-2016,Fam. Salg,17.485,2,Sommerhus,35,1958,,Aktuel værdi
+Duevej 88950 Ørsted,sted,1.485.000,31-01-2016,Alm. Salg,9.900,5,Sommerhus,150,1997,-1 %,Aktuel værdi
+Strandskadevej 138950 Ørsted,sted,650.000,23-01-2016,Alm. Salg,6.565,3,Sommerhus,99,1979,-13 %,Aktuel værdi
+Estruplundvej 338950 Ørsted,sted,300.000,17-01-2016,Alm. Salg,3.333,4,Villa,90,1960,,Aktuel værdi
+Holbækvej 1A8950 Ørsted,sted,1.200.000,06-01-2016,Fam. Salg,8.571,5,Stuehus,140,1908,,
+Langvadvej 38950 Ørsted,sted,500.000,04-01-2016,Alm. Salg,5.102,3,Villa,98,1945,-16 %,Aktuel værdi
+Elvej 58950 Ørsted,sted,620.500,14-12-2015,Fam. Salg,6.894,2,Sommerhus,90,1957,,Aktuel værdi
+Tingvej 48950 Ørsted,sted,520.000,04-12-2015,Alm. Salg,5.714,3,Villa,91,1982,,Aktuel værdi
+Hollandsbjergvej 688950 Ørsted,sted,845.000,03-12-2015,Alm. Salg,7.161,4,Villa,118,1851,-6 %,Aktuel værdi
+Ternevej 288950 Ørsted,sted,625.000,11-11-2015,Alm. Salg,8.928,4,Sommerhus,70,1973,-4 %,Aktuel værdi
+Ternevej 308950 Ørsted,sted,700.000,10-11-2015,Alm. Salg,9.210,4,Sommerhus,76,1972,-3 %,Aktuel værdi
+Skyttevej 188950 Ørsted,sted,850.000,03-11-2015,Alm. Salg,6.250,4,Villa,136,1977,-15 %,Aktuel værdi
+Holbækvej 58950 Ørsted,sted,645.879,20-10-2015,Alm. Salg,6.036,4,Villa,107,1897,,Aktuel værdi
+Stenalt Markvej 118950 Ørsted,sted,1.900.000,12-10-2015,Alm. Salg,13.970,6,Stuehus,136,1940,-5 %,
+Møllevej 58950 Ørsted,sted,305.000,06-10-2015,Alm. Salg,1.239,5,Villa,246,1937,,Aktuel værdi
+Spovevej 708950 Ørsted,sted,350.000,25-09-2015,Alm. Salg,7.777,3,Sommerhus,45,1969,-11 %,Aktuel værdi
+Sneppevej 238950 Ørsted,sted,550.000,25-09-2015,Alm. Salg,8.461,4,Sommerhus,65,1974,,Aktuel værdi
+Krammesvej 198950 Ørsted,sted,335.000,14-09-2015,Alm. Salg,7.976,2,Sommerhus,42,1965,-4 %,Aktuel værdi
+Rougsøvej 1728950 Ørsted,sted,3.935.000,14-09-2015,Alm. Salg,34.217,4,Stuehus,115,1880,,
+Ternevej 138950 Ørsted,sted,365.000,24-08-2015,Alm. Salg,4.740,4,Sommerhus,77,1991,-5 %,Aktuel værdi
+Spovevej 308950 Ørsted,sted,430.000,22-08-2015,Alm. Salg,7.543,4,Sommerhus,57,1975,,Aktuel værdi
+Solvej 18950 Ørsted,sted,288.000,19-08-2015,Auktion,2.969,4,Villa,97,1961,,Aktuel værdi
+Krammesvej 318950 Ørsted,sted,450.000,18-08-2015,Alm. Salg,9.000,2,Sommerhus,50,1967,-5 %,Aktuel værdi
+Koglevej 218950 Ørsted,sted,495.000,14-08-2015,Alm. Salg,7.388,4,Sommerhus,67,1957,0 %,Aktuel værdi
+Rylevej 188950 Ørsted,sted,550.000,12-08-2015,Fam. Salg,9.166,4,Sommerhus,60,1976,,Aktuel værdi
+Rougsøvej 2788950 Ørsted,sted,690.000,31-07-2015,Fam. Salg,5.111,5,Rækkehus,135,1777,,Aktuel værdi
+Nydamsvej 428950 Ørsted,sted,408.000,16-07-2015,Fam. Salg,3.578,4,Villa,114,1900,,Aktuel værdi
+Voer Færgevej 11B8950 Ørsted,sted,500.000,08-07-2015,Auktion,4.032,5,Villa,124,1981,,Aktuel værdi
+Rylevej 238950 Ørsted,sted,425.000,08-07-2015,Alm. Salg,9.239,3,Sommerhus,46,1971,,Aktuel værdi
+Bondhøjvej 68950 Ørsted,sted,550.000,02-07-2015,Alm. Salg,4.824,4,Villa,114,1981,,Aktuel værdi
+Koglevej 278950 Ørsted,sted,250.000,30-06-2015,Fam. Salg,3.472,3,Sommerhus,72,1973,,Aktuel værdi
+Hevring Møllevej 268950 Ørsted,sted,100.000,26-06-2015,Alm. Salg,344,8,Villa,290,1971,,Aktuel værdi
+Voer Færgevej 358950 Ørsted,sted,50.000,26-06-2015,Alm. Salg,187,5,Stuehus,267,1905,,
+Spovevej 18950 Ørsted,sted,450.000,18-06-2015,Alm. Salg,4.687,5,Sommerhus,96,1987,,Aktuel værdi
+Rørsangervej 3A8950 Ørsted,sted,525.000,16-06-2015,Alm. Salg,6.402,5,Sommerhus,82,1976,-12 %,Aktuel værdi
+Rørsangervej 3B8950 Ørsted,sted,350.000,16-06-2015,Alm. Salg,7.142,3,Sommerhus,49,1969,-11 %,Aktuel værdi
+Skalbakken 88950 Ørsted,sted,1.300.000,13-06-2015,Alm. Salg,4.797,13,Villa,271,1977,-12 %,Aktuel værdi
+Hulvej 148950 Ørsted,sted,1.150.000,27-05-2015,Auktion,4.509,8,Villa,255,1887,,Aktuel værdi
+Holbækvej 248950 Ørsted,sted,160.000,26-05-2015,Alm. Salg,1.333,7,Villa,120,1877,-29 %,Aktuel værdi
+Spovevej 278950 Ørsted,sted,675.000,25-05-2015,Alm. Salg,7.180,4,Sommerhus,94,1970,,Aktuel værdi
+Rougsøvej 326B8950 Ørsted,sted,1.350.000,22-05-2015,Alm. Salg,7.584,4,Villa,178,2000,-4 %,Aktuel værdi
+Sandgårdsvej 38950 Ørsted,sted,885.000,21-05-2015,Alm. Salg,7.629,4,Villa,116,1975,-7 %,Aktuel værdi
+Rørsangervej 188950 Ørsted,sted,641.000,20-05-2015,Alm. Salg,10.015,3,Sommerhus,64,1965,29 %,Aktuel værdi
+Krammesvej 218950 Ørsted,sted,225.000,19-05-2015,Auktion,5.357,3,Sommerhus,42,1968,,Aktuel værdi
+Kløvervej 58950 Ørsted,sted,525.000,11-05-2015,Fam. Salg,6.325,3,Sommerhus,83,1972,,Aktuel værdi
+Fjordvej 18950 Ørsted,sted,1.175.000,04-05-2015,Alm. Salg,8.834,4,Villa,133,1965,-35 %,Aktuel værdi
+Holbækgårdsvej 18950 Ørsted,sted,50.000,29-04-2015,Alm. Salg,625,3,Villa,80,1958,-82 %,Aktuel værdi
+Lillegade 198950 Ørsted,sted,220.000,27-04-2015,Alm. Salg,1.692,5,Villa,130,1890,-12 %,Aktuel værdi
+Ternevej 468950 Ørsted,sted,525.000,25-04-2015,Alm. Salg,5.526,4,Sommerhus,95,1969,,Aktuel værdi
+Hevring Møllevej 178950 Ørsted,sted,425.000,22-04-2015,Alm. Salg,4.619,4,Villa,92,1903,-14 %,Aktuel værdi
+Østervangen 28950 Ørsted,sted,235.000,22-04-2015,Auktion,1.835,3,Villa,128,1981,,Aktuel værdi
+Voer Gade 198950 Ørsted,sted,500.000,16-04-2015,Alm. Salg,1.666,8,Stuehus,300,1872,-17 %,
+Bodevej 148950 Ørsted,sted,693.000,13-04-2015,Alm. Salg,4.277,5,Villa,162,1835,,Aktuel værdi
+Solvej 28950 Ørsted,sted,895.000,06-04-2015,Alm. Salg,7.584,4,Villa,118,1952,-6 %,Aktuel værdi
+Fuglevangsvej 228950 Ørsted,sted,175.000,30-03-2015,Alm. Salg,3.181,2,Sommerhus,55,2005,,Aktuel værdi
+Rosengyde 48950 Ørsted,sted,1.600.000,18-03-2015,Alm. Salg,21.621,3,Villa,74,1827,,Aktuel værdi
+Rørsangervej 28950 Ørsted,sted,480.000,16-03-2015,Alm. Salg,6.233,4,Sommerhus,77,1971,,Aktuel værdi
+Mikkelvej 38950 Ørsted,sted,185.000,10-03-2015,Alm. Salg,2.078,4,Villa,89,1900,,Aktuel værdi
+Holbækvej 258950 Ørsted,sted,595.000,05-03-2015,Alm. Salg,3.479,5,Villa,171,1917,0 %,Aktuel værdi
+Holbækvej 88950 Ørsted,sted,100.000,04-03-2015,Auktion,483,7,Villa,207,1924,,Aktuel værdi
+Voer Færgevej 578950 Ørsted,sted,315.000,04-03-2015,Alm. Salg,2.715,3,Villa,116,1940,,Aktuel værdi
+Strandskadevej 188950 Ørsted,sted,645.000,28-02-2015,Alm. Salg,7.329,4,Sommerhus,88,1977,-4 %,Aktuel værdi
+Rougsøvej 1538950 Ørsted,sted,200.000,25-02-2015,Alm. Salg,2.857,5,Villa,70,1910,,Aktuel værdi
+Rougsøvej 868950 Ørsted,sted,173.506,25-02-2015,Auktion,2.344,3,Villa,74,1922,,Aktuel værdi
+Hulvej 38950 Ørsted,sted,70.001,25-02-2015,Auktion,1.186,2,Villa,59,1800,,Aktuel værdi
+Hollandsbjergvej 548950 Ørsted,sted,9.620.000,20-01-2015,Alm. Salg,62.875,4,Stuehus,153,1975,,
+Kare Engvej 68950 Ørsted,sted,1.400.000,16-01-2015,Alm. Salg,6.113,9,Stuehus,229,1911,,
+Havtornevej 68950 Ørsted,sted,340.000,21-12-2014,Alm. Salg,8.292,2,Sommerhus,41,1963,-14 %,Aktuel værdi
+Damvej 28950 Ørsted,sted,289.000,20-12-2014,Fam. Salg,4.515,3,Villa,64,1895,,Aktuel værdi
+Karevej 38950 Ørsted,sted,391.000,20-12-2014,Fam. Salg,4.072,3,Villa,96,1967,,Aktuel værdi
+Langvadvej 118950 Ørsted,sted,985.000,19-12-2014,Alm. Salg,6.156,5,Stuehus,160,1956,,
+Koglevej 398950 Ørsted,sted,450.500,18-12-2014,Fam. Salg,8.044,2,Sommerhus,56,1960,,Aktuel værdi
+Krammesvej 1B8950 Ørsted,sted,125.000,17-12-2014,Alm. Salg,8.333,1,Sommerhus,15,1988,-17 %,Aktuel værdi
+Stenalt Markvej 78950 Ørsted,sted,775.000,16-12-2014,Alm. Salg,5.381,4,Villa,144,1941,-8 %,Aktuel værdi
+Tangvej 418950 Ørsted,sted,885.000,13-12-2014,Alm. Salg,8.271,3,Sommerhus,107,1971,,Aktuel værdi
+Hejrevej 68950 Ørsted,sted,535.500,11-12-2014,Fam. Salg,7.046,4,Sommerhus,76,1978,,Aktuel værdi
+Rougsøvej 1878950 Ørsted,sted,300.000,03-12-2014,Auktion,3.030,5,Villa,99,1962,,Aktuel værdi
+Sneppevej 378950 Ørsted,sted,690.000,02-12-2014,Alm. Salg,7.263,5,Sommerhus,95,1968,,Aktuel værdi
+Tingvej 278950 Ørsted,sted,625.000,28-11-2014,Alm. Salg,5.530,4,Villa,113,1990,-21 %,Aktuel værdi
+Rougsøvej 2538950 Ørsted,sted,500.000,24-11-2014,Alm. Salg,2.577,5,Villa,194,1914,-28 %,Aktuel værdi
+Sneppevej 18950 Ørsted,sted,1.025.000,19-11-2014,Alm. Salg,12.202,4,Sommerhus,84,2005,,Aktuel værdi
+Storegade 148950 Ørsted,sted,900.000,14-11-2014,Alm. Salg,4.712,5,Villa,191,1850,-18 %,Aktuel værdi
+Rougsøvej 1428950 Ørsted,sted,612.000,01-11-2014,Fam. Salg,4.026,5,Villa,152,1920,,Aktuel værdi
+Sygehusvej 118950 Ørsted,sted,600.000,26-10-2014,Alm. Salg,4.687,5,Villa,128,1924,-6 %,Aktuel værdi
+Søstien 48950 Ørsted,sted,1.055.000,19-10-2014,Alm. Salg,3.981,8,Villa,265,1870,,Aktuel værdi
+Sneppevej 298950 Ørsted,sted,655.000,01-10-2014,Alm. Salg,14.886,1,Sommerhus,44,2001,,Aktuel værdi
+Rougsøvej 2728950 Ørsted,sted,250.000,26-09-2014,Alm. Salg,1.893,5,Villa,132,1877,0 %,Aktuel værdi
+Sandgårdsvej 88950 Ørsted,sted,1.575.000,21-09-2014,Alm. Salg,7.126,9,Villa,221,1974,-2 %,Aktuel værdi
+Spovevej 408950 Ørsted,sted,895.000,19-09-2014,Alm. Salg,6.679,6,Sommerhus,134,1971,-10 %,Aktuel værdi
+Sneppevej 7A8950 Ørsted,sted,583.000,17-09-2014,Auktion,7.287,4,Sommerhus,80,2003,,Aktuel værdi
+Hollandsbjergvej 398950 Ørsted,sted,969.678,16-09-2014,Fam. Salg,3.686,7,Stuehus,263,2011,,
+Strandskadevej 238950 Ørsted,sted,775.000,11-09-2014,Alm. Salg,9.451,3,Sommerhus,82,1974,-3 %,Aktuel værdi
+Hevringvej 98950 Ørsted,sted,11.400.000,08-09-2014,Alm. Salg,72.611,5,Stuehus,157,1902,,
+Spovevej 218950 Ørsted,sted,700.000,31-08-2014,Alm. Salg,11.666,4,Sommerhus,60,1970,,Aktuel værdi
+Tangvej 218950 Ørsted,sted,365.000,28-08-2014,Alm. Salg,6.403,3,Sommerhus,57,1960,,Aktuel værdi
+Stenaltvej 278950 Ørsted,sted,400.000,19-08-2014,Alm. Salg,2.325,4,Villa,172,1900,-11 %,Aktuel værdi
+Havtornevej 98950 Ørsted,sted,570.000,15-08-2014,Alm. Salg,7.402,5,Sommerhus,77,1980,-12 %,Aktuel værdi
+Storegade 138950 Ørsted,sted,70.000,06-08-2014,Auktion,875,3,Rækkehus,80,1870,-88 %,Aktuel værdi
+Voer Færgevej 198950 Ørsted,sted,465.000,01-08-2014,Fam. Salg,2.583,6,Villa,180,1908,,Aktuel værdi
+Estruplundvej 358950 Ørsted,sted,1.295.000,30-07-2014,Alm. Salg,5.285,9,Villa,245,1830,0 %,Aktuel værdi
+Rørsangervej 108950 Ørsted,sted,875.000,19-07-2014,Alm. Salg,12.867,5,Sommerhus,68,1967,-2 %,Aktuel værdi
+Rougsøvej 558950 Ørsted,sted,1.200.000,14-07-2014,Alm. Salg,6.417,8,Stuehus,187,1933,,
+Havvejen 138950 Ørsted,sted,495.000,08-07-2014,Alm. Salg,14.142,3,Sommerhus,35,1970,0 %,Aktuel værdi
+Fuglevangsvej 68950 Ørsted,sted,1.265.000,04-07-2014,Alm. Salg,8.846,5,Sommerhus,143,2007,-6 %,Aktuel værdi
+Sneppevej 408950 Ørsted,sted,675.000,27-06-2014,Alm. Salg,6.958,3,Sommerhus,97,1967,,Aktuel værdi
+Mågevej 7A8950 Ørsted,sted,425.000,25-06-2014,Alm. Salg,7.870,3,Sommerhus,54,1976,-14 %,Aktuel værdi
+Rougsøvej 2118950 Ørsted,sted,1.250.000,06-06-2014,Andet,7.062,5,Villa,177,1931,,Aktuel værdi
+Lillegade 238950 Ørsted,sted,445.000,01-06-2014,Fam. Salg,4.944,3,Villa,90,1900,,Aktuel værdi
+Tingparken 1458950 Ørsted,sted,1.680.000,31-05-2014,Alm. Salg,10.980,5,Villa,153,2003,-6 %,Aktuel værdi
+Sneppevej 148950 Ørsted,sted,650.000,09-05-2014,Alm. Salg,9.285,4,Sommerhus,70,1977,-6 %,Aktuel værdi
+Sygehusvej 88950 Ørsted,sted,331.200,05-05-2014,Fam. Salg,2.332,6,Villa,142,1877,,Aktuel værdi
+Bondhøjvej 348950 Ørsted,sted,900.000,02-05-2014,Alm. Salg,3.719,8,Villa,242,1857,,Aktuel værdi
+Smedegyde 48950 Ørsted,sted,195.000,02-05-2014,Alm. Salg,928,6,Villa,210,1872,,Aktuel værdi
+Idrætsvej 18950 Ørsted,sted,265.000,01-05-2014,Alm. Salg,2.849,4,Villa,93,1960,,Aktuel værdi
+Rougsøvej 2168950 Ørsted,sted,175.000,24-04-2014,Alm. Salg,1.446,4,Villa,121,1948,0 %,Aktuel værdi
+Storegade 168950 Ørsted,sted,185.000,23-04-2014,Alm. Salg,1.989,3,Villa,93,1890,-54 %,Aktuel værdi
+Rougsøvej 2848950 Ørsted,sted,275.000,15-04-2014,Alm. Salg,2.291,5,Villa,120,1875,-18 %,Aktuel værdi
+Skyttevej 208950 Ørsted,sted,1.000.000,05-04-2014,Alm. Salg,5.555,7,Villa,180,1977,,Aktuel værdi
+Estruplundvej 258950 Ørsted,sted,500.000,05-04-2014,Alm. Salg,4.065,3,Villa,123,1875,,Aktuel værdi
+Alsikevej 168950 Ørsted,sted,925.000,02-04-2014,Alm. Salg,8.564,5,Sommerhus,108,2005,-7 %,Aktuel værdi
+Holbækvej 158950 Ørsted,sted,530.000,22-03-2014,Alm. Salg,3.099,7,Villa,171,1920,-11 %,Aktuel værdi
+Hollandsbjergvej 498950 Ørsted,sted,750.000,18-03-2014,Alm. Salg,5.859,6,Villa,128,1980,-12 %,Aktuel værdi
+Voer Færgevej 918950 Ørsted,sted,326.540,11-03-2014,Alm. Salg,2.995,5,Villa,109,1935,,Aktuel værdi
+Hejrevej 418950 Ørsted,sted,300.000,06-03-2014,Alm. Salg,4.000,4,Sommerhus,75,1980,,Aktuel værdi
+Tingvej 118950 Ørsted,sted,635.000,25-02-2014,Alm. Salg,5.336,4,Villa,119,1982,-9 %,Aktuel værdi
+Rougsøvej 2528950 Ørsted,sted,434.560,19-02-2014,Auktion,1.207,10,Villa,360,1915,,Aktuel værdi
+Estruplundvej 528950 Ørsted,sted,107.101,19-02-2014,Auktion,781,5,Villa,137,1900,-62 %,Aktuel værdi
+Tangvej 45B8950 Ørsted,sted,900.000,17-02-2014,Alm. Salg,14.516,4,Sommerhus,62,1974,,Aktuel værdi
+Sneppevej 438950 Ørsted,sted,550.000,15-02-2014,Alm. Salg,12.222,2,Sommerhus,45,1971,,Aktuel værdi
+Rougsøvej 1018950 Ørsted,sted,218.500,30-01-2014,Alm. Salg,1.277,6,Villa,171,1946,,Aktuel værdi
+Solvej 48950 Ørsted,sted,575.000,20-01-2014,Alm. Salg,6.460,4,Villa,89,1954,-8 %,Aktuel værdi
+Spovevej 608950 Ørsted,sted,985.000,14-01-2014,Alm. Salg,11.321,4,Sommerhus,87,1978,,Aktuel værdi
+Hevring Møllevej 98950 Ørsted,sted,600.000,08-01-2014,Alm. Salg,7.058,3,Villa,85,1827,-8 %,Aktuel værdi
+Ryderne 6B8950 Ørsted,sted,35.000,01-01-2014,Alm. Salg,1.029,1,Fritid,34,1900,,Aktuel værdi
+Bode Engvej 178950 Ørsted,sted,1.646.500,23-12-2013,Alm. Salg,12.379,5,Villa,133,1877,-17 %,Aktuel værdi
+Alsikevej 68950 Ørsted,sted,301.354,18-12-2013,Fam. Salg,3.106,6,Sommerhus,97,2007,,Aktuel værdi
+Hulvej 128950 Ørsted,sted,159.700,18-12-2013,Auktion,858,4,Villa,186,1897,-57 %,Aktuel værdi
+Strandskadevej 698950 Ørsted,sted,250.000,18-12-2013,Alm. Salg,3.968,3,Sommerhus,63,2014,,Aktuel værdi
+Alsikevej 88950 Ørsted,sted,1.005.000,13-12-2013,Alm. Salg,9.481,5,Sommerhus,106,2007,-13 %,Aktuel værdi
+Rylevej 178950 Ørsted,sted,285.000,04-12-2013,Alm. Salg,6.333,3,Villa,45,1969,-29 %,Aktuel værdi
+Stenalt Markvej 58950 Ørsted,sted,1.175.000,28-11-2013,Alm. Salg,9.710,3,Villa,121,1943,-6 %,Aktuel værdi
+Nørre Alle 58950 Ørsted,sted,547.000,18-11-2013,Alm. Salg,6.215,3,Villa,88,1961,-8 %,Aktuel værdi
+Hjemdalvej 48950 Ørsted,sted,825.000,01-11-2013,Alm. Salg,5.061,4,Stuehus,163,1928,-54 %,
+Ternevej 318950 Ørsted,sted,660.000,29-10-2013,Alm. Salg,8.048,5,Sommerhus,82,1973,,Aktuel værdi
+Rylevej 158950 Ørsted,sted,185.000,29-10-2013,Alm. Salg,4.743,3,Sommerhus,39,1972,,Aktuel værdi
+Nørre Alle 68950 Ørsted,sted,220.000,12-10-2013,Alm. Salg,1.833,3,Villa,120,1962,,Aktuel værdi
+Bodevej 128950 Ørsted,sted,450.000,07-10-2013,Alm. Salg,7.500,3,Villa,60,1925,-9 %,Aktuel værdi
+Sneppevej 328950 Ørsted,sted,1.050.000,06-10-2013,Alm. Salg,12.068,5,Sommerhus,87,1998,,Aktuel værdi
+Strandskadevej 378950 Ørsted,sted,1.150.000,01-10-2013,Alm. Salg,12.234,4,Sommerhus,94,2005,,Aktuel værdi
+Rylevej 408950 Ørsted,sted,212.854,25-09-2013,Alm. Salg,1.970,4,Sommerhus,108,2014,,Aktuel værdi
+Voer Gade 128950 Ørsted,sted,275.000,10-09-2013,Alm. Salg,2.182,4,Villa,126,1953,-15 %,Aktuel værdi
+Digevej 78950 Ørsted,sted,1.200.000,30-08-2013,Alm. Salg,9.448,4,Villa,127,1982,,Aktuel værdi
+Estruplundvej 18950 Ørsted,sted,400.000,10-08-2013,Alm. Salg,2.666,5,Villa,150,1776,,Aktuel værdi
+Toftevænge 18950 Ørsted,sted,180.000,06-08-2013,Alm. Salg,1.836,3,Villa,98,1960,,Aktuel værdi
+Rylevej 128950 Ørsted,sted,505.000,22-07-2013,Alm. Salg,6.392,4,Sommerhus,79,1978,-15 %,Aktuel værdi
+Toftevænge 58950 Ørsted,sted,250.852,09-07-2013,Fam. Salg,2.181,5,Villa,115,1959,,Aktuel værdi
+Rosengyde 68950 Ørsted,sted,250.000,05-07-2013,Alm. Salg,3.086,3,Villa,81,1875,-28 %,Aktuel værdi
+Nydamsvej 198950 Ørsted,sted,812.500,01-07-2013,Alm. Salg,3.982,5,Villa,204,2008,,Aktuel værdi
+Gammeljord 48950 Ørsted,sted,372.170,01-07-2013,Alm. Salg,2.033,4,Villa,183,1864,,Aktuel værdi
+Lillegade 128950 Ørsted,sted,395.000,29-05-2013,Alm. Salg,5.000,4,Villa,79,1900,,Aktuel værdi
+Idrætsvej 48950 Ørsted,sted,216.500,22-05-2013,Auktion,2.209,4,Villa,98,1965,,Aktuel værdi
+Søstien 88950 Ørsted,sted,1.300.000,17-05-2013,Alm. Salg,6.532,2,Villa,199,1920,,Aktuel værdi
+Rougsøvej 2388950 Ørsted,sted,385.000,03-05-2013,Alm. Salg,3.104,3,Villa,124,1945,-3 %,Aktuel værdi
+Rougsøvej 2318950 Ørsted,sted,400.000,30-04-2013,Alm. Salg,2.777,6,Villa,144,1942,-11 %,Aktuel værdi
+Hougårds Vej 58950 Ørsted,sted,625.000,17-04-2013,Alm. Salg,4.807,4,Villa,130,1962,-4 %,Aktuel værdi
+Strandskadevej 438950 Ørsted,sted,565.000,05-03-2013,Alm. Salg,10.660,3,Sommerhus,53,1973,,Aktuel værdi
+Lillegade 48950 Ørsted,sted,285.000,25-02-2013,Alm. Salg,3.166,3,Villa,90,1956,0 %,Aktuel værdi
+Tingparken 1238950 Ørsted,sted,1.400.000,16-02-2013,Alm. Salg,11.475,4,Villa,122,2009,-2 %,Aktuel værdi
+Fjordvej 138950 Ørsted,sted,250.000,11-02-2013,Alm. Salg,2.777,4,Villa,90,1911,,Aktuel værdi
+Østerbakken 448950 Ørsted,sted,2.400.000,05-02-2013,Alm. Salg,13.043,5,Villa,184,2006,-4 %,Aktuel værdi
+Sneppevej 348950 Ørsted,sted,650.000,23-01-2013,Alm. Salg,8.441,3,Sommerhus,77,1973,-10 %,Aktuel værdi
+Rørsangervej 11B8950 Ørsted,sted,667.000,21-12-2012,Alm. Salg,-,4,Sommerhus,130,1967,,Aktuel værdi
+Sneppevej 468950 Ørsted,sted,578.000,19-12-2012,Fam. Salg,9.475,4,Sommerhus,61,2000,,Aktuel værdi
+Tingparken 18950 Ørsted,sted,560.000,19-12-2012,Alm. Salg,4.480,4,Villa,125,1977,-13 %,Aktuel værdi
+Voer Gade 118950 Ørsted,sted,361.138,14-12-2012,Auktion,1.753,8,Villa,206,1827,-74 %,Aktuel værdi
+Rougsøvej 1748950 Ørsted,sted,1.150.000,14-12-2012,Auktion,4.275,6,Villa,269,1800,,Aktuel værdi
+Hollandsbjergvej 108950 Ørsted,sted,850.000,05-12-2012,Alm. Salg,6.910,3,Villa,123,1957,,Aktuel værdi
+Spovevej 148950 Ørsted,sted,610.000,16-11-2012,Alm. Salg,11.090,3,Sommerhus,55,1974,,Aktuel værdi
+Rougsøvej 2198950 Ørsted,sted,240.000,16-11-2012,Alm. Salg,2.123,5,Villa,113,1939,-4 %,Aktuel værdi
+Holbækvej 68950 Ørsted,sted,865.000,01-11-2012,Alm. Salg,8.650,4,Villa,100,1827,-3 %,Aktuel værdi
+Bodevej 248950 Ørsted,sted,545.000,30-10-2012,Alm. Salg,6.728,3,Villa,81,1915,-16 %,Aktuel værdi
+Sneppevej 208950 Ørsted,sted,825.000,22-10-2012,Alm. Salg,11.619,5,Sommerhus,71,1979,,Aktuel værdi
+Tangvej 378950 Ørsted,sted,476.000,15-10-2012,Fam. Salg,6.520,3,Sommerhus,73,1966,,Aktuel værdi
+Voer Færgevej 96A8950 Ørsted,sted,950.000,28-09-2012,Alm. Salg,5.307,5,Villa,179,1959,-5 %,Aktuel værdi
+Fasanvej 108950 Ørsted,sted,750.000,28-09-2012,Alm. Salg,7.142,3,Sommerhus,105,1972,,Aktuel værdi
+Rougsøvej 1598950 Ørsted,sted,550.000,20-09-2012,Alm. Salg,5.188,4,Villa,106,1967,-8 %,Aktuel værdi
+Nørre Alle 128950 Ørsted,sted,300.000,17-09-2012,Alm. Salg,2.400,4,Villa,125,1964,-60 %,Aktuel værdi
+Estruplundvej 588950 Ørsted,sted,325.000,12-09-2012,Auktion,1.540,8,Villa,211,1909,-72 %,Aktuel værdi
+Bondhøjvej 138950 Ørsted,sted,510.000,26-08-2012,Alm. Salg,5.666,3,Villa,90,1900,0 %,Aktuel værdi
+Strandskadevej 638950 Ørsted,sted,440.620,17-08-2012,Andet,3.671,5,Sommerhus,120,1986,,Aktuel værdi
+Toftevænge 98950 Ørsted,sted,190.000,01-08-2012,Auktion,2.021,3,Villa,94,1961,-65 %,Aktuel værdi
+Idrætsvej 28950 Ørsted,sted,200.000,28-07-2012,Alm. Salg,2.150,3,Villa,93,1954,,Aktuel værdi
+Nørre Alle 48950 Ørsted,sted,343.562,05-07-2012,Fam. Salg,3.994,3,Villa,86,1800,,Aktuel værdi
+Østerbakken 368950 Ørsted,sted,958.500,02-07-2012,Alm. Salg,5.415,6,Villa,177,2007,,Aktuel værdi
+Voer Færgevej 1148950 Ørsted,sted,1.100.000,27-06-2012,Alm. Salg,8.270,3,Villa,133,1860,-6 %,Aktuel værdi
+Holbækgårdsvej 88950 Ørsted,sted,750.000,21-06-2012,Alm. Salg,4.310,6,Villa,174,1980,-25 %,Aktuel værdi
+Tingparken 1478950 Ørsted,sted,109.590,19-06-2012,Alm. Salg,605,5,Villa,181,2012,,Aktuel værdi
+Havvejen 158950 Ørsted,sted,695.000,30-05-2012,Alm. Salg,9.391,4,Sommerhus,74,1970,0 %,Aktuel værdi
+Rougsøvej 2288950 Ørsted,sted,90.000,23-05-2012,Auktion,293,7,Villa,307,1910,-92 %,Aktuel værdi
+Dr Frandsens Vej 238950 Ørsted,sted,467.500,16-05-2012,Fam. Salg,3.740,4,Villa,125,1954,,Aktuel værdi
+Voer Færgevej 668950 Ørsted,sted,665.000,03-05-2012,Alm. Salg,5.362,4,Villa,124,1967,,Aktuel værdi
+Lillegade 118950 Ørsted,sted,1.075.000,30-04-2012,Alm. Salg,7.166,3,Villa,150,1939,-10 %,Aktuel værdi
+Estruplundvej 78950 Ørsted,sted,625.000,30-04-2012,Alm. Salg,4.464,5,Villa,140,1924,-4 %,Aktuel værdi
+Løkkeagrene 78950 Ørsted,sted,1.100.000,25-04-2012,Alm. Salg,8.088,4,Villa,136,1975,-4 %,Aktuel værdi
+Hollandsbjergvej 888950 Ørsted,sted,300.000,24-04-2012,Auktion,2.631,4,Villa,114,1850,-59 %,Aktuel værdi
+Tingparken 518950 Ørsted,sted,750.000,04-04-2012,Alm. Salg,6.756,4,Villa,111,1987,-3 %,Aktuel værdi
+Estruplundvej 38950 Ørsted,sted,675.000,18-03-2012,Alm. Salg,3.375,6,Stuehus,200,1902,,
+Hollandsbjergvej 748950 Ørsted,sted,3.527.569,08-03-2012,Alm. Salg,27.996,4,Stuehus,126,1890,,
+Langvadvej 168950 Ørsted,sted,1.750.000,28-02-2012,Alm. Salg,7.446,7,Stuehus,235,2003,,
+Rougsøvej 598950 Ørsted,sted,1.150.000,24-02-2012,Alm. Salg,7.666,5,Villa,150,1937,-6 %,Aktuel værdi
+Tørslev Dal 18950 Ørsted,sted,606.000,23-02-2012,Fam. Salg,3.123,9,Villa,194,1938,,Aktuel værdi
+Digevej 108950 Ørsted,sted,210.000,16-02-2012,Auktion,1.521,6,Villa,138,1886,,Aktuel værdi
+Ternevej 228950 Ørsted,sted,225.000,09-02-2012,Fam. Salg,2.472,4,Sommerhus,91,1984,,Aktuel værdi
+Tangvej 78950 Ørsted,sted,310.000,25-01-2012,Auktion,4.558,4,Sommerhus,68,1964,-48 %,Aktuel værdi
+Udbyvej 48950 Ørsted,sted,2.245.000,24-01-2012,Alm. Salg,18.708,4,Stuehus,120,1930,,
+Tranevej 88950 Ørsted,sted,208.000,18-01-2012,Alm. Salg,5.200,3,Sommerhus,40,2015,,Aktuel værdi
+Brydkærvej 68950 Ørsted,sted,125.000,09-01-2012,Alm. Salg,651,6,Stuehus,192,1918,,
+Ternevej 548950 Ørsted,sted,2.700.000,06-01-2012,Alm. Salg,24.545,5,Sommerhus,110,2011,,Aktuel værdi
+Bendsvej 38950 Ørsted,sted,835.000,09-12-2011,Alm. Salg,4.638,6,Villa,180,2013,-12 %,Aktuel værdi
+Krammesvej 78950 Ørsted,sted,600.000,08-12-2011,Fam. Salg,13.043,4,Sommerhus,46,1960,,Aktuel værdi
+Bodevej 208950 Ørsted,sted,700.000,30-11-2011,Alm. Salg,5.691,4,Villa,123,1921,-7 %,Aktuel værdi
+Tingparken 498950 Ørsted,sted,725.000,28-11-2011,Alm. Salg,7.474,3,Villa,97,1987,0 %,Aktuel værdi
+Østerbakken 388950 Ørsted,sted,2.220.000,15-11-2011,Alm. Salg,11.155,6,Villa,199,2006,-3 %,Aktuel værdi
+Rougsøvej 1278950 Ørsted,sted,600.000,14-11-2011,Alm. Salg,5.084,4,Villa,118,1942,,Aktuel værdi
+Skyttevej 158950 Ørsted,sted,1.675.000,10-11-2011,Alm. Salg,8.723,7,Villa,192,1970,-7 %,Aktuel værdi
+Sneppevej 248950 Ørsted,sted,493.000,09-11-2011,Fam. Salg,7.951,4,Sommerhus,62,1974,,Aktuel værdi
+Tingvej 98950 Ørsted,sted,600.000,27-10-2011,Alm. Salg,6.593,3,Villa,91,1983,-19 %,Aktuel værdi
+Nørre Alle 88950 Ørsted,sted,519.162,14-10-2011,Andet,3.204,10,Villa,162,1933,-58 %,Aktuel værdi
+Voer Færgevej 1068950 Ørsted,sted,750.000,12-10-2011,Alm. Salg,3.378,6,Villa,222,1906,,Aktuel værdi
+Langvadvej 18950 Ørsted,sted,150.000,12-10-2011,Auktion,1.470,5,Villa,102,1953,,Aktuel værdi
+Kalkærsvej 78950 Ørsted,sted,1.550.000,07-10-2011,Alm. Salg,8.201,7,Villa,189,1969,,Aktuel værdi
+Fuglevangsvej 168950 Ørsted,sted,650.000,30-09-2011,Alm. Salg,11.016,4,Sommerhus,59,1991,-7 %,Aktuel værdi
+Rougsøvej 1998950 Ørsted,sted,150.000,21-09-2011,Auktion,1.153,4,Villa,130,1907,,Aktuel værdi
+Hevringvej 198950 Ørsted,sted,500.000,21-09-2011,Auktion,2.777,6,Villa,180,1777,-50 %,Aktuel værdi
+Strandskadevej 248950 Ørsted,sted,910.000,20-09-2011,Alm. Salg,9.578,4,Sommerhus,95,2005,,Aktuel værdi
+Estruplundvej 278950 Ørsted,sted,240.000,31-08-2011,Auktion,2.222,5,Villa,108,1883,-19 %,Aktuel værdi
+Strandskadevej 118950 Ørsted,sted,590.000,17-08-2011,Auktion,4.916,5,Sommerhus,120,1983,,Aktuel værdi
+Voer Færgevej 588950 Ørsted,sted,750.000,12-08-2011,Alm. Salg,3.947,6,Villa,190,1960,,Aktuel værdi
+Estruplundvej 348950 Ørsted,sted,55.000,07-08-2011,Alm. Salg,500,6,Villa,110,1900,,Aktuel værdi
+Alsikevej 28950 Ørsted,sted,775.000,21-07-2011,Alm. Salg,8.244,4,Sommerhus,94,1998,-22 %,Aktuel værdi
+Bendsvej 1A8950 Ørsted,sted,1.837.307,12-07-2011,Fam. Salg,7.290,6,Villa,252,1890,,Aktuel værdi
+Koglevej 118950 Ørsted,sted,72.800,12-07-2011,Alm. Salg,933,3,Sommerhus,78,2013,,Aktuel værdi
+Sneppevej 108950 Ørsted,sted,1.350.000,10-07-2011,Alm. Salg,14.361,4,Sommerhus,94,2007,,Aktuel værdi
+Mosevej 18950 Ørsted,sted,1.105.000,10-07-2011,Fam. Salg,4.491,9,Stuehus,246,1909,,
+Havvejen 1A8950 Ørsted,sted,848.000,08-07-2011,Alm. Salg,8.396,4,Sommerhus,101,1973,-3 %,Aktuel værdi
+Sygehusvej 168950 Ørsted,sted,275.000,08-07-2011,Alm. Salg,3.021,3,Villa,91,1877,,Aktuel værdi
+Tingparken 1378950 Ørsted,sted,110.500,04-07-2011,Alm. Salg,789,5,Villa,140,2013,,Aktuel værdi
+Tørslev Dal 48950 Ørsted,sted,2.100.000,30-06-2011,Alm. Salg,13.461,5,Stuehus,156,1920,-16 %,
+Nordvej 58950 Ørsted,sted,115.000,27-06-2011,Alm. Salg,920,3,Villa,125,1942,,Aktuel værdi
+Rylevej 98950 Ørsted,sted,459.000,22-06-2011,Fam. Salg,9.978,3,Sommerhus,46,1973,,Aktuel værdi
+Lillegade 258950 Ørsted,sted,645.000,17-06-2011,Alm. Salg,7.588,4,Villa,85,1963,-7 %,Aktuel værdi
+Hejrevej 48950 Ørsted,sted,775.000,14-06-2011,Alm. Salg,10.064,4,Sommerhus,77,1986,,Aktuel værdi
+Bendsvej 88950 Ørsted,sted,8.200.000,14-06-2011,Fam. Salg,52.229,6,Stuehus,157,1976,,
+Kirkegade 28950 Ørsted,sted,1.100.000,14-06-2011,Alm. Salg,9.166,6,Industri o.l.,120,1907,,Aktuel værdi
+Tørslevvej 38950 Ørsted,sted,2.800.000,14-06-2011,Fam. Salg,17.500,5,Stuehus,160,1875,,
+Sandgårdsvej 98950 Ørsted,sted,998.000,09-06-2011,Alm. Salg,7.560,5,Villa,132,1974,-6 %,Aktuel værdi
+Hollandsbjergvej 458950 Ørsted,sted,350.000,08-06-2011,Alm. Salg,4.929,2,Villa,71,1900,,Aktuel værdi
+Spovevej 128950 Ørsted,sted,750.000,25-05-2011,Alm. Salg,7.075,5,Sommerhus,106,1971,,Aktuel værdi
+Voer Færgevej 188950 Ørsted,sted,578.000,18-05-2011,Alm. Salg,8.257,3,Villa,70,1860,,Aktuel værdi
+Mågevej 18950 Ørsted,sted,400.000,17-05-2011,Fam. Salg,5.714,4,Sommerhus,70,1989,,Aktuel værdi
+Dr Frandsens Vej 28950 Ørsted,sted,800.000,12-05-2011,Alm. Salg,6.896,5,Villa,116,1955,-3 %,Aktuel værdi
+Kalkærsvej 208950 Ørsted,sted,1.500.000,09-05-2011,Alm. Salg,8.823,6,Villa,170,1972,,Aktuel værdi
+Østerbakken 468950 Ørsted,sted,1.350.000,30-03-2011,Auktion,7.894,6,Villa,171,2008,,Aktuel værdi
+Fjordvej 98950 Ørsted,sted,675.000,23-03-2011,Alm. Salg,5.400,5,Villa,125,1968,0 %,Aktuel værdi
+Rylevej 308950 Ørsted,sted,437.800,12-02-2011,Fam. Salg,5.760,3,Sommerhus,76,1989,,Aktuel værdi
+Bodevej 138950 Ørsted,sted,932.666,10-01-2011,Alm. Salg,5.239,4,Villa,178,1870,,Aktuel værdi
+Hejrevej 78950 Ørsted,sted,165.000,06-01-2011,Fam. Salg,3.300,3,Sommerhus,50,2013,,Aktuel værdi
+Ryderne 48950 Ørsted,sted,650.000,04-01-2011,Alm. Salg,3.651,5,Villa,178,1887,,Aktuel værdi
+Bodevej 108950 Ørsted,sted,650.000,23-12-2010,Alm. Salg,8.904,2,Sommerhus,73,1877,,Aktuel værdi
+Hollandsbjergvej 668950 Ørsted,sted,750.000,16-12-2010,Alm. Salg,7.211,4,Villa,104,1877,-6 %,Aktuel værdi
+Hollandsbjergvej 418950 Ørsted,sted,495.000,10-12-2010,Fam. Salg,4.714,3,Villa,105,1900,0 %,Aktuel værdi
+Fjordvej 128950 Ørsted,sted,557.500,03-12-2010,Alm. Salg,3.898,6,Stuehus,143,1932,-12 %,
+Sneppevej 158950 Ørsted,sted,1.075.000,19-11-2010,Alm. Salg,13.437,4,Sommerhus,80,2006,,Aktuel værdi
+Peitergyde 68950 Ørsted,sted,590.000,08-11-2010,Alm. Salg,4.916,5,Villa,120,1930,,Aktuel værdi
+Digevej 1A8950 Ørsted,sted,840.000,19-10-2010,Alm. Salg,6.774,5,Villa,124,1980,-7 %,Aktuel værdi
+Engvej 68950 Ørsted,sted,432.500,13-10-2010,Auktion,2.059,7,Villa,210,1870,,Aktuel værdi
+Tingvej 78950 Ørsted,sted,1.025.000,08-10-2010,Alm. Salg,8.836,3,Villa,116,1984,0 %,Aktuel værdi
+Hollandsbjergvej 188950 Ørsted,sted,700.000,06-10-2010,Alm. Salg,6.481,3,Villa,108,1968,-12 %,Aktuel værdi
+Duevej 28950 Ørsted,sted,775.000,15-09-2010,Alm. Salg,9.567,4,Sommerhus,81,1994,,Aktuel værdi
+Enebovej 18950 Ørsted,sted,185.626,11-09-2010,Alm. Salg,2.062,4,Villa,90,1856,,Aktuel værdi
+Strandskadevej 618950 Ørsted,sted,1.000.000,09-09-2010,Alm. Salg,8.333,5,Sommerhus,120,1984,,Aktuel værdi
+Klydevej 78950 Ørsted,sted,950.000,04-09-2010,Alm. Salg,10.106,6,Sommerhus,94,1989,,Aktuel værdi
+Bodevej 68950 Ørsted,sted,760.084,25-08-2010,Alm. Salg,3.585,7,Stuehus,212,1861,,
+Tingparken 1358950 Ørsted,sted,110.500,25-08-2010,Alm. Salg,686,5,Villa,161,2010,,Aktuel værdi
+Storegade 468950 Ørsted,sted,391.000,19-08-2010,Fam. Salg,4.443,3,Villa,88,1912,,Aktuel værdi
+Sneppevej 28950 Ørsted,sted,1.050.000,19-08-2010,Alm. Salg,15.000,3,Sommerhus,70,2003,,Aktuel værdi
+Bakkevej 28950 Ørsted,sted,51.000,17-08-2010,Alm. Salg,980,3,Villa,52,1900,,Aktuel værdi
+Tangvej 248950 Ørsted,sted,525.000,12-08-2010,Alm. Salg,8.606,4,Sommerhus,61,1969,,Aktuel værdi
+Rougsøvej 3068950 Ørsted,sted,795.000,07-08-2010,Alm. Salg,6.570,5,Villa,121,1956,0 %,Aktuel værdi
+Mågevej 21B8950 Ørsted,sted,1.000.000,04-08-2010,Alm. Salg,-,3,Sommerhus,64,1986,,Aktuel værdi
+Stenalt Markvej 68950 Ørsted,sted,1.400.000,04-08-2010,Alm. Salg,11.200,3,Villa,125,1941,-6 %,Aktuel værdi
+Ryderne 38950 Ørsted,sted,5.544.000,13-07-2010,Fam. Salg,25.666,8,Stuehus,216,1884,,
+Ryderne 118950 Ørsted,sted,1.656.000,13-07-2010,Fam. Salg,25.090,4,Stuehus,66,1827,,
+Storegade 38950 Ørsted,sted,484.500,12-07-2010,Alm. Salg,4.004,4,Villa,121,1900,,Aktuel værdi
+Spovevej 888950 Ørsted,sted,800.000,12-07-2010,Alm. Salg,9.638,3,Sommerhus,83,2011,,Aktuel værdi
+Voer Færgevej 648950 Ørsted,sted,850.000,30-06-2010,Auktion,3.863,5,Villa,220,1771,,Aktuel værdi
+Havvejen 108950 Ørsted,sted,204.368,29-06-2010,Alm. Salg,5.676,2,Sommerhus,36,1964,,Aktuel værdi
+Rougsøvej 2008950 Ørsted,sted,248.000,22-06-2010,Alm. Salg,2.725,4,Villa,91,1933,0 %,Aktuel værdi
+Nydamsvej 14B8950 Ørsted,sted,110.000,22-06-2010,Alm. Salg,2.037,2,Villa,54,1944,-19 %,Aktuel værdi
+Fasanvej 188950 Ørsted,sted,735.000,17-06-2010,Alm. Salg,11.484,4,Sommerhus,64,1971,,Aktuel værdi
+Hedevej 68950 Ørsted,sted,1.150.000,17-06-2010,Alm. Salg,20.535,3,Stuehus,56,1914,,
+Kirkegade 48950 Ørsted,sted,1.075.000,17-06-2010,Alm. Salg,8.600,4,Villa,125,1976,-10 %,Aktuel værdi
+Bogfinkevej 18950 Ørsted,sted,790.000,08-06-2010,Alm. Salg,9.518,4,Sommerhus,83,1987,,Aktuel værdi
+Tingparken 178950 Ørsted,sted,1.380.000,04-06-2010,Alm. Salg,9.139,6,Villa,151,1979,-6 %,Aktuel værdi
+Nørre Alle 10A8950 Ørsted,sted,775.000,11-05-2010,Alm. Salg,6.739,3,Villa,115,1984,-3 %,Aktuel værdi
+Hvedemarksvej 18950 Ørsted,sted,150.000,07-05-2010,Alm. Salg,612,7,Villa,245,1979,,Aktuel værdi
+Hevringvej 188950 Ørsted,sted,1.300.000,06-05-2010,Alm. Salg,8.387,5,Villa,155,1775,-7 %,Aktuel værdi
+Toftevænge 208950 Ørsted,sted,950.000,28-04-2010,Alm. Salg,8.189,5,Villa,116,1956,-3 %,Aktuel værdi
+Hejrevej 338950 Ørsted,sted,850.000,22-04-2010,Alm. Salg,10.493,3,Sommerhus,81,1978,-15 %,Aktuel værdi
+Hollandsbjergvej 288950 Ørsted,sted,2.350.000,21-04-2010,Alm. Salg,17.407,5,Stuehus,135,1954,,
+Hevring Møllevej 118950 Ørsted,sted,250.000,17-04-2010,Alm. Salg,1.250,6,Villa,200,1802,,Aktuel værdi
+Hollandsbjergvej 338950 Ørsted,sted,550.000,07-04-2010,Auktion,2.894,9,Villa,190,1900,,Aktuel værdi
+Rougsøvej 2618950 Ørsted,sted,2.350.000,10-03-2010,Auktion,11.691,7,Villa,201,1895,,Aktuel værdi
+Voer Færgevej 218950 Ørsted,sted,750.000,03-03-2010,Fam. Salg,5.357,6,Villa,140,1925,,Aktuel værdi
+Storegade 448950 Ørsted,sted,1.200.000,02-03-2010,Alm. Salg,6.593,7,Villa,182,2003,-7 %,Aktuel værdi
+Kløvervej 198950 Ørsted,sted,695.000,24-02-2010,Auktion,6.318,5,Sommerhus,110,2007,-61 %,Aktuel værdi
+Kløvervej 178950 Ørsted,sted,695.000,24-02-2010,Auktion,6.318,5,Sommerhus,110,2007,-61 %,Aktuel værdi
+Estruplundvej 628950 Ørsted,sted,400.000,12-02-2010,Alm. Salg,4.395,3,Villa,91,1875,-6 %,Aktuel værdi
+Rougsøvej 1608950 Ørsted,sted,600.000,10-02-2010,Alm. Salg,6.382,3,Villa,94,1949,-14 %,Aktuel værdi
+Storegade 198950 Ørsted,sted,375.000,08-02-2010,Alm. Salg,3.409,4,Rækkehus,110,1897,-17 %,Aktuel værdi
+Rougsøvej 259C8950 Ørsted,sted,167.300,04-02-2010,Fam. Salg,3.217,3,Sommerhus,52,1960,,Aktuel værdi
+Nordvej 128950 Ørsted,sted,710.000,28-01-2010,Alm. Salg,4.057,6,Villa,175,1930,-11 %,Aktuel værdi
+Hevring Møllevej 58950 Ørsted,sted,184.000,21-01-2010,Alm. Salg,2.000,4,Villa,92,1875,,Aktuel værdi
+Rougsøvej 1368950 Ørsted,sted,180.000,20-01-2010,Auktion,1.097,4,Villa,164,1902,-28 %,Aktuel værdi
+Stenalt Markvej 88950 Ørsted,sted,1.200.000,06-01-2010,Alm. Salg,8.888,3,Stuehus,135,1941,-19 %,
+Tingvej 218950 Ørsted,sted,1.198.000,13-11-2009,Alm. Salg,10.601,4,Villa,113,1987,0 %,Aktuel værdi
+Strandskadevej 518950 Ørsted,sted,860.000,13-11-2009,Alm. Salg,8.269,4,Sommerhus,104,1976,-20 %,Aktuel værdi
+Storegade 258950 Ørsted,sted,250.000,12-11-2009,Alm. Salg,3.048,2,Villa,82,1856,-29 %,Aktuel værdi
+Voer Færgevej 938950 Ørsted,sted,250.000,04-11-2009,Auktion,2.118,4,Villa,118,1931,-49 %,Aktuel værdi
+Østerbakken 28950 Ørsted,sted,440.000,03-11-2009,Alm. Salg,4.112,4,Villa,107,2010,,Aktuel værdi
+Hollandsbjergvej 128950 Ørsted,sted,385.537,19-10-2009,Alm. Salg,3.059,4,Villa,126,1961,-61 %,Aktuel værdi
+Spovevej 78950 Ørsted,sted,575.000,12-10-2009,Alm. Salg,10.267,3,Sommerhus,56,1972,-3 %,Aktuel værdi
+Havtornevej 18A8950 Ørsted,sted,990.000,30-09-2009,Alm. Salg,11.000,4,Sommerhus,90,2006,-1 %,Aktuel værdi
+Hollandsbjergvej 38950 Ørsted,sted,850.000,21-09-2009,Alm. Salg,6.589,4,Villa,129,1961,-11 %,Aktuel værdi
+Sneppevej 98950 Ørsted,sted,890.000,21-09-2009,Alm. Salg,-,6,Sommerhus,102,1988,-18 %,Aktuel værdi
+Rougsøvej 2098950 Ørsted,sted,6.865.000,16-09-2009,Alm. Salg,40.382,5,Stuehus,170,1931,,
+Sneppevej 118950 Ørsted,sted,675.000,22-08-2009,Alm. Salg,11.637,3,Sommerhus,58,1982,,Aktuel værdi
+Strandskadevej 68950 Ørsted,sted,710.000,10-08-2009,Alm. Salg,15.434,3,Sommerhus,46,1989,,Aktuel værdi
+Rylevej 258950 Ørsted,sted,310.000,04-08-2009,Alm. Salg,4.626,2,Sommerhus,67,1972,,Aktuel værdi
+Duevej 48950 Ørsted,sted,1.471.000,31-07-2009,Alm. Salg,12.057,4,Sommerhus,122,2006,,Aktuel værdi
+Rougsøvej 2128950 Ørsted,sted,407.500,27-07-2009,Alm. Salg,3.844,4,Villa,106,1897,,Aktuel værdi
+Hollandsbjergvej 488950 Ørsted,sted,850.000,22-07-2009,Fam. Salg,5.519,4,Villa,154,1900,,Aktuel værdi
+Tingparken 598950 Ørsted,sted,1.015.000,13-07-2009,Alm. Salg,10.463,4,Villa,97,1986,-8 %,Aktuel værdi
+"Rougsøvej 130, 18950 Ørsted",sted,325.000,02-07-2009,Alm. Salg,4.333,2,Lejlighed,75,1900,,Aktuel værdi
+Krammesvej 378950 Ørsted,sted,300.000,23-06-2009,Alm. Salg,5.769,3,Sommerhus,52,2010,,Aktuel værdi
+Alsikevej 108950 Ørsted,sted,860.000,22-06-2009,Alm. Salg,12.285,3,Sommerhus,70,2005,-7 %,Aktuel værdi
+Engvej 11A8950 Ørsted,sted,230.000,10-06-2009,Alm. Salg,5.111,3,Villa,45,1799,,Aktuel værdi
+Storegade 208950 Ørsted,sted,650.000,14-05-2009,Alm. Salg,4.577,5,Rækkehus,142,1900,-21 %,Aktuel værdi
+Bondhøjvej 88950 Ørsted,sted,1.150.000,05-05-2009,Alm. Salg,6.353,8,Villa,181,1966,-8 %,Aktuel værdi
+Lillegade 298950 Ørsted,sted,575.000,23-04-2009,Alm. Salg,5.227,5,Villa,110,1961,-8 %,Aktuel værdi
+Rougsøvej 1578950 Ørsted,sted,360.500,17-04-2009,Alm. Salg,3.277,3,Villa,110,1877,,Aktuel værdi
+Hejrevej 358950 Ørsted,sted,1.125.000,17-04-2009,Alm. Salg,14.423,4,Sommerhus,78,2000,,Aktuel værdi
+Krammesvej 118950 Ørsted,sted,500.000,16-04-2009,Alm. Salg,11.904,3,Sommerhus,42,1959,-9 %,Aktuel værdi
+Havtornevej 208950 Ørsted,sted,1.150.000,14-04-2009,Alm. Salg,16.428,3,Sommerhus,70,2005,0 %,Aktuel værdi
+Hevring Møllevej 108950 Ørsted,sted,292.913,04-04-2009,Alm. Salg,4.068,3,Villa,72,1880,,Aktuel værdi
+Voer Gade 108950 Ørsted,sted,522.000,01-04-2009,Alm. Salg,4.278,3,Villa,122,1887,-37 %,Aktuel værdi
+Hulvej 68950 Ørsted,sted,680.000,31-03-2009,Alm. Salg,6.017,2,Villa,113,1880,-2 %,Aktuel værdi
+Tingparken 1258950 Ørsted,sted,110.500,24-03-2009,Alm. Salg,772,5,Villa,143,2010,,Aktuel værdi
+Hollandsbjergvej 178950 Ørsted,sted,475.000,12-03-2009,Alm. Salg,3.958,4,Villa,120,1860,-5 %,Aktuel værdi
+Holbækgård Mark 48950 Ørsted,sted,6.000.000,10-03-2009,Fam. Salg,42.253,6,Stuehus,142,1931,,
+Voer Færgevej 688950 Ørsted,sted,10.000.000,10-03-2009,Fam. Salg,57.142,6,Stuehus,175,1918,,
+Godthåbsvej 78950 Ørsted,sted,13.000.000,10-03-2009,Alm. Salg,81.761,7,Stuehus,159,1872,,
+Søstien 68950 Ørsted,sted,785.000,26-02-2009,Alm. Salg,5.233,4,Villa,150,1877,,Aktuel værdi
+Bondhøjvej 288950 Ørsted,sted,1.000.000,12-02-2009,Alm. Salg,7.936,6,Villa,126,1964,-4 %,Aktuel værdi
+Tingvej 178950 Ørsted,sted,840.000,10-02-2009,Alm. Salg,7.433,4,Villa,113,1986,-1 %,Aktuel værdi
+Voer Færgevej 388950 Ørsted,sted,255.000,29-01-2009,Auktion,2.198,5,Villa,116,1907,,Aktuel værdi
+Estruplundvej 178950 Ørsted,sted,440.000,16-01-2009,Alm. Salg,5.176,2,Villa,85,1957,,Aktuel værdi
+Estruplundvej 88950 Ørsted,sted,50.000,30-12-2008,Alm. Salg,186,7,Stuehus,268,1868,,
+Mågevej 68950 Ørsted,sted,740.000,26-12-2008,Fam. Salg,22.424,3,Sommerhus,33,1966,,Aktuel værdi
+Rougsøvej 2418950 Ørsted,sted,688.500,17-12-2008,Fam. Salg,6.885,4,Villa,100,1906,,Aktuel værdi
+Dr Frandsens Vej 68950 Ørsted,sted,1.000.000,09-12-2008,Alm. Salg,2.105,13,Stuehus,475,1885,,
+Smedegyde 28950 Ørsted,sted,1.050.000,29-11-2008,Alm. Salg,6.034,3,Villa,174,1900,-4 %,Aktuel værdi
+Rougsøvej 808950 Ørsted,sted,500.000,20-11-2008,Alm. Salg,3.759,5,Villa,133,1953,,Aktuel værdi
+Digevej 68950 Ørsted,sted,500.000,18-11-2008,Alm. Salg,5.000,5,Villa,100,1880,,Aktuel værdi
+Skyttevej 118950 Ørsted,sted,949.000,24-10-2008,Alm. Salg,8.042,5,Villa,118,1965,,Aktuel værdi
+Bondhøjvej 98950 Ørsted,sted,475.000,13-10-2008,Alm. Salg,7.307,2,Villa,65,1800,-4 %,Aktuel værdi
+Hevring Møllevej 288950 Ørsted,sted,2.400.000,08-10-2008,Alm. Salg,11.059,5,Villa,217,1920,-4 %,Aktuel værdi
+Mosevænge 88950 Ørsted,sted,713.376,02-10-2008,Alm. Salg,3.794,6,Villa,188,1974,,Aktuel værdi
+Ternevej 68950 Ørsted,sted,630.000,02-10-2008,Fam. Salg,4.736,6,Sommerhus,133,1991,,Aktuel værdi
+Nydamsvej 138950 Ørsted,sted,600.000,26-09-2008,Alm. Salg,7.500,3,Villa,80,1852,,Aktuel værdi
+Estruplundvej 218950 Ørsted,sted,5.692.800,19-09-2008,Alm. Salg,24.020,7,Stuehus,237,1987,,
+Voer Færgevej 68950 Ørsted,sted,480.000,14-09-2008,Alm. Salg,6.000,4,Villa,80,1877,,Aktuel værdi
+Spovevej 368950 Ørsted,sted,1.275.000,11-09-2008,Alm. Salg,10.200,4,Sommerhus,125,1969,,Aktuel værdi
+Stenaltvej 238950 Ørsted,sted,721.875,08-09-2008,Alm. Salg,5.156,4,Villa,140,1850,21 %,Aktuel værdi
+Rougsøvej 1258950 Ørsted,sted,1.750.000,08-09-2008,Alm. Salg,25.735,2,Villa,68,1954,,Aktuel værdi
+Tingparken 978950 Ørsted,sted,1.295.000,04-09-2008,Alm. Salg,8.750,4,Villa,148,1980,0 %,Aktuel værdi
+Sneppevej 128950 Ørsted,sted,675.000,04-09-2008,Alm. Salg,5.672,5,Sommerhus,119,1977,,Aktuel værdi
+Skipperstien 48950 Ørsted,sted,550.000,03-09-2008,Alm. Salg,5.978,3,Villa,92,1850,-12 %,Aktuel værdi
+Østerbakken 128950 Ørsted,sted,1.718.790,29-08-2008,Alm. Salg,14.690,4,Villa,117,2008,,Aktuel værdi
+Havvejen 28C8950 Ørsted,sted,408.000,29-08-2008,Fam. Salg,8.160,2,Sommerhus,50,1950,,Aktuel værdi
+Stenaltvej 298950 Ørsted,sted,725.000,28-08-2008,Alm. Salg,6.092,5,Villa,119,1929,-5 %,Aktuel værdi
+Voer Færgevej 368950 Ørsted,sted,295.000,22-08-2008,Alm. Salg,2.633,5,Villa,112,1900,0 %,Aktuel værdi
+Voer Færgevej 418950 Ørsted,sted,4.377.500,21-08-2008,Fam. Salg,27.359,6,Stuehus,160,1900,,
+Koglevej 18950 Ørsted,sted,825.000,19-08-2008,Fam. Salg,6.445,4,Sommerhus,128,2008,,Aktuel værdi
+Estruplundvej 188950 Ørsted,sted,270.000,18-08-2008,Alm. Salg,2.076,4,Villa,130,1875,,Aktuel værdi
+Skyttevej 78950 Ørsted,sted,747.639,05-08-2008,Alm. Salg,5.265,5,Villa,142,1967,,Aktuel værdi
+Mågevej 21A8950 Ørsted,sted,1.140.000,01-08-2008,Alm. Salg,16.764,4,Sommerhus,68,1986,,Aktuel værdi
+Sønderbakken 68950 Ørsted,sted,1.000.000,23-07-2008,Alm. Salg,9.900,5,Villa,101,1956,-5 %,Aktuel værdi
+Holbækvej 218950 Ørsted,sted,2.950.000,22-07-2008,Alm. Salg,9.833,11,Stuehus,300,1916,-5 %,
+Rougsøvej 2158950 Ørsted,sted,500.000,04-07-2008,Alm. Salg,4.545,6,Villa,110,1942,,Aktuel værdi
+Koglevej 198950 Ørsted,sted,440.000,01-07-2008,Alm. Salg,13.333,1,Sommerhus,33,1900,-11 %,Aktuel værdi
+Søstien 128950 Ørsted,sted,850.000,16-06-2008,Alm. Salg,6.910,5,Villa,123,1979,,Aktuel værdi
+Stenalt Markvej 148950 Ørsted,sted,2.000.000,13-06-2008,Alm. Salg,9.049,6,Stuehus,221,1940,-9 %,
+Rylevej 218950 Ørsted,sted,848.000,01-06-2008,Alm. Salg,16.307,3,Sommerhus,52,1974,,Aktuel værdi
+Storegade 178950 Ørsted,sted,965.000,21-05-2008,Alm. Salg,8.041,6,Villa,120,1900,-3 %,Aktuel værdi
+Sneppevej 198950 Ørsted,sted,840.000,06-05-2008,Alm. Salg,14.482,4,Sommerhus,58,1987,,Aktuel værdi
+Voer Gade 68950 Ørsted,sted,610.000,03-05-2008,Alm. Salg,4.236,6,Villa,144,1777,-5 %,Aktuel værdi
+Spovevej 848950 Ørsted,sted,1.050.000,30-04-2008,Alm. Salg,26.923,2,Sommerhus,39,1988,,Aktuel værdi
+Rylevej 28950 Ørsted,sted,825.000,25-04-2008,Alm. Salg,12.692,4,Sommerhus,65,1978,,Aktuel værdi
+Bodevej 278950 Ørsted,sted,8.000.000,24-04-2008,Alm. Salg,52.980,7,Stuehus,151,1895,,
+Bodevej 378950 Ørsted,sted,1.700.000,18-04-2008,Alm. Salg,6.719,7,Villa,253,1937,,Aktuel værdi
+Møllevej 28950 Ørsted,sted,985.000,14-04-2008,Alm. Salg,10.944,3,Villa,90,1938,-1 %,Aktuel værdi
+Tangvej 208950 Ørsted,sted,800.000,11-04-2008,Alm. Salg,12.307,4,Sommerhus,65,1979,,Aktuel værdi
+Vesterled 38950 Ørsted,sted,1.225.000,04-04-2008,Alm. Salg,9.074,4,Villa,135,1977,-12 %,Aktuel værdi
+Sygehusvej 58950 Ørsted,sted,1.075.000,02-04-2008,Alm. Salg,8.669,5,Villa,124,1900,-1 %,Aktuel værdi
+Kløvervej 138950 Ørsted,sted,135.000,13-03-2008,Alm. Salg,19.285,1,Fritid,7,1974,,Aktuel værdi
+Rougsøvej 2828950 Ørsted,sted,1.052.000,11-03-2008,Alm. Salg,9.477,5,Stuehus,111,1877,,
+Krammesvej 38950 Ørsted,sted,500.000,02-03-2008,Alm. Salg,11.904,3,Sommerhus,42,1962,,Aktuel værdi
+Hejrevej 398950 Ørsted,sted,670.000,29-02-2008,Alm. Salg,11.166,4,Sommerhus,60,1980,,Aktuel værdi
+Elvej 38950 Ørsted,sted,106.292,29-02-2008,Fam. Salg,1.012,5,Sommerhus,105,1986,,Aktuel værdi
+Tingparken 418950 Ørsted,sted,1.225.000,26-02-2008,Alm. Salg,10.470,5,Villa,117,1979,-4 %,Aktuel værdi
+Bodevej 1B8950 Ørsted,sted,1.720.000,26-02-2008,Alm. Salg,11.543,5,Stuehus,149,2004,,
+Rougsøvej 948950 Ørsted,sted,1.400.000,11-02-2008,Alm. Salg,6.140,8,Villa,228,1919,-3 %,Aktuel værdi
+Dr Høegs Vej 18950 Ørsted,sted,995.000,08-02-2008,Alm. Salg,8.361,5,Villa,119,1968,0 %,Aktuel værdi
+Rylevej 318950 Ørsted,sted,475.000,04-02-2008,Alm. Salg,3.392,7,Sommerhus,140,1969,,Aktuel værdi
+Bodevej 38950 Ørsted,sted,656.262,29-01-2008,Alm. Salg,3.297,6,Villa,199,1900,,Aktuel værdi
+Lillegade 308950 Ørsted,sted,826.463,29-01-2008,Alm. Salg,3.593,10,Villa,230,1902,,Aktuel værdi
+Østerbakken 308950 Ørsted,sted,223.520,29-01-2008,Alm. Salg,1.241,6,Villa,180,2009,,Aktuel værdi
+Østerbakken 248950 Ørsted,sted,181.280,29-01-2008,Alm. Salg,1.066,5,Villa,170,2013,,Aktuel værdi
+Østerbakken 268950 Ørsted,sted,157.280,17-01-2008,Alm. Salg,1.123,5,Villa,140,2009,,Aktuel værdi
+Hevringvej 78950 Ørsted,sted,3.000.000,14-01-2008,Alm. Salg,11.029,9,Villa,272,1894,,Aktuel værdi
+Bendsvej 148950 Ørsted,sted,400.000,05-01-2008,Alm. Salg,2.150,6,Stuehus,186,1919,,
+Hejrevej 218950 Ørsted,sted,799.000,18-12-2007,Fam. Salg,6.658,5,Sommerhus,120,1997,,Aktuel værdi
+Skyttevej 238950 Ørsted,sted,1.570.000,17-12-2007,Alm. Salg,6.569,6,Villa,239,1972,-5 %,Aktuel værdi
+Skyttevej 108950 Ørsted,sted,1.900.000,02-12-2007,Alm. Salg,12.837,5,Villa,148,2000,-9 %,Aktuel værdi
+Estruplundvej 41A8950 Ørsted,sted,965.000,30-11-2007,Alm. Salg,8.935,3,Villa,108,1975,-3 %,Aktuel værdi
+Strandhusvej 98950 Ørsted,sted,865.000,28-11-2007,Alm. Salg,15.727,2,Sommerhus,55,1952,0 %,Aktuel værdi
+Lillegade 248950 Ørsted,sted,1.035.000,28-11-2007,Alm. Salg,9.078,4,Villa,114,1962,0 %,Aktuel værdi
+Hollandsbjergvej 43B8950 Ørsted,sted,1.320.000,22-11-2007,Alm. Salg,8.979,4,Villa,147,1987,,Aktuel værdi
+Rougsøvej 1298950 Ørsted,sted,454.808,21-11-2007,Andet,4.787,3,Villa,95,1947,,Aktuel værdi
+Rougsøvej 1698950 Ørsted,sted,780.000,19-11-2007,Alm. Salg,4.814,5,Villa,162,1885,-2 %,Aktuel værdi
+Digemarken 18950 Ørsted,sted,1.095.000,02-11-2007,Alm. Salg,8.554,3,Villa,128,1971,0 %,Aktuel værdi
+Hejrevej 28950 Ørsted,sted,1.250.000,22-10-2007,Alm. Salg,16.447,2,Sommerhus,76,2004,,Aktuel værdi
+Strandskadevej 508950 Ørsted,sted,725.000,20-10-2007,Alm. Salg,7.552,3,Sommerhus,96,2011,,Aktuel værdi
+Nydamsvej 278950 Ørsted,sted,2.349.000,15-10-2007,Alm. Salg,10.581,7,Villa,222,1875,0 %,Aktuel værdi
+Hejrevej 88950 Ørsted,sted,685.000,19-09-2007,Alm. Salg,12.924,3,Sommerhus,53,1978,,Aktuel værdi
+Strandhusvej 118950 Ørsted,sted,975.000,13-09-2007,Alm. Salg,13.928,3,Sommerhus,70,1957,,Aktuel værdi
+Rørsangervej 16B8950 Ørsted,sted,495.000,10-09-2007,Alm. Salg,7.071,4,Sommerhus,70,1974,,Aktuel værdi
+Hevringvej 28950 Ørsted,sted,865.000,06-09-2007,Alm. Salg,5.690,6,Villa,152,1900,,Aktuel værdi
+Rougsøvej 2378950 Ørsted,sted,795.000,03-09-2007,Alm. Salg,3.382,6,Villa,235,1912,-11 %,Aktuel værdi
+Tingparken 818950 Ørsted,sted,1.210.000,02-09-2007,Alm. Salg,10.707,4,Villa,113,1989,-5 %,Aktuel værdi
+Tangvej 268950 Ørsted,sted,1.750.000,01-09-2007,Alm. Salg,16.826,4,Sommerhus,104,2007,,Aktuel værdi
+Mosevej 48950 Ørsted,sted,1.200.000,30-08-2007,Fam. Salg,4.597,8,Villa,261,2015,,Aktuel værdi
+Rougsøvej 888950 Ørsted,sted,750.000,27-08-2007,Alm. Salg,7.211,5,Villa,104,1932,-3 %,Aktuel værdi
+Holbækvej 138950 Ørsted,sted,560.000,26-08-2007,Alm. Salg,7.000,3,Villa,80,1890,-3 %,Aktuel værdi
+Hejrevej 108950 Ørsted,sted,975.000,24-08-2007,Alm. Salg,12.828,4,Sommerhus,76,1987,,Aktuel værdi
+Langvadvej 108950 Ørsted,sted,895.000,23-08-2007,Alm. Salg,7.458,5,Villa,120,1945,0 %,Aktuel værdi
+Tingparken 158950 Ørsted,sted,1.150.000,23-08-2007,Alm. Salg,6.969,6,Villa,165,1978,,Aktuel værdi
+Voer Færgevej 228950 Ørsted,sted,650.000,21-08-2007,Alm. Salg,4.276,4,Villa,152,1953,-5 %,Aktuel værdi
+Rylevej 248950 Ørsted,sted,671.500,10-08-2007,Alm. Salg,5.595,6,Sommerhus,120,1973,,Aktuel værdi
+Lillegade 108950 Ørsted,sted,995.000,02-08-2007,Alm. Salg,8.155,3,Villa,122,1912,0 %,Aktuel værdi
+Lillegade 188950 Ørsted,sted,920.000,18-07-2007,Alm. Salg,-,6,Villa,157,1956,2 %,Aktuel værdi
+Digevej 28950 Ørsted,sted,685.000,16-07-2007,Alm. Salg,4.448,6,Villa,154,1915,-86 %,Aktuel værdi
+Skovbakken 28950 Ørsted,sted,275.000,15-07-2007,Alm. Salg,3.437,2,Rækkehus,80,1877,,Aktuel værdi
+Fasanvej 15A8950 Ørsted,sted,955.000,14-07-2007,Alm. Salg,13.840,4,Sommerhus,69,1982,,Aktuel værdi
+Højvangsvej 58950 Ørsted,sted,810.000,07-07-2007,Alm. Salg,8.350,4,Villa,97,1981,,Aktuel værdi
+Bondhøjvej 248950 Ørsted,sted,815.000,07-07-2007,Alm. Salg,8.316,3,Villa,98,1964,0 %,Aktuel værdi
+Toftevænge 118950 Ørsted,sted,1.495.000,07-07-2007,Alm. Salg,4.397,19,Villa,340,1900,,Aktuel værdi
+Ternevej 168950 Ørsted,sted,235.000,05-07-2007,Alm. Salg,1.991,4,Sommerhus,118,2009,,Aktuel værdi
+Estruplundvej 98950 Ørsted,sted,925.000,26-06-2007,Alm. Salg,5.285,7,Stuehus,175,1998,,
+Toftevænge 28950 Ørsted,sted,1.166.000,25-06-2007,Alm. Salg,6.371,5,Villa,183,1958,0 %,Aktuel værdi
+Voer Færgevej 1098950 Ørsted,sted,1.350.000,22-06-2007,Alm. Salg,9.574,4,Villa,141,1940,,Aktuel værdi
+Bode Engvej 28950 Ørsted,sted,1.025.000,20-06-2007,Alm. Salg,5.256,6,Stuehus,195,1876,-2 %,
+Vanghavevej 38950 Ørsted,sted,675.000,18-06-2007,Alm. Salg,6.750,4,Villa,100,1986,0 %,Aktuel værdi
+Voer Færgevej 248950 Ørsted,sted,550.000,14-06-2007,Alm. Salg,8.870,2,Villa,62,1935,0 %,Aktuel værdi
+Holbækgårdsvej 108950 Ørsted,sted,850.000,13-06-2007,Alm. Salg,8.018,4,Villa,106,1980,-5 %,Aktuel værdi
+Ternevej 488950 Ørsted,sted,800.000,12-06-2007,Alm. Salg,14.545,3,Sommerhus,55,1969,,Aktuel værdi
+Strandskadevej 428950 Ørsted,sted,1.200.000,12-06-2007,Alm. Salg,19.047,3,Sommerhus,63,2004,-2 %,Aktuel værdi
+Idrætsvej 38950 Ørsted,sted,650.000,11-06-2007,Alm. Salg,8.666,3,Villa,75,1953,-6 %,Aktuel værdi
+Spovevej 38950 Ørsted,sted,1.050.000,10-06-2007,Alm. Salg,12.352,5,Sommerhus,85,1976,,Aktuel værdi
+"Sneppevej 22, ST8950 Ørsted",sted,350.000,02-06-2007,Alm. Salg,4.861,3,Sommerhus,72,2014,,Aktuel værdi
+Tangvej 38950 Ørsted,sted,500.000,01-06-2007,Alm. Salg,4.545,3,Sommerhus,110,1977,,Aktuel værdi
+Kalkærsvej 148950 Ørsted,sted,1.440.000,29-05-2007,Alm. Salg,10.140,4,Villa,142,1971,,Aktuel værdi
+Voer Færgevej 998950 Ørsted,sted,290.000,21-05-2007,Alm. Salg,2.478,5,Villa,117,1877,-42 %,Aktuel værdi
+Ryderne 28950 Ørsted,sted,495.000,21-05-2007,Alm. Salg,5.500,3,Villa,90,1890,,Aktuel værdi
+Hollandsbjergvej 388950 Ørsted,sted,990.000,15-05-2007,Alm. Salg,9.339,4,Villa,106,1978,,Aktuel værdi
+Østerbakken 88950 Ørsted,sted,1.636.300,10-05-2007,Alm. Salg,15.292,4,Villa,107,2007,,Aktuel værdi
+Voer Gade 348950 Ørsted,sted,1.700.000,08-05-2007,Alm. Salg,8.173,5,Stuehus,208,1909,,
+Sygehusvej 18950 Ørsted,sted,1.765.000,08-05-2007,Alm. Salg,6.585,9,Villa,268,1907,0 %,Aktuel værdi
+Bendsvej 28950 Ørsted,sted,2.350.000,05-05-2007,Alm. Salg,12.368,6,Villa,190,2005,,Aktuel værdi
+Lillegade 168950 Ørsted,sted,650.000,25-04-2007,Alm. Salg,5.327,5,Villa,122,1906,,Aktuel værdi
+Østerbakken 108950 Ørsted,sted,1.595.000,24-04-2007,Alm. Salg,14.906,4,Villa,107,2007,,Aktuel værdi
+Bendsvej 68950 Ørsted,sted,1.475.000,03-04-2007,Alm. Salg,12.500,4,Stuehus,118,1948,-1 %,
+Holbækvej 198950 Ørsted,sted,1.918.000,29-03-2007,Alm. Salg,8.798,8,Villa,218,1910,,Aktuel værdi
+"Vestvej 2, ST. 48950 Ørsted",sted,325.000,22-03-2007,Alm. Salg,6.770,2,Lejlighed,48,1955,-6 %,Aktuel værdi
+"Rougsøvej 77, ST. 18950 Ørsted",sted,450.000,22-03-2007,Alm. Salg,5.625,2,Lejlighed,80,1955,-9 %,Aktuel værdi
+"Vestvej 2, 1. TH 28950 Ørsted",sted,400.000,22-03-2007,Alm. Salg,4.444,6,Lejlighed,90,1955,,Aktuel værdi
+"Vestvej 2, 1. TV 38950 Ørsted",sted,400.000,22-03-2007,Alm. Salg,6.250,2,Lejlighed,64,1955,,Aktuel værdi
+Tingvej 258950 Ørsted,sted,1.050.000,20-03-2007,Alm. Salg,9.292,4,Villa,113,1989,,Aktuel værdi
+Spovevej 508950 Ørsted,sted,610.000,07-03-2007,Alm. Salg,7.530,4,Sommerhus,81,1971,,Aktuel værdi
+Ørsted Kærvej 168950 Ørsted,sted,350.000,06-03-2007,Alm. Salg,2.631,2,Villa,133,2011,,Aktuel værdi
+Gammeljord 18950 Ørsted,sted,1.850.000,06-03-2007,Alm. Salg,7.773,10,Villa,238,1908,-2 %,Aktuel værdi
+Voer Færgevej 1128950 Ørsted,sted,1.322.600,02-03-2007,Fam. Salg,-,6,Stuehus,235,1600,,
+Ternevej 338950 Ørsted,sted,675.000,22-02-2007,Alm. Salg,14.361,3,Sommerhus,47,1970,,Aktuel værdi
+Skyttevej 38950 Ørsted,sted,1.150.000,12-02-2007,Alm. Salg,8.646,5,Villa,133,1964,,Aktuel værdi
+Spovevej 448950 Ørsted,sted,260.000,06-02-2007,Andet,4.193,3,Villa,62,1971,,Aktuel værdi
+Hevringvej 118950 Ørsted,sted,6.492.500,05-02-2007,Fam. Salg,40.578,5,Stuehus,160,1991,,
+Hollandsbjergvej 308950 Ørsted,sted,3.200.000,05-02-2007,Fam. Salg,30.476,4,Stuehus,105,1954,,
+Hollandsbjergvej 528950 Ørsted,sted,11.930.000,05-02-2007,Fam. Salg,38.360,7,Stuehus,311,1973,,
+Spovevej 728950 Ørsted,sted,442.000,25-01-2007,Fam. Salg,4.966,5,Sommerhus,89,1969,,Aktuel værdi
+Ternevej 348950 Ørsted,sted,374.000,23-01-2007,Fam. Salg,-,3,Sommerhus,73,1972,,Aktuel værdi
+Nordvej 48950 Ørsted,sted,230.000,18-01-2007,Fam. Salg,1.916,5,Villa,120,1864,,Aktuel værdi
+Østerbakken 338950 Ørsted,sted,189.450,18-01-2007,Alm. Salg,1.046,5,Villa,181,2008,,Aktuel værdi
+Rylevej 348950 Ørsted,sted,1.350.000,06-01-2007,Alm. Salg,19.285,4,Sommerhus,70,1986,,Aktuel værdi
+Estruplundvej 688950 Ørsted,sted,306.000,02-01-2007,Fam. Salg,3.777,3,Sommerhus,81,1897,,Aktuel værdi
+Hollandsbjergvej 138950 Ørsted,sted,251.434,02-01-2007,Andet,1.351,5,Villa,186,1905,,Aktuel værdi
+Spovevej 88950 Ørsted,sted,998.000,30-12-2006,Alm. Salg,10.847,3,Sommerhus,92,1975,,Aktuel værdi
+Rougsøvej 1988950 Ørsted,sted,535.518,28-12-2006,Alm. Salg,3.477,5,Stuehus,154,1935,,
+Nydamsvej 18950 Ørsted,sted,1.950.000,20-12-2006,Fam. Salg,9.898,7,Stuehus,197,1900,,
+Hevring Møllevej 48950 Ørsted,sted,1.130.000,14-12-2006,Alm. Salg,7.533,5,Villa,150,1898,,Aktuel værdi
+Rylevej 268950 Ørsted,sted,360.000,13-12-2006,Fam. Salg,7.500,6,Sommerhus,48,1971,,Aktuel værdi
+Tangvej 178950 Ørsted,sted,272.000,11-12-2006,Fam. Salg,7.771,2,Sommerhus,35,1958,,Aktuel værdi
+Godthåbsvej 58950 Ørsted,sted,230.000,11-12-2006,Auktion,1.543,4,Villa,149,1922,,Aktuel værdi
+Storegade 98950 Ørsted,sted,721.843,04-12-2006,Alm. Salg,4.597,4,Villa,157,1900,,Aktuel værdi
+Skyttevej 88950 Ørsted,sted,77.220,13-11-2006,Alm. Salg,585,4,Villa,132,2007,,Aktuel værdi
+Bogfinkevej 158950 Ørsted,sted,600.000,28-10-2006,Alm. Salg,9.677,4,Sommerhus,62,1987,,Aktuel værdi
+Fasanvej 208950 Ørsted,sted,1.000.000,22-10-2006,Alm. Salg,14.285,4,Sommerhus,70,1977,,Aktuel værdi
+Rørsangervej 14B8950 Ørsted,sted,600.000,21-10-2006,Fam. Salg,6.060,4,Sommerhus,99,2014,,Aktuel værdi
+Stenaltvej 18950 Ørsted,sted,1.150.000,14-10-2006,Alm. Salg,6.318,4,Villa,182,1890,,Aktuel værdi
+Havvejen 12C8950 Ørsted,sted,50.000,09-10-2006,Alm. Salg,515,4,Sommerhus,97,2010,,Aktuel værdi
+Agervej 28950 Ørsted,sted,850.000,28-09-2006,Alm. Salg,8.854,4,Villa,96,1970,,Aktuel værdi
+Rosengyde 58950 Ørsted,sted,1.150.000,27-09-2006,Alm. Salg,5.043,7,Villa,228,1937,,Aktuel værdi
+Nydamsvej 14A8950 Ørsted,sted,558.000,27-09-2006,Alm. Salg,5.119,4,Villa,109,1917,,Aktuel værdi
+Hevringvej 168950 Ørsted,sted,725.000,26-09-2006,Alm. Salg,3.519,6,Stuehus,206,1866,,
+Rougsøvej 2768950 Ørsted,sted,345.000,26-09-2006,Alm. Salg,3.136,4,Villa,110,1850,,Aktuel værdi
+Hevring Møllevej 68950 Ørsted,sted,208.817,22-09-2006,Alm. Salg,989,6,Villa,211,2008,,Aktuel værdi
+Møllevej 68950 Ørsted,sted,415.000,20-09-2006,Alm. Salg,4.150,2,Villa,100,1873,,Aktuel værdi
+Ørsted Kærvej 118950 Ørsted,sted,290.000,12-09-2006,Alm. Salg,1.620,7,Stuehus,179,1969,,
+Krammesvej 298950 Ørsted,sted,800.000,08-09-2006,Alm. Salg,11.940,4,Sommerhus,67,1967,,Aktuel værdi
+Spovevej 808950 Ørsted,sted,1.100.000,27-08-2006,Alm. Salg,13.750,4,Sommerhus,80,1973,,Aktuel værdi
+Hjemdalvej 68950 Ørsted,sted,1.895.000,25-08-2006,Alm. Salg,12.804,4,Stuehus,148,1928,,
+Spovevej 688950 Ørsted,sted,272.000,24-08-2006,Fam. Salg,3.830,4,Sommerhus,71,1988,,Aktuel værdi
+Hevringvej 68950 Ørsted,sted,478.000,14-08-2006,Alm. Salg,5.195,5,Villa,92,1963,,Aktuel værdi
+Bodevej 58950 Ørsted,sted,800.000,11-08-2006,Alm. Salg,6.666,3,Villa,120,1951,,Aktuel værdi
+Ternevej 48950 Ørsted,sted,1.140.000,08-08-2006,Alm. Salg,8.976,6,Sommerhus,127,1991,,Aktuel værdi
+Bogfinkevej 28950 Ørsted,sted,675.000,03-08-2006,Alm. Salg,14.361,3,Sommerhus,47,1984,,Aktuel værdi
+Tingparken 238950 Ørsted,sted,1.125.000,03-08-2006,Alm. Salg,8.333,5,Villa,135,1978,,Aktuel værdi
+Lillegade 88950 Ørsted,sted,330.000,31-07-2006,Alm. Salg,4.400,3,Villa,75,1777,,Aktuel værdi
+Engvej 58950 Ørsted,sted,877.500,31-07-2006,Alm. Salg,5.773,4,Stuehus,152,1971,,
+Rougsøvej 3208950 Ørsted,sted,5.405.000,31-07-2006,Alm. Salg,27.025,5,Stuehus,200,1858,,
+Havvejen 348950 Ørsted,sted,5.595.000,31-07-2006,Alm. Salg,42.709,3,Villa,131,1968,,Aktuel værdi
+Bogfinkevej 48950 Ørsted,sted,600.000,29-07-2006,Alm. Salg,-,6,Sommerhus,100,1987,,Aktuel værdi
+Langvadvej 7B8950 Ørsted,sted,895.000,24-07-2006,Alm. Salg,6.172,3,Villa,145,1977,,Aktuel værdi
+Ternevej 78950 Ørsted,sted,1.150.000,20-07-2006,Alm. Salg,7.931,6,Sommerhus,145,1991,,Aktuel værdi
+Voer Færgevej 408950 Ørsted,sted,520.000,17-07-2006,Alm. Salg,2.751,6,Villa,189,1905,,Aktuel værdi
+Nydamsvej 238950 Ørsted,sted,395.000,07-07-2006,Alm. Salg,3.526,5,Villa,112,1895,,Aktuel værdi
+Hevring Møllevej 138950 Ørsted,sted,1.200.000,21-06-2006,Alm. Salg,10.000,3,Villa,120,1932,,Aktuel værdi
+Rylevej 148950 Ørsted,sted,600.000,21-06-2006,Alm. Salg,10.000,4,Sommerhus,60,1972,,Aktuel værdi
+Krammesvej 358950 Ørsted,sted,850.000,14-06-2006,Alm. Salg,17.000,3,Sommerhus,50,1947,,Aktuel værdi
+Peitergyde 108950 Ørsted,sted,285.000,14-06-2006,Alm. Salg,4.253,3,Villa,67,1877,,Aktuel værdi
+Strandskadevej 18950 Ørsted,sted,799.000,09-06-2006,Alm. Salg,-,6,Sommerhus,128,1981,,Aktuel værdi
+Storegade 298950 Ørsted,sted,300.000,08-06-2006,Alm. Salg,6.521,3,Rækkehus,46,1844,,Aktuel værdi
+Tranevej 28950 Ørsted,sted,505.100,05-06-2006,Fam. Salg,6.475,3,Sommerhus,78,1998,,Aktuel værdi
+Spovevej 668950 Ørsted,sted,785.000,03-06-2006,Alm. Salg,9.345,4,Sommerhus,84,1981,,Aktuel værdi
+Tangvej 338950 Ørsted,sted,795.000,21-05-2006,Alm. Salg,11.357,3,Sommerhus,70,1959,,Aktuel værdi
+Rylevej 168950 Ørsted,sted,800.000,06-05-2006,Alm. Salg,8.602,5,Sommerhus,93,2008,,Aktuel værdi
+Bodevej 78950 Ørsted,sted,785.000,05-05-2006,Alm. Salg,7.548,3,Villa,104,1905,,Aktuel værdi
+Rougsøvej 1028950 Ørsted,sted,740.000,04-05-2006,Alm. Salg,7.400,4,Villa,100,1957,,Aktuel værdi
+Estruplundvej 45B8950 Ørsted,sted,1.195.000,04-05-2006,Alm. Salg,6.159,5,Stuehus,194,1877,,
+Bendsvej 128950 Ørsted,sted,1.075.000,03-05-2006,Alm. Salg,5.402,4,Villa,199,1912,,Aktuel værdi
+Rougsøvej 2488950 Ørsted,sted,550.000,25-04-2006,Alm. Salg,4.867,3,Stuehus,113,1921,,
+Ternevej 58950 Ørsted,sted,1.230.000,18-04-2006,Alm. Salg,9.248,6,Sommerhus,133,1991,,Aktuel værdi
+Sneppevej 88950 Ørsted,sted,1.275.000,12-04-2006,Alm. Salg,15.000,5,Sommerhus,85,2005,,Aktuel værdi
+Voer Gade 2B8950 Ørsted,sted,835.000,07-04-2006,Alm. Salg,5.457,5,Villa,153,1979,,Aktuel værdi
+Skalbakken 68950 Ørsted,sted,635.510,07-04-2006,Fam. Salg,6.355,4,Villa,100,1978,,Aktuel værdi
+Ternevej 278950 Ørsted,sted,1.258.000,29-03-2006,Alm. Salg,14.295,4,Villa,88,1998,,Aktuel værdi
+Sønderbakken 88950 Ørsted,sted,725.000,27-03-2006,Alm. Salg,9.062,3,Villa,80,1956,,Aktuel værdi
+Rylevej 108950 Ørsted,sted,645.000,27-03-2006,Alm. Salg,7.771,3,Sommerhus,83,1978,,Aktuel værdi
+Hevring Møllevej 78950 Ørsted,sted,949.000,23-03-2006,Alm. Salg,6.590,5,Villa,144,1988,,Aktuel værdi
+Tingparken 1338950 Ørsted,sted,116.870,22-03-2006,Alm. Salg,618,4,Villa,189,2006,,Aktuel værdi
+Hejrevej 228950 Ørsted,sted,1.300.000,18-03-2006,Alm. Salg,11.016,5,Sommerhus,118,2005,,Aktuel værdi
+Stenalt Markvej 128950 Ørsted,sted,1.275.000,17-03-2006,Alm. Salg,8.173,6,Stuehus,156,1941,,
+Strandhusvej 218950 Ørsted,sted,370.000,16-03-2006,Alm. Salg,6.727,5,Sommerhus,55,1900,,Aktuel værdi
+Rougsøvej 2748950 Ørsted,sted,275.000,14-03-2006,Alm. Salg,2.546,3,Villa,108,1727,,Aktuel værdi
+Hollandsbjergvej 608950 Ørsted,sted,810.000,14-03-2006,Alm. Salg,6.639,3,Villa,122,1890,,Aktuel værdi
+Rougsøvej 1508950 Ørsted,sted,1.100.000,01-03-2006,Alm. Salg,7.333,4,Villa,150,1922,,Aktuel værdi
+Fuglevangsvej 98950 Ørsted,sted,640.000,01-03-2006,Alm. Salg,15.609,3,Sommerhus,41,1987,,Aktuel værdi
+Ternevej 498950 Ørsted,sted,600.000,27-02-2006,Alm. Salg,12.000,2,Sommerhus,50,1971,,Aktuel værdi
+Rougsøvej 968950 Ørsted,sted,675.000,17-02-2006,Alm. Salg,3.750,4,Villa,180,1946,,Aktuel værdi
+Tingparken 1398950 Ørsted,sted,116.870,15-02-2006,Alm. Salg,749,5,Villa,156,2006,,Aktuel værdi
+Fuglevangsvej 288950 Ørsted,sted,80.000,09-02-2006,Alm. Salg,792,3,Sommerhus,101,2008,,Aktuel værdi
+Voer Gade 158950 Ørsted,sted,654.500,08-02-2006,Fam. Salg,2.821,12,Stuehus,232,1877,,
+Rørsangervej 1A8950 Ørsted,sted,1.100.000,26-01-2006,Alm. Salg,10.280,5,Sommerhus,107,1974,,Aktuel værdi
+Stenaltvej 13A8950 Ørsted,sted,750.000,16-01-2006,Alm. Salg,5.905,4,Villa,127,1976,,Aktuel værdi
+Udbyvej 18950 Ørsted,sted,320.000,14-01-2006,Alm. Salg,2.857,3,Villa,112,1870,,Aktuel værdi
+Hulvej 78950 Ørsted,sted,645.000,13-01-2006,Alm. Salg,5.420,3,Villa,119,1877,,Aktuel værdi
+Kalkærsvej 48950 Ørsted,sted,680.000,11-01-2006,Alm. Salg,6.732,3,Villa,101,1962,,Aktuel værdi
+Sandgårdsvej 58950 Ørsted,sted,350.000,10-01-2006,Andet,2.121,6,Villa,165,1973,,Aktuel værdi
+Sygehusvej 188950 Ørsted,sted,140.000,02-01-2006,Alm. Salg,689,5,Villa,203,2007,,Aktuel værdi
+Hejrevej 288950 Ørsted,sted,61.282,20-12-2005,Fam. Salg,494,4,Sommerhus,124,2012,,Aktuel værdi
+Højvangsvej 18950 Ørsted,sted,1.050.000,16-12-2005,Alm. Salg,6.176,8,Villa,170,1967,,Aktuel værdi
+Estruplundvej 668950 Ørsted,sted,25.000,16-12-2005,Auktion,-,2,Villa,100,1966,,Aktuel værdi
+Hevring Møllevej 248950 Ørsted,sted,2.850.000,13-12-2005,Alm. Salg,-,9,Stuehus,295,1902,,
+Gammeljord 68950 Ørsted,sted,80.793,12-12-2005,Andet,734,3,Stuehus,110,1978,,
+Borggyden 88950 Ørsted,sted,400.000,07-12-2005,Alm. Salg,4.705,3,Villa,85,1942,,Aktuel værdi
+Skyttevej 218950 Ørsted,sted,1.330.000,07-12-2005,Alm. Salg,9.047,4,Villa,147,1971,,Aktuel værdi
+Hollandsbjergvej 868950 Ørsted,sted,800.000,07-12-2005,Alm. Salg,7.142,4,Villa,112,1965,,Aktuel værdi
+Toftevænge 78950 Ørsted,sted,940.000,01-12-2005,Alm. Salg,8.392,6,Villa,112,1967,,Aktuel værdi
+Tingvej 238950 Ørsted,sted,825.000,28-11-2005,Alm. Salg,7.300,4,Villa,113,1987,,Aktuel værdi
+Tangvej 288950 Ørsted,sted,765.000,28-11-2005,Fam. Salg,5.543,4,Sommerhus,138,1983,,Aktuel værdi
+Holbækvej 268950 Ørsted,sted,850.000,23-11-2005,Alm. Salg,5.666,4,Villa,150,1916,,Aktuel værdi
+Hevring Møllevej 2C8950 Ørsted,sted,695.000,16-11-2005,Alm. Salg,5.346,4,Villa,130,1978,,Aktuel værdi
+Holbækvej 288950 Ørsted,sted,484.967,01-11-2005,Alm. Salg,3.031,5,Stuehus,160,1977,,
+Nydamsvej 128950 Ørsted,sted,698.000,27-10-2005,Alm. Salg,5.965,4,Villa,117,1966,,Aktuel værdi
+Fasanvej 328950 Ørsted,sted,433.500,21-10-2005,Alm. Salg,3.802,4,Sommerhus,114,1982,,Aktuel værdi
+Fasanvej 238950 Ørsted,sted,299.000,18-10-2005,Fam. Salg,8.305,2,Sommerhus,36,1972,,Aktuel værdi
+Hejrevej 258950 Ørsted,sted,240.000,14-10-2005,Alm. Salg,3.380,3,Sommerhus,71,2008,,Aktuel værdi
+Kare Engvej 28950 Ørsted,sted,475.000,13-10-2005,Alm. Salg,3.417,5,Villa,139,1932,,Aktuel værdi
+Sneppevej 418950 Ørsted,sted,85.000,10-10-2005,Fam. Salg,1.634,4,Sommerhus,52,1970,,Aktuel værdi
+Digevej 128950 Ørsted,sted,919.368,07-10-2005,Alm. Salg,7.661,4,Villa,120,1875,,Aktuel værdi
+Hvedemarksvej 58950 Ørsted,sted,607.500,03-10-2005,Alm. Salg,4.899,4,Villa,124,1976,,Aktuel værdi
+Havvejen 168950 Ørsted,sted,440.000,28-09-2005,Auktion,2.933,6,Villa,150,1877,,Aktuel værdi
+Sygehusvej 108950 Ørsted,sted,425.000,24-09-2005,Alm. Salg,4.047,5,Villa,105,1920,,Aktuel værdi
+Spovevej 648950 Ørsted,sted,1.060.000,21-09-2005,Alm. Salg,11.157,4,Sommerhus,95,1973,,Aktuel værdi
+Rougsøvej 1098950 Ørsted,sted,745.000,21-09-2005,Alm. Salg,4.306,6,Villa,173,1921,,Aktuel værdi
+Havagervej 48950 Ørsted,sted,595.000,19-09-2005,Alm. Salg,-,3,Villa,131,1777,,Aktuel værdi
+Kløvervej 118950 Ørsted,sted,758.000,16-09-2005,Alm. Salg,7.734,5,Sommerhus,98,1987,,Aktuel værdi
+Spovevej 198950 Ørsted,sted,625.000,15-09-2005,Alm. Salg,13.297,3,Sommerhus,47,1970,,Aktuel værdi
+Voer Færgevej 568950 Ørsted,sted,725.000,03-09-2005,Alm. Salg,6.041,3,Villa,120,1965,,Aktuel værdi
+Hevring Møllevej 88950 Ørsted,sted,1.500.000,01-09-2005,Alm. Salg,6.000,10,Villa,250,1880,,Aktuel værdi
+Mågevej 4B8950 Ørsted,sted,190.000,22-08-2005,Fam. Salg,3.333,3,Sommerhus,57,1980,,Aktuel værdi
+Sneppevej 48950 Ørsted,sted,226.000,20-08-2005,Alm. Salg,2.935,4,Sommerhus,77,2007,,Aktuel værdi
+Hejrevej 248950 Ørsted,sted,500.000,17-08-2005,Alm. Salg,-,4,Sommerhus,75,1980,,Aktuel værdi
+Bodevej 178950 Ørsted,sted,465.000,08-08-2005,Alm. Salg,4.843,3,Villa,96,1903,,Aktuel værdi
+Mågevej 158950 Ørsted,sted,700.000,01-08-2005,Alm. Salg,8.433,5,Sommerhus,83,1966,,Aktuel værdi
+Havvejen 12A8950 Ørsted,sted,110.000,23-07-2005,Alm. Salg,916,5,Sommerhus,120,2006,,Aktuel værdi
+Tangvej 438950 Ørsted,sted,450.000,18-07-2005,Alm. Salg,-,1,Sommerhus,68,1947,,Aktuel værdi
+Koglevej 98950 Ørsted,sted,500.000,18-07-2005,Alm. Salg,6.024,4,Sommerhus,83,1973,,Aktuel værdi
+Ternevej 408950 Ørsted,sted,598.000,14-07-2005,Alm. Salg,13.288,2,Sommerhus,45,1969,,Aktuel værdi
+Klydevej 58950 Ørsted,sted,1.025.000,13-07-2005,Alm. Salg,10.904,5,Sommerhus,94,1989,,Aktuel værdi
+Voer Færgevej 698950 Ørsted,sted,1.800.000,12-07-2005,Fam. Salg,6.976,7,Stuehus,258,1993,,
+Havvejen 58950 Ørsted,sted,585.000,28-06-2005,Alm. Salg,8.478,3,Sommerhus,69,1967,,Aktuel værdi
+Bondhøjvej 268950 Ørsted,sted,600.000,20-06-2005,Alm. Salg,4.285,3,Villa,140,1963,,Aktuel værdi
+Digevej 1C8950 Ørsted,sted,1.480.000,17-06-2005,Alm. Salg,6.065,9,Villa,244,1937,,Aktuel værdi
+Tingvej 148950 Ørsted,sted,841.000,16-06-2005,Alm. Salg,7.442,4,Villa,113,1987,,Aktuel værdi
+Anne Krabbes Vej 58950 Ørsted,sted,966.000,16-06-2005,Alm. Salg,4.878,7,Villa,198,1973,,Aktuel værdi
+Strandskadevej 478950 Ørsted,sted,595.000,03-06-2005,Alm. Salg,9.296,3,Sommerhus,64,1974,,Aktuel værdi
+Spovevej 358950 Ørsted,sted,995.000,01-06-2005,Alm. Salg,15.793,3,Sommerhus,63,1998,,Aktuel værdi
+Rørsangervej 48950 Ørsted,sted,620.000,31-05-2005,Alm. Salg,7.209,4,Sommerhus,86,1972,,Aktuel værdi
+Brydkærvej 18950 Ørsted,sted,599.000,28-05-2005,Alm. Salg,2.866,7,Villa,209,1937,,Aktuel værdi
+Spovevej 118950 Ørsted,sted,675.000,27-05-2005,Alm. Salg,11.250,3,Sommerhus,60,1970,,Aktuel værdi
+Strandskadevej 218950 Ørsted,sted,625.000,24-05-2005,Alm. Salg,13.888,3,Sommerhus,45,2003,,Aktuel værdi
+Krammesvej 58950 Ørsted,sted,498.000,23-05-2005,Alm. Salg,10.595,3,Sommerhus,47,1958,,Aktuel værdi
+Storegade 128950 Ørsted,sted,550.000,23-05-2005,Alm. Salg,3.416,6,Villa,161,1900,,Aktuel værdi
+Fuglevangsvej 158950 Ørsted,sted,745.000,23-05-2005,Alm. Salg,4.232,8,Sommerhus,176,1981,,Aktuel værdi
+Anne Krabbes Vej 28950 Ørsted,sted,825.000,23-05-2005,Alm. Salg,7.112,4,Villa,116,1973,,Aktuel værdi
+Ørsted Kærvej 68950 Ørsted,sted,918.000,22-05-2005,Alm. Salg,-,4,Villa,120,1986,,Aktuel værdi
+Krammesvej 2A8950 Ørsted,sted,475.000,13-05-2005,Alm. Salg,6.690,5,Sommerhus,71,1967,,Aktuel værdi
+Rougsøvej 2718950 Ørsted,sted,780.000,19-04-2005,Alm. Salg,5.454,4,Villa,143,1920,,Aktuel værdi
+Spovevej 588950 Ørsted,sted,680.000,18-04-2005,Alm. Salg,9.714,3,Sommerhus,70,1973,,Aktuel værdi
+Voer Færgevej 438950 Ørsted,sted,450.000,04-04-2005,Alm. Salg,-,5,Villa,162,1877,,Aktuel værdi
+Fuglevangsvej 198950 Ørsted,sted,120.000,02-04-2005,Fam. Salg,1.791,5,Sommerhus,67,1960,,Aktuel værdi
+Spovevej 298950 Ørsted,sted,263.500,01-04-2005,Fam. Salg,5.489,3,Sommerhus,48,1970,,Aktuel værdi
+Nydamsvej 368950 Ørsted,sted,498.000,15-03-2005,Alm. Salg,4.081,5,Villa,122,1940,,Aktuel værdi
+Holbækvej 228950 Ørsted,sted,998.000,10-03-2005,Alm. Salg,4.577,9,Villa,218,1917,,Aktuel værdi
+Kløvervej 18950 Ørsted,sted,398.000,10-03-2005,Alm. Salg,6.123,4,Sommerhus,65,1978,,Aktuel værdi
+Nydamsvej 78950 Ørsted,sted,400.000,08-03-2005,Alm. Salg,2.816,3,Villa,142,1877,,Aktuel værdi
+Strandskadevej 658950 Ørsted,sted,640.000,28-02-2005,Alm. Salg,7.032,5,Sommerhus,91,1985,,Aktuel værdi
+Hejrevej 278950 Ørsted,sted,100.000,25-02-2005,Alm. Salg,1.265,4,Sommerhus,79,2005,,Aktuel værdi
+Sygehusvej 208950 Ørsted,sted,615.000,23-02-2005,Alm. Salg,5.970,3,Villa,103,1974,,Aktuel værdi
+Estruplundvej 31A8950 Ørsted,sted,135.000,11-02-2005,Alm. Salg,1.030,3,Villa,131,1930,,Aktuel værdi
+Voer Færgevej 1258950 Ørsted,sted,503.000,10-02-2005,Fam. Salg,3.753,3,Villa,134,1855,,Aktuel værdi
+Fasanvej 98950 Ørsted,sted,625.000,05-02-2005,Alm. Salg,8.928,3,Sommerhus,70,2001,,Aktuel værdi
+Kirkegade 118950 Ørsted,sted,368.000,03-02-2005,Alm. Salg,4.543,5,Villa,81,1852,,Aktuel værdi
+Koglevej 158950 Ørsted,sted,310.000,31-12-2004,Alm. Salg,3.333,5,Villa,93,1973,,Aktuel værdi
+Fuglevangsvej 48950 Ørsted,sted,850.000,23-12-2004,Alm. Salg,10.625,4,Sommerhus,80,2005,,Aktuel værdi
+Fasanvej 68950 Ørsted,sted,100.000,20-12-2004,Alm. Salg,1.075,4,Sommerhus,93,2007,,Aktuel værdi
+Alsikevej 58950 Ørsted,sted,495.000,17-12-2004,Alm. Salg,7.173,4,Sommerhus,69,1989,,Aktuel værdi
+Dr Høegs Vej 118950 Ørsted,sted,467.500,09-12-2004,Fam. Salg,4.250,5,Villa,110,1962,,Aktuel værdi
+Fasanvej 128950 Ørsted,sted,390.000,30-11-2004,Alm. Salg,-,3,Sommerhus,115,1972,,Aktuel værdi
+Voer Gade 78950 Ørsted,sted,698.000,30-11-2004,Alm. Salg,5.369,5,Villa,130,1907,,Aktuel værdi
+Udbyvej 38950 Ørsted,sted,250.000,23-11-2004,Alm. Salg,2.000,5,Villa,125,1827,,Aktuel værdi
+Hollandsbjergvej 648950 Ørsted,sted,625.000,22-11-2004,Alm. Salg,-,3,Villa,165,1956,,Aktuel værdi
+Anne Krabbes Vej 138950 Ørsted,sted,875.000,16-11-2004,Alm. Salg,5.468,4,Villa,160,1970,,Aktuel værdi
+Koglevej 138950 Ørsted,sted,58.000,11-11-2004,Alm. Salg,1.115,2,Sommerhus,52,2007,,Aktuel værdi
+Vinkelvej 68950 Ørsted,sted,542.000,04-11-2004,Alm. Salg,6.775,5,Villa,80,1955,,Aktuel værdi
+Toftevænge 188950 Ørsted,sted,568.000,01-11-2004,Alm. Salg,5.795,5,Villa,98,1957,,Aktuel værdi
+Hevringvej 228950 Ørsted,sted,930.000,28-10-2004,Alm. Salg,4.366,9,Villa,213,1777,,Aktuel værdi
+Fasanvej 78950 Ørsted,sted,625.000,09-10-2004,Alm. Salg,7.911,3,Sommerhus,79,1970,,Aktuel værdi
+Nydamsvej 98950 Ørsted,sted,1.129.425,07-10-2004,Alm. Salg,10.859,5,Villa,104,1911,,Aktuel værdi
+Tranevej 38950 Ørsted,sted,79.000,01-10-2004,Alm. Salg,1.196,3,Sommerhus,66,2006,,Aktuel værdi
+Tingparken 38950 Ørsted,sted,895.000,30-09-2004,Alm. Salg,-,5,Villa,135,1979,,Aktuel værdi
+Estruplundvej 388950 Ørsted,sted,575.000,29-09-2004,Alm. Salg,4.600,3,Villa,125,1942,,Aktuel værdi
+Stenalt Markvej 98950 Ørsted,sted,170.000,28-09-2004,Alm. Salg,1.223,5,Stuehus,139,1943,,
+Kløvervej 158950 Ørsted,sted,410.000,12-09-2004,Alm. Salg,6.833,3,Sommerhus,60,1971,,Aktuel værdi
+Storegade 428950 Ørsted,sted,315.000,02-09-2004,Alm. Salg,5.250,2,Rækkehus,60,1877,,Aktuel værdi
+Sygehusvej 288950 Ørsted,sted,300.000,16-08-2004,Alm. Salg,3.488,3,Rækkehus,86,1935,,Aktuel værdi
+Spovevej 328950 Ørsted,sted,560.000,16-08-2004,Alm. Salg,7.088,5,Sommerhus,79,1981,,Aktuel værdi
+Damvej 48950 Ørsted,sted,440.000,03-08-2004,Alm. Salg,3.793,3,Villa,116,1800,,Aktuel værdi
+Sygehusvej 238950 Ørsted,sted,700.000,03-08-2004,Alm. Salg,4.666,7,Villa,150,1953,,Aktuel værdi
+Rougsøvej 1618950 Ørsted,sted,700.000,14-07-2004,Alm. Salg,3.723,8,Villa,188,1976,,Aktuel værdi
+Fasanvej 58950 Ørsted,sted,314.500,02-07-2004,Alm. Salg,5.155,3,Sommerhus,61,1972,,Aktuel værdi
+Bondhøjvej 118950 Ørsted,sted,685.000,30-06-2004,Alm. Salg,5.956,5,Villa,115,1935,,Aktuel værdi
+Krammesvej 338950 Ørsted,sted,405.000,29-06-2004,Alm. Salg,9.204,1,Sommerhus,44,1956,,Aktuel værdi
+Strandhusvej 58950 Ørsted,sted,190.000,21-06-2004,Alm. Salg,3.958,3,Sommerhus,48,1950,,Aktuel værdi
+Estruplundvej 288950 Ørsted,sted,300.000,18-06-2004,Alm. Salg,2.142,4,Villa,140,1930,,Aktuel værdi
+Sygehusvej 258950 Ørsted,sted,665.000,18-06-2004,Alm. Salg,3.575,6,Villa,186,1917,,Aktuel værdi
+Nydamsvej 178950 Ørsted,sted,280.000,11-06-2004,Alm. Salg,4.444,3,Villa,63,1876,,Aktuel værdi
+Duevej 78950 Ørsted,sted,60.000,09-06-2004,Alm. Salg,882,4,Sommerhus,68,2005,,Aktuel værdi
+Kalkærsvej 128950 Ørsted,sted,1.125.000,03-06-2004,Alm. Salg,6.215,6,Villa,181,1971,,Aktuel værdi
+Sneppevej 258950 Ørsted,sted,573.000,03-06-2004,Alm. Salg,7.849,4,Sommerhus,73,1980,,Aktuel værdi
+Skyttevej 18950 Ørsted,sted,744.000,25-05-2004,Alm. Salg,6.763,4,Villa,110,1968,,Aktuel værdi
+Tingparken 658950 Ørsted,sted,825.000,19-05-2004,Alm. Salg,7.432,4,Villa,111,1987,,Aktuel værdi
+Tangvej 58950 Ørsted,sted,270.000,17-05-2004,Alm. Salg,-,5,Sommerhus,110,1969,,Aktuel værdi
+Tangvej 98950 Ørsted,sted,526.183,06-05-2004,Alm. Salg,4.384,5,Sommerhus,120,1966,,Aktuel værdi
+Bode Engvej 58950 Ørsted,sted,570.000,05-05-2004,Alm. Salg,5.377,3,Villa,106,1911,,Aktuel værdi
+Peitergyde 38950 Ørsted,sted,1.000.000,05-05-2004,Alm. Salg,8.196,5,Villa,122,1999,,Aktuel værdi
+Strandskadevej 198950 Ørsted,sted,1.075.000,21-04-2004,Alm. Salg,8.739,4,Sommerhus,123,1992,,Aktuel værdi
+Spovevej 748950 Ørsted,sted,725.000,20-04-2004,Alm. Salg,10.357,3,Sommerhus,70,1999,,Aktuel værdi
+Rougsøvej 2468950 Ørsted,sted,950.000,16-04-2004,Alm. Salg,11.875,3,Stuehus,80,1921,,
+Bregnevej 28950 Ørsted,sted,390.000,08-04-2004,Alm. Salg,4.936,6,Sommerhus,79,1980,,Aktuel værdi
+Havvejen 18B8950 Ørsted,sted,540.000,02-04-2004,Alm. Salg,7.714,3,Sommerhus,70,1959,,Aktuel værdi
+Tingparken 1198950 Ørsted,sted,925.000,01-04-2004,Alm. Salg,4.719,7,Villa,196,2001,,Aktuel værdi
+Rosengyde 38950 Ørsted,sted,775.000,29-03-2004,Alm. Salg,5.419,5,Villa,143,1977,,Aktuel værdi
+Tingparken 478950 Ørsted,sted,629.000,29-03-2004,Alm. Salg,6.418,4,Villa,98,1987,,Aktuel værdi
+Møllevej 38950 Ørsted,sted,650.000,29-03-2004,Alm. Salg,5.000,3,Villa,130,1892,,Aktuel værdi
+Havvejen 28950 Ørsted,sted,60.000,28-03-2004,Alm. Salg,618,3,Sommerhus,97,2006,,Aktuel værdi
+Duevej 58950 Ørsted,sted,70.000,26-03-2004,Alm. Salg,593,4,Sommerhus,118,2007,,Aktuel værdi
+Rougsøvej 1398950 Ørsted,sted,7.130.000,24-03-2004,Fam. Salg,31.830,10,Stuehus,224,1880,,
+Skyttevej 6B8950 Ørsted,sted,142.220,20-03-2004,Alm. Salg,618,6,Villa,230,2004,,Aktuel værdi
+Ternevej 328950 Ørsted,sted,568.000,20-03-2004,Alm. Salg,7.675,4,Sommerhus,74,1973,,Aktuel værdi
+Spovevej 208950 Ørsted,sted,720.000,14-03-2004,Alm. Salg,10.285,4,Sommerhus,70,1971,,Aktuel værdi
+Rylevej 208950 Ørsted,sted,487.500,12-03-2004,Alm. Salg,6.866,4,Sommerhus,71,1970,,Aktuel værdi
+Rougsøvej 235B8950 Ørsted,sted,995.000,11-03-2004,Alm. Salg,4.145,9,Villa,240,1970,,Aktuel værdi
+Tingparken 678950 Ørsted,sted,850.000,08-03-2004,Alm. Salg,6.854,4,Villa,124,1981,,Aktuel værdi
+Tingparken 1278950 Ørsted,sted,116.870,08-03-2004,Alm. Salg,913,5,Villa,128,2004,,Aktuel værdi
+Kirkegade 38950 Ørsted,sted,395.000,25-02-2004,Alm. Salg,3.291,5,Villa,120,1900,,Aktuel værdi
+Rylevej 118950 Ørsted,sted,325.000,25-02-2004,Alm. Salg,5.416,3,Sommerhus,60,1973,,Aktuel værdi
+Rylevej 278950 Ørsted,sted,580.000,20-02-2004,Alm. Salg,6.823,5,Sommerhus,85,1971,,Aktuel værdi
+Koglevej 458950 Ørsted,sted,450.000,13-02-2004,Alm. Salg,6.521,3,Sommerhus,69,1972,,Aktuel værdi
+Damvej 68950 Ørsted,sted,540.000,12-02-2004,Alm. Salg,3.176,6,Stuehus,170,1929,,
+Nordvej 28950 Ørsted,sted,495.000,11-02-2004,Alm. Salg,5.561,4,Villa,89,1836,,Aktuel værdi
+Bakkevej 38950 Ørsted,sted,2.050.000,03-02-2004,Fam. Salg,11.988,5,Stuehus,171,1911,,
+Hollandsbjergvej 88950 Ørsted,sted,1.050.000,03-02-2004,Fam. Salg,6.325,9,Villa,166,1965,,Aktuel værdi
+Estruplundvej 208950 Ørsted,sted,350.000,22-01-2004,Alm. Salg,3.888,4,Villa,90,1890,,Aktuel værdi
+Sneppevej 38950 Ørsted,sted,44.000,17-01-2004,Alm. Salg,458,4,Sommerhus,96,2005,,Aktuel værdi
+Strandskadevej 418950 Ørsted,sted,460.000,12-01-2004,Alm. Salg,6.301,5,Sommerhus,73,1982,,Aktuel værdi
+Estruplundvej 45A8950 Ørsted,sted,730.000,11-01-2004,Alm. Salg,4.591,5,Villa,159,1979,,Aktuel værdi
+Sneppevej 7B8950 Ørsted,sted,50.000,06-01-2004,Alm. Salg,543,5,Sommerhus,92,2009,,Aktuel værdi
+Ternevej 98950 Ørsted,sted,32.000,01-01-2004,Alm. Salg,256,4,Sommerhus,125,2008,,Aktuel værdi
+Hejrevej 188950 Ørsted,sted,680.000,23-12-2003,Alm. Salg,7.640,4,Sommerhus,89,1979,,Aktuel værdi
+Kløvervej 78950 Ørsted,sted,280.000,08-12-2003,Alm. Salg,4.375,3,Sommerhus,64,1974,,Aktuel værdi
+Kare Engvej 148950 Ørsted,sted,603.000,01-12-2003,Alm. Salg,2.804,8,Sommerhus,215,1900,,Aktuel værdi
+Spovevej 488950 Ørsted,sted,580.000,20-11-2003,Alm. Salg,6.823,3,Sommerhus,85,1970,,Aktuel værdi
+Rougsøvej 1038950 Ørsted,sted,440.000,20-11-2003,Alm. Salg,3.384,4,Villa,130,1902,,Aktuel værdi
+Rougsøvej 2548950 Ørsted,sted,445.000,15-11-2003,Alm. Salg,-,4,Villa,143,1935,,Aktuel værdi
+Strandhusvej 318950 Ørsted,sted,225.000,14-11-2003,Alm. Salg,5.487,3,Sommerhus,41,1969,,Aktuel værdi
+Strandskadevej 98950 Ørsted,sted,350.000,14-11-2003,Alm. Salg,5.384,3,Sommerhus,65,1978,,Aktuel værdi
+Hevringvej 108950 Ørsted,sted,650.000,06-11-2003,Alm. Salg,4.642,2,Villa,140,1930,,Aktuel værdi
+Spovevej 98950 Ørsted,sted,404.688,27-10-2003,Alm. Salg,6.634,3,Sommerhus,61,1970,,Aktuel værdi
+Voer Færgevej 128950 Ørsted,sted,850.000,27-10-2003,Alm. Salg,8.415,3,Villa,101,1913,,Aktuel værdi
+Rougsøvej 2478950 Ørsted,sted,440.000,10-10-2003,Alm. Salg,4.888,3,Villa,90,1777,,Aktuel værdi
+Rougsøvej 1648950 Ørsted,sted,425.000,01-10-2003,Fam. Salg,3.935,2,Villa,108,1969,,Aktuel værdi
+Strandskadevej 168950 Ørsted,sted,485.000,01-10-2003,Alm. Salg,7.348,4,Sommerhus,66,1978,,Aktuel værdi
+Mågevej 118950 Ørsted,sted,393.000,30-09-2003,Alm. Salg,7.277,3,Sommerhus,54,1967,,Aktuel værdi
+Solvej 88950 Ørsted,sted,485.000,29-09-2003,Alm. Salg,4.041,4,Villa,120,1956,,Aktuel værdi
+Voer Færgevej 758950 Ørsted,sted,365.000,25-09-2003,Alm. Salg,-,7,Villa,202,1900,,Aktuel værdi
+Strandhusvej 38950 Ørsted,sted,160.000,24-09-2003,Alm. Salg,4.444,1,Sommerhus,36,1950,,Aktuel værdi
+Mågevej 98950 Ørsted,sted,425.000,22-09-2003,Alm. Salg,5.743,3,Sommerhus,74,1976,,Aktuel værdi
+Strandskadevej 718950 Ørsted,sted,110.000,20-09-2003,Alm. Salg,1.157,4,Sommerhus,95,2014,,Aktuel værdi
+Engvej 98950 Ørsted,sted,619.000,19-09-2003,Alm. Salg,3.774,6,Villa,164,1945,,Aktuel værdi
+Langvadvej 68950 Ørsted,sted,785.000,13-09-2003,Alm. Salg,3.886,7,Villa,202,1880,,Aktuel værdi
+Stenaltvej 158950 Ørsted,sted,375.000,09-09-2003,Fam. Salg,3.177,4,Villa,118,1947,,Aktuel værdi
+Tingvej 128950 Ørsted,sted,795.000,28-08-2003,Alm. Salg,7.035,4,Villa,113,1987,,Aktuel værdi
+Tingvej 108950 Ørsted,sted,820.000,25-08-2003,Alm. Salg,7.256,4,Villa,113,1987,,Aktuel værdi
+Ternevej 368950 Ørsted,sted,65.000,25-08-2003,Alm. Salg,607,4,Sommerhus,107,2005,,Aktuel værdi
+Tangvej 108950 Ørsted,sted,375.000,22-08-2003,Alm. Salg,6.147,3,Sommerhus,61,1975,,Aktuel værdi
+Sneppevej 188950 Ørsted,sted,415.000,18-08-2003,Alm. Salg,-,4,Sommerhus,93,1972,,Aktuel værdi
+Hollandsbjergvej 438950 Ørsted,sted,570.000,13-08-2003,Alm. Salg,5.377,3,Villa,106,1880,,Aktuel værdi
+Ternevej 248950 Ørsted,sted,405.000,08-08-2003,Alm. Salg,7.500,3,Sommerhus,54,1974,,Aktuel værdi
+Løkkeagrene 88950 Ørsted,sted,842.500,17-07-2003,Alm. Salg,6.149,5,Villa,137,1975,,Aktuel værdi
+Fjordvej 198950 Ørsted,sted,525.000,16-07-2003,Alm. Salg,3.750,5,Villa,140,1939,,Aktuel værdi
+Brydkærvej 58950 Ørsted,sted,3.800.000,15-07-2003,Alm. Salg,22.093,4,Stuehus,172,1900,,
+Voer Færgevej 858950 Ørsted,sted,2.290.000,08-07-2003,Alm. Salg,-,4,Stuehus,128,1940,,
+Sneppevej 398950 Ørsted,sted,450.000,07-07-2003,Fam. Salg,7.627,3,Sommerhus,59,1970,,Aktuel værdi
+Koglevej 338950 Ørsted,sted,325.000,30-06-2003,Fam. Salg,3.779,3,Sommerhus,86,1956,,Aktuel værdi
+Rougsøvej 1158950 Ørsted,sted,625.000,25-06-2003,Alm. Salg,3.378,5,Villa,185,1928,,Aktuel værdi
+Brashøjvej 38950 Ørsted,sted,400.000,21-06-2003,Alm. Salg,3.100,3,Villa,129,1961,,Aktuel værdi
+Skyttevej 98950 Ørsted,sted,705.000,19-06-2003,Alm. Salg,4.828,4,Villa,146,1970,,Aktuel værdi
+Rylevej 68950 Ørsted,sted,575.000,16-06-2003,Alm. Salg,8.098,4,Sommerhus,71,1986,,Aktuel værdi
+Møllevej 88950 Ørsted,sted,775.000,30-05-2003,Alm. Salg,6.623,5,Villa,117,1955,,Aktuel værdi
+Kalkærsvej 188950 Ørsted,sted,762.500,28-05-2003,Alm. Salg,5.910,4,Villa,129,1971,,Aktuel værdi
+Bodevej 298950 Ørsted,sted,825.000,27-05-2003,Alm. Salg,5.092,5,Villa,162,1920,,Aktuel værdi
+Rylevej 48950 Ørsted,sted,250.000,17-05-2003,Alm. Salg,-,5,Sommerhus,74,1971,,Aktuel værdi
+Mågevej 78950 Ørsted,sted,250.000,13-05-2003,Alm. Salg,2.941,5,Sommerhus,85,1972,,Aktuel værdi
+Rougsøvej 2908950 Ørsted,sted,1.275.000,09-05-2003,Alm. Salg,7.968,6,Stuehus,160,1854,,
+Rougsøvej 326A8950 Ørsted,sted,80.000,30-04-2003,Alm. Salg,747,4,Villa,107,2006,,Aktuel værdi
+Rougsøvej 201A8950 Ørsted,sted,549.000,27-04-2003,Alm. Salg,5.840,3,Villa,94,1979,,Aktuel værdi
+Rosengyde 28950 Ørsted,sted,550.000,25-04-2003,Alm. Salg,3.503,5,Villa,157,1900,,Aktuel værdi
+Spovevej 238950 Ørsted,sted,420.000,22-04-2003,Alm. Salg,5.600,3,Sommerhus,75,1975,,Aktuel værdi
+Duevej 68950 Ørsted,sted,48.000,19-04-2003,Alm. Salg,516,4,Sommerhus,93,2003,,Aktuel værdi
+Mågevej 138950 Ørsted,sted,385.000,31-03-2003,Alm. Salg,6.416,3,Sommerhus,60,1965,,Aktuel værdi
+Nordvej 18950 Ørsted,sted,1.685.000,26-03-2003,Fam. Salg,10.732,6,Stuehus,157,1850,,
+Holbækgård Mark 18950 Ørsted,sted,650.000,26-03-2003,Alm. Salg,-,6,Villa,171,1931,,Aktuel værdi
+Sygehusvej 138950 Ørsted,sted,475.000,12-03-2003,Alm. Salg,6.785,3,Villa,70,1860,,Aktuel værdi
+Rougsøvej 2968950 Ørsted,sted,726.000,06-03-2003,Alm. Salg,4.481,5,Villa,162,1894,,Aktuel værdi
+Sneppevej 288950 Ørsted,sted,300.000,23-02-2003,Alm. Salg,3.896,5,Sommerhus,77,1972,,Aktuel værdi
+Stenaltvej 208950 Ørsted,sted,105.000,20-02-2003,Fam. Salg,1.346,3,Villa,78,1877,,Aktuel værdi
+Holbækgård Mark 58950 Ørsted,sted,125.000,18-02-2003,Alm. Salg,1.136,4,Villa,110,1931,,Aktuel værdi
+Hollandsbjergvej 228950 Ørsted,sted,800.000,15-02-2003,Alm. Salg,6.250,4,Villa,128,1974,,Aktuel værdi
+Rougsøvej 1548950 Ørsted,sted,560.000,12-02-2003,Alm. Salg,3.733,5,Villa,150,1948,,Aktuel værdi
+Hollandsbjergvej 298950 Ørsted,sted,700.000,11-02-2003,Alm. Salg,5.035,6,Villa,139,1855,,Aktuel værdi
+Ternevej 528950 Ørsted,sted,745.000,07-02-2003,Alm. Salg,15.851,3,Sommerhus,47,1969,,Aktuel værdi
+Elvej 78950 Ørsted,sted,178.500,20-01-2003,Alm. Salg,3.131,3,Sommerhus,57,2004,,Aktuel værdi
+Hevringvej 18950 Ørsted,sted,120.000,18-12-2002,Alm. Salg,784,5,Villa,153,1959,,Aktuel værdi
+Fasanvej 38950 Ørsted,sted,20.000,12-12-2002,Alm. Salg,246,3,Sommerhus,81,2005,,Aktuel værdi
+Ternevej 118950 Ørsted,sted,475.000,02-11-2002,Alm. Salg,8.482,3,Sommerhus,56,1984,,Aktuel værdi
+Hollandsbjergvej 198950 Ørsted,sted,300.000,01-11-2002,Alm. Salg,3.846,3,Villa,78,1850,,Aktuel værdi
+Stenaltvej 148950 Ørsted,sted,300.000,10-10-2002,Alm. Salg,2.727,5,Villa,110,1962,,Aktuel værdi
+Rougsøvej 2648950 Ørsted,sted,609.828,03-10-2002,Alm. Salg,4.234,6,Villa,144,1891,,Aktuel værdi
+Sneppevej 178950 Ørsted,sted,390.000,19-09-2002,Alm. Salg,6.724,3,Sommerhus,58,1974,,Aktuel værdi
+Ørsted Kærvej 88950 Ørsted,sted,835.000,17-09-2002,Alm. Salg,7.389,4,Villa,113,1986,,Aktuel værdi
+Bodevej 118950 Ørsted,sted,170.000,06-09-2002,Alm. Salg,2.328,3,Villa,73,1727,,Aktuel værdi
+Tingparken 278950 Ørsted,sted,490.000,01-09-2002,Andet,2.865,6,Villa,171,1978,,Aktuel værdi
+Sneppevej 218950 Ørsted,sted,350.000,29-08-2002,Alm. Salg,6.603,4,Sommerhus,53,1974,,Aktuel værdi
+Duevej 18950 Ørsted,sted,48.000,22-08-2002,Alm. Salg,1.371,2,Sommerhus,35,2004,,Aktuel værdi
+Hejrevej 378950 Ørsted,sted,45.000,21-08-2002,Alm. Salg,450,3,Sommerhus,100,2008,,Aktuel værdi
+Havtornevej 168950 Ørsted,sted,40.000,08-08-2002,Alm. Salg,555,4,Sommerhus,72,2005,,Aktuel værdi
+Sygehusvej 178950 Ørsted,sted,695.000,06-08-2002,Alm. Salg,5.791,6,Villa,120,1939,,Aktuel værdi
+Mågevej 24A8950 Ørsted,sted,549.000,05-08-2002,Alm. Salg,7.732,3,Sommerhus,71,1987,,Aktuel værdi
+"Rougsøvej 128, 18950 Ørsted",sted,650.000,30-07-2002,Fam. Salg,10.000,3,Lejlighed,65,1875,,Aktuel værdi
+Fasanvej 148950 Ørsted,sted,470.000,15-07-2002,Alm. Salg,-,3,Sommerhus,55,1970,,Aktuel værdi
+Solvej 78950 Ørsted,sted,660.000,03-07-2002,Alm. Salg,4.615,4,Villa,143,1958,,Aktuel værdi
+Havvejen 7C8950 Ørsted,sted,370.000,16-06-2002,Fam. Salg,5.285,4,Sommerhus,70,1974,,Aktuel værdi
+Tangvej 148950 Ørsted,sted,410.000,15-06-2002,Alm. Salg,-,4,Sommerhus,81,1978,,Aktuel værdi
+Rougsøvej 1918950 Ørsted,sted,420.000,06-06-2002,Alm. Salg,2.560,4,Villa,164,1961,,Aktuel værdi
+Højvangsvej 38950 Ørsted,sted,1.025.000,21-05-2002,Alm. Salg,-,6,Villa,158,1973,,Aktuel værdi
+Hollandsbjergvej 7B8950 Ørsted,sted,3.450.000,13-05-2002,Fam. Salg,-,10,Stuehus,311,1940,,
+Rougsøvej 1818950 Ørsted,sted,198.000,01-05-2002,Alm. Salg,1.692,4,Villa,117,1915,,Aktuel værdi
+Solvej 58950 Ørsted,sted,440.000,23-04-2002,Alm. Salg,4.000,4,Villa,110,1959,,Aktuel værdi
+Rylevej 288950 Ørsted,sted,284.732,23-04-2002,Alm. Salg,5.084,3,Sommerhus,56,1970,,Aktuel værdi
+Strandskadevej 158950 Ørsted,sted,365.000,21-04-2002,Alm. Salg,-,5,Sommerhus,83,1987,,Aktuel værdi
+Ternevej 298950 Ørsted,sted,390.000,13-04-2002,Alm. Salg,-,3,Sommerhus,83,1976,,Aktuel værdi
+Fasanvej 168950 Ørsted,sted,380.000,04-04-2002,Alm. Salg,4.871,3,Sommerhus,78,1973,,Aktuel værdi
+Ryderne 78950 Ørsted,sted,1.100.000,27-03-2002,Alm. Salg,7.801,5,Stuehus,141,1860,,
+Rougsøvej 2268950 Ørsted,sted,350.000,25-03-2002,Alm. Salg,3.465,2,Villa,101,1979,,Aktuel værdi
+Storegade 78950 Ørsted,sted,600.000,22-03-2002,Alm. Salg,3.571,3,Villa,168,1777,,Aktuel værdi
+Digemarken 68950 Ørsted,sted,266.000,11-03-2002,Alm. Salg,2.198,4,Villa,121,1965,,Aktuel værdi
+Engvej 48950 Ørsted,sted,425.000,09-03-2002,Alm. Salg,4.166,3,Villa,102,1947,,Aktuel værdi
+Stenaltvej 228950 Ørsted,sted,500.000,07-03-2002,Alm. Salg,3.703,5,Stuehus,135,1900,,
+Strandskadevej 268950 Ørsted,sted,20.000,02-03-2002,Alm. Salg,125,5,Sommerhus,159,2011,,Aktuel værdi
+Fuglevangsvej 28950 Ørsted,sted,425.000,01-03-2002,Alm. Salg,6.159,4,Sommerhus,69,1980,,Aktuel værdi
+Voer Gade 28950 Ørsted,sted,395.000,21-02-2002,Alm. Salg,4.157,4,Villa,95,1900,,Aktuel værdi
+Rougsøvej 1758950 Ørsted,sted,270.000,17-02-2002,Alm. Salg,1.776,5,Villa,152,1910,,Aktuel værdi
+Rougsøvej 2258950 Ørsted,sted,275.000,15-02-2002,Fam. Salg,-,6,Villa,100,1777,,Aktuel værdi
+Rougsøvej 578950 Ørsted,sted,55.665,13-02-2002,Alm. Salg,428,5,Stuehus,130,1935,,
+Voer Gade 288950 Ørsted,sted,290.000,02-02-2002,Alm. Salg,2.959,3,Villa,98,1928,,Aktuel værdi
+Skovbakken 58950 Ørsted,sted,582.427,31-01-2002,Auktion,-,5,Villa,112,1900,,Aktuel værdi
+Bondhøjvej 168950 Ørsted,sted,255.000,01-01-2002,Fam. Salg,2.198,3,Villa,116,1961,,Aktuel værdi
+Strandhusvej 238950 Ørsted,sted,60.000,10-12-2001,Alm. Salg,1.000,3,Sommerhus,60,2006,,Aktuel værdi
+Engvej 28950 Ørsted,sted,550.000,10-12-2001,Alm. Salg,5.500,4,Villa,100,1945,,Aktuel værdi
+Sygehusvej 268950 Ørsted,sted,275.000,17-11-2001,Fam. Salg,2.500,3,Rækkehus,110,1935,,Aktuel værdi
+Voer Færgevej 1018950 Ørsted,sted,285.000,16-11-2001,Alm. Salg,4.384,2,Villa,65,1827,,Aktuel værdi
+Strandskadevej 358950 Ørsted,sted,415.525,14-11-2001,Alm. Salg,6.392,4,Sommerhus,65,1979,,Aktuel værdi
+Hevring Møllevej 158950 Ørsted,sted,65.000,01-11-2001,Alm. Salg,1.048,3,Villa,62,1951,,Aktuel værdi
+Lyngvej 78950 Ørsted,sted,370.000,29-10-2001,Alm. Salg,3.083,4,Villa,120,1877,,Aktuel værdi
+Rougsøvej 2458950 Ørsted,sted,2.950.000,22-10-2001,Alm. Salg,-,6,Stuehus,265,1989,,
+Tingparken 1438950 Ørsted,sted,119.600,12-10-2001,Alm. Salg,934,5,Villa,128,2002,,Aktuel værdi
+Rougsøvej 678950 Ørsted,sted,190.000,09-10-2001,Alm. Salg,1.637,5,Villa,116,1900,,Aktuel værdi
+Ternevej 458950 Ørsted,sted,275.000,26-09-2001,Alm. Salg,5.092,3,Sommerhus,54,1969,,Aktuel værdi
+Alsikevej 228950 Ørsted,sted,30.000,25-09-2001,Alm. Salg,555,3,Sommerhus,54,2014,,Aktuel værdi
+Lillegade 38950 Ørsted,sted,528.989,19-09-2001,Andet,2.828,5,Villa,187,1900,,Aktuel værdi
+Strandhusvej 78950 Ørsted,sted,153.000,27-08-2001,Fam. Salg,3.060,3,Sommerhus,50,1900,,Aktuel værdi
+Nydamsvej 118950 Ørsted,sted,500.000,23-08-2001,Alm. Salg,-,4,Villa,122,1880,,Aktuel værdi
+Udbyvej 108950 Ørsted,sted,285.000,20-08-2001,Alm. Salg,-,6,Villa,122,1904,,Aktuel værdi
+Rougsøvej 518950 Ørsted,sted,572.570,17-08-2001,Alm. Salg,-,8,Villa,189,1897,,Aktuel værdi
+Voer Færgevej 958950 Ørsted,sted,435.000,16-08-2001,Alm. Salg,4.887,3,Villa,89,1932,,Aktuel værdi
+Vesterled 28950 Ørsted,sted,890.000,14-08-2001,Fam. Salg,5.741,5,Villa,155,1980,,Aktuel værdi
+Tingvej 188950 Ørsted,sted,800.000,10-08-2001,Alm. Salg,7.079,4,Villa,113,1992,,Aktuel værdi
+Havtornevej 58950 Ørsted,sted,283.924,01-08-2001,Alm. Salg,-,3,Sommerhus,28,1964,,Aktuel værdi
+Rørsangervej 13A8950 Ørsted,sted,385.000,14-07-2001,Alm. Salg,6.416,4,Sommerhus,60,1967,,Aktuel værdi
+Rougsøvej 1638950 Ørsted,sted,314.861,10-07-2001,Alm. Salg,1.992,5,Villa,158,1937,,Aktuel værdi
+Nordvej 38950 Ørsted,sted,127.000,05-07-2001,Alm. Salg,1.693,2,Villa,75,1887,,Aktuel værdi
+Borggyden 108950 Ørsted,sted,320.000,21-06-2001,Alm. Salg,4.210,3,Villa,76,1942,,Aktuel værdi
+Bendsvej 1B8950 Ørsted,sted,370.000,16-06-2001,Alm. Salg,2.740,5,Villa,135,1877,,Aktuel værdi
+Toftevænge 228950 Ørsted,sted,628.390,15-06-2001,Alm. Salg,-,7,Villa,140,1955,,Aktuel værdi
+Nordvej 108950 Ørsted,sted,517.946,11-06-2001,Alm. Salg,2.877,4,Villa,180,1859,,Aktuel værdi
+Voer Færgevej 1158950 Ørsted,sted,302.430,07-06-2001,Alm. Salg,2.085,3,Stuehus,145,1964,,
+Bodevej 98950 Ørsted,sted,271.205,01-06-2001,Alm. Salg,2.358,3,Villa,115,1870,,Aktuel værdi
+Holbækvej 278950 Ørsted,sted,150.000,01-06-2001,Alm. Salg,-,8,Villa,203,1918,,Aktuel værdi
+Tangvej 48950 Ørsted,sted,395.000,22-05-2001,Alm. Salg,-,4,Sommerhus,96,1975,,Aktuel værdi
+Stenaltvej 168950 Ørsted,sted,625.000,22-05-2001,Alm. Salg,4.084,5,Villa,153,1952,,Aktuel værdi
+Rougsøvej 3328950 Ørsted,sted,550.000,18-05-2001,Alm. Salg,6.547,4,Villa,84,1947,,Aktuel værdi
+Toftevænge 128950 Ørsted,sted,255.000,07-05-2001,Fam. Salg,2.656,4,Villa,96,1959,,Aktuel værdi
+Voer Færgevej 628950 Ørsted,sted,340.000,24-04-2001,Alm. Salg,-,5,Villa,187,1962,,Aktuel værdi
+Strandskadevej 228950 Ørsted,sted,445.000,04-04-2001,Alm. Salg,7.295,4,Sommerhus,61,1978,,Aktuel værdi
+Ørsted Kærvej 98950 Ørsted,sted,412.339,02-04-2001,Andet,4.967,3,Stuehus,83,1942,,
+Estruplundvej 438950 Ørsted,sted,490.000,30-03-2001,Alm. Salg,4.537,5,Villa,108,1956,,Aktuel værdi
+Voer Færgevej 468950 Ørsted,sted,365.000,23-03-2001,Alm. Salg,-,4,Villa,114,1955,,Aktuel værdi
+Tingparken 1418950 Ørsted,sted,119.600,20-03-2001,Alm. Salg,747,5,Villa,160,2001,,Aktuel værdi
+Voer Færgevej 308950 Ørsted,sted,700.000,19-03-2001,Alm. Salg,-,8,Villa,190,1848,,Aktuel værdi
+Voer Færgevej 428950 Ørsted,sted,511.000,03-03-2001,Alm. Salg,2.647,7,Villa,193,1918,,Aktuel værdi
+Karevej 48950 Ørsted,sted,250.000,28-02-2001,Alm. Salg,-,6,Villa,161,1883,,Aktuel værdi
+Holbækvej 28950 Ørsted,sted,695.000,16-02-2001,Alm. Salg,4.894,4,Villa,142,1937,,Aktuel værdi
+Solvej 38950 Ørsted,sted,395.000,04-02-2001,Alm. Salg,5.000,5,Villa,79,1961,,Aktuel værdi
+Møllevej 48950 Ørsted,sted,725.000,25-01-2001,Alm. Salg,5.000,6,Villa,145,1907,,Aktuel værdi
+Hollandsbjergvej 168950 Ørsted,sted,625.000,24-01-2001,Alm. Salg,5.482,4,Villa,114,1971,,Aktuel værdi
+Rougsøvej 1808950 Ørsted,sted,290.154,16-01-2001,Alm. Salg,3.260,3,Villa,89,1965,,Aktuel værdi
+Tingparken 938950 Ørsted,sted,1.140.000,05-01-2001,Alm. Salg,5.728,6,Villa,199,1986,,Aktuel værdi
+Stenaltvej 138950 Ørsted,sted,481.715,30-12-2000,Alm. Salg,-,6,Villa,172,1945,,Aktuel værdi
+Rørsangervej 16A8950 Ørsted,sted,252.366,27-11-2000,Alm. Salg,7.210,2,Sommerhus,35,1988,,Aktuel værdi
+Hollandsbjergvej 508950 Ørsted,sted,490.291,14-11-2000,Alm. Salg,2.095,7,Villa,234,1902,,Aktuel værdi
+Rougsøvej 2558950 Ørsted,sted,300.000,11-11-2000,Alm. Salg,4.477,2,Sommerhus,67,1960,,Aktuel værdi
+Hejrevej 168950 Ørsted,sted,270.000,30-10-2000,Fam. Salg,4.909,3,Sommerhus,55,1978,,Aktuel værdi
+Lillegade 68950 Ørsted,sted,325.000,25-10-2000,Alm. Salg,4.710,2,Villa,69,1800,,Aktuel værdi
+Kastanievej 28950 Ørsted,sted,294.922,07-10-2000,Alm. Salg,1.843,6,Villa,160,1940,,Aktuel værdi
+Strandskadevej 458950 Ørsted,sted,340.000,24-09-2000,Alm. Salg,5.862,4,Sommerhus,58,1975,,Aktuel værdi
+Mågevej 268950 Ørsted,sted,450.000,21-09-2000,Alm. Salg,-,5,Sommerhus,107,1966,,Aktuel værdi
+Voer Færgevej 1038950 Ørsted,sted,316.000,16-09-2000,Alm. Salg,2.981,4,Villa,106,1900,,Aktuel værdi
+Rougsøvej 3108950 Ørsted,sted,32.500,11-09-2000,Alm. Salg,162,7,Villa,200,1903,,Aktuel værdi
+Strandskadevej 538950 Ørsted,sted,577.000,09-09-2000,Alm. Salg,7.123,4,Sommerhus,81,1987,,Aktuel værdi
+Duevej 38950 Ørsted,sted,70.000,04-09-2000,Alm. Salg,1.076,3,Sommerhus,65,2002,,Aktuel værdi
+Mågevej 128950 Ørsted,sted,377.000,02-09-2000,Alm. Salg,4.833,4,Sommerhus,78,1972,,Aktuel værdi
+Skyttevej 148950 Ørsted,sted,894.751,01-09-2000,Alm. Salg,6.627,4,Villa,135,1977,,Aktuel værdi
+Dr Frandsens Vej 48950 Ørsted,sted,795.000,31-08-2000,Alm. Salg,7.098,3,Villa,112,1956,,Aktuel værdi
+Rørsangervej 98950 Ørsted,sted,150.000,31-08-2000,Alm. Salg,10.000,2,Sommerhus,15,1980,,Aktuel værdi
+Fasanvej 18950 Ørsted,sted,380.000,20-08-2000,Alm. Salg,7.600,3,Sommerhus,50,1973,,Aktuel værdi
+Tangvej 308950 Ørsted,sted,397.000,18-08-2000,Alm. Salg,5.925,4,Sommerhus,67,1977,,Aktuel værdi
+Rougsøvej 2368950 Ørsted,sted,250.000,29-07-2000,Alm. Salg,-,6,Villa,128,1915,,Aktuel værdi
+Rougsøvej 2928950 Ørsted,sted,1.612.171,14-07-2000,Alm. Salg,9.596,4,Stuehus,168,1877,,
+Strandhusvej 48950 Ørsted,sted,406.923,10-07-2000,Alm. Salg,5.731,4,Sommerhus,71,1963,,Aktuel værdi
+Langvadvej 158950 Ørsted,sted,2.368.755,30-06-2000,Fam. Salg,9.828,8,Stuehus,241,1897,,
+Hollandsbjergvej 478950 Ørsted,sted,274.943,30-06-2000,Alm. Salg,-,6,Villa,178,1880,,Aktuel værdi
+Rougsøvej 1938950 Ørsted,sted,410.000,25-06-2000,Alm. Salg,3.280,4,Villa,125,1915,,Aktuel værdi
+Strandskadevej 918950 Ørsted,sted,30.000,24-06-2000,Alm. Salg,294,4,Sommerhus,102,2001,,Aktuel værdi
+Fasanvej 178950 Ørsted,sted,242.500,23-06-2000,Alm. Salg,3.730,2,Sommerhus,65,1960,,Aktuel værdi
+Mågevej 23A8950 Ørsted,sted,585.000,23-06-2000,Alm. Salg,8.731,4,Sommerhus,67,1965,,Aktuel værdi
+Havvejen 38950 Ørsted,sted,50.000,21-06-2000,Alm. Salg,862,2,Sommerhus,58,2000,,Aktuel værdi
+Voer Færgevej 748950 Ørsted,sted,500.000,17-06-2000,Alm. Salg,3.125,4,Villa,160,1892,,Aktuel værdi
+Rougsøvej 1058950 Ørsted,sted,500.000,16-06-2000,Alm. Salg,5.050,2,Villa,99,1948,,Aktuel værdi
+Spovevej 258950 Ørsted,sted,80.000,12-06-2000,Andet,963,3,Sommerhus,83,2013,,Aktuel værdi
+Bodevej 48950 Ørsted,sted,549.960,08-06-2000,Alm. Salg,-,6,Villa,147,1963,,Aktuel værdi
+Ternevej 88950 Ørsted,sted,65.000,03-06-2000,Alm. Salg,-,3,Sommerhus,73,2004,,Aktuel værdi
+Fjordvej 88950 Ørsted,sted,180.060,17-05-2000,Alm. Salg,1.800,3,Villa,100,1900,,Aktuel værdi
+Rørsangervej 15A8950 Ørsted,sted,404.000,04-05-2000,Alm. Salg,3.513,6,Sommerhus,115,1973,,Aktuel værdi
+Estruplundvej 548950 Ørsted,sted,132.500,01-05-2000,Alm. Salg,1.472,2,Villa,90,1872,,Aktuel værdi
+Havvejen 12D8950 Ørsted,sted,150.000,25-04-2000,Alm. Salg,2.586,3,Sommerhus,58,1965,,Aktuel værdi
+Bondhøjvej 78950 Ørsted,sted,930.000,22-03-2000,Alm. Salg,4.650,6,Villa,200,1954,,Aktuel værdi
+Tingparken 1318950 Ørsted,sted,119.600,20-03-2000,Alm. Salg,848,4,Villa,141,2000,,Aktuel værdi
+Søndervangen 48950 Ørsted,sted,804.381,16-03-2000,Alm. Salg,4.255,6,Villa,189,1986,,Aktuel værdi
+Kare Engvej 128950 Ørsted,sted,195.000,14-03-2000,Alm. Salg,2.437,4,Villa,80,1777,,Aktuel værdi
+Rougsøvej 1478950 Ørsted,sted,683.800,06-03-2000,Alm. Salg,5.426,4,Villa,126,1886,,Aktuel værdi
+Skyttevej 138950 Ørsted,sted,699.999,01-03-2000,Alm. Salg,-,5,Villa,98,1968,,Aktuel værdi
+Voer Færgevej 318950 Ørsted,sted,490.000,28-01-2000,Alm. Salg,2.848,5,Villa,172,1887,,Aktuel værdi
+Kalkærsvej 88950 Ørsted,sted,800.000,25-01-2000,Alm. Salg,5.925,5,Villa,135,1973,,Aktuel værdi
+Voer Færgevej 908950 Ørsted,sted,639.491,10-01-2000,Alm. Salg,4.440,7,Villa,144,1930,,Aktuel værdi
+Langvadvej 7A8950 Ørsted,sted,387.545,16-12-1999,Alm. Salg,3.202,3,Villa,121,1900,,Aktuel værdi
+Rougsøvej 2218950 Ørsted,sted,326.000,14-12-1999,Fam. Salg,2.507,4,Villa,130,1885,,Aktuel værdi
+Voer Gade 188950 Ørsted,sted,265.000,30-11-1999,Alm. Salg,2.880,3,Villa,92,1927,,Aktuel værdi
+Hejrevej 148950 Ørsted,sted,30.000,24-11-1999,Alm. Salg,-,4,Sommerhus,80,2003,,Aktuel værdi
+Spovevej 548950 Ørsted,sted,371.400,17-11-1999,Alm. Salg,5.305,1,Sommerhus,70,1969,,Aktuel værdi
+Skyttevej 128950 Ørsted,sted,780.000,15-11-1999,Alm. Salg,5.571,4,Villa,140,1976,,Aktuel værdi
+Brashøjvej 28950 Ørsted,sted,505.000,02-11-1999,Alm. Salg,4.353,3,Villa,116,1971,,Aktuel værdi
+Ternevej 358950 Ørsted,sted,128.000,01-11-1999,Fam. Salg,2.560,3,Sommerhus,50,1971,,Aktuel værdi
+Holbækgård Mark 68950 Ørsted,sted,79.462,19-09-1999,Alm. Salg,756,2,Stuehus,105,1931,,
+Tangvej 168950 Ørsted,sted,268.000,17-09-1999,Alm. Salg,4.466,3,Sommerhus,60,1969,,Aktuel værdi
+Spovevej 348950 Ørsted,sted,420.000,16-09-1999,Alm. Salg,-,4,Sommerhus,81,1971,,Aktuel værdi
+Østerbakken 408950 Ørsted,sted,289.450,14-09-1999,Alm. Salg,1.258,7,Villa,230,2001,,Aktuel værdi
+Tingparken 698950 Ørsted,sted,148.000,13-09-1999,Alm. Salg,-,5,Villa,144,2000,,Aktuel værdi
+Nydamsvej 168950 Ørsted,sted,125.000,06-09-1999,Alm. Salg,1.644,3,Villa,76,1880,,Aktuel værdi
+Rougsøvej 1318950 Ørsted,sted,245.000,01-09-1999,Alm. Salg,2.474,5,Villa,99,1949,,Aktuel værdi
+Fuglevangsvej 58950 Ørsted,sted,275.000,31-08-1999,Alm. Salg,-,6,Sommerhus,81,1981,,Aktuel værdi
+Søstien 28950 Ørsted,sted,350.000,23-08-1999,Alm. Salg,2.822,5,Villa,124,1877,,Aktuel værdi
+Hollandsbjergvej 48950 Ørsted,sted,580.000,23-08-1999,Alm. Salg,4.677,4,Villa,124,1964,,Aktuel værdi
+Havvejen 48950 Ørsted,sted,432.500,19-08-1999,Alm. Salg,-,4,Sommerhus,85,1978,,Aktuel værdi
+Borggyden 68950 Ørsted,sted,125.000,05-08-1999,Alm. Salg,1.562,2,Villa,80,1870,,Aktuel værdi
+Spovevej 158950 Ørsted,sted,315.000,04-08-1999,Alm. Salg,4.200,4,Sommerhus,75,1971,,Aktuel værdi
+Rougsøvej 758950 Ørsted,sted,592.450,31-07-1999,Alm. Salg,3.309,4,Villa,179,1950,,Aktuel værdi
+Bode Engvej 38950 Ørsted,sted,200.000,26-07-1999,Alm. Salg,689,5,Villa,290,1900,,Aktuel værdi
+Stenaltvej 28950 Ørsted,sted,200.000,26-07-1999,Alm. Salg,966,7,Stuehus,207,1882,,
+Østerbakken 348950 Ørsted,sted,135.040,03-07-1999,Alm. Salg,767,5,Villa,176,2001,,Aktuel værdi
+Voer Gade 38950 Ørsted,sted,850.000,29-06-1999,Alm. Salg,6.071,6,Stuehus,140,1957,,
+Langvadvej 4B8950 Ørsted,sted,600.988,18-06-1999,Alm. Salg,-,4,Villa,145,1984,,Aktuel værdi
+Spovevej 428950 Ørsted,sted,450.000,10-06-1999,Alm. Salg,5.056,4,Sommerhus,89,1983,,Aktuel værdi
+Estruplundvej 108950 Ørsted,sted,530.785,31-05-1999,Alm. Salg,-,5,Villa,141,1825,,Aktuel værdi
+Holbækvej 208950 Ørsted,sted,350.000,29-05-1999,Alm. Salg,2.991,3,Villa,117,1900,,Aktuel værdi
+Kalkærsvej 58950 Ørsted,sted,833.000,22-04-1999,Alm. Salg,5.409,6,Villa,154,1969,,Aktuel værdi
+Storegade 218950 Ørsted,sted,442.400,21-04-1999,Alm. Salg,3.229,4,Villa,137,1897,,Aktuel værdi
+Voer Færgevej 828950 Ørsted,sted,577.000,19-04-1999,Alm. Salg,4.729,3,Villa,122,1877,,Aktuel værdi
+Holbækgårdsvej 78950 Ørsted,sted,545.000,10-04-1999,Alm. Salg,-,8,Villa,259,1930,,Aktuel værdi
+Skyttevej 58950 Ørsted,sted,767.818,02-04-1999,Alm. Salg,6.562,4,Villa,117,1966,,Aktuel værdi
+Holbækgårdsvej 148950 Ørsted,sted,525.000,29-03-1999,Fam. Salg,4.861,5,Stuehus,108,1931,,
+Havagervej 68950 Ørsted,sted,684.000,26-03-1999,Alm. Salg,4.885,4,Villa,140,1897,,Aktuel værdi
+Tingparken 1018950 Ørsted,sted,810.800,24-03-1999,Alm. Salg,6.334,5,Villa,128,1980,,Aktuel værdi
+Strandskadevej 338950 Ørsted,sted,305.000,03-03-1999,Alm. Salg,-,3,Sommerhus,57,1979,,Aktuel værdi
+Kare Engvej 118950 Ørsted,sted,608.951,26-02-1999,Alm. Salg,3.364,5,Villa,181,1800,,Aktuel værdi
+Lillegade 148950 Ørsted,sted,465.460,16-02-1999,Alm. Salg,3.694,5,Villa,126,1927,,Aktuel værdi
+Peitergyde 48950 Ørsted,sted,449.987,01-02-1999,Alm. Salg,3.947,5,Villa,114,1918,,Aktuel værdi
+Dr Frandsens Vej 88950 Ørsted,sted,350.000,29-01-1999,Fam. Salg,3.608,3,Villa,97,1957,,Aktuel værdi
+Klydevej 38950 Ørsted,sted,850.000,29-01-1999,Alm. Salg,9.042,6,Sommerhus,94,1989,,Aktuel værdi
+Tangvej 228950 Ørsted,sted,292.100,21-01-1999,Alm. Salg,4.868,4,Sommerhus,60,1972,,Aktuel værdi
+Mellemvej 48950 Ørsted,sted,176.000,11-01-1999,Auktion,1.430,5,Villa,123,1837,,Aktuel værdi
+Rougsøvej 1078950 Ørsted,sted,432.100,28-12-1998,Alm. Salg,-,6,Villa,160,1873,,Aktuel værdi
+Kare Engvej 178950 Ørsted,sted,85.000,16-12-1998,Fam. Salg,1.062,3,Sommerhus,80,1885,,Aktuel værdi
+Elvej 98950 Ørsted,sted,400.000,16-12-1998,Alm. Salg,5.797,4,Sommerhus,69,1987,,Aktuel værdi
+Sygehusvej 78950 Ørsted,sted,364.000,15-12-1998,Alm. Salg,3.433,5,Villa,106,1900,,Aktuel værdi
+Rougsøvej 3168950 Ørsted,sted,331.500,07-12-1998,Fam. Salg,2.833,6,Villa,117,1943,,Aktuel værdi
+Hevring Møllevej 208950 Ørsted,sted,340.369,29-11-1998,Alm. Salg,-,4,Villa,150,1877,,Aktuel værdi
+Voer Færgevej 1278950 Ørsted,sted,452.000,26-11-1998,Fam. Salg,2.878,4,Villa,157,1877,,Aktuel værdi
+Rørsangervej 15B8950 Ørsted,sted,340.000,10-11-1998,Alm. Salg,3.695,5,Sommerhus,92,1967,,Aktuel værdi
+Rougsøvej 1968950 Ørsted,sted,397.800,04-11-1998,Alm. Salg,2.743,5,Villa,145,1942,,Aktuel værdi
+Engvej 138950 Ørsted,sted,641.275,28-10-1998,Alm. Salg,-,9,Villa,287,1902,,Aktuel værdi
+Strandskadevej 878950 Ørsted,sted,125.000,27-10-1998,Alm. Salg,-,4,Sommerhus,118,2001,,Aktuel værdi
+Spovevej 288950 Ørsted,sted,283.000,23-10-1998,Alm. Salg,5.660,3,Sommerhus,50,1971,,Aktuel værdi
+Rougsøvej 658950 Ørsted,sted,519.000,30-09-1998,Alm. Salg,5.766,4,Villa,90,1951,,Aktuel værdi
+Spovevej 178950 Ørsted,sted,132.000,14-08-1998,Alm. Salg,2.640,3,Sommerhus,50,1982,,Aktuel værdi
+Tingparken 1298950 Ørsted,sted,119.600,04-08-1998,Alm. Salg,604,7,Villa,198,1999,,Aktuel værdi
+Sygehusvej 158950 Ørsted,sted,565.000,17-07-1998,Alm. Salg,3.487,5,Villa,162,1935,,Aktuel værdi
+Estruplundvej 228950 Ørsted,sted,330.000,15-07-1998,Alm. Salg,2.357,6,Villa,140,1941,,Aktuel værdi
+Estruplundvej 648950 Ørsted,sted,935.000,30-06-1998,Alm. Salg,6.233,4,Stuehus,150,1978,,
+Havvejen 118950 Ørsted,sted,595.000,30-06-1998,Alm. Salg,5.409,4,Villa,110,1850,,Aktuel værdi
+Strandskadevej 178950 Ørsted,sted,200.000,25-06-1998,Alm. Salg,5.128,3,Sommerhus,39,1974,,Aktuel værdi
+Bode Engvej 48950 Ørsted,sted,50.000,23-06-1998,Alm. Salg,367,2,Villa,136,1900,,Aktuel værdi
+Spovevej 248950 Ørsted,sted,300.000,16-06-1998,Alm. Salg,4.838,3,Sommerhus,62,1970,,Aktuel værdi
+Brashøjvej 48950 Ørsted,sted,391.000,15-06-1998,Alm. Salg,-,4,Villa,125,1962,,Aktuel værdi
+Tranevej 58950 Ørsted,sted,310.000,08-06-1998,Alm. Salg,4.366,4,Sommerhus,71,1978,,Aktuel værdi
+Holbækvej 48950 Ørsted,sted,290.000,07-06-1998,Alm. Salg,3.020,4,Villa,96,1924,,Aktuel værdi
+Bondhøjvej 328950 Ørsted,sted,638.800,04-06-1998,Alm. Salg,3.802,6,Villa,168,1887,,Aktuel værdi
+Rørsangervej 208950 Ørsted,sted,235.000,30-05-1998,Alm. Salg,5.340,3,Sommerhus,44,1965,,Aktuel værdi
+Tangvej 188950 Ørsted,sted,203.000,30-05-1998,Alm. Salg,3.690,5,Sommerhus,55,1968,,Aktuel værdi
+Ternevej 478950 Ørsted,sted,334.100,25-05-1998,Alm. Salg,4.283,5,Sommerhus,78,1969,,Aktuel værdi
+Rougsøvej 2808950 Ørsted,sted,466.000,22-05-1998,Alm. Salg,5.295,3,Villa,88,1954,,Aktuel værdi
+Hevring Møllevej 128950 Ørsted,sted,381.000,17-05-1998,Alm. Salg,2.976,5,Villa,128,1949,,Aktuel værdi
+Hollandsbjergvej 568950 Ørsted,sted,877.000,14-05-1998,Alm. Salg,5.158,5,Villa,170,1912,,Aktuel værdi
+Rougsøvej 538950 Ørsted,sted,895.000,06-05-1998,Alm. Salg,5.028,5,Villa,178,1965,,Aktuel værdi
+Tangvej 358950 Ørsted,sted,395.000,30-04-1998,Alm. Salg,6.810,3,Sommerhus,58,1984,,Aktuel værdi
+Krammesvej 278950 Ørsted,sted,197.000,10-03-1998,Alm. Salg,3.862,4,Sommerhus,51,1960,,Aktuel værdi
+Ternevej 208950 Ørsted,sted,49.000,25-02-1998,Alm. Salg,628,4,Sommerhus,78,2001,,Aktuel værdi
+Ternevej 198950 Ørsted,sted,385.000,14-02-1998,Alm. Salg,4.583,4,Sommerhus,84,1979,,Aktuel værdi
+Storegade 368950 Ørsted,sted,215.000,06-02-1998,Alm. Salg,2.986,2,Villa,72,1887,,Aktuel værdi
+Rougsøvej 61E8950 Ørsted,sted,527.000,03-02-1998,Alm. Salg,5.377,4,Villa,98,1987,,Aktuel værdi
+Bondhøjvej 188950 Ørsted,sted,450.000,02-02-1998,Alm. Salg,3.750,4,Villa,120,1962,,Aktuel værdi
+Estruplundvej 28950 Ørsted,sted,340.000,21-01-1998,Alm. Salg,1.416,7,Villa,240,1916,,Aktuel værdi
+Nordvej 88950 Ørsted,sted,2.167.500,17-01-1998,Alm. Salg,11.115,6,Villa,195,1923,,Aktuel værdi
+Estruplundvej 138950 Ørsted,sted,392.869,22-12-1997,Alm. Salg,2.654,5,Villa,148,1884,,Aktuel værdi
+Storegade 388950 Ørsted,sted,180.000,19-12-1997,Andet,1.800,4,Villa,100,1966,,Aktuel værdi
+Digemarken 38950 Ørsted,sted,547.000,16-12-1997,Alm. Salg,3.217,6,Villa,170,1868,,Aktuel værdi
+Bodevej 228950 Ørsted,sted,343.229,10-12-1997,Alm. Salg,-,9,Villa,249,1827,,Aktuel værdi
+Anne Krabbes Vej 18950 Ørsted,sted,545.000,08-12-1997,Alm. Salg,4.698,3,Villa,116,1973,,Aktuel værdi
+Damvej 108950 Ørsted,sted,413.000,02-12-1997,Alm. Salg,-,9,Villa,284,1930,,Aktuel værdi
+Ternevej 448950 Ørsted,sted,310.000,24-11-1997,Alm. Salg,7.380,3,Sommerhus,42,1970,,Aktuel værdi
+Mågevej 288950 Ørsted,sted,390.000,17-11-1997,Alm. Salg,-,4,Sommerhus,125,1966,,Aktuel værdi
+Estruplundvej 68950 Ørsted,sted,578.000,28-10-1997,Alm. Salg,3.777,3,Villa,153,1850,,Aktuel værdi
+Hevringvej 58950 Ørsted,sted,115.000,23-09-1997,Alm. Salg,638,9,Stuehus,180,1870,,
+Voer Færgevej 658950 Ørsted,sted,320.000,16-09-1997,Alm. Salg,2.176,4,Villa,147,1827,,Aktuel værdi
+Voer Gade 248950 Ørsted,sted,170.000,12-09-1997,Alm. Salg,-,6,Villa,149,1897,,Aktuel værdi
+Nydamsvej 48950 Ørsted,sted,719.000,10-09-1997,Alm. Salg,8.170,4,Villa,88,1677,,Aktuel værdi
+Rougsøvej 2598950 Ørsted,sted,30.000,29-08-1997,Alm. Salg,306,5,Villa,98,1998,,Aktuel værdi
+Hollandsbjergvej 808950 Ørsted,sted,550.000,28-08-1997,Alm. Salg,4.910,3,Stuehus,112,1909,,
+Klydevej 18950 Ørsted,sted,485.000,21-08-1997,Alm. Salg,5.574,6,Sommerhus,87,1989,,Aktuel værdi
+Mikkelvej 18950 Ørsted,sted,349.000,11-08-1997,Alm. Salg,3.490,3,Villa,100,1910,,Aktuel værdi
+Vesterled 48950 Ørsted,sted,715.000,02-08-1997,Alm. Salg,5.416,5,Villa,132,1977,,Aktuel værdi
+Havvejen 68950 Ørsted,sted,300.000,31-07-1997,Alm. Salg,-,4,Sommerhus,81,1986,,Aktuel værdi
+Havvejen 268950 Ørsted,sted,382.000,30-07-1997,Alm. Salg,3.237,4,Villa,118,1935,,Aktuel værdi
+Nydamsvej 188950 Ørsted,sted,235.000,13-07-1997,Alm. Salg,1.807,5,Villa,130,1888,,Aktuel værdi
+Alsikevej 38950 Ørsted,sted,244.650,26-06-1997,Alm. Salg,3.351,1,Sommerhus,73,1987,,Aktuel værdi
+Tranevej 108950 Ørsted,sted,392.000,23-06-1997,Alm. Salg,-,4,Sommerhus,92,1990,,Aktuel værdi
+Havvejen 208950 Ørsted,sted,428.000,19-06-1997,Alm. Salg,-,5,Villa,202,1870,,Aktuel værdi
+Rougsøvej 1778950 Ørsted,sted,125.000,17-06-1997,Alm. Salg,-,5,Villa,164,1924,,Aktuel værdi
+Tingvej 28950 Ørsted,sted,357.000,17-06-1997,Fam. Salg,3.966,3,Villa,90,1982,,Aktuel værdi
+Kirkegade 18950 Ørsted,sted,977.500,17-06-1997,Fam. Salg,4.344,6,Villa,225,1923,,Aktuel værdi
+Lyngvej 58950 Ørsted,sted,586.000,17-06-1997,Alm. Salg,4.542,5,Villa,129,1850,,Aktuel værdi
+Estruplundvej 168950 Ørsted,sted,1.563.000,14-06-1997,Alm. Salg,8.931,8,Stuehus,175,1921,,
+Tingvej 138950 Ørsted,sted,635.000,13-06-1997,Alm. Salg,5.619,4,Villa,113,1986,,Aktuel værdi
+Mågevej 208950 Ørsted,sted,144.333,29-05-1997,Alm. Salg,3.070,3,Sommerhus,47,1971,,Aktuel værdi
+Skansevej 58950 Ørsted,sted,435.000,28-05-1997,Alm. Salg,3.480,3,Villa,125,1864,,Aktuel værdi
+Toftevænge 38950 Ørsted,sted,415.000,21-05-1997,Alm. Salg,2.964,5,Villa,140,1959,,Aktuel værdi
+Tingparken 718950 Ørsted,sted,664.000,14-05-1997,Alm. Salg,-,5,Villa,161,1982,,Aktuel værdi
+Digevej 58950 Ørsted,sted,530.000,07-05-1997,Alm. Salg,-,7,Villa,150,1937,,Aktuel værdi
+Holbækvej 238950 Ørsted,sted,1.374.760,06-05-1997,Alm. Salg,10.575,5,Stuehus,130,1914,,
+Ryderne 68950 Ørsted,sted,179.000,06-05-1997,Alm. Salg,2.057,2,Villa,87,1915,,Aktuel værdi
+Rougsøvej 1338950 Ørsted,sted,450.000,28-04-1997,Fam. Salg,4.500,3,Villa,100,1947,,Aktuel værdi
+Voer Færgevej 888950 Ørsted,sted,257.243,19-04-1997,Alm. Salg,-,6,Villa,138,1934,,Aktuel værdi
+Hollandsbjergvej 448950 Ørsted,sted,270.000,15-04-1997,Alm. Salg,3.253,4,Villa,83,1887,,Aktuel værdi
+Rougsøvej 2868950 Ørsted,sted,335.000,08-04-1997,Alm. Salg,-,9,Villa,125,1926,,Aktuel værdi
+Holbækvej 38950 Ørsted,sted,557.248,02-04-1997,Alm. Salg,5.991,4,Villa,93,1960,,Aktuel værdi
+Hejrevej 198950 Ørsted,sted,38.500,25-03-1997,Alm. Salg,320,5,Sommerhus,120,1997,,Aktuel værdi
+Voer Gade 308950 Ørsted,sted,210.000,21-03-1997,Alm. Salg,2.333,3,Villa,90,1931,,Aktuel værdi
+Strandskadevej 318950 Ørsted,sted,283.000,18-03-1997,Alm. Salg,4.716,4,Sommerhus,60,1976,,Aktuel værdi
+Storegade 248950 Ørsted,sted,351.913,16-03-1997,Alm. Salg,2.792,4,Villa,126,1800,,Aktuel værdi
+Borggyden 48950 Ørsted,sted,702.000,03-03-1997,Alm. Salg,3.295,7,Villa,213,1870,,Aktuel værdi
+Sneppevej 428950 Ørsted,sted,190.000,01-03-1997,Alm. Salg,-,5,Sommerhus,89,1969,,Aktuel værdi
+Voer Gade 26A8950 Ørsted,sted,380.000,28-01-1997,Alm. Salg,2.405,6,Villa,158,1870,,Aktuel værdi
+Strandhusvej 88950 Ørsted,sted,162.000,26-01-1997,Alm. Salg,3.600,3,Sommerhus,45,1957,,Aktuel værdi
+H C Ørsted Parkvej 318950 Ørsted,sted,415.000,22-01-1997,Alm. Salg,3.772,3,Villa,110,1979,,Aktuel værdi
+Sønderbakken 18950 Ørsted,sted,550.000,22-01-1997,Alm. Salg,4.508,6,Villa,122,1954,,Aktuel værdi
+Rougsøvej 2018950 Ørsted,sted,120.000,18-01-1997,Alm. Salg,1.200,3,Villa,100,1964,,Aktuel værdi
+Sygehusvej 348950 Ørsted,sted,460.000,15-01-1997,Alm. Salg,3.066,4,Villa,150,1937,,Aktuel værdi
+Digevej 48950 Ørsted,sted,612.000,04-01-1997,Alm. Salg,5.563,5,Stuehus,110,1903,,
+Rougsøvej 728950 Ørsted,sted,605.024,31-12-1996,Alm. Salg,3.437,7,Stuehus,176,1917,,
+Østervangen 18950 Ørsted,sted,350.000,15-11-1996,Alm. Salg,3.763,3,Villa,93,1935,,Aktuel værdi
+Rougsøvej 3248950 Ørsted,sted,267.750,06-11-1996,Fam. Salg,1.885,5,Villa,142,1942,,Aktuel værdi
+Hollandsbjergvej 428950 Ørsted,sted,3.270.000,02-11-1996,Auktion,14.931,5,Stuehus,219,2001,,
+Holbækvej 98950 Ørsted,sted,314.750,07-10-1996,Alm. Salg,2.017,4,Villa,156,1906,,Aktuel værdi
+Strandskadevej 398950 Ørsted,sted,35.000,30-09-1996,Alm. Salg,492,4,Sommerhus,71,2004,,Aktuel værdi
+Gammeljord 88950 Ørsted,sted,550.000,27-09-1996,Alm. Salg,3.333,7,Villa,165,1916,,Aktuel værdi
+Nydamsvej 258950 Ørsted,sted,487.000,25-09-1996,Alm. Salg,2.864,6,Villa,170,1900,,Aktuel værdi
+Tingparken 758950 Ørsted,sted,107.770,04-09-1996,Alm. Salg,682,6,Villa,158,1997,,Aktuel værdi
+Rougsøvej 2308950 Ørsted,sted,543.000,03-09-1996,Alm. Salg,2.402,7,Villa,226,1900,,Aktuel værdi
+Bode Engvej 138950 Ørsted,sted,400.000,02-09-1996,Alm. Salg,-,3,Villa,149,1897,,Aktuel værdi
+Strandskadevej 678950 Ørsted,sted,50.000,31-07-1996,Alm. Salg,632,4,Sommerhus,79,1998,,Aktuel værdi
+Tingparken 838950 Ørsted,sted,113.100,22-07-1996,Alm. Salg,-,5,Villa,194,1997,,Aktuel værdi
+Hollandsbjergvej 368950 Ørsted,sted,159.022,19-07-1996,Andet,1.747,3,Villa,91,1959,,Aktuel værdi
+Tingvej 68950 Ørsted,sted,500.000,12-07-1996,Alm. Salg,4.424,4,Villa,113,1984,,Aktuel værdi
+Storegade 408950 Ørsted,sted,260.087,28-05-1996,Alm. Salg,3.096,4,Rækkehus,84,1877,,Aktuel værdi
+Dr Frandsens Vej 258950 Ørsted,sted,480.000,23-05-1996,Alm. Salg,4.615,4,Villa,104,1951,,Aktuel værdi
+Kalkærsvej 68950 Ørsted,sted,259.182,11-05-1996,Alm. Salg,2.728,3,Villa,95,1961,,Aktuel værdi
+Nydamsvej 318950 Ørsted,sted,456.998,08-05-1996,Alm. Salg,4.569,3,Villa,100,1877,,Aktuel værdi
+Rougsøvej 61A8950 Ørsted,sted,236.000,29-04-1996,Auktion,2.408,4,Villa,98,1988,,Aktuel værdi
+Rougsøvej 2038950 Ørsted,sted,380.000,26-04-1996,Alm. Salg,3.689,3,Villa,103,1827,,Aktuel værdi
+Spovevej 828950 Ørsted,sted,382.000,22-04-1996,Alm. Salg,5.457,5,Sommerhus,70,1972,,Aktuel værdi
+Bendsvej 108950 Ørsted,sted,390.000,19-04-1996,Alm. Salg,3.196,5,Villa,122,1961,,Aktuel værdi
+Havtornevej 48950 Ørsted,sted,150.000,15-04-1996,Alm. Salg,4.166,3,Sommerhus,36,1966,,Aktuel værdi
+Tingparken 898950 Ørsted,sted,707.000,03-04-1996,Alm. Salg,5.611,5,Villa,126,1986,,Aktuel værdi
+Bakkevej 18950 Ørsted,sted,70.000,31-03-1996,Alm. Salg,482,5,Villa,145,1907,,Aktuel værdi
+Holbækgård Mark 108950 Ørsted,sted,1.720.000,26-03-1996,Alm. Salg,10.361,5,Stuehus,166,1931,,
+Ternevej 438950 Ørsted,sted,280.000,09-03-1996,Alm. Salg,5.490,3,Sommerhus,51,1974,,Aktuel værdi
+Voer Færgevej 1198950 Ørsted,sted,1.800.000,29-02-1996,Alm. Salg,11.538,6,Stuehus,156,1900,,
+Hougårds Vej 38950 Ørsted,sted,398.000,17-02-1996,Alm. Salg,-,3,Villa,139,1962,,Aktuel værdi
+Koglevej 478950 Ørsted,sted,206.320,05-02-1996,Alm. Salg,3.496,4,Sommerhus,59,1951,,Aktuel værdi
+Spovevej 318950 Ørsted,sted,440.000,02-02-1996,Alm. Salg,4.489,5,Villa,98,1989,,Aktuel værdi
+Stenaltvej 98950 Ørsted,sted,960.000,18-01-1996,Alm. Salg,7.804,4,Stuehus,123,1940,,
+Tangvej 298950 Ørsted,sted,140.000,15-01-1996,Alm. Salg,3.500,3,Sommerhus,40,1958,,Aktuel værdi
+Estruplundvej 158950 Ørsted,sted,170.000,15-01-1996,Alm. Salg,-,6,Villa,154,1900,,Aktuel værdi
+Bodevej 88950 Ørsted,sted,580.000,08-01-1996,Alm. Salg,2.109,7,Villa,275,1902,,Aktuel værdi
+Voer Færgevej 88950 Ørsted,sted,272.000,10-12-1995,Fam. Salg,1.971,4,Villa,138,1940,,Aktuel værdi
+Stenaltvej 108950 Ørsted,sted,780.000,09-12-1995,Alm. Salg,-,7,Stuehus,194,1940,,
+Vestvej 48950 Ørsted,sted,370.000,04-12-1995,Alm. Salg,2.681,5,Villa,138,1974,,Aktuel værdi
+Fasanvej 158950 Ørsted,sted,297.500,27-11-1995,Fam. Salg,2.458,5,Sommerhus,121,1978,,Aktuel værdi
+Rougsøvej 2698950 Ørsted,sted,490.000,21-11-1995,Alm. Salg,3.656,5,Villa,134,1907,,Aktuel værdi
+Rougsøvej 1118950 Ørsted,sted,300.000,17-11-1995,Alm. Salg,2.941,4,Villa,102,1920,,Aktuel værdi
+Stenalt Markvej 48950 Ørsted,sted,451.000,10-11-1995,Alm. Salg,3.390,4,Villa,133,1942,,Aktuel værdi
+Hjemdalvej 88950 Ørsted,sted,250.744,13-10-1995,Fam. Salg,1.717,6,Villa,146,1927,,Aktuel værdi
+Borggyden 18950 Ørsted,sted,315.300,12-10-1995,Alm. Salg,2.815,4,Villa,112,1962,,Aktuel værdi
+Mikkelvej 88950 Ørsted,sted,250.000,04-10-1995,Fam. Salg,2.118,4,Villa,118,1885,,Aktuel værdi
+Rougsøvej 818950 Ørsted,sted,650.000,30-09-1995,Alm. Salg,5.416,11,Detailhandel,120,1930,,Aktuel værdi
+Hollandsbjergvej 158950 Ørsted,sted,250.000,23-09-1995,Alm. Salg,2.427,3,Villa,103,1877,,Aktuel værdi
+Havtornevej 18950 Ørsted,sted,280.000,21-09-1995,Alm. Salg,-,5,Sommerhus,107,1974,,Aktuel værdi
+Voer Færgevej 538950 Ørsted,sted,375.000,15-09-1995,Alm. Salg,-,8,Villa,142,1955,,Aktuel værdi
+Havvejen 148950 Ørsted,sted,195.500,26-08-1995,Fam. Salg,2.273,4,Sommerhus,86,1937,,Aktuel værdi
+Tangvej 278950 Ørsted,sted,127.500,22-08-1995,Fam. Salg,2.500,3,Sommerhus,51,1955,,Aktuel værdi
+Bogfinkevej 98950 Ørsted,sted,165.940,17-08-1995,Alm. Salg,2.074,5,Sommerhus,80,1985,,Aktuel værdi
+Stenaltvej 128950 Ørsted,sted,1.020.000,10-08-1995,Alm. Salg,9.444,6,Stuehus,108,1940,,
+Bodevej 198950 Ørsted,sted,430.000,27-07-1995,Alm. Salg,-,9,Villa,277,1904,,Aktuel værdi
+Tingparken 1218950 Ørsted,sted,118.040,25-07-1995,Alm. Salg,1.082,4,Villa,109,1996,,Aktuel værdi
+Havtornevej 38950 Ørsted,sted,220.000,24-07-1995,Alm. Salg,-,6,Sommerhus,119,1971,,Aktuel værdi
+Havtornevej 108950 Ørsted,sted,305.000,30-06-1995,Alm. Salg,6.100,2,Sommerhus,50,1979,,Aktuel værdi
+Rørsangervej 178950 Ørsted,sted,195.000,23-06-1995,Fam. Salg,3.900,2,Sommerhus,50,1968,,Aktuel værdi
+Kalkærsvej 158950 Ørsted,sted,513.643,23-06-1995,Fam. Salg,3.776,4,Villa,136,1971,,Aktuel værdi
+Kirkegade 68950 Ørsted,sted,481.469,15-06-1995,Alm. Salg,2.972,6,Villa,162,1976,,Aktuel værdi
+Voer Færgevej 288950 Ørsted,sted,225.000,14-06-1995,Alm. Salg,3.461,2,Villa,65,1777,,Aktuel værdi
+Tingparken 738950 Ørsted,sted,107.900,07-06-1995,Alm. Salg,811,5,Villa,133,1995,,Aktuel værdi
+Nydamsvej 30B8950 Ørsted,sted,430.000,06-06-1995,Alm. Salg,2.077,9,Villa,207,1981,,Aktuel værdi
+Brydkærvej 28950 Ørsted,sted,310.000,11-05-1995,Alm. Salg,4.843,3,Stuehus,64,1913,,
+Nydamsvej 308950 Ørsted,sted,316.200,10-05-1995,Alm. Salg,2.342,4,Villa,135,1933,,Aktuel værdi
+Nydamsvej 228950 Ørsted,sted,1.212.188,03-05-1995,Fam. Salg,6.587,7,Stuehus,184,1900,,
+Strandhusvej 278950 Ørsted,sted,127.000,28-04-1995,Alm. Salg,-,3,Sommerhus,66,1942,,Aktuel værdi
+Havvejen 28D8950 Ørsted,sted,85.000,31-03-1995,Alm. Salg,1.700,2,Sommerhus,50,1950,,Aktuel værdi
+Estruplundvej 128950 Ørsted,sted,230.000,22-03-1995,Alm. Salg,1.631,4,Villa,141,2004,,Aktuel værdi
+Ternevej 428950 Ørsted,sted,285.000,06-02-1995,Alm. Salg,-,3,Sommerhus,67,1979,,Aktuel værdi
+Sygehusvej 228950 Ørsted,sted,115.000,31-01-1995,Alm. Salg,982,4,Villa,117,1928,,Aktuel værdi
+Rougsøvej 2688950 Ørsted,sted,233.061,05-12-1994,Alm. Salg,-,4,Villa,258,1878,,Aktuel værdi
+Mågevej 17A8950 Ørsted,sted,305.000,30-11-1994,Alm. Salg,1.894,6,Sommerhus,161,1980,,Aktuel værdi
+Agervej 48950 Ørsted,sted,450.000,28-11-1994,Alm. Salg,3.515,4,Villa,128,1978,,Aktuel værdi
+Sneppevej 448950 Ørsted,sted,270.000,24-10-1994,Alm. Salg,-,5,Sommerhus,82,1971,,Aktuel værdi
+Bogfinkevej 138950 Ørsted,sted,214.000,26-09-1994,Alm. Salg,3.508,4,Sommerhus,61,1984,,Aktuel værdi
+Løkkeagrene 58950 Ørsted,sted,305.000,01-09-1994,Alm. Salg,1.326,8,Villa,230,1978,,Aktuel værdi
+Voer Færgevej 28950 Ørsted,sted,743.000,29-08-1994,Alm. Salg,3.377,9,Ukendt,220,1920,,Aktuel værdi
+Rougsøvej 3228950 Ørsted,sted,80.000,23-08-1994,Fam. Salg,1.632,4,Sommerhus,49,1954,,Aktuel værdi
+Rougsøvej 1948950 Ørsted,sted,360.000,21-08-1994,Alm. Salg,2.666,5,Villa,135,1955,,Aktuel værdi
+Løkkeagrene 28950 Ørsted,sted,780.000,04-08-1994,Alm. Salg,3.083,8,Villa,253,1976,,Aktuel værdi
+Voer Færgevej 1108950 Ørsted,sted,2.700.000,02-08-1994,Alm. Salg,12.857,8,Stuehus,210,1934,,
+Sygehusvej 128950 Ørsted,sted,298.000,31-07-1994,Alm. Salg,2.614,4,Villa,114,1910,,Aktuel værdi
+Tingparken 638950 Ørsted,sted,287.000,30-06-1994,Andet,2.585,4,Villa,111,1987,,Aktuel værdi
+Tangvej 258950 Ørsted,sted,79.250,22-06-1994,Fam. Salg,1.467,2,Sommerhus,54,1953,,Aktuel værdi
+Nydamsvej 338950 Ørsted,sted,340.640,15-06-1994,Alm. Salg,-,3,Villa,136,1850,,Aktuel værdi
+Rylevej 138950 Ørsted,sted,250.000,15-06-1994,Alm. Salg,4.166,3,Sommerhus,60,1972,,Aktuel værdi
+Estruplundvej 48950 Ørsted,sted,733.861,07-06-1994,Fam. Salg,5.733,7,Stuehus,128,1910,,
+Tingparken 958950 Ørsted,sted,524.033,03-06-1994,Alm. Salg,-,4,Villa,139,1986,,Aktuel værdi
+Rougsøvej 1958950 Ørsted,sted,227.000,19-05-1994,Alm. Salg,2.579,4,Villa,88,1920,,Aktuel værdi
+Rougsøvej 2518950 Ørsted,sted,300.000,09-05-1994,Alm. Salg,2.142,4,Villa,140,1947,,Aktuel værdi
+Hevringvej 218950 Ørsted,sted,150.000,20-04-1994,Alm. Salg,-,7,Villa,271,1906,,Aktuel værdi
+Strandskadevej 88950 Ørsted,sted,42.000,26-03-1994,Alm. Salg,350,5,Sommerhus,120,1995,,Aktuel værdi
+Rougsøvej 998950 Ørsted,sted,260.000,10-03-1994,Alm. Salg,2.600,3,Villa,100,1952,,Aktuel værdi
+Peitergyde 28950 Ørsted,sted,70.000,06-03-1994,Alm. Salg,875,3,Villa,80,1877,,Aktuel værdi
+Fasanvej 258950 Ørsted,sted,221.500,17-02-1994,Alm. Salg,1.640,7,Sommerhus,135,1969,,Aktuel værdi
+Kalkærsvej 38950 Ørsted,sted,620.000,27-01-1994,Alm. Salg,4.275,5,Villa,145,1969,,Aktuel værdi
+Voer Færgevej 798950 Ørsted,sted,1.202.909,24-01-1994,Alm. Salg,-,8,Stuehus,284,1879,,
+Tingparken 798950 Ørsted,sted,128.440,14-01-1994,Alm. Salg,891,5,Villa,144,1994,,Aktuel værdi
+Dr Frandsens Vej 218950 Ørsted,sted,250.000,13-01-1994,Alm. Salg,2.777,3,Villa,90,1950,,Aktuel værdi
+Rougsøvej 1498950 Ørsted,sted,2.070.500,13-12-1993,Alm. Salg,6.901,12,Stuehus,300,1930,,
+Tangvej 518950 Ørsted,sted,135.000,30-11-1993,Fam. Salg,784,5,Sommerhus,172,2007,,Aktuel værdi
+Bodevej 1A8950 Ørsted,sted,440.000,21-11-1993,Alm. Salg,1.718,4,Villa,256,1864,,Aktuel værdi
+Kare Engvej 88950 Ørsted,sted,200.000,15-11-1993,Andet,1.851,4,Villa,108,1917,,Aktuel værdi
+Havvejen 2A8950 Ørsted,sted,272.000,11-11-1993,Fam. Salg,2.566,5,Sommerhus,106,1978,,Aktuel værdi
+Estruplundvej 268950 Ørsted,sted,250.000,31-10-1993,Fam. Salg,2.272,6,Villa,110,1897,,Aktuel værdi
+Kalkærsvej 108950 Ørsted,sted,595.000,29-10-1993,Andet,2.989,7,Villa,199,1973,,Aktuel værdi
+Rougsøvej 2628950 Ørsted,sted,195.500,29-10-1993,Alm. Salg,930,8,Villa,210,1970,,Aktuel værdi
+Strandskadevej 148950 Ørsted,sted,35.000,14-10-1993,Alm. Salg,-,5,Sommerhus,80,1995,,Aktuel værdi
+Estruplundvej 608950 Ørsted,sted,300.000,24-09-1993,Alm. Salg,3.191,4,Villa,94,1850,,Aktuel værdi
+Fasanvej 268950 Ørsted,sted,260.000,09-09-1993,Alm. Salg,-,4,Sommerhus,106,1973,,Aktuel værdi
+Hevring Møllevej 218950 Ørsted,sted,233.725,27-08-1993,Alm. Salg,-,4,Sommerhus,162,1877,,Aktuel værdi
+Hollandsbjergvej 80B8950 Ørsted,sted,1.787.508,26-08-1993,Alm. Salg,16.250,3,Stuehus,110,1987,,
+Havagervej 28950 Ørsted,sted,230.000,24-08-1993,Alm. Salg,2.169,3,Villa,106,1934,,Aktuel værdi
+Rougsøvej 2448950 Ørsted,sted,403.000,30-07-1993,Alm. Salg,-,6,Villa,217,1936,,Aktuel værdi
+Sneppevej 268950 Ørsted,sted,202.000,20-07-1993,Alm. Salg,3.884,3,Sommerhus,52,1972,,Aktuel værdi
+Tingparken 398950 Ørsted,sted,335.000,30-06-1993,Alm. Salg,2.863,4,Villa,117,1979,,Aktuel værdi
+Hollandsbjergvej 358950 Ørsted,sted,665.000,21-06-1993,Alm. Salg,3.243,8,Villa,205,1895,,Aktuel værdi
+Fjordvej 108950 Ørsted,sted,1.949.076,04-06-1993,Fam. Salg,16.658,9,Stuehus,117,1963,,
+Bondhøjvej 19A8950 Ørsted,sted,415.000,28-05-1993,Alm. Salg,1.351,10,Villa,307,1963,,Aktuel værdi
+Skalbakken 108950 Ørsted,sted,745.000,15-05-1993,Alm. Salg,5.518,6,Villa,135,1976,,Aktuel værdi
+Voer Gade 168950 Ørsted,sted,82.189,12-05-1993,Alm. Salg,1.369,3,Villa,60,1955,,Aktuel værdi
+Rougsøvej 928950 Ørsted,sted,300.000,12-05-1993,Alm. Salg,1.875,5,Villa,160,1935,,Aktuel værdi
+Brydkærvej 78950 Ørsted,sted,1.400.000,13-04-1993,Alm. Salg,5.714,8,Stuehus,245,1937,,
+Sneppevej 318950 Ørsted,sted,145.000,01-04-1993,Alm. Salg,3.020,3,Sommerhus,48,1974,,Aktuel værdi
+Spovevej 568950 Ørsted,sted,252.000,26-03-1993,Alm. Salg,-,4,Sommerhus,72,1973,,Aktuel værdi
+Bodevej 338950 Ørsted,sted,3.496.750,25-03-1993,Fam. Salg,15.610,6,Stuehus,224,1850,,
+Nydamsvej 408950 Ørsted,sted,230.000,09-02-1993,Alm. Salg,-,7,Villa,197,1920,,Aktuel værdi
+Nydamsvej 268950 Ørsted,sted,550.000,30-01-1993,Alm. Salg,5.500,2,Villa,100,1870,,Aktuel værdi
+Voer Færgevej 108950 Ørsted,sted,74.375,14-12-1992,Fam. Salg,502,4,Villa,148,1900,,Aktuel værdi
+Udbyvej 88950 Ørsted,sted,210.000,03-12-1992,Alm. Salg,1.304,5,Villa,161,1900,,Aktuel værdi
+Ternevej 388950 Ørsted,sted,265.000,20-10-1992,Alm. Salg,4.416,4,Sommerhus,60,1976,,Aktuel værdi
+Bode Engvej 118950 Ørsted,sted,655.000,21-09-1992,Fam. Salg,-,4,Stuehus,209,1877,,
+Strandskadevej 78950 Ørsted,sted,230.000,17-09-1992,Alm. Salg,4.181,4,Sommerhus,55,1973,,Aktuel værdi
+Hollandsbjergvej 58950 Ørsted,sted,250.000,15-09-1992,Alm. Salg,2.314,4,Villa,108,1963,,Aktuel værdi
+Ternevej 508950 Ørsted,sted,290.000,04-09-1992,Alm. Salg,3.815,3,Sommerhus,76,1974,,Aktuel værdi
+Vestvej 128950 Ørsted,sted,444.586,12-08-1992,Alm. Salg,2.727,6,Villa,163,1950,,Aktuel værdi
+Voer Færgevej 678950 Ørsted,sted,365.000,11-08-1992,Alm. Salg,-,8,Villa,240,1900,,Aktuel værdi
+Mågevej 188950 Ørsted,sted,240.000,28-07-1992,Fam. Salg,-,3,Sommerhus,81,1967,,Aktuel værdi
+Brydkærvej 38950 Ørsted,sted,380.000,23-07-1992,Alm. Salg,1.979,3,Villa,192,1910,,Aktuel værdi
+Toftevænge 158950 Ørsted,sted,425.000,29-06-1992,Alm. Salg,3.541,4,Villa,120,1962,,Aktuel værdi
+Spangshusevej 2B8950 Ørsted,sted,450.000,17-06-1992,Alm. Salg,2.571,7,Stuehus,175,1912,,
+Strandskadevej 58950 Ørsted,sted,285.000,10-06-1992,Alm. Salg,3.701,4,Sommerhus,77,1987,,Aktuel værdi
+Sneppevej 338950 Ørsted,sted,250.000,27-05-1992,Alm. Salg,-,4,Sommerhus,72,1970,,Aktuel værdi
+Rougsøvej 1198950 Ørsted,sted,161.933,11-05-1992,Alm. Salg,975,8,Villa,166,1937,,Aktuel værdi
+Mosevænge 28950 Ørsted,sted,360.000,30-04-1992,Alm. Salg,-,7,Villa,203,1972,,Aktuel værdi
+Krammesvej 178950 Ørsted,sted,91.140,29-04-1992,Fam. Salg,3.797,2,Sommerhus,24,1959,,Aktuel værdi
+Anne Krabbes Vej 108950 Ørsted,sted,535.815,27-04-1992,Fam. Salg,2.101,6,Villa,255,1969,,Aktuel værdi
+Tingvej 168950 Ørsted,sted,35.000,21-04-1992,Alm. Salg,241,6,Villa,145,1992,,Aktuel værdi
+Skalbakken 28950 Ørsted,sted,916.000,07-04-1992,Alm. Salg,2.853,7,Villa,321,1974,,Aktuel værdi
+Voer Færgevej 448950 Ørsted,sted,220.000,27-02-1992,Alm. Salg,-,5,Stuehus,181,1890,,
+Voer Færgevej 168950 Ørsted,sted,445.000,17-02-1992,Alm. Salg,3.423,5,Villa,130,1927,,Aktuel værdi
+Fasanvej 28950 Ørsted,sted,270.000,05-02-1992,Alm. Salg,-,3,Sommerhus,78,1979,,Aktuel værdi
+Nordvej 68950 Ørsted,sted,330.000,29-01-1992,Alm. Salg,1.885,5,Villa,175,1928,,Aktuel værdi
+Tangvej 138950 Ørsted,sted,188.898,16-01-1992,Alm. Salg,-,4,Sommerhus,82,1952,,Aktuel værdi
+Mågevej 3A8950 Ørsted,sted,225.000,10-01-1992,Alm. Salg,4.787,3,Sommerhus,47,1984,,Aktuel værdi
+Tingparken 98950 Ørsted,sted,520.000,09-01-1992,Fam. Salg,-,6,Villa,168,1979,,Aktuel værdi
+Rougsøvej 738950 Ørsted,sted,370.000,04-01-1992,Alm. Salg,2.890,6,Villa,128,1949,,Aktuel værdi

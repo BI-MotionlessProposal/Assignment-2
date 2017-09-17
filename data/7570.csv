@@ -1,0 +1,779 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Burvej 757570 Vemb,Vemb,370.000,01-05-2017,Alm. Salg,3.333,5,Villa,111,1969,-13 %,Aktuel værdi
+Neesvej 777570 Vemb,Vemb,375.000,07-04-2017,Alm. Salg,3.125,5,Villa,120,1916,,Aktuel værdi
+Søndergade 217570 Vemb,Vemb,555.000,03-04-2017,Alm. Salg,4.080,5,Villa,136,1905,-7 %,Aktuel værdi
+Hedevej 117570 Vemb,Vemb,315.000,27-03-2017,Alm. Salg,2.625,5,Stuehus,120,1955,,
+Hyttevej 1117570 Vemb,Vemb,550.000,18-03-2017,Alm. Salg,6.790,4,Sommerhus,81,1976,-8 %,Aktuel værdi
+Bygaden 347570 Vemb,Vemb,541.323,16-03-2017,Andet,2.494,7,Villa,217,1982,,Aktuel værdi
+Skalstrupvej 27570 Vemb,Vemb,249.026,07-03-2017,Alm. Salg,2.394,3,Villa,104,1904,,Aktuel værdi
+Ørvigvej 47570 Vemb,Vemb,4.750.000,06-03-2017,Alm. Salg,27.941,5,Stuehus,170,1928,,
+Bygaden 17570 Vemb,Vemb,500.000,28-02-2017,Fam. Salg,5.102,4,Villa,98,1925,,Aktuel værdi
+Knudehus 497570 Vemb,Vemb,635.000,20-02-2017,Alm. Salg,10.583,3,Sommerhus,60,2002,-9 %,Aktuel værdi
+Skovvangvej 277570 Vemb,Vemb,7.100.000,16-02-2017,Alm. Salg,12.769,13,Stuehus,556,2010,,
+Burvej 157570 Vemb,Vemb,625.000,06-02-2017,Alm. Salg,6.313,2,Villa,99,1955,0 %,Aktuel værdi
+Burvej 677570 Vemb,Vemb,300.000,03-02-2017,Alm. Salg,2.586,4,Villa,116,1931,-15 %,Aktuel værdi
+Harpøtvej 1347570 Vemb,Vemb,725.000,28-01-2017,Alm. Salg,9.539,4,Sommerhus,76,1974,-1 %,Aktuel værdi
+Neesvej 53A7570 Vemb,Vemb,130.000,19-01-2017,Alm. Salg,1.040,5,Villa,125,1920,-13 %,Aktuel værdi
+Skalstrupvej 647570 Vemb,Vemb,432.000,19-01-2017,Fam. Salg,3.428,4,Villa,126,1958,,Aktuel værdi
+Enghavevej 77570 Vemb,Vemb,1.550.000,14-01-2017,Alm. Salg,6.126,8,Villa,253,1979,,Aktuel værdi
+Rosenvænget 87570 Vemb,Vemb,850.000,14-01-2017,Alm. Salg,9.659,4,Villa,88,1967,,Aktuel værdi
+Skolevej 17570 Vemb,Vemb,247.500,12-01-2017,Fam. Salg,1.718,4,Villa,144,1975,,Aktuel værdi
+Humlevænget 197570 Vemb,Vemb,1.400.000,03-01-2017,Alm. Salg,7.368,6,Villa,190,1979,,Aktuel værdi
+Donskærvej 257570 Vemb,Vemb,2.847.500,01-01-2017,Fam. Salg,18.983,5,Stuehus,150,1954,,
+Vestergade 207570 Vemb,Vemb,50.000,22-12-2016,Alm. Salg,793,2,Villa,63,1906,,Aktuel værdi
+Skalstrupvej 867570 Vemb,Vemb,450.000,16-12-2016,Alm. Salg,3.040,5,Stuehus,148,1930,-36 %,
+Sandbækvej 317570 Vemb,Vemb,1.150.000,16-12-2016,Alm. Salg,11.500,4,Stuehus,100,1892,,
+Bur Kirkevej 17570 Vemb,Vemb,25.500.000,16-12-2016,Alm. Salg,72.857,12,Stuehus,350,1919,,
+Sønderbyvej 37570 Vemb,Vemb,764.000,15-12-2016,Fam. Salg,4.835,5,Stuehus,158,1932,,
+Hasselvej 217570 Vemb,Vemb,1.675.000,12-12-2016,Alm. Salg,12.407,5,Villa,135,2008,-1 %,Aktuel værdi
+Damhusvej 507570 Vemb,Vemb,2.400.000,03-12-2016,Alm. Salg,14.545,5,Stuehus,165,1929,-8 %,
+Søndergade 117570 Vemb,Vemb,1.230.000,22-11-2016,Alm. Salg,9.318,6,Villa,132,1914,-4 %,Aktuel værdi
+Skolevej 6C7570 Vemb,Vemb,350.000,02-11-2016,Alm. Salg,4.605,2,Rækkehus,76,1979,-12 %,Aktuel værdi
+Bygaden 317570 Vemb,Vemb,275.383,20-10-2016,Auktion,2.503,3,Villa,110,1912,-30 %,Aktuel værdi
+Humlevænget 567570 Vemb,Vemb,152.351,13-10-2016,Auktion,1.928,3,Rækkehus,79,1979,,Aktuel værdi
+Skolegade 297570 Vemb,Vemb,478.665,13-10-2016,Alm. Salg,3.860,5,Villa,124,1934,-3 %,Aktuel værdi
+Chr. Schmidtsvej 117570 Vemb,Vemb,1.400.000,12-10-2016,Alm. Salg,8.284,4,Villa,169,1937,,Aktuel værdi
+Harpøtvej 547570 Vemb,Vemb,200.000,12-10-2016,Alm. Salg,3.076,4,Sommerhus,65,1996,,Aktuel værdi
+Skovvangvej 16B7570 Vemb,Vemb,20.125.000,11-10-2016,Andet,559.027,3,Villa,36,1920,,Aktuel værdi
+Øgelstrupvej 47570 Vemb,Vemb,720.000,06-10-2016,Auktion,5.142,5,Villa,140,1966,,Aktuel værdi
+Bigårdsvej 107570 Vemb,Vemb,630.000,06-10-2016,Alm. Salg,5.080,5,Villa,124,1975,,Aktuel værdi
+Skalstrupvej 617570 Vemb,Vemb,250.000,29-09-2016,Alm. Salg,1.851,5,Villa,135,1955,,Aktuel værdi
+Hyttevej 517570 Vemb,Vemb,345.000,20-09-2016,Alm. Salg,5.564,3,Sommerhus,62,1987,-8 %,Aktuel værdi
+Harpøtvej 1227570 Vemb,Vemb,133.000,19-09-2016,Fam. Salg,2.293,3,Sommerhus,58,1980,,Aktuel værdi
+Søndergade 347570 Vemb,Vemb,935.000,16-09-2016,Alm. Salg,8.657,6,Villa,108,1939,-1 %,Aktuel værdi
+Koldborgvej 57570 Vemb,Vemb,70.000,16-09-2016,Alm. Salg,823,3,Villa,85,1900,,Aktuel værdi
+Hyttevej 737570 Vemb,Vemb,345.000,31-08-2016,Alm. Salg,5.948,3,Sommerhus,58,1981,-13 %,Aktuel værdi
+Hyttevej 537570 Vemb,Vemb,385.000,29-08-2016,Alm. Salg,6.754,4,Sommerhus,57,1979,-3 %,Aktuel værdi
+Søndergårdsvej 17570 Vemb,Vemb,10.150.000,19-08-2016,Andet,47.877,6,Stuehus,212,1965,,
+Neesvej 13A7570 Vemb,Vemb,800.000,26-07-2016,Alm. Salg,5.194,3,Villa,154,1993,62 %,Aktuel værdi
+Humlevænget 657570 Vemb,Vemb,750.000,13-07-2016,Alm. Salg,5.859,5,Rækkehus,128,1979,,Aktuel værdi
+Burvej 337570 Vemb,Vemb,1.425.000,13-07-2016,Alm. Salg,7.916,5,Villa,180,1994,,Aktuel værdi
+Blomstervænget 57570 Vemb,Vemb,555.000,10-07-2016,Alm. Salg,5.606,4,Rækkehus,99,1985,-14 %,Aktuel værdi
+Egevej 17570 Vemb,Vemb,105.750,08-07-2016,Alm. Salg,423,9,Stuehus,250,1988,,
+Nøragervej 257570 Vemb,Vemb,8.900.000,24-06-2016,Alm. Salg,40.639,7,Stuehus,219,1918,,
+Harpøtvej 1407570 Vemb,Vemb,155.834,27-05-2016,Fam. Salg,2.164,3,Sommerhus,72,1976,,Aktuel værdi
+Fjordvejen 147570 Vemb,Vemb,1.000.000,23-05-2016,Alm. Salg,5.780,6,Stuehus,173,1935,,
+Blomstervænget 67570 Vemb,Vemb,675.000,13-05-2016,Alm. Salg,6.818,4,Rækkehus,99,1986,,Aktuel værdi
+Enghavevej 17570 Vemb,Vemb,825.000,09-05-2016,Alm. Salg,6.395,4,Villa,129,1962,-8 %,Aktuel værdi
+Nørregade 227570 Vemb,Vemb,450.000,08-05-2016,Alm. Salg,3.383,5,Villa,133,1900,-14 %,Aktuel værdi
+Harpøtvej 1127570 Vemb,Vemb,440.000,29-04-2016,Alm. Salg,7.857,3,Sommerhus,56,1974,-7 %,Aktuel værdi
+Kikkenborgvej 107570 Vemb,Vemb,24.000.000,13-04-2016,Alm. Salg,187.500,4,Villa,128,1984,,Aktuel værdi
+Neesvej 927570 Vemb,Vemb,8.220.000,08-04-2016,Alm. Salg,46.440,6,Stuehus,177,2005,,
+Råsted Kirkevej 57570 Vemb,Vemb,3.465.550,07-04-2016,Alm. Salg,11.551,8,Stuehus,300,1976,,
+Skalstrupvej 47570 Vemb,Vemb,2.737.500,06-04-2016,Alm. Salg,14.038,7,Stuehus,195,1912,,
+Skalstrupvej 837570 Vemb,Vemb,15.675.000,04-04-2016,Alm. Salg,66.987,7,Stuehus,234,1992,,
+Skalstrupvej 767570 Vemb,Vemb,57.617,31-03-2016,Auktion,320,4,Villa,180,1910,,Aktuel værdi
+Tangsgårdsvej 87570 Vemb,Vemb,1.400.000,31-03-2016,Alm. Salg,5.577,6,Villa,251,1908,-12 %,Aktuel værdi
+Nørregade 207570 Vemb,Vemb,285.000,24-03-2016,Alm. Salg,2.544,4,Villa,112,1900,-3 %,Aktuel værdi
+Råsted Kirkevej 97570 Vemb,Vemb,2.300.000,17-03-2016,Alm. Salg,11.111,6,Villa,207,1967,-10 %,Aktuel værdi
+Industrivej 207570 Vemb,Vemb,220.000,16-03-2016,Alm. Salg,2.500,3,Rækkehus,88,1978,-25 %,Aktuel værdi
+Neesvej 387570 Vemb,Vemb,700.000,02-03-2016,Alm. Salg,5.185,9,Engroshandel,135,1896,,Aktuel værdi
+Donskærvej 317570 Vemb,Vemb,9.750.000,25-02-2016,Auktion,42.576,7,Stuehus,229,1954,,
+Vestergade 367570 Vemb,Vemb,240.000,17-02-2016,Alm. Salg,2.666,4,Villa,90,1959,,Aktuel værdi
+Rørsgårdsvej 257570 Vemb,Vemb,2.695.000,11-02-2016,Alm. Salg,8.421,11,Stuehus,320,1923,,
+Kjærsvej 127570 Vemb,Vemb,80.000,05-02-2016,Alm. Salg,640,4,Villa,125,1927,,Aktuel værdi
+Kjærsvej 167570 Vemb,Vemb,510.000,18-01-2016,Alm. Salg,3.834,5,Villa,133,1915,-3 %,Aktuel værdi
+Fjordvejen 25A7570 Vemb,Vemb,34.967,06-01-2016,Alm. Salg,1.165,1,Fritid,30,1932,,Aktuel værdi
+Stensigvej 127570 Vemb,Vemb,1.636.000,20-12-2015,Alm. Salg,25.968,4,Stuehus,63,1913,,
+Skalstrupvej 307570 Vemb,Vemb,390.000,08-12-2015,Fam. Salg,3.333,4,Villa,117,1913,,Aktuel værdi
+Sønderbyvej 57570 Vemb,Vemb,1.100.470,08-12-2015,Fam. Salg,5.731,8,Villa,192,1902,,Aktuel værdi
+Skalstrupvej 57570 Vemb,Vemb,4.542.980,08-12-2015,Fam. Salg,31.992,5,Stuehus,142,1904,,
+Damhusvej 237570 Vemb,Vemb,110.000,08-12-2015,Fam. Salg,1.294,3,Villa,85,1877,,Aktuel værdi
+Neesvej 637570 Vemb,Vemb,250.000,03-12-2015,Fam. Salg,2.380,4,Villa,105,1960,,Aktuel værdi
+Bigårdsvej 197570 Vemb,Vemb,435.000,17-11-2015,Alm. Salg,3.815,4,Villa,114,1978,-12 %,Aktuel værdi
+Hyttevej 917570 Vemb,Vemb,765.000,06-11-2015,Alm. Salg,8.406,4,Sommerhus,91,2007,-3 %,Aktuel værdi
+Hyldevej 87570 Vemb,Vemb,1.240.000,02-11-2015,Alm. Salg,9.612,4,Villa,129,2010,-4 %,Aktuel værdi
+Hasselvej 67570 Vemb,Vemb,2.150.000,01-10-2015,Alm. Salg,12.951,5,Villa,166,2008,-4 %,Aktuel værdi
+Nørregade 257570 Vemb,Vemb,375.000,14-09-2015,Alm. Salg,2.586,4,Villa,145,1920,,Aktuel værdi
+Burvej 547570 Vemb,Vemb,350.000,04-09-2015,Alm. Salg,2.517,4,Villa,139,1944,-9 %,Aktuel værdi
+Ballesigvej 277570 Vemb,Vemb,570.000,01-09-2015,Alm. Salg,5.937,3,Villa,96,1942,-4 %,Aktuel værdi
+Burvej 507570 Vemb,Vemb,175.000,20-08-2015,Alm. Salg,813,9,Villa,215,1909,-29 %,Aktuel værdi
+Nørregade 167570 Vemb,Vemb,785.000,02-07-2015,Alm. Salg,8.722,5,Detailhandel,90,1915,,Aktuel værdi
+Skalstrupvej 1017570 Vemb,Vemb,2.100.000,29-06-2015,Alm. Salg,13.461,4,Stuehus,156,1957,,
+Øgelstrupvej 27570 Vemb,Vemb,3.500.000,24-06-2015,Alm. Salg,7.936,9,Stuehus,441,1800,,
+Fjordvejen 167570 Vemb,Vemb,245.000,21-05-2015,Alm. Salg,2.041,5,Villa,120,1914,0 %,Aktuel værdi
+Koldborgvej 87570 Vemb,Vemb,75.000,20-05-2015,Alm. Salg,572,4,Stuehus,131,1980,,
+Harpøtvej 347570 Vemb,Vemb,465.000,16-05-2015,Fam. Salg,6.118,4,Sommerhus,76,1987,,Aktuel værdi
+Blomstervænget 17570 Vemb,Vemb,500.000,11-05-2015,Alm. Salg,5.050,4,Rækkehus,99,1984,,Aktuel værdi
+Fjordvejen 127570 Vemb,Vemb,139.018,23-04-2015,Auktion,1.139,4,Villa,122,1956,,Aktuel værdi
+Burvej 417570 Vemb,Vemb,14.350.000,31-03-2015,Alm. Salg,90.251,8,Stuehus,159,1909,,
+Koldborgvej 117570 Vemb,Vemb,60.000,30-03-2015,Alm. Salg,750,2,Villa,80,1907,,Aktuel værdi
+Søndergade 227570 Vemb,Vemb,107.000,20-01-2015,Alm. Salg,660,6,Villa,162,1936,-64 %,Aktuel værdi
+Stationsvej 47570 Vemb,Vemb,1.525.000,10-01-2015,Alm. Salg,13.377,4,Villa,114,1930,,Aktuel værdi
+Søndergade 237570 Vemb,Vemb,430.000,23-12-2014,Alm. Salg,2.362,4,Villa,182,1877,-27 %,Aktuel værdi
+Sandbækvej 337570 Vemb,Vemb,1.155.000,18-12-2014,Auktion,5.179,7,Villa,223,2002,,Aktuel værdi
+Hvolbyvej 3A7570 Vemb,Vemb,1.228.612,18-12-2014,Fam. Salg,8.082,4,Stuehus,152,1978,,
+Nørgårdsvej 27570 Vemb,Vemb,290.000,18-12-2014,Alm. Salg,2.685,4,Villa,108,1960,,Aktuel værdi
+Hyttevej 997570 Vemb,Vemb,700.000,11-12-2014,Fam. Salg,8.045,3,Sommerhus,87,1972,,Aktuel værdi
+Hyttevej 757570 Vemb,Vemb,465.000,28-11-2014,Alm. Salg,7.750,4,Sommerhus,60,1973,-6 %,Aktuel værdi
+Nørregade 57570 Vemb,Vemb,100.000,14-11-2014,Alm. Salg,833,4,Rækkehus,120,1877,0 %,Aktuel værdi
+Sdr Hedegårdsvej 17570 Vemb,Vemb,375.000,14-11-2014,Alm. Salg,2.604,4,Villa,144,1930,-16 %,Aktuel værdi
+Stensigvej 57570 Vemb,Vemb,2.260.000,13-11-2014,Alm. Salg,32.285,3,Stuehus,70,1939,,
+Kikkenborgvej 17570 Vemb,Vemb,1.300.000,07-11-2014,Alm. Salg,11.926,2,Villa,109,1902,-3 %,Aktuel værdi
+Neesvej 937570 Vemb,Vemb,400.000,27-10-2014,Alm. Salg,3.361,4,Villa,119,1970,-33 %,Aktuel værdi
+Burvej 447570 Vemb,Vemb,395.000,20-10-2014,Alm. Salg,3.264,4,Villa,121,1916,-20 %,Aktuel værdi
+Harpøtvej 187570 Vemb,Vemb,800.000,10-10-2014,Alm. Salg,9.638,3,Sommerhus,83,2007,-2 %,Aktuel værdi
+Rørsgårdsvej 97570 Vemb,Vemb,750.000,03-10-2014,Alm. Salg,5.859,3,Villa,128,1969,-9 %,Aktuel værdi
+Bækbyvej 77570 Vemb,Vemb,795.000,20-09-2014,Alm. Salg,5.888,4,Stuehus,135,1907,-11 %,
+Burvej 227570 Vemb,Vemb,1.249.000,14-08-2014,Alm. Salg,9.757,5,Stuehus,128,1907,,
+Blommehaven 67570 Vemb,Vemb,100.000,13-08-2014,Alm. Salg,653,5,Rækkehus,153,2015,,Aktuel værdi
+Humlevænget 57570 Vemb,Vemb,540.433,11-08-2014,Alm. Salg,3.602,6,Villa,150,1958,,Aktuel værdi
+Idomvej 17570 Vemb,Vemb,625.000,08-08-2014,Alm. Salg,4.562,4,Villa,137,1910,-17 %,Aktuel værdi
+Damhusvej 387570 Vemb,Vemb,850.000,04-08-2014,Fam. Salg,7.327,3,Stuehus,116,1920,,
+Skolevej 6A7570 Vemb,Vemb,350.000,26-07-2014,Fam. Salg,4.605,3,Rækkehus,76,1979,,Aktuel værdi
+Alleen 27570 Vemb,Vemb,140.000,04-07-2014,Alm. Salg,1.707,6,Villa,82,1957,,Aktuel værdi
+Bigårdsvej 257570 Vemb,Vemb,387.000,02-06-2014,Alm. Salg,2.186,5,Villa,177,1914,-22 %,Aktuel værdi
+Nygade 87570 Vemb,Vemb,960.000,30-05-2014,Alm. Salg,7.680,3,Villa,125,1925,-4 %,Aktuel værdi
+Egevej 47570 Vemb,Vemb,255.000,28-05-2014,Alm. Salg,3.187,3,Villa,80,1960,,Aktuel værdi
+Nørrealle 17570 Vemb,Vemb,515.000,21-05-2014,Alm. Salg,5.852,3,Villa,88,1945,-6 %,Aktuel værdi
+Dinesensvej 27570 Vemb,Vemb,4.325.000,12-05-2014,Andet,50.290,4,Villa,86,1960,652 %,Aktuel værdi
+Hyttevej 977570 Vemb,Vemb,485.000,01-05-2014,Alm. Salg,6.217,4,Sommerhus,78,1980,-2 %,Aktuel værdi
+Hasselvej 227570 Vemb,Vemb,1.995.000,25-04-2014,Alm. Salg,11.946,6,Villa,167,2006,0 %,Aktuel værdi
+Vestergade 427570 Vemb,Vemb,895.000,25-04-2014,Alm. Salg,6.215,4,Villa,144,1932,,Aktuel værdi
+Stationsvej 37570 Vemb,Vemb,200.000,23-04-2014,Fam. Salg,682,10,Villa,293,1907,,Aktuel værdi
+Skolevej 407570 Vemb,Vemb,650.000,10-04-2014,Auktion,3.735,5,Villa,174,1900,-24 %,Aktuel værdi
+Hyttevej 937570 Vemb,Vemb,509.100,06-04-2014,Fam. Salg,6.973,4,Sommerhus,73,1978,,Aktuel værdi
+Vesteralle 107570 Vemb,Vemb,90.000,31-03-2014,Alm. Salg,656,5,Villa,137,1946,,Aktuel værdi
+Nørgårdsvej 167570 Vemb,Vemb,1.174.118,27-03-2014,Fam. Salg,7.724,5,Stuehus,152,2001,,
+Grønne Vej 57570 Vemb,Vemb,1.095.000,22-03-2014,Alm. Salg,4.845,7,Villa,226,1967,0 %,Aktuel værdi
+Damhusvej 27570 Vemb,Vemb,1.395.000,15-03-2014,Alm. Salg,6.428,6,Villa,217,1952,0 %,Aktuel værdi
+Skalstrupvej 127570 Vemb,Vemb,6.025.000,04-03-2014,Alm. Salg,38.870,6,Stuehus,155,1929,,
+Neesvej 547570 Vemb,Vemb,170.000,21-02-2014,Alm. Salg,1.360,5,Villa,125,1973,-8 %,Aktuel værdi
+Stenumvej 97570 Vemb,Vemb,2.041.000,11-02-2014,Fam. Salg,13.606,4,Stuehus,150,1920,,
+Nøragervej 17570 Vemb,Vemb,300.000,07-02-2014,Alm. Salg,2.000,5,Villa,150,1979,,Aktuel værdi
+Bygaden 237570 Vemb,Vemb,58.000,06-02-2014,Auktion,464,4,Villa,125,1910,,Aktuel værdi
+Humlevænget 187570 Vemb,Vemb,825.000,28-01-2014,Alm. Salg,6.547,4,Villa,126,1978,-6 %,Aktuel værdi
+Nørrealle 77570 Vemb,Vemb,255.000,18-01-2014,Alm. Salg,2.833,4,Villa,90,1964,-12 %,Aktuel værdi
+Fjordvejen 47570 Vemb,Vemb,368.812,17-01-2014,Fam. Salg,3.207,4,Villa,115,1926,,Aktuel værdi
+Ballesigvej 147570 Vemb,Vemb,990.000,16-01-2014,Alm. Salg,7.071,3,Villa,140,1912,-1 %,Aktuel værdi
+Møborgåvej 27570 Vemb,Vemb,12.037.000,15-01-2014,Alm. Salg,44.581,11,Stuehus,270,1929,,
+Bygaden 37570 Vemb,Vemb,300.000,15-01-2014,Alm. Salg,3.370,3,Villa,89,1960,-38 %,Aktuel værdi
+Kjærsvej 117570 Vemb,Vemb,200.000,13-01-2014,Alm. Salg,-,5,Villa,126,1952,-49 %,Aktuel værdi
+Skolegade 357570 Vemb,Vemb,569.500,19-12-2013,Alm. Salg,4.380,5,Villa,130,1961,,Aktuel værdi
+Gørdingvej 77570 Vemb,Vemb,620.000,05-12-2013,Auktion,3.351,8,Stuehus,185,1906,,
+Hasselvej 97570 Vemb,Vemb,1.350.000,21-10-2013,Alm. Salg,8.823,5,Villa,153,1999,-7 %,Aktuel værdi
+Bigårdsvej 337570 Vemb,Vemb,518.000,16-09-2013,Alm. Salg,3.647,4,Villa,142,1976,,Aktuel værdi
+Rosenvænget 37570 Vemb,Vemb,845.000,22-08-2013,Alm. Salg,7.971,4,Villa,106,1967,0 %,Aktuel værdi
+Kikkenborgvej 587570 Vemb,Vemb,445.000,26-07-2013,Alm. Salg,5.705,4,Villa,78,1930,-10 %,Aktuel værdi
+Skovvangvej 237570 Vemb,Vemb,1.275.000,24-06-2013,Alm. Salg,7.083,6,Villa,180,1861,-9 %,Aktuel værdi
+Burvej 397570 Vemb,Vemb,1.350.000,06-06-2013,Alm. Salg,9.000,5,Villa,150,1960,-3 %,Aktuel værdi
+Harpøtvej 827570 Vemb,Vemb,474.000,03-06-2013,Alm. Salg,7.900,4,Sommerhus,60,1987,-5 %,Aktuel værdi
+Sandbækvej 277570 Vemb,Vemb,210.000,24-05-2013,Alm. Salg,2.282,4,Villa,92,1938,,Aktuel værdi
+Søndergade 77570 Vemb,Vemb,275.000,24-05-2013,Alm. Salg,1.858,4,Villa,148,1908,-21 %,Aktuel værdi
+Enghavevej 117570 Vemb,Vemb,1.025.000,17-05-2013,Alm. Salg,6.406,5,Villa,160,1967,-9 %,Aktuel værdi
+Nørregade 577570 Vemb,Vemb,558.500,16-05-2013,Auktion,3.960,5,Villa,141,1978,,Aktuel værdi
+Skolevej 57570 Vemb,Vemb,400.000,08-05-2013,Alm. Salg,3.703,4,Villa,108,1965,-35 %,Aktuel værdi
+Humlevænget 547570 Vemb,Vemb,1.200.000,29-04-2013,Alm. Salg,7.317,6,Villa,164,1976,-7 %,Aktuel værdi
+Neesvej 1077570 Vemb,Vemb,290.000,18-04-2013,Alm. Salg,2.589,5,Villa,112,1860,-2 %,Aktuel værdi
+Æblehaven 87570 Vemb,Vemb,740.000,28-03-2013,Alm. Salg,3.333,8,Villa,222,1971,,Aktuel værdi
+Råsted Kirkevej 127570 Vemb,Vemb,3.800.000,15-03-2013,Alm. Salg,22.093,6,Stuehus,172,1907,,
+Bundgårdvej 87570 Vemb,Vemb,840.000,13-03-2013,Alm. Salg,3.636,9,Stuehus,231,1978,-4 %,
+Enghavevej 107570 Vemb,Vemb,775.000,11-03-2013,Alm. Salg,7.175,3,Villa,108,1967,-6 %,Aktuel værdi
+Harpøtvej 1287570 Vemb,Vemb,1.100.000,04-03-2013,Alm. Salg,12.941,4,Sommerhus,85,1975,-8 %,Aktuel værdi
+Rørsgårdsvej 37570 Vemb,Vemb,465.619,27-02-2013,Alm. Salg,3.063,6,Villa,152,1968,,Aktuel værdi
+Lyngholmvej 37570 Vemb,Vemb,9.750.000,20-02-2013,Alm. Salg,56.686,5,Stuehus,172,1912,,
+Knudsigvej 37570 Vemb,Vemb,12.300.000,18-02-2013,Alm. Salg,44.565,7,Stuehus,276,2008,,
+Fjordvejen 5A7570 Vemb,Vemb,75.000,18-02-2013,Alm. Salg,625,6,Stuehus,120,1877,,
+Humlevænget 397570 Vemb,Vemb,600.000,25-01-2013,Alm. Salg,4.411,4,Villa,136,1977,-11 %,Aktuel værdi
+Kjærsvej 227570 Vemb,Vemb,760.000,18-01-2013,Alm. Salg,8.172,3,Villa,93,1959,,Aktuel værdi
+Nørtoftvej 77570 Vemb,Vemb,492.915,17-01-2013,Alm. Salg,3.597,7,Villa,137,1914,,Aktuel værdi
+Bigårdsvej 137570 Vemb,Vemb,995.000,07-01-2013,Alm. Salg,7.896,4,Villa,126,1978,0 %,Aktuel værdi
+Knudehus 337570 Vemb,Vemb,740.000,17-12-2012,Alm. Salg,6.851,4,Sommerhus,108,2005,,Aktuel værdi
+Sandbækvej 47570 Vemb,Vemb,495.000,04-12-2012,Alm. Salg,5.500,3,Sommerhus,90,1850,,Aktuel værdi
+Vestergade 157570 Vemb,Vemb,260.000,30-11-2012,Alm. Salg,1.830,6,Villa,142,1940,-26 %,Aktuel værdi
+Æblehaven 197570 Vemb,Vemb,468.000,23-11-2012,Alm. Salg,3.545,4,Villa,132,1984,,Aktuel værdi
+Nørrealle 107570 Vemb,Vemb,475.000,15-11-2012,Alm. Salg,2.896,5,Villa,164,1951,-20 %,Aktuel værdi
+Neesvej 1217570 Vemb,Vemb,595.000,10-11-2012,Fam. Salg,4.958,4,Sommerhus,120,1830,,Aktuel værdi
+Chr. Schmidtsvej 177570 Vemb,Vemb,70.000,01-11-2012,Alm. Salg,1.014,2,Villa,69,1935,,Aktuel værdi
+Skolegade 87570 Vemb,Vemb,190.000,30-10-2012,Alm. Salg,1.759,4,Villa,108,1932,-16 %,Aktuel værdi
+Damhusvej 57570 Vemb,Vemb,982.000,03-10-2012,Alm. Salg,4.959,8,Villa,198,1973,-6 %,Aktuel værdi
+Præstegårdsvej 107570 Vemb,Vemb,570.000,02-10-2012,Alm. Salg,4.523,4,Villa,126,1908,-12 %,Aktuel værdi
+Kløvervænget 17570 Vemb,Vemb,394.783,11-09-2012,Alm. Salg,3.183,4,Villa,124,1972,,Aktuel værdi
+Skolegade 277570 Vemb,Vemb,541.238,10-09-2012,Fam. Salg,5.819,3,Villa,93,1936,,Aktuel værdi
+Bygaden 227570 Vemb,Vemb,800.000,07-09-2012,Alm. Salg,5.925,3,Villa,135,1991,-10 %,Aktuel værdi
+Hyttevej 1037570 Vemb,Vemb,850.000,24-08-2012,Alm. Salg,10.119,5,Sommerhus,84,1983,-15 %,Aktuel værdi
+Fjordvejen 247570 Vemb,Vemb,425.000,17-08-2012,Alm. Salg,-,6,Villa,156,1934,-19 %,Aktuel værdi
+Råsted Kirkevej 287570 Vemb,Vemb,1.625.000,10-08-2012,Alm. Salg,12.404,5,Villa,131,1982,-14 %,Aktuel værdi
+Hyttevej 177570 Vemb,Vemb,772.500,06-08-2012,Alm. Salg,12.070,2,Sommerhus,64,2009,-3 %,Aktuel værdi
+Skolevej 197570 Vemb,Vemb,750.000,12-07-2012,Fam. Salg,4.870,3,Villa,154,1973,,Aktuel værdi
+Burvej 777570 Vemb,Vemb,1.700.000,12-07-2012,Fam. Salg,9.604,5,Villa,177,1968,,Aktuel værdi
+Nørtoftvej 187570 Vemb,Vemb,625.000,11-07-2012,Alm. Salg,4.032,7,Villa,155,1956,,Aktuel værdi
+Knudehus 317570 Vemb,Vemb,750.000,21-06-2012,Auktion,6.944,4,Sommerhus,108,2005,,Aktuel værdi
+Skolevej 147570 Vemb,Vemb,800.000,07-06-2012,Alm. Salg,6.400,4,Villa,125,1978,-10 %,Aktuel værdi
+Harpøtvej 727570 Vemb,Vemb,618.000,03-06-2012,Alm. Salg,9.088,4,Sommerhus,68,1976,-6 %,Aktuel værdi
+Skalstrupvej 67570 Vemb,Vemb,330.960,31-05-2012,Alm. Salg,2.928,6,Stuehus,113,1890,,
+Skolevej 4A7570 Vemb,Vemb,275.000,14-05-2012,Alm. Salg,3.618,2,Villa,76,1980,,Aktuel værdi
+Enghavevej 147570 Vemb,Vemb,1.085.000,17-04-2012,Alm. Salg,6.867,4,Villa,158,1972,-1 %,Aktuel værdi
+Skolevej 167570 Vemb,Vemb,810.000,26-03-2012,Alm. Salg,5.000,7,Villa,162,1975,-4 %,Aktuel værdi
+Skolegade 77570 Vemb,Vemb,280.000,12-01-2012,Auktion,2.000,4,Villa,140,1920,,Aktuel værdi
+Stenumvej 77570 Vemb,Vemb,3.537.718,14-12-2011,Fam. Salg,12.634,8,Stuehus,280,1952,,
+Nørregade 417570 Vemb,Vemb,285.000,08-12-2011,Auktion,1.979,5,Villa,144,1924,-61 %,Aktuel værdi
+Golfsvinget 507570 Vemb,Vemb,175.000,05-12-2011,Alm. Salg,3.723,3,Sommerhus,47,2013,,Aktuel værdi
+Hedevej 217570 Vemb,Vemb,3.750.000,28-11-2011,Alm. Salg,42.613,3,Stuehus,88,1956,582 %,
+Nørrealle 137570 Vemb,Vemb,150.000,03-11-2011,Auktion,892,5,Villa,168,1960,,Aktuel værdi
+Skalstrupvej 877570 Vemb,Vemb,1.900.000,12-10-2011,Alm. Salg,6.462,8,Stuehus,294,1876,-13 %,
+Humlevænget 247570 Vemb,Vemb,695.000,03-09-2011,Alm. Salg,5.743,5,Villa,121,1980,-4 %,Aktuel værdi
+Bigårdsvej 277570 Vemb,Vemb,760.000,01-09-2011,Alm. Salg,6.129,4,Villa,124,1976,,Aktuel værdi
+Bigårdsvej 67570 Vemb,Vemb,650.000,25-08-2011,Alm. Salg,6.132,4,Villa,106,1976,0 %,Aktuel værdi
+Skalstrupvej 577570 Vemb,Vemb,244.000,16-08-2011,Alm. Salg,1.326,7,Villa,184,1842,,Aktuel værdi
+Bygaden 277570 Vemb,Vemb,225.000,04-08-2011,Alm. Salg,2.743,4,Villa,82,1877,-53 %,Aktuel værdi
+Bigårdsvej 457570 Vemb,Vemb,550.000,21-07-2011,Alm. Salg,-,4,Villa,153,1975,-21 %,Aktuel værdi
+Kløvervænget 57570 Vemb,Vemb,775.000,21-07-2011,Alm. Salg,4.100,6,Villa,189,1972,-12 %,Aktuel værdi
+Vestergade 227570 Vemb,Vemb,451.739,06-07-2011,Fam. Salg,3.529,5,Villa,128,1920,,Aktuel værdi
+Humlevænget 267570 Vemb,Vemb,2.095.000,05-07-2011,Alm. Salg,11.026,6,Villa,190,2007,0 %,Aktuel værdi
+Skolevej 27570 Vemb,Vemb,475.000,28-06-2011,Alm. Salg,4.094,4,Villa,116,1976,-4 %,Aktuel værdi
+Tangsgårdsvej 27570 Vemb,Vemb,387.500,23-06-2011,Alm. Salg,3.836,4,Villa,101,1900,-14 %,Aktuel værdi
+Nørrealle 157570 Vemb,Vemb,400.000,15-06-2011,Alm. Salg,3.508,4,Villa,114,1959,-11 %,Aktuel værdi
+Bigårdsvej 157570 Vemb,Vemb,1.215.000,01-06-2011,Alm. Salg,8.678,5,Villa,140,1979,-3 %,Aktuel værdi
+Nørregade 40A7570 Vemb,Vemb,678.750,20-05-2011,Alm. Salg,5.430,4,Villa,125,1973,,Aktuel værdi
+Nørtoftvej 197570 Vemb,Vemb,11.681.848,16-05-2011,Alm. Salg,56.984,8,Stuehus,205,1955,,
+Humlevænget 637570 Vemb,Vemb,470.000,16-05-2011,Alm. Salg,5.949,3,Rækkehus,79,1979,,Aktuel værdi
+Fjordvejen 187570 Vemb,Vemb,385.600,16-05-2011,Alm. Salg,3.213,4,Stuehus,120,1865,,
+Fousingvej 1A7570 Vemb,Vemb,120.000,16-05-2011,Alm. Salg,480,7,Stuehus,250,1899,,
+Fælledvej 57570 Vemb,Vemb,136.000,16-05-2011,Alm. Salg,894,6,Stuehus,152,1904,,
+Vestergade 257570 Vemb,Vemb,765.000,11-05-2011,Alm. Salg,4.526,6,Villa,169,1964,-4 %,Aktuel værdi
+Hestbækvej 147570 Vemb,Vemb,287.875,03-05-2011,Alm. Salg,3.690,3,Villa,78,1940,,Aktuel værdi
+"Stationsvej 6, 17570 Vemb",Vemb,1.200.000,04-04-2011,Alm. Salg,5.581,6,Anden beboelse,215,1880,,Aktuel værdi
+Søndergade 207570 Vemb,Vemb,400.000,02-04-2011,Alm. Salg,2.919,7,Villa,137,1902,-18 %,Aktuel værdi
+Koldborgvej 127570 Vemb,Vemb,1.525.000,01-04-2011,Alm. Salg,9.531,5,Villa,160,1859,-2 %,Aktuel værdi
+Skolevej 247570 Vemb,Vemb,500.000,25-03-2011,Alm. Salg,4.132,4,Villa,121,1975,-16 %,Aktuel værdi
+Fjordvejen 97570 Vemb,Vemb,2.250.000,25-03-2011,Alm. Salg,-,6,Villa,315,1998,0 %,Aktuel værdi
+Burvej 247570 Vemb,Vemb,750.000,11-03-2011,Alm. Salg,3.787,7,Villa,198,1916,,Aktuel værdi
+Dinesensvej 67570 Vemb,Vemb,1.070.000,10-02-2011,Alm. Salg,10.288,3,Villa,104,1998,-10 %,Aktuel værdi
+Hasselvej 87570 Vemb,Vemb,2.200.000,07-02-2011,Fam. Salg,13.017,5,Villa,169,2002,,Aktuel værdi
+"Stationsvej 2, 17570 Vemb",Vemb,1.670.291,07-02-2011,Fam. Salg,11.930,4,Lejlighed,140,1935,,Aktuel værdi
+Rørsgårdsvej 237570 Vemb,Vemb,440.000,07-02-2011,Alm. Salg,2.732,6,Villa,161,1907,-16 %,Aktuel værdi
+Hestbækvej 27570 Vemb,Vemb,1.190.000,03-02-2011,Alm. Salg,7.437,4,Villa,160,1965,-5 %,Aktuel værdi
+Vesteralle 67570 Vemb,Vemb,667.500,25-01-2011,Alm. Salg,5.656,4,Villa,118,1965,-3 %,Aktuel værdi
+Fjordvejen 157570 Vemb,Vemb,905.000,12-01-2011,Fam. Salg,6.198,3,Stuehus,146,1925,,
+Damhusvej 217570 Vemb,Vemb,2.480.000,04-01-2011,Alm. Salg,17.714,4,Stuehus,140,1901,-24 %,
+Bigårdsvej 217570 Vemb,Vemb,1.050.000,22-12-2010,Alm. Salg,8.267,4,Villa,127,1994,-8 %,Aktuel værdi
+Humlevænget 30B7570 Vemb,Vemb,905.000,17-12-2010,Alm. Salg,7.298,4,Villa,124,1977,-16 %,Aktuel værdi
+Hyttevej 697570 Vemb,Vemb,542.000,06-12-2010,Alm. Salg,7.424,4,Sommerhus,73,1978,-9 %,Aktuel værdi
+Færgevej 117570 Vemb,Vemb,680.000,29-11-2010,Alm. Salg,22.666,2,Sommerhus,30,1960,-14 %,Aktuel værdi
+Skalstrupvej 137570 Vemb,Vemb,1.060.000,22-11-2010,Alm. Salg,-,8,Stuehus,242,1934,,
+Humlevænget 617570 Vemb,Vemb,475.000,08-11-2010,Alm. Salg,6.012,3,Rækkehus,79,1979,-10 %,Aktuel værdi
+Kikkenborgvej 447570 Vemb,Vemb,311.392,27-10-2010,Alm. Salg,2.048,4,Villa,152,1911,,Aktuel værdi
+Enghavevej 177570 Vemb,Vemb,735.000,24-09-2010,Alm. Salg,4.298,6,Villa,171,1967,-18 %,Aktuel værdi
+Møborgåvej 17570 Vemb,Vemb,2.045.000,20-09-2010,Alm. Salg,18.097,4,Stuehus,113,1941,,
+Neesvej 147570 Vemb,Vemb,400.000,09-09-2010,Alm. Salg,3.361,3,Villa,119,1900,-27 %,Aktuel værdi
+Sønderbyvej 17570 Vemb,Vemb,995.000,28-08-2010,Alm. Salg,5.621,5,Villa,177,1957,0 %,Aktuel værdi
+Alleen 37570 Vemb,Vemb,800.000,29-07-2010,Fam. Salg,5.839,7,Villa,137,1931,,Aktuel værdi
+Neesvej 877570 Vemb,Vemb,875.000,20-07-2010,Alm. Salg,5.952,5,Villa,147,1977,-2 %,Aktuel værdi
+Fjordvejen 67570 Vemb,Vemb,450.000,19-07-2010,Alm. Salg,2.647,6,Villa,170,1930,-31 %,Aktuel værdi
+Bygaden 357570 Vemb,Vemb,700.000,16-07-2010,Alm. Salg,4.729,5,Villa,148,1951,-5 %,Aktuel værdi
+Burvej 367570 Vemb,Vemb,1.060.000,01-07-2010,Alm. Salg,6.463,5,Stuehus,164,1900,,
+Ballesigvej 177570 Vemb,Vemb,1.300.000,26-06-2010,Alm. Salg,8.280,5,Villa,157,1987,-19 %,Aktuel værdi
+Humlevænget 117570 Vemb,Vemb,1.250.000,10-06-2010,Alm. Salg,8.620,6,Villa,145,1979,,Aktuel værdi
+Alleen 87570 Vemb,Vemb,1.295.000,09-06-2010,Alm. Salg,11.163,4,Villa,116,1941,-7 %,Aktuel værdi
+Skolevej 377570 Vemb,Vemb,517.500,20-05-2010,Alm. Salg,3.618,6,Villa,143,1978,,Aktuel værdi
+Bigårdsvej 377570 Vemb,Vemb,735.000,19-05-2010,Alm. Salg,6.228,4,Villa,118,1976,-1 %,Aktuel værdi
+Hyldevej 167570 Vemb,Vemb,1.695.000,01-05-2010,Alm. Salg,9.469,5,Villa,179,2008,0 %,Aktuel værdi
+Skalstrupvej 17570 Vemb,Vemb,200.000,23-04-2010,Alm. Salg,1.680,4,Villa,119,1927,-20 %,Aktuel værdi
+Skalstrupvej 627570 Vemb,Vemb,275.000,31-03-2010,Alm. Salg,2.235,5,Villa,123,1939,-29 %,Aktuel værdi
+Dinesensvej 17570 Vemb,Vemb,1.350.000,20-03-2010,Alm. Salg,5.252,5,Villa,257,1970,-3 %,Aktuel værdi
+Harpøtvej 667570 Vemb,Vemb,280.000,17-03-2010,Alm. Salg,5.600,3,Sommerhus,50,1980,,Aktuel værdi
+Vembvej 147570 Vemb,Vemb,640.000,25-02-2010,Alm. Salg,4.571,6,Stuehus,140,1914,,
+Vestergade 377570 Vemb,Vemb,872.000,19-02-2010,Alm. Salg,5.450,4,Villa,160,1956,,Aktuel værdi
+Burvej 737570 Vemb,Vemb,570.000,31-01-2010,Alm. Salg,5.757,4,Villa,99,1954,-10 %,Aktuel værdi
+Humlevænget 17570 Vemb,Vemb,3.148.800,11-01-2010,Fam. Salg,20.314,4,Villa,155,1978,,Aktuel værdi
+Kjærsvej 207570 Vemb,Vemb,965.000,05-01-2010,Alm. Salg,-,8,Villa,200,1940,-3 %,Aktuel værdi
+Vestergade 127570 Vemb,Vemb,400.000,15-12-2009,Fam. Salg,4.545,5,Villa,88,1910,,Aktuel værdi
+Tangsgårdsvej 37570 Vemb,Vemb,695.000,12-12-2009,Alm. Salg,10.859,2,Villa,64,1954,0 %,Aktuel værdi
+Fjordvejen 37570 Vemb,Vemb,490.000,24-11-2009,Alm. Salg,5.000,3,Villa,98,1940,,Aktuel værdi
+Nørgårdsvej 227570 Vemb,Vemb,500.000,11-11-2009,Alm. Salg,2.777,6,Stuehus,180,1917,,
+Kløvervænget 77570 Vemb,Vemb,398.925,04-11-2009,Alm. Salg,2.849,5,Villa,140,1973,,Aktuel værdi
+Neesvej 507570 Vemb,Vemb,290.000,01-11-2009,Alm. Salg,1.361,7,Villa,213,1913,-11 %,Aktuel værdi
+Skalstrupvej 77570 Vemb,Vemb,670.000,26-10-2009,Andet,5.317,3,Villa,126,1918,,Aktuel værdi
+Harpøtvej 147570 Vemb,Vemb,670.000,25-08-2009,Alm. Salg,10.983,4,Sommerhus,61,1986,-4 %,Aktuel værdi
+Skolevej 257570 Vemb,Vemb,900.000,24-08-2009,Alm. Salg,4.761,6,Villa,189,1974,-10 %,Aktuel værdi
+Bygaden 107570 Vemb,Vemb,800.000,22-08-2009,Alm. Salg,4.145,4,Rækkehus,193,1909,-7 %,Aktuel værdi
+Burvej 427570 Vemb,Vemb,1.025.000,21-08-2009,Alm. Salg,7.884,5,Stuehus,130,1880,-6 %,
+Skolevej 31B7570 Vemb,Vemb,495.000,19-08-2009,Alm. Salg,6.875,3,Rækkehus,72,1978,0 %,Aktuel værdi
+Nørrealle 207570 Vemb,Vemb,545.000,17-08-2009,Alm. Salg,4.160,4,Villa,131,1958,0 %,Aktuel værdi
+Hyttevej 17570 Vemb,Vemb,535.000,11-08-2009,Alm. Salg,7.430,4,Sommerhus,72,1988,,Aktuel værdi
+Søndergade 127570 Vemb,Vemb,850.000,18-07-2009,Alm. Salg,5.029,5,Villa,169,1918,-10 %,Aktuel værdi
+Skalstrupvej 977570 Vemb,Vemb,700.000,15-07-2009,Alm. Salg,4.861,4,Villa,144,1983,,Aktuel værdi
+Nygade 107570 Vemb,Vemb,280.000,29-06-2009,Alm. Salg,3.333,3,Villa,84,1920,-14 %,Aktuel værdi
+Chr. Schmidtsvej 217570 Vemb,Vemb,750.000,19-06-2009,Alm. Salg,3.260,5,Villa,230,1963,-12 %,Aktuel værdi
+Burvej 77570 Vemb,Vemb,740.000,02-06-2009,Alm. Salg,6.434,3,Villa,115,1923,-7 %,Aktuel værdi
+Hyttevej 57570 Vemb,Vemb,259.306,01-06-2009,Fam. Salg,3.457,4,Sommerhus,75,1987,,Aktuel værdi
+Skalstrupvej 847570 Vemb,Vemb,1.000.000,29-05-2009,Alm. Salg,6.060,6,Stuehus,165,1942,,
+Kikkenborgvej 467570 Vemb,Vemb,1.000.000,29-05-2009,Alm. Salg,5.263,9,Stuehus,190,1924,,
+Enghavevej 127570 Vemb,Vemb,775.000,14-05-2009,Alm. Salg,5.308,4,Villa,146,1966,-3 %,Aktuel værdi
+Knudehus 57570 Vemb,Vemb,1.250.000,07-05-2009,Alm. Salg,13.297,4,Sommerhus,94,2009,-16 %,Aktuel værdi
+Sandbækvej 97570 Vemb,Vemb,1.200.000,19-04-2009,Fam. Salg,12.000,2,Stuehus,100,1850,,
+Præstegårdsvej 207570 Vemb,Vemb,1.625.000,08-04-2009,Alm. Salg,-,12,Villa,395,1961,,Aktuel værdi
+Humlevænget 517570 Vemb,Vemb,757.000,26-03-2009,Alm. Salg,6.104,4,Villa,124,1976,-5 %,Aktuel værdi
+Damhusvej 147570 Vemb,Vemb,585.000,24-03-2009,Alm. Salg,4.957,5,Villa,118,1931,-2 %,Aktuel værdi
+Skalstrupvej 417570 Vemb,Vemb,10.187.100,18-02-2009,Fam. Salg,59.227,6,Stuehus,172,1898,,
+Harpøtvej 1327570 Vemb,Vemb,1.060.000,17-02-2009,Alm. Salg,10.192,6,Sommerhus,104,1986,,Aktuel værdi
+Skovvangvej 157570 Vemb,Vemb,600.000,02-02-2009,Fam. Salg,2.666,8,Villa,225,1976,,Aktuel værdi
+Neesvej 117570 Vemb,Vemb,6.600.000,21-01-2009,Alm. Salg,25.000,7,Stuehus,264,1975,,
+Hvolbyvej 27570 Vemb,Vemb,3.000.000,30-12-2008,Fam. Salg,13.392,8,Stuehus,224,1972,,
+Hvolbyvej 47570 Vemb,Vemb,2.085.000,30-12-2008,Alm. Salg,19.305,5,Stuehus,108,1877,,
+Burvej 407570 Vemb,Vemb,725.000,21-11-2008,Alm. Salg,6.250,3,Villa,116,1927,-3 %,Aktuel værdi
+Planteskolevej 17570 Vemb,Vemb,700.000,07-11-2008,Alm. Salg,3.431,4,Villa,204,1959,-8 %,Aktuel værdi
+Bygaden 337570 Vemb,Vemb,730.000,05-11-2008,Alm. Salg,5.840,5,Villa,125,1960,-14 %,Aktuel værdi
+Damhusvej 197570 Vemb,Vemb,1.138.000,27-10-2008,Alm. Salg,7.341,5,Villa,155,1910,-1 %,Aktuel værdi
+Skolegade 437570 Vemb,Vemb,375.000,16-10-2008,Alm. Salg,4.310,3,Villa,87,1960,-24 %,Aktuel værdi
+Bygaden 377570 Vemb,Vemb,4.780.565,13-10-2008,Alm. Salg,29.509,6,Stuehus,162,1920,,
+Lindtorpvej 127570 Vemb,Vemb,1.500.000,01-10-2008,Alm. Salg,6.880,8,Stuehus,218,1937,,
+Dinesensvej 57570 Vemb,Vemb,1.470.000,26-09-2008,Alm. Salg,6.391,9,Villa,230,1963,,Aktuel værdi
+Søndergade 37570 Vemb,Vemb,410.000,12-09-2008,Fam. Salg,1.589,9,Villa,258,1908,,Aktuel værdi
+Neesvej 287570 Vemb,Vemb,395.000,12-09-2008,Alm. Salg,2.947,4,Villa,134,1917,-7 %,Aktuel værdi
+Sdr Hedegårdsvej 67570 Vemb,Vemb,1.175.000,22-08-2008,Alm. Salg,7.035,6,Villa,167,1937,-2 %,Aktuel værdi
+Skalstrupvej 957570 Vemb,Vemb,2.850.000,12-08-2008,Alm. Salg,18.037,6,Stuehus,158,1958,,
+Søndergade 247570 Vemb,Vemb,465.000,27-07-2008,Alm. Salg,3.297,5,Villa,141,1915,-6 %,Aktuel værdi
+Kjærsvej 57570 Vemb,Vemb,360.000,26-07-2008,Alm. Salg,5.000,6,Villa,72,1937,-9 %,Aktuel værdi
+Neesvej 967570 Vemb,Vemb,360.000,25-07-2008,Alm. Salg,4.444,3,Villa,81,1860,-15 %,Aktuel værdi
+Æblehaven 77570 Vemb,Vemb,995.000,01-07-2008,Alm. Salg,7.537,5,Villa,132,1971,,Aktuel værdi
+Æblehaven 97570 Vemb,Vemb,900.000,30-06-2008,Alm. Salg,6.338,5,Villa,142,1972,-3 %,Aktuel værdi
+Humlevænget 217570 Vemb,Vemb,1.250.000,13-06-2008,Alm. Salg,8.333,5,Villa,150,1978,,Aktuel værdi
+Nørregade 387570 Vemb,Vemb,500.000,02-06-2008,Alm. Salg,5.494,3,Villa,91,1941,-5 %,Aktuel værdi
+Kjærsvej 37570 Vemb,Vemb,650.000,29-05-2008,Alm. Salg,2.888,9,Biograf o.l.,225,1935,,Aktuel værdi
+Enghavevej 37570 Vemb,Vemb,840.000,25-05-2008,Alm. Salg,6.720,4,Villa,125,1900,-1 %,Aktuel værdi
+Planteskolevej 27570 Vemb,Vemb,387.500,24-04-2008,Alm. Salg,1.937,7,Villa,200,1969,,Aktuel værdi
+Harpøtvej 47570 Vemb,Vemb,520.000,21-03-2008,Alm. Salg,9.122,3,Sommerhus,57,1974,-5 %,Aktuel værdi
+Nørtoftvej 167570 Vemb,Vemb,750.000,14-03-2008,Alm. Salg,4.310,4,Villa,174,1955,-6 %,Aktuel værdi
+Skolevej 277570 Vemb,Vemb,650.000,10-03-2008,Alm. Salg,6.500,4,Villa,100,1960,0 %,Aktuel værdi
+Vestergade 107570 Vemb,Vemb,500.000,06-03-2008,Alm. Salg,2.645,5,Rækkehus,189,1900,,Aktuel værdi
+Skolevej 307570 Vemb,Vemb,1.170.000,29-02-2008,Alm. Salg,6.964,7,Villa,168,1978,,Aktuel værdi
+"Bygaden 14, 17570 Vemb",Vemb,600.000,01-02-2008,Alm. Salg,4.166,6,Lejlighed,144,1923,,Aktuel værdi
+Møborgåvej 77570 Vemb,Vemb,1.844.500,01-02-2008,Alm. Salg,13.269,5,Stuehus,139,1916,0 %,
+Damhusvej 157570 Vemb,Vemb,700.000,31-01-2008,Alm. Salg,3.703,6,Villa,189,1777,,Aktuel værdi
+Dinesensvej 37570 Vemb,Vemb,1.100.000,17-01-2008,Alm. Salg,5.759,6,Villa,191,1964,,Aktuel værdi
+Knudsigvej 17570 Vemb,Vemb,370.000,18-12-2007,Fam. Salg,3.854,3,Villa,96,1960,,Aktuel værdi
+Nørtoftvej 217570 Vemb,Vemb,6.703.995,18-12-2007,Fam. Salg,35.470,4,Stuehus,189,1956,,
+Nørrealle 47570 Vemb,Vemb,835.000,21-11-2007,Alm. Salg,6.680,5,Villa,125,1935,-1 %,Aktuel værdi
+Nørregade 347570 Vemb,Vemb,720.000,09-11-2007,Alm. Salg,7.058,4,Villa,102,1926,0 %,Aktuel værdi
+Skalstrupvej 537570 Vemb,Vemb,574.000,07-11-2007,Alm. Salg,5.466,3,Villa,105,1960,,Aktuel værdi
+Koldborgvej 77570 Vemb,Vemb,250.000,07-11-2007,Fam. Salg,3.125,3,Sommerhus,80,1830,,Aktuel værdi
+Alleen 47570 Vemb,Vemb,380.000,02-11-2007,Alm. Salg,5.671,3,Villa,67,1947,-12 %,Aktuel værdi
+Burvej 597570 Vemb,Vemb,480.000,22-10-2007,Alm. Salg,5.217,3,Villa,92,1959,-7 %,Aktuel værdi
+Nørgårdsvej 187570 Vemb,Vemb,563.627,12-10-2007,Alm. Salg,3.522,6,Stuehus,160,1650,,
+Skolegade 337570 Vemb,Vemb,660.000,09-10-2007,Alm. Salg,6.111,4,Villa,108,1962,-5 %,Aktuel værdi
+Blommehaven 57570 Vemb,Vemb,1.575.000,03-10-2007,Alm. Salg,14.449,4,Rækkehus,109,2008,,Aktuel værdi
+Lindtorpvej 117570 Vemb,Vemb,980.000,03-10-2007,Alm. Salg,7.840,3,Villa,125,1931,-2 %,Aktuel værdi
+Harpøtvej 67570 Vemb,Vemb,495.000,27-09-2007,Alm. Salg,8.250,4,Sommerhus,60,1974,0 %,Aktuel værdi
+Nørrealle 127570 Vemb,Vemb,895.000,12-09-2007,Alm. Salg,7.160,5,Villa,125,1939,,Aktuel værdi
+Præstegårdsvej 167570 Vemb,Vemb,875.000,04-09-2007,Alm. Salg,8.495,5,Villa,103,1935,-5 %,Aktuel værdi
+Skalstrupvej 967570 Vemb,Vemb,955.000,29-08-2007,Alm. Salg,5.000,7,Villa,191,1880,,Aktuel værdi
+Rørsgårdsvej 137570 Vemb,Vemb,1.245.000,23-08-2007,Alm. Salg,9.154,5,Villa,136,1971,,Aktuel værdi
+Blommehaven 37570 Vemb,Vemb,1.715.000,21-08-2007,Alm. Salg,12.894,4,Rækkehus,133,2008,,Aktuel værdi
+Blommehaven 17570 Vemb,Vemb,1.715.000,21-08-2007,Alm. Salg,12.894,4,Rækkehus,133,2008,,Aktuel værdi
+Hyttevej 797570 Vemb,Vemb,460.000,21-08-2007,Fam. Salg,5.897,3,Sommerhus,78,1978,,Aktuel værdi
+Fousingvej 27570 Vemb,Vemb,645.000,16-08-2007,Alm. Salg,5.201,3,Villa,124,1924,0 %,Aktuel værdi
+Alleen 17570 Vemb,Vemb,538.668,15-08-2007,Fam. Salg,2.640,6,Villa,204,1928,,Aktuel værdi
+Knudehus 517570 Vemb,Vemb,2.500.000,07-08-2007,Alm. Salg,-,6,Sommerhus,221,2001,,Aktuel værdi
+Pøtparken 227570 Vemb,Vemb,85.051,06-08-2007,Alm. Salg,425,7,Villa,200,2008,,Aktuel værdi
+Præstegårdsvej 17570 Vemb,Vemb,1.450.000,06-08-2007,Alm. Salg,7.880,5,Villa,184,1940,,Aktuel værdi
+Lyngholmvej 17570 Vemb,Vemb,720.000,27-07-2007,Alm. Salg,-,4,Villa,138,1877,,Aktuel værdi
+Bigårdsvej 47570 Vemb,Vemb,755.000,13-07-2007,Alm. Salg,12.583,3,Villa,60,1954,-1 %,Aktuel værdi
+Gedmosevej 37570 Vemb,Vemb,1.275.000,05-07-2007,Alm. Salg,-,5,Villa,176,1955,-2 %,Aktuel værdi
+Hyttevej 957570 Vemb,Vemb,620.000,01-07-2007,Alm. Salg,9.117,4,Sommerhus,68,1977,-11 %,Aktuel værdi
+Fousingvej 37570 Vemb,Vemb,1.630.000,12-06-2007,Alm. Salg,7.409,5,Stuehus,220,1925,,
+Skalstrupvej 1147570 Vemb,Vemb,1.637.500,25-05-2007,Alm. Salg,7.987,8,Villa,205,1928,,Aktuel værdi
+Neesvej 367570 Vemb,Vemb,360.000,24-05-2007,Alm. Salg,3.130,5,Villa,115,1900,-4 %,Aktuel værdi
+Nørtoftvej 37570 Vemb,Vemb,995.000,23-05-2007,Alm. Salg,-,4,Villa,142,1928,,Aktuel værdi
+Sandbækvej 527570 Vemb,Vemb,3.400.000,21-05-2007,Alm. Salg,34.000,4,Stuehus,100,1895,21 %,
+Tangsgårdsvej 67570 Vemb,Vemb,795.000,14-05-2007,Alm. Salg,6.115,4,Villa,130,1951,,Aktuel værdi
+Harpøtvej 947570 Vemb,Vemb,450.000,12-05-2007,Alm. Salg,9.000,3,Sommerhus,50,1974,,Aktuel værdi
+Sdr Hedegårdsvej 77570 Vemb,Vemb,485.000,08-05-2007,Alm. Salg,6.381,4,Villa,76,1960,,Aktuel værdi
+Åbrinken 147570 Vemb,Vemb,330.480,30-04-2007,Alm. Salg,1.867,5,Villa,177,2008,,Aktuel værdi
+Nørregade 497570 Vemb,Vemb,460.000,23-04-2007,Alm. Salg,4.842,4,Villa,95,1910,,Aktuel værdi
+Dinesensvej 117570 Vemb,Vemb,925.000,21-04-2007,Alm. Salg,6.045,5,Villa,153,1962,0 %,Aktuel værdi
+Chr. Schmidtsvej 207570 Vemb,Vemb,1.195.000,18-04-2007,Alm. Salg,7.810,6,Villa,153,1972,0 %,Aktuel værdi
+Holmgårdvej 1947570 Vemb,Vemb,1.775.000,11-04-2007,Alm. Salg,9.391,6,Villa,189,2002,,Aktuel værdi
+Fjordvejen 107570 Vemb,Vemb,990.000,29-03-2007,Alm. Salg,6.689,5,Villa,148,2014,,Aktuel værdi
+Koldborgvej 237570 Vemb,Vemb,485.000,25-03-2007,Alm. Salg,5.773,3,Sommerhus,84,1920,-8 %,Aktuel værdi
+Holmgårdvej 1977570 Vemb,Vemb,2.750.000,22-03-2007,Alm. Salg,15.277,5,Stuehus,180,1977,,
+Neesvej 677570 Vemb,Vemb,1.900.000,22-03-2007,Alm. Salg,-,4,Anden beboelse,200,1968,,Aktuel værdi
+Vestergade 167570 Vemb,Vemb,485.000,09-03-2007,Alm. Salg,-,6,Rækkehus,147,1905,,Aktuel værdi
+Hasselvej 157570 Vemb,Vemb,1.800.000,14-02-2007,Alm. Salg,11.392,5,Villa,158,2002,,Aktuel værdi
+Burvej 387570 Vemb,Vemb,350.000,14-02-2007,Fam. Salg,2.095,4,Villa,167,1875,,Aktuel værdi
+Burvej 297570 Vemb,Vemb,1.750.000,08-02-2007,Fam. Salg,18.421,3,Stuehus,95,1904,,
+Søndergade 177570 Vemb,Vemb,350.000,12-01-2007,Fam. Salg,2.554,5,Villa,137,1909,,Aktuel værdi
+Vestervangen 1A7570 Vemb,Vemb,660.000,10-01-2007,Alm. Salg,8.461,3,Rækkehus,78,1966,,Aktuel værdi
+Humlevænget 107570 Vemb,Vemb,1.000.000,08-01-2007,Alm. Salg,6.410,5,Villa,156,1979,,Aktuel værdi
+Nørtoftvej 157570 Vemb,Vemb,825.000,05-01-2007,Alm. Salg,6.066,5,Villa,136,1957,0 %,Aktuel værdi
+Industrivej 107570 Vemb,Vemb,395.000,05-01-2007,Alm. Salg,6.076,2,Rækkehus,65,1978,0 %,Aktuel værdi
+Harpøtvej 907570 Vemb,Vemb,470.000,26-12-2006,Alm. Salg,5.529,4,Sommerhus,85,1976,,Aktuel værdi
+Burvej 197570 Vemb,Vemb,1.025.000,17-12-2006,Alm. Salg,4.701,5,Villa,218,1880,,Aktuel værdi
+Hyttevej 897570 Vemb,Vemb,650.000,29-11-2006,Alm. Salg,12.500,2,Sommerhus,52,1979,,Aktuel værdi
+Skolegade 237570 Vemb,Vemb,760.000,27-11-2006,Alm. Salg,8.172,6,Villa,93,1932,,Aktuel værdi
+Sdr Hedegårdsvej 57570 Vemb,Vemb,980.000,06-11-2006,Alm. Salg,6.405,6,Villa,153,1950,,Aktuel værdi
+Humlevænget 447570 Vemb,Vemb,800.000,30-10-2006,Alm. Salg,6.349,4,Villa,126,1977,,Aktuel værdi
+Neesvej 53B7570 Vemb,Vemb,400.000,03-10-2006,Alm. Salg,4.444,3,Villa,90,1981,,Aktuel værdi
+Nørregade 247570 Vemb,Vemb,360.000,28-09-2006,Andet,2.857,5,Villa,126,1900,,Aktuel værdi
+Humlevænget 697570 Vemb,Vemb,598.000,27-09-2006,Alm. Salg,5.200,4,Villa,115,1960,,Aktuel værdi
+Hyttevej 617570 Vemb,Vemb,185.000,25-08-2006,Alm. Salg,4.204,2,Sommerhus,44,2009,,Aktuel værdi
+Skalstrupvej 437570 Vemb,Vemb,1.495.000,21-08-2006,Alm. Salg,7.706,4,Stuehus,194,1904,,
+Harpøtvej 427570 Vemb,Vemb,630.000,15-08-2006,Alm. Salg,10.500,4,Sommerhus,60,1986,,Aktuel værdi
+Neesvej 497570 Vemb,Vemb,420.000,03-08-2006,Alm. Salg,3.360,5,Villa,125,1928,,Aktuel værdi
+Ulfsundvej 387570 Vemb,Vemb,595.000,28-07-2006,Alm. Salg,6.010,4,Villa,99,1961,,Aktuel værdi
+Gedmosevej 57570 Vemb,Vemb,7.250.000,22-06-2006,Fam. Salg,30.082,7,Stuehus,241,1969,,
+Skadkjærvej 37570 Vemb,Vemb,1.000.000,22-06-2006,Fam. Salg,-,6,Stuehus,162,1938,,
+Hestbækvej 77570 Vemb,Vemb,2.285.000,21-06-2006,Alm. Salg,28.562,3,Stuehus,80,1924,,
+Hasselvej 47570 Vemb,Vemb,150.000,21-06-2006,Alm. Salg,789,5,Villa,190,2006,,Aktuel værdi
+Nøragervej 277570 Vemb,Vemb,510.000,20-06-2006,Alm. Salg,3.167,9,Villa,161,1913,,Aktuel værdi
+Bækbyvej 157570 Vemb,Vemb,730.750,18-06-2006,Fam. Salg,7.307,3,Stuehus,100,1901,,
+Fælledvej 27570 Vemb,Vemb,132.000,18-06-2006,Alm. Salg,1.760,4,Stuehus,75,1900,,
+Harpøtvej 307570 Vemb,Vemb,775.000,16-06-2006,Alm. Salg,10.333,3,Sommerhus,75,2005,,Aktuel værdi
+Bigårdsvej 27570 Vemb,Vemb,750.000,02-06-2006,Alm. Salg,6.944,4,Villa,108,1952,,Aktuel værdi
+Nørrealle 37570 Vemb,Vemb,925.000,24-05-2006,Alm. Salg,12.171,4,Villa,76,1950,,Aktuel værdi
+Neesvej 417570 Vemb,Vemb,180.000,04-05-2006,Alm. Salg,1.451,3,Villa,124,1908,,Aktuel værdi
+Sandbækvej 407570 Vemb,Vemb,510.000,01-05-2006,Alm. Salg,6.800,3,Stuehus,75,1899,,
+Hyttevej 837570 Vemb,Vemb,1.000.000,24-04-2006,Alm. Salg,14.285,3,Sommerhus,70,2006,,Aktuel værdi
+Harpøtvej 747570 Vemb,Vemb,625.000,24-04-2006,Alm. Salg,9.057,4,Sommerhus,69,1980,,Aktuel værdi
+Hyttevej 37570 Vemb,Vemb,550.000,10-04-2006,Alm. Salg,6.395,4,Sommerhus,86,1988,,Aktuel værdi
+Harpøtvej 1307570 Vemb,Vemb,765.000,24-02-2006,Alm. Salg,9.329,4,Sommerhus,82,1979,,Aktuel værdi
+Kjærsvej 97570 Vemb,Vemb,450.000,22-02-2006,Alm. Salg,4.838,3,Villa,93,1959,,Aktuel værdi
+Neesvej 307570 Vemb,Vemb,370.000,18-02-2006,Alm. Salg,4.204,3,Villa,88,1908,,Aktuel værdi
+Burvej 307570 Vemb,Vemb,13.640.000,13-02-2006,Alm. Salg,78.843,5,Stuehus,173,1909,,
+Søndergade 57570 Vemb,Vemb,235.000,09-02-2006,Alm. Salg,1.807,6,Rækkehus,130,1900,,Aktuel værdi
+Kløvervænget 147570 Vemb,Vemb,735.000,24-01-2006,Alm. Salg,5.742,4,Villa,128,1972,,Aktuel værdi
+Hyldevej 197570 Vemb,Vemb,31.856,16-01-2006,Alm. Salg,212,4,Villa,150,2008,,Aktuel værdi
+Neesvej 297570 Vemb,Vemb,298.000,16-01-2006,Alm. Salg,3.040,4,Villa,98,1928,,Aktuel værdi
+Humlevænget 30C7570 Vemb,Vemb,460.000,02-01-2006,Alm. Salg,3.382,4,Villa,136,1977,,Aktuel værdi
+Skolegade 177570 Vemb,Vemb,950.000,24-12-2005,Alm. Salg,3.505,8,Villa,271,1928,,Aktuel værdi
+Rønnebærvej 17570 Vemb,Vemb,250.000,18-12-2005,Alm. Salg,2.631,2,Villa,95,1952,,Aktuel værdi
+Donskærvej 217570 Vemb,Vemb,1.637.500,13-12-2005,Alm. Salg,-,6,Stuehus,135,1939,,
+Hyldevej 17570 Vemb,Vemb,1.465.000,04-12-2005,Alm. Salg,9.451,5,Villa,155,2001,,Aktuel værdi
+Bigårdsvej 237570 Vemb,Vemb,70.000,01-12-2005,Alm. Salg,463,4,Villa,151,2007,,Aktuel værdi
+Harpøtvej 1027570 Vemb,Vemb,185.000,21-11-2005,Alm. Salg,1.850,4,Sommerhus,100,2007,,Aktuel værdi
+Stenumvej 5A7570 Vemb,Vemb,875.000,26-10-2005,Alm. Salg,-,8,Stuehus,285,1911,,
+Humlevænget 297570 Vemb,Vemb,293.250,24-10-2005,Fam. Salg,2.327,4,Villa,126,1978,,Aktuel værdi
+Harpøtvej 647570 Vemb,Vemb,565.000,05-10-2005,Alm. Salg,7.062,4,Sommerhus,80,1973,,Aktuel værdi
+Idomvej 87570 Vemb,Vemb,1.050.000,03-10-2005,Alm. Salg,7.000,4,Stuehus,150,1916,,
+Soltoften 37570 Vemb,Vemb,685.000,23-09-2005,Alm. Salg,3.391,6,Villa,202,1981,,Aktuel værdi
+Neesvej 317570 Vemb,Vemb,165.000,07-09-2005,Alm. Salg,2.115,3,Villa,78,1920,,Aktuel værdi
+Harpøtvej 1147570 Vemb,Vemb,795.000,05-09-2005,Alm. Salg,12.045,3,Sommerhus,66,2003,,Aktuel værdi
+Blomstervænget 27570 Vemb,Vemb,585.000,02-09-2005,Alm. Salg,5.909,4,Rækkehus,99,1984,,Aktuel værdi
+Bygaden 87570 Vemb,Vemb,375.000,29-08-2005,Alm. Salg,3.205,4,Villa,117,1916,,Aktuel værdi
+Burvej 437570 Vemb,Vemb,1.295.000,26-08-2005,Alm. Salg,7.993,3,Villa,162,1917,,Aktuel værdi
+Skolevej 367570 Vemb,Vemb,650.000,24-08-2005,Alm. Salg,4.513,5,Villa,144,1978,,Aktuel værdi
+Neesvej 597570 Vemb,Vemb,180.000,12-08-2005,Fam. Salg,1.538,4,Villa,117,1946,,Aktuel værdi
+Kikkenborgvej 247570 Vemb,Vemb,2.250.000,10-08-2005,Fam. Salg,11.718,6,Villa,192,2006,,Aktuel værdi
+Hasselvej 167570 Vemb,Vemb,1.100.000,22-06-2005,Alm. Salg,7.534,4,Villa,146,1995,,Aktuel værdi
+Burvej 497570 Vemb,Vemb,1.560.000,13-06-2005,Alm. Salg,9.873,6,Stuehus,158,1912,,
+Nørregade 327570 Vemb,Vemb,412.000,10-06-2005,Alm. Salg,3.646,4,Villa,113,1899,,Aktuel værdi
+Søndergade 157570 Vemb,Vemb,650.000,08-06-2005,Alm. Salg,4.421,5,Villa,147,1918,,Aktuel værdi
+Chr. Schmidtsvej 197570 Vemb,Vemb,510.000,06-06-2005,Alm. Salg,3.017,5,Villa,169,1905,,Aktuel værdi
+Holmgårdvej 1907570 Vemb,Vemb,460.000,02-06-2005,Alm. Salg,2.421,5,Villa,190,1927,,Aktuel værdi
+Industrivej 127570 Vemb,Vemb,375.000,31-05-2005,Alm. Salg,5.769,2,Rækkehus,65,1978,,Aktuel værdi
+Burvej 487570 Vemb,Vemb,17.420.000,13-05-2005,Alm. Salg,197.954,3,Villa,88,1960,,Aktuel værdi
+Neesvej 617570 Vemb,Vemb,350.000,11-05-2005,Alm. Salg,2.592,4,Villa,135,1948,,Aktuel værdi
+Egevej 67570 Vemb,Vemb,650.000,09-05-2005,Alm. Salg,5.508,3,Villa,118,1877,,Aktuel værdi
+Neesvej 657570 Vemb,Vemb,650.000,26-04-2005,Alm. Salg,3.266,6,Villa,199,1972,,Aktuel værdi
+Enghavevej 57570 Vemb,Vemb,795.000,20-04-2005,Alm. Salg,3.549,6,Villa,224,1969,,Aktuel værdi
+Humlevænget 537570 Vemb,Vemb,640.000,14-04-2005,Alm. Salg,4.776,5,Villa,134,1976,,Aktuel værdi
+Enghavevej 157570 Vemb,Vemb,880.000,13-04-2005,Alm. Salg,3.946,9,Villa,223,1966,,Aktuel værdi
+Hyttevej 557570 Vemb,Vemb,570.000,12-02-2005,Alm. Salg,6.627,4,Sommerhus,86,1988,,Aktuel værdi
+Rørsgårdsvej 217570 Vemb,Vemb,700.000,03-01-2005,Fam. Salg,4.794,4,Villa,146,1971,,Aktuel værdi
+Råsted Kirkevej 187570 Vemb,Vemb,1.150.000,03-01-2005,Fam. Salg,4.389,7,Stuehus,262,1929,,
+Hvolbyvej 77570 Vemb,Vemb,5.900.000,18-12-2004,Alm. Salg,27.830,5,Stuehus,212,1983,,
+Skolegade 197570 Vemb,Vemb,495.000,01-10-2004,Alm. Salg,5.561,4,Villa,89,1954,,Aktuel værdi
+Burvej 327570 Vemb,Vemb,250.000,28-09-2004,Fam. Salg,2.066,4,Villa,121,1903,,Aktuel værdi
+Hestbækvej 57570 Vemb,Vemb,450.000,26-08-2004,Alm. Salg,4.945,5,Stuehus,91,1928,,
+Hyttevej 857570 Vemb,Vemb,45.000,19-07-2004,Alm. Salg,511,4,Sommerhus,88,2005,,Aktuel værdi
+Nørregade 267570 Vemb,Vemb,560.000,13-07-2004,Alm. Salg,3.393,5,Villa,165,1913,,Aktuel værdi
+Skolevej 387570 Vemb,Vemb,715.000,07-07-2004,Alm. Salg,4.965,4,Villa,144,1979,,Aktuel værdi
+Hasselvej 207570 Vemb,Vemb,1.125.000,24-06-2004,Alm. Salg,6.016,6,Villa,187,2001,,Aktuel værdi
+Humlevænget 127570 Vemb,Vemb,875.000,23-06-2004,Alm. Salg,7.113,4,Villa,123,1986,,Aktuel værdi
+Skovvangvej 107570 Vemb,Vemb,250.000,15-06-2004,Alm. Salg,2.049,4,Villa,122,1910,,Aktuel værdi
+Harpøtvej 567570 Vemb,Vemb,362.500,07-06-2004,Alm. Salg,5.034,4,Sommerhus,72,1973,,Aktuel værdi
+Burvej 217570 Vemb,Vemb,3.735.000,12-05-2004,Fam. Salg,17.785,7,Stuehus,210,1909,,
+Harpøtvej 967570 Vemb,Vemb,340.000,26-04-2004,Alm. Salg,5.230,3,Sommerhus,65,1975,,Aktuel værdi
+Hyldevej 47570 Vemb,Vemb,27.294,12-04-2004,Alm. Salg,205,4,Villa,133,2004,,Aktuel værdi
+Dinesensvej 47570 Vemb,Vemb,560.000,31-03-2004,Alm. Salg,3.888,5,Villa,144,1963,,Aktuel værdi
+Harpøtvej 487570 Vemb,Vemb,361.862,28-03-2004,Alm. Salg,5.743,3,Sommerhus,63,1975,,Aktuel værdi
+Sandbækvej 107570 Vemb,Vemb,1.270.000,17-03-2004,Alm. Salg,6.978,8,Stuehus,182,1922,,
+Knudehus 557570 Vemb,Vemb,1.250.000,04-03-2004,Alm. Salg,11.363,5,Sommerhus,110,2002,,Aktuel værdi
+Harpøtvej 1067570 Vemb,Vemb,375.000,29-02-2004,Alm. Salg,5.434,4,Sommerhus,69,1987,,Aktuel værdi
+Nørregade 277570 Vemb,Vemb,6.001,16-02-2004,Auktion,57,4,Villa,105,1932,,Aktuel værdi
+Æblehaven 37570 Vemb,Vemb,305.000,04-02-2004,Fam. Salg,2.401,5,Villa,127,1972,,Aktuel værdi
+Nørrealle 67570 Vemb,Vemb,425.000,30-01-2004,Alm. Salg,-,3,Villa,137,1934,,Aktuel værdi
+Bygaden 127570 Vemb,Vemb,300.000,15-01-2004,Alm. Salg,1.935,7,Villa,155,1907,,Aktuel værdi
+Hestbækvej 17570 Vemb,Vemb,3.900.000,19-12-2003,Alm. Salg,19.500,6,Stuehus,200,1943,,
+Neesvej 577570 Vemb,Vemb,310.000,08-12-2003,Alm. Salg,2.818,4,Villa,110,1938,,Aktuel værdi
+Harpøtvej 527570 Vemb,Vemb,87.500,04-12-2003,Fam. Salg,2.034,3,Sommerhus,43,1979,,Aktuel værdi
+Humlevænget 487570 Vemb,Vemb,714.000,28-11-2003,Fam. Salg,4.576,6,Villa,156,1977,,Aktuel værdi
+Nørrealle 97570 Vemb,Vemb,520.000,03-11-2003,Alm. Salg,5.200,3,Villa,100,1955,,Aktuel værdi
+Sandbækvej 387570 Vemb,Vemb,150.000,01-11-2003,Fam. Salg,2.307,3,Villa,65,1934,,Aktuel værdi
+Bygaden 137570 Vemb,Vemb,475.000,10-10-2003,Alm. Salg,4.398,4,Villa,108,1937,,Aktuel værdi
+Skalstrupvej 607570 Vemb,Vemb,485.000,07-10-2003,Alm. Salg,3.255,7,Villa,149,1951,,Aktuel værdi
+Pøtparken 127570 Vemb,Vemb,825.000,23-09-2003,Alm. Salg,5.729,4,Villa,144,1987,,Aktuel værdi
+Skolegade 27570 Vemb,Vemb,730.000,19-09-2003,Alm. Salg,4.965,5,Villa,147,1922,,Aktuel værdi
+Neesvej 1177570 Vemb,Vemb,2.000.000,16-09-2003,Fam. Salg,12.269,6,Stuehus,163,1908,,
+Hedevej 67570 Vemb,Vemb,330.000,20-08-2003,Alm. Salg,-,7,Stuehus,166,1924,,
+Kløvervænget 47570 Vemb,Vemb,650.000,14-08-2003,Alm. Salg,-,5,Villa,116,1973,,Aktuel værdi
+Burvej 797570 Vemb,Vemb,550.000,11-08-2003,Alm. Salg,-,5,Villa,125,1907,,Aktuel værdi
+Hyldevej 177570 Vemb,Vemb,41.087,31-07-2003,Alm. Salg,247,5,Villa,166,2004,,Aktuel værdi
+Nørregade 397570 Vemb,Vemb,555.000,09-07-2003,Alm. Salg,2.860,5,Villa,194,1910,,Aktuel værdi
+Burvej 857570 Vemb,Vemb,205.000,26-06-2003,Alm. Salg,2.562,3,Villa,80,1910,,Aktuel værdi
+Nr Viumvej 27570 Vemb,Vemb,5.300.000,25-06-2003,Fam. Salg,17.666,9,Stuehus,300,1855,,
+Knudsigvej 77570 Vemb,Vemb,7.200.000,17-06-2003,Fam. Salg,32.432,4,Stuehus,222,1860,,
+Knudsigvej 57570 Vemb,Vemb,370.000,17-06-2003,Fam. Salg,-,6,Villa,166,1968,,Aktuel værdi
+Hyttevej 457570 Vemb,Vemb,312.500,17-06-2003,Alm. Salg,6.793,3,Sommerhus,46,1979,,Aktuel værdi
+Bygaden 117570 Vemb,Vemb,448.071,16-06-2003,Alm. Salg,3.111,6,Villa,144,1927,,Aktuel værdi
+Nøragervej 147570 Vemb,Vemb,1.125.000,11-06-2003,Alm. Salg,5.331,8,Stuehus,211,1919,,
+Neesvej 45A7570 Vemb,Vemb,175.000,10-06-2003,Alm. Salg,2.083,4,Villa,84,1927,,Aktuel værdi
+Skolevej 187570 Vemb,Vemb,960.000,06-06-2003,Alm. Salg,5.079,6,Villa,189,1979,,Aktuel værdi
+Humlevænget 287570 Vemb,Vemb,750.000,26-05-2003,Andet,4.385,7,Villa,171,1979,,Aktuel værdi
+Kikkenborgvej 117570 Vemb,Vemb,76.500,15-05-2003,Alm. Salg,266,9,Stuehus,287,1880,,
+Humlevænget 597570 Vemb,Vemb,515.000,13-05-2003,Alm. Salg,6.518,3,Rækkehus,79,1979,,Aktuel værdi
+Hyttevej 597570 Vemb,Vemb,30.000,11-04-2003,Alm. Salg,517,4,Sommerhus,58,2006,,Aktuel værdi
+Hyldevej 187570 Vemb,Vemb,33.666,26-03-2003,Alm. Salg,233,5,Villa,144,2003,,Aktuel værdi
+Hyldevej 97570 Vemb,Vemb,26.281,03-02-2003,Alm. Salg,162,5,Villa,162,2003,,Aktuel værdi
+Neesvej 277570 Vemb,Vemb,110.000,29-01-2003,Auktion,1.067,5,Villa,103,1934,,Aktuel værdi
+Harpøtvej 167570 Vemb,Vemb,100.000,25-01-2003,Fam. Salg,1.538,3,Sommerhus,65,1979,,Aktuel værdi
+Søndergade 327570 Vemb,Vemb,675.000,20-01-2003,Alm. Salg,6.026,3,Villa,112,1945,,Aktuel værdi
+Skolevej 87570 Vemb,Vemb,970.000,06-01-2003,Alm. Salg,6.298,4,Villa,154,1989,,Aktuel værdi
+Søndergade 167570 Vemb,Vemb,650.000,17-12-2002,Alm. Salg,-,8,Villa,163,1904,,Aktuel værdi
+Kløvervænget 117570 Vemb,Vemb,970.000,17-12-2002,Alm. Salg,6.062,4,Villa,160,1973,,Aktuel værdi
+Hyttevej 637570 Vemb,Vemb,89.250,09-12-2002,Fam. Salg,-,4,Sommerhus,66,1976,,Aktuel værdi
+Chr. Schmidtsvej 23A7570 Vemb,Vemb,945.000,16-11-2002,Alm. Salg,-,6,Villa,226,1955,,Aktuel værdi
+Søndergade 387570 Vemb,Vemb,525.000,04-11-2002,Fam. Salg,4.487,5,Villa,117,1966,,Aktuel værdi
+Harpøtvej 287570 Vemb,Vemb,40.000,02-11-2002,Alm. Salg,500,4,Sommerhus,80,2004,,Aktuel værdi
+Burvej 37570 Vemb,Vemb,540.436,31-10-2002,Fam. Salg,3.860,4,Villa,140,1935,,Aktuel værdi
+Skolegade 147570 Vemb,Vemb,509.257,26-09-2002,Alm. Salg,3.744,6,Villa,136,1963,,Aktuel værdi
+Gørdingvej 47570 Vemb,Vemb,38.700,18-09-2002,Fam. Salg,263,5,Stuehus,147,1974,,
+Møborgåvej 47570 Vemb,Vemb,1.997.500,15-09-2002,Fam. Salg,13.968,5,Stuehus,143,2004,,
+Hyldevej 37570 Vemb,Vemb,29.865,02-09-2002,Alm. Salg,244,4,Villa,122,2003,,Aktuel værdi
+Bigårdsvej 87570 Vemb,Vemb,635.000,01-09-2002,Alm. Salg,4.960,4,Villa,128,1977,,Aktuel værdi
+Nøragervej 507570 Vemb,Vemb,1.000.000,31-08-2002,Alm. Salg,7.352,6,Stuehus,136,1922,,
+Humlevænget 167570 Vemb,Vemb,625.000,09-08-2002,Alm. Salg,6.188,4,Villa,101,1979,,Aktuel værdi
+Rørsgårdsvej 77570 Vemb,Vemb,465.000,01-08-2002,Alm. Salg,3.907,4,Villa,119,1965,,Aktuel værdi
+Bigårdsvej 177570 Vemb,Vemb,369.262,01-07-2002,Fam. Salg,2.715,4,Villa,136,1976,,Aktuel værdi
+Hvolbyvej 57570 Vemb,Vemb,1.815.000,01-07-2002,Alm. Salg,8.601,7,Stuehus,211,1912,,
+Humlevænget 377570 Vemb,Vemb,675.000,01-06-2002,Alm. Salg,5.400,4,Villa,125,1978,,Aktuel værdi
+Vestergade 137570 Vemb,Vemb,462.808,30-05-2002,Alm. Salg,3.236,6,Villa,143,1904,,Aktuel værdi
+Sdr Hedegårdsvej 97570 Vemb,Vemb,712.500,28-05-2002,Alm. Salg,4.567,5,Stuehus,156,1917,,
+Damhusvej 137570 Vemb,Vemb,360.000,14-05-2002,Alm. Salg,2.975,5,Villa,121,1917,,Aktuel værdi
+Skalstrupvej 287570 Vemb,Vemb,415.547,06-05-2002,Alm. Salg,2.388,7,Stuehus,174,1948,,
+Kikkenborgvej 457570 Vemb,Vemb,89.698,06-05-2002,Alm. Salg,527,6,Stuehus,170,1913,,
+Fjordvejen 387570 Vemb,Vemb,406.900,06-05-2002,Alm. Salg,-,7,Villa,180,1928,,Aktuel værdi
+Stenumvej 57570 Vemb,Vemb,2.900.000,12-04-2002,Alm. Salg,10.740,6,Stuehus,270,1936,,
+Burvej 377570 Vemb,Vemb,789.000,06-04-2002,Alm. Salg,5.331,4,Stuehus,148,1890,,
+Soltoften 27570 Vemb,Vemb,465.000,02-04-2002,Alm. Salg,3.940,3,Villa,118,1984,,Aktuel værdi
+Bygaden 307570 Vemb,Vemb,500.000,06-03-2002,Alm. Salg,3.937,5,Villa,127,1957,,Aktuel værdi
+Enghavevej 137570 Vemb,Vemb,1.075.000,26-02-2002,Alm. Salg,6.475,6,Villa,166,1967,,Aktuel værdi
+Bygaden 187570 Vemb,Vemb,250.000,25-02-2002,Alm. Salg,2.873,3,Villa,87,1900,,Aktuel værdi
+Burvej 357570 Vemb,Vemb,42.912,28-01-2002,Alm. Salg,-,6,Stuehus,156,1930,,
+Nørgårdsvej 207570 Vemb,Vemb,225.000,16-01-2002,Alm. Salg,2.250,4,Stuehus,100,1910,,
+Hyldevej 57570 Vemb,Vemb,25.000,09-01-2002,Alm. Salg,158,4,Villa,158,2002,,Aktuel værdi
+Skalstrupvej 147570 Vemb,Vemb,498.664,25-12-2001,Fam. Salg,-,5,Stuehus,123,1939,,
+Sandbækvej 597570 Vemb,Vemb,354.870,19-12-2001,Alm. Salg,2.534,6,Stuehus,140,1875,,
+Øster Dalgårdvej 27570 Vemb,Vemb,875.000,17-12-2001,Alm. Salg,3.995,8,Villa,219,1955,,Aktuel værdi
+Donskærvej 197570 Vemb,Vemb,782.000,24-11-2001,Fam. Salg,6.062,5,Stuehus,129,1924,,
+Lindtorpvej 187570 Vemb,Vemb,331.209,16-11-2001,Alm. Salg,2.253,5,Villa,147,2010,,Aktuel værdi
+Hasselvej 117570 Vemb,Vemb,25.000,03-11-2001,Alm. Salg,203,4,Villa,123,2002,,Aktuel værdi
+Færgevej 57570 Vemb,Vemb,55.000,30-09-2001,Alm. Salg,-,1,Fritid,27,1985,,Aktuel værdi
+Nørgårdsvej 1A7570 Vemb,Vemb,870.000,28-09-2001,Alm. Salg,7.190,4,Villa,121,1950,,Aktuel værdi
+Harpøtvej 807570 Vemb,Vemb,390.000,15-09-2001,Alm. Salg,5.820,4,Sommerhus,67,1987,,Aktuel værdi
+Tangsgårdsvej 47570 Vemb,Vemb,600.000,10-09-2001,Alm. Salg,6.185,4,Villa,97,1954,,Aktuel værdi
+Hyttevej 1017570 Vemb,Vemb,34.600,19-08-2001,Fam. Salg,443,4,Sommerhus,78,2003,,Aktuel værdi
+Nøragervej 237570 Vemb,Vemb,258.000,09-08-2001,Alm. Salg,-,4,Villa,145,1935,,Aktuel værdi
+Bigårdsvej 167570 Vemb,Vemb,895.000,07-08-2001,Alm. Salg,6.172,5,Villa,145,1975,,Aktuel værdi
+Burvej 107570 Vemb,Vemb,310.000,03-08-2001,Alm. Salg,3.100,5,Sommerhus,100,2003,,Aktuel værdi
+Koldsøvej 127570 Vemb,Vemb,275.000,02-08-2001,Alm. Salg,1.527,6,Stuehus,180,2012,,
+Hyttevej 577570 Vemb,Vemb,295.000,25-07-2001,Alm. Salg,4.916,4,Sommerhus,60,1980,,Aktuel værdi
+Burvej 567570 Vemb,Vemb,60.000,06-07-2001,Alm. Salg,352,6,Stuehus,170,1922,,
+Skalstrupvej 167570 Vemb,Vemb,825.000,03-07-2001,Alm. Salg,7.857,6,Stuehus,105,1827,,
+Damhusvej 41A7570 Vemb,Vemb,100.000,20-06-2001,Alm. Salg,374,5,Villa,267,1890,,Aktuel værdi
+Hyttevej 677570 Vemb,Vemb,315.773,15-06-2001,Alm. Salg,6.315,4,Sommerhus,50,1980,,Aktuel værdi
+Soltoften 157570 Vemb,Vemb,50.000,09-06-2001,Alm. Salg,347,5,Villa,144,2002,,Aktuel værdi
+Burvej 317570 Vemb,Vemb,1.225.399,09-06-2001,Alm. Salg,8.752,4,Stuehus,140,1908,,
+Sandbækvej 157570 Vemb,Vemb,150.000,21-05-2001,Alm. Salg,1.595,3,Villa,94,1935,,Aktuel værdi
+Nørgårdsvej 77570 Vemb,Vemb,747.080,01-05-2001,Fam. Salg,5.047,6,Villa,148,1953,,Aktuel værdi
+Burvej 97570 Vemb,Vemb,708.597,01-05-2001,Fam. Salg,6.326,5,Villa,112,1929,,Aktuel værdi
+Skolevej 77570 Vemb,Vemb,551.000,12-03-2001,Alm. Salg,5.622,3,Villa,98,1968,,Aktuel værdi
+Hasselvej 107570 Vemb,Vemb,25.000,19-02-2001,Alm. Salg,208,3,Villa,120,2004,,Aktuel værdi
+Hyldevej 77570 Vemb,Vemb,25.000,05-02-2001,Alm. Salg,182,5,Villa,137,2001,,Aktuel værdi
+Skolegade 397570 Vemb,Vemb,524.527,23-01-2001,Alm. Salg,4.995,4,Villa,105,1960,,Aktuel værdi
+Skalstrupvej 507570 Vemb,Vemb,625.000,18-01-2001,Fam. Salg,7.102,3,Stuehus,88,1908,,
+Brunsborgvej 27570 Vemb,Vemb,1.100.000,14-12-2000,Alm. Salg,7.333,5,Stuehus,150,1972,,
+Damhusvej 77570 Vemb,Vemb,290.000,11-12-2000,Alm. Salg,2.457,3,Villa,118,1922,,Aktuel værdi
+Råsted Kirkevej 87570 Vemb,Vemb,250.000,01-12-2000,Alm. Salg,1.219,6,Stuehus,205,2004,,
+Neesvej 607570 Vemb,Vemb,221.000,30-11-2000,Fam. Salg,1.841,4,Villa,120,1952,,Aktuel værdi
+Humlevænget 237570 Vemb,Vemb,660.000,20-11-2000,Alm. Salg,6.000,4,Villa,110,1985,,Aktuel værdi
+Bigårdsvej 19A7570 Vemb,Vemb,700.000,16-11-2000,Alm. Salg,5.737,4,Villa,122,1978,,Aktuel værdi
+Bigårdsvej 127570 Vemb,Vemb,750.000,23-10-2000,Fam. Salg,5.067,5,Villa,148,1975,,Aktuel værdi
+Sandbækvej 217570 Vemb,Vemb,185.000,19-10-2000,Auktion,1.850,4,Villa,100,1909,,Aktuel værdi
+Nøragervej 207570 Vemb,Vemb,3.565.000,29-09-2000,Fam. Salg,13.980,8,Stuehus,255,1908,,
+Bækbyvej 117570 Vemb,Vemb,640.000,27-09-2000,Alm. Salg,4.444,6,Stuehus,144,1880,,
+Burvej 207570 Vemb,Vemb,1.170.000,14-09-2000,Alm. Salg,6.223,10,Stuehus,188,1900,,
+Skalstrupvej 1207570 Vemb,Vemb,136.000,13-09-2000,Fam. Salg,1.283,4,Villa,106,1860,,Aktuel værdi
+Nørgårdsvej 47570 Vemb,Vemb,611.733,18-08-2000,Alm. Salg,3.871,6,Villa,158,1961,,Aktuel værdi
+Lyngholmvej 57570 Vemb,Vemb,2.150.000,09-08-2000,Alm. Salg,12.721,5,Stuehus,169,1954,,
+Skolevej 31A7570 Vemb,Vemb,405.000,08-08-2000,Alm. Salg,5.625,3,Rækkehus,72,1978,,Aktuel værdi
+Nørregade 477570 Vemb,Vemb,690.000,08-08-2000,Alm. Salg,4.600,5,Stuehus,150,1929,,
+Blomstervænget 77570 Vemb,Vemb,625.000,14-07-2000,Alm. Salg,-,4,Rækkehus,99,1984,,Aktuel værdi
+Søndergade 307570 Vemb,Vemb,495.000,17-06-2000,Alm. Salg,6.187,3,Villa,80,1953,,Aktuel værdi
+Bygaden 167570 Vemb,Vemb,250.000,14-06-2000,Alm. Salg,-,6,Villa,228,1897,,Aktuel værdi
+Skolevej 157570 Vemb,Vemb,590.000,22-05-2000,Alm. Salg,4.503,4,Villa,131,1971,,Aktuel værdi
+Skolegade 497570 Vemb,Vemb,1.085.000,17-04-2000,Alm. Salg,7.482,5,Villa,145,1963,,Aktuel værdi
+Råsted Kirkevej 177570 Vemb,Vemb,695.416,10-03-2000,Alm. Salg,8.915,3,Villa,78,1961,,Aktuel værdi
+Neesvej 337570 Vemb,Vemb,231.249,28-02-2000,Alm. Salg,2.010,4,Villa,115,1908,,Aktuel værdi
+Gørdingvej 117570 Vemb,Vemb,130.800,27-02-2000,Alm. Salg,514,9,Stuehus,254,1924,,
+Industrivej 30B7570 Vemb,Vemb,1.430.000,22-02-2000,Auktion,8.125,5,Villa,176,1977,,Aktuel værdi
+Hyttevej 277570 Vemb,Vemb,345.000,02-01-2000,Alm. Salg,4.928,4,Sommerhus,70,1979,,Aktuel værdi
+Nørrealle 117570 Vemb,Vemb,430.000,30-11-1999,Alm. Salg,2.828,6,Villa,152,1959,,Aktuel værdi
+Humlevænget 277570 Vemb,Vemb,973.051,26-11-1999,Alm. Salg,6.852,6,Villa,142,1995,,Aktuel værdi
+Harpøtvej 447570 Vemb,Vemb,312.500,25-11-1999,Alm. Salg,5.040,4,Sommerhus,62,1984,,Aktuel værdi
+Damhusvej 467570 Vemb,Vemb,306.000,21-11-1999,Fam. Salg,-,7,Villa,223,1927,,Aktuel værdi
+Skalstrupvej 397570 Vemb,Vemb,800.000,10-11-1999,Alm. Salg,6.015,4,Stuehus,133,1898,,
+Pøtparken 247570 Vemb,Vemb,65.000,29-10-1999,Alm. Salg,555,3,Villa,117,2002,,Aktuel værdi
+Engholmvej 27570 Vemb,Vemb,880.215,04-10-1999,Alm. Salg,7.654,5,Stuehus,115,1956,,
+Skolevej 127570 Vemb,Vemb,1.170.000,10-08-1999,Alm. Salg,5.043,6,Villa,232,1975,,Aktuel værdi
+Skalstrupvej 1007570 Vemb,Vemb,470.000,23-07-1999,Alm. Salg,4.272,4,Villa,110,1900,,Aktuel værdi
+Fælledvej 47570 Vemb,Vemb,330.000,27-06-1999,Alm. Salg,-,4,Stuehus,170,1904,,
+Skolevej 217570 Vemb,Vemb,671.000,18-06-1999,Alm. Salg,4.473,4,Villa,150,1973,,Aktuel værdi
+Nørrealle 177570 Vemb,Vemb,127.500,04-06-1999,Fam. Salg,-,6,Villa,157,1941,,Aktuel værdi
+Fjordvejen 277570 Vemb,Vemb,525.000,02-06-1999,Alm. Salg,3.595,5,Villa,146,1939,,Aktuel værdi
+Sandbækvej 557570 Vemb,Vemb,360.000,28-05-1999,Alm. Salg,2.384,5,Villa,151,1926,,Aktuel værdi
+Skalstrupvej 987570 Vemb,Vemb,210.000,25-05-1999,Alm. Salg,2.727,3,Villa,77,1900,,Aktuel værdi
+Sandbækvej 297570 Vemb,Vemb,225.000,20-05-1999,Alm. Salg,1.744,5,Villa,129,1932,,Aktuel værdi
+Stensigvej 107570 Vemb,Vemb,435.000,19-05-1999,Fam. Salg,2.485,5,Villa,175,1930,,Aktuel værdi
+Hyttevej 1097570 Vemb,Vemb,50.000,10-05-1999,Alm. Salg,1.562,1,Fritid,32,2013,,Aktuel værdi
+Sandbækvej 447570 Vemb,Vemb,115.000,04-05-1999,Alm. Salg,435,7,Stuehus,264,2003,,
+Sdr Hedegårdsvej 37570 Vemb,Vemb,385.000,26-04-1999,Alm. Salg,4.010,4,Villa,96,1964,,Aktuel værdi
+Humlevænget 577570 Vemb,Vemb,407.612,12-04-1999,Alm. Salg,5.159,3,Rækkehus,79,1979,,Aktuel værdi
+Bækbyvej 137570 Vemb,Vemb,117.500,09-04-1999,Alm. Salg,-,6,Villa,132,1915,,Aktuel værdi
+Råsted Kirkevej 24B7570 Vemb,Vemb,200.000,29-03-1999,Alm. Salg,1.562,5,Villa,128,2000,,Aktuel værdi
+Ballesigvej 217570 Vemb,Vemb,133.000,02-03-1999,Alm. Salg,1.231,3,Villa,108,1920,,Aktuel værdi
+Nygade 147570 Vemb,Vemb,375.000,29-01-1999,Alm. Salg,3.289,4,Villa,114,1910,,Aktuel værdi
+Ørvigvej 67570 Vemb,Vemb,2.008.607,29-12-1998,Fam. Salg,13.214,5,Stuehus,152,1911,,
+Stensigvej 187570 Vemb,Vemb,350.000,15-12-1998,Fam. Salg,1.977,9,Villa,177,1934,,Aktuel værdi
+Nørrealle 147570 Vemb,Vemb,263.500,19-11-1998,Fam. Salg,-,4,Villa,106,1954,,Aktuel værdi
+Præstegårdsvej 187570 Vemb,Vemb,405.000,06-11-1998,Alm. Salg,2.718,10,Villa,149,1960,,Aktuel værdi
+Stensigvej 47570 Vemb,Vemb,396.000,23-10-1998,Fam. Salg,2.712,5,Stuehus,146,1877,,
+Humlevænget 507570 Vemb,Vemb,720.000,25-09-1998,Alm. Salg,5.806,4,Villa,124,1976,,Aktuel værdi
+Humlevænget 557570 Vemb,Vemb,319.000,14-09-1998,Alm. Salg,4.037,3,Rækkehus,79,1979,,Aktuel værdi
+Fjordvejen 57570 Vemb,Vemb,870.000,10-09-1998,Alm. Salg,3.346,8,Villa,260,1920,,Aktuel værdi
+Burvej 137570 Vemb,Vemb,585.000,09-09-1998,Alm. Salg,5.318,4,Villa,110,1956,,Aktuel værdi
+Humlevænget 347570 Vemb,Vemb,650.000,28-08-1998,Alm. Salg,5.416,4,Villa,120,1979,,Aktuel værdi
+Æblehaven 167570 Vemb,Vemb,60.000,05-08-1998,Andet,304,6,Villa,197,1998,,Aktuel værdi
+Industrivej 187570 Vemb,Vemb,375.000,02-07-1998,Alm. Salg,4.310,3,Rækkehus,87,1978,,Aktuel værdi
+Ulfsundvej 327570 Vemb,Vemb,260.000,28-06-1998,Fam. Salg,2.708,4,Villa,96,1970,,Aktuel værdi
+Nørgårdsvej 87570 Vemb,Vemb,2.200.000,28-05-1998,Fam. Salg,9.243,6,Stuehus,238,2006,,
+Vestervangen 1B7570 Vemb,Vemb,290.000,23-04-1998,Alm. Salg,-,4,Rækkehus,110,1966,,Aktuel værdi
+Grønne Vej 77570 Vemb,Vemb,395.000,23-04-1998,Alm. Salg,2.283,5,Detailhandel,173,1969,,Aktuel værdi
+Enghavevej 2A7570 Vemb,Vemb,760.000,06-04-1998,Alm. Salg,4.967,4,Villa,153,1972,,Aktuel værdi
+Humlevænget 627570 Vemb,Vemb,425.000,03-04-1998,Alm. Salg,5.379,3,Rækkehus,79,1979,,Aktuel værdi
+Dinesensvej 137570 Vemb,Vemb,900.000,24-03-1998,Alm. Salg,5.625,7,Villa,160,1970,,Aktuel værdi
+Vestergade 57570 Vemb,Vemb,554.000,20-02-1998,Alm. Salg,2.367,8,Villa,234,1936,,Aktuel værdi
+Blomstervænget 47570 Vemb,Vemb,525.000,21-01-1998,Alm. Salg,5.303,4,Rækkehus,99,1984,,Aktuel værdi
+Nørregade 517570 Vemb,Vemb,685.000,08-01-1998,Fam. Salg,4.724,6,Villa,145,1952,,Aktuel værdi
+Harpøtvej 127570 Vemb,Vemb,270.000,30-12-1997,Alm. Salg,3.552,4,Sommerhus,76,1986,,Aktuel værdi
+Hyttevej 817570 Vemb,Vemb,210.000,23-12-1997,Alm. Salg,3.442,3,Sommerhus,61,1977,,Aktuel værdi
+Ørvigvej 17570 Vemb,Vemb,482.298,17-12-1997,Alm. Salg,3.653,5,Villa,132,1924,,Aktuel værdi
+Chr. Schmidtsvej 37570 Vemb,Vemb,350.000,12-12-1997,Alm. Salg,2.160,4,Villa,162,1915,,Aktuel værdi
+Nørtoftvej 227570 Vemb,Vemb,624.783,04-12-1997,Alm. Salg,2.560,6,Villa,244,1956,,Aktuel værdi
+Vestergade 77570 Vemb,Vemb,520.000,28-11-1997,Alm. Salg,3.113,5,Villa,167,1910,,Aktuel værdi
+Fjordvejen 197570 Vemb,Vemb,425.000,26-11-1997,Alm. Salg,-,4,Villa,140,1917,,Aktuel værdi
+Neesvej 517570 Vemb,Vemb,210.000,15-10-1997,Alm. Salg,1.615,3,Villa,130,1950,,Aktuel værdi
+Enghavevej 67570 Vemb,Vemb,425.000,15-10-1997,Alm. Salg,-,5,Villa,143,1966,,Aktuel værdi
+Neesvej 557570 Vemb,Vemb,350.000,07-10-1997,Alm. Salg,3.125,4,Villa,112,1908,,Aktuel værdi
+Fælledvej 37570 Vemb,Vemb,250.000,19-09-1997,Alm. Salg,2.500,4,Villa,100,1850,,Aktuel værdi
+Vestergade 277570 Vemb,Vemb,475.000,12-09-1997,Alm. Salg,-,4,Villa,114,1967,,Aktuel værdi
+Chr. Schmidtsvej 187570 Vemb,Vemb,809.000,29-08-1997,Alm. Salg,-,7,Villa,207,1972,,Aktuel værdi
+Vestergade 97570 Vemb,Vemb,333.215,05-07-1997,Alm. Salg,2.031,4,Villa,164,1877,,Aktuel værdi
+Hyttevej 77570 Vemb,Vemb,270.000,05-06-1997,Alm. Salg,3.214,4,Sommerhus,84,1987,,Aktuel værdi
+Humlevænget 227570 Vemb,Vemb,550.000,16-05-1997,Alm. Salg,4.365,4,Villa,126,1978,,Aktuel værdi
+Nørgårdsvej 1B7570 Vemb,Vemb,95.000,14-05-1997,Alm. Salg,772,4,Villa,123,1998,,Aktuel værdi
+Rosenvænget 17570 Vemb,Vemb,575.000,02-05-1997,Alm. Salg,4.356,5,Villa,132,1973,,Aktuel værdi
+Damhusvej 87570 Vemb,Vemb,3.313.691,30-04-1997,Alm. Salg,27.614,5,Stuehus,120,1929,,
+Hasselvej 147570 Vemb,Vemb,463.523,28-04-1997,Alm. Salg,3.218,7,Villa,144,1996,,Aktuel værdi
+Fjordvejen 17570 Vemb,Vemb,41.767,08-04-1997,Alm. Salg,210,5,Villa,198,1803,,Aktuel værdi
+Skolegade 217570 Vemb,Vemb,330.000,06-04-1997,Alm. Salg,2.750,5,Villa,120,1934,,Aktuel værdi
+Idomvej 67570 Vemb,Vemb,1.355.000,04-04-1997,Alm. Salg,4.593,7,Stuehus,295,2001,,
+Bygaden 27570 Vemb,Vemb,349.668,21-03-1997,Alm. Salg,3.330,5,Villa,105,1923,,Aktuel værdi
+Harpøtvej 27570 Vemb,Vemb,250.000,19-03-1997,Alm. Salg,3.676,4,Sommerhus,68,1987,,Aktuel værdi
+Chr. Schmidtsvej 23B7570 Vemb,Vemb,70.000,13-03-1997,Alm. Salg,448,4,Villa,156,1997,,Aktuel værdi
+Hestbækvej 177570 Vemb,Vemb,4.075.000,07-03-1997,Fam. Salg,-,5,Stuehus,138,1959,,
+Råsted Kirkevej 227570 Vemb,Vemb,150.000,12-02-1997,Andet,2.205,2,Villa,68,1962,,Aktuel værdi
+Skalstrupvej 587570 Vemb,Vemb,273.288,24-01-1997,Alm. Salg,2.258,3,Villa,121,1962,,Aktuel værdi
+Råsted Kirkevej 107570 Vemb,Vemb,450.000,23-01-1997,Alm. Salg,-,6,Villa,153,1918,,Aktuel værdi
+Burvej 187570 Vemb,Vemb,600.000,20-01-1997,Fam. Salg,3.973,5,Stuehus,151,1900,,
+Neesvej 39A7570 Vemb,Vemb,38.000,16-12-1996,Alm. Salg,883,2,Villa,43,1906,,Aktuel værdi
+Søndergade 47570 Vemb,Vemb,150.000,29-11-1996,Alm. Salg,-,7,Villa,101,1887,,Aktuel værdi
+Skalstrupvej 117570 Vemb,Vemb,468.114,07-11-1996,Alm. Salg,2.425,7,Villa,193,1907,,Aktuel værdi
+Nørrealle 187570 Vemb,Vemb,280.000,22-10-1996,Fam. Salg,-,6,Villa,166,1958,,Aktuel værdi
+Harpøtvej 867570 Vemb,Vemb,235.000,19-09-1996,Alm. Salg,2.937,5,Sommerhus,80,1975,,Aktuel værdi
+Skalstrupvej 187570 Vemb,Vemb,616.000,05-09-1996,Auktion,4.162,4,Stuehus,148,2003,,
+Lillelundvej 77570 Vemb,Vemb,57.500,16-08-1996,Alm. Salg,267,7,Stuehus,215,1960,,
+Lindtorpvej 167570 Vemb,Vemb,477.000,16-08-1996,Alm. Salg,2.373,5,Villa,201,1877,,Aktuel værdi
+Humlevænget 607570 Vemb,Vemb,340.000,12-08-1996,Alm. Salg,4.303,3,Rækkehus,79,1979,,Aktuel værdi
+Burvej 237570 Vemb,Vemb,1.062.500,07-08-1996,Fam. Salg,5.837,9,Stuehus,182,1928,,
+Stensigvej 97570 Vemb,Vemb,208.000,02-08-1996,Alm. Salg,-,3,Villa,155,1852,,Aktuel værdi
+Fælledvej 67570 Vemb,Vemb,30.000,02-08-1996,Alm. Salg,600,2,Villa,50,1900,,Aktuel værdi
+Møborgåvej 57570 Vemb,Vemb,6.000,18-07-1996,Alm. Salg,38,5,Stuehus,155,2002,,
+Møborgåvej 67570 Vemb,Vemb,6.000,18-07-1996,Alm. Salg,44,3,Stuehus,136,1955,,
+Hestbækvej 47570 Vemb,Vemb,6.000,14-07-1996,Alm. Salg,24,9,Stuehus,250,1970,,
+Skalstrupvej 347570 Vemb,Vemb,6.000,11-07-1996,Alm. Salg,44,7,Stuehus,136,1912,,
+Nørregade 407570 Vemb,Vemb,200.000,05-07-1996,Alm. Salg,2.985,2,Villa,67,1937,,Aktuel værdi
+Humlevænget 587570 Vemb,Vemb,335.000,27-06-1996,Alm. Salg,4.240,3,Rækkehus,79,1979,,Aktuel værdi
+Hasselvej 137570 Vemb,Vemb,53.395,06-06-1996,Alm. Salg,355,4,Villa,150,1997,,Aktuel værdi
+Skolegade 457570 Vemb,Vemb,331.000,20-05-1996,Alm. Salg,3.761,4,Villa,88,1961,,Aktuel værdi
+Hedevej 167570 Vemb,Vemb,375.000,30-04-1996,Alm. Salg,2.640,3,Villa,142,1955,,Aktuel værdi
+Nørregade 427570 Vemb,Vemb,600.000,26-04-1996,Alm. Salg,3.680,5,Villa,163,1955,,Aktuel værdi
+Skolegade 477570 Vemb,Vemb,400.000,25-04-1996,Alm. Salg,4.347,3,Villa,92,1961,,Aktuel værdi
+Humlevænget 497570 Vemb,Vemb,565.000,24-04-1996,Alm. Salg,4.448,3,Villa,127,1977,,Aktuel værdi
+Burvej 717570 Vemb,Vemb,150.000,11-04-1996,Alm. Salg,955,4,Villa,157,1910,,Aktuel værdi
+Hasselvej 127570 Vemb,Vemb,101.821,28-03-1996,Alm. Salg,509,5,Villa,200,1996,,Aktuel værdi
+Chr. Schmidtsvej 147570 Vemb,Vemb,610.000,26-02-1996,Alm. Salg,3.262,6,Villa,187,1952,,Aktuel værdi
+Skalstrupvej 387570 Vemb,Vemb,194.666,31-01-1996,Alm. Salg,-,6,Villa,204,1927,,Aktuel værdi
+Stensigvej 147570 Vemb,Vemb,385.000,22-12-1995,Alm. Salg,-,5,Villa,178,1906,,Aktuel værdi
+Vestervangen 57570 Vemb,Vemb,930.000,18-12-1995,Fam. Salg,4.151,7,Villa,224,1975,,Aktuel værdi
+Industrivej 167570 Vemb,Vemb,315.000,03-11-1995,Alm. Salg,3.620,4,Rækkehus,87,1978,,Aktuel værdi
+Skadkjærvej 17570 Vemb,Vemb,1.500.000,27-10-1995,Fam. Salg,12.931,9,Stuehus,116,1916,,
+Rørsgårdsvej 197570 Vemb,Vemb,650.000,25-10-1995,Alm. Salg,4.088,5,Villa,159,1962,,Aktuel værdi
+Nørrealle 27570 Vemb,Vemb,100.000,21-09-1995,Alm. Salg,740,4,Villa,135,1950,,Aktuel værdi
+Knudsigvej 27570 Vemb,Vemb,2.500.000,14-07-1995,Fam. Salg,16.666,6,Stuehus,150,1810,,
+Neesvej 1137570 Vemb,Vemb,1.600.000,06-07-1995,Alm. Salg,7.881,7,Villa,203,1860,,Aktuel værdi
+Skolegade 107570 Vemb,Vemb,200.000,16-06-1995,Alm. Salg,3.076,3,Villa,65,1936,,Aktuel værdi
+Nørtoftvej 177570 Vemb,Vemb,4.500.000,11-04-1995,Alm. Salg,23.560,7,Stuehus,191,1955,,
+Nøragervej 117570 Vemb,Vemb,520.000,04-04-1995,Fam. Salg,3.151,7,Villa,165,1982,,Aktuel værdi
+Skalstrupvej 1097570 Vemb,Vemb,240.000,14-03-1995,Alm. Salg,1.387,7,Villa,173,1925,,Aktuel værdi
+Rosenvænget 67570 Vemb,Vemb,525.000,09-03-1995,Alm. Salg,3.571,4,Villa,147,1970,,Aktuel værdi
+Råsted Kirkevej 157570 Vemb,Vemb,590.000,14-02-1995,Alm. Salg,4.041,4,Villa,146,1959,,Aktuel værdi
+Vestergade 327570 Vemb,Vemb,330.000,10-02-1995,Alm. Salg,2.750,6,Villa,120,1965,,Aktuel værdi
+Hasselvej 27570 Vemb,Vemb,289.000,06-02-1995,Fam. Salg,2.006,4,Villa,144,1995,,Aktuel værdi
+Vestergade 347570 Vemb,Vemb,445.299,27-01-1995,Alm. Salg,4.947,6,Villa,90,1957,,Aktuel værdi
+Humlevænget 387570 Vemb,Vemb,507.493,18-11-1994,Alm. Salg,3.677,5,Villa,138,1978,,Aktuel værdi
+Skalstrupvej 207570 Vemb,Vemb,475.000,13-09-1994,Alm. Salg,-,7,Villa,250,1912,,Aktuel værdi
+Gørdingvej 27570 Vemb,Vemb,285.000,17-07-1994,Alm. Salg,-,4,Villa,175,1880,,Aktuel værdi
+Gedmosevej 87570 Vemb,Vemb,2.260.000,08-07-1994,Fam. Salg,12.988,8,Stuehus,174,1914,,
+Bygaden 247570 Vemb,Vemb,410.000,08-07-1994,Fam. Salg,2.971,4,Villa,138,1976,,Aktuel værdi
+Skalstrupvej 1087570 Vemb,Vemb,140.000,02-05-1994,Alm. Salg,1.971,2,Villa,71,1930,,Aktuel værdi
+Skolevej 31C7570 Vemb,Vemb,361.000,28-04-1994,Alm. Salg,5.013,3,Rækkehus,72,1978,,Aktuel værdi
+Skolevej 347570 Vemb,Vemb,500.000,26-04-1994,Alm. Salg,3.472,5,Villa,144,1978,,Aktuel værdi
+Harpøtvej 847570 Vemb,Vemb,250.000,14-04-1994,Alm. Salg,4.166,4,Sommerhus,60,1980,,Aktuel værdi
+Æblehaven 117570 Vemb,Vemb,425.000,08-04-1994,Alm. Salg,4.381,4,Villa,97,1972,,Aktuel værdi
+Råsted Kirkevej 77570 Vemb,Vemb,750.000,11-03-1994,Fam. Salg,-,4,Stuehus,128,1914,,
+Humlevænget 157570 Vemb,Vemb,710.000,04-03-1994,Alm. Salg,5.071,5,Villa,140,1988,,Aktuel værdi
+Neesvej 327570 Vemb,Vemb,155.000,11-02-1994,Alm. Salg,1.240,4,Villa,125,1900,,Aktuel værdi
+Damhusvej 67570 Vemb,Vemb,146.500,14-01-1994,Alm. Salg,915,6,Villa,160,1950,,Aktuel værdi
+Neesvej 1297570 Vemb,Vemb,700.000,08-12-1993,Alm. Salg,3.825,5,Stuehus,183,1870,,
+Blomstervænget 37570 Vemb,Vemb,460.000,26-11-1993,Alm. Salg,4.646,4,Rækkehus,99,1984,,Aktuel værdi
+Stenumvej 17570 Vemb,Vemb,1.850.000,15-09-1993,Alm. Salg,7.226,7,Stuehus,256,1923,,
+Skolevej 207570 Vemb,Vemb,500.000,03-09-1993,Alm. Salg,-,6,Villa,164,1979,,Aktuel værdi
+Burvej 347570 Vemb,Vemb,200.000,31-08-1993,Alm. Salg,-,3,Villa,125,1907,,Aktuel værdi
+Kjærsvej 147570 Vemb,Vemb,280.000,11-05-1993,Alm. Salg,2.978,4,Villa,94,1956,,Aktuel værdi
+Nørrealle 87570 Vemb,Vemb,205.000,16-02-1993,Alm. Salg,1.971,5,Villa,104,1932,,Aktuel værdi
+Nørregade 447570 Vemb,Vemb,225.000,05-02-1993,Alm. Salg,978,6,Villa,230,1925,,Aktuel værdi
+Kjærsvej 107570 Vemb,Vemb,290.000,30-09-1992,Alm. Salg,2.071,2,Villa,140,1910,,Aktuel værdi
+Lillelundvej 127570 Vemb,Vemb,600.000,03-07-1992,Fam. Salg,3.191,6,Villa,188,1916,,Aktuel værdi
+Skalstrupvej 777570 Vemb,Vemb,138.053,01-07-1992,Alm. Salg,654,8,Stuehus,211,1940,,
+Skalstrupvej 807570 Vemb,Vemb,32.251,01-07-1992,Alm. Salg,157,7,Stuehus,205,1930,,
+Skalstrupvej 637570 Vemb,Vemb,292.504,01-07-1992,Alm. Salg,1.300,7,Stuehus,225,1840,,
+Burvej 177570 Vemb,Vemb,310.000,29-06-1992,Fam. Salg,2.719,4,Villa,114,1956,,Aktuel værdi
+Holmgårdvej 1917570 Vemb,Vemb,179.622,18-05-1992,Alm. Salg,688,7,Stuehus,261,1910,,
+Enghavevej 27570 Vemb,Vemb,280.000,27-04-1992,Alm. Salg,-,5,Villa,150,1965,,Aktuel værdi
+Bundgårdvej 67570 Vemb,Vemb,256.000,28-03-1992,Alm. Salg,948,7,Stuehus,270,1989,,
+Hyttevej 1057570 Vemb,Vemb,47.000,27-03-1992,Alm. Salg,701,4,Sommerhus,67,1993,,Aktuel værdi
+Bigårdsvej 6A7570 Vemb,Vemb,154.997,22-03-1992,Andet,1.359,3,Villa,114,1976,,Aktuel værdi
+Grønne Vej 37570 Vemb,Vemb,390.000,02-03-1992,Alm. Salg,3.305,5,Villa,118,1954,,Aktuel værdi
+Skolevej 97570 Vemb,Vemb,480.000,17-01-1992,Fam. Salg,3.221,4,Villa,149,1969,,Aktuel værdi

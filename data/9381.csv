@@ -1,0 +1,543 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Sigurd Hoels Vej 159381 Sulsted,sted,1.025.000,09-05-2017,Alm. Salg,10.250,5,Villa,100,1932,-6 %,Aktuel værdi
+Milbakvej 649381 Sulsted,sted,1.874.500,07-03-2017,Alm. Salg,7.651,8,Stuehus,245,1924,,
+Elkærvej 149381 Sulsted,sted,600.000,23-02-2017,Fam. Salg,9.523,3,Villa,63,1927,,Aktuel værdi
+Sigurd Hoels Vej 119381 Sulsted,sted,1.200.112,09-02-2017,Alm. Salg,9.524,5,Villa,126,1927,,Aktuel værdi
+Elkærvej 729381 Sulsted,sted,1.577.000,26-01-2017,Alm. Salg,5.776,8,Villa,273,1922,-4 %,Aktuel værdi
+Bjørnsonparken 789381 Sulsted,sted,1.075.000,24-01-2017,Alm. Salg,9.033,4,Villa,119,1973,-6 %,Aktuel værdi
+Holtevej 149381 Sulsted,sted,900.000,12-01-2017,Fam. Salg,10.227,2,Villa,88,1959,,Aktuel værdi
+Doktorstien 19381 Sulsted,sted,1.350.000,02-01-2017,Alm. Salg,14.062,4,Villa,96,2007,-2 %,Aktuel værdi
+Bjørnsonparken 109381 Sulsted,sted,1.650.000,22-12-2016,Alm. Salg,10.248,4,Villa,161,1976,-3 %,Aktuel værdi
+Sulsted Engvej 29381 Sulsted,sted,620.000,19-12-2016,Alm. Salg,5.535,3,Villa,112,1958,,Aktuel værdi
+Niels Anesens Vej 199381 Sulsted,sted,1.085.000,08-11-2016,Alm. Salg,8.282,5,Villa,131,1907,-5 %,Aktuel værdi
+Sindholtvej 109381 Sulsted,sted,610.000,03-11-2016,Alm. Salg,4.388,4,Villa,139,1980,-12 %,Aktuel værdi
+Byrholtvej 229381 Sulsted,sted,2.390.000,29-10-2016,Alm. Salg,13.277,7,Stuehus,180,1919,-11 %,
+Toftegårdsparken 27A9381 Sulsted,sted,1.575.000,28-10-2016,Alm. Salg,10.361,5,Villa,152,1973,,Aktuel værdi
+Tvedens Alle 799381 Sulsted,sted,775.000,26-10-2016,Alm. Salg,6.681,4,Villa,116,1987,-8 %,Aktuel værdi
+Stokbrovej 50A9381 Sulsted,sted,865.000,17-10-2016,Alm. Salg,6.134,5,Villa,141,1920,-3 %,Aktuel værdi
+Strindbergparken 509381 Sulsted,sted,1.100.000,13-10-2016,Alm. Salg,9.166,4,Villa,120,1974,-8 %,Aktuel værdi
+Elkærvej 709381 Sulsted,sted,610.000,06-10-2016,Alm. Salg,3.446,6,Villa,177,1949,0 %,Aktuel værdi
+Småengevej 339381 Sulsted,sted,1.168.518,23-09-2016,Alm. Salg,6.282,6,Villa,186,2005,-60 %,Aktuel værdi
+Melkærvej 59381 Sulsted,sted,675.000,05-09-2016,Alm. Salg,5.443,4,Villa,124,1973,,Aktuel værdi
+Toftegårdsparken 169381 Sulsted,sted,1.645.000,30-08-2016,Alm. Salg,7.946,8,Villa,207,1968,-3 %,Aktuel værdi
+Holtevej 89381 Sulsted,sted,950.000,23-08-2016,Alm. Salg,6.884,6,Villa,138,1910,,Aktuel værdi
+Holtevej 49381 Sulsted,sted,1.200.000,12-08-2016,Alm. Salg,9.022,6,Villa,133,2016,,Aktuel værdi
+Tvedens Alle 979381 Sulsted,sted,1.245.000,08-08-2016,Alm. Salg,7.500,5,Villa,166,1968,0 %,Aktuel værdi
+Sulsted Kærvej 179381 Sulsted,sted,1.395.000,14-07-2016,Alm. Salg,12.681,4,Villa,110,1969,0 %,Aktuel værdi
+Niels Anesens Vej 139381 Sulsted,sted,545.000,13-07-2016,Alm. Salg,5.396,3,Villa,101,1956,,Aktuel værdi
+Staprisvej 79381 Sulsted,sted,4.600.000,08-07-2016,Alm. Salg,16.974,8,Stuehus,271,1969,-2 %,
+Staprisvej 109381 Sulsted,sted,5.000.000,21-06-2016,Alm. Salg,27.624,6,Stuehus,181,1964,,
+Elkærvej 719381 Sulsted,sted,1.015.000,27-05-2016,Alm. Salg,7.807,4,Villa,130,1959,-7 %,Aktuel værdi
+Knut Hamsuns Vej 89381 Sulsted,sted,1.330.000,19-05-2016,Alm. Salg,11.565,5,Villa,115,1962,-1 %,Aktuel værdi
+Ajstrup Nørrehede 49381 Sulsted,sted,540.000,07-04-2016,Alm. Salg,5.000,4,Stuehus,108,1876,,
+Strindbergparken 219381 Sulsted,sted,1.380.500,18-03-2016,Alm. Salg,9.586,4,Villa,144,1979,-1 %,Aktuel værdi
+Bjørnsonparken 459381 Sulsted,sted,1.160.000,15-03-2016,Alm. Salg,8.285,5,Villa,140,1976,-3 %,Aktuel værdi
+Elkærvej 19381 Sulsted,sted,430.000,03-03-2016,Fam. Salg,2.738,5,Villa,157,1960,,Aktuel værdi
+Tvedens Alle 319381 Sulsted,sted,1.175.000,29-02-2016,Alm. Salg,5.875,6,Villa,200,1975,-6 %,Aktuel værdi
+Alexander Kiellands Vej 119381 Sulsted,sted,793.179,23-02-2016,Andet,7.081,4,Villa,112,1967,,Aktuel værdi
+Tvedens Alle 399381 Sulsted,sted,830.000,08-02-2016,Alm. Salg,5.845,4,Villa,142,1973,-13 %,Aktuel værdi
+Bjørnsonparken 44A9381 Sulsted,sted,1.020.000,25-01-2016,Alm. Salg,8.225,4,Villa,124,1979,-7 %,Aktuel værdi
+Elkærvej 1419381 Sulsted,sted,100.000,20-01-2016,Alm. Salg,307,9,Stuehus,325,1900,,
+Elkærvej 99381 Sulsted,sted,1.000.000,31-12-2015,Alm. Salg,6.451,5,Villa,155,1938,,Aktuel værdi
+Bredholtvej 389381 Sulsted,sted,1.250.000,31-12-2015,Andet,7.062,5,Villa,177,1957,,Aktuel værdi
+Strindbergparken 209381 Sulsted,sted,1.500.000,20-12-2015,Alm. Salg,7.653,6,Villa,196,1976,-6 %,Aktuel værdi
+Kuskgårdsvej 169381 Sulsted,sted,600.500,04-12-2015,Andet,3.849,4,Villa,156,1985,,Aktuel værdi
+Mindevej 89381 Sulsted,sted,1.100.000,03-12-2015,Alm. Salg,8.029,6,Villa,137,1921,,Aktuel værdi
+Troldelunden 59381 Sulsted,sted,1.765.000,20-11-2015,Alm. Salg,11.314,5,Villa,156,2001,-2 %,Aktuel værdi
+Sølgårdvej 709381 Sulsted,sted,1.720.000,17-11-2015,Auktion,6.490,5,Villa,265,1921,-34 %,Aktuel værdi
+Milbakvej 299381 Sulsted,sted,900.000,03-11-2015,Alm. Salg,5.625,5,Stuehus,160,1969,-18 %,
+Korsbrovej 279381 Sulsted,sted,550.000,19-10-2015,Alm. Salg,4.583,5,Stuehus,120,1890,,
+Troldelunden 69381 Sulsted,sted,2.100.000,14-10-2015,Alm. Salg,12.727,5,Villa,165,2000,-4 %,Aktuel værdi
+Elkærvej 1469381 Sulsted,sted,690.000,09-10-2015,Alm. Salg,7.666,5,Stuehus,90,1921,,
+Strindbergparken 389381 Sulsted,sted,1.050.000,09-10-2015,Alm. Salg,8.750,4,Villa,120,1974,-4 %,Aktuel værdi
+Hammervej 269381 Sulsted,sted,1.600.000,07-10-2015,Alm. Salg,9.302,6,Stuehus,172,1989,,
+Kuskgårdsvej 99381 Sulsted,sted,1.675.000,01-10-2015,Alm. Salg,10.601,5,Villa,158,1877,-1 %,Aktuel værdi
+Bredholtvej 289381 Sulsted,sted,1.190.000,30-09-2015,Alm. Salg,6.839,6,Villa,174,1964,,Aktuel værdi
+Mindevej 309381 Sulsted,sted,1.530.000,04-09-2015,Alm. Salg,8.453,5,Villa,181,1921,-4 %,Aktuel værdi
+Strindbergparken 529381 Sulsted,sted,1.010.000,03-09-2015,Alm. Salg,8.487,4,Villa,119,1973,-3 %,Aktuel værdi
+Troldelunden 79381 Sulsted,sted,1.630.000,25-08-2015,Alm. Salg,11.013,5,Villa,148,2000,-1 %,Aktuel værdi
+Milbakvej 909381 Sulsted,sted,1.299.500,23-08-2015,Andet,5.282,6,Villa,246,1920,,Aktuel værdi
+Præstegårds Mark 29381 Sulsted,sted,2.145.000,20-08-2015,Fam. Salg,12.921,7,Stuehus,166,1924,,
+Sulsted Kærvej 149381 Sulsted,sted,775.000,20-08-2015,Alm. Salg,7.045,4,Villa,110,1969,-3 %,Aktuel værdi
+Bjørnsonparken 809381 Sulsted,sted,1.025.000,15-08-2015,Alm. Salg,6.833,5,Villa,150,1973,-6 %,Aktuel værdi
+Sulsted Kirkevej 219381 Sulsted,sted,2.000.000,29-07-2015,Fam. Salg,10.000,7,Stuehus,200,1976,,
+Sulsted Engvej 69381 Sulsted,sted,1.000.000,08-07-2015,Alm. Salg,8.333,4,Villa,120,1964,-9 %,Aktuel værdi
+Strindbergparken 259381 Sulsted,sted,780.000,25-06-2015,Alm. Salg,4.041,8,Villa,193,1997,,Aktuel værdi
+Elkærvej 779381 Sulsted,sted,465.000,13-06-2015,Alm. Salg,3.394,8,Villa,137,1927,,Aktuel værdi
+Strindbergparken 329381 Sulsted,sted,1.375.000,26-05-2015,Alm. Salg,7.902,6,Villa,174,1977,-8 %,Aktuel værdi
+Sulsted Kærvej 69381 Sulsted,sted,1.150.000,25-05-2015,Alm. Salg,7.324,5,Villa,157,1968,-4 %,Aktuel værdi
+Strindbergparken 19A9381 Sulsted,sted,875.000,21-04-2015,Alm. Salg,9.615,3,Rækkehus,91,1982,-8 %,Aktuel værdi
+Strindbergparken 169381 Sulsted,sted,1.000.000,08-04-2015,Alm. Salg,7.092,4,Villa,141,1976,-9 %,Aktuel værdi
+Bjørnsonparken 18A9381 Sulsted,sted,665.000,26-03-2015,Alm. Salg,4.523,4,Villa,147,1932,-5 %,Aktuel værdi
+Milbakvej 1109381 Sulsted,sted,2.000.000,15-03-2015,Alm. Salg,10.928,6,Villa,183,1931,-5 %,Aktuel værdi
+Milbakvej 409381 Sulsted,sted,1.575.000,08-03-2015,Alm. Salg,7.954,7,Stuehus,198,1923,-12 %,
+Bjørnsonparken 719381 Sulsted,sted,1.200.000,03-03-2015,Alm. Salg,7.741,6,Villa,155,1973,-7 %,Aktuel værdi
+Elkærvej 279381 Sulsted,sted,650.000,24-02-2015,Alm. Salg,6.565,4,Villa,99,1966,-18 %,Aktuel værdi
+Milbakvej 569381 Sulsted,sted,1.795.000,19-02-2015,Alm. Salg,9.348,6,Villa,192,1975,0 %,Aktuel værdi
+Tvedens Alle 499381 Sulsted,sted,1.495.000,05-02-2015,Alm. Salg,9.966,5,Villa,150,1971,0 %,Aktuel værdi
+Småengevej 259381 Sulsted,sted,1.685.000,23-01-2015,Alm. Salg,11.308,5,Villa,149,2001,0 %,Aktuel værdi
+Bjørnsonparken 119381 Sulsted,sted,1.075.000,29-12-2014,Alm. Salg,8.958,4,Villa,120,1974,-9 %,Aktuel værdi
+Strindbergparken 29381 Sulsted,sted,1.100.000,23-12-2014,Alm. Salg,9.166,3,Villa,120,1976,-8 %,Aktuel værdi
+Milbakvej 609381 Sulsted,sted,306.653,22-12-2014,Alm. Salg,1.782,6,Villa,172,1960,-56 %,Aktuel værdi
+Elkærvej 1219381 Sulsted,sted,986.526,18-12-2014,Fam. Salg,8.290,4,Stuehus,119,1968,,
+Engvej 779381 Sulsted,sted,2.525.000,03-12-2014,Alm. Salg,14.595,6,Stuehus,173,1925,33 %,
+Ajstrup Mosevej 89381 Sulsted,sted,925.000,26-11-2014,Alm. Salg,7.644,3,Villa,121,1902,-7 %,Aktuel værdi
+Elkærvej 749381 Sulsted,sted,715.000,26-11-2014,Alm. Salg,3.885,6,Villa,184,1921,-28 %,Aktuel værdi
+Sulsted Landevej 699381 Sulsted,sted,617.348,10-11-2014,Andet,4.861,5,Villa,127,1943,,Aktuel værdi
+Sulstedvej 1029381 Sulsted,sted,1.500.000,31-10-2014,Alm. Salg,12.295,5,Stuehus,122,1851,-6 %,
+Elkærvej 449381 Sulsted,sted,372.131,21-10-2014,Auktion,4.770,2,Villa,78,1943,,Aktuel værdi
+Sulsted Landevej 559381 Sulsted,sted,670.200,07-10-2014,Auktion,2.577,6,Villa,260,1920,,Aktuel værdi
+Sulsted Landevej 1489381 Sulsted,sted,675.000,17-09-2014,Alm. Salg,6.081,4,Villa,111,1952,-3 %,Aktuel værdi
+Ajstrup Nørrehede 229381 Sulsted,sted,985.000,19-08-2014,Alm. Salg,12.160,3,Stuehus,81,1829,,
+Toftegårdsparken 209381 Sulsted,sted,825.000,15-08-2014,Fam. Salg,3.666,7,Villa,225,1971,,Aktuel værdi
+Gartnerkrogen 59381 Sulsted,sted,1.500.000,05-08-2014,Alm. Salg,8.771,9,Villa,171,1967,-6 %,Aktuel værdi
+Bjørnsonparken 469381 Sulsted,sted,1.425.000,11-06-2014,Alm. Salg,5.480,6,Villa,260,1977,-11 %,Aktuel værdi
+Skråvej 1109381 Sulsted,sted,1.725.000,26-05-2014,Alm. Salg,11.577,5,Villa,149,1927,-4 %,Aktuel værdi
+Sulsted Kærvej 49381 Sulsted,sted,850.000,26-05-2014,Alm. Salg,6.296,4,Villa,135,1971,-10 %,Aktuel værdi
+Harald Branths Vej 109381 Sulsted,sted,935.000,20-05-2014,Alm. Salg,6.584,4,Villa,142,1969,-4 %,Aktuel værdi
+Ajstrup Sønderhede 209381 Sulsted,sted,11.800.000,13-05-2014,Alm. Salg,103.508,5,Stuehus,114,1870,,
+Hammervej 69381 Sulsted,sted,615.000,01-05-2014,Fam. Salg,3.435,8,Villa,179,1957,,Aktuel værdi
+Bjørnsonparken 149381 Sulsted,sted,1.050.000,17-04-2014,Alm. Salg,8.750,4,Villa,120,1976,-4 %,Aktuel værdi
+Strindbergparken 59381 Sulsted,sted,1.110.000,14-04-2014,Alm. Salg,9.568,4,Villa,116,1985,-5 %,Aktuel værdi
+Sigurd Hoels Vej 139381 Sulsted,sted,498.000,09-04-2014,Alm. Salg,5.595,3,Villa,89,1948,0 %,Aktuel værdi
+Aksel Sandemose Vej 39381 Sulsted,sted,750.000,06-04-2014,Alm. Salg,8.333,3,Villa,90,1963,-6 %,Aktuel værdi
+Hammervej 99381 Sulsted,sted,561.000,07-03-2014,Fam. Salg,5.783,4,Villa,97,1964,,Aktuel værdi
+Milbakvej 969381 Sulsted,sted,750.000,25-02-2014,Auktion,8.152,3,Stuehus,92,1921,,
+Byrholtvej 259381 Sulsted,sted,515.782,23-02-2014,Alm. Salg,6.447,3,Stuehus,80,1934,,
+Bjørnsonparken 649381 Sulsted,sted,1.375.000,18-02-2014,Alm. Salg,6.806,7,Villa,202,1975,-7 %,Aktuel værdi
+Vestergårdsvej 99381 Sulsted,sted,1.420.000,17-02-2014,Alm. Salg,8.711,6,Villa,163,1969,2 %,Aktuel værdi
+Engvej 1229381 Sulsted,sted,559.782,13-02-2014,Fam. Salg,3.198,6,Stuehus,175,1980,,
+Jonas Lies Vej 29381 Sulsted,sted,727.000,10-02-2014,Alm. Salg,3.972,6,Villa,183,1922,-9 %,Aktuel værdi
+Strindbergparken 609381 Sulsted,sted,1.076.896,14-01-2014,Auktion,6.903,5,Villa,156,1978,,Aktuel værdi
+Bjørnsonparken 769381 Sulsted,sted,905.000,23-12-2013,Alm. Salg,7.541,4,Villa,120,1973,-9 %,Aktuel værdi
+Bjørnsonparken 599381 Sulsted,sted,1.375.000,18-12-2013,Alm. Salg,11.458,4,Villa,120,1973,-5 %,Aktuel værdi
+Vestergårdsvej 79381 Sulsted,sted,650.000,20-11-2013,Alm. Salg,6.770,3,Villa,96,1961,-18 %,Aktuel værdi
+Harald Branths Vej 99381 Sulsted,sted,364.242,10-11-2013,Alm. Salg,3.195,4,Villa,114,1975,,Aktuel værdi
+Sulsted Engvej 49381 Sulsted,sted,840.000,10-10-2013,Alm. Salg,6.222,4,Villa,135,1966,-6 %,Aktuel værdi
+Tvedens Alle 279381 Sulsted,sted,1.440.000,10-10-2013,Alm. Salg,7.783,6,Villa,185,1972,-4 %,Aktuel værdi
+Kuskgårdsvej 239381 Sulsted,sted,2.100.000,05-09-2013,Alm. Salg,8.823,9,Stuehus,238,1968,,
+Elkærvej 789381 Sulsted,sted,1.725.000,31-08-2013,Alm. Salg,5.324,11,Villa,324,1901,-18 %,Aktuel værdi
+Sigurd Hoels Vej 109381 Sulsted,sted,370.000,21-07-2013,Alm. Salg,4.457,3,Villa,83,1933,-6 %,Aktuel værdi
+Niels Anesens Vej 209381 Sulsted,sted,2.440.000,12-07-2013,Alm. Salg,9.348,8,Villa,261,1917,-6 %,Aktuel værdi
+Holtevej 209381 Sulsted,sted,462.000,04-07-2013,Fam. Salg,3.526,4,Villa,131,1974,,Aktuel værdi
+Sulsted Landevej 1259381 Sulsted,sted,718.175,04-07-2013,Andet,1.889,9,Villa,380,1885,,Aktuel værdi
+Elkærvej 629381 Sulsted,sted,500.000,26-06-2013,Alm. Salg,5.555,4,Villa,90,1959,-28 %,Aktuel værdi
+Strindbergparken 279381 Sulsted,sted,2.375.000,20-06-2013,Alm. Salg,15.522,4,Villa,153,2003,-1 %,Aktuel værdi
+Bjørnsonparken 739381 Sulsted,sted,998.000,10-06-2013,Alm. Salg,6.835,5,Villa,146,1974,-9 %,Aktuel værdi
+Bjørnsonparken 559381 Sulsted,sted,850.000,04-06-2013,Auktion,4.106,5,Villa,207,1975,,Aktuel værdi
+Sindholtvej 389381 Sulsted,sted,885.000,28-05-2013,Alm. Salg,7.695,3,Villa,115,1942,0 %,Aktuel værdi
+Bjørnsonparken 609381 Sulsted,sted,1.250.000,14-03-2013,Alm. Salg,8.333,4,Villa,150,1976,-3 %,Aktuel værdi
+Ajstrupvej 219381 Sulsted,sted,1.495.000,05-03-2013,Alm. Salg,7.786,6,Villa,192,1910,0 %,Aktuel værdi
+Jonas Lies Vej 69381 Sulsted,sted,500.000,18-02-2013,Alm. Salg,3.571,5,Villa,140,1936,-33 %,Aktuel værdi
+Tvedens Alle 719381 Sulsted,sted,1.650.000,29-01-2013,Alm. Salg,10.185,4,Villa,162,1969,-3 %,Aktuel værdi
+Knut Hamsuns Vej 59381 Sulsted,sted,690.000,02-01-2013,Alm. Salg,4.233,4,Villa,163,1933,-23 %,Aktuel værdi
+Tvedens Alle 839381 Sulsted,sted,1.300.000,17-12-2012,Alm. Salg,9.489,4,Villa,137,1970,-7 %,Aktuel værdi
+Kuskgårdsvej 139381 Sulsted,sted,225.000,11-12-2012,Alm. Salg,1.562,4,Villa,144,2013,,Aktuel værdi
+Bjørnsonparken 359381 Sulsted,sted,1.200.000,10-12-2012,Alm. Salg,8.823,5,Villa,136,1974,-4 %,Aktuel værdi
+Sulsted Kirkevej 109381 Sulsted,sted,1.330.000,01-12-2012,Alm. Salg,11.769,4,Villa,113,2000,,Aktuel værdi
+Tvedens Alle 459381 Sulsted,sted,332.889,05-11-2012,Fam. Salg,3.026,4,Villa,110,1971,,Aktuel værdi
+Tvedens Alle 759381 Sulsted,sted,485.103,06-09-2012,Alm. Salg,3.109,5,Villa,156,1970,,Aktuel værdi
+Elkærvej 489381 Sulsted,sted,721.435,20-06-2012,Alm. Salg,5.465,6,Villa,132,1943,,Aktuel værdi
+Sulsted Landevej 679381 Sulsted,sted,1.525.000,23-05-2012,Alm. Salg,10.892,5,Villa,140,1940,-4 %,Aktuel værdi
+Sulsted Engvej 279381 Sulsted,sted,1.766.000,15-05-2012,Alm. Salg,5.606,7,Stuehus,315,1850,-65 %,
+Toftegårdsparken 179381 Sulsted,sted,1.458.800,20-04-2012,Alm. Salg,9.117,5,Villa,160,1973,,Aktuel værdi
+Bredholtvej 899381 Sulsted,sted,1.600.000,19-04-2012,Alm. Salg,6.451,10,Villa,248,1897,-6 %,Aktuel værdi
+Sulsted Landevej 869381 Sulsted,sted,1.260.000,03-04-2012,Auktion,6.774,4,Villa,186,1916,,Aktuel værdi
+Tvedens Alle 219381 Sulsted,sted,754.209,30-03-2012,Andet,4.773,6,Villa,158,1972,-58 %,Aktuel værdi
+Milbakvej 959381 Sulsted,sted,1.300.000,26-01-2012,Auktion,5.416,7,Stuehus,240,1910,,
+Milbakvej 619381 Sulsted,sted,1.650.000,25-01-2012,Alm. Salg,10.509,5,Stuehus,157,1922,-8 %,
+Tvedens Alle 479381 Sulsted,sted,605.555,20-12-2011,Andet,4.119,4,Villa,147,1971,,Aktuel værdi
+Toftegårdsvej 189381 Sulsted,sted,125.000,21-11-2011,Alm. Salg,413,7,Stuehus,302,2011,,
+Kuskgårdsvej 499381 Sulsted,sted,2.160.000,03-11-2011,Alm. Salg,7.081,11,Stuehus,305,1930,-6 %,
+Toftegårdsparken 129381 Sulsted,sted,1.325.000,07-10-2011,Alm. Salg,7.658,7,Villa,173,1968,-7 %,Aktuel værdi
+Sindholtvej 549381 Sulsted,sted,1.700.000,06-10-2011,Alm. Salg,8.095,5,Villa,210,1920,-5 %,Aktuel værdi
+Sulsted Landevej 1529381 Sulsted,sted,787.500,26-09-2011,Alm. Salg,6.730,3,Villa,117,1954,-7 %,Aktuel værdi
+Hammervej 89381 Sulsted,sted,574.500,20-09-2011,Andet,3.524,5,Villa,163,1973,,Aktuel værdi
+Knut Hamsuns Vej 49381 Sulsted,sted,755.000,20-09-2011,Alm. Salg,5.279,5,Villa,143,1950,-5 %,Aktuel værdi
+Engvej 939381 Sulsted,sted,1.735.000,19-08-2011,Alm. Salg,13.769,4,Villa,126,1962,-7 %,Aktuel værdi
+Hammerhusvej 35A9381 Sulsted,sted,467.568,24-07-2011,Alm. Salg,2.174,7,Rækkehus,215,1991,,Aktuel værdi
+Skråvej 1129381 Sulsted,sted,1.740.000,13-07-2011,Alm. Salg,8.656,8,Stuehus,201,1912,,
+Elkærvej 359381 Sulsted,sted,1.400.000,06-07-2011,Alm. Salg,7.142,7,Stuehus,196,1877,-6 %,
+Elkærvej 649381 Sulsted,sted,1.120.000,05-07-2011,Alm. Salg,7.943,5,Villa,141,1958,-6 %,Aktuel værdi
+Sulsted Landevej 97A9381 Sulsted,sted,1.230.000,21-06-2011,Alm. Salg,8.482,4,Villa,145,1969,-5 %,Aktuel værdi
+Alexander Kiellands Vej 49381 Sulsted,sted,1.100.000,16-06-2011,Alm. Salg,6.470,5,Villa,170,1957,-15 %,Aktuel værdi
+Strindbergparken 349381 Sulsted,sted,1.195.000,01-06-2011,Alm. Salg,10.301,4,Villa,116,1978,0 %,Aktuel værdi
+Sulsted Landevej 1509381 Sulsted,sted,700.000,21-04-2011,Alm. Salg,5.109,5,Rækkehus,137,1952,-6 %,Aktuel værdi
+Ajstrup Mosevej 159381 Sulsted,sted,1.300.000,19-04-2011,Alm. Salg,6.310,8,Villa,206,1900,-7 %,Aktuel værdi
+Sølgårdvej 949381 Sulsted,sted,725.000,13-04-2011,Alm. Salg,4.531,6,Villa,160,1916,-15 %,Aktuel værdi
+Strindbergparken 49381 Sulsted,sted,1.298.000,04-04-2011,Alm. Salg,-,6,Villa,162,1976,0 %,Aktuel værdi
+Milbakvej 999381 Sulsted,sted,1.205.000,17-03-2011,Alm. Salg,5.906,6,Villa,204,1927,-5 %,Aktuel værdi
+Sølgårdvej 929381 Sulsted,sted,1.400.000,18-02-2011,Alm. Salg,10.000,3,Stuehus,140,1925,,
+Strindbergparken 13B9381 Sulsted,sted,735.000,13-01-2011,Alm. Salg,8.076,4,Rækkehus,91,1983,-8 %,Aktuel værdi
+Stokbrovej 499381 Sulsted,sted,582.391,16-12-2010,Alm. Salg,3.639,5,Villa,160,1920,,Aktuel værdi
+Sulsted Engvej 169381 Sulsted,sted,433.000,14-12-2010,Fam. Salg,7.216,2,Villa,60,1907,,Aktuel værdi
+Holtevej 169381 Sulsted,sted,500.000,28-10-2010,Alm. Salg,6.097,2,Villa,82,1959,-16 %,Aktuel værdi
+Milbakvej 449381 Sulsted,sted,1.050.000,26-09-2010,Alm. Salg,3.750,9,Villa,280,1928,-12 %,Aktuel værdi
+Strindbergparken 99381 Sulsted,sted,1.600.000,13-09-2010,Alm. Salg,11.510,5,Villa,139,1986,-4 %,Aktuel værdi
+Vestergårdsvej 199381 Sulsted,sted,870.000,09-09-2010,Alm. Salg,7.909,4,Villa,110,1969,-3 %,Aktuel værdi
+Bjørnsonparken 529381 Sulsted,sted,1.200.000,08-09-2010,Alm. Salg,10.000,2,Villa,120,1975,-4 %,Aktuel værdi
+Kuskgårdsvej 329381 Sulsted,sted,680.000,10-08-2010,Alm. Salg,5.312,5,Rækkehus,128,1877,-24 %,Aktuel værdi
+Elkærvej 389381 Sulsted,sted,835.000,05-08-2010,Alm. Salg,8.697,3,Villa,96,1955,-2 %,Aktuel værdi
+Elkærvej 1389381 Sulsted,sted,1.495.000,13-07-2010,Alm. Salg,12.254,5,Stuehus,122,1927,7 %,
+Staprisvej 89381 Sulsted,sted,1.950.000,10-06-2010,Alm. Salg,-,6,Villa,236,1870,,Aktuel værdi
+Sulsted Kærvej 89381 Sulsted,sted,810.000,02-06-2010,Alm. Salg,7.500,4,Villa,108,1968,-5 %,Aktuel værdi
+Toftegårdsparken 199381 Sulsted,sted,1.230.000,01-06-2010,Alm. Salg,9.840,5,Villa,125,1975,-2 %,Aktuel værdi
+Niels Anesens Vej 39381 Sulsted,sted,1.025.000,30-05-2010,Alm. Salg,8.200,4,Villa,125,1973,-6 %,Aktuel værdi
+Sulsted Landevej 849381 Sulsted,sted,730.000,21-05-2010,Alm. Salg,7.525,5,Villa,97,1938,-2 %,Aktuel værdi
+Strindbergparken 469381 Sulsted,sted,600.000,18-05-2010,Auktion,4.316,4,Villa,139,1975,,Aktuel værdi
+Sulsted Kirkevej 149381 Sulsted,sted,300.000,28-04-2010,Alm. Salg,1.048,6,Stuehus,286,2013,,
+Larsgårds Mark 369381 Sulsted,sted,2.850.000,22-04-2010,Alm. Salg,12.555,5,Stuehus,227,2004,-5 %,
+Harald Branths Vej 79381 Sulsted,sted,845.000,26-02-2010,Alm. Salg,6.983,4,Villa,121,1981,0 %,Aktuel værdi
+Bjørnsonparken 479381 Sulsted,sted,1.130.000,05-02-2010,Alm. Salg,8.248,4,Villa,137,1974,-5 %,Aktuel værdi
+"Elkærvej 3, 19381 Sulsted",sted,900.000,18-01-2010,Alm. Salg,8.823,2,Lejlighed,102,1954,,Aktuel værdi
+Ryetvej 109381 Sulsted,sted,1.340.000,16-12-2009,Alm. Salg,6.203,7,Stuehus,216,1914,-16 %,
+Sølgårdvej 609381 Sulsted,sted,569.120,11-12-2009,Fam. Salg,7.488,3,Stuehus,76,1903,,
+Bjørnsonparken 59381 Sulsted,sted,1.225.000,25-11-2009,Alm. Salg,10.208,4,Villa,120,1976,-1 %,Aktuel værdi
+Ryetvej 209381 Sulsted,sted,5.136.450,04-11-2009,Alm. Salg,22.528,8,Stuehus,228,1920,,
+Tvedens Alle 159381 Sulsted,sted,1.400.000,03-11-2009,Alm. Salg,9.459,6,Villa,148,1972,-6 %,Aktuel værdi
+Alexander Kiellands Vej 29381 Sulsted,sted,1.800.000,29-09-2009,Alm. Salg,13.138,5,Villa,137,1956,-5 %,Aktuel værdi
+Elkærvej 739381 Sulsted,sted,1.025.000,17-09-2009,Alm. Salg,4.555,6,Villa,225,1920,-6 %,Aktuel værdi
+Stokbrovej 469381 Sulsted,sted,522.500,30-08-2009,Andet,5.741,3,Villa,91,1943,,Aktuel værdi
+Troldelunden 129381 Sulsted,sted,735.000,06-08-2009,Alm. Salg,4.200,6,Villa,175,2002,,Aktuel værdi
+Sulsted Engvej 259381 Sulsted,sted,590.000,23-07-2009,Alm. Salg,5.566,4,Villa,106,1870,-9 %,Aktuel værdi
+Tvedens Alle 119381 Sulsted,sted,660.990,10-07-2009,Alm. Salg,4.183,5,Villa,158,1977,,Aktuel værdi
+Bredholtvej 259381 Sulsted,sted,1.150.000,22-06-2009,Alm. Salg,6.052,6,Villa,190,1963,,Aktuel værdi
+Vestergårdsvej 129381 Sulsted,sted,400.000,15-05-2009,Auktion,3.571,5,Villa,112,1948,,Aktuel værdi
+Småengevej 149381 Sulsted,sted,1.000.000,24-04-2009,Alm. Salg,6.849,5,Villa,146,2013,,Aktuel værdi
+Doktorstien 79381 Sulsted,sted,420.000,22-04-2009,Fam. Salg,3.652,3,Villa,115,1940,,Aktuel værdi
+Bjørnsonparken 209381 Sulsted,sted,1.380.000,03-04-2009,Alm. Salg,8.571,6,Villa,161,1980,,Aktuel værdi
+Sulsted Landevej 1329381 Sulsted,sted,1.500.000,20-03-2009,Fam. Salg,10.563,4,Stuehus,142,2011,-21 %,
+Bjørnsonparken 18B9381 Sulsted,sted,493.500,16-03-2009,Alm. Salg,4.328,4,Villa,114,1977,,Aktuel værdi
+Elkærvej 189381 Sulsted,sted,578.100,02-03-2009,Alm. Salg,4.624,4,Villa,125,1930,,Aktuel værdi
+Holtevej 69381 Sulsted,sted,360.000,30-01-2009,Alm. Salg,2.748,5,Villa,131,1890,-20 %,Aktuel værdi
+Sigurd Hoels Vej 79381 Sulsted,sted,518.345,26-01-2009,Andet,3.839,5,Villa,135,1915,,Aktuel værdi
+Elkærvej 659381 Sulsted,sted,885.000,29-12-2008,Alm. Salg,5.900,5,Villa,150,1930,-6 %,Aktuel værdi
+Alexander Kiellands Vej 69381 Sulsted,sted,795.000,21-12-2008,Alm. Salg,6.022,4,Villa,132,1957,-11 %,Aktuel værdi
+Niels Anesens Vej 129381 Sulsted,sted,1.267.100,13-10-2008,Alm. Salg,9.181,5,Villa,138,1933,,Aktuel værdi
+Niels Anesens Vej 219381 Sulsted,sted,800.000,08-10-2008,Fam. Salg,8.163,4,Villa,98,1960,,Aktuel værdi
+Strindbergparken 13A9381 Sulsted,sted,698.000,08-10-2008,Alm. Salg,7.670,4,Rækkehus,91,1983,,Aktuel værdi
+Bjørnsonparken 89381 Sulsted,sted,895.000,07-10-2008,Alm. Salg,6.258,5,Villa,143,1975,-10 %,Aktuel værdi
+Sulsted Kirkevej 409381 Sulsted,sted,318.500,27-09-2008,Fam. Salg,4.900,2,Sommerhus,65,1958,,Aktuel værdi
+Hammervej 169381 Sulsted,sted,2.220.000,07-09-2008,Alm. Salg,12.685,5,Villa,175,2008,-3 %,Aktuel værdi
+Strindbergparken 19381 Sulsted,sted,1.560.000,04-09-2008,Alm. Salg,10.196,6,Villa,153,1979,-5 %,Aktuel værdi
+Strindbergparken 409381 Sulsted,sted,1.670.000,15-08-2008,Alm. Salg,9.823,5,Villa,170,1973,-1 %,Aktuel værdi
+Sigurd Hoels Vej 19381 Sulsted,sted,949.000,11-07-2008,Alm. Salg,8.111,4,Villa,117,1928,-5 %,Aktuel værdi
+Bjørnsonparken 69381 Sulsted,sted,2.195.000,27-05-2008,Alm. Salg,11.737,5,Villa,187,2006,0 %,Aktuel værdi
+Sigurd Hoels Vej 29381 Sulsted,sted,1.157.500,14-05-2008,Alm. Salg,8.094,4,Villa,143,1936,-3 %,Aktuel værdi
+Bjørnsonparken 669381 Sulsted,sted,400.000,08-05-2008,Alm. Salg,1.532,6,Villa,261,2009,,Aktuel værdi
+Kuskgårdsvej 479381 Sulsted,sted,1.300.000,06-05-2008,Alm. Salg,6.372,6,Stuehus,204,1971,,
+Toftegårdsparken 249381 Sulsted,sted,1.100.000,03-05-2008,Alm. Salg,8.800,4,Villa,125,1969,0 %,Aktuel værdi
+Bjørnsonparken 389381 Sulsted,sted,1.340.000,28-04-2008,Alm. Salg,10.806,4,Villa,124,1976,-4 %,Aktuel værdi
+Bjørnsonparken 249381 Sulsted,sted,800.000,15-04-2008,Alm. Salg,5.714,4,Villa,140,1974,,Aktuel værdi
+Sindholtvej 69381 Sulsted,sted,1.000.000,14-04-2008,Alm. Salg,8.547,4,Villa,117,1940,-5 %,Aktuel værdi
+Bjørnsonparken 489381 Sulsted,sted,1.395.000,14-03-2008,Alm. Salg,10.984,4,Villa,127,1977,0 %,Aktuel værdi
+Byrholtvej 289381 Sulsted,sted,57.000,03-02-2008,Alm. Salg,-,9,Stuehus,340,1980,,
+Bredholtvej 279381 Sulsted,sted,1.495.000,31-01-2008,Alm. Salg,14.238,5,Villa,105,1936,-6 %,Aktuel værdi
+Engvej 959381 Sulsted,sted,1.295.000,08-01-2008,Alm. Salg,10.791,6,Villa,120,1917,,Aktuel værdi
+Sølgårdvej 159381 Sulsted,sted,4.335.000,17-12-2007,Fam. Salg,25.203,7,Stuehus,172,1890,,
+Milbakvej 849381 Sulsted,sted,2.725.000,12-12-2007,Alm. Salg,13.762,6,Stuehus,198,1923,-2 %,
+Elkærvej 159381 Sulsted,sted,700.000,30-11-2007,Alm. Salg,5.000,10,Servicevirksomhed,140,1930,,Aktuel værdi
+Birkestien 49381 Sulsted,sted,1.112.500,27-11-2007,Alm. Salg,11.125,3,Villa,100,1967,-1 %,Aktuel værdi
+Sulsted Kirkevej 39381 Sulsted,sted,475.000,23-11-2007,Alm. Salg,9.134,2,Villa,52,1928,,Aktuel værdi
+Ajstrup Mosevej 99381 Sulsted,sted,430.000,20-11-2007,Fam. Salg,6.142,3,Stuehus,70,1902,-46 %,
+Småengevej 279381 Sulsted,sted,923.500,08-11-2007,Andet,6.368,5,Villa,145,2003,,Aktuel værdi
+Elkærvej 1319381 Sulsted,sted,1.004.860,08-11-2007,Alm. Salg,5.288,8,Stuehus,190,1901,,
+Toftelodden 99381 Sulsted,sted,760.000,06-11-2007,Alm. Salg,8.539,3,Villa,89,1946,-2 %,Aktuel værdi
+Ajstrup Nørrehede 99381 Sulsted,sted,1.812.500,26-09-2007,Alm. Salg,9.108,7,Stuehus,199,1905,-2 %,
+Bredholtvej 369381 Sulsted,sted,1.199.000,18-09-2007,Alm. Salg,6.055,4,Villa,198,1907,,Aktuel værdi
+Elkærvej 209381 Sulsted,sted,565.000,17-09-2007,Fam. Salg,5.947,3,Villa,95,1932,,Aktuel værdi
+Vestergårdsvej 109381 Sulsted,sted,935.000,19-08-2007,Alm. Salg,9.946,4,Villa,94,1948,-4 %,Aktuel værdi
+Tvedens Alle 859381 Sulsted,sted,1.595.000,17-08-2007,Alm. Salg,12.460,6,Villa,128,2007,,Aktuel værdi
+Vestergårdsvej 249381 Sulsted,sted,765.000,08-08-2007,Alm. Salg,6.538,5,Villa,117,1967,,Aktuel værdi
+Toftegårdsparken 239381 Sulsted,sted,2.025.000,25-06-2007,Alm. Salg,11.571,8,Villa,175,1973,,Aktuel værdi
+Mindevej 229381 Sulsted,sted,1.995.000,23-06-2007,Alm. Salg,10.611,6,Villa,188,1923,,Aktuel værdi
+Sulsted Landevej 1109381 Sulsted,sted,1.300.000,05-06-2007,Fam. Salg,9.285,4,Stuehus,140,1890,,
+Milbakvej 319381 Sulsted,sted,993.750,01-06-2007,Alm. Salg,5.777,6,Stuehus,172,1921,,
+Kuskgårdsvej 279381 Sulsted,sted,1.395.000,22-05-2007,Alm. Salg,8.611,6,Villa,162,1969,,Aktuel værdi
+Sigurd Hoels Vej 49381 Sulsted,sted,900.000,02-04-2007,Alm. Salg,7.258,4,Villa,124,1928,,Aktuel værdi
+Niels Anesens Vej 15B9381 Sulsted,sted,1.475.000,21-03-2007,Alm. Salg,12.291,4,Villa,120,1953,,Aktuel værdi
+Tvedens Alle 539381 Sulsted,sted,1.300.000,14-03-2007,Alm. Salg,7.222,5,Villa,180,1971,,Aktuel værdi
+Milbakvej 469381 Sulsted,sted,540.120,08-01-2007,Alm. Salg,2.500,5,Stuehus,216,1922,,
+Hammervej 289381 Sulsted,sted,1.400.000,05-01-2007,Fam. Salg,12.727,5,Stuehus,110,1930,,
+Bjørnsonparken 309381 Sulsted,sted,465.000,06-12-2006,Fam. Salg,3.974,5,Villa,117,1975,,Aktuel værdi
+Engvej 1199381 Sulsted,sted,2.511.525,16-11-2006,Alm. Salg,13.288,5,Stuehus,189,1929,,
+Engvej 117A9381 Sulsted,sted,125.000,02-11-2006,Fam. Salg,576,6,Stuehus,217,1941,,
+Byrholtvej 69381 Sulsted,sted,588.270,19-10-2006,Alm. Salg,3.795,5,Villa,155,2008,,Aktuel værdi
+Alexander Kiellands Vej 159381 Sulsted,sted,745.000,19-10-2006,Alm. Salg,7.303,3,Villa,102,1965,,Aktuel værdi
+Ajstrupvej 199381 Sulsted,sted,510.000,17-10-2006,Alm. Salg,4.553,3,Villa,112,1898,,Aktuel værdi
+"Bredholtvej 33, 1. TH9381 Sulsted",sted,1.500.000,04-10-2006,Alm. Salg,24.590,2,Villa,61,1907,,Aktuel værdi
+Sigurd Hoels Vej 99381 Sulsted,sted,390.000,18-09-2006,Andet,3.979,3,Villa,98,1932,,Aktuel værdi
+Elkærvej 1159381 Sulsted,sted,1.450.000,07-09-2006,Alm. Salg,7.671,6,Villa,189,1927,,Aktuel værdi
+Kuskgårdsvej 289381 Sulsted,sted,450.500,04-09-2006,Alm. Salg,6.435,4,Villa,70,1910,,Aktuel værdi
+Melkærvej 69381 Sulsted,sted,400.000,31-08-2006,Fam. Salg,3.571,5,Villa,112,1900,,Aktuel værdi
+Sulsted Kærvej 29381 Sulsted,sted,1.360.000,14-08-2006,Alm. Salg,8.831,4,Villa,154,1978,,Aktuel værdi
+Strindbergparken 17A9381 Sulsted,sted,795.000,27-07-2006,Alm. Salg,8.457,4,Rækkehus,94,1981,,Aktuel værdi
+Sulsted Engvej 109381 Sulsted,sted,1.055.000,06-07-2006,Alm. Salg,10.144,3,Villa,104,1957,,Aktuel værdi
+Bjørnsonparken 219381 Sulsted,sted,1.310.000,04-07-2006,Alm. Salg,10.564,4,Villa,124,1974,,Aktuel værdi
+Elkærvej 1409381 Sulsted,sted,960.000,06-06-2006,Alm. Salg,-,8,Villa,309,1925,,Aktuel værdi
+Kuskgårdsvej 519381 Sulsted,sted,30.000,19-05-2006,Alm. Salg,291,4,Villa,103,1907,,Aktuel værdi
+Niels Anesens Vej 49381 Sulsted,sted,885.000,18-05-2006,Alm. Salg,8.850,4,Villa,100,1965,,Aktuel værdi
+Niels Anesens Vej 239381 Sulsted,sted,1.000.000,05-04-2006,Alm. Salg,4.761,8,Villa,210,1924,,Aktuel værdi
+Småengevej 399381 Sulsted,sted,175.000,22-03-2006,Fam. Salg,1.011,5,Villa,173,2007,,Aktuel værdi
+Bjørnsonparken 19381 Sulsted,sted,1.050.000,20-03-2006,Alm. Salg,7.191,4,Villa,146,1979,,Aktuel værdi
+Milbakvej 769381 Sulsted,sted,3.145.000,06-03-2006,Alm. Salg,23.296,5,Stuehus,135,1929,,
+Staprisvej 49381 Sulsted,sted,76.740,07-02-2006,Alm. Salg,902,3,Stuehus,85,1902,,
+Sulsted Landevej 809381 Sulsted,sted,635.000,01-02-2006,Alm. Salg,6.479,5,Villa,98,1910,,Aktuel værdi
+Strindbergparken 109381 Sulsted,sted,1.100.000,05-01-2006,Alm. Salg,5.612,6,Villa,196,1975,,Aktuel værdi
+Hammervej 29381 Sulsted,sted,456.000,18-10-2005,Auktion,4.342,5,Villa,105,1958,,Aktuel værdi
+Sulsted Kærvej 139381 Sulsted,sted,1.085.000,04-10-2005,Alm. Salg,7.185,5,Villa,151,1969,,Aktuel værdi
+Ajstrup Sønderhede 109381 Sulsted,sted,1.395.000,28-09-2005,Alm. Salg,5.557,10,Stuehus,251,1941,,
+Tvedens Alle 919381 Sulsted,sted,895.000,25-09-2005,Alm. Salg,5.700,4,Villa,157,1971,,Aktuel værdi
+Sindholtvej 279381 Sulsted,sted,1.650.000,17-09-2005,Fam. Salg,7.710,5,Stuehus,214,1927,,
+Elkærvej 259381 Sulsted,sted,848.000,14-09-2005,Alm. Salg,7.066,4,Villa,120,1966,,Aktuel værdi
+Troldelunden 119381 Sulsted,sted,140.000,13-09-2005,Fam. Salg,843,5,Villa,166,2008,,Aktuel værdi
+Harald Branths Vej 39381 Sulsted,sted,2.300.000,30-08-2005,Alm. Salg,14.197,9,Villa,162,2002,,Aktuel værdi
+Sulsted Kærvej 119381 Sulsted,sted,1.195.000,18-08-2005,Alm. Salg,6.713,5,Villa,178,1970,,Aktuel værdi
+Elkærvej 1309381 Sulsted,sted,1.495.000,18-08-2005,Alm. Salg,8.169,7,Villa,183,1922,,Aktuel værdi
+Sølgårdvej 889381 Sulsted,sted,855.000,07-08-2005,Alm. Salg,5.411,5,Villa,158,1878,,Aktuel værdi
+Bjørnsonparken 179381 Sulsted,sted,985.000,19-07-2005,Alm. Salg,4.477,6,Villa,220,1975,,Aktuel værdi
+Harald Branths Vej 69381 Sulsted,sted,280.000,27-06-2005,Alm. Salg,1.489,6,Villa,188,2007,,Aktuel værdi
+Mindevej 169381 Sulsted,sted,760.000,20-06-2005,Alm. Salg,-,8,Stuehus,178,1930,,
+Strindbergparken 449381 Sulsted,sted,1.035.000,14-06-2005,Alm. Salg,8.414,5,Villa,123,1974,,Aktuel værdi
+Sulsted Kirkevej 49381 Sulsted,sted,1.235.000,18-05-2005,Alm. Salg,10.122,4,Villa,122,1986,,Aktuel værdi
+Toftegårdsparken 369381 Sulsted,sted,1.015.000,20-04-2005,Alm. Salg,7.250,5,Villa,140,1973,,Aktuel værdi
+Tvedens Alle 149381 Sulsted,sted,925.000,20-04-2005,Alm. Salg,6.514,4,Villa,142,1973,,Aktuel værdi
+Milbakvej 1069381 Sulsted,sted,1.274.475,19-04-2005,Alm. Salg,7.965,5,Stuehus,160,1925,,
+Stokbrovej 549381 Sulsted,sted,530.000,14-03-2005,Alm. Salg,3.045,5,Villa,174,2011,,Aktuel værdi
+Småengevej 319381 Sulsted,sted,165.000,03-03-2005,Alm. Salg,916,5,Villa,180,2006,,Aktuel værdi
+Toftegårdsparken 69381 Sulsted,sted,785.000,15-02-2005,Alm. Salg,6.038,4,Villa,130,1972,,Aktuel værdi
+Toftegårdsparken 329381 Sulsted,sted,968.000,06-02-2005,Alm. Salg,5.660,7,Villa,171,1969,,Aktuel værdi
+Strindbergparken 149381 Sulsted,sted,990.000,10-12-2004,Alm. Salg,6.187,5,Villa,160,1975,,Aktuel værdi
+Niels Anesens Vej 279381 Sulsted,sted,670.000,14-10-2004,Alm. Salg,6.380,5,Villa,105,1900,,Aktuel værdi
+Bredholtvej 549381 Sulsted,sted,470.000,11-10-2004,Alm. Salg,3.133,5,Villa,150,1927,,Aktuel værdi
+Hammervej 19381 Sulsted,sted,895.000,08-10-2004,Alm. Salg,5.593,6,Villa,160,1939,,Aktuel værdi
+Stokbrovej 449381 Sulsted,sted,545.000,05-10-2004,Alm. Salg,6.193,3,Villa,88,1952,,Aktuel værdi
+Kuskgårdsvej 159381 Sulsted,sted,370.000,16-08-2004,Alm. Salg,2.298,4,Villa,161,2009,,Aktuel værdi
+Sulsted Landevej 479381 Sulsted,sted,245.000,13-08-2004,Alm. Salg,-,6,Villa,111,1877,,Aktuel værdi
+Elkærvej 329381 Sulsted,sted,100.000,09-08-2004,Alm. Salg,549,4,Villa,182,2005,,Aktuel værdi
+Milbakvej 629381 Sulsted,sted,650.000,23-07-2004,Alm. Salg,4.779,4,Villa,136,1922,,Aktuel værdi
+Stokbrovej 559381 Sulsted,sted,830.000,15-07-2004,Andet,5.320,8,Stuehus,156,1910,,
+Tvedens Alle 59381 Sulsted,sted,890.000,12-07-2004,Alm. Salg,7.007,5,Villa,127,1973,,Aktuel værdi
+Ajstrup Sønderhede 409381 Sulsted,sted,1.850.000,30-06-2004,Alm. Salg,8.851,10,Stuehus,209,1908,,
+Bjørnsonparken 679381 Sulsted,sted,998.000,28-05-2004,Alm. Salg,7.231,5,Villa,138,1974,,Aktuel værdi
+Stokbrovej 489381 Sulsted,sted,331.500,07-04-2004,Alm. Salg,2.933,4,Villa,113,1927,,Aktuel værdi
+Sulsted Kærvej 109381 Sulsted,sted,939.000,02-04-2004,Alm. Salg,7.007,4,Villa,134,1968,,Aktuel værdi
+Tvedens Alle 699381 Sulsted,sted,725.000,20-03-2004,Alm. Salg,7.967,3,Villa,91,1969,,Aktuel værdi
+Toftegårdsparken 89381 Sulsted,sted,680.000,16-03-2004,Alm. Salg,6.071,4,Villa,112,1963,,Aktuel værdi
+Småengevej 89381 Sulsted,sted,415.000,29-02-2004,Alm. Salg,-,5,Villa,197,1900,,Aktuel værdi
+Hammerhusvej 259381 Sulsted,sted,2.395.000,27-02-2004,Alm. Salg,25.752,3,Sommerhus,93,1937,,Aktuel værdi
+Niels Anesens Vej 149381 Sulsted,sted,845.000,08-01-2004,Alm. Salg,4.162,5,Villa,203,1959,,Aktuel værdi
+Sigurd Hoels Vej 179381 Sulsted,sted,650.000,30-12-2003,Alm. Salg,6.500,3,Villa,100,1913,,Aktuel værdi
+Tvedens Alle 339381 Sulsted,sted,1.025.000,12-11-2003,Alm. Salg,8.760,3,Villa,117,1972,,Aktuel værdi
+Korsbrovej 339381 Sulsted,sted,450.000,05-11-2003,Alm. Salg,3.103,4,Villa,145,1940,,Aktuel værdi
+Holtevej 29381 Sulsted,sted,1.349.999,08-10-2003,Alm. Salg,6.221,9,Museum o.l.,217,1935,,Aktuel værdi
+Bjørnsonparken 749381 Sulsted,sted,1.000.000,01-10-2003,Alm. Salg,5.649,5,Villa,177,1975,,Aktuel værdi
+Sølgårdvej 799381 Sulsted,sted,725.000,29-09-2003,Alm. Salg,-,5,Villa,197,1881,,Aktuel værdi
+Ajstrupvej 45A9381 Sulsted,sted,43.800,22-09-2003,Fam. Salg,284,5,Villa,154,1827,,Aktuel værdi
+Sulsted Kirkevej 419381 Sulsted,sted,2.280.000,01-08-2003,Alm. Salg,12.063,6,Villa,189,1968,,Aktuel værdi
+Doktorstien 99381 Sulsted,sted,300.000,07-07-2003,Alm. Salg,2.777,4,Villa,108,1928,,Aktuel værdi
+Bredholtvej 689381 Sulsted,sted,669.000,26-05-2003,Alm. Salg,3.758,5,Villa,178,1921,,Aktuel værdi
+Staprisvej 189381 Sulsted,sted,2.088.800,18-05-2003,Alm. Salg,9.946,6,Villa,210,1928,,Aktuel værdi
+Bjørnsonparken 539381 Sulsted,sted,975.000,06-05-2003,Alm. Salg,7.386,5,Villa,132,1974,,Aktuel værdi
+Elkærvej 859381 Sulsted,sted,725.000,17-03-2003,Alm. Salg,3.502,7,Villa,207,1925,,Aktuel værdi
+Bjørnsonparken 399381 Sulsted,sted,875.000,14-03-2003,Alm. Salg,7.056,4,Villa,124,1976,,Aktuel værdi
+Niels Anesens Vej 99381 Sulsted,sted,780.000,02-02-2003,Alm. Salg,-,5,Villa,134,1960,,Aktuel værdi
+Toftegårdsparken 19381 Sulsted,sted,670.000,18-12-2002,Fam. Salg,5.775,4,Villa,116,1978,,Aktuel værdi
+Toftegårdsparken 99381 Sulsted,sted,1.003.050,29-11-2002,Alm. Salg,5.451,8,Villa,184,1974,,Aktuel værdi
+Bjørnsonparken 659381 Sulsted,sted,825.000,27-10-2002,Alm. Salg,7.300,4,Villa,113,1974,,Aktuel værdi
+Stokbrovej 369381 Sulsted,sted,965.000,24-10-2002,Alm. Salg,5.026,6,Villa,192,1935,,Aktuel værdi
+Bjørnsonparken 689381 Sulsted,sted,200.000,03-10-2002,Alm. Salg,1.265,4,Villa,158,2004,,Aktuel værdi
+Sulsted Engvej 12A9381 Sulsted,sted,525.000,01-10-2002,Alm. Salg,5.412,3,Villa,97,1960,,Aktuel værdi
+Byrholtvej 349381 Sulsted,sted,2.460.500,26-09-2002,Fam. Salg,20.504,5,Stuehus,120,1898,,
+Ajstrupvej 279381 Sulsted,sted,137.000,13-09-2002,Alm. Salg,951,6,Stuehus,144,1912,,
+Milbakvej 1009381 Sulsted,sted,408.611,26-08-2002,Alm. Salg,3.192,5,Stuehus,128,1922,,
+Sulstedvej 1159381 Sulsted,sted,725.000,30-07-2002,Alm. Salg,-,5,Stuehus,190,1900,,
+Engvej 1169381 Sulsted,sted,480.000,22-07-2002,Alm. Salg,-,6,Stuehus,250,1924,,
+Bjørnsonparken 16B9381 Sulsted,sted,225.000,17-07-2002,Alm. Salg,1.442,5,Villa,156,2003,,Aktuel værdi
+Niels Anesens Vej 299381 Sulsted,sted,1.045.000,18-06-2002,Alm. Salg,9.500,6,Villa,110,1942,,Aktuel værdi
+Sulsted Landevej 829381 Sulsted,sted,530.000,07-06-2002,Alm. Salg,-,5,Villa,144,1950,,Aktuel værdi
+Troldelunden 39381 Sulsted,sted,150.000,13-05-2002,Alm. Salg,882,6,Villa,170,2003,,Aktuel værdi
+Vestergårdsvej 229381 Sulsted,sted,690.000,08-04-2002,Alm. Salg,7.187,4,Villa,96,1967,,Aktuel værdi
+Elkærvej 869381 Sulsted,sted,1.300.000,11-03-2002,Alm. Salg,6.878,6,Villa,189,1920,,Aktuel værdi
+Ajstrupvej 159381 Sulsted,sted,435.000,27-10-2001,Alm. Salg,7.250,2,Villa,60,1929,,Aktuel værdi
+Sulsted Landevej 1549381 Sulsted,sted,791.721,25-10-2001,Alm. Salg,7.197,4,Villa,110,1970,,Aktuel værdi
+Sulsted Kærvej 99381 Sulsted,sted,1.200.000,17-10-2001,Alm. Salg,6.896,5,Villa,174,1984,,Aktuel værdi
+Troldelunden 99381 Sulsted,sted,155.000,15-10-2001,Alm. Salg,1.040,6,Villa,149,2004,,Aktuel værdi
+Elkærvej 219381 Sulsted,sted,600.000,08-10-2001,Alm. Salg,7.142,3,Villa,84,1951,,Aktuel værdi
+Sulsted Landevej 459381 Sulsted,sted,540.000,31-08-2001,Alm. Salg,5.242,4,Villa,103,1930,,Aktuel værdi
+Aksel Sandemose Vej 19381 Sulsted,sted,450.000,29-08-2001,Alm. Salg,3.461,5,Villa,130,1962,,Aktuel værdi
+Ajstrupvej 459381 Sulsted,sted,773.000,25-08-2001,Fam. Salg,3.168,9,Villa,244,1870,,Aktuel værdi
+Milbakvej 509381 Sulsted,sted,750.000,24-08-2001,Alm. Salg,5.769,3,Stuehus,130,1922,,
+Småengevej 379381 Sulsted,sted,152.000,01-07-2001,Alm. Salg,980,5,Villa,155,2002,,Aktuel værdi
+Bredholtvej 29381 Sulsted,sted,1.210.000,11-06-2001,Alm. Salg,6.875,7,Stuehus,176,1885,,
+Småengevej 359381 Sulsted,sted,144.000,08-06-2001,Alm. Salg,1.133,5,Villa,127,2001,,Aktuel værdi
+Kuskgårdsvej 429381 Sulsted,sted,200.000,28-04-2001,Alm. Salg,1.273,5,Villa,157,2003,,Aktuel værdi
+Sigurd Hoels Vej 69381 Sulsted,sted,425.000,29-03-2001,Alm. Salg,3.102,6,Villa,137,1900,,Aktuel værdi
+Bredholtvej 519381 Sulsted,sted,880.000,04-02-2001,Andet,8.301,2,Villa,106,1922,,Aktuel værdi
+Milbakvej 779381 Sulsted,sted,380.000,12-01-2001,Alm. Salg,3.518,3,Villa,108,1923,,Aktuel værdi
+Kuskgårdsvej 399381 Sulsted,sted,575.000,12-01-2001,Alm. Salg,3.859,5,Villa,149,1903,,Aktuel værdi
+Sulsted Kirkevej 19381 Sulsted,sted,1.700.000,08-09-2000,Andet,10.625,5,Villa,160,1978,,Aktuel værdi
+Bredholtvej 269381 Sulsted,sted,550.000,15-08-2000,Fam. Salg,3.395,5,Villa,162,1875,,Aktuel værdi
+Niels Anesens Vej 319381 Sulsted,sted,730.000,11-08-2000,Alm. Salg,6.186,5,Villa,118,1920,,Aktuel værdi
+Sulsted Landevej 128B9381 Sulsted,sted,605.000,27-06-2000,Alm. Salg,6.237,3,Villa,97,1980,,Aktuel værdi
+Vestergårdsvej 189381 Sulsted,sted,624.000,16-06-2000,Alm. Salg,5.157,3,Villa,121,1968,,Aktuel værdi
+Troldelunden 89381 Sulsted,sted,140.000,09-06-2000,Alm. Salg,1.068,5,Villa,131,2002,,Aktuel værdi
+Sulsted Landevej 1469381 Sulsted,sted,595.000,09-06-2000,Alm. Salg,6.467,3,Villa,92,1951,,Aktuel værdi
+Larsgårds Mark 409381 Sulsted,sted,100.000,08-05-2000,Alm. Salg,495,6,Stuehus,202,1969,,
+Strindbergparken 15B9381 Sulsted,sted,627.215,02-05-2000,Alm. Salg,6.892,4,Rækkehus,91,1982,,Aktuel værdi
+Bredholtvej 39381 Sulsted,sted,685.000,30-04-2000,Alm. Salg,5.269,6,Villa,130,1937,,Aktuel værdi
+Toftegårdsparken 109381 Sulsted,sted,871.000,26-04-2000,Alm. Salg,6.751,4,Villa,129,1968,,Aktuel værdi
+Hammervej 609381 Sulsted,sted,1.284.000,20-03-2000,Alm. Salg,7.133,6,Villa,180,1914,,Aktuel værdi
+Kuskgårdsvej 349381 Sulsted,sted,530.018,22-02-2000,Alm. Salg,6.235,3,Villa,85,1972,,Aktuel værdi
+Aksel Sandemose Vej 119381 Sulsted,sted,1.030.000,07-02-2000,Alm. Salg,6.358,6,Villa,162,1974,,Aktuel værdi
+Sulsted Landevej 649381 Sulsted,sted,565.000,07-02-2000,Fam. Salg,6.208,3,Villa,91,1877,,Aktuel værdi
+Gartnerkrogen 89381 Sulsted,sted,1.203.784,03-02-2000,Alm. Salg,9.948,6,Villa,121,1857,,Aktuel værdi
+Sulsted Landevej 519381 Sulsted,sted,421.545,17-01-2000,Alm. Salg,3.903,3,Villa,108,1953,,Aktuel værdi
+Holtevej 509381 Sulsted,sted,3.020.000,26-12-1999,Fam. Salg,8.388,8,Stuehus,360,1900,,
+Toftegårdsvej 229381 Sulsted,sted,1.850.000,05-11-1999,Alm. Salg,9.736,23,Døgninstitution,190,1900,,Aktuel værdi
+Bredholtvej 299381 Sulsted,sted,963.606,22-10-1999,Alm. Salg,7.834,4,Villa,123,1969,,Aktuel værdi
+Sulsted Landevej 489381 Sulsted,sted,520.000,22-08-1999,Alm. Salg,3.421,8,Villa,152,1912,,Aktuel værdi
+Alexander Kiellands Vej 19381 Sulsted,sted,727.000,16-08-1999,Alm. Salg,5.345,4,Villa,136,1954,,Aktuel værdi
+Melkærvej 39381 Sulsted,sted,708.043,06-08-1999,Alm. Salg,3.175,6,Villa,223,1897,,Aktuel værdi
+Hammervej 129381 Sulsted,sted,327.500,27-07-1999,Alm. Salg,3.852,2,Villa,85,1917,,Aktuel værdi
+Bjørnsonparken 329381 Sulsted,sted,780.000,06-07-1999,Fam. Salg,4.968,5,Villa,157,1977,,Aktuel værdi
+Sindholtvej 29381 Sulsted,sted,403.619,20-06-1999,Alm. Salg,1.949,6,Rækkehus,207,1883,,Aktuel værdi
+Bredholtvej 449381 Sulsted,sted,490.070,31-05-1999,Alm. Salg,3.769,7,Villa,130,1924,,Aktuel værdi
+Milbakvej 329381 Sulsted,sted,875.000,11-05-1999,Alm. Salg,-,7,Villa,239,1922,,Aktuel værdi
+Kuskgårdsvej 319381 Sulsted,sted,450.000,07-05-1999,Alm. Salg,5.357,3,Villa,84,1965,,Aktuel værdi
+Ajstrupvej 329381 Sulsted,sted,495.000,05-05-1999,Alm. Salg,-,6,Villa,173,1939,,Aktuel værdi
+Bredholtvej 159381 Sulsted,sted,1.100.000,03-05-1999,Alm. Salg,-,6,Stuehus,204,1880,,
+Ajstrupvej 69381 Sulsted,sted,1.269.000,21-04-1999,Alm. Salg,7.377,5,Villa,172,1947,,Aktuel værdi
+Melkærvej 119381 Sulsted,sted,5.750.000,14-04-1999,Andet,28.750,8,Stuehus,200,1864,,
+Knut Hamsuns Vej 79381 Sulsted,sted,550.000,14-04-1999,Alm. Salg,3.525,5,Villa,156,1956,,Aktuel værdi
+Toftegårdsparken 49381 Sulsted,sted,995.000,12-02-1999,Alm. Salg,6.419,5,Villa,155,1972,,Aktuel værdi
+Sølgårdvej 259381 Sulsted,sted,620.000,19-01-1999,Alm. Salg,4.960,4,Stuehus,125,1890,,
+Niels Anesens Vej 59381 Sulsted,sted,15.672,30-11-1998,Andet,137,4,Villa,114,1964,,Aktuel værdi
+Tvedens Alle 129381 Sulsted,sted,885.000,21-10-1998,Alm. Salg,7.901,4,Villa,112,1985,,Aktuel værdi
+Jonas Lies Vej 149381 Sulsted,sted,618.538,20-10-1998,Alm. Salg,7.363,3,Villa,84,1964,,Aktuel værdi
+Kuskgårdsvej 259381 Sulsted,sted,745.000,01-09-1998,Alm. Salg,6.592,5,Villa,113,1677,,Aktuel værdi
+Sulsted Landevej 1409381 Sulsted,sted,359.000,21-08-1998,Alm. Salg,4.273,3,Villa,84,1964,,Aktuel værdi
+Elkærvej 229381 Sulsted,sted,852.000,16-08-1998,Alm. Salg,6.553,6,Villa,130,1936,,Aktuel værdi
+Larsgårds Mark 169381 Sulsted,sted,53.189,04-08-1998,Fam. Salg,454,5,Villa,117,1714,,Aktuel værdi
+Ajstrupvej 169381 Sulsted,sted,315.000,20-07-1998,Alm. Salg,2.812,3,Villa,112,1909,,Aktuel værdi
+Milbakvej 859381 Sulsted,sted,975.000,01-07-1998,Alm. Salg,8.705,4,Stuehus,112,1921,,
+Elkærvej 509381 Sulsted,sted,380.000,28-06-1998,Alm. Salg,3.454,3,Villa,110,1943,,Aktuel værdi
+Jonas Lies Vej 129381 Sulsted,sted,666.000,23-06-1998,Alm. Salg,5.203,5,Villa,128,1953,,Aktuel værdi
+Sulsted Kirkevej 129381 Sulsted,sted,500.000,22-06-1998,Alm. Salg,-,4,Villa,136,1960,,Aktuel værdi
+Ajstrup Nørrehede 159381 Sulsted,sted,414.000,17-06-1998,Fam. Salg,3.869,3,Villa,107,1903,,Aktuel værdi
+Småengevej 299381 Sulsted,sted,238.000,28-05-1998,Alm. Salg,2.125,3,Villa,112,1998,,Aktuel værdi
+Gartnerkrogen 79381 Sulsted,sted,1.000.000,28-05-1998,Alm. Salg,5.181,8,Villa,193,1967,,Aktuel værdi
+Elkærvej 409381 Sulsted,sted,496.000,23-05-1998,Alm. Salg,4.133,3,Villa,120,1947,,Aktuel værdi
+Korsbrovej 549381 Sulsted,sted,600.000,19-05-1998,Alm. Salg,3.428,5,Stuehus,175,2004,,
+Doktorstien 39381 Sulsted,sted,730.000,05-05-1998,Alm. Salg,5.367,4,Villa,136,1968,,Aktuel værdi
+Milbakvej 369381 Sulsted,sted,968.802,24-04-1998,Alm. Salg,4.892,4,Villa,198,1921,,Aktuel værdi
+Sindholtvej 509381 Sulsted,sted,480.000,10-04-1998,Andet,2.242,5,Villa,214,2010,,Aktuel værdi
+Milbakvej 929381 Sulsted,sted,166.000,26-03-1998,Alm. Salg,922,6,Stuehus,180,1922,,
+Bredholtvej 509381 Sulsted,sted,527.000,18-03-1998,Alm. Salg,4.149,4,Villa,127,1880,,Aktuel værdi
+Sølgårdvej 489381 Sulsted,sted,1.300.000,11-03-1998,Alm. Salg,5.777,7,Stuehus,225,1989,,
+Sigurd Hoels Vej 219381 Sulsted,sted,405.190,29-01-1998,Alm. Salg,2.701,5,Villa,150,1914,,Aktuel værdi
+Strindbergparken 249381 Sulsted,sted,740.000,27-12-1997,Alm. Salg,6.548,4,Villa,113,1977,,Aktuel værdi
+Bredholtvej 909381 Sulsted,sted,568.480,09-12-1997,Alm. Salg,2.429,7,Villa,234,1938,,Aktuel værdi
+Sølgårdvej 149381 Sulsted,sted,1.425.000,06-11-1997,Alm. Salg,7.500,4,Stuehus,190,1877,,
+Toftegårdsparken 79381 Sulsted,sted,890.000,21-10-1997,Alm. Salg,6.095,4,Villa,146,1974,,Aktuel værdi
+Toftelodden 139381 Sulsted,sted,520.000,26-09-1997,Fam. Salg,3.939,4,Villa,132,1980,,Aktuel værdi
+Gårdhusevej 169381 Sulsted,sted,217.111,08-09-1997,Alm. Salg,-,5,Villa,204,1903,,Aktuel værdi
+Sølgårdvej 909381 Sulsted,sted,930.000,05-09-1997,Alm. Salg,5.000,7,Stuehus,186,1974,,
+Knut Hamsuns Vej 19381 Sulsted,sted,433.840,15-08-1997,Alm. Salg,2.745,3,Villa,158,1909,,Aktuel værdi
+Niels Anesens Vej 19381 Sulsted,sted,511.000,11-07-1997,Andet,4.120,4,Villa,124,1972,,Aktuel værdi
+Elkærvej 809381 Sulsted,sted,720.000,08-07-1997,Alm. Salg,4.235,5,Villa,170,1938,,Aktuel værdi
+Hammervej 8B9381 Sulsted,sted,1.002.035,30-06-1997,Alm. Salg,5.387,7,Stuehus,186,1900,,
+Bredholtvej 759381 Sulsted,sted,3.299.334,23-06-1997,Alm. Salg,10.151,9,Stuehus,325,1800,,
+Jonas Lies Vej 59381 Sulsted,sted,615.000,18-06-1997,Alm. Salg,5.442,4,Villa,113,1954,,Aktuel værdi
+Sølgårdvej 1009381 Sulsted,sted,810.000,18-06-1997,Alm. Salg,5.000,4,Stuehus,162,1935,,
+Elkærvej 79381 Sulsted,sted,515.000,18-06-1997,Alm. Salg,6.280,3,Villa,82,1954,,Aktuel værdi
+Bjørnsonparken 629381 Sulsted,sted,545.000,18-06-1997,Alm. Salg,5.000,4,Villa,109,1974,,Aktuel værdi
+Bredholtvej 529381 Sulsted,sted,540.000,13-06-1997,Alm. Salg,5.400,3,Villa,100,1905,,Aktuel værdi
+Jonas Lies Vej 109381 Sulsted,sted,817.080,08-06-1997,Alm. Salg,3.118,6,Anden beboelse,262,1927,,Aktuel værdi
+Milbakvej 559381 Sulsted,sted,1.025.000,25-05-1997,Alm. Salg,-,3,Stuehus,184,1922,,
+Sindholtvej 309381 Sulsted,sted,2.100.000,18-04-1997,Fam. Salg,15.328,4,Stuehus,137,1984,,
+Hammervej 499381 Sulsted,sted,971.488,17-03-1997,Alm. Salg,5.714,5,Villa,170,1920,,Aktuel værdi
+Tvedens Alle 639381 Sulsted,sted,665.000,14-03-1997,Alm. Salg,6.045,4,Villa,110,1971,,Aktuel værdi
+Sulsted Landevej 909381 Sulsted,sted,355.000,17-02-1997,Alm. Salg,3.227,4,Villa,110,1937,,Aktuel værdi
+Staprisvej 59381 Sulsted,sted,300.000,13-02-1997,Alm. Salg,1.630,4,Villa,184,1998,,Aktuel værdi
+Mindevej 209381 Sulsted,sted,246.166,28-01-1997,Alm. Salg,1.641,4,Stuehus,150,1925,,
+Kuskgårdsvej 299381 Sulsted,sted,799.000,27-11-1996,Alm. Salg,5.256,4,Villa,152,1971,,Aktuel værdi
+Bjørnsonparken 379381 Sulsted,sted,616.360,14-10-1996,Alm. Salg,-,5,Villa,172,1973,,Aktuel værdi
+Sulsted Kærvej 159381 Sulsted,sted,792.845,20-09-1996,Alm. Salg,5.216,4,Villa,152,1969,,Aktuel værdi
+Bredholtvej 329381 Sulsted,sted,545.000,21-08-1996,Alm. Salg,3.343,5,Villa,163,1977,,Aktuel værdi
+Gårdhusevej 109381 Sulsted,sted,850.000,07-08-1996,Alm. Salg,2.544,10,Villa,334,1965,,Aktuel værdi
+Vestergårdsvej 119381 Sulsted,sted,550.000,20-06-1996,Alm. Salg,3.716,5,Villa,148,1967,,Aktuel værdi
+Ajstrup Mosevej 309381 Sulsted,sted,1.300.000,19-06-1996,Alm. Salg,6.989,6,Stuehus,186,1980,,
+Stokbrovej 139381 Sulsted,sted,500.000,24-05-1996,Fam. Salg,2.732,6,Stuehus,183,1914,,
+Præstegårds Mark 49381 Sulsted,sted,850.000,13-05-1996,Alm. Salg,7.391,4,Stuehus,115,1922,,
+Niels Anesens Vej 169381 Sulsted,sted,369.020,11-05-1996,Alm. Salg,2.292,6,Villa,161,1955,,Aktuel værdi
+Tvedens Alle 819381 Sulsted,sted,550.000,19-04-1996,Alm. Salg,4.782,4,Villa,115,1987,,Aktuel værdi
+Elkærvej 689381 Sulsted,sted,645.535,17-04-1996,Alm. Salg,3.452,5,Villa,187,1956,,Aktuel værdi
+Kuskgårdsvej 119381 Sulsted,sted,600.960,02-04-1996,Alm. Salg,2.276,8,Villa,264,1900,,Aktuel værdi
+Aksel Sandemose Vej 99381 Sulsted,sted,808.000,01-04-1996,Alm. Salg,5.812,5,Villa,139,1973,,Aktuel værdi
+Stokbrovej 399381 Sulsted,sted,220.000,28-03-1996,Alm. Salg,2.444,2,Villa,90,1897,,Aktuel værdi
+Toftegårdsparken 29381 Sulsted,sted,597.000,19-03-1996,Alm. Salg,4.700,4,Villa,127,1972,,Aktuel værdi
+Ajstrup Sønderhede 309381 Sulsted,sted,240.000,07-03-1996,Alm. Salg,2.181,5,Villa,110,1900,,Aktuel værdi
+Bredholtvej 249381 Sulsted,sted,553.000,27-02-1996,Alm. Salg,3.686,6,Villa,150,1900,,Aktuel værdi
+Milbakvej 689381 Sulsted,sted,595.000,11-12-1995,Alm. Salg,3.305,5,Villa,180,1921,,Aktuel værdi
+Tvedens Alle 79381 Sulsted,sted,680.000,11-12-1995,Alm. Salg,4.689,5,Villa,145,1973,,Aktuel værdi
+Sulsted Kirkevej 89381 Sulsted,sted,429.860,30-10-1995,Alm. Salg,2.543,7,Villa,169,1970,,Aktuel værdi
+Kuskgårdsvej 219381 Sulsted,sted,125.000,12-10-1995,Alm. Salg,706,7,Villa,177,1995,,Aktuel værdi
+Tvedens Alle 179381 Sulsted,sted,675.000,05-10-1995,Alm. Salg,4.530,6,Villa,149,1972,,Aktuel værdi
+Holtevej 249381 Sulsted,sted,347.810,26-09-1995,Alm. Salg,3.161,4,Villa,110,1963,,Aktuel værdi
+Bjørnsonparken 99381 Sulsted,sted,750.000,21-09-1995,Alm. Salg,4.411,5,Villa,170,1974,,Aktuel værdi
+Strindbergparken 39381 Sulsted,sted,575.000,15-09-1995,Alm. Salg,4.291,4,Villa,134,1980,,Aktuel værdi
+Bjørnsonparken 29381 Sulsted,sted,671.000,30-06-1995,Alm. Salg,4.533,6,Villa,148,1978,,Aktuel værdi
+Bjørnsonparken 199381 Sulsted,sted,651.820,26-06-1995,Alm. Salg,5.092,3,Villa,128,1978,,Aktuel værdi
+Elkærvej 559381 Sulsted,sted,1.091.330,03-06-1995,Alm. Salg,5.743,7,Stuehus,190,1965,,
+Hammervej 599381 Sulsted,sted,872.500,25-05-1995,Alm. Salg,2.528,5,Villa,345,1972,,Aktuel værdi
+Elkærvej 239381 Sulsted,sted,500.000,03-05-1995,Alm. Salg,3.937,6,Villa,127,1960,,Aktuel værdi
+Sulsted Engvej 189381 Sulsted,sted,85.556,24-04-1995,Andet,712,3,Villa,120,1922,,Aktuel værdi
+Strindbergparken 369381 Sulsted,sted,760.000,24-04-1995,Alm. Salg,5.428,4,Villa,140,1973,,Aktuel værdi
+Hammervej 159381 Sulsted,sted,1.237.000,19-04-1995,Alm. Salg,-,4,Stuehus,207,1922,,
+Bredholtvej 409381 Sulsted,sted,620.000,30-03-1995,Alm. Salg,2.246,7,Villa,276,1875,,Aktuel værdi
+Strindbergparken 17B9381 Sulsted,sted,420.000,19-02-1995,Alm. Salg,4.615,4,Rækkehus,91,1981,,Aktuel værdi
+Sølgårdvej 589381 Sulsted,sted,485.000,18-02-1995,Alm. Salg,2.650,9,Stuehus,183,1932,,
+Bredholtvej 319381 Sulsted,sted,600.000,17-11-1994,Alm. Salg,4.615,5,Villa,130,1870,,Aktuel værdi
+Elkærvej 76A9381 Sulsted,sted,355.000,15-11-1994,Alm. Salg,-,5,Villa,178,1900,,Aktuel værdi
+Bjørnsonparken 16A9381 Sulsted,sted,791.850,08-11-1994,Alm. Salg,5.738,5,Villa,138,1987,,Aktuel værdi
+Strindbergparken 79381 Sulsted,sted,660.000,31-10-1994,Alm. Salg,5.689,4,Villa,116,1985,,Aktuel værdi
+Mindevej 149381 Sulsted,sted,635.000,15-09-1994,Alm. Salg,4.233,6,Stuehus,150,1921,,
+Bredholtvej 439381 Sulsted,sted,200.000,29-08-1994,Alm. Salg,1.785,4,Villa,112,1919,,Aktuel værdi
+Sulsted Landevej 789381 Sulsted,sted,710.000,18-08-1994,Alm. Salg,3.697,6,Villa,192,1964,,Aktuel værdi
+Engvej 1979381 Sulsted,sted,822.000,24-06-1994,Alm. Salg,5.708,3,Stuehus,144,1920,,
+Ajstrupvej 449381 Sulsted,sted,380.750,08-06-1994,Alm. Salg,2.293,7,Villa,166,1914,,Aktuel værdi
+Milbakvej 589381 Sulsted,sted,575.000,30-05-1994,Alm. Salg,2.254,9,Villa,255,1840,,Aktuel værdi
+Bjørnsonparken 829381 Sulsted,sted,551.000,24-05-1994,Alm. Salg,3.697,5,Villa,149,1974,,Aktuel værdi
+Bjørnsonparken 569381 Sulsted,sted,550.000,25-03-1994,Alm. Salg,3.021,6,Villa,182,1976,,Aktuel værdi
+Alexander Kiellands Vej 99381 Sulsted,sted,658.960,19-03-1994,Alm. Salg,3.993,6,Villa,165,1966,,Aktuel værdi
+Elkærvej 669381 Sulsted,sted,515.000,01-03-1994,Alm. Salg,2.440,5,Villa,211,1966,,Aktuel værdi
+Elkærvej 1349381 Sulsted,sted,172.027,28-12-1993,Andet,-,5,Villa,174,1921,,Aktuel værdi
+Kuskgårdsvej 179381 Sulsted,sted,315.000,25-11-1993,Alm. Salg,2.460,3,Villa,128,1796,,Aktuel værdi
+Korsbrovej 399381 Sulsted,sted,1.200.000,11-11-1993,Alm. Salg,5.504,5,Stuehus,218,1939,,
+Bjørnsonparken 39381 Sulsted,sted,510.000,19-10-1993,Fam. Salg,3.333,4,Villa,153,1974,,Aktuel værdi
+Hammervej 859381 Sulsted,sted,535.000,30-09-1993,Alm. Salg,2.972,6,Villa,180,1897,,Aktuel værdi
+Byrholtvej 169381 Sulsted,sted,700.000,30-09-1993,Fam. Salg,3.645,6,Stuehus,192,1908,,
+Milbakvej 1019381 Sulsted,sted,480.000,11-09-1993,Alm. Salg,4.324,4,Villa,111,1978,,Aktuel værdi
+Bjørnsonparken 42A9381 Sulsted,sted,650.000,03-08-1993,Alm. Salg,3.299,5,Villa,197,1977,,Aktuel værdi
+Stidsholtvej 39381 Sulsted,sted,470.000,16-06-1993,Alm. Salg,2.422,5,Stuehus,194,1900,,
+Hammervej 409381 Sulsted,sted,450.000,15-06-1993,Alm. Salg,2.812,7,Villa,160,1920,,Aktuel værdi
+Elkærvej 469381 Sulsted,sted,137.874,24-05-1993,Auktion,-,4,Villa,169,1942,,Aktuel værdi
+Sølgårdvej 409381 Sulsted,sted,1.413.533,14-05-1993,Fam. Salg,8.725,8,Stuehus,162,1882,,
+Sulsted Kirkevej 349381 Sulsted,sted,70.000,26-01-1993,Alm. Salg,2.333,1,Sommerhus,30,1950,,Aktuel værdi
+Elkærvej 609381 Sulsted,sted,285.000,20-01-1993,Fam. Salg,2.544,3,Villa,112,1958,,Aktuel værdi
+Milbakvej 519381 Sulsted,sted,372.500,15-01-1993,Alm. Salg,-,6,Stuehus,192,1922,,
+Bjørnsonparken 409381 Sulsted,sted,620.000,19-10-1992,Alm. Salg,3.780,5,Villa,164,1974,,Aktuel værdi
+Milbakvej 229381 Sulsted,sted,584.534,12-10-1992,Alm. Salg,3.247,6,Stuehus,180,1921,,
+Sølgårdvej 319381 Sulsted,sted,62.653,29-09-1992,Alm. Salg,384,5,Stuehus,163,1928,,
+Byrholtvej 39381 Sulsted,sted,212.500,21-09-1992,Fam. Salg,-,6,Villa,176,1968,,Aktuel værdi
+Præstegårds Mark 19381 Sulsted,sted,365.000,13-08-1992,Alm. Salg,3.146,3,Villa,116,1917,,Aktuel værdi
+Bredholtvej 469381 Sulsted,sted,393.500,06-08-1992,Alm. Salg,2.261,5,Villa,174,1928,,Aktuel værdi
+Bjørnsonparken 349381 Sulsted,sted,445.000,14-07-1992,Alm. Salg,3.560,5,Villa,125,1976,,Aktuel værdi
+Tvedens Alle 379381 Sulsted,sted,440.000,03-07-1992,Alm. Salg,3.793,4,Villa,116,1972,,Aktuel værdi
+Bredholtvej 229381 Sulsted,sted,570.000,18-06-1992,Alm. Salg,2.908,5,Villa,196,1882,,Aktuel værdi
+Tvedens Alle 99381 Sulsted,sted,284.946,14-05-1992,Andet,2.110,4,Villa,135,1974,,Aktuel værdi
+Bredholtvej 309381 Sulsted,sted,521.716,30-04-1992,Alm. Salg,2.850,6,Villa,183,1980,,Aktuel værdi
+Jonas Lies Vej 79381 Sulsted,sted,455.000,05-04-1992,Alm. Salg,4.642,4,Villa,98,1947,,Aktuel værdi
+Gårdhusevej 209381 Sulsted,sted,293.319,01-04-1992,Alm. Salg,4.190,2,Stuehus,70,1870,,
+Sigurd Hoels Vej 39381 Sulsted,sted,330.000,15-03-1992,Alm. Salg,1.157,9,Villa,285,1910,,Aktuel værdi

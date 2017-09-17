@@ -1,0 +1,472 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Præstevænget 2577280 Sønder Felding,ding,900.000,04-05-2017,Alm. Salg,6.766,4,Villa,133,1980,-5 %,Aktuel værdi
+Elkjærvej 57280 Sønder Felding,ding,940.000,20-04-2017,Alm. Salg,6.911,4,Villa,136,1973,,Aktuel værdi
+Skovbjergvej 317280 Sønder Felding,ding,705.500,16-02-2017,Fam. Salg,3.492,7,Anden beboelse,202,1964,,Aktuel værdi
+Bjergevej 167280 Sønder Felding,ding,120.000,13-02-2017,Alm. Salg,1.200,3,Villa,100,1900,,Aktuel værdi
+Tarpvej 57280 Sønder Felding,ding,900.000,09-12-2016,Alm. Salg,3.358,7,Villa,268,1910,-14 %,Aktuel værdi
+Præstevænget 617280 Sønder Felding,ding,895.000,14-11-2016,Alm. Salg,4.201,6,Villa,213,1976,,Aktuel værdi
+Vardevej 1497280 Sønder Felding,ding,1.775.000,04-11-2016,Alm. Salg,11.912,6,Villa,149,2006,,Aktuel værdi
+Præstevænget 257280 Sønder Felding,ding,575.000,28-10-2016,Alm. Salg,4.166,5,Villa,138,1978,-8 %,Aktuel værdi
+Bredgade 297280 Sønder Felding,ding,535.000,27-10-2016,Alm. Salg,3.386,5,Villa,158,1925,-27 %,Aktuel værdi
+Høgsvigvej 47280 Sønder Felding,ding,750.000,12-10-2016,Alm. Salg,3.409,8,Villa,220,1978,,Aktuel værdi
+Sandetvej 217280 Sønder Felding,ding,995.000,27-09-2016,Alm. Salg,8.361,4,Stuehus,119,1910,,
+Bjergevej 107280 Sønder Felding,ding,600.000,19-08-2016,Alm. Salg,4.411,4,Villa,136,1976,-11 %,Aktuel værdi
+Sdr. Feldingvej 437280 Sønder Felding,ding,715.000,10-08-2016,Alm. Salg,6.217,4,Villa,115,1962,,Aktuel værdi
+Rugvænget 67280 Sønder Felding,ding,500.000,29-07-2016,Alm. Salg,4.464,4,Villa,112,1975,-20 %,Aktuel værdi
+"Bredgade 25, 17280 Sønder Felding",ding,575.000,06-07-2016,Alm. Salg,2.889,9,Anden beboelse,199,1890,,Aktuel værdi
+Solsikkevej 267280 Sønder Felding,ding,1.167.255,25-05-2016,Fam. Salg,6.208,6,Villa,188,2011,,Aktuel værdi
+Hedebyvej 127280 Sønder Felding,ding,98.500,26-03-2016,Andet,462,8,Stuehus,213,1910,,
+Hedebyvej 107280 Sønder Felding,ding,98.500,26-03-2016,Andet,453,6,Stuehus,217,1977,,
+Solsikkevej 17280 Sønder Felding,ding,732.000,22-03-2016,Alm. Salg,6.100,5,Villa,120,1987,-8 %,Aktuel værdi
+Bjergevej 57280 Sønder Felding,ding,350.000,21-03-2016,Alm. Salg,2.573,5,Villa,136,1959,-18 %,Aktuel værdi
+Skjernvej 1287280 Sønder Felding,ding,950.000,14-03-2016,Fam. Salg,3.531,10,Villa,269,1907,,Aktuel værdi
+Markvænget 57280 Sønder Felding,ding,600.000,22-02-2016,Fam. Salg,3.797,5,Villa,158,1985,,Aktuel værdi
+Skjernvej 1457280 Sønder Felding,ding,6.000.000,18-02-2016,Alm. Salg,34.682,5,Stuehus,173,1914,,
+Nørregade 87280 Sønder Felding,ding,630.000,17-12-2015,Alm. Salg,6.000,4,Villa,105,1954,-9 %,Aktuel værdi
+Vesterbjergevej 3B7280 Sønder Felding,ding,50.000,03-12-2015,Alm. Salg,347,3,Villa,144,2015,,Aktuel værdi
+Overtarpvej 37280 Sønder Felding,ding,1.795.000,20-11-2015,Alm. Salg,8.975,4,Stuehus,200,1914,0 %,
+Nørregade 57280 Sønder Felding,ding,825.000,02-11-2015,Alm. Salg,4.583,5,Villa,180,1952,-7 %,Aktuel værdi
+Rugvænget 57280 Sønder Felding,ding,786.554,28-09-2015,Fam. Salg,3.495,5,Villa,225,1971,,Aktuel værdi
+Høgsvigvej 77280 Sønder Felding,ding,612.000,23-09-2015,Alm. Salg,4.279,5,Villa,143,1950,-5 %,Aktuel værdi
+Præstebakken 127280 Sønder Felding,ding,85.270,02-09-2015,Andet,481,6,Villa,177,2016,,Aktuel værdi
+"Strøget 7, 17280 Sønder Felding",ding,450.000,09-08-2015,Alm. Salg,5.625,2,Anden beboelse,80,1930,,Aktuel værdi
+Solsikkevej 97280 Sønder Felding,ding,765.210,08-07-2015,Fam. Salg,3.327,5,Villa,230,1973,,Aktuel værdi
+Tarpvej 37280 Sønder Felding,ding,800.000,30-06-2015,Alm. Salg,4.301,9,Stuehus,186,1955,-5 %,
+Fruerbyvej 217280 Sønder Felding,ding,1.045.000,25-06-2015,Alm. Salg,5.971,5,Villa,175,1966,-2 %,Aktuel værdi
+Fruerbyvej 197280 Sønder Felding,ding,839.000,24-06-2015,Alm. Salg,5.556,5,Villa,151,1966,-1 %,Aktuel værdi
+Solsikkevej 227280 Sønder Felding,ding,1.135.000,22-06-2015,Alm. Salg,6.715,5,Villa,169,1975,-5 %,Aktuel værdi
+Fruerbyvej 47280 Sønder Felding,ding,375.000,10-06-2015,Alm. Salg,2.467,5,Villa,152,1963,-29 %,Aktuel værdi
+Bjergevej 557280 Sønder Felding,ding,930.000,31-05-2015,Alm. Salg,4.449,7,Villa,209,1980,,Aktuel værdi
+Vestergade 147280 Sønder Felding,ding,1.300.000,23-04-2015,Alm. Salg,7.647,5,Villa,170,1972,-7 %,Aktuel værdi
+Overtarpvej 2A7280 Sønder Felding,ding,3.494.455,17-04-2015,Alm. Salg,16.640,7,Stuehus,210,1961,,
+Sandetvej 47280 Sønder Felding,ding,370.000,09-04-2015,Alm. Salg,3.008,3,Villa,123,1930,,Aktuel værdi
+Møllevej 27280 Sønder Felding,ding,710.000,27-03-2015,Alm. Salg,7.395,4,Villa,96,1963,-5 %,Aktuel værdi
+Præstevænget 477280 Sønder Felding,ding,500.000,27-02-2015,Alm. Salg,3.676,5,Villa,136,1974,-28 %,Aktuel værdi
+Nørregade 97280 Sønder Felding,ding,325.000,04-02-2015,Alm. Salg,2.927,3,Villa,111,1952,0 %,Aktuel værdi
+Aagade 67280 Sønder Felding,ding,525.000,24-11-2014,Alm. Salg,3.260,5,Villa,161,1946,-9 %,Aktuel værdi
+Åparken 27280 Sønder Felding,ding,1.850.000,30-09-2014,Alm. Salg,10.109,6,Villa,183,2004,-2 %,Aktuel værdi
+Aagade 87280 Sønder Felding,ding,950.000,25-07-2014,Alm. Salg,6.291,4,Villa,151,1982,-5 %,Aktuel værdi
+Aagade 127280 Sønder Felding,ding,510.000,30-06-2014,Alm. Salg,3.517,6,Villa,145,1959,-20 %,Aktuel værdi
+Bjergevej 127280 Sønder Felding,ding,875.000,20-06-2014,Alm. Salg,5.952,6,Villa,147,1978,-2 %,Aktuel værdi
+Åparken 367280 Sønder Felding,ding,1.100.000,16-06-2014,Alm. Salg,7.333,5,Villa,150,2001,-8 %,Aktuel værdi
+Mågevej 307280 Sønder Felding,ding,354.186,08-04-2014,Alm. Salg,2.623,4,Villa,135,1962,,Aktuel værdi
+Kirsdalvej 17280 Sønder Felding,ding,10.900.000,07-04-2014,Alm. Salg,43.600,6,Stuehus,250,1985,,
+Vesterbysvej 67280 Sønder Felding,ding,425.000,20-03-2014,Alm. Salg,4.829,4,Villa,88,1946,-4 %,Aktuel værdi
+Aagade 37280 Sønder Felding,ding,925.000,13-03-2014,Alm. Salg,4.262,13,Villa,217,1953,-7 %,Aktuel værdi
+Birkebyvej 57280 Sønder Felding,ding,120.000,12-03-2014,Alm. Salg,500,7,Villa,240,1918,,Aktuel værdi
+Markvænget 87280 Sønder Felding,ding,439.932,08-03-2014,Fam. Salg,3.666,4,Villa,120,1985,-37 %,Aktuel værdi
+Præstevænget 1317280 Sønder Felding,ding,1.182.000,07-03-2014,Alm. Salg,6.952,6,Villa,170,1986,,Aktuel værdi
+Gl. Skolevej 57280 Sønder Felding,ding,80.000,07-02-2014,Auktion,500,4,Villa,160,1955,,Aktuel værdi
+Åparken 147280 Sønder Felding,ding,2.470.000,27-01-2014,Alm. Salg,12.602,6,Villa,196,1994,-1 %,Aktuel værdi
+Dalgasvej 67280 Sønder Felding,ding,775.000,16-01-2014,Andet,3.027,8,Stuehus,256,1910,,
+Aagade 347280 Sønder Felding,ding,263.912,03-01-2014,Alm. Salg,2.128,4,Villa,124,1970,,Aktuel værdi
+Bjergevej 87280 Sønder Felding,ding,1.450.000,17-12-2013,Alm. Salg,10.431,4,Villa,139,2011,-2 %,Aktuel værdi
+Nørregade 317280 Sønder Felding,ding,235.000,16-12-2013,Alm. Salg,2.008,4,Villa,117,1954,-41 %,Aktuel værdi
+Skovbjergvej 287280 Sønder Felding,ding,480.000,30-10-2013,Alm. Salg,4.102,3,Villa,117,1957,-11 %,Aktuel værdi
+Åparken 107280 Sønder Felding,ding,610.000,22-10-2013,Fam. Salg,3.546,6,Villa,172,1997,,Aktuel værdi
+Birkebyvej 47280 Sønder Felding,ding,575.000,04-10-2013,Alm. Salg,3.833,5,Villa,150,1920,-3 %,Aktuel værdi
+Tarpvej 97280 Sønder Felding,ding,460.000,26-09-2013,Alm. Salg,3.538,6,Stuehus,130,1916,,
+Præstevænget 337280 Sønder Felding,ding,625.000,16-09-2013,Alm. Salg,4.166,6,Villa,150,1973,-14 %,Aktuel værdi
+Solhjemvej 117280 Sønder Felding,ding,510.000,24-08-2013,Alm. Salg,3.128,6,Stuehus,163,1959,-67 %,
+Præstevænget 1457280 Sønder Felding,ding,1.210.000,02-08-2013,Alm. Salg,9.527,4,Villa,127,1987,-7 %,Aktuel værdi
+Søndergade 97280 Sønder Felding,ding,330.000,24-07-2013,Alm. Salg,3.750,3,Villa,88,1871,-16 %,Aktuel værdi
+Skjernvej 1517280 Sønder Felding,ding,1.500.000,26-06-2013,Alm. Salg,8.108,6,Stuehus,185,1854,,
+Gl. Skolevej 27280 Sønder Felding,ding,4.100.000,23-06-2013,Andet,27.333,5,Stuehus,150,1920,,
+Vestergade 167280 Sønder Felding,ding,574.500,18-06-2013,Andet,3.379,5,Villa,170,1969,,Aktuel værdi
+Skovbjergvej 27280 Sønder Felding,ding,211.391,12-06-2013,Alm. Salg,2.348,4,Villa,90,1890,,Aktuel værdi
+Hjejlevej 67280 Sønder Felding,ding,635.000,23-05-2013,Alm. Salg,7.134,4,Villa,89,1958,,Aktuel værdi
+Markvænget 47280 Sønder Felding,ding,250.000,21-05-2013,Alm. Salg,2.049,4,Villa,122,1974,-29 %,Aktuel værdi
+Skolegade 177280 Sønder Felding,ding,840.000,02-05-2013,Fam. Salg,7.368,5,Villa,114,1964,,Aktuel værdi
+Solsikkevej 3A7280 Sønder Felding,ding,620.000,01-05-2013,Alm. Salg,8.857,4,Rækkehus,70,1988,-4 %,Aktuel værdi
+Nørregade 227280 Sønder Felding,ding,945.000,22-04-2013,Alm. Salg,5.797,4,Villa,163,1942,0 %,Aktuel værdi
+Mosegaardsvej 67280 Sønder Felding,ding,635.000,25-03-2013,Alm. Salg,2.259,12,Stuehus,281,1890,-29 %,
+Mølholmvej 47280 Sønder Felding,ding,450.000,25-03-2013,Alm. Salg,4.687,4,Rækkehus,96,1970,-9 %,Aktuel værdi
+Tarpvej 17280 Sønder Felding,ding,4.040.000,18-03-2013,Fam. Salg,26.933,5,Stuehus,150,1930,,
+Fruerbyvej 157280 Sønder Felding,ding,775.000,06-03-2013,Alm. Salg,5.575,6,Villa,139,1957,-3 %,Aktuel værdi
+Fruerbyvej 97280 Sønder Felding,ding,350.000,14-02-2013,Alm. Salg,2.800,6,Villa,125,1961,-11 %,Aktuel værdi
+Nygårdsvej 27280 Sønder Felding,ding,1.530.000,07-02-2013,Alm. Salg,10.065,7,Stuehus,152,1969,,
+Engen 57280 Sønder Felding,ding,595.000,01-02-2013,Alm. Salg,3.993,5,Villa,149,1957,-14 %,Aktuel værdi
+Sandetvej 177280 Sønder Felding,ding,1.700.000,02-11-2012,Alm. Salg,17.000,3,Stuehus,100,1949,-3 %,
+Præstevænget 667280 Sønder Felding,ding,2.400.000,26-10-2012,Andet,21.621,4,Rækkehus,111,2011,,Aktuel værdi
+Møllevej 297280 Sønder Felding,ding,880.000,12-10-2012,Alm. Salg,6.470,4,Villa,136,1979,-2 %,Aktuel værdi
+Præstebakken 27280 Sønder Felding,ding,1.135.060,08-10-2012,Alm. Salg,5.647,5,Villa,201,2006,-53 %,Aktuel værdi
+Richard R. Nielsens Vej 37280 Sønder Felding,ding,18.100.000,24-09-2012,Alm. Salg,133.088,5,Anden beboelse,136,1978,,Aktuel værdi
+Søndergade 117280 Sønder Felding,ding,425.000,31-08-2012,Alm. Salg,3.373,5,Villa,126,1897,-6 %,Aktuel værdi
+Præstevænget 77280 Sønder Felding,ding,650.000,23-08-2012,Alm. Salg,5.284,4,Villa,123,1973,0 %,Aktuel værdi
+Aagade 147280 Sønder Felding,ding,550.000,14-08-2012,Alm. Salg,4.365,4,Villa,126,1950,,Aktuel værdi
+Vestergade 27280 Sønder Felding,ding,425.000,12-07-2012,Alm. Salg,4.336,3,Villa,98,1960,-4 %,Aktuel værdi
+Nederbyvej 17280 Sønder Felding,ding,1.065.000,29-06-2012,Auktion,5.788,7,Villa,184,1910,,Aktuel værdi
+Åparken 387280 Sønder Felding,ding,1.345.000,18-06-2012,Alm. Salg,11.695,4,Villa,115,2005,0 %,Aktuel værdi
+Skjernvej 1367280 Sønder Felding,ding,1.959.930,11-06-2012,Alm. Salg,10.207,6,Stuehus,192,1924,,
+Lupinvænget 17280 Sønder Felding,ding,747.500,16-05-2012,Fam. Salg,6.674,3,Villa,112,1968,,Aktuel værdi
+Vestergade 67280 Sønder Felding,ding,345.000,17-04-2012,Andet,2.782,4,Villa,124,1967,,Aktuel værdi
+Bredgade 57280 Sønder Felding,ding,500.000,27-03-2012,Alm. Salg,4.901,4,Villa,102,1906,,Aktuel værdi
+Præstebakken 67280 Sønder Felding,ding,182.350,12-03-2012,Alm. Salg,814,7,Villa,224,2013,,Aktuel værdi
+Præstevænget 2597280 Sønder Felding,ding,930.000,09-03-2012,Andet,5.740,5,Villa,162,1980,-7 %,Aktuel værdi
+Markvænget 77280 Sønder Felding,ding,920.000,09-02-2012,Alm. Salg,4.791,5,Villa,192,1986,-13 %,Aktuel værdi
+Kærhedevej 157280 Sønder Felding,ding,1.595.000,25-01-2012,Alm. Salg,9.011,4,Stuehus,177,1939,0 %,
+Præstevænget 2637280 Sønder Felding,ding,735.000,11-01-2012,Alm. Salg,5.697,4,Villa,129,1980,-2 %,Aktuel værdi
+Mågevej 127280 Sønder Felding,ding,271.365,11-11-2011,Auktion,3.083,3,Villa,88,1961,-58 %,Aktuel værdi
+Præstebakken 37280 Sønder Felding,ding,222.340,23-09-2011,Alm. Salg,1.355,7,Villa,164,2012,,Aktuel værdi
+Præstevænget 1157280 Sønder Felding,ding,970.000,02-07-2011,Alm. Salg,7.698,5,Villa,126,1987,,Aktuel værdi
+Høgsvigvej 227280 Sønder Felding,ding,5.650.000,17-06-2011,Alm. Salg,14.125,11,Villa,400,1958,,Aktuel værdi
+Skolegade 17280 Sønder Felding,ding,1.300.000,17-06-2011,Alm. Salg,9.154,6,Villa,142,1913,,Aktuel værdi
+Skolegade 37280 Sønder Felding,ding,3.400.000,17-06-2011,Andet,30.909,5,Stuehus,110,1940,,
+Vardevej 1577280 Sønder Felding,ding,10.550.000,15-06-2011,Fam. Salg,35.762,8,Stuehus,295,1932,,
+Bredgade 317280 Sønder Felding,ding,660.000,15-06-2011,Alm. Salg,5.116,3,Villa,129,1931,-9 %,Aktuel værdi
+Bjergevej 37280 Sønder Felding,ding,700.000,07-06-2011,Fam. Salg,-,5,Villa,124,1942,-6 %,Aktuel værdi
+Præstevænget 97280 Sønder Felding,ding,1.390.000,30-05-2011,Alm. Salg,7.513,6,Villa,185,1973,,Aktuel værdi
+Præstevænget 597280 Sønder Felding,ding,885.000,24-05-2011,Alm. Salg,6.366,3,Villa,139,1977,-15 %,Aktuel værdi
+Møllevej 117280 Sønder Felding,ding,775.000,24-05-2011,Alm. Salg,6.623,3,Villa,117,1964,-1 %,Aktuel værdi
+Fruerbyvej 87280 Sønder Felding,ding,575.000,06-05-2011,Alm. Salg,6.460,3,Villa,89,1957,,Aktuel værdi
+Præstevænget 1437280 Sønder Felding,ding,855.000,03-05-2011,Alm. Salg,7.434,4,Villa,115,1986,0 %,Aktuel værdi
+Mosegaardsvej 47280 Sønder Felding,ding,1.900.000,11-04-2011,Alm. Salg,9.090,7,Stuehus,209,2001,,
+Høgsvigvej 57280 Sønder Felding,ding,450.000,14-03-2011,Alm. Salg,3.409,6,Villa,132,1978,-24 %,Aktuel værdi
+"Møllevej 33, 1. TH7280 Sønder Felding",ding,40.000,11-03-2011,Auktion,816,2,Lejlighed,49,1900,,Aktuel værdi
+Nygårdsvej 17280 Sønder Felding,ding,1.145.000,09-03-2011,Alm. Salg,7.246,7,Stuehus,158,1913,-72 %,
+Kirsdalvej 47280 Sønder Felding,ding,833.441,21-01-2011,Alm. Salg,3.516,5,Stuehus,237,1932,-56 %,
+Søndergade 197280 Sønder Felding,ding,985.000,12-01-2011,Alm. Salg,6.234,6,Villa,158,1958,-1 %,Aktuel værdi
+Gl. Skolevej 77280 Sønder Felding,ding,150.000,29-12-2010,Alm. Salg,1.200,4,Villa,125,1919,-70 %,Aktuel værdi
+Møllevej 277280 Sønder Felding,ding,910.000,27-12-2010,Alm. Salg,6.363,5,Villa,143,1974,-7 %,Aktuel værdi
+Vardevej 1367280 Sønder Felding,ding,1.450.000,17-12-2010,Alm. Salg,5.178,6,Stuehus,280,1927,0 %,
+Præstevænget 657280 Sønder Felding,ding,1.275.000,17-12-2010,Alm. Salg,8.793,5,Villa,145,1974,,Aktuel værdi
+Præstebakken 77280 Sønder Felding,ding,209.650,06-12-2010,Alm. Salg,1.164,7,Villa,180,2013,,Aktuel værdi
+Vestergade 227280 Sønder Felding,ding,625.000,19-11-2010,Alm. Salg,4.496,7,Villa,139,1966,-13 %,Aktuel værdi
+Gl. Skolevej 97280 Sønder Felding,ding,605.518,05-11-2010,Alm. Salg,2.842,10,Villa,213,1915,,Aktuel værdi
+Præstevænget 1797280 Sønder Felding,ding,925.000,13-10-2010,Alm. Salg,6.379,5,Villa,145,1978,-5 %,Aktuel værdi
+Skovbjergvej 87280 Sønder Felding,ding,371.600,10-09-2010,Alm. Salg,3.149,4,Villa,118,1954,-13 %,Aktuel værdi
+Vardevej 1617280 Sønder Felding,ding,1.972.000,09-09-2010,Alm. Salg,21.434,4,Stuehus,92,1905,,
+Møllevej 217280 Sønder Felding,ding,576.065,29-06-2010,Fam. Salg,3.945,7,Villa,146,1997,,Aktuel værdi
+Høgsvigvej 167280 Sønder Felding,ding,1.100.000,14-06-2010,Alm. Salg,7.971,5,Villa,138,1973,-7 %,Aktuel værdi
+Lærkevej 37280 Sønder Felding,ding,950.000,22-05-2010,Alm. Salg,7.916,6,Villa,120,1954,-5 %,Aktuel værdi
+Kirsdalvej 2B7280 Sønder Felding,ding,250.000,03-05-2010,Alm. Salg,2.155,5,Stuehus,116,1930,,
+Vestergade 237280 Sønder Felding,ding,700.000,19-04-2010,Alm. Salg,7.000,4,Villa,100,1964,-5 %,Aktuel værdi
+Møllevej 127280 Sønder Felding,ding,775.000,09-04-2010,Alm. Salg,7.908,4,Villa,98,1964,-13 %,Aktuel værdi
+Bredgade 367280 Sønder Felding,ding,1.100.000,11-03-2010,Alm. Salg,7.432,5,Villa,148,1954,,Aktuel værdi
+Præstevænget 1337280 Sønder Felding,ding,1.245.000,02-03-2010,Alm. Salg,8.190,4,Villa,152,1986,184 %,Aktuel værdi
+Fruerbyvej 147280 Sønder Felding,ding,815.000,03-02-2010,Alm. Salg,9.261,4,Villa,88,1965,,Aktuel værdi
+Præstevænget 787280 Sønder Felding,ding,1.750.000,01-02-2010,Alm. Salg,13.358,4,Rækkehus,131,2009,,Aktuel værdi
+Åparken 307280 Sønder Felding,ding,1.750.000,23-12-2009,Alm. Salg,11.513,6,Villa,152,2000,-5 %,Aktuel værdi
+Mindsvej 27280 Sønder Felding,ding,1.875.000,10-12-2009,Fam. Salg,9.615,6,Stuehus,195,1917,,
+Præstevænget 647280 Sønder Felding,ding,1.845.460,24-07-2009,Alm. Salg,14.087,4,Rækkehus,131,2011,,Aktuel værdi
+Præstevænget 2357280 Sønder Felding,ding,1.385.000,07-07-2009,Alm. Salg,7.780,6,Villa,178,1976,,Aktuel værdi
+Mølledamsvej 27280 Sønder Felding,ding,210.000,02-07-2009,Auktion,3.043,2,Villa,69,1945,,Aktuel værdi
+Aagade 137280 Sønder Felding,ding,675.000,25-06-2009,Alm. Salg,7.180,3,Villa,94,1963,,Aktuel værdi
+Præstevænget 47280 Sønder Felding,ding,615.000,12-06-2009,Alm. Salg,8.092,3,Rækkehus,76,1981,,Aktuel værdi
+Ahornvej 97280 Sønder Felding,ding,1.150.000,06-06-2009,Alm. Salg,7.986,5,Villa,144,1965,,Aktuel værdi
+Engen 97280 Sønder Felding,ding,1.410.000,20-05-2009,Alm. Salg,15.161,3,Villa,93,1959,-3 %,Aktuel værdi
+Hjejlevej 17280 Sønder Felding,ding,460.000,18-05-2009,Alm. Salg,4.791,4,Villa,96,1948,-7 %,Aktuel værdi
+Rugvænget 97280 Sønder Felding,ding,750.000,07-05-2009,Alm. Salg,5.434,4,Villa,138,1971,,Aktuel værdi
+Præstebakken 57280 Sønder Felding,ding,207.850,24-04-2009,Alm. Salg,1.676,5,Villa,124,2010,,Aktuel værdi
+Sandetvej 127280 Sønder Felding,ding,500.000,04-04-2009,Andet,2.008,7,Stuehus,249,2014,,
+Vesterbysvej 37280 Sønder Felding,ding,400.000,24-03-2009,Alm. Salg,3.960,5,Villa,101,1941,-10 %,Aktuel værdi
+Fruerbyvej 107280 Sønder Felding,ding,185.000,20-03-2009,Andet,2.102,3,Villa,88,1957,,Aktuel værdi
+Vestergade 207280 Sønder Felding,ding,800.000,04-03-2009,Alm. Salg,6.722,5,Villa,119,1969,-3 %,Aktuel værdi
+Overbyvej 17280 Sønder Felding,ding,2.965.000,06-02-2009,Fam. Salg,25.127,6,Stuehus,118,1916,,
+Skolegade 117280 Sønder Felding,ding,830.000,22-01-2009,Alm. Salg,5.320,5,Villa,156,1961,-7 %,Aktuel værdi
+Aagade 117280 Sønder Felding,ding,950.000,17-12-2008,Alm. Salg,6.012,5,Villa,158,1966,,Aktuel værdi
+Sandetvej 277280 Sønder Felding,ding,2.150.000,04-12-2008,Alm. Salg,10.750,9,Villa,200,1916,-17 %,Aktuel værdi
+Nørregade 247280 Sønder Felding,ding,660.000,19-11-2008,Alm. Salg,5.789,4,Villa,114,1947,-2 %,Aktuel værdi
+Skovbjergvej 227280 Sønder Felding,ding,620.000,17-11-2008,Alm. Salg,5.636,4,Villa,110,1955,,Aktuel værdi
+Fabriksvej 47280 Sønder Felding,ding,650.000,25-09-2008,Alm. Salg,5.118,4,Villa,127,1943,,Aktuel værdi
+Høgsvigvej 137280 Sønder Felding,ding,1.100.000,03-09-2008,Alm. Salg,12.087,4,Villa,91,1977,-4 %,Aktuel værdi
+Vardevej 1547280 Sønder Felding,ding,7.750.000,15-07-2008,Alm. Salg,40.364,9,Stuehus,192,1917,,
+Aagade 47280 Sønder Felding,ding,700.000,30-06-2008,Alm. Salg,6.481,4,Villa,108,1964,,Aktuel værdi
+Kærhedevej 177280 Sønder Felding,ding,286.875,22-06-2008,Alm. Salg,2.561,4,Stuehus,112,1988,,
+Kærhedevej 197280 Sønder Felding,ding,4.145.000,18-06-2008,Alm. Salg,20.725,5,Stuehus,200,2011,-1 %,
+Høgsvigvej 187280 Sønder Felding,ding,900.000,17-06-2008,Alm. Salg,6.040,6,Villa,149,1971,-5 %,Aktuel værdi
+Åparken 57280 Sønder Felding,ding,125.278,07-06-2008,Alm. Salg,921,5,Villa,136,2009,,Aktuel værdi
+Nørregade 307280 Sønder Felding,ding,495.000,02-06-2008,Alm. Salg,5.322,4,Villa,93,1960,-3 %,Aktuel værdi
+Præstevænget 27280 Sønder Felding,ding,625.000,23-05-2008,Alm. Salg,8.223,3,Rækkehus,76,1981,,Aktuel værdi
+Nørregade 267280 Sønder Felding,ding,585.000,23-05-2008,Alm. Salg,8.357,1,Villa,70,1956,-2 %,Aktuel værdi
+Vesterbjergevej 97280 Sønder Felding,ding,1.280.000,11-04-2008,Alm. Salg,6.464,6,Stuehus,198,1973,-6 %,
+Præstevænget 2557280 Sønder Felding,ding,993.000,15-03-2008,Alm. Salg,8.634,4,Villa,115,1981,,Aktuel værdi
+Præstebakken 17280 Sønder Felding,ding,215.950,04-03-2008,Alm. Salg,1.366,6,Villa,158,2009,,Aktuel værdi
+Mosegaardsvej 77280 Sønder Felding,ding,4.700.000,06-02-2008,Alm. Salg,29.375,7,Stuehus,160,1924,,
+Gl. Høgsvigvej 67280 Sønder Felding,ding,995.000,04-02-2008,Alm. Salg,6.503,5,Villa,153,1957,0 %,Aktuel værdi
+Nørre Alle 37280 Sønder Felding,ding,1.300.000,18-01-2008,Fam. Salg,10.317,5,Villa,126,1931,,Aktuel værdi
+Åparken 347280 Sønder Felding,ding,180.000,17-01-2008,Fam. Salg,833,6,Villa,216,2010,,Aktuel værdi
+Søndergade 227280 Sønder Felding,ding,440.000,23-12-2007,Alm. Salg,7.333,4,Villa,60,1942,0 %,Aktuel værdi
+Mågevej 227280 Sønder Felding,ding,925.000,14-12-2007,Alm. Salg,6.379,3,Villa,145,1960,0 %,Aktuel værdi
+Åparken 137280 Sønder Felding,ding,1.700.000,10-12-2007,Alm. Salg,9.392,4,Villa,181,2005,,Aktuel værdi
+Søndergade 307280 Sønder Felding,ding,795.000,07-12-2007,Alm. Salg,9.937,3,Villa,80,1955,-3 %,Aktuel værdi
+Møllevej 147280 Sønder Felding,ding,650.000,30-10-2007,Alm. Salg,6.500,4,Villa,100,1964,,Aktuel værdi
+Solsikkevej 117280 Sønder Felding,ding,675.000,18-10-2007,Alm. Salg,5.357,5,Villa,126,1975,-15 %,Aktuel værdi
+Mølholmvej 247280 Sønder Felding,ding,1.025.000,11-10-2007,Alm. Salg,4.456,8,Villa,230,1973,-28 %,Aktuel værdi
+Skovbjergvej 77280 Sønder Felding,ding,895.000,11-10-2007,Alm. Salg,11.187,2,Villa,80,1953,0 %,Aktuel værdi
+Ahornvej 27280 Sønder Felding,ding,760.000,30-08-2007,Alm. Salg,5.671,5,Villa,134,1962,-4 %,Aktuel værdi
+Solsikkevej 357280 Sønder Felding,ding,299.000,24-08-2007,Alm. Salg,1.266,8,Villa,236,2015,,Aktuel værdi
+Solhjemvej 17280 Sønder Felding,ding,1.116.000,24-08-2007,Alm. Salg,6.888,4,Stuehus,162,1921,,
+Søndergade 207280 Sønder Felding,ding,760.000,21-08-2007,Alm. Salg,5.846,3,Villa,130,1943,,Aktuel værdi
+Solsikkevej 107280 Sønder Felding,ding,1.290.000,08-08-2007,Alm. Salg,8.600,5,Villa,150,1973,,Aktuel værdi
+Kærhedevej 147280 Sønder Felding,ding,1.860.000,16-07-2007,Alm. Salg,7.750,9,Stuehus,240,1985,-1 %,
+Hjejlevej 47280 Sønder Felding,ding,630.000,01-07-2007,Alm. Salg,6.363,2,Villa,99,1947,,Aktuel værdi
+Aagade 27280 Sønder Felding,ding,525.000,19-06-2007,Alm. Salg,7.500,4,Villa,70,1945,,Aktuel værdi
+Møllevej 17280 Sønder Felding,ding,850.000,06-06-2007,Alm. Salg,7.589,3,Villa,112,1980,,Aktuel værdi
+Mågevej 267280 Sønder Felding,ding,540.000,29-05-2007,Alm. Salg,5.510,4,Villa,98,1960,0 %,Aktuel værdi
+Strøget 57280 Sønder Felding,ding,550.000,19-05-2007,Alm. Salg,3.741,4,Villa,147,1923,,Aktuel værdi
+Bredgade 267280 Sønder Felding,ding,1.300.000,16-05-2007,Andet,11.016,8,Anden beboelse,118,1976,,Aktuel værdi
+Mølholmvej 37280 Sønder Felding,ding,690.000,30-04-2007,Alm. Salg,7.187,3,Villa,96,1968,-5 %,Aktuel værdi
+Solsikkevej 397280 Sønder Felding,ding,149.500,23-03-2007,Alm. Salg,650,7,Villa,230,2008,,Aktuel værdi
+Præstebakken 107280 Sønder Felding,ding,214.240,22-03-2007,Alm. Salg,1.151,5,Villa,186,2008,,Aktuel værdi
+Drongstrup Mark 57280 Sønder Felding,ding,1.195.000,22-03-2007,Alm. Salg,10.863,4,Villa,110,1877,0 %,Aktuel værdi
+Skjernvej 1307280 Sønder Felding,ding,735.792,20-03-2007,Alm. Salg,4.840,3,Stuehus,152,1995,,
+Markvænget 107280 Sønder Felding,ding,625.000,01-03-2007,Alm. Salg,5.482,4,Villa,114,1970,,Aktuel værdi
+Gl. Høgsvigvej 47280 Sønder Felding,ding,575.000,12-02-2007,Alm. Salg,8.214,3,Villa,70,1967,,Aktuel værdi
+Blåbjergvej 27280 Sønder Felding,ding,521.140,09-02-2007,Alm. Salg,2.832,4,Villa,184,1997,,Aktuel værdi
+Søndergade 137280 Sønder Felding,ding,1.115.000,09-01-2007,Auktion,7.193,4,Villa,155,1897,-5 %,Aktuel værdi
+Rugvænget 127280 Sønder Felding,ding,164.400,29-11-2006,Alm. Salg,955,5,Villa,172,2008,,Aktuel værdi
+Markvænget 37280 Sønder Felding,ding,850.000,08-11-2006,Alm. Salg,7.798,4,Villa,109,1984,,Aktuel værdi
+Nørre Alle 107280 Sønder Felding,ding,160.823,26-09-2006,Fam. Salg,1.546,5,Villa,104,1942,,Aktuel værdi
+Vardevej 1487280 Sønder Felding,ding,2.950.000,20-09-2006,Alm. Salg,29.500,4,Stuehus,100,1900,,
+Solsikkevej 177280 Sønder Felding,ding,317.500,13-09-2006,Alm. Salg,2.760,4,Villa,115,1982,,Aktuel værdi
+Præstevænget 377280 Sønder Felding,ding,775.000,08-09-2006,Alm. Salg,6.919,4,Villa,112,1974,,Aktuel værdi
+Vesterbjergevej 77280 Sønder Felding,ding,390.000,14-08-2006,Alm. Salg,1.625,5,Stuehus,240,1968,,
+Vesterbjergevej 57280 Sønder Felding,ding,294.260,14-08-2006,Alm. Salg,833,9,Stuehus,353,1940,,
+Tarpvej 47280 Sønder Felding,ding,4.250.000,27-07-2006,Alm. Salg,34.274,5,Stuehus,124,1900,,
+Solsikkevej 87280 Sønder Felding,ding,1.245.000,11-07-2006,Alm. Salg,4.191,8,Villa,297,1974,,Aktuel værdi
+Fruerbyvej 117280 Sønder Felding,ding,450.000,10-07-2006,Alm. Salg,5.844,4,Villa,77,1960,,Aktuel værdi
+Aagade 367280 Sønder Felding,ding,725.000,27-06-2006,Alm. Salg,6.144,4,Villa,118,1971,,Aktuel værdi
+Vestergade 287280 Sønder Felding,ding,725.000,22-06-2006,Alm. Salg,8.333,3,Villa,87,1964,,Aktuel værdi
+Ahornvej 67280 Sønder Felding,ding,775.000,21-06-2006,Alm. Salg,8.333,4,Villa,93,1966,,Aktuel værdi
+Mågevej 167280 Sønder Felding,ding,520.000,05-06-2006,Alm. Salg,5.416,3,Villa,96,1960,,Aktuel værdi
+Skovbjergvej 97280 Sønder Felding,ding,675.000,22-05-2006,Alm. Salg,5.357,4,Villa,126,1977,,Aktuel værdi
+Tarpvej 87280 Sønder Felding,ding,630.000,10-05-2006,Alm. Salg,5.250,5,Anden beboelse,120,1910,,Aktuel værdi
+Møllevej 157280 Sønder Felding,ding,660.000,05-05-2006,Alm. Salg,5.739,3,Villa,115,1972,,Aktuel værdi
+Engen 17280 Sønder Felding,ding,1.020.000,05-05-2006,Alm. Salg,-,5,Villa,150,1956,,Aktuel værdi
+Præstevænget 1297280 Sønder Felding,ding,1.380.000,17-04-2006,Alm. Salg,6.052,5,Villa,228,1987,,Aktuel værdi
+Engen 137280 Sønder Felding,ding,153.000,06-04-2006,Fam. Salg,2.550,4,Sommerhus,60,1950,,Aktuel værdi
+"Bredgade 19, 17280 Sønder Felding",ding,610.000,01-04-2006,Alm. Salg,5.865,3,Anden beboelse,104,1915,,Aktuel værdi
+Mølledamsvej 47280 Sønder Felding,ding,417.503,16-03-2006,Andet,2.530,6,Villa,165,1974,,Aktuel værdi
+Rugvænget 237280 Sønder Felding,ding,122.200,13-03-2006,Alm. Salg,590,7,Villa,207,2006,,Aktuel værdi
+Skjernvej 1557280 Sønder Felding,ding,2.685.000,09-03-2006,Fam. Salg,11.281,7,Stuehus,238,1988,,
+Lærkevej 17280 Sønder Felding,ding,500.000,22-02-2006,Fam. Salg,4.132,6,Villa,121,1956,,Aktuel værdi
+Skjernvej 1247280 Sønder Felding,ding,2.760.000,17-02-2006,Alm. Salg,17.806,5,Stuehus,155,1938,,
+Præstevænget 537280 Sønder Felding,ding,805.000,21-01-2006,Alm. Salg,5.629,4,Villa,143,1973,,Aktuel værdi
+Bredgade 377280 Sønder Felding,ding,1.175.000,05-01-2006,Alm. Salg,4.795,8,Villa,245,1941,,Aktuel værdi
+Præstebakken 47280 Sønder Felding,ding,202.110,22-11-2005,Alm. Salg,1.312,5,Villa,154,2006,,Aktuel værdi
+Rugvænget 17280 Sønder Felding,ding,650.000,18-11-2005,Alm. Salg,5.327,5,Villa,122,1969,,Aktuel værdi
+Nørre Alle 97280 Sønder Felding,ding,998.000,19-09-2005,Alm. Salg,5.365,3,Villa,186,1976,,Aktuel værdi
+Solsikkevej 127280 Sønder Felding,ding,1.225.000,16-09-2005,Alm. Salg,4.588,9,Villa,267,1972,,Aktuel værdi
+Fruerbyvej 257280 Sønder Felding,ding,685.000,13-09-2005,Alm. Salg,5.854,3,Villa,117,1965,,Aktuel værdi
+Overtarpvej 17280 Sønder Felding,ding,1.225.000,01-09-2005,Alm. Salg,5.833,12,Stuehus,210,1923,,
+Skovbrynet 127280 Sønder Felding,ding,340.000,30-08-2005,Alm. Salg,2.125,6,Villa,160,2007,,Aktuel værdi
+Møllevej 177280 Sønder Felding,ding,705.000,18-07-2005,Alm. Salg,4.964,4,Villa,142,1970,,Aktuel værdi
+Rugvænget 157280 Sønder Felding,ding,312.500,20-06-2005,Alm. Salg,2.367,5,Villa,132,1973,,Aktuel værdi
+Solsikkevej 417280 Sønder Felding,ding,500.000,16-06-2005,Alm. Salg,3.649,4,Villa,137,1985,,Aktuel værdi
+Præstevænget 397280 Sønder Felding,ding,875.000,13-06-2005,Alm. Salg,6.730,4,Villa,130,1974,,Aktuel værdi
+Rugvænget 177280 Sønder Felding,ding,950.000,23-05-2005,Fam. Salg,5.307,6,Villa,179,1973,,Aktuel værdi
+Solsikkevej 187280 Sønder Felding,ding,825.000,15-04-2005,Alm. Salg,3.928,7,Villa,210,1975,,Aktuel værdi
+Møllevej 357280 Sønder Felding,ding,540.000,15-04-2005,Alm. Salg,4.695,4,Villa,115,1972,,Aktuel værdi
+Åparken 47280 Sønder Felding,ding,120.171,14-04-2005,Alm. Salg,698,6,Villa,172,2005,,Aktuel værdi
+Vardevej 1467280 Sønder Felding,ding,390.744,06-04-2005,Alm. Salg,2.158,6,Villa,181,1950,,Aktuel værdi
+Hjejlevej 57280 Sønder Felding,ding,625.000,29-03-2005,Alm. Salg,5.733,4,Villa,109,1963,,Aktuel værdi
+Vesterbysvej 57280 Sønder Felding,ding,550.000,28-02-2005,Alm. Salg,4.198,5,Villa,131,1936,,Aktuel værdi
+Vestergade 247280 Sønder Felding,ding,775.000,22-02-2005,Alm. Salg,5.535,4,Villa,140,1973,,Aktuel værdi
+Søndergade 267280 Sønder Felding,ding,470.000,17-02-2005,Alm. Salg,5.875,4,Villa,80,1957,,Aktuel værdi
+Præstevænget 2497280 Sønder Felding,ding,812.500,09-02-2005,Alm. Salg,6.018,4,Villa,135,1981,,Aktuel værdi
+Vardevej 1597280 Sønder Felding,ding,2.020.000,27-01-2005,Fam. Salg,9.483,7,Stuehus,213,2010,,
+Strøget 197280 Sønder Felding,ding,463.330,27-01-2005,Alm. Salg,1.988,7,Villa,233,1924,,Aktuel værdi
+Vardevej 1387280 Sønder Felding,ding,606.000,31-12-2004,Alm. Salg,4.455,7,Villa,136,1962,,Aktuel værdi
+Skovbjergvej 297280 Sønder Felding,ding,1.350.000,30-11-2004,Alm. Salg,8.035,6,Anden beboelse,168,1960,,Aktuel værdi
+Bjergevej 327280 Sønder Felding,ding,240.000,04-11-2004,Alm. Salg,2.285,3,Villa,105,1968,,Aktuel værdi
+Solsikkevej 157280 Sønder Felding,ding,810.000,29-09-2004,Alm. Salg,-,5,Villa,166,1973,,Aktuel værdi
+Præstevænget 37280 Sønder Felding,ding,1.160.000,22-07-2004,Alm. Salg,5.829,6,Villa,199,1975,,Aktuel værdi
+Solsikkevej 3B7280 Sønder Felding,ding,490.000,29-06-2004,Alm. Salg,7.000,4,Rækkehus,70,1988,,Aktuel værdi
+Engen 37280 Sønder Felding,ding,323.000,25-04-2004,Fam. Salg,3.105,4,Villa,104,1950,,Aktuel værdi
+Bjergevej 207280 Sønder Felding,ding,180.000,11-02-2004,Alm. Salg,1.250,6,Villa,144,1909,,Aktuel værdi
+Høgsvigvej 207280 Sønder Felding,ding,780.000,10-02-2004,Alm. Salg,5.571,3,Villa,140,1972,,Aktuel værdi
+Nørregade 217280 Sønder Felding,ding,575.000,31-01-2004,Alm. Salg,5.000,5,Villa,115,1947,,Aktuel værdi
+"Møllevej 33, 1. TV7280 Sønder Felding",ding,182.000,23-12-2003,Alm. Salg,3.714,2,Lejlighed,49,1900,,Aktuel værdi
+Nørregade 17280 Sønder Felding,ding,485.000,12-12-2003,Alm. Salg,2.869,4,Villa,169,1914,,Aktuel værdi
+Strøget 177280 Sønder Felding,ding,325.000,24-10-2003,Alm. Salg,2.539,4,Villa,128,1916,,Aktuel værdi
+Skovvangsvej 17280 Sønder Felding,ding,725.000,10-10-2003,Alm. Salg,-,7,Villa,156,1928,,Aktuel værdi
+Præstevænget 1277280 Sønder Felding,ding,1.000.000,26-09-2003,Alm. Salg,5.208,8,Villa,192,1994,,Aktuel værdi
+Vestergade 267280 Sønder Felding,ding,645.000,14-08-2003,Alm. Salg,4.607,4,Villa,140,1966,,Aktuel værdi
+Åparken 187280 Sønder Felding,ding,662.500,01-07-2003,Alm. Salg,3.581,6,Villa,185,1998,,Aktuel værdi
+Birkebyvej 37280 Sønder Felding,ding,870.000,26-06-2003,Alm. Salg,5.117,5,Villa,170,1900,,Aktuel værdi
+Bjergevej 497280 Sønder Felding,ding,1.500.000,21-05-2003,Fam. Salg,10.416,5,Anden beboelse,144,1978,,Aktuel værdi
+Mågevej 87280 Sønder Felding,ding,280.000,25-04-2003,Alm. Salg,-,4,Villa,136,1958,,Aktuel værdi
+Høgsvigvej 17280 Sønder Felding,ding,35.000,14-04-2003,Alm. Salg,388,4,Villa,90,2004,,Aktuel værdi
+Aagade 17280 Sønder Felding,ding,585.000,09-04-2003,Alm. Salg,4.148,4,Villa,141,1960,,Aktuel værdi
+Skovbjergvej 427280 Sønder Felding,ding,1.015.000,09-03-2003,Fam. Salg,5.670,7,Stuehus,179,1934,,
+Nygårdsvej 37280 Sønder Felding,ding,2.920.000,07-03-2003,Fam. Salg,12.425,6,Villa,235,2005,,Aktuel værdi
+Præstevænget 1177280 Sønder Felding,ding,915.000,07-02-2003,Alm. Salg,6.224,5,Villa,147,1994,,Aktuel værdi
+Vesterbysvej 97280 Sønder Felding,ding,540.000,03-02-2003,Alm. Salg,5.625,3,Villa,96,1959,,Aktuel værdi
+Præstevænget 1517280 Sønder Felding,ding,1.025.000,28-01-2003,Alm. Salg,7.374,6,Villa,139,1994,,Aktuel værdi
+Nygårdsvej 67280 Sønder Felding,ding,4.600.000,02-01-2003,Alm. Salg,38.333,5,Stuehus,120,1973,,
+Lærkevej 57280 Sønder Felding,ding,450.000,19-12-2002,Alm. Salg,4.891,4,Villa,92,1959,,Aktuel værdi
+Søndergade 87280 Sønder Felding,ding,370.000,16-12-2002,Alm. Salg,3.592,4,Villa,103,1952,,Aktuel værdi
+Præstevænget 237280 Sønder Felding,ding,815.000,27-11-2002,Alm. Salg,6.269,5,Villa,130,1976,,Aktuel værdi
+Møllevej 137280 Sønder Felding,ding,480.000,26-11-2002,Alm. Salg,4.285,4,Villa,112,1968,,Aktuel værdi
+Hartvig Skramsvej 27280 Sønder Felding,ding,825.000,20-11-2002,Alm. Salg,6.395,5,Villa,129,1967,,Aktuel værdi
+Præstevænget 2397280 Sønder Felding,ding,715.000,05-11-2002,Alm. Salg,-,5,Villa,178,1985,,Aktuel værdi
+Skjernvej 1327280 Sønder Felding,ding,950.000,16-09-2002,Alm. Salg,4.896,4,Stuehus,194,1900,,
+Åparken 407280 Sønder Felding,ding,1.160.000,05-09-2002,Alm. Salg,8.169,6,Villa,142,1997,,Aktuel værdi
+Skovbjergvej 107280 Sønder Felding,ding,525.000,30-08-2002,Alm. Salg,6.645,4,Villa,79,1956,,Aktuel værdi
+Sandetvej 147280 Sønder Felding,ding,1.400.000,03-07-2002,Alm. Salg,10.071,5,Stuehus,139,2005,,
+Vestergade 47280 Sønder Felding,ding,450.000,01-07-2002,Alm. Salg,3.488,4,Villa,129,1967,,Aktuel værdi
+Mosegaardsvej 87280 Sønder Felding,ding,199.160,25-06-2002,Alm. Salg,1.327,8,Stuehus,150,1916,,
+Bjergevej 347280 Sønder Felding,ding,640.000,30-05-2002,Alm. Salg,4.210,4,Villa,152,1964,,Aktuel værdi
+"Møllevej 33, ST. TV7280 Sønder Felding",ding,289.916,30-05-2002,Alm. Salg,4.392,2,Lejlighed,66,1900,,Aktuel værdi
+Skolegade 97280 Sønder Felding,ding,500.000,08-05-2002,Alm. Salg,3.048,8,Villa,164,1890,,Aktuel værdi
+Nørre Alle 77280 Sønder Felding,ding,450.000,13-03-2002,Alm. Salg,3.600,5,Villa,125,1907,,Aktuel værdi
+Elkjærvej 107280 Sønder Felding,ding,460.000,16-02-2002,Alm. Salg,3.965,4,Villa,116,1969,,Aktuel værdi
+Fruerbyvej 27280 Sønder Felding,ding,266.000,31-01-2002,Auktion,2.660,3,Villa,100,1954,,Aktuel værdi
+Sandetvej 157280 Sønder Felding,ding,1.615.000,25-01-2002,Alm. Salg,-,8,Stuehus,226,1959,,
+Hartvig Skramsvej 87280 Sønder Felding,ding,495.000,18-01-2002,Alm. Salg,5.823,3,Villa,85,1954,,Aktuel værdi
+Skovbjergvej 187280 Sønder Felding,ding,530.000,11-01-2002,Fam. Salg,4.774,3,Villa,111,1982,,Aktuel værdi
+Birkebyvej 27280 Sønder Felding,ding,1.275.000,17-12-2001,Alm. Salg,5.425,7,Stuehus,235,1920,,
+Ahornvej 147280 Sønder Felding,ding,420.000,12-12-2001,Alm. Salg,5.600,3,Rækkehus,75,1988,,Aktuel værdi
+Præstevænget 2437280 Sønder Felding,ding,644.000,30-10-2001,Alm. Salg,5.600,4,Villa,115,1984,,Aktuel værdi
+Bredgade 337280 Sønder Felding,ding,510.000,12-10-2001,Alm. Salg,-,4,Villa,136,1931,,Aktuel værdi
+Mosegaardsvej 17280 Sønder Felding,ding,850.000,10-09-2001,Alm. Salg,-,3,Villa,196,1917,,Aktuel værdi
+Sdr. Feldingvej 497280 Sønder Felding,ding,1.320.000,24-08-2001,Fam. Salg,8.098,5,Stuehus,163,1929,,
+Skjernvej 1437280 Sønder Felding,ding,1.360.000,23-08-2001,Alm. Salg,5.112,6,Stuehus,266,1923,,
+Rugvænget 107280 Sønder Felding,ding,475.000,05-07-2001,Alm. Salg,4.241,4,Villa,112,1974,,Aktuel værdi
+Solsikkevej 257280 Sønder Felding,ding,1.150.000,28-06-2001,Alm. Salg,5.000,6,Villa,230,1977,,Aktuel værdi
+Sandetvej 37280 Sønder Felding,ding,660.000,24-05-2001,Alm. Salg,4.049,5,Villa,163,1978,,Aktuel værdi
+Godthaabsvej 17280 Sønder Felding,ding,595.000,08-05-2001,Alm. Salg,6.071,4,Villa,98,1967,,Aktuel værdi
+Bjergevej 407280 Sønder Felding,ding,650.000,04-05-2001,Alm. Salg,3.403,8,Villa,191,1917,,Aktuel værdi
+Skovbjergvej 367280 Sønder Felding,ding,413.127,04-05-2001,Alm. Salg,3.106,4,Stuehus,133,1896,,
+Møllevej 77280 Sønder Felding,ding,420.000,25-04-2001,Fam. Salg,4.516,3,Villa,93,1964,,Aktuel værdi
+Fruerbyvej 17280 Sønder Felding,ding,190.000,28-02-2001,Alm. Salg,1.520,6,Villa,125,1940,,Aktuel værdi
+Nørre Alle 127280 Sønder Felding,ding,634.132,27-02-2001,Alm. Salg,5.073,4,Villa,125,1957,,Aktuel værdi
+Vardevej 1567280 Sønder Felding,ding,1.100.000,16-01-2001,Alm. Salg,6.918,6,Stuehus,159,1908,,
+Dalgasvej 27280 Sønder Felding,ding,625.000,15-01-2001,Fam. Salg,3.324,10,Stuehus,188,1911,,
+Sandetvej 257280 Sønder Felding,ding,55.900,22-12-2000,Fam. Salg,294,9,Villa,190,2005,,Aktuel værdi
+Nørregade 47280 Sønder Felding,ding,541.000,20-12-2000,Alm. Salg,4.362,5,Villa,124,1961,,Aktuel værdi
+Åparken 117280 Sønder Felding,ding,123.269,30-11-2000,Alm. Salg,899,6,Villa,137,2001,,Aktuel værdi
+Mosegaardsvej 57280 Sønder Felding,ding,10.790.000,27-11-2000,Alm. Salg,46.913,10,Stuehus,230,1914,,
+Nørregade 177280 Sønder Felding,ding,350.000,12-11-2000,Alm. Salg,2.941,5,Villa,119,1948,,Aktuel værdi
+Nørregade 327280 Sønder Felding,ding,325.000,30-10-2000,Alm. Salg,2.480,6,Villa,131,1960,,Aktuel værdi
+Kastanievej 37280 Sønder Felding,ding,600.000,16-09-2000,Alm. Salg,4.255,6,Villa,141,1968,,Aktuel værdi
+Nørre Alle 87280 Sønder Felding,ding,260.000,31-05-2000,Alm. Salg,4.000,3,Villa,65,1930,,Aktuel værdi
+Solsikkevej 237280 Sønder Felding,ding,550.000,11-05-2000,Fam. Salg,4.700,4,Villa,117,1977,,Aktuel værdi
+Kærhedevej 107280 Sønder Felding,ding,90.000,17-03-2000,Alm. Salg,514,10,Stuehus,175,1919,,
+Åparken 287280 Sønder Felding,ding,163.529,03-03-2000,Alm. Salg,1.061,6,Villa,154,2001,,Aktuel værdi
+Præstevænget 197280 Sønder Felding,ding,677.500,01-03-2000,Alm. Salg,5.292,4,Villa,128,1977,,Aktuel værdi
+Skolegade 157280 Sønder Felding,ding,670.000,23-02-2000,Alm. Salg,4.379,4,Villa,153,1970,,Aktuel værdi
+Skovbrynet 107280 Sønder Felding,ding,100.000,10-12-1999,Alm. Salg,606,6,Villa,165,2002,,Aktuel værdi
+Bjergevej 43B7280 Sønder Felding,ding,1.050.000,30-11-1999,Alm. Salg,7.191,5,Villa,146,1978,,Aktuel værdi
+Åparken 227280 Sønder Felding,ding,600.000,18-11-1999,Alm. Salg,3.921,4,Villa,153,1999,,Aktuel værdi
+Præstevænget 87280 Sønder Felding,ding,433.084,08-11-1999,Alm. Salg,5.698,3,Rækkehus,76,1981,,Aktuel værdi
+Søndergade 177280 Sønder Felding,ding,702.082,20-10-1999,Alm. Salg,4.680,4,Villa,150,1947,,Aktuel værdi
+Åparken 327280 Sønder Felding,ding,155.079,15-10-1999,Alm. Salg,987,6,Villa,157,2000,,Aktuel værdi
+Sandetvej 137280 Sønder Felding,ding,319.291,28-09-1999,Alm. Salg,3.360,3,Villa,95,1947,,Aktuel værdi
+Præstevænget 1237280 Sønder Felding,ding,866.000,30-08-1999,Alm. Salg,6.414,4,Villa,135,1989,,Aktuel værdi
+Tarpvej 77280 Sønder Felding,ding,1.881.265,05-08-1999,Alm. Salg,10.224,8,Stuehus,184,1934,,
+Nederbyvej 97280 Sønder Felding,ding,810.000,02-08-1999,Fam. Salg,5.955,6,Villa,136,1847,,Aktuel værdi
+Åparken 87280 Sønder Felding,ding,155.897,06-07-1999,Alm. Salg,866,6,Villa,180,2001,,Aktuel værdi
+Sandetvej 237280 Sønder Felding,ding,790.000,25-06-1999,Alm. Salg,4.224,6,Villa,187,1969,,Aktuel værdi
+Elkjærvej 67280 Sønder Felding,ding,602.000,23-06-1999,Alm. Salg,5.234,4,Villa,115,1972,,Aktuel værdi
+Høgsvigvej 97280 Sønder Felding,ding,975.000,18-06-1999,Alm. Salg,4.756,7,Villa,205,1979,,Aktuel værdi
+Præstevænget 1257280 Sønder Felding,ding,1.100.000,26-05-1999,Alm. Salg,7.096,6,Villa,155,1993,,Aktuel værdi
+Åparken 247280 Sønder Felding,ding,1.020.000,20-05-1999,Alm. Salg,-,7,Villa,180,1998,,Aktuel værdi
+Søndergade 157280 Sønder Felding,ding,270.000,03-05-1999,Alm. Salg,2.755,3,Villa,98,1937,,Aktuel værdi
+Skjernvej 1417280 Sønder Felding,ding,1.850.000,09-04-1999,Alm. Salg,6.423,6,Stuehus,288,2006,,
+Fruerbyvej 137280 Sønder Felding,ding,323.000,24-03-1999,Fam. Salg,2.153,5,Villa,150,1960,,Aktuel værdi
+Aagade 77280 Sønder Felding,ding,450.000,08-02-1999,Alm. Salg,4.411,4,Villa,102,1957,,Aktuel værdi
+Skovbjergvej 207280 Sønder Felding,ding,520.000,15-01-1999,Alm. Salg,4.521,6,Villa,115,1968,,Aktuel værdi
+Hjejlevej 37280 Sønder Felding,ding,70.000,07-01-1999,Alm. Salg,451,6,Villa,155,2001,,Aktuel værdi
+Præstevænget 67280 Sønder Felding,ding,436.420,09-11-1998,Fam. Salg,4.959,3,Rækkehus,88,1981,,Aktuel værdi
+Lyngholmsvej 107280 Sønder Felding,ding,4.850.000,15-10-1998,Alm. Salg,31.089,3,Stuehus,156,1977,,
+Solhjemvej 97280 Sønder Felding,ding,562.449,15-10-1998,Alm. Salg,3.724,4,Stuehus,151,1939,,
+Skovbjergvej 137280 Sønder Felding,ding,437.000,05-10-1998,Alm. Salg,3.387,5,Villa,129,1957,,Aktuel værdi
+Elkjærvej 127280 Sønder Felding,ding,1.018.000,11-09-1998,Alm. Salg,3.571,8,Villa,285,1968,,Aktuel værdi
+Bjergevej 47280 Sønder Felding,ding,478.000,08-09-1998,Alm. Salg,5.494,3,Villa,87,1945,,Aktuel værdi
+Søndergade 247280 Sønder Felding,ding,399.600,04-08-1998,Alm. Salg,-,6,Villa,142,1947,,Aktuel værdi
+Skovbjergvej 347280 Sønder Felding,ding,1.415.000,08-07-1998,Fam. Salg,7.075,7,Stuehus,200,1870,,
+Fruerbyvej 67280 Sønder Felding,ding,440.700,01-07-1998,Alm. Salg,5.876,3,Villa,75,1959,,Aktuel værdi
+Elkjærvej 47280 Sønder Felding,ding,695.000,25-06-1998,Alm. Salg,5.036,5,Villa,138,1973,,Aktuel værdi
+Bjergevej 77280 Sønder Felding,ding,331.000,15-05-1998,Alm. Salg,3.447,5,Villa,96,1963,,Aktuel værdi
+Skovbjergvej 167280 Sønder Felding,ding,425.400,04-05-1998,Alm. Salg,3.545,4,Villa,120,1963,,Aktuel værdi
+Skovbjergvej 407280 Sønder Felding,ding,886.000,18-03-1998,Alm. Salg,6.283,4,Stuehus,141,1904,,
+Solhjemvej 37280 Sønder Felding,ding,206.315,02-03-1998,Alm. Salg,937,7,Stuehus,220,1984,,
+Åparken 17280 Sønder Felding,ding,110.278,26-02-1998,Alm. Salg,676,6,Villa,163,1998,,Aktuel værdi
+Åparken 207280 Sønder Felding,ding,161.769,09-02-1998,Alm. Salg,851,8,Villa,190,1998,,Aktuel værdi
+Vestergade 307280 Sønder Felding,ding,495.002,23-12-1997,Alm. Salg,-,7,Villa,178,1965,,Aktuel værdi
+Bjergevej 17280 Sønder Felding,ding,512.787,10-11-1997,Alm. Salg,5.127,3,Villa,100,1963,,Aktuel værdi
+Hjejlevej 27280 Sønder Felding,ding,589.000,30-10-1997,Alm. Salg,-,4,Villa,139,1970,,Aktuel værdi
+Gammelmarksvej 37280 Sønder Felding,ding,418.000,29-10-1997,Alm. Salg,2.696,3,Villa,155,1890,,Aktuel værdi
+Præstevænget 317280 Sønder Felding,ding,587.000,29-09-1997,Alm. Salg,4.413,4,Villa,133,1976,,Aktuel værdi
+Vestergade 217280 Sønder Felding,ding,495.000,07-08-1997,Alm. Salg,4.419,4,Villa,112,1966,,Aktuel værdi
+Præstevænget 2477280 Sønder Felding,ding,475.000,05-08-1997,Fam. Salg,5.163,3,Villa,92,1980,,Aktuel værdi
+Præstevænget 417280 Sønder Felding,ding,778.000,31-07-1997,Alm. Salg,-,7,Villa,155,1973,,Aktuel værdi
+Enghavevej 27280 Sønder Felding,ding,708.845,30-06-1997,Alm. Salg,5.329,5,Villa,133,1972,,Aktuel værdi
+Præstevænget 177280 Sønder Felding,ding,860.625,14-06-1997,Alm. Salg,5.279,6,Villa,163,1973,,Aktuel værdi
+Gl. Skolevej 117280 Sønder Felding,ding,500.000,29-05-1997,Alm. Salg,2.212,8,Stuehus,226,1932,,
+Rugvænget 27280 Sønder Felding,ding,579.000,01-05-1997,Alm. Salg,-,7,Villa,189,1974,,Aktuel værdi
+Vardevej 1537280 Sønder Felding,ding,250.000,24-04-1997,Alm. Salg,1.666,7,Stuehus,150,1907,,
+Lyngholmsvej 37280 Sønder Felding,ding,1.404.480,04-04-1997,Alm. Salg,7.890,6,Stuehus,178,1912,,
+Skjernvej 1477280 Sønder Felding,ding,650.000,25-03-1997,Alm. Salg,3.421,5,Stuehus,190,1914,,
+Vesterbjergevej 3A7280 Sønder Felding,ding,778.000,26-02-1997,Alm. Salg,3.890,8,Villa,200,1908,,Aktuel værdi
+Præstevænget 1597280 Sønder Felding,ding,755.000,29-01-1997,Alm. Salg,5.807,6,Villa,130,1994,,Aktuel værdi
+Skovbjergvej 267280 Sønder Felding,ding,855.000,23-01-1997,Alm. Salg,3.406,9,Villa,251,1877,,Aktuel værdi
+"Nørregade 10, 17280 Sønder Felding",ding,500.000,19-12-1996,Fam. Salg,5.882,4,Anden beboelse,85,1955,,Aktuel værdi
+Nørregade 67280 Sønder Felding,ding,367.000,26-11-1996,Alm. Salg,4.123,4,Villa,89,1946,,Aktuel værdi
+Møllevej 67280 Sønder Felding,ding,530.000,04-11-1996,Alm. Salg,3.680,5,Villa,144,1969,,Aktuel værdi
+Hjejlevej 77280 Sønder Felding,ding,416.000,19-09-1996,Alm. Salg,3.250,5,Villa,128,1963,,Aktuel værdi
+Gl. Høgsvigvej 37280 Sønder Felding,ding,376.085,14-09-1996,Alm. Salg,2.785,4,Villa,135,1962,,Aktuel værdi
+Skovbjergvej 337280 Sønder Felding,ding,2.005.657,30-08-1996,Alm. Salg,-,9,Stuehus,254,1916,,
+Bredgade 307280 Sønder Felding,ding,700.000,24-07-1996,Alm. Salg,5.468,4,Villa,128,1870,,Aktuel værdi
+Åparken 267280 Sønder Felding,ding,184.639,18-07-1996,Alm. Salg,1.214,5,Villa,152,1996,,Aktuel værdi
+Nørregade 77280 Sønder Felding,ding,686.164,28-06-1996,Fam. Salg,2.213,9,Villa,310,1953,,Aktuel værdi
+Nørre Alle 57280 Sønder Felding,ding,400.000,21-06-1996,Alm. Salg,3.333,4,Villa,120,1958,,Aktuel værdi
+Søndergade 187280 Sønder Felding,ding,378.522,23-05-1996,Alm. Salg,2.574,4,Villa,147,1906,,Aktuel værdi
+Elkjærvej 27280 Sønder Felding,ding,675.000,22-05-1996,Alm. Salg,4.299,6,Villa,157,1968,,Aktuel værdi
+Skovbjergvej 117280 Sønder Felding,ding,300.000,13-05-1996,Alm. Salg,3.658,5,Villa,82,1959,,Aktuel værdi
+Bjergevej 38A7280 Sønder Felding,ding,3.840.000,06-05-1996,Alm. Salg,17.297,6,Stuehus,222,1906,,
+Præstevænget 357280 Sønder Felding,ding,675.000,12-04-1996,Alm. Salg,6.026,4,Villa,112,1973,,Aktuel værdi
+Godthaabsvej 47280 Sønder Felding,ding,360.000,10-04-1996,Alm. Salg,3.711,4,Villa,97,1969,,Aktuel værdi
+Mølholmvej 207280 Sønder Felding,ding,643.000,02-04-1996,Alm. Salg,4.798,5,Villa,134,1974,,Aktuel værdi
+Mølholmvej 77280 Sønder Felding,ding,835.000,22-03-1996,Alm. Salg,3.614,6,Villa,231,1971,,Aktuel værdi
+Elkjærvej 167280 Sønder Felding,ding,570.000,20-03-1996,Alm. Salg,4.014,5,Villa,142,1970,,Aktuel værdi
+Møllevej 47280 Sønder Felding,ding,345.000,23-02-1996,Alm. Salg,2.142,6,Villa,161,1963,,Aktuel værdi
+Vesterbjergevej 27280 Sønder Felding,ding,700.000,29-12-1995,Fam. Salg,5.833,4,Stuehus,120,1969,,
+Solsikkevej 67280 Sønder Felding,ding,562.000,29-12-1995,Alm. Salg,4.532,5,Villa,124,1973,,Aktuel værdi
+Ahornvej 57280 Sønder Felding,ding,120.000,27-10-1995,Auktion,1.034,5,Villa,116,1965,,Aktuel værdi
+Lyngholmsvej 17280 Sønder Felding,ding,700.000,02-10-1995,Alm. Salg,-,5,Villa,183,1900,,Aktuel værdi
+Åparken 127280 Sønder Felding,ding,143.532,02-10-1995,Alm. Salg,543,8,Villa,264,1999,,Aktuel værdi
+Rugvænget 87280 Sønder Felding,ding,534.879,08-08-1995,Alm. Salg,4.775,4,Villa,112,1974,,Aktuel værdi
+Åparken 67280 Sønder Felding,ding,102.707,06-07-1995,Alm. Salg,633,8,Villa,162,1995,,Aktuel værdi
+Åparken 167280 Sønder Felding,ding,128.713,13-06-1995,Alm. Salg,830,6,Villa,155,1995,,Aktuel værdi
+Åparken 37280 Sønder Felding,ding,850.000,10-05-1995,Alm. Salg,-,6,Villa,141,1995,,Aktuel værdi
+Solsikkevej 217280 Sønder Felding,ding,580.000,03-05-1995,Alm. Salg,4.233,4,Villa,137,1972,,Aktuel værdi
+Præstevænget 1677280 Sønder Felding,ding,690.000,16-03-1995,Alm. Salg,4.693,5,Villa,147,1978,,Aktuel værdi
+Skovvejen 17280 Sønder Felding,ding,1.300.000,27-01-1995,Alm. Salg,-,4,Stuehus,187,1916,,
+Hjejlevej 177280 Sønder Felding,ding,420.000,06-12-1994,Alm. Salg,3.589,4,Villa,117,1963,,Aktuel værdi
+Bjergevej 147280 Sønder Felding,ding,418.000,16-11-1994,Alm. Salg,3.265,4,Villa,128,1976,,Aktuel værdi
+Møllevej 167280 Sønder Felding,ding,339.929,13-11-1994,Andet,2.555,5,Villa,133,1964,,Aktuel værdi
+Høgsvigvej 467280 Sønder Felding,ding,1.295.000,26-10-1994,Alm. Salg,8.354,4,Stuehus,155,1900,,
+Præstevænget 1577280 Sønder Felding,ding,825.000,20-09-1994,Alm. Salg,5.769,6,Villa,143,1992,,Aktuel værdi
+Nørregade 157280 Sønder Felding,ding,205.000,17-08-1994,Fam. Salg,-,6,Villa,201,1922,,Aktuel værdi
+Gl. Høgsvigvej 57280 Sønder Felding,ding,225.000,16-05-1994,Alm. Salg,2.812,3,Villa,80,1963,,Aktuel værdi
+Aagade 387280 Sønder Felding,ding,514.000,11-05-1994,Alm. Salg,4.015,5,Villa,128,1973,,Aktuel værdi
+Skovbjergvej 257280 Sønder Felding,ding,1.235.000,28-04-1994,Alm. Salg,3.811,9,Anden beboelse,324,1972,,Aktuel værdi
+Ahornvej 87280 Sønder Felding,ding,420.000,22-04-1994,Alm. Salg,5.600,3,Rækkehus,75,1988,,Aktuel værdi
+Mølholmvej 227280 Sønder Felding,ding,580.000,11-04-1994,Alm. Salg,-,5,Villa,147,1976,,Aktuel værdi
+Søndergade 287280 Sønder Felding,ding,275.000,24-02-1994,Alm. Salg,4.583,3,Villa,60,1948,,Aktuel værdi
+Ahornvej 77280 Sønder Felding,ding,220.953,14-12-1993,Andet,1.407,5,Villa,157,1965,,Aktuel værdi
+Vardevej 1527280 Sønder Felding,ding,490.000,10-11-1993,Alm. Salg,5.833,3,Stuehus,84,1895,,
+Præstevænget 1197280 Sønder Felding,ding,70.919,26-08-1993,Alm. Salg,475,6,Villa,149,1994,,Aktuel værdi
+Præstevænget 677280 Sønder Felding,ding,405.000,16-07-1993,Alm. Salg,2.469,6,Villa,164,1977,,Aktuel værdi
+Dalgasvej 37280 Sønder Felding,ding,640.000,15-05-1993,Alm. Salg,3.555,5,Villa,180,1900,,Aktuel værdi
+Rugvænget 197280 Sønder Felding,ding,600.000,28-04-1993,Alm. Salg,-,5,Villa,155,1986,,Aktuel værdi
+Præstevænget 637280 Sønder Felding,ding,510.000,04-03-1993,Alm. Salg,4.180,4,Villa,122,1976,,Aktuel værdi
+Dalgasvej 17280 Sønder Felding,ding,973.579,25-02-1993,Alm. Salg,7.665,5,Stuehus,127,1911,,
+Bjergevej 427280 Sønder Felding,ding,1.150.000,03-02-1993,Alm. Salg,7.565,5,Stuehus,152,1929,,
+Præstevænget 557280 Sønder Felding,ding,420.000,13-01-1993,Alm. Salg,3.750,4,Villa,112,1973,,Aktuel værdi
+Sdr. Feldingvej 477280 Sønder Felding,ding,795.000,09-01-1993,Alm. Salg,5.096,6,Stuehus,156,1914,,
+Vestergade 187280 Sønder Felding,ding,475.000,05-01-1993,Alm. Salg,4.318,4,Villa,110,1973,,Aktuel værdi
+Bjergevej 737280 Sønder Felding,ding,468.081,29-09-1992,Alm. Salg,4.457,4,Stuehus,105,1910,,
+Godthaabsvej 37280 Sønder Felding,ding,490.000,27-08-1992,Alm. Salg,3.769,5,Villa,130,1965,,Aktuel værdi
+Høgsvigvej 447280 Sønder Felding,ding,950.000,19-07-1992,Fam. Salg,-,5,Stuehus,139,1911,,
+Drongstrup Mark 77280 Sønder Felding,ding,521.462,16-06-1992,Fam. Salg,3.523,5,Villa,148,1981,,Aktuel værdi
+Bjergevej 757280 Sønder Felding,ding,595.000,02-06-1992,Alm. Salg,3.562,5,Villa,167,1925,,Aktuel værdi
+Mølholmvej 147280 Sønder Felding,ding,460.000,01-05-1992,Alm. Salg,-,5,Villa,164,1974,,Aktuel værdi
+Møllevej 97280 Sønder Felding,ding,724.000,01-05-1992,Fam. Salg,2.991,6,Villa,242,1967,,Aktuel værdi
+Nørre Alle 147280 Sønder Felding,ding,395.000,22-04-1992,Alm. Salg,3.623,3,Villa,109,1953,,Aktuel værdi
+Præstevænget 1417280 Sønder Felding,ding,464.773,14-04-1992,Alm. Salg,3.631,4,Villa,128,1988,,Aktuel værdi
+Mølholmvej 127280 Sønder Felding,ding,505.000,24-02-1992,Alm. Salg,4.007,4,Villa,126,1976,,Aktuel værdi
+Aagade 427280 Sønder Felding,ding,375.000,01-02-1992,Alm. Salg,2.533,6,Villa,148,1968,,Aktuel værdi

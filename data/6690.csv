@@ -1,0 +1,618 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Hejrskovvej 406690 Gørding,ding,639.060,31-03-2017,Alm. Salg,3.896,7,Villa,164,1900,,Aktuel værdi
+Sejersgården 36690 Gørding,ding,975.000,23-03-2017,Alm. Salg,6.678,5,Villa,146,1973,-7 %,Aktuel værdi
+Østergade 286690 Gørding,ding,1.450.000,18-03-2017,Alm. Salg,11.417,5,Villa,127,1954,,Aktuel værdi
+Godthåbsvej 136690 Gørding,ding,850.000,16-03-2017,Alm. Salg,6.800,5,Villa,125,1976,,Aktuel værdi
+Fyrrevænget 106690 Gørding,ding,770.000,12-03-2017,Alm. Salg,5.500,5,Villa,140,1970,-9 %,Aktuel værdi
+Toften 26690 Gørding,ding,439.883,28-02-2017,Alm. Salg,4.355,4,Villa,101,1965,-37 %,Aktuel værdi
+Nørregade 446690 Gørding,ding,835.000,09-02-2017,Alm. Salg,5.060,6,Villa,165,1910,-7 %,Aktuel værdi
+Toften 46690 Gørding,ding,710.000,03-02-2017,Alm. Salg,6.173,4,Villa,115,1968,-5 %,Aktuel værdi
+Østergade 236690 Gørding,ding,580.000,01-02-2017,Alm. Salg,6.373,6,Villa,91,1949,-3 %,Aktuel værdi
+Nørregade 1096690 Gørding,ding,615.000,05-01-2017,Fam. Salg,3.044,7,Villa,202,1934,-9 %,Aktuel værdi
+Puggårdsvej 346690 Gørding,ding,570.000,04-01-2017,Fam. Salg,4.488,2,Villa,127,1927,,Aktuel værdi
+Østerhedevej 166690 Gørding,ding,800.000,09-12-2016,Alm. Salg,3.448,11,Villa,232,1990,-20 %,Aktuel værdi
+Østerhedevej 236690 Gørding,ding,900.000,30-11-2016,Alm. Salg,5.590,5,Villa,161,1908,-14 %,Aktuel værdi
+Nygade 296690 Gørding,ding,620.000,14-11-2016,Alm. Salg,5.123,6,Villa,121,1881,,Aktuel værdi
+Østergade 116690 Gørding,ding,325.000,04-11-2016,Fam. Salg,2.226,4,Villa,146,1928,-46 %,Aktuel værdi
+Nørregade 1066690 Gørding,ding,968.000,20-10-2016,Alm. Salg,8.344,4,Villa,116,1972,-3 %,Aktuel værdi
+Vestergade 316690 Gørding,ding,2.500.000,15-10-2016,Alm. Salg,8.710,7,Villa,287,1915,-4 %,Aktuel værdi
+Bøgevænget 116690 Gørding,ding,1.500.000,15-10-2016,Alm. Salg,8.982,5,Villa,167,1985,,Aktuel værdi
+Nørregade 256690 Gørding,ding,600.000,21-09-2016,Alm. Salg,4.444,4,Villa,135,1890,-8 %,Aktuel værdi
+"Nørregade 2, 16690 Gørding",ding,1.250.000,14-09-2016,Alm. Salg,25.000,2,Lejlighed,50,1877,,Aktuel værdi
+Toften 56690 Gørding,ding,660.000,09-09-2016,Alm. Salg,6.534,4,Villa,101,1967,-5 %,Aktuel værdi
+Risagervej 16690 Gørding,ding,650.000,10-08-2016,Alm. Salg,8.024,3,Villa,81,1846,-13 %,Aktuel værdi
+Møllegade 86690 Gørding,ding,1.685.000,05-08-2016,Alm. Salg,6.849,11,Villa,246,1908,-6 %,Aktuel værdi
+Aikevej 76690 Gørding,ding,784.600,20-06-2016,Alm. Salg,8.172,5,Villa,96,1950,,Aktuel værdi
+Gørdingvej 1166690 Gørding,ding,1.800.000,14-06-2016,Alm. Salg,7.317,7,Villa,246,1907,-10 %,Aktuel værdi
+Søndergade 13D6690 Gørding,ding,600.000,10-06-2016,Alm. Salg,5.769,4,Villa,104,1986,,Aktuel værdi
+Nørregade 18A6690 Gørding,ding,375.000,06-06-2016,Alm. Salg,2.130,6,Villa,176,1900,-25 %,Aktuel værdi
+Sdr Lourupvej 66690 Gørding,ding,575.000,18-05-2016,Alm. Salg,5.750,4,Villa,100,1966,-8 %,Aktuel værdi
+Åvænget 406690 Gørding,ding,475.000,03-05-2016,Alm. Salg,6.985,3,Rækkehus,68,1977,-5 %,Aktuel værdi
+Lourupvej 296690 Gørding,ding,150.000,02-05-2016,Alm. Salg,1.666,2,Villa,90,1900,,Aktuel værdi
+Pilevænget 56690 Gørding,ding,1.250.000,28-04-2016,Alm. Salg,7.062,6,Villa,177,1970,-3 %,Aktuel værdi
+Østergårdsvej 156690 Gørding,ding,870.000,27-04-2016,Alm. Salg,7.073,5,Villa,123,1967,-3 %,Aktuel værdi
+Nørregade 436690 Gørding,ding,778.000,25-04-2016,Alm. Salg,5.557,5,Rækkehus,140,1915,,Aktuel værdi
+Kirkevej 46690 Gørding,ding,135.000,03-04-2016,Alm. Salg,2.327,2,Villa,58,1954,,Aktuel værdi
+Aikevej 26690 Gørding,ding,1.017.000,13-03-2016,Alm. Salg,4.560,4,Villa,223,1938,,Aktuel værdi
+Mosevej 46690 Gørding,ding,750.000,25-02-2016,Alm. Salg,6.147,4,Villa,122,1977,-4 %,Aktuel værdi
+Søndergade 396690 Gørding,ding,630.000,10-02-2016,Alm. Salg,4.736,5,Villa,133,1961,-10 %,Aktuel værdi
+Kirkevej 116690 Gørding,ding,440.821,09-02-2016,Alm. Salg,3.148,6,Villa,140,1915,-56 %,Aktuel værdi
+Sdr Lourupvej 426690 Gørding,ding,3.198.000,25-01-2016,Alm. Salg,10.416,6,Villa,307,1919,0 %,Aktuel værdi
+Østerhedevej 76690 Gørding,ding,579.000,09-12-2015,Alm. Salg,4.745,4,Villa,122,1877,,Aktuel værdi
+Søndergade 86690 Gørding,ding,1.600.000,08-12-2015,Alm. Salg,4.892,11,Villa,327,1890,-6 %,Aktuel værdi
+Møllegade 186690 Gørding,ding,525.000,05-12-2015,Alm. Salg,3.409,4,Villa,154,1884,-12 %,Aktuel værdi
+Søndergade 416690 Gørding,ding,980.000,04-11-2015,Alm. Salg,9.245,5,Villa,106,1946,-2 %,Aktuel værdi
+Søndermarken 306690 Gørding,ding,750.000,29-10-2015,Alm. Salg,5.813,4,Villa,129,1973,-14 %,Aktuel værdi
+Vestergade 246690 Gørding,ding,575.000,26-10-2015,Alm. Salg,4.107,4,Villa,140,1954,-11 %,Aktuel værdi
+Rugmarken 76690 Gørding,ding,262.080,02-10-2015,Alm. Salg,1.569,5,Villa,167,2016,,Aktuel værdi
+Åbrinken 56690 Gørding,ding,1.310.000,17-09-2015,Alm. Salg,7.005,8,Villa,187,1987,-6 %,Aktuel værdi
+Tangevej 56690 Gørding,ding,336.396,15-09-2015,Andet,2.712,5,Villa,124,1852,,Aktuel værdi
+Østerhedevej 206690 Gørding,ding,1.100.000,11-09-2015,Alm. Salg,4.932,9,Villa,223,1910,-8 %,Aktuel værdi
+Fyrrevænget 206690 Gørding,ding,838.000,11-09-2015,Alm. Salg,6.116,4,Villa,137,1972,-1 %,Aktuel værdi
+Kløvermarken 166690 Gørding,ding,1.640.000,18-08-2015,Alm. Salg,8.200,8,Villa,200,1999,0 %,Aktuel værdi
+Østparken 336690 Gørding,ding,650.000,18-08-2015,Alm. Salg,5.416,4,Villa,120,1978,-19 %,Aktuel værdi
+Hessellundvej 166690 Gørding,ding,17.070.000,06-08-2015,Alm. Salg,62.299,9,Stuehus,274,1878,,
+Birkevænget 36690 Gørding,ding,700.000,09-07-2015,Alm. Salg,5.147,4,Villa,136,1969,-12 %,Aktuel værdi
+Hejrskovvej 486690 Gørding,ding,375.000,08-07-2015,Auktion,2.205,6,Villa,170,1928,,Aktuel værdi
+Engvej 16690 Gørding,ding,840.000,05-07-2015,Alm. Salg,7.241,5,Villa,116,1949,-9 %,Aktuel værdi
+Nygade 276690 Gørding,ding,300.000,10-06-2015,Alm. Salg,4.000,1,Stuehus,75,1900,,
+Bøelvej 36690 Gørding,ding,300.000,10-06-2015,Alm. Salg,1.875,8,Stuehus,160,1869,,
+Nygade 346690 Gørding,ding,650.000,08-06-2015,Alm. Salg,4.037,5,Villa,161,1963,-16 %,Aktuel værdi
+Pilevænget 66690 Gørding,ding,1.175.000,14-05-2015,Alm. Salg,8.392,5,Villa,140,1969,-9 %,Aktuel værdi
+Fyrrevænget 36690 Gørding,ding,1.030.000,13-05-2015,Alm. Salg,6.560,5,Villa,157,1971,-14 %,Aktuel værdi
+Gørdingvej 796690 Gørding,ding,1.351.500,02-05-2015,Fam. Salg,5.980,7,Stuehus,226,1930,,
+Engvej 56690 Gørding,ding,675.000,28-04-2015,Alm. Salg,-,3,Villa,94,1959,-15 %,Aktuel værdi
+Kløvermarken 106690 Gørding,ding,1.900.000,21-03-2015,Alm. Salg,10.052,7,Villa,189,1996,-5 %,Aktuel værdi
+Søndergade 556690 Gørding,ding,625.000,09-03-2015,Alm. Salg,4.882,4,Villa,128,1975,-10 %,Aktuel værdi
+Nørregade 656690 Gørding,ding,750.000,05-03-2015,Alm. Salg,3.571,7,Villa,210,1913,-15 %,Aktuel værdi
+Østparken 236690 Gørding,ding,1.350.000,04-03-2015,Alm. Salg,7.988,6,Villa,169,1977,-3 %,Aktuel værdi
+Tangevej 66690 Gørding,ding,1.050.000,03-03-2015,Andet,7.241,4,Villa,145,1890,,Aktuel værdi
+Rugmarken 36690 Gørding,ding,203.520,02-03-2015,Alm. Salg,946,5,Villa,215,2015,,Aktuel værdi
+Godthåbsvej 156690 Gørding,ding,1.030.000,03-02-2015,Alm. Salg,5.228,5,Villa,197,1905,-6 %,Aktuel værdi
+Åvænget 106690 Gørding,ding,530.000,21-01-2015,Alm. Salg,8.983,2,Rækkehus,59,1977,-8 %,Aktuel værdi
+Østergårdsvej 196690 Gørding,ding,900.000,12-01-2015,Alm. Salg,7.031,4,Villa,128,1966,-9 %,Aktuel værdi
+Vestergade 21E6690 Gørding,ding,1.620.000,09-12-2014,Alm. Salg,10.384,6,Villa,156,2002,,Aktuel værdi
+Byvænget 36690 Gørding,ding,1.295.000,02-12-2014,Alm. Salg,6.641,6,Villa,195,1926,,Aktuel værdi
+Byvænget 106690 Gørding,ding,890.000,02-12-2014,Alm. Salg,7.672,5,Rækkehus,116,1977,,Aktuel værdi
+Aikevej 116690 Gørding,ding,280.000,08-11-2014,Alm. Salg,2.718,4,Villa,103,1830,-27 %,Aktuel værdi
+Allegade 26690 Gørding,ding,1.720.000,07-11-2014,Alm. Salg,14.827,4,Villa,116,2011,,Aktuel værdi
+Lourupvej 136690 Gørding,ding,475.000,23-10-2014,Auktion,2.624,4,Villa,181,1910,,Aktuel værdi
+Vestergade 76690 Gørding,ding,350.000,22-10-2014,Alm. Salg,3.301,4,Rækkehus,106,1920,-22 %,Aktuel værdi
+Vestergade 116690 Gørding,ding,350.000,22-10-2014,Alm. Salg,2.991,4,Villa,117,1909,-26 %,Aktuel værdi
+Søndermarken 246690 Gørding,ding,855.000,08-10-2014,Alm. Salg,6.627,5,Villa,129,1973,,Aktuel værdi
+Fællesvirkevej 66690 Gørding,ding,995.000,03-10-2014,Alm. Salg,7.960,5,Villa,125,1980,0 %,Aktuel værdi
+Sdr Lourupvej 306690 Gørding,ding,630.806,09-09-2014,Fam. Salg,3.846,6,Villa,164,1930,,Aktuel værdi
+Søndergade 406690 Gørding,ding,375.857,09-09-2014,Fam. Salg,2.592,3,Villa,145,1939,,Aktuel værdi
+Bjøvlundvej 66690 Gørding,ding,714.168,19-08-2014,Alm. Salg,3.518,6,Villa,203,2009,,Aktuel værdi
+Godthåbsvej 96690 Gørding,ding,630.000,18-07-2014,Alm. Salg,3.500,4,Villa,180,1912,-10 %,Aktuel værdi
+Gørdingvej 1126690 Gørding,ding,2.150.000,29-06-2014,Alm. Salg,14.527,6,Stuehus,148,1910,,
+Tangevej 46690 Gørding,ding,1.550.000,24-06-2014,Alm. Salg,7.711,7,Villa,201,1966,-9 %,Aktuel værdi
+Søndermarken 206690 Gørding,ding,1.175.000,19-06-2014,Alm. Salg,5.994,4,Villa,196,1977,-9 %,Aktuel værdi
+Nørregade 916690 Gørding,ding,1.040.000,18-06-2014,Alm. Salg,9.454,4,Villa,110,1965,,Aktuel værdi
+Nygade 156690 Gørding,ding,1.185.000,03-06-2014,Alm. Salg,10.215,5,Villa,116,1957,-1 %,Aktuel værdi
+Østergårdsvej 106690 Gørding,ding,885.000,23-05-2014,Fam. Salg,10.411,3,Villa,85,1967,,Aktuel værdi
+Nørregade 156690 Gørding,ding,524.574,22-05-2014,Andet,3.592,8,Rækkehus,146,1911,,Aktuel værdi
+Sdr Lourupvej 176690 Gørding,ding,1.010.000,30-04-2014,Auktion,6.158,5,Villa,164,1966,,Aktuel værdi
+Skolegade 86690 Gørding,ding,840.000,29-04-2014,Alm. Salg,8.842,3,Villa,95,1963,-6 %,Aktuel værdi
+Åbrinken 266690 Gørding,ding,1.100.000,16-04-2014,Alm. Salg,6.250,7,Villa,176,1984,-10 %,Aktuel værdi
+Tværgade 66690 Gørding,ding,548.000,10-04-2014,Auktion,5.480,4,Villa,100,1961,,Aktuel værdi
+Nørregade 90A6690 Gørding,ding,1.250.000,07-04-2014,Alm. Salg,5.319,4,Villa,235,1978,,Aktuel værdi
+Vestergade 176690 Gørding,ding,325.000,26-03-2014,Alm. Salg,3.155,3,Villa,103,1912,-45 %,Aktuel værdi
+Gørdingvej 1006690 Gørding,ding,725.000,24-02-2014,Alm. Salg,3.236,8,Villa,224,1930,-9 %,Aktuel værdi
+Jernvedvej 186690 Gørding,ding,16.100.000,20-02-2014,Andet,88.950,8,Stuehus,181,1880,,
+Åvænget 226690 Gørding,ding,300.000,18-02-2014,Alm. Salg,4.615,3,Rækkehus,65,1977,,Aktuel værdi
+Østergade 326690 Gørding,ding,471.445,12-02-2014,Auktion,4.489,3,Villa,105,1950,,Aktuel værdi
+Risagervej 66690 Gørding,ding,2.200.000,17-01-2014,Alm. Salg,9.649,7,Villa,228,1916,,Aktuel værdi
+Søndergade 13B6690 Gørding,ding,575.000,04-01-2014,Alm. Salg,6.534,3,Villa,88,1980,-8 %,Aktuel værdi
+Skovbrynet 276690 Gørding,ding,2.500.000,18-12-2013,Fam. Salg,7.692,10,Villa,325,2005,,Aktuel værdi
+Kirkevej 256690 Gørding,ding,400.000,04-12-2013,Alm. Salg,2.051,5,Villa,195,2016,,Aktuel værdi
+Gørdingvej 876690 Gørding,ding,19.766.000,29-11-2013,Alm. Salg,58.135,17,Stuehus,340,1960,,
+Aikevej 146690 Gørding,ding,397.500,24-11-2013,Andet,4.015,4,Villa,99,1953,,Aktuel værdi
+Bøelvej 66690 Gørding,ding,1.350.000,30-08-2013,Alm. Salg,4.736,8,Villa,285,1921,,Aktuel værdi
+Østerhedevej 46690 Gørding,ding,800.000,23-08-2013,Alm. Salg,6.106,5,Stuehus,131,1953,-6 %,
+Hejrskovvej 466690 Gørding,ding,654.500,20-08-2013,Fam. Salg,5.321,4,Villa,123,1910,,Aktuel værdi
+Sdr Lourupvej 46690 Gørding,ding,535.000,28-06-2013,Alm. Salg,4.179,4,Villa,128,1969,-21 %,Aktuel værdi
+Allegade 66690 Gørding,ding,1.135.000,14-06-2013,Alm. Salg,8.533,5,Villa,133,1962,-5 %,Aktuel værdi
+Nørregade 986690 Gørding,ding,1.350.000,14-06-2013,Alm. Salg,12.857,2,Villa,105,1955,-3 %,Aktuel værdi
+Risagervej 116690 Gørding,ding,465.605,13-06-2013,Fam. Salg,2.804,6,Villa,166,1887,,Aktuel værdi
+Kirkevej 56690 Gørding,ding,47.062,16-05-2013,Auktion,405,3,Villa,116,1950,-81 %,Aktuel værdi
+Nørregade 1A6690 Gørding,ding,200.000,01-05-2013,Alm. Salg,1.449,4,Villa,138,1902,,Aktuel værdi
+Risagervej 26690 Gørding,ding,1.365.000,19-04-2013,Alm. Salg,6.964,5,Villa,196,1900,-9 %,Aktuel værdi
+Aikevej 196690 Gørding,ding,710.000,17-04-2013,Alm. Salg,4.896,6,Villa,145,1938,-5 %,Aktuel værdi
+Dr Jensens Alle 16690 Gørding,ding,800.000,14-04-2013,Alm. Salg,7.547,5,Villa,106,1946,-3 %,Aktuel værdi
+Åvænget 56690 Gørding,ding,585.000,13-03-2013,Alm. Salg,3.726,6,Villa,157,1968,,Aktuel værdi
+"Nørregade 64, 16690 Gørding",ding,375.000,12-03-2013,Alm. Salg,7.500,2,Lejlighed,50,1929,0 %,Aktuel værdi
+Risagerlund 46690 Gørding,ding,1.475.000,11-03-2013,Alm. Salg,8.625,6,Villa,171,1996,-8 %,Aktuel værdi
+Gyllingsvej 56690 Gørding,ding,1.200.000,25-02-2013,Alm. Salg,5.660,8,Villa,212,1900,,Aktuel værdi
+Brammingborgvej 206690 Gørding,ding,2.680.000,20-02-2013,Alm. Salg,12.523,5,Stuehus,214,1950,,
+Vestergade 156690 Gørding,ding,437.500,20-02-2013,Alm. Salg,4.419,4,Villa,99,1939,,Aktuel værdi
+Hessellundvej 56690 Gørding,ding,2.547.500,17-02-2013,Fam. Salg,10.190,5,Stuehus,250,1880,,
+Bøgevænget 96690 Gørding,ding,570.000,14-02-2013,Alm. Salg,4.710,4,Villa,121,1980,,Aktuel værdi
+Nørregade 606690 Gørding,ding,940.000,21-01-2013,Alm. Salg,5.766,6,Villa,163,1926,-10 %,Aktuel værdi
+Sdr Lourupvej 14A6690 Gørding,ding,250.276,31-12-2012,Alm. Salg,1.881,4,Stuehus,133,1952,,
+Fællesmarksvej 166690 Gørding,ding,1.650.000,20-12-2012,Alm. Salg,7.568,5,Villa,218,1890,0 %,Aktuel værdi
+Nørregade 506690 Gørding,ding,895.000,23-11-2012,Alm. Salg,8.364,3,Villa,107,1900,0 %,Aktuel værdi
+Nørregade 1016690 Gørding,ding,1.125.000,02-11-2012,Alm. Salg,6.859,5,Villa,164,1973,-4 %,Aktuel værdi
+Stårupvej 46690 Gørding,ding,1.130.000,19-09-2012,Alm. Salg,6.277,6,Villa,180,1877,-5 %,Aktuel værdi
+Kløvermarken 256690 Gørding,ding,1.608.000,06-09-2012,Alm. Salg,8.000,8,Villa,201,1995,-2 %,Aktuel værdi
+Dr Jensens Alle 76690 Gørding,ding,1.150.000,29-08-2012,Alm. Salg,10.648,3,Villa,108,1945,0 %,Aktuel værdi
+Annesmindevej 26690 Gørding,ding,1.150.000,29-08-2012,Alm. Salg,4.655,8,Villa,247,1927,0 %,Aktuel værdi
+Hallundvej 46690 Gørding,ding,700.000,29-08-2012,Alm. Salg,6.730,4,Villa,104,1912,-10 %,Aktuel værdi
+Bjøvlundvej 36690 Gørding,ding,1.520.000,23-08-2012,Alm. Salg,7.069,7,Villa,215,1870,-5 %,Aktuel værdi
+Østparken 56690 Gørding,ding,1.035.000,17-08-2012,Alm. Salg,8.922,3,Villa,116,1976,,Aktuel værdi
+Åbrinken 26690 Gørding,ding,1.100.000,03-08-2012,Alm. Salg,9.016,3,Villa,122,1981,,Aktuel værdi
+Hejrskovvej 516690 Gørding,ding,862.500,03-08-2012,Alm. Salg,5.164,4,Stuehus,167,1912,,
+Hessellundvej 26690 Gørding,ding,850.000,12-07-2012,Alm. Salg,-,7,Villa,171,1965,,Aktuel værdi
+Østergårdsvej 246690 Gørding,ding,850.000,12-07-2012,Alm. Salg,8.947,3,Villa,95,1966,-3 %,Aktuel værdi
+Puggårdsvej 246690 Gørding,ding,1.695.000,05-07-2012,Alm. Salg,13.669,5,Villa,124,1901,,Aktuel værdi
+Byvænget 66690 Gørding,ding,460.000,05-07-2012,Alm. Salg,8.363,2,Rækkehus,55,1977,,Aktuel værdi
+Godthåbsvej 256690 Gørding,ding,875.000,03-07-2012,Alm. Salg,6.730,5,Villa,130,1927,-7 %,Aktuel værdi
+Østergade 156690 Gørding,ding,331.775,12-06-2012,Auktion,2.439,3,Villa,136,1950,,Aktuel værdi
+Søndergade 37A6690 Gørding,ding,850.000,01-06-2012,Alm. Salg,8.854,4,Villa,96,1962,-5 %,Aktuel værdi
+Søndergade 486690 Gørding,ding,975.000,21-05-2012,Alm. Salg,9.375,4,Villa,104,1965,-6 %,Aktuel værdi
+Fyrrevænget 186690 Gørding,ding,750.000,30-04-2012,Alm. Salg,-,5,Villa,144,1973,,Aktuel værdi
+Skolegade 116690 Gørding,ding,865.000,09-04-2012,Alm. Salg,6.360,5,Villa,136,1961,,Aktuel værdi
+Bjerndrupvej 16690 Gørding,ding,1.250.000,03-04-2012,Alm. Salg,7.812,6,Villa,160,1884,,Aktuel værdi
+Mosevej 36690 Gørding,ding,1.150.000,23-03-2012,Alm. Salg,3.911,9,Villa,294,1974,-8 %,Aktuel værdi
+Østergade 316690 Gørding,ding,650.000,04-03-2012,Alm. Salg,4.676,5,Villa,139,1947,,Aktuel værdi
+Nørregade 996690 Gørding,ding,925.000,24-02-2012,Alm. Salg,5.377,4,Villa,172,1972,,Aktuel værdi
+Bøelvej 46690 Gørding,ding,685.000,15-02-2012,Fam. Salg,3.246,8,Stuehus,211,1900,,
+Aikevej 136690 Gørding,ding,170.000,09-02-2012,Fam. Salg,1.888,4,Villa,90,1877,,Aktuel værdi
+Nørregade 616690 Gørding,ding,600.000,07-02-2012,Alm. Salg,6.976,3,Villa,86,1954,,Aktuel værdi
+Søndergade 386690 Gørding,ding,1.193.602,06-01-2012,Andet,7.602,5,Villa,157,1926,,Aktuel værdi
+Nørregade 316690 Gørding,ding,461.380,26-12-2011,Alm. Salg,2.284,7,Villa,202,1909,,Aktuel værdi
+Fonagervej 56690 Gørding,ding,1.137.500,16-12-2011,Fam. Salg,6.354,3,Stuehus,179,2007,,
+Gørdingvej 696690 Gørding,ding,905.000,12-12-2011,Alm. Salg,8.701,5,Villa,104,1928,-5 %,Aktuel værdi
+Bøelvej 76690 Gørding,ding,1.800.000,07-12-2011,Alm. Salg,8.181,5,Villa,220,1925,1 %,Aktuel værdi
+Østergårdsvej 46690 Gørding,ding,795.000,16-11-2011,Alm. Salg,5.977,6,Villa,133,1967,,Aktuel værdi
+Kløvermarken 126690 Gørding,ding,1.500.000,10-11-2011,Alm. Salg,9.202,5,Villa,163,1997,-6 %,Aktuel værdi
+Østergade 216690 Gørding,ding,275.000,10-11-2011,Auktion,1.964,4,Villa,140,1947,,Aktuel værdi
+Nørregade 76B6690 Gørding,ding,950.000,12-10-2011,Fam. Salg,7.196,5,Rækkehus,132,1973,,Aktuel værdi
+Søndergade 526690 Gørding,ding,200.000,12-09-2011,Alm. Salg,2.531,3,Villa,79,1956,,Aktuel værdi
+Sdr Lourupvej 416690 Gørding,ding,765.000,16-08-2011,Auktion,4.421,6,Villa,173,1957,,Aktuel værdi
+Søndergade 376690 Gørding,ding,675.000,26-07-2011,Alm. Salg,5.921,3,Villa,114,1910,-3 %,Aktuel værdi
+Hejrskovvej 446690 Gørding,ding,3.350.000,13-07-2011,Alm. Salg,19.476,5,Stuehus,172,1915,,
+Østergade 86690 Gørding,ding,320.000,30-06-2011,Alm. Salg,3.200,3,Rækkehus,100,1969,,Aktuel værdi
+Østergårdsvej 26690 Gørding,ding,650.000,08-06-2011,Alm. Salg,5.855,4,Villa,111,1967,,Aktuel værdi
+Nørregade 1166690 Gørding,ding,860.000,07-06-2011,Alm. Salg,6.323,5,Villa,136,1900,-4 %,Aktuel værdi
+Bøelvej 56690 Gørding,ding,1.899.000,20-05-2011,Alm. Salg,9.263,4,Villa,205,1800,0 %,Aktuel værdi
+Vestergade 126690 Gørding,ding,1.095.000,13-05-2011,Alm. Salg,9.201,4,Villa,119,1963,,Aktuel værdi
+Kløvermarken 436690 Gørding,ding,1.550.000,28-02-2011,Alm. Salg,10.264,5,Villa,151,2000,-3 %,Aktuel værdi
+Dr Jensens Alle 86690 Gørding,ding,500.000,22-02-2011,Alm. Salg,4.310,5,Villa,116,1976,-16 %,Aktuel værdi
+Vestergade 256690 Gørding,ding,150.000,17-02-2011,Alm. Salg,669,5,Villa,224,2015,-73 %,Aktuel værdi
+Fyrrevænget 146690 Gørding,ding,478.875,31-01-2011,Alm. Salg,3.712,5,Villa,129,1970,,Aktuel værdi
+Nørregade 1106690 Gørding,ding,630.000,26-01-2011,Alm. Salg,6.176,4,Villa,102,1959,,Aktuel værdi
+Nørregade 1186690 Gørding,ding,450.000,16-12-2010,Alm. Salg,5.000,3,Villa,90,1900,-9 %,Aktuel værdi
+Østergade 276690 Gørding,ding,885.000,26-11-2010,Alm. Salg,8.592,3,Villa,103,1948,-2 %,Aktuel værdi
+Kløvermarken 266690 Gørding,ding,1.400.000,17-11-2010,Alm. Salg,10.852,5,Villa,129,2007,-18 %,Aktuel værdi
+Østergårdsvej 146690 Gørding,ding,754.500,15-11-2010,Fam. Salg,3.829,8,Villa,197,1968,,Aktuel værdi
+Ådalsvej 46690 Gørding,ding,2.100.000,15-10-2010,Alm. Salg,17.500,4,Stuehus,120,1875,,
+Kløvermarken 276690 Gørding,ding,1.325.000,09-10-2010,Alm. Salg,10.351,5,Villa,128,1994,-4 %,Aktuel værdi
+Rugmarken 186690 Gørding,ding,236.800,06-10-2010,Alm. Salg,1.308,5,Villa,181,2011,,Aktuel værdi
+Vejrupvej 86690 Gørding,ding,350.000,24-09-2010,Alm. Salg,2.892,5,Villa,121,1900,,Aktuel værdi
+Fællesvirkevej 46690 Gørding,ding,750.000,31-08-2010,Alm. Salg,3.537,6,Villa,212,2000,-56 %,Aktuel værdi
+Nørregade 456690 Gørding,ding,875.000,19-08-2010,Alm. Salg,6.340,6,Villa,138,1914,,Aktuel værdi
+Skolegade 26690 Gørding,ding,795.000,28-07-2010,Alm. Salg,6.463,4,Villa,123,1963,-11 %,Aktuel værdi
+Nygade 226690 Gørding,ding,1.400.000,08-07-2010,Alm. Salg,9.333,5,Villa,150,1970,-6 %,Aktuel værdi
+Fællesmarksvej 206690 Gørding,ding,800.000,02-07-2010,Alm. Salg,5.925,5,Villa,135,1920,-11 %,Aktuel værdi
+Nørregade 276690 Gørding,ding,920.000,17-06-2010,Fam. Salg,7.076,2,Villa,130,1880,,Aktuel værdi
+Søndergade 246690 Gørding,ding,1.000.000,17-06-2010,Fam. Salg,7.246,6,Rækkehus,138,1899,,Aktuel værdi
+Aikevej 176690 Gørding,ding,492.500,07-06-2010,Alm. Salg,4.320,3,Villa,114,1934,,Aktuel værdi
+Vester Bjerndrupvej 56690 Gørding,ding,65.000,04-03-2010,Alm. Salg,328,7,Villa,198,1920,,Aktuel værdi
+Bøelvej 216690 Gørding,ding,8.847.973,03-03-2010,Alm. Salg,53.624,6,Stuehus,165,1908,,
+Annesmindevej 16690 Gørding,ding,7.525.000,09-02-2010,Alm. Salg,39.605,9,Stuehus,190,1874,,
+Fællesvirkevej 16690 Gørding,ding,1.233.200,01-02-2010,Alm. Salg,8.808,9,Villa,140,1927,-3 %,Aktuel værdi
+Østergade 66690 Gørding,ding,1.350.000,31-01-2010,Alm. Salg,10.384,4,Villa,130,1934,0 %,Aktuel værdi
+Terpvej 216690 Gørding,ding,1.996.000,20-01-2010,Fam. Salg,10.030,8,Villa,199,1890,,Aktuel værdi
+Åvænget 386690 Gørding,ding,672.500,17-12-2009,Alm. Salg,9.889,3,Rækkehus,68,1977,,Aktuel værdi
+Engvej 46690 Gørding,ding,1.150.000,02-12-2009,Alm. Salg,-,6,Villa,179,1964,,Aktuel værdi
+Nørregade 356690 Gørding,ding,725.000,30-11-2009,Alm. Salg,3.815,4,Villa,190,1935,-6 %,Aktuel værdi
+Kløvermarken 316690 Gørding,ding,1.485.000,29-11-2009,Alm. Salg,10.171,5,Villa,146,1994,-6 %,Aktuel værdi
+Østparken 176690 Gørding,ding,1.065.000,19-11-2009,Alm. Salg,9.594,5,Villa,111,1976,,Aktuel værdi
+Bøelvej 26690 Gørding,ding,750.000,11-11-2009,Alm. Salg,5.136,6,Villa,146,1941,-6 %,Aktuel værdi
+Lourupvej 56690 Gørding,ding,500.000,27-10-2009,Alm. Salg,3.333,5,Villa,150,1907,,Aktuel værdi
+Søndergade 476690 Gørding,ding,880.000,26-10-2009,Alm. Salg,7.272,5,Villa,121,1959,,Aktuel værdi
+Nørregade 976690 Gørding,ding,700.000,26-10-2009,Alm. Salg,8.045,3,Villa,87,1965,,Aktuel værdi
+Kirkevej 106690 Gørding,ding,600.000,19-10-2009,Alm. Salg,3.428,8,Villa,175,1927,-25 %,Aktuel værdi
+Rugmarken 136690 Gørding,ding,246.272,07-10-2009,Alm. Salg,1.316,5,Villa,187,2010,,Aktuel værdi
+Kløvermarken 446690 Gørding,ding,206.700,29-09-2009,Alm. Salg,1.174,5,Villa,176,2010,,Aktuel værdi
+Sdr Lourupvej 106690 Gørding,ding,6.000.000,28-09-2009,Andet,29.126,6,Villa,206,1965,,Aktuel værdi
+Søndergade 336690 Gørding,ding,1.115.000,27-08-2009,Alm. Salg,7.797,5,Villa,143,1927,-3 %,Aktuel værdi
+Byvænget 56690 Gørding,ding,706.300,06-08-2009,Fam. Salg,5.081,5,Villa,139,1910,,Aktuel værdi
+Nørregade 896690 Gørding,ding,830.000,29-07-2009,Alm. Salg,7.155,4,Villa,116,1965,,Aktuel værdi
+Varhovej 156690 Gørding,ding,562.500,13-07-2009,Fam. Salg,5.160,3,Villa,109,1931,,Aktuel værdi
+Rugmarken 176690 Gørding,ding,308.736,12-07-2009,Alm. Salg,1.291,7,Villa,239,2010,,Aktuel værdi
+Østergårdsvej 96690 Gørding,ding,890.000,10-07-2009,Alm. Salg,7.120,4,Villa,125,1967,,Aktuel værdi
+Risagervej 5B6690 Gørding,ding,300.000,23-06-2009,Alm. Salg,3.260,7,Ukendt,92,1985,,Aktuel værdi
+Lourupvej 186690 Gørding,ding,2.148.000,29-05-2009,Alm. Salg,17.463,3,Villa,123,1994,0 %,Aktuel værdi
+Vestergade 136690 Gørding,ding,590.000,07-05-2009,Auktion,4.573,4,Villa,129,1904,-34 %,Aktuel værdi
+Aikevej 16690 Gørding,ding,560.000,01-05-2009,Alm. Salg,2.304,6,Villa,243,2013,,Aktuel værdi
+Brammingborgvej 286690 Gørding,ding,950.000,20-04-2009,Fam. Salg,6.785,5,Villa,140,1968,,Aktuel værdi
+Nørregade 1126690 Gørding,ding,561.000,13-04-2009,Fam. Salg,6.841,3,Villa,82,1964,,Aktuel værdi
+Søndergade 626690 Gørding,ding,890.000,12-04-2009,Alm. Salg,5.426,4,Villa,164,1969,-6 %,Aktuel værdi
+Nygade 176690 Gørding,ding,1.325.000,13-03-2009,Alm. Salg,7.240,8,Villa,183,1986,-11 %,Aktuel værdi
+Nørregade 816690 Gørding,ding,750.000,13-02-2009,Alm. Salg,6.097,3,Villa,123,1965,-23 %,Aktuel værdi
+Kløvermarken 426690 Gørding,ding,1.800.000,19-01-2009,Alm. Salg,11.392,5,Villa,158,2008,-10 %,Aktuel værdi
+Brammingborgvej 246690 Gørding,ding,4.498.106,21-12-2008,Alm. Salg,28.113,5,Stuehus,160,1973,,
+Søndergade 66690 Gørding,ding,500.000,01-12-2008,Alm. Salg,3.125,6,Villa,160,1942,,Aktuel værdi
+Rugmarken 206690 Gørding,ding,349.952,29-11-2008,Alm. Salg,1.785,5,Villa,196,2010,,Aktuel værdi
+Møllegade 126690 Gørding,ding,460.000,27-11-2008,Auktion,3.538,5,Villa,130,1913,,Aktuel værdi
+Vester Bjerndrupvej 16690 Gørding,ding,3.029.288,26-11-2008,Alm. Salg,17.612,5,Stuehus,172,1954,,
+Johnsensvej 46690 Gørding,ding,485.000,20-10-2008,Auktion,4.041,4,Villa,120,1957,-55 %,Aktuel værdi
+Nygade 286690 Gørding,ding,688.500,10-10-2008,Fam. Salg,7.025,4,Villa,98,1951,,Aktuel værdi
+Vejrupvej 146690 Gørding,ding,15.083.000,30-09-2008,Alm. Salg,65.578,8,Stuehus,230,1915,,
+Søndergade 446690 Gørding,ding,725.000,29-09-2008,Alm. Salg,8.430,4,Villa,86,1959,-3 %,Aktuel værdi
+Byvænget 126690 Gørding,ding,900.000,26-09-2008,Alm. Salg,7.964,5,Rækkehus,113,1977,,Aktuel værdi
+Chr. Nielsens Plads 36690 Gørding,ding,1.500.000,05-09-2008,Alm. Salg,13.274,4,Villa,113,2009,,Aktuel værdi
+Kirkevej 96690 Gørding,ding,1.330.000,08-08-2008,Alm. Salg,10.310,5,Villa,129,1931,-1 %,Aktuel værdi
+Østparken 276690 Gørding,ding,1.100.000,08-08-2008,Alm. Salg,5.472,7,Villa,201,1979,,Aktuel værdi
+Ilstedvej 146690 Gørding,ding,3.903.197,19-07-2008,Fam. Salg,21.928,10,Stuehus,178,1900,,
+Lovrupvej 226690 Gørding,ding,2.385.000,03-07-2008,Alm. Salg,11.984,6,Stuehus,199,1940,,
+Jernvedvej 76690 Gørding,ding,806.000,11-06-2008,Alm. Salg,4.380,6,Stuehus,184,1872,,
+Nørregade 636690 Gørding,ding,898.000,09-06-2008,Alm. Salg,10.441,5,Villa,86,1958,0 %,Aktuel værdi
+Nørregade 1046690 Gørding,ding,698.000,06-06-2008,Alm. Salg,8.835,3,Villa,79,1964,0 %,Aktuel værdi
+Møllegade 106690 Gørding,ding,570.000,14-04-2008,Alm. Salg,3.750,4,Villa,152,1905,-4 %,Aktuel værdi
+Nørregade 856690 Gørding,ding,670.000,07-04-2008,Alm. Salg,6.979,4,Villa,96,1965,-4 %,Aktuel værdi
+Skolegade 66690 Gørding,ding,700.000,01-04-2008,Alm. Salg,6.034,4,Villa,116,1962,-11 %,Aktuel værdi
+Nørregade 376690 Gørding,ding,825.000,26-03-2008,Alm. Salg,5.536,5,Villa,149,1920,-3 %,Aktuel værdi
+Lourupvej 36690 Gørding,ding,35.482,18-02-2008,Auktion,314,4,Villa,113,1900,,Aktuel værdi
+Jernvedvej 36690 Gørding,ding,1.495.000,11-02-2008,Alm. Salg,11.589,2,Villa,129,1909,0 %,Aktuel værdi
+Søndergade 96690 Gørding,ding,815.000,22-12-2007,Alm. Salg,5.030,7,Villa,162,1914,-5 %,Aktuel værdi
+Østergade 386690 Gørding,ding,925.000,06-12-2007,Fam. Salg,6.423,3,Rækkehus,144,1977,,Aktuel værdi
+Vester Bjerndrupvej 26690 Gørding,ding,261.200,15-11-2007,Auktion,3.436,2,Villa,76,1927,,Aktuel værdi
+Vejrupvej 106690 Gørding,ding,750.000,20-08-2007,Alm. Salg,6.880,4,Villa,109,1877,,Aktuel værdi
+Nørregade 136690 Gørding,ding,1.950.000,03-08-2007,Alm. Salg,4.887,6,Villa,399,2001,-2 %,Aktuel værdi
+Kirkevej 76690 Gørding,ding,645.000,01-08-2007,Alm. Salg,7.166,5,Villa,90,1925,,Aktuel værdi
+Jernvedvej 86690 Gørding,ding,2.225.000,25-07-2007,Alm. Salg,17.800,5,Villa,125,1996,,Aktuel værdi
+Egevænget 46690 Gørding,ding,870.000,22-07-2007,Alm. Salg,6.744,5,Villa,129,1973,-6 %,Aktuel værdi
+"Nørregade 8, 16690 Gørding",ding,895.000,06-07-2007,Alm. Salg,5.774,4,Lejlighed,155,1948,0 %,Aktuel værdi
+Risagervej 36690 Gørding,ding,590.000,08-06-2007,Alm. Salg,-,5,Villa,177,1962,,Aktuel værdi
+Kløvermarken 336690 Gørding,ding,1.498.000,08-06-2007,Alm. Salg,-,5,Villa,154,1997,,Aktuel værdi
+Østergade 366690 Gørding,ding,693.000,30-05-2007,Alm. Salg,7.786,4,Villa,89,1971,,Aktuel værdi
+Tværgade 56690 Gørding,ding,825.000,24-05-2007,Fam. Salg,5.809,5,Villa,142,1975,,Aktuel værdi
+Rugmarken 156690 Gørding,ding,278.870,23-05-2007,Alm. Salg,1.499,5,Villa,186,2010,,Aktuel værdi
+Lourupvej 196690 Gørding,ding,648.000,20-04-2007,Alm. Salg,-,4,Villa,136,1890,,Aktuel værdi
+Annesmindevej 66690 Gørding,ding,7.200.000,30-03-2007,Alm. Salg,30.638,8,Stuehus,235,1909,,
+Vestergade 56690 Gørding,ding,700.000,29-03-2007,Alm. Salg,5.303,4,Rækkehus,132,1907,,Aktuel værdi
+Mosevej 56690 Gørding,ding,1.300.000,07-03-2007,Alm. Salg,6.500,6,Villa,200,1978,,Aktuel værdi
+Bøelvej 126690 Gørding,ding,1.545.000,26-02-2007,Alm. Salg,7.725,7,Stuehus,200,1890,,
+Nygade 196690 Gørding,ding,150.000,07-02-2007,Alm. Salg,1.200,4,Villa,125,2008,0 %,Aktuel værdi
+Fyrrevænget 136690 Gørding,ding,1.398.000,26-01-2007,Alm. Salg,8.848,4,Villa,158,1974,,Aktuel værdi
+Tingvej 36690 Gørding,ding,600.000,23-01-2007,Alm. Salg,4.761,5,Villa,126,1869,,Aktuel værdi
+Nørregade 956690 Gørding,ding,950.000,17-01-2007,Alm. Salg,5.588,5,Villa,170,1975,,Aktuel værdi
+Lourupvej 166690 Gørding,ding,775.000,16-01-2007,Alm. Salg,5.916,6,Villa,131,1955,,Aktuel værdi
+Gørdingvej 1046690 Gørding,ding,1.080.750,02-01-2007,Alm. Salg,4.205,7,Stuehus,257,1969,,
+Jernvedvej 106690 Gørding,ding,469.500,11-12-2006,Alm. Salg,2.682,5,Stuehus,175,1982,,
+Nørregade 196690 Gørding,ding,435.000,03-12-2006,Alm. Salg,3.717,4,Villa,117,1890,,Aktuel værdi
+Østparken 396690 Gørding,ding,425.000,01-12-2006,Andet,3.346,5,Villa,127,1979,,Aktuel værdi
+Lourupvej 216690 Gørding,ding,1.300.000,13-10-2006,Alm. Salg,6.989,5,Villa,186,1900,,Aktuel værdi
+Bøelvej 236690 Gørding,ding,1.440.000,11-10-2006,Alm. Salg,8.834,5,Villa,163,1880,,Aktuel værdi
+Sdr Lourupvej 166690 Gørding,ding,376.000,03-10-2006,Fam. Salg,1.209,9,Villa,311,1880,,Aktuel værdi
+Kløvermarken 326690 Gørding,ding,274.016,08-09-2006,Alm. Salg,1.398,6,Villa,196,2007,,Aktuel værdi
+Nygade 166690 Gørding,ding,1.098.000,29-08-2006,Alm. Salg,10.871,4,Villa,101,1986,,Aktuel værdi
+Søndergade 316690 Gørding,ding,650.000,29-08-2006,Alm. Salg,5.416,4,Villa,120,1927,,Aktuel værdi
+Nygade 66690 Gørding,ding,870.000,30-07-2006,Alm. Salg,8.446,4,Villa,103,1951,,Aktuel værdi
+Vestergade 226690 Gørding,ding,1.100.000,13-07-2006,Fam. Salg,-,6,Villa,265,1944,,Aktuel værdi
+Brammingborgvej 156690 Gørding,ding,791.000,03-07-2006,Fam. Salg,6.038,5,Villa,131,2012,,Aktuel værdi
+Nørregade 476690 Gørding,ding,1.150.000,28-06-2006,Alm. Salg,6.149,5,Villa,187,1932,,Aktuel værdi
+Nørregade 576690 Gørding,ding,810.000,19-06-2006,Alm. Salg,5.510,5,Villa,147,1940,,Aktuel værdi
+Nørregade 596690 Gørding,ding,875.000,16-06-2006,Alm. Salg,8.750,4,Villa,100,1952,,Aktuel værdi
+Søndergade 256690 Gørding,ding,775.000,13-06-2006,Alm. Salg,11.567,2,Villa,67,1940,,Aktuel værdi
+Søndermarken 326690 Gørding,ding,1.060.000,08-06-2006,Alm. Salg,6.424,8,Villa,165,1973,,Aktuel værdi
+Vestergade 21D6690 Gørding,ding,220.000,31-05-2006,Alm. Salg,1.294,6,Villa,170,2007,,Aktuel værdi
+Birkevænget 176690 Gørding,ding,1.000.000,14-05-2006,Alm. Salg,-,6,Villa,209,1983,,Aktuel værdi
+Brammingborgvej 226690 Gørding,ding,575.000,05-05-2006,Fam. Salg,6.927,2,Villa,83,1917,,Aktuel værdi
+Søndergade 516690 Gørding,ding,520.000,30-04-2006,Alm. Salg,4.561,4,Villa,114,1960,,Aktuel værdi
+Bjøvlundvej 56690 Gørding,ding,790.000,27-04-2006,Alm. Salg,5.337,4,Stuehus,148,1912,,
+Åbrinken 126690 Gørding,ding,995.000,20-04-2006,Alm. Salg,5.558,6,Villa,179,1979,,Aktuel værdi
+Østergade 166690 Gørding,ding,498.000,10-04-2006,Alm. Salg,4.980,3,Villa,100,1962,,Aktuel værdi
+Tværgade 36690 Gørding,ding,1.148.000,10-04-2006,Alm. Salg,6.010,7,Villa,191,1975,,Aktuel værdi
+Kløvermarken 26690 Gørding,ding,212.750,01-04-2006,Alm. Salg,1.346,5,Villa,158,2007,,Aktuel værdi
+Sdr Lourupvej 376690 Gørding,ding,650.000,29-03-2006,Alm. Salg,4.088,5,Villa,159,1928,,Aktuel værdi
+Pilevænget 36690 Gørding,ding,1.220.000,28-03-2006,Alm. Salg,6.130,7,Villa,199,1968,,Aktuel værdi
+Østerhedevej 196690 Gørding,ding,250.000,20-03-2006,Fam. Salg,1.515,6,Villa,165,1880,,Aktuel værdi
+Kløvermarken 456690 Gørding,ding,186.196,16-03-2006,Alm. Salg,-,8,Villa,187,2007,,Aktuel værdi
+Dr Jensens Alle 106690 Gørding,ding,798.000,15-03-2006,Alm. Salg,7.388,4,Villa,108,1936,,Aktuel værdi
+Kløvermarken 206690 Gørding,ding,107.625,14-03-2006,Alm. Salg,703,6,Villa,153,2007,,Aktuel værdi
+Tangevej 76690 Gørding,ding,1.250.000,03-03-2006,Alm. Salg,4.208,9,Stuehus,297,1902,,
+Nygade 36690 Gørding,ding,457.384,02-03-2006,Alm. Salg,2.060,7,Villa,222,1976,,Aktuel værdi
+Sejersgården 56690 Gørding,ding,714.000,19-02-2006,Fam. Salg,-,6,Villa,182,1977,,Aktuel værdi
+Hessellundvej 146690 Gørding,ding,1.050.000,15-02-2006,Fam. Salg,-,4,Villa,143,1897,,Aktuel værdi
+Johnsensvej 66690 Gørding,ding,885.000,14-02-2006,Alm. Salg,6.755,3,Villa,131,1958,,Aktuel værdi
+Bøelvej 86690 Gørding,ding,4.870.548,25-01-2006,Alm. Salg,48.705,5,Stuehus,100,1924,,
+Østergade 96690 Gørding,ding,1.148.000,04-01-2006,Alm. Salg,5.290,7,Villa,217,1928,,Aktuel værdi
+Vester Bjerndrupvej 46690 Gørding,ding,155.000,27-12-2005,Alm. Salg,1.040,5,Villa,149,1962,,Aktuel værdi
+Nørregade 566690 Gørding,ding,950.000,16-12-2005,Fam. Salg,8.796,4,Villa,108,1910,,Aktuel værdi
+Vestergade 21C6690 Gørding,ding,225.000,22-11-2005,Alm. Salg,1.278,5,Villa,176,2008,,Aktuel værdi
+Stårupvej 96690 Gørding,ding,810.949,21-11-2005,Andet,5.100,4,Villa,159,2004,,Aktuel værdi
+Pilevænget 76690 Gørding,ding,940.000,17-11-2005,Alm. Salg,7.401,4,Villa,127,1986,,Aktuel værdi
+Søndermarken 126690 Gørding,ding,1.055.000,10-11-2005,Alm. Salg,8.508,4,Villa,124,1973,,Aktuel værdi
+Skolegade 36690 Gørding,ding,900.000,25-10-2005,Alm. Salg,6.716,5,Villa,134,1963,,Aktuel værdi
+Tangevej 116690 Gørding,ding,1.190.000,20-10-2005,Alm. Salg,7.531,5,Villa,158,1935,,Aktuel værdi
+Østparken 256690 Gørding,ding,870.000,07-10-2005,Alm. Salg,7.631,3,Villa,114,1990,,Aktuel værdi
+Nørregade 626690 Gørding,ding,850.000,26-09-2005,Alm. Salg,5.379,7,Villa,158,1926,,Aktuel værdi
+Varhovej 136690 Gørding,ding,2.290.000,19-09-2005,Alm. Salg,11.450,7,Villa,200,2014,,Aktuel værdi
+Søndergade 606690 Gørding,ding,720.000,14-09-2005,Alm. Salg,6.792,3,Villa,106,1951,,Aktuel værdi
+Nørregade 1076690 Gørding,ding,500.000,12-09-2005,Alm. Salg,4.424,5,Villa,113,1947,,Aktuel værdi
+Ådalsvej 66690 Gørding,ding,1.195.000,22-08-2005,Alm. Salg,8.786,6,Villa,136,1920,,Aktuel værdi
+Stårupvej 146690 Gørding,ding,405.000,20-08-2005,Fam. Salg,1.446,10,Villa,280,1900,,Aktuel værdi
+Østergårdsvej 36690 Gørding,ding,710.000,18-08-2005,Alm. Salg,5.819,4,Villa,122,1965,,Aktuel værdi
+Kirkevej 156690 Gørding,ding,600.000,18-08-2005,Alm. Salg,3.592,7,Villa,167,1908,,Aktuel værdi
+Aikevej 156690 Gørding,ding,580.231,17-08-2005,Fam. Salg,6.447,2,Villa,90,1932,,Aktuel værdi
+Nørregade 586690 Gørding,ding,695.000,10-08-2005,Alm. Salg,4.664,7,Villa,149,1916,,Aktuel værdi
+Nørregade 936690 Gørding,ding,885.000,26-07-2005,Alm. Salg,5.205,5,Villa,170,1975,,Aktuel værdi
+Åbrinken 106690 Gørding,ding,850.000,23-07-2005,Alm. Salg,6.967,4,Villa,122,1981,,Aktuel værdi
+Nørregade 886690 Gørding,ding,720.000,21-07-2005,Alm. Salg,5.000,5,Villa,144,1959,,Aktuel værdi
+Søndergade 126690 Gørding,ding,695.000,18-07-2005,Alm. Salg,3.971,6,Villa,175,1946,,Aktuel værdi
+Vestergade 21G6690 Gørding,ding,400.000,13-07-2005,Alm. Salg,2.209,2,Villa,181,2009,,Aktuel værdi
+Lourupvej 236690 Gørding,ding,504.403,29-06-2005,Fam. Salg,2.984,3,Stuehus,169,1925,,
+Nygade 326690 Gørding,ding,728.000,06-06-2005,Alm. Salg,5.352,6,Villa,136,1952,,Aktuel værdi
+Søndergade 456690 Gørding,ding,625.000,04-06-2005,Alm. Salg,4.807,4,Villa,130,1968,,Aktuel værdi
+Sejersgården 16690 Gørding,ding,880.000,27-05-2005,Alm. Salg,6.197,4,Villa,142,1979,,Aktuel værdi
+Hejrskovvej 526690 Gørding,ding,600.000,20-04-2005,Alm. Salg,5.882,4,Villa,102,1927,,Aktuel værdi
+Vejrupvej 26690 Gørding,ding,700.000,11-04-2005,Alm. Salg,-,6,Villa,158,1923,,Aktuel værdi
+Tangevej 86690 Gørding,ding,17.755.000,10-03-2005,Alm. Salg,136.576,6,Stuehus,130,1877,,
+Søndermarken 166690 Gørding,ding,750.000,10-03-2005,Alm. Salg,4.934,5,Villa,152,1973,,Aktuel værdi
+Ådalsvej 26690 Gørding,ding,600.000,07-03-2005,Alm. Salg,2.870,8,Stuehus,209,2003,,
+Puggårdsvej 296690 Gørding,ding,885.190,22-02-2005,Alm. Salg,6.322,4,Stuehus,140,1924,,
+Fællesvirkevej 26690 Gørding,ding,91.000,21-02-2005,Alm. Salg,631,6,Villa,144,1903,,Aktuel værdi
+Bjøvlundvej 16690 Gørding,ding,1.600.000,24-01-2005,Fam. Salg,13.333,6,Stuehus,120,1870,,
+Varhovej 96690 Gørding,ding,780.000,24-01-2005,Fam. Salg,5.652,4,Villa,138,1939,,Aktuel værdi
+Nørregade 806690 Gørding,ding,1.035.000,19-01-2005,Alm. Salg,4.905,7,Villa,211,1962,,Aktuel værdi
+Vestergade 146690 Gørding,ding,400.000,10-01-2005,Alm. Salg,2.580,6,Villa,155,1929,,Aktuel værdi
+Bjøvlundvej 26690 Gørding,ding,775.000,22-12-2004,Alm. Salg,11.923,2,Stuehus,65,1777,,
+Vester Bjerndrupvej 36690 Gørding,ding,1.500.000,22-12-2004,Alm. Salg,12.396,4,Stuehus,121,1873,,
+Stårupvej 66690 Gørding,ding,119.503,26-11-2004,Andet,1.021,4,Villa,117,1930,,Aktuel værdi
+Sdr Lourupvej 316690 Gørding,ding,925.000,10-11-2004,Alm. Salg,3.700,6,Villa,250,2007,,Aktuel værdi
+Risagervej 96690 Gørding,ding,790.000,04-11-2004,Alm. Salg,5.563,3,Villa,142,1984,,Aktuel værdi
+Fællesmarksvej 266690 Gørding,ding,266.000,29-10-2004,Alm. Salg,2.375,6,Villa,112,1915,,Aktuel værdi
+Søndergade 236690 Gørding,ding,725.000,21-10-2004,Alm. Salg,5.942,3,Villa,122,1930,,Aktuel værdi
+Sdr Lourupvej 226690 Gørding,ding,1.500.000,17-09-2004,Alm. Salg,10.273,8,Stuehus,146,1900,,
+Lovrupvej 246690 Gørding,ding,700.000,27-08-2004,Alm. Salg,4.605,6,Stuehus,152,1914,,
+Nørregade 76A6690 Gørding,ding,435.000,05-08-2004,Alm. Salg,5.240,2,Rækkehus,83,1973,,Aktuel værdi
+Vestergade 21F6690 Gørding,ding,150.000,30-06-2004,Alm. Salg,1.171,6,Ukendt,128,2004,,Aktuel værdi
+Allegade 56690 Gørding,ding,739.500,18-06-2004,Fam. Salg,4.801,5,Villa,154,1963,,Aktuel værdi
+Østergade 176690 Gørding,ding,650.000,18-06-2004,Alm. Salg,6.190,4,Villa,105,1945,,Aktuel værdi
+Kirkevej 276690 Gørding,ding,1.195.000,15-06-2004,Alm. Salg,5.558,8,Villa,215,1969,,Aktuel værdi
+Sdr Lourupvej 446690 Gørding,ding,875.000,21-05-2004,Alm. Salg,-,8,Villa,243,1877,,Aktuel værdi
+Skolegade 46690 Gørding,ding,775.000,30-04-2004,Alm. Salg,8.072,3,Villa,96,1965,,Aktuel værdi
+Kløvermarken 346690 Gørding,ding,254.267,23-03-2004,Alm. Salg,1.513,6,Villa,168,2005,,Aktuel værdi
+Fællesmarksvej 246690 Gørding,ding,733.000,22-03-2004,Alm. Salg,2.130,8,Villa,344,1852,,Aktuel værdi
+Søndergade 646690 Gørding,ding,330.000,04-03-2004,Alm. Salg,4.024,5,Villa,82,1948,,Aktuel værdi
+Vestergade 286690 Gørding,ding,585.000,13-02-2004,Fam. Salg,-,4,Villa,146,1946,,Aktuel værdi
+Fællesmarksvej 286690 Gørding,ding,1.750.000,11-02-2004,Alm. Salg,17.500,3,Stuehus,100,1850,,
+Hessellundvej 106690 Gørding,ding,438.000,06-02-2004,Alm. Salg,1.848,9,Villa,237,1922,,Aktuel værdi
+Østparken 36690 Gørding,ding,1.300.000,06-02-2004,Alm. Salg,7.103,6,Villa,183,1977,,Aktuel værdi
+Nørregade 77A6690 Gørding,ding,380.000,30-01-2004,Alm. Salg,-,3,Villa,83,1956,,Aktuel værdi
+Lourupvej 66690 Gørding,ding,1.480.000,28-01-2004,Alm. Salg,7.254,8,Villa,204,1938,,Aktuel værdi
+Kløvermarken 196690 Gørding,ding,28.350,12-01-2004,Alm. Salg,213,4,Villa,133,2004,,Aktuel værdi
+Kløvermarken 216690 Gørding,ding,32.500,06-01-2004,Andet,262,5,Villa,124,2005,,Aktuel værdi
+Jernvedvej 166690 Gørding,ding,150.000,10-12-2003,Alm. Salg,882,6,Villa,170,2004,,Aktuel værdi
+Stårupvej 86690 Gørding,ding,315.000,30-11-2003,Alm. Salg,2.266,6,Villa,139,1914,,Aktuel værdi
+Nygade 106690 Gørding,ding,822.000,24-11-2003,Alm. Salg,-,5,Villa,200,1966,,Aktuel værdi
+Kirkevej 36690 Gørding,ding,537.500,24-11-2003,Alm. Salg,4.011,5,Villa,134,1907,,Aktuel værdi
+Tangevej 176690 Gørding,ding,2.777.402,14-11-2003,Fam. Salg,11.718,7,Stuehus,237,2012,,
+Troldhøjvej 46690 Gørding,ding,48.000,08-10-2003,Alm. Salg,317,4,Villa,151,2005,,Aktuel værdi
+Sdr Lourupvej 136690 Gørding,ding,655.000,04-10-2003,Alm. Salg,4.093,5,Villa,160,1958,,Aktuel værdi
+Kløvermarken 246690 Gørding,ding,128.650,24-09-2003,Alm. Salg,835,5,Villa,154,2004,,Aktuel værdi
+Tangevej 156690 Gørding,ding,675.000,15-09-2003,Alm. Salg,3.292,6,Villa,205,1967,,Aktuel værdi
+Åvænget 366690 Gørding,ding,435.000,12-09-2003,Alm. Salg,6.397,3,Rækkehus,68,1977,,Aktuel værdi
+Vester Bjerndrupvej 66690 Gørding,ding,1.650.000,19-08-2003,Alm. Salg,8.168,7,Stuehus,202,2006,,
+Vestergade 21B6690 Gørding,ding,1.700.000,09-08-2003,Alm. Salg,5.263,7,Villa,323,2000,,Aktuel værdi
+Østergårdsvej 136690 Gørding,ding,850.000,06-08-2003,Alm. Salg,5.666,5,Villa,150,1968,,Aktuel værdi
+Nygade 76690 Gørding,ding,715.000,29-07-2003,Alm. Salg,5.143,5,Villa,139,1930,,Aktuel værdi
+Nørregade 416690 Gørding,ding,680.000,09-07-2003,Alm. Salg,9.189,4,Rækkehus,74,1902,,Aktuel værdi
+Fonagervej 16690 Gørding,ding,2.007.929,02-06-2003,Alm. Salg,7.752,7,Villa,259,1996,,Aktuel værdi
+Lourupvej 176690 Gørding,ding,975.000,09-05-2003,Alm. Salg,4.949,5,Villa,197,1956,,Aktuel værdi
+Kløvermarken 306690 Gørding,ding,137.950,09-04-2003,Alm. Salg,867,6,Villa,159,2003,,Aktuel værdi
+Bøelvej 156690 Gørding,ding,175.000,26-02-2003,Auktion,1.296,5,Villa,135,2011,,Aktuel værdi
+Kløvermarken 226690 Gørding,ding,682.843,24-02-2003,Andet,4.163,7,Villa,164,1999,,Aktuel værdi
+Kløvermarken 386690 Gørding,ding,163.680,17-02-2003,Alm. Salg,1.076,6,Villa,152,2003,,Aktuel værdi
+Søndergade 116690 Gørding,ding,393.420,06-02-2003,Alm. Salg,2.770,5,Villa,142,1890,,Aktuel værdi
+Kløvermarken 516690 Gørding,ding,217.728,02-01-2003,Alm. Salg,1.110,6,Villa,196,2003,,Aktuel værdi
+Østerhedevej 86690 Gørding,ding,5.032.620,11-11-2002,Alm. Salg,35.947,4,Stuehus,140,1909,,
+Nygade 56690 Gørding,ding,760.000,06-11-2002,Alm. Salg,6.909,4,Villa,110,1930,,Aktuel værdi
+Fællesmarksvej 226690 Gørding,ding,600.000,01-11-2002,Alm. Salg,4.137,5,Villa,145,2002,,Aktuel værdi
+Stårupvej 126690 Gørding,ding,530.000,29-10-2002,Alm. Salg,4.453,5,Villa,119,1840,,Aktuel værdi
+Vestergade 196690 Gørding,ding,251.000,19-09-2002,Auktion,2.091,3,Villa,120,1908,,Aktuel værdi
+Østergårdsvej 86690 Gørding,ding,575.000,12-09-2002,Alm. Salg,6.460,4,Villa,89,1967,,Aktuel værdi
+Søndergade 176690 Gørding,ding,765.000,02-09-2002,Alm. Salg,6.769,4,Villa,113,1925,,Aktuel værdi
+Søndergade 54A6690 Gørding,ding,340.000,05-08-2002,Alm. Salg,5.151,2,Villa,66,1827,,Aktuel værdi
+Lourupvej 86690 Gørding,ding,3.299.757,25-07-2002,Alm. Salg,17.367,5,Stuehus,190,1877,,
+Godthåbsvej 76690 Gørding,ding,560.000,23-06-2002,Alm. Salg,4.000,5,Villa,140,1910,,Aktuel værdi
+Tvedvej 336690 Gørding,ding,265.000,17-06-2002,Alm. Salg,2.944,3,Villa,90,1901,,Aktuel værdi
+Åbrinken 16690 Gørding,ding,1.400.000,10-06-2002,Fam. Salg,9.333,6,Villa,150,1995,,Aktuel værdi
+Vester Bjerndrupvej 86690 Gørding,ding,215.000,10-06-2002,Alm. Salg,7.678,2,Sommerhus,28,1966,,Aktuel værdi
+Nørregade 206690 Gørding,ding,435.000,08-06-2002,Alm. Salg,2.735,8,Rækkehus,159,1910,,Aktuel værdi
+Sdr Lourupvej 436690 Gørding,ding,825.000,03-06-2002,Alm. Salg,3.300,9,Villa,250,1887,,Aktuel værdi
+Kløvermarken 496690 Gørding,ding,202.752,13-05-2002,Alm. Salg,1.417,5,Villa,143,2002,,Aktuel værdi
+Søndergade 266690 Gørding,ding,767.782,06-03-2002,Alm. Salg,5.152,6,Villa,149,1902,,Aktuel værdi
+Bjøvlundvej 46690 Gørding,ding,1.455.000,18-02-2002,Alm. Salg,11.829,4,Stuehus,123,2000,,
+Åvænget 96690 Gørding,ding,740.000,23-01-2002,Alm. Salg,7.254,4,Villa,102,1965,,Aktuel værdi
+Lourupvej 116690 Gørding,ding,3.700.000,02-01-2002,Fam. Salg,11.935,7,Stuehus,310,2007,,
+Østergårdsvej 186690 Gørding,ding,682.247,30-12-2001,Alm. Salg,6.623,4,Villa,103,1966,,Aktuel værdi
+Lovrupvej 376690 Gørding,ding,320.000,09-12-2001,Alm. Salg,3.440,4,Villa,93,1925,,Aktuel værdi
+Møllegade 26690 Gørding,ding,605.102,13-11-2001,Alm. Salg,5.932,4,Villa,102,1890,,Aktuel værdi
+Tingvej 16690 Gørding,ding,740.000,12-10-2001,Alm. Salg,4.933,4,Villa,150,1881,,Aktuel værdi
+Engvej 36690 Gørding,ding,362.150,11-10-2001,Fam. Salg,-,10,Villa,222,1928,,Aktuel værdi
+Skolegade 76690 Gørding,ding,320.000,05-10-2001,Andet,2.424,5,Villa,132,1963,,Aktuel værdi
+Åvænget 146690 Gørding,ding,350.000,10-08-2001,Alm. Salg,5.932,2,Rækkehus,59,1977,,Aktuel værdi
+Sdr Lourupvej 206690 Gørding,ding,3.150.000,20-07-2001,Fam. Salg,16.237,4,Stuehus,194,1932,,
+Stårupvej 16690 Gørding,ding,375.000,02-05-2001,Alm. Salg,5.859,2,Villa,64,1870,,Aktuel værdi
+Åvænget 86690 Gørding,ding,283.333,27-03-2001,Alm. Salg,4.722,2,Rækkehus,60,1977,,Aktuel værdi
+Åvænget 186690 Gørding,ding,283.333,27-03-2001,Alm. Salg,4.722,2,Rækkehus,60,1977,,Aktuel værdi
+Åvænget 166690 Gørding,ding,283.333,27-03-2001,Alm. Salg,4.802,2,Rækkehus,59,1977,,Aktuel værdi
+Åvænget 246690 Gørding,ding,283.333,27-03-2001,Alm. Salg,4.358,3,Rækkehus,65,1977,,Aktuel værdi
+Åvænget 286690 Gørding,ding,283.333,27-03-2001,Alm. Salg,4.358,3,Rækkehus,65,1977,,Aktuel værdi
+Åvænget 306690 Gørding,ding,283.333,27-03-2001,Alm. Salg,4.292,3,Rækkehus,66,1977,,Aktuel værdi
+Nørregade 106690 Gørding,ding,450.000,18-03-2001,Alm. Salg,2.980,5,Villa,151,1905,,Aktuel værdi
+Stårupvej 26690 Gørding,ding,375.000,02-03-2001,Alm. Salg,3.073,4,Villa,122,2001,,Aktuel værdi
+Vestergade 356690 Gørding,ding,900.000,07-02-2001,Alm. Salg,4.736,8,Villa,190,1912,,Aktuel værdi
+Kløvermarken 376690 Gørding,ding,139.620,03-02-2001,Alm. Salg,771,5,Villa,181,2001,,Aktuel værdi
+Nørregade 756690 Gørding,ding,960.000,16-01-2001,Alm. Salg,6.274,5,Villa,153,1953,,Aktuel værdi
+Lourupvej 126690 Gørding,ding,940.000,17-12-2000,Alm. Salg,4.392,6,Villa,214,1916,,Aktuel værdi
+Møllegade 206690 Gørding,ding,700.000,07-12-2000,Alm. Salg,4.166,6,Villa,168,1885,,Aktuel værdi
+Kløvermarken 406690 Gørding,ding,200.700,22-11-2000,Alm. Salg,1.270,6,Villa,158,2001,,Aktuel værdi
+Dr Jensens Alle 66690 Gørding,ding,775.278,02-11-2000,Alm. Salg,6.514,5,Villa,119,1985,,Aktuel værdi
+Nygade 86690 Gørding,ding,302.500,23-10-2000,Fam. Salg,3.437,3,Villa,88,1960,,Aktuel værdi
+Søndergade 296690 Gørding,ding,404.444,19-10-2000,Alm. Salg,5.777,3,Villa,70,1938,,Aktuel værdi
+Nørregade 496690 Gørding,ding,1.268.575,05-09-2000,Alm. Salg,4.994,11,Villa,254,1932,,Aktuel værdi
+Tværgade 76690 Gørding,ding,720.000,14-07-2000,Alm. Salg,5.070,5,Villa,142,1975,,Aktuel værdi
+Kløvermarken 366690 Gørding,ding,217.800,04-07-2000,Alm. Salg,1.094,6,Villa,199,2001,,Aktuel værdi
+Kirkevej 166690 Gørding,ding,1.425.000,26-06-2000,Alm. Salg,9.253,6,Villa,154,1996,,Aktuel værdi
+Risagerlund 26690 Gørding,ding,888.000,07-06-2000,Alm. Salg,5.584,5,Villa,159,1983,,Aktuel værdi
+Troldhøjvej 16690 Gørding,ding,425.000,11-05-2000,Fam. Salg,2.529,5,Villa,168,2001,,Aktuel værdi
+Hessellundvej 96690 Gørding,ding,1.400.000,10-04-2000,Fam. Salg,8.860,4,Stuehus,158,1900,,
+Hejrskovvej 416690 Gørding,ding,447.550,03-04-2000,Fam. Salg,4.143,4,Villa,108,1907,,Aktuel værdi
+Hallundvej 36690 Gørding,ding,128.000,30-03-2000,Alm. Salg,1.828,3,Villa,70,1877,,Aktuel værdi
+Fyrrevænget 126690 Gørding,ding,766.000,19-03-2000,Alm. Salg,5.892,4,Villa,130,1969,,Aktuel værdi
+Kløvermarken 396690 Gørding,ding,185.250,03-03-2000,Alm. Salg,980,7,Villa,189,2000,,Aktuel værdi
+Sdr Lourupvej 96690 Gørding,ding,840.671,02-03-2000,Alm. Salg,6.091,6,Villa,138,1935,,Aktuel værdi
+Mosevej 66690 Gørding,ding,400.000,28-02-2000,Alm. Salg,4.210,4,Villa,95,1953,,Aktuel værdi
+Nørregade 90B6690 Gørding,ding,725.000,21-01-2000,Alm. Salg,4.588,9,Villa,158,1948,,Aktuel værdi
+Hejrskovvej 456690 Gørding,ding,4.252.769,28-12-1999,Fam. Salg,37.971,5,Stuehus,112,1900,,
+Gyllingsvej 26690 Gørding,ding,605.000,23-12-1999,Alm. Salg,-,8,Villa,228,1916,,Aktuel værdi
+Ålunden 16690 Gørding,ding,1.195.745,16-11-1999,Fam. Salg,6.680,9,Villa,179,1979,,Aktuel værdi
+Østergade 106690 Gørding,ding,689.000,15-11-1999,Alm. Salg,4.306,6,Villa,160,1966,,Aktuel værdi
+Søndergade 35A6690 Gørding,ding,407.000,18-10-1999,Alm. Salg,4.963,3,Villa,82,1965,,Aktuel værdi
+Vestergade 376690 Gørding,ding,785.000,07-10-1999,Alm. Salg,-,3,Stuehus,110,1923,,
+Sdr Lourupvej 396690 Gørding,ding,5.462.000,15-09-1999,Alm. Salg,22.663,7,Stuehus,241,1850,,
+Kløvermarken 286690 Gørding,ding,188.680,07-09-1999,Alm. Salg,952,6,Villa,198,2001,,Aktuel værdi
+Stårupvej 76690 Gørding,ding,4.559.876,02-09-1999,Alm. Salg,20.726,8,Stuehus,220,1932,,
+Kløvermarken 476690 Gørding,ding,199.400,31-08-1999,Alm. Salg,1.294,5,Villa,154,2000,,Aktuel værdi
+Stårupvej 156690 Gørding,ding,2.919.329,18-08-1999,Alm. Salg,14.818,6,Stuehus,197,1960,,
+Sdr Lourupvej 326690 Gørding,ding,870.000,22-07-1999,Alm. Salg,4.943,3,Villa,176,1880,,Aktuel værdi
+Søndergade 346690 Gørding,ding,540.500,15-07-1999,Fam. Salg,-,8,Villa,191,1910,,Aktuel værdi
+Hejrskovvej 476690 Gørding,ding,825.000,13-07-1999,Alm. Salg,8.593,4,Villa,96,1912,,Aktuel værdi
+Ålunden 36690 Gørding,ding,1.093.401,24-06-1999,Alm. Salg,6.320,5,Villa,173,1979,,Aktuel værdi
+Lourupvej 316690 Gørding,ding,1.650.000,18-06-1999,Alm. Salg,7.021,4,Stuehus,235,1930,,
+Østergade 426690 Gørding,ding,650.000,18-06-1999,Alm. Salg,4.513,5,Rækkehus,144,1977,,Aktuel værdi
+Bjerndrupvej 26690 Gørding,ding,1.267.580,14-05-1999,Alm. Salg,7.081,7,Stuehus,179,1964,,
+Pilevænget 46690 Gørding,ding,887.000,10-05-1999,Alm. Salg,5.993,4,Villa,148,1974,,Aktuel værdi
+Søndergade 586690 Gørding,ding,443.000,26-04-1999,Alm. Salg,3.601,4,Villa,123,1954,,Aktuel værdi
+Åbrinken 156690 Gørding,ding,1.113.000,22-04-1999,Alm. Salg,7.370,7,Villa,151,1990,,Aktuel værdi
+Varhovej 86690 Gørding,ding,962.500,22-04-1999,Fam. Salg,5.119,5,Stuehus,188,2000,,
+Kløvermarken 186690 Gørding,ding,160.696,13-04-1999,Alm. Salg,1.017,5,Villa,158,2001,,Aktuel værdi
+Nørregade 216690 Gørding,ding,289.000,07-04-1999,Alm. Salg,1.762,5,Villa,164,1890,,Aktuel værdi
+Østergade 296690 Gørding,ding,271.737,29-03-1999,Andet,2.539,5,Villa,107,1948,,Aktuel værdi
+Jernvedvej 26690 Gørding,ding,225.000,06-02-1999,Alm. Salg,1.520,5,Villa,148,1999,,Aktuel værdi
+Hejrskovvej 246690 Gørding,ding,1.966.955,04-12-1998,Fam. Salg,-,6,Stuehus,203,1898,,
+Søndergade 13A6690 Gørding,ding,545.000,19-11-1998,Alm. Salg,-,3,Villa,88,1980,,Aktuel værdi
+Søndergade 216690 Gørding,ding,520.000,16-11-1998,Alm. Salg,4.859,5,Villa,107,1926,,Aktuel værdi
+Tangevej 26690 Gørding,ding,280.000,30-10-1998,Alm. Salg,2.947,3,Villa,95,1890,,Aktuel værdi
+Skolegade 56690 Gørding,ding,999.277,10-10-1998,Alm. Salg,4.402,9,Villa,227,1962,,Aktuel værdi
+Fonagervej 46690 Gørding,ding,850.000,28-09-1998,Fam. Salg,-,6,Villa,208,1930,,Aktuel værdi
+Fonagervej 36690 Gørding,ding,225.000,27-08-1998,Alm. Salg,1.490,3,Villa,151,2003,,Aktuel værdi
+Sdr Lourupvej 336690 Gørding,ding,428.000,24-08-1998,Alm. Salg,-,5,Villa,170,1964,,Aktuel værdi
+Fyrrevænget 156690 Gørding,ding,944.000,10-07-1998,Alm. Salg,6.378,5,Villa,148,1974,,Aktuel værdi
+Birkevænget 226690 Gørding,ding,455.000,25-05-1998,Alm. Salg,4.333,3,Villa,105,1980,,Aktuel værdi
+Kløvermarken 66690 Gørding,ding,184.500,05-05-1998,Alm. Salg,1.221,6,Villa,151,1998,,Aktuel værdi
+Søndergade 13C6690 Gørding,ding,1.320.000,05-05-1998,Alm. Salg,8.301,4,Villa,159,1998,,Aktuel værdi
+Kløvermarken 86690 Gørding,ding,170.355,14-04-1998,Alm. Salg,1.032,6,Villa,165,1998,,Aktuel værdi
+Hessellundvej 66690 Gørding,ding,548.000,27-03-1998,Alm. Salg,1.971,7,Villa,278,2010,,Aktuel værdi
+Østerhedevej 116690 Gørding,ding,433.845,26-03-1998,Alm. Salg,2.817,5,Stuehus,154,1924,,
+Godthåbsvej 216690 Gørding,ding,550.000,01-03-1998,Andet,3.481,5,Villa,158,1934,,Aktuel værdi
+Nørregade 266690 Gørding,ding,200.000,26-02-1998,Fam. Salg,1.818,2,Villa,110,1942,,Aktuel værdi
+Tangevej 36690 Gørding,ding,1.567.000,23-02-1998,Fam. Salg,9.217,6,Stuehus,170,1949,,
+Jernvedvej 146690 Gørding,ding,1.050.000,23-02-1998,Fam. Salg,6.645,4,Stuehus,158,1996,,
+Åvænget 66690 Gørding,ding,662.000,23-12-1997,Alm. Salg,5.426,5,Villa,122,1974,,Aktuel værdi
+Nørregade 526690 Gørding,ding,179.590,18-12-1997,Fam. Salg,1.197,3,Rækkehus,150,1908,,Aktuel værdi
+Søndergade 276690 Gørding,ding,706.000,25-10-1997,Alm. Salg,-,8,Villa,189,1928,,Aktuel værdi
+Toften 36690 Gørding,ding,525.000,17-10-1997,Alm. Salg,5.147,4,Villa,102,1965,,Aktuel værdi
+Søndermarken 46690 Gørding,ding,885.000,09-10-1997,Alm. Salg,-,8,Villa,162,1973,,Aktuel værdi
+Rebelsigvej 36690 Gørding,ding,1.235.679,07-10-1997,Alm. Salg,6.503,5,Stuehus,190,1862,,
+Tangevej 196690 Gørding,ding,521.357,03-10-1997,Alm. Salg,5.213,3,Villa,100,1934,,Aktuel værdi
+Sejersgården 76690 Gørding,ding,575.000,08-09-1997,Alm. Salg,1.942,10,Villa,296,1910,,Aktuel værdi
+Nørregade 696690 Gørding,ding,283.000,10-06-1997,Alm. Salg,1.768,5,Villa,160,1910,,Aktuel værdi
+Lovrupvej 356690 Gørding,ding,161.226,27-05-1997,Fam. Salg,1.832,3,Villa,88,1917,,Aktuel værdi
+Byvænget 186690 Gørding,ding,595.000,12-05-1997,Alm. Salg,-,5,Rækkehus,113,1977,,Aktuel værdi
+Søndergade 506690 Gørding,ding,480.000,20-03-1997,Alm. Salg,1.523,13,Villa,315,1890,,Aktuel værdi
+Søndergade 186690 Gørding,ding,510.000,25-02-1997,Alm. Salg,3.248,6,Villa,157,1900,,Aktuel værdi
+Troldhøjvej 26690 Gørding,ding,510.000,14-02-1997,Alm. Salg,2.982,6,Villa,171,1888,,Aktuel værdi
+Ilstedvej 76690 Gørding,ding,3.011.000,20-01-1997,Fam. Salg,9.498,8,Stuehus,317,1999,,
+Varhovej 66690 Gørding,ding,740.000,26-11-1996,Alm. Salg,-,7,Stuehus,226,1880,,
+Fællesmarksvej 96690 Gørding,ding,250.000,11-11-1996,Alm. Salg,-,5,Villa,140,1920,,Aktuel værdi
+Østerhedevej 36690 Gørding,ding,540.000,08-11-1996,Alm. Salg,4.218,6,Villa,128,1932,,Aktuel værdi
+Fonagervej 76690 Gørding,ding,500.000,28-10-1996,Alm. Salg,3.164,5,Stuehus,158,1912,,
+Gørdingvej 966690 Gørding,ding,370.143,18-10-1996,Fam. Salg,-,10,Villa,177,1907,,Aktuel værdi
+Nørregade 836690 Gørding,ding,536.050,30-09-1996,Alm. Salg,-,5,Villa,137,1964,,Aktuel værdi
+Tangevej 136690 Gørding,ding,745.000,21-08-1996,Alm. Salg,-,6,Villa,342,1887,,Aktuel værdi
+Hallundvej 16690 Gørding,ding,440.000,03-08-1996,Alm. Salg,3.211,4,Villa,137,1880,,Aktuel værdi
+Kløvermarken 146690 Gørding,ding,212.454,02-08-1996,Alm. Salg,1.303,6,Villa,163,1997,,Aktuel værdi
+Søndergade 206690 Gørding,ding,550.000,15-07-1996,Alm. Salg,5.288,4,Villa,104,1910,,Aktuel værdi
+Stårupvej 36690 Gørding,ding,734.000,15-07-1996,Alm. Salg,-,6,Villa,231,1877,,Aktuel værdi
+Nygade 246690 Gørding,ding,892.000,20-06-1996,Alm. Salg,3.716,7,Villa,240,1968,,Aktuel værdi
+Sdr Lourupvej 186690 Gørding,ding,475.000,18-06-1996,Alm. Salg,3.958,4,Villa,120,1880,,Aktuel værdi
+Vestergade 186690 Gørding,ding,400.000,17-06-1996,Alm. Salg,2.380,6,Villa,168,1936,,Aktuel værdi
+Vejrupvej 66690 Gørding,ding,375.000,09-05-1996,Alm. Salg,-,4,Villa,149,1953,,Aktuel værdi
+Søndermarken 266690 Gørding,ding,675.000,07-05-1996,Alm. Salg,4.821,4,Villa,140,1974,,Aktuel værdi
+Nygade 136690 Gørding,ding,535.000,22-04-1996,Fam. Salg,-,12,Engroshandel,82,1930,,Aktuel værdi
+Østergårdsvej 166690 Gørding,ding,473.000,22-04-1996,Alm. Salg,4.504,3,Villa,105,1966,,Aktuel værdi
+Lourupvej 16690 Gørding,ding,1.350.000,20-03-1996,Fam. Salg,5.421,8,Stuehus,249,2002,,
+Vestergade 46690 Gørding,ding,339.000,15-03-1996,Alm. Salg,2.627,6,Villa,129,1912,,Aktuel værdi
+Dr Jensens Alle 56690 Gørding,ding,305.000,11-03-1996,Fam. Salg,3.961,3,Villa,77,1944,,Aktuel værdi
+Åbrinken 186690 Gørding,ding,795.000,28-02-1996,Alm. Salg,-,6,Villa,182,1980,,Aktuel værdi
+Fællesmarksvej 186690 Gørding,ding,505.000,15-01-1996,Alm. Salg,-,11,Villa,298,1875,,Aktuel værdi
+Jernvedvej 66690 Gørding,ding,250.000,27-12-1995,Fam. Salg,1.724,6,Villa,145,1938,,Aktuel værdi
+Nørregade 226690 Gørding,ding,303.329,20-12-1995,Andet,2.888,4,Rækkehus,105,1890,,Aktuel værdi
+Fyrrevænget 26690 Gørding,ding,646.000,12-12-1995,Alm. Salg,4.969,3,Villa,130,1970,,Aktuel værdi
+Østergade 186690 Gørding,ding,287.656,05-12-1995,Alm. Salg,-,8,Villa,158,1958,,Aktuel værdi
+Nygade 366690 Gørding,ding,242.733,30-10-1995,Fam. Salg,2.022,6,Stuehus,120,1876,,
+Allegade 36690 Gørding,ding,395.000,03-10-1995,Alm. Salg,2.194,4,Villa,180,1939,,Aktuel værdi
+Lourupvej 146690 Gørding,ding,470.000,21-09-1995,Alm. Salg,4.607,4,Villa,102,1927,,Aktuel værdi
+Engvej 66690 Gørding,ding,1.802.500,21-09-1995,Fam. Salg,8.383,7,Stuehus,215,1976,,
+Sdr Lourupvej 25B6690 Gørding,ding,825.000,15-09-1995,Alm. Salg,-,6,Stuehus,170,1850,,
+Bjerndrupvej 56690 Gørding,ding,510.000,17-08-1995,Alm. Salg,2.833,7,Villa,180,1850,,Aktuel værdi
+Søndergade 156690 Gørding,ding,525.000,25-07-1995,Alm. Salg,-,6,Villa,156,1915,,Aktuel værdi
+Grønnegade 56690 Gørding,ding,246.000,09-07-1995,Alm. Salg,2.764,3,Villa,89,1936,,Aktuel værdi
+Varhovej 16690 Gørding,ding,2.734.500,03-07-1995,Alm. Salg,9.145,10,Stuehus,299,1936,,
+Fællesmarksvej 146690 Gørding,ding,282.000,29-05-1995,Alm. Salg,-,4,Villa,140,1900,,Aktuel værdi
+Stårupvej 176690 Gørding,ding,622.500,26-05-1995,Alm. Salg,-,5,Villa,175,1935,,Aktuel værdi
+Søndermarken 186690 Gørding,ding,620.000,19-05-1995,Alm. Salg,5.535,4,Villa,112,1974,,Aktuel værdi
+Tværgade 46690 Gørding,ding,450.000,29-04-1995,Alm. Salg,4.090,4,Villa,110,1961,,Aktuel værdi
+Østergårdsvej 126690 Gørding,ding,720.366,06-04-1995,Alm. Salg,4.047,5,Villa,178,1969,,Aktuel værdi
+Stårupvej 196690 Gørding,ding,853.000,28-03-1995,Alm. Salg,11.223,3,Stuehus,76,1926,,
+Østergade 256690 Gørding,ding,360.000,30-01-1995,Alm. Salg,2.950,4,Villa,122,1950,,Aktuel værdi
+Annesmindevej 56690 Gørding,ding,588.000,08-11-1994,Alm. Salg,2.672,5,Villa,220,1900,,Aktuel værdi
+Vestergade 216690 Gørding,ding,150.000,27-10-1994,Alm. Salg,1.013,5,Villa,148,1915,,Aktuel værdi
+Åbrinken 246690 Gørding,ding,740.000,11-10-1994,Alm. Salg,-,7,Villa,209,1978,,Aktuel værdi
+Søndergade 566690 Gørding,ding,317.000,21-09-1994,Alm. Salg,-,3,Villa,101,1977,,Aktuel værdi
+Bøelvej 176690 Gørding,ding,727.856,15-09-1994,Alm. Salg,3.110,7,Villa,234,1986,,Aktuel værdi
+Søndermarken 36690 Gørding,ding,327.000,08-08-1994,Alm. Salg,3.406,3,Villa,96,1960,,Aktuel værdi
+Nørregade 1086690 Gørding,ding,70.000,02-08-1994,Alm. Salg,432,4,Villa,162,1995,,Aktuel værdi
+Bøelvej 196690 Gørding,ding,529.000,22-07-1994,Alm. Salg,-,4,Villa,168,1922,,Aktuel værdi
+Tangevej 16690 Gørding,ding,2.200.000,18-07-1994,Fam. Salg,-,11,Stuehus,205,1967,,
+Østergade 406690 Gørding,ding,465.000,06-07-1994,Alm. Salg,3.229,3,Rækkehus,144,1977,,Aktuel værdi
+Aikevej 96690 Gørding,ding,775.000,01-07-1994,Alm. Salg,4.454,5,Villa,174,1900,,Aktuel værdi
+Hessellundvej 76690 Gørding,ding,200.000,04-05-1994,Alm. Salg,-,5,Villa,193,1919,,Aktuel værdi
+Stårupvej 56690 Gørding,ding,1.200.000,14-03-1994,Fam. Salg,5.714,6,Stuehus,210,1951,,
+Sdr Lourupvej 266690 Gørding,ding,254.464,15-02-1994,Alm. Salg,3.635,3,Villa,70,1890,,Aktuel værdi
+Puggårdsvej 436690 Gørding,ding,2.941.000,07-02-1994,Alm. Salg,19.606,7,Stuehus,150,1908,,
+Kløvermarken 296690 Gørding,ding,93.225,02-12-1993,Alm. Salg,-,7,Villa,178,1994,,Aktuel værdi
+Nørregade 246690 Gørding,ding,116.500,26-10-1993,Fam. Salg,640,5,Rækkehus,182,1895,,Aktuel værdi
+Pilevænget 86690 Gørding,ding,107.772,14-10-1993,Alm. Salg,615,6,Villa,175,1994,,Aktuel værdi
+Godthåbsvej 196690 Gørding,ding,468.000,10-10-1993,Alm. Salg,3.836,4,Villa,122,1943,,Aktuel værdi
+Nørregade 716690 Gørding,ding,424.000,02-10-1993,Alm. Salg,4.038,4,Villa,105,1951,,Aktuel værdi
+Hallundvej 86690 Gørding,ding,140.000,02-09-1993,Fam. Salg,1.037,4,Villa,135,1988,,Aktuel værdi
+Terpvej 236690 Gørding,ding,570.000,01-09-1993,Alm. Salg,-,7,Villa,165,1895,,Aktuel værdi
+Ilstedvej 96690 Gørding,ding,380.000,30-08-1993,Alm. Salg,3.089,4,Villa,123,1893,,Aktuel værdi
+Lovrupvej 396690 Gørding,ding,187.185,29-07-1993,Fam. Salg,-,3,Stuehus,126,1926,,
+Bøelvej 16690 Gørding,ding,2.100.000,16-06-1993,Fam. Salg,11.666,5,Stuehus,180,1918,,
+Jernvedvej 56690 Gørding,ding,175.000,20-04-1993,Alm. Salg,1.411,4,Villa,124,1890,,Aktuel værdi
+Risagervej 76690 Gørding,ding,338.006,25-02-1993,Fam. Salg,2.449,4,Villa,138,1875,,Aktuel værdi
+Nørregade 176690 Gørding,ding,170.000,19-02-1993,Fam. Salg,1.259,4,Villa,135,1906,,Aktuel værdi
+Åvænget 206690 Gørding,ding,243.000,18-02-1993,Alm. Salg,3.626,3,Rækkehus,67,1977,,Aktuel værdi
+Østparken 196690 Gørding,ding,610.000,24-01-1993,Alm. Salg,4.388,5,Villa,139,1989,,Aktuel værdi
+Bøelvej 136690 Gørding,ding,600.000,23-01-1993,Alm. Salg,-,9,Villa,242,1946,,Aktuel værdi
+Sdr Lourupvej 116690 Gørding,ding,267.000,22-10-1992,Alm. Salg,1.561,7,Villa,171,1949,,Aktuel værdi
+Gørdingvej 776690 Gørding,ding,102.500,06-10-1992,Alm. Salg,602,9,Stuehus,170,1965,,
+Skolegade 126690 Gørding,ding,260.000,07-09-1992,Alm. Salg,-,5,Villa,161,1963,,Aktuel værdi
+Nørregade 1026690 Gørding,ding,150.000,25-08-1992,Fam. Salg,-,4,Villa,127,1960,,Aktuel værdi
+Fællesmarksvej 11A6690 Gørding,ding,120.000,31-07-1992,Auktion,1.538,4,Villa,78,1825,,Aktuel værdi
+Jernvedvej 126690 Gørding,ding,710.000,22-06-1992,Alm. Salg,3.271,7,Villa,217,1909,,Aktuel værdi
+Birkevænget 166690 Gørding,ding,405.000,10-06-1992,Alm. Salg,-,6,Villa,154,1980,,Aktuel værdi
+Industrivej 56690 Gørding,ding,560.000,24-03-1992,Alm. Salg,3.500,6,Villa,160,1976,,Aktuel værdi
+Østergårdsvej 116690 Gørding,ding,615.000,12-03-1992,Alm. Salg,3.342,5,Villa,184,1969,,Aktuel værdi
+Kirkevej 126690 Gørding,ding,550.000,09-03-1992,Alm. Salg,2.879,7,Villa,191,1898,,Aktuel værdi
+Åbrinken 176690 Gørding,ding,650.000,24-02-1992,Alm. Salg,3.915,5,Villa,166,1984,,Aktuel værdi
+Varhovej 176690 Gørding,ding,740.000,11-02-1992,Alm. Salg,-,9,Stuehus,256,1875,,

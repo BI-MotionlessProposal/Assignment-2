@@ -1,0 +1,771 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Viboltvej 104913 Horslunde,unde,30.000,23-05-2017,Alm. Salg,294,5,Villa,102,1950,,Aktuel værdi
+Nylandsvej 294913 Horslunde,unde,540.000,13-04-2017,Alm. Salg,1.956,8,Villa,276,1973,-22 %,Aktuel værdi
+Bryggerivej 844913 Horslunde,unde,285.000,06-04-2017,Alm. Salg,3.202,4,Villa,89,1945,-17 %,Aktuel værdi
+Basevej 394913 Horslunde,unde,550.000,05-04-2017,Fam. Salg,1.957,8,Villa,281,1900,,Aktuel værdi
+Højevej 74913 Horslunde,unde,175.000,24-02-2017,Alm. Salg,1.277,3,Villa,137,1918,-22 %,Aktuel værdi
+Rødkildevej 74913 Horslunde,unde,995.000,24-02-2017,Alm. Salg,4.783,7,Villa,208,1978,-7 %,Aktuel værdi
+Jernbanevej 144913 Horslunde,unde,650.000,08-02-2017,Alm. Salg,3.757,8,Villa,173,1902,-18 %,Aktuel værdi
+Kragenakkevej 314913 Horslunde,unde,5.001,08-02-2017,Alm. Salg,40,5,Villa,123,1890,,Aktuel værdi
+Bjælkehovedvej 554913 Horslunde,unde,4.735.000,25-01-2017,Alm. Salg,24.158,5,Stuehus,196,1890,,
+Bøgetvej 294913 Horslunde,unde,360.000,20-12-2016,Alm. Salg,4.500,4,Villa,80,1880,-9 %,Aktuel værdi
+Egholmvej 324913 Horslunde,unde,725.000,19-12-2016,Alm. Salg,4.833,4,Villa,150,1890,-3 %,Aktuel værdi
+Byskovvej 484913 Horslunde,unde,670.000,19-12-2016,Alm. Salg,5.193,6,Villa,129,2003,-4 %,Aktuel værdi
+Gallevej 214913 Horslunde,unde,50.000,13-12-2016,Alm. Salg,806,3,Villa,62,1909,,Aktuel værdi
+Bøgetvej 314913 Horslunde,unde,195.000,12-12-2016,Alm. Salg,2.785,3,Villa,70,1777,0 %,Aktuel værdi
+Madevejen 294913 Horslunde,unde,484.500,01-12-2016,Alm. Salg,4.486,3,Villa,108,1937,,Aktuel værdi
+Gallevej 724913 Horslunde,unde,78.000,25-11-2016,Alm. Salg,735,4,Villa,106,1928,-21 %,Aktuel værdi
+Fynbovej 144913 Horslunde,unde,110.000,23-11-2016,Auktion,1.057,2,Villa,104,1911,,Aktuel værdi
+Pederstrupvej 874913 Horslunde,unde,25.000,14-11-2016,Alm. Salg,235,5,Villa,106,1900,,Aktuel værdi
+Marrebæksvej 254913 Horslunde,unde,1.875.000,25-10-2016,Fam. Salg,24.038,4,Stuehus,78,1900,,
+Bryggerivej 274913 Horslunde,unde,600.000,24-10-2016,Alm. Salg,2.181,5,Villa,275,1980,,Aktuel værdi
+Kasbækvej 784913 Horslunde,unde,250.000,20-10-2016,Alm. Salg,2.427,4,Villa,103,1949,0 %,Aktuel værdi
+Nakskovvej 844913 Horslunde,unde,50.000,02-10-2016,Alm. Salg,357,4,Villa,140,1912,,Aktuel værdi
+Bøgetvej 904913 Horslunde,unde,85.000,29-09-2016,Alm. Salg,1.062,3,Villa,80,1850,-43 %,Aktuel værdi
+Reventlowvej 164913 Horslunde,unde,7.285.000,27-09-2016,Alm. Salg,68.726,3,Stuehus,106,1940,,
+Egholmvej 684913 Horslunde,unde,150.000,27-09-2016,Alm. Salg,1.704,4,Villa,88,1902,,Aktuel værdi
+Nørrevænget 24913 Horslunde,unde,450.000,26-09-2016,Alm. Salg,3.214,4,Villa,140,1968,,Aktuel værdi
+Bøgetvej 214913 Horslunde,unde,1.095.000,13-09-2016,Alm. Salg,7.300,5,Villa,150,1970,,Aktuel værdi
+Bøgetvej 394913 Horslunde,unde,1.095.000,07-09-2016,Alm. Salg,6.717,6,Stuehus,163,1857,,
+Egholm Strandvej 134913 Horslunde,unde,115.000,27-08-2016,Alm. Salg,1.250,5,Villa,92,1972,-41 %,Aktuel værdi
+Bryggerivej 824913 Horslunde,unde,260.000,15-08-2016,Alm. Salg,1.897,4,Villa,137,1971,-26 %,Aktuel værdi
+Bøgetvej 1004913 Horslunde,unde,100.000,29-07-2016,Alm. Salg,1.041,4,Villa,96,1914,-20 %,Aktuel værdi
+Egholm Strandvej 304913 Horslunde,unde,1.945.000,27-07-2016,Alm. Salg,18.701,5,Sommerhus,104,1827,-3 %,Aktuel værdi
+Hovedgaden 594913 Horslunde,unde,525.926,30-06-2016,Fam. Salg,2.164,8,Villa,243,1900,,Aktuel værdi
+Langesøvej 324913 Horslunde,unde,60.000,21-06-2016,Alm. Salg,750,4,Villa,80,1917,,Aktuel værdi
+Bøgetvej 1064913 Horslunde,unde,90.000,19-06-2016,Alm. Salg,957,4,Villa,94,1827,,Aktuel værdi
+Østerskoven 154913 Horslunde,unde,700.000,14-06-2016,Fam. Salg,7.142,3,Sommerhus,98,1827,,Aktuel værdi
+Fynbovej 314913 Horslunde,unde,195.000,10-06-2016,Alm. Salg,1.560,3,Villa,125,1850,0 %,Aktuel værdi
+Nakskovvej 1404913 Horslunde,unde,775.000,30-05-2016,Alm. Salg,6.739,3,Villa,115,1956,0 %,Aktuel værdi
+Højagervej 284913 Horslunde,unde,8.000,27-05-2016,Alm. Salg,115,3,Villa,69,1905,,Aktuel værdi
+Højagervej 374913 Horslunde,unde,825.000,18-05-2016,Fam. Salg,7.300,5,Stuehus,113,1923,,
+Vadbrovej 214913 Horslunde,unde,239.539,10-05-2016,Alm. Salg,1.434,7,Villa,167,1917,,Aktuel værdi
+Bjælkehovedvej 24913 Horslunde,unde,395.000,14-04-2016,Alm. Salg,4.817,2,Villa,82,1775,0 %,Aktuel værdi
+Langesøvej 304913 Horslunde,unde,100.000,21-03-2016,Alm. Salg,1.000,3,Villa,100,1880,-33 %,Aktuel værdi
+Egholmvej 284913 Horslunde,unde,250.000,25-02-2016,Alm. Salg,919,10,Villa,272,1847,,Aktuel værdi
+Bryggerivej 764913 Horslunde,unde,150.000,22-02-2016,Alm. Salg,1.111,4,Villa,135,1948,-49 %,Aktuel værdi
+Sundvej 54913 Horslunde,unde,250.000,19-01-2016,Fam. Salg,2.403,5,Villa,104,1914,,Aktuel værdi
+Toftevej 1024913 Horslunde,unde,23.828.500,04-01-2016,Alm. Salg,171.428,4,Villa,139,1939,,Aktuel værdi
+Byskovvej 854913 Horslunde,unde,650.000,17-12-2015,Alm. Salg,5.652,5,Stuehus,115,1890,,
+Nordlundevej 124913 Horslunde,unde,214.000,02-12-2015,Alm. Salg,1.371,4,Villa,156,1905,,Aktuel værdi
+Toftevej 1224913 Horslunde,unde,360.000,01-12-2015,Alm. Salg,1.621,7,Villa,222,1914,-9 %,Aktuel værdi
+Bøgetvej 62A4913 Horslunde,unde,165.000,25-11-2015,Auktion,1.279,4,Villa,129,1982,-53 %,Aktuel værdi
+Marrebæksvej 14913 Horslunde,unde,350.000,11-11-2015,Alm. Salg,2.095,8,Villa,167,1942,-11 %,Aktuel værdi
+Bøgetvej 884913 Horslunde,unde,200.000,05-11-2015,Alm. Salg,1.666,5,Villa,120,1877,-11 %,Aktuel værdi
+Toftevej 1304913 Horslunde,unde,650.000,10-10-2015,Alm. Salg,5.462,4,Villa,119,1910,,Aktuel værdi
+Toftevej 1624913 Horslunde,unde,60.000,01-10-2015,Alm. Salg,821,3,Villa,73,1860,,Aktuel værdi
+Nordre Strandvej 44913 Horslunde,unde,1.795.000,28-09-2015,Alm. Salg,8.159,5,Villa,220,1908,0 %,Aktuel værdi
+Egholmvej 634913 Horslunde,unde,105.000,25-09-2015,Alm. Salg,1.250,4,Villa,84,1952,-16 %,Aktuel værdi
+Tvedevej 34913 Horslunde,unde,300.000,25-09-2015,Alm. Salg,3.125,2,Sommerhus,96,1926,-14 %,Aktuel værdi
+Kasbækvej 764913 Horslunde,unde,105.200,23-09-2015,Auktion,1.315,4,Villa,80,1870,-40 %,Aktuel værdi
+Tvedevej 104913 Horslunde,unde,500.000,22-09-2015,Alm. Salg,1.831,5,Villa,273,1922,-28 %,Aktuel værdi
+Gallevej 824913 Horslunde,unde,56.400,02-09-2015,Auktion,522,3,Villa,108,1880,-71 %,Aktuel værdi
+Kasbækvej 164913 Horslunde,unde,700.000,24-08-2015,Alm. Salg,3.398,7,Villa,206,1827,-22 %,Aktuel værdi
+Gl. Kastagervej 494913 Horslunde,unde,250.000,20-08-2015,Alm. Salg,1.736,7,Stuehus,144,1860,,
+Hovedgaden 444913 Horslunde,unde,390.000,21-07-2015,Alm. Salg,3.250,4,Villa,120,1900,-7 %,Aktuel værdi
+Vadbrovej 354913 Horslunde,unde,340.000,27-05-2015,Fam. Salg,3.736,4,Villa,91,1900,,Aktuel værdi
+Kasbækvej 414913 Horslunde,unde,195.000,19-05-2015,Alm. Salg,1.500,4,Villa,130,1924,0 %,Aktuel værdi
+Pederstrupvej 1004913 Horslunde,unde,65.001,13-05-2015,Auktion,580,3,Villa,112,1893,,Aktuel værdi
+Bøgetvej 984913 Horslunde,unde,30.000,16-04-2015,Alm. Salg,348,4,Villa,86,1928,,Aktuel værdi
+Nylandsvej 234913 Horslunde,unde,400.000,04-03-2015,Fam. Salg,2.898,4,Villa,138,1975,,Aktuel værdi
+Toftevej 1414913 Horslunde,unde,200.000,28-02-2015,Fam. Salg,2.105,4,Villa,95,1870,,Aktuel værdi
+Bøgetvej 964913 Horslunde,unde,595.000,24-02-2015,Alm. Salg,2.564,6,Villa,232,1780,0 %,Aktuel værdi
+H. C. Skottesvej 64913 Horslunde,unde,200.000,09-02-2015,Alm. Salg,1.851,4,Villa,108,1934,,Aktuel værdi
+Ørsløkkevej 264913 Horslunde,unde,250.000,04-02-2015,Auktion,1.315,5,Villa,190,1927,,Aktuel værdi
+Bjælkehovedvej 394913 Horslunde,unde,12.500.000,14-01-2015,Alm. Salg,39.432,8,Stuehus,317,1989,,
+Nordlundevej 164913 Horslunde,unde,393.472,09-12-2014,Alm. Salg,3.451,4,Villa,114,1910,,Aktuel værdi
+Bøgetvej 914913 Horslunde,unde,73.255.000,05-12-2014,Alm. Salg,293.020,8,Stuehus,250,1823,,
+Husmandsvejen 544913 Horslunde,unde,1.375.000,30-11-2014,Alm. Salg,5.392,10,Villa,255,1872,-8 %,Aktuel værdi
+Højevej 14913 Horslunde,unde,750.000,24-11-2014,Alm. Salg,4.166,6,Villa,180,1929,-6 %,Aktuel værdi
+Lillevej 144913 Horslunde,unde,200.000,21-11-2014,Andet,584,6,Villa,342,1858,,Aktuel værdi
+Bøgetvej 644913 Horslunde,unde,470.000,21-11-2014,Alm. Salg,5.108,3,Villa,92,1940,-5 %,Aktuel værdi
+Gallevej 594913 Horslunde,unde,310.000,19-11-2014,Alm. Salg,2.026,6,Villa,153,1900,0 %,Aktuel værdi
+Bøgetvej 1384913 Horslunde,unde,182.700,30-10-2014,Andet,1.450,4,Villa,126,1840,,Aktuel værdi
+Viemosevej 834913 Horslunde,unde,175.000,29-10-2014,Alm. Salg,1.114,5,Villa,157,1907,-10 %,Aktuel værdi
+Bryggerivej 24913 Horslunde,unde,150.000,08-10-2014,Alm. Salg,1.428,5,Villa,105,1840,0 %,Aktuel værdi
+Byskovvej 76A4913 Horslunde,unde,395.000,07-10-2014,Alm. Salg,3.085,4,Villa,128,1977,0 %,Aktuel værdi
+Gl. Kastagervej 534913 Horslunde,unde,550.000,04-09-2014,Alm. Salg,2.989,7,Villa,184,1800,,Aktuel værdi
+Gallevej 474913 Horslunde,unde,363.537,22-08-2014,Alm. Salg,2.596,5,Villa,140,1952,,Aktuel værdi
+Viemosevej 324913 Horslunde,unde,195.000,28-07-2014,Alm. Salg,1.560,5,Villa,125,1947,0 %,Aktuel værdi
+Bryggerivej 1134913 Horslunde,unde,180.000,24-07-2014,Alm. Salg,1.267,5,Villa,142,1852,-27 %,Aktuel værdi
+Bøgetvej 84913 Horslunde,unde,250.000,16-07-2014,Alm. Salg,1.497,4,Villa,167,1915,-15 %,Aktuel værdi
+Toftevej 1614913 Horslunde,unde,46.000,09-07-2014,Auktion,287,4,Villa,160,1928,,Aktuel værdi
+Gallevej 944913 Horslunde,unde,400.000,09-07-2014,Alm. Salg,2.500,5,Villa,160,1938,,Aktuel værdi
+Gallevej 44913 Horslunde,unde,950.000,03-07-2014,Alm. Salg,3.800,8,Villa,250,1915,-13 %,Aktuel værdi
+Hydestræde 144913 Horslunde,unde,250.000,01-07-2014,Alm. Salg,4.385,3,Villa,57,1800,-16 %,Aktuel værdi
+Gl. Kastagervej 474913 Horslunde,unde,244.710,09-04-2014,Alm. Salg,1.359,4,Villa,180,1827,,Aktuel værdi
+Hovedgaden 114913 Horslunde,unde,330.710,07-04-2014,Fam. Salg,2.133,5,Villa,155,1925,,Aktuel værdi
+Bøgetvej 764913 Horslunde,unde,125.000,03-03-2014,Alm. Salg,1.562,3,Villa,80,1820,-17 %,Aktuel værdi
+Egholm Strandvej 204913 Horslunde,unde,117.000,17-02-2014,Alm. Salg,-,3,Villa,108,1877,-40 %,Aktuel værdi
+Gl. Kastagervej 634913 Horslunde,unde,36.000,22-01-2014,Auktion,142,8,Villa,252,1958,,Aktuel værdi
+Pederstrupvej 374913 Horslunde,unde,180.000,20-01-2014,Fam. Salg,1.294,5,Villa,139,1930,,Aktuel værdi
+Toftevej 804913 Horslunde,unde,240.000,02-01-2014,Alm. Salg,1.548,6,Villa,155,1957,-19 %,Aktuel værdi
+Pederstrupvej 54913 Horslunde,unde,200.000,16-12-2013,Alm. Salg,536,13,Villa,373,1870,,Aktuel værdi
+H. C. Skottesvej 84913 Horslunde,unde,150.000,28-11-2013,Alm. Salg,898,6,Villa,167,1937,-14 %,Aktuel værdi
+Højevej 104913 Horslunde,unde,250.000,27-11-2013,Fam. Salg,1.760,5,Villa,142,1936,,Aktuel værdi
+Langesøvej 204913 Horslunde,unde,175.000,12-11-2013,Alm. Salg,1.093,4,Villa,160,1777,-41 %,Aktuel værdi
+Borresvej 124913 Horslunde,unde,10.000,08-11-2013,Alm. Salg,90,4,Villa,110,1777,,Aktuel værdi
+Bryggerivej 704913 Horslunde,unde,100.000,21-10-2013,Alm. Salg,1.176,3,Villa,85,1949,,Aktuel værdi
+Bryggerivej 234913 Horslunde,unde,226.956,02-10-2013,Auktion,856,9,Villa,265,1910,-43 %,Aktuel værdi
+Toftevej 1364913 Horslunde,unde,1.170.000,01-10-2013,Alm. Salg,6.157,5,Villa,190,1931,,Aktuel værdi
+Byskovvej 344913 Horslunde,unde,1.150.000,28-09-2013,Alm. Salg,10.747,3,Stuehus,107,1910,,
+Gallevej 794913 Horslunde,unde,680.000,19-09-2013,Alm. Salg,2.741,7,Villa,248,1900,-2 %,Aktuel værdi
+H. C. Skottesvej 224913 Horslunde,unde,495.000,18-09-2013,Alm. Salg,3.018,6,Villa,164,1934,0 %,Aktuel værdi
+Hovedgaden 174913 Horslunde,unde,200.000,10-09-2013,Alm. Salg,2.173,3,Villa,92,1900,,Aktuel værdi
+Hedemøllevej 44913 Horslunde,unde,220.000,04-09-2013,Auktion,1.774,4,Villa,124,1954,,Aktuel værdi
+Møllevænget 54913 Horslunde,unde,1.075.000,02-09-2013,Alm. Salg,5.243,6,Villa,205,1970,-10 %,Aktuel værdi
+Hydestræde 34913 Horslunde,unde,408.000,23-08-2013,Alm. Salg,5.589,3,Villa,73,1880,,Aktuel værdi
+Maglehøjvej 254913 Horslunde,unde,4.590.000,22-08-2013,Fam. Salg,11.709,9,Stuehus,392,1895,,
+Kasbækvej 864913 Horslunde,unde,45.000,21-08-2013,Andet,468,4,Sommerhus,96,1904,,Aktuel værdi
+Bjælkehovedvej 514913 Horslunde,unde,685.000,05-08-2013,Alm. Salg,2.952,8,Villa,232,1847,-6 %,Aktuel værdi
+Viemosevej 774913 Horslunde,unde,395.000,02-08-2013,Fam. Salg,2.323,4,Villa,170,1985,,Aktuel værdi
+Kasbækvej 94913 Horslunde,unde,665.000,26-07-2013,Alm. Salg,5.115,6,Stuehus,130,1935,-4 %,
+Fynbovej 134913 Horslunde,unde,250.000,16-07-2013,Alm. Salg,2.688,5,Villa,93,1942,-15 %,Aktuel værdi
+Strandpromenaden 174913 Horslunde,unde,935.000,08-07-2013,Alm. Salg,11.000,3,Villa,85,1827,-6 %,Aktuel værdi
+Marrebæksvej 44913 Horslunde,unde,200.000,04-07-2013,Alm. Salg,1.612,5,Villa,124,1924,-28 %,Aktuel værdi
+Byskovvej 154913 Horslunde,unde,180.000,25-06-2013,Alm. Salg,2.857,2,Sommerhus,63,1800,,Aktuel værdi
+Pederstrupvej 1174913 Horslunde,unde,635.000,20-06-2013,Alm. Salg,3.256,6,Villa,195,1900,-9 %,Aktuel værdi
+Bryggerivej 874913 Horslunde,unde,100.000,17-06-2013,Alm. Salg,990,4,Villa,101,1877,-50 %,Aktuel værdi
+Bøgetvej 1284913 Horslunde,unde,545.000,24-05-2013,Alm. Salg,3.061,7,Villa,178,1897,0 %,Aktuel værdi
+Bøgetvej 1404913 Horslunde,unde,195.000,22-05-2013,Alm. Salg,2.010,3,Villa,97,1939,0 %,Aktuel værdi
+Viemosevej 274913 Horslunde,unde,199.000,17-05-2013,Alm. Salg,1.047,7,Villa,190,1910,0 %,Aktuel værdi
+Bøgetvej 1954913 Horslunde,unde,535.000,15-05-2013,Alm. Salg,3.566,5,Villa,150,1904,-7 %,Aktuel værdi
+Pederstrupvej 684913 Horslunde,unde,185.000,08-05-2013,Alm. Salg,1.567,5,Villa,118,1910,-37 %,Aktuel værdi
+Lille-Tværvej 14913 Horslunde,unde,125.000,02-05-2013,Alm. Salg,1.262,5,Villa,99,1942,,Aktuel værdi
+Toftevej 1284913 Horslunde,unde,290.000,26-04-2013,Alm. Salg,1.203,4,Villa,241,1907,-27 %,Aktuel værdi
+Byskovvej 784913 Horslunde,unde,1.325.000,06-04-2013,Alm. Salg,7.162,6,Villa,185,1872,-10 %,Aktuel værdi
+Bryggerivej 444913 Horslunde,unde,20.000,20-03-2013,Auktion,250,4,Villa,80,1938,,Aktuel værdi
+Bulbrovej 434913 Horslunde,unde,700.000,20-03-2013,Alm. Salg,3.684,4,Villa,190,1880,,Aktuel værdi
+Orehavevej 174913 Horslunde,unde,19.869.000,19-03-2013,Alm. Salg,161.536,5,Stuehus,123,1880,,
+Viemosevej 204913 Horslunde,unde,100.000,04-03-2013,Alm. Salg,699,7,Villa,143,1900,,Aktuel værdi
+Toftevej 1444913 Horslunde,unde,608.000,01-03-2013,Alm. Salg,4.606,6,Villa,132,1996,,Aktuel værdi
+Husmandsvejen 414913 Horslunde,unde,12.657.800,22-02-2013,Alm. Salg,51.664,7,Stuehus,245,1917,,
+Højagervej 64913 Horslunde,unde,100.000,23-01-2013,Auktion,952,4,Villa,105,1950,,Aktuel værdi
+Pederstrupvej 74913 Horslunde,unde,5.000.000,21-01-2013,Alm. Salg,35.714,5,Stuehus,140,1877,,
+Hovedgaden 344913 Horslunde,unde,750.000,04-01-2013,Fam. Salg,5.067,4,Villa,148,1931,,Aktuel værdi
+Vadbrovej 534913 Horslunde,unde,30.000,28-11-2012,Auktion,337,5,Villa,89,1933,,Aktuel værdi
+Hovedgaden 94913 Horslunde,unde,250.000,10-11-2012,Alm. Salg,2.136,5,Villa,117,1953,-47 %,Aktuel værdi
+Bøgetvej 704913 Horslunde,unde,299.100,29-10-2012,Fam. Salg,1.994,5,Villa,150,1887,,Aktuel værdi
+Viemosevej 184913 Horslunde,unde,315.000,25-10-2012,Alm. Salg,2.368,4,Villa,133,1900,-6 %,Aktuel værdi
+Dyssevej 144913 Horslunde,unde,945.000,08-10-2012,Alm. Salg,3.720,9,Sommerhus,254,1777,-5 %,Aktuel værdi
+Rødkildevej 94913 Horslunde,unde,300.000,14-09-2012,Fam. Salg,2.400,5,Villa,125,1977,,Aktuel værdi
+Langesø Tværvej 24913 Horslunde,unde,950.000,06-09-2012,Alm. Salg,4.656,4,Villa,204,1943,-5 %,Aktuel værdi
+Bryggerivej 144913 Horslunde,unde,13.800.000,04-09-2012,Fam. Salg,88.461,5,Stuehus,156,1938,,
+Nordlundevej 304913 Horslunde,unde,6.454.000,24-08-2012,Alm. Salg,28.431,6,Stuehus,227,1890,,
+H. C. Skottesvej 104913 Horslunde,unde,175.000,20-08-2012,Alm. Salg,1.590,4,Villa,110,1937,-22 %,Aktuel værdi
+Gallevej 604913 Horslunde,unde,115.000,15-08-2012,Auktion,756,4,Villa,152,1911,,Aktuel værdi
+Vejlevejen 314913 Horslunde,unde,802.000,13-08-2012,Andet,4.335,7,Villa,185,1890,,Aktuel værdi
+Bryggerivej 854913 Horslunde,unde,100.000,25-07-2012,Auktion,1.010,3,Villa,99,1935,,Aktuel værdi
+Marrebæksvej 34913 Horslunde,unde,225.000,24-07-2012,Alm. Salg,1.113,5,Villa,202,1884,-62 %,Aktuel værdi
+Hovedgaden 354913 Horslunde,unde,160.000,11-07-2012,Fam. Salg,1.818,6,Villa,88,1913,,Aktuel værdi
+Reventlowvej 204913 Horslunde,unde,160.000,04-07-2012,Auktion,1.344,2,Villa,119,1902,-59 %,Aktuel værdi
+Pile Allé 44913 Horslunde,unde,195.000,09-06-2012,Auktion,1.857,3,Villa,105,1850,0 %,Aktuel værdi
+Toftevej 1244913 Horslunde,unde,185.000,07-06-2012,Alm. Salg,1.850,6,Villa,100,1946,-5 %,Aktuel værdi
+Hovedgaden 294913 Horslunde,unde,300.000,01-06-2012,Alm. Salg,4.615,7,Engroshandel,65,1920,,Aktuel værdi
+Sundvej 104913 Horslunde,unde,700.000,01-06-2012,Alm. Salg,7.777,3,Sommerhus,90,1827,-12 %,Aktuel værdi
+Nakskovvej 1074913 Horslunde,unde,275.000,31-05-2012,Alm. Salg,2.925,4,Villa,94,1910,-8 %,Aktuel værdi
+Højevej 204913 Horslunde,unde,294.902,29-05-2012,Fam. Salg,2.730,3,Villa,108,1940,,Aktuel værdi
+Reventlowvej 214913 Horslunde,unde,289.000,05-05-2012,Fam. Salg,4.250,4,Villa,68,1877,,Aktuel værdi
+Sjalevejen 104913 Horslunde,unde,259.200,30-04-2012,Alm. Salg,2.700,5,Villa,96,1873,,Aktuel værdi
+Maglehøjvej 524913 Horslunde,unde,895.000,28-04-2012,Alm. Salg,5.593,4,Villa,160,1922,0 %,Aktuel værdi
+Bjælkehovedvej 294913 Horslunde,unde,248.000,07-02-2012,Alm. Salg,3.263,3,Villa,76,1777,,Aktuel værdi
+Pederstrupvej 944913 Horslunde,unde,300.000,14-12-2011,Auktion,1.630,7,Villa,184,1920,-50 %,Aktuel værdi
+Toftevej 1384913 Horslunde,unde,95.001,30-11-2011,Auktion,950,4,Villa,100,1877,-83 %,Aktuel værdi
+Gallevej 304913 Horslunde,unde,3.995.000,28-11-2011,Andet,12.406,9,Villa,322,1909,,Aktuel værdi
+Bøgetvej 184913 Horslunde,unde,335.000,22-11-2011,Alm. Salg,2.680,4,Villa,125,1937,-8 %,Aktuel værdi
+Kragenakkevej 444913 Horslunde,unde,16.300.000,09-11-2011,Alm. Salg,72.767,7,Stuehus,224,1925,,
+Møllevænget 154913 Horslunde,unde,635.000,04-11-2011,Alm. Salg,4.177,6,Villa,152,1969,-14 %,Aktuel værdi
+Bøgetvej 1944913 Horslunde,unde,430.000,30-09-2011,Alm. Salg,3.644,5,Sommerhus,118,1912,-13 %,Aktuel værdi
+Højagervej 554913 Horslunde,unde,550.000,19-09-2011,Alm. Salg,3.666,7,Villa,150,1777,-21 %,Aktuel værdi
+Bjælkehovedvej 924913 Horslunde,unde,60.000,08-09-2011,Alm. Salg,800,4,Villa,75,1877,,Aktuel værdi
+Pederstrupvej 454913 Horslunde,unde,242.238,26-08-2011,Alm. Salg,3.027,3,Villa,80,1877,,Aktuel værdi
+Hvidtjørnevej 24913 Horslunde,unde,525.000,24-08-2011,Alm. Salg,3.917,5,Villa,134,1877,-12 %,Aktuel værdi
+Hydestræde 64913 Horslunde,unde,18.020.001,28-07-2011,Fam. Salg,95.851,8,Stuehus,188,1867,,
+Hydestræde 164913 Horslunde,unde,9.264.175,28-07-2011,Fam. Salg,47.266,11,Stuehus,196,1800,,
+Toftevej 1604913 Horslunde,unde,450.000,18-07-2011,Alm. Salg,2.830,6,Villa,159,1920,-17 %,Aktuel værdi
+H. C. Skottesvej 294913 Horslunde,unde,185.000,12-07-2011,Alm. Salg,1.968,4,Villa,94,1936,0 %,Aktuel værdi
+Egholm Strandvej 274913 Horslunde,unde,743.000,12-07-2011,Alm. Salg,15.479,2,Sommerhus,48,1997,-15 %,Aktuel værdi
+Bjælkehovedvej 264913 Horslunde,unde,191.079,11-07-2011,Fam. Salg,1.504,5,Villa,127,1927,,Aktuel værdi
+Kragenakkevej 544913 Horslunde,unde,700.000,07-07-2011,Alm. Salg,7.070,2,Sommerhus,99,1900,,Aktuel værdi
+Egholm Strandvej 174913 Horslunde,unde,550.000,27-06-2011,Fam. Salg,8.593,4,Sommerhus,64,1900,,Aktuel værdi
+Nylandsvej 44913 Horslunde,unde,900.000,09-06-2011,Alm. Salg,5.142,7,Villa,175,1973,-10 %,Aktuel værdi
+Egholmvej 764913 Horslunde,unde,185.000,05-06-2011,Fam. Salg,2.202,3,Sommerhus,84,1830,,Aktuel værdi
+Kasbækvej 824913 Horslunde,unde,350.000,23-05-2011,Fam. Salg,1.776,7,Villa,197,1890,,Aktuel værdi
+Nordlundevej 50C4913 Horslunde,unde,950.000,07-05-2011,Alm. Salg,4.702,5,Sommerhus,202,1827,-5 %,Aktuel værdi
+Bryggerivej 214913 Horslunde,unde,800.000,01-05-2011,Fam. Salg,5.797,4,Villa,138,1902,,Aktuel værdi
+Viemosevej 294913 Horslunde,unde,135.000,20-04-2011,Auktion,1.097,4,Villa,123,1909,,Aktuel værdi
+Nakskovvej 864913 Horslunde,unde,184.000,13-04-2011,Alm. Salg,2.044,4,Villa,90,1941,-26 %,Aktuel værdi
+Højevej 44913 Horslunde,unde,600.000,06-04-2011,Auktion,2.702,6,Villa,222,1930,,Aktuel værdi
+Reventlowvej 124913 Horslunde,unde,393.707,06-04-2011,Fam. Salg,1.606,7,Villa,245,1867,,Aktuel værdi
+Hovedgaden 234913 Horslunde,unde,500.000,04-04-2011,Fam. Salg,1.700,7,Villa,294,1891,,Aktuel værdi
+Jernbanevej 64913 Horslunde,unde,20.000,30-03-2011,Auktion,181,3,Villa,110,1938,,Aktuel værdi
+Fynbovej 324913 Horslunde,unde,290.345,30-03-2011,Alm. Salg,2.322,6,Villa,125,1928,-29 %,Aktuel værdi
+Nordlundevej 454913 Horslunde,unde,150.000,25-03-2011,Alm. Salg,882,5,Villa,170,1920,-23 %,Aktuel værdi
+Toftevej 1274913 Horslunde,unde,375.000,16-03-2011,Alm. Salg,2.884,6,Villa,130,1912,-16 %,Aktuel værdi
+Højagervej 104913 Horslunde,unde,262.048,14-03-2011,Alm. Salg,3.911,4,Villa,67,1949,,Aktuel værdi
+Møllevænget 214913 Horslunde,unde,350.000,14-03-2011,Fam. Salg,2.500,6,Villa,140,1975,,Aktuel værdi
+Hovedgaden 424913 Horslunde,unde,300.000,16-02-2011,Auktion,2.255,4,Villa,133,1909,,Aktuel værdi
+Vejlevejen 304913 Horslunde,unde,680.000,03-02-2011,Alm. Salg,4.963,4,Sommerhus,137,1915,,Aktuel værdi
+Byskovvej 64913 Horslunde,unde,4.891.696,26-01-2011,Alm. Salg,19.566,6,Stuehus,250,1909,,
+Pederstrupvej 634913 Horslunde,unde,155.000,12-01-2011,Auktion,1.313,5,Villa,118,1942,,Aktuel værdi
+Pederstrupvej 594913 Horslunde,unde,110.000,08-12-2010,Auktion,1.358,3,Villa,81,1937,-81 %,Aktuel værdi
+Vadbrovej 24913 Horslunde,unde,175.000,25-11-2010,Alm. Salg,1.535,5,Villa,114,1905,-10 %,Aktuel værdi
+Nordlundevej 644913 Horslunde,unde,150.000,17-11-2010,Auktion,1.500,3,Villa,100,1850,-47 %,Aktuel værdi
+Hothersvej 54913 Horslunde,unde,13.616.000,08-11-2010,Alm. Salg,57.694,9,Stuehus,236,1931,,
+Vadbrovej 44913 Horslunde,unde,680.000,26-10-2010,Fam. Salg,3.333,5,Villa,204,1880,,Aktuel værdi
+Borresvej 214913 Horslunde,unde,210.000,20-10-2010,Alm. Salg,1.926,3,Villa,109,1915,-21 %,Aktuel værdi
+Højagervej 234913 Horslunde,unde,8.368.500,15-10-2010,Alm. Salg,50.718,4,Stuehus,165,1985,,
+Pederstrupvej 44913 Horslunde,unde,150.000,04-10-2010,Alm. Salg,974,4,Villa,154,1942,,Aktuel værdi
+Byskovvej 954913 Horslunde,unde,360.000,01-10-2010,Alm. Salg,4.675,3,Villa,77,1922,-19 %,Aktuel værdi
+Højagervej 144913 Horslunde,unde,975.000,25-09-2010,Alm. Salg,6.500,5,Villa,150,1923,-2 %,Aktuel værdi
+Toftevej 704913 Horslunde,unde,600.000,20-09-2010,Alm. Salg,2.222,8,Villa,270,1857,-33 %,Aktuel værdi
+Viemosevej 414913 Horslunde,unde,570.000,11-08-2010,Alm. Salg,4.789,3,Villa,119,1936,-4 %,Aktuel værdi
+Vadbrovej 394913 Horslunde,unde,175.000,07-07-2010,Alm. Salg,1.944,4,Villa,90,1900,-22 %,Aktuel værdi
+Gl. Kastagervej 514913 Horslunde,unde,666.000,20-05-2010,Alm. Salg,4.861,5,Villa,137,1911,,Aktuel værdi
+Hovedgaden 554913 Horslunde,unde,575.000,18-05-2010,Alm. Salg,4.563,5,Villa,126,1908,-17 %,Aktuel værdi
+Højagervej 504913 Horslunde,unde,401.000,19-03-2010,Alm. Salg,3.084,4,Villa,130,1777,,Aktuel værdi
+Byskovvej 1004913 Horslunde,unde,250.000,05-03-2010,Alm. Salg,3.012,2,Villa,83,1926,,Aktuel værdi
+Bjælkehovedvej 214913 Horslunde,unde,17.750.000,04-03-2010,Alm. Salg,59.166,6,Stuehus,300,1985,,
+Gl. Kastagervej 24913 Horslunde,unde,1.200.000,23-02-2010,Alm. Salg,6.779,5,Villa,177,1907,-5 %,Aktuel værdi
+Bjælkehovedvej 74913 Horslunde,unde,250.000,09-02-2010,Alm. Salg,2.941,4,Villa,85,1877,,Aktuel værdi
+Nørrevænget 64913 Horslunde,unde,1.000.000,27-01-2010,Alm. Salg,6.250,4,Villa,160,1971,-9 %,Aktuel værdi
+Hovedgaden 364913 Horslunde,unde,110.000,20-01-2010,Auktion,617,8,Villa,178,1870,,Aktuel værdi
+Bøgetvej 374913 Horslunde,unde,258.514,04-01-2010,Fam. Salg,1.746,6,Villa,148,1915,,Aktuel værdi
+Bøgetvej 1694913 Horslunde,unde,70.000,16-12-2009,Auktion,744,3,Villa,94,1900,-86 %,Aktuel værdi
+Langesøvej 124913 Horslunde,unde,147.391,03-12-2009,Fam. Salg,1.151,4,Villa,128,1898,,Aktuel værdi
+Maglehøjvej 304913 Horslunde,unde,459.000,30-11-2009,Fam. Salg,6.557,2,Sommerhus,70,1900,,Aktuel værdi
+Fynbovej 114913 Horslunde,unde,325.000,26-10-2009,Fam. Salg,1.934,7,Villa,168,1900,,Aktuel værdi
+H. C. Skottesvej 244913 Horslunde,unde,387.500,28-09-2009,Alm. Salg,3.836,4,Villa,101,1934,-2 %,Aktuel værdi
+Gallevej 64A4913 Horslunde,unde,560.000,31-08-2009,Alm. Salg,5.656,3,Villa,99,1973,,Aktuel værdi
+Strandpromenaden 154913 Horslunde,unde,725.000,21-08-2009,Alm. Salg,6.651,3,Villa,109,1777,-12 %,Aktuel værdi
+Egholmvej 614913 Horslunde,unde,650.000,17-08-2009,Fam. Salg,5.701,3,Villa,114,1909,,Aktuel værdi
+Nakskovvej 1254913 Horslunde,unde,567.292,13-08-2009,Alm. Salg,4.081,4,Villa,139,1945,-9 %,Aktuel værdi
+Jernbanevej 114913 Horslunde,unde,750.000,12-08-2009,Alm. Salg,6.048,6,Villa,124,1917,-6 %,Aktuel værdi
+Bøgetvej 1804913 Horslunde,unde,250.000,05-08-2009,Auktion,1.644,4,Villa,152,1920,-58 %,Aktuel værdi
+Toftevej 944913 Horslunde,unde,1.330.000,04-08-2009,Fam. Salg,10.725,6,Villa,124,1890,,Aktuel værdi
+Madevejen 104913 Horslunde,unde,250.000,20-07-2009,Alm. Salg,2.403,5,Villa,104,1947,,Aktuel værdi
+Rødkildevej 184913 Horslunde,unde,1.035.000,20-07-2009,Alm. Salg,6.052,8,Villa,171,1977,-20 %,Aktuel værdi
+Toftevej 1634913 Horslunde,unde,385.000,13-07-2009,Alm. Salg,3.701,3,Villa,104,1900,,Aktuel værdi
+Østerskoven 164913 Horslunde,unde,210.000,08-07-2009,Auktion,1.962,3,Villa,107,1976,-64 %,Aktuel værdi
+Bøgetvej 404913 Horslunde,unde,500.000,06-07-2009,Alm. Salg,5.154,5,Villa,97,1910,-5 %,Aktuel værdi
+Rødkildevej 134913 Horslunde,unde,665.000,25-06-2009,Alm. Salg,6.519,4,Villa,102,1977,-3 %,Aktuel værdi
+Hedemøllevej 364913 Horslunde,unde,488.750,22-06-2009,Fam. Salg,3.054,7,Villa,160,1877,,Aktuel værdi
+Fasanvej 84913 Horslunde,unde,600.000,15-06-2009,Alm. Salg,5.357,4,Villa,112,1926,-8 %,Aktuel værdi
+Møllevænget 74913 Horslunde,unde,900.000,11-06-2009,Alm. Salg,5.960,4,Villa,151,1967,-10 %,Aktuel værdi
+Hothersvej 24913 Horslunde,unde,75.000,10-06-2009,Auktion,925,4,Villa,81,1911,,Aktuel værdi
+Kasbækvej 1554913 Horslunde,unde,145.000,30-05-2009,Alm. Salg,707,7,Villa,205,1890,,Aktuel værdi
+Rødkildevej 114913 Horslunde,unde,845.000,23-05-2009,Alm. Salg,6.983,4,Villa,121,1977,0 %,Aktuel værdi
+Pederstrupvej 264913 Horslunde,unde,325.000,09-05-2009,Alm. Salg,2.500,5,Villa,130,1900,-24 %,Aktuel værdi
+Viemosevej 234913 Horslunde,unde,450.000,07-05-2009,Alm. Salg,3.214,5,Villa,140,1905,-5 %,Aktuel værdi
+Munkevejen 74913 Horslunde,unde,1.100.000,04-05-2009,Alm. Salg,4.700,8,Villa,234,1890,-12 %,Aktuel værdi
+Højagervej 124913 Horslunde,unde,50.000,23-04-2009,Fam. Salg,833,3,Villa,60,1777,,Aktuel værdi
+Nørrevænget 114913 Horslunde,unde,750.000,08-04-2009,Alm. Salg,6.696,4,Villa,112,1970,-16 %,Aktuel værdi
+Bøgetvej 1844913 Horslunde,unde,1.000.000,08-04-2009,Alm. Salg,9.523,3,Villa,105,1877,-16 %,Aktuel værdi
+Byskovvej 1094913 Horslunde,unde,180.000,03-04-2009,Andet,1.428,6,Villa,126,1920,,Aktuel værdi
+Byskovvej 984913 Horslunde,unde,765.000,30-03-2009,Alm. Salg,8.138,4,Sommerhus,94,1930,-4 %,Aktuel værdi
+Byskovvej 684913 Horslunde,unde,300.000,13-03-2009,Alm. Salg,4.761,2,Villa,63,1912,,Aktuel værdi
+Klinkevej 544913 Horslunde,unde,8.450.000,17-02-2009,Fam. Salg,44.010,7,Stuehus,192,1877,,
+Vadbrovej 334913 Horslunde,unde,225.000,28-10-2008,Alm. Salg,2.445,4,Villa,92,1905,,Aktuel værdi
+Jernbanevej 74913 Horslunde,unde,178.000,21-10-2008,Alm. Salg,872,6,Villa,204,2009,,Aktuel værdi
+Egholmvej 184913 Horslunde,unde,8.800.000,13-10-2008,Alm. Salg,72.131,4,Villa,122,1917,580 %,Aktuel værdi
+Borresvej 234913 Horslunde,unde,260.001,14-08-2008,Alm. Salg,2.988,3,Villa,87,1890,,Aktuel værdi
+Byskovvej 1084913 Horslunde,unde,425.000,10-08-2008,Andet,4.250,4,Villa,100,1942,,Aktuel værdi
+Viemosevej 314913 Horslunde,unde,420.000,11-06-2008,Alm. Salg,5.000,3,Villa,84,1920,-3 %,Aktuel værdi
+Viemosevej 104913 Horslunde,unde,1.045.000,10-06-2008,Alm. Salg,5.331,5,Villa,196,1937,0 %,Aktuel værdi
+Borresvej 74913 Horslunde,unde,610.000,04-06-2008,Alm. Salg,7.820,3,Rækkehus,78,1877,-5 %,Aktuel værdi
+Bøgetvej 1784913 Horslunde,unde,585.000,04-06-2008,Alm. Salg,-,7,Villa,159,1902,-8 %,Aktuel værdi
+Bjælkehovedvej 304913 Horslunde,unde,450.000,28-05-2008,Alm. Salg,4.326,3,Villa,104,1949,,Aktuel værdi
+Hothersvej 144913 Horslunde,unde,275.000,20-05-2008,Alm. Salg,2.669,6,Villa,103,1898,,Aktuel værdi
+Gl. Kastagervej 604913 Horslunde,unde,400.000,15-05-2008,Alm. Salg,4.761,4,Villa,84,1877,-11 %,Aktuel værdi
+Gallevej 314913 Horslunde,unde,625.000,14-05-2008,Alm. Salg,5.252,4,Villa,119,1937,-4 %,Aktuel værdi
+Kasbækvej 464913 Horslunde,unde,2.019.150,08-05-2008,Alm. Salg,5.177,14,Stuehus,390,1823,,
+Gl. Kastagervej 164913 Horslunde,unde,845.000,06-05-2008,Alm. Salg,6.035,6,Villa,140,1875,0 %,Aktuel værdi
+Egholmvej 384913 Horslunde,unde,71.370,22-04-2008,Alm. Salg,446,7,Stuehus,160,1908,,
+Østerskoven 214913 Horslunde,unde,1.219.614,16-04-2008,Alm. Salg,10.163,4,Sommerhus,120,1777,0 %,Aktuel værdi
+Byskovvej 934913 Horslunde,unde,250.000,31-03-2008,Alm. Salg,3.472,3,Villa,72,1899,-41 %,Aktuel værdi
+Bøgetvej 1304913 Horslunde,unde,800.000,12-03-2008,Alm. Salg,3.333,9,Villa,240,1902,-5 %,Aktuel værdi
+Lillevej 14913 Horslunde,unde,250.000,03-03-2008,Alm. Salg,2.873,4,Villa,87,1890,,Aktuel værdi
+Lillevej 294913 Horslunde,unde,433.500,25-02-2008,Fam. Salg,3.870,5,Villa,112,1920,,Aktuel værdi
+Byskovvej 914913 Horslunde,unde,498.815,25-02-2008,Alm. Salg,3.694,2,Villa,135,1929,-45 %,Aktuel værdi
+Højevej 124913 Horslunde,unde,345.663,13-02-2008,Andet,4.800,3,Villa,72,1937,,Aktuel værdi
+Bøgetvej 274913 Horslunde,unde,675.000,02-02-2008,Alm. Salg,4.090,4,Villa,165,1900,-9 %,Aktuel værdi
+Fynbovej 224913 Horslunde,unde,795.000,01-02-2008,Alm. Salg,5.162,4,Villa,154,1920,0 %,Aktuel værdi
+Gallevej 104913 Horslunde,unde,135.000,31-01-2008,Andet,2.700,3,Villa,50,1917,,Aktuel værdi
+Pindshulevej 274913 Horslunde,unde,6.300.000,29-01-2008,Alm. Salg,33.333,8,Stuehus,189,1914,,
+Toftevej 904913 Horslunde,unde,175.000,21-12-2007,Alm. Salg,2.916,2,Villa,60,1870,,Aktuel værdi
+Strandpromenaden 484913 Horslunde,unde,300.000,16-12-2007,Fam. Salg,10.000,1,Villa,30,1909,,Aktuel værdi
+Vesterled 14913 Horslunde,unde,680.000,04-12-2007,Alm. Salg,5.666,5,Villa,120,1975,,Aktuel værdi
+Bjælkehovedvej 254913 Horslunde,unde,980.000,21-11-2007,Alm. Salg,7.000,5,Villa,140,1920,,Aktuel værdi
+Madevejen 304913 Horslunde,unde,1.087.000,19-11-2007,Fam. Salg,5.603,3,Stuehus,194,2012,,
+Madevejen 274913 Horslunde,unde,455.000,14-11-2007,Alm. Salg,4.062,5,Sommerhus,112,1870,-8 %,Aktuel værdi
+Højagervej 14913 Horslunde,unde,1.190.000,09-11-2007,Alm. Salg,7.933,4,Villa,150,1840,0 %,Aktuel værdi
+Hovedgaden 184913 Horslunde,unde,697.500,04-11-2007,Andet,3.576,5,Villa,195,1850,,Aktuel værdi
+Byskovvej 584913 Horslunde,unde,560.000,30-10-2007,Alm. Salg,5.137,5,Villa,109,1905,,Aktuel værdi
+Nordlundevej 84913 Horslunde,unde,330.000,11-10-2007,Alm. Salg,6.111,3,Villa,54,1877,,Aktuel værdi
+Madevejen 454913 Horslunde,unde,225.000,10-10-2007,Andet,1.875,4,Stuehus,120,1946,,
+Madevejen 474913 Horslunde,unde,150.000,10-10-2007,Andet,2.083,4,Villa,72,1850,,Aktuel værdi
+Sundvej 134913 Horslunde,unde,450.000,10-10-2007,Alm. Salg,5.000,3,Villa,90,1922,-9 %,Aktuel værdi
+Viemosevej 704913 Horslunde,unde,550.000,19-09-2007,Alm. Salg,6.626,4,Villa,83,1930,,Aktuel værdi
+Bryggerivej 584913 Horslunde,unde,872.000,29-08-2007,Alm. Salg,8.384,3,Villa,104,1920,,Aktuel værdi
+Højevej 24913 Horslunde,unde,950.000,29-08-2007,Alm. Salg,6.551,5,Villa,145,1928,,Aktuel værdi
+Nakskovvej 814913 Horslunde,unde,923.088,31-07-2007,Alm. Salg,6.940,4,Villa,133,1912,,Aktuel værdi
+Pederstrupvej 654913 Horslunde,unde,675.000,23-07-2007,Alm. Salg,6.750,3,Villa,100,1950,,Aktuel værdi
+Gl. Kastagervej 374913 Horslunde,unde,270.000,20-07-2007,Alm. Salg,2.500,3,Villa,108,1918,,Aktuel værdi
+Nylandsvej 214913 Horslunde,unde,705.892,05-07-2007,Alm. Salg,5.429,4,Villa,130,1976,,Aktuel værdi
+Borresvej 144913 Horslunde,unde,850.000,28-06-2007,Alm. Salg,5.089,5,Villa,167,1962,-4 %,Aktuel værdi
+Byskovvej 107A4913 Horslunde,unde,1.625.000,16-06-2007,Alm. Salg,6.605,6,Villa,246,1976,,Aktuel værdi
+Basevej 444913 Horslunde,unde,769.346,12-06-2007,Alm. Salg,6.632,5,Villa,116,1898,-3 %,Aktuel værdi
+Lundevej 254913 Horslunde,unde,725.000,02-06-2007,Alm. Salg,5.215,6,Villa,139,1877,,Aktuel værdi
+Nakskovvej 774913 Horslunde,unde,425.000,29-05-2007,Alm. Salg,3.663,4,Villa,116,1850,,Aktuel værdi
+H. C. Skottesvej 124913 Horslunde,unde,1.100.000,27-05-2007,Alm. Salg,5.612,5,Villa,196,1935,,Aktuel værdi
+Gallevej 874913 Horslunde,unde,595.000,24-05-2007,Alm. Salg,5.129,2,Villa,116,1889,,Aktuel værdi
+Lundevej 174913 Horslunde,unde,350.000,16-05-2007,Alm. Salg,3.723,3,Villa,94,1920,,Aktuel værdi
+Højagervej 204913 Horslunde,unde,92.832,11-05-2007,Alm. Salg,618,8,Stuehus,150,1888,,
+Nylandsvej 54913 Horslunde,unde,1.420.000,11-05-2007,Alm. Salg,6.016,6,Villa,236,1972,-4 %,Aktuel værdi
+Gallevej 864913 Horslunde,unde,640.000,03-05-2007,Alm. Salg,7.111,3,Villa,90,1850,,Aktuel værdi
+Byskovvej 1044913 Horslunde,unde,850.000,02-05-2007,Fam. Salg,8.673,4,Sommerhus,98,1890,,Aktuel værdi
+Bryggerivej 34913 Horslunde,unde,925.000,27-04-2007,Alm. Salg,4.579,6,Villa,202,1889,,Aktuel værdi
+Egholmvej 584913 Horslunde,unde,750.000,20-04-2007,Alm. Salg,4.870,5,Villa,154,1850,,Aktuel værdi
+H. C. Skottesvej 334913 Horslunde,unde,467.500,13-04-2007,Fam. Salg,2.733,7,Villa,171,1937,,Aktuel værdi
+Nakskovvej 854913 Horslunde,unde,225.000,01-04-2007,Alm. Salg,2.922,3,Villa,77,1917,,Aktuel værdi
+Pederstrupvej 77G4913 Horslunde,unde,365.500,29-03-2007,Fam. Salg,2.648,6,Villa,138,1890,,Aktuel værdi
+Basevej 404913 Horslunde,unde,1.715.000,27-03-2007,Alm. Salg,6.860,5,Villa,250,1902,,Aktuel værdi
+Viemosevej 894913 Horslunde,unde,465.000,25-03-2007,Alm. Salg,5.166,4,Villa,90,1900,,Aktuel værdi
+Egholm Strandvej 294913 Horslunde,unde,563.500,21-03-2007,Fam. Salg,5.635,3,Sommerhus,100,1877,,Aktuel værdi
+Bryggerivej 264913 Horslunde,unde,635.000,20-03-2007,Andet,6.047,3,Villa,105,1900,,Aktuel værdi
+Langesøvej 454913 Horslunde,unde,300.000,28-02-2007,Alm. Salg,2.068,6,Villa,145,1914,,Aktuel værdi
+Vadbrovej 254913 Horslunde,unde,925.000,28-02-2007,Alm. Salg,4.579,10,Villa,202,1950,,Aktuel værdi
+Lundevej 214913 Horslunde,unde,835.000,27-02-2007,Alm. Salg,4.154,6,Villa,201,1915,,Aktuel værdi
+Dyssevej 224913 Horslunde,unde,270.000,22-02-2007,Fam. Salg,1.812,6,Sommerhus,149,1901,,Aktuel værdi
+Bulbrovej 154913 Horslunde,unde,5.317.500,15-02-2007,Fam. Salg,29.217,4,Villa,182,1920,,Aktuel værdi
+Bjælkehovedvej 574913 Horslunde,unde,2.571.250,12-02-2007,Fam. Salg,11.903,9,Stuehus,216,1873,,
+Bøgetvej 584913 Horslunde,unde,550.000,12-02-2007,Alm. Salg,3.142,4,Villa,175,1897,,Aktuel værdi
+Bøgetvej 1244913 Horslunde,unde,488.000,10-02-2007,Alm. Salg,4.929,4,Villa,99,1939,,Aktuel værdi
+Bryggerivej 244913 Horslunde,unde,395.000,08-02-2007,Alm. Salg,4.157,3,Villa,95,1913,,Aktuel værdi
+Byskovvej 644913 Horslunde,unde,612.000,01-02-2007,Alm. Salg,4.707,6,Sommerhus,130,1877,,Aktuel værdi
+Højevej 144913 Horslunde,unde,522.500,11-01-2007,Alm. Salg,7.060,4,Villa,74,1938,,Aktuel værdi
+Nørrevænget 144913 Horslunde,unde,221.714,10-01-2007,Fam. Salg,1.539,4,Villa,144,1973,,Aktuel værdi
+Viemosevej 654913 Horslunde,unde,714.000,09-01-2007,Alm. Salg,3.051,11,Villa,234,1915,,Aktuel værdi
+Byskovvej 214913 Horslunde,unde,2.000.000,09-01-2007,Alm. Salg,12.500,4,Stuehus,160,2009,,
+Ørsløkkevej 554913 Horslunde,unde,460.000,29-12-2006,Alm. Salg,3.511,4,Villa,131,1900,,Aktuel værdi
+Nakskovvej 504913 Horslunde,unde,1.025.000,21-12-2006,Alm. Salg,4.745,7,Villa,216,1877,,Aktuel værdi
+Egholmvej 354913 Horslunde,unde,1.600.000,20-12-2006,Alm. Salg,5.031,11,Villa,318,1887,,Aktuel værdi
+H. C. Skottesvej 174913 Horslunde,unde,813.835,20-12-2006,Alm. Salg,9.248,4,Villa,88,1937,,Aktuel værdi
+Viemosevej 544913 Horslunde,unde,845.000,16-12-2006,Alm. Salg,6.706,4,Villa,126,1906,,Aktuel værdi
+Bryggerivej 934913 Horslunde,unde,250.000,03-12-2006,Alm. Salg,3.472,3,Villa,72,1938,,Aktuel værdi
+Nordlundevej 24913 Horslunde,unde,1.295.000,07-11-2006,Alm. Salg,5.395,9,Villa,240,1915,,Aktuel værdi
+Lundevej 244913 Horslunde,unde,1.000.000,31-10-2006,Alm. Salg,5.000,8,Villa,200,1876,,Aktuel værdi
+Rødkildevej 64913 Horslunde,unde,85.000,23-10-2006,Alm. Salg,620,5,Villa,137,2007,,Aktuel værdi
+Bøgetvej 1754913 Horslunde,unde,885.000,17-10-2006,Alm. Salg,4.447,8,Villa,199,1797,,Aktuel værdi
+Jernbanevej 124913 Horslunde,unde,745.000,07-09-2006,Alm. Salg,3.211,6,Villa,232,1933,,Aktuel værdi
+Bryggerivej 1094913 Horslunde,unde,65.000,05-09-2006,Alm. Salg,656,3,Villa,99,1890,,Aktuel værdi
+Hovedgaden 264913 Horslunde,unde,795.000,02-09-2006,Alm. Salg,4.517,7,Villa,176,1895,,Aktuel værdi
+Lillevej 44913 Horslunde,unde,236.500,31-08-2006,Fam. Salg,2.130,3,Villa,111,1924,,Aktuel værdi
+Ørsløkkevej 584913 Horslunde,unde,325.000,20-08-2006,Fam. Salg,2.241,4,Villa,145,1877,,Aktuel værdi
+Bjælkehovedvej 84913 Horslunde,unde,300.000,18-08-2006,Alm. Salg,5.357,3,Villa,56,1877,,Aktuel værdi
+H. C. Skottesvej 354913 Horslunde,unde,395.000,07-08-2006,Alm. Salg,5.410,3,Villa,73,1932,,Aktuel værdi
+Egholmvej 664913 Horslunde,unde,895.000,01-08-2006,Alm. Salg,3.683,6,Villa,243,1900,,Aktuel værdi
+Nakskovvej 159A4913 Horslunde,unde,839.175,31-07-2006,Alm. Salg,5.244,6,Villa,160,1877,,Aktuel værdi
+Viemosevej 714913 Horslunde,unde,903.000,04-07-2006,Alm. Salg,4.049,6,Villa,223,1920,,Aktuel værdi
+Toftevej 864913 Horslunde,unde,635.000,22-06-2006,Alm. Salg,4.123,6,Villa,154,1960,,Aktuel værdi
+Lundevej 184913 Horslunde,unde,440.000,22-06-2006,Alm. Salg,5.641,2,Villa,78,1877,,Aktuel værdi
+Hans Fugls Vej 334913 Horslunde,unde,45.000,14-06-2006,Alm. Salg,250,6,Villa,180,2007,,Aktuel værdi
+Keldsløkkevej 444913 Horslunde,unde,7.434.319,12-06-2006,Alm. Salg,27.033,6,Stuehus,275,1864,,
+Byskovvej 884913 Horslunde,unde,187.000,10-06-2006,Fam. Salg,1.449,4,Villa,129,1860,,Aktuel værdi
+Viboltvej 214913 Horslunde,unde,665.000,08-06-2006,Alm. Salg,7.916,4,Villa,84,1920,,Aktuel værdi
+Hovedgaden 504913 Horslunde,unde,195.000,01-06-2006,Alm. Salg,2.708,5,Villa,72,1900,,Aktuel værdi
+Pederstrupvej 814913 Horslunde,unde,800.000,19-05-2006,Alm. Salg,3.652,9,Stuehus,219,1917,,
+Viemosevej 594913 Horslunde,unde,700.000,18-05-2006,Alm. Salg,3.589,7,Villa,195,1938,,Aktuel værdi
+Langesøvej 294913 Horslunde,unde,475.000,16-05-2006,Alm. Salg,6.785,2,Sommerhus,70,1800,,Aktuel værdi
+Vadbrovej 314913 Horslunde,unde,530.429,29-04-2006,Alm. Salg,3.214,5,Villa,165,1904,,Aktuel værdi
+Bryggerivej 1A4913 Horslunde,unde,525.000,18-04-2006,Alm. Salg,4.816,3,Villa,109,1900,,Aktuel værdi
+Markstien 24913 Horslunde,unde,625.000,17-04-2006,Alm. Salg,4.770,4,Sommerhus,131,1877,,Aktuel værdi
+Byskovvej 1054913 Horslunde,unde,600.000,13-04-2006,Alm. Salg,5.769,3,Villa,104,1917,,Aktuel værdi
+Bryggerivej 14913 Horslunde,unde,765.000,12-04-2006,Alm. Salg,1.997,8,Villa,383,1893,,Aktuel værdi
+Nakskovvej 704913 Horslunde,unde,359.216,05-04-2006,Alm. Salg,5.442,4,Villa,66,1827,,Aktuel værdi
+Byskovvej 814913 Horslunde,unde,475.000,31-03-2006,Alm. Salg,3.518,4,Villa,135,1937,,Aktuel værdi
+Byskovvej 924913 Horslunde,unde,1.265.000,24-03-2006,Alm. Salg,7.666,6,Villa,165,1918,,Aktuel værdi
+Hovedgaden 434913 Horslunde,unde,865.000,23-03-2006,Alm. Salg,5.965,5,Villa,145,1912,,Aktuel værdi
+Pederstrupvej 354913 Horslunde,unde,1.495.000,20-03-2006,Alm. Salg,11.074,6,Villa,135,1926,,Aktuel værdi
+Byskovvej 504913 Horslunde,unde,322.500,20-03-2006,Fam. Salg,4.082,3,Villa,79,1877,,Aktuel værdi
+Viemosevej 674913 Horslunde,unde,350.000,18-03-2006,Alm. Salg,3.398,5,Villa,103,1914,,Aktuel værdi
+Hovedgaden 254913 Horslunde,unde,385.000,14-03-2006,Alm. Salg,2.894,4,Villa,133,1904,,Aktuel værdi
+Egholmvej 104913 Horslunde,unde,628.500,08-03-2006,Alm. Salg,4.988,4,Villa,126,1799,,Aktuel værdi
+Viboltvej 344913 Horslunde,unde,622.704,03-03-2006,Andet,3.008,8,Villa,207,1940,,Aktuel værdi
+Tvedevej 44913 Horslunde,unde,875.000,20-02-2006,Alm. Salg,5.833,5,Sommerhus,150,1900,,Aktuel værdi
+Orehavevej 24913 Horslunde,unde,409.285,15-02-2006,Alm. Salg,4.872,3,Villa,84,1890,,Aktuel værdi
+Munkevejen 14913 Horslunde,unde,529.000,14-02-2006,Fam. Salg,3.480,7,Villa,152,1927,,Aktuel værdi
+Hovedgaden 104913 Horslunde,unde,276.000,13-02-2006,Alm. Salg,1.792,6,Villa,154,1888,,Aktuel værdi
+Gl. Kastagervej 434913 Horslunde,unde,7.421.728,02-02-2006,Alm. Salg,53.780,5,Villa,138,1827,,Aktuel værdi
+Gl. Kastagervej 394913 Horslunde,unde,9.499.030,02-02-2006,Alm. Salg,37.996,10,Stuehus,250,1906,,
+Toftevej 1694913 Horslunde,unde,377.832,16-01-2006,Andet,1.717,7,Villa,220,1969,,Aktuel værdi
+Toftevej 1234913 Horslunde,unde,1.393.575,10-01-2006,Fam. Salg,8.102,9,Stuehus,172,1880,,
+Bryggerivej 44913 Horslunde,unde,700.000,29-12-2005,Alm. Salg,4.516,5,Villa,155,1892,,Aktuel værdi
+Orehavevej 134913 Horslunde,unde,120.000,28-12-2005,Fam. Salg,1.714,3,Sommerhus,70,1900,,Aktuel værdi
+Borresvej 104913 Horslunde,unde,275.000,24-12-2005,Alm. Salg,2.619,3,Villa,105,1935,,Aktuel værdi
+Pederstrupvej 1064913 Horslunde,unde,1.000.000,21-12-2005,Alm. Salg,5.617,5,Villa,178,1910,,Aktuel værdi
+Toftevej 1264913 Horslunde,unde,1.150.730,21-12-2005,Alm. Salg,6.088,6,Stuehus,189,1850,,
+Toftevej 744913 Horslunde,unde,3.517.259,20-12-2005,Alm. Salg,18.808,5,Stuehus,187,1865,,
+Toftevej 894913 Horslunde,unde,467.296,19-12-2005,Alm. Salg,4.867,5,Stuehus,96,1939,,
+Vejlevejen 14913 Horslunde,unde,255.000,13-12-2005,Alm. Salg,3.187,4,Villa,80,1905,,Aktuel værdi
+Toftevej 1524913 Horslunde,unde,830.000,12-12-2005,Alm. Salg,5.030,7,Villa,165,1912,,Aktuel værdi
+Gallevej 504913 Horslunde,unde,217.440,12-12-2005,Alm. Salg,1.169,7,Stuehus,186,1937,,
+Toftevej 1504913 Horslunde,unde,415.000,06-12-2005,Alm. Salg,4.150,5,Villa,100,1881,,Aktuel værdi
+Ørsløkkevej 464913 Horslunde,unde,6.000.000,21-11-2005,Alm. Salg,49.586,2,Stuehus,121,1988,,
+Højagervej 44913 Horslunde,unde,262.500,11-11-2005,Alm. Salg,2.066,3,Villa,127,1916,,Aktuel værdi
+Højagervej 54913 Horslunde,unde,765.000,07-11-2005,Alm. Salg,4.693,5,Villa,163,1777,,Aktuel værdi
+Fynbovej 214913 Horslunde,unde,972.000,01-11-2005,Alm. Salg,5.554,6,Villa,175,1880,,Aktuel værdi
+Byskovvej 324913 Horslunde,unde,495.000,31-10-2005,Alm. Salg,6.187,3,Villa,80,1897,,Aktuel værdi
+Odinsvej 114913 Horslunde,unde,245.000,28-10-2005,Alm. Salg,2.882,3,Villa,85,1911,,Aktuel værdi
+Gallevej 544913 Horslunde,unde,446.434,28-10-2005,Alm. Salg,3.543,6,Villa,126,1939,,Aktuel værdi
+Stubstykkevej 354913 Horslunde,unde,485.000,20-10-2005,Alm. Salg,6.466,4,Sommerhus,75,1902,,Aktuel værdi
+Maglehøjvej 14913 Horslunde,unde,3.550.000,18-10-2005,Fam. Salg,15.570,8,Stuehus,228,1882,,
+Langesøvej 274913 Horslunde,unde,820.000,10-10-2005,Auktion,5.125,6,Villa,160,1827,,Aktuel værdi
+Nakskovvej 1104913 Horslunde,unde,150.000,09-10-2005,Alm. Salg,993,5,Villa,151,2005,,Aktuel værdi
+Sundvej 74913 Horslunde,unde,900.000,06-10-2005,Alm. Salg,8.910,3,Villa,101,1900,,Aktuel værdi
+Bøgetvej 464913 Horslunde,unde,710.000,20-09-2005,Alm. Salg,5.546,5,Villa,128,1965,,Aktuel værdi
+Bøgetvej 624913 Horslunde,unde,585.999,17-09-2005,Fam. Salg,3.292,7,Villa,178,1926,,Aktuel værdi
+Jernbanevej 174913 Horslunde,unde,850.000,15-09-2005,Alm. Salg,7.083,3,Villa,120,1930,,Aktuel værdi
+Hothersvej 274913 Horslunde,unde,246.500,13-09-2005,Alm. Salg,3.792,2,Sommerhus,65,1939,,Aktuel værdi
+Bryggerivej 754913 Horslunde,unde,520.000,06-09-2005,Alm. Salg,4.482,4,Villa,116,1959,,Aktuel værdi
+Øksengårdvej 54913 Horslunde,unde,605.000,31-08-2005,Alm. Salg,4.548,5,Sommerhus,133,1900,,Aktuel værdi
+Bøgetvej 204913 Horslunde,unde,470.000,29-08-2005,Alm. Salg,4.947,4,Villa,95,1900,,Aktuel værdi
+Bulbrovej 414913 Horslunde,unde,795.000,29-08-2005,Alm. Salg,5.196,6,Villa,153,1902,,Aktuel værdi
+Nakskovvej 1574913 Horslunde,unde,965.000,04-08-2005,Alm. Salg,9.460,3,Villa,102,1867,,Aktuel værdi
+Maglehøjvej 414913 Horslunde,unde,2.950.000,01-08-2005,Alm. Salg,33.522,5,Sommerhus,88,1932,,Aktuel værdi
+Strandpromenaden 204913 Horslunde,unde,130.000,29-07-2005,Andet,1.857,3,Villa,70,1900,,Aktuel værdi
+Langesøvej 504913 Horslunde,unde,195.000,18-07-2005,Alm. Salg,1.500,5,Villa,130,1912,,Aktuel værdi
+Bøgetvej 1454913 Horslunde,unde,625.000,13-07-2005,Alm. Salg,3.906,5,Villa,160,1884,,Aktuel værdi
+Hovedgaden 464913 Horslunde,unde,725.000,08-07-2005,Alm. Salg,2.251,8,Villa,322,1920,,Aktuel værdi
+Bøgetvej 144913 Horslunde,unde,1.360.000,07-07-2005,Alm. Salg,5.991,7,Villa,227,1777,,Aktuel værdi
+Byskovvej 394913 Horslunde,unde,375.000,05-07-2005,Alm. Salg,4.464,4,Villa,84,1857,,Aktuel værdi
+Byskovvej 634913 Horslunde,unde,350.000,26-06-2005,Alm. Salg,5.000,3,Villa,70,1892,,Aktuel værdi
+Bøgetvej 74913 Horslunde,unde,975.000,23-06-2005,Alm. Salg,5.803,6,Villa,168,1873,,Aktuel værdi
+Bøgetvej 1734913 Horslunde,unde,872.830,20-06-2005,Alm. Salg,5.195,6,Villa,168,1898,,Aktuel værdi
+Byskovvej 1034913 Horslunde,unde,695.000,17-06-2005,Fam. Salg,6.619,3,Villa,105,1927,,Aktuel værdi
+Bøgetvej 684913 Horslunde,unde,285.000,14-06-2005,Alm. Salg,2.850,3,Villa,100,1897,,Aktuel værdi
+H. C. Skottesvej 94913 Horslunde,unde,750.000,28-05-2005,Alm. Salg,6.818,6,Villa,110,1937,,Aktuel værdi
+Toftevej 1094913 Horslunde,unde,1.827.500,26-05-2005,Alm. Salg,6.526,12,Villa,280,1943,,Aktuel værdi
+Rødkildevej 54913 Horslunde,unde,1.040.000,26-05-2005,Alm. Salg,5.842,5,Villa,178,1977,,Aktuel værdi
+Bøgetvej 384913 Horslunde,unde,250.000,24-05-2005,Alm. Salg,3.125,4,Villa,80,1930,,Aktuel værdi
+H. C. Skottesvej 114913 Horslunde,unde,485.000,23-05-2005,Alm. Salg,3.211,4,Villa,151,1935,,Aktuel værdi
+Ørsløkkevej 294913 Horslunde,unde,385.000,19-05-2005,Alm. Salg,3.347,4,Villa,115,1850,,Aktuel værdi
+Hans Fugls Vej 294913 Horslunde,unde,1.175.000,11-05-2005,Alm. Salg,7.833,4,Villa,150,1981,,Aktuel værdi
+Nørrevænget 44913 Horslunde,unde,920.000,13-04-2005,Alm. Salg,5.443,5,Villa,169,1973,,Aktuel værdi
+Madevejen 354913 Horslunde,unde,608.000,13-04-2005,Alm. Salg,5.152,3,Villa,118,1896,,Aktuel værdi
+Søndertoftevej 114913 Horslunde,unde,9.500.000,09-04-2005,Alm. Salg,38.000,10,Stuehus,250,1912,,
+Nylandsvej 254913 Horslunde,unde,845.000,07-04-2005,Alm. Salg,3.565,6,Villa,237,1976,,Aktuel værdi
+Bryggerivej 794913 Horslunde,unde,430.000,06-04-2005,Alm. Salg,4.343,4,Villa,99,1877,,Aktuel værdi
+Borresvej 174913 Horslunde,unde,2.262.715,30-03-2005,Alm. Salg,11.909,6,Stuehus,190,1870,,
+Husmandsvejen 174913 Horslunde,unde,2.100.000,29-03-2005,Alm. Salg,14.383,4,Stuehus,146,2009,,
+Pederstrupvej 144913 Horslunde,unde,450.000,01-03-2005,Alm. Salg,4.591,4,Villa,98,1905,,Aktuel værdi
+Sølvbjergvej 114913 Horslunde,unde,1.125.000,22-02-2005,Alm. Salg,12.500,3,Sommerhus,90,1827,,Aktuel værdi
+Gallevej 154913 Horslunde,unde,320.000,03-02-2005,Alm. Salg,4.210,3,Villa,76,1946,,Aktuel værdi
+Stationsvej 34913 Horslunde,unde,660.000,31-01-2005,Alm. Salg,2.946,9,Villa,224,1940,,Aktuel værdi
+Maglehøjvej 344913 Horslunde,unde,278.300,30-01-2005,Andet,1.959,5,Villa,142,1928,,Aktuel værdi
+Hovedgaden 304913 Horslunde,unde,365.000,18-01-2005,Alm. Salg,2.159,6,Villa,169,1897,,Aktuel værdi
+Kasbækvej 434913 Horslunde,unde,695.000,30-11-2004,Alm. Salg,5.429,3,Villa,128,1937,,Aktuel værdi
+Højevej 164913 Horslunde,unde,430.000,19-11-2004,Alm. Salg,3.282,6,Villa,131,1941,,Aktuel værdi
+Bøgetvej 484913 Horslunde,unde,750.000,16-11-2004,Alm. Salg,4.545,6,Villa,165,1973,,Aktuel værdi
+Bøgetvej 264913 Horslunde,unde,735.000,01-11-2004,Alm. Salg,5.653,5,Villa,130,1920,,Aktuel værdi
+Bøgetvej 924913 Horslunde,unde,620.000,01-11-2004,Alm. Salg,3.009,6,Rækkehus,206,1937,,Aktuel værdi
+Sundvej 154913 Horslunde,unde,570.000,28-10-2004,Alm. Salg,3.958,5,Villa,144,1900,,Aktuel værdi
+Toftevej 1254913 Horslunde,unde,820.000,04-10-2004,Alm. Salg,5.000,2,Villa,164,1877,,Aktuel værdi
+Basevej 484913 Horslunde,unde,200.000,27-09-2004,Fam. Salg,1.834,4,Villa,109,1923,,Aktuel værdi
+Keldsløkkevej 754913 Horslunde,unde,400.000,16-09-2004,Alm. Salg,5.000,3,Villa,80,1800,,Aktuel værdi
+Bulbrovej 364913 Horslunde,unde,400.000,19-08-2004,Alm. Salg,4.000,4,Stuehus,100,1910,,
+Højevej 84913 Horslunde,unde,495.000,19-08-2004,Alm. Salg,4.759,4,Villa,104,1936,,Aktuel værdi
+Hans Fugls Vej 354913 Horslunde,unde,45.000,17-08-2004,Alm. Salg,432,4,Villa,104,2006,,Aktuel værdi
+Egholmvej 654913 Horslunde,unde,6.000.000,27-07-2004,Fam. Salg,24.000,7,Stuehus,250,1764,,
+Højlundsvej 214913 Horslunde,unde,820.000,06-07-2004,Alm. Salg,6.212,4,Villa,132,1972,,Aktuel værdi
+Fynbovej 484913 Horslunde,unde,485.000,01-07-2004,Alm. Salg,3.818,3,Villa,127,1877,,Aktuel værdi
+Bøgetvej 1674913 Horslunde,unde,660.000,26-06-2004,Alm. Salg,4.782,5,Villa,138,1928,,Aktuel værdi
+Viemosevej 664913 Horslunde,unde,356.772,20-06-2004,Alm. Salg,1.230,8,Villa,290,1921,,Aktuel værdi
+Bøgetvej 1714913 Horslunde,unde,340.000,18-06-2004,Alm. Salg,3.269,4,Villa,104,1904,,Aktuel værdi
+Nakskovvej 994913 Horslunde,unde,74.576,08-06-2004,Alm. Salg,847,2,Villa,88,1857,,Aktuel værdi
+Pederstrupvej 104913 Horslunde,unde,350.000,04-06-2004,Alm. Salg,3.070,4,Villa,114,1928,,Aktuel værdi
+Viemosevej 574913 Horslunde,unde,800.000,01-06-2004,Alm. Salg,4.444,7,Villa,180,1930,,Aktuel værdi
+Uglevejen 264913 Horslunde,unde,450.000,31-05-2004,Alm. Salg,2.284,6,Villa,197,2007,,Aktuel værdi
+Bøgetvej 1634913 Horslunde,unde,306.000,28-05-2004,Fam. Salg,1.912,6,Villa,160,1849,,Aktuel værdi
+H. C. Skottesvej 374913 Horslunde,unde,363.240,24-05-2004,Fam. Salg,3.363,5,Villa,108,1929,,Aktuel værdi
+Sølvbjergvej 104913 Horslunde,unde,350.000,14-05-2004,Alm. Salg,3.271,4,Villa,107,1877,,Aktuel værdi
+Viemosevej 734913 Horslunde,unde,610.000,12-05-2004,Alm. Salg,2.946,10,Villa,207,1936,,Aktuel værdi
+Bryggerivej 894913 Horslunde,unde,380.000,10-05-2004,Alm. Salg,4.750,4,Villa,80,1920,,Aktuel værdi
+Gallevej 624913 Horslunde,unde,396.000,27-04-2004,Alm. Salg,2.000,7,Villa,198,1908,,Aktuel værdi
+Toftevej 1314913 Horslunde,unde,325.000,20-04-2004,Alm. Salg,3.421,4,Villa,95,1928,,Aktuel værdi
+Nakskovvej 1364913 Horslunde,unde,450.000,19-04-2004,Alm. Salg,4.128,6,Villa,109,1850,,Aktuel værdi
+Østerskoven 124913 Horslunde,unde,335.000,19-03-2004,Alm. Salg,3.418,4,Villa,98,1777,,Aktuel værdi
+Nakskovvej 764913 Horslunde,unde,30.000,17-03-2004,Alm. Salg,361,4,Villa,83,1910,,Aktuel værdi
+Hans Fugls Vej 394913 Horslunde,unde,970.370,09-03-2004,Alm. Salg,5.674,5,Villa,171,1989,,Aktuel værdi
+Bryggerivej 484913 Horslunde,unde,485.000,01-03-2004,Alm. Salg,4.330,4,Villa,112,1927,,Aktuel værdi
+Strandpromenaden 14913 Horslunde,unde,450.000,26-02-2004,Alm. Salg,4.736,3,Sommerhus,95,1877,,Aktuel værdi
+Nordlundevej 104913 Horslunde,unde,395.000,24-02-2004,Alm. Salg,4.647,4,Villa,85,1898,,Aktuel værdi
+Viboltvej 114913 Horslunde,unde,298.719,09-01-2004,Auktion,1.659,5,Villa,180,1877,,Aktuel værdi
+Uglevejen 304913 Horslunde,unde,4.252.631,05-01-2004,Alm. Salg,28.350,6,Stuehus,150,1868,,
+Hans Fugls Vej 274913 Horslunde,unde,45.000,29-12-2003,Alm. Salg,459,4,Villa,98,2005,,Aktuel værdi
+Rågø 14913 Horslunde,unde,270.000,29-12-2003,Alm. Salg,1.500,5,Villa,180,1898,,Aktuel værdi
+Byskovvej 454913 Horslunde,unde,340.000,20-12-2003,Alm. Salg,2.905,4,Villa,117,1901,,Aktuel værdi
+Nakskovvej 574913 Horslunde,unde,275.000,04-12-2003,Alm. Salg,1.470,7,Villa,187,1900,,Aktuel værdi
+Pindshulevej 384913 Horslunde,unde,865.000,15-11-2003,Alm. Salg,4.805,6,Villa,180,1777,,Aktuel værdi
+Sølvbjergvej 94913 Horslunde,unde,574.683,03-11-2003,Alm. Salg,5.421,5,Villa,106,1877,,Aktuel værdi
+H. C. Skottesvej 314913 Horslunde,unde,555.000,16-10-2003,Alm. Salg,2.488,7,Villa,223,1937,,Aktuel værdi
+Østerskoven 204913 Horslunde,unde,350.000,06-10-2003,Alm. Salg,3.571,4,Villa,98,1877,,Aktuel værdi
+Bjælkehovedvej 524913 Horslunde,unde,295.000,20-09-2003,Alm. Salg,5.086,2,Sommerhus,58,1877,,Aktuel værdi
+Møllevænget 164913 Horslunde,unde,435.000,19-09-2003,Alm. Salg,4.627,4,Villa,94,1969,,Aktuel værdi
+Nakskovvej 1214913 Horslunde,unde,175.000,17-09-2003,Alm. Salg,2.734,2,Villa,64,1944,,Aktuel værdi
+Nordlundevej 14913 Horslunde,unde,328.000,18-08-2003,Alm. Salg,4.823,5,Villa,68,1850,,Aktuel værdi
+Hydestræde 44913 Horslunde,unde,180.000,08-08-2003,Alm. Salg,1.956,3,Villa,92,1850,,Aktuel værdi
+Hedemøllevej 294913 Horslunde,unde,435.000,04-07-2003,Alm. Salg,2.770,7,Villa,157,1925,,Aktuel værdi
+Byskovvej 874913 Horslunde,unde,290.240,01-07-2003,Alm. Salg,3.224,4,Sommerhus,90,1877,,Aktuel værdi
+Basevej 164913 Horslunde,unde,185.000,19-06-2003,Alm. Salg,2.283,2,Villa,81,1908,,Aktuel værdi
+Hovedgaden 154913 Horslunde,unde,625.000,16-06-2003,Alm. Salg,3.289,6,Villa,190,1910,,Aktuel værdi
+Bjælkehovedvej 144913 Horslunde,unde,219.000,09-06-2003,Alm. Salg,912,5,Villa,240,1750,,Aktuel værdi
+Byskovvej 724913 Horslunde,unde,566.259,29-05-2003,Alm. Salg,5.101,3,Villa,111,1983,,Aktuel værdi
+Vadbrovej 224913 Horslunde,unde,699.000,09-05-2003,Alm. Salg,3.328,7,Villa,210,1920,,Aktuel værdi
+Nakskovvej 724913 Horslunde,unde,393.924,06-05-2003,Alm. Salg,3.787,2,Villa,104,1910,,Aktuel værdi
+Byskovvej 24913 Horslunde,unde,265.767,22-04-2003,Fam. Salg,1.771,4,Villa,150,1941,,Aktuel værdi
+Egholmvej 274913 Horslunde,unde,305.590,16-04-2003,Alm. Salg,1.958,7,Villa,156,1917,,Aktuel værdi
+Byskovvej 964913 Horslunde,unde,350.000,15-04-2003,Alm. Salg,4.861,5,Villa,72,1919,,Aktuel værdi
+Bjælkehovedvej 314913 Horslunde,unde,1.000.000,14-04-2003,Andet,4.081,9,Stuehus,245,1853,,
+Bryggerivej 714913 Horslunde,unde,391.000,24-02-2003,Alm. Salg,1.888,7,Villa,207,1899,,Aktuel værdi
+Nørrevænget 84913 Horslunde,unde,850.000,14-01-2003,Alm. Salg,5.312,6,Villa,160,1972,,Aktuel værdi
+Bryggerivej 644913 Horslunde,unde,850.000,13-12-2002,Alm. Salg,4.404,4,Villa,193,1980,,Aktuel værdi
+Kasbækvej 544913 Horslunde,unde,858.799,09-12-2002,Fam. Salg,3.134,9,Villa,274,1911,,Aktuel værdi
+Rødkildevej 164913 Horslunde,unde,775.000,06-12-2002,Alm. Salg,4.479,5,Villa,173,1977,,Aktuel værdi
+Gallevej 194913 Horslunde,unde,1.175.000,06-12-2002,Alm. Salg,5.245,7,Stuehus,224,1913,,
+Jernbanevej 134913 Horslunde,unde,490.000,21-10-2002,Alm. Salg,3.920,5,Villa,125,1946,,Aktuel værdi
+Toftevej 934913 Horslunde,unde,795.000,08-10-2002,Alm. Salg,6.259,5,Villa,127,1938,,Aktuel værdi
+Gallevej 704913 Horslunde,unde,219.000,02-10-2002,Alm. Salg,1.766,5,Villa,124,1850,,Aktuel værdi
+Keldsløkkevej 374913 Horslunde,unde,1.670.970,30-09-2002,Alm. Salg,7.296,5,Villa,229,1777,,Aktuel værdi
+Gallevej 664913 Horslunde,unde,290.000,30-09-2002,Alm. Salg,3.452,3,Villa,84,1900,,Aktuel værdi
+Hans Fugls Vej 114913 Horslunde,unde,1.100.000,26-09-2002,Alm. Salg,5.945,5,Villa,185,1980,,Aktuel værdi
+Pederstrupvej 844913 Horslunde,unde,430.000,29-08-2002,Alm. Salg,3.583,5,Villa,120,1904,,Aktuel værdi
+Bøgetvej 1044913 Horslunde,unde,260.000,27-08-2002,Alm. Salg,1.830,6,Villa,142,1877,,Aktuel værdi
+Bøgetvej 114913 Horslunde,unde,17.500,24-08-2002,Alm. Salg,-,1,Villa,72,1947,,Aktuel værdi
+Ørsløkkevej 614913 Horslunde,unde,340.000,10-08-2002,Alm. Salg,1.847,5,Villa,184,1900,,Aktuel værdi
+Byskovvej 304913 Horslunde,unde,420.000,29-07-2002,Alm. Salg,2.692,4,Villa,156,1909,,Aktuel værdi
+Bøgetvej 724913 Horslunde,unde,242.066,27-07-2002,Alm. Salg,2.200,3,Villa,110,1900,,Aktuel værdi
+Strandpromenaden 304913 Horslunde,unde,394.000,10-07-2002,Alm. Salg,3.517,3,Sommerhus,112,1900,,Aktuel værdi
+Hedemøllevej 404913 Horslunde,unde,265.000,10-07-2002,Alm. Salg,2.054,5,Villa,129,1910,,Aktuel værdi
+Gallevej 554913 Horslunde,unde,1.000.000,05-07-2002,Alm. Salg,5.464,5,Villa,183,1938,,Aktuel værdi
+Bulbrovej 284913 Horslunde,unde,300.000,02-07-2002,Alm. Salg,1.612,3,Stuehus,186,1921,,
+Hothersvej 254913 Horslunde,unde,1.910.699,02-07-2002,Fam. Salg,7.704,5,Stuehus,248,2012,,
+Gallevej 354913 Horslunde,unde,144.895,21-06-2002,Alm. Salg,2.375,3,Villa,61,1928,,Aktuel værdi
+Gallevej 84913 Horslunde,unde,364.000,04-06-2002,Alm. Salg,3.111,3,Villa,117,1950,,Aktuel værdi
+Viboltvej 194913 Horslunde,unde,585.000,03-06-2002,Alm. Salg,5.467,6,Villa,107,1870,,Aktuel værdi
+Nørrevænget 94913 Horslunde,unde,750.000,19-05-2002,Alm. Salg,-,6,Villa,167,1971,,Aktuel værdi
+Hovedgaden 314913 Horslunde,unde,380.000,14-05-2002,Alm. Salg,3.089,5,Villa,123,1908,,Aktuel værdi
+Bryggerivej 774913 Horslunde,unde,535.383,14-05-2002,Alm. Salg,3.410,5,Villa,157,1925,,Aktuel værdi
+Byskovvej 274913 Horslunde,unde,200.000,10-05-2002,Alm. Salg,2.564,3,Villa,78,1874,,Aktuel værdi
+Gallevej 744913 Horslunde,unde,230.000,01-05-2002,Alm. Salg,2.395,2,Villa,96,1800,,Aktuel værdi
+Viemosevej 374913 Horslunde,unde,250.000,24-04-2002,Alm. Salg,1.623,4,Villa,154,1925,,Aktuel værdi
+Nordlundevej 6D4913 Horslunde,unde,474.832,15-04-2002,Fam. Salg,2.525,6,Villa,188,1882,,Aktuel værdi
+Gl. Kastagervej 274913 Horslunde,unde,385.349,09-04-2002,Alm. Salg,-,5,Villa,196,1850,,Aktuel værdi
+Pindshulevej 44913 Horslunde,unde,640.000,04-04-2002,Alm. Salg,3.657,5,Stuehus,175,1877,,
+Egholmvej 724913 Horslunde,unde,109.545,18-03-2002,Alm. Salg,1.190,3,Villa,92,1875,,Aktuel værdi
+H. C. Skottesvej 74913 Horslunde,unde,324.843,11-03-2002,Alm. Salg,2.849,5,Villa,114,1939,,Aktuel værdi
+Hans Fugls Vej 214913 Horslunde,unde,50.500,22-02-2002,Alm. Salg,208,9,Villa,242,2004,,Aktuel værdi
+Hovedgaden 134913 Horslunde,unde,395.000,18-02-2002,Alm. Salg,3.434,5,Villa,115,1902,,Aktuel værdi
+Maglehøjvej 194913 Horslunde,unde,650.000,08-01-2002,Alm. Salg,2.838,6,Villa,229,1800,,Aktuel værdi
+Bryggerivej 1014913 Horslunde,unde,250.000,20-12-2001,Alm. Salg,2.136,5,Villa,117,1910,,Aktuel værdi
+Lillevej 244913 Horslunde,unde,365.000,18-12-2001,Alm. Salg,2.281,6,Villa,160,1850,,Aktuel værdi
+Nylandsvej 274913 Horslunde,unde,749.496,10-12-2001,Alm. Salg,3.230,8,Villa,232,1976,,Aktuel værdi
+Basevej 564913 Horslunde,unde,229.302,10-12-2001,Alm. Salg,1.959,5,Villa,117,1898,,Aktuel værdi
+Toftevej 1554913 Horslunde,unde,167.085,16-10-2001,Alm. Salg,1.740,3,Villa,96,1800,,Aktuel værdi
+Bryggerivej 84913 Horslunde,unde,300.000,19-09-2001,Alm. Salg,2.830,4,Villa,106,1928,,Aktuel værdi
+Lillevej 74913 Horslunde,unde,140.000,11-09-2001,Alm. Salg,2.372,3,Villa,59,1877,,Aktuel værdi
+Viemosevej 764913 Horslunde,unde,335.000,28-08-2001,Alm. Salg,1.861,4,Villa,180,1923,,Aktuel værdi
+Viemosevej 754913 Horslunde,unde,425.000,27-06-2001,Alm. Salg,3.171,3,Villa,134,1967,,Aktuel værdi
+Toftevej 1214913 Horslunde,unde,278.000,18-06-2001,Alm. Salg,3.021,2,Villa,92,1963,,Aktuel værdi
+Nørrevænget 54913 Horslunde,unde,570.000,18-06-2001,Andet,3.518,6,Villa,162,1972,,Aktuel værdi
+Vesterled 74913 Horslunde,unde,560.000,15-06-2001,Alm. Salg,3.809,5,Villa,147,1973,,Aktuel værdi
+Bøgetvej 664913 Horslunde,unde,300.000,11-06-2001,Alm. Salg,3.125,4,Villa,96,1940,,Aktuel værdi
+Byskovvej 764913 Horslunde,unde,306.000,10-06-2001,Fam. Salg,2.266,4,Villa,135,1924,,Aktuel værdi
+Viemosevej 694913 Horslunde,unde,300.000,22-05-2001,Alm. Salg,2.158,6,Villa,139,1918,,Aktuel værdi
+Vadbrovej 84913 Horslunde,unde,565.000,22-05-2001,Alm. Salg,2.269,10,Villa,249,1777,,Aktuel værdi
+Byskovvej 704913 Horslunde,unde,245.000,21-05-2001,Alm. Salg,3.500,3,Villa,70,1900,,Aktuel værdi
+Sjalevejen 244913 Horslunde,unde,550.000,30-04-2001,Alm. Salg,2.925,6,Villa,188,1890,,Aktuel værdi
+Nordlundevej 34913 Horslunde,unde,775.000,27-04-2001,Alm. Salg,4.558,8,Villa,170,1863,,Aktuel værdi
+H. C. Skottesvej 134913 Horslunde,unde,325.000,26-04-2001,Alm. Salg,2.685,5,Villa,121,1936,,Aktuel værdi
+Nordlundevej 554913 Horslunde,unde,1.180.000,06-04-2001,Fam. Salg,4.275,8,Stuehus,276,1876,,
+Marrebæksvej 364913 Horslunde,unde,800.000,02-04-2001,Alm. Salg,6.153,4,Stuehus,130,1920,,
+Gallevej 844913 Horslunde,unde,279.973,30-03-2001,Alm. Salg,-,6,Villa,178,1927,,Aktuel værdi
+Møllevænget 204913 Horslunde,unde,695.730,26-03-2001,Alm. Salg,5.041,5,Villa,138,1970,,Aktuel værdi
+Langesøvej 84913 Horslunde,unde,205.737,10-03-2001,Andet,1.714,4,Villa,120,1897,,Aktuel værdi
+Toftevej 1434913 Horslunde,unde,35.000,07-03-2001,Alm. Salg,388,3,Villa,90,1900,,Aktuel værdi
+Egholmvej 414913 Horslunde,unde,143.546,07-02-2001,Andet,755,8,Stuehus,190,1850,,
+H. C. Skottesvej 264913 Horslunde,unde,291.237,31-01-2001,Alm. Salg,2.577,5,Villa,113,1934,,Aktuel værdi
+Lille-Tværvej 54913 Horslunde,unde,100.000,30-01-2001,Alm. Salg,571,6,Villa,175,2002,,Aktuel værdi
+Nordre Strandvej 24913 Horslunde,unde,475.000,17-01-2001,Alm. Salg,2.595,3,Villa,183,1900,,Aktuel værdi
+Jernbanevej 194913 Horslunde,unde,537.000,13-01-2001,Alm. Salg,3.487,4,Villa,154,1929,,Aktuel værdi
+Ørsløkkevej 354913 Horslunde,unde,142.000,03-01-2001,Alm. Salg,728,4,Villa,195,1827,,Aktuel værdi
+Bryggerivej 914913 Horslunde,unde,309.789,22-12-2000,Alm. Salg,2.136,5,Villa,145,1899,,Aktuel værdi
+Pederstrupvej 474913 Horslunde,unde,270.539,18-12-2000,Alm. Salg,5.104,3,Villa,53,1777,,Aktuel værdi
+Viboltvej 294913 Horslunde,unde,690.000,11-12-2000,Alm. Salg,4.964,4,Villa,139,2002,,Aktuel værdi
+Maglehøjvej 364913 Horslunde,unde,835.000,05-11-2000,Alm. Salg,5.387,6,Villa,155,1923,,Aktuel værdi
+Dyssevej 184913 Horslunde,unde,340.843,26-09-2000,Alm. Salg,3.246,3,Sommerhus,105,1827,,Aktuel værdi
+Gallevej 584913 Horslunde,unde,346.047,19-09-2000,Alm. Salg,2.190,4,Villa,158,1917,,Aktuel værdi
+Toftevej 1174913 Horslunde,unde,280.000,28-08-2000,Alm. Salg,-,5,Villa,275,1892,,Aktuel værdi
+Strandpromenaden 354913 Horslunde,unde,275.000,27-08-2000,Alm. Salg,3.160,3,Sommerhus,87,1850,,Aktuel værdi
+Lillevej 64913 Horslunde,unde,180.000,23-08-2000,Alm. Salg,1.232,2,Villa,146,1850,,Aktuel værdi
+Langesøvej 184913 Horslunde,unde,375.000,11-08-2000,Alm. Salg,1.884,8,Villa,199,1917,,Aktuel værdi
+Gallevej 634913 Horslunde,unde,428.146,28-06-2000,Alm. Salg,-,7,Villa,182,1927,,Aktuel værdi
+Kasbækvej 634913 Horslunde,unde,100.000,26-06-2000,Alm. Salg,1.562,5,Sommerhus,64,1877,,Aktuel værdi
+Pindshulevej 334913 Horslunde,unde,4.000.000,22-05-2000,Fam. Salg,23.809,10,Stuehus,168,1837,,
+Hovedgaden 494913 Horslunde,unde,590.000,20-05-2000,Alm. Salg,3.277,7,Villa,180,1911,,Aktuel værdi
+Bøgetvej 1354913 Horslunde,unde,461.000,03-05-2000,Alm. Salg,3.292,4,Villa,140,1950,,Aktuel værdi
+Byskovvej 1114913 Horslunde,unde,375.000,28-04-2000,Alm. Salg,-,7,Villa,178,1903,,Aktuel værdi
+Bulbrovej 244913 Horslunde,unde,420.000,23-02-2000,Alm. Salg,3.925,5,Villa,107,1910,,Aktuel værdi
+H. C. Skottesvej 254913 Horslunde,unde,202.396,21-02-2000,Andet,1.533,7,Villa,132,1948,,Aktuel værdi
+Bøgetvej 1084913 Horslunde,unde,204.000,17-02-2000,Alm. Salg,1.854,4,Villa,110,1877,,Aktuel værdi
+Bryggerivej 94913 Horslunde,unde,1.250.000,20-01-2000,Alm. Salg,8.278,3,Villa,151,1935,,Aktuel værdi
+Lille-Tværvej 94913 Horslunde,unde,425.350,19-11-1999,Alm. Salg,3.104,4,Villa,137,1981,,Aktuel værdi
+Bryggerivej 734913 Horslunde,unde,336.004,05-11-1999,Alm. Salg,2.947,5,Villa,114,1890,,Aktuel værdi
+Gallevej 734913 Horslunde,unde,175.000,26-10-1999,Alm. Salg,1.458,4,Villa,120,1850,,Aktuel værdi
+Rødkildevej 104913 Horslunde,unde,549.999,13-10-1999,Alm. Salg,6.111,3,Villa,90,1980,,Aktuel værdi
+Egholmvej 34913 Horslunde,unde,120.000,27-09-1999,Alm. Salg,2.000,2,Villa,60,1840,,Aktuel værdi
+Kragenakkevej 464913 Horslunde,unde,135.000,16-07-1999,Alm. Salg,1.184,5,Villa,114,1870,,Aktuel værdi
+Madevejen 404913 Horslunde,unde,306.880,15-07-1999,Alm. Salg,4.384,3,Villa,70,1900,,Aktuel værdi
+Hedemøllevej 444913 Horslunde,unde,175.000,05-07-1999,Alm. Salg,2.272,3,Villa,77,1905,,Aktuel værdi
+Langesøvej 394913 Horslunde,unde,2.460.000,05-07-1999,Fam. Salg,21.391,5,Stuehus,115,1777,,
+Madevejen 254913 Horslunde,unde,206.930,14-06-1999,Alm. Salg,2.722,3,Villa,76,1917,,Aktuel værdi
+Langesøvej 174913 Horslunde,unde,167.000,08-06-1999,Alm. Salg,-,2,Villa,68,1800,,Aktuel værdi
+Bulbrovej 404913 Horslunde,unde,628.528,02-06-1999,Alm. Salg,3.928,5,Villa,160,1900,,Aktuel værdi
+Viemosevej 304913 Horslunde,unde,415.000,31-05-1999,Alm. Salg,1.886,7,Villa,220,1920,,Aktuel værdi
+Uglevejen 164913 Horslunde,unde,400.000,29-05-1999,Alm. Salg,-,9,Sommerhus,211,1800,,Aktuel værdi
+Bryggerivej 404913 Horslunde,unde,230.000,10-05-1999,Fam. Salg,2.090,6,Villa,110,1930,,Aktuel værdi
+Hovedgaden 244913 Horslunde,unde,660.000,03-05-1999,Alm. Salg,3.882,6,Villa,170,1910,,Aktuel værdi
+Klinkevej 434913 Horslunde,unde,381.000,04-03-1999,Alm. Salg,1.731,5,Villa,220,1923,,Aktuel værdi
+Egholmvej 304913 Horslunde,unde,232.500,20-02-1999,Alm. Salg,1.937,4,Villa,120,1920,,Aktuel værdi
+Egholmvej 234913 Horslunde,unde,356.000,19-02-1999,Alm. Salg,3.560,3,Villa,100,1900,,Aktuel værdi
+Nordlundevej 354913 Horslunde,unde,1.955.000,15-02-1999,Fam. Salg,13.964,6,Stuehus,140,1890,,
+Bøgetvej 544913 Horslunde,unde,360.000,16-11-1998,Alm. Salg,4.186,3,Villa,86,1940,,Aktuel værdi
+Bøgetvej 364913 Horslunde,unde,65.000,09-11-1998,Alm. Salg,812,4,Villa,80,1930,,Aktuel værdi
+Viemosevej 484913 Horslunde,unde,265.000,08-11-1998,Alm. Salg,2.523,3,Villa,105,1877,,Aktuel værdi
+Bjælkehovedvej 864913 Horslunde,unde,18.000,15-10-1998,Alm. Salg,155,4,Villa,116,2007,,Aktuel værdi
+Nylandsvej 174913 Horslunde,unde,793.191,20-09-1998,Alm. Salg,3.389,14,Villa,234,1975,,Aktuel værdi
+Bryggerivej 364913 Horslunde,unde,63.000,10-09-1998,Alm. Salg,768,3,Villa,82,1897,,Aktuel værdi
+Møllevænget 64913 Horslunde,unde,575.000,07-09-1998,Alm. Salg,3.709,5,Villa,155,1970,,Aktuel værdi
+Bøgetvej 1324913 Horslunde,unde,81.270,02-09-1998,Alm. Salg,796,3,Villa,102,1877,,Aktuel værdi
+Hydestræde 54913 Horslunde,unde,290.000,27-08-1998,Alm. Salg,3.536,3,Villa,82,1877,,Aktuel værdi
+Husmandsvejen 284913 Horslunde,unde,350.000,20-08-1998,Alm. Salg,1.245,7,Villa,281,1854,,Aktuel værdi
+Pederstrupvej 1084913 Horslunde,unde,140.000,19-08-1998,Fam. Salg,1.818,3,Villa,77,1920,,Aktuel værdi
+Pederstrupvej 1154913 Horslunde,unde,170.000,15-08-1998,Alm. Salg,1.666,6,Villa,102,1910,,Aktuel værdi
+Munkevejen 204913 Horslunde,unde,298.000,13-07-1998,Alm. Salg,5.137,3,Sommerhus,58,1850,,Aktuel værdi
+Bulbrovej 514913 Horslunde,unde,250.400,08-06-1998,Alm. Salg,2.608,2,Villa,96,1985,,Aktuel værdi
+H. C. Skottesvej 164913 Horslunde,unde,379.000,08-06-1998,Alm. Salg,2.059,4,Villa,184,1935,,Aktuel værdi
+Gl. Kastagervej 314913 Horslunde,unde,1.995.000,08-05-1998,Fam. Salg,7.416,7,Stuehus,269,1932,,
+Nylandsvej 64913 Horslunde,unde,805.000,06-05-1998,Alm. Salg,4.398,5,Villa,183,1973,,Aktuel værdi
+Byskovvej 944913 Horslunde,unde,258.000,06-05-1998,Alm. Salg,-,3,Villa,134,1919,,Aktuel værdi
+Viemosevej 724913 Horslunde,unde,253.480,24-04-1998,Alm. Salg,3.017,3,Villa,84,1910,,Aktuel værdi
+Markstien 14913 Horslunde,unde,262.870,23-04-1998,Alm. Salg,2.102,4,Villa,125,1877,,Aktuel værdi
+Kasbækvej 154913 Horslunde,unde,414.000,03-04-1998,Alm. Salg,2.555,5,Villa,162,1890,,Aktuel værdi
+Gl. Kastagervej 294913 Horslunde,unde,701.250,08-03-1998,Fam. Salg,3.710,8,Stuehus,189,1925,,
+Nakskovvej 784913 Horslunde,unde,103.000,06-03-1998,Alm. Salg,911,4,Villa,113,1910,,Aktuel værdi
+Gallevej 494913 Horslunde,unde,124.000,11-02-1998,Alm. Salg,961,6,Villa,129,1913,,Aktuel værdi
+Viemosevej 454913 Horslunde,unde,182.000,24-12-1997,Alm. Salg,1.516,3,Villa,120,1920,,Aktuel værdi
+Gallevej 614913 Horslunde,unde,170.000,18-12-1997,Alm. Salg,1.888,4,Villa,90,1912,,Aktuel værdi
+Byskovvej 424913 Horslunde,unde,287.456,20-11-1997,Alm. Salg,1.982,5,Villa,145,1903,,Aktuel værdi
+Gallevej 294913 Horslunde,unde,245.000,20-11-1997,Alm. Salg,2.606,5,Villa,94,1909,,Aktuel værdi
+Gallevej 644913 Horslunde,unde,477.000,31-10-1997,Alm. Salg,2.679,7,Villa,178,1912,,Aktuel værdi
+Keldsløkkevej 104913 Horslunde,unde,340.000,22-10-1997,Alm. Salg,3.400,4,Villa,100,1900,,Aktuel værdi
+Maglehøjvej 24913 Horslunde,unde,291.580,13-10-1997,Alm. Salg,2.260,3,Villa,129,1964,,Aktuel værdi
+Nakskovvej 884913 Horslunde,unde,430.000,06-10-1997,Alm. Salg,4.134,4,Villa,104,1942,,Aktuel værdi
+Strandpromenaden 474913 Horslunde,unde,300.000,19-09-1997,Alm. Salg,-,4,Sommerhus,151,1952,,Aktuel værdi
+Hovedgaden 64913 Horslunde,unde,600.000,08-09-1997,Alm. Salg,3.797,7,Anden beboelse,158,1952,,Aktuel værdi
+Viemosevej 434913 Horslunde,unde,179.000,07-08-1997,Fam. Salg,860,8,Villa,208,1899,,Aktuel værdi
+Pederstrupvej 284913 Horslunde,unde,375.000,04-07-1997,Alm. Salg,2.640,4,Villa,142,1963,,Aktuel værdi
+Kasbækvej 34913 Horslunde,unde,3.186.500,30-06-1997,Fam. Salg,18.419,5,Stuehus,173,1983,,
+Vejlevejen 354913 Horslunde,unde,557.000,17-06-1997,Alm. Salg,2.390,7,Villa,233,1877,,Aktuel værdi
+Nakskovvej 1514913 Horslunde,unde,67.300,11-06-1997,Fam. Salg,747,2,Villa,90,1937,,Aktuel værdi
+Husmandsvejen 494913 Horslunde,unde,272.000,28-05-1997,Alm. Salg,4.121,3,Sommerhus,66,1827,,Aktuel værdi
+Viemosevej 794913 Horslunde,unde,57.000,18-05-1997,Alm. Salg,600,4,Sommerhus,95,1907,,Aktuel værdi
+Gallevej 654913 Horslunde,unde,178.000,13-05-1997,Alm. Salg,1.219,8,Villa,146,1917,,Aktuel værdi
+Langesø Tværvej 64913 Horslunde,unde,195.000,16-04-1997,Alm. Salg,1.335,5,Villa,146,1895,,Aktuel værdi
+Keldsløkkevej 254913 Horslunde,unde,525.000,10-04-1997,Alm. Salg,4.772,4,Stuehus,110,1967,,
+Bjælkehovedvej 124913 Horslunde,unde,135.000,06-04-1997,Alm. Salg,1.500,2,Villa,90,1877,,Aktuel værdi
+Fasanvej 124913 Horslunde,unde,1.000.000,10-03-1997,Fam. Salg,8.849,4,Stuehus,113,1928,,
+Egholmvej 204913 Horslunde,unde,2.250.000,05-03-1997,Alm. Salg,18.750,5,Stuehus,120,1966,,
+Jernbanevej 214913 Horslunde,unde,333.663,04-02-1997,Andet,-,6,Villa,182,1927,,Aktuel værdi
+Bøgetvej 1664913 Horslunde,unde,5.000.000,19-01-1997,Alm. Salg,25.000,6,Stuehus,200,1870,,
+Øksengårdvej 14913 Horslunde,unde,180.000,01-01-1997,Fam. Salg,1.914,4,Sommerhus,94,1777,,Aktuel værdi
+Egholmvej 294913 Horslunde,unde,182.000,14-10-1996,Alm. Salg,2.022,4,Villa,90,1880,,Aktuel værdi
+Hothersvej 264913 Horslunde,unde,270.000,30-09-1996,Alm. Salg,1.928,5,Sommerhus,140,1902,,Aktuel værdi
+Langesøvej 554913 Horslunde,unde,195.000,18-09-1996,Alm. Salg,994,6,Villa,196,1845,,Aktuel værdi
+Pindshulevej 64913 Horslunde,unde,160.000,17-09-1996,Alm. Salg,930,8,Villa,172,1898,,Aktuel værdi
+Bryggerivej 1074913 Horslunde,unde,300.000,26-08-1996,Fam. Salg,2.205,4,Villa,136,1875,,Aktuel værdi
+Vadbrovej 504913 Horslunde,unde,240.000,26-08-1996,Alm. Salg,2.608,5,Villa,92,1920,,Aktuel værdi
+Byskovvej 824913 Horslunde,unde,235.000,16-08-1996,Alm. Salg,2.473,4,Villa,95,1900,,Aktuel værdi
+Byskovvej 244913 Horslunde,unde,130.000,12-08-1996,Alm. Salg,1.181,4,Villa,110,1900,,Aktuel værdi
+Strandpromenaden 124913 Horslunde,unde,332.340,28-06-1996,Alm. Salg,2.498,3,Villa,133,1827,,Aktuel værdi
+Klinkevej 254913 Horslunde,unde,4.100.000,24-06-1996,Fam. Salg,24.698,6,Stuehus,166,1950,,
+H. C. Skottesvej 34913 Horslunde,unde,76.565,18-06-1996,Alm. Salg,832,6,Villa,92,1930,,Aktuel værdi
+Hovedgaden 284913 Horslunde,unde,325.000,29-05-1996,Alm. Salg,-,4,Villa,250,1897,,Aktuel værdi
+Klinkevej 174913 Horslunde,unde,150.000,08-05-1996,Alm. Salg,1.363,6,Villa,110,1916,,Aktuel værdi
+Nakskovvej 1014913 Horslunde,unde,86.420,08-04-1996,Andet,758,2,Villa,114,1914,,Aktuel værdi
+Hovedgaden 454913 Horslunde,unde,300.000,06-03-1996,Alm. Salg,2.142,4,Villa,140,1914,,Aktuel værdi
+Bøgetvej 154913 Horslunde,unde,350.000,19-02-1996,Alm. Salg,2.868,6,Villa,122,1800,,Aktuel værdi
+Møllevænget 84913 Horslunde,unde,503.000,14-12-1995,Alm. Salg,3.353,3,Villa,150,1968,,Aktuel værdi
+Egholm Strandvej 54913 Horslunde,unde,308.800,13-10-1995,Alm. Salg,3.431,2,Sommerhus,90,1900,,Aktuel værdi
+Byskovvej 744913 Horslunde,unde,110.000,19-09-1995,Alm. Salg,1.527,2,Villa,72,1907,,Aktuel værdi
+Husmandsvejen 324913 Horslunde,unde,416.642,21-08-1995,Alm. Salg,1.388,8,Villa,300,1817,,Aktuel værdi
+Nakskovvej 684913 Horslunde,unde,275.000,14-08-1995,Alm. Salg,-,9,Villa,250,1920,,Aktuel værdi
+Egholmvej 434913 Horslunde,unde,60.000,10-08-1995,Alm. Salg,123,15,Villa,486,1922,,Aktuel værdi
+Højlundsvej 104913 Horslunde,unde,300.000,11-07-1995,Alm. Salg,2.419,4,Villa,124,1913,,Aktuel værdi
+Møllevænget 144913 Horslunde,unde,525.000,02-07-1995,Alm. Salg,-,6,Villa,148,1972,,Aktuel værdi
+Pindshulevej 314913 Horslunde,unde,375.000,29-06-1995,Alm. Salg,2.083,4,Villa,180,1850,,Aktuel værdi
+Højevej 94913 Horslunde,unde,260.000,27-06-1995,Alm. Salg,-,4,Villa,145,1926,,Aktuel værdi
+Pederstrupvej 984913 Horslunde,unde,495.000,23-06-1995,Alm. Salg,2.647,6,Villa,187,1975,,Aktuel værdi
+Nakskovvej 644913 Horslunde,unde,152.000,21-06-1995,Auktion,756,5,Villa,201,1900,,Aktuel værdi
+Møllevænget 134913 Horslunde,unde,500.000,28-04-1995,Alm. Salg,3.472,5,Villa,144,1969,,Aktuel værdi
+Basevej 144913 Horslunde,unde,106.000,30-03-1995,Alm. Salg,1.177,4,Villa,90,1910,,Aktuel værdi
+Højlundsvej 294913 Horslunde,unde,250.000,15-03-1995,Alm. Salg,2.336,3,Sommerhus,107,1706,,Aktuel værdi
+Byskovvej 404913 Horslunde,unde,42.000,20-02-1995,Alm. Salg,656,3,Villa,64,1900,,Aktuel værdi
+Byskovvej 804913 Horslunde,unde,50.000,26-01-1995,Alm. Salg,555,4,Villa,90,1904,,Aktuel værdi
+Pederstrupvej 534913 Horslunde,unde,260.000,12-01-1995,Alm. Salg,1.656,6,Villa,157,1908,,Aktuel værdi
+Østerskoven 64913 Horslunde,unde,450.000,02-01-1995,Alm. Salg,3.146,4,Villa,143,1930,,Aktuel værdi
+Langesøvej 224913 Horslunde,unde,402.000,31-12-1994,Alm. Salg,2.364,4,Villa,170,1725,,Aktuel værdi
+Nylandsvej 94913 Horslunde,unde,580.000,01-12-1994,Alm. Salg,4.393,5,Villa,132,1973,,Aktuel værdi
+Nakskovvej 1444913 Horslunde,unde,340.000,28-11-1994,Alm. Salg,2.575,5,Villa,132,1900,,Aktuel værdi
+Sundvej 114913 Horslunde,unde,397.000,17-11-1994,Alm. Salg,2.111,5,Villa,188,1921,,Aktuel værdi
+Orehavevej 194913 Horslunde,unde,315.250,30-10-1994,Alm. Salg,2.627,4,Villa,120,1827,,Aktuel værdi
+Gallevej 894913 Horslunde,unde,135.000,07-09-1994,Alm. Salg,1.607,3,Villa,84,1903,,Aktuel værdi
+Byskovvej 444913 Horslunde,unde,135.000,08-08-1994,Alm. Salg,-,4,Villa,124,1900,,Aktuel værdi
+Bøgetvej 444913 Horslunde,unde,175.000,06-08-1994,Alm. Salg,1.080,3,Villa,162,1937,,Aktuel værdi
+Nordre Strandvej 84913 Horslunde,unde,475.000,16-07-1994,Alm. Salg,3.166,3,Sommerhus,150,1910,,Aktuel værdi
+Bulbrovej 474913 Horslunde,unde,1.180.000,08-07-1994,Alm. Salg,3.056,9,Villa,386,1890,,Aktuel værdi
+Viemosevej 264913 Horslunde,unde,190.000,05-07-1994,Alm. Salg,1.032,6,Villa,184,1943,,Aktuel værdi
+Toftevej 424913 Horslunde,unde,170.000,30-05-1994,Fam. Salg,1.770,4,Villa,96,1822,,Aktuel værdi
+Reventlowvej 224913 Horslunde,unde,175.000,07-05-1994,Alm. Salg,2.187,3,Villa,80,1880,,Aktuel værdi
+Ørsløkkevej 534913 Horslunde,unde,365.000,03-05-1994,Alm. Salg,2.239,6,Villa,163,1955,,Aktuel værdi
+Egholmvej 394913 Horslunde,unde,225.000,27-04-1994,Alm. Salg,1.500,4,Villa,150,1887,,Aktuel værdi
+Bryggerivej 864913 Horslunde,unde,395.000,25-04-1994,Alm. Salg,2.393,6,Villa,165,1906,,Aktuel værdi
+Lundevej 104913 Horslunde,unde,215.000,30-03-1994,Alm. Salg,-,9,Villa,232,1827,,Aktuel værdi
+Toftevej 1344913 Horslunde,unde,20.000,09-03-1994,Alm. Salg,-,9,Villa,160,1853,,Aktuel værdi
+Pederstrupvej 164913 Horslunde,unde,179.000,22-01-1994,Alm. Salg,1.721,3,Villa,104,1825,,Aktuel værdi
+Ørsløkkevej 504913 Horslunde,unde,351.400,21-01-1994,Alm. Salg,2.374,4,Villa,148,1827,,Aktuel værdi
+Basevej 584913 Horslunde,unde,185.000,09-01-1994,Alm. Salg,1.554,4,Villa,119,1890,,Aktuel værdi
+Bøgetvej 1964913 Horslunde,unde,185.064,31-10-1993,Alm. Salg,2.177,4,Villa,85,1912,,Aktuel værdi
+"Hedemøllevej 22, ST. 14913 Horslunde",unde,225.000,16-08-1993,Alm. Salg,1.278,6,Villa,176,1900,,Aktuel værdi
+Nordlundevej 50B4913 Horslunde,unde,246.000,11-08-1993,Alm. Salg,1.795,5,Sommerhus,137,1877,,Aktuel værdi
+Hothersvej 294913 Horslunde,unde,205.000,26-07-1993,Fam. Salg,2.469,3,Sommerhus,83,1927,,Aktuel værdi
+Kasbækvej 1104913 Horslunde,unde,5.896,26-07-1993,Auktion,49,4,Villa,120,1900,,Aktuel værdi
+Egholm Strandvej 114913 Horslunde,unde,169.676,15-07-1993,Alm. Salg,725,7,Villa,234,1877,,Aktuel værdi
+Bøgetvej 1764913 Horslunde,unde,175.000,28-06-1993,Alm. Salg,1.902,4,Villa,92,1915,,Aktuel værdi
+H. C. Skottesvej 54913 Horslunde,unde,173.000,28-06-1993,Alm. Salg,1.067,5,Villa,162,1934,,Aktuel værdi
+Basevej 544913 Horslunde,unde,60.000,16-06-1993,Alm. Salg,560,5,Sommerhus,107,1890,,Aktuel værdi
+Nordre Strandvej 64913 Horslunde,unde,198.000,15-06-1993,Alm. Salg,2.675,2,Villa,74,1923,,Aktuel værdi
+Toftevej 444913 Horslunde,unde,82.000,11-06-1993,Alm. Salg,1.171,4,Villa,70,1827,,Aktuel værdi
+Hedemøllevej 194913 Horslunde,unde,303.261,27-05-1993,Alm. Salg,775,12,Stuehus,391,1879,,
+Gallevej 784913 Horslunde,unde,140.500,03-05-1993,Alm. Salg,846,6,Villa,166,1900,,Aktuel værdi
+Nordlundevej 624913 Horslunde,unde,50.000,06-04-1993,Alm. Salg,357,5,Villa,140,1749,,Aktuel værdi
+Toftevej 1294913 Horslunde,unde,136.000,23-02-1993,Fam. Salg,1.700,6,Villa,80,1920,,Aktuel værdi
+Gallevej 414913 Horslunde,unde,331.288,09-11-1992,Alm. Salg,2.366,5,Villa,140,1906,,Aktuel værdi
+Bøgetvej 174913 Horslunde,unde,170.000,27-08-1992,Alm. Salg,1.214,5,Villa,140,1950,,Aktuel værdi
+Sjalevejen 184913 Horslunde,unde,2.800.000,20-08-1992,Alm. Salg,18.666,5,Villa,150,1750,,Aktuel værdi
+Højevej 54913 Horslunde,unde,270.000,08-08-1992,Alm. Salg,2.327,5,Villa,116,1910,,Aktuel værdi
+Keldsløkkevej 454913 Horslunde,unde,3.000.000,26-06-1992,Fam. Salg,16.483,6,Villa,182,1927,,Aktuel værdi
+Højevej 34913 Horslunde,unde,395.000,26-05-1992,Alm. Salg,1.845,5,Villa,214,1980,,Aktuel værdi
+Viemosevej 254913 Horslunde,unde,283.000,18-03-1992,Alm. Salg,2.065,5,Villa,137,1915,,Aktuel værdi
+Basevej 74913 Horslunde,unde,184.000,12-03-1992,Alm. Salg,1.045,4,Villa,176,1930,,Aktuel værdi
+Nakskovvej 604913 Horslunde,unde,3.000.000,03-03-1992,Fam. Salg,9.316,10,Stuehus,322,1920,,

@@ -1,0 +1,752 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Buskvej 36091 Bjert,jert,1.875.000,28-04-2017,Alm. Salg,31.250,3,Sommerhus,60,1994,-6 %,Aktuel værdi
+Kystvej 1206091 Bjert,jert,1.850.000,04-04-2017,Alm. Salg,28.030,4,Sommerhus,66,1984,-7 %,Aktuel værdi
+Gartnervænget 36091 Bjert,jert,1.000.000,31-03-2017,Alm. Salg,7.936,5,Villa,126,1917,,Aktuel værdi
+Tårnmosevej 16091 Bjert,jert,620.000,24-03-2017,Alm. Salg,7.380,4,Villa,84,1850,-11 %,Aktuel værdi
+Oluf Ravns Vej 496091 Bjert,jert,1.150.000,23-03-2017,Fam. Salg,17.424,4,Sommerhus,66,1993,,Aktuel værdi
+Bjert Strandvej 146091 Bjert,jert,525.000,17-03-2017,Alm. Salg,3.917,5,Villa,134,1937,-9 %,Aktuel værdi
+Gl. Binderup 2B6091 Bjert,jert,1.210.000,09-02-2017,Alm. Salg,9.603,4,Villa,126,1910,-3 %,Aktuel værdi
+Østerløkke 126091 Bjert,jert,1.645.000,06-02-2017,Alm. Salg,12.751,4,Villa,129,1986,-3 %,Aktuel værdi
+Åvænget 46091 Bjert,jert,1.450.000,30-12-2016,Alm. Salg,12.184,6,Villa,119,1969,-3 %,Aktuel værdi
+Kystvej 636091 Bjert,jert,1.504.141,22-12-2016,Fam. Salg,16.349,4,Sommerhus,92,1980,,Aktuel værdi
+Elbjerggyde 106091 Bjert,jert,735.000,20-12-2016,Alm. Salg,4.741,3,Villa,155,1763,,Aktuel værdi
+Binderupvej 166091 Bjert,jert,2.410.500,13-12-2016,Alm. Salg,9.271,9,Villa,260,1967,-3 %,Aktuel værdi
+Binderup Strandpark 686091 Bjert,jert,925.000,18-11-2016,Alm. Salg,22.023,3,Sommerhus,42,1984,-6 %,Aktuel værdi
+Sønderbyvej 216091 Bjert,jert,1.200.000,10-11-2016,Alm. Salg,8.391,5,Villa,143,1966,-7 %,Aktuel værdi
+Binderup Strandpark 586091 Bjert,jert,1.200.000,31-10-2016,Andet,14.117,4,Sommerhus,85,1983,,Aktuel værdi
+Mads Kehlets Vej 146091 Bjert,jert,2.575.000,25-10-2016,Alm. Salg,17.166,5,Villa,150,1900,-3 %,Aktuel værdi
+Engløkke 36091 Bjert,jert,860.000,21-10-2016,Alm. Salg,4.000,6,Villa,215,1878,-4 %,Aktuel værdi
+Binderup Strandpark 726091 Bjert,jert,1.200.000,12-10-2016,Alm. Salg,15.789,4,Sommerhus,76,1983,-7 %,Aktuel værdi
+Skrænten 206091 Bjert,jert,1.495.000,29-09-2016,Alm. Salg,12.056,5,Villa,124,1976,0 %,Aktuel værdi
+Kystvej 696091 Bjert,jert,3.700.000,20-09-2016,Alm. Salg,32.743,5,Sommerhus,113,2002,-7 %,Aktuel værdi
+Stenderupvej 456091 Bjert,jert,660.000,16-09-2016,Alm. Salg,6.226,4,Villa,106,1917,-17 %,Aktuel værdi
+Havevej 306091 Bjert,jert,900.000,10-09-2016,Fam. Salg,11.111,5,Villa,81,1951,,Aktuel værdi
+Løgervej 166091 Bjert,jert,1.135.250,09-09-2016,Alm. Salg,8.938,3,Villa,127,1964,3 %,Aktuel værdi
+Bjert Vestervang 206091 Bjert,jert,867.658,24-08-2016,Fam. Salg,5.355,6,Villa,162,1964,,Aktuel værdi
+Toftegårdsvej 146091 Bjert,jert,1.971.600,11-08-2016,Auktion,7.066,9,Villa,279,1877,-14 %,Aktuel værdi
+Schultzvej 86091 Bjert,jert,1.300.000,09-08-2016,Alm. Salg,9.923,4,Villa,131,1973,-7 %,Aktuel værdi
+Engløkke 306091 Bjert,jert,2.795.000,16-07-2016,Alm. Salg,13.502,6,Villa,207,2005,0 %,Aktuel værdi
+Vesterløkke 66091 Bjert,jert,833.677,14-07-2016,Andet,4.434,6,Villa,188,1909,,Aktuel værdi
+Sønderbyvej 16091 Bjert,jert,925.000,21-06-2016,Alm. Salg,5.674,5,Villa,163,1945,,Aktuel værdi
+Gl. Bjært 86091 Bjert,jert,1.400.000,21-06-2016,Alm. Salg,7.954,6,Villa,176,1962,,Aktuel værdi
+Søren Krogs Vej 246091 Bjert,jert,890.000,08-06-2016,Alm. Salg,16.481,3,Sommerhus,54,1963,,Aktuel værdi
+Klokkehøj 116091 Bjert,jert,1.455.000,02-06-2016,Fam. Salg,10.939,3,Villa,133,1986,,Aktuel værdi
+Nørrevænget 56091 Bjert,jert,458.162,30-05-2016,Alm. Salg,4.090,3,Villa,112,2003,,Aktuel værdi
+Binderup Villavej 46091 Bjert,jert,4.250.000,26-05-2016,Alm. Salg,18.478,9,Villa,230,1912,-6 %,Aktuel værdi
+Engløkke 246091 Bjert,jert,591.500,17-05-2016,Andet,4.621,4,Villa,128,1961,,Aktuel værdi
+Sønderbyvej 26091 Bjert,jert,1.700.000,17-05-2016,Alm. Salg,13.281,4,Stuehus,128,1848,,
+Agtrup Midtskovvej 266091 Bjert,jert,2.600.000,26-04-2016,Fam. Salg,10.441,8,Stuehus,249,1884,,
+Vesterløkke 306091 Bjert,jert,1.890.000,21-04-2016,Alm. Salg,13.795,7,Villa,137,1903,0 %,Aktuel værdi
+Gartnervænget 66091 Bjert,jert,1.650.000,18-04-2016,Alm. Salg,10.645,5,Villa,155,1975,-8 %,Aktuel værdi
+Binderup Søndergade 16091 Bjert,jert,3.440.000,15-04-2016,Alm. Salg,8.369,12,Stuehus,411,1861,,
+Guldager 66091 Bjert,jert,2.150.000,22-03-2016,Alm. Salg,12.146,4,Villa,177,1972,-9 %,Aktuel værdi
+Bæklandsvej 56091 Bjert,jert,700.000,07-03-2016,Alm. Salg,4.697,4,Villa,149,2016,,Aktuel værdi
+Engløkke 156091 Bjert,jert,1.575.000,23-02-2016,Fam. Salg,13.235,4,Villa,119,1974,,Aktuel værdi
+Nørrevænget 3A6091 Bjert,jert,1.400.000,12-02-2016,Alm. Salg,7.407,6,Villa,189,2008,,Aktuel værdi
+Kystvej 70B6091 Bjert,jert,1.230.000,02-02-2016,Fam. Salg,14.137,4,Sommerhus,87,1991,,Aktuel værdi
+Engløkke 316091 Bjert,jert,1.845.000,26-01-2016,Alm. Salg,8.424,9,Villa,219,1933,-3 %,Aktuel værdi
+Gl. Bjært 336091 Bjert,jert,1.250.000,11-01-2016,Fam. Salg,8.503,5,Villa,147,2008,,Aktuel værdi
+Gl. Skartved 66091 Bjert,jert,373.200,22-12-2015,Fam. Salg,1.651,6,Stuehus,226,1827,,
+Binderup Strandvej 666091 Bjert,jert,3.300.000,04-12-2015,Alm. Salg,20.754,4,Stuehus,159,1820,,
+Bæklandsvej 76091 Bjert,jert,2.600.000,27-11-2015,Alm. Salg,14.054,6,Villa,185,1962,-5 %,Aktuel værdi
+Sønderbyvej 16B6091 Bjert,jert,700.000,11-11-2015,Alm. Salg,6.363,3,Villa,110,2016,,Aktuel værdi
+Agtrup Midtskovvej 16B6091 Bjert,jert,3.900.000,30-10-2015,Alm. Salg,30.952,5,Sommerhus,126,1930,-2 %,Aktuel værdi
+Mads Kehlets Vej 266091 Bjert,jert,1.400.000,28-10-2015,Alm. Salg,7.486,6,Villa,187,1915,,Aktuel værdi
+Binderup Strandvej 86091 Bjert,jert,712.226,26-10-2015,Alm. Salg,4.451,7,Villa,160,1945,,Aktuel værdi
+Sønderbyvej 166091 Bjert,jert,700.000,21-10-2015,Alm. Salg,5.147,5,Villa,136,1869,,Aktuel værdi
+Schultzvej 96091 Bjert,jert,1.940.000,09-10-2015,Alm. Salg,9.463,7,Villa,205,1968,-3 %,Aktuel værdi
+Skrænten 166091 Bjert,jert,1.705.000,02-10-2015,Alm. Salg,15.223,4,Villa,112,1977,1 %,Aktuel værdi
+Tårnmosevej 26091 Bjert,jert,1.850.000,01-10-2015,Alm. Salg,4.659,12,Stuehus,397,1872,,
+Skarre Strandvej 116091 Bjert,jert,11.500.000,13-09-2015,Alm. Salg,46.184,6,Villa,249,1878,-8 %,Aktuel værdi
+Sønderbyvej 20A6091 Bjert,jert,3.300.000,24-08-2015,Alm. Salg,16.751,7,Villa,197,1998,-6 %,Aktuel værdi
+Mariavej 146091 Bjert,jert,784.000,17-08-2015,Alm. Salg,6.758,5,Villa,116,1969,,Aktuel værdi
+Engløkke 16091 Bjert,jert,1.925.000,12-08-2015,Alm. Salg,9.922,6,Villa,194,1961,-4 %,Aktuel værdi
+Møllevang 106091 Bjert,jert,1.400.000,12-08-2015,Alm. Salg,10.294,4,Villa,136,1972,,Aktuel værdi
+Sønderbyvej 16D6091 Bjert,jert,905.000,26-07-2015,Alm. Salg,5.055,6,Rækkehus,179,2016,,Aktuel værdi
+Schultzvej 16091 Bjert,jert,1.435.000,06-07-2015,Alm. Salg,11.038,4,Villa,130,1965,-4 %,Aktuel værdi
+Binderupvej 56091 Bjert,jert,1.425.000,27-06-2015,Alm. Salg,8.906,6,Villa,160,1965,-5 %,Aktuel værdi
+Guldager 26091 Bjert,jert,930.000,04-06-2015,Auktion,6.118,5,Villa,152,1976,-38 %,Aktuel værdi
+Kystvej 246091 Bjert,jert,1.875.000,04-06-2015,Alm. Salg,24.350,5,Sommerhus,77,2004,-5 %,Aktuel værdi
+Søren Krogs Vej 186091 Bjert,jert,575.000,02-06-2015,Fam. Salg,8.846,4,Sommerhus,65,1973,,Aktuel værdi
+Kystvej 25B6091 Bjert,jert,779.600,29-05-2015,Alm. Salg,11.464,4,Sommerhus,68,1940,,Aktuel værdi
+Sønderbyvej 16E6091 Bjert,jert,2.375.000,27-05-2015,Alm. Salg,15.728,5,Rækkehus,151,2010,-3 %,Aktuel værdi
+Agtrup Midtskovvej 696091 Bjert,jert,500.000,29-04-2015,Alm. Salg,3.846,4,Villa,130,1900,,Aktuel værdi
+Kausvej 146091 Bjert,jert,2.100.000,13-04-2015,Alm. Salg,28.378,4,Sommerhus,74,2007,-4 %,Aktuel værdi
+Hasselvænget 96091 Bjert,jert,1.725.000,13-04-2015,Alm. Salg,11.423,5,Villa,151,1985,-1 %,Aktuel værdi
+Mads Kehlets Vej 376091 Bjert,jert,2.450.000,01-04-2015,Alm. Salg,11.893,4,Villa,206,1974,-12 %,Aktuel værdi
+Bjert Kirkevej 66091 Bjert,jert,2.445.000,19-03-2015,Alm. Salg,14.215,5,Villa,172,1911,-9 %,Aktuel værdi
+Løgervej 356091 Bjert,jert,1.100.000,23-02-2015,Alm. Salg,8.208,6,Villa,134,1907,-8 %,Aktuel værdi
+Skrænten 246091 Bjert,jert,1.550.000,12-02-2015,Alm. Salg,12.109,4,Villa,128,1977,,Aktuel værdi
+Østerløkke 236091 Bjert,jert,1.710.000,30-01-2015,Alm. Salg,12.857,5,Villa,133,1995,-2 %,Aktuel værdi
+Kystvej 226091 Bjert,jert,850.000,30-01-2015,Fam. Salg,16.346,4,Sommerhus,52,1980,,Aktuel værdi
+"Kystvej 98, 16091 Bjert",jert,2.700.000,05-01-2015,Alm. Salg,27.551,3,Lejlighed,98,1966,,Aktuel værdi
+Kausvej 36091 Bjert,jert,750.000,15-12-2014,Alm. Salg,13.636,2,Sommerhus,55,1942,,Aktuel værdi
+Engdraget 76091 Bjert,jert,1.420.000,04-12-2014,Alm. Salg,9.161,5,Villa,155,1974,-5 %,Aktuel værdi
+Hasselvænget 206091 Bjert,jert,838.151,12-11-2014,Alm. Salg,5.142,4,Villa,163,1975,,Aktuel værdi
+Oluf Ravns Vej 336091 Bjert,jert,1.300.000,06-11-2014,Alm. Salg,18.840,4,Sommerhus,69,1995,-3 %,Aktuel værdi
+Åvænget 76091 Bjert,jert,600.433,05-11-2014,Andet,5.664,4,Villa,106,1969,,Aktuel værdi
+Løgervej 196091 Bjert,jert,784.000,08-10-2014,Andet,5.333,4,Villa,147,1999,,Aktuel værdi
+Østerløkke 43A6091 Bjert,jert,1.995.000,15-09-2014,Alm. Salg,12.314,5,Villa,162,2001,0 %,Aktuel værdi
+Havevej 26091 Bjert,jert,1.690.000,04-09-2014,Alm. Salg,9.285,5,Villa,182,1962,,Aktuel værdi
+Gl. Binderup 206091 Bjert,jert,592.187,01-09-2014,Fam. Salg,3.116,4,Villa,190,1911,,Aktuel værdi
+Østerløkke 76091 Bjert,jert,1.250.000,19-08-2014,Alm. Salg,6.983,7,Villa,179,1994,,Aktuel værdi
+Kausvej 56091 Bjert,jert,970.000,18-08-2014,Alm. Salg,12.125,4,Sommerhus,80,1920,-11 %,Aktuel værdi
+Agtrupvang 16091 Bjert,jert,1.400.000,18-07-2014,Alm. Salg,12.844,4,Villa,109,2004,-6 %,Aktuel værdi
+Vesterløkke 356091 Bjert,jert,1.335.000,06-07-2014,Alm. Salg,9.604,5,Villa,139,1897,-1 %,Aktuel værdi
+Skrænten 146091 Bjert,jert,1.342.500,24-06-2014,Alm. Salg,10.826,4,Villa,124,1974,-4 %,Aktuel værdi
+Østerløkke 16091 Bjert,jert,970.000,23-06-2014,Fam. Salg,5.243,6,Villa,185,1994,,Aktuel værdi
+Bjert Kirkevej 236091 Bjert,jert,1.795.000,23-06-2014,Alm. Salg,8.671,8,Villa,207,1977,0 %,Aktuel værdi
+Hasselvænget 76091 Bjert,jert,2.075.000,19-06-2014,Alm. Salg,16.338,4,Villa,127,1984,-1 %,Aktuel værdi
+Gydeledvej 606091 Bjert,jert,1.050.000,13-06-2014,Alm. Salg,4.038,9,Stuehus,260,1870,-19 %,
+Møllevang 56091 Bjert,jert,1.305.000,28-05-2014,Alm. Salg,8.055,5,Villa,162,1971,-6 %,Aktuel værdi
+Søren Krogs Vej 146091 Bjert,jert,1.155.000,23-05-2014,Alm. Salg,18.934,3,Sommerhus,61,1964,-11 %,Aktuel værdi
+Gl. Bjært 39C6091 Bjert,jert,900.000,23-05-2014,Alm. Salg,5.056,6,Villa,178,2014,,Aktuel værdi
+Bæklandsvej 96091 Bjert,jert,3.585.000,19-05-2014,Alm. Salg,20.140,6,Villa,178,1908,0 %,Aktuel værdi
+Kystvej 61A6091 Bjert,jert,4.750.000,22-04-2014,Alm. Salg,43.181,4,Sommerhus,110,2004,-10 %,Aktuel værdi
+Buskvej 76091 Bjert,jert,1.600.000,09-04-2014,Alm. Salg,22.535,4,Sommerhus,71,1993,,Aktuel værdi
+Binderup Strandpark 286091 Bjert,jert,1.140.000,07-04-2014,Alm. Salg,15.000,4,Sommerhus,76,1991,-7 %,Aktuel værdi
+Kjellerupvej 36091 Bjert,jert,1.224.000,27-03-2014,Fam. Salg,7.116,6,Villa,172,1967,,Aktuel værdi
+Bjert Vestervang 156091 Bjert,jert,1.375.000,17-03-2014,Alm. Salg,13.750,4,Villa,100,1965,-8 %,Aktuel værdi
+Engdraget 116091 Bjert,jert,1.615.000,05-03-2014,Alm. Salg,11.453,5,Villa,141,1974,-10 %,Aktuel værdi
+Mads Kehlets Vej 116091 Bjert,jert,1.025.000,17-02-2014,Alm. Salg,6.972,5,Villa,147,1877,,Aktuel værdi
+Sønderbyvej 236091 Bjert,jert,1.100.000,16-02-2014,Alm. Salg,7.432,4,Villa,148,1877,-12 %,Aktuel værdi
+Thorsvej 86091 Bjert,jert,950.000,05-02-2014,Alm. Salg,8.050,4,Villa,118,1970,-5 %,Aktuel værdi
+Hasselvænget 246091 Bjert,jert,1.695.000,29-01-2014,Alm. Salg,9.854,6,Villa,172,1977,0 %,Aktuel værdi
+Gammelgårdsvej 26091 Bjert,jert,1.220.000,28-01-2014,Alm. Salg,7.218,5,Rækkehus,169,1877,-6 %,Aktuel værdi
+Sønderbyvej 16L6091 Bjert,jert,1.150.000,21-01-2014,Alm. Salg,7.615,5,Rækkehus,151,2014,,Aktuel værdi
+Møllevang 36091 Bjert,jert,1.735.000,25-12-2013,Andet,15.772,4,Villa,110,1972,,Aktuel værdi
+Kystvej 19B6091 Bjert,jert,3.750.000,23-12-2013,Alm. Salg,-,4,Sommerhus,136,1935,-32 %,Aktuel værdi
+Gl. Bjært 456091 Bjert,jert,2.000.000,20-12-2013,Alm. Salg,10.101,5,Stuehus,198,1930,,
+Søren Krogs Vej 156091 Bjert,jert,900.000,14-12-2013,Fam. Salg,10.843,4,Sommerhus,83,1965,,Aktuel værdi
+Binderupvej 86091 Bjert,jert,1.025.000,06-12-2013,Alm. Salg,9.579,4,Villa,107,1968,-2 %,Aktuel værdi
+Binderup Strandpark 506091 Bjert,jert,446.250,27-11-2013,Fam. Salg,7.828,4,Sommerhus,57,1986,,Aktuel værdi
+Agtrup Midtskovvej 916091 Bjert,jert,2.755.000,25-11-2013,Alm. Salg,15.833,6,Villa,174,1904,-6 %,Aktuel værdi
+Sønderbyvej 396091 Bjert,jert,1.255.000,28-10-2013,Alm. Salg,7.843,7,Villa,160,1973,-16 %,Aktuel værdi
+Hasselvænget 56091 Bjert,jert,1.160.000,21-10-2013,Alm. Salg,9.280,4,Villa,125,1976,-14 %,Aktuel værdi
+Engløkke 116091 Bjert,jert,1.570.000,20-10-2013,Alm. Salg,10.397,5,Villa,151,1975,-4 %,Aktuel værdi
+Løgervej 216091 Bjert,jert,895.000,11-10-2013,Alm. Salg,11.187,4,Villa,80,1964,-10 %,Aktuel værdi
+Vesterløkke 16091 Bjert,jert,475.000,03-10-2013,Auktion,3.392,6,Villa,140,1908,,Aktuel værdi
+Niels Uldals Vej 36091 Bjert,jert,2.100.000,24-09-2013,Alm. Salg,10.659,6,Villa,197,1778,-8 %,Aktuel værdi
+Binderup Strandvej 896091 Bjert,jert,195.500,18-09-2013,Fam. Salg,6.516,2,Villa,30,1942,,Aktuel værdi
+Bjert Kirkevej 156091 Bjert,jert,900.000,17-09-2013,Alm. Salg,7.086,4,Villa,127,1978,-10 %,Aktuel værdi
+Oluf Ravns Vej 376091 Bjert,jert,500.000,10-09-2013,Alm. Salg,6.578,4,Sommerhus,76,1994,,Aktuel værdi
+Agtrup Midtskovvej 366091 Bjert,jert,2.850.000,06-09-2013,Alm. Salg,11.924,2,Stuehus,239,1982,-5 %,
+Løgervej 86091 Bjert,jert,400.000,29-08-2013,Alm. Salg,5.263,2,Villa,76,1974,-33 %,Aktuel værdi
+Mads Kehlets Vej 296091 Bjert,jert,14.500.000,05-08-2013,Alm. Salg,58.000,5,Stuehus,250,2007,,
+Bjert Vestervang 66091 Bjert,jert,1.050.000,18-07-2013,Alm. Salg,10.500,3,Villa,100,1964,-12 %,Aktuel værdi
+Bjert Strandvej 116091 Bjert,jert,850.000,15-07-2013,Alm. Salg,4.271,7,Villa,199,2014,,Aktuel værdi
+Sønderbyvej 16K6091 Bjert,jert,1.034.000,12-06-2013,Alm. Salg,6.847,5,Rækkehus,151,2013,,Aktuel værdi
+Løgervej 336091 Bjert,jert,310.000,28-05-2013,Alm. Salg,3.483,3,Rækkehus,89,1888,-17 %,Aktuel værdi
+Buskvej 126091 Bjert,jert,2.062.500,13-05-2013,Alm. Salg,30.330,3,Sommerhus,68,1998,,Aktuel værdi
+Kausvej 126091 Bjert,jert,1.395.000,10-05-2013,Alm. Salg,20.820,3,Sommerhus,67,1945,,Aktuel værdi
+Kystvej 576091 Bjert,jert,3.362.500,03-05-2013,Alm. Salg,31.425,5,Sommerhus,107,1933,-6 %,Aktuel værdi
+Binderup Strandpark 886091 Bjert,jert,600.000,02-05-2013,Alm. Salg,11.764,4,Sommerhus,51,1984,,Aktuel værdi
+Kystvej 926091 Bjert,jert,1.062.500,30-04-2013,Fam. Salg,21.250,3,Sommerhus,50,1980,,Aktuel værdi
+Kystvej 586091 Bjert,jert,1.487.500,15-04-2013,Fam. Salg,14.302,4,Sommerhus,104,1992,,Aktuel værdi
+Kystvej 156091 Bjert,jert,3.150.000,11-04-2013,Alm. Salg,20.723,5,Sommerhus,152,2016,-4 %,Aktuel værdi
+Kystvej 64A6091 Bjert,jert,1.450.000,03-04-2013,Alm. Salg,15.760,5,Sommerhus,92,2004,,Aktuel værdi
+Vesterløkke 136091 Bjert,jert,1.144.279,22-03-2013,Alm. Salg,3.801,6,Villa,301,1906,,Aktuel værdi
+Østerløkke 1C6091 Bjert,jert,340.000,19-03-2013,Fam. Salg,2.193,4,Villa,155,2012,,Aktuel værdi
+Engdraget 206091 Bjert,jert,700.000,17-03-2013,Fam. Salg,5.426,5,Villa,129,1973,,Aktuel værdi
+Åvænget 56091 Bjert,jert,1.250.000,26-02-2013,Alm. Salg,9.124,5,Villa,137,1975,0 %,Aktuel værdi
+Engløkke 126091 Bjert,jert,625.000,07-02-2013,Alm. Salg,5.208,7,Villa,120,1962,-17 %,Aktuel værdi
+Gl. Bjært 206091 Bjert,jert,800.000,09-01-2013,Fam. Salg,2.930,7,Villa,273,1633,,Aktuel værdi
+Løgervej 316091 Bjert,jert,739.500,23-11-2012,Fam. Salg,5.963,5,Rækkehus,124,1900,,Aktuel værdi
+Gammelgårdsvej 66091 Bjert,jert,2.500.000,13-11-2012,Alm. Salg,10.593,8,Villa,236,1997,-7 %,Aktuel værdi
+Agtrup Midtskovvej 1226091 Bjert,jert,9.250.000,08-11-2012,Alm. Salg,42.431,3,Villa,218,1912,-8 %,Aktuel værdi
+Vesterskovvej 16091 Bjert,jert,779.166,05-11-2012,Fam. Salg,2.812,7,Villa,277,2010,,Aktuel værdi
+Stenderupvej 666091 Bjert,jert,1.600.000,27-10-2012,Alm. Salg,8.743,5,Villa,183,2002,-10 %,Aktuel værdi
+Gyndbjerg 76091 Bjert,jert,1.825.000,24-09-2012,Alm. Salg,9.079,6,Villa,201,1978,-6 %,Aktuel værdi
+Binderupvej 3A6091 Bjert,jert,104.000,12-09-2012,Alm. Salg,936,4,Villa,111,1979,,Aktuel værdi
+Gyndbjerg 256091 Bjert,jert,2.200.000,08-08-2012,Alm. Salg,10.837,7,Villa,203,1977,-8 %,Aktuel værdi
+Bjert Vestervang 216091 Bjert,jert,1.855.000,11-07-2012,Alm. Salg,9.464,7,Villa,196,1964,-5 %,Aktuel værdi
+Kystvej 396091 Bjert,jert,1.700.000,15-06-2012,Fam. Salg,15.315,4,Sommerhus,111,1929,,Aktuel værdi
+Kystvej 96091 Bjert,jert,1.542.750,07-05-2012,Fam. Salg,22.687,5,Sommerhus,68,1952,,Aktuel værdi
+Sønderbyvej 20B6091 Bjert,jert,4.050.000,28-04-2012,Alm. Salg,17.841,6,Villa,227,2000,-9 %,Aktuel værdi
+Bjert Strandvej 106091 Bjert,jert,2.695.000,24-04-2012,Alm. Salg,21.054,4,Stuehus,128,1889,,
+Sønderbyvej 16C6091 Bjert,jert,828.000,24-04-2012,Alm. Salg,4.625,5,Rækkehus,179,2012,,Aktuel værdi
+Agtrup Midtskovvej 186091 Bjert,jert,2.550.000,23-04-2012,Alm. Salg,50.000,3,Sommerhus,51,2009,-15 %,Aktuel værdi
+Gl. Bjært 476091 Bjert,jert,2.025.000,13-04-2012,Alm. Salg,5.328,10,Villa,380,1867,,Aktuel værdi
+Vesterløkke 146091 Bjert,jert,789.500,20-03-2012,Fam. Salg,4.727,7,Villa,167,1906,,Aktuel værdi
+Engdraget 66091 Bjert,jert,1.550.000,11-03-2012,Alm. Salg,11.654,4,Villa,133,1973,,Aktuel værdi
+Østerløkke 476091 Bjert,jert,893.228,07-03-2012,Alm. Salg,5.653,5,Villa,158,1987,,Aktuel værdi
+Stenderupvej 1026091 Bjert,jert,1.150.000,01-03-2012,Andet,4.713,6,Villa,244,1918,,Aktuel værdi
+Binderup Strandvej 256091 Bjert,jert,350.000,15-01-2012,Alm. Salg,837,9,Stuehus,418,1916,,
+Søren Krogs Vej 16091 Bjert,jert,325.834,10-01-2012,Fam. Salg,6.788,2,Sommerhus,48,1936,,Aktuel værdi
+Vesterløkke 246091 Bjert,jert,1.215.500,06-01-2012,Alm. Salg,7.150,5,Villa,170,1936,10 %,Aktuel værdi
+Engdraget 86091 Bjert,jert,1.350.000,22-12-2011,Alm. Salg,9.926,5,Villa,136,1972,-20 %,Aktuel værdi
+Buskvej 16091 Bjert,jert,1.232.500,27-11-2011,Fam. Salg,17.862,3,Sommerhus,69,1993,,Aktuel værdi
+Binderup Søndergade 256091 Bjert,jert,1.534.332,07-11-2011,Andet,7.558,8,Villa,203,1900,-49 %,Aktuel værdi
+Vesterløkke 326091 Bjert,jert,1.420.000,18-10-2011,Alm. Salg,6.960,5,Villa,204,1904,,Aktuel værdi
+Løgervej 156091 Bjert,jert,1.490.000,17-10-2011,Alm. Salg,11.461,5,Villa,130,1827,-7 %,Aktuel værdi
+Buskvej 186091 Bjert,jert,1.650.000,14-10-2011,Alm. Salg,24.626,4,Sommerhus,67,1994,,Aktuel værdi
+Kystvej 496091 Bjert,jert,3.300.000,10-10-2011,Alm. Salg,22.297,4,Sommerhus,148,2015,,Aktuel værdi
+Østerløkke 456091 Bjert,jert,1.885.000,16-09-2011,Alm. Salg,11.493,5,Villa,164,1986,-6 %,Aktuel værdi
+Østerløkke 296091 Bjert,jert,603.719,14-09-2011,Fam. Salg,4.192,5,Villa,144,1994,,Aktuel værdi
+Eegsvej 206091 Bjert,jert,195.279,13-09-2011,Fam. Salg,680,7,Villa,287,1968,,Aktuel værdi
+Vesterløkke 86091 Bjert,jert,1.650.000,13-09-2011,Alm. Salg,8.128,5,Villa,203,1910,-8 %,Aktuel værdi
+Gl. Bjært 596091 Bjert,jert,1.000.000,08-09-2011,Alm. Salg,7.633,4,Villa,131,1910,,Aktuel værdi
+Oluf Ravns Vej 396091 Bjert,jert,1.650.000,18-08-2011,Alm. Salg,21.428,4,Sommerhus,77,1994,-11 %,Aktuel værdi
+Gl. Bjært 496091 Bjert,jert,1.100.000,27-07-2011,Fam. Salg,7.382,5,Villa,149,1987,,Aktuel værdi
+Vesterskovvej 26091 Bjert,jert,600.000,21-06-2011,Alm. Salg,2.127,8,Stuehus,282,1839,,
+Binderupvej 126091 Bjert,jert,1.385.000,19-06-2011,Alm. Salg,12.590,4,Villa,110,1965,,Aktuel værdi
+Løgervej 376091 Bjert,jert,1.200.000,13-06-2011,Alm. Salg,6.741,7,Villa,178,1950,-14 %,Aktuel værdi
+Elkærgyde 126091 Bjert,jert,750.000,26-05-2011,Auktion,5.357,4,Villa,140,1877,,Aktuel værdi
+Rosenvænget 16091 Bjert,jert,2.290.000,15-04-2011,Alm. Salg,14.493,7,Villa,158,1967,-2 %,Aktuel værdi
+Buskvej 166091 Bjert,jert,1.825.000,12-04-2011,Alm. Salg,-,3,Sommerhus,64,1992,-8 %,Aktuel værdi
+Søren Krogs Vej 56091 Bjert,jert,900.000,05-04-2011,Alm. Salg,14.062,3,Sommerhus,64,1938,,Aktuel værdi
+Skrænten 2A6091 Bjert,jert,2.100.000,21-03-2011,Alm. Salg,13.291,5,Villa,158,1980,-8 %,Aktuel værdi
+Bjert Kirkesti 2A6091 Bjert,jert,600.000,11-03-2011,Alm. Salg,4.166,4,Villa,144,2014,-4 %,Aktuel værdi
+Skrænten 46091 Bjert,jert,1.250.000,10-03-2011,Alm. Salg,11.261,5,Villa,111,1979,-3 %,Aktuel værdi
+Havevej 326091 Bjert,jert,1.400.000,22-02-2011,Alm. Salg,10.370,4,Villa,135,1950,,Aktuel værdi
+Sønderbyvej 186091 Bjert,jert,3.197.000,15-02-2011,Alm. Salg,13.156,7,Villa,243,1968,,Aktuel værdi
+Møllevang 46091 Bjert,jert,2.200.000,11-02-2011,Alm. Salg,14.102,7,Villa,156,1969,-4 %,Aktuel værdi
+Vesterskovvej 546091 Bjert,jert,850.000,10-02-2011,Alm. Salg,4.066,8,Villa,209,2013,,Aktuel værdi
+Stenderupvej 396091 Bjert,jert,124.800,09-02-2011,Alm. Salg,583,6,Stuehus,214,1978,,
+Bjert Kirkevej 116091 Bjert,jert,1.083.400,25-01-2011,Alm. Salg,7.471,5,Villa,145,1978,-51 %,Aktuel værdi
+Abildvænget 206091 Bjert,jert,412.400,19-01-2011,Andet,1.643,6,Villa,251,2014,,Aktuel værdi
+Bjert Vestervang 146091 Bjert,jert,1.100.000,17-01-2011,Alm. Salg,10.476,4,Villa,105,1967,-15 %,Aktuel værdi
+Oluf Ravns Vej 356091 Bjert,jert,1.600.000,28-12-2010,Alm. Salg,22.222,4,Sommerhus,72,1995,-16 %,Aktuel værdi
+Abildvænget 96091 Bjert,jert,750.000,21-12-2010,Alm. Salg,4.285,5,Villa,175,2012,-7 %,Aktuel værdi
+Kystvej 70D6091 Bjert,jert,2.075.000,17-12-2010,Alm. Salg,22.074,4,Sommerhus,94,2011,-9 %,Aktuel værdi
+Gl. Bjært 186091 Bjert,jert,900.000,19-11-2010,Alm. Salg,6.338,5,Villa,142,1889,-5 %,Aktuel værdi
+Abildvænget 76091 Bjert,jert,750.000,04-10-2010,Alm. Salg,4.966,5,Villa,151,2011,-9 %,Aktuel værdi
+Oluf Ravns Vej 196091 Bjert,jert,1.825.000,28-09-2010,Alm. Salg,29.435,3,Sommerhus,62,1994,-13 %,Aktuel værdi
+Gyndbjerg 176091 Bjert,jert,2.075.000,21-09-2010,Alm. Salg,11.994,6,Villa,173,1977,,Aktuel værdi
+Nørrevænget 3B6091 Bjert,jert,958.200,08-09-2010,Alm. Salg,2.456,7,Villa,390,1967,,Aktuel værdi
+Åvænget 36091 Bjert,jert,1.545.000,01-09-2010,Alm. Salg,11.793,4,Villa,131,1970,-3 %,Aktuel værdi
+Kjellerupvej 16091 Bjert,jert,600.000,19-08-2010,Auktion,1.714,16,Stuehus,350,1838,,
+Havevej 66091 Bjert,jert,925.000,29-07-2010,Alm. Salg,9.840,4,Villa,94,1957,-7 %,Aktuel værdi
+Agtrup Midtskovvej 316091 Bjert,jert,2.500.000,16-07-2010,Alm. Salg,14.285,5,Villa,175,1820,-11 %,Aktuel værdi
+Sønderbyvej 16G6091 Bjert,jert,2.744.010,16-07-2010,Alm. Salg,15.329,5,Rækkehus,179,2010,,Aktuel værdi
+Sønderbyvej 416091 Bjert,jert,1.995.000,11-07-2010,Alm. Salg,15.000,5,Villa,133,1985,,Aktuel værdi
+Vesterløkke 17B6091 Bjert,jert,1.000.000,30-06-2010,Alm. Salg,5.649,6,Villa,177,2016,,Aktuel værdi
+Gyndbjerg 36091 Bjert,jert,2.150.000,24-06-2010,Alm. Salg,11.878,7,Villa,181,1977,-2 %,Aktuel værdi
+Bjert Stationsvej 56091 Bjert,jert,1.300.000,22-06-2010,Alm. Salg,10.924,6,Villa,119,1957,-18 %,Aktuel værdi
+Kystvej 104A6091 Bjert,jert,900.000,11-06-2010,Alm. Salg,11.250,4,Sommerhus,80,2011,-25 %,Aktuel værdi
+Løgervej 496091 Bjert,jert,900.000,10-06-2010,Alm. Salg,10.112,4,Villa,89,1965,,Aktuel værdi
+Engløkke 20A6091 Bjert,jert,1.895.000,03-06-2010,Alm. Salg,12.633,6,Villa,150,1982,0 %,Aktuel værdi
+Vesterløkke 28A6091 Bjert,jert,600.000,31-05-2010,Alm. Salg,11.320,2,Rækkehus,53,1973,-14 %,Aktuel værdi
+Stenderupvej 1246091 Bjert,jert,5.157.153,25-05-2010,Fam. Salg,18.890,8,Stuehus,273,1858,,
+Agtrup Midtskovvej 306091 Bjert,jert,3.985.000,20-05-2010,Alm. Salg,36.898,4,Villa,108,1874,0 %,Aktuel værdi
+Bjert Vestervang 276091 Bjert,jert,760.000,11-05-2010,Alm. Salg,10.270,2,Rækkehus,74,1969,-15 %,Aktuel værdi
+Engløkke 56091 Bjert,jert,1.550.000,10-05-2010,Alm. Salg,11.481,5,Villa,135,1957,-3 %,Aktuel værdi
+Vesterskovvej 196091 Bjert,jert,1.736.571,29-04-2010,Fam. Salg,6.946,7,Stuehus,250,1976,,
+Østerløkke 206091 Bjert,jert,1.832.000,19-04-2010,Alm. Salg,12.811,6,Villa,143,1986,,Aktuel værdi
+Abildvænget 46091 Bjert,jert,725.000,13-04-2010,Alm. Salg,4.341,5,Villa,167,2010,,Aktuel værdi
+Kausvej 116091 Bjert,jert,1.215.000,05-04-2010,Alm. Salg,27.000,3,Sommerhus,45,1966,-5 %,Aktuel værdi
+Stenderupvej 436091 Bjert,jert,1.550.000,29-03-2010,Alm. Salg,6.739,5,Villa,230,1907,-3 %,Aktuel værdi
+Rosenvænget 56091 Bjert,jert,2.100.000,05-02-2010,Alm. Salg,13.375,6,Villa,157,1963,-4 %,Aktuel værdi
+Agtrup Midtskovvej 396091 Bjert,jert,1.450.000,18-01-2010,Alm. Salg,6.196,7,Villa,234,1913,0 %,Aktuel værdi
+Abildvænget 66091 Bjert,jert,750.000,18-01-2010,Alm. Salg,4.189,5,Villa,179,2010,,Aktuel værdi
+Møllebakken 36091 Bjert,jert,1.835.000,16-01-2010,Alm. Salg,12.568,4,Villa,146,1997,-3 %,Aktuel værdi
+Gl. Bjært 60K6091 Bjert,jert,2.130.000,13-01-2010,Alm. Salg,13.229,5,Rækkehus,161,1942,,Aktuel værdi
+Sønderbyvej 16F6091 Bjert,jert,2.699.992,31-12-2009,Alm. Salg,17.880,5,Rækkehus,151,2010,,Aktuel værdi
+Sønderbyvej 16H6091 Bjert,jert,2.845.854,31-12-2009,Alm. Salg,15.898,5,Rækkehus,179,2010,,Aktuel værdi
+Hasselvænget 406091 Bjert,jert,2.145.000,22-12-2009,Alm. Salg,13.240,5,Villa,162,1977,-5 %,Aktuel værdi
+Bjert Strandvej 206091 Bjert,jert,2.250.000,19-11-2009,Alm. Salg,16.666,4,Villa,135,1997,-8 %,Aktuel værdi
+Gyndbjerg 196091 Bjert,jert,1.900.000,19-11-2009,Alm. Salg,11.111,5,Villa,171,1977,-4 %,Aktuel værdi
+Sønderbyvej 156091 Bjert,jert,950.000,23-10-2009,Alm. Salg,7.600,6,Villa,125,1884,,Aktuel værdi
+Skartvedvej 1C6091 Bjert,jert,1.967.000,12-10-2009,Alm. Salg,17.104,4,Rækkehus,115,2009,,Aktuel værdi
+Klokkehøj 56091 Bjert,jert,1.241.564,29-09-2009,Auktion,7.570,6,Villa,164,1977,-34 %,Aktuel værdi
+Kjellerupvej 226091 Bjert,jert,2.000.000,17-08-2009,Alm. Salg,10.362,5,Villa,193,1870,-5 %,Aktuel værdi
+Mads Kehlets Vej 336091 Bjert,jert,2.075.000,29-07-2009,Alm. Salg,13.132,5,Villa,158,1900,-6 %,Aktuel værdi
+Aagyden 136091 Bjert,jert,335.000,27-07-2009,Alm. Salg,1.155,7,Stuehus,290,1936,,
+Skrænten 126091 Bjert,jert,1.260.000,10-07-2009,Alm. Salg,11.351,4,Villa,111,1975,-3 %,Aktuel værdi
+Møllevang 176091 Bjert,jert,2.050.000,22-06-2009,Alm. Salg,10.512,7,Villa,195,1972,-9 %,Aktuel værdi
+Abildvænget 116091 Bjert,jert,1.000.000,11-06-2009,Alm. Salg,5.747,6,Villa,174,2011,-17 %,Aktuel værdi
+Nørrevænget 216091 Bjert,jert,1.945.000,01-06-2009,Alm. Salg,12.080,4,Villa,161,1960,-11 %,Aktuel værdi
+Agtrupvang 36091 Bjert,jert,2.187.500,06-05-2009,Alm. Salg,14.297,5,Villa,153,2002,-5 %,Aktuel værdi
+Sønderbyvej 296091 Bjert,jert,1.325.000,19-04-2009,Alm. Salg,6.559,8,Villa,202,1773,-10 %,Aktuel værdi
+Gartnervænget 2B6091 Bjert,jert,1.395.000,08-04-2009,Alm. Salg,10.648,4,Villa,131,1975,-7 %,Aktuel værdi
+Kystvej 316091 Bjert,jert,3.200.000,31-03-2009,Alm. Salg,118.518,1,Sommerhus,27,1942,-3 %,Aktuel værdi
+Niels Uldals Vej 76091 Bjert,jert,1.600.000,27-03-2009,Alm. Salg,9.467,7,Villa,169,1965,-16 %,Aktuel værdi
+Engdraget 266091 Bjert,jert,1.775.000,03-02-2009,Alm. Salg,9.196,7,Villa,193,1975,-6 %,Aktuel værdi
+Bjert Strandvej 176091 Bjert,jert,1.050.000,01-02-2009,Alm. Salg,21.000,2,Villa,50,1947,-3 %,Aktuel værdi
+Skrænten 186091 Bjert,jert,1.375.000,31-12-2008,Alm. Salg,10.742,4,Villa,128,1978,-7 %,Aktuel værdi
+Mads Kehlets Vej 156091 Bjert,jert,1.595.000,08-12-2008,Alm. Salg,-,7,Villa,215,1929,0 %,Aktuel værdi
+Vesterløkke 346091 Bjert,jert,2.100.000,25-11-2008,Alm. Salg,10.994,4,Villa,191,1910,-12 %,Aktuel værdi
+Skovhavevej 336091 Bjert,jert,3.150.000,05-11-2008,Alm. Salg,-,7,Villa,277,1877,-12 %,Aktuel værdi
+Bjert Strandvej 316091 Bjert,jert,600.000,03-11-2008,Fam. Salg,3.191,7,Villa,188,1900,,Aktuel værdi
+Abildvænget 146091 Bjert,jert,945.000,24-10-2008,Alm. Salg,5.727,5,Villa,165,2012,,Aktuel værdi
+Agtrup Midtskovvej 326091 Bjert,jert,6.500.000,11-10-2008,Alm. Salg,24.253,5,Villa,268,2016,-18 %,Aktuel værdi
+Søren Krogs Vej 276091 Bjert,jert,1.200.000,06-10-2008,Alm. Salg,-,3,Sommerhus,53,1966,-6 %,Aktuel værdi
+Bjert Kirkevej 26091 Bjert,jert,1.025.000,23-09-2008,Alm. Salg,-,3,Villa,115,1929,-11 %,Aktuel værdi
+Bjert Vestervang 126091 Bjert,jert,1.237.500,15-09-2008,Alm. Salg,11.049,4,Villa,112,1966,-8 %,Aktuel værdi
+Engdraget 326091 Bjert,jert,1.475.000,12-09-2008,Alm. Salg,12.291,4,Villa,120,1973,-8 %,Aktuel værdi
+Søren Krogs Vej 136091 Bjert,jert,1.125.000,26-08-2008,Alm. Salg,17.307,4,Sommerhus,65,1965,-10 %,Aktuel værdi
+Løgervej 516091 Bjert,jert,819.241,19-08-2008,Alm. Salg,3.901,6,Villa,210,1969,,Aktuel værdi
+Binderup Strandpark 566091 Bjert,jert,1.536.000,07-08-2008,Fam. Salg,18.506,5,Sommerhus,83,1993,,Aktuel værdi
+Stenderupvej 1006091 Bjert,jert,1.300.000,09-07-2008,Alm. Salg,9.629,5,Villa,135,1902,,Aktuel værdi
+Åvænget 16091 Bjert,jert,1.351.000,09-07-2008,Alm. Salg,11.449,3,Lejlighed,118,1972,,Aktuel værdi
+Kurupvej 16091 Bjert,jert,1.700.000,27-06-2008,Alm. Salg,11.643,5,Villa,146,1936,-3 %,Aktuel værdi
+Vesterløkke 28C6091 Bjert,jert,870.000,24-06-2008,Alm. Salg,16.415,2,Rækkehus,53,1973,-2 %,Aktuel værdi
+Vesterløkke 296091 Bjert,jert,1.516.000,24-06-2008,Alm. Salg,5.191,4,Villa,292,1889,,Aktuel værdi
+Kystvej 70H6091 Bjert,jert,3.300.000,22-06-2008,Alm. Salg,23.239,3,Sommerhus,142,1992,-6 %,Aktuel værdi
+Agtrup Midtskovvej 226091 Bjert,jert,1.782.500,19-06-2008,Alm. Salg,11.500,5,Villa,155,1965,,Aktuel værdi
+Kystvej 536091 Bjert,jert,3.450.000,16-06-2008,Alm. Salg,21.036,5,Sommerhus,164,2009,,Aktuel værdi
+Kystvej 596091 Bjert,jert,3.875.000,13-06-2008,Alm. Salg,56.159,3,Sommerhus,69,1985,-10 %,Aktuel værdi
+Abildvænget 16091 Bjert,jert,920.000,18-05-2008,Alm. Salg,5.111,5,Villa,180,2010,12 %,Aktuel værdi
+Binderup Strandpark 226091 Bjert,jert,1.425.000,07-05-2008,Alm. Salg,20.357,4,Sommerhus,70,1995,-5 %,Aktuel værdi
+Kystvej 346091 Bjert,jert,1.425.000,10-04-2008,Alm. Salg,9.693,4,Sommerhus,147,2016,,Aktuel værdi
+Stenderupvej 366091 Bjert,jert,980.000,26-03-2008,Alm. Salg,11.136,3,Villa,88,1957,-7 %,Aktuel værdi
+Nørrevænget 76091 Bjert,jert,2.070.000,12-03-2008,Alm. Salg,12.248,6,Villa,169,1964,,Aktuel værdi
+Stormgaardsvej 36091 Bjert,jert,1.875.000,19-02-2008,Alm. Salg,11.718,5,Villa,160,1974,-4 %,Aktuel værdi
+Bjert Vestervang 76091 Bjert,jert,1.950.000,16-02-2008,Alm. Salg,13.356,4,Villa,146,1965,0 %,Aktuel værdi
+Sønderbyvej 246091 Bjert,jert,1.895.000,09-01-2008,Alm. Salg,11.415,5,Villa,166,1903,,Aktuel værdi
+Mariavej 126091 Bjert,jert,2.700.000,27-12-2007,Alm. Salg,12.000,6,Villa,225,1977,-6 %,Aktuel værdi
+Løgervej 53B6091 Bjert,jert,1.250.000,19-12-2007,Fam. Salg,6.868,6,Villa,182,1986,,Aktuel værdi
+Engdraget 106091 Bjert,jert,2.270.000,06-12-2007,Alm. Salg,14.367,6,Villa,158,1972,-5 %,Aktuel værdi
+Vesterløkke 7B6091 Bjert,jert,2.350.000,20-11-2007,Alm. Salg,14.687,6,Villa,160,2005,-6 %,Aktuel værdi
+Nørrevænget 166091 Bjert,jert,1.500.000,15-11-2007,Alm. Salg,14.705,3,Villa,102,1965,-3 %,Aktuel værdi
+Vesterløkke 216091 Bjert,jert,799.587,14-11-2007,Andet,3.099,6,Villa,258,1908,,Aktuel værdi
+Skovhavevej 476091 Bjert,jert,1.200.000,04-11-2007,Alm. Salg,11.650,4,Villa,103,1827,,Aktuel værdi
+Gl. Bjært 636091 Bjert,jert,2.350.000,22-10-2007,Alm. Salg,12.771,6,Villa,184,1918,,Aktuel værdi
+Buskvej 146091 Bjert,jert,2.435.000,03-10-2007,Alm. Salg,34.785,4,Sommerhus,70,1998,,Aktuel værdi
+Bjert Kirkevej 46091 Bjert,jert,1.515.000,24-09-2007,Alm. Salg,10.978,5,Villa,138,1946,,Aktuel værdi
+Gl. Bjært 466091 Bjert,jert,1.685.000,17-09-2007,Alm. Salg,8.868,5,Villa,190,1833,,Aktuel værdi
+Østerløkke 516091 Bjert,jert,2.475.000,15-09-2007,Alm. Salg,16.071,6,Villa,154,1995,-5 %,Aktuel værdi
+Kystvej 45A6091 Bjert,jert,2.210.000,14-09-2007,Fam. Salg,26.626,3,Sommerhus,83,1890,,Aktuel værdi
+Bjert Strandvej 66091 Bjert,jert,2.900.000,10-08-2007,Alm. Salg,9.354,6,Villa,310,1875,-3 %,Aktuel værdi
+Kystvej 104B6091 Bjert,jert,2.450.000,09-08-2007,Alm. Salg,-,6,Sommerhus,95,2001,,Aktuel værdi
+Bjert Vestervang 86091 Bjert,jert,1.500.000,02-08-2007,Alm. Salg,13.636,4,Villa,110,1966,-6 %,Aktuel værdi
+Strømholtgårdvej 36091 Bjert,jert,1.555.000,16-07-2007,Alm. Salg,9.255,5,Stuehus,168,1913,,
+Bjert Strandvej 156091 Bjert,jert,2.200.000,15-07-2007,Alm. Salg,13.017,4,Villa,169,1927,0 %,Aktuel værdi
+Søren Krogs Vej 196091 Bjert,jert,1.545.000,07-07-2007,Alm. Salg,18.841,4,Sommerhus,82,1967,0 %,Aktuel værdi
+Skovhavevej 456091 Bjert,jert,6.500.000,28-06-2007,Alm. Salg,41.139,6,Stuehus,158,1878,12 %,
+Kystvej 64C6091 Bjert,jert,1.050.000,19-06-2007,Alm. Salg,13.125,4,Sommerhus,80,2009,,Aktuel værdi
+Havevej 3A6091 Bjert,jert,3.465.000,06-06-2007,Alm. Salg,17.588,6,Villa,197,1999,,Aktuel værdi
+Kystvej 766091 Bjert,jert,807.500,04-06-2007,Fam. Salg,15.235,3,Sommerhus,53,1950,,Aktuel værdi
+Engdraget 56091 Bjert,jert,2.200.000,14-05-2007,Alm. Salg,12.941,4,Villa,170,1975,-2 %,Aktuel værdi
+Agtrup Midtskovvej 706091 Bjert,jert,3.838.500,11-05-2007,Alm. Salg,18.454,6,Villa,208,1906,10 %,Aktuel værdi
+Søren Krogs Vej 176091 Bjert,jert,1.400.000,09-05-2007,Alm. Salg,16.470,4,Sommerhus,85,1966,-20 %,Aktuel værdi
+Abildvænget 86091 Bjert,jert,960.000,07-05-2007,Alm. Salg,4.050,6,Villa,237,2008,,Aktuel værdi
+Binderup Søndergade 56091 Bjert,jert,880.000,25-04-2007,Alm. Salg,-,5,Villa,166,1860,,Aktuel værdi
+Møllebakken 16091 Bjert,jert,1.678.000,09-04-2007,Alm. Salg,14.100,4,Villa,119,1986,0 %,Aktuel værdi
+Hasselvænget 26091 Bjert,jert,1.815.000,07-04-2007,Alm. Salg,14.520,4,Villa,125,1976,,Aktuel værdi
+Engdraget 446091 Bjert,jert,1.955.000,29-03-2007,Alm. Salg,12.861,5,Villa,152,1977,,Aktuel værdi
+Agtrup Midtskovvej 1156091 Bjert,jert,5.300.000,10-02-2007,Alm. Salg,8.631,14,Villa,614,1979,,Aktuel værdi
+Abildvænget 156091 Bjert,jert,950.000,29-01-2007,Alm. Salg,4.112,6,Villa,231,2008,,Aktuel værdi
+Mariavej 86091 Bjert,jert,1.375.000,26-01-2007,Alm. Salg,9.751,4,Villa,141,1976,,Aktuel værdi
+Kystvej 70F6091 Bjert,jert,1.850.000,22-01-2007,Alm. Salg,21.764,4,Sommerhus,85,1997,,Aktuel værdi
+Kystvej 546091 Bjert,jert,500.000,19-01-2007,Alm. Salg,9.259,3,Sommerhus,54,1940,,Aktuel værdi
+Vesterløkke 206091 Bjert,jert,1.350.000,11-01-2007,Fam. Salg,8.437,6,Villa,160,1916,,Aktuel værdi
+Binderupvej 36091 Bjert,jert,1.225.000,20-12-2006,Alm. Salg,6.882,8,Villa,178,1890,,Aktuel værdi
+Gl. Bjært 60F6091 Bjert,jert,2.625.000,11-12-2006,Alm. Salg,10.627,8,Rækkehus,247,1942,,Aktuel værdi
+Kystvej 356091 Bjert,jert,2.300.000,17-11-2006,Alm. Salg,20.000,7,Sommerhus,115,1938,,Aktuel værdi
+Gl. Bjært 60N6091 Bjert,jert,2.150.000,03-11-2006,Alm. Salg,12.874,5,Rækkehus,167,1850,,Aktuel værdi
+Binderup Strandpark 666091 Bjert,jert,1.450.000,10-10-2006,Alm. Salg,-,4,Sommerhus,62,1989,,Aktuel værdi
+Binderup Strandpark 106091 Bjert,jert,1.015.000,03-10-2006,Alm. Salg,15.149,4,Sommerhus,67,1983,,Aktuel værdi
+Kystvej 71A6091 Bjert,jert,4.375.000,22-09-2006,Alm. Salg,43.750,4,Sommerhus,100,1934,,Aktuel værdi
+Bjert Kirkevej 256091 Bjert,jert,2.175.000,22-09-2006,Alm. Salg,14.032,6,Villa,155,1910,,Aktuel værdi
+Kausvej 136091 Bjert,jert,1.175.000,17-09-2006,Alm. Salg,24.479,4,Sommerhus,48,1964,,Aktuel værdi
+Vesterløkke 436091 Bjert,jert,1.100.000,12-09-2006,Andet,13.095,3,Villa,84,1952,,Aktuel værdi
+Engdraget 346091 Bjert,jert,1.755.000,31-08-2006,Alm. Salg,10.028,5,Villa,175,1973,,Aktuel værdi
+Kystvej 1106091 Bjert,jert,1.700.000,28-08-2006,Alm. Salg,40.476,2,Sommerhus,42,2007,,Aktuel værdi
+Oluf Ravns Vej 256091 Bjert,jert,1.475.000,27-08-2006,Alm. Salg,29.500,3,Sommerhus,50,1995,,Aktuel værdi
+Østerløkke 43C6091 Bjert,jert,1.500.000,24-08-2006,Alm. Salg,13.043,4,Rækkehus,115,2002,,Aktuel værdi
+Østerløkke 43B6091 Bjert,jert,1.850.000,24-08-2006,Alm. Salg,13.909,4,Villa,133,2001,,Aktuel værdi
+Agtrup Midtskovvej 206091 Bjert,jert,3.200.000,18-08-2006,Alm. Salg,65.306,4,Sommerhus,49,1935,,Aktuel værdi
+Stenderupvej 576091 Bjert,jert,1.240.000,09-08-2006,Alm. Salg,5.486,6,Villa,226,1907,,Aktuel værdi
+Gyndbjerg 16091 Bjert,jert,1.425.000,08-08-2006,Alm. Salg,10.714,3,Villa,133,1960,,Aktuel værdi
+Kystvej 1186091 Bjert,jert,2.106.487,24-07-2006,Alm. Salg,36.318,3,Sommerhus,58,1957,,Aktuel værdi
+Søren Krogs Vej 316091 Bjert,jert,1.000.000,28-06-2006,Alm. Salg,-,5,Sommerhus,92,1966,,Aktuel værdi
+Agtrup Midtskovvej 506091 Bjert,jert,1.140.000,17-06-2006,Alm. Salg,-,5,Villa,221,1920,,Aktuel værdi
+Binderup Strandpark 46091 Bjert,jert,1.150.000,15-06-2006,Alm. Salg,21.698,3,Sommerhus,53,1988,,Aktuel værdi
+Engløkke 216091 Bjert,jert,1.765.000,14-06-2006,Alm. Salg,7.673,6,Villa,230,1966,,Aktuel værdi
+Engløkke 226091 Bjert,jert,1.165.000,08-06-2006,Alm. Salg,-,5,Villa,178,1848,,Aktuel værdi
+Møllevang 136091 Bjert,jert,1.975.000,08-06-2006,Alm. Salg,9.729,7,Villa,203,1971,,Aktuel værdi
+Gl. Skartved 606091 Bjert,jert,1.140.000,02-06-2006,Alm. Salg,2.930,9,Villa,389,2007,,Aktuel værdi
+Gl. Bjært 356091 Bjert,jert,1.250.000,30-05-2006,Alm. Salg,7.062,6,Villa,177,1942,,Aktuel værdi
+Abildvænget 126091 Bjert,jert,820.000,15-05-2006,Alm. Salg,4.248,5,Villa,193,2008,,Aktuel værdi
+Abildvænget 106091 Bjert,jert,820.000,01-05-2006,Alm. Salg,5.256,5,Villa,156,2007,,Aktuel værdi
+Sønderbyvej 196091 Bjert,jert,1.100.000,28-04-2006,Alm. Salg,6.111,6,Villa,180,1920,,Aktuel værdi
+Abildvænget 136091 Bjert,jert,850.000,20-04-2006,Alm. Salg,3.777,6,Villa,225,2008,,Aktuel værdi
+Abildvænget 26091 Bjert,jert,675.000,17-04-2006,Alm. Salg,4.218,6,Villa,160,2007,,Aktuel værdi
+Abildvænget 226091 Bjert,jert,850.000,07-04-2006,Alm. Salg,4.228,6,Villa,201,2006,,Aktuel værdi
+Abildvænget 186091 Bjert,jert,850.000,31-03-2006,Alm. Salg,4.207,6,Villa,202,2006,,Aktuel værdi
+Gl. Bjært 51B6091 Bjert,jert,1.700.000,30-03-2006,Alm. Salg,10.897,5,Villa,156,1987,,Aktuel værdi
+Løgervej 576091 Bjert,jert,5.829.000,22-03-2006,Fam. Salg,33.889,6,Stuehus,172,1846,,
+Sønderbyvej 136091 Bjert,jert,130.213,03-03-2006,Fam. Salg,237,10,Villa,549,1985,,Aktuel værdi
+Møllevang 196091 Bjert,jert,1.850.000,22-02-2006,Alm. Salg,9.736,7,Villa,190,1972,,Aktuel værdi
+Stenderupvej 1326091 Bjert,jert,7.053.219,21-02-2006,Alm. Salg,23.510,9,Stuehus,300,1863,,
+Hasselvænget 306091 Bjert,jert,1.675.000,17-02-2006,Alm. Salg,10.876,5,Villa,154,1978,,Aktuel værdi
+Kystvej 676091 Bjert,jert,3.000.000,09-02-2006,Alm. Salg,38.461,4,Sommerhus,78,2000,,Aktuel værdi
+Gl. Bjært 346091 Bjert,jert,725.000,31-01-2006,Alm. Salg,8.734,3,Villa,83,1962,,Aktuel værdi
+Løgervej 396091 Bjert,jert,1.400.000,26-01-2006,Alm. Salg,6.334,7,Villa,221,1877,,Aktuel værdi
+Bjert Vestervang 296091 Bjert,jert,1.875.000,17-01-2006,Alm. Salg,14.534,5,Villa,129,2005,,Aktuel værdi
+Gl. Bjært 60H6091 Bjert,jert,1.750.000,04-01-2006,Alm. Salg,8.620,6,Rækkehus,203,1942,,Aktuel værdi
+Binderup Strandvej 46091 Bjert,jert,360.000,16-12-2005,Alm. Salg,7.200,3,Sommerhus,50,1937,,Aktuel værdi
+Engløkke 256091 Bjert,jert,697.000,15-12-2005,Fam. Salg,7.414,4,Villa,94,1961,,Aktuel værdi
+Stormgaardsvej 76091 Bjert,jert,1.300.000,13-12-2005,Alm. Salg,9.489,5,Villa,137,1973,,Aktuel værdi
+Gl. Bjært 60B6091 Bjert,jert,1.195.000,12-12-2005,Alm. Salg,12.849,3,Rækkehus,93,1942,,Aktuel værdi
+Gl. Skartved 366091 Bjert,jert,487.500,30-11-2005,Fam. Salg,4.166,4,Stuehus,117,1803,,
+Bjert Vestervang 246091 Bjert,jert,741.142,26-11-2005,Alm. Salg,5.745,6,Villa,129,1964,,Aktuel værdi
+Binderup Strandpark 146091 Bjert,jert,1.010.000,20-11-2005,Alm. Salg,12.625,4,Sommerhus,80,1985,,Aktuel værdi
+Vesterløkke 276091 Bjert,jert,1.870.000,16-11-2005,Alm. Salg,8.779,9,Villa,213,1890,,Aktuel værdi
+Gl. Bjært 60C6091 Bjert,jert,1.280.000,11-11-2005,Alm. Salg,11.428,4,Rækkehus,112,1942,,Aktuel værdi
+Oluf Ravns Vej 236091 Bjert,jert,1.400.000,11-11-2005,Alm. Salg,22.950,3,Sommerhus,61,1996,,Aktuel værdi
+Kystvej 66B6091 Bjert,jert,945.000,04-10-2005,Alm. Salg,15.750,2,Sommerhus,60,1955,,Aktuel værdi
+Kjellerupvej 216091 Bjert,jert,1.250.000,29-09-2005,Alm. Salg,6.868,4,Villa,182,1915,,Aktuel værdi
+Løgervej 276091 Bjert,jert,2.510.000,26-09-2005,Alm. Salg,12.613,5,Villa,199,1900,,Aktuel værdi
+Bjert Strandvej 186091 Bjert,jert,650.000,26-08-2005,Alm. Salg,9.027,2,Villa,72,1870,,Aktuel værdi
+Engløkke 20B6091 Bjert,jert,1.353.000,25-08-2005,Alm. Salg,10.097,3,Villa,134,1982,,Aktuel værdi
+Skrænten 96091 Bjert,jert,1.175.000,08-08-2005,Alm. Salg,7.679,5,Villa,153,1966,,Aktuel værdi
+Mariavej 76091 Bjert,jert,1.520.000,25-07-2005,Alm. Salg,9.806,6,Villa,155,1971,,Aktuel værdi
+Havevej 3B6091 Bjert,jert,1.235.000,21-07-2005,Alm. Salg,10.206,5,Villa,121,1920,,Aktuel værdi
+Binderup Strandpark 786091 Bjert,jert,1.000.000,27-06-2005,Alm. Salg,12.048,3,Sommerhus,83,1984,,Aktuel værdi
+Stenderupvej 1036091 Bjert,jert,1.350.000,17-06-2005,Alm. Salg,4.485,9,Villa,301,1860,,Aktuel værdi
+Gl. Binderup 2A6091 Bjert,jert,1.655.000,15-06-2005,Alm. Salg,10.216,4,Villa,162,1953,,Aktuel værdi
+Søren Krogs Vej 8B6091 Bjert,jert,665.000,13-06-2005,Alm. Salg,7.388,4,Sommerhus,90,2006,,Aktuel værdi
+Binderup Strandpark 446091 Bjert,jert,1.075.000,07-06-2005,Alm. Salg,15.140,4,Sommerhus,71,1986,,Aktuel værdi
+Vesterløkke 336091 Bjert,jert,700.000,23-05-2005,Alm. Salg,5.185,4,Villa,135,1895,,Aktuel værdi
+Skrænten 26091 Bjert,jert,1.065.000,04-05-2005,Alm. Salg,8.385,4,Villa,127,1972,,Aktuel værdi
+Kystvej 70G6091 Bjert,jert,2.524.996,21-04-2005,Alm. Salg,25.765,4,Sommerhus,98,1992,,Aktuel værdi
+Binderup Strandpark 466091 Bjert,jert,1.010.000,12-04-2005,Alm. Salg,13.835,5,Sommerhus,73,1986,,Aktuel værdi
+Binderup Strandpark 66091 Bjert,jert,1.030.000,11-04-2005,Alm. Salg,16.612,4,Sommerhus,62,1987,,Aktuel værdi
+Kausvej 96091 Bjert,jert,835.000,04-04-2005,Alm. Salg,9.076,3,Sommerhus,92,1947,,Aktuel værdi
+Kystvej 806091 Bjert,jert,400.000,28-03-2005,Fam. Salg,7.017,3,Sommerhus,57,1950,,Aktuel værdi
+Binderup Strandpark 626091 Bjert,jert,1.276.947,18-03-2005,Alm. Salg,15.961,4,Sommerhus,80,1994,,Aktuel værdi
+Stenderupvej 686091 Bjert,jert,598.000,17-03-2005,Alm. Salg,6.229,4,Villa,96,1900,,Aktuel værdi
+Niels Uldals Vej 16091 Bjert,jert,1.585.000,10-03-2005,Alm. Salg,12.382,5,Villa,128,1990,,Aktuel værdi
+Bjert Kirkevej 196091 Bjert,jert,525.000,08-03-2005,Fam. Salg,4.605,4,Villa,114,1977,,Aktuel værdi
+Engløkke 86091 Bjert,jert,1.095.000,01-03-2005,Alm. Salg,7.348,5,Villa,149,1910,,Aktuel værdi
+Møllevang 156091 Bjert,jert,1.200.000,27-02-2005,Alm. Salg,8.108,4,Villa,148,1973,,Aktuel værdi
+Løgervej 4A6091 Bjert,jert,662.499,17-02-2005,Alm. Salg,3.561,5,Villa,186,1967,,Aktuel værdi
+Gl. Bjært 416091 Bjert,jert,1.220.000,09-02-2005,Alm. Salg,9.104,4,Villa,134,1974,,Aktuel værdi
+Hasselvænget 126091 Bjert,jert,1.595.000,08-02-2005,Alm. Salg,7.896,4,Villa,202,1974,,Aktuel værdi
+Gl. Bjært 60P6091 Bjert,jert,1.795.000,05-02-2005,Alm. Salg,9.547,9,Anden beboelse,188,1850,,Aktuel værdi
+Kystvej 426091 Bjert,jert,1.650.000,01-02-2005,Alm. Salg,14.864,5,Sommerhus,111,1968,,Aktuel værdi
+Gl. Skartved 576091 Bjert,jert,1.000.000,05-01-2005,Alm. Salg,6.711,7,Villa,149,1968,,Aktuel værdi
+Mariavej 186091 Bjert,jert,2.390.000,04-01-2005,Alm. Salg,9.053,5,Villa,264,1977,,Aktuel værdi
+Kystvej 25A6091 Bjert,jert,2.610.500,07-12-2004,Alm. Salg,20.236,3,Sommerhus,129,2009,,Aktuel værdi
+Schultzvej 46091 Bjert,jert,1.095.000,06-12-2004,Alm. Salg,9.776,6,Villa,112,1967,,Aktuel værdi
+Kystvej 36091 Bjert,jert,512.500,02-12-2004,Fam. Salg,3.609,5,Rækkehus,142,1877,,Aktuel værdi
+Buskvej 56091 Bjert,jert,1.540.000,30-11-2004,Alm. Salg,21.095,5,Sommerhus,73,1994,,Aktuel værdi
+Skamlingvejen 1186091 Bjert,jert,1.490.000,08-10-2004,Alm. Salg,7.563,5,Villa,197,1911,,Aktuel værdi
+Stenderupvej 406091 Bjert,jert,875.000,27-09-2004,Alm. Salg,7.882,6,Villa,111,1949,,Aktuel værdi
+Binderup Villavej 36091 Bjert,jert,2.350.000,22-09-2004,Alm. Salg,11.032,8,Villa,213,1911,,Aktuel værdi
+Oluf Ravns Vej 316091 Bjert,jert,1.040.000,20-09-2004,Alm. Salg,19.622,4,Sommerhus,53,1997,,Aktuel værdi
+Østerløkke 56091 Bjert,jert,1.611.658,01-09-2004,Alm. Salg,10.331,6,Villa,156,1993,,Aktuel værdi
+Østerløkke 136091 Bjert,jert,862.500,25-08-2004,Alm. Salg,5.637,5,Villa,153,1994,,Aktuel værdi
+Kausvej 106091 Bjert,jert,355.000,23-08-2004,Alm. Salg,7.888,3,Sommerhus,45,1951,,Aktuel værdi
+Binderupvej 106091 Bjert,jert,1.085.000,13-08-2004,Alm. Salg,8.543,5,Villa,127,1966,,Aktuel værdi
+Løgervej 66091 Bjert,jert,1.095.000,09-08-2004,Alm. Salg,6.479,5,Villa,169,1900,,Aktuel værdi
+Agtrupvang 26091 Bjert,jert,650.000,19-07-2004,Alm. Salg,4.513,5,Villa,144,2001,,Aktuel værdi
+Møllevang 26091 Bjert,jert,1.375.000,09-07-2004,Alm. Salg,10.110,4,Villa,136,1970,,Aktuel værdi
+Guldager 126091 Bjert,jert,1.350.000,07-07-2004,Alm. Salg,8.282,6,Villa,163,1973,,Aktuel værdi
+Søren Krogs Vej 46091 Bjert,jert,625.000,03-07-2004,Alm. Salg,14.204,2,Sommerhus,44,1953,,Aktuel værdi
+Bjert Kirkesti 2B6091 Bjert,jert,1.228.531,01-07-2004,Alm. Salg,6.332,8,Villa,194,1882,,Aktuel værdi
+Hasselvænget 266091 Bjert,jert,1.250.000,21-06-2004,Alm. Salg,9.191,4,Villa,136,1982,,Aktuel værdi
+Østerløkke 396091 Bjert,jert,1.880.000,31-05-2004,Alm. Salg,10.994,1,Villa,171,1990,,Aktuel værdi
+Hasselvænget 46091 Bjert,jert,1.300.000,10-05-2004,Alm. Salg,10.156,5,Villa,128,1996,,Aktuel værdi
+Bjert Kirkevej 336091 Bjert,jert,1.250.000,06-05-2004,Alm. Salg,8.389,6,Villa,149,1917,,Aktuel værdi
+Kausvej 86091 Bjert,jert,720.000,19-04-2004,Alm. Salg,17.142,2,Sommerhus,42,1966,,Aktuel værdi
+Kystvej 70C6091 Bjert,jert,1.375.000,05-04-2004,Alm. Salg,19.642,4,Sommerhus,70,1994,,Aktuel værdi
+Skrænten 366091 Bjert,jert,1.350.000,18-03-2004,Alm. Salg,8.881,5,Villa,152,1976,,Aktuel værdi
+Bjert Kirkesti 46091 Bjert,jert,840.000,13-03-2004,Alm. Salg,-,5,Villa,126,1905,,Aktuel værdi
+Bæklandsvej 86091 Bjert,jert,1.995.000,01-03-2004,Alm. Salg,9.684,8,Villa,206,1922,,Aktuel værdi
+Sønderbyvej 286091 Bjert,jert,606.398,05-01-2004,Andet,4.125,4,Villa,147,1972,,Aktuel værdi
+Kystvej 906091 Bjert,jert,1.351.500,02-01-2004,Alm. Salg,13.790,4,Sommerhus,98,1924,,Aktuel værdi
+Søren Krogs Vej 26091 Bjert,jert,518.500,18-12-2003,Fam. Salg,-,4,Sommerhus,76,1982,,Aktuel værdi
+Stenderupvej 326091 Bjert,jert,2.950.000,14-11-2003,Fam. Salg,15.128,5,Villa,195,1964,,Aktuel værdi
+Skartved Overgade 46091 Bjert,jert,1.198.000,11-11-2003,Alm. Salg,5.546,7,Villa,216,1904,,Aktuel værdi
+Bjert Kirkesti 66091 Bjert,jert,1.206.510,10-11-2003,Alm. Salg,10.968,4,Villa,110,1986,,Aktuel værdi
+Bæklandsvej 66091 Bjert,jert,650.000,03-10-2003,Alm. Salg,-,5,Villa,122,1800,,Aktuel værdi
+Stenderupvej 616091 Bjert,jert,239.212,29-09-2003,Andet,2.214,4,Rækkehus,108,1875,,Aktuel værdi
+Gl. Bjært 656091 Bjert,jert,1.395.000,26-09-2003,Alm. Salg,-,5,Villa,145,1973,,Aktuel værdi
+Åvænget 136091 Bjert,jert,1.025.000,25-09-2003,Alm. Salg,7.020,4,Villa,146,1969,,Aktuel værdi
+Trekanten 36091 Bjert,jert,1.000.000,25-09-2003,Alm. Salg,6.622,4,Villa,151,1970,,Aktuel værdi
+Kystvej 104C6091 Bjert,jert,1.800.000,22-08-2003,Alm. Salg,24.324,4,Sommerhus,74,2001,,Aktuel værdi
+Nørrevænget 46091 Bjert,jert,3.100.000,06-08-2003,Fam. Salg,12.500,6,Stuehus,248,1850,,
+Søren Krogs Vej 296091 Bjert,jert,930.000,30-07-2003,Alm. Salg,-,5,Sommerhus,102,1965,,Aktuel værdi
+Mariavej 166091 Bjert,jert,1.160.000,29-07-2003,Alm. Salg,6.744,5,Villa,172,1972,,Aktuel værdi
+Thorsvej 26091 Bjert,jert,1.557.035,07-07-2003,Alm. Salg,6.058,5,Villa,257,1929,,Aktuel værdi
+Oluf Ravns Vej 556091 Bjert,jert,1.260.000,02-07-2003,Alm. Salg,22.909,4,Sommerhus,55,1995,,Aktuel værdi
+Løgervej 136091 Bjert,jert,980.000,02-07-2003,Alm. Salg,12.564,3,Villa,78,1877,,Aktuel værdi
+Binderup Strandpark 366091 Bjert,jert,1.140.000,23-06-2003,Alm. Salg,16.521,3,Sommerhus,69,1998,,Aktuel værdi
+Agtrup Midtskovvej 16C6091 Bjert,jert,740.000,20-06-2003,Alm. Salg,10.571,3,Sommerhus,70,1969,,Aktuel værdi
+Nørrevænget 136091 Bjert,jert,1.295.000,19-05-2003,Alm. Salg,-,4,Villa,169,1971,,Aktuel værdi
+Sønderbyvej 306091 Bjert,jert,433.555,09-05-2003,Alm. Salg,2.871,6,Villa,151,1971,,Aktuel værdi
+Løgervej 176091 Bjert,jert,1.050.000,08-04-2003,Alm. Salg,6.953,6,Villa,151,1968,,Aktuel værdi
+Skovhavevej 106091 Bjert,jert,310.933,04-04-2003,Andet,-,6,Villa,157,1860,,Aktuel værdi
+Kystvej 73A6091 Bjert,jert,1.800.000,10-03-2003,Alm. Salg,13.043,5,Sommerhus,138,2011,,Aktuel værdi
+Mariavej 226091 Bjert,jert,1.435.000,03-03-2003,Alm. Salg,7.396,7,Villa,194,1971,,Aktuel værdi
+Binderup Strandpark 706091 Bjert,jert,1.050.000,06-02-2003,Alm. Salg,13.636,4,Sommerhus,77,1997,,Aktuel værdi
+Gl. Bjært 76091 Bjert,jert,625.000,04-02-2003,Alm. Salg,5.896,3,Rækkehus,106,1914,,Aktuel værdi
+Elkærgyde 86091 Bjert,jert,650.000,19-12-2002,Fam. Salg,4.193,5,Villa,155,1915,,Aktuel værdi
+Kystvej 416091 Bjert,jert,1.027.499,02-12-2002,Alm. Salg,12.685,5,Sommerhus,81,1929,,Aktuel værdi
+Løgervej 126091 Bjert,jert,660.000,23-11-2002,Alm. Salg,7.857,4,Villa,84,1959,,Aktuel værdi
+Skartvedvej 136091 Bjert,jert,700.000,12-11-2002,Alm. Salg,-,4,Villa,127,1960,,Aktuel værdi
+Stenderupvej 656091 Bjert,jert,615.000,12-11-2002,Alm. Salg,-,5,Villa,147,1908,,Aktuel værdi
+Løgervej 296091 Bjert,jert,759.000,08-11-2002,Alm. Salg,4.993,5,Villa,152,1827,,Aktuel værdi
+Bjert Strandvej 126091 Bjert,jert,460.000,06-11-2002,Fam. Salg,4.423,3,Villa,104,1935,,Aktuel værdi
+Gl. Binderup 46091 Bjert,jert,1.044.988,06-11-2002,Fam. Salg,3.884,10,Villa,269,1844,,Aktuel værdi
+Bjert Stationsvej 36091 Bjert,jert,785.000,31-10-2002,Alm. Salg,10.902,2,Villa,72,1957,,Aktuel værdi
+Hasselvænget 36091 Bjert,jert,1.140.000,24-10-2002,Alm. Salg,7.354,5,Villa,155,1974,,Aktuel værdi
+Engdraget 306091 Bjert,jert,1.000.000,22-10-2002,Alm. Salg,5.464,7,Villa,183,1976,,Aktuel værdi
+Møllebakken 76091 Bjert,jert,1.200.000,02-10-2002,Alm. Salg,7.407,5,Villa,162,1980,,Aktuel værdi
+Kausvej 16091 Bjert,jert,610.000,19-09-2002,Alm. Salg,9.838,4,Sommerhus,62,2009,,Aktuel værdi
+Gl. Bjært 39A6091 Bjert,jert,905.000,17-08-2002,Andet,7.479,4,Villa,121,1977,,Aktuel værdi
+Binderup Strandpark 386091 Bjert,jert,1.034.000,04-08-2002,Alm. Salg,14.563,4,Sommerhus,71,1984,,Aktuel værdi
+Vesterløkke 156091 Bjert,jert,1.275.000,26-06-2002,Fam. Salg,7.244,7,Stuehus,176,1910,,
+Stenderupvej 46091 Bjert,jert,1.300.000,07-06-2002,Alm. Salg,6.467,4,Villa,201,1870,,Aktuel værdi
+Kystvej 44B6091 Bjert,jert,779.000,28-04-2002,Fam. Salg,12.171,3,Sommerhus,64,1976,,Aktuel værdi
+Bjert Stationsvej 16091 Bjert,jert,660.000,12-04-2002,Alm. Salg,-,7,Villa,192,1955,,Aktuel værdi
+Agtrupvang 56091 Bjert,jert,350.000,06-03-2002,Alm. Salg,2.500,5,Villa,140,2003,,Aktuel værdi
+Søren Krogs Vej 76091 Bjert,jert,800.000,03-03-2002,Andet,7.207,3,Sommerhus,111,1953,,Aktuel værdi
+Vesterløkke 186091 Bjert,jert,1.511.716,02-03-2002,Alm. Salg,9.106,6,Villa,166,1900,,Aktuel værdi
+Kurupvej 46091 Bjert,jert,950.000,20-02-2002,Alm. Salg,10.215,3,Villa,93,1936,,Aktuel værdi
+Binderup Strandpark 186091 Bjert,jert,640.000,01-02-2002,Alm. Salg,-,4,Sommerhus,81,1984,,Aktuel værdi
+Åvænget 66091 Bjert,jert,1.149.902,11-01-2002,Alm. Salg,6.608,6,Villa,174,1967,,Aktuel værdi
+Gl. Bjært 576091 Bjert,jert,949.860,20-12-2001,Alm. Salg,-,7,Villa,186,1900,,Aktuel værdi
+Binderup Strandpark 526091 Bjert,jert,925.000,14-12-2001,Alm. Salg,12.500,3,Sommerhus,74,1989,,Aktuel værdi
+Kystvej 176091 Bjert,jert,575.000,10-12-2001,Fam. Salg,5.476,6,Sommerhus,105,1931,,Aktuel værdi
+Binderup Strandpark 546091 Bjert,jert,1.100.000,09-11-2001,Alm. Salg,13.095,4,Sommerhus,84,1993,,Aktuel værdi
+Gl. Bjært 376091 Bjert,jert,612.000,04-11-2001,Alm. Salg,7.285,4,Villa,84,1854,,Aktuel værdi
+Vesterløkke 416091 Bjert,jert,860.000,30-10-2001,Fam. Salg,4.751,6,Villa,181,1900,,Aktuel værdi
+Vesterløkke 266091 Bjert,jert,1.119.456,16-08-2001,Alm. Salg,6.585,7,Villa,170,1917,,Aktuel værdi
+Skarre Strandvej 136091 Bjert,jert,3.000.000,03-08-2001,Alm. Salg,9.836,8,Villa,305,1754,,Aktuel værdi
+Skrænten 116091 Bjert,jert,854.900,30-07-2001,Alm. Salg,7.701,4,Villa,111,1966,,Aktuel værdi
+Stenderupvej 636091 Bjert,jert,350.000,25-07-2001,Alm. Salg,3.125,3,Rækkehus,112,1870,,Aktuel værdi
+Bjert Vestervang 46091 Bjert,jert,814.017,17-07-2001,Alm. Salg,-,7,Villa,222,1966,,Aktuel værdi
+Engløkke 166091 Bjert,jert,701.380,17-07-2001,Alm. Salg,7.970,3,Villa,88,1904,,Aktuel værdi
+Vesterløkke 7A6091 Bjert,jert,454.968,22-06-2001,Alm. Salg,2.486,5,Villa,183,2001,,Aktuel værdi
+Vesterløkke 9A6091 Bjert,jert,535.000,22-06-2001,Fam. Salg,2.165,6,Villa,247,1906,,Aktuel værdi
+Gl. Bjært 526091 Bjert,jert,395.000,15-06-2001,Alm. Salg,-,5,Villa,146,1952,,Aktuel værdi
+Vesterløkke 176091 Bjert,jert,775.000,15-06-2001,Alm. Salg,5.496,7,Villa,141,1949,,Aktuel værdi
+Sønderbyvej 226091 Bjert,jert,1.123.000,12-06-2001,Alm. Salg,7.018,8,Villa,160,1969,,Aktuel værdi
+Søren Krogs Vej 96091 Bjert,jert,725.000,12-06-2001,Alm. Salg,13.181,4,Sommerhus,55,1986,,Aktuel værdi
+Skartved Overgade 66091 Bjert,jert,1.095.000,11-06-2001,Alm. Salg,8.171,3,Villa,134,1988,,Aktuel værdi
+Åvænget 106091 Bjert,jert,1.465.000,31-05-2001,Alm. Salg,9.832,5,Villa,149,1995,,Aktuel værdi
+Kystvej 966091 Bjert,jert,1.249.000,31-05-2001,Alm. Salg,-,3,Sommerhus,79,1997,,Aktuel værdi
+Kystvej 26091 Bjert,jert,1.199.840,14-05-2001,Alm. Salg,-,6,Villa,138,1928,,Aktuel værdi
+Skovhavevej 516091 Bjert,jert,824.997,12-05-2001,Fam. Salg,6.156,4,Stuehus,134,2004,,
+Kystvej 16091 Bjert,jert,869.160,09-05-2001,Alm. Salg,9.765,5,Villa,89,1936,,Aktuel værdi
+Thorsvej 106091 Bjert,jert,759.540,01-05-2001,Alm. Salg,7.830,3,Villa,97,1970,,Aktuel værdi
+Vesterløkke 396091 Bjert,jert,790.000,20-04-2001,Alm. Salg,-,6,Villa,125,1917,,Aktuel værdi
+Østerløkke 216091 Bjert,jert,1.225.000,20-04-2001,Alm. Salg,7.000,6,Villa,175,1989,,Aktuel værdi
+Gl. Bjært 326091 Bjert,jert,985.000,11-04-2001,Alm. Salg,-,6,Villa,170,1900,,Aktuel værdi
+Kystvej 326091 Bjert,jert,879.148,06-04-2001,Alm. Salg,6.512,3,Sommerhus,135,2010,,Aktuel værdi
+Bjert Vestervang 136091 Bjert,jert,1.302.587,30-03-2001,Alm. Salg,8.458,6,Villa,154,1965,,Aktuel værdi
+Kystvej 236091 Bjert,jert,1.199.643,13-03-2001,Alm. Salg,9.753,4,Sommerhus,123,2002,,Aktuel værdi
+Gl. Bjært 46091 Bjert,jert,920.000,09-03-2001,Alm. Salg,8.070,4,Villa,114,1943,,Aktuel værdi
+Sønderbyvej 336091 Bjert,jert,1.030.000,30-01-2001,Alm. Salg,8.879,6,Villa,116,1900,,Aktuel værdi
+Skamlingvejen 956091 Bjert,jert,1.450.000,19-01-2001,Alm. Salg,8.630,3,Villa,168,1960,,Aktuel værdi
+Agtrup Midtskovvej 826091 Bjert,jert,1.316.160,04-12-2000,Alm. Salg,8.774,5,Villa,150,1875,,Aktuel værdi
+Gl. Bjært 116091 Bjert,jert,635.000,01-11-2000,Alm. Salg,7.650,3,Villa,83,1963,,Aktuel værdi
+Gl. Skartved 346091 Bjert,jert,1.615.000,27-10-2000,Fam. Salg,4.654,13,Stuehus,347,1866,,
+Gl. Bjært 546091 Bjert,jert,1.206.480,29-09-2000,Alm. Salg,-,5,Villa,152,1850,,Aktuel værdi
+Gyndbjerg 56091 Bjert,jert,1.350.000,25-09-2000,Alm. Salg,7.336,6,Villa,184,1977,,Aktuel værdi
+Oluf Ravns Vej 296091 Bjert,jert,275.000,21-09-2000,Alm. Salg,-,3,Sommerhus,56,2000,,Aktuel værdi
+Kausvej 76091 Bjert,jert,525.000,07-09-2000,Alm. Salg,11.666,3,Sommerhus,45,2001,,Aktuel værdi
+Binderup Strandpark 766091 Bjert,jert,855.001,04-09-2000,Alm. Salg,-,5,Sommerhus,81,1997,,Aktuel værdi
+Gyndbjerg 156091 Bjert,jert,1.250.000,16-08-2000,Alm. Salg,6.281,6,Villa,199,1977,,Aktuel værdi
+Bjert Kirkevej 36091 Bjert,jert,735.000,15-08-2000,Alm. Salg,7.000,4,Villa,105,1978,,Aktuel værdi
+Møllebakken 126091 Bjert,jert,1.850.000,14-07-2000,Alm. Salg,14.682,9,Ukendt,126,1980,,Aktuel værdi
+Hasselvænget 166091 Bjert,jert,875.000,22-06-2000,Alm. Salg,7.675,4,Villa,114,1974,,Aktuel værdi
+Elbjerggyde 156091 Bjert,jert,220.000,10-05-2000,Alm. Salg,890,7,Stuehus,247,1989,,
+Gl. Bjært 60A6091 Bjert,jert,798.000,30-04-2000,Alm. Salg,7.457,3,Rækkehus,107,1942,,Aktuel værdi
+Buskvej 46091 Bjert,jert,1.053.000,29-04-2000,Alm. Salg,17.847,3,Sommerhus,59,1995,,Aktuel værdi
+Bjert Strandvej 76091 Bjert,jert,550.000,01-04-2000,Fam. Salg,3.437,5,Villa,160,1923,,Aktuel værdi
+Bjert Vestervang 166091 Bjert,jert,1.350.000,28-03-2000,Alm. Salg,6.308,6,Villa,214,1966,,Aktuel værdi
+Kystvej 1086091 Bjert,jert,1.450.000,01-03-2000,Alm. Salg,17.058,3,Sommerhus,85,1994,,Aktuel værdi
+Skamlingvejen 1246091 Bjert,jert,790.500,28-01-2000,Fam. Salg,4.227,6,Stuehus,187,1936,,
+Møllevang 146091 Bjert,jert,1.030.000,21-12-1999,Alm. Salg,6.959,4,Villa,148,1969,,Aktuel værdi
+Østerløkke 43D6091 Bjert,jert,480.888,17-12-1999,Alm. Salg,4.181,4,Villa,115,2002,,Aktuel værdi
+Binderupvej 4B6091 Bjert,jert,300.000,01-12-1999,Alm. Salg,1.785,5,Villa,168,2001,,Aktuel værdi
+Bjert Kirkevej 76091 Bjert,jert,963.000,16-11-1999,Alm. Salg,8.447,4,Villa,114,1977,,Aktuel værdi
+Binderup Strandvej 456091 Bjert,jert,550.000,11-11-1999,Alm. Salg,2.669,5,Villa,206,2006,,Aktuel værdi
+Møllebakken 86091 Bjert,jert,1.112.000,08-11-1999,Alm. Salg,9.754,4,Villa,114,1969,,Aktuel værdi
+Kystvej 736091 Bjert,jert,1.147.500,06-10-1999,Fam. Salg,10.527,5,Sommerhus,109,1934,,Aktuel værdi
+Skrænten 36091 Bjert,jert,808.629,03-10-1999,Alm. Salg,7.628,5,Villa,106,1965,,Aktuel værdi
+Åvænget 116091 Bjert,jert,921.000,28-09-1999,Alm. Salg,6.059,7,Villa,152,1967,,Aktuel værdi
+Gl. Bjært 39B6091 Bjert,jert,1.466.330,25-09-1999,Alm. Salg,6.982,4,Villa,210,1975,,Aktuel værdi
+Gl. Bjært 366091 Bjert,jert,811.188,16-08-1999,Alm. Salg,2.278,12,Stuehus,356,1871,,
+Oluf Ravns Vej 176091 Bjert,jert,1.071.000,06-08-1999,Alm. Salg,15.985,4,Sommerhus,67,1993,,Aktuel værdi
+Engløkke 66091 Bjert,jert,1.275.025,30-07-1999,Alm. Salg,6.929,7,Villa,184,1871,,Aktuel værdi
+Stenderupvej 386091 Bjert,jert,536.831,12-07-1999,Alm. Salg,6.710,3,Villa,80,1949,,Aktuel værdi
+Møllevang 16091 Bjert,jert,1.200.920,02-07-1999,Alm. Salg,-,5,Villa,189,1970,,Aktuel værdi
+Agtrupvang 46091 Bjert,jert,375.000,23-06-1999,Alm. Salg,2.483,5,Villa,151,1999,,Aktuel værdi
+Elkærgyde 106091 Bjert,jert,789.000,23-06-1999,Alm. Salg,4.288,5,Villa,184,1880,,Aktuel værdi
+Kausvej 26091 Bjert,jert,400.000,14-06-1999,Alm. Salg,7.843,2,Sommerhus,51,1938,,Aktuel værdi
+Bjert Vestervang 256091 Bjert,jert,434.600,03-06-1999,Alm. Salg,7.624,2,Rækkehus,57,1973,,Aktuel værdi
+Buskvej 206091 Bjert,jert,400.000,28-05-1999,Fam. Salg,6.779,3,Sommerhus,59,1995,,Aktuel værdi
+Løgervej 206091 Bjert,jert,544.090,07-05-1999,Fam. Salg,3.510,4,Villa,155,1880,,Aktuel værdi
+Vesterskovvej 296091 Bjert,jert,1.439.000,29-03-1999,Alm. Salg,-,5,Villa,222,1936,,Aktuel værdi
+Agtrup Midtskovvej 1256091 Bjert,jert,2.946.997,24-03-1999,Fam. Salg,20.184,6,Stuehus,146,1836,,
+Gl. Bjært 60M6091 Bjert,jert,1.507.000,01-03-1999,Alm. Salg,8.015,4,Rækkehus,188,1850,,Aktuel værdi
+Mariavej 16091 Bjert,jert,1.482.910,31-01-1999,Alm. Salg,6.994,9,Villa,212,1969,,Aktuel værdi
+Skrænten 406091 Bjert,jert,1.318.000,29-01-1999,Alm. Salg,7.892,5,Villa,167,1974,,Aktuel værdi
+Kystvej 506091 Bjert,jert,329.197,22-01-1999,Alm. Salg,-,6,Sommerhus,117,1974,,Aktuel værdi
+Engløkke 96091 Bjert,jert,890.199,12-11-1998,Alm. Salg,-,5,Villa,159,1973,,Aktuel værdi
+Binderup Strandvej 926091 Bjert,jert,375.000,31-10-1998,Alm. Salg,8.333,3,Sommerhus,45,1938,,Aktuel værdi
+Åvænget 256091 Bjert,jert,982.539,14-10-1998,Alm. Salg,9.097,4,Villa,108,1966,,Aktuel værdi
+"Gl. Bjært 16, 16091 Bjert",jert,3.000.000,01-09-1998,Alm. Salg,-,5,Lejlighed,181,1853,,Aktuel værdi
+Strårupmarkvej 216091 Bjert,jert,75.000,18-08-1998,Alm. Salg,303,9,Stuehus,247,1900,,
+Kystvej 846091 Bjert,jert,600.000,17-08-1998,Alm. Salg,8.571,3,Sommerhus,70,1945,,Aktuel værdi
+Løgervej 186091 Bjert,jert,875.000,15-07-1998,Alm. Salg,8.101,4,Villa,108,1939,,Aktuel værdi
+Vesterskovvej 126091 Bjert,jert,822.000,23-06-1998,Alm. Salg,5.956,5,Villa,138,1942,,Aktuel værdi
+Skovhavevej 536091 Bjert,jert,1.150.000,22-06-1998,Alm. Salg,6.424,7,Villa,179,1777,,Aktuel værdi
+Gl. Skartved 556091 Bjert,jert,948.000,15-06-1998,Alm. Salg,4.937,6,Villa,192,1920,,Aktuel værdi
+Åvænget 26091 Bjert,jert,932.000,11-05-1998,Alm. Salg,8.247,4,Villa,113,1969,,Aktuel værdi
+Nørrevænget 156091 Bjert,jert,375.000,04-05-1998,Alm. Salg,2.798,5,Villa,134,1998,,Aktuel værdi
+Hasselvænget 106091 Bjert,jert,1.088.000,17-04-1998,Alm. Salg,8.500,5,Villa,128,1979,,Aktuel værdi
+Hasselvænget 366091 Bjert,jert,1.083.171,17-04-1998,Alm. Salg,6.943,5,Villa,156,1977,,Aktuel værdi
+Sønderbyvej 346091 Bjert,jert,1.206.000,10-04-1998,Alm. Salg,7.934,5,Villa,152,1975,,Aktuel værdi
+Kystvej 56091 Bjert,jert,1.188.000,27-03-1998,Alm. Salg,8.800,5,Sommerhus,135,1900,,Aktuel værdi
+Stormgaardsvej 86091 Bjert,jert,1.361.800,15-03-1998,Alm. Salg,9.201,5,Villa,148,1973,,Aktuel værdi
+Østerløkke 196091 Bjert,jert,1.075.000,25-02-1998,Alm. Salg,-,5,Villa,135,1988,,Aktuel værdi
+Buskvej 86091 Bjert,jert,1.125.000,25-02-1998,Alm. Salg,17.578,4,Sommerhus,64,1995,,Aktuel værdi
+Agtrup Midtskovvej 1166091 Bjert,jert,230.000,19-02-1998,Fam. Salg,-,4,Sommerhus,63,1919,,Aktuel værdi
+Skovhavevej 606091 Bjert,jert,4.500.000,11-02-1998,Alm. Salg,21.634,10,Villa,208,2000,,Aktuel værdi
+Binderup Strandvej 906091 Bjert,jert,1.584.560,27-01-1998,Alm. Salg,-,9,Villa,246,1937,,Aktuel værdi
+Skarre Strandvej 146091 Bjert,jert,830.000,26-11-1997,Alm. Salg,4.170,5,Stuehus,199,1984,,
+Mariavej 56091 Bjert,jert,999.000,26-11-1997,Alm. Salg,6.750,5,Villa,148,1972,,Aktuel værdi
+Sønderbyvej 266091 Bjert,jert,663.000,24-11-1997,Alm. Salg,-,6,Villa,166,1963,,Aktuel værdi
+Søren Krogs Vej 216091 Bjert,jert,580.000,04-11-1997,Alm. Salg,-,4,Sommerhus,77,1964,,Aktuel værdi
+Skovhavevej 556091 Bjert,jert,1.350.000,26-08-1997,Alm. Salg,4.245,10,Stuehus,318,1858,,
+Binderup Strandvej 1006091 Bjert,jert,750.000,20-08-1997,Alm. Salg,10.000,3,Sommerhus,75,1940,,Aktuel værdi
+Nørrevænget 186091 Bjert,jert,600.000,05-08-1997,Alm. Salg,4.477,5,Villa,134,1778,,Aktuel værdi
+Søren Krogs Vej 36091 Bjert,jert,490.000,24-07-1997,Alm. Salg,5.268,4,Sommerhus,93,2000,,Aktuel værdi
+Buskvej 106091 Bjert,jert,1.150.000,04-07-1997,Alm. Salg,15.540,3,Sommerhus,74,1995,,Aktuel værdi
+Binderup Søndergade 226091 Bjert,jert,419.661,01-07-1997,Alm. Salg,-,7,Villa,156,1908,,Aktuel værdi
+Stenderupvej 1016091 Bjert,jert,1.361.221,23-06-1997,Alm. Salg,4.552,8,Stuehus,299,1858,,
+Engløkke 186091 Bjert,jert,731.000,04-06-1997,Alm. Salg,-,5,Villa,123,1964,,Aktuel værdi
+Mariavej 36091 Bjert,jert,944.000,02-06-1997,Alm. Salg,4.233,6,Villa,223,1969,,Aktuel værdi
+Bæklandsvej 116091 Bjert,jert,80.000,31-05-1997,Fam. Salg,650,4,Villa,123,1998,,Aktuel værdi
+Oluf Ravns Vej 476091 Bjert,jert,210.000,26-05-1997,Alm. Salg,2.625,4,Sommerhus,80,2000,,Aktuel værdi
+Vesterløkke 9B6091 Bjert,jert,90.000,23-05-1997,Alm. Salg,511,8,Villa,176,1997,,Aktuel værdi
+Kystvej 526091 Bjert,jert,357.000,27-04-1997,Fam. Salg,5.578,4,Sommerhus,64,1973,,Aktuel værdi
+Møllebakken 166091 Bjert,jert,1.218.798,20-04-1997,Alm. Salg,8.705,4,Villa,140,1989,,Aktuel værdi
+Strårupmarkvej 176091 Bjert,jert,1.052.000,16-04-1997,Fam. Salg,7.514,5,Stuehus,140,1900,,
+Oluf Ravns Vej 156091 Bjert,jert,793.000,03-04-1997,Alm. Salg,9.790,3,Sommerhus,81,1994,,Aktuel værdi
+Hasselvænget 326091 Bjert,jert,1.050.000,21-03-1997,Alm. Salg,-,6,Villa,177,1977,,Aktuel værdi
+Bjert Vestervang 236091 Bjert,jert,293.760,21-03-1997,Fam. Salg,-,2,Rækkehus,61,1969,,Aktuel værdi
+Binderup Strandpark 426091 Bjert,jert,198.000,14-03-1997,Alm. Salg,2.828,1,Sommerhus,70,1997,,Aktuel værdi
+Søren Krogs Vej 226091 Bjert,jert,157.248,10-02-1997,Alm. Salg,1.416,4,Sommerhus,111,2016,,Aktuel værdi
+Gyndbjerg 136091 Bjert,jert,1.080.000,05-02-1997,Alm. Salg,6.585,5,Villa,164,1977,,Aktuel værdi
+Bjert Strandvej 36091 Bjert,jert,603.922,03-01-1997,Alm. Salg,-,9,Villa,243,1930,,Aktuel værdi
+Aagyden 156091 Bjert,jert,1.000.000,28-11-1996,Alm. Salg,7.692,4,Stuehus,130,2000,,
+Agtrup Midtskovvej 836091 Bjert,jert,1.350.000,07-11-1996,Alm. Salg,-,5,Villa,212,1900,,Aktuel værdi
+Bæklandsvej 36091 Bjert,jert,799.000,18-10-1996,Alm. Salg,4.700,8,Villa,170,1828,,Aktuel værdi
+"Gyndbjerg 27, 1. TV6091 Bjert",jert,270.000,30-09-1996,Alm. Salg,4.285,3,Lejlighed,63,1877,,Aktuel værdi
+Skovhavevej 416091 Bjert,jert,375.000,26-09-1996,Alm. Salg,3.826,4,Villa,98,1807,,Aktuel værdi
+Aalryvej 106091 Bjert,jert,1.700.000,18-09-1996,Alm. Salg,8.947,5,Stuehus,190,1890,,
+Vesterløkke 256091 Bjert,jert,867.000,26-08-1996,Alm. Salg,5.351,4,Villa,162,1898,,Aktuel værdi
+Stormgaardsvej 66091 Bjert,jert,195.000,20-08-1996,Alm. Salg,1.266,4,Villa,154,1972,,Aktuel værdi
+Skartved Overgade 136091 Bjert,jert,281.553,01-08-1996,Alm. Salg,1.443,5,Villa,195,2004,,Aktuel værdi
+Mads Kehlets Vej 306091 Bjert,jert,1.219.000,23-07-1996,Alm. Salg,-,6,Villa,223,1904,,Aktuel værdi
+Vesterløkke 236091 Bjert,jert,723.184,05-07-1996,Alm. Salg,-,6,Villa,180,1875,,Aktuel værdi
+Skarre Strandvej 126091 Bjert,jert,220.000,01-07-1996,Alm. Salg,-,6,Villa,205,1920,,Aktuel værdi
+Gl. Bjært 506091 Bjert,jert,390.000,16-06-1996,Fam. Salg,2.888,3,Villa,135,1827,,Aktuel værdi
+Kystvej 70A6091 Bjert,jert,1.078.000,10-06-1996,Alm. Salg,13.146,4,Sommerhus,82,1996,,Aktuel værdi
+Engløkke 176091 Bjert,jert,740.000,07-06-1996,Alm. Salg,5.522,4,Villa,134,1966,,Aktuel værdi
+Møllevang 166091 Bjert,jert,141.100,03-06-1996,Fam. Salg,830,3,Villa,170,1997,,Aktuel værdi
+Binderup Strandvej 776091 Bjert,jert,1.200.000,23-05-1996,Alm. Salg,-,5,Villa,133,1938,,Aktuel værdi
+Skamlingvejen 1056091 Bjert,jert,561.000,22-05-1996,Alm. Salg,4.964,4,Stuehus,113,1924,,
+Bjert Kirkevej 296091 Bjert,jert,548.380,22-05-1996,Alm. Salg,4.352,8,Villa,126,1913,,Aktuel værdi
+Binderup Strandpark 826091 Bjert,jert,465.000,15-05-1996,Alm. Salg,5.166,4,Sommerhus,90,2010,,Aktuel værdi
+Mads Kehlets Vej 356091 Bjert,jert,515.000,26-04-1996,Fam. Salg,4.768,4,Villa,108,1906,,Aktuel værdi
+Sønderbyvej 56091 Bjert,jert,895.000,26-04-1996,Alm. Salg,5.143,6,Villa,174,1976,,Aktuel værdi
+Søren Krogs Vej 106091 Bjert,jert,584.000,26-04-1996,Alm. Salg,-,3,Sommerhus,73,1965,,Aktuel værdi
+Engløkke 296091 Bjert,jert,525.000,21-04-1996,Alm. Salg,5.585,4,Villa,94,1951,,Aktuel værdi
+Gl. Bjært 96091 Bjert,jert,660.000,19-04-1996,Alm. Salg,7.586,4,Villa,87,1960,,Aktuel værdi
+Østerløkke 336091 Bjert,jert,1.177.000,04-04-1996,Alm. Salg,7.402,5,Villa,159,1988,,Aktuel værdi
+Havevej 56091 Bjert,jert,712.396,14-02-1996,Alm. Salg,-,6,Villa,187,1964,,Aktuel værdi
+Kystvej 70E6091 Bjert,jert,800.000,08-02-1996,Alm. Salg,9.523,4,Sommerhus,84,1995,,Aktuel værdi
+Stenderupvej 306091 Bjert,jert,692.000,31-01-1996,Alm. Salg,4.193,5,Villa,165,1930,,Aktuel værdi
+Vesterskovvej 346091 Bjert,jert,1.140.000,15-11-1995,Alm. Salg,6.263,6,Villa,182,1987,,Aktuel værdi
+Østerløkke 496091 Bjert,jert,186.000,02-11-1995,Alm. Salg,1.240,5,Villa,150,1996,,Aktuel værdi
+Gammeltoft 36091 Bjert,jert,797.000,23-10-1995,Alm. Salg,2.985,6,Villa,267,1877,,Aktuel værdi
+Stenderupvej 1046091 Bjert,jert,572.000,28-09-1995,Alm. Salg,4.175,5,Villa,137,1910,,Aktuel værdi
+Binderup Strandpark 126091 Bjert,jert,402.000,22-09-1995,Alm. Salg,7.584,3,Sommerhus,53,1984,,Aktuel værdi
+Binderupvej 146091 Bjert,jert,675.000,22-09-1995,Alm. Salg,-,5,Villa,157,1964,,Aktuel værdi
+Søren Krogs Vej 8F6091 Bjert,jert,347.000,15-09-1995,Alm. Salg,2.514,3,Stuehus,138,1872,,
+Klokkehøj 36091 Bjert,jert,374.000,11-09-1995,Alm. Salg,-,8,Villa,181,1976,,Aktuel værdi
+Vesterløkke 376091 Bjert,jert,563.200,18-08-1995,Alm. Salg,3.218,6,Villa,175,1910,,Aktuel værdi
+Østerløkke 116091 Bjert,jert,81.240,09-08-1995,Alm. Salg,427,5,Villa,190,1995,,Aktuel værdi
+Oluf Ravns Vej 136091 Bjert,jert,177.500,31-07-1995,Alm. Salg,2.773,3,Sommerhus,64,1996,,Aktuel værdi
+Skovhavevej 396091 Bjert,jert,1.300.000,31-07-1995,Alm. Salg,-,11,Stuehus,332,1860,,
+Stormgaardsvej 56091 Bjert,jert,950.000,18-07-1995,Alm. Salg,4.545,8,Villa,209,1975,,Aktuel værdi
+Binderup Strandpark 646091 Bjert,jert,115.000,14-07-1995,Alm. Salg,1.474,3,Sommerhus,78,2001,,Aktuel værdi
+Guldager 146091 Bjert,jert,778.000,14-07-1995,Alm. Salg,4.420,5,Villa,176,1975,,Aktuel værdi
+Kausvej 66091 Bjert,jert,319.959,01-07-1995,Fam. Salg,4.999,4,Sommerhus,64,1933,,Aktuel værdi
+Oluf Ravns Vej 516091 Bjert,jert,204.000,21-06-1995,Alm. Salg,3.138,4,Sommerhus,65,1994,,Aktuel værdi
+Gammelgårdsvej 46091 Bjert,jert,245.000,08-06-1995,Alm. Salg,-,3,Lejlighed,113,1700,,Aktuel værdi
+Gyndbjerg 26091 Bjert,jert,750.000,17-05-1995,Alm. Salg,-,7,Villa,204,1927,,Aktuel værdi
+Gl. Bjært 60R6091 Bjert,jert,759.270,09-05-1995,Alm. Salg,4.930,3,Rækkehus,154,1850,,Aktuel værdi
+Østerløkke 536091 Bjert,jert,182.500,22-04-1995,Alm. Salg,1.140,5,Villa,160,1995,,Aktuel værdi
+Agtrup Midtskovvej 526091 Bjert,jert,1.300.000,21-04-1995,Alm. Salg,7.344,5,Villa,177,1875,,Aktuel værdi
+Kystvej 466091 Bjert,jert,428.000,21-04-1995,Alm. Salg,7.254,4,Sommerhus,59,1976,,Aktuel værdi
+Østerløkke 66091 Bjert,jert,742.000,10-04-1995,Alm. Salg,7.203,3,Villa,103,1986,,Aktuel værdi
+Strårupmarkvej 206091 Bjert,jert,148.500,24-03-1995,Alm. Salg,1.269,5,Stuehus,117,1930,,
+Kausvej 46091 Bjert,jert,290.000,06-02-1995,Alm. Salg,5.800,2,Sommerhus,50,1940,,Aktuel værdi
+Kystvej 946091 Bjert,jert,337.000,19-01-1995,Fam. Salg,4.680,4,Sommerhus,72,1947,,Aktuel værdi
+Bjert Strandvej 96091 Bjert,jert,601.410,21-12-1994,Alm. Salg,6.200,4,Stuehus,97,1866,,
+Gl. Bjært 16091 Bjert,jert,363.200,09-11-1994,Alm. Salg,-,7,Villa,133,1890,,Aktuel værdi
+Oluf Ravns Vej 456091 Bjert,jert,190.000,28-10-1994,Alm. Salg,2.878,4,Sommerhus,66,1995,,Aktuel værdi
+Kystvej 76091 Bjert,jert,700.000,11-10-1994,Alm. Salg,12.727,4,Sommerhus,55,1983,,Aktuel værdi
+Østerløkke 416091 Bjert,jert,148.615,27-09-1994,Alm. Salg,1.004,5,Villa,148,1994,,Aktuel værdi
+Oluf Ravns Vej 276091 Bjert,jert,145.000,27-09-1994,Alm. Salg,2.013,4,Sommerhus,72,2009,,Aktuel værdi
+Sønderbyvej 376091 Bjert,jert,870.000,26-08-1994,Alm. Salg,4.780,5,Villa,182,1968,,Aktuel værdi
+Bjert Stationsvej 26091 Bjert,jert,685.000,19-08-1994,Alm. Salg,6.116,6,Villa,112,1922,,Aktuel værdi
+Hasselvænget 156091 Bjert,jert,760.000,15-08-1994,Alm. Salg,5.588,4,Villa,136,1978,,Aktuel værdi
+Østerløkke 96091 Bjert,jert,330.000,15-08-1994,Alm. Salg,1.929,5,Villa,171,1994,,Aktuel værdi
+Gl. Bjært 60D6091 Bjert,jert,549.748,08-08-1994,Alm. Salg,4.739,4,Rækkehus,116,1942,,Aktuel værdi
+Binderup Strandpark 246091 Bjert,jert,420.000,30-06-1994,Alm. Salg,7.368,3,Sommerhus,57,1985,,Aktuel værdi
+Agtrup Midtskovvej 126091 Bjert,jert,925.469,24-06-1994,Alm. Salg,3.904,8,Villa,237,1862,,Aktuel værdi
+Agtrup Midtskovvej 1006091 Bjert,jert,530.000,06-06-1994,Alm. Salg,2.420,6,Villa,219,1910,,Aktuel værdi
+Østerløkke 106091 Bjert,jert,960.000,25-05-1994,Alm. Salg,6.193,4,Villa,155,1986,,Aktuel værdi
+Kystvej 1126091 Bjert,jert,440.000,21-05-1994,Alm. Salg,-,3,Sommerhus,52,1930,,Aktuel værdi
+Gl. Bjært 36091 Bjert,jert,695.000,10-05-1994,Alm. Salg,5.072,3,Villa,137,1911,,Aktuel værdi
+Kystvej 366091 Bjert,jert,545.000,03-05-1994,Alm. Salg,-,6,Sommerhus,111,1973,,Aktuel værdi
+Bjert Strandvej 236091 Bjert,jert,325.000,20-04-1994,Alm. Salg,-,4,Villa,125,1900,,Aktuel værdi
+Gl. Bjært 236091 Bjert,jert,1.065.000,20-04-1994,Alm. Salg,-,10,Villa,315,1971,,Aktuel værdi
+Nørrevænget 116091 Bjert,jert,874.752,18-04-1994,Alm. Salg,6.728,4,Villa,130,1985,,Aktuel værdi
+Nørrevænget 96091 Bjert,jert,540.000,11-04-1994,Alm. Salg,3.529,7,Villa,153,1911,,Aktuel værdi
+Engløkke 146091 Bjert,jert,573.000,12-03-1994,Alm. Salg,-,3,Villa,149,1939,,Aktuel værdi
+Skrænten 326091 Bjert,jert,573.000,07-02-1994,Alm. Salg,5.209,4,Villa,110,1979,,Aktuel værdi
+Gartnervænget 46091 Bjert,jert,770.000,07-02-1994,Alm. Salg,-,7,Villa,192,1975,,Aktuel værdi
+Buskvej 26091 Bjert,jert,754.000,06-02-1994,Alm. Salg,12.161,3,Sommerhus,62,1993,,Aktuel værdi
+Oluf Ravns Vej 216091 Bjert,jert,160.000,02-02-1994,Alm. Salg,-,5,Sommerhus,79,1994,,Aktuel værdi
+Gl. Bjært 51C6091 Bjert,jert,860.000,29-11-1993,Alm. Salg,5.512,5,Villa,156,1986,,Aktuel værdi
+Stenderupvej 486091 Bjert,jert,468.000,27-11-1993,Alm. Salg,3.058,4,Villa,153,1927,,Aktuel værdi
+Hasselvænget 196091 Bjert,jert,800.000,28-10-1993,Alm. Salg,4.624,7,Villa,173,1977,,Aktuel værdi
+Oluf Ravns Vej 416091 Bjert,jert,160.000,25-10-1993,Alm. Salg,2.051,4,Sommerhus,78,1994,,Aktuel værdi
+Oluf Ravns Vej 536091 Bjert,jert,145.000,18-10-1993,Alm. Salg,-,3,Sommerhus,50,1994,,Aktuel værdi
+Kystvej 1166091 Bjert,jert,300.000,01-09-1993,Alm. Salg,6.521,1,Sommerhus,46,1950,,Aktuel værdi
+Løgervej 476091 Bjert,jert,212.970,01-07-1993,Andet,-,8,Villa,271,1963,,Aktuel værdi
+Sønderbyvej 316091 Bjert,jert,549.663,23-03-1993,Alm. Salg,-,5,Villa,160,1976,,Aktuel værdi
+Bjert Kirkevej 56091 Bjert,jert,795.000,08-02-1993,Alm. Salg,5.031,5,Villa,158,1978,,Aktuel værdi
+Møllebakken 46091 Bjert,jert,594.540,22-01-1993,Fam. Salg,3.456,5,Villa,172,1986,,Aktuel værdi
+Skrænten 226091 Bjert,jert,700.000,22-01-1993,Alm. Salg,4.516,4,Villa,155,1975,,Aktuel værdi
+Bjert Kirkevej 16091 Bjert,jert,665.000,02-11-1992,Alm. Salg,5.115,4,Villa,130,1948,,Aktuel værdi
+Binderup Strandpark 926091 Bjert,jert,390.000,28-10-1992,Alm. Salg,-,4,Sommerhus,84,1984,,Aktuel værdi
+Kystvej 29A6091 Bjert,jert,710.000,20-10-1992,Alm. Salg,7.553,5,Sommerhus,94,1930,,Aktuel værdi
+Buskvej 66091 Bjert,jert,145.000,01-10-1992,Alm. Salg,2.377,4,Sommerhus,61,1994,,Aktuel værdi
+Gydeledvej 316091 Bjert,jert,440.000,28-09-1992,Alm. Salg,-,6,Villa,204,1850,,Aktuel værdi
+Kystvej 726091 Bjert,jert,195.500,16-09-1992,Alm. Salg,5.585,3,Sommerhus,35,1933,,Aktuel værdi
+Gl. Bjært 136091 Bjert,jert,765.000,02-09-1992,Alm. Salg,-,7,Villa,227,1909,,Aktuel værdi
+Binderup Strandpark 166091 Bjert,jert,320.000,28-08-1992,Alm. Salg,-,4,Sommerhus,79,1983,,Aktuel værdi
+Trekanten 56091 Bjert,jert,540.000,17-08-1992,Alm. Salg,4.655,4,Villa,116,1970,,Aktuel værdi
+Agtrup Midtskovvej 466091 Bjert,jert,540.000,15-08-1992,Alm. Salg,3.600,6,Villa,150,1905,,Aktuel værdi
+Bjert Strandvej 26091 Bjert,jert,354.166,31-07-1992,Fam. Salg,2.585,4,Stuehus,137,1857,,
+Skrænten 346091 Bjert,jert,565.000,13-07-1992,Alm. Salg,4.154,5,Villa,136,1974,,Aktuel værdi
+Kystvej 266091 Bjert,jert,120.000,01-07-1992,Fam. Salg,-,5,Sommerhus,66,1946,,Aktuel værdi
+Hasselvænget 226091 Bjert,jert,640.000,26-06-1992,Alm. Salg,-,4,Villa,145,1978,,Aktuel værdi
+Kystvej 826091 Bjert,jert,600.000,25-05-1992,Alm. Salg,9.090,4,Sommerhus,66,1978,,Aktuel værdi
+Agtrup Midtskovvej 456091 Bjert,jert,136.000,13-05-1992,Fam. Salg,1.942,3,Villa,70,1909,,Aktuel værdi
+Kystvej 866091 Bjert,jert,600.000,28-04-1992,Alm. Salg,-,3,Sommerhus,85,1922,,Aktuel værdi
+Binderup Strandpark 846091 Bjert,jert,100.000,22-04-1992,Alm. Salg,1.754,3,Sommerhus,57,1992,,Aktuel værdi
+Østerløkke 256091 Bjert,jert,129.445,14-04-1992,Alm. Salg,-,7,Villa,171,1992,,Aktuel værdi
+Bjert Strandvej 296091 Bjert,jert,590.000,08-04-1992,Fam. Salg,5.900,5,Stuehus,100,1956,,
+Vesterskovvej 206091 Bjert,jert,500.000,31-03-1992,Alm. Salg,3.649,4,Stuehus,137,1936,,
+Gl. Bjært 256091 Bjert,jert,388.120,30-03-1992,Fam. Salg,-,6,Villa,221,1877,,Aktuel værdi
+Møllevang 76091 Bjert,jert,465.000,11-03-1992,Fam. Salg,4.227,4,Villa,110,1972,,Aktuel værdi
+Agtrup Midtskovvej 476091 Bjert,jert,389.200,17-02-1992,Alm. Salg,3.040,5,Villa,128,1890,,Aktuel værdi
+Østerløkke 556091 Bjert,jert,190.000,01-02-1992,Alm. Salg,1.328,5,Villa,143,1992,,Aktuel værdi
+Bjert Strandvej 16091 Bjert,jert,708.000,01-02-1992,Fam. Salg,-,7,Villa,310,1836,,Aktuel værdi
+Kystvej 29B6091 Bjert,jert,725.000,31-01-1992,Alm. Salg,9.797,4,Sommerhus,74,1972,,Aktuel værdi
+Binderup Strandpark 486091 Bjert,jert,386.000,30-01-1992,Alm. Salg,5.012,4,Sommerhus,77,1986,,Aktuel værdi
+Bjert Strandvej 256091 Bjert,jert,770.000,09-01-1992,Alm. Salg,4.095,6,Stuehus,188,1992,,

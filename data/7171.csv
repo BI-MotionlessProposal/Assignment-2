@@ -1,0 +1,530 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Åparken 227171 Uldum,ldum,487.500,28-04-2017,Alm. Salg,3.869,5,Villa,126,1973,,Aktuel værdi
+Skrædderbakken 97171 Uldum,ldum,455.000,25-04-2017,Alm. Salg,3.421,4,Villa,133,1900,-8 %,Aktuel værdi
+Nørregade 107171 Uldum,ldum,1.775.000,21-04-2017,Alm. Salg,9.861,6,Villa,180,1924,-4 %,Aktuel værdi
+Fælledvej 157171 Uldum,ldum,2.200.000,14-04-2017,Fam. Salg,7.357,7,Stuehus,299,1925,,
+Solsortevej 157171 Uldum,ldum,468.253,14-04-2017,Alm. Salg,3.716,4,Villa,126,1973,,Aktuel værdi
+Nørregade 177171 Uldum,ldum,700.000,10-03-2017,Alm. Salg,6.034,4,Villa,116,1905,-10 %,Aktuel værdi
+Fælledvej 147171 Uldum,ldum,1.435.000,06-03-2017,Alm. Salg,7.247,6,Villa,198,1965,0 %,Aktuel værdi
+Kalhavevej 547171 Uldum,ldum,1.975.000,05-02-2017,Alm. Salg,10.505,6,Villa,188,1928,-1 %,Aktuel værdi
+Skrædderbakken 107171 Uldum,ldum,275.000,20-01-2017,Alm. Salg,4.435,2,Villa,62,1900,-7 %,Aktuel værdi
+Vestergade 187171 Uldum,ldum,1.200.000,04-01-2017,Fam. Salg,10.256,4,Villa,117,1971,,Aktuel værdi
+Industrivej 187171 Uldum,ldum,1.050.000,31-12-2016,Alm. Salg,6.521,5,Villa,161,1972,,Aktuel værdi
+Hvilehøjparken 10A7171 Uldum,ldum,880.000,30-12-2016,Andet,11.000,3,Rækkehus,80,1988,,Aktuel værdi
+Fælledvej 137171 Uldum,ldum,2.849.500,16-12-2016,Fam. Salg,9.963,7,Villa,286,2009,,Aktuel værdi
+Kærvejen 27171 Uldum,ldum,630.000,05-12-2016,Alm. Salg,7.159,4,Villa,88,1964,-16 %,Aktuel værdi
+Rosenvænget 47171 Uldum,ldum,1.900.000,05-12-2016,Alm. Salg,8.837,8,Villa,215,1974,-13 %,Aktuel værdi
+Kirkegade 97171 Uldum,ldum,1.300.000,02-12-2016,Fam. Salg,6.842,7,Villa,190,1907,,Aktuel værdi
+Haurumvej 37171 Uldum,ldum,360.000,28-11-2016,Alm. Salg,3.600,4,Villa,100,1926,,Aktuel værdi
+Kærvejen 267171 Uldum,ldum,920.000,22-11-2016,Alm. Salg,11.500,3,Villa,80,1959,-8 %,Aktuel værdi
+Åparken 117171 Uldum,ldum,810.000,21-11-2016,Alm. Salg,6.480,5,Villa,125,1970,-4 %,Aktuel værdi
+Skanderborgvej 257171 Uldum,ldum,895.000,28-10-2016,Alm. Salg,6.729,5,Villa,133,1938,0 %,Aktuel værdi
+Industrivej 247171 Uldum,ldum,1.275.000,10-10-2016,Alm. Salg,7.412,6,Villa,172,1978,-9 %,Aktuel værdi
+Fasanvej 27171 Uldum,ldum,445.000,04-10-2016,Alm. Salg,4.635,3,Villa,96,1900,0 %,Aktuel værdi
+Uldum Hedevej 127171 Uldum,ldum,2.055.000,26-09-2016,Alm. Salg,10.873,7,Villa,189,1900,8 %,Aktuel værdi
+Østerled 107171 Uldum,ldum,1.100.000,06-09-2016,Alm. Salg,10.000,3,Villa,110,1969,,Aktuel værdi
+Bøgballevej 1257171 Uldum,ldum,540.705,30-08-2016,Andet,3.180,6,Villa,170,1935,,Aktuel værdi
+Bygaden 37171 Uldum,ldum,830.000,30-08-2016,Alm. Salg,6.102,4,Villa,136,1988,-30 %,Aktuel værdi
+Langagervej 297171 Uldum,ldum,750.000,25-08-2016,Alm. Salg,5.281,4,Villa,142,1900,-6 %,Aktuel værdi
+Kirketoften 17171 Uldum,ldum,700.000,15-08-2016,Alm. Salg,4.294,5,Villa,163,1950,,Aktuel værdi
+Bøgballevej 1087171 Uldum,ldum,650.000,12-08-2016,Alm. Salg,6.190,5,Stuehus,105,1940,,
+Bøgballevej 777171 Uldum,ldum,339.750,07-07-2016,Alm. Salg,3.502,4,Stuehus,97,1904,,
+Hesselballevej 387171 Uldum,ldum,1.900.000,13-06-2016,Alm. Salg,11.515,3,Villa,165,1910,-5 %,Aktuel værdi
+Bøgballevej 927171 Uldum,ldum,194.428,06-06-2016,Fam. Salg,1.287,5,Villa,151,1962,,Aktuel værdi
+Vestergade 37171 Uldum,ldum,875.000,06-06-2016,Alm. Salg,8.027,3,Villa,109,1966,,Aktuel værdi
+Nørregade 197171 Uldum,ldum,480.000,03-06-2016,Alm. Salg,5.517,2,Villa,87,1900,7 %,Aktuel værdi
+Kalhave Byvej 27171 Uldum,ldum,1.795.000,04-05-2016,Alm. Salg,8.427,6,Villa,213,1900,0 %,Aktuel værdi
+Haurumvej 77171 Uldum,ldum,771.550,07-04-2016,Alm. Salg,3.571,7,Stuehus,216,1961,,
+Ørum Skovvej 287171 Uldum,ldum,2.498.000,29-03-2016,Alm. Salg,16.993,3,Stuehus,147,1924,,
+Skanderborgvej 557171 Uldum,ldum,1.150.000,22-03-2016,Alm. Salg,15.333,3,Stuehus,75,1907,,
+Industrivej 137171 Uldum,ldum,1.900.000,22-03-2016,Alm. Salg,9.405,6,Villa,202,1974,,Aktuel værdi
+Ørumvej 27171 Uldum,ldum,470.000,02-03-2016,Alm. Salg,4.159,4,Villa,113,1877,-5 %,Aktuel værdi
+Kalhavevej 687171 Uldum,ldum,200.000,29-02-2016,Alm. Salg,1.388,5,Villa,144,2017,,Aktuel værdi
+Bøgballevej 517171 Uldum,ldum,1.550.000,23-02-2016,Alm. Salg,9.011,6,Villa,172,1760,0 %,Aktuel værdi
+Højskolebakken 67171 Uldum,ldum,850.000,19-02-2016,Alm. Salg,4.696,4,Villa,181,1900,-10 %,Aktuel værdi
+Kalhavevej 637171 Uldum,ldum,280.000,08-01-2016,Auktion,2.074,4,Villa,135,1930,,Aktuel værdi
+Københavnervej 27171 Uldum,ldum,1.536.500,24-12-2015,Alm. Salg,9.603,3,Villa,160,1882,,Aktuel værdi
+Kærvejen 227171 Uldum,ldum,820.000,23-12-2015,Alm. Salg,9.425,3,Villa,87,1959,-8 %,Aktuel værdi
+Lillekongens Ager 287171 Uldum,ldum,245.000,22-12-2015,Alm. Salg,1.914,4,Villa,128,2016,,Aktuel værdi
+Bøgballevej 1187171 Uldum,ldum,900.000,21-12-2015,Alm. Salg,6.818,4,Villa,132,1908,,Aktuel værdi
+Bøgballevej 537171 Uldum,ldum,2.925.000,21-12-2015,Alm. Salg,10.263,7,Villa,285,2008,-2 %,Aktuel værdi
+Lillekongens Ager 27171 Uldum,ldum,1.840.000,09-12-2015,Alm. Salg,11.794,5,Villa,156,2008,-3 %,Aktuel værdi
+Langagervej 237171 Uldum,ldum,2.700.000,09-12-2015,Alm. Salg,21.600,4,Stuehus,125,2009,,
+Skolegade 87171 Uldum,ldum,835.000,13-11-2015,Alm. Salg,9.277,3,Villa,90,1963,-14 %,Aktuel værdi
+Hesselballevej 217171 Uldum,ldum,18.940.000,23-10-2015,Alm. Salg,88.920,8,Stuehus,213,1915,,
+Skanderborgvej 197171 Uldum,ldum,360.000,14-10-2015,Alm. Salg,2.250,4,Villa,160,1902,-3 %,Aktuel værdi
+Åbrinken 97171 Uldum,ldum,1.050.000,12-10-2015,Alm. Salg,7.664,4,Villa,137,1975,-16 %,Aktuel værdi
+Ørum Skovvej 257171 Uldum,ldum,1.630.000,07-10-2015,Alm. Salg,8.624,6,Villa,189,1912,-1 %,Aktuel værdi
+Hesselballevej 167171 Uldum,ldum,600.000,07-10-2015,Alm. Salg,3.750,5,Villa,160,1871,,Aktuel værdi
+Hesselballevej 247171 Uldum,ldum,654.431,24-09-2015,Alm. Salg,3.918,6,Villa,167,1909,,Aktuel værdi
+Nørregade 32G7171 Uldum,ldum,515.000,30-07-2015,Alm. Salg,6.358,3,Rækkehus,81,1982,-10 %,Aktuel værdi
+Bakkegårdsparken 17171 Uldum,ldum,1.065.000,09-07-2015,Alm. Salg,7.294,5,Villa,146,1974,-3 %,Aktuel værdi
+Nørregade 217171 Uldum,ldum,1.325.000,03-07-2015,Alm. Salg,8.892,5,Villa,149,1928,,Aktuel værdi
+Østerled 37171 Uldum,ldum,751.000,30-06-2015,Alm. Salg,5.179,6,Villa,145,1927,0 %,Aktuel værdi
+Åparken 157171 Uldum,ldum,925.000,29-06-2015,Alm. Salg,7.520,4,Villa,123,1971,,Aktuel værdi
+Åparken 177171 Uldum,ldum,735.000,25-06-2015,Alm. Salg,8.258,4,Villa,89,1967,-8 %,Aktuel værdi
+Kærvejen 347171 Uldum,ldum,2.300.000,22-06-2015,Alm. Salg,8.646,7,Villa,266,1900,-20 %,Aktuel værdi
+Langagervej 127171 Uldum,ldum,2.000.000,17-06-2015,Alm. Salg,10.204,9,Villa,196,1895,-9 %,Aktuel værdi
+Bøgballevej 687171 Uldum,ldum,1.600.000,12-06-2015,Auktion,10.256,5,Stuehus,156,1914,,
+Lillekongens Ager 267171 Uldum,ldum,225.000,08-06-2015,Alm. Salg,1.584,5,Villa,142,2016,,Aktuel værdi
+Langagervej 267171 Uldum,ldum,2.600.000,21-05-2015,Alm. Salg,17.687,5,Villa,147,2004,-4 %,Aktuel værdi
+Vesterled 57171 Uldum,ldum,985.000,15-05-2015,Alm. Salg,6.566,4,Villa,150,1916,-8 %,Aktuel værdi
+"Søndergade 2, 17171 Uldum",ldum,1.995.000,06-05-2015,Alm. Salg,17.198,3,Lejlighed,116,1900,,Aktuel værdi
+Kalhavevej 397171 Uldum,ldum,15.300.000,31-03-2015,Alm. Salg,92.727,7,Stuehus,165,1954,,
+Nørregade 327171 Uldum,ldum,775.000,23-03-2015,Alm. Salg,5.132,5,Rækkehus,151,1967,-9 %,Aktuel værdi
+Kirketoften 57171 Uldum,ldum,540.000,23-03-2015,Alm. Salg,4.695,3,Villa,115,1963,-6 %,Aktuel værdi
+Lillekongens Ager 167171 Uldum,ldum,1.710.000,17-03-2015,Alm. Salg,11.400,5,Villa,150,2007,-5 %,Aktuel værdi
+Horsensvej 77171 Uldum,ldum,1.040.000,12-03-2015,Alm. Salg,8.739,5,Villa,119,1887,0 %,Aktuel værdi
+Kalhavevej 657171 Uldum,ldum,1.200.000,10-03-2015,Alm. Salg,6.060,4,Villa,198,1850,-4 %,Aktuel værdi
+Hvilehøjparken 5B7171 Uldum,ldum,980.000,02-03-2015,Alm. Salg,7.840,4,Rækkehus,125,1987,,Aktuel værdi
+Bøgballevej 577171 Uldum,ldum,4.625.000,20-02-2015,Fam. Salg,24.732,6,Stuehus,187,1827,,
+Lillekongens Ager 347171 Uldum,ldum,1.475.000,18-02-2015,Alm. Salg,10.535,5,Villa,140,2009,-8 %,Aktuel værdi
+Industrivej 87171 Uldum,ldum,675.000,07-02-2015,Alm. Salg,6.958,3,Villa,97,1967,,Aktuel værdi
+Rosenvænget 2B7171 Uldum,ldum,475.000,28-01-2015,Alm. Salg,7.661,2,Rækkehus,62,1984,-5 %,Aktuel værdi
+Rosenvænget 277171 Uldum,ldum,568.182,17-01-2015,Alm. Salg,3.713,5,Villa,153,1986,,Aktuel værdi
+Vestergade 97171 Uldum,ldum,740.000,07-01-2015,Alm. Salg,4.933,5,Villa,150,1970,-7 %,Aktuel værdi
+Nørregade 257171 Uldum,ldum,43.750,16-12-2014,Alm. Salg,416,4,Villa,105,1934,,Aktuel værdi
+Bakkegårdsparken 47171 Uldum,ldum,1.325.000,04-12-2014,Alm. Salg,9.397,4,Villa,141,1976,-5 %,Aktuel værdi
+Østerled 27171 Uldum,ldum,668.000,04-11-2014,Alm. Salg,5.758,6,Villa,116,1900,-4 %,Aktuel værdi
+Ørum Skovvej 227171 Uldum,ldum,1.450.000,25-10-2014,Fam. Salg,7.073,9,Stuehus,205,1912,,
+Åbrinken 457171 Uldum,ldum,1.250.000,16-09-2014,Alm. Salg,9.328,5,Villa,134,1986,,Aktuel værdi
+I P Hansens Vej 147171 Uldum,ldum,650.000,29-08-2014,Alm. Salg,3.155,10,Villa,206,1900,0 %,Aktuel værdi
+Kalhave Byvej 37171 Uldum,ldum,537.500,27-08-2014,Fam. Salg,2.488,7,Villa,216,1966,,Aktuel værdi
+Skolegade 137171 Uldum,ldum,610.000,27-08-2014,Alm. Salg,5.126,4,Villa,119,1948,-5 %,Aktuel værdi
+Bøgballevej 397171 Uldum,ldum,2.495.000,15-08-2014,Alm. Salg,10.020,10,Villa,249,1871,0 %,Aktuel værdi
+Haurumvej 117171 Uldum,ldum,1.840.000,30-07-2014,Alm. Salg,10.952,6,Villa,168,1900,,Aktuel værdi
+Lærkevej 27171 Uldum,ldum,1.040.000,03-07-2014,Alm. Salg,7.761,4,Villa,134,1999,-3 %,Aktuel værdi
+Sebastiansvej 57171 Uldum,ldum,950.000,08-06-2014,Fam. Salg,7.089,4,Villa,134,1995,-13 %,Aktuel værdi
+Sønderløkke 47171 Uldum,ldum,1.950.000,12-05-2014,Alm. Salg,13.448,6,Villa,145,2005,-2 %,Aktuel værdi
+Hesselballevej 317171 Uldum,ldum,250.000,14-04-2014,Alm. Salg,1.592,4,Villa,157,1900,-37 %,Aktuel værdi
+Fælledvej 367171 Uldum,ldum,5.400.000,04-04-2014,Alm. Salg,16.363,8,Stuehus,330,2006,,
+Industrivej 107171 Uldum,ldum,700.000,31-03-2014,Alm. Salg,6.306,4,Villa,111,1970,-11 %,Aktuel værdi
+Bøgballevej 597171 Uldum,ldum,500.000,21-03-2014,Auktion,5.000,5,Industri o.l.,100,1962,,Aktuel værdi
+Hvilehøjparken 3B7171 Uldum,ldum,1.820.000,04-03-2014,Alm. Salg,10.963,6,Villa,166,2002,-9 %,Aktuel værdi
+Kirkegade 107171 Uldum,ldum,575.000,14-11-2013,Alm. Salg,7.187,3,Villa,80,1955,-17 %,Aktuel værdi
+Fasanvej 77171 Uldum,ldum,670.000,13-11-2013,Alm. Salg,4.557,6,Villa,147,1900,-39 %,Aktuel værdi
+Bøgballevej 1207171 Uldum,ldum,998.000,07-11-2013,Alm. Salg,7.447,3,Villa,134,1900,0 %,Aktuel værdi
+Industrivej 47171 Uldum,ldum,1.025.000,01-10-2013,Alm. Salg,8.134,5,Villa,126,1965,-2 %,Aktuel værdi
+Nørregade 32C7171 Uldum,ldum,600.000,27-09-2013,Alm. Salg,6.666,3,Rækkehus,90,1982,-14 %,Aktuel værdi
+Skrædderbakken 17171 Uldum,ldum,459.855,12-09-2013,Auktion,1.389,12,Villa,331,1913,,Aktuel værdi
+Sønderløkke 127171 Uldum,ldum,1.840.000,05-08-2013,Alm. Salg,13.237,5,Villa,139,2003,-8 %,Aktuel værdi
+Åbrinken 337171 Uldum,ldum,1.250.000,30-07-2013,Alm. Salg,8.992,5,Villa,139,1975,-10 %,Aktuel værdi
+Skanderborgvej 237171 Uldum,ldum,4.450.000,28-06-2013,Andet,26.969,6,Villa,165,1890,,Aktuel værdi
+Kærvejen 67171 Uldum,ldum,700.000,17-06-2013,Alm. Salg,4.575,5,Villa,153,1929,,Aktuel værdi
+Østerled 167171 Uldum,ldum,1.600.000,08-06-2013,Alm. Salg,8.247,6,Villa,194,1935,-16 %,Aktuel værdi
+Åbrinken 57171 Uldum,ldum,975.000,04-06-2013,Alm. Salg,8.333,4,Villa,117,1976,-2 %,Aktuel værdi
+Uldum Hedevej 57171 Uldum,ldum,1.010.000,17-05-2013,Alm. Salg,8.487,5,Stuehus,119,1902,-33 %,
+Industrivej 67171 Uldum,ldum,750.000,10-05-2013,Alm. Salg,6.302,4,Villa,119,1967,-6 %,Aktuel værdi
+Industrisvinget 17171 Uldum,ldum,1.000.000,19-04-2013,Alm. Salg,9.523,3,Villa,105,1987,-9 %,Aktuel værdi
+Dortheasvej 67171 Uldum,ldum,795.000,19-03-2013,Alm. Salg,5.482,6,Villa,145,1900,-11 %,Aktuel værdi
+Hesselballevej 377171 Uldum,ldum,1.546.500,30-01-2013,Fam. Salg,7.930,6,Stuehus,195,1890,,
+Nørregade 857171 Uldum,ldum,1.795.000,22-12-2012,Alm. Salg,5.084,13,Villa,353,1975,-10 %,Aktuel værdi
+Bøgballevej 1047171 Uldum,ldum,895.000,20-12-2012,Alm. Salg,4.566,7,Villa,196,1964,-5 %,Aktuel værdi
+Skanderborgvej 547171 Uldum,ldum,200.000,14-12-2012,Auktion,1.058,5,Villa,189,1970,-78 %,Aktuel værdi
+Nørregade 237171 Uldum,ldum,500.000,19-11-2012,Alm. Salg,4.424,4,Villa,113,1930,-9 %,Aktuel værdi
+Åparken 257171 Uldum,ldum,1.200.000,29-10-2012,Alm. Salg,6.557,7,Villa,183,1973,-6 %,Aktuel værdi
+Sechersvej 17171 Uldum,ldum,300.000,26-10-2012,Alm. Salg,2.884,4,Villa,104,1877,-25 %,Aktuel værdi
+Kirkegade 167171 Uldum,ldum,1.750.000,15-10-2012,Alm. Salg,5.271,12,Villa,332,1879,-12 %,Aktuel værdi
+Industrisvinget 77171 Uldum,ldum,1.400.000,01-10-2012,Alm. Salg,8.641,6,Villa,162,1977,-6 %,Aktuel værdi
+Dortheasvej 27171 Uldum,ldum,1.200.000,26-09-2012,Fam. Salg,5.607,6,Villa,214,1920,,Aktuel værdi
+Langagervej 67171 Uldum,ldum,175.000,06-09-2012,Auktion,1.822,4,Villa,96,1879,-65 %,Aktuel værdi
+Østerled 47171 Uldum,ldum,450.000,28-08-2012,Alm. Salg,5.232,4,Villa,86,1880,,Aktuel værdi
+Skrædderbakken 1A7171 Uldum,ldum,1.745.000,23-08-2012,Alm. Salg,9.858,5,Villa,177,2003,-3 %,Aktuel værdi
+Skrædderbakken 37171 Uldum,ldum,1.475.000,23-08-2012,Alm. Salg,10.387,6,Villa,142,1860,-1 %,Aktuel værdi
+Fasanvej 37171 Uldum,ldum,463.000,17-08-2012,Alm. Salg,7.982,3,Villa,58,1827,-15 %,Aktuel værdi
+Horsensvej 47171 Uldum,ldum,550.000,12-07-2012,Alm. Salg,2.350,7,Villa,234,1890,,Aktuel værdi
+Bøgballevej 677171 Uldum,ldum,1.750.000,11-07-2012,Alm. Salg,9.459,5,Villa,185,2001,17 %,Aktuel værdi
+Bakkegårdsparken 37171 Uldum,ldum,880.000,15-06-2012,Alm. Salg,7.333,3,Villa,120,1976,,Aktuel værdi
+Vestergade 217171 Uldum,ldum,190.000,14-06-2012,Alm. Salg,1.338,5,Villa,142,2015,-39 %,Aktuel værdi
+Kalhave Byvej 17171 Uldum,ldum,425.000,11-06-2012,Alm. Salg,5.059,3,Villa,84,1961,-11 %,Aktuel værdi
+Bøgballevej 557171 Uldum,ldum,825.000,02-05-2012,Auktion,4.187,5,Villa,197,1959,,Aktuel værdi
+Kærvejen 37171 Uldum,ldum,291.218,18-04-2012,Andet,2.240,4,Villa,130,1917,,Aktuel værdi
+Højskolebakken 27171 Uldum,ldum,3.295.678,13-03-2012,Alm. Salg,21.126,5,Villa,156,1929,,Aktuel værdi
+Bøgballevej 997171 Uldum,ldum,6.035.000,15-12-2011,Fam. Salg,16.810,10,Stuehus,359,1981,,
+Åparken 297171 Uldum,ldum,895.000,15-12-2011,Alm. Salg,6.580,4,Villa,136,1973,,Aktuel værdi
+Åparken 187171 Uldum,ldum,1.175.000,27-11-2011,Alm. Salg,7.833,6,Villa,150,1970,,Aktuel værdi
+Industrivej 2A7171 Uldum,ldum,960.000,27-10-2011,Alm. Salg,8.421,3,Villa,114,2007,-4 %,Aktuel værdi
+Langagervej 247171 Uldum,ldum,1.254.776,29-07-2011,Alm. Salg,9.294,4,Villa,135,2004,,Aktuel værdi
+Fælledvej 307171 Uldum,ldum,2.000.000,31-05-2011,Alm. Salg,6.289,9,Stuehus,318,1924,,
+Fælledvej 12B7171 Uldum,ldum,1.172.220,09-05-2011,Alm. Salg,5.074,5,Villa,231,2007,,Aktuel værdi
+Haurumvej 67171 Uldum,ldum,1.434.750,29-04-2011,Auktion,8.540,5,Villa,168,1955,,Aktuel værdi
+Uldum Hedevej 77171 Uldum,ldum,2.358.000,18-03-2011,Fam. Salg,11.282,6,Stuehus,209,1928,,
+Nørregade 497171 Uldum,ldum,750.000,15-03-2011,Fam. Salg,4.777,4,Villa,157,1950,,Aktuel værdi
+Hesselballevej 267171 Uldum,ldum,770.925,16-02-2011,Alm. Salg,4.282,5,Villa,180,1927,,Aktuel værdi
+Hesselballevej 277171 Uldum,ldum,1.295.000,16-11-2010,Alm. Salg,9.664,6,Villa,134,1900,0 %,Aktuel værdi
+Lærkevej 67171 Uldum,ldum,1.050.000,09-11-2010,Alm. Salg,8.974,4,Villa,117,1973,-9 %,Aktuel værdi
+Engelgårdsvej 27171 Uldum,ldum,290.000,21-10-2010,Auktion,2.213,6,Villa,131,1960,,Aktuel værdi
+Ribevej 87171 Uldum,ldum,100.000,18-10-2010,Alm. Salg,490,8,Stuehus,204,1992,,
+Langagervej 277171 Uldum,ldum,1.550.000,12-10-2010,Alm. Salg,9.748,6,Villa,159,1971,-5 %,Aktuel værdi
+Bakkegårdsparken 157171 Uldum,ldum,1.280.000,25-09-2010,Alm. Salg,10.756,4,Villa,119,1976,-3 %,Aktuel værdi
+Mågevej 57171 Uldum,ldum,1.400.000,21-07-2010,Alm. Salg,9.523,5,Villa,147,1973,,Aktuel værdi
+Bøgballevej 757171 Uldum,ldum,10.000,30-06-2010,Alm. Salg,77,4,Stuehus,129,1913,,
+Højskolebakken 17171 Uldum,ldum,1.390.000,28-06-2010,Alm. Salg,9.928,5,Villa,140,1900,-2 %,Aktuel værdi
+Vestergade 67171 Uldum,ldum,1.375.000,04-06-2010,Alm. Salg,6.840,6,Villa,201,1968,-5 %,Aktuel værdi
+Hvilehøjparken 77171 Uldum,ldum,718.000,02-06-2010,Fam. Salg,4.692,5,Villa,153,1991,,Aktuel værdi
+Lillekongens Ager 247171 Uldum,ldum,390.000,28-04-2010,Alm. Salg,2.378,6,Villa,164,2010,,Aktuel værdi
+Ribevej 67171 Uldum,ldum,225.000,27-04-2010,Alm. Salg,1.300,3,Villa,173,1920,,Aktuel værdi
+Kalhavevej 567171 Uldum,ldum,1.633.000,23-04-2010,Alm. Salg,12.561,5,Villa,130,1984,-5 %,Aktuel værdi
+Søndergade 47171 Uldum,ldum,625.000,16-04-2010,Auktion,3.654,5,Villa,171,1890,,Aktuel værdi
+Kærvejen 427171 Uldum,ldum,150.000,14-04-2010,Alm. Salg,714,6,Stuehus,210,1870,,
+Kærvejen 477171 Uldum,ldum,440.000,29-03-2010,Alm. Salg,2.352,5,Villa,187,2008,,Aktuel værdi
+Hesselballevej 297171 Uldum,ldum,1.309.000,25-03-2010,Alm. Salg,9.417,4,Villa,139,1977,,Aktuel værdi
+Industrivej 127171 Uldum,ldum,800.000,16-03-2010,Alm. Salg,9.195,3,Villa,87,1971,,Aktuel værdi
+Bakken 47171 Uldum,ldum,2.375.000,04-03-2010,Alm. Salg,7.890,7,Villa,301,1919,-7 %,Aktuel værdi
+Nørregade 57171 Uldum,ldum,795.000,23-02-2010,Alm. Salg,7.227,3,Villa,110,1936,0 %,Aktuel værdi
+Søndergade 37171 Uldum,ldum,1.150.000,09-02-2010,Alm. Salg,6.424,5,Villa,179,1930,-8 %,Aktuel værdi
+Nørregade 697171 Uldum,ldum,975.000,06-01-2010,Alm. Salg,5.357,5,Villa,182,1900,-9 %,Aktuel værdi
+Åbrinken 277171 Uldum,ldum,1.625.000,10-12-2009,Alm. Salg,10.833,5,Villa,150,1986,-7 %,Aktuel værdi
+Vestergade 207171 Uldum,ldum,762.500,08-12-2009,Alm. Salg,3.910,7,Villa,195,1972,,Aktuel værdi
+Skanderborgvej 467171 Uldum,ldum,1.550.000,30-11-2009,Alm. Salg,11.231,5,Villa,138,1934,-5 %,Aktuel værdi
+Uldum Hedevej 27171 Uldum,ldum,533.410,26-11-2009,Alm. Salg,3.292,6,Villa,162,1986,,Aktuel værdi
+Hesselballevej 357171 Uldum,ldum,250.000,06-11-2009,Auktion,1.865,4,Villa,134,1930,,Aktuel værdi
+Bakkegårdsparken 177171 Uldum,ldum,1.150.000,23-09-2009,Alm. Salg,9.583,4,Villa,120,1976,-2 %,Aktuel værdi
+"Søndergade 21, 17171 Uldum",ldum,1.000.000,11-09-2009,Alm. Salg,8.695,5,Lejlighed,115,1896,-5 %,Aktuel værdi
+Dortheasvej 127171 Uldum,ldum,795.000,24-08-2009,Alm. Salg,7.162,3,Rækkehus,111,1900,0 %,Aktuel værdi
+Skanderborgvej 117171 Uldum,ldum,9.318.630,13-08-2009,Alm. Salg,48.534,5,Stuehus,192,1856,,
+I P Hansens Vej 67171 Uldum,ldum,750.000,10-08-2009,Alm. Salg,-,4,Villa,112,1963,-9 %,Aktuel værdi
+Skolegade 207171 Uldum,ldum,1.400.000,30-07-2009,Alm. Salg,8.750,5,Villa,160,1958,,Aktuel værdi
+Højskolebakken 177171 Uldum,ldum,340.000,01-07-2009,Fam. Salg,4.927,2,Villa,69,1860,,Aktuel værdi
+Ørumvej 47171 Uldum,ldum,845.000,26-06-2009,Alm. Salg,5.868,5,Villa,144,1910,-6 %,Aktuel værdi
+Kastanievej 17171 Uldum,ldum,652.500,24-06-2009,Alm. Salg,4.906,4,Villa,133,1884,-10 %,Aktuel værdi
+Mågevej 47171 Uldum,ldum,581.000,04-06-2009,Alm. Salg,3.748,4,Villa,155,1972,-61 %,Aktuel værdi
+Hesselballevej 337171 Uldum,ldum,1.100.000,20-04-2009,Andet,7.096,5,Villa,155,1900,,Aktuel værdi
+Haurumvej 157171 Uldum,ldum,1.690.000,08-04-2009,Alm. Salg,8.407,6,Villa,201,1935,-6 %,Aktuel værdi
+Hvilehøjparken 47171 Uldum,ldum,1.925.000,01-04-2009,Alm. Salg,12.664,5,Villa,152,1997,-4 %,Aktuel værdi
+Nørregade 27171 Uldum,ldum,975.000,13-03-2009,Alm. Salg,11.607,3,Villa,84,1960,,Aktuel værdi
+Skolegade 107171 Uldum,ldum,990.000,09-03-2009,Fam. Salg,6.644,6,Villa,149,1940,,Aktuel værdi
+Hvilehøjparken 3A7171 Uldum,ldum,588.216,07-10-2008,Andet,3.722,6,Villa,158,1999,,Aktuel værdi
+Langagervej 147171 Uldum,ldum,1.620.000,06-10-2008,Alm. Salg,10.451,5,Villa,155,1897,,Aktuel værdi
+Skrædderbakken 77171 Uldum,ldum,800.000,01-10-2008,Alm. Salg,4.597,6,Villa,174,1900,,Aktuel værdi
+Åbrinken 437171 Uldum,ldum,1.590.000,30-09-2008,Alm. Salg,10.600,4,Villa,150,1977,,Aktuel værdi
+Lillekongens Ager 227171 Uldum,ldum,602.000,24-09-2008,Alm. Salg,3.670,4,Villa,164,2010,,Aktuel værdi
+Åbrinken 297171 Uldum,ldum,1.850.000,27-08-2008,Alm. Salg,12.012,5,Villa,154,1980,,Aktuel værdi
+Bøgballevej 417171 Uldum,ldum,11.203.573,12-08-2008,Alm. Salg,48.084,8,Stuehus,233,1907,,
+Dortheasvej 87171 Uldum,ldum,1.345.000,06-07-2008,Alm. Salg,8.621,6,Villa,156,1907,0 %,Aktuel værdi
+Skrædderbakken 67171 Uldum,ldum,1.325.000,25-06-2008,Alm. Salg,7.614,6,Villa,174,1980,-5 %,Aktuel værdi
+I P Hansens Vej 27171 Uldum,ldum,910.000,12-06-2008,Alm. Salg,11.375,3,Villa,80,1887,,Aktuel værdi
+Søndergade 257171 Uldum,ldum,1.100.000,09-06-2008,Alm. Salg,6.666,8,Villa,165,1938,,Aktuel værdi
+Nørregade 32E7171 Uldum,ldum,731.000,27-05-2008,Alm. Salg,9.371,3,Rækkehus,78,1982,,Aktuel værdi
+Rosenvænget 97171 Uldum,ldum,1.450.000,20-05-2008,Alm. Salg,10.357,5,Villa,140,1980,-3 %,Aktuel værdi
+Nørregade 147171 Uldum,ldum,950.000,24-03-2008,Alm. Salg,-,9,Villa,150,1929,,Aktuel værdi
+Uldum Hedevej 8A7171 Uldum,ldum,1.550.000,18-03-2008,Alm. Salg,9.337,5,Villa,166,1965,-3 %,Aktuel værdi
+Industrivej 227171 Uldum,ldum,1.750.000,06-03-2008,Alm. Salg,11.824,6,Villa,148,1986,-1 %,Aktuel værdi
+Søndergade 147171 Uldum,ldum,1.200.000,05-03-2008,Alm. Salg,14.814,10,Detailhandel,81,1877,-9 %,Aktuel værdi
+Kærvejen 1B7171 Uldum,ldum,550.000,22-02-2008,Alm. Salg,4.782,4,Villa,115,1917,,Aktuel værdi
+Åparken 57171 Uldum,ldum,1.175.000,16-01-2008,Alm. Salg,10.129,4,Villa,116,1971,,Aktuel værdi
+Uldum Hedevej 167171 Uldum,ldum,1.734.900,12-12-2007,Alm. Salg,9.746,7,Stuehus,178,2007,,
+Kærvejen 567171 Uldum,ldum,1.475.000,03-12-2007,Alm. Salg,8.939,5,Stuehus,165,2013,0 %,
+Søndergade 67171 Uldum,ldum,970.000,03-12-2007,Alm. Salg,12.435,3,Villa,78,1877,,Aktuel værdi
+Haurumvej 187171 Uldum,ldum,800.000,24-10-2007,Alm. Salg,5.128,4,Villa,156,1931,,Aktuel værdi
+Lillekongens Ager 47171 Uldum,ldum,384.364,16-10-2007,Alm. Salg,2.479,5,Villa,155,2009,,Aktuel værdi
+Bøgballevej 1267171 Uldum,ldum,1.070.000,10-10-2007,Alm. Salg,10.288,4,Villa,104,1980,-1 %,Aktuel værdi
+Åbrinken 517171 Uldum,ldum,1.450.000,06-10-2007,Alm. Salg,11.153,4,Villa,130,1977,0 %,Aktuel værdi
+Skolegade 217171 Uldum,ldum,1.300.000,21-09-2007,Alm. Salg,10.400,4,Villa,125,1949,-4 %,Aktuel værdi
+Stationsvej 27171 Uldum,ldum,980.000,14-09-2007,Alm. Salg,7.000,5,Villa,140,1922,,Aktuel værdi
+Østervænget 27171 Uldum,ldum,426.000,11-09-2007,Alm. Salg,3.276,5,Villa,130,1906,,Aktuel værdi
+Rosenvænget 67171 Uldum,ldum,1.825.000,22-08-2007,Alm. Salg,10.863,8,Villa,168,1989,-3 %,Aktuel værdi
+Hvilehøjparken 147171 Uldum,ldum,1.600.000,22-08-2007,Alm. Salg,-,5,Villa,156,2001,3 %,Aktuel værdi
+Horsensvej 17171 Uldum,ldum,725.000,15-08-2007,Alm. Salg,6.359,4,Villa,114,1964,,Aktuel værdi
+Vestergade 47171 Uldum,ldum,1.576.500,13-07-2007,Alm. Salg,9.383,6,Villa,168,1972,-1 %,Aktuel værdi
+Skolegade 297171 Uldum,ldum,1.000.000,27-06-2007,Alm. Salg,11.904,3,Villa,84,1961,,Aktuel værdi
+Nørregade 247171 Uldum,ldum,975.000,25-06-2007,Alm. Salg,9.375,4,Villa,104,1964,,Aktuel værdi
+Nørregade 127171 Uldum,ldum,1.275.000,18-06-2007,Alm. Salg,7.369,5,Villa,173,1925,-11 %,Aktuel værdi
+Højskolebakken 47171 Uldum,ldum,1.480.000,08-06-2007,Alm. Salg,5.441,7,Villa,272,1900,-1 %,Aktuel værdi
+Vestergade 7C7171 Uldum,ldum,1.445.000,22-05-2007,Alm. Salg,13.379,4,Rækkehus,108,2005,,Aktuel værdi
+Kalhavevej 497171 Uldum,ldum,1.590.000,16-05-2007,Alm. Salg,-,6,Stuehus,189,1900,,
+Rosenvænget 37171 Uldum,ldum,1.425.000,15-04-2007,Alm. Salg,11.875,3,Villa,120,1985,,Aktuel værdi
+Solsortevej 37171 Uldum,ldum,1.325.000,03-04-2007,Alm. Salg,10.192,4,Villa,130,1972,0 %,Aktuel værdi
+Lillekongens Ager 107171 Uldum,ldum,394.364,02-04-2007,Alm. Salg,2.347,6,Villa,168,2008,,Aktuel værdi
+Skolegade 247171 Uldum,ldum,1.400.000,26-03-2007,Alm. Salg,8.000,6,Villa,175,1961,-6 %,Aktuel værdi
+Hesselballevej 207171 Uldum,ldum,1.500.000,12-02-2007,Alm. Salg,9.677,4,Villa,155,1900,0 %,Aktuel værdi
+Vestergade 117171 Uldum,ldum,1.330.000,26-01-2007,Alm. Salg,7.112,5,Villa,187,1975,-3 %,Aktuel værdi
+Kirkegade 157171 Uldum,ldum,460.000,22-01-2007,Alm. Salg,4.466,3,Villa,103,1930,,Aktuel værdi
+Åbrinken 497171 Uldum,ldum,1.200.000,19-01-2007,Alm. Salg,8.333,5,Villa,144,1977,-11 %,Aktuel værdi
+Industrivej 207171 Uldum,ldum,1.080.000,09-01-2007,Alm. Salg,9.000,4,Villa,120,1976,0 %,Aktuel værdi
+Åparken 237171 Uldum,ldum,975.000,18-12-2006,Alm. Salg,8.783,4,Villa,111,1974,,Aktuel værdi
+Lillekongens Ager 127171 Uldum,ldum,532.214,21-11-2006,Alm. Salg,2.522,5,Villa,211,2007,,Aktuel værdi
+Østerled 177171 Uldum,ldum,66.350,06-11-2006,Alm. Salg,473,6,Villa,140,2006,,Aktuel værdi
+Åbrinken 477171 Uldum,ldum,1.425.000,19-10-2006,Alm. Salg,11.400,4,Villa,125,1977,,Aktuel værdi
+Kalhavevej 697171 Uldum,ldum,1.045.000,12-10-2006,Alm. Salg,3.745,8,Villa,279,1908,,Aktuel værdi
+Ørum Skovvej 37171 Uldum,ldum,1.800.000,06-10-2006,Alm. Salg,7.826,10,Villa,230,1880,,Aktuel værdi
+Fælledvej 57171 Uldum,ldum,750.000,05-10-2006,Andet,2.533,11,Villa,296,1948,,Aktuel værdi
+Skrædderbakken 47171 Uldum,ldum,985.000,04-10-2006,Alm. Salg,-,9,Villa,243,1880,,Aktuel værdi
+Kalhavevej 64A7171 Uldum,ldum,70.000,14-09-2006,Alm. Salg,500,4,Villa,140,2007,,Aktuel værdi
+Lillekongens Ager 67171 Uldum,ldum,324.664,01-09-2006,Alm. Salg,2.459,4,Villa,132,2007,,Aktuel værdi
+Lillekongens Ager 147171 Uldum,ldum,442.304,01-09-2006,Alm. Salg,2.256,6,Villa,196,2007,,Aktuel værdi
+Hesselballevej 307171 Uldum,ldum,975.000,30-08-2006,Alm. Salg,5.357,6,Villa,182,1900,,Aktuel værdi
+Bakkegårdsparken 97171 Uldum,ldum,1.350.000,22-08-2006,Alm. Salg,10.000,5,Villa,135,1978,,Aktuel værdi
+Mågevej 37171 Uldum,ldum,1.100.000,21-07-2006,Alm. Salg,9.166,3,Villa,120,1974,,Aktuel værdi
+Østerled 157171 Uldum,ldum,150.000,21-06-2006,Alm. Salg,1.376,4,Villa,109,2007,,Aktuel værdi
+Lærkevej 107171 Uldum,ldum,1.225.000,14-06-2006,Alm. Salg,8.812,4,Villa,139,1973,,Aktuel værdi
+Langagervej 37171 Uldum,ldum,385.000,09-05-2006,Alm. Salg,5.500,4,Villa,70,1898,,Aktuel værdi
+Ribevej 27171 Uldum,ldum,2.400.000,29-04-2006,Alm. Salg,19.047,5,Villa,126,1989,,Aktuel værdi
+Mekuvej 347171 Uldum,ldum,191.360,27-04-2006,Alm. Salg,1.012,5,Villa,189,2007,,Aktuel værdi
+Vestergade 177171 Uldum,ldum,1.300.000,21-04-2006,Alm. Salg,8.125,5,Villa,160,1972,,Aktuel værdi
+Bygaden 117171 Uldum,ldum,20.000,21-04-2006,Alm. Salg,91,8,Stuehus,219,1913,,
+Haurumvej 27171 Uldum,ldum,369.850,31-03-2006,Alm. Salg,1.804,4,Villa,205,1912,,Aktuel værdi
+Tjørnevej 17171 Uldum,ldum,1.057.500,31-03-2006,Alm. Salg,4.679,11,Stuehus,226,1865,,
+Kalhavevej 557171 Uldum,ldum,1.580.000,27-03-2006,Alm. Salg,8.020,7,Villa,197,1750,,Aktuel værdi
+Vesterled 37171 Uldum,ldum,1.185.000,15-03-2006,Alm. Salg,9.045,5,Villa,131,1920,,Aktuel værdi
+Kalbækvej 37171 Uldum,ldum,1.125.000,06-03-2006,Alm. Salg,-,5,Villa,188,1928,,Aktuel værdi
+Haurumvej 257171 Uldum,ldum,1.695.000,24-02-2006,Alm. Salg,7.811,7,Villa,217,1914,,Aktuel værdi
+Lærkevej 77171 Uldum,ldum,1.295.000,10-02-2006,Alm. Salg,9.184,4,Villa,141,1977,,Aktuel værdi
+Rosenvænget 127171 Uldum,ldum,880.000,30-01-2006,Alm. Salg,7.521,5,Villa,117,1977,,Aktuel værdi
+Skanderborgvej 167171 Uldum,ldum,16.750.000,19-01-2006,Alm. Salg,57.758,8,Stuehus,290,1915,,
+Søndergade 87171 Uldum,ldum,1.220.000,17-01-2006,Alm. Salg,7.052,6,Villa,173,1923,,Aktuel værdi
+Højskolebakken 207171 Uldum,ldum,1.050.000,13-01-2006,Alm. Salg,7.553,4,Villa,139,1973,,Aktuel værdi
+Kærvejen 247171 Uldum,ldum,2.067.263,02-01-2006,Alm. Salg,7.684,7,Villa,269,1906,,Aktuel værdi
+Mågevej 87171 Uldum,ldum,612.000,21-12-2005,Fam. Salg,4.434,4,Villa,138,1973,,Aktuel værdi
+Nørregade 32D7171 Uldum,ldum,725.000,12-12-2005,Alm. Salg,7.967,3,Rækkehus,91,1982,,Aktuel værdi
+Fælledvej 87171 Uldum,ldum,1.175.000,11-12-2005,Alm. Salg,-,6,Villa,163,1935,,Aktuel værdi
+Industrivej 117171 Uldum,ldum,1.125.000,21-11-2005,Alm. Salg,7.500,4,Villa,150,1965,,Aktuel værdi
+Sønderløkke 87171 Uldum,ldum,1.880.000,31-10-2005,Alm. Salg,-,7,Villa,231,2005,,Aktuel værdi
+Skanderborgvej 357171 Uldum,ldum,545.000,30-09-2005,Alm. Salg,4.467,4,Villa,122,1900,,Aktuel værdi
+Hvilehøjparken 2A7171 Uldum,ldum,213.675,28-09-2005,Alm. Salg,1.155,7,Villa,185,2006,,Aktuel værdi
+Langagervej 97171 Uldum,ldum,2.875.000,30-08-2005,Alm. Salg,11.318,8,Villa,254,1870,,Aktuel værdi
+Nørregade 317171 Uldum,ldum,750.000,28-08-2005,Alm. Salg,6.756,4,Villa,111,1948,,Aktuel værdi
+Haurumvej 137171 Uldum,ldum,800.000,20-08-2005,Alm. Salg,8.602,4,Villa,93,1912,,Aktuel værdi
+Skanderborgvej 607171 Uldum,ldum,949.532,12-08-2005,Alm. Salg,8.402,4,Villa,113,1955,,Aktuel værdi
+Nordvestvej 17171 Uldum,ldum,420.000,11-08-2005,Fam. Salg,-,4,Villa,112,1900,,Aktuel værdi
+Langagervej 167171 Uldum,ldum,1.488.880,12-07-2005,Alm. Salg,11.631,4,Villa,128,1920,,Aktuel værdi
+Bøgballevej 667171 Uldum,ldum,4.135.000,06-07-2005,Alm. Salg,27.939,5,Stuehus,148,1988,,
+Hedevej 437171 Uldum,ldum,150.000,06-07-2005,Fam. Salg,641,8,Stuehus,234,1912,,
+Ørumvej 37171 Uldum,ldum,830.000,24-06-2005,Alm. Salg,6.803,5,Villa,122,1900,,Aktuel værdi
+Nørregade 87171 Uldum,ldum,725.000,22-06-2005,Alm. Salg,4.264,8,Villa,170,1920,,Aktuel værdi
+Kærvejen 387171 Uldum,ldum,1.875.000,17-06-2005,Alm. Salg,8.408,6,Stuehus,223,1900,,
+Solsortevej 97171 Uldum,ldum,815.000,16-06-2005,Alm. Salg,5.821,4,Villa,140,1974,,Aktuel værdi
+Åparken 127171 Uldum,ldum,800.000,15-06-2005,Alm. Salg,-,5,Villa,141,1967,,Aktuel værdi
+Kirketoften 37171 Uldum,ldum,655.000,15-06-2005,Alm. Salg,8.397,2,Villa,78,1961,,Aktuel værdi
+Bøgballevej 937171 Uldum,ldum,1.125.000,14-06-2005,Alm. Salg,7.922,5,Villa,142,1877,,Aktuel værdi
+Nordvestvej 37171 Uldum,ldum,690.000,12-06-2005,Alm. Salg,6.272,3,Villa,110,1920,,Aktuel værdi
+Vestergade 167171 Uldum,ldum,1.050.000,31-05-2005,Alm. Salg,9.051,4,Villa,116,1971,,Aktuel værdi
+Åbrinken 117171 Uldum,ldum,1.100.000,13-05-2005,Alm. Salg,7.586,5,Villa,145,1977,,Aktuel værdi
+Søndergade 197171 Uldum,ldum,900.000,06-05-2005,Alm. Salg,17.307,11,Servicevirksomhed,52,1920,,Aktuel værdi
+Langagervej 217171 Uldum,ldum,1.800.000,04-05-2005,Alm. Salg,10.526,5,Villa,171,1979,,Aktuel værdi
+Rosenvænget 117171 Uldum,ldum,1.150.000,29-04-2005,Alm. Salg,8.273,5,Villa,139,1981,,Aktuel værdi
+Bygaden 27171 Uldum,ldum,310.000,21-04-2005,Alm. Salg,3.444,3,Villa,90,1900,,Aktuel værdi
+Nørregade 16A7171 Uldum,ldum,550.000,21-04-2005,Alm. Salg,5.670,4,Lejlighed,97,1905,,Aktuel værdi
+Skolegade 187171 Uldum,ldum,725.000,20-04-2005,Alm. Salg,6.304,3,Villa,115,1947,,Aktuel værdi
+Sønderløkke 167171 Uldum,ldum,305.030,18-04-2005,Alm. Salg,1.882,6,Villa,162,2005,,Aktuel værdi
+Tjørnevej 127171 Uldum,ldum,805.000,13-04-2005,Alm. Salg,7.061,4,Villa,114,1971,,Aktuel værdi
+Nørregade 16D7171 Uldum,ldum,450.000,11-04-2005,Alm. Salg,6.081,3,Lejlighed,74,1905,,Aktuel værdi
+Nørregade 16C7171 Uldum,ldum,598.000,11-04-2005,Alm. Salg,6.164,4,Lejlighed,97,1905,,Aktuel værdi
+Nørregade 16B7171 Uldum,ldum,495.000,11-04-2005,Alm. Salg,6.689,3,Lejlighed,74,1905,,Aktuel værdi
+Kærvejen 127171 Uldum,ldum,985.000,07-04-2005,Alm. Salg,-,8,Villa,207,1900,,Aktuel værdi
+Højskolebakken 147171 Uldum,ldum,1.325.000,01-04-2005,Alm. Salg,8.952,6,Villa,148,1996,,Aktuel værdi
+Kalhavevej 517171 Uldum,ldum,1.200.000,28-03-2005,Alm. Salg,7.272,6,Villa,165,1911,,Aktuel værdi
+Skolegade 227171 Uldum,ldum,935.000,15-03-2005,Alm. Salg,5.807,5,Villa,161,1959,,Aktuel værdi
+Rosenvænget 147171 Uldum,ldum,980.000,28-02-2005,Alm. Salg,5.730,6,Villa,171,1976,,Aktuel værdi
+Nordvestvej 27171 Uldum,ldum,940.000,20-02-2005,Alm. Salg,6.351,5,Villa,148,1974,,Aktuel værdi
+Sønderløkke 147171 Uldum,ldum,343.540,10-02-2005,Alm. Salg,-,6,Villa,215,2006,,Aktuel værdi
+Fælledvej 347171 Uldum,ldum,935.000,27-01-2005,Alm. Salg,7.248,5,Villa,129,1900,,Aktuel værdi
+Langagervej 17171 Uldum,ldum,1.580.000,20-01-2005,Alm. Salg,9.132,5,Villa,173,1900,,Aktuel værdi
+Hvilehøjparken 17171 Uldum,ldum,462.175,10-01-2005,Alm. Salg,1.610,6,Villa,287,2005,,Aktuel værdi
+Sebastiansvej 27171 Uldum,ldum,1.875.000,21-12-2004,Alm. Salg,7.780,7,Villa,241,1998,,Aktuel værdi
+Nørregade 377171 Uldum,ldum,1.100.000,16-11-2004,Alm. Salg,12.941,4,Villa,85,1955,,Aktuel værdi
+Åparken 137171 Uldum,ldum,950.000,03-11-2004,Alm. Salg,7.307,4,Villa,130,1973,,Aktuel værdi
+Ribevej 97171 Uldum,ldum,795.000,07-10-2004,Alm. Salg,3.180,9,Villa,250,1929,,Aktuel værdi
+Stationsvej 47171 Uldum,ldum,1.250.000,06-10-2004,Alm. Salg,5.319,5,Villa,235,1906,,Aktuel værdi
+Østerled 77171 Uldum,ldum,475.000,03-09-2004,Alm. Salg,4.611,4,Villa,103,1827,,Aktuel værdi
+Kalhave Byvej 87171 Uldum,ldum,1.295.000,17-06-2004,Alm. Salg,6.442,6,Villa,201,1873,,Aktuel værdi
+Bøgballevej 587171 Uldum,ldum,515.000,17-05-2004,Alm. Salg,4.768,4,Villa,108,1900,,Aktuel værdi
+Bøgballevej 1237171 Uldum,ldum,1.040.000,03-05-2004,Alm. Salg,-,7,Stuehus,290,1890,,
+Nørregade 737171 Uldum,ldum,400.000,03-05-2004,Alm. Salg,2.531,6,Villa,158,1902,,Aktuel værdi
+Hesselballevej 187171 Uldum,ldum,396.627,26-04-2004,Alm. Salg,1.513,9,Villa,262,1880,,Aktuel værdi
+Skanderborgvej 297171 Uldum,ldum,770.000,06-04-2004,Alm. Salg,4.556,5,Villa,169,1967,,Aktuel værdi
+Skanderborgvej 277171 Uldum,ldum,634.000,29-03-2004,Alm. Salg,5.196,4,Villa,122,1939,,Aktuel værdi
+Dortheasvej 107171 Uldum,ldum,590.000,24-03-2004,Alm. Salg,4.097,3,Rækkehus,144,1910,,Aktuel værdi
+Rosenvænget 107171 Uldum,ldum,1.580.000,01-03-2004,Alm. Salg,10.000,6,Villa,158,1986,,Aktuel værdi
+Hvilehøjparken 5A7171 Uldum,ldum,665.000,16-02-2004,Alm. Salg,7.916,3,Rækkehus,84,1987,,Aktuel værdi
+Langagervej 27171 Uldum,ldum,1.148.000,12-02-2004,Fam. Salg,-,8,Stuehus,178,1890,,
+Horsensvej 107171 Uldum,ldum,945.000,12-01-2004,Alm. Salg,5.250,7,Villa,180,1910,,Aktuel værdi
+Bakkegårdsparken 77171 Uldum,ldum,1.030.000,22-12-2003,Alm. Salg,5.537,7,Villa,186,1977,,Aktuel værdi
+Langagervej 187171 Uldum,ldum,1.000.000,09-12-2003,Alm. Salg,4.484,7,Villa,223,1900,,Aktuel værdi
+Kærvejen 47171 Uldum,ldum,725.266,08-12-2003,Alm. Salg,7.798,4,Villa,93,1938,,Aktuel værdi
+Uldum Hedevej 47171 Uldum,ldum,4.200.000,04-12-2003,Alm. Salg,20.388,5,Villa,206,1901,,Aktuel værdi
+Åbrinken 357171 Uldum,ldum,799.000,01-12-2003,Alm. Salg,5.154,4,Villa,155,1975,,Aktuel værdi
+Mekuvej 247171 Uldum,ldum,162.825,23-10-2003,Alm. Salg,723,10,Villa,225,2004,,Aktuel værdi
+Industrisvinget 67171 Uldum,ldum,1.160.000,15-10-2003,Alm. Salg,-,5,Villa,156,1986,,Aktuel værdi
+Ørum Skovvej 217171 Uldum,ldum,1.300.000,22-09-2003,Alm. Salg,-,7,Villa,186,1877,,Aktuel værdi
+Bakkegårdsparken 67171 Uldum,ldum,760.000,19-09-2003,Alm. Salg,5.170,6,Villa,147,1977,,Aktuel værdi
+I P Hansens Vej 47171 Uldum,ldum,300.000,05-09-2003,Alm. Salg,5.084,2,Villa,59,1885,,Aktuel værdi
+Kærvejen 637171 Uldum,ldum,2.000.000,27-08-2003,Alm. Salg,11.695,4,Villa,171,1996,,Aktuel værdi
+Åparken 87171 Uldum,ldum,700.000,22-08-2003,Alm. Salg,6.194,2,Villa,113,1969,,Aktuel værdi
+Sebastiansvej 47171 Uldum,ldum,1.258.000,30-07-2003,Alm. Salg,9.828,5,Villa,128,1998,,Aktuel værdi
+Nørregade 287171 Uldum,ldum,550.000,05-07-2003,Alm. Salg,5.238,3,Villa,105,1962,,Aktuel værdi
+Hesselballevej 287171 Uldum,ldum,459.000,02-07-2003,Fam. Salg,2.765,6,Villa,166,1900,,Aktuel værdi
+Skanderborgvej 707171 Uldum,ldum,700.000,23-06-2003,Alm. Salg,6.086,3,Villa,115,1950,,Aktuel værdi
+Kalhavevej 577171 Uldum,ldum,690.000,17-06-2003,Alm. Salg,4.181,6,Villa,165,1924,,Aktuel værdi
+Uldum Hedevej 207171 Uldum,ldum,55.000,16-06-2003,Alm. Salg,-,5,Villa,150,1934,,Aktuel værdi
+Vestergade 27171 Uldum,ldum,42.600,06-06-2003,Alm. Salg,390,4,Villa,109,2006,,Aktuel værdi
+Vesterled 77171 Uldum,ldum,200.000,02-06-2003,Alm. Salg,1.709,4,Villa,117,1867,,Aktuel værdi
+Hesselballevej 27171 Uldum,ldum,850.000,21-05-2003,Alm. Salg,6.204,4,Villa,137,1941,,Aktuel værdi
+Ribevej 137171 Uldum,ldum,4.400.000,20-05-2003,Alm. Salg,20.952,7,Stuehus,210,1914,,
+Kærvejen 327171 Uldum,ldum,1.475.000,13-05-2003,Alm. Salg,-,9,Villa,263,1909,,Aktuel værdi
+Langagervej 327171 Uldum,ldum,845.000,16-04-2003,Alm. Salg,6.500,4,Villa,130,1900,,Aktuel værdi
+Fasanvej 127171 Uldum,ldum,581.395,26-03-2003,Alm. Salg,4.037,4,Villa,144,1907,,Aktuel værdi
+Sønderløkke 107171 Uldum,ldum,340.580,24-03-2003,Alm. Salg,2.115,6,Villa,161,2004,,Aktuel værdi
+Langagervej 177171 Uldum,ldum,500.000,19-03-2003,Alm. Salg,4.310,5,Villa,116,1930,,Aktuel værdi
+Vestergade 197171 Uldum,ldum,885.000,15-03-2003,Alm. Salg,-,5,Villa,191,1969,,Aktuel værdi
+Nordvestvej 107171 Uldum,ldum,1.275.000,04-03-2003,Alm. Salg,-,6,Villa,165,1932,,Aktuel værdi
+Hesselballevej 47171 Uldum,ldum,640.000,07-02-2003,Alm. Salg,5.614,4,Villa,114,1963,,Aktuel værdi
+Hedevej 687171 Uldum,ldum,1.298.000,06-02-2003,Alm. Salg,8.320,5,Villa,156,1885,,Aktuel værdi
+Haurumvej 277171 Uldum,ldum,5.385.000,03-02-2003,Alm. Salg,20.872,9,Stuehus,258,1924,,
+Nørregade 567171 Uldum,ldum,920.000,28-01-2003,Alm. Salg,6.301,4,Villa,146,1969,,Aktuel værdi
+Skolegade 37171 Uldum,ldum,850.000,19-12-2002,Fam. Salg,3.761,8,Villa,226,1903,,Aktuel værdi
+Østerled 277171 Uldum,ldum,297.902,18-12-2002,Fam. Salg,2.892,5,Villa,103,1976,,Aktuel værdi
+Skolegade 97171 Uldum,ldum,705.000,06-12-2002,Alm. Salg,5.423,6,Villa,130,1948,,Aktuel værdi
+Fælledvej 107171 Uldum,ldum,760.000,11-10-2002,Alm. Salg,-,7,Villa,249,1910,,Aktuel værdi
+Sønderløkke 67171 Uldum,ldum,403.190,12-09-2002,Alm. Salg,2.687,5,Villa,150,2003,,Aktuel værdi
+Fasanvej 157171 Uldum,ldum,1.250.000,26-08-2002,Alm. Salg,-,9,Villa,250,1857,,Aktuel værdi
+I P Hansens Vej 107171 Uldum,ldum,735.000,29-07-2002,Alm. Salg,6.074,5,Villa,121,1914,,Aktuel værdi
+Højskolebakken 167171 Uldum,ldum,1.045.000,01-07-2002,Alm. Salg,8.100,4,Villa,129,1985,,Aktuel værdi
+Rosenvænget 2A7171 Uldum,ldum,645.000,01-07-2002,Alm. Salg,7.329,3,Rækkehus,88,1984,,Aktuel værdi
+Hvilehøjparken 177171 Uldum,ldum,1.058.983,15-06-2002,Alm. Salg,-,6,Villa,175,1989,,Aktuel værdi
+Skanderborgvej 667171 Uldum,ldum,369.667,12-06-2002,Alm. Salg,2.678,3,Villa,138,1955,,Aktuel værdi
+Bakkegårdsparken 57171 Uldum,ldum,725.000,06-06-2002,Alm. Salg,5.534,6,Villa,131,1975,,Aktuel værdi
+Nørregade 32A7171 Uldum,ldum,335.000,03-06-2002,Alm. Salg,5.877,2,Rækkehus,57,1982,,Aktuel værdi
+Lærkevej 87171 Uldum,ldum,795.000,29-05-2002,Alm. Salg,7.098,4,Villa,112,1974,,Aktuel værdi
+Skanderborgvej 567171 Uldum,ldum,1.035.000,08-05-2002,Alm. Salg,-,8,Villa,298,1894,,Aktuel værdi
+Industrivej 97171 Uldum,ldum,100.000,03-05-2002,Alm. Salg,613,5,Villa,163,2003,,Aktuel værdi
+Kærvejen 407171 Uldum,ldum,895.541,02-05-2002,Alm. Salg,-,6,Villa,129,1900,,Aktuel værdi
+Åbrinken 197171 Uldum,ldum,1.250.000,30-04-2002,Alm. Salg,6.793,5,Villa,184,1977,,Aktuel værdi
+Kærvejen 107171 Uldum,ldum,525.000,25-04-2002,Alm. Salg,4.303,4,Villa,122,1900,,Aktuel værdi
+Nørregade 397171 Uldum,ldum,520.000,26-03-2002,Alm. Salg,6.933,3,Villa,75,1963,,Aktuel værdi
+Industrivej 157171 Uldum,ldum,1.572.500,26-03-2002,Fam. Salg,6.607,7,Villa,238,1976,,Aktuel værdi
+Nørregade 207171 Uldum,ldum,697.294,16-03-2002,Alm. Salg,-,4,Villa,146,1953,,Aktuel værdi
+Skolegade 117171 Uldum,ldum,450.000,07-03-2002,Alm. Salg,2.980,5,Villa,151,1913,,Aktuel værdi
+Nørregade 437171 Uldum,ldum,805.000,06-03-2002,Alm. Salg,7.666,4,Villa,105,1943,,Aktuel værdi
+Stationsvej 37171 Uldum,ldum,475.000,21-02-2002,Fam. Salg,3.800,5,Villa,125,1919,,Aktuel værdi
+Kærvejen 497171 Uldum,ldum,700.000,20-02-2002,Alm. Salg,4.545,4,Villa,154,2004,,Aktuel værdi
+Kærvejen 557171 Uldum,ldum,83.000,17-12-2001,Alm. Salg,538,5,Villa,154,1883,,Aktuel værdi
+Hvilehøjparken 67171 Uldum,ldum,164.220,30-10-2001,Alm. Salg,1.117,5,Villa,147,2002,,Aktuel værdi
+Kirkegade 117171 Uldum,ldum,658.637,16-10-2001,Alm. Salg,-,5,Villa,135,1957,,Aktuel værdi
+Åparken 147171 Uldum,ldum,775.000,03-10-2001,Alm. Salg,6.458,4,Villa,120,1968,,Aktuel værdi
+Kærvejen 87171 Uldum,ldum,680.000,27-09-2001,Alm. Salg,-,8,Villa,232,1900,,Aktuel værdi
+Dortheasvej 217171 Uldum,ldum,975.000,27-08-2001,Alm. Salg,8.783,6,Villa,111,1900,,Aktuel værdi
+Nordvestvej 77171 Uldum,ldum,1.730.000,22-08-2001,Alm. Salg,6.577,7,Villa,263,1987,,Aktuel værdi
+Industrivej 147171 Uldum,ldum,520.000,12-08-2001,Alm. Salg,-,4,Villa,114,1966,,Aktuel værdi
+Kalhavevej 457171 Uldum,ldum,650.000,04-08-2001,Alm. Salg,-,4,Villa,171,1900,,Aktuel værdi
+Søndergade 127171 Uldum,ldum,550.000,02-08-2001,Fam. Salg,4.365,4,Villa,126,1900,,Aktuel værdi
+Fælledvej 217171 Uldum,ldum,1.600.000,23-05-2001,Alm. Salg,8.333,7,Villa,192,1941,,Aktuel værdi
+Kirketoften 97171 Uldum,ldum,360.000,15-05-2001,Alm. Salg,3.870,6,Villa,93,1725,,Aktuel værdi
+Skrædderbakken 87171 Uldum,ldum,412.796,18-04-2001,Andet,2.399,7,Villa,172,1979,,Aktuel værdi
+Kærvejen 587171 Uldum,ldum,385.000,28-03-2001,Fam. Salg,2.830,7,Villa,136,1900,,Aktuel værdi
+Ørumvej 17171 Uldum,ldum,360.000,23-01-2001,Alm. Salg,3.829,3,Rækkehus,94,1882,,Aktuel værdi
+Uldum Hedevej 17171 Uldum,ldum,557.500,29-12-2000,Fam. Salg,3.420,6,Stuehus,163,1914,,
+Hvilehøjparken 2B7171 Uldum,ldum,361.000,28-12-2000,Alm. Salg,2.062,6,Villa,175,2002,,Aktuel værdi
+Lærkevej 127171 Uldum,ldum,570.000,05-12-2000,Fam. Salg,5.135,3,Villa,111,1968,,Aktuel værdi
+Højskolebakken 57171 Uldum,ldum,339.913,23-11-2000,Alm. Salg,4.855,4,Villa,70,1885,,Aktuel værdi
+Ribevej 37171 Uldum,ldum,825.000,27-10-2000,Alm. Salg,4.796,7,Villa,172,1923,,Aktuel værdi
+Sindballevej 367171 Uldum,ldum,218.042,28-09-2000,Alm. Salg,-,5,Villa,98,1870,,Aktuel værdi
+Bøgballevej 897171 Uldum,ldum,1.485.000,22-08-2000,Alm. Salg,10.241,5,Villa,145,1823,,Aktuel værdi
+Kalhave Byvej 67171 Uldum,ldum,7.000.000,08-08-2000,Alm. Salg,29.535,7,Stuehus,237,1875,,
+Industrivej 267171 Uldum,ldum,850.000,07-08-2000,Fam. Salg,4.829,7,Villa,176,1978,,Aktuel værdi
+Nørregade 717171 Uldum,ldum,350.000,20-07-2000,Alm. Salg,2.734,4,Villa,128,1900,,Aktuel værdi
+Nørregade 477171 Uldum,ldum,650.000,22-06-2000,Alm. Salg,7.386,3,Villa,88,1949,,Aktuel værdi
+Kalhavevej 477171 Uldum,ldum,10.244.600,26-05-2000,Fam. Salg,43.968,8,Stuehus,233,1907,,
+Nørregade 547171 Uldum,ldum,1.179.168,20-05-2000,Alm. Salg,8.865,6,Villa,133,1969,,Aktuel værdi
+Hvilehøjparken 197171 Uldum,ldum,83.835,15-05-2000,Alm. Salg,639,4,Villa,131,2000,,Aktuel værdi
+Dortheasvej 147171 Uldum,ldum,800.000,26-04-2000,Alm. Salg,5.797,3,Villa,138,1920,,Aktuel værdi
+Søndergade 247171 Uldum,ldum,370.118,14-04-2000,Alm. Salg,2.960,4,Villa,125,1827,,Aktuel værdi
+Østerled 197171 Uldum,ldum,525.000,07-04-2000,Alm. Salg,4.772,4,Villa,110,1973,,Aktuel værdi
+Åbrinken 397171 Uldum,ldum,1.068.234,05-04-2000,Alm. Salg,8.478,4,Villa,126,1979,,Aktuel værdi
+Kirkegade 57171 Uldum,ldum,437.687,24-03-2000,Alm. Salg,4.249,5,Villa,103,1877,,Aktuel værdi
+Vesterled 3A7171 Uldum,ldum,553.000,09-03-2000,Alm. Salg,6.743,3,Villa,82,1968,,Aktuel værdi
+Haurumvej 207171 Uldum,ldum,1.248.184,28-02-2000,Alm. Salg,8.491,7,Villa,147,1900,,Aktuel værdi
+Solsortevej 17171 Uldum,ldum,975.000,19-02-2000,Alm. Salg,4.826,7,Villa,202,1971,,Aktuel værdi
+Langagervej 227171 Uldum,ldum,1.319.000,28-11-1999,Alm. Salg,6.221,5,Villa,212,1997,,Aktuel værdi
+Fasanvej 17171 Uldum,ldum,589.119,09-11-1999,Alm. Salg,6.073,4,Villa,97,1877,,Aktuel værdi
+Mekuvej 267171 Uldum,ldum,178.750,10-09-1999,Alm. Salg,780,8,Villa,229,2005,,Aktuel værdi
+Nørregade 137171 Uldum,ldum,400.000,26-07-1999,Alm. Salg,4.000,4,Villa,100,1946,,Aktuel værdi
+Dortheasvej 207171 Uldum,ldum,1.255.471,26-07-1999,Alm. Salg,6.573,5,Villa,191,1917,,Aktuel værdi
+Uldum Hedevej 147171 Uldum,ldum,17.850,28-06-1999,Alm. Salg,156,3,Villa,114,2000,,Aktuel værdi
+Hvilehøjparken 167171 Uldum,ldum,84.571,09-06-1999,Alm. Salg,621,4,Villa,136,1999,,Aktuel værdi
+Haurumvej 167171 Uldum,ldum,1.125.474,17-04-1999,Alm. Salg,4.538,7,Villa,248,1931,,Aktuel værdi
+Kirkegade 127171 Uldum,ldum,592.000,20-03-1999,Alm. Salg,5.381,4,Villa,110,1957,,Aktuel værdi
+Hesselballevej 157171 Uldum,ldum,940.000,27-02-1999,Alm. Salg,6.911,4,Villa,136,1971,,Aktuel værdi
+Nørregade 587171 Uldum,ldum,630.300,29-12-1998,Alm. Salg,6.002,2,Villa,105,1936,,Aktuel værdi
+Bøgballevej 1147171 Uldum,ldum,700.000,01-11-1998,Alm. Salg,6.363,4,Villa,110,1964,,Aktuel værdi
+Poul M.Møllers Plads 47171 Uldum,ldum,606.500,12-10-1998,Fam. Salg,3.078,6,Villa,197,1999,,Aktuel værdi
+Nørregade 677171 Uldum,ldum,503.500,02-09-1998,Alm. Salg,3.545,4,Villa,142,1890,,Aktuel værdi
+Hvilehøjparken 127171 Uldum,ldum,92.920,26-08-1998,Alm. Salg,703,5,Villa,132,1999,,Aktuel værdi
+Ribevej 117171 Uldum,ldum,498.680,24-08-1998,Alm. Salg,-,7,Villa,285,1864,,Aktuel værdi
+Ribevej 127171 Uldum,ldum,140.000,08-07-1998,Alm. Salg,588,10,Villa,238,1864,,Aktuel værdi
+Bøgballevej 977171 Uldum,ldum,200.000,02-07-1998,Alm. Salg,-,8,Villa,229,1970,,Aktuel værdi
+Fælledvej 387171 Uldum,ldum,200.000,01-07-1998,Alm. Salg,1.587,4,Villa,126,2002,,Aktuel værdi
+Kirkegade 147171 Uldum,ldum,289.000,30-06-1998,Alm. Salg,4.013,2,Villa,72,1955,,Aktuel værdi
+Åparken 47171 Uldum,ldum,616.000,24-06-1998,Alm. Salg,5.008,4,Villa,123,1971,,Aktuel værdi
+Fælledvej 327171 Uldum,ldum,650.000,18-06-1998,Alm. Salg,-,7,Villa,187,1875,,Aktuel værdi
+Kalhavevej 627171 Uldum,ldum,247.710,21-05-1998,Alm. Salg,1.651,7,Villa,150,1900,,Aktuel værdi
+Ørum Skovvej 47171 Uldum,ldum,289.000,07-05-1998,Alm. Salg,3.141,5,Villa,92,1897,,Aktuel værdi
+Skolegade 167171 Uldum,ldum,618.153,06-05-1998,Alm. Salg,-,5,Villa,147,1947,,Aktuel værdi
+Åparken 107171 Uldum,ldum,600.000,14-04-1998,Alm. Salg,5.357,4,Villa,112,1967,,Aktuel værdi
+Kirkegade 67171 Uldum,ldum,718.000,08-03-1998,Alm. Salg,4.432,7,Villa,162,1915,,Aktuel værdi
+Bjerremosevej 137171 Uldum,ldum,925.000,12-02-1998,Alm. Salg,-,7,Villa,193,1877,,Aktuel værdi
+Kærvejen 257171 Uldum,ldum,840.000,15-12-1997,Alm. Salg,7.118,4,Villa,118,1985,,Aktuel værdi
+Nørregade 557171 Uldum,ldum,288.000,25-11-1997,Alm. Salg,1.645,6,Villa,175,1998,,Aktuel værdi
+Kærvejen 357171 Uldum,ldum,688.500,13-10-1997,Alm. Salg,5.138,5,Villa,134,1969,,Aktuel værdi
+Skanderborgvej 317171 Uldum,ldum,240.000,06-09-1997,Alm. Salg,-,6,Villa,179,1908,,Aktuel værdi
+Ørum Skovvej 157171 Uldum,ldum,96.250,01-08-1997,Alm. Salg,-,7,Villa,178,1962,,Aktuel værdi
+Åparken 77171 Uldum,ldum,670.000,30-07-1997,Alm. Salg,4.527,5,Villa,148,1973,,Aktuel værdi
+Nørregade 757171 Uldum,ldum,225.000,01-07-1997,Alm. Salg,-,5,Villa,148,1897,,Aktuel værdi
+Vesterled 27171 Uldum,ldum,795.000,12-06-1997,Alm. Salg,4.517,6,Villa,176,1825,,Aktuel værdi
+Dortheasvej 247171 Uldum,ldum,1.585.000,23-05-1997,Fam. Salg,10.856,5,Stuehus,146,1920,,
+Nordvestvej 207171 Uldum,ldum,1.775.000,23-05-1997,Fam. Salg,9.699,6,Stuehus,183,1985,,
+Langagervej 87171 Uldum,ldum,1.750.000,28-04-1997,Fam. Salg,6.433,8,Stuehus,272,1877,,
+Østerled 17171 Uldum,ldum,675.000,31-03-1997,Alm. Salg,3.708,9,Villa,182,1877,,Aktuel værdi
+Skanderborgvej 517171 Uldum,ldum,23.000,10-03-1997,Alm. Salg,108,6,Stuehus,212,1893,,
+Åparken 207171 Uldum,ldum,500.000,03-02-1997,Alm. Salg,-,6,Villa,166,1970,,Aktuel værdi
+Nørregade 157171 Uldum,ldum,310.000,09-12-1996,Fam. Salg,2.480,6,Villa,125,1910,,Aktuel værdi
+Højskolebakken 77171 Uldum,ldum,315.000,07-11-1996,Alm. Salg,-,4,Rækkehus,130,1885,,Aktuel værdi
+Nørregade 77171 Uldum,ldum,473.000,01-11-1996,Alm. Salg,3.378,4,Villa,140,1937,,Aktuel værdi
+Skolegade 277171 Uldum,ldum,590.000,12-10-1996,Alm. Salg,-,4,Villa,159,1965,,Aktuel værdi
+Skanderborgvej 447171 Uldum,ldum,890.000,21-09-1996,Alm. Salg,2.789,7,Villa,319,1906,,Aktuel værdi
+Sechersvej 37171 Uldum,ldum,606.000,12-09-1996,Alm. Salg,2.525,6,Villa,240,1856,,Aktuel værdi
+Horsensvej 87171 Uldum,ldum,600.000,13-08-1996,Alm. Salg,2.884,8,Villa,208,1910,,Aktuel værdi
+Dortheasvej 77171 Uldum,ldum,706.000,30-07-1996,Alm. Salg,5.191,4,Villa,136,1978,,Aktuel værdi
+Nørregade 117171 Uldum,ldum,605.000,25-07-1996,Alm. Salg,4.481,6,Villa,135,1928,,Aktuel værdi
+Stationsvej 67171 Uldum,ldum,485.500,05-06-1996,Alm. Salg,2.345,7,Villa,207,1893,,Aktuel værdi
+Hvilehøjparken 8A7171 Uldum,ldum,533.508,23-05-1996,Alm. Salg,5.927,4,Rækkehus,90,1988,,Aktuel værdi
+Hesselballevej 67171 Uldum,ldum,520.000,16-03-1996,Alm. Salg,4.406,4,Villa,118,1973,,Aktuel værdi
+Kærvejen 617171 Uldum,ldum,586.000,16-03-1996,Alm. Salg,3.685,5,Villa,159,1880,,Aktuel værdi
+Skanderborgvej 497171 Uldum,ldum,523.000,11-03-1996,Alm. Salg,-,11,Villa,303,1941,,Aktuel værdi
+Bakkegårdsparken 137171 Uldum,ldum,750.000,19-02-1996,Alm. Salg,-,8,Villa,266,1974,,Aktuel værdi
+Hvilehøjparken 137171 Uldum,ldum,145.000,31-01-1996,Alm. Salg,796,6,Villa,182,1996,,Aktuel værdi
+Skanderborgvej 537171 Uldum,ldum,565.000,21-12-1995,Alm. Salg,4.956,5,Villa,114,1900,,Aktuel værdi
+Skolegade 127171 Uldum,ldum,325.000,21-09-1995,Alm. Salg,3.125,4,Villa,104,1930,,Aktuel værdi
+Mågevej 27171 Uldum,ldum,595.000,20-09-1995,Alm. Salg,3.305,7,Villa,180,1972,,Aktuel værdi
+Hvilehøjparken 187171 Uldum,ldum,131.600,15-08-1995,Alm. Salg,-,5,Villa,189,1995,,Aktuel værdi
+Nørregade 32H7171 Uldum,ldum,275.000,11-08-1995,Alm. Salg,3.437,3,Rækkehus,80,1983,,Aktuel værdi
+Søndergade 237171 Uldum,ldum,310.000,05-07-1995,Alm. Salg,1.178,10,Villa,263,1908,,Aktuel værdi
+Hvilehøjparken 217171 Uldum,ldum,95.800,06-06-1995,Alm. Salg,-,7,Villa,190,1996,,Aktuel værdi
+Sechersvej 47171 Uldum,ldum,370.000,28-05-1995,Alm. Salg,-,5,Villa,123,1877,,Aktuel værdi
+Bøgballevej 1287171 Uldum,ldum,300.000,22-05-1995,Alm. Salg,2.142,6,Villa,140,1900,,Aktuel værdi
+Nørregade 187171 Uldum,ldum,413.000,01-05-1995,Alm. Salg,-,5,Villa,195,1900,,Aktuel værdi
+Ribevej 17171 Uldum,ldum,549.473,01-05-1995,Andet,3.290,5,Stuehus,167,1900,,
+Skrædderbakken 57171 Uldum,ldum,255.000,22-02-1995,Alm. Salg,-,7,Villa,209,1900,,Aktuel værdi
+Kalhavevej 667171 Uldum,ldum,374.000,02-02-1995,Alm. Salg,-,7,Villa,151,1912,,Aktuel værdi
+Kastanievej 37171 Uldum,ldum,800.000,25-08-1994,Alm. Salg,4.444,8,Villa,180,1824,,Aktuel værdi
+Nørregade 297171 Uldum,ldum,325.000,06-07-1994,Alm. Salg,2.642,3,Villa,123,1890,,Aktuel værdi
+Industrivej 17171 Uldum,ldum,125.000,04-07-1994,Alm. Salg,919,4,Villa,136,2006,,Aktuel værdi
+Langagervej 47171 Uldum,ldum,4.751.000,30-06-1994,Alm. Salg,16.907,6,Stuehus,281,1900,,
+Bøgballevej 1167171 Uldum,ldum,400.000,09-05-1994,Fam. Salg,2.162,5,Stuehus,185,1908,,
+Industrivej 327171 Uldum,ldum,585.000,09-05-1994,Alm. Salg,-,5,Villa,185,1987,,Aktuel værdi
+Skanderborgvej 437171 Uldum,ldum,325.000,23-03-1994,Alm. Salg,1.805,6,Villa,180,1916,,Aktuel værdi
+Hesselballevej 87171 Uldum,ldum,610.000,05-03-1994,Alm. Salg,3.546,6,Villa,172,1966,,Aktuel værdi
+Rosenvænget 57171 Uldum,ldum,610.000,18-10-1993,Alm. Salg,-,5,Villa,210,1979,,Aktuel værdi
+Sechersvej 27171 Uldum,ldum,435.000,27-08-1993,Alm. Salg,3.246,5,Villa,134,1897,,Aktuel værdi
+Kalhavevej 607171 Uldum,ldum,540.000,16-05-1993,Alm. Salg,4.218,4,Villa,128,1975,,Aktuel værdi
+Kirketoften 77171 Uldum,ldum,380.000,12-05-1993,Fam. Salg,2.900,4,Villa,131,1963,,Aktuel værdi
+Kærvejen 537171 Uldum,ldum,375.000,06-05-1993,Alm. Salg,-,5,Villa,167,1939,,Aktuel værdi
+Åbrinken 417171 Uldum,ldum,732.500,12-04-1993,Alm. Salg,-,5,Villa,183,1976,,Aktuel værdi
+Vesterbovej 47171 Uldum,ldum,666.500,11-01-1993,Alm. Salg,4.628,5,Stuehus,144,1935,,
+Kalbækvej 47171 Uldum,ldum,275.000,08-10-1992,Alm. Salg,2.217,4,Villa,124,1933,,Aktuel værdi
+Åparken 97171 Uldum,ldum,569.000,27-09-1992,Alm. Salg,3.793,4,Villa,150,1972,,Aktuel værdi
+Højskolebakken 87171 Uldum,ldum,238.000,15-09-1992,Alm. Salg,2.183,4,Villa,109,1948,,Aktuel værdi
+Nørregade 597171 Uldum,ldum,290.000,07-07-1992,Alm. Salg,-,7,Villa,176,1918,,Aktuel værdi
+Horsensvej 37171 Uldum,ldum,1.500.000,02-07-1992,Alm. Salg,8.152,5,Stuehus,184,1898,,
+Langagervej 207171 Uldum,ldum,625.000,27-04-1992,Fam. Salg,3.272,7,Villa,191,1900,,Aktuel værdi
+Kalhavevej 597171 Uldum,ldum,200.000,09-03-1992,Alm. Salg,1.886,4,Villa,106,1870,,Aktuel værdi

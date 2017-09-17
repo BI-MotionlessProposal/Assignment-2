@@ -1,0 +1,570 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Kamillevej 97990 Øster Assels,sels,830.000,04-05-2017,Alm. Salg,10.246,4,Sommerhus,81,2006,,Aktuel værdi
+Hesterøroddevej 147990 Øster Assels,sels,75.000,02-05-2017,Fam. Salg,862,3,Villa,87,1936,,Aktuel værdi
+Havnevej 587990 Øster Assels,sels,468.990,12-04-2017,Alm. Salg,4.078,5,Villa,115,1925,,Aktuel værdi
+Gammel Færgevej 1017990 Øster Assels,sels,1.975.000,17-02-2017,Alm. Salg,15.551,5,Sommerhus,127,1920,,Aktuel værdi
+Mælkevejen 77990 Øster Assels,sels,35.000,03-02-2017,Alm. Salg,336,5,Villa,104,1931,,Aktuel værdi
+Mælkevejen 217990 Øster Assels,sels,45.000,01-02-2017,Alm. Salg,269,4,Villa,167,1899,,Aktuel værdi
+Skallevej 217990 Øster Assels,sels,1.560.000,05-01-2017,Alm. Salg,17.528,3,Sommerhus,89,2003,,Aktuel værdi
+Storupgårdvej 97990 Øster Assels,sels,616.723,22-12-2016,Alm. Salg,3.263,3,Stuehus,189,1912,,
+Hesterøroddevej 267990 Øster Assels,sels,225.000,21-12-2016,Alm. Salg,1.923,5,Villa,117,1938,,Aktuel værdi
+Skibdalsvej 287990 Øster Assels,sels,600.000,22-11-2016,Alm. Salg,5.000,4,Sommerhus,120,1900,-8 %,Aktuel værdi
+Åbakken 267990 Øster Assels,sels,4.965.000,17-11-2016,Alm. Salg,15.712,10,Stuehus,316,1886,,
+Vittrupvej 347990 Øster Assels,sels,510.000,29-10-2016,Alm. Salg,5.100,3,Villa,100,1917,,Aktuel værdi
+Idrætsvej 87990 Øster Assels,sels,240.000,21-09-2016,Alm. Salg,1.804,3,Villa,133,1979,-11 %,Aktuel værdi
+Bytoften 47990 Øster Assels,sels,505.000,21-09-2016,Alm. Salg,3.633,4,Villa,139,1977,1 %,Aktuel værdi
+Østerbyen 67990 Øster Assels,sels,470.000,12-09-2016,Alm. Salg,3.884,3,Villa,121,1927,-4 %,Aktuel værdi
+Asselsvej 1377990 Øster Assels,sels,1.250.000,31-08-2016,Alm. Salg,7.267,7,Stuehus,172,1961,,
+Ballesvej 57990 Øster Assels,sels,400.000,15-08-2016,Alm. Salg,7.692,4,Sommerhus,52,1976,-19 %,Aktuel værdi
+Mælkevejen 327990 Øster Assels,sels,125.000,10-08-2016,Alm. Salg,1.190,5,Villa,105,1911,,Aktuel værdi
+Hesterøroddevej 877990 Øster Assels,sels,12.000,21-07-2016,Alm. Salg,100,4,Villa,120,1877,,Aktuel værdi
+Ålekistevej 257990 Øster Assels,sels,550.000,15-07-2016,Fam. Salg,5.670,4,Stuehus,97,1909,,
+Skallevej 197990 Øster Assels,sels,382.500,19-05-2016,Fam. Salg,3.825,3,Sommerhus,100,1969,,Aktuel værdi
+Tagensvej 127990 Øster Assels,sels,500.000,11-05-2016,Alm. Salg,5.434,4,Sommerhus,92,1973,,Aktuel værdi
+Gammel Færgevej 57990 Øster Assels,sels,450.000,20-04-2016,Alm. Salg,2.419,10,Stuehus,186,1938,-35 %,
+Hesterøroddevej 1137990 Øster Assels,sels,1.700.000,12-04-2016,Fam. Salg,7.657,6,Stuehus,222,1938,,
+Kampsvej 97990 Øster Assels,sels,485.000,04-04-2016,Alm. Salg,7.461,4,Sommerhus,65,1973,-11 %,Aktuel værdi
+Perlevej 47990 Øster Assels,sels,800.000,23-03-2016,Alm. Salg,4.145,8,Villa,193,1903,-18 %,Aktuel værdi
+Skibdalsvej 267990 Øster Assels,sels,635.000,28-02-2016,Alm. Salg,4.535,3,Villa,140,1925,-20 %,Aktuel værdi
+Kongehøjvej 717990 Øster Assels,sels,425.000,26-02-2016,Alm. Salg,1.931,8,Villa,220,1984,-11 %,Aktuel værdi
+Stranden 407990 Øster Assels,sels,402.250,22-12-2015,Andet,4.022,3,Villa,100,1877,,Aktuel værdi
+Ballesvej 77990 Øster Assels,sels,250.000,14-12-2015,Fam. Salg,3.333,4,Sommerhus,75,2008,,Aktuel værdi
+Skibdalsvej 347990 Øster Assels,sels,885.000,12-12-2015,Alm. Salg,5.709,5,Villa,155,1877,0 %,Aktuel værdi
+Bygaden 397990 Øster Assels,sels,924.000,11-12-2015,Alm. Salg,7.107,4,Stuehus,130,1924,,
+Skibdalsvej 107990 Øster Assels,sels,1.000.000,30-11-2015,Andet,3.968,8,Villa,252,1877,,Aktuel værdi
+Åshøj 117990 Øster Assels,sels,330.000,18-11-2015,Alm. Salg,2.704,6,Villa,122,1901,-24 %,Aktuel værdi
+Tingstedvej 97990 Øster Assels,sels,575.000,09-11-2015,Alm. Salg,4.600,3,Stuehus,125,1971,,
+Skallevej 567990 Øster Assels,sels,455.000,08-11-2015,Alm. Salg,4.739,5,Sommerhus,96,1980,,Aktuel værdi
+Møllevej 87990 Øster Assels,sels,275.000,30-10-2015,Alm. Salg,1.978,4,Villa,139,1979,-28 %,Aktuel værdi
+Højgårdsvej 57990 Øster Assels,sels,5.100.000,15-10-2015,Alm. Salg,36.428,7,Stuehus,140,1927,,
+Hesterøroddevej 777990 Øster Assels,sels,30.000,08-10-2015,Fam. Salg,250,5,Villa,120,1965,,Aktuel værdi
+N. C. Rasmussens Vej 37990 Øster Assels,sels,25.000,19-09-2015,Alm. Salg,219,4,Villa,114,1935,,Aktuel værdi
+Stadionvej 367990 Øster Assels,sels,508.000,15-09-2015,Fam. Salg,4.031,4,Villa,126,1978,,Aktuel værdi
+Hedestien 87990 Øster Assels,sels,65.000,14-09-2015,Alm. Salg,915,4,Sommerhus,71,2016,,Aktuel værdi
+Søndenom 77990 Øster Assels,sels,80.000,17-08-2015,Alm. Salg,1.666,3,Villa,48,1958,,Aktuel værdi
+Staghøjmøllevej 237990 Øster Assels,sels,100.000,09-08-2015,Alm. Salg,769,6,Detailhandel,130,1902,,Aktuel værdi
+Perlevej 97990 Øster Assels,sels,1.400.000,30-07-2015,Alm. Salg,6.511,6,Villa,215,1844,-11 %,Aktuel værdi
+Gammel Færgevej 1097990 Øster Assels,sels,905.000,10-07-2015,Alm. Salg,12.928,3,Sommerhus,70,1978,-8 %,Aktuel værdi
+Ballesvej 147990 Øster Assels,sels,250.000,28-06-2015,Fam. Salg,3.968,3,Sommerhus,63,1973,,Aktuel værdi
+Søndertoften 77990 Øster Assels,sels,300.000,24-06-2015,Alm. Salg,2.343,4,Villa,128,1988,-43 %,Aktuel værdi
+Ålekistevej 147990 Øster Assels,sels,396.000,14-06-2015,Alm. Salg,3.700,3,Stuehus,107,1925,,
+Mælkevejen 537990 Øster Assels,sels,136.000,01-06-2015,Andet,1.942,4,Villa,70,1939,,Aktuel værdi
+A. Koldings Vej 107990 Øster Assels,sels,597.000,04-05-2015,Alm. Salg,9.328,3,Sommerhus,64,2009,,Aktuel værdi
+Kongehøjvej 157990 Øster Assels,sels,4.330.000,30-04-2015,Alm. Salg,23.155,8,Stuehus,187,1918,,
+Romerdammen 57990 Øster Assels,sels,218.619,20-04-2015,Fam. Salg,2.350,3,Villa,93,1929,-71 %,Aktuel værdi
+Kanalstien 117990 Øster Assels,sels,995.000,09-04-2015,Alm. Salg,1.884,11,Sommerhus,528,2007,-23 %,Aktuel værdi
+Nøråvej 327990 Øster Assels,sels,100.000,26-03-2015,Andet,769,4,Villa,130,1894,,Aktuel værdi
+Årbækmøllevej 107990 Øster Assels,sels,362.500,16-03-2015,Alm. Salg,1.840,3,Villa,197,1975,-27 %,Aktuel værdi
+Hedestien 27990 Øster Assels,sels,290.000,27-02-2015,Fam. Salg,3.580,4,Sommerhus,81,1973,,Aktuel værdi
+Hovedstrædet 337990 Øster Assels,sels,150.000,08-02-2015,Alm. Salg,1.000,4,Villa,150,1900,,Aktuel værdi
+Kanalstien 37990 Øster Assels,sels,595.000,17-12-2014,Andet,14.875,2,Sommerhus,40,2009,,Aktuel værdi
+Hesterøroddevej 297990 Øster Assels,sels,275.000,10-11-2014,Alm. Salg,2.272,4,Villa,121,1974,0 %,Aktuel værdi
+Østerbyen 177990 Øster Assels,sels,837.623,06-11-2014,Alm. Salg,5.202,6,Villa,161,1917,,Aktuel værdi
+Blidstrupvej 107990 Øster Assels,sels,585.000,31-10-2014,Alm. Salg,3.702,4,Villa,158,1923,,Aktuel værdi
+Hesterøroddevej 997990 Øster Assels,sels,689.000,30-09-2014,Andet,3.645,6,Villa,189,1920,21 %,Aktuel værdi
+Møllevej 57990 Øster Assels,sels,425.000,28-09-2014,Alm. Salg,3.400,6,Villa,125,1962,-2 %,Aktuel værdi
+Bytoften 57990 Øster Assels,sels,375.000,13-08-2014,Alm. Salg,2.604,4,Villa,144,1977,-5 %,Aktuel værdi
+Mygdammen 97990 Øster Assels,sels,870.000,08-08-2014,Alm. Salg,10.481,4,Sommerhus,83,1979,-11 %,Aktuel værdi
+Gammel Færgevej 537990 Øster Assels,sels,460.000,24-07-2014,Alm. Salg,1.974,6,Villa,233,1910,-29 %,Aktuel værdi
+Skallevej 107990 Øster Assels,sels,545.000,20-07-2014,Alm. Salg,9.909,3,Sommerhus,55,1972,-5 %,Aktuel værdi
+Blidstrupmark 157990 Øster Assels,sels,409.000,03-07-2014,Alm. Salg,2.900,3,Villa,141,1933,,Aktuel værdi
+Gammel Færgevej 1177990 Øster Assels,sels,605.000,27-06-2014,Alm. Salg,12.100,2,Sommerhus,50,1985,-3 %,Aktuel værdi
+Fjordskovvej 87990 Øster Assels,sels,1.224.500,23-06-2014,Alm. Salg,17.006,3,Sommerhus,72,1974,-4 %,Aktuel værdi
+Kongehøjvej 177990 Øster Assels,sels,550.000,11-06-2014,Alm. Salg,8.333,2,Sommerhus,66,1877,-21 %,Aktuel værdi
+Gammel Færgevej 297990 Øster Assels,sels,53.935,23-04-2014,Auktion,359,5,Villa,150,1962,-86 %,Aktuel værdi
+Bygaden 107990 Øster Assels,sels,95.223,19-02-2014,Alm. Salg,952,4,Villa,100,1944,,Aktuel værdi
+Gammel Færgevej 697990 Øster Assels,sels,362.500,31-01-2014,Andet,4.215,4,Sommerhus,86,1969,,Aktuel værdi
+Rolighedsvej 227990 Øster Assels,sels,310.071,22-01-2014,Auktion,1.396,5,Villa,222,1906,,Aktuel værdi
+B. Nielsens Vej 167990 Øster Assels,sels,200.000,23-12-2013,Andet,3.225,3,Sommerhus,62,2012,,Aktuel værdi
+N. C. Rasmussens Vej 57990 Øster Assels,sels,786.000,16-12-2013,Alm. Salg,4.342,4,Villa,181,1916,,Aktuel værdi
+Idrætsvej 47990 Øster Assels,sels,350.000,13-12-2013,Alm. Salg,2.500,4,Villa,140,1974,0 %,Aktuel værdi
+Hesterøroddevej 407990 Øster Assels,sels,120.000,20-11-2013,Alm. Salg,1.445,3,Villa,83,1964,-40 %,Aktuel værdi
+Kampsvej 27990 Øster Assels,sels,400.000,01-11-2013,Alm. Salg,4.081,3,Sommerhus,98,2014,,Aktuel værdi
+Skallevej 387990 Øster Assels,sels,250.000,23-10-2013,Alm. Salg,1.748,5,Sommerhus,143,2015,,Aktuel værdi
+Hovedstrædet 317990 Øster Assels,sels,310.000,01-10-2013,Alm. Salg,2.348,9,Villa,132,1910,-17 %,Aktuel værdi
+Årbækmøllevej 157990 Øster Assels,sels,1.390.000,17-09-2013,Alm. Salg,10.692,4,Stuehus,130,1922,,
+Hedestien 97990 Øster Assels,sels,560.000,26-08-2013,Alm. Salg,7.671,3,Sommerhus,73,1973,-6 %,Aktuel værdi
+Atletikvej 37990 Øster Assels,sels,100.000,20-08-2013,Alm. Salg,900,3,Villa,111,1987,,Aktuel værdi
+Søndenom 37990 Øster Assels,sels,85.000,01-08-2013,Alm. Salg,639,7,Villa,133,1950,,Aktuel værdi
+A. Koldings Vej 67990 Øster Assels,sels,975.000,01-07-2013,Alm. Salg,11.079,4,Sommerhus,88,2008,,Aktuel værdi
+Kamillevej 127990 Øster Assels,sels,1.050.000,01-07-2013,Alm. Salg,-,3,Sommerhus,101,2003,-19 %,Aktuel værdi
+Søndertoften 97990 Øster Assels,sels,750.000,13-06-2013,Alm. Salg,4.716,5,Villa,159,1981,,Aktuel værdi
+Romerdammen 97990 Øster Assels,sels,665.000,04-06-2013,Alm. Salg,6.650,4,Villa,100,1925,-11 %,Aktuel værdi
+Mælkevejen 367990 Øster Assels,sels,425.000,22-05-2013,Alm. Salg,3.219,5,Villa,132,1948,-12 %,Aktuel værdi
+Åshøj 37990 Øster Assels,sels,525.000,25-04-2013,Alm. Salg,4.101,5,Stuehus,128,1912,,
+Gammel Færgevej 767990 Øster Assels,sels,1.000.000,14-04-2013,Alm. Salg,13.888,4,Sommerhus,72,1969,,Aktuel værdi
+Bygaden 187990 Øster Assels,sels,286.103,25-03-2013,Alm. Salg,2.404,4,Villa,119,1935,-57 %,Aktuel værdi
+Søndertoften 87990 Øster Assels,sels,850.000,04-03-2013,Alm. Salg,6.028,5,Villa,141,1980,8 %,Aktuel værdi
+Idrætsvej 27990 Øster Assels,sels,190.000,28-02-2013,Alm. Salg,1.623,3,Villa,117,1978,,Aktuel værdi
+Hovedstrædet 437990 Øster Assels,sels,330.000,25-02-2013,Alm. Salg,2.357,3,Villa,140,1909,-12 %,Aktuel værdi
+Tingstedvej 177990 Øster Assels,sels,1.500.000,21-12-2012,Andet,5.136,7,Villa,292,2011,,Aktuel værdi
+Skallevej 527990 Øster Assels,sels,600.000,20-12-2012,Fam. Salg,4.285,7,Sommerhus,140,1976,,Aktuel værdi
+Kongehøjvej 417990 Øster Assels,sels,330.000,15-12-2012,Alm. Salg,4.342,3,Villa,76,1952,,Aktuel værdi
+Kærvænget 47990 Øster Assels,sels,480.000,15-12-2012,Alm. Salg,5.052,3,Villa,95,1980,,Aktuel værdi
+Gammel Færgevej 1257990 Øster Assels,sels,625.000,30-11-2012,Alm. Salg,7.183,3,Sommerhus,87,1976,-21 %,Aktuel værdi
+Hesterøroddevej 187990 Øster Assels,sels,125.729,24-10-2012,Auktion,1.186,5,Villa,106,1935,,Aktuel værdi
+Engkærvej 57990 Øster Assels,sels,30.000,15-10-2012,Alm. Salg,250,6,Villa,120,1860,,Aktuel værdi
+Kanalstien 87990 Øster Assels,sels,76.800,09-10-2012,Alm. Salg,760,4,Sommerhus,101,2016,-52 %,Aktuel værdi
+Skallevej 317990 Øster Assels,sels,1.900.000,01-10-2012,Alm. Salg,23.750,3,Sommerhus,80,2002,-17 %,Aktuel værdi
+Ålekistevej 397990 Øster Assels,sels,620.000,25-09-2012,Alm. Salg,6.813,3,Stuehus,91,1837,,
+Gammel Færgevej 377990 Øster Assels,sels,138.000,21-09-2012,Alm. Salg,2.225,2,Villa,62,1903,,Aktuel værdi
+Blinkevej 27990 Øster Assels,sels,95.000,19-09-2012,Auktion,601,4,Villa,158,1978,-85 %,Aktuel værdi
+Havnevej 57990 Øster Assels,sels,200.000,03-09-2012,Alm. Salg,1.904,5,Villa,105,1927,,Aktuel værdi
+A. Koldings Vej 127990 Øster Assels,sels,467.500,17-08-2012,Fam. Salg,4.770,4,Sommerhus,98,2008,,Aktuel værdi
+Havnevej 627990 Øster Assels,sels,220.000,07-08-2012,Alm. Salg,1.913,4,Villa,115,1869,,Aktuel værdi
+Skallevej 257990 Øster Assels,sels,940.000,18-06-2012,Alm. Salg,10.444,5,Sommerhus,90,1968,-1 %,Aktuel værdi
+Stadionvej 327990 Øster Assels,sels,450.000,07-06-2012,Auktion,3.750,4,Villa,120,1974,,Aktuel værdi
+Møllevej 187990 Øster Assels,sels,350.000,06-06-2012,Alm. Salg,3.181,4,Villa,110,1963,-11 %,Aktuel værdi
+Mælkevejen 137990 Øster Assels,sels,150.000,07-05-2012,Alm. Salg,1.363,4,Villa,110,1951,,Aktuel værdi
+Skallevej 547990 Øster Assels,sels,750.000,26-04-2012,Alm. Salg,13.636,4,Sommerhus,55,1976,8 %,Aktuel værdi
+Møllersmindevej 47990 Øster Assels,sels,347.500,29-03-2012,Fam. Salg,2.363,4,Villa,147,1865,,Aktuel værdi
+Vittrupvej 297990 Øster Assels,sels,175.800,18-03-2012,Alm. Salg,1.953,3,Stuehus,90,1890,,
+Kompasvej 67990 Øster Assels,sels,290.000,14-03-2012,Alm. Salg,1.593,6,Villa,182,1980,,Aktuel værdi
+Tagensvej 77990 Øster Assels,sels,400.000,08-03-2012,Auktion,5.000,4,Sommerhus,80,1967,-33 %,Aktuel værdi
+Ålekistevej 237990 Øster Assels,sels,550.000,02-03-2012,Alm. Salg,7.857,2,Stuehus,70,1907,,
+Gammel Færgevej 1137990 Øster Assels,sels,143.750,01-03-2012,Fam. Salg,3.058,3,Sommerhus,47,1969,,Aktuel værdi
+Asselsvej 1297990 Øster Assels,sels,253.377,20-01-2012,Alm. Salg,1.326,7,Stuehus,191,1911,,
+Møllersmindevej 137990 Øster Assels,sels,320.000,29-09-2011,Alm. Salg,4.155,3,Villa,77,1900,-19 %,Aktuel værdi
+Staghøjmøllevej 207990 Øster Assels,sels,310.000,09-09-2011,Alm. Salg,2.672,4,Villa,116,1964,-18 %,Aktuel værdi
+A. Koldings Vej 87990 Øster Assels,sels,1.135.000,02-09-2011,Alm. Salg,11.822,4,Sommerhus,96,2008,-14 %,Aktuel værdi
+Bygaden 147990 Øster Assels,sels,367.129,01-09-2011,Andet,2.760,5,Villa,133,1950,,Aktuel værdi
+Gammel Færgevej 947990 Øster Assels,sels,95.000,15-07-2011,Alm. Salg,1.217,4,Sommerhus,78,1892,,Aktuel værdi
+Peterslundsvej 47990 Øster Assels,sels,29.082.000,06-07-2011,Alm. Salg,116.328,15,Stuehus,250,1925,,
+Engkærvej 127990 Øster Assels,sels,160.000,26-05-2011,Fam. Salg,1.441,4,Villa,111,1968,,Aktuel værdi
+Gammel Færgevej 957990 Øster Assels,sels,162.500,24-05-2011,Alm. Salg,5.078,1,Kolonihavehus,32,1927,-7 %,Aktuel værdi
+Kamillevej 107990 Øster Assels,sels,812.500,23-05-2011,Alm. Salg,12.500,4,Sommerhus,65,1975,-18 %,Aktuel værdi
+B. Nielsens Vej 107990 Øster Assels,sels,560.000,17-05-2011,Alm. Salg,-,4,Sommerhus,70,2008,-10 %,Aktuel værdi
+Ørding Kærvej 27990 Øster Assels,sels,600.000,09-03-2011,Alm. Salg,4.285,5,Villa,140,1938,,Aktuel værdi
+Hesterøroddevej 477990 Øster Assels,sels,700.000,24-02-2011,Alm. Salg,6.422,7,Industri o.l.,109,1982,,Aktuel værdi
+Skibdalsvej 57990 Øster Assels,sels,3.629.769,08-02-2011,Alm. Salg,24.525,8,Stuehus,148,1911,,
+Mælkevejen 187990 Øster Assels,sels,200.000,21-01-2011,Fam. Salg,1.818,4,Villa,110,1907,,Aktuel værdi
+Havnevej 637990 Øster Assels,sels,229.500,07-01-2011,Fam. Salg,3.278,3,Villa,70,1900,,Aktuel værdi
+Kirkestræde 127990 Øster Assels,sels,125.000,13-12-2010,Alm. Salg,1.923,3,Rækkehus,65,1923,,Aktuel værdi
+Staghøjmøllevej 77990 Øster Assels,sels,207.387,10-12-2010,Alm. Salg,2.183,3,Villa,95,2015,,Aktuel værdi
+Hesterøroddevej 447990 Øster Assels,sels,350.000,05-12-2010,Fam. Salg,2.734,4,Villa,128,1990,,Aktuel værdi
+Bolvej 47990 Øster Assels,sels,250.000,23-11-2010,Alm. Salg,1.666,4,Villa,150,1959,,Aktuel værdi
+Gammel Skolevej 17990 Øster Assels,sels,690.000,22-11-2010,Alm. Salg,5.609,4,Villa,123,1901,-5 %,Aktuel værdi
+Hesterøroddevej 117990 Øster Assels,sels,50.000,15-10-2010,Alm. Salg,480,4,Villa,104,1915,,Aktuel værdi
+Blåklokkevej 57990 Øster Assels,sels,747.500,14-10-2010,Alm. Salg,7.475,4,Sommerhus,100,2005,,Aktuel værdi
+Møllevej 167990 Øster Assels,sels,435.000,11-10-2010,Alm. Salg,2.788,6,Villa,156,1969,0 %,Aktuel værdi
+Mælkevejen 497990 Øster Assels,sels,25.000,01-10-2010,Alm. Salg,215,5,Villa,116,1929,-89 %,Aktuel værdi
+Ballesvej 37990 Øster Assels,sels,840.000,18-09-2010,Alm. Salg,11.666,4,Sommerhus,72,1985,-14 %,Aktuel værdi
+Ballesvej 137990 Øster Assels,sels,160.000,16-09-2010,Alm. Salg,2.133,4,Sommerhus,75,2012,0 %,Aktuel værdi
+Kærvænget 37990 Øster Assels,sels,150.000,18-08-2010,Alm. Salg,961,4,Villa,156,1924,,Aktuel værdi
+Grimshøjvej 27990 Øster Assels,sels,160.000,11-08-2010,Auktion,969,5,Villa,165,1843,,Aktuel værdi
+Hedestien 117990 Øster Assels,sels,379.000,04-08-2010,Alm. Salg,9.023,1,Sommerhus,42,2002,,Aktuel værdi
+Havnevej 827990 Øster Assels,sels,2.875.000,03-08-2010,Alm. Salg,21.296,5,Villa,135,1870,-3 %,Aktuel værdi
+B. Nielsens Vej 17990 Øster Assels,sels,700.000,28-06-2010,Alm. Salg,8.333,4,Sommerhus,84,1975,-19 %,Aktuel værdi
+Romerdammen 37990 Øster Assels,sels,1.200.000,20-05-2010,Alm. Salg,12.244,5,Villa,98,1910,-4 %,Aktuel værdi
+Blåklokkevej 117990 Øster Assels,sels,885.000,26-04-2010,Alm. Salg,13.014,3,Sommerhus,68,1979,-1 %,Aktuel værdi
+Kongehøjvej 747990 Øster Assels,sels,2.500.000,09-04-2010,Alm. Salg,11.627,9,Stuehus,215,1900,,
+Skallevej 357990 Øster Assels,sels,600.000,02-02-2010,Alm. Salg,5.357,4,Sommerhus,112,2011,,Aktuel værdi
+Ålekistevej 197990 Øster Assels,sels,190.000,29-01-2010,Alm. Salg,2.345,3,Sommerhus,81,1903,0 %,Aktuel værdi
+Hesterøroddevej 467990 Øster Assels,sels,735.000,07-01-2010,Alm. Salg,5.104,4,Villa,144,1991,-1 %,Aktuel værdi
+Asselsvej 1277990 Øster Assels,sels,6.150.000,30-12-2009,Alm. Salg,30.750,5,Stuehus,200,2006,,
+N. C. Rasmussens Vej 17990 Øster Assels,sels,150.000,18-12-2009,Alm. Salg,1.200,6,Villa,125,1930,-19 %,Aktuel værdi
+Gammel Færgevej 357990 Øster Assels,sels,445.000,10-12-2009,Alm. Salg,2.633,6,Villa,169,1975,-10 %,Aktuel værdi
+Stranden 217990 Øster Assels,sels,300.000,18-11-2009,Andet,1.421,6,Sommerhus,211,1920,,Aktuel værdi
+Lunden 107990 Øster Assels,sels,450.000,13-11-2009,Alm. Salg,5.487,3,Villa,82,1887,-9 %,Aktuel værdi
+Blåklokkevej 27990 Øster Assels,sels,745.000,21-10-2009,Alm. Salg,8.764,4,Sommerhus,85,1979,0 %,Aktuel værdi
+Blidstrupvej 127990 Øster Assels,sels,670.000,30-09-2009,Alm. Salg,4.785,5,Villa,140,1923,-3 %,Aktuel værdi
+Ballesvej 177990 Øster Assels,sels,155.000,23-09-2009,Alm. Salg,2.460,3,Sommerhus,63,2013,-3 %,Aktuel værdi
+Blåklokkevej 47990 Øster Assels,sels,250.000,19-09-2009,Alm. Salg,1.515,5,Sommerhus,165,2010,0 %,Aktuel værdi
+Lanternevej 107990 Øster Assels,sels,591.000,06-08-2009,Fam. Salg,4.075,4,Villa,145,1976,,Aktuel værdi
+Bygaden 97990 Øster Assels,sels,410.000,17-07-2009,Alm. Salg,-,4,Villa,142,1964,-9 %,Aktuel værdi
+Kampsvej 57990 Øster Assels,sels,675.000,10-07-2009,Alm. Salg,9.000,4,Sommerhus,75,1969,-3 %,Aktuel værdi
+Hesterøroddevej 227990 Øster Assels,sels,206.644,06-07-2009,Auktion,2.792,3,Villa,74,1937,,Aktuel værdi
+Asselsvej 1717990 Øster Assels,sels,265.000,25-06-2009,Alm. Salg,1.677,5,Villa,158,1973,-10 %,Aktuel værdi
+Serupsvej 67990 Øster Assels,sels,365.000,11-06-2009,Alm. Salg,3.258,4,Villa,112,1852,-9 %,Aktuel værdi
+Kongehøjvej 657990 Øster Assels,sels,365.400,09-06-2009,Alm. Salg,1.405,5,Villa,260,1917,,Aktuel værdi
+Hesterøroddevej 427990 Øster Assels,sels,230.000,04-06-2009,Alm. Salg,1.337,6,Villa,172,1957,,Aktuel værdi
+Blåklokkevej 67990 Øster Assels,sels,195.000,12-05-2009,Alm. Salg,2.074,4,Sommerhus,94,2015,0 %,Aktuel værdi
+Stadionvej 187990 Øster Assels,sels,425.000,04-05-2009,Alm. Salg,4.292,3,Villa,99,1917,-14 %,Aktuel værdi
+Lunden 147990 Øster Assels,sels,36.000,30-04-2009,Auktion,183,6,Villa,196,1927,,Aktuel værdi
+Kamillevej 57990 Øster Assels,sels,555.000,29-04-2009,Alm. Salg,3.854,4,Sommerhus,144,2016,0 %,Aktuel værdi
+Havnevej 17990 Øster Assels,sels,201.000,22-04-2009,Auktion,1.634,4,Villa,123,1886,,Aktuel værdi
+Blåklokkevej 97990 Øster Assels,sels,200.000,06-04-2009,Alm. Salg,1.941,4,Sommerhus,103,2012,,Aktuel værdi
+Nøråvej 307990 Øster Assels,sels,250.000,31-03-2009,Alm. Salg,2.192,6,Villa,114,1917,,Aktuel værdi
+Stadionvej 147990 Øster Assels,sels,850.000,11-03-2009,Alm. Salg,4.066,7,Villa,209,1922,-3 %,Aktuel værdi
+Årbækmøllevej 177990 Øster Assels,sels,800.000,04-03-2009,Alm. Salg,4.395,6,Stuehus,182,1864,,
+Kongehøjvej 627990 Øster Assels,sels,302.500,25-02-2009,Alm. Salg,2.800,3,Villa,108,1965,,Aktuel værdi
+Asselsvej 1807990 Øster Assels,sels,300.000,23-02-2009,Alm. Salg,3.000,3,Villa,100,1907,,Aktuel værdi
+Havnevej 477990 Øster Assels,sels,1.260.000,16-02-2009,Fam. Salg,7.078,8,Stuehus,178,1881,,
+Årbækmøllevej 187990 Øster Assels,sels,1.250.000,26-01-2009,Alm. Salg,6.250,6,Villa,200,2011,-3 %,Aktuel værdi
+N. C. Rasmussens Vej 47990 Øster Assels,sels,100.000,08-12-2008,Alm. Salg,662,6,Villa,151,1936,-66 %,Aktuel værdi
+Blinkevej 17990 Øster Assels,sels,1.225.000,21-11-2008,Alm. Salg,4.675,6,Villa,262,1934,,Aktuel værdi
+Østerbyen 47990 Øster Assels,sels,2.700.000,10-11-2008,Alm. Salg,16.363,7,Stuehus,165,1913,,
+A. Koldings Vej 27990 Øster Assels,sels,175.000,10-11-2008,Alm. Salg,2.160,3,Sommerhus,81,2009,0 %,Aktuel værdi
+Asselsvej 1247990 Øster Assels,sels,1.040.000,07-11-2008,Alm. Salg,4.388,5,Stuehus,237,2016,-5 %,
+Hovedstrædet 417990 Øster Assels,sels,550.000,08-10-2008,Alm. Salg,4.435,5,Villa,124,1929,-8 %,Aktuel værdi
+Mælkevejen 357990 Øster Assels,sels,300.000,27-09-2008,Alm. Salg,2.439,8,Villa,123,1955,-12 %,Aktuel værdi
+Højgårdsvej 27990 Øster Assels,sels,600.000,18-09-2008,Alm. Salg,4.137,6,Villa,145,1900,,Aktuel værdi
+Mælkevejen 397990 Øster Assels,sels,275.000,10-09-2008,Alm. Salg,2.696,4,Villa,102,1955,-7 %,Aktuel værdi
+Bygaden 127990 Øster Assels,sels,340.000,08-09-2008,Alm. Salg,3.300,6,Villa,103,1951,-14 %,Aktuel værdi
+Skibdalsvej 17990 Øster Assels,sels,391.623,19-08-2008,Andet,3.158,3,Villa,124,1964,,Aktuel værdi
+Hesterøroddevej 507990 Øster Assels,sels,245.000,02-08-2008,Alm. Salg,2.378,3,Villa,103,1949,0 %,Aktuel værdi
+Mælkevejen 347990 Øster Assels,sels,795.000,31-07-2008,Alm. Salg,4.140,9,Villa,192,1936,0 %,Aktuel værdi
+Asselsvej 1497990 Øster Assels,sels,750.000,04-07-2008,Alm. Salg,4.310,8,Villa,174,1903,-6 %,Aktuel værdi
+Skibdalsvej 237990 Øster Assels,sels,1.050.000,20-06-2008,Alm. Salg,-,5,Villa,177,2011,,Aktuel værdi
+Hovedstrædet 197990 Øster Assels,sels,350.000,28-05-2008,Alm. Salg,1.955,6,Villa,179,1903,,Aktuel værdi
+Skolesvinget 107990 Øster Assels,sels,383.705,21-05-2008,Alm. Salg,3.915,4,Villa,98,1959,2 %,Aktuel værdi
+Tagensvej 87990 Øster Assels,sels,885.000,20-05-2008,Alm. Salg,13.615,2,Sommerhus,65,1976,0 %,Aktuel værdi
+B. Nielsens Vej 27990 Øster Assels,sels,865.000,29-04-2008,Alm. Salg,14.416,3,Sommerhus,60,1969,0 %,Aktuel værdi
+Kongehøjvej 67990 Øster Assels,sels,375.000,28-04-2008,Alm. Salg,-,3,Villa,103,1956,,Aktuel værdi
+Havnevej 127990 Øster Assels,sels,1.075.000,02-04-2008,Alm. Salg,4.118,13,Villa,261,1925,,Aktuel værdi
+Møllersmindevej 167990 Øster Assels,sels,655.000,31-03-2008,Alm. Salg,4.746,6,Villa,138,1885,10 %,Aktuel værdi
+Ålekistevej 87990 Øster Assels,sels,3.000.000,28-03-2008,Alm. Salg,17.045,7,Stuehus,176,1900,,
+Kroghsvej 87990 Øster Assels,sels,100.000,31-01-2008,Alm. Salg,884,4,Sommerhus,113,2010,,Aktuel værdi
+Tohøjevej 37990 Øster Assels,sels,925.000,16-01-2008,Alm. Salg,4.021,5,Villa,230,1877,-3 %,Aktuel værdi
+Hovedstrædet 67990 Øster Assels,sels,540.000,04-01-2008,Alm. Salg,2.918,5,Villa,185,1920,-4 %,Aktuel værdi
+Asselsvej 1217990 Øster Assels,sels,450.000,13-12-2007,Alm. Salg,2.368,6,Villa,190,1911,,Aktuel værdi
+Asselsvej 1777990 Øster Assels,sels,131.633,26-11-2007,Alm. Salg,1.462,2,Villa,90,1897,,Aktuel værdi
+Svinget 77990 Øster Assels,sels,850.000,26-11-2007,Alm. Salg,3.269,6,Villa,260,1924,-15 %,Aktuel værdi
+Hesterøroddevej 377990 Øster Assels,sels,475.000,24-11-2007,Alm. Salg,2.896,5,Villa,164,1932,,Aktuel værdi
+Hesterøroddevej 1147990 Øster Assels,sels,750.000,15-11-2007,Alm. Salg,6.355,4,Villa,118,1912,-6 %,Aktuel værdi
+A. Koldings Vej 17990 Øster Assels,sels,1.075.000,09-10-2007,Alm. Salg,14.333,4,Sommerhus,75,2007,0 %,Aktuel værdi
+Røllikevej 87990 Øster Assels,sels,1.100.000,26-09-2007,Alm. Salg,15.068,3,Sommerhus,73,2005,-6 %,Aktuel værdi
+Møllevej 97990 Øster Assels,sels,130.000,05-09-2007,Andet,1.300,3,Villa,100,1932,,Aktuel værdi
+Hedestien 37990 Øster Assels,sels,835.000,31-08-2007,Alm. Salg,12.651,3,Sommerhus,66,1974,,Aktuel værdi
+Ålekistevej 77990 Øster Assels,sels,1.500.000,31-08-2007,Alm. Salg,7.537,5,Stuehus,199,1901,,
+Mygdammen 67990 Øster Assels,sels,2.250.000,28-07-2007,Alm. Salg,8.964,6,Sommerhus,251,1988,0 %,Aktuel værdi
+Sandholmen 87990 Øster Assels,sels,795.000,04-07-2007,Alm. Salg,5.802,5,Stuehus,137,1880,0 %,
+Perlevej 57990 Øster Assels,sels,690.000,20-06-2007,Alm. Salg,9.324,3,Sommerhus,74,1907,,Aktuel værdi
+Hedestien 57990 Øster Assels,sels,765.000,20-06-2007,Alm. Salg,10.337,4,Sommerhus,74,1979,,Aktuel værdi
+Brandbægervej 187990 Øster Assels,sels,760.000,13-06-2007,Alm. Salg,10.857,4,Sommerhus,70,1974,,Aktuel værdi
+Blinkevej 47990 Øster Assels,sels,585.000,06-06-2007,Alm. Salg,5.131,4,Villa,114,1978,-2 %,Aktuel værdi
+Strædet 117990 Øster Assels,sels,160.000,14-05-2007,Alm. Salg,1.269,4,Villa,126,1900,,Aktuel værdi
+Idrætsvej 107990 Øster Assels,sels,485.000,26-03-2007,Alm. Salg,3.702,5,Villa,131,1978,,Aktuel værdi
+Søndertoften 107990 Øster Assels,sels,770.000,08-03-2007,Alm. Salg,6.209,4,Villa,124,1988,,Aktuel værdi
+Gammel Færgevej 527990 Øster Assels,sels,3.650.000,21-02-2007,Alm. Salg,35.784,4,Stuehus,102,1890,,
+Strædet 97990 Øster Assels,sels,170.073,04-02-2007,Alm. Salg,1.560,5,Villa,109,1957,,Aktuel værdi
+B. Nielsens Vej 57990 Øster Assels,sels,185.000,30-12-2006,Alm. Salg,2.312,4,Sommerhus,80,2008,,Aktuel værdi
+Serupsvej 107990 Øster Assels,sels,1.864.717,20-12-2006,Alm. Salg,16.951,4,Stuehus,110,1929,,
+Åbakken 147990 Øster Assels,sels,200.000,25-10-2006,Alm. Salg,1.250,5,Villa,160,1923,,Aktuel værdi
+Tingstedvej 147990 Øster Assels,sels,10.500.000,16-10-2006,Alm. Salg,67.307,7,Stuehus,156,1902,,
+Årbækmøllevej 37990 Øster Assels,sels,160.000,28-09-2006,Alm. Salg,1.951,2,Villa,82,1915,,Aktuel værdi
+Kongehøjvej 597990 Øster Assels,sels,490.000,23-09-2006,Alm. Salg,4.083,4,Villa,120,1935,,Aktuel værdi
+Kamillevej 17990 Øster Assels,sels,1.125.000,19-09-2006,Alm. Salg,16.791,4,Sommerhus,67,1987,,Aktuel værdi
+Ballesvej 247990 Øster Assels,sels,195.000,12-09-2006,Alm. Salg,1.666,4,Sommerhus,117,2007,,Aktuel værdi
+Brandbægervej 207990 Øster Assels,sels,196.000,30-08-2006,Alm. Salg,1.580,6,Sommerhus,124,2008,,Aktuel værdi
+Rolighedsvej 67990 Øster Assels,sels,10.646.000,22-08-2006,Alm. Salg,30.504,8,Stuehus,349,1977,,
+Kanalstien 17990 Øster Assels,sels,780.000,21-08-2006,Alm. Salg,15.600,2,Sommerhus,50,2011,,Aktuel værdi
+Brandbægervej 147990 Øster Assels,sels,695.000,15-08-2006,Alm. Salg,-,4,Sommerhus,70,1974,,Aktuel værdi
+Skibdalsvej 337990 Øster Assels,sels,1.700.000,08-08-2006,Alm. Salg,12.977,4,Stuehus,131,1910,,
+Asselsvej 1697990 Øster Assels,sels,900.000,24-07-2006,Alm. Salg,-,10,Villa,163,1954,,Aktuel værdi
+Stranden 477990 Øster Assels,sels,1.750.000,12-07-2006,Alm. Salg,6.944,5,Sommerhus,252,1902,,Aktuel værdi
+Fjordskovvej 107990 Øster Assels,sels,1.095.000,10-07-2006,Alm. Salg,9.864,6,Sommerhus,111,1970,,Aktuel værdi
+Gammel Færgevej 677990 Øster Assels,sels,240.000,10-07-2006,Alm. Salg,5.581,3,Sommerhus,43,2010,,Aktuel værdi
+Hesterøroddevej 1107990 Øster Assels,sels,16.000.000,05-07-2006,Alm. Salg,61.776,7,Stuehus,259,1981,,
+Hesterøroddevej 1167990 Øster Assels,sels,581.250,01-07-2006,Andet,5.535,4,Sommerhus,105,1910,,Aktuel værdi
+Sandholmen 57990 Øster Assels,sels,382.500,23-06-2006,Alm. Salg,4.250,3,Villa,90,1954,,Aktuel værdi
+Kirkestræde 27990 Øster Assels,sels,120.000,21-06-2006,Alm. Salg,1.395,3,Villa,86,1922,,Aktuel værdi
+Asselsvej 1587990 Øster Assels,sels,585.000,13-06-2006,Alm. Salg,3.323,6,Villa,176,1935,,Aktuel værdi
+Brandbægervej 77990 Øster Assels,sels,767.500,09-06-2006,Alm. Salg,13.008,4,Sommerhus,59,1975,,Aktuel værdi
+B. Nielsens Vej 127990 Øster Assels,sels,175.000,18-05-2006,Alm. Salg,2.108,4,Sommerhus,83,2006,,Aktuel værdi
+Stranden 417990 Øster Assels,sels,830.000,08-05-2006,Alm. Salg,8.058,3,Villa,103,1952,,Aktuel værdi
+Gammel Færgevej 807990 Øster Assels,sels,808.000,05-05-2006,Fam. Salg,7.087,5,Sommerhus,114,1965,,Aktuel værdi
+Hovedstrædet 37990 Øster Assels,sels,430.000,18-04-2006,Alm. Salg,-,4,Villa,141,1959,,Aktuel værdi
+B. Nielsens Vej 67990 Øster Assels,sels,1.050.000,08-04-2006,Alm. Salg,12.650,4,Sommerhus,83,2005,,Aktuel værdi
+Asselsvej 1397990 Øster Assels,sels,750.000,06-04-2006,Alm. Salg,3.947,5,Villa,190,1950,,Aktuel værdi
+Asselsvej 1467990 Øster Assels,sels,3.514.826,28-03-2006,Fam. Salg,-,8,Stuehus,222,1969,,
+Kongehøjvej 207990 Øster Assels,sels,502.200,16-03-2006,Alm. Salg,3.007,6,Villa,167,2015,,Aktuel værdi
+Gammel Færgevej 257990 Øster Assels,sels,340.000,22-02-2006,Alm. Salg,2.098,5,Villa,162,1910,,Aktuel værdi
+Tingstedvej 297990 Øster Assels,sels,650.000,13-02-2006,Alm. Salg,-,5,Villa,127,1970,,Aktuel værdi
+Tingstedvej 87990 Øster Assels,sels,1.475.000,25-01-2006,Alm. Salg,8.625,7,Villa,171,1995,,Aktuel værdi
+Peterslundsvej 77990 Øster Assels,sels,2.400.000,12-01-2006,Alm. Salg,12.500,4,Stuehus,192,1916,,
+Perlevej 67990 Øster Assels,sels,1.100.000,09-01-2006,Alm. Salg,9.565,5,Villa,115,1910,,Aktuel værdi
+Kongehøjvej 387990 Øster Assels,sels,1.035.000,21-12-2005,Alm. Salg,-,9,Villa,407,1974,,Aktuel værdi
+Kongehøjvej 537990 Øster Assels,sels,373.000,20-12-2005,Alm. Salg,2.783,5,Villa,134,1955,,Aktuel værdi
+Gammel Færgevej 517990 Øster Assels,sels,977.500,13-12-2005,Fam. Salg,4.610,4,Stuehus,212,2009,,
+Lervænget 57990 Øster Assels,sels,8.715.579,10-11-2005,Alm. Salg,49.520,6,Stuehus,176,1985,,
+Bygaden 277990 Øster Assels,sels,190.000,09-11-2005,Alm. Salg,2.183,3,Villa,87,1875,,Aktuel værdi
+Hovedstrædet 397990 Øster Assels,sels,325.000,08-11-2005,Alm. Salg,2.777,3,Villa,117,1920,,Aktuel værdi
+Åbakken 187990 Øster Assels,sels,475.000,05-11-2005,Alm. Salg,3.893,6,Villa,122,1948,,Aktuel værdi
+Havnevej 447990 Øster Assels,sels,1.360.000,01-11-2005,Fam. Salg,3.841,10,Villa,354,1965,,Aktuel værdi
+Gammel Færgevej 457990 Øster Assels,sels,660.000,12-10-2005,Alm. Salg,3.905,8,Villa,169,1934,,Aktuel værdi
+Vittrupvej 267990 Øster Assels,sels,557.000,30-09-2005,Alm. Salg,3.763,5,Villa,148,1877,,Aktuel værdi
+Hesterøroddevej 1037990 Øster Assels,sels,100.000,28-09-2005,Alm. Salg,840,4,Villa,119,1904,,Aktuel værdi
+Østerbyen 77990 Øster Assels,sels,1.128.000,28-09-2005,Alm. Salg,4.779,4,Stuehus,236,1938,,
+Hovedstrædet 267990 Øster Assels,sels,1.400.000,26-09-2005,Alm. Salg,7.821,7,Stuehus,179,1940,,
+Lanternevej 47990 Øster Assels,sels,810.000,16-09-2005,Alm. Salg,-,5,Villa,149,1976,,Aktuel værdi
+Hesterøroddevej 47990 Øster Assels,sels,181.596,12-09-2005,Alm. Salg,1.171,8,Villa,155,1917,,Aktuel værdi
+Åbakken 177990 Øster Assels,sels,283.000,12-09-2005,Alm. Salg,2.176,4,Villa,130,1927,,Aktuel værdi
+Hesterøroddevej 1017990 Øster Assels,sels,185.000,06-09-2005,Alm. Salg,2.371,4,Villa,78,1930,,Aktuel værdi
+Møllersmindevej 237990 Øster Assels,sels,360.000,02-09-2005,Fam. Salg,2.790,5,Stuehus,129,1877,,
+Kongehøjvej 117990 Øster Assels,sels,655.000,29-08-2005,Alm. Salg,-,8,Villa,274,1935,,Aktuel værdi
+Søndertoften 337990 Øster Assels,sels,730.000,29-08-2005,Alm. Salg,5.407,5,Villa,135,1988,,Aktuel værdi
+Kampsvej 87990 Øster Assels,sels,390.000,29-08-2005,Alm. Salg,6.964,3,Sommerhus,56,1970,,Aktuel værdi
+Mælkevejen 97990 Øster Assels,sels,202.000,29-08-2005,Alm. Salg,1.422,4,Villa,142,1890,,Aktuel værdi
+Søndertoften 57990 Øster Assels,sels,495.000,25-08-2005,Alm. Salg,4.194,3,Villa,118,1982,,Aktuel værdi
+Østerbyen 117990 Øster Assels,sels,605.000,24-08-2005,Alm. Salg,6.050,3,Sommerhus,100,1947,,Aktuel værdi
+Kampsvej 157990 Øster Assels,sels,120.000,23-08-2005,Alm. Salg,1.600,3,Sommerhus,75,2011,,Aktuel værdi
+Bygaden 37990 Øster Assels,sels,265.000,08-08-2005,Auktion,2.623,4,Villa,101,1927,,Aktuel værdi
+Hedestien 67990 Øster Assels,sels,150.000,15-07-2005,Alm. Salg,568,10,Sommerhus,264,2005,,Aktuel værdi
+Gammel Færgevej 86A7990 Øster Assels,sels,350.000,15-07-2005,Andet,-,4,Sommerhus,108,1962,,Aktuel værdi
+Hovedstrædet 287990 Øster Assels,sels,295.000,14-07-2005,Alm. Salg,-,6,Villa,138,1874,,Aktuel værdi
+Gammel Færgevej 66A7990 Øster Assels,sels,80.000,03-07-2005,Alm. Salg,1.269,3,Sommerhus,63,2009,,Aktuel værdi
+Kroghsvej 77990 Øster Assels,sels,350.000,13-06-2005,Alm. Salg,4.487,3,Sommerhus,78,1998,,Aktuel værdi
+Ballesvej 117990 Øster Assels,sels,100.704,23-05-2005,Alm. Salg,1.291,4,Sommerhus,78,2007,,Aktuel værdi
+Skallevej 177990 Øster Assels,sels,1.217.117,27-04-2005,Alm. Salg,20.629,3,Sommerhus,59,1968,,Aktuel værdi
+Skallevej 147990 Øster Assels,sels,375.000,23-04-2005,Alm. Salg,10.416,2,Sommerhus,36,2004,,Aktuel værdi
+Brandbægervej 107990 Øster Assels,sels,559.000,16-04-2005,Alm. Salg,8.873,4,Sommerhus,63,1978,,Aktuel værdi
+Kampsvej 167990 Øster Assels,sels,425.000,16-04-2005,Alm. Salg,5.312,4,Sommerhus,80,1970,,Aktuel værdi
+Højgårdsvej 47990 Øster Assels,sels,275.000,13-04-2005,Alm. Salg,1.845,4,Villa,149,1905,,Aktuel værdi
+Gammel Færgevej 1167990 Øster Assels,sels,255.000,10-04-2005,Fam. Salg,5.312,3,Sommerhus,48,1969,,Aktuel værdi
+Gammel Færgevej 187990 Øster Assels,sels,325.000,30-03-2005,Alm. Salg,2.579,2,Villa,126,1928,,Aktuel værdi
+Perlevej 37990 Øster Assels,sels,850.000,29-03-2005,Alm. Salg,4.644,5,Stuehus,183,2007,,
+Ballesvej 187990 Øster Assels,sels,347.000,21-03-2005,Alm. Salg,4.337,3,Sommerhus,80,2006,,Aktuel værdi
+Mælkevejen 417990 Øster Assels,sels,225.000,14-03-2005,Fam. Salg,2.343,2,Villa,96,1953,,Aktuel værdi
+Møllebjerget 127990 Øster Assels,sels,200.000,02-02-2005,Alm. Salg,1.652,4,Villa,121,1957,,Aktuel værdi
+Peterslundsvej 67990 Øster Assels,sels,1.350.000,18-01-2005,Alm. Salg,7.541,6,Villa,179,1970,,Aktuel værdi
+Kampsvej 77990 Øster Assels,sels,530.000,29-12-2004,Alm. Salg,8.412,3,Sommerhus,63,1968,,Aktuel værdi
+Møllevej 107990 Øster Assels,sels,100.000,15-12-2004,Alm. Salg,1.052,3,Villa,95,1877,,Aktuel værdi
+Hesterøroddevej 1007990 Øster Assels,sels,260.000,04-11-2004,Andet,1.226,7,Villa,212,1937,,Aktuel værdi
+Kampsvej 247990 Øster Assels,sels,450.000,18-10-2004,Alm. Salg,6.081,4,Sommerhus,74,2004,,Aktuel værdi
+Rolighedsvej 87990 Øster Assels,sels,420.000,30-07-2004,Fam. Salg,-,5,Villa,191,1920,,Aktuel værdi
+Blåklokkevej 17990 Øster Assels,sels,750.000,28-07-2004,Alm. Salg,7.075,4,Sommerhus,106,1974,,Aktuel værdi
+Romerdammen 27990 Øster Assels,sels,550.000,11-07-2004,Alm. Salg,3.021,8,Villa,182,1910,,Aktuel værdi
+Gammel Færgevej 977990 Øster Assels,sels,900.000,13-06-2004,Alm. Salg,7.627,4,Villa,118,1925,,Aktuel værdi
+Kampsvej 47990 Øster Assels,sels,475.000,08-06-2004,Alm. Salg,4.241,5,Sommerhus,112,1970,,Aktuel værdi
+Skallevej 447990 Øster Assels,sels,450.000,04-06-2004,Alm. Salg,8.333,2,Sommerhus,54,1974,,Aktuel værdi
+Brandbægervej 127990 Øster Assels,sels,450.000,31-05-2004,Alm. Salg,5.625,4,Sommerhus,80,1976,,Aktuel værdi
+Skallevej 167990 Øster Assels,sels,490.000,30-04-2004,Alm. Salg,6.712,3,Sommerhus,73,1978,,Aktuel værdi
+Skræppedalsvej 717990 Øster Assels,sels,123.750,27-04-2004,Alm. Salg,-,7,Villa,231,1877,,Aktuel værdi
+Kirkestræde 147990 Øster Assels,sels,90.000,23-03-2004,Alm. Salg,1.250,3,Rækkehus,72,1923,,Aktuel værdi
+Ålekistevej 67990 Øster Assels,sels,845.000,11-02-2004,Alm. Salg,4.378,6,Villa,193,1956,,Aktuel værdi
+Skallevej 427990 Øster Assels,sels,36.500,16-01-2004,Alm. Salg,331,4,Sommerhus,110,2005,,Aktuel værdi
+Gammel Færgevej 277990 Øster Assels,sels,347.500,07-01-2004,Andet,1.919,4,Villa,181,1968,,Aktuel værdi
+Skræppedalsvej 737990 Øster Assels,sels,40.000,19-12-2003,Alm. Salg,291,4,Villa,137,1877,,Aktuel værdi
+Gammel Færgevej 757990 Øster Assels,sels,325.000,03-11-2003,Alm. Salg,6.018,4,Sommerhus,54,1975,,Aktuel værdi
+Kærvænget 67990 Øster Assels,sels,530.000,16-10-2003,Alm. Salg,3.192,5,Villa,166,1980,,Aktuel værdi
+Hesterøroddevej 707990 Øster Assels,sels,240.000,29-09-2003,Alm. Salg,1.600,4,Villa,150,1960,,Aktuel værdi
+Røllikevej 67990 Øster Assels,sels,95.000,23-09-2003,Alm. Salg,950,4,Sommerhus,100,2006,,Aktuel værdi
+Asselsvej 1267990 Øster Assels,sels,580.000,18-09-2003,Alm. Salg,-,3,Stuehus,100,1911,,
+Mælkevejen 107990 Øster Assels,sels,140.000,05-09-2003,Alm. Salg,1.044,6,Villa,134,1910,,Aktuel værdi
+Hesterøroddevej 1087990 Øster Assels,sels,1.239.780,25-08-2003,Alm. Salg,13.050,4,Stuehus,95,1938,,
+Mygdammen 87990 Øster Assels,sels,425.000,03-08-2003,Alm. Salg,6.250,2,Sommerhus,68,1978,,Aktuel værdi
+Kampsvej 207990 Øster Assels,sels,310.000,09-07-2003,Fam. Salg,5.166,4,Sommerhus,60,1972,,Aktuel værdi
+Rolighedsvej 47990 Øster Assels,sels,1.100.000,03-07-2003,Alm. Salg,4.526,7,Stuehus,243,1975,,
+Gammel Færgevej 397990 Øster Assels,sels,107.217,02-07-2003,Andet,749,6,Villa,143,1926,,Aktuel værdi
+Kamillevej 27990 Øster Assels,sels,575.000,27-06-2003,Alm. Salg,6.388,4,Sommerhus,90,1976,,Aktuel værdi
+Ålekistevej 277990 Øster Assels,sels,165.000,24-06-2003,Alm. Salg,1.153,5,Villa,143,1875,,Aktuel værdi
+Hesterøroddevej 1117990 Øster Assels,sels,440.000,20-06-2003,Alm. Salg,3.034,4,Villa,145,1938,,Aktuel værdi
+Tagensvej 67990 Øster Assels,sels,370.000,20-06-2003,Alm. Salg,7.400,3,Sommerhus,50,1982,,Aktuel værdi
+Hesterøroddevej 1077990 Øster Assels,sels,190.000,16-06-2003,Alm. Salg,506,7,Stuehus,375,1898,,
+Kærstien 17990 Øster Assels,sels,462.500,20-05-2003,Alm. Salg,3.022,5,Sommerhus,153,1978,,Aktuel værdi
+Tohøjevej 27990 Øster Assels,sels,222.000,04-04-2003,Alm. Salg,2.176,4,Villa,102,1897,,Aktuel værdi
+Bytoften 37990 Øster Assels,sels,375.000,26-03-2003,Alm. Salg,2.678,7,Villa,140,1878,,Aktuel værdi
+Havnevej 407990 Øster Assels,sels,178.500,21-03-2003,Fam. Salg,1.983,3,Villa,90,1882,,Aktuel værdi
+Bygaden 137990 Øster Assels,sels,300.000,28-02-2003,Fam. Salg,2.040,2,Villa,147,1913,,Aktuel værdi
+Møllersmindevej 207990 Øster Assels,sels,154.000,19-02-2003,Alm. Salg,1.524,4,Stuehus,101,2006,,
+Søndenom 157990 Øster Assels,sels,300.000,13-02-2003,Alm. Salg,1.714,5,Villa,175,1931,,Aktuel værdi
+Staghøjmøllevej 167990 Øster Assels,sels,540.000,17-01-2003,Alm. Salg,2.477,9,Stuehus,218,1938,,
+Gammel Færgevej 74A7990 Øster Assels,sels,350.000,13-12-2002,Alm. Salg,-,2,Sommerhus,48,1967,,Aktuel værdi
+Møllebjerget 97990 Øster Assels,sels,600.000,10-12-2002,Alm. Salg,3.658,6,Stuehus,164,1919,,
+Stranden 107990 Øster Assels,sels,160.000,06-12-2002,Alm. Salg,1.481,3,Villa,108,1877,,Aktuel værdi
+Perlevej 27990 Øster Assels,sels,940.000,03-12-2002,Alm. Salg,4.870,7,Stuehus,193,1960,,
+Brandbægervej 47990 Øster Assels,sels,440.000,28-11-2002,Alm. Salg,7.586,4,Sommerhus,58,1967,,Aktuel værdi
+Hesterøroddevej 597990 Øster Assels,sels,315.000,13-11-2002,Alm. Salg,3.750,3,Villa,84,1909,,Aktuel værdi
+Søndenom 117990 Øster Assels,sels,1.380.000,04-11-2002,Alm. Salg,6.900,6,Stuehus,200,1913,,
+Hesterøroddevej 1097990 Øster Assels,sels,1.060.000,30-09-2002,Alm. Salg,5.300,4,Villa,200,1938,,Aktuel værdi
+Sportsvej 67990 Øster Assels,sels,295.000,24-09-2002,Alm. Salg,2.681,4,Villa,110,1934,,Aktuel værdi
+Nørrekjær 37990 Øster Assels,sels,246.423,23-09-2002,Andet,1.361,4,Villa,181,1948,,Aktuel værdi
+Gammel Færgevej 887990 Øster Assels,sels,750.000,22-09-2002,Fam. Salg,4.629,4,Sommerhus,162,1922,,Aktuel værdi
+Idrætsvej 17990 Øster Assels,sels,280.000,01-09-2002,Fam. Salg,2.372,4,Villa,118,1974,,Aktuel værdi
+Kongehøjvej 607990 Øster Assels,sels,460.000,28-08-2002,Alm. Salg,5.111,3,Villa,90,1968,,Aktuel værdi
+Mælkevejen 517990 Øster Assels,sels,150.000,17-07-2002,Alm. Salg,2.083,3,Villa,72,1965,,Aktuel værdi
+Lervænget 87990 Øster Assels,sels,300.000,13-06-2002,Alm. Salg,1.648,9,Villa,182,1877,,Aktuel værdi
+Mygdammen 27990 Øster Assels,sels,150.000,10-06-2002,Andet,1.875,3,Sommerhus,80,1978,,Aktuel værdi
+Blidstrupvej 87990 Øster Assels,sels,220.000,03-06-2002,Fam. Salg,1.028,4,Stuehus,214,1965,,
+Engkærvej 147990 Øster Assels,sels,374.024,30-05-2002,Alm. Salg,2.253,4,Villa,166,1930,,Aktuel værdi
+Skallevej 407990 Øster Assels,sels,370.000,07-05-2002,Alm. Salg,5.000,3,Sommerhus,74,1972,,Aktuel værdi
+Havnevej 487990 Øster Assels,sels,80.000,01-05-2002,Fam. Salg,-,4,Villa,119,1896,,Aktuel værdi
+Lervænget 107990 Øster Assels,sels,668.445,25-03-2002,Alm. Salg,4.051,5,Villa,165,1924,,Aktuel værdi
+Bytoften 67990 Øster Assels,sels,407.000,15-03-2002,Alm. Salg,3.508,4,Villa,116,1977,,Aktuel værdi
+Birkemosen 67990 Øster Assels,sels,722.000,03-11-2001,Alm. Salg,5.157,2,Villa,140,1920,,Aktuel værdi
+Blåklokkevej 37990 Øster Assels,sels,60.000,25-10-2001,Alm. Salg,-,3,Sommerhus,85,2003,,Aktuel værdi
+Brandbægervej 97990 Øster Assels,sels,435.000,19-10-2001,Alm. Salg,6.904,4,Sommerhus,63,1980,,Aktuel værdi
+Møllevej 147990 Øster Assels,sels,250.000,10-10-2001,Auktion,2.314,3,Villa,108,1971,,Aktuel værdi
+Gammel Færgevej 217990 Øster Assels,sels,225.000,29-09-2001,Alm. Salg,1.347,6,Villa,167,1920,,Aktuel værdi
+Lunden 67990 Øster Assels,sels,1.375.000,25-09-2001,Fam. Salg,8.986,6,Stuehus,153,1980,,
+Kongehøjvej 457990 Øster Assels,sels,315.015,27-08-2001,Andet,2.266,7,Villa,139,1933,,Aktuel værdi
+Ørding Kærvej 57990 Øster Assels,sels,800.000,21-08-2001,Alm. Salg,4.419,5,Stuehus,181,2012,,
+Skallevej 297990 Øster Assels,sels,150.000,30-07-2001,Alm. Salg,1.530,3,Sommerhus,98,2005,,Aktuel værdi
+Gammel Færgevej 847990 Øster Assels,sels,250.000,29-06-2001,Alm. Salg,2.604,3,Sommerhus,96,1961,,Aktuel værdi
+Lervænget 67990 Øster Assels,sels,350.000,30-05-2001,Alm. Salg,3.301,3,Sommerhus,106,1910,,Aktuel værdi
+Hedestien 77990 Øster Assels,sels,80.000,29-05-2001,Alm. Salg,1.454,3,Sommerhus,55,2006,,Aktuel værdi
+Nørrekjær 97990 Øster Assels,sels,1.170.000,28-05-2001,Alm. Salg,6.610,5,Stuehus,177,1929,,
+Skallevej 467990 Øster Assels,sels,429.813,01-05-2001,Alm. Salg,5.116,3,Sommerhus,84,1978,,Aktuel værdi
+Kærstien 37990 Øster Assels,sels,420.000,30-04-2001,Alm. Salg,9.545,1,Sommerhus,44,1982,,Aktuel værdi
+Stadionvej 207990 Øster Assels,sels,170.000,27-04-2001,Alm. Salg,1.111,6,Villa,153,1913,,Aktuel værdi
+Lunden 57990 Øster Assels,sels,850.000,11-04-2001,Alm. Salg,8.854,5,Stuehus,96,1914,,
+Kongehøjvej 897990 Øster Assels,sels,270.000,27-03-2001,Alm. Salg,1.483,8,Villa,182,1931,,Aktuel værdi
+Kongehøjvej 517990 Øster Assels,sels,480.000,13-03-2001,Fam. Salg,3.934,4,Villa,122,1972,,Aktuel værdi
+Hesterøroddevej 967990 Øster Assels,sels,50.000,01-02-2001,Alm. Salg,-,4,Villa,97,1893,,Aktuel værdi
+Gammel Færgevej 367990 Øster Assels,sels,260.000,15-12-2000,Fam. Salg,2.363,3,Villa,110,1930,,Aktuel værdi
+Gammel Færgevej 737990 Øster Assels,sels,238.000,28-11-2000,Fam. Salg,3.051,4,Sommerhus,78,1962,,Aktuel værdi
+Skallevej 337990 Øster Assels,sels,185.000,14-11-2000,Alm. Salg,2.202,4,Sommerhus,84,2002,,Aktuel værdi
+Gammel Færgevej 37990 Øster Assels,sels,270.000,02-11-2000,Alm. Salg,3.698,3,Villa,73,1906,,Aktuel værdi
+Møllersmindevej 87990 Øster Assels,sels,96.805,18-10-2000,Alm. Salg,-,6,Villa,142,1912,,Aktuel værdi
+Kamillevej 47990 Øster Assels,sels,414.592,27-09-2000,Alm. Salg,5.315,5,Sommerhus,78,1975,,Aktuel værdi
+Skibdalsvej 247990 Øster Assels,sels,973.000,06-09-2000,Alm. Salg,5.896,3,Villa,165,1910,,Aktuel værdi
+Vittrupvej 327990 Øster Assels,sels,440.000,17-08-2000,Alm. Salg,-,7,Villa,210,1932,,Aktuel værdi
+Strædet 177990 Øster Assels,sels,295.000,14-07-2000,Alm. Salg,3.641,3,Villa,81,1930,,Aktuel værdi
+Kongehøjvej 397990 Øster Assels,sels,331.267,13-06-2000,Alm. Salg,3.991,3,Villa,83,1932,,Aktuel værdi
+Kroghsvej 67990 Øster Assels,sels,391.606,14-05-2000,Alm. Salg,5.221,3,Sommerhus,75,1978,,Aktuel værdi
+Skallevej 277990 Øster Assels,sels,221.000,28-03-2000,Fam. Salg,3.683,4,Sommerhus,60,1969,,Aktuel værdi
+Blidstrupvej 147990 Øster Assels,sels,523.080,28-01-2000,Alm. Salg,2.710,6,Villa,193,1923,,Aktuel værdi
+Engkærvej 117990 Øster Assels,sels,228.213,21-01-2000,Alm. Salg,1.164,8,Villa,196,1910,,Aktuel værdi
+Gammel Færgevej 867990 Øster Assels,sels,187.000,10-12-1999,Fam. Salg,2.671,5,Sommerhus,70,1962,,Aktuel værdi
+Havnevej 47990 Øster Assels,sels,430.000,03-12-1999,Alm. Salg,1.487,6,Villa,289,1931,,Aktuel værdi
+Søndenom 107990 Øster Assels,sels,785.000,18-11-1999,Fam. Salg,4.289,6,Villa,183,1827,,Aktuel værdi
+Asselsvej 1387990 Øster Assels,sels,425.000,16-11-1999,Alm. Salg,2.796,6,Villa,152,1954,,Aktuel værdi
+Hesterøroddevej 1067990 Øster Assels,sels,113.018,02-11-1999,Alm. Salg,743,6,Villa,152,1929,,Aktuel værdi
+Stranden 307990 Øster Assels,sels,66.400,27-10-1999,Alm. Salg,567,3,Villa,117,1870,,Aktuel værdi
+Åbakken 407990 Øster Assels,sels,2.048.300,23-09-1999,Fam. Salg,13.214,6,Stuehus,155,1900,,
+Stranden 277990 Øster Assels,sels,480.046,17-09-1999,Fam. Salg,1.943,8,Villa,247,1877,,Aktuel værdi
+Bygaden 167990 Øster Assels,sels,925.000,29-08-1999,Alm. Salg,-,8,Villa,223,1968,,Aktuel værdi
+Åbakken 457990 Øster Assels,sels,325.000,23-08-1999,Alm. Salg,2.195,5,Villa,148,1900,,Aktuel værdi
+Brandbægervej 87990 Øster Assels,sels,80.000,18-08-1999,Alm. Salg,952,4,Sommerhus,84,2003,,Aktuel værdi
+Gammel Færgevej 687990 Øster Assels,sels,418.407,14-08-1999,Alm. Salg,5.364,4,Sommerhus,78,1983,,Aktuel værdi
+Brandbægervej 27990 Øster Assels,sels,381.000,30-07-1999,Alm. Salg,4.762,4,Sommerhus,80,1973,,Aktuel værdi
+Skallevej 237990 Øster Assels,sels,175.000,22-07-1999,Alm. Salg,-,6,Sommerhus,144,2000,,Aktuel værdi
+Kroghsvej 27990 Øster Assels,sels,410.000,21-07-1999,Alm. Salg,4.823,4,Sommerhus,85,1973,,Aktuel værdi
+Asselsvej 1677990 Øster Assels,sels,1.150.000,18-06-1999,Fam. Salg,-,4,Stuehus,131,1921,,
+Kroghsvej 47990 Øster Assels,sels,430.000,13-06-1999,Alm. Salg,5.733,4,Sommerhus,75,1976,,Aktuel værdi
+Skallevej 507990 Øster Assels,sels,323.000,10-06-1999,Alm. Salg,3.400,5,Sommerhus,95,1975,,Aktuel værdi
+Asselsvej 1457990 Øster Assels,sels,850.000,09-06-1999,Fam. Salg,5.743,4,Stuehus,148,1890,,
+Perlevej 77990 Øster Assels,sels,715.000,05-06-1999,Alm. Salg,4.798,5,Villa,149,1937,,Aktuel værdi
+Gammel Færgevej 1057990 Øster Assels,sels,610.000,01-06-1999,Alm. Salg,4.236,7,Villa,144,1807,,Aktuel værdi
+Kongehøjvej 217990 Øster Assels,sels,379.353,28-05-1999,Alm. Salg,-,7,Villa,197,1906,,Aktuel værdi
+Asselsvej 1537990 Øster Assels,sels,200.000,21-05-1999,Alm. Salg,1.666,4,Villa,120,1890,,Aktuel værdi
+Skallevej 187990 Øster Assels,sels,430.000,13-05-1999,Alm. Salg,2.925,5,Sommerhus,147,1981,,Aktuel værdi
+Kongehøjvej 697990 Øster Assels,sels,618.558,16-03-1999,Alm. Salg,1.792,9,Villa,345,1875,,Aktuel værdi
+Havnevej 517990 Øster Assels,sels,144.000,01-03-1999,Alm. Salg,-,3,Villa,137,1924,,Aktuel værdi
+Fjordlundsvej 17990 Øster Assels,sels,1.200.000,16-01-1999,Alm. Salg,5.405,6,Stuehus,222,1937,,
+Skallevej 77990 Øster Assels,sels,471.000,19-12-1998,Alm. Salg,6.926,4,Sommerhus,68,1974,,Aktuel værdi
+Gammel Færgevej 667990 Øster Assels,sels,275.000,12-12-1998,Alm. Salg,3.353,4,Sommerhus,82,1973,,Aktuel værdi
+Bygaden 297990 Øster Assels,sels,180.000,06-12-1998,Alm. Salg,2.307,3,Villa,78,1890,,Aktuel værdi
+Sandholmen 67990 Øster Assels,sels,378.500,19-11-1998,Alm. Salg,-,10,Villa,258,1837,,Aktuel værdi
+Asselsvej 1447990 Øster Assels,sels,116.567,13-11-1998,Alm. Salg,-,3,Villa,104,1911,,Aktuel værdi
+Havnevej 787990 Øster Assels,sels,180.000,03-11-1998,Alm. Salg,-,4,Villa,249,2002,,Aktuel værdi
+Hovedstrædet 137990 Øster Assels,sels,161.943,30-10-1998,Alm. Salg,1.557,3,Villa,104,1902,,Aktuel værdi
+Skolesvinget 57990 Øster Assels,sels,175.000,16-10-1998,Alm. Salg,1.483,5,Villa,118,1947,,Aktuel værdi
+Ballesvej 167990 Øster Assels,sels,375.000,10-09-1998,Alm. Salg,4.310,3,Sommerhus,87,1978,,Aktuel værdi
+Ålekistevej 127990 Øster Assels,sels,340.000,31-07-1998,Alm. Salg,2.111,5,Villa,161,1927,,Aktuel værdi
+Gammel Færgevej 727990 Øster Assels,sels,740.000,30-07-1998,Alm. Salg,-,5,Villa,170,1890,,Aktuel værdi
+Blidstrupvej 167990 Øster Assels,sels,220.000,01-07-1998,Alm. Salg,1.654,4,Villa,133,1961,,Aktuel værdi
+Asselsvej 1437990 Øster Assels,sels,404.748,22-06-1998,Alm. Salg,1.638,8,Villa,247,1912,,Aktuel værdi
+Bytoften 77990 Øster Assels,sels,531.356,19-06-1998,Alm. Salg,4.427,4,Villa,120,1978,,Aktuel værdi
+Møllersmindevej 247990 Øster Assels,sels,330.000,17-06-1998,Alm. Salg,3.203,6,Villa,103,1905,,Aktuel værdi
+Stranden 87990 Øster Assels,sels,427.597,09-06-1998,Alm. Salg,4.501,4,Villa,95,1982,,Aktuel værdi
+Asselsvej 1607990 Øster Assels,sels,242.000,01-05-1998,Alm. Salg,2.050,4,Villa,118,1933,,Aktuel værdi
+Asselsvej 1237990 Øster Assels,sels,430.000,01-05-1998,Alm. Salg,3.307,4,Villa,130,1914,,Aktuel værdi
+Hedestien 17990 Øster Assels,sels,355.000,20-04-1998,Alm. Salg,3.659,4,Sommerhus,97,1976,,Aktuel værdi
+Nørrekjær 77990 Øster Assels,sels,408.469,30-03-1998,Alm. Salg,3.521,6,Villa,116,1913,,Aktuel værdi
+Fjordskovvej 57990 Øster Assels,sels,550.000,26-03-1998,Alm. Salg,5.188,4,Sommerhus,106,1932,,Aktuel værdi
+Brandbægervej 37990 Øster Assels,sels,196.000,23-03-1998,Alm. Salg,-,5,Sommerhus,140,1976,,Aktuel værdi
+Møllersmindevej 177990 Øster Assels,sels,724.000,14-03-1998,Alm. Salg,2.298,5,Villa,315,1907,,Aktuel værdi
+Jordmodervej 37990 Øster Assels,sels,327.165,09-03-1998,Alm. Salg,2.152,5,Villa,152,1903,,Aktuel værdi
+Åbakken 28A7990 Øster Assels,sels,100.000,27-02-1998,Alm. Salg,684,4,Villa,146,1936,,Aktuel værdi
+Stranden 447990 Øster Assels,sels,65.000,19-02-1998,Alm. Salg,258,5,Stuehus,251,2008,,
+Møllebjerget 217990 Øster Assels,sels,172.640,05-01-1998,Alm. Salg,2.158,4,Villa,80,1933,,Aktuel værdi
+Gammel Færgevej 997990 Øster Assels,sels,205.000,11-12-1997,Alm. Salg,1.614,3,Villa,127,1936,,Aktuel værdi
+Hesterøroddevej 87990 Øster Assels,sels,235.000,06-11-1997,Alm. Salg,2.554,7,Villa,92,1917,,Aktuel værdi
+Kompasvej 57990 Øster Assels,sels,366.834,17-10-1997,Alm. Salg,4.473,4,Villa,82,1976,,Aktuel værdi
+Stadionvej 167990 Øster Assels,sels,210.000,29-09-1997,Alm. Salg,1.735,4,Villa,121,1920,,Aktuel værdi
+Møllersmindevej 217990 Øster Assels,sels,820.800,19-09-1997,Alm. Salg,-,8,Stuehus,186,1925,,
+Hesterøroddevej 307990 Øster Assels,sels,220.000,16-09-1997,Alm. Salg,2.528,4,Villa,87,1966,,Aktuel værdi
+Stranden 487990 Øster Assels,sels,256.647,11-09-1997,Alm. Salg,1.343,9,Sommerhus,191,1900,,Aktuel værdi
+Vittrupvej 317990 Øster Assels,sels,275.000,08-09-1997,Alm. Salg,2.291,4,Villa,120,1877,,Aktuel værdi
+Hesterøroddevej 757990 Øster Assels,sels,410.500,28-08-1997,Alm. Salg,2.996,5,Villa,137,1965,,Aktuel værdi
+Lunden 47990 Øster Assels,sels,341.000,23-08-1997,Alm. Salg,4.158,4,Villa,82,1912,,Aktuel værdi
+Asselsvej 1517990 Øster Assels,sels,190.000,29-07-1997,Alm. Salg,1.461,3,Villa,130,1890,,Aktuel værdi
+Asselsvej 1577990 Øster Assels,sels,550.000,22-07-1997,Alm. Salg,-,5,Stuehus,165,1910,,
+Kongehøjvej 317990 Øster Assels,sels,385.000,16-07-1997,Alm. Salg,3.290,3,Villa,117,1973,,Aktuel værdi
+Stadionvej 307990 Øster Assels,sels,390.000,16-07-1997,Alm. Salg,3.145,3,Villa,124,1971,,Aktuel værdi
+Romerdammen 117990 Øster Assels,sels,1.350.000,06-07-1997,Andet,4.485,6,Villa,301,1987,,Aktuel værdi
+Blidstrupmark 47990 Øster Assels,sels,2.050.000,02-07-1997,Alm. Salg,-,8,Stuehus,224,1923,,
+Kongehøjvej 587990 Øster Assels,sels,305.000,28-05-1997,Alm. Salg,2.850,3,Villa,107,1963,,Aktuel værdi
+Kamillevej 87990 Øster Assels,sels,375.000,27-05-1997,Alm. Salg,4.213,4,Sommerhus,89,1979,,Aktuel værdi
+Havnevej 227990 Øster Assels,sels,345.000,13-05-1997,Fam. Salg,3.791,3,Villa,91,1959,,Aktuel værdi
+Kamillevej 77990 Øster Assels,sels,58.700,22-04-1997,Alm. Salg,617,3,Sommerhus,95,1998,,Aktuel værdi
+Hovedstrædet 377990 Øster Assels,sels,75.000,07-03-1997,Alm. Salg,714,4,Villa,105,1904,,Aktuel værdi
+Skallevej 37990 Øster Assels,sels,202.000,05-03-1997,Alm. Salg,3.884,3,Sommerhus,52,1976,,Aktuel værdi
+Gammel Færgevej 467990 Øster Assels,sels,400.000,14-02-1997,Fam. Salg,4.395,3,Sommerhus,91,1890,,Aktuel værdi
+Kompasvej 47990 Øster Assels,sels,432.000,15-01-1997,Fam. Salg,3.107,5,Villa,139,1978,,Aktuel værdi
+Gammel Færgevej 317990 Øster Assels,sels,413.000,13-01-1997,Fam. Salg,-,5,Villa,169,1925,,Aktuel værdi
+Skallevej 227990 Øster Assels,sels,295.000,11-12-1996,Alm. Salg,4.338,4,Sommerhus,68,1974,,Aktuel værdi
+Ålekistevej 317990 Øster Assels,sels,310.000,15-11-1996,Fam. Salg,2.440,5,Stuehus,127,1900,,
+Skallevej 367990 Øster Assels,sels,335.000,29-10-1996,Alm. Salg,-,4,Sommerhus,82,1969,,Aktuel værdi
+Skallevej 47990 Øster Assels,sels,250.000,18-10-1996,Alm. Salg,3.125,4,Sommerhus,80,1972,,Aktuel værdi
+Asselsvej 1657990 Øster Assels,sels,525.000,01-10-1996,Alm. Salg,3.500,7,Stuehus,150,1923,,
+Birkemosen 37990 Øster Assels,sels,739.000,23-09-1996,Alm. Salg,2.853,7,Villa,259,1902,,Aktuel værdi
+Hesterøroddevej 957990 Øster Assels,sels,327.000,08-08-1996,Alm. Salg,3.114,4,Villa,105,1898,,Aktuel værdi
+Staghøjmøllevej 87990 Øster Assels,sels,2.975.000,24-06-1996,Fam. Salg,9.182,8,Stuehus,324,1977,,
+Blidstrupmark 177990 Øster Assels,sels,650.000,19-06-1996,Alm. Salg,4.545,5,Villa,143,1967,,Aktuel værdi
+Skibdalsvej 297990 Øster Assels,sels,474.678,06-06-1996,Alm. Salg,-,5,Villa,235,1908,,Aktuel værdi
+Østerbyen 97990 Øster Assels,sels,180.000,31-05-1996,Alm. Salg,2.571,3,Sommerhus,70,1877,,Aktuel værdi
+Blidstrupmark 57990 Øster Assels,sels,240.000,24-04-1996,Alm. Salg,1.472,3,Villa,163,1923,,Aktuel værdi
+Rolighedsvej 117990 Øster Assels,sels,125.495,19-04-1996,Alm. Salg,-,5,Villa,138,1939,,Aktuel værdi
+Kampsvej 67990 Øster Assels,sels,235.000,17-04-1996,Alm. Salg,-,5,Sommerhus,70,1968,,Aktuel værdi
+Søndertoften 37990 Øster Assels,sels,600.000,22-03-1996,Andet,4.379,4,Villa,137,1986,,Aktuel værdi
+Asselsvej 1167990 Øster Assels,sels,660.000,28-12-1995,Fam. Salg,-,9,Stuehus,247,1997,,
+Møllebjerget 177990 Øster Assels,sels,663.000,27-12-1995,Fam. Salg,2.695,9,Stuehus,246,1969,,
+Mælkevejen 147990 Øster Assels,sels,140.000,21-12-1995,Fam. Salg,1.686,3,Villa,83,1905,,Aktuel værdi
+Møllebjerget 187990 Øster Assels,sels,275.000,18-12-1995,Alm. Salg,2.330,6,Villa,118,1877,,Aktuel værdi
+Hesterøroddevej 97990 Øster Assels,sels,42.000,20-11-1995,Alm. Salg,617,3,Villa,68,1919,,Aktuel værdi
+Tingstedvej 257990 Øster Assels,sels,721.000,27-10-1995,Alm. Salg,2.547,9,Stuehus,283,1935,,
+Serupsvej 77990 Øster Assels,sels,1.060.000,26-10-1995,Fam. Salg,6.424,5,Stuehus,165,1880,,
+Blidstrupvej 97990 Øster Assels,sels,370.000,05-10-1995,Alm. Salg,-,6,Villa,176,1923,,Aktuel værdi
+Asselsvej 1227990 Øster Assels,sels,160.000,06-09-1995,Alm. Salg,-,6,Villa,135,1911,,Aktuel værdi
+Tagensvej 147990 Øster Assels,sels,258.873,14-07-1995,Alm. Salg,3.595,3,Sommerhus,72,1971,,Aktuel værdi
+Hovedstrædet 97990 Øster Assels,sels,160.000,30-06-1995,Alm. Salg,1.355,3,Villa,118,1901,,Aktuel værdi
+Tingstedvej 137990 Øster Assels,sels,4.416.760,19-06-1995,Alm. Salg,18.715,9,Stuehus,236,1928,,
+Havnevej 97990 Øster Assels,sels,180.000,04-06-1995,Alm. Salg,1.475,3,Villa,122,1925,,Aktuel værdi
+Serupsvej 87990 Øster Assels,sels,180.000,03-06-1995,Alm. Salg,1.714,4,Villa,105,1871,,Aktuel værdi
+Staghøjmøllevej 57990 Øster Assels,sels,73.582,02-06-1995,Fam. Salg,518,1,Villa,142,1897,,Aktuel værdi
+Kroghsvej 1A7990 Øster Assels,sels,70.000,01-05-1995,Alm. Salg,958,4,Sommerhus,73,1999,,Aktuel værdi
+Blidstrupmark 97990 Øster Assels,sels,260.000,20-04-1995,Alm. Salg,2.765,3,Villa,94,1923,,Aktuel værdi
+Blidstrupmark 137990 Øster Assels,sels,853.000,18-03-1995,Alm. Salg,-,5,Stuehus,201,1923,,
+Birkemosen 57990 Øster Assels,sels,1.600.000,24-02-1995,Fam. Salg,7.407,7,Stuehus,216,1930,,
+Åbakken 257990 Øster Assels,sels,133.263,17-02-1995,Fam. Salg,951,5,Villa,140,1929,,Aktuel værdi
+Mælkevejen 177990 Øster Assels,sels,97.500,20-01-1995,Alm. Salg,847,4,Villa,115,1907,,Aktuel værdi
+Mælkevejen 37990 Øster Assels,sels,30.000,19-01-1995,Alm. Salg,340,3,Villa,88,1920,,Aktuel værdi
+Vittrupvej 387990 Øster Assels,sels,575.000,19-12-1994,Alm. Salg,2.121,6,Villa,271,1924,,Aktuel værdi
+Hesterøroddevej 847990 Øster Assels,sels,180.000,29-11-1994,Alm. Salg,-,5,Villa,192,1900,,Aktuel værdi
+Havnevej 617990 Øster Assels,sels,160.000,29-11-1994,Alm. Salg,2.285,4,Villa,70,1887,,Aktuel værdi
+Mælkevejen 57990 Øster Assels,sels,48.000,18-11-1994,Alm. Salg,623,3,Villa,77,1922,,Aktuel værdi
+Stadionvej 127990 Øster Assels,sels,400.000,01-11-1994,Alm. Salg,2.051,4,Villa,195,1964,,Aktuel værdi
+Hesterøroddevej 207990 Øster Assels,sels,60.000,20-07-1994,Alm. Salg,-,6,Villa,132,1938,,Aktuel værdi
+Brandbægervej 67990 Øster Assels,sels,310.000,29-05-1994,Alm. Salg,3.444,4,Sommerhus,90,1975,,Aktuel værdi
+Havnevej 667990 Øster Assels,sels,500.000,28-04-1994,Alm. Salg,2.551,8,Villa,196,1904,,Aktuel værdi
+Gammel Færgevej 1117990 Øster Assels,sels,327.000,09-04-1994,Alm. Salg,4.671,4,Sommerhus,70,1978,,Aktuel værdi
+Grå Stensvej 77990 Øster Assels,sels,298.000,06-04-1994,Alm. Salg,2.128,5,Villa,140,1927,,Aktuel værdi
+Gammel Færgevej 387990 Øster Assels,sels,294.510,17-03-1994,Fam. Salg,1.989,4,Villa,148,1904,,Aktuel værdi
+Gammel Færgevej 477990 Øster Assels,sels,1.250.000,17-03-1994,Fam. Salg,7.352,6,Stuehus,170,1927,,
+Kroghsvej 57990 Øster Assels,sels,224.000,23-12-1993,Fam. Salg,2.909,4,Sommerhus,77,1979,,Aktuel værdi
+Kongehøjvej 647990 Øster Assels,sels,3.580.297,20-12-1993,Alm. Salg,8.484,8,Stuehus,422,1980,,
+Lunden 127990 Øster Assels,sels,308.000,17-11-1993,Alm. Salg,-,6,Villa,141,1900,,Aktuel værdi
+Havnevej 717990 Øster Assels,sels,510.000,27-10-1993,Fam. Salg,4.250,3,Villa,120,1978,,Aktuel værdi
+Kirkestræde 267990 Øster Assels,sels,35.000,19-10-1993,Alm. Salg,448,4,Villa,78,1900,,Aktuel værdi
+Mælkevejen 117990 Øster Assels,sels,35.000,19-10-1993,Alm. Salg,416,3,Villa,84,1910,,Aktuel værdi
+Kamillevej 117990 Øster Assels,sels,150.000,12-08-1993,Fam. Salg,-,5,Sommerhus,77,1978,,Aktuel værdi
+Brandbægervej 57990 Øster Assels,sels,240.000,10-08-1993,Alm. Salg,3.287,4,Sommerhus,73,1977,,Aktuel værdi
+Kongehøjvej 877990 Øster Assels,sels,205.000,19-07-1993,Alm. Salg,2.356,3,Villa,87,1933,,Aktuel værdi
+Gammel Færgevej 787990 Øster Assels,sels,76.500,11-07-1993,Fam. Salg,588,6,Sommerhus,130,1969,,Aktuel værdi
+Møllebjerget 197990 Øster Assels,sels,385.000,14-06-1993,Alm. Salg,3.155,5,Stuehus,122,1875,,
+Lunden 87990 Øster Assels,sels,395.907,08-06-1993,Alm. Salg,2.163,6,Villa,183,1937,,Aktuel værdi
+Romerdammen 77990 Øster Assels,sels,175.000,27-05-1993,Alm. Salg,1.029,7,Villa,170,1933,,Aktuel værdi
+Åbakken 227990 Øster Assels,sels,60.000,18-05-1993,Alm. Salg,821,3,Villa,73,1928,,Aktuel værdi
+Havnevej 137990 Øster Assels,sels,293.000,08-05-1993,Alm. Salg,2.092,3,Villa,140,1925,,Aktuel værdi
+Havnevej 677990 Øster Assels,sels,245.000,27-04-1993,Alm. Salg,2.289,4,Villa,107,1910,,Aktuel værdi
+Møllebjerget 67990 Øster Assels,sels,210.000,25-03-1993,Alm. Salg,1.296,4,Villa,162,1923,,Aktuel værdi
+Blidstrupmark 127990 Øster Assels,sels,730.000,12-02-1993,Alm. Salg,4.294,5,Stuehus,170,1924,,
+Fjordlundsvej 57990 Øster Assels,sels,509.029,13-01-1993,Alm. Salg,2.129,6,Stuehus,239,1936,,
+Vittrupvej 367990 Øster Assels,sels,500.000,18-11-1992,Alm. Salg,-,7,Villa,226,1914,,Aktuel værdi
+Mælkevejen 167990 Øster Assels,sels,165.000,23-07-1992,Alm. Salg,1.500,4,Villa,110,1929,,Aktuel værdi
+Højgårdsvej 37990 Øster Assels,sels,406.387,02-06-1992,Fam. Salg,-,4,Stuehus,106,1936,,
+Blidstrupmark 147990 Øster Assels,sels,1.650.000,27-05-1992,Alm. Salg,6.496,7,Stuehus,254,1979,,
+Svanekærvej 87990 Øster Assels,sels,368.000,07-02-1992,Alm. Salg,-,7,Villa,121,1932,,Aktuel værdi

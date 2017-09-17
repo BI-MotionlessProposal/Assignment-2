@@ -1,0 +1,573 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Studiestræde 66560 Sommersted,sted,275.000,04-05-2017,Andet,3.089,4,Villa,89,1911,,Aktuel værdi
+Kastvråvej 146560 Sommersted,sted,125.000,18-04-2017,Alm. Salg,657,5,Villa,190,1850,,Aktuel værdi
+Damager 36560 Sommersted,sted,1.225.000,10-04-2017,Alm. Salg,6.843,5,Villa,179,1984,-9 %,Aktuel værdi
+Sølvgade 96560 Sommersted,sted,495.000,21-03-2017,Alm. Salg,3.561,4,Villa,139,1958,0 %,Aktuel værdi
+Storegade 25A6560 Sommersted,sted,1.700.000,06-02-2017,Alm. Salg,16.190,4,Villa,105,1963,,Aktuel værdi
+Ingeniørvej 66560 Sommersted,sted,555.000,01-02-2017,Andet,5.336,8,BygningTilLager,104,1969,,Aktuel værdi
+Mosebjergvej 26560 Sommersted,sted,585.000,27-01-2017,Alm. Salg,5.086,4,Villa,115,1978,-9 %,Aktuel værdi
+Bakkevej 96560 Sommersted,sted,585.000,13-01-2017,Alm. Salg,4.642,3,Villa,126,1975,-16 %,Aktuel værdi
+Sommerstedvej 96560 Sommersted,sted,660.000,12-01-2017,Alm. Salg,5.409,3,Villa,122,1950,-5 %,Aktuel værdi
+Prinsensvej 16560 Sommersted,sted,2.440.000,31-12-2016,Alm. Salg,9.878,7,Stuehus,247,1992,,
+Damager 156560 Sommersted,sted,547.000,22-12-2016,Alm. Salg,3.772,5,Villa,145,1827,-6 %,Aktuel værdi
+Slotsvej 36560 Sommersted,sted,1.450.000,22-12-2016,Alm. Salg,7.004,6,Villa,207,1926,,Aktuel værdi
+Sølvgade 196560 Sommersted,sted,1.290.000,21-12-2016,Alm. Salg,8.012,5,Villa,161,1926,-8 %,Aktuel værdi
+Tovskovvej 756560 Sommersted,sted,400.000,20-12-2016,Alm. Salg,2.649,6,Villa,151,1880,,Aktuel værdi
+Damvej 46560 Sommersted,sted,140.000,15-12-2016,Auktion,804,7,Villa,174,1910,,Aktuel værdi
+Mejerivej 76560 Sommersted,sted,9.325.000,14-12-2016,Alm. Salg,35.321,8,Stuehus,264,1875,,
+Lertevej 146560 Sommersted,sted,240.000,13-12-2016,Alm. Salg,3.692,4,Villa,65,1952,-4 %,Aktuel værdi
+Slotsvej 16560 Sommersted,sted,255.000,25-11-2016,Fam. Salg,2.550,3,Villa,100,1907,,Aktuel værdi
+Storegade 1116560 Sommersted,sted,700.000,21-10-2016,Alm. Salg,5.000,6,Stuehus,140,1890,-10 %,
+Studiestræde 16560 Sommersted,sted,1.000.000,19-10-2016,Fam. Salg,3.144,9,Villa,318,1900,,Aktuel værdi
+Damvej 116560 Sommersted,sted,630.000,04-10-2016,Alm. Salg,6.057,4,Villa,104,1962,-5 %,Aktuel værdi
+Storegade 1006560 Sommersted,sted,85.000,30-09-2016,Alm. Salg,867,3,Villa,98,1953,,Aktuel værdi
+Kastvråvej 16560 Sommersted,sted,1.250.000,15-09-2016,Alm. Salg,6.410,7,Villa,195,1924,-10 %,Aktuel værdi
+Damager 356560 Sommersted,sted,370.000,24-08-2016,Alm. Salg,4.111,4,Villa,90,1948,-17 %,Aktuel værdi
+Tovskovvej 216560 Sommersted,sted,995.000,21-08-2016,Alm. Salg,4.481,7,Villa,222,1877,0 %,Aktuel værdi
+Åbjergvej 106560 Sommersted,sted,344.900,01-08-2016,Auktion,2.694,5,Villa,128,1976,,Aktuel værdi
+Hyldevænget 33C6560 Sommersted,sted,1.050.000,19-07-2016,Alm. Salg,8.750,5,Villa,120,2008,-3 %,Aktuel værdi
+Mølbyvej 76560 Sommersted,sted,1.850.000,18-07-2016,Alm. Salg,8.685,7,Stuehus,213,1926,-2 %,
+Mosebjergvej 66560 Sommersted,sted,988.000,07-07-2016,Alm. Salg,5.916,5,Villa,167,1977,-4 %,Aktuel værdi
+Revsø Mark Vej 16560 Sommersted,sted,1.175.000,28-06-2016,Alm. Salg,10.129,3,Stuehus,116,1830,31 %,
+Bakkevej 206560 Sommersted,sted,400.000,08-06-2016,Alm. Salg,2.739,6,Villa,146,1970,-19 %,Aktuel værdi
+Engtoften 96560 Sommersted,sted,770.000,25-05-2016,Alm. Salg,5.000,5,Villa,154,1974,-3 %,Aktuel værdi
+Tovskovvej 356560 Sommersted,sted,200.000,12-05-2016,Alm. Salg,716,8,Villa,279,1902,-32 %,Aktuel værdi
+Ørstedvej 356560 Sommersted,sted,1.949.000,09-05-2016,Alm. Salg,7.218,8,Stuehus,270,1866,-32 %,
+Tingbjergvej 26560 Sommersted,sted,920.000,04-05-2016,Alm. Salg,5.197,7,Villa,177,1834,3 %,Aktuel værdi
+Sønderløkke 16560 Sommersted,sted,177.065,21-04-2016,Auktion,1.264,5,Villa,140,1880,-55 %,Aktuel værdi
+Rolighedsvej 216560 Sommersted,sted,176.200,04-04-2016,Alm. Salg,1.694,4,Villa,104,1963,,Aktuel værdi
+Storegade 1746560 Sommersted,sted,940.000,27-03-2016,Alm. Salg,5.562,7,Villa,169,1932,-5 %,Aktuel værdi
+Rolighedsvej 156560 Sommersted,sted,630.000,22-03-2016,Alm. Salg,4.012,4,Villa,157,1966,-9 %,Aktuel værdi
+Vadstedvej 26560 Sommersted,sted,100.000,22-02-2016,Auktion,952,3,Villa,105,1900,,Aktuel værdi
+Akmajvej 146560 Sommersted,sted,675.000,16-02-2016,Alm. Salg,4.411,4,Villa,153,1973,-13 %,Aktuel værdi
+Ørstedvej 306560 Sommersted,sted,200.000,05-02-2016,Alm. Salg,1.666,3,Villa,120,1937,-27 %,Aktuel værdi
+Bakkevej 106560 Sommersted,sted,475.000,29-01-2016,Alm. Salg,5.163,3,Villa,92,1966,-4 %,Aktuel værdi
+Åbjergvej 166560 Sommersted,sted,470.000,22-12-2015,Alm. Salg,3.405,5,Villa,138,1973,-10 %,Aktuel værdi
+Storegade 426560 Sommersted,sted,12.400.000,22-12-2015,Andet,47.692,8,Stuehus,260,1921,,
+Ørstedvej 146560 Sommersted,sted,1.402.500,11-12-2015,Fam. Salg,8.765,7,Stuehus,160,1870,,
+Sommerstedvej 166560 Sommersted,sted,200.000,14-11-2015,Alm. Salg,704,8,Stuehus,284,1847,,
+Storegade 1146560 Sommersted,sted,610.000,11-11-2015,Alm. Salg,3.279,10,Villa,186,1917,,Aktuel værdi
+Engvej 106560 Sommersted,sted,428.500,04-10-2015,Andet,3.483,4,Villa,123,1967,,Aktuel værdi
+Lertevej 76560 Sommersted,sted,23.035.000,23-09-2015,Fam. Salg,104.704,5,Stuehus,220,1898,,
+Storegade 1376560 Sommersted,sted,835.000,07-09-2015,Alm. Salg,5.964,5,Villa,140,1963,-7 %,Aktuel værdi
+Kastvråvej 106560 Sommersted,sted,1.043.510,31-08-2015,Alm. Salg,5.115,6,Stuehus,204,1907,,
+Kastvråvej 86560 Sommersted,sted,1.043.510,31-08-2015,Alm. Salg,4.312,9,Villa,242,1900,55 %,Aktuel værdi
+Lertevej 126560 Sommersted,sted,740.500,10-08-2015,Alm. Salg,4.091,5,Stuehus,181,1977,,
+Kastvråvej 156560 Sommersted,sted,2.100.000,29-07-2015,Alm. Salg,6.862,7,Stuehus,306,1850,-8 %,
+Storegade 1026560 Sommersted,sted,800.000,27-07-2015,Fam. Salg,6.779,6,Villa,118,1940,,Aktuel værdi
+Flødebøttevej 76560 Sommersted,sted,2.067.000,24-07-2015,Fam. Salg,9.481,7,Stuehus,218,1904,,
+Mejerivej 36560 Sommersted,sted,94.345,09-07-2015,Auktion,714,4,Villa,132,1900,,Aktuel værdi
+Vadstedvej 96560 Sommersted,sted,240.000,09-07-2015,Alm. Salg,2.242,3,Stuehus,107,1877,-19 %,
+Engvej 116560 Sommersted,sted,1.050.000,09-07-2015,Alm. Salg,5.526,5,Villa,190,1973,,Aktuel værdi
+Sønderbyvej 46560 Sommersted,sted,2.070.000,20-06-2015,Alm. Salg,9.904,5,Stuehus,209,1800,-5 %,
+Storegade 706560 Sommersted,sted,575.000,02-06-2015,Alm. Salg,3.362,6,Villa,171,1944,,Aktuel værdi
+Storegade 986560 Sommersted,sted,350.000,01-06-2015,Auktion,3.043,4,Villa,115,1946,-33 %,Aktuel værdi
+Genvej 26560 Sommersted,sted,230.000,29-05-2015,Alm. Salg,2.395,4,Villa,96,1960,,Aktuel værdi
+Kærgårdvej 56560 Sommersted,sted,1.441.290,22-03-2015,Alm. Salg,6.185,6,Villa,233,1935,-4 %,Aktuel værdi
+Tovskovvej 496560 Sommersted,sted,517.500,05-03-2015,Alm. Salg,5.227,3,Villa,99,1800,-10 %,Aktuel værdi
+Højrup Overskovvej 976560 Sommersted,sted,695.000,04-02-2015,Alm. Salg,4.964,5,Villa,140,1907,-10 %,Aktuel værdi
+Akmajvej 116560 Sommersted,sted,292.500,15-01-2015,Alm. Salg,2.500,4,Villa,117,1968,,Aktuel værdi
+Hyldevænget 26560 Sommersted,sted,795.000,12-01-2015,Auktion,5.845,5,Villa,136,1986,,Aktuel værdi
+Mosevænget 136560 Sommersted,sted,477.500,29-12-2014,Alm. Salg,4.421,3,Villa,108,1957,-4 %,Aktuel værdi
+Revsøgårdvej 86560 Sommersted,sted,3.150.000,18-12-2014,Alm. Salg,6.847,15,Stuehus,460,1778,,
+Revsøgårdvej 136560 Sommersted,sted,1.147.500,18-12-2014,Alm. Salg,5.032,5,Stuehus,228,1934,,
+Tovskovvej 746560 Sommersted,sted,170.000,11-12-2014,Alm. Salg,1.049,8,Villa,162,1890,-31 %,Aktuel værdi
+Åmosevej 76560 Sommersted,sted,600.000,30-11-2014,Alm. Salg,3.389,7,Villa,177,1977,-14 %,Aktuel værdi
+Genvej 86560 Sommersted,sted,291.074,17-11-2014,Alm. Salg,2.772,3,Villa,105,1879,,Aktuel værdi
+Storegade 846560 Sommersted,sted,200.000,06-11-2014,Alm. Salg,3.076,3,Villa,65,1955,0 %,Aktuel værdi
+Vodskovvej 36560 Sommersted,sted,1.750.000,04-11-2014,Alm. Salg,13.565,4,Stuehus,129,1933,,
+Storegade 896560 Sommersted,sted,185.000,21-10-2014,Alm. Salg,1.813,2,Villa,102,1950,,Aktuel værdi
+Ørstedvej 206560 Sommersted,sted,2.531.716,15-10-2014,Andet,13.324,6,Stuehus,190,2006,,
+Stenskærvej 226560 Sommersted,sted,900.000,13-10-2014,Alm. Salg,5.056,5,Villa,178,1953,-10 %,Aktuel værdi
+Skotvej 16560 Sommersted,sted,319.560,12-09-2014,Alm. Salg,1.253,6,Stuehus,255,1844,,
+Revsø Mark Vej 66560 Sommersted,sted,1.300.000,14-08-2014,Alm. Salg,7.647,9,Stuehus,170,1915,2 %,
+Ørstedvej 266560 Sommersted,sted,400.000,18-07-2014,Alm. Salg,3.100,6,Stuehus,129,1950,,
+Studiestræde 46560 Sommersted,sted,386.500,16-06-2014,Andet,1.475,5,Villa,262,1902,,Aktuel værdi
+Akmajvej 36560 Sommersted,sted,410.000,03-06-2014,Andet,2.578,4,Villa,159,1973,,Aktuel værdi
+Tågerupvej 16560 Sommersted,sted,1.200.000,07-04-2014,Alm. Salg,13.483,4,Stuehus,89,1933,,
+Højrupvej 26560 Sommersted,sted,210.000,17-03-2014,Alm. Salg,909,6,Stuehus,231,1860,,
+Storegade 1316560 Sommersted,sted,1.000.000,10-02-2014,Alm. Salg,6.666,7,BygningTilLager,150,1923,,Aktuel værdi
+Industrivej 86560 Sommersted,sted,2.400.000,10-02-2014,Alm. Salg,11.428,5,Villa,210,1969,,Aktuel værdi
+Ørstedvej 246560 Sommersted,sted,2.070.000,28-01-2014,Alm. Salg,11.189,5,Stuehus,185,1951,-8 %,
+Vodskovvej 56560 Sommersted,sted,500.000,13-01-2014,Alm. Salg,5.000,4,Villa,100,1900,,Aktuel værdi
+Vadstedvej 196560 Sommersted,sted,950.000,20-12-2013,Alm. Salg,6.934,4,Villa,137,1963,-12 %,Aktuel værdi
+Ingeniørvej 46560 Sommersted,sted,1.000.000,18-12-2013,Fam. Salg,3.846,6,Villa,260,1968,,Aktuel værdi
+Sølvgade 26560 Sommersted,sted,570.000,11-12-2013,Alm. Salg,3.851,4,Villa,148,1910,-4 %,Aktuel værdi
+Syvagervej 56560 Sommersted,sted,800.000,29-11-2013,Alm. Salg,10.000,4,Stuehus,80,1932,,
+Mosevænget 176560 Sommersted,sted,100.000,26-11-2013,Alm. Salg,1.538,3,Villa,65,1959,,Aktuel værdi
+Ørstedvej 36560 Sommersted,sted,17.281.000,05-11-2013,Alm. Salg,115.206,7,Stuehus,150,1877,,
+Storegade 946560 Sommersted,sted,650.000,01-11-2013,Alm. Salg,5.963,4,Villa,109,1949,-7 %,Aktuel værdi
+Ørstedvej 116560 Sommersted,sted,275.000,07-10-2013,Alm. Salg,1.250,7,Villa,220,1904,-7 %,Aktuel værdi
+Farrisvej 36560 Sommersted,sted,2.290.000,02-10-2013,Alm. Salg,16.357,9,Stuehus,140,1868,,
+Fuglsangs Alle 16560 Sommersted,sted,700.000,22-09-2013,Alm. Salg,7.291,4,Villa,96,1903,,Aktuel værdi
+Bakkevej 166560 Sommersted,sted,600.000,06-09-2013,Alm. Salg,5.555,4,Villa,108,1966,-7 %,Aktuel værdi
+"Tovskovvej 33, 16560 Sommersted",sted,2.500.000,30-08-2013,Alm. Salg,31.250,2,Lejlighed,80,1742,,Aktuel værdi
+Kærvej 106560 Sommersted,sted,1.075.000,16-08-2013,Alm. Salg,8.398,3,Villa,128,1969,-2 %,Aktuel værdi
+Storegade 606560 Sommersted,sted,500.000,06-08-2013,Alm. Salg,4.237,5,Villa,118,1963,-13 %,Aktuel værdi
+Ørstedvej 316560 Sommersted,sted,1.840.000,02-08-2013,Alm. Salg,-,8,Stuehus,260,1935,-16 %,
+Sønderbyvej 16560 Sommersted,sted,3.520.000,04-07-2013,Alm. Salg,25.142,6,Stuehus,140,1800,,
+Flødebøttevej 56560 Sommersted,sted,325.000,04-07-2013,Alm. Salg,1.641,5,Villa,198,1877,-18 %,Aktuel værdi
+Juhls Vej 26560 Sommersted,sted,350.000,01-07-2013,Alm. Salg,1.851,5,Stuehus,189,1870,-39 %,
+Vodskovvej 86560 Sommersted,sted,50.000,27-06-2013,Fam. Salg,1.020,4,Villa,49,1958,,Aktuel værdi
+Vestermarksvej 36560 Sommersted,sted,700.000,11-06-2013,Alm. Salg,3.626,5,Stuehus,193,1960,,
+Storegade 1106560 Sommersted,sted,600.000,04-06-2013,Alm. Salg,3.108,8,Villa,193,1919,-33 %,Aktuel værdi
+Tovskovvej 556560 Sommersted,sted,95.991,13-05-2013,Auktion,644,5,Villa,149,1867,,Aktuel værdi
+Damvej 96560 Sommersted,sted,570.000,17-04-2013,Alm. Salg,4.871,3,Villa,117,1964,-5 %,Aktuel værdi
+Storegade 636560 Sommersted,sted,325.000,10-04-2013,Alm. Salg,2.708,3,Villa,120,1942,-4 %,Aktuel værdi
+Storegade 1946560 Sommersted,sted,233.000,04-04-2013,Auktion,1.849,4,Villa,126,1964,,Aktuel værdi
+Storegade 1886560 Sommersted,sted,550.000,12-03-2013,Alm. Salg,10.185,2,Villa,54,1953,-12 %,Aktuel værdi
+Åvej 7A6560 Sommersted,sted,310.000,04-03-2013,Auktion,2.348,4,Villa,132,1971,,Aktuel værdi
+Akmajvej 26560 Sommersted,sted,408.000,04-03-2013,Auktion,3.138,4,Villa,130,1965,-46 %,Aktuel værdi
+Sønderløkke 26560 Sommersted,sted,825.000,18-02-2013,Alm. Salg,4.388,5,Villa,188,1919,-8 %,Aktuel værdi
+Grønnevang 196560 Sommersted,sted,120.000,28-01-2013,Alm. Salg,571,7,Villa,210,1890,0 %,Aktuel værdi
+Storegade 1066560 Sommersted,sted,177.000,10-01-2013,Auktion,1.041,7,Villa,170,1938,,Aktuel værdi
+Mosebjergvej 226560 Sommersted,sted,940.000,17-12-2012,Alm. Salg,5.402,5,Villa,174,1977,,Aktuel værdi
+Kastvråvej 126560 Sommersted,sted,142.500,07-12-2012,Alm. Salg,1.425,6,Villa,100,1931,,Aktuel værdi
+Sølvgade 66560 Sommersted,sted,5.000.000,31-10-2012,Alm. Salg,30.864,6,Stuehus,162,1909,,
+Ørstedvej 96560 Sommersted,sted,669.542,03-10-2012,Alm. Salg,4.748,3,Stuehus,141,1927,,
+Oksevejen 96560 Sommersted,sted,1.095.000,28-09-2012,Alm. Salg,6.556,6,Villa,167,1931,0 %,Aktuel værdi
+Storegade 806560 Sommersted,sted,500.000,24-09-2012,Alm. Salg,4.807,4,Villa,104,1961,,Aktuel værdi
+Slevadvej 86560 Sommersted,sted,1.200.000,20-09-2012,Alm. Salg,8.823,2,Villa,136,2004,,Aktuel værdi
+Lertevej 156560 Sommersted,sted,1.235.000,28-08-2012,Alm. Salg,11.126,4,Villa,111,1900,-10 %,Aktuel værdi
+Damager 296560 Sommersted,sted,300.000,24-08-2012,Alm. Salg,2.500,4,Villa,120,1956,-13 %,Aktuel værdi
+Ørstedvej 46560 Sommersted,sted,600.000,02-08-2012,Alm. Salg,3.370,3,Villa,178,1912,-14 %,Aktuel værdi
+Skotvej 46560 Sommersted,sted,100.000,08-07-2012,Alm. Salg,1.041,3,Villa,96,1880,,Aktuel værdi
+Storegade 1666560 Sommersted,sted,250.000,27-06-2012,Alm. Salg,4.166,2,Villa,60,1881,,Aktuel værdi
+Storegade 786560 Sommersted,sted,367.500,27-06-2012,Alm. Salg,1.640,7,Villa,224,1939,,Aktuel værdi
+Tovskovvej 256560 Sommersted,sted,125.000,24-06-2012,Alm. Salg,1.225,4,Villa,102,1930,,Aktuel værdi
+Stenskærvej 186560 Sommersted,sted,975.000,15-06-2012,Alm. Salg,5.131,6,Villa,190,1929,-2 %,Aktuel værdi
+Stenvænget 26560 Sommersted,sted,600.000,06-06-2012,Alm. Salg,3.947,4,Villa,152,1974,-11 %,Aktuel værdi
+Perlevej 106560 Sommersted,sted,150.000,09-05-2012,Alm. Salg,1.948,3,Villa,77,1952,-64 %,Aktuel værdi
+Kirkevej 216560 Sommersted,sted,1.100.000,20-04-2012,Alm. Salg,-,6,Villa,145,2000,-8 %,Aktuel værdi
+Tovskovvadvej 16560 Sommersted,sted,900.000,14-04-2012,Alm. Salg,-,8,Stuehus,289,1905,,
+Storegade 916560 Sommersted,sted,124.797,29-03-2012,Auktion,1.075,4,Villa,116,1920,,Aktuel værdi
+Stenskærvej 106560 Sommersted,sted,15.260.000,22-03-2012,Auktion,53.170,12,Stuehus,287,1877,,
+Billundvej 326560 Sommersted,sted,1.400.000,14-03-2012,Alm. Salg,8.974,4,Stuehus,156,1949,,
+Forpagtervej 16560 Sommersted,sted,1.445.000,06-03-2012,Alm. Salg,14.450,5,Stuehus,100,1959,,
+Tovskovvej 116560 Sommersted,sted,825.000,05-03-2012,Alm. Salg,8.168,4,Villa,101,1946,0 %,Aktuel værdi
+Mosevænget 56560 Sommersted,sted,525.000,15-02-2012,Alm. Salg,3.125,4,Villa,168,1925,-12 %,Aktuel værdi
+Vadstedvej 176560 Sommersted,sted,2.000.000,14-02-2012,Alm. Salg,8.888,6,Villa,225,1973,6 %,Aktuel værdi
+Harreshøjvej 26560 Sommersted,sted,880.000,02-02-2012,Auktion,4.656,5,Stuehus,189,1900,,
+Hyldevænget 146560 Sommersted,sted,925.000,18-01-2012,Fam. Salg,5.167,6,Villa,179,2002,,Aktuel værdi
+Vadstedvej 156560 Sommersted,sted,1.215.000,14-12-2011,Alm. Salg,3.996,10,Villa,304,1877,,Aktuel værdi
+Lertevej 56560 Sommersted,sted,820.000,16-11-2011,Alm. Salg,5.430,4,Villa,151,1905,-3 %,Aktuel værdi
+Storegade 1606560 Sommersted,sted,250.000,08-11-2011,Alm. Salg,1.000,8,Villa,250,1902,0 %,Aktuel værdi
+Bjerndrupvej 96560 Sommersted,sted,2.000.000,04-10-2011,Alm. Salg,9.756,8,Stuehus,205,1939,-33 %,
+Engvej 46560 Sommersted,sted,820.000,30-09-2011,Alm. Salg,5.616,5,Villa,146,1961,-11 %,Aktuel værdi
+Sønderløkke 36560 Sommersted,sted,1.850.000,18-09-2011,Alm. Salg,8.486,8,Villa,218,1914,0 %,Aktuel værdi
+Parkvej 126560 Sommersted,sted,600.000,22-07-2011,Alm. Salg,6.122,4,Villa,98,1958,-14 %,Aktuel værdi
+Tovskovvej 516560 Sommersted,sted,660.000,13-07-2011,Alm. Salg,5.000,5,Villa,132,1912,-9 %,Aktuel værdi
+Tovskovvej 766560 Sommersted,sted,900.000,04-07-2011,Alm. Salg,10.000,4,Stuehus,90,1900,-10 %,
+Rolighedsvej 196560 Sommersted,sted,410.000,07-06-2011,Alm. Salg,3.942,4,Villa,104,1965,,Aktuel værdi
+Vestervej 26560 Sommersted,sted,675.000,21-05-2011,Fam. Salg,4.821,6,Stuehus,140,1929,,
+Vadstedvej 126560 Sommersted,sted,1.050.000,29-04-2011,Alm. Salg,8.823,4,Villa,119,1877,-4 %,Aktuel værdi
+Storegade 1706560 Sommersted,sted,500.000,19-04-2011,Alm. Salg,5.154,2,Villa,97,1964,-13 %,Aktuel værdi
+Mosebjergvej 186560 Sommersted,sted,650.000,14-04-2011,Alm. Salg,3.939,4,Villa,165,1977,,Aktuel værdi
+Parkvej 6E6560 Sommersted,sted,515.000,14-04-2011,Alm. Salg,7.357,2,Rækkehus,70,1982,-6 %,Aktuel værdi
+Vodskovvej 66560 Sommersted,sted,1.925.000,11-03-2011,Alm. Salg,8.020,8,Stuehus,240,1934,,
+Ørstedvej 106560 Sommersted,sted,640.000,17-02-2011,Alm. Salg,3.386,8,Villa,189,1912,-8 %,Aktuel værdi
+Perlevej 126560 Sommersted,sted,625.000,16-02-2011,Alm. Salg,5.630,3,Villa,111,1953,-7 %,Aktuel værdi
+Søndre Tværvej 26560 Sommersted,sted,176.000,14-02-2011,Auktion,709,8,Villa,248,1875,,Aktuel værdi
+Hyldevænget 296560 Sommersted,sted,80.085,14-02-2011,Alm. Salg,715,4,Villa,112,2011,,Aktuel værdi
+Storegade 216560 Sommersted,sted,2.445.000,03-02-2011,Alm. Salg,9.780,7,Stuehus,250,1870,0 %,
+Mosevænget 156560 Sommersted,sted,515.000,16-12-2010,Auktion,3.678,5,Villa,140,1959,,Aktuel værdi
+Tovskovvej 276560 Sommersted,sted,563.832,15-12-2010,Alm. Salg,6.335,5,Villa,89,1970,,Aktuel værdi
+Tovskovvej 12A6560 Sommersted,sted,450.000,14-12-2010,Alm. Salg,3.813,4,Villa,118,1976,-9 %,Aktuel værdi
+Storegade 1826560 Sommersted,sted,445.000,10-12-2010,Alm. Salg,4.784,3,Villa,93,1963,-10 %,Aktuel værdi
+Revsøgårdvej 76560 Sommersted,sted,609.690,01-12-2010,Fam. Salg,5.698,4,Villa,107,1870,-54 %,Aktuel værdi
+Kirkevej 56560 Sommersted,sted,770.000,27-11-2010,Alm. Salg,6.416,5,Villa,120,1953,-3 %,Aktuel værdi
+Rolighedsvej 46560 Sommersted,sted,535.000,22-11-2010,Alm. Salg,4.572,4,Villa,117,1961,-10 %,Aktuel værdi
+Slevadvej 16560 Sommersted,sted,950.000,08-11-2010,Alm. Salg,7.916,5,Villa,120,1900,-14 %,Aktuel værdi
+Storegade 646560 Sommersted,sted,575.000,29-10-2010,Alm. Salg,3.685,5,Villa,156,1946,,Aktuel værdi
+Damager 436560 Sommersted,sted,910.000,16-10-2010,Alm. Salg,7.222,3,Villa,126,1976,-7 %,Aktuel værdi
+Hyldevænget 16560 Sommersted,sted,67.540,24-09-2010,Alm. Salg,332,5,Villa,203,2012,,Aktuel værdi
+Grønnevang 36560 Sommersted,sted,539.508,05-07-2010,Fam. Salg,2.051,7,Villa,263,1897,,Aktuel værdi
+Sønderløkke 76560 Sommersted,sted,630.000,04-07-2010,Alm. Salg,6.300,4,Villa,100,1963,-9 %,Aktuel værdi
+Lertevej 116560 Sommersted,sted,450.000,09-06-2010,Alm. Salg,4.166,3,Villa,108,1947,,Aktuel værdi
+Damager 176560 Sommersted,sted,880.000,30-04-2010,Alm. Salg,4.190,7,Villa,210,1926,,Aktuel værdi
+Storegade 96560 Sommersted,sted,6.420.665,17-04-2010,Alm. Salg,26.206,7,Stuehus,245,1872,,
+Engvej 56560 Sommersted,sted,675.000,12-04-2010,Alm. Salg,5.357,4,Villa,126,1969,-3 %,Aktuel værdi
+Tovskovvej 466560 Sommersted,sted,650.000,06-04-2010,Alm. Salg,3.714,7,Villa,175,1964,-17 %,Aktuel værdi
+Storegade 136560 Sommersted,sted,550.000,08-03-2010,Alm. Salg,6.321,4,Villa,87,1940,-4 %,Aktuel værdi
+Hyldevænget 33A6560 Sommersted,sted,1.200.000,24-02-2010,Alm. Salg,10.000,5,Villa,120,2010,,Aktuel værdi
+Mølbyvej 86560 Sommersted,sted,2.000.000,11-02-2010,Alm. Salg,8.888,5,Stuehus,225,1870,-12 %,
+Bakkevej 136560 Sommersted,sted,900.000,21-01-2010,Alm. Salg,6.428,5,Villa,140,1970,-3 %,Aktuel værdi
+Genvej 66560 Sommersted,sted,685.000,15-01-2010,Alm. Salg,5.393,5,Villa,127,1960,-12 %,Aktuel værdi
+Slevadvej 26560 Sommersted,sted,750.000,13-01-2010,Alm. Salg,8.064,3,Villa,93,1864,,Aktuel værdi
+Grønnevang 256560 Sommersted,sted,650.000,28-12-2009,Alm. Salg,5.855,5,Villa,111,1935,-6 %,Aktuel værdi
+Åmosevej 36560 Sommersted,sted,1.275.000,18-12-2009,Alm. Salg,8.173,5,Villa,156,1977,0 %,Aktuel værdi
+Oksevejen 116560 Sommersted,sted,300.000,02-12-2009,Alm. Salg,1.612,6,Villa,186,2011,,Aktuel værdi
+Åbjergvej 96560 Sommersted,sted,830.000,17-11-2009,Alm. Salg,5.187,5,Villa,160,1974,-25 %,Aktuel værdi
+Mølbyvej 26560 Sommersted,sted,450.000,05-11-2009,Alm. Salg,2.662,4,Villa,169,1877,,Aktuel værdi
+Rolighedsvej 56560 Sommersted,sted,970.000,03-11-2009,Alm. Salg,9.700,3,Villa,100,1964,,Aktuel værdi
+Sølvagervej 46560 Sommersted,sted,4.786.830,08-10-2009,Alm. Salg,28.836,5,Stuehus,166,1992,,
+Storegade 1056560 Sommersted,sted,525.000,08-10-2009,Alm. Salg,10.500,11,Ukendt,50,1877,5 %,Aktuel værdi
+Slevadvej 56560 Sommersted,sted,995.000,02-09-2009,Alm. Salg,7.537,4,Villa,132,1932,0 %,Aktuel værdi
+Storegade 1166560 Sommersted,sted,560.000,10-08-2009,Alm. Salg,4.628,3,Villa,121,1906,-6 %,Aktuel værdi
+Engtoften 106560 Sommersted,sted,785.000,06-08-2009,Alm. Salg,6.085,4,Villa,129,1967,-6 %,Aktuel værdi
+Mosebjergvej 116560 Sommersted,sted,1.000.000,31-07-2009,Alm. Salg,7.812,5,Villa,128,1977,,Aktuel værdi
+Hofvej 36560 Sommersted,sted,1.345.000,30-07-2009,Alm. Salg,-,5,Villa,152,1933,-4 %,Aktuel værdi
+Tovskovvej 646560 Sommersted,sted,645.000,07-07-2009,Alm. Salg,5.039,5,Villa,128,1954,,Aktuel værdi
+Storegade 1786560 Sommersted,sted,250.000,05-07-2009,Andet,2.688,4,Villa,93,1956,,Aktuel værdi
+Storegade 124A6560 Sommersted,sted,1.000.000,03-07-2009,Alm. Salg,5.154,4,Villa,194,1962,,Aktuel værdi
+Skotvej 66560 Sommersted,sted,1.975.000,26-06-2009,Alm. Salg,11.617,5,Stuehus,170,1975,-8 %,
+Damager 106560 Sommersted,sted,1.060.000,26-06-2009,Alm. Salg,8.281,3,Villa,128,1969,,Aktuel værdi
+Tovskovvej 126560 Sommersted,sted,700.000,23-06-2009,Alm. Salg,6.034,5,Villa,116,1930,-12 %,Aktuel værdi
+Kastvråvej 16B6560 Sommersted,sted,990.000,22-06-2009,Fam. Salg,7.333,4,Villa,135,1980,,Aktuel værdi
+Sommerstedvej 186560 Sommersted,sted,775.000,16-06-2009,Alm. Salg,6.798,5,Stuehus,114,1850,,
+Akmajvej 96560 Sommersted,sted,550.000,10-06-2009,Andet,4.230,5,Villa,130,1969,,Aktuel værdi
+Tovskovvej 726560 Sommersted,sted,1.150.000,10-06-2009,Fam. Salg,5.778,6,Stuehus,199,1964,,
+Slavgårdsvej 16560 Sommersted,sted,464.096,05-06-2009,Alm. Salg,2.138,8,Stuehus,217,1933,,
+Damager 136560 Sommersted,sted,725.000,29-05-2009,Alm. Salg,6.712,4,Villa,108,1967,-6 %,Aktuel værdi
+Højrup Overskovvej 666560 Sommersted,sted,795.000,15-05-2009,Alm. Salg,6.463,4,Villa,123,1750,0 %,Aktuel værdi
+Engvej 166560 Sommersted,sted,1.105.000,11-03-2009,Alm. Salg,8.840,4,Villa,125,1967,-3 %,Aktuel værdi
+Tovskovvej 186560 Sommersted,sted,100.000,02-03-2009,Alm. Salg,769,3,Stuehus,130,1913,,
+Store Selskærvej 46560 Sommersted,sted,16.280.198,06-02-2009,Fam. Salg,125.232,7,Stuehus,130,1931,,
+Gammel Kastvråvej 26560 Sommersted,sted,410.000,10-11-2008,Alm. Salg,3.796,3,Villa,108,1856,,Aktuel værdi
+Damvej 7D6560 Sommersted,sted,320.155,27-10-2008,Fam. Salg,5.335,2,Rækkehus,60,1980,,Aktuel værdi
+Vestermarksvej 46560 Sommersted,sted,1.351.050,15-10-2008,Alm. Salg,8.188,5,Stuehus,165,1960,,
+Hyldevænget 33D6560 Sommersted,sted,1.497.000,11-10-2008,Alm. Salg,12.270,5,Villa,122,2009,,Aktuel værdi
+Stenskærvej 66560 Sommersted,sted,775.000,12-09-2008,Alm. Salg,4.258,5,Stuehus,182,1929,-3 %,
+Tovskovvej 426560 Sommersted,sted,580.000,03-09-2008,Alm. Salg,9.666,3,Villa,60,1947,-9 %,Aktuel værdi
+Tovskovvej 526560 Sommersted,sted,432.000,17-07-2008,Auktion,3.512,3,Stuehus,123,1897,,
+Ørstedvej 336560 Sommersted,sted,1.215.000,16-07-2008,Alm. Salg,7.941,4,Villa,153,1952,,Aktuel værdi
+Ørstedvej 286560 Sommersted,sted,4.715.000,25-06-2008,Alm. Salg,13.587,11,Stuehus,347,1951,,
+Tovskovvej 396560 Sommersted,sted,995.000,17-06-2008,Alm. Salg,6.546,7,Villa,152,1907,0 %,Aktuel værdi
+Hyldevænget 33B6560 Sommersted,sted,1.535.000,13-06-2008,Alm. Salg,12.791,5,Villa,120,2008,,Aktuel værdi
+Sommerstedvej 246560 Sommersted,sted,3.570.000,26-05-2008,Alm. Salg,18.888,6,Stuehus,189,1933,,
+Grønnevang 156560 Sommersted,sted,250.000,17-05-2008,Alm. Salg,1.016,6,Villa,246,2010,,Aktuel værdi
+Engtoften 26560 Sommersted,sted,1.135.000,07-05-2008,Alm. Salg,8.470,5,Villa,134,1967,0 %,Aktuel værdi
+Storegade 1926560 Sommersted,sted,392.506,06-05-2008,Andet,3.243,4,Villa,121,1967,,Aktuel værdi
+Tovskovvej 156560 Sommersted,sted,2.550.000,22-04-2008,Alm. Salg,15.361,5,Stuehus,166,1925,-9 %,
+Hyldevænget 216560 Sommersted,sted,900.000,16-04-2008,Andet,5.142,4,Villa,175,1999,,Aktuel værdi
+Storegade 746560 Sommersted,sted,873.000,15-04-2008,Fam. Salg,6.984,4,Villa,125,1956,,Aktuel værdi
+Tovskovvej 566560 Sommersted,sted,3.000.000,31-03-2008,Fam. Salg,21.428,6,Stuehus,140,1800,,
+Bakkevej 196560 Sommersted,sted,740.000,18-03-2008,Alm. Salg,5.920,6,Villa,125,1969,-12 %,Aktuel værdi
+Storegade 766560 Sommersted,sted,500.000,17-03-2008,Alm. Salg,3.623,6,Villa,138,1945,-5 %,Aktuel værdi
+Storegade 1226560 Sommersted,sted,510.000,06-03-2008,Alm. Salg,7.183,3,Villa,71,1946,-5 %,Aktuel værdi
+Tovskovvej 686560 Sommersted,sted,580.000,26-02-2008,Alm. Salg,7.341,2,Villa,79,1955,-6 %,Aktuel værdi
+Tovskovvej 406560 Sommersted,sted,630.000,14-02-2008,Alm. Salg,4.200,6,Villa,150,1944,-7 %,Aktuel værdi
+Hyldevænget 126560 Sommersted,sted,1.643.643,22-01-2008,Alm. Salg,13.697,5,Villa,120,2008,,Aktuel værdi
+Sølvgade 156560 Sommersted,sted,1.065.000,22-01-2008,Alm. Salg,11.833,4,Villa,90,1954,0 %,Aktuel værdi
+Syvagervej 26560 Sommersted,sted,2.000.000,09-01-2008,Alm. Salg,11.299,5,Stuehus,177,1930,-5 %,
+Vestervej 76560 Sommersted,sted,580.000,31-12-2007,Alm. Salg,4.603,4,Stuehus,126,1920,,
+Sønderbyvej 2A6560 Sommersted,sted,700.000,21-12-2007,Alm. Salg,-,5,Villa,225,1987,-3 %,Aktuel værdi
+Akmajvej 126560 Sommersted,sted,850.000,13-12-2007,Alm. Salg,7.456,4,Villa,114,1971,0 %,Aktuel værdi
+Tovskovvej 166560 Sommersted,sted,895.000,12-12-2007,Alm. Salg,10.170,2,Villa,88,1960,,Aktuel værdi
+Bakkevej 66560 Sommersted,sted,582.742,10-12-2007,Alm. Salg,3.407,7,Villa,171,1966,,Aktuel værdi
+Grønnevang 26560 Sommersted,sted,1.270.000,08-12-2007,Alm. Salg,7.743,3,Villa,164,1900,-2 %,Aktuel værdi
+Mosebjergvej 46560 Sommersted,sted,1.290.000,04-12-2007,Alm. Salg,6.292,5,Villa,205,1977,-3 %,Aktuel værdi
+Spangåvej 16560 Sommersted,sted,132.640,03-12-2007,Alm. Salg,586,6,Stuehus,226,1936,,
+Storegade 1176560 Sommersted,sted,785.000,22-11-2007,Alm. Salg,4.968,4,Villa,158,1885,0 %,Aktuel værdi
+Stenskærvej 96560 Sommersted,sted,1.450.000,17-11-2007,Alm. Salg,7.323,7,Villa,198,1938,0 %,Aktuel værdi
+Hyldevænget 106560 Sommersted,sted,63.665,15-11-2007,Alm. Salg,383,6,Villa,166,2008,,Aktuel værdi
+Tovskovvej 626560 Sommersted,sted,335.000,07-11-2007,Alm. Salg,2.913,4,Villa,115,1949,,Aktuel værdi
+Hyldevænget 86560 Sommersted,sted,65.110,07-11-2007,Alm. Salg,378,5,Villa,172,2009,,Aktuel værdi
+Sølvagervej 126560 Sommersted,sted,875.000,30-10-2007,Alm. Salg,8.254,3,Stuehus,106,1813,,
+Tågerupvej 46560 Sommersted,sted,1.025.000,23-10-2007,Alm. Salg,7.321,4,Stuehus,140,1911,-7 %,
+Bakkevej 146560 Sommersted,sted,735.000,16-10-2007,Alm. Salg,6.743,4,Villa,109,1969,,Aktuel værdi
+Mosevænget 66560 Sommersted,sted,610.000,29-09-2007,Alm. Salg,5.083,5,Villa,120,1920,-2 %,Aktuel værdi
+Mosebjergvej 246560 Sommersted,sted,1.095.000,28-09-2007,Alm. Salg,7.300,5,Villa,150,1979,0 %,Aktuel værdi
+Rolighedsvej 176560 Sommersted,sted,682.000,23-08-2007,Alm. Salg,6.820,2,Villa,100,1965,-6 %,Aktuel værdi
+Engvej 66560 Sommersted,sted,975.000,18-08-2007,Alm. Salg,6.632,5,Villa,147,1970,,Aktuel værdi
+Engvej 76560 Sommersted,sted,785.000,09-08-2007,Alm. Salg,5.489,6,Villa,143,1972,-7 %,Aktuel værdi
+Kirkevej 236560 Sommersted,sted,2.600.000,08-08-2007,Alm. Salg,14.444,4,Villa,180,1999,,Aktuel værdi
+Engvej 16560 Sommersted,sted,500.000,19-07-2007,Alm. Salg,4.166,4,Villa,120,2015,,Aktuel værdi
+Damager 316560 Sommersted,sted,800.000,12-07-2007,Alm. Salg,6.153,6,Villa,130,1932,,Aktuel værdi
+Stursbølvej 86560 Sommersted,sted,935.000,29-06-2007,Alm. Salg,5.436,5,Villa,172,1890,,Aktuel værdi
+Kirkevej 26560 Sommersted,sted,2.075.000,20-06-2007,Alm. Salg,7.306,9,Villa,284,1935,-17 %,Aktuel værdi
+Storegade 936560 Sommersted,sted,319.590,18-06-2007,Andet,2.102,3,Villa,152,1897,,Aktuel værdi
+Grønnevang 46560 Sommersted,sted,945.000,04-06-2007,Alm. Salg,5.869,6,Villa,161,1922,,Aktuel værdi
+Slavgårdsvej 26560 Sommersted,sted,10.995.676,04-06-2007,Fam. Salg,-,10,Stuehus,456,1875,,
+Storegade 276560 Sommersted,sted,675.000,02-06-2007,Alm. Salg,5.443,4,Villa,124,1895,0 %,Aktuel værdi
+Østergyden 36560 Sommersted,sted,680.000,01-05-2007,Alm. Salg,7.391,3,Villa,92,1963,-3 %,Aktuel værdi
+Storegade 866560 Sommersted,sted,850.000,25-04-2007,Alm. Salg,9.239,4,Villa,92,1960,,Aktuel værdi
+Farrisvej 16560 Sommersted,sted,2.382.386,12-04-2007,Alm. Salg,6.370,9,Stuehus,374,2009,,
+Højrup Overskovvej 916560 Sommersted,sted,1.400.000,29-03-2007,Alm. Salg,6.698,5,Villa,209,1929,-6 %,Aktuel værdi
+Akmajvej 166560 Sommersted,sted,400.740,26-03-2007,Andet,2.990,5,Villa,134,1973,,Aktuel værdi
+Øster Lindetvej 116560 Sommersted,sted,1.650.000,02-03-2007,Alm. Salg,5.851,8,Villa,282,1990,,Aktuel værdi
+Engtoften 86560 Sommersted,sted,535.000,25-01-2007,Alm. Salg,4.863,3,Villa,110,1968,-11 %,Aktuel værdi
+Kærvej 76560 Sommersted,sted,400.000,02-01-2007,Alm. Salg,4.444,4,Villa,90,1969,,Aktuel værdi
+Damvej 126560 Sommersted,sted,840.000,04-12-2006,Alm. Salg,6.666,4,Villa,126,1964,,Aktuel værdi
+Tovskovvej 246560 Sommersted,sted,484.500,12-11-2006,Fam. Salg,3.785,6,Villa,128,1870,,Aktuel værdi
+Syvagervej 116560 Sommersted,sted,390.000,10-11-2006,Alm. Salg,3.070,3,Stuehus,127,1932,,
+Engtoften 56560 Sommersted,sted,795.000,25-10-2006,Alm. Salg,5.598,5,Villa,142,1972,,Aktuel værdi
+Vestermarksvej 16560 Sommersted,sted,640.000,24-10-2006,Alm. Salg,5.000,3,Stuehus,128,1959,,
+Damager 116560 Sommersted,sted,635.000,24-10-2006,Alm. Salg,-,6,Villa,159,1966,,Aktuel værdi
+Hyldevænget 176560 Sommersted,sted,783.256,14-09-2006,Andet,5.634,5,Villa,139,1998,,Aktuel værdi
+Tovskovvej 76560 Sommersted,sted,550.000,28-08-2006,Alm. Salg,4.435,3,Villa,124,1957,,Aktuel værdi
+Rolighedsvej 106560 Sommersted,sted,800.000,25-08-2006,Alm. Salg,7.692,4,Villa,104,1962,,Aktuel værdi
+Åvej 76560 Sommersted,sted,610.000,23-08-2006,Alm. Salg,7.349,3,Villa,83,1946,,Aktuel værdi
+Højrup Overskovvej 526560 Sommersted,sted,1.455.965,02-08-2006,Alm. Salg,7.279,6,Villa,200,1929,,Aktuel værdi
+Åvej 56560 Sommersted,sted,395.000,31-07-2006,Alm. Salg,4.759,3,Villa,83,1950,,Aktuel værdi
+Bakkevej 56560 Sommersted,sted,825.000,22-07-2006,Alm. Salg,6.395,4,Villa,129,1966,,Aktuel værdi
+"Storegade 133, 16560 Sommersted",sted,430.000,20-07-2006,Alm. Salg,2.443,8,Lejlighed,176,1962,,Aktuel værdi
+Grønnevang 86560 Sommersted,sted,690.000,17-07-2006,Alm. Salg,5.476,5,Villa,126,1924,,Aktuel værdi
+Kastvråvej 22A6560 Sommersted,sted,650.000,12-06-2006,Alm. Salg,4.452,5,Villa,146,1974,,Aktuel værdi
+Akmajvej 16560 Sommersted,sted,885.000,29-05-2006,Alm. Salg,4.682,4,Villa,189,1963,,Aktuel værdi
+Storegade 1806560 Sommersted,sted,680.000,26-05-2006,Alm. Salg,8.947,2,Villa,76,1955,,Aktuel værdi
+Tovskovvej 146560 Sommersted,sted,475.000,23-05-2006,Alm. Salg,4.611,3,Villa,103,1962,,Aktuel værdi
+Engtoften 16560 Sommersted,sted,900.000,10-05-2006,Alm. Salg,5.421,6,Villa,166,1967,,Aktuel værdi
+Mosebjergvej 126560 Sommersted,sted,950.000,09-05-2006,Alm. Salg,5.864,6,Villa,162,1977,,Aktuel værdi
+Vestergyden 16560 Sommersted,sted,1.850.000,05-05-2006,Alm. Salg,8.043,7,Villa,230,1840,,Aktuel værdi
+Storegade 1646560 Sommersted,sted,500.000,28-03-2006,Alm. Salg,2.976,6,Villa,168,1877,,Aktuel værdi
+Akmajvej 66560 Sommersted,sted,1.265.000,22-03-2006,Alm. Salg,5.163,6,Villa,245,1972,,Aktuel værdi
+Storegade 676560 Sommersted,sted,755.000,22-03-2006,Alm. Salg,6.398,4,Villa,118,1934,,Aktuel værdi
+Lertevej 46560 Sommersted,sted,325.000,08-03-2006,Alm. Salg,2.539,4,Villa,128,1947,,Aktuel værdi
+Engtoften 126560 Sommersted,sted,970.000,14-02-2006,Alm. Salg,4.470,6,Villa,217,1969,,Aktuel værdi
+Damvej 166560 Sommersted,sted,800.000,10-02-2006,Alm. Salg,5.194,5,Villa,154,1969,,Aktuel værdi
+Sølvgade 86560 Sommersted,sted,595.000,06-02-2006,Alm. Salg,7.000,4,Villa,85,1827,,Aktuel værdi
+Højrup Overskovvej 766560 Sommersted,sted,5.250.773,31-01-2006,Alm. Salg,37.505,4,Stuehus,140,1870,,
+Engtoften 66560 Sommersted,sted,365.000,30-01-2006,Alm. Salg,3.379,4,Villa,108,1968,,Aktuel værdi
+Revsøgårdvej 116560 Sommersted,sted,720.955,26-01-2006,Alm. Salg,-,4,Stuehus,133,1933,,
+Jernbanegade 16560 Sommersted,sted,1.100.000,01-01-2006,Fam. Salg,5.263,13,BygningTilKontor,209,1887,,Aktuel værdi
+Parkvej 6F6560 Sommersted,sted,650.000,28-12-2005,Alm. Salg,7.222,3,Rækkehus,90,1982,,Aktuel værdi
+Storegade 516560 Sommersted,sted,370.000,20-12-2005,Fam. Salg,3.627,3,Villa,102,1897,,Aktuel værdi
+Vadstedvej 46560 Sommersted,sted,1.240.000,14-12-2005,Alm. Salg,6.231,5,Villa,199,1625,,Aktuel værdi
+Vestergyden 26560 Sommersted,sted,11.750.000,20-10-2005,Alm. Salg,73.437,9,Stuehus,160,1911,,
+Kirkevej 76560 Sommersted,sted,1.025.000,08-10-2005,Alm. Salg,11.141,3,Villa,92,2001,,Aktuel værdi
+Mosebjergvej 86560 Sommersted,sted,1.275.000,29-09-2005,Alm. Salg,-,4,Villa,167,1977,,Aktuel værdi
+Storegade 124B6560 Sommersted,sted,905.000,16-08-2005,Alm. Salg,6.198,4,Villa,146,1980,,Aktuel værdi
+Bakkevej 126560 Sommersted,sted,995.000,13-08-2005,Alm. Salg,4.326,7,Villa,230,1969,,Aktuel værdi
+Kærgårdvej 66560 Sommersted,sted,4.535.000,01-08-2005,Alm. Salg,29.640,8,Stuehus,153,1938,,
+Lertevej 36560 Sommersted,sted,80.000,12-07-2005,Alm. Salg,540,3,Villa,148,2010,,Aktuel værdi
+Vadstedvej 166560 Sommersted,sted,475.000,27-06-2005,Alm. Salg,3.625,4,Villa,131,1954,,Aktuel værdi
+Selskærvej 36560 Sommersted,sted,300.000,20-06-2005,Fam. Salg,1.734,5,Villa,173,1960,,Aktuel værdi
+Farrisvej 146560 Sommersted,sted,734.000,09-05-2005,Alm. Salg,-,5,Stuehus,185,1941,,
+Damvej 7E6560 Sommersted,sted,385.000,06-05-2005,Alm. Salg,6.416,2,Rækkehus,60,1980,,Aktuel værdi
+Slavgårdsvej 56560 Sommersted,sted,685.000,27-04-2005,Alm. Salg,6.523,5,Villa,105,1954,,Aktuel værdi
+Syvagervej 36560 Sommersted,sted,557.576,19-04-2005,Alm. Salg,3.399,5,Villa,164,1932,,Aktuel værdi
+Mosebjergvej 96560 Sommersted,sted,835.000,17-04-2005,Alm. Salg,5.060,5,Villa,165,1977,,Aktuel værdi
+Damvej 7A6560 Sommersted,sted,137.500,04-04-2005,Alm. Salg,-,7,Villa,183,1954,,Aktuel værdi
+Tovskovvej 386560 Sommersted,sted,945.000,30-03-2005,Alm. Salg,5.163,6,Villa,183,1933,,Aktuel værdi
+Engtoften 116560 Sommersted,sted,775.000,14-03-2005,Alm. Salg,4.843,5,Villa,160,1974,,Aktuel værdi
+Forpagtervej 36560 Sommersted,sted,2.232.000,14-03-2005,Fam. Salg,-,10,Stuehus,373,1827,,
+Spidsvej 16560 Sommersted,sted,1.140.000,09-03-2005,Alm. Salg,-,8,Stuehus,214,1853,,
+Mølbyvej 46560 Sommersted,sted,785.000,09-03-2005,Alm. Salg,4.937,5,Stuehus,159,1635,,
+Sølvgade 116560 Sommersted,sted,405.000,25-02-2005,Alm. Salg,5.259,4,Villa,77,1955,,Aktuel værdi
+Storegade 556560 Sommersted,sted,635.000,22-02-2005,Alm. Salg,5.162,5,Villa,123,1959,,Aktuel værdi
+Kastvråvej 276560 Sommersted,sted,593.318,01-12-2004,Fam. Salg,4.237,3,Villa,140,1928,,Aktuel værdi
+Sillerupvej 76560 Sommersted,sted,4.900.000,27-10-2004,Alm. Salg,25.520,7,Stuehus,192,1850,,
+Storegade 546560 Sommersted,sted,604.438,13-10-2004,Fam. Salg,3.663,6,Villa,165,1939,,Aktuel værdi
+Talind 66560 Sommersted,sted,220.000,05-10-2004,Alm. Salg,1.746,4,Villa,126,1900,,Aktuel værdi
+Tovskovvej 596560 Sommersted,sted,140.000,04-10-2004,Alm. Salg,786,6,Stuehus,178,2006,,
+Tågerupvej 66560 Sommersted,sted,1.950.000,24-08-2004,Alm. Salg,8.863,9,Stuehus,220,1932,,
+Storegade 796560 Sommersted,sted,825.000,15-06-2004,Alm. Salg,3.437,6,Villa,240,1900,,Aktuel værdi
+Tovskovvej 706560 Sommersted,sted,525.000,26-05-2004,Alm. Salg,4.166,3,Villa,126,1827,,Aktuel værdi
+Engtoften 146560 Sommersted,sted,515.000,25-04-2004,Alm. Salg,4.639,5,Villa,111,1968,,Aktuel værdi
+Storegade 1566560 Sommersted,sted,650.000,06-04-2004,Alm. Salg,3.611,5,Villa,180,1900,,Aktuel værdi
+Ørstedvej 76560 Sommersted,sted,550.000,11-03-2004,Alm. Salg,2.972,8,Villa,185,1880,,Aktuel værdi
+Kastvråvej 66560 Sommersted,sted,7.192.500,01-03-2004,Alm. Salg,31.825,6,Stuehus,226,2004,,
+Engvej 1A6560 Sommersted,sted,775.000,10-02-2004,Alm. Salg,4.100,4,Villa,189,1982,,Aktuel værdi
+Sommerstedvej 226560 Sommersted,sted,590.000,04-02-2004,Alm. Salg,2.892,4,Stuehus,204,2006,,
+Bakkevej 236560 Sommersted,sted,807.500,11-01-2004,Alm. Salg,7.021,5,Villa,115,1968,,Aktuel værdi
+Ørstedvej 176560 Sommersted,sted,195.000,08-01-2004,Alm. Salg,2.867,2,Villa,68,1952,,Aktuel værdi
+Storegade 576560 Sommersted,sted,740.000,07-01-2004,Alm. Salg,-,5,Villa,135,1949,,Aktuel værdi
+Laurids Skaus Vej 26560 Sommersted,sted,700.000,01-11-2003,Alm. Salg,2.592,8,Stuehus,270,1896,,
+Vestergyden 36560 Sommersted,sted,650.000,14-08-2003,Alm. Salg,3.367,5,Villa,193,1877,,Aktuel værdi
+Kærgårdvej 16560 Sommersted,sted,407.880,29-07-2003,Alm. Salg,-,2,Stuehus,100,1903,,
+Tovskovvej 656560 Sommersted,sted,999.311,18-07-2003,Alm. Salg,6.245,5,Stuehus,160,1970,,
+Bjerndrupvej 16560 Sommersted,sted,4.422.000,06-06-2003,Fam. Salg,18.737,10,Stuehus,236,1864,,
+Damvej 56560 Sommersted,sted,200.000,08-05-2003,Alm. Salg,1.063,5,Villa,188,1900,,Aktuel værdi
+Tovskovvej 36560 Sommersted,sted,570.000,03-03-2003,Alm. Salg,4.042,5,Villa,141,1969,,Aktuel værdi
+Bakkevej 256560 Sommersted,sted,775.000,10-01-2003,Alm. Salg,5.961,5,Villa,130,1969,,Aktuel værdi
+Selskærvej 56560 Sommersted,sted,70.116,06-12-2002,Alm. Salg,318,9,Stuehus,220,1862,,
+Damager 86560 Sommersted,sted,585.000,26-11-2002,Alm. Salg,4.119,4,Villa,142,1968,,Aktuel værdi
+Storegade 506560 Sommersted,sted,995.000,23-10-2002,Alm. Salg,5.784,5,Villa,172,1933,,Aktuel værdi
+Engtoften 46560 Sommersted,sted,675.000,16-10-2002,Alm. Salg,4.753,4,Villa,142,1967,,Aktuel værdi
+Tågerupvej 26560 Sommersted,sted,545.000,15-10-2002,Alm. Salg,3.406,4,Villa,160,1877,,Aktuel værdi
+Storegade 686560 Sommersted,sted,540.000,17-09-2002,Alm. Salg,-,6,Villa,136,1957,,Aktuel værdi
+Rolighedsvej 16560 Sommersted,sted,550.000,28-08-2002,Fam. Salg,-,6,Villa,156,1963,,Aktuel værdi
+Akmajvej 56560 Sommersted,sted,550.000,19-06-2002,Alm. Salg,-,7,Villa,183,1972,,Aktuel værdi
+Øster Lindetvej 36560 Sommersted,sted,543.000,11-06-2002,Alm. Salg,3.085,6,Villa,176,1972,,Aktuel værdi
+Storegade 236560 Sommersted,sted,671.826,10-06-2002,Alm. Salg,4.147,7,Villa,162,1944,,Aktuel værdi
+Mølbyvej 56560 Sommersted,sted,275.000,07-06-2002,Alm. Salg,4.104,3,Villa,67,1860,,Aktuel værdi
+Kastvråvej 256560 Sommersted,sted,1.261.268,05-06-2002,Fam. Salg,7.785,7,Stuehus,162,1863,,
+Rolighedsvej 116560 Sommersted,sted,605.000,31-05-2002,Fam. Salg,6.722,3,Villa,90,1964,,Aktuel værdi
+Kirkevej 16560 Sommersted,sted,599.089,31-05-2002,Fam. Salg,3.865,7,Villa,155,1847,,Aktuel værdi
+Parkvej 6D6560 Sommersted,sted,295.000,24-04-2002,Alm. Salg,4.214,2,Rækkehus,70,1982,,Aktuel værdi
+Stenskærvej 246560 Sommersted,sted,517.242,24-04-2002,Alm. Salg,1.557,10,Stuehus,332,1922,,
+Mosevænget 96560 Sommersted,sted,327.000,22-04-2002,Alm. Salg,3.205,4,Villa,102,1960,,Aktuel værdi
+Akmajvej 136560 Sommersted,sted,810.000,15-04-2002,Alm. Salg,5.400,5,Villa,150,1969,,Aktuel værdi
+Fuglsangs Alle 46560 Sommersted,sted,4.000.000,11-02-2002,Fam. Salg,-,17,Stuehus,285,1850,,
+Engvej 126560 Sommersted,sted,681.000,28-01-2002,Alm. Salg,3.891,5,Villa,175,1972,,Aktuel værdi
+Kildevænget 46560 Sommersted,sted,850.000,17-01-2002,Alm. Salg,5.862,5,Villa,145,1973,,Aktuel værdi
+Storegade 926560 Sommersted,sted,812.000,04-01-2002,Alm. Salg,5.377,6,Villa,151,1951,,Aktuel værdi
+Hyldevænget 36560 Sommersted,sted,1.000.000,23-12-2001,Alm. Salg,6.802,5,Villa,147,1985,,Aktuel værdi
+Damager 256560 Sommersted,sted,370.000,18-12-2001,Alm. Salg,-,4,Villa,169,1944,,Aktuel værdi
+Flødebøttevej 26560 Sommersted,sted,350.000,12-12-2001,Alm. Salg,-,8,Villa,266,1897,,Aktuel værdi
+Mosebjergvej 36560 Sommersted,sted,850.000,25-11-2001,Alm. Salg,6.439,5,Villa,132,1977,,Aktuel værdi
+Mosebjergvej 76560 Sommersted,sted,995.000,24-11-2001,Alm. Salg,6.104,4,Villa,163,1980,,Aktuel værdi
+Perlevej 86560 Sommersted,sted,675.000,24-10-2001,Alm. Salg,-,4,Villa,109,1979,,Aktuel værdi
+Bjerndrupvej 86560 Sommersted,sted,884.643,20-10-2001,Alm. Salg,5.427,7,Stuehus,163,1942,,
+Damvej 7B6560 Sommersted,sted,315.000,19-10-2001,Alm. Salg,5.250,2,Rækkehus,60,1980,,Aktuel værdi
+Slevadvej 36560 Sommersted,sted,5.210.000,18-10-2001,Alm. Salg,22.456,7,Stuehus,232,1921,,
+Kastvråvej 46560 Sommersted,sted,550.000,27-09-2001,Alm. Salg,4.135,6,Stuehus,133,1937,,
+Åmosevej 106560 Sommersted,sted,875.000,23-08-2001,Alm. Salg,5.434,5,Villa,161,1977,,Aktuel værdi
+Rolighedsvej 36560 Sommersted,sted,470.000,01-08-2001,Alm. Salg,4.795,4,Villa,98,1966,,Aktuel værdi
+Parkvej 6A6560 Sommersted,sted,575.000,28-06-2001,Alm. Salg,5.989,3,Rækkehus,96,1982,,Aktuel værdi
+Lertevej 86560 Sommersted,sted,1.850.000,07-05-2001,Fam. Salg,7.581,8,Stuehus,244,1925,,
+Tingbjergvej 66560 Sommersted,sted,900.000,02-05-2001,Alm. Salg,5.172,4,Stuehus,174,1833,,
+Flødebøttevej 46560 Sommersted,sted,2.650.000,30-04-2001,Fam. Salg,10.642,4,Stuehus,249,2007,,
+Lertevej 186560 Sommersted,sted,465.000,06-04-2001,Alm. Salg,3.000,5,Villa,155,1950,,Aktuel værdi
+Øster Lindetvej 16560 Sommersted,sted,624.891,19-03-2001,Alm. Salg,8.679,3,Villa,72,1942,,Aktuel værdi
+Spidsvej 26560 Sommersted,sted,551.802,08-03-2001,Alm. Salg,4.560,4,Villa,121,1945,,Aktuel værdi
+Damvej 136560 Sommersted,sted,385.000,23-02-2001,Fam. Salg,1.944,9,Villa,198,1963,,Aktuel værdi
+Parkvej 6B6560 Sommersted,sted,400.485,21-02-2001,Alm. Salg,5.721,2,Rækkehus,70,1982,,Aktuel værdi
+Vadstedvej 76560 Sommersted,sted,454.000,21-01-2001,Alm. Salg,4.407,4,Villa,103,1961,,Aktuel værdi
+Bakkevej 216560 Sommersted,sted,242.500,18-01-2001,Fam. Salg,1.940,5,Villa,125,1969,,Aktuel værdi
+Tovskovvej 16560 Sommersted,sted,634.000,12-01-2001,Alm. Salg,3.170,4,Villa,200,1933,,Aktuel værdi
+Genvej 46560 Sommersted,sted,260.000,14-12-2000,Alm. Salg,2.888,3,Villa,90,1960,,Aktuel værdi
+Oksevejen 196560 Sommersted,sted,519.000,27-11-2000,Alm. Salg,6.105,3,Villa,85,1961,,Aktuel værdi
+Tovskovvej 736560 Sommersted,sted,110.000,19-10-2000,Alm. Salg,2.115,3,Villa,52,1880,,Aktuel værdi
+Lertevej 136560 Sommersted,sted,275.000,18-09-2000,Alm. Salg,-,10,Villa,239,1842,,Aktuel værdi
+Mosevænget 26560 Sommersted,sted,659.185,01-09-2000,Alm. Salg,6.591,4,Stuehus,100,1898,,
+Kastvråvej 26560 Sommersted,sted,860.000,10-08-2000,Fam. Salg,8.775,4,Stuehus,98,1860,,
+Sønderløkke 56560 Sommersted,sted,789.692,31-07-2000,Alm. Salg,2.924,7,Stuehus,270,1869,,
+Kirkevej 196560 Sommersted,sted,480.000,31-07-2000,Fam. Salg,2.341,7,Villa,205,1855,,Aktuel værdi
+Ørstedvej 66560 Sommersted,sted,465.000,27-07-2000,Alm. Salg,-,6,Villa,188,1840,,Aktuel værdi
+Storegade 826560 Sommersted,sted,1.325.000,29-06-2000,Alm. Salg,9.330,5,Villa,142,1946,,Aktuel værdi
+Sommerstedvej 286560 Sommersted,sted,240.000,26-06-2000,Alm. Salg,1.983,5,Villa,121,1955,,Aktuel værdi
+Revsøgårdvej 56560 Sommersted,sted,529.250,26-06-2000,Alm. Salg,4.447,4,Villa,119,1890,,Aktuel værdi
+Mølbyvej 106560 Sommersted,sted,1.056.000,18-04-2000,Alm. Salg,4.672,9,Stuehus,226,1965,,
+Damvej 106560 Sommersted,sted,177.486,20-03-2000,Fam. Salg,2.275,3,Villa,78,1876,,Aktuel værdi
+Vestervej 36560 Sommersted,sted,875.006,21-02-2000,Alm. Salg,6.076,7,Stuehus,144,1935,,
+Vadstedvej 1A6560 Sommersted,sted,684.855,16-02-2000,Alm. Salg,4.998,4,Villa,137,1980,,Aktuel værdi
+Storegade 1466560 Sommersted,sted,305.000,04-02-2000,Alm. Salg,-,4,Villa,115,1893,,Aktuel værdi
+Mosevænget 36560 Sommersted,sted,695.000,25-01-2000,Alm. Salg,-,7,Villa,151,1925,,Aktuel værdi
+Øster Lindetvej 46560 Sommersted,sted,496.500,23-01-2000,Alm. Salg,4.243,4,Villa,117,1927,,Aktuel værdi
+Kirkevej 256560 Sommersted,sted,800.000,29-11-1999,Alm. Salg,5.194,5,Villa,154,1977,,Aktuel værdi
+Tovskovvej 306560 Sommersted,sted,195.000,28-10-1999,Alm. Salg,-,7,Stuehus,200,1910,,
+Oksevejen 176560 Sommersted,sted,42.000,15-10-1999,Alm. Salg,219,7,Villa,191,2000,,Aktuel værdi
+Grønnevang 236560 Sommersted,sted,625.556,09-10-1999,Alm. Salg,3.934,7,Villa,159,1937,,Aktuel værdi
+Mosebjergvej 106560 Sommersted,sted,900.000,01-10-1999,Alm. Salg,6.666,4,Villa,135,1979,,Aktuel værdi
+Storegade 1276560 Sommersted,sted,421.155,20-09-1999,Alm. Salg,3.008,5,Villa,140,1930,,Aktuel værdi
+Kirkevej 96560 Sommersted,sted,425.000,22-08-1999,Alm. Salg,2.361,7,Villa,180,1922,,Aktuel værdi
+Bjerndrupvej 76560 Sommersted,sted,300.000,30-07-1999,Alm. Salg,2.479,6,Stuehus,121,1939,,
+Søndre Tværvej 16560 Sommersted,sted,830.000,15-07-1999,Alm. Salg,4.742,7,Villa,175,1877,,Aktuel værdi
+Akmajvej 106560 Sommersted,sted,164.326,01-07-1999,Andet,1.441,4,Villa,114,1971,,Aktuel værdi
+Tovskovvej 46560 Sommersted,sted,200.000,07-06-1999,Alm. Salg,2.380,3,Villa,84,1902,,Aktuel værdi
+Storegade 346560 Sommersted,sted,350.000,27-05-1999,Alm. Salg,3.645,3,Villa,96,1960,,Aktuel værdi
+Grønnevang 116560 Sommersted,sted,140.000,22-05-1999,Alm. Salg,524,7,Villa,267,2000,,Aktuel værdi
+Damager 286560 Sommersted,sted,850.000,06-04-1999,Alm. Salg,3.400,7,Stuehus,250,1896,,
+Bjerndrupvej 46560 Sommersted,sted,1.450.000,30-03-1999,Alm. Salg,5.731,8,Stuehus,253,1913,,
+Farrisvej 86560 Sommersted,sted,554.000,23-03-1999,Alm. Salg,3.094,5,Villa,179,1894,,Aktuel værdi
+Tovskovvej 676560 Sommersted,sted,50.000,08-03-1999,Auktion,-,5,Villa,189,1958,,Aktuel værdi
+Tovskovvej 416560 Sommersted,sted,379.629,02-03-1999,Alm. Salg,3.796,7,BygningTilHandel,100,1905,,Aktuel værdi
+Kærvej 116560 Sommersted,sted,500.000,19-12-1998,Alm. Salg,-,4,Villa,132,1970,,Aktuel værdi
+Højrup Overskovvej 566560 Sommersted,sted,200.000,19-11-1998,Alm. Salg,2.531,2,Villa,79,1800,,Aktuel værdi
+Syvagervej 16560 Sommersted,sted,400.000,30-09-1998,Alm. Salg,-,10,Stuehus,227,1932,,
+Juhls Vej 66560 Sommersted,sted,450.000,09-09-1998,Alm. Salg,4.285,4,Stuehus,105,1792,,
+Selskærvej 26560 Sommersted,sted,3.650.000,25-08-1998,Fam. Salg,15.531,8,Stuehus,235,1931,,
+Ørstedvej 276560 Sommersted,sted,571.000,11-08-1998,Alm. Salg,7.137,6,Villa,80,1947,,Aktuel værdi
+Revsø Mark Vej 106560 Sommersted,sted,280.000,05-08-1998,Auktion,-,5,Villa,212,1932,,Aktuel værdi
+Tovskovvej 266560 Sommersted,sted,1.400.000,29-07-1998,Alm. Salg,7.608,5,Villa,184,1905,,Aktuel værdi
+Kastvråvej 336560 Sommersted,sted,638.088,23-07-1998,Alm. Salg,4.834,4,Stuehus,132,1900,,
+Bakkevej 246560 Sommersted,sted,902.000,18-07-1998,Alm. Salg,4.254,5,Villa,212,1972,,Aktuel værdi
+Tågerupvej 336560 Sommersted,sted,1.000.000,12-06-1998,Alm. Salg,4.651,9,Stuehus,215,1931,,
+Lertevej 166560 Sommersted,sted,425.000,19-05-1998,Andet,3.601,4,Villa,118,1946,,Aktuel værdi
+Vadstedvej 206560 Sommersted,sted,3.725.000,19-05-1998,Andet,15.783,7,Stuehus,236,1892,,
+Sølvagervej 16560 Sommersted,sted,1.367.500,11-05-1998,Fam. Salg,6.511,6,Stuehus,210,1850,,
+Lertevej 26560 Sommersted,sted,364.027,20-04-1998,Alm. Salg,2.033,5,Villa,179,1955,,Aktuel værdi
+Højrup Overskovvej 516560 Sommersted,sted,886.000,19-04-1998,Alm. Salg,4.343,5,Villa,204,1929,,Aktuel værdi
+Hyldevænget 196560 Sommersted,sted,95.799,01-04-1998,Alm. Salg,532,5,Villa,180,1998,,Aktuel værdi
+Akmajvej 86560 Sommersted,sted,696.100,22-03-1998,Alm. Salg,5.118,4,Villa,136,1972,,Aktuel værdi
+Storegade 1356560 Sommersted,sted,385.000,19-03-1998,Alm. Salg,3.666,4,Villa,105,1962,,Aktuel værdi
+Damvej 36560 Sommersted,sted,468.000,12-02-1998,Alm. Salg,-,5,Villa,178,1845,,Aktuel værdi
+Tovskovvej 196560 Sommersted,sted,943.000,30-01-1998,Alm. Salg,5.750,7,Stuehus,164,1880,,
+Tingbjergvej 86560 Sommersted,sted,98.000,26-01-1998,Auktion,576,5,Stuehus,170,1873,,
+Tovskovvej 96560 Sommersted,sted,470.920,26-01-1998,Alm. Salg,4.024,4,Villa,117,1954,,Aktuel værdi
+Ørstedvej 156560 Sommersted,sted,330.000,22-01-1998,Fam. Salg,-,7,Villa,197,1960,,Aktuel værdi
+Flødebøttevej 16560 Sommersted,sted,1.300.000,11-12-1997,Alm. Salg,10.833,5,Stuehus,120,1875,,
+Søndermarksvej 26560 Sommersted,sted,710.310,08-11-1997,Alm. Salg,5.592,5,Stuehus,127,1929,,
+Vodskovvej 96560 Sommersted,sted,508.000,27-10-1997,Alm. Salg,4.268,4,Villa,119,1967,,Aktuel værdi
+Storegade 1236560 Sommersted,sted,520.500,07-10-1997,Alm. Salg,3.884,5,Villa,134,1962,,Aktuel værdi
+Stursbølvej 106560 Sommersted,sted,450.000,01-10-1997,Alm. Salg,-,7,Stuehus,325,1877,,
+Talind 86560 Sommersted,sted,3.166.343,16-09-1997,Alm. Salg,17.788,7,Stuehus,178,1900,,
+Hyldevænget 156560 Sommersted,sted,56.916,09-09-1997,Alm. Salg,-,7,Villa,186,1998,,Aktuel værdi
+Åbjergvej 36560 Sommersted,sted,545.260,27-08-1997,Alm. Salg,3.894,5,Villa,140,1973,,Aktuel værdi
+Vadstedvej 216560 Sommersted,sted,2.200.000,16-07-1997,Alm. Salg,-,7,Stuehus,266,1967,,
+Stenskærvej 156560 Sommersted,sted,1.089.000,06-07-1997,Alm. Salg,5.185,8,Villa,210,1870,,Aktuel værdi
+Ørstedvej 216560 Sommersted,sted,345.000,10-04-1997,Alm. Salg,2.899,5,Villa,119,1960,,Aktuel værdi
+Tovskovvej 56560 Sommersted,sted,500.000,09-04-1997,Alm. Salg,4.166,5,Villa,120,1954,,Aktuel værdi
+Storegade 326560 Sommersted,sted,818.729,09-04-1997,Alm. Salg,3.861,5,Villa,212,1908,,Aktuel værdi
+Tovskovvej 86560 Sommersted,sted,710.000,02-04-1997,Alm. Salg,-,5,Stuehus,166,1910,,
+Mosevænget 76560 Sommersted,sted,359.000,01-04-1997,Alm. Salg,2.991,6,Villa,120,1924,,Aktuel værdi
+Bakkevej 26560 Sommersted,sted,532.705,27-03-1997,Alm. Salg,4.439,5,Villa,120,1969,,Aktuel værdi
+Vadstedvej 146560 Sommersted,sted,691.831,14-03-1997,Alm. Salg,2.882,8,Stuehus,240,1856,,
+Engvej 36560 Sommersted,sted,445.000,24-02-1997,Alm. Salg,-,4,Villa,129,1968,,Aktuel værdi
+Grønnevang 66560 Sommersted,sted,332.000,19-12-1996,Alm. Salg,2.169,8,Villa,153,1932,,Aktuel værdi
+Mølbyvej 66560 Sommersted,sted,204.000,18-11-1996,Alm. Salg,2.400,3,Villa,85,1964,,Aktuel værdi
+Damvej 66560 Sommersted,sted,414.000,11-11-1996,Alm. Salg,-,4,Villa,142,1880,,Aktuel værdi
+Storegade 1396560 Sommersted,sted,790.000,30-10-1996,Alm. Salg,3.172,7,Villa,249,1962,,Aktuel værdi
+Søndre Tværvej 46560 Sommersted,sted,518.000,15-10-1996,Alm. Salg,3.083,10,Stuehus,168,1855,,
+Perlevej 66560 Sommersted,sted,100.000,18-09-1996,Alm. Salg,1.234,3,Villa,81,1953,,Aktuel værdi
+Kærvej 26560 Sommersted,sted,444.000,10-09-1996,Fam. Salg,3.929,4,Villa,113,1971,,Aktuel værdi
+Hyldevænget 136560 Sommersted,sted,58.344,09-09-1996,Alm. Salg,416,5,Villa,140,1997,,Aktuel værdi
+Tågerupvej 416560 Sommersted,sted,1.055.000,25-08-1996,Alm. Salg,-,4,Stuehus,256,1931,,
+Højrup Overskovvej 476560 Sommersted,sted,1.482.150,18-07-1996,Fam. Salg,7.410,7,Stuehus,200,1850,,
+Kærgårdvej 76560 Sommersted,sted,716.000,01-07-1996,Alm. Salg,6.951,4,Stuehus,103,1866,,
+Akmajvej 156560 Sommersted,sted,280.500,19-06-1996,Fam. Salg,-,5,Villa,198,1968,,Aktuel værdi
+Stenvænget 56560 Sommersted,sted,565.000,05-06-1996,Alm. Salg,4.154,4,Villa,136,1974,,Aktuel værdi
+Stursbølvej 66560 Sommersted,sted,1.962.000,26-05-1996,Fam. Salg,11.084,7,Stuehus,177,1963,,
+Farrisvej 56560 Sommersted,sted,373.824,15-04-1996,Alm. Salg,1.495,8,Stuehus,250,2009,,
+Oksevejen 16560 Sommersted,sted,40.000,26-03-1996,Alm. Salg,285,4,Villa,140,1775,,Aktuel værdi
+Grønnevang 76560 Sommersted,sted,365.000,15-01-1996,Alm. Salg,2.109,6,Villa,173,1933,,Aktuel værdi
+Storegade 466560 Sommersted,sted,296.000,05-12-1995,Alm. Salg,2.873,3,Villa,103,1936,,Aktuel værdi
+Tovskovvej 536560 Sommersted,sted,842.000,13-11-1995,Alm. Salg,7.016,4,Villa,120,1944,,Aktuel værdi
+Kastvråvej 206560 Sommersted,sted,15.000,09-11-1995,Alm. Salg,357,3,Villa,42,1885,,Aktuel værdi
+Bjerndrupvej 66560 Sommersted,sted,457.000,15-09-1995,Alm. Salg,4.967,3,Stuehus,92,1850,,
+Vadstedvej 56560 Sommersted,sted,431.000,05-08-1995,Alm. Salg,-,7,Villa,198,1960,,Aktuel værdi
+Sølvagervej 106560 Sommersted,sted,800.000,03-08-1995,Alm. Salg,3.940,7,Stuehus,203,1887,,
+Skotvej 36560 Sommersted,sted,2.100.000,05-07-1995,Alm. Salg,10.714,6,Stuehus,196,1944,,
+Sølvagervej 86560 Sommersted,sted,710.000,29-06-1995,Alm. Salg,-,6,Stuehus,328,1950,,
+Sillerupvej 26560 Sommersted,sted,180.000,27-06-1995,Alm. Salg,1.538,4,Villa,117,1907,,Aktuel værdi
+Damager 336560 Sommersted,sted,260.000,09-06-1995,Alm. Salg,-,7,Villa,176,1900,,Aktuel værdi
+Søndre Tværvej 56560 Sommersted,sted,350.000,29-05-1995,Alm. Salg,2.380,4,Stuehus,147,1880,,
+Ørstedvej 166560 Sommersted,sted,500.000,08-05-1995,Alm. Salg,2.008,9,Stuehus,249,1877,,
+Tovskovvej 446560 Sommersted,sted,318.000,20-04-1995,Alm. Salg,2.271,4,Villa,140,1970,,Aktuel værdi
+Mosevænget 16560 Sommersted,sted,513.153,14-02-1995,Alm. Salg,2.618,5,Villa,196,1924,,Aktuel værdi
+Kærgårdvej 96560 Sommersted,sted,1.974.000,03-02-1995,Fam. Salg,10.670,6,Stuehus,185,1821,,
+Sølvagervej 36560 Sommersted,sted,590.000,30-01-1995,Alm. Salg,6.210,3,Stuehus,95,1904,,
+Storegade 726560 Sommersted,sted,334.000,05-01-1995,Alm. Salg,-,5,Villa,144,1947,,Aktuel værdi
+Vestervej 116560 Sommersted,sted,800.000,22-12-1994,Alm. Salg,4.469,5,Stuehus,179,1880,,
+Kirkevej 276560 Sommersted,sted,617.500,15-12-1994,Alm. Salg,-,6,Villa,188,1973,,Aktuel værdi
+Vestervej 16560 Sommersted,sted,500.000,07-12-1994,Alm. Salg,3.816,5,Stuehus,131,1945,,
+Storegade 446560 Sommersted,sted,90.000,06-12-1994,Alm. Salg,661,5,Villa,136,1840,,Aktuel værdi
+Storegade 906560 Sommersted,sted,527.000,01-07-1994,Fam. Salg,-,5,Villa,189,1954,,Aktuel værdi
+Damvej 7C6560 Sommersted,sted,218.298,16-06-1994,Alm. Salg,3.638,2,Rækkehus,60,1980,,Aktuel værdi
+Vodskovvej 76560 Sommersted,sted,2.075.000,05-05-1994,Alm. Salg,6.916,12,Stuehus,300,1868,,
+Damvej 26560 Sommersted,sted,230.000,03-05-1994,Fam. Salg,2.738,4,Villa,84,1964,,Aktuel værdi
+Tovskovvej 586560 Sommersted,sted,80.000,26-03-1994,Alm. Salg,1.111,3,Villa,72,1947,,Aktuel værdi
+Kærgårdvej 46560 Sommersted,sted,749.800,23-02-1994,Alm. Salg,3.177,5,Stuehus,236,1911,,
+Bjerndrupvej 56560 Sommersted,sted,700.000,05-02-1994,Andet,2.800,10,Stuehus,250,1872,,
+Sølvagervej 66560 Sommersted,sted,1.000.000,29-01-1994,Alm. Salg,9.090,4,Stuehus,110,1935,,
+Revsøgårdvej 36560 Sommersted,sted,665.000,13-01-1994,Alm. Salg,4.130,6,Villa,161,1877,,Aktuel værdi
+Storegade 1506560 Sommersted,sted,187.500,05-01-1994,Alm. Salg,1.241,5,Villa,151,1897,,Aktuel værdi
+Grønnegade 16560 Sommersted,sted,190.000,11-11-1993,Alm. Salg,1.010,5,Villa,188,1924,,Aktuel værdi
+Ørstedvej 256560 Sommersted,sted,920.000,27-10-1993,Fam. Salg,-,5,Stuehus,220,1932,,
+Overbyvej 126560 Sommersted,sted,215.000,26-10-1993,Alm. Salg,-,7,Villa,201,1942,,Aktuel værdi
+Parkvej 106560 Sommersted,sted,208.321,24-10-1993,Alm. Salg,2.240,2,Villa,93,1956,,Aktuel værdi
+Revsø Mark Vej 46560 Sommersted,sted,320.000,09-10-1993,Alm. Salg,2.666,4,Stuehus,120,1877,,
+Kastvrå Bygade 26560 Sommersted,sted,200.000,23-09-1993,Alm. Salg,-,7,Villa,260,1870,,Aktuel værdi
+Sølvgade 16560 Sommersted,sted,357.000,08-09-1993,Fam. Salg,2.176,5,Villa,164,1922,,Aktuel værdi
+Engvej 146560 Sommersted,sted,221.000,16-08-1993,Alm. Salg,1.355,5,Villa,163,1968,,Aktuel værdi
+Hyldevænget 46560 Sommersted,sted,737.007,25-06-1993,Alm. Salg,4.880,5,Villa,151,1986,,Aktuel værdi
+Tovskovvej 486560 Sommersted,sted,285.000,06-04-1993,Alm. Salg,3.166,4,Villa,90,1945,,Aktuel værdi
+Damager 166560 Sommersted,sted,1.100.000,10-03-1993,Alm. Salg,-,12,Stuehus,420,1877,,
+Spidsvej 46560 Sommersted,sted,2.020.000,11-02-1993,Alm. Salg,9.223,5,Stuehus,219,1909,,
+Revsøgårdvej 66560 Sommersted,sted,920.000,04-01-1993,Alm. Salg,-,8,Stuehus,207,1932,,
+Kærgårdvej 26560 Sommersted,sted,810.000,17-12-1992,Fam. Salg,5.328,6,Stuehus,152,1877,,
+Tågerupvej 36560 Sommersted,sted,590.000,17-08-1992,Alm. Salg,-,4,Stuehus,210,1931,,
+Tovskovvej 546560 Sommersted,sted,140.000,01-07-1992,Alm. Salg,875,5,Villa,160,1870,,Aktuel værdi
+Bjerndrupvej 36560 Sommersted,sted,300.000,15-06-1992,Fam. Salg,2.000,6,Stuehus,150,1935,,
+Storegade 616560 Sommersted,sted,330.000,12-05-1992,Alm. Salg,2.357,4,Villa,140,1943,,Aktuel værdi
+Åvej 16560 Sommersted,sted,675.000,21-04-1992,Alm. Salg,3.026,7,Villa,223,1970,,Aktuel værdi
+Vestergyden 46560 Sommersted,sted,655.000,16-04-1992,Alm. Salg,4.548,6,Villa,144,1910,,Aktuel værdi
+Rolighedsvej 166560 Sommersted,sted,440.000,16-04-1992,Alm. Salg,4.150,4,Villa,106,1964,,Aktuel værdi
+Tovskovvej 136560 Sommersted,sted,475.000,23-03-1992,Alm. Salg,2.653,7,Villa,179,1963,,Aktuel værdi
+Tovskovvej 716560 Sommersted,sted,846.000,06-03-1992,Alm. Salg,-,11,Stuehus,195,1900,,
+Slevadvej 76560 Sommersted,sted,825.000,03-03-1992,Alm. Salg,-,14,Servicevirksomhed,183,1740,,Aktuel værdi
+Stenvænget 16560 Sommersted,sted,518.800,02-02-1992,Alm. Salg,2.265,7,Villa,229,1973,,Aktuel værdi
+Tovskovvej 636560 Sommersted,sted,693.700,23-01-1992,Alm. Salg,3.811,7,Stuehus,182,1827,,
+Mølbyvej 126560 Sommersted,sted,610.000,06-01-1992,Fam. Salg,2.541,7,Stuehus,240,1936,,

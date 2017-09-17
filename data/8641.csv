@@ -1,0 +1,389 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Dybdalsvej 318641 Sorring,ring,2.295.000,30-03-2017,Alm. Salg,14.079,6,Stuehus,163,1924,,
+Høngevej 258641 Sorring,ring,2.250.000,13-03-2017,Alm. Salg,13.636,7,Stuehus,165,1925,-2 %,
+Møllebakken 178641 Sorring,ring,900.000,21-01-2017,Alm. Salg,6.976,5,Villa,129,1980,-18 %,Aktuel værdi
+Silkeborgvej 268641 Sorring,ring,1.250.000,09-01-2017,Alm. Salg,5.952,7,Villa,210,1947,-4 %,Aktuel værdi
+Dybdalsvej 498641 Sorring,ring,2.598.000,04-01-2017,Alm. Salg,15.938,5,Stuehus,163,1870,0 %,
+Hjejlevej 658641 Sorring,ring,616.250,22-12-2016,Andet,4.370,5,Villa,141,1978,,Aktuel værdi
+Hjejlevej 418641 Sorring,ring,798.458,06-12-2016,Alm. Salg,5.958,4,Villa,134,1975,,Aktuel værdi
+Ebbesensvej 158641 Sorring,ring,1.975.000,21-11-2016,Alm. Salg,15.192,4,Villa,130,1898,-1 %,Aktuel værdi
+Høghgårdsvej 148641 Sorring,ring,875.000,20-11-2016,Alm. Salg,5.303,5,Villa,165,2001,,Aktuel værdi
+Ryttervej 108641 Sorring,ring,325.000,02-11-2016,Fam. Salg,2.425,6,Rækkehus,134,1877,,Aktuel værdi
+Skolebakken 13C8641 Sorring,ring,1.950.000,21-10-2016,Alm. Salg,8.552,8,Villa,228,1967,-2 %,Aktuel værdi
+Klintrupvej 28641 Sorring,ring,188.265,16-10-2016,Alm. Salg,913,7,Stuehus,206,1911,-92 %,
+Klintrup Hedevej 1258641 Sorring,ring,1.150.000,28-09-2016,Alm. Salg,7.232,4,Villa,159,1765,-4 %,Aktuel værdi
+Hovedgaden 148641 Sorring,ring,1.525.000,29-08-2016,Alm. Salg,10.517,5,Villa,145,1890,,Aktuel værdi
+Hjejlevej 618641 Sorring,ring,1.283.000,13-07-2016,Alm. Salg,9.230,4,Villa,139,1978,-8 %,Aktuel værdi
+Silkeborgvej 208641 Sorring,ring,1.200.000,20-05-2016,Alm. Salg,8.000,4,Villa,150,1946,-7 %,Aktuel værdi
+Johannes Jensens Vej 188641 Sorring,ring,80.000,10-05-2016,Alm. Salg,493,5,Villa,162,1910,,Aktuel værdi
+Drosselvej 68641 Sorring,ring,1.700.000,10-05-2016,Alm. Salg,9.090,5,Villa,187,1966,-5 %,Aktuel værdi
+Hovedgaden 108641 Sorring,ring,695.000,10-03-2016,Alm. Salg,5.604,4,Villa,124,1820,0 %,Aktuel værdi
+Terpvej 658641 Sorring,ring,2.400.000,29-01-2016,Alm. Salg,12.765,7,Villa,188,2005,-8 %,Aktuel værdi
+Ryttervej 88641 Sorring,ring,605.000,11-12-2015,Alm. Salg,4.959,4,Rækkehus,122,1877,-7 %,Aktuel værdi
+Dallerupvej 408641 Sorring,ring,400.000,27-11-2015,Alm. Salg,3.448,4,Villa,116,1901,,Aktuel værdi
+Skolebakken 13A8641 Sorring,ring,2.085.000,23-11-2015,Alm. Salg,13.365,6,Villa,156,2008,0 %,Aktuel værdi
+Dybdalsvej 128641 Sorring,ring,600.000,31-10-2015,Fam. Salg,4.255,4,Villa,141,1890,,Aktuel værdi
+Solbærmarken 268641 Sorring,ring,1.450.000,30-10-2015,Alm. Salg,12.831,5,Villa,113,1999,-3 %,Aktuel værdi
+Hovedgaden 228641 Sorring,ring,560.000,16-10-2015,Alm. Salg,9.655,2,Villa,58,1946,-6 %,Aktuel værdi
+Skolebakken 308641 Sorring,ring,156.500,15-09-2015,Andet,926,7,Stuehus,169,1899,,
+Hjejlevej 538641 Sorring,ring,1.100.000,22-07-2015,Alm. Salg,9.016,4,Villa,122,1978,-8 %,Aktuel værdi
+Hjejlevej 978641 Sorring,ring,2.490.000,03-07-2015,Alm. Salg,15.465,5,Villa,161,2008,-4 %,Aktuel værdi
+Ternevej 18641 Sorring,ring,1.300.000,25-06-2015,Alm. Salg,8.280,6,Villa,157,1977,,Aktuel værdi
+Dallerup Kirkevej 598641 Sorring,ring,1.770.000,12-05-2015,Alm. Salg,12.206,6,Stuehus,145,1928,,
+Solbærmarken 368641 Sorring,ring,2.275.000,24-03-2015,Alm. Salg,14.218,6,Villa,160,2000,-1 %,Aktuel værdi
+Klintrup Hedevej 1608641 Sorring,ring,2.185.000,11-03-2015,Alm. Salg,12.630,5,Villa,173,1962,-5 %,Aktuel værdi
+Solbærmarken 318641 Sorring,ring,2.175.000,05-03-2015,Alm. Salg,14.215,6,Villa,153,2007,-3 %,Aktuel værdi
+Hjejlevej 898641 Sorring,ring,1.150.000,13-02-2015,Alm. Salg,8.846,4,Villa,130,1976,-4 %,Aktuel værdi
+Hjejlevej 378641 Sorring,ring,1.260.000,12-02-2015,Alm. Salg,8.689,6,Villa,145,1977,,Aktuel værdi
+Hovedgaden 138641 Sorring,ring,1.175.000,03-02-2015,Alm. Salg,8.103,6,Villa,145,1963,-9 %,Aktuel værdi
+Terpvej 598641 Sorring,ring,1.705.000,27-01-2015,Alm. Salg,21.312,3,Villa,80,1920,-15 %,Aktuel værdi
+Vibevej 128641 Sorring,ring,1.200.000,22-01-2015,Alm. Salg,8.888,4,Villa,135,1971,-14 %,Aktuel værdi
+Møllebakken 38641 Sorring,ring,1.600.000,04-12-2014,Alm. Salg,9.467,5,Villa,169,1900,-8 %,Aktuel værdi
+Bundgårdsvej 108641 Sorring,ring,2.791.000,21-11-2014,Alm. Salg,13.816,5,Villa,202,2008,-4 %,Aktuel værdi
+Hjejlevej 328641 Sorring,ring,2.750.000,29-10-2014,Alm. Salg,16.176,5,Villa,170,2009,0 %,Aktuel værdi
+Solbærmarken 508641 Sorring,ring,2.425.000,07-10-2014,Alm. Salg,13.857,6,Villa,175,2003,-3 %,Aktuel værdi
+Dallerup Kirkevej 258641 Sorring,ring,2.300.000,01-10-2014,Alm. Salg,12.637,5,Villa,182,1903,,Aktuel værdi
+Bangsvej 58641 Sorring,ring,1.000.000,12-09-2014,Alm. Salg,8.771,4,Villa,114,1962,-9 %,Aktuel værdi
+Hjejlevej 698641 Sorring,ring,1.198.000,08-09-2014,Alm. Salg,8.557,4,Villa,140,1974,0 %,Aktuel værdi
+Ryttervej 58641 Sorring,ring,250.000,13-08-2014,Fam. Salg,3.205,3,Villa,78,1850,,Aktuel værdi
+Dybdalsvej 188641 Sorring,ring,1.400.000,10-08-2014,Alm. Salg,8.695,5,Villa,161,1965,-7 %,Aktuel værdi
+Silkeborgvej 588641 Sorring,ring,2.500.000,31-07-2014,Alm. Salg,12.626,7,Villa,198,1900,-4 %,Aktuel værdi
+Herredsvejen 328641 Sorring,ring,2.283.000,24-06-2014,Alm. Salg,11.246,6,Villa,203,1917,-9 %,Aktuel værdi
+Drosselvej 118641 Sorring,ring,1.190.000,17-06-2014,Alm. Salg,10.818,4,Villa,110,1969,-5 %,Aktuel værdi
+Herredsvejen 278641 Sorring,ring,75.000,09-04-2014,Alm. Salg,493,6,Stuehus,152,1928,,
+Skolebakken 358641 Sorring,ring,8.690.231,02-04-2014,Andet,32.186,10,Villa,270,1908,,Aktuel værdi
+Johannes Jensens Vej 368641 Sorring,ring,855.000,25-03-2014,Alm. Salg,9.193,3,Villa,93,1930,-5 %,Aktuel værdi
+Hovedgaden 398641 Sorring,ring,1.450.000,27-02-2014,Alm. Salg,9.602,6,Villa,151,1923,-3 %,Aktuel værdi
+Bredsig 278641 Sorring,ring,600.000,03-01-2014,Alm. Salg,3.726,6,Villa,161,2015,-8 %,Aktuel værdi
+Bredsig 288641 Sorring,ring,440.000,10-12-2013,Alm. Salg,2.913,6,Villa,151,2014,-11 %,Aktuel værdi
+Høghgårdsvej 18641 Sorring,ring,1.350.000,25-11-2013,Alm. Salg,6.279,7,Villa,215,1964,-10 %,Aktuel værdi
+Høghgårdsvej 378641 Sorring,ring,2.048.000,28-10-2013,Alm. Salg,12.800,6,Villa,160,1997,-2 %,Aktuel værdi
+Terpvej 358641 Sorring,ring,250.000,22-10-2013,Alm. Salg,793,14,Stuehus,315,1935,,
+Hovedgaden 468641 Sorring,ring,850.000,04-10-2013,Alm. Salg,4.381,7,Villa,194,1936,,Aktuel værdi
+Drosselvej 88641 Sorring,ring,1.150.000,03-10-2013,Alm. Salg,9.583,4,Villa,120,1967,-4 %,Aktuel værdi
+Solbærmarken 88641 Sorring,ring,1.050.000,25-09-2013,Alm. Salg,5.497,6,Villa,191,1903,-4 %,Aktuel værdi
+Sanddalen 108641 Sorring,ring,2.400.000,20-09-2013,Alm. Salg,12.182,7,Villa,197,2005,-4 %,Aktuel værdi
+Mågevej 48641 Sorring,ring,1.150.000,30-08-2013,Alm. Salg,13.529,3,Villa,85,1971,-4 %,Aktuel værdi
+Høngevej 358641 Sorring,ring,2.600.000,04-07-2013,Alm. Salg,15.204,6,Villa,171,1931,-4 %,Aktuel værdi
+Silkeborgvej 308641 Sorring,ring,1.525.000,03-07-2013,Alm. Salg,12.708,4,Villa,120,1961,-1 %,Aktuel værdi
+Solbærmarken 248641 Sorring,ring,1.600.000,06-06-2013,Alm. Salg,9.523,6,Villa,168,2003,-11 %,Aktuel værdi
+Solbærmarken 338641 Sorring,ring,2.400.000,14-05-2013,Fam. Salg,11.940,5,Villa,201,2006,,Aktuel værdi
+Johannes Jensens Vej 708641 Sorring,ring,6.150.000,14-05-2013,Fam. Salg,27.092,7,Stuehus,227,1770,,
+Hjejlevej 98641 Sorring,ring,1.200.000,10-05-2013,Alm. Salg,8.391,5,Villa,143,1974,-8 %,Aktuel værdi
+Ebbesensvej 138641 Sorring,ring,620.000,09-05-2013,Alm. Salg,5.438,3,Villa,114,1900,-5 %,Aktuel værdi
+Svinget 38641 Sorring,ring,294.618,22-04-2013,Alm. Salg,1.753,7,Stuehus,168,1890,,
+Dybdalsvej 258641 Sorring,ring,950.000,11-04-2013,Alm. Salg,5.428,4,Villa,175,2014,,Aktuel værdi
+Hjejlevej 938641 Sorring,ring,1.000.000,22-01-2013,Alm. Salg,7.692,4,Villa,130,1973,-9 %,Aktuel værdi
+Silkeborgvej 48641 Sorring,ring,975.000,04-07-2012,Alm. Salg,8.552,4,Villa,114,1929,-2 %,Aktuel værdi
+Silkeborgvej 88641 Sorring,ring,860.000,19-06-2012,Alm. Salg,4.725,7,Villa,182,1948,-14 %,Aktuel værdi
+Terpvej 518641 Sorring,ring,870.000,29-04-2012,Fam. Salg,6.444,5,Villa,135,1900,,Aktuel værdi
+Solbærmarken 358641 Sorring,ring,2.400.000,25-04-2012,Alm. Salg,13.714,6,Villa,175,2011,-4 %,Aktuel værdi
+Solbærmarken 488641 Sorring,ring,2.500.000,12-04-2012,Alm. Salg,14.204,6,Villa,176,2008,,Aktuel værdi
+Johannes Jensens Vej 298641 Sorring,ring,8.200.000,12-04-2012,Alm. Salg,32.800,9,Stuehus,250,1740,,
+Hovedgaden 238641 Sorring,ring,1.530.000,28-02-2012,Alm. Salg,12.240,5,Villa,125,1949,-4 %,Aktuel værdi
+Toustrup Stationsvej 68641 Sorring,ring,945.000,14-02-2012,Alm. Salg,9.356,5,Villa,101,1949,,Aktuel værdi
+Ebbesensvej 20A8641 Sorring,ring,700.000,01-02-2012,Alm. Salg,6.250,2,Villa,112,1902,,Aktuel værdi
+Hovedgaden 388641 Sorring,ring,555.000,28-10-2011,Alm. Salg,4.302,6,Villa,129,1900,,Aktuel værdi
+Jordbærvej 58641 Sorring,ring,615.000,26-10-2011,Alm. Salg,3.494,5,Villa,176,2014,,Aktuel værdi
+Bundgårdsvej 128641 Sorring,ring,1.100.000,12-10-2011,Andet,6.962,6,Villa,158,2008,,Aktuel værdi
+Hjejlevej 458641 Sorring,ring,1.300.000,27-09-2011,Alm. Salg,8.280,5,Villa,157,1977,-4 %,Aktuel værdi
+Vibevej 58641 Sorring,ring,1.225.000,23-09-2011,Alm. Salg,12.760,4,Villa,96,1972,-6 %,Aktuel værdi
+Skolebakken 98641 Sorring,ring,1.598.000,05-09-2011,Alm. Salg,7.990,7,Villa,200,1966,,Aktuel værdi
+Møllebakken 318641 Sorring,ring,548.065,03-08-2011,Andet,4.567,4,Villa,120,1935,,Aktuel værdi
+Vibevej 78641 Sorring,ring,1.798.000,04-07-2011,Alm. Salg,9.666,6,Villa,186,1972,0 %,Aktuel værdi
+Hovedgaden 418641 Sorring,ring,1.395.000,03-06-2011,Alm. Salg,11.250,3,Villa,124,1905,0 %,Aktuel værdi
+Ebbesensvej 98641 Sorring,ring,1.000.000,01-06-2011,Alm. Salg,5.000,5,Rækkehus,200,1907,75 %,Aktuel værdi
+Hjejlevej 1038641 Sorring,ring,2.200.000,09-05-2011,Alm. Salg,15.492,6,Villa,142,2008,-2 %,Aktuel værdi
+Herredsvejen 308641 Sorring,ring,2.090.000,11-04-2011,Alm. Salg,13.660,4,Stuehus,153,2013,-5 %,
+Bredsig 88641 Sorring,ring,2.450.000,24-03-2011,Alm. Salg,16.013,6,Villa,153,2007,-5 %,Aktuel værdi
+Hjejlevej 308641 Sorring,ring,650.000,09-03-2011,Alm. Salg,3.987,5,Villa,163,2012,,Aktuel værdi
+Hovedgaden 458641 Sorring,ring,2.600.000,28-02-2011,Alm. Salg,12.380,8,Villa,210,1875,,Aktuel værdi
+Høngevej 278641 Sorring,ring,2.050.000,10-01-2011,Alm. Salg,7.854,8,Stuehus,261,1877,-2 %,
+Silkeborgvej 168641 Sorring,ring,684.479,06-01-2011,Alm. Salg,5.751,4,Villa,119,1932,,Aktuel værdi
+Johannes Jensens Vej 228641 Sorring,ring,1.035.000,17-12-2010,Alm. Salg,7.288,4,Villa,142,1877,-6 %,Aktuel værdi
+Jordbærvej 98641 Sorring,ring,575.000,15-12-2010,Alm. Salg,3.125,5,Villa,184,2012,,Aktuel værdi
+Høngevej 18641 Sorring,ring,188.409,14-12-2010,Fam. Salg,744,8,Villa,253,2013,,Aktuel værdi
+Bredsigbakke 218641 Sorring,ring,2.498.000,07-12-2010,Alm. Salg,15.048,6,Villa,166,2007,0 %,Aktuel værdi
+Ebbesensvej 298641 Sorring,ring,650.000,30-11-2010,Alm. Salg,10.000,4,Villa,65,1945,-13 %,Aktuel værdi
+Mågevej 38641 Sorring,ring,725.000,20-10-2010,Alm. Salg,8.950,3,Villa,81,1972,-5 %,Aktuel værdi
+Dallerup Kirkevej 458641 Sorring,ring,1.800.000,11-10-2010,Alm. Salg,7.792,6,Villa,231,1910,-5 %,Aktuel værdi
+Høghgårdsvej 358641 Sorring,ring,1.710.000,27-09-2010,Alm. Salg,13.153,5,Villa,130,1996,-4 %,Aktuel værdi
+Johannes Jensens Vej 268641 Sorring,ring,1.220.000,10-09-2010,Alm. Salg,10.166,3,Villa,120,1874,-2 %,Aktuel værdi
+Sanddalen 58641 Sorring,ring,860.000,05-09-2010,Alm. Salg,7.889,3,Villa,109,1967,0 %,Aktuel værdi
+Bredsig 168641 Sorring,ring,2.225.000,05-07-2010,Alm. Salg,13.819,6,Villa,161,2006,-11 %,Aktuel værdi
+Skolebakken 158641 Sorring,ring,825.000,29-06-2010,Alm. Salg,9.593,4,Landbrug o.l.,86,1956,,Aktuel værdi
+Vibevej 148641 Sorring,ring,1.500.000,20-05-2010,Alm. Salg,4.870,9,Villa,308,1974,-12 %,Aktuel værdi
+Høghgårdsvej 108641 Sorring,ring,2.098.000,08-03-2010,Alm. Salg,12.871,7,Villa,163,2000,0 %,Aktuel værdi
+Solbærmarken 278641 Sorring,ring,2.252.500,01-03-2010,Alm. Salg,11.610,8,Villa,194,2009,-6 %,Aktuel værdi
+Møllebakken 298641 Sorring,ring,1.135.000,01-02-2010,Alm. Salg,8.730,5,Villa,130,1935,-5 %,Aktuel værdi
+Høghgårdsvej 128641 Sorring,ring,1.745.000,25-01-2010,Alm. Salg,13.022,5,Villa,134,2000,0 %,Aktuel værdi
+Møllebakken 238641 Sorring,ring,1.575.000,16-01-2010,Alm. Salg,10.937,7,Villa,144,1979,-4 %,Aktuel værdi
+Hjejlevej 348641 Sorring,ring,550.000,10-11-2009,Alm. Salg,2.763,7,Villa,199,2011,-8 %,Aktuel værdi
+Tingvejen 408641 Sorring,ring,825.000,30-09-2009,Fam. Salg,6.395,6,Villa,129,1910,,Aktuel værdi
+Johannes Jensens Vej 438641 Sorring,ring,535.000,15-09-2009,Alm. Salg,7.753,3,Villa,69,1777,-4 %,Aktuel værdi
+Solbærmarken 38641 Sorring,ring,999.500,12-09-2009,Andet,6.663,6,Villa,150,2006,,Aktuel værdi
+Bredsig 208641 Sorring,ring,2.550.000,13-08-2009,Alm. Salg,13.010,6,Villa,196,2007,-3 %,Aktuel værdi
+Hovedgaden 178641 Sorring,ring,1.095.000,30-07-2009,Alm. Salg,11.406,4,Villa,96,1900,-5 %,Aktuel værdi
+Hjejlevej 118641 Sorring,ring,1.945.000,30-07-2009,Alm. Salg,9.628,6,Villa,202,1975,-3 %,Aktuel værdi
+Dallerup Kirkevej 58641 Sorring,ring,1.075.000,14-07-2009,Alm. Salg,13.782,3,Villa,78,1880,-2 %,Aktuel værdi
+Høghgårdsvej 38641 Sorring,ring,1.450.000,09-07-2009,Alm. Salg,8.950,5,Villa,162,1965,-3 %,Aktuel værdi
+Høngevej 398641 Sorring,ring,1.695.000,15-06-2009,Alm. Salg,12.463,4,Stuehus,136,1890,0 %,
+Hjejlevej 268641 Sorring,ring,587.500,01-06-2009,Alm. Salg,2.532,5,Villa,232,2010,,Aktuel værdi
+Silkeborgvej 428641 Sorring,ring,1.500.000,23-03-2009,Alm. Salg,8.823,6,Villa,170,1877,-6 %,Aktuel værdi
+Silkeborgvej 418641 Sorring,ring,1.075.000,11-03-2009,Alm. Salg,10.141,3,Stuehus,106,1907,-23 %,
+Horskildevej 58641 Sorring,ring,1.500.000,08-01-2009,Alm. Salg,9.868,5,Villa,152,2016,-6 %,Aktuel værdi
+Haldgårdsvej 68641 Sorring,ring,1.413.403,15-12-2008,Fam. Salg,9.118,6,Villa,155,2008,-60 %,Aktuel værdi
+Dallerup Kirkevej 608641 Sorring,ring,8.100.000,26-10-2008,Alm. Salg,41.326,6,Stuehus,196,1973,,
+Skolebakken 78641 Sorring,ring,1.898.000,24-09-2008,Alm. Salg,12.569,6,Villa,151,1968,0 %,Aktuel værdi
+Hjejlevej 218641 Sorring,ring,636.097,17-09-2008,Alm. Salg,4.609,5,Villa,138,1975,,Aktuel værdi
+Skolebakken 13B8641 Sorring,ring,2.425.000,18-08-2008,Alm. Salg,15.544,6,Villa,156,2008,1 %,Aktuel værdi
+Hjejlevej 288641 Sorring,ring,2.595.000,09-07-2008,Alm. Salg,17.416,5,Villa,149,2008,0 %,Aktuel værdi
+Solbærmarken 408641 Sorring,ring,2.350.000,07-07-2008,Alm. Salg,16.785,6,Villa,140,2006,-2 %,Aktuel værdi
+Sanddalen 158641 Sorring,ring,875.000,26-06-2008,Alm. Salg,12.500,3,Villa,70,1930,-12 %,Aktuel værdi
+Hovedgaden 498641 Sorring,ring,750.000,11-06-2008,Alm. Salg,8.333,4,Villa,90,1900,,Aktuel værdi
+Hjejlevej 1018641 Sorring,ring,550.000,18-05-2008,Alm. Salg,3.691,6,Villa,149,2011,,Aktuel værdi
+Bangsvej 38641 Sorring,ring,700.000,16-05-2008,Alm. Salg,-,5,Villa,141,1960,,Aktuel værdi
+Klintrupvej 58641 Sorring,ring,1.325.000,29-04-2008,Alm. Salg,8.493,5,Villa,156,1890,,Aktuel værdi
+Bredsig 198641 Sorring,ring,1.141.984,31-03-2008,Alm. Salg,6.639,4,Villa,172,2007,,Aktuel værdi
+Bangsvej 18641 Sorring,ring,1.398.000,13-03-2008,Alm. Salg,15.195,3,Villa,92,1946,0 %,Aktuel værdi
+Terpvej 458641 Sorring,ring,1.275.000,05-03-2008,Fam. Salg,3.717,9,Villa,343,1965,,Aktuel værdi
+Silkeborgvej 538641 Sorring,ring,1.835.000,25-02-2008,Alm. Salg,10.251,4,Villa,179,1877,-1 %,Aktuel værdi
+Høngevej 368641 Sorring,ring,2.950.000,14-02-2008,Alm. Salg,13.594,6,Stuehus,217,1910,-10 %,
+Dallerup Kirkevej 708641 Sorring,ring,1.400.000,15-01-2008,Alm. Salg,11.764,4,Stuehus,119,1976,,
+Klintrupvej 38641 Sorring,ring,1.595.000,19-12-2007,Alm. Salg,12.269,4,Stuehus,130,1854,0 %,
+Mågevej 88641 Sorring,ring,1.850.000,18-12-2007,Alm. Salg,10.882,5,Villa,170,1971,-3 %,Aktuel værdi
+Solbærmarken 68641 Sorring,ring,2.495.000,06-12-2007,Alm. Salg,13.861,5,Villa,180,2007,,Aktuel værdi
+Toustrup Stationsvej 48641 Sorring,ring,1.450.000,12-11-2007,Alm. Salg,10.740,4,Villa,135,1916,,Aktuel værdi
+Dybdalsvej 178641 Sorring,ring,1.700.000,09-11-2007,Fam. Salg,9.444,6,Villa,180,1964,,Aktuel værdi
+Høngevej 28641 Sorring,ring,1.050.000,07-11-2007,Alm. Salg,8.400,4,Villa,125,1972,,Aktuel værdi
+Bredsig 188641 Sorring,ring,2.787.968,16-10-2007,Alm. Salg,17.104,7,Villa,163,2007,,Aktuel værdi
+Johannes Jensens Vej 258641 Sorring,ring,2.760.000,13-09-2007,Fam. Salg,25.794,4,Villa,107,1860,,Aktuel værdi
+Høghgårdsvej 228641 Sorring,ring,2.050.000,13-09-2007,Alm. Salg,15.769,5,Villa,130,1997,,Aktuel værdi
+Ryttervej 118641 Sorring,ring,768.000,11-09-2007,Alm. Salg,9.974,3,Rækkehus,77,1852,,Aktuel værdi
+Dybdalsvej 118641 Sorring,ring,711.878,24-08-2007,Andet,3.727,6,Villa,191,1928,,Aktuel værdi
+Møllebakken 138641 Sorring,ring,1.875.000,16-08-2007,Alm. Salg,13.020,6,Villa,144,1980,,Aktuel værdi
+Sanddalen 138641 Sorring,ring,1.470.000,15-08-2007,Alm. Salg,13.486,5,Villa,109,1986,,Aktuel værdi
+Bredsig 258641 Sorring,ring,550.000,31-07-2007,Alm. Salg,3.503,5,Villa,157,2009,,Aktuel værdi
+Hjejlevej 258641 Sorring,ring,1.498.000,06-07-2007,Alm. Salg,11.795,4,Villa,127,1977,,Aktuel værdi
+Hjejlevej 998641 Sorring,ring,556.000,04-07-2007,Alm. Salg,3.329,6,Villa,167,2011,1 %,Aktuel værdi
+Bredsig 308641 Sorring,ring,439.687,12-06-2007,Alm. Salg,2.007,7,Villa,219,2008,,Aktuel værdi
+Møllebakken 88641 Sorring,ring,950.000,07-06-2007,Alm. Salg,15.322,3,Villa,62,1867,,Aktuel værdi
+Bredsig 268641 Sorring,ring,2.595.000,05-06-2007,Alm. Salg,16.424,6,Villa,158,2007,0 %,Aktuel værdi
+Bredsig 318641 Sorring,ring,2.406.000,31-05-2007,Alm. Salg,16.147,6,Villa,149,2007,-5 %,Aktuel værdi
+Hjejlevej 918641 Sorring,ring,1.425.000,30-05-2007,Alm. Salg,10.961,5,Villa,130,1974,,Aktuel værdi
+Sanddalen 28641 Sorring,ring,956.393,11-05-2007,Andet,6.595,5,Villa,145,2007,,Aktuel værdi
+Ebbesensvej 268641 Sorring,ring,1.660.000,17-04-2007,Alm. Salg,15.370,4,Villa,108,1942,,Aktuel værdi
+Terpvej 478641 Sorring,ring,1.440.000,09-03-2007,Alm. Salg,6.400,6,Villa,225,1900,,Aktuel værdi
+Toustrup Stationsvej 88641 Sorring,ring,2.300.000,06-03-2007,Alm. Salg,12.105,7,Villa,190,2007,,Aktuel værdi
+Møllebakken 58641 Sorring,ring,1.540.000,07-02-2007,Alm. Salg,14.528,5,Villa,106,1945,,Aktuel værdi
+Bredsig 328641 Sorring,ring,2.495.000,29-01-2007,Alm. Salg,16.414,6,Villa,152,2007,0 %,Aktuel værdi
+Bredsig 238641 Sorring,ring,454.687,21-12-2006,Alm. Salg,2.877,6,Villa,158,2007,,Aktuel værdi
+Bredsig 298641 Sorring,ring,519.687,21-12-2006,Alm. Salg,3.289,4,Villa,158,2011,,Aktuel værdi
+Bredsig 348641 Sorring,ring,454.687,21-12-2006,Alm. Salg,2.380,4,Stuehus,191,2011,,
+Bundgårdsvej 88641 Sorring,ring,469.687,21-12-2006,Alm. Salg,2.972,4,Villa,158,2008,,Aktuel værdi
+Bredsig 218641 Sorring,ring,479.687,21-12-2006,Alm. Salg,2.942,6,Villa,163,2012,,Aktuel værdi
+Dybdalsvej 28641 Sorring,ring,825.000,13-11-2006,Alm. Salg,7.783,3,Villa,106,1976,,Aktuel værdi
+Bundgårdsvej 68641 Sorring,ring,519.687,24-10-2006,Alm. Salg,2.887,6,Villa,180,2007,,Aktuel værdi
+Solbærmarken 298641 Sorring,ring,355.892,09-10-2006,Alm. Salg,2.655,5,Villa,134,2008,,Aktuel værdi
+Silkeborgvej 108641 Sorring,ring,750.000,30-09-2006,Andet,5.281,4,Villa,142,1966,,Aktuel værdi
+Hovedgaden 58641 Sorring,ring,1.550.000,12-09-2006,Alm. Salg,8.959,7,Villa,173,1910,,Aktuel værdi
+Silkeborgvej 288641 Sorring,ring,569.500,08-09-2006,Fam. Salg,7.493,3,Villa,76,1950,,Aktuel værdi
+Herredsvejen 348641 Sorring,ring,1.845.000,16-08-2006,Alm. Salg,14.414,4,Villa,128,1977,,Aktuel værdi
+Johannes Jensens Vej 758641 Sorring,ring,1.300.000,14-07-2006,Alm. Salg,8.609,5,Villa,151,1939,,Aktuel værdi
+Johannes Jensens Vej 458641 Sorring,ring,850.000,29-05-2006,Fam. Salg,5.312,5,Villa,160,1827,,Aktuel værdi
+Solbærmarken 228641 Sorring,ring,2.410.000,23-05-2006,Alm. Salg,16.174,6,Villa,149,2001,,Aktuel værdi
+Bredsig 58641 Sorring,ring,600.000,22-05-2006,Alm. Salg,3.797,6,Villa,158,2007,,Aktuel værdi
+Bredsig 108641 Sorring,ring,2.350.000,04-05-2006,Alm. Salg,15.460,6,Villa,152,2006,,Aktuel værdi
+Bredsig 128641 Sorring,ring,345.000,30-03-2006,Alm. Salg,2.536,6,Villa,136,2007,,Aktuel værdi
+Haldgårdsvej 88641 Sorring,ring,590.000,16-03-2006,Alm. Salg,2.731,5,Villa,216,2009,,Aktuel værdi
+Haldgårdsvej 48641 Sorring,ring,440.000,16-03-2006,Alm. Salg,1.760,7,Villa,250,2007,,Aktuel værdi
+Haldgårdsvej 28641 Sorring,ring,400.000,16-03-2006,Alm. Salg,2.666,6,Villa,150,2012,,Aktuel værdi
+Bredsig 18641 Sorring,ring,2.537.500,14-03-2006,Alm. Salg,16.584,5,Villa,153,2006,,Aktuel værdi
+Sanddalen 128641 Sorring,ring,550.000,02-03-2006,Alm. Salg,2.644,7,Villa,208,2007,,Aktuel værdi
+Ebbesensvej 148641 Sorring,ring,1.375.000,02-03-2006,Alm. Salg,10.496,6,Villa,131,1920,,Aktuel værdi
+Bredsig 68641 Sorring,ring,305.000,27-02-2006,Alm. Salg,1.763,4,Villa,173,2007,,Aktuel værdi
+Haldgårdsvej 108641 Sorring,ring,550.000,21-02-2006,Alm. Salg,3.089,6,Villa,178,2006,,Aktuel værdi
+Haldgårdsvej 118641 Sorring,ring,672.000,21-02-2006,Alm. Salg,2.666,7,Villa,252,2007,,Aktuel værdi
+Bredsig 138641 Sorring,ring,310.000,02-02-2006,Alm. Salg,2.026,6,Villa,153,2009,,Aktuel værdi
+Møllebakken 98641 Sorring,ring,1.650.000,26-01-2006,Alm. Salg,8.870,5,Villa,186,1884,,Aktuel værdi
+Bredsig 228641 Sorring,ring,290.000,20-01-2006,Alm. Salg,1.400,7,Villa,207,2007,,Aktuel værdi
+Bredsig 48641 Sorring,ring,290.000,13-12-2005,Alm. Salg,1.847,6,Villa,157,2007,,Aktuel værdi
+Bredsig 148641 Sorring,ring,365.000,02-12-2005,Alm. Salg,2.385,6,Villa,153,2007,,Aktuel værdi
+Hovedgaden 518641 Sorring,ring,795.000,07-11-2005,Alm. Salg,5.719,6,Villa,139,1909,,Aktuel værdi
+Bangsvej 78641 Sorring,ring,1.520.000,04-11-2005,Alm. Salg,10.857,5,Villa,140,1962,,Aktuel værdi
+Høghgårdsvej 168641 Sorring,ring,2.215.000,04-11-2005,Alm. Salg,13.588,6,Villa,163,1998,,Aktuel værdi
+Mågevej 108641 Sorring,ring,600.000,27-10-2005,Alm. Salg,-,6,Villa,135,1970,,Aktuel værdi
+Bredsig 118641 Sorring,ring,385.000,24-10-2005,Alm. Salg,2.655,6,Villa,145,2007,,Aktuel værdi
+Silkeborgvej 12B8641 Sorring,ring,1.000.000,17-10-2005,Alm. Salg,-,4,Lejlighed,97,1947,,Aktuel værdi
+Bredsig 158641 Sorring,ring,305.000,15-10-2005,Alm. Salg,2.019,6,Villa,151,2006,,Aktuel værdi
+Johannes Jensens Vej 628641 Sorring,ring,1.453.500,10-10-2005,Alm. Salg,6.921,4,Villa,210,1904,,Aktuel værdi
+Høngevej 418641 Sorring,ring,1.650.000,03-10-2005,Alm. Salg,5.500,8,Villa,300,1877,,Aktuel værdi
+Bredsig 38641 Sorring,ring,335.000,30-09-2005,Alm. Salg,2.042,6,Villa,164,2007,,Aktuel værdi
+Hjejlevej 358641 Sorring,ring,1.285.000,30-09-2005,Alm. Salg,9.734,4,Villa,132,1977,,Aktuel værdi
+Solbærmarken 378641 Sorring,ring,466.480,23-09-2005,Alm. Salg,2.332,6,Villa,200,2007,,Aktuel værdi
+Sanddalen 88641 Sorring,ring,425.000,04-08-2005,Alm. Salg,2.485,5,Villa,171,2008,,Aktuel værdi
+Ebbesensvej 18641 Sorring,ring,1.100.000,25-07-2005,Alm. Salg,-,5,Villa,155,1963,,Aktuel værdi
+Bredsig 98641 Sorring,ring,360.000,24-07-2005,Alm. Salg,2.500,5,Villa,144,2006,,Aktuel værdi
+Bredsigbakke 58641 Sorring,ring,237.500,18-07-2005,Alm. Salg,1.334,6,Villa,178,2006,,Aktuel værdi
+Solbærmarken 58641 Sorring,ring,200.000,07-07-2005,Alm. Salg,1.369,6,Villa,146,2006,,Aktuel værdi
+Sanddalen 48641 Sorring,ring,125.000,29-06-2005,Fam. Salg,744,6,Villa,168,2005,,Aktuel værdi
+Bredsig 78641 Sorring,ring,375.000,25-06-2005,Alm. Salg,2.300,5,Villa,163,2008,,Aktuel værdi
+Hovedgaden 588641 Sorring,ring,4.500.000,14-06-2005,Alm. Salg,20.270,8,Stuehus,222,1880,,
+Ebbesensvej 188641 Sorring,ring,750.000,08-06-2005,Fam. Salg,6.198,4,Villa,121,1960,,Aktuel værdi
+Solbærmarken 468641 Sorring,ring,184.400,25-05-2005,Alm. Salg,1.189,7,Villa,155,2006,,Aktuel værdi
+Drosselvej 78641 Sorring,ring,1.300.000,23-05-2005,Alm. Salg,7.831,6,Villa,166,1969,,Aktuel værdi
+Jordbærvej 608641 Sorring,ring,1.948.000,23-05-2005,Alm. Salg,8.506,6,Villa,229,1897,,Aktuel værdi
+Ebbesensvej 18B8641 Sorring,ring,270.000,15-05-2005,Alm. Salg,-,5,Villa,165,1914,,Aktuel værdi
+Solbærmarken 328641 Sorring,ring,185.600,10-05-2005,Alm. Salg,1.354,5,Villa,137,2006,,Aktuel værdi
+Vibevej 18641 Sorring,ring,1.295.000,26-04-2005,Alm. Salg,9.664,5,Villa,134,1969,,Aktuel værdi
+Johannes Jensens Vej 238641 Sorring,ring,895.000,20-04-2005,Alm. Salg,6.215,4,Villa,144,1877,,Aktuel værdi
+Silkeborgvej 148641 Sorring,ring,1.698.000,18-04-2005,Alm. Salg,9.988,6,Villa,170,1932,,Aktuel værdi
+Møllebakken 258641 Sorring,ring,1.145.000,06-04-2005,Alm. Salg,7.111,7,Villa,161,1979,,Aktuel værdi
+Herredsvejen 318641 Sorring,ring,500.000,31-03-2005,Fam. Salg,2.747,9,Villa,182,1900,,Aktuel værdi
+Silkeborgvej 188641 Sorring,ring,437.500,17-03-2005,Alm. Salg,3.417,5,Villa,128,1936,,Aktuel værdi
+Hjejlevej 208641 Sorring,ring,926.121,17-03-2005,Alm. Salg,3.589,7,Villa,258,1975,,Aktuel værdi
+Bangsvej 98641 Sorring,ring,990.000,15-03-2005,Alm. Salg,7.615,3,Villa,130,1980,,Aktuel værdi
+Herredsvejen 248641 Sorring,ring,826.166,10-03-2005,Alm. Salg,4.215,6,Villa,196,1900,,Aktuel værdi
+Sanddalen 78641 Sorring,ring,525.000,19-01-2005,Alm. Salg,4.338,4,Villa,121,1951,,Aktuel værdi
+Solbærmarken 388641 Sorring,ring,185.600,16-01-2005,Alm. Salg,1.008,5,Villa,184,2007,,Aktuel værdi
+Solbærmarken 428641 Sorring,ring,185.600,12-01-2005,Alm. Salg,923,6,Villa,201,2007,,Aktuel værdi
+Horskildevej 98641 Sorring,ring,2.060.000,05-01-2005,Alm. Salg,8.078,8,Villa,255,1972,,Aktuel værdi
+Bredsigbakke 18641 Sorring,ring,160.000,16-12-2004,Alm. Salg,1.019,7,Villa,157,2005,,Aktuel værdi
+Sanddalen 148641 Sorring,ring,260.000,10-11-2004,Alm. Salg,1.420,6,Villa,183,2005,,Aktuel værdi
+Ebbesensvej 278641 Sorring,ring,820.000,09-11-2004,Alm. Salg,10.649,3,Villa,77,1962,,Aktuel værdi
+Bredsigbakke 118641 Sorring,ring,263.250,03-10-2004,Alm. Salg,1.290,7,Villa,204,2005,,Aktuel værdi
+Klintrup Hedevej 1408641 Sorring,ring,202.000,25-08-2004,Alm. Salg,645,10,Stuehus,313,1922,,
+Horskildevej 118641 Sorring,ring,1.055.000,10-08-2004,Alm. Salg,13.187,3,Stuehus,80,1900,,
+Møllebakken 108641 Sorring,ring,750.000,27-07-2004,Alm. Salg,4.310,5,Villa,174,1930,,Aktuel værdi
+Møllebakken 148641 Sorring,ring,1.249.000,23-07-2004,Alm. Salg,9.682,5,Villa,129,1912,,Aktuel værdi
+Sanddalen 68641 Sorring,ring,240.000,23-07-2004,Alm. Salg,1.250,5,Villa,192,2009,,Aktuel værdi
+Sanddalen 168641 Sorring,ring,260.000,12-07-2004,Alm. Salg,1.420,7,Villa,183,2007,,Aktuel værdi
+Bredsigbakke 178641 Sorring,ring,299.000,29-06-2004,Alm. Salg,-,8,Villa,201,2005,,Aktuel værdi
+Hovedgaden 68641 Sorring,ring,1.400.000,03-06-2004,Fam. Salg,9.790,6,Villa,143,2004,,Aktuel værdi
+Ryttervej 98641 Sorring,ring,849.000,28-05-2004,Alm. Salg,6.335,6,Villa,134,1827,,Aktuel værdi
+Johannes Jensens Vej 158641 Sorring,ring,1.175.000,27-05-2004,Alm. Salg,6.317,4,Villa,186,1875,,Aktuel værdi
+Herredsvejen 298641 Sorring,ring,1.980.000,16-04-2004,Alm. Salg,16.229,4,Stuehus,122,1938,,
+Solbærmarken 308641 Sorring,ring,185.600,20-03-2004,Alm. Salg,1.160,6,Villa,160,2004,,Aktuel værdi
+Bredsigbakke 78641 Sorring,ring,246.180,02-03-2004,Alm. Salg,1.893,5,Villa,130,2005,,Aktuel værdi
+Dallerup Kirkevej 658641 Sorring,ring,300.000,22-02-2004,Alm. Salg,1.666,5,Stuehus,180,2006,,
+Solbærmarken 348641 Sorring,ring,185.600,20-02-2004,Alm. Salg,1.025,6,Villa,181,2005,,Aktuel værdi
+Møllebakken 128641 Sorring,ring,860.000,16-01-2004,Alm. Salg,-,7,Villa,150,1877,,Aktuel værdi
+Hjejlevej 498641 Sorring,ring,912.500,12-01-2004,Alm. Salg,6.709,5,Villa,136,1975,,Aktuel værdi
+Dallerup Kirkevej 358641 Sorring,ring,110.000,11-01-2004,Auktion,1.666,2,Villa,66,1850,,Aktuel værdi
+Johannes Jensens Vej 308641 Sorring,ring,555.000,13-12-2003,Alm. Salg,3.189,6,Villa,174,1870,,Aktuel værdi
+Klintrup Hedevej 1208641 Sorring,ring,2.125.000,26-11-2003,Alm. Salg,-,7,Stuehus,231,1915,,
+Bredsigbakke 158641 Sorring,ring,223.550,24-11-2003,Alm. Salg,1.064,5,Villa,210,2004,,Aktuel værdi
+Møllebakken 378641 Sorring,ring,1.250.000,01-10-2003,Alm. Salg,6.648,7,Villa,188,2005,,Aktuel værdi
+Ryttervej 78641 Sorring,ring,899.000,24-09-2003,Alm. Salg,6.514,5,Villa,138,1854,,Aktuel værdi
+Drosselvej 38641 Sorring,ring,620.500,03-09-2003,Alm. Salg,5.491,4,Villa,113,1968,,Aktuel værdi
+Bredsigbakke 38641 Sorring,ring,160.000,01-08-2003,Alm. Salg,1.684,3,Villa,95,2004,,Aktuel værdi
+Bredsigbakke 138641 Sorring,ring,240.000,24-07-2003,Alm. Salg,960,8,Villa,250,2004,,Aktuel værdi
+Bredsigbakke 198641 Sorring,ring,245.000,31-05-2003,Alm. Salg,1.644,5,Villa,149,2004,,Aktuel værdi
+Dybdalsvej 88641 Sorring,ring,550.000,07-05-2003,Alm. Salg,4.435,4,Villa,124,1880,,Aktuel værdi
+Solbærmarken 78641 Sorring,ring,201.400,09-04-2003,Alm. Salg,1.325,5,Villa,152,2004,,Aktuel værdi
+Silkeborgvej 468641 Sorring,ring,336.000,17-03-2003,Alm. Salg,2.645,6,Stuehus,127,1864,,
+Sanddalen 18641 Sorring,ring,673.000,24-02-2003,Alm. Salg,-,6,Villa,160,1948,,Aktuel værdi
+Hjejlevej 178641 Sorring,ring,1.175.000,14-12-2002,Alm. Salg,5.788,6,Villa,203,1975,,Aktuel værdi
+Hovedgaden 338641 Sorring,ring,1.235.000,25-11-2002,Alm. Salg,6.569,7,Villa,188,1923,,Aktuel værdi
+Hovedgaden 288641 Sorring,ring,728.000,07-11-2002,Alm. Salg,4.952,6,Villa,147,1900,,Aktuel værdi
+Dallerup Kirkevej 38641 Sorring,ring,1.335.000,28-09-2002,Alm. Salg,9.673,6,Villa,138,1907,,Aktuel værdi
+Hjejlevej 778641 Sorring,ring,1.025.000,11-09-2002,Alm. Salg,6.250,5,Villa,164,1974,,Aktuel værdi
+Dybdalsvej 4B8641 Sorring,ring,615.000,23-07-2002,Alm. Salg,7.884,3,Rækkehus,78,1985,,Aktuel værdi
+Hovedgaden 198641 Sorring,ring,830.000,13-07-2002,Alm. Salg,6.287,6,Villa,132,1920,,Aktuel værdi
+Skanderborgvej 2908641 Sorring,ring,1.890.000,17-06-2002,Alm. Salg,6.385,8,Stuehus,296,1974,,
+Silkeborgvej 28641 Sorring,ring,800.000,30-05-2002,Alm. Salg,4.733,9,Villa,169,1900,,Aktuel værdi
+Johannes Jensens Vej 648641 Sorring,ring,1.440.000,17-05-2002,Alm. Salg,6.990,5,Villa,206,1919,,Aktuel værdi
+Hovedgaden 558641 Sorring,ring,75.000,06-05-2002,Alm. Salg,-,9,Stuehus,227,1928,,
+Terpvej 68641 Sorring,ring,527.000,03-05-2002,Alm. Salg,4.182,4,Villa,126,1930,,Aktuel værdi
+Sanddalen 98641 Sorring,ring,775.000,11-04-2002,Alm. Salg,8.516,4,Villa,91,1949,,Aktuel værdi
+Hovedgaden 328641 Sorring,ring,770.000,15-01-2002,Alm. Salg,3.928,9,Villa,196,1904,,Aktuel værdi
+Skolebakken 58641 Sorring,ring,750.000,30-11-2001,Alm. Salg,7.352,4,Villa,102,1964,,Aktuel værdi
+Møllebakken 338641 Sorring,ring,224.408,29-10-2001,Alm. Salg,1.320,5,Stuehus,170,1917,,
+Klintrupvej 158641 Sorring,ring,1.722.074,18-09-2001,Alm. Salg,-,7,Stuehus,235,1979,,
+Ebbesensvej 228641 Sorring,ring,210.000,30-06-2001,Alm. Salg,1.779,4,Villa,118,2003,,Aktuel værdi
+Silkeborgvej 68641 Sorring,ring,1.088.000,28-06-2001,Alm. Salg,7.661,4,Villa,142,1930,,Aktuel værdi
+Silkeborgvej 248641 Sorring,ring,630.000,21-05-2001,Alm. Salg,5.526,3,Villa,114,1950,,Aktuel værdi
+Hovedgaden 248641 Sorring,ring,650.000,06-04-2001,Alm. Salg,4.887,4,Villa,133,1880,,Aktuel værdi
+Terpvej 498641 Sorring,ring,900.000,23-02-2001,Alm. Salg,7.758,3,Stuehus,116,1903,,
+Hjejlevej 718641 Sorring,ring,504.000,21-02-2001,Alm. Salg,2.847,8,Villa,177,1976,,Aktuel værdi
+Høngevej 338641 Sorring,ring,1.325.000,08-02-2001,Alm. Salg,-,7,Villa,223,1900,,Aktuel værdi
+Johannes Jensens Vej 218641 Sorring,ring,771.720,14-01-2001,Alm. Salg,5.982,5,Villa,129,1907,,Aktuel værdi
+Mågevej 128641 Sorring,ring,1.020.000,16-12-2000,Alm. Salg,5.204,5,Villa,196,1980,,Aktuel værdi
+Hjejlevej 858641 Sorring,ring,898.000,01-12-2000,Fam. Salg,-,5,Villa,231,1978,,Aktuel værdi
+Johannes Jensens Vej 608641 Sorring,ring,631.040,19-09-2000,Alm. Salg,4.322,4,Villa,146,1930,,Aktuel værdi
+Hjejlevej 638641 Sorring,ring,1.294.267,30-06-2000,Alm. Salg,8.571,6,Villa,151,1977,,Aktuel værdi
+Hjejlevej 338641 Sorring,ring,698.000,29-06-2000,Alm. Salg,5.021,5,Villa,139,1977,,Aktuel værdi
+Horskildevej 128641 Sorring,ring,1.600.509,26-04-2000,Alm. Salg,11.855,4,Villa,135,1807,,Aktuel værdi
+Dybdalsvej 508641 Sorring,ring,1.339.000,15-04-2000,Alm. Salg,8.926,6,Stuehus,150,1900,,
+Dybdalsvej 68641 Sorring,ring,1.038.870,23-03-2000,Alm. Salg,6.492,7,Villa,160,1910,,Aktuel værdi
+Klintrupvej 68641 Sorring,ring,590.000,23-12-1999,Alm. Salg,-,6,Villa,225,1928,,Aktuel værdi
+Solbærmarken 48641 Sorring,ring,143.700,26-11-1999,Alm. Salg,958,6,Villa,150,2001,,Aktuel værdi
+Drosselvej 128641 Sorring,ring,1.085.000,27-10-1999,Alm. Salg,7.138,6,Villa,152,1972,,Aktuel værdi
+Svinget 48641 Sorring,ring,904.178,25-10-1999,Alm. Salg,6.150,4,Villa,147,1989,,Aktuel værdi
+Johannes Jensens Vej 448641 Sorring,ring,1.784.400,21-10-1999,Alm. Salg,9.913,6,Stuehus,180,1848,,
+Silkeborgvej 568641 Sorring,ring,176.808,13-10-1999,Alm. Salg,718,9,Stuehus,246,2006,,
+Høngevej 378641 Sorring,ring,82.747,07-10-1999,Alm. Salg,464,9,Stuehus,178,1920,,
+Høngevej 298641 Sorring,ring,82.743,07-10-1999,Alm. Salg,-,7,Stuehus,224,1999,,
+Skanderborgvej 2928641 Sorring,ring,68.100,07-09-1999,Alm. Salg,376,6,Villa,181,2007,,Aktuel værdi
+Hjejlevej 598641 Sorring,ring,957.848,21-08-1999,Alm. Salg,6.841,4,Villa,140,1974,,Aktuel værdi
+Dybdalsvej 348641 Sorring,ring,500.000,10-08-1999,Alm. Salg,-,9,Villa,240,1920,,Aktuel værdi
+Hovedgaden 408641 Sorring,ring,510.000,21-07-1999,Alm. Salg,4.180,6,Villa,122,1888,,Aktuel værdi
+Ebbesensvej 128641 Sorring,ring,574.810,23-06-1999,Alm. Salg,5.635,4,Villa,102,1953,,Aktuel værdi
+Dybdalsvej 358641 Sorring,ring,547.968,14-06-1999,Andet,2.302,7,Stuehus,238,1920,,
+Terpvej 428641 Sorring,ring,1.400.000,04-06-1999,Alm. Salg,7.526,7,Stuehus,186,1965,,
+Sanddalen 208641 Sorring,ring,3.000.000,20-05-1999,Alm. Salg,-,7,Stuehus,272,1911,,
+Hjejlevej 78641 Sorring,ring,745.000,04-05-1999,Alm. Salg,6.106,4,Villa,122,1975,,Aktuel værdi
+Møllebakken 158641 Sorring,ring,1.129.413,19-04-1999,Alm. Salg,7.735,5,Villa,146,1979,,Aktuel værdi
+Ryttervej 148641 Sorring,ring,1.777.000,26-03-1999,Alm. Salg,8.226,8,Villa,216,1882,,Aktuel værdi
+Silkeborgvej 548641 Sorring,ring,433.500,25-02-1999,Fam. Salg,2.833,5,Villa,153,1900,,Aktuel værdi
+Høghgårdsvej 338641 Sorring,ring,54.800,15-12-1998,Alm. Salg,375,5,Villa,146,2000,,Aktuel værdi
+Johannes Jensens Vej 578641 Sorring,ring,2.001.000,14-12-1998,Alm. Salg,10.531,7,Villa,190,1850,,Aktuel værdi
+Drosselvej 138641 Sorring,ring,516.500,26-11-1998,Alm. Salg,-,4,Villa,88,1969,,Aktuel værdi
+Dallerupvej 508641 Sorring,ring,1.113.053,21-10-1998,Alm. Salg,-,5,Villa,147,1963,,Aktuel værdi
+Drosselvej 158641 Sorring,ring,793.000,04-08-1998,Alm. Salg,6.777,3,Villa,117,1971,,Aktuel værdi
+Tingvejen 388641 Sorring,ring,625.000,08-07-1998,Fam. Salg,-,3,Villa,145,1938,,Aktuel værdi
+Dybdalsvej 148641 Sorring,ring,616.700,03-07-1998,Alm. Salg,5.506,4,Villa,112,1906,,Aktuel værdi
+Ryttervej 128641 Sorring,ring,659.123,16-06-1998,Alm. Salg,5.189,6,Villa,127,1877,,Aktuel værdi
+Klintrupvej 118641 Sorring,ring,940.691,15-06-1998,Alm. Salg,5.140,7,Villa,183,1920,,Aktuel værdi
+Høghgårdsvej 78641 Sorring,ring,110.000,25-05-1998,Alm. Salg,670,6,Villa,164,1999,,Aktuel værdi
+Høngevej 348641 Sorring,ring,608.731,17-12-1997,Alm. Salg,4.475,4,Stuehus,136,1777,,
+Svinget 68641 Sorring,ring,308.000,31-10-1997,Alm. Salg,5.403,2,Villa,57,1900,,Aktuel værdi
+Hjejlevej 398641 Sorring,ring,797.925,20-10-1997,Alm. Salg,-,8,Villa,254,1973,,Aktuel værdi
+Johannes Jensens Vej 418641 Sorring,ring,670.858,13-10-1997,Alm. Salg,-,5,Villa,130,1777,,Aktuel værdi
+Møllebakken 228641 Sorring,ring,164.183,09-07-1997,Fam. Salg,1.234,5,Villa,133,1908,,Aktuel værdi
+Skolebakken 18641 Sorring,ring,990.674,03-07-1997,Alm. Salg,5.133,8,Villa,193,1983,,Aktuel værdi
+Dallerupvej 458641 Sorring,ring,1.700.005,23-06-1997,Fam. Salg,7.555,6,Stuehus,225,2005,,
+Høghgårdsvej 318641 Sorring,ring,66.900,19-06-1997,Alm. Salg,491,6,Villa,136,1997,,Aktuel værdi
+Dallerupvej 108641 Sorring,ring,829.000,10-06-1997,Alm. Salg,4.145,5,Villa,200,1910,,Aktuel værdi
+Skolebakken 3A8641 Sorring,ring,1.012.000,04-06-1997,Alm. Salg,3.892,8,Villa,260,1950,,Aktuel værdi
+Høghgårdsvej 208641 Sorring,ring,1.087.000,14-05-1997,Alm. Salg,8.909,5,Villa,122,1997,,Aktuel værdi
+Hjejlevej 168641 Sorring,ring,924.223,08-04-1997,Alm. Salg,6.202,5,Villa,149,1975,,Aktuel værdi
+Johannes Jensens Vej 168641 Sorring,ring,1.200.000,13-12-1996,Alm. Salg,3.883,9,Stuehus,309,1875,,
+Ebbesensvej 248641 Sorring,ring,957.000,02-12-1996,Alm. Salg,5.117,6,Villa,187,1979,,Aktuel værdi
+Johannes Jensens Vej 428641 Sorring,ring,1.260.000,18-11-1996,Alm. Salg,-,7,Villa,288,1850,,Aktuel værdi
+Hjejlevej 278641 Sorring,ring,563.000,24-10-1996,Alm. Salg,4.398,4,Villa,128,1978,,Aktuel værdi
+Svinget 58641 Sorring,ring,1.250.000,19-09-1996,Alm. Salg,-,7,Stuehus,239,1906,,
+Silkeborgvej 508641 Sorring,ring,5.317.000,29-08-1996,Alm. Salg,23.218,9,Stuehus,229,1908,,
+Ryttervej 188641 Sorring,ring,130.000,08-08-1996,Alm. Salg,-,4,Rækkehus,87,1802,,Aktuel værdi
+Hjejlevej 318641 Sorring,ring,580.000,04-05-1996,Alm. Salg,-,5,Villa,161,1974,,Aktuel værdi
+Møllebakken 208641 Sorring,ring,619.000,09-02-1996,Fam. Salg,3.578,5,Villa,173,1930,,Aktuel værdi
+Hjejlevej 478641 Sorring,ring,626.000,27-11-1995,Alm. Salg,5.131,4,Villa,122,1977,,Aktuel værdi
+Klintrupvej 88641 Sorring,ring,1.200.000,13-11-1995,Alm. Salg,-,5,Stuehus,177,1914,,
+Drosselvej 108641 Sorring,ring,462.500,10-08-1995,Alm. Salg,-,6,Villa,149,1967,,Aktuel værdi
+Herredsvejen 228641 Sorring,ring,1.200.000,25-07-1995,Alm. Salg,5.333,6,Villa,225,1900,,Aktuel værdi
+Dallerup Kirkevej 558641 Sorring,ring,700.000,14-07-1995,Alm. Salg,3.211,8,Stuehus,218,1997,,
+Hjejlevej 58641 Sorring,ring,540.000,01-03-1995,Alm. Salg,4.320,4,Villa,125,1975,,Aktuel værdi
+Hjejlevej 28641 Sorring,ring,301.000,17-02-1995,Alm. Salg,3.762,3,Villa,80,1900,,Aktuel værdi
+Ryttervej 168641 Sorring,ring,102.000,14-02-1995,Alm. Salg,1.961,2,Rækkehus,52,1800,,Aktuel værdi
+Høngevej 158641 Sorring,ring,1.298.298,11-12-1994,Alm. Salg,7.133,5,Stuehus,182,1978,,
+Hovedgaden 318641 Sorring,ring,458.000,18-11-1994,Alm. Salg,2.245,7,Villa,204,1922,,Aktuel værdi
+Terpvej 448641 Sorring,ring,725.000,27-06-1994,Alm. Salg,-,4,Villa,212,1840,,Aktuel værdi
+Johannes Jensens Vej 508641 Sorring,ring,250.000,22-06-1994,Alm. Salg,-,8,Villa,221,1847,,Aktuel værdi
+Hjejlevej 188641 Sorring,ring,999.000,26-04-1994,Alm. Salg,5.519,7,Villa,181,1975,,Aktuel værdi
+Ebbesensvej 68641 Sorring,ring,310.000,25-02-1994,Alm. Salg,3.734,3,Villa,83,1964,,Aktuel værdi
+Ryttervej 68641 Sorring,ring,552.500,30-11-1993,Alm. Salg,-,6,Villa,155,1920,,Aktuel værdi
+Silkeborgvej 228641 Sorring,ring,250.000,28-01-1993,Alm. Salg,3.472,3,Villa,72,1954,,Aktuel værdi
+Hovedgaden 998641 Sorring,ring,739.000,30-09-1992,Alm. Salg,3.185,8,Villa,232,1907,,Aktuel værdi
+Høngevej 308641 Sorring,ring,870.000,29-09-1992,Alm. Salg,-,6,Stuehus,188,1930,,
+Tingvejen 398641 Sorring,ring,54.000,31-01-1992,Fam. Salg,-,9,Villa,299,1926,,Aktuel værdi
+Klintrupvej 48641 Sorring,ring,770.000,04-01-1992,Alm. Salg,-,8,Villa,229,1922,,Aktuel værdi

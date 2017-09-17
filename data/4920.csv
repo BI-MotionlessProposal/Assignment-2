@@ -1,0 +1,742 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Højskolevej 584920 Søllested,sted,562.000,19-04-2017,Fam. Salg,3.122,5,Villa,180,1969,,Aktuel værdi
+Skodsebøllevej 74920 Søllested,sted,50.000,11-04-2017,Alm. Salg,373,4,Villa,134,1910,,Aktuel værdi
+Volshave Skovvej 14920 Søllested,sted,573.050,22-03-2017,Alm. Salg,4.548,4,Villa,126,1941,,Aktuel værdi
+Skovlængevej 404920 Søllested,sted,586.200,15-03-2017,Alm. Salg,8.141,3,Villa,72,1777,139 %,Aktuel værdi
+Hovedgaden 334920 Søllested,sted,370.800,01-03-2017,Andet,2.439,4,Villa,152,1932,,Aktuel værdi
+Bjerreskovvej 114920 Søllested,sted,15.000,27-02-2017,Alm. Salg,137,4,Villa,109,1910,,Aktuel værdi
+Skovlængevej 334920 Søllested,sted,200.000,07-01-2017,Alm. Salg,1.333,5,Villa,150,1915,,Aktuel værdi
+Abedvej 384920 Søllested,sted,110.000,13-12-2016,Alm. Salg,1.145,2,Villa,96,1850,,Aktuel værdi
+Almindevej 374920 Søllested,sted,2.700.000,12-12-2016,Alm. Salg,9.854,8,Stuehus,274,1928,,
+Skovlængevej 244920 Søllested,sted,130.500,30-11-2016,Auktion,973,5,Villa,134,1875,-72 %,Aktuel værdi
+Lavendelvej 264920 Søllested,sted,850.000,26-10-2016,Alm. Salg,5.862,5,Villa,145,1973,,Aktuel værdi
+Hovedgaden 124920 Søllested,sted,105.000,25-10-2016,Alm. Salg,820,4,Villa,128,1910,,Aktuel værdi
+Frisenlundvej 74920 Søllested,sted,875.000,02-10-2016,Alm. Salg,2.521,9,Villa,347,1857,-10 %,Aktuel værdi
+Løjetvej 184920 Søllested,sted,225.000,01-10-2016,Fam. Salg,1.480,4,Villa,152,1945,,Aktuel værdi
+Vestervej 194920 Søllested,sted,454.300,28-09-2016,Auktion,2.875,6,Villa,158,1962,,Aktuel værdi
+Kaj Munks Vej 94920 Søllested,sted,375.000,19-09-2016,Alm. Salg,3.409,4,Sommerhus,110,1777,3 %,Aktuel værdi
+Højreby Husevej 34920 Søllested,sted,130.000,14-09-2016,Alm. Salg,1.340,3,Villa,97,1935,0 %,Aktuel værdi
+Hovedgaden 714920 Søllested,sted,200.000,14-09-2016,Alm. Salg,2.020,3,Villa,99,1912,-18 %,Aktuel værdi
+Troelsebyvej 24920 Søllested,sted,395.000,16-08-2016,Alm. Salg,2.633,5,Villa,150,1827,-7 %,Aktuel værdi
+Volshave Skovvej 34920 Søllested,sted,57.637.600,20-07-2016,Andet,198.067,7,Stuehus,291,1912,,
+Troelsebyvej 454920 Søllested,sted,2.100.000,12-07-2016,Alm. Salg,5.250,7,Stuehus,400,1862,,
+Almindevej 224920 Søllested,sted,110.000,29-06-2016,Alm. Salg,674,5,Villa,163,1925,,Aktuel værdi
+Bellisvej 44920 Søllested,sted,500.000,27-06-2016,Alm. Salg,3.086,6,Villa,162,1972,,Aktuel værdi
+Ryde Kirkevej 94920 Søllested,sted,130.000,24-06-2016,Alm. Salg,1.857,3,Villa,70,1935,-10 %,Aktuel værdi
+Abedvej 54920 Søllested,sted,276.250,21-06-2016,Fam. Salg,2.031,4,Villa,136,1915,,Aktuel værdi
+Simonshovedvej 84920 Søllested,sted,42.183,21-06-2016,Fam. Salg,421,3,Villa,100,1930,,Aktuel værdi
+Vestervej 134920 Søllested,sted,595.000,20-06-2016,Alm. Salg,4.576,5,Villa,130,1963,-14 %,Aktuel værdi
+Strædet 64920 Søllested,sted,6.955.000,06-06-2016,Alm. Salg,49.678,4,Stuehus,140,1900,,
+Abedvej 354920 Søllested,sted,695.000,27-05-2016,Alm. Salg,3.309,7,Villa,210,1929,0 %,Aktuel værdi
+Højskolevej 324920 Søllested,sted,200.000,26-05-2016,Alm. Salg,1.834,3,Villa,109,1937,-25 %,Aktuel værdi
+Bækkevej 44920 Søllested,sted,350.000,25-05-2016,Alm. Salg,2.592,5,Villa,135,1961,1 %,Aktuel værdi
+Skodsebøllevej 64920 Søllested,sted,175.000,24-05-2016,Alm. Salg,2.011,4,Villa,87,1902,-10 %,Aktuel værdi
+Højrebyvej 564920 Søllested,sted,564.625,03-05-2016,Alm. Salg,2.075,7,Stuehus,272,1913,,
+Bjerreskovvej 154920 Søllested,sted,15.000,13-04-2016,Alm. Salg,127,5,Sommerhus,118,1897,,Aktuel værdi
+Hovedgaden 64920 Søllested,sted,620.000,07-04-2016,Andet,5.794,3,Villa,107,1877,,Aktuel værdi
+Korterupvej 204920 Søllested,sted,500.000,03-04-2016,Alm. Salg,2.439,6,Stuehus,205,1958,,
+Højrebygade 114920 Søllested,sted,350.000,31-03-2016,Alm. Salg,1.944,7,Villa,180,1919,,Aktuel værdi
+Jernbanegade 54920 Søllested,sted,640.000,25-03-2016,Alm. Salg,3.076,6,Villa,208,1916,-8 %,Aktuel værdi
+Abed Smedevej 74920 Søllested,sted,135.000,10-02-2016,Alm. Salg,1.588,4,Sommerhus,85,1900,-23 %,Aktuel værdi
+Troelsebyvej 504920 Søllested,sted,225.000,09-02-2016,Alm. Salg,1.339,5,Villa,168,1863,-55 %,Aktuel værdi
+Skovlængevej 24920 Søllested,sted,265.000,02-02-2016,Alm. Salg,1.625,3,Villa,163,1946,,Aktuel værdi
+Hovedgaden 43A4920 Søllested,sted,300.000,18-01-2016,Alm. Salg,2.500,4,Villa,120,1962,-13 %,Aktuel værdi
+Søndermarksvej 64920 Søllested,sted,13.269.000,07-01-2016,Fam. Salg,40.702,9,Stuehus,326,1927,,
+Almindevej 234920 Søllested,sted,12.744.105,07-01-2016,Fam. Salg,31.007,11,Stuehus,411,1868,,
+Brogårdsvej 64920 Søllested,sted,150.000,22-12-2015,Alm. Salg,1.785,3,Rækkehus,84,1987,-33 %,Aktuel værdi
+Bækkevej 24920 Søllested,sted,54.001,16-12-2015,Auktion,509,2,Rækkehus,106,1900,,Aktuel værdi
+Mimosevej 134920 Søllested,sted,350.000,24-11-2015,Alm. Salg,2.413,4,Villa,145,1972,-11 %,Aktuel værdi
+Stensgårdsvej 44920 Søllested,sted,200.000,19-11-2015,Alm. Salg,1.388,5,Villa,144,1900,-7 %,Aktuel værdi
+Lavendelvej 194920 Søllested,sted,575.000,06-11-2015,Alm. Salg,3.993,6,Villa,144,1976,-4 %,Aktuel værdi
+Birkevej 284920 Søllested,sted,710.000,05-11-2015,Fam. Salg,5.220,5,Villa,136,1972,,Aktuel værdi
+Rødbyvej 244920 Søllested,sted,450.000,30-10-2015,Alm. Salg,3.214,4,Villa,140,1928,,Aktuel værdi
+Lindevej 244920 Søllested,sted,475.000,29-10-2015,Fam. Salg,3.653,4,Villa,130,1968,,Aktuel værdi
+Torebyvej 154920 Søllested,sted,595.000,28-10-2015,Alm. Salg,3.500,6,Sommerhus,170,1800,0 %,Aktuel værdi
+Lavendelvej 184920 Søllested,sted,550.000,05-10-2015,Alm. Salg,2.401,7,Villa,229,1972,-8 %,Aktuel værdi
+Violvej 64920 Søllested,sted,285.000,30-09-2015,Alm. Salg,1.815,5,Villa,157,1973,0 %,Aktuel værdi
+Højrebyvej 584920 Søllested,sted,170.000,16-09-2015,Alm. Salg,1.976,2,Villa,86,1900,13 %,Aktuel værdi
+Nøbbøllevej 84920 Søllested,sted,150.000,16-09-2015,Alm. Salg,1.315,4,Villa,114,1912,-14 %,Aktuel værdi
+Abedvej 234920 Søllested,sted,60.000,04-09-2015,Alm. Salg,625,4,Villa,96,1830,,Aktuel værdi
+Højskolevej 704920 Søllested,sted,314.000,04-09-2015,Alm. Salg,3.171,5,Villa,99,1887,,Aktuel værdi
+Almindevej 444920 Søllested,sted,150.000,13-08-2015,Alm. Salg,882,5,Villa,170,1900,-9 %,Aktuel værdi
+Maribovej 3134920 Søllested,sted,685.000,17-07-2015,Alm. Salg,5.393,5,Villa,127,1777,-1 %,Aktuel værdi
+Gurrebyvej 134920 Søllested,sted,50.000,15-07-2015,Alm. Salg,438,3,Villa,114,1900,,Aktuel værdi
+Maribovej 2944920 Søllested,sted,313.000,07-07-2015,Fam. Salg,1.944,6,Villa,161,1877,,Aktuel værdi
+Lindevej 184920 Søllested,sted,290.000,02-07-2015,Alm. Salg,2.543,4,Villa,114,1963,-3 %,Aktuel værdi
+Anemonevej 44920 Søllested,sted,489.120,24-06-2015,Auktion,2.928,6,Villa,167,1972,,Aktuel værdi
+Nørredalsvej 14920 Søllested,sted,420.000,27-05-2015,Alm. Salg,3.206,7,Villa,131,1936,,Aktuel værdi
+Højskolevej 284920 Søllested,sted,130.000,21-05-2015,Alm. Salg,1.368,4,Villa,95,1932,,Aktuel værdi
+Lavendelvej 14920 Søllested,sted,599.000,07-05-2015,Alm. Salg,3.839,5,Villa,156,1975,0 %,Aktuel værdi
+Toldbodvej 54920 Søllested,sted,150.000,01-05-2015,Alm. Salg,1.595,2,Villa,94,1876,,Aktuel værdi
+Anlægsvej 54920 Søllested,sted,265.000,17-04-2015,Alm. Salg,1.505,7,Villa,176,1900,-4 %,Aktuel værdi
+Troelsebyvej 484920 Søllested,sted,325.000,16-04-2015,Alm. Salg,2.954,3,Villa,110,1939,,Aktuel værdi
+Løjetvej 234920 Søllested,sted,230.000,07-04-2015,Alm. Salg,1.575,5,Villa,146,1864,-22 %,Aktuel værdi
+Maribovej 2724920 Søllested,sted,26.850,20-03-2015,Alm. Salg,323,5,Villa,83,1920,,Aktuel værdi
+Højrebyvej 614920 Søllested,sted,160.000,04-03-2015,Alm. Salg,829,6,Villa,193,1941,,Aktuel værdi
+Søllestedgårdvej 284920 Søllested,sted,250.000,05-02-2015,Alm. Salg,2.450,3,Villa,102,1872,,Aktuel værdi
+Grønningen 204920 Søllested,sted,650.000,09-01-2015,Alm. Salg,4.140,6,Villa,157,1979,-6 %,Aktuel værdi
+Skodsebøllevej 334920 Søllested,sted,9.113.700,08-01-2015,Fam. Salg,44.241,6,Stuehus,206,1918,,
+Rødbyvej 34920 Søllested,sted,1.000.000,07-01-2015,Alm. Salg,3.649,7,Villa,274,1906,-16 %,Aktuel værdi
+Lavendelvej 124920 Søllested,sted,300.000,18-12-2014,Alm. Salg,3.000,4,Villa,100,1976,-20 %,Aktuel værdi
+Stibankevejen 324920 Søllested,sted,285.000,09-12-2014,Alm. Salg,2.908,3,Villa,98,1827,0 %,Aktuel værdi
+Almindevej 294920 Søllested,sted,900.000,14-11-2014,Alm. Salg,4.306,7,Villa,209,1927,-10 %,Aktuel værdi
+Vesterbyvej 24920 Søllested,sted,140.000,13-11-2014,Alm. Salg,1.728,2,Villa,81,1800,0 %,Aktuel værdi
+Grønningen 194920 Søllested,sted,375.000,23-10-2014,Alm. Salg,3.750,4,Villa,100,1979,-5 %,Aktuel værdi
+Toreby Sidevej 14920 Søllested,sted,290.000,18-10-2014,Alm. Salg,2.788,4,Villa,104,1877,-17 %,Aktuel værdi
+Ålstrup Sidevej 54920 Søllested,sted,510.000,25-09-2014,Alm. Salg,3.053,5,Villa,167,1880,-14 %,Aktuel værdi
+Ryde Møllevej 84920 Søllested,sted,225.000,17-09-2014,Alm. Salg,1.800,5,Villa,125,1957,0 %,Aktuel værdi
+Højskolevej 174920 Søllested,sted,225.000,03-09-2014,Auktion,1.285,6,Villa,175,1920,,Aktuel værdi
+Højrebyvej 574920 Søllested,sted,300.000,01-09-2014,Alm. Salg,1.657,4,Sommerhus,181,1750,-8 %,Aktuel værdi
+Hovedgaden 134920 Søllested,sted,58.000,13-08-2014,Auktion,483,4,Villa,120,1912,-80 %,Aktuel værdi
+Violvej 164920 Søllested,sted,1.075.000,02-08-2014,Alm. Salg,4.150,7,Villa,259,1971,-2 %,Aktuel værdi
+Violvej 54920 Søllested,sted,425.000,10-07-2014,Alm. Salg,3.035,5,Villa,140,1973,-11 %,Aktuel værdi
+Violvej 154920 Søllested,sted,425.000,02-07-2014,Auktion,2.972,5,Villa,143,1972,,Aktuel værdi
+Rødbyvej 284920 Søllested,sted,495.000,26-06-2014,Alm. Salg,5.322,3,Villa,93,1928,,Aktuel værdi
+Almindevej 274920 Søllested,sted,300.000,22-05-2014,Alm. Salg,1.840,4,Villa,163,1930,-14 %,Aktuel værdi
+Abedvej 64920 Søllested,sted,260.000,17-05-2014,Alm. Salg,1.645,7,Villa,158,1858,-12 %,Aktuel værdi
+Højskolevej 344920 Søllested,sted,125.000,07-05-2014,Auktion,1.190,5,Villa,105,1945,-71 %,Aktuel værdi
+Vejlebyvej 604920 Søllested,sted,230.000,07-05-2014,Alm. Salg,2.129,4,Sommerhus,108,1825,,Aktuel værdi
+Vestervej 74920 Søllested,sted,800.000,30-04-2014,Alm. Salg,5.128,4,Villa,156,1900,1 %,Aktuel værdi
+Anlægsvej 174920 Søllested,sted,275.000,25-03-2014,Fam. Salg,3.437,5,Villa,80,1939,,Aktuel værdi
+Skovlyvej 24920 Søllested,sted,400.000,25-03-2014,Alm. Salg,2.259,5,Villa,177,1800,-30 %,Aktuel værdi
+Højrebygade 344920 Søllested,sted,795.000,13-03-2014,Alm. Salg,4.704,5,Villa,169,1914,0 %,Aktuel værdi
+Stibankevejen 44920 Søllested,sted,265.000,12-03-2014,Fam. Salg,1.892,3,Villa,140,1870,,Aktuel værdi
+Højrebygade 334920 Søllested,sted,230.000,07-03-2014,Alm. Salg,2.169,4,Villa,106,1909,,Aktuel værdi
+Troelsebyvej 464920 Søllested,sted,320.000,25-02-2014,Alm. Salg,3.137,3,Villa,102,1940,-19 %,Aktuel værdi
+Mimosevej 94920 Søllested,sted,325.000,13-02-2014,Alm. Salg,2.663,4,Villa,122,1975,-6 %,Aktuel værdi
+Græshavevej 324920 Søllested,sted,300.000,01-02-2014,Alm. Salg,2.542,3,Stuehus,118,1927,,
+Skovlyvej 44920 Søllested,sted,1.000.000,30-01-2014,Alm. Salg,4.761,3,Villa,210,1937,,Aktuel værdi
+Stensgårdsvej 24920 Søllested,sted,300.000,23-01-2014,Alm. Salg,1.304,4,Stuehus,230,1850,,
+Simonshovedvej 104920 Søllested,sted,100.000,23-01-2014,Alm. Salg,714,6,Villa,140,1900,-20 %,Aktuel værdi
+Korterupvej 224920 Søllested,sted,1.873.488,13-12-2013,Alm. Salg,10.584,5,Stuehus,177,1857,,
+Lavendelvej 204920 Søllested,sted,310.000,05-12-2013,Alm. Salg,2.198,4,Villa,141,1974,-22 %,Aktuel værdi
+Kraghgårdsvej 34920 Søllested,sted,795.000,25-11-2013,Alm. Salg,5.129,5,Villa,155,1965,-11 %,Aktuel værdi
+Vestervej 264920 Søllested,sted,550.000,28-10-2013,Alm. Salg,4.166,5,Villa,132,1969,-8 %,Aktuel værdi
+Lavendelvej 144920 Søllested,sted,375.000,24-10-2013,Alm. Salg,2.757,5,Villa,136,1973,-5 %,Aktuel værdi
+Askøvej 124920 Søllested,sted,65.000,11-10-2013,Alm. Salg,507,4,Villa,128,1900,0 %,Aktuel værdi
+Askøvej 194920 Søllested,sted,850.000,07-10-2013,Alm. Salg,5.089,4,Villa,167,1960,-15 %,Aktuel værdi
+Maribovej 2864920 Søllested,sted,45.001,02-10-2013,Auktion,523,3,Villa,86,1910,,Aktuel værdi
+Almindevej 624920 Søllested,sted,70.000,19-09-2013,Alm. Salg,244,8,Villa,286,1928,,Aktuel værdi
+Mimosevej 44920 Søllested,sted,454.300,03-09-2013,Fam. Salg,2.950,7,Villa,154,1975,,Aktuel værdi
+Violvej 114920 Søllested,sted,455.000,02-09-2013,Alm. Salg,4.136,3,Villa,110,1971,-8 %,Aktuel værdi
+Hovedgaden 184920 Søllested,sted,550.000,28-08-2013,Auktion,4.135,4,Engroshandel,133,1877,,Aktuel værdi
+Maribovej 2824920 Søllested,sted,25.001,06-06-2013,Auktion,308,4,Villa,81,1908,,Aktuel værdi
+Stibankevejen 224920 Søllested,sted,430.000,04-06-2013,Alm. Salg,3.873,3,Villa,111,1897,-13 %,Aktuel værdi
+Korterupvej 184920 Søllested,sted,62.000,15-05-2013,Auktion,563,5,Villa,110,1872,,Aktuel værdi
+Grønningen 24920 Søllested,sted,375.000,14-05-2013,Alm. Salg,2.568,5,Villa,146,1976,-15 %,Aktuel værdi
+Rødbyvej 534920 Søllested,sted,475.000,10-05-2013,Alm. Salg,2.914,4,Villa,163,1928,-21 %,Aktuel værdi
+Vestervej 354920 Søllested,sted,200.000,30-04-2013,Alm. Salg,1.587,4,Villa,126,1967,-18 %,Aktuel værdi
+Lindevej 104920 Søllested,sted,400.000,15-04-2013,Alm. Salg,4.000,3,Villa,100,1967,-38 %,Aktuel værdi
+Højskolevej 94920 Søllested,sted,410.000,12-04-2013,Alm. Salg,3.534,3,Villa,116,1908,-4 %,Aktuel værdi
+Hovedgaden 144920 Søllested,sted,116.000,30-01-2013,Auktion,892,6,Villa,130,1960,,Aktuel værdi
+Almindevej 194920 Søllested,sted,185.000,22-01-2013,Alm. Salg,1.622,3,Villa,114,1877,-37 %,Aktuel værdi
+Torebyvej 24920 Søllested,sted,16.550.000,05-12-2012,Alm. Salg,67.276,7,Stuehus,246,1924,,
+Frisenlundvej 14920 Søllested,sted,1.265.000,12-11-2012,Alm. Salg,5.476,6,Villa,231,1918,-10 %,Aktuel værdi
+Højskolevej 744920 Søllested,sted,300.000,01-11-2012,Alm. Salg,1.195,5,Villa,251,1973,0 %,Aktuel værdi
+Lavendelvej 94920 Søllested,sted,350.000,29-10-2012,Alm. Salg,2.243,6,Villa,156,1974,-22 %,Aktuel værdi
+Nøbbøllevej 124920 Søllested,sted,180.000,29-09-2012,Alm. Salg,2.571,3,Villa,70,1919,-28 %,Aktuel værdi
+Toldbodvej 34920 Søllested,sted,300.000,23-08-2012,Alm. Salg,2.400,4,Villa,125,1870,,Aktuel værdi
+Skovlængevej 124920 Søllested,sted,350.000,01-08-2012,Auktion,3.070,3,Villa,114,1953,-30 %,Aktuel værdi
+Højskolevej 544920 Søllested,sted,500.000,27-07-2012,Alm. Salg,4.504,3,Villa,111,1969,,Aktuel værdi
+Ryde Møllevej 24920 Søllested,sted,326.000,13-07-2012,Alm. Salg,1.502,6,Villa,217,1897,-18 %,Aktuel værdi
+Almindevej 124920 Søllested,sted,217.000,11-07-2012,Auktion,2.465,3,Villa,88,1922,,Aktuel værdi
+Nøbbøllevej 24920 Søllested,sted,715.000,15-06-2012,Fam. Salg,4.109,3,Villa,174,1954,,Aktuel værdi
+Rødbyvej 94920 Søllested,sted,25.000,30-05-2012,Auktion,290,4,Villa,86,1961,,Aktuel værdi
+Grønningen 164920 Søllested,sted,650.000,14-05-2012,Alm. Salg,4.814,5,Villa,135,1980,-6 %,Aktuel værdi
+Korterupvej 104920 Søllested,sted,300.000,13-05-2012,Alm. Salg,2.222,5,Villa,135,1910,,Aktuel værdi
+Grønningen 74920 Søllested,sted,175.000,08-05-2012,Fam. Salg,1.206,5,Villa,145,1979,,Aktuel værdi
+Almindevej 24920 Søllested,sted,347.578,25-04-2012,Alm. Salg,1.800,6,Stuehus,193,1927,,
+Askøvej 184920 Søllested,sted,315.000,10-04-2012,Alm. Salg,2.072,6,Villa,152,1887,,Aktuel værdi
+Hovedgaden 364920 Søllested,sted,60.000,04-04-2012,Auktion,508,5,Villa,118,1908,-64 %,Aktuel værdi
+Skovlængevej 354920 Søllested,sted,98.538,02-04-2012,Andet,938,3,Villa,105,1877,,Aktuel værdi
+Sportsvej 94920 Søllested,sted,350.000,24-02-2012,Alm. Salg,3.888,2,Villa,90,1939,,Aktuel værdi
+Anlægsvej 74920 Søllested,sted,287.431,13-02-2012,Andet,2.113,6,Villa,136,1907,,Aktuel værdi
+Rødbyvej 324920 Søllested,sted,685.000,08-02-2012,Alm. Salg,3.982,5,Stuehus,172,1850,-31 %,
+Nøbbøllevej 64920 Søllested,sted,40.000,07-02-2012,Alm. Salg,196,7,Villa,204,1938,,Aktuel værdi
+Almindevej 424920 Søllested,sted,374.000,01-01-2012,Alm. Salg,2.921,4,Villa,128,1800,,Aktuel værdi
+Hovedgaden 504920 Søllested,sted,380.000,21-12-2011,Alm. Salg,3.333,4,Villa,114,1928,-4 %,Aktuel værdi
+Stibankevejen 304920 Søllested,sted,125.000,16-12-2011,Alm. Salg,1.077,3,Villa,116,1902,-29 %,Aktuel værdi
+Vestervej 34920 Søllested,sted,95.000,23-11-2011,Auktion,1.158,4,Villa,82,1944,-78 %,Aktuel værdi
+Maribovej 2884920 Søllested,sted,13.859.000,04-11-2011,Alm. Salg,52.496,7,Stuehus,264,1971,718 %,
+Mimosevej 324920 Søllested,sted,785.000,22-10-2011,Alm. Salg,5.130,4,Villa,153,1974,0 %,Aktuel værdi
+Birkevej 244920 Søllested,sted,577.145,20-10-2011,Alm. Salg,5.246,4,Villa,110,1966,-14 %,Aktuel værdi
+Torebyvej 64920 Søllested,sted,9.300.000,06-10-2011,Alm. Salg,62.416,5,Stuehus,149,1976,,
+Almindevej 464920 Søllested,sted,288.716,30-09-2011,Fam. Salg,1.977,4,Villa,146,1907,,Aktuel værdi
+Sportsvej 84920 Søllested,sted,300.000,29-09-2011,Alm. Salg,4.054,4,Villa,74,1905,,Aktuel værdi
+Stensgårdsvej 34920 Søllested,sted,450.000,15-09-2011,Alm. Salg,2.631,7,Villa,171,1916,0 %,Aktuel værdi
+Højrebygade 424920 Søllested,sted,350.000,14-09-2011,Alm. Salg,3.365,4,Villa,104,1924,-11 %,Aktuel værdi
+Lindevej 54920 Søllested,sted,635.000,12-09-2011,Alm. Salg,4.319,4,Villa,147,1969,,Aktuel værdi
+Skovlængevej 384920 Søllested,sted,240.000,26-08-2011,Alm. Salg,1.726,7,Villa,139,1930,,Aktuel værdi
+Højrebygade 434920 Søllested,sted,675.000,16-08-2011,Alm. Salg,5.625,3,Villa,120,1943,-9 %,Aktuel værdi
+Syrenvej 34920 Søllested,sted,450.000,06-07-2011,Auktion,3.308,5,Villa,136,1970,-43 %,Aktuel værdi
+Vesterbyvej 114920 Søllested,sted,1.128.224,26-06-2011,Alm. Salg,4.642,8,Villa,243,1906,,Aktuel værdi
+Højskolevej 84920 Søllested,sted,620.000,25-05-2011,Alm. Salg,5.254,4,Villa,118,1923,,Aktuel værdi
+Almindevej 54920 Søllested,sted,395.000,23-05-2011,Alm. Salg,2.743,4,Villa,144,1978,-28 %,Aktuel værdi
+Rødbyvej 204920 Søllested,sted,310.000,28-04-2011,Alm. Salg,2.214,6,Villa,140,1928,-27 %,Aktuel værdi
+Højskolevej 74920 Søllested,sted,365.258,21-04-2011,Alm. Salg,3.290,3,Villa,111,1908,-26 %,Aktuel værdi
+Syrenvej 24920 Søllested,sted,700.856,19-04-2011,Alm. Salg,5.153,3,Villa,136,1972,,Aktuel værdi
+Strædet 114920 Søllested,sted,521.444,13-04-2011,Auktion,3.980,3,Villa,131,1912,5 %,Aktuel værdi
+Skodsebøllevej 14920 Søllested,sted,140.000,06-04-2011,Auktion,583,4,Villa,240,1881,,Aktuel værdi
+Strædet 14920 Søllested,sted,375.000,23-03-2011,Auktion,2.777,4,Villa,135,1900,,Aktuel værdi
+Korterup Sidevej 54920 Søllested,sted,888.000,17-03-2011,Alm. Salg,4.169,5,Villa,213,1897,-11 %,Aktuel værdi
+Egevej 84920 Søllested,sted,850.000,25-02-2011,Alm. Salg,5.862,6,Villa,145,1976,,Aktuel værdi
+Almindevej 144920 Søllested,sted,200.000,16-02-2011,Auktion,1.739,5,Villa,115,1827,,Aktuel værdi
+Birkevej 324920 Søllested,sted,135.000,26-01-2011,Auktion,1.250,2,Villa,108,1965,,Aktuel værdi
+Birkevej 344920 Søllested,sted,215.000,26-01-2011,Auktion,1.885,4,Villa,114,1961,,Aktuel værdi
+Almindevej 174920 Søllested,sted,275.000,26-01-2011,Auktion,1.950,5,Villa,141,1926,,Aktuel værdi
+Hovedgaden 324920 Søllested,sted,250.000,26-01-2011,Auktion,2.016,5,Villa,124,1920,,Aktuel værdi
+Højrebygade 654920 Søllested,sted,675.000,18-01-2011,Alm. Salg,6.428,3,Villa,105,1965,-15 %,Aktuel værdi
+Højskolevej 314920 Søllested,sted,960.682,12-01-2011,Fam. Salg,6.158,5,Villa,156,1904,,Aktuel værdi
+Hovedgaden 44920 Søllested,sted,187.500,13-12-2010,Alm. Salg,1.588,4,Villa,118,1877,-4 %,Aktuel værdi
+Højrebyvej 504920 Søllested,sted,55.000,08-12-2010,Auktion,687,2,Villa,80,1905,,Aktuel værdi
+Lindevej 64920 Søllested,sted,650.000,30-11-2010,Alm. Salg,5.000,5,Villa,130,1965,-24 %,Aktuel værdi
+Rødbyvej 514920 Søllested,sted,150.000,24-11-2010,Auktion,1.442,4,Villa,104,1928,-81 %,Aktuel værdi
+Hovedgaden 384920 Søllested,sted,430.000,22-11-2010,Alm. Salg,2.388,8,Villa,180,1900,-11 %,Aktuel værdi
+Højskolevej 124920 Søllested,sted,615.000,16-11-2010,Alm. Salg,7.235,4,Villa,85,1927,-5 %,Aktuel værdi
+Strædet 74920 Søllested,sted,495.000,25-10-2010,Alm. Salg,6.187,3,Villa,80,1902,0 %,Aktuel værdi
+Højrebygade 264920 Søllested,sted,1.560.000,19-10-2010,Alm. Salg,6.500,8,Villa,240,1907,-7 %,Aktuel værdi
+Græshavevej 204920 Søllested,sted,294.000,05-10-2010,Alm. Salg,1.185,6,Stuehus,248,1826,,
+Højrebygade 204920 Søllested,sted,795.000,21-09-2010,Alm. Salg,4.416,8,Villa,180,1902,0 %,Aktuel værdi
+Egevej 164920 Søllested,sted,870.000,25-08-2010,Alm. Salg,7.500,5,Villa,116,1977,-6 %,Aktuel værdi
+Irisvej 5A4920 Søllested,sted,380.000,12-08-2010,Alm. Salg,6.129,2,Rækkehus,62,1976,-34 %,Aktuel værdi
+Holtevej 34920 Søllested,sted,601.500,12-08-2010,Fam. Salg,3.806,6,Stuehus,158,1769,,
+Højrebygade 414920 Søllested,sted,575.000,10-08-2010,Alm. Salg,4.752,4,Villa,121,1937,-17 %,Aktuel værdi
+Simonshovedvej 184920 Søllested,sted,425.000,10-08-2010,Auktion,2.871,4,Villa,148,1939,,Aktuel værdi
+Maribovej 3194920 Søllested,sted,295.000,28-07-2010,Auktion,3.734,3,Villa,79,1939,,Aktuel værdi
+Bækkevej 14920 Søllested,sted,330.000,21-07-2010,Auktion,1.885,5,Villa,175,1907,-65 %,Aktuel værdi
+Rødbyvej 234920 Søllested,sted,3.556.650,19-07-2010,Alm. Salg,32.041,4,Stuehus,111,1900,,
+Lavendelvej 34920 Søllested,sted,600.000,15-07-2010,Alm. Salg,4.687,4,Villa,128,1973,,Aktuel værdi
+Bjerreskovvej 104920 Søllested,sted,635.000,14-07-2010,Alm. Salg,6.105,4,Villa,104,1900,-2 %,Aktuel værdi
+Rødbyvej 574920 Søllested,sted,725.000,08-07-2010,Alm. Salg,3.918,7,Villa,185,1928,,Aktuel værdi
+Bjerreskovvej 234920 Søllested,sted,371.875,25-06-2010,Alm. Salg,3.233,3,Villa,115,1966,,Aktuel værdi
+Mimosevej 204920 Søllested,sted,438.364,22-06-2010,Alm. Salg,3.044,4,Villa,144,1973,-49 %,Aktuel værdi
+Brogårdsvej 34920 Søllested,sted,500.000,10-06-2010,Alm. Salg,3.846,4,Villa,130,1973,,Aktuel værdi
+Højrebyvej 324920 Søllested,sted,1.800.000,01-06-2010,Alm. Salg,6.000,8,Villa,300,1947,-9 %,Aktuel værdi
+Egevej 24920 Søllested,sted,925.000,12-05-2010,Alm. Salg,3.838,4,Villa,241,1980,,Aktuel værdi
+Troelsebyvej 224920 Søllested,sted,450.000,04-05-2010,Alm. Salg,7.377,2,Rækkehus,61,1907,,Aktuel værdi
+Irisvej 64920 Søllested,sted,600.000,04-05-2010,Alm. Salg,6.185,4,Villa,97,1972,-19 %,Aktuel værdi
+Stibankevejen 254920 Søllested,sted,3.632.700,03-05-2010,Fam. Salg,27.943,4,Stuehus,130,1946,,
+Vestervej 304920 Søllested,sted,750.000,29-03-2010,Alm. Salg,6.818,3,Villa,110,1968,-12 %,Aktuel værdi
+Åkandevej 54920 Søllested,sted,760.000,15-03-2010,Alm. Salg,5.100,5,Villa,149,1973,-4 %,Aktuel værdi
+Grønningen 304920 Søllested,sted,1.140.000,05-03-2010,Alm. Salg,9.579,3,Villa,119,2006,-8 %,Aktuel værdi
+Abedvej 144920 Søllested,sted,395.000,24-02-2010,Auktion,3.185,6,Villa,124,1912,,Aktuel værdi
+Simonshovedvej 44920 Søllested,sted,400.000,24-02-2010,Auktion,2.797,5,Villa,143,1910,,Aktuel værdi
+Vestervej 274920 Søllested,sted,525.000,10-02-2010,Auktion,4.375,3,Villa,120,1968,-23 %,Aktuel værdi
+Vestervej 244920 Søllested,sted,581.005,03-02-2010,Alm. Salg,4.762,4,Villa,122,1966,,Aktuel værdi
+Løjetvej 104920 Søllested,sted,20.500.000,08-01-2010,Alm. Salg,113.888,6,Stuehus,180,1727,,
+Korterup Sidevej 14920 Søllested,sted,270.000,30-11-2009,Alm. Salg,2.177,3,Villa,124,1951,-36 %,Aktuel værdi
+Kraghgårdsvej 84920 Søllested,sted,375.000,19-11-2009,Fam. Salg,2.343,6,Villa,160,1965,,Aktuel værdi
+Vestervej 254920 Søllested,sted,1.025.000,16-11-2009,Alm. Salg,6.743,5,Villa,152,1966,-6 %,Aktuel værdi
+Maribovej 3034920 Søllested,sted,544.674,12-11-2009,Fam. Salg,3.404,4,Villa,160,1910,,Aktuel værdi
+Lindevej 124920 Søllested,sted,584.845,23-10-2009,Fam. Salg,5.316,3,Villa,110,1966,,Aktuel værdi
+Erantisvej 44920 Søllested,sted,750.000,20-10-2009,Alm. Salg,5.514,7,Villa,136,1973,-2 %,Aktuel værdi
+Vestervej 144920 Søllested,sted,300.000,01-10-2009,Alm. Salg,3.225,2,Villa,93,1937,-24 %,Aktuel værdi
+Birkevej 264920 Søllested,sted,845.000,21-09-2009,Alm. Salg,6.760,5,Villa,125,1963,-6 %,Aktuel værdi
+Mimosevej 284920 Søllested,sted,174.670,17-09-2009,Andet,1.204,6,Villa,145,1974,,Aktuel værdi
+Skodsebøllevej 154920 Søllested,sted,160.000,19-08-2009,Auktion,2.461,2,Villa,65,1900,,Aktuel værdi
+Gurrebyvej 10A4920 Søllested,sted,23.010.000,07-08-2009,Alm. Salg,86.503,6,Stuehus,266,1933,,
+Skovlængevej 224920 Søllested,sted,274.801,05-08-2009,Andet,3.615,4,Villa,76,1947,,Aktuel værdi
+Græshavevej 294920 Søllested,sted,550.000,03-08-2009,Alm. Salg,5.045,4,Villa,109,1920,-15 %,Aktuel værdi
+Hovedgaden 554920 Søllested,sted,455.468,25-07-2009,Andet,2.957,5,Villa,154,1928,-51 %,Aktuel værdi
+Askøvej 44920 Søllested,sted,110.000,15-07-2009,Auktion,2.750,2,Villa,40,1968,,Aktuel værdi
+Brogårdsvej 164920 Søllested,sted,550.000,29-05-2009,Alm. Salg,6.547,3,Rækkehus,84,1987,,Aktuel værdi
+Højrebyvej 474920 Søllested,sted,540.475,29-05-2009,Andet,3.275,5,Villa,165,1912,,Aktuel værdi
+Abedvej 224920 Søllested,sted,300.000,18-05-2009,Alm. Salg,2.000,3,Sommerhus,150,1940,-39 %,Aktuel værdi
+Vestervej 184920 Søllested,sted,1.125.000,12-05-2009,Alm. Salg,11.718,4,Villa,96,1963,,Aktuel værdi
+Højskolevej 844920 Søllested,sted,1.155.000,06-05-2009,Alm. Salg,5.606,5,Villa,206,1936,-3 %,Aktuel værdi
+Hovedgaden 404920 Søllested,sted,200.000,04-05-2009,Alm. Salg,956,7,Villa,209,1907,-68 %,Aktuel værdi
+Lykkesejevej 284920 Søllested,sted,1.250.000,27-04-2009,Alm. Salg,8.865,5,Villa,141,1985,-3 %,Aktuel værdi
+Hovedgaden 494920 Søllested,sted,20.000,15-04-2009,Auktion,277,3,Villa,72,1932,,Aktuel værdi
+Højrebygade 404920 Søllested,sted,1.145.000,04-02-2009,Alm. Salg,6.505,6,Villa,176,1910,0 %,Aktuel værdi
+Højrebygade 384920 Søllested,sted,440.000,19-11-2008,Andet,2.838,4,Villa,155,1920,,Aktuel værdi
+Korterupvej 144920 Søllested,sted,1.200.000,04-11-2008,Alm. Salg,6.382,7,Villa,188,1907,-4 %,Aktuel værdi
+Troelsebyvej 204920 Søllested,sted,618.500,27-10-2008,Alm. Salg,7.731,3,Rækkehus,80,1927,-1 %,Aktuel værdi
+Nøbbølle Bækvej 64920 Søllested,sted,895.000,06-10-2008,Alm. Salg,6.884,4,Villa,130,1976,0 %,Aktuel værdi
+Troelsebyvej 34920 Søllested,sted,550.000,06-10-2008,Alm. Salg,2.644,6,Villa,208,1919,-19 %,Aktuel værdi
+Violvej 84920 Søllested,sted,1.495.000,01-10-2008,Alm. Salg,3.444,10,Villa,434,1969,0 %,Aktuel værdi
+Almindevej 324920 Søllested,sted,6.271.600,08-09-2008,Alm. Salg,18.721,9,Stuehus,335,1917,,
+Hovedgaden 14920 Søllested,sted,425.000,30-08-2008,Alm. Salg,3.863,4,Villa,110,1893,0 %,Aktuel værdi
+Højrebygade 454920 Søllested,sted,995.000,15-08-2008,Alm. Salg,5.467,7,Villa,182,1945,0 %,Aktuel værdi
+Hovedgaden 624920 Søllested,sted,695.000,15-08-2008,Alm. Salg,6.747,2,Villa,103,1922,0 %,Aktuel værdi
+Vesterbyvej 74920 Søllested,sted,680.000,30-06-2008,Alm. Salg,7.555,4,Sommerhus,90,1777,0 %,Aktuel værdi
+Rødbyvej 304920 Søllested,sted,225.000,23-06-2008,Auktion,1.956,4,Villa,115,1928,,Aktuel værdi
+Maribovej 3174920 Søllested,sted,350.000,10-06-2008,Alm. Salg,3.465,4,Villa,101,1936,-16 %,Aktuel værdi
+Vesterbyvej 134920 Søllested,sted,725.000,09-06-2008,Alm. Salg,4.833,5,Stuehus,150,1939,,
+Bækkevej 64920 Søllested,sted,325.000,09-06-2008,Alm. Salg,3.571,4,Rækkehus,91,1916,-23 %,Aktuel værdi
+Toreby Sidevej 44920 Søllested,sted,1.145.000,02-06-2008,Alm. Salg,3.438,10,Villa,333,1909,-4 %,Aktuel værdi
+Højskolevej 354920 Søllested,sted,550.000,02-06-2008,Alm. Salg,4.867,3,Villa,113,1900,-8 %,Aktuel værdi
+Korterupvej 154920 Søllested,sted,700.000,29-05-2008,Alm. Salg,8.235,3,Sommerhus,85,1877,-7 %,Aktuel værdi
+Vestervej 224920 Søllested,sted,1.295.000,23-05-2008,Alm. Salg,7.848,5,Villa,165,1964,0 %,Aktuel værdi
+Skodsebøllevej 284920 Søllested,sted,13.738.000,22-05-2008,Fam. Salg,42.012,9,Stuehus,327,1917,,
+Maribovej 2684920 Søllested,sted,640.000,19-05-2008,Alm. Salg,5.614,3,Villa,114,1920,-5 %,Aktuel værdi
+Korterupvej 54920 Søllested,sted,292.257,19-05-2008,Andet,2.214,4,Villa,132,1900,-34 %,Aktuel værdi
+Ryde Møllevej 14920 Søllested,sted,700.000,15-05-2008,Alm. Salg,6.542,4,Villa,107,1962,-10 %,Aktuel værdi
+Troelsebyvej 374920 Søllested,sted,685.000,09-05-2008,Alm. Salg,6.401,4,Villa,107,1880,-7 %,Aktuel værdi
+Almindevej 64920 Søllested,sted,900.000,14-04-2008,Alm. Salg,6.206,5,Villa,145,1943,-3 %,Aktuel værdi
+Rødbyvej 224920 Søllested,sted,575.000,09-04-2008,Alm. Salg,4.527,5,Villa,127,1928,0 %,Aktuel værdi
+Skovlængevej 144920 Søllested,sted,1.075.000,08-04-2008,Alm. Salg,6.595,7,Villa,163,1744,-2 %,Aktuel værdi
+Højrebygade 314920 Søllested,sted,562.500,04-04-2008,Alm. Salg,3.308,8,Villa,170,1902,,Aktuel værdi
+Kraghgårdsvej 54920 Søllested,sted,695.000,25-03-2008,Alm. Salg,5.791,5,Villa,120,1965,0 %,Aktuel værdi
+Maribovej 3114920 Søllested,sted,650.000,16-03-2008,Alm. Salg,4.545,6,Villa,143,1938,-18 %,Aktuel værdi
+Almindevej 94920 Søllested,sted,362.500,03-03-2008,Fam. Salg,2.500,6,Villa,145,1957,-59 %,Aktuel værdi
+Grønningen 94920 Søllested,sted,1.075.000,25-02-2008,Alm. Salg,7.465,5,Villa,144,1980,-6 %,Aktuel værdi
+Violvej 24920 Søllested,sted,740.000,18-02-2008,Alm. Salg,5.736,4,Villa,129,1972,-5 %,Aktuel værdi
+Højreby Husevej 54920 Søllested,sted,410.000,15-02-2008,Alm. Salg,3.474,3,Villa,118,1910,-9 %,Aktuel værdi
+Skovlyvej 64920 Søllested,sted,300.000,11-02-2008,Alm. Salg,1.449,6,Stuehus,207,1928,,
+Bjerreskovvej 174920 Søllested,sted,370.000,28-01-2008,Alm. Salg,3.663,5,Villa,101,1896,,Aktuel værdi
+Stibankevejen 24920 Søllested,sted,4.100.000,14-01-2008,Alm. Salg,19.069,7,Stuehus,215,1916,,
+Vesterbyvej 154920 Søllested,sted,1.360.000,30-12-2007,Fam. Salg,14.166,4,Villa,96,1939,,Aktuel værdi
+Smedevejen 44920 Søllested,sted,592.154,19-12-2007,Fam. Salg,-,7,Stuehus,302,1847,,
+Højskolevej 44920 Søllested,sted,605.000,18-12-2007,Alm. Salg,7.034,3,Villa,86,1928,-5 %,Aktuel værdi
+Løjetvej 224920 Søllested,sted,1.287.240,10-12-2007,Alm. Salg,11.702,2,Stuehus,110,1900,,
+Hovedgaden 694920 Søllested,sted,398.499,21-11-2007,Andet,2.674,4,Villa,149,1910,,Aktuel værdi
+Brogårdsvej 144920 Søllested,sted,650.000,08-11-2007,Alm. Salg,7.738,3,Rækkehus,84,1987,-4 %,Aktuel værdi
+Korterupvej 194920 Søllested,sted,311.393,24-10-2007,Andet,2.552,4,Villa,122,1907,,Aktuel værdi
+Bjerreskovvej 184920 Søllested,sted,350.000,20-10-2007,Alm. Salg,3.333,3,Villa,105,1930,0 %,Aktuel værdi
+Søllestedgårdvej 294920 Søllested,sted,255.000,19-10-2007,Andet,2.771,3,Villa,92,1955,,Aktuel værdi
+Troelsebyvej 354920 Søllested,sted,220.000,15-10-2007,Alm. Salg,2.075,4,Villa,106,1908,,Aktuel værdi
+Maribovej 2704920 Søllested,sted,1.200.000,11-10-2007,Alm. Salg,5.454,8,Villa,220,1913,,Aktuel værdi
+Gurrebyvej 124920 Søllested,sted,5.484.500,10-10-2007,Fam. Salg,28.865,7,Stuehus,190,1848,,
+Hovedgaden 214920 Søllested,sted,1.025.000,06-10-2007,Alm. Salg,7.020,6,Villa,146,1907,,Aktuel værdi
+Troelsebyvej 404920 Søllested,sted,287.500,21-09-2007,Andet,1.916,5,Villa,150,1941,,Aktuel værdi
+Abedvej 134920 Søllested,sted,290.000,10-08-2007,Alm. Salg,2.989,4,Sommerhus,97,1877,0 %,Aktuel værdi
+Korterupvej 34920 Søllested,sted,465.343,26-07-2007,Alm. Salg,3.814,4,Villa,122,1917,,Aktuel værdi
+Strædet 174920 Søllested,sted,250.000,16-07-2007,Alm. Salg,2.155,3,Villa,116,1780,25 %,Aktuel værdi
+Nøbbølle Bækvej 104920 Søllested,sted,2.100.000,16-07-2007,Alm. Salg,19.811,4,Stuehus,106,1900,,
+Vesterbyvej 94920 Søllested,sted,390.000,06-07-2007,Alm. Salg,7.800,2,Sommerhus,50,1900,-13 %,Aktuel værdi
+Almindevej 84920 Søllested,sted,500.000,02-07-2007,Alm. Salg,3.759,5,Villa,133,1927,,Aktuel værdi
+Fællesenggårdsvej 84920 Søllested,sted,695.000,26-06-2007,Alm. Salg,6.150,4,Villa,113,1925,0 %,Aktuel værdi
+Bjerreskovvej 94920 Søllested,sted,319.405,21-06-2007,Andet,2.753,4,Villa,116,1915,,Aktuel værdi
+Sportsvej 74920 Søllested,sted,738.205,17-06-2007,Alm. Salg,7.030,4,Villa,105,1940,,Aktuel værdi
+Brogårdsvej 44920 Søllested,sted,685.000,12-06-2007,Alm. Salg,8.154,3,Rækkehus,84,1987,,Aktuel værdi
+Simonshovedvej 34920 Søllested,sted,695.000,12-06-2007,Alm. Salg,5.604,4,Villa,124,1910,,Aktuel værdi
+Irisvej 24920 Søllested,sted,918.000,23-05-2007,Fam. Salg,4.989,6,Villa,184,1973,,Aktuel værdi
+Hovedgaden 654920 Søllested,sted,675.000,29-04-2007,Alm. Salg,9.375,3,Villa,72,1880,,Aktuel værdi
+Højrebyvej 654920 Søllested,sted,330.000,23-04-2007,Alm. Salg,3.837,3,Villa,86,1938,,Aktuel værdi
+Grønningen 364920 Søllested,sted,1.245.000,19-04-2007,Alm. Salg,8.137,5,Villa,153,1980,,Aktuel værdi
+Højrebygade 524920 Søllested,sted,750.000,02-04-2007,Alm. Salg,3.164,6,Villa,237,1852,,Aktuel værdi
+Almindevej 344920 Søllested,sted,295.000,29-03-2007,Alm. Salg,3.206,3,Villa,92,1955,,Aktuel værdi
+Rødbyvej 154920 Søllested,sted,300.000,27-03-2007,Alm. Salg,2.189,4,Villa,137,1900,,Aktuel værdi
+Hovedgaden 434920 Søllested,sted,915.000,21-03-2007,Alm. Salg,7.148,5,Villa,128,1908,0 %,Aktuel værdi
+Grønningen 264920 Søllested,sted,800.000,12-03-2007,Alm. Salg,6.666,4,Villa,120,1984,,Aktuel værdi
+Højrebygade 54920 Søllested,sted,495.000,03-03-2007,Alm. Salg,2.844,6,Villa,174,1909,0 %,Aktuel værdi
+Rødbyvej 194920 Søllested,sted,450.000,01-03-2007,Alm. Salg,3.333,5,Villa,135,1938,,Aktuel værdi
+Bjerreskovvej 144920 Søllested,sted,1.492.247,21-02-2007,Alm. Salg,7.536,7,Villa,198,1985,,Aktuel værdi
+Jernbanegade 174920 Søllested,sted,950.000,20-02-2007,Alm. Salg,8.636,4,Villa,110,1948,,Aktuel værdi
+Skodsebøllevej 354920 Søllested,sted,1.065.000,14-02-2007,Alm. Salg,5.071,6,Villa,210,1760,0 %,Aktuel værdi
+Hovedgaden 94920 Søllested,sted,357.000,07-02-2007,Fam. Salg,6.490,2,Villa,55,1917,,Aktuel værdi
+Bækkevej 84920 Søllested,sted,550.000,25-01-2007,Alm. Salg,6.111,4,Rækkehus,90,1912,,Aktuel værdi
+Syrenvej 14920 Søllested,sted,1.000.000,23-01-2007,Alm. Salg,5.405,4,Villa,185,1972,,Aktuel værdi
+Rødbyvej 384920 Søllested,sted,900.000,18-01-2007,Alm. Salg,5.660,5,Villa,159,1777,-4 %,Aktuel værdi
+Vesterbyvej 124920 Søllested,sted,700.000,01-01-2007,Alm. Salg,9.333,2,Villa,75,1939,,Aktuel værdi
+Grønningen 114920 Søllested,sted,812.500,15-12-2006,Alm. Salg,5.565,6,Villa,146,1980,,Aktuel værdi
+Mimosevej 24920 Søllested,sted,850.000,06-12-2006,Alm. Salg,6.746,4,Villa,126,1975,,Aktuel værdi
+Hovedgaden 534920 Søllested,sted,450.000,06-12-2006,Alm. Salg,3.781,5,Villa,119,1937,,Aktuel værdi
+Skovlængevej 314920 Søllested,sted,690.000,28-11-2006,Alm. Salg,6.571,4,Villa,105,1902,,Aktuel værdi
+Rødbyvej 524920 Søllested,sted,360.000,27-11-2006,Alm. Salg,1.285,8,Villa,280,1892,,Aktuel værdi
+Højrebygade 244920 Søllested,sted,330.000,26-11-2006,Fam. Salg,2.357,6,Villa,140,1910,,Aktuel værdi
+Irisvej 13B4920 Søllested,sted,549.813,20-11-2006,Alm. Salg,8.458,2,Rækkehus,65,1976,,Aktuel værdi
+Ryde Møllevej 34920 Søllested,sted,595.000,13-11-2006,Alm. Salg,5.560,4,Villa,107,1962,,Aktuel værdi
+Vestervej 14920 Søllested,sted,1.500.000,08-11-2006,Alm. Salg,5.791,9,Villa,259,1970,,Aktuel værdi
+Vestervej 294920 Søllested,sted,962.938,08-11-2006,Alm. Salg,8.597,5,Villa,112,1969,,Aktuel værdi
+Vestervej 54920 Søllested,sted,650.000,30-10-2006,Alm. Salg,5.909,4,Villa,110,1920,,Aktuel værdi
+Violvej 124920 Søllested,sted,945.000,19-10-2006,Alm. Salg,8.437,4,Villa,112,1972,,Aktuel værdi
+Irisvej 244920 Søllested,sted,1.200.000,27-09-2006,Alm. Salg,6.666,6,Villa,180,1977,,Aktuel værdi
+Almindevej 154920 Søllested,sted,995.000,26-09-2006,Alm. Salg,-,5,Villa,181,1926,,Aktuel værdi
+Ryde Møllevej 184920 Søllested,sted,810.000,13-09-2006,Alm. Salg,5.827,5,Villa,139,1958,,Aktuel værdi
+Skovlængevej 34920 Søllested,sted,122.500,05-09-2006,Andet,1.458,2,Villa,84,1877,,Aktuel værdi
+Torebyvej 34920 Søllested,sted,410.000,11-08-2006,Alm. Salg,4.019,4,Villa,102,1964,,Aktuel værdi
+Skovlængevej 164920 Søllested,sted,2.100.000,09-08-2006,Alm. Salg,9.633,6,Villa,218,1940,,Aktuel værdi
+Lykkesejevej 124920 Søllested,sted,70.725,03-08-2006,Alm. Salg,512,5,Villa,138,2007,,Aktuel værdi
+Åkandevej 34920 Søllested,sted,630.000,01-08-2006,Alm. Salg,5.080,5,Villa,124,1973,,Aktuel værdi
+Almindevej 184920 Søllested,sted,165.000,30-07-2006,Alm. Salg,1.289,3,Villa,128,1902,,Aktuel værdi
+Almindevej 664920 Søllested,sted,545.000,04-07-2006,Alm. Salg,4.618,3,Villa,118,1927,,Aktuel værdi
+Lykkesejevej 84920 Søllested,sted,72.100,01-07-2006,Alm. Salg,534,6,Villa,135,2007,,Aktuel værdi
+Vestervej 154920 Søllested,sted,683.370,22-06-2006,Alm. Salg,4.680,4,Villa,146,1965,,Aktuel værdi
+Irisvej 13A4920 Søllested,sted,593.561,26-05-2006,Alm. Salg,9.131,2,Rækkehus,65,1976,,Aktuel værdi
+Hovedgaden 734920 Søllested,sted,292.210,22-05-2006,Alm. Salg,2.319,3,Villa,126,1860,,Aktuel værdi
+Skovlængevej 14920 Søllested,sted,570.000,06-05-2006,Alm. Salg,4.318,6,Villa,132,1890,,Aktuel værdi
+Kraghgårdsvej 104920 Søllested,sted,1.035.000,28-04-2006,Alm. Salg,8.149,4,Villa,127,1964,,Aktuel værdi
+Grønningen 174920 Søllested,sted,72.900,27-04-2006,Alm. Salg,486,6,Villa,150,2007,,Aktuel værdi
+Korterupvej 234920 Søllested,sted,350.000,20-04-2006,Alm. Salg,4.605,4,Villa,76,1897,,Aktuel værdi
+Skovlængevej 324920 Søllested,sted,340.000,29-03-2006,Alm. Salg,5.666,3,Villa,60,1777,,Aktuel værdi
+Hovedgaden 564920 Søllested,sted,750.000,29-03-2006,Alm. Salg,3.504,5,Villa,214,1920,,Aktuel værdi
+Lavendelvej 64920 Søllested,sted,1.195.000,24-03-2006,Alm. Salg,10.482,4,Villa,114,1978,,Aktuel værdi
+Højrebygade 474920 Søllested,sted,270.909,02-03-2006,Fam. Salg,3.150,3,Villa,86,1950,,Aktuel værdi
+Græshavevej 144920 Søllested,sted,790.000,27-02-2006,Alm. Salg,5.808,4,Villa,136,1912,,Aktuel værdi
+Frisenlundvej 34920 Søllested,sted,495.000,24-02-2006,Alm. Salg,4.125,7,Villa,120,1900,,Aktuel værdi
+Bjerreskovvej 74920 Søllested,sted,850.000,21-02-2006,Alm. Salg,3.935,10,Villa,216,1901,,Aktuel værdi
+Almindevej 504920 Søllested,sted,520.000,21-02-2006,Alm. Salg,4.297,3,Villa,121,1943,,Aktuel værdi
+Egevej 154920 Søllested,sted,300.000,17-02-2006,Andet,2.362,5,Villa,127,1976,,Aktuel værdi
+Højrebygade 14920 Søllested,sted,745.000,09-02-2006,Alm. Salg,4.382,5,Villa,170,1885,,Aktuel værdi
+Abedvej 444920 Søllested,sted,1.080.000,07-02-2006,Alm. Salg,5.654,5,Villa,191,1920,,Aktuel værdi
+Mimosevej 164920 Søllested,sted,800.000,24-01-2006,Andet,4.444,5,Villa,180,1973,,Aktuel værdi
+Skovlængevej 1A4920 Søllested,sted,1.800.000,20-01-2006,Alm. Salg,9.523,5,Villa,189,1988,,Aktuel værdi
+Kåhavevej 84920 Søllested,sted,230.000,20-01-2006,Alm. Salg,809,6,Stuehus,284,1916,,
+Stibankevejen 74920 Søllested,sted,3.648.000,16-01-2006,Alm. Salg,19.099,6,Stuehus,191,1961,,
+Højrebygade 34920 Søllested,sted,350.000,05-01-2006,Alm. Salg,1.955,4,Villa,179,1940,,Aktuel værdi
+Gurrebyvej 64920 Søllested,sted,715.000,09-12-2005,Alm. Salg,4.181,4,Villa,171,1900,,Aktuel værdi
+Løjetvej 164920 Søllested,sted,705.000,08-12-2005,Alm. Salg,4.964,4,Villa,142,1900,,Aktuel værdi
+Skovlængevej 174920 Søllested,sted,475.000,07-12-2005,Alm. Salg,3.064,4,Villa,155,1905,,Aktuel værdi
+Lyregårdsvej 14920 Søllested,sted,360.000,05-12-2005,Alm. Salg,1.518,7,Villa,237,1913,,Aktuel værdi
+Højrebygade 494920 Søllested,sted,595.000,07-11-2005,Alm. Salg,5.312,5,Villa,112,1950,,Aktuel værdi
+Skovlængevej 344920 Søllested,sted,525.000,02-11-2005,Alm. Salg,-,9,Villa,222,1967,,Aktuel værdi
+Anlægsvej 134920 Søllested,sted,1.030.000,18-10-2005,Alm. Salg,5.478,6,Villa,188,1908,,Aktuel værdi
+Hovedgaden 614920 Søllested,sted,895.000,14-10-2005,Alm. Salg,4.613,5,Villa,194,1924,,Aktuel værdi
+Rødbyvej 554920 Søllested,sted,320.000,11-10-2005,Alm. Salg,2.758,3,Villa,116,1932,,Aktuel værdi
+Grønningen 234920 Søllested,sted,1.250.000,10-10-2005,Alm. Salg,8.116,5,Villa,154,1980,,Aktuel værdi
+Abed Smedevej 54920 Søllested,sted,240.000,07-10-2005,Alm. Salg,4.800,3,Sommerhus,50,1870,,Aktuel værdi
+Gurrebyvej 94920 Søllested,sted,880.000,04-10-2005,Alm. Salg,5.906,6,Villa,149,1944,,Aktuel værdi
+Lavendelvej 324920 Søllested,sted,850.000,30-09-2005,Alm. Salg,7.083,6,Villa,120,1977,,Aktuel værdi
+Vesterbyvej 34920 Søllested,sted,1.245.000,23-09-2005,Alm. Salg,6.622,6,Sommerhus,188,1700,,Aktuel værdi
+Lundegårdsvej 74920 Søllested,sted,2.600.000,14-09-2005,Alm. Salg,14.525,5,Villa,179,1970,,Aktuel værdi
+Højrebygade 234920 Søllested,sted,1.500.000,09-09-2005,Alm. Salg,8.064,6,Villa,186,1902,,Aktuel værdi
+Skovlængevej 374920 Søllested,sted,219.193,25-08-2005,Fam. Salg,2.884,3,Villa,76,1934,,Aktuel værdi
+Lundegårdsvej 64920 Søllested,sted,652.532,20-08-2005,Alm. Salg,4.728,6,Villa,138,1905,,Aktuel værdi
+Maribovej 2924920 Søllested,sted,300.000,15-08-2005,Fam. Salg,2.325,7,Villa,129,1902,,Aktuel værdi
+Bjerreskovvej 24920 Søllested,sted,3.413.000,04-08-2005,Andet,33.792,5,Villa,101,1935,,Aktuel værdi
+Anlægsvej 94920 Søllested,sted,840.000,20-07-2005,Alm. Salg,5.957,5,Villa,141,1910,,Aktuel værdi
+Højrebyvej 554920 Søllested,sted,500.000,20-07-2005,Alm. Salg,3.424,6,Villa,146,1908,,Aktuel værdi
+Åkandevej 14920 Søllested,sted,880.000,07-07-2005,Alm. Salg,7.719,4,Villa,114,1976,,Aktuel værdi
+Maribovej 2644920 Søllested,sted,862.500,05-07-2005,Alm. Salg,5.989,5,Villa,144,1910,,Aktuel værdi
+Toldbodvej 24920 Søllested,sted,540.000,28-06-2005,Alm. Salg,4.695,2,Villa,115,1827,,Aktuel værdi
+Almindevej 204920 Søllested,sted,385.000,23-06-2005,Alm. Salg,4.476,3,Villa,86,1850,,Aktuel værdi
+Skodsebøllevej 84920 Søllested,sted,590.000,20-06-2005,Alm. Salg,4.306,4,Villa,137,1877,,Aktuel værdi
+Gurrebyvej 24920 Søllested,sted,1.585.000,15-06-2005,Alm. Salg,5.213,10,Villa,304,1903,,Aktuel værdi
+Holmemarksvejen 34920 Søllested,sted,180.000,12-06-2005,Andet,1.894,3,Villa,95,1822,,Aktuel værdi
+Højskolevej 684920 Søllested,sted,520.000,07-06-2005,Alm. Salg,4.684,5,Villa,111,1906,,Aktuel værdi
+Skovlængevej 134920 Søllested,sted,1.875.000,18-05-2005,Alm. Salg,7.239,6,Villa,259,1940,,Aktuel værdi
+Maribovej 3214920 Søllested,sted,400.000,18-05-2005,Alm. Salg,4.000,2,Villa,100,1920,,Aktuel værdi
+Bjerreskovvej 214920 Søllested,sted,250.000,15-05-2005,Alm. Salg,-,4,Villa,112,1902,,Aktuel værdi
+Hovedgaden 464920 Søllested,sted,645.000,06-05-2005,Alm. Salg,-,7,Villa,174,1917,,Aktuel værdi
+Lindevej 24920 Søllested,sted,530.000,29-04-2005,Alm. Salg,4.649,5,Villa,114,1966,,Aktuel værdi
+Torebyvej 104920 Søllested,sted,218.463,24-04-2005,Fam. Salg,2.060,4,Villa,106,1947,,Aktuel værdi
+Vestervej 114920 Søllested,sted,340.000,20-04-2005,Alm. Salg,4.358,2,Villa,78,1960,,Aktuel værdi
+Bjerreskovvej 164920 Søllested,sted,565.000,12-04-2005,Alm. Salg,3.445,5,Villa,164,1910,,Aktuel værdi
+Stensgårdsvej 64920 Søllested,sted,525.000,29-03-2005,Alm. Salg,3.571,4,Villa,147,1877,,Aktuel værdi
+Birkevej 54920 Søllested,sted,687.500,02-03-2005,Alm. Salg,4.116,5,Villa,167,1965,,Aktuel værdi
+Skovlængevej 444920 Søllested,sted,385.000,16-02-2005,Alm. Salg,3.235,3,Villa,119,1867,,Aktuel værdi
+Skovlængevej 44920 Søllested,sted,233.500,08-02-2005,Alm. Salg,1.945,5,Villa,120,1877,,Aktuel værdi
+Birkevej 224920 Søllested,sted,776.986,05-02-2005,Alm. Salg,7.261,3,Villa,107,1966,,Aktuel værdi
+Rødbyvej 144920 Søllested,sted,935.000,03-02-2005,Alm. Salg,4.047,7,Villa,231,1802,,Aktuel værdi
+Irisvej 204920 Søllested,sted,1.110.000,31-01-2005,Alm. Salg,6.607,4,Villa,168,1980,,Aktuel værdi
+Rødbyvej 544920 Søllested,sted,689.959,18-01-2005,Alm. Salg,4.858,4,Villa,142,1827,,Aktuel værdi
+Vestervej 284920 Søllested,sted,725.000,05-01-2005,Alm. Salg,5.178,3,Villa,140,1972,,Aktuel værdi
+Lykkesejevej 184920 Søllested,sted,68.475,19-12-2004,Alm. Salg,503,4,Villa,136,2005,,Aktuel værdi
+Torebyvej 134920 Søllested,sted,231.462,03-12-2004,Fam. Salg,1.808,4,Villa,128,1827,,Aktuel værdi
+Strædet 124920 Søllested,sted,260.000,01-12-2004,Alm. Salg,2.988,3,Villa,87,1677,,Aktuel værdi
+Lykkesejevej 44920 Søllested,sted,80.475,29-11-2004,Alm. Salg,396,7,Villa,203,2005,,Aktuel værdi
+Søllestedgårdvej 264920 Søllested,sted,70.000,24-11-2004,Fam. Salg,1.000,3,Sommerhus,70,1880,,Aktuel værdi
+Troelsebyvej 544920 Søllested,sted,475.000,12-11-2004,Alm. Salg,4.656,4,Villa,102,1916,,Aktuel værdi
+Ryde Kirkevej 44920 Søllested,sted,545.000,04-11-2004,Alm. Salg,5.093,3,Villa,107,1917,,Aktuel værdi
+Rødbyvej 164920 Søllested,sted,1.065.000,03-11-2004,Alm. Salg,4.754,5,Villa,224,1991,,Aktuel værdi
+Lindevej 94920 Søllested,sted,385.000,25-10-2004,Alm. Salg,5.133,2,Villa,75,1968,,Aktuel værdi
+Nøbbølle Bækvej 84920 Søllested,sted,175.000,21-10-2004,Alm. Salg,-,4,Villa,152,1900,,Aktuel værdi
+Ryde Møllevej 104920 Søllested,sted,645.000,14-09-2004,Alm. Salg,3.750,6,Villa,172,1957,,Aktuel værdi
+Maribovej 2804920 Søllested,sted,245.000,08-09-2004,Alm. Salg,1.801,5,Villa,136,1916,,Aktuel værdi
+Stibankevejen 84920 Søllested,sted,725.000,18-08-2004,Alm. Salg,3.436,7,Villa,211,1900,,Aktuel værdi
+Korterup Sidevej 74920 Søllested,sted,625.000,06-07-2004,Alm. Salg,3.591,5,Sommerhus,174,1900,,Aktuel værdi
+Stormgade 14920 Søllested,sted,261.513,14-06-2004,Auktion,2.377,4,Villa,110,1900,,Aktuel værdi
+Sandhøjsvejen 44920 Søllested,sted,790.500,02-06-2004,Fam. Salg,8.882,3,Stuehus,89,1940,,
+Skodsebøllevej 244920 Søllested,sted,3.982.000,02-06-2004,Fam. Salg,15.315,9,Stuehus,260,1906,,
+Stibankevejen 204920 Søllested,sted,925.000,01-06-2004,Alm. Salg,5.473,5,Sommerhus,169,1820,,Aktuel værdi
+Højrebygade 324920 Søllested,sted,850.000,05-05-2004,Alm. Salg,5.666,5,Villa,150,1912,,Aktuel værdi
+Ålstrup Sidevej 24920 Søllested,sted,1.175.000,01-05-2004,Alm. Salg,8.834,4,Stuehus,133,1928,,
+Vestervej 24920 Søllested,sted,500.000,22-04-2004,Alm. Salg,2.808,7,Villa,178,1915,,Aktuel værdi
+Ålstrup Sidevej 14920 Søllested,sted,250.000,15-04-2004,Alm. Salg,1.358,6,Villa,184,1900,,Aktuel værdi
+Skodsebøllevej 94920 Søllested,sted,525.000,05-04-2004,Alm. Salg,2.678,4,Villa,196,1748,,Aktuel værdi
+Grønningen 284920 Søllested,sted,840.000,31-03-2004,Fam. Salg,5.874,4,Villa,143,1990,,Aktuel værdi
+Ryde Møllevej 164920 Søllested,sted,375.508,30-03-2004,Alm. Salg,3.994,5,Villa,94,1934,,Aktuel værdi
+Løjetvej 214920 Søllested,sted,410.000,29-03-2004,Alm. Salg,1.687,6,Stuehus,243,1923,,
+Troelsebyvej 414920 Søllested,sted,820.000,14-03-2004,Alm. Salg,4.270,7,Stuehus,192,1914,,
+Højrebygade 734920 Søllested,sted,495.000,06-03-2004,Alm. Salg,3.485,5,Villa,142,1917,,Aktuel værdi
+Stormgade 44920 Søllested,sted,825.000,21-02-2004,Alm. Salg,5.254,6,Villa,157,1960,,Aktuel værdi
+Skodsebøllevej 34920 Søllested,sted,350.000,20-02-2004,Alm. Salg,3.535,3,Villa,99,1920,,Aktuel værdi
+Abedvej 294920 Søllested,sted,95.000,15-02-2004,Alm. Salg,922,5,Villa,103,1900,,Aktuel værdi
+Højrebyvej 544920 Søllested,sted,950.000,11-02-2004,Alm. Salg,4.460,7,Villa,213,1927,,Aktuel værdi
+Bjerreskovvej 274920 Søllested,sted,280.000,10-02-2004,Auktion,2.153,5,Villa,130,1914,,Aktuel værdi
+Anemonevej 24920 Søllested,sted,510.000,26-01-2004,Fam. Salg,4.047,5,Villa,126,1975,,Aktuel værdi
+Hovedgaden 674920 Søllested,sted,470.000,13-01-2004,Alm. Salg,4.563,4,Villa,103,1927,,Aktuel værdi
+Rødbyvej 364920 Søllested,sted,895.000,12-01-2004,Alm. Salg,3.013,8,Villa,297,1928,,Aktuel værdi
+Højrebygade 394920 Søllested,sted,700.000,09-01-2004,Alm. Salg,5.785,6,Villa,121,1917,,Aktuel værdi
+Grønningen 144920 Søllested,sted,800.800,29-12-2003,Fam. Salg,6.844,3,Villa,117,1980,,Aktuel værdi
+Vestervej 234920 Søllested,sted,400.000,22-11-2003,Alm. Salg,3.225,4,Villa,124,1965,,Aktuel værdi
+Lindevej 44920 Søllested,sted,545.000,22-11-2003,Alm. Salg,5.240,4,Villa,104,1966,,Aktuel værdi
+Violvej 44920 Søllested,sted,1.050.000,13-10-2003,Alm. Salg,5.645,6,Villa,186,1974,,Aktuel værdi
+Grønningen 184920 Søllested,sted,77.625,09-10-2003,Alm. Salg,686,4,Villa,113,2004,,Aktuel værdi
+Højrebyvej 464920 Søllested,sted,372.900,06-10-2003,Alm. Salg,3.031,4,Villa,123,1906,,Aktuel værdi
+Hovedgaden 644920 Søllested,sted,223.838,28-09-2003,Fam. Salg,1.896,6,Villa,118,1937,,Aktuel værdi
+Grønningen 14920 Søllested,sted,50.000,24-09-2003,Alm. Salg,271,5,Villa,184,2005,,Aktuel værdi
+Skovlængevej 74920 Søllested,sted,110.000,15-09-2003,Alm. Salg,1.833,4,Villa,60,1877,,Aktuel værdi
+Troelsebyvej 74920 Søllested,sted,378.000,15-09-2003,Alm. Salg,3.669,3,Villa,103,1931,,Aktuel værdi
+Torebyvej 14920 Søllested,sted,335.000,19-08-2003,Auktion,2.326,4,Villa,144,1964,,Aktuel værdi
+Rødbyvej 404920 Søllested,sted,285.020,31-07-2003,Alm. Salg,4.318,3,Villa,66,1967,,Aktuel værdi
+Simonshovedvej 14920 Søllested,sted,300.000,09-07-2003,Andet,1.685,5,Villa,178,1962,,Aktuel værdi
+Egevej 14920 Søllested,sted,610.000,08-07-2003,Alm. Salg,5.922,4,Villa,103,1976,,Aktuel værdi
+Abedvej 84920 Søllested,sted,345.000,04-07-2003,Alm. Salg,3.254,2,Villa,106,1877,,Aktuel værdi
+Hovedgaden 524920 Søllested,sted,630.000,18-06-2003,Alm. Salg,4.090,5,Villa,154,1917,,Aktuel værdi
+Stormgade 54920 Søllested,sted,220.000,04-06-2003,Alm. Salg,1.666,4,Villa,132,1917,,Aktuel værdi
+Hovedgaden 154920 Søllested,sted,650.000,03-06-2003,Alm. Salg,4.276,4,Villa,152,1906,,Aktuel værdi
+Syrenvej 44920 Søllested,sted,1.050.000,02-06-2003,Alm. Salg,6.000,4,Villa,175,1973,,Aktuel værdi
+Bjerreskovvej 54920 Søllested,sted,331.818,27-05-2003,Alm. Salg,3.130,4,Villa,106,1900,,Aktuel værdi
+Lykkesejevej 104920 Søllested,sted,63.200,13-05-2003,Alm. Salg,625,4,Villa,101,2012,,Aktuel værdi
+Vestervej 314920 Søllested,sted,410.000,11-05-2003,Fam. Salg,4.059,5,Villa,101,1968,,Aktuel værdi
+Brogårdsvej 84920 Søllested,sted,650.000,16-04-2003,Alm. Salg,7.738,3,Rækkehus,84,1987,,Aktuel værdi
+Stibankevejen 424920 Søllested,sted,100.000,13-04-2003,Alm. Salg,1.449,3,Villa,69,1777,,Aktuel værdi
+Skodsebøllevej 174920 Søllested,sted,405.000,25-03-2003,Alm. Salg,2.664,5,Villa,152,1902,,Aktuel værdi
+Skovlængevej 274920 Søllested,sted,222.743,23-02-2003,Andet,2.062,4,Villa,108,1940,,Aktuel værdi
+Rødbyvej 494920 Søllested,sted,290.000,21-02-2003,Alm. Salg,2.213,2,Villa,131,1928,,Aktuel værdi
+Almindevej 704920 Søllested,sted,75.000,14-02-2003,Alm. Salg,842,3,Villa,89,1912,,Aktuel værdi
+Bjerreskovvej 44920 Søllested,sted,255.000,13-02-2003,Fam. Salg,3.187,3,Villa,80,1955,,Aktuel værdi
+Lykkesejevej 264920 Søllested,sted,385.000,13-02-2003,Fam. Salg,2.789,5,Villa,138,1978,,Aktuel værdi
+Rødbyvej 394920 Søllested,sted,670.000,12-02-2003,Alm. Salg,3.681,4,Villa,182,1928,,Aktuel værdi
+Hovedgaden 294920 Søllested,sted,1.079.000,05-02-2003,Alm. Salg,4.904,9,Villa,220,1920,,Aktuel værdi
+Højrebyvej 424920 Søllested,sted,323.670,20-12-2002,Alm. Salg,1.438,9,Stuehus,225,1932,,
+Skovlængevej 64920 Søllested,sted,744.200,12-12-2002,Alm. Salg,4.770,4,Villa,156,1935,,Aktuel værdi
+Ryde Møllevej 64920 Søllested,sted,535.000,06-12-2002,Alm. Salg,1.783,11,Villa,300,1910,,Aktuel værdi
+Kraghgårdsvej 14920 Søllested,sted,565.000,15-11-2002,Alm. Salg,4.788,4,Villa,118,1963,,Aktuel værdi
+Almindevej 354920 Søllested,sted,409.144,15-11-2002,Alm. Salg,1.377,3,Villa,297,1850,,Aktuel værdi
+Højskolevej 764920 Søllested,sted,685.000,06-11-2002,Alm. Salg,5.269,4,Villa,130,1972,,Aktuel værdi
+Skovlængevej 114920 Søllested,sted,325.000,28-10-2002,Alm. Salg,3.823,3,Villa,85,1875,,Aktuel værdi
+Almindevej 104920 Søllested,sted,444.433,20-10-2002,Alm. Salg,2.116,6,Villa,210,1900,,Aktuel værdi
+Rødbyvej 54920 Søllested,sted,8.732.719,09-10-2002,Alm. Salg,25.534,10,Villa,342,1911,,Aktuel værdi
+Bækkevej 34920 Søllested,sted,575.000,02-10-2002,Alm. Salg,5.424,4,Villa,106,1961,,Aktuel værdi
+Rødbyvej 614920 Søllested,sted,500.000,02-10-2002,Alm. Salg,6.024,3,Villa,83,1928,,Aktuel værdi
+Hovedgaden 634920 Søllested,sted,337.000,27-09-2002,Alm. Salg,3.918,3,Villa,86,1914,,Aktuel værdi
+Nøbbøllevej 104920 Søllested,sted,239.000,19-09-2002,Alm. Salg,2.320,5,Villa,103,1908,,Aktuel værdi
+Bjerreskovvej 204920 Søllested,sted,265.000,09-09-2002,Alm. Salg,1.358,5,Villa,195,1958,,Aktuel værdi
+Troelsebyvej 564920 Søllested,sted,180.680,24-08-2002,Andet,1.882,3,Villa,96,1857,,Aktuel værdi
+Højrebyvej 494920 Søllested,sted,440.640,20-08-2002,Alm. Salg,4.638,4,Villa,95,1935,,Aktuel værdi
+Abedvej 124920 Søllested,sted,78.104,23-07-2002,Auktion,1.001,4,Villa,78,1877,,Aktuel værdi
+Almindevej 384920 Søllested,sted,150.000,17-07-2002,Auktion,1.401,3,Villa,107,1942,,Aktuel værdi
+Jernbanegade 34920 Søllested,sted,475.000,04-07-2002,Alm. Salg,5.459,3,Villa,87,1934,,Aktuel værdi
+Højskolevej 224920 Søllested,sted,495.000,01-07-2002,Alm. Salg,-,4,Villa,180,1920,,Aktuel værdi
+Højskolevej 134920 Søllested,sted,200.000,27-06-2002,Alm. Salg,1.550,3,Villa,129,1925,,Aktuel værdi
+Hovedgaden 604920 Søllested,sted,465.000,20-06-2002,Alm. Salg,4.386,5,Villa,106,1925,,Aktuel værdi
+Holmemarksvejen 54920 Søllested,sted,428.188,02-06-2002,Alm. Salg,3.293,3,Villa,130,1900,,Aktuel værdi
+Abedvej 404920 Søllested,sted,825.000,24-05-2002,Alm. Salg,4.342,5,Villa,190,1880,,Aktuel værdi
+Nymarksvej 34920 Søllested,sted,741.000,23-05-2002,Alm. Salg,6.557,5,Villa,113,1922,,Aktuel værdi
+Frisenlundvej 54920 Søllested,sted,561.287,11-05-2002,Alm. Salg,4.096,4,Villa,137,1972,,Aktuel værdi
+Højskolevej 804920 Søllested,sted,825.000,15-04-2002,Alm. Salg,4.435,6,Villa,186,1927,,Aktuel værdi
+Skovlængevej 94920 Søllested,sted,435.000,30-03-2002,Alm. Salg,5.058,4,Villa,86,1900,,Aktuel værdi
+Troelsebyvej 524920 Søllested,sted,2.932.500,11-03-2002,Fam. Salg,13.703,5,Stuehus,214,1822,,
+Hovedgaden 304920 Søllested,sted,350.000,05-03-2002,Alm. Salg,3.888,4,Rækkehus,90,1930,,Aktuel værdi
+Højskolevej 664920 Søllested,sted,450.000,02-03-2002,Alm. Salg,5.172,4,Villa,87,1800,,Aktuel værdi
+Højrebygade 154920 Søllested,sted,655.000,20-02-2002,Alm. Salg,2.717,7,Villa,241,1917,,Aktuel værdi
+Lavendelvej 24920 Søllested,sted,870.000,12-02-2002,Alm. Salg,6.692,4,Villa,130,1976,,Aktuel værdi
+Korterupvej 44920 Søllested,sted,900.000,02-02-2002,Alm. Salg,3.765,8,Villa,239,1977,,Aktuel værdi
+Lykkesejevej 24920 Søllested,sted,1.100.000,03-01-2002,Alm. Salg,5.851,7,Villa,188,2001,,Aktuel værdi
+Irisvej 154920 Søllested,sted,814.295,02-01-2002,Alm. Salg,5.539,5,Villa,147,1974,,Aktuel værdi
+Vestervej 204920 Søllested,sted,450.040,19-12-2001,Alm. Salg,3.103,4,Villa,145,1966,,Aktuel værdi
+Korterupvej 64920 Søllested,sted,3.697.500,17-12-2001,Fam. Salg,14.731,7,Stuehus,251,1940,,
+Jernbanegade 384920 Søllested,sted,800.000,11-12-2001,Fam. Salg,4.371,6,Villa,183,2012,,Aktuel værdi
+Højskolevej 514920 Søllested,sted,654.520,16-11-2001,Alm. Salg,3.131,7,Villa,209,1900,,Aktuel værdi
+Lykkesejevej 224920 Søllested,sted,660.000,15-11-2001,Fam. Salg,5.739,3,Villa,115,1986,,Aktuel værdi
+Højrebygade 224920 Søllested,sted,560.381,07-11-2001,Alm. Salg,4.447,4,Villa,126,1909,,Aktuel værdi
+Stibankevejen 134920 Søllested,sted,415.000,24-10-2001,Alm. Salg,2.195,4,Villa,189,1875,,Aktuel værdi
+Birkevej 304920 Søllested,sted,395.000,20-09-2001,Alm. Salg,5.563,2,Villa,71,1960,,Aktuel værdi
+Skodsebøllevej 294920 Søllested,sted,1.000.000,07-09-2001,Fam. Salg,3.484,6,Stuehus,287,1931,,
+Brogårdsvej 14920 Søllested,sted,565.000,16-08-2001,Alm. Salg,5.485,5,Villa,103,1976,,Aktuel værdi
+Hedestrædet 44920 Søllested,sted,425.000,07-08-2001,Alm. Salg,4.166,5,Villa,102,1800,,Aktuel værdi
+Haubøllevej 114920 Søllested,sted,325.000,06-08-2001,Alm. Salg,3.066,3,Villa,106,1900,,Aktuel værdi
+Højrebygade 514920 Søllested,sted,119.852,25-07-2001,Alm. Salg,1.498,4,Villa,80,1951,,Aktuel værdi
+Bjerreskovvej 294920 Søllested,sted,289.935,23-07-2001,Alm. Salg,2.543,3,Villa,114,1930,,Aktuel værdi
+Gurrebyvej 84920 Søllested,sted,395.000,18-07-2001,Alm. Salg,3.237,5,Villa,122,1890,,Aktuel værdi
+Abedvej 114920 Søllested,sted,160.000,16-07-2001,Alm. Salg,2.191,3,Villa,73,1900,,Aktuel værdi
+Irisvej 14920 Søllested,sted,670.000,14-06-2001,Alm. Salg,5.403,4,Villa,124,1975,,Aktuel værdi
+Lindevej 164920 Søllested,sted,286.000,08-06-2001,Alm. Salg,2.042,4,Villa,140,1966,,Aktuel værdi
+Skovlængevej 204920 Søllested,sted,257.000,01-06-2001,Alm. Salg,1.784,5,Villa,144,1917,,Aktuel værdi
+Højskolevej 14920 Søllested,sted,116.958,29-05-2001,Alm. Salg,879,5,Villa,133,1884,,Aktuel værdi
+Vestervej 374920 Søllested,sted,490.000,25-05-2001,Alm. Salg,3.500,4,Villa,140,1967,,Aktuel værdi
+Vesterbyvej 84920 Søllested,sted,225.220,23-05-2001,Alm. Salg,1.042,6,Villa,216,1965,,Aktuel værdi
+Højskolevej 484920 Søllested,sted,875.000,05-05-2001,Alm. Salg,2.906,6,Villa,301,1877,,Aktuel værdi
+Højskolevej 304920 Søllested,sted,725.000,01-05-2001,Alm. Salg,4.315,7,Villa,168,1916,,Aktuel værdi
+Sandhøjsvejen 14920 Søllested,sted,440.253,30-04-2001,Fam. Salg,3.966,4,Villa,111,1929,,Aktuel værdi
+Torebyvej 54920 Søllested,sted,823.723,23-04-2001,Alm. Salg,4.224,6,Villa,195,1956,,Aktuel værdi
+Græshavevej 164920 Søllested,sted,75.000,12-04-2001,Alm. Salg,789,5,Villa,95,1877,,Aktuel værdi
+Højskolevej 864920 Søllested,sted,750.000,30-03-2001,Alm. Salg,3.164,6,Villa,237,1927,,Aktuel værdi
+Højrebygade 574920 Søllested,sted,1.100.000,26-03-2001,Alm. Salg,6.111,5,Villa,180,1965,,Aktuel værdi
+Højskolevej 384920 Søllested,sted,295.000,14-03-2001,Alm. Salg,3.933,2,Villa,75,1948,,Aktuel værdi
+Maribovej 2584920 Søllested,sted,280.000,20-02-2001,Alm. Salg,2.545,2,Villa,110,1906,,Aktuel værdi
+Skovlængevej 214920 Søllested,sted,924.375,15-02-2001,Fam. Salg,5.813,4,Stuehus,159,2013,,
+Abedvej 414920 Søllested,sted,128.500,15-02-2001,Auktion,2.141,2,Villa,60,1870,,Aktuel værdi
+Haubøllevej 74920 Søllested,sted,681.000,31-01-2001,Alm. Salg,2.397,8,Villa,284,1910,,Aktuel værdi
+Højrebygade 444920 Søllested,sted,565.000,31-01-2001,Alm. Salg,4.870,3,Villa,116,1929,,Aktuel værdi
+Nøbbøllevej 144920 Søllested,sted,2.284.000,30-01-2001,Alm. Salg,12.213,6,Villa,187,1973,,Aktuel værdi
+Hovedgaden 274920 Søllested,sted,627.207,25-01-2001,Alm. Salg,4.181,6,Villa,150,1800,,Aktuel værdi
+Højrebygade 164920 Søllested,sted,275.000,19-12-2000,Fam. Salg,2.500,5,Villa,110,1906,,Aktuel værdi
+Almindevej 394920 Søllested,sted,280.000,18-12-2000,Fam. Salg,2.978,1,Villa,94,1920,,Aktuel værdi
+Højskolevej 434920 Søllested,sted,460.000,25-11-2000,Alm. Salg,-,6,Villa,234,1927,,Aktuel værdi
+Korterupvej 14920 Søllested,sted,275.000,21-11-2000,Alm. Salg,2.330,3,Villa,118,1942,,Aktuel værdi
+Lindevej 194920 Søllested,sted,410.000,02-10-2000,Fam. Salg,3.534,5,Villa,116,1968,,Aktuel værdi
+Højrebygade 64920 Søllested,sted,630.000,16-09-2000,Alm. Salg,2.669,7,Villa,236,1910,,Aktuel værdi
+Stibankevejen 124920 Søllested,sted,385.000,04-09-2000,Alm. Salg,-,6,Villa,228,1850,,Aktuel værdi
+Torebyvej 84920 Søllested,sted,500.000,04-09-2000,Alm. Salg,4.629,3,Sommerhus,108,1825,,Aktuel værdi
+Højskolevej 364920 Søllested,sted,360.000,14-08-2000,Alm. Salg,3.243,4,Villa,111,1944,,Aktuel værdi
+Hedestrædet 64920 Søllested,sted,150.000,10-08-2000,Auktion,1.339,3,Villa,112,1964,,Aktuel værdi
+Stibankevejen 214920 Søllested,sted,3.100.000,18-07-2000,Alm. Salg,10.333,6,Stuehus,300,1930,,
+Hedestrædet 24920 Søllested,sted,257.880,26-06-2000,Alm. Salg,2.865,3,Sommerhus,90,1802,,Aktuel værdi
+Højrebygade 704920 Søllested,sted,291.000,14-06-2000,Alm. Salg,3.129,3,Villa,93,1959,,Aktuel værdi
+Troelsebyvej 144920 Søllested,sted,360.000,10-06-2000,Alm. Salg,3.302,4,Villa,109,1877,,Aktuel værdi
+Hovedgaden 31A4920 Søllested,sted,356.000,06-06-2000,Alm. Salg,4.045,5,Villa,88,1929,,Aktuel værdi
+Lavendelvej 304920 Søllested,sted,800.000,05-06-2000,Alm. Salg,5.333,5,Villa,150,1973,,Aktuel værdi
+Skovlængevej 504920 Søllested,sted,86.000,16-05-2000,Alm. Salg,-,4,Villa,144,1920,,Aktuel værdi
+Højrebyvej 384920 Søllested,sted,8.537.500,05-05-2000,Alm. Salg,40.271,6,Stuehus,212,1863,,
+Askøvej 244920 Søllested,sted,630.406,04-05-2000,Alm. Salg,4.704,3,Villa,134,1900,,Aktuel værdi
+Hovedgaden 254920 Søllested,sted,230.266,21-03-2000,Fam. Salg,1.395,6,Villa,165,1905,,Aktuel værdi
+Skodsebøllevej 44920 Søllested,sted,155.000,26-02-2000,Auktion,1.183,4,Villa,131,1935,,Aktuel værdi
+Højrebygade 374920 Søllested,sted,579.000,24-02-2000,Alm. Salg,4.785,5,Villa,121,1940,,Aktuel værdi
+Strædet 34920 Søllested,sted,722.237,18-02-2000,Alm. Salg,7.445,3,Villa,97,1902,,Aktuel værdi
+Stibankevejen 164920 Søllested,sted,75.000,16-02-2000,Fam. Salg,625,4,Villa,120,1924,,Aktuel værdi
+Stibankevejen 94920 Søllested,sted,95.000,01-02-2000,Alm. Salg,940,3,Villa,101,1777,,Aktuel værdi
+Skodsebøllevej 134920 Søllested,sted,250.000,10-01-2000,Andet,1.168,7,Villa,214,1903,,Aktuel værdi
+Almindevej 74920 Søllested,sted,190.000,03-11-1999,Fam. Salg,1.900,2,Villa,100,1926,,Aktuel værdi
+Lyregårdsvej 44920 Søllested,sted,3.200.000,27-10-1999,Alm. Salg,15.238,7,Stuehus,210,1927,,
+Haubøllevej 34920 Søllested,sted,107.455,15-10-1999,Fam. Salg,735,6,Villa,146,1890,,Aktuel værdi
+Ryde Kirkevej 24920 Søllested,sted,125.000,12-10-1999,Alm. Salg,1.373,3,Villa,91,1915,,Aktuel værdi
+Skodsebøllevej 304920 Søllested,sted,800.000,30-09-1999,Fam. Salg,2.816,9,Stuehus,284,1957,,
+Højrebyvej 674920 Søllested,sted,100.000,27-09-1999,Fam. Salg,970,4,Villa,103,1916,,Aktuel værdi
+Skodsebøllevej 184920 Søllested,sted,282.287,14-09-1999,Alm. Salg,3.136,2,Villa,90,1912,,Aktuel værdi
+Rødbyvej 414920 Søllested,sted,430.000,08-09-1999,Fam. Salg,-,5,Villa,147,1928,,Aktuel værdi
+Hovedgaden 5B4920 Søllested,sted,169.339,07-09-1999,Fam. Salg,1.128,6,Villa,150,1900,,Aktuel værdi
+Rødbyvej 594920 Søllested,sted,285.000,31-08-1999,Alm. Salg,3.562,2,Villa,80,1928,,Aktuel værdi
+Troelsebyvej 64920 Søllested,sted,437.072,23-08-1999,Fam. Salg,2.665,6,Villa,164,1908,,Aktuel værdi
+Skodsebøllevej 204920 Søllested,sted,285.000,11-08-1999,Alm. Salg,1.338,5,Villa,213,1900,,Aktuel værdi
+Højrebyvej 514920 Søllested,sted,487.500,10-08-1999,Alm. Salg,-,7,Villa,237,1877,,Aktuel værdi
+Maribovej 2564920 Søllested,sted,2.630.000,09-08-1999,Fam. Salg,12.232,8,Stuehus,215,1827,,
+Rødbyvej 214920 Søllested,sted,385.000,03-08-1999,Alm. Salg,2.391,5,Villa,161,1900,,Aktuel værdi
+Lavendelvej 104920 Søllested,sted,780.000,20-07-1999,Alm. Salg,3.900,6,Villa,200,1977,,Aktuel værdi
+Abed Smedevej 34920 Søllested,sted,210.000,28-06-1999,Alm. Salg,3.500,3,Villa,60,1870,,Aktuel værdi
+Strædet 194920 Søllested,sted,1.040.000,16-06-1999,Alm. Salg,5.306,5,Stuehus,196,1922,,
+Højskolevej 524920 Søllested,sted,779.900,14-06-1999,Alm. Salg,3.979,7,Villa,196,1967,,Aktuel værdi
+Højrebygade 284920 Søllested,sted,618.000,09-06-1999,Alm. Salg,3.814,8,Villa,162,1910,,Aktuel værdi
+Søllestedgårdvej 314920 Søllested,sted,565.000,07-06-1999,Alm. Salg,2.545,10,Villa,222,1870,,Aktuel værdi
+Violvej 94920 Søllested,sted,390.000,30-05-1999,Alm. Salg,3.421,4,Villa,114,1972,,Aktuel værdi
+Højrebygade 44920 Søllested,sted,35.000,17-05-1999,Alm. Salg,593,3,Villa,59,1900,,Aktuel værdi
+Irisvej 44920 Søllested,sted,796.000,27-04-1999,Alm. Salg,4.497,7,Villa,177,1974,,Aktuel værdi
+Almindevej 584920 Søllested,sted,175.000,19-04-1999,Alm. Salg,-,2,Villa,77,1935,,Aktuel værdi
+Højrebyvej 404920 Søllested,sted,401.955,07-04-1999,Andet,1.607,4,Stuehus,250,1974,,
+Lundegårdsvej 34920 Søllested,sted,6.500.000,26-03-1999,Alm. Salg,67.010,4,Villa,97,1850,,Aktuel værdi
+Irisvej 74920 Søllested,sted,695.000,19-03-1999,Alm. Salg,3.457,5,Villa,201,1975,,Aktuel værdi
+Lykkesejevej 144920 Søllested,sted,552.500,12-03-1999,Alm. Salg,4.846,5,Villa,114,1979,,Aktuel værdi
+Toreby Sidevej 24920 Søllested,sted,550.000,11-03-1999,Alm. Salg,4.074,5,Villa,135,1922,,Aktuel værdi
+Hovedgaden 414920 Søllested,sted,476.476,08-03-1999,Alm. Salg,3.970,4,Villa,120,1910,,Aktuel værdi
+Askøvej 54920 Søllested,sted,2.120.000,05-03-1999,Alm. Salg,7.186,7,Villa,295,1900,,Aktuel værdi
+Askøvej 64920 Søllested,sted,25.000,06-01-1999,Auktion,177,5,Villa,141,1827,,Aktuel værdi
+Mimosevej 264920 Søllested,sted,500.000,06-01-1999,Alm. Salg,3.875,4,Villa,129,1976,,Aktuel værdi
+Rødbyvej 264920 Søllested,sted,372.059,22-12-1998,Alm. Salg,3.263,4,Villa,114,1928,,Aktuel værdi
+Vestervej 174920 Søllested,sted,453.000,16-12-1998,Alm. Salg,3.145,5,Villa,144,1966,,Aktuel værdi
+Holtevej 24920 Søllested,sted,167.514,14-11-1998,Alm. Salg,935,4,Villa,179,1917,,Aktuel værdi
+Løjet Skovvej 24920 Søllested,sted,764.112,02-11-1998,Alm. Salg,5.198,6,Villa,147,1927,,Aktuel værdi
+Højrebyvej 434920 Søllested,sted,487.000,10-09-1998,Alm. Salg,3.141,6,Villa,155,1900,,Aktuel værdi
+Liljevej 24920 Søllested,sted,510.000,03-08-1998,Alm. Salg,3.493,5,Villa,146,1974,,Aktuel værdi
+Ryde Møllevej 44920 Søllested,sted,700.000,15-07-1998,Alm. Salg,2.631,4,Villa,266,1800,,Aktuel værdi
+Irisvej 84920 Søllested,sted,515.000,01-07-1998,Alm. Salg,4.023,4,Villa,128,1974,,Aktuel værdi
+Askøvej 74920 Søllested,sted,275.000,01-07-1998,Alm. Salg,2.291,4,Sommerhus,120,1820,,Aktuel værdi
+Grønningen 44920 Søllested,sted,502.000,30-06-1998,Alm. Salg,4.403,5,Villa,114,1978,,Aktuel værdi
+Rødbyvej 484920 Søllested,sted,100.000,29-05-1998,Alm. Salg,952,4,Villa,105,1800,,Aktuel værdi
+Rødbyvej 44920 Søllested,sted,440.000,06-05-1998,Alm. Salg,-,6,Villa,186,1877,,Aktuel værdi
+Maribovej 2764920 Søllested,sted,1.955.000,26-04-1998,Fam. Salg,13.033,6,Stuehus,150,1860,,
+Skovlængevej 284920 Søllested,sted,372.500,14-04-1998,Alm. Salg,4.382,3,Villa,85,1877,,Aktuel værdi
+Jernbanegade 204920 Søllested,sted,230.000,11-04-1998,Alm. Salg,2.643,3,Villa,87,1927,,Aktuel værdi
+Vestervej 124920 Søllested,sted,248.000,28-01-1998,Alm. Salg,2.638,3,Villa,94,1933,,Aktuel værdi
+Højrebygade 304920 Søllested,sted,280.000,26-01-1998,Alm. Salg,-,5,Villa,112,1907,,Aktuel værdi
+Liljevej 14920 Søllested,sted,540.000,09-12-1997,Alm. Salg,-,4,Villa,151,1975,,Aktuel værdi
+Birkevej 124920 Søllested,sted,219.000,29-11-1997,Alm. Salg,2.126,3,Villa,103,1900,,Aktuel værdi
+Højrebyvej 624920 Søllested,sted,485.000,04-11-1997,Alm. Salg,3.464,4,Villa,140,1875,,Aktuel værdi
+Højskolevej 54920 Søllested,sted,230.000,29-10-1997,Alm. Salg,2.371,3,Villa,97,1908,,Aktuel værdi
+Abedvej 154920 Søllested,sted,504.872,05-10-1997,Alm. Salg,2.729,6,Villa,185,1875,,Aktuel værdi
+Frisenlundvej 104920 Søllested,sted,4.300.000,31-08-1997,Alm. Salg,17.200,5,Stuehus,250,1830,,
+Højskolevej 824920 Søllested,sted,280.000,28-08-1997,Alm. Salg,2.434,4,Villa,115,1925,,Aktuel værdi
+Sportsvej 104920 Søllested,sted,270.000,28-08-1997,Alm. Salg,3.000,2,Villa,90,1900,,Aktuel værdi
+Hellinge Sidevej 14920 Søllested,sted,287.000,21-08-1997,Alm. Salg,-,4,Sommerhus,88,1832,,Aktuel værdi
+Skodsebøllevej 194920 Søllested,sted,131.800,13-08-1997,Alm. Salg,-,5,Villa,228,1880,,Aktuel værdi
+Jernbanegade 74920 Søllested,sted,300.000,11-08-1997,Alm. Salg,1.986,6,Villa,151,1885,,Aktuel værdi
+Maribovej 2904920 Søllested,sted,343.000,08-08-1997,Alm. Salg,2.882,5,Villa,119,1907,,Aktuel værdi
+Hovedgaden 474920 Søllested,sted,485.940,21-06-1997,Alm. Salg,3.709,4,Villa,131,1947,,Aktuel værdi
+Rødbyvej 114920 Søllested,sted,320.000,10-06-1997,Alm. Salg,2.909,3,Villa,110,1961,,Aktuel værdi
+Søllestedgårdvej 304920 Søllested,sted,439.000,09-06-1997,Alm. Salg,3.135,4,Villa,140,1949,,Aktuel værdi
+Lavendelvej 234920 Søllested,sted,618.000,08-04-1997,Alm. Salg,2.686,7,Villa,230,1975,,Aktuel værdi
+Almindevej 304920 Søllested,sted,399.500,08-04-1997,Alm. Salg,2.350,7,Villa,170,1917,,Aktuel værdi
+Stibankevejen 484920 Søllested,sted,306.550,01-04-1997,Alm. Salg,1.613,6,Villa,190,1812,,Aktuel værdi
+Højrebygade 144920 Søllested,sted,210.000,12-12-1996,Alm. Salg,3.333,4,Villa,63,1904,,Aktuel værdi
+Stibankevejen 464920 Søllested,sted,140.329,12-11-1996,Alm. Salg,1.670,3,Sommerhus,84,1911,,Aktuel værdi
+Skovlængevej 54920 Søllested,sted,251.000,06-11-1996,Alm. Salg,1.426,3,Villa,176,1877,,Aktuel værdi
+Almindevej 244920 Søllested,sted,241.640,17-09-1996,Alm. Salg,2.013,4,Villa,120,1939,,Aktuel værdi
+"Hovedgaden 8, 14920 Søllested",sted,325.000,16-09-1996,Alm. Salg,2.539,3,Lejlighed,128,1930,,Aktuel værdi
+Mimosevej 144920 Søllested,sted,555.000,15-09-1996,Alm. Salg,3.557,5,Villa,156,1973,,Aktuel værdi
+Grønningen 224920 Søllested,sted,540.000,04-09-1996,Alm. Salg,4.218,5,Villa,128,1982,,Aktuel værdi
+Korterupvej 84920 Søllested,sted,565.000,04-09-1996,Alm. Salg,2.989,5,Villa,189,1955,,Aktuel værdi
+Strædet 44920 Søllested,sted,100.000,30-08-1996,Fam. Salg,990,3,Villa,101,1930,,Aktuel værdi
+Almindevej 114920 Søllested,sted,335.000,26-08-1996,Alm. Salg,1.810,6,Villa,185,1947,,Aktuel værdi
+Hovedgaden 664920 Søllested,sted,580.000,13-05-1996,Alm. Salg,4.027,5,Villa,144,1897,,Aktuel værdi
+Højrebygade 94920 Søllested,sted,359.558,11-04-1996,Fam. Salg,2.479,7,Villa,145,1917,,Aktuel værdi
+Maribovej 3074920 Søllested,sted,175.000,26-02-1996,Alm. Salg,1.356,4,Villa,129,1900,,Aktuel værdi
+Højskolevej 154920 Søllested,sted,366.000,17-01-1996,Alm. Salg,3.128,5,Villa,117,1908,,Aktuel værdi
+Gurrebyvej 154920 Søllested,sted,125.000,02-01-1996,Alm. Salg,437,9,Villa,286,1912,,Aktuel værdi
+Hovedgaden 584920 Søllested,sted,200.000,04-12-1995,Fam. Salg,2.564,3,Villa,78,1923,,Aktuel værdi
+Sportsvej 24920 Søllested,sted,224.000,14-11-1995,Alm. Salg,414,9,Villa,540,1910,,Aktuel værdi
+Højrebygade 554920 Søllested,sted,340.000,26-10-1995,Alm. Salg,-,5,Villa,152,1949,,Aktuel værdi
+Højskolevej 64920 Søllested,sted,145.000,23-10-1995,Alm. Salg,-,4,Villa,98,1927,,Aktuel værdi
+Torebyvej 94920 Søllested,sted,120.000,20-10-1995,Alm. Salg,-,5,Villa,197,1875,,Aktuel værdi
+Kåhavevej 44920 Søllested,sted,150.000,23-08-1995,Alm. Salg,2.678,2,Villa,56,1920,,Aktuel værdi
+Stibankevejen 384920 Søllested,sted,259.000,18-08-1995,Alm. Salg,2.564,3,Villa,101,1954,,Aktuel værdi
+Lindevej 134920 Søllested,sted,355.000,07-08-1995,Alm. Salg,3.317,4,Villa,107,1969,,Aktuel værdi
+Grønningen 54920 Søllested,sted,427.000,07-07-1995,Alm. Salg,3.558,3,Villa,120,1980,,Aktuel værdi
+Troelsebyvej 84920 Søllested,sted,333.440,29-06-1995,Alm. Salg,2.268,4,Villa,147,1910,,Aktuel værdi
+Kirkevej 74920 Søllested,sted,200.000,21-06-1995,Auktion,1.408,5,Stuehus,142,1900,,
+Stibankevejen 114920 Søllested,sted,243.400,03-06-1995,Alm. Salg,1.962,3,Villa,124,1936,,Aktuel værdi
+Mimosevej 84920 Søllested,sted,608.600,03-06-1995,Alm. Salg,4.168,4,Villa,146,1975,,Aktuel værdi
+Troelsebyvej 164920 Søllested,sted,141.000,23-05-1995,Alm. Salg,1.639,2,Rækkehus,86,1908,,Aktuel værdi
+Hovedgaden 374920 Søllested,sted,100.000,15-05-1995,Alm. Salg,884,4,Villa,113,1895,,Aktuel værdi
+Højrebyvej 634920 Søllested,sted,180.000,09-05-1995,Alm. Salg,1.956,3,Villa,92,1917,,Aktuel værdi
+Landet Kirkevej 24920 Søllested,sted,230.280,08-05-1995,Alm. Salg,1.680,6,Villa,137,1932,,Aktuel værdi
+Højskolevej 414920 Søllested,sted,165.000,26-03-1995,Alm. Salg,-,5,Villa,160,1914,,Aktuel værdi
+Stibankevejen 154920 Søllested,sted,400.000,14-03-1995,Alm. Salg,2.352,5,Villa,170,1915,,Aktuel værdi
+Vestervej 214920 Søllested,sted,450.000,06-02-1995,Alm. Salg,3.515,5,Villa,128,1965,,Aktuel værdi
+Højrebygade 174920 Søllested,sted,288.000,11-11-1994,Alm. Salg,2.594,6,Villa,111,1914,,Aktuel værdi
+Stibankevejen 184920 Søllested,sted,165.000,26-09-1994,Alm. Salg,2.229,3,Sommerhus,74,1867,,Aktuel værdi
+Stormgade 74920 Søllested,sted,100.436,26-09-1994,Andet,652,5,Villa,154,1922,,Aktuel værdi
+Højskolevej 564920 Søllested,sted,415.000,24-08-1994,Alm. Salg,2.677,5,Villa,155,1969,,Aktuel værdi
+Jernbanegade 304920 Søllested,sted,650.000,12-08-1994,Alm. Salg,30.952,4,Industri o.l.,21,1976,,Aktuel værdi
+Hovedgaden 394920 Søllested,sted,275.000,05-07-1994,Alm. Salg,2.522,6,Villa,109,1942,,Aktuel værdi
+Hovedgaden 444920 Søllested,sted,185.000,30-06-1994,Alm. Salg,1.850,5,Villa,100,1900,,Aktuel værdi
+Troelsebyvej 104920 Søllested,sted,440.000,30-06-1994,Alm. Salg,2.838,8,Villa,155,1912,,Aktuel værdi
+Lavendelvej 74920 Søllested,sted,476.880,02-06-1994,Alm. Salg,3.158,6,Villa,151,1974,,Aktuel værdi
+Korterupvej 134920 Søllested,sted,220.000,30-05-1994,Alm. Salg,-,5,Villa,220,1906,,Aktuel værdi
+Rødbyvej 424920 Søllested,sted,410.000,20-05-1994,Alm. Salg,2.733,5,Villa,150,1777,,Aktuel værdi
+Mimosevej 194920 Søllested,sted,410.000,13-05-1994,Alm. Salg,2.928,4,Villa,140,1974,,Aktuel værdi
+Maribovej 3054920 Søllested,sted,1.050.000,25-03-1994,Alm. Salg,4.666,6,Stuehus,225,1852,,
+Maribovej 2604920 Søllested,sted,366.000,09-03-1994,Alm. Salg,-,7,Villa,176,1910,,Aktuel værdi
+Højrebygade 184920 Søllested,sted,374.000,02-03-1994,Alm. Salg,-,5,Villa,186,1909,,Aktuel værdi
+Troelsebyvej 424920 Søllested,sted,950.000,22-12-1993,Alm. Salg,5.277,5,Villa,180,1977,,Aktuel værdi
+Rødbyvej 374920 Søllested,sted,28.000,01-12-1993,Fam. Salg,651,2,Villa,43,1927,,Aktuel værdi
+Højskolevej 374920 Søllested,sted,285.000,01-12-1993,Alm. Salg,1.759,7,Villa,162,1927,,Aktuel værdi
+Sportsvej 14920 Søllested,sted,500.000,02-11-1993,Alm. Salg,2.325,7,Villa,215,1915,,Aktuel værdi
+Mimosevej 74920 Søllested,sted,500.000,29-09-1993,Andet,2.551,4,Villa,196,1975,,Aktuel værdi
+Højskolevej 104920 Søllested,sted,240.000,18-09-1993,Alm. Salg,-,3,Villa,94,1924,,Aktuel værdi
+Langsøgårdvej 24920 Søllested,sted,515.000,02-09-1993,Alm. Salg,3.503,5,Villa,147,1972,,Aktuel værdi
+Højrebygade 364920 Søllested,sted,110.000,23-06-1993,Alm. Salg,1.182,5,Villa,93,1915,,Aktuel værdi
+Brogårdsvej 104920 Søllested,sted,345.000,16-06-1993,Alm. Salg,4.107,3,Rækkehus,84,1987,,Aktuel værdi
+Sportsvej 54920 Søllested,sted,300.000,11-06-1993,Alm. Salg,-,5,Villa,184,1905,,Aktuel værdi
+Højrebygade 354920 Søllested,sted,474.500,11-06-1993,Alm. Salg,2.458,6,Villa,193,1909,,Aktuel værdi
+Troelsebyvej 54920 Søllested,sted,355.000,11-06-1993,Alm. Salg,3.585,3,Villa,99,1926,,Aktuel værdi
+Mimosevej 184920 Søllested,sted,623.000,21-05-1993,Alm. Salg,3.068,6,Villa,203,1973,,Aktuel værdi
+Holtevej 54920 Søllested,sted,185.000,05-05-1993,Alm. Salg,-,6,Villa,157,1850,,Aktuel værdi
+Rødbyvej 24920 Søllested,sted,264.000,21-12-1992,Alm. Salg,-,4,Villa,165,1900,,Aktuel værdi
+Birkevej 204920 Søllested,sted,418.350,05-12-1992,Alm. Salg,-,5,Villa,127,1963,,Aktuel værdi
+Rødbyvej 134920 Søllested,sted,30.000,26-11-1992,Alm. Salg,187,3,Villa,160,2005,,Aktuel værdi
+Almindevej 604920 Søllested,sted,385.000,29-10-1992,Alm. Salg,1.974,6,Villa,195,1911,,Aktuel værdi
+Højrebyvej 714920 Søllested,sted,450.000,14-08-1992,Alm. Salg,924,31,Landbrug,487,1910,,Aktuel værdi
+Højskolevej 144920 Søllested,sted,150.000,11-08-1992,Alm. Salg,1.744,4,Villa,86,1901,,Aktuel værdi
+Rødbyvej 444920 Søllested,sted,178.000,10-08-1992,Alm. Salg,-,4,Villa,161,1877,,Aktuel værdi
+Mimosevej 234920 Søllested,sted,430.000,05-08-1992,Alm. Salg,2.866,5,Villa,150,1985,,Aktuel værdi
+Vestervej 8A4920 Søllested,sted,475.000,16-07-1992,Alm. Salg,-,7,Villa,239,1972,,Aktuel værdi
+Højrebygade 634920 Søllested,sted,465.000,26-06-1992,Alm. Salg,2.906,6,Villa,160,1968,,Aktuel værdi
+Rødbyvej 74920 Søllested,sted,530.000,12-05-1992,Andet,3.173,6,Villa,167,1943,,Aktuel værdi
+Vesterbyvej 104920 Søllested,sted,370.000,16-04-1992,Alm. Salg,3.083,5,Villa,120,1900,,Aktuel værdi
+Strædet 54920 Søllested,sted,200.000,31-03-1992,Fam. Salg,-,4,Stuehus,70,1902,,
+Højrebygade 504920 Søllested,sted,650.000,07-02-1992,Alm. Salg,2.927,6,Villa,222,1981,,Aktuel værdi
+Maribovej 2784920 Søllested,sted,250.000,25-01-1992,Alm. Salg,1.050,7,Villa,238,1928,,Aktuel værdi
+Vestervej 394920 Søllested,sted,318.400,22-01-1992,Alm. Salg,2.412,4,Villa,132,1970,,Aktuel værdi
+Troelsebyvej 434920 Søllested,sted,350.000,21-01-1992,Alm. Salg,2.201,4,Villa,159,1827,,Aktuel værdi

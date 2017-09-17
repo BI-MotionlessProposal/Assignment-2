@@ -1,0 +1,452 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Skovvej 199631 Gedsted,sted,670.000,02-05-2017,Alm. Salg,4.240,5,Villa,158,1988,-8 %,Aktuel værdi
+Bøgevænget 109631 Gedsted,sted,507.500,02-05-2017,Alm. Salg,4.833,6,Villa,105,1969,-7 %,Aktuel værdi
+Tolshøj 89631 Gedsted,sted,595.000,10-03-2017,Alm. Salg,1.900,13,Villa,313,1982,,Aktuel værdi
+Glerupvej 1239631 Gedsted,sted,85.000,17-02-2017,Alm. Salg,562,5,Stuehus,151,1932,,
+Langagervej 19631 Gedsted,sted,190.000,20-01-2017,Fam. Salg,2.000,3,Villa,95,1938,,Aktuel værdi
+Tolshøj 49631 Gedsted,sted,500.000,09-01-2017,Alm. Salg,3.086,5,Villa,162,1901,-16 %,Aktuel værdi
+Tolshøj 269631 Gedsted,sted,555.000,30-12-2016,Alm. Salg,3.992,6,Villa,139,1934,,Aktuel værdi
+Fjordvej 219631 Gedsted,sted,330.000,21-12-2016,Alm. Salg,2.619,3,Stuehus,126,1916,-16 %,
+Holmmarkvej 489631 Gedsted,sted,277.000,12-12-2016,Alm. Salg,7.102,2,Sommerhus,39,1935,,Aktuel værdi
+Langagervej 119631 Gedsted,sted,580.000,12-12-2016,Fam. Salg,4.496,4,Villa,129,1964,,Aktuel værdi
+Vejgrenen 29631 Gedsted,sted,200.000,06-12-2016,Alm. Salg,2.857,4,Villa,70,1949,-33 %,Aktuel værdi
+Vesterbro 319631 Gedsted,sted,670.000,02-12-2016,Alm. Salg,6.146,4,Villa,109,1946,-4 %,Aktuel værdi
+Korsholmvej 1749631 Gedsted,sted,152.156,15-11-2016,Alm. Salg,559,10,Stuehus,272,1777,,
+Ålevænget 69631 Gedsted,sted,450.000,11-11-2016,Alm. Salg,5.232,3,Sommerhus,86,1972,0 %,Aktuel værdi
+Bystrupvænget 509631 Gedsted,sted,14.700.000,31-10-2016,Alm. Salg,70.000,8,Stuehus,210,1932,,
+Enghavevej 279631 Gedsted,sted,150.000,26-10-2016,Alm. Salg,1.376,4,Villa,109,1953,0 %,Aktuel værdi
+Anna Maries Vej 29631 Gedsted,sted,740.000,18-10-2016,Alm. Salg,12.333,3,Sommerhus,60,1972,-1 %,Aktuel værdi
+Østergade 559631 Gedsted,sted,36.001,18-10-2016,Auktion,400,4,Stuehus,90,1902,,
+Tværgade 69631 Gedsted,sted,10.000,27-09-2016,Alm. Salg,113,4,Villa,88,1877,,Aktuel værdi
+Korsholmvej 1779631 Gedsted,sted,800.000,19-08-2016,Alm. Salg,4.519,6,Villa,177,1942,1 %,Aktuel værdi
+Karen Margrethes Vej 129631 Gedsted,sted,995.000,19-08-2016,Alm. Salg,10.364,4,Sommerhus,96,2007,0 %,Aktuel værdi
+Bakkevej 159631 Gedsted,sted,175.000,10-08-2016,Alm. Salg,3.125,2,Villa,56,1946,,Aktuel værdi
+Søndergade 159631 Gedsted,sted,287.585,06-07-2016,Alm. Salg,2.437,4,Villa,118,1948,,Aktuel værdi
+Ingrids Vej 29631 Gedsted,sted,725.000,19-05-2016,Alm. Salg,5.991,4,Sommerhus,121,1980,-9 %,Aktuel værdi
+Tværgade 109631 Gedsted,sted,190.000,09-05-2016,Alm. Salg,1.357,3,Villa,140,1892,-5 %,Aktuel værdi
+Havealle 19631 Gedsted,sted,50.000,03-05-2016,Alm. Salg,588,4,Villa,85,1936,-71 %,Aktuel værdi
+Bøgevænget 49631 Gedsted,sted,214.000,22-03-2016,Andet,1.550,6,Villa,138,1959,,Aktuel værdi
+Tværgade 49631 Gedsted,sted,80.000,20-03-2016,Alm. Salg,592,5,Villa,135,1857,,Aktuel værdi
+Enghavevej 3D9631 Gedsted,sted,314.500,18-03-2016,Fam. Salg,2.995,4,Rækkehus,105,1980,,Aktuel værdi
+Tolshøj 149631 Gedsted,sted,160.000,10-03-2016,Alm. Salg,1.333,2,Villa,120,1910,-19 %,Aktuel værdi
+Søndergade 99631 Gedsted,sted,300.000,07-03-2016,Alm. Salg,2.752,5,Villa,109,1937,-24 %,Aktuel værdi
+Firhøjevej 209631 Gedsted,sted,50.000,02-03-2016,Alm. Salg,666,3,Stuehus,75,1880,,
+Korsvejen 859631 Gedsted,sted,175.000,27-02-2016,Alm. Salg,1.005,8,Villa,174,1962,,Aktuel værdi
+Korsholmvej 1819631 Gedsted,sted,96.732,15-01-2016,Fam. Salg,939,4,Villa,103,1953,,Aktuel værdi
+Sognevejen 2669631 Gedsted,sted,1.600.000,19-12-2015,Alm. Salg,7.441,9,Stuehus,215,1948,,
+Holmmarkvej 1079631 Gedsted,sted,461.500,10-12-2015,Fam. Salg,2.428,7,Villa,190,1945,,Aktuel værdi
+Søndergade 239631 Gedsted,sted,265.000,27-11-2015,Alm. Salg,2.598,4,Villa,102,1962,-11 %,Aktuel værdi
+Fasanvej 89631 Gedsted,sted,268.500,10-11-2015,Auktion,2.533,4,Villa,106,1962,,Aktuel værdi
+Højagervej 79631 Gedsted,sted,415.000,23-10-2015,Alm. Salg,3.608,4,Villa,115,1974,-8 %,Aktuel værdi
+Østergade 649631 Gedsted,sted,155.000,28-09-2015,Alm. Salg,1.131,4,Villa,137,1946,-38 %,Aktuel værdi
+Bystrupvej 29631 Gedsted,sted,80.000,28-07-2015,Alm. Salg,695,3,Villa,115,1931,,Aktuel værdi
+Bystrupvænget 439631 Gedsted,sted,600.000,28-07-2015,Fam. Salg,2.970,7,Villa,202,1880,,Aktuel værdi
+Højdevej 189631 Gedsted,sted,243.853,14-07-2015,Auktion,1.754,4,Villa,139,1967,,Aktuel værdi
+Østergade 539631 Gedsted,sted,850.000,27-05-2015,Alm. Salg,5.345,4,Stuehus,159,1934,,
+Bystrupvej 109631 Gedsted,sted,1.840.000,21-05-2015,Alm. Salg,10.165,4,Villa,181,2006,-8 %,Aktuel værdi
+Enghavevej 119631 Gedsted,sted,135.000,06-05-2015,Alm. Salg,1.607,4,Villa,84,1950,-31 %,Aktuel værdi
+Lyngvej 209631 Gedsted,sted,900.000,29-04-2015,Fam. Salg,5.882,5,Villa,153,1980,,Aktuel værdi
+Glerupvej 1359631 Gedsted,sted,1.600.000,17-04-2015,Alm. Salg,5.925,8,Stuehus,270,1904,,
+Østergade 289631 Gedsted,sted,180.000,14-04-2015,Alm. Salg,1.333,2,Villa,135,1905,-10 %,Aktuel værdi
+Enghavevej 20A9631 Gedsted,sted,460.000,30-03-2015,Alm. Salg,4.423,4,Villa,104,2008,,Aktuel værdi
+Skovvej 339631 Gedsted,sted,275.000,26-02-2015,Alm. Salg,2.777,3,Villa,99,1966,-30 %,Aktuel værdi
+Langagervej 59631 Gedsted,sted,89.526,22-02-2015,Fam. Salg,994,3,Villa,90,1949,,Aktuel værdi
+Holmmarkvej 1099631 Gedsted,sted,4.750.000,06-02-2015,Andet,21.590,7,Stuehus,220,1917,,
+Østergade 189631 Gedsted,sted,125.000,28-01-2015,Alm. Salg,838,5,Villa,149,1907,-36 %,Aktuel værdi
+Tolshøj 59631 Gedsted,sted,150.000,13-01-2015,Alm. Salg,1.562,5,Villa,96,1950,0 %,Aktuel værdi
+Søndergade 139631 Gedsted,sted,755.000,28-11-2014,Alm. Salg,6.741,3,Villa,112,1946,-5 %,Aktuel værdi
+Blaabærvej 149631 Gedsted,sted,1.225.000,27-11-2014,Alm. Salg,7.335,6,Villa,167,1999,0 %,Aktuel værdi
+Langagervej 39631 Gedsted,sted,160.000,18-11-2014,Alm. Salg,1.684,6,Villa,95,1943,-54 %,Aktuel værdi
+Skovvej 119631 Gedsted,sted,70.600,04-11-2014,Auktion,1.053,2,Villa,67,1960,,Aktuel værdi
+Sønderbyvej 79631 Gedsted,sted,340.000,01-11-2014,Fam. Salg,2.857,4,Villa,119,1963,,Aktuel værdi
+Bakkevej 89631 Gedsted,sted,500.000,27-10-2014,Alm. Salg,4.761,3,Villa,105,1954,,Aktuel værdi
+Fasanvej 149631 Gedsted,sted,2.000.000,27-10-2014,Alm. Salg,8.230,5,Villa,243,2009,-13 %,Aktuel værdi
+Vejgrenen 19631 Gedsted,sted,675.000,10-10-2014,Alm. Salg,3.813,4,Villa,177,1907,,Aktuel værdi
+Præstevejen 1569631 Gedsted,sted,350.000,03-10-2014,Alm. Salg,2.611,5,Stuehus,134,1936,-29 %,
+Glerupvej 1589631 Gedsted,sted,325.000,03-10-2014,Alm. Salg,2.500,4,Villa,130,1976,-7 %,Aktuel værdi
+Vesterbro 569631 Gedsted,sted,1.500.000,03-07-2014,Alm. Salg,12.711,5,Stuehus,118,1983,,
+Tjørnevej 7A9631 Gedsted,sted,262.500,20-06-2014,Alm. Salg,2.151,5,Villa,122,1953,,Aktuel værdi
+Bakkevej 119631 Gedsted,sted,180.000,17-06-2014,Auktion,1.551,6,Villa,116,1953,,Aktuel værdi
+Nørgaardsvej 509631 Gedsted,sted,51.583.334,26-05-2014,Andet,257.916,5,Stuehus,200,1918,,
+Fjordvej 309631 Gedsted,sted,1.600.000,02-04-2014,Fam. Salg,7.272,6,Villa,220,1979,,Aktuel værdi
+Glerupvej 1409631 Gedsted,sted,1.625.000,04-03-2014,Alm. Salg,7.352,7,Stuehus,221,1981,,
+Ålevænget 119631 Gedsted,sted,200.000,30-01-2014,Fam. Salg,2.898,4,Sommerhus,69,1972,,Aktuel værdi
+Flyndervej 79631 Gedsted,sted,300.000,20-01-2014,Alm. Salg,4.166,3,Sommerhus,72,1967,-14 %,Aktuel værdi
+Præstevejen 2109631 Gedsted,sted,468.750,25-11-2013,Alm. Salg,4.986,3,Stuehus,94,1877,,
+Glerupvej 1499631 Gedsted,sted,5.440.000,04-11-2013,Fam. Salg,32.000,6,Stuehus,170,1981,,
+Bopladsen 29631 Gedsted,sted,585.000,25-10-2013,Alm. Salg,4.006,5,Villa,146,1979,-19 %,Aktuel værdi
+Vesterbro 339631 Gedsted,sted,925.000,15-10-2013,Alm. Salg,7.708,3,Villa,120,1940,,Aktuel værdi
+Makrelvej 29631 Gedsted,sted,505.702,14-10-2013,Alm. Salg,5.057,5,Sommerhus,100,1971,,Aktuel værdi
+Flyndervej 59631 Gedsted,sted,415.000,30-07-2013,Alm. Salg,6.693,3,Sommerhus,62,1976,,Aktuel værdi
+Sognevejen 2529631 Gedsted,sted,650.000,16-07-2013,Auktion,4.642,5,Stuehus,140,1900,,
+Holmmarkvej 529631 Gedsted,sted,2.440.000,15-07-2013,Alm. Salg,18.074,4,Stuehus,135,1894,,
+Korsholmvej 519631 Gedsted,sted,1.550.000,24-06-2013,Alm. Salg,11.923,4,Stuehus,130,1968,,
+Langagervej 319631 Gedsted,sted,750.000,24-06-2013,Alm. Salg,5.639,5,Villa,133,1973,,Aktuel værdi
+Østergade 449631 Gedsted,sted,163.336,18-06-2013,Auktion,1.420,5,Villa,115,1952,-58 %,Aktuel værdi
+Korsholmvej 1469631 Gedsted,sted,3.450.000,11-06-2013,Alm. Salg,15.898,6,Stuehus,217,1911,,
+Langagervej 79631 Gedsted,sted,350.000,11-06-2013,Alm. Salg,3.888,3,Villa,90,1960,-11 %,Aktuel værdi
+Bakkevej 239631 Gedsted,sted,375.000,29-05-2013,Alm. Salg,1.973,5,Villa,190,1962,-37 %,Aktuel værdi
+Vesterbro 69631 Gedsted,sted,675.000,07-03-2013,Alm. Salg,4.687,5,Villa,144,1909,,Aktuel værdi
+Fasanvej 139631 Gedsted,sted,142.400,22-01-2013,Auktion,890,5,Villa,160,1947,-66 %,Aktuel værdi
+Enghavevej 4A9631 Gedsted,sted,675.000,07-01-2013,Alm. Salg,2.481,11,Villa,272,1868,-3 %,Aktuel værdi
+Glerupvej 1329631 Gedsted,sted,1.677.133,17-12-2012,Alm. Salg,15.972,3,Stuehus,105,1905,,
+Makrelvej 59631 Gedsted,sted,350.000,20-11-2012,Alm. Salg,4.861,4,Sommerhus,72,1980,-11 %,Aktuel værdi
+Nørgaardsvej 19631 Gedsted,sted,690.000,12-10-2012,Alm. Salg,5.348,3,Villa,129,1966,-1 %,Aktuel værdi
+Lyngvej 29631 Gedsted,sted,260.000,02-10-2012,Alm. Salg,2.080,4,Villa,125,1907,-5 %,Aktuel værdi
+Lyngvej 329631 Gedsted,sted,250.000,30-09-2012,Alm. Salg,1.937,4,Villa,129,1966,,Aktuel værdi
+Ålevænget 79631 Gedsted,sted,450.000,29-06-2012,Alm. Salg,7.500,3,Sommerhus,60,1970,-9 %,Aktuel værdi
+Skovvej 319631 Gedsted,sted,260.000,24-05-2012,Auktion,2.600,4,Villa,100,1966,,Aktuel værdi
+Holmmarkvej 769631 Gedsted,sted,110.000,03-05-2012,Alm. Salg,607,5,Stuehus,181,2015,,
+Glerupvej 1989631 Gedsted,sted,1.675.000,23-04-2012,Alm. Salg,9.852,7,Stuehus,170,1916,-7 %,
+Glerupvej 1019631 Gedsted,sted,697.912,20-04-2012,Fam. Salg,5.410,5,Stuehus,129,1907,,
+Østergade 549631 Gedsted,sted,635.000,01-03-2012,Auktion,5.291,6,Stuehus,120,1919,,
+Østergade 469631 Gedsted,sted,175.000,08-02-2012,Alm. Salg,1.715,4,Villa,102,1943,-22 %,Aktuel værdi
+Østergade 409631 Gedsted,sted,640.000,26-01-2012,Alm. Salg,5.039,5,Villa,127,1935,-7 %,Aktuel værdi
+Mosegaardsvej 319631 Gedsted,sted,2.050.000,17-01-2012,Alm. Salg,6.406,10,Stuehus,320,1851,,
+Nørregade 19631 Gedsted,sted,245.000,10-01-2012,Auktion,1.262,7,Villa,194,1925,-69 %,Aktuel værdi
+Tyttebærvej 69631 Gedsted,sted,580.000,28-11-2011,Alm. Salg,4.027,5,Villa,144,1976,,Aktuel værdi
+Skovvej 49631 Gedsted,sted,1.178.319,25-11-2011,Fam. Salg,3.636,9,Villa,324,1938,-64 %,Aktuel værdi
+Porsevej 109631 Gedsted,sted,201.512,22-11-2011,Andet,787,7,Stuehus,256,1913,,
+Bystrupvej 189631 Gedsted,sted,175.000,11-11-2011,Auktion,1.411,6,Stuehus,124,1925,,
+Skrænten 59631 Gedsted,sted,379.000,02-11-2011,Fam. Salg,2.526,5,Villa,150,1955,,Aktuel værdi
+Enghavevej 299631 Gedsted,sted,525.000,01-09-2011,Alm. Salg,4.906,5,Villa,107,1949,,Aktuel værdi
+Vejgrenen 69631 Gedsted,sted,550.000,30-07-2011,Alm. Salg,3.374,6,Villa,163,1941,-8 %,Aktuel værdi
+Gyvelskrænten 39631 Gedsted,sted,780.000,19-07-2011,Alm. Salg,5.306,4,Villa,147,1938,-2 %,Aktuel værdi
+Højdevej 179631 Gedsted,sted,270.000,30-06-2011,Alm. Salg,2.872,4,Villa,94,1966,-17 %,Aktuel værdi
+Glerupvej 1519631 Gedsted,sted,200.000,28-06-2011,Auktion,1.574,6,Villa,127,1940,-49 %,Aktuel værdi
+Carl Petersensgade 29631 Gedsted,sted,803.608,15-06-2011,Alm. Salg,4.755,5,Villa,169,1907,,Aktuel værdi
+Glerupvej 1469631 Gedsted,sted,200.000,20-05-2011,Alm. Salg,1.481,4,Stuehus,135,2012,-27 %,
+Østergade 389631 Gedsted,sted,250.000,11-05-2011,Alm. Salg,3.125,6,Stuehus,80,1924,,
+Vejgrenen 89631 Gedsted,sted,500.000,07-04-2011,Alm. Salg,4.761,4,Stuehus,105,1917,,
+Østergade 99631 Gedsted,sted,80.000,10-02-2011,Auktion,544,3,Villa,147,1902,-84 %,Aktuel værdi
+Langagervej 229631 Gedsted,sted,825.000,26-01-2011,Alm. Salg,3.985,7,Villa,207,1971,-8 %,Aktuel værdi
+Østergade 369631 Gedsted,sted,310.000,28-10-2010,Auktion,1.962,3,Villa,158,1920,,Aktuel værdi
+Tjørnevej 69631 Gedsted,sted,425.000,27-10-2010,Alm. Salg,3.899,5,Villa,109,1930,-29 %,Aktuel værdi
+Tolshøj 669631 Gedsted,sted,650.000,26-10-2010,Auktion,3.217,4,Stuehus,202,1907,,
+Karen Margrethes Vej 189631 Gedsted,sted,145.000,11-10-2010,Alm. Salg,1.450,4,Sommerhus,100,2012,,Aktuel værdi
+Langagervej 219631 Gedsted,sted,400.000,27-09-2010,Alm. Salg,3.883,4,Villa,103,1967,,Aktuel værdi
+Anna Maries Vej 49631 Gedsted,sted,575.000,25-09-2010,Alm. Salg,7.565,2,Sommerhus,76,1972,-11 %,Aktuel værdi
+Østergade 489631 Gedsted,sted,190.000,27-08-2010,Alm. Salg,1.979,4,Villa,96,1920,-36 %,Aktuel værdi
+Sognevejen 2609631 Gedsted,sted,500.000,18-08-2010,Alm. Salg,3.571,6,Stuehus,140,1855,,
+Østergade 589631 Gedsted,sted,170.000,18-05-2010,Auktion,1.440,3,Villa,118,1947,,Aktuel værdi
+Søndergade 119631 Gedsted,sted,450.000,17-05-2010,Alm. Salg,4.500,6,Industri o.l.,100,1945,-18 %,Aktuel værdi
+Anna Maries Vej 69631 Gedsted,sted,685.000,16-04-2010,Alm. Salg,-,4,Sommerhus,115,2010,-1 %,Aktuel værdi
+Enghavevej 109631 Gedsted,sted,75.000,16-04-2010,Alm. Salg,797,3,Villa,94,1966,,Aktuel værdi
+Skovvej 39631 Gedsted,sted,105.000,13-04-2010,Fam. Salg,1.039,3,Villa,101,1907,,Aktuel værdi
+Vesterbro 159631 Gedsted,sted,660.000,30-03-2010,Alm. Salg,6.111,3,Rækkehus,108,1920,-5 %,Aktuel værdi
+Enebærvej 49631 Gedsted,sted,122.549,03-03-2010,Alm. Salg,680,5,Villa,180,2010,,Aktuel værdi
+Højdevej 109631 Gedsted,sted,500.000,08-02-2010,Alm. Salg,3.424,5,Villa,146,1966,,Aktuel værdi
+Søndergade 469631 Gedsted,sted,825.000,13-01-2010,Alm. Salg,7.638,6,Stuehus,108,1964,-8 %,
+Tyttebærvej 39631 Gedsted,sted,450.000,06-01-2010,Auktion,3.719,5,Villa,121,1976,,Aktuel værdi
+Kærtoftvejen 209631 Gedsted,sted,160.000,26-11-2009,Fam. Salg,1.025,4,Stuehus,156,1904,,
+Søndergade 39631 Gedsted,sted,330.000,02-11-2009,Auktion,1.896,8,Villa,174,1878,-45 %,Aktuel værdi
+Karen Margrethes Vej 109631 Gedsted,sted,825.000,29-10-2009,Alm. Salg,10.576,4,Sommerhus,78,2007,-3 %,Aktuel værdi
+Nørregade 59631 Gedsted,sted,150.000,14-10-2009,Alm. Salg,1.666,2,Villa,90,1927,-57 %,Aktuel værdi
+Østergade 159631 Gedsted,sted,334.993,14-10-2009,Andet,-,5,Villa,206,1900,,Aktuel værdi
+Enghavevej 239631 Gedsted,sted,257.234,14-10-2009,Andet,2.546,3,Villa,101,1952,,Aktuel værdi
+Karen Margrethes Vej 119631 Gedsted,sted,585.000,30-09-2009,Alm. Salg,6.500,3,Sommerhus,90,1984,-16 %,Aktuel værdi
+Korsholmvej 2609631 Gedsted,sted,10.000,28-09-2009,Auktion,136,3,Stuehus,73,1857,,
+Fasanvej 39631 Gedsted,sted,695.000,03-08-2009,Alm. Salg,7.393,3,Villa,94,1964,0 %,Aktuel værdi
+Katbakken 19631 Gedsted,sted,780.000,25-07-2009,Alm. Salg,3.880,6,Stuehus,201,1931,-5 %,
+Fasanvej 19631 Gedsted,sted,700.000,20-07-2009,Alm. Salg,5.833,4,Villa,120,1962,,Aktuel værdi
+Holmmarkvej 89631 Gedsted,sted,110.000,16-07-2009,Auktion,1.506,4,Biograf o.l.,73,1896,-78 %,Aktuel værdi
+Østergade 299631 Gedsted,sted,95.000,16-07-2009,Auktion,612,5,Villa,155,1900,-84 %,Aktuel værdi
+Østergade 319631 Gedsted,sted,160.000,16-07-2009,Auktion,1.333,4,Villa,120,1897,-60 %,Aktuel værdi
+Østergade 329631 Gedsted,sted,205.000,16-07-2009,Auktion,1.782,4,Villa,115,1930,-45 %,Aktuel værdi
+Skovvej 19631 Gedsted,sted,275.000,12-06-2009,Auktion,2.894,4,Villa,95,1900,,Aktuel værdi
+Bøgevænget 29631 Gedsted,sted,450.000,04-06-2009,Alm. Salg,4.054,5,Villa,111,1938,0 %,Aktuel værdi
+Holmmarkvej 169631 Gedsted,sted,2.700.000,28-05-2009,Fam. Salg,45.000,2,Stuehus,60,1827,,
+Tværgade 89631 Gedsted,sted,110.000,26-05-2009,Auktion,833,4,Villa,132,1935,-85 %,Aktuel værdi
+Holmmarkvej 69631 Gedsted,sted,175.000,25-05-2009,Auktion,1.750,3,Villa,100,1887,,Aktuel værdi
+Lyngvej 19631 Gedsted,sted,233.155,25-05-2009,Auktion,2.562,3,Villa,91,1924,,Aktuel værdi
+Skovvej 89631 Gedsted,sted,685.764,13-05-2009,Alm. Salg,4.033,5,Villa,170,1880,,Aktuel værdi
+Glerupvej 1279631 Gedsted,sted,2.900.000,30-04-2009,Fam. Salg,14.646,7,Stuehus,198,1927,,
+Tolshøj 479631 Gedsted,sted,1.600.000,14-04-2009,Alm. Salg,7.582,5,Stuehus,211,1897,-6 %,
+Korsholmvej 1799631 Gedsted,sted,176.961,03-04-2009,Fam. Salg,1.623,4,Villa,109,1945,,Aktuel værdi
+Anna Maries Vej 109631 Gedsted,sted,650.000,20-02-2009,Alm. Salg,12.500,4,Sommerhus,52,1973,,Aktuel værdi
+Bøgevænget 59631 Gedsted,sted,200.000,10-02-2009,Fam. Salg,2.666,3,Villa,75,1954,,Aktuel værdi
+Glerupvej 1209631 Gedsted,sted,17.915.000,15-01-2009,Alm. Salg,162.863,3,Stuehus,110,1900,,
+Højdevej 129631 Gedsted,sted,465.000,09-01-2009,Alm. Salg,3.632,4,Villa,128,1965,,Aktuel værdi
+Præstevejen 1969631 Gedsted,sted,11.280.000,18-12-2008,Alm. Salg,61.639,7,Stuehus,183,1982,,
+Tolshøj 319631 Gedsted,sted,2.700.000,21-11-2008,Alm. Salg,15.428,9,Villa,175,1904,,Aktuel værdi
+Enghavevej 189631 Gedsted,sted,500.000,19-11-2008,Alm. Salg,6.250,2,Villa,80,1930,0 %,Aktuel værdi
+Ålevænget 39631 Gedsted,sted,165.000,19-11-2008,Alm. Salg,1.352,6,Sommerhus,122,2009,,Aktuel værdi
+Bakkevej 129631 Gedsted,sted,490.000,14-11-2008,Alm. Salg,5.568,3,Villa,88,1955,-18 %,Aktuel værdi
+"Østergade 23, 19631 Gedsted",sted,2.500.000,06-11-2008,Alm. Salg,6.944,9,Lejlighed,360,1949,,Aktuel værdi
+Langagervej 89631 Gedsted,sted,575.000,23-10-2008,Alm. Salg,6.117,3,Villa,94,1949,,Aktuel værdi
+Østergade 599631 Gedsted,sted,1.200.000,05-09-2008,Alm. Salg,9.302,5,Stuehus,129,1938,,
+Tjørnevej 119631 Gedsted,sted,575.000,21-08-2008,Fam. Salg,4.791,4,Villa,120,1970,,Aktuel værdi
+Nørrevold 69631 Gedsted,sted,450.000,18-07-2008,Alm. Salg,5.769,3,Villa,78,1961,,Aktuel værdi
+Langagervej 99631 Gedsted,sted,305.000,17-07-2008,Alm. Salg,5.083,1,Villa,60,1956,,Aktuel værdi
+Nørrevangen 169631 Gedsted,sted,1.200.000,02-06-2008,Alm. Salg,7.407,5,Villa,162,1977,,Aktuel værdi
+Langagervej 199631 Gedsted,sted,400.000,28-05-2008,Fam. Salg,3.539,4,Villa,113,1966,,Aktuel værdi
+Østergade 849631 Gedsted,sted,1.685.000,20-05-2008,Alm. Salg,12.122,3,Stuehus,139,1932,-6 %,
+Fasanvej 189631 Gedsted,sted,1.000.000,30-04-2008,Alm. Salg,4.854,10,Villa,206,1969,0 %,Aktuel værdi
+Glerupvej 1689631 Gedsted,sted,950.000,24-04-2008,Alm. Salg,3.584,8,Villa,265,1915,-5 %,Aktuel værdi
+Holmmarkvej 49631 Gedsted,sted,280.000,02-04-2008,Alm. Salg,3.294,4,Villa,85,1897,,Aktuel værdi
+Skovvej 359631 Gedsted,sted,450.000,25-03-2008,Fam. Salg,4.545,4,Villa,99,1966,,Aktuel værdi
+Fjordvej 479631 Gedsted,sted,5.000.000,14-03-2008,Alm. Salg,27.932,4,Stuehus,179,1903,,
+Højdevej 149631 Gedsted,sted,900.000,07-03-2008,Alm. Salg,5.921,5,Villa,152,1965,,Aktuel værdi
+Anna Maries Vej 39631 Gedsted,sted,700.000,07-03-2008,Alm. Salg,12.962,4,Sommerhus,54,1973,,Aktuel værdi
+Porsevej 49631 Gedsted,sted,825.000,17-02-2008,Alm. Salg,5.254,6,Villa,157,1974,-2 %,Aktuel værdi
+Glerupvej 839631 Gedsted,sted,3.100.000,15-02-2008,Alm. Salg,17.514,6,Stuehus,177,1931,,
+Glerupvej 1049631 Gedsted,sted,750.000,01-02-2008,Alm. Salg,7.653,4,Stuehus,98,1929,0 %,
+Nørregade 89631 Gedsted,sted,330.000,14-01-2008,Alm. Salg,2.444,4,Villa,135,1927,,Aktuel værdi
+Enghavevej 179631 Gedsted,sted,695.000,19-12-2007,Alm. Salg,6.435,3,Villa,108,1948,0 %,Aktuel værdi
+Blaabærvej 69631 Gedsted,sted,623.719,18-12-2007,Alm. Salg,4.186,5,Villa,149,1984,,Aktuel værdi
+Enghavevej 79631 Gedsted,sted,362.000,09-12-2007,Alm. Salg,2.919,5,Villa,124,1932,-9 %,Aktuel værdi
+Laksevej 29631 Gedsted,sted,178.000,07-12-2007,Fam. Salg,2.282,4,Sommerhus,78,1977,,Aktuel værdi
+"Vesterbro 22, 19631 Gedsted",sted,590.000,14-11-2007,Alm. Salg,4.916,4,Lejlighed,120,1948,-1 %,Aktuel værdi
+Nørregade 49631 Gedsted,sted,625.000,14-11-2007,Fam. Salg,5.252,6,Villa,119,1924,,Aktuel værdi
+Nørrevangen 519631 Gedsted,sted,11.900.000,08-10-2007,Fam. Salg,64.673,6,Stuehus,184,1853,,
+Tolshøj 279631 Gedsted,sted,3.150.000,08-10-2007,Fam. Salg,25.819,5,Stuehus,122,1922,,
+Vesterbro 129631 Gedsted,sted,250.000,20-09-2007,Alm. Salg,1.136,7,Rækkehus,220,1904,,Aktuel værdi
+Østergade 149631 Gedsted,sted,700.000,19-09-2007,Alm. Salg,4.430,9,Villa,158,1927,,Aktuel værdi
+Tolshøj 299631 Gedsted,sted,310.000,27-08-2007,Alm. Salg,2.719,5,Stuehus,114,1927,,
+Karen Margrethes Vej 139631 Gedsted,sted,100.000,24-08-2007,Alm. Salg,934,5,Sommerhus,107,2010,,Aktuel værdi
+Anna Maries Vej 149631 Gedsted,sted,585.000,10-08-2007,Alm. Salg,8.863,3,Sommerhus,66,1976,,Aktuel værdi
+Hybenvej 109631 Gedsted,sted,500.000,26-07-2007,Alm. Salg,3.937,4,Villa,127,1945,,Aktuel værdi
+Fasanvej 129631 Gedsted,sted,1.298.000,01-07-2007,Alm. Salg,5.408,6,Villa,240,1958,0 %,Aktuel værdi
+Glerupvej 1489631 Gedsted,sted,595.000,06-06-2007,Alm. Salg,4.250,5,Stuehus,140,1900,,
+Korsholmvej 1539631 Gedsted,sted,1.800.000,16-05-2007,Alm. Salg,9.473,6,Stuehus,190,1911,0 %,
+Enghavevej 319631 Gedsted,sted,450.000,13-05-2007,Alm. Salg,4.591,4,Villa,98,1962,,Aktuel værdi
+Højdevej 239631 Gedsted,sted,416.000,30-04-2007,Alm. Salg,5.200,4,Villa,80,1967,,Aktuel værdi
+Højdevej 79631 Gedsted,sted,825.000,13-04-2007,Alm. Salg,4.687,8,Villa,176,1968,,Aktuel værdi
+Nørregade 5A9631 Gedsted,sted,300.000,10-04-2007,Alm. Salg,3.409,3,Villa,88,1931,-20 %,Aktuel værdi
+Hybenvej 89631 Gedsted,sted,290.000,10-04-2007,Alm. Salg,4.142,3,Villa,70,1962,-16 %,Aktuel værdi
+Holmmarkvej 679631 Gedsted,sted,115.000,09-04-2007,Alm. Salg,1.597,3,Stuehus,72,1906,,
+Korsholmvej 2539631 Gedsted,sted,955.000,23-03-2007,Alm. Salg,10.268,2,Villa,93,2003,7 %,Aktuel værdi
+Nørrevold 99631 Gedsted,sted,520.000,20-03-2007,Alm. Salg,4.727,4,Villa,110,1951,-10 %,Aktuel værdi
+Sognevejen 2719631 Gedsted,sted,1.357.600,12-03-2007,Fam. Salg,5.777,7,Stuehus,235,1900,,
+Korsholmvej 2579631 Gedsted,sted,2.742.500,20-02-2007,Fam. Salg,16.132,7,Stuehus,170,1906,,
+Fjordvej 369631 Gedsted,sted,809.800,01-02-2007,Alm. Salg,4.849,7,Stuehus,167,1909,,
+Enghavevej 229631 Gedsted,sted,460.000,23-01-2007,Alm. Salg,5.750,4,Villa,80,1958,,Aktuel værdi
+Højdevej 139631 Gedsted,sted,670.800,04-01-2007,Alm. Salg,4.442,4,Villa,151,1965,,Aktuel værdi
+Skovvej 189631 Gedsted,sted,1.400.000,06-11-2006,Alm. Salg,4.590,8,Villa,305,1969,,Aktuel værdi
+Bakkevej 49631 Gedsted,sted,397.515,23-10-2006,Alm. Salg,2.208,5,Villa,180,1985,,Aktuel værdi
+Skovvej 159631 Gedsted,sted,430.000,31-08-2006,Alm. Salg,3.706,3,Villa,116,1962,,Aktuel værdi
+Østergade 429631 Gedsted,sted,415.000,03-08-2006,Alm. Salg,3.167,5,Villa,131,1927,,Aktuel værdi
+Lyngvej 79631 Gedsted,sted,820.000,07-07-2006,Alm. Salg,5.466,7,Villa,150,1951,,Aktuel værdi
+Karen Margrethes Vej 169631 Gedsted,sted,665.000,19-06-2006,Alm. Salg,7.228,3,Sommerhus,92,2000,,Aktuel værdi
+Laksevej 49631 Gedsted,sted,350.000,14-06-2006,Alm. Salg,5.000,3,Sommerhus,70,1973,,Aktuel værdi
+Skrænten 69631 Gedsted,sted,780.000,30-05-2006,Alm. Salg,4.588,5,Villa,170,1977,,Aktuel værdi
+Enghavevej 3A9631 Gedsted,sted,480.000,25-04-2006,Alm. Salg,4.571,4,Rækkehus,105,1980,,Aktuel værdi
+Holmmarkvej 109631 Gedsted,sted,314.500,24-04-2006,Alm. Salg,985,10,Villa,319,1960,,Aktuel værdi
+Tolshøj 639631 Gedsted,sted,18.812.938,03-04-2006,Alm. Salg,129.744,6,Stuehus,145,1907,,
+Langagervej 69631 Gedsted,sted,850.000,25-03-2006,Alm. Salg,6.640,4,Villa,128,1946,,Aktuel værdi
+Flyndervej 29631 Gedsted,sted,550.000,20-03-2006,Alm. Salg,10.000,3,Sommerhus,55,1972,,Aktuel værdi
+Fasanvej 29631 Gedsted,sted,200.000,08-03-2006,Alm. Salg,4.651,2,Villa,43,1964,,Aktuel værdi
+Korsholmvej 1329631 Gedsted,sted,1.695.000,06-02-2006,Alm. Salg,8.874,7,Villa,191,2000,,Aktuel værdi
+Kærtoftvejen 169631 Gedsted,sted,1.264.849,06-02-2006,Alm. Salg,-,7,Stuehus,211,1890,,
+Katbakken 59631 Gedsted,sted,618.000,05-01-2006,Alm. Salg,4.717,5,Villa,131,1824,,Aktuel værdi
+Tolshøj 239631 Gedsted,sted,400.000,23-12-2005,Alm. Salg,3.174,5,Stuehus,126,1864,,
+Lyngvej 369631 Gedsted,sted,430.000,08-12-2005,Alm. Salg,4.343,4,Villa,99,1966,,Aktuel værdi
+Skrænten 1A9631 Gedsted,sted,735.000,11-10-2005,Alm. Salg,4.083,5,Villa,180,1972,,Aktuel værdi
+Tyttebærvej 19631 Gedsted,sted,790.000,19-09-2005,Alm. Salg,4.316,5,Villa,183,1975,,Aktuel værdi
+Nørrevangen 19631 Gedsted,sted,365.000,09-09-2005,Alm. Salg,3.802,4,Villa,96,1960,,Aktuel værdi
+Gyvelskrænten 59631 Gedsted,sted,500.000,15-08-2005,Alm. Salg,5.555,3,Villa,90,1952,,Aktuel værdi
+Præstevejen 1129631 Gedsted,sted,865.000,08-08-2005,Alm. Salg,5.148,5,Stuehus,168,1897,,
+Lærkevej 29631 Gedsted,sted,525.000,06-08-2005,Alm. Salg,3.697,5,Villa,142,1943,,Aktuel værdi
+Vejgrenen 49631 Gedsted,sted,685.000,25-07-2005,Alm. Salg,4.892,4,Villa,140,1945,,Aktuel værdi
+Tolshøj 99631 Gedsted,sted,595.000,12-07-2005,Alm. Salg,5.219,7,Villa,114,1964,,Aktuel værdi
+Vibevej 19631 Gedsted,sted,287.000,27-06-2005,Alm. Salg,2.928,4,Villa,98,1959,,Aktuel værdi
+Vesterbro 219631 Gedsted,sted,795.000,21-06-2005,Alm. Salg,3.180,8,Villa,250,1943,,Aktuel værdi
+Nørregade 69631 Gedsted,sted,598.000,14-06-2005,Alm. Salg,4.496,5,Villa,133,1923,,Aktuel værdi
+Skovvej 29631 Gedsted,sted,265.000,12-06-2005,Alm. Salg,1.380,6,Villa,192,1920,,Aktuel værdi
+Bakkevej 99631 Gedsted,sted,455.000,02-05-2005,Alm. Salg,4.642,3,Villa,98,1952,,Aktuel værdi
+Blaabærvej 109631 Gedsted,sted,950.000,26-04-2005,Alm. Salg,6.250,5,Villa,152,1988,,Aktuel værdi
+Tjørnevej 29631 Gedsted,sted,583.000,16-03-2005,Alm. Salg,3.598,6,Villa,162,1964,,Aktuel værdi
+Østergade 509631 Gedsted,sted,680.000,16-03-2005,Alm. Salg,4.146,6,Villa,164,1922,,Aktuel værdi
+Nørrevangen 4A9631 Gedsted,sted,1.000.000,04-03-2005,Alm. Salg,4.166,5,Villa,240,1973,,Aktuel værdi
+Nørrevold 49631 Gedsted,sted,350.000,28-02-2005,Alm. Salg,3.365,4,Villa,104,1962,,Aktuel værdi
+Langagervej 109631 Gedsted,sted,395.000,20-02-2005,Alm. Salg,2.821,4,Villa,140,1965,,Aktuel værdi
+Anna Maries Vej 159631 Gedsted,sted,67.000,05-02-2005,Alm. Salg,1.015,4,Sommerhus,66,2013,,Aktuel værdi
+Enghavevej 269631 Gedsted,sted,350.000,03-02-2005,Alm. Salg,3.763,4,Villa,93,1967,,Aktuel værdi
+Søndergade 629631 Gedsted,sted,302.068,26-01-2005,Alm. Salg,1.052,5,Stuehus,287,1927,,
+Tolshøj 159631 Gedsted,sted,1.250.000,31-12-2004,Alm. Salg,15.625,4,Villa,80,1910,,Aktuel værdi
+Nørrevold 59631 Gedsted,sted,590.000,17-12-2004,Alm. Salg,5.566,4,Villa,106,1974,,Aktuel værdi
+Korsvejen 1029631 Gedsted,sted,150.000,13-12-2004,Alm. Salg,802,6,Stuehus,187,1953,,
+Laksevej 69631 Gedsted,sted,435.000,22-10-2004,Alm. Salg,-,5,Sommerhus,102,1969,,Aktuel værdi
+Fjordvej 39631 Gedsted,sted,990.000,31-08-2004,Alm. Salg,7.734,4,Stuehus,128,1900,,
+Bystrupvej 19631 Gedsted,sted,595.000,23-07-2004,Alm. Salg,2.989,7,Villa,199,1937,,Aktuel værdi
+Nørgaardsvej 39631 Gedsted,sted,740.000,13-07-2004,Alm. Salg,5.174,4,Stuehus,143,1925,,
+Skovvej 399631 Gedsted,sted,725.000,08-07-2004,Alm. Salg,3.485,7,Villa,208,1966,,Aktuel værdi
+Enghavevej 259631 Gedsted,sted,387.500,05-07-2004,Alm. Salg,2.320,7,Villa,167,1952,,Aktuel værdi
+Skrænten 89631 Gedsted,sted,785.000,28-04-2004,Alm. Salg,4.088,6,Villa,192,1979,,Aktuel værdi
+Mosegaardsvej 689631 Gedsted,sted,960.000,14-04-2004,Alm. Salg,-,6,Stuehus,247,1911,,
+Bystrupvej 209631 Gedsted,sted,595.000,17-03-2004,Alm. Salg,-,8,Villa,249,1884,,Aktuel værdi
+Anna Maries Vej 139631 Gedsted,sted,65.000,01-03-2004,Alm. Salg,942,3,Sommerhus,69,2004,,Aktuel værdi
+Bakkevej 59631 Gedsted,sted,250.000,25-02-2004,Alm. Salg,1.851,4,Villa,135,1952,,Aktuel værdi
+Nørrevangen 89631 Gedsted,sted,1.200.000,20-02-2004,Alm. Salg,7.692,5,Villa,156,1965,,Aktuel værdi
+Lyngvej 179631 Gedsted,sted,595.000,11-02-2004,Alm. Salg,4.760,4,Villa,125,1973,,Aktuel værdi
+Enghavevej 3B9631 Gedsted,sted,420.000,06-02-2004,Alm. Salg,4.000,3,Rækkehus,105,1980,,Aktuel værdi
+Enghavevej 169631 Gedsted,sted,210.000,06-02-2004,Alm. Salg,1.909,4,Villa,110,1942,,Aktuel værdi
+Korsholmvej 1149631 Gedsted,sted,600.000,04-02-2004,Alm. Salg,3.191,5,Stuehus,188,1922,,
+Søndergade 179631 Gedsted,sted,330.000,02-02-2004,Alm. Salg,2.200,5,Villa,150,1948,,Aktuel værdi
+Flyndervej 39631 Gedsted,sted,405.000,20-01-2004,Alm. Salg,5.062,3,Sommerhus,80,1972,,Aktuel værdi
+Østergade 169631 Gedsted,sted,110.000,17-12-2003,Alm. Salg,1.279,6,Villa,86,1894,,Aktuel værdi
+Nørrevold 29631 Gedsted,sted,160.000,11-12-2003,Alm. Salg,2.857,2,Villa,56,1919,,Aktuel værdi
+Skovbakken 69631 Gedsted,sted,280.000,26-11-2003,Alm. Salg,4.117,4,Villa,68,1953,,Aktuel værdi
+Tværgade 119631 Gedsted,sted,250.000,20-11-2003,Alm. Salg,1.908,5,Villa,131,1908,,Aktuel værdi
+Enghavevej 59631 Gedsted,sted,435.000,11-11-2003,Alm. Salg,5.117,5,Villa,85,1932,,Aktuel værdi
+Vesterbro 469631 Gedsted,sted,860.000,07-10-2003,Fam. Salg,5.308,5,Stuehus,162,1988,,
+Langagervej 239631 Gedsted,sted,542.000,25-06-2003,Alm. Salg,3.044,6,Villa,178,1970,,Aktuel værdi
+Anna Maries Vej 129631 Gedsted,sted,250.000,19-06-2003,Alm. Salg,4.545,4,Sommerhus,55,1977,,Aktuel værdi
+Enghavevej 249631 Gedsted,sted,310.000,16-06-2003,Alm. Salg,3.875,3,Villa,80,1953,,Aktuel værdi
+Fjordvej 989631 Gedsted,sted,850.000,30-05-2003,Alm. Salg,4.569,5,Villa,186,1937,,Aktuel værdi
+Bakkevej 139631 Gedsted,sted,475.000,27-05-2003,Alm. Salg,4.241,5,Villa,112,1955,,Aktuel værdi
+Lyngvej 219631 Gedsted,sted,479.000,26-05-2003,Alm. Salg,3.421,4,Villa,140,1973,,Aktuel værdi
+Karen Margrethes Vej 39631 Gedsted,sted,325.000,08-05-2003,Alm. Salg,5.416,3,Sommerhus,60,1972,,Aktuel værdi
+Bopladsen 59631 Gedsted,sted,565.000,07-04-2003,Alm. Salg,3.766,5,Villa,150,1979,,Aktuel værdi
+Flyndervej 49631 Gedsted,sted,381.441,18-02-2003,Alm. Salg,4.015,6,Sommerhus,95,1973,,Aktuel værdi
+Mosegaardsvej 519631 Gedsted,sted,775.000,05-02-2003,Alm. Salg,5.575,4,Villa,139,1968,,Aktuel værdi
+Karen Margrethes Vej 209631 Gedsted,sted,299.000,21-12-2002,Alm. Salg,5.339,5,Sommerhus,56,1974,,Aktuel værdi
+Firhøjevej 289631 Gedsted,sted,895.000,20-12-2002,Alm. Salg,4.475,6,Stuehus,200,1925,,
+Fjordvej 1519631 Gedsted,sted,780.000,28-11-2002,Alm. Salg,3.919,6,Stuehus,199,1910,,
+Lyngvej 99631 Gedsted,sted,173.711,18-11-2002,Fam. Salg,2.067,5,Villa,84,1957,,Aktuel værdi
+Tyttebærvej 239631 Gedsted,sted,1.150.000,16-09-2002,Alm. Salg,6.725,4,Villa,171,1999,,Aktuel værdi
+Kærtoftvejen 269631 Gedsted,sted,820.000,02-09-2002,Alm. Salg,4.141,7,Stuehus,198,1931,,
+Vejgrenen 39631 Gedsted,sted,200.000,22-08-2002,Fam. Salg,2.941,3,Villa,68,1905,,Aktuel værdi
+Skovvej 139631 Gedsted,sted,320.000,18-08-2002,Alm. Salg,3.200,4,Villa,100,1964,,Aktuel værdi
+Glerupvej 1569631 Gedsted,sted,385.000,04-08-2002,Alm. Salg,3.208,5,Villa,120,1941,,Aktuel værdi
+Kærtoftvejen 129631 Gedsted,sted,316.000,02-08-2002,Alm. Salg,1.805,7,Stuehus,175,1919,,
+Tværgade 59631 Gedsted,sted,386.000,17-07-2002,Alm. Salg,3.860,3,Villa,100,1907,,Aktuel værdi
+Anna Maries Vej 119631 Gedsted,sted,300.000,15-07-2002,Alm. Salg,-,4,Sommerhus,116,1970,,Aktuel værdi
+Korsholmvej 2189631 Gedsted,sted,1.095.000,21-06-2002,Alm. Salg,11.902,3,Stuehus,92,1923,,
+Vesterbro 279631 Gedsted,sted,440.000,06-06-2002,Alm. Salg,3.120,4,Villa,141,1960,,Aktuel værdi
+Nørrevold 39631 Gedsted,sted,255.000,06-06-2002,Alm. Salg,4.112,2,Villa,62,1950,,Aktuel værdi
+Karen Margrethes Vej 79631 Gedsted,sted,135.000,30-03-2002,Fam. Salg,2.500,2,Sommerhus,54,1974,,Aktuel værdi
+Tolshøj 79631 Gedsted,sted,495.000,26-03-2002,Alm. Salg,1.819,5,Villa,272,1907,,Aktuel værdi
+Ålevænget 19631 Gedsted,sted,105.000,23-03-2002,Alm. Salg,-,4,Sommerhus,80,1975,,Aktuel værdi
+Korsholmvej 1289631 Gedsted,sted,470.000,12-02-2002,Fam. Salg,4.519,5,Villa,104,1951,,Aktuel værdi
+Tolshøj 379631 Gedsted,sted,525.000,10-01-2002,Fam. Salg,1.526,8,Villa,344,1936,,Aktuel værdi
+Skovbakken 39631 Gedsted,sted,970.000,02-01-2002,Alm. Salg,3.489,10,Villa,278,1958,,Aktuel værdi
+Ingrids Vej 49631 Gedsted,sted,254.000,19-12-2001,Alm. Salg,-,4,Sommerhus,109,1977,,Aktuel værdi
+Præstevejen 1749631 Gedsted,sted,4.067.482,13-12-2001,Fam. Salg,25.581,5,Stuehus,159,1890,,
+Korsholmvej 1709631 Gedsted,sted,800.000,29-11-2001,Alm. Salg,4.301,5,Villa,186,1933,,Aktuel værdi
+Enghavevej 3C9631 Gedsted,sted,410.000,27-11-2001,Alm. Salg,3.904,4,Rækkehus,105,1980,,Aktuel værdi
+Ingrids Vej 109631 Gedsted,sted,265.000,15-11-2001,Alm. Salg,-,6,Sommerhus,137,1978,,Aktuel værdi
+Bopladsen 89631 Gedsted,sted,680.000,07-11-2001,Alm. Salg,5.354,4,Villa,127,1979,,Aktuel værdi
+Søndergade 59631 Gedsted,sted,315.927,25-10-2001,Alm. Salg,2.632,6,Villa,120,1880,,Aktuel værdi
+Østergade 359631 Gedsted,sted,285.000,12-10-2001,Alm. Salg,3.097,3,Villa,92,1905,,Aktuel værdi
+Søndergade 229631 Gedsted,sted,185.000,03-07-2001,Alm. Salg,1.434,7,Stuehus,129,1947,,
+Bakkevej 179631 Gedsted,sted,445.000,25-06-2001,Alm. Salg,3.647,4,Villa,122,1955,,Aktuel værdi
+Tjørnevej 39631 Gedsted,sted,285.000,25-05-2001,Alm. Salg,3.238,3,Villa,88,1927,,Aktuel værdi
+Lyngvej 59631 Gedsted,sted,223.300,28-04-2001,Andet,1.550,6,Villa,144,1930,,Aktuel værdi
+Tolshøj 259631 Gedsted,sted,187.000,15-01-2001,Alm. Salg,2.337,4,Villa,80,1875,,Aktuel værdi
+Skrænten 39631 Gedsted,sted,400.209,04-01-2001,Andet,3.031,4,Villa,132,1999,,Aktuel værdi
+Præstevejen 1059631 Gedsted,sted,750.000,04-01-2001,Alm. Salg,5.000,6,Stuehus,150,1932,,
+Højagervej 49631 Gedsted,sted,521.000,30-11-2000,Alm. Salg,4.007,4,Villa,130,1973,,Aktuel værdi
+Laksevej 19631 Gedsted,sted,657.694,15-11-2000,Alm. Salg,-,8,Sommerhus,145,1974,,Aktuel værdi
+Enghavevej 129631 Gedsted,sted,308.000,25-10-2000,Alm. Salg,-,5,Villa,188,1929,,Aktuel værdi
+Bøgevænget 79631 Gedsted,sted,320.000,09-10-2000,Alm. Salg,5.161,2,Villa,62,1943,,Aktuel værdi
+Torvegade 49631 Gedsted,sted,280.000,15-09-2000,Alm. Salg,2.800,4,Villa,100,1927,,Aktuel værdi
+"Østergade 7, 19631 Gedsted",sted,753.000,05-09-2000,Alm. Salg,5.577,3,Lejlighed,135,1930,,Aktuel værdi
+Skrænten 49631 Gedsted,sted,970.000,02-08-2000,Alm. Salg,4.369,6,Villa,222,1980,,Aktuel værdi
+Østergade 249631 Gedsted,sted,476.000,24-05-2000,Alm. Salg,2.277,9,Villa,209,1907,,Aktuel værdi
+Glerupvej 999631 Gedsted,sted,62.000,01-05-2000,Alm. Salg,645,4,Stuehus,96,1917,,
+Bystrupvej 149631 Gedsted,sted,8.350.499,17-04-2000,Fam. Salg,33.807,7,Stuehus,247,1915,,
+Tværgade 11B9631 Gedsted,sted,2.160.202,28-03-2000,Fam. Salg,10.385,6,Stuehus,208,1882,,
+Østergade 26A9631 Gedsted,sted,546.377,28-03-2000,Fam. Salg,5.012,5,Villa,109,1945,,Aktuel værdi
+Sognevejen 3039631 Gedsted,sted,295.000,07-12-1999,Alm. Salg,-,5,Villa,126,1933,,Aktuel værdi
+Bakkevej 79631 Gedsted,sted,295.000,23-10-1999,Alm. Salg,3.241,3,Villa,91,1957,,Aktuel værdi
+Laksevej 99631 Gedsted,sted,345.000,18-10-1999,Alm. Salg,-,3,Sommerhus,75,1967,,Aktuel værdi
+Laksevej 119631 Gedsted,sted,105.000,18-10-1999,Alm. Salg,5.833,1,Sommerhus,18,2001,,Aktuel værdi
+Hybenvej 39631 Gedsted,sted,207.395,06-09-1999,Alm. Salg,2.728,2,Villa,76,1920,,Aktuel værdi
+Glerupvej 1539631 Gedsted,sted,219.000,17-08-1999,Alm. Salg,1.288,6,Villa,170,1923,,Aktuel værdi
+Lyngvej 149631 Gedsted,sted,352.705,10-07-1999,Alm. Salg,3.359,6,Villa,105,1962,,Aktuel værdi
+Tværgade 79631 Gedsted,sted,255.000,09-07-1999,Alm. Salg,1.517,6,Villa,168,1908,,Aktuel værdi
+Mosegaardsvej 489631 Gedsted,sted,750.000,01-07-1999,Alm. Salg,-,6,Stuehus,217,1911,,
+Østergade 419631 Gedsted,sted,230.000,24-06-1999,Alm. Salg,3.108,2,Villa,74,1880,,Aktuel værdi
+Sognevejen 3019631 Gedsted,sted,250.000,19-05-1999,Alm. Salg,1.470,6,Villa,170,2005,,Aktuel værdi
+Højdevej 169631 Gedsted,sted,504.000,08-04-1999,Alm. Salg,4.235,4,Villa,119,1965,,Aktuel værdi
+Højdevej 119631 Gedsted,sted,350.000,05-04-1999,Fam. Salg,2.822,4,Villa,124,1965,,Aktuel værdi
+Sønderbyvej 5A9631 Gedsted,sted,611.500,30-03-1999,Alm. Salg,3.168,6,Villa,193,1970,,Aktuel værdi
+Bakkevej 109631 Gedsted,sted,240.000,08-03-1999,Alm. Salg,2.400,3,Villa,100,1956,,Aktuel værdi
+Tværgade 139631 Gedsted,sted,353.000,02-03-1999,Alm. Salg,2.521,5,Villa,140,1929,,Aktuel værdi
+Østergade 349631 Gedsted,sted,180.000,16-02-1999,Alm. Salg,-,6,Rækkehus,105,1925,,Aktuel værdi
+Højdevej 99631 Gedsted,sted,315.000,08-02-1999,Alm. Salg,3.000,3,Villa,105,1965,,Aktuel værdi
+Østergade 209631 Gedsted,sted,231.050,27-01-1999,Alm. Salg,-,5,Villa,165,1907,,Aktuel værdi
+Tjørnevej 59631 Gedsted,sted,452.370,05-12-1998,Alm. Salg,2.541,6,Villa,178,1924,,Aktuel værdi
+Glerupvej 1829631 Gedsted,sted,495.000,26-11-1998,Alm. Salg,-,6,Stuehus,129,1912,,
+Nørgaardsvej 229631 Gedsted,sted,450.000,19-11-1998,Alm. Salg,4.017,4,Stuehus,112,1928,,
+Glerupvej 1109631 Gedsted,sted,600.000,23-09-1998,Alm. Salg,-,8,Stuehus,203,1920,,
+Bakkevej 69631 Gedsted,sted,595.000,10-09-1998,Alm. Salg,5.173,4,Villa,115,1986,,Aktuel værdi
+Bøgevænget 99631 Gedsted,sted,445.000,16-08-1998,Alm. Salg,4.045,3,Villa,110,1963,,Aktuel værdi
+Nørgaardsvej 239631 Gedsted,sted,525.000,26-07-1998,Alm. Salg,2.932,4,Stuehus,179,1876,,
+Anna Maries Vej 189631 Gedsted,sted,325.000,30-06-1998,Alm. Salg,4.779,5,Sommerhus,68,1988,,Aktuel værdi
+Karen Margrethes Vej 199631 Gedsted,sted,210.000,15-06-1998,Alm. Salg,2.019,4,Sommerhus,104,1974,,Aktuel værdi
+Nørrevold 19631 Gedsted,sted,525.000,15-06-1998,Alm. Salg,3.804,4,Villa,138,1909,,Aktuel værdi
+Glerupvej 1549631 Gedsted,sted,210.000,12-05-1998,Alm. Salg,2.625,3,Stuehus,80,1900,,
+Lyngvej 259631 Gedsted,sted,530.000,03-05-1998,Alm. Salg,3.897,5,Villa,136,1972,,Aktuel værdi
+Søndergade 259631 Gedsted,sted,243.000,28-04-1998,Alm. Salg,2.557,3,Villa,95,1962,,Aktuel værdi
+Enghavevej 349631 Gedsted,sted,812.000,14-03-1998,Alm. Salg,2.537,9,Villa,320,1970,,Aktuel værdi
+Anna Maries Vej 169631 Gedsted,sted,260.000,28-02-1998,Alm. Salg,-,5,Sommerhus,100,1976,,Aktuel værdi
+Firhøjevej 199631 Gedsted,sted,255.000,03-02-1998,Alm. Salg,1.758,6,Stuehus,145,1875,,
+Ålevænget 89631 Gedsted,sted,350.000,01-12-1997,Alm. Salg,3.645,3,Sommerhus,96,1988,,Aktuel værdi
+Nørgaardsvej 109631 Gedsted,sted,1.500.000,24-11-1997,Alm. Salg,10.714,4,Stuehus,140,1928,,
+Ålevænget 49631 Gedsted,sted,160.000,17-11-1997,Alm. Salg,-,6,Sommerhus,82,1976,,Aktuel værdi
+Glerupvej 1889631 Gedsted,sted,552.500,27-10-1997,Alm. Salg,-,6,Stuehus,178,1913,,
+Østergade 199631 Gedsted,sted,180.000,19-09-1997,Alm. Salg,1.250,5,Villa,144,1908,,Aktuel værdi
+Katbakken 39631 Gedsted,sted,460.000,22-08-1997,Alm. Salg,3.172,7,Villa,145,1958,,Aktuel værdi
+Bøgevænget 89631 Gedsted,sted,202.354,22-08-1997,Alm. Salg,1.631,5,Villa,124,1947,,Aktuel værdi
+Vesterbro 329631 Gedsted,sted,233.000,20-08-1997,Alm. Salg,3.065,2,Villa,76,1857,,Aktuel værdi
+Firhøjevej 279631 Gedsted,sted,525.000,28-02-1997,Alm. Salg,3.088,5,Stuehus,170,1922,,
+Nørregade 79631 Gedsted,sted,295.000,12-02-1997,Alm. Salg,3.206,4,Villa,92,1931,,Aktuel værdi
+Bakkevej 29631 Gedsted,sted,370.000,11-02-1997,Alm. Salg,2.587,4,Villa,143,1951,,Aktuel værdi
+Anna Maries Vej 59631 Gedsted,sted,230.000,06-12-1996,Alm. Salg,4.107,4,Sommerhus,56,1972,,Aktuel værdi
+Hybenvej 29631 Gedsted,sted,250.000,14-11-1996,Fam. Salg,2.450,4,Villa,102,1938,,Aktuel værdi
+"Enghavevej 1, 19631 Gedsted",sted,339.000,27-08-1996,Alm. Salg,2.778,3,Lejlighed,122,1957,,Aktuel værdi
+Korsholmvej 629631 Gedsted,sted,1.241.500,23-08-1996,Alm. Salg,6.238,6,Stuehus,199,1969,,
+Anna Maries Vej 179631 Gedsted,sted,145.000,30-06-1996,Alm. Salg,-,5,Sommerhus,56,1974,,Aktuel værdi
+Nørregade 119631 Gedsted,sted,375.000,24-04-1996,Alm. Salg,-,7,Villa,180,1961,,Aktuel værdi
+Enghavevej 29631 Gedsted,sted,399.180,12-11-1995,Alm. Salg,3.913,5,Villa,102,1940,,Aktuel værdi
+Tolshøj 229631 Gedsted,sted,98.500,27-10-1995,Fam. Salg,-,3,Villa,132,1945,,Aktuel værdi
+Hybenvej 19631 Gedsted,sted,220.000,16-10-1995,Alm. Salg,1.929,4,Villa,114,1920,,Aktuel værdi
+Søndergade 409631 Gedsted,sted,300.000,12-09-1995,Alm. Salg,-,6,Stuehus,174,1923,,
+Fjordvej 799631 Gedsted,sted,3.900.000,16-06-1995,Alm. Salg,21.666,9,Stuehus,180,1916,,
+Enghavevej 89631 Gedsted,sted,490.000,23-05-1995,Alm. Salg,3.740,6,Villa,131,1965,,Aktuel værdi
+Korsholmvej 1239631 Gedsted,sted,1.080.000,05-05-1995,Fam. Salg,6.878,3,Stuehus,157,1910,,
+Firhøjevej 319631 Gedsted,sted,655.000,12-04-1995,Alm. Salg,5.240,5,Stuehus,125,1928,,
+Sognevejen 2489631 Gedsted,sted,57.400,01-03-1995,Alm. Salg,294,5,Stuehus,195,1942,,
+Anna Maries Vej 89631 Gedsted,sted,240.000,15-02-1995,Fam. Salg,2.400,5,Sommerhus,100,1973,,Aktuel værdi
+Korsholmvej 2269631 Gedsted,sted,1.400.000,12-12-1994,Alm. Salg,6.511,5,Stuehus,215,1895,,
+Skovvej 179631 Gedsted,sted,531.000,04-11-1994,Alm. Salg,3.713,6,Villa,143,1971,,Aktuel værdi
+Højdevej 199631 Gedsted,sted,237.000,20-10-1994,Alm. Salg,-,4,Villa,111,1966,,Aktuel værdi
+Højdevej 29631 Gedsted,sted,330.000,14-10-1994,Alm. Salg,3.300,3,Villa,100,1960,,Aktuel værdi
+Ålevænget 139631 Gedsted,sted,130.000,21-08-1994,Alm. Salg,-,3,Sommerhus,125,1973,,Aktuel værdi
+Fjordvej 89631 Gedsted,sted,1.075.000,30-06-1994,Alm. Salg,6.635,9,Stuehus,162,1924,,
+Holmmarkvej 589631 Gedsted,sted,480.000,28-06-1994,Alm. Salg,3.636,4,Villa,132,2007,,Aktuel værdi
+Makrelvej 39631 Gedsted,sted,135.000,31-05-1994,Alm. Salg,2.872,3,Sommerhus,47,1974,,Aktuel værdi
+Vesterbro 309631 Gedsted,sted,620.000,21-05-1994,Alm. Salg,3.297,6,Villa,188,1954,,Aktuel værdi
+Østergade 13A9631 Gedsted,sted,470.000,07-05-1994,Alm. Salg,3.507,4,Villa,134,1976,,Aktuel værdi
+Tolshøj 119631 Gedsted,sted,282.000,30-04-1994,Alm. Salg,-,7,Villa,188,1877,,Aktuel værdi
+Blaabærvej 29631 Gedsted,sted,700.000,12-04-1994,Alm. Salg,5.555,4,Villa,126,1988,,Aktuel værdi
+Tyttebærvej 79631 Gedsted,sted,595.000,26-03-1994,Alm. Salg,3.888,6,Villa,153,1976,,Aktuel værdi
+Tyttebærvej 299631 Gedsted,sted,645.000,08-03-1994,Alm. Salg,4.056,4,Villa,159,1980,,Aktuel værdi
+Holmmarkvej 39631 Gedsted,sted,425.000,02-03-1994,Alm. Salg,2.529,6,Villa,168,1941,,Aktuel værdi
+Tyttebærvej 119631 Gedsted,sted,395.000,01-03-1994,Alm. Salg,-,7,Villa,168,1977,,Aktuel værdi
+Holmmarkvej 19631 Gedsted,sted,252.000,24-12-1993,Alm. Salg,-,6,Villa,191,1915,,Aktuel værdi
+Lyngvej 49631 Gedsted,sted,285.000,12-11-1993,Alm. Salg,-,3,Villa,110,1970,,Aktuel værdi
+Højdevej 259631 Gedsted,sted,450.000,31-10-1993,Fam. Salg,3.169,5,Villa,142,1973,,Aktuel værdi
+Bopladsen 79631 Gedsted,sted,450.000,01-10-1993,Auktion,2.903,4,Villa,155,1980,,Aktuel værdi
+Bøgevænget 39631 Gedsted,sted,190.000,23-08-1993,Fam. Salg,1.979,3,Villa,96,1939,,Aktuel værdi
+Korsholmvej 1399631 Gedsted,sted,1.400.000,28-05-1993,Fam. Salg,5.932,7,Stuehus,236,1927,,
+Præstevejen 1329631 Gedsted,sted,1.250.000,27-05-1993,Alm. Salg,-,7,Stuehus,225,1914,,
+Holmmarkvej 129631 Gedsted,sted,134.357,30-04-1993,Fam. Salg,1.168,4,Villa,115,1967,,Aktuel værdi
+Højdevej 89631 Gedsted,sted,300.000,22-03-1993,Alm. Salg,2.459,4,Villa,122,1962,,Aktuel værdi
+Østergade 459631 Gedsted,sted,285.000,13-03-1993,Alm. Salg,2.968,5,Villa,96,1907,,Aktuel værdi
+Højdevej 219631 Gedsted,sted,323.000,15-02-1993,Alm. Salg,2.737,4,Villa,118,1969,,Aktuel værdi
+Anna Maries Vej 99631 Gedsted,sted,250.000,19-01-1993,Fam. Salg,3.378,4,Sommerhus,74,1984,,Aktuel værdi
+Holmmarkvej 919631 Gedsted,sted,1.600.000,29-12-1992,Alm. Salg,-,5,Stuehus,255,1907,,
+Østergade 139631 Gedsted,sted,377.500,20-10-1992,Alm. Salg,-,4,Villa,136,1974,,Aktuel værdi
+Lærkevej 39631 Gedsted,sted,300.000,18-10-1992,Alm. Salg,2.343,3,Villa,128,1942,,Aktuel værdi
+Søndergade 249631 Gedsted,sted,1.050.000,02-08-1992,Alm. Salg,7.241,6,Stuehus,145,1938,,
+Glerupvej 1559631 Gedsted,sted,525.000,20-07-1992,Alm. Salg,2.019,10,Stuehus,260,1931,,
+Torvegade 79631 Gedsted,sted,120.000,09-07-1992,Alm. Salg,1.132,4,Villa,106,1898,,Aktuel værdi
+Enghavevej 289631 Gedsted,sted,120.000,28-03-1992,Alm. Salg,1.791,2,Villa,67,1954,,Aktuel værdi
+"Enghavevej 1, ST9631 Gedsted",sted,75.000,25-03-1992,Alm. Salg,1.013,2,Lejlighed,74,1957,,Aktuel værdi
+Glerupvej 1439631 Gedsted,sted,240.000,16-02-1992,Alm. Salg,3.428,3,Stuehus,70,1905,,
+Præstevejen 1739631 Gedsted,sted,775.000,01-02-1992,Alm. Salg,7.451,4,Stuehus,104,1877,,
+Bystrupvej 169631 Gedsted,sted,360.000,27-01-1992,Alm. Salg,2.168,4,Stuehus,166,1930,,
+Vesterbro 359631 Gedsted,sted,125.000,07-01-1992,Alm. Salg,-,3,Villa,126,1933,,Aktuel værdi

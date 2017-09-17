@@ -1,0 +1,190 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Dalby Bygade 295380 Dalby,alby,650.000,15-12-2016,Andet,4.577,5,Villa,142,1933,,Aktuel værdi
+Dalby Bygade 125380 Dalby,alby,1.200.000,21-10-2016,Alm. Salg,8.888,5,Villa,135,1943,-7 %,Aktuel værdi
+Mosegårdsvej 695380 Dalby,alby,840.000,14-07-2016,Alm. Salg,9.333,3,Villa,90,1933,-6 %,Aktuel værdi
+Dalby Bygade 2B5380 Dalby,alby,1.145.000,05-07-2016,Alm. Salg,12.722,3,Villa,90,1850,-4 %,Aktuel værdi
+Møllegyden 825380 Dalby,alby,1.164.000,10-02-2016,Alm. Salg,11.877,5,Stuehus,98,1926,,
+Birkebjergvej 805380 Dalby,alby,920.000,26-10-2015,Fam. Salg,6.174,5,Villa,149,1914,,Aktuel værdi
+Sandbjergvej 1005380 Dalby,alby,300.000,26-10-2015,Alm. Salg,2.608,4,Villa,115,1900,,Aktuel værdi
+Hersnap Bygade 45380 Dalby,alby,345.000,29-09-2015,Alm. Salg,3.136,4,Villa,110,1827,0 %,Aktuel værdi
+Fynshovedvej 3275380 Dalby,alby,850.000,22-09-2015,Alm. Salg,7.589,3,Villa,112,1967,-11 %,Aktuel værdi
+Birkebjergvænget 185380 Dalby,alby,1.100.000,08-09-2015,Alm. Salg,7.857,4,Stuehus,140,1847,0 %,
+Fynshovedvej 3645380 Dalby,alby,785.000,04-09-2015,Alm. Salg,6.826,5,Villa,115,1958,-8 %,Aktuel værdi
+Christen Koldsvej 275380 Dalby,alby,1.245.000,07-07-2015,Alm. Salg,7.280,6,Villa,171,1998,-4 %,Aktuel værdi
+Christen Koldsvej 125380 Dalby,alby,1.320.000,18-06-2015,Alm. Salg,8.148,4,Villa,162,1999,2 %,Aktuel værdi
+Dalby Bygade 85380 Dalby,alby,775.000,16-06-2015,Alm. Salg,4.505,4,Villa,172,1852,-9 %,Aktuel værdi
+Hersnapvej 995380 Dalby,alby,995.000,12-04-2015,Alm. Salg,6.297,5,Villa,158,1962,,Aktuel værdi
+Fynshovedvej 3605380 Dalby,alby,750.000,05-01-2015,Alm. Salg,8.333,5,Villa,90,1950,-6 %,Aktuel værdi
+Hersnapvej 975380 Dalby,alby,1.500.000,02-12-2014,Alm. Salg,7.042,6,Villa,213,1877,-14 %,Aktuel værdi
+Fynshovedvej 2975380 Dalby,alby,244.000,18-11-2014,Auktion,1.084,12,Villa,225,1900,,Aktuel værdi
+Dalby Bygade 2A5380 Dalby,alby,1.300.000,25-08-2014,Alm. Salg,8.387,5,Villa,155,1976,-13 %,Aktuel værdi
+Dalby Bygade 395380 Dalby,alby,1.300.000,20-08-2014,Alm. Salg,6.103,9,Villa,213,1922,-13 %,Aktuel værdi
+Fynshovedvej 2995380 Dalby,alby,475.000,30-04-2014,Alm. Salg,3.625,5,Villa,131,1852,,Aktuel værdi
+Fynshovedvej 3545380 Dalby,alby,795.000,27-03-2014,Alm. Salg,6.115,4,Villa,130,1960,0 %,Aktuel værdi
+Blæsenborgvej 1165380 Dalby,alby,183.645,17-01-2014,Alm. Salg,946,6,Stuehus,194,1930,,
+Dalby Bygade 65380 Dalby,alby,272.000,14-01-2014,Auktion,3.400,4,Villa,80,1957,,Aktuel værdi
+Birkebjergvænget 225380 Dalby,alby,1.730.000,01-08-2013,Alm. Salg,10.000,6,Villa,173,1912,-13 %,Aktuel værdi
+Bogensøvej 715380 Dalby,alby,693.540,16-06-2013,Alm. Salg,3.689,6,Stuehus,188,2009,-70 %,
+Fynshovedvej 2945380 Dalby,alby,362.500,23-04-2013,Alm. Salg,2.416,6,Villa,150,1907,-24 %,Aktuel værdi
+Blæsenborgvej 765380 Dalby,alby,6.135.000,16-12-2012,Fam. Salg,17.478,9,Stuehus,351,2006,,
+Fynshovedvej 2575380 Dalby,alby,519.400,23-11-2012,Alm. Salg,3.462,6,Stuehus,150,1840,,
+Bjørnegårdsvej 225380 Dalby,alby,2.500.000,15-11-2012,Alm. Salg,12.626,8,Stuehus,198,1916,,
+Nørrebrovænget 45380 Dalby,alby,405.000,13-10-2011,Auktion,3.319,5,Villa,122,1963,-44 %,Aktuel værdi
+Sandbjergvej 1995380 Dalby,alby,6.545.000,06-09-2011,Fam. Salg,32.725,8,Stuehus,200,1904,,
+Christen Koldsvej 215380 Dalby,alby,800.000,28-07-2011,Alm. Salg,6.956,4,Villa,115,1981,-11 %,Aktuel værdi
+Birkebjergvej 855380 Dalby,alby,840.000,13-07-2011,Alm. Salg,4.307,8,Villa,195,1877,,Aktuel værdi
+Mosegårdsvej 755380 Dalby,alby,1.395.000,27-04-2011,Alm. Salg,6.038,5,Villa,231,1902,0 %,Aktuel værdi
+Dalby Bygade 285380 Dalby,alby,1.000.000,28-02-2011,Andet,11.764,3,Rækkehus,85,2005,,Aktuel værdi
+Dalby Bygade 305380 Dalby,alby,1.000.000,28-02-2011,Andet,11.764,3,Rækkehus,85,2005,,Aktuel værdi
+Smedegyden 815380 Dalby,alby,120.000,18-10-2010,Alm. Salg,821,6,Stuehus,146,1820,,
+Birkebjergvej 1255380 Dalby,alby,850.000,01-09-2010,Fam. Salg,4.271,6,Villa,199,2012,,Aktuel værdi
+Bøgebjergvej 25380 Dalby,alby,833.000,22-07-2010,Fam. Salg,21.358,2,Sommerhus,39,2005,,Aktuel værdi
+Fynshovedvej 2885380 Dalby,alby,850.000,06-07-2010,Alm. Salg,8.173,4,Villa,104,1870,-15 %,Aktuel værdi
+Fynshovedvej 3445380 Dalby,alby,935.000,26-06-2010,Alm. Salg,8.130,5,Villa,115,1912,-5 %,Aktuel værdi
+Fynshovedvej 3425380 Dalby,alby,650.000,18-03-2010,Alm. Salg,6.310,4,Villa,103,1890,-16 %,Aktuel værdi
+Smedegyden 675380 Dalby,alby,1.185.000,15-03-2010,Alm. Salg,7.452,5,Villa,159,1959,-12 %,Aktuel værdi
+Sandbjergvej 745380 Dalby,alby,800.000,21-10-2009,Alm. Salg,7.619,4,Villa,105,1962,-20 %,Aktuel værdi
+Fynshovedvej 3505380 Dalby,alby,1.070.000,15-06-2009,Alm. Salg,8.916,5,Villa,120,1945,-10 %,Aktuel værdi
+Bøgebjergvej 665380 Dalby,alby,950.000,05-06-2009,Alm. Salg,36.538,3,Sommerhus,26,1947,0 %,Aktuel værdi
+Bøgebjergvej 485380 Dalby,alby,1.200.000,12-03-2009,Alm. Salg,22.641,4,Sommerhus,53,1954,-7 %,Aktuel værdi
+Fynshovedvej 3485380 Dalby,alby,860.000,04-03-2009,Alm. Salg,8.686,4,Rækkehus,99,1890,,Aktuel værdi
+Hersnapvej 795380 Dalby,alby,4.525.000,25-02-2009,Fam. Salg,20.022,9,Stuehus,226,1937,,
+Bøgebjergvej 505380 Dalby,alby,1.325.000,05-02-2009,Alm. Salg,33.125,2,Sommerhus,40,1955,,Aktuel værdi
+Bjørnegårdsvej 1355380 Dalby,alby,687.300,16-01-2009,Fam. Salg,5.727,5,Villa,120,1922,,Aktuel værdi
+Mosegårdsvej 395380 Dalby,alby,1.496.250,20-12-2008,Alm. Salg,10.687,7,Stuehus,140,1677,,
+Mosegårdsvej 655380 Dalby,alby,750.000,14-11-2008,Alm. Salg,4.437,6,Villa,169,1934,-16 %,Aktuel værdi
+Bøgebjergvej 545380 Dalby,alby,650.000,03-11-2008,Alm. Salg,18.055,1,Sommerhus,36,2010,-19 %,Aktuel værdi
+Bøgebjergvej 805380 Dalby,alby,700.000,28-10-2008,Alm. Salg,28.000,1,Sommerhus,25,1950,-26 %,Aktuel værdi
+Birkebjergvej 605380 Dalby,alby,892.500,27-10-2008,Fam. Salg,7.628,5,Villa,117,1827,,Aktuel værdi
+Nørrebrovænget 105380 Dalby,alby,1.200.000,07-10-2008,Alm. Salg,9.302,4,Villa,129,1965,-7 %,Aktuel værdi
+Bøgebjergvej 705380 Dalby,alby,705.500,30-06-2008,Fam. Salg,17.637,3,Sommerhus,40,1947,,Aktuel værdi
+Bøgebjergvej 725380 Dalby,alby,1.175.000,08-05-2008,Alm. Salg,30.128,2,Sommerhus,39,1960,-2 %,Aktuel værdi
+Hersnap Bygade 95380 Dalby,alby,1.450.000,17-04-2008,Alm. Salg,9.666,4,Stuehus,150,1875,16 %,
+Hersnapvænget 395380 Dalby,alby,1.250.000,17-04-2008,Alm. Salg,11.574,4,Villa,108,1790,,Aktuel værdi
+Blæsenborgvej 1235380 Dalby,alby,2.955.355,27-03-2008,Alm. Salg,14.006,7,Villa,211,1775,,Aktuel værdi
+Dalby Bygade 195380 Dalby,alby,1.400.000,29-01-2008,Alm. Salg,7.777,10,Villa,180,1867,,Aktuel værdi
+Hersnapvænget 24A5380 Dalby,alby,1.195.000,24-01-2008,Alm. Salg,10.391,4,Sommerhus,115,1923,,Aktuel værdi
+Sandbjergvej 1685380 Dalby,alby,1.170.000,22-01-2008,Alm. Salg,9.069,4,Villa,129,1950,,Aktuel værdi
+Dalby Bygade 265380 Dalby,alby,1.550.000,07-09-2007,Alm. Salg,10.915,8,Villa,142,1979,-5 %,Aktuel værdi
+Bøgebjergvej 845380 Dalby,alby,925.000,27-08-2007,Alm. Salg,26.428,2,Sommerhus,35,1935,-7 %,Aktuel værdi
+Bøgebjergvej 365380 Dalby,alby,745.000,18-07-2007,Alm. Salg,20.694,1,Sommerhus,36,1966,,Aktuel værdi
+Smedegyden 25380 Dalby,alby,1.500.000,18-07-2007,Alm. Salg,5.555,7,Villa,270,1927,-2 %,Aktuel værdi
+Hersnapvej 1115380 Dalby,alby,59.260,19-06-2007,Alm. Salg,315,6,Stuehus,188,1777,,
+Bøgebjergvej 825380 Dalby,alby,1.275.000,24-05-2007,Alm. Salg,39.843,2,Sommerhus,32,1993,-15 %,Aktuel værdi
+Hersnap Bygade 205380 Dalby,alby,800.000,11-04-2007,Alm. Salg,8.888,5,Villa,90,1901,,Aktuel værdi
+Fynshovedvej 3025380 Dalby,alby,1.050.000,29-03-2007,Alm. Salg,14.583,3,Villa,72,1880,,Aktuel værdi
+Dalby Bygade 555380 Dalby,alby,915.000,22-03-2007,Alm. Salg,10.166,4,Rækkehus,90,1900,,Aktuel værdi
+Birkebjergvej 1055380 Dalby,alby,1.850.000,29-12-2006,Alm. Salg,16.228,3,Stuehus,114,1957,,
+Fynshovedvej 3385380 Dalby,alby,625.000,21-12-2006,Alm. Salg,7.812,4,Villa,80,1895,,Aktuel værdi
+Dalby Bygade 205380 Dalby,alby,1.100.000,16-10-2006,Alm. Salg,8.270,5,Villa,133,1978,,Aktuel værdi
+Dalby Bygade 525380 Dalby,alby,510.000,07-10-2006,Alm. Salg,6.710,4,Villa,76,1917,,Aktuel værdi
+Birkebjergvænget 105380 Dalby,alby,900.000,04-09-2006,Alm. Salg,-,6,Villa,192,1677,,Aktuel værdi
+Bøgebjergvej 785380 Dalby,alby,935.000,07-08-2006,Alm. Salg,31.166,2,Sommerhus,30,1927,,Aktuel værdi
+Mosegårdsvej 555380 Dalby,alby,307.500,27-06-2006,Alm. Salg,-,-,Forretning,-,-,,
+Christen Koldsvej 65380 Dalby,alby,1.090.000,21-06-2006,Alm. Salg,7.956,4,Villa,137,1982,,Aktuel værdi
+Bøgebjergvej 605380 Dalby,alby,915.000,17-06-2006,Alm. Salg,35.192,1,Sommerhus,26,1955,,Aktuel værdi
+Dalby Bygade 435380 Dalby,alby,1.667.000,05-06-2006,Alm. Salg,7.938,5,Villa,210,1900,,Aktuel værdi
+Hersnapvej 35380 Dalby,alby,775.000,19-05-2006,Alm. Salg,6.458,6,Villa,120,1909,,Aktuel værdi
+Dalby Bygade 145380 Dalby,alby,1.125.000,08-05-2006,Alm. Salg,10.714,3,Villa,105,1933,,Aktuel værdi
+Fynshovedvej 3065380 Dalby,alby,235.000,20-03-2006,Alm. Salg,2.061,3,Villa,114,1777,,Aktuel værdi
+Mosegårdsvej 605380 Dalby,alby,900.000,17-12-2005,Alm. Salg,7.031,3,Villa,128,1981,,Aktuel værdi
+Christen Koldsvej 35380 Dalby,alby,1.160.000,12-12-2005,Alm. Salg,9.430,4,Villa,123,1984,,Aktuel værdi
+Blæsenborgvej 695380 Dalby,alby,850.000,01-12-2005,Fam. Salg,5.902,6,Stuehus,144,1903,,
+Smedegyden 665380 Dalby,alby,5.000.000,04-09-2005,Alm. Salg,31.847,4,Stuehus,157,1975,,
+Bøgebjergvej 1105380 Dalby,alby,1.500.000,24-08-2005,Alm. Salg,36.585,2,Sommerhus,41,2001,,Aktuel værdi
+Søndervænget 75380 Dalby,alby,1.000.000,17-08-2005,Alm. Salg,4.166,6,Villa,240,1972,,Aktuel værdi
+Dalby Bygade 275380 Dalby,alby,840.000,15-07-2005,Alm. Salg,8.484,4,Villa,99,1935,,Aktuel værdi
+Dalby Bygade 105380 Dalby,alby,1.300.000,11-07-2005,Alm. Salg,7.065,7,Villa,184,1935,,Aktuel værdi
+Fynshovedvej 3965380 Dalby,alby,1.625.000,06-07-2005,Alm. Salg,11.206,3,Villa,145,1910,,Aktuel værdi
+Hersnapvej 2355380 Dalby,alby,850.000,29-05-2005,Fam. Salg,4.292,6,Villa,198,1964,,Aktuel værdi
+Dalby Bygade 235380 Dalby,alby,1.130.000,25-04-2005,Alm. Salg,6.766,6,Villa,167,1974,,Aktuel værdi
+Christen Koldsvej 235380 Dalby,alby,1.195.000,11-03-2005,Alm. Salg,9.715,6,Villa,123,1998,,Aktuel værdi
+Søndervænget 55380 Dalby,alby,1.250.000,07-02-2005,Alm. Salg,5.813,7,Villa,215,1971,,Aktuel værdi
+Sandbjergvej 945380 Dalby,alby,875.000,13-01-2005,Alm. Salg,5.401,8,Villa,162,1850,,Aktuel værdi
+Sandbjergvej 1115380 Dalby,alby,472.369,16-12-2004,Alm. Salg,4.631,6,Sommerhus,102,1936,,Aktuel værdi
+Bøgebjergvej 265380 Dalby,alby,1.200.000,25-07-2004,Alm. Salg,41.379,2,Sommerhus,29,1960,,Aktuel værdi
+Mosegårdsvænget 145380 Dalby,alby,2.125.000,25-06-2004,Fam. Salg,9.159,9,Stuehus,232,1827,,
+Dalby Bygade 445380 Dalby,alby,680.000,16-06-2004,Fam. Salg,-,5,Villa,165,1906,,Aktuel værdi
+Bøgebjergvej 1125380 Dalby,alby,920.000,30-05-2004,Alm. Salg,19.574,2,Sommerhus,47,1956,,Aktuel værdi
+Mosegårdsvej 265380 Dalby,alby,950.000,17-04-2004,Andet,6.834,4,Villa,139,1982,,Aktuel værdi
+Bøgebjergvej 225380 Dalby,alby,1.150.000,05-04-2004,Alm. Salg,27.380,2,Sommerhus,42,1994,,Aktuel værdi
+Dalby Bygade 545380 Dalby,alby,850.000,29-12-2003,Alm. Salg,9.444,4,Villa,90,1910,,Aktuel værdi
+Bøgebjergvej 325380 Dalby,alby,1.200.000,22-12-2003,Alm. Salg,18.461,4,Sommerhus,65,1940,,Aktuel værdi
+Nørrebrovænget 15380 Dalby,alby,662.080,02-11-2003,Alm. Salg,5.610,4,Villa,118,1963,,Aktuel værdi
+Fynshovedvej 3405380 Dalby,alby,725.000,24-10-2003,Alm. Salg,6.041,3,Villa,120,1800,,Aktuel værdi
+Fynshovedvej 3525380 Dalby,alby,590.000,14-07-2003,Alm. Salg,6.020,5,Villa,98,1956,,Aktuel værdi
+Christen Koldsvej 25380 Dalby,alby,74.572,17-02-2003,Alm. Salg,564,6,Villa,132,2003,,Aktuel værdi
+Hersnap Bygade 65380 Dalby,alby,290.000,02-12-2002,Alm. Salg,1.946,4,Villa,149,1700,,Aktuel værdi
+Bøgebjergvej 165380 Dalby,alby,320.000,01-11-2002,Fam. Salg,7.441,2,Sommerhus,43,1947,,Aktuel værdi
+Fynshovedvej 3135380 Dalby,alby,500.000,26-09-2002,Alm. Salg,4.000,3,Villa,125,1917,,Aktuel værdi
+Dalby Bygade 375380 Dalby,alby,715.000,24-09-2002,Alm. Salg,5.107,3,Villa,140,1901,,Aktuel værdi
+Bøgebjergvej 445380 Dalby,alby,1.084.000,24-06-2002,Alm. Salg,14.849,4,Sommerhus,73,1957,,Aktuel værdi
+Birkebjergvænget 165380 Dalby,alby,1.519.892,10-03-2002,Alm. Salg,7.524,8,Villa,202,1877,,Aktuel værdi
+Hersnapvej 2135380 Dalby,alby,980.000,21-09-2001,Alm. Salg,15.806,3,Stuehus,62,1931,,
+Bøgebjergvej 105380 Dalby,alby,650.000,10-08-2001,Alm. Salg,16.250,2,Sommerhus,40,1949,,Aktuel værdi
+Mosegårdsvej 315380 Dalby,alby,643.000,01-05-2001,Alm. Salg,3.384,5,Villa,190,1900,,Aktuel værdi
+Hersnapvej 2145380 Dalby,alby,1.328.000,22-01-2001,Alm. Salg,6.205,6,Stuehus,214,1900,,
+Smedegyden 85380 Dalby,alby,603.500,18-12-2000,Alm. Salg,3.918,6,Villa,154,1972,,Aktuel værdi
+Fynshovedvej 3035380 Dalby,alby,441.260,28-11-2000,Alm. Salg,2.981,5,Villa,148,1827,,Aktuel værdi
+Bjørnegårdsvej 1065380 Dalby,alby,521.900,25-10-2000,Fam. Salg,2.309,9,Sommerhus,226,1906,,Aktuel værdi
+Bøgebjergvej 1025380 Dalby,alby,449.000,13-04-2000,Alm. Salg,9.553,2,Sommerhus,47,2001,,Aktuel værdi
+Dalby Bygade 255380 Dalby,alby,850.000,14-02-2000,Alm. Salg,5.743,5,Villa,148,1905,,Aktuel værdi
+Fynshovedvej 3665380 Dalby,alby,400.000,25-01-2000,Alm. Salg,4.705,3,Villa,85,1959,,Aktuel værdi
+Bøgebjergvej 385380 Dalby,alby,290.000,04-11-1999,Alm. Salg,6.304,2,Sommerhus,46,2004,,Aktuel værdi
+Sandbjergvej 1135380 Dalby,alby,925.000,17-10-1999,Alm. Salg,4.243,6,Villa,218,1899,,Aktuel værdi
+Bøgebjergvej 945380 Dalby,alby,275.000,02-08-1999,Alm. Salg,3.666,5,Sommerhus,75,1950,,Aktuel værdi
+Birkebjergvej 1215380 Dalby,alby,1.212.910,08-07-1999,Alm. Salg,7.487,5,Villa,162,1905,,Aktuel værdi
+Dalby Bygade 4D5380 Dalby,alby,785.000,01-06-1999,Alm. Salg,3.140,11,Villa,250,1827,,Aktuel værdi
+Christen Koldsvej 145380 Dalby,alby,782.203,21-05-1999,Alm. Salg,-,4,Villa,147,1986,,Aktuel værdi
+Blæsenborgvej 1315380 Dalby,alby,620.500,04-12-1998,Alm. Salg,5.640,6,Stuehus,110,1827,,
+Dalby Bygade 615380 Dalby,alby,470.000,23-10-1998,Fam. Salg,3.112,5,Villa,151,1902,,Aktuel værdi
+Blæsenborgvej 1585380 Dalby,alby,640.000,28-09-1998,Alm. Salg,2.666,7,Villa,240,1909,,Aktuel værdi
+Bøgebjergvej 45380 Dalby,alby,597.000,03-07-1998,Alm. Salg,-,2,Sommerhus,35,1957,,Aktuel værdi
+Fynshovedvej 3095380 Dalby,alby,140.000,29-06-1998,Alm. Salg,2.222,5,Engroshandel,63,1954,,Aktuel værdi
+Bjørnegårdsvej 1235380 Dalby,alby,1.875.000,27-06-1998,Alm. Salg,10.359,8,Stuehus,181,1943,,
+Christen Koldsvej 165380 Dalby,alby,77.662,25-06-1998,Alm. Salg,422,6,Villa,184,1999,,Aktuel værdi
+Fynshovedvej 3055380 Dalby,alby,915.000,06-05-1998,Alm. Salg,6.443,5,Villa,142,1827,,Aktuel værdi
+Bøgebjergvej 525380 Dalby,alby,464.000,16-03-1998,Alm. Salg,9.469,2,Sommerhus,49,2012,,Aktuel værdi
+Mosegårdsvej 175380 Dalby,alby,305.000,09-01-1998,Alm. Salg,3.812,5,Villa,80,1825,,Aktuel værdi
+Stendyssevej 375380 Dalby,alby,788.340,13-11-1997,Alm. Salg,6.158,5,Villa,128,1950,,Aktuel værdi
+Mosegårdsvej 85380 Dalby,alby,98.900,02-11-1997,Alm. Salg,2.472,3,Rækkehus,40,1800,,Aktuel værdi
+Bøgebjergvej 585380 Dalby,alby,525.000,08-10-1997,Fam. Salg,11.666,3,Sommerhus,45,1952,,Aktuel værdi
+Bøgebjergvej 1005380 Dalby,alby,556.000,25-09-1997,Alm. Salg,-,1,Sommerhus,66,1942,,Aktuel værdi
+Fynshovedvej 3015380 Dalby,alby,260.000,10-09-1997,Alm. Salg,3.768,3,Villa,69,1880,,Aktuel værdi
+Bøgebjergvej 185380 Dalby,alby,625.000,04-08-1997,Alm. Salg,12.500,2,Sommerhus,50,1957,,Aktuel værdi
+Bøgebjergvej 1045380 Dalby,alby,550.000,01-05-1997,Alm. Salg,8.461,3,Sommerhus,65,1944,,Aktuel værdi
+Bøgebjergvej 645380 Dalby,alby,480.000,23-04-1997,Alm. Salg,8.888,1,Sommerhus,54,1930,,Aktuel værdi
+Dalby Bygade 455380 Dalby,alby,799.000,02-04-1997,Alm. Salg,4.813,6,Villa,166,1900,,Aktuel værdi
+Bogensøvej 1185380 Dalby,alby,600.000,10-12-1996,Alm. Salg,7.228,4,Villa,83,1951,,Aktuel værdi
+Mosegårdsvej 205380 Dalby,alby,650.000,29-08-1996,Fam. Salg,2.321,10,Villa,280,1918,,Aktuel værdi
+Fynshovedvej 3935380 Dalby,alby,2.000.000,18-07-1996,Fam. Salg,9.216,6,Stuehus,217,1969,,
+Dalby Bygade 535380 Dalby,alby,560.000,12-06-1996,Alm. Salg,5.090,5,Villa,110,1897,,Aktuel værdi
+Hersnapvej 1105380 Dalby,alby,4.407.127,08-11-1995,Fam. Salg,15.739,15,Stuehus,280,1876,,
+Mosegårdsvænget 35380 Dalby,alby,57.500,16-10-1995,Alm. Salg,273,6,Stuehus,210,1877,,
+Christen Koldsvej 15380 Dalby,alby,760.000,11-10-1995,Alm. Salg,3.897,4,Villa,195,1984,,Aktuel værdi
+Dalby Bygade 565380 Dalby,alby,336.000,21-08-1995,Alm. Salg,3.500,3,Rækkehus,96,1918,,Aktuel værdi
+Sandbjergvej 1475380 Dalby,alby,513.639,21-08-1995,Fam. Salg,1.953,10,Stuehus,263,1925,,
+Fynshovedvej 2585380 Dalby,alby,410.000,08-06-1995,Alm. Salg,2.645,6,Villa,155,1917,,Aktuel værdi
+Dalby Bygade 95380 Dalby,alby,400.000,21-04-1995,Alm. Salg,4.040,3,Villa,99,1938,,Aktuel værdi
+Bøgebjergvej 65380 Dalby,alby,390.000,01-04-1995,Alm. Salg,7.800,3,Sommerhus,50,1952,,Aktuel værdi
+Flaskevejen 1595380 Dalby,alby,375.000,17-03-1995,Alm. Salg,3.348,5,Sommerhus,112,1827,,Aktuel værdi
+Fynshovedvej 3255380 Dalby,alby,385.000,03-03-1995,Alm. Salg,2.187,6,Villa,176,2005,,Aktuel værdi
+Sandbjergvej 1065380 Dalby,alby,765.000,12-09-1994,Alm. Salg,-,5,Stuehus,177,1920,,
+Bogensøvej 815380 Dalby,alby,630.000,22-08-1994,Fam. Salg,-,9,Stuehus,298,1827,,
+Fynshovedvej 3725380 Dalby,alby,425.000,17-08-1994,Alm. Salg,-,5,Villa,130,1877,,Aktuel værdi
+Dalby Bygade 245380 Dalby,alby,437.000,08-05-1994,Fam. Salg,2.455,5,Villa,178,1979,,Aktuel værdi
+Blæsenborgvej 595380 Dalby,alby,130.277,03-05-1994,Alm. Salg,930,4,Villa,140,1831,,Aktuel værdi
+Hersnapvej 95380 Dalby,alby,625.000,07-04-1994,Alm. Salg,-,8,Villa,185,1951,,Aktuel værdi
+Bøgebjergvej 685380 Dalby,alby,350.000,25-03-1994,Fam. Salg,5.833,4,Sommerhus,60,1957,,Aktuel værdi
+Mosegårdsvej 675380 Dalby,alby,335.000,25-02-1994,Alm. Salg,3.850,3,Villa,87,1928,,Aktuel værdi
+Dalby Bygade 185380 Dalby,alby,540.000,11-09-1993,Fam. Salg,3.648,5,Villa,148,1973,,Aktuel værdi
+Fynshovedvej 3325380 Dalby,alby,995.000,04-08-1993,Alm. Salg,3.553,9,Villa,280,1950,,Aktuel værdi
+Hersnapvej 2285380 Dalby,alby,210.673,03-08-1993,Fam. Salg,1.881,3,Villa,112,1890,,Aktuel værdi
+Birkebjergvej 965380 Dalby,alby,1.128.900,15-07-1993,Alm. Salg,5.701,6,Stuehus,198,1920,,
+Sandbjergvej 2345380 Dalby,alby,834.500,09-07-1993,Alm. Salg,5.755,6,Villa,145,1903,,Aktuel værdi
+Stendyssevej 575380 Dalby,alby,1.570.000,24-02-1993,Fam. Salg,8.722,8,Stuehus,180,1903,,
+Bøgebjergvej 625380 Dalby,alby,300.000,27-07-1992,Alm. Salg,10.000,2,Sommerhus,30,1946,,Aktuel værdi
+Birkebjergvej 765380 Dalby,alby,644.059,29-06-1992,Alm. Salg,5.152,4,Villa,125,1969,,Aktuel værdi
+Bøgebjergvej 465380 Dalby,alby,140.727,19-06-1992,Alm. Salg,2.010,4,Sommerhus,70,1957,,Aktuel værdi
+Hersnapvænget 355380 Dalby,alby,325.000,13-02-1992,Alm. Salg,5.416,3,Sommerhus,60,1820,,Aktuel værdi
+Smedegyden 1155380 Dalby,alby,341.000,28-01-1992,Alm. Salg,-,5,Villa,98,1850,,Aktuel værdi

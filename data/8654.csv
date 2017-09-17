@@ -1,0 +1,728 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Rolighedsvej 58654 Bryrup,yrup,971.100,24-04-2017,Fam. Salg,6.031,5,Villa,161,1953,,Aktuel værdi
+Vellingvej 188654 Bryrup,yrup,1.300.000,10-04-2017,Alm. Salg,7.182,6,Stuehus,181,1850,,
+Bogfinkevej 18654 Bryrup,yrup,1.450.000,07-04-2017,Alm. Salg,10.984,4,Villa,132,1975,-3 %,Aktuel værdi
+Skolevej 8B8654 Bryrup,yrup,1.280.000,06-03-2017,Fam. Salg,6.772,5,Villa,189,1983,,Aktuel værdi
+Fasanvej 148654 Bryrup,yrup,1.145.000,02-03-2017,Alm. Salg,10.504,3,Villa,109,1975,0 %,Aktuel værdi
+Krude Møllevej 58654 Bryrup,yrup,1.790.000,27-02-2017,Andet,7.955,7,Villa,225,1947,,Aktuel værdi
+Østermark 88654 Bryrup,yrup,1.600.000,01-02-2017,Alm. Salg,9.815,6,Villa,163,1982,-6 %,Aktuel værdi
+Svinsbjergvej 128654 Bryrup,yrup,2.600.000,13-01-2017,Alm. Salg,12.380,7,Villa,210,1970,,Aktuel værdi
+Skolevej 178654 Bryrup,yrup,352.000,10-01-2017,Alm. Salg,3.229,4,Villa,109,1954,,Aktuel værdi
+Hovedgaden 268654 Bryrup,yrup,600.000,03-01-2017,Alm. Salg,4.545,6,Villa,132,1914,,Aktuel værdi
+Lystruphavevej 268654 Bryrup,yrup,1.138.000,17-10-2016,Alm. Salg,28.450,2,Sommerhus,40,1943,-12 %,Aktuel værdi
+Nygårdsvej 48654 Bryrup,yrup,625.000,14-10-2016,Alm. Salg,5.208,4,Villa,120,1935,-30 %,Aktuel værdi
+Kæmpesmøllevej 118654 Bryrup,yrup,435.000,03-10-2016,Alm. Salg,10.116,3,Sommerhus,43,1968,-12 %,Aktuel værdi
+Dambrugsvej 38654 Bryrup,yrup,3.500.000,26-09-2016,Alm. Salg,33.333,5,Villa,105,1964,-8 %,Aktuel værdi
+Burgårdevej 328654 Bryrup,yrup,425.000,23-09-2016,Alm. Salg,3.695,4,Villa,115,1965,-14 %,Aktuel værdi
+Vellingvej 508654 Bryrup,yrup,950.000,20-09-2016,Alm. Salg,7.037,5,Villa,135,1937,-4 %,Aktuel værdi
+Vellingvej 498654 Bryrup,yrup,450.000,02-09-2016,Alm. Salg,4.945,4,Villa,91,1928,-9 %,Aktuel værdi
+Lystrupmindevej 208654 Bryrup,yrup,1.800.000,01-09-2016,Alm. Salg,18.000,4,Sommerhus,100,1888,-28 %,Aktuel værdi
+Sømosevej 18654 Bryrup,yrup,1.540.000,26-08-2016,Alm. Salg,6.637,9,Villa,232,1973,-4 %,Aktuel værdi
+Povlslystvej 18654 Bryrup,yrup,1.150.000,09-08-2016,Alm. Salg,8.646,5,Stuehus,133,1900,-11 %,
+Ansøvej 418654 Bryrup,yrup,2.400.000,04-07-2016,Alm. Salg,15.094,3,Villa,159,1877,,Aktuel værdi
+Dalstedvej 28654 Bryrup,yrup,1.200.000,27-06-2016,Alm. Salg,6.936,5,Villa,173,1965,-14 %,Aktuel værdi
+Burgårdevej 138654 Bryrup,yrup,500.000,22-06-2016,Alm. Salg,2.525,4,Villa,198,1890,-28 %,Aktuel værdi
+Skolevej 128654 Bryrup,yrup,3.250.000,10-06-2016,Alm. Salg,17.955,5,Villa,181,1962,-7 %,Aktuel værdi
+Skovvænget 328654 Bryrup,yrup,1.080.000,27-05-2016,Alm. Salg,6.136,5,Villa,176,2007,-53 %,Aktuel værdi
+Overdrevet 48654 Bryrup,yrup,3.050.000,25-05-2016,Alm. Salg,15.404,6,Villa,198,2006,-5 %,Aktuel værdi
+Mellemvej 18654 Bryrup,yrup,634.500,24-05-2016,Auktion,6.282,4,Villa,101,1898,-36 %,Aktuel værdi
+Løvevej 108654 Bryrup,yrup,1.600.000,13-05-2016,Alm. Salg,9.039,6,Villa,177,1964,,Aktuel værdi
+Tusdal 88654 Bryrup,yrup,750.000,13-05-2016,Alm. Salg,9.375,4,Sommerhus,80,1932,-12 %,Aktuel værdi
+Vestergårdsvej 18654 Bryrup,yrup,1.650.000,11-05-2016,Alm. Salg,7.971,7,Villa,207,1998,-6 %,Aktuel værdi
+Højdedraget 148654 Bryrup,yrup,1.425.000,13-04-2016,Alm. Salg,20.070,3,Sommerhus,71,1986,-11 %,Aktuel værdi
+Udsigten 118654 Bryrup,yrup,850.000,12-04-2016,Alm. Salg,6.159,3,Villa,138,1967,-15 %,Aktuel værdi
+Vellingvej 218654 Bryrup,yrup,760.000,29-03-2016,Alm. Salg,5.846,5,Villa,130,1912,-4 %,Aktuel værdi
+Lystruphavevej 128654 Bryrup,yrup,3.216.000,15-03-2016,Auktion,18.589,5,Villa,173,1911,-14 %,Aktuel værdi
+Vellingvej 478654 Bryrup,yrup,2.120.000,15-03-2016,Alm. Salg,13.333,4,Villa,159,1948,-1 %,Aktuel værdi
+Krude Møllevej 108654 Bryrup,yrup,6.650.000,11-03-2016,Alm. Salg,28.913,6,Villa,230,1972,-9 %,Aktuel værdi
+St Bredlundvej 118654 Bryrup,yrup,1.600.000,03-03-2016,Andet,16.842,4,Villa,95,1938,,Aktuel værdi
+Lystrupmindevej 138654 Bryrup,yrup,450.000,01-03-2016,Fam. Salg,4.736,5,Sommerhus,95,1800,,Aktuel værdi
+Svinsbjergvej 428654 Bryrup,yrup,4.450.000,25-02-2016,Alm. Salg,22.250,7,Villa,200,1925,,Aktuel værdi
+Løvevej 38654 Bryrup,yrup,965.000,25-02-2016,Alm. Salg,13.402,3,Villa,72,1960,-1 %,Aktuel værdi
+Torupvej 88654 Bryrup,yrup,964.000,18-02-2016,Andet,4.820,6,Villa,200,1978,,Aktuel værdi
+Burgårdevej 218654 Bryrup,yrup,1.110.000,15-02-2016,Alm. Salg,4.319,9,Stuehus,257,1857,,
+Solbrinken 158654 Bryrup,yrup,1.895.000,09-02-2016,Alm. Salg,11.415,6,Villa,166,1981,0 %,Aktuel værdi
+Kløvermarken 58654 Bryrup,yrup,1.025.000,28-01-2016,Alm. Salg,9.855,4,Rækkehus,104,1971,-5 %,Aktuel værdi
+Højtoften 28654 Bryrup,yrup,856.613,22-01-2016,Fam. Salg,5.562,4,Villa,154,1972,,Aktuel værdi
+Snabegårdvej 138654 Bryrup,yrup,775.000,08-01-2016,Alm. Salg,3.894,7,Villa,199,1998,,Aktuel værdi
+Burgårdevej 58654 Bryrup,yrup,540.000,05-01-2016,Auktion,4.060,6,Villa,133,1890,-17 %,Aktuel værdi
+Byvej 238654 Bryrup,yrup,850.000,04-01-2016,Alm. Salg,6.071,4,Villa,140,1923,-15 %,Aktuel værdi
+Holtehusvej 218654 Bryrup,yrup,1.025.000,20-12-2015,Alm. Salg,14.855,4,Sommerhus,69,1962,,Aktuel værdi
+Bakkevej 228654 Bryrup,yrup,1.650.000,11-12-2015,Alm. Salg,10.443,6,Villa,158,1973,-17 %,Aktuel værdi
+Hovedgaden 528654 Bryrup,yrup,500.000,08-12-2015,Alm. Salg,5.000,3,Villa,100,1960,-23 %,Aktuel værdi
+Lystruphavevej 78654 Bryrup,yrup,9.000.000,03-12-2015,Alm. Salg,14.240,10,Villa,632,1906,,Aktuel værdi
+Vellingvej 268654 Bryrup,yrup,1.510.000,22-11-2015,Alm. Salg,10.413,7,Stuehus,145,1928,-5 %,
+Østervang 298654 Bryrup,yrup,575.000,04-11-2015,Alm. Salg,7.770,4,Villa,74,1937,-17 %,Aktuel værdi
+Byvej 58654 Bryrup,yrup,1.000.000,03-11-2015,Fam. Salg,10.000,9,Industri o.l.,100,1910,,Aktuel værdi
+Vestergårdsvej 28654 Bryrup,yrup,1.200.000,09-10-2015,Alm. Salg,6.741,6,Villa,178,1933,-7 %,Aktuel værdi
+Søndervang 98654 Bryrup,yrup,1.210.000,28-09-2015,Alm. Salg,7.707,5,Villa,157,1973,-10 %,Aktuel værdi
+Lystrupmindevej 288654 Bryrup,yrup,1.225.000,22-09-2015,Alm. Salg,15.705,2,Villa,78,1955,-2 %,Aktuel værdi
+Burgårdevej 228654 Bryrup,yrup,510.000,16-09-2015,Fam. Salg,2.802,7,Villa,182,1874,,Aktuel værdi
+Fasanvej 418654 Bryrup,yrup,1.250.000,20-08-2015,Alm. Salg,6.443,6,Villa,194,1975,-26 %,Aktuel værdi
+Østervang 98654 Bryrup,yrup,1.195.000,29-06-2015,Alm. Salg,8.298,4,Villa,144,1974,0 %,Aktuel værdi
+Sportsvej 9C8654 Bryrup,yrup,824.500,26-06-2015,Fam. Salg,5.460,5,Villa,151,1974,-8 %,Aktuel værdi
+Kløvermarken 48654 Bryrup,yrup,600.000,23-06-2015,Fam. Salg,5.769,4,Villa,104,1972,,Aktuel værdi
+Østervang 468654 Bryrup,yrup,2.120.000,04-06-2015,Alm. Salg,10.000,3,Villa,212,1969,-10 %,Aktuel værdi
+Skovvænget 218654 Bryrup,yrup,902.000,28-05-2015,Fam. Salg,5.401,6,Villa,167,2007,,Aktuel værdi
+Hovedgaden 578654 Bryrup,yrup,221.000,26-05-2015,Auktion,2.540,4,Sommerhus,87,1986,-63 %,Aktuel værdi
+Burgårdevej 23A8654 Bryrup,yrup,265.000,09-05-2015,Alm. Salg,1.104,8,Villa,240,1839,,Aktuel værdi
+Højtoften 58654 Bryrup,yrup,950.000,18-04-2015,Alm. Salg,7.307,4,Villa,130,1971,-13 %,Aktuel værdi
+Løvevej 4A8654 Bryrup,yrup,1.650.000,13-04-2015,Alm. Salg,9.537,6,Villa,173,2008,-3 %,Aktuel værdi
+Langebjergvej 158654 Bryrup,yrup,4.600.000,05-04-2015,Alm. Salg,15.333,7,Stuehus,300,2010,,
+Sportsvej 30A8654 Bryrup,yrup,510.000,24-03-2015,Alm. Salg,4.358,4,Villa,117,1955,-14 %,Aktuel værdi
+Hedevang 58654 Bryrup,yrup,1.375.000,23-03-2015,Alm. Salg,10.912,4,Villa,126,1973,-8 %,Aktuel værdi
+Fasanvej 158654 Bryrup,yrup,1.460.000,16-03-2015,Alm. Salg,8.795,6,Villa,166,1974,-2 %,Aktuel værdi
+Krude Møllevej 48654 Bryrup,yrup,845.000,12-03-2015,Alm. Salg,10.562,3,Villa,80,1959,0 %,Aktuel værdi
+Sneppevej 78654 Bryrup,yrup,1.675.000,06-03-2015,Alm. Salg,9.517,7,Villa,176,1997,0 %,Aktuel værdi
+Hovedgaden 438654 Bryrup,yrup,1.460.000,18-02-2015,Alm. Salg,9.733,8,Villa,150,1950,-2 %,Aktuel værdi
+Burgårdevej 108654 Bryrup,yrup,657.500,17-02-2015,Auktion,4.325,6,Villa,152,1910,,Aktuel værdi
+Daltoften 98654 Bryrup,yrup,175.000,31-12-2014,Fam. Salg,1.356,4,Villa,129,1968,,Aktuel værdi
+Sportsvej 8A8654 Bryrup,yrup,512.500,09-12-2014,Auktion,2.394,6,Villa,214,1912,,Aktuel værdi
+Løndalvej 58654 Bryrup,yrup,1.062.432,03-12-2014,Alm. Salg,5.059,7,Stuehus,210,1918,,
+Torupvej 28654 Bryrup,yrup,1.375.000,17-11-2014,Alm. Salg,6.875,10,Villa,200,1938,-14 %,Aktuel værdi
+Østervang 348654 Bryrup,yrup,600.000,13-11-2014,Alm. Salg,7.228,3,Villa,83,1960,-7 %,Aktuel værdi
+Højdedraget 108654 Bryrup,yrup,575.000,03-11-2014,Alm. Salg,9.583,2,Sommerhus,60,1972,,Aktuel værdi
+Hedevang 28654 Bryrup,yrup,680.000,02-10-2014,Alm. Salg,4.250,5,Villa,160,1965,-14 %,Aktuel værdi
+Lystrupmindevej 98654 Bryrup,yrup,250.000,25-09-2014,Alm. Salg,3.571,3,Villa,70,1877,-23 %,Aktuel værdi
+Tusdal 268654 Bryrup,yrup,632.270,18-09-2014,Fam. Salg,10.036,3,Sommerhus,63,1980,,Aktuel værdi
+Vellingvej 168654 Bryrup,yrup,700.000,18-09-2014,Alm. Salg,7.608,3,Stuehus,92,1870,-20 %,
+Løvet Møllevej 78654 Bryrup,yrup,350.000,15-09-2014,Alm. Salg,3.645,2,Villa,96,1885,-46 %,Aktuel værdi
+Lystrupmindevej 28654 Bryrup,yrup,2.675.000,28-08-2014,Alm. Salg,14.944,6,Stuehus,179,1868,,
+Sportsvej 528654 Bryrup,yrup,2.225.000,20-08-2014,Alm. Salg,8.900,7,Villa,250,1972,-11 %,Aktuel værdi
+Langsøvej 118654 Bryrup,yrup,2.065.500,11-08-2014,Alm. Salg,29.507,4,Sommerhus,70,2004,-10 %,Aktuel værdi
+Burgårdevej 9A8654 Bryrup,yrup,1.300.000,08-08-2014,Alm. Salg,7.514,4,Villa,173,1976,-7 %,Aktuel værdi
+Tusdal 68654 Bryrup,yrup,501.500,02-07-2014,Fam. Salg,8.955,3,Sommerhus,56,1977,,Aktuel værdi
+Snabegårdvej 118654 Bryrup,yrup,725.000,30-06-2014,Fam. Salg,3.295,5,Villa,220,1997,,Aktuel værdi
+Fasanvej 398654 Bryrup,yrup,800.000,25-06-2014,Auktion,4.651,6,Villa,172,1974,-20 %,Aktuel værdi
+Skolevej 28654 Bryrup,yrup,735.000,24-06-2014,Alm. Salg,3.062,8,Villa,240,1973,,Aktuel værdi
+Daltoften 158654 Bryrup,yrup,1.700.000,14-06-2014,Alm. Salg,9.883,6,Villa,172,1972,-3 %,Aktuel værdi
+Nygårdsvej 38654 Bryrup,yrup,425.000,26-05-2014,Alm. Salg,4.336,3,Villa,98,1912,,Aktuel værdi
+Langsøvej 18654 Bryrup,yrup,1.975.000,21-05-2014,Alm. Salg,13.079,4,Villa,151,1969,-6 %,Aktuel værdi
+Byvej 458654 Bryrup,yrup,402.500,04-05-2014,Andet,4.065,3,Villa,99,1943,,Aktuel værdi
+Rolighedsvej 178654 Bryrup,yrup,870.000,19-03-2014,Alm. Salg,8.529,5,Villa,102,2004,-3 %,Aktuel værdi
+Vellingvej 128654 Bryrup,yrup,72.000,06-03-2014,Auktion,642,3,Villa,112,1900,,Aktuel værdi
+Hovedgaden 118654 Bryrup,yrup,116.000,25-02-2014,Auktion,758,4,Villa,153,1939,,Aktuel værdi
+Daltoften 48654 Bryrup,yrup,527.000,18-02-2014,Auktion,3.903,4,Villa,135,1973,,Aktuel værdi
+Drosselvej 98654 Bryrup,yrup,1.195.000,18-02-2014,Auktion,10.575,3,Villa,113,1979,,Aktuel værdi
+Kløvermarken 218654 Bryrup,yrup,1.025.000,15-01-2014,Alm. Salg,9.855,5,Rækkehus,104,1971,-6 %,Aktuel værdi
+St Bredlundvej 148654 Bryrup,yrup,4.000.000,09-01-2014,Auktion,16.877,7,Stuehus,237,1936,,
+Tusdal 48654 Bryrup,yrup,695.000,09-01-2014,Alm. Salg,17.375,3,Sommerhus,40,1973,-13 %,Aktuel værdi
+Vellingvej 44B8654 Bryrup,yrup,2.745.000,18-12-2013,Alm. Salg,11.068,5,Villa,248,2009,-2 %,Aktuel værdi
+Fasanvej 278654 Bryrup,yrup,1.000.000,18-12-2013,Alm. Salg,7.518,4,Villa,133,1975,,Aktuel værdi
+Kløvermarken 148654 Bryrup,yrup,1.080.000,16-12-2013,Alm. Salg,10.384,4,Villa,104,1972,-1 %,Aktuel værdi
+Skovvænget 308654 Bryrup,yrup,385.000,30-10-2013,Alm. Salg,2.305,6,Villa,167,2014,0 %,Aktuel værdi
+Skovvænget 58654 Bryrup,yrup,418.000,25-09-2013,Alm. Salg,2.732,5,Villa,153,2014,0 %,Aktuel værdi
+Skolevej 158654 Bryrup,yrup,915.000,11-09-2013,Alm. Salg,10.166,3,Villa,90,1961,-8 %,Aktuel værdi
+Hedevang 88654 Bryrup,yrup,1.080.000,16-08-2013,Alm. Salg,9.729,4,Villa,111,1977,-1 %,Aktuel værdi
+Fasanvej 258654 Bryrup,yrup,1.010.000,05-08-2013,Alm. Salg,9.439,4,Villa,107,1974,-3 %,Aktuel værdi
+Kæmpesmøllevej 278654 Bryrup,yrup,345.000,06-07-2013,Alm. Salg,3.450,3,Sommerhus,100,1961,,Aktuel værdi
+Tømmerbyvej 288654 Bryrup,yrup,900.000,02-07-2013,Alm. Salg,5.660,5,Villa,159,1939,-10 %,Aktuel værdi
+Kløvermarken 158654 Bryrup,yrup,600.000,24-06-2013,Alm. Salg,5.769,4,Rækkehus,104,1971,-4 %,Aktuel værdi
+Langsøvej 28654 Bryrup,yrup,795.000,16-06-2013,Alm. Salg,33.125,1,Sommerhus,24,1987,0 %,Aktuel værdi
+Dalstedvej 58654 Bryrup,yrup,1.275.000,11-06-2013,Alm. Salg,7.083,4,Villa,180,1877,-6 %,Aktuel værdi
+Burgårdevej 248654 Bryrup,yrup,960.000,24-04-2013,Alm. Salg,5.853,6,Villa,164,1920,-4 %,Aktuel værdi
+Sportsvej 158654 Bryrup,yrup,510.000,22-04-2013,Alm. Salg,7.391,3,Villa,69,1939,-11 %,Aktuel værdi
+Rolighedsvej 88654 Bryrup,yrup,500.000,22-03-2013,Alm. Salg,2.325,8,Villa,215,1930,,Aktuel værdi
+Dambrugsvej 58654 Bryrup,yrup,3.050.000,21-03-2013,Alm. Salg,23.643,4,Sommerhus,129,2002,-13 %,Aktuel værdi
+Musvitvej 78654 Bryrup,yrup,2.170.000,20-03-2013,Alm. Salg,11.604,6,Villa,187,2007,-1 %,Aktuel værdi
+Østervang 138654 Bryrup,yrup,1.280.000,15-03-2013,Alm. Salg,10.847,4,Villa,118,1973,,Aktuel værdi
+Tyklundvej 28654 Bryrup,yrup,6.750.000,06-02-2013,Alm. Salg,79.411,2,Villa,85,1900,,Aktuel værdi
+Søndervang 68654 Bryrup,yrup,1.600.000,20-12-2012,Alm. Salg,13.333,2,Villa,120,2009,,Aktuel værdi
+Højdedraget 128654 Bryrup,yrup,575.000,19-12-2012,Alm. Salg,15.131,2,Sommerhus,38,1959,-28 %,Aktuel værdi
+Burgårdevej 88654 Bryrup,yrup,1.140.000,17-12-2012,Alm. Salg,5.158,9,Villa,221,1892,-11 %,Aktuel værdi
+Rolighedsvej 6A8654 Bryrup,yrup,620.000,13-12-2012,Alm. Salg,7.750,3,Villa,80,1937,,Aktuel værdi
+Sportsvej 30C8654 Bryrup,yrup,1.950.000,26-11-2012,Alm. Salg,7.303,7,Villa,267,2000,-2 %,Aktuel værdi
+Højdedraget 188654 Bryrup,yrup,900.000,24-11-2012,Fam. Salg,12.328,4,Sommerhus,73,2000,,Aktuel værdi
+Søndervang 58654 Bryrup,yrup,375.000,16-11-2012,Alm. Salg,3.348,4,Villa,112,2013,,Aktuel værdi
+Tværvej 18654 Bryrup,yrup,575.000,07-11-2012,Alm. Salg,3.911,7,Villa,147,1942,,Aktuel værdi
+Sportsvej 30B8654 Bryrup,yrup,2.150.000,18-09-2012,Alm. Salg,12.215,7,Villa,176,1999,-6 %,Aktuel værdi
+Søvej 1B8654 Bryrup,yrup,1.600.000,29-08-2012,Alm. Salg,4.637,7,Villa,345,1957,,Aktuel værdi
+Østervang 228654 Bryrup,yrup,675.000,20-08-2012,Alm. Salg,7.758,3,Villa,87,1959,-9 %,Aktuel værdi
+Dalstedvej 48654 Bryrup,yrup,1.450.000,17-08-2012,Alm. Salg,11.693,4,Stuehus,124,2004,-9 %,
+Blåmejsevej 118654 Bryrup,yrup,1.650.000,23-07-2012,Alm. Salg,9.428,6,Villa,175,1974,-11 %,Aktuel værdi
+Vindingvej 58654 Bryrup,yrup,11.600.000,12-07-2012,Alm. Salg,44.787,7,Stuehus,259,1924,,
+Skolevej 78654 Bryrup,yrup,716.803,18-06-2012,Andet,5.644,4,Villa,127,1969,,Aktuel værdi
+Agervænget 78654 Bryrup,yrup,251.000,15-05-2012,Alm. Salg,1.539,5,Villa,163,2016,,Aktuel værdi
+Velling Koller Vej 48654 Bryrup,yrup,5.650.000,10-05-2012,Alm. Salg,26.650,6,Villa,212,1900,,Aktuel værdi
+Byvej 88654 Bryrup,yrup,900.000,30-04-2012,Alm. Salg,7.758,6,Villa,116,1946,-31 %,Aktuel værdi
+Højtoften 138654 Bryrup,yrup,1.050.000,10-04-2012,Auktion,8.076,4,Villa,130,1971,,Aktuel værdi
+Hovedgaden 478654 Bryrup,yrup,695.000,03-04-2012,Alm. Salg,9.652,3,Villa,72,1948,0 %,Aktuel værdi
+Løvevej 218654 Bryrup,yrup,710.000,03-04-2012,Alm. Salg,7.029,5,Stuehus,101,1953,,
+Tusdal 148654 Bryrup,yrup,600.000,15-03-2012,Alm. Salg,9.677,3,Sommerhus,62,1969,-19 %,Aktuel værdi
+Østervang 118654 Bryrup,yrup,750.000,26-02-2012,Alm. Salg,5.208,5,Villa,144,1972,-6 %,Aktuel værdi
+Burgårdevej 408654 Bryrup,yrup,575.000,13-02-2012,Alm. Salg,5.750,3,Villa,100,1927,-17 %,Aktuel værdi
+Fasanvej 478654 Bryrup,yrup,1.700.000,09-01-2012,Alm. Salg,9.770,7,Villa,174,1980,-5 %,Aktuel værdi
+Hegnsvej 88654 Bryrup,yrup,600.000,08-01-2012,Fam. Salg,6.122,4,Villa,98,1939,,Aktuel værdi
+Solbrinken 168654 Bryrup,yrup,670.000,26-12-2011,Alm. Salg,7.362,3,Villa,91,1976,,Aktuel værdi
+Sportsvej 108654 Bryrup,yrup,800.000,16-12-2011,Alm. Salg,4.705,6,Villa,170,1903,-20 %,Aktuel værdi
+Vellingvej 448654 Bryrup,yrup,755.000,23-11-2011,Alm. Salg,6.622,4,Villa,114,1944,-11 %,Aktuel værdi
+Østervang 378654 Bryrup,yrup,1.705.000,21-11-2011,Alm. Salg,9.419,4,Villa,181,1991,-5 %,Aktuel værdi
+Østervang 10A8654 Bryrup,yrup,600.000,18-11-2011,Alm. Salg,7.058,3,Villa,85,1964,-11 %,Aktuel værdi
+Løvevej 358654 Bryrup,yrup,1.719.500,11-11-2011,Alm. Salg,8.347,4,Stuehus,206,1942,,
+Torupvej 108654 Bryrup,yrup,375.000,08-11-2011,Alm. Salg,4.166,3,Villa,90,1960,,Aktuel værdi
+Østervang 248654 Bryrup,yrup,550.000,02-11-2011,Alm. Salg,5.000,4,Villa,110,1968,-31 %,Aktuel værdi
+Tusdal 128654 Bryrup,yrup,375.000,25-10-2011,Andet,5.514,3,Sommerhus,68,1987,,Aktuel værdi
+Spættevej 88654 Bryrup,yrup,805.500,23-09-2011,Alm. Salg,6.056,4,Villa,133,1979,-10 %,Aktuel værdi
+Skovvænget 178654 Bryrup,yrup,539.000,29-08-2011,Alm. Salg,2.518,6,Villa,214,2012,,Aktuel værdi
+Agervænget 98654 Bryrup,yrup,2.000.000,28-07-2011,Alm. Salg,10.000,6,Villa,200,2007,-9 %,Aktuel værdi
+Fasanvej 298654 Bryrup,yrup,1.150.000,26-07-2011,Alm. Salg,8.984,4,Villa,128,1979,-8 %,Aktuel værdi
+Lykkensrovej 68654 Bryrup,yrup,1.200.000,05-07-2011,Fam. Salg,15.384,3,Stuehus,78,1890,,
+Kirkevej 78654 Bryrup,yrup,2.400.000,17-06-2011,Alm. Salg,11.822,7,Villa,203,2006,-11 %,Aktuel værdi
+Burgårdevej 268654 Bryrup,yrup,720.000,15-06-2011,Fam. Salg,5.255,3,Villa,137,1890,,Aktuel værdi
+Rolighedsvej 9B8654 Bryrup,yrup,618.235,07-06-2011,Alm. Salg,-,4,Villa,176,1945,,Aktuel værdi
+Hovedgaden 548654 Bryrup,yrup,735.193,12-05-2011,Alm. Salg,9.673,4,Villa,76,1944,,Aktuel værdi
+Højdedraget 48654 Bryrup,yrup,875.000,09-05-2011,Alm. Salg,14.830,4,Sommerhus,59,1972,0 %,Aktuel værdi
+Fasanvej 178654 Bryrup,yrup,1.175.000,24-03-2011,Alm. Salg,9.108,4,Villa,129,1974,-6 %,Aktuel værdi
+Skovvænget 288654 Bryrup,yrup,385.000,23-03-2011,Alm. Salg,2.347,6,Villa,164,2016,,Aktuel værdi
+Hovedgaden 508654 Bryrup,yrup,546.000,14-03-2011,Alm. Salg,4.875,4,Villa,112,1903,0 %,Aktuel værdi
+Fasanvej 388654 Bryrup,yrup,1.150.000,09-02-2011,Alm. Salg,6.424,5,Villa,179,1973,-23 %,Aktuel værdi
+Østervang 44A8654 Bryrup,yrup,1.560.000,04-02-2011,Alm. Salg,15.757,4,Villa,99,2002,-5 %,Aktuel værdi
+Østervang 44E8654 Bryrup,yrup,2.100.000,26-01-2011,Alm. Salg,14.685,5,Villa,143,1998,-7 %,Aktuel værdi
+Fasanvej 368654 Bryrup,yrup,1.745.000,21-01-2011,Alm. Salg,11.044,6,Villa,158,1978,0 %,Aktuel værdi
+Østervang 36A8654 Bryrup,yrup,570.000,06-01-2011,Auktion,5.937,4,Villa,96,1962,,Aktuel værdi
+Skovvænget 128654 Bryrup,yrup,1.750.000,23-12-2010,Alm. Salg,11.146,5,Villa,157,2007,-3 %,Aktuel værdi
+Byvej 108654 Bryrup,yrup,700.000,22-12-2010,Alm. Salg,8.536,3,Villa,82,1959,-26 %,Aktuel værdi
+Fasanvej 428654 Bryrup,yrup,1.710.000,08-12-2010,Alm. Salg,11.400,5,Villa,150,1974,-5 %,Aktuel værdi
+Skovvænget 48654 Bryrup,yrup,1.750.000,03-12-2010,Alm. Salg,11.744,5,Villa,149,2007,-3 %,Aktuel værdi
+Lykkensrovej 38654 Bryrup,yrup,2.600.000,04-10-2010,Alm. Salg,16.250,6,Stuehus,160,1942,-13 %,
+Byvej 268654 Bryrup,yrup,447.500,03-10-2010,Andet,5.966,3,Villa,75,1953,,Aktuel værdi
+Lyngbakkevej 98654 Bryrup,yrup,3.250.000,01-10-2010,Alm. Salg,125.000,2,Sommerhus,26,1996,,Aktuel værdi
+Lyngbakkevej 78654 Bryrup,yrup,3.250.000,01-10-2010,Alm. Salg,36.111,5,Sommerhus,90,1860,-19 %,Aktuel værdi
+Agervænget 138654 Bryrup,yrup,275.000,28-09-2010,Alm. Salg,2.291,3,Villa,120,2011,,Aktuel værdi
+Vellingvej 328654 Bryrup,yrup,2.150.000,15-09-2010,Alm. Salg,19.907,4,Villa,108,1940,,Aktuel værdi
+Musvitvej 88654 Bryrup,yrup,1.900.000,03-09-2010,Alm. Salg,-,6,Villa,208,2009,-5 %,Aktuel værdi
+Lykkensspilvej 68654 Bryrup,yrup,3.350.000,13-08-2010,Alm. Salg,19.822,4,Villa,169,1963,0 %,Aktuel værdi
+Fasanvej 438654 Bryrup,yrup,900.000,12-08-2010,Alm. Salg,7.317,4,Villa,123,1974,-23 %,Aktuel værdi
+Højtoften 168654 Bryrup,yrup,1.140.000,06-08-2010,Alm. Salg,7.037,4,Villa,162,1973,-12 %,Aktuel værdi
+Burgårdevej 208654 Bryrup,yrup,825.000,05-08-2010,Alm. Salg,7.051,6,Villa,117,1900,-22 %,Aktuel værdi
+Sportsvej 44B8654 Bryrup,yrup,661.555,31-07-2010,Fam. Salg,3.868,5,Villa,171,2011,,Aktuel værdi
+Fuglsangvej 38654 Bryrup,yrup,1.500.000,18-07-2010,Alm. Salg,7.936,7,Villa,189,2011,-6 %,Aktuel værdi
+Løvevej 188654 Bryrup,yrup,1.650.000,18-06-2010,Alm. Salg,13.095,3,Villa,126,1994,,Aktuel værdi
+Løvevej 248654 Bryrup,yrup,2.200.000,14-06-2010,Alm. Salg,8.661,9,Villa,254,1900,,Aktuel værdi
+Rodvigsballevej 178654 Bryrup,yrup,1.660.000,01-06-2010,Alm. Salg,11.448,4,Villa,145,1927,-12 %,Aktuel værdi
+Søndervang 218654 Bryrup,yrup,125.150,05-05-2010,Fam. Salg,792,4,Villa,158,2011,,Aktuel værdi
+Højtoften 68654 Bryrup,yrup,895.000,27-04-2010,Alm. Salg,4.917,4,Villa,182,1972,-5 %,Aktuel værdi
+Dalstedvej 38654 Bryrup,yrup,1.650.000,31-03-2010,Alm. Salg,10.645,4,Stuehus,155,1875,-16 %,
+Burgårdevej 18654 Bryrup,yrup,950.000,25-03-2010,Auktion,5.688,6,Villa,167,1827,,Aktuel værdi
+Drosselvej 208654 Bryrup,yrup,2.395.000,23-03-2010,Alm. Salg,9.618,9,Villa,249,1979,-8 %,Aktuel værdi
+Birkelundvej 28654 Bryrup,yrup,1.700.000,09-03-2010,Alm. Salg,7.053,6,Stuehus,241,1900,-14 %,
+Sejetvej 38654 Bryrup,yrup,1.435.000,15-02-2010,Alm. Salg,23.916,3,Sommerhus,60,1963,-15 %,Aktuel værdi
+Østervang 44D8654 Bryrup,yrup,2.250.000,13-02-2010,Alm. Salg,15.202,4,Villa,148,2000,-6 %,Aktuel værdi
+Fasanvej 468654 Bryrup,yrup,285.000,09-02-2010,Fam. Salg,2.192,5,Villa,130,1979,,Aktuel værdi
+Østervang 498654 Bryrup,yrup,1.300.000,29-01-2010,Alm. Salg,10.833,5,Stuehus,120,1850,,
+Østervang 328654 Bryrup,yrup,1.325.000,22-01-2010,Alm. Salg,16.772,2,Villa,79,1938,-5 %,Aktuel værdi
+Sportsvej 28654 Bryrup,yrup,970.000,11-01-2010,Alm. Salg,8.818,5,Villa,110,1902,-3 %,Aktuel værdi
+Fasanvej 58654 Bryrup,yrup,1.895.000,19-12-2009,Alm. Salg,11.625,4,Villa,163,1975,,Aktuel værdi
+Kæmpesmøllevej 58654 Bryrup,yrup,1.000.000,14-12-2009,Fam. Salg,13.333,3,Sommerhus,75,1980,,Aktuel værdi
+Sportsvej 18654 Bryrup,yrup,620.000,08-12-2009,Andet,5.486,5,Villa,113,1961,,Aktuel værdi
+Fasanvej 548654 Bryrup,yrup,850.000,10-11-2009,Alm. Salg,6.204,4,Villa,137,1986,,Aktuel værdi
+Østervang 178654 Bryrup,yrup,741.855,06-11-2009,Andet,4.755,5,Villa,156,1972,,Aktuel værdi
+Bakkevej 18654 Bryrup,yrup,1.410.000,22-10-2009,Alm. Salg,11.557,8,Villa,122,1968,-6 %,Aktuel værdi
+Lykkensrovej 58654 Bryrup,yrup,1.950.000,26-09-2009,Alm. Salg,14.552,5,Stuehus,134,1972,-22 %,
+Svinsbjergvej 208654 Bryrup,yrup,650.000,08-09-2009,Alm. Salg,4.220,5,Stuehus,154,1900,,
+Hovedgaden 40B8654 Bryrup,yrup,732.913,28-08-2009,Alm. Salg,5.089,6,Villa,144,1978,,Aktuel værdi
+Vellingvej 6B8654 Bryrup,yrup,205.000,10-08-2009,Auktion,3.416,3,Lejlighed,60,1900,,Aktuel værdi
+Spurvevej 188654 Bryrup,yrup,1.800.000,07-08-2009,Alm. Salg,14.400,5,Villa,125,1999,-10 %,Aktuel værdi
+Østermark 38654 Bryrup,yrup,1.950.000,28-07-2009,Alm. Salg,13.636,5,Villa,143,1976,-6 %,Aktuel værdi
+Globevænget 18654 Bryrup,yrup,575.000,02-07-2009,Alm. Salg,3.709,6,Villa,155,1967,,Aktuel værdi
+Fasanvej 218654 Bryrup,yrup,1.525.000,30-05-2009,Alm. Salg,7.093,6,Villa,215,1974,-8 %,Aktuel værdi
+Langballevej 48654 Bryrup,yrup,1.825.000,30-05-2009,Alm. Salg,13.321,4,Villa,137,1924,-6 %,Aktuel værdi
+Sportsvej 608654 Bryrup,yrup,330.000,27-05-2009,Andet,2.323,5,Villa,142,2010,,Aktuel værdi
+Fasanvej 508654 Bryrup,yrup,1.200.000,11-05-2009,Alm. Salg,8.633,4,Villa,139,1978,,Aktuel værdi
+Løvevej 128654 Bryrup,yrup,1.275.000,19-03-2009,Alm. Salg,10.991,3,Villa,116,1946,,Aktuel værdi
+Sportsvej 248654 Bryrup,yrup,650.000,19-03-2009,Andet,7.558,5,Sommerhus,86,1957,,Aktuel værdi
+"Hovedgaden 21, 18654 Bryrup",yrup,1.650.000,09-02-2009,Alm. Salg,10.645,5,Villa,155,1956,,Aktuel værdi
+Byvej 40A8654 Bryrup,yrup,560.000,22-01-2009,Auktion,4.117,7,Villa,136,1920,,Aktuel værdi
+Overdrevet 88654 Bryrup,yrup,428.507,13-01-2009,Alm. Salg,2.678,5,Villa,160,2010,,Aktuel værdi
+Povlslystvej 28654 Bryrup,yrup,3.220.000,18-12-2008,Alm. Salg,17.888,6,Stuehus,180,1868,,
+Kongsø 68654 Bryrup,yrup,5.547.211,09-12-2008,Fam. Salg,50.429,4,Sommerhus,110,1875,,Aktuel værdi
+Vorretvej 38654 Bryrup,yrup,3.350.000,09-12-2008,Alm. Salg,11.472,5,Villa,292,2012,-16 %,Aktuel værdi
+Hovedgaden 488654 Bryrup,yrup,1.032.000,17-11-2008,Alm. Salg,9.735,5,Rækkehus,106,1915,,Aktuel værdi
+"Byvej 1, 18654 Bryrup",yrup,770.000,05-11-2008,Fam. Salg,3.532,10,Lejlighed,218,1900,,Aktuel værdi
+Hovedgaden 168654 Bryrup,yrup,800.000,30-10-2008,Alm. Salg,6.956,5,Villa,115,1890,-24 %,Aktuel værdi
+Åvej 58654 Bryrup,yrup,500.000,26-10-2008,Alm. Salg,10.000,2,Sommerhus,50,1962,-13 %,Aktuel værdi
+Skovvænget 78654 Bryrup,yrup,490.000,06-10-2008,Alm. Salg,3.024,5,Villa,162,2009,,Aktuel værdi
+Nygårdsvej 78654 Bryrup,yrup,710.000,11-09-2008,Alm. Salg,6.228,4,Villa,114,1935,-7 %,Aktuel værdi
+Agervænget 158654 Bryrup,yrup,375.000,09-09-2008,Alm. Salg,2.952,4,Villa,127,2009,,Aktuel værdi
+Fuglsangvej 18654 Bryrup,yrup,500.000,28-08-2008,Alm. Salg,3.164,5,Villa,158,2010,0 %,Aktuel værdi
+Svinsbjergvej 408654 Bryrup,yrup,1.550.000,27-07-2008,Alm. Salg,19.375,3,Sommerhus,80,1877,-15 %,Aktuel værdi
+Overdrevet 18654 Bryrup,yrup,371.000,15-07-2008,Alm. Salg,2.708,4,Villa,137,2009,,Aktuel værdi
+Nygårdsvej 1A8654 Bryrup,yrup,810.000,09-07-2008,Alm. Salg,6.428,5,Villa,126,2011,-5 %,Aktuel værdi
+Løvsangerstien 88654 Bryrup,yrup,962.500,02-07-2008,Alm. Salg,24.679,2,Sommerhus,39,1967,-3 %,Aktuel værdi
+Daltoften 188654 Bryrup,yrup,1.565.000,28-06-2008,Alm. Salg,10.574,4,Villa,148,1972,-1 %,Aktuel værdi
+Solbrinken 58654 Bryrup,yrup,1.284.060,24-06-2008,Andet,6.903,6,Villa,186,2002,,Aktuel værdi
+Hulmosevej 28654 Bryrup,yrup,8.500.000,18-06-2008,Alm. Salg,55.921,4,Stuehus,152,1827,,
+Hulmosevej 38654 Bryrup,yrup,3.950.000,18-06-2008,Alm. Salg,47.590,3,Stuehus,83,1900,,
+Hovedgaden 688654 Bryrup,yrup,4.775.000,10-06-2008,Alm. Salg,34.601,6,Stuehus,138,1930,,
+Byvej 198654 Bryrup,yrup,1.250.000,10-06-2008,Alm. Salg,9.469,5,Villa,132,1900,-3 %,Aktuel værdi
+Løvevej 4C8654 Bryrup,yrup,450.000,27-05-2008,Alm. Salg,4.891,2,Villa,92,2011,,Aktuel værdi
+Burgårdevej 378654 Bryrup,yrup,5.125.000,23-05-2008,Alm. Salg,30.688,7,Stuehus,167,1926,,
+Udsigten 238654 Bryrup,yrup,1.815.000,20-05-2008,Fam. Salg,8.030,6,Villa,226,1978,-9 %,Aktuel værdi
+Lykkensspilvej 58654 Bryrup,yrup,1.400.000,13-05-2008,Andet,5.857,9,Stuehus,239,1944,,
+Hovedgaden 28654 Bryrup,yrup,1.320.000,08-05-2008,Alm. Salg,11.000,4,Villa,120,1924,-5 %,Aktuel værdi
+Spættevej 58654 Bryrup,yrup,1.500.000,28-04-2008,Alm. Salg,10.416,5,Villa,144,1974,-5 %,Aktuel værdi
+Fuglsangvej 78654 Bryrup,yrup,2.800.000,26-04-2008,Alm. Salg,25.000,4,Stuehus,112,1954,0 %,
+Hovedgaden 468654 Bryrup,yrup,800.000,18-04-2008,Alm. Salg,7.272,5,Villa,110,1900,-5 %,Aktuel værdi
+Kirkevej 198654 Bryrup,yrup,1.025.000,16-04-2008,Alm. Salg,10.049,4,Villa,102,1923,0 %,Aktuel værdi
+Rolighedsvej 78654 Bryrup,yrup,1.125.000,15-04-2008,Alm. Salg,13.392,3,Villa,84,1952,-11 %,Aktuel værdi
+Skovsøvej 98654 Bryrup,yrup,3.350.000,28-03-2008,Alm. Salg,17.724,5,Villa,189,1997,6 %,Aktuel værdi
+Østervang 478654 Bryrup,yrup,1.150.000,20-03-2008,Alm. Salg,15.972,5,Villa,72,1957,-11 %,Aktuel værdi
+Skolevej 8A8654 Bryrup,yrup,1.450.000,03-03-2008,Fam. Salg,7.631,5,Villa,190,1953,-68 %,Aktuel værdi
+Østervang 8C8654 Bryrup,yrup,925.000,28-02-2008,Alm. Salg,8.409,3,Rækkehus,110,1972,0 %,Aktuel værdi
+Daltoften 28654 Bryrup,yrup,1.550.000,27-02-2008,Alm. Salg,11.923,3,Villa,130,1973,-5 %,Aktuel værdi
+Østervang 36B8654 Bryrup,yrup,2.125.000,12-02-2008,Alm. Salg,12.500,5,Villa,170,1998,-5 %,Aktuel værdi
+St Hjøllundvej 48654 Bryrup,yrup,12.300.000,07-02-2008,Alm. Salg,91.111,6,Sommerhus,135,1980,,Aktuel værdi
+Hovedgaden 8A8654 Bryrup,yrup,630.000,30-01-2008,Alm. Salg,9.545,3,Villa,66,2001,,Aktuel værdi
+Hovedgaden 448654 Bryrup,yrup,1.275.000,07-01-2008,Alm. Salg,8.500,6,Rækkehus,150,1900,-2 %,Aktuel værdi
+Musvitvej 58654 Bryrup,yrup,390.000,20-12-2007,Alm. Salg,3.046,6,Villa,128,2008,-77 %,Aktuel værdi
+Udsigten 188654 Bryrup,yrup,2.095.000,06-12-2007,Alm. Salg,13.259,6,Villa,158,2007,0 %,Aktuel værdi
+Ansøvej 478654 Bryrup,yrup,1.070.000,25-11-2007,Alm. Salg,11.888,3,Villa,90,1963,,Aktuel værdi
+Sportsvej 538654 Bryrup,yrup,1.100.000,16-11-2007,Alm. Salg,8.461,6,Villa,130,1973,,Aktuel værdi
+Østervang 42D8654 Bryrup,yrup,3.725.000,15-11-2007,Alm. Salg,26.418,4,Villa,141,2001,-2 %,Aktuel værdi
+Hovedgaden 288654 Bryrup,yrup,870.000,12-11-2007,Alm. Salg,6.744,5,Villa,129,1900,0 %,Aktuel værdi
+Skovvænget 198654 Bryrup,yrup,516.000,15-10-2007,Alm. Salg,2.492,5,Villa,207,2009,,Aktuel værdi
+Højdedraget 58654 Bryrup,yrup,650.000,02-10-2007,Alm. Salg,8.024,3,Sommerhus,81,1942,,Aktuel værdi
+Søndervang 158654 Bryrup,yrup,1.050.000,01-10-2007,Alm. Salg,7.291,4,Villa,144,1975,-12 %,Aktuel værdi
+Byvej 398654 Bryrup,yrup,910.000,24-09-2007,Alm. Salg,6.594,5,Villa,138,1950,,Aktuel værdi
+Løvsangerstien 28654 Bryrup,yrup,80.000,16-09-2007,Alm. Salg,2.666,1,Sommerhus,30,1962,,Aktuel værdi
+Overdrevet 38654 Bryrup,yrup,929.596,07-09-2007,Andet,5.342,5,Villa,174,2007,,Aktuel værdi
+Spættevej 248654 Bryrup,yrup,1.580.000,03-09-2007,Alm. Salg,10.748,4,Villa,147,1978,-1 %,Aktuel værdi
+Østervang 28654 Bryrup,yrup,1.675.000,23-08-2007,Alm. Salg,7.863,7,Villa,213,1974,,Aktuel værdi
+Løvsangerstien 208654 Bryrup,yrup,825.000,21-08-2007,Alm. Salg,12.890,4,Sommerhus,64,1975,,Aktuel værdi
+Spættevej 168654 Bryrup,yrup,1.880.000,13-08-2007,Alm. Salg,9.641,5,Villa,195,1980,,Aktuel værdi
+Sneppevej 18654 Bryrup,yrup,2.195.000,08-08-2007,Alm. Salg,14.633,5,Villa,150,1999,0 %,Aktuel værdi
+Byvej 68654 Bryrup,yrup,1.100.000,05-07-2007,Alm. Salg,9.821,4,Villa,112,1935,,Aktuel værdi
+Vestervang 18654 Bryrup,yrup,1.200.000,05-07-2007,Alm. Salg,5.853,6,Villa,205,1972,,Aktuel værdi
+Sportsvej 318654 Bryrup,yrup,1.615.000,26-06-2007,Alm. Salg,12.617,5,Villa,128,1973,,Aktuel værdi
+Løndalvej 18654 Bryrup,yrup,1.245.000,18-06-2007,Alm. Salg,8.527,4,Villa,146,1979,,Aktuel værdi
+Østervang 158654 Bryrup,yrup,1.650.000,09-06-2007,Alm. Salg,10.784,4,Villa,153,1972,,Aktuel værdi
+Fasanvej 408654 Bryrup,yrup,2.095.000,18-05-2007,Alm. Salg,13.966,5,Villa,150,2001,,Aktuel værdi
+Fasanvej 528654 Bryrup,yrup,1.195.000,14-05-2007,Alm. Salg,9.715,5,Villa,123,1976,0 %,Aktuel værdi
+Lystruphavevej 228654 Bryrup,yrup,330.000,13-05-2007,Fam. Salg,11.785,2,Sommerhus,28,1952,,Aktuel værdi
+Vestergårdsvej 48654 Bryrup,yrup,426.869,16-04-2007,Alm. Salg,2.651,4,Villa,161,1894,,Aktuel værdi
+Byvej 188654 Bryrup,yrup,1.075.000,14-04-2007,Alm. Salg,10.969,3,Villa,98,1967,,Aktuel værdi
+Musvitvej 38654 Bryrup,yrup,2.060.000,27-03-2007,Alm. Salg,14.305,5,Villa,144,2007,0 %,Aktuel værdi
+Spættevej 208654 Bryrup,yrup,1.000.000,09-03-2007,Alm. Salg,4.545,8,Villa,220,1975,,Aktuel værdi
+Byvej 208654 Bryrup,yrup,820.000,22-02-2007,Alm. Salg,7.592,4,Villa,108,1952,,Aktuel værdi
+Sportsvej 23B8654 Bryrup,yrup,2.150.000,19-02-2007,Alm. Salg,15.693,6,Villa,137,1947,,Aktuel værdi
+Højdedraget 88654 Bryrup,yrup,1.050.000,16-02-2007,Alm. Salg,11.052,4,Sommerhus,95,1967,0 %,Aktuel værdi
+Musvitvej 98654 Bryrup,yrup,2.054.900,27-01-2007,Alm. Salg,11.544,6,Villa,178,2007,,Aktuel værdi
+Byvej 338654 Bryrup,yrup,700.000,26-01-2007,Alm. Salg,5.303,3,Villa,132,1951,,Aktuel værdi
+Bredlunden 28654 Bryrup,yrup,500.000,23-01-2007,Alm. Salg,2.793,5,Villa,179,2008,,Aktuel værdi
+Vorretvej 58654 Bryrup,yrup,3.600.000,20-01-2007,Alm. Salg,17.061,5,Villa,211,1918,-10 %,Aktuel værdi
+Torupvej 18654 Bryrup,yrup,4.200.000,12-01-2007,Alm. Salg,29.577,7,Stuehus,142,1969,,
+Løvet Møllevej 118654 Bryrup,yrup,3.565.000,06-01-2007,Fam. Salg,21.347,5,Villa,167,1840,,Aktuel værdi
+Sportsvej 46A8654 Bryrup,yrup,3.400.000,17-12-2006,Alm. Salg,22.222,4,Villa,153,1992,,Aktuel værdi
+Sportsvej 328654 Bryrup,yrup,2.275.000,07-12-2006,Alm. Salg,17.500,5,Villa,130,1962,,Aktuel værdi
+Hovedgaden 588654 Bryrup,yrup,12.700.000,06-12-2006,Fam. Salg,92.028,5,Villa,138,1986,,Aktuel værdi
+Agervænget 48654 Bryrup,yrup,2.495.000,15-11-2006,Alm. Salg,17.570,5,Villa,142,2005,,Aktuel værdi
+Søndervang 118654 Bryrup,yrup,700.000,27-10-2006,Alm. Salg,5.882,4,Villa,119,1974,,Aktuel værdi
+Skovvænget 238654 Bryrup,yrup,430.000,17-10-2006,Alm. Salg,2.654,5,Villa,162,2008,,Aktuel værdi
+Skovvænget 158654 Bryrup,yrup,435.000,17-10-2006,Alm. Salg,2.558,6,Villa,170,2007,,Aktuel værdi
+St Bredlundvej 98654 Bryrup,yrup,768.662,29-09-2006,Fam. Salg,4.270,5,Villa,180,1910,,Aktuel værdi
+Skovvænget 108654 Bryrup,yrup,340.000,28-09-2006,Alm. Salg,2.207,5,Villa,154,2007,,Aktuel værdi
+Povlslystvej 48654 Bryrup,yrup,297.500,26-09-2006,Alm. Salg,2.680,4,Villa,111,1900,,Aktuel værdi
+Østervang 108654 Bryrup,yrup,1.895.000,13-09-2006,Alm. Salg,8.574,8,Villa,221,1973,,Aktuel værdi
+Skovvænget 248654 Bryrup,yrup,359.000,03-09-2006,Alm. Salg,2.136,5,Villa,168,2008,,Aktuel værdi
+Vellingvej 438654 Bryrup,yrup,700.000,01-09-2006,Alm. Salg,5.932,5,Villa,118,1952,,Aktuel værdi
+Løvevej 58654 Bryrup,yrup,1.150.000,25-08-2006,Alm. Salg,9.583,4,Villa,120,1957,,Aktuel værdi
+Skovvænget 68654 Bryrup,yrup,320.000,11-08-2006,Alm. Salg,2.285,4,Villa,140,2007,,Aktuel værdi
+Agervænget 58654 Bryrup,yrup,345.000,10-08-2006,Alm. Salg,2.284,6,Villa,151,2008,,Aktuel værdi
+Daltoften 58654 Bryrup,yrup,1.050.000,08-08-2006,Alm. Salg,8.076,5,Villa,130,1969,,Aktuel værdi
+Byvej 478654 Bryrup,yrup,1.505.000,24-07-2006,Alm. Salg,13.935,5,Villa,108,1971,,Aktuel værdi
+Burgårdevej 258654 Bryrup,yrup,1.280.000,19-07-2006,Alm. Salg,13.333,6,Villa,96,1964,,Aktuel værdi
+Solbrinken 28654 Bryrup,yrup,1.600.000,10-07-2006,Alm. Salg,7.843,5,Villa,204,1972,,Aktuel værdi
+Kæmpesmøllevej 238654 Bryrup,yrup,450.000,29-06-2006,Alm. Salg,12.500,2,Sommerhus,36,1991,,Aktuel værdi
+Løvet Møllevej 48654 Bryrup,yrup,1.750.000,20-06-2006,Fam. Salg,9.887,7,Stuehus,177,1924,,
+Vellingvej 468654 Bryrup,yrup,1.300.000,20-06-2006,Alm. Salg,6.989,4,Villa,186,1937,,Aktuel værdi
+Skovvænget 88654 Bryrup,yrup,300.000,19-06-2006,Alm. Salg,2.189,4,Villa,137,2007,,Aktuel værdi
+Byvej 21A8654 Bryrup,yrup,595.000,16-06-2006,Alm. Salg,5.560,3,Villa,107,1963,,Aktuel værdi
+Agervænget 118654 Bryrup,yrup,310.000,16-06-2006,Alm. Salg,1.867,5,Villa,166,2007,,Aktuel værdi
+Byvej 378654 Bryrup,yrup,1.150.000,02-06-2006,Alm. Salg,5.867,6,Villa,196,1910,,Aktuel værdi
+Skovvænget 168654 Bryrup,yrup,327.000,02-06-2006,Alm. Salg,1.847,6,Villa,177,2008,,Aktuel værdi
+Vellingvej 6D8654 Bryrup,yrup,680.000,01-06-2006,Alm. Salg,6.938,5,Lejlighed,98,1900,,Aktuel værdi
+Langsøvej 58654 Bryrup,yrup,975.000,31-05-2006,Alm. Salg,18.750,3,Sommerhus,52,2016,,Aktuel værdi
+Vellingvej 53A8654 Bryrup,yrup,940.000,29-05-2006,Alm. Salg,7.230,3,Villa,130,1984,,Aktuel værdi
+Skovvænget 268654 Bryrup,yrup,358.000,26-05-2006,Alm. Salg,2.237,5,Villa,160,2008,,Aktuel værdi
+Fasanvej 328654 Bryrup,yrup,1.245.000,22-05-2006,Alm. Salg,11.635,4,Villa,107,1987,,Aktuel værdi
+Løvevej 488654 Bryrup,yrup,2.500.000,18-05-2006,Alm. Salg,17.857,4,Stuehus,140,1942,,
+Rolighedsvej 138654 Bryrup,yrup,1.295.000,15-05-2006,Alm. Salg,15.416,3,Villa,84,1946,,Aktuel værdi
+Sportsvej 298654 Bryrup,yrup,1.370.000,15-05-2006,Alm. Salg,11.048,4,Villa,124,1983,,Aktuel værdi
+Vestervang 88654 Bryrup,yrup,850.000,11-05-2006,Alm. Salg,7.589,3,Villa,112,1966,,Aktuel værdi
+Skovvænget 228654 Bryrup,yrup,330.000,10-05-2006,Alm. Salg,1.918,7,Villa,172,2008,,Aktuel værdi
+Nygårdsvej 108654 Bryrup,yrup,570.000,28-04-2006,Alm. Salg,-,6,Stuehus,265,1950,,
+Burgårdevej 98654 Bryrup,yrup,2.998.867,27-04-2006,Alm. Salg,28.560,6,Engroshandel,105,1934,,Aktuel værdi
+Højtoften 18654 Bryrup,yrup,1.135.000,21-04-2006,Alm. Salg,8.598,4,Villa,132,1972,,Aktuel værdi
+Skovvænget 208654 Bryrup,yrup,325.000,20-04-2006,Alm. Salg,1.666,5,Villa,195,2008,,Aktuel værdi
+Vellingvej 408654 Bryrup,yrup,1.265.000,18-04-2006,Alm. Salg,8.161,7,Villa,155,1935,,Aktuel værdi
+Søndervang 38654 Bryrup,yrup,1.200.000,12-04-2006,Alm. Salg,9.375,4,Villa,128,1998,,Aktuel værdi
+Blåmejsevej 38654 Bryrup,yrup,525.000,11-04-2006,Alm. Salg,2.678,7,Villa,196,1974,,Aktuel værdi
+Musvitvej 28654 Bryrup,yrup,175.000,30-03-2006,Alm. Salg,1.215,5,Villa,144,2007,,Aktuel værdi
+Musvitvej 18654 Bryrup,yrup,400.000,28-03-2006,Alm. Salg,2.247,6,Villa,178,2008,,Aktuel værdi
+Byvej 32A8654 Bryrup,yrup,545.000,27-03-2006,Alm. Salg,5.450,4,Villa,100,1939,,Aktuel værdi
+Byvej 178654 Bryrup,yrup,470.000,24-03-2006,Fam. Salg,4.563,7,Engroshandel,103,1954,,Aktuel værdi
+Musvitvej 48654 Bryrup,yrup,180.000,23-03-2006,Alm. Salg,942,5,Villa,191,2008,,Aktuel værdi
+Hovedgaden 518654 Bryrup,yrup,300.000,22-03-2006,Fam. Salg,3.333,5,Sommerhus,90,1908,,Aktuel værdi
+Udsigten 298654 Bryrup,yrup,1.725.000,22-03-2006,Alm. Salg,7.278,7,Villa,237,1973,,Aktuel værdi
+Langballevej 18654 Bryrup,yrup,1.437.000,22-03-2006,Alm. Salg,7.523,8,Villa,191,1922,,Aktuel værdi
+Kirkevej 58654 Bryrup,yrup,1.625.000,15-03-2006,Alm. Salg,9.027,7,Villa,180,1956,,Aktuel værdi
+Bogfinkevej 58654 Bryrup,yrup,1.195.000,10-03-2006,Alm. Salg,9.484,5,Villa,126,1974,,Aktuel værdi
+Løvevej 4D8654 Bryrup,yrup,200.000,03-03-2006,Alm. Salg,2.702,2,Villa,74,2014,,Aktuel værdi
+Løndalvej 28654 Bryrup,yrup,895.000,23-02-2006,Alm. Salg,5.593,7,Villa,160,1962,,Aktuel værdi
+Musvitvej 108654 Bryrup,yrup,195.000,21-02-2006,Alm. Salg,870,6,Villa,224,2007,,Aktuel værdi
+Agervænget 18654 Bryrup,yrup,378.300,15-02-2006,Alm. Salg,1.882,6,Villa,201,2007,,Aktuel værdi
+Slagballevej 78654 Bryrup,yrup,50.000,08-02-2006,Alm. Salg,280,5,Stuehus,178,1882,,
+Solbrinken 68654 Bryrup,yrup,430.000,24-01-2006,Alm. Salg,4.134,2,Rækkehus,104,1967,,Aktuel værdi
+Agervænget 28654 Bryrup,yrup,313.300,17-01-2006,Alm. Salg,1.770,5,Villa,177,2008,,Aktuel værdi
+Vellingvej 198654 Bryrup,yrup,1.133.300,17-01-2006,Alm. Salg,11.110,4,Villa,102,1964,,Aktuel værdi
+Burgårdevej 288654 Bryrup,yrup,89.523,10-01-2006,Fam. Salg,447,5,Stuehus,200,1933,,
+Kløvermarken 28654 Bryrup,yrup,998.000,22-12-2005,Alm. Salg,8.048,5,Villa,124,1972,,Aktuel værdi
+Byvej 21B8654 Bryrup,yrup,1.425.000,22-12-2005,Alm. Salg,-,5,Anden handel/transport,337,1900,,Aktuel værdi
+Vellingvej 278654 Bryrup,yrup,3.000.000,21-12-2005,Alm. Salg,17.857,6,Stuehus,168,1932,,
+Udsigten 28654 Bryrup,yrup,1.575.000,01-12-2005,Alm. Salg,10.227,6,Villa,154,1974,,Aktuel værdi
+Sportsvej 458654 Bryrup,yrup,825.000,05-11-2005,Alm. Salg,4.768,5,Villa,173,2008,,Aktuel værdi
+Tusdal 168654 Bryrup,yrup,735.000,04-11-2005,Alm. Salg,-,6,Sommerhus,133,1984,,Aktuel værdi
+Østervang 42C8654 Bryrup,yrup,1.130.000,20-10-2005,Alm. Salg,7.197,5,Villa,157,1986,,Aktuel værdi
+Sportsvej 418654 Bryrup,yrup,1.435.000,18-10-2005,Alm. Salg,8.858,6,Villa,162,1968,,Aktuel værdi
+Vindingvej 98654 Bryrup,yrup,1.600.000,11-10-2005,Alm. Salg,8.938,7,Stuehus,179,1828,,
+Agervænget 88654 Bryrup,yrup,308.300,11-10-2005,Alm. Salg,2.171,6,Villa,142,2007,,Aktuel værdi
+Byvej 248654 Bryrup,yrup,865.000,10-10-2005,Alm. Salg,8.917,4,Villa,97,1961,,Aktuel værdi
+Søndervang 48654 Bryrup,yrup,800.000,05-10-2005,Alm. Salg,5.128,5,Villa,156,1978,,Aktuel værdi
+Overdrevet 78654 Bryrup,yrup,298.300,13-09-2005,Alm. Salg,2.146,5,Villa,139,2006,,Aktuel værdi
+Krude Møllevej 208654 Bryrup,yrup,562.391,22-08-2005,Andet,2.615,4,Villa,215,2008,,Aktuel værdi
+Stationsvej 28654 Bryrup,yrup,850.000,19-08-2005,Alm. Salg,5.379,6,Villa,158,1912,,Aktuel værdi
+Skolevej 58654 Bryrup,yrup,1.575.000,16-08-2005,Alm. Salg,9.843,4,Villa,160,1927,,Aktuel værdi
+Udsigten 178654 Bryrup,yrup,1.650.000,08-08-2005,Alm. Salg,7.021,6,Villa,235,1969,,Aktuel værdi
+Hovedgaden 398654 Bryrup,yrup,205.500,29-07-2005,Alm. Salg,1.268,6,Villa,162,2006,,Aktuel værdi
+Solbrinken 88654 Bryrup,yrup,410.000,29-06-2005,Alm. Salg,5.616,2,Rækkehus,73,1967,,Aktuel værdi
+Bredlunden 38654 Bryrup,yrup,400.000,28-06-2005,Alm. Salg,3.883,2,Villa,103,2006,,Aktuel værdi
+Lystrupmindevej 88654 Bryrup,yrup,3.995.000,27-06-2005,Alm. Salg,17.676,6,Stuehus,226,1915,,
+Søndervang 178654 Bryrup,yrup,795.000,20-06-2005,Alm. Salg,8.932,4,Villa,89,1976,,Aktuel værdi
+Lyngbakkevej 118654 Bryrup,yrup,995.000,18-06-2005,Alm. Salg,16.583,2,Sommerhus,60,1935,,Aktuel værdi
+Bredlunden 68654 Bryrup,yrup,280.000,14-06-2005,Alm. Salg,1.465,6,Villa,191,2008,,Aktuel værdi
+Løvet Møllevej 58654 Bryrup,yrup,2.585.000,10-06-2005,Alm. Salg,11.000,5,Villa,235,2012,,Aktuel værdi
+Kirkevej 138654 Bryrup,yrup,825.000,10-06-2005,Alm. Salg,5.892,3,Villa,140,1911,,Aktuel værdi
+Højtoften 108654 Bryrup,yrup,1.150.000,08-06-2005,Alm. Salg,9.745,4,Villa,118,1971,,Aktuel værdi
+Bakkevej 128654 Bryrup,yrup,1.208.000,07-06-2005,Alm. Salg,7.550,5,Villa,160,1968,,Aktuel værdi
+Løve Mark 18654 Bryrup,yrup,375.000,01-06-2005,Alm. Salg,3.024,3,Villa,124,2006,,Aktuel værdi
+Byvej 318654 Bryrup,yrup,1.150.000,31-05-2005,Fam. Salg,5.476,7,Villa,210,1918,,Aktuel værdi
+Bredlunden 48654 Bryrup,yrup,280.000,30-05-2005,Alm. Salg,1.707,6,Villa,164,2006,,Aktuel værdi
+Spættevej 18654 Bryrup,yrup,1.121.860,23-05-2005,Alm. Salg,6.232,6,Villa,180,1980,,Aktuel værdi
+Lykkensspilvej 18654 Bryrup,yrup,1.050.000,18-05-2005,Alm. Salg,8.203,6,Villa,128,1951,,Aktuel værdi
+Fasanvej 118654 Bryrup,yrup,975.000,18-05-2005,Alm. Salg,7.500,4,Villa,130,1975,,Aktuel værdi
+Overdrevet 68654 Bryrup,yrup,398.300,21-04-2005,Alm. Salg,2.586,6,Villa,154,2006,,Aktuel værdi
+Løvevej 448654 Bryrup,yrup,4.150.000,04-04-2005,Alm. Salg,18.122,9,Stuehus,229,1912,,
+Blåmejsevej 88654 Bryrup,yrup,1.260.000,27-03-2005,Alm. Salg,8.936,5,Villa,141,1974,,Aktuel værdi
+Østervang 258654 Bryrup,yrup,885.000,14-03-2005,Alm. Salg,7.436,4,Villa,119,1974,,Aktuel værdi
+Vellingvej 238654 Bryrup,yrup,850.000,07-03-2005,Alm. Salg,7.589,4,Villa,112,1959,,Aktuel værdi
+Byvej 298654 Bryrup,yrup,1.100.000,07-02-2005,Alm. Salg,5.263,6,Villa,209,1920,,Aktuel værdi
+Løvevej 428654 Bryrup,yrup,4.595.000,01-02-2005,Fam. Salg,15.316,6,Stuehus,300,1907,,
+Drosselvej 188654 Bryrup,yrup,1.573.000,26-01-2005,Alm. Salg,5.825,6,Villa,270,1975,,Aktuel værdi
+Fasanvej 138654 Bryrup,yrup,1.050.000,22-12-2004,Alm. Salg,8.750,4,Villa,120,1974,,Aktuel værdi
+Sportsvej 40B8654 Bryrup,yrup,135.000,22-12-2004,Alm. Salg,859,6,Villa,157,2005,,Aktuel værdi
+Burgårdevej 358654 Bryrup,yrup,1.962.365,20-12-2004,Alm. Salg,8.606,7,Stuehus,228,1930,,
+Burgårdevej 398654 Bryrup,yrup,2.200.000,20-12-2004,Alm. Salg,25.581,3,Stuehus,86,1870,,
+Østervang 20A8654 Bryrup,yrup,680.000,09-12-2004,Alm. Salg,3.119,6,Villa,218,2005,,Aktuel værdi
+Hovedgaden 328654 Bryrup,yrup,575.000,01-12-2004,Alm. Salg,5.000,5,Villa,115,1920,,Aktuel værdi
+Sejetvej 78654 Bryrup,yrup,361.894,30-11-2004,Alm. Salg,1.397,8,Stuehus,259,1930,,
+Fasanvej 448654 Bryrup,yrup,1.180.000,25-11-2004,Alm. Salg,9.365,3,Villa,126,1980,,Aktuel værdi
+Sneppevej 68654 Bryrup,yrup,1.495.000,11-11-2004,Alm. Salg,9.522,6,Villa,157,1999,,Aktuel værdi
+Blåmejsevej 28654 Bryrup,yrup,1.060.000,06-11-2004,Alm. Salg,8.153,4,Villa,130,1973,,Aktuel værdi
+Agervænget 38654 Bryrup,yrup,378.260,01-11-2004,Alm. Salg,-,7,Villa,188,2005,,Aktuel værdi
+Sportsvej 518654 Bryrup,yrup,1.235.000,28-10-2004,Alm. Salg,8.884,5,Villa,139,1976,,Aktuel værdi
+Vellingvej 348654 Bryrup,yrup,689.189,16-10-2004,Alm. Salg,8.614,4,Villa,80,1925,,Aktuel værdi
+Vindingvej 38654 Bryrup,yrup,1.450.000,15-10-2004,Alm. Salg,6.561,7,Stuehus,221,1848,,
+Blåmejsevej 78654 Bryrup,yrup,1.350.000,14-10-2004,Alm. Salg,8.385,6,Villa,161,1989,,Aktuel værdi
+Lykkensrovej 28654 Bryrup,yrup,1.845.000,09-10-2004,Alm. Salg,9.609,7,Stuehus,192,1890,,
+Fasanvej 348654 Bryrup,yrup,800.000,08-10-2004,Alm. Salg,5.882,5,Villa,136,1974,,Aktuel værdi
+Overdrevet 28654 Bryrup,yrup,383.260,07-10-2004,Alm. Salg,1.807,6,Villa,212,2005,,Aktuel værdi
+Løvevej 288654 Bryrup,yrup,700.000,23-09-2004,Alm. Salg,3.763,7,Stuehus,186,1875,,
+Rolighedsvej 198654 Bryrup,yrup,425.000,03-09-2004,Fam. Salg,2.972,6,Villa,143,1949,,Aktuel værdi
+Holtehusvej 98654 Bryrup,yrup,15.300,06-07-2004,Alm. Salg,1.530,1,Sommerhus,10,2011,,Aktuel værdi
+Højtoften 88654 Bryrup,yrup,965.000,28-05-2004,Alm. Salg,9.190,4,Villa,105,1986,,Aktuel værdi
+Daltoften 18654 Bryrup,yrup,660.000,26-05-2004,Alm. Salg,6.734,4,Villa,98,1969,,Aktuel værdi
+Løndalvej 1A8654 Bryrup,yrup,925.000,24-05-2004,Alm. Salg,6.250,5,Villa,148,1987,,Aktuel værdi
+Kløvermarken 178654 Bryrup,yrup,590.000,21-05-2004,Alm. Salg,5.673,4,Rækkehus,104,1971,,Aktuel værdi
+Mellemvej 38654 Bryrup,yrup,500.000,11-05-2004,Alm. Salg,5.208,4,Villa,96,1917,,Aktuel værdi
+Sportsvej 188654 Bryrup,yrup,798.000,06-05-2004,Alm. Salg,8.769,3,Villa,91,1897,,Aktuel værdi
+Løvevej 18654 Bryrup,yrup,845.000,29-04-2004,Alm. Salg,7.161,4,Villa,118,1923,,Aktuel værdi
+Østervang 8A8654 Bryrup,yrup,645.000,26-04-2004,Alm. Salg,6.323,3,Rækkehus,102,1972,,Aktuel værdi
+Udsigten 48654 Bryrup,yrup,945.000,21-04-2004,Alm. Salg,6.847,4,Villa,138,1976,,Aktuel værdi
+Østermark 58654 Bryrup,yrup,1.225.000,16-04-2004,Alm. Salg,5.493,10,Villa,223,1976,,Aktuel værdi
+Hovedgaden 208654 Bryrup,yrup,550.000,15-04-2004,Fam. Salg,5.729,3,Villa,96,1964,,Aktuel værdi
+Kløvermarken 108654 Bryrup,yrup,625.000,29-03-2004,Alm. Salg,6.009,4,Villa,104,1972,,Aktuel værdi
+Daltoften 148654 Bryrup,yrup,1.165.000,18-03-2004,Alm. Salg,10.401,4,Villa,112,1971,,Aktuel værdi
+Østervang 278654 Bryrup,yrup,825.000,17-03-2004,Alm. Salg,-,6,Villa,180,1974,,Aktuel værdi
+Vellingvej 6F8654 Bryrup,yrup,465.000,15-03-2004,Alm. Salg,5.535,3,Rækkehus,84,1954,,Aktuel værdi
+Burgårdevej 178654 Bryrup,yrup,405.000,23-02-2004,Alm. Salg,5.192,4,Villa,78,1900,,Aktuel værdi
+Sportsvej 138654 Bryrup,yrup,845.000,17-02-2004,Alm. Salg,13.000,3,Villa,65,1953,,Aktuel værdi
+Krude Møllevej 168654 Bryrup,yrup,2.600.000,06-02-2004,Alm. Salg,11.403,6,Stuehus,228,1900,,
+Højtoften 128654 Bryrup,yrup,985.000,17-12-2003,Alm. Salg,6.840,4,Villa,144,1973,,Aktuel værdi
+Agervænget 68654 Bryrup,yrup,298.063,11-12-2003,Alm. Salg,2.084,5,Villa,143,2005,,Aktuel værdi
+Overdrevet 58654 Bryrup,yrup,323.063,11-12-2003,Alm. Salg,1.575,5,Villa,205,2008,,Aktuel værdi
+Kløvermarken 138654 Bryrup,yrup,640.000,01-12-2003,Alm. Salg,6.153,4,Rækkehus,104,1971,,Aktuel værdi
+Hovedgaden 458654 Bryrup,yrup,710.000,19-10-2003,Fam. Salg,6.339,3,Villa,112,1910,,Aktuel værdi
+Kæmpesmøllevej 218654 Bryrup,yrup,210.000,19-10-2003,Fam. Salg,7.500,2,Sommerhus,28,1957,,Aktuel værdi
+Lykkensspilvej 28654 Bryrup,yrup,200.000,19-10-2003,Fam. Salg,6.666,2,Sommerhus,30,1947,,Aktuel værdi
+"Hovedgaden 13, 18654 Bryrup",yrup,500.000,11-10-2003,Auktion,2.008,5,Lejlighed,249,1896,,Aktuel værdi
+Rodvigsballevej 158654 Bryrup,yrup,1.645.000,08-10-2003,Alm. Salg,8.940,6,Villa,184,1926,,Aktuel værdi
+Vindingvej 48654 Bryrup,yrup,276.006,18-09-2003,Alm. Salg,3.450,2,Stuehus,80,1777,,
+Rolighedsvej 118654 Bryrup,yrup,798.000,10-09-2003,Alm. Salg,8.866,3,Villa,90,1946,,Aktuel værdi
+Sejetvej 88654 Bryrup,yrup,2.100.000,30-07-2003,Alm. Salg,8.860,5,Stuehus,237,2012,,
+Hegnsvej 78654 Bryrup,yrup,685.000,29-07-2003,Alm. Salg,9.513,2,Villa,72,1948,,Aktuel værdi
+Løvevej 298654 Bryrup,yrup,400.000,25-07-2003,Alm. Salg,5.194,3,Villa,77,1840,,Aktuel værdi
+Skolevej 18654 Bryrup,yrup,665.000,04-07-2003,Alm. Salg,6.045,4,Villa,110,1968,,Aktuel værdi
+Kløvermarken 18654 Bryrup,yrup,680.000,30-06-2003,Alm. Salg,6.538,4,Rækkehus,104,1971,,Aktuel værdi
+Svinsbjergvej 308654 Bryrup,yrup,1.800.000,24-06-2003,Alm. Salg,-,4,Villa,148,1982,,Aktuel værdi
+Spættevej 108654 Bryrup,yrup,605.280,17-06-2003,Alm. Salg,1.997,10,Villa,303,1973,,Aktuel værdi
+Østervang 318654 Bryrup,yrup,400.000,15-06-2003,Alm. Salg,5.714,4,Villa,70,1900,,Aktuel værdi
+Lystrupmindevej 198654 Bryrup,yrup,385.000,29-05-2003,Alm. Salg,2.711,4,Villa,142,2011,,Aktuel værdi
+Hovedgaden 428654 Bryrup,yrup,525.000,27-05-2003,Fam. Salg,3.500,6,Villa,150,1901,,Aktuel værdi
+Hovedgaden 40A8654 Bryrup,yrup,1.175.000,12-05-2003,Alm. Salg,5.622,10,Detailhandel,209,1900,,Aktuel værdi
+Burgårdevej 118654 Bryrup,yrup,635.000,08-05-2003,Alm. Salg,6.479,5,Villa,98,1899,,Aktuel værdi
+Løvevej 368654 Bryrup,yrup,1.450.000,03-05-2003,Alm. Salg,7.591,8,Stuehus,191,1950,,
+Hovedgaden 558654 Bryrup,yrup,1.070.000,29-04-2003,Alm. Salg,8.492,5,Villa,126,1949,,Aktuel værdi
+Kløvermarken 98654 Bryrup,yrup,650.000,27-03-2003,Alm. Salg,6.250,4,Rækkehus,104,1971,,Aktuel værdi
+Kløvermarken 78654 Bryrup,yrup,630.000,27-03-2003,Alm. Salg,6.057,4,Rækkehus,104,1971,,Aktuel værdi
+Kløvermarken 128654 Bryrup,yrup,660.000,27-03-2003,Alm. Salg,6.346,4,Villa,104,1972,,Aktuel værdi
+Løvevej 98654 Bryrup,yrup,600.000,21-03-2003,Alm. Salg,7.500,4,Villa,80,1963,,Aktuel værdi
+Sportsvej 378654 Bryrup,yrup,1.540.000,21-03-2003,Alm. Salg,5.133,9,Villa,300,1969,,Aktuel værdi
+Hovedgaden 158654 Bryrup,yrup,350.000,12-03-2003,Alm. Salg,3.645,4,Villa,96,1900,,Aktuel værdi
+Lyngbakkevej 158654 Bryrup,yrup,1.220.000,31-01-2003,Alm. Salg,16.486,5,Sommerhus,74,1937,,Aktuel værdi
+Sejetvej 128654 Bryrup,yrup,1.320.000,27-12-2002,Alm. Salg,4.230,8,Villa,312,1892,,Aktuel værdi
+Løvsangerstien 168654 Bryrup,yrup,204.000,18-12-2002,Fam. Salg,5.100,2,Sommerhus,40,1974,,Aktuel værdi
+Lystrupmindevej 308654 Bryrup,yrup,632.873,30-11-2002,Andet,4.191,4,Villa,151,1954,,Aktuel værdi
+Burgårdevej 388654 Bryrup,yrup,725.000,06-11-2002,Alm. Salg,4.315,6,Stuehus,168,1906,,
+Kæmpesmøllevej 138654 Bryrup,yrup,225.000,02-11-2002,Alm. Salg,1.704,3,Sommerhus,132,2005,,Aktuel værdi
+Burgårdevej 28654 Bryrup,yrup,498.000,01-11-2002,Alm. Salg,4.980,4,Villa,100,1942,,Aktuel værdi
+Ansøvej 458654 Bryrup,yrup,625.000,07-10-2002,Alm. Salg,6.944,3,Villa,90,1960,,Aktuel værdi
+Blåmejsevej 98654 Bryrup,yrup,1.099.000,30-09-2002,Alm. Salg,6.209,8,Villa,177,1973,,Aktuel værdi
+Fuglsangvej 28654 Bryrup,yrup,2.260.000,17-09-2002,Alm. Salg,16.028,5,Stuehus,141,1954,,
+Søndervang 128654 Bryrup,yrup,647.000,07-09-2002,Fam. Salg,3.655,4,Villa,177,1981,,Aktuel værdi
+Sportsvej 58654 Bryrup,yrup,400.000,06-09-2002,Alm. Salg,3.636,2,Villa,110,1910,,Aktuel værdi
+Slagballevej 18654 Bryrup,yrup,1.548.429,22-08-2002,Alm. Salg,10.605,5,Stuehus,146,1932,,
+Vindingvej 108654 Bryrup,yrup,1.100.000,21-08-2002,Alm. Salg,4.089,6,Stuehus,269,2013,,
+Lyngbakkevej 58654 Bryrup,yrup,2.875.000,29-07-2002,Alm. Salg,10.454,9,Villa,275,1972,,Aktuel værdi
+Vindingvej 28654 Bryrup,yrup,77.900,28-07-2002,Alm. Salg,741,4,Stuehus,105,1800,,
+Torupvej 78654 Bryrup,yrup,1.650.000,18-07-2002,Alm. Salg,-,6,Stuehus,287,1911,,
+Sportsvej 338654 Bryrup,yrup,1.020.000,10-07-2002,Alm. Salg,6.800,6,Villa,150,1969,,Aktuel værdi
+Højtoften 188654 Bryrup,yrup,860.000,26-06-2002,Alm. Salg,6.142,4,Villa,140,1973,,Aktuel værdi
+Hegnsvej 28654 Bryrup,yrup,600.000,25-06-2002,Alm. Salg,-,6,Villa,157,1945,,Aktuel værdi
+Holtehusvej 118654 Bryrup,yrup,246.500,20-06-2002,Fam. Salg,3.006,4,Sommerhus,82,1800,,Aktuel værdi
+Byvej 148654 Bryrup,yrup,850.000,12-06-2002,Alm. Salg,4.473,9,Villa,190,1899,,Aktuel værdi
+Nygårdsvej 98654 Bryrup,yrup,6.700.000,12-06-2002,Alm. Salg,16.262,9,Stuehus,412,1885,,
+Byvej 98654 Bryrup,yrup,340.000,05-06-2002,Alm. Salg,3.207,3,Villa,106,1930,,Aktuel værdi
+Nygårdsvej 88654 Bryrup,yrup,930.000,21-05-2002,Alm. Salg,7.209,4,Villa,129,1912,,Aktuel værdi
+Daltoften 178654 Bryrup,yrup,925.000,23-04-2002,Alm. Salg,7.773,4,Villa,119,1973,,Aktuel værdi
+Hovedgaden 498654 Bryrup,yrup,963.649,15-04-2002,Andet,4.993,7,Villa,193,1942,,Aktuel værdi
+Burgårdevej 38654 Bryrup,yrup,500.000,05-04-2002,Alm. Salg,4.587,3,Villa,109,1910,,Aktuel værdi
+Hovedgaden 258654 Bryrup,yrup,600.000,18-02-2002,Alm. Salg,8.571,4,Servicevirksomhed,70,1910,,Aktuel værdi
+Sejetvej 18654 Bryrup,yrup,1.020.000,10-10-2001,Fam. Salg,6.455,5,Stuehus,158,1790,,
+Hovedgaden 418654 Bryrup,yrup,1.050.000,26-09-2001,Fam. Salg,-,6,Villa,181,1933,,Aktuel værdi
+Åvej 38654 Bryrup,yrup,805.657,30-08-2001,Alm. Salg,7.324,3,Villa,110,1962,,Aktuel værdi
+Nygårdsvej 2B8654 Bryrup,yrup,580.000,23-08-2001,Alm. Salg,3.536,4,Villa,164,1930,,Aktuel værdi
+St Bredlundvej 88654 Bryrup,yrup,1.428.800,16-08-2001,Fam. Salg,13.607,4,Stuehus,105,1822,,
+Langsøvej 48654 Bryrup,yrup,365.000,14-08-2001,Alm. Salg,7.765,3,Sommerhus,47,1953,,Aktuel værdi
+Vellingvej 558654 Bryrup,yrup,1.540.000,01-08-2001,Alm. Salg,6.311,9,Villa,244,1920,,Aktuel værdi
+Løvevej 388654 Bryrup,yrup,1.143.966,21-07-2001,Alm. Salg,4.349,9,Villa,263,1890,,Aktuel værdi
+Løvevej 88654 Bryrup,yrup,958.328,19-07-2001,Alm. Salg,5.445,7,Villa,176,1935,,Aktuel værdi
+Sportsvej 38654 Bryrup,yrup,665.000,16-07-2001,Alm. Salg,7.823,3,Villa,85,1913,,Aktuel værdi
+Hovedgaden 148654 Bryrup,yrup,1.041.601,30-06-2001,Alm. Salg,6.091,7,Villa,171,1900,,Aktuel værdi
+Digevej 48654 Bryrup,yrup,250.000,24-06-2001,Alm. Salg,-,8,Villa,232,2002,,Aktuel værdi
+Drosselvej 68654 Bryrup,yrup,795.000,15-06-2001,Alm. Salg,-,7,Villa,190,1975,,Aktuel værdi
+Tusdal 208654 Bryrup,yrup,105.000,31-05-2001,Alm. Salg,7.000,1,Sommerhus,15,1967,,Aktuel værdi
+Nygårdsvej 18654 Bryrup,yrup,710.000,21-05-2001,Fam. Salg,5.107,4,Villa,139,1980,,Aktuel værdi
+Søvej 68654 Bryrup,yrup,455.000,16-04-2001,Andet,3.095,4,Villa,147,1974,,Aktuel værdi
+Lystrupmindevej 268654 Bryrup,yrup,2.700.000,14-03-2001,Alm. Salg,13.500,6,Stuehus,200,1955,,
+Bogfinkevej 28654 Bryrup,yrup,950.000,28-02-2001,Alm. Salg,7.307,4,Villa,130,1980,,Aktuel værdi
+Løndalvej 48654 Bryrup,yrup,500.000,28-02-2001,Alm. Salg,5.747,4,Villa,87,1923,,Aktuel værdi
+Løndalvej 38654 Bryrup,yrup,292.500,19-02-2001,Andet,3.046,3,Villa,96,1948,,Aktuel værdi
+Vesterhåbvej 28654 Bryrup,yrup,1.350.000,24-01-2001,Fam. Salg,13.917,3,Stuehus,97,1890,,
+Udsigten 158654 Bryrup,yrup,1.000.000,11-01-2001,Alm. Salg,4.854,6,Villa,206,1971,,Aktuel værdi
+Fasanvej 198654 Bryrup,yrup,775.000,17-12-2000,Alm. Salg,4.843,5,Villa,160,1974,,Aktuel værdi
+Byvej 358654 Bryrup,yrup,511.545,09-12-2000,Alm. Salg,4.448,5,Villa,115,1910,,Aktuel værdi
+Hegnsvej 18654 Bryrup,yrup,785.684,31-10-2000,Alm. Salg,-,6,Villa,178,1964,,Aktuel værdi
+Højdedraget 38654 Bryrup,yrup,100.000,11-10-2000,Alm. Salg,1.041,3,Sommerhus,96,2006,,Aktuel værdi
+Østermark 48654 Bryrup,yrup,926.446,21-09-2000,Alm. Salg,5.355,7,Villa,173,1976,,Aktuel værdi
+Globevænget 38654 Bryrup,yrup,1.110.000,05-09-2000,Alm. Salg,7.872,7,Industri o.l.,141,1979,,Aktuel værdi
+Sportsvej 118654 Bryrup,yrup,705.000,24-08-2000,Alm. Salg,8.812,3,Villa,80,1961,,Aktuel værdi
+Søndervang 108654 Bryrup,yrup,955.000,17-08-2000,Alm. Salg,7.892,4,Villa,121,1979,,Aktuel værdi
+Hedevang 118654 Bryrup,yrup,896.875,15-08-2000,Alm. Salg,-,5,Villa,110,1987,,Aktuel værdi
+Slagballevej 58654 Bryrup,yrup,595.000,28-06-2000,Alm. Salg,6.761,3,Villa,88,1950,,Aktuel værdi
+Østervang 44F8654 Bryrup,yrup,260.000,28-06-2000,Alm. Salg,1.635,5,Villa,159,2001,,Aktuel værdi
+Daltoften 108654 Bryrup,yrup,1.550.000,09-06-2000,Alm. Salg,9.226,5,Villa,168,1998,,Aktuel værdi
+Løvsangerstien 148654 Bryrup,yrup,577.403,24-05-2000,Alm. Salg,-,3,Sommerhus,84,1994,,Aktuel værdi
+Østerlide 78654 Bryrup,yrup,942.088,12-04-2000,Alm. Salg,7.916,4,Villa,119,1984,,Aktuel værdi
+Sportsvej 568654 Bryrup,yrup,305.000,30-03-2000,Andet,2.328,5,Villa,131,1960,,Aktuel værdi
+Skolevej 48654 Bryrup,yrup,326.654,22-02-2000,Fam. Salg,2.613,5,Villa,125,1931,,Aktuel værdi
+Kirkevej 11C8654 Bryrup,yrup,980.000,29-01-2000,Fam. Salg,4.434,8,Villa,221,1973,,Aktuel værdi
+Østermark 18654 Bryrup,yrup,856.961,21-01-2000,Alm. Salg,6.592,5,Villa,130,1977,,Aktuel værdi
+Langballevej 38654 Bryrup,yrup,1.600.000,22-12-1999,Fam. Salg,10.810,4,Stuehus,148,1911,,
+Svinsbjergvej 268654 Bryrup,yrup,600.000,10-12-1999,Fam. Salg,2.752,5,Stuehus,218,1900,,
+Hovedgaden 708654 Bryrup,yrup,800.000,19-11-1999,Fam. Salg,-,6,Stuehus,216,1915,,
+Vestervang 58654 Bryrup,yrup,620.000,18-11-1999,Alm. Salg,-,5,Villa,160,1970,,Aktuel værdi
+Kirkevej 178654 Bryrup,yrup,800.000,13-10-1999,Alm. Salg,5.479,5,Villa,146,1922,,Aktuel værdi
+Savsvinget 28654 Bryrup,yrup,850.000,12-10-1999,Alm. Salg,8.500,4,Villa,100,1985,,Aktuel værdi
+Fasanvej 228654 Bryrup,yrup,600.000,26-09-1999,Alm. Salg,-,6,Villa,158,1974,,Aktuel værdi
+Sportsvej 48654 Bryrup,yrup,680.406,09-09-1999,Alm. Salg,6.021,3,Villa,113,1915,,Aktuel værdi
+Østerlide 58654 Bryrup,yrup,881.518,08-09-1999,Alm. Salg,7.407,4,Villa,119,1978,,Aktuel værdi
+Lystrupmindevej 12A8654 Bryrup,yrup,1.150.073,30-08-1999,Alm. Salg,11.735,4,Sommerhus,98,1882,,Aktuel værdi
+Sportsvej 588654 Bryrup,yrup,900.000,27-08-1999,Alm. Salg,7.142,5,Villa,126,1978,,Aktuel værdi
+Vesterhåbvej 18654 Bryrup,yrup,3.141.375,26-08-1999,Alm. Salg,16.798,6,Stuehus,187,1953,,
+Daltoften 168654 Bryrup,yrup,980.000,25-08-1999,Alm. Salg,8.166,4,Villa,120,1972,,Aktuel værdi
+Boestbækvej 28654 Bryrup,yrup,1.500.000,23-08-1999,Alm. Salg,6.787,7,Villa,221,2008,,Aktuel værdi
+Vellingvej 388654 Bryrup,yrup,614.524,11-08-1999,Alm. Salg,7.229,3,Villa,85,1962,,Aktuel værdi
+Vindingvej 178654 Bryrup,yrup,1.275.000,22-07-1999,Alm. Salg,7.244,7,Stuehus,176,1937,,
+Hovedgaden 128654 Bryrup,yrup,820.099,06-07-1999,Alm. Salg,5.942,5,Villa,138,1910,,Aktuel værdi
+Søndervang 138654 Bryrup,yrup,55.000,04-07-1999,Alm. Salg,376,4,Villa,146,2009,,Aktuel værdi
+Kløvermarken 68654 Bryrup,yrup,648.406,01-07-1999,Alm. Salg,6.234,4,Villa,104,1972,,Aktuel værdi
+Bakkærvej 88654 Bryrup,yrup,531.772,07-06-1999,Alm. Salg,7.090,3,Villa,75,1965,,Aktuel værdi
+Vellingvej 378654 Bryrup,yrup,900.000,28-05-1999,Auktion,5.625,4,Villa,160,1976,,Aktuel værdi
+Hovedgaden 188654 Bryrup,yrup,76.410,09-04-1999,Alm. Salg,821,4,Villa,93,1908,,Aktuel værdi
+Vellingvej 258654 Bryrup,yrup,1.500.000,24-03-1999,Fam. Salg,-,6,Stuehus,199,1943,,
+Krude Møllevej 78654 Bryrup,yrup,1.962.232,14-03-1999,Alm. Salg,10.219,9,Stuehus,192,1892,,
+Tusdal 228654 Bryrup,yrup,390.000,26-02-1999,Alm. Salg,5.652,4,Sommerhus,69,1967,,Aktuel værdi
+Burgårdevej 148654 Bryrup,yrup,268.000,13-02-1999,Alm. Salg,-,5,Villa,104,1900,,Aktuel værdi
+Østervang 44B8654 Bryrup,yrup,280.000,30-01-1999,Alm. Salg,1.728,6,Villa,162,1999,,Aktuel værdi
+Lystrupmindevej 278654 Bryrup,yrup,627.000,08-01-1999,Alm. Salg,5.225,2,Villa,120,1954,,Aktuel værdi
+Sneppevej 28654 Bryrup,yrup,65.000,03-12-1998,Alm. Salg,422,5,Villa,154,1999,,Aktuel værdi
+Østervang 40D8654 Bryrup,yrup,93.980,17-11-1998,Andet,543,7,Villa,173,1995,,Aktuel værdi
+Løvet Møllevej 38654 Bryrup,yrup,1.452.924,11-11-1998,Alm. Salg,-,8,Stuehus,213,1968,,
+Sneppevej 38654 Bryrup,yrup,130.000,11-11-1998,Alm. Salg,833,5,Villa,156,2000,,Aktuel værdi
+Østerlide 38654 Bryrup,yrup,1.141.740,28-10-1998,Alm. Salg,8.782,5,Villa,130,1983,,Aktuel værdi
+Kæmpesmøllevej 78654 Bryrup,yrup,150.000,24-10-1998,Alm. Salg,2.500,3,Sommerhus,60,2000,,Aktuel værdi
+Vellingvej 538654 Bryrup,yrup,50.000,28-09-1998,Alm. Salg,393,5,Villa,127,1947,,Aktuel værdi
+Byvej 278654 Bryrup,yrup,280.000,24-09-1998,Alm. Salg,2.043,7,Villa,137,1917,,Aktuel værdi
+Snabegårdvej 98654 Bryrup,yrup,15.000,11-09-1998,Alm. Salg,121,4,Villa,123,2001,,Aktuel værdi
+Sportsvej 628654 Bryrup,yrup,510.000,04-09-1998,Fam. Salg,7.083,3,Sommerhus,72,1927,,Aktuel værdi
+Lystrupmindevej 298654 Bryrup,yrup,830.000,22-08-1998,Alm. Salg,5.187,5,Villa,160,1974,,Aktuel værdi
+Hedevang 68654 Bryrup,yrup,1.008.000,24-07-1998,Alm. Salg,5.040,4,Villa,200,1977,,Aktuel værdi
+Løvsangerstien 68654 Bryrup,yrup,300.000,21-06-1998,Alm. Salg,5.172,3,Sommerhus,58,1952,,Aktuel værdi
+Søndervang 198654 Bryrup,yrup,40.000,13-06-1998,Alm. Salg,248,5,Villa,161,2004,,Aktuel værdi
+Vellingvej 6A8654 Bryrup,yrup,202.092,12-06-1998,Alm. Salg,2.377,3,Lejlighed,85,1900,,Aktuel værdi
+Højtoften 48654 Bryrup,yrup,902.000,09-06-1998,Alm. Salg,6.136,5,Villa,147,1968,,Aktuel værdi
+Vindingvej 218654 Bryrup,yrup,1.228.864,09-06-1998,Alm. Salg,4.876,6,Villa,252,1857,,Aktuel værdi
+Østervang 44C8654 Bryrup,yrup,300.000,15-05-1998,Alm. Salg,2.362,4,Villa,127,1998,,Aktuel værdi
+Svinsbjergvej 18654 Bryrup,yrup,894.828,11-05-1998,Alm. Salg,5.810,5,Villa,154,1962,,Aktuel værdi
+Kæmpesmøllevej 98654 Bryrup,yrup,150.000,06-05-1998,Alm. Salg,2.500,3,Sommerhus,60,2002,,Aktuel værdi
+Udsigten 198654 Bryrup,yrup,775.000,01-05-1998,Alm. Salg,5.698,4,Villa,136,1973,,Aktuel værdi
+Vellingvej 6E8654 Bryrup,yrup,296.000,29-04-1998,Alm. Salg,3.482,3,Rækkehus,85,1954,,Aktuel værdi
+Fasanvej 378654 Bryrup,yrup,252.445,24-04-1998,Alm. Salg,2.294,4,Villa,110,1979,,Aktuel værdi
+Spættevej 128654 Bryrup,yrup,1.194.720,23-02-1998,Alm. Salg,6.788,6,Villa,176,1980,,Aktuel værdi
+Bakkærvej 48654 Bryrup,yrup,800.000,18-02-1998,Alm. Salg,3.636,9,Villa,220,1885,,Aktuel værdi
+Slagballevej 128654 Bryrup,yrup,1.100.000,11-02-1998,Fam. Salg,5.000,6,Stuehus,220,1858,,
+Byvej 118654 Bryrup,yrup,212.000,10-02-1998,Alm. Salg,2.355,4,Villa,90,1900,,Aktuel værdi
+Drosselvej 198654 Bryrup,yrup,1.175.000,15-01-1998,Alm. Salg,5.414,6,Villa,217,1978,,Aktuel værdi
+Krude Møllevej 18654 Bryrup,yrup,1.583.634,02-01-1998,Alm. Salg,7.133,5,Villa,222,1990,,Aktuel værdi
+Vellingvej 148654 Bryrup,yrup,330.000,30-11-1997,Alm. Salg,4.647,2,Villa,71,1880,,Aktuel værdi
+Drosselvej 248654 Bryrup,yrup,1.191.442,27-11-1997,Alm. Salg,4.348,5,Villa,274,1979,,Aktuel værdi
+Højdedraget 248654 Bryrup,yrup,314.000,11-11-1997,Alm. Salg,-,5,Sommerhus,74,1974,,Aktuel værdi
+Hovedgaden 48654 Bryrup,yrup,485.000,23-10-1997,Alm. Salg,7.461,3,Villa,65,1966,,Aktuel værdi
+Sportsvej 288654 Bryrup,yrup,580.000,29-09-1997,Alm. Salg,3.276,6,Villa,177,1999,,Aktuel værdi
+Søvej 28654 Bryrup,yrup,800.000,16-09-1997,Alm. Salg,6.666,5,Villa,120,1966,,Aktuel værdi
+Vellingvej 118654 Bryrup,yrup,569.000,03-09-1997,Alm. Salg,6.184,4,Villa,92,1953,,Aktuel værdi
+Nygårdsvej 118654 Bryrup,yrup,1.250.000,02-09-1997,Fam. Salg,7.225,5,Stuehus,173,1890,,
+Vestervang 38654 Bryrup,yrup,500.000,01-09-1997,Alm. Salg,4.761,4,Villa,105,1980,,Aktuel værdi
+Burgårdevej 338654 Bryrup,yrup,1.137.000,31-08-1997,Alm. Salg,5.984,5,Stuehus,190,1905,,
+Nygårdsvej 58654 Bryrup,yrup,400.000,25-08-1997,Fam. Salg,3.076,4,Villa,130,1933,,Aktuel værdi
+Østervang 48654 Bryrup,yrup,790.000,29-07-1997,Alm. Salg,5.984,5,Villa,132,1978,,Aktuel værdi
+Byvej 47A8654 Bryrup,yrup,600.000,16-06-1997,Fam. Salg,5.454,4,Villa,110,1984,,Aktuel værdi
+Byvej 348654 Bryrup,yrup,569.520,30-05-1997,Alm. Salg,-,3,Villa,191,1919,,Aktuel værdi
+Burgårdevej 78654 Bryrup,yrup,255.000,27-05-1997,Fam. Salg,1.482,5,Villa,172,1885,,Aktuel værdi
+Hedevang 128654 Bryrup,yrup,550.000,02-04-1997,Alm. Salg,6.250,3,Villa,88,1978,,Aktuel værdi
+Rolighedsvej 48654 Bryrup,yrup,360.000,30-03-1997,Fam. Salg,-,7,Villa,270,1933,,Aktuel værdi
+Spættevej 28654 Bryrup,yrup,529.000,04-03-1997,Alm. Salg,2.938,8,Villa,180,1980,,Aktuel værdi
+Hedevang 48654 Bryrup,yrup,862.200,01-02-1997,Alm. Salg,4.537,6,Villa,190,1986,,Aktuel værdi
+Sportsvej 508654 Bryrup,yrup,1.115.000,01-02-1997,Alm. Salg,7.636,4,Villa,146,1970,,Aktuel værdi
+Fasanvej 168654 Bryrup,yrup,525.000,25-01-1997,Alm. Salg,3.697,4,Villa,142,1974,,Aktuel værdi
+Blåmejsevej 18654 Bryrup,yrup,535.000,21-01-1997,Alm. Salg,-,5,Villa,130,1974,,Aktuel værdi
+Kirkevej 98654 Bryrup,yrup,1.048.000,08-12-1996,Alm. Salg,4.459,9,Villa,235,1973,,Aktuel værdi
+Svinsbjergvej 348654 Bryrup,yrup,840.000,05-12-1996,Alm. Salg,6.614,6,Stuehus,127,1877,,
+Løndalvej 88654 Bryrup,yrup,103.000,19-11-1996,Andet,-,10,Stuehus,184,1928,,
+Hovedgaden 568654 Bryrup,yrup,339.000,06-11-1996,Alm. Salg,-,5,Villa,102,1927,,Aktuel værdi
+Bakkærvej 78654 Bryrup,yrup,592.904,04-11-1996,Alm. Salg,5.701,4,Villa,104,1963,,Aktuel værdi
+St Bredlundvej 48654 Bryrup,yrup,448.810,26-10-1996,Alm. Salg,3.300,4,Villa,136,1895,,Aktuel værdi
+Drosselvej 58654 Bryrup,yrup,705.601,04-07-1996,Alm. Salg,6.917,4,Villa,102,1986,,Aktuel værdi
+Sportsvej 478654 Bryrup,yrup,883.000,26-06-1996,Alm. Salg,3.889,6,Villa,227,1972,,Aktuel værdi
+Kløvermarken 38654 Bryrup,yrup,400.000,10-06-1996,Alm. Salg,3.846,4,Rækkehus,104,1971,,Aktuel værdi
+Skolevej 98654 Bryrup,yrup,630.000,22-04-1996,Alm. Salg,4.701,4,Villa,134,1965,,Aktuel værdi
+Østervang 40A8654 Bryrup,yrup,460.000,25-03-1996,Andet,7.187,3,Villa,64,1948,,Aktuel værdi
+Hovedgaden 668654 Bryrup,yrup,308.000,28-02-1996,Alm. Salg,2.369,6,Villa,130,1949,,Aktuel værdi
+Langsøvej 38654 Bryrup,yrup,389.000,23-02-1996,Alm. Salg,7.780,2,Sommerhus,50,1953,,Aktuel værdi
+Svinsbjergvej 38654 Bryrup,yrup,375.000,13-02-1996,Alm. Salg,2.419,4,Villa,155,1996,,Aktuel værdi
+Kirkevej 158654 Bryrup,yrup,778.023,27-12-1995,Alm. Salg,3.112,10,Villa,250,1934,,Aktuel værdi
+Løvevej 38A8654 Bryrup,yrup,340.000,21-12-1995,Fam. Salg,22.666,1,Fritid,15,1972,,Aktuel værdi
+Lystrupmindevej 48654 Bryrup,yrup,315.000,14-12-1995,Alm. Salg,-,3,Stuehus,142,1900,,
+Drosselvej 28654 Bryrup,yrup,553.000,23-11-1995,Fam. Salg,3.686,4,Villa,150,1973,,Aktuel værdi
+Løvsangerstien 128654 Bryrup,yrup,384.480,07-11-1995,Alm. Salg,-,4,Sommerhus,123,1994,,Aktuel værdi
+Højtoften 78654 Bryrup,yrup,675.000,06-10-1995,Alm. Salg,4.411,6,Villa,153,1969,,Aktuel værdi
+Højdedraget 228654 Bryrup,yrup,261.524,03-09-1995,Alm. Salg,6.081,2,Sommerhus,43,1983,,Aktuel værdi
+Fasanvej 458654 Bryrup,yrup,550.000,29-08-1995,Fam. Salg,4.230,5,Villa,130,1974,,Aktuel værdi
+Hovedgaden 318654 Bryrup,yrup,531.000,31-07-1995,Alm. Salg,2.966,6,Villa,179,1930,,Aktuel værdi
+Vestergårdsvej 68654 Bryrup,yrup,656.000,31-07-1995,Alm. Salg,-,9,Stuehus,278,1890,,
+Spættevej 188654 Bryrup,yrup,60.000,27-07-1995,Alm. Salg,-,6,Villa,153,1996,,Aktuel værdi
+Snabegårdvej 38654 Bryrup,yrup,15.000,15-07-1995,Alm. Salg,111,4,Villa,135,1998,,Aktuel værdi
+Snabegårdvej 58654 Bryrup,yrup,15.000,15-07-1995,Alm. Salg,131,3,Villa,114,1999,,Aktuel værdi
+Snabegårdvej 78654 Bryrup,yrup,15.000,15-07-1995,Alm. Salg,108,3,Villa,138,1999,,Aktuel værdi
+Snabegårdvej 198654 Bryrup,yrup,15.000,15-07-1995,Alm. Salg,79,6,Villa,188,1998,,Aktuel værdi
+Snabegårdvej 178654 Bryrup,yrup,15.000,14-07-1995,Alm. Salg,108,6,Villa,138,1996,,Aktuel værdi
+Sportsvej 49B8654 Bryrup,yrup,641.447,30-06-1995,Alm. Salg,3.467,6,Villa,185,1976,,Aktuel værdi
+Østervang 288654 Bryrup,yrup,800.000,06-06-1995,Alm. Salg,4.371,7,Villa,183,1975,,Aktuel værdi
+Hedevang 108654 Bryrup,yrup,470.000,14-05-1995,Alm. Salg,-,4,Villa,118,1977,,Aktuel værdi
+Spættevej 38654 Bryrup,yrup,425.000,29-04-1995,Alm. Salg,2.485,6,Villa,171,1974,,Aktuel værdi
+Rolighedsvej 21A8654 Bryrup,yrup,210.000,04-04-1995,Alm. Salg,1.153,8,Villa,182,1996,,Aktuel værdi
+Kæmpesmøllevej 108654 Bryrup,yrup,595.000,22-02-1995,Alm. Salg,3.181,5,Stuehus,187,1900,,
+Burgårdevej 298654 Bryrup,yrup,70.000,08-02-1995,Alm. Salg,693,4,Stuehus,101,1925,,
+Burgårdevej 308654 Bryrup,yrup,480.000,01-02-1995,Alm. Salg,-,5,Villa,151,1917,,Aktuel værdi
+Bakkevej 28654 Bryrup,yrup,527.000,29-01-1995,Alm. Salg,3.609,5,Villa,146,1972,,Aktuel værdi
+Lystrupmindevej 168654 Bryrup,yrup,350.000,15-01-1995,Alm. Salg,2.430,4,Villa,144,1947,,Aktuel værdi
+Egelyvej 58654 Bryrup,yrup,1.615.000,10-01-1995,Fam. Salg,7.764,5,Stuehus,208,1908,,
+Sportsvej 408654 Bryrup,yrup,852.781,06-01-1995,Alm. Salg,-,4,Villa,168,1962,,Aktuel værdi
+Byvej 138654 Bryrup,yrup,450.000,23-12-1994,Alm. Salg,2.163,6,Villa,208,1914,,Aktuel værdi
+Fasanvej 488654 Bryrup,yrup,593.000,19-12-1994,Alm. Salg,4.235,5,Villa,140,1973,,Aktuel værdi
+Fasanvej 188654 Bryrup,yrup,425.000,15-12-1994,Alm. Salg,3.761,5,Villa,113,1979,,Aktuel værdi
+Lyngbakkevej 48654 Bryrup,yrup,573.000,09-11-1994,Alm. Salg,4.547,4,Stuehus,126,1930,,
+Skolevej 68654 Bryrup,yrup,175.000,31-10-1994,Alm. Salg,1.206,6,Villa,145,1995,,Aktuel værdi
+Spættevej 268654 Bryrup,yrup,400.000,19-10-1994,Alm. Salg,-,5,Sommerhus,98,1962,,Aktuel værdi
+Slagballevej 168654 Bryrup,yrup,375.000,30-09-1994,Alm. Salg,-,6,Stuehus,179,1850,,
+Udsigten 68654 Bryrup,yrup,648.000,29-08-1994,Alm. Salg,4.153,5,Villa,156,1974,,Aktuel værdi
+Lystruphavevej 88654 Bryrup,yrup,348.500,10-08-1994,Fam. Salg,744,8,Villa,468,1968,,Aktuel værdi
+Højdedraget 18654 Bryrup,yrup,215.000,04-08-1994,Alm. Salg,1.557,5,Sommerhus,138,2007,,Aktuel værdi
+Vindingvej 18654 Bryrup,yrup,872.625,01-07-1994,Alm. Salg,5.453,4,Stuehus,160,1856,,
+Lystruphavevej 168654 Bryrup,yrup,186.576,20-06-1994,Alm. Salg,3.658,1,Villa,51,1950,,Aktuel værdi
+Vellingvej 358654 Bryrup,yrup,310.560,10-06-1994,Alm. Salg,-,8,Villa,211,1900,,Aktuel værdi
+Lykkensspilvej 108654 Bryrup,yrup,150.000,10-06-1994,Alm. Salg,1.530,3,Villa,98,1914,,Aktuel værdi
+Lystrupmindevej 148654 Bryrup,yrup,224.670,01-06-1994,Alm. Salg,2.643,2,Villa,85,1954,,Aktuel værdi
+Vellingvej 208654 Bryrup,yrup,2.741.000,11-05-1994,Alm. Salg,11.420,7,Stuehus,240,1914,,
+Drosselvej 238654 Bryrup,yrup,795.000,24-04-1994,Alm. Salg,3.502,5,Villa,227,1977,,Aktuel værdi
+Lystruphavevej 208654 Bryrup,yrup,1.526.000,22-04-1994,Alm. Salg,7.825,5,Villa,195,1934,,Aktuel værdi
+Søndervang 78654 Bryrup,yrup,385.225,15-04-1994,Alm. Salg,2.453,5,Villa,157,1970,,Aktuel værdi
+Kløvermarken 88654 Bryrup,yrup,430.000,13-04-1994,Alm. Salg,4.134,4,Villa,104,1972,,Aktuel værdi
+Løvevej 328654 Bryrup,yrup,350.000,05-04-1994,Alm. Salg,-,6,Stuehus,160,1907,,
+Østervang 46A8654 Bryrup,yrup,154.544,22-03-1994,Alm. Salg,3.434,3,Sommerhus,45,1961,,Aktuel værdi
+Vellingvej 6C8654 Bryrup,yrup,180.000,11-03-1994,Auktion,2.535,3,Lejlighed,71,1900,,Aktuel værdi
+Daltoften 118654 Bryrup,yrup,860.000,07-03-1994,Alm. Salg,5.000,6,Villa,172,1968,,Aktuel værdi
+Vellingvej 138654 Bryrup,yrup,440.000,23-02-1994,Alm. Salg,-,6,Villa,158,1955,,Aktuel værdi
+Lystrupmindevej 118654 Bryrup,yrup,190.000,30-01-1994,Fam. Salg,5.588,2,Sommerhus,34,1935,,Aktuel værdi
+Åvej 78654 Bryrup,yrup,110.000,07-01-1994,Alm. Salg,-,2,Sommerhus,40,1962,,Aktuel værdi
+Daltoften 38654 Bryrup,yrup,724.000,02-12-1993,Alm. Salg,4.387,6,Villa,165,1972,,Aktuel værdi
+Vellingvej 6G8654 Bryrup,yrup,284.045,31-10-1993,Alm. Salg,3.463,3,Rækkehus,82,1954,,Aktuel værdi
+Langballevej 58654 Bryrup,yrup,176.345,27-08-1993,Alm. Salg,1.325,5,Stuehus,133,1877,,
+Lystrupmindevej 238654 Bryrup,yrup,990.000,06-08-1993,Alm. Salg,4.782,4,Stuehus,207,1925,,
+Burgårdevej 318654 Bryrup,yrup,552.000,22-06-1993,Fam. Salg,2.746,6,Stuehus,201,1900,,
+Nygårdsvej 128654 Bryrup,yrup,735.000,03-06-1993,Alm. Salg,-,8,Stuehus,258,1910,,
+Lystrupmindevej 108654 Bryrup,yrup,1.008.600,23-01-1993,Alm. Salg,-,10,Stuehus,281,1962,,
+Vindingvej 158654 Bryrup,yrup,337.868,30-12-1992,Alm. Salg,2.863,4,Stuehus,118,1907,,
+Vellingvej 108654 Bryrup,yrup,170.000,29-10-1992,Alm. Salg,1.328,5,Villa,128,1777,,Aktuel værdi
+Vindingvej 78654 Bryrup,yrup,700.886,17-10-1992,Fam. Salg,-,4,Stuehus,190,1850,,
+Lykkensrovej 108654 Bryrup,yrup,280.500,25-08-1992,Andet,1.934,5,Villa,145,1998,,Aktuel værdi
+Sportsvej 36B8654 Bryrup,yrup,200.000,02-07-1992,Fam. Salg,-,5,Villa,150,1947,,Aktuel værdi
+Torupvej 68654 Bryrup,yrup,400.000,30-06-1992,Alm. Salg,-,10,Villa,256,1921,,Aktuel værdi
+Solbrinken 78654 Bryrup,yrup,730.000,24-06-1992,Fam. Salg,3.333,6,Villa,219,1973,,Aktuel værdi
+Kløvermarken 238654 Bryrup,yrup,395.000,16-06-1992,Alm. Salg,3.798,4,Rækkehus,104,1971,,Aktuel værdi
+Hovedgaden 618654 Bryrup,yrup,235.000,07-05-1992,Alm. Salg,1.327,4,Villa,177,1953,,Aktuel værdi
+Hedevang 38654 Bryrup,yrup,550.000,31-03-1992,Fam. Salg,2.806,7,Villa,196,1973,,Aktuel værdi
+Fasanvej 268654 Bryrup,yrup,282.501,24-03-1992,Fam. Salg,2.092,3,Villa,135,1975,,Aktuel værdi
+Bogfinkevej 48654 Bryrup,yrup,610.000,17-03-1992,Alm. Salg,3.050,6,Villa,200,1975,,Aktuel værdi
+Byvej 41A8654 Bryrup,yrup,90.000,14-03-1992,Alm. Salg,750,3,Villa,120,2006,,Aktuel værdi
+Østervang 388654 Bryrup,yrup,630.000,09-02-1992,Alm. Salg,2.800,5,Villa,225,1968,,Aktuel værdi

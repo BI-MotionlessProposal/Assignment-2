@@ -1,0 +1,325 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Birketvej 2164941 Bandholm,holm,1.198.000,19-04-2017,Alm. Salg,10.890,2,Stuehus,110,1974,,
+Lindstrømsvej 374941 Bandholm,holm,370.000,08-03-2017,Alm. Salg,3.936,3,Villa,94,1968,-6 %,Aktuel værdi
+Smedegade 44941 Bandholm,holm,130.000,07-03-2017,Alm. Salg,1.056,3,Villa,123,1934,,Aktuel værdi
+Strandparken 154941 Bandholm,holm,1.730.000,27-01-2017,Alm. Salg,9.453,6,Villa,183,1928,-4 %,Aktuel værdi
+Blansvej 274941 Bandholm,holm,500.000,16-01-2017,Alm. Salg,2.958,6,Stuehus,169,1903,-28 %,
+Grydehøjsvej 154941 Bandholm,holm,12.900.000,10-01-2017,Alm. Salg,51.807,6,Stuehus,249,1996,,
+"Havnepladsen 2C, ST. TH4941 Bandholm",holm,30.000,06-01-2017,Alm. Salg,340,3,Sommerhus,88,1800,,Aktuel værdi
+Blanshovedvej 104941 Bandholm,holm,5.660.000,16-12-2016,Alm. Salg,29.479,6,Stuehus,192,1920,,
+Koholtvej 594941 Bandholm,holm,935.000,13-12-2016,Alm. Salg,4.675,9,Stuehus,200,1880,-15 %,
+Åsmarkegade 304941 Bandholm,holm,574.961,15-11-2016,Alm. Salg,3.141,5,Villa,183,1946,,Aktuel værdi
+Birketvej 244941 Bandholm,holm,325.000,26-08-2016,Alm. Salg,3.823,2,Villa,85,1870,-7 %,Aktuel værdi
+Skovstræde 44941 Bandholm,holm,150.000,22-08-2016,Alm. Salg,1.415,5,Rækkehus,106,1912,-14 %,Aktuel værdi
+Blansvej 84941 Bandholm,holm,85.000,08-07-2016,Alm. Salg,1.011,4,Rækkehus,84,1890,-14 %,Aktuel værdi
+Strandparken 14941 Bandholm,holm,995.000,24-06-2016,Alm. Salg,10.815,2,Rækkehus,92,1887,,Aktuel værdi
+Skovstræde 104941 Bandholm,holm,235.000,15-06-2016,Alm. Salg,3.263,2,Rækkehus,72,1912,,Aktuel værdi
+Havnegade 14941 Bandholm,holm,1.600.000,11-05-2016,Alm. Salg,17.204,4,Villa,93,1850,,Aktuel værdi
+Blansvej 444941 Bandholm,holm,448.430,20-04-2016,Alm. Salg,2.066,8,Villa,217,1750,,Aktuel værdi
+Blanshovedvej 64941 Bandholm,holm,645.000,19-04-2016,Alm. Salg,2.632,5,Villa,245,1677,-7 %,Aktuel værdi
+Stationsvej 34941 Bandholm,holm,150.000,11-04-2016,Alm. Salg,1.442,4,Villa,104,1956,-40 %,Aktuel værdi
+Reersnæs Strandvej 994941 Bandholm,holm,459.500,06-04-2016,Alm. Salg,2.854,7,Villa,161,1880,-7 %,Aktuel værdi
+Reersnæs Strandvej 934941 Bandholm,holm,9.974.000,04-04-2016,Alm. Salg,56.670,10,Stuehus,176,1851,,
+Lindstrømsvej 274941 Bandholm,holm,640.000,21-03-2016,Alm. Salg,3.720,4,Villa,172,1972,-1 %,Aktuel værdi
+Birketvej 184941 Bandholm,holm,130.000,01-03-2016,Alm. Salg,1.884,3,Villa,69,1902,-35 %,Aktuel værdi
+Havnegade 64941 Bandholm,holm,450.000,26-02-2016,Alm. Salg,2.406,6,Villa,187,1870,-35 %,Aktuel værdi
+Birketvej 234941 Bandholm,holm,130.000,19-02-2016,Alm. Salg,1.250,4,Villa,104,1912,-13 %,Aktuel værdi
+Reersnæs Strandvej 874941 Bandholm,holm,275.000,01-02-2016,Alm. Salg,2.412,3,Villa,114,1959,-15 %,Aktuel værdi
+Koholtvej 914941 Bandholm,holm,370.000,26-01-2016,Alm. Salg,3.894,3,Villa,95,1952,-6 %,Aktuel værdi
+Birketvej 1124941 Bandholm,holm,215.000,07-01-2016,Alm. Salg,1.360,4,Villa,158,1917,-26 %,Aktuel værdi
+Panumsgade 224941 Bandholm,holm,150.000,03-01-2016,Alm. Salg,1.546,4,Rækkehus,97,1917,-23 %,Aktuel værdi
+Reersnæs Strandvej 814941 Bandholm,holm,250.000,29-12-2015,Alm. Salg,2.840,4,Villa,88,1940,-9 %,Aktuel værdi
+Blansvej 334941 Bandholm,holm,510.000,18-09-2015,Alm. Salg,2.451,6,Villa,208,1905,-15 %,Aktuel værdi
+Lindstrømsvej 574941 Bandholm,holm,300.000,19-07-2015,Alm. Salg,2.702,3,Villa,111,1967,,Aktuel værdi
+"Havnepladsen 2B, 2. TH4941 Bandholm",holm,35.000,10-07-2015,Alm. Salg,432,3,Sommerhus,81,1800,,Aktuel værdi
+Havnegade 444941 Bandholm,holm,500.000,24-06-2015,Alm. Salg,2.500,4,Villa,200,1880,-28 %,Aktuel værdi
+"Havnepladsen 2C, ST. TV4941 Bandholm",holm,90.000,22-06-2015,Alm. Salg,1.071,3,Sommerhus,84,1800,,Aktuel værdi
+Birketvej 1894941 Bandholm,holm,550.000,06-06-2015,Alm. Salg,3.459,6,Stuehus,159,1969,-28 %,
+Reersnæs Kirkevej 3134941 Bandholm,holm,188.000,28-05-2015,Alm. Salg,2.265,2,Villa,83,1926,-34 %,Aktuel værdi
+Åsmarkegade 234941 Bandholm,holm,140.000,21-05-2015,Alm. Salg,972,5,Rækkehus,144,1921,,Aktuel værdi
+Plantagevej 134941 Bandholm,holm,180.000,13-05-2015,Alm. Salg,2.903,3,Sommerhus,62,1967,-10 %,Aktuel værdi
+"Havnepladsen 2B, 2. TV4941 Bandholm",holm,180.500,24-04-2015,Alm. Salg,2.074,3,Sommerhus,87,1800,,Aktuel værdi
+Lysmøllegade 204941 Bandholm,holm,520.000,24-03-2015,Alm. Salg,3.113,5,Villa,167,1980,,Aktuel værdi
+Stationsvej 84941 Bandholm,holm,500.000,09-03-2015,Alm. Salg,2.564,6,Villa,195,1919,-28 %,Aktuel værdi
+Birketvej 204941 Bandholm,holm,85.000,25-02-2015,Alm. Salg,1.148,3,Villa,74,1873,-11 %,Aktuel værdi
+Smedegade 34941 Bandholm,holm,750.000,09-02-2015,Alm. Salg,2.678,7,Villa,280,1967,-46 %,Aktuel værdi
+Birketvej 214941 Bandholm,holm,115.000,08-01-2015,Alm. Salg,1.306,4,Villa,88,1909,0 %,Aktuel værdi
+Blansvej 214941 Bandholm,holm,293.250,31-12-2014,Alm. Salg,2.740,3,Villa,107,1827,,Aktuel værdi
+Åsmarkegade 254941 Bandholm,holm,75.000,17-12-2014,Auktion,457,4,Rækkehus,164,1877,,Aktuel værdi
+Birketvej 84941 Bandholm,holm,350.000,12-11-2014,Alm. Salg,1.508,8,Villa,232,1910,-12 %,Aktuel værdi
+Rolighedsvej 24941 Bandholm,holm,900.000,10-11-2014,Alm. Salg,5.263,5,Villa,171,1932,,Aktuel værdi
+Birketvej 384941 Bandholm,holm,170.000,07-10-2014,Alm. Salg,2.000,3,Villa,85,1938,-13 %,Aktuel værdi
+Skovvejen 54941 Bandholm,holm,815.000,08-09-2014,Alm. Salg,5.992,5,Villa,136,1973,-9 %,Aktuel værdi
+Blansvej 354941 Bandholm,holm,500.000,25-08-2014,Alm. Salg,4.166,4,Villa,120,1909,-16 %,Aktuel værdi
+Birketvej 2044941 Bandholm,holm,290.000,21-07-2014,Alm. Salg,4.202,3,Villa,69,1870,-19 %,Aktuel værdi
+Lysmøllegade 264941 Bandholm,holm,535.000,06-06-2014,Alm. Salg,2.675,6,Villa,200,1980,-21 %,Aktuel værdi
+Blanshovedvej 94941 Bandholm,holm,475.000,28-04-2014,Alm. Salg,5.397,3,Villa,88,1934,-23 %,Aktuel værdi
+Reersnæs Strandvej 854941 Bandholm,holm,175.000,07-04-2014,Alm. Salg,1.822,3,Villa,96,1964,-42 %,Aktuel værdi
+Grydehøjsvej 74941 Bandholm,holm,250.000,21-02-2014,Alm. Salg,1.798,6,Villa,139,1827,-16 %,Aktuel værdi
+Skipperstræde 14941 Bandholm,holm,425.000,20-01-2014,Alm. Salg,2.114,8,Rækkehus,201,1967,-32 %,Aktuel værdi
+Grydehøjsvej 114941 Bandholm,holm,1.200.000,11-12-2013,Auktion,6.818,5,Villa,176,1911,,Aktuel værdi
+Koholtvej 554941 Bandholm,holm,491.500,28-11-2013,Alm. Salg,3.320,4,Villa,148,1830,,Aktuel værdi
+Lindstrømsvej 454941 Bandholm,holm,250.000,20-11-2013,Alm. Salg,2.500,3,Villa,100,1966,-50 %,Aktuel værdi
+Lindstrømsvej 54941 Bandholm,holm,500.000,04-11-2013,Alm. Salg,2.272,7,Villa,220,1972,-13 %,Aktuel værdi
+Koholtvej 764941 Bandholm,holm,185.000,11-10-2013,Alm. Salg,1.907,2,Sommerhus,97,1850,-5 %,Aktuel værdi
+Reersnæs Strandvej 844941 Bandholm,holm,325.000,19-09-2013,Alm. Salg,1.625,7,Villa,200,1780,-35 %,Aktuel værdi
+Skibevej 654941 Bandholm,holm,675.000,18-05-2013,Alm. Salg,5.152,5,Villa,131,1897,-3 %,Aktuel værdi
+Birketvej 1194941 Bandholm,holm,80.000,01-03-2013,Alm. Salg,975,3,Villa,82,1925,-20 %,Aktuel værdi
+Blansvej 224941 Bandholm,holm,650.000,27-02-2013,Auktion,2.500,9,Villa,260,1880,,Aktuel værdi
+Lysmøllegade 24941 Bandholm,holm,220.000,09-08-2012,Alm. Salg,1.419,4,Villa,155,1979,-56 %,Aktuel værdi
+Skipperstræde 54941 Bandholm,holm,500.000,24-07-2012,Alm. Salg,3.164,4,Rækkehus,158,1968,-22 %,Aktuel værdi
+Blanshovedvej 164941 Bandholm,holm,900.000,13-07-2012,Alm. Salg,9.574,4,Villa,94,1916,-10 %,Aktuel værdi
+Birketvej 964941 Bandholm,holm,550.000,09-05-2012,Auktion,4.508,4,Villa,122,1955,39 %,Aktuel værdi
+Lindstrømsvej 394941 Bandholm,holm,340.000,14-12-2011,Alm. Salg,3.655,3,Villa,93,1968,-14 %,Aktuel værdi
+Panumsgade 84941 Bandholm,holm,200.000,03-10-2011,Alm. Salg,1.941,4,Villa,103,1913,-55 %,Aktuel værdi
+Havnegade 174941 Bandholm,holm,100.000,09-09-2011,Alm. Salg,1.470,3,Villa,68,1877,-65 %,Aktuel værdi
+Birketvej 224941 Bandholm,holm,525.000,29-08-2011,Alm. Salg,3.431,5,Villa,153,1935,,Aktuel værdi
+Panumsgade 54941 Bandholm,holm,645.000,09-08-2011,Alm. Salg,4.607,6,Villa,140,1912,-14 %,Aktuel værdi
+Panumsgade 174941 Bandholm,holm,725.000,14-02-2011,Fam. Salg,2.210,6,Villa,328,1928,,Aktuel værdi
+Koholtvej 644941 Bandholm,holm,1.325.000,05-01-2011,Alm. Salg,8.128,5,Villa,163,1931,,Aktuel værdi
+Birketvej 1454941 Bandholm,holm,140.000,01-12-2010,Auktion,1.666,3,Villa,84,1820,-53 %,Aktuel værdi
+Birketvej 164941 Bandholm,holm,10.000,24-11-2010,Auktion,144,3,Rækkehus,69,1900,-97 %,Aktuel værdi
+Birketvej 804941 Bandholm,holm,990.000,11-11-2010,Alm. Salg,7.734,5,Villa,128,1953,0 %,Aktuel værdi
+"Havnepladsen 2C, 2. TH4941 Bandholm",holm,80.000,12-09-2010,Alm. Salg,909,3,Sommerhus,88,1800,,Aktuel værdi
+Lerbjergvej 44941 Bandholm,holm,695.000,12-08-2010,Fam. Salg,3.423,4,Villa,203,1927,,Aktuel værdi
+"Havnepladsen 2B, ST. TH4941 Bandholm",holm,52.000,01-08-2010,Alm. Salg,597,3,Sommerhus,87,1800,,Aktuel værdi
+Birketvej 1634941 Bandholm,holm,149.115,22-07-2010,Alm. Salg,1.112,4,Villa,134,1932,,Aktuel værdi
+Birketvej 1814941 Bandholm,holm,675.232,22-07-2010,Alm. Salg,4.593,5,Villa,147,1910,,Aktuel værdi
+Blansvej 104941 Bandholm,holm,225.000,07-07-2010,Auktion,2.647,3,Villa,85,1883,,Aktuel værdi
+Panumsgade 114941 Bandholm,holm,425.000,23-06-2010,Alm. Salg,3.035,5,Villa,140,1931,0 %,Aktuel værdi
+Birketvej 1044941 Bandholm,holm,599.000,18-06-2010,Alm. Salg,5.300,4,Villa,113,1965,0 %,Aktuel værdi
+"Havnepladsen 2A, ST4941 Bandholm",holm,87.500,16-05-2010,Alm. Salg,902,3,Sommerhus,97,1800,,Aktuel værdi
+Blanshovedvej 44941 Bandholm,holm,200.000,01-05-2010,Fam. Salg,1.851,2,Villa,108,1897,,Aktuel værdi
+Åsmarkegade 84941 Bandholm,holm,385.000,17-04-2010,Alm. Salg,5.133,3,Rækkehus,75,1866,-3 %,Aktuel værdi
+Panumsgade 44941 Bandholm,holm,200.000,15-04-2010,Alm. Salg,2.352,6,Villa,85,1912,-18 %,Aktuel værdi
+Stationsvej 194941 Bandholm,holm,365.000,25-01-2010,Fam. Salg,2.159,7,Villa,169,1913,,Aktuel værdi
+Reersnæs Kirkevej 3174941 Bandholm,holm,450.000,11-01-2010,Alm. Salg,4.017,4,Villa,112,1926,-24 %,Aktuel værdi
+Blansvej 304941 Bandholm,holm,1.200.000,20-12-2009,Alm. Salg,7.142,4,Villa,168,1873,-52 %,Aktuel værdi
+Birketvej 1744941 Bandholm,holm,405.000,16-12-2009,Auktion,2.773,4,Villa,146,1930,,Aktuel værdi
+Birketvej 744941 Bandholm,holm,405.000,17-11-2009,Fam. Salg,3.584,5,Villa,113,1940,-46 %,Aktuel værdi
+Havnegade 294941 Bandholm,holm,1.870.000,02-11-2009,Alm. Salg,7.695,9,Villa,243,1976,-6 %,Aktuel værdi
+Reersnæs Kirkevej 3244941 Bandholm,holm,496.000,27-10-2009,Alm. Salg,3.444,4,Villa,144,1870,,Aktuel værdi
+Blansvej 74941 Bandholm,holm,500.000,25-08-2009,Alm. Salg,4.587,4,Villa,109,1902,-16 %,Aktuel værdi
+Strandparken 134941 Bandholm,holm,1.185.000,01-08-2009,Alm. Salg,13.465,5,Villa,88,1925,-15 %,Aktuel værdi
+Reersnæs Kirkevej 3084941 Bandholm,holm,625.000,12-06-2009,Alm. Salg,4.664,4,Rækkehus,134,1919,-11 %,Aktuel værdi
+Åsmarkegade 44941 Bandholm,holm,527.000,30-04-2009,Alm. Salg,4.391,4,Rækkehus,120,1900,,Aktuel værdi
+Birketvej 1214941 Bandholm,holm,360.000,04-03-2009,Auktion,1.698,6,Villa,212,1900,,Aktuel værdi
+Birketvej 1314941 Bandholm,holm,445.000,08-12-2008,Alm. Salg,3.371,3,Villa,132,1870,,Aktuel værdi
+Reersnæs Strandvej 1074941 Bandholm,holm,1.650.000,25-08-2008,Alm. Salg,-,5,Villa,248,1800,-8 %,Aktuel værdi
+Birketvej 1004941 Bandholm,holm,725.000,20-08-2008,Alm. Salg,5.492,4,Villa,132,1965,-5 %,Aktuel værdi
+Birketvej 624941 Bandholm,holm,590.000,08-07-2008,Alm. Salg,8.194,4,Rækkehus,72,1931,-8 %,Aktuel værdi
+Birketvej 1824941 Bandholm,holm,750.000,30-05-2008,Alm. Salg,5.952,5,Villa,126,1929,,Aktuel værdi
+Skibevej 694941 Bandholm,holm,495.310,19-05-2008,Alm. Salg,3.324,4,Villa,149,1900,,Aktuel værdi
+Birketvej 914941 Bandholm,holm,550.000,19-04-2008,Alm. Salg,9.016,3,Rækkehus,61,1905,,Aktuel værdi
+Birketvej 1434941 Bandholm,holm,474.000,17-03-2008,Alm. Salg,4.514,3,Villa,105,1963,-5 %,Aktuel værdi
+Thousigvej 44941 Bandholm,holm,945.000,07-03-2008,Alm. Salg,5.981,6,Villa,158,1936,-5 %,Aktuel værdi
+Havnepladsen 64941 Bandholm,holm,850.000,05-03-2008,Alm. Salg,3.035,7,Villa,280,1900,,Aktuel værdi
+Strandparken 74941 Bandholm,holm,1.200.000,20-02-2008,Alm. Salg,8.888,4,Rækkehus,135,1890,-16 %,Aktuel værdi
+Reersnæs Strandvej 1034941 Bandholm,holm,650.000,23-01-2008,Auktion,4.710,4,Villa,138,1925,,Aktuel værdi
+Birketvej 1994941 Bandholm,holm,1.603.750,21-12-2007,Alm. Salg,5.107,8,Stuehus,314,1869,,
+Koholtvej 774941 Bandholm,holm,1.150.000,24-10-2007,Alm. Salg,11.386,2,Villa,101,1830,-4 %,Aktuel værdi
+Koholtvej 854941 Bandholm,holm,780.000,23-10-2007,Alm. Salg,8.666,3,Villa,90,1960,,Aktuel værdi
+Birketvej 894941 Bandholm,holm,450.000,25-09-2007,Alm. Salg,5.555,4,Rækkehus,81,1895,,Aktuel værdi
+Havnegade 214941 Bandholm,holm,625.000,24-09-2007,Alm. Salg,2.729,8,Villa,229,1830,0 %,Aktuel værdi
+Birketvej 774941 Bandholm,holm,2.007.000,27-08-2007,Alm. Salg,14.543,4,Villa,138,1948,18 %,Aktuel værdi
+Reersnæs Kirkevej 3054941 Bandholm,holm,560.000,28-06-2007,Fam. Salg,5.333,4,Villa,105,1926,,Aktuel værdi
+Plantagevej 214941 Bandholm,holm,1.125.000,25-06-2007,Alm. Salg,6.181,7,Villa,182,1970,,Aktuel værdi
+Havnegade 424941 Bandholm,holm,1.340.000,14-06-2007,Alm. Salg,7.362,7,Villa,182,1951,,Aktuel værdi
+Panumsgade 244941 Bandholm,holm,250.000,16-05-2007,Andet,2.873,4,Rækkehus,87,1917,,Aktuel værdi
+Reersnæs Kirkevej 3064941 Bandholm,holm,535.000,28-03-2007,Alm. Salg,5.752,3,Rækkehus,93,1900,-3 %,Aktuel værdi
+Åsmarkegade 324941 Bandholm,holm,935.000,21-03-2007,Alm. Salg,6.977,6,Villa,134,1912,,Aktuel værdi
+Birketvej 1354941 Bandholm,holm,450.479,11-12-2006,Alm. Salg,5.927,4,Villa,76,1800,,Aktuel værdi
+Birketvej 484941 Bandholm,holm,425.000,01-12-2006,Alm. Salg,4.086,5,Villa,104,1929,,Aktuel værdi
+Koholtvej 894941 Bandholm,holm,598.600,23-11-2006,Alm. Salg,7.126,3,Villa,84,1958,,Aktuel værdi
+Koholtvej 694941 Bandholm,holm,995.000,15-11-2006,Alm. Salg,10.815,3,Stuehus,92,1927,,
+Strandparken 254941 Bandholm,holm,1.700.000,01-11-2006,Alm. Salg,13.821,5,Villa,123,1938,,Aktuel værdi
+"Havnepladsen 2C, 2. TV4941 Bandholm",holm,650.000,10-10-2006,Alm. Salg,8.333,3,Sommerhus,78,1800,,Aktuel værdi
+Lysmøllegade 164941 Bandholm,holm,1.495.000,26-09-2006,Alm. Salg,7.994,6,Villa,187,1980,,Aktuel værdi
+Birketvej 994941 Bandholm,holm,682.000,21-09-2006,Alm. Salg,8.119,4,Villa,84,1956,,Aktuel værdi
+Vårskovvej 24941 Bandholm,holm,1.140.000,10-09-2006,Alm. Salg,3.343,7,Villa,341,1931,,Aktuel værdi
+Skipperstræde 64941 Bandholm,holm,1.265.000,09-09-2006,Alm. Salg,7.270,5,Rækkehus,174,1968,,Aktuel værdi
+Koholtvej 844941 Bandholm,holm,1.800.000,08-08-2006,Alm. Salg,8.333,5,Villa,216,1872,,Aktuel værdi
+Lindstrømsvej 194941 Bandholm,holm,575.000,27-07-2006,Andet,2.725,8,Villa,211,1972,,Aktuel værdi
+Birketvej 314941 Bandholm,holm,695.000,10-07-2006,Alm. Salg,5.225,6,Villa,133,1910,,Aktuel værdi
+"Havnepladsen 2A, 24941 Bandholm",holm,245.000,22-06-2006,Alm. Salg,2.311,3,Sommerhus,106,1800,,Aktuel værdi
+Åsmarkegade 114941 Bandholm,holm,660.000,15-06-2006,Alm. Salg,6.055,4,Villa,109,1899,,Aktuel værdi
+Panumsgade 204941 Bandholm,holm,535.000,06-06-2006,Alm. Salg,8.106,3,Rækkehus,66,1918,,Aktuel værdi
+Birketvej 444941 Bandholm,holm,164.229,11-05-2006,Fam. Salg,1.909,4,Villa,86,1921,,Aktuel værdi
+"Havnepladsen 2B, ST. TV4941 Bandholm",holm,226.666,03-05-2006,Alm. Salg,2.605,3,Sommerhus,87,1800,,Aktuel værdi
+Birketvej 854941 Bandholm,holm,595.000,03-05-2006,Alm. Salg,6.538,4,Rækkehus,91,1900,,Aktuel værdi
+Blansvej 184941 Bandholm,holm,400.000,02-05-2006,Alm. Salg,5.263,4,Sommerhus,76,1827,,Aktuel værdi
+Koholtvej 814941 Bandholm,holm,1.645.000,13-04-2006,Alm. Salg,12.007,6,Villa,137,1860,,Aktuel værdi
+Strandparken 314941 Bandholm,holm,3.450.000,09-03-2006,Alm. Salg,12.500,5,Villa,276,1991,,Aktuel værdi
+Birketvej 1914941 Bandholm,holm,675.000,25-02-2006,Alm. Salg,5.625,4,Villa,120,1965,,Aktuel værdi
+Koholtvej 634941 Bandholm,holm,765.000,24-02-2006,Alm. Salg,7.083,4,Villa,108,1900,,Aktuel værdi
+Birketvej 1884941 Bandholm,holm,7.848.878,29-01-2006,Fam. Salg,35.839,6,Stuehus,219,1980,,
+Stationsvej 44941 Bandholm,holm,395.000,28-01-2006,Alm. Salg,3.526,4,Villa,112,1915,,Aktuel værdi
+Panumsgade 104941 Bandholm,holm,395.000,30-12-2005,Alm. Salg,3.038,4,Villa,130,1928,,Aktuel værdi
+"Havnepladsen 3, 14941 Bandholm",holm,50.251.320,28-12-2005,Fam. Salg,369.495,4,Anden beboelse,136,1900,,Aktuel værdi
+Birketvej 1444941 Bandholm,holm,570.000,21-12-2005,Alm. Salg,5.135,4,Villa,111,1935,,Aktuel værdi
+Reersnæs Kirkevej 3094941 Bandholm,holm,795.000,24-11-2005,Alm. Salg,9.034,4,Villa,88,1927,,Aktuel værdi
+Reersnæs Strandvej 774941 Bandholm,holm,715.000,15-11-2005,Alm. Salg,4.897,3,Villa,146,1920,,Aktuel værdi
+Blanshovedvej 154941 Bandholm,holm,65.000,17-10-2005,Fam. Salg,928,2,Villa,70,1945,,Aktuel værdi
+Birketvej 1494941 Bandholm,holm,244.257,17-10-2005,Auktion,4.004,3,Villa,61,1863,,Aktuel værdi
+Reersnæs Kirkevej 3144941 Bandholm,holm,839.000,14-10-2005,Alm. Salg,8.925,4,Villa,94,1929,,Aktuel værdi
+Koholtvej 534941 Bandholm,holm,1.325.000,06-10-2005,Alm. Salg,8.833,3,Villa,150,1812,,Aktuel værdi
+Birketvej 1294941 Bandholm,holm,995.000,01-09-2005,Alm. Salg,7.653,5,Villa,130,1827,,Aktuel værdi
+Koholtvej 744941 Bandholm,holm,1.430.000,19-08-2005,Alm. Salg,8.362,5,Villa,171,1905,,Aktuel værdi
+Panumsgade 124941 Bandholm,holm,595.000,03-08-2005,Alm. Salg,5.360,3,Villa,111,1920,,Aktuel værdi
+Birketvej 834941 Bandholm,holm,460.000,30-07-2005,Alm. Salg,4.466,5,Villa,103,1898,,Aktuel værdi
+Skipperstræde 24941 Bandholm,holm,425.000,06-07-2005,Alm. Salg,2.414,5,Rækkehus,176,1968,,Aktuel værdi
+Thousigvej 104941 Bandholm,holm,650.000,23-06-2005,Alm. Salg,5.416,4,Villa,120,1935,,Aktuel værdi
+Birketvej 604941 Bandholm,holm,325.571,03-06-2005,Alm. Salg,3.500,5,Rækkehus,93,1931,,Aktuel værdi
+Blanshovedvej 34941 Bandholm,holm,30.000,24-05-2005,Fam. Salg,-,5,Villa,121,1895,,Aktuel værdi
+Blansvej 294941 Bandholm,holm,323.000,20-05-2005,Alm. Salg,2.691,5,Villa,120,1900,,Aktuel værdi
+Strandparken 214941 Bandholm,holm,2.700.000,09-05-2005,Alm. Salg,10.887,7,Villa,248,1935,,Aktuel værdi
+Birketvej 1514941 Bandholm,holm,595.000,08-05-2005,Alm. Salg,7.000,3,Villa,85,1958,,Aktuel værdi
+Blanshovedvej 124941 Bandholm,holm,1.895.000,01-05-2005,Alm. Salg,11.081,4,Stuehus,171,1956,,
+Birketvej 954941 Bandholm,holm,550.000,22-04-2005,Alm. Salg,5.000,5,Villa,110,1954,,Aktuel værdi
+Lindstrømsvej 114941 Bandholm,holm,875.000,18-04-2005,Alm. Salg,6.578,4,Villa,133,1973,,Aktuel værdi
+Blansvej 64941 Bandholm,holm,1.437.600,11-04-2005,Alm. Salg,10.268,4,Villa,140,1825,,Aktuel værdi
+Birketvej 1684941 Bandholm,holm,935.000,09-04-2005,Alm. Salg,6.925,5,Villa,135,1827,,Aktuel værdi
+Svanevigvej 34941 Bandholm,holm,630.000,17-03-2005,Alm. Salg,7.777,4,Villa,81,1890,,Aktuel værdi
+Lindstrømsvej 414941 Bandholm,holm,720.000,14-03-2005,Alm. Salg,4.736,6,Villa,152,1967,,Aktuel værdi
+Birketvej 1394941 Bandholm,holm,115.000,12-01-2005,Alm. Salg,2.169,3,Sommerhus,53,1827,,Aktuel værdi
+Birketvej 1854941 Bandholm,holm,680.000,10-01-2005,Fam. Salg,3.578,6,Villa,190,1938,,Aktuel værdi
+Birketvej 974941 Bandholm,holm,645.000,14-12-2004,Alm. Salg,7.678,3,Sommerhus,84,1955,,Aktuel værdi
+Lindstrømsvej 474941 Bandholm,holm,680.000,19-11-2004,Alm. Salg,6.071,4,Villa,112,1967,,Aktuel værdi
+Birketvej 194941 Bandholm,holm,180.000,18-11-2004,Alm. Salg,1.836,5,Villa,98,1910,,Aktuel værdi
+Skovvejen 64941 Bandholm,holm,490.000,29-10-2004,Alm. Salg,-,8,Villa,216,1949,,Aktuel værdi
+Plantagevej 44941 Bandholm,holm,550.000,26-08-2004,Alm. Salg,5.140,4,Villa,107,1967,,Aktuel værdi
+Vårskovvej 174941 Bandholm,holm,685.000,25-08-2004,Alm. Salg,7.445,3,Stuehus,92,1958,,
+Skovvejen 94941 Bandholm,holm,495.000,24-07-2004,Alm. Salg,4.125,4,Villa,120,1870,,Aktuel værdi
+Koholtvej 884941 Bandholm,holm,900.000,26-06-2004,Alm. Salg,6.040,5,Villa,149,1965,,Aktuel værdi
+Panumsgade 24941 Bandholm,holm,180.000,07-06-2004,Fam. Salg,1.161,6,Villa,155,1912,,Aktuel værdi
+Birketvej 1414941 Bandholm,holm,575.000,01-06-2004,Alm. Salg,5.528,6,Villa,104,1870,,Aktuel værdi
+Birketvej 2104941 Bandholm,holm,1.250.000,20-04-2004,Alm. Salg,5.813,6,Villa,215,1807,,Aktuel værdi
+Havnegade 324941 Bandholm,holm,300.000,02-04-2004,Alm. Salg,2.500,5,Rækkehus,120,1877,,Aktuel værdi
+Birketvej 1374941 Bandholm,holm,365.000,30-03-2004,Alm. Salg,3.509,3,Rækkehus,104,1900,,Aktuel værdi
+Skovvejen 124941 Bandholm,holm,1.500.000,21-03-2004,Alm. Salg,8.064,5,Villa,186,1870,,Aktuel værdi
+Birketvej 64941 Bandholm,holm,450.000,10-03-2004,Alm. Salg,3.383,5,Villa,133,1908,,Aktuel værdi
+Birketvej 1484941 Bandholm,holm,320.000,10-03-2004,Alm. Salg,4.383,3,Villa,73,1908,,Aktuel værdi
+Havnegade 114941 Bandholm,holm,450.000,02-03-2004,Alm. Salg,2.812,3,Villa,160,1936,,Aktuel værdi
+Koholtvej 994941 Bandholm,holm,665.000,20-01-2004,Alm. Salg,6.045,4,Villa,110,1952,,Aktuel værdi
+Birketvej 874941 Bandholm,holm,360.000,05-12-2003,Alm. Salg,4.500,2,Rækkehus,80,1901,,Aktuel værdi
+Birketvej 1524941 Bandholm,holm,331.231,04-12-2003,Alm. Salg,4.416,3,Rækkehus,75,1876,,Aktuel værdi
+Stationsvej 154941 Bandholm,holm,365.000,26-11-2003,Alm. Salg,1.586,9,Villa,230,1917,,Aktuel værdi
+Birketvej 584941 Bandholm,holm,650.000,30-09-2003,Alm. Salg,5.371,4,Villa,121,1930,,Aktuel værdi
+Blansvej 234941 Bandholm,holm,445.000,26-09-2003,Alm. Salg,3.836,4,Villa,116,1911,,Aktuel værdi
+Birketvej 724941 Bandholm,holm,425.000,05-09-2003,Alm. Salg,3.695,5,Villa,115,1940,,Aktuel værdi
+Birketvej 884941 Bandholm,holm,752.760,05-09-2003,Alm. Salg,6.721,3,Villa,112,1935,,Aktuel værdi
+Plantagevej 154941 Bandholm,holm,1.030.000,18-08-2003,Alm. Salg,5.567,6,Villa,185,1970,,Aktuel værdi
+Lindstrømsvej 74941 Bandholm,holm,1.235.000,21-07-2003,Alm. Salg,6.024,7,Villa,205,1974,,Aktuel værdi
+Birketvej 1144941 Bandholm,holm,695.000,08-07-2003,Alm. Salg,4.186,4,Villa,166,1936,,Aktuel værdi
+Stationsvej 174941 Bandholm,holm,425.000,30-06-2003,Alm. Salg,3.971,4,Villa,107,1917,,Aktuel værdi
+Vinkelvej 184941 Bandholm,holm,60.352,06-06-2003,Alm. Salg,464,6,Villa,130,2004,,Aktuel værdi
+Lindstrømsvej 554941 Bandholm,holm,861.000,03-06-2003,Alm. Salg,6.330,4,Villa,136,1968,,Aktuel værdi
+Vårskovvej 64941 Bandholm,holm,3.550.000,28-05-2003,Alm. Salg,23.355,3,Stuehus,152,1958,,
+Strandparken 354941 Bandholm,holm,436.000,26-05-2003,Alm. Salg,3.694,3,Villa,118,2005,,Aktuel værdi
+Stationsvej 74941 Bandholm,holm,495.000,14-05-2003,Alm. Salg,3.928,5,Villa,126,1912,,Aktuel værdi
+Birketvej 334941 Bandholm,holm,535.000,21-02-2003,Alm. Salg,4.280,6,Villa,125,1909,,Aktuel værdi
+Blansvej 404941 Bandholm,holm,495.000,09-01-2003,Alm. Salg,5.500,4,Villa,90,1912,,Aktuel værdi
+Birketvej 1344941 Bandholm,holm,326.020,12-12-2002,Alm. Salg,3.260,6,Villa,100,1900,,Aktuel værdi
+Birketvej 1164941 Bandholm,holm,425.000,06-12-2002,Alm. Salg,3.320,4,Villa,128,1940,,Aktuel værdi
+Åsmarkegade 244941 Bandholm,holm,542.000,03-10-2002,Alm. Salg,4.713,4,Villa,115,1872,,Aktuel værdi
+Lindstrømsvej 134941 Bandholm,holm,518.500,03-09-2002,Fam. Salg,4.181,5,Villa,124,1973,,Aktuel værdi
+Koholtvej 654941 Bandholm,holm,485.000,16-05-2002,Alm. Salg,3.730,5,Villa,130,1927,,Aktuel værdi
+Reersnæs Strandvej 804941 Bandholm,holm,1.150.000,24-04-2002,Alm. Salg,-,6,Villa,200,1830,,Aktuel værdi
+Reersnæs Strandvej 974941 Bandholm,holm,280.000,10-04-2002,Alm. Salg,2.333,6,Stuehus,120,1804,,
+Reersnæs Kirkevej 3304941 Bandholm,holm,935.000,11-03-2002,Fam. Salg,11.130,2,Stuehus,84,1890,,
+Strandparken 294941 Bandholm,holm,409.450,08-01-2002,Alm. Salg,3.356,4,Villa,122,1939,,Aktuel værdi
+Birketvej 684941 Bandholm,holm,775.000,25-11-2001,Alm. Salg,6.919,6,Villa,112,1953,,Aktuel værdi
+Plantagevej 294941 Bandholm,holm,625.000,17-11-2001,Alm. Salg,4.528,3,Villa,138,1973,,Aktuel værdi
+Havnegade 94941 Bandholm,holm,800.000,16-11-2001,Alm. Salg,4.938,4,Villa,162,1920,,Aktuel værdi
+Birketvej 364941 Bandholm,holm,356.074,08-10-2001,Alm. Salg,4.189,4,Villa,85,1948,,Aktuel værdi
+Blanshovedvej 174941 Bandholm,holm,457.158,06-08-2001,Fam. Salg,2.263,11,Villa,202,1955,,Aktuel værdi
+Koholtvej 864941 Bandholm,holm,635.000,26-07-2001,Fam. Salg,3.895,6,Villa,163,1965,,Aktuel værdi
+Panumsgade 64941 Bandholm,holm,370.000,26-07-2001,Alm. Salg,2.846,5,Villa,130,1913,,Aktuel værdi
+Strandparken 54941 Bandholm,holm,752.000,28-06-2001,Alm. Salg,8.847,3,Villa,85,1890,,Aktuel værdi
+Åsmarkegade 64941 Bandholm,holm,300.000,11-06-2001,Alm. Salg,3.125,4,Rækkehus,96,1777,,Aktuel værdi
+Birketvej 1804941 Bandholm,holm,560.282,08-05-2001,Alm. Salg,4.518,4,Villa,124,1958,,Aktuel værdi
+Birketvej 1924941 Bandholm,holm,411.000,04-05-2001,Alm. Salg,5.788,4,Villa,71,1935,,Aktuel værdi
+Grydehøjsvej 54941 Bandholm,holm,246.666,15-04-2001,Alm. Salg,1.191,7,Sommerhus,207,1840,,Aktuel værdi
+Strandparken 94941 Bandholm,holm,437.000,01-03-2001,Alm. Salg,5.602,4,Villa,78,1887,,Aktuel værdi
+Thousigvej 64941 Bandholm,holm,360.000,03-02-2001,Alm. Salg,3.636,4,Villa,99,1934,,Aktuel værdi
+Stationsvej 54941 Bandholm,holm,377.663,30-01-2001,Fam. Salg,3.562,4,Villa,106,1956,,Aktuel værdi
+Birketvej 26A4941 Bandholm,holm,500.000,18-01-2001,Alm. Salg,3.521,5,Villa,142,1870,,Aktuel værdi
+Blanshovedvej 134941 Bandholm,holm,1.450.000,03-01-2001,Alm. Salg,5.555,8,Stuehus,261,2008,,
+Birketvej 2524941 Bandholm,holm,5.709.400,15-12-2000,Fam. Salg,19.031,14,Stuehus,300,1908,,
+Panumsgade 264941 Bandholm,holm,625.000,09-11-2000,Alm. Salg,3.324,5,Villa,188,1920,,Aktuel værdi
+Birketvej 344941 Bandholm,holm,700.000,13-10-2000,Alm. Salg,4.729,5,Villa,148,1932,,Aktuel værdi
+Lindstrømsvej 534941 Bandholm,holm,104.482,09-10-2000,Alm. Salg,1.160,3,Villa,90,1968,,
+Blansvej 314941 Bandholm,holm,350.000,05-10-2000,Fam. Salg,3.535,4,Villa,99,1902,,Aktuel værdi
+Vinkelvej 164941 Bandholm,holm,661.000,28-08-2000,Alm. Salg,6.120,3,Villa,108,1980,,Aktuel værdi
+Birketvej 2624941 Bandholm,holm,170.000,28-08-2000,Alm. Salg,1.789,4,Villa,95,1897,,Aktuel værdi
+Blansvej 144941 Bandholm,holm,360.302,01-08-2000,Alm. Salg,4.238,3,Villa,85,1972,,Aktuel værdi
+Reersnæs Kirkevej 3224941 Bandholm,holm,436.797,19-06-2000,Alm. Salg,3.733,3,Villa,117,1875,,Aktuel værdi
+Thousigvej 24941 Bandholm,holm,570.000,29-05-2000,Fam. Salg,2.688,6,Villa,212,1930,,Aktuel værdi
+Skipperstræde 104941 Bandholm,holm,675.000,24-05-2000,Alm. Salg,4.218,4,Rækkehus,160,1967,,Aktuel værdi
+Lysmøllegade 54941 Bandholm,holm,672.000,20-05-2000,Alm. Salg,4.765,6,Villa,141,1979,,Aktuel værdi
+Havnegade 364941 Bandholm,holm,499.957,07-05-2000,Alm. Salg,4.309,6,Villa,116,1938,,Aktuel værdi
+Lysmøllegade 284941 Bandholm,holm,948.600,28-04-2000,Alm. Salg,6.080,4,Villa,156,1983,,Aktuel værdi
+Lindstrømsvej 354941 Bandholm,holm,825.000,29-02-2000,Alm. Salg,5.030,5,Villa,164,1971,,Aktuel værdi
+Blansvej 324941 Bandholm,holm,453.000,27-02-2000,Alm. Salg,4.978,3,Villa,91,1777,,Aktuel værdi
+Havnegade 104941 Bandholm,holm,520.260,10-01-2000,Alm. Salg,2.939,7,Rækkehus,177,1830,,Aktuel værdi
+Plantagevej 174941 Bandholm,holm,850.000,03-09-1999,Alm. Salg,3.777,3,Villa,225,1969,,Aktuel værdi
+Lindstrømsvej 174941 Bandholm,holm,850.000,20-05-1999,Alm. Salg,6.250,6,Villa,136,1974,,Aktuel værdi
+Lysmøllegade 184941 Bandholm,holm,775.000,10-05-1999,Alm. Salg,5.166,5,Villa,150,1980,,Aktuel værdi
+Havnegade 33B4941 Bandholm,holm,427.588,19-03-1999,Alm. Salg,2.159,5,Villa,198,1897,,Aktuel værdi
+Lerbjergvej 64941 Bandholm,holm,200.000,16-03-1999,Alm. Salg,1.785,4,Villa,112,1927,,Aktuel værdi
+Plantagevej 164941 Bandholm,holm,227.424,22-02-1999,Fam. Salg,1.848,5,Villa,123,1968,,Aktuel værdi
+Birketvej 1704941 Bandholm,holm,265.000,07-12-1998,Alm. Salg,2.324,3,Villa,114,1900,,Aktuel værdi
+Birketvej 374941 Bandholm,holm,446.592,23-11-1998,Alm. Salg,1.993,5,Villa,224,1900,,Aktuel værdi
+Strandparken 234941 Bandholm,holm,585.000,11-11-1998,Alm. Salg,4.957,5,Villa,118,1936,,Aktuel værdi
+Panumsgade 164941 Bandholm,holm,385.000,19-10-1998,Alm. Salg,2.916,5,Rækkehus,132,1920,,Aktuel værdi
+Vårskovvej 214941 Bandholm,holm,499.310,21-07-1998,Alm. Salg,4.993,4,Villa,100,1959,,Aktuel værdi
+Lysmøllegade 84941 Bandholm,holm,880.020,20-07-1998,Alm. Salg,5.500,5,Villa,160,1980,,Aktuel værdi
+Lindstrømsvej 614941 Bandholm,holm,620.000,20-07-1998,Alm. Salg,3.949,6,Villa,157,1969,,Aktuel værdi
+Birketvej 1364941 Bandholm,holm,245.000,15-06-1998,Alm. Salg,2.916,2,Villa,84,1878,,Aktuel værdi
+Lindstrømsvej 34941 Bandholm,holm,838.000,15-06-1998,Alm. Salg,4.929,5,Villa,170,1976,,Aktuel værdi
+Koholtvej 714941 Bandholm,holm,400.000,15-05-1998,Alm. Salg,4.166,3,Villa,96,1927,,Aktuel værdi
+Skipperstræde 84941 Bandholm,holm,600.000,11-05-1998,Alm. Salg,3.448,5,Rækkehus,174,1967,,Aktuel værdi
+Blansvej 114941 Bandholm,holm,325.000,07-05-1998,Alm. Salg,3.186,3,Villa,102,1947,,Aktuel værdi
+Birketvej 1334941 Bandholm,holm,450.000,20-04-1998,Alm. Salg,3.308,5,Villa,136,1967,,Aktuel værdi
+Blansvej 264941 Bandholm,holm,500.000,11-03-1998,Fam. Salg,3.846,4,Villa,130,1972,,Aktuel værdi
+Strandparken 114941 Bandholm,holm,295.000,30-01-1998,Fam. Salg,2.892,4,Rækkehus,102,1870,,Aktuel værdi
+Birketvej 524941 Bandholm,holm,416.000,26-01-1998,Alm. Salg,4.038,4,Villa,103,1928,,Aktuel værdi
+Birketvej 794941 Bandholm,holm,255.000,17-11-1997,Alm. Salg,1.688,6,Villa,151,1888,,Aktuel værdi
+Uglevængevej 64941 Bandholm,holm,300.000,05-09-1997,Alm. Salg,2.142,6,Villa,140,1926,,Aktuel værdi
+Blansvej 154941 Bandholm,holm,142.301,20-07-1997,Alm. Salg,1.069,5,Villa,133,1800,,Aktuel værdi
+Vårskovvej 34941 Bandholm,holm,650.000,15-05-1997,Alm. Salg,4.062,5,Villa,160,1960,,Aktuel værdi
+Reersnæs Kirkevej 3044941 Bandholm,holm,277.000,07-04-1997,Alm. Salg,1.798,4,Villa,154,1892,,Aktuel værdi
+Lindstrømsvej 154941 Bandholm,holm,600.000,07-04-1997,Alm. Salg,3.821,5,Villa,157,1972,,Aktuel værdi
+Blansvej 244941 Bandholm,holm,395.400,15-01-1997,Alm. Salg,3.041,4,Villa,130,1780,,Aktuel værdi
+Birketvej 1284941 Bandholm,holm,1.900.000,08-12-1996,Fam. Salg,7.011,6,Stuehus,271,1869,,
+Reersnæs Kirkevej 3124941 Bandholm,holm,127.500,02-09-1996,Fam. Salg,1.655,3,Villa,77,1936,,Aktuel værdi
+Vårskovvej 74941 Bandholm,holm,15.000,19-07-1996,Alm. Salg,157,5,Stuehus,95,1958,,
+Birketvej 1324941 Bandholm,holm,255.000,21-06-1996,Alm. Salg,3.445,3,Sommerhus,74,1621,,Aktuel værdi
+Panumsgade 34941 Bandholm,holm,295.000,12-02-1996,Alm. Salg,1.224,10,Villa,241,1912,,Aktuel værdi
+Birketvej 1014941 Bandholm,holm,260.000,13-11-1995,Alm. Salg,3.095,3,Villa,84,1957,,Aktuel værdi
+Havnegade 404941 Bandholm,holm,483.000,25-08-1995,Alm. Salg,2.744,9,Villa,176,1940,,Aktuel værdi
+Lysmøllegade 64941 Bandholm,holm,71.680,30-05-1995,Alm. Salg,462,4,Villa,155,1995,,Aktuel værdi
+Skovvejen 34941 Bandholm,holm,520.000,10-05-1995,Alm. Salg,3.291,5,Villa,158,1978,,Aktuel værdi
+Birketvej 2204941 Bandholm,holm,335.000,06-02-1995,Alm. Salg,2.596,4,Villa,129,1860,,Aktuel værdi
+Birketvej 434941 Bandholm,holm,270.000,19-10-1994,Alm. Salg,1.928,4,Villa,140,1906,,Aktuel værdi
+Koholtvej 874941 Bandholm,holm,319.186,05-10-1994,Andet,3.668,3,Villa,87,1959,,Aktuel værdi
+Birketvej 2004941 Bandholm,holm,320.000,19-08-1994,Alm. Salg,1.758,5,Villa,182,1937,,Aktuel værdi
+Birketvej 274941 Bandholm,holm,285.000,01-08-1994,Alm. Salg,2.080,4,Villa,137,1909,,Aktuel værdi
+Åsmarkegade 54941 Bandholm,holm,345.000,21-03-1994,Alm. Salg,3.349,3,Villa,103,1900,,Aktuel værdi
+Birketvej 1954941 Bandholm,holm,850.000,10-03-1994,Auktion,3.679,9,Villa,231,1989,,Aktuel værdi
+Birketvej 1254941 Bandholm,holm,600.000,01-02-1994,Alm. Salg,4.918,5,Villa,122,1918,,Aktuel værdi
+Reersnæs Kirkevej 3284941 Bandholm,holm,25.000,14-01-1994,Alm. Salg,263,4,Villa,95,1900,,Aktuel værdi
+Havnegade 54941 Bandholm,holm,245.000,14-10-1993,Alm. Salg,2.425,5,Rækkehus,101,1880,,Aktuel værdi
+Koholtvej 494941 Bandholm,holm,180.000,13-10-1993,Fam. Salg,792,6,Villa,227,1996,,Aktuel værdi
+Birketvej 2664941 Bandholm,holm,300.000,01-10-1993,Alm. Salg,2.112,4,Villa,142,1908,,Aktuel værdi
+Blansvej 524941 Bandholm,holm,195.000,15-06-1993,Alm. Salg,1.930,5,Villa,101,1900,,Aktuel værdi
+Plantagevej 14941 Bandholm,holm,340.000,09-06-1993,Alm. Salg,3.695,3,Villa,92,1967,,Aktuel værdi
+Uglevængevej 84941 Bandholm,holm,860.000,17-03-1993,Auktion,4.804,7,Stuehus,179,1926,,
+Birketvej 1384941 Bandholm,holm,142.000,09-12-1992,Alm. Salg,2.028,4,Rækkehus,70,1900,,Aktuel værdi
+Vinkelvej 34941 Bandholm,holm,415.000,07-12-1992,Alm. Salg,3.915,4,Villa,106,1967,,Aktuel værdi
+Birketvej 754941 Bandholm,holm,500.000,28-08-1992,Alm. Salg,1.562,8,Villa,320,1911,,Aktuel værdi
+Lerbjergvej 84941 Bandholm,holm,295.000,03-08-1992,Alm. Salg,3.597,3,Villa,82,1927,,Aktuel værdi
+Birketvej 1774941 Bandholm,holm,165.000,03-08-1992,Alm. Salg,2.260,2,Villa,73,1857,,Aktuel værdi
+Panumsgade 154941 Bandholm,holm,290.000,12-03-1992,Alm. Salg,3.085,5,Villa,94,1930,,Aktuel værdi
+Birketvej 844941 Bandholm,holm,400.000,31-01-1992,Alm. Salg,2.185,5,Villa,183,1837,,Aktuel værdi
+Birketvej 104941 Bandholm,holm,188.900,17-01-1992,Andet,939,4,Villa,201,1910,,Aktuel værdi

@@ -1,0 +1,828 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Vejlevej 217182 Bredsten,sten,609.635,01-05-2017,Fam. Salg,4.175,6,Villa,146,1907,,Aktuel værdi
+Johan Skjoldborg Vej 707182 Bredsten,sten,1.495.000,19-04-2017,Alm. Salg,10.992,4,Villa,136,1978,,Aktuel værdi
+Storedalsvej 77182 Bredsten,sten,1.400.000,19-04-2017,Alm. Salg,14.736,3,Rækkehus,95,2008,,Aktuel værdi
+Lihmskovvej 17182 Bredsten,sten,3.500.000,21-03-2017,Alm. Salg,18.134,6,Villa,193,1912,-22 %,Aktuel værdi
+Møllegårdsvej 27182 Bredsten,sten,700.000,14-03-2017,Fam. Salg,5.147,4,Villa,136,1971,,Aktuel værdi
+Lille Ravningvej 107182 Bredsten,sten,1.525.000,14-03-2017,Alm. Salg,8.567,6,Stuehus,178,1877,,
+Vesterløkke 67182 Bredsten,sten,985.000,14-03-2017,Alm. Salg,7.817,5,Villa,126,1978,0 %,Aktuel værdi
+Jennumvej 2497182 Bredsten,sten,710.000,24-02-2017,Alm. Salg,5.259,2,Stuehus,135,1885,-10 %,
+De Lichtenbergs Vej 27182 Bredsten,sten,850.000,15-02-2017,Alm. Salg,6.854,4,Villa,124,1877,-15 %,Aktuel værdi
+Ladegårdvej 107182 Bredsten,sten,1.255.000,31-01-2017,Alm. Salg,9.160,5,Villa,137,1877,-10 %,Aktuel værdi
+Kirkegade 27182 Bredsten,sten,550.000,19-01-2017,Alm. Salg,3.928,5,Villa,140,1900,,Aktuel værdi
+Skovvej 97182 Bredsten,sten,489.000,22-12-2016,Andet,2.317,7,Villa,211,1973,,Aktuel værdi
+Skolevænget 17182 Bredsten,sten,1.400.000,12-12-2016,Alm. Salg,9.790,5,Villa,143,1925,,Aktuel værdi
+Anton Berntsen Vej 197182 Bredsten,sten,873.500,11-12-2016,Alm. Salg,4.411,6,Villa,198,1986,,Aktuel værdi
+Steen Blicher Vej 1017182 Bredsten,sten,3.000.000,07-12-2016,Fam. Salg,10.869,7,Stuehus,276,1934,,
+Storedalsvej 57182 Bredsten,sten,1.380.000,05-12-2016,Alm. Salg,14.526,3,Rækkehus,95,2008,-1 %,Aktuel værdi
+Johan Skjoldborg Vej 507182 Bredsten,sten,1.575.000,30-11-2016,Alm. Salg,11.580,5,Villa,136,1978,-1 %,Aktuel værdi
+Engelsholmvej 37182 Bredsten,sten,4.400.000,23-11-2016,Alm. Salg,19.909,5,Stuehus,221,1997,-12 %,
+Anton Berntsen Vej 247182 Bredsten,sten,2.250.000,18-11-2016,Alm. Salg,14.331,6,Villa,157,1997,-10 %,Aktuel værdi
+Nybovej 57182 Bredsten,sten,2.300.000,31-10-2016,Alm. Salg,10.648,5,Villa,216,2009,-4 %,Aktuel værdi
+Vesterløkke 447182 Bredsten,sten,950.000,17-10-2016,Alm. Salg,6.884,5,Villa,138,1977,-5 %,Aktuel værdi
+Møllegårdsvej 177182 Bredsten,sten,950.000,10-10-2016,Alm. Salg,7.600,4,Villa,125,1973,-17 %,Aktuel værdi
+Kærbøllinghusevej 227182 Bredsten,sten,2.550.000,10-10-2016,Alm. Salg,11.086,6,Stuehus,230,1973,,
+Rolighedsvej 277182 Bredsten,sten,2.700.000,07-10-2016,Alm. Salg,14.136,6,Villa,191,1920,-3 %,Aktuel værdi
+Balle Nørremarksvej 87182 Bredsten,sten,400.000,06-10-2016,Alm. Salg,4.761,3,Stuehus,84,1924,,
+Billundvej 97182 Bredsten,sten,1.125.000,30-09-2016,Alm. Salg,7.705,5,Villa,146,1942,-2 %,Aktuel værdi
+Gyngemosen 17182 Bredsten,sten,825.500,13-09-2016,Alm. Salg,3.620,8,Villa,228,1877,,Aktuel værdi
+Mejerivej 107182 Bredsten,sten,2.370.000,01-09-2016,Alm. Salg,11.617,7,Villa,204,1928,0 %,Aktuel værdi
+Steen Blicher Vej 957182 Bredsten,sten,2.830.000,22-08-2016,Alm. Salg,13.804,7,Villa,205,2007,-2 %,Aktuel værdi
+Skovtoften 317182 Bredsten,sten,1.300.000,15-08-2016,Alm. Salg,7.975,8,Villa,163,1979,-7 %,Aktuel værdi
+De Lichtenbergs Vej 137182 Bredsten,sten,1.400.000,12-08-2016,Alm. Salg,11.290,4,Villa,124,1974,-6 %,Aktuel værdi
+Skovvej 37182 Bredsten,sten,1.535.000,02-08-2016,Alm. Salg,7.994,5,Villa,192,1970,-4 %,Aktuel værdi
+Ravningvej 607182 Bredsten,sten,1.500.000,21-07-2016,Alm. Salg,10.714,3,Villa,140,1970,-25 %,Aktuel værdi
+Storedalsvej 37182 Bredsten,sten,1.350.000,18-07-2016,Alm. Salg,14.210,3,Rækkehus,95,2008,-3 %,Aktuel værdi
+Johan Skjoldborg Vej 247182 Bredsten,sten,1.450.000,01-07-2016,Alm. Salg,10.357,5,Villa,140,1976,-2 %,Aktuel værdi
+Hærvejen 877182 Bredsten,sten,80.000,29-06-2016,Alm. Salg,340,6,Stuehus,235,1927,,
+Østermarksvej 47182 Bredsten,sten,1.100.000,28-06-2016,Alm. Salg,7.333,5,Stuehus,150,1840,-7 %,
+Kærbølling Skovvej 27182 Bredsten,sten,85.000,01-06-2016,Fam. Salg,337,11,Villa,252,1847,,Aktuel værdi
+Jeppe Åkjær Vej 247182 Bredsten,sten,1.475.000,31-05-2016,Alm. Salg,10.688,5,Villa,138,1977,-8 %,Aktuel værdi
+Thit Jensen Vej 37182 Bredsten,sten,2.275.000,12-05-2016,Alm. Salg,14.218,5,Villa,160,2001,-5 %,Aktuel værdi
+Steen Blicher Vej 197182 Bredsten,sten,1.295.000,04-05-2016,Alm. Salg,9.452,4,Villa,137,1982,0 %,Aktuel værdi
+Lihmskovvej 237182 Bredsten,sten,3.400.000,19-04-2016,Alm. Salg,14.285,6,Villa,238,2007,-15 %,Aktuel værdi
+Lupinvej 17182 Bredsten,sten,745.000,19-04-2016,Alm. Salg,5.173,6,Villa,144,1952,0 %,Aktuel værdi
+St. Lihme Møllevej 277182 Bredsten,sten,3.025.000,11-04-2016,Alm. Salg,14.135,8,Stuehus,214,1929,,
+Engelsholmvej 57182 Bredsten,sten,1.970.000,04-04-2016,Alm. Salg,12.792,5,Stuehus,154,1932,-1 %,
+Molsgårdvej 37182 Bredsten,sten,1.125.000,23-03-2016,Alm. Salg,5.653,5,Villa,199,1890,,Aktuel værdi
+Hærvejen 867182 Bredsten,sten,685.000,18-03-2016,Alm. Salg,5.150,5,Stuehus,133,1928,-13 %,
+Skovvej 237182 Bredsten,sten,825.000,16-03-2016,Alm. Salg,6.875,4,Villa,120,1972,-12 %,Aktuel værdi
+Mejerivej 67182 Bredsten,sten,1.150.000,28-02-2016,Alm. Salg,8.582,4,Villa,134,1927,-11 %,Aktuel værdi
+Jellingvej 147182 Bredsten,sten,500.000,25-02-2016,Fam. Salg,5.952,3,Villa,84,1963,,Aktuel værdi
+Vestervang 57182 Bredsten,sten,495.000,24-02-2016,Alm. Salg,4.125,5,Villa,120,1962,,Aktuel værdi
+Lihmskovvej 87182 Bredsten,sten,550.000,17-02-2016,Alm. Salg,6.626,3,Villa,83,1770,0 %,Aktuel værdi
+"Billundvej 24, 17182 Bredsten",sten,460.000,12-02-2016,Andet,3.865,5,Lejlighed,119,1956,-34 %,Aktuel værdi
+Lihmskovvej 197182 Bredsten,sten,804.570,09-02-2016,Alm. Salg,4.650,5,Stuehus,173,1932,,
+Billundvej 17182 Bredsten,sten,451.129,28-01-2016,Auktion,3.366,5,Villa,134,1960,,Aktuel værdi
+Storedalsvej 267182 Bredsten,sten,2.325.000,16-12-2015,Alm. Salg,13.757,5,Villa,169,2005,-7 %,Aktuel værdi
+Hærvejen 937182 Bredsten,sten,1.840.913,10-12-2015,Alm. Salg,7.800,7,Stuehus,236,1910,-63 %,
+De Lichtenbergs Vej 28A7182 Bredsten,sten,1.950.000,02-12-2015,Alm. Salg,10.209,9,Villa,191,1924,,Aktuel værdi
+Lihmskovvej 227182 Bredsten,sten,195.000,25-11-2015,Alm. Salg,2.052,4,Villa,95,1883,0 %,Aktuel værdi
+Kærbøllinghusevej 517182 Bredsten,sten,2.215.000,15-11-2015,Alm. Salg,7.637,9,Villa,290,1877,-11 %,Aktuel værdi
+Buen 97182 Bredsten,sten,1.375.000,13-11-2015,Alm. Salg,7.472,5,Villa,184,1970,-5 %,Aktuel værdi
+Skovvej 227182 Bredsten,sten,1.317.500,10-11-2015,Alm. Salg,8.132,5,Villa,162,1973,-5 %,Aktuel værdi
+Sødovervej 487182 Bredsten,sten,6.975.000,02-11-2015,Alm. Salg,20.394,7,Stuehus,342,1978,,
+Lyngbjergvej 87182 Bredsten,sten,2.770.500,21-10-2015,Fam. Salg,13.068,7,Stuehus,212,1900,,
+Nybovej 477182 Bredsten,sten,750.000,14-10-2015,Alm. Salg,3.926,7,Villa,191,1997,,Aktuel værdi
+Skovtoften 13B7182 Bredsten,sten,725.000,07-10-2015,Alm. Salg,8.950,3,Rækkehus,81,1988,-3 %,Aktuel værdi
+Nybovej 17A7182 Bredsten,sten,375.000,01-09-2015,Alm. Salg,1.785,5,Villa,210,2016,,Aktuel værdi
+Storedalsvej 15B7182 Bredsten,sten,1.020.000,28-08-2015,Fam. Salg,9.714,4,Rækkehus,105,2008,,Aktuel værdi
+Fabriksvejen 287182 Bredsten,sten,1.780.000,21-08-2015,Alm. Salg,11.125,4,Villa,160,1936,-6 %,Aktuel værdi
+Smedens Ager 47182 Bredsten,sten,2.670.000,09-08-2015,Alm. Salg,10.113,7,Villa,264,1973,-4 %,Aktuel værdi
+Skovtoften 13A7182 Bredsten,sten,180.000,30-07-2015,Fam. Salg,2.222,3,Rækkehus,81,1988,,Aktuel værdi
+Lindeparken 17182 Bredsten,sten,1.960.000,27-07-2015,Alm. Salg,9.377,9,Villa,209,1999,-2 %,Aktuel værdi
+Lille Ravningvej 67182 Bredsten,sten,125.000,03-07-2015,Alm. Salg,816,6,Villa,153,1777,,Aktuel værdi
+Søgårdvej 17182 Bredsten,sten,895.000,04-06-2015,Alm. Salg,7.991,2,Villa,112,1927,0 %,Aktuel værdi
+Lihmskovvej 247182 Bredsten,sten,1.340.000,29-05-2015,Alm. Salg,8.589,6,Villa,156,1880,-4 %,Aktuel værdi
+Dyrehavevej 27182 Bredsten,sten,285.000,28-05-2015,Alm. Salg,2.850,3,Villa,100,1925,-28 %,Aktuel værdi
+Storedalsvej 647182 Bredsten,sten,2.700.000,22-05-2015,Alm. Salg,12.918,6,Villa,209,2008,-3 %,Aktuel værdi
+Ollerupvej 37182 Bredsten,sten,120.000,14-05-2015,Alm. Salg,2.500,2,Villa,48,1900,-38 %,Aktuel værdi
+Kærbøllinghusevej 267182 Bredsten,sten,1.136.203,07-05-2015,Alm. Salg,6.141,7,Villa,185,1872,,Aktuel værdi
+Bredstenvej 617182 Bredsten,sten,888.916,22-04-2015,Alm. Salg,3.864,4,Villa,230,1926,-55 %,Aktuel værdi
+Billundvej 467182 Bredsten,sten,1.555.000,07-04-2015,Alm. Salg,10.506,5,Villa,148,1917,-3 %,Aktuel værdi
+Skærhejselvej 47182 Bredsten,sten,1.500.000,27-03-2015,Fam. Salg,8.522,7,Villa,176,1950,,Aktuel værdi
+Ballevej 177182 Bredsten,sten,1.400.000,17-03-2015,Alm. Salg,6.603,6,Villa,212,1924,-3 %,Aktuel værdi
+Johan Skjoldborg Vej 207182 Bredsten,sten,1.425.000,11-03-2015,Alm. Salg,9.563,5,Villa,149,1977,-5 %,Aktuel værdi
+Søbakken 137182 Bredsten,sten,853.840,09-03-2015,Fam. Salg,5.206,5,Stuehus,164,1933,-52 %,
+Skovtoften 107182 Bredsten,sten,699.395,02-03-2015,Fam. Salg,4.066,6,Villa,172,1980,,Aktuel værdi
+Nybovej 7B7182 Bredsten,sten,750.000,18-02-2015,Alm. Salg,7.211,4,Rækkehus,104,2016,,Aktuel værdi
+Johan Skjoldborg Vej 377182 Bredsten,sten,1.400.000,02-02-2015,Alm. Salg,10.852,4,Villa,129,1977,-6 %,Aktuel værdi
+Anton Berntsen Vej 87182 Bredsten,sten,1.772.500,02-02-2015,Alm. Salg,12.224,5,Villa,145,1999,-6 %,Aktuel værdi
+Storedalsvej 247182 Bredsten,sten,942.500,29-01-2015,Alm. Salg,6.080,6,Villa,155,2003,,Aktuel værdi
+De Lichtenbergs Vej 107182 Bredsten,sten,1.225.000,20-12-2014,Alm. Salg,9.141,7,Villa,134,1938,,Aktuel værdi
+Kærbøllingvej 107182 Bredsten,sten,580.000,19-12-2014,Alm. Salg,2.222,7,Stuehus,261,1904,,
+Kærbøllingvej 907182 Bredsten,sten,650.000,19-12-2014,Alm. Salg,5.118,2,Villa,127,1900,-17 %,Aktuel værdi
+Skærhejselvej 207182 Bredsten,sten,1.318.000,16-12-2014,Fam. Salg,5.272,6,Villa,250,2015,,Aktuel værdi
+Søgårdvej 77182 Bredsten,sten,1.925.000,11-12-2014,Alm. Salg,9.344,5,Stuehus,206,1904,-4 %,
+Ravning Skovvej 67182 Bredsten,sten,1.540.000,03-12-2014,Alm. Salg,9.685,4,Villa,159,1877,-7 %,Aktuel værdi
+Kærbøllingvej 1017182 Bredsten,sten,1.200.000,21-11-2014,Alm. Salg,7.843,6,Villa,153,1892,-4 %,Aktuel værdi
+De Lichtenbergs Vej 157182 Bredsten,sten,970.000,08-11-2014,Alm. Salg,6.830,6,Villa,142,1918,-3 %,Aktuel værdi
+Ballevej 567182 Bredsten,sten,885.000,30-10-2014,Alm. Salg,5.709,8,Villa,155,1930,-11 %,Aktuel værdi
+Steen Blicher Vej 91C7182 Bredsten,sten,627.902,27-10-2014,Alm. Salg,4.158,4,Villa,151,2015,,Aktuel værdi
+Kobberbølvej 67182 Bredsten,sten,895.000,10-10-2014,Alm. Salg,5.593,5,Stuehus,160,1916,,
+Bredstenlundvej 17182 Bredsten,sten,13.920.000,02-10-2014,Alm. Salg,46.245,10,Stuehus,301,1909,,
+Sødovervej 197182 Bredsten,sten,1.170.200,16-09-2014,Fam. Salg,7.007,6,Stuehus,167,1877,,
+Molsgårdvej 57182 Bredsten,sten,1.425.000,30-07-2014,Alm. Salg,8.850,7,Stuehus,161,1930,-5 %,
+Svinget 27182 Bredsten,sten,1.450.000,24-06-2014,Alm. Salg,10.283,5,Villa,141,1968,-3 %,Aktuel værdi
+Ballevej 87182 Bredsten,sten,750.000,26-05-2014,Alm. Salg,5.859,4,Villa,128,1904,-16 %,Aktuel værdi
+Nybovej 817182 Bredsten,sten,1.750.000,29-04-2014,Alm. Salg,10.294,5,Villa,170,1999,-3 %,Aktuel værdi
+Søskovvej 37182 Bredsten,sten,1.000.000,25-04-2014,Alm. Salg,5.208,5,Villa,192,1872,-26 %,Aktuel værdi
+"Kirkegade 13, 17182 Bredsten",sten,660.000,02-04-2014,Alm. Salg,3.384,5,Villa,195,1900,-26 %,Aktuel værdi
+Kærbøllinghusevej 247182 Bredsten,sten,1.865.000,14-02-2014,Alm. Salg,8.288,5,Villa,225,2005,-61 %,Aktuel værdi
+"Kirkegade 29, 17182 Bredsten",sten,280.000,30-01-2014,Auktion,3.636,3,Lejlighed,77,1980,,Aktuel værdi
+Billundvej 157182 Bredsten,sten,895.000,17-01-2014,Alm. Salg,7.160,3,Villa,125,1964,0 %,Aktuel værdi
+Vejlevej 637182 Bredsten,sten,585.500,13-01-2014,Fam. Salg,3.705,4,Stuehus,158,1911,,
+Johan Skjoldborg Vej 27182 Bredsten,sten,1.200.000,16-12-2013,Alm. Salg,7.272,6,Villa,165,1975,-7 %,Aktuel værdi
+Steen Blicher Vej 93B7182 Bredsten,sten,605.928,10-12-2013,Alm. Salg,3.189,5,Villa,190,2015,,Aktuel værdi
+Vesterløkke 467182 Bredsten,sten,1.675.000,06-12-2013,Alm. Salg,10.601,4,Villa,158,1979,-1 %,Aktuel værdi
+Ballevej 937182 Bredsten,sten,434.597,04-12-2013,Alm. Salg,5.432,3,Villa,80,1957,,Aktuel værdi
+Johan Skjoldborg Vej 607182 Bredsten,sten,875.500,28-11-2013,Alm. Salg,6.122,6,Villa,143,1978,,Aktuel værdi
+Møllegårdsvej 57182 Bredsten,sten,700.000,14-11-2013,Alm. Salg,5.555,4,Villa,126,1972,-18 %,Aktuel værdi
+Smedens Ager 87182 Bredsten,sten,910.000,14-11-2013,Alm. Salg,7.913,4,Villa,115,1972,-9 %,Aktuel værdi
+Johan Skjoldborg Vej 197182 Bredsten,sten,1.750.000,22-10-2013,Alm. Salg,10.479,6,Villa,167,1975,,Aktuel værdi
+Ballevej 367182 Bredsten,sten,175.000,24-09-2013,Alm. Salg,767,5,Villa,228,1915,,Aktuel værdi
+Sødover Tværvej 17182 Bredsten,sten,1.615.000,01-09-2013,Alm. Salg,4.295,8,Stuehus,376,2014,,
+Billundvej 447182 Bredsten,sten,850.000,27-08-2013,Alm. Salg,5.666,4,Villa,150,1918,-5 %,Aktuel værdi
+Molsgårdvej 17182 Bredsten,sten,610.000,15-08-2013,Alm. Salg,4.552,5,Stuehus,134,1875,,
+Fabriksvejen 127182 Bredsten,sten,1.045.000,15-08-2013,Alm. Salg,11.875,3,Villa,88,1947,-9 %,Aktuel værdi
+Storedalsvej 97182 Bredsten,sten,1.300.000,22-07-2013,Alm. Salg,12.380,4,Rækkehus,105,2007,-3 %,Aktuel værdi
+Billundvej 407182 Bredsten,sten,660.000,10-07-2013,Andet,3.203,8,Villa,206,1956,,Aktuel værdi
+Nybovej 217182 Bredsten,sten,400.000,01-07-2013,Alm. Salg,2.209,7,Villa,181,2014,,Aktuel værdi
+Søbakken 37182 Bredsten,sten,2.850.000,30-06-2013,Alm. Salg,15.240,5,Villa,187,1827,-9 %,Aktuel værdi
+Buen 87182 Bredsten,sten,850.000,20-06-2013,Alm. Salg,7.798,4,Villa,109,1969,-8 %,Aktuel værdi
+Ravningvej 517182 Bredsten,sten,1.850.200,23-05-2013,Alm. Salg,11.420,5,Stuehus,162,1932,,
+Nederbyvej 37182 Bredsten,sten,900.000,23-05-2013,Alm. Salg,10.227,3,Villa,88,1969,-10 %,Aktuel værdi
+Skovvej 247182 Bredsten,sten,435.700,21-05-2013,Andet,3.025,5,Villa,144,1973,,Aktuel værdi
+Johan Skjoldborg Vej 727182 Bredsten,sten,780.000,17-05-2013,Andet,5.270,5,Villa,148,1978,,Aktuel værdi
+Kirkegade 387182 Bredsten,sten,955.000,10-05-2013,Alm. Salg,7.958,4,Villa,120,1932,-13 %,Aktuel værdi
+Mølletoften 17182 Bredsten,sten,625.000,02-05-2013,Auktion,5.122,5,Villa,122,1895,-21 %,Aktuel værdi
+Kærbøllingvej 1147182 Bredsten,sten,1.845.000,16-04-2013,Alm. Salg,9.271,7,Villa,199,1981,0 %,Aktuel værdi
+Sødovervej 337182 Bredsten,sten,850.000,08-04-2013,Fam. Salg,4.644,6,Stuehus,183,1910,,
+Høllundvej 677182 Bredsten,sten,1.350.000,13-03-2013,Alm. Salg,10.714,4,Villa,126,1874,-3 %,Aktuel værdi
+Kapselvej 47182 Bredsten,sten,1.170.000,11-03-2013,Alm. Salg,6.324,4,Villa,185,1978,-22 %,Aktuel værdi
+Ballevej 227182 Bredsten,sten,1.000.000,08-03-2013,Fam. Salg,8.130,4,Villa,123,1948,,Aktuel værdi
+Ballevej 337182 Bredsten,sten,795.000,09-02-2013,Alm. Salg,5.408,6,Villa,147,1871,-20 %,Aktuel værdi
+Molsgårdvej 177182 Bredsten,sten,1.575.000,28-01-2013,Alm. Salg,10.096,3,Stuehus,156,1892,-7 %,
+Dyrehavevej 67182 Bredsten,sten,725.000,17-01-2013,Alm. Salg,7.323,3,Villa,99,1984,-9 %,Aktuel værdi
+Billundvej 167182 Bredsten,sten,3.200.000,20-12-2012,Alm. Salg,13.973,10,Lejlighed,229,1902,,Aktuel værdi
+Balle Nørremarksvej 117182 Bredsten,sten,1.950.000,05-12-2012,Alm. Salg,9.420,5,Stuehus,207,1860,-15 %,
+De Lichtenbergs Vej 227182 Bredsten,sten,1.725.000,05-12-2012,Alm. Salg,12.777,4,Villa,135,1938,,Aktuel værdi
+Vesterløkke 87182 Bredsten,sten,1.340.000,21-11-2012,Fam. Salg,8.758,5,Villa,153,1976,,Aktuel værdi
+Storedalsvej 587182 Bredsten,sten,2.600.000,17-11-2012,Alm. Salg,16.250,5,Villa,160,2008,-4 %,Aktuel værdi
+Kærbøllinghusevej 537182 Bredsten,sten,1.980.000,09-11-2012,Alm. Salg,13.469,3,Stuehus,147,1850,-10 %,
+Hærvejen 907182 Bredsten,sten,1.250.000,15-10-2012,Alm. Salg,7.530,4,Villa,166,1956,-10 %,Aktuel værdi
+Skovvej 117182 Bredsten,sten,1.810.000,20-08-2012,Alm. Salg,10.055,6,Villa,180,1973,-3 %,Aktuel værdi
+Buen 127182 Bredsten,sten,820.000,14-08-2012,Alm. Salg,6.119,5,Villa,134,1967,-18 %,Aktuel værdi
+Smedens Ager 107182 Bredsten,sten,1.550.000,01-08-2012,Alm. Salg,10.402,4,Villa,149,1973,-22 %,Aktuel værdi
+Kærbøllinghusevej 687182 Bredsten,sten,1.850.000,04-07-2012,Alm. Salg,19.072,5,Stuehus,97,1964,-16 %,
+Ravningvej 277182 Bredsten,sten,100.000,28-06-2012,Alm. Salg,892,3,Sommerhus,112,1996,,Aktuel værdi
+Bredstenlundvej 197182 Bredsten,sten,50.000,19-06-2012,Alm. Salg,196,8,Stuehus,254,1923,,
+Jeppe Åkjær Vej 187182 Bredsten,sten,1.885.000,24-05-2012,Alm. Salg,10.080,7,Villa,187,1976,-6 %,Aktuel værdi
+Sødovervej 467182 Bredsten,sten,1.300.000,16-05-2012,Alm. Salg,4.676,5,Villa,278,1880,,Aktuel værdi
+Ollerupvej 17182 Bredsten,sten,590.000,14-05-2012,Alm. Salg,5.728,3,Villa,103,1857,-15 %,Aktuel værdi
+Buen 117182 Bredsten,sten,1.145.000,27-04-2012,Alm. Salg,13.011,3,Villa,88,1968,0 %,Aktuel værdi
+Nybovej 897182 Bredsten,sten,1.485.000,21-04-2012,Alm. Salg,11.165,5,Villa,133,1997,-7 %,Aktuel værdi
+Storedalsvej 60B7182 Bredsten,sten,325.000,04-04-2012,Alm. Salg,1.649,7,Villa,197,2012,,Aktuel værdi
+Schæferhusvej 137182 Bredsten,sten,2.395.000,27-02-2012,Alm. Salg,11.740,5,Villa,204,1878,0 %,Aktuel værdi
+Kjeldkærvej 17182 Bredsten,sten,1.500.000,09-02-2012,Alm. Salg,11.718,5,Villa,128,1971,,Aktuel værdi
+Møllegårdsvej 217182 Bredsten,sten,1.295.000,07-02-2012,Alm. Salg,9.452,4,Villa,137,1973,,Aktuel værdi
+Ravningvej 507182 Bredsten,sten,275.000,24-01-2012,Alm. Salg,1.131,7,Stuehus,243,1887,,
+Kærbøllingvej 1267182 Bredsten,sten,2.700.000,23-01-2012,Alm. Salg,10.887,7,Villa,248,1873,-15 %,Aktuel værdi
+Kløvermarksvej 27182 Bredsten,sten,1.500.000,21-12-2011,Alm. Salg,11.718,6,Villa,128,1951,-12 %,Aktuel værdi
+Smedens Ager 157182 Bredsten,sten,983.000,01-11-2011,Alm. Salg,5.715,4,Villa,172,1974,-18 %,Aktuel værdi
+Buen 17182 Bredsten,sten,925.000,27-10-2011,Alm. Salg,8.114,3,Villa,114,1965,-7 %,Aktuel værdi
+Steen Blicher Vej 93A7182 Bredsten,sten,593.000,25-10-2011,Alm. Salg,3.638,5,Villa,163,2012,,Aktuel værdi
+Engen 237182 Bredsten,sten,998.000,24-10-2011,Alm. Salg,10.967,4,Rækkehus,91,2002,,Aktuel værdi
+Steen Blicher Vej 91D7182 Bredsten,sten,550.000,06-10-2011,Alm. Salg,4.263,4,Villa,129,2012,,Aktuel værdi
+Jellingvej 237182 Bredsten,sten,30.000,03-10-2011,Andet,176,6,Villa,170,1923,,Aktuel værdi
+Jellingvej 287182 Bredsten,sten,110.000,21-09-2011,Alm. Salg,666,5,Villa,165,1875,,Aktuel værdi
+Ladegårdvej 67182 Bredsten,sten,1.930.000,17-09-2011,Alm. Salg,-,7,Stuehus,192,1900,-6 %,
+Storedalsvej 487182 Bredsten,sten,2.495.000,15-09-2011,Alm. Salg,12.111,5,Villa,206,2008,0 %,Aktuel værdi
+Steen Blicher Vej 91B7182 Bredsten,sten,569.000,13-09-2011,Alm. Salg,4.515,3,Villa,126,2015,,Aktuel værdi
+Tørskindvej 87182 Bredsten,sten,950.000,12-09-2011,Alm. Salg,8.796,4,Villa,108,1968,-5 %,Aktuel værdi
+Storedalsvej 407182 Bredsten,sten,2.450.000,05-06-2011,Alm. Salg,15.506,5,Villa,158,2011,-6 %,Aktuel værdi
+Sødovervej 237182 Bredsten,sten,2.875.000,31-05-2011,Alm. Salg,16.715,6,Stuehus,172,1852,,
+Vejlevej 27182 Bredsten,sten,650.000,12-05-2011,Auktion,4.193,5,Rækkehus,155,1908,-57 %,Aktuel værdi
+Billundvej 367182 Bredsten,sten,875.000,31-03-2011,Alm. Salg,6.944,4,Villa,126,1988,-2 %,Aktuel værdi
+Gammelbyvej 127182 Bredsten,sten,1.550.000,17-03-2011,Auktion,8.201,4,Stuehus,189,1965,-38 %,
+Fabriksvejen 67182 Bredsten,sten,1.450.000,19-01-2011,Alm. Salg,8.192,5,Villa,177,1920,-3 %,Aktuel værdi
+Ballevej 467182 Bredsten,sten,824.500,24-12-2010,Fam. Salg,4.409,6,Villa,187,1896,,Aktuel værdi
+Skovvej 207182 Bredsten,sten,1.450.000,20-12-2010,Alm. Salg,10.820,5,Villa,134,1972,-9 %,Aktuel værdi
+Østermarksvej 27182 Bredsten,sten,865.000,08-12-2010,Alm. Salg,10.058,4,Villa,86,1827,-6 %,Aktuel værdi
+Ballevej 667182 Bredsten,sten,1.180.000,18-11-2010,Alm. Salg,13.258,6,Villa,89,1958,-6 %,Aktuel værdi
+Kirkegade 47182 Bredsten,sten,580.913,18-11-2010,Fam. Salg,4.468,3,Villa,130,1895,,Aktuel værdi
+Thit Jensen Vej 177182 Bredsten,sten,2.055.000,08-11-2010,Alm. Salg,13.700,5,Villa,150,1999,,Aktuel værdi
+Thit Jensen Vej 117182 Bredsten,sten,2.300.000,05-11-2010,Alm. Salg,13.609,5,Villa,169,1999,-4 %,Aktuel værdi
+Thit Jensen Vej 217182 Bredsten,sten,2.325.000,03-11-2010,Alm. Salg,14.090,5,Villa,165,1998,,Aktuel værdi
+Ballevej 1007182 Bredsten,sten,1.351.000,09-10-2010,Alm. Salg,9.861,6,Villa,137,1870,-3 %,Aktuel værdi
+Thit Jensen Vej 297182 Bredsten,sten,1.050.000,30-09-2010,Fam. Salg,6.250,5,Villa,168,2000,,Aktuel værdi
+Elmevej 287182 Bredsten,sten,2.245.000,20-09-2010,Alm. Salg,12.472,4,Villa,180,1973,0 %,Aktuel værdi
+Jeppe Åkjær Vej 157182 Bredsten,sten,820.000,07-09-2010,Fam. Salg,4.852,7,Villa,169,1975,,Aktuel værdi
+Industriparken 27182 Bredsten,sten,2.600.000,10-08-2010,Alm. Salg,10.400,7,Villa,250,1976,,Aktuel værdi
+Møllegårdsvej 157182 Bredsten,sten,1.150.000,02-08-2010,Alm. Salg,10.000,4,Villa,115,1972,-4 %,Aktuel værdi
+Storedalsvej 6A7182 Bredsten,sten,3.350.000,15-07-2010,Alm. Salg,13.673,6,Villa,245,2005,,Aktuel værdi
+Tørskindvej 27182 Bredsten,sten,463.000,12-07-2010,Fam. Salg,2.875,5,Villa,161,1944,,Aktuel værdi
+Bredstenlundvej 207182 Bredsten,sten,2.300.000,10-07-2010,Alm. Salg,12.921,8,Villa,178,1912,-8 %,Aktuel værdi
+Mølletoften 77182 Bredsten,sten,1.410.000,18-06-2010,Alm. Salg,7.833,6,Villa,180,1929,8 %,Aktuel værdi
+Billundvej 47182 Bredsten,sten,980.000,15-06-2010,Fam. Salg,4.711,8,Villa,208,1963,,Aktuel værdi
+Mølletoften 117182 Bredsten,sten,1.400.000,04-05-2010,Alm. Salg,18.666,2,Villa,75,1939,-3 %,Aktuel værdi
+Billundvej 597182 Bredsten,sten,1.200.000,03-05-2010,Alm. Salg,4.528,5,Villa,265,2012,,Aktuel værdi
+Jellingvej 517182 Bredsten,sten,100.000,03-05-2010,Alm. Salg,462,4,Stuehus,216,1986,,
+Storedalsvej 297182 Bredsten,sten,1.150.000,27-04-2010,Fam. Salg,6.886,6,Villa,167,2007,,Aktuel værdi
+Kirkegade 197182 Bredsten,sten,666.700,25-04-2010,Alm. Salg,5.650,3,Villa,118,1959,,Aktuel værdi
+De Lichtenbergs Vej 147182 Bredsten,sten,1.175.000,23-04-2010,Alm. Salg,12.634,3,Villa,93,1965,-6 %,Aktuel værdi
+Ballevej 377182 Bredsten,sten,1.850.000,21-04-2010,Alm. Salg,8.604,6,Villa,215,1970,,Aktuel værdi
+St. Lihme Møllevej 177182 Bredsten,sten,1.317.500,31-03-2010,Fam. Salg,-,4,Stuehus,132,1969,,
+Kapselvej 87182 Bredsten,sten,1.425.000,25-03-2010,Alm. Salg,11.400,4,Villa,125,1979,0 %,Aktuel værdi
+Buen 57182 Bredsten,sten,1.475.000,08-03-2010,Alm. Salg,12.938,4,Villa,114,1970,-1 %,Aktuel værdi
+Kærbøllinghusevej 467182 Bredsten,sten,1.200.000,03-03-2010,Fam. Salg,8.695,4,Villa,138,1941,,Aktuel værdi
+Storedalsvej 547182 Bredsten,sten,606.637,01-02-2010,Alm. Salg,3.063,6,Villa,198,2011,,Aktuel værdi
+Ladegårdvej 77182 Bredsten,sten,227.910,30-01-2010,Alm. Salg,1.156,8,Villa,197,1900,,Aktuel værdi
+Vejlevej 22A7182 Bredsten,sten,2.445.000,23-12-2009,Alm. Salg,14.132,6,Villa,173,1998,,Aktuel værdi
+Lunden 37182 Bredsten,sten,1.850.000,09-12-2009,Alm. Salg,15.546,3,Villa,119,1957,,Aktuel værdi
+De Lichtenbergs Vej 167182 Bredsten,sten,1.075.000,02-12-2009,Alm. Salg,8.958,5,Villa,120,1961,-10 %,Aktuel værdi
+Steen Blicher Vej 237182 Bredsten,sten,290.000,19-10-2009,Alm. Salg,1.726,3,Villa,168,1982,,Aktuel værdi
+Mølletoften 97182 Bredsten,sten,1.345.000,11-09-2009,Alm. Salg,8.512,8,Villa,158,1947,-4 %,Aktuel værdi
+Vejlevej 277182 Bredsten,sten,1.325.000,11-09-2009,Alm. Salg,6.625,6,Villa,200,1941,-17 %,Aktuel værdi
+Kløvermarksvej 17182 Bredsten,sten,1.300.000,10-09-2009,Alm. Salg,9.629,7,Villa,135,1960,-13 %,Aktuel værdi
+Vejlevej 257182 Bredsten,sten,1.499.000,31-08-2009,Alm. Salg,9.547,5,Villa,157,1944,0 %,Aktuel værdi
+De Lichtenbergs Vej 117182 Bredsten,sten,595.000,26-08-2009,Alm. Salg,3.606,6,Villa,165,1903,0 %,Aktuel værdi
+Hærvejen 857182 Bredsten,sten,1.950.000,21-08-2009,Alm. Salg,10.427,5,Stuehus,187,1917,-15 %,
+Vestervang 87182 Bredsten,sten,1.125.000,12-08-2009,Alm. Salg,5.921,6,Villa,190,1929,-10 %,Aktuel værdi
+Kærbølling Skovvej 87182 Bredsten,sten,777.000,17-07-2009,Alm. Salg,4.440,5,Villa,175,2010,,Aktuel værdi
+Elmevej 117182 Bredsten,sten,1.850.000,06-07-2009,Alm. Salg,10.451,4,Villa,177,1973,-2 %,Aktuel værdi
+Nederbyvej 3A7182 Bredsten,sten,1.145.000,01-07-2009,Alm. Salg,6.396,6,Villa,179,1973,-4 %,Aktuel værdi
+Kærbøllingvej 157182 Bredsten,sten,1.450.000,27-06-2009,Alm. Salg,9.062,5,Stuehus,160,1897,-27 %,
+Vesterløkke 107182 Bredsten,sten,1.325.000,17-06-2009,Alm. Salg,9.075,5,Villa,146,1976,-8 %,Aktuel værdi
+Johan Skjoldborg Vej 487182 Bredsten,sten,1.760.000,16-06-2009,Alm. Salg,12.222,5,Villa,144,1978,,Aktuel værdi
+Storedalsvej 687182 Bredsten,sten,1.800.000,06-06-2009,Alm. Salg,14.173,4,Villa,127,2008,-5 %,Aktuel værdi
+Engen 357182 Bredsten,sten,1.075.000,11-05-2009,Alm. Salg,11.813,4,Rækkehus,91,2001,-6 %,Aktuel værdi
+Ravningvej 457182 Bredsten,sten,327.070,27-04-2009,Alm. Salg,3.406,4,Villa,96,1899,,Aktuel værdi
+Jennumvej 2477182 Bredsten,sten,2.000.000,21-04-2009,Alm. Salg,10.695,6,Stuehus,187,2015,,
+Mølletoften 5D7182 Bredsten,sten,825.000,31-03-2009,Alm. Salg,9.375,2,Rækkehus,88,1981,,Aktuel værdi
+Ballevej 517182 Bredsten,sten,1.200.000,30-03-2009,Alm. Salg,10.344,3,Villa,116,1947,-7 %,Aktuel værdi
+Søgårdvej 57182 Bredsten,sten,2.010.660,19-03-2009,Alm. Salg,14.060,5,Stuehus,143,1904,,
+Billundvej 307182 Bredsten,sten,225.000,15-03-2009,Fam. Salg,2.083,3,Villa,108,1902,,Aktuel værdi
+Vejlevej 207182 Bredsten,sten,590.000,23-02-2009,Alm. Salg,6.020,3,Rækkehus,98,1900,-50 %,Aktuel værdi
+Sødovervej 177182 Bredsten,sten,58.500,15-02-2009,Alm. Salg,387,7,Stuehus,151,1877,,
+Møllegårdsvej 137182 Bredsten,sten,1.100.000,14-02-2009,Alm. Salg,6.395,6,Villa,172,1973,-18 %,Aktuel værdi
+Kærbøllingvej 57182 Bredsten,sten,1.275.000,25-01-2009,Alm. Salg,6.071,7,Villa,210,1902,-2 %,Aktuel værdi
+Engen 217182 Bredsten,sten,1.050.000,20-01-2009,Alm. Salg,11.538,4,Rækkehus,91,2002,-12 %,Aktuel værdi
+Vesterløkke 507182 Bredsten,sten,1.700.000,19-01-2009,Alm. Salg,13.600,4,Villa,125,1977,-8 %,Aktuel værdi
+Anton Berntsen Vej 77182 Bredsten,sten,825.000,18-01-2009,Alm. Salg,6.156,5,Villa,134,1986,,Aktuel værdi
+Mejerivej 97182 Bredsten,sten,400.000,05-01-2009,Alm. Salg,1.843,9,Villa,217,1960,,Aktuel værdi
+Sødovervej 317182 Bredsten,sten,3.507.240,17-12-2008,Alm. Salg,23.697,5,Stuehus,148,1910,,
+Storedalsvej 317182 Bredsten,sten,500.000,11-12-2008,Alm. Salg,2.066,6,Villa,242,2014,0 %,Aktuel værdi
+Smedens Ager 17182 Bredsten,sten,600.000,27-11-2008,Alm. Salg,4.166,4,Villa,144,1972,,Aktuel værdi
+Elmevej 147182 Bredsten,sten,1.700.000,25-11-2008,Fam. Salg,13.492,4,Villa,126,1972,7 %,Aktuel værdi
+Vestervang 127182 Bredsten,sten,1.050.000,21-10-2008,Alm. Salg,10.194,4,Villa,103,1962,-9 %,Aktuel værdi
+Engen 197182 Bredsten,sten,1.310.000,03-10-2008,Alm. Salg,14.395,5,Rækkehus,91,2001,-1 %,Aktuel værdi
+Thit Jensen Vej 137182 Bredsten,sten,2.330.000,24-09-2008,Alm. Salg,16.180,5,Villa,144,2000,-7 %,Aktuel værdi
+Vesterløkke 347182 Bredsten,sten,1.445.000,21-08-2008,Alm. Salg,12.787,4,Villa,113,1978,0 %,Aktuel værdi
+Storedalsvej 147182 Bredsten,sten,2.385.000,16-08-2008,Alm. Salg,16.448,5,Villa,145,2005,0 %,Aktuel værdi
+Jellingvej 227182 Bredsten,sten,1.900.000,08-08-2008,Alm. Salg,9.223,8,Villa,206,1972,-5 %,Aktuel værdi
+Møllegårdsvej 77182 Bredsten,sten,1.350.000,25-07-2008,Alm. Salg,12.272,3,Villa,110,1967,-4 %,Aktuel værdi
+Dyrehavevej 17182 Bredsten,sten,1.200.000,18-07-2008,Alm. Salg,9.230,5,Villa,130,1927,0 %,Aktuel værdi
+Søbakken 117182 Bredsten,sten,1.900.000,16-07-2008,Alm. Salg,14.728,6,Villa,129,1931,0 %,Aktuel værdi
+Ravningvej 247182 Bredsten,sten,575.000,15-07-2008,Fam. Salg,3.571,4,Villa,161,2003,,Aktuel værdi
+Vestervej 77182 Bredsten,sten,1.514.000,06-06-2008,Alm. Salg,10.026,4,Villa,151,1877,1 %,Aktuel værdi
+Vestervang 147182 Bredsten,sten,1.085.000,03-06-2008,Alm. Salg,11.302,4,Villa,96,1964,-1 %,Aktuel værdi
+Billundvej 427182 Bredsten,sten,960.000,02-06-2008,Alm. Salg,12.000,2,Villa,80,1955,,Aktuel værdi
+Lunden 97182 Bredsten,sten,600.000,13-05-2008,Alm. Salg,4.316,4,Villa,139,1877,,Aktuel værdi
+Storedalsvej 467182 Bredsten,sten,800.000,25-04-2008,Alm. Salg,4.232,5,Villa,189,2008,,Aktuel værdi
+Storedalsvej 15A7182 Bredsten,sten,1.625.000,24-04-2008,Alm. Salg,15.476,4,Rækkehus,105,2008,0 %,Aktuel værdi
+Ravningvej 467182 Bredsten,sten,700.000,15-04-2008,Andet,3.743,5,Villa,187,1963,,Aktuel værdi
+Storedalsvej 367182 Bredsten,sten,507.000,31-03-2008,Alm. Salg,3.054,6,Villa,166,2009,,Aktuel værdi
+Storedalsvej 567182 Bredsten,sten,575.000,10-03-2008,Alm. Salg,2.686,4,Villa,214,2010,,Aktuel værdi
+Lihmskovvej 147182 Bredsten,sten,720.075,07-03-2008,Andet,4.557,6,Villa,158,1935,,Aktuel værdi
+Jellingvej 57182 Bredsten,sten,900.000,01-03-2008,Alm. Salg,7.826,4,Villa,115,1966,,Aktuel værdi
+Billundvej 77182 Bredsten,sten,1.675.000,29-02-2008,Alm. Salg,10.090,4,Villa,166,1947,-1 %,Aktuel værdi
+Storedalsvej 17182 Bredsten,sten,1.457.500,08-02-2008,Alm. Salg,15.342,3,Rækkehus,95,2008,1 %,Aktuel værdi
+Johan Skjoldborg Vej 157182 Bredsten,sten,1.250.000,05-02-2008,Alm. Salg,11.061,4,Villa,113,1975,-2 %,Aktuel værdi
+Kærbøllinghusevej 457182 Bredsten,sten,6.400.000,01-02-2008,Alm. Salg,40.251,5,Stuehus,159,1985,,
+Ballevej 447182 Bredsten,sten,1.495.000,28-01-2008,Alm. Salg,14.375,3,Villa,104,1938,0 %,Aktuel værdi
+Storedalsvej 667182 Bredsten,sten,618.101,17-01-2008,Alm. Salg,3.593,6,Villa,172,2009,,Aktuel værdi
+Kapselvej 67182 Bredsten,sten,1.400.000,16-01-2008,Alm. Salg,10.937,5,Villa,128,1979,,Aktuel værdi
+Johan Skjoldborg Vej 477182 Bredsten,sten,1.735.000,11-01-2008,Alm. Salg,12.664,5,Villa,137,1977,-2 %,Aktuel værdi
+Hærvejen 777182 Bredsten,sten,399.500,02-01-2008,Fam. Salg,2.681,4,Villa,149,2015,,Aktuel værdi
+Johan Skjoldborg Vej 367182 Bredsten,sten,1.750.000,28-12-2007,Alm. Salg,12.068,6,Villa,145,1978,-3 %,Aktuel værdi
+Engvej 17182 Bredsten,sten,1.400.000,27-12-2007,Alm. Salg,10.526,6,Villa,133,1942,-6 %,Aktuel værdi
+Storedalsvej 277182 Bredsten,sten,2.475.000,15-12-2007,Alm. Salg,18.198,5,Villa,136,2004,,Aktuel værdi
+Storedalsvej 13B7182 Bredsten,sten,1.698.500,10-12-2007,Alm. Salg,16.176,4,Rækkehus,105,2007,5 %,Aktuel værdi
+Kærbøllinghusevej 447182 Bredsten,sten,161.143,29-11-2007,Alm. Salg,592,6,Villa,272,2008,,Aktuel værdi
+Ballevej 107182 Bredsten,sten,885.000,24-11-2007,Alm. Salg,10.056,3,Villa,88,1910,-11 %,Aktuel værdi
+Bredstenvej 457182 Bredsten,sten,9.256.725,13-11-2007,Fam. Salg,34.799,9,Stuehus,266,1914,,
+Storedalsvej 387182 Bredsten,sten,501.500,08-11-2007,Alm. Salg,2.667,6,Villa,188,2009,,Aktuel værdi
+Sødovervej 147182 Bredsten,sten,1.239.200,06-11-2007,Alm. Salg,6.134,7,Stuehus,202,1984,,
+Billundvej 267182 Bredsten,sten,965.000,03-11-2007,Alm. Salg,9.747,4,Villa,99,1894,-1 %,Aktuel værdi
+Jellingvej 347182 Bredsten,sten,1.200.000,30-10-2007,Fam. Salg,11.111,4,Villa,108,1927,,Aktuel værdi
+Nybovej 417182 Bredsten,sten,766.000,20-10-2007,Fam. Salg,5.356,5,Villa,143,2005,,Aktuel værdi
+Lindeparken 107182 Bredsten,sten,1.940.000,17-10-2007,Alm. Salg,11.975,4,Villa,162,2000,-3 %,Aktuel værdi
+Thit Jensen Vej 197182 Bredsten,sten,2.450.000,13-10-2007,Alm. Salg,16.333,5,Villa,150,1999,,Aktuel værdi
+Ballevej 877182 Bredsten,sten,3.100.000,10-10-2007,Alm. Salg,19.496,7,Stuehus,159,1907,77 %,
+Elmevej 17182 Bredsten,sten,1.400.000,05-10-2007,Alm. Salg,11.666,4,Villa,120,1971,,Aktuel værdi
+St. Lihme Møllevej 157182 Bredsten,sten,650.000,27-09-2007,Fam. Salg,7.558,3,Villa,86,1964,,Aktuel værdi
+Tørskindvej 77182 Bredsten,sten,1.062.000,24-09-2007,Fam. Salg,4.425,7,Villa,240,1964,,Aktuel værdi
+Møllevænget 77182 Bredsten,sten,1.198.000,20-09-2007,Alm. Salg,10.696,4,Villa,112,1967,0 %,Aktuel værdi
+Møllevænget 67182 Bredsten,sten,1.295.000,19-09-2007,Alm. Salg,12.950,4,Villa,100,1965,0 %,Aktuel værdi
+Skovtoften 23B7182 Bredsten,sten,895.000,30-08-2007,Alm. Salg,11.049,3,Rækkehus,81,1986,-3 %,Aktuel værdi
+Kapselvej 37182 Bredsten,sten,1.200.000,30-08-2007,Alm. Salg,9.836,4,Villa,122,1961,,Aktuel værdi
+Nybovej 837182 Bredsten,sten,2.150.000,28-08-2007,Alm. Salg,14.052,4,Villa,153,1999,-4 %,Aktuel værdi
+Nederbyvej 17182 Bredsten,sten,1.395.000,15-08-2007,Alm. Salg,15.674,3,Villa,89,1965,0 %,Aktuel værdi
+Skovtoften 277182 Bredsten,sten,1.748.000,12-08-2007,Alm. Salg,11.133,5,Villa,157,1986,,Aktuel værdi
+Skovtoften 117182 Bredsten,sten,1.070.000,06-08-2007,Alm. Salg,11.888,4,Villa,90,1981,,Aktuel værdi
+Kobberbølvej 107182 Bredsten,sten,1.410.000,05-08-2007,Alm. Salg,10.217,5,Villa,138,1937,-6 %,Aktuel værdi
+Ravningvej 537182 Bredsten,sten,750.000,02-08-2007,Alm. Salg,12.295,2,Villa,61,1960,,Aktuel værdi
+Jellingvej 207182 Bredsten,sten,1.500.000,02-08-2007,Fam. Salg,15.000,3,Villa,100,1995,,Aktuel værdi
+Smedens Ager 247182 Bredsten,sten,1.100.000,30-07-2007,Alm. Salg,6.918,5,Villa,159,1972,,Aktuel værdi
+Vestervang 67182 Bredsten,sten,1.042.500,18-07-2007,Alm. Salg,11.209,4,Villa,93,1966,,Aktuel værdi
+Møllegårdsvej 37182 Bredsten,sten,1.395.000,10-07-2007,Andet,10.898,4,Villa,128,1972,,Aktuel værdi
+Hærvejen 957182 Bredsten,sten,1.650.000,03-07-2007,Alm. Salg,7.021,8,Villa,235,1917,,Aktuel værdi
+Ollerupvej 147182 Bredsten,sten,2.290.000,01-07-2007,Alm. Salg,16.357,7,Villa,140,1893,,Aktuel værdi
+Lindeparken 147182 Bredsten,sten,199.250,14-06-2007,Alm. Salg,922,6,Villa,216,2007,,Aktuel værdi
+Sødovervej 417182 Bredsten,sten,3.800.000,13-06-2007,Alm. Salg,18.536,5,Stuehus,205,1936,,
+Kærbøllinghusevej 477182 Bredsten,sten,1.625.000,09-06-2007,Alm. Salg,-,5,Villa,256,1788,-8 %,Aktuel værdi
+Lupinvej 37182 Bredsten,sten,1.700.000,05-06-2007,Alm. Salg,12.142,4,Villa,140,1954,,Aktuel værdi
+Balle Nørremarksvej 47182 Bredsten,sten,2.110.000,01-06-2007,Alm. Salg,8.612,6,Villa,245,1850,-16 %,Aktuel værdi
+Steen Blicher Vej 1057182 Bredsten,sten,701.820,29-05-2007,Alm. Salg,1.982,11,Stuehus,354,1852,,
+Johan Skjoldborg Vej 337182 Bredsten,sten,1.620.000,25-05-2007,Alm. Salg,11.095,5,Villa,146,1977,,Aktuel værdi
+Johan Skjoldborg Vej 127182 Bredsten,sten,1.480.000,25-05-2007,Alm. Salg,9.736,5,Villa,152,1976,-1 %,Aktuel værdi
+Storedalsvej 357182 Bredsten,sten,455.000,16-05-2007,Alm. Salg,3.527,4,Villa,129,2008,,Aktuel værdi
+"Billundvej 35, 17182 Bredsten",sten,3.623.808,09-05-2007,Alm. Salg,23.685,4,Lejlighed,153,1959,,Aktuel værdi
+Storedalsvej 427182 Bredsten,sten,440.000,30-04-2007,Alm. Salg,2.573,4,Villa,171,2008,,Aktuel værdi
+Storedalsvej 527182 Bredsten,sten,460.000,30-04-2007,Alm. Salg,2.929,5,Villa,157,2010,,Aktuel værdi
+Storedalsvej 377182 Bredsten,sten,501.000,30-04-2007,Alm. Salg,2.330,6,Villa,215,2008,,Aktuel værdi
+Storedalsvej 347182 Bredsten,sten,527.000,30-04-2007,Alm. Salg,2.331,4,Villa,226,2008,,Aktuel værdi
+Jellingvej 577182 Bredsten,sten,1.371.138,26-04-2007,Alm. Salg,12.579,4,Villa,109,1827,-6 %,Aktuel værdi
+Storedalsvej 447182 Bredsten,sten,472.500,17-04-2007,Alm. Salg,3.375,5,Villa,140,2007,,Aktuel værdi
+Mejerivej 47182 Bredsten,sten,1.550.000,13-04-2007,Alm. Salg,16.847,3,Villa,92,1969,-9 %,Aktuel værdi
+Storedalsvej 337182 Bredsten,sten,472.000,10-04-2007,Alm. Salg,2.666,6,Villa,177,2007,,Aktuel værdi
+Storedalsvej 507182 Bredsten,sten,651.000,10-04-2007,Alm. Salg,2.906,6,Villa,224,2007,,Aktuel værdi
+Billundvej 177182 Bredsten,sten,800.000,28-03-2007,Alm. Salg,10.000,3,Villa,80,1963,-11 %,Aktuel værdi
+Mølletoften 5B7182 Bredsten,sten,860.000,27-03-2007,Alm. Salg,6.013,5,Rækkehus,143,1981,,Aktuel værdi
+Vejlevej 657182 Bredsten,sten,1.260.000,26-03-2007,Alm. Salg,6.028,6,Villa,209,1877,-8 %,Aktuel værdi
+Kærbøllinghusevej 577182 Bredsten,sten,2.650.000,25-03-2007,Alm. Salg,18.027,4,Stuehus,147,2009,,
+Ballevej 167182 Bredsten,sten,1.070.000,08-03-2007,Alm. Salg,8.359,3,Villa,128,1971,,Aktuel værdi
+Skovtoften 37182 Bredsten,sten,1.380.000,20-02-2007,Alm. Salg,10.298,4,Villa,134,1985,-3 %,Aktuel værdi
+Jellingvej 657182 Bredsten,sten,268.000,18-02-2007,Fam. Salg,2.504,3,Villa,107,1966,,Aktuel værdi
+Tørskindvej 67182 Bredsten,sten,1.235.000,28-01-2007,Alm. Salg,7.307,5,Villa,169,1966,-1 %,Aktuel værdi
+Vesterløkke 197182 Bredsten,sten,1.345.000,12-12-2006,Alm. Salg,10.267,5,Villa,131,1975,,Aktuel værdi
+Møllevænget 17182 Bredsten,sten,1.670.000,11-12-2006,Alm. Salg,8.978,6,Villa,186,1971,,Aktuel værdi
+Tørskindvej 9B7182 Bredsten,sten,750.000,04-12-2006,Alm. Salg,7.211,3,Rækkehus,104,1964,,Aktuel værdi
+Ballevej 427182 Bredsten,sten,1.250.000,03-12-2006,Alm. Salg,10.245,5,Villa,122,1939,,Aktuel værdi
+Balle Nørremarksvej 137182 Bredsten,sten,977.500,29-11-2006,Fam. Salg,7.405,4,Stuehus,132,1850,,
+Kærbøllingvej 87182 Bredsten,sten,1.100.000,25-10-2006,Alm. Salg,7.236,5,Villa,152,1902,,Aktuel værdi
+Kærbølling Skovvej 7A7182 Bredsten,sten,391.000,27-09-2006,Alm. Salg,5.283,3,Sommerhus,74,1960,,Aktuel værdi
+Sødovervej 47182 Bredsten,sten,2.500.000,21-09-2006,Alm. Salg,11.848,6,Villa,211,2011,,Aktuel værdi
+De Lichtenbergs Vej 277182 Bredsten,sten,150.000,05-09-2006,Alm. Salg,724,6,Stuehus,207,1875,,
+Fabriksvejen 8A7182 Bredsten,sten,795.000,28-08-2006,Alm. Salg,5.031,5,Villa,158,1901,,Aktuel værdi
+Elmevej 197182 Bredsten,sten,1.275.000,15-08-2006,Alm. Salg,10.625,4,Villa,120,1972,,Aktuel værdi
+Jennumvej 2507182 Bredsten,sten,66.487,01-08-2006,Alm. Salg,285,6,Villa,233,1978,,Aktuel værdi
+Søndervang 107182 Bredsten,sten,1.150.000,31-07-2006,Alm. Salg,9.274,4,Villa,124,1968,,Aktuel værdi
+Johan Skjoldborg Vej 257182 Bredsten,sten,1.625.000,21-07-2006,Alm. Salg,10.906,5,Villa,149,1977,,Aktuel værdi
+Kobberbølvej 127182 Bredsten,sten,1.150.000,19-07-2006,Alm. Salg,6.969,4,Villa,165,1946,,Aktuel værdi
+Vesterløkke 327182 Bredsten,sten,1.310.000,19-07-2006,Alm. Salg,8.791,4,Villa,149,1976,,Aktuel værdi
+Johan Skjoldborg Vej 97182 Bredsten,sten,2.045.000,15-07-2006,Alm. Salg,8.665,7,Villa,236,1976,,Aktuel værdi
+Skovtoften 25B7182 Bredsten,sten,855.000,01-07-2006,Alm. Salg,10.555,3,Rækkehus,81,1986,,Aktuel værdi
+Nederbyvej 127182 Bredsten,sten,60.000,28-06-2006,Alm. Salg,342,7,Stuehus,175,1924,,
+Schæferhusvej 97182 Bredsten,sten,1.100.000,23-06-2006,Andet,3.416,9,Villa,322,1900,,Aktuel værdi
+Buen 137182 Bredsten,sten,1.075.000,20-06-2006,Alm. Salg,8.269,5,Villa,130,1970,,Aktuel værdi
+Billundvej 117182 Bredsten,sten,895.000,16-06-2006,Alm. Salg,6.729,4,Villa,133,1951,,Aktuel værdi
+Nybovej 497182 Bredsten,sten,160.000,13-06-2006,Alm. Salg,903,5,Villa,177,2008,,Aktuel værdi
+Hærvejen 917182 Bredsten,sten,1.895.000,26-05-2006,Alm. Salg,10.188,5,Stuehus,186,1910,,
+Nybovej 397182 Bredsten,sten,255.000,22-05-2006,Alm. Salg,1.508,5,Villa,169,2006,,Aktuel værdi
+Engen 117182 Bredsten,sten,1.050.000,21-05-2006,Alm. Salg,11.538,4,Rækkehus,91,2001,,Aktuel værdi
+Vesterløkke 227182 Bredsten,sten,1.110.000,18-05-2006,Alm. Salg,10.373,4,Villa,107,1976,,Aktuel værdi
+Nederbyvej 3B7182 Bredsten,sten,1.130.000,12-05-2006,Alm. Salg,7.062,4,Villa,160,1974,,Aktuel værdi
+Nybovej 37182 Bredsten,sten,212.000,10-05-2006,Alm. Salg,1.643,5,Villa,129,2006,,Aktuel værdi
+Mejerivej 147182 Bredsten,sten,1.770.000,08-05-2006,Alm. Salg,9.315,7,Villa,190,1930,,Aktuel værdi
+Industriparken 12A7182 Bredsten,sten,2.553.979,05-05-2006,Fam. Salg,16.584,3,Villa,154,1986,,Aktuel værdi
+Dyrehavevej 117182 Bredsten,sten,1.325.000,05-05-2006,Alm. Salg,12.619,5,Villa,105,1955,,Aktuel værdi
+Kirkegade 207182 Bredsten,sten,620.000,01-05-2006,Alm. Salg,5.438,6,Villa,114,1900,,Aktuel værdi
+Jeppe Åkjær Vej 47182 Bredsten,sten,1.380.000,25-04-2006,Alm. Salg,10.615,3,Villa,130,1976,,Aktuel værdi
+Kærbøllinghusevej 317182 Bredsten,sten,1.895.000,19-04-2006,Alm. Salg,15.791,4,Villa,120,1962,,Aktuel værdi
+Vejlevej 267182 Bredsten,sten,995.000,12-04-2006,Alm. Salg,10.815,4,Villa,92,1880,,Aktuel værdi
+Lille Ravningvej 167182 Bredsten,sten,2.700.000,11-04-2006,Alm. Salg,14.210,4,Stuehus,190,1983,,
+Vesterløkke 237182 Bredsten,sten,1.125.000,05-04-2006,Alm. Salg,8.035,4,Villa,140,1976,,Aktuel værdi
+De Lichtenbergs Vej 127182 Bredsten,sten,241.816,04-04-2006,Fam. Salg,2.600,5,Villa,93,1892,,Aktuel værdi
+Vesterløkke 157182 Bredsten,sten,1.110.000,31-03-2006,Alm. Salg,8.809,4,Villa,126,1974,,Aktuel værdi
+Thit Jensen Vej 157182 Bredsten,sten,2.465.000,27-03-2006,Alm. Salg,13.181,4,Villa,187,2000,,Aktuel værdi
+Johan Skjoldborg Vej 217182 Bredsten,sten,1.595.000,15-03-2006,Alm. Salg,12.083,5,Villa,132,1977,,Aktuel værdi
+Ballevej 127182 Bredsten,sten,870.000,07-03-2006,Alm. Salg,7.565,3,Villa,115,1910,,Aktuel værdi
+Nybovej 317182 Bredsten,sten,1.750.000,07-03-2006,Alm. Salg,13.888,4,Villa,126,2003,,Aktuel værdi
+Storedalsvej 27182 Bredsten,sten,297.000,21-02-2006,Alm. Salg,1.640,3,Villa,181,2006,,Aktuel værdi
+Vesterløkke 367182 Bredsten,sten,990.000,08-02-2006,Alm. Salg,8.114,4,Villa,122,1979,,Aktuel værdi
+Ravningvej 637182 Bredsten,sten,900.000,27-01-2006,Alm. Salg,3.879,8,Villa,232,1907,,Aktuel værdi
+Skovvej 267182 Bredsten,sten,1.072.500,23-01-2006,Alm. Salg,9.662,4,Villa,111,1973,,Aktuel værdi
+Ballevej 37182 Bredsten,sten,864.250,21-12-2005,Alm. Salg,6.805,5,Villa,127,1906,,Aktuel værdi
+Rolighedsvej 297182 Bredsten,sten,2.050.000,20-12-2005,Alm. Salg,12.500,6,Villa,164,1850,,Aktuel værdi
+Sødovervej 217182 Bredsten,sten,600.000,16-12-2005,Alm. Salg,3.773,5,Villa,159,1884,,Aktuel værdi
+Skærhejselvej 107182 Bredsten,sten,5.645.000,16-12-2005,Alm. Salg,22.312,8,Stuehus,253,1902,,
+Billundvej 137182 Bredsten,sten,750.000,01-12-2005,Alm. Salg,6.578,3,Villa,114,1959,,Aktuel værdi
+Storedalsvej 47182 Bredsten,sten,286.000,29-11-2005,Alm. Salg,1.821,6,Villa,157,2007,,Aktuel værdi
+Billundvej 67182 Bredsten,sten,675.000,02-11-2005,Alm. Salg,4.560,4,Villa,148,1943,,Aktuel værdi
+Billundvej 57182 Bredsten,sten,745.000,27-10-2005,Alm. Salg,5.687,5,Villa,131,1945,,Aktuel værdi
+Kirkegade 57182 Bredsten,sten,945.000,24-10-2005,Alm. Salg,3.677,5,Villa,257,1867,,Aktuel værdi
+Nybovej 17182 Bredsten,sten,212.000,20-10-2005,Alm. Salg,1.341,5,Villa,158,2006,,Aktuel værdi
+Nybovej 337182 Bredsten,sten,244.000,20-10-2005,Alm. Salg,1.682,4,Villa,145,2006,,Aktuel værdi
+Lunden 27182 Bredsten,sten,2.367.000,17-10-2005,Alm. Salg,12.076,5,Stuehus,196,1877,,
+Kobberbølvej 187182 Bredsten,sten,825.000,09-10-2005,Alm. Salg,5.061,7,Villa,163,1967,,Aktuel værdi
+Søbakken 127182 Bredsten,sten,2.095.000,03-10-2005,Alm. Salg,14.349,5,Stuehus,146,1932,,
+Skovtoften 17182 Bredsten,sten,1.065.000,01-10-2005,Alm. Salg,8.068,6,Villa,132,1983,,Aktuel værdi
+Ballevej 17182 Bredsten,sten,550.000,30-09-2005,Fam. Salg,2.806,5,Villa,196,1900,,Aktuel værdi
+Søndervang 47182 Bredsten,sten,1.050.000,29-09-2005,Alm. Salg,8.076,4,Villa,130,1969,,Aktuel værdi
+Søbakken 47182 Bredsten,sten,3.900.000,14-09-2005,Alm. Salg,18.660,6,Stuehus,209,1837,,
+Johan Skjoldborg Vej 137182 Bredsten,sten,1.295.000,13-09-2005,Alm. Salg,8.301,5,Villa,156,1975,,Aktuel værdi
+Kærbøllinghusevej 627182 Bredsten,sten,2.700.000,01-09-2005,Alm. Salg,13.567,7,Villa,199,1978,,Aktuel værdi
+Bredstenvej 557182 Bredsten,sten,600.000,10-08-2005,Alm. Salg,5.607,3,Villa,107,1966,,Aktuel værdi
+Dyrehavevej 77182 Bredsten,sten,1.025.000,01-08-2005,Alm. Salg,6.101,5,Villa,168,1977,,Aktuel værdi
+Ballevej 307182 Bredsten,sten,1.435.000,14-07-2005,Alm. Salg,6.185,11,Villa,232,1926,,Aktuel værdi
+Fabriksvejen 27182 Bredsten,sten,1.497.000,04-07-2005,Alm. Salg,5.735,5,Villa,261,1925,,Aktuel værdi
+Balle Nørremarksvej 97182 Bredsten,sten,725.000,16-06-2005,Alm. Salg,5.620,5,Villa,129,1867,,Aktuel værdi
+Bredstenvej 547182 Bredsten,sten,1.020.000,15-06-2005,Alm. Salg,7.083,5,Stuehus,144,1932,,
+Vesterløkke 147182 Bredsten,sten,1.040.000,02-06-2005,Alm. Salg,8.524,3,Villa,122,1976,,Aktuel værdi
+Storedalsvej 197182 Bredsten,sten,292.000,31-05-2005,Alm. Salg,1.269,6,Villa,230,2006,,Aktuel værdi
+Ladegårdvej 47182 Bredsten,sten,1.795.000,20-05-2005,Alm. Salg,14.593,4,Stuehus,123,1850,,
+Johan Skjoldborg Vej 617182 Bredsten,sten,993.367,17-05-2005,Alm. Salg,8.790,4,Villa,113,1977,,Aktuel værdi
+Hærvejen 757182 Bredsten,sten,1.350.000,16-05-2005,Alm. Salg,8.544,7,Stuehus,158,1940,,
+Gammelbyvej 207182 Bredsten,sten,1.200.000,11-05-2005,Fam. Salg,5.429,6,Stuehus,221,1951,,
+Schæferhusvej 17182 Bredsten,sten,3.000.000,09-05-2005,Alm. Salg,10.989,9,Villa,273,1989,,Aktuel værdi
+Jeppe Åkjær Vej 67182 Bredsten,sten,1.900.000,24-04-2005,Fam. Salg,8.715,9,Villa,218,1979,,Aktuel værdi
+Thit Jensen Vej 77182 Bredsten,sten,241.250,20-04-2005,Alm. Salg,2.010,4,Villa,120,2005,,Aktuel værdi
+Storedalsvej 237182 Bredsten,sten,275.000,13-04-2005,Alm. Salg,2.007,5,Villa,137,2006,,Aktuel værdi
+Storedalsvej 6B7182 Bredsten,sten,295.000,13-04-2005,Alm. Salg,2.034,5,Villa,145,2006,,Aktuel værdi
+Ladegårdvej 57182 Bredsten,sten,480.000,29-03-2005,Alm. Salg,3.137,4,Stuehus,153,1912,,
+Tørskindvej 127182 Bredsten,sten,800.000,23-03-2005,Alm. Salg,6.153,3,Villa,130,1966,,Aktuel værdi
+Ballevej 557182 Bredsten,sten,480.000,10-03-2005,Alm. Salg,3.478,7,Villa,138,1929,,Aktuel værdi
+Dyrehavevej 137182 Bredsten,sten,1.390.000,07-03-2005,Alm. Salg,8.273,6,Villa,168,1971,,Aktuel værdi
+Kjeldkærvej 47182 Bredsten,sten,11.819.500,01-03-2005,Fam. Salg,118.195,3,Villa,100,1948,,Aktuel værdi
+Ballevej 497182 Bredsten,sten,798.000,01-03-2005,Alm. Salg,7.125,4,Villa,112,1980,,Aktuel værdi
+Bredsten Landevej 117182 Bredsten,sten,200.000,30-01-2005,Andet,1.212,5,Stuehus,165,1927,,
+Skovvej 17182 Bredsten,sten,1.195.000,29-01-2005,Alm. Salg,8.129,5,Villa,147,1970,,Aktuel værdi
+Ladegårdvej 27182 Bredsten,sten,1.092.000,20-01-2005,Alm. Salg,8.531,6,Stuehus,128,1890,,
+Kirkegade 157182 Bredsten,sten,675.000,31-12-2004,Alm. Salg,7.670,3,Villa,88,1958,,Aktuel værdi
+Kobberbølvej 8A7182 Bredsten,sten,1.250.000,22-12-2004,Alm. Salg,-,6,Villa,160,1912,,Aktuel værdi
+Søgårdvej 27182 Bredsten,sten,560.000,22-11-2004,Alm. Salg,4.341,4,Villa,129,1925,,Aktuel værdi
+Buen 67182 Bredsten,sten,1.470.000,18-11-2004,Alm. Salg,8.166,6,Villa,180,1971,,Aktuel værdi
+Buen 47182 Bredsten,sten,1.145.000,17-11-2004,Alm. Salg,7.246,6,Villa,158,1965,,Aktuel værdi
+Vejlevej 24A7182 Bredsten,sten,1.557.500,07-10-2004,Alm. Salg,8.154,6,Villa,191,1987,,Aktuel værdi
+Storedalsvej 107182 Bredsten,sten,357.000,01-10-2004,Alm. Salg,2.496,5,Villa,143,2005,,Aktuel værdi
+Storedalsvej 87182 Bredsten,sten,357.000,17-09-2004,Alm. Salg,1.758,5,Villa,203,2005,,Aktuel værdi
+De Lichtenbergs Vej 207182 Bredsten,sten,825.000,09-09-2004,Alm. Salg,-,6,Villa,184,1928,,Aktuel værdi
+Balle Nørremarksvej 77182 Bredsten,sten,1.101.000,30-08-2004,Alm. Salg,6.401,5,Villa,172,1917,,Aktuel værdi
+Vejlevej 237182 Bredsten,sten,1.300.000,23-08-2004,Alm. Salg,7.027,5,Villa,185,1900,,Aktuel værdi
+Johan Skjoldborg Vej 547182 Bredsten,sten,1.150.000,18-08-2004,Alm. Salg,8.518,5,Villa,135,1978,,Aktuel værdi
+Storedalsvej 177182 Bredsten,sten,282.000,12-08-2004,Alm. Salg,1.807,5,Villa,156,2005,,Aktuel værdi
+Anton Berntsen Vej 367182 Bredsten,sten,1.500.000,12-08-2004,Alm. Salg,9.554,5,Villa,157,1995,,Aktuel værdi
+Thit Jensen Vej 277182 Bredsten,sten,1.635.000,03-08-2004,Alm. Salg,9.289,6,Villa,176,1998,,Aktuel værdi
+Storedalsvej 217182 Bredsten,sten,286.000,09-07-2004,Alm. Salg,1.722,6,Villa,166,2005,,Aktuel værdi
+Skovvej 27182 Bredsten,sten,1.130.000,08-07-2004,Alm. Salg,6.975,6,Villa,162,1967,,Aktuel værdi
+Nederbyvej 27182 Bredsten,sten,1.020.000,24-06-2004,Alm. Salg,8.031,4,Villa,127,1976,,Aktuel værdi
+Jeppe Åkjær Vej 17182 Bredsten,sten,745.000,17-06-2004,Alm. Salg,6.651,6,Villa,112,1976,,Aktuel værdi
+Møllegårdsvej 237182 Bredsten,sten,1.230.000,01-06-2004,Alm. Salg,7.687,5,Villa,160,1973,,Aktuel værdi
+Kirkegade 117182 Bredsten,sten,655.000,01-06-2004,Alm. Salg,6.121,3,Villa,107,1908,,Aktuel værdi
+Jeppe Åkjær Vej 167182 Bredsten,sten,1.135.000,16-05-2004,Alm. Salg,6.069,4,Villa,187,1977,,Aktuel værdi
+Engen 317182 Bredsten,sten,3.650.000,15-05-2004,Alm. Salg,40.109,5,Rækkehus,91,2002,,Aktuel værdi
+Johan Skjoldborg Vej 167182 Bredsten,sten,1.160.000,13-05-2004,Alm. Salg,6.705,4,Villa,173,1976,,Aktuel værdi
+Tørskindvej 47182 Bredsten,sten,230.000,27-04-2004,Alm. Salg,3.709,2,Villa,62,1932,,Aktuel værdi
+Mølletoften 5A7182 Bredsten,sten,746.000,05-04-2004,Alm. Salg,5.216,5,Rækkehus,143,1981,,Aktuel værdi
+Stensgårdsvej 37182 Bredsten,sten,976.627,28-03-2004,Alm. Salg,7.077,4,Villa,138,1910,,Aktuel værdi
+Jeppe Åkjær Vej 177182 Bredsten,sten,1.040.000,26-03-2004,Alm. Salg,7.536,5,Villa,138,1975,,Aktuel værdi
+Skovtoften 25A7182 Bredsten,sten,675.000,05-03-2004,Alm. Salg,8.333,3,Rækkehus,81,1986,,Aktuel værdi
+Lyngbjergvej 17182 Bredsten,sten,242.220,05-03-2004,Alm. Salg,1.274,6,Stuehus,190,1895,,
+Kærbøllingvej 167182 Bredsten,sten,6.700.000,26-02-2004,Alm. Salg,33.838,6,Stuehus,198,1865,,
+Rolighedsvej 67182 Bredsten,sten,650.000,23-02-2004,Alm. Salg,6.190,2,Villa,105,1967,,Aktuel værdi
+De Lichtenbergs Vej 187182 Bredsten,sten,1.225.000,19-02-2004,Alm. Salg,10.040,3,Villa,122,1931,,Aktuel værdi
+Kløvermarksvej 57182 Bredsten,sten,650.000,16-02-2004,Alm. Salg,9.027,3,Villa,72,1964,,Aktuel værdi
+Thit Jensen Vej 17182 Bredsten,sten,210.000,10-02-2004,Alm. Salg,1.381,5,Villa,152,2004,,Aktuel værdi
+Skovvej 47182 Bredsten,sten,1.135.000,05-02-2004,Alm. Salg,8.284,5,Villa,137,1971,,Aktuel værdi
+Johan Skjoldborg Vej 297182 Bredsten,sten,1.150.000,02-02-2004,Alm. Salg,6.764,6,Villa,170,1976,,Aktuel værdi
+Skovvej 187182 Bredsten,sten,1.050.000,30-01-2004,Alm. Salg,7.835,5,Villa,134,1973,,Aktuel værdi
+Storedalsvej 167182 Bredsten,sten,337.000,26-01-2004,Alm. Salg,2.324,5,Villa,145,2004,,Aktuel værdi
+Industriparken 97182 Bredsten,sten,680.465,23-12-2003,Alm. Salg,4.966,5,Villa,137,2005,,Aktuel værdi
+Molsgårdvej 157182 Bredsten,sten,1.150.000,16-12-2003,Alm. Salg,6.216,5,Stuehus,185,1929,,
+Skovvej 137182 Bredsten,sten,1.350.500,01-12-2003,Alm. Salg,6.370,7,Villa,212,1974,,Aktuel værdi
+Rolighedsvej 247182 Bredsten,sten,428.725,27-11-2003,Alm. Salg,-,6,Stuehus,172,1900,,
+St. Lihme Møllevej 257182 Bredsten,sten,1.600.000,13-11-2003,Alm. Salg,5.904,9,Stuehus,271,1928,,
+Vejlevej 117182 Bredsten,sten,455.931,13-11-2003,Alm. Salg,3.618,6,Villa,126,1895,,Aktuel værdi
+Ballevej 897182 Bredsten,sten,1.525.195,31-10-2003,Alm. Salg,7.160,5,Stuehus,213,1877,,
+Ravning Skovvej 57182 Bredsten,sten,459.000,29-10-2003,Fam. Salg,2.668,5,Villa,172,2012,,Aktuel værdi
+Møllegårdsvej 257182 Bredsten,sten,1.120.000,01-10-2003,Alm. Salg,7.272,5,Villa,154,1973,,Aktuel værdi
+Vesterløkke 217182 Bredsten,sten,825.000,01-10-2003,Alm. Salg,8.250,3,Villa,100,1976,,Aktuel værdi
+Søgårdvej 117182 Bredsten,sten,2.300.000,25-09-2003,Alm. Salg,11.165,6,Stuehus,206,1934,,
+Vejlevej 177182 Bredsten,sten,600.000,15-09-2003,Alm. Salg,6.451,4,Villa,93,1910,,Aktuel værdi
+Kærbøllingvej 887182 Bredsten,sten,257.541,10-09-2003,Alm. Salg,3.902,3,Stuehus,66,1877,,
+Gammelbyvej 197182 Bredsten,sten,540.000,26-08-2003,Alm. Salg,-,6,Villa,135,1878,,Aktuel værdi
+Vestervang 167182 Bredsten,sten,696.500,01-08-2003,Alm. Salg,7.653,42,Villa,91,1964,,Aktuel værdi
+Rolighedsvej 97182 Bredsten,sten,1.150.000,10-07-2003,Fam. Salg,6.388,7,Villa,180,1939,,Aktuel værdi
+Storedalsvej 257182 Bredsten,sten,270.000,08-07-2003,Alm. Salg,1.788,5,Villa,151,2003,,Aktuel værdi
+Ladegårdvej 37182 Bredsten,sten,801.979,07-07-2003,Alm. Salg,5.769,3,Stuehus,139,1850,,
+Engen 257182 Bredsten,sten,920.000,04-07-2003,Alm. Salg,10.109,4,Rækkehus,91,2002,,Aktuel værdi
+Skovvej 107182 Bredsten,sten,1.144.314,30-06-2003,Alm. Salg,8.173,4,Villa,140,1972,,Aktuel værdi
+Skovtoften 197182 Bredsten,sten,700.000,04-06-2003,Alm. Salg,8.750,3,Villa,80,1983,,Aktuel værdi
+Vesterløkke 267182 Bredsten,sten,798.838,21-05-2003,Alm. Salg,6.240,4,Villa,128,1976,,Aktuel værdi
+Kirkegade 177182 Bredsten,sten,995.000,18-05-2003,Alm. Salg,4.950,10,Villa,201,1939,,Aktuel værdi
+Storedalsvej 327182 Bredsten,sten,325.000,09-05-2003,Alm. Salg,2.181,5,Villa,149,2003,,Aktuel værdi
+Storedalsvej 287182 Bredsten,sten,310.000,07-05-2003,Alm. Salg,1.812,5,Villa,171,2003,,Aktuel værdi
+Vejlevej 77182 Bredsten,sten,1.200.000,11-04-2003,Alm. Salg,5.172,7,Lejlighed,232,1885,,Aktuel værdi
+Ballevej 287182 Bredsten,sten,950.000,09-04-2003,Alm. Salg,6.785,4,Villa,140,1966,,Aktuel værdi
+Ballevej 407182 Bredsten,sten,1.240.000,07-04-2003,Alm. Salg,7.167,6,Villa,173,1900,,Aktuel værdi
+Ballevej 857182 Bredsten,sten,1.245.000,03-04-2003,Alm. Salg,8.527,5,Stuehus,146,1894,,
+Johan Skjoldborg Vej 87182 Bredsten,sten,1.051.837,01-04-2003,Alm. Salg,-,6,Villa,180,1976,,Aktuel værdi
+Skovvej 297182 Bredsten,sten,892.500,31-03-2003,Fam. Salg,5.648,5,Villa,158,1970,,Aktuel værdi
+Johan Skjoldborg Vej 307182 Bredsten,sten,1.270.000,04-03-2003,Alm. Salg,7.559,5,Villa,168,1978,,Aktuel værdi
+Lindeparken 67182 Bredsten,sten,280.000,24-02-2003,Alm. Salg,1.609,5,Villa,174,2003,,Aktuel værdi
+Gammelbyvej 167182 Bredsten,sten,529.756,22-02-2003,Andet,4.606,6,Stuehus,115,1920,,
+Sødovervej 407182 Bredsten,sten,1.169.000,17-02-2003,Alm. Salg,5.787,6,Villa,202,1910,,Aktuel værdi
+Johan Skjoldborg Vej 267182 Bredsten,sten,1.160.000,08-02-2003,Alm. Salg,7.160,4,Villa,162,1976,,Aktuel værdi
+Ollerupvej 137182 Bredsten,sten,1.125.000,03-02-2003,Alm. Salg,5.921,6,Villa,190,1927,,Aktuel værdi
+Billundvej 27182 Bredsten,sten,175.000,30-01-2003,Alm. Salg,866,7,Stuehus,202,1920,,
+Rolighedsvej 227182 Bredsten,sten,7.503.000,20-01-2003,Fam. Salg,35.728,8,Stuehus,210,1938,,
+Bredstenvej 227182 Bredsten,sten,634.950,01-01-2003,Alm. Salg,4.960,4,Stuehus,128,1923,,
+Jeppe Åkjær Vej 107182 Bredsten,sten,1.131.487,19-12-2002,Alm. Salg,6.735,5,Villa,168,1977,,Aktuel værdi
+Storedalsvej 127182 Bredsten,sten,340.000,09-12-2002,Alm. Salg,2.297,5,Villa,148,2003,,Aktuel værdi
+Storedalsvej 227182 Bredsten,sten,260.000,29-11-2002,Alm. Salg,1.645,6,Villa,158,2003,,Aktuel værdi
+Mejerivej 77182 Bredsten,sten,2.400.000,28-11-2002,Alm. Salg,8.108,11,Villa,296,1955,,Aktuel værdi
+Elmevej 247182 Bredsten,sten,891.950,27-11-2002,Alm. Salg,6.558,5,Villa,136,1973,,Aktuel værdi
+Storedalsvej 207182 Bredsten,sten,377.000,17-11-2002,Alm. Salg,2.298,6,Villa,164,2003,,Aktuel værdi
+Storedalsvej 307182 Bredsten,sten,302.000,14-11-2002,Alm. Salg,1.899,4,Villa,159,2005,,Aktuel værdi
+Storedalsvej 187182 Bredsten,sten,330.000,10-11-2002,Alm. Salg,1.907,6,Villa,173,2003,,Aktuel værdi
+Dyrehavevej 107182 Bredsten,sten,897.073,04-11-2002,Alm. Salg,4.983,6,Villa,180,1968,,Aktuel værdi
+Tørskindvej 9A7182 Bredsten,sten,530.000,17-10-2002,Alm. Salg,5.888,3,Rækkehus,90,1952,,
+Kirkegade 267182 Bredsten,sten,1.250.000,25-09-2002,Alm. Salg,5.681,8,Villa,220,1898,,Aktuel værdi
+Steen Blicher Vej 257182 Bredsten,sten,425.000,23-09-2002,Alm. Salg,2.442,4,Rækkehus,174,1982,,Aktuel værdi
+Ravningvej 697182 Bredsten,sten,640.032,31-08-2002,Alm. Salg,5.517,4,Villa,116,1887,,Aktuel værdi
+Sødover Tværvej 47182 Bredsten,sten,1.803.830,24-08-2002,Alm. Salg,9.750,4,Stuehus,185,1927,,
+Rolighedsvej 57182 Bredsten,sten,410.000,24-08-2002,Alm. Salg,3.416,4,Villa,120,1939,,Aktuel værdi
+Johan Skjoldborg Vej 347182 Bredsten,sten,1.500.000,23-08-2002,Alm. Salg,8.620,6,Villa,174,1978,,Aktuel værdi
+Skråvej 27182 Bredsten,sten,652.650,23-08-2002,Alm. Salg,-,5,Villa,144,1877,,Aktuel værdi
+Mølletoften 5E7182 Bredsten,sten,750.000,05-08-2002,Alm. Salg,8.522,2,Rækkehus,88,1981,,Aktuel værdi
+Kobberbølvej 27182 Bredsten,sten,655.000,09-07-2002,Alm. Salg,8.291,3,Villa,79,1944,,Aktuel værdi
+Pilevej 17182 Bredsten,sten,695.000,04-07-2002,Alm. Salg,7.239,4,Villa,96,1960,,Aktuel værdi
+Johan Skjoldborg Vej 527182 Bredsten,sten,975.952,01-07-2002,Alm. Salg,7.283,5,Villa,134,1978,,Aktuel værdi
+Lihmskovvej 187182 Bredsten,sten,520.000,24-06-2002,Fam. Salg,6.046,4,Stuehus,86,1880,,
+Vestervang 107182 Bredsten,sten,450.000,12-06-2002,Alm. Salg,2.812,4,Villa,160,1961,,Aktuel værdi
+Anton Berntsen Vej 147182 Bredsten,sten,1.575.000,07-06-2002,Alm. Salg,9.843,5,Villa,160,1996,,Aktuel værdi
+Vejlevej 407182 Bredsten,sten,924.000,03-06-2002,Alm. Salg,3.526,5,Stuehus,262,1902,,
+Ladegårdvej 147182 Bredsten,sten,3.600.000,27-05-2002,Alm. Salg,16.438,5,Stuehus,219,1915,,
+Skovtoften 15A7182 Bredsten,sten,620.000,01-05-2002,Alm. Salg,7.654,3,Rækkehus,81,1987,,Aktuel værdi
+Kærbøllingvej 1047182 Bredsten,sten,170.000,01-04-2002,Alm. Salg,648,10,Stuehus,262,1882,,
+Skærhejselvej 67182 Bredsten,sten,60.000,21-03-2002,Alm. Salg,177,8,Stuehus,338,1898,,
+Engelsholmvej 47182 Bredsten,sten,498.400,12-03-2002,Alm. Salg,2.966,6,Stuehus,168,1932,,
+Kærbøllingvej 1107182 Bredsten,sten,300.000,04-03-2002,Alm. Salg,2.803,4,Villa,107,2002,,Aktuel værdi
+Hærvejen 887182 Bredsten,sten,773.356,05-02-2002,Andet,5.333,5,Stuehus,145,2001,,
+Engen 97182 Bredsten,sten,2.840.000,25-01-2002,Andet,31.208,4,Rækkehus,91,2002,,Aktuel værdi
+Rolighedsvej 147182 Bredsten,sten,700.000,21-01-2002,Alm. Salg,4.964,5,Villa,141,1975,,Aktuel værdi
+Skovvej 157182 Bredsten,sten,1.246.570,14-01-2002,Alm. Salg,5.936,6,Villa,210,1973,,Aktuel værdi
+Vejlevej 187182 Bredsten,sten,798.000,03-01-2002,Alm. Salg,6.186,4,Villa,129,1895,,Aktuel værdi
+Østermarksvej 107182 Bredsten,sten,1.296.000,20-12-2001,Alm. Salg,5.003,5,Villa,259,1933,,Aktuel værdi
+Ollerupvej 167182 Bredsten,sten,350.000,13-12-2001,Fam. Salg,2.692,5,Villa,130,2003,,Aktuel værdi
+Mejerivej 87182 Bredsten,sten,995.000,07-12-2001,Alm. Salg,6.815,5,Villa,146,1974,,Aktuel værdi
+Skovtoften 15B7182 Bredsten,sten,584.343,04-12-2001,Alm. Salg,7.214,3,Rækkehus,81,1987,,Aktuel værdi
+Østermarksvej 37182 Bredsten,sten,100.000,22-11-2001,Alm. Salg,636,6,Villa,157,1897,,Aktuel værdi
+Søgårdvej 37182 Bredsten,sten,1.525.000,20-11-2001,Alm. Salg,8.333,6,Stuehus,183,1827,,
+Smedens Ager 137182 Bredsten,sten,1.237.459,14-11-2001,Alm. Salg,6.688,7,Villa,185,1972,,Aktuel værdi
+Anton Berntsen Vej 137182 Bredsten,sten,1.292.449,25-10-2001,Alm. Salg,7.260,6,Villa,178,1990,,Aktuel værdi
+Bredstenvej 207182 Bredsten,sten,1.700.000,13-09-2001,Alm. Salg,8.717,6,Stuehus,195,1912,,
+Nybovej 377182 Bredsten,sten,230.000,06-08-2001,Alm. Salg,1.503,5,Villa,153,2002,,Aktuel værdi
+Engen 177182 Bredsten,sten,910.274,02-08-2001,Alm. Salg,10.003,5,Rækkehus,91,2001,,Aktuel værdi
+Anton Berntsen Vej 157182 Bredsten,sten,1.025.000,14-07-2001,Alm. Salg,6.788,6,Villa,151,1986,,Aktuel værdi
+Anton Berntsen Vej 187182 Bredsten,sten,700.000,01-07-2001,Fam. Salg,-,6,Villa,170,1997,,Aktuel værdi
+Nybovej 357182 Bredsten,sten,230.000,26-06-2001,Alm. Salg,1.144,6,Villa,201,2002,,Aktuel værdi
+Johan Skjoldborg Vej 277182 Bredsten,sten,840.000,25-06-2001,Alm. Salg,7.433,4,Villa,113,1977,,Aktuel værdi
+De Lichtenbergs Vej 357182 Bredsten,sten,1.457.500,15-06-2001,Alm. Salg,8.523,6,Villa,171,1990,,Aktuel værdi
+Johan Skjoldborg Vej 107182 Bredsten,sten,830.000,06-06-2001,Auktion,4.715,5,Villa,176,1976,,Aktuel værdi
+Skovtoften 377182 Bredsten,sten,1.000.000,30-05-2001,Alm. Salg,8.333,4,Villa,120,1986,,Aktuel værdi
+Anton Berntsen Vej 67182 Bredsten,sten,164.800,23-05-2001,Alm. Salg,1.121,5,Villa,147,2002,,Aktuel værdi
+Kirkegade 307182 Bredsten,sten,900.000,15-05-2001,Alm. Salg,7.258,4,Villa,124,1892,,Aktuel værdi
+Engen 377182 Bredsten,sten,902.920,08-05-2001,Alm. Salg,9.922,5,Rækkehus,91,2001,,Aktuel værdi
+Engen 137182 Bredsten,sten,895.000,17-04-2001,Alm. Salg,9.835,4,Rækkehus,91,2001,,Aktuel værdi
+Florasvej 17182 Bredsten,sten,898.850,14-04-2001,Alm. Salg,7.553,3,Villa,119,1935,,Aktuel værdi
+Elmevej 97182 Bredsten,sten,1.200.000,05-04-2001,Alm. Salg,7.142,6,Villa,168,1973,,Aktuel værdi
+Engen 297182 Bredsten,sten,907.107,05-04-2001,Alm. Salg,9.968,4,Rækkehus,91,2001,,Aktuel værdi
+Vejlevej 297182 Bredsten,sten,870.000,04-04-2001,Alm. Salg,8.055,4,Villa,108,1928,,Aktuel værdi
+Vestervang 17182 Bredsten,sten,1.081.552,03-04-2001,Alm. Salg,4.622,7,Villa,234,1936,,Aktuel værdi
+Møllegårdsvej 47182 Bredsten,sten,1.065.000,01-04-2001,Alm. Salg,9.102,4,Villa,117,1970,,Aktuel værdi
+Søskovvej 47182 Bredsten,sten,430.000,28-03-2001,Alm. Salg,1.586,13,Villa,271,1850,,Aktuel værdi
+Lindeparken 27182 Bredsten,sten,220.000,17-03-2001,Alm. Salg,1.718,4,Villa,128,2002,,Aktuel værdi
+Engelsholmvej 107182 Bredsten,sten,1.425.000,16-03-2001,Alm. Salg,-,8,BygningTilHandel,150,1884,,Aktuel værdi
+Ballevej 327182 Bredsten,sten,849.000,26-01-2001,Alm. Salg,6.431,7,Villa,132,1949,,Aktuel værdi
+Sødovervej 297182 Bredsten,sten,1.060.356,12-01-2001,Alm. Salg,6.129,6,Villa,173,1985,,Aktuel værdi
+Ballevej 837182 Bredsten,sten,1.250.000,27-12-2000,Fam. Salg,8.333,7,Stuehus,150,1929,,
+Engen 277182 Bredsten,sten,895.000,04-12-2000,Alm. Salg,9.835,5,Rækkehus,91,2001,,Aktuel værdi
+Sødover Tværvej 57182 Bredsten,sten,447.753,21-11-2000,Alm. Salg,2.713,6,Villa,165,1927,,Aktuel værdi
+Nybovej 457182 Bredsten,sten,1.221.000,21-11-2000,Alm. Salg,7.355,5,Villa,166,1997,,Aktuel værdi
+Jellingvej 27182 Bredsten,sten,442.250,16-11-2000,Alm. Salg,-,4,Villa,120,1877,,Aktuel værdi
+Ballevej 137182 Bredsten,sten,819.551,31-10-2000,Alm. Salg,4.268,5,Villa,192,1927,,Aktuel værdi
+Jeppe Åkjær Vej 217182 Bredsten,sten,1.045.000,19-10-2000,Alm. Salg,6.295,5,Villa,166,1976,,Aktuel værdi
+Skovtoften 47182 Bredsten,sten,1.399.341,04-10-2000,Alm. Salg,9.028,5,Villa,155,1986,,Aktuel værdi
+Lunden 57182 Bredsten,sten,685.000,14-09-2000,Alm. Salg,6.715,3,Villa,102,1965,,Aktuel værdi
+Kirkegade 127182 Bredsten,sten,320.000,30-08-2000,Alm. Salg,5.333,2,Villa,60,1897,,Aktuel værdi
+Billundvej 277182 Bredsten,sten,810.208,28-08-2000,Alm. Salg,5.474,4,Villa,148,1911,,Aktuel værdi
+Skovtoften 23A7182 Bredsten,sten,653.000,08-08-2000,Alm. Salg,8.061,3,Rækkehus,81,1986,,Aktuel værdi
+Johan Skjoldborg Vej 497182 Bredsten,sten,937.500,04-08-2000,Alm. Salg,7.440,4,Villa,126,1977,,Aktuel værdi
+Anton Berntsen Vej 347182 Bredsten,sten,1.423.406,03-08-2000,Alm. Salg,9.617,5,Villa,148,1997,,Aktuel værdi
+Skråvej 67182 Bredsten,sten,950.000,03-07-2000,Alm. Salg,5.428,5,Stuehus,175,2000,,
+Kirkegade 217182 Bredsten,sten,1.500.000,13-06-2000,Fam. Salg,6.250,8,Stuehus,240,1923,,
+Østermarksvej 87182 Bredsten,sten,691.344,04-06-2000,Alm. Salg,5.858,4,Villa,118,1877,,Aktuel værdi
+Bredstenvej 237182 Bredsten,sten,936.000,30-04-2000,Alm. Salg,4.703,8,Villa,199,1898,,Aktuel værdi
+Thit Jensen Vej 357182 Bredsten,sten,260.000,10-04-2000,Alm. Salg,1.125,7,Villa,231,2002,,Aktuel værdi
+Møllegårdsvej 87182 Bredsten,sten,528.076,24-03-2000,Fam. Salg,3.667,6,Villa,144,1972,,Aktuel værdi
+Lundskovvej 27182 Bredsten,sten,306.000,24-03-2000,Fam. Salg,4.707,3,Villa,65,1887,,Aktuel værdi
+Sødovervej 287182 Bredsten,sten,975.000,11-03-2000,Alm. Salg,10.833,3,Villa,90,1968,,Aktuel værdi
+Ravningvej 267182 Bredsten,sten,200.000,11-02-2000,Fam. Salg,930,5,Villa,215,1999,,Aktuel værdi
+Vejlevej 227182 Bredsten,sten,788.000,11-02-2000,Alm. Salg,6.566,4,Rækkehus,120,1900,,Aktuel værdi
+Skærhejselvej 187182 Bredsten,sten,787.500,10-02-2000,Alm. Salg,6.350,3,Stuehus,124,1900,,
+Kapselvej 57182 Bredsten,sten,782.271,08-02-2000,Alm. Salg,6.629,4,Villa,118,1955,,Aktuel værdi
+Thit Jensen Vej 97182 Bredsten,sten,210.000,04-01-2000,Alm. Salg,-,6,Villa,161,2000,,Aktuel værdi
+Billundvej 87182 Bredsten,sten,790.000,20-12-1999,Alm. Salg,4.566,4,Villa,173,1935,,Aktuel værdi
+Lindeparken 167182 Bredsten,sten,200.000,07-12-1999,Alm. Salg,1.257,5,Villa,159,2000,,Aktuel værdi
+Rolighedsvej 157182 Bredsten,sten,908.594,02-12-1999,Alm. Salg,3.833,7,Villa,237,1939,,Aktuel værdi
+Ravningvej 737182 Bredsten,sten,500.000,01-12-1999,Fam. Salg,-,4,Stuehus,205,1880,,
+Smedens Ager 147182 Bredsten,sten,1.525.000,24-11-1999,Fam. Salg,9.472,4,Villa,161,1972,,Aktuel værdi
+Sødovervej 57182 Bredsten,sten,1.300.000,22-11-1999,Fam. Salg,4.482,6,Stuehus,290,1877,,
+Elmevej 77182 Bredsten,sten,1.220.000,08-11-1999,Alm. Salg,6.815,6,Villa,179,1973,,Aktuel værdi
+Thit Jensen Vej 57182 Bredsten,sten,220.000,25-10-1999,Alm. Salg,1.392,5,Villa,158,2000,,Aktuel værdi
+Vestervej 57182 Bredsten,sten,350.000,23-10-1999,Alm. Salg,1.851,7,Villa,189,2008,,Aktuel værdi
+Dyrehavevej 5A7182 Bredsten,sten,799.000,05-10-1999,Alm. Salg,-,6,Villa,154,1988,,Aktuel værdi
+Kærbøllingvej 1257182 Bredsten,sten,846.000,25-09-1999,Alm. Salg,3.192,7,Villa,265,1897,,Aktuel værdi
+Nybovej 517182 Bredsten,sten,162.200,24-09-1999,Alm. Salg,1.001,5,Villa,162,2000,,Aktuel værdi
+Skovtoften 27182 Bredsten,sten,1.045.000,31-08-1999,Alm. Salg,6.531,6,Villa,160,1988,,Aktuel værdi
+Elmevej 37182 Bredsten,sten,815.000,29-08-1999,Alm. Salg,6.269,5,Villa,130,1967,,Aktuel værdi
+Lupinvej 57182 Bredsten,sten,665.433,09-08-1999,Alm. Salg,8.423,4,Villa,79,1957,,Aktuel værdi
+Anton Berntsen Vej 307182 Bredsten,sten,1.304.814,26-07-1999,Alm. Salg,-,7,Villa,177,1995,,Aktuel værdi
+Bredstenlundvej 227182 Bredsten,sten,870.023,15-07-1999,Alm. Salg,4.627,5,Villa,188,1960,,Aktuel værdi
+Billundvej 627182 Bredsten,sten,415.000,03-07-1999,Alm. Salg,1.844,6,Villa,225,1938,,Aktuel værdi
+Florasvej 67182 Bredsten,sten,1.335.000,28-06-1999,Alm. Salg,6.297,4,Villa,212,1973,,Aktuel værdi
+Thit Jensen Vej 317182 Bredsten,sten,210.000,24-06-1999,Alm. Salg,1.372,5,Villa,153,1999,,Aktuel værdi
+Vestervej 67182 Bredsten,sten,451.000,19-06-1999,Alm. Salg,5.305,3,Villa,85,1897,,Aktuel værdi
+Kærbøllingvej 67182 Bredsten,sten,457.000,14-05-1999,Alm. Salg,-,6,Villa,167,1800,,Aktuel værdi
+Vesterløkke 287182 Bredsten,sten,970.001,26-04-1999,Alm. Salg,5.739,5,Villa,169,1978,,Aktuel værdi
+Thit Jensen Vej 237182 Bredsten,sten,230.000,22-04-1999,Alm. Salg,1.277,7,Villa,180,1999,,Aktuel værdi
+Thit Jensen Vej 397182 Bredsten,sten,270.000,19-04-1999,Alm. Salg,1.719,5,Villa,157,1999,,Aktuel værdi
+Anton Berntsen Vej 47182 Bredsten,sten,1.340.111,16-04-1999,Alm. Salg,9.572,5,Villa,140,1997,,Aktuel værdi
+Johan Skjoldborg Vej 117182 Bredsten,sten,1.250.000,12-03-1999,Alm. Salg,5.434,6,Villa,230,1975,,Aktuel værdi
+Lildfrostvej 57182 Bredsten,sten,393.691,25-02-1999,Alm. Salg,1.781,6,Villa,221,2001,,Aktuel værdi
+Tørskindvej 17182 Bredsten,sten,421.147,15-01-1999,Alm. Salg,3.828,4,Villa,110,1942,,Aktuel værdi
+Kirkegade 347182 Bredsten,sten,769.000,07-12-1998,Alm. Salg,5.340,4,Villa,144,1913,,Aktuel værdi
+Thit Jensen Vej 337182 Bredsten,sten,200.000,30-11-1998,Alm. Salg,1.418,5,Villa,141,1999,,Aktuel værdi
+Møllevænget 37182 Bredsten,sten,405.786,27-11-1998,Alm. Salg,-,7,Villa,188,1968,,Aktuel værdi
+Tørskindvej 107182 Bredsten,sten,714.000,04-11-1998,Alm. Salg,5.852,4,Villa,122,1967,,Aktuel værdi
+Rolighedsvej 127182 Bredsten,sten,710.000,29-10-1998,Fam. Salg,5.144,5,Villa,138,1976,,Aktuel værdi
+Sødovervej 347182 Bredsten,sten,1.915.000,28-10-1998,Alm. Salg,-,9,Stuehus,291,1910,,
+Anton Berntsen Vej 217182 Bredsten,sten,1.540.000,21-10-1998,Alm. Salg,8.850,6,Villa,174,1986,,Aktuel værdi
+Skovtoften 297182 Bredsten,sten,1.085.000,09-10-1998,Alm. Salg,7.482,6,Villa,145,1985,,Aktuel værdi
+Thit Jensen Vej 417182 Bredsten,sten,275.000,29-09-1998,Alm. Salg,1.687,5,Villa,163,1999,,Aktuel værdi
+Billundvej 287182 Bredsten,sten,500.000,25-09-1998,Alm. Salg,2.808,7,Villa,178,1930,,Aktuel værdi
+Skovtoften 147182 Bredsten,sten,853.385,23-09-1998,Alm. Salg,5.926,5,Villa,144,1979,,Aktuel værdi
+De Lichtenbergs Vej 177182 Bredsten,sten,1.308.000,21-09-1998,Alm. Salg,6.848,5,Villa,191,1914,,Aktuel værdi
+Ballevej 1027182 Bredsten,sten,2.064.138,08-09-1998,Fam. Salg,12.900,6,Stuehus,160,1938,,
+Kærbøllinghusevej 207182 Bredsten,sten,535.000,07-09-1998,Alm. Salg,5.815,3,Villa,92,1937,,Aktuel værdi
+Ballevej 197182 Bredsten,sten,1.095.000,21-08-1998,Alm. Salg,7.064,5,Villa,155,1973,,Aktuel værdi
+Vejlevej 197182 Bredsten,sten,607.000,20-08-1998,Alm. Salg,7.226,3,Villa,84,1900,,Aktuel værdi
+Nybovej 437182 Bredsten,sten,1.344.000,14-08-1998,Alm. Salg,8.727,5,Villa,154,1997,,Aktuel værdi
+Thit Jensen Vej 257182 Bredsten,sten,200.000,31-07-1998,Alm. Salg,1.307,5,Villa,153,1999,,Aktuel værdi
+Thit Jensen Vej 377182 Bredsten,sten,280.000,13-07-1998,Alm. Salg,1.879,5,Villa,149,1998,,Aktuel værdi
+Mølletoften 5C7182 Bredsten,sten,800.000,08-06-1998,Fam. Salg,4.761,5,Villa,168,1979,,Aktuel værdi
+Lindeparken 77182 Bredsten,sten,275.000,05-06-1998,Alm. Salg,1.341,5,Villa,205,2000,,Aktuel værdi
+Ravningvej 597182 Bredsten,sten,90.000,04-06-1998,Auktion,737,5,Villa,122,1870,,Aktuel værdi
+Lindeparken 37182 Bredsten,sten,250.000,27-05-1998,Alm. Salg,1.497,5,Villa,167,2000,,Aktuel værdi
+Lindeparken 47182 Bredsten,sten,195.000,13-05-1998,Alm. Salg,1.189,5,Villa,164,1999,,Aktuel værdi
+Vesterløkke 127182 Bredsten,sten,536.000,04-05-1998,Alm. Salg,2.552,6,Villa,210,1978,,Aktuel værdi
+Kærbølling Skovvej 47182 Bredsten,sten,481.300,02-05-1998,Alm. Salg,2.455,9,Villa,196,1977,,Aktuel værdi
+Vingsted Skovvej 117182 Bredsten,sten,892.500,28-04-1998,Alm. Salg,-,6,Villa,281,1990,,Aktuel værdi
+Skovtoften 127182 Bredsten,sten,1.100.000,25-04-1998,Alm. Salg,6.111,5,Villa,180,1980,,Aktuel værdi
+Nybovej 797182 Bredsten,sten,210.000,11-04-1998,Fam. Salg,1.200,5,Villa,175,1998,,Aktuel værdi
+Ballevej 887182 Bredsten,sten,236.475,24-03-1998,Alm. Salg,2.463,4,Stuehus,96,1862,,
+Skovvej 217182 Bredsten,sten,934.000,09-03-1998,Alm. Salg,5.949,3,Villa,157,1971,,Aktuel værdi
+Lildfrostvej 37182 Bredsten,sten,125.000,05-03-1998,Alm. Salg,516,10,Stuehus,242,1863,,
+Jellingvej 127182 Bredsten,sten,655.000,02-03-1998,Alm. Salg,9.097,5,Villa,72,1959,,Aktuel værdi
+Lindeparken 57182 Bredsten,sten,234.725,10-02-1998,Alm. Salg,1.504,5,Villa,156,1998,,Aktuel værdi
+De Lichtenbergs Vej 347182 Bredsten,sten,623.802,06-02-1998,Fam. Salg,3.465,5,Stuehus,180,1880,,
+Jellingvej 47182 Bredsten,sten,779.800,19-01-1998,Alm. Salg,3.481,10,Villa,224,1917,,Aktuel værdi
+Anton Berntsen Vej 427182 Bredsten,sten,1.371.000,05-01-1998,Alm. Salg,8.732,4,Villa,157,1986,,Aktuel værdi
+Anton Berntsen Vej 167182 Bredsten,sten,129.000,29-12-1997,Alm. Salg,786,6,Villa,164,1998,,Aktuel værdi
+Nybovej 537182 Bredsten,sten,151.925,10-12-1997,Alm. Salg,1.006,5,Villa,151,1998,,Aktuel værdi
+Skovtoften 57182 Bredsten,sten,809.500,04-12-1997,Alm. Salg,6.581,4,Villa,123,1984,,Aktuel værdi
+Dyrehavevej 87182 Bredsten,sten,874.000,16-11-1997,Alm. Salg,5.265,6,Villa,166,1967,,Aktuel værdi
+Smedens Ager 37182 Bredsten,sten,957.500,12-11-1997,Alm. Salg,5.066,5,Villa,189,1972,,Aktuel værdi
+Jeppe Åkjær Vej 127182 Bredsten,sten,779.000,31-10-1997,Alm. Salg,7.212,4,Villa,108,1976,,Aktuel værdi
+Anton Berntsen Vej 127182 Bredsten,sten,111.700,03-10-1997,Alm. Salg,786,4,Villa,142,1998,,Aktuel værdi
+Smedens Ager 97182 Bredsten,sten,890.000,01-10-1997,Alm. Salg,5.235,6,Villa,170,1973,,Aktuel værdi
+Hærvejen 897182 Bredsten,sten,1.423.692,18-09-1997,Alm. Salg,-,7,Stuehus,242,1925,,
+Vejlevej 157182 Bredsten,sten,615.000,15-09-1997,Alm. Salg,-,6,Villa,138,1850,,Aktuel værdi
+Jellingvej 217182 Bredsten,sten,520.000,09-09-1997,Fam. Salg,-,7,Stuehus,193,1904,,
+Anton Berntsen Vej 27182 Bredsten,sten,139.800,08-09-1997,Alm. Salg,1.109,5,Villa,126,1998,,Aktuel værdi
+Kærbøllingvej 27182 Bredsten,sten,784.750,27-08-1997,Alm. Salg,7.069,5,Villa,111,1922,,Aktuel værdi
+Ballevej 1057182 Bredsten,sten,7.250.000,13-08-1997,Alm. Salg,38.157,6,Stuehus,190,1991,,
+Ballevej 587182 Bredsten,sten,430.000,01-08-1997,Alm. Salg,1.936,8,Villa,222,1931,,Aktuel værdi
+Sødovervej 117182 Bredsten,sten,315.000,30-06-1997,Fam. Salg,1.492,5,Villa,211,1925,,Aktuel værdi
+Mejerivej 17182 Bredsten,sten,908.000,27-06-1997,Alm. Salg,4.656,9,Villa,195,1927,,Aktuel værdi
+Smedens Ager 207182 Bredsten,sten,1.045.000,30-05-1997,Alm. Salg,6.830,4,Villa,153,1973,,Aktuel værdi
+Molsgårdvej 107182 Bredsten,sten,375.000,06-05-1997,Alm. Salg,1.829,6,Stuehus,205,1919,,
+De Lichtenbergs Vej 47182 Bredsten,sten,659.000,30-04-1997,Alm. Salg,6.793,4,Villa,97,1950,,Aktuel værdi
+Lundskovvej 57182 Bredsten,sten,357.500,30-04-1997,Alm. Salg,1.380,7,Stuehus,259,1970,,
+Kærbølling Skovvej 97182 Bredsten,sten,700.000,31-03-1997,Fam. Salg,3.571,7,Stuehus,196,1962,,
+Skovvej 87182 Bredsten,sten,600.000,20-03-1997,Alm. Salg,6.818,4,Villa,88,1968,,Aktuel værdi
+Sødovervej 157182 Bredsten,sten,875.013,11-03-1997,Alm. Salg,-,6,Villa,185,1965,,Aktuel værdi
+Nybovej 857182 Bredsten,sten,122.300,10-03-1997,Alm. Salg,636,5,Villa,192,1998,,Aktuel værdi
+Østermarksvej 127182 Bredsten,sten,314.608,06-03-1997,Alm. Salg,1.417,7,Stuehus,222,1928,,
+Billundvej 107182 Bredsten,sten,654.000,03-03-1997,Alm. Salg,-,6,Villa,170,1944,,Aktuel værdi
+Billundvej 487182 Bredsten,sten,300.000,25-02-1997,Fam. Salg,2.884,4,Villa,104,1877,,Aktuel værdi
+De Lichtenbergs Vej 217182 Bredsten,sten,933.975,03-01-1997,Alm. Salg,4.008,7,Villa,233,1927,,Aktuel værdi
+Johan Skjoldborg Vej 637182 Bredsten,sten,930.000,03-01-1997,Alm. Salg,6.549,5,Villa,142,1977,,Aktuel værdi
+Ravningvej 487182 Bredsten,sten,622.000,03-01-1997,Alm. Salg,3.362,6,Villa,185,1938,,Aktuel værdi
+Bredstenvej 377182 Bredsten,sten,4.380.006,03-01-1997,Alm. Salg,16.043,11,Stuehus,273,1917,,
+Anton Berntsen Vej 207182 Bredsten,sten,174.060,16-12-1996,Alm. Salg,1.074,6,Villa,162,1997,,Aktuel værdi
+Jellingvej 87182 Bredsten,sten,651.396,25-11-1996,Alm. Salg,3.464,8,Villa,188,1965,,Aktuel værdi
+Ballevej 947182 Bredsten,sten,121.000,21-11-1996,Auktion,1.512,3,Villa,80,1852,,Aktuel værdi
+Johan Skjoldborg Vej 37182 Bredsten,sten,724.000,21-11-1996,Fam. Salg,5.134,5,Villa,141,1975,,Aktuel værdi
+Ballevej 547182 Bredsten,sten,421.727,29-10-1996,Alm. Salg,2.525,7,Villa,167,1918,,Aktuel værdi
+Vestervang 97182 Bredsten,sten,673.000,23-10-1996,Alm. Salg,5.060,5,Villa,133,1965,,Aktuel værdi
+"Ballevej 24B, ST. 47182 Bredsten",sten,4.825.000,21-10-1996,Alm. Salg,55.459,2,Lejlighed,87,1938,,Aktuel værdi
+Billundvej 327182 Bredsten,sten,425.000,04-10-1996,Alm. Salg,3.244,5,Villa,131,1940,,Aktuel værdi
+Anton Berntsen Vej 267182 Bredsten,sten,127.046,26-09-1996,Alm. Salg,824,5,Villa,154,1997,,Aktuel værdi
+De Lichtenbergs Vej 267182 Bredsten,sten,400.000,25-09-1996,Fam. Salg,-,6,Villa,170,1905,,Aktuel værdi
+Buen 77182 Bredsten,sten,695.000,14-08-1996,Alm. Salg,3.971,8,Villa,175,1965,,Aktuel værdi
+Sødover Tværvej 1A7182 Bredsten,sten,240.000,06-08-1996,Alm. Salg,1.085,5,Villa,221,2001,,Aktuel værdi
+Møllegårdsvej 117182 Bredsten,sten,707.500,05-08-1996,Alm. Salg,4.685,4,Villa,151,1970,,Aktuel værdi
+Skyttevej 117182 Bredsten,sten,95.000,05-08-1996,Alm. Salg,390,6,Villa,243,1998,,Aktuel værdi
+Kærbøllinghusevej 397182 Bredsten,sten,995.000,22-07-1996,Alm. Salg,-,3,Stuehus,130,1930,,
+Skovvej 657182 Bredsten,sten,1.875.000,10-07-1996,Alm. Salg,6.768,9,Stuehus,277,1840,,
+Balle Nørremarksvej 27182 Bredsten,sten,800.000,06-06-1996,Fam. Salg,5.442,5,Stuehus,147,1924,,
+Johan Skjoldborg Vej 667182 Bredsten,sten,1.230.000,30-05-1996,Alm. Salg,8.145,5,Villa,151,1979,,Aktuel værdi
+Smedens Ager 167182 Bredsten,sten,775.000,09-05-1996,Alm. Salg,5.032,6,Villa,154,1972,,Aktuel værdi
+Smedens Ager 237182 Bredsten,sten,802.600,08-05-1996,Alm. Salg,3.262,9,Villa,246,1972,,Aktuel værdi
+Ørskovvej 47182 Bredsten,sten,986.000,03-04-1996,Alm. Salg,4.091,6,Stuehus,241,1959,,
+Nybovej 877182 Bredsten,sten,110.000,21-03-1996,Alm. Salg,758,6,Villa,145,1996,,Aktuel værdi
+Smedens Ager 227182 Bredsten,sten,932.000,19-03-1996,Alm. Salg,6.472,5,Villa,144,1973,,Aktuel værdi
+Anton Berntsen Vej 107182 Bredsten,sten,137.835,15-03-1996,Alm. Salg,957,5,Villa,144,1996,,Aktuel værdi
+Anton Berntsen Vej 117182 Bredsten,sten,960.000,15-03-1996,Alm. Salg,-,5,Villa,143,1986,,Aktuel værdi
+Skovtoften 337182 Bredsten,sten,1.082.200,08-03-1996,Alm. Salg,7.166,5,Villa,151,1985,,Aktuel værdi
+Balle Vestvej 17182 Bredsten,sten,1.253.500,23-02-1996,Alm. Salg,5.595,8,Villa,224,1978,,Aktuel værdi
+Skovvej 177182 Bredsten,sten,65.000,17-01-1996,Alm. Salg,496,4,Villa,131,1996,,Aktuel værdi
+"Billundvej 33C, 17182 Bredsten",sten,2.224.350,21-12-1995,Alm. Salg,7.750,7,Lejlighed,287,1978,,Aktuel værdi
+Ravning Skovvej 17182 Bredsten,sten,965.000,17-12-1995,Alm. Salg,5.000,5,Stuehus,193,1912,,
+Johan Skjoldborg Vej 287182 Bredsten,sten,888.000,10-12-1995,Alm. Salg,4.748,8,Villa,187,1978,,Aktuel værdi
+Florasvej 37182 Bredsten,sten,233.830,07-12-1995,Alm. Salg,1.452,5,Villa,161,1926,,Aktuel værdi
+Kærbøllinghusevej 27182 Bredsten,sten,722.000,17-11-1995,Alm. Salg,5.270,4,Villa,137,1951,,Aktuel værdi
+Lihmskovvej 127182 Bredsten,sten,719.000,04-10-1995,Alm. Salg,5.530,4,Villa,130,1777,,Aktuel værdi
+Johan Skjoldborg Vej 517182 Bredsten,sten,701.000,19-09-1995,Alm. Salg,6.258,4,Villa,112,1977,,Aktuel værdi
+Elmevej 67182 Bredsten,sten,970.000,08-09-1995,Alm. Salg,4.801,7,Villa,202,1972,,Aktuel værdi
+Dyrehavevej 167182 Bredsten,sten,750.000,08-09-1995,Alm. Salg,4.189,6,Villa,179,1968,,Aktuel værdi
+Søbakken 107182 Bredsten,sten,915.000,28-08-1995,Alm. Salg,5.613,5,Stuehus,163,1932,,
+Møllegårdsvej 17182 Bredsten,sten,625.000,02-08-1995,Alm. Salg,-,4,Villa,130,1971,,Aktuel værdi
+Dyrehavevej 97182 Bredsten,sten,380.000,01-08-1995,Fam. Salg,3.917,3,Villa,97,1952,,Aktuel værdi
+Jennumvej 2447182 Bredsten,sten,314.969,31-07-1995,Alm. Salg,2.157,4,Stuehus,146,1856,,
+Rolighedsvej 17182 Bredsten,sten,354.000,21-07-1995,Alm. Salg,-,6,Villa,140,1927,,Aktuel værdi
+Anton Berntsen Vej 97182 Bredsten,sten,949.000,07-07-1995,Alm. Salg,6.284,5,Villa,151,1986,,Aktuel værdi
+Vejlevej 107182 Bredsten,sten,285.000,07-07-1995,Alm. Salg,2.968,6,Villa,96,1907,,Aktuel værdi
+Vejlevej 127182 Bredsten,sten,871.000,07-07-1995,Alm. Salg,3.003,14,Villa,290,1907,,Aktuel værdi
+Molsgårdvej 127182 Bredsten,sten,505.000,30-06-1995,Alm. Salg,5.260,3,Stuehus,96,1914,,
+Hærvejen 977182 Bredsten,sten,950.000,23-06-1995,Alm. Salg,-,8,Stuehus,255,1920,,
+Smedens Ager 187182 Bredsten,sten,832.000,22-06-1995,Alm. Salg,4.894,5,Villa,170,1974,,Aktuel værdi
+Rolighedsvej 77182 Bredsten,sten,20.000,06-06-1995,Alm. Salg,139,5,Villa,143,2003,,Aktuel værdi
+Johan Skjoldborg Vej 387182 Bredsten,sten,780.000,26-05-1995,Alm. Salg,3.959,8,Villa,197,1980,,Aktuel værdi
+Johan Skjoldborg Vej 357182 Bredsten,sten,667.800,15-05-1995,Alm. Salg,-,5,Villa,155,1977,,Aktuel værdi
+Søbakken 57182 Bredsten,sten,500.000,12-05-1995,Alm. Salg,2.369,4,Stuehus,211,1860,,
+Kirkegade 187182 Bredsten,sten,565.000,17-04-1995,Alm. Salg,2.897,5,Villa,195,1905,,Aktuel værdi
+Ladegårdvej 87182 Bredsten,sten,1.160.000,12-04-1995,Alm. Salg,5.132,7,Stuehus,226,1939,,
+Anton Berntsen Vej 17182 Bredsten,sten,1.085.000,07-04-1995,Alm. Salg,7.091,6,Villa,153,1990,,Aktuel værdi
+Skærhejselvej 147182 Bredsten,sten,1.132.325,16-03-1995,Alm. Salg,8.846,7,Stuehus,128,1911,,
+Vesterløkke 77182 Bredsten,sten,510.000,10-03-1995,Alm. Salg,4.285,4,Villa,119,1969,,Aktuel værdi
+Dyrehavevej 47182 Bredsten,sten,207.820,02-03-1995,Alm. Salg,1.315,5,Villa,158,1943,,Aktuel værdi
+Mejerivej 197182 Bredsten,sten,331.500,01-03-1995,Fam. Salg,2.907,4,Villa,114,1963,,Aktuel værdi
+Kirkegade 147182 Bredsten,sten,325.000,07-02-1995,Fam. Salg,-,6,Villa,202,1880,,Aktuel værdi
+Hærvejen 967182 Bredsten,sten,65.000,06-02-1995,Alm. Salg,-,6,Stuehus,120,1898,,
+Lihmskovvej 217182 Bredsten,sten,698.000,31-01-1995,Alm. Salg,-,9,Stuehus,313,1800,,
+Hærvejen 707182 Bredsten,sten,120.000,23-12-1994,Alm. Salg,628,6,Stuehus,191,1962,,
+Møllegårdsvej 127182 Bredsten,sten,640.000,05-12-1994,Alm. Salg,4.025,3,Villa,159,1972,,Aktuel værdi
+Elmevej 207182 Bredsten,sten,565.000,02-12-1994,Alm. Salg,4.631,4,Villa,122,1972,,Aktuel værdi
+Billundvej 37182 Bredsten,sten,418.000,15-11-1994,Alm. Salg,3.666,3,Villa,114,1916,,Aktuel værdi
+Kærbøllinghusevej 647182 Bredsten,sten,730.000,07-11-1994,Alm. Salg,5.840,5,Villa,125,1971,,Aktuel værdi
+Ballevej 457182 Bredsten,sten,327.890,27-10-1994,Alm. Salg,4.098,3,Rækkehus,80,1950,,Aktuel værdi
+Johan Skjoldborg Vej 187182 Bredsten,sten,782.000,26-10-1994,Alm. Salg,4.980,5,Villa,157,1977,,Aktuel værdi
+Buen 157182 Bredsten,sten,286.000,30-08-1994,Alm. Salg,5.107,2,Villa,56,1966,,Aktuel værdi
+Ballevej 117182 Bredsten,sten,530.000,02-08-1994,Alm. Salg,2.355,7,Villa,225,1924,,Aktuel værdi
+Ballevej 297182 Bredsten,sten,1.030.000,29-07-1994,Fam. Salg,4.439,9,Stuehus,232,1925,,
+Hærvejen 927182 Bredsten,sten,786.000,08-07-1994,Alm. Salg,3.275,8,Stuehus,240,1911,,
+Elmevej 227182 Bredsten,sten,612.176,27-06-1994,Alm. Salg,4.534,4,Villa,135,1973,,Aktuel værdi
+Anton Berntsen Vej 327182 Bredsten,sten,146.970,15-06-1994,Alm. Salg,1.020,6,Villa,144,1995,,Aktuel værdi
+Sødovervej 97182 Bredsten,sten,652.000,06-06-1994,Alm. Salg,5.258,5,Stuehus,124,1885,,
+Bredstenvej 327182 Bredsten,sten,580.639,02-06-1994,Fam. Salg,3.795,5,Stuehus,153,1998,,
+Jellingvej 447182 Bredsten,sten,100.000,23-05-1994,Alm. Salg,719,7,Stuehus,139,1884,,
+Ballevej 537182 Bredsten,sten,295.000,19-05-1994,Alm. Salg,1.586,5,Villa,186,1944,,Aktuel værdi
+Dyrehavevej 5B7182 Bredsten,sten,475.000,13-04-1994,Alm. Salg,3.710,4,Villa,128,1867,,Aktuel værdi
+Østermarksvej 147182 Bredsten,sten,550.000,08-04-1994,Alm. Salg,4.621,3,Villa,119,1934,,Aktuel værdi
+Bredstenvej 577182 Bredsten,sten,850.000,24-03-1994,Alm. Salg,3.794,6,Stuehus,224,1879,,
+Kærbøllingvej 1127182 Bredsten,sten,39.666,23-03-1994,Fam. Salg,1.469,2,Sommerhus,27,1981,,Aktuel værdi
+Billundvej 217182 Bredsten,sten,430.000,18-03-1994,Alm. Salg,2.721,5,Villa,158,1958,,Aktuel værdi
+Rolighedsvej 137182 Bredsten,sten,490.000,20-02-1994,Alm. Salg,-,2,Villa,208,1923,,Aktuel værdi
+Søgårdvej 47182 Bredsten,sten,1.217.100,24-01-1994,Alm. Salg,5.482,7,Villa,222,1777,,Aktuel værdi
+Elmevej 127182 Bredsten,sten,515.000,19-12-1993,Alm. Salg,-,6,Villa,178,1972,,Aktuel værdi
+Mejerivej 177182 Bredsten,sten,573.000,23-11-1993,Alm. Salg,5.305,5,Villa,108,1961,,Aktuel værdi
+Johan Skjoldborg Vej 227182 Bredsten,sten,850.000,22-11-1993,Alm. Salg,4.271,7,Villa,199,1976,,Aktuel værdi
+Johan Skjoldborg Vej 557182 Bredsten,sten,692.000,28-10-1993,Alm. Salg,3.512,7,Villa,197,1977,,Aktuel værdi
+Elmevej 47182 Bredsten,sten,662.400,14-10-1993,Alm. Salg,4.731,4,Villa,140,1970,,Aktuel værdi
+Vestervang 77182 Bredsten,sten,315.000,26-09-1993,Alm. Salg,3.500,3,Villa,90,1963,,Aktuel værdi
+Elmevej 27182 Bredsten,sten,675.500,16-09-1993,Alm. Salg,3.171,7,Villa,213,1970,,Aktuel værdi
+Mejerivej 37182 Bredsten,sten,525.000,11-09-1993,Alm. Salg,3.804,5,Villa,138,1933,,Aktuel værdi
+Bredstenvej 447182 Bredsten,sten,385.000,10-08-1993,Alm. Salg,1.868,5,Villa,206,2002,,Aktuel værdi
+Skovtoften 87182 Bredsten,sten,735.000,04-08-1993,Alm. Salg,5.880,5,Villa,125,1986,,Aktuel værdi
+Lildfrostvej 17182 Bredsten,sten,850.000,04-08-1993,Alm. Salg,-,10,Stuehus,190,1860,,
+Buen 107182 Bredsten,sten,380.000,09-07-1993,Alm. Salg,-,6,Villa,165,1966,,Aktuel værdi
+Vingsted Skovvej 157182 Bredsten,sten,850.000,15-06-1993,Alm. Salg,3.244,6,Villa,262,1957,,Aktuel værdi
+Mejerivej 127182 Bredsten,sten,575.000,03-06-1993,Alm. Salg,6.182,5,Villa,93,1912,,Aktuel værdi
+Anton Berntsen Vej 387182 Bredsten,sten,140.000,29-03-1993,Alm. Salg,1.000,4,Villa,140,1993,,Aktuel værdi
+Skærhejselvej 227182 Bredsten,sten,825.000,26-02-1993,Alm. Salg,5.769,4,Villa,143,1914,,Aktuel værdi
+Rolighedsvej 37182 Bredsten,sten,250.000,17-02-1993,Fam. Salg,-,3,Villa,120,1950,,Aktuel værdi
+Steen Blicher Vej 217182 Bredsten,sten,185.000,12-02-1993,Alm. Salg,1.868,3,Rækkehus,99,1982,,Aktuel værdi
+Ollerupvej 187182 Bredsten,sten,1.412.667,08-02-1993,Alm. Salg,6.570,7,Villa,215,2008,,Aktuel værdi
+Vejlevej 247182 Bredsten,sten,658.800,23-12-1992,Alm. Salg,2.524,9,Villa,261,1912,,Aktuel værdi
+Balle Nørremarksvej 57182 Bredsten,sten,515.000,07-12-1992,Alm. Salg,3.601,4,Stuehus,143,1909,,
+"Ballevej 2, 17182 Bredsten",sten,275.000,15-09-1992,Alm. Salg,3.571,2,Lejlighed,77,1900,,Aktuel værdi
+Søskovvej 67182 Bredsten,sten,650.000,20-06-1992,Alm. Salg,-,3,Stuehus,136,1868,,
+Jellingvej 297182 Bredsten,sten,535.000,10-06-1992,Alm. Salg,-,6,Villa,160,1912,,Aktuel værdi
+Lille Ravningvej 87182 Bredsten,sten,585.000,26-05-1992,Alm. Salg,3.545,5,Villa,165,1899,,Aktuel værdi
+Balle Nørremarksvej 107182 Bredsten,sten,640.000,21-05-1992,Alm. Salg,3.720,5,Villa,172,1928,,Aktuel værdi
+Kirkegade 227182 Bredsten,sten,425.000,31-03-1992,Alm. Salg,2.931,9,Villa,145,1900,,Aktuel værdi

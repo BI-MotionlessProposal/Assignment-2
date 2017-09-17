@@ -1,0 +1,694 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+"Skovbakken 9, ST. 68766 Nørre Snede",nede,475.000,27-04-2017,Alm. Salg,5.163,3,Lejlighed,92,1949,,
+"Skovbakken 9, 2. 188766 Nørre Snede",nede,525.000,18-04-2017,Alm. Salg,5.048,3,Lejlighed,104,1949,,
+"Skovbakken 9, ST. 98766 Nørre Snede",nede,450.000,05-04-2017,Alm. Salg,5.056,3,Lejlighed,89,1949,,
+Silkeborgvej 278766 Nørre Snede,nede,200.000,24-03-2017,Alm. Salg,1.333,5,Villa,150,1965,-32 %,Aktuel værdi
+Svinget 108766 Nørre Snede,nede,650.000,16-03-2017,Alm. Salg,5.963,4,Villa,109,1959,-18 %,Aktuel værdi
+Anlægsvej 168766 Nørre Snede,nede,575.000,06-03-2017,Alm. Salg,5.867,3,Villa,98,1964,-11 %,Aktuel værdi
+Skovdalen 138766 Nørre Snede,nede,200.000,28-02-2017,Alm. Salg,2.857,2,Villa,70,2011,,Aktuel værdi
+Lindbjerg Alle 158766 Nørre Snede,nede,616.500,14-02-2017,Alm. Salg,4.110,5,Villa,150,1974,,Aktuel værdi
+Viborgvej 508766 Nørre Snede,nede,1.500.000,10-02-2017,Fam. Salg,6.355,5,Stuehus,236,2013,,
+Rørbækvej 38766 Nørre Snede,nede,350.000,31-01-2017,Alm. Salg,3.804,4,Villa,92,1905,,Aktuel værdi
+Brandevej 98766 Nørre Snede,nede,1.600.000,27-01-2017,Alm. Salg,19.753,4,Stuehus,81,1882,-14 %,
+Liljevej 18766 Nørre Snede,nede,338.654,24-01-2017,Alm. Salg,2.798,4,Villa,121,1969,,Aktuel værdi
+Skovbakken 138766 Nørre Snede,nede,592.000,23-01-2017,Fam. Salg,3.723,6,Villa,159,1953,,Aktuel værdi
+Silkeborgvej 148766 Nørre Snede,nede,239.350,16-01-2017,Alm. Salg,1.083,5,Stuehus,221,1942,-87 %,
+Godthåbvej 68766 Nørre Snede,nede,725.964,14-01-2017,Andet,7.890,4,Villa,92,1920,,Aktuel værdi
+Kildebakken 198766 Nørre Snede,nede,939.500,13-01-2017,Fam. Salg,4.970,5,Villa,189,2006,,Aktuel værdi
+Vibevej 68766 Nørre Snede,nede,785.000,09-01-2017,Alm. Salg,5.607,4,Villa,140,1965,-12 %,Aktuel værdi
+Velgårdevej 88766 Nørre Snede,nede,525.000,12-12-2016,Alm. Salg,6.907,3,Villa,76,1966,-12 %,Aktuel værdi
+Kildebakken 248766 Nørre Snede,nede,1.595.000,08-12-2016,Alm. Salg,11.727,4,Villa,136,1997,-6 %,Aktuel værdi
+Silkeborgvej 68766 Nørre Snede,nede,1.360.000,04-12-2016,Fam. Salg,8.343,4,Stuehus,163,1979,,
+Rørbækvej 268766 Nørre Snede,nede,5.375.000,04-12-2016,Alm. Salg,42.658,4,Stuehus,126,1920,,
+Lindbjerg Alle 148766 Nørre Snede,nede,625.000,01-12-2016,Alm. Salg,4.139,4,Villa,151,1973,-24 %,Aktuel værdi
+Engholmvej 208766 Nørre Snede,nede,550.000,29-11-2016,Alm. Salg,4.583,3,Villa,120,1969,-26 %,Aktuel værdi
+Ørnevej 148766 Nørre Snede,nede,850.000,27-11-2016,Fam. Salg,4.670,7,Villa,182,1964,-26 %,Aktuel værdi
+Højtoftegade 168766 Nørre Snede,nede,1.200.000,22-11-2016,Alm. Salg,5.607,5,Villa,214,1963,-7 %,Aktuel værdi
+Horsensvej 68766 Nørre Snede,nede,2.300.000,04-11-2016,Alm. Salg,17.829,6,Villa,129,1927,,Aktuel værdi
+Godthåbvej 48766 Nørre Snede,nede,205.964,30-10-2016,Fam. Salg,858,5,Stuehus,240,1924,,
+Viborgvej 548766 Nørre Snede,nede,913.933,10-10-2016,Andet,3.808,6,Stuehus,240,1937,,
+Kejlstrupvej 38766 Nørre Snede,nede,1.740.000,30-09-2016,Alm. Salg,5.704,10,Villa,305,1919,-6 %,Aktuel værdi
+Krondalvej 158766 Nørre Snede,nede,220.000,16-09-2016,Alm. Salg,1.692,3,Villa,130,1910,-44 %,Aktuel værdi
+Valmuevej 148766 Nørre Snede,nede,737.500,06-09-2016,Alm. Salg,4.416,7,Villa,167,1970,-8 %,Aktuel værdi
+Anlægsvej 48766 Nørre Snede,nede,1.110.000,05-09-2016,Alm. Salg,10.882,4,Villa,102,1957,-3 %,Aktuel værdi
+Lindbjerg Alle 188766 Nørre Snede,nede,1.000.000,25-08-2016,Alm. Salg,5.464,6,Villa,183,1973,-16 %,Aktuel værdi
+Ege Alle 358766 Nørre Snede,nede,880.000,12-08-2016,Auktion,4.680,6,Villa,188,1973,-20 %,Aktuel værdi
+Teglværksvej 658766 Nørre Snede,nede,53.924,30-06-2016,Alm. Salg,188,9,Stuehus,286,1937,,
+Højtoftegade 48766 Nørre Snede,nede,745.000,20-06-2016,Alm. Salg,6.711,4,Villa,111,1963,-6 %,Aktuel værdi
+Kirkevej 168766 Nørre Snede,nede,2.200.000,08-06-2016,Alm. Salg,11.167,5,Stuehus,197,1934,-10 %,
+Skovbakken 128766 Nørre Snede,nede,550.000,06-06-2016,Alm. Salg,4.910,5,Villa,112,1953,-8 %,Aktuel værdi
+Vejlevej 758766 Nørre Snede,nede,125.000,06-06-2016,Alm. Salg,440,12,Stuehus,284,1924,-93 %,
+Teglværksvej 698766 Nørre Snede,nede,475.000,02-06-2016,Alm. Salg,2.004,8,Stuehus,237,1900,-10 %,
+Svinget 48766 Nørre Snede,nede,780.000,30-05-2016,Alm. Salg,6.500,4,Villa,120,1960,-2 %,Aktuel værdi
+Strøget 288766 Nørre Snede,nede,350.000,20-05-2016,Alm. Salg,3.763,4,Villa,93,1948,,Aktuel værdi
+Lyngholmvej 28766 Nørre Snede,nede,4.951.884,17-05-2016,Fam. Salg,29.830,7,Stuehus,166,1847,,
+Halle Søvej 58766 Nørre Snede,nede,1.000.000,12-05-2016,Alm. Salg,6.802,5,Villa,147,1958,,Aktuel værdi
+Ege Alle 158766 Nørre Snede,nede,840.000,02-05-2016,Alm. Salg,6.666,4,Villa,126,1975,-6 %,Aktuel værdi
+Mågevej 168766 Nørre Snede,nede,745.000,25-04-2016,Alm. Salg,7.760,3,Villa,96,1975,0 %,Aktuel værdi
+Kildebakken 128766 Nørre Snede,nede,2.475.000,14-03-2016,Alm. Salg,13.026,6,Villa,190,2002,-3 %,Aktuel værdi
+Prærievænget 118766 Nørre Snede,nede,1.445.000,02-03-2016,Alm. Salg,13.761,4,Villa,105,2006,-3 %,Aktuel værdi
+Vejlevej 718766 Nørre Snede,nede,1.700.000,18-02-2016,Alm. Salg,13.492,4,Villa,126,1994,-15 %,Aktuel værdi
+Anemonevej 88766 Nørre Snede,nede,350.000,29-01-2016,Alm. Salg,2.413,5,Villa,145,1967,-33 %,Aktuel værdi
+Vejlevej 818766 Nørre Snede,nede,240.000,18-01-2016,Alm. Salg,1.846,4,Villa,130,1900,-19 %,Aktuel værdi
+Ege Alle 1328766 Nørre Snede,nede,775.000,30-12-2015,Alm. Salg,3.762,5,Villa,206,1975,-13 %,Aktuel værdi
+Ege Alle 538766 Nørre Snede,nede,735.000,16-12-2015,Alm. Salg,5.485,4,Villa,134,1973,-8 %,Aktuel værdi
+Prærievænget 38766 Nørre Snede,nede,175.000,15-12-2015,Alm. Salg,1.215,5,Villa,144,2017,,Aktuel værdi
+Ege Alle 1228766 Nørre Snede,nede,1.325.000,11-12-2015,Alm. Salg,6.050,8,Villa,219,1975,-8 %,Aktuel værdi
+Svinget 78766 Nørre Snede,nede,325.000,04-12-2015,Alm. Salg,4.333,3,Villa,75,1962,-18 %,Aktuel værdi
+Ege Alle 758766 Nørre Snede,nede,1.325.000,04-12-2015,Alm. Salg,8.333,6,Villa,159,1979,,Aktuel værdi
+Skovbakken 228766 Nørre Snede,nede,1.025.000,30-11-2015,Alm. Salg,8.686,2,Villa,118,1953,-6 %,Aktuel værdi
+Horsensvej 508766 Nørre Snede,nede,200.000,02-11-2015,Alm. Salg,2.439,3,Villa,82,1877,-32 %,Aktuel værdi
+Ege Alle 418766 Nørre Snede,nede,1.145.000,29-10-2015,Alm. Salg,8.419,4,Villa,136,1973,0 %,Aktuel værdi
+Nortvigvej 38766 Nørre Snede,nede,2.025.000,14-10-2015,Alm. Salg,25.312,5,Villa,80,1939,,Aktuel værdi
+Ege Alle 238766 Nørre Snede,nede,800.000,08-10-2015,Alm. Salg,5.161,6,Villa,155,1979,,Aktuel værdi
+Strøget 328766 Nørre Snede,nede,440.000,01-10-2015,Alm. Salg,2.471,7,Villa,178,1940,-11 %,Aktuel værdi
+Ege Alle 16A8766 Nørre Snede,nede,770.000,01-09-2015,Alm. Salg,8.105,4,Rækkehus,95,1986,-3 %,Aktuel værdi
+Ørnevej 188766 Nørre Snede,nede,1.243.094,01-09-2015,Andet,5.755,7,Villa,216,1967,,Aktuel værdi
+Horsensvej 478766 Nørre Snede,nede,400.000,28-08-2015,Alm. Salg,5.555,2,Villa,72,1956,0 %,Aktuel værdi
+Anemonevej 128766 Nørre Snede,nede,900.000,08-07-2015,Alm. Salg,6.250,4,Villa,144,1969,-10 %,Aktuel værdi
+Grættrupvej 38766 Nørre Snede,nede,400.000,16-06-2015,Fam. Salg,2.439,5,Villa,164,1945,,Aktuel værdi
+Krondalvej 178766 Nørre Snede,nede,950.000,11-06-2015,Alm. Salg,2.844,11,Stuehus,334,1916,-24 %,
+Snerlevej 38766 Nørre Snede,nede,983.000,20-05-2015,Alm. Salg,7.446,4,Villa,132,1972,-5 %,Aktuel værdi
+Palsgårdvej 118766 Nørre Snede,nede,8.207.767,08-05-2015,Auktion,33.229,6,Stuehus,247,1979,,
+Palsgårdvej 218766 Nørre Snede,nede,2.500.000,08-05-2015,Auktion,14.970,6,Stuehus,167,1870,,
+Viborgvej 488766 Nørre Snede,nede,85.000,28-04-2015,Alm. Salg,944,3,Villa,90,1944,,Aktuel værdi
+Skolegade 188766 Nørre Snede,nede,975.000,16-04-2015,Alm. Salg,8.944,3,Villa,109,1960,0 %,Aktuel værdi
+Horsensvej 148766 Nørre Snede,nede,615.000,03-04-2015,Alm. Salg,5.211,5,Villa,118,1921,-12 %,Aktuel værdi
+Kløvervej 918766 Nørre Snede,nede,850.000,27-03-2015,Alm. Salg,8.854,4,Rækkehus,96,1982,-5 %,Aktuel værdi
+Nortvigvej 78766 Nørre Snede,nede,11.000.000,13-03-2015,Auktion,125.000,3,Stuehus,88,1906,,
+Teglværksvej 538766 Nørre Snede,nede,520.000,17-02-2015,Andet,3.741,5,Villa,139,1945,-48 %,Aktuel værdi
+Kildebakken 308766 Nørre Snede,nede,900.000,10-02-2015,Alm. Salg,2.960,5,Villa,304,2016,,Aktuel værdi
+Irisvej 108766 Nørre Snede,nede,502.700,23-01-2015,Fam. Salg,2.305,8,Villa,218,1971,,Aktuel værdi
+Strøget 88766 Nørre Snede,nede,460.000,25-11-2014,Alm. Salg,3.833,5,Villa,120,1912,,Aktuel værdi
+Skovbakken 448766 Nørre Snede,nede,465.000,24-11-2014,Alm. Salg,5.886,3,Villa,79,1942,-6 %,Aktuel værdi
+Horsensvej 438766 Nørre Snede,nede,630.000,17-11-2014,Fam. Salg,3.264,5,Villa,193,1989,,Aktuel værdi
+Lindbjerg Alle 178766 Nørre Snede,nede,1.100.000,16-09-2014,Alm. Salg,7.638,6,Villa,144,1974,-8 %,Aktuel værdi
+Nortvigvej 28766 Nørre Snede,nede,310.000,15-08-2014,Alm. Salg,3.369,4,Villa,92,1850,-11 %,Aktuel værdi
+Lindbjerg Alle 618766 Nørre Snede,nede,1.005.000,15-08-2014,Alm. Salg,6.128,6,Villa,164,1974,-8 %,Aktuel værdi
+Elme Alle 188766 Nørre Snede,nede,425.000,29-06-2014,Alm. Salg,4.427,4,Rækkehus,96,1986,,Aktuel værdi
+Skovbakken 338766 Nørre Snede,nede,2.550.000,26-06-2014,Alm. Salg,10.714,6,Villa,238,2008,-4 %,Aktuel værdi
+Strøget 188766 Nørre Snede,nede,437.500,19-06-2014,Alm. Salg,4.088,4,Villa,107,1964,-17 %,Aktuel værdi
+Kløvervej 1358766 Nørre Snede,nede,790.000,16-06-2014,Alm. Salg,8.229,4,Rækkehus,96,1984,-4 %,Aktuel værdi
+Brandevej 268766 Nørre Snede,nede,1.300.000,13-06-2014,Alm. Salg,9.027,5,Villa,144,1910,-9 %,Aktuel værdi
+Velgårdevej 218766 Nørre Snede,nede,3.835.000,02-06-2014,Alm. Salg,23.384,6,Stuehus,164,1929,,
+Ege Alle 22B8766 Nørre Snede,nede,550.000,27-05-2014,Alm. Salg,5.729,4,Rækkehus,96,1987,,Aktuel værdi
+Højtoftegade 18766 Nørre Snede,nede,950.000,21-05-2014,Alm. Salg,5.491,5,Villa,173,1966,-17 %,Aktuel værdi
+Kejlstrupvej 68766 Nørre Snede,nede,1.201.344,14-05-2014,Alm. Salg,6.458,6,Stuehus,186,1971,-67 %,
+Irisvej 118766 Nørre Snede,nede,675.000,29-04-2014,Alm. Salg,5.443,5,Villa,124,1972,-3 %,Aktuel værdi
+Rosengade 68766 Nørre Snede,nede,350.000,14-04-2014,Alm. Salg,4.861,2,Rækkehus,72,1900,-11 %,Aktuel værdi
+Prærievænget 18766 Nørre Snede,nede,160.000,14-04-2014,Alm. Salg,1.032,5,Villa,155,2014,,Aktuel værdi
+Rosendalsvej 38766 Nørre Snede,nede,900.000,28-03-2014,Alm. Salg,5.555,7,Villa,162,1965,-10 %,Aktuel værdi
+Lindbjerg Alle 518766 Nørre Snede,nede,1.062.500,21-03-2014,Alm. Salg,4.896,6,Villa,217,1978,-3 %,Aktuel værdi
+Givevej 528766 Nørre Snede,nede,6.250.000,20-02-2014,Fam. Salg,25.000,8,Stuehus,250,1923,,
+Strøget 268766 Nørre Snede,nede,500.000,18-02-2014,Alm. Salg,5.952,4,Villa,84,1962,-8 %,Aktuel værdi
+Skovbakken 468766 Nørre Snede,nede,425.000,10-01-2014,Alm. Salg,5.448,2,Villa,78,1947,-6 %,Aktuel værdi
+Frisbækvej 188766 Nørre Snede,nede,1.250.000,15-12-2013,Alm. Salg,5.274,9,Villa,237,1868,-16 %,Aktuel værdi
+Højtoftegade 118766 Nørre Snede,nede,700.000,09-12-2013,Alm. Salg,5.109,4,Villa,137,1962,-12 %,Aktuel værdi
+Ege Alle 598766 Nørre Snede,nede,675.000,02-12-2013,Alm. Salg,3.169,7,Villa,213,1973,-15 %,Aktuel værdi
+Bredgade 48766 Nørre Snede,nede,349.932,22-11-2013,Auktion,2.447,7,Villa,143,1912,,Aktuel værdi
+Brandevej 248766 Nørre Snede,nede,825.430,11-11-2013,Alm. Salg,11.962,3,Villa,69,1880,,Aktuel værdi
+Teglværksvej 378766 Nørre Snede,nede,550.000,01-11-2013,Auktion,3.481,5,Villa,158,1974,,Aktuel værdi
+Bredgade 88766 Nørre Snede,nede,900.000,30-10-2013,Alm. Salg,13.235,6,Detailhandel,68,1915,,Aktuel værdi
+Sandvadvej 408766 Nørre Snede,nede,78.468,25-10-2013,Auktion,719,4,Villa,109,1984,-88 %,Aktuel værdi
+Teglværksvej 308766 Nørre Snede,nede,400.000,11-10-2013,Alm. Salg,2.209,5,Villa,181,1945,-33 %,Aktuel værdi
+Horsensvej 608766 Nørre Snede,nede,295.000,04-10-2013,Auktion,2.418,6,Villa,122,1933,,Aktuel værdi
+Violvej 58766 Nørre Snede,nede,1.095.000,30-08-2013,Alm. Salg,7.711,5,Villa,142,1970,0 %,Aktuel værdi
+Kildebakken 478766 Nørre Snede,nede,286.000,02-08-2013,Alm. Salg,1.580,6,Villa,181,2014,,Aktuel værdi
+Højtoftegade 98766 Nørre Snede,nede,1.037.500,19-07-2013,Alm. Salg,4.200,8,Villa,247,1961,0 %,Aktuel værdi
+Anlægsvej 178766 Nørre Snede,nede,875.000,11-07-2013,Alm. Salg,8.663,5,Villa,101,1965,-8 %,Aktuel værdi
+Krondalvej 138766 Nørre Snede,nede,2.195.000,10-07-2013,Alm. Salg,12.331,9,Stuehus,178,1922,,
+Ege Alle 668766 Nørre Snede,nede,1.175.000,30-06-2013,Alm. Salg,9.038,5,Villa,130,1978,,Aktuel værdi
+Kløvervej 1018766 Nørre Snede,nede,795.000,27-06-2013,Alm. Salg,8.281,4,Rækkehus,96,1984,-11 %,Aktuel værdi
+Anemonevej 18766 Nørre Snede,nede,500.000,24-06-2013,Alm. Salg,4.950,4,Villa,101,1967,-9 %,Aktuel værdi
+Strøget 418766 Nørre Snede,nede,1.295.000,24-06-2013,Alm. Salg,7.848,5,Villa,165,1962,,Aktuel værdi
+Nellikevej 108766 Nørre Snede,nede,1.650.000,24-06-2013,Alm. Salg,8.208,6,Villa,201,1971,-3 %,Aktuel værdi
+Nørhovedvej 148766 Nørre Snede,nede,2.760.315,14-06-2013,Fam. Salg,9.929,8,Stuehus,278,1924,,
+Horsensvej 118766 Nørre Snede,nede,950.000,29-05-2013,Alm. Salg,4.726,8,Villa,201,1943,-10 %,Aktuel værdi
+Kildebakken 318766 Nørre Snede,nede,775.000,22-05-2013,Alm. Salg,5.065,7,Villa,153,2002,,Aktuel værdi
+Nortvigvej 108766 Nørre Snede,nede,350.000,05-04-2013,Auktion,1.605,7,Villa,218,1868,,Aktuel værdi
+Højtoftegade 188766 Nørre Snede,nede,550.000,27-02-2013,Alm. Salg,3.873,6,Villa,142,1965,,Aktuel værdi
+Kløvervej 558766 Nørre Snede,nede,675.000,25-02-2013,Alm. Salg,8.437,3,Rækkehus,80,1981,-3 %,Aktuel værdi
+Viborgvej 408766 Nørre Snede,nede,1.136.875,23-02-2013,Fam. Salg,10.725,3,Stuehus,106,1900,,
+Leretvej 18766 Nørre Snede,nede,900.000,22-02-2013,Alm. Salg,6.521,6,Stuehus,138,1952,,
+Halle Søvej 18766 Nørre Snede,nede,8.000.000,04-02-2013,Alm. Salg,75.471,8,Villa,106,1900,,Aktuel værdi
+Horsensvej 538766 Nørre Snede,nede,609.000,31-12-2012,Fam. Salg,4.544,4,Villa,134,1956,,Aktuel værdi
+Vejlevej 868766 Nørre Snede,nede,150.000,20-11-2012,Alm. Salg,1.704,3,Villa,88,1920,-23 %,Aktuel værdi
+Snerlevej 18766 Nørre Snede,nede,945.000,16-11-2012,Alm. Salg,7.875,5,Villa,120,1972,-5 %,Aktuel værdi
+Solbakkevej 118766 Nørre Snede,nede,1.230.000,12-11-2012,Alm. Salg,6.833,6,Villa,180,1954,,Aktuel værdi
+Kløvervej 638766 Nørre Snede,nede,690.000,12-11-2012,Alm. Salg,7.340,4,Rækkehus,94,1982,,Aktuel værdi
+Ørnevej 238766 Nørre Snede,nede,1.075.000,08-11-2012,Alm. Salg,7.733,5,Villa,139,1964,-6 %,Aktuel værdi
+Ege Alle 768766 Nørre Snede,nede,1.625.000,01-11-2012,Alm. Salg,9.393,5,Villa,173,1980,-2 %,Aktuel værdi
+Velgårdevej 188766 Nørre Snede,nede,1.200.000,31-10-2012,Alm. Salg,7.228,5,Stuehus,166,1948,,
+Anlægsvej 108766 Nørre Snede,nede,775.000,19-10-2012,Alm. Salg,6.458,4,Villa,120,1960,,Aktuel værdi
+Vibevej 158766 Nørre Snede,nede,650.000,27-09-2012,Alm. Salg,3.757,6,Villa,173,1967,-26 %,Aktuel værdi
+Velgårdevej 68766 Nørre Snede,nede,950.000,20-09-2012,Alm. Salg,9.313,6,Villa,102,1943,-5 %,Aktuel værdi
+Vejlevej 858766 Nørre Snede,nede,150.000,11-09-2012,Alm. Salg,1.048,5,Villa,143,1900,,Aktuel værdi
+Velgårdevej 268766 Nørre Snede,nede,4.995.000,06-09-2012,Alm. Salg,21.717,5,Villa,230,2000,0 %,Aktuel værdi
+Silkeborgvej 308766 Nørre Snede,nede,350.000,17-08-2012,Auktion,2.215,6,Villa,158,1930,,Aktuel værdi
+Rørbækvej 228766 Nørre Snede,nede,188.190,13-08-2012,Alm. Salg,960,5,Stuehus,196,1922,,
+Teglværksvej 48766 Nørre Snede,nede,553.130,10-08-2012,Auktion,2.343,6,Villa,236,1947,,Aktuel værdi
+Falkevej 138766 Nørre Snede,nede,524.000,26-07-2012,Alm. Salg,5.240,4,Villa,100,1965,,Aktuel værdi
+Ørnevej 268766 Nørre Snede,nede,1.045.000,13-07-2012,Alm. Salg,9.675,4,Villa,108,1966,-5 %,Aktuel værdi
+Viborgvej 1418766 Nørre Snede,nede,1.405.000,16-06-2012,Alm. Salg,10.181,4,Stuehus,138,1911,-6 %,
+Anlægsvej 58766 Nørre Snede,nede,647.500,14-05-2012,Andet,5.307,5,Villa,122,1955,,Aktuel værdi
+Ege Alle 658766 Nørre Snede,nede,950.000,30-04-2012,Alm. Salg,5.688,5,Villa,167,1973,-5 %,Aktuel værdi
+Horsensvej 698766 Nørre Snede,nede,460.527,18-04-2012,Fam. Salg,3.313,4,Villa,139,1952,,Aktuel værdi
+Horsensvej 158766 Nørre Snede,nede,371.986,16-04-2012,Alm. Salg,2.384,5,Villa,156,1943,-63 %,Aktuel værdi
+Skolegade 228766 Nørre Snede,nede,484.723,13-04-2012,Alm. Salg,4.214,5,Villa,115,1963,,Aktuel værdi
+Kildebakken 558766 Nørre Snede,nede,363.000,11-04-2012,Alm. Salg,2.110,6,Villa,172,2012,,Aktuel værdi
+Ege Alle 198766 Nørre Snede,nede,782.000,10-04-2012,Fam. Salg,5.507,4,Villa,142,1976,,Aktuel værdi
+Viborgvej 958766 Nørre Snede,nede,1.100.000,30-03-2012,Alm. Salg,7.482,5,Villa,147,1950,-15 %,Aktuel værdi
+Skovbakken 218766 Nørre Snede,nede,867.246,24-03-2012,Fam. Salg,5.101,5,Villa,170,1943,,Aktuel værdi
+Kildebakken 38766 Nørre Snede,nede,1.550.000,15-03-2012,Alm. Salg,7.045,7,Villa,220,1995,-11 %,Aktuel værdi
+Givevej 618766 Nørre Snede,nede,14.300.000,14-03-2012,Alm. Salg,66.203,7,Stuehus,216,1958,,
+Ege Alle 28766 Nørre Snede,nede,670.000,08-03-2012,Alm. Salg,8.375,3,Rækkehus,80,1980,-4 %,Aktuel værdi
+Valmuevej 118766 Nørre Snede,nede,703.500,24-02-2012,Auktion,5.673,5,Villa,124,1969,,Aktuel værdi
+Ørnevej 218766 Nørre Snede,nede,595.000,14-02-2012,Alm. Salg,6.071,4,Villa,98,1966,-14 %,Aktuel værdi
+Teglværksvej 858766 Nørre Snede,nede,585.000,09-02-2012,Alm. Salg,7.048,4,Villa,83,1954,-6 %,Aktuel værdi
+Horsensvej 78766 Nørre Snede,nede,486.010,14-12-2011,Fam. Salg,3.738,6,Villa,130,1920,,Aktuel værdi
+Grættrupvej 128766 Nørre Snede,nede,1.550.000,02-12-2011,Alm. Salg,7.416,6,Stuehus,209,1988,,
+Brandevej 118766 Nørre Snede,nede,13.900.000,01-12-2011,Alm. Salg,102.205,4,Villa,136,2015,,Aktuel værdi
+Vibevej 308766 Nørre Snede,nede,391.740,16-11-2011,Andet,1.788,6,Villa,219,1972,,Aktuel værdi
+Vibevej 168766 Nørre Snede,nede,575.000,14-11-2011,Alm. Salg,4.831,4,Villa,119,1967,-15 %,Aktuel værdi
+Rosengade 138766 Nørre Snede,nede,720.000,31-10-2011,Alm. Salg,5.142,6,Villa,140,1917,-13 %,Aktuel værdi
+Krondalvej 38766 Nørre Snede,nede,875.000,17-10-2011,Alm. Salg,8.101,4,Villa,108,1957,-12 %,Aktuel værdi
+Kløvervej 998766 Nørre Snede,nede,350.000,15-10-2011,Fam. Salg,3.645,4,Rækkehus,96,1983,,Aktuel værdi
+Horsensvej 448766 Nørre Snede,nede,525.000,09-09-2011,Alm. Salg,7.500,4,Villa,70,1877,,Aktuel værdi
+Skovbakken 288766 Nørre Snede,nede,2.500.000,22-08-2011,Alm. Salg,12.376,7,Villa,202,2010,0 %,Aktuel værdi
+Horsensvej 138766 Nørre Snede,nede,1.195.000,17-06-2011,Alm. Salg,3.943,10,Villa,303,1935,0 %,Aktuel værdi
+Teglværksvej 328766 Nørre Snede,nede,675.000,27-05-2011,Auktion,4.821,4,Villa,140,1943,0 %,Aktuel værdi
+Teglværksvej 68766 Nørre Snede,nede,600.000,25-05-2011,Alm. Salg,5.172,3,Villa,116,1940,-14 %,Aktuel værdi
+Viborgvej 588766 Nørre Snede,nede,2.100.000,19-04-2011,Alm. Salg,12.500,6,Stuehus,168,1923,,
+Grønnegade 18766 Nørre Snede,nede,580.000,19-04-2011,Alm. Salg,6.444,3,Villa,90,1960,-7 %,Aktuel værdi
+Anlægsvej 188766 Nørre Snede,nede,400.000,19-03-2011,Alm. Salg,4.938,4,Villa,81,1962,,Aktuel værdi
+Solbakkevej 148766 Nørre Snede,nede,710.000,03-03-2011,Alm. Salg,9.861,3,Villa,72,1953,,Aktuel værdi
+Lindbjerg Alle 538766 Nørre Snede,nede,523.000,01-03-2011,Alm. Salg,1.815,10,Villa,288,1979,,Aktuel værdi
+Vejlevej 678766 Nørre Snede,nede,1.634.858,28-02-2011,Alm. Salg,19.233,4,Stuehus,85,1877,,
+Engholmvej 268766 Nørre Snede,nede,925.000,25-02-2011,Alm. Salg,7.644,4,Villa,121,1968,-7 %,Aktuel værdi
+Teglværksvej 498766 Nørre Snede,nede,125.000,04-02-2011,Auktion,1.666,3,Villa,75,1944,,Aktuel værdi
+Frisbækvej 168766 Nørre Snede,nede,107.376,01-02-2011,Alm. Salg,715,7,Stuehus,150,1967,,
+Anlægsvej 88766 Nørre Snede,nede,725.000,08-12-2010,Alm. Salg,10.357,3,Villa,70,1958,-9 %,Aktuel værdi
+Ege Alle 1148766 Nørre Snede,nede,1.049.000,26-11-2010,Alm. Salg,6.515,4,Villa,161,1974,0 %,Aktuel værdi
+Kildebakken 238766 Nørre Snede,nede,956.000,27-10-2010,Alm. Salg,5.975,7,Villa,160,2008,,Aktuel værdi
+Anemonevej 38766 Nørre Snede,nede,650.000,15-10-2010,Alm. Salg,6.500,3,Villa,100,1967,-6 %,Aktuel værdi
+Silkeborgvej 158766 Nørre Snede,nede,750.000,10-10-2010,Alm. Salg,5.033,6,Villa,149,1979,,Aktuel værdi
+Kildebakken 378766 Nørre Snede,nede,2.000.000,15-09-2010,Alm. Salg,11.695,7,Villa,171,2007,-9 %,Aktuel værdi
+Vejlevej 708766 Nørre Snede,nede,2.000.000,13-09-2010,Fam. Salg,12.820,7,Stuehus,156,1909,,
+Skolegade 148766 Nørre Snede,nede,750.000,16-08-2010,Alm. Salg,7.978,4,Villa,94,1960,,Aktuel værdi
+Silkeborgvej 358766 Nørre Snede,nede,420.000,13-08-2010,Alm. Salg,3.230,3,Villa,130,1943,-15 %,Aktuel værdi
+Skovbakken 178766 Nørre Snede,nede,925.000,16-07-2010,Alm. Salg,8.894,3,Villa,104,1942,-7 %,Aktuel værdi
+Lindbjerg Alle 498766 Nørre Snede,nede,1.225.000,02-07-2010,Alm. Salg,8.333,6,Villa,147,1975,-5 %,Aktuel værdi
+Sandvadvej 298766 Nørre Snede,nede,85.000,24-06-2010,Alm. Salg,566,4,Stuehus,150,1908,,
+Ege Alle 618766 Nørre Snede,nede,1.050.000,03-06-2010,Alm. Salg,9.633,3,Villa,109,1972,-2 %,Aktuel værdi
+Grættrupvej 118766 Nørre Snede,nede,1.075.000,02-06-2010,Alm. Salg,3.966,8,Villa,271,2013,,Aktuel værdi
+Møllegade 38766 Nørre Snede,nede,1.100.000,03-05-2010,Alm. Salg,-,5,Villa,156,1939,-4 %,Aktuel værdi
+Strøget 208766 Nørre Snede,nede,500.000,28-04-2010,Alm. Salg,6.250,3,Villa,80,1953,-8 %,Aktuel værdi
+Kildebakken 78766 Nørre Snede,nede,1.025.000,24-04-2010,Fam. Salg,6.925,6,Villa,148,2007,,Aktuel værdi
+Ege Alle 448766 Nørre Snede,nede,1.485.000,14-04-2010,Alm. Salg,6.939,6,Villa,214,1980,-7 %,Aktuel værdi
+Skovbakken 168766 Nørre Snede,nede,1.000.000,29-03-2010,Alm. Salg,9.433,4,Villa,106,1960,,Aktuel værdi
+Palsgårdvej 198766 Nørre Snede,nede,5.000.000,25-03-2010,Alm. Salg,24.509,5,Stuehus,204,1955,,
+Kejlstrupvej 88766 Nørre Snede,nede,1.100.000,23-03-2010,Alm. Salg,3.666,8,Villa,300,1913,,Aktuel værdi
+Rylevej 48766 Nørre Snede,nede,3.200.000,18-03-2010,Andet,11.636,5,Villa,275,1969,,Aktuel værdi
+Kildebakken 338766 Nørre Snede,nede,70.000,12-03-2010,Alm. Salg,355,5,Villa,197,2011,,Aktuel værdi
+Ege Alle 78766 Nørre Snede,nede,950.000,10-03-2010,Alm. Salg,6.168,4,Villa,154,1973,-13 %,Aktuel værdi
+Anlægsvej 158766 Nørre Snede,nede,625.000,03-03-2010,Alm. Salg,5.580,4,Villa,112,1965,-10 %,Aktuel værdi
+Falkevej 108766 Nørre Snede,nede,915.000,02-03-2010,Alm. Salg,6.727,4,Villa,136,1969,,Aktuel værdi
+Kejlstrupvej 108766 Nørre Snede,nede,875.000,02-03-2010,Alm. Salg,3.528,7,Villa,248,2013,0 %,Aktuel værdi
+Skovbakken 668766 Nørre Snede,nede,950.000,20-01-2010,Andet,4.185,5,Villa,227,1847,,Aktuel værdi
+Matrupladegårdvej 188766 Nørre Snede,nede,800.000,08-01-2010,Alm. Salg,6.349,4,Villa,126,1975,,Aktuel værdi
+Arritskovvej 78766 Nørre Snede,nede,2.250.000,23-12-2009,Fam. Salg,7.305,8,Stuehus,308,1900,,
+Violvej 98766 Nørre Snede,nede,885.000,27-11-2009,Alm. Salg,3.597,8,Villa,246,1972,,Aktuel værdi
+Frisbækvej 88766 Nørre Snede,nede,586.599,13-11-2009,Fam. Salg,3.258,7,Stuehus,180,2010,,
+Ege Alle 348766 Nørre Snede,nede,900.000,11-11-2009,Alm. Salg,7.563,4,Villa,119,1979,-9 %,Aktuel værdi
+Anlægsvej 28766 Nørre Snede,nede,800.000,05-11-2009,Alm. Salg,10.666,2,Villa,75,1953,-6 %,Aktuel værdi
+Nørhovedvej 58766 Nørre Snede,nede,665.000,04-11-2009,Alm. Salg,7.388,3,Villa,90,1954,0 %,Aktuel værdi
+Fællesvej 228766 Nørre Snede,nede,1.775.000,13-10-2009,Alm. Salg,10.260,9,Villa,173,1979,-6 %,Aktuel værdi
+Strøget 38766 Nørre Snede,nede,750.000,12-10-2009,Alm. Salg,-,6,Villa,160,1930,-11 %,Aktuel værdi
+Vibevej 128766 Nørre Snede,nede,1.250.000,24-09-2009,Alm. Salg,8.503,5,Villa,147,1967,-9 %,Aktuel værdi
+Irisvej 98766 Nørre Snede,nede,1.440.000,10-08-2009,Alm. Salg,8.674,7,Villa,166,1970,,Aktuel værdi
+Lindbjerg Alle 378766 Nørre Snede,nede,990.000,14-07-2009,Alm. Salg,6.780,6,Villa,146,1976,-7 %,Aktuel værdi
+Ege Alle 388766 Nørre Snede,nede,880.000,19-06-2009,Alm. Salg,7.927,4,Villa,111,1981,-2 %,Aktuel værdi
+Nørhovedvej 68766 Nørre Snede,nede,1.315.000,04-06-2009,Alm. Salg,8.766,5,Villa,150,1935,-6 %,Aktuel værdi
+Brandevej 78766 Nørre Snede,nede,1.130.377,31-05-2009,Andet,4.485,5,Villa,252,1916,,Aktuel værdi
+Skolegade 258766 Nørre Snede,nede,714.000,19-05-2009,Alm. Salg,6.208,5,Villa,115,1960,,Aktuel værdi
+Ege Alle 608766 Nørre Snede,nede,1.030.000,17-05-2009,Alm. Salg,7.629,5,Villa,135,1980,-6 %,Aktuel værdi
+Lindbjerg Alle 218766 Nørre Snede,nede,1.430.000,13-05-2009,Alm. Salg,6.682,9,Villa,214,1979,-3 %,Aktuel værdi
+Skovdalen 38766 Nørre Snede,nede,485.000,13-05-2009,Alm. Salg,-,4,Villa,109,2007,-12 %,Aktuel værdi
+Ege Alle 908766 Nørre Snede,nede,1.550.000,30-04-2009,Alm. Salg,7.750,7,Villa,200,1976,,Aktuel værdi
+Grønnegade 158766 Nørre Snede,nede,1.040.000,28-04-2009,Alm. Salg,6.081,5,Villa,171,1946,-5 %,Aktuel værdi
+Anemonevej 68766 Nørre Snede,nede,1.125.000,23-04-2009,Alm. Salg,8.035,5,Villa,140,1969,-4 %,Aktuel værdi
+Kløvervej 658766 Nørre Snede,nede,1.225.000,08-04-2009,Alm. Salg,10.040,5,Rækkehus,122,1982,-2 %,Aktuel værdi
+Horsensvej 208766 Nørre Snede,nede,314.500,24-03-2009,Fam. Salg,3.494,2,Villa,90,1918,,Aktuel værdi
+Viborgvej 208766 Nørre Snede,nede,3.675.000,16-03-2009,Alm. Salg,14.189,8,Stuehus,259,1960,0 %,
+Godthåbvej 108766 Nørre Snede,nede,1.500.000,09-03-2009,Alm. Salg,10.000,4,Stuehus,150,1950,0 %,
+Elme Alle 48766 Nørre Snede,nede,730.000,02-03-2009,Alm. Salg,7.604,4,Rækkehus,96,1986,,Aktuel værdi
+Ege Alle 1048766 Nørre Snede,nede,1.250.000,27-02-2009,Alm. Salg,10.000,5,Villa,125,1979,0 %,Aktuel værdi
+Ege Alle 1268766 Nørre Snede,nede,1.650.000,02-02-2009,Alm. Salg,8.088,6,Villa,204,1976,-8 %,Aktuel værdi
+Ege Alle 288766 Nørre Snede,nede,1.324.000,20-01-2009,Andet,9.664,5,Villa,137,1987,,Aktuel værdi
+Velgårdevej 288766 Nørre Snede,nede,500.000,20-12-2008,Alm. Salg,2.212,6,Villa,226,1945,,Aktuel værdi
+"Strøget 16C, 18766 Nørre Snede",nede,1.400.000,12-12-2008,Alm. Salg,5.243,11,Lejlighed,267,1895,,Aktuel værdi
+Vibevej 268766 Nørre Snede,nede,800.000,08-12-2008,Alm. Salg,6.299,5,Villa,127,1968,,Aktuel værdi
+Palsgårdvej 238766 Nørre Snede,nede,272.000,28-11-2008,Alm. Salg,3.162,3,Villa,86,1925,,Aktuel værdi
+Valmuevej 98766 Nørre Snede,nede,1.575.000,20-09-2008,Alm. Salg,10.500,5,Villa,150,1969,,Aktuel værdi
+Teglværksvej 128766 Nørre Snede,nede,645.000,05-09-2008,Alm. Salg,9.214,2,Villa,70,1948,0 %,Aktuel værdi
+Engholmvej 9D8766 Nørre Snede,nede,528.100,01-09-2008,Auktion,2.694,6,Villa,196,1972,,Aktuel værdi
+Kildebakken 178766 Nørre Snede,nede,141.960,26-08-2008,Alm. Salg,780,5,Villa,182,2009,,Aktuel værdi
+Kejlstrupvej 48766 Nørre Snede,nede,2.500.000,04-08-2008,Alm. Salg,14.705,6,Stuehus,170,1818,,
+Snerlevej 28766 Nørre Snede,nede,820.000,27-06-2008,Alm. Salg,6.119,5,Villa,134,1970,-6 %,Aktuel værdi
+Ege Alle 18A8766 Nørre Snede,nede,831.000,27-06-2008,Alm. Salg,8.656,4,Villa,96,1987,11 %,Aktuel værdi
+Ege Alle 468766 Nørre Snede,nede,1.560.000,23-06-2008,Alm. Salg,9.069,7,Villa,172,1986,0 %,Aktuel værdi
+Mågevej 28766 Nørre Snede,nede,1.600.000,19-06-2008,Alm. Salg,7.142,8,Villa,224,1971,-11 %,Aktuel værdi
+Møllegade 58766 Nørre Snede,nede,675.000,17-06-2008,Alm. Salg,9.926,2,Villa,68,1930,-3 %,Aktuel værdi
+Velgårdevej 138766 Nørre Snede,nede,1.870.000,17-06-2008,Alm. Salg,8.990,7,Stuehus,208,2007,,
+Grættrupvej 88766 Nørre Snede,nede,463.041,02-06-2008,Fam. Salg,6.092,4,Stuehus,76,1900,,
+Teglværksvej 358766 Nørre Snede,nede,795.000,29-05-2008,Alm. Salg,8.548,3,Villa,93,1956,,Aktuel værdi
+Bredgade 138766 Nørre Snede,nede,580.000,12-05-2008,Alm. Salg,-,11,Villa,326,1905,,Aktuel værdi
+Nellikevej 18766 Nørre Snede,nede,1.270.000,05-05-2008,Alm. Salg,8.355,5,Villa,152,1970,-2 %,Aktuel værdi
+Kildebakken 358766 Nørre Snede,nede,94.080,05-05-2008,Alm. Salg,584,4,Villa,161,2011,,Aktuel værdi
+Halle Søvej 98766 Nørre Snede,nede,2.430.000,28-04-2008,Alm. Salg,16.092,5,Villa,151,1985,-4 %,Aktuel værdi
+Prærievænget 158766 Nørre Snede,nede,121.968,23-04-2008,Alm. Salg,991,4,Villa,123,2009,,Aktuel værdi
+Frisbækvej 78766 Nørre Snede,nede,400.000,14-04-2008,Alm. Salg,4.255,5,Villa,94,1953,,Aktuel værdi
+Nellikevej 158766 Nørre Snede,nede,1.110.000,04-04-2008,Alm. Salg,7.350,5,Villa,151,1970,-7 %,Aktuel værdi
+Halle Søvej 48766 Nørre Snede,nede,4.800.000,19-03-2008,Alm. Salg,19.200,7,Stuehus,250,2011,,
+Solbakkevej 158766 Nørre Snede,nede,2.700.000,29-02-2008,Alm. Salg,19.424,4,Villa,139,1957,,Aktuel værdi
+Højtoftegade 78766 Nørre Snede,nede,770.000,27-02-2008,Alm. Salg,9.506,3,Villa,81,1962,-3 %,Aktuel værdi
+Sandvadvej 388766 Nørre Snede,nede,1.180.000,25-02-2008,Alm. Salg,10.535,3,Stuehus,112,1877,,
+Ørnevej 168766 Nørre Snede,nede,1.200.000,25-02-2008,Alm. Salg,8.823,5,Villa,136,1964,-4 %,Aktuel værdi
+Vinkelvej 108766 Nørre Snede,nede,975.000,22-02-2008,Alm. Salg,6.250,4,Villa,156,1980,,Aktuel værdi
+Vibevej 248766 Nørre Snede,nede,800.000,17-02-2008,Alm. Salg,7.476,4,Villa,107,1968,,Aktuel værdi
+Frisbækvej 208766 Nørre Snede,nede,2.400.000,05-02-2008,Alm. Salg,11.764,8,Stuehus,204,1933,-14 %,
+Strøget 228766 Nørre Snede,nede,506.306,25-01-2008,Fam. Salg,4.480,4,Villa,113,1940,,Aktuel værdi
+Kildebakken 148766 Nørre Snede,nede,147.432,20-01-2008,Alm. Salg,847,6,Villa,174,2009,,Aktuel værdi
+Violvej 38766 Nørre Snede,nede,800.000,17-01-2008,Alm. Salg,7.272,4,Villa,110,1972,,Aktuel værdi
+Matrupladegårdvej 12D8766 Nørre Snede,nede,2.600.000,20-12-2007,Andet,13.756,3,Villa,189,1979,,Aktuel værdi
+Ege Alle 22A8766 Nørre Snede,nede,1.020.000,18-12-2007,Alm. Salg,10.515,4,Rækkehus,97,1987,-7 %,Aktuel værdi
+Lindbjerg Alle 198766 Nørre Snede,nede,1.075.000,16-12-2007,Alm. Salg,8.082,4,Villa,133,1979,-7 %,Aktuel værdi
+Solbakkevej 88766 Nørre Snede,nede,1.080.000,12-12-2007,Alm. Salg,4.909,5,Villa,220,1953,,Aktuel værdi
+Brandevej 48766 Nørre Snede,nede,1.062.500,12-12-2007,Fam. Salg,6.899,7,Villa,154,1934,,Aktuel værdi
+Ege Alle 688766 Nørre Snede,nede,375.000,26-10-2007,Fam. Salg,3.260,4,Villa,115,1975,,Aktuel værdi
+Teglværksvej 88766 Nørre Snede,nede,815.000,05-10-2007,Alm. Salg,8.150,5,Villa,100,1939,-7 %,Aktuel værdi
+Grættrupvej 98766 Nørre Snede,nede,1.860.000,27-09-2007,Fam. Salg,7.469,7,Villa,249,2017,,Aktuel værdi
+Anlægsvej 68766 Nørre Snede,nede,1.030.000,21-09-2007,Alm. Salg,11.444,5,Villa,90,1957,-1 %,Aktuel værdi
+Skovbakken 348766 Nørre Snede,nede,1.075.000,19-09-2007,Alm. Salg,6.935,5,Villa,155,1954,-2 %,Aktuel værdi
+Teglværksvej 288766 Nørre Snede,nede,442.000,07-09-2007,Fam. Salg,4.420,2,Villa,100,1897,,Aktuel værdi
+Matrupladegårdvej 78766 Nørre Snede,nede,1.520.000,07-09-2007,Alm. Salg,7.715,5,Villa,197,1930,,Aktuel værdi
+Silkeborgvej 108766 Nørre Snede,nede,2.450.000,04-09-2007,Alm. Salg,14.244,5,Stuehus,172,1980,,
+Ørnevej 198766 Nørre Snede,nede,675.000,21-08-2007,Alm. Salg,-,4,Villa,96,1965,0 %,Aktuel værdi
+Solbakkevej 68766 Nørre Snede,nede,575.000,20-08-2007,Alm. Salg,5.088,6,Villa,113,1953,,Aktuel værdi
+Brandevej 68766 Nørre Snede,nede,775.000,10-08-2007,Alm. Salg,10.333,3,Villa,75,1938,-3 %,Aktuel værdi
+Rørbækvej 248766 Nørre Snede,nede,1.755.000,06-08-2007,Alm. Salg,8.478,7,Villa,207,1923,,Aktuel værdi
+Skovbakken 488766 Nørre Snede,nede,1.560.000,20-07-2007,Alm. Salg,15.757,3,Villa,99,1947,-2 %,Aktuel værdi
+Kildebakken 108766 Nørre Snede,nede,1.295.000,08-07-2007,Alm. Salg,11.460,4,Villa,113,2000,,Aktuel værdi
+Strøget 308766 Nørre Snede,nede,56.000,27-06-2007,Alm. Salg,666,5,Villa,84,1949,,Aktuel værdi
+Vibevej 218766 Nørre Snede,nede,1.000.000,20-06-2007,Alm. Salg,5.917,6,Villa,169,1969,,Aktuel værdi
+Silkeborgvej 88766 Nørre Snede,nede,858.500,08-06-2007,Alm. Salg,8.176,5,Stuehus,105,1907,,
+Silkeborgvej 248766 Nørre Snede,nede,1.075.000,07-06-2007,Alm. Salg,10.238,4,Villa,105,1939,,Aktuel værdi
+Silkeborgvej 118766 Nørre Snede,nede,3.350.000,04-06-2007,Alm. Salg,15.952,6,Villa,210,1929,,Aktuel værdi
+Teglværksvej 268766 Nørre Snede,nede,595.000,29-05-2007,Alm. Salg,5.666,3,Villa,105,1930,0 %,Aktuel værdi
+Matrupladegårdvej 88766 Nørre Snede,nede,525.000,29-05-2007,Alm. Salg,6.645,3,Villa,79,1931,,Aktuel værdi
+Viborg Hovedvej 1228766 Nørre Snede,nede,675.000,22-05-2007,Alm. Salg,7.584,3,Villa,89,1910,,Aktuel værdi
+Glentevej 108766 Nørre Snede,nede,815.000,14-05-2007,Alm. Salg,6.417,3,Villa,127,1970,0 %,Aktuel værdi
+Prærievænget 238766 Nørre Snede,nede,262.416,30-04-2007,Alm. Salg,1.552,6,Villa,169,2008,,Aktuel værdi
+Vibevej 238766 Nørre Snede,nede,1.100.000,19-04-2007,Alm. Salg,-,7,Villa,232,1967,-2 %,Aktuel værdi
+Anlægsvej 18766 Nørre Snede,nede,720.000,28-03-2007,Alm. Salg,6.792,3,Villa,106,1954,,Aktuel værdi
+Ege Alle 888766 Nørre Snede,nede,1.195.000,08-03-2007,Alm. Salg,9.192,4,Villa,130,1974,,Aktuel værdi
+Prærievænget 48766 Nørre Snede,nede,242.176,06-03-2007,Alm. Salg,1.504,6,Villa,161,2012,,Aktuel værdi
+Prærievænget 258766 Nørre Snede,nede,235.840,06-03-2007,Alm. Salg,-,6,Villa,167,2008,,Aktuel værdi
+Rørbækvej 78766 Nørre Snede,nede,1.250.000,05-03-2007,Alm. Salg,8.064,4,Villa,155,1912,,Aktuel værdi
+Nortvigvej 68766 Nørre Snede,nede,2.500.000,05-03-2007,Fam. Salg,15.527,6,Stuehus,161,1972,,
+Valmuevej 48766 Nørre Snede,nede,850.000,22-02-2007,Alm. Salg,7.083,3,Villa,120,1970,0 %,Aktuel værdi
+Horsensvej 468766 Nørre Snede,nede,2.050.000,16-02-2007,Fam. Salg,17.083,3,Stuehus,120,1909,,
+Møllegade 28766 Nørre Snede,nede,950.000,26-01-2007,Alm. Salg,9.693,4,Villa,98,1962,-3 %,Aktuel værdi
+Teglværksvej 478766 Nørre Snede,nede,565.000,22-01-2007,Alm. Salg,5.947,4,Villa,95,1944,,Aktuel værdi
+Teglværksvej 318766 Nørre Snede,nede,800.000,21-01-2007,Alm. Salg,7.272,4,Villa,110,1977,,Aktuel værdi
+Valmuevej 68766 Nørre Snede,nede,1.400.000,18-01-2007,Alm. Salg,7.407,7,Villa,189,1967,,Aktuel værdi
+Lindbjerg Alle 28766 Nørre Snede,nede,925.000,16-01-2007,Alm. Salg,8.043,3,Villa,115,1973,,Aktuel værdi
+Viborgvej 1018766 Nørre Snede,nede,1.675.000,15-01-2007,Alm. Salg,15.090,4,Stuehus,111,1877,,
+Anlægsvej 38766 Nørre Snede,nede,1.050.000,05-01-2007,Alm. Salg,7.094,8,Villa,148,1954,,Aktuel værdi
+Ege Alle 88766 Nørre Snede,nede,600.000,22-12-2006,Alm. Salg,7.500,3,Rækkehus,80,1980,,Aktuel værdi
+Lindbjerg Alle 18766 Nørre Snede,nede,1.135.000,15-12-2006,Alm. Salg,7.275,7,Villa,156,1975,,Aktuel værdi
+Lyngholmvej 58766 Nørre Snede,nede,1.795.000,13-12-2006,Alm. Salg,15.884,5,Villa,113,1988,,Aktuel værdi
+Falkevej 158766 Nørre Snede,nede,490.000,08-12-2006,Alm. Salg,5.000,4,Villa,98,1966,,Aktuel værdi
+Ørnevej 58766 Nørre Snede,nede,885.000,22-11-2006,Alm. Salg,6.145,7,Villa,144,1965,,Aktuel værdi
+Irisvej 38766 Nørre Snede,nede,1.160.000,08-11-2006,Alm. Salg,10.175,4,Villa,114,1970,,Aktuel værdi
+Velgårdevej 148766 Nørre Snede,nede,2.500.000,27-10-2006,Alm. Salg,20.161,3,Stuehus,124,1928,,
+Ege Alle 20B8766 Nørre Snede,nede,935.000,19-10-2006,Alm. Salg,9.639,4,Rækkehus,97,1987,,Aktuel værdi
+Falkevej 388766 Nørre Snede,nede,840.000,03-10-2006,Alm. Salg,3.981,7,Villa,211,1925,,Aktuel værdi
+Kildebakken 18766 Nørre Snede,nede,232.440,20-09-2006,Alm. Salg,1.490,6,Villa,156,1999,,Aktuel værdi
+Teglværksvej 618766 Nørre Snede,nede,411.707,13-09-2006,Alm. Salg,2.189,6,Villa,188,1952,,Aktuel værdi
+Skovdalen 58766 Nørre Snede,nede,162.304,25-08-2006,Alm. Salg,744,8,Villa,218,2008,,Aktuel værdi
+Strøget 11C8766 Nørre Snede,nede,780.000,07-07-2006,Alm. Salg,-,5,Lejlighed,120,1903,,Aktuel værdi
+Frisbækvej 138766 Nørre Snede,nede,2.300.000,06-07-2006,Alm. Salg,4.883,9,Stuehus,471,1890,,
+Nortvigvej 128766 Nørre Snede,nede,1.685.000,21-06-2006,Alm. Salg,8.776,7,Stuehus,192,1968,,
+Givevej 628766 Nørre Snede,nede,900.000,20-06-2006,Alm. Salg,4.568,6,Stuehus,197,2013,,
+Skolegade 18766 Nørre Snede,nede,690.000,29-05-2006,Alm. Salg,-,5,Villa,214,1900,,Aktuel værdi
+Rosengade 208766 Nørre Snede,nede,600.000,05-05-2006,Alm. Salg,4.615,8,Villa,130,1934,,Aktuel værdi
+Horsensvej 598766 Nørre Snede,nede,850.000,01-05-2006,Alm. Salg,7.870,3,Villa,108,1929,,Aktuel værdi
+Vedbendvej 98766 Nørre Snede,nede,400.000,27-04-2006,Alm. Salg,2.339,6,Villa,171,2008,,Aktuel værdi
+Anemonevej 58766 Nørre Snede,nede,1.123.000,25-04-2006,Alm. Salg,8.773,4,Villa,128,1968,,Aktuel værdi
+Prærievænget 138766 Nørre Snede,nede,110.352,24-04-2006,Alm. Salg,868,6,Villa,127,2007,,Aktuel værdi
+Bredgade 358766 Nørre Snede,nede,625.000,20-04-2006,Auktion,3.930,6,Villa,159,1943,,Aktuel værdi
+Matrupladegårdvej 118766 Nørre Snede,nede,1.235.000,20-04-2006,Fam. Salg,15.833,3,Stuehus,78,1870,,
+Falkevej 118766 Nørre Snede,nede,965.000,07-04-2006,Alm. Salg,5.920,7,Villa,163,1967,,Aktuel værdi
+Ege Alle 818766 Nørre Snede,nede,1.175.000,06-04-2006,Alm. Salg,8.834,5,Villa,133,1987,,Aktuel værdi
+Teglværksvej 238766 Nørre Snede,nede,500.000,03-04-2006,Alm. Salg,4.504,5,Villa,111,1960,,Aktuel værdi
+Prærievænget 218766 Nørre Snede,nede,220.704,27-03-2006,Alm. Salg,1.622,5,Villa,136,2006,,Aktuel værdi
+Prærievænget 68766 Nørre Snede,nede,270.336,23-02-2006,Alm. Salg,1.098,7,Villa,246,2008,,Aktuel værdi
+Vejlevej 588766 Nørre Snede,nede,370.000,19-02-2006,Fam. Salg,3.627,3,Villa,102,1952,,Aktuel værdi
+Velgårdevej 208766 Nørre Snede,nede,45.000,27-12-2005,Alm. Salg,592,3,Villa,76,2008,,Aktuel værdi
+Strøget 238766 Nørre Snede,nede,500.000,22-12-2005,Alm. Salg,3.571,4,Villa,140,1896,,Aktuel værdi
+Kildebakken 398766 Nørre Snede,nede,93.360,22-12-2005,Alm. Salg,681,5,Villa,137,2008,,Aktuel værdi
+Snerlevej 48766 Nørre Snede,nede,1.365.000,20-12-2005,Alm. Salg,7.800,5,Villa,175,1971,,Aktuel værdi
+Prærievænget 78766 Nørre Snede,nede,126.720,17-12-2005,Alm. Salg,905,4,Villa,140,2008,,Aktuel værdi
+Ørnevej 248766 Nørre Snede,nede,670.000,16-11-2005,Alm. Salg,6.442,3,Villa,104,1965,,Aktuel værdi
+Teglværksvej 778766 Nørre Snede,nede,927.500,08-11-2005,Alm. Salg,4.907,6,Villa,189,1930,,Aktuel værdi
+Vibevej 288766 Nørre Snede,nede,635.000,07-11-2005,Alm. Salg,5.825,4,Villa,109,1968,,Aktuel værdi
+Toftevej 108766 Nørre Snede,nede,530.000,23-09-2005,Alm. Salg,6.463,4,Villa,82,1963,,Aktuel værdi
+Vibevej 28766 Nørre Snede,nede,743.000,15-09-2005,Fam. Salg,5.628,4,Villa,132,1964,,Aktuel værdi
+Vejlevej 838766 Nørre Snede,nede,425.000,14-09-2005,Alm. Salg,4.047,3,Villa,105,1900,,Aktuel værdi
+Prærievænget 58766 Nørre Snede,nede,116.864,09-09-2005,Alm. Salg,878,5,Villa,133,2007,,Aktuel værdi
+Silkeborgvej 98766 Nørre Snede,nede,600.000,09-09-2005,Alm. Salg,5.825,4,Villa,103,1947,,Aktuel værdi
+Lindbjerg Alle 298766 Nørre Snede,nede,1.020.000,08-09-2005,Alm. Salg,4.788,7,Villa,213,1979,,Aktuel værdi
+Teglværksvej 148766 Nørre Snede,nede,800.000,05-09-2005,Alm. Salg,10.526,3,Villa,76,1914,,Aktuel værdi
+Ege Alle 548766 Nørre Snede,nede,1.270.000,29-07-2005,Alm. Salg,6.939,7,Villa,183,1986,,Aktuel værdi
+Skovdalen 48766 Nørre Snede,nede,170.000,27-06-2005,Alm. Salg,627,5,Villa,271,2011,,Aktuel værdi
+Horsensvej 358766 Nørre Snede,nede,1.650.000,22-06-2005,Alm. Salg,14.473,5,Stuehus,114,1911,,
+Prærievænget 28766 Nørre Snede,nede,1.650.000,02-06-2005,Alm. Salg,6.066,8,Villa,272,1976,,Aktuel værdi
+Vedbendvej 108766 Nørre Snede,nede,533.719,30-05-2005,Alm. Salg,-,5,Villa,202,1951,,Aktuel værdi
+Skovbakken 388766 Nørre Snede,nede,745.000,30-05-2005,Alm. Salg,10.347,3,Villa,72,1953,,Aktuel værdi
+Elme Alle 68766 Nørre Snede,nede,715.000,21-04-2005,Alm. Salg,7.447,4,Rækkehus,96,1986,,Aktuel værdi
+Liljevej 68766 Nørre Snede,nede,700.000,19-04-2005,Alm. Salg,6.603,4,Villa,106,1969,,Aktuel værdi
+Ørnevej 178766 Nørre Snede,nede,1.030.000,15-04-2005,Alm. Salg,5.567,5,Villa,185,1966,,Aktuel værdi
+Skovdalen 78766 Nørre Snede,nede,840.000,14-04-2005,Alm. Salg,3.230,8,Villa,260,2008,,Aktuel værdi
+Kildebakken 58766 Nørre Snede,nede,1.470.000,12-04-2005,Alm. Salg,9.074,6,Villa,162,1999,,Aktuel værdi
+Silkeborgvej 408766 Nørre Snede,nede,900.000,30-03-2005,Alm. Salg,11.250,2,Villa,80,1959,,Aktuel værdi
+Kløvervej 618766 Nørre Snede,nede,626.500,15-03-2005,Alm. Salg,6.664,4,Rækkehus,94,1982,,Aktuel værdi
+Givevej 548766 Nørre Snede,nede,2.100.000,11-03-2005,Alm. Salg,18.918,4,Stuehus,111,1885,,
+Skolegade 98766 Nørre Snede,nede,675.000,09-03-2005,Alm. Salg,5.769,6,Villa,117,1935,,Aktuel værdi
+Ege Alle 1308766 Nørre Snede,nede,930.000,05-03-2005,Alm. Salg,5.670,5,Villa,164,1974,,Aktuel værdi
+Irisvej 18766 Nørre Snede,nede,1.200.000,11-02-2005,Alm. Salg,6.417,5,Villa,187,1971,,Aktuel værdi
+Arritskovvej 68766 Nørre Snede,nede,175.000,04-02-2005,Fam. Salg,7.291,1,Sommerhus,24,1957,,Aktuel værdi
+Ege Alle 278766 Nørre Snede,nede,825.000,28-01-2005,Alm. Salg,5.322,4,Villa,155,1973,,Aktuel værdi
+Prærievænget 98766 Nørre Snede,nede,135.072,14-01-2005,Alm. Salg,1.000,5,Villa,135,2005,,Aktuel værdi
+Brandevej 168766 Nørre Snede,nede,157.000,14-01-2005,Alm. Salg,1.145,5,Stuehus,137,1929,,
+Ege Alle 18766 Nørre Snede,nede,725.000,06-01-2005,Alm. Salg,5.370,5,Villa,135,1980,,Aktuel værdi
+Bredgade 148766 Nørre Snede,nede,500.000,13-12-2004,Alm. Salg,3.846,4,Villa,130,1907,,Aktuel værdi
+Kildebakken 28766 Nørre Snede,nede,174.070,12-12-2004,Alm. Salg,784,8,Villa,222,2005,,Aktuel værdi
+Snerlevej 88766 Nørre Snede,nede,1.200.000,01-12-2004,Alm. Salg,6.818,6,Villa,176,1971,,Aktuel værdi
+Skovdalen 88766 Nørre Snede,nede,170.940,29-11-2004,Alm. Salg,-,7,Villa,176,2006,,Aktuel værdi
+Skovbakken 238766 Nørre Snede,nede,978.067,19-11-2004,Alm. Salg,-,7,Villa,185,1960,,Aktuel værdi
+Vibevej 138766 Nørre Snede,nede,900.000,12-11-2004,Alm. Salg,4.787,5,Villa,188,1967,,Aktuel værdi
+Teglværksvej 878766 Nørre Snede,nede,999.000,03-11-2004,Alm. Salg,8.686,4,Stuehus,115,1931,,
+Glentevej 48766 Nørre Snede,nede,665.000,15-10-2004,Alm. Salg,6.650,4,Villa,100,1967,,Aktuel værdi
+Rørbækvej 58766 Nørre Snede,nede,650.000,15-10-2004,Alm. Salg,5.603,4,Villa,116,1978,,Aktuel værdi
+Lindbjerg Alle 638766 Nørre Snede,nede,975.000,04-10-2004,Alm. Salg,4.826,6,Villa,202,1973,,Aktuel værdi
+Vejlevej 798766 Nørre Snede,nede,9.340.500,30-09-2004,Fam. Salg,35.650,6,Stuehus,262,1920,,
+Toftevej 148766 Nørre Snede,nede,816.835,13-08-2004,Alm. Salg,7.425,4,Villa,110,1967,,Aktuel værdi
+Skovdalen 28766 Nørre Snede,nede,132.300,21-06-2004,Alm. Salg,1.033,3,Villa,128,2006,,Aktuel værdi
+Skolegade 128766 Nørre Snede,nede,850.000,11-06-2004,Alm. Salg,6.746,6,Villa,126,1958,,Aktuel værdi
+Solbakkevej 78766 Nørre Snede,nede,400.000,09-06-2004,Alm. Salg,-,5,Villa,157,1956,,Aktuel værdi
+Skolegade 138766 Nørre Snede,nede,550.000,30-04-2004,Alm. Salg,4.867,4,Villa,113,1956,,Aktuel værdi
+Ege Alle 1068766 Nørre Snede,nede,875.000,23-04-2004,Alm. Salg,7.056,4,Villa,124,1975,,Aktuel værdi
+Violvej 78766 Nørre Snede,nede,740.000,23-04-2004,Alm. Salg,5.248,5,Villa,141,1971,,Aktuel værdi
+Ørnevej 18766 Nørre Snede,nede,2.300.000,21-04-2004,Alm. Salg,16.546,4,Rækkehus,139,1964,,Aktuel værdi
+Ørnevej 38766 Nørre Snede,nede,450.000,21-04-2004,Alm. Salg,3.750,4,Villa,120,1966,,Aktuel værdi
+Grønnegade 138766 Nørre Snede,nede,200.000,19-04-2004,Auktion,2.222,4,Villa,90,1857,,Aktuel værdi
+Vinkelvej 28766 Nørre Snede,nede,2.620.000,15-04-2004,Alm. Salg,13.645,5,Villa,192,1966,,Aktuel værdi
+Teglværksvej 418766 Nørre Snede,nede,575.000,19-03-2004,Alm. Salg,5.989,3,Villa,96,1951,,Aktuel værdi
+Brandevej 158766 Nørre Snede,nede,900.000,12-02-2004,Alm. Salg,6.521,3,Stuehus,138,2006,,
+Silkeborgvej 338766 Nørre Snede,nede,446.457,02-02-2004,Alm. Salg,2.880,4,Villa,155,1938,,Aktuel værdi
+Liljevej 78766 Nørre Snede,nede,542.500,23-01-2004,Fam. Salg,3.172,5,Villa,171,1969,,Aktuel værdi
+Vejlevej 728766 Nørre Snede,nede,1.750.000,15-01-2004,Alm. Salg,10.057,7,Stuehus,174,1914,,
+Lindbjerg Alle 578766 Nørre Snede,nede,800.000,09-12-2003,Alm. Salg,6.060,4,Villa,132,1979,,Aktuel værdi
+Solbakkevej 108766 Nørre Snede,nede,540.000,01-12-2003,Alm. Salg,-,3,Villa,95,1955,,Aktuel værdi
+Skolegade 158766 Nørre Snede,nede,375.000,12-11-2003,Alm. Salg,4.464,2,Villa,84,1957,,Aktuel værdi
+Falkevej 168766 Nørre Snede,nede,850.000,07-11-2003,Alm. Salg,5.862,4,Villa,145,1965,,Aktuel værdi
+Viborgvej 468766 Nørre Snede,nede,500.000,05-11-2003,Alm. Salg,4.000,5,Villa,125,1927,,Aktuel værdi
+Toftevej 98766 Nørre Snede,nede,450.000,16-10-2003,Alm. Salg,6.923,3,Villa,65,1903,,Aktuel værdi
+Skovdalen 68766 Nørre Snede,nede,1.500.000,14-10-2003,Alm. Salg,7.142,7,Stuehus,210,1921,,
+Ege Alle 18B8766 Nørre Snede,nede,680.000,10-10-2003,Alm. Salg,7.083,4,Villa,96,1987,,Aktuel værdi
+Horsensvej 548766 Nørre Snede,nede,445.000,22-09-2003,Alm. Salg,3.371,6,Villa,132,1914,,Aktuel værdi
+Nørhovedvej 138766 Nørre Snede,nede,555.000,06-08-2003,Fam. Salg,6.235,3,Villa,89,1995,,Aktuel værdi
+Lindbjerg Alle 418766 Nørre Snede,nede,899.000,03-07-2003,Alm. Salg,6.659,5,Villa,135,1977,,Aktuel værdi
+Skovbakken 158766 Nørre Snede,nede,896.456,13-06-2003,Alm. Salg,5.036,6,Villa,178,1945,,Aktuel værdi
+Viborgvej 978766 Nørre Snede,nede,1.890.000,20-05-2003,Alm. Salg,6.608,7,Stuehus,286,1925,,
+Kløvervej 938766 Nørre Snede,nede,682.467,23-04-2003,Alm. Salg,7.109,4,Rækkehus,96,1983,,Aktuel værdi
+Silkeborgvej 388766 Nørre Snede,nede,633.649,21-04-2003,Fam. Salg,7.920,4,Stuehus,80,1896,,
+Højtoftegade 58766 Nørre Snede,nede,695.000,14-04-2003,Alm. Salg,-,6,Villa,204,1960,,Aktuel værdi
+Ørnevej 228766 Nørre Snede,nede,543.213,11-04-2003,Alm. Salg,5.542,3,Villa,98,1966,,Aktuel værdi
+Rørbækvej 288766 Nørre Snede,nede,1.225.000,28-03-2003,Alm. Salg,-,8,Villa,281,1922,,Aktuel værdi
+Glentevej 68766 Nørre Snede,nede,412.500,20-03-2003,Fam. Salg,2.884,5,Villa,143,1968,,Aktuel værdi
+Givevej 598766 Nørre Snede,nede,1.232.500,17-03-2003,Fam. Salg,12.325,4,Stuehus,100,1934,,
+Viborgvej 448766 Nørre Snede,nede,375.000,12-03-2003,Fam. Salg,2.862,2,Sommerhus,131,1940,,Aktuel værdi
+Kirkevej 208766 Nørre Snede,nede,670.000,18-02-2003,Fam. Salg,3.453,4,Stuehus,194,2009,,
+Ege Alle 988766 Nørre Snede,nede,865.000,04-02-2003,Alm. Salg,6.865,4,Villa,126,1974,,Aktuel værdi
+Skolegade 58766 Nørre Snede,nede,940.000,04-02-2003,Alm. Salg,5.433,8,Villa,173,1933,,Aktuel værdi
+Skovdalen 98766 Nørre Snede,nede,81.750,23-01-2003,Alm. Salg,389,5,Villa,210,2008,,Aktuel værdi
+Krondalvej 218766 Nørre Snede,nede,9.750.000,10-01-2003,Alm. Salg,46.428,6,Stuehus,210,1982,,
+Svinget 68766 Nørre Snede,nede,780.000,18-12-2002,Alm. Salg,8.478,4,Villa,92,1960,,Aktuel værdi
+Skovbakken 188766 Nørre Snede,nede,540.000,28-10-2002,Alm. Salg,6.428,3,Villa,84,1959,,Aktuel værdi
+Skovdalen 158766 Nørre Snede,nede,92.310,24-10-2002,Alm. Salg,515,5,Villa,179,2011,,Aktuel værdi
+Teglværksvej 818766 Nørre Snede,nede,475.000,23-10-2002,Alm. Salg,4.797,3,Villa,99,1957,,Aktuel værdi
+Vedbendvej 38766 Nørre Snede,nede,463.000,11-10-2002,Alm. Salg,2.723,5,Villa,170,1962,,Aktuel værdi
+Solbakkevej 58766 Nørre Snede,nede,525.000,24-09-2002,Alm. Salg,4.861,3,Villa,108,1953,,Aktuel værdi
+Kløvervej 538766 Nørre Snede,nede,510.000,16-09-2002,Alm. Salg,6.375,3,Rækkehus,80,1981,,Aktuel værdi
+Vejlevej 628766 Nørre Snede,nede,180.000,08-09-2002,Fam. Salg,-,5,Villa,103,1900,,Aktuel værdi
+Vejlevej 548766 Nørre Snede,nede,417.875,07-08-2002,Alm. Salg,4.220,3,Villa,99,1941,,Aktuel værdi
+Højtoftegade 148766 Nørre Snede,nede,650.000,04-07-2002,Alm. Salg,4.924,5,Villa,132,1963,,Aktuel værdi
+Solbakkevej 98766 Nørre Snede,nede,575.000,29-06-2002,Alm. Salg,4.049,6,Villa,142,1951,,Aktuel værdi
+Grønnegade 118766 Nørre Snede,nede,573.307,26-06-2002,Alm. Salg,5.733,4,Villa,100,1962,,Aktuel værdi
+Ege Alle 20A8766 Nørre Snede,nede,595.000,25-06-2002,Alm. Salg,6.134,4,Rækkehus,97,1987,,Aktuel værdi
+Lindbjerg Alle 98766 Nørre Snede,nede,943.606,10-06-2002,Alm. Salg,7.258,4,Villa,130,1976,,Aktuel værdi
+Grættrupvej 78766 Nørre Snede,nede,500.000,27-05-2002,Fam. Salg,3.311,5,Stuehus,151,1920,,
+Kløvervej 1078766 Nørre Snede,nede,602.863,14-05-2002,Alm. Salg,6.279,4,Rækkehus,96,1984,,Aktuel værdi
+Ege Alle 178766 Nørre Snede,nede,800.000,13-05-2002,Alm. Salg,5.797,5,Villa,138,1978,,Aktuel værdi
+Falkevej 298766 Nørre Snede,nede,843.826,02-05-2002,Alm. Salg,4.849,5,Villa,174,1968,,Aktuel værdi
+Ørnevej 258766 Nørre Snede,nede,850.000,26-04-2002,Alm. Salg,5.985,6,Villa,142,1967,,Aktuel værdi
+Teglværksvej 518766 Nørre Snede,nede,816.197,25-04-2002,Fam. Salg,8.001,6,Villa,102,1950,,Aktuel værdi
+Horsensvej 348766 Nørre Snede,nede,2.762.500,16-04-2002,Fam. Salg,-,7,Stuehus,230,1990,,
+Grættrupvej 48766 Nørre Snede,nede,550.000,25-03-2002,Alm. Salg,4.583,3,Villa,120,1922,,Aktuel værdi
+Skovbakken 248766 Nørre Snede,nede,50.000,17-03-2002,Alm. Salg,263,5,Villa,190,2003,,Aktuel værdi
+Horsensvej 488766 Nørre Snede,nede,385.000,13-03-2002,Alm. Salg,4.425,3,Villa,87,1948,,Aktuel værdi
+Lindbjerg Alle 318766 Nørre Snede,nede,646.535,08-02-2002,Auktion,4.973,5,Villa,130,1977,,Aktuel værdi
+Halle Søvej 38766 Nørre Snede,nede,1.700.000,04-01-2002,Alm. Salg,7.798,7,Stuehus,218,1927,,
+Anlægsvej 78766 Nørre Snede,nede,522.000,20-12-2001,Alm. Salg,7.250,2,Villa,72,1958,,Aktuel værdi
+Frisbækvej 28766 Nørre Snede,nede,128.000,14-12-2001,Alm. Salg,1.084,5,Stuehus,118,1897,,
+Palsgårdvej 138766 Nørre Snede,nede,270.000,14-12-2001,Andet,1.534,9,Villa,176,1896,,Aktuel værdi
+Lyngholmvej 88766 Nørre Snede,nede,1.900.000,26-11-2001,Alm. Salg,11.515,5,Stuehus,165,1955,,
+Kirkevej 188766 Nørre Snede,nede,898.783,31-10-2001,Alm. Salg,5.514,4,Villa,163,1925,,Aktuel værdi
+Anemonevej 28766 Nørre Snede,nede,700.000,27-09-2001,Alm. Salg,-,4,Villa,167,1967,,Aktuel værdi
+Ege Alle 328766 Nørre Snede,nede,954.966,25-09-2001,Alm. Salg,4.360,4,Villa,219,1979,,Aktuel værdi
+Lindbjerg Alle 338766 Nørre Snede,nede,770.000,17-09-2001,Alm. Salg,6.637,4,Villa,116,1979,,Aktuel værdi
+Teglværksvej 298766 Nørre Snede,nede,875.000,13-09-2001,Fam. Salg,5.335,6,Villa,164,1977,,Aktuel værdi
+Silkeborgvej 198766 Nørre Snede,nede,1.970.000,11-09-2001,Alm. Salg,6.416,7,Stuehus,307,2016,,
+Skolegade 218766 Nørre Snede,nede,159.961,10-09-2001,Andet,1.538,3,Villa,104,1960,,Aktuel værdi
+Bredgade 198766 Nørre Snede,nede,88.680,10-08-2001,Alm. Salg,852,7,Villa,104,1897,,Aktuel værdi
+Viborgvej 368766 Nørre Snede,nede,1.070.000,10-08-2001,Alm. Salg,-,6,Stuehus,201,1975,,
+Vejlevej 738766 Nørre Snede,nede,485.635,06-07-2001,Alm. Salg,4.414,4,Villa,110,1961,,Aktuel værdi
+Anlægsvej 248766 Nørre Snede,nede,660.000,26-06-2001,Alm. Salg,5.500,5,Villa,120,1964,,Aktuel værdi
+Falkevej 268766 Nørre Snede,nede,5.500.000,25-06-2001,Alm. Salg,13.681,9,Stuehus,402,1988,,
+Irisvej 28766 Nørre Snede,nede,750.000,06-06-2001,Alm. Salg,4.838,5,Villa,155,1970,,Aktuel værdi
+"Strøget 6, 18766 Nørre Snede",nede,804.292,01-06-2001,Alm. Salg,7.516,3,Lejlighed,107,1920,,Aktuel værdi
+Vibevej 18766 Nørre Snede,nede,750.000,20-04-2001,Alm. Salg,4.901,4,Villa,153,1965,,Aktuel værdi
+Ege Alle 68766 Nørre Snede,nede,565.000,02-04-2001,Alm. Salg,7.062,3,Rækkehus,80,1980,,Aktuel værdi
+Kløvervej 1D8766 Nørre Snede,nede,646.348,06-03-2001,Alm. Salg,6.732,4,Rækkehus,96,1986,,Aktuel værdi
+Kildebakken 298766 Nørre Snede,nede,98.098,05-01-2001,Alm. Salg,557,6,Villa,176,2008,,Aktuel værdi
+Elme Alle 88766 Nørre Snede,nede,555.000,22-12-2000,Alm. Salg,5.781,4,Rækkehus,96,1988,,Aktuel værdi
+Silkeborgvej 368766 Nørre Snede,nede,440.880,11-12-2000,Alm. Salg,4.408,4,Villa,100,1916,,Aktuel værdi
+Viborgvej 1358766 Nørre Snede,nede,695.000,11-12-2000,Alm. Salg,2.158,8,Stuehus,322,1947,,
+Lindbjerg Alle 258766 Nørre Snede,nede,995.000,29-11-2000,Alm. Salg,-,6,Villa,154,1977,,Aktuel værdi
+Mågevej 68766 Nørre Snede,nede,660.000,09-11-2000,Alm. Salg,4.714,6,Villa,140,1973,,Aktuel værdi
+Ege Alle 928766 Nørre Snede,nede,450.000,08-11-2000,Andet,2.710,5,Villa,166,1977,,Aktuel værdi
+Grættrupvej 68766 Nørre Snede,nede,900.000,18-10-2000,Alm. Salg,5.454,4,Villa,165,1919,,Aktuel værdi
+Liljevej 98766 Nørre Snede,nede,650.000,11-10-2000,Alm. Salg,5.241,5,Villa,124,1970,,Aktuel værdi
+Skovbakken 108766 Nørre Snede,nede,995.000,09-10-2000,Alm. Salg,7.316,4,Villa,136,1948,,Aktuel værdi
+Engholmvej 118766 Nørre Snede,nede,56.000,02-10-2000,Alm. Salg,823,3,Villa,68,1972,,Aktuel værdi
+Elme Alle 28766 Nørre Snede,nede,633.099,24-08-2000,Alm. Salg,6.594,4,Rækkehus,96,1985,,Aktuel værdi
+Nortvigvej 58766 Nørre Snede,nede,511.125,24-08-2000,Alm. Salg,2.989,6,Villa,171,1970,,Aktuel værdi
+Kildebakken 68766 Nørre Snede,nede,205.624,15-08-2000,Alm. Salg,1.028,7,Villa,200,2003,,Aktuel værdi
+Vedbendvej 68766 Nørre Snede,nede,519.932,02-08-2000,Alm. Salg,6.665,4,Villa,78,1948,,Aktuel værdi
+Horsensvej 18766 Nørre Snede,nede,1.870.000,28-07-2000,Alm. Salg,12.064,8,Engroshandel,155,1930,,Aktuel værdi
+Møllevænget 58766 Nørre Snede,nede,674.000,24-07-2000,Alm. Salg,3.474,5,Villa,194,1964,,Aktuel værdi
+Kløvervej 578766 Nørre Snede,nede,498.000,02-07-2000,Alm. Salg,6.225,3,Rækkehus,80,1981,,Aktuel værdi
+Brandevej 28766 Nørre Snede,nede,1.550.000,23-06-2000,Fam. Salg,16.145,5,Stuehus,96,1911,,
+Violvej 18766 Nørre Snede,nede,675.000,07-06-2000,Alm. Salg,4.821,5,Villa,140,1971,,Aktuel værdi
+Horsensvej 558766 Nørre Snede,nede,320.000,31-03-2000,Alm. Salg,3.200,4,Villa,100,1939,,Aktuel værdi
+Krondalvej 118766 Nørre Snede,nede,1.070.000,30-03-2000,Alm. Salg,4.163,9,Villa,257,1930,,Aktuel værdi
+Frisbækvej 178766 Nørre Snede,nede,3.350.000,25-01-2000,Fam. Salg,15.581,4,Stuehus,215,1845,,
+Frisbækvej 238766 Nørre Snede,nede,470.000,25-01-2000,Fam. Salg,3.092,6,Stuehus,152,1935,,
+Solbakkevej 128766 Nørre Snede,nede,331.500,21-12-1999,Fam. Salg,4.250,3,Villa,78,1955,,Aktuel værdi
+Glentevej 28766 Nørre Snede,nede,560.000,07-12-1999,Alm. Salg,6.363,4,Villa,88,1966,,Aktuel værdi
+"Falkevej 4B, ST. TH8766 Nørre Snede",nede,1.620.000,25-11-1999,Alm. Salg,18.409,3,Rækkehus,88,1965,,Aktuel værdi
+Viborgvej 228766 Nørre Snede,nede,350.000,30-08-1999,Alm. Salg,3.763,4,Villa,93,1920,,Aktuel værdi
+Lindbjerg Alle 658766 Nørre Snede,nede,575.000,23-08-1999,Alm. Salg,3.422,6,Villa,168,1974,,Aktuel værdi
+Ege Alle 308766 Nørre Snede,nede,940.000,12-08-1999,Alm. Salg,5.433,6,Villa,173,1980,,Aktuel værdi
+Ege Alle 808766 Nørre Snede,nede,980.000,10-07-1999,Alm. Salg,4.924,7,Villa,199,1986,,Aktuel værdi
+Rosengade 28766 Nørre Snede,nede,1.050.000,29-06-1999,Alm. Salg,5.121,7,Villa,205,1900,,Aktuel værdi
+Vejlevej 778766 Nørre Snede,nede,755.000,07-06-1999,Alm. Salg,5.000,5,Villa,151,1900,,Aktuel værdi
+Ege Alle 968766 Nørre Snede,nede,995.000,21-05-1999,Alm. Salg,5.993,6,Villa,166,1981,,Aktuel værdi
+Kløvervej 678766 Nørre Snede,nede,595.000,19-04-1999,Alm. Salg,6.329,4,Rækkehus,94,1982,,Aktuel værdi
+Brandevej 178766 Nørre Snede,nede,1.023.000,12-04-1999,Alm. Salg,5.913,4,Stuehus,173,1916,,
+Ege Alle 408766 Nørre Snede,nede,991.000,23-02-1999,Alm. Salg,4.696,7,Villa,211,1979,,Aktuel værdi
+Kildebakken 208766 Nørre Snede,nede,1.400.000,22-02-1999,Alm. Salg,8.383,5,Villa,167,1988,,Aktuel værdi
+Godthåbvej 118766 Nørre Snede,nede,850.000,22-01-1999,Alm. Salg,3.695,5,Villa,230,1911,,Aktuel værdi
+Valmuevej 78766 Nørre Snede,nede,805.000,12-01-1999,Alm. Salg,5.127,5,Villa,157,1969,,Aktuel værdi
+Teglværksvej 578766 Nørre Snede,nede,270.000,31-12-1998,Alm. Salg,3.214,3,Villa,84,1950,,Aktuel værdi
+Teglværksvej 558766 Nørre Snede,nede,588.000,16-12-1998,Alm. Salg,5.939,4,Villa,99,1950,,Aktuel værdi
+Møllegade 78766 Nørre Snede,nede,413.000,10-12-1998,Alm. Salg,-,5,Villa,127,1934,,Aktuel værdi
+Ege Alle 568766 Nørre Snede,nede,1.084.000,02-12-1998,Alm. Salg,7.226,5,Villa,150,1980,,Aktuel værdi
+Velgårdevej 248766 Nørre Snede,nede,870.000,16-11-1998,Alm. Salg,6.692,5,Stuehus,130,1947,,
+Møllevænget 138766 Nørre Snede,nede,300.000,03-11-1998,Alm. Salg,4.687,3,Villa,64,1975,,Aktuel værdi
+Krondalvej 58766 Nørre Snede,nede,272.000,12-10-1998,Fam. Salg,-,8,Villa,173,1961,,Aktuel værdi
+Viborgvej 528766 Nørre Snede,nede,500.000,11-10-1998,Alm. Salg,2.688,6,Villa,186,1950,,Aktuel værdi
+Tranholmvej 188766 Nørre Snede,nede,500.000,10-10-1998,Alm. Salg,5.882,3,Villa,85,1927,,Aktuel værdi
+Vejlevej 878766 Nørre Snede,nede,846.000,15-09-1998,Alm. Salg,4.890,4,Villa,173,1967,,Aktuel værdi
+Viborgvej 998766 Nørre Snede,nede,1.105.000,31-08-1998,Alm. Salg,6.863,6,Stuehus,161,1910,,
+Elme Alle 148766 Nørre Snede,nede,585.000,17-08-1998,Alm. Salg,6.093,4,Rækkehus,96,1988,,Aktuel værdi
+Valmuevej 38766 Nørre Snede,nede,585.000,14-08-1998,Alm. Salg,-,6,Villa,156,1970,,Aktuel værdi
+Lindbjerg Alle 138766 Nørre Snede,nede,848.000,13-07-1998,Alm. Salg,6.375,5,Villa,133,1974,,Aktuel værdi
+Engholmvej 78766 Nørre Snede,nede,849.000,02-07-1998,Alm. Salg,3.723,11,Villa,228,1971,,Aktuel værdi
+Anlægsvej 228766 Nørre Snede,nede,560.000,28-06-1998,Alm. Salg,4.912,4,Villa,114,1962,,Aktuel værdi
+Leretvej 58766 Nørre Snede,nede,384.600,10-06-1998,Alm. Salg,1.923,6,Stuehus,200,1942,,
+Teglværksvej 398766 Nørre Snede,nede,418.000,03-06-1998,Alm. Salg,4.644,4,Villa,90,1960,,Aktuel værdi
+Skovbakken 358766 Nørre Snede,nede,266.170,27-05-1998,Alm. Salg,3.327,3,Villa,80,1930,,Aktuel værdi
+Bredgade 168766 Nørre Snede,nede,308.000,15-05-1998,Alm. Salg,3.422,4,Rækkehus,90,1900,,Aktuel værdi
+Horsensvej 108766 Nørre Snede,nede,410.000,16-04-1998,Alm. Salg,3.867,3,Villa,106,1917,,Aktuel værdi
+Horsensvej 418766 Nørre Snede,nede,1.783.000,31-03-1998,Alm. Salg,14.858,4,Stuehus,120,2004,,
+Horsensvej 178766 Nørre Snede,nede,656.000,27-03-1998,Alm. Salg,2.995,8,Villa,219,1944,,Aktuel værdi
+Elme Alle 128766 Nørre Snede,nede,575.000,21-02-1998,Alm. Salg,5.989,4,Rækkehus,96,1988,,Aktuel værdi
+Godthåbvej 78766 Nørre Snede,nede,810.000,26-01-1998,Fam. Salg,5.400,3,Stuehus,150,1860,,
+Viborgvej 268766 Nørre Snede,nede,843.000,17-01-1998,Alm. Salg,6.198,4,Villa,136,1933,,Aktuel værdi
+Vibevej 48766 Nørre Snede,nede,485.000,14-01-1998,Alm. Salg,4.708,3,Villa,103,1966,,Aktuel værdi
+Matrupladegårdvej 58766 Nørre Snede,nede,637.000,10-01-1998,Alm. Salg,4.163,4,Villa,153,1932,,Aktuel værdi
+Velgårdevej 228766 Nørre Snede,nede,520.000,08-01-1998,Alm. Salg,6.666,3,Villa,78,1918,,Aktuel værdi
+Kildebakken 168766 Nørre Snede,nede,81.327,29-12-1997,Alm. Salg,437,8,Villa,186,1999,,Aktuel værdi
+Ege Alle 218766 Nørre Snede,nede,690.100,14-12-1997,Alm. Salg,5.898,4,Villa,117,1979,,Aktuel værdi
+Silkeborgvej 258766 Nørre Snede,nede,382.504,25-11-1997,Alm. Salg,3.477,4,Villa,110,1928,,Aktuel værdi
+Elme Alle 108766 Nørre Snede,nede,500.000,21-11-1997,Alm. Salg,5.208,4,Rækkehus,96,1988,,Aktuel værdi
+Velgårdevej 78766 Nørre Snede,nede,1.250.000,08-11-1997,Alm. Salg,5.165,7,Stuehus,242,1922,,
+Matrupladegårdvej 168766 Nørre Snede,nede,700.920,05-11-1997,Alm. Salg,6.805,4,Villa,103,1911,,Aktuel værdi
+Nørhovedvej 18766 Nørre Snede,nede,360.000,04-10-1997,Alm. Salg,5.806,1,Villa,62,1952,,Aktuel værdi
+Valmuevej 18766 Nørre Snede,nede,515.000,03-10-1997,Alm. Salg,4.439,4,Villa,116,1968,,Aktuel værdi
+Frisbækvej 298766 Nørre Snede,nede,535.000,15-09-1997,Alm. Salg,3.519,5,Villa,152,1877,,Aktuel værdi
+Ege Alle 48766 Nørre Snede,nede,420.000,29-08-1997,Alm. Salg,5.250,3,Rækkehus,80,1980,,Aktuel værdi
+Nellikevej 98766 Nørre Snede,nede,615.000,22-08-1997,Alm. Salg,4.072,6,Villa,151,1969,,Aktuel værdi
+Falkevej 88766 Nørre Snede,nede,510.000,11-08-1997,Alm. Salg,4.396,4,Villa,116,1969,,Aktuel værdi
+Solbakkevej 18766 Nørre Snede,nede,795.000,01-08-1997,Alm. Salg,5.520,4,Villa,144,1954,,Aktuel værdi
+Ege Alle 588766 Nørre Snede,nede,634.000,01-08-1997,Alm. Salg,5.763,5,Villa,110,1986,,Aktuel værdi
+Hærvejen 3358766 Nørre Snede,nede,745.000,23-07-1997,Alm. Salg,-,4,Villa,143,1924,,Aktuel værdi
+Palsgårdvej 158766 Nørre Snede,nede,610.000,18-07-1997,Alm. Salg,6.354,4,Villa,96,1917,,Aktuel værdi
+Valmuevej 138766 Nørre Snede,nede,517.000,17-06-1997,Alm. Salg,4.344,3,Villa,119,1970,,Aktuel værdi
+Strøget 348766 Nørre Snede,nede,540.000,06-06-1997,Alm. Salg,3.157,7,Villa,171,1930,,Aktuel værdi
+Elme Alle 168766 Nørre Snede,nede,495.000,31-05-1997,Alm. Salg,5.156,4,Rækkehus,96,1986,,Aktuel værdi
+Vibevej 38766 Nørre Snede,nede,496.000,26-05-1997,Alm. Salg,4.133,5,Villa,120,1965,,Aktuel værdi
+Brandevej 208766 Nørre Snede,nede,295.000,24-04-1997,Alm. Salg,4.041,3,Villa,73,1903,,Aktuel værdi
+Horsensvej 618766 Nørre Snede,nede,475.000,17-04-1997,Alm. Salg,2.745,6,Villa,173,1911,,Aktuel værdi
+Elme Alle 208766 Nørre Snede,nede,528.000,15-04-1997,Alm. Salg,5.500,4,Rækkehus,96,1986,,Aktuel værdi
+Teglværksvej 838766 Nørre Snede,nede,98.902,10-04-1997,Alm. Salg,1.177,2,Villa,84,1971,,Aktuel værdi
+Godthåbvej 58766 Nørre Snede,nede,640.000,26-03-1997,Alm. Salg,3.678,8,Villa,174,1924,,Aktuel værdi
+Toftevej 128766 Nørre Snede,nede,500.000,14-03-1997,Alm. Salg,4.545,4,Villa,110,1966,,Aktuel værdi
+Liljevej 38766 Nørre Snede,nede,601.000,14-03-1997,Alm. Salg,-,4,Villa,167,1970,,Aktuel værdi
+Nørhovedvej 48766 Nørre Snede,nede,2.200.000,11-03-1997,Alm. Salg,5.626,7,Stuehus,391,2003,,
+Ege Alle 458766 Nørre Snede,nede,600.000,07-02-1997,Alm. Salg,4.651,6,Villa,129,1978,,Aktuel værdi
+Mågevej 108766 Nørre Snede,nede,700.000,04-02-1997,Alm. Salg,6.930,3,Industri o.l.,101,1973,,Aktuel værdi
+Falkevej 198766 Nørre Snede,nede,412.000,29-01-1997,Alm. Salg,3.678,4,Villa,112,1969,,Aktuel værdi
+Højtoftegade 208766 Nørre Snede,nede,500.000,17-01-1997,Alm. Salg,4.132,5,Villa,121,1963,,Aktuel værdi
+Svinget 98766 Nørre Snede,nede,312.000,13-01-1997,Alm. Salg,3.900,3,Villa,80,1961,,Aktuel værdi
+Anlægsvej 268766 Nørre Snede,nede,1.150.000,20-12-1996,Alm. Salg,3.091,7,Villa,372,1970,,Aktuel værdi
+Teglværksvej 138766 Nørre Snede,nede,285.000,11-12-1996,Alm. Salg,1.826,5,Villa,156,1948,,Aktuel værdi
+Viborg Hovedvej 1268766 Nørre Snede,nede,130.000,06-12-1996,Alm. Salg,1.203,5,Villa,108,1920,,Aktuel værdi
+Horsensvej 458766 Nørre Snede,nede,90.000,26-11-1996,Alm. Salg,300,8,Villa,300,1903,,Aktuel værdi
+Falkevej 218766 Nørre Snede,nede,318.676,30-09-1996,Fam. Salg,1.800,7,Villa,177,1966,,Aktuel værdi
+Krondalvej 48766 Nørre Snede,nede,309.000,19-09-1996,Fam. Salg,-,6,Villa,122,1927,,Aktuel værdi
+Nellikevej 28766 Nørre Snede,nede,775.000,18-09-1996,Alm. Salg,3.229,8,Villa,240,1971,,Aktuel værdi
+Kildebakken 228766 Nørre Snede,nede,878.000,17-09-1996,Alm. Salg,5.226,5,Villa,168,1990,,Aktuel værdi
+Silkeborgvej 128766 Nørre Snede,nede,493.000,10-09-1996,Fam. Salg,-,5,Stuehus,136,1900,,
+Vejlevej 688766 Nørre Snede,nede,207.083,09-08-1996,Alm. Salg,924,8,Villa,224,1929,,Aktuel værdi
+Viborg Hovedvej 1288766 Nørre Snede,nede,100.000,08-08-1996,Alm. Salg,990,4,Villa,101,1897,,Aktuel værdi
+Leretvej 28766 Nørre Snede,nede,2.645.000,02-07-1996,Fam. Salg,12.965,8,Stuehus,204,1914,,
+Irisvej 78766 Nørre Snede,nede,571.000,05-06-1996,Alm. Salg,4.358,4,Villa,131,1971,,Aktuel værdi
+Irisvej 88766 Nørre Snede,nede,550.000,03-06-1996,Alm. Salg,3.594,5,Villa,153,1971,,Aktuel værdi
+Skolegade 278766 Nørre Snede,nede,466.000,15-05-1996,Alm. Salg,4.660,4,Villa,100,1961,,Aktuel værdi
+Ege Alle 1088766 Nørre Snede,nede,783.000,12-05-1996,Alm. Salg,5.673,4,Villa,138,1978,,Aktuel værdi
+Svinget 88766 Nørre Snede,nede,275.000,01-04-1996,Fam. Salg,-,4,Villa,125,1962,,Aktuel værdi
+Ørnevej 128766 Nørre Snede,nede,390.000,29-03-1996,Alm. Salg,3.023,3,Villa,129,1964,,Aktuel værdi
+Lindbjerg Alle 398766 Nørre Snede,nede,570.000,27-03-1996,Alm. Salg,3.496,5,Villa,163,1977,,Aktuel værdi
+Matrupladegårdvej 38766 Nørre Snede,nede,950.000,13-03-1996,Alm. Salg,4.460,10,Stuehus,213,1877,,
+Kirkevej 228766 Nørre Snede,nede,1.900.000,16-02-1996,Alm. Salg,10.857,5,Villa,175,1973,,Aktuel værdi
+Frisbækvej 148766 Nørre Snede,nede,950.000,15-02-1996,Alm. Salg,-,8,Stuehus,258,1972,,
+Silkeborgvej 418766 Nørre Snede,nede,600.000,11-01-1996,Alm. Salg,3.529,3,Stuehus,170,1997,,
+Silkeborgvej 298766 Nørre Snede,nede,120.227,17-12-1995,Fam. Salg,626,6,Villa,192,1902,,Aktuel værdi
+Solbakkevej 28766 Nørre Snede,nede,385.000,20-11-1995,Alm. Salg,3.208,4,Villa,120,1953,,Aktuel værdi
+Skovbakken 368766 Nørre Snede,nede,430.000,04-11-1995,Alm. Salg,5.972,3,Villa,72,1952,,Aktuel værdi
+Rylevej 78766 Nørre Snede,nede,4.250.000,13-10-1995,Andet,20.631,10,Villa,206,1967,,Aktuel værdi
+Rørbækvej 208766 Nørre Snede,nede,980.000,05-10-1995,Alm. Salg,4.474,6,Villa,219,1923,,Aktuel værdi
+Godthåbvej 98766 Nørre Snede,nede,480.000,27-09-1995,Alm. Salg,-,6,Villa,200,1887,,Aktuel værdi
+Nortvigvej 88766 Nørre Snede,nede,508.000,27-09-1995,Alm. Salg,5.080,4,Villa,100,1877,,Aktuel værdi
+Solbakkevej 48766 Nørre Snede,nede,330.000,21-09-1995,Alm. Salg,4.583,4,Villa,72,1954,,Aktuel værdi
+Krondalvej 208766 Nørre Snede,nede,450.000,19-09-1995,Alm. Salg,-,5,Villa,157,1963,,Aktuel værdi
+Velgårdevej 158766 Nørre Snede,nede,650.000,07-08-1995,Alm. Salg,5.000,4,Stuehus,130,1948,,
+Frisbækvej 108766 Nørre Snede,nede,1.170.000,14-07-1995,Alm. Salg,5.571,6,Villa,210,1988,,Aktuel værdi
+Viborgvej 1118766 Nørre Snede,nede,500.000,04-07-1995,Alm. Salg,5.952,4,Stuehus,84,1872,,
+Teglværksvej 798766 Nørre Snede,nede,60.000,23-06-1995,Alm. Salg,1.000,2,Villa,60,1940,,Aktuel værdi
+Irisvej 148766 Nørre Snede,nede,709.750,15-06-1995,Alm. Salg,4.381,5,Villa,162,1972,,Aktuel værdi
+Møllegade 68766 Nørre Snede,nede,630.000,30-05-1995,Alm. Salg,3.134,5,Villa,201,1976,,Aktuel værdi
+Grættrupvej 138766 Nørre Snede,nede,1.030.000,21-04-1995,Alm. Salg,7.357,5,Stuehus,140,1855,,
+Ege Alle 368766 Nørre Snede,nede,500.000,19-04-1995,Alm. Salg,4.273,4,Villa,117,1980,,Aktuel værdi
+Kildebakken 188766 Nørre Snede,nede,100.842,02-03-1995,Alm. Salg,527,6,Villa,191,1996,,Aktuel værdi
+Solbakkevej 38766 Nørre Snede,nede,494.000,27-02-1995,Alm. Salg,-,4,Villa,148,1951,,Aktuel værdi
+Strøget 98766 Nørre Snede,nede,650.000,24-02-1995,Alm. Salg,3.532,7,Villa,184,1910,,Aktuel værdi
+Krondalvej 198766 Nørre Snede,nede,700.000,14-02-1995,Alm. Salg,3.333,6,Villa,210,1958,,Aktuel værdi
+Vibevej 188766 Nørre Snede,nede,475.000,23-01-1995,Alm. Salg,3.298,4,Villa,144,1967,,Aktuel værdi
+Viborgvej 1438766 Nørre Snede,nede,62.500,13-01-1995,Fam. Salg,336,5,Villa,186,1930,,Aktuel værdi
+Viborgvej 568766 Nørre Snede,nede,250.000,04-01-1995,Alm. Salg,1.543,5,Villa,162,1920,,Aktuel værdi
+Lyngholmvej 98766 Nørre Snede,nede,450.000,07-12-1994,Alm. Salg,4.591,4,Stuehus,98,1900,,
+Leretvej 38766 Nørre Snede,nede,90.000,02-12-1994,Alm. Salg,1.304,2,Villa,69,1900,,Aktuel værdi
+Ege Alle 98766 Nørre Snede,nede,430.000,22-11-1994,Alm. Salg,3.333,4,Villa,129,1974,,Aktuel værdi
+Ege Alle 498766 Nørre Snede,nede,90.000,16-11-1994,Andet,566,4,Villa,159,1972,,Aktuel værdi
+Nørhovedvej 78766 Nørre Snede,nede,145.000,10-11-1994,Alm. Salg,2.416,2,Villa,60,1900,,Aktuel værdi
+Irisvej 48766 Nørre Snede,nede,625.000,26-10-1994,Alm. Salg,3.980,5,Villa,157,1971,,Aktuel værdi
+Teglværksvej 438766 Nørre Snede,nede,326.000,24-10-1994,Alm. Salg,3.582,3,Villa,91,1949,,Aktuel værdi
+Ege Alle 268766 Nørre Snede,nede,590.000,29-09-1994,Alm. Salg,2.892,7,Villa,204,1987,,Aktuel værdi
+Frisbækvej 118766 Nørre Snede,nede,320.000,13-09-1994,Alm. Salg,3.404,3,Sommerhus,94,1975,,Aktuel værdi
+Skovbakken 258766 Nørre Snede,nede,850.000,09-09-1994,Alm. Salg,5.214,5,Villa,163,1922,,Aktuel værdi
+Rørbækvej 138766 Nørre Snede,nede,347.705,09-09-1994,Alm. Salg,-,4,Villa,150,1916,,Aktuel værdi
+Matrupladegårdvej 108766 Nørre Snede,nede,625.000,05-09-1994,Alm. Salg,3.004,8,Villa,208,1929,,Aktuel værdi
+Vejlevej 848766 Nørre Snede,nede,300.000,29-08-1994,Alm. Salg,5.000,2,Villa,60,1840,,Aktuel værdi
+Arritskovvej 58766 Nørre Snede,nede,360.000,17-08-1994,Fam. Salg,-,10,Villa,226,1906,,Aktuel værdi
+Bredgade 118766 Nørre Snede,nede,274.750,22-07-1994,Alm. Salg,2.348,5,Rækkehus,117,1925,,Aktuel værdi
+Nellikevej 88766 Nørre Snede,nede,679.428,13-07-1994,Alm. Salg,3.838,6,Villa,177,1971,,Aktuel værdi
+Frisbækvej 38766 Nørre Snede,nede,12.250.000,02-05-1994,Alm. Salg,111.363,4,Stuehus,110,1920,,
+Vinkelvej 68766 Nørre Snede,nede,440.000,30-04-1994,Alm. Salg,2.732,5,Villa,161,1966,,Aktuel værdi
+Teglværksvej 98766 Nørre Snede,nede,350.000,21-04-1994,Alm. Salg,4.487,3,Villa,78,1947,,Aktuel værdi
+Ege Alle 1108766 Nørre Snede,nede,590.000,12-04-1994,Alm. Salg,-,6,Villa,172,1979,,Aktuel værdi
+Lindbjerg Alle 48766 Nørre Snede,nede,440.000,16-02-1994,Alm. Salg,3.283,4,Villa,134,1973,,Aktuel værdi
+Kirkevej 248766 Nørre Snede,nede,402.987,07-12-1993,Alm. Salg,2.878,4,Villa,140,1900,,Aktuel værdi
+Nellikevej 68766 Nørre Snede,nede,551.803,02-12-1993,Alm. Salg,4.117,5,Villa,134,1972,,Aktuel værdi
+Lindbjerg Alle 438766 Nørre Snede,nede,636.303,29-10-1993,Alm. Salg,3.181,6,Villa,200,1974,,Aktuel værdi
+Horsensvej 328766 Nørre Snede,nede,90.770,19-10-1993,Alm. Salg,720,5,Villa,126,1880,,Aktuel værdi
+Horsensvej 248766 Nørre Snede,nede,160.000,05-10-1993,Alm. Salg,1.702,4,Villa,94,1927,,Aktuel værdi
+Matrupladegårdvej 48766 Nørre Snede,nede,440.644,29-09-1993,Fam. Salg,3.415,4,Villa,129,1982,,Aktuel værdi
+Horsensvej 648766 Nørre Snede,nede,818.000,29-09-1993,Fam. Salg,-,5,Stuehus,137,1929,,
+Viborg Hovedvej 1248766 Nørre Snede,nede,100.000,16-08-1993,Alm. Salg,1.098,3,Villa,91,1911,,Aktuel værdi
+Lindbjerg Alle 248766 Nørre Snede,nede,697.762,09-08-1993,Alm. Salg,3.634,7,Villa,192,1973,,Aktuel værdi
+Engholmvej 228766 Nørre Snede,nede,180.000,05-08-1993,Fam. Salg,-,4,Villa,121,1969,,Aktuel værdi
+Ørnevej 88766 Nørre Snede,nede,675.000,26-07-1993,Alm. Salg,4.530,5,Villa,149,1967,,Aktuel værdi
+Vibevej 78766 Nørre Snede,nede,572.545,23-07-1993,Alm. Salg,3.742,5,Villa,153,1965,,Aktuel værdi
+Frisbækvej 68766 Nørre Snede,nede,325.000,19-06-1993,Alm. Salg,1.923,4,Stuehus,169,1780,,
+Grættrupvej 108766 Nørre Snede,nede,35.000,18-06-1993,Alm. Salg,164,5,Stuehus,213,1980,,
+Rørbækvej 308766 Nørre Snede,nede,475.000,18-02-1993,Alm. Salg,-,7,Villa,140,1921,,Aktuel værdi
+Irisvej 58766 Nørre Snede,nede,530.000,02-02-1993,Alm. Salg,3.557,3,Villa,149,1971,,Aktuel værdi
+Fællesvej 28766 Nørre Snede,nede,22.860,18-12-1992,Alm. Salg,127,7,Villa,179,1994,,Aktuel værdi
+Horsensvej 428766 Nørre Snede,nede,2.300.000,10-10-1992,Alm. Salg,9.055,5,Stuehus,254,1911,,
+Skolegade 78766 Nørre Snede,nede,350.000,08-10-1992,Fam. Salg,-,9,Villa,215,1932,,Aktuel værdi
+Kløvervej 958766 Nørre Snede,nede,373.400,07-10-1992,Alm. Salg,3.889,4,Rækkehus,96,1983,,Aktuel værdi
+Rosengade 88766 Nørre Snede,nede,396.000,24-09-1992,Auktion,1.692,8,Villa,234,1936,,Aktuel værdi
+Bredgade 68766 Nørre Snede,nede,200.000,02-09-1992,Alm. Salg,1.428,5,Villa,140,1905,,Aktuel værdi
+Glentevej 98766 Nørre Snede,nede,650.000,07-08-1992,Fam. Salg,3.714,6,Villa,175,1968,,Aktuel værdi
+Viborgvej 1378766 Nørre Snede,nede,287.500,02-07-1992,Fam. Salg,3.026,4,Villa,95,1900,,Aktuel værdi
+Lindbjerg Alle 168766 Nørre Snede,nede,490.000,21-04-1992,Fam. Salg,3.024,5,Villa,162,1973,,Aktuel værdi
+Rylevej 58766 Nørre Snede,nede,550.000,15-03-1992,Alm. Salg,1.774,8,Villa,310,1967,,Aktuel værdi
+Brandevej 58766 Nørre Snede,nede,768.000,30-01-1992,Alm. Salg,6.400,4,Villa,120,1917,,Aktuel værdi
+Lindbjerg Alle 288766 Nørre Snede,nede,537.500,27-01-1992,Alm. Salg,1.633,8,Villa,329,1972,,Aktuel værdi
+Kløvervej 978766 Nørre Snede,nede,184.906,15-01-1992,Fam. Salg,1.926,4,Rækkehus,96,1983,,Aktuel værdi
+Valmuevej 58766 Nørre Snede,nede,475.000,10-01-1992,Alm. Salg,3.518,5,Villa,135,1970,,Aktuel værdi

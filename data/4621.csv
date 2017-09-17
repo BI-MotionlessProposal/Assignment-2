@@ -1,0 +1,831 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Ramsøvejen 164621 Gadstrup,trup,4.550.000,20-04-2017,Alm. Salg,14.772,9,Villa,308,1969,-2 %,Aktuel værdi
+Absalonsvænget 84621 Gadstrup,trup,2.075.000,10-04-2017,Alm. Salg,10.427,7,Villa,199,1965,-5 %,Aktuel værdi
+Damvej 34621 Gadstrup,trup,1.900.000,07-04-2017,Alm. Salg,11.377,6,Villa,167,1971,-9 %,Aktuel værdi
+Gammel Skolevej 134621 Gadstrup,trup,1.195.000,13-03-2017,Alm. Salg,19.274,2,Rækkehus,62,1973,-2 %,Aktuel værdi
+Søndervænget 24621 Gadstrup,trup,2.380.000,21-02-2017,Alm. Salg,15.354,5,Villa,155,1980,-3 %,Aktuel værdi
+Fruervej 184621 Gadstrup,trup,2.275.000,19-01-2017,Alm. Salg,10.435,6,Villa,218,1976,-1 %,Aktuel værdi
+Hyldevænget 54621 Gadstrup,trup,2.325.000,18-01-2017,Alm. Salg,19.214,4,Villa,121,1986,-1 %,Aktuel værdi
+Søndervænget 104621 Gadstrup,trup,1.050.000,16-01-2017,Fam. Salg,7.608,4,Villa,138,1980,,Aktuel værdi
+Søvænget 14621 Gadstrup,trup,1.700.000,15-01-2017,Alm. Salg,16.831,4,Villa,101,1972,-5 %,Aktuel værdi
+Snoldelev Bygade 22B4621 Gadstrup,trup,1.450.000,10-01-2017,Alm. Salg,14.215,3,Villa,102,1988,-3 %,Aktuel værdi
+Sikærsvej 44621 Gadstrup,trup,1.615.000,10-01-2017,Alm. Salg,13.024,4,Villa,124,1979,-5 %,Aktuel værdi
+Ramsøvejen 264621 Gadstrup,trup,2.100.000,09-01-2017,Alm. Salg,15.328,5,Villa,137,1965,-11 %,Aktuel værdi
+Karlslundevejen 94621 Gadstrup,trup,4.600.000,06-01-2017,Alm. Salg,31.724,5,Stuehus,145,1938,,
+Ramsøbakken 994621 Gadstrup,trup,1.296.480,06-01-2017,Fam. Salg,6.787,7,Villa,191,2013,,Aktuel værdi
+Hastrup Bygade 54621 Gadstrup,trup,1.489.864,31-12-2016,Alm. Salg,14.325,4,Villa,104,1904,,Aktuel værdi
+Brordrupvej 224621 Gadstrup,trup,1.200.000,21-12-2016,Fam. Salg,6.451,5,Villa,186,1978,,Aktuel værdi
+Tornegårdsvej 2E4621 Gadstrup,trup,2.225.000,14-12-2016,Alm. Salg,15.239,5,Villa,146,1977,-6 %,Aktuel værdi
+Fruervej 324621 Gadstrup,trup,2.575.000,12-12-2016,Alm. Salg,21.106,4,Villa,122,1975,0 %,Aktuel værdi
+Nyvej 264621 Gadstrup,trup,1.850.000,06-12-2016,Alm. Salg,13.703,4,Villa,135,1966,0 %,Aktuel værdi
+Biensvej 174621 Gadstrup,trup,2.570.000,04-12-2016,Alm. Salg,19.323,4,Villa,133,1918,-8 %,Aktuel værdi
+Ramsøvejen 364621 Gadstrup,trup,215.955,26-11-2016,Alm. Salg,1.599,5,Stuehus,135,1950,,
+Biensvej 234621 Gadstrup,trup,2.550.000,24-11-2016,Alm. Salg,13.858,5,Villa,184,1968,,Aktuel værdi
+Pilehaven 1B4621 Gadstrup,trup,2.375.000,21-11-2016,Alm. Salg,15.939,4,Villa,149,1980,-4 %,Aktuel værdi
+Ramsøbakken 64621 Gadstrup,trup,3.295.000,20-11-2016,Alm. Salg,20.723,6,Villa,159,2006,0 %,Aktuel værdi
+Gadstrupparken 54621 Gadstrup,trup,1.825.000,11-11-2016,Alm. Salg,14.600,5,Villa,125,1969,0 %,Aktuel værdi
+Parkagervej 34621 Gadstrup,trup,1.995.000,03-11-2016,Alm. Salg,19.000,3,Villa,105,1966,0 %,Aktuel værdi
+Gadstrupparken 694621 Gadstrup,trup,4.495.000,28-10-2016,Alm. Salg,22.587,6,Villa,199,2008,0 %,Aktuel værdi
+Hørvænget 44621 Gadstrup,trup,488.750,30-09-2016,Andet,5.888,3,Villa,83,1961,,Aktuel værdi
+Hastrupvej 94621 Gadstrup,trup,3.675.000,28-09-2016,Alm. Salg,13.661,5,Villa,269,1920,-6 %,Aktuel værdi
+Møllemarken 34621 Gadstrup,trup,3.900.000,25-09-2016,Alm. Salg,15.294,4,Stuehus,255,1890,,
+Sverregårdsvej 114621 Gadstrup,trup,1.360.000,21-09-2016,Alm. Salg,25.185,2,Sommerhus,54,1987,,Aktuel værdi
+Kirkebakken 964621 Gadstrup,trup,1.750.000,14-09-2016,Alm. Salg,10.937,5,Villa,160,1972,-8 %,Aktuel værdi
+Dyssegårdsvej 934621 Gadstrup,trup,1.780.000,02-09-2016,Alm. Salg,12.898,5,Villa,138,1969,-4 %,Aktuel værdi
+Hastrup Bygade 64621 Gadstrup,trup,4.150.000,01-09-2016,Fam. Salg,39.523,4,Stuehus,105,1700,,
+Dyssegårdsvej 94621 Gadstrup,trup,980.000,25-08-2016,Fam. Salg,6.577,5,Villa,149,1973,,Aktuel værdi
+Gadstrupparken 674621 Gadstrup,trup,1.650.000,24-08-2016,Alm. Salg,14.732,4,Villa,112,1970,0 %,Aktuel værdi
+Agervænget 84621 Gadstrup,trup,1.900.000,23-08-2016,Alm. Salg,17.272,3,Villa,110,1997,-4 %,Aktuel værdi
+Søndervænget 94621 Gadstrup,trup,2.160.000,23-08-2016,Alm. Salg,15.539,3,Villa,139,1979,-4 %,Aktuel værdi
+Dyssegårdsvej 654621 Gadstrup,trup,2.480.000,08-08-2016,Alm. Salg,15.500,5,Villa,160,1972,-4 %,Aktuel værdi
+Tunevej 94621 Gadstrup,trup,4.550.000,28-07-2016,Alm. Salg,25.138,4,Villa,181,1850,-2 %,Aktuel værdi
+Ramsøbakken 244621 Gadstrup,trup,2.010.000,26-07-2016,Alm. Salg,20.937,3,Rækkehus,96,2007,-4 %,Aktuel værdi
+Gadstrupparken 474621 Gadstrup,trup,2.399.000,24-07-2016,Alm. Salg,15.887,5,Villa,151,1969,0 %,Aktuel værdi
+Sverregårdsvej 234621 Gadstrup,trup,795.000,06-07-2016,Alm. Salg,9.937,3,Sommerhus,80,1962,0 %,Aktuel værdi
+Nørrevej 114621 Gadstrup,trup,2.400.000,30-06-2016,Alm. Salg,13.259,5,Villa,181,1978,-4 %,Aktuel værdi
+Tornegårdsvej 534621 Gadstrup,trup,2.360.000,29-06-2016,Alm. Salg,13.111,5,Villa,180,1973,-2 %,Aktuel værdi
+Tornegårdsvej 2A4621 Gadstrup,trup,2.345.000,14-06-2016,Alm. Salg,16.870,5,Villa,139,1979,2 %,Aktuel værdi
+Bødkers Vænge 64621 Gadstrup,trup,1.465.000,06-06-2016,Alm. Salg,15.260,3,Villa,96,1966,0 %,Aktuel værdi
+Nyvej 254621 Gadstrup,trup,1.675.000,02-06-2016,Alm. Salg,15.227,4,Villa,110,1970,-1 %,Aktuel værdi
+Damvej 44621 Gadstrup,trup,1.547.500,02-06-2016,Alm. Salg,11.723,3,Villa,132,1959,-3 %,Aktuel værdi
+Gadstrupparken 354621 Gadstrup,trup,1.750.000,26-05-2016,Alm. Salg,12.068,4,Villa,145,1969,-7 %,Aktuel værdi
+Ramsøbakken 224621 Gadstrup,trup,2.425.000,06-05-2016,Alm. Salg,20.041,4,Rækkehus,121,2008,-3 %,Aktuel værdi
+Ramsøbakken 1054621 Gadstrup,trup,995.000,05-05-2016,Alm. Salg,6.633,5,Villa,150,2017,,Aktuel værdi
+Hovedgaden 74621 Gadstrup,trup,1.950.000,04-05-2016,Alm. Salg,13.175,4,Villa,148,1931,-2 %,Aktuel værdi
+Gartnervangen 194621 Gadstrup,trup,1.415.000,02-05-2016,Alm. Salg,15.215,3,Rækkehus,93,1988,,Aktuel værdi
+Askhavevej 44621 Gadstrup,trup,1.000.000,29-04-2016,Fam. Salg,6.329,7,Stuehus,158,1928,,
+Damvej 234621 Gadstrup,trup,1.795.000,25-04-2016,Alm. Salg,13.807,4,Villa,130,1971,0 %,Aktuel værdi
+Vestervej 2A4621 Gadstrup,trup,3.100.000,11-04-2016,Alm. Salg,15.422,8,Villa,201,1999,-4 %,Aktuel værdi
+Lærkevej 124621 Gadstrup,trup,2.345.000,08-04-2016,Alm. Salg,15.952,4,Villa,147,1963,0 %,Aktuel værdi
+Absalonsvænget 44621 Gadstrup,trup,858.000,29-03-2016,Alm. Salg,5.917,5,Villa,145,1967,,Aktuel værdi
+Tornegårdsvej 124621 Gadstrup,trup,2.500.000,15-03-2016,Alm. Salg,17.006,5,Villa,147,1974,-4 %,Aktuel værdi
+Gadstrupparken 144621 Gadstrup,trup,1.750.000,10-03-2016,Alm. Salg,17.326,3,Villa,101,1970,0 %,Aktuel værdi
+Enggårdsvej 64621 Gadstrup,trup,1.120.000,10-03-2016,Alm. Salg,12.173,3,Stuehus,92,1850,,
+Gadstrupparken 294621 Gadstrup,trup,2.640.000,08-03-2016,Alm. Salg,14.505,5,Villa,182,1971,-6 %,Aktuel værdi
+Biensvej 74621 Gadstrup,trup,1.025.000,08-03-2016,Alm. Salg,12.349,4,Villa,83,1962,,Aktuel værdi
+Søndervænget 194621 Gadstrup,trup,1.300.000,03-03-2016,Alm. Salg,11.403,4,Villa,114,1981,-7 %,Aktuel værdi
+Kildetoften 44621 Gadstrup,trup,2.150.000,02-03-2016,Alm. Salg,15.808,3,Villa,136,1989,-9 %,Aktuel værdi
+Brordrupvej 334621 Gadstrup,trup,1.600.000,26-02-2016,Alm. Salg,18.390,3,Rækkehus,87,1968,-3 %,Aktuel værdi
+Dyssegårdsvej 814621 Gadstrup,trup,1.125.000,25-02-2016,Fam. Salg,9.297,5,Villa,121,1969,,Aktuel værdi
+Mosevænget 144621 Gadstrup,trup,2.350.000,24-02-2016,Alm. Salg,15.666,5,Villa,150,1981,-2 %,Aktuel værdi
+Sylevænget 84621 Gadstrup,trup,1.860.000,21-02-2016,Alm. Salg,13.676,5,Villa,136,1980,-2 %,Aktuel værdi
+Gartnervangen 174621 Gadstrup,trup,1.350.000,18-02-2016,Alm. Salg,14.516,3,Rækkehus,93,1988,0 %,Aktuel værdi
+Ramsøbakken 314621 Gadstrup,trup,3.320.000,03-02-2016,Alm. Salg,19.302,5,Villa,172,2009,-1 %,Aktuel værdi
+Askhavevej 34621 Gadstrup,trup,2.650.000,01-02-2016,Alm. Salg,15.868,6,Stuehus,167,1968,-7 %,
+Lærkevej 44621 Gadstrup,trup,1.240.000,28-01-2016,Alm. Salg,10.000,4,Villa,124,1962,-5 %,Aktuel værdi
+Sylevænget 34621 Gadstrup,trup,2.500.000,18-01-2016,Alm. Salg,13.586,6,Villa,184,1980,-4 %,Aktuel værdi
+Søvænget 34621 Gadstrup,trup,1.191.000,16-12-2015,Alm. Salg,11.792,4,Villa,101,1971,-1 %,Aktuel værdi
+Smedegade 214621 Gadstrup,trup,2.900.000,09-12-2015,Alm. Salg,21.167,3,Villa,137,1897,-3 %,Aktuel værdi
+Nørrevej 84621 Gadstrup,trup,2.100.000,23-11-2015,Alm. Salg,14.788,5,Villa,142,1965,-5 %,Aktuel værdi
+Damvej 394621 Gadstrup,trup,1.695.000,18-11-2015,Alm. Salg,12.840,4,Villa,132,1972,0 %,Aktuel værdi
+Gartnervangen 114621 Gadstrup,trup,1.495.000,09-11-2015,Alm. Salg,16.075,3,Rækkehus,93,1988,0 %,Aktuel værdi
+Hovedgaden 19C4621 Gadstrup,trup,1.450.000,04-11-2015,Alm. Salg,16.477,3,Villa,88,1960,-3 %,Aktuel værdi
+Kamstrupvejen 14621 Gadstrup,trup,3.146.000,03-11-2015,Auktion,12.634,8,Stuehus,249,1972,,
+Biensvej 15A4621 Gadstrup,trup,3.500.000,28-10-2015,Alm. Salg,16.908,6,Villa,207,2009,0 %,Aktuel værdi
+Køgevej 2164621 Gadstrup,trup,1.000.000,22-10-2015,Alm. Salg,9.345,5,Villa,107,1927,-17 %,Aktuel værdi
+Askhavevej 14621 Gadstrup,trup,3.501.000,20-10-2015,Alm. Salg,18.924,6,Stuehus,185,1877,11 %,
+Brordrup Bygade 14621 Gadstrup,trup,4.050.000,15-10-2015,Alm. Salg,14.464,9,Villa,280,1790,-5 %,Aktuel værdi
+Bødkers Vænge 124621 Gadstrup,trup,1.850.000,01-10-2015,Alm. Salg,10.946,6,Villa,169,1962,0 %,Aktuel værdi
+Biensvej 24621 Gadstrup,trup,1.499.000,23-09-2015,Alm. Salg,10.862,5,Villa,138,1904,0 %,Aktuel værdi
+Fruervej 474621 Gadstrup,trup,2.500.000,18-09-2015,Alm. Salg,17.730,5,Villa,141,1985,-4 %,Aktuel værdi
+Ramsøbakken 304621 Gadstrup,trup,1.900.000,17-09-2015,Fam. Salg,19.791,3,Rækkehus,96,2008,,Aktuel værdi
+Gadstrupparken 224621 Gadstrup,trup,2.975.000,08-09-2015,Alm. Salg,14.800,6,Villa,201,1972,-1 %,Aktuel værdi
+Absalonsvænget 54621 Gadstrup,trup,2.250.000,08-09-2015,Alm. Salg,14.516,5,Villa,155,1965,-2 %,Aktuel værdi
+Snoldelev Bygade 114621 Gadstrup,trup,2.200.000,24-08-2015,Alm. Salg,11.167,6,Villa,197,1930,0 %,Aktuel værdi
+Enggårdsvej 104621 Gadstrup,trup,1.450.000,11-08-2015,Alm. Salg,6.359,7,Stuehus,228,1900,,
+Svanevej 44621 Gadstrup,trup,2.265.000,10-08-2015,Alm. Salg,15.620,5,Villa,145,1967,-1 %,Aktuel værdi
+Solvænget 54621 Gadstrup,trup,1.235.000,07-08-2015,Alm. Salg,11.126,5,Villa,111,1962,-5 %,Aktuel værdi
+Bødkers Vænge 254621 Gadstrup,trup,1.595.000,06-08-2015,Alm. Salg,9.785,5,Villa,163,1962,0 %,Aktuel værdi
+Birkevænget 84621 Gadstrup,trup,995.000,31-07-2015,Alm. Salg,6.141,5,Villa,162,1964,0 %,Aktuel værdi
+Dyssegårdsvej 254621 Gadstrup,trup,2.125.000,27-07-2015,Alm. Salg,13.798,5,Villa,154,1970,-3 %,Aktuel værdi
+Bødkers Vænge 94621 Gadstrup,trup,1.300.000,24-07-2015,Alm. Salg,10.317,6,Villa,126,1962,-7 %,Aktuel værdi
+Søndervænget 74621 Gadstrup,trup,1.595.000,22-07-2015,Alm. Salg,14.115,4,Villa,113,1980,0 %,Aktuel værdi
+Søvænget 164621 Gadstrup,trup,2.200.000,13-07-2015,Alm. Salg,14.765,6,Villa,149,1970,-4 %,Aktuel værdi
+Ramsøvejen 27B4621 Gadstrup,trup,5.000.000,02-07-2015,Alm. Salg,21.008,5,Villa,238,2001,0 %,Aktuel værdi
+Bøgevej 64621 Gadstrup,trup,1.100.000,30-06-2015,Alm. Salg,8.800,4,Villa,125,1963,-8 %,Aktuel værdi
+Fruervej 394621 Gadstrup,trup,2.495.000,23-06-2015,Alm. Salg,12.994,6,Villa,192,1984,0 %,Aktuel værdi
+Snoldelev Bygade 474621 Gadstrup,trup,1.975.000,14-06-2015,Alm. Salg,17.324,3,Villa,114,1997,-1 %,Aktuel værdi
+Snoldelev Bygade 264621 Gadstrup,trup,1.550.000,03-06-2015,Alm. Salg,10.763,4,Villa,144,1995,-9 %,Aktuel værdi
+Gammel Skolevej 154621 Gadstrup,trup,1.190.000,29-05-2015,Alm. Salg,18.888,2,Rækkehus,63,1973,0 %,Aktuel værdi
+Hastrup Bygade 204621 Gadstrup,trup,19.125.000,28-05-2015,Alm. Salg,109.285,6,Stuehus,175,1870,,
+Salløv Gade 24621 Gadstrup,trup,897.500,27-05-2015,Fam. Salg,6.365,4,Villa,141,1878,,Aktuel værdi
+Østervej 84621 Gadstrup,trup,1.600.000,19-05-2015,Alm. Salg,11.940,5,Villa,134,1960,-3 %,Aktuel værdi
+Skalstrupvej 34621 Gadstrup,trup,606.000,19-05-2015,Auktion,6.312,4,Villa,96,1799,,Aktuel værdi
+Ramsøbakken 524621 Gadstrup,trup,900.000,08-05-2015,Alm. Salg,5.172,6,Villa,174,2016,,Aktuel værdi
+Ramsøvejen 294621 Gadstrup,trup,5.145.100,05-05-2015,Fam. Salg,24.155,6,Stuehus,213,1870,,
+Enggårdsvej 34621 Gadstrup,trup,3.392.500,29-04-2015,Fam. Salg,15.561,6,Villa,218,2016,,Aktuel værdi
+Kirkebakken 94621 Gadstrup,trup,2.250.000,19-04-2015,Alm. Salg,13.803,5,Villa,163,1973,,Aktuel værdi
+Gadstrupparken 214621 Gadstrup,trup,2.345.000,15-04-2015,Alm. Salg,14.475,6,Villa,162,1969,0 %,Aktuel værdi
+Damvej 54621 Gadstrup,trup,2.700.000,27-03-2015,Alm. Salg,19.708,5,Villa,137,1970,-10 %,Aktuel værdi
+Gadstrupparken 34621 Gadstrup,trup,1.775.000,24-03-2015,Alm. Salg,13.345,3,Villa,133,1971,0 %,Aktuel værdi
+Hastrupvej 64621 Gadstrup,trup,1.350.000,23-03-2015,Alm. Salg,7.988,5,Villa,169,1967,-10 %,Aktuel værdi
+Sikærsvej 74621 Gadstrup,trup,1.575.000,19-03-2015,Alm. Salg,13.235,4,Villa,119,1979,-1 %,Aktuel værdi
+Sikærsvej 34621 Gadstrup,trup,1.770.000,16-03-2015,Alm. Salg,13.511,4,Villa,131,1980,-1 %,Aktuel værdi
+Brordrupvej 514621 Gadstrup,trup,10.180.000,12-03-2015,Alm. Salg,37.703,9,Stuehus,270,1917,,
+Toftevej 64621 Gadstrup,trup,1.395.000,24-02-2015,Alm. Salg,14.531,4,Villa,96,1962,0 %,Aktuel værdi
+Damvej 6B4621 Gadstrup,trup,2.745.000,18-02-2015,Alm. Salg,18.059,6,Villa,152,1985,0 %,Aktuel værdi
+Ramsøbakken 204621 Gadstrup,trup,2.250.000,16-02-2015,Alm. Salg,18.595,4,Rækkehus,121,2008,0 %,Aktuel værdi
+Gadstrupparken 24621 Gadstrup,trup,1.550.000,12-02-2015,Alm. Salg,7.380,7,Villa,210,1971,-14 %,Aktuel værdi
+Agervænget 154621 Gadstrup,trup,2.300.000,04-02-2015,Alm. Salg,15.436,4,Villa,149,1998,-8 %,Aktuel værdi
+Tornegårdsvej 204621 Gadstrup,trup,991.500,03-02-2015,Andet,5.359,5,Villa,185,1973,,Aktuel værdi
+Dyssegårdsvej 1014621 Gadstrup,trup,1.420.000,13-01-2015,Auktion,12.347,4,Villa,115,1986,,Aktuel værdi
+Fruervej 414621 Gadstrup,trup,2.425.000,10-01-2015,Alm. Salg,15.251,5,Villa,159,1984,,Aktuel værdi
+Jernbanestien 34621 Gadstrup,trup,950.000,17-12-2014,Alm. Salg,13.194,3,Villa,72,1965,-5 %,Aktuel værdi
+Snoldelev Bygade 52B4621 Gadstrup,trup,1.950.000,16-12-2014,Fam. Salg,-,6,Villa,168,2007,,Aktuel værdi
+Hastrupvej 84621 Gadstrup,trup,1.600.000,12-12-2014,Alm. Salg,12.698,5,Stuehus,126,1911,,
+Dyssegårdsvej 104621 Gadstrup,trup,1.680.000,03-12-2014,Alm. Salg,14.736,5,Villa,114,1968,-1 %,Aktuel værdi
+Ramsøbakken 384621 Gadstrup,trup,2.100.000,21-11-2014,Alm. Salg,17.355,4,Rækkehus,121,2008,-4 %,Aktuel værdi
+Kirkebakken 464621 Gadstrup,trup,2.275.000,18-11-2014,Alm. Salg,12.780,5,Villa,178,1972,-1 %,Aktuel værdi
+Ramsøbakken 264621 Gadstrup,trup,2.125.000,13-11-2014,Alm. Salg,17.561,4,Rækkehus,121,2008,-3 %,Aktuel værdi
+Gammel Skolevej 84621 Gadstrup,trup,995.000,03-11-2014,Alm. Salg,9.045,3,Villa,110,1850,0 %,Aktuel værdi
+Ramsøbakken 954621 Gadstrup,trup,975.000,16-10-2014,Alm. Salg,4.665,4,Villa,209,2016,,Aktuel værdi
+Ramsøvejen 104621 Gadstrup,trup,1.695.000,02-10-2014,Alm. Salg,11.375,4,Villa,149,1875,0 %,Aktuel værdi
+Nyvej 294621 Gadstrup,trup,1.031.000,24-09-2014,Andet,4.886,6,Villa,211,1969,-47 %,Aktuel værdi
+Ramsølillevejen 274621 Gadstrup,trup,2.100.000,18-09-2014,Alm. Salg,11.052,5,Stuehus,190,1900,,
+Ramsøvejen 284621 Gadstrup,trup,1.675.000,17-09-2014,Alm. Salg,11.551,4,Villa,145,1974,0 %,Aktuel værdi
+Vestervej 74621 Gadstrup,trup,3.200.000,09-09-2014,Alm. Salg,15.384,6,Villa,208,2006,0 %,Aktuel værdi
+Damvej 414621 Gadstrup,trup,2.195.000,08-09-2014,Alm. Salg,13.065,7,Villa,168,1970,0 %,Aktuel værdi
+Ramsøbakken 974621 Gadstrup,trup,1.050.000,02-09-2014,Alm. Salg,5.965,6,Villa,176,2015,,Aktuel værdi
+Solvænget 44621 Gadstrup,trup,1.100.000,20-08-2014,Alm. Salg,8.527,4,Villa,129,1959,-8 %,Aktuel værdi
+Ramsøbakken 624621 Gadstrup,trup,935.000,19-08-2014,Alm. Salg,4.538,5,Villa,206,2015,,Aktuel værdi
+Rønnevej 74621 Gadstrup,trup,2.560.000,14-08-2014,Alm. Salg,16.000,5,Villa,160,1929,-1 %,Aktuel værdi
+Hørvænget 24621 Gadstrup,trup,1.550.000,30-07-2014,Alm. Salg,10.472,6,Villa,148,1962,-3 %,Aktuel værdi
+Nørrevej 24621 Gadstrup,trup,2.495.000,28-07-2014,Alm. Salg,20.284,4,Villa,123,1900,0 %,Aktuel værdi
+Damvej 24621 Gadstrup,trup,1.220.000,24-07-2014,Alm. Salg,12.323,4,Villa,99,1959,-6 %,Aktuel værdi
+Hyldevænget 174621 Gadstrup,trup,1.800.000,17-07-2014,Alm. Salg,12.000,4,Villa,150,1988,-18 %,Aktuel værdi
+Gammel Skolevej 34621 Gadstrup,trup,711.000,15-07-2014,Auktion,11.467,2,Rækkehus,62,1976,,Aktuel værdi
+Ramsøbakken 1014621 Gadstrup,trup,1.000.000,27-06-2014,Alm. Salg,6.060,4,Villa,165,2015,,Aktuel værdi
+Kirkebakken 474621 Gadstrup,trup,1.850.000,01-06-2014,Alm. Salg,12.416,4,Villa,149,1972,-5 %,Aktuel værdi
+Damvej 454621 Gadstrup,trup,2.170.000,01-06-2014,Alm. Salg,18.869,3,Villa,115,1969,-5 %,Aktuel værdi
+Kirkebakken 74621 Gadstrup,trup,666.982,27-05-2014,Andet,5.014,3,Villa,133,1971,,Aktuel værdi
+Nyvej 164621 Gadstrup,trup,1.050.000,08-05-2014,Alm. Salg,9.905,4,Villa,106,1963,-9 %,Aktuel værdi
+Ramsøvejen 244621 Gadstrup,trup,1.650.000,06-05-2014,Alm. Salg,12.313,4,Villa,134,1972,-8 %,Aktuel værdi
+Brordrupvej 24621 Gadstrup,trup,1.360.000,30-04-2014,Alm. Salg,15.111,5,Villa,90,1877,-3 %,Aktuel værdi
+Solvænget 64621 Gadstrup,trup,1.600.000,22-04-2014,Alm. Salg,15.384,4,Villa,104,1963,0 %,Aktuel værdi
+Gammel Skolevej 74621 Gadstrup,trup,925.000,14-04-2014,Alm. Salg,14.682,2,Rækkehus,63,1974,-16 %,Aktuel værdi
+Ramsøbakken 44621 Gadstrup,trup,2.675.000,07-04-2014,Alm. Salg,17.258,5,Villa,155,2007,-3 %,Aktuel værdi
+Knudsvej 64621 Gadstrup,trup,1.495.000,25-03-2014,Alm. Salg,12.563,4,Villa,119,1969,0 %,Aktuel værdi
+Grønnegade 10B4621 Gadstrup,trup,1.420.000,21-03-2014,Alm. Salg,18.205,3,Villa,78,1960,-5 %,Aktuel værdi
+Søvænget 144621 Gadstrup,trup,1.395.000,07-03-2014,Alm. Salg,13.676,4,Villa,102,1968,0 %,Aktuel værdi
+Damvej 134621 Gadstrup,trup,1.820.000,10-02-2014,Alm. Salg,11.818,4,Villa,154,1970,-9 %,Aktuel værdi
+Fruervej 284621 Gadstrup,trup,2.520.000,04-02-2014,Alm. Salg,14.000,6,Villa,180,1975,-3 %,Aktuel værdi
+Egevej 14621 Gadstrup,trup,1.025.000,17-01-2014,Alm. Salg,8.200,4,Villa,125,1963,-6 %,Aktuel værdi
+Ramsøvejen 64621 Gadstrup,trup,1.162.500,16-01-2014,Alm. Salg,12.500,3,Villa,93,1850,,Aktuel værdi
+Engdraget 14621 Gadstrup,trup,1.580.000,12-12-2013,Alm. Salg,11.285,4,Villa,140,1982,,Aktuel værdi
+Østervej 54621 Gadstrup,trup,1.100.000,05-12-2013,Auktion,9.322,4,Villa,118,1961,,Aktuel værdi
+Hastrup Bygade 14621 Gadstrup,trup,1.440.000,01-12-2013,Alm. Salg,11.076,4,Villa,130,1967,-4 %,Aktuel værdi
+Brordrupvej 354621 Gadstrup,trup,2.150.000,28-11-2013,Alm. Salg,12.647,3,Villa,170,1961,-14 %,Aktuel værdi
+Brordrupvej 434621 Gadstrup,trup,3.495.000,26-11-2013,Alm. Salg,21.054,4,Stuehus,166,1912,,
+Ramsøbakken 184621 Gadstrup,trup,2.300.000,20-11-2013,Alm. Salg,19.008,4,Rækkehus,121,2008,,Aktuel værdi
+Solvænget 94621 Gadstrup,trup,1.766.000,19-11-2013,Alm. Salg,14.716,4,Villa,120,1960,-1 %,Aktuel værdi
+Dyssegårdsvej 204621 Gadstrup,trup,640.835,13-11-2013,Andet,5.621,3,Villa,114,1970,,Aktuel værdi
+Gadstrupparken 754621 Gadstrup,trup,998.833,12-11-2013,Fam. Salg,7.034,5,Villa,142,1970,,Aktuel værdi
+Gartnervangen 314621 Gadstrup,trup,1.385.000,12-11-2013,Alm. Salg,14.892,3,Rækkehus,93,1987,-4 %,Aktuel værdi
+Ramsøbakken 144621 Gadstrup,trup,2.095.000,28-10-2013,Alm. Salg,17.314,4,Rækkehus,121,2007,-3 %,Aktuel værdi
+Kildeager 54621 Gadstrup,trup,1.150.000,24-10-2013,Alm. Salg,8.646,4,Villa,133,1963,-4 %,Aktuel værdi
+Nyvej 304621 Gadstrup,trup,2.150.000,24-10-2013,Alm. Salg,10.913,4,Villa,197,1969,-6 %,Aktuel værdi
+Jernbanestien 4A4621 Gadstrup,trup,400.000,17-10-2013,Alm. Salg,10.810,1,Rækkehus,37,1974,0 %,Aktuel værdi
+Bødkers Vænge 34621 Gadstrup,trup,1.920.000,04-10-2013,Alm. Salg,10.491,6,Villa,183,1969,-4 %,Aktuel værdi
+Ramsøbakken 584621 Gadstrup,trup,920.000,27-09-2013,Alm. Salg,4.893,6,Villa,188,2015,,Aktuel værdi
+Birkevænget 64621 Gadstrup,trup,1.295.000,19-09-2013,Alm. Salg,-,4,Villa,133,1966,0 %,Aktuel værdi
+Birkevænget 24621 Gadstrup,trup,1.400.000,18-09-2013,Alm. Salg,14.736,4,Villa,95,1961,-6 %,Aktuel værdi
+Søgårdsvej 44621 Gadstrup,trup,3.550.000,16-09-2013,Alm. Salg,-,7,Stuehus,198,1945,,
+Lærkevej 24621 Gadstrup,trup,1.200.000,16-09-2013,Alm. Salg,10.909,3,Villa,110,1965,-16 %,Aktuel værdi
+Birkevænget 34621 Gadstrup,trup,1.375.000,16-08-2013,Alm. Salg,12.971,4,Villa,106,1965,-7 %,Aktuel værdi
+Gammel Havdrupvej 44621 Gadstrup,trup,3.060.000,24-07-2013,Fam. Salg,21.857,4,Stuehus,140,1914,,
+Sverregårdsvej 274621 Gadstrup,trup,700.000,18-07-2013,Alm. Salg,10.294,3,Sommerhus,68,1969,-22 %,Aktuel værdi
+Mosevænget 44621 Gadstrup,trup,2.470.000,28-05-2013,Alm. Salg,14.195,5,Villa,174,1980,-1 %,Aktuel værdi
+Gadstrupparken 314621 Gadstrup,trup,1.670.000,27-05-2013,Alm. Salg,13.360,4,Villa,125,1970,-7 %,Aktuel værdi
+Kirkebakken 264621 Gadstrup,trup,2.195.000,08-05-2013,Alm. Salg,13.718,6,Villa,160,1973,0 %,Aktuel værdi
+Solvænget 34621 Gadstrup,trup,1.144.500,21-04-2013,Andet,12.175,4,Villa,94,1962,,Aktuel værdi
+Søvænget 44621 Gadstrup,trup,2.585.000,15-04-2013,Alm. Salg,13.534,6,Villa,191,1971,-4 %,Aktuel værdi
+Fruervej 384621 Gadstrup,trup,1.680.000,27-03-2013,Alm. Salg,13.770,4,Villa,122,1975,-11 %,Aktuel værdi
+Gartnervangen 294621 Gadstrup,trup,1.200.000,19-03-2013,Alm. Salg,12.903,3,Rækkehus,93,1987,-4 %,Aktuel værdi
+Brordrup Bygade 84621 Gadstrup,trup,695.000,05-03-2013,Alm. Salg,7.020,2,Villa,99,1863,0 %,Aktuel værdi
+Karlslundevejen 24621 Gadstrup,trup,2.350.000,05-02-2013,Auktion,11.750,3,Villa,200,2006,,Aktuel værdi
+Nyvej 64621 Gadstrup,trup,900.000,27-11-2012,Alm. Salg,7.964,4,Villa,113,1962,0 %,Aktuel værdi
+Ramsøbakken 564621 Gadstrup,trup,983.000,01-11-2012,Alm. Salg,5.715,5,Villa,172,2013,,Aktuel værdi
+Møllevejen 24621 Gadstrup,trup,3.200.000,23-10-2012,Alm. Salg,15.094,6,Stuehus,212,1918,,
+Bødkers Vænge 164621 Gadstrup,trup,1.900.000,20-10-2012,Alm. Salg,15.447,4,Villa,123,1967,-5 %,Aktuel værdi
+Hovedgaden 114621 Gadstrup,trup,2.645.000,17-10-2012,Alm. Salg,16.428,4,Villa,161,1922,-2 %,Aktuel værdi
+Kildevænget 34621 Gadstrup,trup,2.195.000,10-10-2012,Alm. Salg,15.243,5,Villa,144,1980,0 %,Aktuel værdi
+Kildevænget 94621 Gadstrup,trup,1.515.000,13-09-2012,Alm. Salg,11.477,4,Villa,132,1979,-5 %,Aktuel værdi
+Hjørnegårdsvænget 64621 Gadstrup,trup,1.775.000,28-08-2012,Alm. Salg,11.093,3,Villa,160,1979,-11 %,Aktuel værdi
+Sverregårdsvej 174621 Gadstrup,trup,950.000,28-08-2012,Alm. Salg,7.723,5,Sommerhus,123,1962,-5 %,Aktuel værdi
+Ølmosevej 24621 Gadstrup,trup,1.949.762,27-07-2012,Andet,17.254,4,Stuehus,113,1952,,
+Tornegårdsvej 354621 Gadstrup,trup,1.820.000,24-07-2012,Alm. Salg,12.380,5,Villa,147,1974,-9 %,Aktuel værdi
+Hovedgaden 334621 Gadstrup,trup,1.430.000,25-06-2012,Alm. Salg,14.742,3,Villa,97,1965,-4 %,Aktuel værdi
+Pilehaven 34621 Gadstrup,trup,1.595.000,11-06-2012,Alm. Salg,12.658,4,Villa,126,1973,0 %,Aktuel værdi
+Tornegårdsvej 2C4621 Gadstrup,trup,708.000,09-06-2012,Fam. Salg,7.080,5,Villa,100,1955,,Aktuel værdi
+Syvvejen 144621 Gadstrup,trup,2.500.000,14-05-2012,Alm. Salg,17.857,4,Stuehus,140,1902,,
+Grønnegade 15B4621 Gadstrup,trup,1.300.000,30-04-2012,Alm. Salg,11.607,3,Villa,112,1969,-7 %,Aktuel værdi
+Jernbanestien 4E4621 Gadstrup,trup,550.000,30-04-2012,Alm. Salg,14.864,1,Rækkehus,37,1974,-8 %,Aktuel værdi
+Sivænget 54621 Gadstrup,trup,1.500.000,11-04-2012,Alm. Salg,12.096,4,Villa,124,1981,-3 %,Aktuel værdi
+Kirkebakken 314621 Gadstrup,trup,1.645.000,03-04-2012,Alm. Salg,10.477,4,Villa,157,1972,-8 %,Aktuel værdi
+Brordrup Bygade 124621 Gadstrup,trup,7.000.000,01-04-2012,Alm. Salg,25.641,8,Stuehus,273,1800,,
+Ramsøbakken 24621 Gadstrup,trup,2.610.000,28-03-2012,Alm. Salg,16.730,5,Villa,156,2007,-8 %,Aktuel værdi
+Søndervænget 174621 Gadstrup,trup,775.000,23-03-2012,Alm. Salg,5.916,5,Villa,131,1980,,Aktuel værdi
+Ramsøvejen 384621 Gadstrup,trup,3.500.000,21-03-2012,Alm. Salg,12.727,5,Stuehus,275,1921,-12 %,
+Ramsøvejen 354621 Gadstrup,trup,2.050.000,16-03-2012,Alm. Salg,19.711,3,Stuehus,104,1870,,
+Fruervej 114621 Gadstrup,trup,2.125.000,16-02-2012,Alm. Salg,13.535,5,Villa,157,1969,-6 %,Aktuel værdi
+Køgevej 1694621 Gadstrup,trup,950.000,06-02-2012,Alm. Salg,4.203,7,Stuehus,226,1870,-5 %,
+Dyssegårdsvej 2C4621 Gadstrup,trup,2.100.000,12-01-2012,Alm. Salg,18.103,4,Rækkehus,116,2008,,Aktuel værdi
+Dyssegårdsvej 2B4621 Gadstrup,trup,2.100.000,12-01-2012,Alm. Salg,18.103,4,Rækkehus,116,2008,,Aktuel værdi
+Gadstrupparken 514621 Gadstrup,trup,733.286,22-12-2011,Fam. Salg,3.559,9,Villa,206,1970,,Aktuel værdi
+Fruervej 434621 Gadstrup,trup,1.850.000,11-12-2011,Alm. Salg,11.011,5,Villa,168,1977,-7 %,Aktuel værdi
+Stationsvej 64621 Gadstrup,trup,2.050.000,09-12-2011,Alm. Salg,12.893,8,Villa,159,1913,-13 %,Aktuel værdi
+Gadstrupparken 174621 Gadstrup,trup,1.600.000,08-12-2011,Alm. Salg,12.030,4,Villa,133,1970,-11 %,Aktuel værdi
+Gartnervangen 234621 Gadstrup,trup,1.150.000,22-11-2011,Alm. Salg,12.365,3,Rækkehus,93,1987,-11 %,Aktuel værdi
+Hjørnegårdsvænget 24621 Gadstrup,trup,1.162.500,21-11-2011,Fam. Salg,5.588,5,Villa,208,1978,,Aktuel værdi
+Sverregårdsvej 254621 Gadstrup,trup,495.000,06-10-2011,Alm. Salg,7.388,3,Sommerhus,67,1966,-18 %,Aktuel værdi
+Gadstrupparken 74621 Gadstrup,trup,866.500,29-09-2011,Andet,5.776,4,Villa,150,1970,,Aktuel værdi
+Åvadet 1A4621 Gadstrup,trup,1.685.000,02-09-2011,Alm. Salg,13.588,4,Villa,124,1988,2 %,Aktuel værdi
+Askhavevej 24621 Gadstrup,trup,5.700.000,19-08-2011,Alm. Salg,14.690,9,Villa,388,1920,-16 %,Aktuel værdi
+Hastrupvej 24621 Gadstrup,trup,1.134.356,05-07-2011,Fam. Salg,8.465,3,Villa,134,1905,,Aktuel værdi
+Tornegårdsvej 224621 Gadstrup,trup,1.800.000,24-06-2011,Alm. Salg,13.846,4,Villa,130,1973,-18 %,Aktuel værdi
+Gadstrupparken 554621 Gadstrup,trup,1.900.000,21-06-2011,Alm. Salg,10.919,4,Villa,174,1969,-9 %,Aktuel værdi
+Brordrupvej 474621 Gadstrup,trup,4.700.000,02-06-2011,Alm. Salg,20.258,5,Villa,232,1960,-15 %,Aktuel værdi
+Ramsøbakken 274621 Gadstrup,trup,2.770.000,31-05-2011,Alm. Salg,18.466,5,Villa,150,2008,,Aktuel værdi
+Ramsøbakken 1074621 Gadstrup,trup,990.000,31-05-2011,Alm. Salg,5.294,5,Villa,187,2012,,Aktuel værdi
+Hastrup Bygade 74621 Gadstrup,trup,1.100.000,15-04-2011,Alm. Salg,8.148,5,Villa,135,1907,-15 %,Aktuel værdi
+Brordrupvej 184621 Gadstrup,trup,2.495.000,12-04-2011,Auktion,11.604,7,Villa,215,1962,,Aktuel værdi
+Rødkløvervænget 14621 Gadstrup,trup,1.975.000,21-03-2011,Alm. Salg,17.792,3,Villa,111,1984,-6 %,Aktuel værdi
+Hørvedgårdsvej 44621 Gadstrup,trup,2.750.000,17-03-2011,Alm. Salg,10.912,6,Stuehus,252,1900,-2 %,
+Tornegårdsvej 34621 Gadstrup,trup,2.325.000,16-03-2011,Alm. Salg,12.845,6,Villa,181,1972,-7 %,Aktuel værdi
+Køgevej 1774621 Gadstrup,trup,431.667,25-01-2011,Andet,5.264,4,Villa,82,1952,,Aktuel værdi
+Nyvej 154621 Gadstrup,trup,2.600.000,18-01-2011,Alm. Salg,13.903,4,Villa,187,1965,-4 %,Aktuel værdi
+Sivænget 74621 Gadstrup,trup,1.275.000,17-01-2011,Alm. Salg,13.563,4,Villa,94,1980,-9 %,Aktuel værdi
+Ramsøbakken 424621 Gadstrup,trup,795.000,30-12-2010,Alm. Salg,5.371,5,Villa,148,2012,,Aktuel værdi
+Ramsøbakken 604621 Gadstrup,trup,900.000,23-12-2010,Alm. Salg,6.206,5,Villa,145,2015,,Aktuel værdi
+Ramsøvejen 34621 Gadstrup,trup,890.000,22-12-2010,Alm. Salg,3.903,7,Stuehus,228,1880,,
+Langelodsvej 44621 Gadstrup,trup,3.000.000,09-12-2010,Alm. Salg,12.448,6,Stuehus,241,1780,-14 %,
+Ramsøbakken 404621 Gadstrup,trup,875.000,07-12-2010,Alm. Salg,6.250,5,Villa,140,2011,,Aktuel værdi
+Gammel Skolevej 44621 Gadstrup,trup,1.850.000,14-11-2010,Alm. Salg,12.333,5,Villa,150,1830,,Aktuel værdi
+Hastrupvej 34621 Gadstrup,trup,1.325.000,03-11-2010,Fam. Salg,9.201,4,Villa,144,1700,,Aktuel værdi
+Ramsølillevejen 254621 Gadstrup,trup,1.245.000,02-11-2010,Auktion,-,9,Villa,279,1904,,Aktuel værdi
+Bøgevej 34621 Gadstrup,trup,1.600.000,01-11-2010,Alm. Salg,10.738,5,Villa,149,1964,-3 %,Aktuel værdi
+Ramsøvejen 274621 Gadstrup,trup,2.600.000,26-10-2010,Alm. Salg,13.978,4,Villa,186,1891,-7 %,Aktuel værdi
+Smedegade 84621 Gadstrup,trup,2.375.000,30-09-2010,Alm. Salg,-,3,Villa,206,1980,-5 %,Aktuel værdi
+Brordrupvej 64621 Gadstrup,trup,1.900.000,22-09-2010,Alm. Salg,9.359,6,Villa,203,1969,-5 %,Aktuel værdi
+Dyssegårdsvænget 34621 Gadstrup,trup,2.000.000,10-08-2010,Alm. Salg,16.260,4,Villa,123,1979,-5 %,Aktuel værdi
+Elmegårdsvænget 34621 Gadstrup,trup,4.450.000,30-07-2010,Alm. Salg,19.347,5,Villa,230,1802,-5 %,Aktuel værdi
+Ramsøvejen 204621 Gadstrup,trup,1.610.000,14-07-2010,Alm. Salg,11.838,4,Villa,136,1965,-4 %,Aktuel værdi
+Hovedgaden 174621 Gadstrup,trup,1.850.000,06-07-2010,Alm. Salg,13.120,5,Villa,141,1923,-12 %,Aktuel værdi
+Køgevej 2204621 Gadstrup,trup,1.100.000,01-07-2010,Alm. Salg,7.096,4,Stuehus,155,1917,,
+Solvænget 14621 Gadstrup,trup,1.500.000,01-06-2010,Alm. Salg,12.396,4,Villa,121,1959,-3 %,Aktuel værdi
+Jernbanestien 4C4621 Gadstrup,trup,550.000,28-05-2010,Fam. Salg,15.277,1,Rækkehus,36,1974,-8 %,Aktuel værdi
+Dyssegårdsvej 284621 Gadstrup,trup,2.025.000,27-05-2010,Alm. Salg,12.980,5,Villa,156,1970,-3 %,Aktuel værdi
+Snoldelev Bygade 13B4621 Gadstrup,trup,1.750.000,25-05-2010,Auktion,13.671,4,Rækkehus,128,2003,,Aktuel værdi
+Ramsøbakken 124621 Gadstrup,trup,2.800.000,21-05-2010,Alm. Salg,20.000,4,Villa,140,2007,-2 %,Aktuel værdi
+Bødkers Vænge 54621 Gadstrup,trup,1.020.000,20-05-2010,Fam. Salg,10.736,3,Villa,95,1962,,Aktuel værdi
+Ramsøbakken 504621 Gadstrup,trup,900.000,18-05-2010,Alm. Salg,4.687,6,Villa,192,2010,,Aktuel værdi
+Gartnervangen 13B4621 Gadstrup,trup,1.475.000,14-05-2010,Alm. Salg,17.151,3,Rækkehus,86,1989,-13 %,Aktuel værdi
+Ramsøbakken 484621 Gadstrup,trup,1.000.000,06-05-2010,Alm. Salg,5.128,6,Villa,195,2010,,Aktuel værdi
+Nyvej 104621 Gadstrup,trup,998.000,04-05-2010,Fam. Salg,7.338,4,Villa,136,1962,,Aktuel værdi
+Lærkevej 34621 Gadstrup,trup,1.375.000,29-04-2010,Alm. Salg,12.500,4,Villa,110,1963,-8 %,Aktuel værdi
+Ramsøbakken 414621 Gadstrup,trup,875.000,18-04-2010,Alm. Salg,5.912,5,Villa,148,2010,-12 %,Aktuel værdi
+Ramsøbakken 444621 Gadstrup,trup,1.000.000,13-04-2010,Alm. Salg,6.535,5,Villa,153,2010,,Aktuel værdi
+Kamstrupvejen 64621 Gadstrup,trup,1.150.000,07-04-2010,Andet,6.804,4,Villa,169,1910,,Aktuel værdi
+Ramsøvejen 134621 Gadstrup,trup,1.900.000,06-04-2010,Alm. Salg,15.079,4,Villa,126,1850,-5 %,Aktuel værdi
+Gadstrupparken 614621 Gadstrup,trup,825.000,04-04-2010,Alm. Salg,6.707,4,Villa,123,1970,,Aktuel værdi
+Bødkers Vænge 144621 Gadstrup,trup,1.005.000,10-02-2010,Auktion,10.468,4,Villa,96,1964,,Aktuel værdi
+Kirkebakken 64621 Gadstrup,trup,1.825.000,20-01-2010,Alm. Salg,13.419,5,Villa,136,1973,-4 %,Aktuel værdi
+Markskelsvej 24621 Gadstrup,trup,1.600.000,05-01-2010,Alm. Salg,14.545,3,Villa,110,1980,-3 %,Aktuel værdi
+Grønnegade 114621 Gadstrup,trup,1.499.803,15-12-2009,Andet,10.947,4,Villa,137,1890,-50 %,Aktuel værdi
+Dyssegårdsvej 354621 Gadstrup,trup,2.475.000,20-11-2009,Alm. Salg,15.566,2,Villa,159,1977,-1 %,Aktuel værdi
+Sverregårdsvej 144621 Gadstrup,trup,410.000,13-11-2009,Auktion,8.541,3,Sommerhus,48,1961,,Aktuel værdi
+Ramsøbakken 354621 Gadstrup,trup,3.150.000,29-10-2009,Alm. Salg,19.811,5,Villa,159,2008,-1 %,Aktuel værdi
+Engdraget 154621 Gadstrup,trup,2.575.000,26-10-2009,Alm. Salg,15.512,7,Villa,166,1986,-6 %,Aktuel værdi
+Dyssegårdsvej 854621 Gadstrup,trup,1.725.000,29-09-2009,Alm. Salg,13.476,5,Villa,128,1971,0 %,Aktuel værdi
+Kildetoften 64621 Gadstrup,trup,1.327.000,16-09-2009,Alm. Salg,10.207,3,Villa,130,1883,,Aktuel værdi
+Nyvej 84621 Gadstrup,trup,2.295.000,03-09-2009,Alm. Salg,12.679,7,Villa,181,1963,0 %,Aktuel værdi
+Østervej 34621 Gadstrup,trup,875.000,02-09-2009,Fam. Salg,5.645,5,Villa,155,1962,,Aktuel værdi
+Ramsøvejen 144621 Gadstrup,trup,1.175.000,29-08-2009,Alm. Salg,7.580,5,Villa,155,1900,0 %,Aktuel værdi
+Vestervej 94621 Gadstrup,trup,1.400.000,27-08-2009,Alm. Salg,9.722,4,Villa,144,1921,-20 %,Aktuel værdi
+Tjørnevænge 34621 Gadstrup,trup,1.230.000,26-08-2009,Alm. Salg,11.826,4,Villa,104,1965,-8 %,Aktuel værdi
+Ramsøbakken 344621 Gadstrup,trup,1.950.000,17-08-2009,Alm. Salg,-,4,Rækkehus,121,2008,-2 %,Aktuel værdi
+Møllemarken 54621 Gadstrup,trup,1.600.000,14-07-2009,Alm. Salg,15.238,4,Villa,105,1777,-6 %,Aktuel værdi
+Køgevej 1794621 Gadstrup,trup,1.200.000,14-07-2009,Alm. Salg,12.000,3,Villa,100,1955,-8 %,Aktuel værdi
+Kirkebakken 84621 Gadstrup,trup,2.100.000,13-07-2009,Alm. Salg,12.426,4,Villa,169,1971,-4 %,Aktuel værdi
+Fruervej 154621 Gadstrup,trup,1.890.000,10-07-2009,Alm. Salg,14.318,4,Villa,132,1970,-10 %,Aktuel værdi
+Dyssegårdsvænget 14621 Gadstrup,trup,4.900.000,10-07-2009,Alm. Salg,20.000,10,Villa,245,1929,,Aktuel værdi
+Hovedgaden 19B4621 Gadstrup,trup,1.575.000,18-06-2009,Alm. Salg,8.750,4,Villa,180,1918,-16 %,Aktuel værdi
+Ramsøbakken 254621 Gadstrup,trup,2.660.000,15-06-2009,Alm. Salg,17.500,5,Villa,152,2007,-11 %,Aktuel værdi
+Grønnegade 54621 Gadstrup,trup,2.750.000,12-06-2009,Alm. Salg,13.681,4,Villa,201,2000,-2 %,Aktuel værdi
+Snoldelev Bygade 254621 Gadstrup,trup,1.376.000,08-06-2009,Auktion,10.503,5,Villa,131,1917,,Aktuel værdi
+Ramsøbakken 324621 Gadstrup,trup,1.940.000,03-06-2009,Alm. Salg,16.033,4,Rækkehus,121,2008,,Aktuel værdi
+Engdraget 54621 Gadstrup,trup,1.900.000,29-05-2009,Alm. Salg,17.757,4,Villa,107,1982,-5 %,Aktuel værdi
+Ramsøbakken 284621 Gadstrup,trup,1.915.000,24-05-2009,Alm. Salg,15.826,4,Rækkehus,121,2008,,Aktuel værdi
+Tjørnevænge 84621 Gadstrup,trup,1.450.000,15-05-2009,Auktion,8.734,7,Villa,166,1962,,Aktuel værdi
+Tornegårdsvej 194621 Gadstrup,trup,2.375.000,13-05-2009,Alm. Salg,16.379,4,Villa,145,1972,-4 %,Aktuel værdi
+Dalsagervej 24621 Gadstrup,trup,4.600.000,04-05-2009,Alm. Salg,13.939,11,Villa,330,1916,,Aktuel værdi
+Ramsøbakken 164621 Gadstrup,trup,1.900.000,03-04-2009,Alm. Salg,15.702,4,Rækkehus,121,2008,-5 %,Aktuel værdi
+Solvænget 74621 Gadstrup,trup,1.800.000,25-03-2009,Alm. Salg,12.676,4,Villa,142,1961,-10 %,Aktuel værdi
+Ramsøbakken 394621 Gadstrup,trup,1.005.000,16-03-2009,Alm. Salg,4.902,4,Villa,205,2011,-20 %,Aktuel værdi
+Nyvej 344621 Gadstrup,trup,1.292.500,12-01-2009,Alm. Salg,6.696,7,Villa,193,1968,-57 %,Aktuel værdi
+Gadstrup Mosevej 154621 Gadstrup,trup,1.700.000,28-11-2008,Fam. Salg,14.285,3,Villa,119,1962,,Aktuel værdi
+Salløv Gade 64621 Gadstrup,trup,1.179.291,03-11-2008,Andet,7.559,4,Villa,156,2000,,Aktuel værdi
+Kirkebakken 944621 Gadstrup,trup,2.395.000,14-10-2008,Alm. Salg,17.107,5,Villa,140,1972,-4 %,Aktuel værdi
+Knudsvej 44621 Gadstrup,trup,1.550.000,09-10-2008,Alm. Salg,13.362,4,Villa,116,2010,-11 %,Aktuel værdi
+Gartnervangen 254621 Gadstrup,trup,1.700.000,02-10-2008,Alm. Salg,18.279,3,Rækkehus,93,1987,-5 %,Aktuel værdi
+Tornegårdsvej 474621 Gadstrup,trup,2.150.000,20-09-2008,Alm. Salg,12.951,5,Villa,166,1976,-6 %,Aktuel værdi
+Ramsølillevejen 234621 Gadstrup,trup,600.000,08-09-2008,Alm. Salg,3.000,4,Villa,200,1917,,Aktuel værdi
+Hastrup Bygade 164621 Gadstrup,trup,1.625.000,12-07-2008,Alm. Salg,15.476,5,Villa,105,1963,-4 %,Aktuel værdi
+Ramsøbakken 364621 Gadstrup,trup,1.995.000,24-04-2008,Alm. Salg,20.781,3,Rækkehus,96,2008,0 %,Aktuel værdi
+Vangeledet 14621 Gadstrup,trup,3.875.000,21-04-2008,Alm. Salg,26.909,6,Villa,144,1914,-1 %,Aktuel værdi
+Dyssegårdsvej 494621 Gadstrup,trup,2.625.000,21-04-2008,Alm. Salg,21.516,5,Villa,122,1970,-6 %,Aktuel værdi
+Dyssegårdsvej 224621 Gadstrup,trup,2.740.000,15-04-2008,Alm. Salg,20.447,5,Villa,134,1970,-9 %,Aktuel værdi
+Sikærsvej 14621 Gadstrup,trup,2.250.000,14-02-2008,Alm. Salg,17.716,5,Villa,127,1985,-13 %,Aktuel værdi
+Snoldelev Bygade 74621 Gadstrup,trup,1.235.000,16-01-2008,Alm. Salg,8.949,5,Villa,138,1850,,Aktuel værdi
+Skalstrupvej 24621 Gadstrup,trup,1.000.000,16-01-2008,Fam. Salg,10.869,3,Villa,92,1923,,Aktuel værdi
+Søndervænget 34621 Gadstrup,trup,850.000,19-12-2007,Andet,7.083,4,Villa,120,1982,,Aktuel værdi
+Hovedgaden 94621 Gadstrup,trup,2.050.000,03-12-2007,Andet,12.058,6,Villa,170,1900,,Aktuel værdi
+Rønnevej 54621 Gadstrup,trup,2.500.000,11-11-2007,Fam. Salg,17.730,6,Villa,141,1932,,Aktuel værdi
+Skalstrupvej 14621 Gadstrup,trup,78.780,05-11-2007,Alm. Salg,248,6,Villa,317,1870,,Aktuel værdi
+Ramsømaglevej 624621 Gadstrup,trup,2.050.000,28-10-2007,Alm. Salg,16.532,6,Villa,124,1932,-2 %,Aktuel værdi
+Dyssegårdsvej 2E4621 Gadstrup,trup,2.625.000,27-09-2007,Alm. Salg,22.629,4,Rækkehus,116,2008,-1 %,Aktuel værdi
+Biensvej 164621 Gadstrup,trup,2.195.000,16-09-2007,Alm. Salg,24.662,4,Villa,89,1956,,Aktuel værdi
+Snoldelev Bygade 434621 Gadstrup,trup,1.900.000,07-09-2007,Alm. Salg,17.757,4,Villa,107,1943,-12 %,Aktuel værdi
+Allershøjvejen 44621 Gadstrup,trup,7.500.000,22-08-2007,Alm. Salg,26.132,6,Stuehus,287,1912,,
+Gadstrupparken 194621 Gadstrup,trup,2.545.000,22-08-2007,Alm. Salg,19.135,4,Villa,133,1970,,Aktuel værdi
+Solvænget 84621 Gadstrup,trup,1.700.000,12-08-2007,Alm. Salg,16.346,4,Villa,104,1963,,Aktuel værdi
+Markskelsvej 44621 Gadstrup,trup,2.695.000,11-08-2007,Alm. Salg,18.209,5,Villa,148,1980,,Aktuel værdi
+Damvej 174621 Gadstrup,trup,2.845.000,26-07-2007,Alm. Salg,17.561,5,Villa,162,1972,-5 %,Aktuel værdi
+Bøgevej 104621 Gadstrup,trup,2.300.000,16-07-2007,Alm. Salg,15.436,4,Villa,149,1964,,Aktuel værdi
+Langelodsvej 24621 Gadstrup,trup,2.267.000,08-07-2007,Fam. Salg,13.257,5,Stuehus,171,1980,,
+Gadstrupparken 454621 Gadstrup,trup,2.430.000,05-07-2007,Alm. Salg,19.756,4,Villa,123,1970,-9 %,Aktuel værdi
+Svanevej 64621 Gadstrup,trup,2.450.000,24-06-2007,Alm. Salg,18.702,5,Rækkehus,131,1968,,Aktuel værdi
+Enggårdsvej 54621 Gadstrup,trup,7.000.000,13-06-2007,Alm. Salg,33.333,5,Stuehus,210,2003,-6 %,
+Hyldevænget 94621 Gadstrup,trup,3.500.000,30-05-2007,Alm. Salg,18.817,7,Villa,186,1986,-4 %,Aktuel værdi
+Tjørnevænge 54621 Gadstrup,trup,2.395.000,14-05-2007,Alm. Salg,21.383,4,Villa,112,1967,0 %,Aktuel værdi
+Dyssegårdsvej 214621 Gadstrup,trup,2.150.000,08-05-2007,Alm. Salg,18.859,4,Villa,114,1970,-7 %,Aktuel værdi
+Biensvej 194621 Gadstrup,trup,800.000,27-04-2007,Andet,4.907,5,Villa,163,1922,,Aktuel værdi
+Nyvej 34621 Gadstrup,trup,1.500.000,23-04-2007,Alm. Salg,12.820,4,Villa,117,1961,,Aktuel værdi
+Gadstrup Mosevej 214621 Gadstrup,trup,1.945.000,23-04-2007,Alm. Salg,20.260,3,Villa,96,1963,,Aktuel værdi
+Gadstrup Mosevej 114621 Gadstrup,trup,2.350.000,08-04-2007,Alm. Salg,21.559,4,Villa,109,1961,0 %,Aktuel værdi
+Sylevænget 44621 Gadstrup,trup,2.180.000,14-03-2007,Alm. Salg,18.956,4,Villa,115,1979,-5 %,Aktuel værdi
+Søndervænget 84621 Gadstrup,trup,2.525.000,13-03-2007,Alm. Salg,16.946,6,Villa,149,1979,-6 %,Aktuel værdi
+Dyssegårdsvej 2A4621 Gadstrup,trup,2.665.000,28-02-2007,Alm. Salg,22.974,4,Rækkehus,116,2007,,Aktuel værdi
+Dyssegårdsvej 2D4621 Gadstrup,trup,2.634.000,28-02-2007,Alm. Salg,22.706,4,Rækkehus,116,2007,,Aktuel værdi
+Lærkevej 54621 Gadstrup,trup,2.100.000,28-02-2007,Alm. Salg,-,6,Villa,170,1963,,Aktuel værdi
+Jernbanestien 4B4621 Gadstrup,trup,760.000,15-02-2007,Alm. Salg,21.111,1,Rækkehus,36,1974,,Aktuel værdi
+Bødkers Vænge 104621 Gadstrup,trup,1.950.000,14-02-2007,Alm. Salg,18.055,3,Villa,108,1968,,Aktuel værdi
+Østervej 64621 Gadstrup,trup,1.750.000,11-02-2007,Alm. Salg,18.617,3,Villa,94,1954,,Aktuel værdi
+Smedegade 194621 Gadstrup,trup,2.650.000,05-02-2007,Alm. Salg,10.600,5,Stuehus,250,2008,6 %,
+Bødkers Vænge 134621 Gadstrup,trup,2.600.000,15-01-2007,Alm. Salg,17.218,5,Villa,151,1978,,Aktuel værdi
+Brordrupvej 424621 Gadstrup,trup,80.000,11-01-2007,Alm. Salg,266,7,Stuehus,300,1900,,
+Vangeledet 3A4621 Gadstrup,trup,2.000.000,09-01-2007,Alm. Salg,19.417,4,Villa,103,1966,,Aktuel værdi
+Vangeledet 64621 Gadstrup,trup,1.800.000,06-01-2007,Alm. Salg,12.765,5,Villa,141,1907,,Aktuel værdi
+Bødkers Vænge 154621 Gadstrup,trup,2.450.000,18-12-2006,Alm. Salg,25.789,4,Villa,95,1967,,Aktuel værdi
+Vestervej 54621 Gadstrup,trup,707.924,14-12-2006,Fam. Salg,5.530,4,Villa,128,1924,,Aktuel værdi
+Grønnegade 15A4621 Gadstrup,trup,2.150.000,06-12-2006,Alm. Salg,23.369,4,Villa,92,1968,,Aktuel værdi
+Ramsøbakken 374621 Gadstrup,trup,1.495.000,01-12-2006,Alm. Salg,9.707,3,Villa,154,2007,,Aktuel værdi
+Dyssegårdsvænget 24621 Gadstrup,trup,2.800.000,12-11-2006,Alm. Salg,22.764,4,Villa,123,1979,,Aktuel værdi
+Gartnervangen 154621 Gadstrup,trup,2.065.000,05-11-2006,Alm. Salg,22.204,3,Rækkehus,93,1988,,Aktuel værdi
+Tjørnevænge 104621 Gadstrup,trup,850.000,04-11-2006,Fam. Salg,6.692,5,Villa,127,1962,,Aktuel værdi
+Mosevænget 54621 Gadstrup,trup,825.000,03-11-2006,Fam. Salg,5.769,4,Villa,143,1980,,Aktuel værdi
+Rødkløvervænget 24621 Gadstrup,trup,2.999.000,30-10-2006,Alm. Salg,23.614,4,Villa,127,1985,,Aktuel værdi
+Tornegårdsvej 494621 Gadstrup,trup,425.000,16-10-2006,Fam. Salg,2.689,6,Villa,158,1973,,Aktuel værdi
+Salløvvej 24621 Gadstrup,trup,3.250.000,16-10-2006,Alm. Salg,29.017,5,Stuehus,112,1914,,
+Dyssegårdsvej 894621 Gadstrup,trup,3.000.000,08-10-2006,Alm. Salg,22.222,4,Villa,135,1972,,Aktuel værdi
+Rønnevej 64621 Gadstrup,trup,750.000,28-09-2006,Fam. Salg,-,7,Villa,167,1907,,Aktuel værdi
+Slotsbakken 104621 Gadstrup,trup,2.700.000,08-09-2006,Alm. Salg,17.307,5,Villa,156,1958,,Aktuel værdi
+Bakkevej 34621 Gadstrup,trup,2.970.000,24-08-2006,Alm. Salg,21.214,5,Villa,140,1965,,Aktuel værdi
+Hastrupvej 14621 Gadstrup,trup,3.840.000,21-08-2006,Fam. Salg,21.098,5,Stuehus,182,1924,,
+Ramsøvejen 44621 Gadstrup,trup,1.799.000,14-08-2006,Alm. Salg,11.386,7,Villa,158,1887,,Aktuel værdi
+Jernbanestien 4D4621 Gadstrup,trup,750.000,23-07-2006,Alm. Salg,20.833,1,Rækkehus,36,1974,,Aktuel værdi
+Dyssegårdsvej 2F4621 Gadstrup,trup,2.400.000,17-07-2006,Alm. Salg,20.689,4,Rækkehus,116,2008,,Aktuel værdi
+Nyvej 94621 Gadstrup,trup,2.200.000,10-07-2006,Andet,18.644,4,Villa,118,1965,,Aktuel værdi
+Ramsøbakken 434621 Gadstrup,trup,1.495.000,09-07-2006,Alm. Salg,-,7,Villa,207,2008,,Aktuel værdi
+Sverregårdsvej 54621 Gadstrup,trup,895.000,02-07-2006,Alm. Salg,11.474,4,Sommerhus,78,1962,,Aktuel værdi
+Gadstrupparken 374621 Gadstrup,trup,2.775.000,25-06-2006,Alm. Salg,15.163,6,Villa,183,1970,,Aktuel værdi
+Gammel Skolevej 14621 Gadstrup,trup,600.000,23-06-2006,Andet,9.523,2,Rækkehus,63,1976,,Aktuel værdi
+Solrødvej 14621 Gadstrup,trup,1.000.000,21-06-2006,Andet,3.546,10,Stuehus,282,1872,,
+Bakkevej 74621 Gadstrup,trup,2.695.000,07-06-2006,Alm. Salg,25.424,4,Villa,106,1937,,Aktuel værdi
+Hastrup Bygade 44621 Gadstrup,trup,2.450.000,31-05-2006,Alm. Salg,25.789,3,Villa,95,1967,,Aktuel værdi
+Tyrsegårdsvej 44621 Gadstrup,trup,4.395.000,24-05-2006,Alm. Salg,21.439,5,Villa,205,1770,,Aktuel værdi
+Brøndvejen 24621 Gadstrup,trup,2.350.000,22-05-2006,Alm. Salg,-,6,Villa,177,1987,,Aktuel værdi
+Nøddehøjvej 24621 Gadstrup,trup,272.295,15-05-2006,Alm. Salg,1.852,6,Stuehus,147,1927,,
+Nøddehøjvej 34621 Gadstrup,trup,5.100.000,15-05-2006,Alm. Salg,28.651,7,Stuehus,178,1925,,
+Rødkløvervænget 34621 Gadstrup,trup,2.485.000,09-04-2006,Alm. Salg,21.239,4,Villa,117,1985,,Aktuel værdi
+Ramsøbakken 334621 Gadstrup,trup,1.478.000,20-03-2006,Alm. Salg,8.850,5,Villa,167,2008,,Aktuel værdi
+Ramsøbakken 294621 Gadstrup,trup,1.450.000,20-03-2006,Alm. Salg,8.285,5,Villa,175,2007,,Aktuel værdi
+Brordrup Bygade 34621 Gadstrup,trup,3.995.000,02-03-2006,Alm. Salg,-,6,Villa,267,1937,,Aktuel værdi
+Hyldevænget 114621 Gadstrup,trup,778.000,02-03-2006,Andet,6.429,4,Villa,121,1988,,Aktuel værdi
+Birkevænget 14621 Gadstrup,trup,1.995.000,01-03-2006,Alm. Salg,18.136,4,Villa,110,1965,,Aktuel værdi
+Dyssegårdsvej 244621 Gadstrup,trup,2.395.000,20-02-2006,Alm. Salg,19.958,4,Villa,120,1969,,Aktuel værdi
+Grønnegade 144621 Gadstrup,trup,2.295.000,15-02-2006,Alm. Salg,13.742,6,Villa,167,1777,,Aktuel værdi
+Køgevej 1814621 Gadstrup,trup,2.064.000,12-02-2006,Alm. Salg,18.763,4,Villa,110,1952,,Aktuel værdi
+Ramsølillevejen 32A4621 Gadstrup,trup,400.000,02-02-2006,Fam. Salg,3.703,4,Villa,108,1968,,Aktuel værdi
+Kirkebakken 114621 Gadstrup,trup,2.245.000,30-01-2006,Alm. Salg,11.395,6,Villa,197,1970,,Aktuel værdi
+Enggårdsvej 84621 Gadstrup,trup,4.130.000,15-01-2006,Alm. Salg,16.653,4,Villa,248,2002,,Aktuel værdi
+Kirkebakken 374621 Gadstrup,trup,2.695.000,13-12-2005,Alm. Salg,16.949,6,Villa,159,1973,,Aktuel værdi
+Biensvej 204621 Gadstrup,trup,2.645.000,12-12-2005,Alm. Salg,20.346,6,Villa,130,1946,,Aktuel værdi
+Hovedgaden 21A4621 Gadstrup,trup,1.141.000,10-12-2005,Andet,7.457,5,Villa,153,1906,,Aktuel værdi
+Sikærsvej 104621 Gadstrup,trup,2.795.000,05-12-2005,Alm. Salg,19.409,4,Villa,144,1979,,Aktuel værdi
+Ramsømaglevej 254621 Gadstrup,trup,2.850.000,28-11-2005,Alm. Salg,14.321,7,Villa,199,1971,,Aktuel værdi
+Kildevænget 64621 Gadstrup,trup,2.575.000,25-11-2005,Alm. Salg,14.714,5,Villa,175,1980,,Aktuel værdi
+Snoldelev Bygade 28A4621 Gadstrup,trup,1.260.000,16-11-2005,Alm. Salg,11.886,4,Villa,106,1777,,Aktuel værdi
+Sikærsvej 144621 Gadstrup,trup,385.000,14-11-2005,Fam. Salg,2.636,4,Villa,146,2007,,Aktuel værdi
+Svanevej 34621 Gadstrup,trup,900.000,13-11-2005,Fam. Salg,6.923,4,Villa,130,1972,,Aktuel værdi
+Nørrevej 14621 Gadstrup,trup,2.935.000,07-11-2005,Alm. Salg,18.343,4,Villa,160,1910,,Aktuel værdi
+Hastrup Bygade 184621 Gadstrup,trup,1.875.000,03-11-2005,Alm. Salg,18.750,3,Villa,100,1900,,Aktuel værdi
+Ramsøvejen 194621 Gadstrup,trup,1.693.500,28-10-2005,Alm. Salg,5.570,6,Villa,304,1732,,Aktuel værdi
+Gammel Skolevej 114621 Gadstrup,trup,1.220.000,17-10-2005,Alm. Salg,19.365,2,Rækkehus,63,1973,,Aktuel værdi
+Snoldelev Bygade 374621 Gadstrup,trup,1.650.000,05-10-2005,Alm. Salg,19.879,3,Villa,83,1962,,Aktuel værdi
+Gartnervangen 74621 Gadstrup,trup,1.740.000,05-10-2005,Alm. Salg,18.709,3,Rækkehus,93,1988,,Aktuel værdi
+Kildevænget 44621 Gadstrup,trup,2.295.000,28-09-2005,Alm. Salg,17.386,4,Villa,132,1979,,Aktuel værdi
+Snoldelev Bygade 314621 Gadstrup,trup,700.000,27-09-2005,Andet,5.468,4,Villa,128,1962,,Aktuel værdi
+Snoldelev Bygade 614621 Gadstrup,trup,3.975.000,27-09-2005,Alm. Salg,19.390,3,Stuehus,205,1915,,
+Gadstrupparken 94621 Gadstrup,trup,2.525.000,26-09-2005,Alm. Salg,14.428,6,Villa,175,1970,,Aktuel værdi
+Fruervej 134621 Gadstrup,trup,2.050.000,21-09-2005,Alm. Salg,16.015,3,Villa,128,1970,,Aktuel værdi
+Kirkebakken 484621 Gadstrup,trup,2.770.000,15-09-2005,Alm. Salg,11.541,7,Villa,240,1973,,Aktuel værdi
+Gadstrupparken 414621 Gadstrup,trup,1.700.000,06-09-2005,Alm. Salg,12.781,4,Villa,133,1971,,Aktuel værdi
+Grønnegade 74621 Gadstrup,trup,2.495.000,04-09-2005,Alm. Salg,19.645,4,Stuehus,127,1900,,
+Mosevænget 14621 Gadstrup,trup,2.140.000,24-08-2005,Alm. Salg,17.258,4,Villa,124,1979,,Aktuel værdi
+Bakkevej 54621 Gadstrup,trup,1.745.000,22-08-2005,Alm. Salg,16.462,3,Villa,106,1966,,Aktuel værdi
+Hjørnegårdsvænget 44621 Gadstrup,trup,1.600.000,08-08-2005,Alm. Salg,10.958,4,Villa,146,1978,,Aktuel værdi
+Hastrup Bygade 214621 Gadstrup,trup,1.445.000,26-07-2005,Alm. Salg,15.706,3,Villa,92,1963,,Aktuel værdi
+Dyssegårdsvej 974621 Gadstrup,trup,2.630.000,19-07-2005,Fam. Salg,12.644,6,Stuehus,208,1924,,
+Mosevænget 84621 Gadstrup,trup,1.600.000,08-07-2005,Alm. Salg,12.307,4,Villa,130,1981,,Aktuel værdi
+Sikærsvej 84621 Gadstrup,trup,1.785.000,30-06-2005,Alm. Salg,16.682,4,Villa,107,1982,,Aktuel værdi
+Elmegårdsvænget 44621 Gadstrup,trup,916.082,22-06-2005,Fam. Salg,4.796,6,Villa,191,2002,,Aktuel værdi
+Snoldelev Bygade 404621 Gadstrup,trup,1.119.500,14-06-2005,Fam. Salg,10.365,3,Villa,108,1951,,Aktuel værdi
+Snoldelev Bygade 40C4621 Gadstrup,trup,1.119.500,14-06-2005,Alm. Salg,9.568,4,Villa,117,2004,,Aktuel værdi
+Bakkevej 14621 Gadstrup,trup,1.950.000,08-06-2005,Alm. Salg,14.233,4,Villa,137,1946,,Aktuel værdi
+Hovedgaden 21B4621 Gadstrup,trup,1.795.000,06-06-2005,Alm. Salg,11.218,6,Villa,160,1967,,Aktuel værdi
+Søgårdsvej 24621 Gadstrup,trup,4.150.000,03-06-2005,Alm. Salg,22.802,6,Stuehus,182,1918,,
+Kildevænget 74621 Gadstrup,trup,2.383.000,31-05-2005,Alm. Salg,14.893,6,Villa,160,1986,,Aktuel værdi
+Gammel Havdrupvej 34621 Gadstrup,trup,2.895.000,01-05-2005,Alm. Salg,17.130,5,Villa,169,2001,,Aktuel værdi
+Damvej 194621 Gadstrup,trup,2.000.000,21-04-2005,Alm. Salg,-,4,Villa,120,1968,,Aktuel værdi
+Tornegårdsvej 164621 Gadstrup,trup,1.895.000,20-04-2005,Alm. Salg,11.554,5,Villa,164,1973,,Aktuel værdi
+Dyssegårdsvej 134621 Gadstrup,trup,2.300.000,04-04-2005,Alm. Salg,12.365,5,Villa,186,1972,,Aktuel værdi
+Gadstrup Mosevej 254621 Gadstrup,trup,2.600.000,30-03-2005,Alm. Salg,12.745,6,Villa,204,1968,,Aktuel værdi
+Kirkebakken 354621 Gadstrup,trup,1.695.000,18-03-2005,Alm. Salg,15.133,5,Villa,112,1972,,Aktuel værdi
+Svanevej 144621 Gadstrup,trup,2.095.000,03-03-2005,Alm. Salg,9.610,5,Villa,218,1974,,Aktuel værdi
+Ramsøbakken 104621 Gadstrup,trup,2.880.322,01-03-2005,Alm. Salg,18.346,5,Villa,157,2007,,Aktuel værdi
+Ramsøbakken 84621 Gadstrup,trup,745.000,25-02-2005,Alm. Salg,5.283,4,Villa,141,2005,,Aktuel værdi
+Gadstrupparken 634621 Gadstrup,trup,812.500,22-02-2005,Fam. Salg,6.109,5,Villa,133,1970,,Aktuel værdi
+Dyssegårdsvej 554621 Gadstrup,trup,1.670.000,14-02-2005,Alm. Salg,10.774,4,Villa,155,1969,,Aktuel værdi
+Dyssegårdsvænget 84621 Gadstrup,trup,1.925.000,14-02-2005,Alm. Salg,14.694,4,Villa,131,1980,,Aktuel værdi
+Brordrupvej 394621 Gadstrup,trup,1.800.000,18-01-2005,Fam. Salg,-,6,Villa,249,1928,,Aktuel værdi
+Søvænget 74621 Gadstrup,trup,1.495.000,07-01-2005,Alm. Salg,14.656,4,Villa,102,1968,,Aktuel værdi
+Solvænget 24621 Gadstrup,trup,1.105.000,24-12-2004,Fam. Salg,-,5,Villa,141,1958,,Aktuel værdi
+Agervænget 104621 Gadstrup,trup,2.295.000,20-12-2004,Alm. Salg,16.048,5,Villa,143,1997,,Aktuel værdi
+Kirkebakken 334621 Gadstrup,trup,2.005.000,11-12-2004,Alm. Salg,9.975,6,Villa,201,1973,,Aktuel værdi
+Damvej 6C4621 Gadstrup,trup,2.225.000,06-12-2004,Alm. Salg,13.165,4,Villa,169,1986,,Aktuel værdi
+Dalsagervej 44621 Gadstrup,trup,9.400.000,02-11-2004,Alm. Salg,42.342,9,Stuehus,222,1932,,
+Gartnervangen 34621 Gadstrup,trup,1.200.000,25-10-2004,Alm. Salg,12.903,3,Rækkehus,93,1988,,Aktuel værdi
+Fruervej 234621 Gadstrup,trup,2.295.000,27-09-2004,Alm. Salg,12.609,5,Villa,182,1976,,Aktuel værdi
+Nygårdsvænget 54621 Gadstrup,trup,2.250.000,16-09-2004,Alm. Salg,13.719,6,Villa,164,1984,,Aktuel værdi
+Snoldelev Bygade 28B4621 Gadstrup,trup,800.000,12-09-2004,Alm. Salg,14.814,3,Rækkehus,54,1777,,Aktuel værdi
+Kirkebakken 804621 Gadstrup,trup,1.190.000,11-08-2004,Alm. Salg,9.153,5,Villa,130,1974,,Aktuel værdi
+Brordrupvej 454621 Gadstrup,trup,1.450.000,09-08-2004,Alm. Salg,16.477,3,Villa,88,1902,,Aktuel værdi
+Ramsømaglevej 24621 Gadstrup,trup,1.250.000,03-08-2004,Fam. Salg,9.191,4,Villa,136,1888,,Aktuel værdi
+Gartnervangen 13A4621 Gadstrup,trup,1.430.000,08-07-2004,Alm. Salg,16.627,3,Rækkehus,86,1989,,Aktuel værdi
+Mosevænget 24621 Gadstrup,trup,1.725.000,01-07-2004,Alm. Salg,13.269,4,Villa,130,1980,,Aktuel værdi
+Rønnevej 94621 Gadstrup,trup,1.650.000,15-06-2004,Alm. Salg,-,3,Villa,130,1937,,Aktuel værdi
+Gadstrupparken 734621 Gadstrup,trup,1.895.000,24-05-2004,Alm. Salg,9.869,6,Villa,192,1970,,Aktuel værdi
+Nyvej 54621 Gadstrup,trup,1.210.000,05-05-2004,Alm. Salg,12.100,3,Villa,100,1962,,Aktuel værdi
+Tornegårdsvej 114621 Gadstrup,trup,1.685.000,28-04-2004,Alm. Salg,9.911,5,Villa,170,1974,,Aktuel værdi
+Møllemarken 14621 Gadstrup,trup,1.915.000,29-03-2004,Alm. Salg,-,7,Villa,227,1917,,Aktuel værdi
+Nyvej 324621 Gadstrup,trup,1.400.000,16-03-2004,Alm. Salg,-,5,Villa,157,1968,,Aktuel værdi
+Smedegade 124621 Gadstrup,trup,1.555.815,16-03-2004,Alm. Salg,9.486,8,Villa,164,1927,,Aktuel værdi
+Salløv Gade 84621 Gadstrup,trup,98.070,08-03-2004,Alm. Salg,419,8,Stuehus,234,1880,,
+Kirkebakken 404621 Gadstrup,trup,2.100.000,04-03-2004,Alm. Salg,11.538,5,Villa,182,1971,,Aktuel værdi
+Kildevænget 14621 Gadstrup,trup,1.605.000,02-03-2004,Alm. Salg,13.956,4,Villa,115,1986,,Aktuel værdi
+Møllevejen 54621 Gadstrup,trup,485.000,20-02-2004,Alm. Salg,17.962,1,Sommerhus,27,1975,,Aktuel værdi
+Hastrup Bygade 114621 Gadstrup,trup,602.667,19-02-2004,Alm. Salg,4.783,5,Villa,126,1860,,Aktuel værdi
+Søvænget 54621 Gadstrup,trup,1.349.000,11-02-2004,Alm. Salg,-,4,Villa,157,1968,,Aktuel værdi
+Lærkevej 154621 Gadstrup,trup,1.755.000,15-01-2004,Alm. Salg,10.636,6,Villa,165,1968,,Aktuel værdi
+Kirkebakken 724621 Gadstrup,trup,1.600.000,08-01-2004,Alm. Salg,11.764,4,Villa,136,1972,,Aktuel værdi
+Fruervej 164621 Gadstrup,trup,1.875.000,25-11-2003,Alm. Salg,-,5,Villa,161,1975,,Aktuel værdi
+Snoldelev Bygade 544621 Gadstrup,trup,1.000.000,18-11-2003,Alm. Salg,5.681,5,Villa,176,1914,,Aktuel værdi
+Hovedgaden 14621 Gadstrup,trup,3.500.000,01-11-2003,Fam. Salg,12.962,6,Villa,270,1905,,Aktuel værdi
+Tjørnevænge 44621 Gadstrup,trup,870.494,01-10-2003,Fam. Salg,8.370,3,Villa,104,1965,,Aktuel værdi
+Salløv Gade 104621 Gadstrup,trup,742.067,29-09-2003,Alm. Salg,2.473,8,Stuehus,300,1869,,
+Brordrupvej 44621 Gadstrup,trup,1.295.000,14-09-2003,Alm. Salg,14.550,4,Villa,89,1906,,Aktuel værdi
+Vangeledet 24621 Gadstrup,trup,1.350.000,12-09-2003,Alm. Salg,9.782,5,Villa,138,1906,,Aktuel værdi
+Ramsøvejen 404621 Gadstrup,trup,985.000,10-09-2003,Alm. Salg,9.850,4,Villa,100,1962,,Aktuel værdi
+Dyssegårdsvej 124621 Gadstrup,trup,1.599.999,02-09-2003,Alm. Salg,12.903,4,Villa,124,1971,,Aktuel værdi
+Søvænget 184621 Gadstrup,trup,1.825.000,25-08-2003,Alm. Salg,12.086,7,Villa,151,1970,,Aktuel værdi
+Nøddehøjvej 44621 Gadstrup,trup,1.910.000,09-07-2003,Alm. Salg,14.360,4,Stuehus,133,1877,,
+Brordrup Bygade 2C4621 Gadstrup,trup,1.750.000,06-07-2003,Alm. Salg,7.383,7,Villa,237,1837,,Aktuel værdi
+Vestervej 44621 Gadstrup,trup,575.000,24-06-2003,Alm. Salg,2.263,6,Villa,254,2009,,Aktuel værdi
+Lærkevej 14621 Gadstrup,trup,1.600.000,22-06-2003,Alm. Salg,11.594,4,Villa,138,1963,,Aktuel værdi
+Tornegårdsvej 154621 Gadstrup,trup,1.560.000,17-06-2003,Alm. Salg,9.454,5,Villa,165,1973,,Aktuel værdi
+Stakhaven 44621 Gadstrup,trup,1.325.000,28-05-2003,Alm. Salg,11.422,3,Villa,116,1890,,Aktuel værdi
+Hyldevænget 154621 Gadstrup,trup,1.520.000,01-05-2003,Alm. Salg,12.561,4,Villa,121,1986,,Aktuel værdi
+Ramsømaglevej 604621 Gadstrup,trup,1.900.000,25-04-2003,Alm. Salg,10.555,4,Villa,180,1929,,Aktuel værdi
+Snoldelev Bygade 13C4621 Gadstrup,trup,1.850.000,13-04-2003,Alm. Salg,14.453,4,Rækkehus,128,2003,,Aktuel værdi
+Brordrupvej 244621 Gadstrup,trup,1.200.000,20-03-2003,Alm. Salg,14.634,3,Villa,82,1960,,Aktuel værdi
+Kildeager 44621 Gadstrup,trup,1.406.596,17-03-2003,Alm. Salg,12.672,4,Villa,111,1960,,Aktuel værdi
+Allershøjvejen 84621 Gadstrup,trup,2.118.000,02-03-2003,Alm. Salg,11.206,6,Villa,189,1910,,Aktuel værdi
+Tornegårdsvej 74621 Gadstrup,trup,1.800.000,17-02-2003,Alm. Salg,10.344,5,Villa,174,1976,,Aktuel værdi
+Smedegade 74621 Gadstrup,trup,763.366,14-02-2003,Andet,4.862,5,Villa,157,1962,,Aktuel værdi
+Sikærsvej 114621 Gadstrup,trup,1.890.000,30-01-2003,Alm. Salg,11.317,5,Villa,167,1985,,Aktuel værdi
+Ramsøvejen 114621 Gadstrup,trup,3.923.266,20-01-2003,Fam. Salg,11.997,7,Stuehus,327,1923,,
+Kirkebakken 744621 Gadstrup,trup,1.655.366,15-01-2003,Alm. Salg,10.477,5,Villa,158,1972,,Aktuel værdi
+Kirkebakken 214621 Gadstrup,trup,775.000,10-01-2003,Fam. Salg,5.656,4,Villa,137,1971,,Aktuel værdi
+Gammel Skolevej 10B4621 Gadstrup,trup,1.450.000,23-12-2002,Alm. Salg,-,7,Villa,128,1902,,Aktuel værdi
+Gadstrupparken 44621 Gadstrup,trup,1.750.000,09-12-2002,Alm. Salg,10.802,5,Villa,162,1971,,Aktuel værdi
+Fruervej 94621 Gadstrup,trup,1.400.000,09-12-2002,Alm. Salg,11.382,3,Villa,123,1970,,Aktuel værdi
+Hastrup Bygade 84621 Gadstrup,trup,2.300.000,02-12-2002,Alm. Salg,15.436,4,Villa,149,1968,,Aktuel værdi
+Agervænget 144621 Gadstrup,trup,2.068.000,25-11-2002,Alm. Salg,13.171,5,Villa,157,1997,,Aktuel værdi
+Brøndvejen 34621 Gadstrup,trup,1.400.000,24-11-2002,Alm. Salg,10.370,4,Villa,135,1860,,Aktuel værdi
+Gadstrupparken 334621 Gadstrup,trup,1.400.000,11-11-2002,Alm. Salg,10.447,3,Villa,134,1973,,Aktuel værdi
+Søvænget 84621 Gadstrup,trup,1.560.000,11-11-2002,Alm. Salg,10.263,5,Villa,152,1968,,Aktuel værdi
+Snoldelev Bygade 13A4621 Gadstrup,trup,775.925,08-11-2002,Alm. Salg,4.942,3,Villa,157,1970,,Aktuel værdi
+Bødkers Vænge 184621 Gadstrup,trup,1.495.000,31-10-2002,Alm. Salg,13.114,5,Villa,114,1964,,Aktuel værdi
+Sylevænget 14621 Gadstrup,trup,1.150.000,20-10-2002,Alm. Salg,-,5,Villa,221,1984,,Aktuel værdi
+Nygårdsvænget 44621 Gadstrup,trup,1.837.691,08-10-2002,Alm. Salg,11.933,5,Villa,154,1979,,Aktuel værdi
+Køgevej 1874621 Gadstrup,trup,700.000,16-09-2002,Alm. Salg,6.363,3,Stuehus,110,2003,,
+Smedegade 184621 Gadstrup,trup,1.025.000,13-08-2002,Alm. Salg,8.686,4,Villa,118,1900,,Aktuel værdi
+Kirkebakken 124621 Gadstrup,trup,1.715.000,11-08-2002,Alm. Salg,9.475,7,Villa,181,1972,,Aktuel værdi
+Ramsøvejen 124621 Gadstrup,trup,1.529.944,06-07-2002,Alm. Salg,14.570,3,Villa,105,1894,,Aktuel værdi
+Snoldelev Bygade 584621 Gadstrup,trup,2.640.000,18-06-2002,Alm. Salg,11.629,6,Villa,227,2010,,Aktuel værdi
+Gammel Skolevej 64621 Gadstrup,trup,1.450.000,17-06-2002,Alm. Salg,12.393,4,Villa,117,1877,,Aktuel værdi
+Sikærsvej 194621 Gadstrup,trup,499.900,07-06-2002,Alm. Salg,3.447,5,Villa,145,2004,,Aktuel værdi
+Brordrupvej 364621 Gadstrup,trup,2.500.000,06-06-2002,Alm. Salg,-,7,Villa,250,1870,,Aktuel værdi
+Sverregårdsvej 154621 Gadstrup,trup,501.251,06-06-2002,Alm. Salg,-,2,Sommerhus,120,1972,,Aktuel værdi
+Biensvej 84621 Gadstrup,trup,1.350.000,22-05-2002,Alm. Salg,11.842,4,Villa,114,1966,,Aktuel værdi
+Snoldelev Bygade 16B4621 Gadstrup,trup,1.825.000,15-05-2002,Alm. Salg,12.500,4,Villa,146,1974,,Aktuel værdi
+Kirkebakken 624621 Gadstrup,trup,1.400.000,22-04-2002,Alm. Salg,9.722,5,Villa,144,1973,,Aktuel værdi
+Tornegårdsvej 2D4621 Gadstrup,trup,1.675.000,17-04-2002,Fam. Salg,11.472,5,Villa,146,1976,,Aktuel værdi
+Fruervej 454621 Gadstrup,trup,1.936.000,10-04-2002,Alm. Salg,14.028,5,Villa,138,1986,,Aktuel værdi
+Vangeledet 74621 Gadstrup,trup,1.520.000,30-03-2002,Alm. Salg,14.339,4,Villa,106,1966,,Aktuel værdi
+Bødkers Vænge 244621 Gadstrup,trup,915.000,04-03-2002,Alm. Salg,-,6,Villa,148,1962,,Aktuel værdi
+Ramsøvejen 234621 Gadstrup,trup,1.220.000,06-02-2002,Alm. Salg,13.260,4,Villa,92,1917,,Aktuel værdi
+Brordrupvej 324621 Gadstrup,trup,2.850.000,25-01-2002,Alm. Salg,11.400,5,Villa,250,1912,,Aktuel værdi
+Dyssegårdsvej 44621 Gadstrup,trup,1.400.000,23-01-2002,Alm. Salg,12.389,4,Villa,113,1964,,Aktuel værdi
+Tunevej 114621 Gadstrup,trup,1.250.000,21-01-2002,Alm. Salg,8.333,7,Stuehus,150,1877,,
+Ramsøvejen 314621 Gadstrup,trup,1.190.000,09-01-2002,Alm. Salg,9.834,4,Villa,121,1987,,Aktuel værdi
+Brordrupvej 14A4621 Gadstrup,trup,1.250.000,01-01-2002,Fam. Salg,13.020,3,Villa,96,1960,,Aktuel værdi
+Tornegårdsvej 5B4621 Gadstrup,trup,1.399.669,17-12-2001,Alm. Salg,7.252,4,Villa,193,1902,,Aktuel værdi
+Rødkløvervænget 74621 Gadstrup,trup,1.395.000,12-11-2001,Alm. Salg,-,6,Villa,157,1982,,Aktuel værdi
+Gartnervangen 214621 Gadstrup,trup,1.262.000,09-11-2001,Alm. Salg,13.569,3,Rækkehus,93,1988,,Aktuel værdi
+Brordrupvej 314621 Gadstrup,trup,1.081.000,05-11-2001,Alm. Salg,12.425,3,Rækkehus,87,1966,,Aktuel værdi
+Agervænget 44621 Gadstrup,trup,1.485.000,24-10-2001,Alm. Salg,-,4,Villa,162,1979,,Aktuel værdi
+Køgevej 2284621 Gadstrup,trup,2.049.250,02-10-2001,Alm. Salg,13.661,5,Stuehus,150,1900,,
+"Slotsbakken 8, 14621 Gadstrup",trup,1.020.000,17-09-2001,Alm. Salg,-,3,Lejlighed,103,1948,,Aktuel værdi
+Dyssegårdsvænget 64621 Gadstrup,trup,1.582.546,14-09-2001,Alm. Salg,12.173,4,Villa,130,1984,,Aktuel værdi
+Hastrup Bygade 4C4621 Gadstrup,trup,2.295.000,29-08-2001,Alm. Salg,13.742,5,Villa,167,1997,,Aktuel værdi
+Absalonsvænget 74621 Gadstrup,trup,1.815.000,27-08-2001,Alm. Salg,11.273,6,Villa,161,1969,,Aktuel værdi
+Snoldelev Bygade 204621 Gadstrup,trup,740.000,24-08-2001,Alm. Salg,-,7,Villa,169,1890,,Aktuel værdi
+Søndervænget 154621 Gadstrup,trup,1.560.000,22-08-2001,Alm. Salg,10.684,4,Villa,146,1981,,Aktuel værdi
+Sverregårdsvej 164621 Gadstrup,trup,277.000,30-07-2001,Fam. Salg,3.077,4,Sommerhus,90,1962,,Aktuel værdi
+Gadstrupparken 394621 Gadstrup,trup,1.725.000,29-07-2001,Alm. Salg,11.979,5,Villa,144,1970,,Aktuel værdi
+Sikærsvej 134621 Gadstrup,trup,2.297.653,19-07-2001,Alm. Salg,15.317,4,Villa,150,1999,,Aktuel værdi
+Åvadet 34621 Gadstrup,trup,1.420.000,13-07-2001,Alm. Salg,-,5,Villa,147,1913,,Aktuel værdi
+Solrødvej 44621 Gadstrup,trup,1.500.000,09-07-2001,Fam. Salg,3.694,9,Villa,406,1712,,Aktuel værdi
+Biensvej 134621 Gadstrup,trup,1.759.649,02-07-2001,Alm. Salg,14.190,4,Villa,124,1924,,Aktuel værdi
+Snoldelev Bygade 64621 Gadstrup,trup,1.070.000,25-06-2001,Alm. Salg,10.918,3,Villa,98,1960,,Aktuel værdi
+Gadstrupparken 434621 Gadstrup,trup,1.300.000,25-06-2001,Alm. Salg,9.027,5,Villa,144,1970,,Aktuel værdi
+"Slotsbakken 8, ST4621 Gadstrup",trup,1.335.000,14-06-2001,Alm. Salg,-,4,Lejlighed,144,1948,,Aktuel værdi
+Bøgevej 44621 Gadstrup,trup,1.200.000,01-06-2001,Alm. Salg,-,5,Villa,156,1963,,Aktuel værdi
+Karlslundevejen 114621 Gadstrup,trup,1.800.000,29-05-2001,Alm. Salg,13.043,3,Villa,138,1986,,Aktuel værdi
+Bødkers Vænge 114621 Gadstrup,trup,1.180.000,15-05-2001,Alm. Salg,-,5,Villa,144,1965,,Aktuel værdi
+Kirkebakken 364621 Gadstrup,trup,1.507.507,11-05-2001,Alm. Salg,12.775,4,Villa,118,1972,,Aktuel værdi
+Sikærsvej 124621 Gadstrup,trup,1.265.000,01-05-2001,Alm. Salg,11.822,4,Villa,107,1982,,Aktuel værdi
+Nørrevej 94621 Gadstrup,trup,1.389.000,30-04-2001,Alm. Salg,11.385,4,Villa,122,1966,,Aktuel værdi
+Vestervej 34621 Gadstrup,trup,490.846,28-04-2001,Alm. Salg,2.887,8,Villa,170,1904,,Aktuel værdi
+Tunevej 74621 Gadstrup,trup,600.000,23-04-2001,Alm. Salg,-,4,Villa,112,1827,,Aktuel værdi
+Hovedgaden 12A4621 Gadstrup,trup,1.995.000,23-04-2001,Alm. Salg,9.109,5,Villa,219,1902,,Aktuel værdi
+Ramsømaglevej 564621 Gadstrup,trup,925.000,22-04-2001,Alm. Salg,11.011,3,Villa,84,1956,,Aktuel værdi
+Kildeager 24621 Gadstrup,trup,1.100.000,29-01-2001,Alm. Salg,9.090,4,Villa,121,1962,,Aktuel værdi
+Syvvejen 314621 Gadstrup,trup,800.000,28-12-2000,Alm. Salg,-,-,Fabrik/lager,-,-,,
+Solvænget 104621 Gadstrup,trup,415.000,11-12-2000,Fam. Salg,4.510,4,Villa,92,1960,,Aktuel værdi
+Gammel Havdrupvej 14621 Gadstrup,trup,965.000,12-11-2000,Alm. Salg,6.146,5,Villa,157,2002,,Aktuel værdi
+Ramsøvejen 54621 Gadstrup,trup,1.000.000,18-10-2000,Alm. Salg,-,6,Villa,225,1900,,Aktuel værdi
+Brordrup Bygade 64621 Gadstrup,trup,1.058.000,15-09-2000,Alm. Salg,7.100,5,Villa,149,1777,,Aktuel værdi
+Enggårdsvej 14621 Gadstrup,trup,1.310.000,23-08-2000,Alm. Salg,-,6,Stuehus,156,1942,,
+Engdraget 94621 Gadstrup,trup,1.778.449,01-08-2000,Alm. Salg,10.844,5,Villa,164,1987,,Aktuel værdi
+Fruervej 104621 Gadstrup,trup,2.100.000,30-06-2000,Alm. Salg,13.375,5,Villa,157,1995,,Aktuel værdi
+Bøgevej 24621 Gadstrup,trup,1.243.000,17-06-2000,Alm. Salg,9.944,4,Villa,125,1963,,Aktuel værdi
+Sverregårdsvej 84621 Gadstrup,trup,315.000,16-05-2000,Alm. Salg,7.875,2,Sommerhus,40,1962,,Aktuel værdi
+Køgevej 2184621 Gadstrup,trup,1.159.987,12-05-2000,Alm. Salg,-,4,Villa,139,1903,,Aktuel værdi
+Ramsømaglevej 64621 Gadstrup,trup,1.450.000,01-05-2000,Alm. Salg,-,4,Villa,227,1885,,Aktuel værdi
+Smedegade 204621 Gadstrup,trup,962.000,13-04-2000,Fam. Salg,6.206,7,Stuehus,155,1877,,
+Pilevænge 94621 Gadstrup,trup,1.356.000,03-04-2000,Alm. Salg,12.555,4,Villa,108,1973,,Aktuel værdi
+Vangeledet 94621 Gadstrup,trup,467.500,31-03-2000,Fam. Salg,2.397,5,Villa,195,1966,,Aktuel værdi
+Mosevænget 124621 Gadstrup,trup,1.510.000,22-03-2000,Alm. Salg,9.263,4,Villa,163,1981,,Aktuel værdi
+Mosevænget 94621 Gadstrup,trup,1.325.000,15-03-2000,Alm. Salg,10.037,5,Villa,132,1980,,Aktuel værdi
+Brordrupvej 384621 Gadstrup,trup,1.859.000,28-02-2000,Alm. Salg,12.393,5,Stuehus,150,1900,,
+Tornegårdsvej 64621 Gadstrup,trup,1.698.800,16-02-2000,Alm. Salg,10.684,5,Villa,159,1981,,Aktuel værdi
+Gartnervangen 14621 Gadstrup,trup,1.116.574,10-02-2000,Alm. Salg,12.006,3,Rækkehus,93,1988,,Aktuel værdi
+Snoldelev Bygade 464621 Gadstrup,trup,1.210.200,07-02-2000,Alm. Salg,11.102,5,Villa,109,1929,,Aktuel værdi
+Nøddehøjvej 14621 Gadstrup,trup,1.110.332,03-02-2000,Alm. Salg,10.574,4,Villa,105,1947,,Aktuel værdi
+Køgevej 1914621 Gadstrup,trup,1.538.006,19-01-2000,Alm. Salg,-,11,Villa,299,1890,,Aktuel værdi
+Gadstrupparken 794621 Gadstrup,trup,1.271.652,22-12-1999,Alm. Salg,10.338,5,Villa,123,1969,,Aktuel værdi
+Nyvej 274621 Gadstrup,trup,1.400.000,14-12-1999,Alm. Salg,-,4,Villa,150,1970,,Aktuel værdi
+Pilevænge 14621 Gadstrup,trup,1.624.865,16-11-1999,Alm. Salg,11.442,5,Villa,142,1962,,Aktuel værdi
+Kirkebakken 444621 Gadstrup,trup,1.542.373,28-10-1999,Alm. Salg,9.700,5,Villa,159,1977,,Aktuel værdi
+Hastrup Bygade 22B4621 Gadstrup,trup,437.000,19-10-1999,Fam. Salg,4.284,4,Villa,102,1961,,Aktuel værdi
+Hastrup Bygade 22A4621 Gadstrup,trup,1.749.848,19-10-1999,Fam. Salg,12.067,4,Stuehus,145,1778,,
+Hovedgaden 12B4621 Gadstrup,trup,1.819.303,13-10-1999,Alm. Salg,-,5,Villa,212,1965,,Aktuel værdi
+Engdraget 34621 Gadstrup,trup,1.099.600,09-10-1999,Alm. Salg,10.276,4,Villa,107,1982,,Aktuel værdi
+Slotsbakken 64621 Gadstrup,trup,1.496.307,22-08-1999,Alm. Salg,-,8,Villa,189,1895,,Aktuel værdi
+Gadstrupparken 14621 Gadstrup,trup,1.150.000,08-08-1999,Alm. Salg,8.646,5,Villa,133,1970,,Aktuel værdi
+Bødkers Vænge 174621 Gadstrup,trup,1.431.940,03-08-1999,Alm. Salg,12.785,3,Villa,112,1965,,Aktuel værdi
+Nyvej 114621 Gadstrup,trup,1.144.400,12-07-1999,Alm. Salg,11.219,5,Villa,102,1963,,Aktuel værdi
+Brøndvejen 44621 Gadstrup,trup,1.556.005,23-06-1999,Alm. Salg,10.442,5,Villa,149,1967,,Aktuel værdi
+Snoldelev Bygade 52A4621 Gadstrup,trup,1.638.000,22-06-1999,Alm. Salg,17.062,3,Stuehus,96,1909,,
+Snoldelev Bygade 344621 Gadstrup,trup,603.500,04-06-1999,Alm. Salg,5.693,4,Villa,106,1850,,Aktuel værdi
+Lærkevej 244621 Gadstrup,trup,1.756.326,03-06-1999,Alm. Salg,8.915,6,Villa,197,1971,,Aktuel værdi
+Tornegårdsvej 84621 Gadstrup,trup,1.613.125,25-05-1999,Alm. Salg,10.973,5,Villa,147,1975,,Aktuel værdi
+Ramsømaglevej 284621 Gadstrup,trup,45.000,18-05-1999,Fam. Salg,244,4,Stuehus,184,1983,,
+Brordrup Bygade 54621 Gadstrup,trup,1.475.312,11-05-1999,Alm. Salg,8.834,4,Villa,167,1975,,Aktuel værdi
+Engdraget 44621 Gadstrup,trup,1.607.000,28-04-1999,Alm. Salg,12.753,4,Villa,126,1987,,Aktuel værdi
+Østervej 114621 Gadstrup,trup,774.254,31-03-1999,Alm. Salg,8.699,3,Villa,89,1961,,Aktuel værdi
+Hovedgaden 204621 Gadstrup,trup,1.410.000,20-03-1999,Alm. Salg,14.387,5,Villa,98,1927,,Aktuel værdi
+Gadstrupparken 654621 Gadstrup,trup,1.156.285,16-03-1999,Alm. Salg,9.400,4,Villa,123,1970,,Aktuel værdi
+Søvænget 104621 Gadstrup,trup,1.536.000,12-02-1999,Alm. Salg,7.420,7,Villa,207,1969,,Aktuel værdi
+Vangeledet 3B4621 Gadstrup,trup,1.131.700,03-01-1999,Alm. Salg,-,3,Villa,122,1930,,Aktuel værdi
+Tunevej 174621 Gadstrup,trup,225.948,14-12-1998,Fam. Salg,1.661,5,Stuehus,136,1920,,
+Brordrupvej 254621 Gadstrup,trup,1.181.420,10-12-1998,Alm. Salg,10.740,3,Villa,110,1961,,Aktuel værdi
+Møllevejen 34621 Gadstrup,trup,1.183.000,02-11-1998,Alm. Salg,-,5,Villa,177,1936,,Aktuel værdi
+Ramsøvejen 324621 Gadstrup,trup,2.050.682,22-10-1998,Alm. Salg,14.968,5,Villa,137,1964,,Aktuel værdi
+Biensvej 184621 Gadstrup,trup,1.081.533,18-10-1998,Alm. Salg,8.319,5,Villa,130,1967,,Aktuel værdi
+Søvænget 124621 Gadstrup,trup,995.763,03-10-1998,Alm. Salg,-,6,Villa,142,1969,,Aktuel værdi
+Tyrsegårdsvej 14621 Gadstrup,trup,2.387.902,02-10-1998,Alm. Salg,11.705,7,Villa,204,1911,,Aktuel værdi
+Kirkebakken 44621 Gadstrup,trup,1.182.000,10-09-1998,Alm. Salg,6.994,5,Villa,169,1971,,Aktuel værdi
+Hjørnegårdsvænget 14621 Gadstrup,trup,1.596.000,05-09-1998,Alm. Salg,10.296,4,Villa,155,1981,,Aktuel værdi
+Hovedgaden 27B4621 Gadstrup,trup,200.000,01-09-1998,Alm. Salg,1.481,4,Villa,135,2001,,Aktuel værdi
+Kildevænget 54621 Gadstrup,trup,575.672,06-08-1998,Andet,4.680,4,Villa,123,1984,,Aktuel værdi
+Pilehaven 1A4621 Gadstrup,trup,1.240.018,19-07-1998,Alm. Salg,-,6,Villa,169,1953,,Aktuel værdi
+Agervænget 34621 Gadstrup,trup,1.976.460,16-07-1998,Alm. Salg,11.626,5,Villa,170,1980,,Aktuel værdi
+Sverregårdsvej 134621 Gadstrup,trup,230.000,09-07-1998,Alm. Salg,8.518,2,Sommerhus,27,1965,,Aktuel værdi
+Svanevej 14621 Gadstrup,trup,1.371.991,30-06-1998,Alm. Salg,7.839,4,Villa,175,1972,,Aktuel værdi
+Grønnegade 64621 Gadstrup,trup,1.667.000,28-06-1998,Alm. Salg,8.914,5,Villa,187,1999,,Aktuel værdi
+Fruervej 374621 Gadstrup,trup,1.600.500,15-06-1998,Alm. Salg,9.414,7,Villa,170,1976,,Aktuel værdi
+Tunevej 64621 Gadstrup,trup,1.319.180,26-05-1998,Alm. Salg,16.087,4,Villa,82,1961,,Aktuel værdi
+Snoldelev Bygade 24B4621 Gadstrup,trup,1.494.952,14-05-1998,Alm. Salg,6.921,9,Villa,216,1850,,Aktuel værdi
+Østervej 74621 Gadstrup,trup,714.740,10-05-1998,Alm. Salg,8.716,3,Villa,82,1958,,Aktuel værdi
+Fruervej 204621 Gadstrup,trup,1.399.904,21-04-1998,Alm. Salg,9.458,4,Villa,148,1975,,Aktuel værdi
+Bøgevej 54621 Gadstrup,trup,884.827,27-03-1998,Alm. Salg,5.938,4,Villa,149,1965,,Aktuel værdi
+Gammel Skolevej 94621 Gadstrup,trup,647.000,15-03-1998,Alm. Salg,10.269,2,Rækkehus,63,1974,,Aktuel værdi
+Køgevej 1714621 Gadstrup,trup,1.133.180,28-02-1998,Alm. Salg,6.867,4,Villa,165,1902,,Aktuel værdi
+Snoldelev Bygade 484621 Gadstrup,trup,991.500,07-01-1998,Alm. Salg,7.807,3,Villa,127,1925,,Aktuel værdi
+Pilevænge 34621 Gadstrup,trup,1.236.000,08-12-1997,Alm. Salg,7.270,5,Villa,170,1966,,Aktuel værdi
+Ramsøvejen 74621 Gadstrup,trup,1.206.713,30-11-1997,Alm. Salg,9.731,5,Villa,124,1850,,Aktuel værdi
+Ramsølillevejen 194621 Gadstrup,trup,1.700.000,12-11-1997,Fam. Salg,10.897,5,Stuehus,156,1974,,
+Hastrup Bygade 4B4621 Gadstrup,trup,290.000,07-09-1997,Alm. Salg,1.715,5,Villa,169,2000,,Aktuel værdi
+Brordrupvej 44A4621 Gadstrup,trup,2.248.750,28-08-1997,Alm. Salg,14.232,3,Villa,158,1975,,Aktuel værdi
+Grønnegade 134621 Gadstrup,trup,1.294.220,14-08-1997,Alm. Salg,9.955,4,Villa,130,1912,,Aktuel værdi
+Hovedgaden 24621 Gadstrup,trup,2.881.039,28-07-1997,Alm. Salg,22.161,4,Villa,130,1912,,Aktuel værdi
+Biensvej 214621 Gadstrup,trup,1.337.068,27-07-1997,Alm. Salg,8.356,5,Villa,160,1972,,Aktuel værdi
+Kirkebakken 524621 Gadstrup,trup,1.284.540,08-07-1997,Alm. Salg,6.235,7,Villa,206,1972,,Aktuel værdi
+Lærkevej 74621 Gadstrup,trup,945.233,18-06-1997,Alm. Salg,8.917,4,Villa,106,1963,,Aktuel værdi
+Syvvejen 274621 Gadstrup,trup,931.480,14-06-1997,Alm. Salg,4.902,5,Villa,190,2003,,Aktuel værdi
+Dyssegårdsvej 1034621 Gadstrup,trup,1.252.215,11-06-1997,Alm. Salg,10.888,4,Villa,115,1986,,Aktuel værdi
+Brordrup Bygade 74621 Gadstrup,trup,330.000,27-05-1997,Alm. Salg,2.275,7,Villa,145,1999,,Aktuel værdi
+Nyvej 214621 Gadstrup,trup,1.240.772,12-05-1997,Alm. Salg,-,5,Villa,183,1967,,Aktuel værdi
+Agervænget 74621 Gadstrup,trup,238.000,10-05-1997,Alm. Salg,-,7,Villa,156,1998,,Aktuel værdi
+Gadstrupparken 134621 Gadstrup,trup,1.118.000,01-05-1997,Alm. Salg,7.873,5,Villa,142,1969,,Aktuel værdi
+Ramsøvejen 254621 Gadstrup,trup,718.160,23-04-1997,Alm. Salg,-,5,Villa,164,1903,,Aktuel værdi
+Dyssegårdsvej 54621 Gadstrup,trup,1.110.544,31-03-1997,Alm. Salg,8.542,4,Villa,130,1980,,Aktuel værdi
+Gadstrup Mosevej 54621 Gadstrup,trup,650.000,30-03-1997,Alm. Salg,6.132,4,Villa,106,1964,,Aktuel værdi
+Snoldelev Bygade 304621 Gadstrup,trup,981.211,24-03-1997,Alm. Salg,-,4,Villa,120,1945,,Aktuel værdi
+Østervej 44621 Gadstrup,trup,643.491,11-03-1997,Alm. Salg,-,4,Villa,120,1959,,Aktuel værdi
+Hovedgaden 27A4621 Gadstrup,trup,1.171.000,09-03-1997,Alm. Salg,5.944,6,Villa,197,1915,,Aktuel værdi
+Dyssegårdsvej 34621 Gadstrup,trup,870.000,11-02-1997,Fam. Salg,4.860,5,Villa,179,1971,,Aktuel værdi
+Agervænget 54621 Gadstrup,trup,229.825,03-02-1997,Alm. Salg,1.618,5,Villa,142,1997,,Aktuel værdi
+Ramsølillevejen 214621 Gadstrup,trup,165.000,01-02-1997,Alm. Salg,1.037,6,Villa,159,1914,,Aktuel værdi
+Hovedgaden 164621 Gadstrup,trup,1.192.000,23-01-1997,Alm. Salg,7.137,6,Villa,167,1913,,Aktuel værdi
+Allershøjvejen 14621 Gadstrup,trup,750.000,19-01-1997,Fam. Salg,5.769,4,Villa,130,1966,,Aktuel værdi
+Bøgevej 84621 Gadstrup,trup,852.037,13-12-1996,Alm. Salg,5.718,5,Villa,149,1964,,Aktuel værdi
+Grønnegade 44621 Gadstrup,trup,568.000,11-12-1996,Alm. Salg,6.311,3,Villa,90,1955,,Aktuel værdi
+Gadstrupparken 114621 Gadstrup,trup,1.216.000,21-11-1996,Alm. Salg,8.216,5,Villa,148,1970,,Aktuel værdi
+Nordmarksvej 44621 Gadstrup,trup,1.267.188,09-11-1996,Alm. Salg,7.919,5,Villa,160,1950,,Aktuel værdi
+Hovedgaden 254621 Gadstrup,trup,420.000,04-11-1996,Andet,2.333,5,Villa,180,1904,,Aktuel værdi
+Brordrupvej 374621 Gadstrup,trup,1.355.000,03-11-1996,Alm. Salg,6.741,5,Villa,201,1960,,Aktuel værdi
+Allershøjvejen 64621 Gadstrup,trup,800.000,24-10-1996,Alm. Salg,13.333,4,Villa,60,1900,,Aktuel værdi
+Tornegårdsvej 5C4621 Gadstrup,trup,572.000,21-10-1996,Alm. Salg,-,4,Villa,120,1958,,Aktuel værdi
+Fruervej 124621 Gadstrup,trup,1.074.019,15-10-1996,Alm. Salg,7.782,5,Villa,138,1975,,Aktuel værdi
+Snoldelev Bygade 324621 Gadstrup,trup,1.013.220,10-10-1996,Alm. Salg,6.846,4,Villa,148,1947,,Aktuel værdi
+Snoldelev Bygade 94621 Gadstrup,trup,1.649.000,25-09-1996,Alm. Salg,5.353,10,Villa,308,1870,,Aktuel værdi
+Sverregårdsvej 184621 Gadstrup,trup,1.346.250,24-09-1996,Alm. Salg,8.685,4,Villa,155,1967,,Aktuel værdi
+Snoldelev Bygade 234621 Gadstrup,trup,864.000,14-09-1996,Alm. Salg,4.645,7,Villa,186,1895,,Aktuel værdi
+Absalonsvænget 1A4621 Gadstrup,trup,883.150,14-09-1996,Alm. Salg,5.075,4,Villa,174,1968,,Aktuel værdi
+Kirkebakken 244621 Gadstrup,trup,852.320,19-08-1996,Fam. Salg,5.073,6,Villa,168,1972,,Aktuel værdi
+Kirkebakken 104621 Gadstrup,trup,1.152.383,17-08-1996,Alm. Salg,5.567,5,Villa,207,1972,,Aktuel værdi
+Agervænget 114621 Gadstrup,trup,198.000,12-08-1996,Alm. Salg,1.394,5,Villa,142,1997,,Aktuel værdi
+Ramsømaglevej 44621 Gadstrup,trup,757.280,05-08-1996,Alm. Salg,6.058,4,Villa,125,1875,,Aktuel værdi
+Allershøjvejen 94621 Gadstrup,trup,3.050.000,31-07-1996,Fam. Salg,17.428,5,Stuehus,175,1800,,
+Brordrupvej 204621 Gadstrup,trup,914.700,31-07-1996,Alm. Salg,-,6,Villa,138,1974,,Aktuel værdi
+Agervænget 94621 Gadstrup,trup,198.000,25-07-1996,Alm. Salg,1.207,6,Villa,164,1996,,Aktuel værdi
+Snoldelev Bygade 454621 Gadstrup,trup,198.000,25-07-1996,Alm. Salg,1.445,5,Villa,137,1997,,Aktuel værdi
+Agervænget 134621 Gadstrup,trup,198.000,18-07-1996,Alm. Salg,-,6,Villa,191,1997,,Aktuel værdi
+Tornegårdsvej 174621 Gadstrup,trup,966.149,18-07-1996,Alm. Salg,8.051,4,Villa,120,1973,,Aktuel værdi
+Kildetoften 84621 Gadstrup,trup,813.000,27-06-1996,Alm. Salg,5.081,6,Stuehus,160,1777,,
+Egevej 34621 Gadstrup,trup,840.400,14-06-1996,Alm. Salg,6.723,4,Villa,125,1963,,Aktuel værdi
+Vangeledet 84621 Gadstrup,trup,570.532,27-05-1996,Alm. Salg,2.581,6,Villa,221,1917,,Aktuel værdi
+Hovedgaden 3B4621 Gadstrup,trup,1.230.000,26-05-1996,Alm. Salg,5.168,6,Villa,238,1916,,Aktuel værdi
+Sikærsvej 154621 Gadstrup,trup,260.000,14-05-1996,Alm. Salg,1.452,5,Villa,179,1997,,Aktuel værdi
+Vangeledet 44621 Gadstrup,trup,883.750,11-05-1996,Alm. Salg,5.931,4,Villa,149,1900,,Aktuel værdi
+Sverregårdsvej 74621 Gadstrup,trup,212.500,23-04-1996,Fam. Salg,3.935,3,Sommerhus,54,2004,,Aktuel værdi
+Grønnegade 34621 Gadstrup,trup,908.000,17-04-1996,Alm. Salg,10.088,3,Villa,90,1950,,Aktuel værdi
+Nyvej 124621 Gadstrup,trup,854.920,10-04-1996,Alm. Salg,5.815,6,Villa,147,1961,,Aktuel værdi
+Fruervej 224621 Gadstrup,trup,942.000,27-03-1996,Fam. Salg,8.410,4,Villa,112,1981,,Aktuel værdi
+Sverregårdsvej 124621 Gadstrup,trup,375.000,03-03-1996,Alm. Salg,4.261,4,Sommerhus,88,1969,,Aktuel værdi
+Ramsøvejen 33A4621 Gadstrup,trup,2.360.000,22-01-1996,Fam. Salg,14.047,4,Stuehus,168,1925,,
+Køgevej 2124621 Gadstrup,trup,945.000,11-01-1996,Alm. Salg,3.764,6,Villa,251,1878,,Aktuel værdi
+Sikærsvej 174621 Gadstrup,trup,258.900,08-01-1996,Alm. Salg,1.514,5,Villa,171,1996,,Aktuel værdi
+Damvej 74621 Gadstrup,trup,240.400,20-12-1995,Fam. Salg,1.561,4,Villa,154,2007,,Aktuel værdi
+Engdraget 134621 Gadstrup,trup,889.410,04-12-1995,Alm. Salg,6.539,5,Villa,136,1987,,Aktuel værdi
+Ramsømaglevej 294621 Gadstrup,trup,593.647,22-11-1995,Fam. Salg,6.823,2,Villa,87,1985,,Aktuel værdi
+Dyssegårdsvej 594621 Gadstrup,trup,750.000,02-11-1995,Alm. Salg,3.588,6,Villa,209,1969,,Aktuel værdi
+Snoldelev Bygade 564621 Gadstrup,trup,1.188.650,26-10-1995,Alm. Salg,6.256,5,Villa,190,2006,,Aktuel værdi
+Sverregårdsvej 64621 Gadstrup,trup,1.223.248,23-10-1995,Alm. Salg,6.438,5,Villa,190,1937,,Aktuel værdi
+Dyssegårdsvej 954621 Gadstrup,trup,967.200,14-10-1995,Alm. Salg,7.008,5,Villa,138,1971,,Aktuel værdi
+Dyssegårdsvej 314621 Gadstrup,trup,957.000,08-10-1995,Alm. Salg,5.346,5,Villa,179,1971,,Aktuel værdi
+Dyssegårdsvej 774621 Gadstrup,trup,679.118,25-09-1995,Andet,6.406,4,Villa,106,1969,,Aktuel værdi
+Kirkebakken 154621 Gadstrup,trup,875.260,12-09-1995,Alm. Salg,6.435,4,Villa,136,1972,,Aktuel værdi
+Slotsbakken 44621 Gadstrup,trup,555.000,12-09-1995,Alm. Salg,-,5,Villa,205,1930,,Aktuel værdi
+Bødkers Vænge 214621 Gadstrup,trup,635.000,04-09-1995,Alm. Salg,6.684,4,Villa,95,1965,,Aktuel værdi
+Ramsømaglevej 584621 Gadstrup,trup,562.980,21-08-1995,Alm. Salg,3.803,4,Villa,148,1962,,Aktuel værdi
+Gadstrupparken 164621 Gadstrup,trup,1.100.680,17-08-1995,Alm. Salg,-,6,Villa,192,1974,,Aktuel værdi
+Snoldelev Bygade 594621 Gadstrup,trup,1.307.120,14-08-1995,Alm. Salg,9.682,3,Stuehus,135,1916,,
+Kirkebakken 194621 Gadstrup,trup,912.000,31-07-1995,Alm. Salg,-,6,Villa,176,1972,,Aktuel værdi
+Gartnervangen 44621 Gadstrup,trup,715.000,28-07-1995,Alm. Salg,7.688,3,Rækkehus,93,1988,,Aktuel værdi
+Grønnegade 104621 Gadstrup,trup,1.093.147,26-07-1995,Alm. Salg,6.625,3,Villa,165,1844,,Aktuel værdi
+Køgevej 2084621 Gadstrup,trup,656.771,03-07-1995,Alm. Salg,5.711,3,Villa,115,1897,,Aktuel værdi
+Hovedgaden 54621 Gadstrup,trup,722.500,20-06-1995,Fam. Salg,4.432,3,Villa,163,1902,,Aktuel værdi
+Snoldelev Bygade 424621 Gadstrup,trup,619.000,08-06-1995,Alm. Salg,4.761,4,Villa,130,1922,,Aktuel værdi
+Damvej 4B4621 Gadstrup,trup,120.000,31-05-1995,Alm. Salg,794,5,Villa,151,1995,,Aktuel værdi
+Mosevænget 104621 Gadstrup,trup,765.620,16-05-1995,Alm. Salg,5.889,4,Villa,130,1983,,Aktuel værdi
+Nyvej 134621 Gadstrup,trup,661.500,14-05-1995,Alm. Salg,-,6,Villa,171,1962,,Aktuel værdi
+Damvej 334621 Gadstrup,trup,970.000,10-05-1995,Alm. Salg,7.519,4,Villa,129,1971,,Aktuel værdi
+Brordrup Bygade 44621 Gadstrup,trup,2.000.000,07-05-1995,Alm. Salg,8.849,7,Stuehus,226,1941,,
+Markskelsvej 14621 Gadstrup,trup,1.299.000,23-04-1995,Alm. Salg,6.695,5,Villa,194,1980,,Aktuel værdi
+Dyssegårdsvej 714621 Gadstrup,trup,785.000,17-04-1995,Alm. Salg,-,6,Villa,176,1970,,Aktuel værdi
+Absalonsvænget 64621 Gadstrup,trup,755.450,02-04-1995,Alm. Salg,-,4,Villa,135,1965,,Aktuel værdi
+Havdrupvej 34621 Gadstrup,trup,586.630,17-03-1995,Alm. Salg,4.583,4,Villa,128,1864,,Aktuel værdi
+Fruervej 194621 Gadstrup,trup,1.077.699,15-03-1995,Alm. Salg,7.331,4,Villa,147,1976,,Aktuel værdi
+Ramsølillevejen 294621 Gadstrup,trup,945.000,03-02-1995,Fam. Salg,4.276,5,Villa,221,1978,,Aktuel værdi
+Smedegade 104621 Gadstrup,trup,858.006,18-01-1995,Alm. Salg,5.797,5,Villa,148,1910,,Aktuel værdi
+Kirkebakken 414621 Gadstrup,trup,142.679,09-01-1995,Andet,815,6,Villa,175,1972,,Aktuel værdi
+Østervej 154621 Gadstrup,trup,654.526,12-12-1994,Fam. Salg,4.040,5,Villa,162,1962,,Aktuel værdi
+Engdraget 84621 Gadstrup,trup,1.330.000,20-10-1994,Alm. Salg,8.312,6,Villa,160,1980,,Aktuel værdi
+Gartnervangen 274621 Gadstrup,trup,649.000,17-10-1994,Alm. Salg,6.978,3,Rækkehus,93,1987,,Aktuel værdi
+Køgevej 2144621 Gadstrup,trup,450.000,11-10-1994,Alm. Salg,3.260,4,Stuehus,138,1996,,
+Dyssegårdsvej 694621 Gadstrup,trup,901.000,20-09-1994,Alm. Salg,6.576,4,Villa,137,1974,,Aktuel værdi
+Bødkers Vænge 204621 Gadstrup,trup,597.995,06-09-1994,Alm. Salg,-,6,Villa,172,1963,,Aktuel værdi
+Hovedgaden 224621 Gadstrup,trup,790.000,31-08-1994,Alm. Salg,8.229,3,Villa,96,1960,,Aktuel værdi
+Sverregårdsvej 14621 Gadstrup,trup,2.737.840,18-08-1994,Alm. Salg,10.570,7,Stuehus,259,1852,,
+Brordrup Bygade 104621 Gadstrup,trup,767.557,11-07-1994,Alm. Salg,-,5,Villa,222,1932,,Aktuel værdi
+Brordrupvej 264621 Gadstrup,trup,1.547.000,01-07-1994,Fam. Salg,8.228,9,Stuehus,188,1914,,
+Lærkevej 224621 Gadstrup,trup,662.648,21-06-1994,Alm. Salg,-,5,Villa,200,1969,,Aktuel værdi
+Fruervej 264621 Gadstrup,trup,770.825,10-06-1994,Alm. Salg,5.795,5,Villa,133,1976,,Aktuel værdi
+Tornegårdsvej 2B4621 Gadstrup,trup,1.075.000,04-06-1994,Alm. Salg,6.475,5,Villa,166,1968,,Aktuel værdi
+Biensvej 14621 Gadstrup,trup,695.000,05-05-1994,Alm. Salg,-,4,Villa,175,1907,,Aktuel værdi
+Gartnervangen 94621 Gadstrup,trup,685.000,13-04-1994,Alm. Salg,7.365,3,Rækkehus,93,1988,,Aktuel værdi
+Dyssegårdsvej 754621 Gadstrup,trup,906.000,05-04-1994,Alm. Salg,6.335,4,Villa,143,1971,,Aktuel værdi
+Snoldelev Bygade 364621 Gadstrup,trup,840.000,03-04-1994,Alm. Salg,-,6,Villa,216,1920,,Aktuel værdi
+Bødkers Vænge 84621 Gadstrup,trup,550.000,21-03-1994,Alm. Salg,5.045,4,Villa,109,1966,,Aktuel værdi
+Damvej 374621 Gadstrup,trup,732.036,15-03-1994,Alm. Salg,5.903,4,Villa,124,1973,,Aktuel værdi
+Kirkebakken 454621 Gadstrup,trup,824.941,03-03-1994,Alm. Salg,5.977,4,Villa,138,1972,,Aktuel værdi
+Fredssti 34621 Gadstrup,trup,688.340,20-12-1993,Alm. Salg,-,5,Villa,151,1945,,Aktuel værdi
+Gadstrupparken 204621 Gadstrup,trup,913.117,29-10-1993,Alm. Salg,5.072,6,Villa,180,1972,,Aktuel værdi
+Engdraget 64621 Gadstrup,trup,536.000,25-10-1993,Fam. Salg,3.912,5,Villa,137,1980,,Aktuel værdi
+Hyldevænget 134621 Gadstrup,trup,911.511,21-10-1993,Alm. Salg,7.533,4,Villa,121,1988,,Aktuel værdi
+Gadstrupparken 154621 Gadstrup,trup,366.241,20-10-1993,Alm. Salg,-,5,Villa,172,1969,,Aktuel værdi
+Tornegårdsvej 554621 Gadstrup,trup,790.000,05-10-1993,Alm. Salg,6.076,4,Villa,130,1973,,Aktuel værdi
+Gadstrup Mosevej 74621 Gadstrup,trup,713.000,29-09-1993,Alm. Salg,5.242,4,Villa,136,1962,,Aktuel værdi
+Absalonsvænget 34621 Gadstrup,trup,693.000,16-09-1993,Alm. Salg,6.187,4,Villa,112,1967,,Aktuel værdi
+Bakkevej 24621 Gadstrup,trup,545.000,21-06-1993,Alm. Salg,3.633,5,Villa,150,1912,,Aktuel værdi
+Ramsøvejen 174621 Gadstrup,trup,795.934,20-06-1993,Alm. Salg,4.974,4,Villa,160,1780,,Aktuel værdi
+Gadstrupparken 274621 Gadstrup,trup,630.682,14-06-1993,Alm. Salg,5.127,4,Villa,123,1970,,Aktuel værdi
+Gadstrupparken 184621 Gadstrup,trup,933.360,05-06-1993,Alm. Salg,4.886,6,Villa,191,1969,,Aktuel værdi
+Lærkevej 164621 Gadstrup,trup,600.000,29-03-1993,Alm. Salg,-,6,Villa,169,1966,,Aktuel værdi
+Søndervænget 44621 Gadstrup,trup,669.600,29-03-1993,Alm. Salg,5.072,4,Villa,132,1980,,Aktuel værdi
+Fruervej 34621 Gadstrup,trup,920.000,19-03-1993,Alm. Salg,5.197,5,Villa,177,1969,,Aktuel værdi
+Svanevej 124621 Gadstrup,trup,862.500,15-03-1993,Alm. Salg,4.637,5,Villa,186,1974,,Aktuel værdi
+Kildeager 3A4621 Gadstrup,trup,690.000,12-02-1993,Alm. Salg,-,4,Anden beboelse,179,1962,,Aktuel værdi
+Snoldelev Bygade 154621 Gadstrup,trup,381.250,19-01-1993,Alm. Salg,-,5,Villa,158,1890,,Aktuel værdi
+Rødkløvervænget 84621 Gadstrup,trup,775.000,31-12-1992,Fam. Salg,5.698,5,Villa,136,1979,,Aktuel værdi
+Gadstrup Mosevej 234621 Gadstrup,trup,565.000,09-10-1992,Alm. Salg,5.432,4,Villa,104,1966,,Aktuel værdi
+Snoldelev Bygade 184621 Gadstrup,trup,625.000,06-10-1992,Alm. Salg,3.238,6,Villa,193,1910,,Aktuel værdi
+Kildeager 14621 Gadstrup,trup,725.000,05-10-1992,Alm. Salg,3.680,7,Villa,197,1961,,Aktuel værdi
+Engdraget 74621 Gadstrup,trup,1.020.000,14-09-1992,Fam. Salg,7.968,4,Villa,128,1982,,Aktuel værdi
+Gammel Skolevej 12A4621 Gadstrup,trup,110.110,07-09-1992,Alm. Salg,573,5,Villa,192,1993,,Aktuel værdi
+Vestervej 2B4621 Gadstrup,trup,210.000,26-08-1992,Alm. Salg,3.181,3,Villa,66,1927,,Aktuel værdi
+Kirkebakken 224621 Gadstrup,trup,655.000,06-08-1992,Fam. Salg,4.253,5,Villa,154,1973,,Aktuel værdi
+Kirkebakken 644621 Gadstrup,trup,800.000,05-08-1992,Fam. Salg,6.400,4,Villa,125,1972,,Aktuel værdi
+Nygårdsvænget 84621 Gadstrup,trup,745.000,24-07-1992,Alm. Salg,5.601,4,Villa,133,1979,,Aktuel værdi
+Hastrupvej 104621 Gadstrup,trup,730.200,21-06-1992,Alm. Salg,4.621,4,Villa,158,1927,,Aktuel værdi
+Biensvej 15B4621 Gadstrup,trup,720.000,08-06-1992,Andet,-,5,Villa,136,1932,,Aktuel værdi
+Snoldelev Bygade 384621 Gadstrup,trup,975.000,26-05-1992,Alm. Salg,4.642,7,Villa,210,1926,,Aktuel værdi
+"Smedegade 3, 14621 Gadstrup",trup,441.000,26-05-1992,Auktion,4.083,2,Anden beboelse,108,1953,,Aktuel værdi
+Dyssegårdsvej 434621 Gadstrup,trup,715.752,27-04-1992,Alm. Salg,5.505,4,Villa,130,1972,,Aktuel værdi
+Gammel Skolevej 12B4621 Gadstrup,trup,820.000,20-04-1992,Alm. Salg,-,4,Villa,146,1992,,Aktuel værdi
+Sivænget 14621 Gadstrup,trup,399.500,15-04-1992,Alm. Salg,-,6,Villa,174,1980,,Aktuel værdi
+Salløv Gade 74621 Gadstrup,trup,500.000,22-03-1992,Alm. Salg,5.102,3,Villa,98,1962,,Aktuel værdi
+Sivænget 34621 Gadstrup,trup,925.000,19-03-1992,Alm. Salg,5.709,5,Villa,162,1980,,Aktuel værdi
+Fruervej 274621 Gadstrup,trup,859.000,16-03-1992,Alm. Salg,5.082,5,Villa,169,1976,,Aktuel værdi
+Østervej 94621 Gadstrup,trup,845.000,09-03-1992,Fam. Salg,4.694,4,Villa,180,1950,,Aktuel værdi
+Enggårdsvej 24621 Gadstrup,trup,475.000,02-03-1992,Auktion,3.166,5,Villa,150,1924,,Aktuel værdi
+Kirkebakken 704621 Gadstrup,trup,745.000,10-02-1992,Alm. Salg,3.900,8,Villa,191,1972,,Aktuel værdi
+Lærkevej 184621 Gadstrup,trup,890.000,03-02-1992,Alm. Salg,5.741,4,Villa,155,1972,,Aktuel værdi
+Ramsøvejen 34A4621 Gadstrup,trup,740.000,19-01-1992,Fam. Salg,6.016,5,Villa,123,1964,,Aktuel værdi
+Dyssegårdsvej 144621 Gadstrup,trup,755.000,09-01-1992,Fam. Salg,6.088,4,Villa,124,1969,,Aktuel værdi

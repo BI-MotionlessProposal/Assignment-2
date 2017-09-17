@@ -1,0 +1,604 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Sneppevej 166980 Tim, Tim,658.829,11-05-2017,Fam. Salg,4.169,6,Villa,158,1971,,Aktuel værdi
+Hovedgaden 156980 Tim, Tim,874.000,15-04-2017,Alm. Salg,6.154,6,Lejlighed,142,1909,-2 %,Aktuel værdi
+Fasanvej 156980 Tim, Tim,125.000,12-04-2017,Alm. Salg,1.315,3,Rækkehus,95,1989,,Aktuel værdi
+Mejlbyvej 16980 Tim, Tim,675.000,05-04-2017,Alm. Salg,3.770,5,Villa,179,1850,,Aktuel værdi
+Tim Kirkevej 356980 Tim, Tim,698.000,04-04-2017,Alm. Salg,1.758,9,Villa,397,1830,0 %,Aktuel værdi
+Tim Kirkevej 66980 Tim, Tim,1.770.000,26-03-2017,Alm. Salg,8.232,6,Villa,215,1850,-1 %,Aktuel værdi
+Hovedgaden 46980 Tim, Tim,400.000,21-03-2017,Alm. Salg,3.149,3,Villa,127,1970,-30 %,Aktuel værdi
+Østerbyvej 186980 Tim, Tim,170.210,14-03-2017,Alm. Salg,956,4,Stuehus,178,1952,,
+Nørre Espvej 76980 Tim, Tim,54.830,14-03-2017,Andet,174,9,Stuehus,314,1999,,
+Nørre Espvej 106980 Tim, Tim,54.830,14-03-2017,Andet,285,4,Stuehus,192,1958,,
+Skannerupvej 86980 Tim, Tim,230.000,10-03-2017,Alm. Salg,2.613,4,Villa,88,1950,,Aktuel værdi
+Hjejlevej 76980 Tim, Tim,1.225.000,24-01-2017,Alm. Salg,7.608,5,Villa,161,1973,-5 %,Aktuel værdi
+Sneppevej 126980 Tim, Tim,335.000,19-01-2017,Alm. Salg,2.310,5,Villa,145,1972,,Aktuel værdi
+Trøstrupvej 356980 Tim, Tim,325.000,17-01-2017,Alm. Salg,4.513,2,Villa,72,2006,-7 %,Aktuel værdi
+Åvænget 56980 Tim, Tim,8.100.000,21-12-2016,Alm. Salg,35.682,5,Villa,227,1906,,Aktuel værdi
+Trøstrupvej 206980 Tim, Tim,272.500,05-12-2016,Fam. Salg,2.309,4,Villa,118,1970,-45 %,Aktuel værdi
+Fabriksvej 86980 Tim, Tim,285.000,05-12-2016,Alm. Salg,2.050,6,Villa,139,1964,,Aktuel værdi
+Torstedvej 306980 Tim, Tim,1.075.000,28-11-2016,Alm. Salg,8.600,5,Villa,125,2014,,Aktuel værdi
+Torstedvej 246980 Tim, Tim,80.000,21-11-2016,Alm. Salg,404,6,Villa,198,1966,,Aktuel værdi
+Tim Kirkevej 136980 Tim, Tim,12.500.000,16-11-2016,Fam. Salg,51.020,11,Stuehus,245,1777,,
+Hovedgaden 506980 Tim, Tim,300.000,31-10-2016,Alm. Salg,4.838,9,Detailhandel,62,1918,,Aktuel værdi
+Fresiavej 246980 Tim, Tim,1.655.000,24-10-2016,Alm. Salg,8.358,7,Villa,198,1998,-5 %,Aktuel værdi
+Søgårdvej 86980 Tim, Tim,525.000,20-10-2016,Fam. Salg,3.201,3,Stuehus,164,1974,,
+Fresiavej 146980 Tim, Tim,921.921,03-10-2016,Fam. Salg,7.259,4,Villa,127,1983,,Aktuel værdi
+Torstedvej 766980 Tim, Tim,800.000,15-09-2016,Fam. Salg,4.419,6,Villa,181,2016,,Aktuel værdi
+Skannerupvej 10C6980 Tim, Tim,500.000,14-09-2016,Alm. Salg,6.329,3,Rækkehus,79,1979,,Aktuel værdi
+Stadiløvej 116980 Tim, Tim,52.000,07-09-2016,Alm. Salg,456,4,Villa,114,1000,,Aktuel værdi
+Elmevej 116980 Tim, Tim,370.000,23-08-2016,Alm. Salg,2.761,5,Villa,134,1910,,Aktuel værdi
+Sneppevej 46980 Tim, Tim,565.000,16-08-2016,Alm. Salg,4.484,2,Villa,126,1971,-10 %,Aktuel værdi
+Spættevej 146980 Tim, Tim,725.000,30-05-2016,Alm. Salg,4.367,6,Villa,166,1977,,Aktuel værdi
+Mølgaardsvej 96980 Tim, Tim,390.000,10-05-2016,Alm. Salg,3.823,3,Villa,102,1960,-1 %,Aktuel værdi
+Torstedvej 866980 Tim, Tim,982.500,04-05-2016,Alm. Salg,5.038,6,Stuehus,195,1952,,
+Skannerupvej 16980 Tim, Tim,1.250.000,01-05-2016,Alm. Salg,8.561,3,Villa,146,1946,,Aktuel værdi
+Spættevej 26980 Tim, Tim,500.000,27-04-2016,Alm. Salg,3.086,4,Villa,162,1976,-28 %,Aktuel værdi
+Alrum 96980 Tim, Tim,680.000,19-04-2016,Alm. Salg,8.192,5,Sommerhus,83,1977,,Aktuel værdi
+Grønnevej 46980 Tim, Tim,725.000,18-04-2016,Alm. Salg,4.865,4,Villa,149,1972,,Aktuel værdi
+Torstedvej 596980 Tim, Tim,500.000,21-03-2016,Alm. Salg,4.761,4,Villa,105,1963,-9 %,Aktuel værdi
+Hjejlevej 86980 Tim, Tim,945.000,16-03-2016,Alm. Salg,6.847,3,Villa,138,1973,-5 %,Aktuel værdi
+Alrum 296980 Tim, Tim,395.000,09-03-2016,Alm. Salg,6.076,4,Sommerhus,65,1979,0 %,Aktuel værdi
+Skannerupvej 176980 Tim, Tim,550.000,23-11-2015,Alm. Salg,5.339,6,Villa,103,1967,-8 %,Aktuel værdi
+Mejlbyvej 266980 Tim, Tim,2.295.000,16-10-2015,Alm. Salg,9.683,8,Stuehus,237,1932,56 %,
+Torstedvej 326980 Tim, Tim,75.000,31-08-2015,Alm. Salg,757,3,Villa,99,1913,,Aktuel værdi
+Bjerregårdvej 56980 Tim, Tim,100.000,21-08-2015,Alm. Salg,884,4,Villa,113,1949,-50 %,Aktuel værdi
+Stadilvej 586980 Tim, Tim,140.000,13-08-2015,Alm. Salg,1.489,4,Villa,94,1000,-7 %,Aktuel værdi
+Møllebyvej 146980 Tim, Tim,4.515.000,30-07-2015,Fam. Salg,22.024,9,Stuehus,205,1843,,
+Alrum 346980 Tim, Tim,275.000,12-07-2015,Alm. Salg,5.092,3,Sommerhus,54,1983,-7 %,Aktuel værdi
+Nybovej 156980 Tim, Tim,450.000,24-06-2015,Alm. Salg,3.688,4,Villa,122,1981,,Aktuel værdi
+Pradsgaardsvej 46980 Tim, Tim,710.000,23-06-2015,Alm. Salg,4.409,4,Villa,161,1970,-14 %,Aktuel værdi
+Torstedvej 586980 Tim, Tim,400.000,12-06-2015,Alm. Salg,3.333,4,Villa,120,1959,-24 %,Aktuel værdi
+Grønbjergvej 36980 Tim, Tim,400.000,05-06-2015,Alm. Salg,2.531,6,Stuehus,158,1938,-16 %,
+Stadiløvej 56980 Tim, Tim,6.725.000,23-05-2015,Alm. Salg,23.030,9,Stuehus,292,1979,,
+Nybovej 146980 Tim, Tim,350.000,08-05-2015,Alm. Salg,2.800,4,Villa,125,1978,-22 %,Aktuel værdi
+Opstrupvej 76980 Tim, Tim,760.000,29-04-2015,Alm. Salg,4.342,6,Stuehus,175,1934,,
+Kogsgårdsvej 96980 Tim, Tim,630.000,28-04-2015,Alm. Salg,4.064,5,Villa,155,1972,,Aktuel værdi
+Skovduevej 86980 Tim, Tim,650.000,12-04-2015,Fam. Salg,6.632,4,Villa,98,1986,,Aktuel værdi
+Lindholmvej 36980 Tim, Tim,1.200.000,09-04-2015,Alm. Salg,6.315,4,Stuehus,190,1929,,
+Hovedgaden 766980 Tim, Tim,610.799,30-03-2015,Alm. Salg,4.458,4,Villa,137,1935,,Aktuel værdi
+Skelmosevej 176980 Tim, Tim,15.400.000,05-03-2015,Alm. Salg,60.629,9,Stuehus,254,1977,,
+Høbrovej 76980 Tim, Tim,500.000,26-02-2015,Alm. Salg,3.333,4,Villa,150,1968,-8 %,Aktuel værdi
+Nybovej 136980 Tim, Tim,575.000,05-02-2015,Alm. Salg,3.859,5,Villa,149,1978,-7 %,Aktuel værdi
+Nørre Espvej 126980 Tim, Tim,450.000,04-01-2015,Alm. Salg,2.054,5,Stuehus,219,1928,,
+Nørre Espvej 156980 Tim, Tim,450.000,04-01-2015,Alm. Salg,2.054,7,Stuehus,219,1931,,
+Trøstrupvej 336980 Tim, Tim,235.000,10-12-2014,Alm. Salg,3.916,3,Villa,60,1990,,Aktuel værdi
+Møllegade 96980 Tim, Tim,140.000,10-11-2014,Alm. Salg,1.473,5,Villa,95,1956,,Aktuel værdi
+Skelmosevej 716980 Tim, Tim,300.000,19-10-2014,Alm. Salg,3.125,4,Villa,96,1964,,Aktuel værdi
+Torstedvej 356980 Tim, Tim,17.425,15-10-2014,Fam. Salg,193,5,Villa,90,1950,,Aktuel værdi
+Stadilvej 296980 Tim, Tim,1.056.000,24-09-2014,Alm. Salg,4.061,9,Stuehus,260,1921,-25 %,
+Skovduevej 66980 Tim, Tim,1.000.000,29-07-2014,Alm. Salg,7.518,5,Villa,133,1987,-4 %,Aktuel værdi
+Fresiavej 76980 Tim, Tim,730.000,24-06-2014,Alm. Salg,5.367,5,Villa,136,1988,-14 %,Aktuel værdi
+Vestervej 156980 Tim, Tim,16.500.000,13-06-2014,Auktion,103.125,6,Stuehus,160,1908,,
+Skelmosevej 156980 Tim, Tim,230.000,12-06-2014,Alm. Salg,1.854,5,Villa,124,1920,-39 %,Aktuel værdi
+Solsortevej 146980 Tim, Tim,505.000,10-06-2014,Alm. Salg,4.764,4,Villa,106,1977,,Aktuel værdi
+Hovedgaden 346980 Tim, Tim,611.388,07-05-2014,Andet,4.776,6,Villa,128,1877,,Aktuel værdi
+Nøderupvej 3A6980 Tim, Tim,935.000,16-04-2014,Alm. Salg,3.462,7,Villa,270,1974,,Aktuel værdi
+Fresiavej 226980 Tim, Tim,835.000,27-03-2014,Alm. Salg,6.574,4,Villa,127,1991,,Aktuel værdi
+Nøderupvej 146980 Tim, Tim,50.000,20-03-2014,Alm. Salg,510,4,Villa,98,1984,,Aktuel værdi
+Fasanvej 66980 Tim, Tim,407.792,18-03-2014,Andet,3.546,4,Villa,115,1966,-49 %,Aktuel værdi
+Tim Åparken 176980 Tim, Tim,210.000,03-03-2014,Alm. Salg,1.082,7,Villa,194,2015,,Aktuel værdi
+Fresiavej 206980 Tim, Tim,910.000,26-02-2014,Alm. Salg,6.691,4,Villa,136,1992,,Aktuel værdi
+Torstedvej 57B6980 Tim, Tim,135.000,10-02-2014,Alm. Salg,1.985,2,Villa,68,1880,-54 %,Aktuel værdi
+Hovedgaden 826980 Tim, Tim,540.000,16-01-2014,Alm. Salg,5.242,4,Villa,103,1964,-6 %,Aktuel værdi
+Holstebrovej 1096980 Tim, Tim,1.850.000,02-01-2014,Alm. Salg,12.585,6,Stuehus,147,1870,,
+Hovedgaden 276980 Tim, Tim,375.000,17-12-2013,Fam. Salg,2.840,5,Villa,132,1914,,Aktuel værdi
+Sneppevej 96980 Tim, Tim,532.116,17-12-2013,Fam. Salg,5.542,3,Villa,96,1972,,Aktuel værdi
+Sørupvej 56980 Tim, Tim,2.505.000,16-12-2013,Alm. Salg,21.228,5,Stuehus,118,1955,0 %,
+Torstedvej 876980 Tim, Tim,160.000,19-11-2013,Alm. Salg,1.523,3,Villa,105,1897,-36 %,Aktuel værdi
+Tim Kirkevej 346980 Tim, Tim,300.000,10-10-2013,Alm. Salg,3.333,4,Villa,90,1965,-8 %,Aktuel værdi
+Bjerregårdvej 32B6980 Tim, Tim,375.000,02-09-2013,Fam. Salg,2.155,6,Stuehus,174,1900,,
+Præstevej 36980 Tim, Tim,1.790.000,28-08-2013,Fam. Salg,25.571,3,Stuehus,70,1898,,
+Lergravvej 96980 Tim, Tim,300.000,13-08-2013,Alm. Salg,3.488,5,Villa,86,1900,-45 %,Aktuel værdi
+Lergravvej 76980 Tim, Tim,395.000,12-08-2013,Alm. Salg,5.266,4,Villa,75,1853,0 %,Aktuel værdi
+Alrum 306980 Tim, Tim,460.000,18-07-2013,Alm. Salg,8.846,3,Sommerhus,52,1995,-7 %,Aktuel værdi
+Stadilvej 176980 Tim, Tim,800.000,02-07-2013,Alm. Salg,5.673,4,Stuehus,141,2015,-20 %,
+Elmevej 96980 Tim, Tim,125.000,19-06-2013,Alm. Salg,2.232,2,Villa,56,1894,-36 %,Aktuel værdi
+Solsortevej 86980 Tim, Tim,545.997,28-05-2013,Fam. Salg,4.333,4,Villa,126,1979,,Aktuel værdi
+Stadilvej 606980 Tim, Tim,215.000,13-05-2013,Alm. Salg,1.592,6,Villa,135,1952,-14 %,Aktuel værdi
+Tim Kirkevej 36980 Tim, Tim,265.000,03-05-2013,Auktion,2.103,5,Villa,126,1952,,Aktuel værdi
+Stadiløvej 76980 Tim, Tim,150.000,03-05-2013,Auktion,1.666,2,Sommerhus,90,1834,-78 %,Aktuel værdi
+Grønnevej 126980 Tim, Tim,600.000,14-04-2013,Fam. Salg,3.370,6,Villa,178,1998,,Aktuel værdi
+Torstedvej 986980 Tim, Tim,1.925.000,25-03-2013,Alm. Salg,9.390,7,Stuehus,205,1989,-4 %,
+Stadilvej 256980 Tim, Tim,1.200.000,15-03-2013,Alm. Salg,-,5,Villa,179,2008,-25 %,Aktuel værdi
+Tranevej 116980 Tim, Tim,582.500,13-03-2013,Alm. Salg,4.550,4,Villa,128,1974,-2 %,Aktuel værdi
+Høbrovej 136980 Tim, Tim,14.750.000,22-02-2013,Alm. Salg,46.238,15,Stuehus,319,1916,,
+Møllegade 126980 Tim, Tim,385.000,22-01-2013,Alm. Salg,4.812,2,Villa,80,1957,-1 %,Aktuel værdi
+Rylevej 96980 Tim, Tim,810.000,14-01-2013,Alm. Salg,5.192,5,Villa,156,1977,-9 %,Aktuel værdi
+Torstedvej 856980 Tim, Tim,2.000.000,31-12-2012,Alm. Salg,16.666,5,Stuehus,120,1936,,
+Høbrovej 86980 Tim, Tim,469.049,29-11-2012,Andet,3.608,5,Villa,130,1971,,Aktuel værdi
+Høbrovej 11A6980 Tim, Tim,695.750,21-11-2012,Alm. Salg,2.863,6,Stuehus,243,1935,,
+Møllegade 206980 Tim, Tim,353.000,26-09-2012,Andet,3.151,5,Villa,112,1975,,Aktuel værdi
+Torstedvej 706980 Tim, Tim,350.000,15-09-2012,Alm. Salg,2.822,5,Stuehus,124,1929,,
+Høbrovej 146980 Tim, Tim,2.167.500,16-08-2012,Fam. Salg,10.783,6,Stuehus,201,1927,,
+Hovedgaden 326980 Tim, Tim,170.000,03-08-2012,Auktion,1.428,4,Villa,119,1950,-74 %,Aktuel værdi
+Rylevej 36980 Tim, Tim,600.000,21-06-2012,Alm. Salg,3.947,5,Villa,152,1965,-7 %,Aktuel værdi
+Skannerupvej 66980 Tim, Tim,350.000,12-06-2012,Alm. Salg,3.500,3,Villa,100,1958,,Aktuel værdi
+Skelmosevej 736980 Tim, Tim,380.000,06-06-2012,Alm. Salg,3.584,4,Villa,106,1963,,Aktuel værdi
+Holstebrovej 1276980 Tim, Tim,1.400.000,30-05-2012,Andet,7.526,5,Stuehus,186,1995,,
+Holstebrovej 1156980 Tim, Tim,1.500.000,25-05-2012,Andet,5.136,8,Stuehus,292,2011,,
+Hovedgaden 746980 Tim, Tim,150.000,09-05-2012,Alm. Salg,2.054,3,Villa,73,1957,-33 %,Aktuel værdi
+Torstedvej 976980 Tim, Tim,1.075.000,12-04-2012,Alm. Salg,6.718,5,Villa,160,1936,,Aktuel værdi
+Brinkvej 46980 Tim, Tim,1.637.500,15-03-2012,Alm. Salg,8.618,9,Stuehus,190,1928,,
+Skovduevej 46980 Tim, Tim,117.956,08-02-2012,Alm. Salg,802,4,Villa,147,2014,,Aktuel værdi
+Bjerregårdvej 66980 Tim, Tim,540.000,23-01-2012,Andet,3.461,5,Villa,156,1922,,Aktuel værdi
+"Bjerregårdvej 12, 16980 Tim", Tim,720.000,23-01-2012,Andet,7.826,4,Lejlighed,92,1960,,Aktuel værdi
+Tim Kirkevej 176980 Tim, Tim,407.500,09-01-2012,Alm. Salg,4.794,4,Villa,85,1936,2 %,Aktuel værdi
+Åvænget 46980 Tim, Tim,390.000,29-12-2011,Alm. Salg,2.031,7,Villa,192,2014,,Aktuel værdi
+Elmevej 176980 Tim, Tim,1.300.000,16-12-2011,Alm. Salg,9.154,6,Villa,142,1924,-3 %,Aktuel værdi
+Høbrovej 11B6980 Tim, Tim,810.000,13-12-2011,Alm. Salg,11.571,3,Sommerhus,70,1968,,Aktuel værdi
+Opstrupvej 86980 Tim, Tim,470.000,07-12-2011,Alm. Salg,5.222,3,Sommerhus,90,1900,-6 %,Aktuel værdi
+Skelmosevej 186980 Tim, Tim,16.001,25-11-2011,Auktion,225,2,Villa,71,1876,,Aktuel værdi
+Alrum 176980 Tim, Tim,550.000,12-10-2011,Alm. Salg,12.222,3,Sommerhus,45,1977,,Aktuel værdi
+Sneppevej 66980 Tim, Tim,735.000,11-10-2011,Alm. Salg,6.336,4,Villa,116,1971,-8 %,Aktuel værdi
+Stadilvej 486980 Tim, Tim,500.000,07-10-2011,Alm. Salg,4.347,4,Villa,115,1970,-8 %,Aktuel værdi
+Mølgaardsvej 36980 Tim, Tim,322.282,23-09-2011,Alm. Salg,4.131,4,Villa,78,1956,,Aktuel værdi
+Opstrupvej 46980 Tim, Tim,1.400.000,19-09-2011,Alm. Salg,5.982,9,Villa,234,1927,-3 %,Aktuel værdi
+Stadilvej 466980 Tim, Tim,339.000,22-08-2011,Alm. Salg,4.346,3,Villa,78,1950,-3 %,Aktuel værdi
+Alrum 266980 Tim, Tim,245.000,28-07-2011,Alm. Salg,3.024,4,Sommerhus,81,2015,-8 %,Aktuel værdi
+Skelmosevej 386980 Tim, Tim,375.000,18-07-2011,Alm. Salg,2.516,6,Villa,149,1934,-25 %,Aktuel værdi
+Østerbyvej 136980 Tim, Tim,336.326,14-07-2011,Alm. Salg,1.966,5,Anden beboelse,171,1954,,Aktuel værdi
+Stadilvej 286980 Tim, Tim,545.000,30-06-2011,Alm. Salg,3.323,4,Villa,164,1946,-16 %,Aktuel værdi
+Lathyrusvej 56980 Tim, Tim,915.000,22-06-2011,Alm. Salg,5.648,4,Villa,162,1964,-3 %,Aktuel værdi
+Hovedgaden 636980 Tim, Tim,1.490.000,22-06-2011,Alm. Salg,7.967,8,Villa,187,1902,-7 %,Aktuel værdi
+Tim Kirkevej 626980 Tim, Tim,106.776,21-06-2011,Alm. Salg,567,6,Stuehus,188,1911,,
+Hovedgaden 606980 Tim, Tim,415.000,13-03-2011,Alm. Salg,4.510,2,Villa,92,1920,-13 %,Aktuel værdi
+Møllebyvej 66980 Tim, Tim,660.000,26-01-2011,Alm. Salg,4.125,7,Stuehus,160,1872,,
+Mølgaardsvej 66980 Tim, Tim,700.000,22-12-2010,Alm. Salg,4.117,6,Villa,170,1941,,Aktuel værdi
+Svingelvej 176980 Tim, Tim,550.000,29-11-2010,Alm. Salg,1.903,11,Villa,289,1919,-15 %,Aktuel værdi
+Bjerregårdvej 176980 Tim, Tim,3.253.900,26-11-2010,Fam. Salg,19.028,7,Stuehus,171,1906,,
+Skelmosevej 116980 Tim, Tim,1.262.000,23-11-2010,Fam. Salg,8.194,5,Stuehus,154,1800,,
+Opstrupvej 66980 Tim, Tim,5.729.900,23-11-2010,Fam. Salg,22.038,8,Stuehus,260,1990,,
+Nybovej 56980 Tim, Tim,400.000,20-11-2010,Fam. Salg,3.571,3,Villa,112,1977,,Aktuel værdi
+Skelmosevej 636980 Tim, Tim,330.000,12-11-2010,Alm. Salg,-,5,Villa,115,1949,-12 %,Aktuel værdi
+Tim Kirkevej 116980 Tim, Tim,3.735.000,01-11-2010,Alm. Salg,22.100,3,Stuehus,169,1935,,
+Holstebrovej 1396980 Tim, Tim,900.000,25-10-2010,Alm. Salg,4.545,5,Stuehus,198,1870,,
+Nørre Espvej 56980 Tim, Tim,1.400.000,21-10-2010,Fam. Salg,-,4,Stuehus,169,1930,,
+Tim Kirkevej 806980 Tim, Tim,1.650.000,15-10-2010,Alm. Salg,9.705,6,Stuehus,170,1952,-8 %,
+Elmevej 156980 Tim, Tim,320.000,03-10-2010,Andet,2.025,4,Villa,158,1908,,Aktuel værdi
+Klydevej 86980 Tim, Tim,1.065.000,16-09-2010,Alm. Salg,7.447,5,Villa,143,1979,-7 %,Aktuel værdi
+Østerbyvej 36980 Tim, Tim,2.195.000,11-09-2010,Alm. Salg,11.801,8,Stuehus,186,1924,,
+Fresiavej 86980 Tim, Tim,1.200.000,09-09-2010,Alm. Salg,8.450,5,Villa,142,1995,,Aktuel værdi
+Nøderupvej 46980 Tim, Tim,660.000,04-09-2010,Alm. Salg,5.689,4,Villa,116,1970,,Aktuel værdi
+Hovedgaden 206980 Tim, Tim,410.000,03-09-2010,Alm. Salg,1.744,5,Villa,235,1908,-14 %,Aktuel værdi
+Bjerregårdvej 206980 Tim, Tim,150.000,16-08-2010,Alm. Salg,2.083,2,Villa,72,1949,-49 %,Aktuel værdi
+Mellemvej 66980 Tim, Tim,879.000,12-08-2010,Alm. Salg,7.449,4,Villa,118,1918,-1 %,Aktuel værdi
+Vandmøllevej 66980 Tim, Tim,1.257.500,12-08-2010,Alm. Salg,21.313,3,Villa,59,2016,-10 %,Aktuel værdi
+Grønnevej 186980 Tim, Tim,575.000,12-08-2010,Alm. Salg,4.197,4,Villa,137,1973,0 %,Aktuel værdi
+Trøstrupvej 166980 Tim, Tim,675.000,11-08-2010,Alm. Salg,5.357,4,Villa,126,1977,,Aktuel værdi
+Holstebrovej 1366980 Tim, Tim,440.572,11-08-2010,Alm. Salg,3.263,3,Villa,135,1874,,Aktuel værdi
+Gejlvej 66980 Tim, Tim,2.495.000,09-08-2010,Alm. Salg,12.475,6,Stuehus,200,1939,0 %,
+Trine Rahbeks Vej 166980 Tim, Tim,195.000,05-08-2010,Alm. Salg,2.785,3,Villa,70,1956,,Aktuel værdi
+Tim Kirkevej 506980 Tim, Tim,170.000,04-08-2010,Alm. Salg,1.133,5,Villa,150,1933,,Aktuel værdi
+Spættevej 96980 Tim, Tim,850.000,15-07-2010,Alm. Salg,3.846,6,Villa,221,1977,,Aktuel værdi
+Mejlbyvej 226980 Tim, Tim,570.000,13-07-2010,Alm. Salg,3.562,5,Villa,160,1904,-23 %,Aktuel værdi
+Svingelvej 286980 Tim, Tim,148.748,13-07-2010,Alm. Salg,1.260,6,Villa,118,1923,,Aktuel værdi
+Solsortevej 106980 Tim, Tim,1.010.000,08-07-2010,Alm. Salg,8.145,3,Villa,124,1977,-3 %,Aktuel værdi
+Tim Kirkevej 826980 Tim, Tim,1.800.000,16-06-2010,Alm. Salg,15.517,4,Stuehus,116,1929,,
+Stationsvej 46980 Tim, Tim,720.000,16-06-2010,Alm. Salg,5.000,5,Rækkehus,144,1894,-3 %,Aktuel værdi
+Nørre Espvej 66980 Tim, Tim,1.498.000,12-03-2010,Alm. Salg,8.322,6,Stuehus,180,1924,0 %,
+Svingelvej 306980 Tim, Tim,215.000,15-02-2010,Alm. Salg,1.762,5,Villa,122,1943,-35 %,Aktuel værdi
+Hovedgaden 666980 Tim, Tim,325.000,28-01-2010,Alm. Salg,2.056,6,Stuehus,158,1908,-18 %,
+Skannerupvej 56980 Tim, Tim,675.000,21-12-2009,Alm. Salg,6.490,2,Villa,104,1962,,Aktuel værdi
+Skannerupvej 10A6980 Tim, Tim,400.000,21-12-2009,Alm. Salg,5.063,3,Rækkehus,79,1979,,Aktuel værdi
+Grønnevej 26980 Tim, Tim,1.200.000,15-12-2009,Alm. Salg,6.666,7,Villa,180,1971,-7 %,Aktuel værdi
+Torstedvej 676980 Tim, Tim,356.084,16-11-2009,Alm. Salg,1.502,4,Villa,237,1935,,Aktuel værdi
+Tranevej 66980 Tim, Tim,1.100.000,13-11-2009,Alm. Salg,5.789,7,Villa,190,1974,-21 %,Aktuel værdi
+Grønbjergvej 86980 Tim, Tim,530.000,12-11-2009,Alm. Salg,6.022,4,Stuehus,88,2013,-23 %,
+Fasanvej 86980 Tim, Tim,710.000,04-11-2009,Alm. Salg,7.977,3,Villa,89,1966,-5 %,Aktuel værdi
+Grønnevej 106980 Tim, Tim,900.000,09-10-2009,Alm. Salg,6.000,5,Villa,150,1977,,Aktuel værdi
+Torstedvej 846980 Tim, Tim,337.500,30-09-2009,Alm. Salg,2.428,7,Villa,139,1932,,Aktuel værdi
+Stadiløvej 176980 Tim, Tim,825.000,25-09-2009,Alm. Salg,6.297,4,Stuehus,131,1000,-2 %,
+Svingelvej 206980 Tim, Tim,305.000,11-09-2009,Auktion,1.763,5,Villa,173,1910,,Aktuel værdi
+Stadiløvej 106980 Tim, Tim,110.000,03-09-2009,Auktion,916,4,Villa,120,1900,,Aktuel værdi
+Møllegade 156980 Tim, Tim,130.000,27-07-2009,Fam. Salg,2.321,3,Villa,56,1948,,Aktuel værdi
+Skelmosevej 656980 Tim, Tim,325.000,20-07-2009,Alm. Salg,2.579,6,Villa,126,1950,-13 %,Aktuel værdi
+Møllebyvej 36980 Tim, Tim,880.000,02-07-2009,Alm. Salg,2.359,8,Villa,373,1900,,Aktuel værdi
+Sneppevej 186980 Tim, Tim,850.000,15-06-2009,Alm. Salg,6.071,3,Villa,140,1972,-5 %,Aktuel værdi
+Holstebrovej 1356980 Tim, Tim,950.000,29-05-2009,Alm. Salg,6.333,4,Stuehus,150,1870,-21 %,
+Skelmosevej 676980 Tim, Tim,250.000,13-05-2009,Alm. Salg,2.173,4,Villa,115,1969,,Aktuel værdi
+Svensgaardvej 146980 Tim, Tim,99.000,09-05-2009,Alm. Salg,603,6,Villa,164,2010,,Aktuel værdi
+Torstedvej 566980 Tim, Tim,562.500,01-05-2009,Alm. Salg,5.357,3,Villa,105,1958,-5 %,Aktuel værdi
+Søgårdvej 96980 Tim, Tim,250.000,08-04-2009,Alm. Salg,2.500,4,Stuehus,100,1852,-44 %,
+Bjerregårdvej 266980 Tim, Tim,45.000,26-03-2009,Alm. Salg,260,5,Stuehus,173,1963,,
+Nøderupvej 56980 Tim, Tim,500.000,09-03-2009,Alm. Salg,-,6,Villa,152,1907,-20 %,Aktuel værdi
+Grønbjergvej 146980 Tim, Tim,690.000,12-02-2009,Alm. Salg,4.964,6,Stuehus,139,1964,-1 %,
+Torstedvej 266980 Tim, Tim,7.269.000,02-02-2009,Fam. Salg,34.287,5,Stuehus,212,1908,,
+Torstedvej 786980 Tim, Tim,49.936,31-01-2009,Alm. Salg,169,9,Stuehus,294,1973,,
+Stadilvej 166980 Tim, Tim,1.700.000,30-01-2009,Fam. Salg,8.212,7,Stuehus,207,1989,,
+Skelmosevej 46980 Tim, Tim,1.530.000,26-01-2009,Fam. Salg,4.751,7,Stuehus,322,2013,,
+Stadiløvej 66980 Tim, Tim,330.000,31-12-2008,Andet,4.342,3,Villa,76,1877,,Aktuel værdi
+Søruphusvej 26980 Tim, Tim,2.265.920,18-12-2008,Alm. Salg,12.588,4,Stuehus,180,1915,,
+Halkærvej 66980 Tim, Tim,925.000,18-12-2008,Alm. Salg,7.708,4,Stuehus,120,1904,-16 %,
+Spættevej 166980 Tim, Tim,475.000,15-12-2008,Alm. Salg,4.947,3,Villa,96,1977,0 %,Aktuel værdi
+Nørremarksvej 46980 Tim, Tim,447.000,11-12-2008,Fam. Salg,11.175,1,Sommerhus,40,1957,,Aktuel værdi
+Holstebrovej 1296980 Tim, Tim,325.000,28-11-2008,Alm. Salg,2.519,4,Villa,129,1948,-7 %,Aktuel værdi
+Svingelvej 16980 Tim, Tim,850.000,30-10-2008,Andet,3.794,6,Villa,224,1968,,Aktuel værdi
+Torstedvej 546980 Tim, Tim,560.000,13-10-2008,Alm. Salg,5.833,3,Villa,96,1934,-1 %,Aktuel værdi
+Nøderupvej 26980 Tim, Tim,1.040.000,19-09-2008,Alm. Salg,4.351,7,Villa,239,1974,-9 %,Aktuel værdi
+Torstedvej 686980 Tim, Tim,8.315.805,15-09-2008,Alm. Salg,43.767,6,Stuehus,190,1939,,
+Trøstrupvej 106980 Tim, Tim,620.000,10-09-2008,Alm. Salg,4.769,4,Villa,130,1972,,Aktuel værdi
+Fasanvej 106980 Tim, Tim,315.000,28-07-2008,Fam. Salg,3.000,4,Villa,105,1967,,Aktuel værdi
+Skovduevej 96980 Tim, Tim,141.360,30-06-2008,Alm. Salg,851,6,Villa,166,2009,,Aktuel værdi
+Vestervej 56980 Tim, Tim,620.500,26-06-2008,Fam. Salg,3.715,5,Sommerhus,167,1850,,Aktuel værdi
+Solsortevej 76980 Tim, Tim,569.500,27-05-2008,Fam. Salg,5.084,4,Villa,112,1978,,Aktuel værdi
+Trine Rahbeks Vej 16980 Tim, Tim,635.000,21-05-2008,Alm. Salg,6.350,4,Villa,100,1967,-12 %,Aktuel værdi
+Skelmosevej 146980 Tim, Tim,1.400.000,09-05-2008,Alm. Salg,5.555,5,Sommerhus,252,1996,-17 %,Aktuel værdi
+Vestervej 36980 Tim, Tim,2.385.000,05-05-2008,Fam. Salg,23.850,4,Stuehus,100,1906,,
+Mejlbyvej 146980 Tim, Tim,727.000,14-04-2008,Fam. Salg,6.377,4,Stuehus,114,1850,,
+Fasanvej 76980 Tim, Tim,520.000,04-04-2008,Alm. Salg,5.909,4,Villa,88,1962,-10 %,Aktuel værdi
+Hovedgaden 786980 Tim, Tim,600.000,03-04-2008,Alm. Salg,6.250,3,Villa,96,1976,-11 %,Aktuel værdi
+Hovedgaden 106980 Tim, Tim,560.000,28-03-2008,Alm. Salg,5.185,4,Villa,108,1955,,Aktuel værdi
+Opstrupvej 26980 Tim, Tim,2.830.000,17-03-2008,Alm. Salg,10.884,9,Stuehus,260,1869,,
+Tim Kirkevej 46980 Tim, Tim,115.700,17-03-2008,Alm. Salg,503,9,Stuehus,230,1911,,
+Holstebrovej 1446980 Tim, Tim,785.000,11-03-2008,Alm. Salg,6.085,4,Villa,129,1955,0 %,Aktuel værdi
+Vestervej 13A6980 Tim, Tim,1.200.000,04-03-2008,Alm. Salg,6.666,6,Stuehus,180,2000,-7 %,
+Lathyrusvej 76980 Tim, Tim,780.000,03-03-2008,Alm. Salg,4.062,5,Villa,192,1918,-5 %,Aktuel værdi
+Stadilvej 526980 Tim, Tim,600.000,24-02-2008,Fam. Salg,4.444,4,Villa,135,1951,,Aktuel værdi
+Klausievej 66980 Tim, Tim,70.800,01-02-2008,Alm. Salg,536,6,Stuehus,132,1935,,
+Torstedvej 666980 Tim, Tim,70.800,01-02-2008,Alm. Salg,544,5,Stuehus,130,1922,,
+Nørre Espvej 16980 Tim, Tim,6.500.000,29-01-2008,Fam. Salg,26.530,10,Stuehus,245,1933,,
+Hjejlevej 66980 Tim, Tim,1.090.000,04-01-2008,Alm. Salg,8.074,2,Villa,135,1973,-1 %,Aktuel værdi
+Torstedvej 386980 Tim, Tim,137.275,31-12-2007,Alm. Salg,567,8,Villa,242,1872,,Aktuel værdi
+Torstedvej 456980 Tim, Tim,510.000,05-12-2007,Alm. Salg,5.312,3,Villa,96,1943,-6 %,Aktuel værdi
+Gejlvej 46980 Tim, Tim,950.000,03-12-2007,Alm. Salg,8.796,4,Stuehus,108,1956,,
+Hovedgaden 216980 Tim, Tim,483.861,04-11-2007,Fam. Salg,2.481,6,Villa,195,1955,,Aktuel værdi
+Valmuevej 26980 Tim, Tim,750.000,26-10-2007,Alm. Salg,5.813,4,Villa,129,1981,-10 %,Aktuel værdi
+Holstebrovej 1316980 Tim, Tim,700.000,25-10-2007,Alm. Salg,2.777,8,Stuehus,252,1924,,
+Torstedvej 776980 Tim, Tim,625.000,22-10-2007,Alm. Salg,4.222,3,Villa,148,1948,0 %,Aktuel værdi
+Hovedgaden 386980 Tim, Tim,425.000,04-10-2007,Alm. Salg,4.250,3,Rækkehus,100,1900,-12 %,Aktuel værdi
+Skelmosevej 126980 Tim, Tim,391.000,27-09-2007,Fam. Salg,2.812,5,Sommerhus,139,1926,,Aktuel værdi
+Bjerregårdvej 136980 Tim, Tim,875.000,20-09-2007,Alm. Salg,4.943,8,Stuehus,177,1868,,
+Torstedvej 606980 Tim, Tim,595.000,17-09-2007,Alm. Salg,3.562,5,Villa,167,1961,0 %,Aktuel værdi
+Svingelvej 266980 Tim, Tim,600.000,14-09-2007,Alm. Salg,2.898,5,Villa,207,1950,,Aktuel værdi
+Skelmosevej 76980 Tim, Tim,275.000,10-09-2007,Andet,2.669,6,Villa,103,1929,,Aktuel værdi
+Trøstrupvej 236980 Tim, Tim,137.275,06-09-2007,Alm. Salg,679,7,Villa,202,2009,,Aktuel værdi
+Pradsgaardsvej 86980 Tim, Tim,1.500.000,22-08-2007,Alm. Salg,8.064,7,Villa,186,1973,,Aktuel værdi
+Gejlvej 16980 Tim, Tim,445.185,22-08-2007,Alm. Salg,2.765,5,Stuehus,161,1956,,
+Torstedvej 376980 Tim, Tim,375.000,21-08-2007,Alm. Salg,-,3,Fritid,102,1918,,Aktuel værdi
+Hovedgaden 256980 Tim, Tim,780.000,10-08-2007,Alm. Salg,4.756,7,Villa,164,1925,-11 %,Aktuel værdi
+Skolesvinget 1B6980 Tim, Tim,300.000,10-08-2007,Alm. Salg,3.260,4,Villa,92,1913,,Aktuel værdi
+Brinkvej 16980 Tim, Tim,1.080.000,06-08-2007,Alm. Salg,9.000,5,Stuehus,120,1000,,
+Hovedgaden 286980 Tim, Tim,510.000,01-08-2007,Alm. Salg,-,6,Rækkehus,128,1890,0 %,Aktuel værdi
+Nybovej 26980 Tim, Tim,740.000,30-07-2007,Alm. Salg,3.756,7,Villa,197,1972,,Aktuel værdi
+Skannerupvej 126980 Tim, Tim,880.000,12-07-2007,Alm. Salg,4.835,4,Villa,182,1921,,Aktuel værdi
+Skovduevej 166980 Tim, Tim,90.960,11-07-2007,Alm. Salg,891,3,Villa,102,2008,,Aktuel værdi
+Stadilvej 76980 Tim, Tim,4.450.000,10-07-2007,Fam. Salg,22.029,7,Stuehus,202,1878,,
+Skelmosevej 516980 Tim, Tim,515.000,06-07-2007,Alm. Salg,5.150,4,Villa,100,1968,-2 %,Aktuel værdi
+Svingelvej 196980 Tim, Tim,750.000,06-07-2007,Alm. Salg,3.750,6,Stuehus,200,1907,0 %,
+Bjerregårdvej 216980 Tim, Tim,175.000,06-07-2007,Alm. Salg,994,6,Stuehus,176,2008,,
+Lathyrusvej 36980 Tim, Tim,873.000,05-07-2007,Alm. Salg,6.147,5,Villa,142,1969,2 %,Aktuel værdi
+Møllebyvej 106980 Tim, Tim,1.250.000,18-06-2007,Alm. Salg,12.376,5,Sommerhus,101,1800,,Aktuel værdi
+Tim Kirkevej 246980 Tim, Tim,300.000,15-06-2007,Alm. Salg,-,7,Villa,122,1953,,Aktuel værdi
+Klydevej 126980 Tim, Tim,645.000,15-06-2007,Alm. Salg,5.657,3,Villa,114,1980,-4 %,Aktuel værdi
+Torstedvej 516980 Tim, Tim,555.000,01-06-2007,Alm. Salg,4.625,4,Villa,120,1929,-3 %,Aktuel værdi
+Sneppevej 36980 Tim, Tim,700.000,18-05-2007,Alm. Salg,6.422,4,Villa,109,1966,-5 %,Aktuel værdi
+Hjejlevej 106980 Tim, Tim,760.000,08-05-2007,Alm. Salg,4.903,5,Villa,155,1973,-4 %,Aktuel værdi
+Svingelvej 86980 Tim, Tim,410.000,07-05-2007,Alm. Salg,6.406,2,Villa,64,1906,,Aktuel værdi
+Møllegade 186980 Tim, Tim,306.844,23-04-2007,Alm. Salg,2.416,4,Villa,127,1976,,Aktuel værdi
+Kogsgårdsvej 36980 Tim, Tim,710.000,23-04-2007,Alm. Salg,5.546,5,Villa,128,1973,2 %,Aktuel værdi
+Nybovej 36980 Tim, Tim,450.000,22-04-2007,Alm. Salg,3.125,4,Villa,144,1973,,Aktuel værdi
+Grønnevej 116980 Tim, Tim,740.000,23-03-2007,Alm. Salg,5.323,6,Villa,139,1985,-7 %,Aktuel værdi
+Mejlbyvej 126980 Tim, Tim,196.730,20-03-2007,Fam. Salg,941,8,Stuehus,209,1800,,
+Torstedvej 646980 Tim, Tim,375.000,20-02-2007,Alm. Salg,3.099,6,Villa,121,1923,,Aktuel værdi
+Hovedgaden 356980 Tim, Tim,285.000,29-12-2006,Alm. Salg,1.357,6,Villa,210,1900,,Aktuel værdi
+Mølgaardsvej 26980 Tim, Tim,460.000,20-12-2006,Alm. Salg,2.222,6,Villa,207,2008,,Aktuel værdi
+Solsortevej 66980 Tim, Tim,1.175.000,08-12-2006,Alm. Salg,8.453,5,Villa,139,1977,,Aktuel værdi
+Østerbyvej 166980 Tim, Tim,2.415.000,20-11-2006,Fam. Salg,17.007,4,Stuehus,142,1898,,
+Nybovej 166980 Tim, Tim,600.000,30-10-2006,Alm. Salg,5.555,3,Villa,108,1974,,Aktuel værdi
+Skovduevej 146980 Tim, Tim,1.200.000,23-10-2006,Alm. Salg,9.677,4,Villa,124,1999,,Aktuel værdi
+Trøstrupvej 256980 Tim, Tim,160.000,20-09-2006,Alm. Salg,563,9,Villa,284,2009,,Aktuel værdi
+Tim Kirkevej 68B6980 Tim, Tim,365.000,11-09-2006,Alm. Salg,3.967,3,Villa,92,1954,,Aktuel værdi
+Lathyrusvej 66980 Tim, Tim,129.000,31-08-2006,Alm. Salg,724,6,Villa,178,2008,,Aktuel værdi
+Skelmosevej 16980 Tim, Tim,2.160.000,28-08-2006,Fam. Salg,18.000,5,Stuehus,120,1965,,
+Stadiløvej 46980 Tim, Tim,90.000,28-08-2006,Fam. Salg,450,5,Stuehus,200,1974,,
+Tim Kirkevej 546980 Tim, Tim,550.000,25-08-2006,Alm. Salg,5.729,3,Villa,96,1911,,Aktuel værdi
+Skannerupvej 166980 Tim, Tim,192.000,24-07-2006,Alm. Salg,1.900,3,Villa,101,1954,,Aktuel værdi
+Skelmosevej 406980 Tim, Tim,320.000,05-07-2006,Alm. Salg,2.285,5,Villa,140,1935,,Aktuel værdi
+Hovedgaden 576980 Tim, Tim,395.000,28-06-2006,Alm. Salg,2.992,5,Villa,132,1959,,Aktuel værdi
+Trøstrupvej 246980 Tim, Tim,630.000,22-06-2006,Andet,4.500,5,Villa,140,1977,,Aktuel værdi
+Torstedvej 616980 Tim, Tim,390.000,22-06-2006,Andet,3.979,4,Villa,98,1961,,Aktuel værdi
+Trøstrupvej 226980 Tim, Tim,590.000,16-06-2006,Alm. Salg,7.283,4,Villa,81,1973,,Aktuel værdi
+Torstedvej 826980 Tim, Tim,1.190.000,07-06-2006,Alm. Salg,7.125,5,Stuehus,167,1952,,
+Skovduevej 246980 Tim, Tim,91.580,26-05-2006,Alm. Salg,511,5,Villa,179,2007,,Aktuel værdi
+Tim Kirkevej 466980 Tim, Tim,550.000,22-05-2006,Alm. Salg,3.353,5,Villa,164,1954,,Aktuel værdi
+Grønbjergvej 76980 Tim, Tim,995.000,09-05-2006,Alm. Salg,5.102,6,Stuehus,195,1929,,
+Hovedgaden 76980 Tim, Tim,345.000,04-05-2006,Alm. Salg,2.827,9,Villa,122,1951,,Aktuel værdi
+Søgårdvej 56980 Tim, Tim,945.000,22-04-2006,Alm. Salg,5.591,7,Villa,169,1892,,Aktuel værdi
+Hjejlevej 56980 Tim, Tim,865.000,18-03-2006,Alm. Salg,-,5,Villa,164,1973,,Aktuel værdi
+Mejlbyvej 166980 Tim, Tim,1.280.000,17-03-2006,Alm. Salg,-,11,Villa,358,1800,,Aktuel værdi
+Solsortevej 166980 Tim, Tim,664.000,13-02-2006,Alm. Salg,5.824,4,Villa,114,1980,,Aktuel værdi
+Møllegade 216980 Tim, Tim,150.000,02-01-2006,Alm. Salg,617,7,Villa,243,2008,,Aktuel værdi
+Nybovej 46980 Tim, Tim,320.000,02-01-2006,Alm. Salg,3.200,3,Villa,100,1970,,Aktuel værdi
+Skelmosevej 536980 Tim, Tim,750.000,28-12-2005,Fam. Salg,5.033,5,Villa,149,1987,,Aktuel værdi
+Møllebyvej 56980 Tim, Tim,1.125.000,22-12-2005,Alm. Salg,3.892,8,Villa,289,1878,,Aktuel værdi
+Skannerupvej 226980 Tim, Tim,859.801,22-12-2005,Fam. Salg,5.057,5,Villa,170,1987,,Aktuel værdi
+Bjerregårdvej 36980 Tim, Tim,420.000,16-12-2005,Alm. Salg,3.888,4,Villa,108,1963,,Aktuel værdi
+Nybovej 186980 Tim, Tim,432.500,14-12-2005,Alm. Salg,5.210,3,Villa,83,1993,,Aktuel værdi
+Torstedvej 496980 Tim, Tim,595.000,07-12-2005,Alm. Salg,4.877,4,Villa,122,1939,,Aktuel værdi
+Alrum 76980 Tim, Tim,126.500,30-11-2005,Alm. Salg,7.906,1,Sommerhus,16,2016,,Aktuel værdi
+Lathyrusvej 96980 Tim, Tim,258.300,22-11-2005,Alm. Salg,1.247,6,Villa,207,2007,,Aktuel værdi
+Skelmosevej 616980 Tim, Tim,220.000,02-11-2005,Alm. Salg,1.549,5,Villa,142,1946,,Aktuel værdi
+Lergravvej 36980 Tim, Tim,380.000,31-10-2005,Andet,3.551,4,Villa,107,1880,,Aktuel værdi
+Torstedvej 506980 Tim, Tim,470.000,25-10-2005,Fam. Salg,2.216,8,Villa,212,1864,,Aktuel værdi
+Skelmosevej 836980 Tim, Tim,385.000,21-10-2005,Alm. Salg,5.500,3,Villa,70,1932,,Aktuel værdi
+Valmuevej 96980 Tim, Tim,1.030.000,30-09-2005,Alm. Salg,7.744,6,Villa,133,1988,,Aktuel værdi
+Tim Kirkevej 106980 Tim, Tim,525.000,15-09-2005,Alm. Salg,5.585,5,Stuehus,94,1000,,
+Torstedvej 926980 Tim, Tim,5.170.000,15-09-2005,Alm. Salg,28.097,5,Stuehus,184,1914,,
+Stadilvej 426980 Tim, Tim,445.000,13-09-2005,Alm. Salg,3.345,4,Villa,133,1932,,Aktuel værdi
+Møllebyvej 186980 Tim, Tim,780.000,27-07-2005,Alm. Salg,-,5,Villa,180,1969,,Aktuel værdi
+Tranevej 56980 Tim, Tim,650.000,04-07-2005,Alm. Salg,4.421,4,Villa,147,1974,,Aktuel værdi
+Grønnevej 66980 Tim, Tim,540.000,30-06-2005,Alm. Salg,4.500,5,Villa,120,1967,,Aktuel værdi
+Fresiavej 166980 Tim, Tim,75.000,26-06-2005,Alm. Salg,543,5,Villa,138,2006,,Aktuel værdi
+Skovduevej 206980 Tim, Tim,132.430,16-06-2005,Alm. Salg,802,5,Villa,165,2006,,Aktuel værdi
+Grønnevej 16980 Tim, Tim,575.000,09-05-2005,Alm. Salg,6.388,3,Villa,90,1965,,Aktuel værdi
+Skelmosevej 426980 Tim, Tim,220.000,14-04-2005,Alm. Salg,2.291,4,Villa,96,1935,,Aktuel værdi
+Lathyrusvej 16980 Tim, Tim,498.500,29-03-2005,Alm. Salg,5.192,3,Villa,96,1975,,Aktuel værdi
+Skelmosevej 206980 Tim, Tim,865.000,21-03-2005,Alm. Salg,3.649,9,Villa,237,1942,,Aktuel værdi
+Skelmosevej 56980 Tim, Tim,625.000,16-02-2005,Alm. Salg,3.633,6,Villa,172,1906,,Aktuel værdi
+Lindholmvej 16980 Tim, Tim,760.000,08-02-2005,Alm. Salg,5.629,5,Villa,135,1941,,Aktuel værdi
+Torstedvej 806980 Tim, Tim,220.000,27-01-2005,Alm. Salg,1.666,5,Villa,132,1924,,Aktuel værdi
+Nøderupvej 86980 Tim, Tim,475.000,21-01-2005,Alm. Salg,4.025,4,Villa,118,1944,,Aktuel værdi
+Torstedvej 816980 Tim, Tim,825.000,13-01-2005,Alm. Salg,8.418,4,Villa,98,1915,,Aktuel værdi
+Torstedvej 526980 Tim, Tim,180.000,03-01-2005,Alm. Salg,-,3,Villa,103,1958,,Aktuel værdi
+Møllegade 36980 Tim, Tim,155.000,30-12-2004,Fam. Salg,3.039,2,Anden beboelse,51,1932,,Aktuel værdi
+Svingelvej 3B6980 Tim, Tim,525.000,29-11-2004,Alm. Salg,4.687,4,Villa,112,1969,,Aktuel værdi
+Trøstrupvej 266980 Tim, Tim,649.474,29-11-2004,Fam. Salg,3.473,7,Villa,187,1975,,Aktuel værdi
+Hovedgaden 626980 Tim, Tim,510.000,13-11-2004,Alm. Salg,5.666,3,Villa,90,1959,,Aktuel værdi
+Stadiløvej 126980 Tim, Tim,810.000,10-11-2004,Auktion,-,10,Villa,279,1934,,Aktuel værdi
+Nørre Espvej 11B6980 Tim, Tim,476.000,23-10-2004,Fam. Salg,5.950,3,Sommerhus,80,1964,,Aktuel værdi
+Kogsgårdsvej 76980 Tim, Tim,822.900,18-10-2004,Andet,4.472,3,Villa,184,1972,,Aktuel værdi
+Møllebyvej 26980 Tim, Tim,470.000,13-10-2004,Alm. Salg,3.032,7,Villa,155,1850,,Aktuel værdi
+Spættevej 36980 Tim, Tim,705.000,07-10-2004,Alm. Salg,5.071,5,Villa,139,1978,,Aktuel værdi
+Møllebyvej 16980 Tim, Tim,1.080.000,01-10-2004,Alm. Salg,6.545,6,Stuehus,165,1890,,
+Solsortevej 126980 Tim, Tim,610.000,30-09-2004,Alm. Salg,5.980,3,Villa,102,1977,,Aktuel værdi
+Halkærvej 46980 Tim, Tim,669.000,30-08-2004,Alm. Salg,2.908,7,Industri o.l.,230,1868,,Aktuel værdi
+Brinkvej 66980 Tim, Tim,4.329.150,17-08-2004,Fam. Salg,22.905,6,Stuehus,189,1905,,
+Stadilvej 566980 Tim, Tim,392.143,02-07-2004,Alm. Salg,5.159,4,Villa,76,1950,,Aktuel værdi
+Skelmosevej 496980 Tim, Tim,760.000,18-06-2004,Alm. Salg,5.135,5,Villa,148,1977,,Aktuel værdi
+Opstrupvej 16980 Tim, Tim,2.800.000,08-06-2004,Alm. Salg,13.930,8,Villa,201,1927,,Aktuel værdi
+Torstedvej 286980 Tim, Tim,243.666,28-05-2004,Fam. Salg,729,10,Stuehus,334,1890,,
+Høbrovej 10E6980 Tim, Tim,1.500.000,28-05-2004,Alm. Salg,9.375,5,Stuehus,160,2001,,
+Torstedvej 946980 Tim, Tim,675.000,16-05-2004,Fam. Salg,4.166,4,Stuehus,162,1957,,
+Skelmosevej 196980 Tim, Tim,670.000,13-05-2004,Alm. Salg,6.090,4,Villa,110,1897,,Aktuel værdi
+Skovduevej 36980 Tim, Tim,93.575,12-05-2004,Alm. Salg,668,5,Villa,140,2005,,Aktuel værdi
+Nørre Espvej 146980 Tim, Tim,1.020.000,09-04-2004,Fam. Salg,4.903,7,Stuehus,208,1914,,
+Svingelvej 226980 Tim, Tim,334.000,23-03-2004,Alm. Salg,1.795,5,Villa,186,1917,,Aktuel værdi
+Alrum 356980 Tim, Tim,590.000,12-03-2004,Alm. Salg,7.375,5,Sommerhus,80,1988,,Aktuel værdi
+Stadilvej 546980 Tim, Tim,385.000,03-02-2004,Alm. Salg,3.564,4,Villa,108,1951,,Aktuel værdi
+Søgårdvej 76980 Tim, Tim,500.000,27-01-2004,Fam. Salg,3.401,5,Villa,147,2007,,Aktuel værdi
+Klydevej 46980 Tim, Tim,730.000,21-01-2004,Alm. Salg,5.703,4,Villa,128,1979,,Aktuel værdi
+Lindholmvej 56980 Tim, Tim,6.000.000,08-01-2004,Fam. Salg,18.237,8,Stuehus,329,2009,,
+Tim Kirkevej 586980 Tim, Tim,262.784,12-12-2003,Alm. Salg,2.005,6,Villa,131,1927,,Aktuel værdi
+Sneppevej 26980 Tim, Tim,350.000,19-11-2003,Alm. Salg,2.692,4,Villa,130,1967,,Aktuel værdi
+Elmevej 76980 Tim, Tim,320.000,11-11-2003,Alm. Salg,3.265,5,Villa,98,1894,,Aktuel værdi
+Vægermosevej 16980 Tim, Tim,225.000,05-11-2003,Alm. Salg,2.393,4,Villa,94,1952,,Aktuel værdi
+Grønbjergvej 46980 Tim, Tim,5.000.000,31-10-2003,Alm. Salg,23.041,6,Stuehus,217,1918,,
+Alrum 66980 Tim, Tim,375.000,28-10-2003,Alm. Salg,-,5,Sommerhus,98,1976,,Aktuel værdi
+Tim Kirkevej 28B6980 Tim, Tim,530.000,10-10-2003,Alm. Salg,824,6,Villa,643,1953,,Aktuel værdi
+Grønnevej 36980 Tim, Tim,600.000,09-10-2003,Alm. Salg,2.790,6,Villa,215,1967,,Aktuel værdi
+Skovduevej 56980 Tim, Tim,94.240,02-10-2003,Alm. Salg,682,4,Villa,138,2004,,Aktuel værdi
+Holstebrovej 1486980 Tim, Tim,3.500.000,02-09-2003,Alm. Salg,15.350,4,Villa,228,1960,,Aktuel værdi
+Kogsgårdsvej 56980 Tim, Tim,722.500,30-07-2003,Alm. Salg,-,4,Villa,118,1972,,Aktuel værdi
+Møllebyvej 166980 Tim, Tim,945.000,25-06-2003,Alm. Salg,3.841,6,Stuehus,246,1870,,
+Møllebyvej 86980 Tim, Tim,14.241.000,19-05-2003,Fam. Salg,43.818,12,Stuehus,325,1727,,
+Høbrovej 10F6980 Tim, Tim,4.230.000,13-05-2003,Alm. Salg,22.380,7,Stuehus,189,1939,,
+Høbrovej 126980 Tim, Tim,1.000.000,13-05-2003,Alm. Salg,5.847,5,Stuehus,171,1800,,
+Nøderupvej 66980 Tim, Tim,810.000,09-05-2003,Alm. Salg,5.094,4,Villa,159,1970,,Aktuel værdi
+Vestervej 66980 Tim, Tim,935.000,30-04-2003,Alm. Salg,5.843,6,Stuehus,160,1900,,
+Fasanvej 26980 Tim, Tim,425.000,28-04-2003,Alm. Salg,4.250,4,Villa,100,1964,,Aktuel værdi
+Tim Kirkevej 886980 Tim, Tim,1.495.000,11-04-2003,Alm. Salg,5.397,6,Stuehus,277,1903,,
+Nørremarksvej 36980 Tim, Tim,880.000,22-03-2003,Alm. Salg,6.567,5,Stuehus,134,1959,,
+Skelmosevej 86980 Tim, Tim,222.000,14-03-2003,Alm. Salg,1.156,6,Stuehus,192,1875,,
+Solsortevej 16980 Tim, Tim,64.540,24-01-2003,Alm. Salg,419,5,Villa,154,2003,,Aktuel værdi
+Solsortevej 46980 Tim, Tim,840.000,24-01-2003,Alm. Salg,3.733,8,Villa,225,1977,,Aktuel værdi
+Grønbjergvej 66980 Tim, Tim,3.030.000,16-12-2002,Alm. Salg,15.150,8,Stuehus,200,1953,,
+Sigvej 26980 Tim, Tim,4.750.000,03-12-2002,Alm. Salg,38.934,6,Stuehus,122,1929,,
+Bjerregårdvej 286980 Tim, Tim,725.000,07-10-2002,Alm. Salg,3.698,7,Villa,196,1918,,Aktuel værdi
+Svingelvej 166980 Tim, Tim,189.396,20-09-2002,Andet,1.691,4,Villa,112,1971,,Aktuel værdi
+Møllegade 56980 Tim, Tim,295.000,15-08-2002,Alm. Salg,3.277,3,Villa,90,1948,,Aktuel værdi
+Skelmosevej 856980 Tim, Tim,200.000,05-08-2002,Alm. Salg,2.272,3,Villa,88,1930,,Aktuel værdi
+Stadilvej 136980 Tim, Tim,475.000,06-07-2002,Alm. Salg,2.074,7,Villa,229,2006,,Aktuel værdi
+Tim Kirkevej 86980 Tim, Tim,313.185,28-06-2002,Alm. Salg,1.361,6,Stuehus,230,1852,,
+Fabriksvej 66980 Tim, Tim,535.000,09-06-2002,Alm. Salg,7.535,3,Villa,71,1963,,Aktuel værdi
+Tim Kirkevej 96980 Tim, Tim,415.000,07-06-2002,Alm. Salg,5.928,3,Villa,70,1947,,Aktuel værdi
+Svensgaardvej 26980 Tim, Tim,600.000,31-05-2002,Alm. Salg,5.172,4,Villa,116,1967,,Aktuel værdi
+Stadilvej 326980 Tim, Tim,300.000,21-05-2002,Alm. Salg,3.370,4,Villa,89,2004,,Aktuel værdi
+Rylevej 26980 Tim, Tim,1.000.000,03-05-2002,Alm. Salg,6.993,4,Villa,143,2002,,Aktuel værdi
+Tim Kirkevej 416980 Tim, Tim,760.000,30-04-2002,Alm. Salg,3.551,6,Villa,214,1880,,Aktuel værdi
+Solsortevej 96980 Tim, Tim,750.000,02-04-2002,Alm. Salg,-,6,Villa,163,1979,,Aktuel værdi
+Holstebrovej 1336980 Tim, Tim,350.000,24-02-2002,Alm. Salg,3.608,4,Villa,97,1957,,Aktuel værdi
+Hjejlevej 36980 Tim, Tim,611.139,20-02-2002,Alm. Salg,4.244,5,Villa,144,1973,,Aktuel værdi
+Østerbyvej 56980 Tim, Tim,850.000,17-12-2001,Alm. Salg,4.857,5,Villa,175,1878,,Aktuel værdi
+Halkærvej 86980 Tim, Tim,100.000,05-12-2001,Alm. Salg,628,5,Villa,159,2005,,Aktuel værdi
+Nørremarksvej 1C6980 Tim, Tim,3.785.000,03-12-2001,Alm. Salg,36.047,3,Stuehus,105,1957,,
+Mejlbyvej 36980 Tim, Tim,365.000,12-11-2001,Alm. Salg,3.041,5,Sommerhus,120,1918,,Aktuel værdi
+Valmuevej 16980 Tim, Tim,795.000,07-11-2001,Alm. Salg,-,4,Villa,155,1980,,Aktuel værdi
+Tim Kirkevej 746980 Tim, Tim,490.000,30-10-2001,Alm. Salg,4.083,4,Villa,120,1911,,Aktuel værdi
+Pradsgaardsvej 56980 Tim, Tim,625.000,29-10-2001,Alm. Salg,-,5,Villa,159,1968,,Aktuel værdi
+Spættevej 116980 Tim, Tim,1.300.000,22-10-2001,Alm. Salg,9.352,5,Villa,139,1977,,Aktuel værdi
+Nøderupvej 106980 Tim, Tim,350.000,15-10-2001,Fam. Salg,5.555,3,Villa,63,1954,,Aktuel værdi
+Møllegade 106980 Tim, Tim,250.000,25-09-2001,Alm. Salg,3.571,3,Villa,70,1938,,Aktuel værdi
+Torstedvej 396980 Tim, Tim,350.000,10-09-2001,Alm. Salg,2.592,5,Stuehus,135,1913,,
+Tranevej 126980 Tim, Tim,550.000,30-08-2001,Alm. Salg,4.741,2,Villa,116,1973,,Aktuel værdi
+Sneppevej 56980 Tim, Tim,620.000,18-07-2001,Alm. Salg,5.535,4,Villa,112,1968,,Aktuel værdi
+Skannerupvej 216980 Tim, Tim,185.000,05-07-2001,Alm. Salg,1.321,4,Villa,140,2003,,Aktuel værdi
+Tim Kirkevej 68A6980 Tim, Tim,1.010.000,01-07-2001,Alm. Salg,6.917,4,Stuehus,146,1918,,
+Østerbyvej 66980 Tim, Tim,582.538,27-06-2001,Alm. Salg,4.347,6,Villa,134,1933,,Aktuel værdi
+Svingelvej 76980 Tim, Tim,2.938.400,14-06-2001,Fam. Salg,18.365,4,Stuehus,160,1913,,
+Møllebyvej 96980 Tim, Tim,3.110.000,24-04-2001,Fam. Salg,10.724,10,Stuehus,290,1896,,
+Bjerregårdvej 146980 Tim, Tim,300.000,23-04-2001,Fam. Salg,3.157,4,Villa,95,1951,,Aktuel værdi
+Torstedvej 416980 Tim, Tim,660.000,09-04-2001,Alm. Salg,4.230,6,Villa,156,1973,,Aktuel værdi
+Trøstrupvej 186980 Tim, Tim,465.000,02-04-2001,Alm. Salg,4.151,4,Villa,112,1968,,Aktuel værdi
+Østerbyvej 206980 Tim, Tim,800.000,01-04-2001,Fam. Salg,6.250,6,Stuehus,128,1925,,
+Skelmosevej 756980 Tim, Tim,345.000,09-03-2001,Alm. Salg,3.450,4,Villa,100,1962,,Aktuel værdi
+Tim Kirkevej 76980 Tim, Tim,480.000,01-03-2001,Alm. Salg,3.116,4,Villa,154,2010,,Aktuel værdi
+Stadilvej 146980 Tim, Tim,738.740,24-01-2001,Alm. Salg,3.788,8,Stuehus,195,1960,,
+Stadiløvej 26980 Tim, Tim,581.917,28-12-2000,Alm. Salg,5.819,3,Sommerhus,100,1848,,Aktuel værdi
+Torstedvej 726980 Tim, Tim,1.100.000,04-12-2000,Alm. Salg,9.016,3,Stuehus,122,1927,,
+Skelmosevej 256980 Tim, Tim,50.000,27-11-2000,Alm. Salg,303,5,Villa,165,2001,,Aktuel værdi
+Tim Kirkevej 216980 Tim, Tim,222.000,23-11-2000,Alm. Salg,1.067,7,Villa,208,1853,,Aktuel værdi
+Nørre Espvej 11A6980 Tim, Tim,798.214,21-11-2000,Alm. Salg,5.251,6,Villa,152,1935,,Aktuel værdi
+Grønbjergvej 106980 Tim, Tim,840.000,26-10-2000,Alm. Salg,5.714,4,Stuehus,147,1956,,
+Stadilvej 636980 Tim, Tim,520.000,18-10-2000,Alm. Salg,3.561,4,Villa,146,1879,,Aktuel værdi
+Tranevej 26980 Tim, Tim,576.000,24-08-2000,Alm. Salg,4.571,4,Villa,126,1972,,Aktuel værdi
+Mejlbyvej 186980 Tim, Tim,2.116.500,18-08-2000,Fam. Salg,15.117,6,Stuehus,140,1837,,
+Torstedvej 956980 Tim, Tim,495.000,14-07-2000,Alm. Salg,4.500,4,Villa,110,1942,,Aktuel værdi
+Tim Kirkevej 386980 Tim, Tim,1.240.000,14-07-2000,Alm. Salg,14.252,7,Døgninstitution,87,1981,,Aktuel værdi
+Hovedgaden 66980 Tim, Tim,830.000,14-06-2000,Alm. Salg,4.662,5,Villa,178,1961,,Aktuel værdi
+Alrum 246980 Tim, Tim,330.000,23-05-2000,Alm. Salg,7.173,3,Sommerhus,46,1976,,Aktuel værdi
+Tim Kirkevej 166980 Tim, Tim,255.000,17-05-2000,Alm. Salg,-,5,Villa,123,1948,,Aktuel værdi
+Stadilvej 196980 Tim, Tim,1.310.000,08-05-2000,Fam. Salg,8.618,7,Stuehus,152,1870,,
+Vestervej 106980 Tim, Tim,811.288,12-04-2000,Alm. Salg,4.269,10,Stuehus,190,1830,,
+Grønnevej 136980 Tim, Tim,920.000,31-03-2000,Alm. Salg,4.919,7,Villa,187,1986,,Aktuel værdi
+Bjerregårdvej 156980 Tim, Tim,409.800,25-03-2000,Alm. Salg,3.902,4,Stuehus,105,1939,,
+Stadilvej 356980 Tim, Tim,440.000,09-03-2000,Alm. Salg,4.400,5,Villa,100,1850,,Aktuel værdi
+Stadilvej 216980 Tim, Tim,2.100.000,08-03-2000,Alm. Salg,14.000,6,Stuehus,150,1956,,
+Sneppevej 106980 Tim, Tim,830.000,04-02-2000,Alm. Salg,4.438,5,Villa,187,1972,,Aktuel værdi
+Tim Kirkevej 846980 Tim, Tim,4.400.000,25-01-2000,Alm. Salg,24.175,8,Stuehus,182,1898,,
+Vestervej 76980 Tim, Tim,390.000,24-01-2000,Alm. Salg,2.228,7,Stuehus,175,1865,,
+Stadiløvej 36980 Tim, Tim,910.000,20-12-1999,Fam. Salg,4.550,5,Stuehus,200,1893,,
+Stadiløvej 16980 Tim, Tim,2.848.000,20-12-1999,Fam. Salg,11.483,8,Stuehus,248,1977,,
+Skelmosevej 166980 Tim, Tim,635.000,13-12-1999,Alm. Salg,-,10,Stuehus,232,1941,,
+Tim Kirkevej 336980 Tim, Tim,568.958,17-11-1999,Alm. Salg,5.367,4,Sommerhus,106,1877,,Aktuel værdi
+Vestervej 146980 Tim, Tim,860.000,14-10-1999,Alm. Salg,4.455,5,Stuehus,193,1860,,
+Stadilvej 236980 Tim, Tim,8.033.600,30-09-1999,Fam. Salg,24.871,14,Stuehus,323,1973,,
+Nørre Espvej 96980 Tim, Tim,1.375.000,30-09-1999,Fam. Salg,-,7,Stuehus,267,1908,,
+Præstevej 16980 Tim, Tim,3.450.000,28-09-1999,Alm. Salg,19.060,7,Stuehus,181,1922,,
+Holstebrovej 1386980 Tim, Tim,220.000,27-09-1999,Alm. Salg,-,5,Villa,179,1967,,Aktuel værdi
+Rylevej 76980 Tim, Tim,419.802,20-09-1999,Alm. Salg,3.887,4,Villa,108,1966,,Aktuel værdi
+Hovedgaden 266980 Tim, Tim,487.239,31-08-1999,Alm. Salg,2.816,5,Rækkehus,173,1928,,Aktuel værdi
+Valmuevej 76980 Tim, Tim,156.192,27-08-1999,Fam. Salg,913,4,Stuehus,171,1900,,
+Tim Kirkevej 146980 Tim, Tim,728.000,23-08-1999,Alm. Salg,3.551,6,Stuehus,205,1914,,
+Tim Kirkevej 326980 Tim, Tim,321.987,23-08-1999,Alm. Salg,3.833,3,Villa,84,1963,,Aktuel værdi
+Tim Kirkevej 866980 Tim, Tim,925.000,30-07-1999,Alm. Salg,4.147,7,Stuehus,223,1875,,
+Trøstrupvej 146980 Tim, Tim,400.000,29-07-1999,Alm. Salg,3.846,3,Villa,104,1968,,Aktuel værdi
+Bjerregårdvej 76980 Tim, Tim,495.000,01-07-1999,Alm. Salg,3.173,5,Villa,156,1946,,Aktuel værdi
+Spættevej 16980 Tim, Tim,510.000,30-06-1999,Fam. Salg,3.984,4,Villa,128,1975,,Aktuel værdi
+Holstebrovej 1426980 Tim, Tim,135.000,25-06-1999,Alm. Salg,912,5,Villa,148,2000,,Aktuel værdi
+Skovduevej 26980 Tim, Tim,160.000,18-06-1999,Alm. Salg,1.103,4,Villa,145,2001,,Aktuel værdi
+Tim Kirkevej 56980 Tim, Tim,800.000,17-06-1999,Alm. Salg,4.347,6,Villa,184,1958,,Aktuel værdi
+Tranevej 36980 Tim, Tim,225.000,15-06-1999,Fam. Salg,1.630,4,Villa,138,1975,,Aktuel værdi
+Alrum 16980 Tim, Tim,65.000,07-06-1999,Alm. Salg,541,4,Sommerhus,120,2004,,Aktuel værdi
+Østerbyvej 126980 Tim, Tim,3.500.000,22-04-1999,Fam. Salg,14.893,9,Stuehus,235,1967,,
+Torstedvej 836980 Tim, Tim,1.800.000,06-03-1999,Alm. Salg,4.186,9,Stuehus,430,1950,,
+Høbrovej 56980 Tim, Tim,843.780,25-01-1999,Alm. Salg,-,6,Villa,181,1970,,Aktuel værdi
+Alrum 56980 Tim, Tim,45.000,19-01-1999,Alm. Salg,1.666,2,Sommerhus,27,2001,,Aktuel værdi
+Stadilvej 226980 Tim, Tim,292.700,07-01-1999,Alm. Salg,1.888,4,Stuehus,155,1850,,
+Vestervej 116980 Tim, Tim,137.500,01-12-1998,Alm. Salg,954,6,Stuehus,144,1895,,
+Møllegade 116980 Tim, Tim,474.998,04-11-1998,Alm. Salg,4.481,4,Villa,106,1977,,Aktuel værdi
+Mejlbyvej 86980 Tim, Tim,3.633.007,30-09-1998,Alm. Salg,16.513,8,Villa,220,1984,,Aktuel værdi
+Skannerupvej 266980 Tim, Tim,400.001,02-09-1998,Alm. Salg,-,3,Villa,150,1952,,Aktuel værdi
+Mejlbyvej 46980 Tim, Tim,195.500,03-08-1998,Fam. Salg,1.074,5,Villa,182,1939,,Aktuel værdi
+Pradsgaardsvej 66980 Tim, Tim,825.000,28-07-1998,Alm. Salg,4.342,7,Villa,190,1970,,Aktuel værdi
+Skannerupvej 186980 Tim, Tim,517.418,23-07-1998,Alm. Salg,5.334,4,Villa,97,1961,,Aktuel værdi
+Alrum 366980 Tim, Tim,365.000,30-06-1998,Alm. Salg,5.530,4,Sommerhus,66,1980,,Aktuel værdi
+Trøstrupvej 16980 Tim, Tim,103.155,19-06-1998,Alm. Salg,515,5,Villa,200,1999,,Aktuel værdi
+Stadiløvej 196980 Tim, Tim,543.708,17-06-1998,Alm. Salg,5.330,5,Stuehus,102,1000,,
+Torstedvej 226980 Tim, Tim,300.000,18-05-1998,Alm. Salg,2.439,4,Villa,123,1945,,Aktuel værdi
+Torstedvej 346980 Tim, Tim,330.000,08-05-1998,Alm. Salg,2.598,3,Villa,127,1890,,Aktuel værdi
+Møllebyvej 156980 Tim, Tim,2.529.000,24-04-1998,Fam. Salg,9.652,6,Stuehus,262,2012,,
+Holstebrovej 1236980 Tim, Tim,850.000,24-04-1998,Fam. Salg,3.971,6,Stuehus,214,1896,,
+Gejlvej 26980 Tim, Tim,350.000,15-04-1998,Fam. Salg,1.620,7,Villa,216,1900,,Aktuel værdi
+Torstedvej 57A6980 Tim, Tim,420.000,06-04-1998,Fam. Salg,4.516,9,Anden beboelse,93,1924,,Aktuel værdi
+Bjerregårdvej 186980 Tim, Tim,235.000,01-04-1998,Alm. Salg,1.598,4,Villa,147,1951,,Aktuel værdi
+Spættevej 106980 Tim, Tim,449.999,31-03-1998,Alm. Salg,4.245,4,Villa,106,1977,,Aktuel værdi
+Svingelvej 56980 Tim, Tim,2.640.000,24-03-1998,Alm. Salg,21.290,4,Stuehus,124,1975,,
+Bjerregårdvej 166980 Tim, Tim,625.908,22-03-1998,Alm. Salg,3.911,4,Villa,160,1950,,Aktuel værdi
+Mejlbyvej 246980 Tim, Tim,282.500,12-03-1998,Alm. Salg,2.690,5,Villa,105,1790,,Aktuel værdi
+Tim Kirkevej 28A6980 Tim, Tim,242.000,11-02-1998,Alm. Salg,1.110,4,Villa,218,1915,,Aktuel værdi
+Stadilvej 126980 Tim, Tim,976.000,19-01-1998,Alm. Salg,3.873,13,Stuehus,252,1843,,
+Torstedvej 476980 Tim, Tim,175.000,16-01-1998,Alm. Salg,-,4,Villa,105,1939,,Aktuel værdi
+Spættevej 136980 Tim, Tim,695.000,13-11-1997,Alm. Salg,4.727,5,Villa,147,1977,,Aktuel værdi
+Bjerregårdvej 116980 Tim, Tim,540.000,28-10-1997,Alm. Salg,4.736,4,Stuehus,114,1928,,
+Alrum 326980 Tim, Tim,73.000,09-10-1997,Alm. Salg,1.520,3,Sommerhus,48,1999,,Aktuel værdi
+Grønnevej 176980 Tim, Tim,475.000,17-09-1997,Alm. Salg,4.059,4,Villa,117,1972,,Aktuel værdi
+Tranevej 76980 Tim, Tim,750.000,15-09-1997,Alm. Salg,4.629,5,Villa,162,1974,,Aktuel værdi
+Tim Kirkevej 906980 Tim, Tim,525.000,11-09-1997,Alm. Salg,-,8,Stuehus,250,1912,,
+Skelmosevej 31B6980 Tim, Tim,561.000,25-08-1997,Alm. Salg,5.724,4,Villa,98,1878,,Aktuel værdi
+Tim Kirkevej 256980 Tim, Tim,400.000,25-08-1997,Alm. Salg,2.010,5,Stuehus,199,1877,,
+Fabriksvej 106980 Tim, Tim,80.000,15-08-1997,Alm. Salg,484,6,Villa,165,1998,,Aktuel værdi
+Skannerupvej 156980 Tim, Tim,300.000,29-07-1997,Alm. Salg,-,4,Villa,114,1967,,Aktuel værdi
+Hjejlevej 96980 Tim, Tim,650.000,03-07-1997,Alm. Salg,4.012,5,Villa,162,1973,,Aktuel værdi
+Svensgaardvej 9A6980 Tim, Tim,2.900.000,19-06-1997,Alm. Salg,-,5,Detailhandel,165,1977,,Aktuel værdi
+Hovedgaden 586980 Tim, Tim,170.000,18-06-1997,Alm. Salg,1.452,2,Villa,117,1908,,Aktuel værdi
+Trine Rahbeks Vej 106980 Tim, Tim,425.000,22-04-1997,Alm. Salg,4.427,2,Villa,96,1971,,Aktuel værdi
+Grønnevej 166980 Tim, Tim,586.000,29-03-1997,Alm. Salg,3.488,6,Villa,168,1971,,Aktuel værdi
+Møllegade 8A6980 Tim, Tim,659.000,19-03-1997,Alm. Salg,4.170,6,Villa,158,1906,,Aktuel værdi
+Holstebrovej 1176980 Tim, Tim,599.000,19-03-1997,Alm. Salg,2.559,8,Stuehus,234,1901,,
+Skelmosevej 66980 Tim, Tim,465.000,26-02-1997,Alm. Salg,7.750,5,Stuehus,60,1880,,
+Torstedvej 636980 Tim, Tim,207.000,07-02-1997,Alm. Salg,2.352,4,Villa,88,1951,,Aktuel værdi
+Fasanvej 116980 Tim, Tim,509.000,31-01-1997,Alm. Salg,5.357,3,Rækkehus,95,1989,,Aktuel værdi
+Klydevej 106980 Tim, Tim,500.000,17-01-1997,Alm. Salg,-,5,Villa,120,1980,,Aktuel værdi
+Skelmosevej 286980 Tim, Tim,310.000,06-11-1996,Alm. Salg,2.152,5,Villa,144,1942,,Aktuel værdi
+Hjejlevej 16980 Tim, Tim,495.070,23-10-1996,Alm. Salg,3.667,4,Villa,135,1973,,Aktuel værdi
+Østerbyvej 96980 Tim, Tim,195.000,16-10-1996,Alm. Salg,2.867,2,Villa,68,1938,,Aktuel værdi
+Stadilvej 266980 Tim, Tim,446.000,19-09-1996,Alm. Salg,2.973,3,Villa,150,1858,,Aktuel værdi
+Søruphusvej 16980 Tim, Tim,695.000,12-09-1996,Alm. Salg,5.265,4,Villa,132,1903,,Aktuel værdi
+Stadilvej 666980 Tim, Tim,310.000,11-09-1996,Alm. Salg,1.623,7,Villa,191,1924,,Aktuel værdi
+Svensgaardvej 36980 Tim, Tim,950.000,01-07-1996,Alm. Salg,-,5,Anden beboelse,239,1967,,Aktuel værdi
+Skannerupvej 136980 Tim, Tim,434.000,22-05-1996,Fam. Salg,3.709,4,Villa,117,1971,,Aktuel værdi
+Alrum 46980 Tim, Tim,356.708,12-04-1996,Alm. Salg,4.100,4,Sommerhus,87,1977,,Aktuel værdi
+Fasanvej 176980 Tim, Tim,155.000,01-04-1996,Alm. Salg,-,3,Villa,169,1950,,Aktuel værdi
+Fabriksvej 26980 Tim, Tim,600.000,19-02-1996,Alm. Salg,5.217,4,Rækkehus,115,1960,,Aktuel værdi
+Holstebrovej 1416980 Tim, Tim,69.960,04-02-1996,Alm. Salg,1.590,3,Sommerhus,44,1967,,Aktuel værdi
+Tranevej 86980 Tim, Tim,455.000,22-01-1996,Alm. Salg,3.640,4,Villa,125,1972,,Aktuel værdi
+Møllegade 146980 Tim, Tim,204.000,21-12-1995,Fam. Salg,2.266,3,Villa,90,1959,,Aktuel værdi
+Svingelvej 146980 Tim, Tim,676.000,14-11-1995,Alm. Salg,3.755,6,Villa,180,1973,,Aktuel værdi
+Nøderupvej 126980 Tim, Tim,529.000,09-11-1995,Alm. Salg,5.627,4,Villa,94,1983,,Aktuel værdi
+Østerbyvej 116980 Tim, Tim,690.000,07-08-1995,Fam. Salg,-,7,Stuehus,162,1965,,
+Holstebrovej 1286980 Tim, Tim,617.500,26-06-1995,Alm. Salg,-,7,Stuehus,150,1915,,
+Tim Kirkevej 186980 Tim, Tim,325.000,25-06-1995,Alm. Salg,1.692,6,Villa,192,1890,,Aktuel værdi
+Skovduevej 76980 Tim, Tim,730.000,21-06-1995,Alm. Salg,5.934,4,Villa,123,1988,,Aktuel værdi
+Skelmosevej 326980 Tim, Tim,570.000,10-06-1995,Alm. Salg,4.042,10,Stuehus,141,1869,,
+Grønnevej 96980 Tim, Tim,233.100,02-06-1995,Alm. Salg,2.241,5,Villa,104,1967,,Aktuel værdi
+Svingelvej 46980 Tim, Tim,920.000,30-05-1995,Alm. Salg,6.571,5,Stuehus,140,1971,,
+Grønbjergvej 96980 Tim, Tim,459.000,10-05-1995,Alm. Salg,2.833,4,Stuehus,162,1926,,
+Svingelvej 156980 Tim, Tim,238.000,23-03-1995,Fam. Salg,2.767,3,Stuehus,86,1000,,
+Skelmosevej 96980 Tim, Tim,10.000,24-02-1995,Alm. Salg,35,6,Stuehus,282,1827,,
+Mejlbyvej 56980 Tim, Tim,10.000,24-02-1995,Alm. Salg,62,4,Stuehus,160,1720,,
+Mejlbyvej 286980 Tim, Tim,86.021,10-02-1995,Alm. Salg,377,8,Stuehus,228,1827,,
+Tim Kirkevej 706980 Tim, Tim,203.234,10-02-1995,Alm. Salg,-,5,Villa,140,1952,,Aktuel værdi
+Holstebrovej 152B6980 Tim, Tim,1.350.000,10-02-1995,Alm. Salg,9.642,4,Stuehus,140,1914,,
+Opstrupvej 56980 Tim, Tim,55.935,31-01-1995,Alm. Salg,221,8,Stuehus,252,1993,,
+Kogsgårdsvej 16980 Tim, Tim,626.000,31-10-1994,Alm. Salg,3.639,6,Villa,172,1974,,Aktuel værdi
+Møllegade 226980 Tim, Tim,420.000,21-10-1994,Alm. Salg,-,6,Villa,165,1975,,Aktuel værdi
+Elmevej 216980 Tim, Tim,380.000,21-10-1994,Alm. Salg,-,6,Villa,187,1945,,Aktuel værdi
+Hovedgaden 726980 Tim, Tim,615.000,13-10-1994,Alm. Salg,3.236,7,Villa,190,1958,,Aktuel værdi
+Stadilvej 50B6980 Tim, Tim,155.000,19-09-1994,Alm. Salg,2.924,3,Villa,53,1984,,Aktuel værdi
+Hovedgaden 566980 Tim, Tim,96.328,29-06-1994,Fam. Salg,-,6,Villa,152,1896,,Aktuel værdi
+Brinkvej 86980 Tim, Tim,675.000,20-06-1994,Alm. Salg,-,6,Stuehus,202,1828,,
+Opstrupvej 36980 Tim, Tim,185.000,25-05-1994,Alm. Salg,1.250,3,Villa,148,1904,,Aktuel værdi
+Skelmosevej 136980 Tim, Tim,430.000,16-05-1994,Alm. Salg,3.553,7,Villa,121,1929,,Aktuel værdi
+Nybovej 16980 Tim, Tim,444.015,15-05-1994,Alm. Salg,-,4,Villa,163,1971,,Aktuel værdi
+Skannerupvej 10B6980 Tim, Tim,305.000,03-05-1994,Alm. Salg,3.860,3,Rækkehus,79,1979,,Aktuel værdi
+Skelmosevej 436980 Tim, Tim,325.000,13-04-1994,Alm. Salg,3.823,3,Villa,85,1976,,Aktuel værdi
+"Torstedvej 62, ST. TH6980 Tim", Tim,500.000,01-02-1994,Alm. Salg,3.521,8,Lejlighed,142,1934,,Aktuel værdi
+Bjerregårdvej 96980 Tim, Tim,130.000,13-01-1994,Alm. Salg,1.529,5,Villa,85,1938,,Aktuel værdi
+Tim Kirkevej 566980 Tim, Tim,65.000,11-01-1994,Alm. Salg,-,4,Villa,138,1911,,Aktuel værdi
+Klydevej 66980 Tim, Tim,541.601,07-01-1994,Alm. Salg,4.011,5,Villa,135,1986,,Aktuel værdi
+Høbrovej 36980 Tim, Tim,525.000,02-12-1993,Alm. Salg,2.853,8,Villa,184,1995,,Aktuel værdi
+Tim Kirkevej 436980 Tim, Tim,950.000,09-11-1993,Fam. Salg,6.375,5,Stuehus,149,2010,,
+Mejlbyvej 26980 Tim, Tim,226.526,29-10-1993,Fam. Salg,997,7,Villa,227,1850,,Aktuel værdi
+Stadilvej 656980 Tim, Tim,300.000,28-10-1993,Alm. Salg,2.830,8,Villa,106,1969,,Aktuel værdi
+Stationsvej 66980 Tim, Tim,310.250,16-09-1993,Fam. Salg,-,4,Anden beboelse,110,1930,,Aktuel værdi
+Solsortevej 26980 Tim, Tim,465.000,09-09-1993,Alm. Salg,-,4,Villa,136,1979,,Aktuel værdi
+Spættevej 66980 Tim, Tim,545.000,25-08-1993,Alm. Salg,3.920,5,Villa,139,1979,,Aktuel værdi
+Fabriksvej 116980 Tim, Tim,350.000,30-06-1993,Alm. Salg,2.046,7,Villa,171,1965,,Aktuel værdi
+Skolesvinget 36980 Tim, Tim,290.000,29-03-1993,Alm. Salg,2.612,5,Villa,111,1900,,Aktuel værdi
+Tim Kirkevej 266980 Tim, Tim,230.000,12-02-1993,Alm. Salg,2.090,4,Villa,110,1911,,Aktuel værdi
+Nørre Espvej 46980 Tim, Tim,175.000,04-01-1993,Alm. Salg,1.215,5,Stuehus,144,1894,,
+Sørupvej 36980 Tim, Tim,600.000,15-12-1992,Alm. Salg,5.128,4,Stuehus,117,1000,,
+Stadilvej 276980 Tim, Tim,210.000,29-10-1992,Alm. Salg,-,8,Stuehus,180,1914,,
+Svingelvej 126980 Tim, Tim,208.886,11-09-1992,Auktion,2.428,4,Villa,86,1960,,Aktuel værdi
+Halkærvej 106980 Tim, Tim,650.000,19-08-1992,Alm. Salg,2.653,8,Villa,245,1878,,Aktuel værdi
+Klydevej 76980 Tim, Tim,440.000,03-07-1992,Fam. Salg,3.928,5,Villa,112,1984,,Aktuel værdi
+Østerbyvej 156980 Tim, Tim,150.000,25-06-1992,Fam. Salg,2.142,2,Villa,70,1939,,Aktuel værdi
+Holstebrovej 1256980 Tim, Tim,350.000,24-06-1992,Alm. Salg,3.431,3,Stuehus,102,1905,,
+Torstedvej 936980 Tim, Tim,288.000,17-06-1992,Alm. Salg,2.851,3,Villa,101,1957,,Aktuel værdi
+Trine Rahbeks Vej 86980 Tim, Tim,480.000,16-05-1992,Fam. Salg,3.779,5,Villa,127,1974,,Aktuel værdi
+Fasanvej 146980 Tim, Tim,255.000,27-04-1992,Alm. Salg,2.198,6,Villa,116,1948,,Aktuel værdi
+Nybovej 76980 Tim, Tim,400.000,27-04-1992,Alm. Salg,2.777,5,Villa,144,1974,,Aktuel værdi
+Mellemvej 36980 Tim, Tim,130.000,30-03-1992,Fam. Salg,1.604,4,Villa,81,1910,,Aktuel værdi
+Møllegade 76980 Tim, Tim,172.000,14-03-1992,Alm. Salg,2.356,3,Villa,73,1956,,Aktuel værdi
+Bjerregårdvej 366980 Tim, Tim,117.261,04-03-1992,Alm. Salg,647,7,Stuehus,181,1917,,
+Hovedgaden 426980 Tim, Tim,275.000,30-01-1992,Alm. Salg,2.131,4,Rækkehus,129,1905,,Aktuel værdi

@@ -1,0 +1,418 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Tunnelvej 106392 Bolderslev,slev,150.000,24-04-2017,Alm. Salg,1.456,4,Villa,103,1955,-23 %,Aktuel værdi
+Østergade 136392 Bolderslev,slev,83.500,13-04-2017,Fam. Salg,423,7,Villa,197,1911,,Aktuel værdi
+Perbølvej 256392 Bolderslev,slev,900.000,07-02-2017,Andet,5.555,6,Villa,162,1952,,Aktuel værdi
+Perbølvej 26392 Bolderslev,slev,140.000,21-12-2016,Alm. Salg,952,4,Villa,147,1900,,Aktuel værdi
+Bolderslev Nørregade 206392 Bolderslev,slev,397.303,21-11-2016,Fam. Salg,2.964,5,Villa,134,1942,,Aktuel værdi
+Vollerupvej 356392 Bolderslev,slev,280.000,19-10-2016,Alm. Salg,2.074,2,Villa,135,1890,-38 %,Aktuel værdi
+Smedefod 126392 Bolderslev,slev,329.616,19-10-2016,Alm. Salg,2.746,4,Villa,120,1971,,Aktuel værdi
+Myrkærvej 146392 Bolderslev,slev,525.000,18-10-2016,Alm. Salg,3.387,6,Villa,155,1970,0 %,Aktuel værdi
+Myrkærvej 356392 Bolderslev,slev,495.000,05-10-2016,Alm. Salg,5.000,3,Villa,99,1973,,Aktuel værdi
+Myrkærvej 86392 Bolderslev,slev,650.000,03-10-2016,Alm. Salg,4.062,4,Villa,160,1969,-6 %,Aktuel værdi
+Vestergade 166392 Bolderslev,slev,675.000,03-10-2016,Alm. Salg,5.672,4,Villa,119,1956,0 %,Aktuel værdi
+Smedagervej 456392 Bolderslev,slev,595.000,21-09-2016,Alm. Salg,3.051,5,Stuehus,195,1734,-5 %,
+Urnehovedvej 856392 Bolderslev,slev,340.645,29-08-2016,Alm. Salg,2.270,5,Villa,150,1980,,Aktuel værdi
+Stadionvej 56392 Bolderslev,slev,250.000,29-08-2016,Alm. Salg,1.533,4,Villa,163,1976,-23 %,Aktuel værdi
+Bag Volden 286392 Bolderslev,slev,200.000,05-08-2016,Alm. Salg,1.470,5,Villa,136,1976,,Aktuel værdi
+Ingebølvej 536392 Bolderslev,slev,940.000,15-07-2016,Alm. Salg,5.838,6,Stuehus,161,1955,-6 %,
+Skansevej 36392 Bolderslev,slev,200.000,30-05-2016,Alm. Salg,1.851,4,Villa,108,1972,,Aktuel værdi
+Vollerup Søndermark 96392 Bolderslev,slev,620.000,03-05-2016,Alm. Salg,4.428,5,Villa,140,1962,-19 %,Aktuel værdi
+Vollerup Byvej 186392 Bolderslev,slev,205.000,21-04-2016,Alm. Salg,1.025,8,Villa,200,1890,,Aktuel værdi
+Urnehovedvej 146392 Bolderslev,slev,230.000,15-04-2016,Alm. Salg,1.811,4,Villa,127,1977,-22 %,Aktuel værdi
+Myrkærvej 316392 Bolderslev,slev,200.000,23-03-2016,Fam. Salg,2.247,4,Villa,89,1970,,Aktuel værdi
+Bolderslev Nørregade 146392 Bolderslev,slev,550.000,16-03-2016,Fam. Salg,4.661,4,Villa,118,1977,,Aktuel værdi
+Vollerup Nørrevej 76392 Bolderslev,slev,350.000,26-02-2016,Fam. Salg,1.871,6,Villa,187,1954,,Aktuel værdi
+Ingebølvej 156392 Bolderslev,slev,10.980.000,24-02-2016,Alm. Salg,62.742,7,Stuehus,175,1935,,
+Myrkærvej 106392 Bolderslev,slev,270.000,15-02-2016,Alm. Salg,2.547,4,Villa,106,1969,-10 %,Aktuel værdi
+Smedefod 516392 Bolderslev,slev,510.056,05-01-2016,Alm. Salg,2.032,10,Stuehus,251,1848,,
+Gåskær Byvej 96392 Bolderslev,slev,1.700.000,30-12-2015,Alm. Salg,7.981,7,Stuehus,213,2009,,
+Toften 56392 Bolderslev,slev,947.000,17-12-2015,Fam. Salg,7.174,5,Villa,132,1971,,Aktuel værdi
+Jernbanesvinget 76392 Bolderslev,slev,450.000,17-12-2015,Alm. Salg,1.351,6,Villa,333,1925,-9 %,Aktuel værdi
+Søndergade 246392 Bolderslev,slev,1.375.000,10-12-2015,Alm. Salg,8.593,4,Villa,160,2002,-5 %,Aktuel værdi
+Smedagervej 396392 Bolderslev,slev,58.000,15-07-2015,Alm. Salg,327,5,Stuehus,177,2003,,
+Bjolderupvej 326392 Bolderslev,slev,500.000,15-07-2015,Alm. Salg,1.838,7,Villa,272,1912,,Aktuel værdi
+Urnehovedvej 1156392 Bolderslev,slev,760.000,14-07-2015,Alm. Salg,6.551,4,Villa,116,1979,-4 %,Aktuel værdi
+Mellerup Bygade 26392 Bolderslev,slev,732.030,08-07-2015,Fam. Salg,4.692,5,Stuehus,156,1914,,
+Vestergade 136392 Bolderslev,slev,940.000,27-06-2015,Alm. Salg,5.802,6,Villa,162,1951,-6 %,Aktuel værdi
+Tunnelvej 86392 Bolderslev,slev,350.000,19-06-2015,Alm. Salg,3.500,4,Villa,100,1951,-11 %,Aktuel værdi
+Hjolderupvej 126392 Bolderslev,slev,1.200.000,27-05-2015,Alm. Salg,5.381,6,Villa,223,1862,,Aktuel værdi
+Vestergade 156392 Bolderslev,slev,625.000,10-04-2015,Alm. Salg,5.122,3,Villa,122,1957,-7 %,Aktuel værdi
+Smedefod 26392 Bolderslev,slev,1.195.000,09-04-2015,Alm. Salg,6.256,5,Villa,191,1911,0 %,Aktuel værdi
+Jernbanesvinget 86392 Bolderslev,slev,534.800,27-03-2015,Andet,3.183,5,Villa,168,1935,-44 %,Aktuel værdi
+Vestergade 286392 Bolderslev,slev,383.545,26-03-2015,Auktion,2.720,3,Villa,141,1927,-55 %,Aktuel værdi
+Vestergade 306392 Bolderslev,slev,637.000,25-03-2015,Alm. Salg,2.130,6,Villa,299,1934,-51 %,Aktuel værdi
+Perbølvej 46392 Bolderslev,slev,197.903,16-03-2015,Auktion,1.413,4,Villa,140,1957,,Aktuel værdi
+Bolderslev Nørregade 96392 Bolderslev,slev,253.000,19-02-2015,Auktion,1.437,12,Villa,176,1877,,Aktuel værdi
+Urnehovedvej 186392 Bolderslev,slev,501.500,05-02-2015,Fam. Salg,4.179,3,Villa,120,1976,,Aktuel værdi
+Rebbølvej 326392 Bolderslev,slev,450.000,22-01-2015,Alm. Salg,3.629,5,Villa,124,1875,,Aktuel værdi
+Bag Volden 26392 Bolderslev,slev,450.000,09-11-2014,Alm. Salg,2.960,6,Villa,152,1974,-24 %,Aktuel værdi
+Urnehovedvej 96392 Bolderslev,slev,12.505,07-11-2014,Alm. Salg,62,7,Villa,199,2015,,Aktuel værdi
+Rolighedsvej 26392 Bolderslev,slev,175.175,04-11-2014,Andet,1.288,4,Villa,136,1937,,Aktuel værdi
+Bjolderupvej 646392 Bolderslev,slev,431.500,02-11-2014,Alm. Salg,1.988,6,Stuehus,217,1900,,
+Urnehovedvej 336392 Bolderslev,slev,550.000,05-09-2014,Alm. Salg,4.661,4,Villa,118,1977,-4 %,Aktuel værdi
+Mellerup Bygade 96392 Bolderslev,slev,1.700.000,03-09-2014,Alm. Salg,11.409,4,Villa,149,2010,-6 %,Aktuel værdi
+Trekroner 116392 Bolderslev,slev,200.000,03-07-2014,Alm. Salg,2.500,3,Villa,80,1852,,Aktuel værdi
+Vollerup Byvej 26392 Bolderslev,slev,935.000,25-05-2014,Alm. Salg,5.026,3,Villa,186,1900,,Aktuel værdi
+Urnehovedvej 726392 Bolderslev,slev,875.000,17-04-2014,Alm. Salg,5.239,5,Villa,167,1978,,Aktuel værdi
+Ringvej 66392 Bolderslev,slev,4.507.510,15-04-2014,Alm. Salg,26.206,7,Stuehus,172,1976,,
+Smedefod 106392 Bolderslev,slev,430.000,22-03-2014,Alm. Salg,4.479,3,Villa,96,1964,-10 %,Aktuel værdi
+Myrkærvej 156392 Bolderslev,slev,375.000,21-03-2014,Alm. Salg,3.750,3,Villa,100,1969,-17 %,Aktuel værdi
+Urnehovedvej 396392 Bolderslev,slev,418.233,14-03-2014,Andet,3.217,4,Villa,130,1978,,Aktuel værdi
+Stadionvej 216392 Bolderslev,slev,80.000,10-03-2014,Auktion,640,4,Villa,125,1940,,Aktuel værdi
+Egevænget 56392 Bolderslev,slev,1.200.000,07-02-2014,Alm. Salg,6.629,8,Villa,181,2001,-4 %,Aktuel værdi
+Vestergade 256392 Bolderslev,slev,765.000,20-01-2014,Alm. Salg,6.594,3,Villa,116,1951,0 %,Aktuel værdi
+Gåskær Byvej 226392 Bolderslev,slev,586.500,19-12-2013,Fam. Salg,3.086,5,Stuehus,190,1720,,
+Vestergade 236392 Bolderslev,slev,195.000,23-10-2013,Alm. Salg,1.857,4,Villa,105,1952,-34 %,Aktuel værdi
+Bag Volden 346392 Bolderslev,slev,520.000,02-09-2013,Alm. Salg,4.000,4,Villa,130,1974,-5 %,Aktuel værdi
+Myrkærvej 56392 Bolderslev,slev,229.000,16-08-2013,Alm. Salg,2.436,4,Villa,94,1967,-35 %,Aktuel værdi
+Mellerup Bygade 36392 Bolderslev,slev,535.000,01-08-2013,Alm. Salg,2.955,6,Stuehus,181,1856,,
+Stadionvej 3A6392 Bolderslev,slev,839.000,12-06-2013,Alm. Salg,6.261,9,Ukendt,134,1978,0 %,Aktuel værdi
+Smedefod 66392 Bolderslev,slev,105.000,16-05-2013,Alm. Salg,1.206,4,Villa,87,1927,-58 %,Aktuel værdi
+Urnehovedvej 1186392 Bolderslev,slev,622.219,19-02-2013,Alm. Salg,4.066,8,Villa,153,1999,,Aktuel værdi
+Urnehovedvej 686392 Bolderslev,slev,527.000,15-02-2013,Alm. Salg,4.543,4,Villa,116,1976,,Aktuel værdi
+Vollerup Møllevej 76392 Bolderslev,slev,530.000,14-01-2013,Alm. Salg,3.680,5,Villa,144,1963,,Aktuel værdi
+Obbehusvej 66392 Bolderslev,slev,2.691.750,03-01-2013,Alm. Salg,18.311,5,Stuehus,147,1959,,
+Hjordkærvej 246392 Bolderslev,slev,857.500,19-12-2012,Alm. Salg,4.102,10,Stuehus,209,1827,,
+Urnehovedvej 1166392 Bolderslev,slev,1.275.000,11-12-2012,Alm. Salg,8.854,5,Villa,144,1999,-7 %,Aktuel værdi
+Perbølvej 36392 Bolderslev,slev,855.000,21-10-2012,Alm. Salg,9.293,4,Villa,92,1949,-4 %,Aktuel værdi
+Smedefod 206392 Bolderslev,slev,520.000,16-10-2012,Alm. Salg,2.708,4,Villa,192,1968,-13 %,Aktuel værdi
+Brogade 26392 Bolderslev,slev,940.000,07-10-2012,Alm. Salg,6.184,6,Villa,152,1921,-6 %,Aktuel værdi
+Vollerup Byvej 686392 Bolderslev,slev,875.000,28-09-2012,Alm. Salg,4.807,6,Villa,182,1927,-32 %,Aktuel værdi
+Skansevej 46392 Bolderslev,slev,480.000,10-09-2012,Auktion,2.105,7,Villa,228,1909,,Aktuel værdi
+Vollerup Byvej 316392 Bolderslev,slev,900.000,04-07-2012,Alm. Salg,3.146,8,Villa,286,1993,,Aktuel værdi
+Urnehovedvej 1086392 Bolderslev,slev,1.045.000,28-03-2012,Alm. Salg,7.206,5,Villa,145,1980,0 %,Aktuel værdi
+Vollerupmarkvej 56392 Bolderslev,slev,1.350.000,27-03-2012,Alm. Salg,10.000,4,Villa,135,1959,,Aktuel værdi
+Rebbølvej 286392 Bolderslev,slev,690.000,26-03-2012,Alm. Salg,2.555,6,Stuehus,270,1890,,
+Rebbølvej 416392 Bolderslev,slev,690.000,26-03-2012,Alm. Salg,3.729,5,Stuehus,185,2007,,
+Hellevad-Bovvej 106392 Bolderslev,slev,710.000,01-03-2012,Auktion,5.916,4,Villa,120,1964,,Aktuel værdi
+Toften 136392 Bolderslev,slev,900.000,30-01-2012,Alm. Salg,5.769,5,Villa,156,1973,,Aktuel værdi
+Bjolderupvej 716392 Bolderslev,slev,299.797,30-12-2011,Fam. Salg,1.469,6,Villa,204,1902,-60 %,Aktuel værdi
+Skansevej 106392 Bolderslev,slev,775.000,13-12-2011,Alm. Salg,5.236,5,Villa,148,1945,,Aktuel værdi
+Bjolderupvej 16392 Bolderslev,slev,1.395.000,10-11-2011,Alm. Salg,8.157,5,Villa,171,1974,0 %,Aktuel værdi
+Bag Volden 256392 Bolderslev,slev,1.035.000,10-11-2011,Alm. Salg,7.288,4,Villa,142,1974,-1 %,Aktuel værdi
+Brogade 16392 Bolderslev,slev,256.650,16-09-2011,Fam. Salg,-,4,Villa,118,1940,,Aktuel værdi
+Gammel Søndergade 166392 Bolderslev,slev,1.395.000,27-06-2011,Alm. Salg,9.300,4,Villa,150,1983,,Aktuel værdi
+Myrkærvej 26392 Bolderslev,slev,535.000,10-06-2011,Alm. Salg,3.715,6,Villa,144,1965,-5 %,Aktuel værdi
+Rebbølvej 256392 Bolderslev,slev,390.000,22-03-2011,Alm. Salg,1.857,6,Villa,210,1920,-51 %,Aktuel værdi
+Myrkærvej 1A6392 Bolderslev,slev,860.000,11-03-2011,Alm. Salg,7.107,3,Villa,121,1976,-1 %,Aktuel værdi
+Bolderslevskovvej 16392 Bolderslev,slev,635.000,02-03-2011,Alm. Salg,4.123,6,Villa,154,1927,0 %,Aktuel værdi
+Rebbølvej 356392 Bolderslev,slev,1.641.000,28-12-2010,Alm. Salg,8.123,6,Stuehus,202,2012,,
+Gåskær Byvej 136392 Bolderslev,slev,1.850.000,22-12-2010,Andet,7.312,8,Stuehus,253,1934,,
+Bag Volden 236392 Bolderslev,slev,835.000,06-12-2010,Alm. Salg,5.422,4,Villa,154,1973,0 %,Aktuel værdi
+Vollerup Byvej 126392 Bolderslev,slev,1.225.000,19-11-2010,Alm. Salg,5.833,6,Villa,210,1907,-5 %,Aktuel værdi
+Søndergade 1A6392 Bolderslev,slev,100.000,08-11-2010,Auktion,1.041,3,Villa,96,1905,,Aktuel værdi
+Stadionvej 226392 Bolderslev,slev,800.000,02-11-2010,Alm. Salg,6.896,4,Villa,116,1952,-5 %,Aktuel værdi
+Gåskær Byvej 86392 Bolderslev,slev,425.000,26-10-2010,Fam. Salg,2.335,8,Villa,182,1917,,Aktuel værdi
+Hjordkærvej 176392 Bolderslev,slev,300.000,21-10-2010,Auktion,1.948,5,Villa,154,1912,,Aktuel værdi
+Porsbølvej 116392 Bolderslev,slev,2.476.000,14-10-2010,Alm. Salg,8.627,7,Stuehus,287,1908,,
+Bjolderupvej 666392 Bolderslev,slev,1.275.000,05-07-2010,Alm. Salg,7.083,4,Villa,180,1878,-9 %,Aktuel værdi
+Bolderslevskovvej 206392 Bolderslev,slev,450.000,29-06-2010,Alm. Salg,6.923,2,Rækkehus,65,1979,-10 %,Aktuel værdi
+Nygårdvej 96392 Bolderslev,slev,750.000,17-06-2010,Alm. Salg,7.653,3,Villa,98,1950,,Aktuel værdi
+Nygade 46392 Bolderslev,slev,685.000,16-06-2010,Alm. Salg,6.227,4,Villa,110,1963,-2 %,Aktuel værdi
+Hjordkærvej 186392 Bolderslev,slev,400.000,26-05-2010,Alm. Salg,1.538,7,Villa,260,1900,-46 %,Aktuel værdi
+Vollerup Byvej 466392 Bolderslev,slev,610.000,22-05-2010,Alm. Salg,2.469,7,Villa,247,1831,-6 %,Aktuel værdi
+Søndergade 226392 Bolderslev,slev,650.000,21-05-2010,Alm. Salg,3.571,6,Villa,182,1890,-5 %,Aktuel værdi
+Skansevej 26392 Bolderslev,slev,785.000,20-05-2010,Alm. Salg,5.992,4,Villa,131,1950,0 %,Aktuel værdi
+Bag Volden 13A6392 Bolderslev,slev,845.000,20-05-2010,Alm. Salg,6.814,4,Villa,124,1980,-2 %,Aktuel værdi
+Urnehovedvej 776392 Bolderslev,slev,462.135,09-03-2010,Alm. Salg,3.300,5,Villa,140,1979,,Aktuel værdi
+Bjolderupvej 216392 Bolderslev,slev,665.000,06-03-2010,Alm. Salg,5.732,3,Villa,116,1963,-8 %,Aktuel værdi
+Myrkærvej 1B6392 Bolderslev,slev,550.000,05-03-2010,Alm. Salg,4.583,3,Villa,120,1976,-12 %,Aktuel værdi
+Urnehovedvej 246392 Bolderslev,slev,455.000,19-02-2010,Alm. Salg,3.669,3,Villa,124,1976,,Aktuel værdi
+Bag Volden 316392 Bolderslev,slev,795.000,12-02-2010,Alm. Salg,5.371,5,Villa,148,1973,0 %,Aktuel værdi
+Stadionvej 166392 Bolderslev,slev,800.000,08-02-2010,Alm. Salg,4.761,5,Villa,168,1931,,Aktuel værdi
+Rebbølvej 346392 Bolderslev,slev,625.000,08-02-2010,Auktion,3.289,6,Stuehus,190,1870,,
+Myrkærvej 36392 Bolderslev,slev,500.000,07-01-2010,Alm. Salg,4.464,4,Villa,112,1965,-23 %,Aktuel værdi
+Ingebølvej 186392 Bolderslev,slev,400.000,27-12-2009,Alm. Salg,3.333,5,Stuehus,120,1936,,
+Stadionvej 206392 Bolderslev,slev,390.000,09-12-2009,Alm. Salg,4.482,3,Villa,87,1952,,Aktuel værdi
+Porskær 36392 Bolderslev,slev,525.000,28-10-2009,Alm. Salg,3.409,6,Villa,154,1907,,Aktuel værdi
+Obbehusvej 206392 Bolderslev,slev,1.050.000,14-10-2009,Alm. Salg,4.338,6,Stuehus,242,1700,-28 %,
+Urnehovedvej 66392 Bolderslev,slev,830.000,12-08-2009,Alm. Salg,5.155,6,Villa,161,1979,-2 %,Aktuel værdi
+Gammel Søndergade 96392 Bolderslev,slev,610.000,12-08-2009,Alm. Salg,3.765,5,Villa,162,1795,-10 %,Aktuel værdi
+Myrkærvej 1C6392 Bolderslev,slev,640.000,17-07-2009,Alm. Salg,5.289,4,Villa,121,1976,-5 %,Aktuel værdi
+Stadionvej 266392 Bolderslev,slev,455.233,16-07-2009,Andet,4.138,5,Villa,110,1947,,Aktuel værdi
+Perbølvej 376392 Bolderslev,slev,500.000,11-07-2009,Fam. Salg,3.030,4,Villa,165,1903,,Aktuel værdi
+Urnehovedvej 1016392 Bolderslev,slev,50.000,03-05-2009,Alm. Salg,297,6,Villa,168,2010,,Aktuel værdi
+Rebbølvej 156392 Bolderslev,slev,2.400.000,20-04-2009,Alm. Salg,12.307,7,Stuehus,195,1928,-4 %,
+Bolderslevskovvej 186392 Bolderslev,slev,460.000,17-04-2009,Alm. Salg,7.076,2,Rækkehus,65,1979,-3 %,Aktuel værdi
+Mellerup Toftevej 26392 Bolderslev,slev,345.000,26-02-2009,Alm. Salg,1.597,7,Stuehus,216,1928,,
+Mellerup Bygade 116392 Bolderslev,slev,350.000,02-02-2009,Alm. Salg,3.333,3,Villa,105,1946,-11 %,Aktuel værdi
+Søndergade 206392 Bolderslev,slev,275.000,29-01-2009,Auktion,1.141,7,Villa,241,1856,,Aktuel værdi
+Rebbølvej 146392 Bolderslev,slev,30.200.000,12-01-2009,Fam. Salg,204.054,3,Stuehus,148,1912,,
+Østergade 36392 Bolderslev,slev,800.000,01-12-2008,Andet,4.519,7,Villa,177,1878,,Aktuel værdi
+Skansevej 126392 Bolderslev,slev,850.000,12-11-2008,Alm. Salg,6.159,4,Villa,138,1900,0 %,Aktuel værdi
+Urnehovedvej 1106392 Bolderslev,slev,1.275.509,16-10-2008,Alm. Salg,6.377,6,Villa,200,1980,,Aktuel værdi
+Bolderslev Hovedgade 306392 Bolderslev,slev,450.000,23-09-2008,Auktion,5.487,9,Detailhandel,82,1920,,Aktuel værdi
+Stadionvej 196392 Bolderslev,slev,765.000,10-09-2008,Alm. Salg,4.664,5,Villa,164,1940,0 %,Aktuel værdi
+Perbølvej 356392 Bolderslev,slev,550.000,05-09-2008,Fam. Salg,3.525,6,Villa,156,1780,,Aktuel værdi
+Bolderslev Hovedgade 256392 Bolderslev,slev,425.000,04-09-2008,Alm. Salg,3.269,5,Villa,130,1908,-11 %,Aktuel værdi
+Bolderslev Hovedgade 56392 Bolderslev,slev,810.000,26-07-2008,Alm. Salg,4.263,5,Villa,190,1907,-5 %,Aktuel værdi
+Obbehusvej 226392 Bolderslev,slev,457.142,25-07-2008,Alm. Salg,4.232,4,Villa,108,1961,-2 %,Aktuel værdi
+Jernbanesvinget 116392 Bolderslev,slev,600.000,21-07-2008,Andet,4.026,7,Villa,149,1931,,Aktuel værdi
+Søndergade 3B6392 Bolderslev,slev,960.000,17-07-2008,Alm. Salg,7.164,5,Villa,134,1977,-2 %,Aktuel værdi
+Oksevejen 556392 Bolderslev,slev,12.095.006,01-07-2008,Fam. Salg,60.778,4,Stuehus,199,1925,,
+Jernbanesvinget 96392 Bolderslev,slev,575.000,28-06-2008,Alm. Salg,5.227,5,Villa,110,1935,,Aktuel værdi
+Industrivej 36392 Bolderslev,slev,6.000.000,27-06-2008,Andet,49.180,5,Villa,122,1976,,Aktuel værdi
+Bolderslev Hovedgade 206392 Bolderslev,slev,2.000.000,16-05-2008,Alm. Salg,6.514,8,Villa,307,1857,,Aktuel værdi
+Myrkærvej 96392 Bolderslev,slev,400.000,29-04-2008,Alm. Salg,-,4,Villa,158,1969,-11 %,Aktuel værdi
+Toften 76392 Bolderslev,slev,1.295.000,28-04-2008,Alm. Salg,5.833,8,Villa,222,1972,0 %,Aktuel værdi
+Drejervej 26392 Bolderslev,slev,875.000,21-04-2008,Alm. Salg,5.608,4,Villa,156,1979,,Aktuel værdi
+Søndergade 116392 Bolderslev,slev,585.000,14-04-2008,Alm. Salg,7.905,3,Villa,74,1964,-2 %,Aktuel værdi
+Bag Volden 276392 Bolderslev,slev,785.000,26-03-2008,Alm. Salg,6.487,4,Villa,121,1978,0 %,Aktuel værdi
+Bag Volden 406392 Bolderslev,slev,1.020.000,03-03-2008,Alm. Salg,5.340,7,Villa,191,1973,,Aktuel værdi
+Gåskær Byvej 156392 Bolderslev,slev,1.075.000,26-02-2008,Alm. Salg,-,8,Villa,221,1640,,Aktuel værdi
+Bolderslevskovvej 46392 Bolderslev,slev,292.500,24-02-2008,Andet,1.989,4,Villa,147,1948,,Aktuel værdi
+Smedagervej 376392 Bolderslev,slev,510.000,22-01-2008,Fam. Salg,3.445,4,Villa,148,1936,,Aktuel værdi
+Vollerup Byvej 506392 Bolderslev,slev,674.000,10-01-2008,Fam. Salg,4.186,7,Villa,161,1912,,Aktuel værdi
+Stadionvej 306392 Bolderslev,slev,715.000,10-12-2007,Fam. Salg,2.440,6,Villa,293,1944,,Aktuel værdi
+Bjolderupvej 896392 Bolderslev,slev,1.005.000,06-12-2007,Alm. Salg,5.075,7,Villa,198,1900,3 %,Aktuel værdi
+Bolderslevskovvej 166392 Bolderslev,slev,575.000,28-11-2007,Alm. Salg,7.666,3,Rækkehus,75,1979,0 %,Aktuel værdi
+Bolderslev Nørregade 76392 Bolderslev,slev,1.325.000,24-11-2007,Alm. Salg,5.000,6,Villa,265,1877,,Aktuel værdi
+Stadionvej 106392 Bolderslev,slev,500.000,12-11-2007,Alm. Salg,4.761,3,Villa,105,1918,,Aktuel værdi
+Stormsgårdevej 116392 Bolderslev,slev,1.275.000,12-11-2007,Alm. Salg,5.268,8,Villa,242,1940,-5 %,Aktuel værdi
+Ingebølvej 46392 Bolderslev,slev,12.950.000,05-11-2007,Alm. Salg,37.755,5,Stuehus,343,2006,,
+Æ Stajsvej 206392 Bolderslev,slev,642.000,29-10-2007,Andet,2.140,7,Villa,300,1827,,Aktuel værdi
+Vollerup Byvej 406392 Bolderslev,slev,6.500.000,29-10-2007,Alm. Salg,26.748,12,Stuehus,243,1881,,
+Myrkærvej 276392 Bolderslev,slev,345.000,17-10-2007,Andet,2.129,6,Villa,162,1970,,Aktuel værdi
+Stormsgårdevej 156392 Bolderslev,slev,26.013.976,16-10-2007,Fam. Salg,122.131,5,Stuehus,213,1949,,
+Mellerup Bygade 106392 Bolderslev,slev,750.000,05-10-2007,Alm. Salg,5.725,4,Villa,131,1868,0 %,Aktuel værdi
+Myrkærvej 46392 Bolderslev,slev,825.000,06-07-2007,Alm. Salg,5.978,5,Villa,138,1965,,Aktuel værdi
+Østergade 156392 Bolderslev,slev,1.180.000,20-06-2007,Alm. Salg,4.259,8,Stuehus,277,2011,,
+Urnehovedvej 836392 Bolderslev,slev,965.000,18-05-2007,Alm. Salg,7.255,5,Villa,133,1981,,Aktuel værdi
+Gåskær Byvej 16392 Bolderslev,slev,895.000,25-04-2007,Alm. Salg,3.302,8,Stuehus,271,1922,,
+Urnehovedvej 1256392 Bolderslev,slev,35.000,27-03-2007,Alm. Salg,207,7,Villa,169,2008,,Aktuel værdi
+Vollerup Byvej 436392 Bolderslev,slev,950.000,26-03-2007,Alm. Salg,2.519,10,Villa,377,1910,,Aktuel værdi
+Hjordkærvej 216392 Bolderslev,slev,2.120.000,08-02-2007,Fam. Salg,8.870,5,Stuehus,239,1880,,
+Østergade 146392 Bolderslev,slev,2.151.000,01-02-2007,Fam. Salg,9.958,8,Stuehus,216,1928,,
+Nygade 56392 Bolderslev,slev,665.000,16-01-2007,Alm. Salg,7.823,4,Villa,85,1965,,Aktuel værdi
+Bolderslev Nørregade 56392 Bolderslev,slev,1.200.000,28-11-2006,Alm. Salg,6.060,7,Villa,198,1911,,Aktuel værdi
+Bolderslev Hovedgade 346392 Bolderslev,slev,280.000,31-10-2006,Fam. Salg,3.111,4,Villa,90,1913,,Aktuel værdi
+Myrkærvej 126392 Bolderslev,slev,650.000,12-10-2006,Alm. Salg,5.508,3,Villa,118,1967,,Aktuel værdi
+Urnehovedvej 976392 Bolderslev,slev,925.000,13-09-2006,Alm. Salg,8.980,4,Villa,103,1981,,Aktuel værdi
+Stadionvej 66392 Bolderslev,slev,1.025.000,18-08-2006,Alm. Salg,5.823,6,Villa,176,1912,,Aktuel værdi
+Vestergade 246392 Bolderslev,slev,500.000,06-07-2006,Alm. Salg,-,8,Villa,250,1911,,Aktuel værdi
+Bredhøjvej 126392 Bolderslev,slev,700.000,26-06-2006,Fam. Salg,4.402,5,Villa,159,1923,,Aktuel værdi
+Vestergade 116392 Bolderslev,slev,343.000,19-06-2006,Alm. Salg,3.811,3,Villa,90,1934,,Aktuel værdi
+Urnehovedvej 216392 Bolderslev,slev,35.500,01-06-2006,Alm. Salg,179,7,Villa,198,2007,,Aktuel værdi
+Bag Volden 166392 Bolderslev,slev,745.000,23-05-2006,Fam. Salg,4.627,6,Villa,161,1972,,Aktuel værdi
+Østergade 126392 Bolderslev,slev,1.100.000,22-05-2006,Alm. Salg,3.618,16,Villa,304,1927,,Aktuel værdi
+Stadionvej 156392 Bolderslev,slev,610.000,12-05-2006,Alm. Salg,5.213,4,Villa,117,1946,,Aktuel værdi
+Vollerup Byvej 246392 Bolderslev,slev,129.629,08-05-2006,Alm. Salg,566,8,Stuehus,229,1870,,
+Urnehovedvej 536392 Bolderslev,slev,35.100,08-04-2006,Alm. Salg,220,4,Villa,159,2006,,Aktuel værdi
+Urnehovedvej 626392 Bolderslev,slev,650.000,04-04-2006,Fam. Salg,5.603,4,Villa,116,1976,,Aktuel værdi
+Smedefod 46392 Bolderslev,slev,940.000,16-03-2006,Alm. Salg,6.064,5,Villa,155,1924,,Aktuel værdi
+Vestergade 216392 Bolderslev,slev,625.000,03-03-2006,Alm. Salg,4.664,5,Villa,134,1913,,Aktuel værdi
+Stadionvej 96392 Bolderslev,slev,725.000,20-02-2006,Fam. Salg,5.370,4,Villa,135,1972,,Aktuel værdi
+Bjolderupvej 36392 Bolderslev,slev,1.370.000,20-02-2006,Fam. Salg,7.919,8,Villa,173,1976,,Aktuel værdi
+Vestergade 96392 Bolderslev,slev,945.000,16-02-2006,Alm. Salg,6.948,6,Villa,136,1924,,Aktuel værdi
+Vollerup Byvej 226392 Bolderslev,slev,900.000,09-02-2006,Alm. Salg,3.688,7,Villa,244,1919,,Aktuel værdi
+Søndergade 76392 Bolderslev,slev,625.000,02-02-2006,Alm. Salg,4.401,7,Villa,142,1900,,Aktuel værdi
+Ringvej 26392 Bolderslev,slev,3.034.500,22-12-2005,Fam. Salg,13.607,6,Stuehus,223,1920,,
+Vestergade 106392 Bolderslev,slev,650.000,29-11-2005,Andet,3.037,8,Villa,214,1931,,Aktuel værdi
+Ny Porsbølvej 46392 Bolderslev,slev,4.050.000,24-10-2005,Fam. Salg,18.837,8,Stuehus,215,1930,,
+Gammel Søndergade 86392 Bolderslev,slev,795.000,10-09-2005,Alm. Salg,4.441,7,Villa,179,1975,,Aktuel værdi
+Hjordkærvej 166392 Bolderslev,slev,900.000,30-08-2005,Alm. Salg,4.568,5,Villa,197,1847,,Aktuel værdi
+Gåskær Byvej 216392 Bolderslev,slev,267.750,25-08-2005,Fam. Salg,1.416,5,Villa,189,2010,,Aktuel værdi
+Myrkærvej 376392 Bolderslev,slev,640.000,09-08-2005,Alm. Salg,5.079,4,Villa,126,1969,,Aktuel værdi
+Vestergade 196392 Bolderslev,slev,1.270.000,05-08-2005,Alm. Salg,5.934,6,Villa,214,1920,,Aktuel værdi
+Østergade 46392 Bolderslev,slev,900.000,29-07-2005,Alm. Salg,3.103,9,Villa,290,1913,,Aktuel værdi
+Myrkærvej 186392 Bolderslev,slev,545.000,21-07-2005,Alm. Salg,5.677,3,Villa,96,1967,,Aktuel værdi
+Toften 16392 Bolderslev,slev,510.000,14-07-2005,Alm. Salg,3.750,5,Villa,136,1973,,Aktuel værdi
+Søndergade 56392 Bolderslev,slev,275.000,14-07-2005,Alm. Salg,3.197,3,Villa,86,1827,,Aktuel værdi
+Bolderslev Nørregade 106392 Bolderslev,slev,362.000,13-06-2005,Alm. Salg,3.067,4,Villa,118,1977,,Aktuel værdi
+Vollerup Byvej 486392 Bolderslev,slev,900.000,10-06-2005,Alm. Salg,3.103,8,Stuehus,290,1913,,
+Vollerup Byvej 106392 Bolderslev,slev,395.000,27-04-2005,Alm. Salg,3.950,3,Villa,100,1960,,Aktuel værdi
+Bolderslev Hovedgade 246392 Bolderslev,slev,760.000,21-04-2005,Auktion,-,8,Villa,261,1934,,Aktuel værdi
+Skansevej 16392 Bolderslev,slev,40.000,03-04-2005,Alm. Salg,310,4,Villa,129,2006,,Aktuel værdi
+Bolderslev Hovedgade 216392 Bolderslev,slev,300.000,28-03-2005,Alm. Salg,1.345,7,Villa,223,1900,,Aktuel værdi
+Vollerup Byvej 346392 Bolderslev,slev,550.000,22-03-2005,Fam. Salg,5.500,3,Villa,100,1973,,Aktuel værdi
+Vestergade 276392 Bolderslev,slev,665.000,03-03-2005,Alm. Salg,4.889,4,Villa,136,1956,,Aktuel værdi
+Bag Volden 106392 Bolderslev,slev,455.547,01-03-2005,Alm. Salg,2.883,5,Villa,158,1974,,Aktuel værdi
+Rebbølvej 426392 Bolderslev,slev,870.000,26-02-2005,Alm. Salg,6.350,5,Villa,137,1989,,Aktuel værdi
+Bag Volden 306392 Bolderslev,slev,800.000,23-02-2005,Alm. Salg,5.333,4,Villa,150,1973,,Aktuel værdi
+Bolderslev Hovedgade 236392 Bolderslev,slev,635.000,22-02-2005,Alm. Salg,3.175,6,Villa,200,1900,,Aktuel værdi
+Østergade 106392 Bolderslev,slev,550.000,07-12-2004,Alm. Salg,4.296,4,Villa,128,1870,,Aktuel værdi
+Østergade 196392 Bolderslev,slev,450.000,02-12-2004,Alm. Salg,2.500,7,Villa,180,1662,,Aktuel værdi
+Myrkærvej 396392 Bolderslev,slev,650.000,03-06-2004,Alm. Salg,4.391,5,Villa,148,1970,,Aktuel værdi
+Hjordkærvej 116392 Bolderslev,slev,2.800.000,28-05-2004,Alm. Salg,12.556,9,Stuehus,223,1926,,
+Vestergade 176392 Bolderslev,slev,587.500,25-05-2004,Auktion,5.199,4,Villa,113,1955,,Aktuel værdi
+Toften 146392 Bolderslev,slev,475.000,25-03-2004,Alm. Salg,4.750,3,Villa,100,1971,,Aktuel værdi
+Urnehovedvej 826392 Bolderslev,slev,500.000,24-03-2004,Alm. Salg,4.132,4,Villa,121,1978,,Aktuel værdi
+Industrivej 86392 Bolderslev,slev,392.000,09-03-2004,Auktion,3.266,4,Villa,120,1988,,Aktuel værdi
+Urnehovedvej 1026392 Bolderslev,slev,1.010.000,25-02-2004,Alm. Salg,7.013,5,Villa,144,1997,,Aktuel værdi
+Østergade 66392 Bolderslev,slev,400.000,16-12-2003,Alm. Salg,4.000,3,Villa,100,1967,,Aktuel værdi
+Rolighedsvej 86392 Bolderslev,slev,345.000,02-12-2003,Alm. Salg,3.415,5,Villa,101,1920,,Aktuel værdi
+Hjolderupvej 146392 Bolderslev,slev,425.000,17-11-2003,Fam. Salg,2.724,6,Villa,156,1950,,Aktuel værdi
+Urnehovedvej 46392 Bolderslev,slev,865.000,17-11-2003,Alm. Salg,4.914,5,Villa,176,1977,,Aktuel værdi
+Østergade 206392 Bolderslev,slev,697.368,19-09-2003,Alm. Salg,3.099,7,Stuehus,225,1828,,
+Smedagervej 476392 Bolderslev,slev,75.000,11-09-2003,Alm. Salg,280,7,Stuehus,267,1827,,
+Gåskær Byvej 46392 Bolderslev,slev,4.000.000,04-08-2003,Fam. Salg,11.494,12,Stuehus,348,2010,,
+Vollerup Møllevej 96392 Bolderslev,slev,417.965,29-07-2003,Alm. Salg,3.454,5,Villa,121,1909,,Aktuel værdi
+Vollerup Byvej 266392 Bolderslev,slev,4.817.905,24-07-2003,Fam. Salg,18.044,8,Stuehus,267,1911,,
+Bjolderupvej 306392 Bolderslev,slev,400.000,23-07-2003,Alm. Salg,1.777,5,Villa,225,1909,,Aktuel værdi
+Stadionvej 246392 Bolderslev,slev,470.000,08-07-2003,Alm. Salg,4.519,4,Villa,104,1953,,Aktuel værdi
+Vollerup Byvej 516392 Bolderslev,slev,595.000,26-06-2003,Alm. Salg,2.846,5,Villa,209,1716,,Aktuel værdi
+Bjolderupvej 856392 Bolderslev,slev,6.701.050,12-06-2003,Alm. Salg,25.097,8,Stuehus,267,1887,,
+Vollerup Byvej 646392 Bolderslev,slev,996.000,25-05-2003,Alm. Salg,7.217,5,Villa,138,1930,,Aktuel værdi
+Nygårdvej 116392 Bolderslev,slev,6.000.000,26-03-2003,Alm. Salg,11.342,10,Stuehus,529,1914,,
+Hjolderupvej 116392 Bolderslev,slev,703.762,12-03-2003,Alm. Salg,3.783,3,Villa,186,1890,,Aktuel værdi
+Bolderslev Hovedgade 86392 Bolderslev,slev,610.000,04-03-2003,Alm. Salg,-,5,Villa,272,1897,,Aktuel værdi
+Bolderslev Hovedgade 196392 Bolderslev,slev,610.000,14-02-2003,Alm. Salg,4.692,5,Villa,130,1900,,Aktuel værdi
+Urnehovedvej 406392 Bolderslev,slev,645.000,23-01-2003,Alm. Salg,4.886,4,Villa,132,1978,,Aktuel værdi
+Bolderslevskovvej 556392 Bolderslev,slev,263.500,28-12-2002,Fam. Salg,2.688,3,Villa,98,1960,,Aktuel værdi
+Hjordkærvej 236392 Bolderslev,slev,325.000,11-11-2002,Fam. Salg,1.294,6,Stuehus,251,1850,,
+Hjordkærvej 256392 Bolderslev,slev,325.000,11-11-2002,Fam. Salg,1.775,8,Villa,183,1961,,Aktuel værdi
+Gåskær Overdrev 16392 Bolderslev,slev,210.000,04-11-2002,Alm. Salg,1.337,4,Villa,157,1870,,Aktuel værdi
+Bag Volden 206392 Bolderslev,slev,670.000,31-10-2002,Alm. Salg,6.442,4,Villa,104,1975,,Aktuel værdi
+Hjordkærvej 36392 Bolderslev,slev,500.000,30-10-2002,Alm. Salg,2.777,7,Villa,180,1940,,Aktuel værdi
+Højagervej 36392 Bolderslev,slev,2.338.000,25-10-2002,Fam. Salg,-,3,Stuehus,163,1964,,
+Vollerup Byvej 496392 Bolderslev,slev,195.000,22-08-2002,Alm. Salg,1.242,5,Villa,157,1875,,Aktuel værdi
+Mellerup Bygade 166392 Bolderslev,slev,419.475,19-08-2002,Fam. Salg,3.302,4,Villa,127,1973,,Aktuel værdi
+Urnehovedvej 36392 Bolderslev,slev,625.000,10-07-2002,Alm. Salg,5.681,4,Villa,110,1979,,Aktuel værdi
+Myrkærvej 176392 Bolderslev,slev,585.000,20-06-2002,Alm. Salg,4.875,4,Villa,120,1968,,Aktuel værdi
+Bolderslevskovvej 466392 Bolderslev,slev,5.093.687,12-06-2002,Alm. Salg,43.911,4,Stuehus,116,1978,,
+Nygade 96392 Bolderslev,slev,442.500,10-06-2002,Alm. Salg,4.425,3,Villa,100,1969,,Aktuel værdi
+Bag Volden 246392 Bolderslev,slev,655.000,02-05-2002,Alm. Salg,-,5,Villa,234,1973,,Aktuel værdi
+Urnehovedvej 886392 Bolderslev,slev,1.100.000,01-05-2002,Alm. Salg,4.621,7,Villa,238,1976,,Aktuel værdi
+Vollerup Byvej 326392 Bolderslev,slev,470.700,24-01-2002,Alm. Salg,2.209,5,Villa,213,1930,,Aktuel værdi
+Vestergade 86392 Bolderslev,slev,585.000,22-01-2002,Alm. Salg,3.524,7,Villa,166,1931,,Aktuel værdi
+Nygårdvej 126392 Bolderslev,slev,1.452.325,31-12-2001,Alm. Salg,5.832,8,Stuehus,249,1800,,
+Vollerup Nørrevej 96392 Bolderslev,slev,1.895.000,19-12-2001,Andet,9.570,6,Stuehus,198,1902,,
+Rebbølvej 536392 Bolderslev,slev,365.000,13-11-2001,Alm. Salg,2.723,4,Villa,134,1901,,Aktuel værdi
+Søndergade 146392 Bolderslev,slev,346.613,09-11-2001,Andet,2.475,4,Villa,140,1958,,Aktuel værdi
+Urnehovedvej 606392 Bolderslev,slev,463.000,30-10-2001,Alm. Salg,3.991,4,Villa,116,1976,,Aktuel værdi
+Bolderslevskovvej 216392 Bolderslev,slev,255.000,20-09-2001,Fam. Salg,2.428,4,Villa,105,1963,,Aktuel værdi
+Stormsgårdevej 96392 Bolderslev,slev,820.000,20-08-2001,Alm. Salg,5.540,5,Villa,148,1940,,Aktuel værdi
+Smedefod 146392 Bolderslev,slev,565.000,09-08-2001,Alm. Salg,4.280,5,Villa,132,1971,,Aktuel værdi
+Bolderslev Nørregade 116392 Bolderslev,slev,406.212,05-07-2001,Alm. Salg,-,5,Villa,196,1900,,Aktuel værdi
+Vollerup Byvej 376392 Bolderslev,slev,580.000,28-05-2001,Alm. Salg,2.521,6,Villa,230,1923,,Aktuel værdi
+Tunnelvej 26392 Bolderslev,slev,86.000,25-05-2001,Alm. Salg,637,6,Villa,135,1934,,Aktuel værdi
+Toften 36392 Bolderslev,slev,603.574,18-05-2001,Alm. Salg,4.311,5,Villa,140,1971,,Aktuel værdi
+Vollerup Byvej 206392 Bolderslev,slev,581.000,08-05-2001,Alm. Salg,-,8,Villa,221,1880,,Aktuel værdi
+Hjolderupmarkvej 106392 Bolderslev,slev,800.000,02-05-2001,Fam. Salg,8.510,3,Stuehus,94,1940,,
+Hjolderupvej 206392 Bolderslev,slev,200.000,30-03-2001,Alm. Salg,1.333,4,Villa,150,1850,,Aktuel værdi
+Gåskær Byvej 166392 Bolderslev,slev,285.000,17-03-2001,Alm. Salg,2.415,4,Villa,118,1870,,Aktuel værdi
+Urnehovedvej 906392 Bolderslev,slev,675.000,02-03-2001,Alm. Salg,5.578,3,Villa,121,1977,,Aktuel værdi
+Bjolderupvej 156392 Bolderslev,slev,1.397.000,02-03-2001,Alm. Salg,5.332,8,Villa,262,1940,,Aktuel værdi
+Urnehovedvej 566392 Bolderslev,slev,507.000,17-01-2001,Alm. Salg,4.370,4,Villa,116,1976,,Aktuel værdi
+Bolderslev Nørregade 66392 Bolderslev,slev,230.000,16-01-2001,Alm. Salg,2.875,2,Villa,80,1917,,Aktuel værdi
+Urnehovedvej 16392 Bolderslev,slev,35.200,22-12-2000,Alm. Salg,233,4,Villa,151,2001,,Aktuel værdi
+Hjordkærvej 106392 Bolderslev,slev,1.675.000,05-12-2000,Alm. Salg,12.984,5,Stuehus,129,1956,,
+Rolighedsvej 66392 Bolderslev,slev,150.000,01-12-2000,Alm. Salg,1.500,4,Villa,100,1911,,Aktuel værdi
+Toften 66392 Bolderslev,slev,646.453,24-11-2000,Alm. Salg,4.338,4,Villa,149,1971,,Aktuel værdi
+Vollerup Byvej 116392 Bolderslev,slev,415.000,14-11-2000,Alm. Salg,-,8,Villa,278,1929,,Aktuel værdi
+Gammel Søndergade 126392 Bolderslev,slev,895.000,29-08-2000,Alm. Salg,4.475,8,Villa,200,1975,,Aktuel værdi
+Gammel Søndergade 3A6392 Bolderslev,slev,500.000,30-06-2000,Alm. Salg,5.208,3,Villa,96,1978,,Aktuel værdi
+Gåskær Byvej 56392 Bolderslev,slev,204.823,05-06-2000,Andet,1.241,5,Villa,165,1827,,Aktuel værdi
+Stormsgårdevej 166392 Bolderslev,slev,1.405.118,28-04-2000,Alm. Salg,6.565,7,Stuehus,214,2006,,
+Nygade 36392 Bolderslev,slev,410.000,21-02-2000,Alm. Salg,4.100,3,Villa,100,1964,,Aktuel værdi
+Bag Volden 36392 Bolderslev,slev,400.000,15-02-2000,Alm. Salg,3.448,4,Villa,116,1973,,Aktuel værdi
+Æ Stajsvej 56392 Bolderslev,slev,940.000,11-02-2000,Alm. Salg,5.465,6,Villa,172,1950,,Aktuel værdi
+Urnehovedvej 946392 Bolderslev,slev,770.000,10-02-2000,Alm. Salg,4.583,6,Villa,168,1976,,Aktuel værdi
+Bolderslevskovvej 116392 Bolderslev,slev,395.000,23-12-1999,Alm. Salg,-,6,Villa,221,1880,,Aktuel værdi
+Vollerup Byvej 336392 Bolderslev,slev,552.757,01-10-1999,Alm. Salg,2.987,5,Villa,185,1980,,Aktuel værdi
+Hjolderupvej 156392 Bolderslev,slev,675.000,27-09-1999,Alm. Salg,3.154,10,Villa,214,1665,,Aktuel værdi
+Ingebølvej 146392 Bolderslev,slev,772.000,01-07-1999,Alm. Salg,3.918,7,Villa,197,1931,,Aktuel værdi
+Østergade 186392 Bolderslev,slev,330.000,09-06-1999,Alm. Salg,2.260,5,Villa,146,1828,,Aktuel værdi
+Urnehovedvej 1236392 Bolderslev,slev,1.113.126,03-06-1999,Alm. Salg,8.628,5,Villa,129,1997,,Aktuel værdi
+Mellerup Bygade 176392 Bolderslev,slev,317.745,10-05-1999,Alm. Salg,1.765,5,Villa,180,1900,,Aktuel værdi
+Bolderslevskovvej 616392 Bolderslev,slev,290.000,03-05-1999,Alm. Salg,1.174,6,Stuehus,247,1897,,
+Bag Volden 196392 Bolderslev,slev,35.001,26-04-1999,Alm. Salg,222,6,Villa,157,1999,,Aktuel værdi
+Myrkærvej 1D6392 Bolderslev,slev,209.214,29-03-1999,Andet,1.773,4,Villa,118,1963,,Aktuel værdi
+Rebbølvej 226392 Bolderslev,slev,141.214,25-03-1999,Alm. Salg,699,5,Villa,202,1870,,Aktuel værdi
+Vollerup Byvej 256392 Bolderslev,slev,440.000,03-03-1999,Alm. Salg,2.933,4,Villa,150,1911,,Aktuel værdi
+Trekroner 166392 Bolderslev,slev,3.120.000,04-02-1999,Fam. Salg,12.000,7,Stuehus,260,1979,,
+Perbølvej 56392 Bolderslev,slev,560.000,29-01-1999,Alm. Salg,4.666,5,Villa,120,1930,,Aktuel værdi
+Urnehovedvej 956392 Bolderslev,slev,35.001,28-12-1998,Alm. Salg,224,6,Villa,156,2000,,Aktuel værdi
+Gåskær Byvej 66392 Bolderslev,slev,445.000,25-11-1998,Alm. Salg,-,7,Villa,170,1940,,Aktuel værdi
+Urnehovedvej 486392 Bolderslev,slev,975.000,14-11-1998,Alm. Salg,5.945,5,Villa,164,1978,,Aktuel værdi
+Bolderslev Hovedgade 226392 Bolderslev,slev,290.000,31-10-1998,Alm. Salg,1.705,6,Villa,170,1912,,Aktuel værdi
+Urnehovedvej 346392 Bolderslev,slev,586.000,05-10-1998,Alm. Salg,4.439,5,Villa,132,1976,,Aktuel værdi
+Urnehovedvej 1066392 Bolderslev,slev,904.000,25-09-1998,Alm. Salg,7.118,5,Villa,127,1998,,Aktuel værdi
+Urnehovedvej 296392 Bolderslev,slev,415.000,18-09-1998,Fam. Salg,3.772,4,Villa,110,1977,,Aktuel værdi
+Bolderslevskovvej 236392 Bolderslev,slev,10.887.886,01-09-1998,Fam. Salg,34.564,12,Stuehus,315,1879,,
+Urnehovedvej 1006392 Bolderslev,slev,990.000,31-08-1998,Alm. Salg,7.557,5,Villa,131,1997,,Aktuel værdi
+Søndergade 46392 Bolderslev,slev,850.000,30-08-1998,Alm. Salg,3.427,8,Villa,248,1969,,Aktuel værdi
+Urnehovedvej 806392 Bolderslev,slev,662.818,06-08-1998,Alm. Salg,5.388,4,Villa,123,1978,,Aktuel værdi
+Bag Volden 86392 Bolderslev,slev,699.080,16-07-1998,Alm. Salg,-,5,Villa,149,1976,,Aktuel værdi
+Stadionvej 126392 Bolderslev,slev,495.000,07-07-1998,Alm. Salg,4.900,5,Villa,101,1940,,Aktuel værdi
+Bolderslevskovvej 26392 Bolderslev,slev,413.000,01-07-1998,Alm. Salg,1.995,6,Villa,207,1790,,Aktuel værdi
+Mellerup Bygade 216392 Bolderslev,slev,200.000,18-05-1998,Fam. Salg,1.428,6,Villa,140,1873,,Aktuel værdi
+Urnehovedvej 916392 Bolderslev,slev,35.000,11-05-1998,Alm. Salg,280,5,Villa,125,1998,,Aktuel værdi
+Gammel Søndergade 56392 Bolderslev,slev,270.000,14-04-1998,Alm. Salg,1.377,6,Villa,196,1870,,Aktuel værdi
+Vollerup Søndermark 156392 Bolderslev,slev,405.000,25-03-1998,Alm. Salg,3.000,5,Villa,135,1927,,Aktuel værdi
+Bag Volden 46392 Bolderslev,slev,540.000,10-03-1998,Alm. Salg,4.060,4,Villa,133,1973,,Aktuel værdi
+Bolderslevskovvej 146392 Bolderslev,slev,344.500,06-02-1998,Alm. Salg,2.823,4,Villa,122,1900,,Aktuel værdi
+Vestergade 206392 Bolderslev,slev,650.000,21-01-1998,Alm. Salg,3.571,7,Villa,182,1954,,Aktuel værdi
+Vollerup Nørrevej 36392 Bolderslev,slev,650.000,05-01-1998,Alm. Salg,3.631,9,Villa,179,1916,,Aktuel værdi
+Vollerup Byvej 366392 Bolderslev,slev,311.500,01-01-1998,Alm. Salg,1.483,6,Villa,210,1900,,Aktuel værdi
+Vollerup Søndermark 196392 Bolderslev,slev,510.000,17-12-1997,Alm. Salg,2.064,7,Villa,247,1929,,Aktuel værdi
+Bolderslevskovvej 56392 Bolderslev,slev,682.750,17-12-1997,Alm. Salg,2.893,8,Villa,236,1877,,Aktuel værdi
+Mellerup Bygade 206392 Bolderslev,slev,320.000,15-12-1997,Fam. Salg,1.882,4,Villa,170,1900,,Aktuel værdi
+Hjolderup Klintvej 36392 Bolderslev,slev,1.740.407,08-12-1997,Alm. Salg,6.351,6,Stuehus,274,1897,,
+Hjolderupvej 246392 Bolderslev,slev,111.500,07-12-1997,Fam. Salg,825,5,Villa,135,1870,,Aktuel værdi
+Bjolderupvej 196392 Bolderslev,slev,310.000,05-11-1997,Alm. Salg,2.583,4,Villa,120,1964,,Aktuel værdi
+Bjolderupvej 256392 Bolderslev,slev,301.300,25-10-1997,Alm. Salg,-,4,Villa,103,1961,,Aktuel værdi
+Hjolderupvej 266392 Bolderslev,slev,630.000,04-10-1997,Alm. Salg,3.987,6,Villa,158,1930,,Aktuel værdi
+Jernbanesvinget 2A6392 Bolderslev,slev,472.303,23-09-1997,Fam. Salg,2.397,6,Villa,197,1927,,Aktuel værdi
+Rebbølvej 506392 Bolderslev,slev,600.375,24-07-1997,Alm. Salg,6.003,4,Stuehus,100,1800,,
+Bolderslev Hovedgade 296392 Bolderslev,slev,229.124,25-06-1997,Alm. Salg,1.527,5,Stuehus,150,1853,,
+Vollerup Byvej 416392 Bolderslev,slev,321.000,24-06-1997,Alm. Salg,2.840,7,Villa,113,1903,,Aktuel værdi
+Urnehovedvej 1046392 Bolderslev,slev,555.000,24-04-1997,Alm. Salg,4.549,3,Villa,122,1980,,Aktuel værdi
+Urnehovedvej 256392 Bolderslev,slev,550.000,26-03-1997,Alm. Salg,4.583,4,Villa,120,1980,,Aktuel værdi
+Lysegvej 186392 Bolderslev,slev,295.371,30-01-1997,Alm. Salg,-,7,Landbrug o.l.,285,1951,,Aktuel værdi
+Bjolderupvej 316392 Bolderslev,slev,280.000,30-11-1996,Alm. Salg,2.916,5,Villa,96,1955,,Aktuel værdi
+Urnehovedvej 526392 Bolderslev,slev,470.000,10-10-1996,Alm. Salg,3.263,6,Villa,144,1976,,Aktuel værdi
+Stadionvej 86392 Bolderslev,slev,265.000,29-09-1996,Alm. Salg,1.345,5,Villa,197,1918,,Aktuel værdi
+Bjolderupvej 236392 Bolderslev,slev,534.000,27-09-1996,Alm. Salg,2.810,6,Villa,190,1963,,Aktuel værdi
+Jernbanesvinget 56392 Bolderslev,slev,230.000,17-09-1996,Alm. Salg,1.385,7,Villa,166,1925,,Aktuel værdi
+Myrkærvej 11A6392 Bolderslev,slev,255.000,10-09-1996,Alm. Salg,2.656,2,Rækkehus,96,1975,,Aktuel værdi
+Tunnelvej 76392 Bolderslev,slev,325.000,02-08-1996,Alm. Salg,2.901,3,Villa,112,1954,,Aktuel værdi
+Gåskær Byvej 146392 Bolderslev,slev,140.000,18-06-1996,Alm. Salg,2.187,2,Villa,64,1883,,Aktuel værdi
+Hellevad-Bovvej 116392 Bolderslev,slev,600.000,22-05-1996,Alm. Salg,5.357,5,Stuehus,112,1952,,
+Stadionvej 146392 Bolderslev,slev,225.000,18-05-1996,Alm. Salg,2.528,4,Villa,89,1938,,Aktuel værdi
+Bolderslev Nørregade 186392 Bolderslev,slev,215.000,25-04-1996,Fam. Salg,-,5,Villa,140,1977,,Aktuel værdi
+Bag Volden 56392 Bolderslev,slev,677.000,18-04-1996,Alm. Salg,3.740,5,Villa,181,1974,,Aktuel værdi
+Bag Volden 66392 Bolderslev,slev,236.756,27-03-1996,Alm. Salg,-,5,Villa,182,1973,,Aktuel værdi
+Ravedvej 256392 Bolderslev,slev,1.200.000,29-02-1996,Alm. Salg,11.320,9,BygningTilKontor,106,1925,,Aktuel værdi
+Porskær 46392 Bolderslev,slev,472.000,29-02-1996,Alm. Salg,2.878,7,Villa,164,1977,,Aktuel værdi
+Bolderslevskovvej 366392 Bolderslev,slev,363.676,18-02-1996,Alm. Salg,-,6,Stuehus,361,1894,,
+Nygade 16392 Bolderslev,slev,550.000,02-02-1996,Alm. Salg,3.072,9,Villa,179,1965,,Aktuel værdi
+Brogade 36392 Bolderslev,slev,584.000,11-12-1995,Alm. Salg,4.786,4,Villa,122,1929,,Aktuel værdi
+Jernbanesvinget 66392 Bolderslev,slev,493.000,08-12-1995,Alm. Salg,3.160,5,Villa,156,1940,,Aktuel værdi
+Urnehovedvej 26392 Bolderslev,slev,770.000,30-11-1995,Fam. Salg,-,5,Villa,147,1986,,Aktuel værdi
+Bjolderupvej 816392 Bolderslev,slev,150.000,03-07-1995,Fam. Salg,-,8,Villa,186,1918,,Aktuel værdi
+Rolighedsvej 46392 Bolderslev,slev,192.000,16-06-1995,Alm. Salg,1.422,6,Villa,135,1868,,Aktuel værdi
+Smedagervej 496392 Bolderslev,slev,250.000,19-01-1995,Alm. Salg,1.420,6,Villa,176,1880,,Aktuel værdi
+Bolderslev Nørregade 86392 Bolderslev,slev,345.000,12-12-1994,Alm. Salg,2.923,4,Villa,118,1977,,Aktuel værdi
+Lysegvej 46392 Bolderslev,slev,730.000,14-10-1994,Fam. Salg,4.834,5,Stuehus,151,1952,,
+Urnehovedvej 1196392 Bolderslev,slev,390.000,15-08-1994,Fam. Salg,3.545,4,Villa,110,1980,,Aktuel værdi
+Smedefod 86392 Bolderslev,slev,290.000,10-08-1994,Alm. Salg,2.685,4,Villa,108,1933,,Aktuel værdi
+Urnehovedvej 846392 Bolderslev,slev,279.000,19-07-1994,Alm. Salg,-,7,Villa,175,1978,,Aktuel værdi
+Rolighedsvej 206392 Bolderslev,slev,484.500,25-05-1994,Fam. Salg,2.833,5,Villa,171,1974,,Aktuel værdi
+Urnehovedvej 986392 Bolderslev,slev,430.000,19-05-1994,Alm. Salg,2.925,4,Villa,147,1978,,Aktuel værdi
+Tunnelvej 66392 Bolderslev,slev,350.000,18-04-1994,Alm. Salg,2.800,5,Villa,125,1950,,Aktuel værdi
+Rebbølvej 366392 Bolderslev,slev,370.000,08-03-1994,Alm. Salg,2.283,7,Villa,162,1907,,Aktuel værdi
+Stadionvej 286392 Bolderslev,slev,425.000,15-02-1994,Alm. Salg,3.269,4,Villa,130,1953,,Aktuel værdi
+Vollerup Byvej 286392 Bolderslev,slev,212.500,13-01-1994,Fam. Salg,1.967,4,Villa,108,1964,,Aktuel værdi
+Rebbølvej 496392 Bolderslev,slev,340.000,26-11-1993,Alm. Salg,2.085,5,Villa,163,1850,,Aktuel værdi
+Bolderslev Hovedgade 126392 Bolderslev,slev,150.000,15-10-1993,Alm. Salg,1.456,4,Villa,103,1889,,Aktuel værdi
+Søndergade 96392 Bolderslev,slev,300.000,04-10-1993,Alm. Salg,3.125,4,Villa,96,1963,,Aktuel værdi
+Lysegvej 106392 Bolderslev,slev,312.300,02-07-1993,Alm. Salg,-,7,Stuehus,134,1952,,
+Stadionvej 176392 Bolderslev,slev,93.190,18-05-1993,Andet,751,3,Villa,124,1946,,Aktuel værdi
+Urnehovedvej 376392 Bolderslev,slev,410.000,26-03-1993,Alm. Salg,3.727,4,Villa,110,1978,,Aktuel værdi
+Søndergade 106392 Bolderslev,slev,229.588,22-03-1993,Alm. Salg,-,4,Villa,133,1961,,Aktuel værdi
+Vollerup Byvej 86392 Bolderslev,slev,2.600.000,12-03-1993,Alm. Salg,12.206,8,Stuehus,213,1928,,
+Søndergade 86392 Bolderslev,slev,320.000,02-03-1993,Alm. Salg,3.137,4,Villa,102,1964,,Aktuel værdi
+Perbølvej 336392 Bolderslev,slev,1.150.000,27-01-1993,Fam. Salg,5.156,8,Stuehus,223,1800,,
+Rebbølvej 36392 Bolderslev,slev,257.000,08-01-1993,Alm. Salg,1.596,2,Villa,161,1934,,Aktuel værdi
+Bjolderupvej 706392 Bolderslev,slev,338.000,14-12-1992,Alm. Salg,1.270,8,Villa,266,1902,,Aktuel værdi
+Vollerup Byvej 766392 Bolderslev,slev,545.000,07-12-1992,Alm. Salg,-,6,Villa,209,1940,,Aktuel værdi
+Vollerup Byvej 386392 Bolderslev,slev,345.000,06-10-1992,Fam. Salg,2.875,4,Villa,120,1968,,Aktuel værdi
+Urnehovedvej 1146392 Bolderslev,slev,440.000,17-08-1992,Alm. Salg,2.933,4,Villa,150,1979,,Aktuel værdi
+Nyborgvej 46392 Bolderslev,slev,370.000,10-06-1992,Alm. Salg,2.151,6,Villa,172,1912,,Aktuel værdi
+Bolderslevskovvej 246392 Bolderslev,slev,500.000,10-04-1992,Alm. Salg,1.968,7,Stuehus,254,1927,,
+Vollerup Byvej 396392 Bolderslev,slev,145.000,03-04-1992,Alm. Salg,906,6,Villa,160,1904,,Aktuel værdi
+Urnehovedvej 436392 Bolderslev,slev,460.000,15-03-1992,Alm. Salg,4.181,4,Villa,110,1978,,Aktuel værdi
+Hjordkærvej 206392 Bolderslev,slev,803.000,10-03-1992,Alm. Salg,2.549,12,Stuehus,315,1875,,
+Ingebølvej 576392 Bolderslev,slev,530.000,26-02-1992,Alm. Salg,3.533,6,Stuehus,150,1953,,
+Bolderslev Hovedgade 46392 Bolderslev,slev,300.000,14-01-1992,Alm. Salg,1.704,9,Villa,176,1911,,Aktuel værdi

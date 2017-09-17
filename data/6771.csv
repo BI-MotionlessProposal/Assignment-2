@@ -1,0 +1,657 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Ulkjærvej 536771 Gredstedbro,dbro,583.000,26-04-2017,Alm. Salg,9.253,2,Rækkehus,63,1978,-3 %,Aktuel værdi
+Vestergade 396771 Gredstedbro,dbro,569.500,25-04-2017,Fam. Salg,4.668,4,Villa,122,1956,,Aktuel værdi
+Møgelhøjvej 116771 Gredstedbro,dbro,560.000,19-04-2017,Fam. Salg,1.985,5,Villa,282,1905,,Aktuel værdi
+Plougsvadvej 256771 Gredstedbro,dbro,438.450,08-03-2017,Fam. Salg,4.097,3,Villa,107,1955,,Aktuel værdi
+Plougstrupvej 56771 Gredstedbro,dbro,729.000,22-02-2017,Fam. Salg,4.673,6,Villa,156,1930,,Aktuel værdi
+Jedstedvej 106771 Gredstedbro,dbro,420.000,13-02-2017,Alm. Salg,2.187,6,Stuehus,192,1879,,
+Ulkjærvej 276771 Gredstedbro,dbro,695.000,08-02-2017,Alm. Salg,9.266,3,Villa,75,1966,-4 %,Aktuel værdi
+Plougstrupvej 916771 Gredstedbro,dbro,988.000,28-01-2017,Alm. Salg,4.704,5,Villa,210,1740,-1 %,Aktuel værdi
+Kløvermarken 36771 Gredstedbro,dbro,950.000,24-01-2017,Alm. Salg,6.506,4,Villa,146,1971,-5 %,Aktuel værdi
+Lupinmarken 16771 Gredstedbro,dbro,659.510,20-01-2017,Fam. Salg,5.234,4,Villa,126,1975,,Aktuel værdi
+Gørdingvej 556771 Gredstedbro,dbro,50.000,21-12-2016,Alm. Salg,649,3,Villa,77,1885,,Aktuel værdi
+Nørrebyvej 86771 Gredstedbro,dbro,1.898.000,09-12-2016,Alm. Salg,9.258,6,Villa,205,1775,0 %,Aktuel værdi
+Hjortlundvej 1016771 Gredstedbro,dbro,450.000,30-11-2016,Auktion,3.214,6,Villa,140,1933,,Aktuel værdi
+Hans Jensens Vej 86771 Gredstedbro,dbro,775.000,28-11-2016,Alm. Salg,6.054,4,Villa,128,1963,,Aktuel værdi
+Lucernemarken 16771 Gredstedbro,dbro,750.000,21-11-2016,Alm. Salg,5.725,4,Villa,131,1975,,Aktuel værdi
+Vestergade 106771 Gredstedbro,dbro,775.000,09-11-2016,Alm. Salg,6.150,7,Villa,126,1887,-6 %,Aktuel værdi
+Sennepsmarken 26771 Gredstedbro,dbro,1.000.000,04-11-2016,Alm. Salg,9.090,4,Villa,110,1968,,Aktuel værdi
+Majsmarken 146771 Gredstedbro,dbro,1.400.000,02-11-2016,Alm. Salg,7.106,7,Villa,197,1968,-3 %,Aktuel værdi
+Vinkelvej 106771 Gredstedbro,dbro,550.000,28-10-2016,Fam. Salg,4.230,4,Villa,130,1977,,Aktuel værdi
+Vestergade 296771 Gredstedbro,dbro,225.000,28-10-2016,Fam. Salg,1.347,4,Villa,167,1946,,Aktuel værdi
+Langbjergvej 136771 Gredstedbro,dbro,670.000,11-10-2016,Alm. Salg,5.677,4,Villa,118,1953,-10 %,Aktuel værdi
+Kløvermarken 106771 Gredstedbro,dbro,1.465.000,29-09-2016,Alm. Salg,8.093,8,Villa,181,1972,-2 %,Aktuel værdi
+Jedsted Bjerge Vej 576771 Gredstedbro,dbro,2.040.000,24-09-2016,Alm. Salg,10.000,6,Villa,204,1929,,Aktuel værdi
+Sennepsmarken 36771 Gredstedbro,dbro,550.000,21-09-2016,Alm. Salg,3.956,6,Villa,139,1969,,Aktuel værdi
+Puggårdsvej 806771 Gredstedbro,dbro,2.000.000,17-09-2016,Alm. Salg,8.000,7,Villa,250,1930,-5 %,Aktuel værdi
+Vestparken 46771 Gredstedbro,dbro,650.000,16-09-2016,Alm. Salg,4.113,7,Villa,158,1968,-6 %,Aktuel værdi
+Ulkjærvej 516771 Gredstedbro,dbro,578.000,16-09-2016,Alm. Salg,9.174,2,Rækkehus,63,1978,0 %,Aktuel værdi
+Vilslevvej 356771 Gredstedbro,dbro,400.000,15-09-2016,Alm. Salg,4.651,3,Villa,86,1900,-10 %,Aktuel værdi
+Jernvedvej 2216771 Gredstedbro,dbro,998.000,08-09-2016,Alm. Salg,7.796,4,Stuehus,128,1975,0 %,
+Rugmarken 66771 Gredstedbro,dbro,700.000,07-09-2016,Auktion,3.977,6,Villa,176,1973,-30 %,Aktuel værdi
+Gulerodsmarken 76771 Gredstedbro,dbro,1.258.000,03-09-2016,Alm. Salg,12.580,3,Villa,100,2004,-3 %,Aktuel værdi
+Bjergvej 86771 Gredstedbro,dbro,18.379.700,01-09-2016,Alm. Salg,102.679,7,Stuehus,179,1957,,
+Kirkebakken 296771 Gredstedbro,dbro,700.000,01-09-2016,Alm. Salg,3.743,7,Villa,187,1922,,Aktuel værdi
+Jedsted Klostervej 396771 Gredstedbro,dbro,965.000,26-08-2016,Alm. Salg,6.390,5,Villa,151,1860,-8 %,Aktuel værdi
+Kongeåvej 236771 Gredstedbro,dbro,2.025.000,23-08-2016,Alm. Salg,8.100,6,Villa,250,1898,-8 %,Aktuel værdi
+Rugmarken 36771 Gredstedbro,dbro,1.200.000,23-08-2016,Alm. Salg,7.792,5,Villa,154,1972,-9 %,Aktuel værdi
+Jedsted Bjerge Vej 636771 Gredstedbro,dbro,1.700.000,21-08-2016,Fam. Salg,6.800,8,Villa,250,1880,,Aktuel værdi
+Kjærmarken 1256771 Gredstedbro,dbro,182.600,19-08-2016,Alm. Salg,1.003,6,Villa,182,2017,,Aktuel værdi
+Ulkjærvej 216771 Gredstedbro,dbro,1.200.000,29-07-2016,Alm. Salg,10.526,4,Villa,114,1972,-4 %,Aktuel værdi
+Gulerodsmarken 26771 Gredstedbro,dbro,1.200.000,10-07-2016,Alm. Salg,12.631,3,Villa,95,2008,-2 %,Aktuel værdi
+Jedsted Klostervej 366771 Gredstedbro,dbro,550.000,30-06-2016,Alm. Salg,3.374,6,Villa,163,1916,-8 %,Aktuel værdi
+Vilslevvej 136771 Gredstedbro,dbro,998.000,07-06-2016,Alm. Salg,9.240,4,Villa,108,1963,0 %,Aktuel værdi
+Mejerivej 46771 Gredstedbro,dbro,98.000,02-06-2016,Alm. Salg,1.361,2,Villa,72,1870,0 %,Aktuel værdi
+Vestparken 146771 Gredstedbro,dbro,695.000,20-05-2016,Alm. Salg,4.398,5,Villa,158,1967,0 %,Aktuel værdi
+Sennepsmarken 86771 Gredstedbro,dbro,800.000,09-05-2016,Alm. Salg,7.272,4,Villa,110,1976,-6 %,Aktuel værdi
+Vestparken 76771 Gredstedbro,dbro,1.098.000,04-05-2016,Alm. Salg,6.134,6,Villa,179,1968,0 %,Aktuel værdi
+Rolighedsvej 116771 Gredstedbro,dbro,752.800,03-05-2016,Alm. Salg,7.380,3,Villa,102,1967,,Aktuel værdi
+Rolighedsvej 276771 Gredstedbro,dbro,700.000,21-04-2016,Alm. Salg,5.000,5,Villa,140,1973,,Aktuel værdi
+Tværvej 46771 Gredstedbro,dbro,442.551,31-03-2016,Andet,2.486,7,Villa,178,1927,,Aktuel værdi
+Toldgårdsvej 166771 Gredstedbro,dbro,3.912.800,30-03-2016,Alm. Salg,25.243,5,Stuehus,155,2009,0 %,
+Mejerivej 66771 Gredstedbro,dbro,900.000,16-03-2016,Alm. Salg,5.660,6,Villa,159,1884,-10 %,Aktuel værdi
+Majsmarken 116771 Gredstedbro,dbro,600.000,29-02-2016,Alm. Salg,6.976,3,Villa,86,1968,0 %,Aktuel værdi
+Gørdingvej 346771 Gredstedbro,dbro,500.000,25-02-2016,Alm. Salg,3.333,4,Villa,150,1971,,Aktuel værdi
+Gulerodsmarken 86771 Gredstedbro,dbro,1.250.000,22-02-2016,Alm. Salg,12.500,3,Villa,100,2006,-2 %,Aktuel værdi
+Aavej 56771 Gredstedbro,dbro,1.650.000,20-01-2016,Alm. Salg,5.809,8,Villa,284,1923,,Aktuel værdi
+Møgelhøjvej 76771 Gredstedbro,dbro,2.150.000,20-01-2016,Alm. Salg,16.666,3,Stuehus,129,1958,,
+Plougstrupvej 456771 Gredstedbro,dbro,4.780.000,08-01-2016,Alm. Salg,32.739,5,Stuehus,146,1869,,
+Kløvermarken 16771 Gredstedbro,dbro,1.290.000,05-01-2016,Alm. Salg,7.413,5,Villa,174,1971,-3 %,Aktuel værdi
+Toldgårdsvej 146771 Gredstedbro,dbro,1.342.500,28-12-2015,Alm. Salg,5.593,7,Stuehus,240,2004,-62 %,
+Gørdingvej 276771 Gredstedbro,dbro,130.000,12-11-2015,Alm. Salg,1.313,4,Villa,99,1963,-13 %,Aktuel værdi
+Bøjhøjvej 46771 Gredstedbro,dbro,2.600.000,12-11-2015,Alm. Salg,20.634,4,Stuehus,126,1902,,
+Jernvedvej 366771 Gredstedbro,dbro,625.000,11-11-2015,Alm. Salg,4.251,4,Villa,147,1957,,Aktuel værdi
+Lucernemarken 106771 Gredstedbro,dbro,736.220,28-10-2015,Alm. Salg,6.034,4,Villa,122,1977,-18 %,Aktuel værdi
+Sennepsmarken 106771 Gredstedbro,dbro,1.145.000,08-10-2015,Alm. Salg,9.462,4,Villa,121,1977,0 %,Aktuel værdi
+Kirkebakken 176771 Gredstedbro,dbro,750.000,07-10-2015,Alm. Salg,5.859,3,Villa,128,1960,,Aktuel værdi
+Holtsagervej 86771 Gredstedbro,dbro,937.500,07-10-2015,Alm. Salg,3.537,5,Villa,265,1930,-6 %,Aktuel værdi
+Jernvedvej 66771 Gredstedbro,dbro,12.614.450,02-10-2015,Alm. Salg,58.671,9,Stuehus,215,1886,,
+Vestparken 106771 Gredstedbro,dbro,476.000,02-10-2015,Fam. Salg,2.850,5,Villa,167,1972,,Aktuel værdi
+Hjortlundvej 996771 Gredstedbro,dbro,2.045.000,02-10-2015,Alm. Salg,11.054,5,Villa,185,1832,-3 %,Aktuel værdi
+Hjortlundvej 696771 Gredstedbro,dbro,1.007.500,02-08-2015,Fam. Salg,5.660,8,Stuehus,178,1912,,
+Gyden 136771 Gredstedbro,dbro,685.000,22-07-2015,Alm. Salg,6.523,4,Villa,105,1981,-1 %,Aktuel værdi
+Kongeåvej 86771 Gredstedbro,dbro,1.380.000,17-07-2015,Fam. Salg,13.018,4,Villa,106,1929,,Aktuel værdi
+Langbjergvej 16771 Gredstedbro,dbro,635.000,10-07-2015,Alm. Salg,4.379,5,Villa,145,1913,-6 %,Aktuel værdi
+Gredstedvej 66771 Gredstedbro,dbro,2.640.000,08-07-2015,Fam. Salg,10.645,8,Stuehus,248,1997,,
+Jernvedvej 2346771 Gredstedbro,dbro,1.435.000,23-06-2015,Alm. Salg,7.247,6,Villa,198,1918,-3 %,Aktuel værdi
+Aavej 106771 Gredstedbro,dbro,635.000,08-06-2015,Alm. Salg,5.570,4,Villa,114,1965,-12 %,Aktuel værdi
+Gulerodsmarken 46771 Gredstedbro,dbro,265.000,10-05-2015,Alm. Salg,1.698,4,Villa,156,2016,-4 %,Aktuel værdi
+Jedstedvej 496771 Gredstedbro,dbro,1.300.150,03-05-2015,Alm. Salg,5.394,12,Villa,241,1877,,Aktuel værdi
+Vesterbyvej 276771 Gredstedbro,dbro,1.066.000,30-04-2015,Andet,4.037,8,Villa,264,1989,,Aktuel værdi
+Grøftevej 36771 Gredstedbro,dbro,647.000,28-04-2015,Alm. Salg,3.423,5,Stuehus,189,1925,,
+Bygmarken 26771 Gredstedbro,dbro,1.025.000,23-04-2015,Alm. Salg,7.218,5,Villa,142,1974,-2 %,Aktuel værdi
+Vestergade 386771 Gredstedbro,dbro,825.000,14-04-2015,Alm. Salg,7.300,4,Villa,113,1957,-11 %,Aktuel værdi
+Gørdingvej 436771 Gredstedbro,dbro,350.000,13-04-2015,Alm. Salg,2.287,3,Villa,153,1897,-11 %,Aktuel værdi
+Rugmarken 76771 Gredstedbro,dbro,885.000,09-04-2015,Alm. Salg,5.979,5,Villa,148,1972,5 %,Aktuel værdi
+Kjærmarken 2016771 Gredstedbro,dbro,1.100.000,24-03-2015,Alm. Salg,4.977,6,Villa,221,1880,,Aktuel værdi
+Vinkelvej 56771 Gredstedbro,dbro,500.000,24-03-2015,Fam. Salg,4.065,4,Villa,123,1973,,Aktuel værdi
+Jernvedvej 296771 Gredstedbro,dbro,798.000,02-03-2015,Alm. Salg,6.333,4,Villa,126,1914,14 %,Aktuel værdi
+Kjærmarken 86771 Gredstedbro,dbro,1.575.000,20-02-2015,Alm. Salg,10.227,7,Villa,154,2003,0 %,Aktuel værdi
+Våesvej 36771 Gredstedbro,dbro,1.145.000,20-02-2015,Alm. Salg,6.815,6,Villa,168,1956,-8 %,Aktuel værdi
+Gørdingvej 366771 Gredstedbro,dbro,161.110,18-02-2015,Auktion,1.342,4,Villa,120,1951,,Aktuel værdi
+Sennepsmarken 76771 Gredstedbro,dbro,820.000,06-02-2015,Alm. Salg,7.321,3,Villa,112,1976,-3 %,Aktuel værdi
+Lucernemarken 56771 Gredstedbro,dbro,1.415.000,28-01-2015,Alm. Salg,8.274,4,Villa,171,1973,-2 %,Aktuel værdi
+Ulkjærvej 256771 Gredstedbro,dbro,900.000,26-01-2015,Fam. Salg,9.473,4,Villa,95,1961,,Aktuel værdi
+Sennepsmarken 396771 Gredstedbro,dbro,600.000,14-01-2015,Fam. Salg,4.838,3,Villa,124,1988,-25 %,Aktuel værdi
+Langbjergvej 156771 Gredstedbro,dbro,11.900.000,12-01-2015,Alm. Salg,50.854,7,Stuehus,234,1897,,
+Lucernemarken 76771 Gredstedbro,dbro,750.000,09-01-2015,Alm. Salg,6.578,2,Villa,114,1974,-10 %,Aktuel værdi
+Aavej 176771 Gredstedbro,dbro,895.000,15-12-2014,Alm. Salg,7.521,3,Villa,119,1945,,Aktuel værdi
+Bjergvej 206771 Gredstedbro,dbro,42.001,03-12-2014,Auktion,420,4,Villa,100,1954,,Aktuel værdi
+Gørdingvej 266771 Gredstedbro,dbro,206.594,29-10-2014,Alm. Salg,2.718,3,Villa,76,1956,,Aktuel værdi
+Kjærmarken 1216771 Gredstedbro,dbro,149.280,24-10-2014,Alm. Salg,739,6,Villa,202,2016,,Aktuel værdi
+Valmuemarken 76771 Gredstedbro,dbro,680.000,30-09-2014,Alm. Salg,5.074,4,Villa,134,1971,-9 %,Aktuel værdi
+Vestergade 316771 Gredstedbro,dbro,895.000,25-09-2014,Alm. Salg,6.130,5,Villa,146,1907,0 %,Aktuel værdi
+Holtsagervej 56771 Gredstedbro,dbro,548.018,24-09-2014,Alm. Salg,4.281,5,Villa,128,1953,,Aktuel værdi
+Vilslevvej 706771 Gredstedbro,dbro,800.000,08-09-2014,Fam. Salg,6.611,4,Villa,121,1949,,Aktuel værdi
+"Andelsgade 2, 16771 Gredstedbro",dbro,2.400.000,03-09-2014,Alm. Salg,16.326,5,Lejlighed,147,1903,,Aktuel værdi
+Puggårdsvej 266771 Gredstedbro,dbro,4.475.000,01-09-2014,Alm. Salg,13.478,8,Stuehus,332,2008,79 %,
+Sønderbyvej 116771 Gredstedbro,dbro,485.000,29-08-2014,Alm. Salg,6.062,4,Villa,80,1964,-2 %,Aktuel værdi
+Jedsted Klostervej 26771 Gredstedbro,dbro,1.273.059,26-08-2014,Alm. Salg,7.715,6,Villa,165,1915,34 %,Aktuel værdi
+Jedsted Klostervej 66771 Gredstedbro,dbro,886.000,21-07-2014,Alm. Salg,5.986,6,Villa,148,2006,,Aktuel værdi
+Vestergade 16771 Gredstedbro,dbro,2.100.000,17-07-2014,Alm. Salg,8.898,7,Villa,236,1936,,Aktuel værdi
+Ulkjærvej 546771 Gredstedbro,dbro,325.000,29-06-2014,Alm. Salg,2.500,5,Villa,130,1902,,Aktuel værdi
+Puggårdsvej 736771 Gredstedbro,dbro,200.000,24-06-2014,Alm. Salg,1.801,3,Villa,111,1910,-27 %,Aktuel værdi
+Jedsted Klostervej 736771 Gredstedbro,dbro,1.225.000,11-06-2014,Alm. Salg,6.250,6,Villa,196,1877,-2 %,Aktuel værdi
+Darumvej 306771 Gredstedbro,dbro,558.000,14-05-2014,Alm. Salg,5.214,4,Villa,107,2006,,Aktuel værdi
+Jernvedvej 386771 Gredstedbro,dbro,12.685.700,01-05-2014,Alm. Salg,39.032,14,Stuehus,325,1900,,
+Mejerivej 16771 Gredstedbro,dbro,1.335.000,11-04-2014,Alm. Salg,7.335,3,Villa,182,1911,-6 %,Aktuel værdi
+Kjærmarken 206771 Gredstedbro,dbro,138.719,11-04-2014,Alm. Salg,651,7,Villa,213,2016,,Aktuel værdi
+Vilslevvej 536771 Gredstedbro,dbro,276.500,26-02-2014,Alm. Salg,3.544,3,Villa,78,1860,-15 %,Aktuel værdi
+Valmuemarken 226771 Gredstedbro,dbro,725.000,23-12-2013,Alm. Salg,8.630,3,Villa,84,1978,-7 %,Aktuel værdi
+Vestergade 13B6771 Gredstedbro,dbro,1.998.000,18-12-2013,Alm. Salg,8.575,6,Villa,233,1972,0 %,Aktuel værdi
+Rolighedsvej 96771 Gredstedbro,dbro,302.000,10-12-2013,Alm. Salg,3.822,3,Villa,79,1962,-24 %,Aktuel værdi
+"Vestergade 17, 16771 Gredstedbro",dbro,750.000,04-12-2013,Auktion,3.926,7,Lejlighed,191,1976,,Aktuel værdi
+Aavej 356771 Gredstedbro,dbro,985.000,26-11-2013,Alm. Salg,7.137,6,Villa,138,1965,-8 %,Aktuel værdi
+Vestergade 96771 Gredstedbro,dbro,161.000,07-11-2013,Auktion,2.439,3,Villa,66,1939,,Aktuel værdi
+Vilslevvej 546771 Gredstedbro,dbro,762.500,25-10-2013,Alm. Salg,7.402,3,Villa,103,1940,-10 %,Aktuel værdi
+Jedsted Møllevej 176771 Gredstedbro,dbro,1.900.000,23-10-2013,Alm. Salg,11.656,7,Villa,163,1931,-5 %,Aktuel værdi
+Plougstrupvej 126771 Gredstedbro,dbro,400.000,04-09-2013,Alm. Salg,2.877,4,Villa,139,1935,-6 %,Aktuel værdi
+Vilslevvej 316771 Gredstedbro,dbro,200.000,22-08-2013,Alm. Salg,1.960,3,Villa,102,1892,-32 %,Aktuel værdi
+Rolighedsvej 46771 Gredstedbro,dbro,800.000,07-08-2013,Alm. Salg,9.411,3,Rækkehus,85,1986,,Aktuel værdi
+Jedsted Klostervej 476771 Gredstedbro,dbro,100.000,20-07-2013,Alm. Salg,689,5,Villa,145,1892,,Aktuel værdi
+Rolighedsvej 226771 Gredstedbro,dbro,1.250.000,15-07-2013,Alm. Salg,7.102,5,Villa,176,1973,,Aktuel værdi
+Jernvedvej 2396771 Gredstedbro,dbro,1.500.000,05-07-2013,Alm. Salg,7.692,5,Villa,195,2010,,Aktuel værdi
+Puggårdsvej 796771 Gredstedbro,dbro,2.300.000,13-06-2013,Alm. Salg,10.222,5,Villa,225,1892,-4 %,Aktuel værdi
+Gørdingvej 226771 Gredstedbro,dbro,443.000,13-06-2013,Alm. Salg,2.531,6,Villa,175,1923,-55 %,Aktuel værdi
+Vilslevvej 346771 Gredstedbro,dbro,345.000,05-06-2013,Alm. Salg,2.613,5,Villa,132,1978,,Aktuel værdi
+Kirkegade 16771 Gredstedbro,dbro,1.250.000,02-06-2013,Alm. Salg,12.500,4,Villa,100,1936,-3 %,Aktuel værdi
+Ulkjærvej 36771 Gredstedbro,dbro,1.450.000,27-05-2013,Andet,7.286,5,Villa,199,1920,,Aktuel værdi
+Lucernemarken 46771 Gredstedbro,dbro,1.095.000,23-05-2013,Alm. Salg,8.975,3,Villa,122,1975,-8 %,Aktuel værdi
+Vilslev Spang 46771 Gredstedbro,dbro,948.000,21-05-2013,Alm. Salg,5.096,7,Villa,186,1877,-5 %,Aktuel værdi
+Sennepsmarken 56771 Gredstedbro,dbro,1.075.000,14-05-2013,Alm. Salg,7.904,6,Villa,136,1976,-2 %,Aktuel værdi
+Hjortlundvej 1236771 Gredstedbro,dbro,1.650.000,11-05-2013,Alm. Salg,5.030,7,Villa,328,1912,-3 %,Aktuel værdi
+Gyden 66771 Gredstedbro,dbro,1.500.000,02-04-2013,Alm. Salg,6.493,6,Villa,231,1978,,Aktuel værdi
+Kjærmarken 326771 Gredstedbro,dbro,98.351,02-04-2013,Alm. Salg,588,6,Villa,167,2013,,Aktuel værdi
+Jedsted Bjerge Vej 616771 Gredstedbro,dbro,250.000,23-03-2013,Alm. Salg,2.032,4,Villa,123,1925,0 %,Aktuel værdi
+Langbjergvej 46771 Gredstedbro,dbro,1.660.000,21-03-2013,Alm. Salg,9.120,6,Villa,182,1919,-10 %,Aktuel værdi
+Majsmarken 156771 Gredstedbro,dbro,430.800,09-02-2013,Fam. Salg,3.846,4,Villa,112,1969,,Aktuel værdi
+Kjærmarken 406771 Gredstedbro,dbro,145.086,25-01-2013,Alm. Salg,838,6,Villa,173,2013,,Aktuel værdi
+Plougstrupvej 276771 Gredstedbro,dbro,214.500,04-01-2013,Alm. Salg,-,6,Villa,177,1951,,Aktuel værdi
+Valmuemarken 206771 Gredstedbro,dbro,800.000,07-12-2012,Alm. Salg,9.523,3,Villa,84,1978,,Aktuel værdi
+Nørrebyvej 106771 Gredstedbro,dbro,1.998.000,05-12-2012,Alm. Salg,10.978,8,Stuehus,182,1955,0 %,
+Valmuemarken 186771 Gredstedbro,dbro,320.000,26-11-2012,Alm. Salg,1.939,5,Villa,165,1974,-35 %,Aktuel værdi
+Jedstedvej 316771 Gredstedbro,dbro,2.000.000,12-11-2012,Alm. Salg,9.433,6,Stuehus,212,1847,,
+Forbrovej 116771 Gredstedbro,dbro,1.425.000,25-10-2012,Fam. Salg,3.290,12,Villa,433,1900,,Aktuel værdi
+Aavej 36771 Gredstedbro,dbro,1.375.000,16-10-2012,Alm. Salg,7.681,4,Villa,179,1924,-18 %,Aktuel værdi
+Aavej 216771 Gredstedbro,dbro,650.000,15-10-2012,Alm. Salg,6.989,3,Villa,93,1958,,Aktuel værdi
+Hjortlundvej 946771 Gredstedbro,dbro,1.750.000,09-10-2012,Alm. Salg,8.838,9,Villa,198,1926,17 %,Aktuel værdi
+Jedstedvej 266771 Gredstedbro,dbro,687.500,27-09-2012,Fam. Salg,4.493,5,Villa,153,1850,,Aktuel værdi
+Plougstrupvej 376771 Gredstedbro,dbro,1.150.000,21-09-2012,Alm. Salg,5.450,5,Stuehus,211,1869,15 %,
+Hjortlundvej 616771 Gredstedbro,dbro,730.000,20-09-2012,Alm. Salg,5.367,4,Villa,136,1933,-2 %,Aktuel værdi
+Vinkelvej 126771 Gredstedbro,dbro,900.000,18-09-2012,Alm. Salg,6.818,4,Villa,132,1974,-17 %,Aktuel værdi
+Præstegårdsvej 26771 Gredstedbro,dbro,1.725.000,07-09-2012,Alm. Salg,6.927,6,Villa,249,1894,-4 %,Aktuel værdi
+Vestergade 266771 Gredstedbro,dbro,250.000,07-09-2012,Alm. Salg,2.252,6,Villa,111,1938,-48 %,Aktuel værdi
+Vilslev Spang 116771 Gredstedbro,dbro,950.000,03-09-2012,Alm. Salg,3.310,6,Villa,287,1827,-27 %,Aktuel værdi
+Mejerivej 106771 Gredstedbro,dbro,850.000,29-08-2012,Alm. Salg,4.594,5,Stuehus,185,1929,-5 %,
+Kjærmarken 46771 Gredstedbro,dbro,87.117,27-08-2012,Alm. Salg,604,5,Villa,144,2013,,Aktuel værdi
+Plougstrupvej 2A6771 Gredstedbro,dbro,390.000,01-07-2012,Alm. Salg,2.805,6,Villa,139,1975,,Aktuel værdi
+Vestergade 466771 Gredstedbro,dbro,400.000,29-06-2012,Alm. Salg,2.985,5,Villa,134,1943,-20 %,Aktuel værdi
+Kjærmarken 306771 Gredstedbro,dbro,150.000,05-06-2012,Alm. Salg,986,6,Villa,152,2013,,Aktuel værdi
+Rolighedsvej 216771 Gredstedbro,dbro,850.000,25-05-2012,Alm. Salg,6.538,4,Villa,130,1973,-8 %,Aktuel værdi
+Jedstedvej 666771 Gredstedbro,dbro,220.000,10-05-2012,Auktion,1.964,4,Villa,112,1950,,Aktuel værdi
+Jedsted Klostervej 676771 Gredstedbro,dbro,460.000,30-04-2012,Alm. Salg,-,5,Villa,175,1964,-7 %,Aktuel værdi
+Bykrogen 26771 Gredstedbro,dbro,680.000,29-04-2012,Alm. Salg,5.271,4,Villa,129,1986,-14 %,Aktuel værdi
+Vesterbyvej 256771 Gredstedbro,dbro,945.000,11-04-2012,Alm. Salg,8.513,6,Villa,111,1877,-5 %,Aktuel værdi
+Plougstrupvej 566771 Gredstedbro,dbro,8.700.000,04-04-2012,Alm. Salg,35.510,10,Stuehus,245,1920,,
+Sønderbyvej 176771 Gredstedbro,dbro,496.901,29-03-2012,Fam. Salg,4.436,3,Villa,112,1973,,Aktuel værdi
+Rørskiftevej 36771 Gredstedbro,dbro,998.000,09-03-2012,Alm. Salg,-,5,Villa,190,1920,0 %,Aktuel værdi
+Hjortlundvej 1196771 Gredstedbro,dbro,1.195.000,08-03-2012,Alm. Salg,8.659,5,Villa,138,1897,0 %,Aktuel værdi
+Sønderbyvej 196771 Gredstedbro,dbro,480.000,05-03-2012,Alm. Salg,4.948,4,Villa,97,1917,-4 %,Aktuel værdi
+Jedstedvej 366771 Gredstedbro,dbro,490.000,01-03-2012,Alm. Salg,7.101,4,Villa,69,1900,-2 %,Aktuel værdi
+Hjortlundvej 1046771 Gredstedbro,dbro,14.200.000,15-02-2012,Alm. Salg,47.019,10,Stuehus,302,1955,,
+Ulkjærvej 436771 Gredstedbro,dbro,550.000,16-01-2012,Alm. Salg,6.547,3,Rækkehus,84,1978,-8 %,Aktuel værdi
+Vestergade 496771 Gredstedbro,dbro,550.000,22-12-2011,Alm. Salg,6.875,3,Villa,80,1960,-12 %,Aktuel værdi
+Kongeådal 136771 Gredstedbro,dbro,680.000,20-12-2011,Alm. Salg,6.071,3,Villa,112,1971,,Aktuel værdi
+Aavej 26771 Gredstedbro,dbro,1.400.000,21-11-2011,Alm. Salg,8.187,6,Villa,171,1924,-6 %,Aktuel værdi
+Vesterbyvej 36771 Gredstedbro,dbro,870.000,15-11-2011,Auktion,4.780,5,Villa,182,1700,,Aktuel værdi
+Vestergade 46771 Gredstedbro,dbro,397.000,10-11-2011,Alm. Salg,3.053,5,Villa,130,1981,,Aktuel værdi
+Vilslevvej 126771 Gredstedbro,dbro,850.000,01-11-2011,Fam. Salg,8.947,4,Villa,95,1964,,Aktuel værdi
+Kongeådal 156771 Gredstedbro,dbro,1.195.000,12-10-2011,Alm. Salg,8.917,5,Villa,134,1951,,Aktuel værdi
+Vilslevvej 286771 Gredstedbro,dbro,850.000,06-10-2011,Alm. Salg,9.883,3,Villa,86,1952,,Aktuel værdi
+Plougstrupvej 1076771 Gredstedbro,dbro,1.836.000,29-09-2011,Auktion,10.431,5,Stuehus,176,1868,,
+Kløvermarken 86771 Gredstedbro,dbro,900.000,20-09-2011,Alm. Salg,7.438,4,Villa,121,1972,-3 %,Aktuel værdi
+Vilslevvej 686771 Gredstedbro,dbro,2.098.000,28-08-2011,Fam. Salg,5.245,11,Villa,400,1780,,Aktuel værdi
+Ulkjærvej 356771 Gredstedbro,dbro,975.000,02-08-2011,Alm. Salg,5.909,5,Villa,165,1969,-15 %,Aktuel værdi
+Vesterbyvej 26771 Gredstedbro,dbro,550.000,28-06-2011,Auktion,3.666,5,Villa,150,1924,,Aktuel værdi
+Jedsted Møllevej 16771 Gredstedbro,dbro,545.000,09-06-2011,Alm. Salg,-,6,Villa,132,1953,-5 %,Aktuel værdi
+Vilslevvej 166771 Gredstedbro,dbro,8.334.103,06-05-2011,Fam. Salg,51.129,7,Stuehus,163,1906,,
+Plougstrupvej 506771 Gredstedbro,dbro,550.000,02-05-2011,Alm. Salg,4.104,3,Villa,134,1912,,Aktuel værdi
+Hjortlundvej 266771 Gredstedbro,dbro,1.050.000,29-04-2011,Alm. Salg,6.176,5,Villa,170,1974,,Aktuel værdi
+Sønderbyvej 66771 Gredstedbro,dbro,550.000,20-04-2011,Alm. Salg,3.956,6,Villa,139,1870,-12 %,Aktuel værdi
+Gørdingvej 36771 Gredstedbro,dbro,175.000,14-04-2011,Alm. Salg,1.767,3,Villa,99,1906,,Aktuel værdi
+Majsmarken 36771 Gredstedbro,dbro,604.245,12-04-2011,Andet,4.285,5,Villa,141,1969,,Aktuel værdi
+Ulkjærvej 376771 Gredstedbro,dbro,1.800.000,01-04-2011,Alm. Salg,12.000,5,Villa,150,1969,,Aktuel værdi
+Hvedemarken 16771 Gredstedbro,dbro,900.000,01-04-2011,Alm. Salg,7.758,5,Villa,116,1973,,Aktuel værdi
+Kongeåvej 36B6771 Gredstedbro,dbro,1.019.000,30-03-2011,Fam. Salg,10.190,2,Villa,100,1994,,Aktuel værdi
+Puggårdsvej 896771 Gredstedbro,dbro,580.000,08-03-2011,Fam. Salg,3.152,7,Villa,184,1878,,Aktuel værdi
+Kongeåvej 66771 Gredstedbro,dbro,740.000,02-03-2011,Alm. Salg,7.047,4,Villa,105,1966,,Aktuel værdi
+Gredstedvej 106771 Gredstedbro,dbro,650.000,02-03-2011,Alm. Salg,5.200,5,Villa,125,1907,0 %,Aktuel værdi
+Plougstrupvej 116771 Gredstedbro,dbro,540.000,24-01-2011,Alm. Salg,4.000,4,Villa,135,1927,-9 %,Aktuel værdi
+Drævtvej 46771 Gredstedbro,dbro,1.825.000,06-12-2010,Alm. Salg,-,9,Villa,226,1918,-8 %,Aktuel værdi
+Kjærmarken 106771 Gredstedbro,dbro,131.240,29-11-2010,Alm. Salg,776,6,Villa,169,2012,,Aktuel værdi
+Sønderbyvej 76771 Gredstedbro,dbro,940.000,08-11-2010,Alm. Salg,7.230,4,Villa,130,1987,,Aktuel værdi
+Puggårdsvej 856771 Gredstedbro,dbro,920.000,01-11-2010,Alm. Salg,4.554,5,Villa,202,1906,,Aktuel værdi
+Vestergade 506771 Gredstedbro,dbro,1.050.000,28-09-2010,Alm. Salg,6.287,5,Villa,167,1911,-12 %,Aktuel værdi
+Jernvedvej 256771 Gredstedbro,dbro,643.100,31-08-2010,Alm. Salg,7.477,3,Villa,86,1870,-49 %,Aktuel værdi
+Vestparken 56771 Gredstedbro,dbro,575.000,26-08-2010,Alm. Salg,4.291,4,Villa,134,1971,-4 %,Aktuel værdi
+Gørdingvej 166771 Gredstedbro,dbro,625.000,13-08-2010,Alm. Salg,6.377,4,Villa,98,1943,0 %,Aktuel værdi
+Brokærvej 36771 Gredstedbro,dbro,775.000,13-08-2010,Alm. Salg,12.916,2,Villa,60,1956,-3 %,Aktuel værdi
+Rolighedsvej 36771 Gredstedbro,dbro,585.000,09-08-2010,Alm. Salg,7.312,3,Villa,80,1961,-10 %,Aktuel værdi
+Skråvej 36771 Gredstedbro,dbro,1.365.000,23-07-2010,Alm. Salg,7.222,6,Villa,189,1965,-2 %,Aktuel værdi
+Puggårdsvej 286771 Gredstedbro,dbro,1.900.000,02-07-2010,Alm. Salg,9.359,7,Villa,203,1915,,Aktuel værdi
+Sønderbyvej 16771 Gredstedbro,dbro,759.000,22-06-2010,Auktion,3.123,6,Villa,243,1930,-5 %,Aktuel værdi
+Vestparken 126771 Gredstedbro,dbro,700.000,31-05-2010,Alm. Salg,5.000,5,Villa,140,1972,-10 %,Aktuel værdi
+Rolighedsvej 256771 Gredstedbro,dbro,795.000,03-05-2010,Alm. Salg,6.360,4,Villa,125,1973,0 %,Aktuel værdi
+Vesterbyvej 86771 Gredstedbro,dbro,650.000,22-04-2010,Alm. Salg,11.607,6,Villa,56,1955,,Aktuel værdi
+Vestergade 146771 Gredstedbro,dbro,575.000,22-04-2010,Alm. Salg,8.984,5,Villa,64,1907,,Aktuel værdi
+Vilslevvej 516771 Gredstedbro,dbro,447.740,25-03-2010,Alm. Salg,3.794,5,Villa,118,1937,,Aktuel værdi
+Jedsted Klostervej 46771 Gredstedbro,dbro,250.000,05-03-2010,Alm. Salg,1.633,5,Villa,153,2009,,Aktuel værdi
+Forbrovej 56771 Gredstedbro,dbro,950.000,01-03-2010,Alm. Salg,6.934,4,Villa,137,1979,-8 %,Aktuel værdi
+Kongeådal 116771 Gredstedbro,dbro,810.000,24-02-2010,Alm. Salg,6.090,5,Villa,133,1973,,Aktuel værdi
+Jedstedvej 396771 Gredstedbro,dbro,560.000,15-12-2009,Alm. Salg,6.588,4,Villa,85,1885,-25 %,Aktuel værdi
+Lupinmarken 66771 Gredstedbro,dbro,539.117,01-12-2009,Alm. Salg,3.327,3,Villa,162,1973,,Aktuel værdi
+Hvedemarken 66771 Gredstedbro,dbro,1.100.000,17-11-2009,Alm. Salg,7.236,5,Villa,152,1973,-6 %,Aktuel værdi
+Vilslevvej 526771 Gredstedbro,dbro,684.273,13-11-2009,Alm. Salg,3.932,7,Villa,174,1927,,Aktuel værdi
+Forbrovej 16771 Gredstedbro,dbro,1.300.000,09-10-2009,Alm. Salg,7.471,4,Villa,174,1973,-10 %,Aktuel værdi
+Plougstrupvej 96771 Gredstedbro,dbro,660.000,21-09-2009,Alm. Salg,-,5,Villa,161,1951,-5 %,Aktuel værdi
+Darumvej 36771 Gredstedbro,dbro,550.000,10-09-2009,Alm. Salg,3.985,4,Villa,138,1943,,Aktuel værdi
+Kongeåvej 96771 Gredstedbro,dbro,775.000,24-08-2009,Alm. Salg,7.828,4,Villa,99,1944,-3 %,Aktuel værdi
+Jedstedvej 416771 Gredstedbro,dbro,549.500,08-07-2009,Alm. Salg,2.189,7,Stuehus,251,1912,,
+Vesterbyvej 316771 Gredstedbro,dbro,11.000.000,02-07-2009,Fam. Salg,39.145,6,Stuehus,281,2010,,
+Jedsted Klostervej 166771 Gredstedbro,dbro,250.000,25-06-2009,Alm. Salg,1.923,5,Villa,130,1904,,Aktuel værdi
+Jernvedvej 2276771 Gredstedbro,dbro,1.885.000,15-06-2009,Alm. Salg,11.424,8,Villa,165,1916,-16 %,Aktuel værdi
+Gørdingvej 376771 Gredstedbro,dbro,1.050.000,24-04-2009,Alm. Salg,9.130,5,Villa,115,1979,-4 %,Aktuel værdi
+Sennepsmarken 286771 Gredstedbro,dbro,1.300.000,11-03-2009,Alm. Salg,8.552,6,Villa,152,1977,-10 %,Aktuel værdi
+Sennepsmarken 256771 Gredstedbro,dbro,900.000,25-02-2009,Alm. Salg,6.428,5,Villa,140,1974,-6 %,Aktuel værdi
+Gørdingvej 5A6771 Gredstedbro,dbro,6.400.000,20-02-2009,Andet,69.565,3,Villa,92,1929,,Aktuel værdi
+Kjærmarken 506771 Gredstedbro,dbro,1.910.000,30-01-2009,Alm. Salg,11.790,5,Villa,162,2005,-4 %,Aktuel værdi
+Kirkegade 86771 Gredstedbro,dbro,875.000,26-01-2009,Alm. Salg,-,8,Villa,257,1925,-10 %,Aktuel værdi
+Aavej 336771 Gredstedbro,dbro,1.395.000,15-01-2009,Alm. Salg,7.540,7,Villa,185,1957,-7 %,Aktuel værdi
+Nørrebyvej 226771 Gredstedbro,dbro,1.260.000,29-11-2008,Alm. Salg,-,5,Villa,171,1850,-5 %,Aktuel værdi
+Hjortlundvej 706771 Gredstedbro,dbro,2.450.000,25-11-2008,Alm. Salg,15.312,7,Stuehus,160,2003,,
+Vesterbyvej 296771 Gredstedbro,dbro,310.250,18-11-2008,Fam. Salg,4.432,3,Villa,70,1912,,Aktuel værdi
+Gørdingvej 146771 Gredstedbro,dbro,275.000,12-11-2008,Alm. Salg,3.089,5,Villa,89,1932,-27 %,Aktuel værdi
+Vilslevvej 586771 Gredstedbro,dbro,1.275.000,07-11-2008,Alm. Salg,8.388,5,Villa,152,1915,,Aktuel værdi
+Gørdingvej 206771 Gredstedbro,dbro,775.000,31-10-2008,Alm. Salg,5.166,6,Villa,150,1961,-6 %,Aktuel værdi
+Ulkjærvej 666771 Gredstedbro,dbro,500.000,20-10-2008,Fam. Salg,5.154,4,Villa,97,1924,,Aktuel værdi
+Jernvedvej 1996771 Gredstedbro,dbro,7.014.312,25-09-2008,Alm. Salg,27.082,5,Stuehus,259,1908,,
+Kjærmarken 1116771 Gredstedbro,dbro,188.577,25-09-2008,Alm. Salg,1.071,5,Villa,176,2014,,Aktuel værdi
+Kjærmarken 526771 Gredstedbro,dbro,151.320,18-09-2008,Alm. Salg,669,7,Villa,226,2013,,Aktuel værdi
+Sennepsmarken 206771 Gredstedbro,dbro,1.180.000,30-08-2008,Alm. Salg,9.833,5,Villa,120,1977,-9 %,Aktuel værdi
+Ulkjærvej 496771 Gredstedbro,dbro,775.000,29-08-2008,Alm. Salg,9.226,3,Rækkehus,84,1978,-6 %,Aktuel værdi
+Vestergade 116771 Gredstedbro,dbro,695.000,24-07-2008,Alm. Salg,-,6,Villa,93,1952,0 %,Aktuel værdi
+Puggårdsvej 646771 Gredstedbro,dbro,7.711.600,27-06-2008,Alm. Salg,41.684,4,Stuehus,185,1934,,
+Sportsvej 16771 Gredstedbro,dbro,406.622,19-06-2008,Alm. Salg,2.085,6,Villa,195,1952,,Aktuel værdi
+Jedstedvej 446771 Gredstedbro,dbro,3.900.000,02-06-2008,Alm. Salg,13.780,6,Villa,283,2000,-12 %,Aktuel værdi
+Lupinmarken 56771 Gredstedbro,dbro,1.575.000,30-05-2008,Alm. Salg,7.062,5,Villa,223,1976,-3 %,Aktuel værdi
+Vesterbyvej 166771 Gredstedbro,dbro,3.500.000,22-05-2008,Alm. Salg,24.137,4,Villa,145,1910,,Aktuel værdi
+Valmuemarken 216771 Gredstedbro,dbro,2.005.000,21-05-2008,Alm. Salg,-,8,Villa,300,1932,8 %,Aktuel værdi
+Valmuemarken 166771 Gredstedbro,dbro,940.000,10-05-2008,Alm. Salg,6.438,5,Villa,146,1970,,Aktuel værdi
+Hjortlundvej 666771 Gredstedbro,dbro,620.500,21-04-2008,Fam. Salg,4.279,4,Villa,145,1913,,Aktuel værdi
+Aavej 66771 Gredstedbro,dbro,985.000,16-04-2008,Alm. Salg,12.628,4,Villa,78,1953,-1 %,Aktuel værdi
+Havremarken 106771 Gredstedbro,dbro,1.455.000,11-04-2008,Alm. Salg,9.267,4,Villa,157,1973,,Aktuel værdi
+Sandvej 46771 Gredstedbro,dbro,850.000,04-04-2008,Alm. Salg,7.870,5,Villa,108,1970,-5 %,Aktuel værdi
+Kirkegade 106771 Gredstedbro,dbro,1.876.355,01-04-2008,Alm. Salg,6.677,11,Villa,281,1925,6 %,Aktuel værdi
+Vestergade 206771 Gredstedbro,dbro,750.000,01-04-2008,Alm. Salg,4.777,7,Villa,157,1907,-6 %,Aktuel værdi
+Ribe Landevej 716771 Gredstedbro,dbro,2.700.000,04-03-2008,Alm. Salg,9.246,7,Villa,292,1915,-10 %,Aktuel værdi
+Bygmarken 46771 Gredstedbro,dbro,1.185.000,16-02-2008,Alm. Salg,8.061,3,Villa,147,1971,-3 %,Aktuel værdi
+Jernvedvej 2416771 Gredstedbro,dbro,10.000.000,17-01-2008,Alm. Salg,47.619,9,Stuehus,210,1903,,
+Kirkegade 66771 Gredstedbro,dbro,703.049,10-01-2008,Andet,4.478,6,Villa,157,1929,,Aktuel værdi
+Gulerodsmarken 56771 Gredstedbro,dbro,1.225.000,07-01-2008,Alm. Salg,12.250,3,Villa,100,2004,-2 %,Aktuel værdi
+Vestergade 436771 Gredstedbro,dbro,545.000,19-12-2007,Alm. Salg,6.055,3,Villa,90,1952,-9 %,Aktuel værdi
+Ulkjærvej 96771 Gredstedbro,dbro,920.000,08-12-2007,Alm. Salg,6.666,5,Villa,138,1922,-3 %,Aktuel værdi
+Ulkjærvej 476771 Gredstedbro,dbro,650.000,02-11-2007,Alm. Salg,10.317,2,Rækkehus,63,1978,-5 %,Aktuel værdi
+Vilslev Spang 136771 Gredstedbro,dbro,1.327.500,29-10-2007,Fam. Salg,-,7,Villa,217,1877,,Aktuel værdi
+Kjærmarken 936771 Gredstedbro,dbro,116.400,15-08-2007,Alm. Salg,741,6,Villa,157,2009,,Aktuel værdi
+Ulkjærvej 676771 Gredstedbro,dbro,10.690.000,19-07-2007,Fam. Salg,50.904,5,Stuehus,210,1964,,
+Jernvedvej 2096771 Gredstedbro,dbro,2.167.500,27-06-2007,Fam. Salg,13.546,8,Stuehus,160,1832,,
+Kjærmarken 186771 Gredstedbro,dbro,126.700,15-06-2007,Alm. Salg,715,5,Villa,177,2008,,Aktuel værdi
+Havremarken 126771 Gredstedbro,dbro,326.000,11-06-2007,Alm. Salg,-,7,Villa,189,1973,,Aktuel værdi
+Hjortlundvej 886771 Gredstedbro,dbro,700.000,30-05-2007,Alm. Salg,9.722,3,Villa,72,1952,,Aktuel værdi
+Kjærmarken 26771 Gredstedbro,dbro,103.000,26-05-2007,Alm. Salg,804,4,Villa,128,2016,,Aktuel værdi
+Vilslevvej 39B6771 Gredstedbro,dbro,395.000,25-05-2007,Alm. Salg,4.340,3,Villa,91,1808,0 %,Aktuel værdi
+Kjærmarken 1036771 Gredstedbro,dbro,157.500,22-05-2007,Alm. Salg,910,5,Villa,173,2008,,Aktuel værdi
+Vilslevvej 416771 Gredstedbro,dbro,225.000,14-05-2007,Alm. Salg,1.875,4,Villa,120,1971,,Aktuel værdi
+"Vestergade 2, 16771 Gredstedbro",dbro,975.000,22-04-2007,Alm. Salg,23.780,3,Lejlighed,41,1909,,Aktuel værdi
+Brandvej 16771 Gredstedbro,dbro,735.000,20-04-2007,Alm. Salg,-,4,Villa,184,1930,-5 %,Aktuel værdi
+Vestergade 476771 Gredstedbro,dbro,900.000,17-04-2007,Alm. Salg,4.972,5,Villa,181,1953,-9 %,Aktuel værdi
+Hans Jensens Vej 106771 Gredstedbro,dbro,885.000,30-03-2007,Alm. Salg,9.030,3,Villa,98,1964,,Aktuel værdi
+Ulkjærvej 26771 Gredstedbro,dbro,475.000,27-03-2007,Alm. Salg,6.690,3,Lejlighed,71,1976,,Aktuel værdi
+Havremarken 56771 Gredstedbro,dbro,1.300.000,27-03-2007,Fam. Salg,8.965,4,Villa,145,1974,,Aktuel værdi
+Jedstedvej 186771 Gredstedbro,dbro,750.000,27-03-2007,Fam. Salg,6.097,6,Villa,123,1957,,Aktuel værdi
+Kjærmarken 896771 Gredstedbro,dbro,1.345.000,24-03-2007,Alm. Salg,8.907,5,Villa,151,1986,-4 %,Aktuel værdi
+Darumvej 56771 Gredstedbro,dbro,561.000,20-03-2007,Alm. Salg,4.348,4,Villa,129,1943,,Aktuel værdi
+Hans Jensens Vej 436771 Gredstedbro,dbro,880.000,19-03-2007,Alm. Salg,10.476,4,Villa,84,1959,-1 %,Aktuel værdi
+Havfoldvej 16771 Gredstedbro,dbro,1.595.000,28-02-2007,Alm. Salg,15.637,2,Stuehus,102,1915,,
+Jedsted Engevej 76771 Gredstedbro,dbro,10.995.000,24-02-2007,Alm. Salg,99.954,6,Stuehus,110,1927,,
+Kirkebakken 426771 Gredstedbro,dbro,595.000,19-02-2007,Alm. Salg,6.134,4,Villa,97,1925,0 %,Aktuel værdi
+Fårevej 106771 Gredstedbro,dbro,27.400.900,09-02-2007,Alm. Salg,133.014,5,Stuehus,206,1937,,
+Kongeåvej 326771 Gredstedbro,dbro,515.000,05-02-2007,Alm. Salg,4.291,6,Villa,120,1933,-21 %,Aktuel værdi
+Plougstrupvej 736771 Gredstedbro,dbro,161.000,02-02-2007,Alm. Salg,1.916,3,Stuehus,84,1865,,
+Jedsted Klostervej 226771 Gredstedbro,dbro,663.000,22-01-2007,Alm. Salg,4.735,4,Villa,140,1979,,Aktuel værdi
+Gørdingvej 706771 Gredstedbro,dbro,812.000,02-01-2007,Alm. Salg,4.511,5,Stuehus,180,1958,,
+Plougstrupvej 366771 Gredstedbro,dbro,635.000,25-12-2006,Alm. Salg,7.055,2,Villa,90,1884,,Aktuel værdi
+Plougstrupvej 30A6771 Gredstedbro,dbro,675.000,04-12-2006,Alm. Salg,3.096,5,Villa,218,1870,,Aktuel værdi
+Vilslevvej 246771 Gredstedbro,dbro,785.000,06-10-2006,Alm. Salg,5.097,6,Villa,154,1955,,Aktuel værdi
+Kongeåvej 46771 Gredstedbro,dbro,1.000.000,18-09-2006,Alm. Salg,4.878,8,Villa,205,1910,,Aktuel værdi
+Holtsagervej 186771 Gredstedbro,dbro,371.434,15-09-2006,Andet,2.947,4,Villa,126,1860,,Aktuel værdi
+Kongeåvej 286771 Gredstedbro,dbro,1.000.000,11-09-2006,Alm. Salg,6.060,6,Villa,165,1957,,Aktuel værdi
+Puggårdsvej 576771 Gredstedbro,dbro,1.500.000,30-08-2006,Alm. Salg,9.615,4,Villa,156,1897,,Aktuel værdi
+Kjærmarken 816771 Gredstedbro,dbro,1.300.000,28-08-2006,Alm. Salg,8.724,5,Villa,149,1984,,Aktuel værdi
+Ulkjærvej 246771 Gredstedbro,dbro,49.000,11-08-2006,Alm. Salg,283,7,Villa,173,2008,,Aktuel værdi
+Kjærmarken 1136771 Gredstedbro,dbro,143.340,10-08-2006,Alm. Salg,955,5,Villa,150,2007,,Aktuel værdi
+Plougstrupvej 446771 Gredstedbro,dbro,648.000,06-07-2006,Alm. Salg,5.890,3,Villa,110,1982,,Aktuel værdi
+Jedsted Klostervej 146771 Gredstedbro,dbro,1.995.000,30-06-2006,Alm. Salg,9.779,8,Villa,204,2002,,Aktuel værdi
+Holtsagervej 266771 Gredstedbro,dbro,903.527,27-06-2006,Fam. Salg,6.547,5,Villa,138,1947,,Aktuel værdi
+Jernved Hedevej 106771 Gredstedbro,dbro,880.000,20-06-2006,Alm. Salg,6.068,11,Villa,145,1906,,Aktuel værdi
+Jernvedvej 2126771 Gredstedbro,dbro,995.000,18-06-2006,Alm. Salg,5.958,7,Villa,167,1920,,Aktuel værdi
+Ulkjærvej 336771 Gredstedbro,dbro,800.000,28-05-2006,Alm. Salg,5.333,3,Villa,150,1965,,Aktuel værdi
+Rolighedsvej 16771 Gredstedbro,dbro,650.000,26-05-2006,Alm. Salg,5.078,5,Villa,128,1925,,Aktuel værdi
+Møgelhøjvej 156771 Gredstedbro,dbro,1.000.000,19-05-2006,Alm. Salg,10.416,3,Stuehus,96,2004,,
+Gørdingvej 386771 Gredstedbro,dbro,317.000,03-05-2006,Alm. Salg,2.805,4,Villa,113,1978,,Aktuel værdi
+Jernvedvej 2066771 Gredstedbro,dbro,665.000,11-04-2006,Alm. Salg,6.157,5,Villa,108,1935,,Aktuel værdi
+Kirkebakken 466771 Gredstedbro,dbro,337.500,06-04-2006,Alm. Salg,2.045,5,Villa,165,1928,,Aktuel værdi
+Vesterbyvej 236771 Gredstedbro,dbro,1.450.000,05-04-2006,Alm. Salg,7.671,6,Villa,189,1910,,Aktuel værdi
+Holtsagervej 226771 Gredstedbro,dbro,630.000,23-03-2006,Alm. Salg,3.841,4,Villa,164,1870,,Aktuel værdi
+Gredsted Hedevej 56771 Gredstedbro,dbro,1.248.000,17-03-2006,Alm. Salg,5.914,10,Villa,211,1860,,Aktuel værdi
+Vilslevvej 39A6771 Gredstedbro,dbro,700.000,14-03-2006,Alm. Salg,6.250,4,Villa,112,1981,,Aktuel værdi
+Ulkjærvej 596771 Gredstedbro,dbro,3.959.358,15-02-2006,Alm. Salg,17.754,8,Stuehus,223,1877,,
+Plougsvadvej 236771 Gredstedbro,dbro,1.148.000,03-02-2006,Alm. Salg,5.466,5,Villa,210,1948,,Aktuel værdi
+Vestergade 56771 Gredstedbro,dbro,720.000,18-01-2006,Alm. Salg,4.363,6,Villa,165,1944,,Aktuel værdi
+Rugmarken 56771 Gredstedbro,dbro,825.000,19-12-2005,Alm. Salg,7.236,6,Villa,114,1973,,Aktuel værdi
+Kirkegade 126771 Gredstedbro,dbro,1.095.000,14-12-2005,Alm. Salg,7.934,5,Villa,138,1920,,Aktuel værdi
+Plougstrupvej 1156771 Gredstedbro,dbro,850.000,02-12-2005,Alm. Salg,6.488,5,Villa,131,1948,,Aktuel værdi
+Aavej 396771 Gredstedbro,dbro,735.000,15-11-2005,Alm. Salg,6.562,4,Villa,112,1973,,Aktuel værdi
+Ulkjærvej 156771 Gredstedbro,dbro,700.000,08-11-2005,Fam. Salg,5.982,4,Villa,117,1954,,Aktuel værdi
+Gørdingvej 416771 Gredstedbro,dbro,715.000,04-11-2005,Alm. Salg,4.735,5,Villa,151,1916,,Aktuel værdi
+Gørdingvej 39B6771 Gredstedbro,dbro,1.005.000,02-11-2005,Alm. Salg,5.677,7,Villa,177,1920,,Aktuel værdi
+Aavej 136771 Gredstedbro,dbro,810.000,27-10-2005,Alm. Salg,7.363,3,Villa,110,1966,,Aktuel værdi
+Sønderbyvej 26771 Gredstedbro,dbro,870.000,13-10-2005,Alm. Salg,6.796,5,Villa,128,1986,,Aktuel værdi
+Kjærmarken 1096771 Gredstedbro,dbro,209.019,12-10-2005,Alm. Salg,1.306,6,Villa,160,2006,,Aktuel værdi
+Brokærvej 26771 Gredstedbro,dbro,513.569,11-10-2005,Fam. Salg,4.244,4,Villa,121,1945,,Aktuel værdi
+Hjortlundvej 1176771 Gredstedbro,dbro,675.000,29-09-2005,Alm. Salg,-,7,Villa,207,1902,,Aktuel værdi
+Vesterbyvej 1C6771 Gredstedbro,dbro,995.000,28-09-2005,Alm. Salg,5.922,6,Villa,168,1915,,Aktuel værdi
+Jernvedvej 16771 Gredstedbro,dbro,1.450.000,28-09-2005,Alm. Salg,8.841,5,Villa,164,1999,,Aktuel værdi
+Vesterbyvej 76771 Gredstedbro,dbro,975.000,25-09-2005,Alm. Salg,5.945,5,Villa,164,1800,,Aktuel værdi
+Sønderbyvej 56771 Gredstedbro,dbro,998.000,23-09-2005,Alm. Salg,5.544,7,Villa,180,1986,,Aktuel værdi
+Kjærmarken 776771 Gredstedbro,dbro,893.000,21-09-2005,Alm. Salg,6.714,5,Villa,133,1979,,Aktuel værdi
+Plougstrupvej 316771 Gredstedbro,dbro,425.000,09-09-2005,Alm. Salg,3.244,6,Villa,131,1916,,Aktuel værdi
+Vilslevvej 266771 Gredstedbro,dbro,1.150.000,27-08-2005,Alm. Salg,4.509,8,Villa,255,1907,,Aktuel værdi
+Jedsted Klostervej 576771 Gredstedbro,dbro,495.000,22-08-2005,Alm. Salg,3.322,5,Villa,149,1897,,Aktuel værdi
+Sportsvej 36771 Gredstedbro,dbro,780.000,14-08-2005,Alm. Salg,4.357,6,Villa,179,1964,,Aktuel værdi
+Majsmarken 236771 Gredstedbro,dbro,1.130.000,25-07-2005,Alm. Salg,7.957,5,Villa,142,1973,,Aktuel værdi
+Plougstrupvej 66771 Gredstedbro,dbro,384.000,13-07-2005,Alm. Salg,3.339,4,Villa,115,1967,,Aktuel værdi
+Vestparken 116771 Gredstedbro,dbro,910.000,11-07-2005,Alm. Salg,6.691,4,Villa,136,1969,,Aktuel værdi
+Holtsagervej 46771 Gredstedbro,dbro,557.500,08-07-2005,Alm. Salg,4.495,6,Villa,124,1876,,Aktuel værdi
+Jernvedvej 2516771 Gredstedbro,dbro,1.450.000,29-06-2005,Alm. Salg,5.846,6,Villa,248,1860,,Aktuel værdi
+Hans Jensens Vej 26771 Gredstedbro,dbro,460.000,06-06-2005,Auktion,-,7,Villa,177,1956,,Aktuel værdi
+Jedsted Klostervej 306771 Gredstedbro,dbro,500.000,06-06-2005,Auktion,2.463,4,Villa,203,1850,,Aktuel værdi
+Darumvej 26771 Gredstedbro,dbro,875.000,03-06-2005,Alm. Salg,3.739,5,Villa,234,1934,,Aktuel værdi
+Jernvedvej 176771 Gredstedbro,dbro,800.000,30-05-2005,Alm. Salg,8.000,4,Villa,100,1885,,Aktuel værdi
+Gørdingvej 96771 Gredstedbro,dbro,175.000,29-05-2005,Alm. Salg,1.346,4,Villa,130,1929,,Aktuel værdi
+Gørdingvej 46771 Gredstedbro,dbro,520.000,25-05-2005,Alm. Salg,4.000,5,Villa,130,1914,,Aktuel værdi
+Præstegårdsvej 126771 Gredstedbro,dbro,898.000,25-05-2005,Alm. Salg,5.986,6,Villa,150,1916,,Aktuel værdi
+Grønnevej 46771 Gredstedbro,dbro,665.000,26-04-2005,Alm. Salg,8.750,4,Villa,76,1925,,Aktuel værdi
+Hjortlundvej 766771 Gredstedbro,dbro,1.300.000,21-04-2005,Alm. Salg,-,7,Villa,241,1876,,Aktuel værdi
+Vestergade 406771 Gredstedbro,dbro,600.000,12-04-2005,Alm. Salg,5.769,3,Villa,104,1942,,Aktuel værdi
+Jedstedvej 166771 Gredstedbro,dbro,494.775,04-04-2005,Andet,2.356,8,Villa,210,1827,,Aktuel værdi
+Puggårdsvej 696771 Gredstedbro,dbro,625.000,26-03-2005,Alm. Salg,2.248,11,Villa,278,1903,,Aktuel værdi
+Kongeåvej 366771 Gredstedbro,dbro,750.000,13-03-2005,Alm. Salg,6.818,4,Villa,110,1961,,Aktuel værdi
+Vestergade 366771 Gredstedbro,dbro,420.000,09-03-2005,Alm. Salg,4.719,3,Villa,89,1960,,Aktuel værdi
+Aavej 416771 Gredstedbro,dbro,715.000,07-03-2005,Alm. Salg,6.441,4,Villa,111,1978,,Aktuel værdi
+Jernvedvej 2526771 Gredstedbro,dbro,570.000,24-02-2005,Alm. Salg,2.878,7,Villa,198,1857,,Aktuel værdi
+Kjærmarken 346771 Gredstedbro,dbro,111.000,22-02-2005,Alm. Salg,730,5,Villa,152,2005,,Aktuel værdi
+Gørdingvej 486771 Gredstedbro,dbro,860.000,02-02-2005,Alm. Salg,4.699,7,Villa,183,1973,,Aktuel værdi
+Præstegårdsvej 96771 Gredstedbro,dbro,1.450.000,01-02-2005,Alm. Salg,12.946,4,Villa,112,1827,,Aktuel værdi
+Hjortlundvej 396771 Gredstedbro,dbro,476.000,30-01-2005,Fam. Salg,4.327,3,Villa,110,1951,,Aktuel værdi
+Kirkebakken 326771 Gredstedbro,dbro,730.000,24-01-2005,Alm. Salg,6.186,4,Villa,118,1947,,Aktuel værdi
+Kjærmarken 916771 Gredstedbro,dbro,70.000,20-01-2005,Alm. Salg,434,5,Villa,161,2005,,Aktuel værdi
+Sandvej 36771 Gredstedbro,dbro,625.000,20-01-2005,Alm. Salg,3.698,4,Villa,169,2009,,Aktuel værdi
+Kjærmarken 66771 Gredstedbro,dbro,115.000,11-01-2005,Alm. Salg,550,5,Villa,209,2005,,Aktuel værdi
+Kjærmarken 246771 Gredstedbro,dbro,113.000,05-01-2005,Alm. Salg,795,4,Villa,142,2005,,Aktuel værdi
+Jedstedvej 576771 Gredstedbro,dbro,7.374.600,17-12-2004,Fam. Salg,43.636,5,Stuehus,169,1898,,
+Kongeåvej 356771 Gredstedbro,dbro,354.400,14-12-2004,Alm. Salg,2.060,7,Stuehus,172,1928,,
+Bygmarken 86771 Gredstedbro,dbro,950.000,08-12-2004,Alm. Salg,7.196,4,Villa,132,1972,,Aktuel værdi
+Sennepsmarken 196771 Gredstedbro,dbro,875.000,12-11-2004,Alm. Salg,6.294,2,Villa,139,1982,,Aktuel værdi
+Jernvedvej 2156771 Gredstedbro,dbro,860.000,11-11-2004,Alm. Salg,4.699,4,Villa,183,1919,,Aktuel værdi
+Kongeåvej 56771 Gredstedbro,dbro,535.000,06-11-2004,Alm. Salg,5.194,4,Villa,103,1929,,Aktuel værdi
+Plougstrupvej 306771 Gredstedbro,dbro,1.075.000,06-11-2004,Alm. Salg,6.323,5,Villa,170,1916,,Aktuel værdi
+Hvedemarken 36771 Gredstedbro,dbro,600.000,25-10-2004,Alm. Salg,5.454,4,Villa,110,1976,,Aktuel værdi
+Jedsted Klostervej 156771 Gredstedbro,dbro,2.100.000,25-10-2004,Alm. Salg,10.880,5,Stuehus,193,1815,,
+Plougstrupvej 136771 Gredstedbro,dbro,450.000,04-10-2004,Alm. Salg,5.487,3,Villa,82,1935,,Aktuel værdi
+Jedsted Klostervej 96771 Gredstedbro,dbro,710.000,24-09-2004,Alm. Salg,9.594,3,Villa,74,1877,,Aktuel værdi
+Puggårdsvej 686771 Gredstedbro,dbro,760.000,13-08-2004,Alm. Salg,4.720,6,Villa,161,1906,,Aktuel værdi
+Vilslevvej 466771 Gredstedbro,dbro,795.000,22-06-2004,Fam. Salg,6.162,5,Villa,129,1915,,Aktuel værdi
+Plougstrupvej 416771 Gredstedbro,dbro,1.100.000,22-06-2004,Alm. Salg,5.314,5,Villa,207,1869,,Aktuel værdi
+Sportsvej 96771 Gredstedbro,dbro,570.000,08-06-2004,Alm. Salg,4.750,4,Villa,120,1929,,Aktuel værdi
+Vilslevvej 446771 Gredstedbro,dbro,400.000,01-06-2004,Alm. Salg,-,5,Villa,131,1877,,Aktuel værdi
+Plougstrupvej 536771 Gredstedbro,dbro,3.800.000,14-05-2004,Alm. Salg,28.148,5,Stuehus,135,1965,,
+Vestergade 226771 Gredstedbro,dbro,750.000,08-05-2004,Alm. Salg,4.237,6,Villa,177,1917,,Aktuel værdi
+Jedsted Klostervej 796771 Gredstedbro,dbro,400.000,01-05-2004,Alm. Salg,5.405,2,Villa,74,1950,,Aktuel værdi
+Sennepsmarken 356771 Gredstedbro,dbro,1.295.000,26-04-2004,Alm. Salg,8.248,6,Villa,157,1984,,Aktuel værdi
+Gørdingvej 356771 Gredstedbro,dbro,350.000,05-03-2004,Alm. Salg,2.941,4,Villa,119,1777,,Aktuel værdi
+Plougstrupvej 956771 Gredstedbro,dbro,870.000,19-02-2004,Alm. Salg,5.958,5,Villa,146,1966,,Aktuel værdi
+Puggårdsvej 846771 Gredstedbro,dbro,70.000,18-02-2004,Alm. Salg,304,7,Stuehus,230,1835,,
+Plougstrupvej 46771 Gredstedbro,dbro,800.000,18-02-2004,Alm. Salg,5.714,5,Villa,140,1969,,Aktuel værdi
+Plougstrupvej 76771 Gredstedbro,dbro,750.000,15-02-2004,Alm. Salg,6.000,4,Villa,125,1934,,Aktuel værdi
+Aavej 76771 Gredstedbro,dbro,945.000,12-02-2004,Alm. Salg,10.384,4,Villa,91,1944,,Aktuel værdi
+Kjærmarken 446771 Gredstedbro,dbro,187.400,08-02-2004,Alm. Salg,1.083,6,Villa,173,2004,,Aktuel værdi
+Gørdingvej 106771 Gredstedbro,dbro,500.000,29-01-2004,Alm. Salg,3.424,8,Villa,146,1934,,Aktuel værdi
+Vesterbyvej 116771 Gredstedbro,dbro,89.143,27-01-2004,Alm. Salg,627,4,Villa,142,2004,,Aktuel værdi
+Kjærmarken 546771 Gredstedbro,dbro,97.491,29-12-2003,Alm. Salg,-,7,Villa,193,2004,,Aktuel værdi
+Plougstrupvej 326771 Gredstedbro,dbro,1.420.000,21-12-2003,Alm. Salg,5.461,9,Villa,260,1876,,Aktuel værdi
+Gørdingvej 786771 Gredstedbro,dbro,830.000,30-11-2003,Alm. Salg,3.672,6,Villa,226,1974,,Aktuel værdi
+Gørdingvej 116771 Gredstedbro,dbro,300.000,28-11-2003,Alm. Salg,2.380,5,Villa,126,1948,,Aktuel værdi
+Plougstrupvej 496771 Gredstedbro,dbro,660.000,22-11-2003,Alm. Salg,3.473,4,Villa,190,1905,,Aktuel værdi
+Kirkegade 76771 Gredstedbro,dbro,860.000,18-11-2003,Alm. Salg,5.088,8,Villa,169,1935,,Aktuel værdi
+Puggårdsvej 406771 Gredstedbro,dbro,765.000,12-11-2003,Alm. Salg,-,5,Villa,190,1922,,Aktuel værdi
+Havfoldvej 26771 Gredstedbro,dbro,1.750.000,12-11-2003,Alm. Salg,7.142,5,Villa,245,1995,,Aktuel værdi
+Sennepsmarken 236771 Gredstedbro,dbro,737.500,01-11-2003,Alm. Salg,-,5,Villa,161,1976,,Aktuel værdi
+Vilslevvej 256771 Gredstedbro,dbro,61.500,29-10-2003,Alm. Salg,297,7,Stuehus,207,1894,,
+Ulkjærvej 386771 Gredstedbro,dbro,400.000,06-10-2003,Alm. Salg,5.194,3,Villa,77,1964,,Aktuel værdi
+Sønderbyvej 36771 Gredstedbro,dbro,1.230.000,20-08-2003,Alm. Salg,6.373,7,Villa,193,1988,,Aktuel værdi
+Kjærmarken 486771 Gredstedbro,dbro,111.000,08-08-2003,Alm. Salg,874,5,Villa,127,2003,,Aktuel værdi
+Kongeådal 66771 Gredstedbro,dbro,790.000,01-08-2003,Alm. Salg,5.851,5,Villa,135,1962,,Aktuel værdi
+Jedsted Møllevej 66771 Gredstedbro,dbro,1.550.000,31-07-2003,Alm. Salg,6.485,8,Villa,239,1840,,Aktuel værdi
+Jedsted Klostervej 106771 Gredstedbro,dbro,313.693,24-07-2003,Andet,-,5,Villa,185,1877,,Aktuel værdi
+Jedsted Engevej 116771 Gredstedbro,dbro,69.410,09-07-2003,Alm. Salg,-,5,Stuehus,131,1927,,
+Sennepsmarken 96771 Gredstedbro,dbro,596.638,02-07-2003,Alm. Salg,-,6,Villa,162,1977,,Aktuel værdi
+Vilslevvej 366771 Gredstedbro,dbro,1.125.000,12-06-2003,Alm. Salg,5.890,8,Villa,191,1979,,Aktuel værdi
+Lucernemarken 36771 Gredstedbro,dbro,890.000,10-06-2003,Alm. Salg,7.295,3,Villa,122,1975,,Aktuel værdi
+Sandvej 66771 Gredstedbro,dbro,1.450.000,10-06-2003,Alm. Salg,9.731,5,Villa,149,1996,,Aktuel værdi
+Kirkebakken 366771 Gredstedbro,dbro,720.000,23-05-2003,Alm. Salg,5.142,5,Villa,140,1958,,Aktuel værdi
+Gørdingvej 636771 Gredstedbro,dbro,199.630,28-04-2003,Alm. Salg,-,5,Villa,178,1954,,Aktuel værdi
+Jedsted Bjerge Vej 656771 Gredstedbro,dbro,544.364,27-04-2003,Fam. Salg,-,6,Villa,210,1943,,Aktuel værdi
+Jedsted Klostervej 716771 Gredstedbro,dbro,300.000,24-04-2003,Andet,3.947,3,Villa,76,1700,,Aktuel værdi
+Hjortlundvej 606771 Gredstedbro,dbro,1.742.500,08-04-2003,Fam. Salg,7.510,7,Stuehus,232,1927,,
+Hjortlundvej 916771 Gredstedbro,dbro,280.500,08-04-2003,Fam. Salg,1.689,7,Villa,166,1927,,Aktuel værdi
+Kjærmarken 366771 Gredstedbro,dbro,109.000,06-03-2003,Alm. Salg,741,6,Villa,147,2003,,Aktuel værdi
+Jedsted Klostervej 216771 Gredstedbro,dbro,665.000,01-02-2003,Alm. Salg,5.406,5,Villa,123,1800,,Aktuel værdi
+Ulkjærvej 366771 Gredstedbro,dbro,595.000,30-01-2003,Alm. Salg,5.560,4,Villa,107,1966,,Aktuel værdi
+Hans Jensens Vej 66771 Gredstedbro,dbro,600.000,29-01-2003,Alm. Salg,6.666,3,Villa,90,1960,,Aktuel værdi
+Vilslevvej 486771 Gredstedbro,dbro,618.714,21-01-2003,Alm. Salg,3.991,4,Villa,155,1917,,Aktuel værdi
+Puggårdsvej 726771 Gredstedbro,dbro,1.350.963,22-12-2002,Alm. Salg,7.463,7,Stuehus,181,1890,,
+Kongeådal 226771 Gredstedbro,dbro,1.434.425,04-12-2002,Alm. Salg,-,8,Villa,350,1917,,Aktuel værdi
+Hjortlundvej 446771 Gredstedbro,dbro,250.000,25-11-2002,Alm. Salg,2.016,5,Villa,124,1903,,Aktuel værdi
+Gørdingvej 746771 Gredstedbro,dbro,97.000,31-10-2002,Alm. Salg,-,8,Villa,218,2003,,Aktuel værdi
+Kjærmarken 286771 Gredstedbro,dbro,1.150.000,11-10-2002,Alm. Salg,9.200,4,Villa,125,1998,,Aktuel værdi
+Jernvedvej 2466771 Gredstedbro,dbro,1.620.000,03-10-2002,Alm. Salg,11.489,6,Stuehus,141,1915,,
+Jedstedvej 176771 Gredstedbro,dbro,450.000,28-08-2002,Alm. Salg,1.821,6,Stuehus,247,1920,,
+Vestergade 356771 Gredstedbro,dbro,360.000,26-08-2002,Alm. Salg,3.529,5,Villa,102,1914,,Aktuel værdi
+Kongeåvej 16771 Gredstedbro,dbro,495.000,20-08-2002,Alm. Salg,4.159,5,Villa,119,1937,,Aktuel værdi
+Jedsted Klostervej 286771 Gredstedbro,dbro,629.020,16-08-2002,Alm. Salg,4.398,4,Villa,143,1800,,Aktuel værdi
+Rørskiftevej 26771 Gredstedbro,dbro,650.000,15-08-2002,Alm. Salg,6.500,4,Villa,100,1800,,Aktuel værdi
+Hjortlundvej 16B6771 Gredstedbro,dbro,898.034,12-07-2002,Alm. Salg,-,5,Rækkehus,235,1977,,Aktuel værdi
+Vilslevvej 496771 Gredstedbro,dbro,337.738,24-05-2002,Fam. Salg,3.671,4,Villa,92,1934,,Aktuel værdi
+Plougstrupvej 186771 Gredstedbro,dbro,1.950.000,01-05-2002,Fam. Salg,9.466,6,Stuehus,206,1908,,
+Kirkegade 116771 Gredstedbro,dbro,575.000,27-04-2002,Alm. Salg,4.197,5,Villa,137,1949,,Aktuel værdi
+Sennepsmarken 266771 Gredstedbro,dbro,1.230.000,08-03-2002,Alm. Salg,9.179,5,Villa,134,1996,,Aktuel værdi
+Bygmarken 36771 Gredstedbro,dbro,765.000,15-01-2002,Alm. Salg,6.169,3,Villa,124,1972,,Aktuel værdi
+Vestparken 26771 Gredstedbro,dbro,575.000,15-11-2001,Alm. Salg,-,4,Villa,124,1967,,Aktuel værdi
+Aavej 116771 Gredstedbro,dbro,830.000,18-10-2001,Fam. Salg,-,9,Villa,230,1978,,Aktuel værdi
+Hjortlundvej 876771 Gredstedbro,dbro,650.000,20-09-2001,Alm. Salg,5.603,5,Villa,116,1961,,Aktuel værdi
+Sennepsmarken 376771 Gredstedbro,dbro,993.518,19-09-2001,Alm. Salg,-,6,Villa,158,1986,,Aktuel værdi
+Jedsted Klostervej 86771 Gredstedbro,dbro,1.330.956,15-09-2001,Alm. Salg,8.423,6,Villa,158,1999,,Aktuel værdi
+Puggårdsvej 766771 Gredstedbro,dbro,1.225.000,24-08-2001,Alm. Salg,5.542,7,Villa,221,1911,,Aktuel værdi
+Jedstedvej 216771 Gredstedbro,dbro,1.048.577,17-08-2001,Alm. Salg,7.884,5,Villa,133,1992,,Aktuel værdi
+Kirkebakken 346771 Gredstedbro,dbro,461.918,15-08-2001,Alm. Salg,3.849,5,Villa,120,1923,,Aktuel værdi
+Jedsted Klostervej 246771 Gredstedbro,dbro,1.055.000,23-07-2001,Alm. Salg,5.494,7,Villa,192,1877,,Aktuel værdi
+Lucernemarken 26771 Gredstedbro,dbro,886.576,04-07-2001,Alm. Salg,4.262,8,Villa,208,1973,,Aktuel værdi
+Jedstedvej 136771 Gredstedbro,dbro,425.000,04-07-2001,Alm. Salg,4.336,3,Villa,98,1900,,Aktuel værdi
+Havremarken 76771 Gredstedbro,dbro,625.000,28-06-2001,Alm. Salg,5.040,4,Villa,124,1975,,Aktuel værdi
+Jedsted Klostervej 236771 Gredstedbro,dbro,506.150,12-06-2001,Alm. Salg,4.049,4,Villa,125,1940,,Aktuel værdi
+Sennepsmarken 246771 Gredstedbro,dbro,110.000,10-05-2001,Alm. Salg,625,6,Villa,176,2004,,Aktuel værdi
+Vilslevvej 46771 Gredstedbro,dbro,505.000,04-05-2001,Alm. Salg,5.489,2,Villa,92,1957,,Aktuel værdi
+Sønderbyvej 156771 Gredstedbro,dbro,975.000,14-03-2001,Alm. Salg,5.838,5,Villa,167,1870,,Aktuel værdi
+Hjortlundvej 336771 Gredstedbro,dbro,270.000,12-03-2001,Fam. Salg,2.755,3,Villa,98,1968,,Aktuel værdi
+Jedstedvej 356771 Gredstedbro,dbro,630.000,09-03-2001,Fam. Salg,4.809,5,Villa,131,1945,,Aktuel værdi
+Gørdingvej 606771 Gredstedbro,dbro,538.124,08-03-2001,Alm. Salg,4.762,5,Villa,113,1928,,Aktuel værdi
+Vestergade 376771 Gredstedbro,dbro,801.000,08-03-2001,Alm. Salg,5.167,6,Villa,155,1924,,Aktuel værdi
+Sønderbyvej 13B6771 Gredstedbro,dbro,90.000,07-03-2001,Alm. Salg,671,5,Villa,134,2001,,Aktuel værdi
+Hjortlundvej 526771 Gredstedbro,dbro,1.338.700,23-02-2001,Fam. Salg,3.618,8,Stuehus,370,2009,,
+Kongeåvej 276771 Gredstedbro,dbro,550.000,23-01-2001,Alm. Salg,-,6,Villa,192,2003,,Aktuel værdi
+Hjortlundvej 936771 Gredstedbro,dbro,625.000,08-01-2001,Fam. Salg,5.000,4,Villa,125,1930,,Aktuel værdi
+Jernvedvej 2296771 Gredstedbro,dbro,490.000,04-01-2001,Alm. Salg,3.379,6,Villa,145,1915,,Aktuel værdi
+Vilslevvej 576771 Gredstedbro,dbro,720.000,20-12-2000,Alm. Salg,6.857,4,Villa,105,1780,,Aktuel værdi
+Aavej 16771 Gredstedbro,dbro,1.050.000,06-12-2000,Alm. Salg,6.176,5,Villa,170,1904,,Aktuel værdi
+Plougsvadvej 226771 Gredstedbro,dbro,577.027,29-11-2000,Alm. Salg,4.371,5,Villa,132,1947,,Aktuel værdi
+Vilslev Spang 86771 Gredstedbro,dbro,625.000,10-09-2000,Alm. Salg,-,4,Villa,101,1802,,Aktuel værdi
+Sennepsmarken 16771 Gredstedbro,dbro,737.052,30-08-2000,Alm. Salg,5.943,4,Villa,124,1969,,Aktuel værdi
+Nørrebyvej 26771 Gredstedbro,dbro,953.000,22-08-2000,Fam. Salg,6.618,5,Villa,144,1984,,Aktuel værdi
+Gørdingvej 296771 Gredstedbro,dbro,575.000,14-08-2000,Alm. Salg,4.356,4,Villa,132,1973,,Aktuel værdi
+Rolighedsvej 26771 Gredstedbro,dbro,555.000,28-07-2000,Alm. Salg,6.529,3,Rækkehus,85,1986,,Aktuel værdi
+Jernvedvej 76771 Gredstedbro,dbro,1.098.420,20-07-2000,Alm. Salg,6.461,5,Villa,170,1890,,Aktuel værdi
+Sandvej 16771 Gredstedbro,dbro,860.000,30-06-2000,Alm. Salg,4.550,7,Villa,189,1900,,Aktuel værdi
+Fårevej 146771 Gredstedbro,dbro,1.025.000,13-05-2000,Alm. Salg,6.366,6,Villa,161,1968,,Aktuel værdi
+Brokærvej 86771 Gredstedbro,dbro,465.000,23-02-2000,Alm. Salg,5.670,3,Villa,82,1966,,Aktuel værdi
+Bjergvej 226771 Gredstedbro,dbro,640.000,17-02-2000,Alm. Salg,8.533,4,Villa,75,1954,,Aktuel værdi
+Vestergade 486771 Gredstedbro,dbro,450.000,15-02-2000,Alm. Salg,4.787,4,Villa,94,1947,,Aktuel værdi
+Plougstrupvej 206771 Gredstedbro,dbro,90.000,11-01-2000,Alm. Salg,520,6,Villa,173,2000,,Aktuel værdi
+Hjortlundvej 356771 Gredstedbro,dbro,365.500,23-12-1999,Fam. Salg,3.514,3,Villa,104,1966,,Aktuel værdi
+Kongeåvej 36771 Gredstedbro,dbro,282.270,14-12-1999,Andet,1.721,6,Villa,164,1938,,Aktuel værdi
+Plougstrupvej 106771 Gredstedbro,dbro,585.000,19-10-1999,Alm. Salg,5.969,3,Villa,98,1956,,Aktuel værdi
+Gørdingvej 246771 Gredstedbro,dbro,610.000,17-10-1999,Alm. Salg,4.326,3,Villa,141,1938,,Aktuel værdi
+Rugmarken 26771 Gredstedbro,dbro,789.966,11-10-1999,Alm. Salg,5.266,5,Villa,150,1973,,Aktuel værdi
+Gyden 106771 Gredstedbro,dbro,635.013,29-09-1999,Alm. Salg,-,6,Villa,170,1787,,Aktuel værdi
+Gyden 76771 Gredstedbro,dbro,660.000,10-09-1999,Alm. Salg,4.782,6,Villa,138,1979,,Aktuel værdi
+Jernvedvej 2206771 Gredstedbro,dbro,287.670,20-08-1999,Alm. Salg,3.595,4,Villa,80,1935,,Aktuel værdi
+Puggårdsvej 606771 Gredstedbro,dbro,500.000,05-08-1999,Alm. Salg,3.355,5,Villa,149,1911,,Aktuel værdi
+Jedsted Klostervej 756771 Gredstedbro,dbro,380.000,26-07-1999,Alm. Salg,4.367,4,Villa,87,1951,,Aktuel værdi
+Bygmarken 96771 Gredstedbro,dbro,850.000,02-07-1999,Alm. Salg,6.250,5,Villa,136,1973,,Aktuel værdi
+Kjærmarken 386771 Gredstedbro,dbro,92.818,22-06-1999,Alm. Salg,653,6,Villa,142,1999,,Aktuel værdi
+Hjortlundvej 866771 Gredstedbro,dbro,490.000,12-06-1999,Alm. Salg,4.083,4,Villa,120,1968,,Aktuel værdi
+Ulkjærvej 296771 Gredstedbro,dbro,679.685,01-06-1999,Alm. Salg,5.351,5,Villa,127,1964,,Aktuel værdi
+Vestergade 13A6771 Gredstedbro,dbro,375.000,23-03-1999,Alm. Salg,-,5,Villa,114,1958,,Aktuel værdi
+Havfoldvej 46771 Gredstedbro,dbro,550.545,22-03-1999,Fam. Salg,5.345,3,Stuehus,103,1927,,
+Rolighedsvej 66771 Gredstedbro,dbro,540.000,12-02-1999,Alm. Salg,6.352,3,Rækkehus,85,1986,,Aktuel værdi
+Vestergade 346771 Gredstedbro,dbro,443.395,28-11-1998,Alm. Salg,4.105,4,Villa,108,1962,,Aktuel værdi
+Vesterbyvej 376771 Gredstedbro,dbro,436.000,23-11-1998,Alm. Salg,-,6,Villa,189,1910,,Aktuel værdi
+Rolighedsvej 76771 Gredstedbro,dbro,849.971,26-10-1998,Alm. Salg,4.775,5,Villa,178,1976,,Aktuel værdi
+Hjortlundvej 25B6771 Gredstedbro,dbro,620.500,19-10-1998,Fam. Salg,-,3,Villa,125,1989,,Aktuel værdi
+Kirkebakken 406771 Gredstedbro,dbro,421.000,11-09-1998,Alm. Salg,-,6,Villa,138,1924,,Aktuel værdi
+Brokærvej 76771 Gredstedbro,dbro,571.372,28-08-1998,Alm. Salg,3.809,7,Villa,150,1961,,Aktuel værdi
+Bjergvej 116771 Gredstedbro,dbro,1.164.758,27-08-1998,Alm. Salg,-,6,Stuehus,156,1958,,
+Kjærmarken 126771 Gredstedbro,dbro,73.208,18-08-1998,Alm. Salg,443,7,Villa,165,1999,,Aktuel værdi
+Vesterbyvej 24A6771 Gredstedbro,dbro,763.387,20-05-1998,Alm. Salg,5.301,4,Villa,144,1941,,Aktuel værdi
+Vinkelvej 26771 Gredstedbro,dbro,602.499,15-05-1998,Alm. Salg,-,6,Villa,163,1963,,Aktuel værdi
+Plougstrupvej 1096771 Gredstedbro,dbro,220.551,11-04-1998,Alm. Salg,-,3,Villa,123,1950,,Aktuel værdi
+Holtsagervej 13A6771 Gredstedbro,dbro,450.000,30-03-1998,Alm. Salg,2.601,6,Villa,173,2011,,Aktuel værdi
+Jernvedvej 166771 Gredstedbro,dbro,970.000,13-03-1998,Alm. Salg,6.258,8,Stuehus,155,1918,,
+Jedsted Klostervej 556771 Gredstedbro,dbro,329.596,23-02-1998,Alm. Salg,-,6,Villa,195,1760,,Aktuel værdi
+Sennepsmarken 186771 Gredstedbro,dbro,793.000,17-11-1997,Alm. Salg,6.608,5,Villa,120,1977,,Aktuel værdi
+Vilslevvej 116771 Gredstedbro,dbro,741.000,23-10-1997,Alm. Salg,-,5,Stuehus,139,1903,,
+Plougstrupvej 996771 Gredstedbro,dbro,433.500,16-10-1997,Fam. Salg,4.711,5,Stuehus,92,1929,,
+Blomstergangen 166771 Gredstedbro,dbro,300.000,08-10-1997,Alm. Salg,-,-,Fritid,-,1979,,Aktuel værdi
+Holtsagervej 136771 Gredstedbro,dbro,1.024.806,15-09-1997,Alm. Salg,-,6,Villa,250,1840,,Aktuel værdi
+Bøjhøjvej 86771 Gredstedbro,dbro,1.600.000,29-08-1997,Fam. Salg,9.937,5,Stuehus,161,1942,,
+Jedsted Klostervej 186771 Gredstedbro,dbro,263.500,19-08-1997,Fam. Salg,-,5,Villa,164,1951,,Aktuel værdi
+Holtsagervej 96771 Gredstedbro,dbro,800.000,19-08-1997,Alm. Salg,4.761,5,Stuehus,168,1955,,
+Vestergade 246771 Gredstedbro,dbro,515.423,22-07-1997,Alm. Salg,2.643,5,Villa,195,1912,,Aktuel værdi
+Gørdingvej 526771 Gredstedbro,dbro,650.000,21-07-1997,Alm. Salg,3.170,7,Villa,205,1914,,Aktuel værdi
+Kjærmarken 736771 Gredstedbro,dbro,907.500,17-07-1997,Alm. Salg,4.630,4,Villa,196,1978,,Aktuel værdi
+Hjortlundvej 236771 Gredstedbro,dbro,1.514.000,09-06-1997,Alm. Salg,5.505,8,Villa,275,1972,,Aktuel værdi
+Vestergade 44A6771 Gredstedbro,dbro,650.000,09-06-1997,Alm. Salg,4.276,5,Villa,152,1979,,Aktuel værdi
+Gredstedvej 116771 Gredstedbro,dbro,637.612,09-05-1997,Alm. Salg,2.979,6,Villa,214,1890,,Aktuel værdi
+Gørdingvej 476771 Gredstedbro,dbro,195.000,01-04-1997,Alm. Salg,-,4,Villa,171,1925,,Aktuel værdi
+Holtsagervej 306771 Gredstedbro,dbro,560.000,30-03-1997,Alm. Salg,4.666,5,Villa,120,1955,,Aktuel værdi
+Holtsagervej 106771 Gredstedbro,dbro,403.732,17-02-1997,Alm. Salg,2.091,6,Villa,193,1948,,Aktuel værdi
+Hjortlundvej 376771 Gredstedbro,dbro,800.000,13-02-1997,Alm. Salg,5.333,5,Villa,150,1973,,Aktuel værdi
+Jedsted Bjerge Vej 676771 Gredstedbro,dbro,108.000,22-01-1997,Alm. Salg,1.928,3,Sommerhus,56,1964,,Aktuel værdi
+Jernvedvej 2176771 Gredstedbro,dbro,337.516,21-01-1997,Alm. Salg,1.985,7,Villa,170,1936,,Aktuel værdi
+Hjortlundvej 226771 Gredstedbro,dbro,550.000,20-01-1997,Alm. Salg,4.135,4,Villa,133,1972,,Aktuel værdi
+Kongeådal 216771 Gredstedbro,dbro,300.000,06-01-1997,Alm. Salg,2.857,4,Villa,105,1943,,Aktuel værdi
+Jedsted Klostervej 336771 Gredstedbro,dbro,380.000,04-12-1996,Alm. Salg,3.362,4,Villa,113,1850,,Aktuel værdi
+Lucernemarken 136771 Gredstedbro,dbro,575.000,09-11-1996,Alm. Salg,4.492,4,Villa,128,1975,,Aktuel værdi
+Præstegårdsvej 186771 Gredstedbro,dbro,33.400,31-10-1996,Alm. Salg,185,7,Villa,180,1964,,Aktuel værdi
+Sportsvej 76771 Gredstedbro,dbro,340.000,11-10-1996,Alm. Salg,3.333,3,Villa,102,1963,,Aktuel værdi
+Bjergvej 56771 Gredstedbro,dbro,519.105,09-10-1996,Alm. Salg,3.264,5,Stuehus,159,1955,,
+Jernvedvej 216771 Gredstedbro,dbro,227.500,05-10-1996,Alm. Salg,-,4,Villa,148,1875,,Aktuel værdi
+Kongeåvej 436771 Gredstedbro,dbro,758.304,22-09-1996,Fam. Salg,2.962,7,Villa,256,1971,,Aktuel værdi
+Kjærmarken 716771 Gredstedbro,dbro,716.000,20-09-1996,Alm. Salg,-,3,Villa,157,1979,,Aktuel værdi
+Ulkjærvej 346771 Gredstedbro,dbro,550.000,13-09-1996,Alm. Salg,4.824,4,Villa,114,1967,,Aktuel værdi
+Jedsted Klostervej 616771 Gredstedbro,dbro,270.000,26-08-1996,Alm. Salg,1.719,6,Villa,157,2014,,Aktuel værdi
+Kongeåvej 406771 Gredstedbro,dbro,380.000,13-08-1996,Alm. Salg,3.333,4,Villa,114,1954,,Aktuel værdi
+Jernvedvej 426771 Gredstedbro,dbro,150.000,31-07-1996,Alm. Salg,980,5,Villa,153,1997,,Aktuel værdi
+Jedsted Klostervej 816771 Gredstedbro,dbro,998.581,23-07-1996,Alm. Salg,4.518,5,Villa,221,1965,,Aktuel værdi
+Sennepsmarken 216771 Gredstedbro,dbro,725.000,19-07-1996,Alm. Salg,4.677,5,Villa,155,1986,,Aktuel værdi
+Ambolten 66771 Gredstedbro,dbro,200.000,30-05-1996,Alm. Salg,1.869,6,Villa,107,1946,,Aktuel værdi
+Hjortlundvej 416771 Gredstedbro,dbro,500.000,30-05-1996,Fam. Salg,3.378,5,Stuehus,148,1918,,
+Kongeåvej 26771 Gredstedbro,dbro,975.000,22-05-1996,Alm. Salg,-,6,Villa,150,1900,,Aktuel værdi
+Vesterbyvej 46771 Gredstedbro,dbro,1.230.000,25-04-1996,Fam. Salg,7.987,4,Stuehus,154,1972,,
+Sennepsmarken 66771 Gredstedbro,dbro,683.000,16-04-1996,Alm. Salg,-,6,Villa,135,1976,,Aktuel værdi
+Hjortlundvej 776771 Gredstedbro,dbro,750.000,11-04-1996,Alm. Salg,-,8,Villa,209,1785,,Aktuel værdi
+Kirkebakken 276771 Gredstedbro,dbro,405.385,01-04-1996,Alm. Salg,3.192,4,Villa,127,1932,,Aktuel værdi
+Majsmarken 26771 Gredstedbro,dbro,460.000,29-03-1996,Alm. Salg,4.000,3,Villa,115,1978,,Aktuel værdi
+Majsmarken 166771 Gredstedbro,dbro,665.000,27-02-1996,Alm. Salg,-,7,Villa,159,1969,,Aktuel værdi
+Gredstedvej 76771 Gredstedbro,dbro,590.000,27-02-1996,Alm. Salg,-,6,Villa,160,1887,,Aktuel værdi
+Vilslevvej 276771 Gredstedbro,dbro,539.764,23-02-1996,Alm. Salg,-,8,Villa,219,1972,,Aktuel værdi
+Plougstrupvej 616771 Gredstedbro,dbro,200.000,08-02-1996,Alm. Salg,-,6,Villa,215,1854,,Aktuel værdi
+Kjærmarken 836771 Gredstedbro,dbro,601.582,04-12-1995,Alm. Salg,5.323,4,Villa,113,1979,,Aktuel værdi
+Rolighedsvej 186771 Gredstedbro,dbro,575.000,24-11-1995,Alm. Salg,-,5,Villa,148,1973,,Aktuel værdi
+Ulkjærvej 196771 Gredstedbro,dbro,702.491,21-11-1995,Alm. Salg,4.283,5,Villa,164,1965,,Aktuel værdi
+Vilslevvej 216771 Gredstedbro,dbro,300.000,14-11-1995,Fam. Salg,2.400,5,Villa,125,1930,,Aktuel værdi
+Jedsted Møllevej 216771 Gredstedbro,dbro,499.000,26-09-1995,Alm. Salg,2.918,6,Villa,171,1933,,Aktuel værdi
+Jedsted Klostervej 356771 Gredstedbro,dbro,395.000,01-09-1995,Alm. Salg,-,6,Villa,199,1942,,Aktuel værdi
+Jedstedvej 206771 Gredstedbro,dbro,443.000,30-08-1995,Alm. Salg,5.679,3,Villa,78,1956,,Aktuel værdi
+Hans Jensens Vej 126771 Gredstedbro,dbro,300.000,28-08-1995,Alm. Salg,3.000,3,Villa,100,1963,,Aktuel værdi
+Hvedemarken 46771 Gredstedbro,dbro,750.000,31-07-1995,Alm. Salg,4.573,3,Villa,164,1973,,Aktuel værdi
+Vestergade 286771 Gredstedbro,dbro,440.000,27-07-1995,Alm. Salg,4.400,3,Villa,100,1937,,Aktuel værdi
+Vestparken 96771 Gredstedbro,dbro,100.000,19-07-1995,Fam. Salg,1.063,4,Villa,94,1965,,Aktuel værdi
+Aavej 96771 Gredstedbro,dbro,546.000,01-06-1995,Fam. Salg,3.391,4,Villa,161,1927,,Aktuel værdi
+Rolighedsvej 56771 Gredstedbro,dbro,435.000,23-05-1995,Alm. Salg,2.403,6,Villa,181,1960,,Aktuel værdi
+Rørskiftevej 46771 Gredstedbro,dbro,520.000,11-05-1995,Alm. Salg,3.823,4,Villa,136,1877,,Aktuel værdi
+"Vestergade 15, 16771 Gredstedbro",dbro,415.000,10-05-1995,Alm. Salg,4.560,3,Lejlighed,91,1978,,Aktuel værdi
+Mådevej 26771 Gredstedbro,dbro,290.000,27-04-1995,Alm. Salg,3.118,3,Villa,93,1963,,Aktuel værdi
+Puggårdsvej 566771 Gredstedbro,dbro,413.200,21-04-1995,Alm. Salg,2.582,6,Stuehus,160,1942,,
+Kongeådal 36771 Gredstedbro,dbro,250.000,18-04-1995,Andet,1.612,6,Villa,155,1978,,Aktuel værdi
+Puggårdsvej 446771 Gredstedbro,dbro,258.688,22-03-1995,Alm. Salg,-,10,Villa,218,1862,,Aktuel værdi
+Jernvedvej 1906771 Gredstedbro,dbro,225.000,15-12-1994,Alm. Salg,1.859,5,Villa,121,1950,,Aktuel værdi
+Ribe Landevej 506771 Gredstedbro,dbro,770.000,12-12-1994,Alm. Salg,-,6,Stuehus,205,1900,,
+Jernved Hedevej 96771 Gredstedbro,dbro,500.000,28-11-1994,Alm. Salg,-,10,Villa,298,1908,,Aktuel værdi
+Hjortlundvej 1026771 Gredstedbro,dbro,200.000,16-11-1994,Alm. Salg,1.562,4,Villa,128,1925,,Aktuel værdi
+Majsmarken 206771 Gredstedbro,dbro,296.206,28-09-1994,Alm. Salg,2.115,4,Villa,140,1973,,Aktuel værdi
+Hjortlundvej 26771 Gredstedbro,dbro,645.000,27-09-1994,Alm. Salg,5.466,3,Villa,118,1987,,Aktuel værdi
+Hjortlundvej 636771 Gredstedbro,dbro,632.420,22-09-1994,Alm. Salg,3.903,5,Villa,162,1924,,Aktuel værdi
+Kongeåvej 466771 Gredstedbro,dbro,1.360.000,14-09-1994,Fam. Salg,6.538,8,Stuehus,208,1959,,
+Kirkebakken 386771 Gredstedbro,dbro,295.743,25-08-1994,Alm. Salg,-,5,Villa,170,1924,,Aktuel værdi
+Kjærmarken 996771 Gredstedbro,dbro,785.000,19-08-1994,Alm. Salg,5.607,5,Villa,140,1986,,Aktuel værdi
+Sennepsmarken 176771 Gredstedbro,dbro,565.000,09-08-1994,Alm. Salg,4.035,5,Villa,140,1982,,Aktuel værdi
+Puggårdsvej 496771 Gredstedbro,dbro,900.000,08-07-1994,Alm. Salg,-,6,Stuehus,140,1870,,
+Kirkebakken 236771 Gredstedbro,dbro,492.000,28-06-1994,Alm. Salg,-,7,Villa,172,1979,,Aktuel værdi
+Skråvej 56771 Gredstedbro,dbro,640.000,31-05-1994,Alm. Salg,4.129,4,Villa,155,1977,,Aktuel værdi
+Majsmarken 176771 Gredstedbro,dbro,414.000,18-05-1994,Alm. Salg,3.600,4,Villa,115,1969,,Aktuel værdi
+Jernvedvej 286771 Gredstedbro,dbro,531.740,05-04-1994,Alm. Salg,3.475,5,Villa,153,1867,,Aktuel værdi
+Vilslevvej 436771 Gredstedbro,dbro,500.000,30-03-1994,Alm. Salg,2.762,3,Villa,181,1925,,Aktuel værdi
+Vesterbyvej 196771 Gredstedbro,dbro,350.000,19-03-1994,Alm. Salg,-,7,Villa,174,1913,,Aktuel værdi
+Bjergvej 46771 Gredstedbro,dbro,1.390.000,17-03-1994,Alm. Salg,12.870,4,Stuehus,108,1957,,
+Vesterbyvej 126771 Gredstedbro,dbro,182.000,27-01-1994,Alm. Salg,2.716,2,Villa,67,1900,,Aktuel værdi
+Grønnevej 86771 Gredstedbro,dbro,464.002,29-12-1993,Alm. Salg,2.955,5,Villa,157,1917,,Aktuel værdi
+Vilslevvej 296771 Gredstedbro,dbro,361.130,23-12-1993,Fam. Salg,-,8,Villa,180,1895,,Aktuel værdi
+Sennepsmarken 136771 Gredstedbro,dbro,630.000,22-12-1993,Alm. Salg,4.344,5,Villa,145,1976,,Aktuel værdi
+Sennepsmarken 126771 Gredstedbro,dbro,550.000,23-11-1993,Alm. Salg,-,4,Villa,154,1977,,Aktuel værdi
+Forbrovej 156771 Gredstedbro,dbro,95.000,15-10-1993,Alm. Salg,678,8,Stuehus,140,1881,,
+Rolighedsvej 176771 Gredstedbro,dbro,430.000,07-10-1993,Alm. Salg,4.673,3,Villa,92,1967,,Aktuel værdi
+Sennepsmarken 296771 Gredstedbro,dbro,85.000,04-10-1993,Alm. Salg,643,5,Villa,132,1994,,Aktuel værdi
+Jedsted Klostervej 516771 Gredstedbro,dbro,584.530,22-09-1993,Alm. Salg,-,8,Villa,195,1919,,Aktuel værdi
+Plougstrupvej 686771 Gredstedbro,dbro,455.480,26-08-1993,Alm. Salg,3.036,8,Stuehus,150,1925,,
+Mejerivej 36771 Gredstedbro,dbro,85.000,05-07-1993,Alm. Salg,477,5,Villa,178,1993,,Aktuel værdi
+Præstegårdsvej 116771 Gredstedbro,dbro,400.000,15-06-1993,Alm. Salg,-,9,Villa,242,1922,,Aktuel værdi
+Sønderbyvej 136771 Gredstedbro,dbro,348.000,24-05-1993,Alm. Salg,-,5,Villa,108,1913,,Aktuel værdi
+Vilslev Spang 66771 Gredstedbro,dbro,380.000,28-03-1993,Alm. Salg,2.420,6,Villa,157,1720,,Aktuel værdi
+Darumvej 76771 Gredstedbro,dbro,520.000,04-02-1993,Alm. Salg,3.095,5,Villa,168,1947,,Aktuel værdi
+Gørdingvej 26771 Gredstedbro,dbro,475.000,25-01-1993,Alm. Salg,3.467,3,Villa,137,1908,,Aktuel værdi
+Fårevej 176771 Gredstedbro,dbro,1.224.000,31-12-1992,Fam. Salg,7.746,5,Stuehus,158,1980,,
+Valmuemarken 156771 Gredstedbro,dbro,420.000,21-11-1992,Alm. Salg,-,6,Villa,158,1970,,Aktuel værdi
+Kirkegade 96771 Gredstedbro,dbro,436.250,19-10-1992,Alm. Salg,-,5,Villa,168,1959,,Aktuel værdi
+Darumvej 226771 Gredstedbro,dbro,600.000,15-10-1992,Fam. Salg,4.615,5,Villa,130,1940,,Aktuel værdi
+Kongeåvej 316771 Gredstedbro,dbro,50.000,29-09-1992,Alm. Salg,-,7,Stuehus,380,1892,,
+Kjærmarken 876771 Gredstedbro,dbro,535.000,28-07-1992,Alm. Salg,4.083,5,Villa,131,1979,,Aktuel værdi
+Plougstrupvej 576771 Gredstedbro,dbro,177.524,17-07-1992,Alm. Salg,1.365,4,Villa,130,1911,,Aktuel værdi
+Vilslevvej 476771 Gredstedbro,dbro,125.473,07-07-1992,Andet,1.151,3,Villa,109,1950,,Aktuel værdi
+Jedsted Klostervej 776771 Gredstedbro,dbro,351.000,02-07-1992,Alm. Salg,4.618,2,Villa,76,1951,,Aktuel værdi
+Kjærmarken 1016771 Gredstedbro,dbro,96.000,16-06-1992,Alm. Salg,615,5,Villa,156,1992,,Aktuel værdi
+Valmuemarken 106771 Gredstedbro,dbro,715.000,20-03-1992,Fam. Salg,3.994,5,Villa,179,1971,,Aktuel værdi
+Jernvedvej 2436771 Gredstedbro,dbro,170.000,14-03-1992,Alm. Salg,-,6,Villa,162,1908,,Aktuel værdi
+Hjortlundvej 316771 Gredstedbro,dbro,645.000,09-02-1992,Alm. Salg,4.742,4,Villa,136,1973,,Aktuel værdi
+"Jernvedvej 242, ST. TV6771 Gredstedbro",dbro,725.000,07-01-1992,Alm. Salg,-,8,Villa,211,1909,,Aktuel værdi
+Jernvedvej 2536771 Gredstedbro,dbro,260.000,07-01-1992,Alm. Salg,-,5,Villa,131,1900,,Aktuel værdi

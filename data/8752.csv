@@ -1,0 +1,993 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Vorbjergvej 28752 Østbirk,birk,375.000,01-05-2017,Alm. Salg,4.411,3,Villa,85,1961,-24 %,Aktuel værdi
+Sattrupvej 268752 Østbirk,birk,780.000,26-04-2017,Alm. Salg,5.954,4,Villa,131,1890,-8 %,Aktuel værdi
+Højbakkevej 28752 Østbirk,birk,850.000,19-04-2017,Alm. Salg,8.673,4,Villa,98,1980,-4 %,Aktuel værdi
+Industrivej 38752 Østbirk,birk,2.400.000,10-04-2017,Alm. Salg,10.434,4,Villa,230,1974,,Aktuel værdi
+Stenagervej 348752 Østbirk,birk,1.625.000,07-04-2017,Alm. Salg,10.979,5,Villa,148,2016,-2 %,Aktuel værdi
+Skjoldborgsvej 78752 Østbirk,birk,1.175.000,05-04-2017,Alm. Salg,8.333,4,Villa,141,1973,-6 %,Aktuel værdi
+Storegade 748752 Østbirk,birk,850.000,16-03-2017,Alm. Salg,6.250,4,Villa,136,1956,-5 %,Aktuel værdi
+Smedegade 68752 Østbirk,birk,540.000,02-03-2017,Alm. Salg,7.012,4,Villa,77,1892,-9 %,Aktuel værdi
+Præstemarken 648752 Østbirk,birk,1.285.000,01-03-2017,Alm. Salg,10.982,4,Villa,117,1978,0 %,Aktuel værdi
+Bøgevej 128752 Østbirk,birk,1.220.000,15-02-2017,Alm. Salg,7.721,6,Villa,158,1972,-6 %,Aktuel værdi
+Ydingvej 148752 Østbirk,birk,1.890.000,07-02-2017,Andet,11.886,7,Villa,159,1925,,Aktuel værdi
+Højbakkevej 38752 Østbirk,birk,685.000,02-02-2017,Alm. Salg,6.284,4,Villa,109,1982,-2 %,Aktuel værdi
+Vorbjergvej 48752 Østbirk,birk,998.500,30-01-2017,Alm. Salg,5.255,7,Stuehus,190,1850,,
+Raagaardsvænget 108752 Østbirk,birk,811.500,19-01-2017,Fam. Salg,6.242,3,Villa,130,2006,-49 %,Aktuel værdi
+Højageren 578752 Østbirk,birk,2.575.000,12-01-2017,Alm. Salg,15.606,6,Villa,165,2008,-3 %,Aktuel værdi
+Søndermarken 38752 Østbirk,birk,974.000,14-12-2016,Alm. Salg,7.854,4,Villa,124,1970,0 %,Aktuel værdi
+Sattrupvej 168752 Østbirk,birk,126.000,06-12-2016,Alm. Salg,1.223,4,Villa,103,1900,,Aktuel værdi
+Ydingvej 328752 Østbirk,birk,1.125.000,31-10-2016,Alm. Salg,10.416,4,Villa,108,1948,-6 %,Aktuel værdi
+Ryvej 408752 Østbirk,birk,1.260.000,15-10-2016,Alm. Salg,7.000,5,Stuehus,180,1877,,
+Møllegårdsvej 28752 Østbirk,birk,125.000,14-10-2016,Alm. Salg,1.923,2,Villa,65,1800,,Aktuel værdi
+Præstemarken 20A8752 Østbirk,birk,844.000,13-10-2016,Alm. Salg,8.791,3,Villa,96,1979,,Aktuel værdi
+Vestbirkvej 188752 Østbirk,birk,1.395.000,12-10-2016,Alm. Salg,7.010,5,Villa,199,1914,0 %,Aktuel værdi
+Stenagervej 258752 Østbirk,birk,1.950.000,12-10-2016,Alm. Salg,12.913,5,Villa,151,2006,-2 %,Aktuel værdi
+Søvejen 248752 Østbirk,birk,425.000,07-10-2016,Alm. Salg,3.035,5,Villa,140,1914,,Aktuel værdi
+Præstemarken 78752 Østbirk,birk,995.000,04-10-2016,Alm. Salg,12.437,3,Rækkehus,80,1977,,Aktuel værdi
+Vestbirkvej 398752 Østbirk,birk,596.475,03-10-2016,Alm. Salg,2.485,6,Villa,240,1900,,Aktuel værdi
+Torpvej 88752 Østbirk,birk,1.900.000,03-10-2016,Alm. Salg,16.239,5,Villa,117,1955,27 %,Aktuel værdi
+Tjørnevej 208752 Østbirk,birk,560.000,03-10-2016,Alm. Salg,3.043,6,Villa,184,2017,-80 %,Aktuel værdi
+Kongevej 278752 Østbirk,birk,1.790.000,23-09-2016,Alm. Salg,10.981,7,Villa,163,1914,0 %,Aktuel værdi
+Østbirkvej 28752 Østbirk,birk,3.500.000,20-09-2016,Alm. Salg,27.777,2,Stuehus,126,1877,-8 %,
+Stenagervej 328752 Østbirk,birk,1.600.000,14-09-2016,Alm. Salg,10.810,5,Villa,148,2016,,Aktuel værdi
+Savskovhusvej 78752 Østbirk,birk,198.046,09-09-2016,Auktion,956,5,Villa,207,1777,,Aktuel værdi
+Stenagervej 148752 Østbirk,birk,320.000,08-09-2016,Alm. Salg,2.133,5,Villa,150,2017,,Aktuel værdi
+Skjoldborgsvej 48752 Østbirk,birk,1.400.000,01-09-2016,Alm. Salg,9.859,5,Villa,142,1973,-6 %,Aktuel værdi
+Nybakken 1128752 Østbirk,birk,375.000,01-09-2016,Alm. Salg,2.419,5,Villa,155,2017,,Aktuel værdi
+Søvejen 268752 Østbirk,birk,55.000,19-08-2016,Alm. Salg,307,7,Villa,179,1910,,Aktuel værdi
+Kongevej 378752 Østbirk,birk,971.306,16-08-2016,Alm. Salg,2.632,8,Lejlighed,369,1935,,Aktuel værdi
+Blichersvej 228752 Østbirk,birk,1.625.000,16-08-2016,Alm. Salg,10.551,4,Villa,154,1973,-4 %,Aktuel værdi
+Ydingvej 768752 Østbirk,birk,1.550.000,29-07-2016,Alm. Salg,9.117,6,Stuehus,170,1936,-17 %,
+Sattrupvej 328752 Østbirk,birk,1.237.500,27-07-2016,Alm. Salg,8.305,3,Villa,149,1942,-4 %,Aktuel værdi
+Skjoldborgsvej 158752 Østbirk,birk,1.250.000,26-07-2016,Alm. Salg,8.169,5,Villa,153,1973,-10 %,Aktuel værdi
+Ryvej 11B8752 Østbirk,birk,807.563,20-07-2016,Alm. Salg,10.913,3,Rækkehus,74,2009,,Aktuel værdi
+Møldrupvej 1D8752 Østbirk,birk,2.400.000,15-07-2016,Alm. Salg,14.285,5,Villa,168,2009,-4 %,Aktuel værdi
+Stenagervej 818752 Østbirk,birk,1.645.000,12-07-2016,Alm. Salg,12.007,5,Villa,137,2011,0 %,Aktuel værdi
+Skjoldborgsvej 258752 Østbirk,birk,1.575.000,06-07-2016,Alm. Salg,11.931,5,Villa,132,1973,-1 %,Aktuel værdi
+Blichersvej 88752 Østbirk,birk,975.000,05-07-2016,Alm. Salg,7.500,4,Villa,130,1973,-2 %,Aktuel værdi
+Storegade 628752 Østbirk,birk,1.098.000,01-07-2016,Auktion,5.036,6,Villa,218,1930,-54 %,Aktuel værdi
+Baysvænge 168752 Østbirk,birk,1.700.000,30-06-2016,Alm. Salg,12.318,5,Villa,138,2005,-4 %,Aktuel værdi
+Ydingvej 88752 Østbirk,birk,625.000,28-06-2016,Andet,4.340,9,Villa,144,1900,,Aktuel værdi
+Skjoldborgsvej 28752 Østbirk,birk,1.575.000,27-06-2016,Alm. Salg,9.722,6,Villa,162,1973,-1 %,Aktuel værdi
+Ryvej 348752 Østbirk,birk,465.000,22-06-2016,Alm. Salg,5.166,4,Villa,90,1916,-28 %,Aktuel værdi
+Ryvej 53A8752 Østbirk,birk,1.000.000,21-06-2016,Alm. Salg,4.000,6,Villa,250,1857,,Aktuel værdi
+Kollerupvej 98752 Østbirk,birk,1.455.000,29-05-2016,Alm. Salg,8.314,7,Villa,175,1900,0 %,Aktuel værdi
+Højageren 638752 Østbirk,birk,2.810.000,18-05-2016,Alm. Salg,15.355,6,Villa,183,2006,,Aktuel værdi
+Sattrupvej 178752 Østbirk,birk,3.000.000,18-05-2016,Alm. Salg,11.320,7,Stuehus,265,1881,,
+Nybakken 768752 Østbirk,birk,375.000,12-05-2016,Alm. Salg,3.000,4,Villa,125,2017,,Aktuel værdi
+Bøgevej 78752 Østbirk,birk,1.000.000,04-05-2016,Alm. Salg,10.526,4,Villa,95,1969,-8 %,Aktuel værdi
+Stenagervej 838752 Østbirk,birk,1.685.000,20-04-2016,Alm. Salg,12.299,5,Villa,137,2016,0 %,Aktuel værdi
+Skjoldborgsvej 198752 Østbirk,birk,1.000.000,15-04-2016,Alm. Salg,7.575,4,Villa,132,1973,-9 %,Aktuel værdi
+Gantrupvej 3A8752 Østbirk,birk,1.550.000,12-04-2016,Alm. Salg,15.196,3,Villa,102,1984,,Aktuel værdi
+Kvægenbjergvej 98752 Østbirk,birk,1.790.000,07-04-2016,Alm. Salg,12.094,4,Stuehus,148,1900,-6 %,
+Nybakken 968752 Østbirk,birk,1.117.500,04-04-2016,Alm. Salg,7.209,5,Villa,155,2010,,Aktuel værdi
+Møllersmindevej 108752 Østbirk,birk,1.862.500,14-03-2016,Alm. Salg,9.312,8,Stuehus,200,1875,-7 %,
+Stenagervej 798752 Østbirk,birk,1.695.000,06-03-2016,Alm. Salg,12.372,5,Villa,137,2011,0 %,Aktuel værdi
+Vestbirkvej 498752 Østbirk,birk,495.000,10-02-2016,Alm. Salg,4.805,3,Villa,103,1946,0 %,Aktuel værdi
+Urupvej 68752 Østbirk,birk,985.000,31-01-2016,Alm. Salg,7.695,5,Stuehus,128,1947,-17 %,
+Ryvej 168752 Østbirk,birk,794.823,29-01-2016,Andet,6.623,3,Villa,120,1941,,Aktuel værdi
+Præstemarken 53B8752 Østbirk,birk,770.000,25-01-2016,Alm. Salg,9.277,3,Rækkehus,83,1979,-3 %,Aktuel værdi
+Kongevej 218752 Østbirk,birk,12.500,13-01-2016,Alm. Salg,181,2,Villa,69,1902,,Aktuel værdi
+Søvejen 23F8752 Østbirk,birk,1.425.000,17-12-2015,Alm. Salg,10.795,5,Villa,132,2001,-5 %,Aktuel værdi
+Kongevej 388752 Østbirk,birk,4.285.000,16-12-2015,Fam. Salg,20.600,7,Stuehus,208,1960,,
+Sattrupvej 318752 Østbirk,birk,300.000,15-12-2015,Alm. Salg,3.092,5,Villa,97,1877,-40 %,Aktuel værdi
+Bøgevej 218752 Østbirk,birk,1.200.000,09-12-2015,Alm. Salg,7.594,5,Villa,158,1970,-7 %,Aktuel værdi
+Vorbjergvej 58752 Østbirk,birk,1.000.000,04-12-2015,Auktion,4.310,8,Villa,232,1880,-22 %,Aktuel værdi
+Præstemarken 20D8752 Østbirk,birk,550.000,01-12-2015,Alm. Salg,6.470,2,Rækkehus,85,1979,,Aktuel værdi
+Storegade 268752 Østbirk,birk,3.298.098,01-12-2015,Alm. Salg,20.613,12,Villa,160,1900,,Aktuel værdi
+Birkevej 68752 Østbirk,birk,1.150.000,25-11-2015,Alm. Salg,10.648,4,Villa,108,1967,-3 %,Aktuel værdi
+Nybakken 878752 Østbirk,birk,400.000,20-11-2015,Alm. Salg,1.818,7,Villa,220,2016,,Aktuel værdi
+Vestbirkvej 208752 Østbirk,birk,1.090.000,10-11-2015,Alm. Salg,7.465,4,Stuehus,146,1911,-15 %,
+Sudkærvej 38752 Østbirk,birk,1.800.000,05-11-2015,Alm. Salg,11.042,3,Villa,163,1896,-8 %,Aktuel værdi
+Industrivej 48752 Østbirk,birk,2.828.500,26-10-2015,Alm. Salg,13.034,5,Villa,217,1976,,Aktuel værdi
+Højageren 518752 Østbirk,birk,1.965.000,05-10-2015,Alm. Salg,14.239,5,Villa,138,2004,-2 %,Aktuel værdi
+Peder Skramsgade 18752 Østbirk,birk,100.000,05-10-2015,Alm. Salg,1.010,4,Villa,99,1964,,Aktuel værdi
+Gantrupvej 108752 Østbirk,birk,1.175.000,02-10-2015,Alm. Salg,10.879,3,Villa,108,1966,-2 %,Aktuel værdi
+Stenagervej 308752 Østbirk,birk,520.352,01-10-2015,Alm. Salg,3.515,5,Villa,148,2016,39 %,Aktuel værdi
+Søndermarken 138752 Østbirk,birk,396.493,30-09-2015,Alm. Salg,3.049,4,Villa,130,2008,,Aktuel værdi
+Sudkærvej 108752 Østbirk,birk,2.030.000,25-09-2015,Alm. Salg,11.277,6,Villa,180,2014,-10 %,Aktuel værdi
+Blichersvej 298752 Østbirk,birk,741.550,16-09-2015,Fam. Salg,3.986,6,Villa,186,1973,,Aktuel værdi
+Karolinelundsvej 38752 Østbirk,birk,384.290,01-09-2015,Andet,4.269,3,Villa,90,1950,,Aktuel værdi
+Ewaldsvej 328752 Østbirk,birk,1.370.000,24-08-2015,Alm. Salg,10.073,4,Villa,136,1973,-1 %,Aktuel værdi
+Østbirkvej 48752 Østbirk,birk,2.450.000,21-08-2015,Alm. Salg,18.014,5,Stuehus,136,1945,-2 %,
+Ydinggade 208752 Østbirk,birk,399.643,07-08-2015,Auktion,1.318,13,Villa,303,1877,,Aktuel værdi
+Raagaardsvænget 78752 Østbirk,birk,1.750.000,03-08-2015,Alm. Salg,10.542,4,Villa,166,2006,-12 %,Aktuel værdi
+Ydinggade 398752 Østbirk,birk,1.050.000,03-08-2015,Alm. Salg,6.730,5,Villa,156,1724,,Aktuel værdi
+Præstemarken 12C8752 Østbirk,birk,2.950.913,31-07-2015,Alm. Salg,11.393,8,Villa,259,1995,,Aktuel værdi
+Nybakken 548752 Østbirk,birk,2.000.000,17-07-2015,Alm. Salg,12.500,5,Villa,160,2007,-15 %,Aktuel værdi
+Præstemarken 378752 Østbirk,birk,925.000,16-07-2015,Alm. Salg,7.905,4,Villa,117,1978,-7 %,Aktuel værdi
+Skovageren 48752 Østbirk,birk,1.800.000,03-07-2015,Alm. Salg,14.400,3,Stuehus,125,1875,,
+Møldrupvej 1F8752 Østbirk,birk,828.500,25-06-2015,Alm. Salg,3.555,8,Villa,233,2012,,Aktuel værdi
+Lundsvej 88752 Østbirk,birk,657.133,24-06-2015,Andet,3.982,6,Villa,165,1940,,Aktuel værdi
+Stenagervej 118752 Østbirk,birk,1.820.000,24-06-2015,Alm. Salg,13.284,5,Villa,137,2016,8 %,Aktuel værdi
+Stenagervej 668752 Østbirk,birk,355.000,16-06-2015,Alm. Salg,2.366,5,Villa,150,2016,-11 %,Aktuel værdi
+Ewaldsvej 25A8752 Østbirk,birk,575.000,12-06-2015,Alm. Salg,2.024,6,Villa,284,2016,,Aktuel værdi
+Stenagervej 188752 Østbirk,birk,2.125.000,09-06-2015,Alm. Salg,13.281,5,Villa,160,2007,-3 %,Aktuel værdi
+Kalsmosevej 138752 Østbirk,birk,125.000,05-06-2015,Alm. Salg,811,6,Stuehus,154,1931,,
+Holbergsvej 28752 Østbirk,birk,1.250.000,02-06-2015,Alm. Salg,6.906,7,Villa,181,1974,-3 %,Aktuel værdi
+Højageren 458752 Østbirk,birk,2.100.000,01-06-2015,Alm. Salg,13.725,5,Villa,153,1999,,Aktuel værdi
+Præstemarken 758752 Østbirk,birk,1.135.000,28-05-2015,Alm. Salg,8.664,3,Villa,131,1978,-9 %,Aktuel værdi
+Smedegade 48752 Østbirk,birk,575.000,19-05-2015,Alm. Salg,6.182,3,Villa,93,1880,-3 %,Aktuel værdi
+Potmosevej 158752 Østbirk,birk,1.350.000,12-05-2015,Alm. Salg,8.231,7,Villa,164,1887,-2 %,Aktuel værdi
+Rosengade 48752 Østbirk,birk,720.000,11-05-2015,Fam. Salg,6.315,4,Villa,114,1965,-53 %,Aktuel værdi
+Stenagervej 228752 Østbirk,birk,2.020.000,29-04-2015,Alm. Salg,14.428,5,Villa,140,2007,-4 %,Aktuel værdi
+Smedegade 18752 Østbirk,birk,360.000,24-04-2015,Auktion,3.673,4,Villa,98,1915,,Aktuel værdi
+Præstemarken 418752 Østbirk,birk,1.200.000,03-04-2015,Alm. Salg,10.256,4,Villa,117,1978,-7 %,Aktuel værdi
+Kvægenbjergvej 198752 Østbirk,birk,1.020.000,26-03-2015,Alm. Salg,7.391,4,Stuehus,138,1955,,
+Nybakken 1238752 Østbirk,birk,375.000,23-03-2015,Alm. Salg,3.024,3,Villa,124,2016,,Aktuel værdi
+Nybakken 1258752 Østbirk,birk,375.000,20-03-2015,Alm. Salg,2.142,5,Villa,175,2016,,Aktuel værdi
+Stenagervej 248752 Østbirk,birk,375.000,25-02-2015,Alm. Salg,3.826,3,Villa,98,2015,,Aktuel værdi
+Søvejen 288752 Østbirk,birk,650.000,19-02-2015,Alm. Salg,5.327,3,Villa,122,1923,,Aktuel værdi
+Lyngdalvej 28752 Østbirk,birk,1.184.213,16-01-2015,Andet,8.707,6,Villa,136,1958,,Aktuel værdi
+Søvejen 188752 Østbirk,birk,1.035.000,13-01-2015,Alm. Salg,6.900,6,Villa,150,1907,,Aktuel værdi
+Præstemarken 20B8752 Østbirk,birk,575.000,06-01-2015,Alm. Salg,6.764,3,Rækkehus,85,1979,-17 %,Aktuel værdi
+Ryvej 4A8752 Østbirk,birk,400.000,18-12-2014,Alm. Salg,9.090,1,Rækkehus,44,1900,,Aktuel værdi
+Stenagervej 548752 Østbirk,birk,1.577.000,18-12-2014,Alm. Salg,7.300,6,Villa,216,2007,,Aktuel værdi
+Præstemarken 748752 Østbirk,birk,1.200.000,15-12-2014,Alm. Salg,6.250,5,Stuehus,192,2015,,
+Præstemarken 158752 Østbirk,birk,450.000,09-12-2014,Alm. Salg,5.625,3,Rækkehus,80,1978,-9 %,Aktuel værdi
+Ydinggade 198752 Østbirk,birk,145.155,05-12-2014,Auktion,1.170,5,Villa,124,1900,,Aktuel værdi
+Holbergsvej 368752 Østbirk,birk,1.795.000,04-12-2014,Alm. Salg,10.945,5,Villa,164,1975,0 %,Aktuel værdi
+Skovhøjvej 28752 Østbirk,birk,2.200.000,28-11-2014,Alm. Salg,14.569,6,Stuehus,151,1970,-4 %,
+Præstemarken 70A8752 Østbirk,birk,500.000,23-11-2014,Alm. Salg,5.882,3,Rækkehus,85,1980,-15 %,Aktuel værdi
+Grundtvigsvej 19A8752 Østbirk,birk,760.000,23-11-2014,Alm. Salg,9.047,3,Rækkehus,84,1983,-10 %,Aktuel værdi
+Kirkegade 68752 Østbirk,birk,1.445.000,19-11-2014,Alm. Salg,10.946,4,Villa,132,1886,-6 %,Aktuel værdi
+Kongevej 328752 Østbirk,birk,1.075.000,13-11-2014,Alm. Salg,7.026,6,Villa,153,1937,-10 %,Aktuel værdi
+Bøgevej 238752 Østbirk,birk,2.350.000,11-11-2014,Alm. Salg,7.912,6,Villa,297,1980,-4 %,Aktuel værdi
+Ydingvej 58752 Østbirk,birk,1.500.000,11-11-2014,Fam. Salg,9.036,5,Villa,166,1943,,Aktuel værdi
+Fyel Skovvej 88752 Østbirk,birk,1.850.000,07-11-2014,Alm. Salg,9.390,5,Villa,197,1902,-14 %,Aktuel værdi
+Nybakken 838752 Østbirk,birk,1.124.228,30-10-2014,Alm. Salg,7.596,5,Villa,148,2009,,Aktuel værdi
+Vestbirkvej 508752 Østbirk,birk,100.000,21-10-2014,Alm. Salg,387,6,Stuehus,258,1887,,
+Ydinggade 17A8752 Østbirk,birk,1.495.000,05-10-2014,Alm. Salg,10.992,5,Villa,136,1978,0 %,Aktuel værdi
+Bøgevej 38752 Østbirk,birk,3.575.350,01-10-2014,Alm. Salg,43.076,3,Villa,83,1968,,Aktuel værdi
+Smedegade 58752 Østbirk,birk,914.650,01-10-2014,Alm. Salg,10.393,4,Villa,88,1827,,Aktuel værdi
+Vestbirkvej 268752 Østbirk,birk,3.300.000,29-09-2014,Alm. Salg,13.750,6,Stuehus,240,1906,-6 %,
+Svalevej 28752 Østbirk,birk,708.120,26-09-2014,Auktion,7.453,3,Villa,95,1964,,Aktuel værdi
+Granhøjen 58752 Østbirk,birk,2.575.000,24-09-2014,Alm. Salg,12.810,5,Villa,201,2004,-4 %,Aktuel værdi
+Rosengade 38752 Østbirk,birk,607.005,12-09-2014,Alm. Salg,5.144,4,Villa,118,1963,,Aktuel værdi
+Karolinelundsvej 28752 Østbirk,birk,1.445.000,12-09-2014,Alm. Salg,7.565,7,Villa,191,1941,-4 %,Aktuel værdi
+Nybakken 1358752 Østbirk,birk,400.000,04-09-2014,Alm. Salg,2.325,4,Villa,172,2015,,Aktuel værdi
+Lundsvej 48752 Østbirk,birk,435.000,30-08-2014,Alm. Salg,6.041,2,Villa,72,1954,-12 %,Aktuel værdi
+Søndermarken 158752 Østbirk,birk,1.595.000,13-08-2014,Alm. Salg,14.500,4,Villa,110,2007,0 %,Aktuel værdi
+Nybakken 388752 Østbirk,birk,1.850.000,01-08-2014,Alm. Salg,12.171,5,Villa,152,2006,-7 %,Aktuel værdi
+Stenbjergvej 138752 Østbirk,birk,1.650.000,01-08-2014,Alm. Salg,10.185,6,Villa,162,1941,-1 %,Aktuel værdi
+Kongevej 408752 Østbirk,birk,80.000,30-07-2014,Alm. Salg,714,4,Stuehus,112,1912,,
+Sudkærvej 18752 Østbirk,birk,800.000,03-06-2014,Alm. Salg,5.633,5,Rækkehus,142,1800,-24 %,Aktuel værdi
+Præstemarken 138752 Østbirk,birk,595.000,26-05-2014,Alm. Salg,7.437,4,Rækkehus,80,1978,0 %,Aktuel værdi
+Søvejen 568752 Østbirk,birk,2.590.105,22-05-2014,Fam. Salg,22.328,4,Stuehus,116,1924,,
+Søvejen 278752 Østbirk,birk,850.000,21-05-2014,Alm. Salg,11.184,4,Villa,76,1958,-5 %,Aktuel værdi
+Sattrupvej 158752 Østbirk,birk,1.195.000,21-05-2014,Alm. Salg,5.195,6,Villa,230,1877,0 %,Aktuel værdi
+Præstemarken 808752 Østbirk,birk,1.850.000,20-05-2014,Alm. Salg,13.309,6,Stuehus,139,1921,,
+Præstemarken 288752 Østbirk,birk,1.075.000,14-05-2014,Alm. Salg,9.188,4,Villa,117,1980,-10 %,Aktuel værdi
+Nybakken 688752 Østbirk,birk,400.000,14-05-2014,Alm. Salg,1.709,7,Villa,234,2016,,Aktuel værdi
+Granhøjen 68752 Østbirk,birk,2.410.000,13-05-2014,Alm. Salg,13.930,6,Villa,173,2005,-2 %,Aktuel værdi
+Stenagervej 728752 Østbirk,birk,248.000,02-05-2014,Alm. Salg,1.710,5,Villa,145,2014,,Aktuel værdi
+Nybakken 668752 Østbirk,birk,400.000,25-04-2014,Alm. Salg,2.758,4,Villa,145,2015,,Aktuel værdi
+Ewaldsvej 168752 Østbirk,birk,950.000,23-04-2014,Alm. Salg,8.260,4,Villa,115,1977,-12 %,Aktuel værdi
+Blichersvej 18752 Østbirk,birk,850.000,08-04-2014,Alm. Salg,6.159,5,Villa,138,1973,-15 %,Aktuel værdi
+Ryvej 11E8752 Østbirk,birk,720.000,07-04-2014,Alm. Salg,9.729,3,Rækkehus,74,2009,,Aktuel værdi
+Nybakken 628752 Østbirk,birk,400.000,18-03-2014,Alm. Salg,2.484,5,Villa,161,2014,,Aktuel værdi
+Storegade 348752 Østbirk,birk,1.160.000,11-03-2014,Alm. Salg,6.170,4,Villa,188,1900,-9 %,Aktuel værdi
+Raagaardsvænget 28752 Østbirk,birk,1.450.000,04-03-2014,Alm. Salg,11.153,3,Villa,130,2006,-3 %,Aktuel værdi
+Sattrupvej 278752 Østbirk,birk,716.621,12-02-2014,Andet,3.428,4,Villa,209,1912,,Aktuel værdi
+Baysvænge 68752 Østbirk,birk,575.000,22-01-2014,Alm. Salg,4.356,4,Villa,132,2016,,Aktuel værdi
+Møldrupvej 18752 Østbirk,birk,575.000,09-01-2014,Alm. Salg,5.133,4,Villa,112,1961,-11 %,Aktuel værdi
+Savskovhusvej 38752 Østbirk,birk,166.876,18-12-2013,Auktion,1.345,5,Rækkehus,124,1887,-33 %,Aktuel værdi
+Ryvej 478752 Østbirk,birk,3.400.000,27-11-2013,Alm. Salg,18.888,8,Stuehus,180,1920,,
+Stenager 328752 Østbirk,birk,1.585.000,22-11-2013,Alm. Salg,10.709,5,Villa,148,2000,,Aktuel værdi
+Yding Toft 88752 Østbirk,birk,2.390.000,14-11-2013,Alm. Salg,10.622,5,Villa,225,2007,-8 %,Aktuel værdi
+Sattrupvej 118752 Østbirk,birk,1.075.000,26-10-2013,Alm. Salg,10.046,4,Villa,107,1900,-10 %,Aktuel værdi
+Vestbirkvej 88752 Østbirk,birk,750.000,03-10-2013,Alm. Salg,8.333,4,Villa,90,1958,-6 %,Aktuel værdi
+Stenagervej 298752 Østbirk,birk,390.000,27-09-2013,Alm. Salg,2.516,5,Villa,155,2014,,Aktuel værdi
+Møldrupvej 1B8752 Østbirk,birk,595.000,07-09-2013,Alm. Salg,3.562,5,Villa,167,2014,0 %,Aktuel værdi
+Skovlyvej 48752 Østbirk,birk,802.250,09-08-2013,Auktion,5.649,3,Villa,142,1900,,Aktuel værdi
+Stenagervej 338752 Østbirk,birk,410.000,07-08-2013,Alm. Salg,2.397,6,Villa,171,2016,,Aktuel værdi
+Præstemarken 768752 Østbirk,birk,2.500.000,05-08-2013,Alm. Salg,14.534,6,Villa,172,1921,0 %,Aktuel værdi
+Birkevej 88752 Østbirk,birk,760.000,08-07-2013,Alm. Salg,8.444,4,Villa,90,1973,-4 %,Aktuel værdi
+Ydingvej 78752 Østbirk,birk,95.865,28-06-2013,Alm. Salg,574,5,Villa,167,1847,,Aktuel værdi
+Ydingvej 98752 Østbirk,birk,113.085,28-06-2013,Alm. Salg,734,6,Villa,154,1976,,Aktuel værdi
+Smedevej 78752 Østbirk,birk,910.000,27-06-2013,Alm. Salg,6.232,5,Villa,146,1909,-9 %,Aktuel værdi
+Ewaldsvej 22B8752 Østbirk,birk,450.000,20-06-2013,Auktion,5.294,3,Rækkehus,85,1981,-40 %,Aktuel værdi
+Peder Skramsgade 78752 Østbirk,birk,805.000,11-06-2013,Alm. Salg,8.131,4,Villa,99,1964,-8 %,Aktuel værdi
+Storegade 608752 Østbirk,birk,725.000,21-05-2013,Alm. Salg,5.451,4,Villa,133,1950,,Aktuel værdi
+Birknæsvej 28752 Østbirk,birk,2.450.000,29-04-2013,Alm. Salg,16.780,4,Villa,146,1920,-2 %,Aktuel værdi
+Stenagervej 108752 Østbirk,birk,1.395.000,23-04-2013,Alm. Salg,7.581,4,Villa,184,2009,0 %,Aktuel værdi
+Ryvej 668752 Østbirk,birk,4.550.000,19-04-2013,Alm. Salg,21.563,7,Stuehus,211,1926,-9 %,
+Skolegade 38752 Østbirk,birk,680.000,17-04-2013,Alm. Salg,4.689,5,Villa,145,1933,-9 %,Aktuel værdi
+Kongevej 18752 Østbirk,birk,2.200.000,04-04-2013,Alm. Salg,14.193,4,Stuehus,155,1900,,
+Ydingvej 258752 Østbirk,birk,2.350.000,27-03-2013,Alm. Salg,13.988,4,Villa,168,1932,,Aktuel værdi
+Præstemarken 588752 Østbirk,birk,1.050.000,27-02-2013,Alm. Salg,9.292,3,Villa,113,1984,-12 %,Aktuel værdi
+Præstemarken 60A8752 Østbirk,birk,825.000,22-02-2013,Alm. Salg,9.166,4,Rækkehus,90,1983,0 %,Aktuel værdi
+Højageren 498752 Østbirk,birk,1.825.000,19-02-2013,Alm. Salg,12.943,5,Villa,141,2001,-4 %,Aktuel værdi
+Præstemarken 51A8752 Østbirk,birk,1.130.000,12-02-2013,Alm. Salg,13.294,3,Rækkehus,85,1981,-4 %,Aktuel værdi
+Ewaldsvej 13B8752 Østbirk,birk,765.000,08-01-2013,Alm. Salg,8.595,3,Rækkehus,89,1980,-9 %,Aktuel værdi
+Søvejen 358752 Østbirk,birk,2.990.000,11-12-2012,Alm. Salg,13.288,7,Stuehus,225,1968,,
+Stenbjergvej 18752 Østbirk,birk,4.490.000,02-12-2012,Alm. Salg,16.568,8,Stuehus,271,1900,,
+Ryvej 598752 Østbirk,birk,500.000,29-11-2012,Alm. Salg,4.587,3,Villa,109,1947,-16 %,Aktuel værdi
+Stenagervej 598752 Østbirk,birk,325.000,27-11-2012,Alm. Salg,2.288,5,Villa,142,2013,-11 %,Aktuel værdi
+Præstemarken 428752 Østbirk,birk,1.175.000,23-11-2012,Alm. Salg,9.038,4,Villa,130,1978,,Aktuel værdi
+Nybakken 1078752 Østbirk,birk,280.000,15-11-2012,Alm. Salg,1.842,5,Villa,152,2013,-84 %,Aktuel værdi
+Stenagervej 748752 Østbirk,birk,1.970.000,15-10-2012,Alm. Salg,13.680,3,Villa,144,2010,-1 %,Aktuel værdi
+Nybakken 1148752 Østbirk,birk,320.000,11-10-2012,Alm. Salg,2.038,5,Villa,157,2013,,Aktuel værdi
+Skovageren 38752 Østbirk,birk,800.000,04-10-2012,Alm. Salg,16.666,2,Villa,48,2015,-20 %,Aktuel værdi
+Nybakken 1298752 Østbirk,birk,550.000,03-10-2012,Alm. Salg,3.767,5,Villa,146,2013,,Aktuel værdi
+Sattrupvej 188752 Østbirk,birk,1.750.000,17-09-2012,Alm. Salg,8.974,7,Villa,195,1912,,Aktuel værdi
+Grundtvigsvej 178752 Østbirk,birk,1.600.000,12-09-2012,Alm. Salg,11.034,4,Villa,145,2000,,Aktuel værdi
+Nybakken 1278752 Østbirk,birk,500.000,11-09-2012,Alm. Salg,2.941,4,Villa,170,2017,0 %,Aktuel værdi
+Tjørnevej 28752 Østbirk,birk,2.038.000,06-09-2012,Alm. Salg,13.586,5,Villa,150,2011,-3 %,Aktuel værdi
+Ydingvej 208752 Østbirk,birk,650.000,30-08-2012,Alm. Salg,4.333,6,Rækkehus,150,1923,-6 %,Aktuel værdi
+Lyngdalvej 68752 Østbirk,birk,1.400.000,14-08-2012,Alm. Salg,15.053,5,Stuehus,93,1948,-7 %,
+Ryvej 608752 Østbirk,birk,1.096.993,20-07-2012,Alm. Salg,7.169,4,Villa,153,1931,,Aktuel værdi
+Rødkælkevej 128752 Østbirk,birk,6.400.000,13-07-2012,Alm. Salg,54.237,4,Villa,118,2008,,Aktuel værdi
+Ydingvej 238752 Østbirk,birk,2.736.267,19-06-2012,Fam. Salg,10.858,9,Stuehus,252,1895,,
+Ydingvej 488752 Østbirk,birk,1.195.000,19-06-2012,Alm. Salg,11.950,4,Villa,100,1930,0 %,Aktuel værdi
+Stenagervej 268752 Østbirk,birk,1.900.000,23-05-2012,Alm. Salg,13.286,5,Villa,143,2007,-5 %,Aktuel værdi
+Vestbirkvej 458752 Østbirk,birk,1.150.000,15-05-2012,Alm. Salg,10.000,5,Villa,115,1946,,Aktuel værdi
+Stenager 368752 Østbirk,birk,1.395.000,14-05-2012,Alm. Salg,10.898,4,Villa,128,1988,-3 %,Aktuel værdi
+Præstemarken 718752 Østbirk,birk,2.900.000,08-05-2012,Alm. Salg,17.682,6,Villa,164,2011,-3 %,Aktuel værdi
+Potmosevej 238752 Østbirk,birk,1.800.000,30-04-2012,Alm. Salg,7.058,8,Villa,255,1871,-10 %,Aktuel værdi
+Sattrupvej 238752 Østbirk,birk,1.200.000,24-04-2012,Alm. Salg,11.538,4,Villa,104,1969,-11 %,Aktuel værdi
+Søndermarken 198752 Østbirk,birk,1.370.000,04-04-2012,Alm. Salg,7.740,7,Villa,177,1972,-8 %,Aktuel værdi
+Stenagervej 288752 Østbirk,birk,420.000,28-03-2012,Alm. Salg,2.800,5,Villa,150,2013,,Aktuel værdi
+Nybakken 1048752 Østbirk,birk,320.000,16-03-2012,Alm. Salg,1.684,5,Villa,190,2013,,Aktuel værdi
+Ryvej 508752 Østbirk,birk,7.480.000,08-03-2012,Auktion,26.524,7,Stuehus,282,1900,,
+Møldrupvej 1E8752 Østbirk,birk,400.000,08-03-2012,Alm. Salg,2.857,5,Villa,140,2012,-27 %,Aktuel værdi
+Søvejen 308752 Østbirk,birk,1.475.000,05-03-2012,Alm. Salg,11.523,5,Villa,128,1946,-1 %,Aktuel værdi
+Lundsvej 58752 Østbirk,birk,700.000,22-02-2012,Alm. Salg,7.000,3,Villa,100,1955,,Aktuel værdi
+Søvejen 178752 Østbirk,birk,459.683,21-02-2012,Andet,4.178,4,Villa,110,1950,,Aktuel værdi
+Strungesvej 88752 Østbirk,birk,1.300.000,09-02-2012,Alm. Salg,7.222,6,Villa,180,1950,0 %,Aktuel værdi
+Granhøjen 88752 Østbirk,birk,3.037.500,27-01-2012,Alm. Salg,13.744,6,Villa,221,2005,-8 %,Aktuel værdi
+Sattrupvej 228752 Østbirk,birk,1.265.000,23-01-2012,Alm. Salg,6.388,7,Villa,198,1972,-2 %,Aktuel værdi
+Savværksgyden 88752 Østbirk,birk,250.000,15-01-2012,Alm. Salg,2.232,2,Villa,112,2017,,Aktuel værdi
+Savværksgyden 28752 Østbirk,birk,250.000,15-01-2012,Alm. Salg,2.232,4,Villa,112,2015,,Aktuel værdi
+Savværksgyden 108752 Østbirk,birk,250.000,15-01-2012,Alm. Salg,2.232,2,Villa,112,2017,,Aktuel værdi
+Savværksgyden 68752 Østbirk,birk,250.000,15-01-2012,Alm. Salg,2.232,3,Villa,112,2016,,Aktuel værdi
+Kvægenbjergvej 38752 Østbirk,birk,800.000,11-01-2012,Alm. Salg,6.201,6,Villa,129,1908,-11 %,Aktuel værdi
+Nybakken 1318752 Østbirk,birk,437.566,01-12-2011,Alm. Salg,2.917,5,Villa,150,2012,,Aktuel værdi
+Birknæsvej 38752 Østbirk,birk,1.587.000,24-10-2011,Alm. Salg,9.335,6,Stuehus,170,1848,,
+Holbergsvej 278752 Østbirk,birk,1.500.000,03-10-2011,Alm. Salg,14.705,3,Villa,102,1979,,Aktuel værdi
+Stenagervej 318752 Østbirk,birk,385.000,22-09-2011,Alm. Salg,2.532,5,Villa,152,2012,-49 %,Aktuel værdi
+Purupvej 38752 Østbirk,birk,3.800.000,12-09-2011,Alm. Salg,13.868,9,Stuehus,274,1914,,
+Fyel Skovvej 48752 Østbirk,birk,1.800.000,06-09-2011,Alm. Salg,9.183,5,Stuehus,196,1979,,
+Lærkevej 58752 Østbirk,birk,995.000,02-09-2011,Alm. Salg,11.055,3,Villa,90,1964,-9 %,Aktuel værdi
+Peder Skramsgade 108752 Østbirk,birk,921.143,31-08-2011,Andet,5.204,5,Villa,177,1964,,Aktuel værdi
+Storegade 228752 Østbirk,birk,900.000,29-08-2011,Alm. Salg,5.590,7,Villa,161,1883,-8 %,Aktuel værdi
+Raagaardsvænget 18752 Østbirk,birk,1.480.000,17-08-2011,Alm. Salg,13.214,3,Villa,112,2006,,Aktuel værdi
+Skovhøjvej 18752 Østbirk,birk,2.450.000,05-08-2011,Auktion,-,9,Villa,371,1854,-39 %,Aktuel værdi
+Purupvej 48752 Østbirk,birk,1.590.000,20-07-2011,Alm. Salg,14.454,3,Villa,110,1900,,Aktuel værdi
+Torpvej 78752 Østbirk,birk,1.700.000,14-07-2011,Alm. Salg,12.142,4,Villa,140,1956,0 %,Aktuel værdi
+Præstemarken 88752 Østbirk,birk,1.150.000,11-07-2011,Alm. Salg,13.855,4,Villa,83,1983,,Aktuel værdi
+Birkevej 98752 Østbirk,birk,780.000,04-07-2011,Alm. Salg,8.863,4,Villa,88,1966,,Aktuel værdi
+Storegade 248752 Østbirk,birk,1.250.000,01-07-2011,Alm. Salg,8.445,8,Villa,148,1877,-4 %,Aktuel værdi
+Nybakken 568752 Østbirk,birk,295.000,27-06-2011,Alm. Salg,1.966,5,Villa,150,2012,0 %,Aktuel værdi
+Ydingvej 228752 Østbirk,birk,548.416,22-06-2011,Alm. Salg,3.808,4,Villa,144,1920,,Aktuel værdi
+Nybakken 1338752 Østbirk,birk,375.000,19-05-2011,Alm. Salg,1.794,4,Villa,209,2012,-17 %,Aktuel værdi
+Præstemarken 838752 Østbirk,birk,70.000,12-05-2011,Fam. Salg,-,6,Stuehus,326,1921,,
+Højageren 88752 Østbirk,birk,2.325.000,06-05-2011,Alm. Salg,14.263,5,Villa,163,2006,-7 %,Aktuel værdi
+Tjørnevej 18752 Østbirk,birk,2.250.000,04-05-2011,Alm. Salg,16.071,5,Villa,140,2011,6 %,Aktuel værdi
+Industrivej 168752 Østbirk,birk,1.055.000,04-05-2011,Alm. Salg,6.205,6,Villa,170,2013,21 %,Aktuel værdi
+Kongevej 28752 Østbirk,birk,1.884.000,20-04-2011,Auktion,16.241,4,Stuehus,116,2003,,
+Gantrupvej 228752 Østbirk,birk,5.275.000,15-04-2011,Alm. Salg,20.686,6,Stuehus,255,1969,-8 %,
+Smedegade 118752 Østbirk,birk,2.287.000,14-04-2011,Alm. Salg,16.105,5,Stuehus,142,1777,,
+Højageren 308752 Østbirk,birk,1.124.817,06-04-2011,Alm. Salg,6.695,6,Villa,168,2008,,Aktuel værdi
+Stenkærvej 58752 Østbirk,birk,2.580.000,01-04-2011,Alm. Salg,20.975,7,Stuehus,123,1877,,
+Stenkærvej 9A8752 Østbirk,birk,2.550.000,01-04-2011,Alm. Salg,13.783,6,Rækkehus,185,1907,,Aktuel værdi
+Ewaldsvej 208752 Østbirk,birk,1.600.000,25-03-2011,Alm. Salg,11.678,5,Villa,137,1977,-6 %,Aktuel værdi
+Monbjergvej 138752 Østbirk,birk,600.000,04-03-2011,Auktion,1.875,8,Villa,320,1900,-40 %,Aktuel værdi
+Ydinggade 498752 Østbirk,birk,2.350.000,02-03-2011,Alm. Salg,15.878,3,Villa,148,1965,,Aktuel værdi
+Ewaldsvej 10B8752 Østbirk,birk,1.260.000,18-02-2011,Alm. Salg,11.666,4,Rækkehus,108,1988,-10 %,Aktuel værdi
+Præstemarken 308752 Østbirk,birk,1.240.000,18-02-2011,Alm. Salg,10.598,4,Villa,117,1979,-4 %,Aktuel værdi
+Raagaardsvænget 48752 Østbirk,birk,1.595.000,10-02-2011,Alm. Salg,12.269,3,Villa,130,2006,0 %,Aktuel værdi
+Præstemarken 22B8752 Østbirk,birk,750.000,18-01-2011,Alm. Salg,9.615,2,Rækkehus,78,1982,-6 %,Aktuel værdi
+Kvægenbjergvej 178752 Østbirk,birk,2.400.000,23-12-2010,Alm. Salg,7.453,7,Villa,322,1900,-4 %,Aktuel værdi
+Søndermarken 5D8752 Østbirk,birk,975.000,21-12-2010,Alm. Salg,11.470,4,Rækkehus,85,1981,,Aktuel værdi
+Gydekrog 148752 Østbirk,birk,925.000,21-12-2010,Alm. Salg,5.967,5,Villa,155,2012,,Aktuel værdi
+Kollerupvej 48752 Østbirk,birk,763.500,16-12-2010,Alm. Salg,5.453,4,Villa,140,1908,-10 %,Aktuel værdi
+"Ydingvej 5A, 1. 18752 Østbirk",birk,10.600.000,06-12-2010,Alm. Salg,130.864,3,Lejlighed,81,2011,,Aktuel værdi
+Ryvej 308752 Østbirk,birk,370.000,27-11-2010,Alm. Salg,4.625,3,Villa,80,1850,,Aktuel værdi
+Kongevej 128752 Østbirk,birk,820.000,16-11-2010,Alm. Salg,8.367,3,Villa,98,1852,-8 %,Aktuel værdi
+Savskovhusvej 98752 Østbirk,birk,930.000,12-11-2010,Auktion,4.696,6,Villa,198,2015,,Aktuel værdi
+Holbergsvej 318752 Østbirk,birk,1.318.000,08-11-2010,Alm. Salg,11.169,3,Villa,118,1973,-5 %,Aktuel værdi
+Holbergsvej 218752 Østbirk,birk,564.857,05-11-2010,Alm. Salg,3.977,4,Villa,142,1974,,Aktuel værdi
+Karolinelundsvej 78752 Østbirk,birk,1.100.000,15-10-2010,Alm. Salg,5.392,7,Villa,204,1935,-8 %,Aktuel værdi
+"Ryvej 2, 18752 Østbirk",birk,1.250.000,08-10-2010,Alm. Salg,10.964,4,Lejlighed,114,1900,-4 %,Aktuel værdi
+Naldalvej 108752 Østbirk,birk,350.000,06-10-2010,Alm. Salg,1.605,5,Stuehus,218,1777,-82 %,
+Tjørnevej 78752 Østbirk,birk,650.000,02-09-2010,Alm. Salg,3.333,5,Villa,195,2013,-19 %,Aktuel værdi
+Ydinggade 48752 Østbirk,birk,3.700.000,27-08-2010,Alm. Salg,14.230,10,Stuehus,260,1885,31 %,
+Stenagervej 178752 Østbirk,birk,1.595.000,27-08-2010,Alm. Salg,11.642,5,Villa,137,2011,0 %,Aktuel værdi
+Højageren 128752 Østbirk,birk,3.125.000,20-08-2010,Alm. Salg,16.534,5,Villa,189,2006,-4 %,Aktuel værdi
+Stenbjergvej 88752 Østbirk,birk,750.000,13-08-2010,Auktion,3.440,5,Stuehus,218,1910,-53 %,
+Stenagervej 768752 Østbirk,birk,333.000,13-08-2010,Alm. Salg,1.881,6,Villa,177,2011,,Aktuel værdi
+Holbergsvej 58752 Østbirk,birk,1.475.000,11-08-2010,Alm. Salg,10.535,3,Villa,140,1974,-3 %,Aktuel værdi
+Ydinggade 378752 Østbirk,birk,1.150.000,30-07-2010,Alm. Salg,10.454,3,Villa,110,1900,-4 %,Aktuel værdi
+Præstemarken 72B8752 Østbirk,birk,1.150.000,02-07-2010,Alm. Salg,13.529,3,Rækkehus,85,1980,0 %,Aktuel værdi
+Kongevej 78752 Østbirk,birk,370.000,30-06-2010,Alm. Salg,3.162,5,Villa,117,1877,-20 %,Aktuel værdi
+Højageren 218752 Østbirk,birk,850.000,10-06-2010,Alm. Salg,14.166,3,Villa,60,2005,-3 %,Aktuel værdi
+Hovgårdsvej 88752 Østbirk,birk,897.500,08-06-2010,Alm. Salg,3.251,12,Stuehus,276,1928,,
+Ryvej 768752 Østbirk,birk,1.500.000,03-06-2010,Alm. Salg,6.976,8,Villa,215,1866,,Aktuel værdi
+Kongevej 698752 Østbirk,birk,520.000,03-06-2010,Alm. Salg,2.872,6,Villa,181,2011,-5 %,Aktuel værdi
+Stenagervej 358752 Østbirk,birk,349.000,02-06-2010,Alm. Salg,2.684,5,Villa,130,2011,-50 %,Aktuel værdi
+Grundtvigsvej 23B8752 Østbirk,birk,810.000,16-05-2010,Alm. Salg,9.642,3,Rækkehus,84,1984,-9 %,Aktuel værdi
+Torpvej 68752 Østbirk,birk,950.000,06-05-2010,Alm. Salg,9.134,4,Villa,104,1947,0 %,Aktuel værdi
+Lærkevej 18752 Østbirk,birk,1.375.000,03-05-2010,Alm. Salg,11.363,5,Villa,121,1964,-2 %,Aktuel værdi
+Vestbirkvej 308752 Østbirk,birk,850.000,26-04-2010,Alm. Salg,6.204,7,Villa,137,1898,-15 %,Aktuel værdi
+Raagaardsvænget 68752 Østbirk,birk,555.000,19-04-2010,Alm. Salg,4.269,3,Villa,130,2006,,Aktuel værdi
+Præstemarken 68752 Østbirk,birk,1.937.500,19-04-2010,Alm. Salg,11.464,5,Villa,169,1978,-10 %,Aktuel værdi
+Strungesvej 18752 Østbirk,birk,1.475.000,17-04-2010,Alm. Salg,9.768,5,Villa,151,1947,-13 %,Aktuel værdi
+Stenagervej 848752 Østbirk,birk,1.500.000,15-04-2010,Alm. Salg,-,6,Villa,169,2008,226 %,Aktuel værdi
+Skovlyvej 28752 Østbirk,birk,1.850.000,15-04-2010,Alm. Salg,12.671,5,Villa,146,1950,,Aktuel værdi
+Sattrupvej 128752 Østbirk,birk,1.793.733,15-04-2010,Alm. Salg,10.551,6,Stuehus,170,1887,,
+Nybakken 528752 Østbirk,birk,2.400.000,30-03-2010,Alm. Salg,14.035,5,Villa,171,2007,-4 %,Aktuel værdi
+Urupvej 158752 Østbirk,birk,1.895.000,24-03-2010,Alm. Salg,10.188,8,Stuehus,186,1930,0 %,
+Præstemarken 22A8752 Østbirk,birk,850.000,24-03-2010,Alm. Salg,10.000,3,Rækkehus,85,1979,,Aktuel værdi
+Bøgevej 18752 Østbirk,birk,1.095.000,17-03-2010,Alm. Salg,13.192,3,Villa,83,1968,0 %,Aktuel værdi
+Præstemarken 198752 Østbirk,birk,687.500,08-03-2010,Fam. Salg,5.978,4,Villa,115,1977,,Aktuel værdi
+Stenkærvej 88752 Østbirk,birk,4.004.000,04-03-2010,Alm. Salg,22.750,6,Stuehus,176,1850,,
+Søvejen 18752 Østbirk,birk,1.099.000,03-03-2010,Alm. Salg,7.000,2,Villa,157,1897,0 %,Aktuel værdi
+Peder Skramsgade 98752 Østbirk,birk,675.187,20-02-2010,Alm. Salg,7.260,4,Villa,93,1961,-46 %,Aktuel værdi
+Præstemarken 488752 Østbirk,birk,1.550.000,18-02-2010,Alm. Salg,8.908,5,Villa,174,1979,,Aktuel værdi
+Ewaldsvej 308752 Østbirk,birk,1.800.000,11-02-2010,Alm. Salg,12.857,5,Villa,140,1997,-3 %,Aktuel værdi
+Præstemarken 36B8752 Østbirk,birk,750.000,05-02-2010,Alm. Salg,8.823,3,Rækkehus,85,1979,,Aktuel værdi
+Sudkærvej 98752 Østbirk,birk,2.495.000,04-02-2010,Alm. Salg,17.326,3,Stuehus,144,1907,0 %,
+Højageren 28752 Østbirk,birk,1.695.000,04-02-2010,Alm. Salg,11.375,6,Villa,149,2000,0 %,Aktuel værdi
+Urupvej 198752 Østbirk,birk,2.000.000,02-02-2010,Alm. Salg,12.578,5,Stuehus,159,1999,,
+Ryvej 388752 Østbirk,birk,1.125.000,25-01-2010,Alm. Salg,8.272,3,Villa,136,1951,-13 %,Aktuel værdi
+Storegade 528752 Østbirk,birk,885.000,20-01-2010,Alm. Salg,7.137,6,Villa,124,1945,-4 %,Aktuel værdi
+Kongevej 68752 Østbirk,birk,1.050.000,22-12-2009,Alm. Salg,9.210,4,Villa,114,1987,,Aktuel værdi
+Kongevej 198752 Østbirk,birk,2.300.000,27-11-2009,Auktion,8.518,10,Villa,270,1877,-59 %,Aktuel værdi
+Storegade 768752 Østbirk,birk,980.000,17-11-2009,Alm. Salg,9.074,6,Villa,108,1870,-7 %,Aktuel værdi
+"Storegade 7, 18752 Østbirk",birk,1.750.000,15-11-2009,Alm. Salg,14.583,4,Lejlighed,120,1910,,Aktuel værdi
+Potmosevej 138752 Østbirk,birk,1.250.000,12-11-2009,Alm. Salg,9.842,5,Villa,127,1890,-3 %,Aktuel værdi
+Rosengade 28752 Østbirk,birk,1.975.000,28-10-2009,Alm. Salg,14.007,5,Villa,141,1917,-10 %,Aktuel værdi
+Savværksgyden 48752 Østbirk,birk,1.545.000,08-10-2009,Alm. Salg,13.794,3,Villa,112,2008,0 %,Aktuel værdi
+Præstemarken 45A8752 Østbirk,birk,1.150.000,28-09-2009,Alm. Salg,13.529,3,Rækkehus,85,1982,,Aktuel værdi
+Søndermarken 2A8752 Østbirk,birk,625.000,26-09-2009,Alm. Salg,4.310,5,Villa,145,1885,,Aktuel værdi
+Stenagervej 688752 Østbirk,birk,500.000,30-08-2009,Alm. Salg,2.873,5,Villa,174,2010,5 %,Aktuel værdi
+Gantrupvej 268752 Østbirk,birk,2.025.000,28-08-2009,Alm. Salg,7.788,7,Villa,260,1900,-4 %,Aktuel værdi
+Stenagervej 168752 Østbirk,birk,349.000,21-08-2009,Alm. Salg,2.326,5,Villa,150,2010,-44 %,Aktuel værdi
+Sattrupvej 358752 Østbirk,birk,1.675.000,21-08-2009,Alm. Salg,9.103,7,Villa,184,1852,-7 %,Aktuel værdi
+Smedevej 48752 Østbirk,birk,500.000,08-07-2009,Alm. Salg,3.968,4,Villa,126,1943,-7 %,Aktuel værdi
+Industrivej 68752 Østbirk,birk,3.600.000,06-07-2009,Alm. Salg,14.574,7,Villa,247,1973,,Aktuel værdi
+Stenkærvej 138752 Østbirk,birk,2.000.000,17-06-2009,Alm. Salg,9.009,6,Stuehus,222,1940,,
+Præstemarken 22C8752 Østbirk,birk,880.000,17-06-2009,Alm. Salg,11.282,2,Rækkehus,78,1982,-12 %,Aktuel værdi
+Kongevej 108752 Østbirk,birk,1.285.000,09-06-2009,Alm. Salg,13.112,4,Villa,98,1966,-10 %,Aktuel værdi
+Stenbjergvej 3A8752 Østbirk,birk,2.550.000,03-06-2009,Alm. Salg,11.805,6,Stuehus,216,1916,-12 %,
+Stenagervej 508752 Østbirk,birk,315.000,29-05-2009,Auktion,2.100,5,Villa,150,2010,,Aktuel værdi
+Granhøjen 38752 Østbirk,birk,1.250.000,19-05-2009,Andet,7.485,5,Villa,167,2005,,Aktuel værdi
+Nybakken 448752 Østbirk,birk,2.200.000,17-05-2009,Alm. Salg,14.765,5,Villa,149,2007,-8 %,Aktuel værdi
+Kalsmosevej 48752 Østbirk,birk,1.124.109,08-05-2009,Alm. Salg,7.025,6,Stuehus,160,1917,,
+Tjørnevej 408752 Østbirk,birk,450.000,27-04-2009,Alm. Salg,2.331,5,Villa,193,2010,-10 %,Aktuel værdi
+Tjørnevej 388752 Østbirk,birk,450.000,15-04-2009,Alm. Salg,2.647,5,Villa,170,2010,,Aktuel værdi
+Industrivej 238752 Østbirk,birk,2.500.000,02-04-2009,Alm. Salg,16.891,5,Villa,148,1928,,Aktuel værdi
+Hovgårdsvej 28752 Østbirk,birk,1.000.000,31-03-2009,Alm. Salg,14.285,2,Villa,70,1932,-9 %,Aktuel værdi
+Kvægenbjergvej 158752 Østbirk,birk,3.200.000,30-03-2009,Alm. Salg,29.906,5,Stuehus,107,1929,-20 %,
+Præstemarken 218752 Østbirk,birk,1.015.000,20-03-2009,Alm. Salg,7.807,4,Villa,130,1977,-5 %,Aktuel værdi
+Purupvej 88752 Østbirk,birk,2.332.000,18-03-2009,Alm. Salg,-,7,Villa,230,1877,-12 %,Aktuel værdi
+Stenbjergvej 128752 Østbirk,birk,830.000,04-03-2009,Alm. Salg,5.886,5,Villa,141,1916,-17 %,Aktuel værdi
+Potmosevej 48752 Østbirk,birk,1.000.000,02-03-2009,Alm. Salg,4.366,4,Stuehus,229,2011,,
+Stenbjergvej 2A8752 Østbirk,birk,2.725.000,30-01-2009,Alm. Salg,12.674,5,Stuehus,215,1924,,
+Søvejen 148752 Østbirk,birk,575.000,22-01-2009,Alm. Salg,4.713,5,Villa,122,1906,,Aktuel værdi
+Præstemarken 698752 Østbirk,birk,1.750.000,21-01-2009,Alm. Salg,13.059,4,Villa,134,1987,-5 %,Aktuel værdi
+Søvejen 23E8752 Østbirk,birk,885.000,23-12-2008,Alm. Salg,7.500,5,Villa,118,1878,-6 %,Aktuel værdi
+Kvægenbjergvej 88752 Østbirk,birk,685.000,11-12-2008,Alm. Salg,7.611,3,Villa,90,1897,-23 %,Aktuel værdi
+Nybakken 958752 Østbirk,birk,408.000,12-11-2008,Alm. Salg,2.615,5,Villa,156,2009,,Aktuel værdi
+Stenbjergvej 148752 Østbirk,birk,1.785.000,06-11-2008,Alm. Salg,16.839,7,Villa,106,1906,-11 %,Aktuel værdi
+Tjørnevej 58752 Østbirk,birk,2.895.000,31-10-2008,Alm. Salg,16.542,5,Villa,175,2009,-9 %,Aktuel værdi
+Nybakken 918752 Østbirk,birk,438.400,23-10-2008,Alm. Salg,2.248,6,Villa,195,2010,,Aktuel værdi
+Smedevej 118752 Østbirk,birk,1.398.000,10-10-2008,Alm. Salg,13.980,3,Villa,100,1942,0 %,Aktuel værdi
+Urupvej 38752 Østbirk,birk,350.000,22-09-2008,Alm. Salg,2.573,4,Villa,136,1877,,Aktuel værdi
+Nybakken 998752 Østbirk,birk,382.400,14-09-2008,Alm. Salg,2.405,4,Villa,159,2010,-20 %,Aktuel værdi
+Søndermarken 5A8752 Østbirk,birk,900.000,12-09-2008,Alm. Salg,7.258,4,Rækkehus,124,1981,,Aktuel værdi
+Højbakkevej 48752 Østbirk,birk,1.199.000,20-08-2008,Alm. Salg,14.445,3,Villa,83,1988,0 %,Aktuel værdi
+Karolinelundsvej 108752 Østbirk,birk,1.575.000,15-08-2008,Alm. Salg,13.347,3,Villa,118,1935,-3 %,Aktuel værdi
+Storegade 178752 Østbirk,birk,2.300.000,02-08-2008,Alm. Salg,-,9,Engroshandel,158,1972,,Aktuel værdi
+Tjørnevej 108752 Østbirk,birk,650.000,30-07-2008,Alm. Salg,3.631,6,Villa,179,2010,,Aktuel værdi
+Industrivej 28752 Østbirk,birk,3.500.000,15-07-2008,Alm. Salg,9.210,10,Detailhandel,380,1967,,Aktuel værdi
+Karolinelundsvej 88752 Østbirk,birk,1.400.000,03-07-2008,Fam. Salg,10.144,5,Villa,138,1939,,Aktuel værdi
+Gydekrog 118752 Østbirk,birk,1.900.000,25-06-2008,Alm. Salg,9.359,6,Villa,203,1885,-17 %,Aktuel værdi
+Lundsvej 38752 Østbirk,birk,1.075.000,23-06-2008,Fam. Salg,9.429,4,Villa,114,1900,,Aktuel værdi
+Monbjergvej 108752 Østbirk,birk,61.035,22-06-2008,Alm. Salg,279,6,Stuehus,218,1916,,
+Præstemarken 358752 Østbirk,birk,1.600.000,17-06-2008,Alm. Salg,14.285,4,Villa,112,1986,-6 %,Aktuel værdi
+Rødkælkevej 28752 Østbirk,birk,2.021.325,16-06-2008,Alm. Salg,18.715,4,Villa,108,2008,,Aktuel værdi
+Potmosevej 188752 Østbirk,birk,1.950.000,12-06-2008,Alm. Salg,11.206,5,Villa,174,1980,-7 %,Aktuel værdi
+Birkevej 28752 Østbirk,birk,1.550.000,12-06-2008,Alm. Salg,9.748,7,Villa,159,1967,-7 %,Aktuel værdi
+Potmosevej 98752 Østbirk,birk,1.750.000,10-06-2008,Alm. Salg,18.817,4,Stuehus,93,1941,,
+Raagaardsvænget 88752 Østbirk,birk,1.379.381,09-06-2008,Alm. Salg,10.610,3,Villa,130,2006,,Aktuel værdi
+Bøgevej 28752 Østbirk,birk,1.700.000,29-05-2008,Alm. Salg,10.179,6,Villa,167,1967,-4 %,Aktuel værdi
+Raagaardsvænget 58752 Østbirk,birk,1.251.565,28-05-2008,Alm. Salg,11.174,3,Villa,112,2008,,Aktuel værdi
+Ewaldsvej 128752 Østbirk,birk,1.625.000,15-05-2008,Alm. Salg,11.130,5,Villa,146,1975,0 %,Aktuel værdi
+Stenkærvej 178752 Østbirk,birk,2.200.000,14-05-2008,Alm. Salg,8.661,8,Villa,254,1930,,Aktuel værdi
+Raagaardsvænget 38752 Østbirk,birk,1.251.565,09-05-2008,Alm. Salg,11.174,3,Villa,112,2008,,Aktuel værdi
+Ydinggade 258752 Østbirk,birk,3.761.250,08-05-2008,Fam. Salg,16.642,5,Stuehus,226,1862,,
+Møldrupvej 1G8752 Østbirk,birk,584.000,20-04-2008,Alm. Salg,3.025,5,Villa,193,2011,,Aktuel værdi
+Storegade 168752 Østbirk,birk,870.000,11-04-2008,Alm. Salg,12.985,2,Villa,67,1877,,Aktuel værdi
+Blichersvej 48752 Østbirk,birk,1.425.000,09-04-2008,Alm. Salg,12.179,4,Villa,117,1967,-5 %,Aktuel værdi
+Søndermarken 148752 Østbirk,birk,1.512.684,07-04-2008,Fam. Salg,8.546,6,Villa,177,1978,,Aktuel værdi
+Søvejen 318752 Østbirk,birk,3.000.000,02-04-2008,Alm. Salg,-,8,Villa,234,1924,,Aktuel værdi
+Tjørnevej 118752 Østbirk,birk,850.000,28-03-2008,Alm. Salg,4.126,6,Villa,206,2009,,Aktuel værdi
+Purupvej 18752 Østbirk,birk,4.500.000,11-03-2008,Alm. Salg,24.456,6,Stuehus,184,1902,,
+Tjørnevej 268752 Østbirk,birk,885.000,11-03-2008,Alm. Salg,4.135,6,Villa,214,2011,0 %,Aktuel værdi
+Savskovhusvej 28752 Østbirk,birk,70.567,10-03-2008,Alm. Salg,294,9,Stuehus,240,1892,,
+Kongevej 298752 Østbirk,birk,386.750,22-02-2008,Fam. Salg,2.723,5,Villa,142,1933,,Aktuel værdi
+Kongevej 318752 Østbirk,birk,699.704,22-02-2008,Fam. Salg,7.139,4,Villa,98,1969,,Aktuel værdi
+Ryvej 498752 Østbirk,birk,825.000,15-02-2008,Andet,5.322,3,Villa,155,2003,,Aktuel værdi
+Sattrupvej 538752 Østbirk,birk,581.759,14-02-2008,Andet,4.155,5,Villa,140,1900,,Aktuel værdi
+Tjørnevej 88752 Østbirk,birk,3.250.000,13-02-2008,Alm. Salg,19.005,6,Villa,171,2008,,Aktuel værdi
+Storegade 278752 Østbirk,birk,805.838,06-02-2008,Alm. Salg,9.262,3,Villa,87,1887,,Aktuel værdi
+Ydinggade 228752 Østbirk,birk,1.700.000,30-01-2008,Alm. Salg,10.897,5,Villa,156,1941,,Aktuel værdi
+Søvejen 228752 Østbirk,birk,850.000,30-01-2008,Alm. Salg,7.727,4,Villa,110,1924,-7 %,Aktuel værdi
+Sattrupvej 598752 Østbirk,birk,1.200.000,29-01-2008,Alm. Salg,10.434,4,Villa,115,1954,-2 %,Aktuel værdi
+Gydekrog 188752 Østbirk,birk,1.760.000,23-01-2008,Alm. Salg,10.731,5,Villa,164,1985,-7 %,Aktuel værdi
+Stenagervej 68752 Østbirk,birk,2.005.000,22-01-2008,Alm. Salg,16.040,4,Villa,125,2008,0 %,Aktuel værdi
+Præstemarken 348752 Østbirk,birk,1.400.000,21-01-2008,Alm. Salg,11.965,4,Villa,117,1979,-6 %,Aktuel værdi
+Urupvej 178752 Østbirk,birk,2.280.000,11-01-2008,Fam. Salg,13.179,4,Stuehus,173,1877,,
+Blichersvej 128752 Østbirk,birk,1.750.000,04-01-2008,Alm. Salg,12.500,5,Villa,140,1968,,Aktuel værdi
+Kongevej 638752 Østbirk,birk,625.000,03-01-2008,Alm. Salg,2.626,5,Villa,238,2009,,Aktuel værdi
+Præstemarken 36A8752 Østbirk,birk,1.100.000,03-01-2008,Alm. Salg,12.941,3,Rækkehus,85,1979,,Aktuel værdi
+Skovhøjvej 88752 Østbirk,birk,13.400.000,06-12-2007,Andet,34.805,9,Stuehus,385,1913,,
+Højageren 558752 Østbirk,birk,2.390.000,29-11-2007,Alm. Salg,17.194,5,Villa,139,2002,0 %,Aktuel værdi
+Kongevej 678752 Østbirk,birk,561.000,27-11-2007,Alm. Salg,3.082,5,Villa,182,2008,,Aktuel værdi
+Kongevej 618752 Østbirk,birk,692.000,27-11-2007,Alm. Salg,4.613,5,Villa,150,2008,,Aktuel værdi
+Ryvej 11C8752 Østbirk,birk,1.250.000,20-11-2007,Alm. Salg,16.891,3,Rækkehus,74,2009,,Aktuel værdi
+Ryvej 11D8752 Østbirk,birk,1.285.500,20-11-2007,Alm. Salg,17.371,3,Rækkehus,74,2009,,Aktuel værdi
+Kongevej 658752 Østbirk,birk,583.000,15-11-2007,Alm. Salg,3.168,5,Villa,184,2008,,Aktuel værdi
+Præstemarken 24B8752 Østbirk,birk,1.550.000,14-11-2007,Alm. Salg,11.481,4,Villa,135,1981,-3 %,Aktuel værdi
+Møldrupvej 1C8752 Østbirk,birk,530.000,01-11-2007,Alm. Salg,1.906,4,Villa,278,2008,,Aktuel værdi
+Stenkærvej 38752 Østbirk,birk,700.000,26-10-2007,Alm. Salg,4.605,5,Stuehus,152,2003,,
+Birkevej 158752 Østbirk,birk,885.000,04-10-2007,Alm. Salg,7.695,3,Villa,115,1965,,Aktuel værdi
+Tjørnevej 48752 Østbirk,birk,725.000,13-09-2007,Alm. Salg,-,9,Villa,268,2008,,Aktuel værdi
+Søvejen 588752 Østbirk,birk,2.885.000,27-08-2007,Alm. Salg,18.493,5,Stuehus,156,1925,,
+Højageren 58752 Østbirk,birk,2.350.000,25-07-2007,Alm. Salg,15.562,5,Villa,151,1998,-2 %,Aktuel værdi
+Holbergsvej 348752 Østbirk,birk,1.850.000,23-07-2007,Alm. Salg,13.405,3,Villa,138,1984,,Aktuel værdi
+Ewaldsvej 198752 Østbirk,birk,1.625.000,05-07-2007,Alm. Salg,13.429,5,Villa,121,1974,,Aktuel værdi
+Kvægenbjergvej 118752 Østbirk,birk,1.295.000,28-06-2007,Alm. Salg,17.266,2,Villa,75,1877,,Aktuel værdi
+Storegade 788752 Østbirk,birk,1.350.000,28-06-2007,Alm. Salg,12.385,4,Villa,109,1946,,Aktuel værdi
+Stenagervej 658752 Østbirk,birk,600.000,20-06-2007,Alm. Salg,4.316,5,Villa,139,2008,-73 %,Aktuel værdi
+Baysvænge 88752 Østbirk,birk,1.321.166,01-06-2007,Andet,9.933,3,Villa,133,2005,,Aktuel værdi
+Præstemarken 17A8752 Østbirk,birk,1.195.000,31-05-2007,Alm. Salg,14.058,3,Rækkehus,85,1979,,Aktuel værdi
+Ryvej 418752 Østbirk,birk,1.200.000,28-05-2007,Alm. Salg,16.666,4,Villa,72,1954,,Aktuel værdi
+Stenagervej 578752 Østbirk,birk,600.000,15-05-2007,Alm. Salg,4.225,5,Villa,142,2007,,Aktuel værdi
+Rødkælkevej 168752 Østbirk,birk,107.143,10-05-2007,Alm. Salg,931,4,Villa,115,2009,,Aktuel værdi
+Rødkælkevej 188752 Østbirk,birk,107.143,10-05-2007,Alm. Salg,956,4,Villa,112,2009,,Aktuel værdi
+Rødkælkevej 148752 Østbirk,birk,107.143,10-05-2007,Alm. Salg,939,4,Villa,114,2009,,Aktuel værdi
+Baysvænge 148752 Østbirk,birk,2.290.000,29-04-2007,Alm. Salg,14.679,5,Villa,156,2005,,Aktuel værdi
+Stenagervej 738752 Østbirk,birk,600.000,27-04-2007,Alm. Salg,3.821,6,Villa,157,2008,,Aktuel værdi
+Ewaldsvej 11A8752 Østbirk,birk,1.100.000,26-04-2007,Alm. Salg,12.643,3,Rækkehus,87,1979,,Aktuel værdi
+Tjørnevej 98752 Østbirk,birk,850.000,18-04-2007,Alm. Salg,3.586,6,Villa,237,2008,,Aktuel værdi
+Ryvej 228752 Østbirk,birk,1.037.000,18-04-2007,Andet,11.784,4,Villa,88,1942,,Aktuel værdi
+Holbergsvej 448752 Østbirk,birk,1.490.000,11-04-2007,Fam. Salg,6.234,7,Villa,239,1974,,Aktuel værdi
+Søndermarken 108752 Østbirk,birk,2.050.000,02-04-2007,Alm. Salg,8.333,7,Villa,246,1972,,Aktuel værdi
+Kongevej 258752 Østbirk,birk,1.323.000,26-03-2007,Alm. Salg,11.307,8,Servicevirksomhed,117,1865,,Aktuel værdi
+Højageren 118752 Østbirk,birk,2.398.000,23-03-2007,Alm. Salg,16.424,5,Villa,146,1998,,Aktuel værdi
+"Ryvej 28, ST8752 Østbirk",birk,985.000,10-03-2007,Alm. Salg,11.067,3,Lejlighed,89,1934,,Aktuel værdi
+Vestbirkvej 478752 Østbirk,birk,1.600.000,08-03-2007,Alm. Salg,15.238,3,Villa,105,1846,,Aktuel værdi
+Granhøjen 138752 Østbirk,birk,525.000,28-02-2007,Alm. Salg,4.101,5,Villa,128,2008,,Aktuel værdi
+Nybakken 488752 Østbirk,birk,2.500.000,28-02-2007,Alm. Salg,16.339,5,Villa,153,2008,,Aktuel værdi
+Højageren 138752 Østbirk,birk,3.000.000,27-02-2007,Alm. Salg,18.181,4,Villa,165,2003,,Aktuel værdi
+Ydinggade 358752 Østbirk,birk,1.295.000,26-02-2007,Alm. Salg,9.736,5,Villa,133,1900,,Aktuel værdi
+Kongevej 248752 Østbirk,birk,313.800,17-02-2007,Alm. Salg,1.890,6,Stuehus,166,1918,,
+Højageren 328752 Østbirk,birk,695.000,09-02-2007,Alm. Salg,3.582,4,Villa,194,2007,,Aktuel værdi
+Ydinggade 538752 Østbirk,birk,657.023,07-02-2007,Fam. Salg,4.866,5,Villa,135,1974,,Aktuel værdi
+Kongevej 338752 Østbirk,birk,3.748.750,05-02-2007,Fam. Salg,43.089,4,Stuehus,87,1906,,
+Stenbjergvej 58752 Østbirk,birk,3.100.000,02-02-2007,Alm. Salg,22.962,4,Stuehus,135,1981,,
+Nybakken 368752 Østbirk,birk,1.900.000,02-02-2007,Alm. Salg,15.079,4,Villa,126,2006,,Aktuel værdi
+Fyel Skovvej 138752 Østbirk,birk,2.250.000,01-02-2007,Alm. Salg,9.336,5,Villa,241,2012,,Aktuel værdi
+Møldrupvej 38752 Østbirk,birk,880.000,05-01-2007,Alm. Salg,3.450,10,Villa,255,1877,,Aktuel værdi
+Birkholmvej 20B8752 Østbirk,birk,450.000,02-01-2007,Alm. Salg,2.710,6,Villa,166,2008,,Aktuel værdi
+Holbergsvej 468752 Østbirk,birk,1.650.000,29-11-2006,Alm. Salg,11.301,5,Villa,146,1974,,Aktuel værdi
+Lyngdalvej 2A8752 Østbirk,birk,1.020.000,29-11-2006,Alm. Salg,3.100,9,Villa,329,2013,,Aktuel værdi
+Smedevej 158752 Østbirk,birk,85.000,27-11-2006,Alm. Salg,494,5,Villa,172,2008,,Aktuel værdi
+Ryvej 518752 Østbirk,birk,2.499.000,15-11-2006,Alm. Salg,14.875,6,Villa,168,1988,,Aktuel værdi
+Kvægenbjergvej 48752 Østbirk,birk,391.966,02-11-2006,Alm. Salg,2.333,6,Villa,168,1905,,Aktuel værdi
+Stenagervej 828752 Østbirk,birk,450.000,28-10-2006,Alm. Salg,2.848,5,Villa,158,2008,,Aktuel værdi
+Stenagervej 638752 Østbirk,birk,600.000,27-10-2006,Alm. Salg,3.821,5,Villa,157,2007,,Aktuel værdi
+Stenagervej 568752 Østbirk,birk,595.000,21-10-2006,Alm. Salg,4.131,5,Villa,144,2008,,Aktuel værdi
+Vibevej 18752 Østbirk,birk,1.125.000,17-10-2006,Alm. Salg,15.000,3,Villa,75,1963,,Aktuel værdi
+Ewaldsvej 188752 Østbirk,birk,1.745.000,17-10-2006,Alm. Salg,15.442,4,Villa,113,2001,,Aktuel værdi
+Ydingvej 368752 Østbirk,birk,1.200.000,16-10-2006,Alm. Salg,12.500,4,Villa,96,1944,,Aktuel værdi
+Søvejen 23D8752 Østbirk,birk,1.575.000,12-10-2006,Alm. Salg,10.641,2,Villa,148,2004,,Aktuel værdi
+Skovageren 68752 Østbirk,birk,3.815.500,02-10-2006,Alm. Salg,27.253,3,Stuehus,140,1877,,
+Højageren 208752 Østbirk,birk,550.000,22-09-2006,Alm. Salg,3.956,5,Villa,139,2007,,Aktuel værdi
+Ydinggade 438752 Østbirk,birk,1.050.000,05-09-2006,Alm. Salg,8.974,3,Villa,117,1939,,Aktuel værdi
+Nybakken 408752 Østbirk,birk,1.883.150,01-09-2006,Alm. Salg,15.186,4,Villa,124,2006,,Aktuel værdi
+Søvejen 118752 Østbirk,birk,575.000,30-08-2006,Alm. Salg,7.876,4,Villa,73,1900,,Aktuel værdi
+Monbjergvej 298752 Østbirk,birk,495.093,24-08-2006,Alm. Salg,4.715,4,Villa,105,1877,,Aktuel værdi
+Tjørnevej 68752 Østbirk,birk,550.000,20-08-2006,Alm. Salg,3.273,5,Villa,168,2007,,Aktuel værdi
+Ydinggade 308752 Østbirk,birk,1.095.000,18-08-2006,Alm. Salg,12.586,3,Villa,87,1887,,Aktuel værdi
+Ydingvej 648752 Østbirk,birk,42.000,14-08-2006,Alm. Salg,164,8,Stuehus,255,1909,,
+Tjørnevej 38752 Østbirk,birk,750.000,31-07-2006,Alm. Salg,3.731,5,Villa,201,2007,,Aktuel værdi
+Birkholmvej 20A8752 Østbirk,birk,350.000,16-07-2006,Alm. Salg,1.296,7,Villa,270,2008,,Aktuel værdi
+Møldrupvej 88752 Østbirk,birk,1.410.000,13-07-2006,Alm. Salg,7.877,5,Villa,179,1900,,Aktuel værdi
+Ewaldsvej 148752 Østbirk,birk,1.300.000,13-07-2006,Alm. Salg,13.978,4,Villa,93,1988,,Aktuel værdi
+Torpvej 48752 Østbirk,birk,1.360.000,13-07-2006,Alm. Salg,11.428,4,Villa,119,1927,,Aktuel værdi
+Ryvej 248752 Østbirk,birk,1.385.000,02-07-2006,Alm. Salg,12.824,5,Villa,108,1942,,Aktuel værdi
+Hovgårdsvej 58752 Østbirk,birk,1.050.000,16-06-2006,Alm. Salg,6.521,6,Villa,161,1880,,Aktuel værdi
+Tjørnevej 368752 Østbirk,birk,650.000,15-06-2006,Alm. Salg,3.693,5,Villa,176,2007,,Aktuel værdi
+Ydinggade 478752 Østbirk,birk,5.616.938,13-06-2006,Alm. Salg,33.040,4,Villa,170,1934,,Aktuel værdi
+Tjørnevej 188752 Østbirk,birk,650.000,12-06-2006,Alm. Salg,3.532,5,Villa,184,2008,,Aktuel værdi
+Højageren 438752 Østbirk,birk,2.225.000,03-06-2006,Alm. Salg,14.171,5,Villa,157,2003,,Aktuel værdi
+Søvejen 158752 Østbirk,birk,880.000,19-05-2006,Alm. Salg,8.224,3,Rækkehus,107,1912,,Aktuel værdi
+Søndermarken 128752 Østbirk,birk,1.660.000,18-05-2006,Alm. Salg,9.940,6,Villa,167,1977,,Aktuel værdi
+Tjørnevej 138752 Østbirk,birk,750.000,16-05-2006,Alm. Salg,4.189,5,Villa,179,2007,,Aktuel værdi
+Tjørnevej 248752 Østbirk,birk,750.000,16-05-2006,Alm. Salg,4.687,5,Villa,160,2008,,Aktuel værdi
+Tjørnevej 328752 Østbirk,birk,750.000,16-05-2006,Alm. Salg,3.205,6,Villa,234,2008,,Aktuel værdi
+Ryvej 428752 Østbirk,birk,1.000.000,15-05-2006,Alm. Salg,5.128,5,Stuehus,195,1924,,
+Ewaldsvej 38A8752 Østbirk,birk,350.000,09-05-2006,Fam. Salg,4.430,2,Villa,79,1991,,Aktuel værdi
+Yding Toft 108752 Østbirk,birk,599.000,08-05-2006,Alm. Salg,3.889,5,Villa,154,2007,,Aktuel værdi
+Præstemarken 318752 Østbirk,birk,1.155.000,05-05-2006,Alm. Salg,10.043,4,Villa,115,1976,,Aktuel værdi
+Tjørnevej 168752 Østbirk,birk,550.000,04-05-2006,Alm. Salg,3.273,6,Villa,168,2008,,Aktuel værdi
+Tjørnevej 148752 Østbirk,birk,550.000,04-05-2006,Alm. Salg,3.197,5,Villa,172,2008,,Aktuel værdi
+Tjørnevej 348752 Østbirk,birk,750.000,04-05-2006,Alm. Salg,3.750,5,Villa,200,2009,,Aktuel værdi
+Tjørnevej 128752 Østbirk,birk,550.000,04-05-2006,Alm. Salg,3.437,5,Villa,160,2007,,Aktuel værdi
+Tjørnevej 228752 Østbirk,birk,750.000,04-05-2006,Alm. Salg,4.054,5,Villa,185,2007,,Aktuel værdi
+Tjørnevej 288752 Østbirk,birk,750.000,04-05-2006,Alm. Salg,4.076,4,Villa,184,2009,,Aktuel værdi
+Tjørnevej 308752 Østbirk,birk,490.000,15-04-2006,Alm. Salg,2.462,5,Villa,199,2007,,Aktuel værdi
+Kalsmosevej 98752 Østbirk,birk,2.500.000,31-03-2006,Alm. Salg,19.685,4,Stuehus,127,1984,,
+Yding Toft 168752 Østbirk,birk,395.000,31-03-2006,Alm. Salg,1.618,5,Villa,244,2008,,Aktuel værdi
+Potmosevej 58752 Østbirk,birk,925.000,27-03-2006,Alm. Salg,10.164,3,Villa,91,1960,,Aktuel værdi
+Storegade 358752 Østbirk,birk,1.550.000,27-03-2006,Alm. Salg,9.281,7,Villa,167,1877,,Aktuel værdi
+Sattrupvej 438752 Østbirk,birk,1.600.000,25-03-2006,Alm. Salg,8.163,5,Villa,196,1900,,Aktuel værdi
+Ryvej 628752 Østbirk,birk,750.000,24-03-2006,Alm. Salg,10.416,3,Villa,72,1946,,Aktuel værdi
+Kollerupvej 108752 Østbirk,birk,3.485.000,16-03-2006,Fam. Salg,19.043,6,Stuehus,183,1877,,
+Monbjergvej 118752 Østbirk,birk,750.000,14-03-2006,Alm. Salg,5.395,6,Villa,139,1930,,Aktuel værdi
+Yding Toft 128752 Østbirk,birk,450.000,08-03-2006,Alm. Salg,2.132,7,Villa,211,2007,,Aktuel værdi
+Ryvej 128752 Østbirk,birk,985.000,07-03-2006,Alm. Salg,13.133,2,Villa,75,1956,,Aktuel værdi
+Skjoldborgsvej 238752 Østbirk,birk,1.325.000,06-03-2006,Alm. Salg,9.330,5,Villa,142,1973,,Aktuel værdi
+Ryvej 58752 Østbirk,birk,1.294.700,06-03-2006,Alm. Salg,8.462,6,Villa,153,1902,,Aktuel værdi
+Ydinggade 298752 Østbirk,birk,435.000,02-03-2006,Alm. Salg,-,4,Villa,107,1920,,Aktuel værdi
+Ydingvej 408752 Østbirk,birk,1.400.000,27-02-2006,Alm. Salg,7.954,7,Villa,176,1951,,Aktuel værdi
+Strungesvej 38752 Østbirk,birk,1.835.000,23-02-2006,Alm. Salg,10.606,4,Villa,173,1946,,Aktuel værdi
+Højageren 598752 Østbirk,birk,500.000,22-02-2006,Alm. Salg,2.487,5,Villa,201,2007,,Aktuel værdi
+Strungesvej 48752 Østbirk,birk,2.400.000,05-02-2006,Fam. Salg,15.189,5,Villa,158,1996,,Aktuel værdi
+Møllersmindevej 68752 Østbirk,birk,1.600.000,31-01-2006,Alm. Salg,8.163,5,Stuehus,196,1880,,
+Højageren 618752 Østbirk,birk,470.000,30-01-2006,Alm. Salg,3.263,5,Villa,144,2007,,Aktuel værdi
+Birkevej 138752 Østbirk,birk,795.000,30-01-2006,Alm. Salg,7.794,3,Villa,102,1966,,Aktuel værdi
+Højageren 248752 Østbirk,birk,500.000,20-01-2006,Alm. Salg,3.184,5,Villa,157,2006,,Aktuel værdi
+Ewaldsvej 388752 Østbirk,birk,1.980.000,19-01-2006,Alm. Salg,11.715,4,Villa,169,1986,,Aktuel værdi
+Højageren 678752 Østbirk,birk,394.400,18-01-2006,Alm. Salg,1.923,5,Villa,205,2007,,Aktuel værdi
+Højageren 288752 Østbirk,birk,439.600,18-01-2006,Alm. Salg,2.854,5,Villa,154,2007,,Aktuel værdi
+Højageren 658752 Østbirk,birk,428.400,12-01-2006,Alm. Salg,2.856,5,Villa,150,2007,,Aktuel værdi
+Højageren 268752 Østbirk,birk,500.000,12-01-2006,Alm. Salg,2.336,5,Villa,214,2008,,Aktuel værdi
+Storkestræde 58752 Østbirk,birk,1.275.000,06-01-2006,Alm. Salg,6.219,7,Villa,205,1918,,Aktuel værdi
+Skovlyvej 88752 Østbirk,birk,637.500,28-12-2005,Fam. Salg,-,8,Stuehus,211,1935,,
+Sattrupvej 308752 Østbirk,birk,1.899.000,19-12-2005,Alm. Salg,10.320,6,Villa,184,1940,,Aktuel værdi
+Skovlyvej 58752 Østbirk,birk,427.000,15-12-2005,Andet,5.083,4,Villa,84,1934,,Aktuel værdi
+Birknæsvej 78752 Østbirk,birk,4.399.000,14-12-2005,Alm. Salg,18.561,7,Villa,237,1913,,Aktuel værdi
+Nybakken 508752 Østbirk,birk,413.600,30-11-2005,Alm. Salg,2.336,5,Villa,177,2007,,Aktuel værdi
+Storegade 448752 Østbirk,birk,875.000,28-11-2005,Alm. Salg,6.250,5,Rækkehus,140,1938,,Aktuel værdi
+Sudkærvej 78752 Østbirk,birk,3.995.000,14-11-2005,Alm. Salg,10.885,7,Villa,367,1996,,Aktuel værdi
+Gydekrog 3A8752 Østbirk,birk,749.000,11-11-2005,Alm. Salg,-,8,Villa,270,1984,,Aktuel værdi
+Møllersmindevej 128752 Østbirk,birk,2.650.000,11-11-2005,Alm. Salg,13.659,6,Stuehus,194,1936,,
+Præstemarken 60B8752 Østbirk,birk,1.050.000,08-11-2005,Alm. Salg,11.666,4,Rækkehus,90,1983,,Aktuel værdi
+Sattrupvej 498752 Østbirk,birk,1.300.000,07-11-2005,Alm. Salg,4.220,6,Villa,308,1894,,Aktuel værdi
+Højageren 698752 Østbirk,birk,442.000,01-11-2005,Alm. Salg,3.134,5,Villa,141,2006,,Aktuel værdi
+Højageren 228752 Østbirk,birk,479.200,01-11-2005,Alm. Salg,-,7,Villa,196,2006,,Aktuel værdi
+Potmosevej 18752 Østbirk,birk,1.495.000,30-10-2005,Alm. Salg,9.285,5,Villa,161,1916,,Aktuel værdi
+Stenager 498752 Østbirk,birk,1.500.000,27-10-2005,Alm. Salg,4.310,8,Villa,348,1827,,Aktuel værdi
+Højageren 168752 Østbirk,birk,500.000,25-10-2005,Alm. Salg,2.673,5,Villa,187,2007,,Aktuel værdi
+Baysvænge 28752 Østbirk,birk,425.000,24-10-2005,Alm. Salg,2.014,8,Villa,211,2008,,Aktuel værdi
+Storegade 728752 Østbirk,birk,815.000,18-10-2005,Alm. Salg,11.642,3,Villa,70,1958,,Aktuel værdi
+"Ryvej 28, 18752 Østbirk",birk,600.000,06-10-2005,Fam. Salg,6.896,3,Lejlighed,87,1934,,Aktuel værdi
+Ryvej 268752 Østbirk,birk,1.199.000,04-10-2005,Alm. Salg,8.564,4,Villa,140,1900,,Aktuel værdi
+Vibevej 58752 Østbirk,birk,650.000,20-09-2005,Alm. Salg,8.783,3,Villa,74,1964,,Aktuel værdi
+Storegade 668752 Østbirk,birk,1.060.000,19-09-2005,Alm. Salg,13.250,4,Villa,80,1950,,Aktuel værdi
+Baysvænge 48752 Østbirk,birk,390.000,13-09-2005,Alm. Salg,2.600,5,Villa,150,2007,,Aktuel værdi
+Irisvej 58752 Østbirk,birk,1.400.000,09-09-2005,Alm. Salg,6.481,8,Villa,216,1964,,Aktuel værdi
+Stenagervej 48752 Østbirk,birk,900.000,06-09-2005,Andet,6.293,6,Villa,143,1951,,Aktuel værdi
+Præstemarken 44B8752 Østbirk,birk,1.050.000,29-08-2005,Alm. Salg,12.352,3,Rækkehus,85,1982,,Aktuel værdi
+Højageren 178752 Østbirk,birk,335.200,25-08-2005,Alm. Salg,1.457,5,Villa,230,2007,,Aktuel værdi
+Kongevej 238752 Østbirk,birk,1.300.000,16-08-2005,Alm. Salg,9.285,3,Villa,140,1995,,Aktuel værdi
+Raagaardsvænget 128752 Østbirk,birk,1.780.000,12-08-2005,Alm. Salg,12.714,5,Villa,140,2005,,Aktuel værdi
+Gantrupvej 2B8752 Østbirk,birk,3.700.000,10-08-2005,Fam. Salg,16.086,8,Stuehus,230,1886,,
+Storegade 18752 Østbirk,birk,925.000,05-08-2005,Alm. Salg,5.082,5,Villa,182,1890,,Aktuel værdi
+Torpvej 58752 Østbirk,birk,1.185.000,01-08-2005,Alm. Salg,10.972,3,Villa,108,1953,,Aktuel værdi
+Potmosevej 108752 Østbirk,birk,925.000,28-07-2005,Alm. Salg,4.447,6,Stuehus,208,2006,,
+Præstemarken 20C8752 Østbirk,birk,1.049.000,08-07-2005,Alm. Salg,12.341,3,Rækkehus,85,1979,,Aktuel værdi
+Nybakken 468752 Østbirk,birk,340.500,06-07-2005,Alm. Salg,1.801,5,Villa,189,2006,,Aktuel værdi
+Torpvej 18752 Østbirk,birk,1.300.000,05-07-2005,Alm. Salg,-,6,Villa,188,1929,,Aktuel værdi
+Granhøjen 48752 Østbirk,birk,360.000,04-07-2005,Alm. Salg,2.000,5,Villa,180,2006,,Aktuel værdi
+Sattrupvej 18752 Østbirk,birk,780.000,29-06-2005,Alm. Salg,-,5,Villa,225,1900,,Aktuel værdi
+Højageren 18752 Østbirk,birk,150.000,20-06-2005,Alm. Salg,810,5,Villa,185,2007,,Aktuel værdi
+Nybakken 428752 Østbirk,birk,269.925,16-06-2005,Alm. Salg,1.243,5,Villa,217,2007,,Aktuel værdi
+Højageren 188752 Østbirk,birk,424.800,16-06-2005,Alm. Salg,2.113,5,Villa,201,2006,,Aktuel værdi
+Skjoldborgsvej 58752 Østbirk,birk,870.000,14-06-2005,Alm. Salg,6.850,4,Villa,127,1973,,Aktuel værdi
+Blichersvej 78752 Østbirk,birk,1.495.000,08-06-2005,Alm. Salg,7.187,6,Villa,208,1972,,Aktuel værdi
+Ydingvej 508752 Østbirk,birk,810.000,07-06-2005,Alm. Salg,7.043,4,Villa,115,1951,,Aktuel værdi
+Præstemarken 12A8752 Østbirk,birk,875.000,06-06-2005,Andet,10.802,3,Rækkehus,81,1985,,Aktuel værdi
+Granhøjen 78752 Østbirk,birk,350.000,30-05-2005,Alm. Salg,2.364,5,Villa,148,2005,,Aktuel værdi
+Ydingvej 248752 Østbirk,birk,1.025.000,30-05-2005,Alm. Salg,7.167,5,Villa,143,1924,,Aktuel værdi
+Purupvej 108752 Østbirk,birk,5.819.705,25-05-2005,Alm. Salg,37.546,6,Stuehus,155,1910,,
+Granhøjen 148752 Østbirk,birk,425.000,23-05-2005,Alm. Salg,2.103,5,Villa,202,2006,,Aktuel værdi
+Granhøjen 98752 Østbirk,birk,375.000,20-05-2005,Alm. Salg,2.167,5,Villa,173,2007,,Aktuel værdi
+Søvejen 468752 Østbirk,birk,1.035.151,18-05-2005,Fam. Salg,5.565,5,Villa,186,1988,,Aktuel værdi
+Torpvej 208752 Østbirk,birk,1.499.000,13-05-2005,Alm. Salg,13.752,4,Villa,109,1929,,Aktuel værdi
+Vestbirkvej 68752 Østbirk,birk,217.459,04-05-2005,Fam. Salg,1.812,4,Villa,120,1958,,Aktuel værdi
+Præstemarken 98752 Østbirk,birk,845.000,02-05-2005,Alm. Salg,8.535,3,Rækkehus,99,1978,,Aktuel værdi
+Møldrupvej 1A8752 Østbirk,birk,850.000,01-05-2005,Alm. Salg,5.519,5,Villa,154,1975,,Aktuel værdi
+Grundtvigsvej 21B8752 Østbirk,birk,730.000,29-04-2005,Alm. Salg,8.690,3,Rækkehus,84,1983,,Aktuel værdi
+Kalsmosevej 28752 Østbirk,birk,1.300.000,28-04-2005,Alm. Salg,5.200,6,Stuehus,250,2007,,
+Søvejen 398752 Østbirk,birk,945.000,20-04-2005,Alm. Salg,9.264,3,Villa,102,1900,,Aktuel værdi
+Gantrupvej 68752 Østbirk,birk,650.000,16-04-2005,Fam. Salg,8.666,3,Villa,75,1877,,Aktuel værdi
+Granhøjen 18752 Østbirk,birk,335.000,13-04-2005,Alm. Salg,2.680,4,Villa,125,2005,,Aktuel værdi
+Søvejen 338752 Østbirk,birk,4.400.000,12-04-2005,Alm. Salg,17.886,8,Villa,246,1926,,Aktuel værdi
+Kollerupvej 58752 Østbirk,birk,550.000,08-04-2005,Alm. Salg,5.729,4,Villa,96,1850,,Aktuel værdi
+Ewaldsvej 288752 Østbirk,birk,1.490.000,06-04-2005,Alm. Salg,10.642,5,Villa,140,2000,,Aktuel værdi
+Granhøjen 28752 Østbirk,birk,350.000,05-04-2005,Alm. Salg,2.108,5,Villa,166,2006,,Aktuel værdi
+Søvejen 448752 Østbirk,birk,1.000.000,01-04-2005,Alm. Salg,6.802,5,Villa,147,1987,,Aktuel værdi
+Baysvænge 188752 Østbirk,birk,350.000,02-03-2005,Alm. Salg,-,6,Villa,181,2005,,Aktuel værdi
+"Storegade 28A, 18752 Østbirk",birk,268.550,01-03-2005,Alm. Salg,-,4,Lejlighed,115,1882,,Aktuel værdi
+Grundtvigsvej 78752 Østbirk,birk,550.000,28-02-2005,Alm. Salg,5.339,3,Rækkehus,103,1967,,Aktuel værdi
+Lundsvej 18752 Østbirk,birk,820.000,10-02-2005,Fam. Salg,5.000,6,Villa,164,1971,,Aktuel værdi
+Brokbjergvej 18752 Østbirk,birk,1.200.000,02-02-2005,Alm. Salg,10.000,5,Villa,120,1965,,Aktuel værdi
+Grundtvigsvej 58752 Østbirk,birk,685.000,01-02-2005,Alm. Salg,8.782,3,Rækkehus,78,1967,,Aktuel værdi
+Ydingvej 168752 Østbirk,birk,1.350.000,31-01-2005,Alm. Salg,6.553,9,Villa,206,1942,,Aktuel værdi
+Holbergsvej 188752 Østbirk,birk,905.000,31-01-2005,Alm. Salg,-,4,Villa,125,1974,,Aktuel værdi
+Møldrupvej 28752 Østbirk,birk,300.000,27-01-2005,Fam. Salg,1.023,5,Villa,293,1922,,Aktuel værdi
+Kongevej 398752 Østbirk,birk,5.192.000,27-01-2005,Fam. Salg,20.768,8,Stuehus,250,1939,,
+Kongevej 428752 Østbirk,birk,1.600.000,27-01-2005,Fam. Salg,17.777,2,Stuehus,90,1934,,
+Ryvej 208752 Østbirk,birk,1.050.000,20-01-2005,Alm. Salg,9.051,4,Villa,116,1942,,Aktuel værdi
+Gantrupvej 58752 Østbirk,birk,1.575.000,09-01-2005,Alm. Salg,6.847,6,Villa,230,1925,,Aktuel værdi
+Søvejen 23B8752 Østbirk,birk,290.000,05-01-2005,Alm. Salg,1.584,5,Villa,183,2006,,Aktuel værdi
+Søvejen 428752 Østbirk,birk,850.000,30-12-2004,Alm. Salg,-,6,Villa,196,1954,,Aktuel værdi
+Granhøjen 118752 Østbirk,birk,350.000,20-12-2004,Alm. Salg,2.302,5,Villa,152,2006,,Aktuel værdi
+Stenkærvej 198752 Østbirk,birk,97.000,20-12-2004,Fam. Salg,702,3,Villa,138,1933,,Aktuel værdi
+Storegade 328752 Østbirk,birk,1.450.000,14-12-2004,Alm. Salg,7.397,8,Villa,196,1900,,Aktuel værdi
+Ydingvej 52A8752 Østbirk,birk,1.195.000,12-12-2004,Alm. Salg,10.391,4,Rækkehus,115,2002,,Aktuel værdi
+Sattrupvej 518752 Østbirk,birk,360.000,08-12-2004,Alm. Salg,1.827,7,Stuehus,197,1915,,
+Savskovhusvej 48752 Østbirk,birk,695.000,25-11-2004,Alm. Salg,9.928,3,Villa,70,1876,,Aktuel værdi
+Ydinggade 138752 Østbirk,birk,340.000,23-11-2004,Alm. Salg,-,4,Villa,156,1900,,Aktuel værdi
+Højageren 108752 Østbirk,birk,311.600,16-11-2004,Alm. Salg,2.179,4,Villa,143,2006,,Aktuel værdi
+Baysvænge 128752 Østbirk,birk,495.000,08-11-2004,Alm. Salg,2.115,4,Villa,234,2007,,Aktuel værdi
+Stenager 308752 Østbirk,birk,1.655.000,05-11-2004,Alm. Salg,10.746,5,Villa,154,1997,,Aktuel værdi
+Møllehøjvej 48752 Østbirk,birk,7.697.875,04-11-2004,Andet,38.489,7,Stuehus,200,1912,,
+Purupvej 78752 Østbirk,birk,3.275.000,02-11-2004,Fam. Salg,14.301,8,Stuehus,229,1900,,
+Holbergsvej 22B8752 Østbirk,birk,650.000,22-09-2004,Alm. Salg,7.647,3,Rækkehus,85,1980,,Aktuel værdi
+Fyel Skovvej 158752 Østbirk,birk,800.000,13-09-2004,Alm. Salg,4.733,3,Villa,169,2006,,Aktuel værdi
+Højageren 148752 Østbirk,birk,360.500,29-08-2004,Alm. Salg,2.083,5,Villa,173,2005,,Aktuel værdi
+Brokbjergvej 28752 Østbirk,birk,1.810.000,20-08-2004,Alm. Salg,9.378,8,Villa,193,1902,,Aktuel værdi
+Højageren 48752 Østbirk,birk,299.000,20-08-2004,Alm. Salg,2.335,4,Villa,128,2005,,Aktuel værdi
+Sattrupvej 378752 Østbirk,birk,620.000,22-07-2004,Alm. Salg,7.560,5,Villa,82,1827,,Aktuel værdi
+Peder Skramsgade 28752 Østbirk,birk,1.010.000,14-07-2004,Alm. Salg,5.315,5,Villa,190,1973,,Aktuel værdi
+Monbjergvej 178752 Østbirk,birk,1.059.000,13-07-2004,Alm. Salg,7.060,4,Villa,150,1911,,Aktuel værdi
+Sattrupvej 368752 Østbirk,birk,550.000,09-07-2004,Alm. Salg,5.612,3,Villa,98,1941,,Aktuel værdi
+Højageren 68752 Østbirk,birk,2.150.000,27-06-2004,Alm. Salg,11.497,6,Villa,187,2002,,Aktuel værdi
+Søvejen 23C8752 Østbirk,birk,315.000,21-06-2004,Alm. Salg,2.100,4,Villa,150,2006,,Aktuel værdi
+Strungesvej 58752 Østbirk,birk,950.000,09-06-2004,Alm. Salg,6.291,6,Villa,151,1974,,Aktuel værdi
+Præstemarken 678752 Østbirk,birk,937.500,03-06-2004,Alm. Salg,9.375,3,Villa,100,1982,,Aktuel værdi
+Urupvej 98752 Østbirk,birk,435.000,01-06-2004,Alm. Salg,-,6,Villa,130,1912,,Aktuel værdi
+Gantrupvej 188752 Østbirk,birk,450.000,29-05-2004,Alm. Salg,2.662,5,Villa,169,2005,,Aktuel værdi
+Bøgevej 48752 Østbirk,birk,1.260.000,28-05-2004,Alm. Salg,7.500,5,Villa,168,1970,,Aktuel værdi
+Gantrupvej 238752 Østbirk,birk,603.545,26-05-2004,Andet,5.640,5,Villa,107,1937,,Aktuel værdi
+Fyel Skovvej 108752 Østbirk,birk,1.700.000,19-05-2004,Andet,14.529,2,Stuehus,117,1900,,
+Skovlyvej 38752 Østbirk,birk,2.310.000,17-05-2004,Alm. Salg,12.554,5,Stuehus,184,2005,,
+Højageren 538752 Østbirk,birk,238.700,04-05-2004,Alm. Salg,1.742,5,Villa,137,2005,,Aktuel værdi
+Gantrupvej 148752 Østbirk,birk,240.000,27-04-2004,Alm. Salg,3.200,3,Villa,75,1897,,Aktuel værdi
+Baysvænge 108752 Østbirk,birk,375.000,04-04-2004,Alm. Salg,2.533,5,Villa,148,2006,,Aktuel værdi
+Skovhøjvej 188752 Østbirk,birk,1.695.000,01-04-2004,Alm. Salg,10.089,5,Stuehus,168,1926,,
+Skovhøjvej 68752 Østbirk,birk,325.000,24-03-2004,Alm. Salg,4.062,3,Villa,80,1897,,Aktuel værdi
+Søvejen 23A8752 Østbirk,birk,260.000,24-03-2004,Alm. Salg,1.710,6,Villa,152,2004,,Aktuel værdi
+Ydinggade 88752 Østbirk,birk,898.000,09-03-2004,Alm. Salg,5.044,5,Villa,178,1900,,Aktuel værdi
+Møllersmindevej 88752 Østbirk,birk,1.245.000,05-03-2004,Alm. Salg,7.155,5,Villa,174,1847,,Aktuel værdi
+Potmosevej 268752 Østbirk,birk,255.000,11-02-2004,Alm. Salg,3.493,3,Villa,73,1927,,Aktuel værdi
+Kongevej 148752 Østbirk,birk,495.000,04-02-2004,Alm. Salg,3.113,5,Villa,159,1976,,Aktuel værdi
+Monbjergvej 78752 Østbirk,birk,293.000,30-01-2004,Alm. Salg,2.504,4,Stuehus,117,1973,,
+Søvejen 198752 Østbirk,birk,825.000,21-01-2004,Alm. Salg,9.269,4,Villa,89,1947,,Aktuel værdi
+Grønvald Nielsensvej 98752 Østbirk,birk,875.000,12-01-2004,Alm. Salg,6.118,5,Villa,143,1989,,Aktuel værdi
+Granhøjen 158752 Østbirk,birk,400.000,08-01-2004,Alm. Salg,3.225,4,Villa,124,2004,,Aktuel værdi
+Ydingvej 68752 Østbirk,birk,510.000,28-12-2003,Fam. Salg,3.311,7,Villa,154,1908,,Aktuel værdi
+Storegade 618752 Østbirk,birk,425.100,24-12-2003,Fam. Salg,4.943,3,Villa,86,1940,,Aktuel værdi
+Storegade 638752 Østbirk,birk,578.100,24-12-2003,Fam. Salg,3.854,5,Villa,150,1941,,Aktuel værdi
+Monbjergvej 38752 Østbirk,birk,154.161,19-12-2003,Fam. Salg,880,5,Villa,175,1987,,Aktuel værdi
+Blichersvej 68752 Østbirk,birk,795.000,10-12-2003,Alm. Salg,7.950,3,Villa,100,1972,,Aktuel værdi
+Ydingvej 568752 Østbirk,birk,650.000,04-12-2003,Alm. Salg,7.386,3,Villa,88,1961,,Aktuel værdi
+Sattrupvej 408752 Østbirk,birk,1.894.250,02-12-2003,Fam. Salg,-,7,Stuehus,185,1872,,
+Skolegade 58752 Østbirk,birk,560.000,01-12-2003,Alm. Salg,3.589,4,Villa,156,1933,,Aktuel værdi
+Granhøjen 168752 Østbirk,birk,200.000,01-12-2003,Alm. Salg,1.438,5,Villa,139,2004,,Aktuel værdi
+Ydingløkke 18752 Østbirk,birk,1.390.917,23-11-2003,Fam. Salg,4.699,8,Stuehus,296,1934,,
+Vestbirkvej 248752 Østbirk,birk,2.240.000,20-11-2003,Alm. Salg,18.666,4,Stuehus,120,1877,,
+Bøgevej 98752 Østbirk,birk,600.000,19-11-2003,Alm. Salg,6.382,4,Villa,94,1972,,Aktuel værdi
+Grundtvigsvej 158752 Østbirk,birk,1.325.000,03-11-2003,Alm. Salg,7.794,6,Villa,170,1999,,Aktuel værdi
+Smedegade 28752 Østbirk,birk,675.000,20-10-2003,Alm. Salg,7.336,5,Villa,92,1960,,Aktuel værdi
+Gantrupvej 48752 Østbirk,birk,2.350.000,18-10-2003,Alm. Salg,9.873,5,Villa,238,1850,,Aktuel værdi
+Storegade 468752 Østbirk,birk,598.000,17-10-2003,Alm. Salg,5.537,4,Rækkehus,108,1936,,Aktuel værdi
+Holbergsvej 23A8752 Østbirk,birk,850.000,13-10-2003,Alm. Salg,-,4,Rækkehus,101,1981,,Aktuel værdi
+Skovlyvej 78752 Østbirk,birk,1.350.000,11-10-2003,Alm. Salg,-,8,Villa,233,1877,,Aktuel værdi
+Grønvald Nielsensvej 78752 Østbirk,birk,550.000,10-10-2003,Alm. Salg,4.263,4,Villa,129,1962,,Aktuel værdi
+Ydingvej 218752 Østbirk,birk,200.000,01-10-2003,Alm. Salg,775,7,Stuehus,258,1977,,
+Kvægenbjergvej 18752 Østbirk,birk,650.000,22-09-2003,Alm. Salg,2.663,8,Villa,244,1900,,Aktuel værdi
+Præstemarken 508752 Østbirk,birk,1.125.000,17-09-2003,Alm. Salg,7.031,5,Villa,160,1978,,Aktuel værdi
+Kongevej 88752 Østbirk,birk,860.000,16-09-2003,Alm. Salg,5.657,5,Villa,152,1967,,Aktuel værdi
+Ewaldsvej 58752 Østbirk,birk,1.065.000,15-09-2003,Alm. Salg,5.851,7,Villa,182,1979,,Aktuel værdi
+Storegade 568752 Østbirk,birk,520.000,09-09-2003,Alm. Salg,4.160,4,Villa,125,1909,,Aktuel værdi
+Præstemarken 278752 Østbirk,birk,965.000,01-09-2003,Alm. Salg,7.423,4,Villa,130,1977,,Aktuel værdi
+Præstemarken 498752 Østbirk,birk,1.395.000,28-08-2003,Alm. Salg,6.428,5,Villa,217,1980,,Aktuel værdi
+Skovageren 28752 Østbirk,birk,450.000,26-08-2003,Alm. Salg,2.922,5,Villa,154,2007,,Aktuel værdi
+Potmosevej 88752 Østbirk,birk,600.000,25-08-2003,Alm. Salg,5.555,3,Villa,108,1906,,Aktuel værdi
+Karolinelundsvej 98752 Østbirk,birk,667.199,11-08-2003,Fam. Salg,5.132,5,Villa,130,1932,,Aktuel værdi
+Vestbirkvej 518752 Østbirk,birk,970.000,31-07-2003,Alm. Salg,4.349,8,Villa,223,1877,,Aktuel værdi
+Sattrupvej 248752 Østbirk,birk,605.000,20-07-2003,Alm. Salg,-,6,Villa,127,1915,,Aktuel værdi
+Højageren 38752 Østbirk,birk,1.870.000,10-07-2003,Alm. Salg,9.639,5,Villa,194,1998,,Aktuel værdi
+Kollerupvej 68752 Østbirk,birk,1.210.000,04-07-2003,Alm. Salg,7.960,5,Villa,152,1913,,Aktuel værdi
+Ydinggade 188752 Østbirk,birk,237.500,26-06-2003,Alm. Salg,2.500,4,Villa,95,1881,,Aktuel værdi
+Præstemarken 618752 Østbirk,birk,1.350.000,24-06-2003,Alm. Salg,9.642,4,Villa,140,1977,,Aktuel værdi
+Urupvej 138752 Østbirk,birk,1.575.000,24-06-2003,Alm. Salg,7.094,7,Villa,222,1924,,Aktuel værdi
+Ydingvej 48752 Østbirk,birk,690.000,18-06-2003,Alm. Salg,7.040,4,Villa,98,1910,,Aktuel værdi
+Stenbjergvej 9C8752 Østbirk,birk,1.300.000,09-06-2003,Alm. Salg,8.609,4,Stuehus,151,1919,,
+Birkevej 108752 Østbirk,birk,775.000,11-04-2003,Alm. Salg,6.150,4,Villa,126,1968,,Aktuel værdi
+Kongevej 48752 Østbirk,birk,820.000,10-04-2003,Alm. Salg,5.093,4,Villa,161,1969,,Aktuel værdi
+Granhøjen 208752 Østbirk,birk,425.000,08-04-2003,Alm. Salg,2.428,5,Villa,175,2004,,Aktuel værdi
+Potmosevej 228752 Østbirk,birk,2.600.000,10-02-2003,Alm. Salg,8.306,5,Villa,313,1870,,Aktuel værdi
+Urupvej 48752 Østbirk,birk,1.765.000,29-01-2003,Alm. Salg,9.697,7,Stuehus,182,1910,,
+Præstemarken 17B8752 Østbirk,birk,557.351,27-01-2003,Alm. Salg,6.557,3,Rækkehus,85,1979,,Aktuel værdi
+Sattrupvej 388752 Østbirk,birk,455.000,07-01-2003,Alm. Salg,3.181,5,Villa,143,1955,,Aktuel værdi
+Birknæsvej 198752 Østbirk,birk,1.050.000,20-12-2002,Alm. Salg,-,4,Stuehus,239,1911,,
+Holbergsvej 248752 Østbirk,birk,890.000,18-12-2002,Alm. Salg,6.357,5,Villa,140,1975,,Aktuel værdi
+Blichersvej 238752 Østbirk,birk,815.000,11-11-2002,Alm. Salg,6.791,3,Villa,120,1971,,Aktuel værdi
+Ryvej 8B8752 Østbirk,birk,1.085.000,08-11-2002,Alm. Salg,5.833,4,Villa,186,1975,,Aktuel værdi
+Potmosevej 208752 Østbirk,birk,1.250.000,06-11-2002,Alm. Salg,8.680,6,Stuehus,144,1875,,
+Storegade 428752 Østbirk,birk,1.070.000,01-11-2002,Alm. Salg,6.772,8,Villa,158,1928,,Aktuel værdi
+Præstemarken 628752 Østbirk,birk,765.000,10-10-2002,Fam. Salg,6.538,4,Villa,117,1979,,Aktuel værdi
+Smedevej 208752 Østbirk,birk,670.000,09-09-2002,Andet,5.193,4,Villa,129,1987,,Aktuel værdi
+Birkevej 48752 Østbirk,birk,770.000,18-08-2002,Alm. Salg,7.403,4,Villa,104,1965,,Aktuel værdi
+Naldalvej 78752 Østbirk,birk,5.800.000,26-07-2002,Fam. Salg,42.335,6,Stuehus,137,1909,,
+Møllehøjvej 68752 Østbirk,birk,2.400.000,23-07-2002,Alm. Salg,7.619,5,Villa,315,2006,,Aktuel værdi
+Vestbirkvej 14A8752 Østbirk,birk,750.000,12-07-2002,Alm. Salg,5.000,5,Villa,150,1965,,Aktuel værdi
+Ryvej 618752 Østbirk,birk,470.000,03-07-2002,Alm. Salg,4.433,3,Villa,106,1900,,Aktuel værdi
+Østbirkvej 18752 Østbirk,birk,799.547,24-06-2002,Alm. Salg,8.983,3,Stuehus,89,1875,,
+Storegade 208752 Østbirk,birk,900.000,13-06-2002,Alm. Salg,4.326,10,Villa,208,1900,,Aktuel værdi
+Højageren 318752 Østbirk,birk,1.401.000,16-05-2002,Alm. Salg,9.936,5,Villa,141,2000,,Aktuel værdi
+Potmosevej 128752 Østbirk,birk,1.100.000,06-05-2002,Alm. Salg,-,8,Stuehus,273,1923,,
+Smedegade 88752 Østbirk,birk,600.000,01-05-2002,Alm. Salg,6.666,4,Villa,90,1982,,Aktuel værdi
+Gantrupvej 128752 Østbirk,birk,605.000,26-04-2002,Alm. Salg,4.290,6,Villa,141,1954,,Aktuel værdi
+Ydingvej 348752 Østbirk,birk,900.000,05-04-2002,Alm. Salg,4.812,4,Villa,187,1979,,Aktuel værdi
+Irisvej 18752 Østbirk,birk,850.000,22-03-2002,Alm. Salg,6.439,6,Villa,132,1964,,Aktuel værdi
+Ryvej 158752 Østbirk,birk,450.000,19-03-2002,Alm. Salg,-,7,Villa,153,1905,,Aktuel værdi
+Smedevej 138752 Østbirk,birk,420.000,18-02-2002,Fam. Salg,3.684,4,Villa,114,1965,,Aktuel værdi
+Svalevej 68752 Østbirk,birk,940.000,08-02-2002,Alm. Salg,6.666,5,Villa,141,1965,,Aktuel værdi
+Holbergsvej 78752 Østbirk,birk,875.000,06-02-2002,Alm. Salg,6.628,4,Villa,132,1973,,Aktuel værdi
+Gantrupvej 14A8752 Østbirk,birk,300.000,29-11-2001,Alm. Salg,1.923,4,Villa,156,2002,,Aktuel værdi
+Ewaldsvej 88752 Østbirk,birk,850.000,07-11-2001,Alm. Salg,8.095,4,Villa,105,1975,,Aktuel værdi
+Åkjærsvej 36B8752 Østbirk,birk,660.000,29-10-2001,Alm. Salg,6.875,3,Rækkehus,96,1980,,Aktuel værdi
+Bøgevej 118752 Østbirk,birk,1.050.000,29-10-2001,Alm. Salg,6.953,4,Villa,151,1971,,Aktuel værdi
+Præstemarken 238752 Østbirk,birk,400.000,29-10-2001,Alm. Salg,3.571,4,Villa,112,1977,,Aktuel værdi
+Ydingvej 608752 Østbirk,birk,104.000,22-10-2001,Alm. Salg,568,5,Villa,183,2002,,Aktuel værdi
+Grundtvigsvej 21A8752 Østbirk,birk,600.000,06-10-2001,Fam. Salg,7.142,3,Rækkehus,84,1983,,Aktuel værdi
+Skjoldborgsvej 138752 Østbirk,birk,509.048,09-09-2001,Alm. Salg,3.221,6,Villa,158,1978,,Aktuel værdi
+Ydingvej 528752 Østbirk,birk,895.000,30-08-2001,Alm. Salg,8.605,4,Rækkehus,104,2002,,Aktuel værdi
+Præstemarken 578752 Østbirk,birk,1.045.000,27-08-2001,Alm. Salg,6.741,5,Villa,155,1979,,Aktuel værdi
+Præstemarken 58752 Østbirk,birk,685.000,13-08-2001,Alm. Salg,8.456,3,Rækkehus,81,1977,,Aktuel værdi
+Smedevej 68752 Østbirk,birk,550.000,05-08-2001,Alm. Salg,4.330,5,Villa,127,1944,,Aktuel værdi
+Skjoldborgsvej 228752 Østbirk,birk,1.165.000,10-07-2001,Alm. Salg,-,7,Villa,270,1976,,Aktuel værdi
+Urupvej 118752 Østbirk,birk,112.000,02-07-2001,Alm. Salg,495,5,Stuehus,226,1925,,
+Stenbjergvej 9A8752 Østbirk,birk,500.000,30-06-2001,Alm. Salg,2.941,7,Villa,170,1918,,Aktuel værdi
+Kollerupvej 78752 Østbirk,birk,2.100.000,29-06-2001,Alm. Salg,8.171,5,Stuehus,257,1920,,
+Birkevej 178752 Østbirk,birk,739.000,28-06-2001,Alm. Salg,7.697,4,Villa,96,1967,,Aktuel værdi
+Ryvej 578752 Østbirk,birk,300.000,27-06-2001,Alm. Salg,3.157,2,Villa,95,1929,,Aktuel værdi
+Præstemarken 18B8752 Østbirk,birk,890.000,26-06-2001,Alm. Salg,7.876,4,Villa,113,1985,,Aktuel værdi
+Birkholmvej 208752 Østbirk,birk,340.000,18-05-2001,Alm. Salg,2.764,4,Villa,123,2002,,Aktuel værdi
+Præstemarken 70B8752 Østbirk,birk,600.000,10-05-2001,Alm. Salg,7.058,3,Rækkehus,85,1980,,Aktuel værdi
+Potmosevej 118752 Østbirk,birk,1.055.019,30-04-2001,Alm. Salg,3.637,9,Stuehus,290,1873,,
+Strungesvej 5A8752 Østbirk,birk,200.000,28-04-2001,Alm. Salg,1.069,6,Villa,187,2002,,Aktuel værdi
+Gantrupvej 18752 Østbirk,birk,45.000,22-04-2001,Alm. Salg,-,8,Villa,334,1907,,Aktuel værdi
+Møldrupvej 68752 Østbirk,birk,400.000,20-04-2001,Fam. Salg,2.380,5,Villa,168,1930,,Aktuel værdi
+Skjoldborgsvej 148752 Østbirk,birk,1.225.000,02-04-2001,Alm. Salg,7.122,5,Villa,172,1974,,Aktuel værdi
+Præstemarken 40B8752 Østbirk,birk,825.000,31-01-2001,Alm. Salg,7.783,4,Rækkehus,106,1979,,Aktuel værdi
+Bøgevej 58752 Østbirk,birk,560.000,29-01-2001,Alm. Salg,-,4,Villa,155,1969,,Aktuel værdi
+Ryvej 648752 Østbirk,birk,2.250.000,21-12-2000,Fam. Salg,18.000,6,Stuehus,125,1947,,
+Søvejen 438752 Østbirk,birk,784.000,27-11-2000,Alm. Salg,5.984,5,Villa,131,1900,,Aktuel værdi
+Ryvej 368752 Østbirk,birk,1.210.000,21-11-2000,Alm. Salg,5.148,6,Villa,235,1918,,Aktuel værdi
+Ryvej 88752 Østbirk,birk,640.000,20-10-2000,Alm. Salg,5.470,4,Villa,117,1959,,Aktuel værdi
+Smedevej 38752 Østbirk,birk,568.898,05-10-2000,Fam. Salg,6.772,3,Villa,84,1877,,Aktuel værdi
+Kvægenbjergvej 138752 Østbirk,birk,865.198,05-10-2000,Fam. Salg,5.089,5,Villa,170,1827,,Aktuel værdi
+Højageren 418752 Østbirk,birk,288.600,27-09-2000,Alm. Salg,1.781,5,Villa,162,2002,,Aktuel værdi
+Åkjærsvej 428752 Østbirk,birk,108.500,21-09-2000,Alm. Salg,592,5,Villa,183,2003,,Aktuel værdi
+Karolinelundsvej 58752 Østbirk,birk,475.000,20-09-2000,Alm. Salg,2.581,6,Villa,184,1937,,Aktuel værdi
+Holbergsvej 268752 Østbirk,birk,1.097.000,19-09-2000,Alm. Salg,9.707,4,Villa,113,2000,,Aktuel værdi
+Stenbjergvej 68752 Østbirk,birk,625.000,29-08-2000,Alm. Salg,5.296,3,Villa,118,1877,,Aktuel værdi
+Ewaldsvej 78752 Østbirk,birk,915.000,25-08-2000,Alm. Salg,7.261,5,Villa,126,1980,,Aktuel værdi
+Søvejen 528752 Østbirk,birk,611.000,20-08-2000,Alm. Salg,7.188,4,Villa,85,1966,,Aktuel værdi
+Kvægenbjergvej 28752 Østbirk,birk,760.000,09-08-2000,Alm. Salg,4.367,5,Villa,174,1949,,Aktuel værdi
+Ryvej 108752 Østbirk,birk,499.000,07-08-2000,Alm. Salg,6.237,4,Villa,80,1952,,Aktuel værdi
+Storegade 118752 Østbirk,birk,450.000,31-07-2000,Alm. Salg,4.687,6,Villa,96,1907,,Aktuel værdi
+Holbergsvej 38752 Østbirk,birk,900.000,31-07-2000,Alm. Salg,4.285,6,Villa,210,1974,,Aktuel værdi
+Holbergsvej 118752 Østbirk,birk,819.000,13-07-2000,Alm. Salg,6.940,4,Villa,118,1973,,Aktuel værdi
+Gydekrog 168752 Østbirk,birk,20.000,28-06-2000,Alm. Salg,134,3,Villa,149,2004,,Aktuel værdi
+Højageren 298752 Østbirk,birk,179.825,06-06-2000,Alm. Salg,1.266,3,Villa,142,2001,,Aktuel værdi
+Kongevej 13A8752 Østbirk,birk,1.015.000,26-05-2000,Alm. Salg,5.024,7,Villa,202,1977,,Aktuel værdi
+Ydingvej 588752 Østbirk,birk,844.792,22-05-2000,Alm. Salg,8.282,4,Villa,102,1966,,Aktuel værdi
+Skjoldborgsvej 68752 Østbirk,birk,730.000,12-05-2000,Alm. Salg,5.934,4,Villa,123,1973,,Aktuel værdi
+Monbjergvej 98752 Østbirk,birk,1.030.350,04-05-2000,Alm. Salg,6.169,7,Villa,167,1910,,Aktuel værdi
+Birkevej 128752 Østbirk,birk,1.095.000,02-05-2000,Alm. Salg,5.530,8,Villa,198,1965,,Aktuel værdi
+Monbjergvej 58752 Østbirk,birk,795.000,25-04-2000,Alm. Salg,6.309,6,Villa,126,1912,,Aktuel værdi
+Ryvej 318752 Østbirk,birk,698.600,07-04-2000,Alm. Salg,4.720,3,Villa,148,1827,,Aktuel værdi
+Søndermarken 258752 Østbirk,birk,1.406.447,28-03-2000,Alm. Salg,6.511,7,Villa,216,1978,,Aktuel værdi
+Stenkærvej 28752 Østbirk,birk,3.548.876,21-03-2000,Fam. Salg,11.159,9,Stuehus,318,1870,,
+Lyngdalvej 48752 Østbirk,birk,1.270.000,14-03-2000,Alm. Salg,9.007,6,Villa,141,1925,,Aktuel værdi
+Ydinggade 288752 Østbirk,birk,599.000,09-03-2000,Alm. Salg,6.305,4,Villa,95,1902,,Aktuel værdi
+Gantrupvej 38752 Østbirk,birk,850.000,06-03-2000,Alm. Salg,-,5,Villa,223,2004,,Aktuel værdi
+Ydingvej 118752 Østbirk,birk,1.370.000,31-01-2000,Fam. Salg,-,7,Villa,196,1942,,Aktuel værdi
+Gydekrog 18752 Østbirk,birk,399.974,25-01-2000,Alm. Salg,5.194,2,Villa,77,1900,,Aktuel værdi
+Ydinggade 168752 Østbirk,birk,440.000,16-01-2000,Alm. Salg,-,3,Villa,142,1948,,Aktuel værdi
+Gantrupvej 98752 Østbirk,birk,236.500,28-12-1999,Alm. Salg,1.194,5,Villa,198,2002,,Aktuel værdi
+Gydekrog 58752 Østbirk,birk,737.860,24-11-1999,Alm. Salg,-,5,Villa,143,1902,,Aktuel værdi
+Stenbjergvej 228752 Østbirk,birk,440.057,01-11-1999,Andet,2.733,4,Villa,161,1980,,Aktuel værdi
+Vestbirkvej 328752 Østbirk,birk,188.328,15-10-1999,Alm. Salg,-,3,Villa,87,1877,,Aktuel værdi
+Højageren 478752 Østbirk,birk,189.900,05-10-1999,Alm. Salg,1.179,5,Villa,161,2001,,Aktuel værdi
+Sattrupvej 398752 Østbirk,birk,823.000,23-09-1999,Alm. Salg,6.141,8,Villa,134,1920,,Aktuel værdi
+Ydingvej 288752 Østbirk,birk,360.000,23-09-1999,Alm. Salg,2.857,4,Villa,126,1927,,Aktuel værdi
+Ewaldsvej 278752 Østbirk,birk,170.000,06-09-1999,Alm. Salg,1.240,5,Villa,137,2000,,Aktuel værdi
+Vestbirkvej 168752 Østbirk,birk,1.105.000,01-09-1999,Fam. Salg,3.863,9,Villa,286,1924,,Aktuel værdi
+Ryvej 688752 Østbirk,birk,720.000,21-08-1999,Alm. Salg,3.495,6,Stuehus,206,2001,,
+Birkevej 198752 Østbirk,birk,675.000,13-08-1999,Alm. Salg,7.258,4,Villa,93,1965,,Aktuel værdi
+Blichersvej 278752 Østbirk,birk,875.000,07-08-1999,Alm. Salg,5.872,4,Villa,149,1972,,Aktuel værdi
+Strungesvej 78752 Østbirk,birk,776.612,15-07-1999,Alm. Salg,7.467,5,Villa,104,1952,,Aktuel værdi
+Kongevej 188752 Østbirk,birk,323.000,05-07-1999,Fam. Salg,3.436,4,Villa,94,1949,,Aktuel værdi
+Lærkevej 48752 Østbirk,birk,670.000,29-06-1999,Alm. Salg,6.203,4,Villa,108,1964,,Aktuel værdi
+Skjoldborgsvej 178752 Østbirk,birk,890.000,25-06-1999,Alm. Salg,7.416,4,Villa,120,1973,,Aktuel værdi
+Ydingvej 788752 Østbirk,birk,1.000.000,16-06-1999,Alm. Salg,5.076,4,Villa,197,1935,,Aktuel værdi
+Ewaldsvej 13A8752 Østbirk,birk,500.000,13-06-1999,Alm. Salg,5.617,3,Rækkehus,89,1980,,Aktuel værdi
+Irisvej 38752 Østbirk,birk,779.000,09-06-1999,Alm. Salg,7.790,4,Villa,100,1965,,Aktuel værdi
+Stenkærvej 78752 Østbirk,birk,5.165.000,08-06-1999,Alm. Salg,8.935,14,Stuehus,578,1595,,
+Skovlyvej 18752 Østbirk,birk,1.047.000,27-05-1999,Alm. Salg,9.184,4,Stuehus,114,1968,,
+Storkestræde 18752 Østbirk,birk,907.500,25-05-1999,Alm. Salg,3.750,7,Villa,242,1897,,Aktuel værdi
+Højageren 398752 Østbirk,birk,249.452,24-05-1999,Alm. Salg,1.578,5,Villa,158,2000,,Aktuel værdi
+Sattrupvej 98752 Østbirk,birk,766.000,14-05-1999,Alm. Salg,-,6,Villa,172,1890,,Aktuel værdi
+Ewaldsvej 48752 Østbirk,birk,225.000,10-05-1999,Alm. Salg,1.355,5,Villa,166,2000,,Aktuel værdi
+Møllegårdsvej 18752 Østbirk,birk,1.512.000,13-04-1999,Alm. Salg,8.640,7,Stuehus,175,1877,,
+Østbirkvej 68752 Østbirk,birk,1.350.000,02-04-1999,Alm. Salg,4.838,6,Stuehus,279,2011,,
+Stenager 348752 Østbirk,birk,75.000,01-04-1999,Alm. Salg,446,4,Villa,168,1999,,Aktuel værdi
+Stenbjergvej 38752 Østbirk,birk,275.000,18-03-1999,Andet,3.525,3,Villa,78,1952,,Aktuel værdi
+Kollerupvej 118752 Østbirk,birk,900.000,17-03-1999,Fam. Salg,4.186,6,Stuehus,215,2011,,
+Ydingvej 628752 Østbirk,birk,195.400,12-03-1999,Alm. Salg,1.436,4,Villa,136,1939,,Aktuel værdi
+Ryvej 298752 Østbirk,birk,761.744,18-02-1999,Alm. Salg,6.243,5,Villa,122,1943,,Aktuel værdi
+Monbjergvej 218752 Østbirk,birk,1.448.000,04-12-1998,Alm. Salg,7.912,10,Villa,183,1893,,Aktuel værdi
+Skovhøjvej 38752 Østbirk,birk,1.498.415,04-12-1998,Alm. Salg,5.763,8,Villa,260,1903,,Aktuel værdi
+Sattrupvej 458752 Østbirk,birk,939.840,23-11-1998,Alm. Salg,7.832,5,Villa,120,1800,,Aktuel værdi
+Svalevej 48752 Østbirk,birk,715.000,18-11-1998,Alm. Salg,5.070,6,Villa,141,1964,,Aktuel værdi
+Højageren 238752 Østbirk,birk,398.286,19-10-1998,Alm. Salg,-,6,Villa,288,1999,,Aktuel værdi
+Præstemarken 108752 Østbirk,birk,1.285.000,07-10-1998,Alm. Salg,-,9,Villa,236,1995,,Aktuel værdi
+Højageren 198752 Østbirk,birk,187.101,21-08-1998,Alm. Salg,1.100,5,Villa,170,1998,,Aktuel værdi
+Urupvej 58752 Østbirk,birk,1.264.000,20-08-1998,Alm. Salg,6.076,8,Stuehus,208,1900,,
+Kongevej 158752 Østbirk,birk,1.289.000,13-08-1998,Alm. Salg,5.239,6,Villa,246,1860,,Aktuel værdi
+Sattrupvej 88752 Østbirk,birk,1.127.702,07-08-1998,Alm. Salg,6.712,4,Villa,168,1845,,Aktuel værdi
+Storegade 408752 Østbirk,birk,276.910,03-08-1998,Andet,1.193,8,Villa,232,1930,,Aktuel værdi
+Ryvej 588752 Østbirk,birk,250.000,27-05-1998,Alm. Salg,1.037,6,Stuehus,241,1877,,
+Savskovhusvej 18752 Østbirk,birk,608.000,05-05-1998,Alm. Salg,5.241,6,Rækkehus,116,1890,,Aktuel værdi
+Søvejen 218752 Østbirk,birk,575.000,03-05-1998,Alm. Salg,7.986,3,Villa,72,1960,,Aktuel værdi
+Højageren 158752 Østbirk,birk,197.730,02-04-1998,Alm. Salg,1.345,3,Villa,147,1999,,Aktuel værdi
+Kalsmosevej 78752 Østbirk,birk,1.350.000,30-03-1998,Alm. Salg,4.530,8,Villa,298,1915,,Aktuel værdi
+Potmosevej 248752 Østbirk,birk,3.150.000,26-03-1998,Alm. Salg,10.500,11,Stuehus,300,1852,,
+Kollerupvej 88752 Østbirk,birk,363.000,24-03-1998,Alm. Salg,2.951,5,Villa,123,1945,,Aktuel værdi
+Søndermarken 178752 Østbirk,birk,877.000,08-03-1998,Alm. Salg,3.796,7,Villa,231,2001,,Aktuel værdi
+Kongevej 308752 Østbirk,birk,610.000,02-02-1998,Alm. Salg,-,6,Villa,230,1998,,Aktuel værdi
+Holbergsvej 298752 Østbirk,birk,778.000,28-01-1998,Alm. Salg,6.224,4,Villa,125,1980,,Aktuel værdi
+Vestbirkvej 368752 Østbirk,birk,1.095.000,26-01-1998,Alm. Salg,4.277,8,Villa,256,1895,,Aktuel værdi
+Stenager 418752 Østbirk,birk,210.000,22-01-1998,Alm. Salg,1.257,6,Villa,167,1998,,Aktuel værdi
+Storegade 598752 Østbirk,birk,969.674,22-01-1998,Alm. Salg,9.696,3,Villa,100,1956,,Aktuel værdi
+Højageren 78752 Østbirk,birk,237.610,08-01-1998,Alm. Salg,1.284,5,Villa,185,1998,,Aktuel værdi
+Kvægenbjergvej 108752 Østbirk,birk,1.856.000,19-12-1997,Alm. Salg,8.880,5,Villa,209,1989,,Aktuel værdi
+Stenager 518752 Østbirk,birk,100.000,26-11-1997,Alm. Salg,-,6,Villa,163,1998,,Aktuel værdi
+Torpvej 158752 Østbirk,birk,1.398.104,25-11-1997,Alm. Salg,7.557,5,Villa,185,1933,,Aktuel værdi
+Skjoldborgsvej 218752 Østbirk,birk,1.071.497,30-10-1997,Alm. Salg,5.699,7,Villa,188,1973,,Aktuel værdi
+Blichersvej 318752 Østbirk,birk,921.000,23-10-1997,Alm. Salg,7.084,4,Villa,130,1972,,Aktuel værdi
+Præstemarken 38B8752 Østbirk,birk,525.000,20-08-1997,Alm. Salg,6.176,3,Rækkehus,85,1979,,Aktuel værdi
+Stenager 438752 Østbirk,birk,110.000,11-08-1997,Alm. Salg,723,5,Villa,152,1998,,Aktuel værdi
+Holbergsvej 388752 Østbirk,birk,900.000,07-08-1997,Alm. Salg,5.844,6,Villa,154,1974,,Aktuel værdi
+Højageren 98752 Østbirk,birk,280.837,15-07-1997,Alm. Salg,1.568,5,Villa,179,2000,,Aktuel værdi
+Lærkevej 28752 Østbirk,birk,529.000,22-06-1997,Auktion,5.877,3,Villa,90,1964,,Aktuel værdi
+Ryvej 568752 Østbirk,birk,594.090,28-04-1997,Alm. Salg,2.700,6,Villa,220,1877,,Aktuel værdi
+Holbergsvej 18752 Østbirk,birk,719.180,07-04-1997,Alm. Salg,5.448,4,Villa,132,1975,,Aktuel værdi
+Søvejen 298752 Østbirk,birk,700.000,18-02-1997,Fam. Salg,6.603,5,Stuehus,106,1948,,
+Industrivej 1A8752 Østbirk,birk,1.614.000,12-02-1997,Alm. Salg,8.406,5,Villa,192,1976,,Aktuel værdi
+Ydinggade 158752 Østbirk,birk,429.000,03-01-1997,Alm. Salg,3.250,4,Villa,132,1958,,Aktuel værdi
+Lundsvej 68752 Østbirk,birk,112.324,22-12-1996,Fam. Salg,-,4,Villa,178,1956,,Aktuel værdi
+Hovgårdsvej 48752 Østbirk,birk,332.750,08-12-1996,Alm. Salg,1.890,6,Stuehus,176,1900,,
+Søndermarken 238752 Østbirk,birk,1.075.000,23-10-1996,Alm. Salg,6.178,5,Villa,174,1978,,Aktuel værdi
+Stenbjergvej 118752 Østbirk,birk,395.000,19-09-1996,Alm. Salg,3.211,5,Villa,123,1942,,Aktuel værdi
+Holbergsvej 138752 Østbirk,birk,462.609,16-09-1996,Alm. Salg,-,6,Villa,211,1978,,Aktuel værdi
+Kongevej 288752 Østbirk,birk,1.100.000,10-09-1996,Alm. Salg,7.638,5,Stuehus,144,1897,,
+Sattrupvej 28752 Østbirk,birk,1.385.000,10-09-1996,Alm. Salg,11.260,5,Stuehus,123,1954,,
+Ewaldsvej 248752 Østbirk,birk,325.000,21-08-1996,Alm. Salg,2.500,5,Villa,130,1917,,Aktuel værdi
+Ydinggade 248752 Østbirk,birk,290.000,17-08-1996,Alm. Salg,2.101,6,Villa,138,1900,,Aktuel værdi
+Bøgevej 88752 Østbirk,birk,525.000,22-07-1996,Fam. Salg,4.605,4,Villa,114,1972,,Aktuel værdi
+Bøgevej 198752 Østbirk,birk,306.424,09-07-1996,Fam. Salg,-,4,Villa,168,1972,,Aktuel værdi
+Søvejen 38752 Østbirk,birk,650.000,04-07-1996,Alm. Salg,-,7,Lejlighed,170,1892,,Aktuel værdi
+Skjoldborgsvej 188752 Østbirk,birk,311.230,02-07-1996,Fam. Salg,1.886,5,Villa,165,1974,,Aktuel værdi
+Bøgevej 108752 Østbirk,birk,580.000,28-06-1996,Alm. Salg,5.087,4,Villa,114,1971,,Aktuel værdi
+Holbergsvej 408752 Østbirk,birk,620.000,08-06-1996,Alm. Salg,5.166,4,Villa,120,1976,,Aktuel værdi
+Kalsmosevej 18752 Østbirk,birk,450.000,30-05-1996,Alm. Salg,1.991,7,Villa,226,1750,,Aktuel værdi
+Ryvej 678752 Østbirk,birk,815.000,30-05-1996,Alm. Salg,6.791,4,Villa,120,1900,,Aktuel værdi
+Ydingvej 188752 Østbirk,birk,335.000,06-05-1996,Alm. Salg,-,5,Rækkehus,233,1918,,Aktuel værdi
+Ydinggade 518752 Østbirk,birk,585.000,05-05-1996,Alm. Salg,2.772,5,Villa,211,1972,,Aktuel værdi
+Skjoldborgsvej 278752 Østbirk,birk,226.820,28-03-1996,Alm. Salg,2.025,4,Villa,112,1974,,Aktuel værdi
+Strungesvej 68752 Østbirk,birk,135.000,25-02-1996,Alm. Salg,665,8,Villa,203,1897,,Aktuel værdi
+Skolegade 98752 Østbirk,birk,289.000,22-02-1996,Fam. Salg,2.064,5,Villa,140,1937,,Aktuel værdi
+Holbergsvej 178752 Østbirk,birk,596.200,05-01-1996,Alm. Salg,4.886,4,Villa,122,1975,,Aktuel værdi
+Skovbakkevej 18752 Østbirk,birk,1.275.000,04-01-1996,Fam. Salg,7.774,5,Stuehus,164,1880,,
+Stenkærvej 18752 Østbirk,birk,920.000,19-12-1995,Fam. Salg,4.423,8,Stuehus,208,1902,,
+Søndermarken 11A8752 Østbirk,birk,384.000,29-11-1995,Alm. Salg,4.517,3,Rækkehus,85,1981,,Aktuel værdi
+Blichersvej 218752 Østbirk,birk,592.000,10-11-1995,Alm. Salg,4.553,3,Villa,130,1971,,Aktuel værdi
+Søvejen 408752 Østbirk,birk,450.000,06-11-1995,Alm. Salg,-,4,Villa,168,1912,,Aktuel værdi
+Stenbjergvej 208752 Østbirk,birk,588.150,31-10-1995,Alm. Salg,4.201,4,Villa,140,1970,,Aktuel værdi
+Potmosevej 178752 Østbirk,birk,275.000,31-10-1995,Alm. Salg,1.708,5,Villa,161,1900,,Aktuel værdi
+Naldalvej 58752 Østbirk,birk,900.000,31-10-1995,Alm. Salg,5.521,5,Villa,163,1900,,Aktuel værdi
+Lyngdalvej 18752 Østbirk,birk,1.900.000,17-10-1995,Fam. Salg,9.693,7,Stuehus,196,1872,,
+Potmosevej 148752 Østbirk,birk,226.000,10-10-1995,Alm. Salg,2.215,3,Villa,102,1913,,Aktuel værdi
+Potmosevej 168752 Østbirk,birk,400.000,09-10-1995,Fam. Salg,1.183,16,Stuehus,338,1843,,
+Skovhøjvej 148752 Østbirk,birk,1.086.800,17-09-1995,Alm. Salg,-,6,Stuehus,170,1917,,
+Holbergsvej 338752 Østbirk,birk,470.000,15-09-1995,Alm. Salg,-,6,Villa,181,1974,,Aktuel værdi
+Præstemarken 168752 Østbirk,birk,150.000,12-09-1995,Alm. Salg,1.056,5,Villa,142,1995,,Aktuel værdi
+Søvejen 168752 Østbirk,birk,315.000,05-09-1995,Alm. Salg,2.863,4,Villa,110,1917,,Aktuel værdi
+Præstemarken 118752 Østbirk,birk,350.000,01-09-1995,Alm. Salg,4.375,3,Rækkehus,80,1978,,Aktuel værdi
+Kongevej 2A8752 Østbirk,birk,695.000,31-08-1995,Alm. Salg,4.860,5,Villa,143,1976,,Aktuel værdi
+Kongevej 38752 Østbirk,birk,1.578.000,31-08-1995,Alm. Salg,-,15,Stuehus,451,1906,,
+Kongevej 118752 Østbirk,birk,500.836,31-08-1995,Alm. Salg,4.355,3,Villa,115,1935,,Aktuel værdi
+Storegade 98752 Østbirk,birk,325.000,21-08-1995,Alm. Salg,3.869,4,Villa,84,1902,,Aktuel værdi
+Lyngdalvej 38752 Østbirk,birk,255.000,16-08-1995,Alm. Salg,1.554,5,Stuehus,164,1996,,
+Smedegade 38752 Østbirk,birk,385.000,23-07-1995,Alm. Salg,4.583,4,Villa,84,1880,,Aktuel værdi
+Ewaldsvej 22A8752 Østbirk,birk,370.000,21-07-1995,Alm. Salg,4.352,3,Rækkehus,85,1981,,Aktuel værdi
+Møllehøjvej 28752 Østbirk,birk,1.035.000,06-07-1995,Fam. Salg,5.505,6,Stuehus,188,1997,,
+Søndermarken 5B8752 Østbirk,birk,260.000,30-06-1995,Alm. Salg,2.888,4,Rækkehus,90,1981,,Aktuel værdi
+Vestbirkvej 418752 Østbirk,birk,400.000,25-06-1995,Fam. Salg,-,7,Villa,211,1913,,Aktuel værdi
+Stenbjergvej 28752 Østbirk,birk,670.000,04-06-1995,Alm. Salg,5.193,5,Villa,129,1916,,Aktuel værdi
+Sattrupvej 218752 Østbirk,birk,250.000,16-05-1995,Alm. Salg,-,7,Villa,137,1953,,Aktuel værdi
+Ydingvej 308752 Østbirk,birk,405.000,15-05-1995,Alm. Salg,2.956,4,Villa,137,1924,,Aktuel værdi
+Ewaldsvej 10A8752 Østbirk,birk,440.000,03-05-1995,Alm. Salg,4.074,4,Rækkehus,108,1988,,Aktuel værdi
+Ydingvej 708752 Østbirk,birk,332.000,28-04-1995,Alm. Salg,-,6,Villa,198,1880,,Aktuel værdi
+Grundtvigsvej 23A8752 Østbirk,birk,342.003,24-04-1995,Alm. Salg,4.071,3,Rækkehus,84,1984,,Aktuel værdi
+Storegade 648752 Østbirk,birk,525.000,12-04-1995,Alm. Salg,5.000,4,Villa,105,1958,,Aktuel værdi
+Industrivej 118752 Østbirk,birk,708.384,07-02-1995,Fam. Salg,4.919,5,Stuehus,144,1922,,
+Præstemarken 53A8752 Østbirk,birk,425.000,07-02-1995,Alm. Salg,5.120,3,Rækkehus,83,1979,,Aktuel værdi
+Ewaldsvej 218752 Østbirk,birk,530.000,29-01-1995,Fam. Salg,3.706,5,Villa,143,1974,,Aktuel værdi
+Stenager 388752 Østbirk,birk,768.000,13-01-1995,Alm. Salg,6.144,4,Villa,125,1992,,Aktuel værdi
+Søvejen 28C8752 Østbirk,birk,7.410,09-01-1995,Alm. Salg,46,4,Villa,161,1994,,Aktuel værdi
+Sattrupvej 288752 Østbirk,birk,330.000,23-12-1994,Alm. Salg,2.750,4,Villa,120,1932,,Aktuel værdi
+Præstemarken 268752 Østbirk,birk,150.000,28-11-1994,Alm. Salg,993,4,Villa,151,1996,,Aktuel værdi
+Ydingvej 388752 Østbirk,birk,320.000,24-11-1994,Alm. Salg,2.206,5,Villa,145,1920,,Aktuel værdi
+Monbjergvej 278752 Østbirk,birk,1.360.978,08-11-1994,Alm. Salg,9.584,5,Stuehus,142,1900,,
+Ydingvej 278752 Østbirk,birk,635.000,30-09-1994,Alm. Salg,-,10,Villa,295,1920,,Aktuel værdi
+Præstemarken 148752 Østbirk,birk,157.000,16-09-1994,Alm. Salg,395,6,Villa,397,1996,,Aktuel værdi
+Ydinggade 338752 Østbirk,birk,450.000,12-09-1994,Alm. Salg,2.830,5,Villa,159,1900,,Aktuel værdi
+Blichersvej 198752 Østbirk,birk,442.110,08-09-1994,Alm. Salg,-,6,Villa,186,1973,,Aktuel værdi
+Søndermarken 5C8752 Østbirk,birk,320.000,06-09-1994,Alm. Salg,3.764,3,Rækkehus,85,1981,,Aktuel værdi
+Sattrupvej 338752 Østbirk,birk,267.708,22-08-1994,Alm. Salg,-,3,Villa,128,1943,,Aktuel værdi
+Lundsvej 28752 Østbirk,birk,550.900,09-08-1994,Alm. Salg,3.359,6,Villa,164,1951,,Aktuel værdi
+Præstemarken 258752 Østbirk,birk,450.000,01-08-1994,Alm. Salg,4.411,4,Villa,102,1978,,Aktuel værdi
+Hovgårdsvej 38752 Østbirk,birk,660.000,20-06-1994,Alm. Salg,2.820,9,Villa,234,1885,,Aktuel værdi
+Vestbirkvej 148752 Østbirk,birk,2.020.000,06-06-1994,Alm. Salg,13.289,5,Villa,152,1969,,Aktuel værdi
+Storegade 298752 Østbirk,birk,120.000,30-05-1994,Fam. Salg,-,4,Villa,94,1889,,Aktuel værdi
+Grundtvigsvej 138752 Østbirk,birk,695.000,13-05-1994,Alm. Salg,3.309,6,Villa,210,1974,,Aktuel værdi
+Brokbjergvej 58752 Østbirk,birk,337.921,11-05-1994,Alm. Salg,1.826,5,Stuehus,185,1877,,
+Kongevej 58752 Østbirk,birk,14.820,08-05-1994,Alm. Salg,98,6,Stuehus,151,1900,,
+Ewaldsvej 68752 Østbirk,birk,265.000,05-05-1994,Fam. Salg,1.586,6,Villa,167,1975,,Aktuel værdi
+Præstemarken 658752 Østbirk,birk,125.000,22-04-1994,Alm. Salg,766,5,Villa,163,1996,,Aktuel værdi
+Kongevej 178752 Østbirk,birk,725.000,28-03-1994,Alm. Salg,5.492,4,Villa,132,1936,,Aktuel værdi
+Præstemarken 18752 Østbirk,birk,830.000,23-02-1994,Alm. Salg,4.191,8,Villa,198,1921,,Aktuel værdi
+Ydingvej 468752 Østbirk,birk,270.000,27-01-1994,Alm. Salg,4.576,3,Villa,59,1925,,Aktuel værdi
+Vestbirkvej 108752 Østbirk,birk,320.000,22-11-1993,Alm. Salg,4.155,3,Villa,77,1950,,Aktuel værdi
+Storegade 808752 Østbirk,birk,430.000,03-11-1993,Alm. Salg,5.657,4,Villa,76,1951,,Aktuel værdi
+Ewaldsvej 11B8752 Østbirk,birk,150.000,11-10-1993,Fam. Salg,1.724,3,Rækkehus,87,1979,,Aktuel værdi
+Purupvej 148752 Østbirk,birk,395.000,28-09-1993,Alm. Salg,-,2,Villa,233,1910,,Aktuel værdi
+Ryvej 728752 Østbirk,birk,530.000,09-09-1993,Alm. Salg,-,6,Stuehus,166,1890,,
+Holbergsvej 128752 Østbirk,birk,723.160,09-08-1993,Alm. Salg,-,5,Villa,156,1974,,Aktuel værdi
+Lundsvej 78752 Østbirk,birk,499.473,06-08-1993,Alm. Salg,-,6,Villa,143,1954,,Aktuel værdi
+Brokbjergvej 48752 Østbirk,birk,817.230,05-08-1993,Alm. Salg,5.714,6,Stuehus,143,1917,,
+Præstemarken 38A8752 Østbirk,birk,340.000,14-07-1993,Alm. Salg,4.000,3,Rækkehus,85,1979,,Aktuel værdi
+Skjoldborgsvej 88752 Østbirk,birk,331.000,01-07-1993,Alm. Salg,-,4,Villa,108,1973,,Aktuel værdi
+Ydinggade 418752 Østbirk,birk,175.000,24-06-1993,Alm. Salg,-,5,Villa,164,1802,,Aktuel værdi
+Birkevej 58752 Østbirk,birk,355.000,27-04-1993,Alm. Salg,3.287,3,Villa,108,1965,,Aktuel værdi
+Sattrupvej 78752 Østbirk,birk,769.385,26-04-1993,Alm. Salg,4.749,6,Stuehus,162,1877,,
+Sattrupvej 208752 Østbirk,birk,270.000,14-04-1993,Alm. Salg,-,4,Villa,143,1963,,Aktuel værdi
+Ryvej 8A8752 Østbirk,birk,1.260.000,27-03-1993,Fam. Salg,-,7,Villa,309,1972,,Aktuel værdi
+Storkestræde 48752 Østbirk,birk,680.000,05-03-1993,Alm. Salg,4.358,6,Stuehus,156,1880,,
+Præstemarken 438752 Østbirk,birk,450.000,01-03-1993,Alm. Salg,3.461,4,Villa,130,1976,,Aktuel værdi
+Ydingvej 448752 Østbirk,birk,306.250,26-02-1993,Alm. Salg,2.141,5,Villa,143,1928,,Aktuel værdi
+Møllehøjvej 88752 Østbirk,birk,196.111,26-01-1993,Alm. Salg,-,6,Villa,239,1875,,Aktuel værdi
+Skjoldborgsvej 248752 Østbirk,birk,420.000,12-01-1993,Alm. Salg,-,5,Villa,221,1973,,Aktuel værdi
+Ryvej 558752 Østbirk,birk,650.000,01-12-1992,Alm. Salg,5.000,4,Villa,130,1980,,Aktuel værdi
+Kalsmosevej 158752 Østbirk,birk,1.461.454,19-08-1992,Fam. Salg,7.899,7,Stuehus,185,1930,,
+Ryvej 528752 Østbirk,birk,800.000,03-08-1992,Alm. Salg,-,6,Stuehus,204,1938,,
+Brokbjergvej 38752 Østbirk,birk,325.000,22-05-1992,Alm. Salg,-,15,Villa,370,1853,,Aktuel værdi
+Potmosevej 38752 Østbirk,birk,250.000,14-05-1992,Alm. Salg,1.785,5,Villa,140,1930,,Aktuel værdi
+Søndermarken 68752 Østbirk,birk,625.000,13-04-1992,Alm. Salg,3.019,6,Villa,207,1972,,Aktuel værdi
+Møllegårdsvej 48752 Østbirk,birk,320.000,10-04-1992,Alm. Salg,1.176,15,Stuehus,272,1927,,
+Sattrupvej 298752 Østbirk,birk,205.000,24-02-1992,Alm. Salg,2.303,3,Villa,89,1872,,Aktuel værdi

@@ -1,0 +1,540 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Bredmaj 606320 Egernsund,sund,967.228,05-03-2017,Fam. Salg,11.653,5,Sommerhus,83,1975,,Aktuel værdi
+Damvej 46320 Egernsund,sund,390.000,01-03-2017,Alm. Salg,3.120,5,Villa,125,1955,,Aktuel værdi
+Lågmajvej 166320 Egernsund,sund,720.000,27-02-2017,Alm. Salg,5.496,5,Villa,131,1965,-4 %,Aktuel værdi
+Solbakken 6E6320 Egernsund,sund,775.000,23-02-2017,Alm. Salg,6.300,4,Rækkehus,123,1986,-1 %,Aktuel værdi
+Teglbakken 786320 Egernsund,sund,500.000,24-01-2017,Alm. Salg,7.575,4,Sommerhus,66,1978,-16 %,Aktuel værdi
+Teglbakken 936320 Egernsund,sund,600.000,18-01-2017,Alm. Salg,6.896,4,Sommerhus,87,1980,-7 %,Aktuel værdi
+Teglbakken 306320 Egernsund,sund,642.000,05-12-2016,Fam. Salg,7.925,3,Sommerhus,81,1978,,Aktuel værdi
+Engvej 156320 Egernsund,sund,595.000,17-11-2016,Alm. Salg,4.407,4,Villa,135,1961,0 %,Aktuel værdi
+Marinavej 256320 Egernsund,sund,1.450.000,28-10-2016,Fam. Salg,13.302,4,Sommerhus,109,2005,-23 %,Aktuel værdi
+Teglbakken 166320 Egernsund,sund,1.100.000,27-10-2016,Alm. Salg,14.473,4,Sommerhus,76,1974,-8 %,Aktuel værdi
+"Sundgade 38, 16320 Egernsund",sund,1.400.000,24-10-2016,Alm. Salg,9.589,5,Lejlighed,146,1977,-17 %,Aktuel værdi
+Marinavej 446320 Egernsund,sund,1.550.000,17-10-2016,Alm. Salg,13.135,3,Sommerhus,118,2007,-3 %,Aktuel værdi
+Bredmaj 246320 Egernsund,sund,995.000,17-10-2016,Alm. Salg,12.437,4,Sommerhus,80,1974,0 %,Aktuel værdi
+Bredmaj 76320 Egernsund,sund,845.000,30-09-2016,Alm. Salg,13.629,3,Sommerhus,62,1995,-6 %,Aktuel værdi
+Benediktesvej 886320 Egernsund,sund,975.000,28-09-2016,Alm. Salg,7.617,4,Villa,128,1973,-2 %,Aktuel værdi
+Sundgade 576320 Egernsund,sund,430.000,14-09-2016,Fam. Salg,3.981,6,Villa,108,1952,,Aktuel værdi
+Havnevej 276320 Egernsund,sund,2.095.000,10-08-2016,Alm. Salg,12.180,5,Villa,172,1992,0 %,Aktuel værdi
+Bredmaj 166320 Egernsund,sund,680.000,12-07-2016,Fam. Salg,10.625,4,Sommerhus,64,1980,,Aktuel værdi
+Bredmaj 386320 Egernsund,sund,755.000,06-07-2016,Alm. Salg,13.981,4,Sommerhus,54,1974,,Aktuel værdi
+Teglparken 786320 Egernsund,sund,398.500,04-07-2016,Andet,2.786,5,Villa,143,1979,,Aktuel værdi
+Strandvej 116320 Egernsund,sund,600.000,23-06-2016,Alm. Salg,7.500,3,Villa,80,1961,-14 %,Aktuel værdi
+Reefslagervænget 246320 Egernsund,sund,1.650.000,26-05-2016,Alm. Salg,8.461,5,Villa,195,2010,-8 %,Aktuel værdi
+Damvej 96320 Egernsund,sund,1.667.000,19-05-2016,Alm. Salg,8.820,5,Villa,189,1964,,Aktuel værdi
+Teglparken 666320 Egernsund,sund,1.495.000,19-05-2016,Alm. Salg,7.952,6,Villa,188,1979,,Aktuel værdi
+Bredmaj 626320 Egernsund,sund,2.195.000,18-05-2016,Alm. Salg,27.784,4,Sommerhus,79,1994,0 %,Aktuel værdi
+Benediktesvej 926320 Egernsund,sund,995.000,12-05-2016,Alm. Salg,6.909,5,Villa,144,1973,-5 %,Aktuel værdi
+Teglparken 906320 Egernsund,sund,1.900.000,20-04-2016,Alm. Salg,9.644,6,Villa,197,2004,-5 %,Aktuel værdi
+Fyrtårnsvej 66320 Egernsund,sund,625.000,15-02-2016,Alm. Salg,5.530,5,Villa,113,1963,0 %,Aktuel værdi
+Bredmaj 726320 Egernsund,sund,675.000,15-02-2016,Alm. Salg,7.670,3,Sommerhus,88,2017,-10 %,Aktuel værdi
+Teglbakken 266320 Egernsund,sund,1.525.000,25-01-2016,Alm. Salg,13.260,4,Sommerhus,115,1992,-4 %,Aktuel værdi
+Reefslagervænget 226320 Egernsund,sund,897.500,18-01-2016,Fam. Salg,5.279,6,Villa,170,2008,,Aktuel værdi
+Havnevej 1226320 Egernsund,sund,3.070.000,08-01-2016,Alm. Salg,13.464,4,Rækkehus,228,2008,,Aktuel værdi
+Teglbakken 676320 Egernsund,sund,550.000,22-12-2015,Fam. Salg,8.461,4,Sommerhus,65,1976,,Aktuel værdi
+Benediktesvej 226320 Egernsund,sund,880.000,18-11-2015,Alm. Salg,6.285,5,Villa,140,1970,-7 %,Aktuel værdi
+Solbakken 6D6320 Egernsund,sund,1.100.000,12-11-2015,Alm. Salg,8.943,4,Rækkehus,123,1986,,Aktuel værdi
+Sundgade 116320 Egernsund,sund,390.000,31-10-2015,Alm. Salg,3.333,4,Villa,117,1920,-13 %,Aktuel værdi
+Havnevej 1266320 Egernsund,sund,2.430.000,30-10-2015,Alm. Salg,13.425,4,Rækkehus,181,2009,,Aktuel værdi
+Fjordvej 196320 Egernsund,sund,2.000.000,27-10-2015,Alm. Salg,15.151,4,Villa,132,1890,-9 %,Aktuel værdi
+Bredmaj 256320 Egernsund,sund,1.200.000,01-10-2015,Fam. Salg,13.043,4,Sommerhus,92,2003,,Aktuel værdi
+Bredmaj 316320 Egernsund,sund,950.000,26-09-2015,Fam. Salg,13.768,3,Sommerhus,69,1993,,Aktuel værdi
+Benediktesvej 506320 Egernsund,sund,590.000,25-09-2015,Andet,3.959,5,Villa,149,1972,,Aktuel værdi
+Island 56320 Egernsund,sund,1.097.500,17-09-2015,Fam. Salg,7.173,8,Villa,153,2011,,Aktuel værdi
+Teglbakken 946320 Egernsund,sund,700.000,11-09-2015,Alm. Salg,10.000,4,Sommerhus,70,1978,-7 %,Aktuel værdi
+Havnevej 1246320 Egernsund,sund,2.150.000,09-09-2015,Alm. Salg,12.356,4,Rækkehus,174,2009,-6 %,Aktuel værdi
+Teglbakken 476320 Egernsund,sund,695.000,04-09-2015,Fam. Salg,9.266,4,Sommerhus,75,1980,,Aktuel værdi
+Mindevej 106320 Egernsund,sund,1.950.000,25-08-2015,Andet,8.863,7,Villa,220,1992,,Aktuel værdi
+Teglbakken 726320 Egernsund,sund,697.000,21-08-2015,Fam. Salg,8.500,4,Sommerhus,82,1976,,Aktuel værdi
+Sundgade 14B6320 Egernsund,sund,5.150.000,22-07-2015,Alm. Salg,24.178,8,Villa,213,1996,-6 %,Aktuel værdi
+Teglbakken 886320 Egernsund,sund,850.000,17-07-2015,Fam. Salg,9.883,5,Sommerhus,86,1993,,Aktuel værdi
+Benediktesvej 806320 Egernsund,sund,394.556,10-07-2015,Fam. Salg,2.513,4,Villa,157,1973,,Aktuel værdi
+Teglbakken 586320 Egernsund,sund,550.000,24-06-2015,Alm. Salg,9.821,3,Sommerhus,56,1978,-8 %,Aktuel værdi
+Bredmaj 66320 Egernsund,sund,850.000,18-06-2015,Alm. Salg,11.038,4,Sommerhus,77,1974,-5 %,Aktuel værdi
+Teglparken 306320 Egernsund,sund,885.000,03-06-2015,Alm. Salg,6.968,4,Villa,127,1980,-15 %,Aktuel værdi
+Teglbakken 866320 Egernsund,sund,770.000,26-05-2015,Alm. Salg,8.555,4,Sommerhus,90,1974,-8 %,Aktuel værdi
+Benediktesvej 426320 Egernsund,sund,845.000,17-05-2015,Alm. Salg,6.167,5,Villa,137,1971,,Aktuel værdi
+Benediktesvej 966320 Egernsund,sund,1.000.000,15-05-2015,Alm. Salg,6.849,5,Villa,146,1972,-9 %,Aktuel værdi
+Marinavej 436320 Egernsund,sund,950.000,13-05-2015,Alm. Salg,8.050,4,Sommerhus,118,2007,,Aktuel værdi
+Æblehaven 46320 Egernsund,sund,467.808,30-04-2015,Andet,4.678,4,Villa,100,1983,,Aktuel værdi
+Bredmaj 696320 Egernsund,sund,935.000,30-03-2015,Fam. Salg,11.130,4,Sommerhus,84,1994,,Aktuel værdi
+Havnevej 346320 Egernsund,sund,995.000,27-03-2015,Alm. Salg,4.975,6,Villa,200,2017,0 %,Aktuel værdi
+Bredmaj 816320 Egernsund,sund,1.050.000,19-03-2015,Alm. Salg,12.352,4,Sommerhus,85,1996,-4 %,Aktuel værdi
+Engvej 256320 Egernsund,sund,845.000,01-03-2015,Alm. Salg,8.125,3,Villa,104,1962,-3 %,Aktuel værdi
+Benediktesvej 1066320 Egernsund,sund,1.100.000,17-02-2015,Alm. Salg,6.790,7,Villa,162,1972,0 %,Aktuel værdi
+Æblehaven 246320 Egernsund,sund,700.000,10-02-2015,Alm. Salg,5.511,4,Villa,127,1983,-24 %,Aktuel værdi
+Marinavej 386320 Egernsund,sund,1.750.000,22-01-2015,Alm. Salg,14.830,4,Sommerhus,118,2007,-4 %,Aktuel værdi
+Teglparken 586320 Egernsund,sund,430.000,15-01-2015,Fam. Salg,3.161,4,Villa,136,1978,-57 %,Aktuel værdi
+Fjordvej 336320 Egernsund,sund,218.986,06-01-2015,Alm. Salg,3.084,3,Villa,71,1999,,Aktuel værdi
+Reefslagervænget 56320 Egernsund,sund,1.437.500,17-12-2014,Alm. Salg,7.116,3,Villa,202,1986,-7 %,Aktuel værdi
+Æblehaven 186320 Egernsund,sund,650.000,16-12-2014,Alm. Salg,5.416,4,Villa,120,1983,,Aktuel værdi
+Fyrtårnsvej 46320 Egernsund,sund,532.500,17-11-2014,Andet,3.886,4,Villa,137,1960,,Aktuel værdi
+Sundgade 66320 Egernsund,sund,2.453.000,04-11-2014,Alm. Salg,11.409,6,Villa,215,1906,23 %,Aktuel værdi
+Lågmajvej 396320 Egernsund,sund,1.350.000,27-10-2014,Alm. Salg,11.157,4,Villa,121,1893,,Aktuel værdi
+Havnevej 116320 Egernsund,sund,1.500.000,15-10-2014,Alm. Salg,13.888,4,Villa,108,1947,-15 %,Aktuel værdi
+Sundgade 166320 Egernsund,sund,700.000,25-09-2014,Auktion,4.729,4,Villa,148,1923,,Aktuel værdi
+Teglbakken 186320 Egernsund,sund,950.000,22-09-2014,Alm. Salg,12.837,3,Sommerhus,74,1974,-5 %,Aktuel værdi
+Nyvej 66320 Egernsund,sund,960.000,17-09-2014,Alm. Salg,6.808,5,Villa,141,1981,-20 %,Aktuel værdi
+Bredmaj 366320 Egernsund,sund,795.000,11-09-2014,Alm. Salg,11.197,4,Sommerhus,71,1979,,Aktuel værdi
+Bredmaj 496320 Egernsund,sund,840.000,11-09-2014,Alm. Salg,10.370,4,Sommerhus,81,1977,-4 %,Aktuel værdi
+Lågmajvej 316320 Egernsund,sund,900.000,01-09-2014,Alm. Salg,10.227,4,Rækkehus,88,1870,,Aktuel værdi
+Søvej 66320 Egernsund,sund,525.000,29-08-2014,Alm. Salg,4.906,5,Villa,107,1965,-5 %,Aktuel værdi
+Solbakken 6G6320 Egernsund,sund,1.920.000,22-08-2014,Alm. Salg,15.609,4,Rækkehus,123,1986,0 %,Aktuel værdi
+Fjordvej 106320 Egernsund,sund,2.395.000,14-07-2014,Alm. Salg,-,4,Villa,123,1951,,Aktuel værdi
+Bredmaj 876320 Egernsund,sund,920.000,07-07-2014,Alm. Salg,10.823,4,Sommerhus,85,1974,-12 %,Aktuel værdi
+Bredmaj 516320 Egernsund,sund,800.000,26-05-2014,Alm. Salg,10.256,4,Sommerhus,78,1987,-6 %,Aktuel værdi
+Benediktesvej 826320 Egernsund,sund,725.000,20-05-2014,Alm. Salg,6.590,5,Villa,110,1973,-9 %,Aktuel værdi
+Bredmaj 326320 Egernsund,sund,1.500.000,09-05-2014,Alm. Salg,16.483,4,Sommerhus,91,2009,-14 %,Aktuel værdi
+Bredmaj 296320 Egernsund,sund,945.000,09-05-2014,Alm. Salg,12.945,4,Sommerhus,73,1983,-5 %,Aktuel værdi
+Teglbakken 796320 Egernsund,sund,535.000,01-05-2014,Alm. Salg,7.985,4,Sommerhus,67,1975,-23 %,Aktuel værdi
+Teglparken 486320 Egernsund,sund,830.000,14-04-2014,Alm. Salg,5.646,5,Villa,147,1979,-7 %,Aktuel værdi
+Rendbjergvej 66320 Egernsund,sund,2.672.500,07-03-2014,Alm. Salg,12.546,6,Villa,213,1864,-1 %,Aktuel værdi
+Skovgade 146320 Egernsund,sund,535.000,24-02-2014,Alm. Salg,5.350,3,Villa,100,1951,0 %,Aktuel værdi
+Bredmaj 426320 Egernsund,sund,836.400,10-02-2014,Fam. Salg,10.455,4,Sommerhus,80,1983,,Aktuel værdi
+Kystvej 56320 Egernsund,sund,950.000,18-12-2013,Alm. Salg,6.597,5,Villa,144,1962,-5 %,Aktuel værdi
+Bredmaj 686320 Egernsund,sund,960.000,16-12-2013,Alm. Salg,13.714,4,Sommerhus,70,1976,-4 %,Aktuel værdi
+Kystvej 126320 Egernsund,sund,345.000,09-12-2013,Andet,3.450,4,Villa,100,1963,,Aktuel værdi
+Brillevej 3A6320 Egernsund,sund,1.725.000,08-11-2013,Alm. Salg,10.391,6,Villa,166,1983,-5 %,Aktuel værdi
+Bredmaj 46320 Egernsund,sund,595.000,07-09-2013,Alm. Salg,8.500,4,Sommerhus,70,1974,-25 %,Aktuel værdi
+Marinavej 306320 Egernsund,sund,1.860.000,27-08-2013,Alm. Salg,17.064,4,Sommerhus,109,2005,-11 %,Aktuel værdi
+Bredmaj 676320 Egernsund,sund,1.475.000,26-08-2013,Alm. Salg,23.046,4,Sommerhus,64,1986,,Aktuel værdi
+Kystvej 106320 Egernsund,sund,695.000,15-08-2013,Alm. Salg,5.696,5,Villa,122,1963,0 %,Aktuel værdi
+Benediktesvej 566320 Egernsund,sund,570.000,13-08-2013,Alm. Salg,3.630,8,Villa,157,1972,-4 %,Aktuel værdi
+Bredmaj 146320 Egernsund,sund,1.075.000,30-07-2013,Alm. Salg,14.333,4,Sommerhus,75,1998,-2 %,Aktuel værdi
+Teglbakken 556320 Egernsund,sund,1.275.000,17-07-2013,Alm. Salg,15.548,4,Sommerhus,82,1996,-2 %,Aktuel værdi
+Teglbakken 196320 Egernsund,sund,735.000,03-07-2013,Alm. Salg,10.970,3,Sommerhus,67,1974,-6 %,Aktuel værdi
+Teglbakken 226320 Egernsund,sund,495.000,20-06-2013,Alm. Salg,7.983,3,Sommerhus,62,1977,0 %,Aktuel værdi
+Teglbakken 856320 Egernsund,sund,655.000,20-06-2013,Alm. Salg,8.972,4,Sommerhus,73,1975,-6 %,Aktuel værdi
+"Møllegården 24, 16320 Egernsund",sund,1.475.000,24-05-2013,Alm. Salg,16.388,4,Lejlighed,90,1992,,Aktuel værdi
+Marinavej 326320 Egernsund,sund,1.810.000,24-05-2013,Alm. Salg,16.605,4,Sommerhus,109,2005,-4 %,Aktuel værdi
+Skovgade 306320 Egernsund,sund,498.500,17-04-2013,Andet,2.967,6,Villa,168,1900,,Aktuel værdi
+Møllegården 146320 Egernsund,sund,1.200.000,12-04-2013,Alm. Salg,11.111,4,Lejlighed,108,1979,,Aktuel værdi
+Gartnerparken 46320 Egernsund,sund,1.300.000,27-03-2013,Alm. Salg,5.963,8,Rækkehus,218,1980,,Aktuel værdi
+Bredmaj 346320 Egernsund,sund,731.000,26-03-2013,Fam. Salg,14.620,3,Sommerhus,50,1973,,Aktuel værdi
+Engvej 236320 Egernsund,sund,300.000,20-03-2013,Alm. Salg,2.884,4,Villa,104,1961,-14 %,Aktuel værdi
+Damvej 56320 Egernsund,sund,776.150,07-02-2013,Alm. Salg,4.975,3,Villa,156,1955,,Aktuel værdi
+Bredmaj 536320 Egernsund,sund,1.535.000,25-01-2013,Alm. Salg,16.868,4,Anden beboelse,91,1998,-4 %,Aktuel værdi
+Søvej 26320 Egernsund,sund,960.000,21-12-2012,Alm. Salg,4.897,6,Villa,196,1963,-4 %,Aktuel værdi
+Bredmaj 666320 Egernsund,sund,2.495.000,21-11-2012,Alm. Salg,18.345,5,Sommerhus,136,1979,0 %,Aktuel værdi
+Teglbakken 116320 Egernsund,sund,675.000,03-09-2012,Alm. Salg,11.842,4,Sommerhus,57,1976,-15 %,Aktuel værdi
+Teglbakken 336320 Egernsund,sund,975.000,22-08-2012,Alm. Salg,13.000,4,Sommerhus,75,1977,-2 %,Aktuel værdi
+Rødegade 56320 Egernsund,sund,400.000,14-08-2012,Alm. Salg,3.883,5,Villa,103,1877,,Aktuel værdi
+Bredmaj 886320 Egernsund,sund,690.000,24-05-2012,Alm. Salg,11.311,3,Sommerhus,61,1982,,Aktuel værdi
+Marinavej 276320 Egernsund,sund,2.475.000,15-05-2012,Alm. Salg,22.706,4,Sommerhus,109,2005,,Aktuel værdi
+Sundgade 626320 Egernsund,sund,1.500.000,08-05-2012,Alm. Salg,5.747,6,Rækkehus,261,2015,,Aktuel værdi
+Kystvej 36320 Egernsund,sund,425.000,02-04-2012,Alm. Salg,2.910,4,Villa,146,1963,-29 %,Aktuel værdi
+Sundgade 256320 Egernsund,sund,1.150.000,02-04-2012,Alm. Salg,8.778,3,Villa,131,1957,,Aktuel værdi
+Teglbakken 806320 Egernsund,sund,752.000,26-03-2012,Alm. Salg,11.223,4,Sommerhus,67,1976,-11 %,Aktuel værdi
+Solbakken 6F6320 Egernsund,sund,1.495.000,08-03-2012,Alm. Salg,12.154,4,Rækkehus,123,1986,0 %,Aktuel værdi
+Sundgade 966320 Egernsund,sund,650.000,13-02-2012,Alm. Salg,4.062,5,Villa,160,1900,-6 %,Aktuel værdi
+Mindevej 86320 Egernsund,sund,1.150.000,30-01-2012,Alm. Salg,9.913,4,Villa,116,1989,-11 %,Aktuel værdi
+Benediktesvej 166320 Egernsund,sund,1.275.000,04-10-2011,Alm. Salg,8.121,5,Villa,157,1972,-2 %,Aktuel værdi
+Skippergade 16320 Egernsund,sund,540.000,16-09-2011,Alm. Salg,3.857,5,Villa,140,1904,,Aktuel værdi
+Mindevej 16320 Egernsund,sund,1.150.000,26-08-2011,Alm. Salg,8.156,5,Villa,141,1964,-4 %,Aktuel værdi
+Teglparken 686320 Egernsund,sund,940.000,18-08-2011,Alm. Salg,4.653,6,Villa,202,1979,-4 %,Aktuel værdi
+Skovgade 106320 Egernsund,sund,1.005.000,14-08-2011,Alm. Salg,6.700,5,Villa,150,1953,,Aktuel værdi
+Skovgade 316320 Egernsund,sund,900.000,28-07-2011,Alm. Salg,6.818,5,Villa,132,1972,,Aktuel værdi
+Sundgade 306320 Egernsund,sund,1.232.500,25-07-2011,Fam. Salg,12.325,5,Villa,100,1907,,Aktuel værdi
+Bredmaj 736320 Egernsund,sund,1.000.000,12-07-2011,Alm. Salg,13.157,5,Sommerhus,76,1976,1 %,Aktuel værdi
+Bredmaj 926320 Egernsund,sund,250.000,04-07-2011,Alm. Salg,3.846,4,Sommerhus,65,1973,,Aktuel værdi
+Engvej 76320 Egernsund,sund,400.000,24-06-2011,Alm. Salg,4.444,4,Villa,90,1961,-11 %,Aktuel værdi
+Teglbakken 286320 Egernsund,sund,875.000,25-05-2011,Alm. Salg,10.802,4,Sommerhus,81,1979,,Aktuel værdi
+Skovgade 326320 Egernsund,sund,930.000,24-05-2011,Alm. Salg,4.769,9,Villa,195,1900,-1 %,Aktuel værdi
+Island 126320 Egernsund,sund,195.000,06-05-2011,Alm. Salg,1.250,4,Villa,156,2011,0 %,Aktuel værdi
+Skippergade 26320 Egernsund,sund,770.000,19-04-2011,Alm. Salg,4.812,4,Villa,160,1905,-3 %,Aktuel værdi
+Teglbakken 816320 Egernsund,sund,800.000,21-03-2011,Alm. Salg,15.094,4,Sommerhus,53,1976,-6 %,Aktuel værdi
+Solbakken 36320 Egernsund,sund,1.491.600,10-03-2011,Andet,5.919,7,Villa,252,1921,,Aktuel værdi
+Svinget 2B6320 Egernsund,sund,1.020.000,07-03-2011,Alm. Salg,7.285,5,Villa,140,1984,-7 %,Aktuel værdi
+Benediktesvej 1026320 Egernsund,sund,850.000,04-03-2011,Alm. Salg,5.743,6,Villa,148,1972,-8 %,Aktuel værdi
+Skovgade 466320 Egernsund,sund,611.153,10-02-2011,Alm. Salg,4.428,6,Villa,138,1878,,Aktuel værdi
+Møllegården 206320 Egernsund,sund,1.345.000,09-02-2011,Alm. Salg,12.688,4,Lejlighed,106,1979,0 %,Aktuel værdi
+Bredmaj 766320 Egernsund,sund,1.500.000,24-01-2011,Alm. Salg,17.441,4,Sommerhus,86,1975,-6 %,Aktuel værdi
+Lågmajvej 356320 Egernsund,sund,2.000.000,18-01-2011,Alm. Salg,7.547,6,Villa,265,2012,-20 %,Aktuel værdi
+Reefslagervænget 186320 Egernsund,sund,1.580.000,09-12-2010,Alm. Salg,9.132,6,Villa,173,2000,-7 %,Aktuel værdi
+Teglparken 126320 Egernsund,sund,1.160.000,25-11-2010,Alm. Salg,6.270,6,Villa,185,1979,-1 %,Aktuel værdi
+Island 106320 Egernsund,sund,195.000,23-11-2010,Alm. Salg,1.218,5,Villa,160,2011,0 %,Aktuel værdi
+Mosevej 66320 Egernsund,sund,390.000,11-11-2010,Fam. Salg,3.070,4,Villa,127,1967,,Aktuel værdi
+Bredmaj 616320 Egernsund,sund,1.350.000,20-10-2010,Alm. Salg,17.532,4,Sommerhus,77,1986,-2 %,Aktuel værdi
+Skovgade 346320 Egernsund,sund,300.000,12-10-2010,Alm. Salg,3.000,4,Villa,100,1860,,Aktuel værdi
+Brillevej 76320 Egernsund,sund,1.050.000,24-09-2010,Alm. Salg,6.730,2,Villa,156,1935,-8 %,Aktuel værdi
+Engvej 16320 Egernsund,sund,490.000,30-08-2010,Alm. Salg,5.903,2,Villa,83,1957,0 %,Aktuel værdi
+Svinget 5A6320 Egernsund,sund,1.600.000,03-08-2010,Alm. Salg,10.322,5,Villa,155,1983,-3 %,Aktuel værdi
+Engvej 276320 Egernsund,sund,725.000,15-07-2010,Alm. Salg,4.931,5,Villa,147,1961,,Aktuel værdi
+Skovgade 406320 Egernsund,sund,885.000,23-06-2010,Alm. Salg,-,6,Villa,194,1880,-1 %,Aktuel værdi
+Bredmaj 36320 Egernsund,sund,1.085.000,23-06-2010,Alm. Salg,15.955,4,Sommerhus,68,1995,-4 %,Aktuel værdi
+Teglbakken 466320 Egernsund,sund,830.000,11-06-2010,Alm. Salg,11.066,4,Sommerhus,75,1977,-17 %,Aktuel værdi
+Marinavej 366320 Egernsund,sund,1.850.000,11-06-2010,Alm. Salg,15.677,4,Sommerhus,118,2007,-7 %,Aktuel værdi
+Æblehaven 176320 Egernsund,sund,1.432.000,31-05-2010,Fam. Salg,7.955,7,Villa,180,1983,,Aktuel værdi
+Bredmaj 476320 Egernsund,sund,875.000,11-05-2010,Alm. Salg,15.625,4,Sommerhus,56,1976,,Aktuel værdi
+Engvej 186320 Egernsund,sund,635.000,07-01-2010,Alm. Salg,6.614,3,Villa,96,1960,-9 %,Aktuel værdi
+Benediktesvej 486320 Egernsund,sund,1.000.000,11-12-2009,Fam. Salg,6.250,6,Villa,160,1971,,Aktuel værdi
+Lågmajvej 146320 Egernsund,sund,194.917,18-11-2009,Alm. Salg,1.382,5,Villa,141,1964,,Aktuel værdi
+Teglbakken 256320 Egernsund,sund,825.000,27-10-2009,Alm. Salg,12.313,4,Sommerhus,67,1974,-6 %,Aktuel værdi
+Benediktesvej 266320 Egernsund,sund,935.000,15-10-2009,Alm. Salg,7.304,4,Villa,128,1971,-4 %,Aktuel værdi
+"Møllegården 6, 16320 Egernsund",sund,905.000,11-09-2009,Alm. Salg,10.773,3,Lejlighed,84,1992,-5 %,Aktuel værdi
+Marinavej 176320 Egernsund,sund,2.500.000,08-09-2009,Alm. Salg,22.935,4,Sommerhus,109,2005,-11 %,Aktuel værdi
+Teglbakken 276320 Egernsund,sund,975.000,01-09-2009,Alm. Salg,15.000,4,Sommerhus,65,1974,0 %,Aktuel værdi
+Island 66320 Egernsund,sund,200.000,27-08-2009,Alm. Salg,1.290,4,Villa,155,2010,-11 %,Aktuel værdi
+Lågmajvej 56320 Egernsund,sund,995.000,20-08-2009,Alm. Salg,7.158,6,Villa,139,1952,0 %,Aktuel værdi
+Engvej 66320 Egernsund,sund,610.000,18-08-2009,Alm. Salg,5.545,4,Villa,110,1958,-12 %,Aktuel værdi
+Bredmaj 236320 Egernsund,sund,870.000,08-08-2009,Alm. Salg,11.153,4,Sommerhus,78,1974,-7 %,Aktuel værdi
+Teglbakken 646320 Egernsund,sund,900.000,04-08-2009,Alm. Salg,13.432,4,Sommerhus,67,1989,-5 %,Aktuel værdi
+Bredmaj 126320 Egernsund,sund,910.000,03-08-2009,Alm. Salg,13.000,4,Sommerhus,70,1979,-9 %,Aktuel værdi
+Mosevej 46320 Egernsund,sund,825.000,30-07-2009,Alm. Salg,6.395,4,Villa,129,1965,-6 %,Aktuel værdi
+Teglbakken 506320 Egernsund,sund,531.250,22-07-2009,Fam. Salg,7.589,4,Sommerhus,70,1972,,Aktuel værdi
+Marinavej 346320 Egernsund,sund,1.975.000,05-07-2009,Alm. Salg,16.737,4,Sommerhus,118,2007,-6 %,Aktuel værdi
+"Møllegården 22, 16320 Egernsund",sund,1.300.000,02-07-2009,Alm. Salg,14.444,4,Lejlighed,90,1992,0 %,Aktuel værdi
+Sundgade 806320 Egernsund,sund,1.295.000,23-06-2009,Alm. Salg,6.744,6,Villa,192,1800,0 %,Aktuel værdi
+Bredmaj 776320 Egernsund,sund,684.037,09-06-2009,Alm. Salg,8.241,5,Sommerhus,83,1974,,Aktuel værdi
+Mindevej 56320 Egernsund,sund,1.290.000,06-06-2009,Alm. Salg,9.347,5,Villa,138,1967,-8 %,Aktuel værdi
+Fjordvej 96320 Egernsund,sund,1.278.000,05-06-2009,Alm. Salg,9.128,5,Villa,140,1962,,Aktuel værdi
+Firkløvervej 36320 Egernsund,sund,2.995.000,07-05-2009,Alm. Salg,16.920,5,Villa,177,1968,0 %,Aktuel værdi
+Sundgade 586320 Egernsund,sund,2.780.000,06-05-2009,Alm. Salg,19.440,5,Villa,143,2007,-3 %,Aktuel værdi
+Teglbakken 826320 Egernsund,sund,890.000,05-04-2009,Alm. Salg,14.354,3,Sommerhus,62,1977,-19 %,Aktuel værdi
+Marinavej 166320 Egernsund,sund,2.575.000,01-04-2009,Alm. Salg,23.623,4,Sommerhus,109,2005,-6 %,Aktuel værdi
+Skovgade 46320 Egernsund,sund,746.042,15-03-2009,Alm. Salg,6.376,6,Villa,117,1952,,Aktuel værdi
+Fyrtårnsvej 96320 Egernsund,sund,550.000,10-03-2009,Alm. Salg,4.400,4,Villa,125,1963,-8 %,Aktuel værdi
+Havnevej 216320 Egernsund,sund,1.600.000,03-03-2009,Alm. Salg,9.937,4,Villa,161,2010,-6 %,Aktuel værdi
+Marinavej 376320 Egernsund,sund,1.150.000,02-03-2009,Alm. Salg,9.745,4,Sommerhus,118,2007,,Aktuel værdi
+Fyrtårnsvej 116320 Egernsund,sund,500.000,13-01-2009,Alm. Salg,4.098,4,Villa,122,1961,-17 %,Aktuel værdi
+Sundgade 106320 Egernsund,sund,1.742.500,27-12-2008,Fam. Salg,8.297,7,Villa,210,1900,,Aktuel værdi
+Reefslagervænget 126320 Egernsund,sund,1.147.500,08-12-2008,Fam. Salg,10.527,4,Villa,109,1985,,Aktuel værdi
+Bredmaj 446320 Egernsund,sund,900.000,25-11-2008,Alm. Salg,11.688,4,Sommerhus,77,1974,-18 %,Aktuel værdi
+Marinavej 426320 Egernsund,sund,1.910.000,05-11-2008,Alm. Salg,16.186,4,Sommerhus,118,2007,-9 %,Aktuel værdi
+Skovgade 126320 Egernsund,sund,600.000,01-11-2008,Alm. Salg,4.109,5,Villa,146,1900,4 %,Aktuel værdi
+Teglparken 346320 Egernsund,sund,900.000,01-11-2008,Alm. Salg,7.317,4,Villa,123,1978,-22 %,Aktuel værdi
+Sundgade 706320 Egernsund,sund,3.265.000,29-10-2008,Alm. Salg,17.094,7,Villa,191,1890,11 %,Aktuel værdi
+Teglbakken 366320 Egernsund,sund,1.670.000,29-09-2008,Alm. Salg,20.365,4,Sommerhus,82,2003,-1 %,Aktuel værdi
+"Møllegården 8, 16320 Egernsund",sund,795.000,29-08-2008,Alm. Salg,9.464,3,Lejlighed,84,1992,0 %,Aktuel værdi
+Benediktesvej 206320 Egernsund,sund,1.360.000,01-08-2008,Alm. Salg,9.066,4,Villa,150,1974,-9 %,Aktuel værdi
+Sundgade 246320 Egernsund,sund,2.135.000,24-07-2008,Alm. Salg,10.675,9,Villa,200,1895,,Aktuel værdi
+Kystvej 206320 Egernsund,sund,820.000,20-07-2008,Alm. Salg,7.592,4,Villa,108,1962,-4 %,Aktuel værdi
+Fjordvej 146320 Egernsund,sund,4.245.000,09-07-2008,Alm. Salg,24.119,5,Villa,176,1983,6 %,Aktuel værdi
+Skovgade 296320 Egernsund,sund,1.200.000,07-07-2008,Alm. Salg,8.108,6,Villa,148,1877,0 %,Aktuel værdi
+Havnevej 196320 Egernsund,sund,2.107.000,19-06-2008,Alm. Salg,14.838,3,Villa,142,1875,-4 %,Aktuel værdi
+Damvej 116320 Egernsund,sund,1.100.000,29-05-2008,Alm. Salg,-,6,Villa,192,1966,,Aktuel værdi
+Fjordvej 276320 Egernsund,sund,2.109.995,22-05-2008,Alm. Salg,11.163,4,Villa,189,2011,6 %,Aktuel værdi
+Strandvej 46320 Egernsund,sund,21.000,22-05-2008,Fam. Salg,238,4,Villa,88,1962,,Aktuel værdi
+Island 256320 Egernsund,sund,2.350.000,16-05-2008,Alm. Salg,14.596,4,Villa,161,2008,-4 %,Aktuel værdi
+Fjordvej 236320 Egernsund,sund,1.020.000,13-05-2008,Fam. Salg,13.600,4,Villa,75,1900,,Aktuel værdi
+Solbakken 6N6320 Egernsund,sund,1.000.000,15-04-2008,Alm. Salg,8.333,4,Rækkehus,120,1986,,Aktuel værdi
+Benediktesvej 726320 Egernsund,sund,1.350.000,14-04-2008,Alm. Salg,7.627,5,Villa,177,1972,-3 %,Aktuel værdi
+Engvej 56320 Egernsund,sund,875.000,12-04-2008,Alm. Salg,7.478,4,Villa,117,1962,0 %,Aktuel værdi
+Teglbakken 656320 Egernsund,sund,1.425.000,01-04-2008,Alm. Salg,19.791,4,Sommerhus,72,1977,,Aktuel værdi
+Møllegården 186320 Egernsund,sund,722.500,30-03-2008,Alm. Salg,7.225,4,Lejlighed,100,1979,,Aktuel værdi
+Engvej 216320 Egernsund,sund,845.000,12-03-2008,Alm. Salg,8.894,4,Villa,95,1963,0 %,Aktuel værdi
+Svinget 96320 Egernsund,sund,975.000,23-02-2008,Alm. Salg,9.375,4,Villa,104,1964,,Aktuel værdi
+Benediktesvej 86320 Egernsund,sund,885.000,30-01-2008,Alm. Salg,7.137,4,Villa,124,1971,-7 %,Aktuel værdi
+Havnevej 206320 Egernsund,sund,1.995.000,28-01-2008,Alm. Salg,8.673,8,Villa,230,1870,0 %,Aktuel værdi
+Sundgade 766320 Egernsund,sund,711.550,31-12-2007,Alm. Salg,3.162,6,Villa,225,1929,,Aktuel værdi
+Sundgade 406320 Egernsund,sund,1.567.500,30-11-2007,Andet,6.997,8,Villa,224,1917,,Aktuel værdi
+Marinavej 236320 Egernsund,sund,1.000.000,26-11-2007,Alm. Salg,9.174,4,Sommerhus,109,2005,,Aktuel værdi
+Bredmaj 916320 Egernsund,sund,995.000,22-11-2007,Alm. Salg,-,4,Sommerhus,80,1973,-10 %,Aktuel værdi
+Teglbakken 16320 Egernsund,sund,1.450.000,08-11-2007,Alm. Salg,19.594,3,Sommerhus,74,1995,-3 %,Aktuel værdi
+Fjordvej 76320 Egernsund,sund,800.000,12-10-2007,Alm. Salg,7.619,3,Villa,105,1958,-6 %,Aktuel værdi
+Sundgade 376320 Egernsund,sund,1.650.000,12-10-2007,Alm. Salg,-,7,Villa,250,1906,,Aktuel værdi
+Teglbakken 846320 Egernsund,sund,1.045.000,05-10-2007,Alm. Salg,16.328,3,Sommerhus,64,1974,,Aktuel værdi
+Lågmajvej 256320 Egernsund,sund,2.412.500,29-09-2007,Alm. Salg,15.665,3,Villa,154,1907,-3 %,Aktuel værdi
+Lågmajvej 296320 Egernsund,sund,2.900.000,28-09-2007,Alm. Salg,13.181,5,Villa,220,1900,-3 %,Aktuel værdi
+Teglbakken 36320 Egernsund,sund,985.000,23-09-2007,Alm. Salg,13.680,4,Sommerhus,72,1978,,Aktuel værdi
+Brovej 396320 Egernsund,sund,1.125.000,22-09-2007,Alm. Salg,7.705,5,Villa,146,1949,,Aktuel værdi
+"Møllegården 4, 16320 Egernsund",sund,820.000,14-08-2007,Alm. Salg,10.512,3,Lejlighed,78,1992,,Aktuel værdi
+Bredmaj 506320 Egernsund,sund,800.000,06-08-2007,Alm. Salg,9.411,3,Sommerhus,85,1984,,Aktuel værdi
+Svinget 176320 Egernsund,sund,950.000,25-07-2007,Alm. Salg,7.307,4,Villa,130,1969,,Aktuel værdi
+Teglbakken 596320 Egernsund,sund,703.768,16-07-2007,Alm. Salg,9.510,4,Sommerhus,74,1974,,Aktuel værdi
+Teglparken 46320 Egernsund,sund,1.262.000,06-07-2007,Alm. Salg,8.469,5,Villa,149,1979,,Aktuel værdi
+Teglparken 146320 Egernsund,sund,1.345.000,23-06-2007,Alm. Salg,10.189,5,Villa,132,1978,,Aktuel værdi
+Marinavej 316320 Egernsund,sund,1.995.000,13-06-2007,Alm. Salg,18.302,4,Sommerhus,109,2005,,Aktuel værdi
+Teglparken 546320 Egernsund,sund,1.225.000,08-06-2007,Alm. Salg,9.722,5,Villa,126,1979,,Aktuel værdi
+Havnevej 1946320 Egernsund,sund,1.450.000,01-06-2007,Alm. Salg,-,3,Rækkehus,217,1850,,Aktuel værdi
+Teglparken 226320 Egernsund,sund,1.240.000,31-05-2007,Alm. Salg,6.666,7,Villa,186,1978,,Aktuel værdi
+Reefslagervænget 66320 Egernsund,sund,1.875.000,28-05-2007,Alm. Salg,10.714,5,Villa,175,1986,,Aktuel værdi
+"Møllegården 2, 16320 Egernsund",sund,770.000,21-05-2007,Alm. Salg,9.166,4,Lejlighed,84,1992,,Aktuel værdi
+Gartnerparken 66320 Egernsund,sund,1.195.000,11-05-2007,Alm. Salg,5.195,8,Villa,230,1930,,Aktuel værdi
+Kystvej 26320 Egernsund,sund,1.250.000,07-05-2007,Alm. Salg,9.920,4,Villa,126,1977,,Aktuel værdi
+Teglparken 826320 Egernsund,sund,1.435.000,07-05-2007,Alm. Salg,7.321,8,Villa,196,1979,,Aktuel værdi
+Havnevej 146320 Egernsund,sund,1.730.000,24-04-2007,Alm. Salg,8.963,5,Villa,193,1973,,Aktuel værdi
+Bredmaj 486320 Egernsund,sund,875.000,23-04-2007,Alm. Salg,12.323,3,Sommerhus,71,1975,,Aktuel værdi
+Benediktesvej 906320 Egernsund,sund,1.395.000,20-04-2007,Alm. Salg,10.648,4,Villa,131,1972,,Aktuel værdi
+Havnevej 666320 Egernsund,sund,1.900.000,16-04-2007,Alm. Salg,10.326,7,Villa,184,1926,,Aktuel værdi
+Bredmaj 706320 Egernsund,sund,1.445.000,11-04-2007,Alm. Salg,19.013,4,Sommerhus,76,1986,,Aktuel værdi
+Teglbakken 76320 Egernsund,sund,1.170.000,09-04-2007,Alm. Salg,13.295,4,Sommerhus,88,1976,,Aktuel værdi
+Firkløvervej 16320 Egernsund,sund,1.125.000,15-03-2007,Fam. Salg,6.181,5,Villa,182,2008,,Aktuel værdi
+Skovgade 446320 Egernsund,sund,570.000,05-03-2007,Alm. Salg,4.453,3,Villa,128,1850,,Aktuel værdi
+Kystvej 166320 Egernsund,sund,1.245.000,04-03-2007,Alm. Salg,8.032,5,Villa,155,1963,,Aktuel værdi
+Brillevej 96320 Egernsund,sund,662.000,21-02-2007,Alm. Salg,5.171,5,Villa,128,1900,,Aktuel værdi
+Teglparken 186320 Egernsund,sund,904.399,20-02-2007,Alm. Salg,7.121,4,Villa,127,1979,,Aktuel værdi
+Svinget 86320 Egernsund,sund,510.000,27-12-2006,Fam. Salg,3.893,4,Villa,131,1950,,Aktuel værdi
+Engvej 196320 Egernsund,sund,536.000,21-12-2006,Alm. Salg,5.583,3,Villa,96,1962,,Aktuel værdi
+Teglbakken 486320 Egernsund,sund,650.000,11-12-2006,Andet,4.642,5,Sommerhus,140,1969,,Aktuel værdi
+Marinavej 466320 Egernsund,sund,1.695.000,06-11-2006,Alm. Salg,14.364,4,Sommerhus,118,2006,,Aktuel værdi
+Teglbakken 526320 Egernsund,sund,975.000,27-10-2006,Alm. Salg,-,3,Sommerhus,73,1987,,Aktuel værdi
+Marinavej 356320 Egernsund,sund,1.995.000,24-10-2006,Alm. Salg,16.906,4,Sommerhus,118,2007,,Aktuel værdi
+Lågmajvej 376320 Egernsund,sund,1.300.000,23-10-2006,Alm. Salg,8.227,4,Villa,158,2007,,Aktuel værdi
+Marinavej 336320 Egernsund,sund,2.195.000,01-10-2006,Alm. Salg,18.601,4,Sommerhus,118,2007,,Aktuel værdi
+Marinavej 416320 Egernsund,sund,2.195.000,01-10-2006,Alm. Salg,18.601,4,Sommerhus,118,2007,,Aktuel værdi
+Lågmajvej 266320 Egernsund,sund,1.570.000,21-09-2006,Alm. Salg,14.811,2,Villa,106,2009,,Aktuel værdi
+Teglbakken 86320 Egernsund,sund,1.050.000,13-09-2006,Alm. Salg,13.461,4,Sommerhus,78,1973,,Aktuel værdi
+Sundgade 746320 Egernsund,sund,695.000,29-08-2006,Alm. Salg,7.239,3,Villa,96,1973,,Aktuel værdi
+Reefslagervænget 96320 Egernsund,sund,800.302,16-08-2006,Alm. Salg,5.300,5,Villa,151,2004,,Aktuel værdi
+Fjordvej 396320 Egernsund,sund,415.000,07-08-2006,Fam. Salg,5.928,4,Sommerhus,70,1943,,Aktuel værdi
+Benediktesvej 946320 Egernsund,sund,481.446,01-08-2006,Alm. Salg,3.488,3,Villa,138,1973,,Aktuel værdi
+Teglbakken 906320 Egernsund,sund,1.180.000,21-07-2006,Alm. Salg,14.750,3,Sommerhus,80,1992,,Aktuel værdi
+Sundgade 146320 Egernsund,sund,2.535.000,21-07-2006,Alm. Salg,10.833,6,Villa,234,1920,,Aktuel værdi
+Marinavej 456320 Egernsund,sund,1.995.000,26-06-2006,Alm. Salg,16.906,4,Sommerhus,118,2007,,Aktuel værdi
+Solbakken 6H6320 Egernsund,sund,950.000,31-05-2006,Alm. Salg,7.723,4,Rækkehus,123,1986,,Aktuel værdi
+Marinavej 406320 Egernsund,sund,1.995.000,29-05-2006,Alm. Salg,16.906,4,Sommerhus,118,2007,,Aktuel værdi
+Bredmaj 526320 Egernsund,sund,1.450.000,28-05-2006,Alm. Salg,13.063,6,Sommerhus,111,1974,,Aktuel værdi
+Teglbakken 696320 Egernsund,sund,1.200.000,26-05-2006,Fam. Salg,15.000,4,Sommerhus,80,1974,,Aktuel værdi
+Bredmaj 806320 Egernsund,sund,890.000,23-05-2006,Alm. Salg,9.368,4,Sommerhus,95,1975,,Aktuel værdi
+Marinavej 296320 Egernsund,sund,2.160.000,23-05-2006,Alm. Salg,19.816,4,Sommerhus,109,2005,,Aktuel værdi
+Marinavej 396320 Egernsund,sund,2.295.000,22-05-2006,Alm. Salg,19.449,4,Sommerhus,118,2007,,Aktuel værdi
+Kystvej 226320 Egernsund,sund,1.195.000,29-04-2006,Alm. Salg,8.298,3,Villa,144,1962,,Aktuel værdi
+Rendbjergvej 176320 Egernsund,sund,920.000,20-04-2006,Andet,5.380,5,Villa,171,1864,,Aktuel værdi
+Bredmaj 596320 Egernsund,sund,1.820.000,10-04-2006,Alm. Salg,-,3,Sommerhus,113,1974,,Aktuel værdi
+Bredmaj 746320 Egernsund,sund,850.000,07-04-2006,Alm. Salg,9.444,4,Sommerhus,90,2013,,Aktuel værdi
+Benediktesvej 1086320 Egernsund,sund,1.100.000,31-03-2006,Alm. Salg,6.790,5,Villa,162,1971,,Aktuel værdi
+Reefslagervænget 86320 Egernsund,sund,1.225.000,02-03-2006,Alm. Salg,6.282,6,Villa,195,1984,,Aktuel værdi
+Bredmaj 586320 Egernsund,sund,1.400.000,16-01-2006,Alm. Salg,17.948,4,Sommerhus,78,1979,,Aktuel værdi
+Teglbakken 716320 Egernsund,sund,1.295.000,23-12-2005,Alm. Salg,19.044,4,Sommerhus,68,1974,,Aktuel værdi
+Teglparken 626320 Egernsund,sund,1.105.000,12-12-2005,Alm. Salg,7.129,8,Villa,155,1979,,Aktuel værdi
+Sundgade 566320 Egernsund,sund,1.925.000,12-12-2005,Alm. Salg,13.275,4,Villa,145,2017,,Aktuel værdi
+Benediktesvej 1106320 Egernsund,sund,1.010.000,05-12-2005,Alm. Salg,6.516,5,Villa,155,1971,,Aktuel værdi
+Fjordvej 316320 Egernsund,sund,1.325.000,07-11-2005,Alm. Salg,17.666,2,Villa,75,2007,,Aktuel værdi
+Marinavej 246320 Egernsund,sund,1.995.000,06-11-2005,Alm. Salg,18.302,4,Sommerhus,109,2005,,Aktuel værdi
+Brillevej 1A6320 Egernsund,sund,1.400.000,24-10-2005,Alm. Salg,10.370,3,Villa,135,1983,,Aktuel værdi
+Havnevej 966320 Egernsund,sund,1.695.000,18-10-2005,Alm. Salg,9.416,4,Villa,180,1931,,Aktuel værdi
+Marinavej 216320 Egernsund,sund,1.995.000,14-10-2005,Alm. Salg,18.302,4,Sommerhus,109,2005,,Aktuel værdi
+Benediktesvej 526320 Egernsund,sund,695.000,23-09-2005,Alm. Salg,5.743,5,Villa,121,1971,,Aktuel værdi
+Reefslagervænget 76320 Egernsund,sund,1.250.000,22-09-2005,Alm. Salg,6.756,6,Villa,185,1986,,Aktuel værdi
+Engvej 106320 Egernsund,sund,750.000,12-09-2005,Alm. Salg,5.952,3,Villa,126,1957,,Aktuel værdi
+Bredmaj 436320 Egernsund,sund,2.270.000,06-09-2005,Alm. Salg,21.018,5,Sommerhus,108,1974,,Aktuel værdi
+Reefslagervænget 286320 Egernsund,sund,1.545.000,27-08-2005,Alm. Salg,7.322,7,Villa,211,1986,,Aktuel værdi
+Marinavej 226320 Egernsund,sund,1.995.000,26-08-2005,Alm. Salg,18.302,4,Sommerhus,109,2005,,Aktuel værdi
+Marinavej 116320 Egernsund,sund,2.595.000,21-08-2005,Alm. Salg,23.807,4,Sommerhus,109,2005,,Aktuel værdi
+Marinavej 286320 Egernsund,sund,2.695.000,21-08-2005,Alm. Salg,24.724,4,Sommerhus,109,2005,,Aktuel værdi
+Sundgade 676320 Egernsund,sund,675.000,19-08-2005,Alm. Salg,4.530,5,Villa,149,1945,,Aktuel værdi
+Sundgade 86320 Egernsund,sund,1.147.500,08-08-2005,Fam. Salg,7.806,5,Villa,147,1905,,Aktuel værdi
+Gartnerparken 56320 Egernsund,sund,795.000,05-08-2005,Alm. Salg,5.845,4,Rækkehus,136,1980,,Aktuel værdi
+Marinavej 266320 Egernsund,sund,1.995.000,18-07-2005,Alm. Salg,18.302,4,Sommerhus,109,2005,,Aktuel værdi
+Benediktesvej 386320 Egernsund,sund,845.000,11-07-2005,Alm. Salg,7.347,4,Villa,115,1971,,Aktuel værdi
+Svinget 116320 Egernsund,sund,495.000,09-07-2005,Alm. Salg,5.000,4,Villa,99,1954,,Aktuel værdi
+Teglparken 506320 Egernsund,sund,1.200.000,08-07-2005,Alm. Salg,7.594,5,Villa,158,1979,,Aktuel værdi
+Teglparken 706320 Egernsund,sund,995.000,01-07-2005,Alm. Salg,5.467,5,Villa,182,1978,,Aktuel værdi
+Marinavej 126320 Egernsund,sund,2.595.000,19-06-2005,Alm. Salg,23.807,4,Sommerhus,109,2005,,Aktuel værdi
+Marinavej 156320 Egernsund,sund,2.595.000,17-06-2005,Alm. Salg,23.807,4,Sommerhus,109,2005,,Aktuel værdi
+Æblehaven 146320 Egernsund,sund,825.000,06-06-2005,Alm. Salg,8.870,3,Villa,93,1987,,Aktuel værdi
+Svinget 2C6320 Egernsund,sund,1.125.000,31-05-2005,Alm. Salg,7.305,5,Villa,154,1984,,Aktuel værdi
+Benediktesvej 146320 Egernsund,sund,1.090.000,27-05-2005,Alm. Salg,5.165,9,Villa,211,1973,,Aktuel værdi
+Fjordvej 46320 Egernsund,sund,816.000,23-05-2005,Fam. Salg,7.418,3,Villa,110,1955,,Aktuel værdi
+Sundgade 46320 Egernsund,sund,3.400.000,18-05-2005,Alm. Salg,15.454,7,Villa,220,1942,,Aktuel værdi
+Møllegården 166320 Egernsund,sund,1.030.000,06-05-2005,Alm. Salg,10.300,4,Lejlighed,100,1979,,Aktuel værdi
+Bredmaj 896320 Egernsund,sund,860.000,04-05-2005,Alm. Salg,7.288,5,Sommerhus,118,1977,,Aktuel værdi
+Kystvej 46320 Egernsund,sund,843.565,21-04-2005,Alm. Salg,3.589,7,Villa,235,1962,,Aktuel værdi
+Marinavej 146320 Egernsund,sund,2.755.000,16-04-2005,Alm. Salg,25.275,4,Sommerhus,109,2005,,Aktuel værdi
+Marinavej 186320 Egernsund,sund,2.595.000,16-04-2005,Alm. Salg,23.807,4,Sommerhus,109,2005,,Aktuel værdi
+Marinavej 196320 Egernsund,sund,2.595.000,16-04-2005,Alm. Salg,23.807,4,Sommerhus,109,2005,,Aktuel værdi
+Marinavej 206320 Egernsund,sund,2.695.000,15-04-2005,Alm. Salg,24.724,4,Sommerhus,109,2005,,Aktuel værdi
+Marinavej 136320 Egernsund,sund,2.595.000,12-04-2005,Alm. Salg,23.807,4,Sommerhus,109,2005,,Aktuel værdi
+Bredmaj 206320 Egernsund,sund,920.500,07-04-2005,Alm. Salg,11.651,4,Sommerhus,79,1978,,Aktuel værdi
+Strandvej 16320 Egernsund,sund,634.000,02-04-2005,Alm. Salg,5.816,3,Villa,109,1962,,Aktuel værdi
+Bredmaj 636320 Egernsund,sund,345.000,22-02-2005,Fam. Salg,4.726,6,Sommerhus,73,1980,,Aktuel værdi
+Sundgade 476320 Egernsund,sund,475.000,21-01-2005,Alm. Salg,3.298,6,Villa,144,1924,,Aktuel værdi
+Bredmaj 376320 Egernsund,sund,870.000,09-01-2005,Alm. Salg,10.609,3,Sommerhus,82,1977,,Aktuel værdi
+Teglbakken 746320 Egernsund,sund,850.000,29-11-2004,Alm. Salg,9.139,3,Sommerhus,93,1975,,Aktuel værdi
+Benediktesvej 686320 Egernsund,sund,1.200.000,01-11-2004,Alm. Salg,7.317,5,Villa,164,1972,,Aktuel værdi
+"Møllegården 10, 16320 Egernsund",sund,375.000,25-10-2004,Fam. Salg,4.464,3,Lejlighed,84,1992,,Aktuel værdi
+Benediktesvej 1126320 Egernsund,sund,725.000,18-10-2004,Alm. Salg,7.107,3,Villa,102,1972,,Aktuel værdi
+Sundgade 21C6320 Egernsund,sund,75.000,23-09-2004,Alm. Salg,609,3,Villa,123,2007,,Aktuel værdi
+Mindevej 126320 Egernsund,sund,1.780.000,20-08-2004,Alm. Salg,7.982,7,Villa,223,1986,,Aktuel værdi
+Benediktesvej 626320 Egernsund,sund,800.000,17-06-2004,Alm. Salg,5.333,6,Villa,150,1973,,Aktuel værdi
+Kystvej 116320 Egernsund,sund,625.000,16-06-2004,Alm. Salg,3.342,5,Villa,187,1964,,Aktuel værdi
+Bredmaj 576320 Egernsund,sund,1.195.000,07-06-2004,Alm. Salg,13.579,5,Sommerhus,88,1984,,Aktuel værdi
+Teglbakken 296320 Egernsund,sund,1.295.000,13-04-2004,Alm. Salg,14.550,4,Sommerhus,89,2007,,Aktuel værdi
+Bredmaj 646320 Egernsund,sund,560.000,12-04-2004,Andet,9.180,4,Sommerhus,61,1978,,Aktuel værdi
+Teglbakken 376320 Egernsund,sund,560.000,12-04-2004,Andet,8.888,4,Sommerhus,63,1971,,Aktuel værdi
+Benediktesvej 66320 Egernsund,sund,1.085.000,21-02-2004,Alm. Salg,7.919,4,Villa,137,1971,,Aktuel værdi
+Sundgade 236320 Egernsund,sund,845.000,20-02-2004,Alm. Salg,-,4,Villa,141,1951,,Aktuel værdi
+Bredmaj 856320 Egernsund,sund,745.000,06-02-2004,Alm. Salg,-,7,Sommerhus,121,1977,,Aktuel værdi
+Benediktesvej 46320 Egernsund,sund,993.900,30-01-2004,Andet,-,6,Villa,195,1971,,Aktuel værdi
+Havnevej 626320 Egernsund,sund,1.550.000,09-12-2003,Alm. Salg,8.659,5,Villa,179,1997,,Aktuel værdi
+Bredmaj 786320 Egernsund,sund,525.000,08-12-2003,Fam. Salg,6.481,6,Sommerhus,81,1978,,Aktuel værdi
+Kystvej 86320 Egernsund,sund,322.500,24-11-2003,Alm. Salg,3.193,4,Villa,101,1963,,Aktuel værdi
+Æblehaven 106320 Egernsund,sund,825.000,22-11-2003,Alm. Salg,6.547,4,Villa,126,1877,,Aktuel værdi
+Teglbakken 706320 Egernsund,sund,850.000,22-11-2003,Alm. Salg,11.333,3,Sommerhus,75,1996,,Aktuel værdi
+Lågmajvej 26320 Egernsund,sund,1.050.000,20-10-2003,Alm. Salg,5.675,6,Villa,185,1963,,Aktuel værdi
+Havnevej 926320 Egernsund,sund,575.000,20-10-2003,Fam. Salg,4.872,5,Villa,118,1960,,Aktuel værdi
+Søvej 46320 Egernsund,sund,835.000,14-10-2003,Alm. Salg,7.455,3,Villa,112,1966,,Aktuel værdi
+Skovgade 586320 Egernsund,sund,500.000,23-09-2003,Alm. Salg,2.824,6,Villa,177,1886,,Aktuel værdi
+Fjordvej 136320 Egernsund,sund,1.600.000,20-09-2003,Alm. Salg,7.017,8,Villa,228,1960,,Aktuel værdi
+Sundgade 346320 Egernsund,sund,1.500.000,10-09-2003,Alm. Salg,10.344,4,Villa,145,1905,,Aktuel værdi
+Reefslagervænget 36320 Egernsund,sund,1.700.000,08-09-2003,Alm. Salg,8.212,6,Villa,207,1953,,Aktuel værdi
+Æblehaven 126320 Egernsund,sund,1.070.000,22-08-2003,Alm. Salg,7.642,4,Villa,140,1985,,Aktuel værdi
+Sundgade 56320 Egernsund,sund,1.500.000,10-07-2003,Alm. Salg,4.870,7,Villa,308,1953,,Aktuel værdi
+Teglbakken 456320 Egernsund,sund,690.000,23-06-2003,Alm. Salg,-,4,Sommerhus,76,1974,,Aktuel værdi
+Sundgade 14A6320 Egernsund,sund,2.400.000,19-06-2003,Alm. Salg,13.714,7,Villa,175,1995,,Aktuel værdi
+Bredmaj 86320 Egernsund,sund,1.085.000,08-05-2003,Alm. Salg,13.231,4,Sommerhus,82,1999,,Aktuel værdi
+Teglbakken 66320 Egernsund,sund,825.000,07-04-2003,Alm. Salg,8.870,4,Sommerhus,93,1976,,Aktuel værdi
+Fyrtårnsvej 16320 Egernsund,sund,655.000,27-12-2002,Alm. Salg,7.277,3,Villa,90,1961,,Aktuel værdi
+Engvej 126320 Egernsund,sund,592.392,10-12-2002,Alm. Salg,-,4,Villa,158,1959,,Aktuel værdi
+Damvej 106320 Egernsund,sund,710.000,19-11-2002,Alm. Salg,6.635,5,Villa,107,1963,,Aktuel værdi
+Teglparken 926320 Egernsund,sund,1.365.000,28-10-2002,Alm. Salg,7.936,4,Villa,172,1998,,Aktuel værdi
+Svinget 136320 Egernsund,sund,745.000,17-09-2002,Alm. Salg,7.163,4,Villa,104,1964,,Aktuel værdi
+Teglbakken 896320 Egernsund,sund,845.000,02-09-2002,Alm. Salg,10.696,4,Sommerhus,79,1996,,Aktuel værdi
+Sundgade 736320 Egernsund,sund,385.000,22-08-2002,Fam. Salg,2.961,6,Villa,130,1951,,Aktuel værdi
+Teglbakken 26320 Egernsund,sund,574.000,11-07-2002,Alm. Salg,8.567,3,Sommerhus,67,1974,,Aktuel værdi
+Egeskovvej 286320 Egernsund,sund,650.000,08-07-2002,Alm. Salg,13.000,2,Sommerhus,50,2006,,Aktuel værdi
+Solbakken 46320 Egernsund,sund,2.790.000,12-06-2002,Alm. Salg,16.508,5,Villa,169,1908,,Aktuel værdi
+Benediktesvej 866320 Egernsund,sund,840.000,03-06-2002,Alm. Salg,6.720,4,Villa,125,1972,,Aktuel værdi
+Havnevej 296320 Egernsund,sund,2.143.713,16-04-2002,Alm. Salg,11.282,4,Villa,190,1927,,Aktuel værdi
+Strandvej 26320 Egernsund,sund,840.000,10-04-2002,Alm. Salg,5.915,5,Villa,142,1963,,Aktuel værdi
+Fjordvej 376320 Egernsund,sund,663.000,18-03-2002,Fam. Salg,7.534,3,Villa,88,2007,,Aktuel værdi
+Teglbakken 156320 Egernsund,sund,730.000,25-02-2002,Alm. Salg,9.125,4,Sommerhus,80,1980,,Aktuel værdi
+Kystvej 6A6320 Egernsund,sund,1.475.000,20-02-2002,Alm. Salg,8.016,7,Villa,184,1963,,Aktuel værdi
+Fjordvej 13A6320 Egernsund,sund,200.000,11-02-2002,Alm. Salg,1.342,5,Villa,149,2005,,Aktuel værdi
+Solbakken 56320 Egernsund,sund,2.110.000,05-01-2002,Alm. Salg,9.055,8,Villa,233,1930,,Aktuel værdi
+Havnevej 326320 Egernsund,sund,975.000,29-11-2001,Alm. Salg,5.131,7,Villa,190,1935,,Aktuel værdi
+Sundgade 21B6320 Egernsund,sund,789.369,28-11-2001,Alm. Salg,9.286,3,Villa,85,2001,,Aktuel værdi
+Damvej 86320 Egernsund,sund,695.000,08-10-2001,Alm. Salg,5.991,7,Villa,116,1960,,Aktuel værdi
+Teglbakken 916320 Egernsund,sund,595.000,08-09-2001,Alm. Salg,13.522,3,Sommerhus,44,1975,,Aktuel værdi
+Solbakken 6M6320 Egernsund,sund,885.009,01-09-2001,Alm. Salg,7.375,4,Rækkehus,120,1986,,Aktuel værdi
+Firkløvervej 26320 Egernsund,sund,850.000,27-08-2001,Fam. Salg,-,4,Villa,225,1965,,Aktuel værdi
+Teglparken 406320 Egernsund,sund,870.000,25-07-2001,Alm. Salg,5.686,6,Villa,153,1978,,Aktuel værdi
+Bredmaj 216320 Egernsund,sund,500.000,23-07-2001,Alm. Salg,7.692,4,Sommerhus,65,1973,,Aktuel værdi
+Skovgade 426320 Egernsund,sund,435.000,10-07-2001,Alm. Salg,2.377,6,Villa,183,1875,,Aktuel værdi
+Rødegade 36320 Egernsund,sund,1.199.766,14-06-2001,Alm. Salg,6.628,6,Villa,181,1890,,Aktuel værdi
+Kystvej 156320 Egernsund,sund,600.000,01-06-2001,Alm. Salg,7.058,3,Villa,85,1964,,Aktuel værdi
+Lågmajvej 336320 Egernsund,sund,747.249,31-05-2001,Alm. Salg,6.227,3,Rækkehus,120,1877,,Aktuel værdi
+Skovgade 366320 Egernsund,sund,487.707,21-05-2001,Alm. Salg,2.040,8,Villa,239,1857,,Aktuel værdi
+Lågmajvej 106320 Egernsund,sund,690.000,12-02-2001,Alm. Salg,7.840,3,Villa,88,1965,,Aktuel værdi
+Nyvej 56320 Egernsund,sund,1.100.000,09-02-2001,Fam. Salg,7.857,4,Rækkehus,140,1961,,Aktuel værdi
+"Rendbjergvej 19, ST. TH6320 Egernsund",sund,1.050.000,25-01-2001,Alm. Salg,6.402,3,Lejlighed,164,1875,,Aktuel værdi
+Æblehaven 166320 Egernsund,sund,776.324,23-01-2001,Alm. Salg,6.750,3,Villa,115,1987,,Aktuel værdi
+Teglbakken 626320 Egernsund,sund,580.000,17-01-2001,Alm. Salg,7.435,3,Sommerhus,78,1973,,Aktuel værdi
+Mindevej 26320 Egernsund,sund,696.658,14-12-2000,Alm. Salg,5.529,3,Villa,126,1905,,Aktuel værdi
+Bredmaj 756320 Egernsund,sund,1.040.000,30-11-2000,Alm. Salg,14.857,4,Sommerhus,70,1977,,Aktuel værdi
+Rødegade 136320 Egernsund,sund,427.000,06-11-2000,Fam. Salg,2.124,4,Villa,201,2002,,Aktuel værdi
+Benediktesvej 1006320 Egernsund,sund,977.748,09-09-2000,Alm. Salg,7.242,4,Villa,135,1972,,Aktuel værdi
+Benediktesvej 346320 Egernsund,sund,820.000,04-09-2000,Alm. Salg,6.507,5,Villa,126,1972,,Aktuel værdi
+Mosevej 26320 Egernsund,sund,323.000,07-08-2000,Alm. Salg,2.307,4,Villa,140,1964,,Aktuel værdi
+Æblehaven 86320 Egernsund,sund,961.000,19-06-2000,Alm. Salg,7.118,4,Villa,135,1984,,Aktuel værdi
+Teglbakken 236320 Egernsund,sund,775.000,12-06-2000,Alm. Salg,7.750,4,Sommerhus,100,1975,,Aktuel værdi
+Fyrtårnsvej 126320 Egernsund,sund,596.197,03-05-2000,Alm. Salg,6.551,4,Villa,91,1963,,Aktuel værdi
+Teglbakken 56320 Egernsund,sund,484.500,30-03-2000,Fam. Salg,6.056,3,Sommerhus,80,1980,,Aktuel værdi
+Nyvej 26320 Egernsund,sund,430.494,07-03-2000,Alm. Salg,4.484,6,Villa,96,1942,,Aktuel værdi
+Sundgade 296320 Egernsund,sund,750.415,06-03-2000,Alm. Salg,4.215,6,Villa,178,1908,,Aktuel værdi
+Teglbakken 246320 Egernsund,sund,205.757,21-02-2000,Alm. Salg,2.540,4,Sommerhus,81,2000,,Aktuel værdi
+Bredmaj 226320 Egernsund,sund,1.150.000,01-12-1999,Alm. Salg,13.690,4,Sommerhus,84,1999,,Aktuel værdi
+"Møllegården 12, 16320 Egernsund",sund,419.000,18-10-1999,Alm. Salg,4.988,3,Lejlighed,84,1992,,Aktuel værdi
+Engvej 36320 Egernsund,sund,565.000,15-10-1999,Alm. Salg,-,4,Villa,181,1958,,Aktuel værdi
+Teglbakken 536320 Egernsund,sund,630.000,06-09-1999,Alm. Salg,10.000,4,Sommerhus,63,1973,,Aktuel værdi
+Solbakken 6C6320 Egernsund,sund,640.000,03-09-1999,Alm. Salg,5.470,3,Rækkehus,117,1986,,Aktuel værdi
+Solbakken 6K6320 Egernsund,sund,1.090.000,24-08-1999,Alm. Salg,7.517,6,Rækkehus,145,1986,,Aktuel værdi
+Damvej 76320 Egernsund,sund,485.000,19-08-1999,Alm. Salg,4.008,6,Villa,121,1964,,Aktuel værdi
+Reefslagervænget 106320 Egernsund,sund,959.130,26-07-1999,Alm. Salg,7.734,5,Villa,124,1984,,Aktuel værdi
+Teglparken 566320 Egernsund,sund,1.095.000,26-07-1999,Alm. Salg,7.203,6,Villa,152,1979,,Aktuel værdi
+Teglparken 206320 Egernsund,sund,552.500,01-07-1999,Alm. Salg,3.784,4,Villa,146,1978,,Aktuel værdi
+Kystvej 146320 Egernsund,sund,695.000,25-06-1999,Alm. Salg,-,5,Villa,136,1962,,Aktuel værdi
+Damvej 16320 Egernsund,sund,425.000,14-06-1999,Alm. Salg,3.400,3,Villa,125,1957,,Aktuel værdi
+Damvej 26320 Egernsund,sund,790.000,14-06-1999,Alm. Salg,-,5,Villa,176,1956,,Aktuel værdi
+Skovgade 246320 Egernsund,sund,440.000,10-05-1999,Fam. Salg,-,3,Villa,93,1777,,Aktuel værdi
+"Rendbjergvej 19, ST. MF6320 Egernsund",sund,1.285.000,05-04-1999,Alm. Salg,6.119,3,Lejlighed,210,1875,,Aktuel værdi
+Brovej 426320 Egernsund,sund,850.000,05-04-1999,Alm. Salg,5.345,4,Villa,159,1944,,Aktuel værdi
+Sundgade 596320 Egernsund,sund,807.000,01-04-1999,Alm. Salg,4.292,5,Villa,188,1930,,Aktuel værdi
+Fjordvej 216320 Egernsund,sund,1.200.000,29-11-1998,Alm. Salg,9.917,4,Villa,121,1900,,Aktuel værdi
+Teglbakken 38A6320 Egernsund,sund,255.000,25-11-1998,Fam. Salg,3.805,2,Sommerhus,67,1977,,Aktuel værdi
+Reefslagervænget 116320 Egernsund,sund,36.200,16-11-1998,Alm. Salg,301,3,Villa,120,2000,,Aktuel værdi
+"Sundgade 61, 16320 Egernsund",sund,820.000,20-10-1998,Alm. Salg,2.594,9,Lejlighed,316,1933,,Aktuel værdi
+Teglbakken 636320 Egernsund,sund,563.105,12-10-1998,Alm. Salg,7.313,4,Sommerhus,77,1973,,Aktuel værdi
+Sundgade 76320 Egernsund,sund,504.640,12-10-1998,Alm. Salg,5.046,4,Villa,100,1936,,Aktuel værdi
+Havnevej 386320 Egernsund,sund,841.500,25-09-1998,Fam. Salg,3.393,6,Villa,248,1931,,Aktuel værdi
+Skovgade 226320 Egernsund,sund,408.780,17-07-1998,Alm. Salg,4.047,3,Villa,101,1777,,Aktuel værdi
+Bjerget 16320 Egernsund,sund,772.000,19-06-1998,Alm. Salg,3.015,5,Villa,256,1800,,Aktuel værdi
+Sundgade 136320 Egernsund,sund,235.358,20-04-1998,Alm. Salg,2.082,5,Villa,113,1920,,Aktuel værdi
+Teglparken 606320 Egernsund,sund,862.340,15-04-1998,Alm. Salg,6.340,5,Villa,136,1978,,Aktuel værdi
+Fyrtårnsvej 26320 Egernsund,sund,720.453,01-04-1998,Alm. Salg,6.319,4,Villa,114,1960,,Aktuel værdi
+Brovej 416320 Egernsund,sund,613.000,02-03-1998,Alm. Salg,5.377,4,Villa,114,1951,,Aktuel værdi
+Engvej 15A6320 Egernsund,sund,530.000,18-02-1998,Alm. Salg,5.000,3,Villa,106,1965,,Aktuel værdi
+Mosevej 36320 Egernsund,sund,763.679,17-02-1998,Alm. Salg,5.266,5,Villa,145,1966,,Aktuel værdi
+Bredmaj 336320 Egernsund,sund,520.000,05-02-1998,Alm. Salg,5.714,4,Sommerhus,91,1979,,Aktuel værdi
+Engvej 26320 Egernsund,sund,480.000,31-10-1997,Alm. Salg,7.619,3,Villa,63,1957,,Aktuel værdi
+Teglparken 766320 Egernsund,sund,873.000,29-10-1997,Alm. Salg,5.105,6,Villa,171,1979,,Aktuel værdi
+Fjordvej 126320 Egernsund,sund,1.962.000,15-09-1997,Alm. Salg,-,5,Villa,208,1970,,Aktuel værdi
+Sundgade 446320 Egernsund,sund,760.000,08-08-1997,Fam. Salg,-,5,Villa,125,1869,,Aktuel værdi
+Skovgade 486320 Egernsund,sund,385.000,23-07-1997,Alm. Salg,3.888,4,Villa,99,1890,,Aktuel værdi
+Teglbakken 386320 Egernsund,sund,1.042.000,08-07-1997,Alm. Salg,5.853,5,Villa,178,1977,,Aktuel værdi
+Firkløvervej 46320 Egernsund,sund,2.094.620,02-07-1997,Alm. Salg,6.484,5,Villa,323,1966,,Aktuel værdi
+Sundgade 536320 Egernsund,sund,520.000,24-06-1997,Alm. Salg,4.905,4,Villa,106,1927,,Aktuel værdi
+Bredmaj 96320 Egernsund,sund,460.000,06-06-1997,Alm. Salg,6.764,8,Sommerhus,68,1980,,Aktuel værdi
+Lågmajvej 36320 Egernsund,sund,545.000,21-04-1997,Alm. Salg,-,3,Villa,77,1951,,Aktuel værdi
+Benediktesvej 26320 Egernsund,sund,520.000,26-03-1997,Alm. Salg,4.521,4,Villa,115,1968,,Aktuel værdi
+Teglbakken 34B6320 Egernsund,sund,256.032,15-03-1997,Alm. Salg,3.084,5,Sommerhus,83,1995,,Aktuel værdi
+Bredmaj 406320 Egernsund,sund,210.000,06-03-1997,Alm. Salg,1.858,5,Sommerhus,113,2001,,Aktuel værdi
+Fjordvej 256320 Egernsund,sund,570.000,24-02-1997,Alm. Salg,-,4,Villa,102,1900,,Aktuel værdi
+Svinget 2A6320 Egernsund,sund,1.381.720,30-01-1997,Alm. Salg,-,6,Villa,232,1984,,Aktuel værdi
+Benediktesvej 706320 Egernsund,sund,640.000,30-12-1996,Alm. Salg,4.571,5,Villa,140,1973,,Aktuel værdi
+Bredmaj 26320 Egernsund,sund,150.500,10-12-1996,Alm. Salg,1.881,4,Sommerhus,80,1997,,Aktuel værdi
+Skovgade 86320 Egernsund,sund,438.650,07-12-1996,Alm. Salg,6.266,3,Villa,70,1957,,Aktuel værdi
+Sundgade 156320 Egernsund,sund,380.520,25-11-1996,Alm. Salg,-,5,Villa,153,1907,,Aktuel værdi
+Skovgade 206320 Egernsund,sund,625.000,13-11-1996,Alm. Salg,4.194,5,Villa,149,1850,,Aktuel værdi
+Lågmajvej 16320 Egernsund,sund,630.000,29-10-1996,Alm. Salg,5.338,5,Villa,118,1950,,Aktuel værdi
+Sundgade 866320 Egernsund,sund,809.742,26-09-1996,Alm. Salg,-,5,Villa,128,1961,,Aktuel værdi
+Fjordvej 176320 Egernsund,sund,467.500,09-09-1996,Fam. Salg,-,2,Sommerhus,50,1900,,Aktuel værdi
+Teglparken 806320 Egernsund,sund,586.900,12-07-1996,Alm. Salg,5.643,3,Villa,104,1979,,Aktuel værdi
+Sundgade 776320 Egernsund,sund,420.000,25-06-1996,Fam. Salg,3.000,7,Villa,140,1959,,Aktuel værdi
+Teglbakken 206320 Egernsund,sund,489.000,24-04-1996,Alm. Salg,6.791,4,Sommerhus,72,1976,,Aktuel værdi
+Solbakken 106320 Egernsund,sund,2.275.000,12-04-1996,Alm. Salg,8.125,8,Villa,280,1973,,Aktuel værdi
+Sundgade 546320 Egernsund,sund,490.000,03-04-1996,Alm. Salg,3.576,4,Villa,137,1998,,Aktuel værdi
+Solbakken 16320 Egernsund,sund,1.960.000,15-03-1996,Alm. Salg,10.594,5,Villa,185,1952,,Aktuel værdi
+Bredmaj 716320 Egernsund,sund,385.000,26-02-1996,Fam. Salg,6.311,4,Sommerhus,61,1974,,Aktuel værdi
+Teglparken 846320 Egernsund,sund,794.579,23-02-1996,Alm. Salg,4.116,5,Villa,193,1979,,Aktuel værdi
+Lågmajvej 236320 Egernsund,sund,666.000,15-02-1996,Alm. Salg,-,5,Villa,185,1870,,Aktuel værdi
+Lågmajvej 186320 Egernsund,sund,477.186,09-02-1996,Fam. Salg,3.268,6,Villa,146,1965,,Aktuel værdi
+Teglbakken 546320 Egernsund,sund,471.862,16-10-1995,Alm. Salg,6.939,3,Sommerhus,68,1977,,Aktuel værdi
+Teglbakken 326320 Egernsund,sund,500.000,18-09-1995,Alm. Salg,-,4,Sommerhus,64,1973,,Aktuel værdi
+Sundgade 396320 Egernsund,sund,390.000,18-09-1995,Alm. Salg,-,6,Villa,220,1942,,Aktuel værdi
+Rendbjergvej 236320 Egernsund,sund,408.000,01-09-1995,Alm. Salg,-,4,Villa,153,1965,,Aktuel værdi
+Reefslagervænget 16320 Egernsund,sund,78.900,12-06-1995,Alm. Salg,584,3,Villa,135,1996,,Aktuel værdi
+Teglbakken 34A6320 Egernsund,sund,90.000,12-06-1995,Alm. Salg,1.551,3,Sommerhus,58,1995,,Aktuel værdi
+Mindevej 66320 Egernsund,sund,1.250.000,12-06-1995,Alm. Salg,7.716,5,Villa,162,1989,,Aktuel værdi
+Benediktesvej 786320 Egernsund,sund,595.000,05-06-1995,Alm. Salg,3.966,5,Villa,150,1972,,Aktuel værdi
+Engvej 116320 Egernsund,sund,410.000,07-03-1995,Alm. Salg,3.565,4,Villa,115,1959,,Aktuel værdi
+Engvej 206320 Egernsund,sund,400.000,12-12-1994,Alm. Salg,4.444,3,Villa,90,1962,,Aktuel værdi
+Havnevej 366320 Egernsund,sund,855.000,18-11-1994,Alm. Salg,4.970,4,Villa,172,1930,,Aktuel værdi
+Teglbakken 146320 Egernsund,sund,400.000,03-11-1994,Alm. Salg,-,5,Sommerhus,82,1973,,Aktuel værdi
+Sundgade 496320 Egernsund,sund,640.000,20-10-1994,Alm. Salg,3.742,4,Villa,171,1926,,Aktuel værdi
+Lågmajvej 86320 Egernsund,sund,362.500,03-10-1994,Alm. Salg,4.073,3,Villa,89,1965,,Aktuel værdi
+Teglbakken 426320 Egernsund,sund,384.512,02-09-1994,Alm. Salg,-,3,Sommerhus,70,1965,,Aktuel værdi
+Sundgade 486320 Egernsund,sund,1.000.000,29-08-1994,Alm. Salg,5.555,6,Villa,180,1882,,Aktuel værdi
+Teglbakken 756320 Egernsund,sund,500.000,09-08-1994,Alm. Salg,6.578,4,Sommerhus,76,1974,,Aktuel værdi
+Sundgade 59A6320 Egernsund,sund,201.558,02-08-1994,Alm. Salg,1.380,5,Villa,146,1966,,Aktuel værdi
+Fyrtårnsvej 36320 Egernsund,sund,419.210,31-05-1994,Fam. Salg,-,4,Villa,114,1963,,Aktuel værdi
+Svinget 246320 Egernsund,sund,545.000,25-02-1994,Alm. Salg,3.114,8,Villa,175,1981,,Aktuel værdi
+Teglbakken 346320 Egernsund,sund,300.000,24-01-1994,Alm. Salg,4.285,4,Sommerhus,70,1967,,Aktuel værdi
+Teglbakken 436320 Egernsund,sund,350.000,09-01-1994,Alm. Salg,-,7,Sommerhus,145,1965,,Aktuel værdi
+Rendbjergvej 216320 Egernsund,sund,1.450.000,07-01-1994,Alm. Salg,5.105,6,Villa,284,1887,,Aktuel værdi
+Fyrtårnsvej 106320 Egernsund,sund,410.000,03-01-1994,Alm. Salg,-,6,Villa,169,1964,,Aktuel værdi
+Teglbakken 616320 Egernsund,sund,443.000,14-12-1993,Alm. Salg,7.383,3,Sommerhus,60,1978,,Aktuel værdi
+Havnevej 66320 Egernsund,sund,355.000,03-12-1993,Alm. Salg,-,6,Villa,229,1864,,Aktuel værdi
+Bredmaj 106320 Egernsund,sund,290.100,04-10-1993,Alm. Salg,5.802,3,Sommerhus,50,1978,,Aktuel værdi
+Svinget 26320 Egernsund,sund,975.000,04-10-1993,Alm. Salg,-,7,Villa,222,1925,,Aktuel værdi
+Benediktesvej 286320 Egernsund,sund,550.000,20-09-1993,Alm. Salg,3.142,6,Villa,175,1970,,Aktuel værdi
+Teglbakken 96320 Egernsund,sund,455.000,19-07-1993,Alm. Salg,6.500,3,Sommerhus,70,1973,,Aktuel værdi
+Sundgade 886320 Egernsund,sund,650.000,31-05-1993,Alm. Salg,2.850,7,Villa,228,1943,,Aktuel værdi
+Bredmaj 416320 Egernsund,sund,370.000,26-05-1993,Alm. Salg,-,5,Sommerhus,106,1977,,Aktuel værdi
+Teglbakken 316320 Egernsund,sund,390.000,06-05-1993,Alm. Salg,-,6,Sommerhus,71,1976,,Aktuel værdi
+Benediktesvej 666320 Egernsund,sund,690.000,05-05-1993,Alm. Salg,4.726,5,Villa,146,1972,,Aktuel værdi
+Reefslagervænget 166320 Egernsund,sund,735.000,19-04-1993,Alm. Salg,3.602,9,Villa,204,1985,,Aktuel værdi
+Teglbakken 46320 Egernsund,sund,150.000,26-01-1993,Andet,2.238,3,Sommerhus,67,2008,,Aktuel værdi
+Sundgade 356320 Egernsund,sund,472.700,23-11-1992,Alm. Salg,-,6,Villa,243,1908,,Aktuel værdi
+Teglparken 426320 Egernsund,sund,380.000,19-11-1992,Alm. Salg,2.533,3,Villa,150,1979,,Aktuel værdi
+Teglbakken 356320 Egernsund,sund,380.000,21-10-1992,Andet,3.877,4,Sommerhus,98,1969,,Aktuel værdi
+Kystvej 76320 Egernsund,sund,1.150.000,02-09-1992,Fam. Salg,4.423,6,Rækkehus,260,1962,,Aktuel værdi
+"Rendbjergvej 19, ST. TV6320 Egernsund",sund,930.000,13-08-1992,Alm. Salg,-,2,Lejlighed,65,1875,,Aktuel værdi
+Teglparken 646320 Egernsund,sund,690.000,22-07-1992,Alm. Salg,3.670,7,Villa,188,1978,,Aktuel værdi
+Æblehaven 136320 Egernsund,sund,765.000,22-05-1992,Alm. Salg,4.026,5,Villa,190,1981,,Aktuel værdi
+Sundgade 59B6320 Egernsund,sund,270.543,01-05-1992,Alm. Salg,1.545,6,Villa,175,1850,,Aktuel værdi
+Teglparken 466320 Egernsund,sund,950.000,08-04-1992,Alm. Salg,5.864,6,Villa,162,1978,,Aktuel værdi
+Fjordvej 56320 Egernsund,sund,495.000,28-03-1992,Alm. Salg,-,4,Villa,120,1959,,Aktuel værdi
+Benediktesvej 106320 Egernsund,sund,725.000,27-03-1992,Alm. Salg,4.769,5,Villa,152,1972,,Aktuel værdi
+Teglparken 86320 Egernsund,sund,630.000,03-02-1992,Alm. Salg,4.468,5,Villa,141,1979,,Aktuel værdi

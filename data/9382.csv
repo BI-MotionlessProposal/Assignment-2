@@ -1,0 +1,526 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Harestien 39382 Tylstrup,trup,690.000,31-03-2017,Alm. Salg,5.267,4,Villa,131,1938,-16 %,Aktuel værdi
+Luneborgvej 3139382 Tylstrup,trup,328.000,30-03-2017,Alm. Salg,1.205,10,Villa,272,1940,-14 %,Aktuel værdi
+Taffelgårdsvej 1159382 Tylstrup,trup,855.000,03-03-2017,Alm. Salg,5.516,6,Villa,155,1942,-9 %,Aktuel værdi
+Ultvedparken 289382 Tylstrup,trup,900.000,23-02-2017,Alm. Salg,6.870,3,Villa,131,1979,,Aktuel værdi
+Gammel Skolevej 29382 Tylstrup,trup,382.500,24-01-2017,Fam. Salg,2.550,4,Villa,150,1963,,Aktuel værdi
+Skovengvej 89382 Tylstrup,trup,532.800,09-01-2017,Alm. Salg,3.946,3,Stuehus,135,1909,,
+Grundtvig Sørensens Vej 119382 Tylstrup,trup,825.000,02-01-2017,Alm. Salg,6.875,4,Villa,120,1940,-8 %,Aktuel værdi
+Stenisengevej 359382 Tylstrup,trup,10.000,23-12-2016,Alm. Salg,53,6,Stuehus,186,1933,,
+Vrå Mark 179382 Tylstrup,trup,1.900.000,22-12-2016,Alm. Salg,8.520,6,Stuehus,223,1959,-5 %,
+Kraghedevej 2109382 Tylstrup,trup,1.690.000,20-12-2016,Alm. Salg,9.234,4,Villa,183,1882,0 %,Aktuel værdi
+L. P. Jacobsens Vej 149382 Tylstrup,trup,355.000,19-12-2016,Alm. Salg,5.071,2,Villa,70,1900,-25 %,Aktuel værdi
+Forsøgsvej 39382 Tylstrup,trup,1.150.000,09-12-2016,Alm. Salg,7.565,5,Villa,152,1942,-8 %,Aktuel værdi
+Harestien 139382 Tylstrup,trup,150.000,06-12-2016,Auktion,1.376,4,Villa,109,1934,,Aktuel værdi
+Klitgårdsvej 199382 Tylstrup,trup,1.300.000,01-12-2016,Alm. Salg,6.190,7,Villa,210,1972,-7 %,Aktuel værdi
+Jens Thises Vej 39382 Tylstrup,trup,1.195.000,03-10-2016,Alm. Salg,7.331,5,Villa,163,1961,0 %,Aktuel værdi
+Luneborgvej 259382 Tylstrup,trup,482.000,21-09-2016,Alm. Salg,4.634,4,Villa,104,1927,-13 %,Aktuel værdi
+Hedensvej 29382 Tylstrup,trup,975.000,14-09-2016,Alm. Salg,8.628,3,Villa,113,1948,0 %,Aktuel værdi
+Luneborgvej 499382 Tylstrup,trup,970.000,29-08-2016,Alm. Salg,9.897,3,Villa,98,1959,-3 %,Aktuel værdi
+Birkholtvej 649382 Tylstrup,trup,2.350.000,12-08-2016,Alm. Salg,6.752,10,Villa,348,1890,-6 %,Aktuel værdi
+Tylstrupvej 469382 Tylstrup,trup,450.000,27-07-2016,Alm. Salg,4.591,3,Villa,98,1906,,Aktuel værdi
+Barbaraskvej 349382 Tylstrup,trup,1.280.000,26-07-2016,Alm. Salg,8.050,5,Stuehus,159,1903,-5 %,
+Vittenbergvej 169382 Tylstrup,trup,445.000,25-07-2016,Alm. Salg,2.317,5,Villa,192,1902,,Aktuel værdi
+Vittenbergvej 199382 Tylstrup,trup,916.728,25-07-2016,Alm. Salg,4.583,6,Stuehus,200,1935,,
+Tylstrup Hedevej 259382 Tylstrup,trup,2.400.000,22-07-2016,Alm. Salg,12.121,4,Stuehus,198,1977,-14 %,
+Bilgårdsvej 389382 Tylstrup,trup,1.065.000,17-07-2016,Alm. Salg,8.875,4,Villa,120,1977,-7 %,Aktuel værdi
+Gammel Skolevej 59382 Tylstrup,trup,1.550.000,26-06-2016,Alm. Salg,10.839,3,Villa,143,1981,,Aktuel værdi
+Ultvedparken 789382 Tylstrup,trup,935.000,16-06-2016,Fam. Salg,5.807,5,Villa,161,1978,,Aktuel værdi
+Enighedsvej 109382 Tylstrup,trup,525.000,14-06-2016,Alm. Salg,3.162,4,Villa,166,1927,,Aktuel værdi
+Klitgårdsvej 409382 Tylstrup,trup,625.000,13-06-2016,Alm. Salg,6.377,3,Villa,98,1957,-10 %,Aktuel værdi
+Langesvej 49382 Tylstrup,trup,640.000,10-06-2016,Alm. Salg,8.000,3,Villa,80,1920,-5 %,Aktuel værdi
+Enighedsvej 139382 Tylstrup,trup,395.000,07-06-2016,Alm. Salg,3.464,3,Villa,114,1964,0 %,Aktuel værdi
+Ultvedparken 1089382 Tylstrup,trup,1.400.000,27-05-2016,Alm. Salg,8.695,7,Villa,161,1979,-6 %,Aktuel værdi
+Luneborgvej 2559382 Tylstrup,trup,1.175.000,26-05-2016,Alm. Salg,7.343,4,Stuehus,160,1913,,
+Grundtvig Sørensens Vej 89382 Tylstrup,trup,1.200.000,18-04-2016,Alm. Salg,5.769,5,Villa,208,1968,,Aktuel værdi
+Bilgårdsvej 19B9382 Tylstrup,trup,1.495.000,11-04-2016,Alm. Salg,13.230,4,Rækkehus,113,2016,0 %,Aktuel værdi
+Bilgårdsvej 209382 Tylstrup,trup,432.000,29-03-2016,Auktion,3.085,5,Villa,140,1977,-46 %,Aktuel værdi
+Luneborgvej 2989382 Tylstrup,trup,645.000,16-03-2016,Alm. Salg,8.062,2,Villa,80,1959,-4 %,Aktuel værdi
+Stenisengevej 199382 Tylstrup,trup,693.085,08-03-2016,Alm. Salg,5.589,4,Villa,124,1921,,Aktuel værdi
+Forsøgsvej 79382 Tylstrup,trup,650.000,25-02-2016,Alm. Salg,3.869,6,Villa,168,1898,-13 %,Aktuel værdi
+Luneborgvej 109382 Tylstrup,trup,935.000,16-02-2016,Alm. Salg,7.192,4,Villa,130,1907,-2 %,Aktuel værdi
+Bilgårdsvej 99382 Tylstrup,trup,450.000,16-02-2016,Alm. Salg,6.923,3,Villa,65,1946,,Aktuel værdi
+Kraghedevej 519382 Tylstrup,trup,825.000,11-02-2016,Alm. Salg,4.435,6,Stuehus,186,1900,,
+Luneborgvej 2749382 Tylstrup,trup,400.000,10-02-2016,Alm. Salg,2.962,5,Villa,135,1935,,Aktuel værdi
+Ultvedparken 369382 Tylstrup,trup,1.092.500,15-12-2015,Fam. Salg,8.092,5,Villa,135,1976,,Aktuel værdi
+Tylstrupparken 149382 Tylstrup,trup,2.275.000,30-11-2015,Alm. Salg,15.582,5,Villa,146,2006,-1 %,Aktuel værdi
+Bilgårdsvej 119382 Tylstrup,trup,500.000,12-10-2015,Alm. Salg,5.555,3,Villa,90,1907,-16 %,Aktuel værdi
+Smalskiftevej 389382 Tylstrup,trup,1.620.000,04-10-2015,Alm. Salg,12.272,5,Stuehus,132,1918,-5 %,
+Klitgårdsvej 69382 Tylstrup,trup,1.390.000,09-09-2015,Alm. Salg,10.775,5,Villa,129,1986,-7 %,Aktuel værdi
+Vildmosevej 3519382 Tylstrup,trup,700.000,07-09-2015,Alm. Salg,4.827,6,Stuehus,145,1930,-30 %,
+Dunbirkevej 29382 Tylstrup,trup,625.000,30-08-2015,Alm. Salg,5.296,4,Villa,118,1961,-21 %,Aktuel værdi
+Kraghedevej 2199382 Tylstrup,trup,250.000,27-08-2015,Alm. Salg,2.688,4,Villa,93,1919,-15 %,Aktuel værdi
+Tylstrupparken 69382 Tylstrup,trup,2.087.500,19-08-2015,Alm. Salg,13.381,6,Villa,156,2001,-3 %,Aktuel værdi
+Hejbækvej 159382 Tylstrup,trup,797.000,18-08-2015,Auktion,3.590,3,Stuehus,222,1910,,
+Luneborgvej 399382 Tylstrup,trup,1.010.336,13-08-2015,Fam. Salg,4.245,6,Villa,238,1933,,Aktuel værdi
+Brændskovvej 119382 Tylstrup,trup,1.295.000,07-07-2015,Alm. Salg,6.475,6,Villa,200,1974,-7 %,Aktuel værdi
+Luneborgvej 879382 Tylstrup,trup,464.000,15-06-2015,Alm. Salg,3.093,3,Villa,150,1932,,Aktuel værdi
+"Luneborgvej 284, ST. TH9382 Tylstrup",trup,1.075.000,12-06-2015,Alm. Salg,7.624,4,Stuehus,141,1920,-7 %,
+Sølvpoppelvej 59382 Tylstrup,trup,550.000,01-06-2015,Alm. Salg,4.661,4,Villa,118,1962,-21 %,Aktuel værdi
+Skovmarkvej 219382 Tylstrup,trup,150.000,30-04-2015,Alm. Salg,819,6,Stuehus,183,1968,,
+Taffelgårdsvej 1689382 Tylstrup,trup,6.639.995,17-04-2015,Alm. Salg,41.242,5,Stuehus,161,1934,,
+Luneborgvej 2909382 Tylstrup,trup,548.000,24-03-2015,Alm. Salg,5.535,3,Villa,99,1953,0 %,Aktuel værdi
+Albert Dams Vej 89382 Tylstrup,trup,850.000,19-03-2015,Alm. Salg,6.343,4,Villa,134,1970,-5 %,Aktuel værdi
+Rødbøgevej 69382 Tylstrup,trup,850.000,19-02-2015,Alm. Salg,6.967,4,Villa,122,1963,0 %,Aktuel værdi
+Luneborgvej 1649382 Tylstrup,trup,175.000,12-02-2015,Alm. Salg,1.944,3,Villa,90,1942,-41 %,Aktuel værdi
+Klitgårdsvej 169382 Tylstrup,trup,930.000,23-01-2015,Alm. Salg,6.549,4,Villa,142,1970,,Aktuel værdi
+Gammel Vråvej 679382 Tylstrup,trup,6.000.000,16-01-2015,Fam. Salg,34.090,6,Stuehus,176,1967,,
+Kraghedevej 1869382 Tylstrup,trup,902.500,11-12-2014,Alm. Salg,6.837,4,Villa,132,1924,-14 %,Aktuel værdi
+Luneborgvej 819382 Tylstrup,trup,200.000,06-11-2014,Alm. Salg,1.388,5,Villa,144,1926,,Aktuel værdi
+Vestergårdsgade 159382 Tylstrup,trup,3.450.000,04-11-2014,Alm. Salg,18.548,7,Stuehus,186,1777,-4 %,
+Ultvedparken 629382 Tylstrup,trup,1.100.000,31-10-2014,Alm. Salg,8.593,4,Villa,128,1980,-4 %,Aktuel værdi
+Hedensvej 19382 Tylstrup,trup,1.160.000,30-10-2014,Alm. Salg,9.280,4,Villa,125,1948,-3 %,Aktuel værdi
+Kraghedevej 3119382 Tylstrup,trup,600.000,24-09-2014,Alm. Salg,4.761,3,Stuehus,126,1878,,
+Luneborgvej 1799382 Tylstrup,trup,625.000,23-09-2014,Alm. Salg,4.464,4,Villa,140,1925,,Aktuel værdi
+Luneborgvej 219382 Tylstrup,trup,745.000,22-09-2014,Alm. Salg,7.163,3,Villa,104,1929,-6 %,Aktuel værdi
+Ultvedparken 649382 Tylstrup,trup,660.000,17-09-2014,Fam. Salg,6.470,4,Villa,102,1979,,Aktuel værdi
+Bilgårdsvej 609382 Tylstrup,trup,465.000,20-08-2014,Fam. Salg,4.115,4,Villa,113,1967,,Aktuel værdi
+Brandborgvej 29382 Tylstrup,trup,1.100.000,28-07-2014,Alm. Salg,9.016,3,Villa,122,1950,-6 %,Aktuel værdi
+Dunbirkevej 79382 Tylstrup,trup,646.000,21-07-2014,Fam. Salg,5.168,4,Villa,125,1963,,Aktuel værdi
+Mølledamsvej 59382 Tylstrup,trup,750.000,14-07-2014,Alm. Salg,7.075,4,Villa,106,1974,,Aktuel værdi
+Luneborgvej 709382 Tylstrup,trup,925.000,05-07-2014,Alm. Salg,5.709,3,Villa,162,1900,-12 %,Aktuel værdi
+Bilgårdsvej 529382 Tylstrup,trup,1.275.000,30-06-2014,Alm. Salg,8.333,5,Villa,153,1976,-2 %,Aktuel værdi
+Luneborgvej 1149382 Tylstrup,trup,632.500,01-05-2014,Alm. Salg,6.950,3,Villa,91,1926,,Aktuel værdi
+Luneborgvej 3109382 Tylstrup,trup,2.864.828,01-05-2014,Alm. Salg,49.393,12,Servicevirksomhed,58,1927,,Aktuel værdi
+Luneborgvej 209382 Tylstrup,trup,750.000,01-05-2014,Alm. Salg,3.906,5,Villa,192,1908,-16 %,Aktuel værdi
+Vesterholtvej 79382 Tylstrup,trup,568.000,24-04-2014,Alm. Salg,6.528,3,Stuehus,87,1911,,
+Rødbøgevej 109382 Tylstrup,trup,720.000,15-04-2014,Alm. Salg,6.315,4,Villa,114,1962,,Aktuel værdi
+Tylstrupvej 479382 Tylstrup,trup,450.000,23-03-2014,Alm. Salg,3.982,4,Villa,113,1906,-9 %,Aktuel værdi
+Forsøgsvej 30A9382 Tylstrup,trup,1.000.000,30-01-2014,Alm. Salg,7.575,3,Rækkehus,132,1870,,Aktuel værdi
+Harestien 69382 Tylstrup,trup,680.000,30-01-2014,Alm. Salg,5.151,4,Villa,132,1930,-2 %,Aktuel værdi
+Ultvedvej 59382 Tylstrup,trup,398.000,06-01-2014,Alm. Salg,3.618,3,Villa,110,1932,0 %,Aktuel værdi
+Rødbøgevej 99382 Tylstrup,trup,1.400.000,16-12-2013,Alm. Salg,8.045,5,Villa,174,1965,-6 %,Aktuel værdi
+Luneborgvej 2499382 Tylstrup,trup,657.250,06-10-2013,Fam. Salg,4.324,5,Villa,152,1931,,Aktuel værdi
+Bilgårdsvej 39382 Tylstrup,trup,150.000,28-09-2013,Alm. Salg,967,3,Villa,155,2015,,Aktuel værdi
+Søndervang 19382 Tylstrup,trup,950.000,27-09-2013,Alm. Salg,8.796,4,Villa,108,1948,-5 %,Aktuel værdi
+Magnus Rix Vej 29382 Tylstrup,trup,200.000,02-09-2013,Alm. Salg,1.652,4,Villa,121,1932,-33 %,Aktuel værdi
+Tylstrup Hedevej 49382 Tylstrup,trup,775.000,29-08-2013,Alm. Salg,5.065,6,Stuehus,153,1976,,
+Brændskovvej 89382 Tylstrup,trup,585.000,23-08-2013,Andet,4.756,4,Villa,123,1900,-55 %,Aktuel værdi
+Luneborgvej 1109382 Tylstrup,trup,800.000,22-08-2013,Alm. Salg,6.349,4,Villa,126,1972,-5 %,Aktuel værdi
+Luneborgvej 3069382 Tylstrup,trup,2.448.400,08-08-2013,Alm. Salg,13.023,7,Villa,188,1973,,Aktuel værdi
+Luneborgvej 2029382 Tylstrup,trup,648.026,05-07-2013,Alm. Salg,3.176,7,Villa,204,1920,,Aktuel værdi
+Tylstrupparken 39382 Tylstrup,trup,1.700.000,02-07-2013,Alm. Salg,10.625,5,Villa,160,1999,-5 %,Aktuel værdi
+Bilgårdsvej 569382 Tylstrup,trup,980.000,20-06-2013,Alm. Salg,6.621,5,Villa,148,1971,-11 %,Aktuel værdi
+Ålborgvej 4409382 Tylstrup,trup,23.000.000,18-06-2013,Auktion,69.696,8,Stuehus,330,1910,,
+Bilgårdsvej 469382 Tylstrup,trup,900.000,11-06-2013,Alm. Salg,5.294,5,Villa,170,1966,-16 %,Aktuel værdi
+Hejbækvej 909382 Tylstrup,trup,1.210.000,23-05-2013,Alm. Salg,8.962,5,Stuehus,135,1918,-7 %,
+Tylstrup Nørrehede 159382 Tylstrup,trup,23.000.000,21-05-2013,Auktion,129.213,6,Stuehus,178,1927,,
+Ultvedvej 69382 Tylstrup,trup,675.000,28-04-2013,Alm. Salg,4.655,5,Villa,145,1912,-3 %,Aktuel værdi
+Tylstrupvej 49382 Tylstrup,trup,493.628,31-01-2013,Alm. Salg,3.525,7,Stuehus,140,1953,,
+Klitgårdsvej 149382 Tylstrup,trup,685.000,28-01-2013,Alm. Salg,7.611,3,Villa,90,1969,,Aktuel værdi
+Nejstvej 1059382 Tylstrup,trup,500.000,10-01-2013,Alm. Salg,7.142,4,Villa,70,1900,-5 %,Aktuel værdi
+Tylstrup Hedevej 19382 Tylstrup,trup,1.400.000,19-12-2012,Alm. Salg,6.392,6,Villa,219,2003,-22 %,Aktuel værdi
+Grundtvig Sørensens Vej 69382 Tylstrup,trup,540.000,27-11-2012,Alm. Salg,4.909,4,Villa,110,1958,,Aktuel værdi
+Nejstvej 1169382 Tylstrup,trup,929.097,09-11-2012,Fam. Salg,4.361,6,Stuehus,213,2014,,
+Arendrupsvej 129382 Tylstrup,trup,270.000,04-10-2012,Alm. Salg,3.139,3,Villa,86,1907,-44 %,Aktuel værdi
+Jens Thises Vej 69382 Tylstrup,trup,560.000,06-09-2012,Alm. Salg,8.615,3,Villa,65,1956,-14 %,Aktuel værdi
+Luneborgvej 519382 Tylstrup,trup,531.850,30-08-2012,Auktion,4.469,4,Villa,119,1930,,Aktuel værdi
+Ultvedvej 149382 Tylstrup,trup,875.000,24-08-2012,Alm. Salg,6.034,4,Villa,145,1971,-12 %,Aktuel værdi
+Klitgårdsvej 129382 Tylstrup,trup,820.000,16-08-2012,Alm. Salg,6.776,4,Villa,121,1969,-8 %,Aktuel værdi
+Taffelgårdsvej 889382 Tylstrup,trup,20.684.120,16-08-2012,Alm. Salg,-,3,Stuehus,172,1933,,
+Tylstrupvej 459382 Tylstrup,trup,595.000,13-07-2012,Alm. Salg,6.467,2,Villa,92,1920,-8 %,Aktuel værdi
+Luneborgvej 189382 Tylstrup,trup,1.325.000,09-07-2012,Alm. Salg,7.934,5,Villa,167,1928,-12 %,Aktuel værdi
+Ultvedparken 909382 Tylstrup,trup,542.809,05-07-2012,Alm. Salg,5.072,4,Villa,107,1981,,Aktuel værdi
+Forsøgsvej 299382 Tylstrup,trup,750.000,28-06-2012,Alm. Salg,6.250,5,Villa,120,1973,-2 %,Aktuel værdi
+Tylstrupparken 129382 Tylstrup,trup,1.800.000,30-05-2012,Alm. Salg,12.000,5,Villa,150,2001,-10 %,Aktuel værdi
+Luneborgvej 889382 Tylstrup,trup,530.000,15-05-2012,Alm. Salg,4.206,4,Villa,126,1910,-11 %,Aktuel værdi
+Bilgårdsvej 309382 Tylstrup,trup,990.000,08-05-2012,Alm. Salg,7.279,4,Villa,136,1972,-10 %,Aktuel værdi
+Stenisengevej 169382 Tylstrup,trup,110.000,01-05-2012,Auktion,814,4,Villa,135,1937,,Aktuel værdi
+Luneborgvej 249382 Tylstrup,trup,1.020.000,27-04-2012,Alm. Salg,6.845,5,Villa,149,1963,-7 %,Aktuel værdi
+Rødbøgevej 89382 Tylstrup,trup,770.000,13-04-2012,Alm. Salg,6.814,4,Villa,113,1962,0 %,Aktuel værdi
+Nejstvej 1109382 Tylstrup,trup,1.525.000,27-03-2012,Alm. Salg,9.472,5,Villa,161,1923,-4 %,Aktuel værdi
+Tylstrupparken 169382 Tylstrup,trup,1.900.000,13-03-2012,Alm. Salg,12.500,5,Villa,152,2004,-5 %,Aktuel værdi
+Luneborgvej 289382 Tylstrup,trup,650.000,08-03-2012,Alm. Salg,4.391,8,Villa,148,1952,-7 %,Aktuel værdi
+Kraghedevej 2099382 Tylstrup,trup,1.115.000,15-02-2012,Alm. Salg,6.676,6,Villa,167,1900,-10 %,Aktuel værdi
+Grundtvig Sørensens Vej 159382 Tylstrup,trup,833.000,31-01-2012,Fam. Salg,5.409,6,Stuehus,154,1960,,
+Kæragerholmvej 69382 Tylstrup,trup,900.000,02-01-2012,Alm. Salg,6.818,4,Villa,132,1958,-10 %,Aktuel værdi
+Luneborgvej 1089382 Tylstrup,trup,850.000,20-12-2011,Alm. Salg,4.913,4,Villa,173,1975,,Aktuel værdi
+Askvej 39382 Tylstrup,trup,1.260.000,10-12-2011,Alm. Salg,8.456,5,Villa,149,1961,-10 %,Aktuel værdi
+Ultvedvej 79382 Tylstrup,trup,1.210.000,27-10-2011,Alm. Salg,16.805,5,Villa,72,1932,-7 %,Aktuel værdi
+Luneborgvej 299382 Tylstrup,trup,519.300,17-10-2011,Fam. Salg,4.720,3,Villa,110,1927,,Aktuel værdi
+Luneborgvej 479382 Tylstrup,trup,385.000,15-09-2011,Alm. Salg,2.984,5,Villa,129,1900,-22 %,Aktuel værdi
+Luneborgvej 2759382 Tylstrup,trup,860.000,31-08-2011,Alm. Salg,5.512,5,Villa,156,1960,-10 %,Aktuel værdi
+Luneborgvej 1909382 Tylstrup,trup,600.000,29-07-2011,Andet,12.000,2,Rækkehus,50,1900,,Aktuel værdi
+Tylstrupvej 309382 Tylstrup,trup,800.000,18-07-2011,Alm. Salg,7.407,4,Villa,108,1972,-3 %,Aktuel værdi
+Arendrupsvej 39382 Tylstrup,trup,725.000,13-07-2011,Alm. Salg,7.880,4,Villa,92,1900,,Aktuel værdi
+Luneborgvej 2729382 Tylstrup,trup,650.000,22-06-2011,Alm. Salg,3.823,5,Villa,170,1934,,Aktuel værdi
+Enighedsvej 159382 Tylstrup,trup,710.000,16-06-2011,Alm. Salg,5.107,6,Villa,139,1969,-11 %,Aktuel værdi
+Luneborgvej 1809382 Tylstrup,trup,1.175.000,26-05-2011,Auktion,5.021,6,Stuehus,234,1913,,
+Gammel Skolevej 139382 Tylstrup,trup,900.000,13-05-2011,Alm. Salg,6.250,5,Villa,144,1969,-10 %,Aktuel værdi
+Ultvedparken 569382 Tylstrup,trup,615.000,07-05-2011,Alm. Salg,6.833,3,Villa,90,1984,-9 %,Aktuel værdi
+Vestergårdsgade 179382 Tylstrup,trup,950.095,25-03-2011,Alm. Salg,3.518,9,Villa,270,1872,,Aktuel værdi
+Kraghedevej 2159382 Tylstrup,trup,205.000,08-03-2011,Auktion,764,9,Villa,268,1919,,Aktuel værdi
+L. P. Jacobsens Vej 89382 Tylstrup,trup,525.000,17-02-2011,Alm. Salg,4.338,4,Villa,121,1944,,Aktuel værdi
+Hedensvej 69382 Tylstrup,trup,750.000,15-02-2011,Alm. Salg,5.000,5,Villa,150,1961,-6 %,Aktuel værdi
+Luneborgvej 3409382 Tylstrup,trup,1.475.000,15-02-2011,Alm. Salg,8.060,6,Villa,183,1933,0 %,Aktuel værdi
+Bilgårdsvej 589382 Tylstrup,trup,750.000,10-02-2011,Fam. Salg,6.465,4,Villa,116,1966,-21 %,Aktuel værdi
+Luneborgvej 349382 Tylstrup,trup,550.000,17-01-2011,Alm. Salg,4.583,4,Villa,120,1910,-8 %,Aktuel værdi
+Tylstrup Hedevej 219382 Tylstrup,trup,415.440,07-01-2011,Alm. Salg,3.323,3,Villa,125,1902,,Aktuel værdi
+Dunbirkevej 59382 Tylstrup,trup,850.000,03-01-2011,Alm. Salg,6.071,5,Villa,140,1966,-5 %,Aktuel værdi
+Bilgårdsvej 19D9382 Tylstrup,trup,187.500,27-12-2010,Alm. Salg,956,5,Villa,196,2013,,Aktuel værdi
+Bilgårdsvej 19E9382 Tylstrup,trup,350.000,27-12-2010,Alm. Salg,1.842,6,Villa,190,2014,,Aktuel værdi
+Mølledamsvej 49382 Tylstrup,trup,895.000,07-12-2010,Alm. Salg,6.679,5,Villa,134,1958,-10 %,Aktuel værdi
+Luneborgvej 999382 Tylstrup,trup,740.000,04-10-2010,Alm. Salg,4.065,6,Villa,182,1953,-26 %,Aktuel værdi
+L. P. Jacobsens Vej 129382 Tylstrup,trup,319.500,04-10-2010,Andet,2.904,3,Villa,110,1951,,Aktuel værdi
+Stenisengevej 399382 Tylstrup,trup,1.143.750,27-09-2010,Fam. Salg,5.446,5,Stuehus,210,1930,,
+Ultvedvej 359382 Tylstrup,trup,675.000,21-09-2010,Alm. Salg,3.497,4,Villa,193,1877,,Aktuel værdi
+Hedensvej 79382 Tylstrup,trup,595.000,20-09-2010,Alm. Salg,5.173,6,Villa,115,1966,0 %,Aktuel værdi
+Birkholtvej 289382 Tylstrup,trup,2.493.000,18-08-2010,Alm. Salg,9.199,7,Stuehus,271,1912,0 %,
+Brændskovvej 109382 Tylstrup,trup,1.250.000,02-08-2010,Alm. Salg,5.387,8,Villa,232,1906,0 %,Aktuel værdi
+Vittenbergvej 489382 Tylstrup,trup,145.613,12-07-2010,Alm. Salg,343,9,Stuehus,424,1903,,
+Arendrupsvej 109382 Tylstrup,trup,1.025.000,07-07-2010,Alm. Salg,8.007,3,Villa,128,1912,-6 %,Aktuel værdi
+Luneborgvej 3049382 Tylstrup,trup,1.600.000,02-07-2010,Alm. Salg,6.201,8,Villa,258,1957,,Aktuel værdi
+Tylstrupvej 359382 Tylstrup,trup,1.400.000,30-06-2010,Alm. Salg,9.090,6,Villa,154,1940,0 %,Aktuel værdi
+Bilgårdsvej 129382 Tylstrup,trup,210.000,29-06-2010,Alm. Salg,1.680,4,Villa,125,2013,,Aktuel værdi
+Kraghedevej 2259382 Tylstrup,trup,370.000,08-06-2010,Auktion,2.466,5,Villa,150,1924,-71 %,Aktuel værdi
+Luneborgvej 1259382 Tylstrup,trup,1.250.000,26-05-2010,Alm. Salg,9.842,3,Villa,127,1935,,Aktuel værdi
+Gammel Vråvej 669382 Tylstrup,trup,13.685.000,20-05-2010,Alm. Salg,180.065,25,Servicevirksomhed,76,1632,,Aktuel værdi
+Rødbøgevej 29382 Tylstrup,trup,695.000,07-05-2010,Fam. Salg,7.393,3,Villa,94,1964,0 %,Aktuel værdi
+Gammel Skolevej 19382 Tylstrup,trup,300.000,04-05-2010,Alm. Salg,6.250,2,Villa,48,1942,,Aktuel værdi
+Magnus Rix Vej 49382 Tylstrup,trup,750.000,26-03-2010,Auktion,6.410,5,Villa,117,1932,-11 %,Aktuel værdi
+Luneborgvej 2509382 Tylstrup,trup,7.539.999,02-02-2010,Alm. Salg,36.601,6,Stuehus,206,1930,,
+Tylstrupparken 29382 Tylstrup,trup,250.000,27-01-2010,Alm. Salg,1.562,5,Villa,160,2015,,Aktuel værdi
+Kæragerholmvej 99382 Tylstrup,trup,495.000,26-01-2010,Alm. Salg,6.346,3,Villa,78,1897,0 %,Aktuel værdi
+Rødbøgevej 79382 Tylstrup,trup,700.000,20-01-2010,Alm. Salg,5.882,4,Villa,119,1966,-7 %,Aktuel værdi
+Albert Dams Vej 99382 Tylstrup,trup,1.200.000,15-01-2010,Alm. Salg,5.607,8,Villa,214,1973,-4 %,Aktuel værdi
+Gammel Skolevej 79382 Tylstrup,trup,560.450,03-12-2009,Alm. Salg,4.412,4,Villa,127,1964,,Aktuel værdi
+Luneborgvej 1609382 Tylstrup,trup,600.000,18-11-2009,Alm. Salg,6.122,3,Villa,98,1902,,Aktuel værdi
+Arendrupsvej 79382 Tylstrup,trup,340.000,12-11-2009,Alm. Salg,3.035,4,Villa,112,1937,,Aktuel værdi
+Forsøgsvej 30B9382 Tylstrup,trup,1.175.000,02-11-2009,Auktion,4.519,8,Rækkehus,260,1870,,Aktuel værdi
+"Forsøgsvej 30C, 19382 Tylstrup",trup,1.175.000,02-11-2009,Auktion,12.500,2,Lejlighed,94,1907,,Aktuel værdi
+"Forsøgsvej 30C, ST9382 Tylstrup",trup,1.175.000,02-11-2009,Auktion,12.368,3,Lejlighed,95,1907,,Aktuel værdi
+Hjallerupvej 589382 Tylstrup,trup,12.300.000,29-09-2009,Alm. Salg,84.246,5,Villa,146,1979,,Aktuel værdi
+Ultvedparken 869382 Tylstrup,trup,900.000,14-08-2009,Alm. Salg,9.278,3,Villa,97,1979,-4 %,Aktuel værdi
+Klitgårdsvej 189382 Tylstrup,trup,1.000.000,02-07-2009,Alm. Salg,6.802,4,Villa,147,1970,-9 %,Aktuel værdi
+Ultvedparken 709382 Tylstrup,trup,1.250.000,26-06-2009,Alm. Salg,7.716,4,Villa,162,1978,-10 %,Aktuel værdi
+Barbaraskvej 249382 Tylstrup,trup,600.000,22-06-2009,Alm. Salg,6.185,3,Stuehus,97,1948,-8 %,
+Nørre Halne Engvej 109382 Tylstrup,trup,775.000,12-06-2009,Alm. Salg,6.250,5,Villa,124,1967,,Aktuel værdi
+Vittenbergvej 209382 Tylstrup,trup,850.000,02-06-2009,Alm. Salg,7.522,3,Villa,113,1907,-15 %,Aktuel værdi
+Kraghedevej 1879382 Tylstrup,trup,720.000,26-05-2009,Alm. Salg,2.727,7,Villa,264,1912,-71 %,Aktuel værdi
+Luneborgvej 239382 Tylstrup,trup,750.000,21-05-2009,Alm. Salg,8.064,3,Villa,93,1929,-6 %,Aktuel værdi
+L. P. Jacobsens Vej 29382 Tylstrup,trup,2.400.000,29-04-2009,Alm. Salg,14.117,6,Villa,170,1999,,Aktuel værdi
+Luneborgvej 659382 Tylstrup,trup,1.275.000,23-04-2009,Fam. Salg,4.505,8,Villa,283,1900,0 %,Aktuel værdi
+Brandborgvej 89382 Tylstrup,trup,1.275.000,23-04-2009,Fam. Salg,9.444,5,Villa,135,1967,,Aktuel værdi
+Stenisengevej 419382 Tylstrup,trup,600.000,14-04-2009,Fam. Salg,3.571,5,Villa,168,2009,,Aktuel værdi
+Søndervang 59382 Tylstrup,trup,500.000,23-02-2009,Alm. Salg,2.840,7,Villa,176,1952,,Aktuel værdi
+Taffelgårdsvej 649382 Tylstrup,trup,3.535.380,05-02-2009,Alm. Salg,18.130,8,Stuehus,195,1927,,
+Ultvedparken 829382 Tylstrup,trup,1.100.000,16-01-2009,Alm. Salg,6.214,6,Villa,177,1977,,Aktuel værdi
+Kraghedevej 1639382 Tylstrup,trup,3.273.060,15-01-2009,Alm. Salg,12.397,6,Stuehus,264,2011,,
+Grundtvig Sørensens Vej 79382 Tylstrup,trup,375.000,01-01-2009,Alm. Salg,7.352,2,Villa,51,1933,,Aktuel værdi
+Tylstrupvej 329382 Tylstrup,trup,2.300.000,15-12-2008,Alm. Salg,13.450,5,Villa,171,1936,,Aktuel værdi
+Dunbirkevej 49382 Tylstrup,trup,675.000,11-12-2008,Alm. Salg,6.136,5,Villa,110,1962,-15 %,Aktuel værdi
+Arendrupsvej 59382 Tylstrup,trup,435.000,10-10-2008,Alm. Salg,3.480,4,Villa,125,1910,-27 %,Aktuel værdi
+Bilgårdsvej 549382 Tylstrup,trup,1.398.000,25-09-2008,Alm. Salg,9.914,4,Villa,141,1975,0 %,Aktuel værdi
+Mølledamsvej 39382 Tylstrup,trup,1.350.000,15-09-2008,Alm. Salg,8.181,5,Villa,165,1973,-3 %,Aktuel værdi
+Luneborgvej 969382 Tylstrup,trup,1.300.000,14-09-2008,Fam. Salg,11.403,3,Villa,114,1953,,Aktuel værdi
+Frihedsvej 39382 Tylstrup,trup,1.150.000,10-09-2008,Alm. Salg,-,6,Villa,232,1979,-8 %,Aktuel værdi
+Ultvedvej 369382 Tylstrup,trup,2.350.000,29-08-2008,Alm. Salg,10.930,6,Stuehus,215,1887,,
+Ultvedparken 969382 Tylstrup,trup,1.125.000,30-04-2008,Alm. Salg,10.135,3,Villa,111,1980,,Aktuel værdi
+Vesterholtvej 359382 Tylstrup,trup,1.000.000,29-04-2008,Alm. Salg,8.474,5,Villa,118,1914,-16 %,Aktuel værdi
+Kraghedevej 2789382 Tylstrup,trup,150.000,28-04-2008,Alm. Salg,1.219,5,Stuehus,123,1930,,
+Bilgårdsvej 19G9382 Tylstrup,trup,1.692.205,23-04-2008,Alm. Salg,14.975,5,Rækkehus,113,2008,,Aktuel værdi
+Bilgårdsvej 19F9382 Tylstrup,trup,1.543.230,23-04-2008,Alm. Salg,13.656,3,Rækkehus,113,2008,,Aktuel værdi
+Ultvedparken 1029382 Tylstrup,trup,925.000,22-04-2008,Alm. Salg,7.400,4,Villa,125,1981,-23 %,Aktuel værdi
+Kraghedevej 1859382 Tylstrup,trup,550.000,07-04-2008,Alm. Salg,2.925,7,Villa,188,1900,-8 %,Aktuel værdi
+Luneborgvej 1079382 Tylstrup,trup,3.100.000,12-03-2008,Andet,16.315,6,Villa,190,1974,,Aktuel værdi
+Skovmarkvej 159382 Tylstrup,trup,1.202.000,15-02-2008,Alm. Salg,-,7,Stuehus,238,1927,,
+Hedestien 39382 Tylstrup,trup,700.000,31-01-2008,Alm. Salg,4.487,5,Villa,156,1949,-7 %,Aktuel værdi
+Albert Dams Vej 149382 Tylstrup,trup,1.210.000,03-01-2008,Alm. Salg,8.642,4,Villa,140,1975,0 %,Aktuel værdi
+Luneborgvej 1699382 Tylstrup,trup,1.365.000,18-12-2007,Alm. Salg,8.750,4,Villa,156,1950,-2 %,Aktuel værdi
+Ultvedparken 729382 Tylstrup,trup,1.130.000,17-12-2007,Alm. Salg,8.897,4,Villa,127,1978,-3 %,Aktuel værdi
+Skarvadvej 1609382 Tylstrup,trup,3.870.000,05-12-2007,Fam. Salg,19.846,7,Stuehus,195,1890,,
+Jens Thises Vej 109382 Tylstrup,trup,670.000,29-11-2007,Alm. Salg,7.701,3,Villa,87,1952,-4 %,Aktuel værdi
+Tylstrup Landevej 29382 Tylstrup,trup,1.775.000,10-11-2007,Alm. Salg,7.650,6,Villa,232,2006,-1 %,Aktuel værdi
+Ultvedparken 69382 Tylstrup,trup,1.362.500,07-11-2007,Alm. Salg,7.486,6,Villa,182,1978,-2 %,Aktuel værdi
+Tylstrupvej 269382 Tylstrup,trup,900.000,24-10-2007,Alm. Salg,-,7,Villa,220,1944,,Aktuel værdi
+Brændskovvej 19382 Tylstrup,trup,1.045.000,12-10-2007,Alm. Salg,5.048,7,Villa,207,1946,-9 %,Aktuel værdi
+Luneborgvej 669382 Tylstrup,trup,795.000,03-10-2007,Alm. Salg,6.625,5,Villa,120,1915,0 %,Aktuel værdi
+Klitgårdsvej 79382 Tylstrup,trup,1.059.000,27-09-2007,Alm. Salg,6.745,5,Villa,157,1971,-4 %,Aktuel værdi
+Gammel Skolevej 229382 Tylstrup,trup,1.895.000,10-09-2007,Alm. Salg,10.890,5,Villa,174,1997,,Aktuel værdi
+Ultvedparken 409382 Tylstrup,trup,1.000.000,07-09-2007,Alm. Salg,7.812,4,Villa,128,1977,-11 %,Aktuel værdi
+Grundtvig Sørensens Vej 59382 Tylstrup,trup,1.095.000,29-05-2007,Alm. Salg,6.843,5,Villa,160,1954,0 %,Aktuel værdi
+Luneborgvej 369382 Tylstrup,trup,895.000,25-04-2007,Alm. Salg,8.364,4,Villa,107,1919,,Aktuel værdi
+Klitgårdsvej 29382 Tylstrup,trup,1.200.000,13-04-2007,Alm. Salg,8.823,4,Villa,136,1972,,Aktuel værdi
+Luneborgvej 899382 Tylstrup,trup,640.000,04-04-2007,Andet,7.356,2,Villa,87,1932,,Aktuel værdi
+Enighedsvej 99382 Tylstrup,trup,508.000,26-03-2007,Alm. Salg,4.000,4,Villa,127,1956,,Aktuel værdi
+Stenisengevej 259382 Tylstrup,trup,17.300.000,15-03-2007,Alm. Salg,92.021,6,Stuehus,188,1919,,
+Luneborgvej 429382 Tylstrup,trup,500.000,02-02-2007,Auktion,4.201,5,Villa,119,1932,-43 %,Aktuel værdi
+Stenisengevej 539382 Tylstrup,trup,525.000,13-12-2006,Alm. Salg,3.343,5,Villa,157,1920,,Aktuel værdi
+Luneborgvej 3149382 Tylstrup,trup,518.500,07-12-2006,Fam. Salg,4.548,4,Stuehus,114,1927,,
+Bilgårdsvej 669382 Tylstrup,trup,1.060.000,17-11-2006,Alm. Salg,7.464,5,Villa,142,1969,,Aktuel værdi
+Dunbirkevej 109382 Tylstrup,trup,1.125.000,06-11-2006,Alm. Salg,8.272,5,Villa,136,1965,,Aktuel værdi
+Luneborgvej 339382 Tylstrup,trup,995.000,05-11-2006,Alm. Salg,6.633,5,Villa,150,1942,,Aktuel værdi
+Luneborgvej 1189382 Tylstrup,trup,795.000,05-11-2006,Alm. Salg,7.162,3,Villa,111,1958,,Aktuel værdi
+Bilgårdsvej 159382 Tylstrup,trup,1.495.000,01-11-2006,Alm. Salg,9.228,5,Villa,162,1979,,Aktuel værdi
+Bilgårdsvej 19A9382 Tylstrup,trup,1.800.000,22-10-2006,Alm. Salg,15.000,6,Villa,120,1776,,Aktuel værdi
+Tylstrup Hedevej 179382 Tylstrup,trup,1.040.000,17-10-2006,Fam. Salg,6.380,6,Stuehus,163,1900,,
+Gammel Skolevej 189382 Tylstrup,trup,700.000,17-10-2006,Alm. Salg,5.263,3,Villa,133,1877,,Aktuel værdi
+Luneborgvej 2219382 Tylstrup,trup,1.495.000,12-10-2006,Alm. Salg,11.325,4,Villa,132,1900,,Aktuel værdi
+Tylstrup Landevej 109382 Tylstrup,trup,800.000,29-09-2006,Alm. Salg,4.848,7,Villa,165,1912,,Aktuel værdi
+Tylstrup Landevej 809382 Tylstrup,trup,4.250.000,08-09-2006,Alm. Salg,30.575,4,Stuehus,139,1974,,
+Luneborgvej 469382 Tylstrup,trup,1.580.000,24-08-2006,Alm. Salg,11.969,3,Villa,132,1942,,Aktuel værdi
+Rolighedsvej 479382 Tylstrup,trup,536.543,08-08-2006,Alm. Salg,2.780,4,Villa,193,2008,,Aktuel værdi
+Tylstrupvej 499382 Tylstrup,trup,640.000,02-08-2006,Alm. Salg,6.400,4,Villa,100,1909,,Aktuel værdi
+Jens Thises Vej 29382 Tylstrup,trup,750.000,20-07-2006,Alm. Salg,9.375,3,Villa,80,1956,,Aktuel værdi
+L. P. Jacobsens Vej 109382 Tylstrup,trup,908.000,20-07-2006,Alm. Salg,8.647,4,Villa,105,1980,,Aktuel værdi
+Bilgårdsvej 509382 Tylstrup,trup,1.000.000,11-07-2006,Alm. Salg,6.535,5,Villa,153,1974,,Aktuel værdi
+Tylstrup Nørrehede 59382 Tylstrup,trup,3.000.000,27-06-2006,Alm. Salg,20.408,5,Stuehus,147,1997,,
+Luneborgvej 699382 Tylstrup,trup,1.740.982,02-06-2006,Alm. Salg,9.672,6,Villa,180,1920,,Aktuel værdi
+Ultvedparken 89382 Tylstrup,trup,1.005.000,01-06-2006,Alm. Salg,8.040,5,Villa,125,1977,,Aktuel værdi
+Brændskovvej 179382 Tylstrup,trup,1.700.000,24-05-2006,Alm. Salg,13.281,4,Stuehus,128,1965,,
+Klitgårdsvej 379382 Tylstrup,trup,725.000,17-05-2006,Alm. Salg,6.590,3,Villa,110,1957,,Aktuel værdi
+Smalskiftevej 509382 Tylstrup,trup,1.300.000,11-05-2006,Fam. Salg,5.158,7,Villa,252,1927,,Aktuel værdi
+Luneborgvej 2419382 Tylstrup,trup,365.000,10-05-2006,Alm. Salg,1.644,5,Villa,222,2008,,Aktuel værdi
+Vestergårdsgade 29382 Tylstrup,trup,730.000,28-04-2006,Alm. Salg,6.517,4,Villa,112,1912,,Aktuel værdi
+Luneborgvej 1169382 Tylstrup,trup,548.064,24-04-2006,Alm. Salg,6.228,2,Villa,88,1959,,Aktuel værdi
+Albert Dams Vej 69382 Tylstrup,trup,740.000,24-04-2006,Alm. Salg,6.727,3,Villa,110,1969,,Aktuel værdi
+Harestien 159382 Tylstrup,trup,924.519,24-04-2006,Alm. Salg,4.509,8,Stuehus,205,1920,,
+Ultvedvej 89382 Tylstrup,trup,980.000,20-04-2006,Alm. Salg,5.104,6,Villa,192,1934,,Aktuel værdi
+Ultvedparken 929382 Tylstrup,trup,1.397.000,19-04-2006,Alm. Salg,7.091,7,Villa,197,1980,,Aktuel værdi
+Tylstrupparken 89382 Tylstrup,trup,250.000,12-04-2006,Alm. Salg,1.381,4,Villa,181,2011,,Aktuel værdi
+Kraghedevej 3279382 Tylstrup,trup,1.400.000,04-04-2006,Alm. Salg,9.150,4,Villa,153,1980,,Aktuel værdi
+Luneborgvej 419382 Tylstrup,trup,733.160,29-03-2006,Fam. Salg,5.390,4,Villa,136,1973,,Aktuel værdi
+Dunbirkevej 159382 Tylstrup,trup,935.000,27-03-2006,Alm. Salg,5.807,5,Villa,161,1973,,Aktuel værdi
+Sølvpoppelvej 19382 Tylstrup,trup,140.000,27-03-2006,Alm. Salg,897,5,Villa,156,2008,,Aktuel værdi
+Nejstvej 559382 Tylstrup,trup,325.000,10-03-2006,Alm. Salg,2.801,3,Villa,116,1922,,Aktuel værdi
+Taffelgårdsvej 1749382 Tylstrup,trup,8.000.000,01-03-2006,Alm. Salg,44.692,8,Stuehus,179,1932,,
+Tylstrupvej 349382 Tylstrup,trup,1.495.000,29-01-2006,Alm. Salg,6.229,6,Villa,240,1973,,Aktuel værdi
+Dunbirkevej 129382 Tylstrup,trup,975.000,05-01-2006,Alm. Salg,5.909,4,Villa,165,1965,,Aktuel værdi
+Brandborgvej 59382 Tylstrup,trup,915.000,05-12-2005,Alm. Salg,-,4,Villa,161,1975,,Aktuel værdi
+Tylstrupvej 129382 Tylstrup,trup,4.200.000,05-12-2005,Andet,26.250,12,Industri o.l.,160,1936,,Aktuel værdi
+Klitgårdsvej 59382 Tylstrup,trup,1.021.700,25-11-2005,Alm. Salg,6.721,5,Villa,152,1970,,Aktuel værdi
+Luneborgvej 329382 Tylstrup,trup,297.704,15-11-2005,Andet,2.682,4,Villa,111,1942,,Aktuel værdi
+Hedensvej 89382 Tylstrup,trup,500.000,26-09-2005,Alm. Salg,4.950,4,Villa,101,1961,,Aktuel værdi
+Skovengvej 209382 Tylstrup,trup,840.870,16-09-2005,Alm. Salg,5.495,5,Stuehus,153,1910,,
+Luneborgvej 379382 Tylstrup,trup,975.000,12-09-2005,Fam. Salg,6.500,5,Villa,150,1933,,Aktuel værdi
+Ultvedparken 889382 Tylstrup,trup,960.000,11-09-2005,Alm. Salg,-,6,Villa,154,1983,,Aktuel værdi
+Enighedsvej 89382 Tylstrup,trup,275.000,06-09-2005,Alm. Salg,-,7,Villa,197,1920,,Aktuel værdi
+Luneborgvej 2609382 Tylstrup,trup,540.000,01-09-2005,Alm. Salg,3.157,4,Villa,171,1950,,Aktuel værdi
+Rødbøgevej 119382 Tylstrup,trup,695.000,31-08-2005,Alm. Salg,5.840,4,Villa,119,1967,,Aktuel værdi
+Smalskiftevej 469382 Tylstrup,trup,990.774,26-08-2005,Alm. Salg,9.007,5,Stuehus,110,1947,,
+Albert Dams Vej 79382 Tylstrup,trup,1.085.000,20-07-2005,Alm. Salg,7.045,5,Villa,154,1968,,Aktuel værdi
+Sølvpoppelvej 119382 Tylstrup,trup,650.000,03-07-2005,Alm. Salg,-,5,Villa,181,1965,,Aktuel værdi
+Rødbøgevej 169382 Tylstrup,trup,670.000,19-06-2005,Alm. Salg,6.146,5,Villa,109,1964,,Aktuel værdi
+Dunbirkevej 119382 Tylstrup,trup,1.150.000,23-05-2005,Alm. Salg,6.845,5,Villa,168,1967,,Aktuel værdi
+Klitgårdsvej 119382 Tylstrup,trup,845.000,03-05-2005,Alm. Salg,6.079,4,Villa,139,1969,,Aktuel værdi
+Bilgårdsvej 709382 Tylstrup,trup,800.000,21-04-2005,Alm. Salg,4.968,5,Villa,161,1972,,Aktuel værdi
+Luneborgvej 309382 Tylstrup,trup,320.000,20-04-2005,Alm. Salg,2.807,4,Villa,114,1946,,Aktuel værdi
+Luneborgvej 2359382 Tylstrup,trup,1.895.000,18-04-2005,Alm. Salg,22.831,2,Stuehus,83,1927,,
+Luneborgvej 2019382 Tylstrup,trup,10.000.000,14-04-2005,Alm. Salg,46.948,8,Stuehus,213,1854,,
+Ultvedvej 119382 Tylstrup,trup,745.000,12-04-2005,Alm. Salg,9.312,3,Villa,80,1964,,Aktuel værdi
+Luneborgvej 1679382 Tylstrup,trup,585.000,11-04-2005,Alm. Salg,5.850,4,Villa,100,1948,,Aktuel værdi
+Hejbækvej 149382 Tylstrup,trup,6.432.500,31-03-2005,Alm. Salg,31.687,6,Stuehus,203,1976,,
+Luneborgvej 3389382 Tylstrup,trup,480.000,22-03-2005,Alm. Salg,2.758,7,Villa,174,1938,,Aktuel værdi
+Luneborgvej 1289382 Tylstrup,trup,1.350.000,21-03-2005,Alm. Salg,13.636,3,Stuehus,99,1914,,
+Luneborgvej 2379382 Tylstrup,trup,887.500,20-03-2005,Alm. Salg,4.745,5,Stuehus,187,2006,,
+Luneborgvej 849382 Tylstrup,trup,430.000,18-02-2005,Alm. Salg,4.831,5,Villa,89,1923,,Aktuel værdi
+Bilgårdsvej 169382 Tylstrup,trup,250.000,18-02-2005,Alm. Salg,1.592,5,Villa,157,2006,,Aktuel værdi
+Arendrupsvej 19382 Tylstrup,trup,325.000,16-02-2005,Alm. Salg,2.600,4,Villa,125,1872,,Aktuel værdi
+Ultvedparken 809382 Tylstrup,trup,900.000,07-02-2005,Alm. Salg,7.500,4,Villa,120,1980,,Aktuel værdi
+Jens Thises Vej 149382 Tylstrup,trup,910.000,26-01-2005,Alm. Salg,5.200,6,Villa,175,1967,,Aktuel værdi
+Vestermarksvej 579382 Tylstrup,trup,7.000.000,05-01-2005,Alm. Salg,30.434,5,Stuehus,230,1900,,
+Sølvpoppelvej 69382 Tylstrup,trup,654.500,05-01-2005,Fam. Salg,4.576,4,Villa,143,1971,,Aktuel værdi
+Luneborgvej 2549382 Tylstrup,trup,20.641.000,03-01-2005,Alm. Salg,64.503,10,Stuehus,320,1920,,
+Luneborgvej 719382 Tylstrup,trup,435.000,16-12-2004,Alm. Salg,-,3,Lejlighed,91,1930,,Aktuel værdi
+Luneborgvej 1349382 Tylstrup,trup,2.506.014,14-12-2004,Fam. Salg,14.741,6,Stuehus,170,1915,,
+Ultvedvej 409382 Tylstrup,trup,3.120.000,13-12-2004,Alm. Salg,11.470,6,Stuehus,272,1900,,
+Luneborgvej 269382 Tylstrup,trup,470.000,06-12-2004,Alm. Salg,6.527,3,Villa,72,1956,,Aktuel værdi
+Vildmosevej 3509382 Tylstrup,trup,900.000,01-12-2004,Alm. Salg,6.164,5,Stuehus,146,1950,,
+Luneborgvej 929382 Tylstrup,trup,450.000,24-11-2004,Alm. Salg,5.555,3,Villa,81,1953,,Aktuel værdi
+Klitgårdsvej 389382 Tylstrup,trup,425.000,28-10-2004,Alm. Salg,4.829,3,Villa,88,1959,,Aktuel værdi
+Tylstrupvej 379382 Tylstrup,trup,645.000,13-10-2004,Alm. Salg,5.560,5,Villa,116,1924,,Aktuel værdi
+Tylstrup Hedevej 389382 Tylstrup,trup,19.800.000,12-10-2004,Alm. Salg,110.614,8,Stuehus,179,1995,,
+Kraghedevej 649382 Tylstrup,trup,10.500.000,29-09-2004,Alm. Salg,32.208,8,Stuehus,326,1981,,
+Tylstrup Hedevej 119382 Tylstrup,trup,1.595.000,19-08-2004,Alm. Salg,7.975,4,Villa,200,1877,,Aktuel værdi
+Manna Mosevej 4809382 Tylstrup,trup,730.000,05-08-2004,Alm. Salg,3.782,4,Villa,193,1958,,Aktuel værdi
+Luneborgvej 19382 Tylstrup,trup,685.000,17-06-2004,Alm. Salg,4.566,6,Villa,150,1960,,Aktuel værdi
+Tylstrup Nørrehede 29382 Tylstrup,trup,750.000,03-05-2004,Alm. Salg,5.357,3,Villa,140,2002,,Aktuel værdi
+Brandborgvej 49382 Tylstrup,trup,720.000,27-03-2004,Alm. Salg,5.454,4,Villa,132,1953,,Aktuel værdi
+Ålborgvej 4479382 Tylstrup,trup,480.000,16-02-2004,Alm. Salg,-,5,Villa,195,1920,,Aktuel værdi
+Ålborgvej 4999382 Tylstrup,trup,1.360.000,04-02-2004,Fam. Salg,7.351,5,Stuehus,185,1900,,
+Kraghedevej 2119382 Tylstrup,trup,662.500,18-01-2004,Alm. Salg,-,5,Villa,141,1934,,Aktuel værdi
+Brændskovvej 59382 Tylstrup,trup,375.000,01-01-2004,Alm. Salg,5.859,2,Villa,64,1952,,Aktuel værdi
+Ultvedparken 1109382 Tylstrup,trup,730.000,02-12-2003,Alm. Salg,6.347,4,Villa,115,1979,,Aktuel værdi
+Stenisengevej 459382 Tylstrup,trup,580.000,23-11-2003,Alm. Salg,5.272,4,Stuehus,110,1943,,
+Tylstrup Landevej 209382 Tylstrup,trup,9.200.000,10-11-2003,Fam. Salg,32.055,8,Stuehus,287,1920,,
+Ultvedparken 1229382 Tylstrup,trup,810.000,10-11-2003,Alm. Salg,8.901,4,Villa,91,1982,,Aktuel værdi
+Brandborgvej 99382 Tylstrup,trup,1.185.000,23-09-2003,Alm. Salg,6.929,6,Villa,171,1975,,Aktuel værdi
+Jens Thises Vej 99382 Tylstrup,trup,460.000,09-09-2003,Alm. Salg,-,4,Villa,135,1952,,Aktuel værdi
+Luneborgvej 69382 Tylstrup,trup,515.000,02-07-2003,Alm. Salg,4.858,5,Villa,106,1961,,Aktuel værdi
+Luneborgvej 199382 Tylstrup,trup,675.000,06-06-2003,Alm. Salg,5.075,4,Villa,133,1935,,Aktuel værdi
+Jens Thises Vej 19382 Tylstrup,trup,675.000,04-06-2003,Alm. Salg,6.250,5,Villa,108,1959,,Aktuel værdi
+Magnus Rix Vej 39382 Tylstrup,trup,645.000,28-05-2003,Alm. Salg,5.201,4,Villa,124,1973,,Aktuel værdi
+Gammel Vråvej 329382 Tylstrup,trup,9.296.565,25-05-2003,Fam. Salg,39.061,6,Stuehus,238,1960,,
+Jens Thises Vej 89382 Tylstrup,trup,391.000,31-03-2003,Fam. Salg,4.344,3,Villa,90,1953,,Aktuel værdi
+Kæragerholmvej 59382 Tylstrup,trup,495.500,31-03-2003,Alm. Salg,2.502,8,Stuehus,198,1860,,
+Ultvedparken 669382 Tylstrup,trup,1.115.000,20-03-2003,Alm. Salg,5.747,6,Villa,194,1976,,Aktuel værdi
+Skovengvej 219382 Tylstrup,trup,775.000,21-02-2003,Alm. Salg,-,6,Stuehus,243,1910,,
+Tylstrup Landevej 909382 Tylstrup,trup,115.000,12-02-2003,Alm. Salg,1.982,2,Villa,58,1954,,Aktuel værdi
+Luneborgvej 3009382 Tylstrup,trup,696.100,14-01-2003,Alm. Salg,3.551,7,Villa,196,1978,,Aktuel værdi
+Hejbækvej 219382 Tylstrup,trup,10.750.000,14-01-2003,Alm. Salg,55.412,5,Stuehus,194,1912,,
+Skovengvej 49382 Tylstrup,trup,525.000,09-01-2003,Alm. Salg,5.769,4,Stuehus,91,1913,,
+Ultvedparken 209382 Tylstrup,trup,1.050.000,18-12-2002,Alm. Salg,4.883,6,Villa,215,1976,,Aktuel værdi
+Kæragerholmvej 209382 Tylstrup,trup,1.150.000,03-12-2002,Alm. Salg,4.323,8,Villa,266,1981,,Aktuel værdi
+Bilgårdsvej 289382 Tylstrup,trup,675.000,22-11-2002,Alm. Salg,6.367,3,Villa,106,1973,,Aktuel værdi
+Bilgårdsvej 449382 Tylstrup,trup,765.000,01-11-2002,Alm. Salg,7.500,4,Villa,102,1965,,Aktuel værdi
+Luneborgvej 619382 Tylstrup,trup,850.000,30-10-2002,Alm. Salg,8.500,4,Rækkehus,100,1910,,Aktuel værdi
+Kraghedevej 1499382 Tylstrup,trup,700.000,21-10-2002,Alm. Salg,-,8,Villa,161,1902,,Aktuel værdi
+Vrå Mark 239382 Tylstrup,trup,995.000,09-10-2002,Alm. Salg,6.378,5,Stuehus,156,1924,,
+Harestien 109382 Tylstrup,trup,505.000,30-09-2002,Alm. Salg,5.872,3,Villa,86,1940,,Aktuel værdi
+Vestergårdsgade 19382 Tylstrup,trup,827.033,16-09-2002,Fam. Salg,6.361,4,Villa,130,1930,,Aktuel værdi
+Gammel Skolevej 99382 Tylstrup,trup,895.000,19-08-2002,Alm. Salg,5.811,5,Villa,154,1973,,Aktuel værdi
+Søndervang 39382 Tylstrup,trup,450.000,04-07-2002,Alm. Salg,5.696,3,Villa,79,1951,,Aktuel værdi
+Luneborgvej 449382 Tylstrup,trup,498.000,27-06-2002,Alm. Salg,6.640,3,Villa,75,1936,,Aktuel værdi
+Ultvedparken 1249382 Tylstrup,trup,905.000,12-06-2002,Alm. Salg,7.541,4,Villa,120,1979,,Aktuel værdi
+Skarvadvej 3039382 Tylstrup,trup,6.293.061,07-02-2002,Fam. Salg,17.194,7,Stuehus,366,1900,,
+Bilgårdsvej 349382 Tylstrup,trup,555.000,17-12-2001,Alm. Salg,4.625,4,Villa,120,1962,,Aktuel værdi
+Ultvedparken 989382 Tylstrup,trup,850.000,12-12-2001,Alm. Salg,6.692,4,Villa,127,1979,,Aktuel værdi
+Dunbirkevej 69382 Tylstrup,trup,600.000,18-11-2001,Alm. Salg,4.761,4,Villa,126,1961,,Aktuel værdi
+Stenisengevej 209382 Tylstrup,trup,2.900.000,11-08-2001,Alm. Salg,11.836,9,Stuehus,245,1907,,
+Rødbøgevej 129382 Tylstrup,trup,655.000,04-07-2001,Alm. Salg,6.421,4,Villa,102,1964,,Aktuel værdi
+Smalskiftevej 449382 Tylstrup,trup,310.000,26-06-2001,Alm. Salg,1.962,3,Stuehus,158,1941,,
+Rødbøgevej 39382 Tylstrup,trup,850.000,25-06-2001,Alm. Salg,5.592,5,Villa,152,1967,,Aktuel værdi
+Luneborgvej 489382 Tylstrup,trup,500.000,20-06-2001,Fam. Salg,2.538,6,Villa,197,1945,,Aktuel værdi
+Magnus Rix Vej 69382 Tylstrup,trup,425.000,23-05-2001,Alm. Salg,5.312,2,Villa,80,1938,,Aktuel værdi
+Gammel Vråvej 659382 Tylstrup,trup,300.000,02-05-2001,Alm. Salg,2.857,5,Stuehus,105,1963,,
+Ultvedparken 189382 Tylstrup,trup,1.065.000,04-03-2001,Alm. Salg,-,5,Villa,185,1979,,Aktuel værdi
+Kraghedevej 2309382 Tylstrup,trup,565.000,20-02-2001,Alm. Salg,4.747,5,Villa,119,1830,,Aktuel værdi
+Hjallerupvej 159382 Tylstrup,trup,5.784.000,30-01-2001,Alm. Salg,17.011,10,Stuehus,340,1877,,
+Tylstrup Landevej 869382 Tylstrup,trup,1.180.000,22-11-2000,Alm. Salg,4.486,9,Villa,263,1897,,Aktuel værdi
+Jens Thises Vej 79382 Tylstrup,trup,448.000,30-10-2000,Alm. Salg,4.349,3,Villa,103,1955,,Aktuel værdi
+Vrå Mark 19382 Tylstrup,trup,733.000,10-10-2000,Alm. Salg,4.952,6,Villa,148,1907,,Aktuel værdi
+Rolighedsvej 679382 Tylstrup,trup,197.500,03-10-2000,Alm. Salg,1.034,5,Villa,191,2004,,Aktuel værdi
+Bilgårdsvej 369382 Tylstrup,trup,539.919,07-09-2000,Alm. Salg,5.345,4,Villa,101,1902,,Aktuel værdi
+Luneborgvej 869382 Tylstrup,trup,400.000,01-09-2000,Alm. Salg,4.347,3,Villa,92,1920,,Aktuel værdi
+Skovmarkvej 209382 Tylstrup,trup,1.019.400,31-08-2000,Alm. Salg,11.080,4,Stuehus,92,1947,,
+Bilgårdsvej 229382 Tylstrup,trup,970.000,31-08-2000,Alm. Salg,5.950,5,Villa,163,1984,,Aktuel værdi
+Askvej 19382 Tylstrup,trup,795.000,22-08-2000,Alm. Salg,5.129,4,Villa,155,1960,,Aktuel værdi
+Mølledamsvej 29382 Tylstrup,trup,212.500,11-08-2000,Andet,1.455,4,Villa,146,1916,,Aktuel værdi
+L. P. Jacobsens Vej 69382 Tylstrup,trup,357.000,30-06-2000,Alm. Salg,1.972,6,Villa,181,1944,,Aktuel værdi
+Bilgårdsvej 19382 Tylstrup,trup,599.918,31-05-2000,Alm. Salg,7.057,3,Villa,85,1945,,Aktuel værdi
+Langesvej 29382 Tylstrup,trup,575.000,26-04-2000,Alm. Salg,3.362,6,Villa,171,1933,,Aktuel værdi
+Taffelgårdsvej 409382 Tylstrup,trup,12.157.425,31-03-2000,Fam. Salg,33.217,8,Stuehus,366,2009,,
+Albert Dams Vej 39382 Tylstrup,trup,1.025.000,13-03-2000,Alm. Salg,4.495,7,Villa,228,1966,,Aktuel værdi
+Tylstrupparken 109382 Tylstrup,trup,218.918,08-03-2000,Alm. Salg,1.122,6,Villa,195,2000,,Aktuel værdi
+Ultvedvej 129382 Tylstrup,trup,814.808,21-02-2000,Alm. Salg,5.290,5,Villa,154,1965,,Aktuel værdi
+Tylstrupparken 49382 Tylstrup,trup,145.000,20-02-2000,Alm. Salg,986,4,Villa,147,2000,,Aktuel værdi
+Luneborgvej 859382 Tylstrup,trup,582.879,14-02-2000,Alm. Salg,-,3,Villa,128,1970,,Aktuel værdi
+Tylstrupvej 439382 Tylstrup,trup,318.100,21-01-2000,Alm. Salg,3.279,2,Villa,97,1898,,Aktuel værdi
+Hammelmosevej 59382 Tylstrup,trup,733.000,07-12-1999,Alm. Salg,4.581,6,Villa,160,1969,,Aktuel værdi
+Vestergårdsgade 169382 Tylstrup,trup,401.000,15-11-1999,Alm. Salg,1.743,5,Villa,230,1950,,Aktuel værdi
+Ultvedvej 49382 Tylstrup,trup,880.000,15-10-1999,Alm. Salg,4.559,6,Villa,193,1961,,Aktuel værdi
+Arendrupsvej 29382 Tylstrup,trup,185.000,08-09-1999,Alm. Salg,2.720,3,Villa,68,1877,,Aktuel værdi
+Luneborgvej 2929382 Tylstrup,trup,470.800,02-09-1999,Alm. Salg,3.387,6,Stuehus,139,1900,,
+"Hammelmosevej 3, 19382 Tylstrup",trup,1.300.000,27-08-1999,Alm. Salg,8.227,5,Lejlighed,158,1968,,Aktuel værdi
+Barbaraskvej 159382 Tylstrup,trup,965.000,24-07-1999,Alm. Salg,3.711,10,Stuehus,260,1934,,
+Dunbirkevej 89382 Tylstrup,trup,611.085,08-07-1999,Alm. Salg,5.313,5,Villa,115,1961,,Aktuel værdi
+Albert Dams Vej 109382 Tylstrup,trup,875.000,24-06-1999,Alm. Salg,6.433,4,Villa,136,1973,,Aktuel værdi
+Dunbirkevej 199382 Tylstrup,trup,774.167,10-06-1999,Alm. Salg,4.230,5,Villa,183,1970,,Aktuel værdi
+Klitgårdsvej 209382 Tylstrup,trup,911.907,24-05-1999,Alm. Salg,6.608,4,Villa,138,1971,,Aktuel værdi
+Nejstvej 1219382 Tylstrup,trup,300.000,21-05-1999,Fam. Salg,2.222,6,Stuehus,135,1865,,
+Hejbækvej 199382 Tylstrup,trup,320.000,30-04-1999,Alm. Salg,2.962,3,Villa,108,1908,,Aktuel værdi
+Tylstrupparken 119382 Tylstrup,trup,89.500,03-04-1999,Alm. Salg,678,4,Villa,132,1999,,Aktuel værdi
+Tylstrupparken 139382 Tylstrup,trup,89.500,03-04-1999,Alm. Salg,625,6,Villa,143,2000,,Aktuel værdi
+Gammel Skolevej 49382 Tylstrup,trup,566.466,28-03-1999,Alm. Salg,3.332,7,Villa,170,1944,,Aktuel værdi
+Stenisengevej 439382 Tylstrup,trup,90.000,26-03-1999,Alm. Salg,900,4,Villa,100,1907,,Aktuel værdi
+Tylstrupparken 19382 Tylstrup,trup,87.500,01-03-1999,Alm. Salg,662,4,Villa,132,1999,,Aktuel værdi
+Luneborgvej 639382 Tylstrup,trup,125.000,27-01-1999,Alm. Salg,1.086,5,Villa,115,1999,,Aktuel værdi
+Hjallerupvej 609382 Tylstrup,trup,1.350.000,25-01-1999,Alm. Salg,4.787,8,Stuehus,282,1912,,
+Luneborgvej 749382 Tylstrup,trup,426.643,11-01-1999,Alm. Salg,2.051,12,Detailhandel,208,1895,,Aktuel værdi
+Nejstvej 1259382 Tylstrup,trup,700.000,07-12-1998,Alm. Salg,-,10,Villa,312,1900,,Aktuel værdi
+Luneborgvej 729382 Tylstrup,trup,890.000,05-12-1998,Alm. Salg,3.938,7,Villa,226,1877,,Aktuel værdi
+Ultvedparken 329382 Tylstrup,trup,700.000,01-12-1998,Alm. Salg,6.603,4,Villa,106,1980,,Aktuel værdi
+Luneborgvej 149382 Tylstrup,trup,1.071.920,25-11-1998,Alm. Salg,5.889,6,Villa,182,1967,,Aktuel værdi
+Tylstrup Nørrehede 199382 Tylstrup,trup,586.500,02-11-1998,Alm. Salg,3.390,5,Villa,173,1943,,Aktuel værdi
+Luneborgvej 2049382 Tylstrup,trup,10.000,12-10-1998,Alm. Salg,37,7,Villa,269,2003,,Aktuel værdi
+Luneborgvej 769382 Tylstrup,trup,850.000,06-10-1998,Alm. Salg,4.066,10,Villa,209,1904,,Aktuel værdi
+Taffelgårdsvej 1859382 Tylstrup,trup,251.000,25-09-1998,Alm. Salg,1.568,6,Villa,160,1933,,Aktuel værdi
+Ålborgvej 4939382 Tylstrup,trup,470.936,18-09-1998,Alm. Salg,2.706,4,Villa,174,1857,,Aktuel værdi
+Skarvadvej 2419382 Tylstrup,trup,300.000,18-09-1998,Alm. Salg,1.167,5,Villa,257,1999,,Aktuel værdi
+Ultvedparken 589382 Tylstrup,trup,838.803,26-08-1998,Alm. Salg,4.634,7,Villa,181,1977,,Aktuel værdi
+Luneborgvej 789382 Tylstrup,trup,1.150.000,16-08-1998,Alm. Salg,4.307,19,Detailhandel,267,1884,,Aktuel værdi
+Tylstrupparken 59382 Tylstrup,trup,106.500,29-07-1998,Alm. Salg,633,5,Villa,168,1999,,Aktuel værdi
+Frihedsvej 119382 Tylstrup,trup,463.400,16-07-1998,Alm. Salg,3.677,7,Stuehus,126,1955,,
+Kraghedevej 1649382 Tylstrup,trup,148.750,25-06-1998,Fam. Salg,965,5,Villa,154,1904,,Aktuel værdi
+Hedestien 59382 Tylstrup,trup,424.000,16-06-1998,Alm. Salg,4.156,4,Villa,102,1961,,Aktuel værdi
+Tylstrupvej 809382 Tylstrup,trup,225.000,05-06-1998,Alm. Salg,875,6,Villa,257,2001,,Aktuel værdi
+Arendrupsvej 119382 Tylstrup,trup,426.225,23-05-1998,Alm. Salg,-,5,Villa,178,1917,,Aktuel værdi
+Luneborgvej 1129382 Tylstrup,trup,336.000,19-05-1998,Alm. Salg,2.800,5,Villa,120,1914,,Aktuel værdi
+Taffelgårdsvej 2959382 Tylstrup,trup,1.500.000,29-04-1998,Fam. Salg,10.000,4,Stuehus,150,1957,,
+Enighedsvej 399382 Tylstrup,trup,102.000,03-04-1998,Fam. Salg,1.619,2,Villa,63,1900,,Aktuel værdi
+Luneborgvej 1039382 Tylstrup,trup,175.000,25-03-1998,Alm. Salg,897,6,Villa,195,1962,,Aktuel værdi
+Bilgårdsvej 649382 Tylstrup,trup,550.000,22-03-1998,Alm. Salg,4.471,4,Villa,123,1965,,Aktuel værdi
+"Luneborgvej 77, 29382 Tylstrup",trup,373.612,09-03-1998,Alm. Salg,3.627,4,Lejlighed,103,1955,,Aktuel værdi
+Kraghedevej 2179382 Tylstrup,trup,180.000,06-03-1998,Alm. Salg,1.208,6,Villa,149,1911,,Aktuel værdi
+Luneborgvej 2719382 Tylstrup,trup,1.400.000,02-03-1998,Alm. Salg,7.000,8,Stuehus,200,1890,,
+Luneborgvej 979382 Tylstrup,trup,665.000,24-02-1998,Alm. Salg,5.076,8,Villa,131,1962,,Aktuel værdi
+Tylstrupparken 99382 Tylstrup,trup,539.263,01-02-1998,Fam. Salg,3.744,5,Villa,144,1998,,Aktuel værdi
+Tylstrupvej 429382 Tylstrup,trup,365.000,15-01-1998,Alm. Salg,3.650,3,Villa,100,1954,,Aktuel værdi
+Jens Thises Vej 49382 Tylstrup,trup,675.000,15-12-1997,Alm. Salg,-,6,Villa,199,1954,,Aktuel værdi
+Klitgårdsvej 399382 Tylstrup,trup,324.180,13-11-1997,Alm. Salg,3.376,3,Villa,96,1954,,Aktuel værdi
+Ultvedparken 1169382 Tylstrup,trup,757.000,08-08-1997,Alm. Salg,-,4,Villa,149,1979,,Aktuel værdi
+Tylstrupparken 79382 Tylstrup,trup,101.000,01-08-1997,Alm. Salg,682,5,Villa,148,1998,,Aktuel værdi
+Barbaraskvej 339382 Tylstrup,trup,19.432,25-06-1997,Alm. Salg,97,4,Stuehus,199,1900,,
+Klitgårdsvej 269382 Tylstrup,trup,650.000,02-06-1997,Alm. Salg,4.513,5,Villa,144,1972,,Aktuel værdi
+Langesvej 19382 Tylstrup,trup,359.060,25-05-1997,Alm. Salg,4.432,3,Villa,81,1926,,Aktuel værdi
+Luneborgvej 1889382 Tylstrup,trup,589.700,06-05-1997,Alm. Salg,2.876,7,Villa,205,1920,,Aktuel værdi
+Hejbækvej 229382 Tylstrup,trup,280.000,20-03-1997,Alm. Salg,2.456,3,Villa,114,1906,,Aktuel værdi
+Stenisengevej 159382 Tylstrup,trup,330.000,14-03-1997,Alm. Salg,2.946,3,Villa,112,1917,,Aktuel værdi
+Vrå Mark 259382 Tylstrup,trup,85.000,03-02-1997,Alm. Salg,772,4,Stuehus,110,1938,,
+Dunbirkevej 139382 Tylstrup,trup,745.000,16-12-1996,Alm. Salg,4.542,5,Villa,164,1973,,Aktuel værdi
+Nejstvej 479382 Tylstrup,trup,690.000,30-10-1996,Alm. Salg,-,5,Stuehus,160,1972,,
+Luneborgvej 2709382 Tylstrup,trup,460.000,16-09-1996,Alm. Salg,2.395,5,Villa,192,1962,,Aktuel værdi
+Harestien 119382 Tylstrup,trup,290.000,06-09-1996,Alm. Salg,3.670,3,Villa,79,1958,,Aktuel værdi
+Nejstvej 739382 Tylstrup,trup,507.000,05-09-1996,Alm. Salg,-,5,Villa,171,1877,,Aktuel værdi
+Hejbækvej 109382 Tylstrup,trup,650.000,14-08-1996,Alm. Salg,1.046,14,Villa,621,1907,,Aktuel værdi
+Kæragerholmvej 309382 Tylstrup,trup,750.000,12-08-1996,Alm. Salg,3.125,6,Stuehus,240,1928,,
+Tylstrup Nørrehede 99382 Tylstrup,trup,655.000,08-08-1996,Alm. Salg,3.429,4,Villa,191,1967,,Aktuel værdi
+Tylstrup Hedevej 309382 Tylstrup,trup,690.000,27-06-1996,Alm. Salg,3.575,8,Villa,193,1902,,Aktuel værdi
+Nejstvej 649382 Tylstrup,trup,485.000,25-06-1996,Alm. Salg,2.389,7,Villa,203,1925,,Aktuel værdi
+Klitgårdsvej 229382 Tylstrup,trup,515.000,14-06-1996,Alm. Salg,4.221,4,Villa,122,1972,,Aktuel værdi
+Hedensvej 39382 Tylstrup,trup,508.000,05-06-1996,Alm. Salg,4.576,4,Villa,111,1950,,Aktuel værdi
+Bilgårdsvej 429382 Tylstrup,trup,120.000,22-05-1996,Alm. Salg,975,4,Villa,123,1997,,Aktuel værdi
+Ultvedparken 849382 Tylstrup,trup,775.000,25-04-1996,Alm. Salg,3.934,5,Villa,197,1976,,Aktuel værdi
+Klitgårdsvej 89382 Tylstrup,trup,585.000,19-04-1996,Alm. Salg,3.482,5,Villa,168,1969,,Aktuel værdi
+Stidsholtvej 309382 Tylstrup,trup,1.337.182,28-03-1996,Alm. Salg,10.365,4,Stuehus,129,1799,,
+Ultvedvej 99382 Tylstrup,trup,439.300,28-11-1995,Alm. Salg,2.871,5,Villa,153,1928,,Aktuel værdi
+Tylstrupvej 419382 Tylstrup,trup,218.333,07-11-1995,Alm. Salg,2.729,2,Villa,80,1962,,Aktuel værdi
+Luneborgvej 1019382 Tylstrup,trup,190.000,10-09-1995,Alm. Salg,2.087,3,Villa,91,1947,,Aktuel værdi
+Gammel Vråvej 429382 Tylstrup,trup,1.292.767,08-09-1995,Alm. Salg,-,7,Stuehus,200,1914,,
+Klitgårdsvej 99382 Tylstrup,trup,575.000,25-08-1995,Alm. Salg,3.993,4,Villa,144,1970,,Aktuel værdi
+Tylstrup Landevej 129382 Tylstrup,trup,185.000,03-07-1995,Alm. Salg,1.284,4,Villa,144,1877,,Aktuel værdi
+Ultvedparken 349382 Tylstrup,trup,618.000,23-06-1995,Alm. Salg,4.717,4,Villa,131,1977,,Aktuel værdi
+Jens Thises Vej 59382 Tylstrup,trup,263.400,19-06-1995,Alm. Salg,3.251,3,Villa,81,1954,,Aktuel værdi
+Kraghedevej 2219382 Tylstrup,trup,470.000,25-04-1995,Alm. Salg,3.730,4,Villa,126,1880,,Aktuel værdi
+Luneborgvej 689382 Tylstrup,trup,394.000,06-04-1995,Alm. Salg,4.925,2,Lejlighed,80,1911,,Aktuel værdi
+Tylstrup Hedevej 269382 Tylstrup,trup,280.000,28-03-1995,Alm. Salg,-,7,Villa,168,1928,,Aktuel værdi
+Taffelgårdsvej 2309382 Tylstrup,trup,493.000,20-03-1995,Alm. Salg,3.081,4,Stuehus,160,1957,,
+Luneborgvej 2209382 Tylstrup,trup,495.000,28-02-1995,Alm. Salg,3.867,4,Villa,128,1948,,Aktuel værdi
+Ultvedparken 689382 Tylstrup,trup,650.000,10-02-1995,Alm. Salg,3.350,5,Villa,194,1976,,Aktuel værdi
+Luneborgvej 1159382 Tylstrup,trup,315.000,03-01-1995,Alm. Salg,1.944,6,Villa,162,1914,,Aktuel værdi
+Kraghedevej 2619382 Tylstrup,trup,305.000,21-12-1994,Alm. Salg,2.629,4,Stuehus,116,1967,,
+Luneborgvej 539382 Tylstrup,trup,420.000,04-10-1994,Alm. Salg,2.937,5,Villa,143,1927,,Aktuel værdi
+Dunbirkevej 179382 Tylstrup,trup,517.881,23-09-1994,Alm. Salg,3.699,5,Villa,140,1971,,Aktuel værdi
+Skarvadvej 2279382 Tylstrup,trup,465.000,26-08-1994,Alm. Salg,-,5,Stuehus,216,1931,,
+Ultvedparken 1149382 Tylstrup,trup,207.023,04-07-1994,Andet,1.643,4,Villa,126,1979,,Aktuel værdi
+Luneborgvej 1629382 Tylstrup,trup,700.000,08-06-1994,Alm. Salg,4.294,6,Stuehus,163,1900,,
+Tylstrupvej 89382 Tylstrup,trup,520.000,16-05-1994,Alm. Salg,-,5,Villa,195,1953,,Aktuel værdi
+Skarvadvej 2409382 Tylstrup,trup,360.000,20-04-1994,Alm. Salg,3.333,3,Villa,108,1942,,Aktuel værdi
+Ultvedparken 129382 Tylstrup,trup,550.000,16-04-1994,Alm. Salg,3.793,4,Villa,145,1980,,Aktuel værdi
+Luneborgvej 1509382 Tylstrup,trup,250.000,18-03-1994,Alm. Salg,2.604,3,Villa,96,1885,,Aktuel værdi
+Luneborgvej 1999382 Tylstrup,trup,845.000,04-02-1994,Alm. Salg,-,6,Stuehus,203,1966,,
+Tylstrupvej 449382 Tylstrup,trup,200.000,23-09-1993,Alm. Salg,2.777,3,Villa,72,1870,,Aktuel værdi
+Gammel Skolevej 89382 Tylstrup,trup,210.000,13-08-1993,Alm. Salg,1.438,6,Villa,146,1885,,Aktuel værdi
+Luneborgvej 1919382 Tylstrup,trup,490.000,17-07-1993,Alm. Salg,-,4,Stuehus,176,1933,,
+Ultvedvej 109382 Tylstrup,trup,175.000,06-07-1993,Alm. Salg,2.611,3,Villa,67,1929,,Aktuel værdi
+Tylstrupvej 409382 Tylstrup,trup,220.000,07-06-1993,Fam. Salg,2.716,2,Villa,81,1917,,Aktuel værdi
+Tylstrupvej 589382 Tylstrup,trup,65.000,31-05-1993,Alm. Salg,403,6,Villa,161,1872,,Aktuel værdi
+Ultvedparken 309382 Tylstrup,trup,144.677,21-05-1993,Andet,1.280,4,Villa,113,1979,,Aktuel værdi
+Ultvedparken 429382 Tylstrup,trup,620.000,20-05-1993,Alm. Salg,4.806,5,Villa,129,1980,,Aktuel værdi
+Gammel Skolevej 109382 Tylstrup,trup,265.000,07-12-1992,Alm. Salg,1.019,5,Villa,260,2011,,Aktuel værdi
+Luneborgvej 51A9382 Tylstrup,trup,247.500,30-10-1992,Alm. Salg,2.379,3,Villa,104,1926,,Aktuel værdi
+Nejstvej 1149382 Tylstrup,trup,440.000,06-08-1992,Alm. Salg,3.283,4,Villa,134,1902,,Aktuel værdi
+Luneborgvej 829382 Tylstrup,trup,400.000,24-03-1992,Alm. Salg,2.531,5,Villa,158,1910,,Aktuel værdi
+Hejbækvej 189382 Tylstrup,trup,415.000,18-03-1992,Alm. Salg,6.587,3,Stuehus,63,1905,,
+Grundtvig Sørensens Vej 109382 Tylstrup,trup,825.000,10-03-1992,Alm. Salg,3.784,6,Villa,218,1975,,Aktuel værdi
+Askvej 29382 Tylstrup,trup,460.000,28-01-1992,Alm. Salg,4.035,4,Villa,114,1961,,Aktuel værdi

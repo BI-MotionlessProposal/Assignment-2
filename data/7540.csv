@@ -1,0 +1,572 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Teglværksvej 247540 Haderup,erup,364.907,09-05-2017,Andet,1.861,5,Stuehus,196,1910,,
+Viborgvej 3607540 Haderup,erup,250.000,29-03-2017,Alm. Salg,1.785,5,Villa,140,1931,,Aktuel værdi
+Herningvej 27540 Haderup,erup,550.000,21-03-2017,Alm. Salg,3.985,4,Villa,138,1964,-4 %,Aktuel værdi
+Vormstrupvej 337540 Haderup,erup,1.075.000,09-03-2017,Alm. Salg,7.789,4,Stuehus,138,1903,-17 %,
+Skovvænget 947540 Haderup,erup,774.500,24-02-2017,Fam. Salg,29.788,3,Sommerhus,26,1965,,Aktuel værdi
+Skovvænget 67540 Haderup,erup,1.050.000,20-02-2017,Alm. Salg,9.375,3,Villa,112,1958,,Aktuel værdi
+Stavlundvej 107540 Haderup,erup,4.500.000,05-01-2017,Alm. Salg,19.565,10,Villa,230,1959,,Aktuel værdi
+Vester Feldborgvej 157540 Haderup,erup,142.857,09-12-2016,Alm. Salg,1.700,2,Stuehus,84,1908,,
+Hogagervej 117540 Haderup,erup,990.000,28-10-2016,Alm. Salg,15.468,5,Stuehus,64,1940,-17 %,
+Lærkevej 77540 Haderup,erup,312.304,11-10-2016,Alm. Salg,2.692,4,Villa,116,1973,-50 %,Aktuel værdi
+Bækvej 187540 Haderup,erup,3.107.019,28-09-2016,Fam. Salg,18.169,6,Stuehus,171,1906,,
+Nørregade 17A7540 Haderup,erup,6.004.383,08-07-2016,Alm. Salg,46.909,5,Villa,128,1949,,Aktuel værdi
+Falkevej 17540 Haderup,erup,1.075.000,05-07-2016,Alm. Salg,5.718,6,Villa,188,1972,-14 %,Aktuel værdi
+Vibevej 47540 Haderup,erup,425.000,29-06-2016,Alm. Salg,3.863,4,Villa,110,1964,,Aktuel værdi
+Karupvej 157540 Haderup,erup,15.100.000,20-06-2016,Alm. Salg,93.209,7,Stuehus,162,1941,,
+Natovej 37540 Haderup,erup,300.000,06-06-2016,Alm. Salg,3.157,4,Villa,95,1929,-37 %,Aktuel værdi
+Lyngskrænten 177540 Haderup,erup,1.000.000,19-05-2016,Alm. Salg,10.000,3,Villa,100,2001,-9 %,Aktuel værdi
+Hækvej 37540 Haderup,erup,1.385.000,12-05-2016,Auktion,7.213,6,Stuehus,192,1950,-44 %,
+Gindeskovgård 27540 Haderup,erup,900.000,01-05-2016,Alm. Salg,10.000,4,Villa,90,1955,,Aktuel værdi
+Taterbakkevej 37540 Haderup,erup,614.522,20-04-2016,Fam. Salg,3.840,5,Stuehus,160,1925,,
+Karupvej 217540 Haderup,erup,23.516.600,19-04-2016,Fam. Salg,123.771,9,Stuehus,190,1909,,
+Karupvej 237540 Haderup,erup,977.500,19-04-2016,Fam. Salg,7.240,4,Villa,135,1932,,Aktuel værdi
+Drosselvej 67540 Haderup,erup,357.000,18-04-2016,Fam. Salg,3.680,3,Villa,97,1961,,Aktuel værdi
+Herningvej 137540 Haderup,erup,500.000,13-04-2016,Alm. Salg,3.703,4,Villa,135,1988,0 %,Aktuel værdi
+Åskrænten 107540 Haderup,erup,1.985.000,12-04-2016,Alm. Salg,10.076,6,Villa,197,2004,-1 %,Aktuel værdi
+Langgade 567540 Haderup,erup,540.000,01-04-2016,Alm. Salg,4.186,4,Villa,129,1975,,Aktuel værdi
+Vormstrupvej 237540 Haderup,erup,1.247.000,16-03-2016,Alm. Salg,6.563,6,Stuehus,190,1966,-4 %,
+Viborgvej 3787540 Haderup,erup,5.357.500,04-02-2016,Alm. Salg,29.275,5,Stuehus,183,1977,,
+Ahornvej 77540 Haderup,erup,400.000,29-01-2016,Alm. Salg,3.149,5,Villa,127,1974,-20 %,Aktuel værdi
+Lærkevej 207540 Haderup,erup,655.000,16-12-2015,Alm. Salg,4.746,5,Villa,138,1973,-6 %,Aktuel værdi
+Karupvej 267540 Haderup,erup,434.718,13-11-2015,Alm. Salg,1.940,7,Stuehus,224,1924,-66 %,
+Natovej 47540 Haderup,erup,5.715.000,15-10-2015,Alm. Salg,44.648,5,Stuehus,128,1962,,
+Herningvej 507540 Haderup,erup,1.520.269,25-09-2015,Auktion,6.496,7,Stuehus,234,1943,,
+Nygade 12A7540 Haderup,erup,1.100.000,21-09-2015,Alm. Salg,11.827,3,Rækkehus,93,2015,,Aktuel værdi
+Mølleparken 257540 Haderup,erup,800.000,15-09-2015,Alm. Salg,4.678,7,Villa,171,1976,-10 %,Aktuel værdi
+Drosselvej 157540 Haderup,erup,1.495.000,31-08-2015,Fam. Salg,11.074,4,Villa,135,2003,,Aktuel værdi
+Falkevej 97540 Haderup,erup,935.000,31-08-2015,Fam. Salg,-,7,Villa,211,1977,,Aktuel værdi
+Tusbækvej 497540 Haderup,erup,683.783,14-08-2015,Andet,3.798,8,Stuehus,180,2008,,
+Vibevej 107540 Haderup,erup,537.241,12-08-2015,Alm. Salg,3.630,5,Villa,148,1971,,Aktuel værdi
+Lærkevej 167540 Haderup,erup,580.000,07-08-2015,Alm. Salg,4.233,4,Villa,137,1974,-3 %,Aktuel værdi
+Skovvænget 197540 Haderup,erup,765.000,29-07-2015,Alm. Salg,4.664,6,Villa,164,1974,-9 %,Aktuel værdi
+Herningvej 207540 Haderup,erup,375.000,28-07-2015,Alm. Salg,2.180,6,Villa,172,1941,,Aktuel værdi
+Elmevej 127540 Haderup,erup,1.260.000,25-06-2015,Alm. Salg,6.631,5,Villa,190,1989,-1 %,Aktuel værdi
+Langgade 217540 Haderup,erup,198.000,15-06-2015,Alm. Salg,2.200,3,Villa,90,1912,0 %,Aktuel værdi
+Lærkevej 17540 Haderup,erup,440.000,12-06-2015,Alm. Salg,2.894,5,Villa,152,1973,-7 %,Aktuel værdi
+Gammel Landevej 147540 Haderup,erup,422.108,12-06-2015,Alm. Salg,4.796,3,Villa,88,1957,,Aktuel værdi
+Skovvej 57540 Haderup,erup,650.000,09-06-2015,Alm. Salg,4.814,4,Stuehus,135,1985,-16 %,
+Mølleparken 247540 Haderup,erup,325.000,08-06-2015,Alm. Salg,2.876,4,Villa,113,1986,-28 %,Aktuel værdi
+Granbakken 27540 Haderup,erup,785.000,15-05-2015,Fam. Salg,4.906,5,Villa,160,1945,,Aktuel værdi
+Langgade 757540 Haderup,erup,687.000,08-05-2015,Alm. Salg,2.050,7,Stuehus,335,2008,,
+Langgade 367540 Haderup,erup,660.000,20-04-2015,Alm. Salg,4.647,4,Villa,142,1972,-5 %,Aktuel værdi
+Stavlundvej 87540 Haderup,erup,3.200.000,20-04-2015,Alm. Salg,18.604,6,Stuehus,172,1968,-20 %,
+Vormstrupvej 57540 Haderup,erup,300.000,28-03-2015,Alm. Salg,3.571,3,Sommerhus,84,1965,-45 %,Aktuel værdi
+Karupvej 207540 Haderup,erup,510.000,27-03-2015,Alm. Salg,5.666,3,Villa,90,1961,,Aktuel værdi
+Grovevej 167540 Haderup,erup,3.925.000,24-02-2015,Alm. Salg,14.537,8,Stuehus,270,1928,,
+Birkevej 17540 Haderup,erup,555.500,23-02-2015,Fam. Salg,2.394,6,Villa,232,1962,,Aktuel værdi
+Hallundbækvej 307540 Haderup,erup,1.222.500,11-02-2015,Alm. Salg,9.332,5,Stuehus,131,1951,-2 %,
+Solskrænten 67540 Haderup,erup,332.547,17-01-2015,Andet,3.260,4,Villa,102,1953,,Aktuel værdi
+Åskrænten 87540 Haderup,erup,804.836,29-12-2014,Fam. Salg,4.004,7,Villa,201,2007,,Aktuel værdi
+Skovvænget 897540 Haderup,erup,850.000,12-12-2014,Alm. Salg,5.214,5,Villa,163,1979,-13 %,Aktuel værdi
+Grovevej 317540 Haderup,erup,2.700.000,28-10-2014,Alm. Salg,10.112,11,Villa,267,1917,-7 %,Aktuel værdi
+Herningvej 187540 Haderup,erup,233.940,24-10-2014,Auktion,2.436,4,Villa,96,1910,,Aktuel værdi
+Hallundbækvej 247540 Haderup,erup,1.675.000,23-10-2014,Alm. Salg,11.394,5,Villa,147,1896,-7 %,Aktuel værdi
+Herningvej 817540 Haderup,erup,4.200.000,21-10-2014,Alm. Salg,12.962,9,Stuehus,324,1965,,
+Mølleparken 107540 Haderup,erup,550.000,08-10-2014,Alm. Salg,3.956,4,Villa,139,1974,0 %,Aktuel værdi
+Herningvej 147540 Haderup,erup,150.000,01-10-2014,Alm. Salg,675,8,Villa,222,1896,,Aktuel værdi
+Sandgårdvej 27540 Haderup,erup,111.000,27-07-2014,Alm. Salg,2.134,2,Stuehus,52,1907,,
+Langgade 607540 Haderup,erup,600.000,08-07-2014,Alm. Salg,4.511,5,Villa,133,1971,-7 %,Aktuel værdi
+Herningvej 867540 Haderup,erup,810.000,30-06-2014,Alm. Salg,3.875,6,Villa,209,1962,-19 %,Aktuel værdi
+Hækvej 17540 Haderup,erup,720.000,22-04-2014,Alm. Salg,5.294,7,Villa,136,1877,-12 %,Aktuel værdi
+Tjørnevej 527540 Haderup,erup,575.000,14-04-2014,Alm. Salg,4.356,4,Villa,132,1957,-17 %,Aktuel værdi
+Vistorpvej 97540 Haderup,erup,225.000,11-04-2014,Alm. Salg,2.083,4,Villa,108,1967,-43 %,Aktuel værdi
+Teglværksvej 147540 Haderup,erup,110.000,07-04-2014,Alm. Salg,763,6,Villa,144,1950,-27 %,Aktuel værdi
+Langgade 797540 Haderup,erup,3.145.000,04-04-2014,Alm. Salg,21.993,5,Stuehus,143,1985,-5 %,
+Stavlundvej 207540 Haderup,erup,3.450.000,05-03-2014,Alm. Salg,69.000,4,Sommerhus,50,1877,,Aktuel værdi
+Mølleparken 457540 Haderup,erup,250.000,07-02-2014,Alm. Salg,2.118,3,Villa,118,1954,-37 %,Aktuel værdi
+Sandgårdvej 57540 Haderup,erup,620.000,24-01-2014,Alm. Salg,4.428,6,Stuehus,140,1940,,
+Karupvej 67540 Haderup,erup,617.000,20-01-2014,Andet,3.808,6,Stuehus,162,1929,,
+Ravnevej 47540 Haderup,erup,1.220.000,17-11-2013,Alm. Salg,6.666,6,Villa,183,1977,,Aktuel værdi
+Teglværksvej 137540 Haderup,erup,200.000,10-10-2013,Alm. Salg,1.020,9,Stuehus,196,1895,,
+Teglværksvej 267540 Haderup,erup,30.000,30-09-2013,Alm. Salg,312,3,Villa,96,1932,,Aktuel værdi
+Gindeskovvej 207540 Haderup,erup,4.235.000,19-09-2013,Alm. Salg,17.869,7,Stuehus,237,1993,,
+"Herningvej 3, 17540 Haderup",erup,100.000,30-08-2013,Auktion,621,5,Lejlighed,161,1975,,Aktuel værdi
+Elmevej 77540 Haderup,erup,335.000,16-08-2013,Alm. Salg,2.991,4,Villa,112,1967,,Aktuel værdi
+Fladerne 27540 Haderup,erup,1.000.000,13-08-2013,Alm. Salg,7.751,5,Stuehus,129,2013,,
+Herningvej 847540 Haderup,erup,2.289.000,13-08-2013,Alm. Salg,31.791,3,Stuehus,72,1910,,
+Nørregade 387540 Haderup,erup,1.085.000,07-08-2013,Alm. Salg,4.340,7,Stuehus,250,1916,-13 %,
+Vibevej 67540 Haderup,erup,895.000,30-07-2013,Alm. Salg,5.966,5,Villa,150,1966,-10 %,Aktuel værdi
+Birkevej 47540 Haderup,erup,730.000,29-07-2013,Alm. Salg,3.842,6,Villa,190,1965,-1 %,Aktuel værdi
+Tusbækvej 277540 Haderup,erup,1.400.000,26-06-2013,Andet,9.395,5,Villa,149,2000,,Aktuel værdi
+Tusbækvej 427540 Haderup,erup,1.350.000,14-06-2013,Auktion,8.544,6,Villa,158,1900,-10 %,Aktuel værdi
+Gammel Landevej 10A7540 Haderup,erup,1.350.000,31-05-2013,Alm. Salg,8.823,5,Villa,153,2006,-3 %,Aktuel værdi
+Gindeskovvej 237540 Haderup,erup,1.200.000,30-05-2013,Alm. Salg,6.629,4,Villa,181,1941,-7 %,Aktuel værdi
+Gindeskovvej 47540 Haderup,erup,795.000,15-05-2013,Alm. Salg,5.482,6,Villa,145,1934,-6 %,Aktuel værdi
+Ahornvej 127540 Haderup,erup,727.000,02-05-2013,Alm. Salg,4.432,6,Villa,164,1973,-12 %,Aktuel værdi
+Karupvej 107540 Haderup,erup,356.540,30-04-2013,Alm. Salg,1.937,9,Stuehus,184,1903,,
+Tjørnevej 167540 Haderup,erup,2.094.000,04-04-2013,Alm. Salg,8.546,7,Stuehus,245,1894,,
+Bredgade 207540 Haderup,erup,160.000,20-03-2013,Alm. Salg,2.807,3,Villa,57,1957,,Aktuel værdi
+Mølleparken 97540 Haderup,erup,267.686,11-03-2013,Alm. Salg,1.953,4,Villa,137,1973,,Aktuel værdi
+Tjørnevej 12C7540 Haderup,erup,875.000,24-01-2013,Alm. Salg,8.254,3,Villa,106,2000,0 %,Aktuel værdi
+Eliseborgvej 37540 Haderup,erup,12.090.000,23-01-2013,Alm. Salg,71.964,7,Stuehus,168,1898,,
+Hogagervej 267540 Haderup,erup,3.250.000,17-01-2013,Fam. Salg,26.209,5,Stuehus,124,1941,,
+Gammel Landevej 307540 Haderup,erup,1.425.374,14-01-2013,Alm. Salg,9.137,6,Stuehus,156,1962,,
+Vormstrupvej 87540 Haderup,erup,735.000,07-11-2012,Alm. Salg,5.104,6,Stuehus,144,1913,-8 %,
+Langgade 517540 Haderup,erup,525.000,26-10-2012,Alm. Salg,3.070,4,Villa,171,1906,0 %,Aktuel værdi
+Solskrænten 87540 Haderup,erup,475.000,23-10-2012,Alm. Salg,5.053,4,Villa,94,1962,-17 %,Aktuel værdi
+Tjørnevej 12A7540 Haderup,erup,700.000,16-10-2012,Alm. Salg,6.862,3,Villa,102,1989,-3 %,Aktuel værdi
+Røjbækvej 27540 Haderup,erup,8.638.000,08-10-2012,Alm. Salg,27.422,9,Stuehus,315,1920,,
+Langgade 317540 Haderup,erup,560.272,11-09-2012,Fam. Salg,3.710,7,Villa,151,1939,,Aktuel værdi
+Herningvej 777540 Haderup,erup,1.990.000,03-09-2012,Alm. Salg,13.445,5,Stuehus,148,1971,,
+Skovvænget 967540 Haderup,erup,1.742.500,01-09-2012,Fam. Salg,10.890,3,Stuehus,160,1930,,
+Nørregade 207540 Haderup,erup,300.000,16-08-2012,Alm. Salg,2.325,6,Villa,129,1932,,Aktuel værdi
+Viftrupvej 57540 Haderup,erup,285.000,03-08-2012,Alm. Salg,3.131,4,Villa,91,1964,-15 %,Aktuel værdi
+Viftrupvej 87540 Haderup,erup,1.075.000,23-07-2012,Alm. Salg,6.718,5,Stuehus,160,1900,-17 %,
+Hogagervej 127540 Haderup,erup,1.790.000,20-07-2012,Alm. Salg,14.320,5,Stuehus,125,1957,-3 %,
+Teglværksvej 157540 Haderup,erup,1.680.000,06-07-2012,Alm. Salg,9.438,3,Stuehus,178,1967,,
+Ved Hegnet 67540 Haderup,erup,156.588,25-06-2012,Alm. Salg,991,6,Villa,158,2013,,Aktuel værdi
+Vormstrupvej 197540 Haderup,erup,1.575.000,15-06-2012,Alm. Salg,11.931,4,Villa,132,1953,,Aktuel værdi
+Herningvej 787540 Haderup,erup,570.000,06-06-2012,Alm. Salg,5.428,3,Stuehus,105,1896,-12 %,
+Mølleparken 237540 Haderup,erup,1.500.000,31-05-2012,Alm. Salg,5.976,8,Villa,251,1979,,Aktuel værdi
+Tjørnevej 257540 Haderup,erup,686.957,08-05-2012,Alm. Salg,4.293,5,Villa,160,1932,,Aktuel værdi
+Skovvænget 17540 Haderup,erup,392.500,07-05-2012,Andet,3.774,4,Villa,104,1954,,Aktuel værdi
+Bredgade 247540 Haderup,erup,875.000,22-04-2012,Alm. Salg,5.335,5,Villa,164,1969,-2 %,Aktuel værdi
+Ahornvej 57540 Haderup,erup,1.025.000,12-04-2012,Alm. Salg,6.570,6,Villa,156,1978,,Aktuel værdi
+Sandgårdvej 77540 Haderup,erup,1.719.000,11-04-2012,Fam. Salg,15.916,5,Stuehus,108,1930,,
+Bredgade 267540 Haderup,erup,303.000,20-03-2012,Alm. Salg,2.805,5,Villa,108,1939,,Aktuel værdi
+Vibevej 37540 Haderup,erup,680.000,16-03-2012,Alm. Salg,4.857,5,Villa,140,1963,-11 %,Aktuel værdi
+Gindeskovvej 37540 Haderup,erup,520.000,02-03-2012,Alm. Salg,3.586,5,Villa,145,1965,-13 %,Aktuel værdi
+Falkevej 47540 Haderup,erup,600.000,24-02-2012,Alm. Salg,3.947,5,Villa,152,1975,-14 %,Aktuel værdi
+Drosselvej 147540 Haderup,erup,1.075.000,16-02-2012,Alm. Salg,5.243,5,Villa,205,1975,-2 %,Aktuel værdi
+Nørregade 197540 Haderup,erup,410.000,08-02-2012,Alm. Salg,3.106,4,Villa,132,1954,-17 %,Aktuel værdi
+Langgade 547540 Haderup,erup,80.000,27-01-2012,Auktion,727,8,Villa,110,1932,-81 %,Aktuel værdi
+Tusbækvej 437540 Haderup,erup,1.330.000,27-01-2012,Alm. Salg,11.176,4,Stuehus,119,1935,-5 %,
+Taterbakkevej 47540 Haderup,erup,15.675.000,23-01-2012,Alm. Salg,65.312,11,Stuehus,240,1976,,
+Vester Feldborgvej 267540 Haderup,erup,12.150.000,23-01-2012,Alm. Salg,75.937,7,Stuehus,160,1912,,
+Gindeskovvej 177540 Haderup,erup,340.833,18-01-2012,Alm. Salg,1.670,6,Stuehus,204,1941,,
+Tjørnevej 177540 Haderup,erup,900.000,08-12-2011,Alm. Salg,5.696,5,Villa,158,1979,-8 %,Aktuel værdi
+Haderisvej 27540 Haderup,erup,400.000,14-11-2011,Alm. Salg,13.793,1,Sommerhus,29,1967,,Aktuel værdi
+Ørnevej 17540 Haderup,erup,1.005.000,11-11-2011,Alm. Salg,6.931,4,Villa,145,1979,-8 %,Aktuel værdi
+Skovvænget 777540 Haderup,erup,422.500,08-11-2011,Alm. Salg,3.061,4,Villa,138,1978,,Aktuel værdi
+Gråsandvej 37540 Haderup,erup,970.000,04-11-2011,Alm. Salg,5.271,4,Villa,184,1937,-11 %,Aktuel værdi
+Hedevej 47540 Haderup,erup,2.295.000,01-11-2011,Fam. Salg,20.131,6,Stuehus,114,1955,,
+Tjørnevej 137540 Haderup,erup,775.000,31-10-2011,Alm. Salg,6.250,4,Villa,124,1986,,Aktuel værdi
+Karupvej 117540 Haderup,erup,14.615.000,28-10-2011,Alm. Salg,74.566,6,Stuehus,196,1929,,
+Nørregade 147540 Haderup,erup,200.000,14-10-2011,Alm. Salg,2.352,4,Villa,85,1942,,Aktuel værdi
+Langgade 287540 Haderup,erup,505.000,03-10-2011,Alm. Salg,5.611,3,Villa,90,1964,,Aktuel værdi
+Langgade 207540 Haderup,erup,375.000,19-09-2011,Alm. Salg,3.151,4,Villa,119,1965,-17 %,Aktuel værdi
+Tusbækvej 447540 Haderup,erup,1.675.000,19-08-2011,Alm. Salg,12.884,4,Stuehus,130,1942,,
+Karupvej 37540 Haderup,erup,495.000,03-08-2011,Alm. Salg,4.626,4,Villa,107,1930,,Aktuel værdi
+Ved Hegnet 57540 Haderup,erup,172.188,02-08-2011,Alm. Salg,1.049,6,Villa,164,2012,,Aktuel værdi
+Karupvej 227540 Haderup,erup,955.000,19-05-2011,Alm. Salg,3.131,9,Stuehus,305,1921,-4 %,
+Vormstrupvej 137540 Haderup,erup,950.000,06-05-2011,Auktion,3.156,6,Stuehus,301,1972,,
+Ahornvej 87540 Haderup,erup,1.150.000,05-05-2011,Alm. Salg,7.770,4,Villa,148,1978,-4 %,Aktuel værdi
+Egevej 47540 Haderup,erup,875.000,21-03-2011,Alm. Salg,7.478,4,Villa,117,1971,,Aktuel værdi
+Ahornvej 147540 Haderup,erup,1.125.000,17-03-2011,Alm. Salg,4.536,8,Villa,248,1977,-6 %,Aktuel værdi
+Skovvænget 837540 Haderup,erup,985.000,11-02-2011,Alm. Salg,5.794,6,Villa,170,1981,0 %,Aktuel værdi
+Vistorpvej 247540 Haderup,erup,2.500.000,09-02-2011,Alm. Salg,19.379,4,Stuehus,129,1934,-11 %,
+Langgade 257540 Haderup,erup,300.000,27-01-2011,Fam. Salg,3.846,4,Villa,78,1933,,Aktuel værdi
+Herningvej 117540 Haderup,erup,695.000,14-12-2010,Alm. Salg,5.110,5,Villa,136,1955,0 %,Aktuel værdi
+Vibevej 27540 Haderup,erup,1.150.000,04-12-2010,Alm. Salg,7.931,7,Villa,145,1965,-4 %,Aktuel værdi
+Herningvej 287540 Haderup,erup,1.220.000,22-11-2010,Alm. Salg,7.870,4,Villa,155,1950,0 %,Aktuel værdi
+Hestbjergvej 107540 Haderup,erup,1.095.000,18-11-2010,Alm. Salg,8.111,5,Stuehus,135,1990,0 %,
+Vormstrupvej 77540 Haderup,erup,1.080.000,16-11-2010,Fam. Salg,7.826,6,Villa,138,1907,,Aktuel værdi
+Tusbækvej 237540 Haderup,erup,470.000,01-11-2010,Alm. Salg,5.222,4,Villa,90,1964,,Aktuel værdi
+Lærkevej 67540 Haderup,erup,730.000,07-10-2010,Alm. Salg,5.289,4,Villa,138,1974,,Aktuel værdi
+Langgade 587540 Haderup,erup,281.500,02-09-2010,Fam. Salg,2.199,5,Villa,128,1973,-59 %,Aktuel værdi
+Skovvænget 737540 Haderup,erup,582.500,28-08-2010,Alm. Salg,3.347,6,Villa,174,1984,,Aktuel værdi
+Langgade 447540 Haderup,erup,220.000,20-08-2010,Alm. Salg,2.115,4,Villa,104,1948,,Aktuel værdi
+Vibevej 17540 Haderup,erup,565.000,17-08-2010,Alm. Salg,5.090,4,Villa,111,1965,-5 %,Aktuel værdi
+Viborgvej 3457540 Haderup,erup,260.000,12-08-2010,Auktion,977,7,Villa,266,1938,,Aktuel værdi
+Ahornvej 37540 Haderup,erup,780.000,13-07-2010,Alm. Salg,5.652,4,Villa,138,1975,-2 %,Aktuel værdi
+Tusbækvej 357540 Haderup,erup,450.000,06-07-2010,Fam. Salg,3.913,4,Villa,115,1968,,Aktuel værdi
+Åskrænten 127540 Haderup,erup,251.845,30-06-2010,Alm. Salg,1.422,6,Villa,177,2011,,Aktuel værdi
+Hedevej 77540 Haderup,erup,2.750.000,17-06-2010,Alm. Salg,8.986,7,Villa,306,1943,-8 %,Aktuel værdi
+Drosselvej 77540 Haderup,erup,1.080.000,07-06-2010,Alm. Salg,4.675,8,Villa,231,1963,-17 %,Aktuel værdi
+Egeskrænten 107540 Haderup,erup,1.380.000,07-06-2010,Alm. Salg,8.414,6,Villa,164,1987,,Aktuel værdi
+Bredgade 277540 Haderup,erup,505.000,28-05-2010,Alm. Salg,5.941,3,Villa,85,1962,-15 %,Aktuel værdi
+Herningvej 607540 Haderup,erup,950.000,25-05-2010,Alm. Salg,9.895,3,Stuehus,96,1967,,
+Hestbjergvej 77540 Haderup,erup,1.650.000,21-05-2010,Alm. Salg,10.000,6,Villa,165,1900,-3 %,Aktuel værdi
+Tjørnevej 447540 Haderup,erup,1.085.000,11-05-2010,Alm. Salg,-,7,Villa,218,1968,-22 %,Aktuel værdi
+Langgade 237540 Haderup,erup,560.498,06-05-2010,Andet,2.981,5,Villa,188,1951,,Aktuel værdi
+Nygade 47540 Haderup,erup,400.000,05-05-2010,Alm. Salg,4.938,4,Villa,81,1928,,Aktuel værdi
+Gammel Landevej 77540 Haderup,erup,300.000,30-03-2010,Alm. Salg,3.409,3,Villa,88,1877,,Aktuel værdi
+Herningvej 107540 Haderup,erup,536.106,19-03-2010,Alm. Salg,2.425,10,Villa,221,1909,,Aktuel værdi
+Åskrænten 147540 Haderup,erup,252.845,19-03-2010,Alm. Salg,1.436,6,Villa,176,2011,,Aktuel værdi
+Tjørnevej 157540 Haderup,erup,995.000,12-03-2010,Alm. Salg,7.425,4,Villa,134,1986,0 %,Aktuel værdi
+Langgade 337540 Haderup,erup,1.135.000,15-02-2010,Alm. Salg,3.270,7,Villa,347,1981,,Aktuel værdi
+Hedevej 17540 Haderup,erup,761.350,10-02-2010,Alm. Salg,2.974,6,Villa,256,1966,,Aktuel værdi
+Langgade 917540 Haderup,erup,325.000,12-01-2010,Alm. Salg,4.166,4,Villa,78,1957,-32 %,Aktuel værdi
+Eliseborgvej 67540 Haderup,erup,5.597.000,08-12-2009,Alm. Salg,22.388,6,Stuehus,250,1974,357 %,
+Nørregade 267540 Haderup,erup,555.000,04-12-2009,Auktion,6.686,3,Villa,83,1930,,Aktuel værdi
+Nygårdvej 37540 Haderup,erup,4.200.000,19-11-2009,Alm. Salg,10.447,8,Stuehus,402,1911,-10 %,
+Skovvænget 217540 Haderup,erup,1.035.000,29-10-2009,Alm. Salg,7.237,5,Villa,143,1972,-5 %,Aktuel værdi
+Karupvej 87540 Haderup,erup,545.000,07-10-2009,Alm. Salg,5.343,4,Villa,102,1957,-13 %,Aktuel værdi
+Gammel Landevej 227540 Haderup,erup,800.000,16-09-2009,Alm. Salg,4.761,4,Villa,168,1940,-20 %,Aktuel værdi
+Herningvej 697540 Haderup,erup,800.000,14-08-2009,Alm. Salg,12.500,2,Villa,64,1951,-9 %,Aktuel værdi
+Birkevej 337540 Haderup,erup,1.300.000,08-07-2009,Alm. Salg,11.607,4,Villa,112,1973,,Aktuel værdi
+Feldborgvej 257540 Haderup,erup,1.650.000,06-07-2009,Alm. Salg,10.714,5,Stuehus,154,1916,,
+Nørregade 187540 Haderup,erup,575.000,24-06-2009,Alm. Salg,4.914,3,Villa,117,1917,-2 %,Aktuel værdi
+Pilhusevej 57540 Haderup,erup,765.000,03-06-2009,Alm. Salg,6.322,4,Villa,121,1943,-3 %,Aktuel værdi
+Langgade 87540 Haderup,erup,435.000,12-05-2009,Alm. Salg,5.000,3,Villa,87,1958,-27 %,Aktuel værdi
+Nygade 17540 Haderup,erup,465.000,13-03-2009,Alm. Salg,5.344,5,Villa,87,1929,-15 %,Aktuel værdi
+Viborgvej 3807540 Haderup,erup,380.000,27-02-2009,Alm. Salg,3.958,3,Villa,96,1900,-22 %,Aktuel værdi
+Hogagervej 157540 Haderup,erup,1.675.000,12-02-2009,Alm. Salg,6.320,7,Villa,265,1890,-6 %,Aktuel værdi
+Vormstrupvej 217540 Haderup,erup,3.737.700,06-02-2009,Fam. Salg,15.381,8,Stuehus,243,2007,,
+Drosselvej 47540 Haderup,erup,810.000,26-01-2009,Alm. Salg,6.750,4,Villa,120,1978,-10 %,Aktuel værdi
+Skolevænget 297540 Haderup,erup,272.945,10-12-2008,Alm. Salg,1.831,5,Villa,149,2011,,Aktuel værdi
+Åskrænten 77540 Haderup,erup,70.619,06-11-2008,Alm. Salg,430,6,Villa,164,2009,,Aktuel værdi
+Lærkevej 147540 Haderup,erup,895.000,30-10-2008,Alm. Salg,7.217,4,Villa,124,1974,,Aktuel værdi
+Åbakkevej 17540 Haderup,erup,495.000,28-10-2008,Alm. Salg,5.380,3,Villa,92,1897,,Aktuel værdi
+Langgade 477540 Haderup,erup,825.000,21-10-2008,Alm. Salg,7.568,3,Villa,109,1951,-2 %,Aktuel værdi
+Feldborgvej 277540 Haderup,erup,547.760,03-10-2008,Alm. Salg,4.564,4,Stuehus,120,1927,,
+Herningvej 167540 Haderup,erup,500.000,29-09-2008,Alm. Salg,4.273,5,Villa,117,1905,,Aktuel værdi
+Bredgade 857540 Haderup,erup,4.100.000,09-09-2008,Alm. Salg,25.949,10,Stuehus,158,1937,-7 %,
+Grovevej 187540 Haderup,erup,35.000,28-08-2008,Alm. Salg,271,5,Stuehus,129,1924,,
+Bredgade 407540 Haderup,erup,950.000,29-07-2008,Alm. Salg,8.962,5,Villa,106,1964,,Aktuel værdi
+Herningvej 727540 Haderup,erup,680.000,04-07-2008,Alm. Salg,5.964,6,Villa,114,1953,-2 %,Aktuel værdi
+Hogagervej 247540 Haderup,erup,1.795.000,11-06-2008,Alm. Salg,12.294,4,Villa,146,1932,0 %,Aktuel værdi
+Skovvænget 857540 Haderup,erup,1.395.000,06-06-2008,Alm. Salg,11.160,5,Villa,125,2000,0 %,Aktuel værdi
+Falkevej 227540 Haderup,erup,895.000,03-06-2008,Alm. Salg,7.336,4,Villa,122,1973,0 %,Aktuel værdi
+Feldborgvej 197540 Haderup,erup,4.000.000,30-05-2008,Alm. Salg,13.605,8,Villa,294,1933,,Aktuel værdi
+Langgade 707540 Haderup,erup,640.000,29-05-2008,Alm. Salg,4.413,5,Villa,145,1928,-8 %,Aktuel værdi
+Viftrupvej 97540 Haderup,erup,1.470.000,21-05-2008,Alm. Salg,7.819,7,Stuehus,188,1955,-2 %,
+Hogagervej 177540 Haderup,erup,2.690.000,03-05-2008,Alm. Salg,13.517,6,Villa,199,2002,1 %,Aktuel værdi
+Herningvej 577540 Haderup,erup,4.080.000,30-04-2008,Alm. Salg,37.090,2,Stuehus,110,1986,,
+Skovvænget 477540 Haderup,erup,1.125.000,29-04-2008,Alm. Salg,7.352,5,Villa,153,1977,-4 %,Aktuel værdi
+Tusbækvej 147540 Haderup,erup,1.150.000,28-04-2008,Alm. Salg,4.372,9,Villa,263,1946,,Aktuel værdi
+Vormstrupvej 97540 Haderup,erup,187.000,24-04-2008,Fam. Salg,1.558,4,Stuehus,120,1911,,
+Tjørnevej 27540 Haderup,erup,985.000,15-04-2008,Alm. Salg,7.035,5,Villa,140,1900,0 %,Aktuel værdi
+Tusbækvej 137540 Haderup,erup,560.000,09-04-2008,Alm. Salg,5.436,4,Villa,103,1965,-6 %,Aktuel værdi
+Bredgade 257540 Haderup,erup,575.000,03-04-2008,Alm. Salg,-,4,Villa,195,1972,,Aktuel værdi
+Bredgade 467540 Haderup,erup,400.000,27-03-2008,Alm. Salg,3.603,5,Villa,111,1920,,Aktuel værdi
+Eliseborgvej 127540 Haderup,erup,1.685.940,27-03-2008,Alm. Salg,11.315,6,Stuehus,149,1944,,
+Hallundbækvej 267540 Haderup,erup,146.909,19-03-2008,Alm. Salg,1.412,4,Stuehus,104,1914,,
+Langgade 77540 Haderup,erup,550.000,07-03-2008,Alm. Salg,3.716,4,Villa,148,1939,-8 %,Aktuel værdi
+Herningvej 227540 Haderup,erup,855.000,28-02-2008,Alm. Salg,5.059,5,Villa,169,1967,-2 %,Aktuel værdi
+Egevej 67540 Haderup,erup,940.000,27-02-2008,Alm. Salg,7.401,4,Villa,127,1973,-3 %,Aktuel værdi
+Bredgade 597540 Haderup,erup,495.000,25-02-2008,Alm. Salg,4.626,4,Villa,107,1910,-5 %,Aktuel værdi
+Skovvænget 87540 Haderup,erup,950.000,18-01-2008,Alm. Salg,8.119,3,Villa,117,1964,,Aktuel værdi
+Herningvej 77540 Haderup,erup,662.500,16-01-2008,Alm. Salg,5.300,6,Villa,125,1948,-9 %,Aktuel værdi
+Vistorpvej 77540 Haderup,erup,550.000,12-12-2007,Alm. Salg,5.045,5,Villa,109,1958,,Aktuel værdi
+Drosselvej 57540 Haderup,erup,920.000,25-11-2007,Alm. Salg,6.433,5,Villa,143,1963,-3 %,Aktuel værdi
+Haderisvej 47540 Haderup,erup,72.000,16-11-2007,Alm. Salg,450,6,Stuehus,160,1856,,
+Teglværksvej 17540 Haderup,erup,665.000,09-11-2007,Alm. Salg,4.683,5,Villa,142,1968,,Aktuel værdi
+Vistorpvej 177540 Haderup,erup,1.225.000,01-11-2007,Alm. Salg,7.954,4,Villa,154,1968,,Aktuel værdi
+Gammel Landevej 18C7540 Haderup,erup,1.225.000,16-10-2007,Alm. Salg,6.034,6,Villa,203,2008,,Aktuel værdi
+Karupvej 137540 Haderup,erup,585.000,25-09-2007,Alm. Salg,5.366,5,Villa,109,1965,0 %,Aktuel værdi
+Mølleparken 287540 Haderup,erup,845.000,16-09-2007,Alm. Salg,6.814,4,Villa,124,1977,,Aktuel værdi
+Skovvænget 637540 Haderup,erup,1.190.000,05-09-2007,Alm. Salg,7.000,6,Villa,170,1976,,Aktuel værdi
+Herningvej 587540 Haderup,erup,300.000,24-08-2007,Alm. Salg,6.000,4,Villa,50,1956,,Aktuel værdi
+Skovvænget 297540 Haderup,erup,860.000,03-08-2007,Alm. Salg,5.477,5,Villa,157,1974,-4 %,Aktuel værdi
+Tjørnevej 317540 Haderup,erup,1.800.000,02-08-2007,Alm. Salg,12.000,5,Villa,150,1969,,Aktuel værdi
+Bredgade 627540 Haderup,erup,595.000,25-07-2007,Alm. Salg,5.666,4,Villa,105,1934,,Aktuel værdi
+Skovvænget 157540 Haderup,erup,700.000,15-07-2007,Alm. Salg,4.430,5,Villa,158,1970,,Aktuel værdi
+Åskrænten 187540 Haderup,erup,258.645,01-07-2007,Alm. Salg,1.679,5,Villa,154,2008,,Aktuel værdi
+Mølleparken 157540 Haderup,erup,1.100.000,28-06-2007,Fam. Salg,4.910,9,Villa,224,1978,,Aktuel værdi
+Gammel Landevej 57540 Haderup,erup,403.000,18-06-2007,Alm. Salg,4.428,3,Villa,91,1910,,Aktuel værdi
+Skovvænget 177540 Haderup,erup,46.000,01-06-2007,Andet,333,4,Villa,138,1972,,Aktuel værdi
+Viborgvej 3667540 Haderup,erup,399.500,22-05-2007,Andet,4.993,6,Villa,80,1955,,Aktuel værdi
+Åbakkevej 147540 Haderup,erup,372.000,14-05-2007,Alm. Salg,3.720,3,Villa,100,1956,-17 %,Aktuel værdi
+Vestparken 127540 Haderup,erup,87.350,30-04-2007,Alm. Salg,516,6,Villa,169,2008,,Aktuel værdi
+Bredgade 377540 Haderup,erup,495.000,24-04-2007,Alm. Salg,6.346,2,Villa,78,1958,0 %,Aktuel værdi
+Tusbækvej 187540 Haderup,erup,590.000,13-04-2007,Alm. Salg,4.758,3,Villa,124,1947,,Aktuel værdi
+Haderisvej 17540 Haderup,erup,500.000,12-04-2007,Alm. Salg,9.615,3,Villa,52,1930,,Aktuel værdi
+Bredgade 127540 Haderup,erup,857.000,10-04-2007,Alm. Salg,6.492,4,Villa,132,1935,-4 %,Aktuel værdi
+Bredgade 27540 Haderup,erup,635.000,28-03-2007,Alm. Salg,5.291,5,Villa,120,1961,-2 %,Aktuel værdi
+Bredgade 337540 Haderup,erup,431.110,28-03-2007,Fam. Salg,3.394,4,Villa,127,1955,,Aktuel værdi
+Røjbækvej 37540 Haderup,erup,785.000,08-02-2007,Alm. Salg,6.230,5,Villa,126,1912,-2 %,Aktuel værdi
+Herningvej 907540 Haderup,erup,6.500.000,01-01-2007,Fam. Salg,25.896,7,Stuehus,251,1979,,
+Lærkevej 107540 Haderup,erup,1.115.000,27-12-2006,Alm. Salg,4.514,9,Villa,247,1973,,Aktuel værdi
+Tusbækvej 207540 Haderup,erup,340.000,15-12-2006,Fam. Salg,-,3,Villa,101,1931,,Aktuel værdi
+Skovvænget 517540 Haderup,erup,750.000,14-12-2006,Fam. Salg,6.048,4,Villa,124,1976,,Aktuel værdi
+Falkevej 87540 Haderup,erup,905.000,07-12-2006,Alm. Salg,7.669,4,Villa,118,1997,,Aktuel værdi
+Bredgade 187540 Haderup,erup,655.000,06-12-2006,Alm. Salg,6.894,4,Villa,95,1964,,Aktuel værdi
+Vormstrupvej 67540 Haderup,erup,1.200.000,29-11-2006,Alm. Salg,-,5,Stuehus,210,1928,,
+Teglværksvej 117540 Haderup,erup,1.250.000,06-11-2006,Alm. Salg,4.940,7,Villa,253,1959,,Aktuel værdi
+Stavlundvej 227540 Haderup,erup,4.200.000,02-11-2006,Alm. Salg,15.272,7,Stuehus,275,1953,,
+Gindeskovvej 87540 Haderup,erup,850.000,01-11-2006,Alm. Salg,6.746,5,Villa,126,1951,,Aktuel værdi
+Skovvænget 37540 Haderup,erup,466.022,16-10-2006,Alm. Salg,3.328,5,Villa,140,1964,,Aktuel værdi
+Bredgade 497540 Haderup,erup,625.000,11-10-2006,Alm. Salg,5.952,4,Villa,105,1910,,Aktuel værdi
+Nørregade 217540 Haderup,erup,270.000,04-10-2006,Alm. Salg,3.375,3,Villa,80,1958,,Aktuel værdi
+Skovvænget 457540 Haderup,erup,975.000,02-10-2006,Alm. Salg,6.290,6,Villa,155,1977,,Aktuel værdi
+Fladerne 37540 Haderup,erup,1.050.000,15-09-2006,Alm. Salg,6.481,4,Villa,162,1936,,Aktuel værdi
+Åbakkevej 247540 Haderup,erup,900.000,05-09-2006,Alm. Salg,12.857,2,Villa,70,1951,,Aktuel værdi
+Bredgade 717540 Haderup,erup,695.000,23-08-2006,Alm. Salg,6.096,5,Villa,114,1955,,Aktuel værdi
+Mølleparken 177540 Haderup,erup,725.000,14-08-2006,Alm. Salg,3.295,5,Villa,220,1979,,Aktuel værdi
+Gammel Landevej 207540 Haderup,erup,750.000,14-07-2006,Alm. Salg,3.623,7,Villa,207,1960,,Aktuel værdi
+Drosselvej 87540 Haderup,erup,400.000,26-06-2006,Alm. Salg,4.000,4,Villa,100,1962,,Aktuel værdi
+Langgade 847540 Haderup,erup,584.000,22-06-2006,Alm. Salg,3.743,6,Villa,156,2009,,Aktuel værdi
+Skovvænget 317540 Haderup,erup,980.000,21-06-2006,Alm. Salg,6.712,5,Villa,146,1979,,Aktuel værdi
+Lærkevej 127540 Haderup,erup,635.000,20-06-2006,Alm. Salg,4.703,4,Villa,135,1974,,Aktuel værdi
+Herningvej 947540 Haderup,erup,1.685.000,16-06-2006,Alm. Salg,7.659,6,Villa,220,1955,,Aktuel værdi
+Hallundbækvej 177540 Haderup,erup,4.300.000,06-06-2006,Alm. Salg,26.219,4,Stuehus,164,2007,,
+Gindeskovgård 47540 Haderup,erup,1.625.000,30-05-2006,Alm. Salg,6.552,6,Villa,248,1900,,Aktuel værdi
+Åbakkevej 117540 Haderup,erup,515.000,19-04-2006,Alm. Salg,2.829,5,Villa,182,1955,,Aktuel værdi
+Mølleparken 207540 Haderup,erup,850.000,31-03-2006,Alm. Salg,-,7,Villa,199,1986,,Aktuel værdi
+Åskrænten 167540 Haderup,erup,242.445,20-03-2006,Alm. Salg,1.524,6,Villa,159,2007,,Aktuel værdi
+Bredgade 757540 Haderup,erup,290.000,14-03-2006,Alm. Salg,2.248,5,Villa,129,1952,,Aktuel værdi
+Bredgade 557540 Haderup,erup,325.000,15-02-2006,Alm. Salg,3.095,5,Villa,105,1917,,Aktuel værdi
+Bredgade 587540 Haderup,erup,410.000,10-02-2006,Alm. Salg,5.324,3,Villa,77,1959,,Aktuel værdi
+Herningvej 247540 Haderup,erup,675.000,09-02-2006,Andet,6.250,5,Villa,108,1948,,Aktuel værdi
+Bredgade 87540 Haderup,erup,250.000,30-12-2005,Alm. Salg,2.066,5,Villa,121,1915,,Aktuel værdi
+Vormstrupvej 397540 Haderup,erup,2.700.000,26-12-2005,Alm. Salg,19.285,4,Stuehus,140,1928,,
+Skovvænget 537540 Haderup,erup,450.000,21-12-2005,Fam. Salg,3.284,5,Villa,137,1974,,Aktuel værdi
+Røjbækvej 77540 Haderup,erup,150.000,15-12-2005,Andet,694,7,Stuehus,216,1980,,
+Gindeskovvej 247540 Haderup,erup,701.590,30-11-2005,Alm. Salg,4.127,6,Stuehus,170,1900,,
+Bredgade 287540 Haderup,erup,660.000,22-11-2005,Alm. Salg,4.615,5,Villa,143,1965,,Aktuel værdi
+Gindeskovgård 67540 Haderup,erup,11.850.000,11-11-2005,Fam. Salg,80.612,3,Stuehus,147,2002,,
+Bredgade 297540 Haderup,erup,395.000,27-10-2005,Alm. Salg,4.072,3,Villa,97,1954,,Aktuel værdi
+Bredgade 57540 Haderup,erup,355.000,18-10-2005,Alm. Salg,-,4,Villa,152,1928,,Aktuel værdi
+Herningvej 67540 Haderup,erup,390.000,13-10-2005,Alm. Salg,2.846,4,Villa,137,1900,,Aktuel værdi
+Bredgade 67540 Haderup,erup,889.000,26-09-2005,Alm. Salg,6.216,4,Villa,143,1931,,Aktuel værdi
+Stavlundvej 117540 Haderup,erup,1.790.000,14-09-2005,Alm. Salg,15.431,3,Sommerhus,116,2016,,Aktuel værdi
+Vormstrupvej 37540 Haderup,erup,2.090.000,31-08-2005,Alm. Salg,8.636,8,Villa,242,1930,,Aktuel værdi
+Fladerne 47540 Haderup,erup,3.251.000,26-08-2005,Alm. Salg,10.836,7,Stuehus,300,1900,,
+Herningvej 557540 Haderup,erup,525.000,18-08-2005,Alm. Salg,3.052,5,Villa,172,1957,,Aktuel værdi
+Gammel Landevej 47540 Haderup,erup,115.000,21-07-2005,Alm. Salg,1.105,4,Villa,104,2006,,Aktuel værdi
+Røjbækvej 97540 Haderup,erup,750.000,07-07-2005,Fam. Salg,7.142,4,Villa,105,1930,,Aktuel værdi
+Nørregade 227540 Haderup,erup,575.000,13-06-2005,Alm. Salg,2.738,7,Villa,210,1928,,Aktuel værdi
+Ahornvej 17540 Haderup,erup,480.000,01-06-2005,Alm. Salg,3.902,4,Villa,123,1974,,Aktuel værdi
+Drosselvej 127540 Haderup,erup,610.000,30-05-2005,Alm. Salg,5.398,4,Villa,113,1970,,Aktuel værdi
+Mølleparken 217540 Haderup,erup,350.000,30-05-2005,Alm. Salg,4.117,4,Villa,85,1984,,Aktuel værdi
+Vistorpvej 277540 Haderup,erup,3.928.000,20-04-2005,Alm. Salg,18.528,9,Stuehus,212,1937,,
+Skolevænget 127540 Haderup,erup,107.390,12-04-2005,Alm. Salg,859,3,Villa,125,2006,,Aktuel værdi
+Herningvej 537540 Haderup,erup,935.000,08-04-2005,Fam. Salg,17.314,2,Stuehus,54,1880,,
+Nygade 167540 Haderup,erup,500.000,17-03-2005,Alm. Salg,5.000,3,Villa,100,1959,,Aktuel værdi
+Mølleparken 227540 Haderup,erup,650.000,14-03-2005,Alm. Salg,-,8,Villa,217,1979,,Aktuel værdi
+Bredgade 477540 Haderup,erup,675.000,26-02-2005,Alm. Salg,3.096,10,Villa,218,1928,,Aktuel værdi
+Vistorpvej 57540 Haderup,erup,13.600.000,11-02-2005,Alm. Salg,80.473,6,Stuehus,169,2003,,
+Tusbækvej 347540 Haderup,erup,750.000,29-01-2005,Alm. Salg,3.456,8,Villa,217,1969,,Aktuel værdi
+Gindeskovvej 217540 Haderup,erup,825.000,06-01-2005,Fam. Salg,-,6,Stuehus,161,1897,,
+Birkevej 87540 Haderup,erup,500.000,04-01-2005,Alm. Salg,4.000,6,Villa,125,1964,,Aktuel værdi
+Hallundbækvej 26A7540 Haderup,erup,575.000,20-12-2004,Alm. Salg,-,6,Stuehus,239,2007,,
+Barslundvej 17540 Haderup,erup,2.521.634,20-12-2004,Alm. Salg,10.209,7,Villa,247,1877,,Aktuel værdi
+Langgade 137540 Haderup,erup,4.329.857,16-12-2004,Alm. Salg,29.454,5,Stuehus,147,1900,,
+Skolevænget 237540 Haderup,erup,90.000,14-12-2004,Alm. Salg,552,6,Villa,163,2008,,Aktuel værdi
+Langgade 107540 Haderup,erup,428.360,10-12-2004,Alm. Salg,3.245,5,Villa,132,1959,,Aktuel værdi
+Vestparken 87540 Haderup,erup,850.000,03-12-2004,Alm. Salg,5.862,6,Villa,145,1988,,Aktuel værdi
+Stavlundvej 187540 Haderup,erup,3.800.000,30-11-2004,Alm. Salg,18.357,4,Stuehus,207,1968,,
+Teglværksvej 127540 Haderup,erup,765.000,30-11-2004,Alm. Salg,4.371,3,Villa,175,1956,,Aktuel værdi
+Stavlundvej 37540 Haderup,erup,2.500.000,29-10-2004,Alm. Salg,7.331,6,Stuehus,341,1900,,
+Skovvænget 597540 Haderup,erup,765.000,01-10-2004,Alm. Salg,6.071,4,Villa,126,1975,,Aktuel værdi
+Solskrænten 17540 Haderup,erup,750.000,14-09-2004,Alm. Salg,4.573,7,Villa,164,1965,,Aktuel værdi
+Tusbækvej 37540 Haderup,erup,350.000,01-09-2004,Alm. Salg,4.666,3,Villa,75,1956,,Aktuel værdi
+Viftrupvej 77540 Haderup,erup,1.165.000,23-08-2004,Alm. Salg,-,5,Stuehus,213,1915,,
+Karupvej 177540 Haderup,erup,450.000,02-08-2004,Andet,2.571,8,Villa,175,1903,,Aktuel værdi
+Grovevej 197540 Haderup,erup,1.550.000,25-06-2004,Fam. Salg,22.142,3,Stuehus,70,1955,,
+Bredgade 437540 Haderup,erup,495.000,14-05-2004,Alm. Salg,2.765,7,Villa,179,1908,,Aktuel værdi
+Viborgvej 3687540 Haderup,erup,595.000,11-05-2004,Alm. Salg,5.265,6,Villa,113,1958,,Aktuel værdi
+Pilhusevej 97540 Haderup,erup,3.200.000,07-04-2004,Alm. Salg,12.851,8,Stuehus,249,1900,,
+Skovvænget 337540 Haderup,erup,935.000,31-03-2004,Alm. Salg,5.312,6,Villa,176,1977,,Aktuel værdi
+Kirkevej 97540 Haderup,erup,400.000,19-03-2004,Alm. Salg,2.877,8,Villa,139,1893,,Aktuel værdi
+Vestparken 187540 Haderup,erup,775.000,18-03-2004,Alm. Salg,7.045,5,Villa,110,1988,,Aktuel værdi
+Vistorpvej 307540 Haderup,erup,909.000,09-03-2004,Alm. Salg,8.263,3,Villa,110,1979,,Aktuel værdi
+Ved Hegnet 17540 Haderup,erup,166.398,24-02-2004,Alm. Salg,1.615,4,Villa,103,2005,,Aktuel værdi
+Nørregade 137540 Haderup,erup,600.000,20-02-2004,Alm. Salg,2.553,7,Villa,235,1931,,Aktuel værdi
+Lærkevej 97540 Haderup,erup,750.000,17-02-2004,Alm. Salg,5.395,4,Villa,139,1973,,Aktuel værdi
+Vibevej 87540 Haderup,erup,634.948,07-02-2004,Alm. Salg,4.999,4,Villa,127,1976,,Aktuel værdi
+Langgade 537540 Haderup,erup,799.000,21-01-2004,Alm. Salg,2.884,7,Stuehus,277,1922,,
+Løvigvej 27540 Haderup,erup,1.985.639,29-12-2003,Fam. Salg,8.273,4,Stuehus,240,1913,,
+Sandgårdvej 17540 Haderup,erup,1.245.000,16-12-2003,Alm. Salg,6.693,9,Villa,186,1928,,Aktuel værdi
+Taterbakkevej 127540 Haderup,erup,1.459.510,10-11-2003,Alm. Salg,8.108,6,Stuehus,180,1922,,
+Skovvænget 697540 Haderup,erup,625.000,20-10-2003,Alm. Salg,4.734,4,Villa,132,1978,,Aktuel værdi
+Åbakkevej 47540 Haderup,erup,475.000,19-10-2003,Alm. Salg,-,7,Villa,383,1907,,Aktuel værdi
+Viborgvej 3477540 Haderup,erup,550.000,30-09-2003,Alm. Salg,3.503,5,Stuehus,157,1913,,
+Åbakkevej 167540 Haderup,erup,398.384,27-08-2003,Alm. Salg,3.723,4,Villa,107,1942,,Aktuel værdi
+Eliseborgvej 47540 Haderup,erup,442.500,12-08-2003,Alm. Salg,2.011,5,Villa,220,1900,,Aktuel værdi
+Falkevej 107540 Haderup,erup,575.000,08-08-2003,Alm. Salg,3.911,4,Villa,147,1974,,Aktuel værdi
+Pilhusevej 117540 Haderup,erup,399.000,06-08-2003,Fam. Salg,6.879,2,Stuehus,58,1955,,
+Tjørnevej 507540 Haderup,erup,1.185.000,27-06-2003,Alm. Salg,6.475,6,Villa,183,1978,,Aktuel værdi
+Åskrænten 97540 Haderup,erup,156.423,15-06-2003,Alm. Salg,1.042,5,Villa,150,2004,,Aktuel værdi
+Viftrupvej 167540 Haderup,erup,1.270.000,10-03-2003,Alm. Salg,7.888,4,Villa,161,1958,,Aktuel værdi
+Langgade 297540 Haderup,erup,780.000,27-02-2003,Alm. Salg,6.046,4,Villa,129,1867,,Aktuel værdi
+Åbakkevej 27540 Haderup,erup,435.000,14-02-2003,Alm. Salg,-,9,Villa,319,1929,,Aktuel værdi
+Skolevænget 87540 Haderup,erup,525.000,07-02-2003,Alm. Salg,4.816,4,Villa,109,1965,,Aktuel værdi
+Karupvej 47540 Haderup,erup,1.750.000,06-02-2003,Alm. Salg,-,7,Stuehus,217,1929,,
+Vistorpvej 207540 Haderup,erup,2.025.000,29-01-2003,Fam. Salg,15.576,4,Stuehus,130,1925,,
+Lærkevej 47540 Haderup,erup,272.000,26-01-2003,Alm. Salg,2.428,4,Villa,112,1963,,Aktuel værdi
+Skovvænget 957540 Haderup,erup,1.860.000,31-10-2002,Alm. Salg,11.772,5,Stuehus,158,1971,,
+Skolevænget 107540 Haderup,erup,495.000,29-10-2002,Fam. Salg,2.750,5,Villa,180,1969,,Aktuel værdi
+Bredgade 387540 Haderup,erup,520.000,01-10-2002,Alm. Salg,4.601,3,Villa,113,1972,,Aktuel værdi
+Vester Feldborgvej 227540 Haderup,erup,431.093,24-09-2002,Alm. Salg,2.694,6,Stuehus,160,1911,,
+Langgade 47540 Haderup,erup,390.000,29-08-2002,Alm. Salg,3.979,5,Villa,98,1949,,Aktuel værdi
+Fladerne 17540 Haderup,erup,1.300.000,14-08-2002,Fam. Salg,9.774,3,Stuehus,133,1959,,
+Ørnevej 97540 Haderup,erup,525.000,15-07-2002,Alm. Salg,4.411,3,Villa,119,1988,,Aktuel værdi
+Lærkevej 87540 Haderup,erup,690.000,05-07-2002,Alm. Salg,4.791,4,Villa,144,1973,,Aktuel værdi
+Fladerne 67540 Haderup,erup,370.000,24-06-2002,Alm. Salg,5.285,3,Villa,70,1954,,Aktuel værdi
+Vester Feldborgvej 197540 Haderup,erup,560.000,07-06-2002,Alm. Salg,-,4,Villa,131,1914,,Aktuel værdi
+Hogagervej 287540 Haderup,erup,145.000,03-06-2002,Alm. Salg,1.367,3,Stuehus,106,1908,,
+Viborgvej 3647540 Haderup,erup,825.000,03-05-2002,Alm. Salg,-,3,Stuehus,95,1930,,
+Vistorpvej 287540 Haderup,erup,452.500,30-04-2002,Alm. Salg,4.713,4,Villa,96,1960,,Aktuel værdi
+Vistorpvej 127540 Haderup,erup,75.000,14-04-2002,Alm. Salg,1.363,3,Sommerhus,55,1969,,Aktuel værdi
+Over Høstrupvej 67540 Haderup,erup,5.750.000,09-04-2002,Alm. Salg,24.572,9,Stuehus,234,1957,,
+Lyngskrænten 27540 Haderup,erup,90.675,02-04-2002,Alm. Salg,629,5,Villa,144,2003,,Aktuel værdi
+Vester Feldborgvej 24A7540 Haderup,erup,625.000,01-04-2002,Fam. Salg,3.472,6,Stuehus,180,1900,,
+Skovvænget 677540 Haderup,erup,869.508,27-03-2002,Alm. Salg,5.683,5,Villa,153,1978,,Aktuel værdi
+Lyngskrænten 127540 Haderup,erup,1.075.000,27-03-2002,Alm. Salg,7.072,5,Villa,152,1984,,Aktuel værdi
+Stavlundvej 157540 Haderup,erup,1.547.500,14-03-2002,Alm. Salg,10.672,4,Stuehus,145,1931,,
+Åbakkevej 67540 Haderup,erup,1.625.000,16-02-2002,Alm. Salg,6.914,12,Villa,235,1900,,Aktuel værdi
+Nørregade 107540 Haderup,erup,382.000,31-01-2002,Alm. Salg,3.820,5,Villa,100,1932,,Aktuel værdi
+Tusbækvej 167540 Haderup,erup,360.000,21-01-2002,Alm. Salg,2.627,4,Villa,137,1945,,Aktuel værdi
+Bredgade 347540 Haderup,erup,507.178,02-11-2001,Alm. Salg,2.139,9,Villa,237,1975,,Aktuel værdi
+Tjørnevej 367540 Haderup,erup,120.000,16-10-2001,Alm. Salg,662,6,Villa,181,2002,,Aktuel værdi
+Birkevej 327540 Haderup,erup,1.200.000,24-09-2001,Alm. Salg,-,4,Villa,173,1938,,Aktuel værdi
+Eliseborgvej 57540 Haderup,erup,720.000,04-09-2001,Alm. Salg,4.311,4,Stuehus,167,1927,,
+Fårbækvej 207540 Haderup,erup,2.600.000,31-08-2001,Fam. Salg,16.250,8,Stuehus,160,1932,,
+Åbakkevej 87540 Haderup,erup,415.000,29-08-2001,Alm. Salg,4.825,3,Villa,86,1927,,Aktuel værdi
+Mølleparken 147540 Haderup,erup,845.000,31-07-2001,Alm. Salg,2.923,8,Villa,289,1975,,Aktuel værdi
+Bredgade 107540 Haderup,erup,293.822,26-07-2001,Fam. Salg,1.895,6,Villa,155,1948,,Aktuel værdi
+Hoppes Alle 57540 Haderup,erup,69.000,23-07-2001,Alm. Salg,518,4,Villa,133,2002,,Aktuel værdi
+Bredgade 367540 Haderup,erup,420.000,13-07-2001,Alm. Salg,4.615,4,Villa,91,1958,,Aktuel værdi
+Feldborgvej 167540 Haderup,erup,490.000,02-07-2001,Fam. Salg,2.258,7,Stuehus,217,2002,,
+Pilhusevej 17540 Haderup,erup,210.000,10-06-2001,Alm. Salg,-,5,Villa,180,1933,,Aktuel værdi
+Langgade 437540 Haderup,erup,460.000,18-05-2001,Alm. Salg,4.220,4,Villa,109,1943,,Aktuel værdi
+Langgade 277540 Haderup,erup,568.000,16-05-2001,Alm. Salg,4.544,4,Villa,125,1976,,Aktuel værdi
+Langgade 187540 Haderup,erup,80.000,02-05-2001,Alm. Salg,441,4,Villa,181,2002,,Aktuel værdi
+Vistorpvej 197540 Haderup,erup,450.000,25-04-2001,Alm. Salg,3.846,4,Villa,117,1970,,Aktuel værdi
+Tusbækvej 517540 Haderup,erup,315.000,25-04-2001,Auktion,1.740,4,Villa,181,1907,,Aktuel værdi
+Nørregade 357540 Haderup,erup,1.000.000,11-04-2001,Alm. Salg,5.235,9,Stuehus,191,1929,,
+Viftrupvej 47540 Haderup,erup,3.000.000,05-04-2001,Fam. Salg,15.625,6,Stuehus,192,1952,,
+Herningvej 667540 Haderup,erup,1.325.000,02-04-2001,Fam. Salg,9.742,4,Stuehus,136,1973,,
+Tusbækvej 457540 Haderup,erup,600.000,16-03-2001,Fam. Salg,8.219,4,Stuehus,73,1905,,
+Sandgårdvej 37540 Haderup,erup,1.700.000,15-03-2001,Fam. Salg,7.423,6,Stuehus,229,2009,,
+Sandgårdvej 11A7540 Haderup,erup,1.332.500,06-03-2001,Fam. Salg,4.659,6,Stuehus,286,2008,,
+Vester Feldborgvej 167540 Haderup,erup,465.000,26-01-2001,Alm. Salg,2.360,6,Stuehus,197,2002,,
+Hallundbækvej 287540 Haderup,erup,850.000,15-01-2001,Alm. Salg,6.967,4,Stuehus,122,1903,,
+Pilhusevej 77540 Haderup,erup,339.000,17-11-2000,Alm. Salg,3.356,5,Villa,101,1944,,Aktuel værdi
+Nørregade 97540 Haderup,erup,500.000,15-11-2000,Fam. Salg,3.378,7,Villa,148,1948,,Aktuel værdi
+Ahornvej 27540 Haderup,erup,650.000,30-10-2000,Fam. Salg,-,7,Villa,221,1979,,Aktuel værdi
+Tusbækvej 227540 Haderup,erup,450.000,13-09-2000,Fam. Salg,-,7,Villa,173,1949,,Aktuel værdi
+Skovvænget 717540 Haderup,erup,56.875,04-09-2000,Alm. Salg,357,5,Villa,159,2001,,Aktuel værdi
+Skovvænget 817540 Haderup,erup,1.215.000,28-08-2000,Alm. Salg,-,7,Villa,171,2001,,Aktuel værdi
+Drosselvej 107540 Haderup,erup,275.000,24-07-2000,Alm. Salg,2.864,3,Villa,96,1964,,Aktuel værdi
+Herningvej 497540 Haderup,erup,1.900.000,07-07-2000,Alm. Salg,11.728,5,Stuehus,162,1941,,
+Nørregade 237540 Haderup,erup,330.000,28-06-2000,Alm. Salg,3.235,3,Villa,102,1935,,Aktuel værdi
+Gammel Landevej 37540 Haderup,erup,265.000,16-06-2000,Fam. Salg,2.038,4,Villa,130,1939,,Aktuel værdi
+Drosselvej 27540 Haderup,erup,674.440,02-06-2000,Alm. Salg,5.620,5,Villa,120,1956,,Aktuel værdi
+Karupvej 17540 Haderup,erup,167.472,26-05-2000,Alm. Salg,935,5,Stuehus,179,1968,,
+Nørregade 257540 Haderup,erup,350.000,02-05-2000,Alm. Salg,2.243,5,Villa,156,1935,,Aktuel værdi
+Taterbakkevej 67540 Haderup,erup,1.150.000,17-04-2000,Alm. Salg,10.648,4,Stuehus,108,1900,,
+Falkevej 177540 Haderup,erup,26.600,17-04-2000,Alm. Salg,129,7,Villa,205,2000,,Aktuel værdi
+Gammel Landevej 87540 Haderup,erup,440.000,12-04-2000,Alm. Salg,-,3,Villa,144,1905,,Aktuel værdi
+Skovvænget 377540 Haderup,erup,328.168,22-03-2000,Fam. Salg,1.875,6,Villa,175,1978,,Aktuel værdi
+Lyngskrænten 87540 Haderup,erup,64.294,20-03-2000,Alm. Salg,434,6,Villa,148,2000,,Aktuel værdi
+Stavlundvej 147540 Haderup,erup,134.000,15-03-2000,Alm. Salg,1.240,4,Stuehus,108,1912,,
+Langgade 247540 Haderup,erup,100.000,11-03-2000,Alm. Salg,602,5,Villa,166,2002,,Aktuel værdi
+Hestbjergvej 87540 Haderup,erup,310.000,10-02-2000,Fam. Salg,1.201,6,Villa,258,2001,,Aktuel værdi
+Haderisvej 37540 Haderup,erup,500.000,21-12-1999,Alm. Salg,4.098,7,Stuehus,122,1930,,
+Vistorpvej 47540 Haderup,erup,225.000,27-10-1999,Alm. Salg,4.500,2,Villa,50,1974,,Aktuel værdi
+Tusbækvej 337540 Haderup,erup,460.000,04-10-1999,Alm. Salg,4.000,4,Villa,115,1967,,Aktuel værdi
+Tusbækvej 117540 Haderup,erup,450.000,01-10-1999,Alm. Salg,4.787,3,Villa,94,1950,,Aktuel værdi
+Stavlundvej 247540 Haderup,erup,900.000,30-09-1999,Alm. Salg,8.737,4,Stuehus,103,1931,,
+Bredgade 927540 Haderup,erup,650.000,13-09-1999,Alm. Salg,3.823,3,Villa,170,1924,,Aktuel værdi
+Birkevej 107540 Haderup,erup,623.025,10-09-1999,Alm. Salg,3.993,3,Villa,156,1973,,Aktuel værdi
+Falkevej 137540 Haderup,erup,142.500,02-09-1999,Alm. Salg,800,7,Villa,178,2000,,Aktuel værdi
+Mølleparken 197540 Haderup,erup,850.000,09-07-1999,Alm. Salg,3.917,7,Villa,217,1984,,Aktuel værdi
+Bredgade 677540 Haderup,erup,900.000,05-07-1999,Alm. Salg,-,10,Stuehus,275,1999,,
+Gindeskovvej 187540 Haderup,erup,550.000,17-05-1999,Alm. Salg,4.910,5,Villa,112,1883,,Aktuel værdi
+Bredgade 777540 Haderup,erup,50.430,21-04-1999,Alm. Salg,227,7,Villa,222,1999,,Aktuel værdi
+Herningvej 797540 Haderup,erup,1.561.074,18-04-1999,Fam. Salg,14.454,3,Stuehus,108,1974,,
+Bredgade 237540 Haderup,erup,75.000,17-04-1999,Alm. Salg,543,4,Villa,138,1999,,Aktuel værdi
+Vistorpvej 157540 Haderup,erup,325.000,22-03-1999,Alm. Salg,3.651,3,Villa,89,1950,,Aktuel værdi
+Mølleparken 187540 Haderup,erup,897.000,24-02-1999,Alm. Salg,3.849,8,Villa,233,1978,,Aktuel værdi
+Jens Jensensvej 57540 Haderup,erup,512.000,30-01-1999,Alm. Salg,2.639,6,Villa,194,1960,,Aktuel værdi
+Tjørnevej 387540 Haderup,erup,950.000,29-01-1999,Alm. Salg,3.518,7,Villa,270,1977,,Aktuel værdi
+Tjørnevej 487540 Haderup,erup,520.000,06-01-1999,Alm. Salg,4.444,4,Villa,117,1968,,Aktuel værdi
+Gammel Landevej 187540 Haderup,erup,517.747,30-09-1998,Alm. Salg,4.706,5,Villa,110,1923,,Aktuel værdi
+Sandgårdvej 47540 Haderup,erup,473.400,29-09-1998,Alm. Salg,3.945,4,Villa,120,1928,,Aktuel værdi
+Over Høstrupvej 57540 Haderup,erup,1.100.000,21-09-1998,Alm. Salg,10.576,4,Stuehus,104,1928,,
+Ahornvej 47540 Haderup,erup,563.000,04-09-1998,Alm. Salg,4.771,4,Villa,118,1974,,Aktuel værdi
+Taterbakkevej 57540 Haderup,erup,650.100,03-09-1998,Alm. Salg,3.916,3,Villa,166,1917,,Aktuel værdi
+Langgade 97540 Haderup,erup,590.000,17-08-1998,Alm. Salg,4.068,4,Villa,145,1965,,Aktuel værdi
+Tusbækvej 30A7540 Haderup,erup,75.000,17-08-1998,Alm. Salg,669,5,Villa,112,1999,,Aktuel værdi
+Gråsandvej 67540 Haderup,erup,401.040,08-07-1998,Alm. Salg,2.864,5,Stuehus,140,1998,,
+Feldborgvej 217540 Haderup,erup,1.250.000,26-06-1998,Alm. Salg,9.328,5,Stuehus,134,1934,,
+Hogagervej 197540 Haderup,erup,520.000,25-05-1998,Alm. Salg,2.270,7,Stuehus,229,1991,,
+Grovevej 267540 Haderup,erup,468.500,21-05-1998,Alm. Salg,4.259,4,Villa,110,1959,,Aktuel værdi
+Lærkevej 247540 Haderup,erup,660.109,03-05-1998,Alm. Salg,5.455,4,Villa,121,1979,,Aktuel værdi
+Bredgade 647540 Haderup,erup,658.000,20-03-1998,Alm. Salg,6.266,5,Villa,105,1954,,Aktuel værdi
+Tusbækvej 29A7540 Haderup,erup,53.775,11-03-1998,Alm. Salg,212,6,Villa,253,1998,,Aktuel værdi
+Tjørnevej 87540 Haderup,erup,700.000,05-03-1998,Alm. Salg,-,6,Villa,179,1953,,Aktuel værdi
+Sandgårdvej 117540 Haderup,erup,340.000,29-01-1998,Alm. Salg,2.956,3,Villa,115,1960,,Aktuel værdi
+Viborgvej 3747540 Haderup,erup,14.000,23-01-1998,Fam. Salg,280,2,Villa,50,1900,,Aktuel værdi
+Solskrænten 57540 Haderup,erup,495.000,29-12-1997,Alm. Salg,-,6,Villa,173,1965,,Aktuel værdi
+Falkevej 117540 Haderup,erup,720.000,22-12-1997,Alm. Salg,4.800,5,Villa,150,1977,,Aktuel værdi
+Bredgade 157540 Haderup,erup,250.000,01-12-1997,Fam. Salg,3.125,3,Villa,80,1946,,Aktuel værdi
+Løvigvej 67540 Haderup,erup,535.028,14-11-1997,Alm. Salg,3.005,6,Stuehus,178,2009,,
+Hestbjergvej 67540 Haderup,erup,862.000,07-11-1997,Alm. Salg,10.261,4,Stuehus,84,1912,,
+Åbakkevej 187540 Haderup,erup,550.000,06-11-1997,Alm. Salg,5.092,5,Villa,108,1951,,Aktuel værdi
+Solskrænten 107540 Haderup,erup,468.074,22-10-1997,Alm. Salg,5.200,3,Villa,90,1961,,Aktuel værdi
+Granbakken 17540 Haderup,erup,400.000,16-10-1997,Fam. Salg,2.484,6,Villa,161,1951,,Aktuel værdi
+Teglværksvej 67540 Haderup,erup,215.000,02-10-1997,Alm. Salg,2.067,5,Villa,104,1903,,Aktuel værdi
+Langgade 167540 Haderup,erup,345.173,01-10-1997,Alm. Salg,-,5,Villa,118,1965,,Aktuel værdi
+Herningvej 87540 Haderup,erup,400.000,01-10-1997,Fam. Salg,3.883,5,Villa,103,1934,,Aktuel værdi
+Hallundbækvej 197540 Haderup,erup,406.000,29-09-1997,Alm. Salg,-,6,Stuehus,283,1902,,
+Tjørnevej 197540 Haderup,erup,510.000,19-09-1997,Alm. Salg,3.953,4,Villa,129,1969,,Aktuel værdi
+Vestparken 147540 Haderup,erup,715.000,20-08-1997,Alm. Salg,-,5,Villa,161,1984,,Aktuel værdi
+Tusbækvej 57540 Haderup,erup,182.000,04-08-1997,Alm. Salg,1.685,3,Villa,108,1900,,Aktuel værdi
+Fårbækvej 187540 Haderup,erup,470.000,07-07-1997,Fam. Salg,3.032,5,Stuehus,155,1855,,
+Nørregade 297540 Haderup,erup,635.000,12-06-1997,Alm. Salg,3.670,4,Villa,173,1921,,Aktuel værdi
+Gindeskovvej 67540 Haderup,erup,264.000,11-06-1997,Alm. Salg,2.933,3,Villa,90,1950,,Aktuel værdi
+Tusbækvej 127540 Haderup,erup,250.000,23-05-1997,Fam. Salg,2.631,4,Villa,95,1949,,Aktuel værdi
+Skolevænget 27540 Haderup,erup,590.000,18-05-1997,Alm. Salg,3.532,7,Villa,167,1947,,Aktuel værdi
+Teglværksvej 207540 Haderup,erup,627.000,09-05-1997,Alm. Salg,3.542,5,Stuehus,177,2005,,
+Kirkevej 17540 Haderup,erup,388.000,24-04-1997,Alm. Salg,2.063,7,Villa,188,1930,,Aktuel værdi
+Skovvænget 357540 Haderup,erup,798.000,23-04-1997,Alm. Salg,5.741,6,Villa,139,1976,,Aktuel værdi
+Skovvænget 57540 Haderup,erup,650.000,17-04-1997,Alm. Salg,4.220,3,Villa,154,1967,,Aktuel værdi
+Vistorpvej 237540 Haderup,erup,1.625.000,14-04-1997,Alm. Salg,4.723,8,Villa,344,1894,,Aktuel værdi
+Stavlundvej 27540 Haderup,erup,161.500,31-01-1997,Fam. Salg,2.446,2,Sommerhus,66,1966,,Aktuel værdi
+Teglværksvej 97540 Haderup,erup,465.000,23-12-1996,Alm. Salg,2.906,6,Villa,160,1902,,Aktuel værdi
+Herningvej 267540 Haderup,erup,430.000,23-12-1996,Alm. Salg,-,4,Villa,194,1945,,Aktuel værdi
+Falkevej 67540 Haderup,erup,623.000,03-09-1996,Alm. Salg,4.580,5,Villa,136,1972,,Aktuel værdi
+Hogagervej 147540 Haderup,erup,320.000,29-08-1996,Alm. Salg,-,7,Villa,153,1930,,Aktuel værdi
+Langgade 427540 Haderup,erup,480.000,28-08-1996,Alm. Salg,3.057,4,Villa,157,1967,,Aktuel værdi
+Falkevej 167540 Haderup,erup,685.000,20-08-1996,Alm. Salg,5.036,5,Villa,136,1974,,Aktuel værdi
+Tjørnevej 217540 Haderup,erup,547.500,23-07-1996,Alm. Salg,4.415,4,Villa,124,1969,,Aktuel værdi
+Skolevænget 67540 Haderup,erup,450.000,12-07-1996,Alm. Salg,2.710,6,Villa,166,1960,,Aktuel værdi
+Sandgårdvej 137540 Haderup,erup,497.440,02-06-1996,Alm. Salg,-,7,Stuehus,238,1910,,
+Herningvej 157540 Haderup,erup,138.245,13-05-1996,Andet,1.055,4,Villa,131,1948,,Aktuel værdi
+Mølleparken 87540 Haderup,erup,705.000,01-05-1996,Alm. Salg,3.025,7,Villa,233,1974,,Aktuel værdi
+Bredgade 14C7540 Haderup,erup,190.000,13-03-1996,Alm. Salg,-,7,Villa,242,1908,,Aktuel værdi
+Hestbjergvej 97540 Haderup,erup,679.798,21-12-1995,Fam. Salg,4.855,7,Stuehus,140,1917,,
+Karupvej 187540 Haderup,erup,972.000,07-12-1995,Fam. Salg,6.480,6,Stuehus,150,1960,,
+Tusbækvej 197540 Haderup,erup,450.000,27-10-1995,Alm. Salg,4.128,4,Villa,109,1972,,Aktuel værdi
+Åbakkevej 127540 Haderup,erup,345.000,17-10-1995,Alm. Salg,2.804,4,Villa,123,1957,,Aktuel værdi
+Gråsandvej 27540 Haderup,erup,419.000,29-09-1995,Alm. Salg,3.741,3,Villa,112,1968,,Aktuel værdi
+Langgade 907540 Haderup,erup,398.000,08-09-1995,Alm. Salg,3.038,7,Villa,131,1932,,Aktuel værdi
+Egevej 87540 Haderup,erup,535.000,31-08-1995,Alm. Salg,4.179,5,Villa,128,1973,,Aktuel værdi
+Egevej 27540 Haderup,erup,695.000,15-08-1995,Alm. Salg,3.971,6,Villa,175,1973,,Aktuel værdi
+Fårbækvej 177540 Haderup,erup,250.000,17-06-1995,Alm. Salg,2.272,3,Villa,110,1962,,Aktuel værdi
+Vistorpvej 37540 Haderup,erup,935.000,26-05-1995,Alm. Salg,7.362,4,Villa,127,1966,,Aktuel værdi
+Bredgade 877540 Haderup,erup,347.000,18-05-1995,Alm. Salg,-,6,Villa,181,1900,,Aktuel værdi
+Tusbækvej 107540 Haderup,erup,140.000,28-04-1995,Fam. Salg,1.346,4,Villa,104,1964,,Aktuel værdi
+Karupvej 147540 Haderup,erup,2.400.000,05-04-1995,Alm. Salg,18.604,6,Stuehus,129,1890,,
+Nørregade 157540 Haderup,erup,290.000,01-02-1995,Alm. Salg,-,6,Villa,137,1949,,Aktuel værdi
+Nørregade 77540 Haderup,erup,520.000,06-01-1995,Alm. Salg,3.312,5,Villa,157,1925,,Aktuel værdi
+Viftrupvej 67540 Haderup,erup,174.175,30-11-1994,Alm. Salg,1.123,4,Villa,155,1917,,Aktuel værdi
+Mølleparken 267540 Haderup,erup,368.000,25-11-1994,Alm. Salg,-,7,Villa,204,1978,,Aktuel værdi
+Herningvej 357540 Haderup,erup,10.426,27-10-1994,Andet,53,6,Stuehus,194,1945,,
+Karupvej 27540 Haderup,erup,550.000,24-08-1994,Alm. Salg,4.583,2,Stuehus,120,2007,,
+Vester Feldborgvej 247540 Haderup,erup,625.000,08-08-1994,Alm. Salg,-,7,Stuehus,199,1860,,
+Drosselvej 167540 Haderup,erup,300.000,05-07-1994,Fam. Salg,2.654,4,Villa,113,1970,,Aktuel værdi
+Falkevej 147540 Haderup,erup,448.000,30-05-1994,Alm. Salg,3.555,4,Villa,126,1978,,Aktuel værdi
+Teglværksvej 177540 Haderup,erup,900.000,26-05-1994,Alm. Salg,5.232,6,Stuehus,172,1935,,
+Solskrænten 127540 Haderup,erup,950.000,19-05-1994,Alm. Salg,4.203,9,Villa,226,1964,,Aktuel værdi
+Herningvej 837540 Haderup,erup,256.933,18-05-1994,Alm. Salg,2.039,4,Stuehus,126,1881,,
+Grovevej 177540 Haderup,erup,3.575.000,01-03-1994,Alm. Salg,18.815,6,Stuehus,190,1899,,
+Tusbækvej 537540 Haderup,erup,2.200.000,25-02-1994,Alm. Salg,14.666,7,Stuehus,150,1929,,
+Langgade 307540 Haderup,erup,330.000,12-02-1994,Alm. Salg,-,7,Villa,163,1965,,Aktuel værdi
+Højmosevej 27540 Haderup,erup,400.000,10-01-1994,Alm. Salg,4.000,3,Stuehus,100,1922,,
+Tusbækvej 467540 Haderup,erup,750.000,25-11-1993,Alm. Salg,3.289,7,Stuehus,228,1973,,
+Feldborgvej 237540 Haderup,erup,595.000,20-10-1993,Alm. Salg,5.950,3,Stuehus,100,1900,,
+Langgade 887540 Haderup,erup,505.000,16-10-1993,Alm. Salg,2.254,8,Villa,224,1932,,Aktuel værdi
+Over Høstrupvej 87540 Haderup,erup,463.000,20-09-1993,Fam. Salg,5.202,5,Stuehus,89,1927,,
+Gindeskovgård 37540 Haderup,erup,571.709,27-08-1993,Alm. Salg,2.540,7,Stuehus,225,1994,,
+Tusbækvej 177540 Haderup,erup,250.000,03-08-1993,Alm. Salg,-,9,Villa,128,1929,,Aktuel værdi
+Herningvej 707540 Haderup,erup,650.000,05-07-1993,Alm. Salg,-,7,Stuehus,311,1961,,
+Hækvej 57540 Haderup,erup,210.000,04-07-1993,Alm. Salg,958,6,Villa,219,1907,,Aktuel værdi
+Skovvænget 237540 Haderup,erup,422.959,13-05-1993,Alm. Salg,3.356,4,Villa,126,1980,,Aktuel værdi
+Pilhusevej 37540 Haderup,erup,85.000,07-12-1992,Auktion,1.089,3,Villa,78,1943,,Aktuel værdi
+Tjørnevej 12B7540 Haderup,erup,65.000,27-10-1992,Alm. Salg,637,2,Villa,102,1993,,Aktuel værdi
+Nørregade 327540 Haderup,erup,900.000,08-10-1992,Alm. Salg,2.970,8,Villa,303,1976,,Aktuel værdi
+Langgade 227540 Haderup,erup,263.000,24-08-1992,Alm. Salg,3.704,4,Villa,71,1959,,Aktuel værdi
+Vibevej 127540 Haderup,erup,360.000,22-08-1992,Alm. Salg,2.535,5,Villa,142,1969,,Aktuel værdi
+Bredgade 97540 Haderup,erup,150.000,14-07-1992,Alm. Salg,2.000,3,Villa,75,1944,,Aktuel værdi
+Langgade 127540 Haderup,erup,375.000,20-05-1992,Fam. Salg,2.622,5,Villa,143,1963,,Aktuel værdi
+Langgade 62A7540 Haderup,erup,392.000,08-05-1992,Fam. Salg,3.266,6,Villa,120,1965,,Aktuel værdi
+Langgade 347540 Haderup,erup,450.000,30-04-1992,Fam. Salg,2.727,6,Villa,165,1969,,Aktuel værdi
+Viborgvej 3727540 Haderup,erup,195.000,28-04-1992,Alm. Salg,-,7,Villa,145,1927,,Aktuel værdi
+Sandgårdvej 177540 Haderup,erup,1.523.168,05-02-1992,Alm. Salg,9.175,5,Stuehus,166,1918,,
+Bredgade 867540 Haderup,erup,675.000,18-01-1992,Alm. Salg,-,8,Stuehus,230,1957,,

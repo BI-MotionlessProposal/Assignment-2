@@ -1,0 +1,519 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Svenstrupvej 88570 Trustrup,trup,800.000,24-03-2017,Alm. Salg,5.555,4,Villa,144,1915,-5 %,Aktuel værdi
+Århusvej 2028570 Trustrup,trup,350.000,17-03-2017,Alm. Salg,4.430,2,Villa,79,1938,-11 %,Aktuel værdi
+Albøgevej 88570 Trustrup,trup,650.000,28-01-2017,Alm. Salg,5.416,4,Villa,120,1918,,Aktuel værdi
+Århusvej 1848570 Trustrup,trup,1.450.000,16-01-2017,Alm. Salg,7.323,5,Villa,198,1900,,Aktuel værdi
+Århusvej 1538570 Trustrup,trup,600.000,31-12-2016,Fam. Salg,3.448,6,Villa,174,1948,,Aktuel værdi
+Dæmningen 42A8570 Trustrup,trup,22.940.000,29-12-2016,Fam. Salg,107.196,7,Stuehus,214,1900,,
+Revnvej 358570 Trustrup,trup,1.375.000,29-11-2016,Andet,8.757,4,Villa,157,1922,,Aktuel værdi
+Stationsgade 198570 Trustrup,trup,290.000,22-11-2016,Alm. Salg,3.580,4,Villa,81,1969,-16 %,Aktuel værdi
+Århusvej 2908570 Trustrup,trup,23.678.006,10-11-2016,Alm. Salg,29.821,23,Stuehus,794,1925,,
+Østerbro 268570 Trustrup,trup,670.000,04-11-2016,Alm. Salg,4.785,4,Villa,140,1966,-4 %,Aktuel værdi
+Park Allé 98570 Trustrup,trup,1.020.000,12-10-2016,Alm. Salg,7.555,4,Villa,135,1985,-11 %,Aktuel værdi
+Hallendrupvej 418570 Trustrup,trup,5.590.000,07-10-2016,Alm. Salg,90.161,3,Stuehus,62,1915,,
+Allelev Sund 10A8570 Trustrup,trup,450.000,07-10-2016,Alm. Salg,3.600,3,Villa,125,1930,0 %,Aktuel værdi
+Solhøjvej 188570 Trustrup,trup,967.000,05-10-2016,Alm. Salg,5.198,5,Villa,186,2006,,Aktuel værdi
+Andkærvej 38570 Trustrup,trup,1.725.000,30-09-2016,Andet,6.686,7,Stuehus,258,1912,,
+Tjørnegårdsparken 298570 Trustrup,trup,830.000,27-09-2016,Alm. Salg,5.886,4,Villa,141,1979,-7 %,Aktuel værdi
+Stationsgade 58570 Trustrup,trup,400.000,13-09-2016,Alm. Salg,2.500,5,Villa,160,1900,-19 %,Aktuel værdi
+Allelev Sund 18570 Trustrup,trup,400.000,02-09-2016,Alm. Salg,2.325,5,Villa,172,1909,,Aktuel værdi
+Elmevej 28570 Trustrup,trup,425.000,17-08-2016,Alm. Salg,4.336,3,Villa,98,1963,-14 %,Aktuel værdi
+Mølletoften 14F8570 Trustrup,trup,655.615,10-07-2016,Alm. Salg,4.149,6,Villa,158,2008,,Aktuel værdi
+Søbyvej 298570 Trustrup,trup,75.000,08-07-2016,Alm. Salg,572,5,Villa,131,1877,,Aktuel værdi
+Søndervang 128570 Trustrup,trup,995.000,07-07-2016,Alm. Salg,6.546,5,Villa,152,1976,0 %,Aktuel værdi
+Saldrupvej 38570 Trustrup,trup,19.600.000,07-07-2016,Alm. Salg,108.888,5,Stuehus,180,1906,,
+Albøgevej 188570 Trustrup,trup,193.000,01-07-2016,Alm. Salg,3.271,3,Villa,59,1917,-3 %,Aktuel værdi
+Fævejlevej 11A8570 Trustrup,trup,96.700,15-06-2016,Auktion,732,4,Villa,132,1892,,Aktuel værdi
+Ballevej 18570 Trustrup,trup,295.000,13-06-2016,Alm. Salg,3.831,3,Villa,77,1950,0 %,Aktuel værdi
+Fuglebækvej 11A8570 Trustrup,trup,318.500,01-06-2016,Andet,3.185,4,Villa,100,1860,,Aktuel værdi
+Elmevej 138570 Trustrup,trup,840.000,24-05-2016,Alm. Salg,8.484,4,Villa,99,1974,-1 %,Aktuel værdi
+Nordbakken 178570 Trustrup,trup,1.775.000,21-04-2016,Alm. Salg,10.142,5,Villa,175,2010,-4 %,Aktuel værdi
+Nygårdsvej 148570 Trustrup,trup,475.000,17-04-2016,Alm. Salg,4.130,3,Villa,115,1865,-14 %,Aktuel værdi
+Andkærvej 138570 Trustrup,trup,475.000,06-02-2016,Alm. Salg,2.473,5,Villa,192,1900,0 %,Aktuel værdi
+Solhøjvej 5B8570 Trustrup,trup,1.475.000,02-02-2016,Alm. Salg,9.577,4,Villa,154,2007,-1 %,Aktuel værdi
+Solhøjvej 338570 Trustrup,trup,1.245.000,22-11-2015,Alm. Salg,9.222,4,Villa,135,2007,-7 %,Aktuel værdi
+Stationsgade 148570 Trustrup,trup,450.000,20-11-2015,Alm. Salg,3.146,4,Villa,143,1956,-25 %,Aktuel værdi
+Fuglebækvej 368570 Trustrup,trup,45.000,30-10-2015,Alm. Salg,616,2,Villa,73,1906,0 %,Aktuel værdi
+Lyngbyvej 738570 Trustrup,trup,750.000,28-10-2015,Alm. Salg,5.859,6,Villa,128,1948,0 %,Aktuel værdi
+Lyngbyvej 168570 Trustrup,trup,985.000,26-10-2015,Alm. Salg,5.863,7,Villa,168,1939,-10 %,Aktuel værdi
+Mølletoften 14B8570 Trustrup,trup,1.193.550,21-10-2015,Auktion,5.938,5,Villa,201,2008,,Aktuel værdi
+Østerbro 78570 Trustrup,trup,435.000,19-10-2015,Alm. Salg,4.065,3,Villa,107,1967,-8 %,Aktuel værdi
+Ballevej 48570 Trustrup,trup,315.000,07-10-2015,Alm. Salg,3.423,3,Villa,92,1920,-10 %,Aktuel værdi
+Tjørnegårdsparken 38570 Trustrup,trup,825.000,06-10-2015,Alm. Salg,5.030,5,Villa,164,1977,-11 %,Aktuel værdi
+Elmevej 58570 Trustrup,trup,300.000,29-09-2015,Alm. Salg,2.777,4,Villa,108,1965,-24 %,Aktuel værdi
+Linde Allé 18570 Trustrup,trup,210.000,14-09-2015,Alm. Salg,2.000,4,Villa,105,1958,-47 %,Aktuel værdi
+Mølletoften 178570 Trustrup,trup,96.582,29-08-2015,Alm. Salg,1.557,2,Villa,62,1867,,Aktuel værdi
+Nygårdsvej 488570 Trustrup,trup,1.697.300,24-07-2015,Alm. Salg,5.354,4,Stuehus,317,1900,-29 %,
+Svenstrupvej 18570 Trustrup,trup,1.635.000,21-07-2015,Alm. Salg,8.605,6,Stuehus,190,1924,-14 %,
+Århusvej 1618570 Trustrup,trup,477.000,13-05-2015,Auktion,1.590,9,Villa,300,1939,-31 %,Aktuel værdi
+Tjørnegårdsparken 78570 Trustrup,trup,1.175.000,12-05-2015,Alm. Salg,8.639,5,Villa,136,1976,-2 %,Aktuel værdi
+Nygårdsvej 338570 Trustrup,trup,300.000,06-05-2015,Auktion,2.884,3,Villa,104,1827,-52 %,Aktuel værdi
+Århusvej 2528570 Trustrup,trup,1.656.000,10-04-2015,Fam. Salg,8.117,5,Villa,204,1900,,Aktuel værdi
+Abildgårdsvej 248570 Trustrup,trup,545.000,01-04-2015,Alm. Salg,5.618,1,Villa,97,1925,0 %,Aktuel værdi
+Østerbro 168570 Trustrup,trup,750.000,12-03-2015,Alm. Salg,4.010,6,Villa,187,1966,-6 %,Aktuel værdi
+Askhøjvej 58570 Trustrup,trup,391.572,25-02-2015,Auktion,1.919,7,Villa,204,1906,,Aktuel værdi
+Nygårdsvej 498570 Trustrup,trup,700.000,22-02-2015,Alm. Salg,2.215,6,Stuehus,316,2009,,
+Albøgevej 48570 Trustrup,trup,700.000,22-02-2015,Alm. Salg,6.306,3,Villa,111,1915,,Aktuel værdi
+Lykkesholmvej 168570 Trustrup,trup,550.000,29-01-2015,Alm. Salg,4.782,4,Villa,115,1974,-8 %,Aktuel værdi
+Tjørnegårdsparken 248570 Trustrup,trup,650.000,27-01-2015,Alm. Salg,5.241,4,Villa,124,1976,-7 %,Aktuel værdi
+Diverhøjvej 18570 Trustrup,trup,500.000,09-01-2015,Alm. Salg,4.065,4,Stuehus,123,1912,-64 %,
+Århusvej 1558570 Trustrup,trup,185.000,07-01-2015,Auktion,1.581,5,Villa,117,1943,-53 %,Aktuel værdi
+Århusvej 2238570 Trustrup,trup,675.000,15-12-2014,Alm. Salg,4.218,5,Villa,160,1928,-25 %,Aktuel værdi
+Vesterbro 98570 Trustrup,trup,116.500,10-12-2014,Auktion,903,3,Villa,129,1959,,Aktuel værdi
+Nygårdsvej 218570 Trustrup,trup,500.000,13-10-2014,Alm. Salg,4.672,5,Villa,107,1906,-5 %,Aktuel værdi
+Mølletoften 318570 Trustrup,trup,600.000,12-09-2014,Alm. Salg,5.714,4,Villa,105,1974,-7 %,Aktuel værdi
+Askhøjvej 98570 Trustrup,trup,465.000,25-08-2014,Alm. Salg,3.940,5,Villa,118,1964,,Aktuel værdi
+Lykkesholmvej 38570 Trustrup,trup,1.200.000,12-08-2014,Alm. Salg,6.060,6,Villa,198,1964,-4 %,Aktuel værdi
+Tjørnegårdsparken 48570 Trustrup,trup,1.925.000,12-08-2014,Alm. Salg,12.339,5,Villa,156,2004,-4 %,Aktuel værdi
+Petersborgvej 138570 Trustrup,trup,560.000,11-08-2014,Alm. Salg,4.375,5,Villa,128,1952,-6 %,Aktuel værdi
+Tjørnegårdsparken 88570 Trustrup,trup,820.000,06-08-2014,Alm. Salg,5.655,6,Villa,145,1976,-3 %,Aktuel værdi
+Solhøjvej 5A8570 Trustrup,trup,1.150.000,09-07-2014,Alm. Salg,8.455,4,Villa,136,2007,-11 %,Aktuel værdi
+Vesterbro 208570 Trustrup,trup,375.000,01-07-2014,Alm. Salg,3.906,3,Villa,96,1963,,Aktuel værdi
+Hallendrupvej 528570 Trustrup,trup,475.000,10-05-2014,Alm. Salg,4.481,5,Villa,106,1964,-10 %,Aktuel værdi
+Søbyvej 288570 Trustrup,trup,175.000,08-05-2014,Alm. Salg,1.483,5,Villa,118,1890,-30 %,Aktuel værdi
+Askhøjvej 688570 Trustrup,trup,275.000,29-04-2014,Alm. Salg,2.148,4,Villa,128,1900,-15 %,Aktuel værdi
+Kastanie Allé 178570 Trustrup,trup,575.000,08-04-2014,Alm. Salg,3.662,5,Villa,157,1973,,Aktuel værdi
+Tjørnegårdsparken 328570 Trustrup,trup,900.000,28-03-2014,Alm. Salg,6.428,5,Villa,140,1977,-10 %,Aktuel værdi
+Lyngbyvej 128570 Trustrup,trup,375.000,18-03-2014,Alm. Salg,2.952,5,Stuehus,127,1939,-24 %,
+Petersborgvej 388570 Trustrup,trup,125.000,10-03-2014,Alm. Salg,1.008,4,Villa,124,1880,-14 %,Aktuel værdi
+Vesterbro 148570 Trustrup,trup,900.000,20-02-2014,Alm. Salg,6.976,5,Villa,129,1956,-10 %,Aktuel værdi
+Ballevej 58570 Trustrup,trup,1.000.000,11-02-2014,Alm. Salg,6.369,5,Villa,157,1972,-9 %,Aktuel værdi
+Nygårdsvej 478570 Trustrup,trup,41.000.000,03-02-2014,Alm. Salg,149.090,8,Stuehus,275,1887,,
+Århusvej 2808570 Trustrup,trup,100.000,18-01-2014,Alm. Salg,1.041,4,Villa,96,1850,-58 %,Aktuel værdi
+Lykkesholmvej 2A8570 Trustrup,trup,850.000,17-01-2014,Alm. Salg,2.414,7,Stuehus,352,1850,0 %,
+Lykkesholmvej 178570 Trustrup,trup,250.000,10-12-2013,Alm. Salg,2.212,4,Villa,113,1963,-16 %,Aktuel værdi
+Århusvej 2828570 Trustrup,trup,710.000,03-12-2013,Alm. Salg,5.916,4,Villa,120,1902,,Aktuel værdi
+Tjørnegårdsparken 68570 Trustrup,trup,595.000,02-12-2013,Alm. Salg,2.945,9,Villa,202,1963,-14 %,Aktuel værdi
+Kastanie Allé 118570 Trustrup,trup,345.000,08-11-2013,Alm. Salg,1.173,6,Villa,294,1900,,Aktuel værdi
+Fævejlevej 178570 Trustrup,trup,810.000,22-10-2013,Alm. Salg,4.736,4,Villa,171,1932,,Aktuel værdi
+Fuglebækvej 328570 Trustrup,trup,350.000,21-10-2013,Alm. Salg,3.240,4,Villa,108,1908,-7 %,Aktuel værdi
+Søbyvej 88570 Trustrup,trup,875.000,14-10-2013,Alm. Salg,8.578,4,Villa,102,1970,,Aktuel værdi
+Lyngbyvej 978570 Trustrup,trup,126.500,25-09-2013,Auktion,1.150,4,Villa,110,1868,-68 %,Aktuel værdi
+Lyngbyvej 308570 Trustrup,trup,650.000,24-09-2013,Alm. Salg,4.850,5,Villa,134,1966,-6 %,Aktuel værdi
+Allelev Sund 68570 Trustrup,trup,850.000,09-08-2013,Alm. Salg,6.854,4,Villa,124,1904,-11 %,Aktuel værdi
+Nygårdsvej 448570 Trustrup,trup,2.548.500,23-07-2013,Alm. Salg,15.539,6,Stuehus,164,1897,2 %,
+Lyngbyvej 858570 Trustrup,trup,180.000,15-07-2013,Alm. Salg,1.487,4,Villa,121,1897,-18 %,Aktuel værdi
+Albøgevej 28570 Trustrup,trup,700.000,06-06-2013,Alm. Salg,5.600,4,Villa,125,1918,,Aktuel værdi
+Århusvej 1278570 Trustrup,trup,230.000,24-05-2013,Alm. Salg,2.473,3,Villa,93,1917,-52 %,Aktuel værdi
+Skolegade 38570 Trustrup,trup,438.985,15-05-2013,Andet,2.850,6,Villa,154,1958,,Aktuel værdi
+Albøgevej 168570 Trustrup,trup,700.000,10-05-2013,Alm. Salg,6.481,4,Villa,108,1932,-39 %,Aktuel værdi
+Århusvej 2868570 Trustrup,trup,1.525.000,01-05-2013,Alm. Salg,16.944,3,Stuehus,90,1918,-24 %,
+Elmevej 68570 Trustrup,trup,595.000,29-04-2013,Alm. Salg,6.263,3,Villa,95,1964,-8 %,Aktuel værdi
+Fladstrupvej 278570 Trustrup,trup,753.500,19-04-2013,Alm. Salg,5.023,8,Villa,150,1865,,Aktuel værdi
+Lyngbyvej 228570 Trustrup,trup,100.000,18-04-2013,Alm. Salg,442,6,Stuehus,226,1927,,
+Fladstrupvej 508570 Trustrup,trup,775.000,16-04-2013,Alm. Salg,5.098,5,Villa,152,1924,-3 %,Aktuel værdi
+Vesterbro 108570 Trustrup,trup,350.000,15-03-2013,Alm. Salg,3.017,4,Villa,116,1952,-11 %,Aktuel værdi
+Holtbakkevej 48570 Trustrup,trup,95.000,08-03-2013,Alm. Salg,1.233,4,Villa,77,1900,,Aktuel værdi
+Petersborgvej 158570 Trustrup,trup,300.000,15-02-2013,Alm. Salg,2.830,4,Villa,106,1952,-37 %,Aktuel værdi
+Århusvej 2058570 Trustrup,trup,525.000,15-02-2013,Alm. Salg,2.853,8,Villa,184,1903,-34 %,Aktuel værdi
+Århusvej 1218570 Trustrup,trup,297.500,07-02-2013,Fam. Salg,3.814,3,Villa,78,1954,,Aktuel værdi
+Tinghøjvej 58570 Trustrup,trup,1.125.000,18-01-2013,Alm. Salg,4.046,8,Villa,278,1930,-6 %,Aktuel værdi
+Århusvej 1638570 Trustrup,trup,725.000,28-11-2012,Auktion,5.410,5,Villa,134,1907,,Aktuel værdi
+Søndervang 58570 Trustrup,trup,875.000,15-11-2012,Alm. Salg,8.254,4,Villa,106,1966,-8 %,Aktuel værdi
+Petersborgvej 148570 Trustrup,trup,750.000,14-11-2012,Alm. Salg,7.142,4,Villa,105,1890,-6 %,Aktuel værdi
+Fladstrupvej 448570 Trustrup,trup,500.000,17-10-2012,Alm. Salg,4.854,4,Villa,103,1963,-17 %,Aktuel værdi
+Lykkesholmvej 88570 Trustrup,trup,850.000,05-10-2012,Alm. Salg,5.592,5,Villa,152,1963,-11 %,Aktuel værdi
+Kastanie Allé 128570 Trustrup,trup,600.000,14-09-2012,Alm. Salg,6.896,4,Villa,87,1963,-7 %,Aktuel værdi
+Hallendrupvej 28570 Trustrup,trup,7.021.000,10-09-2012,Fam. Salg,76.315,3,Villa,92,1827,,Aktuel værdi
+Lykkesholmvej 2B8570 Trustrup,trup,290.000,31-08-2012,Alm. Salg,3.295,4,Villa,88,1921,-23 %,Aktuel værdi
+Lyngbyvej 958570 Trustrup,trup,500.000,15-08-2012,Alm. Salg,3.816,4,Villa,131,1867,-20 %,Aktuel værdi
+Ellegårdvej 98570 Trustrup,trup,1.655.000,24-07-2012,Alm. Salg,7.355,6,Villa,225,1880,-7 %,Aktuel værdi
+Abildgårdsvej 58570 Trustrup,trup,747.500,16-07-2012,Alm. Salg,2.403,12,Villa,311,1987,,Aktuel værdi
+Linde Allé 128570 Trustrup,trup,1.500.000,13-07-2012,Alm. Salg,13.043,4,Villa,115,2008,,Aktuel værdi
+Søbyvej 308570 Trustrup,trup,1.120.000,27-06-2012,Alm. Salg,5.773,5,Villa,194,1881,-2 %,Aktuel værdi
+Holtbakkevej 28570 Trustrup,trup,110.000,30-04-2012,Alm. Salg,2.750,2,Villa,40,1847,-44 %,Aktuel værdi
+Lykkesholmvej 138570 Trustrup,trup,829.475,29-04-2012,Andet,4.608,7,Villa,180,1970,,Aktuel værdi
+Århusvej 2198570 Trustrup,trup,656.605,26-04-2012,Alm. Salg,3.082,6,Stuehus,213,1937,,
+Petersborgvej 18570 Trustrup,trup,400.000,19-04-2012,Alm. Salg,2.380,6,Villa,168,1890,-11 %,Aktuel værdi
+Askhøjvej 408570 Trustrup,trup,1.210.000,18-04-2012,Alm. Salg,8.832,5,Villa,137,1937,-7 %,Aktuel værdi
+Nygårdsvej 258570 Trustrup,trup,305.000,16-04-2012,Alm. Salg,4.357,3,Villa,70,1939,,Aktuel værdi
+Petersborgvej 208570 Trustrup,trup,750.000,20-03-2012,Alm. Salg,4.545,7,Villa,165,1900,,Aktuel værdi
+Elmevej 78570 Trustrup,trup,525.000,16-02-2012,Fam. Salg,4.268,4,Villa,123,1964,,Aktuel værdi
+Obdrupvej 48570 Trustrup,trup,425.000,08-02-2012,Auktion,4.569,2,Villa,93,1878,-15 %,Aktuel værdi
+Hallendrupvej 448570 Trustrup,trup,1.310.000,23-01-2012,Alm. Salg,3.922,10,Villa,334,1927,-12 %,Aktuel værdi
+Århusvej 1178570 Trustrup,trup,1.100.000,23-12-2011,Alm. Salg,8.208,5,Villa,134,1875,-3 %,Aktuel værdi
+Århusvej 1718570 Trustrup,trup,230.000,14-12-2011,Auktion,1.597,7,Villa,144,1911,,Aktuel værdi
+Århusvej 2318570 Trustrup,trup,4.792.900,28-11-2011,Alm. Salg,19.805,9,Stuehus,242,1928,-20 %,
+Askhøjvej 138570 Trustrup,trup,272.500,16-11-2011,Andet,1.735,5,Villa,157,1906,,Aktuel værdi
+Tinghøjvej 138570 Trustrup,trup,12.240.000,16-10-2011,Alm. Salg,42.206,9,Stuehus,290,1896,,
+Østerbro 148570 Trustrup,trup,560.000,08-09-2011,Alm. Salg,3.393,5,Villa,165,1971,,Aktuel værdi
+Skolegade 48570 Trustrup,trup,310.000,19-08-2011,Alm. Salg,2.348,9,Villa,132,1950,-22 %,Aktuel værdi
+Århusvej 221B8570 Trustrup,trup,814.107,19-08-2011,Alm. Salg,6.262,4,Stuehus,130,1928,,
+Elmevej 118570 Trustrup,trup,1.498.000,09-08-2011,Alm. Salg,10.700,6,Villa,140,1974,0 %,Aktuel værdi
+Tjørnegårdsparken 358570 Trustrup,trup,940.000,28-07-2011,Alm. Salg,7.460,4,Villa,126,1976,-5 %,Aktuel værdi
+Århusvej 1968570 Trustrup,trup,663.024,05-07-2011,Alm. Salg,3.365,6,Villa,197,1927,,Aktuel værdi
+Holtbakkevej 68570 Trustrup,trup,443.251,04-07-2011,Alm. Salg,4.029,3,Villa,110,1932,,Aktuel værdi
+Nygårdsvej 428570 Trustrup,trup,1.055.000,06-06-2011,Alm. Salg,5.582,5,Villa,189,1947,,Aktuel værdi
+Lyngbyvej 718570 Trustrup,trup,1.247.500,25-05-2011,Alm. Salg,8.603,4,Villa,145,1957,-4 %,Aktuel værdi
+Østerbro 98570 Trustrup,trup,850.000,14-04-2011,Alm. Salg,6.538,4,Villa,130,1972,-8 %,Aktuel værdi
+Ellegårdvej 58570 Trustrup,trup,42.730,01-03-2011,Alm. Salg,534,2,Villa,80,1900,,Aktuel værdi
+Petersborgvej 178570 Trustrup,trup,345.000,16-02-2011,Alm. Salg,-,2,Villa,77,1918,-13 %,Aktuel værdi
+Stationsgade 98570 Trustrup,trup,333.200,16-02-2011,Auktion,2.221,5,Villa,150,1900,,Aktuel værdi
+Østerbro 68570 Trustrup,trup,960.000,11-02-2011,Alm. Salg,7.058,6,Villa,136,1970,-4 %,Aktuel værdi
+Nygårdsvej 78570 Trustrup,trup,740.146,04-02-2011,Alm. Salg,4.458,5,Villa,166,1907,-54 %,Aktuel værdi
+Vesterbro 1D8570 Trustrup,trup,435.000,01-02-2011,Alm. Salg,6.304,3,Villa,69,1957,-8 %,Aktuel værdi
+Århusvej 1878570 Trustrup,trup,850.000,05-01-2011,Auktion,6.589,4,Villa,129,1956,,Aktuel værdi
+Vestersmindevej 138570 Trustrup,trup,735.000,03-01-2011,Alm. Salg,7.989,3,Villa,92,1910,,Aktuel værdi
+Søndervang 138570 Trustrup,trup,851.180,15-12-2010,Alm. Salg,4.891,7,Villa,174,1979,,Aktuel værdi
+Solhøjvej 328570 Trustrup,trup,1.050.753,15-12-2010,Alm. Salg,5.805,6,Villa,181,2006,,Aktuel værdi
+Lyngbyvej 148570 Trustrup,trup,956.523,11-11-2010,Alm. Salg,6.551,6,Stuehus,146,1939,-54 %,
+Ballevej 368570 Trustrup,trup,630.000,08-11-2010,Alm. Salg,6.000,4,Villa,105,1905,-9 %,Aktuel værdi
+Århusvej 2008570 Trustrup,trup,675.000,08-10-2010,Alm. Salg,6.081,2,Villa,111,1943,-3 %,Aktuel værdi
+Askhøjvej 428570 Trustrup,trup,1.600.000,23-09-2010,Alm. Salg,8.602,5,Stuehus,186,1933,,
+Allelevvej 228570 Trustrup,trup,1.245.000,10-09-2010,Alm. Salg,9.726,3,Villa,128,1845,0 %,Aktuel værdi
+Tjørnegårdsparken 178570 Trustrup,trup,1.035.000,09-09-2010,Alm. Salg,6.764,5,Villa,153,1975,-6 %,Aktuel værdi
+Petersborgvej 98570 Trustrup,trup,580.000,03-06-2010,Alm. Salg,4.873,5,Villa,119,1957,-10 %,Aktuel værdi
+Fladstrupvej 188570 Trustrup,trup,200.000,12-05-2010,Alm. Salg,823,10,Stuehus,243,1911,,
+Park Allé 38570 Trustrup,trup,475.000,12-05-2010,Auktion,6.333,3,Villa,75,1901,-32 %,Aktuel værdi
+Fuglebækvej 68570 Trustrup,trup,10.190.000,07-05-2010,Alm. Salg,60.654,5,Stuehus,168,1850,527 %,
+Lyngbyvej 488570 Trustrup,trup,1.000.000,20-04-2010,Alm. Salg,4.878,6,Stuehus,205,1934,,
+Fuglebækvej 308570 Trustrup,trup,775.000,31-03-2010,Alm. Salg,8.611,3,Stuehus,90,1906,-22 %,
+Solhøjvej 228570 Trustrup,trup,1.850.000,23-03-2010,Alm. Salg,11.212,5,Villa,165,2007,-7 %,Aktuel værdi
+Østerbro 38570 Trustrup,trup,800.000,03-03-2010,Alm. Salg,8.000,4,Villa,100,1966,-11 %,Aktuel værdi
+Elmevej 18570 Trustrup,trup,588.500,02-03-2010,Fam. Salg,4.823,4,Villa,122,1966,,Aktuel værdi
+Askhøjvej 418570 Trustrup,trup,950.000,22-12-2009,Alm. Salg,4.523,7,Villa,210,1826,,Aktuel værdi
+Århusvej 2708570 Trustrup,trup,600.000,21-12-2009,Alm. Salg,4.651,6,Villa,129,1898,,Aktuel værdi
+Sønder Homåvej 28570 Trustrup,trup,950.000,14-12-2009,Alm. Salg,8.482,4,Villa,112,1927,-4 %,Aktuel værdi
+Vesterbro 78570 Trustrup,trup,760.000,06-11-2009,Alm. Salg,7.037,5,Villa,108,1961,,Aktuel værdi
+Mølletoften 78570 Trustrup,trup,715.596,27-10-2009,Andet,5.300,2,Villa,135,1852,,Aktuel værdi
+Vesterbro 168570 Trustrup,trup,550.000,07-10-2009,Alm. Salg,6.111,4,Villa,90,1955,-15 %,Aktuel værdi
+Vestersmindevej 248570 Trustrup,trup,395.000,24-09-2009,Alm. Salg,4.593,4,Villa,86,1890,0 %,Aktuel værdi
+Lyngbyvej 1068570 Trustrup,trup,750.000,03-09-2009,Alm. Salg,6.355,5,Villa,118,1965,-6 %,Aktuel værdi
+Albøgevej 148570 Trustrup,trup,3.200.000,12-08-2009,Alm. Salg,12.800,6,Villa,250,1907,,Aktuel værdi
+Nygårdsvej 48570 Trustrup,trup,2.000.000,06-08-2009,Fam. Salg,7.843,9,Stuehus,255,1898,,
+Albøgevej 128570 Trustrup,trup,1.650.000,04-08-2009,Alm. Salg,10.576,7,Stuehus,156,1945,,
+Skolegade 18570 Trustrup,trup,530.000,03-04-2009,Alm. Salg,7.571,2,Villa,70,1912,,Aktuel værdi
+Tjørnegårdsparken 138570 Trustrup,trup,1.220.000,01-04-2009,Alm. Salg,7.625,6,Villa,160,1976,-6 %,Aktuel værdi
+Obdrupvej 68570 Trustrup,trup,592.958,06-02-2009,Alm. Salg,5.068,4,Villa,117,1965,,Aktuel værdi
+Allelevvej 138570 Trustrup,trup,5.061.570,04-02-2009,Fam. Salg,25.435,7,Stuehus,199,1953,,
+Århusvej 1478570 Trustrup,trup,950.000,02-02-2009,Alm. Salg,10.000,4,Villa,95,1946,-5 %,Aktuel værdi
+Askhøjvej 358570 Trustrup,trup,11.930.939,20-01-2009,Fam. Salg,50.986,4,Stuehus,234,1984,,
+Askhøjvej 508570 Trustrup,trup,297.500,20-01-2009,Fam. Salg,2.833,4,Villa,105,1968,,Aktuel værdi
+Fladstrupvej 48570 Trustrup,trup,1.615.000,20-01-2009,Fam. Salg,20.187,4,Stuehus,80,1952,,
+Lyngbyvej 878570 Trustrup,trup,600.000,03-12-2008,Andet,4.444,4,Villa,135,1897,,Aktuel værdi
+Abildgårdsvej 238570 Trustrup,trup,1.700.000,13-11-2008,Alm. Salg,16.831,7,Villa,101,1928,,Aktuel værdi
+Ballevej 78570 Trustrup,trup,1.175.000,15-10-2008,Alm. Salg,7.532,4,Villa,156,1965,-6 %,Aktuel værdi
+Skolegade 28570 Trustrup,trup,775.000,08-10-2008,Alm. Salg,13.596,9,Industri o.l.,57,1922,,Aktuel værdi
+Søbyvej 158570 Trustrup,trup,600.000,02-10-2008,Alm. Salg,6.000,3,Villa,100,1964,-18 %,Aktuel værdi
+Fuglebækvej 158570 Trustrup,trup,1.430.000,22-09-2008,Alm. Salg,6.085,6,Villa,235,1859,-28 %,Aktuel værdi
+Diverhøjvej 28570 Trustrup,trup,4.100.000,11-09-2008,Alm. Salg,37.614,3,Stuehus,109,1917,,
+Abildgårdsvej 338570 Trustrup,trup,4.100.000,11-09-2008,Alm. Salg,20.398,8,Stuehus,201,1929,,
+Allelevvej 88570 Trustrup,trup,315.000,06-09-2008,Alm. Salg,2.250,5,Villa,140,1877,,Aktuel værdi
+Solhøjvej 358570 Trustrup,trup,2.395.000,05-08-2008,Alm. Salg,14.693,5,Villa,163,2008,0 %,Aktuel værdi
+Fævejlevej 28570 Trustrup,trup,1.025.000,02-08-2008,Alm. Salg,6.406,9,Stuehus,160,1907,-20 %,
+Abildgårdsvej 68570 Trustrup,trup,588.000,08-07-2008,Fam. Salg,4.140,5,Villa,142,1973,,Aktuel værdi
+Fuglebækvej 168570 Trustrup,trup,610.272,27-06-2008,Alm. Salg,3.721,6,Villa,164,2003,,Aktuel værdi
+Petersborgvej 108570 Trustrup,trup,548.000,11-06-2008,Alm. Salg,9.133,2,Villa,60,1900,0 %,Aktuel værdi
+Vesterbro 188570 Trustrup,trup,1.200.000,26-05-2008,Alm. Salg,9.836,4,Villa,122,1957,,Aktuel værdi
+Linde Allé 168570 Trustrup,trup,1.781.000,19-05-2008,Alm. Salg,15.486,4,Villa,115,2008,5 %,Aktuel værdi
+Revnvej 388570 Trustrup,trup,1.514.000,16-05-2008,Alm. Salg,9.895,5,Villa,153,1941,,Aktuel værdi
+Linde Allé 148570 Trustrup,trup,1.760.000,22-04-2008,Alm. Salg,15.304,4,Villa,115,2007,4 %,Aktuel værdi
+Askhøjvej 198570 Trustrup,trup,8.120.000,21-04-2008,Alm. Salg,35.304,11,Stuehus,230,1937,,
+Søbyvej 318570 Trustrup,trup,6.600.000,15-04-2008,Alm. Salg,34.196,8,Stuehus,193,1912,,
+Svenstrupvej 28570 Trustrup,trup,1.305.994,11-04-2008,Alm. Salg,6.278,8,Stuehus,208,1890,,
+Århusvej 2258570 Trustrup,trup,850.000,10-04-2008,Alm. Salg,12.142,4,Villa,70,1927,,Aktuel værdi
+Tjørnegårdsparken 308570 Trustrup,trup,653.789,03-04-2008,Alm. Salg,3.143,7,Villa,208,1977,,Aktuel værdi
+Allelev Sund 5B8570 Trustrup,trup,6.000.000,27-03-2008,Alm. Salg,31.914,11,Stuehus,188,1969,,
+Solhøjvej 108570 Trustrup,trup,1.475.000,17-03-2008,Alm. Salg,14.182,4,Villa,104,2006,0 %,Aktuel værdi
+Solhøjvej 68570 Trustrup,trup,2.000.000,16-03-2008,Alm. Salg,14.285,4,Villa,140,2006,,Aktuel værdi
+Søndervang 38570 Trustrup,trup,392.000,10-02-2008,Andet,4.355,3,Villa,90,1962,,Aktuel værdi
+Århusvej 2168570 Trustrup,trup,1.485.000,11-12-2007,Alm. Salg,6.659,8,Villa,223,1895,-3 %,Aktuel værdi
+Århusvej 2268570 Trustrup,trup,850.000,03-12-2007,Alm. Salg,7.943,4,Villa,107,1959,,Aktuel værdi
+Petersborgvej 78570 Trustrup,trup,190.000,03-12-2007,Alm. Salg,1.496,4,Villa,127,2008,,Aktuel værdi
+Fladstrupvej 318570 Trustrup,trup,1.625.000,12-11-2007,Alm. Salg,7.593,7,Villa,214,1900,-3 %,Aktuel værdi
+Park Allé 28570 Trustrup,trup,1.000.000,11-11-2007,Alm. Salg,5.882,11,Ukendt,170,1927,,Aktuel værdi
+Egehøjvej 58570 Trustrup,trup,1.435.000,28-08-2007,Alm. Salg,13.045,4,Villa,110,1940,0 %,Aktuel værdi
+Tjørnegårdsparken 18570 Trustrup,trup,1.425.000,16-08-2007,Alm. Salg,5.035,10,Villa,283,1977,,Aktuel værdi
+Solhøjvej 78570 Trustrup,trup,1.495.000,25-07-2007,Alm. Salg,13.000,4,Villa,115,2007,0 %,Aktuel værdi
+Vesterbro 368570 Trustrup,trup,975.000,05-07-2007,Alm. Salg,8.405,4,Villa,116,1973,,Aktuel værdi
+Lyngbyvej 1048570 Trustrup,trup,815.000,22-06-2007,Alm. Salg,5.544,5,Villa,147,1946,,Aktuel værdi
+Fuglebækvej 108570 Trustrup,trup,116.280,21-06-2007,Alm. Salg,848,4,Villa,137,1906,,Aktuel værdi
+Fladstrupvej 568570 Trustrup,trup,830.000,20-06-2007,Alm. Salg,6.194,4,Villa,134,1888,-1 %,Aktuel værdi
+Fladstrupvej 418570 Trustrup,trup,700.000,17-06-2007,Alm. Salg,7.608,4,Villa,92,1907,,Aktuel værdi
+Århusvej 1988570 Trustrup,trup,635.000,15-06-2007,Alm. Salg,4.568,3,Villa,139,1944,,Aktuel værdi
+Nordbakken 18570 Trustrup,trup,317.000,14-06-2007,Alm. Salg,1.832,5,Villa,173,2017,,Aktuel værdi
+Vesterbro 58570 Trustrup,trup,397.000,13-06-2007,Andet,5.089,3,Villa,78,1954,,Aktuel værdi
+Abildgårdsvej 228570 Trustrup,trup,925.000,06-06-2007,Alm. Salg,6.751,5,Stuehus,137,1925,,
+Elmevej 48570 Trustrup,trup,820.000,04-06-2007,Alm. Salg,8.723,3,Villa,94,1963,,Aktuel værdi
+Århusvej 2298570 Trustrup,trup,1.150.000,03-06-2007,Alm. Salg,11.274,2,Villa,102,1929,,Aktuel værdi
+Vesterbro 1C8570 Trustrup,trup,620.000,01-06-2007,Fam. Salg,6.391,5,Villa,97,1953,,Aktuel værdi
+Fævejlevej 278570 Trustrup,trup,3.200.000,28-05-2007,Alm. Salg,-,-,Andre vurderinger,-,-,,
+Nygårdsvej 408570 Trustrup,trup,350.000,02-05-2007,Fam. Salg,3.977,3,Villa,88,1900,,Aktuel værdi
+Svinget 28570 Trustrup,trup,1.155.000,25-04-2007,Alm. Salg,5.833,8,Villa,198,1915,-2 %,Aktuel værdi
+Vesterbro 88570 Trustrup,trup,535.000,19-04-2007,Alm. Salg,5.691,3,Villa,94,1948,0 %,Aktuel værdi
+Andkærvej 158570 Trustrup,trup,475.000,02-04-2007,Alm. Salg,5.277,3,Villa,90,1893,,Aktuel værdi
+Lykkesholmvej 58570 Trustrup,trup,475.000,08-02-2007,Alm. Salg,8.333,2,Villa,57,1903,,Aktuel værdi
+Fladstrupvej 298570 Trustrup,trup,3.002.500,22-01-2007,Fam. Salg,28.595,4,Stuehus,105,1920,,
+Harestien 28570 Trustrup,trup,925.000,11-01-2007,Alm. Salg,7.581,4,Villa,122,1969,-3 %,Aktuel værdi
+Revnvej 298570 Trustrup,trup,2.515.011,03-01-2007,Alm. Salg,14.209,6,Villa,177,1900,,Aktuel værdi
+Petersborgvej 118570 Trustrup,trup,1.085.000,02-01-2007,Alm. Salg,10.850,4,Villa,100,1953,,Aktuel værdi
+Lyngbyvej 528570 Trustrup,trup,1.350.000,29-12-2006,Fam. Salg,6.428,4,Stuehus,210,1920,,
+Tjørnegårdsparken 168570 Trustrup,trup,1.150.000,12-12-2006,Alm. Salg,9.745,4,Villa,118,1975,,Aktuel værdi
+Søbyvej 178570 Trustrup,trup,3.300.000,05-12-2006,Alm. Salg,8.684,9,Villa,380,1877,,Aktuel værdi
+Grønlandsvej 198570 Trustrup,trup,1.640.000,01-12-2006,Alm. Salg,9.590,6,Stuehus,171,1913,,
+Petersborgvej 88570 Trustrup,trup,410.000,28-11-2006,Alm. Salg,3.942,3,Villa,104,1877,,Aktuel værdi
+Lyngbyvej 288570 Trustrup,trup,150.440,28-11-2006,Alm. Salg,1.131,4,Stuehus,133,1868,,
+Århusvej 2768570 Trustrup,trup,775.000,09-11-2006,Alm. Salg,4.696,4,Villa,165,1877,,Aktuel værdi
+Århusvej 2248570 Trustrup,trup,1.065.000,05-11-2006,Alm. Salg,8.068,3,Villa,132,1927,,Aktuel værdi
+Skolegade 138570 Trustrup,trup,1.650.000,18-10-2006,Alm. Salg,6.680,7,Anden beboelse,247,1898,,Aktuel værdi
+Holtbakkevej 78570 Trustrup,trup,785.000,06-10-2006,Alm. Salg,5.233,6,Villa,150,1897,,Aktuel værdi
+Lyngbyvej 898570 Trustrup,trup,815.000,19-09-2006,Alm. Salg,6.735,5,Villa,121,1929,,Aktuel værdi
+Lyngbyvej 108570 Trustrup,trup,360.000,18-09-2006,Alm. Salg,2.627,4,Villa,137,1939,,Aktuel værdi
+Askhøjvej 538570 Trustrup,trup,350.000,11-09-2006,Alm. Salg,3.977,3,Villa,88,1877,,Aktuel værdi
+Petersborgvej 24C8570 Trustrup,trup,680.000,11-09-2006,Alm. Salg,9.066,3,Lejlighed,75,1973,,Aktuel værdi
+Nygårdsvej 128570 Trustrup,trup,637.500,08-09-2006,Fam. Salg,4.086,5,Villa,156,1827,,Aktuel værdi
+Århusvej 1318570 Trustrup,trup,675.000,25-08-2006,Alm. Salg,4.687,4,Villa,144,1903,,Aktuel værdi
+Vesterbro 1B8570 Trustrup,trup,90.000,23-08-2006,Alm. Salg,562,5,Villa,160,2008,,Aktuel værdi
+Allelevvej 108570 Trustrup,trup,415.000,05-08-2006,Alm. Salg,-,10,Villa,282,1902,,Aktuel værdi
+Østerbro 88570 Trustrup,trup,1.200.000,12-07-2006,Alm. Salg,9.375,4,Villa,128,1973,,Aktuel værdi
+Fævejlevej 6B8570 Trustrup,trup,762.500,10-07-2006,Alm. Salg,3.596,6,Villa,212,1979,,Aktuel værdi
+Fladstrupvej 538570 Trustrup,trup,400.000,05-07-2006,Alm. Salg,1.509,10,Villa,265,1842,,Aktuel værdi
+Århusvej 1238570 Trustrup,trup,430.000,29-06-2006,Fam. Salg,5.058,3,Villa,85,1890,,Aktuel værdi
+Revnvej 448570 Trustrup,trup,613.366,28-06-2006,Fam. Salg,3.672,6,Villa,167,1887,,Aktuel værdi
+Askhøjvej 518570 Trustrup,trup,48.583,25-06-2006,Andet,607,3,Villa,80,1907,,Aktuel værdi
+Askhøjvej 498570 Trustrup,trup,86.465,25-06-2006,Andet,1.394,3,Villa,62,1907,,Aktuel værdi
+Lyngbyvej 1098570 Trustrup,trup,1.540.000,08-06-2006,Alm. Salg,11.079,4,Villa,139,1939,,Aktuel værdi
+Solhøjvej 148570 Trustrup,trup,1.250.000,29-05-2006,Alm. Salg,8.928,5,Villa,140,1998,,Aktuel værdi
+Fladstrupvej 338570 Trustrup,trup,1.320.000,09-05-2006,Alm. Salg,4.888,8,Villa,270,1875,,Aktuel værdi
+Svenstrupvej 48570 Trustrup,trup,290.214,02-05-2006,Alm. Salg,1.667,4,Villa,174,2016,,Aktuel værdi
+Nygårdsvej 31A8570 Trustrup,trup,420.000,17-04-2006,Alm. Salg,-,8,Villa,269,2008,,Aktuel værdi
+Østerbro 58570 Trustrup,trup,1.000.000,12-04-2006,Alm. Salg,5.263,6,Villa,190,1967,,Aktuel værdi
+Fuglebækvej 88570 Trustrup,trup,1.350.000,10-04-2006,Alm. Salg,6.783,6,Villa,199,1902,,Aktuel værdi
+Nygårdsvej 138570 Trustrup,trup,1.195.000,06-04-2006,Alm. Salg,6.289,6,Villa,190,1972,,Aktuel værdi
+Revnvej 368570 Trustrup,trup,575.000,28-03-2006,Fam. Salg,3.807,4,Villa,151,1940,,Aktuel værdi
+Askhøjvej 788570 Trustrup,trup,745.000,27-03-2006,Alm. Salg,6.367,4,Villa,117,1827,,Aktuel værdi
+Petersborgvej 368570 Trustrup,trup,550.000,17-03-2006,Alm. Salg,6.111,3,Villa,90,1900,,Aktuel værdi
+Fladstrupvej 178570 Trustrup,trup,475.000,14-03-2006,Alm. Salg,2.178,5,Stuehus,218,2016,,
+Elmevej 128570 Trustrup,trup,995.000,08-03-2006,Alm. Salg,8.223,3,Villa,121,1965,,Aktuel værdi
+Nygårdsvej 238570 Trustrup,trup,3.000.000,07-03-2006,Alm. Salg,20.833,6,Stuehus,144,1850,,
+Ballevej 258570 Trustrup,trup,900.000,03-03-2006,Alm. Salg,8.035,4,Stuehus,112,1900,,
+Andkærvej 98570 Trustrup,trup,580.000,23-02-2006,Alm. Salg,2.829,9,Villa,205,1905,,Aktuel værdi
+Abildgårdsvej 208570 Trustrup,trup,2.750.000,10-02-2006,Alm. Salg,12.114,7,Stuehus,227,1954,,
+Arkesvej 48570 Trustrup,trup,2.400.000,10-01-2006,Alm. Salg,55.813,2,Rækkehus,43,1992,,Aktuel værdi
+Fladstrupvej 218570 Trustrup,trup,2.000.000,19-12-2005,Alm. Salg,8.333,7,Stuehus,240,1890,,
+Solhøjvej 208570 Trustrup,trup,54.925,09-12-2005,Alm. Salg,341,5,Villa,161,2007,,Aktuel værdi
+Århusvej 1738570 Trustrup,trup,695.000,28-11-2005,Alm. Salg,4.316,7,Villa,161,1927,,Aktuel værdi
+Vesterbro 348570 Trustrup,trup,1.125.000,21-11-2005,Alm. Salg,8.928,4,Villa,126,1973,,Aktuel værdi
+Grønlandsvej 78570 Trustrup,trup,219.707,09-11-2005,Andet,3.230,2,Villa,68,1910,,Aktuel værdi
+Solhøjvej 128570 Trustrup,trup,34.710,08-11-2005,Alm. Salg,333,4,Villa,104,2006,,Aktuel værdi
+Petersborgvej 68570 Trustrup,trup,310.670,31-10-2005,Fam. Salg,2.157,6,Villa,144,1907,,Aktuel værdi
+Østerbro 188570 Trustrup,trup,995.000,25-10-2005,Alm. Salg,5.437,8,Villa,183,1970,,Aktuel værdi
+Abildgårdsvej 258570 Trustrup,trup,595.000,25-10-2005,Alm. Salg,3.940,4,Villa,151,1927,,Aktuel værdi
+Petersborgvej 268570 Trustrup,trup,745.000,24-10-2005,Alm. Salg,7.450,4,Villa,100,1964,,Aktuel værdi
+Petersborgvej 58570 Trustrup,trup,595.000,04-10-2005,Alm. Salg,-,5,Villa,148,1850,,Aktuel værdi
+Revnvej 428570 Trustrup,trup,1.090.000,14-09-2005,Alm. Salg,7.956,6,Villa,137,1912,,Aktuel værdi
+Vesterbro 308570 Trustrup,trup,1.065.000,01-09-2005,Alm. Salg,5.461,6,Villa,195,1976,,Aktuel værdi
+Fladstrupvej 358570 Trustrup,trup,1.495.000,10-08-2005,Alm. Salg,7.746,7,Stuehus,193,1975,,
+Fladstrupvej 308570 Trustrup,trup,462.737,08-08-2005,Andet,3.004,5,Villa,154,1937,,Aktuel værdi
+Svinget 108570 Trustrup,trup,185.000,04-08-2005,Alm. Salg,2.846,2,Villa,65,1888,,Aktuel værdi
+Tjørnegårdsparken 368570 Trustrup,trup,1.012.286,27-07-2005,Alm. Salg,5.011,7,Villa,202,1977,,Aktuel værdi
+Fuglebækvej 148570 Trustrup,trup,1.300.000,26-07-2005,Alm. Salg,8.666,4,Villa,150,1952,,Aktuel værdi
+Ballevej 348570 Trustrup,trup,425.000,21-07-2005,Alm. Salg,4.885,4,Villa,87,1906,,Aktuel værdi
+Fævejlevej 18570 Trustrup,trup,468.000,16-06-2005,Alm. Salg,4.254,4,Villa,110,1992,,Aktuel værdi
+Århusvej 2388570 Trustrup,trup,485.113,26-05-2005,Alm. Salg,4.182,4,Villa,116,1936,,Aktuel værdi
+Petersborgvej 24A8570 Trustrup,trup,398.000,20-05-2005,Alm. Salg,5.685,3,Lejlighed,70,1973,,Aktuel værdi
+Lykkesholmvej 198570 Trustrup,trup,695.000,12-05-2005,Alm. Salg,5.560,4,Villa,125,1950,,Aktuel værdi
+Tjørnegårdsparken 98570 Trustrup,trup,915.000,10-05-2005,Alm. Salg,7.379,5,Villa,124,1976,,Aktuel værdi
+Nygårdsvej 228570 Trustrup,trup,725.000,23-04-2005,Alm. Salg,5.846,4,Villa,124,1934,,Aktuel værdi
+Søbyvej 278570 Trustrup,trup,245.774,19-04-2005,Alm. Salg,3.191,2,Villa,77,1936,,Aktuel værdi
+Linde Allé 38570 Trustrup,trup,725.000,14-04-2005,Alm. Salg,5.708,3,Villa,127,1958,,Aktuel værdi
+Lyngbyvej 1008570 Trustrup,trup,745.000,12-04-2005,Alm. Salg,4.806,5,Villa,155,1900,,Aktuel værdi
+Vænget 28570 Trustrup,trup,600.000,06-04-2005,Alm. Salg,4.411,3,Villa,136,1964,,Aktuel værdi
+Abildgårdsvej 278570 Trustrup,trup,1.495.000,05-04-2005,Alm. Salg,10.602,5,Villa,141,1900,,Aktuel værdi
+Vesterbro 178570 Trustrup,trup,820.000,25-02-2005,Alm. Salg,6.074,5,Villa,135,1975,,Aktuel værdi
+Århusvej 2278570 Trustrup,trup,900.620,24-02-2005,Alm. Salg,4.690,3,Villa,192,1928,,Aktuel værdi
+Lykkesholmvej 98570 Trustrup,trup,540.000,11-02-2005,Alm. Salg,4.090,6,Villa,132,1918,,Aktuel værdi
+Askhøjvej 608570 Trustrup,trup,500.000,29-12-2004,Alm. Salg,1.724,11,Villa,290,1880,,Aktuel værdi
+Vesterbro 158570 Trustrup,trup,337.500,16-12-2004,Fam. Salg,3.068,4,Villa,110,1975,,Aktuel værdi
+Vesterbro 198570 Trustrup,trup,925.000,16-11-2004,Alm. Salg,6.085,4,Villa,152,1974,,Aktuel værdi
+Abildgårdsvej 358570 Trustrup,trup,1.100.000,04-11-2004,Alm. Salg,9.909,4,Villa,111,1930,,Aktuel værdi
+Stationsgade 158570 Trustrup,trup,875.000,04-11-2004,Alm. Salg,6.433,4,Villa,136,1915,,Aktuel værdi
+Holtbakkevej 138570 Trustrup,trup,1.100.000,20-10-2004,Alm. Salg,4.400,8,Stuehus,250,1877,,
+Allelev Sund 128570 Trustrup,trup,1.055.000,03-10-2004,Alm. Salg,7.589,6,Villa,139,1926,,Aktuel værdi
+Lyngbyvej 1168570 Trustrup,trup,400.000,10-08-2004,Alm. Salg,4.545,4,Villa,88,1895,,Aktuel værdi
+Diverhøjvej 48570 Trustrup,trup,1.085.000,15-07-2004,Alm. Salg,7.695,4,Villa,141,1912,,Aktuel værdi
+Lyngbyvej 1188570 Trustrup,trup,963.000,30-06-2004,Alm. Salg,5.291,5,Villa,182,1900,,Aktuel værdi
+Askhøjvej 318570 Trustrup,trup,1.395.000,22-06-2004,Alm. Salg,7.750,4,Villa,180,1907,,Aktuel værdi
+Søndervang 118570 Trustrup,trup,851.065,13-06-2004,Alm. Salg,6.863,4,Villa,124,1976,,Aktuel værdi
+Ballevej 388570 Trustrup,trup,580.000,09-06-2004,Alm. Salg,4.142,3,Villa,140,1897,,Aktuel værdi
+Vestersmindevej 228570 Trustrup,trup,350.170,27-05-2004,Alm. Salg,4.668,3,Villa,75,1777,,Aktuel værdi
+Fævejlevej 138570 Trustrup,trup,28.000,18-05-2004,Alm. Salg,250,4,Stuehus,112,1932,,
+Lyngbyvej 238570 Trustrup,trup,724.000,10-05-2004,Alm. Salg,5.362,4,Villa,135,1964,,Aktuel værdi
+Århusvej 2068570 Trustrup,trup,499.000,06-05-2004,Alm. Salg,5.091,4,Villa,98,1951,,Aktuel værdi
+Skolegade 58570 Trustrup,trup,439.401,03-05-2004,Fam. Salg,2.929,5,Villa,150,1900,,Aktuel værdi
+Lyngbyvej 1088570 Trustrup,trup,725.000,30-04-2004,Alm. Salg,3.295,7,Villa,220,1977,,Aktuel værdi
+Holtbakkevej 108570 Trustrup,trup,63.000,05-04-2004,Auktion,759,3,Villa,83,1877,,Aktuel værdi
+Tjørnegårdsparken 268570 Trustrup,trup,790.000,15-03-2004,Alm. Salg,4.906,5,Villa,161,1989,,Aktuel værdi
+Sundet 18570 Trustrup,trup,500.000,01-03-2004,Auktion,4.237,4,Villa,118,1928,,Aktuel værdi
+Grønlandsvej 28570 Trustrup,trup,1.530.000,19-12-2003,Alm. Salg,11.333,4,Stuehus,135,1919,,
+Tjørnegårdsparken 258570 Trustrup,trup,905.000,28-11-2003,Alm. Salg,5.764,5,Villa,157,1976,,Aktuel værdi
+Lyngbyvej 1118570 Trustrup,trup,5.322.767,19-11-2003,Fam. Salg,26.091,8,Stuehus,204,1934,,
+Obdrupvej 258570 Trustrup,trup,1.050.101,06-11-2003,Alm. Salg,5.224,6,Villa,201,1961,,Aktuel værdi
+Abildgårdsvej 108570 Trustrup,trup,2.250.000,23-09-2003,Alm. Salg,21.634,4,Villa,104,1962,,Aktuel værdi
+Lyngbyvej 608570 Trustrup,trup,1.418.575,26-08-2003,Fam. Salg,-,4,Stuehus,166,1920,,
+Petersborgvej 348570 Trustrup,trup,550.000,04-08-2003,Alm. Salg,5.140,4,Villa,107,1908,,Aktuel værdi
+Egehøjvej 38570 Trustrup,trup,215.000,01-08-2003,Alm. Salg,5.375,3,Sommerhus,40,1970,,Aktuel værdi
+Askhøjvej 708570 Trustrup,trup,245.000,28-07-2003,Alm. Salg,3.500,2,Rækkehus,70,1897,,Aktuel værdi
+Vestersmindevej 48570 Trustrup,trup,336.840,25-07-2003,Alm. Salg,5.263,3,Villa,64,1893,,Aktuel værdi
+Diverhøjvej 98570 Trustrup,trup,7.011.000,14-07-2003,Fam. Salg,21.978,9,Stuehus,319,1960,,
+Søbyvej 108570 Trustrup,trup,65.000,09-07-2003,Fam. Salg,422,5,Villa,154,2004,,Aktuel værdi
+Lyngbyvej 838570 Trustrup,trup,285.000,25-06-2003,Alm. Salg,4.750,2,Villa,60,1900,,Aktuel værdi
+Holtbakkevej 98570 Trustrup,trup,750.000,13-06-2003,Alm. Salg,9.375,3,Stuehus,80,1890,,
+Fuglebækvej 38570 Trustrup,trup,550.000,20-05-2003,Alm. Salg,5.500,3,Villa,100,1910,,Aktuel værdi
+Århusvej 1358570 Trustrup,trup,699.000,01-04-2003,Alm. Salg,5.923,5,Villa,118,1894,,Aktuel værdi
+Albøgevej 68570 Trustrup,trup,520.000,21-01-2003,Alm. Salg,3.969,4,Villa,131,1916,,Aktuel værdi
+Århusvej 1458570 Trustrup,trup,529.916,07-01-2003,Alm. Salg,6.161,3,Villa,86,1954,,Aktuel værdi
+Stationsgade 11B8570 Trustrup,trup,430.000,10-12-2002,Alm. Salg,3.115,6,Villa,138,1900,,Aktuel værdi
+Lykkesholmvej 68570 Trustrup,trup,610.000,07-12-2002,Alm. Salg,5.809,4,Villa,105,1935,,Aktuel værdi
+Park Allé 48570 Trustrup,trup,780.000,05-12-2002,Fam. Salg,5.454,5,Villa,143,1900,,Aktuel værdi
+Århusvej 191B8570 Trustrup,trup,750.000,26-11-2002,Alm. Salg,3.456,5,Villa,217,1934,,Aktuel værdi
+Lyngbyvej 778570 Trustrup,trup,420.000,04-10-2002,Fam. Salg,4.000,3,Villa,105,1950,,Aktuel værdi
+Abildgårdsvej 48570 Trustrup,trup,1.114.324,01-10-2002,Alm. Salg,7.235,6,Villa,154,1986,,Aktuel værdi
+Petersborgvej 398570 Trustrup,trup,1.655.000,26-09-2002,Alm. Salg,-,6,Stuehus,233,1946,,
+Allelev Sund 38570 Trustrup,trup,201.000,16-09-2002,Auktion,1.675,6,Villa,120,1907,,Aktuel værdi
+Århusvej 1808570 Trustrup,trup,651.843,13-09-2002,Andet,5.342,4,Villa,122,1986,,Aktuel værdi
+Lykkesholmvej 118570 Trustrup,trup,750.000,24-07-2002,Alm. Salg,7.653,4,Villa,98,1950,,Aktuel værdi
+Århusvej 2338570 Trustrup,trup,13.575.000,13-06-2002,Alm. Salg,34.280,9,Stuehus,396,1866,,
+Revnvej 548570 Trustrup,trup,550.000,07-05-2002,Alm. Salg,3.055,10,Villa,180,1852,,Aktuel værdi
+Århusvej 1438570 Trustrup,trup,495.000,14-04-2002,Alm. Salg,4.805,4,Villa,103,1957,,Aktuel værdi
+Allelevvej 118570 Trustrup,trup,5.089.365,26-03-2002,Fam. Salg,22.619,11,Stuehus,225,1846,,
+Tjørnegårdsparken 158570 Trustrup,trup,904.000,24-03-2002,Alm. Salg,6.457,4,Villa,140,1976,,Aktuel værdi
+Kastanie Allé 148570 Trustrup,trup,470.000,06-03-2002,Alm. Salg,5.222,3,Villa,90,1963,,Aktuel værdi
+Århusvej 1958570 Trustrup,trup,767.276,28-02-2002,Alm. Salg,3.619,6,Villa,212,1926,,Aktuel værdi
+Abildgårdsvej 128570 Trustrup,trup,1.301.308,24-01-2002,Alm. Salg,8.133,6,Villa,160,1967,,Aktuel værdi
+Søndervang 98570 Trustrup,trup,458.000,15-01-2002,Alm. Salg,4.320,4,Villa,106,1967,,Aktuel værdi
+Fladstrupvej 208570 Trustrup,trup,929.400,17-12-2001,Alm. Salg,4.112,6,Stuehus,226,1917,,
+Fladstrupvej 228570 Trustrup,trup,4.650.902,17-12-2001,Fam. Salg,20.579,7,Stuehus,226,1900,,
+Obdrupvej 28570 Trustrup,trup,210.000,14-12-2001,Alm. Salg,1.510,6,Villa,139,1900,,Aktuel værdi
+Askhøjvej 18570 Trustrup,trup,272.000,28-11-2001,Fam. Salg,3.532,3,Villa,77,1900,,Aktuel værdi
+Lyngbyvej 988570 Trustrup,trup,540.000,08-11-2001,Alm. Salg,5.192,2,Villa,104,1958,,Aktuel værdi
+Fladstrupvej 398570 Trustrup,trup,500.000,31-10-2001,Alm. Salg,2.392,9,Villa,209,1880,,Aktuel værdi
+Revnvej 468570 Trustrup,trup,390.000,31-10-2001,Alm. Salg,4.333,2,Villa,90,1900,,Aktuel værdi
+Tjørnegårdsparken 348570 Trustrup,trup,824.529,19-10-2001,Alm. Salg,5.460,5,Villa,151,1977,,Aktuel værdi
+Harestien 48570 Trustrup,trup,330.960,08-10-2001,Andet,2.018,6,Villa,164,1976,,Aktuel værdi
+Park Allé 18570 Trustrup,trup,294.587,24-09-2001,Alm. Salg,3.927,4,Villa,75,1905,,Aktuel værdi
+Århusvej 2188570 Trustrup,trup,450.000,06-09-2001,Alm. Salg,3.461,4,Villa,130,1920,,Aktuel værdi
+Mølletoften 298570 Trustrup,trup,645.000,17-08-2001,Alm. Salg,4.417,6,Villa,146,1968,,Aktuel værdi
+Grønlandsvej 18570 Trustrup,trup,760.000,31-05-2001,Alm. Salg,5.352,5,Stuehus,142,1910,,
+Vesterbro 38570 Trustrup,trup,350.000,24-04-2001,Alm. Salg,1.923,3,Villa,182,1967,,Aktuel værdi
+Lyngbyvej 418570 Trustrup,trup,1.049.755,01-04-2001,Alm. Salg,4.707,7,Villa,223,1968,,Aktuel værdi
+Fladstrupvej 258570 Trustrup,trup,850.000,30-03-2001,Alm. Salg,5.821,5,Villa,146,1890,,Aktuel værdi
+Diverhøjvej 78570 Trustrup,trup,950.000,29-03-2001,Fam. Salg,6.785,5,Villa,140,1974,,Aktuel værdi
+Tinghøjvej 118570 Trustrup,trup,664.797,09-02-2001,Alm. Salg,3.291,9,Villa,202,1880,,Aktuel værdi
+Søndervang 78570 Trustrup,trup,665.000,05-02-2001,Alm. Salg,4.375,4,Villa,152,1966,,Aktuel værdi
+Grønlandsvej 138570 Trustrup,trup,480.000,14-01-2001,Alm. Salg,4.285,4,Villa,112,1911,,Aktuel værdi
+Fladstrupvej 438570 Trustrup,trup,2.270.000,04-01-2001,Alm. Salg,11.350,7,Stuehus,200,1915,,
+Lyngbyvej 618570 Trustrup,trup,497.055,15-11-2000,Alm. Salg,5.648,3,Villa,88,1962,,Aktuel værdi
+Mølletoften 278570 Trustrup,trup,699.360,01-11-2000,Alm. Salg,4.693,5,Villa,149,1974,,Aktuel værdi
+Askhøjvej 188570 Trustrup,trup,526.000,29-09-2000,Alm. Salg,3.287,5,Villa,160,1899,,Aktuel værdi
+Holtbakkevej 188570 Trustrup,trup,2.525.000,03-08-2000,Alm. Salg,14.511,7,Stuehus,174,1911,,
+Hallendrupvej 428570 Trustrup,trup,325.042,30-05-2000,Alm. Salg,1.923,3,Villa,169,1915,,Aktuel værdi
+Grønlandsvej 178570 Trustrup,trup,1.157.000,26-05-2000,Alm. Salg,5.142,4,Villa,225,1910,,Aktuel værdi
+Lykkesholmvej 78570 Trustrup,trup,680.725,23-05-2000,Alm. Salg,4.568,5,Villa,149,1910,,Aktuel værdi
+Tjørnegårdsparken 288570 Trustrup,trup,640.000,24-03-2000,Alm. Salg,5.333,5,Villa,120,1977,,Aktuel værdi
+Grønlandsvej 158570 Trustrup,trup,524.263,14-03-2000,Alm. Salg,-,5,Villa,241,1910,,Aktuel værdi
+Fladstrupvej 238570 Trustrup,trup,60.000,01-02-2000,Alm. Salg,923,2,Villa,65,1910,,Aktuel værdi
+Lyngbyvej 938570 Trustrup,trup,110.000,04-12-1999,Alm. Salg,982,4,Rækkehus,112,1777,,Aktuel værdi
+Lyngbyvej 918570 Trustrup,trup,125.000,02-12-1999,Alm. Salg,1.116,4,Rækkehus,112,1870,,Aktuel værdi
+Nygårdsvej 198570 Trustrup,trup,440.593,09-10-1999,Alm. Salg,4.156,3,Villa,106,1956,,Aktuel værdi
+Søbyvej 58570 Trustrup,trup,505.000,25-08-1999,Fam. Salg,4.353,3,Villa,116,1954,,Aktuel værdi
+Arkesvej 18570 Trustrup,trup,375.000,04-05-1999,Alm. Salg,2.343,5,Villa,160,1894,,Aktuel værdi
+Fladstrupvej 588570 Trustrup,trup,107.267,10-03-1999,Andet,1.489,3,Villa,72,1964,,Aktuel værdi
+Fladstrupvej 348570 Trustrup,trup,601.000,04-02-1999,Alm. Salg,4.518,4,Villa,133,1973,,Aktuel værdi
+Søndervang 158570 Trustrup,trup,1.027.000,01-02-1999,Alm. Salg,4.961,6,Villa,207,1988,,Aktuel værdi
+Lyngbyvej 1208570 Trustrup,trup,545.000,26-01-1999,Alm. Salg,4.739,4,Villa,115,1907,,Aktuel værdi
+Svinget 88570 Trustrup,trup,368.000,02-12-1998,Alm. Salg,3.092,3,Rækkehus,119,1900,,Aktuel værdi
+Askhøjvej 88570 Trustrup,trup,688.432,11-11-1998,Alm. Salg,3.476,6,Villa,198,1900,,Aktuel værdi
+Petersborgvej 38570 Trustrup,trup,556.000,28-10-1998,Alm. Salg,5.054,4,Villa,110,1942,,Aktuel værdi
+Lykkesholmvej 158570 Trustrup,trup,612.000,13-10-1998,Alm. Salg,5.513,5,Villa,111,1955,,Aktuel værdi
+Århusvej 2788570 Trustrup,trup,1.317.500,23-09-1998,Fam. Salg,7.750,6,Stuehus,170,1904,,
+Tjørnegårdsparken 468570 Trustrup,trup,847.000,26-08-1998,Alm. Salg,5.360,5,Villa,158,1976,,Aktuel værdi
+Fuglebækvej 288570 Trustrup,trup,476.000,07-08-1998,Alm. Salg,-,5,Villa,171,1905,,Aktuel værdi
+Fårvadvej 88570 Trustrup,trup,7.180.050,30-07-1998,Alm. Salg,53.582,7,Stuehus,134,1912,,
+Tinghøjvej 98570 Trustrup,trup,1.548.000,19-06-1998,Alm. Salg,8.147,7,Stuehus,190,1896,,
+Århusvej 2888570 Trustrup,trup,548.000,25-05-1998,Alm. Salg,3.558,4,Villa,154,1777,,Aktuel værdi
+Fladstrupvej 428570 Trustrup,trup,420.000,29-04-1998,Alm. Salg,4.158,4,Villa,101,1964,,Aktuel værdi
+Fuglebækvej 128570 Trustrup,trup,373.000,29-04-1998,Alm. Salg,3.730,4,Villa,100,1964,,Aktuel værdi
+Mølletoften 13A8570 Trustrup,trup,238.000,30-03-1998,Alm. Salg,2.615,3,Villa,91,1900,,Aktuel værdi
+Fladstrupvej 138570 Trustrup,trup,350.000,27-01-1998,Alm. Salg,-,6,Villa,110,1899,,Aktuel værdi
+Tinghøjvej 28570 Trustrup,trup,493.924,14-01-1998,Fam. Salg,4.410,4,Stuehus,112,1907,,
+Århusvej 1338570 Trustrup,trup,341.000,05-01-1998,Alm. Salg,2.131,7,Villa,160,1907,,Aktuel værdi
+Stationsgade 208570 Trustrup,trup,662.440,11-12-1997,Alm. Salg,2.481,11,Villa,267,1905,,Aktuel værdi
+Tinghøjvej 18570 Trustrup,trup,610.000,11-12-1997,Alm. Salg,3.812,7,Villa,160,1927,,Aktuel værdi
+Tjørnegårdsparken 228570 Trustrup,trup,599.628,05-11-1997,Alm. Salg,4.835,4,Villa,124,1976,,Aktuel værdi
+Århusvej 2178570 Trustrup,trup,10.000,05-11-1997,Alm. Salg,172,1,Villa,58,1840,,Aktuel værdi
+Hallendrupvej 508570 Trustrup,trup,1.321.404,03-11-1997,Alm. Salg,8.008,7,Stuehus,165,1980,,
+Skolegade 88570 Trustrup,trup,295.000,09-10-1997,Alm. Salg,2.836,4,Villa,104,1914,,Aktuel værdi
+Fladstrupvej 28570 Trustrup,trup,563.000,24-09-1997,Alm. Salg,4.265,4,Villa,132,1952,,Aktuel værdi
+Tjørnegårdsparken 338570 Trustrup,trup,672.000,06-09-1997,Alm. Salg,5.090,4,Villa,132,1977,,Aktuel værdi
+Lykkesholmvej 48570 Trustrup,trup,650.000,27-08-1997,Alm. Salg,3.987,5,Villa,163,1991,,Aktuel værdi
+Skolegade 118570 Trustrup,trup,735.000,09-06-1997,Alm. Salg,5.444,7,Villa,135,1949,,Aktuel værdi
+Vestersmindevej 158570 Trustrup,trup,760.870,08-03-1997,Alm. Salg,4.755,6,Villa,160,1931,,Aktuel værdi
+Skolegade 128570 Trustrup,trup,368.250,26-02-1997,Alm. Salg,2.557,4,Villa,144,1904,,Aktuel værdi
+Ellegårdvej 18570 Trustrup,trup,123.213,24-02-1997,Alm. Salg,751,5,Villa,164,1894,,Aktuel værdi
+Askhøjvej 808570 Trustrup,trup,535.000,09-01-1997,Alm. Salg,3.110,5,Villa,172,1910,,Aktuel værdi
+Revnvej 338570 Trustrup,trup,410.000,19-12-1996,Alm. Salg,3.360,4,Villa,122,1973,,Aktuel værdi
+Allelevvej 148570 Trustrup,trup,544.000,18-12-1996,Fam. Salg,2.720,5,Villa,200,1938,,Aktuel værdi
+Lyngbyvej 18570 Trustrup,trup,331.418,22-11-1996,Fam. Salg,1.578,7,Villa,210,1877,,Aktuel værdi
+Ellegårdvej 78570 Trustrup,trup,419.000,13-11-1996,Alm. Salg,-,6,Villa,280,1880,,Aktuel værdi
+Århusvej 1948570 Trustrup,trup,750.000,06-11-1996,Alm. Salg,3.289,9,Villa,228,1967,,Aktuel værdi
+Diverhøjvej 38570 Trustrup,trup,600.000,28-10-1996,Alm. Salg,-,8,Villa,197,1877,,Aktuel værdi
+Århusvej 2078570 Trustrup,trup,455.000,24-07-1996,Alm. Salg,-,5,Villa,150,1900,,Aktuel værdi
+Fladstrupvej 368570 Trustrup,trup,500.000,16-07-1996,Alm. Salg,-,5,Villa,145,1974,,Aktuel værdi
+Fladstrupvej 68570 Trustrup,trup,895.141,12-07-1996,Fam. Salg,7.459,5,Stuehus,120,1900,,
+Egehøjvej 48570 Trustrup,trup,1.267.553,28-06-1996,Fam. Salg,9.750,5,Stuehus,130,1920,,
+Solhøjvej 378570 Trustrup,trup,72.505,19-06-1996,Alm. Salg,625,4,Villa,116,1997,,Aktuel værdi
+Saldrupvej 28570 Trustrup,trup,669.879,12-05-1996,Alm. Salg,-,7,Villa,176,1978,,Aktuel værdi
+Abildgårdsvej 288570 Trustrup,trup,918.000,06-05-1996,Alm. Salg,7.982,4,Villa,115,1904,,Aktuel værdi
+Askhøjvej 208570 Trustrup,trup,465.191,28-03-1996,Alm. Salg,3.578,4,Villa,130,1904,,Aktuel værdi
+Obdrupvej 328570 Trustrup,trup,694.000,25-03-1996,Alm. Salg,3.652,6,Villa,190,1967,,Aktuel værdi
+Petersborgvej 24B8570 Trustrup,trup,334.000,04-03-1996,Alm. Salg,4.513,3,Lejlighed,74,1973,,Aktuel værdi
+Vænget 18570 Trustrup,trup,345.000,22-02-1996,Alm. Salg,3.415,3,Villa,101,1955,,Aktuel værdi
+Århusvej 2148570 Trustrup,trup,658.847,08-02-1996,Alm. Salg,3.229,6,Villa,204,1973,,Aktuel værdi
+Søbyvej 418570 Trustrup,trup,801.212,06-02-1996,Fam. Salg,2.743,7,Villa,292,1976,,Aktuel værdi
+Mølletoften 18570 Trustrup,trup,540.000,18-12-1995,Fam. Salg,2.213,8,Villa,244,1965,,Aktuel værdi
+Skolegade 208570 Trustrup,trup,894.558,30-10-1995,Alm. Salg,11.927,3,Rækkehus,75,1992,,Aktuel værdi
+Lyngbyvej 368570 Trustrup,trup,640.000,16-10-1995,Alm. Salg,3.404,6,Villa,188,1962,,Aktuel værdi
+Ballevej 38570 Trustrup,trup,255.000,09-09-1995,Alm. Salg,1.976,4,Villa,129,1967,,Aktuel værdi
+Banevej 28570 Trustrup,trup,245.000,28-08-1995,Alm. Salg,2.848,3,Villa,86,1877,,Aktuel værdi
+Askhøjvej 78570 Trustrup,trup,290.000,22-08-1995,Alm. Salg,1.959,5,Villa,148,1877,,Aktuel værdi
+Nygårdsvej 11B8570 Trustrup,trup,672.575,01-08-1995,Alm. Salg,4.873,4,Villa,138,1980,,Aktuel værdi
+Århusvej 2348570 Trustrup,trup,190.000,25-07-1995,Alm. Salg,1.484,6,Villa,128,1902,,Aktuel værdi
+Nygårdsvej 88570 Trustrup,trup,460.000,03-07-1995,Alm. Salg,2.000,7,Villa,230,1877,,Aktuel værdi
+Lyngbyvej 378570 Trustrup,trup,650.000,27-06-1995,Alm. Salg,4.062,6,Stuehus,160,1965,,
+Østerbro 408570 Trustrup,trup,533.000,26-06-1995,Alm. Salg,4.758,4,Villa,112,1966,,Aktuel værdi
+Århusvej 1518570 Trustrup,trup,320.000,23-06-1995,Fam. Salg,2.000,4,Villa,160,1955,,Aktuel værdi
+Søndervang 18570 Trustrup,trup,708.200,20-06-1995,Alm. Salg,4.292,5,Villa,165,1980,,Aktuel værdi
+Vænget 48570 Trustrup,trup,860.000,28-03-1995,Alm. Salg,5.733,4,Villa,150,1989,,Aktuel værdi
+Nygårdsvej 28570 Trustrup,trup,650.000,23-02-1995,Alm. Salg,5.000,4,Industri o.l.,130,1885,,Aktuel værdi
+Fævejlevej 118570 Trustrup,trup,4.900.000,20-02-1995,Alm. Salg,20.416,14,Stuehus,240,1885,,
+Århusvej 1798570 Trustrup,trup,321.524,07-02-1995,Fam. Salg,820,11,Detailhandel,392,1966,,Aktuel værdi
+Fladstrupvej 378570 Trustrup,trup,1.055.000,30-11-1994,Fam. Salg,8.115,4,Stuehus,130,1898,,
+Allelevvej 28570 Trustrup,trup,150.000,16-09-1994,Alm. Salg,1.530,3,Villa,98,1927,,Aktuel værdi
+Fævejlevej 48570 Trustrup,trup,150.000,22-08-1994,Alm. Salg,1.807,4,Villa,83,1880,,Aktuel værdi
+Nygårdsvej 378570 Trustrup,trup,420.000,27-04-1994,Alm. Salg,3.255,4,Villa,129,1971,,Aktuel værdi
+Petersborgvej 48570 Trustrup,trup,540.000,17-04-1994,Alm. Salg,4.000,5,Villa,135,1964,,Aktuel værdi
+Linde Allé 108570 Trustrup,trup,100.000,28-10-1993,Fam. Salg,1.369,4,Villa,73,1933,,Aktuel værdi
+Lyngbyvej 678570 Trustrup,trup,391.056,12-10-1993,Alm. Salg,-,6,Villa,143,1870,,Aktuel værdi
+Lyngbyvej 758570 Trustrup,trup,270.000,05-10-1993,Alm. Salg,2.347,4,Villa,115,1933,,Aktuel værdi
+Skolegade 78570 Trustrup,trup,460.000,11-08-1993,Alm. Salg,2.967,5,Villa,155,1907,,Aktuel værdi
+Frederiksdalsvej 68570 Trustrup,trup,4.710.000,03-08-1993,Fam. Salg,21.409,22,Stuehus,220,1902,,
+Linde Allé 88570 Trustrup,trup,288.000,02-08-1993,Alm. Salg,2.440,4,Villa,118,1921,,Aktuel værdi
+Århusvej 2408570 Trustrup,trup,675.000,20-07-1993,Alm. Salg,2.700,8,Villa,250,1892,,Aktuel værdi
+Obdrupvej 18570 Trustrup,trup,223.500,02-07-1993,Alm. Salg,-,4,Villa,198,1840,,Aktuel værdi
+Fuglebækvej 48570 Trustrup,trup,500.000,01-06-1993,Alm. Salg,-,6,Villa,159,1854,,Aktuel værdi
+Tjørnegårdsparken 188570 Trustrup,trup,199.099,25-02-1993,Fam. Salg,1.292,5,Villa,154,1975,,Aktuel værdi
+Søndervang 108570 Trustrup,trup,790.000,04-02-1993,Alm. Salg,3.989,5,Villa,198,1976,,Aktuel værdi
+Tinghøjvej 38570 Trustrup,trup,1.400.000,14-01-1993,Alm. Salg,6.603,5,Stuehus,212,1922,,
+Lykkesholmvej 128570 Trustrup,trup,490.000,26-10-1992,Alm. Salg,3.602,3,Villa,136,1920,,Aktuel værdi
+Århusvej 1838570 Trustrup,trup,320.000,17-10-1992,Alm. Salg,3.200,4,Villa,100,1943,,Aktuel værdi
+Ballevej 88570 Trustrup,trup,400.000,17-09-1992,Alm. Salg,-,7,Villa,178,1930,,Aktuel værdi
+Askhøjvej 698570 Trustrup,trup,1.175.000,26-08-1992,Alm. Salg,5.759,3,Stuehus,204,1864,,
+Askhøjvej 648570 Trustrup,trup,225.000,24-07-1992,Alm. Salg,2.045,3,Villa,110,1905,,Aktuel værdi
+Fuglebækvej 58570 Trustrup,trup,430.000,24-07-1992,Alm. Salg,3.071,5,Villa,140,1850,,Aktuel værdi
+Ellegårdvej 118570 Trustrup,trup,733.000,30-06-1992,Alm. Salg,-,7,Stuehus,193,1912,,
+Svinget 148570 Trustrup,trup,398.891,21-04-1992,Alm. Salg,1.829,8,Villa,218,1900,,Aktuel værdi
+Grønlandsvej 58570 Trustrup,trup,442.000,25-03-1992,Fam. Salg,3.202,7,Villa,138,1910,,Aktuel værdi
+Søndervang 48570 Trustrup,trup,700.000,03-03-1992,Fam. Salg,4.861,5,Villa,144,1976,,Aktuel værdi
+Lyngbyvej 968570 Trustrup,trup,244.000,17-02-1992,Alm. Salg,3.050,5,Villa,80,1900,,Aktuel værdi
+Askhøjvej 68570 Trustrup,trup,330.000,27-01-1992,Alm. Salg,2.291,6,Villa,144,1930,,Aktuel værdi

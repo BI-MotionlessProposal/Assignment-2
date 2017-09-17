@@ -1,0 +1,316 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Blåborgvej 37960 Karby,arby,370.000,03-04-2017,Alm. Salg,3.333,4,Villa,111,1956,,Aktuel værdi
+Kærhaven 47960 Karby,arby,125.000,16-12-2016,Alm. Salg,1.388,4,Sommerhus,90,1900,,Aktuel værdi
+Ørndrupvej 137960 Karby,arby,200.000,08-12-2016,Fam. Salg,1.666,5,Villa,120,1887,-50 %,Aktuel værdi
+Næssundvej 3747960 Karby,arby,425.000,03-12-2016,Alm. Salg,3.541,4,Stuehus,120,1969,,
+Grønvej 137960 Karby,arby,60.000,17-10-2016,Alm. Salg,571,2,Villa,105,1958,,Aktuel værdi
+Vestmorsvej 657960 Karby,arby,685.000,14-10-2016,Alm. Salg,3.643,5,Villa,188,1947,0 %,Aktuel værdi
+Ørndrupvej 317960 Karby,arby,560.000,22-08-2016,Alm. Salg,4.057,6,Villa,138,1933,-17 %,Aktuel værdi
+Næssundvej 3657960 Karby,arby,450.000,22-08-2016,Fam. Salg,2.393,5,Villa,188,1916,,Aktuel værdi
+Fruensgård 87960 Karby,arby,1.308.880,21-08-2016,Alm. Salg,6.031,6,Stuehus,217,1922,-56 %,
+Kringsholmen 77960 Karby,arby,14.624.250,15-08-2016,Fam. Salg,64.424,7,Stuehus,227,1898,,
+Engdraget 67960 Karby,arby,602.500,26-07-2016,Alm. Salg,4.184,4,Villa,144,1973,,Aktuel værdi
+Blåborgvej 67960 Karby,arby,875.000,19-07-2016,Alm. Salg,5.028,5,Villa,174,1979,-20 %,Aktuel værdi
+Vestmorsvej 757960 Karby,arby,300.000,12-07-2016,Alm. Salg,1.744,5,Villa,172,1927,-24 %,Aktuel værdi
+Ørndrupvej 37960 Karby,arby,150.000,30-06-2016,Fam. Salg,1.271,4,Villa,118,1877,,Aktuel værdi
+Agerøvej 97960 Karby,arby,1.200.000,06-06-2016,Fam. Salg,5.882,4,Stuehus,204,1914,,
+Kringsholmen 117960 Karby,arby,11.025.000,06-06-2016,Fam. Salg,29.400,11,Stuehus,375,1864,,
+Næsørevej 77960 Karby,arby,1.100.000,28-04-2016,Alm. Salg,4.150,8,Stuehus,265,1975,11 %,
+Ørndrupvej 177960 Karby,arby,175.000,13-02-2016,Alm. Salg,1.215,5,Villa,144,1927,,Aktuel værdi
+Kringsholmen 57960 Karby,arby,1.800.000,15-01-2016,Andet,9.890,6,Villa,182,2004,,Aktuel værdi
+Blåborgvej 137960 Karby,arby,240.000,21-12-2015,Alm. Salg,1.538,6,Villa,156,1927,,Aktuel værdi
+Næssundvej 4147960 Karby,arby,110.000,19-09-2015,Alm. Salg,1.067,3,Villa,103,1892,,Aktuel værdi
+Næssundvej 3557960 Karby,arby,185.000,08-07-2015,Alm. Salg,1.637,4,Villa,113,1927,-46 %,Aktuel værdi
+Agerøvej 227960 Karby,arby,675.000,26-06-2015,Alm. Salg,4.753,5,Villa,142,1935,-3 %,Aktuel værdi
+Ørndrupmark 167960 Karby,arby,360.000,23-06-2015,Alm. Salg,2.589,5,Villa,139,1928,-9 %,Aktuel værdi
+Næssundvej 3597960 Karby,arby,560.000,16-06-2015,Alm. Salg,2.718,6,Villa,206,1973,-5 %,Aktuel værdi
+Nørvej 287960 Karby,arby,1.937.500,11-06-2015,Alm. Salg,8.106,5,Stuehus,239,1935,,
+Krogshaven 87960 Karby,arby,1.937.500,11-06-2015,Alm. Salg,7.876,5,Stuehus,246,1937,,
+Næssundvej 4627960 Karby,arby,140.000,26-04-2015,Alm. Salg,1.707,4,Villa,82,1910,,Aktuel værdi
+Ørndrupvej 57960 Karby,arby,215.000,22-04-2015,Fam. Salg,1.902,4,Villa,113,1927,,Aktuel værdi
+Blåborgvej 187960 Karby,arby,122.729,02-02-2015,Alm. Salg,717,4,Villa,171,1897,,Aktuel værdi
+Blåborgvej 527960 Karby,arby,420.000,14-01-2015,Alm. Salg,2.500,5,Villa,168,1937,-15 %,Aktuel værdi
+Ørndrupvej 247960 Karby,arby,410.000,07-01-2015,Alm. Salg,2.733,5,Villa,150,1973,,Aktuel værdi
+Næssundvej 3507960 Karby,arby,50.000,17-12-2014,Alm. Salg,480,4,Villa,104,1948,-82 %,Aktuel værdi
+Kærhaven 127960 Karby,arby,565.000,01-12-2014,Alm. Salg,3.621,5,Stuehus,156,1917,-5 %,
+Ørndrupvej 217960 Karby,arby,75.000,11-11-2014,Alm. Salg,721,3,Villa,104,1890,,Aktuel værdi
+Ørndrupvej 127960 Karby,arby,52.500,02-11-2014,Alm. Salg,583,3,Villa,90,1912,,Aktuel værdi
+Hovmøllevej 147960 Karby,arby,1.835.600,06-10-2014,Alm. Salg,6.555,11,Stuehus,280,1885,,
+Ørndrupvej 757960 Karby,arby,75.000,09-09-2014,Andet,1.171,3,Villa,64,1889,,Aktuel værdi
+Blåborgvej 77960 Karby,arby,325.106,05-09-2014,Fam. Salg,2.778,4,Villa,117,1966,-44 %,Aktuel værdi
+Nørvej 167960 Karby,arby,740.000,14-08-2014,Alm. Salg,4.157,7,Villa,178,1974,-12 %,Aktuel værdi
+Næssundvej 3367960 Karby,arby,150.000,11-08-2014,Fam. Salg,1.171,4,Villa,128,1942,,Aktuel værdi
+Agerøvej 377960 Karby,arby,1.295.000,18-06-2014,Alm. Salg,5.606,8,Stuehus,231,1920,,
+Ørndrupvej 747960 Karby,arby,200.000,13-04-2014,Fam. Salg,1.492,5,Villa,134,1958,,Aktuel værdi
+Agerøvej 307960 Karby,arby,280.506,31-03-2014,Fam. Salg,1.882,5,Villa,149,1914,,Aktuel værdi
+Karbymark 157960 Karby,arby,195.000,27-01-2014,Alm. Salg,1.652,4,Villa,118,1932,0 %,Aktuel værdi
+Blåborgvej 497960 Karby,arby,700.000,21-01-2014,Alm. Salg,4.794,5,Villa,146,1940,,Aktuel værdi
+Ørndrupvej 347960 Karby,arby,165.000,20-01-2014,Alm. Salg,1.683,3,Villa,98,1959,-40 %,Aktuel værdi
+Vestmorsvej 797960 Karby,arby,1.860.000,17-01-2014,Alm. Salg,9.207,7,Villa,202,1949,-5 %,Aktuel værdi
+Næssundvej 4547960 Karby,arby,274.463,25-11-2013,Alm. Salg,2.018,5,Villa,136,1902,,Aktuel værdi
+Engdraget 47960 Karby,arby,50.000,04-10-2013,Alm. Salg,1.666,1,Sommerhus,30,1955,,Aktuel værdi
+Ørndrupvej 117960 Karby,arby,400.000,19-09-2013,Alm. Salg,2.941,5,Villa,136,1984,,Aktuel værdi
+Agerøvej 547960 Karby,arby,1.740.000,12-08-2013,Alm. Salg,9.775,5,Stuehus,178,1923,,
+Agerøvej 47960 Karby,arby,140.000,30-07-2013,Alm. Salg,3.684,2,Villa,38,1957,,Aktuel værdi
+Næssundvej 3727960 Karby,arby,1.080.000,19-07-2013,Alm. Salg,6.390,6,Villa,169,1942,,Aktuel værdi
+Hedevej 127960 Karby,arby,60.000,01-07-2013,Alm. Salg,750,4,Villa,80,1937,,Aktuel værdi
+Blåborgvej 547960 Karby,arby,570.000,01-05-2013,Alm. Salg,3.931,4,Villa,145,1940,-18 %,Aktuel værdi
+Blåborgvej 587960 Karby,arby,1.548.500,29-04-2013,Alm. Salg,5.267,7,Stuehus,294,1982,,
+Vestmorsvej 577960 Karby,arby,98.000,03-04-2013,Auktion,569,6,Villa,172,1897,,Aktuel værdi
+Krogshaven 97960 Karby,arby,825.890,17-01-2013,Alm. Salg,8.880,7,Stuehus,93,1897,,
+Nørvej 67960 Karby,arby,330.000,14-01-2013,Alm. Salg,2.619,3,Villa,126,1957,-6 %,Aktuel værdi
+Vestmorsvej 597960 Karby,arby,351.323,05-10-2012,Alm. Salg,3.698,4,Villa,95,1941,,Aktuel værdi
+Karbymark 87960 Karby,arby,250.000,13-08-2012,Alm. Salg,2.232,3,Villa,112,1940,-12 %,Aktuel værdi
+Gårdvejen 37960 Karby,arby,6.700.000,06-07-2012,Andet,24.632,6,Stuehus,272,1977,,
+Blåborgvej 567960 Karby,arby,22.400.000,06-07-2012,Andet,70.440,11,Stuehus,318,1916,,
+Blåborgvej 557960 Karby,arby,300.000,06-07-2012,Andet,2.054,5,Villa,146,1940,,Aktuel værdi
+Agervejle 147960 Karby,arby,1.988.594,27-06-2012,Andet,9.844,6,Villa,202,2007,,Aktuel værdi
+Karbymark 27960 Karby,arby,110.000,18-04-2012,Alm. Salg,1.182,2,Villa,93,1904,,Aktuel værdi
+Agerøvej 277960 Karby,arby,500.000,06-03-2012,Alm. Salg,3.205,5,Stuehus,156,1906,-37 %,
+Hedevej 157960 Karby,arby,11.075.000,22-12-2011,Andet,49.004,7,Stuehus,226,1939,,
+Kærhaven 87960 Karby,arby,400.000,20-12-2011,Alm. Salg,4.166,3,Villa,96,1877,-18 %,Aktuel værdi
+Madsbjergvej 17960 Karby,arby,400.000,07-12-2011,Alm. Salg,6.451,3,Sommerhus,62,1971,,Aktuel værdi
+Næssundvej 4617960 Karby,arby,1.150.000,22-10-2011,Alm. Salg,3.993,7,Villa,288,1889,0 %,Aktuel værdi
+Næssundvej 3417960 Karby,arby,1.250.000,06-10-2011,Alm. Salg,6.410,6,Villa,195,1952,,Aktuel værdi
+Blåborgvej 147960 Karby,arby,210.000,30-09-2011,Alm. Salg,2.079,4,Villa,101,1936,-16 %,Aktuel værdi
+Ørndrupvej 1237960 Karby,arby,29.932.500,19-09-2011,Alm. Salg,103.215,8,Stuehus,290,1960,,
+Sensommervej 57960 Karby,arby,500.000,13-09-2011,Alm. Salg,2.659,6,Villa,188,1969,-12 %,Aktuel værdi
+Sønder Hedevej 27960 Karby,arby,205.000,03-08-2011,Auktion,1.056,7,Villa,194,1890,,Aktuel værdi
+Ørndrupmark 107960 Karby,arby,1.300.000,21-07-2011,Alm. Salg,8.125,4,Villa,160,1929,-13 %,Aktuel værdi
+Nørvej 187960 Karby,arby,725.000,23-06-2011,Alm. Salg,5.330,4,Villa,136,1970,,Aktuel værdi
+Agerøvej 187960 Karby,arby,2.650.000,17-06-2011,Fam. Salg,9.566,8,Stuehus,277,1870,-47 %,
+Vestmorsvej 727960 Karby,arby,500.000,09-05-2011,Alm. Salg,4.273,5,Villa,117,1900,-5 %,Aktuel værdi
+Fruensgård 17960 Karby,arby,850.000,09-05-2011,Alm. Salg,5.483,5,Villa,155,1996,-15 %,Aktuel værdi
+Næssundvej 3427960 Karby,arby,330.000,10-03-2011,Alm. Salg,3.173,5,Villa,104,1959,0 %,Aktuel værdi
+Ørndrupvej 337960 Karby,arby,650.000,15-02-2011,Alm. Salg,5.327,4,Villa,122,1844,,Aktuel værdi
+Ørndrupvej 807960 Karby,arby,440.000,19-01-2011,Auktion,2.972,4,Villa,148,1953,,Aktuel værdi
+Engdraget 77960 Karby,arby,670.000,29-12-2010,Alm. Salg,-,5,Villa,164,1957,-1 %,Aktuel værdi
+La Courvej 57960 Karby,arby,300.000,20-12-2010,Fam. Salg,2.884,5,Villa,104,1960,,Aktuel værdi
+Næssundvej 4267960 Karby,arby,3.015.000,13-12-2010,Andet,25.125,4,Villa,120,1940,570 %,Aktuel værdi
+Nørvej 137960 Karby,arby,3.015.000,13-12-2010,Andet,30.454,4,Villa,99,1941,,Aktuel værdi
+Hedevej 97960 Karby,arby,3.200.000,06-12-2010,Fam. Salg,-,8,Stuehus,275,1942,,
+Ørndrupvej 277960 Karby,arby,310.000,05-08-2010,Alm. Salg,5.081,3,Sommerhus,61,1876,-19 %,Aktuel værdi
+Næssundvej 3867960 Karby,arby,175.000,03-06-2010,Alm. Salg,1.988,3,Villa,88,1962,,Aktuel værdi
+Hedevej 187960 Karby,arby,250.000,13-12-2009,Alm. Salg,961,8,Villa,260,1960,,Aktuel værdi
+Hovmøllevej 67960 Karby,arby,13.459.876,17-11-2009,Alm. Salg,59.821,6,Stuehus,225,1851,,
+Ørndrupvej 527960 Karby,arby,715.000,05-07-2009,Alm. Salg,5.458,5,Villa,131,1915,-10 %,Aktuel værdi
+Næssundvej 3457960 Karby,arby,770.000,04-07-2009,Alm. Salg,5.099,3,Villa,151,1936,0 %,Aktuel værdi
+Blåborgvej 407960 Karby,arby,629.000,03-07-2009,Alm. Salg,5.241,3,Stuehus,120,1952,,
+Ørndrupvej 167960 Karby,arby,520.000,26-06-2009,Alm. Salg,3.229,6,Villa,161,1926,-5 %,Aktuel værdi
+La Courvej 27960 Karby,arby,335.000,30-03-2009,Alm. Salg,2.463,7,Villa,136,1943,-21 %,Aktuel værdi
+Agerøvej 177960 Karby,arby,925.000,16-03-2009,Alm. Salg,4.039,4,Villa,229,1965,,Aktuel værdi
+Ørndrupvej 1157960 Karby,arby,655.000,15-03-2009,Alm. Salg,2.620,8,Villa,250,1928,-18 %,Aktuel værdi
+Nørvej 297960 Karby,arby,1.500.000,06-03-2009,Alm. Salg,6.493,5,Villa,231,1920,,Aktuel værdi
+Næssundvej 361A7960 Karby,arby,600.000,03-03-2009,Alm. Salg,2.941,4,Lejlighed,204,1938,-33 %,Aktuel værdi
+Næssundvej 5087960 Karby,arby,190.000,03-03-2009,Auktion,1.666,5,Villa,114,1912,,Aktuel værdi
+Kr Jepsensvej 137960 Karby,arby,4.150.000,26-01-2009,Fam. Salg,19.392,4,Stuehus,214,1904,,
+Næssundvej 4697960 Karby,arby,377.000,17-12-2008,Auktion,3.336,4,Villa,113,1916,-52 %,Aktuel værdi
+Næssundvej 4517960 Karby,arby,300.000,24-10-2008,Alm. Salg,1.666,3,Villa,180,1910,-14 %,Aktuel værdi
+Hovmøllevej 197960 Karby,arby,540.000,17-10-2008,Alm. Salg,3.857,6,Villa,140,1968,-22 %,Aktuel værdi
+Hovmøllevej 177960 Karby,arby,2.650.000,26-09-2008,Alm. Salg,18.531,5,Stuehus,143,1877,,
+Ørndrupvej 1277960 Karby,arby,275.000,12-09-2008,Alm. Salg,3.571,3,Sommerhus,77,1927,,Aktuel værdi
+Ørndrupvej 47960 Karby,arby,262.500,11-09-2008,Andet,3.052,4,Villa,86,1900,,Aktuel værdi
+Blåborgvej 97960 Karby,arby,1.350.000,15-08-2008,Alm. Salg,7.180,4,Villa,188,1907,,Aktuel værdi
+Næssundvej 3497960 Karby,arby,250.000,22-06-2008,Alm. Salg,1.851,3,Villa,135,2009,,Aktuel værdi
+Sønder Møllevej 137960 Karby,arby,540.000,16-06-2008,Alm. Salg,3.529,5,Villa,153,1907,-2 %,Aktuel værdi
+Ørndrupvej 547960 Karby,arby,395.000,12-06-2008,Alm. Salg,2.170,3,Villa,182,1910,0 %,Aktuel værdi
+Nørvej 107960 Karby,arby,305.000,16-05-2008,Alm. Salg,3.388,2,Villa,90,1964,,Aktuel værdi
+Ørndrupvej 587960 Karby,arby,357.000,20-04-2008,Fam. Salg,2.380,3,Villa,150,1947,-49 %,Aktuel værdi
+Sensommervej 207960 Karby,arby,580.000,03-04-2008,Alm. Salg,4.264,4,Villa,136,1974,,Aktuel værdi
+Sensommervej 157960 Karby,arby,485.000,13-03-2008,Alm. Salg,3.849,6,Villa,126,1977,,Aktuel værdi
+Næssundvej 3517960 Karby,arby,350.000,12-03-2008,Alm. Salg,3.333,3,Villa,105,1915,-7 %,Aktuel værdi
+Kringsholmen 47960 Karby,arby,795.000,06-03-2008,Alm. Salg,4.877,6,Villa,163,1933,,Aktuel værdi
+Sensommervej 87960 Karby,arby,365.000,25-02-2008,Fam. Salg,2.829,3,Villa,129,1969,,Aktuel værdi
+Agervejle 17960 Karby,arby,200.000,20-12-2007,Alm. Salg,2.380,3,Villa,84,1870,-20 %,Aktuel værdi
+Ørndrupvej 1187960 Karby,arby,1.095.000,14-12-2007,Alm. Salg,6.403,6,Villa,171,1935,0 %,Aktuel værdi
+Ørndrupvej 887960 Karby,arby,200.000,12-11-2007,Alm. Salg,1.904,3,Villa,105,1900,,Aktuel værdi
+Næssundvej 4597960 Karby,arby,370.000,11-11-2007,Alm. Salg,3.523,4,Villa,105,1967,0 %,Aktuel værdi
+Vadkæret 37960 Karby,arby,390.000,09-07-2007,Alm. Salg,1.703,5,Villa,229,2010,,Aktuel værdi
+Næssundvej 4247960 Karby,arby,300.000,20-06-2007,Fam. Salg,1.764,5,Villa,170,1946,,Aktuel værdi
+Kr Jepsensvej 147960 Karby,arby,325.000,15-06-2007,Alm. Salg,-,5,Villa,135,1915,0 %,Aktuel værdi
+Næssundvej 4367960 Karby,arby,340.000,15-06-2007,Alm. Salg,2.635,5,Villa,129,1910,,Aktuel værdi
+Næsørevej 137960 Karby,arby,973.000,18-05-2007,Alm. Salg,5.528,6,Villa,176,1941,,Aktuel værdi
+Agerøvej 257960 Karby,arby,1.412.314,26-04-2007,Alm. Salg,6.113,5,Stuehus,231,1978,,
+Agerøvej 147960 Karby,arby,29.900,13-04-2007,Alm. Salg,87,8,Stuehus,340,1898,,
+Næssundvej 3407960 Karby,arby,500.000,10-04-2007,Fam. Salg,5.102,3,Villa,98,1959,-7 %,Aktuel værdi
+Næssundvej 4607960 Karby,arby,245.000,21-03-2007,Alm. Salg,2.355,4,Villa,104,1877,,Aktuel værdi
+Agervejle 127960 Karby,arby,600.000,13-02-2007,Alm. Salg,3.370,5,Villa,178,2008,,Aktuel værdi
+Næssundvej 3637960 Karby,arby,359.000,28-01-2007,Alm. Salg,3.094,5,Villa,116,1947,-2 %,Aktuel værdi
+Agervejle 87960 Karby,arby,4.200.000,26-01-2007,Fam. Salg,28.000,7,Stuehus,150,1877,,
+Næssundvej 4197960 Karby,arby,525.000,28-12-2006,Alm. Salg,4.268,5,Villa,123,1931,,Aktuel værdi
+Råghøj 167960 Karby,arby,450.498,01-12-2006,Andet,2.574,6,Stuehus,175,1887,,
+Ørndrupvej 697960 Karby,arby,350.000,23-11-2006,Alm. Salg,4.375,3,Villa,80,1939,,Aktuel værdi
+Næssundvej 4867960 Karby,arby,570.000,21-09-2006,Alm. Salg,3.202,3,Villa,178,1850,,Aktuel værdi
+Sønder Hedevej 167960 Karby,arby,748.000,23-08-2006,Alm. Salg,5.342,5,Villa,140,1936,,Aktuel værdi
+Karbymark 137960 Karby,arby,400.000,23-08-2006,Alm. Salg,4.878,3,Villa,82,1947,,Aktuel værdi
+Sensommervej 97960 Karby,arby,450.000,17-08-2006,Alm. Salg,4.639,4,Villa,97,1972,,Aktuel værdi
+Næssundvej 5227960 Karby,arby,2.750.000,14-07-2006,Alm. Salg,15.804,14,Villa,174,1917,,Aktuel værdi
+Ørndrupvej 327960 Karby,arby,450.000,26-06-2006,Alm. Salg,4.838,5,Villa,93,1961,,Aktuel værdi
+Næssundvej 5077960 Karby,arby,700.000,26-06-2006,Alm. Salg,4.166,8,Villa,168,1914,,Aktuel værdi
+Ørndrupvej 107960 Karby,arby,375.000,20-06-2006,Alm. Salg,3.125,2,Villa,120,1882,,Aktuel værdi
+Agerøvej 107960 Karby,arby,898.000,13-06-2006,Alm. Salg,5.345,3,Villa,168,1973,,Aktuel værdi
+Gårdvejen 57960 Karby,arby,1.700.292,07-06-2006,Alm. Salg,8.587,6,Stuehus,198,1989,,
+Ørndrupvej 1267960 Karby,arby,395.000,05-05-2006,Alm. Salg,4.030,4,Villa,98,1942,,Aktuel værdi
+Engdraget 57960 Karby,arby,425.000,22-04-2006,Alm. Salg,3.294,5,Villa,129,1949,,Aktuel værdi
+Agerøvej 67960 Karby,arby,290.000,10-04-2006,Alm. Salg,2.636,3,Villa,110,1964,,Aktuel værdi
+Blåborgvej 127960 Karby,arby,360.000,30-03-2006,Alm. Salg,3.829,4,Villa,94,1924,,Aktuel værdi
+Grønvej 47960 Karby,arby,365.000,24-03-2006,Alm. Salg,2.807,5,Villa,130,1951,,Aktuel værdi
+Krogshaven 37960 Karby,arby,580.000,12-03-2006,Alm. Salg,3.135,3,Villa,185,1961,,Aktuel værdi
+Næssundvej 4997960 Karby,arby,25.000,03-03-2006,Alm. Salg,166,5,Villa,150,2007,,Aktuel værdi
+Agerøvej 387960 Karby,arby,4.500.000,23-02-2006,Alm. Salg,36.000,4,Stuehus,125,1930,,
+Næssundvej 3347960 Karby,arby,795.000,06-01-2006,Alm. Salg,4.344,6,Villa,183,1941,,Aktuel værdi
+Ørndrupvej 1177960 Karby,arby,137.500,29-12-2005,Andet,1.250,3,Sommerhus,110,1925,,Aktuel værdi
+Ørndrupvej 1307960 Karby,arby,600.000,12-12-2005,Fam. Salg,2.666,6,Stuehus,225,1840,,
+Grønvej 27960 Karby,arby,340.000,04-12-2005,Alm. Salg,4.303,5,Villa,79,1955,,Aktuel værdi
+Næsørevej 87960 Karby,arby,795.000,01-12-2005,Alm. Salg,4.140,6,Villa,192,1867,,Aktuel værdi
+Ørndrupvej 737960 Karby,arby,500.000,02-11-2005,Alm. Salg,3.937,4,Villa,127,1918,,Aktuel værdi
+Ørndrupvej 157960 Karby,arby,895.000,19-10-2005,Alm. Salg,4.201,5,Villa,213,1914,,Aktuel værdi
+Ørndrupvej 1257960 Karby,arby,690.000,30-08-2005,Alm. Salg,5.267,2,Villa,131,1927,,Aktuel værdi
+Agerøvej 247960 Karby,arby,880.000,23-08-2005,Alm. Salg,-,6,Villa,180,1934,,Aktuel værdi
+Ørndrupmark 47960 Karby,arby,93.750,05-08-2005,Alm. Salg,868,3,Villa,108,1900,,Aktuel værdi
+Næssundvej 4087960 Karby,arby,141.748,19-07-2005,Alm. Salg,1.288,5,Villa,110,1937,,Aktuel værdi
+Ørndrupvej 307960 Karby,arby,325.000,20-06-2005,Alm. Salg,4.452,3,Villa,73,1945,,Aktuel værdi
+Næssundvej 4637960 Karby,arby,50.000,22-05-2005,Alm. Salg,340,4,Villa,147,2006,,Aktuel værdi
+Næssundvej 4447960 Karby,arby,200.000,20-05-2005,Alm. Salg,1.449,4,Villa,138,1910,,Aktuel værdi
+Næssundvej 4387960 Karby,arby,295.000,11-05-2005,Alm. Salg,3.430,8,Villa,86,1922,,Aktuel værdi
+Næssundvej 4407960 Karby,arby,970.796,11-03-2005,Andet,-,7,Villa,212,1920,,Aktuel værdi
+Ørndrupvej 377960 Karby,arby,423.000,25-02-2005,Alm. Salg,3.253,4,Villa,130,1962,,Aktuel værdi
+Næssundvej 4537960 Karby,arby,100.000,07-02-2005,Alm. Salg,335,7,Villa,298,1917,,Aktuel værdi
+Vestmorsvej 707960 Karby,arby,375.000,05-01-2005,Alm. Salg,1.923,6,Villa,195,1900,,Aktuel værdi
+Ørndrupvej 597960 Karby,arby,491.000,18-12-2004,Alm. Salg,5.061,4,Villa,97,1988,,Aktuel værdi
+Lervej 47960 Karby,arby,480.000,12-11-2004,Alm. Salg,4.033,5,Villa,119,1942,,Aktuel værdi
+Ørndrupvej 577960 Karby,arby,1.060.000,04-11-2004,Alm. Salg,6.309,3,Stuehus,168,1880,,
+Sønder Hedevej 87960 Karby,arby,1.425.000,06-10-2004,Fam. Salg,-,8,Stuehus,225,1933,,
+Karbymark 17960 Karby,arby,80.000,28-09-2004,Auktion,695,4,Villa,115,1908,,Aktuel værdi
+Sensommervej 197960 Karby,arby,400.000,27-05-2004,Alm. Salg,3.200,4,Villa,125,1978,,Aktuel værdi
+Vestmorsvej 837960 Karby,arby,395.000,25-05-2004,Alm. Salg,-,6,Stuehus,154,1882,,
+Næsørevej 117960 Karby,arby,1.625.000,03-05-2004,Alm. Salg,17.663,5,Stuehus,92,1941,,
+Blåborgvej 477960 Karby,arby,725.000,27-04-2004,Alm. Salg,3.502,7,Villa,207,1911,,Aktuel værdi
+Gårdvejen 67960 Karby,arby,525.000,24-03-2004,Alm. Salg,1.973,10,Villa,266,1919,,Aktuel værdi
+Agervejle 67960 Karby,arby,2.600.000,23-03-2004,Alm. Salg,12.621,8,Stuehus,206,1873,,
+Dyrehavevej 27960 Karby,arby,100.000,04-03-2004,Fam. Salg,1.515,3,Sommerhus,66,1877,,Aktuel værdi
+Ørndrupmark 14A7960 Karby,arby,3.900.000,02-03-2004,Alm. Salg,8.986,8,Stuehus,434,2006,,
+Ørndrupvej 957960 Karby,arby,190.000,27-02-2004,Alm. Salg,931,5,Villa,204,1948,,Aktuel værdi
+Næsørevej 127960 Karby,arby,175.433,23-01-2004,Andet,1.827,5,Villa,96,1877,,Aktuel værdi
+Krogshaven 17960 Karby,arby,635.000,01-11-2003,Alm. Salg,3.779,6,Villa,168,1934,,Aktuel værdi
+Hovmøllevej 57960 Karby,arby,595.000,30-10-2003,Alm. Salg,3.380,6,Villa,176,1947,,Aktuel værdi
+Næssundvej 4027960 Karby,arby,950.000,15-09-2003,Alm. Salg,5.588,6,Stuehus,170,1942,,
+La Courvej 17960 Karby,arby,150.000,17-08-2003,Alm. Salg,-,4,Villa,99,1918,,Aktuel værdi
+Næssundvej 5097960 Karby,arby,4.350.000,01-07-2003,Alm. Salg,24.857,7,Stuehus,175,1927,,
+Ørndrupvej 257960 Karby,arby,270.000,29-06-2003,Andet,2.268,3,Villa,119,1937,,Aktuel værdi
+Ørndrupvej 197960 Karby,arby,170.000,29-06-2003,Andet,1.789,3,Villa,95,1930,,Aktuel værdi
+Næssundvej 4557960 Karby,arby,290.000,29-06-2003,Andet,2.416,4,Villa,120,1900,,Aktuel værdi
+Ørndrupmark 147960 Karby,arby,815.000,12-06-2003,Alm. Salg,13.583,3,Stuehus,60,1875,,
+Blåborgvej 467960 Karby,arby,230.000,14-05-2003,Alm. Salg,3.285,3,Sommerhus,70,1877,,Aktuel værdi
+Mosevej 17960 Karby,arby,150.000,15-04-2003,Alm. Salg,961,4,Stuehus,156,1877,,
+Hedevej 17960 Karby,arby,520.000,13-04-2003,Alm. Salg,2.954,9,Villa,176,1903,,Aktuel værdi
+Ørndrupvej 557960 Karby,arby,640.000,02-03-2003,Alm. Salg,4.050,5,Villa,158,1974,,Aktuel værdi
+Fruensgård 37960 Karby,arby,498.000,13-02-2003,Alm. Salg,4.611,4,Villa,108,1985,,Aktuel værdi
+Agerøvej 57960 Karby,arby,400.200,05-02-2003,Andet,-,6,Villa,180,1937,,Aktuel værdi
+Nørvej 347960 Karby,arby,212.500,23-01-2003,Fam. Salg,-,7,Villa,169,1910,,Aktuel værdi
+Næssundvej 4477960 Karby,arby,160.000,06-11-2002,Alm. Salg,1.311,8,Villa,122,1850,,Aktuel værdi
+Blåborgvej 537960 Karby,arby,395.000,01-11-2002,Alm. Salg,4.702,3,Stuehus,84,1940,,
+Blåborgvej 107960 Karby,arby,182.000,10-09-2002,Auktion,1.491,2,Villa,122,1912,,Aktuel værdi
+Råghøj 77960 Karby,arby,1.341.250,16-08-2002,Alm. Salg,5.987,7,Stuehus,224,1959,,
+Agerøvej 527960 Karby,arby,650.000,02-08-2002,Alm. Salg,-,4,Villa,227,1900,,Aktuel værdi
+Grønvej 307960 Karby,arby,370.548,02-08-2002,Andet,2.013,5,Villa,184,1955,,Aktuel værdi
+Næssundvej 3577960 Karby,arby,400.000,08-07-2002,Alm. Salg,2.666,5,Villa,150,1936,,Aktuel værdi
+Fruensgård 207960 Karby,arby,38.400,11-06-2002,Alm. Salg,314,3,Villa,122,2003,,Aktuel værdi
+Hovmøllevej 47960 Karby,arby,1.500.000,08-05-2002,Alm. Salg,13.043,3,Villa,115,1965,,Aktuel værdi
+Grønvej 67960 Karby,arby,170.000,01-05-2002,Alm. Salg,3.148,2,Villa,54,1962,,Aktuel værdi
+Ørndrupvej 1137960 Karby,arby,580.000,14-02-2002,Andet,3.815,5,Villa,152,1925,,Aktuel værdi
+Næssundvej 3837960 Karby,arby,250.000,03-02-2002,Alm. Salg,1.824,4,Villa,137,1917,,Aktuel værdi
+Næssundvej 3357960 Karby,arby,50.000,04-07-2001,Alm. Salg,-,5,Villa,126,1963,,Aktuel værdi
+Agerøvej 357960 Karby,arby,4.000.000,13-06-2001,Fam. Salg,35.714,5,Stuehus,112,1941,,
+Ørndrupvej 867960 Karby,arby,100.000,31-05-2001,Alm. Salg,1.000,3,Sommerhus,100,1950,,Aktuel værdi
+Næssundvej 4687960 Karby,arby,1.045.000,27-04-2001,Alm. Salg,5.618,7,Stuehus,186,1908,,
+Kringsholmen 197960 Karby,arby,580.000,20-04-2001,Alm. Salg,3.717,5,Villa,156,1920,,Aktuel værdi
+Lervej 87960 Karby,arby,212.000,12-02-2001,Alm. Salg,2.231,3,Villa,95,1877,,Aktuel værdi
+Næsørevej 147960 Karby,arby,1.225.614,03-01-2001,Alm. Salg,5.978,8,Stuehus,205,1938,,
+Hovmøllevej 157960 Karby,arby,150.000,21-12-2000,Alm. Salg,1.363,4,Villa,110,1877,,Aktuel værdi
+Sensommervej 187960 Karby,arby,450.000,29-09-2000,Alm. Salg,3.543,4,Villa,127,1978,,Aktuel værdi
+Næssundvej 3527960 Karby,arby,487.696,20-07-2000,Alm. Salg,2.289,6,Villa,213,2001,,Aktuel værdi
+Ørndrupvej 767960 Karby,arby,260.000,13-07-2000,Fam. Salg,2.280,6,Villa,114,1958,,Aktuel værdi
+Vestmorsvej 767960 Karby,arby,80.000,01-07-2000,Alm. Salg,506,7,Villa,158,1880,,Aktuel værdi
+Ørndrupvej 877960 Karby,arby,580.000,21-06-2000,Alm. Salg,3.186,6,Villa,182,1972,,Aktuel værdi
+Næssundvej 3627960 Karby,arby,2.384.104,31-05-2000,Fam. Salg,9.099,11,Villa,262,1900,,Aktuel værdi
+"Næssundvej 439A, 17960 Karby",arby,350.000,26-04-2000,Alm. Salg,-,4,Lejlighed,93,1917,,Aktuel værdi
+Agervejle 107960 Karby,arby,95.820,10-04-2000,Alm. Salg,547,8,Stuehus,175,1864,,
+Blåborgvej 387960 Karby,arby,288.000,09-03-2000,Alm. Salg,3.130,3,Villa,92,1962,,Aktuel værdi
+Blåborgvej 267960 Karby,arby,460.000,31-01-2000,Alm. Salg,-,8,Villa,188,1934,,Aktuel værdi
+Ørndrupmark 177960 Karby,arby,240.000,06-11-1999,Alm. Salg,2.758,3,Villa,87,1939,,Aktuel værdi
+Næssundvej 5187960 Karby,arby,60.000,21-10-1999,Alm. Salg,248,5,Stuehus,241,1827,,
+Næssundvej 5167960 Karby,arby,60.000,20-10-1999,Alm. Salg,422,5,Villa,142,1921,,Aktuel værdi
+Næssundvej 4227960 Karby,arby,400.000,05-10-1999,Alm. Salg,2.898,3,Villa,138,1928,,Aktuel værdi
+Agervejle 167960 Karby,arby,339.240,22-09-1999,Andet,2.107,3,Villa,161,1937,,Aktuel værdi
+Sensommervej 177960 Karby,arby,500.000,10-09-1999,Alm. Salg,4.166,4,Villa,120,1974,,Aktuel værdi
+Næssundvej 3327960 Karby,arby,411.445,19-05-1999,Alm. Salg,4.285,6,Villa,96,1940,,Aktuel værdi
+Karbymark 117960 Karby,arby,658.599,24-04-1999,Alm. Salg,4.090,5,Villa,161,1916,,Aktuel værdi
+Næssundvej 4807960 Karby,arby,177.231,05-04-1999,Alm. Salg,2.272,4,Villa,78,1939,,Aktuel værdi
+Næssundvej 3387960 Karby,arby,350.000,11-03-1999,Alm. Salg,4.666,3,Villa,75,1958,,Aktuel værdi
+Hedevej 167960 Karby,arby,66.000,28-01-1999,Alm. Salg,1.157,1,Villa,57,1917,,Aktuel værdi
+Karbymark 77960 Karby,arby,420.000,30-12-1998,Alm. Salg,-,5,Villa,188,1890,,Aktuel værdi
+Kringsholmen 97960 Karby,arby,776.720,03-11-1998,Alm. Salg,3.962,7,Villa,196,1939,,Aktuel værdi
+Gårdvejen 87960 Karby,arby,3.000.000,02-11-1998,Alm. Salg,15.706,7,Stuehus,191,1854,,
+Næssundvej 4337960 Karby,arby,340.000,12-10-1998,Alm. Salg,3.505,4,Villa,97,1887,,Aktuel værdi
+Sensommervej 217960 Karby,arby,520.000,25-09-1998,Alm. Salg,4.126,4,Villa,126,1975,,Aktuel værdi
+Ørndrupvej 87960 Karby,arby,100.000,22-09-1998,Alm. Salg,1.666,2,Villa,60,1877,,Aktuel værdi
+Ørndrupvej 977960 Karby,arby,275.000,18-09-1998,Alm. Salg,2.669,6,Villa,103,1962,,Aktuel værdi
+Næssundvej 3717960 Karby,arby,455.000,09-09-1998,Alm. Salg,-,8,Villa,179,1939,,Aktuel værdi
+Gårdvejen 117960 Karby,arby,205.000,13-08-1998,Alm. Salg,2.594,2,Villa,79,1950,,Aktuel værdi
+Agerøvej 427960 Karby,arby,175.000,01-08-1998,Alm. Salg,-,3,Villa,136,1999,,Aktuel værdi
+Agerøvej 127960 Karby,arby,660.000,09-07-1998,Fam. Salg,2.640,7,Villa,250,1975,,Aktuel værdi
+Sønder Hedevej 67960 Karby,arby,1.610.000,15-05-1998,Fam. Salg,8.050,4,Stuehus,200,1863,,
+Hedevej 207960 Karby,arby,142.567,07-04-1998,Alm. Salg,1.188,3,Villa,120,1934,,Aktuel værdi
+Agerøvej 297960 Karby,arby,310.000,02-03-1998,Alm. Salg,3.195,3,Sommerhus,97,1900,,Aktuel værdi
+Fruensgård 187960 Karby,arby,57.446,10-02-1998,Alm. Salg,401,4,Villa,143,1998,,Aktuel værdi
+Blåborgvej 207960 Karby,arby,170.000,30-01-1998,Alm. Salg,939,6,Villa,181,1905,,Aktuel værdi
+Nørvej 327960 Karby,arby,220.000,07-11-1997,Alm. Salg,-,6,Villa,189,1912,,Aktuel værdi
+Næssundvej 5207960 Karby,arby,768.000,27-10-1997,Alm. Salg,-,6,Villa,213,1915,,Aktuel værdi
+Lervej 27960 Karby,arby,120.000,08-10-1997,Alm. Salg,1.411,3,Villa,85,1877,,Aktuel værdi
+Næssundvej 4787960 Karby,arby,90.000,07-10-1997,Alm. Salg,1.046,4,Villa,86,1880,,Aktuel værdi
+Hedevej 217960 Karby,arby,600.000,22-09-1997,Alm. Salg,-,6,Stuehus,209,1941,,
+Nesager 237960 Karby,arby,451.124,12-09-1997,Alm. Salg,3.366,5,Villa,134,1979,,Aktuel værdi
+Næsørevej 37960 Karby,arby,270.000,21-08-1997,Alm. Salg,2.061,4,Villa,131,1907,,Aktuel værdi
+Vestmorsvej 787960 Karby,arby,650.000,03-08-1997,Alm. Salg,3.801,4,Stuehus,171,1929,,
+Karbymark 47960 Karby,arby,154.577,11-06-1997,Alm. Salg,1.189,4,Villa,130,1915,,Aktuel værdi
+Næsørevej 97960 Karby,arby,279.500,17-05-1997,Alm. Salg,2.740,4,Villa,102,1940,,Aktuel værdi
+Blåborgvej 427960 Karby,arby,191.696,13-05-1997,Alm. Salg,1.008,11,Villa,190,1885,,Aktuel værdi
+Næssundvej 4967960 Karby,arby,240.000,30-04-1997,Alm. Salg,2.637,4,Villa,91,1877,,Aktuel værdi
+Vestmorsvej 697960 Karby,arby,355.000,21-04-1997,Alm. Salg,2.366,5,Villa,150,1936,,Aktuel værdi
+Næssundvej 3247960 Karby,arby,2.966.000,21-04-1997,Fam. Salg,10.192,10,Villa,291,1925,,Aktuel værdi
+Vestmorsvej 677960 Karby,arby,310.000,21-03-1997,Alm. Salg,2.520,5,Stuehus,123,1905,,
+Råghøj 87960 Karby,arby,323.273,24-02-1997,Alm. Salg,2.835,4,Villa,114,1977,,Aktuel værdi
+Skyttevej 47960 Karby,arby,645.000,14-02-1997,Alm. Salg,3.115,6,Villa,207,1981,,Aktuel værdi
+Grønvej 287960 Karby,arby,275.000,10-02-1997,Alm. Salg,-,7,Villa,209,1955,,Aktuel værdi
+Vestmorsvej 747960 Karby,arby,42.500,13-11-1996,Fam. Salg,607,4,Villa,70,1948,,Aktuel værdi
+Nørvej 127960 Karby,arby,315.000,18-10-1996,Alm. Salg,-,3,Villa,81,1966,,Aktuel værdi
+Blåborgvej 577960 Karby,arby,454.000,10-09-1996,Alm. Salg,1.780,8,Villa,255,1970,,Aktuel værdi
+Agerøvej 507960 Karby,arby,1.385.089,13-08-1996,Alm. Salg,11.260,4,Villa,123,1972,,Aktuel værdi
+Ørndrupvej 227960 Karby,arby,400.000,12-08-1996,Alm. Salg,3.030,4,Villa,132,1968,,Aktuel værdi
+Agerøvej 237960 Karby,arby,320.000,11-07-1996,Alm. Salg,-,4,Villa,163,1870,,Aktuel værdi
+Ørndrupvej 397960 Karby,arby,350.000,02-04-1996,Alm. Salg,3.500,3,Villa,100,1965,,Aktuel værdi
+Ørndrupvej 1197960 Karby,arby,1.500.000,01-04-1996,Fam. Salg,8.333,5,Stuehus,180,1934,,
+Kringsholmen 137960 Karby,arby,900.000,19-03-1996,Alm. Salg,6.716,5,Villa,134,1933,,Aktuel værdi
+Næssundvej 4927960 Karby,arby,928.500,11-12-1995,Alm. Salg,5.336,7,Villa,174,1922,,Aktuel værdi
+Grønvej 197960 Karby,arby,101.741,02-10-1995,Alm. Salg,1.271,2,Villa,80,1955,,Aktuel værdi
+Blåborgvej 347960 Karby,arby,515.000,24-08-1995,Alm. Salg,2.994,6,Villa,172,1909,,Aktuel værdi
+Vestmorsvej 637960 Karby,arby,110.000,03-07-1995,Fam. Salg,924,5,Villa,119,1900,,Aktuel værdi
+Sensommervej 77960 Karby,arby,270.000,31-01-1995,Alm. Salg,1.888,5,Villa,143,1969,,Aktuel værdi
+Ørndrupvej 917960 Karby,arby,280.000,04-10-1994,Alm. Salg,2.772,4,Villa,101,1940,,Aktuel værdi
+Mosevej 27960 Karby,arby,4.800.000,22-08-1994,Alm. Salg,18.181,9,Stuehus,264,1974,,
+Karbymark 97960 Karby,arby,915.000,08-08-1994,Fam. Salg,6.727,7,Stuehus,136,1967,,
+Sensommervej 67960 Karby,arby,325.000,09-06-1994,Alm. Salg,2.241,4,Villa,145,1969,,Aktuel værdi
+Grønvej 107960 Karby,arby,440.000,25-04-1994,Alm. Salg,2.105,7,Villa,209,1978,,Aktuel værdi
+Ørndrupvej 1117960 Karby,arby,465.000,14-04-1994,Alm. Salg,2.527,7,Stuehus,184,1929,,
+Agerøvej 367960 Karby,arby,650.000,25-01-1994,Alm. Salg,2.850,6,Stuehus,228,1996,,
+Blåborgvej 197960 Karby,arby,1.140.000,14-12-1993,Alm. Salg,-,7,Villa,207,1934,,Aktuel værdi
+Hovmøllevej 167960 Karby,arby,1.300.000,11-03-1993,Auktion,7.602,6,Stuehus,171,1960,,
+Sensommervej 167960 Karby,arby,370.000,26-11-1992,Alm. Salg,2.587,7,Villa,143,1971,,Aktuel værdi
+Agerøvej 117960 Karby,arby,380.258,16-11-1992,Alm. Salg,2.236,5,Villa,170,1960,,Aktuel værdi
+Næssundvej 3877960 Karby,arby,165.000,26-08-1992,Alm. Salg,-,4,Villa,102,1949,,Aktuel værdi
+Blåborgvej 157960 Karby,arby,142.000,14-08-1992,Alm. Salg,609,6,Stuehus,233,1887,,
+Næssundvej 5107960 Karby,arby,960.000,30-04-1992,Alm. Salg,8.648,4,Villa,111,1912,,Aktuel værdi
+Ejstrupmark 127960 Karby,arby,330.000,07-04-1992,Alm. Salg,2.426,5,Villa,136,1911,,Aktuel værdi
+Næssundvej 5047960 Karby,arby,232.822,04-03-1992,Fam. Salg,2.260,6,Villa,103,1871,,Aktuel værdi
+Blåborgvej 507960 Karby,arby,92.485,03-01-1992,Alm. Salg,646,5,Villa,143,1937,,Aktuel værdi

@@ -1,0 +1,790 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Rosenlundsvej 49750 Østervrå,rvrå,1.982.000,16-05-2017,Alm. Salg,7.053,7,Stuehus,281,1907,,
+Hjørringvej 3049750 Østervrå,rvrå,300.500,28-04-2017,Alm. Salg,2.504,4,Villa,120,1937,,Aktuel værdi
+Floravej 89750 Østervrå,rvrå,700.000,31-03-2017,Alm. Salg,3.225,7,Villa,217,1963,,Aktuel værdi
+"Liljevej 8B, ST. TV9750 Østervrå",rvrå,70.000,29-03-2017,Alm. Salg,1.093,2,Lejlighed,64,1912,,Aktuel værdi
+Vrængmosevej 819750 Østervrå,rvrå,550.000,17-03-2017,Alm. Salg,1.041,9,Villa,528,1966,,Aktuel værdi
+Hjørringvej 2319750 Østervrå,rvrå,150.000,15-03-2017,Alm. Salg,1.363,4,Villa,110,1959,-50 %,Aktuel værdi
+Hjørringvej 2389750 Østervrå,rvrå,200.000,10-03-2017,Alm. Salg,1.307,4,Villa,153,1904,,Aktuel værdi
+Møllegade 389750 Østervrå,rvrå,500.000,22-02-2017,Fam. Salg,3.355,4,Villa,149,1976,,Aktuel værdi
+"Liljevej 8B, 1. TH9750 Østervrå",rvrå,15.000,09-02-2017,Alm. Salg,238,2,Lejlighed,63,1912,,Aktuel værdi
+Blomstervænget 109750 Østervrå,rvrå,1.725.000,05-02-2017,Alm. Salg,7.949,7,Villa,217,1980,0 %,Aktuel værdi
+Nellikevej 209750 Østervrå,rvrå,1.225.000,05-02-2017,Alm. Salg,9.423,4,Villa,130,1973,,Aktuel værdi
+Bakkevænget 219750 Østervrå,rvrå,2.000.000,01-02-2017,Alm. Salg,10.256,5,Villa,195,2015,-11 %,Aktuel værdi
+Fasanvej 89750 Østervrå,rvrå,730.000,28-01-2017,Alm. Salg,2.862,6,Villa,255,1971,-3 %,Aktuel værdi
+Hjørringvej 2329750 Østervrå,rvrå,150.000,27-01-2017,Alm. Salg,1.034,6,Villa,145,1929,,Aktuel værdi
+Møllegade 10A9750 Østervrå,rvrå,400.000,25-01-2017,Alm. Salg,4.000,5,Villa,100,1960,,Aktuel værdi
+Lendumvej 279750 Østervrå,rvrå,555.000,10-01-2017,Alm. Salg,5.336,3,Villa,104,1929,-7 %,Aktuel værdi
+Rubinvej 39750 Østervrå,rvrå,275.000,04-01-2017,Alm. Salg,1.950,4,Villa,141,1977,,Aktuel værdi
+Tryvej 1779750 Østervrå,rvrå,1.400.000,23-12-2016,Alm. Salg,6.666,7,Villa,210,1926,-12 %,Aktuel værdi
+Højlundsvej 109750 Østervrå,rvrå,705.000,14-12-2016,Alm. Salg,4.930,5,Villa,143,1985,-24 %,Aktuel værdi
+Nymøllevej 49750 Østervrå,rvrå,1.310.000,08-12-2016,Alm. Salg,8.343,5,Villa,157,1877,-18 %,Aktuel værdi
+Tryvej 29750 Østervrå,rvrå,130.000,01-12-2016,Alm. Salg,1.238,3,Villa,105,1942,-21 %,Aktuel værdi
+Brøndenvej 789750 Østervrå,rvrå,1.135.000,28-11-2016,Alm. Salg,8.533,4,Stuehus,133,1940,-9 %,
+Ålborggårdvej 449750 Østervrå,rvrå,275.000,25-11-2016,Alm. Salg,2.007,6,Villa,137,1877,-31 %,Aktuel værdi
+Nellikevej 149750 Østervrå,rvrå,150.000,22-11-2016,Alm. Salg,1.785,3,Villa,84,1827,,Aktuel værdi
+Blomstervænget 79750 Østervrå,rvrå,785.000,21-11-2016,Alm. Salg,7.136,4,Villa,110,1981,0 %,Aktuel værdi
+Primulavej 1B9750 Østervrå,rvrå,855.000,18-11-2016,Alm. Salg,5.700,6,Villa,150,1927,-11 %,Aktuel værdi
+"Liljevej 8B, ST. TH9750 Østervrå",rvrå,52.001,14-11-2016,Auktion,787,2,Lejlighed,66,1912,,Aktuel værdi
+Vrængmosevej 699750 Østervrå,rvrå,225.000,09-11-2016,Alm. Salg,2.008,3,Stuehus,112,1927,0 %,
+Fældenvej 109750 Østervrå,rvrå,1.465.000,08-11-2016,Alm. Salg,13.080,3,Stuehus,112,1877,,
+Høngårdsvej 189750 Østervrå,rvrå,167.000,07-11-2016,Auktion,1.546,4,Villa,108,1924,,Aktuel værdi
+"Liljevej 8B, KL. 19750 Østervrå",rvrå,120.000,07-11-2016,Auktion,1.538,3,Lejlighed,78,1912,,Aktuel værdi
+"Liljevej 8A, 19750 Østervrå",rvrå,42.000,07-11-2016,Auktion,700,2,Lejlighed,60,1912,,Aktuel værdi
+Liljevej 99750 Østervrå,rvrå,205.000,07-11-2016,Auktion,1.576,5,Villa,130,1913,,Aktuel værdi
+Vrængmosevej 159750 Østervrå,rvrå,85.000,07-11-2016,Auktion,620,5,Villa,137,1926,,Aktuel værdi
+Sølvvej 29750 Østervrå,rvrå,400.000,04-11-2016,Alm. Salg,3.773,3,Villa,106,1969,-20 %,Aktuel værdi
+Nellikevej 59750 Østervrå,rvrå,240.951,02-11-2016,Alm. Salg,2.294,4,Villa,105,1935,,Aktuel værdi
+Primulavej 59750 Østervrå,rvrå,1.060.000,27-10-2016,Alm. Salg,7.066,6,Villa,150,1927,-3 %,Aktuel værdi
+Hjørringvej 4959750 Østervrå,rvrå,80.000,18-10-2016,Alm. Salg,800,3,Villa,100,1952,,Aktuel værdi
+Stasigvej 109750 Østervrå,rvrå,1.235.000,28-09-2016,Alm. Salg,12.350,4,Stuehus,100,1877,,
+Kirkholtvej 109750 Østervrå,rvrå,705.354,20-09-2016,Fam. Salg,3.792,7,Stuehus,186,1936,-54 %,
+Højstrupvej 319750 Østervrå,rvrå,360.000,13-09-2016,Alm. Salg,2.727,5,Villa,132,1906,0 %,Aktuel værdi
+Tryvej 329750 Østervrå,rvrå,525.000,07-09-2016,Auktion,4.007,4,Villa,131,1986,-19 %,Aktuel værdi
+Brøndenvej 92B9750 Østervrå,rvrå,70.312,06-09-2016,Alm. Salg,2.130,2,Sommerhus,33,1962,,Aktuel værdi
+Mimosevej 129750 Østervrå,rvrå,400.000,01-09-2016,Alm. Salg,4.166,3,Villa,96,1961,-24 %,Aktuel værdi
+Tryvej 459750 Østervrå,rvrå,1.084.000,22-08-2016,Alm. Salg,9.426,4,Stuehus,115,1920,,
+Bakkevænget 89750 Østervrå,rvrå,1.860.000,19-08-2016,Alm. Salg,11.698,5,Villa,159,2007,,Aktuel værdi
+Søholtvej 599750 Østervrå,rvrå,1.495.000,04-08-2016,Alm. Salg,6.028,7,Stuehus,248,1937,0 %,
+Mimosevej 19750 Østervrå,rvrå,188.500,11-07-2016,Auktion,1.923,4,Villa,98,1954,,Aktuel værdi
+Toftensvej 209750 Østervrå,rvrå,1.200.000,24-06-2016,Alm. Salg,6.779,4,Stuehus,177,1880,,
+Strømgade 2B9750 Østervrå,rvrå,373.000,24-06-2016,Alm. Salg,4.662,3,Rækkehus,80,1988,,Aktuel værdi
+Hjørringvej 2209750 Østervrå,rvrå,295.000,23-06-2016,Alm. Salg,2.201,4,Stuehus,134,1951,-80 %,
+Blomstervænget 609750 Østervrå,rvrå,1.062.500,22-06-2016,Alm. Salg,8.780,5,Villa,121,1988,-11 %,Aktuel værdi
+Hjørringvej 2089750 Østervrå,rvrå,190.000,08-06-2016,Alm. Salg,1.583,3,Villa,120,1958,-5 %,Aktuel værdi
+Kobberholmvej 219750 Østervrå,rvrå,1.160.000,08-06-2016,Alm. Salg,8.854,3,Stuehus,131,1900,-14 %,
+Hjørringvej 421E9750 Østervrå,rvrå,384.000,06-06-2016,Auktion,3.072,3,Villa,125,1950,,Aktuel værdi
+Kobberholmvej 259750 Østervrå,rvrå,421.000,24-05-2016,Alm. Salg,2.461,3,Stuehus,171,1939,-62 %,
+Hjørringvej 4049750 Østervrå,rvrå,668.000,22-05-2016,Alm. Salg,5.613,4,Villa,119,1960,-4 %,Aktuel værdi
+Danebovej 59750 Østervrå,rvrå,780.000,17-05-2016,Alm. Salg,4.382,6,Villa,178,1965,-2 %,Aktuel værdi
+"Hjørringvej 245A, ST. MF9750 Østervrå",rvrå,500.000,13-05-2016,Alm. Salg,7.462,2,Lejlighed,67,1890,,Aktuel værdi
+Strømgade 49750 Østervrå,rvrå,647.001,04-05-2016,Alm. Salg,6.161,5,Villa,105,1956,,Aktuel værdi
+Donskovvej 69750 Østervrå,rvrå,80.000,02-05-2016,Alm. Salg,320,5,Stuehus,250,1950,,
+Lendumvej 23A9750 Østervrå,rvrå,500.000,28-04-2016,Alm. Salg,4.854,3,Rækkehus,103,1964,,Aktuel værdi
+Blomstervænget 449750 Østervrå,rvrå,1.375.000,23-04-2016,Alm. Salg,7.681,7,Villa,179,1995,-2 %,Aktuel værdi
+Vangvej 229750 Østervrå,rvrå,1.047.000,29-03-2016,Alm. Salg,5.341,6,Stuehus,196,1955,-5 %,
+Blomstervænget 669750 Østervrå,rvrå,1.298.000,22-03-2016,Alm. Salg,10.220,5,Villa,127,1987,,Aktuel værdi
+Brøndenvej 119750 Østervrå,rvrå,1.130.000,21-03-2016,Alm. Salg,4.448,7,Villa,254,1961,-13 %,Aktuel værdi
+Højlundsvej 139750 Østervrå,rvrå,459.952,21-03-2016,Fam. Salg,1.940,5,Villa,237,1973,,Aktuel værdi
+Hjørringvej 4809750 Østervrå,rvrå,1.000.000,18-03-2016,Alm. Salg,3.759,8,Villa,266,1900,-9 %,Aktuel værdi
+Højstrupvej 609750 Østervrå,rvrå,200.000,15-03-2016,Alm. Salg,1.298,6,Stuehus,154,1917,,
+Bakkevænget 279750 Østervrå,rvrå,180.000,07-02-2016,Alm. Salg,1.011,5,Villa,178,2016,,Aktuel værdi
+Højstrupvej 389750 Østervrå,rvrå,390.000,23-01-2016,Alm. Salg,4.382,3,Villa,89,1919,-10 %,Aktuel værdi
+Vibevej 79750 Østervrå,rvrå,823.784,01-12-2015,Andet,7.163,4,Villa,115,1971,,Aktuel værdi
+Højstrupvej 559750 Østervrå,rvrå,400.000,30-11-2015,Alm. Salg,3.738,3,Villa,107,1875,-6 %,Aktuel værdi
+Primulavej 29750 Østervrå,rvrå,1.095.000,23-11-2015,Alm. Salg,8.975,5,Villa,122,1938,,Aktuel værdi
+Bakkevænget 49750 Østervrå,rvrå,1.298.000,16-11-2015,Alm. Salg,12.601,4,Villa,103,2000,,Aktuel værdi
+Lendumvej 39750 Østervrå,rvrå,320.000,29-10-2015,Alm. Salg,2.352,4,Villa,136,1961,,Aktuel værdi
+Skarpholtvej 209750 Østervrå,rvrå,2.200.000,29-10-2015,Alm. Salg,12.359,5,Stuehus,178,1984,,
+Højlundsvej 559750 Østervrå,rvrå,838.000,27-10-2015,Alm. Salg,4.929,6,Villa,170,1975,-7 %,Aktuel værdi
+Rosenvangsvej 59750 Østervrå,rvrå,1.798.000,27-10-2015,Alm. Salg,7.523,6,Villa,239,1930,0 %,Aktuel værdi
+Mimosevej 139750 Østervrå,rvrå,265.000,19-10-2015,Alm. Salg,2.789,4,Villa,95,1956,-11 %,Aktuel værdi
+Ormholtvej 229750 Østervrå,rvrå,305.000,15-09-2015,Alm. Salg,3.546,3,Villa,86,1932,-6 %,Aktuel værdi
+Enghavevej 19750 Østervrå,rvrå,411.030,17-08-2015,Andet,3.914,5,Villa,105,1923,,Aktuel værdi
+Blomstervænget 549750 Østervrå,rvrå,800.000,07-08-2015,Fam. Salg,5.797,5,Villa,138,1986,,Aktuel værdi
+Strømgade 219750 Østervrå,rvrå,770.000,05-08-2015,Alm. Salg,4.695,5,Villa,164,1959,-4 %,Aktuel værdi
+Hjørringvej 4099750 Østervrå,rvrå,130.000,03-08-2015,Alm. Salg,783,5,Villa,166,1917,-45 %,Aktuel værdi
+Vangvej 149750 Østervrå,rvrå,1.750.000,10-07-2015,Alm. Salg,8.974,7,Stuehus,195,1993,-8 %,
+Tryvej 589750 Østervrå,rvrå,75.000,06-07-2015,Alm. Salg,852,3,Villa,88,1937,,Aktuel værdi
+Hjørringvej 2309750 Østervrå,rvrå,360.000,02-07-2015,Alm. Salg,2.627,4,Villa,137,1925,-9 %,Aktuel værdi
+Lendumvej 959750 Østervrå,rvrå,699.224,09-06-2015,Alm. Salg,3.410,7,Villa,205,1973,,Aktuel værdi
+Bakkevænget 259750 Østervrå,rvrå,180.000,26-05-2015,Alm. Salg,1.077,5,Villa,167,2016,,Aktuel værdi
+Ålborggårdvej 159750 Østervrå,rvrå,800.000,19-05-2015,Fam. Salg,6.153,4,Villa,130,1897,,Aktuel værdi
+Bjergetsvej 59750 Østervrå,rvrå,1.368.000,18-05-2015,Alm. Salg,7.772,6,Stuehus,176,1880,0 %,
+Lendumvej 199750 Østervrå,rvrå,180.000,26-04-2015,Alm. Salg,1.406,4,Villa,128,1963,-64 %,Aktuel værdi
+Brøndenvej 29750 Østervrå,rvrå,475.000,20-03-2015,Alm. Salg,5.792,3,Rækkehus,82,1988,-4 %,Aktuel værdi
+Vibevej 69750 Østervrå,rvrå,825.000,04-03-2015,Alm. Salg,4.661,6,Villa,177,1975,,Aktuel værdi
+Høngårdsvej 219750 Østervrå,rvrå,530.000,02-03-2015,Andet,6.235,3,Villa,85,1953,,Aktuel værdi
+Platinvej 89750 Østervrå,rvrå,370.000,20-01-2015,Alm. Salg,3.217,4,Villa,115,1980,-7 %,Aktuel værdi
+Bredgade 239750 Østervrå,rvrå,705.000,04-12-2014,Fam. Salg,4.862,4,Villa,145,1972,,Aktuel værdi
+Langmosevej 159750 Østervrå,rvrå,1.900.000,02-12-2014,Alm. Salg,7.786,4,Villa,244,1969,-5 %,Aktuel værdi
+Tranevej 59750 Østervrå,rvrå,950.000,29-11-2014,Alm. Salg,6.690,4,Villa,142,1973,-5 %,Aktuel værdi
+Møllegade 409750 Østervrå,rvrå,73.000,12-11-2014,Auktion,802,4,Villa,91,1950,,Aktuel værdi
+Hjørringvej 2599750 Østervrå,rvrå,748.000,22-10-2014,Alm. Salg,5.381,3,Villa,139,1924,0 %,Aktuel værdi
+Koldbromøllevej 279750 Østervrå,rvrå,13.631.325,10-10-2014,Alm. Salg,85.195,5,Stuehus,160,1920,,
+Møllegårdsvej 29750 Østervrå,rvrå,1.875.000,10-10-2014,Alm. Salg,11.718,6,Stuehus,160,1960,,
+Hjørringvej 3029750 Østervrå,rvrå,150.000,10-10-2014,Alm. Salg,937,4,Villa,160,1939,-16 %,Aktuel værdi
+Stadionvej 119750 Østervrå,rvrå,650.000,06-10-2014,Alm. Salg,2.789,4,Villa,233,1913,,Aktuel værdi
+Tryvej 949750 Østervrå,rvrå,350.000,05-10-2014,Alm. Salg,3.333,3,Villa,105,1934,-7 %,Aktuel værdi
+Primulavej 239750 Østervrå,rvrå,695.000,05-10-2014,Alm. Salg,8.687,3,Villa,80,1922,0 %,Aktuel værdi
+Hjørringvej 4499750 Østervrå,rvrå,610.000,02-10-2014,Alm. Salg,3.050,8,Villa,200,1937,-6 %,Aktuel værdi
+Hjørringvej 5089750 Østervrå,rvrå,1.317.500,02-10-2014,Fam. Salg,11.260,4,Stuehus,117,1926,,
+Begonievej 69750 Østervrå,rvrå,75.000,19-09-2014,Alm. Salg,833,5,Villa,90,1945,,Aktuel værdi
+Koldbromøllevej 349750 Østervrå,rvrå,5.600.000,15-09-2014,Auktion,26.415,7,Stuehus,212,2000,,
+Højstrupvej 469750 Østervrå,rvrå,1.200.000,15-09-2014,Alm. Salg,5.150,7,Stuehus,233,1850,-4 %,
+Bredgade 299750 Østervrå,rvrå,670.000,13-09-2014,Alm. Salg,5.583,4,Villa,120,1973,-14 %,Aktuel værdi
+Møllegade 199750 Østervrå,rvrå,30.001,10-09-2014,Auktion,333,4,Villa,90,1952,,Aktuel værdi
+Højlundsvej 799750 Østervrå,rvrå,1.050.000,06-09-2014,Alm. Salg,6.034,4,Villa,174,1974,-12 %,Aktuel værdi
+Højstrupvej 169750 Østervrå,rvrå,936.081,25-08-2014,Andet,4.800,5,Stuehus,195,1936,-57 %,
+Tranevej 89750 Østervrå,rvrå,728.000,18-07-2014,Fam. Salg,3.294,6,Villa,221,1973,,Aktuel værdi
+Tryvej 769750 Østervrå,rvrå,500.000,14-07-2014,Alm. Salg,2.976,3,Sommerhus,168,1905,-16 %,Aktuel værdi
+Brøndenvej 949750 Østervrå,rvrå,3.950.000,14-07-2014,Andet,27.241,5,Sommerhus,145,1959,,Aktuel værdi
+Hjørringvej 3159750 Østervrå,rvrå,250.000,11-07-2014,Alm. Salg,1.562,4,Villa,160,1940,-50 %,Aktuel værdi
+Højlundsvej 889750 Østervrå,rvrå,710.000,12-06-2014,Alm. Salg,5.819,4,Villa,122,1983,-11 %,Aktuel værdi
+Tryvej 1159750 Østervrå,rvrå,464.500,19-05-2014,Andet,3.096,5,Villa,150,1877,,Aktuel værdi
+Nejsumvej 49750 Østervrå,rvrå,13.950.000,09-05-2014,Alm. Salg,35.406,7,Stuehus,394,2015,,
+Blomstervænget 299750 Østervrå,rvrå,1.400.000,24-04-2014,Alm. Salg,8.383,5,Villa,167,1997,-11 %,Aktuel værdi
+Strømgade 39750 Østervrå,rvrå,320.000,13-04-2014,Alm. Salg,3.368,3,Villa,95,1953,-20 %,Aktuel værdi
+Lendumvej 919750 Østervrå,rvrå,100.000,09-04-2014,Auktion,781,3,Villa,128,1906,,Aktuel værdi
+Høngårdsvej 269750 Østervrå,rvrå,140.000,31-03-2014,Auktion,1.250,3,Villa,112,1948,,Aktuel værdi
+Møllegade 179750 Østervrå,rvrå,220.000,25-03-2014,Alm. Salg,1.476,4,Villa,149,1922,-26 %,Aktuel værdi
+Tryvej 1539750 Østervrå,rvrå,540.000,12-03-2014,Auktion,1.671,6,Villa,323,1957,,Aktuel værdi
+Primulavej 129750 Østervrå,rvrå,930.000,16-02-2014,Alm. Salg,4.920,6,Villa,189,1922,-7 %,Aktuel værdi
+Hjørringvej 2149750 Østervrå,rvrå,275.000,21-01-2014,Alm. Salg,3.235,4,Villa,85,1949,-8 %,Aktuel værdi
+Kirkholtvej 59750 Østervrå,rvrå,4.870.000,13-01-2014,Fam. Salg,17.581,7,Stuehus,277,1931,,
+Hjørringvej 4649750 Østervrå,rvrå,45.100,06-01-2014,Auktion,250,7,Villa,180,1897,,Aktuel værdi
+Tranevej 109750 Østervrå,rvrå,639.352,05-12-2013,Alm. Salg,2.791,8,Villa,229,1974,,Aktuel værdi
+Strømgade 29750 Østervrå,rvrå,170.000,22-11-2013,Alm. Salg,1.603,4,Villa,106,1952,-14 %,Aktuel værdi
+Brøndenvej 799750 Østervrå,rvrå,450.000,11-11-2013,Alm. Salg,5.844,3,Sommerhus,77,1932,,Aktuel værdi
+Floravej 29750 Østervrå,rvrå,950.000,31-10-2013,Alm. Salg,9.500,4,Villa,100,1961,,Aktuel værdi
+Vrængmosevej 649750 Østervrå,rvrå,1.425.000,31-10-2013,Alm. Salg,7.916,6,Villa,180,1941,,Aktuel værdi
+Gjersholtvej 159750 Østervrå,rvrå,290.000,21-10-2013,Alm. Salg,1.666,4,Villa,174,1983,,Aktuel værdi
+Enghøjvej 129750 Østervrå,rvrå,1.390.000,14-10-2013,Alm. Salg,7.942,6,Stuehus,175,1800,,
+Blomstervænget 349750 Østervrå,rvrå,1.500.000,16-09-2013,Alm. Salg,8.771,5,Villa,171,2008,-3 %,Aktuel værdi
+Hjørringvej 4769750 Østervrå,rvrå,15.584.200,13-09-2013,Alm. Salg,73.510,5,Stuehus,212,1916,,
+Blomstervænget 139750 Østervrå,rvrå,890.000,12-09-2013,Alm. Salg,6.953,4,Villa,128,1982,-1 %,Aktuel værdi
+Perlevej 29750 Østervrå,rvrå,254.500,12-08-2013,Alm. Salg,2.313,4,Villa,110,1979,,Aktuel værdi
+Møllegade 229750 Østervrå,rvrå,700.000,04-07-2013,Alm. Salg,6.796,3,Villa,103,1941,-3 %,Aktuel værdi
+Hjørringvej 5139750 Østervrå,rvrå,900.000,04-07-2013,Alm. Salg,5.000,6,Stuehus,180,1907,-9 %,
+Ålborggårdvej 209750 Østervrå,rvrå,450.000,14-06-2013,Alm. Salg,2.500,4,Villa,180,2014,,Aktuel værdi
+Tranevej 99750 Østervrå,rvrå,910.000,16-05-2013,Alm. Salg,4.866,3,Villa,187,1972,-17 %,Aktuel værdi
+Tranevej 69750 Østervrå,rvrå,500.000,18-04-2013,Alm. Salg,5.494,4,Villa,91,1972,,Aktuel værdi
+Fasanvej 59750 Østervrå,rvrå,425.000,05-04-2013,Fam. Salg,2.689,5,Villa,158,1972,,Aktuel værdi
+Rævmosevej 1199750 Østervrå,rvrå,1.475.000,25-03-2013,Alm. Salg,8.625,4,Stuehus,171,1914,,
+Høngårdsvej 229750 Østervrå,rvrå,845.000,18-03-2013,Alm. Salg,6.760,4,Villa,125,1955,0 %,Aktuel værdi
+Tryvej 1639750 Østervrå,rvrå,215.000,18-03-2013,Alm. Salg,1.791,5,Villa,120,1942,,Aktuel værdi
+Højlundsvej 229750 Østervrå,rvrå,595.000,13-03-2013,Alm. Salg,4.958,3,Villa,120,1977,-8 %,Aktuel værdi
+Ågårdsvej 49750 Østervrå,rvrå,1.300.000,02-03-2013,Alm. Salg,7.065,5,Villa,184,1915,-11 %,Aktuel værdi
+Brøndenvej 489750 Østervrå,rvrå,1.780.000,03-02-2013,Alm. Salg,6.953,5,Stuehus,256,1927,,
+Bredgade 119750 Østervrå,rvrå,915.000,24-01-2013,Alm. Salg,7.148,4,Villa,128,1969,,Aktuel værdi
+Tryvej 1489750 Østervrå,rvrå,400.000,21-12-2012,Alm. Salg,3.333,4,Villa,120,1963,-20 %,Aktuel værdi
+Højlundsvej 909750 Østervrå,rvrå,700.000,12-12-2012,Alm. Salg,5.468,3,Villa,128,1981,-10 %,Aktuel værdi
+Ålborggårdvej 139750 Østervrå,rvrå,1.295.000,08-12-2012,Alm. Salg,8.691,5,Villa,149,1991,0 %,Aktuel værdi
+Højlundsvej 59750 Østervrå,rvrå,580.000,04-12-2012,Auktion,3.452,6,Villa,168,1974,,Aktuel værdi
+Højlundsvej 409750 Østervrå,rvrå,975.000,23-11-2012,Alm. Salg,4.096,8,Villa,238,1977,-13 %,Aktuel værdi
+Begonievej 119750 Østervrå,rvrå,440.000,22-11-2012,Alm. Salg,3.666,4,Villa,120,1963,-12 %,Aktuel værdi
+Mellergårdsvej 59750 Østervrå,rvrå,620.000,12-11-2012,Alm. Salg,3.315,5,Villa,187,1951,-11 %,Aktuel værdi
+Højlundsvej 179750 Østervrå,rvrå,998.000,06-11-2012,Alm. Salg,5.544,6,Villa,180,1975,,Aktuel værdi
+Højlundsvej 519750 Østervrå,rvrå,484.000,22-10-2012,Andet,4.067,5,Villa,119,1973,,Aktuel værdi
+Vibevej 29750 Østervrå,rvrå,1.000.000,10-10-2012,Alm. Salg,5.988,5,Villa,167,1973,-21 %,Aktuel værdi
+Nellikevej 99750 Østervrå,rvrå,625.000,21-09-2012,Alm. Salg,4.464,4,Villa,140,1922,0 %,Aktuel værdi
+Højlundsvej 269750 Østervrå,rvrå,511.263,11-09-2012,Alm. Salg,2.061,7,Villa,248,1977,,Aktuel værdi
+Hjørringvej 5419750 Østervrå,rvrå,610.000,06-09-2012,Alm. Salg,4.841,4,Stuehus,126,1900,,
+Hjørringvej 4529750 Østervrå,rvrå,150.000,29-08-2012,Alm. Salg,1.111,3,Villa,135,2012,,Aktuel værdi
+Hjørringvej 4109750 Østervrå,rvrå,375.000,25-08-2012,Alm. Salg,3.318,5,Villa,113,1917,,Aktuel værdi
+Møllegade 119750 Østervrå,rvrå,338.891,22-08-2012,Alm. Salg,2.606,3,Villa,130,1930,-55 %,Aktuel værdi
+Hyllestedvej 99750 Østervrå,rvrå,75.000,17-08-2012,Alm. Salg,750,3,Villa,100,1948,,Aktuel værdi
+Hjørringvej 4969750 Østervrå,rvrå,7.019.880,19-07-2012,Alm. Salg,37.539,5,Stuehus,187,1915,,
+Brønderslevvej 2499750 Østervrå,rvrå,732.934,09-07-2012,Alm. Salg,5.552,4,Stuehus,132,1976,,
+Koldbromøllevej 259750 Østervrå,rvrå,698.000,01-07-2012,Alm. Salg,4.985,4,Stuehus,140,1852,0 %,
+Hjørringvej 2069750 Østervrå,rvrå,350.000,27-06-2012,Alm. Salg,3.804,3,Villa,92,1960,,Aktuel værdi
+Højlundsvej 659750 Østervrå,rvrå,545.000,21-06-2012,Alm. Salg,5.291,4,Villa,103,1974,-8 %,Aktuel værdi
+Møllegade 109750 Østervrå,rvrå,304.212,19-06-2012,Alm. Salg,2.304,5,Villa,132,1948,,Aktuel værdi
+Hjørringvej 3119750 Østervrå,rvrå,625.000,17-06-2012,Alm. Salg,4.562,5,Villa,137,1867,-10 %,Aktuel værdi
+Høngårdsvej 139750 Østervrå,rvrå,1.000.000,15-06-2012,Alm. Salg,5.988,5,Villa,167,1991,,Aktuel værdi
+Hjørringvej 1819750 Østervrå,rvrå,150.000,06-06-2012,Auktion,612,9,Stuehus,245,1870,,
+Kobberholmvej 119750 Østervrå,rvrå,1.398.000,24-05-2012,Alm. Salg,7.681,6,Stuehus,182,1997,,
+Vrængmosevej 779750 Østervrå,rvrå,705.000,14-05-2012,Alm. Salg,7.050,3,Stuehus,100,1965,,
+Kobberholmvej 129750 Østervrå,rvrå,700.000,02-04-2012,Alm. Salg,5.511,4,Stuehus,127,1917,,
+Primulavej 209750 Østervrå,rvrå,560.000,28-03-2012,Alm. Salg,-,7,Villa,170,1965,,Aktuel værdi
+Hjortholmvej 69750 Østervrå,rvrå,2.260.800,23-02-2012,Alm. Salg,9.420,9,Stuehus,240,1913,,
+Vibevej 19750 Østervrå,rvrå,532.500,16-02-2012,Fam. Salg,2.285,6,Villa,233,1973,-51 %,Aktuel værdi
+Kirkevej 399750 Østervrå,rvrå,41.369.594,16-01-2012,Fam. Salg,459.662,2,Stuehus,90,1892,,
+Bjergetsvej 119750 Østervrå,rvrå,41.369.594,16-01-2012,Fam. Salg,183.864,7,Stuehus,225,1885,,
+Hjørringvej 2959750 Østervrå,rvrå,180.000,06-01-2012,Alm. Salg,1.440,4,Villa,125,1910,-33 %,Aktuel værdi
+Søholtvej 229750 Østervrå,rvrå,2.050.000,13-12-2011,Alm. Salg,10.621,6,Stuehus,193,1931,-11 %,
+Blomstervænget 649750 Østervrå,rvrå,850.000,02-12-2011,Alm. Salg,6.640,4,Villa,128,1988,,Aktuel værdi
+Floravej 19750 Østervrå,rvrå,412.500,02-12-2011,Alm. Salg,3.750,4,Villa,110,1962,,Aktuel værdi
+Kobberholmvej 239750 Østervrå,rvrå,750.000,01-12-2011,Alm. Salg,5.067,4,Villa,148,1920,-12 %,Aktuel værdi
+Mimosevej 159750 Østervrå,rvrå,316.100,01-12-2011,Fam. Salg,3.675,4,Villa,86,1956,,Aktuel værdi
+Hjørringvej 2039750 Østervrå,rvrå,600.000,28-11-2011,Alm. Salg,7.894,3,Villa,76,1947,-7 %,Aktuel værdi
+Søholtvej 209750 Østervrå,rvrå,414.000,07-10-2011,Alm. Salg,2.365,5,Villa,175,1935,-12 %,Aktuel værdi
+Skarpholtvej 249750 Østervrå,rvrå,275.000,04-10-2011,Alm. Salg,1.447,6,Stuehus,190,1923,-38 %,
+Brøndenvej 109750 Østervrå,rvrå,940.000,01-09-2011,Alm. Salg,5.696,4,Villa,165,1974,-3 %,Aktuel værdi
+Hjørringvej 2359750 Østervrå,rvrå,220.000,15-08-2011,Alm. Salg,2.444,5,Villa,90,1959,-31 %,Aktuel værdi
+Grønskovvej 109750 Østervrå,rvrå,802.000,29-07-2011,Alm. Salg,4.030,5,Villa,199,1930,-43 %,Aktuel værdi
+Bredgade 139750 Østervrå,rvrå,1.015.000,13-07-2011,Alm. Salg,4.432,7,Villa,229,1967,-3 %,Aktuel værdi
+Hjørringvej 2919750 Østervrå,rvrå,230.587,04-07-2011,Fam. Salg,1.281,3,Stuehus,180,1920,-73 %,
+Erantisvej 79750 Østervrå,rvrå,352.000,29-06-2011,Alm. Salg,2.588,5,Villa,136,1919,-33 %,Aktuel værdi
+Brønderslevvej 2349750 Østervrå,rvrå,628.000,13-05-2011,Alm. Salg,4.391,7,Stuehus,143,1780,-10 %,
+Tryvej 639750 Østervrå,rvrå,1.200.000,05-05-2011,Alm. Salg,6.741,5,Stuehus,178,1965,-9 %,
+Lendumvej 19750 Østervrå,rvrå,250.000,02-05-2011,Alm. Salg,2.100,4,Villa,119,1935,-16 %,Aktuel værdi
+Ågårdsvej 189750 Østervrå,rvrå,1.100.000,12-04-2011,Alm. Salg,9.565,5,Stuehus,115,1920,-8 %,
+Søholtvej 419750 Østervrå,rvrå,345.000,11-04-2011,Alm. Salg,2.555,5,Villa,135,1956,-5 %,Aktuel værdi
+Hjørringvej 4639750 Østervrå,rvrå,341.447,04-04-2011,Andet,-,8,Villa,178,1942,,Aktuel værdi
+Vrængmosevej 489750 Østervrå,rvrå,1.120.000,14-03-2011,Alm. Salg,8.818,4,Stuehus,127,1937,-10 %,
+Tryvej 449750 Østervrå,rvrå,356.500,11-03-2011,Fam. Salg,1.681,8,Stuehus,212,1900,,
+Brøndenvej 41B9750 Østervrå,rvrå,875.000,11-03-2011,Alm. Salg,2.410,7,Villa,363,1999,,Aktuel værdi
+Floravej 39750 Østervrå,rvrå,750.000,05-03-2011,Alm. Salg,6.250,3,Villa,120,1962,-6 %,Aktuel værdi
+Lendumvej 749750 Østervrå,rvrå,730.000,24-02-2011,Alm. Salg,5.328,4,Villa,137,1993,,Aktuel værdi
+Donskovvej 309750 Østervrå,rvrå,525.000,23-02-2011,Alm. Salg,5.585,3,Stuehus,94,1922,,
+Hjørringvej 2609750 Østervrå,rvrå,75.000,22-02-2011,Auktion,572,5,Villa,131,1900,,Aktuel værdi
+Højlundsvej 949750 Østervrå,rvrå,750.000,10-02-2011,Alm. Salg,6.756,4,Villa,111,1982,-6 %,Aktuel værdi
+Rolighedsvej 39750 Østervrå,rvrå,335.000,27-01-2011,Alm. Salg,3.190,4,Villa,105,1950,,Aktuel værdi
+Tryvej 1509750 Østervrå,rvrå,325.000,12-01-2011,Alm. Salg,1.633,6,Villa,199,1957,-18 %,Aktuel værdi
+Nygade 59750 Østervrå,rvrå,886.928,11-01-2011,Andet,8.062,3,Villa,110,1945,,Aktuel værdi
+Tryvej 49750 Østervrå,rvrå,260.000,07-01-2011,Alm. Salg,2.385,4,Villa,109,1962,-16 %,Aktuel værdi
+Brøndenvej 69750 Østervrå,rvrå,475.000,07-01-2011,Alm. Salg,5.722,3,Rækkehus,83,1981,,Aktuel værdi
+Møllegade 269750 Østervrå,rvrå,170.000,14-12-2010,Auktion,1.717,3,Villa,99,1911,,Aktuel værdi
+"Hjørringvej 245A, ST. TV9750 Østervrå",rvrå,63.000,13-12-2010,Alm. Salg,887,2,Lejlighed,71,1890,,Aktuel værdi
+"Hjørringvej 245A, ST. TH9750 Østervrå",rvrå,63.000,13-12-2010,Alm. Salg,724,2,Lejlighed,87,1890,,Aktuel værdi
+"Hjørringvej 245A, 1. MF9750 Østervrå",rvrå,65.000,13-12-2010,Alm. Salg,1.101,2,Lejlighed,59,1890,,Aktuel værdi
+"Hjørringvej 245A, 1. TH9750 Østervrå",rvrå,65.000,13-12-2010,Alm. Salg,1.354,2,Lejlighed,48,1890,,Aktuel værdi
+"Hjørringvej 245A, 1. TV9750 Østervrå",rvrå,65.000,13-12-2010,Alm. Salg,1.226,2,Lejlighed,53,1890,,Aktuel værdi
+Hjørringvej 4079750 Østervrå,rvrå,412.500,02-11-2010,Fam. Salg,3.784,5,Villa,109,1996,,Aktuel værdi
+Erantisvej 59750 Østervrå,rvrå,1.000.000,20-10-2010,Alm. Salg,7.407,4,Villa,135,1917,-13 %,Aktuel værdi
+Skovendevej 99750 Østervrå,rvrå,375.000,17-10-2010,Alm. Salg,4.687,3,Stuehus,80,1907,-21 %,
+Blomstervænget 629750 Østervrå,rvrå,225.000,17-10-2010,Alm. Salg,1.433,5,Villa,157,2011,,Aktuel værdi
+Nymøllevej 179750 Østervrå,rvrå,3.293.000,14-10-2010,Alm. Salg,26.134,4,Stuehus,126,1925,-6 %,
+Strømgade 179750 Østervrå,rvrå,650.000,02-10-2010,Alm. Salg,4.220,4,Villa,154,1960,-5 %,Aktuel værdi
+Kobberholmvej 79750 Østervrå,rvrå,150.000,07-09-2010,Alm. Salg,1.181,3,Villa,127,1933,-40 %,Aktuel værdi
+Højstrupvej 309750 Østervrå,rvrå,100.000,06-09-2010,Fam. Salg,1.190,2,Villa,84,1900,,Aktuel værdi
+Strømgade 169750 Østervrå,rvrå,595.000,06-09-2010,Alm. Salg,4.722,4,Villa,126,1963,-8 %,Aktuel værdi
+Blomstervænget 89750 Østervrå,rvrå,687.236,03-09-2010,Alm. Salg,4.268,5,Villa,161,2002,,Aktuel værdi
+Mimosevej 199750 Østervrå,rvrå,350.000,02-09-2010,Alm. Salg,3.181,3,Villa,110,1962,,Aktuel værdi
+Hjørringvej 1959750 Østervrå,rvrå,370.500,26-08-2010,Alm. Salg,1.843,7,Villa,201,1917,,Aktuel værdi
+Vibevej 109750 Østervrå,rvrå,446.961,25-08-2010,Alm. Salg,2.539,5,Villa,176,1973,,Aktuel værdi
+Nørre Alle 49750 Østervrå,rvrå,635.000,23-08-2010,Alm. Salg,5.336,4,Villa,119,1962,-9 %,Aktuel værdi
+Blomstervænget 199750 Østervrå,rvrå,1.000.000,03-08-2010,Alm. Salg,8.064,5,Villa,124,1985,,Aktuel værdi
+Sølvvej 39750 Østervrå,rvrå,498.000,22-07-2010,Alm. Salg,4.150,4,Villa,120,1973,,Aktuel værdi
+Hjørringvej 2539750 Østervrå,rvrå,145.000,16-06-2010,Alm. Salg,847,6,Villa,171,1930,-36 %,Aktuel værdi
+Dalbovej 59750 Østervrå,rvrå,1.298.000,08-06-2010,Alm. Salg,6.151,6,Villa,211,1905,0 %,Aktuel værdi
+Hjørringvej 2589750 Østervrå,rvrå,200.000,21-05-2010,Alm. Salg,1.869,3,Villa,107,1914,,Aktuel værdi
+Lendumvej 1059750 Østervrå,rvrå,675.000,12-05-2010,Alm. Salg,2.509,9,Stuehus,269,1877,-10 %,
+Tryvej 1389750 Østervrå,rvrå,160.000,05-05-2010,Alm. Salg,1.702,2,Villa,94,1938,,Aktuel værdi
+Højstrupvej 349750 Østervrå,rvrå,150.000,22-04-2010,Alm. Salg,789,8,Stuehus,190,1928,,
+Hjørringvej 2569750 Østervrå,rvrå,175.000,20-04-2010,Alm. Salg,1.325,4,Villa,132,1906,,Aktuel værdi
+Vibevej 59750 Østervrå,rvrå,865.000,18-04-2010,Alm. Salg,3.914,5,Villa,221,1974,-3 %,Aktuel værdi
+Søndergårdsvej 29750 Østervrå,rvrå,412.500,08-02-2010,Alm. Salg,3.525,4,Villa,117,1969,,Aktuel værdi
+Nejsumvej 89750 Østervrå,rvrå,750.000,21-01-2010,Alm. Salg,4.120,4,Villa,182,2011,,Aktuel værdi
+Lendumvej 539750 Østervrå,rvrå,700.000,08-01-2010,Fam. Salg,3.553,5,Villa,197,1910,,Aktuel værdi
+Hjørringvej 1859750 Østervrå,rvrå,250.000,05-01-2010,Auktion,1.213,4,Stuehus,206,1870,,
+Møllegade 309750 Østervrå,rvrå,140.000,16-12-2009,Alm. Salg,1.206,4,Villa,116,1936,-59 %,Aktuel værdi
+Brøndenvej 49750 Østervrå,rvrå,570.000,16-12-2009,Alm. Salg,6.951,3,Rækkehus,82,1988,,Aktuel værdi
+Kirkevej 329750 Østervrå,rvrå,870.000,12-12-2009,Alm. Salg,4.578,9,Stuehus,190,1890,-3 %,
+Højlundsvej 819750 Østervrå,rvrå,935.000,02-12-2009,Alm. Salg,-,7,Villa,184,1975,-11 %,Aktuel værdi
+Hjørringvej 4569750 Østervrå,rvrå,340.000,19-11-2009,Alm. Salg,3.063,3,Villa,111,1917,-7 %,Aktuel værdi
+Bakkevænget 159750 Østervrå,rvrå,2.088.000,11-11-2009,Alm. Salg,12.000,5,Villa,174,2007,0 %,Aktuel værdi
+Toftensvej 149750 Østervrå,rvrå,60.000,29-10-2009,Alm. Salg,504,3,Villa,119,1880,,Aktuel værdi
+Nellikevej 169750 Østervrå,rvrå,400.000,16-10-2009,Alm. Salg,3.149,4,Villa,127,1969,-13 %,Aktuel værdi
+Bjergetsvej 269750 Østervrå,rvrå,150.000,12-10-2009,Alm. Salg,1.388,3,Villa,108,1927,,Aktuel værdi
+Ormholtvej 59750 Østervrå,rvrå,1.925.000,05-10-2009,Alm. Salg,10.461,5,Stuehus,184,1897,-4 %,
+Søholtvej 69750 Østervrå,rvrå,2.400.000,10-09-2009,Alm. Salg,9.302,5,Stuehus,258,1913,,
+Hjørringvej 4689750 Østervrå,rvrå,185.000,12-08-2009,Alm. Salg,1.681,4,Villa,110,1897,-33 %,Aktuel værdi
+Langmosevej 89750 Østervrå,rvrå,178.500,03-08-2009,Fam. Salg,815,8,Stuehus,219,2017,,
+Enghavevej 29750 Østervrå,rvrå,605.000,25-07-2009,Alm. Salg,4.290,4,Villa,141,1950,-4 %,Aktuel værdi
+Mølbakvej 129750 Østervrå,rvrå,1.985.000,03-07-2009,Fam. Salg,7.089,8,Stuehus,280,1930,,
+Dalbovej 99750 Østervrå,rvrå,1.565.000,03-07-2009,Alm. Salg,8.598,5,Villa,182,2009,,Aktuel værdi
+Brøndenvej 459750 Østervrå,rvrå,1.030.550,12-06-2009,Alm. Salg,3.435,8,Stuehus,300,1923,,
+Bredgade 21B9750 Østervrå,rvrå,595.000,28-05-2009,Alm. Salg,8.263,3,Rækkehus,72,1986,,Aktuel værdi
+Blomstervænget 39750 Østervrå,rvrå,860.000,25-05-2009,Alm. Salg,6.142,5,Villa,140,1983,-1 %,Aktuel værdi
+Højlundsvej 169750 Østervrå,rvrå,1.150.000,20-04-2009,Alm. Salg,8.273,5,Villa,139,1984,,Aktuel værdi
+Gjersholtvej 99750 Østervrå,rvrå,23.000.000,08-03-2009,Andet,63.013,8,Stuehus,365,1864,,
+Blomstervænget 289750 Østervrå,rvrå,500.000,02-03-2009,Fam. Salg,3.597,4,Villa,139,1986,,Aktuel værdi
+Primulavej 159750 Østervrå,rvrå,625.000,01-03-2009,Alm. Salg,4.629,6,Villa,135,1949,-3 %,Aktuel værdi
+Primulavej 199750 Østervrå,rvrå,960.000,20-02-2009,Alm. Salg,9.600,3,Villa,100,1920,-4 %,Aktuel værdi
+Tryvej 289750 Østervrå,rvrå,496.436,09-02-2009,Alm. Salg,3.571,4,Stuehus,139,1900,,
+Bredgade 21C9750 Østervrå,rvrå,600.000,06-02-2009,Alm. Salg,8.333,3,Rækkehus,72,1986,-4 %,Aktuel værdi
+Højlundsvej 189750 Østervrå,rvrå,1.325.000,08-01-2009,Alm. Salg,5.735,6,Villa,231,1977,-2 %,Aktuel værdi
+Nymøllevej 279750 Østervrå,rvrå,950.000,07-01-2009,Alm. Salg,9.693,4,Villa,98,1941,-17 %,Aktuel værdi
+Primulavej 279750 Østervrå,rvrå,725.000,29-12-2008,Alm. Salg,5.664,4,Villa,128,1923,0 %,Aktuel værdi
+Hjørringvej 4749750 Østervrå,rvrå,1.635.000,03-12-2008,Alm. Salg,10.480,5,Villa,156,2000,-9 %,Aktuel værdi
+Søholtvej 439750 Østervrå,rvrå,410.000,27-11-2008,Alm. Salg,3.904,3,Villa,105,1947,,Aktuel værdi
+Søholtvej 359750 Østervrå,rvrå,590.000,20-11-2008,Alm. Salg,3.314,4,Villa,178,1910,-1 %,Aktuel værdi
+Floravej 79750 Østervrå,rvrå,668.000,31-10-2008,Alm. Salg,6.423,4,Villa,104,1963,,Aktuel værdi
+Hjørringvej 2579750 Østervrå,rvrå,351.222,25-10-2008,Alm. Salg,3.054,5,Villa,115,1914,,Aktuel værdi
+Skarpholtvej 129750 Østervrå,rvrå,3.700.000,21-10-2008,Alm. Salg,14.682,8,Stuehus,252,1980,-3 %,
+Platinvej 69750 Østervrå,rvrå,732.000,10-09-2008,Alm. Salg,6.777,4,Villa,108,1984,,Aktuel værdi
+Toftensvej 109750 Østervrå,rvrå,300.000,25-08-2008,Auktion,2.970,3,Villa,101,1897,,Aktuel værdi
+Møllegade 69750 Østervrå,rvrå,304.669,07-08-2008,Andet,3.423,5,Villa,89,1929,,Aktuel værdi
+Blomstervænget 309750 Østervrå,rvrå,1.240.000,07-08-2008,Alm. Salg,9.253,4,Villa,134,2001,-4 %,Aktuel værdi
+Nødbakvej 99750 Østervrå,rvrå,1.000.000,05-08-2008,Alm. Salg,5.649,7,Stuehus,177,1957,,
+Primulavej 1A9750 Østervrå,rvrå,830.000,10-07-2008,Alm. Salg,7.217,4,Villa,115,1984,-2 %,Aktuel værdi
+Lendumvej 579750 Østervrå,rvrå,1.400.000,07-07-2008,Alm. Salg,5.600,6,Villa,250,2006,,Aktuel værdi
+Hjørringvej 4709750 Østervrå,rvrå,600.000,27-06-2008,Alm. Salg,3.680,6,Villa,163,1935,-4 %,Aktuel værdi
+Mellergårdsvej 69750 Østervrå,rvrå,665.000,26-06-2008,Alm. Salg,6.333,3,Villa,105,1952,0 %,Aktuel værdi
+Vibevej 49750 Østervrå,rvrå,1.050.000,20-06-2008,Alm. Salg,6.481,4,Villa,162,1973,-4 %,Aktuel værdi
+Mimosevej 59750 Østervrå,rvrå,725.000,17-06-2008,Alm. Salg,5.034,3,Villa,144,1952,0 %,Aktuel værdi
+Ålborggårdvej 549750 Østervrå,rvrå,850.000,04-06-2008,Fam. Salg,5.059,7,Stuehus,168,1964,,
+Brønderslevvej 2529750 Østervrå,rvrå,1.250.000,03-06-2008,Alm. Salg,6.410,3,Villa,195,1984,-2 %,Aktuel værdi
+Højlundsvej 249750 Østervrå,rvrå,885.000,27-05-2008,Alm. Salg,6.459,4,Villa,137,1976,,Aktuel værdi
+Mellergårdsvej 19750 Østervrå,rvrå,1.100.000,23-05-2008,Alm. Salg,6.358,6,Villa,173,1945,-10 %,Aktuel værdi
+Tryvej 1529750 Østervrå,rvrå,1.528.000,16-05-2008,Alm. Salg,7.640,5,Stuehus,200,1902,0 %,
+Koldbromøllevej 269750 Østervrå,rvrå,350.000,28-04-2008,Alm. Salg,3.763,4,Villa,93,1925,-18 %,Aktuel værdi
+Sølvvej 59750 Østervrå,rvrå,735.000,16-04-2008,Alm. Salg,4.176,5,Villa,176,1974,,Aktuel værdi
+Høngårdsvej 49750 Østervrå,rvrå,209.449,17-03-2008,Fam. Salg,2.137,3,Villa,98,1955,,Aktuel værdi
+Safirvej 59750 Østervrå,rvrå,695.000,17-03-2008,Alm. Salg,3.736,7,Villa,186,1956,,Aktuel værdi
+Højlundsvej 339750 Østervrå,rvrå,975.000,12-03-2008,Alm. Salg,4.493,7,Villa,217,1973,-2 %,Aktuel værdi
+Hjørringvej 5299750 Østervrå,rvrå,4.210.104,11-03-2008,Alm. Salg,25.210,4,Stuehus,167,1922,,
+Dalbækvej 59750 Østervrå,rvrå,4.020.000,10-03-2008,Fam. Salg,18.108,6,Stuehus,222,1977,,
+Hjørringvej 2049750 Østervrå,rvrå,285.000,24-02-2008,Alm. Salg,3.701,3,Villa,77,1950,,Aktuel værdi
+Mellergårdsvej 49750 Østervrå,rvrå,485.000,09-02-2008,Alm. Salg,3.592,5,Villa,135,1946,0 %,Aktuel værdi
+Hjørringvej 2239750 Østervrå,rvrå,260.000,08-02-2008,Alm. Salg,2.300,3,Villa,113,1959,-17 %,Aktuel værdi
+Erantisvej 39750 Østervrå,rvrå,505.000,01-02-2008,Alm. Salg,4.508,4,Villa,112,1924,,Aktuel værdi
+Gjersholtvej 199750 Østervrå,rvrå,11.330.000,30-01-2008,Alm. Salg,43.576,9,Stuehus,260,1877,,
+Rolighedsvej 19750 Østervrå,rvrå,375.000,28-01-2008,Alm. Salg,2.551,4,Villa,147,1945,,Aktuel værdi
+Brøndenvej 1029750 Østervrå,rvrå,250.750,23-12-2007,Fam. Salg,3.742,4,Sommerhus,67,1964,,Aktuel værdi
+Brøndenvej 529750 Østervrå,rvrå,2.750.000,20-12-2007,Fam. Salg,9.105,7,Stuehus,302,1999,,
+Tryvej 1409750 Østervrå,rvrå,360.000,20-12-2007,Alm. Salg,2.571,5,Villa,140,1967,-3 %,Aktuel værdi
+Nørre Alle 19750 Østervrå,rvrå,451.082,20-12-2007,Alm. Salg,2.854,5,Villa,158,1963,,Aktuel værdi
+Bakkevænget 119750 Østervrå,rvrå,179.170,18-12-2007,Fam. Salg,1.141,5,Villa,157,2008,,Aktuel værdi
+Højlundsvej 319750 Østervrå,rvrå,825.000,13-12-2007,Alm. Salg,6.875,4,Villa,120,1973,,Aktuel værdi
+Begonievej 59750 Østervrå,rvrå,565.000,13-12-2007,Alm. Salg,4.913,4,Villa,115,1908,-6 %,Aktuel værdi
+Blomstervænget 29750 Østervrå,rvrå,80.000,10-12-2007,Alm. Salg,375,5,Villa,213,2009,,Aktuel værdi
+Oustrupmøllevej 1519750 Østervrå,rvrå,7.900.000,28-11-2007,Alm. Salg,42.702,8,Stuehus,185,1935,,
+Hjørringvej 2109750 Østervrå,rvrå,415.000,12-11-2007,Alm. Salg,3.915,3,Villa,106,1957,,Aktuel værdi
+Møllegade 29750 Østervrå,rvrå,1.000.000,12-11-2007,Alm. Salg,6.410,4,Villa,156,1927,,Aktuel værdi
+Brøndenvej 209750 Østervrå,rvrå,875.000,01-11-2007,Alm. Salg,6.835,4,Villa,128,1965,,Aktuel værdi
+Højstrupvej 519750 Østervrå,rvrå,1.245.000,29-10-2007,Alm. Salg,8.892,5,Stuehus,140,1902,,
+Perlevej 39750 Østervrå,rvrå,720.000,20-10-2007,Alm. Salg,5.714,5,Villa,126,1975,,Aktuel værdi
+Hjørringvej 2699750 Østervrå,rvrå,400.000,19-10-2007,Alm. Salg,4.444,3,Villa,90,1950,,Aktuel værdi
+Rosenlundsvej 139750 Østervrå,rvrå,645.000,17-09-2007,Alm. Salg,5.375,4,Stuehus,120,1914,0 %,
+Hjørringvej 2529750 Østervrå,rvrå,740.000,31-08-2007,Alm. Salg,6.115,5,Villa,121,1900,,Aktuel værdi
+Søholtvej 609750 Østervrå,rvrå,1.325.000,30-08-2007,Alm. Salg,4.537,6,Villa,292,1910,,Aktuel værdi
+Strømgade 129750 Østervrå,rvrå,620.000,18-08-2007,Alm. Salg,7.045,4,Villa,88,1954,,Aktuel værdi
+Højstrupvej 209750 Østervrå,rvrå,533.650,14-08-2007,Alm. Salg,-,8,Villa,209,1936,,Aktuel værdi
+Primulavej 69750 Østervrå,rvrå,640.000,19-07-2007,Alm. Salg,4.324,7,Villa,148,1940,-1 %,Aktuel værdi
+Tryvej 1339750 Østervrå,rvrå,250.000,22-06-2007,Alm. Salg,1.666,5,Villa,150,1902,,Aktuel værdi
+Hjørringvej 2979750 Østervrå,rvrå,331.000,19-06-2007,Alm. Salg,2.451,4,Villa,135,1924,,Aktuel værdi
+Højlundsvej 779750 Østervrå,rvrå,765.000,14-06-2007,Alm. Salg,5.387,4,Villa,142,1974,,Aktuel værdi
+Floravej 109750 Østervrå,rvrå,230.000,29-05-2007,Alm. Salg,2.421,4,Villa,95,1964,,Aktuel værdi
+Søndergårdsvej 199750 Østervrå,rvrå,790.000,25-05-2007,Alm. Salg,4.876,4,Villa,162,1971,,Aktuel værdi
+Donskovvej 199750 Østervrå,rvrå,2.600.000,19-05-2007,Alm. Salg,13.612,7,Stuehus,191,1915,,
+Hjørringvej 2669750 Østervrå,rvrå,495.000,18-05-2007,Alm. Salg,3.807,7,Industri o.l.,130,1910,,Aktuel værdi
+Ålborggårdvej 279750 Østervrå,rvrå,665.000,24-04-2007,Alm. Salg,4.854,4,Stuehus,137,1927,,
+Søndergårdsvej 19750 Østervrå,rvrå,1.667.000,18-04-2007,Alm. Salg,11.113,4,Lejlighed,150,1972,,Aktuel værdi
+Vrængmosevej 139750 Østervrå,rvrå,925.000,05-04-2007,Alm. Salg,6.045,3,Villa,153,1940,,Aktuel værdi
+Langoddevej 259750 Østervrå,rvrå,2.310.000,30-03-2007,Alm. Salg,11.435,7,Stuehus,202,1985,-4 %,
+Tranholmvej 59750 Østervrå,rvrå,640.000,27-03-2007,Alm. Salg,4.705,3,Stuehus,136,1907,,
+Floravej 99750 Østervrå,rvrå,290.540,14-03-2007,Andet,1.898,8,Villa,153,1962,,Aktuel værdi
+Ålborggårdvej 539750 Østervrå,rvrå,540.000,14-02-2007,Alm. Salg,-,7,Stuehus,185,1914,,
+Krogsdamvej 99750 Østervrå,rvrå,940.000,08-02-2007,Fam. Salg,7.230,5,Stuehus,130,1916,,
+Vangvej 49750 Østervrå,rvrå,565.000,01-02-2007,Alm. Salg,-,3,Stuehus,146,1894,,
+Brøndenvej 79750 Østervrå,rvrå,590.000,26-01-2007,Alm. Salg,4.876,4,Villa,121,1960,,Aktuel værdi
+Hjørringvej 4229750 Østervrå,rvrå,425.000,26-01-2007,Alm. Salg,3.373,6,Villa,126,1925,,Aktuel værdi
+Højstrupvej 129750 Østervrå,rvrå,1.250.000,24-01-2007,Alm. Salg,-,3,Stuehus,185,1972,,
+Bakkevænget 19750 Østervrå,rvrå,157.018,19-01-2007,Alm. Salg,1.440,3,Villa,109,2008,,Aktuel værdi
+Ganevej 69750 Østervrå,rvrå,2.436.316,10-01-2007,Fam. Salg,12.367,7,Stuehus,197,1997,,
+Søholtvej 189750 Østervrå,rvrå,2.500.000,09-01-2007,Alm. Salg,5.102,15,Stuehus,490,1886,,
+Hjørringvej 2449750 Østervrå,rvrå,1.050.000,23-12-2006,Alm. Salg,5.497,13,Villa,191,1960,,Aktuel værdi
+Langmosevej 149750 Østervrå,rvrå,900.000,11-12-2006,Alm. Salg,7.086,3,Villa,127,1989,,Aktuel værdi
+Nørkærvej 189750 Østervrå,rvrå,2.419.375,04-12-2006,Andet,12.096,5,Stuehus,200,1930,,
+Højlundsvej 459750 Østervrå,rvrå,910.000,24-11-2006,Alm. Salg,6.363,6,Villa,143,1973,,Aktuel værdi
+Hjørringvej 4479750 Østervrå,rvrå,1.600.000,20-11-2006,Alm. Salg,13.793,6,Detailhandel,116,1987,,Aktuel værdi
+Erantisvej 99750 Østervrå,rvrå,350.000,01-11-2006,Alm. Salg,3.723,3,Villa,94,1926,,Aktuel værdi
+Hjørringvej 2379750 Østervrå,rvrå,280.000,16-10-2006,Alm. Salg,1.971,5,Villa,142,1907,,Aktuel værdi
+Nellikevej 109750 Østervrå,rvrå,798.000,11-10-2006,Alm. Salg,4.987,5,Villa,160,1925,,Aktuel værdi
+Vrængmosevej 869750 Østervrå,rvrå,2.610.000,07-10-2006,Alm. Salg,13.593,5,Stuehus,192,1933,,
+Hjørringvej 2429750 Østervrå,rvrå,425.000,06-10-2006,Alm. Salg,3.971,5,Villa,107,1916,,Aktuel værdi
+Hjørringvej 4309750 Østervrå,rvrå,330.000,03-10-2006,Alm. Salg,962,6,Rækkehus,343,1898,,Aktuel værdi
+Hjørringvej 4889750 Østervrå,rvrå,965.000,25-09-2006,Alm. Salg,4.573,6,Villa,211,1936,,Aktuel værdi
+Ormholtvej 99750 Østervrå,rvrå,602.698,22-08-2006,Alm. Salg,3.205,4,Stuehus,188,1927,,
+Hjørringvej 2409750 Østervrå,rvrå,620.000,21-08-2006,Alm. Salg,3.563,8,Villa,174,1916,,Aktuel værdi
+Rolighedsvej 29750 Østervrå,rvrå,425.000,21-08-2006,Alm. Salg,4.166,4,Villa,102,1958,,Aktuel værdi
+Hjørringvej 2179750 Østervrå,rvrå,127.500,16-08-2006,Fam. Salg,1.118,3,Villa,114,1956,,Aktuel værdi
+Hjørringvej 222C9750 Østervrå,rvrå,875.000,09-08-2006,Alm. Salg,5.434,5,Villa,161,1930,,Aktuel værdi
+Søholtvej 469750 Østervrå,rvrå,392.000,06-08-2006,Alm. Salg,2.214,4,Villa,177,1890,,Aktuel værdi
+Møllegade 219750 Østervrå,rvrå,1.300.000,26-07-2006,Alm. Salg,13.000,9,Industri o.l.,100,1927,,Aktuel værdi
+Hjørringvej 4209750 Østervrå,rvrå,295.000,16-07-2006,Alm. Salg,2.500,4,Villa,118,1900,,Aktuel værdi
+Højlundsvej 29750 Østervrå,rvrå,417.150,13-07-2006,Alm. Salg,2.937,5,Villa,142,1977,,Aktuel værdi
+Hyllestedvej 59750 Østervrå,rvrå,1.900.000,30-06-2006,Alm. Salg,16.521,4,Stuehus,115,1932,,
+Hjørringvej 439B9750 Østervrå,rvrå,1.350.000,19-06-2006,Alm. Salg,6.136,8,Lejlighed,220,1927,,Aktuel værdi
+Vrængmosevej 539750 Østervrå,rvrå,550.000,13-06-2006,Alm. Salg,3.437,4,Stuehus,160,1926,,
+Strømgade 159750 Østervrå,rvrå,575.000,29-05-2006,Alm. Salg,6.117,2,Villa,94,1962,,Aktuel værdi
+Lærkevej 89750 Østervrå,rvrå,700.000,24-05-2006,Alm. Salg,5.147,4,Villa,136,1971,,Aktuel værdi
+Hjørringvej 4469750 Østervrå,rvrå,625.000,19-05-2006,Alm. Salg,3.720,5,Villa,168,1900,,Aktuel værdi
+Høngårdsvej 89750 Østervrå,rvrå,350.000,18-05-2006,Alm. Salg,4.022,5,Villa,87,1936,,Aktuel værdi
+Elbækvej 59750 Østervrå,rvrå,1.498.000,13-05-2006,Alm. Salg,5.487,7,Villa,273,2006,,Aktuel værdi
+Sølvvej 69750 Østervrå,rvrå,23.431,26-04-2006,Alm. Salg,207,4,Villa,113,1972,,Aktuel værdi
+Fjeldgårdsvej 49750 Østervrå,rvrå,1.375.000,20-04-2006,Alm. Salg,-,7,Stuehus,192,1940,,
+Enghavevej 39750 Østervrå,rvrå,575.000,12-04-2006,Alm. Salg,4.492,4,Villa,128,1929,,Aktuel værdi
+Rosenvangsvej 99750 Østervrå,rvrå,850.000,11-04-2006,Alm. Salg,12.500,2,Stuehus,68,1938,,
+Tranevej 79750 Østervrå,rvrå,810.000,10-04-2006,Alm. Salg,4.500,4,Villa,180,1972,,Aktuel værdi
+Nellikevej 19750 Østervrå,rvrå,320.000,10-04-2006,Alm. Salg,2.909,3,Villa,110,1930,,Aktuel værdi
+Møllegade 429750 Østervrå,rvrå,390.737,22-03-2006,Alm. Salg,4.596,3,Villa,85,1948,,Aktuel værdi
+Nellikevej 39750 Østervrå,rvrå,435.000,16-03-2006,Alm. Salg,3.686,3,Villa,118,1920,,Aktuel værdi
+Safirvej 19750 Østervrå,rvrå,488.000,04-03-2006,Alm. Salg,3.588,3,Villa,136,1935,,Aktuel værdi
+Tryvej 1309750 Østervrå,rvrå,748.000,10-02-2006,Alm. Salg,2.579,6,Stuehus,290,2011,,
+Højlundsvej 73A9750 Østervrå,rvrå,740.000,25-01-2006,Alm. Salg,3.854,5,Villa,192,1974,,Aktuel værdi
+Floravej 49750 Østervrå,rvrå,707.728,20-01-2006,Alm. Salg,6.433,3,Villa,110,1968,,Aktuel værdi
+Nørregårdsvej 49750 Østervrå,rvrå,995.000,14-12-2005,Alm. Salg,5.292,6,Stuehus,188,1916,,
+Bredgade 319750 Østervrå,rvrå,650.000,01-12-2005,Alm. Salg,-,5,Villa,151,1973,,Aktuel værdi
+Hjørringvej 2509750 Østervrå,rvrå,772.000,30-11-2005,Alm. Salg,3.658,8,Villa,211,1948,,Aktuel værdi
+Rubinvej 19750 Østervrå,rvrå,550.000,08-11-2005,Alm. Salg,3.873,3,Villa,142,1978,,Aktuel værdi
+Ålborggårdvej 199750 Østervrå,rvrå,980.000,08-11-2005,Alm. Salg,6.322,5,Stuehus,155,1929,,
+Primulavej 229750 Østervrå,rvrå,610.000,14-10-2005,Alm. Salg,-,6,Villa,170,1965,,Aktuel værdi
+Mellergårdsvej 109750 Østervrå,rvrå,770.000,07-10-2005,Alm. Salg,3.774,4,Villa,204,1974,,Aktuel værdi
+Bakkevænget 59750 Østervrå,rvrå,157.096,03-10-2005,Alm. Salg,1.172,5,Villa,134,2006,,Aktuel værdi
+Nørkærvej 149750 Østervrå,rvrå,450.000,26-09-2005,Alm. Salg,2.586,10,Villa,174,1902,,Aktuel værdi
+Kirkholtvej 189750 Østervrå,rvrå,725.000,13-09-2005,Alm. Salg,4.617,4,Villa,157,1916,,Aktuel værdi
+Høngårdsvej 249750 Østervrå,rvrå,250.000,05-09-2005,Alm. Salg,2.272,3,Villa,110,1948,,Aktuel værdi
+Tryvej 1469750 Østervrå,rvrå,280.000,31-08-2005,Alm. Salg,2.545,4,Villa,110,1926,,Aktuel værdi
+Langoddevej 389750 Østervrå,rvrå,300.000,30-08-2005,Alm. Salg,1.298,8,Villa,231,1900,,Aktuel værdi
+Tryvej 1619750 Østervrå,rvrå,370.000,30-08-2005,Alm. Salg,3.394,4,Villa,109,1947,,Aktuel værdi
+Kolonihavevej 59750 Østervrå,rvrå,755.000,28-08-2005,Alm. Salg,5.719,5,Villa,132,1977,,Aktuel værdi
+Floravej 69750 Østervrå,rvrå,750.000,19-08-2005,Alm. Salg,5.952,4,Villa,126,1965,,Aktuel værdi
+Ålborggårdvej 369750 Østervrå,rvrå,1.350.000,12-07-2005,Alm. Salg,10.384,4,Stuehus,130,1877,,
+Hjørringvej 4729750 Østervrå,rvrå,475.000,05-07-2005,Alm. Salg,5.053,3,Villa,94,1941,,Aktuel værdi
+Primulavej 119750 Østervrå,rvrå,855.000,03-06-2005,Alm. Salg,3.685,6,Villa,232,1930,,Aktuel værdi
+Kolonihavevej 39750 Østervrå,rvrå,550.000,31-05-2005,Alm. Salg,4.230,3,Villa,130,1959,,Aktuel værdi
+Tryvej 269750 Østervrå,rvrå,598.289,24-05-2005,Andet,2.624,6,Villa,228,1976,,Aktuel værdi
+Hjørringvej 2559750 Østervrå,rvrå,280.000,12-05-2005,Alm. Salg,2.333,5,Villa,120,1910,,Aktuel værdi
+Lendumvej 459750 Østervrå,rvrå,295.000,12-05-2005,Alm. Salg,5.363,2,Villa,55,1914,,Aktuel værdi
+Ormholtvej 259750 Østervrå,rvrå,540.000,28-04-2005,Alm. Salg,3.648,4,Villa,148,1890,,Aktuel værdi
+Højlundsvej 369750 Østervrå,rvrå,800.000,27-04-2005,Alm. Salg,3.333,8,Villa,240,1976,,Aktuel værdi
+Møllegade 139750 Østervrå,rvrå,800.000,27-04-2005,Alm. Salg,5.714,5,Villa,140,1962,,Aktuel værdi
+Møllegade 59750 Østervrå,rvrå,128.602,08-04-2005,Fam. Salg,684,4,Villa,188,2014,,Aktuel værdi
+Møllegade 209750 Østervrå,rvrå,320.851,08-04-2005,Fam. Salg,2.970,3,Villa,108,1926,,Aktuel værdi
+Kirkholtvej 199750 Østervrå,rvrå,795.773,29-03-2005,Alm. Salg,5.724,5,Villa,139,1915,,Aktuel værdi
+Møllegade 149750 Østervrå,rvrå,555.000,29-03-2005,Alm. Salg,5.285,4,Villa,105,1966,,Aktuel værdi
+Kirkevej 359750 Østervrå,rvrå,1.180.000,18-03-2005,Alm. Salg,7.515,5,Stuehus,157,1902,,
+Koldbromøllevej 139750 Østervrå,rvrå,800.000,02-03-2005,Alm. Salg,3.265,4,Stuehus,245,2015,,
+Tranholmvej 69750 Østervrå,rvrå,915.000,25-02-2005,Alm. Salg,3.978,7,Stuehus,230,1963,,
+Blomstervænget 209750 Østervrå,rvrå,550.000,24-02-2005,Alm. Salg,4.782,3,Villa,115,1980,,Aktuel værdi
+Tryvej 1519750 Østervrå,rvrå,220.000,24-02-2005,Alm. Salg,1.803,5,Villa,122,1942,,Aktuel værdi
+Langmosevej 99750 Østervrå,rvrå,575.000,21-02-2005,Alm. Salg,7.666,3,Stuehus,75,1918,,
+Fjeldgårdsvej 299750 Østervrå,rvrå,1.100.000,15-02-2005,Alm. Salg,8.800,4,Stuehus,125,1938,,
+Tranevej 39750 Østervrå,rvrå,648.000,25-01-2005,Alm. Salg,4.207,5,Villa,154,1972,,Aktuel værdi
+Primulavej 179750 Østervrå,rvrå,375.000,13-01-2005,Alm. Salg,3.826,5,Villa,98,1942,,Aktuel værdi
+Brønderslevvej 2649750 Østervrå,rvrå,2.565.422,30-12-2004,Fam. Salg,6.859,9,Stuehus,374,1979,,
+Høngårdsvej 25A9750 Østervrå,rvrå,450.000,22-12-2004,Alm. Salg,1.875,5,Villa,240,1850,,Aktuel værdi
+Liljevej 69750 Østervrå,rvrå,575.000,15-12-2004,Alm. Salg,2.395,7,Villa,240,1920,,Aktuel værdi
+Tryvej 809750 Østervrå,rvrå,225.000,10-12-2004,Alm. Salg,2.368,5,Villa,95,1900,,Aktuel værdi
+Tryvej 489750 Østervrå,rvrå,265.000,06-12-2004,Alm. Salg,2.731,3,Villa,97,1957,,Aktuel værdi
+Brønderslevvej 2929750 Østervrå,rvrå,325.000,03-12-2004,Alm. Salg,3.611,3,Stuehus,90,1898,,
+Lendumvej 119750 Østervrå,rvrå,90.000,19-11-2004,Alm. Salg,1.343,3,Villa,67,1913,,Aktuel værdi
+Stasigvej 129750 Østervrå,rvrå,1.275.000,18-11-2004,Alm. Salg,6.343,8,Stuehus,201,1897,,
+Høngårdsvej 19750 Østervrå,rvrå,190.000,03-11-2004,Alm. Salg,1.557,6,Villa,122,1910,,Aktuel værdi
+Strømgade 89750 Østervrå,rvrå,665.000,26-10-2004,Alm. Salg,7.471,3,Villa,89,1960,,Aktuel værdi
+Mimosevej 219750 Østervrå,rvrå,475.000,12-10-2004,Alm. Salg,4.241,3,Villa,112,1963,,Aktuel værdi
+Brønderslevvej 2939750 Østervrå,rvrå,165.000,07-10-2004,Alm. Salg,1.736,3,Villa,95,1925,,Aktuel værdi
+Lendumvej 179750 Østervrå,rvrå,470.000,30-09-2004,Alm. Salg,2.410,7,Villa,195,1968,,Aktuel værdi
+Enghøjvej 59750 Østervrå,rvrå,313.000,23-09-2004,Alm. Salg,1.549,4,Villa,202,2010,,Aktuel værdi
+Enghøjvej 89750 Østervrå,rvrå,667.600,29-08-2004,Alm. Salg,-,4,Stuehus,188,1931,,
+Højlundsvej 99750 Østervrå,rvrå,550.000,27-08-2004,Fam. Salg,9.016,3,Villa,61,1973,,Aktuel værdi
+Hjørringvej 5039750 Østervrå,rvrå,975.000,17-08-2004,Alm. Salg,5.603,8,Stuehus,174,1937,,
+Kolonihavevej 69750 Østervrå,rvrå,555.000,12-07-2004,Alm. Salg,-,6,Villa,180,1940,,Aktuel værdi
+Stadionvej 159750 Østervrå,rvrå,350.000,05-07-2004,Alm. Salg,2.464,5,Villa,142,1960,,Aktuel værdi
+Høngårdsvej 299750 Østervrå,rvrå,540.000,02-07-2004,Alm. Salg,3.857,5,Villa,140,1947,,Aktuel værdi
+Ålborggårdvej 319750 Østervrå,rvrå,275.000,18-06-2004,Alm. Salg,-,5,Stuehus,190,1929,,
+Højlundsvej 429750 Østervrå,rvrå,775.000,28-05-2004,Alm. Salg,-,4,Villa,139,1978,,Aktuel værdi
+Højlundsvej 759750 Østervrå,rvrå,770.000,28-05-2004,Alm. Salg,4.325,7,Villa,178,1974,,Aktuel værdi
+Åvangvej 59750 Østervrå,rvrå,566.369,25-05-2004,Alm. Salg,-,7,Stuehus,240,1900,,
+Lendumvej 1009750 Østervrå,rvrå,13.600.000,24-05-2004,Alm. Salg,54.618,9,Stuehus,249,1986,,
+Øster Grønskovvej 269750 Østervrå,rvrå,1.543.508,12-05-2004,Alm. Salg,14.841,6,Stuehus,104,1917,,
+Blomstervænget 229750 Østervrå,rvrå,1.298.000,05-05-2004,Alm. Salg,7.016,5,Villa,185,1986,,Aktuel værdi
+Brønderslevvej 2459750 Østervrå,rvrå,710.773,03-05-2004,Alm. Salg,3.701,5,Stuehus,192,1930,,
+Kobberholmvej 209750 Østervrå,rvrå,1.315.000,15-04-2004,Alm. Salg,9.813,4,Stuehus,134,1927,,
+Vrængmosevej 739750 Østervrå,rvrå,1.045.000,30-03-2004,Alm. Salg,8.228,5,Stuehus,127,1950,,
+Strømgade 239750 Østervrå,rvrå,450.000,27-02-2004,Alm. Salg,2.331,5,Villa,193,1953,,Aktuel værdi
+Højlundsvej 309750 Østervrå,rvrå,748.000,19-02-2004,Alm. Salg,-,6,Villa,181,1976,,Aktuel værdi
+Nørregårdsvej 89750 Østervrå,rvrå,1.525.000,17-02-2004,Alm. Salg,7.780,7,Stuehus,196,1935,,
+Lendumvej 129750 Østervrå,rvrå,435.000,05-02-2004,Alm. Salg,3.246,5,Villa,134,1916,,Aktuel værdi
+Primulavej 299750 Østervrå,rvrå,205.185,04-02-2004,Andet,2.889,4,Villa,71,1924,,Aktuel værdi
+Møllegade 329750 Østervrå,rvrå,346.272,12-01-2004,Alm. Salg,3.462,3,Villa,100,1934,,Aktuel værdi
+Brøndenvej 1009750 Østervrå,rvrå,40.000,10-12-2003,Fam. Salg,2.666,1,Sommerhus,15,1927,,Aktuel værdi
+Hjørringvej 4129750 Østervrå,rvrå,395.000,27-11-2003,Alm. Salg,3.038,5,Villa,130,1907,,Aktuel værdi
+Hjørringvej 2289750 Østervrå,rvrå,698.000,24-11-2003,Alm. Salg,4.335,4,Villa,161,1970,,Aktuel værdi
+Langoddevej 229750 Østervrå,rvrå,7.820.000,17-11-2003,Auktion,59.694,4,Stuehus,131,1947,,
+Brøndenvej 619750 Østervrå,rvrå,625.000,31-10-2003,Alm. Salg,5.208,3,Stuehus,120,1870,,
+Skarpholtvej 199750 Østervrå,rvrå,1.235.000,29-10-2003,Alm. Salg,4.062,8,Stuehus,304,1850,,
+Lendumvej 59750 Østervrå,rvrå,325.000,13-10-2003,Alm. Salg,2.559,5,Villa,127,1942,,Aktuel værdi
+Tryvej 859750 Østervrå,rvrå,780.999,08-10-2003,Alm. Salg,7.036,5,Villa,111,1942,,Aktuel værdi
+Lærkevej 79750 Østervrå,rvrå,775.150,06-10-2003,Alm. Salg,6.201,4,Villa,125,1964,,Aktuel værdi
+Vangvej 189750 Østervrå,rvrå,850.000,22-09-2003,Alm. Salg,6.028,5,Villa,141,1909,,Aktuel værdi
+Ålborggårdvej 329750 Østervrå,rvrå,800.000,12-09-2003,Alm. Salg,4.210,8,Stuehus,190,1928,,
+Søholtvej 269750 Østervrå,rvrå,85.000,04-09-2003,Alm. Salg,833,3,Villa,102,1907,,Aktuel værdi
+Nørre Alle 69750 Østervrå,rvrå,714.330,03-09-2003,Alm. Salg,5.370,6,Villa,133,1970,,Aktuel værdi
+Blomstervænget 689750 Østervrå,rvrå,850.000,15-08-2003,Alm. Salg,7.456,4,Villa,114,1989,,Aktuel værdi
+Nødbakvej 109750 Østervrå,rvrå,1.075.000,10-07-2003,Alm. Salg,7.312,6,Stuehus,147,1938,,
+Hjørringvej 2299750 Østervrå,rvrå,260.000,06-07-2003,Alm. Salg,1.843,4,Villa,141,1913,,Aktuel værdi
+Gydejevej 49750 Østervrå,rvrå,5.770.000,01-07-2003,Alm. Salg,21.135,4,Stuehus,273,1890,,
+Brøndenvej 569750 Østervrå,rvrå,146.700,30-06-2003,Alm. Salg,589,6,Stuehus,249,1969,,
+Blomstervænget 489750 Østervrå,rvrå,880.000,25-06-2003,Alm. Salg,-,6,Villa,156,1986,,Aktuel værdi
+Nymøllevej 169750 Østervrå,rvrå,398.000,25-06-2003,Fam. Salg,2.948,4,Villa,135,1937,,Aktuel værdi
+Hjørringvej 4409750 Østervrå,rvrå,700.000,14-06-2003,Alm. Salg,5.691,4,Villa,123,1880,,Aktuel værdi
+Hjørringvej 4539750 Østervrå,rvrå,275.000,11-06-2003,Alm. Salg,1.718,6,Villa,160,1907,,Aktuel værdi
+Hjørringvej 2419750 Østervrå,rvrå,190.000,10-06-2003,Alm. Salg,1.881,3,Villa,101,1926,,Aktuel værdi
+Danebovej 19750 Østervrå,rvrå,600.000,02-06-2003,Alm. Salg,3.797,7,Villa,158,1965,,Aktuel værdi
+Floravej 59750 Østervrå,rvrå,337.000,23-05-2003,Alm. Salg,2.880,5,Villa,117,1963,,Aktuel værdi
+Blomstervænget 119750 Østervrå,rvrå,1.200.000,22-05-2003,Alm. Salg,6.593,6,Villa,182,1983,,Aktuel værdi
+Høngårdsvej 59750 Østervrå,rvrå,940.000,12-05-2003,Alm. Salg,3.760,8,Villa,250,1934,,Aktuel værdi
+Høngårdsvej 199750 Østervrå,rvrå,485.000,09-04-2003,Alm. Salg,4.898,4,Villa,99,1955,,Aktuel værdi
+Brønderslevvej 2789750 Østervrå,rvrå,870.000,26-03-2003,Alm. Salg,4.677,5,Stuehus,186,1958,,
+Tryvej 1379750 Østervrå,rvrå,140.000,05-03-2003,Alm. Salg,1.029,4,Villa,136,1907,,Aktuel værdi
+Strømgade 109750 Østervrå,rvrå,530.000,22-01-2003,Alm. Salg,5.096,4,Villa,104,1960,,Aktuel værdi
+Søhedenvej 1799750 Østervrå,rvrå,1.650.000,13-01-2003,Alm. Salg,27.500,2,Stuehus,60,1900,,
+Skovvej 379750 Østervrå,rvrå,350.000,13-01-2003,Alm. Salg,3.500,3,Villa,100,1903,,Aktuel værdi
+Lendumvej 969750 Østervrå,rvrå,800.000,07-01-2003,Alm. Salg,3.125,9,Stuehus,256,1893,,
+Krogsdamvej 219750 Østervrå,rvrå,990.000,08-11-2002,Alm. Salg,4.520,9,Stuehus,219,1912,,
+Tryvej 1439750 Østervrå,rvrå,110.000,06-11-2002,Alm. Salg,1.009,5,Villa,109,1890,,Aktuel værdi
+Høngårdsvej 149750 Østervrå,rvrå,400.000,31-10-2002,Alm. Salg,3.100,6,Villa,129,1955,,Aktuel værdi
+Søndergårdsvej 89750 Østervrå,rvrå,584.848,30-10-2002,Alm. Salg,4.569,4,Villa,128,1974,,Aktuel værdi
+Hjørringvej 4559750 Østervrå,rvrå,255.000,24-10-2002,Alm. Salg,3.493,4,Villa,73,1900,,Aktuel værdi
+Bjergetsvej 259750 Østervrå,rvrå,425.000,22-10-2002,Alm. Salg,4.670,4,Stuehus,91,1950,,
+Lendumvej 219750 Østervrå,rvrå,300.000,27-09-2002,Alm. Salg,2.564,4,Villa,117,1966,,Aktuel værdi
+Mimosevej 69750 Østervrå,rvrå,630.000,20-09-2002,Alm. Salg,4.500,6,Villa,140,1961,,Aktuel værdi
+Nørkærvej 69750 Østervrå,rvrå,238.000,12-09-2002,Alm. Salg,2.644,2,Villa,90,1940,,Aktuel værdi
+Vrængmosevej 459750 Østervrå,rvrå,2.800.000,02-09-2002,Alm. Salg,24.137,4,Stuehus,116,1937,,
+Hjørringvej 2639750 Østervrå,rvrå,195.000,29-08-2002,Fam. Salg,1.107,5,Villa,176,1904,,Aktuel værdi
+Mimosevej 119750 Østervrå,rvrå,625.000,03-06-2002,Alm. Salg,6.510,2,Villa,96,1963,,Aktuel værdi
+Tryvej 549750 Østervrå,rvrå,200.000,30-05-2002,Alm. Salg,2.500,2,Villa,80,1955,,Aktuel værdi
+Tryvej 1179750 Østervrå,rvrå,250.000,20-05-2002,Alm. Salg,2.173,4,Villa,115,1944,,Aktuel værdi
+Bjergetsvej 319750 Østervrå,rvrå,500.000,14-05-2002,Alm. Salg,6.250,3,Villa,80,1895,,Aktuel værdi
+Bakkevænget 109750 Østervrå,rvrå,196.252,02-04-2002,Alm. Salg,1.055,5,Villa,186,2005,,Aktuel værdi
+Lendumvej 79750 Østervrå,rvrå,395.000,01-03-2002,Alm. Salg,3.237,4,Villa,122,1920,,Aktuel værdi
+Vrængmosevej 909750 Østervrå,rvrå,2.600.000,31-01-2002,Alm. Salg,15.384,5,Stuehus,169,2002,,
+Primulavej 219750 Østervrå,rvrå,798.493,27-01-2002,Alm. Salg,5.703,4,Villa,140,1922,,Aktuel værdi
+Højlundsvej 119750 Østervrå,rvrå,790.000,19-12-2001,Alm. Salg,4.413,6,Villa,179,1973,,Aktuel værdi
+Stasigvej 49750 Østervrå,rvrå,1.325.000,17-12-2001,Alm. Salg,8.333,6,Stuehus,159,1910,,
+Langoddevej 179750 Østervrå,rvrå,900.000,12-12-2001,Alm. Salg,-,3,Stuehus,140,1925,,
+Fasanvej 29750 Østervrå,rvrå,525.000,12-12-2001,Alm. Salg,4.952,4,Villa,106,1969,,Aktuel værdi
+Høngårdsvej 279750 Østervrå,rvrå,365.000,12-12-2001,Alm. Salg,3.509,5,Villa,104,1950,,Aktuel værdi
+Vester Gydejevej 69750 Østervrå,rvrå,380.000,18-11-2001,Alm. Salg,2.500,5,Villa,152,1955,,Aktuel værdi
+Møllegade 349750 Østervrå,rvrå,585.000,14-11-2001,Alm. Salg,4.301,3,Villa,136,1932,,Aktuel værdi
+Lendumvej 69750 Østervrå,rvrå,170.000,14-11-2001,Alm. Salg,1.734,4,Villa,98,1924,,Aktuel værdi
+Safirvej 49750 Østervrå,rvrå,510.485,19-10-2001,Alm. Salg,3.272,6,Villa,156,1961,,Aktuel værdi
+Højlundsvej 379750 Østervrå,rvrå,630.000,18-10-2001,Alm. Salg,4.436,5,Villa,142,1973,,Aktuel værdi
+Danebovej 79750 Østervrå,rvrå,250.000,12-09-2001,Alm. Salg,-,7,Villa,199,1966,,Aktuel værdi
+Erantisvej 49750 Østervrå,rvrå,735.000,20-08-2001,Alm. Salg,5.833,4,Villa,126,1915,,Aktuel værdi
+Vangvej 109750 Østervrå,rvrå,1.425.000,24-07-2001,Alm. Salg,7.661,4,Stuehus,186,1927,,
+Lærkevej 59750 Østervrå,rvrå,550.000,28-05-2001,Alm. Salg,-,4,Villa,130,1967,,Aktuel værdi
+Krogsdamvej 229750 Østervrå,rvrå,9.218.000,22-05-2001,Alm. Salg,177.269,2,Villa,52,1914,,Aktuel værdi
+Nørregårdsvej 99750 Østervrå,rvrå,336.000,18-05-2001,Alm. Salg,1.012,6,Villa,332,2006,,Aktuel værdi
+"Liljevej 8B, 1. TV9750 Østervrå",rvrå,133.950,15-05-2001,Alm. Salg,2.575,2,Lejlighed,52,1912,,Aktuel værdi
+Tryvej 969750 Østervrå,rvrå,298.000,13-05-2001,Alm. Salg,2.838,3,Villa,105,1924,,Aktuel værdi
+Lendumvej 89750 Østervrå,rvrå,375.000,30-04-2001,Alm. Salg,2.976,5,Villa,126,1962,,Aktuel værdi
+Blomstervænget 269750 Østervrå,rvrå,1.047.000,18-04-2001,Alm. Salg,-,7,Villa,168,1986,,Aktuel værdi
+"Liljevej 8A, ST9750 Østervrå",rvrå,220.000,18-04-2001,Alm. Salg,2.650,3,Lejlighed,83,1912,,Aktuel værdi
+Bakkevænget 29750 Østervrå,rvrå,210.000,16-04-2001,Alm. Salg,1.288,5,Villa,163,2001,,Aktuel værdi
+Liljevej 79750 Østervrå,rvrå,165.750,04-04-2001,Fam. Salg,1.127,5,Villa,147,1922,,Aktuel værdi
+Hjørringvej 1869750 Østervrå,rvrå,1.000.000,05-03-2001,Alm. Salg,3.278,8,Stuehus,305,1917,,
+Primulavej 39750 Østervrå,rvrå,615.000,25-02-2001,Alm. Salg,4.330,7,Villa,142,1930,,Aktuel værdi
+Vrængmosevej 659750 Østervrå,rvrå,1.400.000,20-02-2001,Fam. Salg,9.271,5,Stuehus,151,1897,,
+Elbækvej 109750 Østervrå,rvrå,24.520,14-02-2001,Alm. Salg,130,6,Stuehus,188,1952,,
+Fældenvej 69750 Østervrå,rvrå,935.000,29-01-2001,Fam. Salg,5.223,5,Stuehus,179,1932,,
+Primulavej 259750 Østervrå,rvrå,520.000,29-01-2001,Fam. Salg,3.333,5,Villa,156,1912,,Aktuel værdi
+Højlundsvej 929750 Østervrå,rvrå,725.000,18-01-2001,Alm. Salg,6.092,4,Villa,119,1983,,Aktuel værdi
+Blomstervænget 329750 Østervrå,rvrå,138.289,15-01-2001,Alm. Salg,1.223,4,Villa,113,2001,,Aktuel værdi
+Elbækvej 69750 Østervrå,rvrå,2.065.612,11-01-2001,Alm. Salg,10.076,6,Stuehus,205,2010,,
+Brøndenvej 699750 Østervrå,rvrå,655.000,04-01-2001,Alm. Salg,5.325,5,Stuehus,123,1880,,
+Brøndenvej 149750 Østervrå,rvrå,675.000,28-12-2000,Alm. Salg,5.400,5,Villa,125,1967,,Aktuel værdi
+Hjørringvej 2619750 Østervrå,rvrå,150.000,13-11-2000,Alm. Salg,1.079,3,Villa,139,1903,,Aktuel værdi
+Krogsdamvej 69750 Østervrå,rvrå,860.000,26-10-2000,Alm. Salg,5.548,4,Stuehus,155,1865,,
+Blomstervænget 219750 Østervrå,rvrå,1.095.000,24-10-2000,Alm. Salg,7.551,5,Villa,145,1986,,Aktuel værdi
+Mimosevej 149750 Østervrå,rvrå,595.000,22-09-2000,Alm. Salg,6.197,5,Villa,96,1965,,Aktuel værdi
+Søholtvej 349750 Østervrå,rvrå,780.000,12-09-2000,Fam. Salg,5.571,5,Villa,140,1900,,Aktuel værdi
+Fjeldgårdsvej 349750 Østervrå,rvrå,640.591,01-09-2000,Alm. Salg,2.669,7,Stuehus,240,1907,,
+Hjørringvej 4589750 Østervrå,rvrå,533.456,01-09-2000,Alm. Salg,3.233,4,Villa,165,1877,,Aktuel værdi
+Blomstervænget 469750 Østervrå,rvrå,850.000,22-08-2000,Alm. Salg,7.657,4,Villa,111,1986,,Aktuel værdi
+Hjørringvej 2679750 Østervrå,rvrå,410.000,15-08-2000,Alm. Salg,2.411,5,Villa,170,1902,,Aktuel værdi
+Hjørringvej 3209750 Østervrå,rvrå,6.125.000,11-08-2000,Alm. Salg,20.416,7,Stuehus,300,1920,,
+Hjørringvej 417A9750 Østervrå,rvrå,432.263,29-07-2000,Alm. Salg,6.003,3,Rækkehus,72,1986,,Aktuel værdi
+Vrængmosevej 499750 Østervrå,rvrå,1.050.000,27-07-2000,Alm. Salg,-,5,Villa,174,1964,,Aktuel værdi
+Blomstervænget 399750 Østervrå,rvrå,124.146,26-07-2000,Alm. Salg,790,4,Villa,157,2001,,Aktuel værdi
+Skarpholtvej 239750 Østervrå,rvrå,2.550.000,21-07-2000,Alm. Salg,13.858,8,Stuehus,184,1944,,
+Blomstervænget 319750 Østervrå,rvrå,119.575,17-07-2000,Alm. Salg,738,5,Villa,162,2001,,Aktuel værdi
+Strømgade 69750 Østervrå,rvrå,410.000,07-07-2000,Alm. Salg,2.928,5,Villa,140,1959,,Aktuel værdi
+Rolighedsvej 59750 Østervrå,rvrå,339.000,29-06-2000,Alm. Salg,3.198,3,Villa,106,1957,,Aktuel værdi
+Møllegade 39750 Østervrå,rvrå,329.000,13-06-2000,Alm. Salg,2.006,4,Villa,164,1946,,Aktuel værdi
+Bakkevænget 179750 Østervrå,rvrå,176.440,07-06-2000,Alm. Salg,1.242,6,Villa,142,2001,,Aktuel værdi
+Hjørringvej 1909750 Østervrå,rvrå,195.000,31-05-2000,Alm. Salg,1.989,3,Villa,98,1887,,Aktuel værdi
+Hjørringvej 2199750 Østervrå,rvrå,234.000,29-05-2000,Alm. Salg,3.342,3,Villa,70,1949,,Aktuel værdi
+Nejsumvej 59750 Østervrå,rvrå,360.000,26-05-2000,Fam. Salg,2.432,4,Villa,148,1952,,Aktuel værdi
+Bakkevænget 69750 Østervrå,rvrå,173.398,12-05-2000,Alm. Salg,907,7,Villa,191,2001,,Aktuel værdi
+Primulavej 89750 Østervrå,rvrå,392.000,01-04-2000,Alm. Salg,4.666,4,Villa,84,1956,,Aktuel værdi
+Fasanvej 69750 Østervrå,rvrå,305.968,09-03-2000,Alm. Salg,1.593,5,Villa,192,1971,,Aktuel værdi
+Vrængmosevej 189750 Østervrå,rvrå,280.000,28-02-2000,Alm. Salg,2.641,5,Villa,106,1947,,Aktuel værdi
+Højlundsvej 219750 Østervrå,rvrå,925.000,22-02-2000,Alm. Salg,6.514,5,Villa,142,1973,,Aktuel værdi
+Ågårdsvej 219750 Østervrå,rvrå,240.000,20-02-2000,Alm. Salg,1.714,5,Stuehus,140,1939,,
+Tryvej 309750 Østervrå,rvrå,610.000,14-02-2000,Fam. Salg,3.388,6,Villa,180,1973,,Aktuel værdi
+Krogsdamvej 59750 Østervrå,rvrå,859.113,06-02-2000,Alm. Salg,4.295,5,Stuehus,200,1916,,
+Koldbromøllevej 219750 Østervrå,rvrå,2.550.000,26-01-2000,Fam. Salg,10.851,7,Stuehus,235,2008,,
+Brøndenvej 41C9750 Østervrå,rvrå,75.000,14-12-1999,Alm. Salg,274,7,Villa,273,2000,,Aktuel værdi
+Rolighedsvej 49750 Østervrå,rvrå,350.000,02-12-1999,Alm. Salg,3.301,3,Villa,106,1960,,Aktuel værdi
+Hjørringvej 2269750 Østervrå,rvrå,325.000,23-11-1999,Alm. Salg,1.805,6,Villa,180,1944,,Aktuel værdi
+Lærkevej 19750 Østervrå,rvrå,532.500,22-11-1999,Alm. Salg,3.287,4,Villa,162,1970,,Aktuel værdi
+Nørkærvej 39750 Østervrå,rvrå,350.000,15-11-1999,Alm. Salg,2.500,5,Villa,140,1922,,Aktuel værdi
+Hjørringvej 4459750 Østervrå,rvrå,250.000,04-11-1999,Alm. Salg,1.937,5,Villa,129,1877,,Aktuel værdi
+Kobberholmvej 69750 Østervrå,rvrå,650.000,26-08-1999,Alm. Salg,4.333,5,Villa,150,1880,,Aktuel værdi
+Høngårdsvej 29750 Østervrå,rvrå,707.130,24-08-1999,Alm. Salg,4.392,6,Villa,161,1919,,Aktuel værdi
+Søholtvej 429750 Østervrå,rvrå,240.000,24-08-1999,Alm. Salg,-,10,Villa,352,1919,,Aktuel værdi
+Hjørringvej 3179750 Østervrå,rvrå,420.000,16-07-1999,Alm. Salg,3.088,4,Villa,136,1928,,Aktuel værdi
+Vrængmosevej 409750 Østervrå,rvrå,740.092,13-07-1999,Alm. Salg,3.289,6,Stuehus,225,1859,,
+Lendumvej 169750 Østervrå,rvrå,373.169,06-07-1999,Alm. Salg,2.376,6,Villa,157,1964,,Aktuel værdi
+Hjørringvej 4759750 Østervrå,rvrå,860.000,02-07-1999,Alm. Salg,-,6,Stuehus,241,1907,,
+Hjørringvej 5369750 Østervrå,rvrå,204.998,30-06-1999,Alm. Salg,1.366,4,Stuehus,150,1942,,
+Møllegade 19750 Østervrå,rvrå,300.000,24-06-1999,Alm. Salg,1.898,5,Villa,158,1902,,Aktuel værdi
+Koldbromøllevej 229750 Østervrå,rvrå,300.000,21-06-1999,Alm. Salg,2.702,1,Stuehus,111,2005,,
+Vangvej 239750 Østervrå,rvrå,800.000,10-06-1999,Alm. Salg,-,4,Stuehus,110,1939,,
+Hjørringvej 2219750 Østervrå,rvrå,750.000,03-06-1999,Alm. Salg,5.000,6,Villa,150,1989,,Aktuel værdi
+Høngårdsvej 79750 Østervrå,rvrå,210.000,25-05-1999,Alm. Salg,-,4,Villa,130,1936,,Aktuel værdi
+Højlundsvej 679750 Østervrå,rvrå,950.000,12-05-1999,Alm. Salg,3.877,7,Villa,245,1975,,Aktuel værdi
+Bredgade 259750 Østervrå,rvrå,500.000,06-05-1999,Alm. Salg,3.787,4,Villa,132,1973,,Aktuel værdi
+Søndergårdsvej 189750 Østervrå,rvrå,500.000,21-04-1999,Alm. Salg,4.237,4,Villa,118,1969,,Aktuel værdi
+Vibevej 89750 Østervrå,rvrå,675.000,21-04-1999,Alm. Salg,4.041,4,Villa,167,1974,,Aktuel værdi
+Tryvej 1359750 Østervrå,rvrå,49.675,19-04-1999,Fam. Salg,331,4,Villa,150,1951,,Aktuel værdi
+Horshavevej 69750 Østervrå,rvrå,957.000,26-03-1999,Alm. Salg,3.000,9,Stuehus,319,1907,,
+Skarpholtvej 49750 Østervrå,rvrå,660.000,19-03-1999,Alm. Salg,4.370,7,Stuehus,151,1877,,
+Bredgade 279750 Østervrå,rvrå,1.133.000,04-03-1999,Alm. Salg,4.701,7,Villa,241,1973,,Aktuel værdi
+Vangvej 279750 Østervrå,rvrå,1.010.000,24-02-1999,Alm. Salg,6.312,6,Stuehus,160,1962,,
+Søholtvej 309750 Østervrå,rvrå,691.427,22-02-1999,Alm. Salg,4.609,8,Stuehus,150,1890,,
+Vrængmosevej 289750 Østervrå,rvrå,570.000,04-02-1999,Alm. Salg,-,5,Villa,137,1963,,Aktuel værdi
+Lendumvej 49750 Østervrå,rvrå,140.000,03-02-1999,Alm. Salg,580,8,Villa,241,1925,,Aktuel værdi
+Hjørringvej 2249750 Østervrå,rvrå,308.000,20-01-1999,Alm. Salg,2.825,4,Villa,109,1935,,Aktuel værdi
+Hjørringvej 4339750 Østervrå,rvrå,1.137.500,22-12-1998,Alm. Salg,5.416,17,Detailhandel,210,1937,,Aktuel værdi
+Brøndenvej 129750 Østervrå,rvrå,550.000,12-12-1998,Alm. Salg,3.793,4,Villa,145,1967,,Aktuel værdi
+Tryvej 1289750 Østervrå,rvrå,116.657,25-11-1998,Alm. Salg,1.132,5,Villa,103,1930,,Aktuel værdi
+Langoddevej 69750 Østervrå,rvrå,205.000,25-11-1998,Andet,1.178,5,Villa,174,1950,,Aktuel værdi
+Bakkevænget 79750 Østervrå,rvrå,179.170,16-11-1998,Alm. Salg,1.060,4,Villa,169,2000,,Aktuel værdi
+Bakkevænget 99750 Østervrå,rvrå,173.164,16-11-1998,Alm. Salg,1.075,5,Villa,161,1999,,Aktuel værdi
+Kirkevej 319750 Østervrå,rvrå,287.054,26-10-1998,Fam. Salg,1.594,4,Stuehus,180,1900,,
+Fjeldgårdsvej 59750 Østervrå,rvrå,350.000,15-10-1998,Alm. Salg,2.380,5,Stuehus,147,1999,,
+Hjørringvej 4899750 Østervrå,rvrå,684.000,29-09-1998,Alm. Salg,4.000,5,Stuehus,171,1937,,
+Møllegade 249750 Østervrå,rvrå,378.789,23-09-1998,Alm. Salg,-,3,Villa,165,1928,,Aktuel værdi
+Vester Gydejevej 99750 Østervrå,rvrå,840.000,28-07-1998,Alm. Salg,7.500,5,Stuehus,112,1950,,
+Nørkærvej 59750 Østervrå,rvrå,397.000,17-07-1998,Alm. Salg,3.308,5,Villa,120,1935,,Aktuel værdi
+Kolonihavevej 49750 Østervrå,rvrå,400.000,13-06-1998,Alm. Salg,4.166,3,Villa,96,1958,,Aktuel værdi
+Blomstervænget 429750 Østervrå,rvrå,1.237.000,08-06-1998,Alm. Salg,7.191,6,Villa,172,1990,,Aktuel værdi
+Hjørringvej 2659750 Østervrå,rvrå,75.000,28-05-1998,Alm. Salg,396,4,Villa,189,1900,,Aktuel værdi
+Højlundsvej 329750 Østervrå,rvrå,923.000,16-05-1998,Alm. Salg,4.195,6,Villa,220,1976,,Aktuel værdi
+Hjørringvej 4029750 Østervrå,rvrå,301.875,14-05-1998,Alm. Salg,4.312,3,Villa,70,1952,,Aktuel værdi
+Høngårdsvej 179750 Østervrå,rvrå,336.000,11-05-1998,Alm. Salg,3.733,2,Villa,90,1955,,Aktuel værdi
+Stadionvej 29750 Østervrå,rvrå,281.500,31-03-1998,Alm. Salg,3.804,3,Villa,74,1937,,Aktuel værdi
+Mimosevej 109750 Østervrå,rvrå,439.464,26-03-1998,Alm. Salg,3.010,6,Villa,146,1827,,Aktuel værdi
+Tryvej 889750 Østervrå,rvrå,30.000,18-03-1998,Auktion,389,3,Villa,77,1895,,Aktuel værdi
+Brøndenvej 579750 Østervrå,rvrå,484.500,11-03-1998,Fam. Salg,4.404,4,Stuehus,110,1881,,
+Liljevej 49750 Østervrå,rvrå,660.000,21-11-1997,Alm. Salg,3.666,6,Villa,180,1923,,Aktuel værdi
+Høngårdsvej 159750 Østervrå,rvrå,475.000,30-10-1997,Alm. Salg,3.958,6,Villa,120,1950,,Aktuel værdi
+Ormholtvej 69750 Østervrå,rvrå,64.325,29-10-1997,Alm. Salg,536,4,Stuehus,120,1827,,
+Brønderslevvej 2839750 Østervrå,rvrå,94.253,29-10-1997,Alm. Salg,693,4,Stuehus,136,1900,,
+Ormholtvej 279750 Østervrå,rvrå,236.000,21-08-1997,Alm. Salg,1.661,4,Villa,142,1900,,Aktuel værdi
+Hjørringvej 3319750 Østervrå,rvrå,65.000,21-08-1997,Alm. Salg,-,5,Stuehus,140,1939,,
+Hjørringvej 5219750 Østervrå,rvrå,755.000,15-08-1997,Alm. Salg,2.949,8,Stuehus,256,1928,,
+Vrængmosevej 229750 Østervrå,rvrå,165.000,13-08-1997,Alm. Salg,1.736,3,Villa,95,1960,,Aktuel værdi
+Langoddevej 139750 Østervrå,rvrå,442.000,07-08-1997,Alm. Salg,-,4,Villa,158,1877,,Aktuel værdi
+Strømgade 199750 Østervrå,rvrå,335.000,29-07-1997,Alm. Salg,2.791,4,Villa,120,1960,,Aktuel værdi
+Blomstervænget 589750 Østervrå,rvrå,114.615,29-07-1997,Alm. Salg,749,5,Villa,153,1998,,Aktuel værdi
+Brøndenvej 189750 Østervrå,rvrå,492.000,18-06-1997,Alm. Salg,3.346,4,Villa,147,1977,,Aktuel værdi
+Tryvej 1049750 Østervrå,rvrå,297.500,16-06-1997,Alm. Salg,-,5,Villa,161,1907,,Aktuel værdi
+Hjørringvej 4379750 Østervrå,rvrå,535.000,13-06-1997,Alm. Salg,3.302,10,Industri o.l.,162,1998,,Aktuel værdi
+Brøndenvej 749750 Østervrå,rvrå,263.812,28-05-1997,Alm. Salg,2.144,4,Stuehus,123,1938,,
+Søhedenvej 1919750 Østervrå,rvrå,975.000,06-05-1997,Alm. Salg,4.276,9,Stuehus,228,1920,,
+Vibevej 99750 Østervrå,rvrå,735.000,17-04-1997,Alm. Salg,4.083,5,Villa,180,1972,,Aktuel værdi
+Højlundsvej 289750 Østervrå,rvrå,695.000,26-03-1997,Alm. Salg,4.017,6,Villa,173,1978,,Aktuel værdi
+Bredgade 21A9750 Østervrå,rvrå,400.000,20-03-1997,Alm. Salg,5.555,3,Rækkehus,72,1986,,Aktuel værdi
+Koldbromøllevej 179750 Østervrå,rvrå,630.000,15-03-1997,Alm. Salg,-,6,Stuehus,187,1941,,
+Fasanvej 39750 Østervrå,rvrå,775.000,05-03-1997,Alm. Salg,3.522,9,Villa,220,1972,,Aktuel værdi
+Lendumvej 929750 Østervrå,rvrå,400.000,26-02-1997,Alm. Salg,3.636,5,Villa,110,1908,,Aktuel værdi
+Gjersholtvej 189750 Østervrå,rvrå,503.000,19-01-1997,Alm. Salg,3.143,6,Villa,160,1980,,Aktuel værdi
+Brøndenvej 41A9750 Østervrå,rvrå,629.000,09-12-1996,Alm. Salg,2.808,7,Villa,224,1930,,Aktuel værdi
+Blomstervænget 279750 Østervrå,rvrå,964.000,07-11-1996,Alm. Salg,-,6,Villa,144,1986,,Aktuel værdi
+Hjørringvej 4069750 Østervrå,rvrå,1.049.000,07-11-1996,Alm. Salg,4.948,6,Villa,212,1977,,Aktuel værdi
+Bjergetsvej 219750 Østervrå,rvrå,658.000,06-11-1996,Alm. Salg,3.635,7,Stuehus,181,1875,,
+Fjeldgårdsvej 219750 Østervrå,rvrå,751.812,05-11-1996,Alm. Salg,3.936,5,Stuehus,191,1938,,
+Møllegade 169750 Østervrå,rvrå,297.000,02-11-1996,Alm. Salg,-,6,Villa,145,1943,,Aktuel værdi
+Tryvej 719750 Østervrå,rvrå,494.140,30-10-1996,Alm. Salg,3.660,3,Stuehus,135,1980,,
+Møllegade 189750 Østervrå,rvrå,359.000,21-10-1996,Alm. Salg,-,5,Villa,112,1937,,Aktuel værdi
+Kobberholmvej 249750 Østervrå,rvrå,467.000,01-10-1996,Alm. Salg,4.324,3,Stuehus,108,1960,,
+Brøndenvej 89750 Østervrå,rvrå,395.000,08-09-1996,Alm. Salg,4.759,3,Rækkehus,83,1981,,Aktuel værdi
+Danebovej 49750 Østervrå,rvrå,250.000,14-08-1996,Alm. Salg,2.232,4,Villa,112,1940,,Aktuel værdi
+Hjørringvej 2549750 Østervrå,rvrå,205.000,02-08-1996,Alm. Salg,1.114,9,Villa,184,1947,,Aktuel værdi
+Hjørringvej 4629750 Østervrå,rvrå,200.000,01-07-1996,Alm. Salg,2.040,3,Villa,98,1877,,Aktuel værdi
+Lendumvej 109750 Østervrå,rvrå,250.000,22-05-1996,Alm. Salg,-,2,Villa,81,1915,,Aktuel værdi
+Hjørringvej 3059750 Østervrå,rvrå,48.524,20-05-1996,Alm. Salg,485,3,Stuehus,100,1910,,
+Hjørringvej 2869750 Østervrå,rvrå,1.700.000,15-05-1996,Alm. Salg,9.444,8,Stuehus,180,1902,,
+Hjørringvej 5129750 Østervrå,rvrå,612.500,15-05-1996,Alm. Salg,3.109,9,Stuehus,197,1965,,
+Hjørringvej 4669750 Østervrå,rvrå,240.000,19-04-1996,Alm. Salg,-,7,Villa,145,1902,,Aktuel værdi
+Søholtvej 689750 Østervrå,rvrå,2.800.000,21-03-1996,Fam. Salg,14.070,7,Stuehus,199,1900,,
+Fredensvej 39750 Østervrå,rvrå,460.000,19-03-1996,Alm. Salg,3.801,3,Villa,121,1925,,Aktuel værdi
+Fjeldgårdsvej 179750 Østervrå,rvrå,255.000,15-03-1996,Alm. Salg,-,6,Stuehus,142,1912,,
+Lendumvej 379750 Østervrå,rvrå,505.000,05-03-1996,Fam. Salg,3.098,3,Stuehus,163,1880,,
+Hjørringvej 2029750 Østervrå,rvrå,320.000,05-03-1996,Fam. Salg,2.689,3,Villa,119,1950,,Aktuel værdi
+Høngårdsvej 23A9750 Østervrå,rvrå,365.000,22-02-1996,Fam. Salg,3.041,4,Villa,120,1962,,Aktuel værdi
+Blomstervænget 379750 Østervrå,rvrå,113.837,08-02-1996,Alm. Salg,875,7,Villa,130,1996,,Aktuel værdi
+Brønderslevvej 2609750 Østervrå,rvrå,750.000,03-02-1996,Alm. Salg,5.395,3,Stuehus,139,1974,,
+Begonievej 49750 Østervrå,rvrå,430.000,25-01-1996,Alm. Salg,3.233,3,Villa,133,1958,,Aktuel værdi
+Vester Gydejevej 59750 Østervrå,rvrå,580.000,13-01-1996,Alm. Salg,3.258,4,Stuehus,178,1950,,
+Stadionvej 99750 Østervrå,rvrå,195.000,12-12-1995,Alm. Salg,1.788,4,Villa,109,1958,,Aktuel værdi
+Brinken 59750 Østervrå,rvrå,925.000,14-11-1995,Alm. Salg,5.891,4,Villa,157,2009,,Aktuel værdi
+Stasigvej 119750 Østervrå,rvrå,695.000,12-11-1995,Alm. Salg,3.657,6,Stuehus,190,2016,,
+Brønderslevvej 2569750 Østervrå,rvrå,950.000,11-11-1995,Alm. Salg,4.871,4,Stuehus,195,1971,,
+Høngårdsvej 129750 Østervrå,rvrå,190.000,08-11-1995,Alm. Salg,-,5,Villa,105,1947,,Aktuel værdi
+Donskovvej 109750 Østervrå,rvrå,355.000,30-10-1995,Alm. Salg,3.349,4,Villa,106,1915,,Aktuel værdi
+Mellergårdsvej 89750 Østervrå,rvrå,675.000,11-10-1995,Alm. Salg,3.729,6,Villa,181,1979,,Aktuel værdi
+Ormholtvej 149750 Østervrå,rvrå,126.000,22-09-1995,Alm. Salg,2.625,2,Sommerhus,48,1877,,Aktuel værdi
+Hjørringvej 4939750 Østervrå,rvrå,275.000,19-09-1995,Alm. Salg,-,5,Villa,171,1930,,Aktuel værdi
+Erantisvej 119750 Østervrå,rvrå,267.000,18-09-1995,Alm. Salg,-,6,Villa,158,1942,,Aktuel værdi
+Gjersholtvej 59750 Østervrå,rvrå,453.966,15-09-1995,Alm. Salg,4.407,3,Stuehus,103,1930,,
+Oustrupmøllevej 1169750 Østervrå,rvrå,440.000,15-09-1995,Alm. Salg,1.888,4,Villa,233,2016,,Aktuel værdi
+Højlundsvej 469750 Østervrå,rvrå,624.000,18-08-1995,Alm. Salg,4.000,4,Villa,156,1978,,Aktuel værdi
+Gydejevej 109750 Østervrå,rvrå,4.300.000,05-08-1995,Fam. Salg,21.938,8,Stuehus,196,1875,,
+Nellikevej 119750 Østervrå,rvrå,508.000,23-07-1995,Alm. Salg,3.320,4,Villa,153,1971,,Aktuel værdi
+Strømgade 2C9750 Østervrå,rvrå,399.700,11-07-1995,Alm. Salg,4.996,3,Rækkehus,80,1988,,Aktuel værdi
+Højbjergvej 69750 Østervrå,rvrå,2.150.000,06-07-1995,Alm. Salg,14.930,5,Stuehus,144,2007,,
+Bjergetsvej 189750 Østervrå,rvrå,350.000,26-06-1995,Alm. Salg,2.000,7,Stuehus,175,1960,,
+Brøndenvej 1049750 Østervrå,rvrå,500.000,20-06-1995,Alm. Salg,3.571,4,Villa,140,1936,,Aktuel værdi
+Brønderslevvej 2419750 Østervrå,rvrå,6.335.000,15-06-1995,Alm. Salg,26.395,6,Stuehus,240,1877,,
+Safirvej 39750 Østervrå,rvrå,140.000,02-05-1995,Alm. Salg,1.609,3,Villa,87,1933,,Aktuel værdi
+Søhedenvej 1199750 Østervrå,rvrå,2.000.000,01-05-1995,Alm. Salg,8.620,6,Stuehus,232,1981,,
+Søndergårdsvej 39750 Østervrå,rvrå,690.000,28-04-1995,Alm. Salg,3.432,4,Lejlighed,201,1972,,Aktuel værdi
+Nellikevej 189750 Østervrå,rvrå,515.000,27-04-1995,Alm. Salg,3.576,5,Villa,144,1972,,Aktuel værdi
+Lystagervej 49750 Østervrå,rvrå,209.484,05-04-1995,Alm. Salg,1.342,5,Villa,156,1922,,Aktuel værdi
+Tryvej 1149750 Østervrå,rvrå,160.000,03-04-1995,Alm. Salg,-,5,Villa,160,1897,,Aktuel værdi
+Søhedenvej 809750 Østervrå,rvrå,325.000,30-03-1995,Alm. Salg,3.217,4,Villa,101,1930,,Aktuel værdi
+Horshavevej 79750 Østervrå,rvrå,1.200.000,10-03-1995,Fam. Salg,9.375,3,Stuehus,128,1877,,
+Højlundsvej 199750 Østervrå,rvrå,660.000,25-02-1995,Alm. Salg,-,6,Villa,157,1973,,Aktuel værdi
+Hjørringvej 2279750 Østervrå,rvrå,140.000,20-01-1995,Alm. Salg,-,3,Villa,98,1916,,Aktuel værdi
+Langoddevej 379750 Østervrå,rvrå,850.000,12-11-1994,Alm. Salg,3.794,6,Villa,224,1951,,Aktuel værdi
+Højlundsvej 419750 Østervrå,rvrå,451.000,22-10-1994,Alm. Salg,-,6,Villa,224,1973,,Aktuel værdi
+Hjørringvej 5179750 Østervrå,rvrå,340.000,16-09-1994,Alm. Salg,1.619,5,Villa,210,2002,,Aktuel værdi
+Mølbakvej 59750 Østervrå,rvrå,839.686,29-08-1994,Alm. Salg,4.798,6,Stuehus,175,1937,,
+Brønderslevvej 2959750 Østervrå,rvrå,1.800.000,25-08-1994,Fam. Salg,9.625,6,Stuehus,187,1920,,
+Brønderslevvej 2909750 Østervrå,rvrå,330.000,25-08-1994,Fam. Salg,2.773,3,Villa,119,1861,,Aktuel værdi
+Højstrupvej 89750 Østervrå,rvrå,425.000,14-06-1994,Fam. Salg,-,5,Stuehus,174,1936,,
+Ormholtvej 269750 Østervrå,rvrå,200.000,14-06-1994,Alm. Salg,1.183,7,Villa,169,1827,,Aktuel værdi
+Tryvej 109750 Østervrå,rvrå,438.000,12-06-1994,Alm. Salg,2.179,7,Villa,201,1965,,Aktuel værdi
+Rishøjvej 59750 Østervrå,rvrå,1.200.000,03-06-1994,Fam. Salg,-,5,Stuehus,212,1898,,
+Perlevej 79750 Østervrå,rvrå,590.000,08-05-1994,Alm. Salg,3.470,5,Villa,170,1976,,Aktuel værdi
+Tryvej 1759750 Østervrå,rvrå,100.000,24-03-1994,Alm. Salg,1.388,2,Villa,72,1900,,Aktuel værdi
+Blomstervænget 709750 Østervrå,rvrå,125.000,21-03-1994,Alm. Salg,-,7,Villa,191,1994,,Aktuel værdi
+Højlundsvej 579750 Østervrå,rvrå,336.500,15-03-1994,Alm. Salg,-,3,Villa,103,1974,,Aktuel værdi
+Stadionvej 59750 Østervrå,rvrå,310.000,14-03-1994,Alm. Salg,2.719,4,Villa,114,1966,,Aktuel værdi
+Nørre Alle 59750 Østervrå,rvrå,370.000,01-02-1994,Fam. Salg,-,4,Villa,149,1965,,Aktuel værdi
+Tryvej 1199750 Østervrå,rvrå,52.065,19-01-1994,Fam. Salg,-,5,Villa,95,1887,,Aktuel værdi
+Højlundsvej 159750 Østervrå,rvrå,500.000,25-11-1993,Fam. Salg,3.205,5,Villa,156,1973,,Aktuel værdi
+Høngårdsvej 119750 Østervrå,rvrå,120.000,19-11-1993,Alm. Salg,952,4,Villa,126,1945,,Aktuel værdi
+Koldbromøllevej 309750 Østervrå,rvrå,1.710.000,18-11-1993,Alm. Salg,9.344,5,Stuehus,183,1877,,
+Perlevej 59750 Østervrå,rvrå,410.000,18-11-1993,Alm. Salg,-,5,Villa,145,1976,,Aktuel værdi
+Højlundsvej 129750 Østervrå,rvrå,560.000,15-11-1993,Alm. Salg,-,6,Villa,187,1979,,Aktuel værdi
+Brønderslevvej 2859750 Østervrå,rvrå,920.000,31-10-1993,Alm. Salg,-,7,Stuehus,230,1928,,
+Hjørringvej 4159750 Østervrå,rvrå,500.000,30-09-1993,Alm. Salg,2.252,7,Villa,222,1895,,Aktuel værdi
+Lendumvej 139750 Østervrå,rvrå,155.000,12-08-1993,Auktion,-,5,Villa,104,1930,,Aktuel værdi
+Lendumvej 859750 Østervrå,rvrå,350.000,07-08-1993,Alm. Salg,2.822,5,Villa,124,1927,,Aktuel værdi
+Højlundsvej 639750 Østervrå,rvrå,414.420,24-05-1993,Fam. Salg,2.240,5,Villa,185,1976,,Aktuel værdi
+Hjørringvej 5239750 Østervrå,rvrå,430.000,18-05-1993,Alm. Salg,-,5,Villa,182,1850,,Aktuel værdi
+Høngårdsvej 69750 Østervrå,rvrå,320.000,10-05-1993,Alm. Salg,2.285,7,Villa,140,1930,,Aktuel værdi
+Brønderslevvej 2689750 Østervrå,rvrå,360.000,28-04-1993,Alm. Salg,4.137,2,Stuehus,87,1850,,
+Tryvej 819750 Østervrå,rvrå,582.000,21-04-1993,Auktion,-,7,Stuehus,175,1953,,
+Nellikevej 129750 Østervrå,rvrå,232.500,24-03-1993,Alm. Salg,4.305,2,Villa,54,1938,,Aktuel værdi
+Liljevej 39750 Østervrå,rvrå,290.000,23-03-1993,Alm. Salg,2.761,3,Villa,105,1936,,Aktuel værdi
+Nymøllevej 129750 Østervrå,rvrå,2.243.902,08-03-1993,Fam. Salg,8.975,7,Stuehus,250,1962,,
+Fjeldgårdsvej 99750 Østervrå,rvrå,613.113,05-02-1993,Alm. Salg,3.606,5,Stuehus,170,1965,,
+Blomstervænget 459750 Østervrå,rvrå,500.000,25-01-1993,Alm. Salg,4.347,4,Villa,115,1988,,Aktuel værdi
+Søndergårdsvej 149750 Østervrå,rvrå,285.000,25-01-1993,Alm. Salg,1.815,3,Villa,157,1970,,Aktuel værdi
+Rubinvej 69750 Østervrå,rvrå,213.666,18-01-1993,Alm. Salg,1.515,5,Villa,141,1980,,Aktuel værdi
+Strømgade 79750 Østervrå,rvrå,178.500,13-01-1993,Fam. Salg,-,3,Villa,167,1954,,Aktuel værdi
+Hjørringvej 5359750 Østervrå,rvrå,225.000,20-11-1992,Alm. Salg,-,5,Stuehus,220,1940,,
+Brinken 129750 Østervrå,rvrå,885.000,19-11-1992,Alm. Salg,5.822,5,Villa,152,1987,,Aktuel værdi
+Mimosevej 99750 Østervrå,rvrå,135.100,03-11-1992,Alm. Salg,2.078,3,Villa,65,1956,,Aktuel værdi
+Brøndenvej 439750 Østervrå,rvrå,795.000,28-10-1992,Alm. Salg,-,5,Villa,139,1987,,Aktuel værdi
+Hjørringvej 2129750 Østervrå,rvrå,195.000,20-10-1992,Alm. Salg,2.468,3,Villa,79,1952,,Aktuel værdi
+Søhedenvej 1929750 Østervrå,rvrå,252.500,06-10-1992,Alm. Salg,1.213,9,Villa,208,1900,,Aktuel værdi
+Møllegade 89750 Østervrå,rvrå,310.000,01-10-1992,Alm. Salg,-,4,Villa,134,1948,,Aktuel værdi
+Hjørringvej 4189750 Østervrå,rvrå,170.000,23-09-1992,Fam. Salg,1.545,4,Villa,110,1906,,Aktuel værdi
+Hyllestedvej 109750 Østervrå,rvrå,450.000,17-07-1992,Fam. Salg,2.571,4,Stuehus,175,1900,,
+Hjørringvej 3349750 Østervrå,rvrå,225.000,29-06-1992,Andet,1.814,3,Villa,124,1973,,Aktuel værdi
+Nødbakvej 59750 Østervrå,rvrå,400.000,26-06-1992,Alm. Salg,3.030,4,Villa,132,1940,,Aktuel værdi
+Tryvej 89750 Østervrå,rvrå,320.000,21-05-1992,Alm. Salg,2.909,4,Villa,110,1964,,Aktuel værdi
+Søndergårdsvej 209750 Østervrå,rvrå,450.000,05-05-1992,Alm. Salg,3.284,5,Villa,137,1972,,Aktuel værdi
+Kobbervænget 59750 Østervrå,rvrå,450.000,05-05-1992,Alm. Salg,3.515,4,Villa,128,1973,,Aktuel værdi

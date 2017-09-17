@@ -1,0 +1,1330 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Holbergsvej 364293 Dianalund,lund,600.000,07-05-2017,Alm. Salg,6.451,4,Villa,93,1962,-14 %,Aktuel værdi
+Kærvej 124293 Dianalund,lund,1.000.000,29-04-2017,Alm. Salg,12.987,3,Villa,77,1974,-9 %,Aktuel værdi
+Skovbrynet 1A4293 Dianalund,lund,509.400,28-04-2017,Fam. Salg,4.075,4,Villa,125,1974,,Aktuel værdi
+Sverigesvej 84293 Dianalund,lund,2.935.000,21-04-2017,Alm. Salg,12.489,7,Villa,235,2008,-5 %,Aktuel værdi
+Lundtoftevej 454293 Dianalund,lund,960.000,29-03-2017,Alm. Salg,7.804,4,Villa,123,1971,-4 %,Aktuel værdi
+Kongstedvej 294293 Dianalund,lund,600.000,29-03-2017,Alm. Salg,4.687,4,Villa,128,1800,-14 %,Aktuel værdi
+Nybovej 44293 Dianalund,lund,600.000,27-03-2017,Alm. Salg,6.250,3,Villa,96,1929,-8 %,Aktuel værdi
+Øllemosen 24293 Dianalund,lund,2.550.000,20-03-2017,Alm. Salg,10.580,8,Stuehus,241,1996,,
+Skellebjergvej 354293 Dianalund,lund,650.000,16-03-2017,Alm. Salg,4.642,5,Villa,140,1929,-6 %,Aktuel værdi
+Holmevejen 64293 Dianalund,lund,1.650.000,11-03-2017,Alm. Salg,10.645,4,Stuehus,155,1860,-28 %,
+Lårupvej 354293 Dianalund,lund,375.000,08-03-2017,Fam. Salg,4.464,2,Villa,84,1971,,Aktuel værdi
+Verupvej 504293 Dianalund,lund,550.000,08-03-2017,Alm. Salg,6.321,4,Villa,87,1917,-8 %,Aktuel værdi
+Rosenvej 3C4293 Dianalund,lund,1.375.000,27-02-2017,Alm. Salg,9.892,4,Villa,139,1973,-5 %,Aktuel værdi
+Norgesvej 74293 Dianalund,lund,1.885.000,26-02-2017,Alm. Salg,8.976,5,Villa,210,1980,,Aktuel værdi
+Norgesvej 154293 Dianalund,lund,750.000,23-02-2017,Alm. Salg,5.597,4,Villa,134,1980,,Aktuel værdi
+Agervænget 204293 Dianalund,lund,190.066,12-02-2017,Alm. Salg,1.310,5,Villa,145,1979,,Aktuel værdi
+Skellebjergvej 244293 Dianalund,lund,995.000,01-02-2017,Alm. Salg,9.851,3,Villa,101,1902,0 %,Aktuel værdi
+Niels Klims Vej 104293 Dianalund,lund,865.000,31-01-2017,Alm. Salg,6.407,4,Villa,135,1977,-3 %,Aktuel værdi
+Mågevej 54293 Dianalund,lund,1.245.000,24-01-2017,Alm. Salg,8.586,4,Villa,145,1970,0 %,Aktuel værdi
+Niels Klims Vej 214293 Dianalund,lund,1.425.000,16-01-2017,Alm. Salg,10.251,4,Villa,139,1978,-2 %,Aktuel værdi
+Holbergsvej 1314293 Dianalund,lund,2.550.000,06-01-2017,Andet,29.310,4,Villa,87,1955,,Aktuel værdi
+Blomstervænget 374293 Dianalund,lund,625.000,05-01-2017,Alm. Salg,5.341,4,Villa,117,1964,-17 %,Aktuel værdi
+Vildmosevej 154293 Dianalund,lund,3.125.000,21-12-2016,Alm. Salg,21.701,5,Stuehus,144,1938,-13 %,
+Verupvej 84293 Dianalund,lund,1.750.000,11-12-2016,Alm. Salg,15.350,5,Stuehus,114,1777,,
+Parkvej 394293 Dianalund,lund,950.000,24-11-2016,Alm. Salg,5.654,4,Villa,168,1972,-13 %,Aktuel værdi
+Gammelgang 44293 Dianalund,lund,140.000,17-11-2016,Alm. Salg,740,5,Villa,189,1917,-89 %,Aktuel værdi
+Karsholtevej 514293 Dianalund,lund,320.523,11-11-2016,Fam. Salg,3.081,4,Villa,104,1937,,Aktuel værdi
+Bøgevænget 314293 Dianalund,lund,1.200.000,11-11-2016,Alm. Salg,9.448,3,Villa,127,1973,-7 %,Aktuel værdi
+Rugvænget 194293 Dianalund,lund,970.000,02-11-2016,Alm. Salg,6.689,4,Villa,145,1981,-3 %,Aktuel værdi
+Kragerupvej 34293 Dianalund,lund,795.000,02-11-2016,Alm. Salg,9.937,4,Villa,80,1900,0 %,Aktuel værdi
+Rønnebærvej 24293 Dianalund,lund,800.000,28-10-2016,Alm. Salg,3.864,7,Villa,207,1935,-20 %,Aktuel værdi
+Nybovej 14293 Dianalund,lund,1.280.000,26-10-2016,Alm. Salg,11.327,4,Villa,113,1930,-1 %,Aktuel værdi
+Fyrrevænget 134293 Dianalund,lund,500.000,19-10-2016,Alm. Salg,3.623,4,Villa,138,1973,-37 %,Aktuel værdi
+Enggårdsvej 24293 Dianalund,lund,1.275.000,19-10-2016,Alm. Salg,10.537,6,Villa,121,1878,-2 %,Aktuel værdi
+Mosaikvej 14293 Dianalund,lund,2.990.000,14-10-2016,Andet,15.492,5,Villa,193,2006,,Aktuel værdi
+Reliefvej 34293 Dianalund,lund,3.507.922,14-10-2016,Andet,17.806,5,Villa,197,2012,,Aktuel værdi
+Holbergsvej 224293 Dianalund,lund,675.000,04-10-2016,Alm. Salg,3.199,9,Villa,211,1935,-3 %,Aktuel værdi
+Bygaden 154293 Dianalund,lund,900.000,26-09-2016,Alm. Salg,6.818,4,Villa,132,1974,-3 %,Aktuel værdi
+Karsholtevej 144293 Dianalund,lund,950.000,24-09-2016,Alm. Salg,13.194,3,Villa,72,1949,-3 %,Aktuel værdi
+Sølvagerparken 114293 Dianalund,lund,1.495.000,12-09-2016,Alm. Salg,15.412,3,Villa,97,2008,0 %,Aktuel værdi
+Banevænget 64293 Dianalund,lund,1.333.333,27-08-2016,Alm. Salg,12.121,4,Villa,110,1959,0 %,Aktuel værdi
+Svinget 64293 Dianalund,lund,845.000,26-08-2016,Alm. Salg,5.522,6,Villa,153,1963,-6 %,Aktuel værdi
+Fyrrevænget 304293 Dianalund,lund,892.500,11-08-2016,Fam. Salg,6.660,5,Villa,134,1975,,Aktuel værdi
+Sømosevej 44293 Dianalund,lund,1.043.418,03-08-2016,Fam. Salg,7.729,6,Villa,135,1935,,Aktuel værdi
+Præsteskov 44293 Dianalund,lund,594.078,28-07-2016,Alm. Salg,4.336,4,Villa,137,1878,,Aktuel værdi
+Mågevej 404293 Dianalund,lund,850.000,15-07-2016,Alm. Salg,6.343,6,Villa,134,1975,,Aktuel værdi
+Nordvænget 74293 Dianalund,lund,695.000,14-07-2016,Alm. Salg,6.261,4,Villa,111,1968,0 %,Aktuel værdi
+Færøvej 534293 Dianalund,lund,265.000,14-07-2016,Alm. Salg,1.558,4,Villa,170,2017,,Aktuel værdi
+Fyrrevænget 314293 Dianalund,lund,1.405.000,29-06-2016,Alm. Salg,9.894,4,Villa,142,1976,-3 %,Aktuel værdi
+Skellebjergvej 334293 Dianalund,lund,750.000,26-06-2016,Alm. Salg,5.208,5,Villa,144,1925,-3 %,Aktuel værdi
+Pernillesvej 124293 Dianalund,lund,1.535.000,21-06-2016,Alm. Salg,9.715,4,Villa,158,1978,-2 %,Aktuel værdi
+Sorøvej 694293 Dianalund,lund,750.000,08-06-2016,Fam. Salg,5.769,3,Villa,130,1893,-54 %,Aktuel værdi
+Pernillesvej 174293 Dianalund,lund,1.900.000,19-05-2016,Alm. Salg,8.675,7,Villa,219,1976,-5 %,Aktuel værdi
+Banevej 74293 Dianalund,lund,700.000,18-05-2016,Alm. Salg,3.301,5,Villa,212,1900,-15 %,Aktuel værdi
+Holbergsvej 1004293 Dianalund,lund,950.000,11-05-2016,Alm. Salg,7.421,6,Villa,128,1917,-5 %,Aktuel værdi
+Karsholtevej 434293 Dianalund,lund,900.000,07-05-2016,Alm. Salg,7.258,4,Villa,124,1961,-5 %,Aktuel værdi
+Niels Klims Vej 114293 Dianalund,lund,750.000,07-05-2016,Alm. Salg,6.097,4,Villa,123,1978,-16 %,Aktuel værdi
+Kragebrovej 154293 Dianalund,lund,355.000,02-05-2016,Alm. Salg,5.461,3,Villa,65,1900,-4 %,Aktuel værdi
+Møllevænget 134293 Dianalund,lund,1.400.000,18-04-2016,Alm. Salg,9.395,5,Villa,149,1973,0 %,Aktuel værdi
+Merbjergvej 14293 Dianalund,lund,610.000,11-04-2016,Alm. Salg,8.970,3,Villa,68,1888,-12 %,Aktuel værdi
+Holbergsvej 434293 Dianalund,lund,1.150.000,03-04-2016,Alm. Salg,11.500,5,Rækkehus,100,1952,-4 %,Aktuel værdi
+Færøvej 14293 Dianalund,lund,2.000.000,02-04-2016,Alm. Salg,13.513,6,Villa,148,2006,-5 %,Aktuel værdi
+Kildemosevej 34293 Dianalund,lund,675.000,01-04-2016,Alm. Salg,6.081,3,Villa,111,1966,-10 %,Aktuel værdi
+Gammelgang 104293 Dianalund,lund,12.658.000,31-03-2016,Andet,59.707,10,Stuehus,212,1910,,
+Herrestrupvej 154293 Dianalund,lund,725.000,30-03-2016,Alm. Salg,2.465,8,Villa,294,1928,-9 %,Aktuel værdi
+Sverigesvej 254293 Dianalund,lund,1.900.000,15-03-2016,Alm. Salg,13.286,5,Villa,143,2004,-5 %,Aktuel værdi
+Karsholtevej 57A4293 Dianalund,lund,550.000,10-03-2016,Alm. Salg,6.790,3,Villa,81,1964,-15 %,Aktuel værdi
+Kragebrovej 54293 Dianalund,lund,950.000,10-03-2016,Alm. Salg,11.176,2,Stuehus,85,1728,-27 %,
+Drosselvej 44293 Dianalund,lund,1.260.000,01-03-2016,Alm. Salg,9.130,4,Villa,138,1972,1 %,Aktuel værdi
+Herrestrupvej 84293 Dianalund,lund,745.000,21-02-2016,Alm. Salg,5.246,5,Villa,142,1950,0 %,Aktuel værdi
+Holmevejen 74293 Dianalund,lund,2.114.829,19-02-2016,Fam. Salg,13.470,3,Stuehus,157,1915,,
+Holbergsvej 1174293 Dianalund,lund,10.000,18-02-2016,Alm. Salg,64,8,Villa,155,1925,,Aktuel værdi
+Mågevej 114293 Dianalund,lund,845.000,14-02-2016,Alm. Salg,6.401,5,Villa,132,1969,0 %,Aktuel værdi
+Lundtoftevej 324293 Dianalund,lund,600.000,10-02-2016,Alm. Salg,5.714,4,Villa,105,1967,-14 %,Aktuel værdi
+Islandsvej 214293 Dianalund,lund,1.395.000,10-02-2016,Alm. Salg,13.285,4,Villa,105,1986,-7 %,Aktuel værdi
+Åmosevej 64293 Dianalund,lund,550.000,09-02-2016,Alm. Salg,4.230,5,Villa,130,1965,-8 %,Aktuel værdi
+Nordrupvej 44293 Dianalund,lund,1.500.000,09-02-2016,Alm. Salg,10.135,5,Stuehus,148,1915,,
+Norgesvej 104293 Dianalund,lund,1.045.000,02-02-2016,Alm. Salg,7.857,4,Villa,133,1979,-5 %,Aktuel værdi
+Danasvej 84293 Dianalund,lund,600.000,02-02-2016,Alm. Salg,4.225,5,Villa,142,1976,-25 %,Aktuel værdi
+Grønningen 104293 Dianalund,lund,775.000,02-02-2016,Fam. Salg,5.272,6,Villa,147,1999,,Aktuel værdi
+Skovbrynet 7B4293 Dianalund,lund,950.000,30-01-2016,Alm. Salg,6.643,6,Villa,143,1940,-5 %,Aktuel værdi
+Hedeborydevej 54293 Dianalund,lund,775.000,17-01-2016,Alm. Salg,5.496,5,Villa,141,1898,-11 %,Aktuel værdi
+Peder Paars Vej 184293 Dianalund,lund,1.175.000,15-01-2016,Alm. Salg,8.834,5,Villa,133,1977,-6 %,Aktuel værdi
+Peder Paars Vej 24293 Dianalund,lund,1.175.000,06-01-2016,Alm. Salg,7.939,5,Villa,148,1977,-2 %,Aktuel værdi
+Niløsevej 24293 Dianalund,lund,500.000,04-01-2016,Alm. Salg,4.504,4,Villa,111,1840,-16 %,Aktuel værdi
+Færøvej 54293 Dianalund,lund,2.345.000,03-01-2016,Alm. Salg,14.841,6,Villa,158,2005,0 %,Aktuel værdi
+Finlandsvej 284293 Dianalund,lund,655.000,21-12-2015,Alm. Salg,5.646,4,Villa,116,1988,-6 %,Aktuel værdi
+Kongstedvej 164293 Dianalund,lund,605.000,21-12-2015,Alm. Salg,4.448,6,Villa,136,1927,-7 %,Aktuel værdi
+Sølvagerparken 174293 Dianalund,lund,1.500.000,21-12-2015,Alm. Salg,13.636,4,Villa,110,2008,0 %,Aktuel værdi
+Finlandsvej 304293 Dianalund,lund,900.000,16-12-2015,Alm. Salg,8.411,4,Villa,107,1998,0 %,Aktuel værdi
+Vestervang 74293 Dianalund,lund,495.000,07-12-2015,Alm. Salg,7.857,3,Villa,63,1945,0 %,Aktuel værdi
+Kongstedvej 314293 Dianalund,lund,1.400.000,01-12-2015,Fam. Salg,6.730,6,Stuehus,208,1907,,
+Gammelgang 204293 Dianalund,lund,1.900.000,25-11-2015,Alm. Salg,10.919,5,Villa,174,1913,-3 %,Aktuel værdi
+Holmevejen 104293 Dianalund,lund,1.400.000,17-11-2015,Alm. Salg,10.769,4,Villa,130,1900,-6 %,Aktuel værdi
+Hedeborydevej 324293 Dianalund,lund,1.250.000,16-11-2015,Alm. Salg,9.541,4,Villa,131,1908,-3 %,Aktuel værdi
+Bakkevænget 34293 Dianalund,lund,675.000,12-11-2015,Alm. Salg,5.578,4,Villa,121,1975,-10 %,Aktuel værdi
+Lundtoftevej 734293 Dianalund,lund,678.285,09-11-2015,Fam. Salg,6.782,4,Villa,100,1962,,Aktuel værdi
+Nordvænget 34293 Dianalund,lund,920.000,27-10-2015,Alm. Salg,5.443,4,Villa,169,1973,-3 %,Aktuel værdi
+Leren 14293 Dianalund,lund,800.000,20-10-2015,Alm. Salg,4.907,6,Villa,163,1908,-11 %,Aktuel værdi
+Leandersvej 114293 Dianalund,lund,1.300.000,19-10-2015,Alm. Salg,6.403,7,Villa,203,1976,-18 %,Aktuel værdi
+Brandstrupvej 134293 Dianalund,lund,1.295.000,16-10-2015,Alm. Salg,7.573,6,Villa,171,1957,0 %,Aktuel værdi
+Verupvej 284293 Dianalund,lund,595.000,13-10-2015,Alm. Salg,6.010,3,Villa,99,1876,0 %,Aktuel værdi
+Parkvej 284293 Dianalund,lund,950.000,13-10-2015,Alm. Salg,6.209,5,Villa,153,1972,-5 %,Aktuel værdi
+Skelbækvej 44293 Dianalund,lund,950.000,12-10-2015,Alm. Salg,8.050,6,Stuehus,118,1927,,
+Agervænget 154293 Dianalund,lund,1.150.000,01-10-2015,Alm. Salg,8.394,4,Villa,137,1979,-4 %,Aktuel værdi
+Sømosevej 124293 Dianalund,lund,995.000,30-09-2015,Alm. Salg,9.045,6,Villa,110,1939,,Aktuel værdi
+Holbergsvej 1164293 Dianalund,lund,200.000,29-09-2015,Auktion,1.176,8,Villa,170,1800,-60 %,Aktuel værdi
+Fyrrevænget 234293 Dianalund,lund,1.125.000,27-09-2015,Alm. Salg,10.135,4,Villa,111,1973,-2 %,Aktuel værdi
+Skellebjergvej 144293 Dianalund,lund,822.500,16-09-2015,Alm. Salg,9.241,5,Villa,89,1850,-8 %,Aktuel værdi
+Brandstrupvej 524293 Dianalund,lund,500.000,15-09-2015,Fam. Salg,5.813,4,Villa,86,1965,,Aktuel værdi
+Mågevej 84293 Dianalund,lund,880.000,14-09-2015,Alm. Salg,6.376,4,Villa,138,1970,-2 %,Aktuel værdi
+Birkemosevej 84293 Dianalund,lund,725.000,08-09-2015,Alm. Salg,7.967,4,Villa,91,1983,-3 %,Aktuel værdi
+Leandersvej 204293 Dianalund,lund,1.150.000,27-08-2015,Alm. Salg,8.646,5,Villa,133,1976,0 %,Aktuel værdi
+Øgårdsvej 124293 Dianalund,lund,1.025.000,19-08-2015,Alm. Salg,6.879,6,Villa,149,1968,-7 %,Aktuel værdi
+Karsholtevej 194293 Dianalund,lund,295.000,17-08-2015,Alm. Salg,2.286,6,Villa,129,1900,0 %,Aktuel værdi
+Lundtoftevej 654293 Dianalund,lund,960.000,13-08-2015,Alm. Salg,8.000,4,Villa,120,1967,-3 %,Aktuel værdi
+Sølvagervej 34293 Dianalund,lund,1.995.000,12-08-2015,Alm. Salg,8.986,7,Stuehus,222,1900,,
+Verupvej 524293 Dianalund,lund,642.500,11-08-2015,Andet,5.538,5,Villa,116,1898,,Aktuel værdi
+Holbergsvej 1254293 Dianalund,lund,1.195.000,05-08-2015,Alm. Salg,9.484,5,Villa,126,1935,0 %,Aktuel værdi
+Tersløsevej 74293 Dianalund,lund,350.000,05-08-2015,Alm. Salg,3.804,3,Villa,92,1873,,Aktuel værdi
+Drosselvej 114293 Dianalund,lund,950.000,30-07-2015,Alm. Salg,7.251,4,Villa,131,1971,-5 %,Aktuel værdi
+Islandsvej 114293 Dianalund,lund,1.425.000,27-07-2015,Alm. Salg,13.194,4,Rækkehus,108,2007,0 %,Aktuel værdi
+Malerivej 84293 Dianalund,lund,1.000.000,22-07-2015,Alm. Salg,10.638,3,Rækkehus,94,2005,-7 %,Aktuel værdi
+Leandersvej 184293 Dianalund,lund,620.978,21-07-2015,Alm. Salg,4.851,4,Villa,128,1976,,Aktuel værdi
+"Nybovej 12C, 14293 Dianalund",lund,585.000,13-07-2015,Auktion,5.850,4,Lejlighed,100,2001,,Aktuel værdi
+Bøgevænget 184293 Dianalund,lund,1.000.000,06-07-2015,Alm. Salg,6.944,4,Villa,144,1980,-5 %,Aktuel værdi
+Hedeborydevej 204293 Dianalund,lund,1.125.000,05-07-2015,Alm. Salg,7.550,4,Villa,149,1927,-6 %,Aktuel værdi
+Stendyssevej 14293 Dianalund,lund,627.500,03-07-2015,Alm. Salg,7.843,4,Sommerhus,80,1877,-21 %,Aktuel værdi
+Møllevænget 54293 Dianalund,lund,1.400.000,03-07-2015,Alm. Salg,8.641,4,Villa,162,1973,-6 %,Aktuel værdi
+Malerivej 74293 Dianalund,lund,1.695.000,01-07-2015,Alm. Salg,14.612,3,Rækkehus,116,2010,0 %,Aktuel værdi
+Våseskov 74293 Dianalund,lund,1.045.000,01-07-2015,Alm. Salg,7.798,5,Villa,134,1904,-5 %,Aktuel værdi
+Parkvej 164293 Dianalund,lund,750.000,29-06-2015,Alm. Salg,7.075,4,Villa,106,1973,-16 %,Aktuel værdi
+Færøvej 314293 Dianalund,lund,2.450.000,29-06-2015,Alm. Salg,16.333,5,Villa,150,2013,-2 %,Aktuel værdi
+Færøvej 514293 Dianalund,lund,295.000,16-06-2015,Alm. Salg,1.467,7,Villa,201,2016,,Aktuel værdi
+Kongstedvej 274293 Dianalund,lund,900.000,05-06-2015,Alm. Salg,3.813,8,Stuehus,236,1896,,
+Færøvej 294293 Dianalund,lund,1.670.000,02-06-2015,Alm. Salg,11.438,6,Villa,146,2007,,Aktuel værdi
+Færøvej 64293 Dianalund,lund,2.310.000,31-05-2015,Alm. Salg,12.287,5,Villa,188,2007,-4 %,Aktuel værdi
+Snerlevej 134293 Dianalund,lund,493.500,28-05-2015,Andet,4.078,4,Villa,121,1974,,Aktuel værdi
+Øremosevej 94293 Dianalund,lund,1.995.000,25-05-2015,Alm. Salg,11.666,5,Villa,171,1900,0 %,Aktuel værdi
+Kammergavevej 34293 Dianalund,lund,2.315.000,20-05-2015,Alm. Salg,12.446,4,Stuehus,186,1924,-7 %,
+Møllevænget 324293 Dianalund,lund,1.325.000,13-05-2015,Alm. Salg,9.962,5,Villa,133,1973,-5 %,Aktuel værdi
+Tåderupvej 104293 Dianalund,lund,912.752,28-04-2015,Alm. Salg,4.186,5,Stuehus,218,1862,,
+Mågevej 34293 Dianalund,lund,787.172,27-04-2015,Fam. Salg,5.354,4,Villa,147,1973,,Aktuel værdi
+Bøgevænget 144293 Dianalund,lund,900.000,25-04-2015,Alm. Salg,6.617,4,Villa,136,1972,-10 %,Aktuel værdi
+Kongstedvej 174293 Dianalund,lund,525.000,16-04-2015,Alm. Salg,6.562,4,Villa,80,1950,-9 %,Aktuel værdi
+Drosselvej 14293 Dianalund,lund,1.250.000,14-04-2015,Alm. Salg,8.741,4,Villa,143,1973,0 %,Aktuel værdi
+Elmevej 104293 Dianalund,lund,3.692.000,31-03-2015,Alm. Salg,16.556,12,Villa,223,1900,,Aktuel værdi
+Rugvænget 104293 Dianalund,lund,1.120.000,26-03-2015,Alm. Salg,10.090,4,Villa,111,1982,-1 %,Aktuel værdi
+Åmosevej 74293 Dianalund,lund,4.795.000,24-03-2015,Alm. Salg,27.877,6,Stuehus,172,1912,,
+Lunden 34293 Dianalund,lund,1.490.000,21-03-2015,Alm. Salg,13.796,4,Villa,108,2008,-7 %,Aktuel værdi
+Lundtoftevej 474293 Dianalund,lund,1.350.000,12-03-2015,Alm. Salg,4.218,7,Villa,320,1973,-10 %,Aktuel værdi
+Færøvej 944293 Dianalund,lund,340.000,09-03-2015,Alm. Salg,2.281,5,Villa,149,2017,,Aktuel værdi
+Merbjergvej 54293 Dianalund,lund,580.000,08-03-2015,Alm. Salg,5.686,4,Stuehus,102,1906,17 %,
+Klokkerskov 74293 Dianalund,lund,3.350.000,03-03-2015,Alm. Salg,11.279,7,Villa,297,1890,-3 %,Aktuel værdi
+Lunden 94293 Dianalund,lund,425.000,07-02-2015,Alm. Salg,6.538,3,Villa,65,1961,-6 %,Aktuel værdi
+Havrevænget 64293 Dianalund,lund,572.000,04-02-2015,Auktion,6.021,4,Rækkehus,95,1987,,Aktuel værdi
+Lærkemosevej 24293 Dianalund,lund,150.000,02-02-2015,Alm. Salg,4.285,3,Sommerhus,35,1966,,Aktuel værdi
+Kongstedvej 104293 Dianalund,lund,1.150.000,01-02-2015,Alm. Salg,6.647,3,Villa,173,1880,-8 %,Aktuel værdi
+Parkvej 384293 Dianalund,lund,925.000,30-01-2015,Alm. Salg,6.006,5,Villa,154,1972,-7 %,Aktuel værdi
+Karsholtevej 29A4293 Dianalund,lund,475.000,09-01-2015,Alm. Salg,3.025,6,Villa,157,1909,,Aktuel værdi
+Lærkemosevej 114293 Dianalund,lund,175.000,02-01-2015,Alm. Salg,2.187,3,Villa,80,1961,-36 %,Aktuel værdi
+Dr Sells Vej 44293 Dianalund,lund,575.000,19-12-2014,Alm. Salg,2.948,9,Villa,195,1924,-17 %,Aktuel værdi
+Fasanvej 74293 Dianalund,lund,388.790,16-12-2014,Fam. Salg,2.737,4,Villa,142,1959,,Aktuel værdi
+"Nybovej 14C, 14293 Dianalund",lund,233.863,08-12-2014,Fam. Salg,2.338,3,Lejlighed,100,2005,,Aktuel værdi
+Peder Paars Vej 234293 Dianalund,lund,1.800.000,02-12-2014,Alm. Salg,10.909,5,Villa,165,1997,-10 %,Aktuel værdi
+Malerivej 94293 Dianalund,lund,1.940.000,21-11-2014,Alm. Salg,12.356,5,Rækkehus,157,2010,-3 %,Aktuel værdi
+Sømosevej 164293 Dianalund,lund,975.000,16-11-2014,Alm. Salg,6.866,3,Villa,142,1939,-7 %,Aktuel værdi
+Parkvej 234293 Dianalund,lund,500.000,14-11-2014,Alm. Salg,4.504,4,Villa,111,1973,0 %,Aktuel værdi
+Holbergsvej 1154293 Dianalund,lund,505.000,12-11-2014,Auktion,3.556,4,Villa,142,1930,,Aktuel værdi
+Fyrrevænget 124293 Dianalund,lund,900.000,07-11-2014,Alm. Salg,6.923,4,Villa,130,1974,-10 %,Aktuel værdi
+Nordrupvej 34293 Dianalund,lund,1.110.000,04-11-2014,Alm. Salg,5.842,5,Stuehus,190,1940,-13 %,
+Dianalundvej 84293 Dianalund,lund,800.000,03-11-2014,Alm. Salg,8.510,3,Villa,94,1966,-9 %,Aktuel værdi
+Østerled 24293 Dianalund,lund,780.000,31-10-2014,Alm. Salg,7.572,2,Villa,103,1961,-18 %,Aktuel værdi
+Lærkemosevej 14293 Dianalund,lund,525.000,30-10-2014,Alm. Salg,5.048,4,Villa,104,1980,-5 %,Aktuel værdi
+Ventemøllevej 124293 Dianalund,lund,800.000,23-10-2014,Alm. Salg,6.015,4,Villa,133,1962,-5 %,Aktuel værdi
+Øllemosen 114293 Dianalund,lund,360.000,20-10-2014,Alm. Salg,4.000,3,Villa,90,1850,-9 %,Aktuel værdi
+Ellevej 54293 Dianalund,lund,500.000,15-10-2014,Fam. Salg,6.250,2,Villa,80,1962,-16 %,Aktuel værdi
+Færøvej 844293 Dianalund,lund,615.000,08-10-2014,Alm. Salg,3.843,6,Villa,160,2015,,Aktuel værdi
+Østerled 54293 Dianalund,lund,1.580.000,30-09-2014,Alm. Salg,9.080,5,Villa,174,1970,0 %,Aktuel værdi
+Øremosevej 74293 Dianalund,lund,1.450.000,29-09-2014,Fam. Salg,15.104,3,Stuehus,96,1677,193 %,
+Rugskovvej 194293 Dianalund,lund,550.000,29-09-2014,Alm. Salg,2.956,6,Stuehus,186,1902,,
+Norgesvej 204293 Dianalund,lund,1.000.000,28-09-2014,Alm. Salg,7.518,5,Villa,133,1979,-9 %,Aktuel værdi
+Holbergsvej 1024293 Dianalund,lund,1.195.000,12-09-2014,Alm. Salg,8.184,7,Villa,146,1956,0 %,Aktuel værdi
+Rugvænget 274293 Dianalund,lund,667.666,04-09-2014,Alm. Salg,4.363,5,Villa,153,1980,,Aktuel værdi
+Mosaikvej 64293 Dianalund,lund,1.895.000,28-08-2014,Alm. Salg,12.979,5,Villa,146,2006,0 %,Aktuel værdi
+Rolighedsvej 24293 Dianalund,lund,433.079,26-08-2014,Andet,3.007,6,Villa,144,1920,,Aktuel værdi
+Vibevej 34293 Dianalund,lund,975.000,12-08-2014,Alm. Salg,9.285,3,Villa,105,1963,-7 %,Aktuel værdi
+Banevej 64293 Dianalund,lund,125.000,01-08-2014,Alm. Salg,1.016,4,Villa,123,1903,-58 %,Aktuel værdi
+Sverigesvej 274293 Dianalund,lund,2.000.000,02-07-2014,Fam. Salg,12.345,6,Villa,162,2005,,Aktuel værdi
+Vildmosevej 134293 Dianalund,lund,1.100.000,30-06-2014,Alm. Salg,6.285,4,Stuehus,175,2016,-15 %,
+Holbergsvej 734293 Dianalund,lund,1.225.000,27-06-2014,Alm. Salg,10.745,5,Stuehus,114,1911,,
+Lærkevej 14293 Dianalund,lund,1.175.000,20-06-2014,Alm. Salg,7.833,6,Villa,150,1962,-13 %,Aktuel værdi
+Hesselbjergvej 124293 Dianalund,lund,550.000,18-06-2014,Alm. Salg,5.851,4,Villa,94,1828,-6 %,Aktuel værdi
+Dr Christiansens Vej 34293 Dianalund,lund,1.200.000,02-06-2014,Alm. Salg,10.169,4,Villa,118,1943,-7 %,Aktuel værdi
+Ellevej 14293 Dianalund,lund,750.000,21-05-2014,Alm. Salg,6.147,4,Villa,122,1963,-14 %,Aktuel værdi
+Bøgevænget 114293 Dianalund,lund,1.025.000,20-05-2014,Alm. Salg,8.913,4,Villa,115,1975,-6 %,Aktuel værdi
+Ventemøllevej 6B4293 Dianalund,lund,485.000,08-05-2014,Alm. Salg,4.181,6,Villa,116,1937,-18 %,Aktuel værdi
+Enggårdsvej 114293 Dianalund,lund,525.000,29-04-2014,Auktion,4.687,5,Villa,112,1965,-47 %,Aktuel værdi
+Rosenvej 10A4293 Dianalund,lund,685.000,25-04-2014,Alm. Salg,4.724,3,Villa,145,1932,-8 %,Aktuel værdi
+Holmevejen 264293 Dianalund,lund,700.000,22-04-2014,Fam. Salg,5.833,5,Stuehus,120,1910,-27 %,
+Agervænget 124293 Dianalund,lund,1.350.000,22-04-2014,Alm. Salg,10.384,4,Villa,130,1979,-7 %,Aktuel værdi
+Holmevejen 84293 Dianalund,lund,600.000,15-04-2014,Alm. Salg,4.255,3,Villa,141,1900,-14 %,Aktuel værdi
+Godthåbsvej 54293 Dianalund,lund,1.525.000,14-04-2014,Alm. Salg,9.077,6,Villa,168,1933,-13 %,Aktuel værdi
+Herrestrupvej 254293 Dianalund,lund,450.000,02-04-2014,Alm. Salg,3.146,5,Villa,143,1962,-29 %,Aktuel værdi
+Gammelgang 224293 Dianalund,lund,3.712.000,26-03-2014,Auktion,22.095,9,Stuehus,168,1912,,
+Niels Klims Vej 314293 Dianalund,lund,700.000,20-03-2014,Alm. Salg,3.910,5,Villa,179,1978,-7 %,Aktuel værdi
+Lundtoftevej 244293 Dianalund,lund,925.000,18-03-2014,Alm. Salg,5.255,5,Villa,176,1968,-7 %,Aktuel værdi
+Møllevænget 164293 Dianalund,lund,1.100.000,18-03-2014,Alm. Salg,8.593,4,Villa,128,1974,-15 %,Aktuel værdi
+Herrestrupvej 414293 Dianalund,lund,450.000,07-03-2014,Alm. Salg,3.750,6,Villa,120,1961,-35 %,Aktuel værdi
+Fyrrevænget 24293 Dianalund,lund,1.130.000,06-03-2014,Alm. Salg,8.188,4,Villa,138,1976,-5 %,Aktuel værdi
+Verupvej 464293 Dianalund,lund,395.000,03-03-2014,Fam. Salg,4.202,5,Villa,94,1897,,Aktuel værdi
+Niels Klims Vej 184293 Dianalund,lund,623.750,27-02-2014,Fam. Salg,4.620,4,Villa,135,1977,,Aktuel værdi
+Grønningen 6B4293 Dianalund,lund,560.000,26-02-2014,Alm. Salg,8.484,2,Rækkehus,66,1988,-19 %,Aktuel værdi
+Præsteskov 64293 Dianalund,lund,1.995.000,16-02-2014,Alm. Salg,8.562,6,Stuehus,233,1827,0 %,
+Bygaden 144293 Dianalund,lund,220.000,04-02-2014,Auktion,2.200,4,Villa,100,1918,,Aktuel værdi
+Vestervang 144293 Dianalund,lund,500.000,03-02-2014,Andet,3.048,7,Villa,164,1944,,Aktuel værdi
+Holmevejen 194293 Dianalund,lund,1.575.000,13-01-2014,Alm. Salg,6.274,6,Villa,251,1979,-7 %,Aktuel værdi
+Sønderskovvej 44293 Dianalund,lund,500.000,08-01-2014,Alm. Salg,3.571,4,Stuehus,140,1870,,
+Mågevej 44293 Dianalund,lund,850.000,22-12-2013,Alm. Salg,4.569,7,Villa,186,1971,-22 %,Aktuel værdi
+Drosselvej 54293 Dianalund,lund,600.000,20-12-2013,Alm. Salg,6.185,3,Villa,97,1970,-14 %,Aktuel værdi
+Færøvej 494293 Dianalund,lund,340.000,05-12-2013,Alm. Salg,2.361,5,Villa,144,2014,,Aktuel værdi
+Bakkevej 34293 Dianalund,lund,252.186,03-12-2013,Auktion,2.424,3,Villa,104,1934,-64 %,Aktuel værdi
+Kløvermarksvej 24293 Dianalund,lund,1.080.000,02-12-2013,Alm. Salg,7.200,6,Villa,150,1969,-8 %,Aktuel værdi
+Henriksvej 74293 Dianalund,lund,1.100.000,01-12-2013,Alm. Salg,5.670,4,Villa,194,1977,-12 %,Aktuel værdi
+Holbergsvej 84293 Dianalund,lund,1.295.000,30-11-2013,Alm. Salg,6.607,7,Villa,196,1927,0 %,Aktuel værdi
+Grønningen 244293 Dianalund,lund,1.034.500,29-11-2013,Alm. Salg,6.269,6,Villa,165,1999,,Aktuel værdi
+Lundtoftevej 174293 Dianalund,lund,1.350.000,28-11-2013,Alm. Salg,5.869,7,Villa,230,1969,-3 %,Aktuel værdi
+Snerlevej 54293 Dianalund,lund,578.500,27-11-2013,Fam. Salg,4.253,5,Villa,136,1974,,Aktuel værdi
+Holbergsvej 684293 Dianalund,lund,1.850.000,26-11-2013,Alm. Salg,10.882,6,Stuehus,170,1934,-7 %,
+Kongstedvej 154293 Dianalund,lund,750.000,12-11-2013,Alm. Salg,7.142,4,Villa,105,1936,-25 %,Aktuel værdi
+Agervænget 144293 Dianalund,lund,1.045.000,09-11-2013,Alm. Salg,7.683,4,Villa,136,1979,-19 %,Aktuel værdi
+Gammelgang 34293 Dianalund,lund,1.950.000,06-11-2013,Alm. Salg,7.800,8,Stuehus,250,1938,,
+Ventemøllevej 104293 Dianalund,lund,730.000,28-10-2013,Alm. Salg,8.021,5,Villa,91,1954,-6 %,Aktuel værdi
+"Stationsvej 32B, ST. TV4293 Dianalund",lund,11.000.000,22-10-2013,Alm. Salg,122.222,3,Lejlighed,90,1903,,Aktuel værdi
+Banevej 224293 Dianalund,lund,200.000,08-10-2013,Auktion,1.769,6,Villa,113,1923,,Aktuel værdi
+Store Bjørnevej 104293 Dianalund,lund,1.040.000,30-09-2013,Alm. Salg,7.272,5,Villa,143,1968,-5 %,Aktuel værdi
+Birkemosevej 124293 Dianalund,lund,628.000,10-09-2013,Alm. Salg,3.508,4,Villa,179,1999,,Aktuel værdi
+Bygaden 24293 Dianalund,lund,1.350.000,29-08-2013,Alm. Salg,4.639,11,Stuehus,291,1885,-25 %,
+Parkvej 224293 Dianalund,lund,700.000,27-08-2013,Alm. Salg,5.426,4,Villa,129,1976,-22 %,Aktuel værdi
+Mosaikvej 104293 Dianalund,lund,1.995.000,19-08-2013,Alm. Salg,12.468,5,Villa,160,2008,0 %,Aktuel værdi
+Åmosevej 104293 Dianalund,lund,1.145.000,15-08-2013,Alm. Salg,8.006,4,Villa,143,1929,0 %,Aktuel værdi
+Toftebakken 44293 Dianalund,lund,530.000,12-08-2013,Alm. Salg,5.638,2,Villa,94,1964,0 %,Aktuel værdi
+Øgårdsvej 314293 Dianalund,lund,600.000,09-08-2013,Alm. Salg,7.407,4,Villa,81,1974,-8 %,Aktuel værdi
+Dr Sells Vej 64293 Dianalund,lund,995.000,07-08-2013,Alm. Salg,5.589,4,Villa,178,1955,0 %,Aktuel værdi
+Rugvænget 354293 Dianalund,lund,610.000,06-08-2013,Auktion,4.485,4,Villa,136,1981,,Aktuel værdi
+Holbækvej 44293 Dianalund,lund,1.075.000,02-08-2013,Alm. Salg,4.535,7,Stuehus,237,1900,-28 %,
+Norgesvej 354293 Dianalund,lund,1.200.000,21-07-2013,Alm. Salg,6.153,5,Villa,195,1979,-7 %,Aktuel værdi
+Herrestrupvej 64293 Dianalund,lund,273.826,04-07-2013,Andet,2.074,4,Villa,132,1952,,Aktuel værdi
+Engtoftevej 54293 Dianalund,lund,583.000,26-06-2013,Andet,5.252,3,Villa,111,1978,,Aktuel værdi
+Bastbjergvej 24293 Dianalund,lund,240.000,25-06-2013,Auktion,2.051,4,Villa,117,1936,,Aktuel værdi
+Kongstedvej 24293 Dianalund,lund,315.000,14-06-2013,Fam. Salg,1.275,5,Villa,247,1888,,Aktuel værdi
+Holbergsvej 1234293 Dianalund,lund,800.000,11-06-2013,Alm. Salg,4.938,4,Villa,162,1940,-20 %,Aktuel værdi
+Skyttevej 34293 Dianalund,lund,775.000,11-06-2013,Alm. Salg,9.011,4,Villa,86,1951,0 %,Aktuel værdi
+Grønningen 6C4293 Dianalund,lund,800.000,10-06-2013,Alm. Salg,8.602,3,Rækkehus,93,1988,-11 %,Aktuel værdi
+Åmosevej 204293 Dianalund,lund,1.650.000,05-06-2013,Alm. Salg,12.500,4,Stuehus,132,1913,-5 %,
+Birkemosevej 54293 Dianalund,lund,450.000,27-05-2013,Alm. Salg,6.164,3,Sommerhus,73,1970,-24 %,Aktuel værdi
+Sømosevej 384293 Dianalund,lund,654.000,21-05-2013,Auktion,4.808,4,Villa,136,1967,,Aktuel værdi
+Vestervang 54293 Dianalund,lund,420.000,10-05-2013,Alm. Salg,5.250,3,Villa,80,1937,-15 %,Aktuel værdi
+Enggårdsvej 134293 Dianalund,lund,300.000,17-04-2013,Auktion,2.097,4,Villa,143,1898,,Aktuel værdi
+Agervænget 314293 Dianalund,lund,1.500.000,12-04-2013,Alm. Salg,9.146,5,Villa,164,1979,-6 %,Aktuel værdi
+Øllemosen 84293 Dianalund,lund,1.192.000,08-04-2013,Alm. Salg,17.028,3,Stuehus,70,1850,,
+Enighedsvej 54293 Dianalund,lund,598.000,05-04-2013,Alm. Salg,4.271,5,Villa,140,1954,,Aktuel værdi
+Holbækvej 114293 Dianalund,lund,1.698.000,04-04-2013,Fam. Salg,8.124,4,Stuehus,209,1917,,
+Parkvej 184293 Dianalund,lund,1.450.000,02-04-2013,Alm. Salg,10.661,5,Villa,136,1974,-9 %,Aktuel værdi
+Karsholtevej 184293 Dianalund,lund,400.000,25-03-2013,Auktion,3.478,5,Villa,115,1931,,Aktuel værdi
+Reliefvej 14293 Dianalund,lund,3.350.000,20-03-2013,Alm. Salg,13.400,5,Villa,250,2011,-4 %,Aktuel værdi
+Parkvej 404293 Dianalund,lund,1.000.000,07-03-2013,Alm. Salg,7.194,4,Villa,139,1972,-16 %,Aktuel værdi
+Nordvænget 24293 Dianalund,lund,500.000,04-03-2013,Auktion,2.369,7,Villa,211,1974,,Aktuel værdi
+Henriksvej 104293 Dianalund,lund,1.795.000,13-02-2013,Alm. Salg,11.506,5,Villa,156,1975,,Aktuel værdi
+Tjørnevej 94293 Dianalund,lund,995.000,12-02-2013,Alm. Salg,7.262,4,Villa,137,1972,,Aktuel værdi
+Sølvagervej 14293 Dianalund,lund,1.150.000,27-01-2013,Alm. Salg,5.476,9,Stuehus,210,1885,-23 %,
+Nordrupvej 14293 Dianalund,lund,700.000,23-01-2013,Alm. Salg,-,6,Villa,173,2005,-12 %,Aktuel værdi
+Lunden 174293 Dianalund,lund,725.000,10-01-2013,Alm. Salg,7.631,5,Villa,95,1983,-19 %,Aktuel værdi
+Holbergsvej 1144293 Dianalund,lund,20.000,08-01-2013,Auktion,168,4,Villa,119,1900,,Aktuel værdi
+Nybovej 24293 Dianalund,lund,1.095.000,21-12-2012,Alm. Salg,9.776,4,Villa,112,1934,-19 %,Aktuel værdi
+Fyrrevænget 44293 Dianalund,lund,1.595.000,07-12-2012,Alm. Salg,10.424,4,Villa,153,1977,-6 %,Aktuel værdi
+Karsholtevej 134293 Dianalund,lund,212.000,05-12-2012,Auktion,1.876,4,Villa,113,1960,,Aktuel værdi
+Dr Sells Vej 154293 Dianalund,lund,500.000,05-12-2012,Alm. Salg,2.688,2,Villa,186,1930,-16 %,Aktuel værdi
+Dr Sells Vej 324293 Dianalund,lund,1.000.000,19-11-2012,Auktion,5.405,7,Anden beboelse,185,1963,-33 %,Aktuel værdi
+Færøvej 284293 Dianalund,lund,1.700.000,16-11-2012,Alm. Salg,11.038,5,Villa,154,2006,0 %,Aktuel værdi
+Niløsevej 54293 Dianalund,lund,2.644.000,13-11-2012,Alm. Salg,17.986,7,Stuehus,147,1920,,
+Ellevej 44293 Dianalund,lund,975.000,08-11-2012,Alm. Salg,10.714,2,Villa,91,1964,,Aktuel værdi
+Dianalundvej 124293 Dianalund,lund,575.000,06-11-2012,Alm. Salg,3.639,3,Villa,158,1900,-34 %,Aktuel værdi
+Bakkevej 344293 Dianalund,lund,2.225.000,30-10-2012,Alm. Salg,21.394,3,Stuehus,104,1878,-3 %,
+Vestervang 44293 Dianalund,lund,675.000,23-10-2012,Auktion,4.354,6,Villa,155,1924,,Aktuel værdi
+Øgårdsvej 224293 Dianalund,lund,100.000,22-10-2012,Auktion,1.612,5,Villa,62,1969,,Aktuel værdi
+Islandsvej 84293 Dianalund,lund,585.150,19-10-2012,Fam. Salg,4.150,5,Villa,141,1987,,Aktuel værdi
+Tjørnevej 34293 Dianalund,lund,1.000.000,10-10-2012,Alm. Salg,-,3,Villa,86,1963,,Aktuel værdi
+Dr Christiansens Vej 24293 Dianalund,lund,995.000,05-10-2012,Alm. Salg,7.056,6,Villa,141,1932,-9 %,Aktuel værdi
+Brandstrupvej 224293 Dianalund,lund,1.700.000,01-10-2012,Alm. Salg,17.894,3,Villa,95,1958,,Aktuel værdi
+Kongstedvej 144293 Dianalund,lund,722.500,10-09-2012,Fam. Salg,5.160,6,Villa,140,1920,,Aktuel værdi
+Vestervang 84293 Dianalund,lund,400.000,10-09-2012,Alm. Salg,3.418,6,Villa,117,1924,-19 %,Aktuel værdi
+Lundtoftevej 264293 Dianalund,lund,825.000,06-09-2012,Alm. Salg,5.061,6,Villa,163,1969,-17 %,Aktuel værdi
+Åmosevej 234293 Dianalund,lund,350.000,27-08-2012,Auktion,1.832,6,Villa,191,1929,,Aktuel værdi
+Norgesvej 224293 Dianalund,lund,795.893,27-08-2012,Alm. Salg,5.939,4,Villa,134,1987,,Aktuel værdi
+Færøvej 94293 Dianalund,lund,2.275.000,23-08-2012,Alm. Salg,16.605,4,Villa,137,2006,,Aktuel værdi
+"Dr Sells Vej 28, 24293 Dianalund",lund,2.100.000,31-07-2012,Auktion,26.250,6,Lejlighed,80,1900,,Aktuel værdi
+"Dr Sells Vej 28, 1. TH4293 Dianalund",lund,2.100.000,31-07-2012,Auktion,23.863,3,Lejlighed,88,1900,,Aktuel værdi
+"Dr Sells Vej 28, ST. TH4293 Dianalund",lund,2.100.000,31-07-2012,Auktion,21.875,3,Lejlighed,96,1900,,Aktuel værdi
+"Dr Sells Vej 28, 1. TV4293 Dianalund",lund,2.100.000,31-07-2012,Auktion,31.818,2,Lejlighed,66,1900,,Aktuel værdi
+"Dr Sells Vej 28, ST. TV4293 Dianalund",lund,2.100.000,31-07-2012,Auktion,29.166,2,Lejlighed,72,1900,,Aktuel værdi
+Merbjergvej 324293 Dianalund,lund,2.050.000,26-07-2012,Alm. Salg,8.798,6,Villa,233,1904,,Aktuel værdi
+Øremosevej 134293 Dianalund,lund,1.000.000,25-07-2012,Alm. Salg,6.622,5,Stuehus,151,1902,-20 %,
+Mågevej 74293 Dianalund,lund,1.025.000,24-07-2012,Alm. Salg,7.536,5,Villa,136,1973,-6 %,Aktuel værdi
+Færøvej 134293 Dianalund,lund,55.000,20-07-2012,Alm. Salg,223,7,Villa,246,2015,,Aktuel værdi
+Kragebrovej 84293 Dianalund,lund,1.325.000,14-07-2012,Alm. Salg,7.794,5,Stuehus,170,1900,,
+Skovbrynet 234293 Dianalund,lund,490.000,12-07-2012,Alm. Salg,3.121,5,Villa,157,2014,,Aktuel værdi
+Holbergsvej 204293 Dianalund,lund,445.000,10-07-2012,Auktion,3.201,7,Villa,139,1928,-49 %,Aktuel værdi
+Bastbjergvej 84293 Dianalund,lund,525.000,03-07-2012,Alm. Salg,6.250,4,Villa,84,1828,,Aktuel værdi
+Færøvej 684293 Dianalund,lund,2.110.000,02-07-2012,Alm. Salg,12.710,6,Villa,166,2007,-3 %,Aktuel værdi
+Malerivej 14293 Dianalund,lund,1.742.500,29-06-2012,Alm. Salg,12.535,4,Rækkehus,139,2008,-6 %,Aktuel værdi
+Søndermarksvej 44293 Dianalund,lund,1.495.000,27-06-2012,Alm. Salg,10.992,4,Villa,136,1954,0 %,Aktuel værdi
+Færøvej 164293 Dianalund,lund,2.325.000,27-06-2012,Alm. Salg,14.090,6,Villa,165,2006,,Aktuel værdi
+Færøvej 354293 Dianalund,lund,1.650.000,19-06-2012,Alm. Salg,11.301,6,Villa,146,2008,-3 %,Aktuel værdi
+Skovbrynet 1C4293 Dianalund,lund,160.000,19-06-2012,Auktion,1.568,3,Villa,102,1952,-59 %,Aktuel værdi
+Pilegårdsvej 94293 Dianalund,lund,62.540,29-05-2012,Alm. Salg,258,10,Stuehus,242,1900,,
+Karsholtevej 214293 Dianalund,lund,584.561,24-05-2012,Alm. Salg,6.495,3,Villa,90,1877,,Aktuel værdi
+Merbjergvej 424293 Dianalund,lund,250.000,24-05-2012,Auktion,2.403,3,Villa,104,1933,-58 %,Aktuel værdi
+Niels Klims Vej 144293 Dianalund,lund,898.000,18-05-2012,Alm. Salg,6.368,4,Villa,141,1978,-28 %,Aktuel værdi
+Skellebjergvej 124293 Dianalund,lund,1.647.000,04-05-2012,Auktion,11.280,6,Stuehus,146,1920,,
+Herrestrupvej 454293 Dianalund,lund,100.000,26-04-2012,Auktion,510,8,Stuehus,196,1878,,
+Kragerupvej 24293 Dianalund,lund,1.510.000,23-04-2012,Alm. Salg,9.041,5,Villa,167,1899,-11 %,Aktuel værdi
+Skovbrynet 214293 Dianalund,lund,1.000.000,22-04-2012,Alm. Salg,7.246,4,Villa,138,1975,-16 %,Aktuel værdi
+Skellebjergvej 394293 Dianalund,lund,1.200.000,14-04-2012,Alm. Salg,4.240,6,Stuehus,283,1922,-14 %,
+Leandersvej 34293 Dianalund,lund,1.100.000,14-04-2012,Alm. Salg,7.006,6,Villa,157,1976,-8 %,Aktuel værdi
+Færøvej 274293 Dianalund,lund,375.000,12-04-2012,Alm. Salg,2.798,5,Villa,134,2015,,Aktuel værdi
+Brandstrupvej 74293 Dianalund,lund,355.000,13-03-2012,Auktion,5.378,2,Villa,66,1878,-10 %,Aktuel værdi
+Grønningen 284293 Dianalund,lund,1.310.000,01-03-2012,Auktion,7.401,7,Villa,177,1998,-27 %,Aktuel værdi
+Mågevej 284293 Dianalund,lund,835.000,26-02-2012,Alm. Salg,6.523,5,Villa,128,1975,-22 %,Aktuel værdi
+Sølvagerparken 14293 Dianalund,lund,1.300.000,14-02-2012,Alm. Salg,11.818,4,Villa,110,2008,8 %,Aktuel værdi
+Bøgevænget 344293 Dianalund,lund,1.200.000,06-02-2012,Alm. Salg,9.375,4,Villa,128,1973,-11 %,Aktuel værdi
+Dianalundvej 214293 Dianalund,lund,825.000,25-01-2012,Auktion,3.055,6,Villa,270,1876,-61 %,Aktuel værdi
+Peder Paars Vej 294293 Dianalund,lund,750.000,20-01-2012,Alm. Salg,7.894,3,Villa,95,1977,-16 %,Aktuel værdi
+Sømosevej 24293 Dianalund,lund,700.000,18-01-2012,Alm. Salg,5.303,5,Villa,132,1937,-17 %,Aktuel værdi
+Holbergsvej 564293 Dianalund,lund,890.000,18-01-2012,Alm. Salg,8.396,5,Villa,106,1954,-11 %,Aktuel værdi
+Store Bjørnevej 64293 Dianalund,lund,900.000,27-12-2011,Alm. Salg,6.206,4,Villa,145,1974,-10 %,Aktuel værdi
+Rugvænget 174293 Dianalund,lund,753.000,22-12-2011,Andet,5.704,5,Villa,132,1980,-50 %,Aktuel værdi
+Kammergavevej 24293 Dianalund,lund,100.000,12-12-2011,Alm. Salg,274,7,Stuehus,364,1924,-97 %,
+Dr Sells Vej 184293 Dianalund,lund,1.150.000,06-12-2011,Fam. Salg,7.055,9,Villa,163,1953,,Aktuel værdi
+Skellebjergvej 25A4293 Dianalund,lund,782.998,30-11-2011,Alm. Salg,5.514,7,Villa,142,1968,,Aktuel værdi
+Øgårdsvej 29B4293 Dianalund,lund,160.565,29-11-2011,Alm. Salg,13.380,1,Sommerhus,12,1964,,Aktuel værdi
+Holbergsvej 894293 Dianalund,lund,395.000,29-11-2011,Auktion,4.647,4,Villa,85,1929,-56 %,Aktuel værdi
+Rugvænget 254293 Dianalund,lund,1.050.000,24-10-2011,Alm. Salg,8.606,4,Villa,122,1981,-5 %,Aktuel værdi
+Holbergsvej 374293 Dianalund,lund,800.000,13-10-2011,Auktion,8.000,4,Rækkehus,100,1952,,Aktuel værdi
+Holmevejen 364293 Dianalund,lund,575.000,04-10-2011,Alm. Salg,4.423,3,Villa,130,1928,,Aktuel værdi
+Kongstedvej 424293 Dianalund,lund,1.195.000,26-09-2011,Alm. Salg,6.322,6,Villa,189,1932,,Aktuel værdi
+Ventemøllevej 544293 Dianalund,lund,562.000,21-09-2011,Alm. Salg,5.620,4,Villa,100,1947,,Aktuel værdi
+Bakkevænget 314293 Dianalund,lund,1.000.000,19-09-2011,Alm. Salg,8.264,4,Villa,121,1975,-9 %,Aktuel værdi
+Norgesvej 144293 Dianalund,lund,1.350.000,31-08-2011,Alm. Salg,10.629,4,Villa,127,1981,0 %,Aktuel værdi
+Holbergsvej 914293 Dianalund,lund,695.000,31-08-2011,Alm. Salg,6.435,3,Villa,108,1924,0 %,Aktuel værdi
+Færøvej 664293 Dianalund,lund,2.200.000,24-08-2011,Alm. Salg,13.333,5,Villa,165,2007,-4 %,Aktuel værdi
+Banevej 14293 Dianalund,lund,595.000,19-08-2011,Alm. Salg,4.917,5,Villa,121,1904,0 %,Aktuel værdi
+Leandersvej 154293 Dianalund,lund,536.272,15-08-2011,Alm. Salg,2.946,5,Villa,182,1976,,Aktuel værdi
+Sølvagerparken 134293 Dianalund,lund,1.415.000,15-08-2011,Alm. Salg,12.863,4,Villa,110,2008,-5 %,Aktuel værdi
+Brandstrupvej 14293 Dianalund,lund,481.145,25-07-2011,Alm. Salg,4.626,4,Villa,104,1900,,Aktuel værdi
+Holbergsvej 964293 Dianalund,lund,785.000,11-07-2011,Alm. Salg,9.457,3,Villa,83,1948,0 %,Aktuel værdi
+Herrestrupvej 274293 Dianalund,lund,890.000,06-07-2011,Alm. Salg,9.468,4,Villa,94,1959,-4 %,Aktuel værdi
+Hedeborydevej 194293 Dianalund,lund,130.000,04-07-2011,Alm. Salg,3.421,2,Sommerhus,38,1952,,Aktuel værdi
+Møllevænget 224293 Dianalund,lund,1.350.000,18-06-2011,Alm. Salg,8.231,6,Villa,164,1975,-10 %,Aktuel værdi
+Kildemosevej 84293 Dianalund,lund,1.140.000,15-06-2011,Alm. Salg,10.000,4,Villa,114,1967,-8 %,Aktuel værdi
+Tjørnevej 14293 Dianalund,lund,945.000,15-06-2011,Alm. Salg,7.382,4,Villa,128,1966,,Aktuel værdi
+Sølvagerparken 154293 Dianalund,lund,1.500.000,14-06-2011,Alm. Salg,13.636,4,Villa,110,2008,,Aktuel værdi
+Sølvagervej 44293 Dianalund,lund,320.000,08-06-2011,Alm. Salg,2.222,6,Villa,144,1924,8 %,Aktuel værdi
+Dianalundvej 154293 Dianalund,lund,500.000,01-06-2011,Auktion,4.132,3,Villa,121,1930,,Aktuel værdi
+Birkemosevej 34293 Dianalund,lund,340.000,31-05-2011,Alm. Salg,7.727,2,Sommerhus,44,1967,,Aktuel værdi
+Tjørnevej 64293 Dianalund,lund,1.050.000,26-05-2011,Alm. Salg,8.333,3,Villa,126,1969,-12 %,Aktuel værdi
+Magleøvej 74293 Dianalund,lund,360.000,11-05-2011,Alm. Salg,5.538,3,Sommerhus,65,1848,,Aktuel værdi
+Skellebjergvej 324293 Dianalund,lund,1.043.500,10-05-2011,Fam. Salg,7.453,4,Villa,140,1877,,Aktuel værdi
+Herrestrupvej 234293 Dianalund,lund,1.465.000,08-05-2011,Alm. Salg,10.316,4,Villa,142,1907,-9 %,Aktuel værdi
+Peder Paars Vej 164293 Dianalund,lund,1.125.000,23-04-2011,Alm. Salg,7.922,5,Villa,142,1977,-13 %,Aktuel værdi
+Kragebrovej 74293 Dianalund,lund,1.500.000,13-04-2011,Alm. Salg,12.500,3,Stuehus,120,1878,,
+Parkvej 154293 Dianalund,lund,1.275.000,31-03-2011,Alm. Salg,10.450,5,Villa,122,1976,,Aktuel værdi
+Fyrrevænget 34293 Dianalund,lund,1.395.000,15-03-2011,Alm. Salg,9.687,4,Villa,144,1973,0 %,Aktuel værdi
+Øllemosen 44293 Dianalund,lund,820.000,08-03-2011,Auktion,5.774,3,Stuehus,142,1912,-52 %,
+Rosenvej 3A4293 Dianalund,lund,600.000,15-02-2011,Auktion,4.615,6,Villa,130,1931,,Aktuel værdi
+Åmosevej 54293 Dianalund,lund,550.000,13-02-2011,Alm. Salg,4.621,4,Villa,119,1924,-54 %,Aktuel værdi
+Skyttevej 184293 Dianalund,lund,680.000,09-02-2011,Alm. Salg,8.947,4,Villa,76,1954,-9 %,Aktuel værdi
+Norgesvej 34293 Dianalund,lund,1.632.500,04-02-2011,Alm. Salg,10.203,4,Villa,160,1980,-4 %,Aktuel værdi
+Lundtoftevej 64293 Dianalund,lund,850.000,02-02-2011,Alm. Salg,9.444,5,Villa,90,1963,-11 %,Aktuel værdi
+Karsholtevej 44293 Dianalund,lund,350.000,01-02-2011,Alm. Salg,4.861,3,Villa,72,1900,-11 %,Aktuel værdi
+Færøvej 394293 Dianalund,lund,420.000,25-01-2011,Alm. Salg,3.157,6,Villa,133,2011,-15 %,Aktuel værdi
+Rugvænget 264293 Dianalund,lund,1.600.000,21-01-2011,Alm. Salg,11.034,5,Villa,145,1980,-6 %,Aktuel værdi
+Karsholtevej 114293 Dianalund,lund,600.000,12-01-2011,Auktion,3.658,5,Villa,164,1870,,Aktuel værdi
+Grønningen 4B4293 Dianalund,lund,845.000,12-01-2011,Alm. Salg,12.426,2,Rækkehus,68,1988,-6 %,Aktuel værdi
+Verupvej 194293 Dianalund,lund,480.000,10-01-2011,Alm. Salg,4.403,3,Villa,109,1948,-36 %,Aktuel værdi
+Møllevænget 154293 Dianalund,lund,812.243,04-01-2011,Fam. Salg,4.806,4,Villa,169,1976,,Aktuel værdi
+Dr Sells Vej 404293 Dianalund,lund,725.000,15-12-2010,Alm. Salg,6.041,5,Villa,120,1920,-9 %,Aktuel værdi
+Færøvej 644293 Dianalund,lund,350.000,30-11-2010,Alm. Salg,2.058,5,Villa,170,2012,0 %,Aktuel værdi
+Åvænget 144293 Dianalund,lund,1.300.000,25-11-2010,Alm. Salg,7.878,5,Villa,165,1977,-7 %,Aktuel værdi
+Ventemøllevej 184293 Dianalund,lund,815.000,24-11-2010,Auktion,7.086,4,Villa,115,1963,,Aktuel værdi
+Tangegårdsvej 14293 Dianalund,lund,1.650.000,22-11-2010,Alm. Salg,10.312,5,Villa,160,1900,-8 %,Aktuel værdi
+Kragebrovej 94293 Dianalund,lund,900.000,19-11-2010,Alm. Salg,6.428,4,Villa,140,1864,,Aktuel værdi
+Sølvagerparken 54293 Dianalund,lund,1.500.000,17-11-2010,Alm. Salg,13.636,4,Villa,110,2008,-12 %,Aktuel værdi
+Brandstrupvej 384293 Dianalund,lund,300.000,15-11-2010,Alm. Salg,2.752,2,Rækkehus,109,1920,,Aktuel værdi
+Bakkevænget 274293 Dianalund,lund,738.000,22-10-2010,Alm. Salg,6.000,4,Villa,123,1974,,Aktuel værdi
+Finlandsvej 84293 Dianalund,lund,1.675.000,21-10-2010,Alm. Salg,8.589,7,Villa,195,1981,-11 %,Aktuel værdi
+Lundtoftevej 144293 Dianalund,lund,900.000,20-10-2010,Alm. Salg,9.574,4,Villa,94,1970,-10 %,Aktuel værdi
+Sømosevej 324293 Dianalund,lund,900.000,20-10-2010,Alm. Salg,9.000,4,Villa,100,1966,-10 %,Aktuel værdi
+Øremosevej 54293 Dianalund,lund,225.000,18-10-2010,Alm. Salg,3.571,3,Villa,63,1911,,Aktuel værdi
+Leandersvej 134293 Dianalund,lund,1.700.000,07-10-2010,Alm. Salg,12.592,3,Villa,135,1977,-5 %,Aktuel værdi
+Færøvej 604293 Dianalund,lund,450.000,06-10-2010,Alm. Salg,2.884,6,Villa,156,2011,29 %,Aktuel værdi
+Færøvej 324293 Dianalund,lund,275.000,21-09-2010,Alm. Salg,1.348,6,Villa,204,2013,,Aktuel værdi
+Karsholtevej 374293 Dianalund,lund,950.000,16-09-2010,Alm. Salg,7.251,5,Villa,131,1961,-5 %,Aktuel værdi
+Fyrrevænget 84293 Dianalund,lund,1.130.000,15-09-2010,Alm. Salg,9.741,4,Villa,116,1975,-2 %,Aktuel værdi
+Malerivej 54293 Dianalund,lund,1.495.000,10-09-2010,Alm. Salg,12.887,3,Rækkehus,116,2010,0 %,Aktuel værdi
+Enggårdsvej 54293 Dianalund,lund,1.300.000,04-09-2010,Alm. Salg,9.285,5,Villa,140,1962,-10 %,Aktuel værdi
+Norgesvej 134293 Dianalund,lund,723.500,26-08-2010,Fam. Salg,5.439,5,Villa,133,1980,,Aktuel værdi
+Finlandsvej 174293 Dianalund,lund,850.000,16-08-2010,Fam. Salg,5.246,5,Villa,162,1984,,Aktuel værdi
+Færøvej 234293 Dianalund,lund,2.200.000,16-08-2010,Alm. Salg,14.012,5,Villa,157,2007,,Aktuel værdi
+Rugvænget 14293 Dianalund,lund,1.075.000,10-08-2010,Alm. Salg,8.143,5,Villa,132,1980,-10 %,Aktuel værdi
+Fyrrevænget 334293 Dianalund,lund,1.100.000,07-08-2010,Alm. Salg,9.909,4,Villa,111,1973,-4 %,Aktuel værdi
+Åvænget 34293 Dianalund,lund,600.000,29-07-2010,Alm. Salg,4.026,4,Villa,149,1971,,Aktuel værdi
+Holbergsvej 1214293 Dianalund,lund,647.500,16-07-2010,Andet,3.854,7,Villa,168,1904,-50 %,Aktuel værdi
+Enggårdsvej 34293 Dianalund,lund,1.750.000,14-07-2010,Alm. Salg,9.510,7,Villa,184,1963,,Aktuel værdi
+Merbjergvej 284293 Dianalund,lund,3.100.000,14-07-2010,Alm. Salg,15.656,5,Stuehus,198,1911,,
+Hedeborydevej 14293 Dianalund,lund,670.500,13-07-2010,Fam. Salg,4.353,5,Villa,154,1973,,Aktuel værdi
+Finlandsvej 234293 Dianalund,lund,747.500,13-07-2010,Fam. Salg,6.443,4,Villa,116,1988,-50 %,Aktuel værdi
+Nygårdsvej 24293 Dianalund,lund,2.265.000,06-07-2010,Alm. Salg,9.398,6,Villa,241,1906,-9 %,Aktuel værdi
+Øgårdsvej 374293 Dianalund,lund,1.600.000,06-07-2010,Alm. Salg,23.188,3,Stuehus,69,1890,,
+Agervænget 104293 Dianalund,lund,1.300.000,03-07-2010,Alm. Salg,9.848,4,Villa,132,1979,-10 %,Aktuel værdi
+Bøgevænget 324293 Dianalund,lund,1.673.000,01-07-2010,Alm. Salg,12.674,4,Villa,132,1974,-1 %,Aktuel værdi
+Åmosevej 8A4293 Dianalund,lund,1.043.200,30-06-2010,Auktion,11.097,3,Lejlighed,94,1905,,Aktuel værdi
+"Åmosevej 8B, ST4293 Dianalund",lund,1.043.200,30-06-2010,Auktion,13.040,2,Lejlighed,80,1905,,Aktuel værdi
+"Åmosevej 8B, 14293 Dianalund",lund,1.043.200,30-06-2010,Auktion,12.568,3,Lejlighed,83,1905,,Aktuel værdi
+Åmosevej 8C4293 Dianalund,lund,1.043.200,30-06-2010,Auktion,9.749,3,Lejlighed,107,1905,,Aktuel værdi
+Verupgårdsvej 184293 Dianalund,lund,525.000,04-06-2010,Andet,4.646,4,Villa,113,1951,,Aktuel værdi
+Holbergsvej 454293 Dianalund,lund,1.000.000,03-06-2010,Alm. Salg,10.000,5,Rækkehus,100,1952,-7 %,Aktuel værdi
+Øremosevej 114293 Dianalund,lund,800.000,03-06-2010,Alm. Salg,11.428,2,Villa,70,1857,1 %,Aktuel værdi
+Grønningen 264293 Dianalund,lund,1.895.000,28-05-2010,Alm. Salg,15.406,4,Villa,123,1998,0 %,Aktuel værdi
+Nøddestivej 24293 Dianalund,lund,500.000,27-05-2010,Fam. Salg,2.336,10,Villa,214,1947,,Aktuel værdi
+Karsholtevej 394293 Dianalund,lund,1.145.000,23-05-2010,Alm. Salg,10.904,4,Villa,105,1961,0 %,Aktuel værdi
+Bakkevænget 254293 Dianalund,lund,1.140.000,12-05-2010,Alm. Salg,10.555,3,Villa,108,1974,-8 %,Aktuel værdi
+Lundtoftevej 674293 Dianalund,lund,860.000,05-05-2010,Alm. Salg,10.361,3,Villa,83,1966,-9 %,Aktuel værdi
+Karsholtevej 694293 Dianalund,lund,2.476.000,03-05-2010,Auktion,16.397,3,Stuehus,151,1934,,
+Åmosevej 184293 Dianalund,lund,875.000,02-05-2010,Alm. Salg,5.756,5,Villa,152,1877,-2 %,Aktuel værdi
+Lunden 254293 Dianalund,lund,705.000,29-04-2010,Alm. Salg,11.750,3,Villa,60,1964,-21 %,Aktuel værdi
+Ellevej 24293 Dianalund,lund,645.000,14-04-2010,Auktion,5.078,3,Villa,127,1962,,Aktuel værdi
+Fyrrevænget 324293 Dianalund,lund,1.094.000,10-03-2010,Alm. Salg,8.164,5,Villa,134,1975,-16 %,Aktuel værdi
+Brandstrupvej 464293 Dianalund,lund,738.000,09-03-2010,Auktion,4.122,6,Villa,179,1939,,Aktuel værdi
+Kragerupvej 64293 Dianalund,lund,140.000,03-03-2010,Alm. Salg,1.166,5,Stuehus,120,1903,,
+Bastbjergvej 44293 Dianalund,lund,700.000,02-03-2010,Alm. Salg,8.641,3,Villa,81,1880,-12 %,Aktuel værdi
+Vestervang 204293 Dianalund,lund,902.000,25-02-2010,Alm. Salg,9.111,5,Villa,99,1954,-25 %,Aktuel værdi
+Sverigesvej 314293 Dianalund,lund,1.900.000,14-02-2010,Alm. Salg,11.515,6,Villa,165,2000,-5 %,Aktuel værdi
+Færøvej 374293 Dianalund,lund,2.675.000,10-02-2010,Alm. Salg,13.375,7,Villa,200,2007,-4 %,Aktuel værdi
+Dr Christiansens Vej 94293 Dianalund,lund,1.410.000,05-02-2010,Alm. Salg,12.935,4,Villa,109,1953,-6 %,Aktuel værdi
+Tangagervej 74293 Dianalund,lund,1.020.000,25-01-2010,Fam. Salg,11.333,4,Sommerhus,90,1905,,Aktuel værdi
+Fyrrevænget 144293 Dianalund,lund,750.000,12-01-2010,Auktion,10.273,3,Villa,73,1970,,Aktuel værdi
+Strædet 14293 Dianalund,lund,20.000,12-01-2010,Auktion,158,4,Villa,126,1870,,Aktuel værdi
+Dianalundvej 184293 Dianalund,lund,1.250.000,11-01-2010,Alm. Salg,9.615,5,Stuehus,130,1913,-10 %,
+Karsholtevej 164293 Dianalund,lund,950.000,06-01-2010,Alm. Salg,10.795,3,Villa,88,1934,,Aktuel værdi
+Gammelgang 84293 Dianalund,lund,1.950.000,30-12-2009,Alm. Salg,20.103,5,Stuehus,97,1898,,
+Pernillesvej 114293 Dianalund,lund,1.250.000,10-12-2009,Alm. Salg,9.615,5,Villa,130,1976,-3 %,Aktuel værdi
+Nordvænget 14293 Dianalund,lund,950.000,10-12-2009,Auktion,5.621,6,Villa,169,1974,-21 %,Aktuel værdi
+Øremosevej 24293 Dianalund,lund,10.000.000,07-12-2009,Alm. Salg,40.000,8,Stuehus,250,1890,,
+Enighedsvej 164293 Dianalund,lund,850.000,01-12-2009,Alm. Salg,6.640,5,Villa,128,1966,-15 %,Aktuel værdi
+Dianalundvej 304293 Dianalund,lund,1.350.000,18-11-2009,Alm. Salg,4.891,8,Stuehus,276,2011,,
+Skyttevej 44293 Dianalund,lund,700.000,16-11-2009,Alm. Salg,5.785,5,Villa,121,1945,,Aktuel værdi
+Skellebjergvej 424293 Dianalund,lund,375.000,02-11-2009,Alm. Salg,4.464,3,Villa,84,1862,,Aktuel værdi
+Færøvej 724293 Dianalund,lund,1.995.000,27-10-2009,Alm. Salg,14.777,6,Villa,135,2007,0 %,Aktuel værdi
+Øgårdsvej 264293 Dianalund,lund,1.700.000,25-10-2009,Alm. Salg,18.888,3,Villa,90,1880,0 %,Aktuel værdi
+Møllevænget 44293 Dianalund,lund,1.300.000,19-10-2009,Alm. Salg,9.489,4,Villa,137,1973,-13 %,Aktuel værdi
+Bøgevænget 244293 Dianalund,lund,1.200.000,26-09-2009,Alm. Salg,11.320,4,Villa,106,1973,-11 %,Aktuel værdi
+Lunden 134293 Dianalund,lund,360.000,21-09-2009,Alm. Salg,12.000,2,Sommerhus,30,1961,-9 %,Aktuel værdi
+Pernillesvej 64293 Dianalund,lund,875.000,09-09-2009,Alm. Salg,5.000,7,Villa,175,1977,-26 %,Aktuel værdi
+Kragebrovej 164293 Dianalund,lund,1.500.000,06-09-2009,Alm. Salg,10.714,5,Stuehus,140,1910,-6 %,
+Islandsvej 234293 Dianalund,lund,2.050.000,23-08-2009,Alm. Salg,9.490,7,Villa,216,1993,,Aktuel værdi
+Lundtoftevej 774293 Dianalund,lund,1.000.000,14-08-2009,Alm. Salg,6.756,5,Villa,148,1965,-28 %,Aktuel værdi
+Karsholtevej 384293 Dianalund,lund,995.000,10-08-2009,Alm. Salg,7.425,5,Villa,134,1939,0 %,Aktuel værdi
+Færøvej 144293 Dianalund,lund,1.445.000,28-07-2009,Alm. Salg,10.547,5,Villa,137,2005,,Aktuel værdi
+Færøvej 444293 Dianalund,lund,250.000,13-07-2009,Alm. Salg,1.633,7,Villa,153,2012,,Aktuel værdi
+Åmosevej 284293 Dianalund,lund,595.000,11-07-2009,Alm. Salg,8.880,3,Villa,67,1926,0 %,Aktuel værdi
+Finlandsvej 214293 Dianalund,lund,1.200.000,08-07-2009,Alm. Salg,10.344,4,Villa,116,1984,-7 %,Aktuel værdi
+Sømosevej 404293 Dianalund,lund,1.300.000,24-06-2009,Alm. Salg,12.264,5,Villa,106,1967,-23 %,Aktuel værdi
+Niels Klims Vej 294293 Dianalund,lund,1.500.000,22-06-2009,Alm. Salg,9.803,5,Villa,153,1977,-12 %,Aktuel værdi
+Karsholtevej 474293 Dianalund,lund,650.000,15-06-2009,Fam. Salg,4.220,5,Villa,154,1959,,Aktuel værdi
+Frederiksberg 94293 Dianalund,lund,1.150.000,12-06-2009,Auktion,5.958,4,Villa,193,1972,16 %,Aktuel værdi
+Skyttevej 24293 Dianalund,lund,1.065.000,22-05-2009,Alm. Salg,9.025,4,Villa,118,1937,-9 %,Aktuel værdi
+Rugvænget 94293 Dianalund,lund,1.450.000,19-05-2009,Alm. Salg,13.809,4,Villa,105,1986,-3 %,Aktuel værdi
+Banevej 94293 Dianalund,lund,550.000,15-05-2009,Alm. Salg,4.230,5,Villa,130,1906,-27 %,Aktuel værdi
+Akacievej 104293 Dianalund,lund,1.927.000,11-05-2009,Alm. Salg,9.492,6,Villa,203,1963,,Aktuel værdi
+Bøgevænget 124293 Dianalund,lund,1.200.000,09-05-2009,Alm. Salg,9.160,4,Villa,131,1981,-2 %,Aktuel værdi
+Mågevej 224293 Dianalund,lund,1.495.000,27-04-2009,Alm. Salg,11.156,4,Villa,134,1975,0 %,Aktuel værdi
+Leandersvej 44293 Dianalund,lund,1.300.000,16-04-2009,Alm. Salg,12.264,4,Villa,106,1976,-7 %,Aktuel værdi
+Dr Christiansens Vej 104293 Dianalund,lund,1.195.000,07-04-2009,Alm. Salg,8.298,5,Villa,144,1957,0 %,Aktuel værdi
+Klokkerskov 54293 Dianalund,lund,2.380.000,29-03-2009,Fam. Salg,15.063,4,Villa,158,2004,,Aktuel værdi
+Dr Christiansens Vej 74293 Dianalund,lund,1.900.000,27-03-2009,Alm. Salg,10.439,7,Villa,182,1955,-19 %,Aktuel værdi
+Parkvej 14293 Dianalund,lund,900.000,24-03-2009,Alm. Salg,8.108,3,Villa,111,1973,,Aktuel værdi
+Tjørnevej 84293 Dianalund,lund,695.000,24-03-2009,Alm. Salg,11.209,3,Villa,62,1961,0 %,Aktuel værdi
+Verupvej 184293 Dianalund,lund,837.500,19-03-2009,Alm. Salg,4.926,5,Villa,170,1941,,Aktuel værdi
+Birkemosevej 24293 Dianalund,lund,895.000,18-03-2009,Alm. Salg,21.829,3,Villa,41,1948,0 %,Aktuel værdi
+Mågevej 174293 Dianalund,lund,1.250.000,24-02-2009,Alm. Salg,9.057,4,Villa,138,1974,-9 %,Aktuel værdi
+Parkvej 94293 Dianalund,lund,1.600.000,17-02-2009,Alm. Salg,11.510,4,Villa,139,1974,-9 %,Aktuel værdi
+Engtoftevej 14293 Dianalund,lund,1.125.000,31-01-2009,Alm. Salg,11.597,4,Villa,97,1958,-13 %,Aktuel værdi
+Møllevænget 314293 Dianalund,lund,1.495.000,28-01-2009,Alm. Salg,13.715,4,Villa,109,1985,0 %,Aktuel værdi
+Brandstrupvej 424293 Dianalund,lund,610.000,28-01-2009,Auktion,4.728,4,Villa,129,1863,-38 %,Aktuel værdi
+Rolighedsvej 64293 Dianalund,lund,1.440.000,23-01-2009,Alm. Salg,12.972,3,Villa,111,1930,-11 %,Aktuel værdi
+Nordvænget 44293 Dianalund,lund,1.165.000,20-01-2009,Alm. Salg,13.238,3,Villa,88,1972,-7 %,Aktuel værdi
+Møllevej 14293 Dianalund,lund,776.643,09-01-2009,Alm. Salg,5.319,5,Villa,146,1965,-57 %,Aktuel værdi
+Nordvænget 54293 Dianalund,lund,900.000,07-01-2009,Auktion,6.870,4,Villa,131,1973,,Aktuel værdi
+Islandsvej 54293 Dianalund,lund,8.753.500,28-12-2008,Alm. Salg,15.223,12,Anden beboelse,575,2010,,Aktuel værdi
+Niels Klims Vej 44293 Dianalund,lund,1.200.000,08-12-2008,Alm. Salg,9.022,5,Villa,133,1977,-14 %,Aktuel værdi
+Tåderupvej 264293 Dianalund,lund,315.000,01-12-2008,Alm. Salg,15.750,1,Villa,20,1967,-20 %,Aktuel værdi
+Reliefvej 44293 Dianalund,lund,350.000,22-11-2008,Andet,1.446,7,Villa,242,2009,,Aktuel værdi
+Færøvej 304293 Dianalund,lund,1.179.567,12-11-2008,Andet,8.134,5,Villa,145,2008,,Aktuel værdi
+Frederiksberg 194293 Dianalund,lund,1.075.000,06-11-2008,Alm. Salg,7.570,3,Villa,142,1900,-10 %,Aktuel værdi
+Åvej 2C4293 Dianalund,lund,1.035.000,18-10-2008,Alm. Salg,11.010,4,Villa,94,1968,-10 %,Aktuel værdi
+Åvænget 104293 Dianalund,lund,1.823.900,13-10-2008,Fam. Salg,9.305,6,Villa,196,1973,,Aktuel værdi
+Niels Klims Vej 254293 Dianalund,lund,774.246,23-09-2008,Alm. Salg,5.303,5,Villa,146,1978,,Aktuel værdi
+Pernillesvej 84293 Dianalund,lund,1.425.000,15-09-2008,Alm. Salg,10.795,4,Villa,132,1978,-8 %,Aktuel værdi
+Frederiksberg 134293 Dianalund,lund,414.000,08-09-2008,Auktion,3.763,5,Villa,110,1900,,Aktuel værdi
+Mågevej 124293 Dianalund,lund,1.370.000,30-08-2008,Alm. Salg,11.416,4,Villa,120,1969,-2 %,Aktuel værdi
+Finlandsvej 164293 Dianalund,lund,1.115.000,26-08-2008,Alm. Salg,10.136,4,Villa,110,1984,-28 %,Aktuel værdi
+Fasanvej 34293 Dianalund,lund,1.150.000,25-08-2008,Andet,8.273,5,Villa,139,1955,,Aktuel værdi
+Dianalundvej 54293 Dianalund,lund,466.707,19-08-2008,Andet,4.204,4,Villa,111,1920,,Aktuel værdi
+Lærkemosevej 94293 Dianalund,lund,300.000,29-07-2008,Alm. Salg,7.500,2,Sommerhus,40,1961,,Aktuel værdi
+Færøvej 84293 Dianalund,lund,2.400.000,23-07-2008,Alm. Salg,16.551,5,Villa,145,2005,-8 %,Aktuel værdi
+Bakkevænget 214293 Dianalund,lund,1.595.000,06-07-2008,Alm. Salg,13.181,4,Villa,121,1975,0 %,Aktuel værdi
+Skellebjergvej 34293 Dianalund,lund,1.000.000,25-06-2008,Alm. Salg,5.586,6,Villa,179,1943,,Aktuel værdi
+Skellebjergvej 54293 Dianalund,lund,4.500.000,25-06-2008,Alm. Salg,25.568,7,Villa,176,1916,,Aktuel værdi
+Skovbrynet 54293 Dianalund,lund,1.800.000,08-06-2008,Alm. Salg,13.043,5,Villa,138,1932,-5 %,Aktuel værdi
+Karsholtevej 254293 Dianalund,lund,1.362.508,02-06-2008,Fam. Salg,13.903,5,Villa,98,1930,,Aktuel værdi
+Herrestrupvej 204293 Dianalund,lund,475.000,02-06-2008,Alm. Salg,7.786,3,Villa,61,1957,,Aktuel værdi
+Parkvej 124293 Dianalund,lund,1.675.000,28-05-2008,Alm. Salg,12.226,5,Villa,137,1975,-4 %,Aktuel værdi
+Sølvagerparken 194293 Dianalund,lund,1.925.000,27-05-2008,Alm. Salg,17.500,4,Villa,110,2008,,Aktuel værdi
+Sølvagerparken 94293 Dianalund,lund,1.925.000,23-05-2008,Alm. Salg,17.500,4,Villa,110,2008,,Aktuel værdi
+Merbjergvej 444293 Dianalund,lund,1.450.000,22-05-2008,Alm. Salg,11.068,6,Villa,131,1920,-3 %,Aktuel værdi
+Lundtoftevej 164293 Dianalund,lund,1.900.000,12-05-2008,Alm. Salg,13.194,5,Villa,144,1968,-9 %,Aktuel værdi
+Dr Sells Vej 214293 Dianalund,lund,1.950.000,28-04-2008,Alm. Salg,7.169,9,Villa,272,1930,,Aktuel værdi
+Nybovej 104293 Dianalund,lund,1.150.000,28-04-2008,Auktion,7.986,7,Villa,144,1933,,Aktuel værdi
+Dianalundvej 264293 Dianalund,lund,1.450.000,21-04-2008,Alm. Salg,13.679,5,Villa,106,1962,0 %,Aktuel værdi
+Lundtoftevej 154293 Dianalund,lund,1.620.000,20-04-2008,Alm. Salg,12.857,4,Villa,126,1971,-2 %,Aktuel værdi
+Finlandsvej 154293 Dianalund,lund,2.050.000,06-04-2008,Alm. Salg,12.654,6,Villa,162,1981,-7 %,Aktuel værdi
+Sølvagerparken 74293 Dianalund,lund,1.974.000,14-03-2008,Alm. Salg,17.945,4,Villa,110,2008,0 %,Aktuel værdi
+Bøgevænget 384293 Dianalund,lund,812.000,10-03-2008,Alm. Salg,7.660,4,Villa,106,1973,,Aktuel værdi
+Magleengen 44293 Dianalund,lund,2.250.000,07-03-2008,Alm. Salg,15.734,3,Villa,143,1900,-2 %,Aktuel værdi
+Færøvej 484293 Dianalund,lund,2.930.000,05-03-2008,Alm. Salg,16.460,5,Villa,178,2007,-2 %,Aktuel værdi
+Herrestrupvej 294293 Dianalund,lund,750.000,29-02-2008,Alm. Salg,6.944,4,Villa,108,1945,,Aktuel værdi
+Holbergsvej 1294293 Dianalund,lund,2.195.000,12-02-2008,Alm. Salg,17.991,5,Villa,122,1944,0 %,Aktuel værdi
+Fyrrevænget 194293 Dianalund,lund,1.450.000,05-02-2008,Alm. Salg,11.507,4,Villa,126,1972,-9 %,Aktuel værdi
+Peder Paars Vej 174293 Dianalund,lund,1.275.000,24-01-2008,Alm. Salg,11.383,4,Villa,112,1977,0 %,Aktuel værdi
+Færøvej 504293 Dianalund,lund,917.615,22-01-2008,Alm. Salg,6.285,6,Villa,146,2008,,Aktuel værdi
+Lundtoftevej 134293 Dianalund,lund,1.850.000,21-01-2008,Alm. Salg,14.566,5,Villa,127,1964,-2 %,Aktuel værdi
+Magleengen 24293 Dianalund,lund,100.000,21-01-2008,Alm. Salg,662,6,Stuehus,151,1926,,
+Karsholtevej 44B4293 Dianalund,lund,1.385.000,26-12-2007,Alm. Salg,13.190,3,Villa,105,1880,,Aktuel værdi
+Holbergsvej 1054293 Dianalund,lund,594.950,20-12-2007,Fam. Salg,4.999,4,Villa,119,1948,-52 %,Aktuel værdi
+Bøgevænget 74293 Dianalund,lund,1.355.000,10-12-2007,Alm. Salg,-,3,Villa,131,1976,-3 %,Aktuel værdi
+Finlandsvej 94293 Dianalund,lund,1.995.000,23-11-2007,Alm. Salg,11.022,5,Villa,181,1982,,Aktuel værdi
+Merbjergvej 154293 Dianalund,lund,1.375.000,12-11-2007,Alm. Salg,4.741,12,Villa,290,1893,-8 %,Aktuel værdi
+Rugvænget 144293 Dianalund,lund,1.525.000,11-11-2007,Alm. Salg,11.821,4,Villa,129,1980,-4 %,Aktuel værdi
+Sømosevej 364293 Dianalund,lund,1.700.000,08-11-2007,Alm. Salg,-,7,Villa,170,1965,0 %,Aktuel værdi
+Færøvej 624293 Dianalund,lund,370.000,07-11-2007,Alm. Salg,2.102,5,Villa,176,2009,,Aktuel værdi
+Ventemøllevej 24293 Dianalund,lund,1.545.000,31-10-2007,Alm. Salg,13.552,5,Villa,114,1885,,Aktuel værdi
+Sverigesvej 294293 Dianalund,lund,1.850.000,30-10-2007,Alm. Salg,9.840,6,Villa,188,2004,-7 %,Aktuel værdi
+Karsholtevej 154293 Dianalund,lund,1.395.000,29-10-2007,Alm. Salg,10.488,3,Villa,133,1938,0 %,Aktuel værdi
+Karsholtevej 174293 Dianalund,lund,1.575.000,26-10-2007,Alm. Salg,10.227,5,Villa,154,1936,-7 %,Aktuel værdi
+Frederiksberg 14293 Dianalund,lund,1.375.000,19-10-2007,Alm. Salg,11.363,3,Villa,121,1961,-3 %,Aktuel værdi
+Agervænget 414293 Dianalund,lund,1.600.000,12-10-2007,Alm. Salg,10.126,4,Villa,158,1979,-9 %,Aktuel værdi
+Enighedsvej 44293 Dianalund,lund,1.195.000,04-10-2007,Alm. Salg,13.131,2,Villa,91,1960,0 %,Aktuel værdi
+Fyrrevænget 384293 Dianalund,lund,850.000,02-10-2007,Alm. Salg,6.343,5,Villa,134,1986,,Aktuel værdi
+Stendyssevej 74293 Dianalund,lund,1.077.155,01-10-2007,Andet,9.532,4,Stuehus,113,1890,,
+Våseskov 84293 Dianalund,lund,3.100.000,01-10-2007,Alm. Salg,11.272,6,Stuehus,275,2010,,
+Pernillesvej 154293 Dianalund,lund,1.585.000,29-09-2007,Alm. Salg,13.903,4,Villa,114,1977,-1 %,Aktuel værdi
+Grønningen 834293 Dianalund,lund,2.525.000,28-09-2007,Alm. Salg,17.413,6,Villa,145,2002,-6 %,Aktuel værdi
+Finlandsvej 254293 Dianalund,lund,2.450.000,04-09-2007,Alm. Salg,15.408,6,Villa,159,2001,-8 %,Aktuel værdi
+Møllevænget 124293 Dianalund,lund,1.775.000,04-09-2007,Alm. Salg,12.956,5,Villa,137,1987,-1 %,Aktuel værdi
+Vibevej 64293 Dianalund,lund,1.650.000,03-09-2007,Alm. Salg,14.732,4,Villa,112,1967,0 %,Aktuel værdi
+Finlandsvej 144293 Dianalund,lund,1.725.000,31-08-2007,Alm. Salg,13.167,4,Villa,131,1983,-1 %,Aktuel værdi
+Sølvagerparken 34293 Dianalund,lund,1.925.000,29-08-2007,Alm. Salg,17.500,4,Villa,110,2008,0 %,Aktuel værdi
+Tåderupvej 304293 Dianalund,lund,534.213,23-08-2007,Alm. Salg,3.087,5,Villa,173,1928,,Aktuel værdi
+Lærkevej 44293 Dianalund,lund,850.000,08-08-2007,Alm. Salg,8.500,3,Villa,100,1956,,Aktuel værdi
+Rønnebærvej 64293 Dianalund,lund,2.250.000,29-07-2007,Alm. Salg,14.802,6,Villa,152,1947,,Aktuel værdi
+Hedeborydevej 134293 Dianalund,lund,1.695.000,26-07-2007,Alm. Salg,14.487,4,Villa,117,1908,,Aktuel værdi
+Finlandsvej 114293 Dianalund,lund,1.594.521,17-07-2007,Fam. Salg,8.177,7,Villa,195,1980,,Aktuel værdi
+Rugvænget 124293 Dianalund,lund,1.675.000,16-07-2007,Alm. Salg,12.984,4,Villa,129,1982,0 %,Aktuel værdi
+Frederiksberg 74293 Dianalund,lund,795.000,12-07-2007,Alm. Salg,18.068,3,Villa,44,1962,0 %,Aktuel værdi
+Lundtoftevej 2A4293 Dianalund,lund,1.710.000,12-07-2007,Andet,17.628,3,Rækkehus,97,2007,0 %,Aktuel værdi
+Skulpturvej 34293 Dianalund,lund,426.000,11-07-2007,Alm. Salg,2.897,5,Villa,147,2008,,Aktuel værdi
+"Nybovej 12A, 14293 Dianalund",lund,1.285.000,04-07-2007,Alm. Salg,12.850,3,Lejlighed,100,2001,,Aktuel værdi
+Åmosevej 174293 Dianalund,lund,641.537,03-07-2007,Alm. Salg,5.346,4,Villa,120,1969,,Aktuel værdi
+Åvænget 44293 Dianalund,lund,1.500.000,03-07-2007,Alm. Salg,14.285,3,Villa,105,1969,-6 %,Aktuel værdi
+Agervænget 214293 Dianalund,lund,1.800.000,03-07-2007,Alm. Salg,12.000,5,Villa,150,1979,,Aktuel værdi
+Lundtoftevej 2B4293 Dianalund,lund,1.895.000,26-06-2007,Alm. Salg,17.546,4,Rækkehus,108,2007,-3 %,Aktuel værdi
+Kærvej 44293 Dianalund,lund,425.000,21-06-2007,Alm. Salg,-,7,Villa,176,1900,0 %,Aktuel værdi
+Dianalundvej 74293 Dianalund,lund,675.000,20-06-2007,Alm. Salg,8.437,5,Villa,80,1927,0 %,Aktuel værdi
+Bøgevænget 404293 Dianalund,lund,1.595.000,19-06-2007,Alm. Salg,11.902,6,Villa,134,1975,,Aktuel værdi
+Leren 44293 Dianalund,lund,750.000,18-06-2007,Alm. Salg,7.812,4,Stuehus,96,1900,,
+Lundtoftevej 304293 Dianalund,lund,1.325.000,14-06-2007,Alm. Salg,10.860,5,Villa,122,1967,,Aktuel værdi
+Herrestrupvej 394293 Dianalund,lund,1.395.000,08-06-2007,Alm. Salg,9.620,5,Villa,145,1925,0 %,Aktuel værdi
+Holbergsvej 2C4293 Dianalund,lund,1.595.000,31-05-2007,Alm. Salg,15.047,5,Villa,106,1948,0 %,Aktuel værdi
+Sverigesvej 44293 Dianalund,lund,2.675.000,29-05-2007,Alm. Salg,18.074,6,Villa,148,2006,0 %,Aktuel værdi
+Skulpturvej 24293 Dianalund,lund,360.000,21-05-2007,Alm. Salg,2.093,7,Villa,172,2013,,Aktuel værdi
+Færøvej 174293 Dianalund,lund,265.400,15-05-2007,Alm. Salg,1.669,5,Villa,159,2008,0 %,Aktuel værdi
+Islandsvej 94293 Dianalund,lund,1.725.000,07-05-2007,Alm. Salg,17.968,3,Rækkehus,96,2007,,Aktuel værdi
+Snerlevej 194293 Dianalund,lund,574.911,01-05-2007,Alm. Salg,4.751,4,Villa,121,1973,,Aktuel værdi
+Skellebjergvej 504293 Dianalund,lund,500.000,30-04-2007,Fam. Salg,5.617,3,Stuehus,89,1867,,
+"Nybovej 14A, 14293 Dianalund",lund,1.380.000,30-04-2007,Alm. Salg,13.800,3,Lejlighed,100,2005,,Aktuel værdi
+Nøddestivej 14293 Dianalund,lund,1.195.000,30-04-2007,Alm. Salg,11.950,3,Villa,100,1912,0 %,Aktuel værdi
+Skellebjergvej 184293 Dianalund,lund,1.395.000,26-04-2007,Alm. Salg,7.500,4,Villa,186,1839,0 %,Aktuel værdi
+Karsholtevej 414293 Dianalund,lund,1.945.000,23-04-2007,Alm. Salg,13.697,5,Villa,142,1961,-3 %,Aktuel værdi
+Herrestrupvej 14293 Dianalund,lund,2.495.000,20-04-2007,Alm. Salg,-,5,Stuehus,169,1917,0 %,
+Grønningen 854293 Dianalund,lund,2.395.000,12-04-2007,Alm. Salg,17.610,5,Villa,136,2003,0 %,Aktuel værdi
+Agervænget 74293 Dianalund,lund,700.000,28-03-2007,Alm. Salg,6.306,4,Villa,111,1979,,Aktuel værdi
+Nygårdsvej 54293 Dianalund,lund,6.635.000,27-03-2007,Alm. Salg,23.953,7,Stuehus,277,1903,,
+Parkvej 374293 Dianalund,lund,1.595.000,22-03-2007,Alm. Salg,13.869,5,Villa,115,1970,,Aktuel værdi
+Mosaikvej 44293 Dianalund,lund,545.000,21-03-2007,Alm. Salg,3.323,4,Villa,164,2008,0 %,Aktuel værdi
+Sømosevej 284293 Dianalund,lund,1.710.000,19-03-2007,Alm. Salg,19.000,4,Villa,90,1966,,Aktuel værdi
+Færøvej 194293 Dianalund,lund,242.100,17-03-2007,Alm. Salg,-,5,Villa,185,2007,0 %,Aktuel værdi
+Skovbrynet 34293 Dianalund,lund,1.050.000,14-03-2007,Alm. Salg,8.677,3,Villa,121,1930,,Aktuel værdi
+Færøvej 364293 Dianalund,lund,255.900,07-03-2007,Alm. Salg,1.867,4,Villa,137,2008,-2 %,Aktuel værdi
+Stationsvej 84293 Dianalund,lund,1.270.000,21-02-2007,Alm. Salg,10.672,4,Villa,119,1921,,Aktuel værdi
+Færøvej 424293 Dianalund,lund,255.300,18-02-2007,Alm. Salg,1.702,5,Villa,150,2008,-2 %,Aktuel værdi
+Færøvej 384293 Dianalund,lund,264.900,06-02-2007,Alm. Salg,1.409,6,Villa,188,2008,0 %,Aktuel værdi
+Rosenvej 24293 Dianalund,lund,1.425.000,25-01-2007,Alm. Salg,10.961,6,Villa,130,1923,0 %,Aktuel værdi
+Dr Sells Vej 254293 Dianalund,lund,850.000,15-01-2007,Alm. Salg,11.971,3,Villa,71,1850,0 %,Aktuel værdi
+Birkemosevej 14293 Dianalund,lund,750.000,08-01-2007,Alm. Salg,5.769,2,Villa,130,2010,,Aktuel værdi
+Herrestrupvej 934293 Dianalund,lund,345.000,17-12-2006,Alm. Salg,1.906,6,Villa,181,2009,,Aktuel værdi
+Bakkevej 234293 Dianalund,lund,3.395.000,14-12-2006,Alm. Salg,17.500,5,Stuehus,194,1828,,
+Dianalundvej 144293 Dianalund,lund,1.275.000,11-12-2006,Alm. Salg,10.625,4,Villa,120,1900,,Aktuel værdi
+Reliefvej 54293 Dianalund,lund,685.000,08-12-2006,Alm. Salg,3.702,4,Villa,185,2007,,Aktuel værdi
+Agervænget 494293 Dianalund,lund,1.950.000,07-12-2006,Alm. Salg,13.448,4,Villa,145,1979,,Aktuel værdi
+Birkemosevej 94293 Dianalund,lund,2.695.000,02-12-2006,Alm. Salg,10.286,5,Villa,262,1899,,Aktuel værdi
+Brandstrupvej 304293 Dianalund,lund,795.000,29-11-2006,Alm. Salg,8.833,3,Villa,90,1800,,Aktuel værdi
+Parkvej 304293 Dianalund,lund,1.850.000,27-11-2006,Alm. Salg,13.703,5,Villa,135,1987,,Aktuel værdi
+Kongstedvej 234293 Dianalund,lund,1.800.000,15-11-2006,Alm. Salg,9.424,5,Villa,191,1905,,Aktuel værdi
+Verupvej 584293 Dianalund,lund,3.995.000,01-11-2006,Alm. Salg,20.699,4,Stuehus,193,1897,,
+Lårupvej 334293 Dianalund,lund,1.500.000,26-10-2006,Alm. Salg,12.500,3,Villa,120,1941,,Aktuel værdi
+Færøvej 584293 Dianalund,lund,297.850,14-10-2006,Alm. Salg,2.291,5,Villa,130,2007,,Aktuel værdi
+"Dr Sells Vej 16B, 1. TH4293 Dianalund",lund,410.000,12-10-2006,Andet,4.315,2,Lejlighed,95,1947,,Aktuel værdi
+Parkvej 244293 Dianalund,lund,2.295.000,05-10-2006,Alm. Salg,14.902,5,Villa,154,2005,,Aktuel værdi
+Merbjergvej 194293 Dianalund,lund,1.500.000,30-09-2006,Alm. Salg,9.259,4,Villa,162,1963,,Aktuel værdi
+Stationsvej 204293 Dianalund,lund,1.695.000,30-09-2006,Alm. Salg,13.560,5,Villa,125,1910,,Aktuel værdi
+Havrevænget 34293 Dianalund,lund,1.120.000,20-09-2006,Alm. Salg,11.789,4,Rækkehus,95,1987,,Aktuel værdi
+Skyttevej 104293 Dianalund,lund,1.275.000,14-09-2006,Alm. Salg,12.500,4,Villa,102,1957,,Aktuel værdi
+Færøvej 214293 Dianalund,lund,281.050,11-09-2006,Andet,1.596,6,Villa,176,2013,,Aktuel værdi
+Skyttevej 1B4293 Dianalund,lund,1.790.000,11-09-2006,Alm. Salg,13.984,5,Villa,128,1944,,Aktuel værdi
+Øgårdsvej 3A4293 Dianalund,lund,1.195.000,22-08-2006,Alm. Salg,12.193,4,Rækkehus,98,2006,,Aktuel værdi
+Niels Klims Vej 194293 Dianalund,lund,1.945.000,17-08-2006,Alm. Salg,13.601,4,Villa,143,1978,,Aktuel værdi
+Mosaikvej 124293 Dianalund,lund,545.000,03-08-2006,Alm. Salg,4.067,4,Villa,134,2009,,Aktuel værdi
+Ventemøllevej 264293 Dianalund,lund,1.695.000,01-08-2006,Alm. Salg,11.689,5,Villa,145,1965,,Aktuel værdi
+Lundtoftevej 714293 Dianalund,lund,1.560.000,31-07-2006,Alm. Salg,10.684,5,Villa,146,1964,,Aktuel værdi
+Færøvej 704293 Dianalund,lund,350.000,31-07-2006,Alm. Salg,2.095,5,Villa,167,2008,,Aktuel værdi
+Skyttevej 1C4293 Dianalund,lund,1.195.000,28-07-2006,Alm. Salg,9.192,6,Villa,130,1958,,Aktuel værdi
+Bastbjergvej 64293 Dianalund,lund,1.500.000,27-07-2006,Alm. Salg,17.441,2,Villa,86,1912,,Aktuel værdi
+Skellebjergvej 204293 Dianalund,lund,1.415.000,25-07-2006,Alm. Salg,7.817,5,Villa,181,1900,,Aktuel værdi
+Skulpturvej 104293 Dianalund,lund,360.000,21-07-2006,Alm. Salg,2.686,4,Villa,134,2008,,Aktuel værdi
+Dr Sells Vej 334293 Dianalund,lund,1.995.000,18-07-2006,Alm. Salg,14.669,5,Villa,136,1920,,Aktuel værdi
+Møllevænget 344293 Dianalund,lund,1.495.000,12-07-2006,Alm. Salg,11.325,5,Villa,132,1972,,Aktuel værdi
+Møllevænget 104293 Dianalund,lund,650.000,12-07-2006,Alm. Salg,4.779,4,Villa,136,1976,,Aktuel værdi
+Færøvej 334293 Dianalund,lund,281.050,04-07-2006,Alm. Salg,1.552,6,Villa,181,2007,,Aktuel værdi
+Verupvej 94293 Dianalund,lund,1.285.000,03-07-2006,Alm. Salg,9.311,5,Villa,138,1961,,Aktuel værdi
+Brandstrupvej 404293 Dianalund,lund,745.000,26-06-2006,Alm. Salg,11.287,3,Rækkehus,66,1878,,Aktuel værdi
+Agervænget 54293 Dianalund,lund,1.650.000,25-06-2006,Alm. Salg,13.414,4,Villa,123,1980,,Aktuel værdi
+Herrestrupvej 134293 Dianalund,lund,1.545.000,21-06-2006,Alm. Salg,11.529,4,Villa,134,1940,,Aktuel værdi
+Dianalundvej 294293 Dianalund,lund,1.655.000,21-06-2006,Alm. Salg,7.355,5,Villa,225,1910,,Aktuel værdi
+Færøvej 114293 Dianalund,lund,353.351,20-06-2006,Alm. Salg,1.941,5,Villa,182,2007,,Aktuel værdi
+Engtoftevej 34293 Dianalund,lund,1.195.000,18-06-2006,Alm. Salg,10.127,4,Villa,118,1952,,Aktuel værdi
+Peder Paars Vej 114293 Dianalund,lund,2.295.000,15-06-2006,Alm. Salg,10.527,9,Villa,218,1977,,Aktuel værdi
+Færøvej 764293 Dianalund,lund,312.742,14-06-2006,Alm. Salg,1.727,6,Villa,181,2007,,Aktuel værdi
+Hesselbjergvej 24293 Dianalund,lund,750.000,12-06-2006,Alm. Salg,-,4,Villa,173,1878,,Aktuel værdi
+Enighedsvej 24293 Dianalund,lund,540.000,10-06-2006,Alm. Salg,2.797,6,Villa,193,2007,,Aktuel værdi
+Møllevænget 304293 Dianalund,lund,1.700.000,05-06-2006,Alm. Salg,10.059,4,Villa,169,1973,,Aktuel værdi
+Niels Klims Vej 174293 Dianalund,lund,1.600.000,30-05-2006,Alm. Salg,14.953,4,Villa,107,1979,,Aktuel værdi
+Færøvej 434293 Dianalund,lund,281.050,23-05-2006,Alm. Salg,1.951,6,Villa,144,2008,,Aktuel værdi
+Færøvej 254293 Dianalund,lund,421.700,19-05-2006,Alm. Salg,2.396,5,Villa,176,2008,,Aktuel værdi
+Enggårdsvej 94293 Dianalund,lund,1.175.000,18-05-2006,Alm. Salg,14.329,2,Villa,82,1964,,Aktuel værdi
+Lundtoftevej 594293 Dianalund,lund,1.788.000,15-05-2006,Alm. Salg,9.169,6,Villa,195,1966,,Aktuel værdi
+Færøvej 34293 Dianalund,lund,350.000,15-05-2006,Alm. Salg,2.272,5,Villa,154,2006,,Aktuel værdi
+Færøvej 414293 Dianalund,lund,281.050,11-05-2006,Alm. Salg,1.653,5,Villa,170,2015,,Aktuel værdi
+Bakkevænget 54293 Dianalund,lund,1.425.000,08-05-2006,Alm. Salg,11.776,4,Villa,121,1975,,Aktuel værdi
+"Nybovej 14C, ST4293 Dianalund",lund,1.375.000,06-05-2006,Alm. Salg,13.750,3,Lejlighed,100,2005,,Aktuel værdi
+Svinget 44293 Dianalund,lund,970.000,26-04-2006,Alm. Salg,8.660,4,Villa,112,1962,,Aktuel værdi
+Rosenvej 84293 Dianalund,lund,1.200.000,21-04-2006,Alm. Salg,15.000,3,Villa,80,1936,,Aktuel værdi
+Store Bjørnevej 94293 Dianalund,lund,1.950.000,19-04-2006,Alm. Salg,12.037,6,Villa,162,1972,,Aktuel værdi
+Øremosevej 14293 Dianalund,lund,6.500.000,18-04-2006,Alm. Salg,25.000,8,Stuehus,260,1817,,
+Hedeborydevej 244293 Dianalund,lund,730.000,05-04-2006,Alm. Salg,9.864,3,Villa,74,1967,,Aktuel værdi
+Øgårdsvej 3B4293 Dianalund,lund,125.000,27-03-2006,Alm. Salg,1.288,4,Rækkehus,97,2006,,Aktuel værdi
+Snerlevej 84293 Dianalund,lund,1.250.000,20-03-2006,Alm. Salg,7.102,6,Villa,176,1972,,Aktuel værdi
+Sverigesvej 334293 Dianalund,lund,2.595.000,16-03-2006,Alm. Salg,15.264,6,Villa,170,1999,,Aktuel værdi
+Holbergsvej 234293 Dianalund,lund,1.680.000,03-03-2006,Alm. Salg,16.800,5,Rækkehus,100,1952,,Aktuel værdi
+Tåderupvej 174293 Dianalund,lund,2.195.000,01-03-2006,Alm. Salg,9.843,4,Villa,223,1948,,Aktuel værdi
+Nordrupvej 84293 Dianalund,lund,781.336,01-03-2006,Alm. Salg,4.112,6,Stuehus,190,1894,,
+Leandersvej 124293 Dianalund,lund,1.895.000,28-02-2006,Alm. Salg,11.625,6,Villa,163,1975,,Aktuel værdi
+Færøvej 244293 Dianalund,lund,310.000,28-02-2006,Alm. Salg,1.962,4,Villa,158,2007,,Aktuel værdi
+Rolighedsvej 44293 Dianalund,lund,1.400.000,26-02-2006,Alm. Salg,12.389,5,Villa,113,1947,,Aktuel værdi
+Holmevejen 384293 Dianalund,lund,2.200.000,25-02-2006,Alm. Salg,16.793,6,Stuehus,131,1903,,
+Holbergsvej 1044293 Dianalund,lund,845.000,23-02-2006,Alm. Salg,10.180,4,Villa,83,1875,,Aktuel værdi
+Skyttevej 64293 Dianalund,lund,1.100.000,15-02-2006,Alm. Salg,12.500,3,Villa,88,1955,,Aktuel værdi
+Pernillesvej 184293 Dianalund,lund,1.675.000,09-02-2006,Alm. Salg,11.795,4,Villa,142,1976,,Aktuel værdi
+Parkvej 174293 Dianalund,lund,1.795.000,06-02-2006,Alm. Salg,10.621,6,Villa,169,1975,,Aktuel værdi
+Færøvej 404293 Dianalund,lund,243.900,02-02-2006,Alm. Salg,1.594,5,Villa,153,2007,,Aktuel værdi
+Færøvej 154293 Dianalund,lund,365.200,02-02-2006,Alm. Salg,2.006,6,Villa,182,2007,,Aktuel værdi
+Bøgevænget 44293 Dianalund,lund,700.000,30-01-2006,Fam. Salg,5.147,4,Villa,136,1970,,Aktuel værdi
+Pernillesvej 14293 Dianalund,lund,2.150.000,24-01-2006,Alm. Salg,9.772,8,Villa,220,1979,,Aktuel værdi
+Mosaikvej 84293 Dianalund,lund,545.000,19-01-2006,Alm. Salg,4.325,4,Villa,126,2007,,Aktuel værdi
+Bøgevænget 94293 Dianalund,lund,1.650.000,16-01-2006,Alm. Salg,12.790,4,Villa,129,1976,,Aktuel værdi
+Holbergsvej 1124293 Dianalund,lund,2.650.000,05-01-2006,Alm. Salg,21.200,5,Stuehus,125,1907,,
+Klokkerskov 34293 Dianalund,lund,1.500.000,02-01-2006,Alm. Salg,5.725,7,Stuehus,262,2008,,
+Bøgevænget 164293 Dianalund,lund,1.420.000,21-12-2005,Alm. Salg,10.441,5,Villa,136,1973,,Aktuel værdi
+Mågevej 14293 Dianalund,lund,1.695.000,17-12-2005,Alm. Salg,9.469,5,Villa,179,1973,,Aktuel værdi
+Rosenvej 144293 Dianalund,lund,2.160.000,17-12-2005,Alm. Salg,11.076,4,Villa,195,1961,,Aktuel værdi
+Dr Sells Vej 384293 Dianalund,lund,1.800.000,09-12-2005,Alm. Salg,9.729,7,Villa,185,1955,,Aktuel værdi
+Fyrrevænget 244293 Dianalund,lund,1.595.000,08-12-2005,Alm. Salg,13.181,4,Villa,121,1977,,Aktuel værdi
+Parkvej 364293 Dianalund,lund,1.295.000,01-12-2005,Alm. Salg,10.038,5,Villa,129,1969,,Aktuel værdi
+Bøgevænget 54293 Dianalund,lund,1.590.000,25-11-2005,Alm. Salg,11.357,5,Villa,140,1974,,Aktuel værdi
+Sverigesvej 124293 Dianalund,lund,305.400,14-11-2005,Alm. Salg,1.659,5,Villa,184,2006,,Aktuel værdi
+Holbergsvej 1114293 Dianalund,lund,1.160.000,14-11-2005,Alm. Salg,8.226,6,Villa,141,1939,,Aktuel værdi
+Ventemøllevej 164293 Dianalund,lund,1.200.000,10-11-2005,Alm. Salg,10.434,4,Villa,115,1963,,Aktuel værdi
+Sverigesvej 104293 Dianalund,lund,336.000,02-11-2005,Alm. Salg,1.548,6,Villa,217,2008,,Aktuel værdi
+Merbjergvej 264293 Dianalund,lund,2.275.000,01-11-2005,Alm. Salg,16.485,3,Stuehus,138,1902,,
+Rugvænget 154293 Dianalund,lund,1.975.000,18-10-2005,Alm. Salg,10.505,6,Villa,188,1981,,Aktuel værdi
+Holbergsvej 1194293 Dianalund,lund,998.000,17-10-2005,Alm. Salg,9.504,5,Villa,105,1870,,Aktuel værdi
+Sverigesvej 24293 Dianalund,lund,326.100,13-10-2005,Alm. Salg,1.988,5,Villa,164,2007,,Aktuel værdi
+Banevænget 84293 Dianalund,lund,1.233.000,06-10-2005,Alm. Salg,12.207,3,Villa,101,1960,,Aktuel værdi
+Holbergsvej 394293 Dianalund,lund,1.145.000,06-10-2005,Alm. Salg,11.450,5,Rækkehus,100,1952,,Aktuel værdi
+Ventemøllevej 4A4293 Dianalund,lund,850.000,03-10-2005,Alm. Salg,8.095,4,Villa,105,1939,,Aktuel værdi
+Fyrrevænget 364293 Dianalund,lund,1.585.000,01-10-2005,Alm. Salg,11.654,5,Villa,136,1973,,Aktuel værdi
+Hesselbjergvej 34293 Dianalund,lund,2.544.000,28-09-2005,Alm. Salg,14.537,4,Stuehus,175,1928,,
+Pernillesvej 104293 Dianalund,lund,1.695.000,26-09-2005,Alm. Salg,11.936,4,Villa,142,1977,,Aktuel værdi
+Skellebjergvej 284293 Dianalund,lund,965.000,22-09-2005,Alm. Salg,7.148,5,Villa,135,1895,,Aktuel værdi
+Skellebjergvej 464293 Dianalund,lund,610.000,22-09-2005,Fam. Salg,8.591,3,Stuehus,71,1927,,
+Sverigesvej 64293 Dianalund,lund,312.000,20-09-2005,Alm. Salg,1.857,6,Villa,168,2006,,Aktuel værdi
+Herrestrupvej 364293 Dianalund,lund,1.275.000,09-09-2005,Alm. Salg,9.659,4,Villa,132,1961,,Aktuel værdi
+Danasvej 124293 Dianalund,lund,1.075.000,29-08-2005,Alm. Salg,7.026,4,Villa,153,1907,,Aktuel værdi
+Pernillesvej 274293 Dianalund,lund,1.795.000,26-08-2005,Alm. Salg,14.593,5,Villa,123,1976,,Aktuel værdi
+Islandsvej 104293 Dianalund,lund,625.702,25-08-2005,Fam. Salg,5.959,4,Villa,105,1986,,Aktuel værdi
+Verupvej 244293 Dianalund,lund,900.000,25-08-2005,Alm. Salg,-,4,Sommerhus,87,1860,,Aktuel værdi
+Herrestrupvej 244293 Dianalund,lund,1.000.000,21-08-2005,Alm. Salg,6.172,6,Villa,162,1933,,Aktuel værdi
+Skyttevej 244293 Dianalund,lund,1.356.000,20-08-2005,Alm. Salg,-,8,Villa,145,1954,,Aktuel værdi
+Skovbrynet 114293 Dianalund,lund,1.285.000,18-08-2005,Alm. Salg,9.311,4,Villa,138,1967,,Aktuel værdi
+Ventemøllevej 314293 Dianalund,lund,1.595.000,17-08-2005,Alm. Salg,8.394,7,Villa,190,1809,,Aktuel værdi
+"Stationsvej 18A, 14293 Dianalund",lund,1.900.000,09-08-2005,Alm. Salg,10.734,2,Villa,177,1905,,Aktuel værdi
+Karsholtevej 264293 Dianalund,lund,1.175.000,07-08-2005,Alm. Salg,8.901,3,Villa,132,1938,,Aktuel værdi
+Dr Sells Vej 364293 Dianalund,lund,2.010.000,02-08-2005,Alm. Salg,9.095,8,Villa,221,1963,,Aktuel værdi
+"Nybovej 14B, 14293 Dianalund",lund,1.095.000,25-07-2005,Alm. Salg,13.192,2,Lejlighed,83,2005,,Aktuel værdi
+Østerled 84293 Dianalund,lund,1.195.000,25-07-2005,Alm. Salg,11.380,3,Villa,105,1961,,Aktuel værdi
+Sverigesvej 144293 Dianalund,lund,222.250,19-07-2005,Alm. Salg,1.966,4,Villa,113,2006,,Aktuel værdi
+Færøvej 104293 Dianalund,lund,204.000,15-07-2005,Alm. Salg,1.221,7,Villa,167,2007,,Aktuel værdi
+Bøgevænget 104293 Dianalund,lund,1.450.000,13-07-2005,Alm. Salg,12.393,4,Villa,117,1985,,Aktuel værdi
+Norgesvej 114293 Dianalund,lund,1.225.000,11-07-2005,Alm. Salg,10.652,4,Villa,115,1985,,Aktuel værdi
+Færøvej 184293 Dianalund,lund,190.500,21-06-2005,Alm. Salg,1.190,6,Villa,160,2006,,Aktuel værdi
+Finlandsvej 24293 Dianalund,lund,1.350.000,07-06-2005,Alm. Salg,-,6,Villa,166,1984,,Aktuel værdi
+Møllevej 34293 Dianalund,lund,915.000,01-06-2005,Alm. Salg,10.280,4,Villa,89,1965,,Aktuel værdi
+Rugvænget 534293 Dianalund,lund,1.395.000,30-05-2005,Alm. Salg,9.687,4,Villa,144,1980,,Aktuel værdi
+Dianalundvej 104293 Dianalund,lund,1.280.000,23-05-2005,Alm. Salg,9.770,5,Villa,131,1979,,Aktuel værdi
+Malerivej 64293 Dianalund,lund,1.125.000,22-05-2005,Alm. Salg,11.968,3,Rækkehus,94,2005,,Aktuel værdi
+Færøvej 264293 Dianalund,lund,251.250,20-05-2005,Alm. Salg,1.435,6,Villa,175,2007,,Aktuel værdi
+Islandsvej 174293 Dianalund,lund,1.665.000,18-05-2005,Alm. Salg,8.283,8,Villa,201,1989,,Aktuel værdi
+Holbergsvej 254293 Dianalund,lund,1.195.000,14-05-2005,Alm. Salg,11.950,5,Rækkehus,100,1952,,Aktuel værdi
+Frederiksberg 54293 Dianalund,lund,1.255.000,12-05-2005,Alm. Salg,9.960,4,Villa,126,1962,,Aktuel værdi
+Blomstervænget 354293 Dianalund,lund,1.175.000,10-05-2005,Alm. Salg,9.957,4,Villa,118,1964,,Aktuel værdi
+Parkvej 214293 Dianalund,lund,1.350.000,10-05-2005,Alm. Salg,9.926,4,Villa,136,1973,,Aktuel værdi
+"Nybovej 12B, ST4293 Dianalund",lund,900.000,02-05-2005,Alm. Salg,10.843,2,Lejlighed,83,2001,,Aktuel værdi
+Søndermarksvej 24293 Dianalund,lund,1.275.000,27-04-2005,Alm. Salg,12.028,5,Villa,106,1953,,Aktuel værdi
+Merbjergvej 404293 Dianalund,lund,1.950.000,22-04-2005,Alm. Salg,8.333,6,Villa,234,1870,,Aktuel værdi
+Åvænget 74293 Dianalund,lund,1.125.000,19-04-2005,Alm. Salg,12.784,3,Villa,88,1972,,Aktuel værdi
+Verupvej 264293 Dianalund,lund,964.878,17-04-2005,Alm. Salg,15.076,2,Villa,64,1852,,Aktuel værdi
+Frederiksberg 214293 Dianalund,lund,1.095.000,16-04-2005,Alm. Salg,10.950,4,Villa,100,1890,,Aktuel værdi
+Toftebakken 24293 Dianalund,lund,1.125.000,16-04-2005,Alm. Salg,-,4,Villa,125,1966,,Aktuel værdi
+Store Bjørnevej 34293 Dianalund,lund,1.160.000,14-04-2005,Alm. Salg,8.226,5,Villa,141,1968,,Aktuel værdi
+"Nybovej 12B, 14293 Dianalund",lund,895.000,06-04-2005,Alm. Salg,10.783,2,Lejlighed,83,2001,,Aktuel værdi
+Parkvej 54293 Dianalund,lund,1.175.000,01-04-2005,Alm. Salg,9.710,4,Villa,121,1976,,Aktuel værdi
+Bygaden 44293 Dianalund,lund,1.335.000,31-03-2005,Alm. Salg,6.209,7,Villa,215,1867,,Aktuel værdi
+Holbergsvej 104293 Dianalund,lund,1.495.000,31-03-2005,Alm. Salg,7.786,5,Villa,192,1910,,Aktuel værdi
+"Nybovej 14A, ST4293 Dianalund",lund,1.195.000,21-03-2005,Alm. Salg,11.950,3,Lejlighed,100,2005,,Aktuel værdi
+Karsholtevej 334293 Dianalund,lund,1.675.000,14-03-2005,Alm. Salg,8.909,6,Villa,188,1960,,Aktuel værdi
+Herrestrupvej 444293 Dianalund,lund,1.035.000,09-03-2005,Alm. Salg,9.672,3,Villa,107,1912,,Aktuel værdi
+Sverigesvej 164293 Dianalund,lund,250.500,07-03-2005,Alm. Salg,1.605,5,Villa,156,2006,,Aktuel værdi
+"Nybovej 14B, ST4293 Dianalund",lund,1.095.000,06-03-2005,Alm. Salg,13.192,2,Lejlighed,83,2005,,Aktuel værdi
+Norgesvej 234293 Dianalund,lund,1.165.000,28-02-2005,Alm. Salg,9.957,4,Villa,117,1979,,Aktuel værdi
+Drosselvej 154293 Dianalund,lund,750.000,26-02-2005,Alm. Salg,7.211,4,Villa,104,1970,,Aktuel værdi
+Fyrrevænget 264293 Dianalund,lund,650.000,24-02-2005,Alm. Salg,4.850,5,Villa,134,1974,,Aktuel værdi
+Pilegårdsvej 54293 Dianalund,lund,2.145.000,19-02-2005,Alm. Salg,8.313,6,Villa,258,1900,,Aktuel værdi
+Enighedsvej 94293 Dianalund,lund,1.055.000,13-02-2005,Alm. Salg,9.173,6,Villa,115,1958,,Aktuel værdi
+Vestervang 164293 Dianalund,lund,578.000,27-01-2005,Fam. Salg,6.422,3,Villa,90,1961,,Aktuel værdi
+Kragebrovej 124293 Dianalund,lund,1.754.408,27-01-2005,Alm. Salg,17.902,3,Stuehus,98,1910,,
+Holbergsvej 1274293 Dianalund,lund,1.765.000,24-01-2005,Alm. Salg,10.828,7,Villa,163,1931,,Aktuel værdi
+Skellebjergvej 314293 Dianalund,lund,1.100.000,24-01-2005,Alm. Salg,-,4,Villa,139,1894,,Aktuel værdi
+Hedeborydevej 34293 Dianalund,lund,542.500,06-01-2005,Alm. Salg,4.340,4,Villa,125,1971,,Aktuel værdi
+Sønderskovvej 34293 Dianalund,lund,1.400.000,03-01-2005,Alm. Salg,7.142,6,Stuehus,196,1870,,
+Lundtoftevej 814293 Dianalund,lund,1.220.000,03-01-2005,Alm. Salg,9.606,5,Villa,127,1963,,Aktuel værdi
+Danasvej 44293 Dianalund,lund,1.555.000,30-12-2004,Alm. Salg,8.098,7,Villa,192,1936,,Aktuel værdi
+Åvænget 94293 Dianalund,lund,1.125.000,28-12-2004,Alm. Salg,8.395,4,Villa,134,1973,,Aktuel værdi
+Nordrupvej 74293 Dianalund,lund,1.378.958,19-12-2004,Auktion,6.156,9,Stuehus,224,1928,,
+Agervænget 304293 Dianalund,lund,1.250.000,19-12-2004,Fam. Salg,10.245,4,Villa,122,1981,,Aktuel værdi
+Karsholtevej 35B4293 Dianalund,lund,349.095,16-12-2004,Fam. Salg,2.017,6,Villa,173,1930,,Aktuel værdi
+Fasanvej 44293 Dianalund,lund,895.000,16-12-2004,Alm. Salg,10.529,3,Villa,85,1956,,Aktuel værdi
+Åmosevej 2B4293 Dianalund,lund,450.000,13-12-2004,Alm. Salg,6.818,3,Villa,66,1830,,Aktuel værdi
+Niløsevej 44293 Dianalund,lund,450.000,13-12-2004,Alm. Salg,5.921,3,Villa,76,1879,,Aktuel værdi
+Kragerupvej 14293 Dianalund,lund,1.545.000,08-12-2004,Alm. Salg,16.263,5,Stuehus,95,1878,,
+Hedeborydevej 74293 Dianalund,lund,750.000,07-12-2004,Alm. Salg,6.818,4,Villa,110,1939,,Aktuel værdi
+Agervænget 344293 Dianalund,lund,1.295.000,06-12-2004,Fam. Salg,9.384,4,Villa,138,1979,,Aktuel værdi
+Frederiksberg 234293 Dianalund,lund,115.000,25-11-2004,Alm. Salg,1.916,3,Villa,60,1880,,Aktuel værdi
+Store Bjørnevej 14293 Dianalund,lund,1.250.000,16-11-2004,Alm. Salg,7.575,5,Villa,165,1971,,Aktuel værdi
+Færøvej 124293 Dianalund,lund,323.300,07-11-2004,Alm. Salg,1.649,6,Villa,196,2005,,Aktuel værdi
+Færøvej 224293 Dianalund,lund,216.500,07-11-2004,Alm. Salg,1.462,7,Villa,148,2005,,Aktuel værdi
+Færøvej 74293 Dianalund,lund,361.000,04-11-2004,Alm. Salg,1.983,7,Villa,182,2005,,Aktuel værdi
+Herrestrupvej 224293 Dianalund,lund,775.000,03-11-2004,Alm. Salg,9.810,3,Villa,79,1888,,Aktuel værdi
+Havrevænget 84293 Dianalund,lund,975.000,28-10-2004,Alm. Salg,10.263,4,Rækkehus,95,1987,,Aktuel værdi
+Rolighedsvej 34293 Dianalund,lund,1.175.000,28-10-2004,Alm. Salg,-,7,Villa,163,1937,,Aktuel værdi
+Lunden 74293 Dianalund,lund,765.000,12-10-2004,Alm. Salg,7.650,5,Villa,100,1965,,Aktuel værdi
+Orebovej 334293 Dianalund,lund,2.850.000,10-10-2004,Alm. Salg,9.500,6,Stuehus,300,1887,,
+Rønnebærvej 14293 Dianalund,lund,1.385.000,07-10-2004,Alm. Salg,7.568,6,Villa,183,1919,,Aktuel værdi
+Engtoftevej 24293 Dianalund,lund,1.445.000,30-09-2004,Alm. Salg,13.632,5,Villa,106,1954,,Aktuel værdi
+Søndermarksvej 14293 Dianalund,lund,1.200.000,28-09-2004,Alm. Salg,8.571,5,Villa,140,1953,,Aktuel værdi
+Lårupvej 394293 Dianalund,lund,1.750.000,27-09-2004,Alm. Salg,10.115,5,Stuehus,173,2010,,
+Sverigesvej 234293 Dianalund,lund,1.595.000,13-09-2004,Alm. Salg,14.369,4,Villa,111,2003,,Aktuel værdi
+Rosenvej 74293 Dianalund,lund,1.500.000,30-08-2004,Alm. Salg,7.692,7,Villa,195,1964,,Aktuel værdi
+Holbergsvej 414293 Dianalund,lund,984.921,25-08-2004,Alm. Salg,8.346,5,Rækkehus,118,1952,,Aktuel værdi
+Dr Sells Vej 17B4293 Dianalund,lund,645.000,04-08-2004,Alm. Salg,7.329,2,Rækkehus,88,1935,,Aktuel værdi
+Bakkevænget 84293 Dianalund,lund,950.000,03-08-2004,Alm. Salg,7.851,4,Villa,121,1975,,Aktuel værdi
+Bygaden 164293 Dianalund,lund,975.000,27-07-2004,Alm. Salg,7.677,4,Villa,127,1963,,Aktuel værdi
+Dr Christiansens Vej 5A4293 Dianalund,lund,1.200.000,24-07-2004,Alm. Salg,8.275,5,Villa,145,1976,,Aktuel værdi
+Peder Paars Vej 74293 Dianalund,lund,632.500,12-07-2004,Alm. Salg,3.178,9,Villa,199,1977,,Aktuel værdi
+Møllevej 74293 Dianalund,lund,865.000,05-07-2004,Alm. Salg,8.084,4,Villa,107,1969,,Aktuel værdi
+Fyrrevænget 94293 Dianalund,lund,1.000.000,02-07-2004,Alm. Salg,7.299,4,Villa,137,1972,,Aktuel værdi
+Herrestrupvej 524293 Dianalund,lund,1.650.724,01-07-2004,Alm. Salg,12.411,3,Villa,133,2006,,Aktuel værdi
+Bøgevænget 294293 Dianalund,lund,1.125.000,30-06-2004,Alm. Salg,8.789,4,Villa,128,1973,,Aktuel værdi
+Verupvej 74293 Dianalund,lund,335.000,28-06-2004,Alm. Salg,3.722,3,Villa,90,1962,,Aktuel værdi
+Niels Klims Vej 164293 Dianalund,lund,1.179.310,17-06-2004,Alm. Salg,8.484,5,Villa,139,1978,,Aktuel værdi
+Øllemosen 34293 Dianalund,lund,492.587,09-06-2004,Alm. Salg,2.291,5,Stuehus,215,1925,,
+Banevej 84293 Dianalund,lund,710.000,09-06-2004,Alm. Salg,6.454,5,Villa,110,1908,,Aktuel værdi
+Øgårdsvej 74293 Dianalund,lund,645.000,08-06-2004,Alm. Salg,4.742,5,Villa,136,1962,,Aktuel værdi
+Mågevej 144293 Dianalund,lund,1.545.000,05-06-2004,Alm. Salg,6.928,9,Villa,223,1970,,Aktuel værdi
+Fyrrevænget 114293 Dianalund,lund,1.140.000,02-06-2004,Alm. Salg,8.769,4,Villa,130,1972,,Aktuel værdi
+Hedeborydevej 124293 Dianalund,lund,568.326,01-06-2004,Fam. Salg,3.266,5,Villa,174,1936,,Aktuel værdi
+"Nybovej 12A, ST4293 Dianalund",lund,1.050.000,01-06-2004,Alm. Salg,10.500,3,Lejlighed,100,2001,,Aktuel værdi
+Karsholtevej 424293 Dianalund,lund,830.000,25-05-2004,Alm. Salg,9.764,5,Villa,85,1934,,Aktuel værdi
+Agervænget 114293 Dianalund,lund,1.050.000,17-05-2004,Alm. Salg,7.664,5,Villa,137,1979,,Aktuel værdi
+Tåderupvej 34293 Dianalund,lund,1.050.000,14-05-2004,Alm. Salg,3.559,11,Villa,295,1908,,Aktuel værdi
+Birkemosevej 154293 Dianalund,lund,580.000,14-05-2004,Alm. Salg,6.105,4,Villa,95,1986,,Aktuel værdi
+Præsteskov 104293 Dianalund,lund,920.000,03-05-2004,Alm. Salg,-,4,Stuehus,141,2006,,
+Fyrrevænget 164293 Dianalund,lund,1.176.341,29-04-2004,Alm. Salg,9.190,4,Villa,128,1971,,Aktuel værdi
+Holbækvej 54293 Dianalund,lund,1.365.000,22-04-2004,Alm. Salg,11.375,3,Villa,120,1905,,Aktuel værdi
+Danasvej 34293 Dianalund,lund,1.513.000,20-04-2004,Alm. Salg,9.456,5,Villa,160,1927,,Aktuel værdi
+Merbjergvej 44293 Dianalund,lund,1.955.877,18-04-2004,Alm. Salg,13.396,5,Stuehus,146,1800,,
+Skellebjergvej 164293 Dianalund,lund,795.000,14-04-2004,Alm. Salg,5.520,6,Villa,144,1901,,Aktuel værdi
+Frederiksberg 154293 Dianalund,lund,495.000,13-04-2004,Alm. Salg,8.684,1,Villa,57,1900,,Aktuel værdi
+Holbergsvej 664293 Dianalund,lund,1.135.000,04-04-2004,Alm. Salg,8.730,3,Villa,130,1940,,Aktuel værdi
+Sømosevej 304293 Dianalund,lund,949.999,23-03-2004,Alm. Salg,-,3,Villa,115,1965,,Aktuel værdi
+Bakkevænget 234293 Dianalund,lund,950.000,13-03-2004,Alm. Salg,7.851,4,Villa,121,1975,,Aktuel værdi
+Drosselvej 84293 Dianalund,lund,1.148.000,09-03-2004,Alm. Salg,8.696,4,Villa,132,1974,,Aktuel værdi
+Pernillesvej 134293 Dianalund,lund,1.245.000,08-03-2004,Alm. Salg,9.154,4,Villa,136,1979,,Aktuel værdi
+Møllevej 54293 Dianalund,lund,781.082,07-03-2004,Alm. Salg,8.309,4,Villa,94,1971,,Aktuel værdi
+Kongstedvej 254293 Dianalund,lund,7.900.000,26-02-2004,Alm. Salg,60.305,4,Stuehus,131,1908,,
+Havrevænget 124293 Dianalund,lund,1.011.199,24-02-2004,Alm. Salg,10.644,4,Rækkehus,95,1987,,Aktuel værdi
+Mågevej 424293 Dianalund,lund,377.054,12-02-2004,Andet,3.040,4,Villa,124,1974,,Aktuel værdi
+Kongstedvej 54293 Dianalund,lund,700.000,12-02-2004,Alm. Salg,4.666,4,Villa,150,1950,,Aktuel værdi
+Niels Klims Vej 234293 Dianalund,lund,1.232.143,08-02-2004,Alm. Salg,8.439,5,Villa,146,1978,,Aktuel værdi
+Lunden 14293 Dianalund,lund,342.000,05-02-2004,Alm. Salg,10.687,2,Sommerhus,32,1966,,Aktuel værdi
+Dr Christiansens Vej 44293 Dianalund,lund,750.000,02-02-2004,Alm. Salg,7.731,4,Villa,97,1961,,Aktuel værdi
+Dr Sells Vej 17A4293 Dianalund,lund,890.000,26-01-2004,Alm. Salg,6.953,5,Rækkehus,128,1935,,Aktuel værdi
+Østerled 64293 Dianalund,lund,770.000,19-01-2004,Alm. Salg,12.833,2,Villa,60,1948,,Aktuel værdi
+Leren 54293 Dianalund,lund,243.902,12-01-2004,Andet,2.439,3,Villa,100,1877,,Aktuel værdi
+Karsholtevej 64293 Dianalund,lund,513.061,04-01-2004,Alm. Salg,8.551,2,Villa,60,1900,,Aktuel værdi
+Grønningen 364293 Dianalund,lund,720.000,11-12-2003,Fam. Salg,9.729,2,Villa,74,1989,,Aktuel værdi
+Holbergsvej 794293 Dianalund,lund,953.047,08-12-2003,Alm. Salg,7.504,4,Villa,127,1968,,Aktuel værdi
+Øgårdsvej 14293 Dianalund,lund,1.325.000,02-12-2003,Alm. Salg,6.050,7,Stuehus,219,1920,,
+Brandstrupvej 244293 Dianalund,lund,1.000.000,22-11-2003,Alm. Salg,6.896,6,Villa,145,1961,,Aktuel værdi
+Holbækvej 94293 Dianalund,lund,1.750.000,11-11-2003,Alm. Salg,8.838,5,Villa,198,1923,,Aktuel værdi
+Strædet 54293 Dianalund,lund,950.000,03-11-2003,Alm. Salg,10.215,5,Villa,93,1935,,Aktuel værdi
+Sømosevej 344293 Dianalund,lund,950.000,29-10-2003,Alm. Salg,8.962,4,Villa,106,1963,,Aktuel værdi
+Orebovej 584293 Dianalund,lund,770.000,28-10-2003,Alm. Salg,8.369,4,Villa,92,1934,,Aktuel værdi
+Herrestrupvej 304293 Dianalund,lund,908.501,22-10-2003,Alm. Salg,5.976,6,Villa,152,1880,,Aktuel værdi
+Ventemøllevej 244293 Dianalund,lund,1.145.000,27-09-2003,Alm. Salg,9.385,2,Villa,122,1965,,Aktuel værdi
+Parkvej 24293 Dianalund,lund,1.050.000,25-09-2003,Alm. Salg,7.446,5,Villa,141,1974,,Aktuel værdi
+Vestervang 104293 Dianalund,lund,850.000,23-09-2003,Alm. Salg,9.444,3,Villa,90,1927,,Aktuel værdi
+Malerivej 104293 Dianalund,lund,894.800,22-09-2003,Alm. Salg,9.224,3,Rækkehus,97,2005,,Aktuel værdi
+Rugvænget 434293 Dianalund,lund,1.525.000,17-09-2003,Alm. Salg,6.407,6,Villa,238,1870,,Aktuel værdi
+Gammelgang 64293 Dianalund,lund,1.095.000,13-09-2003,Alm. Salg,9.521,3,Villa,115,1935,,Aktuel værdi
+Peder Paars Vej 44293 Dianalund,lund,1.314.059,08-09-2003,Alm. Salg,8.588,5,Villa,153,1977,,Aktuel værdi
+Agervænget 374293 Dianalund,lund,1.455.000,03-09-2003,Alm. Salg,7.423,7,Villa,196,1978,,Aktuel værdi
+Skråbjergvej 14293 Dianalund,lund,4.300.000,15-08-2003,Alm. Salg,22.051,6,Stuehus,195,1877,,
+Kongstedvej 384293 Dianalund,lund,880.000,07-08-2003,Alm. Salg,5.500,4,Villa,160,1946,,Aktuel værdi
+Holbækvej 74293 Dianalund,lund,1.100.000,05-08-2003,Alm. Salg,2.894,7,Villa,380,2005,,Aktuel værdi
+Engtoftevej 74293 Dianalund,lund,350.000,01-08-2003,Alm. Salg,-,3,Villa,101,1976,,Aktuel værdi
+Skellebjergvej 134293 Dianalund,lund,705.622,25-07-2003,Alm. Salg,6.189,3,Villa,114,1898,,Aktuel værdi
+Danasvej 74293 Dianalund,lund,1.275.000,23-07-2003,Alm. Salg,8.557,5,Villa,149,1940,,Aktuel værdi
+Pernillesvej 214293 Dianalund,lund,1.150.000,16-07-2003,Alm. Salg,8.582,4,Villa,134,1976,,Aktuel værdi
+Lærkemosevej 74293 Dianalund,lund,400.000,10-07-2003,Alm. Salg,4.545,3,Villa,88,1968,,Aktuel værdi
+Danasvej 54293 Dianalund,lund,1.250.000,01-07-2003,Alm. Salg,9.469,4,Villa,132,1926,,Aktuel værdi
+Peder Paars Vej 194293 Dianalund,lund,1.099.653,28-06-2003,Alm. Salg,8.268,5,Villa,133,1977,,Aktuel værdi
+Holbergsvej 1354293 Dianalund,lund,1.609.730,25-06-2003,Alm. Salg,11.836,6,Villa,136,1924,,Aktuel værdi
+Niels Klims Vej 204293 Dianalund,lund,1.291.000,18-06-2003,Alm. Salg,9.634,5,Villa,134,1978,,Aktuel værdi
+Stationsvej 224293 Dianalund,lund,848.796,12-06-2003,Alm. Salg,7.073,4,Villa,120,1904,,Aktuel værdi
+Fyrrevænget 274293 Dianalund,lund,995.000,03-06-2003,Alm. Salg,8.963,4,Villa,111,1973,,Aktuel værdi
+Ventemøllevej 20B4293 Dianalund,lund,790.000,01-06-2003,Fam. Salg,6.422,3,Villa,123,1963,,Aktuel værdi
+Grønningen 2A4293 Dianalund,lund,907.520,27-05-2003,Alm. Salg,10.933,3,Rækkehus,83,1988,,Aktuel værdi
+Grønningen 444293 Dianalund,lund,145.000,23-05-2003,Alm. Salg,947,6,Villa,153,2004,,Aktuel værdi
+Parkvej 324293 Dianalund,lund,1.125.000,21-05-2003,Alm. Salg,9.297,4,Villa,121,1977,,Aktuel værdi
+Åvænget 124293 Dianalund,lund,1.114.000,15-05-2003,Alm. Salg,7.900,5,Villa,141,1973,,Aktuel værdi
+Hedeborydevej 84293 Dianalund,lund,650.000,07-05-2003,Alm. Salg,5.909,4,Villa,110,1939,,Aktuel værdi
+Skellebjergvej 404293 Dianalund,lund,1.500.000,02-05-2003,Alm. Salg,12.605,4,Stuehus,119,1910,,
+Tåderupvej 324293 Dianalund,lund,1.000.000,21-04-2003,Alm. Salg,4.484,6,Villa,223,1907,,Aktuel værdi
+Kunstnergårdsvej 14293 Dianalund,lund,55.000,07-04-2003,Alm. Salg,314,5,Stuehus,175,1895,,
+Enighedsvej 14293 Dianalund,lund,850.000,06-04-2003,Alm. Salg,6.296,4,Villa,135,1930,,Aktuel værdi
+Holbergsvej 704293 Dianalund,lund,1.175.000,05-04-2003,Alm. Salg,7.078,6,Villa,166,1932,,Aktuel værdi
+Herrestrupvej 324293 Dianalund,lund,930.867,02-04-2003,Alm. Salg,-,4,Villa,141,1973,,Aktuel værdi
+Dr Christiansens Vej 64293 Dianalund,lund,1.195.000,22-03-2003,Alm. Salg,5.610,6,Villa,213,1947,,Aktuel værdi
+Præsteskov 164293 Dianalund,lund,3.000.000,18-03-2003,Alm. Salg,10.273,7,Stuehus,292,1986,,
+Holbergsvej 1074293 Dianalund,lund,735.000,08-03-2003,Alm. Salg,6.074,5,Villa,121,1900,,Aktuel værdi
+Peder Paars Vej 144293 Dianalund,lund,1.095.000,03-03-2003,Alm. Salg,9.521,4,Villa,115,1977,,Aktuel værdi
+Holbergsvej 344293 Dianalund,lund,865.000,26-02-2003,Alm. Salg,9.301,4,Villa,93,1962,,Aktuel værdi
+Grønningen 424293 Dianalund,lund,1.220.000,25-02-2003,Alm. Salg,8.591,4,Villa,142,2001,,Aktuel værdi
+Sømosevej 204293 Dianalund,lund,1.100.000,17-02-2003,Alm. Salg,7.333,3,Villa,150,1962,,Aktuel værdi
+Verupvej 304293 Dianalund,lund,650.000,13-02-2003,Alm. Salg,6.190,4,Villa,105,1777,,Aktuel værdi
+Holbergsvej 944293 Dianalund,lund,660.000,13-02-2003,Alm. Salg,6.600,6,Villa,100,1907,,Aktuel værdi
+Sømosevej 144293 Dianalund,lund,1.135.000,12-02-2003,Alm. Salg,8.598,7,Villa,132,1940,,Aktuel værdi
+Herrestrupvej 384293 Dianalund,lund,900.000,31-01-2003,Alm. Salg,6.040,9,Villa,149,1955,,Aktuel værdi
+"Nybovej 12C, ST4293 Dianalund",lund,995.000,27-01-2003,Alm. Salg,9.950,3,Lejlighed,100,2001,,Aktuel værdi
+Grønningen 6A4293 Dianalund,lund,879.000,21-01-2003,Alm. Salg,9.451,4,Rækkehus,93,1988,,Aktuel værdi
+Finlandsvej 264293 Dianalund,lund,1.065.000,19-01-2003,Alm. Salg,8.801,5,Villa,121,1984,,Aktuel værdi
+Banevej 144293 Dianalund,lund,750.000,13-01-2003,Alm. Salg,6.696,3,Villa,112,1908,,Aktuel værdi
+Bøgevænget 154293 Dianalund,lund,1.225.000,31-12-2002,Alm. Salg,6.550,4,Villa,187,1978,,Aktuel værdi
+Atterup Vænge 14293 Dianalund,lund,2.477.500,04-12-2002,Alm. Salg,8.944,10,Stuehus,277,1837,,
+Møllevænget 34293 Dianalund,lund,1.150.000,01-12-2002,Alm. Salg,7.516,4,Villa,153,1974,,Aktuel værdi
+Bakkevej 54293 Dianalund,lund,555.493,26-11-2002,Andet,4.273,4,Villa,130,1934,,Aktuel værdi
+Parkvej 84293 Dianalund,lund,1.271.000,20-11-2002,Alm. Salg,8.307,6,Villa,153,1972,,Aktuel værdi
+Banevej 104293 Dianalund,lund,710.042,13-11-2002,Andet,4.965,5,Villa,143,1908,,Aktuel værdi
+Birkemosevej 104293 Dianalund,lund,470.000,07-11-2002,Alm. Salg,6.438,4,Villa,73,1975,,Aktuel værdi
+Fyrrevænget 154293 Dianalund,lund,1.125.000,02-11-2002,Alm. Salg,8.333,4,Villa,135,1977,,Aktuel værdi
+Kongstedvej 74293 Dianalund,lund,656.265,16-10-2002,Alm. Salg,5.807,4,Villa,113,1908,,Aktuel værdi
+Godthåbsvej 64293 Dianalund,lund,1.030.000,02-10-2002,Alm. Salg,6.477,5,Villa,159,1916,,Aktuel værdi
+Fyrrevænget 354293 Dianalund,lund,1.150.000,24-09-2002,Alm. Salg,6.845,4,Villa,168,1974,,Aktuel værdi
+Niels Klims Vej 64293 Dianalund,lund,1.050.000,20-09-2002,Alm. Salg,7.894,4,Villa,133,1978,,Aktuel værdi
+Agervænget 224293 Dianalund,lund,1.170.000,18-09-2002,Alm. Salg,6.290,5,Villa,186,1979,,Aktuel værdi
+Mågevej 234293 Dianalund,lund,925.000,11-09-2002,Alm. Salg,7.644,5,Villa,121,1974,,Aktuel værdi
+Fyrrevænget 414293 Dianalund,lund,977.500,04-09-2002,Alm. Salg,6.388,5,Villa,153,1973,,Aktuel værdi
+Godthåbsvej 24293 Dianalund,lund,945.000,01-09-2002,Alm. Salg,9.000,4,Villa,105,1926,,Aktuel værdi
+Herrestrupvej 94293 Dianalund,lund,920.000,30-08-2002,Alm. Salg,6.174,6,Villa,149,1965,,Aktuel værdi
+Holbergsvej 604293 Dianalund,lund,925.000,08-08-2002,Alm. Salg,7.341,6,Villa,126,1964,,Aktuel værdi
+Åvej 34293 Dianalund,lund,1.150.000,01-08-2002,Alm. Salg,7.986,6,Villa,144,1963,,Aktuel værdi
+Magleengen 74293 Dianalund,lund,1.217.000,30-07-2002,Alm. Salg,6.650,6,Villa,183,1898,,Aktuel værdi
+Lunden 114293 Dianalund,lund,563.000,18-07-2002,Alm. Salg,5.926,2,Villa,95,1963,,Aktuel værdi
+Kragerupvej 84293 Dianalund,lund,655.000,15-07-2002,Alm. Salg,6.550,3,Villa,100,1775,,Aktuel værdi
+Tangagervej 44293 Dianalund,lund,3.715.922,19-06-2002,Alm. Salg,11.125,9,Villa,334,1877,,Aktuel værdi
+Bakkevænget 74293 Dianalund,lund,959.000,18-06-2002,Alm. Salg,7.925,4,Villa,121,1975,,Aktuel værdi
+Bakkevænget 174293 Dianalund,lund,1.035.000,10-06-2002,Alm. Salg,8.553,4,Villa,121,1975,,Aktuel værdi
+Parkvej 294293 Dianalund,lund,833.426,07-06-2002,Alm. Salg,5.708,5,Villa,146,1971,,Aktuel værdi
+Strædet 7B4293 Dianalund,lund,887.999,28-05-2002,Alm. Salg,6.778,5,Villa,131,1979,,Aktuel værdi
+Strædet 7A4293 Dianalund,lund,100.000,22-05-2002,Alm. Salg,735,5,Villa,136,2003,,Aktuel værdi
+Niløsevej 144293 Dianalund,lund,625.000,06-05-2002,Alm. Salg,6.793,3,Villa,92,1920,,Aktuel værdi
+Ventemøllevej 6A4293 Dianalund,lund,792.000,25-04-2002,Alm. Salg,9.103,4,Villa,87,1946,,Aktuel værdi
+Kildemosevej 54293 Dianalund,lund,1.100.000,06-04-2002,Alm. Salg,8.730,4,Villa,126,1985,,Aktuel værdi
+Karsholtevej 344293 Dianalund,lund,500.000,21-03-2002,Alm. Salg,3.846,3,Villa,130,1930,,Aktuel værdi
+Holbergsvej 1034293 Dianalund,lund,437.273,19-03-2002,Andet,3.015,7,Villa,145,1913,,Aktuel værdi
+Frederiksberg 34293 Dianalund,lund,490.000,18-03-2002,Alm. Salg,7.656,2,Villa,64,1955,,Aktuel værdi
+Lunden 54293 Dianalund,lund,486.371,15-03-2002,Alm. Salg,6.156,3,Villa,79,1962,,Aktuel værdi
+Lundtoftevej 554293 Dianalund,lund,1.067.963,07-03-2002,Alm. Salg,7.215,4,Villa,148,1974,,Aktuel værdi
+Danasvej 1B4293 Dianalund,lund,892.000,31-01-2002,Alm. Salg,6.151,5,Villa,145,1932,,Aktuel værdi
+Birkemosevej 74293 Dianalund,lund,375.000,27-01-2002,Auktion,3.826,5,Villa,98,1982,,Aktuel værdi
+Grønningen 164293 Dianalund,lund,1.850.000,27-01-2002,Alm. Salg,9.736,6,Villa,190,1999,,Aktuel værdi
+Verupvej 14293 Dianalund,lund,898.000,15-01-2002,Alm. Salg,7.546,2,Villa,119,2001,,Aktuel værdi
+Verupvej 404293 Dianalund,lund,1.078.000,13-01-2002,Alm. Salg,8.983,4,Villa,120,1968,,Aktuel værdi
+Sømosevej 64293 Dianalund,lund,984.000,22-12-2001,Alm. Salg,7.511,7,Villa,131,1932,,Aktuel værdi
+Karsholtevej 104293 Dianalund,lund,945.880,15-12-2001,Alm. Salg,7.447,4,Villa,127,1948,,Aktuel værdi
+Gammelgang 24293 Dianalund,lund,764.000,10-12-2001,Alm. Salg,4.441,7,Villa,172,1932,,Aktuel værdi
+Kildemosevej 104293 Dianalund,lund,800.000,28-11-2001,Alm. Salg,7.619,4,Villa,105,1966,,Aktuel værdi
+Bakkevej 254293 Dianalund,lund,162.000,20-11-2001,Alm. Salg,1.200,4,Stuehus,135,1878,,
+Finlandsvej 44293 Dianalund,lund,945.000,06-11-2001,Alm. Salg,8.217,4,Villa,115,1983,,Aktuel værdi
+Banevej 34293 Dianalund,lund,1.066.521,29-10-2001,Alm. Salg,7.672,4,Villa,139,1918,,Aktuel værdi
+Hedeborydevej 144293 Dianalund,lund,464.656,19-10-2001,Alm. Salg,9.680,2,Villa,48,1935,,Aktuel værdi
+Lundtoftevej 464293 Dianalund,lund,815.000,19-10-2001,Alm. Salg,7.276,4,Villa,112,1962,,Aktuel værdi
+Verupvej 424293 Dianalund,lund,1.053.647,12-10-2001,Alm. Salg,10.751,3,Villa,98,1877,,Aktuel værdi
+Skellebjergvej 304293 Dianalund,lund,1.449.467,30-09-2001,Alm. Salg,6.470,9,Villa,224,1900,,Aktuel værdi
+Bakkevej 104293 Dianalund,lund,1.028.946,25-09-2001,Alm. Salg,-,5,Villa,120,1880,,Aktuel værdi
+Øgårdsvej 244293 Dianalund,lund,2.378.615,13-09-2001,Alm. Salg,11.603,5,Stuehus,205,1997,,
+Grønningen 894293 Dianalund,lund,83.200,11-09-2001,Alm. Salg,611,5,Villa,136,2001,,Aktuel værdi
+Grønningen 934293 Dianalund,lund,99.300,11-09-2001,Alm. Salg,-,6,Villa,148,2002,,Aktuel værdi
+Enighedsvej 104293 Dianalund,lund,998.000,11-09-2001,Alm. Salg,9.415,5,Villa,106,1954,,Aktuel værdi
+Frederiksberg 254293 Dianalund,lund,1.064.000,25-08-2001,Alm. Salg,5.140,7,Villa,207,1950,,Aktuel værdi
+Parkvej 354293 Dianalund,lund,939.000,20-08-2001,Alm. Salg,8.309,4,Villa,113,1973,,Aktuel værdi
+Brandstrupvej 54293 Dianalund,lund,1.254.160,16-08-2001,Alm. Salg,7.166,5,Villa,175,1900,,Aktuel værdi
+Herrestrupvej 334293 Dianalund,lund,900.000,15-08-2001,Alm. Salg,8.035,4,Villa,112,1922,,Aktuel værdi
+Fyrrevænget 224293 Dianalund,lund,927.000,05-08-2001,Alm. Salg,5.207,7,Villa,178,1973,,Aktuel værdi
+Verupvej 154293 Dianalund,lund,615.000,02-08-2001,Alm. Salg,7.687,3,Villa,80,1971,,Aktuel værdi
+Fyrrevænget 184293 Dianalund,lund,1.279.001,30-07-2001,Alm. Salg,9.474,5,Villa,135,1973,,Aktuel værdi
+Grønningen 874293 Dianalund,lund,79.900,27-07-2001,Alm. Salg,425,6,Villa,188,2002,,Aktuel værdi
+Banevej 164293 Dianalund,lund,1.007.740,24-07-2001,Alm. Salg,8.061,4,Villa,125,1926,,Aktuel værdi
+Sømosevej 454293 Dianalund,lund,1.207.000,13-07-2001,Alm. Salg,7.450,5,Villa,162,1974,,Aktuel værdi
+Møllevænget 294293 Dianalund,lund,810.000,06-07-2001,Alm. Salg,5.664,5,Villa,143,1976,,Aktuel værdi
+Agervænget 294293 Dianalund,lund,1.030.000,02-07-2001,Alm. Salg,8.442,4,Villa,122,1980,,Aktuel værdi
+Stendyssevej 54293 Dianalund,lund,1.283.300,01-07-2001,Alm. Salg,17.110,3,Stuehus,75,1900,,
+Enighedsvej 124293 Dianalund,lund,1.002.000,30-06-2001,Alm. Salg,-,5,Villa,112,1963,,Aktuel værdi
+Brandstrupvej 324293 Dianalund,lund,335.382,12-06-2001,Andet,1.916,6,Villa,175,1828,,Aktuel værdi
+Leandersvej 84293 Dianalund,lund,1.681.260,04-06-2001,Alm. Salg,8.241,6,Villa,204,1978,,Aktuel værdi
+Mågevej 164293 Dianalund,lund,1.168.000,04-06-2001,Alm. Salg,5.840,7,Villa,200,1974,,Aktuel værdi
+Enghaven 54293 Dianalund,lund,815.000,03-06-2001,Alm. Salg,6.965,5,Villa,117,1967,,Aktuel værdi
+Niels Klims Vej 124293 Dianalund,lund,1.124.640,31-05-2001,Alm. Salg,7.350,5,Villa,153,1978,,Aktuel værdi
+Drosselvej 24293 Dianalund,lund,1.083.000,29-05-2001,Alm. Salg,6.942,5,Villa,156,1972,,Aktuel værdi
+Åvej 84293 Dianalund,lund,1.200.000,26-05-2001,Alm. Salg,8.510,5,Villa,141,1973,,Aktuel værdi
+Øremosevej 34293 Dianalund,lund,1.480.000,24-05-2001,Alm. Salg,7.363,6,Villa,201,1887,,Aktuel værdi
+Grønningen 914293 Dianalund,lund,99.500,04-05-2001,Alm. Salg,731,5,Villa,136,2004,,Aktuel værdi
+Bygaden 84293 Dianalund,lund,618.712,25-04-2001,Alm. Salg,-,6,Villa,143,1915,,Aktuel værdi
+Tåderupvej 134293 Dianalund,lund,822.699,23-04-2001,Alm. Salg,5.448,4,Villa,151,1944,,Aktuel værdi
+Nygårdsvej 14293 Dianalund,lund,1.046.000,14-04-2001,Alm. Salg,-,5,Stuehus,180,1908,,
+Karsholtevej 124293 Dianalund,lund,682.000,12-04-2001,Alm. Salg,8.419,3,Villa,81,1955,,Aktuel værdi
+Agervænget 184293 Dianalund,lund,1.094.000,04-04-2001,Alm. Salg,7.493,5,Villa,146,1979,,Aktuel værdi
+Snerlevej 24293 Dianalund,lund,885.000,12-03-2001,Alm. Salg,7.314,4,Villa,121,1973,,Aktuel værdi
+Holbergsvej 724293 Dianalund,lund,1.252.000,10-03-2001,Alm. Salg,7.321,6,Villa,171,1929,,Aktuel værdi
+Mosevej 24293 Dianalund,lund,400.000,01-03-2001,Alm. Salg,-,5,Villa,135,1960,,Aktuel værdi
+Lundtoftevej 534293 Dianalund,lund,450.000,27-02-2001,Alm. Salg,-,4,Villa,99,1860,,Aktuel værdi
+Banevænget 24293 Dianalund,lund,720.000,02-02-2001,Alm. Salg,7.128,4,Villa,101,1958,,Aktuel værdi
+Kragebrovej 194293 Dianalund,lund,897.848,27-01-2001,Alm. Salg,5.755,6,Villa,156,1961,,Aktuel værdi
+Hedeborydevej 344293 Dianalund,lund,975.000,25-01-2001,Alm. Salg,7.169,2,Villa,136,1975,,Aktuel værdi
+Bakkevej 284293 Dianalund,lund,1.115.000,15-01-2001,Alm. Salg,-,7,Stuehus,201,1828,,
+Karsholtevej 314293 Dianalund,lund,547.000,22-12-2000,Alm. Salg,5.064,3,Villa,108,1902,,Aktuel værdi
+Vibevej 14293 Dianalund,lund,706.000,21-12-2000,Alm. Salg,6.723,3,Villa,105,1963,,Aktuel værdi
+Enghaven 74293 Dianalund,lund,1.150.000,01-12-2000,Alm. Salg,7.419,5,Villa,155,1968,,Aktuel værdi
+Grønningen 814293 Dianalund,lund,89.300,21-10-2000,Alm. Salg,572,5,Villa,156,2002,,Aktuel værdi
+Banevej 44293 Dianalund,lund,703.075,16-10-2000,Alm. Salg,5.450,5,Villa,129,1904,,Aktuel værdi
+Åvej 74293 Dianalund,lund,918.623,29-09-2000,Alm. Salg,9.095,4,Villa,101,1964,,Aktuel værdi
+Strædet 34293 Dianalund,lund,250.500,23-09-2000,Alm. Salg,-,3,Villa,107,1915,,Aktuel værdi
+Møllevænget 214293 Dianalund,lund,380.000,18-09-2000,Alm. Salg,3.089,4,Villa,123,1981,,Aktuel værdi
+Karsholtevej 234293 Dianalund,lund,875.000,12-09-2000,Alm. Salg,6.578,4,Villa,133,1932,,Aktuel værdi
+Grønningen 84293 Dianalund,lund,1.364.000,11-09-2000,Alm. Salg,10.412,5,Villa,131,2000,,Aktuel værdi
+Mågevej 134293 Dianalund,lund,1.878.000,05-09-2000,Alm. Salg,7.991,6,Villa,235,1970,,Aktuel værdi
+Banevej 24293 Dianalund,lund,419.697,01-09-2000,Alm. Salg,-,6,Villa,271,1901,,Aktuel værdi
+Lundtoftevej 444293 Dianalund,lund,869.000,31-08-2000,Alm. Salg,7.427,4,Villa,117,1966,,Aktuel værdi
+Verupvej 204293 Dianalund,lund,447.172,16-08-2000,Alm. Salg,6.298,2,Villa,71,1892,,Aktuel værdi
+Holmevejen 304293 Dianalund,lund,1.199.617,14-08-2000,Alm. Salg,-,7,Villa,287,1906,,Aktuel værdi
+Rosenvej 64293 Dianalund,lund,730.000,07-08-2000,Alm. Salg,7.156,5,Villa,102,1937,,Aktuel værdi
+Merbjergvej 364293 Dianalund,lund,1.152.000,05-08-2000,Alm. Salg,-,3,Villa,125,1931,,Aktuel værdi
+Herrestrupvej 264293 Dianalund,lund,801.000,03-08-2000,Alm. Salg,8.090,4,Villa,99,1925,,Aktuel værdi
+Grønningen 304293 Dianalund,lund,1.285.400,02-08-2000,Alm. Salg,9.812,5,Villa,131,2000,,Aktuel værdi
+Skyttevej 94293 Dianalund,lund,464.960,29-07-2000,Alm. Salg,4.226,4,Villa,110,1953,,Aktuel værdi
+Merbjergvej 344293 Dianalund,lund,352.605,26-07-2000,Fam. Salg,-,7,Villa,310,1904,,Aktuel værdi
+Holmevejen 164293 Dianalund,lund,1.150.000,18-07-2000,Alm. Salg,-,7,Stuehus,249,1956,,
+Atterupvej 134293 Dianalund,lund,1.410.000,21-06-2000,Alm. Salg,5.183,9,Villa,272,1847,,Aktuel værdi
+Hedeborydevej 104293 Dianalund,lund,750.205,16-06-2000,Alm. Salg,7.814,4,Villa,96,1935,,Aktuel værdi
+Holbergsvej 324293 Dianalund,lund,898.040,07-06-2000,Alm. Salg,4.828,4,Villa,186,1878,,Aktuel værdi
+Sømosevej 84293 Dianalund,lund,375.000,31-05-2000,Auktion,3.048,4,Villa,123,1932,,Aktuel værdi
+Skyttevej 74293 Dianalund,lund,741.000,31-05-2000,Alm. Salg,9.500,3,Villa,78,1948,,Aktuel værdi
+Skyttevej 124293 Dianalund,lund,725.000,05-05-2000,Alm. Salg,6.712,4,Villa,108,1939,,Aktuel værdi
+Dr Sells Vej 294293 Dianalund,lund,939.000,03-05-2000,Alm. Salg,5.305,5,Villa,177,1920,,Aktuel værdi
+Finlandsvej 194293 Dianalund,lund,1.219.000,01-05-2000,Alm. Salg,9.523,4,Villa,128,1982,,Aktuel værdi
+Lærkemosevej 34293 Dianalund,lund,100.000,14-03-2000,Alm. Salg,1.818,3,Villa,55,1963,,Aktuel værdi
+Mågevej 244293 Dianalund,lund,1.276.000,02-03-2000,Alm. Salg,7.595,6,Villa,168,1975,,Aktuel værdi
+Grønningen 404293 Dianalund,lund,75.600,17-02-2000,Alm. Salg,397,8,Villa,190,2001,,Aktuel værdi
+Leandersvej 74293 Dianalund,lund,1.120.000,02-02-2000,Alm. Salg,9.180,4,Villa,122,1978,,Aktuel værdi
+Tåderupvej 114293 Dianalund,lund,1.427.136,19-01-2000,Alm. Salg,9.389,7,Stuehus,152,1885,,
+Pernillesvej 194293 Dianalund,lund,889.000,31-12-1999,Alm. Salg,5.591,4,Villa,159,1979,,Aktuel værdi
+Pernillesvej 144293 Dianalund,lund,496.404,22-12-1999,Alm. Salg,3.202,5,Villa,155,1977,,Aktuel værdi
+Pernillesvej 74293 Dianalund,lund,584.000,21-12-1999,Alm. Salg,4.826,4,Villa,121,1976,,Aktuel værdi
+"Dr Sells Vej 10, 14293 Dianalund",lund,36.873,21-12-1999,Alm. Salg,380,4,Villa,97,1917,,Aktuel værdi
+Bygaden 14293 Dianalund,lund,1.191.544,13-12-1999,Alm. Salg,4.985,6,Villa,239,1908,,Aktuel værdi
+Tersløsevej 44293 Dianalund,lund,474.000,07-12-1999,Andet,3.950,3,Stuehus,120,1912,,
+Pernillesvej 94293 Dianalund,lund,930.324,03-12-1999,Alm. Salg,7.951,4,Villa,117,1976,,Aktuel værdi
+Peder Paars Vej 84293 Dianalund,lund,439.000,02-12-1999,Alm. Salg,3.376,4,Villa,130,1978,,Aktuel værdi
+Karsholtevej 554293 Dianalund,lund,869.166,01-12-1999,Alm. Salg,8.357,5,Villa,104,1954,,Aktuel værdi
+Svinget 24293 Dianalund,lund,315.000,22-11-1999,Alm. Salg,2.234,5,Villa,141,1950,,Aktuel værdi
+Grønningen 464293 Dianalund,lund,75.600,02-11-1999,Alm. Salg,487,5,Villa,155,2002,,Aktuel værdi
+Bøgevænget 234293 Dianalund,lund,1.105.000,02-11-1999,Alm. Salg,6.538,5,Villa,169,1974,,Aktuel værdi
+Dianalundvej 164293 Dianalund,lund,2.164.425,26-10-1999,Fam. Salg,12.807,5,Stuehus,169,1952,,
+Lærkevej 34293 Dianalund,lund,537.000,20-10-1999,Alm. Salg,5.370,3,Villa,100,1959,,Aktuel værdi
+Grønningen 504293 Dianalund,lund,65.625,07-10-1999,Alm. Salg,452,5,Villa,145,2001,,Aktuel værdi
+Henriksvej 124293 Dianalund,lund,1.029.000,06-10-1999,Alm. Salg,7.736,4,Villa,133,1975,,Aktuel værdi
+Hedeborydevej 24293 Dianalund,lund,499.000,27-09-1999,Alm. Salg,-,4,Villa,177,1913,,Aktuel værdi
+Rolighedsvej 14293 Dianalund,lund,945.303,27-09-1999,Alm. Salg,5.660,5,Villa,167,1928,,Aktuel værdi
+Holbergsvej 774293 Dianalund,lund,827.000,25-09-1999,Alm. Salg,-,4,Villa,157,1968,,Aktuel værdi
+Brandstrupvej 64293 Dianalund,lund,932.000,19-09-1999,Alm. Salg,7.007,5,Villa,133,1933,,Aktuel værdi
+Enighedsvej 64293 Dianalund,lund,830.000,14-09-1999,Alm. Salg,7.830,5,Villa,106,1954,,Aktuel værdi
+Østerled 14293 Dianalund,lund,1.062.000,04-09-1999,Alm. Salg,5.966,6,Villa,178,1939,,Aktuel værdi
+Grønningen 324293 Dianalund,lund,69.390,01-09-1999,Alm. Salg,529,5,Villa,131,2000,,Aktuel værdi
+Danasvej 104293 Dianalund,lund,756.000,30-08-1999,Alm. Salg,8.590,4,Villa,88,1925,,Aktuel værdi
+Fasanvej 24293 Dianalund,lund,965.848,28-08-1999,Alm. Salg,6.438,4,Villa,150,1974,,Aktuel værdi
+Østerled 44293 Dianalund,lund,813.849,28-08-1999,Alm. Salg,6.119,3,Villa,133,1947,,Aktuel værdi
+Pilegårdsvej 14293 Dianalund,lund,1.248.720,18-08-1999,Alm. Salg,6.181,10,Villa,202,1900,,Aktuel værdi
+Skovbrynet 134293 Dianalund,lund,826.000,09-08-1999,Alm. Salg,-,5,Villa,183,1970,,Aktuel værdi
+Brandstrupvej 164293 Dianalund,lund,570.000,05-08-1999,Fam. Salg,-,5,Villa,184,1953,,Aktuel værdi
+Fyrrevænget 294293 Dianalund,lund,781.000,04-08-1999,Alm. Salg,5.828,4,Villa,134,1974,,Aktuel værdi
+Verupvej 114293 Dianalund,lund,933.430,02-08-1999,Alm. Salg,6.181,5,Villa,151,1947,,Aktuel værdi
+Kongstedvej 14293 Dianalund,lund,590.000,28-07-1999,Alm. Salg,4.013,7,Villa,147,1894,,Aktuel værdi
+Holbergsvej 934293 Dianalund,lund,536.000,20-07-1999,Alm. Salg,5.955,3,Villa,90,1967,,Aktuel værdi
+Åvej 2D4293 Dianalund,lund,320.000,15-07-1999,Alm. Salg,-,5,Villa,141,1900,,Aktuel værdi
+Gammelgang 124293 Dianalund,lund,610.000,16-06-1999,Alm. Salg,-,6,Villa,143,1887,,Aktuel værdi
+"Dr Sells Vej 16B, 1. TV4293 Dianalund",lund,655.000,11-06-1999,Alm. Salg,4.816,5,Lejlighed,136,1947,,Aktuel værdi
+Lundtoftevej 284293 Dianalund,lund,705.400,24-05-1999,Alm. Salg,4.492,7,Villa,157,1966,,Aktuel værdi
+Åvej 44293 Dianalund,lund,766.000,17-05-1999,Alm. Salg,6.491,4,Villa,118,1964,,Aktuel værdi
+Kongstedvej 114293 Dianalund,lund,708.762,08-05-1999,Alm. Salg,5.452,5,Villa,130,1900,,Aktuel værdi
+Åmosevej 194293 Dianalund,lund,532.500,04-05-1999,Alm. Salg,5.664,4,Villa,94,1969,,Aktuel værdi
+Skyttevej 114293 Dianalund,lund,751.500,04-05-1999,Alm. Salg,7.668,4,Villa,98,1949,,Aktuel værdi
+Fyrrevænget 14293 Dianalund,lund,1.101.000,20-04-1999,Alm. Salg,8.738,4,Villa,126,1970,,Aktuel værdi
+Bastbjergvej 54293 Dianalund,lund,549.000,16-04-1999,Alm. Salg,3.155,5,Villa,174,1911,,Aktuel værdi
+Sverigesvej 374293 Dianalund,lund,147.000,29-03-1999,Alm. Salg,864,7,Villa,170,2000,,Aktuel værdi
+Brandstrupvej 214293 Dianalund,lund,666.020,25-03-1999,Alm. Salg,5.692,4,Villa,117,1900,,Aktuel værdi
+Tersløsevej 84293 Dianalund,lund,723.265,24-03-1999,Alm. Salg,3.302,7,Villa,219,1942,,Aktuel værdi
+Øgårdsvej 64293 Dianalund,lund,838.100,19-03-1999,Alm. Salg,5.238,5,Villa,160,1966,,Aktuel værdi
+Grønningen 4A4293 Dianalund,lund,600.000,16-03-1999,Alm. Salg,9.090,2,Rækkehus,66,1988,,Aktuel værdi
+Skovbrynet 1B4293 Dianalund,lund,721.000,15-03-1999,Alm. Salg,7.068,3,Villa,102,1967,,Aktuel værdi
+Holbergsvej 98B4293 Dianalund,lund,949.270,09-03-1999,Alm. Salg,5.859,5,Villa,162,1981,,Aktuel værdi
+Holbergsvej 44293 Dianalund,lund,675.000,02-03-1999,Alm. Salg,3.534,7,Villa,191,1939,,Aktuel værdi
+Verupvej 124293 Dianalund,lund,470.000,01-03-1999,Fam. Salg,5.875,3,Stuehus,80,1825,,
+Rugvænget 284293 Dianalund,lund,988.000,03-02-1999,Alm. Salg,7.484,4,Villa,132,1980,,Aktuel værdi
+Åvænget 64293 Dianalund,lund,1.153.000,03-02-1999,Alm. Salg,6.863,7,Villa,168,1969,,Aktuel værdi
+Tåderupvej 124293 Dianalund,lund,410.091,01-02-1999,Alm. Salg,-,5,Villa,180,1931,,Aktuel værdi
+Rugvænget 334293 Dianalund,lund,764.000,29-01-1999,Alm. Salg,4.897,4,Villa,156,1982,,Aktuel værdi
+Herrestrupvej 104293 Dianalund,lund,831.287,22-01-1999,Alm. Salg,6.345,5,Villa,131,1959,,Aktuel værdi
+Grønningen 484293 Dianalund,lund,82.000,05-01-1999,Alm. Salg,479,5,Villa,171,2000,,Aktuel værdi
+Karsholtevej 464293 Dianalund,lund,735.000,30-12-1998,Alm. Salg,2.275,9,Villa,323,1900,,Aktuel værdi
+Lårupvej 414293 Dianalund,lund,432.000,29-12-1998,Alm. Salg,5.400,2,Villa,80,1880,,Aktuel værdi
+Rugvænget 374293 Dianalund,lund,1.071.965,08-12-1998,Alm. Salg,-,5,Villa,150,1980,,Aktuel værdi
+Hedeborydevej 284293 Dianalund,lund,9.300.000,22-11-1998,Alm. Salg,72.093,3,Villa,129,1890,,Aktuel værdi
+Dr Christiansens Vej 5C4293 Dianalund,lund,660.000,11-11-1998,Alm. Salg,5.454,4,Villa,121,1964,,Aktuel værdi
+Gammelgang 164293 Dianalund,lund,515.000,11-11-1998,Fam. Salg,-,7,Villa,227,1877,,Aktuel værdi
+Dr Christiansens Vej 114293 Dianalund,lund,841.900,04-11-1998,Alm. Salg,4.952,7,Villa,170,1945,,Aktuel værdi
+Kragebrovej 174293 Dianalund,lund,909.977,24-10-1998,Alm. Salg,4.789,7,Villa,190,1875,,Aktuel værdi
+Kragebrovej 34293 Dianalund,lund,437.600,13-10-1998,Alm. Salg,3.978,5,Villa,110,1890,,Aktuel værdi
+Sømosevej 104293 Dianalund,lund,441.000,06-10-1998,Alm. Salg,3.528,4,Villa,125,1938,,Aktuel værdi
+Enighedsvej 74293 Dianalund,lund,36.550,03-10-1998,Alm. Salg,-,4,Villa,137,1956,,Aktuel værdi
+Bakkevej 214293 Dianalund,lund,1.177.000,01-10-1998,Alm. Salg,9.890,4,Stuehus,119,1934,,
+Sverigesvej 354293 Dianalund,lund,198.625,22-09-1998,Alm. Salg,1.241,5,Villa,160,2000,,Aktuel værdi
+Banevænget 104293 Dianalund,lund,530.000,01-09-1998,Alm. Salg,5.463,3,Villa,97,1962,,Aktuel værdi
+Grønningen 124293 Dianalund,lund,111.000,31-08-1998,Alm. Salg,702,6,Villa,158,1999,,Aktuel værdi
+Leandersvej 224293 Dianalund,lund,929.000,11-08-1998,Alm. Salg,6.932,4,Villa,134,1976,,Aktuel værdi
+Banevej 124293 Dianalund,lund,737.000,30-07-1998,Alm. Salg,3.779,4,Villa,195,1903,,Aktuel værdi
+Herrestrupvej 44293 Dianalund,lund,832.000,25-07-1998,Alm. Salg,4.700,5,Villa,177,1929,,Aktuel værdi
+Grønningen 204293 Dianalund,lund,75.000,25-07-1998,Alm. Salg,454,4,Villa,165,1999,,Aktuel værdi
+Tangagervej 64293 Dianalund,lund,842.375,15-07-1998,Alm. Salg,-,5,Villa,162,1790,,Aktuel værdi
+Enighedsvej 34293 Dianalund,lund,269.192,08-07-1998,Alm. Salg,2.563,3,Villa,105,1929,,Aktuel værdi
+Bakkevænget 44293 Dianalund,lund,789.000,08-07-1998,Alm. Salg,5.331,4,Villa,148,1975,,Aktuel værdi
+Finlandsvej 124293 Dianalund,lund,814.000,30-06-1998,Alm. Salg,-,8,Villa,204,1987,,Aktuel værdi
+Niløsevej 34293 Dianalund,lund,540.000,25-06-1998,Alm. Salg,2.547,5,Villa,212,1910,,Aktuel værdi
+Skyttevej 84293 Dianalund,lund,545.000,18-06-1998,Alm. Salg,-,5,Villa,163,1944,,Aktuel værdi
+Gammelgang 144293 Dianalund,lund,916.000,18-06-1998,Alm. Salg,9.956,3,Stuehus,92,1875,,
+Niløsevej 74293 Dianalund,lund,670.000,11-06-1998,Alm. Salg,4.962,4,Villa,135,1900,,Aktuel værdi
+Skellebjergvej 94293 Dianalund,lund,301.883,03-06-1998,Alm. Salg,-,5,Villa,165,1856,,Aktuel værdi
+Holbergsvej 524293 Dianalund,lund,975.000,28-05-1998,Alm. Salg,5.838,5,Villa,167,1915,,Aktuel værdi
+Herrestrupvej 174293 Dianalund,lund,591.000,26-05-1998,Alm. Salg,3.966,4,Villa,149,1920,,Aktuel værdi
+Rosenvej 3B4293 Dianalund,lund,791.000,22-05-1998,Alm. Salg,6.537,4,Villa,121,1973,,Aktuel værdi
+Mågevej 294293 Dianalund,lund,786.000,10-05-1998,Alm. Salg,6.717,5,Villa,117,1975,,Aktuel værdi
+Holmevejen 24293 Dianalund,lund,850.000,05-05-1998,Alm. Salg,5.214,6,Stuehus,163,1904,,
+Niløsevej 64293 Dianalund,lund,710.000,05-05-1998,Alm. Salg,4.965,3,Stuehus,143,1902,,
+Agervænget 274293 Dianalund,lund,975.260,30-04-1998,Alm. Salg,7.560,4,Villa,129,1980,,Aktuel værdi
+Leandersvej 24293 Dianalund,lund,828.000,21-04-1998,Alm. Salg,-,6,Villa,134,1978,,Aktuel værdi
+Holbergsvej 804293 Dianalund,lund,1.491.587,24-03-1998,Alm. Salg,5.649,5,Villa,264,1973,,Aktuel værdi
+Lundtoftevej 224293 Dianalund,lund,830.000,12-03-1998,Alm. Salg,6.058,4,Villa,137,1969,,Aktuel værdi
+Peder Paars Vej 154293 Dianalund,lund,794.000,26-02-1998,Alm. Salg,3.970,6,Villa,200,1977,,Aktuel værdi
+Havrevænget 44293 Dianalund,lund,1.030.531,09-02-1998,Alm. Salg,6.208,6,Villa,166,1986,,Aktuel værdi
+Søndermarksvej 34293 Dianalund,lund,335.000,09-02-1998,Alm. Salg,-,6,Anden beboelse,199,1957,,Aktuel værdi
+Drosselvej 64293 Dianalund,lund,888.000,21-01-1998,Alm. Salg,5.192,7,Villa,171,1971,,Aktuel værdi
+Lundtoftevej 794293 Dianalund,lund,657.889,17-01-1998,Alm. Salg,-,4,Villa,188,1965,,Aktuel værdi
+Holbergsvej 784293 Dianalund,lund,571.813,03-01-1998,Alm. Salg,4.805,4,Villa,119,1962,,Aktuel værdi
+Bygaden 184293 Dianalund,lund,510.874,23-12-1997,Andet,2.606,7,Villa,196,1932,,Aktuel værdi
+Øgårdsvej 354293 Dianalund,lund,1.448.655,20-12-1997,Alm. Salg,3.990,5,Stuehus,363,1858,,
+Fasanvej 84293 Dianalund,lund,464.296,16-12-1997,Alm. Salg,4.836,3,Villa,96,1960,,Aktuel værdi
+Herrestrupvej 434293 Dianalund,lund,1.317.000,09-12-1997,Alm. Salg,9.613,4,Stuehus,137,1921,,
+Skellebjergvej 474293 Dianalund,lund,888.000,29-11-1997,Alm. Salg,8.705,3,Stuehus,102,1900,,
+Strædet 94293 Dianalund,lund,494.000,25-11-1997,Alm. Salg,4.049,4,Villa,122,1967,,Aktuel værdi
+Verupvej 644293 Dianalund,lund,818.000,24-11-1997,Alm. Salg,7.865,2,Stuehus,104,1777,,
+Bygaden 114293 Dianalund,lund,649.808,19-11-1997,Alm. Salg,4.061,6,Villa,160,1905,,Aktuel værdi
+Dr Christiansens Vej 5B4293 Dianalund,lund,855.000,04-11-1997,Alm. Salg,5.516,6,Villa,155,1952,,Aktuel værdi
+Ventemøllevej 84293 Dianalund,lund,620.000,22-10-1997,Alm. Salg,5.166,3,Villa,120,1947,,Aktuel værdi
+Holbergsvej 624293 Dianalund,lund,310.000,15-10-1997,Alm. Salg,2.672,4,Villa,116,1934,,Aktuel værdi
+Nordvænget 84293 Dianalund,lund,375.500,14-10-1997,Fam. Salg,2.029,6,Villa,185,1975,,Aktuel værdi
+Tersløsevej 114293 Dianalund,lund,490.000,09-10-1997,Alm. Salg,-,7,Villa,176,1912,,Aktuel værdi
+Øgårdsvej 304293 Dianalund,lund,789.400,28-09-1997,Alm. Salg,4.671,6,Villa,169,1877,,Aktuel værdi
+Henriksvej 84293 Dianalund,lund,760.400,27-09-1997,Alm. Salg,5.760,5,Villa,132,1977,,Aktuel værdi
+Kongstedvej 504293 Dianalund,lund,275.000,28-08-1997,Alm. Salg,2.200,5,Villa,125,1921,,Aktuel værdi
+Fasanvej 14293 Dianalund,lund,640.000,18-08-1997,Alm. Salg,4.444,4,Villa,144,1953,,Aktuel værdi
+Møllevænget 264293 Dianalund,lund,1.031.000,13-08-1997,Alm. Salg,5.426,6,Villa,190,1977,,Aktuel værdi
+Karsholtevej 57B4293 Dianalund,lund,590.000,23-07-1997,Alm. Salg,5.900,3,Villa,100,1936,,Aktuel værdi
+Rugvænget 204293 Dianalund,lund,840.000,24-06-1997,Alm. Salg,5.675,5,Villa,148,1980,,Aktuel værdi
+Fyrrevænget 174293 Dianalund,lund,675.000,02-06-1997,Alm. Salg,6.081,3,Villa,111,1973,,Aktuel værdi
+Fyrrevænget 104293 Dianalund,lund,778.040,27-05-1997,Alm. Salg,6.126,4,Villa,127,1973,,Aktuel værdi
+Holbergsvej 384293 Dianalund,lund,525.000,26-05-1997,Alm. Salg,3.281,4,Villa,160,1951,,Aktuel værdi
+Drosselvej 174293 Dianalund,lund,795.000,24-05-1997,Alm. Salg,5.760,4,Villa,138,1976,,Aktuel værdi
+Møllevænget 184293 Dianalund,lund,1.217.000,24-04-1997,Alm. Salg,6.024,5,Villa,202,1972,,Aktuel værdi
+Kildemosevej 64293 Dianalund,lund,644.000,22-04-1997,Alm. Salg,5.649,4,Villa,114,1965,,Aktuel værdi
+Kongstedvej 44293 Dianalund,lund,355.000,09-04-1997,Alm. Salg,3.380,6,Villa,105,1906,,Aktuel værdi
+Rugvænget 34293 Dianalund,lund,750.000,29-03-1997,Alm. Salg,5.639,4,Villa,133,1980,,Aktuel værdi
+Hesselbjergvej 64293 Dianalund,lund,695.000,20-03-1997,Alm. Salg,4.894,4,Villa,142,1904,,Aktuel værdi
+Godthåbsvej 44293 Dianalund,lund,822.000,19-01-1997,Alm. Salg,6.180,5,Villa,133,1929,,Aktuel værdi
+Dr Sells Vej 124293 Dianalund,lund,518.000,18-01-1997,Alm. Salg,2.478,6,Villa,209,1925,,Aktuel værdi
+Skyttevej 54293 Dianalund,lund,380.000,14-12-1996,Alm. Salg,7.916,2,Villa,48,1946,,Aktuel værdi
+Holmevejen 144293 Dianalund,lund,223.000,10-12-1996,Alm. Salg,2.064,3,Villa,108,2002,,Aktuel værdi
+Gammelgang 94293 Dianalund,lund,852.200,10-12-1996,Alm. Salg,-,6,Stuehus,199,1916,,
+Agervænget 264293 Dianalund,lund,789.000,21-11-1996,Alm. Salg,5.595,4,Villa,141,1980,,Aktuel værdi
+Lærkevej 24293 Dianalund,lund,528.500,06-11-1996,Alm. Salg,3.886,4,Villa,136,1953,,Aktuel værdi
+Sølvagervej 114293 Dianalund,lund,215.000,04-11-1996,Auktion,1.776,5,Villa,121,1988,,Aktuel værdi
+Åmosevej 214293 Dianalund,lund,627.000,02-11-1996,Alm. Salg,5.700,4,Villa,110,1938,,Aktuel værdi
+Herrestrupvej 164293 Dianalund,lund,285.000,27-10-1996,Alm. Salg,2.968,4,Villa,96,1928,,Aktuel værdi
+Lårupvej 454293 Dianalund,lund,397.000,12-09-1996,Alm. Salg,-,6,Villa,117,1960,,Aktuel værdi
+Godthåbsvej 84293 Dianalund,lund,471.000,04-09-1996,Alm. Salg,3.738,4,Villa,126,1933,,Aktuel værdi
+Karsholtevej 244293 Dianalund,lund,680.000,03-09-1996,Alm. Salg,3.400,6,Villa,200,1922,,Aktuel værdi
+Skovbrynet 7A4293 Dianalund,lund,300.000,20-08-1996,Alm. Salg,4.687,2,Villa,64,1925,,Aktuel værdi
+Sønderskovvej 104293 Dianalund,lund,219.520,15-08-1996,Alm. Salg,1.330,3,Stuehus,165,1898,,
+Finlandsvej 74293 Dianalund,lund,768.000,11-08-1996,Alm. Salg,4.517,5,Villa,170,1983,,Aktuel værdi
+Karsholtevej 494293 Dianalund,lund,503.000,17-07-1996,Alm. Salg,4.790,5,Villa,105,1954,,Aktuel værdi
+Finlandsvej 204293 Dianalund,lund,733.000,06-07-1996,Alm. Salg,5.429,5,Villa,135,1986,,Aktuel værdi
+Hedeborydevej 94293 Dianalund,lund,308.837,05-07-1996,Alm. Salg,2.913,4,Villa,106,1918,,Aktuel værdi
+Lundtoftevej 574293 Dianalund,lund,775.000,29-06-1996,Alm. Salg,5.827,4,Villa,133,1967,,Aktuel værdi
+Havrevænget 14293 Dianalund,lund,480.000,21-04-1996,Alm. Salg,5.052,4,Rækkehus,95,1987,,Aktuel værdi
+Brandstrupvej 34293 Dianalund,lund,294.680,06-04-1996,Alm. Salg,3.466,4,Villa,85,1900,,Aktuel værdi
+Leren 34293 Dianalund,lund,843.345,03-04-1996,Alm. Salg,4.216,6,Stuehus,200,1923,,
+Banevej 154293 Dianalund,lund,117.000,27-03-1996,Alm. Salg,650,7,Villa,180,1905,,Aktuel værdi
+Grønningen 184293 Dianalund,lund,55.500,27-03-1996,Alm. Salg,451,4,Villa,123,1997,,Aktuel værdi
+Mågevej 344293 Dianalund,lund,883.000,26-03-1996,Alm. Salg,3.806,7,Villa,232,1975,,Aktuel værdi
+Store Bjørnevej 54293 Dianalund,lund,610.000,26-03-1996,Alm. Salg,4.388,5,Villa,139,1973,,Aktuel værdi
+Holmevejen 174293 Dianalund,lund,979.250,09-03-1996,Alm. Salg,6.572,6,Stuehus,149,1900,,
+Øgårdsvej 44293 Dianalund,lund,85.000,06-03-1996,Fam. Salg,1.370,2,Sommerhus,62,1969,,Aktuel værdi
+Vestervang 184293 Dianalund,lund,395.000,23-02-1996,Fam. Salg,-,5,Villa,136,1962,,Aktuel værdi
+Kongstedvej 404293 Dianalund,lund,294.160,21-02-1996,Alm. Salg,3.381,5,Villa,87,1942,,Aktuel værdi
+Bakkevænget 294293 Dianalund,lund,555.000,01-01-1996,Alm. Salg,4.586,4,Villa,121,1974,,Aktuel værdi
+Skyttevej 224293 Dianalund,lund,190.000,28-12-1995,Alm. Salg,4.222,2,Villa,45,1955,,Aktuel værdi
+Holmevejen 204293 Dianalund,lund,820.000,22-12-1995,Alm. Salg,5.503,5,Stuehus,149,1910,,
+Verupgårdsvej 124293 Dianalund,lund,831.000,06-12-1995,Fam. Salg,2.408,15,Stuehus,345,1885,,
+Fasanvej 64293 Dianalund,lund,400.000,05-12-1995,Fam. Salg,3.773,4,Villa,106,1962,,Aktuel værdi
+Gammelgang 14293 Dianalund,lund,1.680.000,05-12-1995,Fam. Salg,8.571,6,Stuehus,196,1900,,
+Magleøvej 14293 Dianalund,lund,979.250,16-11-1995,Alm. Salg,4.202,7,Villa,233,1973,,Aktuel værdi
+Fyrrevænget 374293 Dianalund,lund,775.000,09-11-1995,Alm. Salg,4.754,4,Villa,163,1976,,Aktuel værdi
+Åmosevej 34293 Dianalund,lund,591.000,30-10-1995,Alm. Salg,4.766,6,Villa,124,1830,,Aktuel værdi
+Orebovej 274293 Dianalund,lund,405.000,25-10-1995,Fam. Salg,1.626,7,Stuehus,249,1981,,
+Holbergsvej 864293 Dianalund,lund,470.000,17-09-1995,Alm. Salg,1.918,7,Rækkehus,245,1808,,Aktuel værdi
+Enghaven 34293 Dianalund,lund,705.000,09-09-1995,Alm. Salg,4.433,6,Villa,159,1967,,Aktuel værdi
+Møllevænget 284293 Dianalund,lund,725.000,02-09-1995,Alm. Salg,4.447,4,Villa,163,1972,,Aktuel værdi
+Peder Paars Vej 254293 Dianalund,lund,650.000,13-08-1995,Alm. Salg,5.078,4,Villa,128,1977,,Aktuel værdi
+Karsholtevej 204293 Dianalund,lund,555.000,12-08-1995,Alm. Salg,2.018,10,Villa,275,1917,,Aktuel værdi
+Enighedsvej 84293 Dianalund,lund,478.000,10-08-1995,Alm. Salg,4.509,5,Villa,106,1954,,Aktuel værdi
+Skellebjergvej 174293 Dianalund,lund,428.000,07-08-1995,Alm. Salg,3.537,4,Villa,121,1947,,Aktuel værdi
+Lærkevej 54293 Dianalund,lund,555.000,03-08-1995,Alm. Salg,3.827,4,Villa,145,1957,,Aktuel værdi
+Skyttevej 144293 Dianalund,lund,525.000,03-08-1995,Alm. Salg,4.166,4,Villa,126,1945,,Aktuel værdi
+Bøgevænget 284293 Dianalund,lund,657.720,02-08-1995,Alm. Salg,4.836,6,Villa,136,1973,,Aktuel værdi
+Holbergsvej 1334293 Dianalund,lund,1.005.000,25-07-1995,Alm. Salg,4.222,4,Stuehus,238,1918,,
+Åvej 2E4293 Dianalund,lund,545.000,11-07-1995,Alm. Salg,3.224,5,Villa,169,1965,,Aktuel værdi
+Rosenvej 44293 Dianalund,lund,320.000,08-07-1995,Alm. Salg,4.155,3,Villa,77,1930,,Aktuel værdi
+Svinget 14293 Dianalund,lund,548.000,26-06-1995,Alm. Salg,2.331,8,Villa,235,1953,,Aktuel værdi
+Havrevænget 104293 Dianalund,lund,481.400,22-06-1995,Alm. Salg,5.067,4,Rækkehus,95,1987,,Aktuel værdi
+Åmosevej 144293 Dianalund,lund,1.056.000,20-06-1995,Fam. Salg,5.966,7,Stuehus,177,1800,,
+Brandstrupvej 284293 Dianalund,lund,767.000,15-06-1995,Alm. Salg,5.217,4,Villa,147,1964,,Aktuel værdi
+Henriksvej 24293 Dianalund,lund,823.800,12-06-1995,Alm. Salg,6.240,5,Villa,132,1984,,Aktuel værdi
+Herrestrupvej 424293 Dianalund,lund,450.000,05-06-1995,Alm. Salg,2.045,9,Villa,220,1911,,Aktuel værdi
+Agervænget 24293 Dianalund,lund,725.000,30-05-1995,Alm. Salg,5.034,4,Villa,144,1979,,Aktuel værdi
+Bakkevænget 64293 Dianalund,lund,550.000,20-05-1995,Alm. Salg,4.545,4,Villa,121,1975,,Aktuel værdi
+Skellebjergvej 64293 Dianalund,lund,1.385.000,18-05-1995,Alm. Salg,5.918,10,Stuehus,234,1904,,
+Tersløsevej 14293 Dianalund,lund,425.000,16-05-1995,Alm. Salg,2.014,9,Villa,211,1915,,Aktuel værdi
+Rugvænget 184293 Dianalund,lund,610.473,06-05-1995,Alm. Salg,5.262,4,Villa,116,1986,,Aktuel værdi
+Skovbrynet 174293 Dianalund,lund,520.060,21-04-1995,Alm. Salg,-,4,Villa,137,1938,,Aktuel værdi
+Rugvænget 394293 Dianalund,lund,762.220,20-04-1995,Alm. Salg,5.367,4,Villa,142,1987,,Aktuel værdi
+Rugvænget 514293 Dianalund,lund,575.000,01-04-1995,Alm. Salg,-,4,Villa,115,1980,,Aktuel værdi
+Lærkemosevej 54293 Dianalund,lund,598.965,28-03-1995,Alm. Salg,4.643,4,Villa,129,1961,,Aktuel værdi
+Brandstrupvej 264293 Dianalund,lund,475.000,26-03-1995,Alm. Salg,-,5,Villa,135,1938,,Aktuel værdi
+Fasanvej 94293 Dianalund,lund,342.500,10-03-1995,Alm. Salg,3.805,4,Villa,90,1963,,Aktuel værdi
+Skyttevej 1A4293 Dianalund,lund,387.000,16-02-1995,Alm. Salg,4.252,5,Villa,91,1963,,Aktuel værdi
+Islandsvej 134293 Dianalund,lund,891.975,10-02-1995,Alm. Salg,5.946,5,Villa,150,1988,,Aktuel værdi
+Bøgevænget 34293 Dianalund,lund,685.000,28-01-1995,Alm. Salg,3.085,6,Villa,222,1972,,Aktuel værdi
+Pernillesvej 224293 Dianalund,lund,1.210.000,17-01-1995,Alm. Salg,7.117,4,Villa,170,1979,,Aktuel værdi
+Rugvænget 454293 Dianalund,lund,631.873,15-01-1995,Alm. Salg,3.415,6,Villa,185,1980,,Aktuel værdi
+Agervænget 354293 Dianalund,lund,555.000,14-01-1995,Alm. Salg,2.831,7,Villa,196,1979,,Aktuel værdi
+Agervænget 164293 Dianalund,lund,645.000,19-12-1994,Alm. Salg,5.560,4,Villa,116,1979,,Aktuel værdi
+Sønderskovvej 14293 Dianalund,lund,890.000,26-11-1994,Alm. Salg,6.592,5,Stuehus,135,1877,,
+Parkvej 274293 Dianalund,lund,570.000,14-11-1994,Alm. Salg,4.384,5,Villa,130,1972,,Aktuel værdi
+Snerlevej 64293 Dianalund,lund,465.000,08-11-1994,Fam. Salg,3.842,4,Villa,121,1972,,Aktuel værdi
+Nybovej 64293 Dianalund,lund,426.220,25-10-1994,Andet,3.278,5,Villa,130,1931,,Aktuel værdi
+Holbergsvej 514293 Dianalund,lund,500.000,07-10-1994,Alm. Salg,-,5,Villa,183,1910,,Aktuel værdi
+Seehusensvej 44293 Dianalund,lund,586.000,01-10-1994,Alm. Salg,3.084,7,Villa,190,1930,,Aktuel værdi
+Peder Paars Vej 134293 Dianalund,lund,685.000,25-08-1994,Alm. Salg,5.150,5,Villa,133,1977,,Aktuel værdi
+Hesselbjergvej 44293 Dianalund,lund,300.000,11-08-1994,Alm. Salg,1.851,6,Villa,162,1905,,Aktuel værdi
+Åvænget 134293 Dianalund,lund,335.000,23-07-1994,Alm. Salg,3.806,3,Villa,88,1972,,Aktuel værdi
+Kragebrovej 14293 Dianalund,lund,625.000,23-07-1994,Alm. Salg,4.699,7,Stuehus,133,1908,,
+Brandstrupvej 24293 Dianalund,lund,470.000,21-07-1994,Alm. Salg,3.983,5,Villa,118,1939,,Aktuel værdi
+Sønderskovvej 24293 Dianalund,lund,595.000,19-07-1994,Alm. Salg,2.500,10,Villa,238,1877,,Aktuel værdi
+Brandstrupvej 204293 Dianalund,lund,157.250,13-07-1994,Fam. Salg,1.483,5,Villa,106,1953,,Aktuel værdi
+Drosselvej 124293 Dianalund,lund,431.000,05-07-1994,Alm. Salg,3.393,5,Villa,127,1975,,Aktuel værdi
+Banevænget 44293 Dianalund,lund,555.000,28-06-1994,Alm. Salg,5.186,5,Villa,107,1959,,Aktuel værdi
+Rugvænget 474293 Dianalund,lund,541.726,16-06-1994,Alm. Salg,5.471,4,Villa,99,1981,,Aktuel værdi
+Holbergsvej 844293 Dianalund,lund,550.000,12-06-1994,Alm. Salg,4.435,4,Villa,124,1966,,Aktuel værdi
+Mågevej 444293 Dianalund,lund,650.000,05-06-1994,Alm. Salg,3.801,6,Villa,171,1975,,Aktuel værdi
+Rugvænget 24293 Dianalund,lund,621.339,05-06-1994,Alm. Salg,3.186,6,Villa,195,1980,,Aktuel værdi
+Fyrrevænget 394293 Dianalund,lund,475.000,30-05-1994,Alm. Salg,-,8,Villa,181,1973,,Aktuel værdi
+Pernillesvej 164293 Dianalund,lund,551.700,18-05-1994,Alm. Salg,4.117,4,Villa,134,1979,,Aktuel værdi
+Norgesvej 124293 Dianalund,lund,650.000,07-05-1994,Alm. Salg,5.078,4,Villa,128,1983,,Aktuel værdi
+Holbækvej 64293 Dianalund,lund,216.000,28-04-1994,Alm. Salg,1.449,6,Villa,149,1930,,Aktuel værdi
+Åmosevej 164293 Dianalund,lund,950.000,16-04-1994,Alm. Salg,3.846,7,Stuehus,247,1880,,
+Lundtoftevej 374293 Dianalund,lund,650.000,16-04-1994,Alm. Salg,4.421,6,Villa,147,1971,,Aktuel værdi
+Mosevej 14293 Dianalund,lund,384.740,11-04-1994,Alm. Salg,3.735,4,Villa,103,1961,,Aktuel værdi
+Holbergsvej 584293 Dianalund,lund,640.000,06-04-1994,Alm. Salg,4.604,8,Villa,139,1948,,Aktuel værdi
+Parkvej 264293 Dianalund,lund,485.000,26-03-1994,Alm. Salg,4.330,3,Villa,112,1972,,Aktuel værdi
+Rugskovvej 174293 Dianalund,lund,249.000,06-03-1994,Auktion,2.862,4,Villa,87,1900,,Aktuel værdi
+Karsholtevej 14293 Dianalund,lund,373.989,03-03-1994,Alm. Salg,2.899,4,Villa,129,1935,,Aktuel værdi
+Sømosevej 224293 Dianalund,lund,365.602,10-02-1994,Fam. Salg,3.021,4,Villa,121,1964,,Aktuel værdi
+Merbjergvej 174293 Dianalund,lund,275.000,01-02-1994,Alm. Salg,2.412,3,Villa,114,1937,,Aktuel værdi
+Verupvej 624293 Dianalund,lund,435.260,21-01-1994,Alm. Salg,3.200,5,Villa,136,1702,,Aktuel værdi
+Nybovej 54293 Dianalund,lund,565.000,18-01-1994,Alm. Salg,3.741,6,Villa,151,1926,,Aktuel værdi
+Bakkevej 264293 Dianalund,lund,775.000,13-01-1994,Alm. Salg,3.490,8,Stuehus,222,1920,,
+Leandersvej 164293 Dianalund,lund,729.000,11-01-1994,Alm. Salg,4.213,7,Villa,173,1976,,Aktuel værdi
+Banevænget 124293 Dianalund,lund,290.000,03-12-1993,Fam. Salg,1.779,4,Villa,163,1962,,Aktuel værdi
+Sønderskovvej 84293 Dianalund,lund,350.000,23-11-1993,Alm. Salg,-,8,Villa,311,1877,,Aktuel værdi
+Pernillesvej 254293 Dianalund,lund,585.000,22-11-1993,Alm. Salg,4.398,5,Villa,133,1976,,Aktuel værdi
+Kragebrovej 144293 Dianalund,lund,950.000,12-11-1993,Alm. Salg,5.588,4,Stuehus,170,1803,,
+Holbergsvej 124293 Dianalund,lund,270.000,09-11-1993,Alm. Salg,2.368,5,Villa,114,1928,,Aktuel værdi
+Karsholtevej 84293 Dianalund,lund,134.748,28-10-1993,Andet,1.171,5,Villa,115,1927,,Aktuel værdi
+Bastbjergvej 34293 Dianalund,lund,2.614.000,26-10-1993,Alm. Salg,7.103,9,Stuehus,368,1978,,
+Drosselvej 164293 Dianalund,lund,565.600,19-08-1993,Alm. Salg,-,5,Villa,187,1977,,Aktuel værdi
+Bakkevænget 124293 Dianalund,lund,450.000,17-08-1993,Alm. Salg,3.719,4,Villa,121,1975,,Aktuel værdi
+Hedeborydevej 114293 Dianalund,lund,160.000,04-08-1993,Alm. Salg,2.191,3,Villa,73,1828,,Aktuel værdi
+Henriksvej 64293 Dianalund,lund,763.960,24-07-1993,Alm. Salg,4.993,4,Villa,153,1978,,Aktuel værdi
+Peder Paars Vej 274293 Dianalund,lund,515.320,18-07-1993,Alm. Salg,4.258,4,Villa,121,1977,,Aktuel værdi
+Finlandsvej 244293 Dianalund,lund,796.180,08-07-1993,Alm. Salg,4.796,5,Villa,166,1987,,Aktuel værdi
+Nordrupvej 24293 Dianalund,lund,1.670.000,27-06-1993,Alm. Salg,12.846,5,Stuehus,130,1921,,
+Åvej 14293 Dianalund,lund,395.000,14-06-1993,Alm. Salg,2.323,6,Villa,170,1961,,Aktuel værdi
+Stationsvej 244293 Dianalund,lund,490.000,15-05-1993,Alm. Salg,2.041,6,Villa,240,1912,,Aktuel værdi
+Stationsvej 44293 Dianalund,lund,280.000,31-03-1993,Alm. Salg,1.750,7,Villa,160,1935,,Aktuel værdi
+Brandstrupvej 44293 Dianalund,lund,610.000,24-03-1993,Alm. Salg,2.541,4,Villa,240,1909,,Aktuel værdi
+Snerlevej 74293 Dianalund,lund,430.000,24-03-1993,Alm. Salg,3.553,4,Villa,121,1973,,Aktuel værdi
+Brandstrupvej 184293 Dianalund,lund,283.000,11-03-1993,Alm. Salg,2.398,3,Villa,118,1935,,Aktuel værdi
+Herrestrupvej 504293 Dianalund,lund,800.000,08-03-1993,Alm. Salg,7.079,4,Stuehus,113,1935,,
+Vibevej 54293 Dianalund,lund,408.000,06-02-1993,Alm. Salg,3.138,5,Villa,130,1962,,Aktuel værdi
+Norgesvej 14293 Dianalund,lund,440.515,10-12-1992,Alm. Salg,3.192,5,Villa,138,1979,,Aktuel værdi
+Holbergsvej 874293 Dianalund,lund,295.000,05-12-1992,Alm. Salg,2.234,4,Villa,132,1939,,Aktuel værdi
+Atterup Vænge 84293 Dianalund,lund,665.000,30-11-1992,Andet,2.929,7,Villa,227,1912,,Aktuel værdi
+Møllevænget 204293 Dianalund,lund,645.000,01-11-1992,Alm. Salg,4.108,5,Villa,157,1972,,Aktuel værdi
+Kongstedvej 524293 Dianalund,lund,175.000,19-10-1992,Alm. Salg,1.250,6,Villa,140,1898,,Aktuel værdi
+Pernillesvej 204293 Dianalund,lund,675.000,18-10-1992,Alm. Salg,3.375,5,Villa,200,1976,,Aktuel værdi
+Holbergsvej 754293 Dianalund,lund,82.000,22-09-1992,Alm. Salg,719,4,Villa,114,1911,,Aktuel værdi
+Peder Paars Vej 214293 Dianalund,lund,475.000,16-09-1992,Alm. Salg,3.345,4,Villa,142,1977,,Aktuel værdi
+Dianalundvej 234293 Dianalund,lund,365.000,14-09-1992,Alm. Salg,1.962,6,Villa,186,1900,,Aktuel værdi
+Stationsvej 164293 Dianalund,lund,475.000,24-08-1992,Alm. Salg,2.473,7,Villa,192,1900,,Aktuel værdi
+Tersløsevej 104293 Dianalund,lund,380.000,17-06-1992,Alm. Salg,2.171,5,Villa,175,1908,,Aktuel værdi
+Henriksvej 144293 Dianalund,lund,611.500,10-06-1992,Alm. Salg,4.777,4,Villa,128,1976,,Aktuel værdi
+Dianalundvej 324293 Dianalund,lund,1.195.000,03-06-1992,Alm. Salg,7.563,5,Stuehus,158,1896,,
+Tjørnevej 44293 Dianalund,lund,495.000,09-05-1992,Alm. Salg,4.267,4,Villa,116,1967,,Aktuel værdi
+Peder Paars Vej 94293 Dianalund,lund,575.000,28-04-1992,Alm. Salg,4.674,4,Villa,123,1977,,Aktuel værdi
+Nordvænget 64293 Dianalund,lund,560.000,28-04-1992,Alm. Salg,3.093,6,Villa,181,1973,,Aktuel værdi
+Fyrrevænget 344293 Dianalund,lund,650.000,04-04-1992,Alm. Salg,3.513,6,Villa,185,1970,,Aktuel værdi
+Pernillesvej 54293 Dianalund,lund,530.000,31-03-1992,Alm. Salg,3.732,4,Villa,142,1976,,Aktuel værdi
+Brandstrupvej 84293 Dianalund,lund,685.000,10-03-1992,Alm. Salg,4.691,4,Villa,146,1933,,Aktuel værdi
+Vestervang 14293 Dianalund,lund,461.700,05-03-1992,Alm. Salg,3.098,6,Villa,149,1937,,Aktuel værdi
+Atterup Vænge 24293 Dianalund,lund,718.000,17-01-1992,Auktion,3.682,4,Villa,195,1965,,Aktuel værdi
+Merbjergvej 244293 Dianalund,lund,410.000,02-01-1992,Fam. Salg,3.228,5,Villa,127,1956,,Aktuel værdi

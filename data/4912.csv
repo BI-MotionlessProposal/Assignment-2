@@ -1,0 +1,278 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Tårsvej 464912 Harpelunde,unde,240.000,13-04-2017,Alm. Salg,1.188,10,Villa,202,1890,-13 %,Aktuel værdi
+Fredensvej 124912 Harpelunde,unde,95.000,15-02-2017,Alm. Salg,791,5,Villa,120,1952,0 %,Aktuel værdi
+Harpelundevej 924912 Harpelunde,unde,140.000,25-01-2017,Alm. Salg,1.333,5,Villa,105,1880,,Aktuel værdi
+Stations Alléen 44912 Harpelunde,unde,52.001,18-01-2017,Auktion,509,3,Villa,102,1917,,Aktuel værdi
+Rugvænget 34912 Harpelunde,unde,230.000,07-12-2016,Fam. Salg,1.825,4,Villa,126,1983,,Aktuel værdi
+Færgevej 94912 Harpelunde,unde,132.500,26-10-2016,Alm. Salg,2.070,3,Villa,64,1906,-32 %,Aktuel værdi
+Stations Alléen 194912 Harpelunde,unde,245.000,12-10-2016,Alm. Salg,1.750,4,Villa,140,1971,-17 %,Aktuel værdi
+Kildevangen 104912 Harpelunde,unde,63.001,31-08-2016,Auktion,425,5,Villa,148,1877,,Aktuel værdi
+Tårsvej 554912 Harpelunde,unde,145.000,16-06-2016,Alm. Salg,1.006,6,Villa,144,1923,-17 %,Aktuel værdi
+Middelgrundsvej 154912 Harpelunde,unde,229.602,14-06-2016,Andet,2.733,4,Villa,84,1890,,Aktuel værdi
+Tårsvej 1764912 Harpelunde,unde,1.195.000,30-04-2016,Alm. Salg,6.867,5,Villa,174,1899,0 %,Aktuel værdi
+Tårsvej 1804912 Harpelunde,unde,399.500,01-04-2016,Fam. Salg,4.342,4,Villa,92,1896,,Aktuel værdi
+Lindelsevej 334912 Harpelunde,unde,1.200.000,29-02-2016,Alm. Salg,9.523,5,Stuehus,126,1852,,
+Lindelsevej 414912 Harpelunde,unde,1.200.000,29-02-2016,Alm. Salg,6.382,7,Stuehus,188,1900,,
+Bagerstræde 324912 Harpelunde,unde,4.883.500,12-02-2016,Alm. Salg,37.565,5,Stuehus,130,1890,,
+Harpelundevej 834912 Harpelunde,unde,20.000,01-01-2016,Alm. Salg,196,4,Villa,102,1900,,Aktuel værdi
+Vindøvej 504912 Harpelunde,unde,165.000,17-12-2015,Alm. Salg,1.375,3,Villa,120,1903,-15 %,Aktuel værdi
+Pilevej 214912 Harpelunde,unde,60.000,09-12-2015,Alm. Salg,512,4,Sommerhus,117,1877,-13 %,Aktuel værdi
+Tårsvej 514912 Harpelunde,unde,145.651,05-11-2015,Fam. Salg,1.223,3,Villa,119,1912,,Aktuel værdi
+Frederiksdalsvej 114912 Harpelunde,unde,350.000,21-10-2015,Andet,2.482,3,Villa,141,1900,,Aktuel værdi
+Hovmarksvej 214912 Harpelunde,unde,175.000,23-09-2015,Alm. Salg,1.325,4,Villa,132,1897,-12 %,Aktuel værdi
+Hellenæs-Stien 134912 Harpelunde,unde,850.000,22-08-2015,Alm. Salg,7.727,4,Sommerhus,110,1926,,Aktuel værdi
+Tårsvej 1984912 Harpelunde,unde,350.000,19-08-2015,Auktion,1.912,6,Villa,183,1905,-29 %,Aktuel værdi
+Højsmarkevej 394912 Harpelunde,unde,3.050.000,28-07-2015,Fam. Salg,16.850,9,Stuehus,181,1862,,
+Lindelsevej 634912 Harpelunde,unde,1.080.000,10-06-2015,Alm. Salg,8.852,3,Villa,122,1923,-5 %,Aktuel værdi
+Bagerstræde 184912 Harpelunde,unde,192.500,16-04-2015,Alm. Salg,1.266,5,Villa,152,1930,,Aktuel værdi
+Vindøvej 344912 Harpelunde,unde,102.799,15-04-2015,Auktion,815,5,Villa,126,1904,-74 %,Aktuel værdi
+Bagerstræde 264912 Harpelunde,unde,252.364,16-03-2015,Fam. Salg,1.328,6,Villa,190,1745,-64 %,Aktuel værdi
+Rugvænget 24912 Harpelunde,unde,147.500,19-01-2015,Alm. Salg,1.219,4,Villa,121,1976,,Aktuel værdi
+Stations Alléen 234912 Harpelunde,unde,72.458,10-12-2014,Auktion,579,4,Villa,125,1971,,Aktuel værdi
+Vindøvej 574912 Harpelunde,unde,1.870.000,28-11-2014,Fam. Salg,10.388,5,Stuehus,180,1979,,
+Tårsvej 1514912 Harpelunde,unde,195.000,12-11-2014,Alm. Salg,1.822,4,Villa,107,1914,,Aktuel værdi
+Stations Alléen 84912 Harpelunde,unde,40.000,05-11-2014,Auktion,300,5,Villa,133,1948,,Aktuel værdi
+Lindelsevej 544912 Harpelunde,unde,129.400,01-10-2014,Auktion,1.347,4,Villa,96,1897,,Aktuel værdi
+Bygvænget 44912 Harpelunde,unde,375.000,15-09-2014,Alm. Salg,3.099,4,Villa,121,1976,-20 %,Aktuel værdi
+Højsmarkevej 364912 Harpelunde,unde,100.000,21-05-2014,Alm. Salg,813,4,Villa,123,1925,-37 %,Aktuel værdi
+Fredensvej 84912 Harpelunde,unde,31.000,07-05-2014,Auktion,303,4,Villa,102,1958,,Aktuel værdi
+Bagerstræde 374912 Harpelunde,unde,2.524.026,30-04-2014,Alm. Salg,13.077,6,Stuehus,193,1825,,
+Bagerstræde 174912 Harpelunde,unde,67.400,09-04-2014,Auktion,732,4,Villa,92,1920,,Aktuel værdi
+Bagerstræde 154912 Harpelunde,unde,80.800,26-03-2014,Auktion,585,4,Villa,138,1928,-73 %,Aktuel værdi
+Lindelsevej 114912 Harpelunde,unde,10.185.276,21-03-2014,Fam. Salg,57.543,9,Stuehus,177,1917,,
+Harpelundevej 1134912 Harpelunde,unde,390.162,02-01-2014,Alm. Salg,3.251,4,Villa,120,1926,,Aktuel værdi
+Bagerstræde 144912 Harpelunde,unde,295.000,25-11-2013,Alm. Salg,2.633,4,Villa,112,1973,,Aktuel værdi
+Færgevej 154912 Harpelunde,unde,466.462,31-10-2013,Alm. Salg,3.331,5,Sommerhus,140,1900,-22 %,Aktuel værdi
+Middelgrundsvej 114912 Harpelunde,unde,253.650,22-10-2013,Fam. Salg,2.096,3,Villa,121,1898,,Aktuel værdi
+Tårsvej 84912 Harpelunde,unde,75.000,14-10-2013,Alm. Salg,1.041,3,Villa,72,1959,-62 %,Aktuel værdi
+Bygvænget 14912 Harpelunde,unde,325.000,03-07-2013,Alm. Salg,2.407,4,Villa,135,1974,-13 %,Aktuel værdi
+Tårsvej 624912 Harpelunde,unde,90.000,28-06-2013,Alm. Salg,714,4,Villa,126,1948,-77 %,Aktuel værdi
+Grevevænget 94912 Harpelunde,unde,675.000,25-06-2013,Alm. Salg,4.821,5,Villa,140,1975,-3 %,Aktuel værdi
+Grevevænget 64912 Harpelunde,unde,1.202.500,30-05-2013,Alm. Salg,5.541,6,Villa,217,1978,-14 %,Aktuel værdi
+Tårsvej 1104912 Harpelunde,unde,4.249.491,22-05-2013,Fam. Salg,25.294,5,Stuehus,168,1999,,
+Grevevænget 84912 Harpelunde,unde,310.000,30-04-2013,Alm. Salg,2.767,4,Villa,112,1975,-22 %,Aktuel værdi
+Færgevej 74912 Harpelunde,unde,49.500,10-04-2013,Auktion,291,7,Villa,170,1900,,Aktuel værdi
+Skovstrædet 424912 Harpelunde,unde,235.000,18-01-2013,Alm. Salg,1.312,6,Villa,179,1926,-20 %,Aktuel værdi
+Pilevej 264912 Harpelunde,unde,300.000,08-01-2013,Alm. Salg,2.343,5,Villa,128,1907,,Aktuel værdi
+Vindøvej 94912 Harpelunde,unde,6.992.000,24-10-2012,Fam. Salg,31.075,12,Stuehus,225,1900,,
+Tårsvej 1064912 Harpelunde,unde,95.000,05-10-2012,Alm. Salg,848,4,Villa,112,1910,-24 %,Aktuel værdi
+Lindelsevej 524912 Harpelunde,unde,400.000,25-07-2012,Alm. Salg,5.555,3,Villa,72,1940,-19 %,Aktuel værdi
+Tårsvej 1004912 Harpelunde,unde,275.000,11-06-2012,Alm. Salg,2.750,5,Villa,100,1931,-15 %,Aktuel værdi
+Slotø-Vænget 114912 Harpelunde,unde,675.000,07-06-2012,Alm. Salg,9.000,3,Villa,75,1920,,Aktuel værdi
+Tårsvej 1774912 Harpelunde,unde,420.000,31-05-2012,Alm. Salg,3.500,3,Villa,120,1908,-6 %,Aktuel værdi
+Tårsvej 104912 Harpelunde,unde,185.000,09-04-2012,Alm. Salg,1.178,3,Villa,157,1898,,Aktuel værdi
+Tårsvej 1434912 Harpelunde,unde,75.000,12-01-2012,Alm. Salg,551,4,Sommerhus,136,1900,-62 %,Aktuel værdi
+Vindøvej 404912 Harpelunde,unde,200.000,16-09-2011,Alm. Salg,2.380,3,Villa,84,1904,-56 %,Aktuel værdi
+Lillemarken 144912 Harpelunde,unde,600.000,20-07-2011,Alm. Salg,4.761,3,Villa,126,2013,,Aktuel værdi
+Huusgårdsvej 154912 Harpelunde,unde,675.000,09-07-2011,Alm. Salg,6.308,4,Villa,107,1967,-3 %,Aktuel værdi
+Viggo Lunds Vej 14912 Harpelunde,unde,425.000,01-04-2011,Alm. Salg,3.761,4,Villa,113,1980,-14 %,Aktuel værdi
+Tårsvej 164912 Harpelunde,unde,303.000,24-03-2011,Alm. Salg,3.189,3,Villa,95,1900,1 %,Aktuel værdi
+Tårsvej 1864912 Harpelunde,unde,370.000,28-02-2011,Fam. Salg,4.933,5,Villa,75,1907,,Aktuel værdi
+Huusgårdsvej 84912 Harpelunde,unde,445.000,23-02-2011,Alm. Salg,3.803,4,Villa,117,1971,0 %,Aktuel værdi
+Bagerstræde 214912 Harpelunde,unde,66.000,09-02-2011,Auktion,660,4,Villa,100,1926,-85 %,Aktuel værdi
+Kongestien 24912 Harpelunde,unde,995.000,05-02-2011,Alm. Salg,5.993,6,Villa,166,1903,0 %,Aktuel værdi
+Tårsvej 314912 Harpelunde,unde,325.000,07-01-2011,Alm. Salg,2.663,5,Villa,122,1912,-28 %,Aktuel værdi
+Tårsvej 1024912 Harpelunde,unde,417.255,22-12-2010,Alm. Salg,1.724,6,Villa,242,1906,,Aktuel værdi
+Harpelundevej 584912 Harpelunde,unde,575.000,08-12-2010,Auktion,2.194,8,Villa,262,1850,-28 %,Aktuel værdi
+Stations Alléen 124912 Harpelunde,unde,550.000,01-12-2010,Alm. Salg,4.867,7,Villa,113,1926,-8 %,Aktuel værdi
+Tårsvej 1344912 Harpelunde,unde,564.205,30-11-2010,Alm. Salg,5.425,4,Villa,104,1817,0 %,Aktuel værdi
+Tårsvej 1204912 Harpelunde,unde,500.000,02-11-2010,Alm. Salg,1.128,10,Stuehus,443,1877,,
+Grevevænget 54912 Harpelunde,unde,370.204,07-10-2010,Fam. Salg,2.762,4,Villa,134,1980,-68 %,Aktuel værdi
+Huusgårdsvej 34912 Harpelunde,unde,255.000,14-07-2010,Alm. Salg,2.897,4,Villa,88,1967,-7 %,Aktuel værdi
+Huusgårdsvej 194912 Harpelunde,unde,375.000,12-07-2010,Alm. Salg,4.166,3,Villa,90,1967,-17 %,Aktuel værdi
+Bagerstræde 104912 Harpelunde,unde,475.000,07-07-2010,Auktion,5.053,6,Villa,94,1940,-20 %,Aktuel værdi
+Huusgårdsvej 14912 Harpelunde,unde,375.000,27-06-2010,Alm. Salg,2.450,4,Villa,153,1969,-37 %,Aktuel værdi
+Stations Alléen 264912 Harpelunde,unde,295.000,31-03-2010,Alm. Salg,2.757,4,Villa,107,1925,0 %,Aktuel værdi
+Bagerstræde 194912 Harpelunde,unde,265.000,17-02-2010,Alm. Salg,2.977,3,Villa,89,1925,,Aktuel værdi
+Vindøvej 464912 Harpelunde,unde,620.000,19-08-2009,Auktion,2.393,6,Villa,259,2011,-64 %,Aktuel værdi
+Fredensvej 134912 Harpelunde,unde,495.000,01-07-2009,Alm. Salg,3.000,6,Villa,165,1920,0 %,Aktuel værdi
+"Tårsvej 42A, 14912 Harpelunde",unde,150.000,15-06-2009,Alm. Salg,2.027,2,Anden beboelse,74,1928,,Aktuel værdi
+Havrevænget 14912 Harpelunde,unde,805.000,09-06-2009,Alm. Salg,5.513,5,Villa,146,1977,-19 %,Aktuel værdi
+Harpelundevej 674912 Harpelunde,unde,1.377.222,19-01-2009,Alm. Salg,6.558,8,Villa,210,1883,-1 %,Aktuel værdi
+Tårsvej 2044912 Harpelunde,unde,650.000,18-12-2008,Alm. Salg,8.125,3,Villa,80,1942,,Aktuel værdi
+Frederiksdalsvej 204912 Harpelunde,unde,646.000,10-12-2008,Fam. Salg,2.871,6,Villa,225,1910,,Aktuel værdi
+Kongestien 64912 Harpelunde,unde,247.500,21-11-2008,Andet,2.475,4,Villa,100,1890,,Aktuel værdi
+Stations Alléen 114912 Harpelunde,unde,493.070,13-10-2008,Fam. Salg,3.101,5,Villa,159,1970,,Aktuel værdi
+Grevevænget 104912 Harpelunde,unde,950.000,10-10-2008,Alm. Salg,6.375,5,Villa,149,1978,,Aktuel værdi
+Harpelundevej 1184912 Harpelunde,unde,1.250.000,08-10-2008,Alm. Salg,8.223,5,Villa,152,1917,,Aktuel værdi
+Hovmarksvej 14912 Harpelunde,unde,365.000,02-10-2008,Alm. Salg,2.703,5,Stuehus,135,1942,-8 %,
+Kildevangen 54912 Harpelunde,unde,394.333,19-08-2008,Fam. Salg,1.649,11,Villa,239,1823,,Aktuel værdi
+Tårsvej 804912 Harpelunde,unde,395.000,24-07-2008,Alm. Salg,5.064,4,Villa,78,1800,0 %,Aktuel værdi
+Kildevangen 34912 Harpelunde,unde,300.000,18-07-2008,Alm. Salg,3.409,4,Villa,88,1900,,Aktuel værdi
+Grevevænget 124912 Harpelunde,unde,745.000,26-06-2008,Alm. Salg,5.912,4,Villa,126,1974,0 %,Aktuel værdi
+Hovmarksvej 294912 Harpelunde,unde,460.000,21-06-2008,Alm. Salg,3.538,6,Villa,130,1968,,Aktuel værdi
+Tårsvej 54912 Harpelunde,unde,275.000,02-05-2008,Alm. Salg,1.303,9,Stuehus,211,1927,,
+Freuchensvej 114912 Harpelunde,unde,1.800.000,27-03-2008,Alm. Salg,10.909,5,Villa,165,2017,,Aktuel værdi
+Tårsvej 1254912 Harpelunde,unde,410.000,19-03-2008,Alm. Salg,5.000,3,Sommerhus,82,1937,,Aktuel værdi
+Tårsvej 1574912 Harpelunde,unde,80.000,28-02-2008,Alm. Salg,1.250,3,Villa,64,1899,,Aktuel værdi
+Skovstrædet 24912 Harpelunde,unde,550.000,30-11-2007,Alm. Salg,9.166,2,Sommerhus,60,1905,,Aktuel værdi
+Vindøvej 654912 Harpelunde,unde,450.000,29-11-2007,Alm. Salg,4.891,5,Villa,92,1936,,Aktuel værdi
+Frederiksdalsvej 384912 Harpelunde,unde,1.200.000,07-11-2007,Fam. Salg,5.769,6,Villa,208,1910,,Aktuel værdi
+Bagerstræde 13A4912 Harpelunde,unde,1.200.000,17-10-2007,Alm. Salg,7.594,5,Villa,158,1976,,Aktuel værdi
+Fredensvej 114912 Harpelunde,unde,1.200.000,11-10-2007,Alm. Salg,7.058,7,Villa,170,1927,,Aktuel værdi
+Tårsvej 1114912 Harpelunde,unde,486.586,08-10-2007,Andet,2.482,5,Villa,196,1978,,Aktuel værdi
+Tårsvej 1704912 Harpelunde,unde,775.000,05-10-2007,Alm. Salg,3.522,3,Villa,220,1885,,Aktuel værdi
+Stations Alléen 64912 Harpelunde,unde,1.235.000,28-06-2007,Alm. Salg,5.639,6,Villa,219,1920,0 %,Aktuel værdi
+Færgevej 54912 Harpelunde,unde,600.000,20-06-2007,Alm. Salg,9.090,3,Villa,66,1877,,Aktuel værdi
+Harpelundevej 1154912 Harpelunde,unde,350.000,31-05-2007,Alm. Salg,2.554,4,Villa,137,1911,,Aktuel værdi
+Fredensvej 44912 Harpelunde,unde,370.000,02-05-2007,Alm. Salg,3.557,4,Villa,104,1963,-6 %,Aktuel værdi
+Stations Alléen 184912 Harpelunde,unde,630.000,06-03-2007,Alm. Salg,5.121,4,Villa,123,1973,,Aktuel værdi
+Harpelundevej 1004912 Harpelunde,unde,190.000,05-03-2007,Alm. Salg,1.557,3,Villa,122,1877,,Aktuel værdi
+Fredensvej 94912 Harpelunde,unde,630.000,31-01-2007,Alm. Salg,5.943,4,Villa,106,1961,,Aktuel værdi
+Tårsvej 2004912 Harpelunde,unde,575.000,21-01-2007,Alm. Salg,7.371,4,Villa,78,1910,,Aktuel værdi
+Lindelsevej 144912 Harpelunde,unde,395.000,19-12-2006,Alm. Salg,3.291,4,Villa,120,1877,,Aktuel værdi
+Kongestien 104912 Harpelunde,unde,510.000,25-11-2006,Andet,4.636,4,Sommerhus,110,2008,,Aktuel værdi
+Højsmarkevej 244912 Harpelunde,unde,675.000,21-11-2006,Alm. Salg,3.571,6,Villa,189,1907,,Aktuel værdi
+Tårsvej 944912 Harpelunde,unde,605.000,09-11-2006,Alm. Salg,4.763,5,Villa,127,1962,,Aktuel værdi
+Lindelsevej 404912 Harpelunde,unde,1.950.000,13-07-2006,Alm. Salg,11.818,5,Villa,165,1880,,Aktuel værdi
+Stations Alléen 254912 Harpelunde,unde,1.375.000,10-07-2006,Alm. Salg,9.548,5,Villa,144,1978,,Aktuel værdi
+Tårsvej 484912 Harpelunde,unde,425.000,04-07-2006,Alm. Salg,4.722,3,Villa,90,1858,,Aktuel værdi
+Færgevej 134912 Harpelunde,unde,450.000,29-06-2006,Alm. Salg,3.020,5,Sommerhus,149,1910,,Aktuel værdi
+Kongestien 44912 Harpelunde,unde,900.000,14-06-2006,Alm. Salg,8.571,4,Sommerhus,105,1906,,Aktuel værdi
+Tårs Landevej 2644912 Harpelunde,unde,450.000,22-04-2006,Alm. Salg,6.521,3,Villa,69,1900,,Aktuel værdi
+Tårsvej 1504912 Harpelunde,unde,225.000,18-04-2006,Alm. Salg,3.750,2,Sommerhus,60,1880,,Aktuel værdi
+Lindelsevej 64912 Harpelunde,unde,945.000,10-04-2006,Alm. Salg,4.896,4,Villa,193,1922,,Aktuel værdi
+Højsmarkevej 194912 Harpelunde,unde,7.735.000,04-04-2006,Fam. Salg,21.788,14,Stuehus,355,1877,,
+Tårsvej 564912 Harpelunde,unde,525.000,04-04-2006,Alm. Salg,4.487,6,Villa,117,1929,,Aktuel værdi
+Tårsvej 1614912 Harpelunde,unde,925.000,04-04-2006,Alm. Salg,5.606,4,Villa,165,1900,,Aktuel værdi
+Fredensvej 34912 Harpelunde,unde,850.000,16-03-2006,Fam. Salg,3.541,8,Villa,240,1917,,Aktuel værdi
+Pilevej 254912 Harpelunde,unde,10.252.442,28-12-2005,Fam. Salg,53.398,5,Stuehus,192,1900,,
+Tårsvej 474912 Harpelunde,unde,370.000,15-12-2005,Alm. Salg,5.692,3,Villa,65,1947,,Aktuel værdi
+Lindelsevej 594912 Harpelunde,unde,185.143,15-11-2005,Fam. Salg,1.908,3,Villa,97,1900,,Aktuel værdi
+Tårsvej 784912 Harpelunde,unde,340.000,10-11-2005,Alm. Salg,3.736,3,Villa,91,1777,,Aktuel værdi
+Stations Alléen 24912 Harpelunde,unde,510.000,24-10-2005,Alm. Salg,5.795,3,Villa,88,1918,,Aktuel værdi
+Hovmarksvej 434912 Harpelunde,unde,375.000,19-10-2005,Alm. Salg,2.777,3,Villa,135,1910,,Aktuel værdi
+Tårsvej 154912 Harpelunde,unde,650.000,23-09-2005,Alm. Salg,4.642,5,Villa,140,1900,,Aktuel værdi
+Vindøvej 514912 Harpelunde,unde,750.000,31-08-2005,Alm. Salg,4.261,4,Villa,176,1800,,Aktuel værdi
+Middelgrundsvej 44912 Harpelunde,unde,1.200.000,23-07-2005,Alm. Salg,-,11,Villa,303,1877,,Aktuel værdi
+Pilevej 74912 Harpelunde,unde,450.000,09-06-2005,Alm. Salg,4.128,4,Sommerhus,109,1900,,Aktuel værdi
+Vindøvej 164912 Harpelunde,unde,200.000,24-04-2005,Alm. Salg,1.626,2,Villa,123,1903,,Aktuel værdi
+Tårsvej 494912 Harpelunde,unde,410.000,28-03-2005,Alm. Salg,3.660,4,Villa,112,1924,,Aktuel værdi
+Højsmarkevej 144912 Harpelunde,unde,1.537.500,21-02-2005,Alm. Salg,5.357,10,Stuehus,287,1888,,
+Huusgårdsvej 54912 Harpelunde,unde,457.000,14-01-2005,Auktion,2.285,6,Villa,200,1972,,Aktuel værdi
+Højsmarkevej 64912 Harpelunde,unde,625.000,16-12-2004,Alm. Salg,4.464,3,Villa,140,1898,,Aktuel værdi
+Freuchensvej 24912 Harpelunde,unde,1.200.000,03-12-2004,Alm. Salg,-,4,Villa,225,1900,,Aktuel værdi
+Tårsvej 694912 Harpelunde,unde,265.539,01-12-2004,Alm. Salg,2.212,5,Villa,120,1850,,Aktuel værdi
+Stations Alléen 14912 Harpelunde,unde,795.000,15-11-2004,Alm. Salg,3.456,6,Villa,230,1925,,Aktuel værdi
+Grevevænget 74912 Harpelunde,unde,975.000,29-10-2004,Alm. Salg,5.603,6,Villa,174,1976,,Aktuel værdi
+Tårsvej 454912 Harpelunde,unde,209.677,14-09-2004,Alm. Salg,2.184,2,Villa,96,1920,,Aktuel værdi
+Harpelundevej 1164912 Harpelunde,unde,255.732,11-09-2004,Andet,1.739,2,Villa,147,1926,,Aktuel værdi
+Tårsvej 914912 Harpelunde,unde,298.000,01-07-2004,Alm. Salg,1.752,7,Villa,170,1900,,Aktuel værdi
+Bagerstræde 274912 Harpelunde,unde,910.000,30-06-2004,Alm. Salg,5.687,6,Villa,160,1890,,Aktuel værdi
+Tårsvej 1964912 Harpelunde,unde,427.415,16-06-2004,Alm. Salg,4.749,3,Villa,90,1887,,Aktuel værdi
+Hovmarksvej 194912 Harpelunde,unde,450.000,07-06-2004,Alm. Salg,4.411,3,Villa,102,1897,,Aktuel værdi
+Lindelsevej 644912 Harpelunde,unde,635.000,28-05-2004,Alm. Salg,5.204,5,Villa,122,1920,,Aktuel værdi
+Harpelundevej 614912 Harpelunde,unde,4.292.500,10-05-2004,Fam. Salg,21.041,5,Stuehus,204,1966,,
+Fredensvej 164912 Harpelunde,unde,600.675,29-03-2004,Alm. Salg,7.325,4,Villa,82,1934,,Aktuel værdi
+Skovstrædet 34912 Harpelunde,unde,200.000,10-02-2004,Fam. Salg,1.351,3,Villa,148,1907,,Aktuel værdi
+Vindøvej 564912 Harpelunde,unde,359.738,27-01-2004,Alm. Salg,-,9,Villa,366,1900,,Aktuel værdi
+Vindøvej 364912 Harpelunde,unde,555.000,24-01-2004,Alm. Salg,4.236,4,Villa,131,1906,,Aktuel værdi
+Bagerstræde 124912 Harpelunde,unde,195.105,25-11-2003,Alm. Salg,2.053,3,Villa,95,2007,,Aktuel værdi
+Skovstrædet 164912 Harpelunde,unde,282.000,10-11-2003,Alm. Salg,2.587,5,Sommerhus,109,1930,,Aktuel værdi
+Tårsvej 174912 Harpelunde,unde,835.000,08-11-2003,Alm. Salg,4.394,7,Villa,190,1920,,Aktuel værdi
+Hellenæs-Stien 174912 Harpelunde,unde,1.485.000,21-08-2003,Alm. Salg,8.839,6,Villa,168,1932,,Aktuel værdi
+Lindelsevej 44912 Harpelunde,unde,349.000,06-08-2003,Alm. Salg,3.921,2,Villa,89,1965,,Aktuel værdi
+Tårsvej 884912 Harpelunde,unde,300.000,04-08-2003,Alm. Salg,2.830,5,Villa,106,1946,,Aktuel værdi
+Tårsvej 744912 Harpelunde,unde,819.000,10-07-2003,Alm. Salg,5.388,3,Villa,152,1857,,Aktuel værdi
+Tårsvej 974912 Harpelunde,unde,250.000,28-04-2003,Alm. Salg,1.811,5,Villa,138,1913,,Aktuel værdi
+Vindøvej 324912 Harpelunde,unde,500.000,23-04-2003,Alm. Salg,-,4,Sommerhus,199,1850,,Aktuel værdi
+Tårsvej 834912 Harpelunde,unde,410.000,08-04-2003,Alm. Salg,2.216,9,Villa,185,1877,,Aktuel værdi
+Grevevænget 44912 Harpelunde,unde,530.000,18-12-2002,Alm. Salg,3.984,6,Villa,133,1975,,Aktuel værdi
+Harpelundevej 704912 Harpelunde,unde,6.900.000,07-11-2002,Alm. Salg,43.125,5,Stuehus,160,1963,,
+Skovstrædet 324912 Harpelunde,unde,420.000,11-07-2002,Fam. Salg,3.281,4,Villa,128,1942,,Aktuel værdi
+Stations Alléen 204912 Harpelunde,unde,600.000,02-07-2002,Alm. Salg,4.615,4,Villa,130,1972,,Aktuel værdi
+Pilevej 114912 Harpelunde,unde,263.500,17-06-2002,Alm. Salg,1.550,5,Villa,170,1920,,Aktuel værdi
+Tårsvej 194912 Harpelunde,unde,685.000,12-03-2002,Alm. Salg,4.029,7,Villa,170,1914,,Aktuel værdi
+Huusgårdsvej 214912 Harpelunde,unde,460.000,23-01-2002,Alm. Salg,4.646,4,Villa,99,1965,,Aktuel værdi
+Færgevej 164912 Harpelunde,unde,408.294,07-01-2002,Alm. Salg,-,7,Villa,249,1877,,Aktuel værdi
+Tårsvej 864912 Harpelunde,unde,150.000,18-12-2001,Alm. Salg,1.034,3,Villa,145,2003,,Aktuel værdi
+Tårsvej 23B4912 Harpelunde,unde,153.000,04-12-2001,Alm. Salg,2.353,3,Villa,65,1975,,Aktuel værdi
+Fredensvej 14912 Harpelunde,unde,210.000,07-11-2001,Alm. Salg,-,5,Villa,217,1877,,Aktuel værdi
+Fredensvej 64912 Harpelunde,unde,473.000,02-11-2001,Alm. Salg,3.845,4,Villa,123,1959,,Aktuel værdi
+Tårsvej 414912 Harpelunde,unde,225.000,10-10-2001,Alm. Salg,1.923,4,Villa,117,1907,,Aktuel værdi
+Bagerstræde 204912 Harpelunde,unde,614.032,21-09-2001,Fam. Salg,3.283,4,Villa,187,1980,,Aktuel værdi
+Tårsvej 1644912 Harpelunde,unde,335.000,14-09-2001,Alm. Salg,1.595,9,Villa,210,1880,,Aktuel værdi
+Vindøvej 474912 Harpelunde,unde,450.000,27-08-2001,Alm. Salg,4.166,3,Villa,108,1898,,Aktuel værdi
+Harpelundevej 1014912 Harpelunde,unde,218.000,29-06-2001,Alm. Salg,3.516,2,Villa,62,1949,,Aktuel værdi
+Hovmarksvej 124912 Harpelunde,unde,446.000,12-05-2001,Alm. Salg,2.437,7,Villa,183,1850,,Aktuel værdi
+Lindelsevej 304912 Harpelunde,unde,70.000,02-04-2001,Auktion,588,6,Villa,119,1750,,Aktuel værdi
+Færgevej 34912 Harpelunde,unde,240.000,01-04-2001,Alm. Salg,3.037,4,Villa,79,1800,,Aktuel værdi
+Lillemarken 84912 Harpelunde,unde,485.748,29-03-2001,Alm. Salg,3.133,4,Villa,155,1942,,Aktuel værdi
+Tårsvej 1304912 Harpelunde,unde,360.000,06-03-2001,Alm. Salg,2.400,4,Villa,150,1877,,Aktuel værdi
+Fredensvej 74912 Harpelunde,unde,595.780,01-02-2001,Alm. Salg,4.654,4,Villa,128,1959,,Aktuel værdi
+Vindøvej 274912 Harpelunde,unde,650.650,22-12-2000,Alm. Salg,4.749,3,Villa,137,1979,,Aktuel værdi
+Skovstrædet 224912 Harpelunde,unde,251.196,06-11-2000,Alm. Salg,2.616,3,Villa,96,1930,,Aktuel værdi
+Tårsvej 274912 Harpelunde,unde,328.349,15-09-2000,Alm. Salg,1.675,6,Villa,196,1911,,Aktuel værdi
+Tårsvej 1754912 Harpelunde,unde,400.000,14-07-2000,Alm. Salg,2.985,5,Villa,134,1890,,Aktuel værdi
+Tårsvej 1674912 Harpelunde,unde,287.300,10-07-2000,Alm. Salg,2.902,4,Villa,99,1932,,Aktuel værdi
+Grevevænget 144912 Harpelunde,unde,500.000,10-05-2000,Alm. Salg,4.166,4,Villa,120,1979,,Aktuel værdi
+Lindelsevej 444912 Harpelunde,unde,339.000,06-03-2000,Alm. Salg,2.825,3,Villa,120,1900,,Aktuel værdi
+Middelgrundsvej 74912 Harpelunde,unde,231.000,15-02-2000,Alm. Salg,1.833,5,Stuehus,126,1870,,
+Korsnakke 34912 Harpelunde,unde,22.623.000,12-11-1999,Fam. Salg,323.185,2,Villa,70,1890,,Aktuel værdi
+Lindelsevej 624912 Harpelunde,unde,37.000,24-10-1999,Fam. Salg,528,4,Villa,70,1827,,Aktuel værdi
+Tårsvej 434912 Harpelunde,unde,243.000,25-09-1999,Alm. Salg,1.630,4,Villa,149,1900,,Aktuel værdi
+Tårsvej 1264912 Harpelunde,unde,350.000,07-09-1999,Alm. Salg,1.804,6,Villa,194,1877,,Aktuel værdi
+Frederiksdalsvej 134912 Harpelunde,unde,470.000,27-08-1999,Alm. Salg,4.392,4,Villa,107,1958,,Aktuel værdi
+Freuchensvej 14912 Harpelunde,unde,113.500,20-08-1999,Alm. Salg,1.830,5,Sommerhus,62,1967,,Aktuel værdi
+Lindelsevej 664912 Harpelunde,unde,175.000,31-05-1999,Alm. Salg,-,5,Villa,135,1918,,Aktuel værdi
+Torvevej 54912 Harpelunde,unde,239.316,25-05-1999,Alm. Salg,2.918,4,Villa,82,1900,,Aktuel værdi
+Skovstrædet 124912 Harpelunde,unde,450.000,06-05-1999,Alm. Salg,-,12,Villa,331,1890,,Aktuel værdi
+Vindøvej 614912 Harpelunde,unde,110.000,19-04-1999,Alm. Salg,1.692,3,Villa,65,1894,,Aktuel værdi
+Tårsvej 1384912 Harpelunde,unde,850.000,16-03-1999,Alm. Salg,-,5,Stuehus,204,1800,,
+Stations Alléen 74912 Harpelunde,unde,356.000,05-02-1999,Alm. Salg,2.253,6,Villa,158,1914,,Aktuel værdi
+Hellenæs-Stien 194912 Harpelunde,unde,18.000,03-02-1999,Fam. Salg,290,3,Sommerhus,62,1932,,Aktuel værdi
+Viggo Lunds Vej 94912 Harpelunde,unde,370.000,02-02-1999,Alm. Salg,4.204,3,Villa,88,1982,,Aktuel værdi
+Lillemarken 64912 Harpelunde,unde,200.000,29-12-1998,Alm. Salg,1.739,4,Villa,115,1959,,Aktuel værdi
+Tårsvej 64912 Harpelunde,unde,850.000,21-12-1998,Alm. Salg,4.497,5,Villa,189,1827,,Aktuel værdi
+Tårsvej 604912 Harpelunde,unde,290.000,12-12-1998,Alm. Salg,4.027,3,Villa,72,1940,,Aktuel værdi
+Stations Alléen 244912 Harpelunde,unde,411.000,24-11-1998,Alm. Salg,3.637,3,Villa,113,1932,,Aktuel værdi
+Huusgårdsvej 64912 Harpelunde,unde,187.500,05-10-1998,Fam. Salg,1.674,4,Villa,112,1970,,Aktuel værdi
+Tårsvej 1904912 Harpelunde,unde,153.000,29-09-1998,Alm. Salg,-,4,Villa,110,1890,,Aktuel værdi
+Hellenæs-Stien 154912 Harpelunde,unde,68.000,21-08-1998,Alm. Salg,2.266,2,Sommerhus,30,1934,,Aktuel værdi
+Fredensvej 144912 Harpelunde,unde,203.000,14-07-1998,Alm. Salg,3.171,3,Villa,64,1932,,Aktuel værdi
+Tårsvej 534912 Harpelunde,unde,187.000,05-07-1998,Alm. Salg,1.385,8,Villa,135,1916,,Aktuel værdi
+Frederiksdalsvej 144912 Harpelunde,unde,1.810.000,18-06-1998,Alm. Salg,-,7,Villa,170,1877,,Aktuel værdi
+Lindelsevej 514912 Harpelunde,unde,310.000,27-05-1998,Alm. Salg,1.913,4,Villa,162,1930,,Aktuel værdi
+Bagerstræde 304912 Harpelunde,unde,385.000,15-05-1998,Alm. Salg,3.235,4,Villa,119,1962,,Aktuel værdi
+Tårsvej 1474912 Harpelunde,unde,210.000,12-05-1998,Fam. Salg,2.187,4,Villa,96,1886,,Aktuel værdi
+Tårsvej 234912 Harpelunde,unde,275.000,30-04-1998,Alm. Salg,1.740,6,Villa,158,1922,,Aktuel værdi
+Middelgrundsvej 94912 Harpelunde,unde,125.000,23-04-1998,Alm. Salg,-,7,Villa,209,1877,,Aktuel værdi
+Lindelsevej 264912 Harpelunde,unde,822.000,27-03-1998,Alm. Salg,2.824,8,Villa,291,1877,,Aktuel værdi
+Jesbyvej 264912 Harpelunde,unde,210.000,12-02-1998,Alm. Salg,1.272,5,Villa,165,1897,,Aktuel værdi
+Tjørnevangsvej 54912 Harpelunde,unde,5.300.000,03-11-1997,Alm. Salg,-,9,Stuehus,391,1881,,
+Skovstrædet 144912 Harpelunde,unde,298.420,12-09-1997,Alm. Salg,2.984,2,Sommerhus,100,1877,,Aktuel værdi
+Lillemarken 184912 Harpelunde,unde,311.490,18-08-1997,Alm. Salg,2.193,4,Sommerhus,142,1900,,Aktuel værdi
+Tårsvej 1784912 Harpelunde,unde,100.000,31-07-1997,Alm. Salg,-,3,Villa,105,1897,,Aktuel værdi
+Tårsvej 1884912 Harpelunde,unde,188.000,24-06-1997,Alm. Salg,2.088,3,Rækkehus,90,1895,,Aktuel værdi
+Bagerstræde 364912 Harpelunde,unde,135.000,12-05-1997,Alm. Salg,1.038,3,Rækkehus,130,1870,,Aktuel værdi
+Tårsvej 1014912 Harpelunde,unde,110.000,07-04-1997,Alm. Salg,839,4,Lejlighed,131,1890,,Aktuel værdi
+Vindøvej 434912 Harpelunde,unde,30.000,17-03-1997,Alm. Salg,-,4,Villa,152,1900,,Aktuel værdi
+Tårsvej 2064912 Harpelunde,unde,10.900.000,19-02-1997,Alm. Salg,41.923,10,Stuehus,260,1907,,
+Tårsvej 284912 Harpelunde,unde,270.000,03-02-1997,Alm. Salg,3.292,4,Villa,82,1945,,Aktuel værdi
+Tårsvej 404912 Harpelunde,unde,220.000,29-11-1996,Alm. Salg,-,5,Villa,196,1919,,Aktuel værdi
+Tårsvej 1214912 Harpelunde,unde,238.000,16-10-1996,Alm. Salg,1.934,5,Villa,123,1898,,Aktuel værdi
+Vindøvej 384912 Harpelunde,unde,195.000,13-10-1996,Alm. Salg,1.695,2,Villa,115,1910,,Aktuel værdi
+Skovstrædet 404912 Harpelunde,unde,105.000,02-10-1996,Alm. Salg,1.250,3,Villa,84,1777,,Aktuel værdi
+Tårsvej 824912 Harpelunde,unde,381.000,28-03-1996,Alm. Salg,-,4,Villa,165,1880,,Aktuel værdi
+Tårsvej 684912 Harpelunde,unde,365.000,22-03-1996,Alm. Salg,1.403,5,Villa,260,1917,,Aktuel værdi
+Harpelundevej 984912 Harpelunde,unde,45.000,01-02-1996,Alm. Salg,592,3,Villa,76,1827,,Aktuel værdi
+Tårsvej 764912 Harpelunde,unde,120.000,20-01-1996,Alm. Salg,1.121,5,Stuehus,107,1887,,
+Tårsvej 844912 Harpelunde,unde,135.000,08-11-1995,Alm. Salg,-,5,Villa,178,1937,,Aktuel værdi
+Hovmarksvej 104912 Harpelunde,unde,350.000,17-04-1995,Alm. Salg,-,3,Villa,130,1958,,Aktuel værdi
+Tårsvej 584912 Harpelunde,unde,350.000,27-03-1995,Alm. Salg,2.160,4,Villa,162,1939,,Aktuel værdi
+Stations Alléen 104912 Harpelunde,unde,200.000,20-02-1995,Alm. Salg,1.428,5,Villa,140,1926,,Aktuel værdi
+Tårsvej 524912 Harpelunde,unde,17.500,31-08-1994,Alm. Salg,-,3,Villa,70,1850,,Aktuel værdi
+Skovstrædet 364912 Harpelunde,unde,90.000,04-08-1994,Alm. Salg,1.428,2,Sommerhus,63,1918,,Aktuel værdi
+Tårsvej 1534912 Harpelunde,unde,120.000,19-04-1994,Alm. Salg,1.071,4,Villa,112,1917,,Aktuel værdi
+Højsmarkevej 424912 Harpelunde,unde,391.754,24-03-1994,Alm. Salg,2.901,6,Villa,135,1930,,Aktuel værdi
+Lindelsevej 84912 Harpelunde,unde,190.000,27-09-1993,Alm. Salg,-,5,Villa,123,1908,,Aktuel værdi
+Tårsvej 364912 Harpelunde,unde,150.000,08-09-1993,Alm. Salg,955,6,Sommerhus,157,1794,,Aktuel værdi
+Frederiksdalsvej 194912 Harpelunde,unde,1.900.000,16-08-1993,Alm. Salg,11.585,6,Stuehus,164,1958,,
+Jesbyvej 134912 Harpelunde,unde,75.000,14-05-1993,Alm. Salg,750,3,Villa,100,1910,,Aktuel værdi
+Tårsvej 124912 Harpelunde,unde,160.000,09-01-1993,Alm. Salg,1.951,4,Villa,82,1910,,Aktuel værdi
+Stations Alléen 224912 Harpelunde,unde,420.000,04-08-1992,Alm. Salg,3.000,5,Villa,140,1972,,Aktuel værdi
+Tårsvej 144912 Harpelunde,unde,330.000,18-05-1992,Alm. Salg,3.000,3,Villa,110,1827,,Aktuel værdi
+Tårsvej 2084912 Harpelunde,unde,385.000,20-03-1992,Alm. Salg,-,5,Villa,188,1850,,Aktuel værdi
+Tårsvej 574912 Harpelunde,unde,177.000,06-03-1992,Alm. Salg,1.770,6,Villa,100,1927,,Aktuel værdi
+Vindøvej 634912 Harpelunde,unde,300.000,05-03-1992,Fam. Salg,-,2,Villa,169,1890,,Aktuel værdi
+Tårsvej 504912 Harpelunde,unde,150.000,26-02-1992,Alm. Salg,-,3,Villa,93,1897,,Aktuel værdi

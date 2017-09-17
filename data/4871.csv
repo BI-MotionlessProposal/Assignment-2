@@ -1,0 +1,536 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Bregningevej 204871 Horbelev,elev,745.000,08-05-2017,Alm. Salg,5.730,3,Villa,130,1910,-6 %,Aktuel værdi
+Eriksdalsvej 54871 Horbelev,elev,850.000,28-04-2017,Alm. Salg,5.555,5,Villa,153,1947,-3 %,Aktuel værdi
+Hvilehøj 44871 Horbelev,elev,398.887,24-04-2017,Alm. Salg,3.324,4,Stuehus,120,1877,,
+Særslev Øster 54871 Horbelev,elev,535.000,18-04-2017,Alm. Salg,7.039,4,Stuehus,76,1892,,
+Grønsundsvej 3224871 Horbelev,elev,125.000,28-03-2017,Alm. Salg,892,6,Villa,140,1900,-36 %,Aktuel værdi
+Grønsundsvej 3634871 Horbelev,elev,200.000,08-03-2017,Alm. Salg,1.739,4,Villa,115,1900,,Aktuel værdi
+Meelsevej 164871 Horbelev,elev,63.000,23-02-2017,Andet,453,5,Stuehus,139,1932,,
+Grønsundsvej 3624871 Horbelev,elev,175.000,09-02-2017,Alm. Salg,1.785,5,Rækkehus,98,1887,-30 %,Aktuel værdi
+Torvegade 144871 Horbelev,elev,150.000,19-01-2017,Alm. Salg,1.851,5,Lejlighed,81,1911,,Aktuel værdi
+Stengårdsvej 214871 Horbelev,elev,407.222,18-01-2017,Auktion,1.957,5,Villa,208,1877,,Aktuel værdi
+Meelsevej 174871 Horbelev,elev,550.000,12-01-2017,Fam. Salg,2.925,11,Villa,188,1900,,Aktuel værdi
+Bregningevej 504871 Horbelev,elev,57.000,01-01-2017,Alm. Salg,548,3,Villa,104,1862,,Aktuel værdi
+Sportsvej 34871 Horbelev,elev,1.449.000,02-12-2016,Alm. Salg,7.707,5,Stuehus,188,1850,,
+Falkerslevvej 134871 Horbelev,elev,120.000,17-11-2016,Alm. Salg,975,5,Villa,123,1900,,Aktuel værdi
+Svalevej 14871 Horbelev,elev,4.668.000,26-10-2016,Auktion,51.296,4,Rækkehus,91,2008,,Aktuel værdi
+Svalevej 54871 Horbelev,elev,4.668.000,26-10-2016,Auktion,51.296,4,Rækkehus,91,2008,,Aktuel værdi
+Svalevej 174871 Horbelev,elev,4.668.000,26-10-2016,Auktion,51.296,4,Rækkehus,91,2008,,Aktuel værdi
+Svalevej 34871 Horbelev,elev,4.668.000,26-10-2016,Auktion,53.655,3,Rækkehus,87,2008,,Aktuel værdi
+Svalevej 114871 Horbelev,elev,4.668.000,26-10-2016,Auktion,51.296,4,Rækkehus,91,2008,,Aktuel værdi
+Svalevej 94871 Horbelev,elev,4.668.000,26-10-2016,Auktion,53.655,3,Rækkehus,87,2008,,Aktuel værdi
+Svalevej 154871 Horbelev,elev,4.668.000,26-10-2016,Auktion,53.655,3,Rækkehus,87,2008,,Aktuel værdi
+Svalevej 74871 Horbelev,elev,4.668.000,26-10-2016,Auktion,51.296,4,Rækkehus,91,2008,,Aktuel værdi
+Svalevej 134871 Horbelev,elev,4.668.000,26-10-2016,Auktion,51.296,4,Rækkehus,91,2008,,Aktuel værdi
+Strandhuse 134871 Horbelev,elev,2.045.000,07-10-2016,Alm. Salg,20.656,4,Villa,99,1976,-2 %,Aktuel værdi
+Nykøbingvej 1414871 Horbelev,elev,535.000,05-10-2016,Alm. Salg,3.005,5,Villa,178,1920,-7 %,Aktuel værdi
+Bregningevej 194871 Horbelev,elev,410.000,24-08-2016,Alm. Salg,3.445,4,Villa,119,1945,-8 %,Aktuel værdi
+Kildevej 24871 Horbelev,elev,952.500,10-08-2016,Alm. Salg,5.636,8,Sommerhus,169,1802,,Aktuel værdi
+Særslev Øster 214871 Horbelev,elev,1.095.000,09-08-2016,Alm. Salg,8.233,3,Villa,133,1910,0 %,Aktuel værdi
+Bønnetvej 134871 Horbelev,elev,350.000,27-07-2016,Auktion,1.724,8,Stuehus,203,1859,-50 %,
+Torvegade 14871 Horbelev,elev,425.000,22-07-2016,Alm. Salg,3.244,11,Villa,131,1912,,Aktuel værdi
+Kildevej 104871 Horbelev,elev,650.000,19-07-2016,Alm. Salg,4.037,4,Villa,161,1878,-13 %,Aktuel værdi
+Hesnæsvej 94871 Horbelev,elev,615.000,05-06-2016,Alm. Salg,4.241,5,Villa,145,1941,-5 %,Aktuel værdi
+Bregningevej 54871 Horbelev,elev,420.000,30-05-2016,Alm. Salg,4.077,3,Villa,103,1983,-15 %,Aktuel værdi
+Sortenshavevej 24871 Horbelev,elev,1.500.000,28-05-2016,Alm. Salg,7.853,8,Stuehus,191,1928,-16 %,
+Ryttermarken 214871 Horbelev,elev,475.000,11-05-2016,Auktion,3.145,4,Villa,151,1987,,Aktuel værdi
+Strandhuse 84871 Horbelev,elev,275.000,03-05-2016,Alm. Salg,1.354,6,Stuehus,203,1896,,
+Grønsundsvej 2984871 Horbelev,elev,75.000,18-03-2016,Alm. Salg,517,4,Villa,145,1959,,Aktuel værdi
+Lærkevej 44871 Horbelev,elev,195.000,16-03-2016,Fam. Salg,2.166,4,Villa,90,1969,,Aktuel værdi
+Grønsundsvej 3174871 Horbelev,elev,137.500,02-03-2016,Alm. Salg,1.227,4,Villa,112,1943,,Aktuel værdi
+Grimmelstrupvej 44871 Horbelev,elev,2.900.000,26-02-2016,Alm. Salg,15.183,7,Villa,191,1877,-3 %,Aktuel værdi
+Ryttermarken 44871 Horbelev,elev,575.000,25-02-2016,Alm. Salg,4.227,4,Villa,136,1986,0 %,Aktuel værdi
+Bønnetvej 224871 Horbelev,elev,156.500,12-02-2016,Fam. Salg,1.490,4,Villa,105,1910,,Aktuel værdi
+Hesnæsvej 624871 Horbelev,elev,300.000,11-02-2016,Alm. Salg,4.838,2,Villa,62,1952,-8 %,Aktuel værdi
+Drosselvej 74871 Horbelev,elev,395.000,15-01-2016,Alm. Salg,3.526,4,Villa,112,1976,-11 %,Aktuel værdi
+Vinkelvej 24871 Horbelev,elev,570.000,13-01-2016,Alm. Salg,4.956,4,Villa,115,1980,-4 %,Aktuel værdi
+Præstemosevej 24871 Horbelev,elev,445.000,04-01-2016,Alm. Salg,3.560,3,Villa,125,1985,-10 %,Aktuel værdi
+Drosselvej 64871 Horbelev,elev,370.000,01-01-2016,Fam. Salg,2.418,4,Villa,153,1976,,Aktuel værdi
+Særslevvej 214871 Horbelev,elev,66.000,09-12-2015,Auktion,400,5,Villa,165,1877,,Aktuel værdi
+Pomlevej 104871 Horbelev,elev,500.000,02-12-2015,Alm. Salg,10.204,4,Sommerhus,49,1961,-16 %,Aktuel værdi
+Hesnæsvej 164871 Horbelev,elev,250.000,13-10-2015,Alm. Salg,1.250,10,Villa,200,1889,,Aktuel værdi
+Bregningevej 164871 Horbelev,elev,170.000,18-09-2015,Alm. Salg,1.017,6,Villa,167,1926,-13 %,Aktuel værdi
+Meelsevej 144871 Horbelev,elev,60.000,20-07-2015,Alm. Salg,600,4,Stuehus,100,1870,,
+Halskovvej 44871 Horbelev,elev,725.000,25-06-2015,Alm. Salg,7.038,5,Villa,103,1887,-6 %,Aktuel værdi
+Bøgevang 84871 Horbelev,elev,85.000,15-06-2015,Alm. Salg,850,4,Rækkehus,100,1880,-32 %,Aktuel værdi
+Bregningevej 184871 Horbelev,elev,350.000,10-06-2015,Auktion,2.287,4,Villa,153,1917,,Aktuel værdi
+Højmarksvej 104871 Horbelev,elev,550.000,03-06-2015,Alm. Salg,4.230,4,Villa,130,1972,-8 %,Aktuel værdi
+Eriksdalsvej 144871 Horbelev,elev,268.700,29-05-2015,Auktion,1.791,6,Stuehus,150,1724,,
+Bønnetvej 214871 Horbelev,elev,701.795,27-05-2015,Alm. Salg,4.279,6,Villa,164,1911,,Aktuel værdi
+Lille Tunet 44871 Horbelev,elev,100.000,20-05-2015,Auktion,1.785,3,Stuehus,56,1892,,
+Bønnetvej 154871 Horbelev,elev,1.598.135,20-04-2015,Alm. Salg,12.199,5,Stuehus,131,1957,,
+Bønnetvej 194871 Horbelev,elev,3.580.250,20-04-2015,Alm. Salg,22.376,6,Stuehus,160,1941,,
+Grønsundsvej 3254871 Horbelev,elev,410.000,16-04-2015,Alm. Salg,2.455,6,Villa,167,1915,-17 %,Aktuel værdi
+Særslev Øster 104871 Horbelev,elev,4.193.963,31-03-2015,Fam. Salg,18.891,4,Stuehus,222,1780,,
+Bregningevej 94871 Horbelev,elev,350.000,25-03-2015,Auktion,3.500,3,Villa,100,1941,,Aktuel værdi
+Pomlevej 94871 Horbelev,elev,17.900.000,24-03-2015,Alm. Salg,79.555,7,Stuehus,225,1960,,
+Hesnæsvej 664871 Horbelev,elev,350.000,26-02-2015,Alm. Salg,2.592,5,Villa,135,1939,0 %,Aktuel værdi
+Poppelvej 114871 Horbelev,elev,554.000,19-02-2015,Alm. Salg,4.362,4,Villa,127,1980,11 %,Aktuel værdi
+Grønsundsvej 3164871 Horbelev,elev,220.000,09-02-2015,Alm. Salg,1.788,6,Villa,123,1939,-10 %,Aktuel værdi
+Grønsundsvej 3004871 Horbelev,elev,13.710.000,05-01-2015,Alm. Salg,59.608,5,Stuehus,230,1900,,
+Lillegade 194871 Horbelev,elev,25.000,17-12-2014,Auktion,201,3,Rækkehus,124,1800,,Aktuel værdi
+Grønsundsvej 3494871 Horbelev,elev,50.000,17-12-2014,Alm. Salg,337,6,Villa,148,1911,,Aktuel værdi
+Eriksdalsvej 174871 Horbelev,elev,1.100.000,15-12-2014,Alm. Salg,5.978,6,Stuehus,184,1930,-15 %,
+Falkerslevvej 254871 Horbelev,elev,700.000,15-12-2014,Alm. Salg,4.605,6,Villa,152,1898,-15 %,Aktuel værdi
+Bregningevej 274871 Horbelev,elev,595.000,21-11-2014,Alm. Salg,3.718,4,Villa,160,1911,0 %,Aktuel værdi
+Svalevej 44871 Horbelev,elev,750.000,19-11-2014,Fam. Salg,4.807,5,Villa,156,1979,,Aktuel værdi
+Slotsvej 34871 Horbelev,elev,400.000,25-10-2014,Alm. Salg,2.666,7,Villa,150,1804,,Aktuel værdi
+Meelsevej 94871 Horbelev,elev,410.000,30-09-2014,Alm. Salg,3.037,4,Villa,135,1949,-14 %,Aktuel værdi
+Torvegade 3A4871 Horbelev,elev,68.001,25-09-2014,Alm. Salg,680,3,Lejlighed,100,1917,,Aktuel værdi
+Særslevvej 474871 Horbelev,elev,450.000,17-09-2014,Auktion,1.654,5,Villa,272,1885,-72 %,Aktuel værdi
+Bregningevej 424871 Horbelev,elev,130.000,14-08-2014,Alm. Salg,1.529,7,Villa,85,1875,-13 %,Aktuel værdi
+Halskovvej 94871 Horbelev,elev,899.000,12-08-2014,Alm. Salg,8.990,4,Sommerhus,100,1727,-6 %,Aktuel værdi
+Grønsundsvej 3704871 Horbelev,elev,318.750,02-08-2014,Fam. Salg,2.845,3,Villa,112,1976,,Aktuel værdi
+Torvegade 134871 Horbelev,elev,320.000,01-08-2014,Andet,1.882,8,Villa,170,1911,-72 %,Aktuel værdi
+Falkerslevvej 184871 Horbelev,elev,57.200,30-07-2014,Auktion,520,4,Villa,110,1870,,Aktuel værdi
+Særslev Øster 94871 Horbelev,elev,25.000,14-07-2014,Alm. Salg,290,4,Villa,86,1938,,Aktuel værdi
+Ryttermarken 134871 Horbelev,elev,525.000,03-07-2014,Alm. Salg,4.565,4,Villa,115,1982,-4 %,Aktuel værdi
+Højmarksvej 64871 Horbelev,elev,650.000,13-06-2014,Alm. Salg,4.779,5,Villa,136,1975,-6 %,Aktuel værdi
+Hesnæsvej 414871 Horbelev,elev,695.000,04-06-2014,Auktion,3.657,6,Villa,190,1949,,Aktuel værdi
+Lillegade 114871 Horbelev,elev,475.000,09-05-2014,Alm. Salg,4.059,4,Villa,117,1980,-26 %,Aktuel værdi
+Bregningevej 22A4871 Horbelev,elev,50.000,07-05-2014,Auktion,357,4,Villa,140,1909,-74 %,Aktuel værdi
+Bregningevej 514871 Horbelev,elev,425.000,27-03-2014,Alm. Salg,6.640,3,Villa,64,1800,,Aktuel værdi
+Bøgevang 64871 Horbelev,elev,145.000,11-03-2014,Alm. Salg,1.726,3,Rækkehus,84,1880,-17 %,Aktuel værdi
+Lillegade 44871 Horbelev,elev,150.000,11-03-2014,Alm. Salg,1.260,5,Villa,119,1907,-23 %,Aktuel værdi
+Stengårdsvej 174871 Horbelev,elev,1.496.655,19-02-2014,Alm. Salg,9.718,5,Villa,154,1914,,Aktuel værdi
+Brydsbjergvej 54871 Horbelev,elev,5.025.847,16-02-2014,Alm. Salg,50.258,4,Stuehus,100,1938,,
+Nielstrupvej 24871 Horbelev,elev,13.358.624,15-02-2014,Fam. Salg,89.655,5,Stuehus,149,1970,,
+Bregningevej 32B4871 Horbelev,elev,149.582,13-02-2014,Andet,1.187,4,Villa,126,1923,,Aktuel værdi
+Strandhuse 24871 Horbelev,elev,3.000.000,22-01-2014,Alm. Salg,12.295,9,Villa,244,1950,,Aktuel værdi
+Lyremosen 44871 Horbelev,elev,1.150.000,13-12-2013,Alm. Salg,6.571,6,Villa,175,1934,-4 %,Aktuel værdi
+Mosebyvej 44871 Horbelev,elev,14.174.850,25-10-2013,Fam. Salg,69.826,6,Stuehus,203,1807,,
+Tværmosevej 14871 Horbelev,elev,8.733.000,23-10-2013,Alm. Salg,28.539,6,Stuehus,306,1870,,
+Grønsundsvej 3664871 Horbelev,elev,130.000,16-10-2013,Auktion,1.048,5,Rækkehus,124,1845,,Aktuel værdi
+Hesnæsvej 214871 Horbelev,elev,745.000,31-08-2013,Alm. Salg,4.933,5,Villa,151,1838,-2 %,Aktuel værdi
+Bregningevej 154871 Horbelev,elev,52.700,28-08-2013,Auktion,396,3,Villa,133,1925,,Aktuel værdi
+Svalevej 84871 Horbelev,elev,375.000,20-08-2013,Alm. Salg,2.286,4,Villa,164,1978,-24 %,Aktuel værdi
+Skippergårdsvej 64871 Horbelev,elev,175.000,16-08-2013,Alm. Salg,1.434,5,Villa,122,1916,-10 %,Aktuel værdi
+Pomlevej 44871 Horbelev,elev,400.000,24-07-2013,Alm. Salg,2.197,4,Villa,182,1930,-33 %,Aktuel værdi
+Kirkevej 24871 Horbelev,elev,1.950.000,26-06-2013,Andet,11.676,15,Industri o.l.,167,1902,,Aktuel værdi
+Hesnæsvej 424871 Horbelev,elev,57.981,01-05-2013,Auktion,651,5,Villa,89,1777,,Aktuel værdi
+Grønsundsvej 3524871 Horbelev,elev,100.000,25-03-2013,Alm. Salg,1.086,3,Villa,92,1907,-20 %,Aktuel værdi
+Vinkelvej 44871 Horbelev,elev,375.000,22-03-2013,Alm. Salg,5.434,3,Villa,69,1962,-12 %,Aktuel værdi
+Poppelvej 94871 Horbelev,elev,585.000,15-03-2013,Alm. Salg,3.726,5,Villa,157,1981,-16 %,Aktuel værdi
+Vinkelvej 114871 Horbelev,elev,310.000,11-03-2013,Alm. Salg,2.980,4,Villa,104,1960,-30 %,Aktuel værdi
+Lærkevej 24871 Horbelev,elev,715.000,23-02-2013,Alm. Salg,5.107,6,Villa,140,1973,-1 %,Aktuel værdi
+Ryttermarken 64871 Horbelev,elev,400.000,22-02-2013,Alm. Salg,3.738,4,Villa,107,1984,-27 %,Aktuel værdi
+Bønnetvej 44871 Horbelev,elev,400.000,14-02-2013,Alm. Salg,3.125,4,Villa,128,1978,-33 %,Aktuel værdi
+Skippergårdsvej 44871 Horbelev,elev,375.000,06-02-2013,Auktion,2.329,7,Villa,161,1908,,Aktuel værdi
+Søle 44871 Horbelev,elev,476.000,21-01-2013,Fam. Salg,5.348,4,Villa,89,1880,,Aktuel værdi
+Bregningevej 104871 Horbelev,elev,125.000,07-01-2013,Fam. Salg,1.190,5,Villa,105,1937,,Aktuel værdi
+Eriksdalsvej 134871 Horbelev,elev,8.468.000,03-12-2012,Fam. Salg,52.925,7,Stuehus,160,1911,,
+Mosebyvej 14871 Horbelev,elev,125.000,13-11-2012,Alm. Salg,1.033,3,Villa,121,1900,-49 %,Aktuel værdi
+Møllevej 44871 Horbelev,elev,1.050.000,12-11-2012,Alm. Salg,6.402,5,Villa,164,1912,-5 %,Aktuel værdi
+Ahrendtsgade 124871 Horbelev,elev,325.000,07-11-2012,Auktion,2.425,5,Villa,134,1945,,Aktuel værdi
+Hesnæsvej 204871 Horbelev,elev,400.000,16-08-2012,Alm. Salg,7.407,3,Rækkehus,54,1915,,Aktuel værdi
+Hesnæsvej 184871 Horbelev,elev,100.000,10-08-2012,Alm. Salg,2.083,2,Rækkehus,48,1846,,Aktuel værdi
+Torvegade 3F4871 Horbelev,elev,100.000,07-08-2012,Fam. Salg,1.724,1,Rækkehus,58,1981,,Aktuel værdi
+Bønnetvej 2B4871 Horbelev,elev,950.000,29-06-2012,Alm. Salg,5.621,6,Villa,169,1980,,Aktuel værdi
+Ahrendtsgade 74871 Horbelev,elev,320.000,30-05-2012,Auktion,2.758,3,Villa,116,1910,-53 %,Aktuel værdi
+Brydsbjergvej 64871 Horbelev,elev,860.000,30-05-2012,Alm. Salg,7.678,3,Villa,112,1910,-9 %,Aktuel værdi
+Bønnetvej 294871 Horbelev,elev,14.994.557,02-05-2012,Fam. Salg,59.978,7,Stuehus,250,1870,,
+Grønsundsvej 3344871 Horbelev,elev,47.748,02-05-2012,Auktion,394,5,Villa,121,1908,-93 %,Aktuel værdi
+Søle 34871 Horbelev,elev,490.000,30-04-2012,Alm. Salg,3.828,4,Villa,128,1927,-11 %,Aktuel værdi
+Ahrendtsgade 44871 Horbelev,elev,700.000,26-03-2012,Alm. Salg,5.384,4,Villa,130,1973,-7 %,Aktuel værdi
+Halskovvej 24871 Horbelev,elev,325.000,23-02-2012,Auktion,2.096,4,Villa,155,1948,-27 %,Aktuel værdi
+Virketvej 14871 Horbelev,elev,800.000,23-01-2012,Alm. Salg,3.720,6,Villa,215,1960,-54 %,Aktuel værdi
+Grønsundsvej 299A4871 Horbelev,elev,2.800.000,14-12-2011,Alm. Salg,18.666,6,Stuehus,150,1967,,
+Særslevvej 534871 Horbelev,elev,180.000,09-11-2011,Auktion,1.267,5,Villa,142,1909,,Aktuel værdi
+Skjoltrupvej 44871 Horbelev,elev,1.025.000,25-10-2011,Alm. Salg,6.250,4,Villa,164,2008,-18 %,Aktuel værdi
+Bønnetvej 434871 Horbelev,elev,450.000,19-10-2011,Alm. Salg,4.054,5,Villa,111,1939,-35 %,Aktuel værdi
+Nielstrupvej 14871 Horbelev,elev,500.000,28-09-2011,Auktion,3.067,5,Villa,163,1938,,Aktuel værdi
+Lillegade 94871 Horbelev,elev,525.000,03-09-2011,Alm. Salg,4.303,5,Villa,122,1948,0 %,Aktuel værdi
+Drosselvej 44871 Horbelev,elev,1.051.000,24-08-2011,Alm. Salg,4.342,4,Villa,242,1976,,Aktuel værdi
+Hesnæsvej 434871 Horbelev,elev,1.100.000,23-07-2011,Alm. Salg,6.111,6,Stuehus,180,1900,,
+Grønsundsvej 3694871 Horbelev,elev,210.000,20-07-2011,Auktion,1.363,4,Villa,154,1910,-53 %,Aktuel værdi
+Torvegade 44871 Horbelev,elev,150.000,27-06-2011,Alm. Salg,993,5,Villa,151,1922,-57 %,Aktuel værdi
+Bregningevej 134871 Horbelev,elev,575.000,25-05-2011,Alm. Salg,5.867,3,Villa,98,1968,-3 %,Aktuel værdi
+Kildevej 84871 Horbelev,elev,770.000,20-04-2011,Alm. Salg,10.405,2,Villa,74,1877,-3 %,Aktuel værdi
+Hesnæsvej 494871 Horbelev,elev,628.825,26-01-2011,Fam. Salg,4.083,7,Villa,154,1837,-62 %,Aktuel værdi
+Grønsundsvej 3644871 Horbelev,elev,300.000,19-01-2011,Auktion,1.851,7,Villa,162,1928,,Aktuel værdi
+Hovmandsvej 34871 Horbelev,elev,800.000,18-01-2011,Alm. Salg,4.166,7,Villa,192,1864,-11 %,Aktuel værdi
+Ahrendtsgade 84871 Horbelev,elev,400.000,30-12-2010,Alm. Salg,3.669,4,Villa,109,1967,-11 %,Aktuel værdi
+Grønsundsvej 3844871 Horbelev,elev,149.000,27-10-2010,Auktion,1.460,3,Villa,102,1910,-82 %,Aktuel værdi
+Torvegade 3D4871 Horbelev,elev,280.000,26-10-2010,Alm. Salg,4.444,2,Lejlighed,63,1917,,Aktuel værdi
+Strandhuse 44871 Horbelev,elev,1.500.000,26-10-2010,Alm. Salg,5.882,7,Stuehus,255,1887,,
+Syvhøjvej 44871 Horbelev,elev,1.500.000,21-10-2010,Alm. Salg,6.944,5,Villa,216,1930,-9 %,Aktuel værdi
+Hesnæsvej 534871 Horbelev,elev,900.000,21-10-2010,Alm. Salg,9.000,5,Villa,100,1956,-5 %,Aktuel værdi
+Grønsundsvej 3454871 Horbelev,elev,1.050.000,08-09-2010,Andet,5.412,6,Villa,194,1937,,Aktuel værdi
+Vinkelvej 74871 Horbelev,elev,900.000,30-08-2010,Andet,8.653,4,Villa,104,1951,,Aktuel værdi
+Vibevej 34871 Horbelev,elev,770.000,26-08-2010,Alm. Salg,6.695,4,Villa,115,1973,-3 %,Aktuel værdi
+Bregningevej 574871 Horbelev,elev,474.207,25-08-2010,Andet,3.461,4,Villa,137,1914,,Aktuel værdi
+Eriksdalsvej 214871 Horbelev,elev,212.000,11-08-2010,Auktion,2.185,3,Villa,97,1852,-55 %,Aktuel værdi
+Bregningevej 214871 Horbelev,elev,450.000,05-07-2010,Alm. Salg,5.625,3,Villa,80,1945,-9 %,Aktuel værdi
+Bøgevang 44871 Horbelev,elev,220.000,20-05-2010,Auktion,1.833,4,Villa,120,1877,-63 %,Aktuel værdi
+Eriksdalsvej 234871 Horbelev,elev,590.000,14-05-2010,Alm. Salg,6.020,4,Villa,98,1961,-15 %,Aktuel værdi
+Stengårdsvej 44871 Horbelev,elev,450.000,11-05-2010,Alm. Salg,5.000,5,Villa,90,1912,-9 %,Aktuel værdi
+Hesnæsvej 454871 Horbelev,elev,550.000,28-04-2010,Auktion,3.503,7,Villa,157,1890,-45 %,Aktuel værdi
+Særslevvej 514871 Horbelev,elev,350.000,14-04-2010,Auktion,2.822,6,Villa,124,1900,,Aktuel værdi
+Hesnæsvej 404871 Horbelev,elev,300.000,24-03-2010,Alm. Salg,3.409,3,Villa,88,1928,,Aktuel værdi
+Lillegade 7B4871 Horbelev,elev,1.145.000,24-03-2010,Alm. Salg,7.292,4,Villa,157,1927,-4 %,Aktuel værdi
+Pomlevej 24871 Horbelev,elev,1.360.000,19-02-2010,Alm. Salg,9.066,5,Villa,150,1887,-8 %,Aktuel værdi
+Grønsundsvej 3014871 Horbelev,elev,1.500.000,08-01-2010,Fam. Salg,9.740,6,Stuehus,154,1911,,
+Malkevej 14871 Horbelev,elev,385.000,11-12-2009,Alm. Salg,3.632,3,Villa,106,1914,-8 %,Aktuel værdi
+Ryttermarken 304871 Horbelev,elev,925.000,08-12-2009,Alm. Salg,7.708,4,Villa,120,1986,0 %,Aktuel værdi
+Ahrendtsgade 34871 Horbelev,elev,157.871,23-11-2009,Andet,1.679,6,Villa,94,1951,,Aktuel værdi
+Torvegade 94871 Horbelev,elev,995.000,17-11-2009,Alm. Salg,4.163,8,Villa,239,1973,-17 %,Aktuel værdi
+Bønnetvej 334871 Horbelev,elev,621.100,16-11-2009,Alm. Salg,6.469,3,Villa,96,1903,,Aktuel værdi
+Slotsvej 14871 Horbelev,elev,775.000,06-11-2009,Alm. Salg,5.740,5,Villa,135,1911,-3 %,Aktuel værdi
+Grønsundsvej 3774871 Horbelev,elev,400.000,04-11-2009,Alm. Salg,3.571,4,Villa,112,1932,-11 %,Aktuel værdi
+Meelsevej 54871 Horbelev,elev,635.000,14-10-2009,Auktion,2.995,7,Villa,212,1920,-12 %,Aktuel værdi
+Sportsvej 24871 Horbelev,elev,570.000,12-10-2009,Alm. Salg,4.222,4,Villa,135,1907,-4 %,Aktuel værdi
+Svalevej 104871 Horbelev,elev,700.000,24-09-2009,Alm. Salg,6.086,4,Villa,115,1979,0 %,Aktuel værdi
+Bønnetvej 174871 Horbelev,elev,785.000,01-09-2009,Alm. Salg,10.608,3,Villa,74,1913,-8 %,Aktuel værdi
+Tværmosevej 24871 Horbelev,elev,4.480.000,26-08-2009,Alm. Salg,31.773,7,"Ferie, andet",141,1975,,Aktuel værdi
+Særslevvej 204871 Horbelev,elev,545.000,30-07-2009,Alm. Salg,5.141,5,Villa,106,1951,0 %,Aktuel værdi
+Bregningevej 284871 Horbelev,elev,341.000,22-07-2009,Andet,977,6,Villa,349,1868,,Aktuel værdi
+Svalevej 24871 Horbelev,elev,1.100.000,07-07-2009,Alm. Salg,7.638,4,Villa,144,1976,-6 %,Aktuel værdi
+Særslevvej 224871 Horbelev,elev,1.200.000,01-07-2009,Alm. Salg,6.741,6,Stuehus,178,1927,-17 %,
+Særslev Øster 184871 Horbelev,elev,637.500,14-05-2009,Alm. Salg,5.100,4,Villa,125,1870,,Aktuel værdi
+Bønnetvej 284871 Horbelev,elev,1.360.000,09-02-2009,Fam. Salg,6.800,7,Stuehus,200,1888,,
+Bregningevej 594871 Horbelev,elev,5.888.410,02-02-2009,Fam. Salg,25.057,8,Stuehus,235,1923,,
+Grønsundsvej 3214871 Horbelev,elev,625.000,29-12-2008,Alm. Salg,3.396,6,Villa,184,1927,-21 %,Aktuel værdi
+Bønnetvej 254871 Horbelev,elev,548.153,16-12-2008,Fam. Salg,4.282,3,Villa,128,1887,,Aktuel værdi
+Møllevej 24871 Horbelev,elev,1.000.000,11-12-2008,Fam. Salg,4.761,5,Villa,210,1907,,Aktuel værdi
+Grønsundsvej 3804871 Horbelev,elev,584.669,04-12-2008,Andet,2.706,7,Villa,216,1974,,Aktuel værdi
+Hesnæsvej 444871 Horbelev,elev,1.155.000,22-11-2008,Alm. Salg,8.369,6,Villa,138,1912,-6 %,Aktuel værdi
+Grønsundsvej 3074871 Horbelev,elev,1.400.000,20-11-2008,Alm. Salg,7.954,7,Villa,176,1949,-6 %,Aktuel værdi
+Grimmelstrupvej 24871 Horbelev,elev,500.000,01-10-2008,Alm. Salg,2.057,7,Stuehus,243,1927,,
+Hesnæsvej 274871 Horbelev,elev,1.450.000,02-09-2008,Alm. Salg,7.107,5,Villa,204,1901,-6 %,Aktuel værdi
+Særslev Øster 114871 Horbelev,elev,1.250.000,23-07-2008,Alm. Salg,10.080,4,Villa,124,1901,0 %,Aktuel værdi
+Vinkelvej 94871 Horbelev,elev,520.000,21-07-2008,Alm. Salg,6.500,2,Villa,80,1959,-5 %,Aktuel værdi
+Brøndstræde 24871 Horbelev,elev,230.500,18-07-2008,Andet,3.114,3,Villa,74,1904,,Aktuel værdi
+Grønsundsvej 3684871 Horbelev,elev,350.000,17-06-2008,Alm. Salg,3.846,3,Rækkehus,91,1845,-12 %,Aktuel værdi
+Ahrendtsgade 14871 Horbelev,elev,950.000,09-06-2008,Alm. Salg,6.597,6,Villa,144,1911,,Aktuel værdi
+Hesnæsvej 134871 Horbelev,elev,3.550.000,17-05-2008,Fam. Salg,22.187,8,Stuehus,160,1890,,
+Bønnetvej 74871 Horbelev,elev,1.885.000,13-05-2008,Alm. Salg,8.490,7,Villa,222,1931,-6 %,Aktuel værdi
+Ahrendtsgade 134871 Horbelev,elev,1.275.000,10-05-2008,Alm. Salg,8.173,4,Villa,156,1920,-2 %,Aktuel værdi
+Særslevvej 334871 Horbelev,elev,365.000,04-05-2008,Alm. Salg,4.740,4,Villa,77,1910,,Aktuel værdi
+Poppelvej 74871 Horbelev,elev,1.675.000,24-04-2008,Alm. Salg,8.769,8,Villa,191,1980,0 %,Aktuel værdi
+Vinkelvej 64871 Horbelev,elev,1.345.000,24-04-2008,Alm. Salg,8.053,6,Villa,167,1962,0 %,Aktuel værdi
+Pomlevej 84871 Horbelev,elev,1.100.000,03-04-2008,Alm. Salg,8.527,4,Villa,129,1909,0 %,Aktuel værdi
+Eriksdalsvej 194871 Horbelev,elev,775.000,18-03-2008,Alm. Salg,5.236,4,Stuehus,148,1922,0 %,
+Poppelvej 34871 Horbelev,elev,900.000,18-03-2008,Alm. Salg,7.826,4,Villa,115,1979,-5 %,Aktuel værdi
+Særslev Øster 174871 Horbelev,elev,780.000,05-03-2008,Alm. Salg,6.290,5,Villa,124,1925,-13 %,Aktuel værdi
+Lillegade 104871 Horbelev,elev,725.000,19-02-2008,Alm. Salg,5.800,4,Villa,125,1931,0 %,Aktuel værdi
+Syvhøjvej 64871 Horbelev,elev,2.025.000,18-01-2008,Alm. Salg,22.252,3,Stuehus,91,1929,,
+Malkevej 54871 Horbelev,elev,4.472.572,10-01-2008,Alm. Salg,22.588,8,Villa,198,1910,,Aktuel værdi
+"Grønsundsvej 338, 14871 Horbelev",elev,1.000.000,07-01-2008,Alm. Salg,8.474,3,Lejlighed,118,1946,,Aktuel værdi
+Lillegade 24871 Horbelev,elev,650.000,02-01-2008,Alm. Salg,4.513,4,Rækkehus,144,1900,-4 %,Aktuel værdi
+Nykøbingvej 1364871 Horbelev,elev,339.592,25-12-2007,Andet,2.358,5,Villa,144,1890,,Aktuel værdi
+Svalevej 184871 Horbelev,elev,180.000,17-12-2007,Alm. Salg,786,7,Villa,229,2008,,Aktuel værdi
+Møllevej 14871 Horbelev,elev,375.000,14-12-2007,Alm. Salg,2.500,4,Villa,150,1932,-5 %,Aktuel værdi
+Meelsevej 84871 Horbelev,elev,810.000,13-12-2007,Alm. Salg,5.785,4,Villa,140,1910,-9 %,Aktuel værdi
+Grønsundsvej 2964871 Horbelev,elev,825.000,01-12-2007,Fam. Salg,4.910,6,Villa,168,1890,,Aktuel værdi
+Grønsundsvej 2894871 Horbelev,elev,725.000,26-11-2007,Alm. Salg,7.880,4,Villa,92,1921,-3 %,Aktuel værdi
+Særslevvej 454871 Horbelev,elev,879.000,16-11-2007,Alm. Salg,7.778,4,Villa,113,1906,-2 %,Aktuel værdi
+Falkerslevvej 174871 Horbelev,elev,675.000,10-11-2007,Alm. Salg,6.026,5,Villa,112,1900,0 %,Aktuel værdi
+Grønsundsvej 3104871 Horbelev,elev,950.000,01-11-2007,Alm. Salg,7.307,4,Villa,130,1948,-5 %,Aktuel værdi
+Bregningevej 414871 Horbelev,elev,360.000,16-10-2007,Alm. Salg,2.926,3,Villa,123,1931,,Aktuel værdi
+Falkerslevvej 94871 Horbelev,elev,1.150.000,05-10-2007,Alm. Salg,8.156,5,Villa,141,1865,0 %,Aktuel værdi
+Drosselvej 14871 Horbelev,elev,995.000,04-10-2007,Alm. Salg,11.306,4,Villa,88,1979,0 %,Aktuel værdi
+Grønsundsvej 3424871 Horbelev,elev,875.000,24-09-2007,Alm. Salg,9.943,3,Villa,88,1957,0 %,Aktuel værdi
+Skjoltrupvej 54871 Horbelev,elev,561.000,12-09-2007,Alm. Salg,5.724,5,Stuehus,98,1943,,
+Særslevvej 314871 Horbelev,elev,21.754.320,17-08-2007,Alm. Salg,164.805,5,Villa,132,1917,,Aktuel værdi
+Strandhuse 54871 Horbelev,elev,1.725.000,14-08-2007,Alm. Salg,17.968,5,Villa,96,1910,-4 %,Aktuel værdi
+Halskovvej 114871 Horbelev,elev,1.600.000,26-07-2007,Alm. Salg,14.545,4,Villa,110,1850,,Aktuel værdi
+Strandhuse 74871 Horbelev,elev,2.200.000,23-07-2007,Alm. Salg,22.448,4,Sommerhus,98,1900,0 %,Aktuel værdi
+Hesnæsvej 294871 Horbelev,elev,645.000,12-07-2007,Alm. Salg,10.750,3,Villa,60,1875,,Aktuel værdi
+Grønsundsvej 3814871 Horbelev,elev,1.000.500,30-06-2007,Fam. Salg,5.955,6,Villa,168,1878,,Aktuel værdi
+Eriksdalsvej 254871 Horbelev,elev,895.000,29-06-2007,Alm. Salg,7.396,4,Villa,121,1961,,Aktuel værdi
+Hesnæsvej 284871 Horbelev,elev,2.400.000,08-06-2007,Alm. Salg,10.762,9,Villa,223,1917,,Aktuel værdi
+Søle 24871 Horbelev,elev,1.365.000,06-06-2007,Alm. Salg,11.470,3,Villa,119,1877,0 %,Aktuel værdi
+Hesnæsvej 474871 Horbelev,elev,1.295.000,02-06-2007,Alm. Salg,10.117,4,Villa,128,1850,0 %,Aktuel værdi
+Grønsundsvej 3194871 Horbelev,elev,562.500,31-05-2007,Fam. Salg,4.261,4,Villa,132,1938,,Aktuel værdi
+Lillegade 7A4871 Horbelev,elev,1.075.000,29-05-2007,Alm. Salg,11.197,3,Villa,96,1986,,Aktuel værdi
+Stengårdsvej 124871 Horbelev,elev,1.000.000,25-05-2007,Fam. Salg,5.000,6,Stuehus,200,1900,,
+Lærkevej 64871 Horbelev,elev,800.000,25-05-2007,Fam. Salg,7.920,3,Villa,101,1967,,Aktuel værdi
+Lillegade 64871 Horbelev,elev,525.000,23-05-2007,Alm. Salg,6.562,2,Villa,80,1850,0 %,Aktuel værdi
+Grønsundsvej 3604871 Horbelev,elev,1.375.000,18-05-2007,Alm. Salg,9.166,6,Villa,150,1900,-2 %,Aktuel værdi
+Grønsundsvej 3874871 Horbelev,elev,450.000,15-05-2007,Alm. Salg,4.455,5,Villa,101,1912,-9 %,Aktuel værdi
+Nykøbingvej 1554871 Horbelev,elev,875.000,10-05-2007,Alm. Salg,7.743,4,Villa,113,1951,,Aktuel værdi
+Ahrendtsgade 24871 Horbelev,elev,950.000,12-04-2007,Fam. Salg,8.558,6,Villa,111,1912,,Aktuel værdi
+Grønsundsvej 3944871 Horbelev,elev,674.000,04-04-2007,Alm. Salg,6.183,3,Villa,109,1910,4 %,Aktuel værdi
+Vibevej 14871 Horbelev,elev,1.025.000,03-04-2007,Alm. Salg,9.151,4,Villa,112,1976,,Aktuel værdi
+Ryttermarken 24871 Horbelev,elev,1.560.000,15-03-2007,Alm. Salg,9.454,5,Villa,165,1985,,Aktuel værdi
+Pomlevej 74871 Horbelev,elev,5.020.660,13-03-2007,Alm. Salg,23.461,6,Stuehus,214,1959,,
+Hesnæsvej 244871 Horbelev,elev,945.000,28-02-2007,Alm. Salg,8.217,5,Villa,115,1777,0 %,Aktuel værdi
+Stengårdsvej 154871 Horbelev,elev,6.306.100,21-02-2007,Fam. Salg,19.463,9,Stuehus,324,1859,,
+Ryttermarken 194871 Horbelev,elev,985.000,12-02-2007,Alm. Salg,10.944,3,Villa,90,1986,,Aktuel værdi
+Grønsundsvej 3434871 Horbelev,elev,950.000,12-02-2007,Alm. Salg,7.089,6,Villa,134,1949,-5 %,Aktuel værdi
+Grønsundsvej 3234871 Horbelev,elev,1.100.000,29-01-2007,Alm. Salg,9.243,4,Villa,119,1917,,Aktuel værdi
+Falkerslevvej 54871 Horbelev,elev,274.059,20-01-2007,Alm. Salg,2.303,4,Villa,119,1957,,Aktuel værdi
+Høje Tunet 24871 Horbelev,elev,1.625.000,19-01-2007,Alm. Salg,10.483,5,Villa,155,1911,-3 %,Aktuel værdi
+Nykøbingvej 1474871 Horbelev,elev,1.090.000,02-12-2006,Alm. Salg,8.515,4,Villa,128,1930,,Aktuel værdi
+Særslevvej 144871 Horbelev,elev,240.000,30-11-2006,Alm. Salg,2.000,3,Sommerhus,120,1900,,Aktuel værdi
+Falkerslevvej 304871 Horbelev,elev,670.000,15-11-2006,Alm. Salg,6.380,6,Villa,105,1916,,Aktuel værdi
+Grønsundsvej 3864871 Horbelev,elev,850.000,06-11-2006,Alm. Salg,6.296,5,Villa,135,1955,,Aktuel værdi
+Grønsundsvej 3034871 Horbelev,elev,1.150.000,03-11-2006,Alm. Salg,7.666,5,Villa,150,1947,,Aktuel værdi
+Poppelvej 134871 Horbelev,elev,1.095.000,02-11-2006,Alm. Salg,8.358,4,Villa,131,1979,,Aktuel værdi
+Sortenshavevej 34871 Horbelev,elev,735.000,07-10-2006,Alm. Salg,6.282,5,Villa,117,1900,,Aktuel værdi
+Stengårdsvej 194871 Horbelev,elev,1.795.000,29-09-2006,Alm. Salg,13.296,4,Villa,135,1920,,Aktuel værdi
+Falkerslevvej 84871 Horbelev,elev,750.000,24-09-2006,Alm. Salg,6.097,5,Villa,123,1900,,Aktuel værdi
+Bregningevej 554871 Horbelev,elev,465.000,29-08-2006,Alm. Salg,6.458,3,Villa,72,1900,,Aktuel værdi
+Drosselvej 24871 Horbelev,elev,1.030.000,27-08-2006,Alm. Salg,8.174,4,Villa,126,1977,,Aktuel værdi
+Meelsevej 124871 Horbelev,elev,1.450.000,16-08-2006,Alm. Salg,-,7,Villa,224,1974,,Aktuel værdi
+Grønsundsvej 3444871 Horbelev,elev,1.195.000,07-08-2006,Alm. Salg,8.184,6,Villa,146,1910,,Aktuel værdi
+Særslevvej 23B4871 Horbelev,elev,919.000,21-07-2006,Alm. Salg,6.659,4,Villa,138,1930,,Aktuel værdi
+Hesnæsvej 524871 Horbelev,elev,400.000,24-06-2006,Alm. Salg,8.000,3,Villa,50,1900,,Aktuel værdi
+Mosebyvej 74871 Horbelev,elev,1.400.000,20-06-2006,Alm. Salg,7.526,5,Villa,186,1860,,Aktuel værdi
+Lillegade 134871 Horbelev,elev,765.000,25-05-2006,Alm. Salg,7.083,4,Villa,108,1967,,Aktuel værdi
+Falkerslevvej 234871 Horbelev,elev,2.400.000,19-05-2006,Alm. Salg,12.307,5,Villa,195,1924,,Aktuel værdi
+Bønnetvej 144871 Horbelev,elev,500.000,09-05-2006,Fam. Salg,2.358,7,Villa,212,1912,,Aktuel værdi
+Hesnæsvej 574871 Horbelev,elev,1.480.000,22-04-2006,Alm. Salg,6.981,6,Villa,212,1946,,Aktuel værdi
+Falkerslevvej 214871 Horbelev,elev,1.100.000,06-04-2006,Alm. Salg,9.166,6,Villa,120,1912,,Aktuel værdi
+Særslev Øster 154871 Horbelev,elev,135.000,03-04-2006,Andet,490,8,Stuehus,275,1919,,
+Grønsundsvej 3404871 Horbelev,elev,300.000,21-03-2006,Alm. Salg,5.000,3,Villa,60,1862,,Aktuel værdi
+Ahrendtsgade 104871 Horbelev,elev,760.000,16-03-2006,Alm. Salg,6.129,4,Villa,124,1957,,Aktuel værdi
+Hesnæsvej 304871 Horbelev,elev,1.230.000,09-02-2006,Alm. Salg,6.910,6,Villa,178,1870,,Aktuel værdi
+Skippergårdsvej 84871 Horbelev,elev,125.000,30-01-2006,Alm. Salg,912,6,Stuehus,137,1900,,
+Grønsundsvej 3884871 Horbelev,elev,1.185.000,26-01-2006,Alm. Salg,6.045,6,Stuehus,196,1908,,
+Falkerslevvej 274871 Horbelev,elev,350.000,01-01-2006,Alm. Salg,-,5,Villa,130,1942,,Aktuel værdi
+Meelsevej 214871 Horbelev,elev,1.700.000,10-12-2005,Alm. Salg,11.564,5,Stuehus,147,1902,,
+Stærly 24871 Horbelev,elev,420.000,05-12-2005,Alm. Salg,8.400,4,Sommerhus,50,1788,,Aktuel værdi
+Særslevvej 354871 Horbelev,elev,565.000,10-11-2005,Alm. Salg,6.208,3,Villa,91,1905,,Aktuel værdi
+Særslevvej 274871 Horbelev,elev,328.248,10-10-2005,Alm. Salg,1.548,6,Villa,212,1850,,Aktuel værdi
+Falkerslevvej 34871 Horbelev,elev,725.000,09-10-2005,Alm. Salg,6.904,2,Villa,105,1956,,Aktuel værdi
+Meelsevej 154871 Horbelev,elev,4.294.000,30-09-2005,Fam. Salg,27.703,5,Stuehus,155,1965,,
+Bregningevej 44871 Horbelev,elev,765.000,17-09-2005,Alm. Salg,5.884,4,Villa,130,1928,,Aktuel værdi
+Lillegade 34871 Horbelev,elev,917.000,15-09-2005,Alm. Salg,7.000,3,Villa,131,1900,,Aktuel værdi
+Stengårdsvej 104871 Horbelev,elev,1.995.000,10-09-2005,Alm. Salg,11.271,5,Stuehus,177,1902,,
+Vibevej 44871 Horbelev,elev,1.140.000,09-09-2005,Alm. Salg,8.028,5,Villa,142,1974,,Aktuel værdi
+Grønsundsvej 3794871 Horbelev,elev,690.000,05-09-2005,Alm. Salg,3.750,5,Villa,184,1923,,Aktuel værdi
+Bøgevang 74871 Horbelev,elev,830.000,31-08-2005,Alm. Salg,4.770,5,Villa,174,1910,,Aktuel værdi
+Hesnæsvej 34871 Horbelev,elev,1.000.000,30-08-2005,Alm. Salg,7.692,4,Villa,130,1946,,Aktuel værdi
+Grønsundsvej 3154871 Horbelev,elev,900.000,29-08-2005,Alm. Salg,5.844,5,Villa,154,1942,,Aktuel værdi
+Grønsundsvej 3094871 Horbelev,elev,570.000,25-08-2005,Alm. Salg,6.705,3,Villa,85,1880,,Aktuel værdi
+Bregningevej 474871 Horbelev,elev,695.000,19-08-2005,Alm. Salg,5.265,5,Villa,132,1937,,Aktuel værdi
+Nykøbingvej 1384871 Horbelev,elev,700.000,04-08-2005,Alm. Salg,3.500,8,Stuehus,200,1907,,
+Særslevvej 164871 Horbelev,elev,860.000,02-08-2005,Fam. Salg,4.037,6,Villa,213,1898,,Aktuel værdi
+Grønsundsvej 3044871 Horbelev,elev,570.000,07-07-2005,Alm. Salg,4.672,3,Villa,122,1898,,Aktuel værdi
+Solsortevej 14871 Horbelev,elev,785.000,06-06-2005,Alm. Salg,6.826,4,Villa,115,1978,,Aktuel værdi
+Lillegade 5A4871 Horbelev,elev,476.000,22-05-2005,Fam. Salg,4.250,7,Villa,112,1750,,Aktuel værdi
+Lyremosen 34871 Horbelev,elev,2.200.000,21-05-2005,Alm. Salg,6.214,13,Stuehus,354,1863,,
+Bønnetvej 374871 Horbelev,elev,845.000,20-05-2005,Alm. Salg,7.681,4,Villa,110,1958,,Aktuel værdi
+Højmarksvej 144871 Horbelev,elev,770.000,09-05-2005,Alm. Salg,6.363,4,Villa,121,1966,,Aktuel værdi
+Grønsundsvej 2924871 Horbelev,elev,750.000,15-04-2005,Alm. Salg,5.281,4,Villa,142,1948,,Aktuel værdi
+Bønnetvej 394871 Horbelev,elev,570.000,07-04-2005,Alm. Salg,4.384,3,Villa,130,1908,,Aktuel værdi
+Grønsundsvej 2914871 Horbelev,elev,763.000,07-04-2005,Alm. Salg,6.153,4,Villa,124,1982,,Aktuel værdi
+Hesnæsvej 374871 Horbelev,elev,700.000,16-03-2005,Alm. Salg,5.982,2,Villa,117,1920,,Aktuel værdi
+Slotsvej 44871 Horbelev,elev,865.000,22-02-2005,Alm. Salg,3.914,7,Villa,221,1958,,Aktuel værdi
+Falkerslevvej 194871 Horbelev,elev,4.400.000,08-02-2005,Alm. Salg,17.959,9,Stuehus,245,1867,,
+Bønnetvej 114871 Horbelev,elev,2.557.200,04-02-2005,Fam. Salg,14.529,5,Stuehus,176,1954,,
+Nykøbingvej 1514871 Horbelev,elev,4.790.300,06-01-2005,Fam. Salg,22.810,6,Stuehus,210,1888,,
+Meelsevej 194871 Horbelev,elev,1.150.000,27-12-2004,Alm. Salg,5.180,10,Stuehus,222,1890,,
+Mosebyvej 34871 Horbelev,elev,600.000,19-12-2004,Fam. Salg,4.379,5,Villa,137,1910,,Aktuel værdi
+Grønsundsvej 3394871 Horbelev,elev,365.000,17-12-2004,Auktion,2.253,6,Villa,162,1920,,Aktuel værdi
+Hesnæsvej 504871 Horbelev,elev,400.000,05-12-2004,Alm. Salg,5.555,2,Villa,72,1932,,Aktuel værdi
+Eriksdalsvej 104871 Horbelev,elev,547.530,08-11-2004,Andet,3.883,7,Villa,141,1928,,Aktuel værdi
+Torvegade 3B4871 Horbelev,elev,490.000,05-11-2004,Alm. Salg,3.684,4,Lejlighed,133,1917,,Aktuel værdi
+Torvegade 24871 Horbelev,elev,750.000,21-08-2004,Alm. Salg,6.250,5,Villa,120,1907,,Aktuel værdi
+Falkerslevvej 1A4871 Horbelev,elev,900.000,16-07-2004,Alm. Salg,5.625,3,Villa,160,1979,,Aktuel værdi
+Bønnetvej 94871 Horbelev,elev,400.000,05-07-2004,Alm. Salg,3.225,5,Villa,124,1877,,Aktuel værdi
+Særslevvej 254871 Horbelev,elev,514.000,24-06-2004,Auktion,2.778,7,Villa,185,1900,,Aktuel værdi
+Grønsundsvej 2934871 Horbelev,elev,675.000,14-06-2004,Alm. Salg,4.090,5,Villa,165,1907,,Aktuel værdi
+Vibevej 64871 Horbelev,elev,1.100.000,07-06-2004,Alm. Salg,6.111,5,Villa,180,1967,,Aktuel værdi
+Skjoltrupvej 84871 Horbelev,elev,700.000,24-05-2004,Alm. Salg,4.575,5,Stuehus,153,1870,,
+Pomlevej 134871 Horbelev,elev,630.000,13-05-2004,Fam. Salg,4.200,5,Villa,150,1905,,Aktuel værdi
+Særslevvej 434871 Horbelev,elev,525.000,10-05-2004,Alm. Salg,7.000,3,Villa,75,1914,,Aktuel værdi
+Bønnetvej 34871 Horbelev,elev,995.000,09-05-2004,Alm. Salg,4.693,4,Stuehus,212,1889,,
+Bønnetvej 354871 Horbelev,elev,595.000,03-05-2004,Alm. Salg,4.407,4,Villa,135,1915,,Aktuel værdi
+Ahrendtsgade 144871 Horbelev,elev,825.000,01-05-2004,Alm. Salg,5.650,4,Villa,146,1943,,Aktuel værdi
+Bregningevej 174871 Horbelev,elev,760.000,17-03-2004,Alm. Salg,6.129,4,Villa,124,1942,,Aktuel værdi
+Falkerslevvej 124871 Horbelev,elev,215.000,22-02-2004,Alm. Salg,1.679,4,Villa,128,1893,,Aktuel værdi
+Bregningevej 494871 Horbelev,elev,475.000,19-02-2004,Alm. Salg,5.163,3,Villa,92,1910,,Aktuel værdi
+Bøgevang 124871 Horbelev,elev,2.922.868,09-02-2004,Alm. Salg,12.280,7,Stuehus,238,1860,,
+Bønnetvej 274871 Horbelev,elev,484.500,06-02-2004,Fam. Salg,2.833,7,Stuehus,171,1894,,
+Bregningevej 14871 Horbelev,elev,985.000,06-02-2004,Alm. Salg,7.137,4,Villa,138,1928,,Aktuel værdi
+Grønsundsvej 2944871 Horbelev,elev,888.574,22-01-2004,Alm. Salg,5.807,7,Stuehus,153,1880,,
+Meelsevej 254871 Horbelev,elev,314.474,16-01-2004,Fam. Salg,2.199,4,Villa,143,1693,,Aktuel værdi
+Bregningevej 674871 Horbelev,elev,550.000,26-12-2003,Alm. Salg,4.545,7,Villa,121,1911,,Aktuel værdi
+Meelsevej 114871 Horbelev,elev,329.354,16-12-2003,Alm. Salg,2.940,4,Villa,112,1777,,Aktuel værdi
+Syvhøjvej 34871 Horbelev,elev,825.000,15-12-2003,Alm. Salg,7.112,3,Stuehus,116,1930,,
+Nykøbingvej 1434871 Horbelev,elev,750.000,24-11-2003,Alm. Salg,5.555,5,Villa,135,1950,,Aktuel værdi
+Brøndstræde 14871 Horbelev,elev,420.000,30-09-2003,Alm. Salg,5.060,4,Villa,83,1903,,Aktuel værdi
+Grønsundsvej 3924871 Horbelev,elev,1.050.000,13-09-2003,Alm. Salg,10.937,3,Stuehus,96,1860,,
+Torvegade 3C4871 Horbelev,elev,425.000,06-07-2003,Alm. Salg,5.120,2,Lejlighed,83,1917,,Aktuel værdi
+Hesnæsvej 354871 Horbelev,elev,330.000,30-06-2003,Alm. Salg,3.142,4,Villa,105,1908,,Aktuel værdi
+Grønsundsvej 3084871 Horbelev,elev,1.100.000,02-06-2003,Fam. Salg,4.545,4,Stuehus,242,1998,,
+Falkerslevvej 164871 Horbelev,elev,485.000,23-05-2003,Alm. Salg,2.787,5,Villa,174,1907,,Aktuel værdi
+Drosselvej 34871 Horbelev,elev,825.000,12-05-2003,Alm. Salg,6.297,4,Villa,131,1976,,Aktuel værdi
+Kirkevej 54871 Horbelev,elev,27.000,10-04-2003,Fam. Salg,121,6,Stuehus,223,1949,,
+Pomlevej 6B4871 Horbelev,elev,135.000,26-03-2003,Alm. Salg,1.000,4,Villa,135,2008,,Aktuel værdi
+Særslev Øster 64871 Horbelev,elev,895.000,06-03-2003,Alm. Salg,5.593,5,Villa,160,1902,,Aktuel værdi
+Falkerslevvej 44871 Horbelev,elev,1.000.000,20-02-2003,Alm. Salg,5.494,5,Villa,182,1940,,Aktuel værdi
+Svejsminde 14871 Horbelev,elev,150.000,05-02-2003,Fam. Salg,1.020,7,Villa,147,1867,,Aktuel værdi
+Særslev Øster 234871 Horbelev,elev,377.098,31-01-2003,Alm. Salg,2.693,4,Villa,140,1959,,Aktuel værdi
+Dyssevej 44871 Horbelev,elev,575.000,05-12-2002,Alm. Salg,7.012,5,Sommerhus,82,1967,,Aktuel værdi
+Østerskovvej 14871 Horbelev,elev,1.555.000,18-11-2002,Alm. Salg,9.718,5,Stuehus,160,1927,,
+Bregningevej 484871 Horbelev,elev,698.000,11-11-2002,Alm. Salg,5.816,4,Villa,120,1927,,Aktuel værdi
+Pomlevej 114871 Horbelev,elev,283.938,02-11-2002,Alm. Salg,3.785,3,Sommerhus,75,1960,,Aktuel værdi
+Bregningevej 124871 Horbelev,elev,450.000,24-09-2002,Alm. Salg,2.922,4,Villa,154,1915,,Aktuel værdi
+Grønsundsvej 3314871 Horbelev,elev,680.000,20-09-2002,Alm. Salg,5.074,4,Villa,134,1932,,Aktuel værdi
+Eriksdalsvej 14871 Horbelev,elev,940.000,30-07-2002,Alm. Salg,5.529,5,Villa,170,1895,,Aktuel værdi
+Poppelvej 44871 Horbelev,elev,860.000,18-07-2002,Alm. Salg,6.880,4,Villa,125,1979,,Aktuel værdi
+Brydsbjergvej 14871 Horbelev,elev,1.175.000,16-07-2002,Alm. Salg,7.484,5,Stuehus,157,1986,,
+Søle 74871 Horbelev,elev,120.000,08-07-2002,Andet,1.666,2,Villa,72,1877,,Aktuel værdi
+Bregningevej 394871 Horbelev,elev,380.000,24-06-2002,Alm. Salg,4.318,3,Villa,88,1959,,Aktuel værdi
+Ovenbyvej 24871 Horbelev,elev,1.165.000,03-06-2002,Alm. Salg,5.247,7,Stuehus,222,1908,,
+Særslev Øster 34871 Horbelev,elev,837.560,28-03-2002,Alm. Salg,4.146,5,Stuehus,202,1920,,
+Poppelvej 104871 Horbelev,elev,805.000,27-03-2002,Alm. Salg,7.453,4,Villa,108,1980,,Aktuel værdi
+Hesnæsvej 64871 Horbelev,elev,607.254,26-03-2002,Alm. Salg,7.144,3,Villa,85,1948,,Aktuel værdi
+Særslevvej 184871 Horbelev,elev,230.000,26-02-2002,Alm. Salg,3.833,3,Villa,60,1972,,Aktuel værdi
+Hesnæsvej 594871 Horbelev,elev,520.000,25-02-2002,Alm. Salg,3.209,6,Villa,162,1943,,Aktuel værdi
+Høje Tunet 14871 Horbelev,elev,509.714,09-01-2002,Alm. Salg,5.097,3,Villa,100,1887,,Aktuel værdi
+Kirkevej 44871 Horbelev,elev,200.000,05-01-2002,Alm. Salg,2.857,4,Villa,70,1900,,Aktuel værdi
+Slotsvej 54871 Horbelev,elev,1.300.000,31-12-2001,Alm. Salg,6.132,7,Stuehus,212,1898,,
+Hesnæsvej 604871 Horbelev,elev,323.000,25-12-2001,Fam. Salg,2.883,6,Sommerhus,112,1810,,Aktuel værdi
+Halskovvej 184871 Horbelev,elev,702.190,12-10-2001,Alm. Salg,7.021,4,Villa,100,1875,,Aktuel værdi
+Særslevvej 264871 Horbelev,elev,250.000,03-10-2001,Andet,2.100,3,Villa,119,1925,,Aktuel værdi
+Særslevvej 414871 Horbelev,elev,440.000,03-09-2001,Alm. Salg,3.728,3,Villa,118,1920,,Aktuel værdi
+Strandhuse 14871 Horbelev,elev,1.950.000,16-07-2001,Fam. Salg,14.885,5,Stuehus,131,1925,,
+Mirabelvej 34871 Horbelev,elev,659.000,13-07-2001,Alm. Salg,7.322,3,Villa,90,1983,,Aktuel værdi
+Skippergårdsvej 54871 Horbelev,elev,407.000,30-06-2001,Alm. Salg,2.928,4,Villa,139,1947,,Aktuel værdi
+Bøgevang 34871 Horbelev,elev,517.349,17-06-2001,Alm. Salg,5.072,3,Villa,102,1940,,Aktuel værdi
+Hesnæsvej 544871 Horbelev,elev,180.000,15-05-2001,Auktion,2.068,3,Villa,87,1867,,Aktuel værdi
+Grønsundsvej 3064871 Horbelev,elev,400.000,08-05-2001,Alm. Salg,3.278,4,Villa,122,1897,,Aktuel værdi
+Bønnetvej 124871 Horbelev,elev,385.000,04-04-2001,Alm. Salg,4.375,3,Stuehus,88,1912,,
+Stengårdsvej 54871 Horbelev,elev,341.000,21-03-2001,Alm. Salg,3.706,4,Rækkehus,92,1892,,Aktuel værdi
+Poppelvej 154871 Horbelev,elev,769.000,15-03-2001,Alm. Salg,5.738,4,Villa,134,1980,,Aktuel værdi
+Mosebyvej 114871 Horbelev,elev,585.000,15-03-2001,Alm. Salg,4.365,6,Stuehus,134,1804,,
+Falkerslevvej 294871 Horbelev,elev,520.000,24-02-2001,Alm. Salg,4.333,4,Villa,120,1910,,Aktuel værdi
+Meelsevej 134871 Horbelev,elev,564.000,06-02-2001,Alm. Salg,4.147,4,Villa,136,1968,,Aktuel værdi
+Malkevej 64871 Horbelev,elev,200.000,03-01-2001,Alm. Salg,2.564,3,Villa,78,1877,,Aktuel værdi
+Grønsundsvej 3714871 Horbelev,elev,475.000,16-11-2000,Alm. Salg,4.656,4,Villa,102,1925,,Aktuel værdi
+Vinkelvej 34871 Horbelev,elev,460.000,30-10-2000,Alm. Salg,10.952,2,Villa,42,1940,,Aktuel værdi
+Bøgevang 14871 Horbelev,elev,1.007.327,23-10-2000,Alm. Salg,5.301,5,Villa,190,1850,,Aktuel værdi
+Bregningevej 354871 Horbelev,elev,646.000,15-09-2000,Fam. Salg,1.835,10,Villa,352,1909,,Aktuel værdi
+Halskovvej 124871 Horbelev,elev,670.000,01-09-2000,Alm. Salg,3.785,4,Villa,177,1927,,Aktuel værdi
+Drosselvej 54871 Horbelev,elev,599.000,17-08-2000,Alm. Salg,5.445,4,Villa,110,1976,,Aktuel værdi
+Hesnæsvej 384871 Horbelev,elev,210.000,15-08-2000,Alm. Salg,3.750,4,Villa,56,1917,,Aktuel værdi
+Nykøbingvej 1534871 Horbelev,elev,770.875,15-08-2000,Alm. Salg,5.038,5,Villa,153,1805,,Aktuel værdi
+Hesnæsvej 264871 Horbelev,elev,581.290,14-08-2000,Alm. Salg,3.125,8,Villa,186,1923,,Aktuel værdi
+Falkerslevvej 244871 Horbelev,elev,466.000,08-08-2000,Alm. Salg,1.700,8,Villa,274,1877,,Aktuel værdi
+Skjoltrupvej 24871 Horbelev,elev,501.000,31-07-2000,Alm. Salg,4.513,5,Villa,111,1917,,Aktuel værdi
+Bregningevej 74871 Horbelev,elev,350.000,22-07-2000,Alm. Salg,4.022,4,Villa,87,1938,,Aktuel værdi
+Ahrendtsgade 94871 Horbelev,elev,120.000,10-07-2000,Alm. Salg,1.153,4,Villa,104,1915,,Aktuel værdi
+Falkerslevvej 204871 Horbelev,elev,340.000,16-05-2000,Alm. Salg,3.035,4,Villa,112,1893,,Aktuel værdi
+Svejsminde 34871 Horbelev,elev,1.000.000,01-05-2000,Alm. Salg,4.166,6,Stuehus,240,1907,,
+Grønsundsvej 3464871 Horbelev,elev,397.253,16-12-1999,Alm. Salg,2.101,9,Villa,189,1917,,Aktuel værdi
+Grønsundsvej 3274871 Horbelev,elev,450.000,24-11-1999,Alm. Salg,3.214,4,Villa,140,1907,,Aktuel værdi
+Grønsundsvej 3284871 Horbelev,elev,349.900,15-10-1999,Alm. Salg,4.373,3,Villa,80,1900,,Aktuel værdi
+Halskovvej 144871 Horbelev,elev,897.000,09-10-1999,Alm. Salg,4.333,9,Villa,207,1904,,Aktuel værdi
+Lillegade 10B4871 Horbelev,elev,40.000,19-09-1999,Alm. Salg,227,6,Villa,176,2008,,Aktuel værdi
+Særslevvej 124871 Horbelev,elev,850.000,07-09-1999,Alm. Salg,4.802,7,Villa,177,1905,,Aktuel værdi
+Halskovvej 224871 Horbelev,elev,250.000,19-08-1999,Alm. Salg,3.012,3,Villa,83,1903,,Aktuel værdi
+Brydsbjergvej 24871 Horbelev,elev,889.000,07-08-1999,Alm. Salg,-,10,Villa,337,1650,,Aktuel værdi
+Bregningevej 304871 Horbelev,elev,208.624,09-07-1999,Andet,1.846,2,Villa,113,1937,,Aktuel værdi
+Bregningevej 234871 Horbelev,elev,599.918,28-05-1999,Alm. Salg,3.999,6,Villa,150,1922,,Aktuel værdi
+Mosebyvej 54871 Horbelev,elev,480.000,21-05-1999,Alm. Salg,3.428,4,Villa,140,1965,,Aktuel værdi
+Syvhøjvej 14871 Horbelev,elev,3.400.000,31-03-1999,Alm. Salg,16.190,8,Stuehus,210,1871,,
+Grønsundsvej 3744871 Horbelev,elev,383.000,26-03-1999,Alm. Salg,3.948,4,Villa,97,1949,,Aktuel værdi
+Særslev Øster 74871 Horbelev,elev,900.000,25-03-1999,Fam. Salg,6.666,6,Stuehus,135,1903,,
+Stengårdsvej 24871 Horbelev,elev,702.000,15-03-1999,Alm. Salg,4.057,7,Villa,173,1920,,Aktuel værdi
+Nykøbingvej 1454871 Horbelev,elev,477.500,25-01-1999,Alm. Salg,-,8,Villa,265,1860,,Aktuel værdi
+Falkerslevvej 114871 Horbelev,elev,607.000,05-12-1998,Alm. Salg,3.967,4,Villa,153,1677,,Aktuel værdi
+Grønsundsvej 297A4871 Horbelev,elev,194.250,23-11-1998,Alm. Salg,2.398,2,Villa,81,1880,,Aktuel værdi
+Halskovvej 204871 Horbelev,elev,350.000,25-10-1998,Alm. Salg,3.977,3,Villa,88,1800,,Aktuel værdi
+Hesnæsvej 14871 Horbelev,elev,416.300,23-09-1998,Alm. Salg,4.336,4,Villa,96,1949,,Aktuel værdi
+Møllevej 34871 Horbelev,elev,295.000,24-08-1998,Alm. Salg,1.867,7,Stuehus,158,1915,,
+Malkevej 24871 Horbelev,elev,405.580,20-08-1998,Alm. Salg,3.297,4,Rækkehus,123,1877,,Aktuel værdi
+Hesnæsvej 464871 Horbelev,elev,350.000,31-07-1998,Alm. Salg,6.034,2,Villa,58,1900,,Aktuel værdi
+Ahrendtsgade 64871 Horbelev,elev,403.400,31-07-1998,Alm. Salg,3.878,3,Villa,104,1975,,Aktuel værdi
+Brydsbjergvej 74871 Horbelev,elev,604.416,31-07-1998,Alm. Salg,5.648,3,Villa,107,1877,,Aktuel værdi
+Meelsevej 14871 Horbelev,elev,140.000,28-07-1998,Auktion,1.458,3,Villa,96,1921,,Aktuel værdi
+Eriksdalsvej 114871 Horbelev,elev,842.000,22-06-1998,Alm. Salg,4.455,7,Villa,189,1918,,Aktuel værdi
+Grønsundsvej 3144871 Horbelev,elev,806.000,30-05-1998,Alm. Salg,3.598,8,Villa,224,1902,,Aktuel værdi
+Lillegade 174871 Horbelev,elev,144.156,27-05-1998,Alm. Salg,-,5,Villa,142,1953,,Aktuel værdi
+Virketvej 24871 Horbelev,elev,536.037,27-05-1998,Alm. Salg,4.060,4,Villa,132,1920,,Aktuel værdi
+Strandhuse 94871 Horbelev,elev,700.000,15-05-1998,Alm. Salg,-,18,Industri o.l.,259,1909,,Aktuel værdi
+Torvegade 54871 Horbelev,elev,440.000,13-05-1998,Alm. Salg,3.142,5,Villa,140,1915,,Aktuel værdi
+Hesnæsvej 364871 Horbelev,elev,90.000,25-03-1998,Alm. Salg,1.636,3,Villa,55,1902,,Aktuel værdi
+Eriksdalsvej 244871 Horbelev,elev,1.750.000,23-03-1998,Alm. Salg,9.776,5,Stuehus,179,1937,,
+Ahrendtsgade 174871 Horbelev,elev,232.600,13-03-1998,Alm. Salg,3.322,3,Villa,70,1932,,Aktuel værdi
+Grønsundsvej 3894871 Horbelev,elev,462.000,13-03-1998,Fam. Salg,3.500,5,Villa,132,1945,,Aktuel værdi
+Grønsundsvej 3304871 Horbelev,elev,531.000,09-02-1998,Alm. Salg,2.185,5,Villa,243,1916,,Aktuel værdi
+Grønsundsvej 2874871 Horbelev,elev,40.000,18-12-1997,Alm. Salg,195,8,Stuehus,205,1922,,
+Skovlundevej 14871 Horbelev,elev,425.000,13-12-1997,Alm. Salg,1.770,8,Stuehus,240,1929,,
+Hovmandsvej 14871 Horbelev,elev,250.000,08-12-1997,Auktion,1.953,4,Villa,128,1877,,Aktuel værdi
+Solsortevej 44871 Horbelev,elev,520.000,03-12-1997,Alm. Salg,4.444,4,Villa,117,1978,,Aktuel værdi
+Lille Tunet 24871 Horbelev,elev,738.483,24-11-1997,Alm. Salg,3.516,6,Villa,210,1912,,Aktuel værdi
+Ahrendtsgade 194871 Horbelev,elev,258.000,11-11-1997,Alm. Salg,4.031,4,Villa,64,1935,,Aktuel værdi
+Bønnetvej 164871 Horbelev,elev,390.000,30-10-1997,Alm. Salg,-,5,Stuehus,143,1830,,
+Meelsevej 104871 Horbelev,elev,415.000,23-10-1997,Alm. Salg,4.611,4,Villa,90,1917,,Aktuel værdi
+Bregningevej 454871 Horbelev,elev,205.000,19-10-1997,Alm. Salg,1.589,4,Villa,129,1902,,Aktuel værdi
+Solsortevej 24871 Horbelev,elev,661.000,14-10-1997,Alm. Salg,4.721,4,Villa,140,1978,,Aktuel værdi
+Mosebyvej 64871 Horbelev,elev,455.722,11-10-1997,Alm. Salg,2.560,6,Villa,178,1935,,Aktuel værdi
+Særslevvej 244871 Horbelev,elev,3.300.000,04-09-1997,Alm. Salg,15.566,5,Stuehus,212,1925,,
+Brydsbjergvej 84871 Horbelev,elev,360.163,30-08-1997,Alm. Salg,4.237,3,Villa,85,1900,,Aktuel værdi
+Mirabelvej 24871 Horbelev,elev,397.000,28-08-1997,Alm. Salg,3.393,4,Villa,117,1928,,Aktuel værdi
+Lillegade 124871 Horbelev,elev,299.000,18-06-1997,Alm. Salg,2.231,4,Villa,134,1936,,Aktuel værdi
+Meelsevej 34871 Horbelev,elev,369.000,16-04-1997,Alm. Salg,3.481,5,Villa,106,1968,,Aktuel værdi
+Bregningevej 434871 Horbelev,elev,851.000,03-04-1997,Alm. Salg,3.324,7,Stuehus,256,1806,,
+Grønsundsvej 3724871 Horbelev,elev,406.000,25-03-1997,Alm. Salg,4.511,4,Villa,90,1940,,Aktuel værdi
+Brydsbjergvej 44871 Horbelev,elev,409.517,23-02-1997,Alm. Salg,1.878,6,Villa,218,1895,,Aktuel værdi
+Svalevej 124871 Horbelev,elev,425.000,30-01-1997,Auktion,3.320,4,Villa,128,1978,,Aktuel værdi
+Strandhuse 154871 Horbelev,elev,730.000,27-01-1997,Alm. Salg,4.965,5,Villa,147,1952,,Aktuel værdi
+Poppelvej 14871 Horbelev,elev,313.107,06-01-1997,Fam. Salg,1.759,7,Villa,178,1985,,Aktuel værdi
+Høje Tunet 44871 Horbelev,elev,180.000,30-12-1996,Fam. Salg,2.000,3,Sommerhus,90,1877,,Aktuel værdi
+Eriksdalsvej 124871 Horbelev,elev,500.000,10-12-1996,Alm. Salg,4.464,5,Stuehus,112,1907,,
+Dyssevej 24871 Horbelev,elev,370.000,02-12-1996,Fam. Salg,3.936,4,Villa,94,1948,,Aktuel værdi
+Grønsundsvej 3904871 Horbelev,elev,190.000,14-10-1996,Auktion,1.428,5,Villa,133,1877,,Aktuel værdi
+Eriksdalsvej 164871 Horbelev,elev,770.000,10-10-1996,Alm. Salg,-,9,Stuehus,245,1765,,
+Skjoltrupvej 14871 Horbelev,elev,220.000,02-10-1996,Alm. Salg,936,9,Villa,235,1877,,Aktuel værdi
+Allegade 14871 Horbelev,elev,800.000,30-08-1996,Alm. Salg,2.312,10,Villa,346,1879,,Aktuel værdi
+Drosselvej 84871 Horbelev,elev,220.000,25-08-1996,Fam. Salg,1.964,4,Villa,112,1977,,Aktuel værdi
+Kirkevej 34871 Horbelev,elev,367.000,12-07-1996,Alm. Salg,3.495,3,Villa,105,1961,,Aktuel værdi
+Hesnæsvej 314871 Horbelev,elev,332.000,01-07-1996,Alm. Salg,3.254,4,Villa,102,1916,,Aktuel værdi
+Højmarksvej 24871 Horbelev,elev,670.000,20-06-1996,Alm. Salg,2.838,7,Villa,236,1974,,Aktuel værdi
+Torvegade 3E4871 Horbelev,elev,496.910,08-05-1996,Alm. Salg,8.873,2,Lejlighed,56,1917,,Aktuel værdi
+Sortenshavevej 14871 Horbelev,elev,35.000,30-04-1996,Alm. Salg,175,7,Villa,199,1920,,Aktuel værdi
+Slotsvej 64871 Horbelev,elev,825.000,21-03-1996,Alm. Salg,3.466,5,Villa,238,1855,,Aktuel værdi
+Halskovvej 104871 Horbelev,elev,221.000,10-03-1996,Alm. Salg,2.210,4,Villa,100,1959,,Aktuel værdi
+Syvhøjvej 24871 Horbelev,elev,550.000,05-02-1996,Alm. Salg,4.135,3,Villa,133,1947,,Aktuel værdi
+Meelsevej 74871 Horbelev,elev,200.000,20-11-1995,Alm. Salg,2.702,3,Villa,74,1900,,Aktuel værdi
+Grønsundsvej 3474871 Horbelev,elev,410.000,24-10-1995,Alm. Salg,3.904,5,Villa,105,1917,,Aktuel værdi
+Hesnæsvej 194871 Horbelev,elev,516.000,12-10-1995,Andet,2.659,7,Villa,194,1957,,Aktuel værdi
+Meelsevej 234871 Horbelev,elev,1.275.000,18-06-1995,Alm. Salg,5.592,5,Stuehus,228,1900,,
+Syvhøjvej 54871 Horbelev,elev,967.500,01-06-1995,Fam. Salg,7.442,5,Stuehus,130,1930,,
+Særslev Øster 14871 Horbelev,elev,235.000,24-05-1995,Alm. Salg,2.797,3,Villa,84,1910,,Aktuel værdi
+Bønnetvej 184871 Horbelev,elev,356.000,03-05-1995,Alm. Salg,2.184,7,Villa,163,1927,,Aktuel værdi
+Meelsevej 24871 Horbelev,elev,471.000,08-04-1995,Alm. Salg,3.248,6,Villa,145,1950,,Aktuel værdi
+Pomlevej 14871 Horbelev,elev,466.000,05-04-1995,Alm. Salg,4.314,3,Villa,108,1936,,Aktuel værdi
+Malkevej 44871 Horbelev,elev,130.000,10-03-1995,Alm. Salg,-,4,Rækkehus,94,1875,,Aktuel værdi
+Lillegade 14871 Horbelev,elev,172.000,30-01-1995,Alm. Salg,3.245,3,Villa,53,1954,,Aktuel værdi
+Grønsundsvej 3134871 Horbelev,elev,308.000,13-01-1995,Alm. Salg,2.655,3,Villa,116,1925,,Aktuel værdi
+Grønsundsvej 3364871 Horbelev,elev,260.000,02-01-1995,Fam. Salg,2.626,5,Villa,99,1910,,Aktuel værdi
+Bregningevej 24871 Horbelev,elev,622.000,11-12-1994,Alm. Salg,4.174,7,Villa,149,1852,,Aktuel værdi
+Grønsundsvej 3784871 Horbelev,elev,153.845,06-11-1994,Alm. Salg,1.201,4,Villa,128,1972,,Aktuel værdi
+Bønnetvej 454871 Horbelev,elev,766.732,14-10-1994,Alm. Salg,-,5,Villa,213,1877,,Aktuel værdi
+Hesnæsvej 144871 Horbelev,elev,275.000,26-08-1994,Alm. Salg,1.439,7,Villa,191,1900,,Aktuel værdi
+Bønnetvej 54871 Horbelev,elev,19.756,04-08-1994,Auktion,224,3,Villa,88,1895,,Aktuel værdi
+Nykøbingvej 1344871 Horbelev,elev,409.000,14-06-1994,Alm. Salg,2.152,6,Villa,190,1919,,Aktuel værdi
+Halskovvej 34871 Horbelev,elev,175.000,25-05-1994,Alm. Salg,813,6,Villa,215,1850,,Aktuel værdi
+Halskovvej 164871 Horbelev,elev,200.000,25-04-1994,Alm. Salg,1.273,5,Villa,157,1905,,Aktuel værdi
+Falkerslevvej 64871 Horbelev,elev,241.500,15-04-1994,Alm. Salg,-,8,Villa,197,1902,,Aktuel værdi
+Eriksdalsvej 74871 Horbelev,elev,2.621.000,05-04-1994,Fam. Salg,7.362,8,Stuehus,356,1904,,
+Hesnæsvej 124871 Horbelev,elev,141.679,29-12-1993,Andet,1.098,4,Villa,129,1952,,Aktuel værdi
+Sportsvej 64871 Horbelev,elev,635.000,03-11-1993,Alm. Salg,3.848,5,Villa,165,1900,,Aktuel værdi
+Bønnetvej 2A4871 Horbelev,elev,328.130,18-10-1993,Alm. Salg,2.130,5,Villa,154,1918,,Aktuel værdi
+Halskovvej 74871 Horbelev,elev,370.000,14-09-1993,Alm. Salg,-,7,Villa,234,1896,,Aktuel værdi
+Falkerslevvej 144871 Horbelev,elev,127.500,03-09-1993,Fam. Salg,1.500,3,Villa,85,1910,,Aktuel værdi
+Strandhuse 34871 Horbelev,elev,340.000,12-08-1993,Alm. Salg,3.269,4,Villa,104,1842,,Aktuel værdi
+Hvilehøj 24871 Horbelev,elev,250.000,06-08-1993,Alm. Salg,1.096,6,Villa,228,1910,,Aktuel værdi
+Grønsundsvej 3574871 Horbelev,elev,460.000,01-08-1993,Alm. Salg,2.705,6,Villa,170,1908,,Aktuel værdi
+Hesnæsvej 224871 Horbelev,elev,521.000,13-07-1993,Alm. Salg,2.217,8,Villa,235,1897,,Aktuel værdi
+Bregningevej 334871 Horbelev,elev,490.000,25-06-1993,Auktion,3.379,6,Villa,145,1912,,Aktuel værdi
+Grønsundsvej 3114871 Horbelev,elev,330.000,25-03-1993,Alm. Salg,3.027,5,Villa,109,1932,,Aktuel værdi
+Ovenbyvej 14871 Horbelev,elev,280.000,02-01-1993,Alm. Salg,2.352,4,Villa,119,1910,,Aktuel værdi
+Særslev Øster 144871 Horbelev,elev,171.000,24-09-1992,Alm. Salg,1.368,5,Villa,125,1887,,Aktuel værdi
+Meelsevej 44871 Horbelev,elev,130.000,12-08-1992,Alm. Salg,1.857,4,Villa,70,1872,,Aktuel værdi
+Eriksdalsvej 44871 Horbelev,elev,210.000,10-08-1992,Alm. Salg,1.891,5,Villa,111,1950,,Aktuel værdi
+Skovlundevej 34871 Horbelev,elev,508.750,22-07-1992,Alm. Salg,3.199,6,Stuehus,159,1900,,
+Skjoltrupvej 104871 Horbelev,elev,281.198,21-05-1992,Fam. Salg,2.811,5,Villa,100,1940,,Aktuel værdi
+Stengårdsvej 134871 Horbelev,elev,223.830,17-05-1992,Alm. Salg,1.026,7,Stuehus,218,1850,,
+Bregningevej 144871 Horbelev,elev,64.280,08-05-1992,Andet,401,5,Villa,160,1919,,Aktuel værdi
+Bregningevej 364871 Horbelev,elev,185.000,06-04-1992,Alm. Salg,1.745,3,Villa,106,1920,,Aktuel værdi
