@@ -11,7 +11,6 @@ for file in $list; do
 		then
 		max=$temp
 		max2=$words2
-		echo "new max"
 	fi	
 done
 actualsize=$(stat -c%s "$max2")
