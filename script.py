@@ -24,7 +24,7 @@ def html_thead_to_list(table_head):
     return l
 
 def get_zip_code(str):
-    str = str.replace(' København K','')
+    str = str.replace(' KÃ¸benhavn K','')
     return str[-4:]
 
 def get_sell_date(s):
@@ -64,7 +64,7 @@ def html_file_to_csv(html_file):
     example_html = r.content.decode('utf-8')
     
     rows = html_to_csv_list(example_html)
-    )
+    
     
     csv_file = get_csv_filename_from_html(html_file)
     print(csv_file)
