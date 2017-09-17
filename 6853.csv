@@ -1,0 +1,844 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Nordvej 396853 Vejers Strand,rand,1.795.000,24-05-2017,Alm. Salg,11.149,6,Sommerhus,161,1938,0 %,Aktuel værdi
+Engesøvej 176853 Vejers Strand,rand,1.450.000,05-05-2017,Alm. Salg,18.831,4,Sommerhus,77,1988,0 %,Aktuel værdi
+Kratvej 206853 Vejers Strand,rand,2.700.000,25-04-2017,Alm. Salg,22.131,5,Sommerhus,122,2007,,Aktuel værdi
+Jafdalvej 196853 Vejers Strand,rand,2.130.000,06-04-2017,Alm. Salg,14.295,6,Sommerhus,149,1988,-15 %,Aktuel værdi
+Nordvej 436853 Vejers Strand,rand,1.003.300,02-04-2017,Alm. Salg,10.033,6,Sommerhus,100,1933,,Aktuel værdi
+Nordvej 41A6853 Vejers Strand,rand,2.717.488,02-04-2017,Alm. Salg,19.137,5,Sommerhus,142,2016,,Aktuel værdi
+Nordvej 196853 Vejers Strand,rand,3.100.000,31-03-2017,Alm. Salg,16.666,6,Sommerhus,186,2006,-17 %,Aktuel værdi
+"Vejers Havvej 68A, 1. TV6853 Vejers Strand",rand,840.000,10-03-2017,Alm. Salg,14.736,3,Lejlighed,57,1993,-6 %,Aktuel værdi
+Engesøvej 276853 Vejers Strand,rand,1.265.000,10-03-2017,Alm. Salg,12.650,5,Sommerhus,100,1992,-6 %,Aktuel værdi
+Violvej 126853 Vejers Strand,rand,2.475.000,03-03-2017,Fam. Salg,44.196,4,Sommerhus,56,1962,,Aktuel værdi
+Gøgevej 116853 Vejers Strand,rand,1.512.500,02-03-2017,Alm. Salg,13.750,3,Sommerhus,110,1972,-5 %,Aktuel værdi
+Havstien 146853 Vejers Strand,rand,385.000,26-02-2017,Alm. Salg,4.277,5,Sommerhus,90,1967,,Aktuel værdi
+Gulspurvevej 36853 Vejers Strand,rand,1.450.000,12-02-2017,Alm. Salg,18.125,5,Sommerhus,80,1971,-3 %,Aktuel værdi
+Risvej 206853 Vejers Strand,rand,837.500,11-02-2017,Alm. Salg,11.964,3,Sommerhus,70,1968,,Aktuel værdi
+Kratvej 36853 Vejers Strand,rand,2.000.000,06-02-2017,Alm. Salg,16.260,4,Sommerhus,123,1988,-2 %,Aktuel værdi
+Mosevej 46853 Vejers Strand,rand,828.750,03-02-2017,Fam. Salg,6.424,4,Sommerhus,129,1967,-58 %,Aktuel værdi
+Kratvej 266853 Vejers Strand,rand,1.180.000,01-02-2017,Alm. Salg,22.692,3,Sommerhus,52,1959,-8 %,Aktuel værdi
+Uglevej 56853 Vejers Strand,rand,667.422,18-01-2017,Auktion,7.945,5,Sommerhus,84,1963,,Aktuel værdi
+Engesøvej 1086853 Vejers Strand,rand,1.000.000,14-01-2017,Fam. Salg,15.384,4,Sommerhus,65,1974,-16 %,Aktuel værdi
+Vejers Havvej 656853 Vejers Strand,rand,1.742.500,31-12-2016,Andet,19.801,4,Sommerhus,88,1989,,Aktuel værdi
+Mosevej 76853 Vejers Strand,rand,1.041.153,23-12-2016,Alm. Salg,14.262,4,Sommerhus,73,1937,,Aktuel værdi
+Engesøvej 906853 Vejers Strand,rand,2.550.000,19-12-2016,Alm. Salg,20.400,4,Sommerhus,125,2010,-2 %,Aktuel værdi
+Vejers Havvej 75B6853 Vejers Strand,rand,786.250,15-12-2016,Fam. Salg,10.211,4,Sommerhus,77,1974,,Aktuel værdi
+Bjærgevej 116853 Vejers Strand,rand,138.375,13-12-2016,Fam. Salg,941,5,Sommerhus,147,2004,,Aktuel værdi
+Engesøvej 1176853 Vejers Strand,rand,500.000,07-12-2016,Fam. Salg,5.882,4,Sommerhus,85,1977,,Aktuel værdi
+Tyttebærvej 156853 Vejers Strand,rand,2.000.000,18-10-2016,Fam. Salg,11.049,6,Sommerhus,181,1992,,Aktuel værdi
+Aavej 196853 Vejers Strand,rand,2.065.000,13-10-2016,Alm. Salg,19.299,4,Sommerhus,107,2003,-6 %,Aktuel værdi
+Mågevej 116853 Vejers Strand,rand,1.225.000,07-10-2016,Alm. Salg,14.939,6,Sommerhus,82,1922,-6 %,Aktuel værdi
+"Mågevej 8G, ST6853 Vejers Strand",rand,525.000,01-10-2016,Fam. Salg,8.898,3,Sommerhus,59,1937,,Aktuel værdi
+Snogevej 206853 Vejers Strand,rand,1.580.000,28-09-2016,Alm. Salg,20.256,3,Sommerhus,78,1986,-1 %,Aktuel værdi
+Risvej 176853 Vejers Strand,rand,700.000,23-09-2016,Fam. Salg,20.000,3,Sommerhus,35,1940,,Aktuel værdi
+Kratvej 166853 Vejers Strand,rand,1.957.500,21-09-2016,Fam. Salg,24.778,6,Sommerhus,79,1954,,Aktuel værdi
+Torskevej 46853 Vejers Strand,rand,2.812.500,19-09-2016,Alm. Salg,20.529,6,Sommerhus,137,2008,-4 %,Aktuel værdi
+Tyttebærvej 166853 Vejers Strand,rand,2.365.000,11-09-2016,Alm. Salg,10.605,8,Sommerhus,223,1993,,Aktuel værdi
+Nordvej 11. 26853 Vejers Strand,rand,1.017.500,09-09-2016,Alm. Salg,16.411,4,Sommerhus,62,1992,,Aktuel værdi
+Spættevej 56853 Vejers Strand,rand,1.665.000,31-08-2016,Alm. Salg,15.707,4,Sommerhus,106,1967,-7 %,Aktuel værdi
+Ørnevej 106853 Vejers Strand,rand,875.000,30-08-2016,Alm. Salg,15.909,4,Sommerhus,55,1970,-12 %,Aktuel værdi
+Fugltoft 186853 Vejers Strand,rand,1.000.000,24-08-2016,Alm. Salg,10.416,5,Sommerhus,96,1988,,Aktuel værdi
+Vejers Havvej 216853 Vejers Strand,rand,700.000,22-08-2016,Alm. Salg,8.974,4,Sommerhus,78,1975,,Aktuel værdi
+Risvej 316853 Vejers Strand,rand,625.000,18-08-2016,Andet,8.223,4,Sommerhus,76,1965,,Aktuel værdi
+Nordvej 11. 226853 Vejers Strand,rand,1.085.000,30-07-2016,Alm. Salg,13.562,3,Sommerhus,80,1994,,Aktuel værdi
+Spættevej 1B6853 Vejers Strand,rand,1.400.000,24-07-2016,Alm. Salg,12.173,6,Sommerhus,115,1966,-8 %,Aktuel værdi
+Rådyrvej 156853 Vejers Strand,rand,1.625.000,19-07-2016,Alm. Salg,11.130,4,Sommerhus,146,1991,-10 %,Aktuel værdi
+"Mågevej 8E, 1. TH6853 Vejers Strand",rand,450.000,02-07-2016,Alm. Salg,9.574,3,Sommerhus,47,1937,,Aktuel værdi
+Mosevej 16853 Vejers Strand,rand,1.340.000,02-07-2016,Alm. Salg,15.402,5,Sommerhus,87,1952,-4 %,Aktuel værdi
+Vejers Sydstrand 1. 106853 Vejers Strand,rand,500.000,27-06-2016,Alm. Salg,17.857,2,Sommerhus,28,1961,,Aktuel værdi
+Mågevej 66853 Vejers Strand,rand,730.000,24-06-2016,Alm. Salg,10.138,3,Sommerhus,72,1959,,Aktuel værdi
+Vejers Sydstrand 126853 Vejers Strand,rand,1.520.000,19-06-2016,Alm. Salg,18.536,4,Sommerhus,82,1994,-8 %,Aktuel værdi
+Rylevej 306853 Vejers Strand,rand,1.100.000,14-06-2016,Alm. Salg,15.714,3,Sommerhus,70,1953,,Aktuel værdi
+Nordvej 63A6853 Vejers Strand,rand,1.326.258,13-06-2016,Fam. Salg,15.603,4,Sommerhus,85,1996,,Aktuel værdi
+Kræmmervej 436853 Vejers Strand,rand,835.000,05-06-2016,Alm. Salg,8.106,4,Sommerhus,103,2017,-7 %,Aktuel værdi
+Jafdalvej 376853 Vejers Strand,rand,980.000,03-06-2016,Andet,6.012,5,Sommerhus,163,1992,,Aktuel værdi
+Gulspurvevej 136853 Vejers Strand,rand,1.300.000,30-05-2016,Alm. Salg,14.130,4,Sommerhus,92,1985,-10 %,Aktuel værdi
+Nålevej 26853 Vejers Strand,rand,2.100.000,25-05-2016,Andet,15.441,3,Sommerhus,136,2009,,Aktuel værdi
+Uglevej 26853 Vejers Strand,rand,675.000,24-05-2016,Alm. Salg,10.384,4,Sommerhus,65,1939,-15 %,Aktuel værdi
+Vejers Sydstrand 106853 Vejers Strand,rand,900.000,17-05-2016,Alm. Salg,10.975,5,Sommerhus,82,1986,,Aktuel værdi
+Engesøvej 226853 Vejers Strand,rand,1.165.000,14-05-2016,Alm. Salg,20.086,4,Sommerhus,58,1988,-3 %,Aktuel værdi
+Bjærgevej 86853 Vejers Strand,rand,1.800.000,12-05-2016,Alm. Salg,27.692,5,Sommerhus,65,1931,-18 %,Aktuel værdi
+Fugltoft 156853 Vejers Strand,rand,1.100.000,28-04-2016,Alm. Salg,11.458,5,Sommerhus,96,1988,-12 %,Aktuel værdi
+Vejers Havvej 36853 Vejers Strand,rand,800.000,27-04-2016,Alm. Salg,12.698,6,Sommerhus,63,1964,-11 %,Aktuel værdi
+Engesøvej 1076853 Vejers Strand,rand,1.275.000,24-04-2016,Alm. Salg,14.825,4,Sommerhus,86,1974,-4 %,Aktuel værdi
+Uglevej 156853 Vejers Strand,rand,700.000,24-04-2016,Alm. Salg,12.068,4,Sommerhus,58,1935,,Aktuel værdi
+Rylevej 226853 Vejers Strand,rand,665.000,22-04-2016,Alm. Salg,14.456,3,Sommerhus,46,1950,,Aktuel værdi
+Ørnevej 316853 Vejers Strand,rand,960.000,20-04-2016,Alm. Salg,15.737,4,Sommerhus,61,1968,,Aktuel værdi
+Torskevej 16853 Vejers Strand,rand,1.350.000,20-04-2016,Alm. Salg,15.340,3,Sommerhus,88,1973,-10 %,Aktuel værdi
+Spættevej 26853 Vejers Strand,rand,1.275.000,15-04-2016,Alm. Salg,17.465,4,Sommerhus,73,1982,,Aktuel værdi
+Spættevej 66853 Vejers Strand,rand,905.000,15-04-2016,Alm. Salg,15.083,3,Sommerhus,60,1960,-9 %,Aktuel værdi
+Uglevej 16853 Vejers Strand,rand,1.425.000,06-04-2016,Alm. Salg,17.378,4,Sommerhus,82,2008,,Aktuel værdi
+Vibevej 36853 Vejers Strand,rand,324.166,22-03-2016,Fam. Salg,7.047,4,Sommerhus,46,1950,,Aktuel værdi
+Gøgevej 286853 Vejers Strand,rand,750.000,19-03-2016,Alm. Salg,11.194,4,Sommerhus,67,1960,,Aktuel værdi
+Nordvej 47A6853 Vejers Strand,rand,2.550.000,17-03-2016,Alm. Salg,18.345,5,Sommerhus,139,1993,-5 %,Aktuel værdi
+Rådyrvej 17A6853 Vejers Strand,rand,125.000,17-03-2016,Fam. Salg,1.116,5,Sommerhus,112,1990,,Aktuel værdi
+Risvej 76853 Vejers Strand,rand,1.500.000,16-03-2016,Alm. Salg,20.547,4,Sommerhus,73,1969,-12 %,Aktuel værdi
+Vejers Havvej 11E6853 Vejers Strand,rand,995.000,15-03-2016,Fam. Salg,16.864,2,Sommerhus,59,1877,,Aktuel værdi
+Jafdalvej 336853 Vejers Strand,rand,1.350.000,08-03-2016,Alm. Salg,19.852,4,Sommerhus,68,1984,-3 %,Aktuel værdi
+Nordvej 396853 Vejers Strand,rand,975.000,08-02-2016,Alm. Salg,14.130,4,Sommerhus,69,1975,-11 %,Aktuel værdi
+Risvej 306853 Vejers Strand,rand,956.250,07-02-2016,Fam. Salg,6.929,6,Sommerhus,138,1969,,Aktuel værdi
+Nordvej 396853 Vejers Strand,rand,980.000,03-02-2016,Alm. Salg,14.848,4,Sommerhus,66,1975,-11 %,Aktuel værdi
+Engesøvej 56853 Vejers Strand,rand,1.360.000,22-01-2016,Fam. Salg,14.166,4,Sommerhus,96,1990,,Aktuel værdi
+Nordvej 396853 Vejers Strand,rand,1.225.000,20-01-2016,Alm. Salg,17.753,4,Sommerhus,69,1975,0 %,Aktuel værdi
+Nordvej 396853 Vejers Strand,rand,1.300.000,20-01-2016,Alm. Salg,19.696,4,Sommerhus,66,1975,0 %,Aktuel værdi
+Nordvej 396853 Vejers Strand,rand,1.275.000,20-01-2016,Alm. Salg,18.478,4,Sommerhus,69,1975,0 %,Aktuel værdi
+Rådyrvej 146853 Vejers Strand,rand,335.000,12-01-2016,Andet,4.926,4,Sommerhus,68,1978,-66 %,Aktuel værdi
+Havstien 106853 Vejers Strand,rand,1.000.000,15-12-2015,Fam. Salg,6.024,8,Sommerhus,166,1973,,Aktuel værdi
+Rylevej 246853 Vejers Strand,rand,1.780.000,11-12-2015,Alm. Salg,19.777,4,Sommerhus,90,1972,,Aktuel værdi
+Nordvej 11. 176853 Vejers Strand,rand,900.000,08-12-2015,Alm. Salg,14.516,4,Sommerhus,62,1992,,Aktuel værdi
+Tyttebærvej 6A6853 Vejers Strand,rand,1.493.600,06-12-2015,Fam. Salg,18.670,4,Sommerhus,80,2014,,Aktuel værdi
+Spættevej 96853 Vejers Strand,rand,1.575.000,05-12-2015,Alm. Salg,20.192,4,Sommerhus,78,2002,-7 %,Aktuel værdi
+Rylevej 146853 Vejers Strand,rand,300.000,16-11-2015,Fam. Salg,4.545,4,Sommerhus,66,1978,,Aktuel værdi
+Gulspurvevej 126853 Vejers Strand,rand,1.120.000,15-11-2015,Alm. Salg,20.740,3,Sommerhus,54,1968,-6 %,Aktuel værdi
+Nordvej 396853 Vejers Strand,rand,1.140.000,13-11-2015,Alm. Salg,17.272,4,Sommerhus,66,1975,,Aktuel værdi
+Nordvej 396853 Vejers Strand,rand,1.235.000,09-11-2015,Alm. Salg,17.898,4,Sommerhus,69,1975,,Aktuel værdi
+Nordvej 396853 Vejers Strand,rand,1.092.500,09-11-2015,Alm. Salg,16.553,4,Sommerhus,66,1975,,Aktuel værdi
+Nordvej 396853 Vejers Strand,rand,1.100.000,06-11-2015,Alm. Salg,15.942,4,Sommerhus,69,1975,0 %,Aktuel værdi
+Sydvej 316853 Vejers Strand,rand,3.800.000,26-10-2015,Alm. Salg,38.775,5,Sommerhus,98,1936,-4 %,Aktuel værdi
+Rådyrvej 56853 Vejers Strand,rand,1.360.000,18-10-2015,Fam. Salg,19.428,3,Sommerhus,70,1972,,Aktuel værdi
+Aarrildsøvej 206853 Vejers Strand,rand,1.510.000,12-10-2015,Fam. Salg,19.610,4,Sommerhus,77,1980,,Aktuel værdi
+Risvej 156853 Vejers Strand,rand,1.687.500,09-09-2015,Alm. Salg,22.804,5,Sommerhus,74,1959,,Aktuel værdi
+Havstien 126853 Vejers Strand,rand,2.380.000,07-09-2015,Alm. Salg,19.349,5,Sommerhus,123,1974,-5 %,Aktuel værdi
+Mågevej 196853 Vejers Strand,rand,1.175.000,07-09-2015,Alm. Salg,14.687,4,Sommerhus,80,1929,,Aktuel værdi
+Vejers Havvej 576853 Vejers Strand,rand,1.385.000,29-08-2015,Alm. Salg,20.072,3,Sommerhus,69,1993,-8 %,Aktuel værdi
+Nordvej 726853 Vejers Strand,rand,1.335.000,24-08-2015,Alm. Salg,18.541,3,Sommerhus,72,1957,-11 %,Aktuel værdi
+Risvej 416853 Vejers Strand,rand,278.571,01-08-2015,Alm. Salg,3.979,4,Sommerhus,70,1960,,Aktuel værdi
+Snogevej 146853 Vejers Strand,rand,1.160.000,23-07-2015,Alm. Salg,14.146,5,Sommerhus,82,1970,-11 %,Aktuel værdi
+Ørnevej 196853 Vejers Strand,rand,960.000,22-07-2015,Alm. Salg,11.707,3,Sommerhus,82,1975,-17 %,Aktuel værdi
+Ørnevej 276853 Vejers Strand,rand,1.605.000,03-07-2015,Alm. Salg,19.814,4,Sommerhus,81,1969,-4 %,Aktuel værdi
+Spættevej 1A6853 Vejers Strand,rand,1.550.000,03-07-2015,Alm. Salg,10.130,5,Sommerhus,153,1989,-3 %,Aktuel værdi
+"Mågevej 8E, 1. TV6853 Vejers Strand",rand,310.000,25-06-2015,Alm. Salg,6.326,3,Sommerhus,49,1937,-22 %,Aktuel værdi
+Nålevej 46853 Vejers Strand,rand,950.000,24-06-2015,Alm. Salg,9.500,5,Sommerhus,100,1970,-17 %,Aktuel værdi
+Rådyrvej 16853 Vejers Strand,rand,1.650.000,14-06-2015,Alm. Salg,12.692,4,Sommerhus,130,1970,-3 %,Aktuel værdi
+Uglevej 86853 Vejers Strand,rand,62.500,08-06-2015,Alm. Salg,1.136,4,Sommerhus,55,1932,,Aktuel værdi
+Kratvej 446853 Vejers Strand,rand,800.000,03-06-2015,Fam. Salg,8.080,4,Sommerhus,99,1967,,Aktuel værdi
+Nordvej 716853 Vejers Strand,rand,1.961.200,02-06-2015,Fam. Salg,18.678,5,Sommerhus,105,1974,,Aktuel værdi
+Sydvej 236853 Vejers Strand,rand,1.026.100,01-06-2015,Fam. Salg,16.550,3,Sommerhus,62,1950,,Aktuel værdi
+Sydvej 43A6853 Vejers Strand,rand,1.132.500,27-05-2015,Alm. Salg,10.785,4,Sommerhus,105,2006,,Aktuel værdi
+Nordvej 59A6853 Vejers Strand,rand,2.337.500,17-05-2015,Fam. Salg,23.611,4,Sommerhus,99,2005,,Aktuel værdi
+Ternevej 66853 Vejers Strand,rand,1.165.000,06-05-2015,Alm. Salg,20.803,4,Sommerhus,56,1961,-9 %,Aktuel værdi
+Nordvej 11. 166853 Vejers Strand,rand,975.000,04-05-2015,Alm. Salg,15.725,4,Sommerhus,62,1992,-2 %,Aktuel værdi
+Fugltoft 96853 Vejers Strand,rand,1.200.000,03-05-2015,Alm. Salg,12.500,5,Sommerhus,96,1988,-14 %,Aktuel værdi
+Bjærgevej 76853 Vejers Strand,rand,3.750.000,23-04-2015,Alm. Salg,24.038,5,Sommerhus,156,1975,,Aktuel værdi
+Vejers Havvej 58B6853 Vejers Strand,rand,1.800.000,23-04-2015,Alm. Salg,35.294,2,Engroshandel,51,2002,,Aktuel værdi
+Nordvej 786853 Vejers Strand,rand,1.225.000,23-04-2015,Alm. Salg,14.939,4,Sommerhus,82,1963,-6 %,Aktuel værdi
+Engesøvej 736853 Vejers Strand,rand,1.375.000,17-04-2015,Alm. Salg,16.176,4,Sommerhus,85,1984,-8 %,Aktuel værdi
+Bjærgevej 216853 Vejers Strand,rand,2.600.000,01-04-2015,Alm. Salg,26.000,3,Sommerhus,100,2016,,Aktuel værdi
+Havstien 56853 Vejers Strand,rand,1.400.000,26-03-2015,Alm. Salg,26.923,3,Sommerhus,52,1967,-7 %,Aktuel værdi
+Havstien 16853 Vejers Strand,rand,1.275.000,23-03-2015,Fam. Salg,17.000,5,Sommerhus,75,1964,,Aktuel værdi
+Engesøvej 1186853 Vejers Strand,rand,1.500.000,21-03-2015,Alm. Salg,15.463,4,Sommerhus,97,1993,-9 %,Aktuel værdi
+Vejers Havvej 81D6853 Vejers Strand,rand,1.535.000,19-03-2015,Alm. Salg,38.375,2,Engroshandel,40,2001,,Aktuel værdi
+Vejers Havvej 586853 Vejers Strand,rand,945.000,06-03-2015,Alm. Salg,7.875,6,Villa,120,1957,,Aktuel værdi
+Ørnevej 86853 Vejers Strand,rand,950.000,23-02-2015,Alm. Salg,17.592,4,Sommerhus,54,1969,-5 %,Aktuel værdi
+Risvej 25A6853 Vejers Strand,rand,1.530.000,14-02-2015,Fam. Salg,16.105,3,Sommerhus,95,2012,,Aktuel værdi
+Nordvej 11. 156853 Vejers Strand,rand,1.015.000,12-02-2015,Alm. Salg,15.615,4,Sommerhus,65,1992,,Aktuel værdi
+Engesøvej 946853 Vejers Strand,rand,1.475.000,07-02-2015,Alm. Salg,21.376,4,Sommerhus,69,1985,-8 %,Aktuel værdi
+Torskevej 186853 Vejers Strand,rand,675.000,06-02-2015,Alm. Salg,8.881,4,Sommerhus,76,1976,,Aktuel værdi
+Ørnevej 296853 Vejers Strand,rand,1.041.250,13-01-2015,Fam. Salg,8.677,5,Sommerhus,120,2006,,Aktuel værdi
+Vejers Sydstrand 1. 176853 Vejers Strand,rand,350.000,15-12-2014,Fam. Salg,-,2,Sommerhus,24,1961,,Aktuel værdi
+Stendalsvej 56853 Vejers Strand,rand,786.250,11-12-2014,Fam. Salg,11.735,4,Sommerhus,67,1964,,Aktuel værdi
+Rylevej 346853 Vejers Strand,rand,624.000,05-12-2014,Fam. Salg,7.428,5,Sommerhus,84,1954,,Aktuel værdi
+Nordvej 966853 Vejers Strand,rand,1.657.500,01-12-2014,Fam. Salg,20.981,4,Sommerhus,79,1930,,Aktuel værdi
+Engesøvej 716853 Vejers Strand,rand,1.485.000,26-11-2014,Alm. Salg,14.142,4,Sommerhus,105,1982,-11 %,Aktuel værdi
+Kræmmervej 416853 Vejers Strand,rand,900.000,14-11-2014,Alm. Salg,8.411,4,Sommerhus,107,2015,-10 %,Aktuel værdi
+Nordvej 11. 36853 Vejers Strand,rand,950.000,12-11-2014,Alm. Salg,15.322,4,Sommerhus,62,1992,,Aktuel værdi
+Ternevej 3A6853 Vejers Strand,rand,399.500,05-11-2014,Fam. Salg,7.263,3,Sommerhus,55,1961,,Aktuel værdi
+Rådyrvej 106853 Vejers Strand,rand,900.000,13-10-2014,Fam. Salg,13.846,3,Sommerhus,65,1971,,Aktuel værdi
+Vejers Havvej 66853 Vejers Strand,rand,1.062.500,12-10-2014,Fam. Salg,26.562,3,Sommerhus,40,1960,,Aktuel værdi
+Gulspurvevej 26853 Vejers Strand,rand,1.162.500,11-10-2014,Alm. Salg,12.916,4,Sommerhus,90,1969,-5 %,Aktuel værdi
+Mosevej 56853 Vejers Strand,rand,1.912.500,01-10-2014,Fam. Salg,18.935,4,Sommerhus,101,1934,,Aktuel værdi
+Sydvej 196853 Vejers Strand,rand,3.100.000,25-09-2014,Alm. Salg,28.440,5,Sommerhus,109,1993,,Aktuel værdi
+"Mågevej 8C, 1. TV6853 Vejers Strand",rand,450.000,23-09-2014,Alm. Salg,7.894,3,Sommerhus,57,1937,,Aktuel værdi
+Torskevej 36853 Vejers Strand,rand,575.000,22-09-2014,Fam. Salg,7.770,4,Sommerhus,74,1971,,Aktuel værdi
+Lyngdalsvej 76853 Vejers Strand,rand,832.700,02-09-2014,Fam. Salg,19.365,3,Sommerhus,43,1965,,Aktuel værdi
+Mosevej 106853 Vejers Strand,rand,1.550.000,20-08-2014,Alm. Salg,22.463,4,Sommerhus,69,1980,-8 %,Aktuel værdi
+Ørnevej 126853 Vejers Strand,rand,1.500.000,18-08-2014,Alm. Salg,17.857,4,Sommerhus,84,1969,-6 %,Aktuel værdi
+"Vejers Havvej 17, ST. 26853 Vejers Strand",rand,1.375.000,07-08-2014,Alm. Salg,39.285,2,Anden beboelse,35,1975,-8 %,Aktuel værdi
+Rylevej 156853 Vejers Strand,rand,1.420.000,17-07-2014,Alm. Salg,22.187,4,Sommerhus,64,1937,,Aktuel værdi
+Nordvej 286853 Vejers Strand,rand,1.200.000,14-07-2014,Fam. Salg,23.076,5,Sommerhus,52,1950,,Aktuel værdi
+Kratvej 56853 Vejers Strand,rand,1.165.000,11-07-2014,Alm. Salg,19.745,3,Sommerhus,59,1959,-10 %,Aktuel værdi
+Vejers Sydstrand 1. 226853 Vejers Strand,rand,525.000,30-06-2014,Alm. Salg,-,2,Sommerhus,31,1961,,Aktuel værdi
+Kræmmervej 116853 Vejers Strand,rand,1.040.000,21-06-2014,Alm. Salg,13.866,4,Sommerhus,75,1969,-13 %,Aktuel værdi
+Mosevej 86853 Vejers Strand,rand,1.025.000,09-06-2014,Alm. Salg,17.372,3,Sommerhus,59,1966,-14 %,Aktuel værdi
+Vejers Sydstrand 1. 96853 Vejers Strand,rand,300.000,10-05-2014,Fam. Salg,-,2,Sommerhus,31,1961,,Aktuel værdi
+Vejers Sydstrand 1. 156853 Vejers Strand,rand,480.000,08-05-2014,Alm. Salg,-,2,Sommerhus,28,1961,,Aktuel værdi
+Rylevej 46853 Vejers Strand,rand,365.000,24-04-2014,Fam. Salg,9.125,2,Sommerhus,40,1977,,Aktuel værdi
+Nordvej 946853 Vejers Strand,rand,2.337.500,26-03-2014,Fam. Salg,18.850,5,Sommerhus,124,2009,,Aktuel værdi
+Engesøvej 646853 Vejers Strand,rand,1.350.000,14-03-2014,Alm. Salg,19.852,4,Sommerhus,68,1978,,Aktuel værdi
+Rådyrvej 186853 Vejers Strand,rand,1.232.500,13-03-2014,Fam. Salg,20.889,3,Sommerhus,59,1972,,Aktuel værdi
+Gøgevej 206853 Vejers Strand,rand,365.000,17-02-2014,Fam. Salg,3.802,6,Sommerhus,96,1976,,Aktuel værdi
+Engesøvej 536853 Vejers Strand,rand,1.375.000,05-02-2014,Alm. Salg,13.613,6,Sommerhus,101,1985,-8 %,Aktuel værdi
+Rådyrvej 226853 Vejers Strand,rand,1.578.000,16-01-2014,Alm. Salg,17.533,5,Sommerhus,90,1982,-1 %,Aktuel værdi
+Engesøvej 636853 Vejers Strand,rand,1.530.000,14-01-2014,Alm. Salg,11.417,7,Sommerhus,134,1981,,Aktuel værdi
+Nordvej 776853 Vejers Strand,rand,450.000,01-01-2014,Fam. Salg,7.500,5,Sommerhus,60,1927,,Aktuel værdi
+Kræmmervej 256853 Vejers Strand,rand,310.269,31-12-2013,Fam. Salg,3.198,6,Sommerhus,97,1995,,Aktuel værdi
+Engesøvej 136853 Vejers Strand,rand,1.317.500,16-12-2013,Fam. Salg,16.067,4,Sommerhus,82,1991,,Aktuel værdi
+Risvej 226853 Vejers Strand,rand,1.220.000,27-11-2013,Fam. Salg,27.111,3,Sommerhus,45,1955,,Aktuel værdi
+Gøgevej 276853 Vejers Strand,rand,1.050.000,24-09-2013,Alm. Salg,14.189,3,Sommerhus,74,1961,-19 %,Aktuel værdi
+Ørnevej 326853 Vejers Strand,rand,1.077.000,12-09-2013,Fam. Salg,16.569,4,Sommerhus,65,1972,,Aktuel værdi
+Vejers Havvej 166853 Vejers Strand,rand,900.000,10-09-2013,Alm. Salg,10.465,3,Sommerhus,86,1981,-25 %,Aktuel værdi
+Lyngdalsvej 66853 Vejers Strand,rand,1.630.000,06-09-2013,Alm. Salg,18.314,4,Sommerhus,89,1964,,Aktuel værdi
+Muffparken 76853 Vejers Strand,rand,717.000,02-09-2013,Alm. Salg,8.337,5,Sommerhus,86,1968,,Aktuel værdi
+Vejers Havvej 186853 Vejers Strand,rand,850.000,28-08-2013,Alm. Salg,5.379,5,Sommerhus,158,2015,-5 %,Aktuel værdi
+Violvej 96853 Vejers Strand,rand,525.000,25-08-2013,Fam. Salg,7.000,5,Sommerhus,75,1961,,Aktuel værdi
+Torskevej 146853 Vejers Strand,rand,950.000,19-08-2013,Alm. Salg,18.269,3,Sommerhus,52,1977,-13 %,Aktuel værdi
+Rylevej 276853 Vejers Strand,rand,1.050.000,08-08-2013,Alm. Salg,13.815,4,Sommerhus,76,2015,5 %,Aktuel værdi
+"Mågevej 8B, ST6853 Vejers Strand",rand,595.000,29-07-2013,Alm. Salg,9.754,3,Sommerhus,61,1937,,Aktuel værdi
+Bjærgevej 146853 Vejers Strand,rand,1.725.000,25-07-2013,Andet,13.582,4,Sommerhus,127,2008,,Aktuel værdi
+Engesøvej 806853 Vejers Strand,rand,1.400.000,08-07-2013,Fam. Salg,14.285,5,Sommerhus,98,1980,,Aktuel værdi
+Rådyrvej 76853 Vejers Strand,rand,920.000,19-06-2013,Alm. Salg,16.727,4,Sommerhus,55,1966,-8 %,Aktuel værdi
+Bjærgevej 316853 Vejers Strand,rand,2.100.000,10-06-2013,Alm. Salg,24.418,4,Sommerhus,86,1928,,Aktuel værdi
+Mågevej 136853 Vejers Strand,rand,649.500,24-05-2013,Alm. Salg,7.552,4,Sommerhus,86,1928,,Aktuel værdi
+Nordvej 1006853 Vejers Strand,rand,2.845.000,24-05-2013,Alm. Salg,26.100,5,Sommerhus,109,1957,0 %,Aktuel værdi
+Muffparken 86853 Vejers Strand,rand,810.000,19-05-2013,Alm. Salg,14.727,4,Sommerhus,55,1968,-25 %,Aktuel værdi
+Rosenvej 86853 Vejers Strand,rand,1.750.000,18-05-2013,Alm. Salg,33.653,3,Sommerhus,52,1937,-26 %,Aktuel værdi
+Risvej 166853 Vejers Strand,rand,1.450.000,25-04-2013,Alm. Salg,26.363,3,Sommerhus,55,1950,-3 %,Aktuel værdi
+Risvej 216853 Vejers Strand,rand,1.317.500,14-04-2013,Fam. Salg,18.298,3,Sommerhus,72,1987,,Aktuel værdi
+Tyttebærvej 2A6853 Vejers Strand,rand,912.500,25-02-2013,Alm. Salg,10.138,4,Sommerhus,90,1937,,Aktuel værdi
+Mågevej 2A6853 Vejers Strand,rand,900.000,19-02-2013,Alm. Salg,15.000,4,Sommerhus,60,1996,,Aktuel værdi
+Spurvevej 26853 Vejers Strand,rand,2.350.000,15-02-2013,Alm. Salg,28.313,4,Sommerhus,83,2012,-11 %,Aktuel værdi
+Vejers Sydstrand 1. 266853 Vejers Strand,rand,562.500,31-01-2013,Alm. Salg,-,2,Sommerhus,39,1961,-6 %,Aktuel værdi
+Rosenvej 56853 Vejers Strand,rand,4.224.603,11-01-2013,Auktion,28.164,6,Villa,150,2006,,Aktuel værdi
+Vejers Havvej 486853 Vejers Strand,rand,255.000,17-12-2012,Fam. Salg,2.217,4,Sommerhus,115,1970,,Aktuel værdi
+Spættevej 11B6853 Vejers Strand,rand,950.000,11-12-2012,Alm. Salg,20.212,4,Sommerhus,47,1957,-9 %,Aktuel værdi
+Gøgevej 86853 Vejers Strand,rand,865.500,26-11-2012,Fam. Salg,8.165,4,Sommerhus,106,1991,-57 %,Aktuel værdi
+Gulspurvevej 196853 Vejers Strand,rand,1.062.500,21-11-2012,Fam. Salg,16.346,4,Sommerhus,65,1972,,Aktuel værdi
+Kratvej 566853 Vejers Strand,rand,1.315.000,12-11-2012,Alm. Salg,19.338,6,Sommerhus,68,1965,-12 %,Aktuel værdi
+Peders Vej 96853 Vejers Strand,rand,1.065.000,28-10-2012,Fam. Salg,16.136,3,Sommerhus,66,1976,,Aktuel værdi
+Engesøvej 926853 Vejers Strand,rand,2.465.000,18-10-2012,Fam. Salg,17.862,4,Sommerhus,138,2011,,Aktuel værdi
+Spættevej 166853 Vejers Strand,rand,850.000,10-10-2012,Alm. Salg,11.643,4,Sommerhus,73,1975,,Aktuel værdi
+Gulspurvevej 236853 Vejers Strand,rand,1.550.000,07-10-2012,Alm. Salg,16.666,4,Sommerhus,93,1979,-10 %,Aktuel værdi
+Nordvej 17A6853 Vejers Strand,rand,3.100.000,17-09-2012,Alm. Salg,26.271,5,Sommerhus,118,1935,-11 %,Aktuel værdi
+Nordvej 296853 Vejers Strand,rand,1.565.000,12-09-2012,Alm. Salg,11.766,6,Sommerhus,133,1958,-12 %,Aktuel værdi
+Engesøvej 246853 Vejers Strand,rand,1.925.000,21-08-2012,Alm. Salg,17.342,6,Sommerhus,111,1993,-8 %,Aktuel værdi
+Rylevej 256853 Vejers Strand,rand,1.450.000,21-07-2012,Alm. Salg,9.062,4,Sommerhus,160,2015,-15 %,Aktuel værdi
+Bjærgevej 126853 Vejers Strand,rand,3.450.000,20-07-2012,Alm. Salg,28.991,5,Sommerhus,119,2008,-12 %,Aktuel værdi
+Havstien 166853 Vejers Strand,rand,2.275.000,11-07-2012,Alm. Salg,35.000,4,Sommerhus,65,1969,-9 %,Aktuel værdi
+Vibevej 76853 Vejers Strand,rand,1.065.000,11-07-2012,Alm. Salg,15.000,4,Sommerhus,71,1935,,Aktuel værdi
+Risvej 366853 Vejers Strand,rand,5.700.000,06-07-2012,Alm. Salg,19.000,11,Sommerhus,300,2008,,Aktuel værdi
+Mågevej 126853 Vejers Strand,rand,1.200.000,03-07-2012,Alm. Salg,17.647,4,Sommerhus,68,1973,-20 %,Aktuel værdi
+Rosenvej 196853 Vejers Strand,rand,2.150.000,27-06-2012,Alm. Salg,25.903,3,Sommerhus,83,1985,-46 %,Aktuel værdi
+Fugltoft 46853 Vejers Strand,rand,722.500,18-06-2012,Fam. Salg,7.526,5,Sommerhus,96,1988,,Aktuel værdi
+Vibevej 26853 Vejers Strand,rand,475.000,13-06-2012,Alm. Salg,7.421,3,Sommerhus,64,1954,,Aktuel værdi
+Mosevej 206853 Vejers Strand,rand,2.167.500,31-05-2012,Fam. Salg,20.448,4,Sommerhus,106,2003,,Aktuel værdi
+Muffparken 16853 Vejers Strand,rand,2.390.000,30-05-2012,Alm. Salg,20.782,7,Sommerhus,115,1968,-8 %,Aktuel værdi
+Havstien 96853 Vejers Strand,rand,1.710.000,22-05-2012,Alm. Salg,24.084,3,Sommerhus,71,1978,-4 %,Aktuel værdi
+Engesøvej 216853 Vejers Strand,rand,4.295.000,11-05-2012,Alm. Salg,22.253,5,Sommerhus,193,1991,,Aktuel værdi
+Mågevej 256853 Vejers Strand,rand,1.195.000,20-03-2012,Alm. Salg,12.849,5,Sommerhus,93,1940,,Aktuel værdi
+Aarrildsøvej 146853 Vejers Strand,rand,1.429.300,28-01-2012,Alm. Salg,14.888,4,Sommerhus,96,1977,,Aktuel værdi
+Tyttebærvej 1A6853 Vejers Strand,rand,3.300.000,09-01-2012,Alm. Salg,23.913,5,Sommerhus,138,2008,-6 %,Aktuel værdi
+Nordvej 90A6853 Vejers Strand,rand,1.300.000,26-12-2011,Alm. Salg,8.965,5,Sommerhus,145,2012,-7 %,Aktuel værdi
+Peders Vej 186853 Vejers Strand,rand,1.750.000,22-12-2011,Alm. Salg,20.833,4,Sommerhus,84,1994,-11 %,Aktuel værdi
+Vejers Sydstrand 1. 206853 Vejers Strand,rand,500.000,21-12-2011,Alm. Salg,-,2,Sommerhus,31,1961,,Aktuel værdi
+Muffparken 176853 Vejers Strand,rand,1.200.000,19-12-2011,Fam. Salg,17.910,4,Sommerhus,67,1968,,Aktuel værdi
+Nålevej 106853 Vejers Strand,rand,600.000,14-12-2011,Fam. Salg,6.896,5,Sommerhus,87,1967,,Aktuel værdi
+Gøgevej 26853 Vejers Strand,rand,1.000.000,13-12-2011,Alm. Salg,14.285,4,Villa,70,1972,-9 %,Aktuel værdi
+Risvej 546853 Vejers Strand,rand,2.245.000,21-11-2011,Fam. Salg,21.380,5,Sommerhus,105,1960,,Aktuel værdi
+"Vejers Havvej 60, 16853 Vejers Strand",rand,1.400.000,28-10-2011,Alm. Salg,28.000,2,Anden beboelse,50,1995,,Aktuel værdi
+Fugltoft 86853 Vejers Strand,rand,1.900.000,11-10-2011,Alm. Salg,17.272,5,Sommerhus,110,1988,-16 %,Aktuel værdi
+Havstien 2A6853 Vejers Strand,rand,1.317.500,04-10-2011,Fam. Salg,-,6,Sommerhus,107,1961,,Aktuel værdi
+Spættevej 226853 Vejers Strand,rand,2.350.000,28-09-2011,Alm. Salg,20.614,4,Sommerhus,114,2004,-6 %,Aktuel værdi
+Risvej 16853 Vejers Strand,rand,1.700.000,27-09-2011,Fam. Salg,9.604,6,Sommerhus,177,1957,,Aktuel værdi
+Engesøvej 686853 Vejers Strand,rand,1.275.000,13-09-2011,Fam. Salg,13.281,4,Sommerhus,96,1983,,Aktuel værdi
+Jafdalvej 676853 Vejers Strand,rand,2.700.000,21-08-2011,Alm. Salg,25.961,5,Sommerhus,104,1987,-7 %,Aktuel værdi
+Peders Vej 106853 Vejers Strand,rand,1.275.000,25-07-2011,Alm. Salg,19.318,3,Sommerhus,66,1973,-9 %,Aktuel værdi
+Mosevej 226853 Vejers Strand,rand,4.324.175,15-07-2011,Alm. Salg,13.103,10,Sommerhus,330,2013,-33 %,Aktuel værdi
+Rylevej 196853 Vejers Strand,rand,125.000,15-07-2011,Alm. Salg,3.125,5,Sommerhus,40,1927,,Aktuel værdi
+Violvej 106853 Vejers Strand,rand,1.300.000,01-06-2011,Andet,16.250,4,Sommerhus,80,1961,,Aktuel værdi
+Nordvej 11. 66853 Vejers Strand,rand,1.200.000,24-05-2011,Alm. Salg,19.354,4,Sommerhus,62,1992,,Aktuel værdi
+Engesøvej 16853 Vejers Strand,rand,2.600.000,20-05-2011,Alm. Salg,13.197,8,Sommerhus,197,1995,-7 %,Aktuel værdi
+Spurvevej 56853 Vejers Strand,rand,2.000.000,03-05-2011,Alm. Salg,28.169,5,Sommerhus,71,1956,-5 %,Aktuel værdi
+Ternevej 106853 Vejers Strand,rand,1.500.000,18-03-2011,Alm. Salg,21.428,4,Sommerhus,70,1972,-4 %,Aktuel værdi
+Risvej 86853 Vejers Strand,rand,1.275.000,04-03-2011,Alm. Salg,9.107,5,Sommerhus,140,2014,-7 %,Aktuel værdi
+Kræmmervej 96853 Vejers Strand,rand,1.345.000,28-02-2011,Alm. Salg,18.680,3,Sommerhus,72,1969,0 %,Aktuel værdi
+Nordvej 25B6853 Vejers Strand,rand,1.400.000,24-01-2011,Alm. Salg,11.864,4,Sommerhus,118,2011,-18 %,Aktuel værdi
+Nordvej 576853 Vejers Strand,rand,2.400.000,10-01-2011,Alm. Salg,26.373,4,Sommerhus,91,1978,-13 %,Aktuel værdi
+Vejers Sydstrand 1. 216853 Vejers Strand,rand,575.000,06-01-2011,Alm. Salg,-,2,Sommerhus,31,1961,,Aktuel værdi
+Vejers Havvej 416853 Vejers Strand,rand,959.315,28-12-2010,Fam. Salg,6.149,5,Sommerhus,156,2010,,Aktuel værdi
+Snogevej 46853 Vejers Strand,rand,1.550.000,16-12-2010,Alm. Salg,23.134,4,Sommerhus,67,1985,-5 %,Aktuel værdi
+Violvej 186853 Vejers Strand,rand,1.615.000,15-12-2010,Alm. Salg,19.457,7,Sommerhus,83,1964,,Aktuel værdi
+Nordvej 266853 Vejers Strand,rand,539.000,09-12-2010,Fam. Salg,4.855,4,Sommerhus,111,2004,-82 %,Aktuel værdi
+Torskevej 306853 Vejers Strand,rand,977.500,07-12-2010,Fam. Salg,14.810,4,Sommerhus,66,1973,,Aktuel værdi
+Ørnevej 46853 Vejers Strand,rand,894.900,14-11-2010,Fam. Salg,16.572,3,Sommerhus,54,1970,,Aktuel værdi
+Muffparken 106853 Vejers Strand,rand,1.500.000,10-11-2010,Alm. Salg,13.043,5,Sommerhus,115,1968,-5 %,Aktuel værdi
+Torskevej 196853 Vejers Strand,rand,1.100.000,02-11-2010,Alm. Salg,15.277,4,Sommerhus,72,1973,-13 %,Aktuel værdi
+Rylevej 66853 Vejers Strand,rand,103.321,22-10-2010,Alm. Salg,1.614,5,Sommerhus,64,1968,,Aktuel værdi
+Ternevej 116853 Vejers Strand,rand,583.333,30-09-2010,Alm. Salg,5.608,5,Sommerhus,104,1918,,Aktuel værdi
+Jafdalvej 876853 Vejers Strand,rand,1.950.000,22-09-2010,Alm. Salg,10.773,6,Sommerhus,181,1988,-19 %,Aktuel værdi
+Kræmmervej 496853 Vejers Strand,rand,975.000,16-09-2010,Alm. Salg,6.678,6,Stuehus,146,1870,,
+Jafdalvej 796853 Vejers Strand,rand,1.487.500,09-09-2010,Fam. Salg,16.346,5,Sommerhus,91,1988,,Aktuel værdi
+Engesøvej 46853 Vejers Strand,rand,1.780.000,12-08-2010,Alm. Salg,19.777,4,Sommerhus,90,1990,-4 %,Aktuel værdi
+Fugltoft 76853 Vejers Strand,rand,1.520.000,30-07-2010,Alm. Salg,15.833,5,Sommerhus,96,1988,-5 %,Aktuel værdi
+Muffparken 66853 Vejers Strand,rand,1.310.000,19-07-2010,Alm. Salg,19.552,4,Sommerhus,67,1968,-3 %,Aktuel værdi
+Nålevej 66853 Vejers Strand,rand,1.000.000,06-07-2010,Alm. Salg,-,4,Sommerhus,104,1966,,Aktuel værdi
+Kratvej 116853 Vejers Strand,rand,1.645.000,20-06-2010,Alm. Salg,31.634,4,Sommerhus,52,1960,-12 %,Aktuel værdi
+Mågevej 56853 Vejers Strand,rand,337.500,08-06-2010,Fam. Salg,3.068,8,Sommerhus,110,1932,,Aktuel værdi
+Nordvej 11. 126853 Vejers Strand,rand,925.000,28-05-2010,Alm. Salg,14.919,4,Sommerhus,62,1992,,Aktuel værdi
+Vejers Havvej 76853 Vejers Strand,rand,10.800.000,26-05-2010,Alm. Salg,135.000,7,"Ferie, andet",80,1971,,Aktuel værdi
+Peders Vej 76853 Vejers Strand,rand,1.310.000,25-05-2010,Alm. Salg,19.264,4,Sommerhus,68,1980,,Aktuel værdi
+Duevej 26853 Vejers Strand,rand,800.000,17-05-2010,Alm. Salg,9.523,5,Sommerhus,84,1950,0 %,Aktuel værdi
+Gulspurvevej 216853 Vejers Strand,rand,1.550.000,10-05-2010,Alm. Salg,20.129,4,Sommerhus,77,1973,0 %,Aktuel værdi
+Gøgevej 46853 Vejers Strand,rand,2.535.000,03-05-2010,Fam. Salg,15.000,5,Sommerhus,169,1977,,Aktuel værdi
+Jafdalvej 316853 Vejers Strand,rand,1.572.500,07-04-2010,Fam. Salg,25.362,4,Sommerhus,62,1984,,Aktuel værdi
+Nordvej 116D6853 Vejers Strand,rand,4.250.000,08-03-2010,Alm. Salg,21.573,7,Sommerhus,197,2003,,Aktuel værdi
+Vejers Havvej 7C6853 Vejers Strand,rand,2.580.000,01-03-2010,Alm. Salg,21.500,5,Sommerhus,120,2007,-4 %,Aktuel værdi
+Nordvej 102A6853 Vejers Strand,rand,3.300.000,16-02-2010,Alm. Salg,27.966,4,Sommerhus,118,2006,,Aktuel værdi
+Jafdalvej 296853 Vejers Strand,rand,1.100.000,15-01-2010,Alm. Salg,14.102,4,Sommerhus,78,1984,,Aktuel værdi
+Kræmmervej 396853 Vejers Strand,rand,2.700.000,17-12-2009,Alm. Salg,25.961,4,Sommerhus,104,2004,-8 %,Aktuel værdi
+Uglevej 66853 Vejers Strand,rand,120.000,11-12-2009,Alm. Salg,3.243,3,Sommerhus,37,1932,,Aktuel værdi
+Rådyrvej 166853 Vejers Strand,rand,425.000,01-12-2009,Fam. Salg,4.473,5,Sommerhus,95,1974,,Aktuel værdi
+Mågevej 96853 Vejers Strand,rand,1.360.000,26-11-2009,Fam. Salg,18.133,4,Sommerhus,75,1959,,Aktuel værdi
+Plantørstien 26853 Vejers Strand,rand,1.085.000,24-11-2009,Alm. Salg,12.329,4,Sommerhus,88,1935,-13 %,Aktuel værdi
+Nordvej 11. 236853 Vejers Strand,rand,987.500,06-11-2009,Alm. Salg,15.192,4,Sommerhus,65,1992,,Aktuel værdi
+Ørnevej 136853 Vejers Strand,rand,1.187.000,04-11-2009,Alm. Salg,12.494,4,Sommerhus,95,1970,-5 %,Aktuel værdi
+Engesøvej 236853 Vejers Strand,rand,2.075.000,28-10-2009,Alm. Salg,23.579,5,Sommerhus,88,1991,-8 %,Aktuel værdi
+Gøgevej 106853 Vejers Strand,rand,1.480.000,07-10-2009,Alm. Salg,10.068,4,Sommerhus,147,1986,6 %,Aktuel værdi
+Mosevej 4C6853 Vejers Strand,rand,1.375.000,03-10-2009,Alm. Salg,-,3,Sommerhus,88,1975,-8 %,Aktuel værdi
+Gøgevej 256853 Vejers Strand,rand,1.300.000,08-09-2009,Fam. Salg,14.444,4,Sommerhus,90,1972,,Aktuel værdi
+Mågevej 36853 Vejers Strand,rand,450.000,13-08-2009,Fam. Salg,9.375,3,Sommerhus,48,1961,,Aktuel værdi
+Rylevej 106853 Vejers Strand,rand,585.000,31-07-2009,Alm. Salg,6.223,4,Sommerhus,94,2010,0 %,Aktuel værdi
+Torskevej 236853 Vejers Strand,rand,1.200.000,27-07-2009,Alm. Salg,20.338,4,Sommerhus,59,1973,-6 %,Aktuel værdi
+Violvej 116853 Vejers Strand,rand,1.650.000,24-07-2009,Alm. Salg,27.500,5,Sommerhus,60,1935,-13 %,Aktuel værdi
+Vejers Havvej 766853 Vejers Strand,rand,892.500,21-07-2009,Fam. Salg,14.875,3,Sommerhus,60,1974,,Aktuel værdi
+Bjærgevej 136853 Vejers Strand,rand,3.600.000,14-07-2009,Alm. Salg,36.000,6,Sommerhus,100,1927,-15 %,Aktuel værdi
+Risvej 56853 Vejers Strand,rand,1.025.000,24-06-2009,Alm. Salg,18.303,4,Sommerhus,56,1934,,Aktuel værdi
+Nordvej 16853 Vejers Strand,rand,5.400.000,23-06-2009,Alm. Salg,79.411,42,Ukendt,68,1927,,Aktuel værdi
+Fugltoft 26853 Vejers Strand,rand,1.535.000,21-06-2009,Alm. Salg,15.989,5,Sommerhus,96,1988,0 %,Aktuel værdi
+Vejers Havvej 346853 Vejers Strand,rand,925.000,23-05-2009,Alm. Salg,6.379,6,Sommerhus,145,2015,-23 %,Aktuel værdi
+Vejers Sydstrand 46853 Vejers Strand,rand,2.050.000,04-05-2009,Alm. Salg,17.672,6,Sommerhus,116,1957,-10 %,Aktuel værdi
+Uglevej 76853 Vejers Strand,rand,345.000,27-04-2009,Fam. Salg,5.227,3,Sommerhus,66,1992,,Aktuel værdi
+Engesøvej 1026853 Vejers Strand,rand,1.400.000,17-04-2009,Alm. Salg,-,4,Sommerhus,69,1983,-8 %,Aktuel værdi
+Muffparken 196853 Vejers Strand,rand,1.600.000,06-04-2009,Alm. Salg,18.181,6,Sommerhus,88,1968,-8 %,Aktuel værdi
+Vejers Havvej 386853 Vejers Strand,rand,1.450.000,24-03-2009,Alm. Salg,10.069,5,Villa,144,1969,-27 %,Aktuel værdi
+Jafdalvej 596853 Vejers Strand,rand,1.850.000,20-03-2009,Alm. Salg,24.025,4,Sommerhus,77,1987,-7 %,Aktuel værdi
+Engesøvej 1196853 Vejers Strand,rand,1.950.000,26-02-2009,Fam. Salg,17.105,4,Sommerhus,114,2000,,Aktuel værdi
+Vejers Havvej 736853 Vejers Strand,rand,2.375.000,30-01-2009,Andet,16.964,6,Sommerhus,140,1973,-5 %,Aktuel værdi
+Jafdalvej 836853 Vejers Strand,rand,2.483.995,27-01-2009,Alm. Salg,13.648,6,Sommerhus,182,1992,,Aktuel værdi
+Mågevej 146853 Vejers Strand,rand,671.500,11-01-2009,Fam. Salg,10.492,5,Sommerhus,64,1937,,Aktuel værdi
+Gøgevej 446853 Vejers Strand,rand,1.191.000,31-12-2008,Fam. Salg,23.820,4,Sommerhus,50,1960,,Aktuel værdi
+Vejers Havvej 206853 Vejers Strand,rand,1.725.000,10-12-2008,Alm. Salg,19.382,6,Sommerhus,89,1964,-1 %,Aktuel værdi
+Sydvej 396853 Vejers Strand,rand,2.080.000,21-10-2008,Alm. Salg,31.515,5,Sommerhus,66,1931,-1 %,Aktuel værdi
+Kratvej 126853 Vejers Strand,rand,1.360.000,03-10-2008,Alm. Salg,19.428,4,Sommerhus,70,1973,,Aktuel værdi
+Stendalsvej 16853 Vejers Strand,rand,1.865.000,27-09-2008,Alm. Salg,20.494,5,Sommerhus,91,1957,-4 %,Aktuel værdi
+Kræmmervej 86853 Vejers Strand,rand,2.950.000,25-09-2008,Alm. Salg,20.205,6,Sommerhus,146,2007,-16 %,Aktuel værdi
+Rylevej 296853 Vejers Strand,rand,3.200.000,09-09-2008,Alm. Salg,34.782,4,Sommerhus,92,2003,-8 %,Aktuel værdi
+Nålevej 16853 Vejers Strand,rand,980.000,11-07-2008,Alm. Salg,8.750,4,Sommerhus,112,2010,-32 %,Aktuel værdi
+Risvej 386853 Vejers Strand,rand,616.250,17-06-2008,Alm. Salg,7.424,4,Sommerhus,83,1983,,Aktuel værdi
+Bjærgevej 186853 Vejers Strand,rand,2.200.000,16-06-2008,Alm. Salg,33.846,3,Sommerhus,65,1976,-10 %,Aktuel værdi
+Torskevej 76853 Vejers Strand,rand,1.390.000,13-06-2008,Alm. Salg,25.272,3,Sommerhus,55,1973,0 %,Aktuel værdi
+Engesøvej 1046853 Vejers Strand,rand,2.250.000,11-06-2008,Alm. Salg,16.791,6,Sommerhus,134,1974,0 %,Aktuel værdi
+Vejers Havvej 176853 Vejers Strand,rand,3.000.000,28-05-2008,Alm. Salg,18.987,5,Villa,158,1974,,Aktuel værdi
+Nordvej 1046853 Vejers Strand,rand,2.325.000,26-05-2008,Alm. Salg,23.019,5,Sommerhus,101,1975,-7 %,Aktuel værdi
+Jafdalvej 656853 Vejers Strand,rand,1.275.000,16-05-2008,Alm. Salg,7.544,6,Sommerhus,169,1987,-57 %,Aktuel værdi
+Aavej 116853 Vejers Strand,rand,1.062.500,15-05-2008,Fam. Salg,13.449,4,Sommerhus,79,1955,,Aktuel værdi
+Vibevej 46853 Vejers Strand,rand,1.050.000,29-04-2008,Alm. Salg,12.500,4,Sommerhus,84,1979,-8 %,Aktuel værdi
+Spættevej 3A6853 Vejers Strand,rand,2.400.000,28-04-2008,Alm. Salg,20.168,5,Sommerhus,119,2001,-3 %,Aktuel værdi
+Nordvej 11. 76853 Vejers Strand,rand,1.330.000,22-04-2008,Alm. Salg,21.451,4,Sommerhus,62,1992,,Aktuel værdi
+Tyttebærvej 26853 Vejers Strand,rand,2.300.000,15-04-2008,Alm. Salg,14.110,7,Sommerhus,163,1937,-4 %,Aktuel værdi
+Rådyrvej 26853 Vejers Strand,rand,1.505.000,13-04-2008,Alm. Salg,23.515,3,Sommerhus,64,1978,-3 %,Aktuel værdi
+Engesøvej 696853 Vejers Strand,rand,1.500.000,12-04-2008,Alm. Salg,21.739,4,Sommerhus,69,1988,-12 %,Aktuel værdi
+Vejers Havvej 646853 Vejers Strand,rand,1.000.000,25-03-2008,Alm. Salg,40.000,4,BygningTilHandel,25,1950,,Aktuel værdi
+Vejers Havvej 536853 Vejers Strand,rand,2.425.000,19-03-2008,Alm. Salg,22.453,4,Sommerhus,108,2000,-8 %,Aktuel værdi
+Engesøvej 1036853 Vejers Strand,rand,900.000,10-03-2008,Fam. Salg,13.846,4,Sommerhus,65,1974,,Aktuel værdi
+Nordvej 1246853 Vejers Strand,rand,892.500,01-03-2008,Fam. Salg,8.925,4,Sommerhus,100,1983,,Aktuel værdi
+Engesøvej 666853 Vejers Strand,rand,1.530.000,15-02-2008,Alm. Salg,16.105,5,Sommerhus,95,1980,-7 %,Aktuel værdi
+Mosevej 246853 Vejers Strand,rand,2.870.000,11-02-2008,Alm. Salg,20.354,5,Sommerhus,141,2007,-4 %,Aktuel værdi
+Havstien 66853 Vejers Strand,rand,700.000,12-01-2008,Alm. Salg,12.727,3,Sommerhus,55,1969,,Aktuel værdi
+Engesøvej 1006853 Vejers Strand,rand,1.700.000,18-12-2007,Alm. Salg,22.666,4,Sommerhus,75,1978,-5 %,Aktuel værdi
+Sydvej 76853 Vejers Strand,rand,1.320.000,11-12-2007,Fam. Salg,18.333,4,Sommerhus,72,1973,,Aktuel værdi
+Ternevej 146853 Vejers Strand,rand,1.200.000,05-12-2007,Fam. Salg,-,4,Sommerhus,101,1977,,Aktuel værdi
+Engesøvej 1206853 Vejers Strand,rand,1.730.000,03-12-2007,Alm. Salg,21.358,3,Sommerhus,81,1967,,Aktuel værdi
+Kræmmervej 36853 Vejers Strand,rand,1.335.000,02-12-2007,Alm. Salg,-,4,Sommerhus,127,1962,-4 %,Aktuel værdi
+Gøgevej 16853 Vejers Strand,rand,1.710.000,29-11-2007,Alm. Salg,16.764,4,Sommerhus,102,1966,-5 %,Aktuel værdi
+Stendalsvej 76853 Vejers Strand,rand,837.500,26-11-2007,Fam. Salg,-,4,Sommerhus,119,1964,,Aktuel værdi
+Risvej 446853 Vejers Strand,rand,1.360.000,19-11-2007,Fam. Salg,8.192,6,Sommerhus,166,1970,,Aktuel værdi
+Nålevej 156853 Vejers Strand,rand,1.300.000,07-11-2007,Fam. Salg,11.016,6,Sommerhus,118,1973,,Aktuel værdi
+Engesøvej 516853 Vejers Strand,rand,1.400.000,06-11-2007,Alm. Salg,17.948,4,Sommerhus,78,1983,-3 %,Aktuel værdi
+Rylevej 426853 Vejers Strand,rand,791.000,30-10-2007,Alm. Salg,-,2,Sommerhus,28,1990,,Aktuel værdi
+Risvej 426853 Vejers Strand,rand,2.000.000,29-10-2007,Alm. Salg,18.181,5,Sommerhus,110,1976,,Aktuel værdi
+Rådyrvej 126853 Vejers Strand,rand,1.565.000,12-10-2007,Alm. Salg,15.343,4,Sommerhus,102,2015,-5 %,Aktuel værdi
+Ørnevej 26853 Vejers Strand,rand,739.500,12-10-2007,Fam. Salg,10.564,5,Sommerhus,70,1969,,Aktuel værdi
+Kratvej 66853 Vejers Strand,rand,950.000,02-10-2007,Alm. Salg,14.393,4,Sommerhus,66,1989,,Aktuel værdi
+Engesøvej 406853 Vejers Strand,rand,1.745.000,24-09-2007,Alm. Salg,24.577,4,Sommerhus,71,1982,,Aktuel værdi
+Muffparken 126853 Vejers Strand,rand,1.625.000,13-09-2007,Alm. Salg,22.260,3,Sommerhus,73,1969,,Aktuel værdi
+Risvej 356853 Vejers Strand,rand,1.150.000,05-09-2007,Fam. Salg,15.333,4,Sommerhus,75,1984,,Aktuel værdi
+Vejers Sydstrand 1. 76853 Vejers Strand,rand,375.000,01-09-2007,Alm. Salg,-,2,Sommerhus,28,1961,,Aktuel værdi
+Vejers Havvej 236853 Vejers Strand,rand,865.000,17-08-2007,Alm. Salg,14.180,4,Sommerhus,61,1979,9 %,Aktuel værdi
+Torskevej 106853 Vejers Strand,rand,1.385.000,17-08-2007,Alm. Salg,26.634,3,Sommerhus,52,1971,,Aktuel værdi
+Violvej 76853 Vejers Strand,rand,1.200.000,04-08-2007,Alm. Salg,21.052,4,Sommerhus,57,1935,,Aktuel værdi
+Risvej 186853 Vejers Strand,rand,2.185.000,06-07-2007,Alm. Salg,37.672,5,Sommerhus,58,1930,-5 %,Aktuel værdi
+Ørnevej 146853 Vejers Strand,rand,1.435.000,06-07-2007,Alm. Salg,23.916,4,Sommerhus,60,1976,,Aktuel værdi
+Engesøvej 586853 Vejers Strand,rand,1.600.000,04-07-2007,Alm. Salg,20.512,4,Sommerhus,78,1978,,Aktuel værdi
+Engesøvej 156853 Vejers Strand,rand,1.900.000,18-06-2007,Alm. Salg,19.387,6,Sommerhus,98,1990,-5 %,Aktuel værdi
+Engesøvej 876853 Vejers Strand,rand,1.300.000,16-06-2007,Fam. Salg,16.049,4,Sommerhus,81,1979,-20 %,Aktuel værdi
+Jafdalvej 516853 Vejers Strand,rand,1.800.000,31-05-2007,Alm. Salg,22.784,4,Sommerhus,79,1988,-4 %,Aktuel værdi
+Engesøvej 486853 Vejers Strand,rand,1.565.000,25-05-2007,Alm. Salg,22.681,4,Sommerhus,69,1980,,Aktuel værdi
+Gøgevej 166853 Vejers Strand,rand,1.350.000,05-05-2007,Alm. Salg,12.500,4,Sommerhus,108,2009,,Aktuel værdi
+Rylevej 126853 Vejers Strand,rand,250.000,03-05-2007,Alm. Salg,3.424,4,Sommerhus,73,2011,,Aktuel værdi
+Mosevej 26853 Vejers Strand,rand,2.075.000,26-04-2007,Alm. Salg,13.387,5,Sommerhus,155,1992,-3 %,Aktuel værdi
+Fugltoft 106853 Vejers Strand,rand,2.500.000,24-04-2007,Alm. Salg,26.041,5,Sommerhus,96,1988,,Aktuel værdi
+Risvej 46853 Vejers Strand,rand,1.675.000,24-04-2007,Alm. Salg,34.183,3,Sommerhus,49,1987,0 %,Aktuel værdi
+Tyttebærvej 1B6853 Vejers Strand,rand,322.500,23-04-2007,Fam. Salg,3.225,4,Sommerhus,100,2014,,Aktuel værdi
+Spættevej 246853 Vejers Strand,rand,2.675.000,29-03-2007,Alm. Salg,29.076,4,Sommerhus,92,2005,,Aktuel værdi
+Nordvej 90B6853 Vejers Strand,rand,236.400,14-03-2007,Fam. Salg,1.713,5,Sommerhus,138,2008,,Aktuel værdi
+Nordvej 886853 Vejers Strand,rand,690.525,14-03-2007,Fam. Salg,9.590,4,Sommerhus,72,1939,,Aktuel værdi
+Engesøvej 846853 Vejers Strand,rand,977.500,09-03-2007,Fam. Salg,-,4,Sommerhus,87,1979,,Aktuel værdi
+Nordvej 866853 Vejers Strand,rand,322.500,28-02-2007,Fam. Salg,3.290,4,Sommerhus,98,2008,,Aktuel værdi
+Mosevej 66853 Vejers Strand,rand,1.550.000,28-02-2007,Alm. Salg,21.232,3,Sommerhus,73,1966,-5 %,Aktuel værdi
+Risvej 126853 Vejers Strand,rand,1.470.000,22-02-2007,Alm. Salg,24.500,4,Sommerhus,60,1970,,Aktuel værdi
+Bjærgevej 236853 Vejers Strand,rand,2.337.500,18-02-2007,Fam. Salg,9.862,4,Sommerhus,237,2009,,Aktuel værdi
+Duevej 96853 Vejers Strand,rand,650.000,04-02-2007,Fam. Salg,9.285,5,Sommerhus,70,1931,,Aktuel værdi
+Mosevej 4A6853 Vejers Strand,rand,1.495.000,26-01-2007,Alm. Salg,12.458,5,Sommerhus,120,2007,,Aktuel værdi
+Engesøvej 416853 Vejers Strand,rand,650.000,03-01-2007,Alm. Salg,7.926,4,Sommerhus,82,1983,,Aktuel værdi
+Nordvej 736853 Vejers Strand,rand,1.377.000,22-12-2006,Fam. Salg,-,7,Sommerhus,167,1958,,Aktuel værdi
+Nordvej 656853 Vejers Strand,rand,2.950.000,18-12-2006,Alm. Salg,-,7,Sommerhus,126,1964,,Aktuel værdi
+Bjærgevej 3B6853 Vejers Strand,rand,3.850.000,12-12-2006,Alm. Salg,40.526,4,Sommerhus,95,2000,,Aktuel værdi
+Gulspurvevej 176853 Vejers Strand,rand,1.000.000,10-12-2006,Fam. Salg,13.513,3,Sommerhus,74,1966,,Aktuel værdi
+Vejers Sydstrand 1. 256853 Vejers Strand,rand,725.000,25-11-2006,Alm. Salg,-,2,Sommerhus,39,1961,,Aktuel værdi
+Nordvej 876853 Vejers Strand,rand,2.886.000,22-11-2006,Alm. Salg,48.100,2,Sommerhus,60,1934,,Aktuel værdi
+Peders Vej 146853 Vejers Strand,rand,900.000,20-11-2006,Alm. Salg,14.062,4,Villa,64,1973,,Aktuel værdi
+Rylevej 86853 Vejers Strand,rand,250.750,13-11-2006,Fam. Salg,4.643,3,Sommerhus,54,1927,,Aktuel værdi
+Fugltoft 196853 Vejers Strand,rand,1.930.000,03-11-2006,Alm. Salg,20.104,5,Sommerhus,96,1988,,Aktuel værdi
+Rosenvej 176853 Vejers Strand,rand,3.600.000,24-10-2006,Alm. Salg,20.224,9,Sommerhus,178,2010,,Aktuel værdi
+Nordvej 856853 Vejers Strand,rand,4.000.000,15-10-2006,Alm. Salg,55.555,4,Sommerhus,72,1953,,Aktuel værdi
+Kræmmervej 26853 Vejers Strand,rand,1.225.000,02-10-2006,Alm. Salg,15.312,5,Sommerhus,80,1966,,Aktuel værdi
+Gøgevej 406853 Vejers Strand,rand,1.225.000,22-09-2006,Alm. Salg,15.909,3,Sommerhus,77,1968,,Aktuel værdi
+Engesøvej 426853 Vejers Strand,rand,1.500.000,17-09-2006,Alm. Salg,22.388,4,Sommerhus,67,1983,,Aktuel værdi
+Uglevej 96853 Vejers Strand,rand,780.000,05-09-2006,Alm. Salg,12.786,5,Sommerhus,61,1950,,Aktuel værdi
+Duevej 86853 Vejers Strand,rand,775.000,30-08-2006,Alm. Salg,14.090,4,Sommerhus,55,1957,,Aktuel værdi
+Peders Vej 36853 Vejers Strand,rand,1.250.000,29-08-2006,Alm. Salg,15.625,5,Sommerhus,80,1981,,Aktuel værdi
+Nordvej 46853 Vejers Strand,rand,1.100.000,22-08-2006,Fam. Salg,-,3,Sommerhus,62,1992,,Aktuel værdi
+Violvej 166853 Vejers Strand,rand,1.460.000,20-08-2006,Alm. Salg,29.200,4,Sommerhus,50,1952,,Aktuel værdi
+Engesøvej 826853 Vejers Strand,rand,1.280.000,26-06-2006,Fam. Salg,15.609,4,Sommerhus,82,1979,,Aktuel værdi
+Nordvej 11. 56853 Vejers Strand,rand,1.275.000,21-06-2006,Alm. Salg,20.564,4,Sommerhus,62,1992,,Aktuel værdi
+Nordvej 56853 Vejers Strand,rand,3.900.000,07-06-2006,Alm. Salg,25.657,5,Sommerhus,152,2009,,Aktuel værdi
+Gøgevej 296853 Vejers Strand,rand,1.700.000,03-06-2006,Alm. Salg,18.279,5,Sommerhus,93,1960,,Aktuel værdi
+Vejers Sydstrand 1. 236853 Vejers Strand,rand,480.000,30-05-2006,Alm. Salg,-,2,Sommerhus,31,1961,,Aktuel værdi
+Risvej 486853 Vejers Strand,rand,775.000,17-05-2006,Fam. Salg,-,4,Sommerhus,89,1963,,Aktuel værdi
+Rylevej 236853 Vejers Strand,rand,370.000,17-05-2006,Fam. Salg,5.285,3,Sommerhus,70,1930,,Aktuel værdi
+Engesøvej 256853 Vejers Strand,rand,1.790.000,14-05-2006,Alm. Salg,17.900,5,Sommerhus,100,1992,,Aktuel værdi
+Risvej 266853 Vejers Strand,rand,2.345.000,12-05-2006,Alm. Salg,21.318,5,Sommerhus,110,1967,,Aktuel værdi
+Spættevej 46853 Vejers Strand,rand,1.000.000,05-05-2006,Alm. Salg,13.888,4,Sommerhus,72,1984,,Aktuel værdi
+Torskevej 226853 Vejers Strand,rand,1.600.000,05-05-2006,Alm. Salg,-,4,Sommerhus,77,1976,,Aktuel værdi
+Uglevej 136853 Vejers Strand,rand,595.000,01-05-2006,Alm. Salg,15.657,3,Sommerhus,38,1937,,Aktuel værdi
+Peders Vej 86853 Vejers Strand,rand,1.850.000,25-04-2006,Alm. Salg,16.818,4,Sommerhus,110,1992,,Aktuel værdi
+Bjærgevej 3A6853 Vejers Strand,rand,4.700.000,24-04-2006,Alm. Salg,25.824,6,Sommerhus,182,1993,,Aktuel værdi
+Kratvej 646853 Vejers Strand,rand,1.750.000,21-04-2006,Alm. Salg,23.026,4,Sommerhus,76,1984,,Aktuel værdi
+Ørnevej 176853 Vejers Strand,rand,2.200.000,21-04-2006,Alm. Salg,22.222,4,Sommerhus,99,2001,,Aktuel værdi
+Snerlevej 66853 Vejers Strand,rand,3.050.000,14-04-2006,Alm. Salg,35.057,4,Sommerhus,87,1960,,Aktuel værdi
+Kræmmervej 176853 Vejers Strand,rand,1.020.000,05-04-2006,Fam. Salg,13.421,3,Sommerhus,76,1966,,Aktuel værdi
+Engesøvej 676853 Vejers Strand,rand,1.540.000,30-03-2006,Alm. Salg,5.220,11,Sommerhus,295,2008,,Aktuel værdi
+Muffparken 46853 Vejers Strand,rand,1.150.000,17-03-2006,Alm. Salg,7.565,5,Sommerhus,152,2010,,Aktuel værdi
+Gøgevej 326853 Vejers Strand,rand,1.870.000,12-03-2006,Alm. Salg,11.333,7,Sommerhus,165,1963,,Aktuel værdi
+Plantørstien 66853 Vejers Strand,rand,975.000,27-02-2006,Alm. Salg,16.525,4,Sommerhus,59,1972,,Aktuel værdi
+Nordvej 796853 Vejers Strand,rand,47.625,24-02-2006,Alm. Salg,-,9,Sommerhus,538,1961,,Aktuel værdi
+Engesøvej 126853 Vejers Strand,rand,1.610.000,09-02-2006,Alm. Salg,-,4,Sommerhus,105,1988,,Aktuel værdi
+"Mågevej 8C, 26853 Vejers Strand",rand,840.000,03-02-2006,Alm. Salg,11.506,3,Sommerhus,73,1937,,Aktuel værdi
+Spættevej 106853 Vejers Strand,rand,1.490.000,16-01-2006,Alm. Salg,16.741,5,Sommerhus,89,1970,,Aktuel værdi
+Vejers Havvej 56853 Vejers Strand,rand,2.795.000,10-01-2006,Alm. Salg,14.333,6,Villa,195,2000,,Aktuel værdi
+Vejers Sydstrand 1. 246853 Vejers Strand,rand,400.000,04-01-2006,Alm. Salg,-,2,Sommerhus,31,1961,,Aktuel værdi
+Nordvej 11. 206853 Vejers Strand,rand,1.250.000,03-01-2006,Alm. Salg,19.230,4,Sommerhus,65,1992,,Aktuel værdi
+Sydvej 456853 Vejers Strand,rand,714.000,28-12-2005,Fam. Salg,-,5,Sommerhus,88,1929,,Aktuel værdi
+Sydvej 116853 Vejers Strand,rand,58.084,21-12-2005,Fam. Salg,829,5,Sommerhus,70,1914,,Aktuel værdi
+Nordvej 566853 Vejers Strand,rand,850.000,16-12-2005,Fam. Salg,14.406,3,Sommerhus,59,1962,,Aktuel værdi
+Rådyrvej 116853 Vejers Strand,rand,1.670.000,27-11-2005,Alm. Salg,24.558,4,Sommerhus,68,1971,,Aktuel værdi
+Muffparken 206853 Vejers Strand,rand,680.000,23-11-2005,Fam. Salg,12.592,3,Sommerhus,54,1961,,Aktuel værdi
+Muffparken 226853 Vejers Strand,rand,850.000,23-11-2005,Fam. Salg,12.500,4,Sommerhus,68,1980,,Aktuel værdi
+Torskevej 326853 Vejers Strand,rand,374.000,21-11-2005,Fam. Salg,3.309,4,Sommerhus,113,2006,,Aktuel værdi
+Gøgevej 126853 Vejers Strand,rand,1.442.000,16-11-2005,Alm. Salg,16.574,4,Sommerhus,87,1986,,Aktuel værdi
+Violvej 56853 Vejers Strand,rand,2.290.000,16-11-2005,Alm. Salg,-,4,Sommerhus,106,1932,,Aktuel værdi
+Nordvej 586853 Vejers Strand,rand,1.300.000,28-10-2005,Alm. Salg,11.711,4,Sommerhus,111,2006,,Aktuel værdi
+Muffparken 136853 Vejers Strand,rand,800.000,15-10-2005,Fam. Salg,-,4,Sommerhus,119,1968,,Aktuel værdi
+Nordvej 98B6853 Vejers Strand,rand,2.375.000,13-10-2005,Alm. Salg,25.265,4,Sommerhus,94,1986,,Aktuel værdi
+Engesøvej 766853 Vejers Strand,rand,1.150.000,12-10-2005,Alm. Salg,18.548,3,Sommerhus,62,1979,,Aktuel værdi
+Fugltoft 116853 Vejers Strand,rand,1.375.000,11-10-2005,Alm. Salg,14.322,5,Sommerhus,96,1988,,Aktuel værdi
+Vejers Sydstrand 26853 Vejers Strand,rand,483.000,03-10-2005,Fam. Salg,-,6,Sommerhus,86,1957,,Aktuel værdi
+Tyttebærvej 106853 Vejers Strand,rand,1.175.000,26-09-2005,Fam. Salg,15.259,4,Sommerhus,77,1998,,Aktuel værdi
+Aavej 46853 Vejers Strand,rand,1.399.000,23-09-2005,Alm. Salg,25.436,3,Sommerhus,55,1961,,Aktuel værdi
+Bjærgevej 56853 Vejers Strand,rand,2.995.000,16-09-2005,Alm. Salg,-,4,Sommerhus,121,1966,,Aktuel værdi
+Gulspurvevej 86853 Vejers Strand,rand,1.100.000,24-08-2005,Alm. Salg,26.829,3,Sommerhus,41,1970,,Aktuel værdi
+Tyttebærvej 46853 Vejers Strand,rand,977.500,15-08-2005,Fam. Salg,8.886,3,Sommerhus,110,2014,,Aktuel værdi
+Jafdalvej 76853 Vejers Strand,rand,1.550.000,08-08-2005,Alm. Salg,22.142,4,Sommerhus,70,1984,,Aktuel værdi
+Kratvej 466853 Vejers Strand,rand,1.480.000,29-07-2005,Alm. Salg,18.500,4,Sommerhus,80,1969,,Aktuel værdi
+Jafdalvej 936853 Vejers Strand,rand,1.848.000,29-06-2005,Alm. Salg,16.800,5,Sommerhus,110,1990,,Aktuel værdi
+Gøgevej 346853 Vejers Strand,rand,300.000,29-06-2005,Alm. Salg,1.621,6,Sommerhus,185,1978,,Aktuel værdi
+Jafdalvej 896853 Vejers Strand,rand,1.395.000,18-06-2005,Alm. Salg,20.820,3,Sommerhus,67,1988,,Aktuel værdi
+Vejers Havvej 106853 Vejers Strand,rand,262.500,13-06-2005,Fam. Salg,2.282,5,Sommerhus,115,1972,,Aktuel værdi
+Ørnevej 216853 Vejers Strand,rand,675.000,13-06-2005,Alm. Salg,7.336,3,Sommerhus,92,1968,,Aktuel værdi
+Ørnevej 36853 Vejers Strand,rand,2.070.000,05-06-2005,Alm. Salg,20.097,4,Sommerhus,103,2002,,Aktuel værdi
+Nordvej 45A6853 Vejers Strand,rand,3.750.000,02-06-2005,Alm. Salg,27.777,5,Sommerhus,135,1999,,Aktuel værdi
+Vejers Havvej 11D6853 Vejers Strand,rand,970.000,29-05-2005,Alm. Salg,15.645,2,Sommerhus,62,1877,,Aktuel værdi
+Ternevej 96853 Vejers Strand,rand,1.295.000,29-05-2005,Alm. Salg,14.388,4,Sommerhus,90,1937,,Aktuel værdi
+Nålevej 96853 Vejers Strand,rand,1.280.000,27-05-2005,Alm. Salg,12.427,4,Sommerhus,103,2006,,Aktuel værdi
+Jafdalvej 96853 Vejers Strand,rand,1.457.750,26-05-2005,Alm. Salg,20.825,4,Sommerhus,70,1988,,Aktuel værdi
+Gulspurvevej 256853 Vejers Strand,rand,561.000,25-05-2005,Alm. Salg,-,4,Sommerhus,70,1973,,Aktuel værdi
+Vejers Havvej 696853 Vejers Strand,rand,2.120.000,02-04-2005,Alm. Salg,-,5,Sommerhus,139,1973,,Aktuel værdi
+Spættevej 3C6853 Vejers Strand,rand,2.200.000,22-03-2005,Alm. Salg,18.487,5,Sommerhus,119,2001,,Aktuel værdi
+Aarrildsøvej 66853 Vejers Strand,rand,1.655.000,17-03-2005,Alm. Salg,11.906,5,Sommerhus,139,2007,,Aktuel værdi
+Engesøvej 1136853 Vejers Strand,rand,1.125.000,11-03-2005,Alm. Salg,-,4,Sommerhus,72,1974,,Aktuel værdi
+Jafdalvej 456853 Vejers Strand,rand,1.410.000,11-03-2005,Alm. Salg,-,4,Sommerhus,94,1987,,Aktuel værdi
+Engesøvej 356853 Vejers Strand,rand,1.845.000,05-02-2005,Alm. Salg,18.450,5,Sommerhus,100,1992,,Aktuel værdi
+Vejers Havvej 816853 Vejers Strand,rand,3.400.000,04-02-2005,Alm. Salg,68.000,5,Villa,50,1976,,Aktuel værdi
+Gøgevej 146853 Vejers Strand,rand,1.900.000,31-01-2005,Alm. Salg,20.652,4,Sommerhus,92,2002,,Aktuel værdi
+Engesøvej 1166853 Vejers Strand,rand,1.035.000,24-01-2005,Alm. Salg,11.629,4,Sommerhus,89,1964,,Aktuel værdi
+Vejers Havvej 43A6853 Vejers Strand,rand,660.000,21-01-2005,Alm. Salg,12.452,4,Sommerhus,53,1963,,Aktuel værdi
+Snogevej 66853 Vejers Strand,rand,1.800.000,05-01-2005,Alm. Salg,8.653,6,Sommerhus,208,1984,,Aktuel værdi
+Bjærgevej 96853 Vejers Strand,rand,1.262.000,01-01-2005,Fam. Salg,10.516,6,Sommerhus,120,1930,,Aktuel værdi
+Stendalsvej 46853 Vejers Strand,rand,629.000,23-12-2004,Fam. Salg,9.676,4,Sommerhus,65,1973,,Aktuel værdi
+Nordvej 17B6853 Vejers Strand,rand,3.143.000,22-12-2004,Alm. Salg,25.762,5,Sommerhus,122,2005,,Aktuel værdi
+Sydvej 136853 Vejers Strand,rand,850.000,20-12-2004,Fam. Salg,13.709,3,Sommerhus,62,1974,,Aktuel værdi
+Stendalsvej 116853 Vejers Strand,rand,345.000,15-12-2004,Fam. Salg,6.160,4,Sommerhus,56,1975,,Aktuel værdi
+Kratvej 286853 Vejers Strand,rand,700.000,12-12-2004,Fam. Salg,9.459,4,Sommerhus,74,1959,,Aktuel værdi
+Kræmmervej 296853 Vejers Strand,rand,1.900.000,12-12-2004,Alm. Salg,19.191,5,Sommerhus,99,1998,,Aktuel værdi
+Ørnevej 286853 Vejers Strand,rand,950.000,04-12-2004,Alm. Salg,6.462,6,Sommerhus,147,2009,,Aktuel værdi
+Kræmmervej 316853 Vejers Strand,rand,1.995.000,30-11-2004,Alm. Salg,16.906,5,Sommerhus,118,2003,,Aktuel værdi
+Aarrildsøvej 76853 Vejers Strand,rand,1.150.000,28-10-2004,Alm. Salg,14.935,4,Sommerhus,77,1980,,Aktuel værdi
+Nordvej 376853 Vejers Strand,rand,2.550.000,06-09-2004,Alm. Salg,15.178,5,Sommerhus,168,1990,,Aktuel værdi
+Engesøvej 526853 Vejers Strand,rand,613.661,17-08-2004,Alm. Salg,-,4,Sommerhus,187,1989,,Aktuel værdi
+Rosenvej 116853 Vejers Strand,rand,653.000,30-07-2004,Fam. Salg,13.326,4,Sommerhus,49,1975,,Aktuel værdi
+Snogevej 36853 Vejers Strand,rand,1.398.000,29-07-2004,Alm. Salg,18.891,4,Sommerhus,74,1984,,Aktuel værdi
+Vejers Havvej 596853 Vejers Strand,rand,1.540.000,08-07-2004,Alm. Salg,19.493,4,Sommerhus,79,1977,,Aktuel værdi
+Havstien 36853 Vejers Strand,rand,720.000,21-06-2004,Fam. Salg,9.729,3,Sommerhus,74,1975,,Aktuel værdi
+Jafdalvej 116853 Vejers Strand,rand,1.900.000,17-06-2004,Alm. Salg,-,4,Sommerhus,120,1996,,Aktuel værdi
+Muffparken 116853 Vejers Strand,rand,1.075.000,11-06-2004,Alm. Salg,-,5,Sommerhus,76,1968,,Aktuel værdi
+Ørnevej 406853 Vejers Strand,rand,1.382.500,25-05-2004,Alm. Salg,-,4,Sommerhus,112,1970,,Aktuel værdi
+Aarrildsøvej 116853 Vejers Strand,rand,1.135.000,27-04-2004,Alm. Salg,-,4,Sommerhus,77,1977,,Aktuel værdi
+Vejers Havvej 546853 Vejers Strand,rand,680.000,24-04-2004,Fam. Salg,9.714,3,Sommerhus,70,1958,,Aktuel værdi
+Jafdalvej 716853 Vejers Strand,rand,1.545.000,20-04-2004,Alm. Salg,15.927,5,Sommerhus,97,1987,,Aktuel værdi
+Kræmmervej 376853 Vejers Strand,rand,715.000,31-03-2004,Alm. Salg,6.441,5,Sommerhus,111,2005,,Aktuel værdi
+Muffparken 56853 Vejers Strand,rand,1.051.000,26-03-2004,Alm. Salg,19.109,4,Sommerhus,55,1968,,Aktuel værdi
+Vejers Sydstrand 66853 Vejers Strand,rand,715.000,25-03-2004,Alm. Salg,8.313,5,Sommerhus,86,1927,,Aktuel værdi
+Rådyrvej 66853 Vejers Strand,rand,2.025.000,24-03-2004,Andet,13.965,5,Sommerhus,145,1926,,Aktuel værdi
+Sydvej 356853 Vejers Strand,rand,1.815.000,19-03-2004,Alm. Salg,22.407,4,Sommerhus,81,1991,,Aktuel værdi
+Gøgevej 156853 Vejers Strand,rand,1.695.000,23-02-2004,Alm. Salg,20.670,5,Sommerhus,82,1998,,Aktuel værdi
+Peders Vej 56853 Vejers Strand,rand,1.000.000,08-02-2004,Alm. Salg,12.500,6,Sommerhus,80,1979,,Aktuel værdi
+Rylevej 16853 Vejers Strand,rand,795.000,05-02-2004,Fam. Salg,9.814,4,Sommerhus,81,1986,,Aktuel værdi
+Nordvej 98A6853 Vejers Strand,rand,2.875.000,04-02-2004,Alm. Salg,18.668,5,Sommerhus,154,1989,,Aktuel værdi
+Kratvej 526853 Vejers Strand,rand,150.000,04-02-2004,Fam. Salg,1.388,4,Sommerhus,108,2009,,Aktuel værdi
+Rådyrvej 86853 Vejers Strand,rand,1.125.000,02-02-2004,Alm. Salg,10.613,5,Sommerhus,106,2007,,Aktuel værdi
+Kræmmervej 106853 Vejers Strand,rand,1.200.000,29-01-2004,Alm. Salg,7.228,7,Sommerhus,166,1928,,Aktuel værdi
+Engesøvej 386853 Vejers Strand,rand,1.650.000,27-01-2004,Alm. Salg,9.537,5,Sommerhus,173,1992,,Aktuel værdi
+Vejers Havvej 376853 Vejers Strand,rand,2.150.000,12-01-2004,Alm. Salg,11.025,5,Sommerhus,195,2016,,Aktuel værdi
+Fugltoft 56853 Vejers Strand,rand,1.275.000,23-12-2003,Alm. Salg,12.378,5,Sommerhus,103,1996,,Aktuel værdi
+Gøgevej 246853 Vejers Strand,rand,300.000,08-12-2003,Andet,8.333,4,Sommerhus,36,1960,,Aktuel værdi
+Aavej 56853 Vejers Strand,rand,544.000,04-12-2003,Fam. Salg,4.000,5,Sommerhus,136,2008,,Aktuel værdi
+Rosenvej 46853 Vejers Strand,rand,225.000,01-12-2003,Fam. Salg,4.591,4,Sommerhus,49,1914,,Aktuel værdi
+Ørnevej 76853 Vejers Strand,rand,835.000,19-11-2003,Alm. Salg,8.028,4,Sommerhus,104,1969,,Aktuel værdi
+Nordvej 276853 Vejers Strand,rand,376.000,18-11-2003,Fam. Salg,8.355,5,Sommerhus,45,1934,,Aktuel værdi
+Aarrildsøvej 226853 Vejers Strand,rand,1.250.000,11-11-2003,Alm. Salg,10.869,4,Sommerhus,115,2009,,Aktuel værdi
+Tyttebærvej 176853 Vejers Strand,rand,1.973.000,10-11-2003,Alm. Salg,11.674,5,Sommerhus,169,1994,,Aktuel værdi
+Muffparken 96853 Vejers Strand,rand,787.500,10-11-2003,Alm. Salg,6.508,5,Sommerhus,121,2008,,Aktuel værdi
+Vejers Havvej 566853 Vejers Strand,rand,750.000,06-11-2003,Fam. Salg,16.666,3,Sommerhus,45,1956,,Aktuel værdi
+Mågevej 236853 Vejers Strand,rand,600.000,06-11-2003,Alm. Salg,-,5,Sommerhus,71,1931,,Aktuel værdi
+Fugltoft 16853 Vejers Strand,rand,2.500.000,03-10-2003,Alm. Salg,8.680,8,Sommerhus,288,1988,,Aktuel værdi
+Vejers Havvej 46853 Vejers Strand,rand,1.595.000,29-08-2003,Alm. Salg,12.460,5,Sommerhus,128,1996,,Aktuel værdi
+Peders Vej 116853 Vejers Strand,rand,950.000,29-08-2003,Fam. Salg,11.875,4,Sommerhus,80,1974,,Aktuel værdi
+Risvej 456853 Vejers Strand,rand,1.425.000,19-08-2003,Alm. Salg,13.194,4,Sommerhus,108,1999,,Aktuel værdi
+Aarrildsøvej 186853 Vejers Strand,rand,1.245.000,18-08-2003,Fam. Salg,6.916,6,Sommerhus,180,1990,,Aktuel værdi
+Vejers Sydstrand 1. 116853 Vejers Strand,rand,390.000,18-08-2003,Alm. Salg,-,3,Sommerhus,61,1961,,Aktuel værdi
+Mågevej 106853 Vejers Strand,rand,245.000,15-08-2003,Fam. Salg,2.692,4,Sommerhus,91,1959,,Aktuel værdi
+Gulspurvevej 146853 Vejers Strand,rand,735.000,14-07-2003,Alm. Salg,8.258,4,Sommerhus,89,1985,,Aktuel værdi
+Jafdalvej 356853 Vejers Strand,rand,1.675.000,11-07-2003,Alm. Salg,14.692,5,Sommerhus,114,1998,,Aktuel værdi
+Torskevej 296853 Vejers Strand,rand,850.000,26-06-2003,Alm. Salg,14.166,4,Sommerhus,60,1973,,Aktuel værdi
+Gøgevej 226853 Vejers Strand,rand,835.000,24-06-2003,Alm. Salg,11.438,4,Sommerhus,73,1979,,Aktuel værdi
+Kratvej 326853 Vejers Strand,rand,795.000,22-06-2003,Fam. Salg,14.454,4,Sommerhus,55,1961,,Aktuel værdi
+Nordvej 86853 Vejers Strand,rand,1.112.509,13-06-2003,Alm. Salg,12.361,5,Sommerhus,90,1925,,Aktuel værdi
+Gøgevej 316853 Vejers Strand,rand,929.634,11-05-2003,Alm. Salg,11.620,3,Sommerhus,80,1960,,Aktuel værdi
+Risvej 236853 Vejers Strand,rand,990.000,05-05-2003,Alm. Salg,18.333,3,Sommerhus,54,1976,,Aktuel værdi
+Nordvej 526853 Vejers Strand,rand,750.000,23-04-2003,Alm. Salg,12.096,3,Sommerhus,62,1962,,Aktuel værdi
+Engesøvej 476853 Vejers Strand,rand,865.000,11-04-2003,Alm. Salg,-,4,Sommerhus,103,1984,,Aktuel værdi
+Ternevej 56853 Vejers Strand,rand,365.000,24-03-2003,Alm. Salg,5.703,3,Sommerhus,64,1950,,Aktuel værdi
+Gulspurvevej 106853 Vejers Strand,rand,740.086,19-03-2003,Alm. Salg,9.867,4,Sommerhus,75,1979,,Aktuel værdi
+Engesøvej 896853 Vejers Strand,rand,1.250.000,22-02-2003,Alm. Salg,6.578,5,Sommerhus,190,1989,,Aktuel værdi
+Muffparken 256853 Vejers Strand,rand,1.020.000,14-01-2003,Alm. Salg,7.555,5,Sommerhus,135,1972,,Aktuel værdi
+Jafdalvej 576853 Vejers Strand,rand,1.000.000,30-12-2002,Alm. Salg,-,6,Sommerhus,114,1987,,Aktuel værdi
+Mågevej 17B6853 Vejers Strand,rand,525.000,12-12-2002,Fam. Salg,9.545,3,Sommerhus,55,2009,,Aktuel værdi
+Engesøvej 326853 Vejers Strand,rand,990.000,11-12-2002,Alm. Salg,-,11,Sommerhus,321,1992,,Aktuel værdi
+Risvej 106853 Vejers Strand,rand,1.755.000,02-12-2002,Alm. Salg,13.818,6,Sommerhus,127,1932,,Aktuel værdi
+Vejers Havvej 286853 Vejers Strand,rand,611.700,29-11-2002,Alm. Salg,7.646,4,Sommerhus,80,1958,,Aktuel værdi
+Engesøvej 76853 Vejers Strand,rand,390.000,29-11-2002,Fam. Salg,-,3,Sommerhus,85,1990,,Aktuel værdi
+Ørnevej 156853 Vejers Strand,rand,1.626.000,22-11-2002,Alm. Salg,15.485,4,Sommerhus,105,2003,,Aktuel værdi
+Snogevej 226853 Vejers Strand,rand,739.500,20-11-2002,Fam. Salg,8.909,4,Sommerhus,83,1965,,Aktuel værdi
+Nordvej 23A6853 Vejers Strand,rand,1.477.026,08-11-2002,Alm. Salg,23.444,4,Sommerhus,63,1979,,Aktuel værdi
+Jafdalvej 1016853 Vejers Strand,rand,1.250.000,01-11-2002,Alm. Salg,7.440,6,Sommerhus,168,1989,,Aktuel værdi
+Kræmmervej 236853 Vejers Strand,rand,1.749.500,23-10-2002,Alm. Salg,16.199,4,Sommerhus,108,2003,,Aktuel værdi
+Vejers Havvej 716853 Vejers Strand,rand,950.000,22-10-2002,Alm. Salg,14.393,4,Sommerhus,66,1970,,Aktuel værdi
+Nålevej 166853 Vejers Strand,rand,682.500,07-10-2002,Fam. Salg,7.036,4,Sommerhus,97,2000,,Aktuel værdi
+Vejers Havvej 426853 Vejers Strand,rand,698.000,07-10-2002,Alm. Salg,10.264,3,Sommerhus,68,1950,,Aktuel værdi
+Vejers Havvej 476853 Vejers Strand,rand,850.000,27-09-2002,Alm. Salg,13.709,3,Sommerhus,62,1982,,Aktuel værdi
+Jafdalvej 496853 Vejers Strand,rand,925.000,24-09-2002,Alm. Salg,12.671,4,Sommerhus,73,1987,,Aktuel værdi
+Duevej 66853 Vejers Strand,rand,650.000,17-09-2002,Alm. Salg,13.000,2,Sommerhus,50,1950,,Aktuel værdi
+Kratvej 186853 Vejers Strand,rand,390.000,16-09-2002,Fam. Salg,7.800,3,Sommerhus,50,1972,,Aktuel værdi
+Ørnevej 116853 Vejers Strand,rand,665.000,16-09-2002,Alm. Salg,6.157,4,Sommerhus,108,2003,,Aktuel værdi
+Gulspurvevej 46853 Vejers Strand,rand,550.000,05-09-2002,Alm. Salg,5.612,4,Sommerhus,98,2005,,Aktuel værdi
+Engesøvej 14A6853 Vejers Strand,rand,1.195.000,23-08-2002,Alm. Salg,-,4,Sommerhus,154,1991,,Aktuel værdi
+Vejers Havvej 456853 Vejers Strand,rand,620.000,13-08-2002,Alm. Salg,-,4,Sommerhus,81,1947,,Aktuel værdi
+Rosenvej 136853 Vejers Strand,rand,1.095.000,12-08-2002,Alm. Salg,15.642,4,Sommerhus,70,1972,,Aktuel værdi
+Kræmmervej 156853 Vejers Strand,rand,795.000,05-07-2002,Alm. Salg,-,5,Sommerhus,85,1985,,Aktuel værdi
+Rådyrvej 36853 Vejers Strand,rand,625.000,27-06-2002,Alm. Salg,7.440,4,Sommerhus,84,1974,,Aktuel værdi
+Muffparken 146853 Vejers Strand,rand,1.258.975,21-06-2002,Alm. Salg,6.917,5,Sommerhus,182,1992,,Aktuel værdi
+Snogevej 26853 Vejers Strand,rand,738.000,05-06-2002,Alm. Salg,-,4,Sommerhus,57,1991,,Aktuel værdi
+Engesøvej 456853 Vejers Strand,rand,866.197,18-05-2002,Alm. Salg,-,3,Sommerhus,88,1983,,Aktuel værdi
+Bjærgevej 16853 Vejers Strand,rand,1.550.000,27-04-2002,Alm. Salg,13.362,5,Sommerhus,116,1991,,Aktuel værdi
+Engesøvej 166853 Vejers Strand,rand,1.290.000,25-04-2002,Alm. Salg,10.840,5,Sommerhus,119,1997,,Aktuel værdi
+Ørnevej 56853 Vejers Strand,rand,603.500,25-04-2002,Fam. Salg,7.543,4,Sommerhus,80,1972,,Aktuel værdi
+Risvej 336853 Vejers Strand,rand,520.000,15-04-2002,Fam. Salg,9.454,4,Sommerhus,55,1967,,Aktuel værdi
+Aarrildsøvej 56853 Vejers Strand,rand,570.500,13-04-2002,Fam. Salg,8.035,4,Sommerhus,71,1977,,Aktuel værdi
+Ørnevej 16853 Vejers Strand,rand,655.000,25-03-2002,Alm. Salg,-,5,Sommerhus,132,1970,,Aktuel værdi
+Gulspurvevej 66853 Vejers Strand,rand,785.000,15-03-2002,Alm. Salg,12.076,4,Sommerhus,65,1970,,Aktuel værdi
+Nordvej 11. 136853 Vejers Strand,rand,795.000,14-03-2002,Alm. Salg,12.822,4,Sommerhus,62,1992,,Aktuel værdi
+Nålevej 146853 Vejers Strand,rand,136.000,12-03-2002,Fam. Salg,1.789,4,Sommerhus,76,1968,,Aktuel værdi
+Duevej 16853 Vejers Strand,rand,570.000,26-02-2002,Alm. Salg,7.808,4,Sommerhus,73,1980,,Aktuel værdi
+Sydvej 296853 Vejers Strand,rand,1.449.592,23-02-2002,Alm. Salg,13.675,5,Sommerhus,106,1955,,Aktuel værdi
+Kræmmervej 356853 Vejers Strand,rand,1.728.339,21-02-2002,Alm. Salg,16.152,4,Sommerhus,107,2001,,Aktuel værdi
+Torskevej 276853 Vejers Strand,rand,725.000,18-02-2002,Alm. Salg,10.357,4,Sommerhus,70,1972,,Aktuel værdi
+Snogevej 86853 Vejers Strand,rand,1.325.000,13-02-2002,Alm. Salg,11.725,5,Sommerhus,113,1990,,Aktuel værdi
+Risvej 396853 Vejers Strand,rand,1.186.454,11-02-2002,Alm. Salg,10.985,4,Sommerhus,108,1959,,Aktuel værdi
+Bjærgevej 336853 Vejers Strand,rand,405.000,23-01-2002,Fam. Salg,3.461,6,Sommerhus,117,1931,,Aktuel værdi
+Nordvej 11. 16853 Vejers Strand,rand,837.300,07-01-2002,Alm. Salg,12.881,4,Sommerhus,65,1992,,Aktuel værdi
+Nordvej 11. 46853 Vejers Strand,rand,845.000,18-12-2001,Alm. Salg,-,4,Fritid,-,1992,,Aktuel værdi
+Bjærgevej 46853 Vejers Strand,rand,127.500,10-12-2001,Fam. Salg,1.108,6,Sommerhus,115,1928,,Aktuel værdi
+Nordvej 746853 Vejers Strand,rand,825.548,09-12-2001,Fam. Salg,8.255,4,Sommerhus,100,2005,,Aktuel værdi
+Nordvej 106853 Vejers Strand,rand,850.000,07-12-2001,Fam. Salg,7.727,3,Sommerhus,110,2009,,Aktuel værdi
+Vejers Havvej 466853 Vejers Strand,rand,569.500,06-12-2001,Fam. Salg,8.500,4,Sommerhus,67,1975,,Aktuel værdi
+Mågevej 17A6853 Vejers Strand,rand,550.000,06-12-2001,Alm. Salg,9.016,4,Sommerhus,61,1952,,Aktuel værdi
+Spurvevej 36853 Vejers Strand,rand,620.000,29-11-2001,Alm. Salg,12.400,3,Sommerhus,50,1958,,Aktuel værdi
+Lyngdalsvej 86853 Vejers Strand,rand,433.500,26-11-2001,Fam. Salg,-,7,Sommerhus,137,1964,,Aktuel værdi
+Nordvej 116A6853 Vejers Strand,rand,1.200.000,24-11-2001,Andet,-,6,Sommerhus,87,1988,,Aktuel værdi
+Rylevej 186853 Vejers Strand,rand,425.000,10-10-2001,Fam. Salg,5.246,4,Sommerhus,81,1931,,Aktuel værdi
+Bjærgevej 66853 Vejers Strand,rand,1.645.000,24-09-2001,Alm. Salg,8.350,6,Sommerhus,197,2002,,Aktuel værdi
+Nordvej 346853 Vejers Strand,rand,625.000,03-09-2001,Alm. Salg,10.080,4,Sommerhus,62,1955,,Aktuel værdi
+Snerlevej 76853 Vejers Strand,rand,1.500.000,27-08-2001,Alm. Salg,11.111,6,Sommerhus,135,1926,,Aktuel værdi
+Nordvej 306853 Vejers Strand,rand,715.000,22-08-2001,Alm. Salg,11.916,3,Sommerhus,60,1957,,Aktuel værdi
+Kratvej 246853 Vejers Strand,rand,887.577,25-07-2001,Alm. Salg,9.861,5,Sommerhus,90,1961,,Aktuel værdi
+Risvej 116853 Vejers Strand,rand,600.000,05-07-2001,Fam. Salg,12.000,4,Sommerhus,50,1958,,Aktuel værdi
+"Vejers Havvej 83, 16853 Vejers Strand",rand,1.700.000,29-06-2001,Andet,-,2,Lejlighed,52,1976,,Aktuel værdi
+Spættevej 3B6853 Vejers Strand,rand,1.500.000,15-06-2001,Alm. Salg,14.851,5,Sommerhus,101,2003,,Aktuel værdi
+Vejers Sydstrand 1. 56853 Vejers Strand,rand,375.000,11-06-2001,Alm. Salg,-,2,Sommerhus,31,1961,,Aktuel værdi
+Tyttebærvej 146853 Vejers Strand,rand,1.275.000,21-05-2001,Alm. Salg,15.937,3,Sommerhus,80,1962,,Aktuel værdi
+Kræmmervej 336853 Vejers Strand,rand,1.243.000,07-05-2001,Alm. Salg,13.811,3,Sommerhus,90,2001,,Aktuel værdi
+Aavej 66853 Vejers Strand,rand,667.500,26-04-2001,Alm. Salg,8.449,4,Sommerhus,79,1964,,Aktuel værdi
+Engesøvej 26853 Vejers Strand,rand,775.000,17-04-2001,Alm. Salg,10.763,4,Sommerhus,72,1988,,Aktuel værdi
+Engesøvej 866853 Vejers Strand,rand,808.525,12-04-2001,Alm. Salg,13.475,4,Sommerhus,60,1986,,Aktuel værdi
+Nordvej 816853 Vejers Strand,rand,1.300.000,07-04-2001,Alm. Salg,12.500,5,Sommerhus,104,1938,,Aktuel værdi
+Nordvej 47C6853 Vejers Strand,rand,1.635.000,26-03-2001,Alm. Salg,13.974,5,Sommerhus,117,1992,,Aktuel værdi
+Vejers Sydstrand 1. 136853 Vejers Strand,rand,300.000,27-02-2001,Alm. Salg,-,2,Sommerhus,31,1961,,Aktuel værdi
+Snerlevej 46853 Vejers Strand,rand,1.895.000,26-02-2001,Alm. Salg,17.546,5,Sommerhus,108,1999,,Aktuel værdi
+Engesøvej 20B6853 Vejers Strand,rand,285.743,19-02-2001,Alm. Salg,-,4,Sommerhus,82,1988,,Aktuel værdi
+Nordvej 366853 Vejers Strand,rand,1.130.000,03-02-2001,Alm. Salg,-,5,Sommerhus,126,1968,,Aktuel værdi
+Mågevej 46853 Vejers Strand,rand,330.000,11-01-2001,Alm. Salg,5.156,3,Sommerhus,64,1949,,Aktuel værdi
+Vejers Havvej 396853 Vejers Strand,rand,770.000,10-12-2000,Alm. Salg,17.111,3,Sommerhus,45,1948,,Aktuel værdi
+Fugltoft 176853 Vejers Strand,rand,880.000,30-11-2000,Alm. Salg,9.166,5,Sommerhus,96,1988,,Aktuel værdi
+Engesøvej 1156853 Vejers Strand,rand,1.370.146,01-11-2000,Alm. Salg,14.125,4,Sommerhus,97,2000,,Aktuel værdi
+Vibevej 86853 Vejers Strand,rand,525.000,10-10-2000,Alm. Salg,10.937,3,Sommerhus,48,1952,,Aktuel værdi
+Kræmmervej 476853 Vejers Strand,rand,1.504.245,06-10-2000,Alm. Salg,14.058,4,Sommerhus,107,2000,,Aktuel værdi
+Spættevej 126853 Vejers Strand,rand,539.999,04-10-2000,Alm. Salg,10.799,3,Sommerhus,50,1969,,Aktuel værdi
+Risvej 246853 Vejers Strand,rand,785.000,03-10-2000,Alm. Salg,9.812,4,Sommerhus,80,1969,,Aktuel værdi
+Nordvej 466853 Vejers Strand,rand,263.500,27-09-2000,Fam. Salg,-,3,Sommerhus,50,1951,,Aktuel værdi
+"Vejers Havvej 81B, 16853 Vejers Strand",rand,1.200.000,23-09-2000,Alm. Salg,-,1,Lejlighed,30,2001,,Aktuel værdi
+Torskevej 256853 Vejers Strand,rand,625.000,22-08-2000,Alm. Salg,12.500,3,Sommerhus,50,1973,,Aktuel værdi
+Kratvej 176853 Vejers Strand,rand,323.000,12-08-2000,Fam. Salg,6.460,4,Sommerhus,50,1940,,Aktuel værdi
+Rylevej 326853 Vejers Strand,rand,229.500,07-08-2000,Fam. Salg,5.100,4,Sommerhus,45,1955,,Aktuel værdi
+Sydvej 496853 Vejers Strand,rand,1.096.081,28-07-2000,Alm. Salg,15.437,3,Sommerhus,71,1946,,Aktuel værdi
+Rosenvej 36853 Vejers Strand,rand,450.000,30-06-2000,Alm. Salg,4.736,5,Sommerhus,95,1914,,Aktuel værdi
+Nordvej 146853 Vejers Strand,rand,800.000,26-06-2000,Alm. Salg,13.559,3,Sommerhus,59,1952,,Aktuel værdi
+Sydvej 536853 Vejers Strand,rand,603.500,12-06-2000,Fam. Salg,8.621,5,Sommerhus,70,1950,,Aktuel værdi
+Fugltoft 146853 Vejers Strand,rand,750.000,18-05-2000,Alm. Salg,7.812,5,Sommerhus,96,1988,,Aktuel værdi
+Aarrildsøvej 136853 Vejers Strand,rand,847.000,21-04-2000,Alm. Salg,12.455,4,Sommerhus,68,1977,,Aktuel værdi
+Vejers Havvej 326853 Vejers Strand,rand,495.808,17-04-2000,Alm. Salg,3.998,5,Sommerhus,124,2006,,Aktuel værdi
+"Mågevej 8C, 1. TH6853 Vejers Strand",rand,320.000,11-04-2000,Alm. Salg,5.245,3,Sommerhus,61,1937,,Aktuel værdi
+Vejers Havvej 316853 Vejers Strand,rand,475.000,30-03-2000,Andet,9.134,5,Sommerhus,52,1948,,Aktuel værdi
+Vejers Havvej 256853 Vejers Strand,rand,260.000,27-03-2000,Fam. Salg,4.000,3,Sommerhus,65,1976,,Aktuel værdi
+Kræmmervej 276853 Vejers Strand,rand,1.397.505,20-03-2000,Alm. Salg,14.557,4,Sommerhus,96,2000,,Aktuel værdi
+Tyttebærvej 5A6853 Vejers Strand,rand,880.000,28-02-2000,Alm. Salg,11.000,5,Sommerhus,80,1978,,Aktuel værdi
+Nålevej 86853 Vejers Strand,rand,680.000,24-02-2000,Alm. Salg,-,5,Sommerhus,99,1967,,Aktuel værdi
+Snogevej 186853 Vejers Strand,rand,467.500,23-01-2000,Alm. Salg,6.493,4,Sommerhus,72,1965,,Aktuel værdi
+"Mågevej 8A, ST6853 Vejers Strand",rand,161.500,20-01-2000,Fam. Salg,3.047,3,Sommerhus,53,1937,,Aktuel værdi
+Sydvej 276853 Vejers Strand,rand,1.000.000,05-01-2000,Alm. Salg,6.944,5,Sommerhus,144,1992,,Aktuel værdi
+Torskevej 56853 Vejers Strand,rand,535.000,22-12-1999,Fam. Salg,5.095,5,Sommerhus,105,1974,,Aktuel værdi
+Sydvej 96853 Vejers Strand,rand,650.000,15-12-1999,Fam. Salg,6.914,5,Sommerhus,94,1976,,Aktuel værdi
+Nålevej 116853 Vejers Strand,rand,540.000,01-12-1999,Alm. Salg,7.500,6,Sommerhus,72,1962,,Aktuel værdi
+Kræmmervej 456853 Vejers Strand,rand,400.000,08-11-1999,Alm. Salg,3.883,5,Sommerhus,103,2001,,Aktuel værdi
+Nordvej 1086853 Vejers Strand,rand,1.195.000,29-09-1999,Alm. Salg,8.984,5,Sommerhus,133,2000,,Aktuel værdi
+Kræmmervej 216853 Vejers Strand,rand,493.000,22-09-1999,Fam. Salg,5.082,5,Sommerhus,97,1964,,Aktuel værdi
+Vejers Havvej 896853 Vejers Strand,rand,901.067,20-09-1999,Alm. Salg,7.904,3,Sommerhus,114,1910,,Aktuel værdi
+Rylevej 266853 Vejers Strand,rand,364.148,16-09-1999,Alm. Salg,3.833,4,Sommerhus,95,1965,,Aktuel værdi
+Aavej 16853 Vejers Strand,rand,510.000,06-09-1999,Alm. Salg,7.083,4,Sommerhus,72,1927,,Aktuel værdi
+Fugltoft 36853 Vejers Strand,rand,825.000,06-09-1999,Alm. Salg,8.593,6,Sommerhus,96,1988,,Aktuel værdi
+Risvej 526853 Vejers Strand,rand,680.000,23-08-1999,Alm. Salg,10.149,4,Sommerhus,67,1962,,Aktuel værdi
+Rosenvej 156853 Vejers Strand,rand,250.000,18-08-1999,Alm. Salg,-,5,Sommerhus,115,1971,,Aktuel værdi
+Ørnevej 256853 Vejers Strand,rand,713.851,11-08-1999,Alm. Salg,8.111,4,Sommerhus,88,1975,,Aktuel værdi
+Kræmmervej 76853 Vejers Strand,rand,725.000,09-08-1999,Alm. Salg,-,4,Sommerhus,90,1969,,Aktuel værdi
+"Vejers Havvej 77, ST6853 Vejers Strand",rand,792.500,04-08-1999,Alm. Salg,7.925,4,Sommerhus,100,2017,,Aktuel værdi
+Uglevej 116853 Vejers Strand,rand,42.500,26-07-1999,Fam. Salg,-,5,Sommerhus,76,1955,,Aktuel værdi
+Torskevej 116853 Vejers Strand,rand,255.487,09-07-1999,Alm. Salg,4.258,4,Sommerhus,60,1972,,Aktuel værdi
+Jafdalvej 816853 Vejers Strand,rand,881.000,30-06-1999,Alm. Salg,4.921,5,Sommerhus,179,1989,,Aktuel værdi
+Mosevej 186853 Vejers Strand,rand,660.000,16-06-1999,Alm. Salg,-,4,Sommerhus,85,1976,,Aktuel værdi
+Rådyrvej 256853 Vejers Strand,rand,565.000,03-06-1999,Alm. Salg,7.533,4,Sommerhus,75,1973,,Aktuel værdi
+Vejers Sydstrand 1. 146853 Vejers Strand,rand,265.000,01-06-1999,Alm. Salg,-,2,Sommerhus,28,1961,,Aktuel værdi
+Vejers Havvej 11C6853 Vejers Strand,rand,280.000,28-05-1999,Alm. Salg,3.294,2,Sommerhus,85,1877,,Aktuel værdi
+Jafdalvej 956853 Vejers Strand,rand,1.150.000,12-05-1999,Alm. Salg,9.829,4,Sommerhus,117,1989,,Aktuel værdi
+Vejers Havvej 43B6853 Vejers Strand,rand,531.426,02-05-1999,Fam. Salg,-,4,Sommerhus,78,1963,,Aktuel værdi
+Rådyrvej 17B6853 Vejers Strand,rand,900.000,19-04-1999,Alm. Salg,-,4,Sommerhus,143,1991,,Aktuel værdi
+Engesøvej 1096853 Vejers Strand,rand,672.000,29-03-1999,Alm. Salg,10.338,4,Sommerhus,65,1975,,Aktuel værdi
+Nordvej 666853 Vejers Strand,rand,730.000,23-02-1999,Alm. Salg,11.060,4,Sommerhus,66,1929,,Aktuel værdi
+Ørnevej 386853 Vejers Strand,rand,43.700,10-02-1999,Fam. Salg,910,4,Sommerhus,48,1969,,Aktuel værdi
+Violvej 226853 Vejers Strand,rand,1.080.214,19-01-1999,Alm. Salg,11.022,4,Sommerhus,98,1993,,Aktuel værdi
+Spurvevej 16853 Vejers Strand,rand,72.000,29-12-1998,Alm. Salg,1.800,4,Sommerhus,40,1957,,Aktuel værdi
+Fugltoft 66853 Vejers Strand,rand,810.000,20-12-1998,Alm. Salg,8.437,5,Sommerhus,96,1988,,Aktuel værdi
+Havstien 2B6853 Vejers Strand,rand,209.100,18-12-1998,Fam. Salg,1.972,4,Sommerhus,106,2012,,Aktuel værdi
+Risvej 136853 Vejers Strand,rand,340.000,06-12-1998,Fam. Salg,6.800,3,Sommerhus,50,1975,,Aktuel værdi
+Jafdalvej 736853 Vejers Strand,rand,325.000,01-12-1998,Fam. Salg,2.754,5,Sommerhus,118,1994,,Aktuel værdi
+Jafdalvej 996853 Vejers Strand,rand,1.107.840,18-11-1998,Alm. Salg,6.633,6,Sommerhus,167,1988,,Aktuel værdi
+Nordvej 45B6853 Vejers Strand,rand,1.025.000,16-11-1998,Alm. Salg,14.236,4,Sommerhus,72,1983,,Aktuel værdi
+Risvej 506853 Vejers Strand,rand,216.200,13-11-1998,Fam. Salg,6.005,3,Sommerhus,36,1962,,Aktuel værdi
+Nordvej 646853 Vejers Strand,rand,1.351.628,26-10-1998,Alm. Salg,12.751,4,Sommerhus,106,1998,,Aktuel værdi
+Vejers Havvej 306853 Vejers Strand,rand,475.929,18-10-1998,Alm. Salg,7.211,4,Sommerhus,66,1958,,Aktuel værdi
+Gulspurvevej 116853 Vejers Strand,rand,615.000,17-09-1998,Alm. Salg,9.461,4,Sommerhus,65,1972,,Aktuel værdi
+Sydvej 256853 Vejers Strand,rand,575.000,12-09-1998,Alm. Salg,5.373,3,Sommerhus,107,1999,,Aktuel værdi
+Engesøvej 10B6853 Vejers Strand,rand,999.000,26-08-1998,Alm. Salg,10.298,4,Sommerhus,97,1995,,Aktuel værdi
+Vejers Havvej 726853 Vejers Strand,rand,975.000,13-08-1998,Alm. Salg,-,9,Villa,152,1955,,Aktuel værdi
+Vejers Havvej 356853 Vejers Strand,rand,740.000,08-08-1998,Fam. Salg,8.131,5,Sommerhus,91,1977,,Aktuel værdi
+Ørnevej 226853 Vejers Strand,rand,487.500,23-06-1998,Alm. Salg,8.405,3,Sommerhus,58,1970,,Aktuel værdi
+Vejers Sydstrand 1. 186853 Vejers Strand,rand,250.000,17-06-1998,Alm. Salg,-,2,Sommerhus,31,1961,,Aktuel værdi
+Gøgevej 196853 Vejers Strand,rand,615.400,04-06-1998,Alm. Salg,5.544,4,Sommerhus,111,1962,,Aktuel værdi
+Rylevej 286853 Vejers Strand,rand,427.000,25-05-1998,Alm. Salg,-,8,Sommerhus,113,1950,,Aktuel værdi
+Muffparken 26853 Vejers Strand,rand,643.485,11-05-1998,Alm. Salg,-,3,Sommerhus,69,1977,,Aktuel værdi
+Muffparken 156853 Vejers Strand,rand,560.000,03-05-1998,Alm. Salg,6.588,5,Sommerhus,85,1969,,Aktuel værdi
+Aavej 156853 Vejers Strand,rand,550.000,10-04-1998,Alm. Salg,-,5,Sommerhus,86,1962,,Aktuel værdi
+Fugltoft 216853 Vejers Strand,rand,840.000,20-03-1998,Alm. Salg,-,6,Sommerhus,123,1988,,Aktuel værdi
+Nordvej 73A6853 Vejers Strand,rand,1.225.000,06-03-1998,Alm. Salg,15.123,4,Sommerhus,81,1987,,Aktuel værdi
+Torskevej 206853 Vejers Strand,rand,711.000,19-01-1998,Alm. Salg,-,4,Sommerhus,95,1976,,Aktuel værdi
+Kratvej 86853 Vejers Strand,rand,176.975,14-01-1998,Fam. Salg,-,5,Sommerhus,102,1958,,Aktuel værdi
+Aarrildsøvej 216853 Vejers Strand,rand,238.000,31-12-1997,Fam. Salg,2.975,4,Sommerhus,80,1977,,Aktuel værdi
+Torskevej 156853 Vejers Strand,rand,133.200,30-12-1997,Fam. Salg,2.081,5,Sommerhus,64,1937,,Aktuel værdi
+Ternevej 26853 Vejers Strand,rand,391.000,30-12-1997,Fam. Salg,6.015,4,Sommerhus,65,1999,,Aktuel værdi
+Ørnevej 446853 Vejers Strand,rand,405.000,03-12-1997,Alm. Salg,-,4,Sommerhus,80,1960,,Aktuel værdi
+Lyngdalsvej 56853 Vejers Strand,rand,1.214.980,06-10-1997,Alm. Salg,9.346,5,Sommerhus,130,1992,,Aktuel værdi
+Nordvej 156853 Vejers Strand,rand,735.000,24-09-1997,Alm. Salg,-,3,Sommerhus,83,1932,,Aktuel værdi
+Peders Vej 126853 Vejers Strand,rand,765.000,22-09-1997,Alm. Salg,10.928,4,Sommerhus,70,1975,,Aktuel værdi
+Gøgevej 426853 Vejers Strand,rand,467.500,29-07-1997,Fam. Salg,5.500,5,Sommerhus,85,1969,,Aktuel værdi
+Nordvej 386853 Vejers Strand,rand,200.000,12-07-1997,Alm. Salg,3.030,3,Sommerhus,66,1998,,Aktuel værdi
+Duevej 36853 Vejers Strand,rand,110.500,26-06-1997,Fam. Salg,1.347,4,Sommerhus,82,1997,,Aktuel værdi
+Vejers Havvej 526853 Vejers Strand,rand,760.000,21-06-1997,Alm. Salg,9.047,4,Sommerhus,84,1970,,Aktuel værdi
+Jafdalvej 216853 Vejers Strand,rand,894.440,21-05-1997,Alm. Salg,12.087,4,Sommerhus,74,1988,,Aktuel værdi
+Plantørstien 16853 Vejers Strand,rand,670.000,16-05-1997,Alm. Salg,6.979,5,Sommerhus,96,1952,,Aktuel værdi
+Vejers Havvej 29A6853 Vejers Strand,rand,300.000,30-04-1997,Fam. Salg,4.054,4,Sommerhus,74,1967,,Aktuel værdi
+Nordvej 486853 Vejers Strand,rand,655.184,30-04-1997,Alm. Salg,10.919,2,Sommerhus,60,1935,,Aktuel værdi
+Vejers Havvej 1056853 Vejers Strand,rand,2.790.934,30-04-1997,Fam. Salg,12.459,5,Villa,224,1978,,Aktuel værdi
+Nordvej 756853 Vejers Strand,rand,1.150.000,28-04-1997,Alm. Salg,6.534,4,Sommerhus,176,2004,,Aktuel værdi
+Vejers Havvej 746853 Vejers Strand,rand,770.000,17-04-1997,Fam. Salg,5.032,4,Villa,153,2016,,Aktuel værdi
+Sydvej 376853 Vejers Strand,rand,240.000,12-03-1997,Fam. Salg,5.000,3,Sommerhus,48,1932,,Aktuel værdi
+Gøgevej 136853 Vejers Strand,rand,849.000,06-03-1997,Alm. Salg,9.228,4,Sommerhus,92,1988,,Aktuel værdi
+Spættevej 86853 Vejers Strand,rand,919.772,17-02-1997,Alm. Salg,10.334,5,Sommerhus,89,1968,,Aktuel værdi
+Rådyrvej 206853 Vejers Strand,rand,350.000,13-02-1997,Fam. Salg,3.500,4,Sommerhus,100,2007,,Aktuel værdi
+Peders Vej 26853 Vejers Strand,rand,1.279.000,10-02-1997,Alm. Salg,9.544,4,Sommerhus,134,1995,,Aktuel værdi
+Tyttebærvej 196853 Vejers Strand,rand,800.000,07-02-1997,Alm. Salg,13.559,3,Sommerhus,59,1985,,Aktuel værdi
+Engesøvej 1056853 Vejers Strand,rand,674.000,30-01-1997,Alm. Salg,8.219,4,Sommerhus,82,1974,,Aktuel værdi
+Kratvej 606853 Vejers Strand,rand,470.000,29-01-1997,Alm. Salg,7.230,3,Sommerhus,65,1960,,Aktuel værdi
+Engesøvej 1016853 Vejers Strand,rand,1.297.650,09-01-1997,Alm. Salg,6.723,5,Sommerhus,193,1992,,Aktuel værdi
+Engesøvej 116853 Vejers Strand,rand,743.077,18-12-1996,Alm. Salg,-,4,Sommerhus,87,1990,,Aktuel værdi
+Nordvej 556853 Vejers Strand,rand,958.510,26-10-1996,Alm. Salg,10.892,4,Sommerhus,88,1988,,Aktuel værdi
+Nordvej 406853 Vejers Strand,rand,797.000,09-08-1996,Alm. Salg,-,5,Sommerhus,84,1981,,Aktuel værdi
+Stendalsvej 106853 Vejers Strand,rand,272.000,10-07-1996,Fam. Salg,3.626,4,Sommerhus,75,1967,,Aktuel værdi
+Vejers Havvej 556853 Vejers Strand,rand,467.498,05-07-1996,Fam. Salg,4.452,4,Sommerhus,105,1948,,Aktuel værdi
+Jafdalvej 916853 Vejers Strand,rand,1.106.000,27-06-1996,Alm. Salg,9.452,4,Sommerhus,117,1991,,Aktuel værdi
+Mosevej 36853 Vejers Strand,rand,196.000,22-06-1996,Alm. Salg,3.438,5,Sommerhus,57,1934,,Aktuel værdi
+Nordvej 7B6853 Vejers Strand,rand,1.100.000,15-06-1996,Alm. Salg,13.924,4,Sommerhus,79,1994,,Aktuel værdi
+Violvej 1A6853 Vejers Strand,rand,725.000,12-06-1996,Alm. Salg,9.177,4,Sommerhus,79,1976,,Aktuel værdi
+Vejers Havvej 856853 Vejers Strand,rand,860.000,06-06-1996,Alm. Salg,27.741,4,BygningTilHandel,31,1998,,Aktuel værdi
+Vejers Havvej 86853 Vejers Strand,rand,320.000,31-05-1996,Fam. Salg,5.818,4,Sommerhus,55,1967,,Aktuel værdi
+Duevej 56853 Vejers Strand,rand,450.000,31-05-1996,Alm. Salg,5.696,4,Sommerhus,79,1959,,Aktuel værdi
+Nordvej 51A6853 Vejers Strand,rand,662.000,14-05-1996,Alm. Salg,8.710,4,Sommerhus,76,1976,,Aktuel værdi
+Risvej 66853 Vejers Strand,rand,537.381,06-05-1996,Alm. Salg,-,4,Sommerhus,66,1950,,Aktuel værdi
+Stendalsvej 36853 Vejers Strand,rand,323.000,02-05-1996,Fam. Salg,5.046,3,Sommerhus,64,1959,,Aktuel værdi
+Kratvej 26853 Vejers Strand,rand,365.500,27-04-1996,Fam. Salg,5.375,4,Sommerhus,68,1975,,Aktuel værdi
+Nordvej 116C6853 Vejers Strand,rand,1.293.000,18-04-1996,Alm. Salg,11.862,5,Sommerhus,109,1990,,Aktuel værdi
+Nordvej 63B6853 Vejers Strand,rand,900.000,01-04-1996,Alm. Salg,-,6,Sommerhus,208,1999,,Aktuel værdi
+Nordvej 4A6853 Vejers Strand,rand,675.000,23-03-1996,Alm. Salg,10.227,3,Sommerhus,66,1916,,Aktuel værdi
+Nordvej 136853 Vejers Strand,rand,245.000,07-01-1996,Alm. Salg,2.187,5,Sommerhus,112,1973,,Aktuel værdi
+Nordvej 186853 Vejers Strand,rand,578.000,26-10-1995,Alm. Salg,11.560,4,Sommerhus,50,2000,,Aktuel værdi
+Vejers Havvej 11B6853 Vejers Strand,rand,165.000,24-10-1995,Alm. Salg,3.437,2,Sommerhus,48,1877,,Aktuel værdi
+Risvej 196853 Vejers Strand,rand,1.058.000,16-10-1995,Alm. Salg,13.225,5,Sommerhus,80,1995,,Aktuel værdi
+Nordvej 226853 Vejers Strand,rand,544.000,29-09-1995,Fam. Salg,4.945,4,Villa,110,1972,,Aktuel værdi
+Ørnevej 206853 Vejers Strand,rand,418.000,26-09-1995,Alm. Salg,8.530,3,Sommerhus,49,1969,,Aktuel værdi
+Kratvej 626853 Vejers Strand,rand,575.000,11-09-1995,Alm. Salg,6.764,5,Sommerhus,85,1977,,Aktuel værdi
+Kratvej 406853 Vejers Strand,rand,212.500,28-08-1995,Fam. Salg,1.967,4,Sommerhus,108,1950,,Aktuel værdi
+Spættevej 136853 Vejers Strand,rand,292.335,25-08-1995,Alm. Salg,-,3,Sommerhus,85,1968,,Aktuel værdi
+Stendalsvej 26853 Vejers Strand,rand,756.000,10-07-1995,Alm. Salg,7.485,6,Sommerhus,101,1964,,Aktuel værdi
+Bjærgevej 15B6853 Vejers Strand,rand,600.000,01-07-1995,Alm. Salg,4.026,6,Sommerhus,149,1995,,Aktuel værdi
+Snogevej 166853 Vejers Strand,rand,435.000,31-05-1995,Alm. Salg,10.875,3,Sommerhus,40,1962,,Aktuel værdi
+Engesøvej 366853 Vejers Strand,rand,725.000,29-05-1995,Alm. Salg,6.775,5,Sommerhus,107,1992,,Aktuel værdi
+Engesøvej 296853 Vejers Strand,rand,700.000,29-05-1995,Alm. Salg,7.000,5,Sommerhus,100,1992,,Aktuel værdi
+Vejers Havvej 1036853 Vejers Strand,rand,162.500,03-05-1995,Alm. Salg,2.031,4,Sommerhus,80,1925,,Aktuel værdi
+Rådyrvej 216853 Vejers Strand,rand,460.000,27-04-1995,Alm. Salg,7.666,4,Sommerhus,60,1972,,Aktuel værdi
+Spættevej 76853 Vejers Strand,rand,441.985,17-04-1995,Fam. Salg,6.596,4,Sommerhus,67,1968,,Aktuel værdi
+Torskevej 166853 Vejers Strand,rand,690.000,02-04-1995,Alm. Salg,8.625,4,Sommerhus,80,1986,,Aktuel værdi
+Aavej 26853 Vejers Strand,rand,385.000,28-03-1995,Alm. Salg,-,4,Sommerhus,82,1962,,Aktuel værdi
+Gøgevej 76853 Vejers Strand,rand,665.000,24-03-1995,Alm. Salg,8.986,4,Sommerhus,74,1973,,Aktuel værdi
+Gøgevej 66853 Vejers Strand,rand,573.000,16-03-1995,Alm. Salg,-,5,Sommerhus,111,1971,,Aktuel værdi
+Spurvevej 76853 Vejers Strand,rand,260.000,18-02-1995,Fam. Salg,5.000,3,Sommerhus,52,1954,,Aktuel værdi
+"Mågevej 8F, ST6853 Vejers Strand",rand,127.500,10-02-1995,Fam. Salg,2.318,3,Sommerhus,55,1937,,Aktuel værdi
+Peders Vej 46853 Vejers Strand,rand,900.000,01-02-1995,Alm. Salg,10.714,4,Sommerhus,84,1994,,Aktuel værdi
+Vejers Havvej 496853 Vejers Strand,rand,330.000,21-01-1995,Fam. Salg,6.346,3,Sommerhus,52,1930,,Aktuel værdi
+Engesøvej 376853 Vejers Strand,rand,825.000,21-12-1994,Alm. Salg,7.783,5,Sommerhus,106,1992,,Aktuel værdi
+Gulspurvevej 16853 Vejers Strand,rand,600.000,05-12-1994,Auktion,5.000,4,Sommerhus,120,1977,,Aktuel værdi
+Kratvej 346853 Vejers Strand,rand,550.000,01-12-1994,Alm. Salg,-,4,Sommerhus,84,1970,,Aktuel værdi
+Engesøvej 706853 Vejers Strand,rand,465.000,30-11-1994,Alm. Salg,7.500,3,Sommerhus,62,1981,,Aktuel værdi
+Vejers Sydstrand 1. 16853 Vejers Strand,rand,200.000,10-11-1994,Alm. Salg,-,2,Sommerhus,24,1961,,Aktuel værdi
+Risvej 26853 Vejers Strand,rand,578.000,01-11-1994,Fam. Salg,5.504,5,Sommerhus,105,1935,,Aktuel værdi
+Vejers Havvej 11A6853 Vejers Strand,rand,206.800,30-08-1994,Alm. Salg,4.700,2,Sommerhus,44,1877,,Aktuel værdi
+Nordvej 1286853 Vejers Strand,rand,846.000,24-08-1994,Alm. Salg,-,4,Sommerhus,112,1977,,Aktuel værdi
+Engesøvej 316853 Vejers Strand,rand,1.075.000,07-07-1994,Alm. Salg,-,5,Sommerhus,109,1994,,Aktuel værdi
+Havstien 76853 Vejers Strand,rand,330.000,02-07-1994,Fam. Salg,-,4,Sommerhus,65,1966,,Aktuel værdi
+Engesøvej 96853 Vejers Strand,rand,680.000,24-06-1994,Alm. Salg,6.800,5,Sommerhus,100,1992,,Aktuel værdi
+Engesøvej 266853 Vejers Strand,rand,725.000,24-06-1994,Alm. Salg,6.775,5,Sommerhus,107,1992,,Aktuel værdi
+Engesøvej 286853 Vejers Strand,rand,725.000,24-06-1994,Alm. Salg,6.775,5,Sommerhus,107,1992,,Aktuel værdi
+Ternevej 126853 Vejers Strand,rand,650.000,21-06-1994,Alm. Salg,7.647,4,Sommerhus,85,1977,,Aktuel værdi
+Engesøvej 86853 Vejers Strand,rand,680.000,20-06-1994,Alm. Salg,6.800,5,Sommerhus,100,1992,,Aktuel værdi
+Engesøvej 346853 Vejers Strand,rand,725.000,20-06-1994,Alm. Salg,6.531,6,Sommerhus,111,1992,,Aktuel værdi
+Snerlevej 26853 Vejers Strand,rand,189.100,17-06-1994,Fam. Salg,2.011,5,Sommerhus,94,1973,,Aktuel værdi
+Vejers Sydstrand 1. 66853 Vejers Strand,rand,192.000,31-05-1994,Alm. Salg,-,2,Sommerhus,28,1961,,Aktuel værdi
+Muffparken 276853 Vejers Strand,rand,365.000,10-05-1994,Alm. Salg,5.289,3,Sommerhus,69,1968,,Aktuel værdi
+Nordvej 1226853 Vejers Strand,rand,540.000,09-05-1994,Alm. Salg,8.181,4,Sommerhus,66,1979,,Aktuel værdi
+Rådyrvej 46853 Vejers Strand,rand,178.500,02-05-1994,Fam. Salg,2.348,4,Sommerhus,76,1973,,Aktuel værdi
+Rådyrvej 236853 Vejers Strand,rand,500.000,15-04-1994,Alm. Salg,7.142,4,Sommerhus,70,1972,,Aktuel værdi
+Rådyrvej 276853 Vejers Strand,rand,425.000,14-04-1994,Alm. Salg,-,4,Sommerhus,106,1965,,Aktuel værdi
+Kræmmervej 146853 Vejers Strand,rand,330.000,12-04-1994,Alm. Salg,4.024,4,Sommerhus,82,1998,,Aktuel værdi
+Kratvej 306853 Vejers Strand,rand,445.000,01-04-1994,Alm. Salg,6.357,4,Sommerhus,70,1971,,Aktuel værdi
+Kræmmervej 136853 Vejers Strand,rand,595.000,01-04-1994,Alm. Salg,-,4,Sommerhus,104,1976,,Aktuel værdi
+Kræmmervej 56853 Vejers Strand,rand,290.000,17-03-1994,Alm. Salg,1.920,3,Sommerhus,151,2000,,Aktuel værdi
+Engesøvej 796853 Vejers Strand,rand,451.000,11-03-1994,Alm. Salg,-,5,Sommerhus,109,1981,,Aktuel værdi
+Snogevej 96853 Vejers Strand,rand,250.000,10-01-1994,Alm. Salg,2.551,4,Sommerhus,98,1997,,Aktuel værdi
+Tyttebærvej 36853 Vejers Strand,rand,1.050.000,01-01-1994,Fam. Salg,7.094,4,Sommerhus,148,1992,,Aktuel værdi
+Fugltoft 136853 Vejers Strand,rand,1.045.000,15-12-1993,Alm. Salg,-,5,Sommerhus,124,1988,,Aktuel værdi
+Tyttebærvej 86853 Vejers Strand,rand,493.000,15-12-1993,Fam. Salg,5.477,4,Sommerhus,90,1968,,Aktuel værdi
+Engesøvej 66853 Vejers Strand,rand,764.180,09-12-1993,Alm. Salg,8.490,4,Sommerhus,90,1990,,Aktuel værdi
+Fugltoft 236853 Vejers Strand,rand,1.045.000,06-12-1993,Alm. Salg,-,5,Sommerhus,96,1988,,Aktuel værdi
+Snogevej 76853 Vejers Strand,rand,257.000,17-11-1993,Alm. Salg,2.595,4,Sommerhus,99,1994,,Aktuel værdi
+Vejers Havvej 516853 Vejers Strand,rand,300.000,13-11-1993,Fam. Salg,5.555,4,Sommerhus,54,1937,,Aktuel værdi
+Risvej 406853 Vejers Strand,rand,550.000,01-10-1993,Alm. Salg,5.238,4,Sommerhus,105,1969,,Aktuel værdi
+Duevej 46853 Vejers Strand,rand,51.000,07-09-1993,Fam. Salg,-,3,Sommerhus,66,1961,,Aktuel værdi
+Vejers Sydstrand 1. 196853 Vejers Strand,rand,145.000,19-08-1993,Alm. Salg,-,2,Sommerhus,31,1961,,Aktuel værdi
+Mosevej 146853 Vejers Strand,rand,300.000,18-08-1993,Alm. Salg,5.357,3,Sommerhus,56,1961,,Aktuel værdi
+Gøgevej 386853 Vejers Strand,rand,229.500,02-08-1993,Fam. Salg,3.642,3,Sommerhus,63,1972,,Aktuel værdi
+Snogevej 56853 Vejers Strand,rand,555.000,28-05-1993,Alm. Salg,7.115,4,Sommerhus,78,1984,,Aktuel værdi
+Violvej 176853 Vejers Strand,rand,310.000,09-05-1993,Alm. Salg,-,4,Sommerhus,88,1993,,Aktuel værdi
+Ternevej 86853 Vejers Strand,rand,285.000,27-04-1993,Alm. Salg,3.958,4,Sommerhus,72,1947,,Aktuel værdi
+Duevej 76853 Vejers Strand,rand,300.000,15-03-1993,Alm. Salg,-,4,Sommerhus,100,1942,,Aktuel værdi
+Nordvej 1186853 Vejers Strand,rand,885.000,27-11-1992,Alm. Salg,-,6,Sommerhus,172,1936,,Aktuel værdi
+Engesøvej 1216853 Vejers Strand,rand,310.000,13-11-1992,Alm. Salg,3.369,4,Sommerhus,92,2007,,Aktuel værdi
+Jafdalvej 396853 Vejers Strand,rand,640.000,14-10-1992,Alm. Salg,8.101,4,Sommerhus,79,1984,,Aktuel værdi
+Jafdalvej 276853 Vejers Strand,rand,770.000,30-09-1992,Alm. Salg,8.651,4,Sommerhus,89,1983,,Aktuel værdi
+Gøgevej 56853 Vejers Strand,rand,785.000,29-08-1992,Alm. Salg,8.820,4,Sommerhus,89,1986,,Aktuel værdi
+Engesøvej 14B6853 Vejers Strand,rand,860.500,03-08-1992,Alm. Salg,11.032,3,Sommerhus,78,1992,,Aktuel værdi
+Rosenvej 126853 Vejers Strand,rand,781.000,08-07-1992,Alm. Salg,11.157,4,Sommerhus,70,1973,,Aktuel værdi
+Rosenvej 26853 Vejers Strand,rand,345.000,01-07-1992,Alm. Salg,4.600,5,Sommerhus,75,1936,,Aktuel værdi
+Bjærgevej 176853 Vejers Strand,rand,598.870,20-06-1992,Fam. Salg,7.984,4,Sommerhus,75,1994,,Aktuel værdi
+Jafdalvej 136853 Vejers Strand,rand,570.000,10-06-1992,Alm. Salg,8.507,4,Sommerhus,67,1984,,Aktuel værdi
+Jafdalvej 976853 Vejers Strand,rand,958.000,03-06-1992,Alm. Salg,-,7,Sommerhus,192,1990,,Aktuel værdi
+Nordvej 51B6853 Vejers Strand,rand,548.000,26-05-1992,Alm. Salg,3.942,5,Sommerhus,139,1992,,Aktuel værdi
+Gøgevej 186853 Vejers Strand,rand,533.000,25-05-1992,Andet,5.922,4,Sommerhus,90,2003,,Aktuel værdi
+Kræmmervej 46853 Vejers Strand,rand,610.000,11-03-1992,Fam. Salg,6.777,2,Sommerhus,90,1965,,Aktuel værdi
+Engesøvej 986853 Vejers Strand,rand,200.000,09-03-1992,Fam. Salg,3.076,4,Sommerhus,65,1980,,Aktuel værdi
+"Mågevej 8D, ST6853 Vejers Strand",rand,165.000,05-03-1992,Alm. Salg,2.750,3,Sommerhus,60,1937,,Aktuel værdi
+Engesøvej 1126853 Vejers Strand,rand,395.000,27-01-1992,Alm. Salg,-,4,Sommerhus,81,1974,,Aktuel værdi

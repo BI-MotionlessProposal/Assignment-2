@@ -1,0 +1,321 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Gl Nykøbingvej 1354572 Nørre Asmindrup,drup,605.000,15-03-2017,Alm. Salg,2.853,8,Villa,212,1965,-13 %,Aktuel værdi
+Kirkevej 44572 Nørre Asmindrup,drup,800.000,07-03-2017,Alm. Salg,5.000,4,Villa,160,1977,-9 %,Aktuel værdi
+Kollekollevej 264572 Nørre Asmindrup,drup,1.455.000,30-01-2017,Alm. Salg,11.279,4,Villa,129,1867,4 %,Aktuel værdi
+Kirkebjerg 134572 Nørre Asmindrup,drup,840.000,15-01-2017,Alm. Salg,5.283,5,Villa,159,1973,-4 %,Aktuel værdi
+Kollekollevej 174572 Nørre Asmindrup,drup,565.000,15-10-2016,Alm. Salg,3.466,6,Villa,163,1900,-16 %,Aktuel værdi
+Egegårdsvej 224572 Nørre Asmindrup,drup,785.000,07-08-2016,Alm. Salg,6.767,4,Villa,116,1976,0 %,Aktuel værdi
+Gl Nykøbingvej 564572 Nørre Asmindrup,drup,595.000,24-06-2016,Alm. Salg,4.612,5,Villa,129,1963,0 %,Aktuel værdi
+Asmindrupvej 244572 Nørre Asmindrup,drup,1.900.000,19-06-2016,Alm. Salg,6.506,7,Stuehus,292,1900,,
+Brændtvej 164572 Nørre Asmindrup,drup,1.149.500,19-06-2016,Alm. Salg,10.083,3,Stuehus,114,1914,,
+Jernbanevej 54572 Nørre Asmindrup,drup,900.000,18-06-2016,Alm. Salg,6.474,8,Villa,139,1932,1 %,Aktuel værdi
+Asmindrupvej 274572 Nørre Asmindrup,drup,1.735.000,28-05-2016,Alm. Salg,8.183,6,Villa,212,1980,-3 %,Aktuel værdi
+Gl Nykøbingvej 904572 Nørre Asmindrup,drup,375.000,20-05-2016,Alm. Salg,3.906,2,Villa,96,1880,,Aktuel værdi
+Odsherredvej 44572 Nørre Asmindrup,drup,760.000,04-05-2016,Andet,3.102,10,Stuehus,245,1911,-62 %,
+Kirkebjerg 204572 Nørre Asmindrup,drup,695.000,04-04-2016,Alm. Salg,5.265,6,Villa,132,1969,0 %,Aktuel værdi
+Gl Nykøbingvej 584572 Nørre Asmindrup,drup,495.000,11-03-2016,Alm. Salg,3.897,4,Villa,127,1962,0 %,Aktuel værdi
+Gl Nykøbingvej 504572 Nørre Asmindrup,drup,350.000,01-12-2015,Alm. Salg,5.468,3,Stuehus,64,1909,-29 %,
+Gl Nykøbingvej 514572 Nørre Asmindrup,drup,800.000,16-11-2015,Auktion,5.633,3,Stuehus,142,1909,,
+Ulkerupvej 44572 Nørre Asmindrup,drup,1.950.000,23-10-2015,Alm. Salg,11.142,4,Stuehus,175,1910,-13 %,
+Asmindrupvej 94572 Nørre Asmindrup,drup,570.000,29-09-2015,Alm. Salg,5.937,3,Villa,96,1964,-28 %,Aktuel værdi
+Asmindrupvej 314572 Nørre Asmindrup,drup,625.000,25-09-2015,Alm. Salg,5.681,4,Villa,110,1967,-4 %,Aktuel værdi
+Kirkevej 374572 Nørre Asmindrup,drup,750.000,21-09-2015,Alm. Salg,3.787,6,Villa,198,1811,-3 %,Aktuel værdi
+Nørremarksvej 114572 Nørre Asmindrup,drup,800.000,14-09-2015,Auktion,2.631,8,Stuehus,304,1900,-6 %,
+Søgårdssvinget 44572 Nørre Asmindrup,drup,1.300.000,01-08-2015,Alm. Salg,8.441,5,Villa,154,2003,-4 %,Aktuel værdi
+Nørremarksvej 5B4572 Nørre Asmindrup,drup,417.000,17-06-2015,Fam. Salg,5.712,3,Sommerhus,73,1963,,Aktuel værdi
+Kirkevej 314572 Nørre Asmindrup,drup,900.000,29-05-2015,Alm. Salg,4.128,6,Villa,218,1852,-18 %,Aktuel værdi
+Gl Nykøbingvej 1714572 Nørre Asmindrup,drup,1.540.000,24-04-2015,Alm. Salg,8.603,6,Villa,179,1930,-9 %,Aktuel værdi
+Gl Nykøbingvej 1534572 Nørre Asmindrup,drup,280.000,25-03-2015,Alm. Salg,4.000,2,Villa,70,1964,-5 %,Aktuel værdi
+Søgårdssvinget 154572 Nørre Asmindrup,drup,1.250.000,10-03-2015,Alm. Salg,7.911,4,Villa,158,1972,,Aktuel værdi
+Asmindrupvej 194572 Nørre Asmindrup,drup,2.500.000,28-01-2015,Alm. Salg,16.891,4,Stuehus,148,1918,-13 %,
+Brændtvej 114572 Nørre Asmindrup,drup,795.000,24-01-2015,Alm. Salg,9.034,3,Villa,88,1970,0 %,Aktuel værdi
+Kollekollevej 14572 Nørre Asmindrup,drup,4.575.000,09-01-2015,Alm. Salg,24.864,5,Stuehus,184,1900,-8 %,
+Hesselvej 34572 Nørre Asmindrup,drup,3.685.000,08-01-2015,Alm. Salg,17.139,8,Stuehus,215,1881,-13 %,
+Gl Nykøbingvej 1054572 Nørre Asmindrup,drup,250.000,22-12-2014,Auktion,2.049,5,Rækkehus,122,1919,-40 %,Aktuel værdi
+Skovlundevej 14572 Nørre Asmindrup,drup,1.400.000,19-12-2014,Alm. Salg,8.045,5,Stuehus,174,1908,,
+Hestehavevej 16B4572 Nørre Asmindrup,drup,950.000,09-10-2014,Alm. Salg,5.937,5,Villa,160,1777,,Aktuel værdi
+Annebjergvej 44572 Nørre Asmindrup,drup,530.000,06-10-2014,Auktion,7.066,3,Stuehus,75,1914,,
+Gl Nykøbingvej 444572 Nørre Asmindrup,drup,300.000,26-09-2014,Alm. Salg,2.678,3,Stuehus,112,1870,,
+Kollekollevej 54572 Nørre Asmindrup,drup,3.000.000,15-08-2014,Alm. Salg,15.544,9,Stuehus,193,1879,-14 %,
+Hestehavevej 344572 Nørre Asmindrup,drup,230.000,23-06-2014,Auktion,2.300,5,Villa,100,1930,,Aktuel værdi
+Gl Nykøbingvej 554572 Nørre Asmindrup,drup,120.650,10-04-2014,Alm. Salg,718,6,Stuehus,168,1924,,
+Kirkevej 184572 Nørre Asmindrup,drup,341.000,24-03-2014,Auktion,3.627,4,Villa,94,1968,,Aktuel værdi
+Kirkevej 214572 Nørre Asmindrup,drup,550.000,06-02-2014,Alm. Salg,2.182,8,Villa,252,1975,,Aktuel værdi
+Gl Nykøbingvej 1214572 Nørre Asmindrup,drup,975.000,25-01-2014,Alm. Salg,7.330,4,Villa,133,1961,-7 %,Aktuel værdi
+Kirkebjerg 24572 Nørre Asmindrup,drup,330.000,13-01-2014,Auktion,2.619,4,Villa,126,1969,,Aktuel værdi
+Hestehavevej 284572 Nørre Asmindrup,drup,1.850.000,30-10-2013,Alm. Salg,10.511,6,Villa,176,1920,-6 %,Aktuel værdi
+Møllekrogen 14572 Nørre Asmindrup,drup,537.500,15-10-2013,Alm. Salg,4.976,4,Villa,108,1968,-10 %,Aktuel værdi
+Jernbanevej 94572 Nørre Asmindrup,drup,1.250.000,18-06-2013,Fam. Salg,9.469,4,Villa,132,1965,,Aktuel værdi
+Svinningevej 124572 Nørre Asmindrup,drup,450.000,27-03-2013,Alm. Salg,5.844,3,Villa,77,1962,,Aktuel værdi
+Kirkebjerg 114572 Nørre Asmindrup,drup,429.508,01-03-2013,Fam. Salg,2.735,4,Villa,157,1975,,Aktuel værdi
+Nørremarksvej 104572 Nørre Asmindrup,drup,2.300.000,14-12-2012,Auktion,9.055,7,Stuehus,254,1987,-34 %,
+Kirkevej 194572 Nørre Asmindrup,drup,491.529,24-10-2012,Fam. Salg,5.120,4,Villa,96,1968,,Aktuel værdi
+Møllekrogen 174572 Nørre Asmindrup,drup,1.300.000,01-09-2012,Alm. Salg,7.222,4,Villa,180,1969,-13 %,Aktuel værdi
+Kirkebjerg 164572 Nørre Asmindrup,drup,550.000,22-03-2012,Alm. Salg,4.910,4,Villa,112,1964,-8 %,Aktuel værdi
+Gl Nykøbingvej 534572 Nørre Asmindrup,drup,160.000,07-02-2012,Alm. Salg,1.777,5,Villa,90,1880,0 %,Aktuel værdi
+Hestehavevej 104572 Nørre Asmindrup,drup,474.667,10-01-2012,Fam. Salg,4.746,4,Villa,100,1840,,Aktuel værdi
+Hesselvej 44572 Nørre Asmindrup,drup,408.500,09-01-2012,Auktion,3.615,3,Villa,113,2001,,Aktuel værdi
+Gl Nykøbingvej 594572 Nørre Asmindrup,drup,1.100.000,24-11-2011,Alm. Salg,11.000,4,Stuehus,100,1911,-19 %,
+Asmindrupvej 454572 Nørre Asmindrup,drup,600.000,07-11-2011,Alm. Salg,3.529,5,Villa,170,1900,,Aktuel værdi
+Solvænget 84572 Nørre Asmindrup,drup,375.000,27-10-2011,Alm. Salg,3.125,4,Villa,120,1972,-46 %,Aktuel værdi
+Annebjergvej 24572 Nørre Asmindrup,drup,2.100.000,13-10-2011,Alm. Salg,20.388,5,Stuehus,103,1910,,
+Kirkebjerg 9A4572 Nørre Asmindrup,drup,1.475.000,25-07-2011,Alm. Salg,12.090,4,Rækkehus,122,2006,0 %,Aktuel værdi
+Skaverupvej 104572 Nørre Asmindrup,drup,725.000,10-06-2011,Alm. Salg,7.250,3,Villa,100,1960,,Aktuel værdi
+Ulkerupvej 64572 Nørre Asmindrup,drup,2.900.000,02-05-2011,Alm. Salg,38.666,2,Stuehus,75,1904,,
+Gl Nykøbingvej 1204572 Nørre Asmindrup,drup,1.195.000,21-04-2011,Alm. Salg,6.947,3,Villa,172,1975,0 %,Aktuel værdi
+Hestehavevej 244572 Nørre Asmindrup,drup,1.400.000,04-04-2011,Alm. Salg,9.459,5,Villa,148,1965,-6 %,Aktuel værdi
+Gl Nykøbingvej 1334572 Nørre Asmindrup,drup,345.000,05-01-2011,Auktion,4.312,3,Villa,80,1961,-71 %,Aktuel værdi
+Søgårdssvinget 194572 Nørre Asmindrup,drup,435.000,14-12-2010,Alm. Salg,3.954,3,Villa,110,1976,,Aktuel værdi
+Skaverupvej 14572 Nørre Asmindrup,drup,895.000,10-12-2010,Alm. Salg,7.991,4,Villa,112,1965,,Aktuel værdi
+Skaverupvej 84572 Nørre Asmindrup,drup,945.000,22-11-2010,Alm. Salg,10.738,4,Villa,88,1777,-5 %,Aktuel værdi
+Gl Nykøbingvej 1394572 Nørre Asmindrup,drup,660.000,01-11-2010,Fam. Salg,5.156,7,Villa,128,1958,,Aktuel værdi
+Egegårdsvej 104572 Nørre Asmindrup,drup,722.500,13-09-2010,Fam. Salg,5.160,4,Villa,140,1977,,Aktuel værdi
+Lindegårdsvej 24572 Nørre Asmindrup,drup,1.900.000,04-09-2010,Alm. Salg,13.768,6,Stuehus,138,1928,,
+Ulkerupvej 94572 Nørre Asmindrup,drup,1.025.000,19-08-2010,Alm. Salg,12.349,2,Sommerhus,83,1882,-6 %,Aktuel værdi
+Svenstrupgårdsvej 34572 Nørre Asmindrup,drup,2.100.000,25-06-2010,Alm. Salg,13.636,5,Stuehus,154,1917,-11 %,
+Egegårdsvej 84572 Nørre Asmindrup,drup,895.000,21-06-2010,Alm. Salg,6.729,4,Villa,133,1976,,Aktuel værdi
+Odsherredvej 94572 Nørre Asmindrup,drup,625.000,27-05-2010,Alm. Salg,4.194,6,Villa,149,1909,-30 %,Aktuel værdi
+Brændtvej 74572 Nørre Asmindrup,drup,175.050,11-05-2010,Fam. Salg,2.917,3,Villa,60,1837,,Aktuel værdi
+Stenvangsvej 34572 Nørre Asmindrup,drup,925.348,31-03-2010,Alm. Salg,9.346,3,Stuehus,99,1912,,
+Gl Nykøbingvej 1114572 Nørre Asmindrup,drup,1.310.000,07-12-2009,Alm. Salg,9.225,5,Villa,142,1960,-9 %,Aktuel værdi
+Kirkevej 14572 Nørre Asmindrup,drup,550.000,09-11-2009,Alm. Salg,-,5,Villa,129,1942,-21 %,Aktuel værdi
+Gl Nykøbingvej 574572 Nørre Asmindrup,drup,400.000,29-07-2009,Alm. Salg,5.333,3,Villa,75,1864,-19 %,Aktuel værdi
+Kirkebjerg 34572 Nørre Asmindrup,drup,610.000,23-07-2009,Alm. Salg,5.809,4,Villa,105,1961,-12 %,Aktuel værdi
+Hestehavevej 24572 Nørre Asmindrup,drup,1.150.000,25-05-2009,Alm. Salg,8.214,4,Villa,140,1906,,Aktuel værdi
+Trundholm Mosevej 54572 Nørre Asmindrup,drup,856.769,19-03-2009,Alm. Salg,5.039,6,Stuehus,170,1910,,
+Gl Nykøbingvej 1494572 Nørre Asmindrup,drup,1.000.000,16-03-2009,Andet,4.545,8,Stuehus,220,1897,,
+Marksvinget 14572 Nørre Asmindrup,drup,6.300.000,21-11-2008,Alm. Salg,38.181,6,Villa,165,2008,,Aktuel værdi
+Solvænget 54572 Nørre Asmindrup,drup,750.000,22-10-2008,Alm. Salg,11.718,2,Rækkehus,64,1973,-6 %,Aktuel værdi
+Gl Nykøbingvej 874572 Nørre Asmindrup,drup,1.500.000,10-09-2008,Alm. Salg,8.571,3,Villa,175,1875,-12 %,Aktuel værdi
+Møllekrogen 154572 Nørre Asmindrup,drup,1.200.000,12-08-2008,Fam. Salg,9.230,4,Villa,130,1971,,Aktuel værdi
+Asmindrupvej 44572 Nørre Asmindrup,drup,1.195.000,20-05-2008,Alm. Salg,12.447,4,Villa,96,1964,-8 %,Aktuel værdi
+Gl Nykøbingvej 784572 Nørre Asmindrup,drup,1.572.500,09-04-2008,Fam. Salg,10.145,10,Engroshandel,155,1925,,Aktuel værdi
+Gl Nykøbingvej 1514572 Nørre Asmindrup,drup,2.175.000,03-03-2008,Alm. Salg,15.647,5,Villa,139,1918,,Aktuel værdi
+Solvænget 114572 Nørre Asmindrup,drup,530.000,25-02-2008,Alm. Salg,8.281,2,Rækkehus,64,1973,,Aktuel værdi
+Solvænget 134572 Nørre Asmindrup,drup,530.000,25-02-2008,Alm. Salg,8.281,2,Rækkehus,64,1973,,Aktuel værdi
+Solvænget 154572 Nørre Asmindrup,drup,540.000,25-02-2008,Alm. Salg,8.437,2,Rækkehus,64,1973,,Aktuel værdi
+Kirkevej 264572 Nørre Asmindrup,drup,1.500.000,22-02-2008,Fam. Salg,9.202,6,Stuehus,163,1887,,
+Annebjergvej 14572 Nørre Asmindrup,drup,2.400.000,13-02-2008,Alm. Salg,8.888,3,Stuehus,270,1900,-4 %,
+Odsherredvej 64572 Nørre Asmindrup,drup,116.956,03-01-2008,Alm. Salg,549,5,Stuehus,213,1926,,
+Gl Nykøbingvej 884572 Nørre Asmindrup,drup,1.100.000,20-12-2007,Alm. Salg,9.166,4,Villa,120,1950,,Aktuel værdi
+Kirkevej 304572 Nørre Asmindrup,drup,995.500,14-12-2007,Auktion,5.787,4,Villa,172,1650,,Aktuel værdi
+Kirsebærbakken 54572 Nørre Asmindrup,drup,511.000,09-12-2007,Fam. Salg,5.436,4,Villa,94,1978,,Aktuel værdi
+Bakkehøj 34572 Nørre Asmindrup,drup,1.525.000,03-11-2007,Alm. Salg,12.103,5,Stuehus,126,1964,-18 %,
+Kollekollevej 304572 Nørre Asmindrup,drup,1.050.000,18-10-2007,Alm. Salg,9.375,5,Villa,112,1900,,Aktuel værdi
+Kirkevej 274572 Nørre Asmindrup,drup,325.000,05-10-2007,Alm. Salg,1.666,5,Villa,195,2009,-13 %,Aktuel værdi
+Asmindrupvej 514572 Nørre Asmindrup,drup,1.245.000,10-09-2007,Alm. Salg,10.204,5,Villa,122,1930,0 %,Aktuel værdi
+Trundholm Mosevej 14572 Nørre Asmindrup,drup,65.000,05-09-2007,Alm. Salg,-,7,Stuehus,189,1860,,
+Gl Nykøbingvej 404572 Nørre Asmindrup,drup,920.000,05-09-2007,Alm. Salg,9.108,3,Villa,101,1827,,Aktuel værdi
+Gl Nykøbingvej 844572 Nørre Asmindrup,drup,913.000,07-08-2007,Alm. Salg,12.337,2,Villa,74,1900,2 %,Aktuel værdi
+Solvænget 34572 Nørre Asmindrup,drup,1.009.008,29-07-2007,Alm. Salg,9.009,4,Villa,112,1969,,Aktuel værdi
+Solvænget 164572 Nørre Asmindrup,drup,1.145.000,25-07-2007,Alm. Salg,10.801,4,Villa,106,1968,5 %,Aktuel værdi
+Gl Nykøbingvej 634572 Nørre Asmindrup,drup,1.585.000,24-07-2007,Alm. Salg,14.409,5,Sommerhus,110,1870,,Aktuel værdi
+Hesselvej 64572 Nørre Asmindrup,drup,1.150.000,20-07-2007,Alm. Salg,10.648,4,Villa,108,1965,,Aktuel værdi
+Gl Nykøbingvej 1244572 Nørre Asmindrup,drup,3.500.000,18-06-2007,Fam. Salg,13.059,5,Stuehus,268,1856,,
+Gl Nykøbingvej 974572 Nørre Asmindrup,drup,995.000,09-05-2007,Alm. Salg,9.950,4,Villa,100,1877,0 %,Aktuel værdi
+Gl Nykøbingvej 834572 Nørre Asmindrup,drup,674.442,12-04-2007,Andet,4.062,6,Villa,166,1938,,Aktuel værdi
+Granbakken 74572 Nørre Asmindrup,drup,2.850.000,20-03-2007,Alm. Salg,15.745,5,Villa,181,1997,,Aktuel værdi
+Skaverupvej 94572 Nørre Asmindrup,drup,1.315.000,14-03-2007,Alm. Salg,11.239,3,Villa,117,1906,,Aktuel værdi
+Gl Nykøbingvej 424572 Nørre Asmindrup,drup,2.545.000,12-03-2007,Alm. Salg,22.130,4,Stuehus,115,1897,,
+Granbakken 24572 Nørre Asmindrup,drup,170.000,18-01-2007,Alm. Salg,772,5,Stuehus,220,1900,,
+Gl Nykøbingvej 1314572 Nørre Asmindrup,drup,1.085.000,11-12-2006,Alm. Salg,15.069,3,Villa,72,1960,,Aktuel værdi
+Asmindrupvej 424572 Nørre Asmindrup,drup,1.650.000,08-11-2006,Alm. Salg,-,4,Villa,206,1900,,Aktuel værdi
+Gl Nykøbingvej 914572 Nørre Asmindrup,drup,1.150.000,20-10-2006,Alm. Salg,13.068,4,Villa,88,1827,,Aktuel værdi
+Asmindrupvej 364572 Nørre Asmindrup,drup,1.200.000,20-10-2006,Alm. Salg,7.228,7,Villa,166,1902,,Aktuel værdi
+Egegårdsvej 1A4572 Nørre Asmindrup,drup,590.000,30-09-2006,Fam. Salg,3.410,6,Villa,173,2000,,Aktuel værdi
+Kollekollevej 144572 Nørre Asmindrup,drup,1.445.000,28-08-2006,Fam. Salg,8.757,6,Stuehus,165,1905,,
+Kirkebjerg 154572 Nørre Asmindrup,drup,1.265.000,10-08-2006,Alm. Salg,9.656,4,Villa,131,1979,,Aktuel værdi
+Gl Nykøbingvej 1064572 Nørre Asmindrup,drup,895.000,25-07-2006,Alm. Salg,10.170,3,Villa,88,1897,,Aktuel værdi
+Svinningevej 44572 Nørre Asmindrup,drup,725.000,24-07-2006,Alm. Salg,12.719,2,Villa,57,1960,,Aktuel værdi
+Søgårdssvinget 244572 Nørre Asmindrup,drup,100.000,18-07-2006,Alm. Salg,520,4,Villa,192,2008,,Aktuel værdi
+Svenstrupgårdsvej 24572 Nørre Asmindrup,drup,2.100.000,20-06-2006,Alm. Salg,17.213,4,Stuehus,122,1827,,
+Gl Nykøbingvej 1554572 Nørre Asmindrup,drup,950.000,13-06-2006,Andet,9.047,5,Stuehus,105,1880,,
+Lindegårdsvej 84572 Nørre Asmindrup,drup,561.286,26-05-2006,Alm. Salg,5.011,5,Villa,112,1957,,Aktuel værdi
+Gl Nykøbingvej 1254572 Nørre Asmindrup,drup,2.400.000,22-05-2006,Alm. Salg,13.483,6,Villa,178,1979,,Aktuel værdi
+Gl Nykøbingvej 704572 Nørre Asmindrup,drup,1.150.000,22-05-2006,Alm. Salg,7.278,6,Villa,158,1928,,Aktuel værdi
+Gl Nykøbingvej 1174572 Nørre Asmindrup,drup,1.500.000,21-05-2006,Alm. Salg,9.036,6,Villa,166,1900,,Aktuel værdi
+Møllekrogen 124572 Nørre Asmindrup,drup,995.000,17-05-2006,Alm. Salg,11.705,3,Rækkehus,85,1987,,Aktuel værdi
+Gl Nykøbingvej 524572 Nørre Asmindrup,drup,1.145.000,08-05-2006,Alm. Salg,13.160,4,Villa,87,1939,,Aktuel værdi
+Asmindrupvej 434572 Nørre Asmindrup,drup,1.295.000,24-04-2006,Alm. Salg,9.736,4,Villa,133,1732,,Aktuel værdi
+Gl Nykøbingvej 1124572 Nørre Asmindrup,drup,2.150.000,07-04-2006,Alm. Salg,9.471,6,Villa,227,1971,,Aktuel værdi
+Hestehavevej 174572 Nørre Asmindrup,drup,74.330,26-03-2006,Alm. Salg,563,8,Stuehus,132,1947,,
+Odsherredvej 34572 Nørre Asmindrup,drup,1.475.000,05-12-2005,Alm. Salg,8.993,4,Stuehus,164,1976,,
+Kirkebjerg 374572 Nørre Asmindrup,drup,1.375.000,27-11-2005,Alm. Salg,10.185,4,Villa,135,1975,,Aktuel værdi
+Gl Nykøbingvej 624572 Nørre Asmindrup,drup,1.795.000,04-11-2005,Alm. Salg,9.972,6,Villa,180,1935,,Aktuel værdi
+Gl Nykøbingvej 814572 Nørre Asmindrup,drup,1.295.000,27-10-2005,Alm. Salg,7.357,6,Villa,176,1907,,Aktuel værdi
+Granbakken 54572 Nørre Asmindrup,drup,1.220.000,19-10-2005,Alm. Salg,10.892,4,Villa,112,1900,,Aktuel værdi
+Gl Nykøbingvej 744572 Nørre Asmindrup,drup,524.560,19-09-2005,Fam. Salg,2.997,7,Villa,175,1930,,Aktuel værdi
+Kollekollevej 324572 Nørre Asmindrup,drup,2.240.000,28-08-2005,Alm. Salg,-,6,Stuehus,195,1887,,
+Kirsebærbakken 34572 Nørre Asmindrup,drup,1.400.000,12-08-2005,Alm. Salg,5.426,6,Villa,258,1970,,Aktuel værdi
+Kirkevej 224572 Nørre Asmindrup,drup,942.608,10-08-2005,Alm. Salg,11.782,3,Villa,80,1929,,Aktuel værdi
+Møllekrogen 114572 Nørre Asmindrup,drup,920.000,23-07-2005,Alm. Salg,7.731,4,Villa,119,1972,,Aktuel værdi
+Nørremarksvej 12A4572 Nørre Asmindrup,drup,3.000.000,21-07-2005,Alm. Salg,10.416,8,Villa,288,1909,,Aktuel værdi
+Brændtvej 94572 Nørre Asmindrup,drup,985.000,08-07-2005,Alm. Salg,-,5,Villa,122,1930,,Aktuel værdi
+Brændtvej 184572 Nørre Asmindrup,drup,1.050.000,28-05-2005,Alm. Salg,5.898,4,Villa,178,1914,,Aktuel værdi
+Kirkevej 134572 Nørre Asmindrup,drup,1.140.000,23-04-2005,Alm. Salg,12.127,4,Villa,94,1968,,Aktuel værdi
+Gl Nykøbingvej 754572 Nørre Asmindrup,drup,1.160.000,05-04-2005,Alm. Salg,9.062,4,Villa,128,1961,,Aktuel værdi
+Svenstrupgårdsvej 14572 Nørre Asmindrup,drup,646.341,01-04-2005,Alm. Salg,3.847,7,Stuehus,168,1906,,
+Gl Nykøbingvej 1014572 Nørre Asmindrup,drup,975.000,07-02-2005,Alm. Salg,6.914,3,Villa,141,1900,,Aktuel værdi
+Skaverupvej 164572 Nørre Asmindrup,drup,3.250.000,01-02-2005,Alm. Salg,5.000,16,Villa,650,1847,,Aktuel værdi
+Kirkebjerg 9B4572 Nørre Asmindrup,drup,125.000,24-01-2005,Alm. Salg,1.024,4,Rækkehus,122,2006,,Aktuel værdi
+Ulkerupvej 154572 Nørre Asmindrup,drup,1.940.000,13-01-2005,Alm. Salg,6.381,7,Villa,304,1970,,Aktuel værdi
+Søgårdssvinget 174572 Nørre Asmindrup,drup,965.000,09-01-2005,Alm. Salg,8.772,3,Villa,110,1976,,Aktuel værdi
+Gl Nykøbingvej 1434572 Nørre Asmindrup,drup,1.200.000,19-12-2004,Alm. Salg,9.917,5,Villa,121,1870,,Aktuel værdi
+Gl Nykøbingvej 994572 Nørre Asmindrup,drup,525.000,02-12-2004,Alm. Salg,4.906,5,Villa,107,1915,,Aktuel værdi
+Kirkevej 324572 Nørre Asmindrup,drup,880.000,30-11-2004,Alm. Salg,9.565,4,Villa,92,1967,,Aktuel værdi
+Gl Nykøbingvej 924572 Nørre Asmindrup,drup,500.000,10-11-2004,Fam. Salg,4.273,4,Villa,117,1884,,Aktuel værdi
+Hestehavevej 34572 Nørre Asmindrup,drup,1.700.000,23-09-2004,Alm. Salg,13.709,6,Stuehus,124,1888,,
+Brændtvej 104572 Nørre Asmindrup,drup,3.750.000,13-09-2004,Alm. Salg,18.750,5,Stuehus,200,1933,,
+Skaverupvej 124572 Nørre Asmindrup,drup,1.195.000,09-07-2004,Alm. Salg,9.335,4,Villa,128,1966,,Aktuel værdi
+Asmindrupvej 444572 Nørre Asmindrup,drup,1.080.000,18-06-2004,Alm. Salg,6.666,5,Villa,162,1971,,Aktuel værdi
+Kirkevej 144572 Nørre Asmindrup,drup,425.000,15-06-2004,Alm. Salg,3.828,4,Villa,111,1967,,Aktuel værdi
+Asmindrupvej 294572 Nørre Asmindrup,drup,2.100.000,10-06-2004,Alm. Salg,20.000,6,Stuehus,105,1909,,
+Ulkerupvej 54572 Nørre Asmindrup,drup,1.300.000,25-05-2004,Alm. Salg,6.500,4,Stuehus,200,1910,,
+Egegårdsvej 244572 Nørre Asmindrup,drup,995.000,20-04-2004,Alm. Salg,7.653,4,Villa,130,1978,,Aktuel værdi
+Kirkebjerg 274572 Nørre Asmindrup,drup,980.000,15-04-2004,Alm. Salg,7.368,5,Villa,133,1979,,Aktuel værdi
+Asmindrupvej 124572 Nørre Asmindrup,drup,435.000,08-03-2004,Auktion,3.954,5,Villa,110,1905,,Aktuel værdi
+Nørremarksvej 34572 Nørre Asmindrup,drup,270.390,25-01-2004,Alm. Salg,1.185,8,Stuehus,228,1924,,
+Kirkebjerg 64572 Nørre Asmindrup,drup,1.200.000,24-12-2003,Alm. Salg,8.759,4,Villa,137,1973,,Aktuel værdi
+Kirkebjerg 84572 Nørre Asmindrup,drup,995.000,23-12-2003,Alm. Salg,8.963,4,Villa,111,1987,,Aktuel værdi
+Lindegårdsvej 14572 Nørre Asmindrup,drup,1.885.000,10-12-2003,Alm. Salg,7.662,7,Villa,246,1875,,Aktuel værdi
+Solvænget 174572 Nørre Asmindrup,drup,675.000,01-12-2003,Alm. Salg,8.437,3,Rækkehus,80,1974,,Aktuel værdi
+Solvænget 144572 Nørre Asmindrup,drup,955.000,12-11-2003,Alm. Salg,7.234,4,Villa,132,1972,,Aktuel værdi
+Søgårdssvinget 124572 Nørre Asmindrup,drup,995.000,29-10-2003,Alm. Salg,8.652,5,Villa,115,1979,,Aktuel værdi
+Svinningevej 84572 Nørre Asmindrup,drup,685.000,17-10-2003,Fam. Salg,6.586,3,Villa,104,1958,,Aktuel værdi
+Skovlundevej 74572 Nørre Asmindrup,drup,3.500.000,27-09-2003,Fam. Salg,9.589,14,Stuehus,365,1900,,
+Gl Nykøbingvej 604572 Nørre Asmindrup,drup,525.000,25-09-2003,Alm. Salg,8.333,3,Villa,63,1962,,Aktuel værdi
+Egegårdsvej 44572 Nørre Asmindrup,drup,985.000,20-08-2003,Alm. Salg,8.873,4,Villa,111,1976,,Aktuel værdi
+Kirkebjerg 394572 Nørre Asmindrup,drup,1.125.000,13-08-2003,Alm. Salg,6.428,7,Villa,175,1975,,Aktuel værdi
+Skovlundevej 54572 Nørre Asmindrup,drup,281.211,15-07-2003,Fam. Salg,2.008,6,Villa,140,1902,,Aktuel værdi
+Skovlundevej 34572 Nørre Asmindrup,drup,4.760.000,08-07-2003,Fam. Salg,33.055,4,Stuehus,144,1880,,
+Møllekrogen 44572 Nørre Asmindrup,drup,1.007.200,10-06-2003,Alm. Salg,8.393,4,Villa,120,1971,,Aktuel værdi
+Kirkebjerg 314572 Nørre Asmindrup,drup,945.000,19-05-2003,Alm. Salg,6.948,5,Villa,136,1974,,Aktuel værdi
+Asmindrupvej 174572 Nørre Asmindrup,drup,591.000,28-04-2003,Alm. Salg,6.287,4,Villa,94,1880,,Aktuel værdi
+Gl Nykøbingvej 734572 Nørre Asmindrup,drup,344.738,08-03-2003,Alm. Salg,2.039,8,Villa,169,1938,,Aktuel værdi
+Odsherredvej 154572 Nørre Asmindrup,drup,1.045.000,07-03-2003,Alm. Salg,9.330,4,Stuehus,112,1921,,
+Nordskovsvej 44572 Nørre Asmindrup,drup,488.075,09-01-2003,Alm. Salg,2.638,4,Villa,185,1772,,Aktuel værdi
+Gl Nykøbingvej 954572 Nørre Asmindrup,drup,582.000,30-12-2002,Auktion,-,10,Villa,266,1917,,Aktuel værdi
+Gl Nykøbingvej 1154572 Nørre Asmindrup,drup,740.000,06-12-2002,Alm. Salg,4.625,5,Villa,160,1922,,Aktuel værdi
+Gl Nykøbingvej 1104572 Nørre Asmindrup,drup,600.000,04-12-2002,Alm. Salg,4.687,5,Villa,128,1913,,Aktuel værdi
+Søgårdssvinget 84572 Nørre Asmindrup,drup,760.000,12-11-2002,Alm. Salg,5.891,4,Villa,129,1974,,Aktuel værdi
+Gl Nykøbingvej 1094572 Nørre Asmindrup,drup,540.000,30-10-2002,Alm. Salg,6.750,4,Villa,80,1877,,Aktuel værdi
+Gl Nykøbingvej 1004572 Nørre Asmindrup,drup,500.000,02-10-2002,Alm. Salg,7.936,3,Villa,63,1900,,Aktuel værdi
+Gl Nykøbingvej 1164572 Nørre Asmindrup,drup,775.000,26-08-2002,Alm. Salg,6.919,5,Villa,112,1920,,Aktuel værdi
+Solvænget 94572 Nørre Asmindrup,drup,400.000,22-08-2002,Alm. Salg,6.250,2,Rækkehus,64,1973,,Aktuel værdi
+Solvænget 74572 Nørre Asmindrup,drup,400.000,22-08-2002,Alm. Salg,6.250,2,Rækkehus,64,1973,,Aktuel værdi
+Søgårdssvinget 144572 Nørre Asmindrup,drup,960.000,18-07-2002,Alm. Salg,8.347,4,Villa,115,1979,,Aktuel værdi
+Gl Nykøbingvej 714572 Nørre Asmindrup,drup,1.025.000,25-06-2002,Alm. Salg,5.481,6,Stuehus,187,1878,,
+Gl Nykøbingvej 1694572 Nørre Asmindrup,drup,3.000.000,21-05-2002,Alm. Salg,-,7,Stuehus,287,1931,,
+Gl Nykøbingvej 1474572 Nørre Asmindrup,drup,400.000,13-05-2002,Alm. Salg,5.555,3,Villa,72,1925,,Aktuel værdi
+Gl Nykøbingvej 1134572 Nørre Asmindrup,drup,710.000,15-04-2002,Alm. Salg,5.378,4,Villa,132,1877,,Aktuel værdi
+Bakkehøj 24572 Nørre Asmindrup,drup,1.223.410,02-03-2002,Alm. Salg,8.156,6,Villa,150,1967,,Aktuel værdi
+Jernbanevej 14572 Nørre Asmindrup,drup,600.000,19-02-2002,Alm. Salg,2.666,8,Villa,225,1923,,Aktuel værdi
+Odsherredvej 84572 Nørre Asmindrup,drup,2.850.000,11-12-2001,Alm. Salg,17.065,7,Stuehus,167,1965,,
+Solvænget 124572 Nørre Asmindrup,drup,776.714,29-11-2001,Alm. Salg,6.754,5,Villa,115,1967,,Aktuel værdi
+Kollekollevej 104572 Nørre Asmindrup,drup,1.606.002,28-11-2001,Alm. Salg,7.043,9,Stuehus,228,1900,,
+Gl Nykøbingvej 1674572 Nørre Asmindrup,drup,1.515.000,26-11-2001,Alm. Salg,-,7,Villa,257,1972,,Aktuel værdi
+Søgårdssvinget 254572 Nørre Asmindrup,drup,910.800,27-10-2001,Alm. Salg,7.851,4,Villa,116,1976,,Aktuel værdi
+Stenvangsvej 44572 Nørre Asmindrup,drup,1.085.000,25-10-2001,Alm. Salg,10.432,3,Stuehus,104,1922,,
+Brændtvej 154572 Nørre Asmindrup,drup,86.550,28-09-2001,Alm. Salg,369,6,Stuehus,234,1900,,
+Asmindrupvej 144572 Nørre Asmindrup,drup,1.569.534,18-09-2001,Alm. Salg,7.266,5,Stuehus,216,1914,,
+Kirkebjerg 334572 Nørre Asmindrup,drup,872.424,13-09-2001,Alm. Salg,7.789,4,Villa,112,1971,,Aktuel værdi
+Egegårdsvej 124572 Nørre Asmindrup,drup,2.100.000,25-07-2001,Alm. Salg,10.714,7,Villa,196,1978,,Aktuel værdi
+Møllekrogen 134572 Nørre Asmindrup,drup,845.220,09-07-2001,Alm. Salg,6.603,4,Villa,128,1968,,Aktuel værdi
+Asmindrupvej 414572 Nørre Asmindrup,drup,340.000,09-06-2001,Alm. Salg,2.905,4,Villa,117,1944,,Aktuel værdi
+Svinningevej 54572 Nørre Asmindrup,drup,553.000,31-05-2001,Alm. Salg,6.144,4,Villa,90,1965,,Aktuel værdi
+Møllekrogen 24572 Nørre Asmindrup,drup,900.000,04-05-2001,Alm. Salg,6.716,5,Villa,134,1979,,Aktuel værdi
+Egegårdsvej 264572 Nørre Asmindrup,drup,845.000,03-04-2001,Alm. Salg,-,4,Villa,112,1977,,Aktuel værdi
+Kirkevej 74572 Nørre Asmindrup,drup,638.238,08-02-2001,Alm. Salg,4.558,5,Villa,140,1850,,Aktuel værdi
+Kirkebjerg 44572 Nørre Asmindrup,drup,919.000,21-12-2000,Alm. Salg,6.564,5,Villa,140,1974,,Aktuel værdi
+Kirkevej 84572 Nørre Asmindrup,drup,868.178,07-12-2000,Alm. Salg,6.478,4,Stuehus,134,1920,,
+Kollekollevej 74572 Nørre Asmindrup,drup,1.845.000,04-12-2000,Alm. Salg,9.318,6,Stuehus,198,1925,,
+Svinningevej 14572 Nørre Asmindrup,drup,607.120,08-11-2000,Alm. Salg,6.324,4,Stuehus,96,1900,,
+Søgårdssvinget 204572 Nørre Asmindrup,drup,41.800,01-08-2000,Alm. Salg,302,5,Villa,138,2003,,Aktuel værdi
+Asmindrupvej 84572 Nørre Asmindrup,drup,625.000,20-07-2000,Alm. Salg,6.793,2,Villa,92,1929,,Aktuel værdi
+Hestehavevej 304572 Nørre Asmindrup,drup,661.171,23-06-2000,Alm. Salg,7.186,3,Villa,92,1937,,Aktuel værdi
+Hestehavevej 224572 Nørre Asmindrup,drup,1.600.000,25-05-2000,Alm. Salg,7.511,8,Stuehus,213,1866,,
+Hesselvej 74572 Nørre Asmindrup,drup,545.000,07-05-2000,Alm. Salg,7.785,4,Stuehus,70,1880,,
+Skaverupvej 44572 Nørre Asmindrup,drup,425.000,06-05-2000,Alm. Salg,2.125,4,Stuehus,200,2004,,
+Ulkerupvej 74572 Nørre Asmindrup,drup,1.097.200,27-04-2000,Alm. Salg,5.275,9,Stuehus,208,2012,,
+Asmindrupvej 184572 Nørre Asmindrup,drup,60.000,11-04-2000,Alm. Salg,284,9,Stuehus,211,1890,,
+Hestehavevej 44572 Nørre Asmindrup,drup,432.000,07-04-2000,Fam. Salg,4.235,3,Stuehus,102,1951,,
+Søgårdssvinget 54572 Nørre Asmindrup,drup,950.000,03-04-2000,Alm. Salg,6.333,4,Villa,150,1979,,Aktuel værdi
+Gl Nykøbingvej 1034572 Nørre Asmindrup,drup,315.105,10-02-2000,Alm. Salg,3.282,4,Villa,96,1900,,Aktuel værdi
+Nørremarksvej 5A4572 Nørre Asmindrup,drup,544.000,26-12-1999,Fam. Salg,2.417,6,Stuehus,225,1890,,
+Gl Nykøbingvej 1184572 Nørre Asmindrup,drup,250.000,18-11-1999,Alm. Salg,1.288,5,Villa,194,2013,,Aktuel værdi
+Hestehavevej 154572 Nørre Asmindrup,drup,638.000,12-10-1999,Alm. Salg,5.145,4,Villa,124,1904,,Aktuel værdi
+Asmindrupvej 354572 Nørre Asmindrup,drup,1.174.587,11-10-1999,Alm. Salg,5.701,5,Stuehus,206,1847,,
+Hestehavevej 84572 Nørre Asmindrup,drup,650.000,16-09-1999,Alm. Salg,3.385,4,Villa,192,1961,,Aktuel værdi
+Egegårdsvej 1B4572 Nørre Asmindrup,drup,650.000,11-08-1999,Alm. Salg,8.666,3,Villa,75,1989,,Aktuel værdi
+Gl Nykøbingvej 804572 Nørre Asmindrup,drup,861.000,30-06-1999,Alm. Salg,5.064,6,Stuehus,170,1877,,
+Jernbanevej 24572 Nørre Asmindrup,drup,401.150,17-04-1999,Alm. Salg,2.476,9,Villa,162,1899,,Aktuel værdi
+Egegårdsvej 34572 Nørre Asmindrup,drup,75.000,16-04-1999,Alm. Salg,-,8,Villa,222,2001,,Aktuel værdi
+Hestehavevej 364572 Nørre Asmindrup,drup,541.811,17-03-1999,Alm. Salg,4.013,4,Villa,135,1877,,Aktuel værdi
+Egegårdsvej 164572 Nørre Asmindrup,drup,709.176,06-03-1999,Alm. Salg,6.566,3,Villa,108,1977,,Aktuel værdi
+Parcelskrænten 14572 Nørre Asmindrup,drup,522.000,28-01-1999,Fam. Salg,3.728,6,Stuehus,140,1863,,
+Kirkebjerg 174572 Nørre Asmindrup,drup,690.000,13-11-1998,Alm. Salg,5.267,4,Villa,131,1979,,Aktuel værdi
+Skaverupvej 144572 Nørre Asmindrup,drup,570.000,20-08-1998,Alm. Salg,4.750,5,Villa,120,1962,,Aktuel værdi
+Nørremarksvej 12B4572 Nørre Asmindrup,drup,814.348,14-08-1998,Alm. Salg,6.122,4,Villa,133,1927,,Aktuel værdi
+Hestehavevej 324572 Nørre Asmindrup,drup,1.014.000,27-07-1998,Alm. Salg,3.700,8,Villa,274,1860,,Aktuel værdi
+Brændtvej 54572 Nørre Asmindrup,drup,475.000,11-07-1998,Alm. Salg,4.656,4,Villa,102,1914,,Aktuel værdi
+Nørremarksvej 144572 Nørre Asmindrup,drup,1.021.000,02-07-1998,Alm. Salg,6.462,6,Stuehus,158,1917,,
+Skaverupvej 54572 Nørre Asmindrup,drup,404.960,15-05-1998,Alm. Salg,4.354,2,Villa,93,1913,,Aktuel værdi
+Gl Nykøbingvej 934572 Nørre Asmindrup,drup,429.800,16-04-1998,Fam. Salg,-,4,Villa,112,1810,,Aktuel værdi
+Søgårdssvinget 14572 Nørre Asmindrup,drup,1.035.000,21-02-1998,Alm. Salg,7.392,5,Stuehus,140,1777,,
+Skaverupvej 64572 Nørre Asmindrup,drup,306.000,30-12-1997,Fam. Salg,3.187,5,Sommerhus,96,1870,,Aktuel værdi
+Asmindrupvej 154572 Nørre Asmindrup,drup,808.100,22-11-1997,Alm. Salg,4.514,7,Villa,179,1912,,Aktuel værdi
+Hestehavevej 204572 Nørre Asmindrup,drup,667.000,10-10-1997,Alm. Salg,5.955,4,Villa,112,1877,,Aktuel værdi
+Søgårdssvinget 264572 Nørre Asmindrup,drup,550.000,06-10-1997,Alm. Salg,-,5,Villa,136,1979,,Aktuel værdi
+Kirkebjerg 74572 Nørre Asmindrup,drup,707.000,04-08-1997,Alm. Salg,5.480,4,Villa,129,1985,,Aktuel værdi
+Kollekollevej 154572 Nørre Asmindrup,drup,364.000,25-07-1997,Alm. Salg,2.219,3,Villa,164,1937,,Aktuel værdi
+Brændtvej 84572 Nørre Asmindrup,drup,756.747,02-07-1997,Fam. Salg,-,7,Stuehus,132,1913,,
+Ulkerupvej 134572 Nørre Asmindrup,drup,710.000,20-06-1997,Alm. Salg,4.797,5,Villa,148,1968,,Aktuel værdi
+Søgårdssvinget 164572 Nørre Asmindrup,drup,645.000,22-01-1997,Alm. Salg,4.849,5,Villa,133,1978,,Aktuel værdi
+Schweizervej 14572 Nørre Asmindrup,drup,746.000,19-12-1996,Fam. Salg,6.907,5,Stuehus,108,1892,,
+Kollekollevej 84572 Nørre Asmindrup,drup,450.500,07-12-1996,Alm. Salg,2.322,6,Villa,194,1897,,Aktuel værdi
+Kirkevej 174572 Nørre Asmindrup,drup,479.000,02-12-1996,Alm. Salg,5.095,4,Villa,94,1967,,Aktuel værdi
+Asmindrupvej 39A4572 Nørre Asmindrup,drup,182.741,26-11-1996,Fam. Salg,1.485,5,Villa,123,1903,,Aktuel værdi
+Gl Nykøbingvej 1044572 Nørre Asmindrup,drup,260.500,17-09-1996,Alm. Salg,2.170,5,Villa,120,1897,,Aktuel værdi
+Kirkevej 124572 Nørre Asmindrup,drup,422.560,02-09-1996,Alm. Salg,3.611,4,Villa,117,1968,,Aktuel værdi
+Gl Nykøbingvej 854572 Nørre Asmindrup,drup,1.047.129,15-08-1996,Alm. Salg,-,11,Stuehus,288,1850,,
+Kollekollevej 284572 Nørre Asmindrup,drup,610.280,07-07-1996,Alm. Salg,5.983,3,Stuehus,102,1870,,
+Gl Nykøbingvej 654572 Nørre Asmindrup,drup,1.323.855,01-07-1996,Alm. Salg,8.121,6,Stuehus,163,1926,,
+Asmindrupvej 254572 Nørre Asmindrup,drup,874.370,08-04-1996,Alm. Salg,4.105,6,Villa,213,1932,,Aktuel værdi
+Søgårdssvinget 184572 Nørre Asmindrup,drup,779.240,27-03-1996,Alm. Salg,4.931,6,Villa,158,1987,,Aktuel værdi
+Gl Nykøbingvej 614572 Nørre Asmindrup,drup,215.000,22-03-1996,Alm. Salg,1.972,3,Villa,109,1946,,Aktuel værdi
+Møllekrogen 144572 Nørre Asmindrup,drup,484.196,27-02-1996,Alm. Salg,5.696,3,Rækkehus,85,1987,,Aktuel værdi
+Asmindrupvej 534572 Nørre Asmindrup,drup,450.000,04-02-1996,Alm. Salg,4.411,4,Villa,102,1965,,Aktuel værdi
+Gl Nykøbingvej 1634572 Nørre Asmindrup,drup,450.500,12-01-1996,Fam. Salg,2.697,7,Stuehus,167,1892,,
+Nørremarksvej 164572 Nørre Asmindrup,drup,380.000,25-11-1995,Fam. Salg,2.405,5,Villa,158,1827,,Aktuel værdi
+Søgårdssvinget 114572 Nørre Asmindrup,drup,445.000,30-10-1995,Alm. Salg,4.635,4,Villa,96,1959,,Aktuel værdi
+Hestehavevej 64572 Nørre Asmindrup,drup,352.000,20-06-1995,Alm. Salg,3.705,4,Villa,95,1961,,Aktuel værdi
+Hesselvej 84572 Nørre Asmindrup,drup,253.000,29-05-1995,Alm. Salg,1.552,5,Stuehus,163,1865,,
+Kollekollevej 94572 Nørre Asmindrup,drup,588.150,26-05-1995,Alm. Salg,3.586,5,Stuehus,164,1907,,
+Kirkebjerg 414572 Nørre Asmindrup,drup,347.000,16-05-1995,Alm. Salg,-,4,Rækkehus,121,1969,,Aktuel værdi
+Gl Nykøbingvej 1614572 Nørre Asmindrup,drup,681.000,12-04-1995,Alm. Salg,2.849,7,Stuehus,239,1810,,
+Nordskovsvej 34572 Nørre Asmindrup,drup,439.400,23-02-1995,Alm. Salg,2.615,7,Stuehus,168,1920,,
+Kollekollevej 34572 Nørre Asmindrup,drup,143.000,31-10-1994,Auktion,744,6,Stuehus,192,1877,,
+Nørremarksvej 74572 Nørre Asmindrup,drup,2.850.000,21-09-1994,Alm. Salg,18.269,6,Stuehus,156,1902,,
+Hestehavevej 134572 Nørre Asmindrup,drup,736.450,06-09-1994,Alm. Salg,7.514,3,Stuehus,98,1827,,
+Nordskovsvej 14572 Nørre Asmindrup,drup,550.000,03-07-1994,Alm. Salg,-,5,Villa,156,1928,,Aktuel værdi
+Asmindrupvej 14572 Nørre Asmindrup,drup,668.498,28-06-1994,Alm. Salg,5.347,4,Villa,125,1965,,Aktuel værdi
+Kollekollevej 244572 Nørre Asmindrup,drup,355.000,04-05-1994,Alm. Salg,2.730,4,Villa,130,1917,,Aktuel værdi
+Odsherredvej 74572 Nørre Asmindrup,drup,593.912,15-03-1994,Andet,3.599,5,Villa,165,1900,,Aktuel værdi
+Kirkevej 244572 Nørre Asmindrup,drup,282.275,17-02-1994,Alm. Salg,2.688,5,Stuehus,105,1905,,
+Kirkevej 284572 Nørre Asmindrup,drup,155.701,29-10-1993,Andet,1.497,5,Villa,104,1900,,Aktuel værdi
+Gl Nykøbingvej 1574572 Nørre Asmindrup,drup,318.177,28-10-1993,Alm. Salg,2.545,3,Stuehus,125,1882,,
+Gl Nykøbingvej 1074572 Nørre Asmindrup,drup,375.000,15-09-1993,Alm. Salg,2.329,5,Villa,161,1920,,Aktuel værdi
+Søgårdssvinget 104572 Nørre Asmindrup,drup,430.000,12-08-1993,Alm. Salg,3.583,4,Villa,120,1975,,Aktuel værdi
+Ulkerupvej 34572 Nørre Asmindrup,drup,340.000,09-08-1993,Alm. Salg,3.177,4,Villa,107,1884,,Aktuel værdi
+Lindegårdsvej 64572 Nørre Asmindrup,drup,505.290,14-07-1993,Alm. Salg,2.972,4,Villa,170,1925,,Aktuel værdi
+Asmindrupvej 24572 Nørre Asmindrup,drup,130.000,19-05-1993,Alm. Salg,921,5,Villa,141,1727,,Aktuel værdi
+Tinghulevej 94572 Nørre Asmindrup,drup,210.000,15-05-1993,Alm. Salg,2.500,3,Stuehus,84,1877,,
+Kollekollevej 134572 Nørre Asmindrup,drup,539.375,24-02-1993,Alm. Salg,3.644,8,Villa,148,1877,,Aktuel værdi
+Skaverupvej 74572 Nørre Asmindrup,drup,225.000,12-02-1993,Alm. Salg,-,3,Villa,114,1950,,Aktuel værdi
+Gl Nykøbingvej 674572 Nørre Asmindrup,drup,220.000,10-02-1993,Alm. Salg,2.095,3,Villa,105,1900,,Aktuel værdi
+Kirkebjerg 294572 Nørre Asmindrup,drup,500.000,03-02-1993,Andet,3.703,4,Villa,135,1970,,Aktuel værdi
+Asmindrupvej 134572 Nørre Asmindrup,drup,415.000,14-12-1992,Alm. Salg,4.322,4,Villa,96,1886,,Aktuel værdi
+Hestehavevej 254572 Nørre Asmindrup,drup,325.000,17-06-1992,Alm. Salg,2.954,3,Villa,110,1773,,Aktuel værdi
+Hestehavevej 54572 Nørre Asmindrup,drup,490.000,24-04-1992,Alm. Salg,3.920,4,Villa,125,1900,,Aktuel værdi
+Hestehavevej 184572 Nørre Asmindrup,drup,825.000,09-04-1992,Alm. Salg,4.852,6,Stuehus,170,1852,,
+Parcelskrænten 24572 Nørre Asmindrup,drup,950.000,18-03-1992,Alm. Salg,3.958,8,Stuehus,240,1929,,

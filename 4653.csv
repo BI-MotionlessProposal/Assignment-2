@@ -1,0 +1,934 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Kulagervej 54653 Karise,rise,700.000,04-05-2017,Andet,5.833,2,Villa,120,1850,,Aktuel værdi
+Prins Buris Vej 124653 Karise,rise,1.525.000,01-04-2017,Alm. Salg,10.517,5,Villa,145,1996,-4 %,Aktuel værdi
+Ingers Vej 124653 Karise,rise,1.740.000,28-03-2017,Alm. Salg,14.871,4,Rækkehus,117,2007,-1 %,Aktuel værdi
+Køgevej 904653 Karise,rise,1.506.000,27-03-2017,Fam. Salg,9.412,3,Stuehus,160,1927,,
+Søndergade 204653 Karise,rise,1.035.000,24-03-2017,Alm. Salg,13.800,2,Villa,75,1930,-1 %,Aktuel værdi
+Gimlingevej 8A4653 Karise,rise,1.776.000,21-03-2017,Alm. Salg,9.704,5,Villa,183,1905,5 %,Aktuel værdi
+Rønne Alle 34653 Karise,rise,1.060.000,21-03-2017,Alm. Salg,8.030,3,Villa,132,1930,-3 %,Aktuel værdi
+Tågerupvej 24653 Karise,rise,1.195.000,07-03-2017,Alm. Salg,5.106,4,Villa,234,1852,-8 %,Aktuel værdi
+Mosevej 44653 Karise,rise,450.000,01-03-2017,Alm. Salg,3.543,3,Villa,127,1917,-17 %,Aktuel værdi
+Overdrevsvej 84653 Karise,rise,550.000,20-02-2017,Fam. Salg,7.638,4,Villa,72,1817,,Aktuel værdi
+Geddevænget 64653 Karise,rise,600.000,09-02-2017,Alm. Salg,4.285,4,Villa,140,1850,-14 %,Aktuel værdi
+Kløvervej 64653 Karise,rise,1.575.000,21-01-2017,Alm. Salg,12.804,5,Villa,123,1999,-1 %,Aktuel værdi
+Skovvænget 104653 Karise,rise,995.000,15-01-2017,Alm. Salg,9.386,4,Villa,106,1973,0 %,Aktuel værdi
+Liden Kirstens Vej 14653 Karise,rise,1.495.000,11-01-2017,Alm. Salg,10.310,4,Villa,145,1973,0 %,Aktuel værdi
+Hemmingsvej 154653 Karise,rise,1.595.000,23-12-2016,Alm. Salg,7.935,6,Villa,201,1974,0 %,Aktuel værdi
+Søndervang 14653 Karise,rise,700.000,18-12-2016,Alm. Salg,5.109,6,Villa,137,1938,-15 %,Aktuel værdi
+Bredgade 254653 Karise,rise,1.317.500,04-12-2016,Alm. Salg,11.557,4,Villa,114,1955,-6 %,Aktuel værdi
+Peder Olufsens Vej 174653 Karise,rise,1.450.000,18-11-2016,Alm. Salg,11.153,5,Villa,130,1986,-3 %,Aktuel værdi
+Rhitras Vej 44653 Karise,rise,1.725.000,17-11-2016,Alm. Salg,12.969,4,Rækkehus,133,2005,0 %,Aktuel værdi
+Søndergade 44653 Karise,rise,892.500,14-11-2016,Fam. Salg,5.910,5,Villa,151,1927,,Aktuel værdi
+Geddevænget 14653 Karise,rise,2.925.000,11-11-2016,Alm. Salg,9.948,10,Stuehus,294,1877,,
+Skovvej 14653 Karise,rise,400.000,01-11-2016,Alm. Salg,2.580,6,Stuehus,155,1940,,
+Prins Buris Vej 154653 Karise,rise,1.650.000,28-10-2016,Alm. Salg,9.649,4,Villa,171,1988,-3 %,Aktuel værdi
+Ingers Vej 354653 Karise,rise,1.495.000,17-10-2016,Alm. Salg,15.904,3,Rækkehus,94,2007,0 %,Aktuel værdi
+Jørslevvej 74653 Karise,rise,599.250,11-10-2016,Alm. Salg,4.342,4,Stuehus,138,1978,,
+Østerskovvej 84653 Karise,rise,2.000.000,10-10-2016,Alm. Salg,8.771,6,Villa,228,1895,-7 %,Aktuel værdi
+Lægårdsvej 8A4653 Karise,rise,895.000,09-10-2016,Alm. Salg,6.130,7,Villa,146,1760,0 %,Aktuel værdi
+Ingers Vej 34653 Karise,rise,1.720.000,03-10-2016,Alm. Salg,14.700,4,Rækkehus,117,2008,-2 %,Aktuel værdi
+Liden Kirstens Vej 84653 Karise,rise,1.265.000,29-09-2016,Alm. Salg,6.837,7,Villa,185,1970,-5 %,Aktuel værdi
+Gimlingevej 124653 Karise,rise,1.275.000,28-09-2016,Alm. Salg,9.239,5,Villa,138,1903,-5 %,Aktuel værdi
+Rønne Alle 194653 Karise,rise,373.946,20-09-2016,Andet,4.560,3,Villa,82,1943,,Aktuel værdi
+Kulagervej 334653 Karise,rise,735.500,16-09-2016,Alm. Salg,6.938,3,Villa,106,1905,,Aktuel værdi
+Kløvervej 194653 Karise,rise,1.100.000,31-08-2016,Alm. Salg,10.185,3,Villa,108,1999,-12 %,Aktuel værdi
+Barup Bygade 14653 Karise,rise,1.495.000,30-08-2016,Alm. Salg,8.794,4,Villa,170,1838,,Aktuel værdi
+Elmevej 34653 Karise,rise,1.495.000,30-08-2016,Alm. Salg,10.310,4,Villa,145,1965,0 %,Aktuel værdi
+Hemmingsvej 394653 Karise,rise,2.150.000,25-08-2016,Alm. Salg,12.647,4,Villa,170,1973,,Aktuel værdi
+Skovbrodersvej 54653 Karise,rise,1.645.000,20-08-2016,Alm. Salg,14.059,4,Rækkehus,117,2003,0 %,Aktuel værdi
+Solagervej 124653 Karise,rise,1.240.000,16-08-2016,Alm. Salg,12.916,3,Villa,96,1971,-3 %,Aktuel værdi
+Elverhøjvej 344653 Karise,rise,390.000,15-08-2016,Fam. Salg,2.910,4,Villa,134,1823,,Aktuel værdi
+Drosselvej 924653 Karise,rise,1.300.000,02-08-2016,Alm. Salg,9.558,4,Villa,136,1980,-7 %,Aktuel værdi
+Syrenvænget 64653 Karise,rise,695.000,13-07-2016,Alm. Salg,8.081,3,Villa,86,1966,0 %,Aktuel værdi
+Præstevænget 34653 Karise,rise,950.000,28-06-2016,Alm. Salg,11.585,3,Villa,82,1954,-5 %,Aktuel værdi
+Ingers Vej 434653 Karise,rise,1.710.000,23-06-2016,Alm. Salg,14.869,3,Rækkehus,115,2007,-2 %,Aktuel værdi
+Peder Olufsens Vej 264653 Karise,rise,580.000,22-06-2016,Alm. Salg,4.833,4,Villa,120,1986,,Aktuel værdi
+Jørslevvej 44653 Karise,rise,1.599.000,21-06-2016,Alm. Salg,12.492,5,Villa,128,1890,0 %,Aktuel værdi
+Skolegade 15A4653 Karise,rise,365.600,21-06-2016,Auktion,2.163,6,Villa,169,1917,,Aktuel værdi
+Sneppevej 124653 Karise,rise,1.595.000,16-06-2016,Alm. Salg,15.485,3,Rækkehus,103,2016,0 %,Aktuel værdi
+Sneppevej 104653 Karise,rise,1.672.740,10-06-2016,Alm. Salg,16.240,3,Rækkehus,103,2016,5 %,Aktuel værdi
+Drosselvej 944653 Karise,rise,995.000,01-06-2016,Alm. Salg,8.504,4,Villa,117,1980,0 %,Aktuel værdi
+Rønne Alle 154653 Karise,rise,390.000,01-06-2016,Andet,4.105,3,Villa,95,1961,,Aktuel værdi
+Ingers Vej 524653 Karise,rise,1.645.000,27-05-2016,Alm. Salg,14.304,3,Rækkehus,115,2007,-3 %,Aktuel værdi
+Sneppevej 84653 Karise,rise,1.625.000,14-05-2016,Alm. Salg,15.776,3,Rækkehus,103,2016,2 %,Aktuel værdi
+Bredgade 154653 Karise,rise,700.000,11-05-2016,Alm. Salg,4.430,3,Villa,158,1890,-11 %,Aktuel værdi
+Karisevej 1714653 Karise,rise,1.200.000,11-05-2016,Alm. Salg,11.650,5,Villa,103,1899,0 %,Aktuel værdi
+Breddammen 24653 Karise,rise,512.227,09-05-2016,Alm. Salg,2.640,5,Villa,194,1923,,Aktuel værdi
+Folmer Sangers Vej 204653 Karise,rise,1.695.000,06-05-2016,Alm. Salg,14.739,3,Rækkehus,115,2003,0 %,Aktuel værdi
+Søndergade 394653 Karise,rise,1.940.000,28-04-2016,Alm. Salg,9.371,5,Villa,207,1959,,Aktuel værdi
+Kildevej 154653 Karise,rise,690.000,27-04-2016,Alm. Salg,5.750,3,Villa,120,1961,-8 %,Aktuel værdi
+Fru Marthes Vej 24653 Karise,rise,900.000,26-04-2016,Alm. Salg,6.617,5,Villa,136,1969,-10 %,Aktuel værdi
+Præstemarksvej 2B4653 Karise,rise,2.899.000,26-04-2016,Alm. Salg,13.298,5,Villa,218,2005,-3 %,Aktuel værdi
+Rønne Alle 24653 Karise,rise,376.000,26-04-2016,Alm. Salg,2.785,5,Villa,135,1930,67 %,Aktuel værdi
+Dalbyvej 154653 Karise,rise,1.175.000,15-04-2016,Alm. Salg,8.969,5,Villa,131,1911,-5 %,Aktuel værdi
+Drosselvej 1064653 Karise,rise,1.600.000,12-04-2016,Andet,10.596,4,Villa,151,1986,,Aktuel værdi
+Sneppevej 164653 Karise,rise,1.565.000,07-04-2016,Alm. Salg,15.194,3,Rækkehus,103,2016,-2 %,Aktuel værdi
+Drosselvej 484653 Karise,rise,1.150.000,30-03-2016,Alm. Salg,9.504,4,Villa,121,1978,0 %,Aktuel værdi
+Jagtvej 114653 Karise,rise,795.000,24-03-2016,Alm. Salg,6.794,3,Villa,117,1972,0 %,Aktuel værdi
+Ærtevænget 54653 Karise,rise,995.000,18-03-2016,Alm. Salg,12.283,3,Rækkehus,81,2004,0 %,Aktuel værdi
+Elmevej 24653 Karise,rise,1.195.000,07-03-2016,Alm. Salg,10.863,4,Villa,110,1966,0 %,Aktuel værdi
+Skolegade 37C4653 Karise,rise,850.000,02-03-2016,Alm. Salg,8.762,3,Villa,97,1909,-5 %,Aktuel værdi
+Præstemarksvej 164653 Karise,rise,1.495.000,01-03-2016,Alm. Salg,12.669,3,Villa,118,1907,0 %,Aktuel værdi
+Syrenvænget 164653 Karise,rise,875.000,25-02-2016,Alm. Salg,6.782,4,Villa,129,1967,,Aktuel værdi
+Præstemarksvej 84653 Karise,rise,310.000,15-02-2016,Andet,4.305,3,Villa,72,1961,,Aktuel værdi
+Skolegade 74653 Karise,rise,475.000,29-01-2016,Alm. Salg,4.750,11,Villa,100,1937,-14 %,Aktuel værdi
+Søndergade 304653 Karise,rise,825.000,24-01-2016,Alm. Salg,8.168,4,Villa,101,1961,-8 %,Aktuel værdi
+Bakkeskovvej 64653 Karise,rise,1.500.000,21-01-2016,Alm. Salg,10.714,3,Villa,140,1916,,Aktuel værdi
+Nordhøjvej 294653 Karise,rise,8.700.000,21-01-2016,Alm. Salg,34.251,6,Stuehus,254,1890,,
+Skolegade 384653 Karise,rise,800.000,11-01-2016,Fam. Salg,7.272,4,Villa,110,1968,,Aktuel værdi
+Møllehusvej 144653 Karise,rise,1.325.000,05-01-2016,Alm. Salg,6.309,7,Villa,210,1877,-17 %,Aktuel værdi
+Kildevej 2C4653 Karise,rise,900.000,25-12-2015,Fam. Salg,5.389,6,Villa,167,2008,,Aktuel værdi
+Sneppevej 144653 Karise,rise,1.500.000,16-12-2015,Alm. Salg,14.563,3,Rækkehus,103,2016,,Aktuel værdi
+Hemmingsvej 714653 Karise,rise,775.000,14-12-2015,Alm. Salg,6.739,3,Villa,115,1973,-13 %,Aktuel værdi
+Tinghusvej 84653 Karise,rise,200.000,03-12-2015,Alm. Salg,3.846,2,Villa,52,1882,,Aktuel værdi
+Kildevej 44653 Karise,rise,1.500.000,30-11-2015,Alm. Salg,7.812,5,Villa,192,1903,,Aktuel værdi
+Smerupvej 254653 Karise,rise,350.000,26-11-2015,Fam. Salg,4.375,4,Sommerhus,80,1877,,Aktuel værdi
+Bredgade 11A4653 Karise,rise,1.350.000,16-11-2015,Alm. Salg,6.887,7,Villa,196,1881,-10 %,Aktuel værdi
+Jørslev Vænge 54653 Karise,rise,400.000,01-11-2015,Alm. Salg,5.714,3,Sommerhus,70,1677,,Aktuel værdi
+Prins Buris Vej 174653 Karise,rise,1.125.000,23-10-2015,Alm. Salg,7.653,4,Villa,147,1991,-6 %,Aktuel værdi
+Dalbyvej 214653 Karise,rise,1.350.000,29-09-2015,Fam. Salg,10.000,4,Villa,135,1928,,Aktuel værdi
+Kirkestien 44653 Karise,rise,995.000,23-09-2015,Alm. Salg,8.361,5,Villa,119,1907,0 %,Aktuel værdi
+Ingers Vej 14653 Karise,rise,1.650.000,31-08-2015,Alm. Salg,14.102,4,Rækkehus,117,2008,,Aktuel værdi
+Lucernevej 54653 Karise,rise,2.700.000,24-08-2015,Alm. Salg,16.463,5,Villa,164,2006,-10 %,Aktuel værdi
+Køgevej 454653 Karise,rise,300.000,18-08-2015,Fam. Salg,2.777,4,Villa,108,1900,,Aktuel værdi
+Skovvænget 54653 Karise,rise,850.000,27-07-2015,Alm. Salg,6.439,5,Villa,132,1977,0 %,Aktuel værdi
+Ingers Vej 114653 Karise,rise,1.670.000,20-07-2015,Alm. Salg,14.273,4,Rækkehus,117,2007,-1 %,Aktuel værdi
+Spjellerupvej 124653 Karise,rise,600.000,15-07-2015,Fam. Salg,4.316,4,Villa,139,1887,,Aktuel værdi
+Drosselvej 584653 Karise,rise,970.000,26-06-2015,Alm. Salg,8.016,4,Villa,121,1978,-3 %,Aktuel værdi
+Drosselvej 124653 Karise,rise,1.295.000,23-06-2015,Alm. Salg,8.093,6,Villa,160,1907,0 %,Aktuel værdi
+Drosselvej 624653 Karise,rise,1.200.000,23-06-2015,Alm. Salg,7.692,6,Villa,156,1980,-14 %,Aktuel værdi
+Geddevænget 124653 Karise,rise,957.800,19-06-2015,Alm. Salg,9.299,2,Villa,103,1920,,Aktuel værdi
+Ærtevænget 24653 Karise,rise,935.000,18-06-2015,Alm. Salg,11.543,3,Rækkehus,81,2005,-4 %,Aktuel værdi
+Overdrevsvej 184653 Karise,rise,1.055.578,09-06-2015,Fam. Salg,7.180,5,Villa,147,1870,,Aktuel værdi
+Nørrebro 94653 Karise,rise,825.000,03-06-2015,Alm. Salg,7.783,5,Villa,106,1950,-15 %,Aktuel værdi
+Jagtvej 24653 Karise,rise,1.250.000,22-05-2015,Alm. Salg,9.124,4,Villa,137,1965,-3 %,Aktuel værdi
+Hemmingsvej 734653 Karise,rise,950.000,15-05-2015,Alm. Salg,6.643,4,Villa,143,1974,-5 %,Aktuel værdi
+Rhitras Vej 34653 Karise,rise,1.495.000,11-05-2015,Alm. Salg,13.114,4,Rækkehus,114,2005,0 %,Aktuel værdi
+Fru Marthes Vej 14653 Karise,rise,650.000,06-05-2015,Auktion,4.113,6,Villa,158,1972,,Aktuel værdi
+Breddammen 84653 Karise,rise,575.000,04-05-2015,Fam. Salg,3.733,4,Villa,154,1860,,Aktuel værdi
+Folmer Sangers Vej 124653 Karise,rise,1.300.000,30-04-2015,Alm. Salg,10.655,4,Rækkehus,122,2004,-12 %,Aktuel værdi
+Bøgevej 24653 Karise,rise,1.150.000,16-04-2015,Alm. Salg,8.518,5,Villa,135,1970,-4 %,Aktuel værdi
+Hemmingsvej 104653 Karise,rise,1.145.000,09-04-2015,Alm. Salg,6.939,4,Villa,165,1971,-4 %,Aktuel værdi
+Præstemarksvej 134653 Karise,rise,275.000,23-03-2015,Alm. Salg,3.125,3,Villa,88,1907,-44 %,Aktuel værdi
+Løngangsstræde 24653 Karise,rise,716.297,19-03-2015,Andet,3.692,6,Villa,194,1877,,Aktuel værdi
+Fasanvej 44653 Karise,rise,695.000,16-03-2015,Alm. Salg,6.556,4,Villa,106,1972,0 %,Aktuel værdi
+Skolegade 594653 Karise,rise,400.000,10-02-2015,Alm. Salg,3.703,4,Villa,108,1927,-19 %,Aktuel værdi
+Bredgade 544653 Karise,rise,425.000,05-01-2015,Alm. Salg,2.796,4,Villa,152,1907,,Aktuel værdi
+Alslevvej 164653 Karise,rise,14.620.000,01-01-2015,Fam. Salg,60.164,4,Stuehus,243,1877,,
+Drosselvej 414653 Karise,rise,1.960.000,13-12-2014,Alm. Salg,7.205,7,Villa,272,1924,,Aktuel værdi
+Kløvervej 114653 Karise,rise,1.495.000,11-12-2014,Alm. Salg,10.992,5,Villa,136,1999,0 %,Aktuel værdi
+Jørslev Vænge 34653 Karise,rise,2.145.000,09-12-2014,Alm. Salg,10.725,8,Stuehus,200,1909,,
+Ingers Vej 444653 Karise,rise,1.025.000,04-12-2014,Alm. Salg,10.904,3,Rækkehus,94,2007,-2 %,Aktuel værdi
+Søndergade 54653 Karise,rise,395.000,25-11-2014,Auktion,4.759,3,Villa,83,1857,,Aktuel værdi
+Ridder Jernskægs Vej 84653 Karise,rise,1.000.000,20-11-2014,Alm. Salg,11.111,3,Rækkehus,90,2000,-9 %,Aktuel værdi
+Ganneskovvej 44653 Karise,rise,1.745.000,07-11-2014,Alm. Salg,9.748,6,Villa,179,1805,-3 %,Aktuel værdi
+Sneppevej 64653 Karise,rise,300.000,04-11-2014,Alm. Salg,2.912,3,Rækkehus,103,2016,,Aktuel værdi
+Skovbrodersvej 94653 Karise,rise,1.325.000,01-11-2014,Alm. Salg,11.324,4,Rækkehus,117,2003,-5 %,Aktuel værdi
+Skolegade 574653 Karise,rise,658.943,13-10-2014,Alm. Salg,6.460,5,Villa,102,1934,,Aktuel værdi
+St Lindevej 54653 Karise,rise,1.184.348,26-09-2014,Alm. Salg,9.399,4,Villa,126,1888,,Aktuel værdi
+Skolegade 504653 Karise,rise,995.000,24-09-2014,Alm. Salg,8.963,4,Villa,111,1958,0 %,Aktuel værdi
+St Lindevej 64653 Karise,rise,1.350.900,17-09-2014,Fam. Salg,11.746,5,Villa,115,1929,,Aktuel værdi
+Rosengården 124653 Karise,rise,1.875.000,10-09-2014,Alm. Salg,11.295,5,Villa,166,2006,-6 %,Aktuel værdi
+Åvej 54653 Karise,rise,1.895.000,03-09-2014,Alm. Salg,9.768,6,Villa,194,1877,0 %,Aktuel værdi
+Kulagervej 454653 Karise,rise,1.200.000,25-08-2014,Alm. Salg,4.411,7,Villa,272,1886,-20 %,Aktuel værdi
+Søndergade 284653 Karise,rise,1.439.000,05-08-2014,Alm. Salg,13.970,4,Villa,103,1953,-4 %,Aktuel værdi
+Bredgade 354653 Karise,rise,1.016.665,31-07-2014,Alm. Salg,2.096,15,Villa,485,1892,,Aktuel værdi
+Nørrebro 54653 Karise,rise,1.035.000,29-07-2014,Auktion,10.350,4,Villa,100,1944,,Aktuel værdi
+Tågerupvej 314653 Karise,rise,1.450.000,28-07-2014,Alm. Salg,7.142,6,Villa,203,1900,-6 %,Aktuel værdi
+Køgevej 504653 Karise,rise,300.000,10-07-2014,Alm. Salg,7.500,3,Sommerhus,40,1961,,Aktuel værdi
+Smerupvej 27A4653 Karise,rise,260.000,05-07-2014,Alm. Salg,4.727,2,Villa,55,1800,,Aktuel værdi
+Alslevvej 3B4653 Karise,rise,900.000,02-07-2014,Alm. Salg,6.923,4,Villa,130,1975,,Aktuel værdi
+Vesterled 24653 Karise,rise,311.000,01-07-2014,Auktion,2.752,5,Villa,113,1860,-65 %,Aktuel værdi
+Nybyvej 44653 Karise,rise,850.000,20-06-2014,Alm. Salg,7.327,3,Villa,116,1923,-3 %,Aktuel værdi
+Folmer Sangers Vej 144653 Karise,rise,1.600.000,12-06-2014,Alm. Salg,14.035,4,Rækkehus,114,2005,,Aktuel værdi
+Fællesvej 24653 Karise,rise,399.000,11-06-2014,Auktion,3.243,3,Villa,123,2017,,Aktuel værdi
+Hemmingsvej 284653 Karise,rise,750.000,04-06-2014,Auktion,6.756,4,Villa,111,1973,,Aktuel værdi
+Banevej 94653 Karise,rise,1.695.000,23-05-2014,Alm. Salg,11.689,5,Villa,145,1930,0 %,Aktuel værdi
+Ingers Vej 404653 Karise,rise,1.435.000,15-05-2014,Alm. Salg,12.478,3,Rækkehus,115,2007,,Aktuel værdi
+Præstemarksvej 54653 Karise,rise,150.000,02-05-2014,Alm. Salg,925,6,Stuehus,162,1870,,
+Jagtvej 184653 Karise,rise,1.330.000,11-04-2014,Alm. Salg,13.039,4,Rækkehus,102,2014,4 %,Aktuel værdi
+Tågerupvej 234653 Karise,rise,750.000,21-03-2014,Alm. Salg,4.335,5,Stuehus,173,1931,-14 %,
+Dalbyvej 84653 Karise,rise,625.000,18-03-2014,Andet,5.482,3,Villa,114,1939,,Aktuel værdi
+Syrenvænget 94653 Karise,rise,1.175.000,01-03-2014,Alm. Salg,10.129,5,Villa,116,1964,0 %,Aktuel værdi
+Peder Olufsens Vej 184653 Karise,rise,535.648,25-02-2014,Andet,5.101,5,Villa,105,1986,,Aktuel værdi
+Folmer Sangers Vej 134653 Karise,rise,1.250.000,21-02-2014,Alm. Salg,10.964,4,Rækkehus,114,2005,-6 %,Aktuel værdi
+Drosselvej 204653 Karise,rise,1.250.000,19-02-2014,Andet,8.561,4,Villa,146,1979,,Aktuel værdi
+Drosselvej 864653 Karise,rise,995.000,04-02-2014,Alm. Salg,7.537,5,Villa,132,1980,-9 %,Aktuel værdi
+Jagtvej 104653 Karise,rise,1.350.000,29-01-2014,Alm. Salg,7.584,5,Villa,178,2002,-10 %,Aktuel værdi
+Folmer Sangers Vej 104653 Karise,rise,1.410.000,06-01-2014,Alm. Salg,12.368,3,Rækkehus,114,2005,-6 %,Aktuel værdi
+Geddevænget 34653 Karise,rise,2.650.000,22-12-2013,Alm. Salg,10.515,7,Villa,252,1898,-12 %,Aktuel værdi
+Drosselvej 704653 Karise,rise,583.600,04-12-2013,Auktion,6.208,4,Villa,94,1980,-27 %,Aktuel værdi
+Smerupvej 154653 Karise,rise,549.000,03-12-2013,Alm. Salg,5.435,4,Villa,101,1856,0 %,Aktuel værdi
+Prins Buris Vej 34653 Karise,rise,1.650.000,22-11-2013,Alm. Salg,11.000,6,Villa,150,1986,-8 %,Aktuel værdi
+Overdrevsvej 254653 Karise,rise,1.186.550,21-11-2013,Alm. Salg,7.806,5,Villa,152,1877,-5 %,Aktuel værdi
+Jørslevvej 114653 Karise,rise,720.000,20-11-2013,Auktion,4.528,6,Villa,159,1877,-66 %,Aktuel værdi
+Skolegade 25E4653 Karise,rise,648.919,18-11-2013,Andet,6.689,3,Villa,97,2006,,Aktuel værdi
+Jagtvej 164653 Karise,rise,1.700.000,01-11-2013,Alm. Salg,12.318,6,Villa,138,2014,-5 %,Aktuel værdi
+Skolegade 17A4653 Karise,rise,550.000,23-10-2013,Auktion,3.197,7,Villa,172,1920,,Aktuel værdi
+Spjellerupvej 3B4653 Karise,rise,720.000,22-10-2013,Alm. Salg,6.428,3,Villa,112,1886,,Aktuel værdi
+Spjellerupvej 3A4653 Karise,rise,3.780.000,22-10-2013,Alm. Salg,18.349,6,Villa,206,2009,,Aktuel værdi
+Peder Olufsens Vej 234653 Karise,rise,50.000,11-10-2013,Fam. Salg,333,5,Villa,150,1986,,Aktuel værdi
+Kløvervej 74653 Karise,rise,1.700.000,10-10-2013,Alm. Salg,11.643,6,Villa,146,2000,,Aktuel værdi
+Nørrebro 174653 Karise,rise,1.282.000,22-09-2013,Andet,9.567,4,Villa,134,1967,17 %,Aktuel værdi
+Tågerupvej 394653 Karise,rise,315.200,18-09-2013,Auktion,1.685,4,Villa,187,1880,,Aktuel værdi
+Jagtvej 204653 Karise,rise,1.275.000,04-09-2013,Alm. Salg,12.500,4,Rækkehus,102,2014,0 %,Aktuel værdi
+Totterupvej 14653 Karise,rise,10.117.909,02-09-2013,Alm. Salg,48.411,6,Stuehus,209,1875,,
+Køgevej 474653 Karise,rise,575.000,30-08-2013,Alm. Salg,5.275,4,Villa,109,1920,-3 %,Aktuel værdi
+Fasanvej 164653 Karise,rise,750.000,29-08-2013,Alm. Salg,5.639,4,Villa,133,1972,-12 %,Aktuel værdi
+Skolegade 46B4653 Karise,rise,2.230.000,21-08-2013,Auktion,14.768,6,Lejlighed,151,1990,,Aktuel værdi
+Skolegade 46C4653 Karise,rise,2.230.000,21-08-2013,Auktion,26.235,2,Lejlighed,85,1990,,Aktuel værdi
+Skolegade 46E4653 Karise,rise,2.230.000,21-08-2013,Auktion,26.547,2,Lejlighed,84,1990,,Aktuel værdi
+Skolegade 46F4653 Karise,rise,2.230.000,21-08-2013,Auktion,30.972,2,Lejlighed,72,1990,,Aktuel værdi
+Folmer Sangers Vej 184653 Karise,rise,800.000,20-08-2013,Andet,5.755,5,Villa,139,2008,,Aktuel værdi
+Ingers Vej 494653 Karise,rise,1.450.000,16-08-2013,Alm. Salg,12.608,3,Rækkehus,115,2007,,Aktuel værdi
+Gimlingevej 44653 Karise,rise,1.650.000,31-07-2013,Alm. Salg,8.549,6,Villa,193,1868,0 %,Aktuel værdi
+Nybyvej 64653 Karise,rise,850.000,24-07-2013,Alm. Salg,5.862,4,Stuehus,145,2015,,
+Drosselvej 144653 Karise,rise,350.000,17-07-2013,Auktion,3.888,3,Villa,90,1907,,Aktuel værdi
+Jørslevvej 154653 Karise,rise,2.750.000,17-06-2013,Alm. Salg,7.333,4,Villa,375,1910,-8 %,Aktuel værdi
+Ingers Vej 424653 Karise,rise,1.225.000,11-06-2013,Alm. Salg,13.031,3,Rækkehus,94,2007,-8 %,Aktuel værdi
+Ligustervej 54653 Karise,rise,900.000,23-05-2013,Alm. Salg,9.574,3,Villa,94,1938,-5 %,Aktuel værdi
+Rhitras Vej 14653 Karise,rise,668.344,14-05-2013,Alm. Salg,7.110,3,Rækkehus,94,2009,,Aktuel værdi
+Smerupvej 24653 Karise,rise,109.000,14-05-2013,Auktion,1.453,2,Villa,75,1884,-71 %,Aktuel værdi
+Sneppevej 24653 Karise,rise,160.050,06-05-2013,Andet,1.006,5,Villa,159,2014,,Aktuel værdi
+Elmevej 5B4653 Karise,rise,925.000,25-04-2013,Alm. Salg,8.409,4,Villa,110,1967,-7 %,Aktuel værdi
+Solagervej 134653 Karise,rise,1.900.000,24-04-2013,Alm. Salg,16.101,4,Villa,118,1973,,Aktuel værdi
+Trondhjemshuse 94653 Karise,rise,540.000,24-04-2013,Auktion,4.251,5,Villa,127,1877,,Aktuel værdi
+Bøgevej 114653 Karise,rise,925.000,08-04-2013,Alm. Salg,8.043,4,Villa,115,1972,-7 %,Aktuel værdi
+Ridder Jernskægs Vej 74653 Karise,rise,1.275.000,26-03-2013,Alm. Salg,14.166,3,Rækkehus,90,2000,-9 %,Aktuel værdi
+Sønderbyvej 14653 Karise,rise,1.600.000,22-03-2013,Alm. Salg,11.034,4,Stuehus,145,2014,-6 %,
+Kulagervej 184653 Karise,rise,650.000,20-03-2013,Auktion,3.475,5,Villa,187,1958,,Aktuel værdi
+Skolegade 244653 Karise,rise,525.000,18-03-2013,Auktion,3.017,8,Villa,174,1927,,Aktuel værdi
+Ingers Vej 484653 Karise,rise,1.425.000,14-03-2013,Alm. Salg,12.391,3,Rækkehus,115,2007,-2 %,Aktuel værdi
+Søndergade 164653 Karise,rise,1.050.000,13-03-2013,Alm. Salg,7.394,5,Villa,142,1927,-4 %,Aktuel værdi
+Pebringevej 14653 Karise,rise,4.650.000,18-02-2013,Alm. Salg,22.794,7,Stuehus,204,1927,,
+Spjellerupvej 184653 Karise,rise,880.000,14-02-2013,Alm. Salg,9.887,3,Villa,89,1957,-7 %,Aktuel værdi
+Breddammen 44653 Karise,rise,13.950.000,28-12-2012,Alm. Salg,92.384,5,Stuehus,151,1960,,
+Søndergade 144653 Karise,rise,200.000,19-12-2012,Auktion,1.694,5,Villa,118,1920,,Aktuel værdi
+Elmevej 14653 Karise,rise,1.100.000,27-11-2012,Alm. Salg,5.882,6,Villa,187,1964,-14 %,Aktuel værdi
+"Skolegade 46A, ST4653 Karise",rise,510.000,19-11-2012,Auktion,4.473,3,Lejlighed,114,1905,,Aktuel værdi
+Drosselvej 434653 Karise,rise,550.000,09-11-2012,Alm. Salg,5.000,4,Villa,110,1966,,Aktuel værdi
+Syrenvænget 154653 Karise,rise,850.000,23-10-2012,Alm. Salg,7.727,4,Villa,110,1963,-12 %,Aktuel værdi
+Skolegade 554653 Karise,rise,3.575.000,16-10-2012,Alm. Salg,14.019,10,Villa,255,1925,,Aktuel værdi
+Tågerupvej 374653 Karise,rise,320.000,12-10-2012,Alm. Salg,3.636,2,Villa,88,1827,-15 %,Aktuel værdi
+Østerskovvej 54653 Karise,rise,2.250.000,10-10-2012,Auktion,12.500,8,Stuehus,180,1970,,
+Syrenvænget 24653 Karise,rise,750.000,02-10-2012,Auktion,4.901,7,Villa,153,1963,,Aktuel værdi
+Syrenvænget 194653 Karise,rise,690.000,01-10-2012,Auktion,5.390,4,Villa,128,1964,,Aktuel værdi
+Hemmingsvej 94653 Karise,rise,650.000,25-09-2012,Alm. Salg,5.078,5,Villa,128,1975,-4 %,Aktuel værdi
+Prins Buris Vej 104653 Karise,rise,254.859,30-08-2012,Fam. Salg,2.255,4,Villa,113,1989,,Aktuel værdi
+Ærtevænget 44653 Karise,rise,875.000,20-08-2012,Alm. Salg,10.802,3,Rækkehus,81,2004,-2 %,Aktuel værdi
+Skolegade 46D4653 Karise,rise,460.000,02-08-2012,Auktion,5.287,2,Lejlighed,87,1990,,Aktuel værdi
+Skovvænget 244653 Karise,rise,1.350.000,02-08-2012,Alm. Salg,8.653,5,Villa,156,1976,12 %,Aktuel værdi
+Køgevej 31B4653 Karise,rise,1.095.000,01-08-2012,Alm. Salg,6.974,4,Villa,157,1979,0 %,Aktuel værdi
+Hemmingsvej 374653 Karise,rise,850.000,26-07-2012,Alm. Salg,7.083,3,Villa,120,1973,-4 %,Aktuel værdi
+Køgevej 434653 Karise,rise,4.800.000,25-07-2012,Alm. Salg,16.271,8,Stuehus,295,1913,,
+Fasanvej 224653 Karise,rise,1.800.000,19-07-2012,Andet,13.846,4,Villa,130,1972,,Aktuel værdi
+Lægårdsvej 2A4653 Karise,rise,560.000,15-07-2012,Alm. Salg,4.869,3,Villa,115,1952,-3 %,Aktuel værdi
+Alslevvej 154653 Karise,rise,1.100.000,09-07-2012,Alm. Salg,6.547,4,Villa,168,1890,0 %,Aktuel værdi
+Geddevænget 24653 Karise,rise,2.495.000,03-07-2012,Alm. Salg,17.570,4,Villa,142,1892,,Aktuel værdi
+Kildevej 114653 Karise,rise,597.500,03-07-2012,Alm. Salg,5.431,3,Villa,110,1974,,Aktuel værdi
+Ådalsvej 54653 Karise,rise,1.486.000,27-06-2012,Alm. Salg,11.089,5,Villa,134,2011,-7 %,Aktuel værdi
+Ærtevænget 104653 Karise,rise,904.000,16-06-2012,Fam. Salg,9.934,3,Rækkehus,91,2003,,Aktuel værdi
+Ridder Jernskægs Vej 54653 Karise,rise,1.485.000,15-06-2012,Alm. Salg,12.801,3,Rækkehus,116,2002,-1 %,Aktuel værdi
+Nordhøjvej 274653 Karise,rise,100.000,12-06-2012,Alm. Salg,671,4,Villa,149,1880,,Aktuel værdi
+Nybyvej 74653 Karise,rise,1.350.000,04-06-2012,Alm. Salg,14.062,3,Stuehus,96,1923,-10 %,
+Hemmingsvej 584653 Karise,rise,795.000,23-05-2012,Alm. Salg,4.649,5,Villa,171,1975,0 %,Aktuel værdi
+Smerupvej 134653 Karise,rise,806.500,21-05-2012,Andet,3.649,4,Villa,221,2008,,Aktuel værdi
+Bøgevej 64653 Karise,rise,1.245.000,27-04-2012,Alm. Salg,7.781,3,Villa,160,1972,-7 %,Aktuel værdi
+Jørslevvej 124653 Karise,rise,4.676.500,29-03-2012,Fam. Salg,23.982,6,Stuehus,195,1870,,
+Ridder Jernskægs Vej 114653 Karise,rise,1.000.000,29-03-2012,Alm. Salg,10.989,3,Rækkehus,91,2001,-13 %,Aktuel værdi
+Æblegården 34653 Karise,rise,390.000,21-03-2012,Alm. Salg,2.294,6,Villa,170,2013,-84 %,Aktuel værdi
+Solagervej 94653 Karise,rise,795.000,14-03-2012,Alm. Salg,5.760,4,Villa,138,1970,-6 %,Aktuel værdi
+Skolegade 514653 Karise,rise,825.000,02-03-2012,Alm. Salg,11.000,3,Rækkehus,75,1961,,Aktuel værdi
+Nyvej 24653 Karise,rise,750.000,24-02-2012,Alm. Salg,6.818,4,Villa,110,1961,-16 %,Aktuel værdi
+Skovvænget 24653 Karise,rise,960.000,20-02-2012,Alm. Salg,8.807,3,Villa,109,1963,-4 %,Aktuel værdi
+Kirkestien 34653 Karise,rise,635.000,07-02-2012,Auktion,5.120,3,Villa,124,2017,7 %,Aktuel værdi
+Smerupvej 194653 Karise,rise,670.000,13-01-2012,Alm. Salg,3.872,6,Villa,173,1793,-25 %,Aktuel værdi
+Banevej 2B4653 Karise,rise,450.000,14-12-2011,Auktion,4.054,3,Lejlighed,111,1879,,Aktuel værdi
+Banevej 2A4653 Karise,rise,450.000,14-12-2011,Auktion,4.500,3,Lejlighed,100,1879,,Aktuel værdi
+Banevej 2C4653 Karise,rise,450.000,14-12-2011,Auktion,4.017,3,Lejlighed,112,1879,,Aktuel værdi
+Banevej 54653 Karise,rise,800.000,08-12-2011,Alm. Salg,6.106,5,Villa,131,1970,-6 %,Aktuel værdi
+Kløvervej 174653 Karise,rise,673.790,05-12-2011,Fam. Salg,6.417,4,Villa,105,2006,,Aktuel værdi
+Liden Kirstens Vej 104653 Karise,rise,875.000,24-11-2011,Auktion,4.206,6,Villa,208,1972,,Aktuel værdi
+Æblegården 24653 Karise,rise,325.000,22-11-2011,Alm. Salg,2.070,4,Villa,157,2012,,Aktuel værdi
+Vesterled 74653 Karise,rise,812.689,05-10-2011,Alm. Salg,3.907,6,Villa,208,1750,,Aktuel værdi
+Præstevænget 5B4653 Karise,rise,1.700.000,14-09-2011,Alm. Salg,9.444,7,Stuehus,180,1850,,
+Køgevej 31A4653 Karise,rise,750.000,23-08-2011,Alm. Salg,5.769,5,Villa,130,1936,-16 %,Aktuel værdi
+Kildevej 234653 Karise,rise,562.143,16-08-2011,Andet,5.736,3,Villa,98,1850,,Aktuel værdi
+Sneppevej 154653 Karise,rise,315.000,16-08-2011,Alm. Salg,2.625,4,Villa,120,2012,,Aktuel værdi
+Tågerupvej 94653 Karise,rise,1.095.000,04-08-2011,Alm. Salg,11.173,3,Villa,98,1900,0 %,Aktuel værdi
+Ingers Vej 324653 Karise,rise,1.300.000,27-07-2011,Alm. Salg,13.829,3,Rækkehus,94,2007,-7 %,Aktuel værdi
+Ærtevænget 144653 Karise,rise,700.000,07-07-2011,Auktion,7.692,3,Rækkehus,91,2004,,Aktuel værdi
+Rhitras Vej 364653 Karise,rise,2.500.000,17-06-2011,Alm. Salg,13.297,5,Villa,188,2007,0 %,Aktuel værdi
+Folmer Sangers Vej 24653 Karise,rise,1.400.000,09-06-2011,Alm. Salg,11.200,4,Rækkehus,125,2005,-3 %,Aktuel værdi
+Køgevej 824653 Karise,rise,1.571.800,08-06-2011,Auktion,7.520,6,Stuehus,209,1927,,
+Solagervej 44653 Karise,rise,1.250.000,25-05-2011,Alm. Salg,8.992,4,Villa,139,1972,,Aktuel værdi
+Solagervej 54653 Karise,rise,1.000.000,18-05-2011,Alm. Salg,6.329,5,Villa,158,1970,-7 %,Aktuel værdi
+St Lindevej 34653 Karise,rise,625.000,07-05-2011,Alm. Salg,6.127,4,Villa,102,1959,0 %,Aktuel værdi
+Sneppevej 204653 Karise,rise,360.000,05-05-2011,Alm. Salg,2.278,5,Villa,158,2015,,Aktuel værdi
+Sneppevej 244653 Karise,rise,1.012.542,04-05-2011,Alm. Salg,6.490,5,Villa,156,2010,,Aktuel værdi
+Skolegade 44C4653 Karise,rise,1.025.000,11-04-2011,Alm. Salg,13.311,2,Rækkehus,77,2006,-14 %,Aktuel værdi
+Prins Buris Vej 214653 Karise,rise,595.000,01-04-2011,Alm. Salg,5.560,4,Villa,107,1989,,Aktuel værdi
+Nordhøjvej 464653 Karise,rise,990.000,30-03-2011,Auktion,9.611,3,Villa,103,1897,,Aktuel værdi
+Rhitras Vej 114653 Karise,rise,1.520.000,29-03-2011,Alm. Salg,13.333,4,Rækkehus,114,2007,-5 %,Aktuel værdi
+Hemmingsvej 264653 Karise,rise,1.175.000,10-03-2011,Alm. Salg,7.532,5,Villa,156,1973,0 %,Aktuel værdi
+Drosselvej 394653 Karise,rise,654.800,07-03-2011,Fam. Salg,7.275,3,Villa,90,1900,,Aktuel værdi
+Folmer Sangers Vej 54653 Karise,rise,1.595.000,21-02-2011,Alm. Salg,13.073,4,Rækkehus,122,2004,0 %,Aktuel værdi
+Æblegården 14653 Karise,rise,350.000,16-02-2011,Alm. Salg,2.108,5,Villa,166,2012,-10 %,Aktuel værdi
+Barup Bygade 114653 Karise,rise,50.000,15-02-2011,Alm. Salg,324,6,Stuehus,154,1848,,
+Ågårdsvej 14653 Karise,rise,900.000,03-02-2011,Alm. Salg,7.377,3,Villa,122,1926,-4 %,Aktuel værdi
+Bredgade 344653 Karise,rise,1.000.000,27-01-2011,Alm. Salg,7.142,6,Villa,140,1947,-19 %,Aktuel værdi
+Ingers Vej 374653 Karise,rise,1.254.000,13-01-2011,Alm. Salg,13.340,3,Rækkehus,94,2007,-3 %,Aktuel værdi
+Præstemarksvej 7B4653 Karise,rise,1.300.000,18-12-2010,Andet,8.843,3,Villa,147,1903,,Aktuel værdi
+Møllehusvej 64653 Karise,rise,898.000,14-12-2010,Fam. Salg,12.135,3,Stuehus,74,1923,,
+Pebringevej 124653 Karise,rise,875.000,25-11-2010,Alm. Salg,8.578,4,Villa,102,1900,-5 %,Aktuel værdi
+Smerupvej 284653 Karise,rise,500.000,18-11-2010,Alm. Salg,7.936,3,Villa,63,1958,-5 %,Aktuel værdi
+Juellingevej 104653 Karise,rise,1.500.000,21-10-2010,Alm. Salg,8.426,4,Villa,178,1912,-12 %,Aktuel værdi
+Banevej 34653 Karise,rise,1.250.000,07-10-2010,Alm. Salg,8.333,7,Villa,150,1924,-16 %,Aktuel værdi
+Hemmingsvej 574653 Karise,rise,1.515.000,06-10-2010,Alm. Salg,10.100,5,Villa,150,1975,-4 %,Aktuel værdi
+Køgevej 53A4653 Karise,rise,945.000,05-10-2010,Alm. Salg,4.055,10,Stuehus,233,1897,-67 %,
+Tinghusvej 24653 Karise,rise,1.275.000,27-09-2010,Alm. Salg,9.960,4,Villa,128,1971,,Aktuel værdi
+Hemmingsvej 274653 Karise,rise,900.000,22-09-2010,Alm. Salg,7.826,5,Villa,115,1973,-10 %,Aktuel værdi
+Søndergade 294653 Karise,rise,465.228,30-07-2010,Alm. Salg,2.673,5,Villa,174,1956,,Aktuel værdi
+Møllehusvej 224653 Karise,rise,1.495.000,29-07-2010,Alm. Salg,9.900,4,Villa,151,1925,0 %,Aktuel værdi
+Dalbyvej 19B4653 Karise,rise,787.462,26-07-2010,Fam. Salg,4.326,5,Villa,182,1900,,Aktuel værdi
+Alslevvej 104653 Karise,rise,1.295.000,15-07-2010,Alm. Salg,7.357,5,Villa,176,1880,0 %,Aktuel værdi
+Solagervej 204653 Karise,rise,1.050.000,01-07-2010,Auktion,5.769,5,Villa,182,1972,,Aktuel værdi
+Ingers Vej 384653 Karise,rise,1.485.000,30-06-2010,Alm. Salg,12.913,4,Rækkehus,115,2007,-15 %,Aktuel værdi
+Sneppevej 134653 Karise,rise,360.000,22-06-2010,Alm. Salg,2.975,4,Villa,121,2012,,Aktuel værdi
+Sneppevej 184653 Karise,rise,360.000,14-06-2010,Alm. Salg,2.400,4,Villa,150,2012,0 %,Aktuel værdi
+Søndervang 34653 Karise,rise,1.700.000,12-06-2010,Alm. Salg,6.827,11,Villa,249,1937,,Aktuel værdi
+Hemmingsvej 434653 Karise,rise,1.050.000,09-06-2010,Alm. Salg,9.130,4,Villa,115,1973,0 %,Aktuel værdi
+Dalbyvej 224653 Karise,rise,2.100.000,26-05-2010,Alm. Salg,-,4,Villa,167,1907,-8 %,Aktuel værdi
+Bakkeskovvej 34653 Karise,rise,894.125,17-05-2010,Fam. Salg,3.956,7,Villa,226,1900,,Aktuel værdi
+Elverhøjvej 304653 Karise,rise,1.995.000,04-05-2010,Alm. Salg,7.416,9,Villa,269,1780,0 %,Aktuel værdi
+Køgevej 764653 Karise,rise,410.000,28-04-2010,Auktion,3.228,4,Villa,127,1922,,Aktuel værdi
+Prins Buris Vej 184653 Karise,rise,1.750.000,26-04-2010,Alm. Salg,10.670,6,Villa,164,1989,-3 %,Aktuel værdi
+Breddammen 154653 Karise,rise,1.695.000,13-04-2010,Alm. Salg,9.797,5,Villa,173,1881,0 %,Aktuel værdi
+Alslevvej 114653 Karise,rise,810.000,08-04-2010,Alm. Salg,2.745,8,Villa,295,1890,,Aktuel værdi
+Skovvænget 84653 Karise,rise,985.000,22-03-2010,Auktion,9.752,3,Villa,101,1965,,Aktuel værdi
+Dalbyvej 44653 Karise,rise,695.000,19-02-2010,Alm. Salg,6.813,4,Villa,102,1955,0 %,Aktuel værdi
+Vesterled 44653 Karise,rise,1.271.127,09-02-2010,Alm. Salg,7.061,7,Villa,180,1931,,Aktuel værdi
+Skovvænget 64653 Karise,rise,1.350.000,28-01-2010,Auktion,9.782,5,Villa,138,1969,-3 %,Aktuel værdi
+Sønderbyvej 84653 Karise,rise,3.500.000,13-01-2010,Alm. Salg,17.412,6,Stuehus,201,1923,-12 %,
+Skovvænget 164653 Karise,rise,1.085.000,29-12-2009,Alm. Salg,9.601,4,Villa,113,1968,-9 %,Aktuel værdi
+Rosengården 104653 Karise,rise,1.875.000,21-12-2009,Alm. Salg,12.335,5,Villa,152,2005,-6 %,Aktuel værdi
+Juellingevej 144653 Karise,rise,393.540,15-12-2009,Alm. Salg,2.915,5,Villa,135,2004,,Aktuel værdi
+Alslevvej 44653 Karise,rise,10.000,15-12-2009,Auktion,100,3,Villa,100,1890,,Aktuel værdi
+Drosselvej 1144653 Karise,rise,1.175.000,10-11-2009,Auktion,7.885,4,Villa,149,1925,,Aktuel værdi
+Kirkestien 24653 Karise,rise,770.000,05-11-2009,Alm. Salg,9.625,4,Villa,80,1898,-3 %,Aktuel værdi
+Skolegade 284653 Karise,rise,730.000,02-11-2009,Alm. Salg,7.300,4,Villa,100,1910,-9 %,Aktuel værdi
+Spjellerupvej 74653 Karise,rise,900.000,29-09-2009,Alm. Salg,8.571,4,Villa,105,1967,-9 %,Aktuel værdi
+Breddammen 14653 Karise,rise,675.000,24-07-2009,Alm. Salg,7.105,3,Villa,95,1807,-10 %,Aktuel værdi
+Skolegade 534653 Karise,rise,1.125.000,21-07-2009,Alm. Salg,8.272,4,Villa,136,1962,-10 %,Aktuel værdi
+Hemmingsvej 634653 Karise,rise,1.550.000,07-07-2009,Fam. Salg,13.963,3,Villa,111,1974,,Aktuel værdi
+Kærvej 84653 Karise,rise,1.950.000,01-07-2009,Alm. Salg,13.541,6,Villa,144,1994,-11 %,Aktuel værdi
+Nørrebro 154653 Karise,rise,1.450.000,01-07-2009,Alm. Salg,8.011,6,Villa,181,1971,-11 %,Aktuel værdi
+Bredgade 364653 Karise,rise,3.400.000,26-06-2009,Alm. Salg,11.258,11,Villa,302,1907,,Aktuel værdi
+Rosengården 184653 Karise,rise,2.550.000,26-06-2009,Alm. Salg,16.139,5,Villa,158,2007,0 %,Aktuel værdi
+Karl Af Rises Vej 54653 Karise,rise,1.000.000,24-06-2009,Alm. Salg,6.369,5,Villa,157,1969,-13 %,Aktuel værdi
+Syrenvænget 74653 Karise,rise,637.500,23-06-2009,Fam. Salg,5.312,4,Villa,120,1963,,Aktuel værdi
+Kærvej 54653 Karise,rise,750.000,13-06-2009,Alm. Salg,7.500,4,Villa,100,1930,-6 %,Aktuel værdi
+Søndergade 34653 Karise,rise,1.380.000,11-06-2009,Alm. Salg,8.625,5,Villa,160,1887,,Aktuel værdi
+Folmer Sangers Vej 154653 Karise,rise,1.395.000,10-06-2009,Alm. Salg,12.236,3,Rækkehus,114,2006,-7 %,Aktuel værdi
+Ridder Jernskægs Vej 3A4653 Karise,rise,1.250.000,04-06-2009,Alm. Salg,15.625,3,Rækkehus,80,2001,-3 %,Aktuel værdi
+Dalbyvej 184653 Karise,rise,1.095.000,03-06-2009,Alm. Salg,10.735,3,Villa,102,1917,0 %,Aktuel værdi
+Kildevej 254653 Karise,rise,2.200.000,27-05-2009,Andet,4.150,13,Villa,530,1926,,Aktuel værdi
+Prins Buris Vej 84653 Karise,rise,1.850.000,26-05-2009,Alm. Salg,12.012,5,Villa,154,1987,-7 %,Aktuel værdi
+Skovbrodersvej 14653 Karise,rise,1.400.000,07-05-2009,Alm. Salg,11.965,3,Rækkehus,117,2002,0 %,Aktuel værdi
+Nørrebro 74653 Karise,rise,1.425.000,06-05-2009,Alm. Salg,12.837,5,Villa,111,1945,-9 %,Aktuel værdi
+Hemmingsvej 324653 Karise,rise,1.040.000,02-05-2009,Alm. Salg,9.369,4,Villa,111,1973,-13 %,Aktuel værdi
+Køgevej 364653 Karise,rise,3.488.176,02-05-2009,Fam. Salg,10.475,8,Villa,333,1910,,Aktuel værdi
+Drosselvej 234653 Karise,rise,971.500,01-05-2009,Andet,10.119,4,Villa,96,1985,,Aktuel værdi
+Drosselvej 110A4653 Karise,rise,250.000,27-02-2009,Alm. Salg,2.083,4,Villa,120,2008,,Aktuel værdi
+Nordhøjvej 424653 Karise,rise,1.275.000,09-02-2009,Fam. Salg,9.444,6,Villa,135,1910,,Aktuel værdi
+Tågerupvej 64653 Karise,rise,2.200.000,02-02-2009,Alm. Salg,14.965,3,Villa,147,1850,-12 %,Aktuel værdi
+Ridder Jernskægs Vej 124653 Karise,rise,1.195.000,02-02-2009,Alm. Salg,13.131,3,Rækkehus,91,2001,0 %,Aktuel værdi
+Præstemarksvej 2A4653 Karise,rise,1.430.000,12-01-2009,Alm. Salg,14.158,4,Villa,101,1932,-4 %,Aktuel værdi
+Køgevej 444653 Karise,rise,485.000,29-12-2008,Andet,2.694,6,Villa,180,1913,,Aktuel værdi
+Valbyvej 84653 Karise,rise,150.000,30-11-2008,Alm. Salg,1.500,4,Stuehus,100,1923,,
+Ærtevænget 114653 Karise,rise,1.260.000,11-11-2008,Alm. Salg,13.846,3,Rækkehus,91,2004,-10 %,Aktuel værdi
+Smerupvej 54653 Karise,rise,795.000,30-09-2008,Alm. Salg,7.227,4,Villa,110,1893,0 %,Aktuel værdi
+Jørslev Vænge 14653 Karise,rise,1.495.000,15-09-2008-,,13.971,3,Villa,107,1902,0 %,Aktuel værdi
+Brinken 34653 Karise,rise,1.030.000,15-09-2008,Alm. Salg,12.409,4,Sommerhus,83,1777,,Aktuel værdi
+Barupvejen 404653 Karise,rise,7.250.000,12-09-2008,Alm. Salg,25.618,8,Stuehus,283,1800,,
+Præstemarksvej 124653 Karise,rise,1.000.000,27-08-2008,Alm. Salg,8.403,4,Villa,119,1907,-13 %,Aktuel værdi
+Tågerupvej 124653 Karise,rise,3.100.000,25-08-2008,Alm. Salg,15.736,6,Villa,197,1951,-22 %,Aktuel værdi
+Drosselvej 564653 Karise,rise,825.000,20-08-2008,Fam. Salg,6.818,4,Villa,121,1982,,Aktuel værdi
+Skuderupvej 2B4653 Karise,rise,742.500,05-08-2008,Alm. Salg,-,5,Villa,116,1850,,Aktuel værdi
+Liden Kirstens Vej 54653 Karise,rise,1.900.000,04-08-2008,Alm. Salg,15.966,4,Villa,119,1973,-9 %,Aktuel værdi
+Fasanvej 24653 Karise,rise,1.300.000,29-07-2008,Alm. Salg,11.607,4,Villa,112,1966,-4 %,Aktuel værdi
+Hemmingsvej 54653 Karise,rise,1.450.000,17-07-2008,Alm. Salg,11.507,4,Villa,126,1973,,Aktuel værdi
+Drosselvej 844653 Karise,rise,3.000.000,08-07-2008,Alm. Salg,13.215,6,Villa,227,1980,,Aktuel værdi
+Drosselvej 314653 Karise,rise,743.125,07-07-2008,Alm. Salg,7.740,4,Villa,96,1985,,Aktuel værdi
+Tokkerupvej 424653 Karise,rise,306.000,03-07-2008,Fam. Salg,12.240,1,Sommerhus,25,1968,,Aktuel værdi
+Kulagervej 164653 Karise,rise,2.200.000,17-06-2008,Alm. Salg,10.576,6,Villa,208,1896,-4 %,Aktuel værdi
+Skolegade 5A4653 Karise,rise,2.395.000,03-06-2008,Alm. Salg,12.807,6,Villa,187,1890,-4 %,Aktuel værdi
+Præstevænget 5A4653 Karise,rise,4.365.000,20-05-2008,Alm. Salg,11.547,8,Villa,378,1980,-8 %,Aktuel værdi
+Smerupvej 104653 Karise,rise,1.362.000,14-05-2008,Alm. Salg,14.041,2,Villa,97,1904,-4 %,Aktuel værdi
+Rhitras Vej 184653 Karise,rise,1.090.583,07-05-2008,Alm. Salg,7.418,4,Villa,147,2006,,Aktuel værdi
+Ingers Vej 334653 Karise,rise,1.825.000,28-04-2008,Alm. Salg,19.414,3,Rækkehus,94,2007,,Aktuel værdi
+Søndergade 124653 Karise,rise,2.100.000,16-04-2008,Alm. Salg,15.217,5,Villa,138,1917,,Aktuel værdi
+Juellingevej 34653 Karise,rise,1.850.000,01-04-2008,Alm. Salg,11.212,4,Villa,165,1912,-7 %,Aktuel værdi
+Fasanvej 244653 Karise,rise,1.750.000,28-03-2008,Alm. Salg,11.437,5,Villa,153,1976,-12 %,Aktuel værdi
+Liden Kirstens Vej 44653 Karise,rise,1.855.000,10-03-2008,Alm. Salg,14.269,5,Villa,130,1972,-2 %,Aktuel værdi
+Rønne Alle 204653 Karise,rise,1.295.000,26-02-2008,Alm. Salg,18.239,3,Villa,71,1938,0 %,Aktuel værdi
+Sandgravsvej 44653 Karise,rise,750.000,20-02-2008,Andet,4.870,3,Villa,154,1876,,Aktuel værdi
+Ingers Vej 394653 Karise,rise,1.825.000,12-02-2008,Alm. Salg,19.414,3,Rækkehus,94,2007,0 %,Aktuel værdi
+Solagervej 304653 Karise,rise,7.780.000,08-02-2008,Alm. Salg,54.788,3,Villa,142,1915,,Aktuel værdi
+Tuehuse 94653 Karise,rise,4.000.000,31-01-2008,Alm. Salg,14.285,5,Villa,280,1971,-37 %,Aktuel værdi
+Sandgravsvej 24653 Karise,rise,750.000,29-01-2008,Andet,2.873,12,Villa,261,1877,,Aktuel værdi
+Smerupvej 334653 Karise,rise,1.395.000,27-01-2008,Alm. Salg,11.923,4,Villa,117,1910,-7 %,Aktuel værdi
+Ingers Vej 24653 Karise,rise,2.010.000,26-01-2008,Alm. Salg,17.179,4,Rækkehus,117,2008,,Aktuel værdi
+Nyvej 34653 Karise,rise,1.250.000,17-01-2008,Alm. Salg,9.124,4,Villa,137,1960,-12 %,Aktuel værdi
+Dalbyvej 134653 Karise,rise,521.500,07-01-2008,Alm. Salg,4.495,3,Villa,116,1910,,Aktuel værdi
+Hemmingsvej 554653 Karise,rise,1.750.000,28-12-2007,Alm. Salg,12.237,3,Villa,143,1973,,Aktuel værdi
+Kulagervej 224653 Karise,rise,1.572.500,25-12-2007,Fam. Salg,15.883,3,Stuehus,99,1974,,
+Ingers Vej 84653 Karise,rise,1.975.000,18-12-2007,Alm. Salg,16.880,4,Rækkehus,117,2008,,Aktuel værdi
+Præstemarksvej 214653 Karise,rise,1.300.000,10-12-2007,Alm. Salg,12.500,5,Villa,104,1860,0 %,Aktuel værdi
+Tågerupvej 54653 Karise,rise,1.895.000,19-11-2007,Alm. Salg,12.305,4,Villa,154,1889,,Aktuel værdi
+Jørslev Skovvej 24653 Karise,rise,1.750.000,15-11-2007,Alm. Salg,12.500,8,Villa,140,1860,-5 %,Aktuel værdi
+Bredgade 24E4653 Karise,rise,1.287.947,14-11-2007,Alm. Salg,7.155,4,Villa,180,1925,,Aktuel værdi
+Ingers Vej 74653 Karise,rise,2.176.442,07-11-2007,Alm. Salg,18.602,4,Rækkehus,117,2007,,Aktuel værdi
+Dalbyvej 14653 Karise,rise,1.995.000,26-10-2007,Alm. Salg,14.456,6,Villa,138,1904,-5 %,Aktuel værdi
+Bredgade 164653 Karise,rise,1.130.000,24-10-2007,Alm. Salg,6.647,7,Villa,170,1927,,Aktuel værdi
+Trondhjemshuse 154653 Karise,rise,1.250.000,23-10-2007,Alm. Salg,13.020,3,Villa,96,1827,,Aktuel værdi
+Mosevej 14653 Karise,rise,835.149,19-10-2007,Andet,4.093,6,Villa,204,1877,,Aktuel værdi
+Kildevej 54653 Karise,rise,797.500,11-10-2007,Fam. Salg,5.079,7,Villa,157,1968,,Aktuel værdi
+Ingers Vej 294653 Karise,rise,1.995.000,10-10-2007,Alm. Salg,17.347,3,Rækkehus,115,2008,0 %,Aktuel værdi
+Søndergade 234653 Karise,rise,1.700.000,02-10-2007,Fam. Salg,5.782,15,Villa,294,1958,,Aktuel værdi
+Ingers Vej 64653 Karise,rise,2.149.000,01-10-2007,Alm. Salg,18.367,4,Rækkehus,117,2007,,Aktuel værdi
+Bredgade 484653 Karise,rise,1.208.977,26-09-2007,Auktion,7.850,5,Villa,154,1935,,Aktuel værdi
+Nordhøjvej 334653 Karise,rise,130.000,25-09-2007,Alm. Salg,565,4,Villa,230,1877,,Aktuel værdi
+Præstemarksvej 194653 Karise,rise,6.975.000,18-09-2007,Alm. Salg,43.055,4,Stuehus,162,1870,,
+Overdrevsvej 334653 Karise,rise,850.000,11-09-2007,Alm. Salg,7.391,3,Villa,115,1900,,Aktuel værdi
+Ingers Vej 54653 Karise,rise,2.010.000,09-09-2007,Alm. Salg,17.179,4,Rækkehus,117,2007,,Aktuel værdi
+Kildevej 2A4653 Karise,rise,2.000.000,30-08-2007,Alm. Salg,5.797,8,Villa,345,1912,-16 %,Aktuel værdi
+Ingers Vej 94653 Karise,rise,2.000.000,30-08-2007,Alm. Salg,17.094,4,Rækkehus,117,2007,,Aktuel værdi
+Drosselvej 44653 Karise,rise,1.995.000,16-08-2007,Alm. Salg,26.959,3,Villa,74,1948,,Aktuel værdi
+Drosselvej 224653 Karise,rise,1.800.000,15-08-2007,Alm. Salg,14.876,4,Villa,121,1978,,Aktuel værdi
+Smerupvej 224653 Karise,rise,800.000,15-08-2007,Alm. Salg,9.523,3,Villa,84,1902,,Aktuel værdi
+Fasanvej 94653 Karise,rise,1.250.000,01-08-2007,Alm. Salg,13.440,2,Villa,93,1973,0 %,Aktuel værdi
+Søndergade 274653 Karise,rise,1.795.000,14-06-2007,Alm. Salg,17.598,4,Villa,102,1937,0 %,Aktuel værdi
+Skovvænget 12A4653 Karise,rise,1.850.000,10-06-2007,Alm. Salg,13.805,4,Villa,134,1983,-7 %,Aktuel værdi
+Køgevej 334653 Karise,rise,950.000,09-06-2007,Alm. Salg,8.878,3,Villa,107,1906,,Aktuel værdi
+Skovvænget 204653 Karise,rise,1.680.000,30-05-2007,Alm. Salg,15.135,4,Villa,111,1972,0 %,Aktuel værdi
+Fasanvej 264653 Karise,rise,2.385.000,29-05-2007,Alm. Salg,16.335,5,Villa,146,1990,,Aktuel værdi
+Køgevej 744653 Karise,rise,1.350.000,15-05-2007,Alm. Salg,9.121,3,Villa,148,1884,-3 %,Aktuel værdi
+Solagervej 184653 Karise,rise,1.300.000,03-05-2007,Alm. Salg,14.285,2,Villa,91,1971,-4 %,Aktuel værdi
+Lægårdsvej 34653 Karise,rise,293.000,30-04-2007,Alm. Salg,1.337,8,Stuehus,219,1888,,
+Nørrebro 44653 Karise,rise,1.775.000,25-04-2007,Alm. Salg,13.549,4,Villa,131,1962,0 %,Aktuel værdi
+Skolegade 48A4653 Karise,rise,245.000,24-04-2007,Alm. Salg,1.788,4,Villa,137,2002,,Aktuel værdi
+Spjellerupvej 28A4653 Karise,rise,3.995.000,23-04-2007,Alm. Salg,20.075,7,Villa,199,1929,0 %,Aktuel værdi
+Nørrebro 114653 Karise,rise,1.265.000,23-04-2007,Alm. Salg,18.071,3,Villa,70,1961,-2 %,Aktuel værdi
+Sneppevej 114653 Karise,rise,644.000,16-04-2007,Alm. Salg,4.128,6,Villa,156,2015,0 %,Aktuel værdi
+Præstevænget 114653 Karise,rise,1.575.000,15-04-2007,Alm. Salg,14.719,3,Villa,107,1912,-6 %,Aktuel værdi
+Køgevej 294653 Karise,rise,1.595.000,22-03-2007,Alm. Salg,9.968,7,Villa,160,1938,0 %,Aktuel værdi
+Drosselvej 64653 Karise,rise,1.300.000,21-03-2007,Alm. Salg,7.647,8,Villa,170,1918,,Aktuel værdi
+Rhitras Vej 94653 Karise,rise,1.730.000,20-03-2007,Alm. Salg,14.065,4,Rækkehus,123,2009,,Aktuel værdi
+Skovvænget 114653 Karise,rise,2.295.000,14-03-2007,Alm. Salg,14.711,5,Villa,156,1967,,Aktuel værdi
+Hemmingsvej 494653 Karise,rise,1.730.000,07-03-2007,Alm. Salg,15.043,4,Villa,115,1973,-3 %,Aktuel værdi
+Alslevvej 7A4653 Karise,rise,2.650.000,03-03-2007,Alm. Salg,17.666,5,Sommerhus,150,1577,,Aktuel værdi
+Ingers Vej 104653 Karise,rise,2.010.000,02-03-2007,Alm. Salg,17.179,4,Rækkehus,117,2007,,Aktuel værdi
+Vemmetoftevej 5A4653 Karise,rise,1.445.000,27-02-2007,Fam. Salg,8.865,5,Villa,163,1976,,Aktuel værdi
+Rhitras Vej 104653 Karise,rise,1.724.775,26-02-2007,Alm. Salg,15.129,4,Rækkehus,114,2007,,Aktuel værdi
+Karl Af Rises Vej 24653 Karise,rise,1.428.000,26-02-2007,Alm. Salg,14.280,4,Villa,100,1967,-5 %,Aktuel værdi
+Bakkeskovvej 54653 Karise,rise,6.375.000,20-02-2007,Fam. Salg,26.562,8,Stuehus,240,1895,,
+Skredebakkevej 24653 Karise,rise,2.000.000,19-02-2007,Fam. Salg,11.764,6,Stuehus,170,1890,,
+Spjellerupvej 224653 Karise,rise,885.000,02-02-2007,Alm. Salg,10.662,3,Sommerhus,83,1866,-4 %,Aktuel værdi
+Smerupvej 29A4653 Karise,rise,1.600.000,28-01-2007,Alm. Salg,14.814,3,Villa,108,1877,,Aktuel værdi
+Drosselvej 194653 Karise,rise,1.595.000,18-01-2007,Alm. Salg,17.527,3,Villa,91,1982,,Aktuel værdi
+Rosengården 144653 Karise,rise,2.945.000,18-01-2007,Alm. Salg,19.633,5,Villa,150,2004,-2 %,Aktuel værdi
+Rhitras Vej 124653 Karise,rise,1.872.470,15-01-2007,Alm. Salg,15.223,4,Rækkehus,123,2007,,Aktuel værdi
+Ingers Vej 414653 Karise,rise,1.725.000,02-01-2007,Alm. Salg,15.000,3,Rækkehus,115,2007,,Aktuel værdi
+Drosselvej 34653 Karise,rise,1.300.000,02-01-2007,Alm. Salg,8.227,6,Villa,158,1903,,Aktuel værdi
+Jørslevvej 54653 Karise,rise,4.100.000,01-01-2007,Fam. Salg,42.708,5,Stuehus,96,1916,,
+Tokkerupvej 484653 Karise,rise,1.000.000,01-01-2007,Fam. Salg,8.695,4,Villa,115,1959,,Aktuel værdi
+Drosselvej 110C4653 Karise,rise,1.987.574,20-12-2006,Alm. Salg,-,4,Rækkehus,93,1878,,Aktuel værdi
+Bøgevej 94653 Karise,rise,1.850.000,01-12-2006,Alm. Salg,14.682,1,Villa,126,1971,,Aktuel værdi
+Sønderbyvej 44653 Karise,rise,2.085.000,22-11-2006,Alm. Salg,16.038,5,Villa,130,1923,,Aktuel værdi
+Smerupvej 27B4653 Karise,rise,2.750.000,21-11-2006,Alm. Salg,13.819,5,Villa,199,1751,,Aktuel værdi
+Prins Buris Vej 204653 Karise,rise,1.995.000,20-11-2006,Alm. Salg,12.870,5,Villa,155,1987,,Aktuel værdi
+Ingers Vej 314653 Karise,rise,1.995.000,20-11-2006,Alm. Salg,17.347,3,Rækkehus,115,2007,,Aktuel værdi
+Ingers Vej 364653 Karise,rise,1.825.000,17-11-2006,Alm. Salg,19.414,3,Rækkehus,94,2007,,Aktuel værdi
+Hemmingsvej 474653 Karise,rise,1.475.000,15-11-2006,Alm. Salg,13.409,3,Villa,110,1973,,Aktuel værdi
+Dalbyvej 204653 Karise,rise,2.350.000,08-11-2006,Alm. Salg,-,8,Villa,240,1917,,Aktuel værdi
+Pebringevej 64653 Karise,rise,119.400,02-11-2006,Alm. Salg,591,4,Stuehus,202,1857,,
+Ingers Vej 344653 Karise,rise,1.995.000,01-11-2006,Alm. Salg,17.347,3,Rækkehus,115,2007,,Aktuel værdi
+Rhitras Vej 24653 Karise,rise,1.585.000,30-10-2006,Alm. Salg,13.903,4,Rækkehus,114,2006,,Aktuel værdi
+Præstestien 54653 Karise,rise,1.820.000,30-10-2006,Alm. Salg,6.066,9,Villa,300,1877,,Aktuel værdi
+Smerupvej 94653 Karise,rise,1.195.000,27-10-2006,Alm. Salg,14.397,4,Villa,83,1877,,Aktuel værdi
+Skolegade 84653 Karise,rise,1.275.000,26-10-2006,Fam. Salg,6.967,7,Villa,183,1935,,Aktuel værdi
+Skolegade 164653 Karise,rise,2.995.000,07-09-2006,Alm. Salg,13.865,7,Villa,216,1900,,Aktuel værdi
+Folmer Sangers Vej 244653 Karise,rise,1.850.000,31-08-2006,Alm. Salg,19.680,3,Rækkehus,94,2006,,Aktuel værdi
+Kærvej 64653 Karise,rise,1.450.000,30-08-2006,Alm. Salg,12.288,4,Villa,118,1962,,Aktuel værdi
+Skovvænget 224653 Karise,rise,1.990.000,29-08-2006,Alm. Salg,14.014,4,Villa,142,1969,,Aktuel værdi
+St Lindevej 24653 Karise,rise,580.000,21-08-2006,Fam. Salg,2.436,8,Stuehus,238,1965,,
+Jørslevvej 234653 Karise,rise,3.498.000,14-08-2006,Alm. Salg,18.124,4,Villa,193,1950,,Aktuel værdi
+Hemmingsvej 174653 Karise,rise,1.760.000,05-08-2006,Alm. Salg,12.307,4,Villa,143,1973,,Aktuel værdi
+Storkevænget 124653 Karise,rise,2.250.000,17-07-2006,Alm. Salg,-,6,Villa,163,1957,,Aktuel værdi
+Søndergade 194653 Karise,rise,2.175.000,06-07-2006,Alm. Salg,13.262,4,Villa,164,1987,,Aktuel værdi
+Alslevvej 54653 Karise,rise,1.275.000,04-07-2006,Alm. Salg,10.714,5,Villa,119,1912,,Aktuel værdi
+Smerupvej 23A4653 Karise,rise,1.675.000,01-07-2006,Alm. Salg,11.964,8,Villa,140,1877,,Aktuel værdi
+Kløvervej 234653 Karise,rise,1.900.000,21-06-2006,Alm. Salg,19.387,4,Villa,98,2002,,Aktuel værdi
+Ridder Jernskægs Vej 3C4653 Karise,rise,1.550.000,15-06-2006,Alm. Salg,19.375,3,Rækkehus,80,2001,,Aktuel værdi
+Breddammen 74653 Karise,rise,2.425.000,15-06-2006,Alm. Salg,20.208,6,Stuehus,120,1715,,
+"Skolegade 46A, 14653 Karise",rise,995.000,14-06-2006,Alm. Salg,11.705,3,Lejlighed,85,1905,,Aktuel værdi
+Jagtvej 54653 Karise,rise,1.795.000,13-06-2006,Alm. Salg,13.198,5,Villa,136,1800,,Aktuel værdi
+Kulagervej 264653 Karise,rise,900.000,08-06-2006,Alm. Salg,9.183,4,Stuehus,98,1917,,
+Nyvej 14653 Karise,rise,1.760.000,06-06-2006,Alm. Salg,8.502,5,Villa,207,1961,,Aktuel værdi
+Ærtevænget 134653 Karise,rise,1.525.000,01-06-2006,Alm. Salg,16.758,3,Rækkehus,91,2004,,Aktuel værdi
+Kløvervej 214653 Karise,rise,1.350.000,01-06-2006,Alm. Salg,16.666,3,Villa,81,2005,,Aktuel værdi
+Tågerupvej 154653 Karise,rise,1.795.000,23-05-2006,Alm. Salg,9.300,4,Villa,193,1956,,Aktuel værdi
+Drosselvej 354653 Karise,rise,977.500,20-05-2006,Fam. Salg,9.050,4,Villa,108,1985,,Aktuel værdi
+Præstevænget 64653 Karise,rise,1.675.000,18-05-2006,Alm. Salg,16.262,4,Villa,103,1944,,Aktuel værdi
+Skolegade 364653 Karise,rise,1.900.000,16-05-2006,Alm. Salg,15.200,4,Villa,125,1915,,Aktuel værdi
+Nørrebro 84653 Karise,rise,1.095.000,16-05-2006,Alm. Salg,11.902,4,Villa,92,1962,,Aktuel værdi
+Syrenvænget 104653 Karise,rise,1.525.000,11-05-2006,Alm. Salg,13.377,4,Villa,114,1964,,Aktuel værdi
+Ådalsvej 94653 Karise,rise,1.675.000,08-05-2006,Alm. Salg,15.509,3,Villa,108,1850,,Aktuel værdi
+Trondhjemshuse 54653 Karise,rise,4.500.000,24-04-2006,Alm. Salg,22.500,5,Villa,200,1981,,Aktuel værdi
+Skovbrodersvej 84653 Karise,rise,1.650.000,20-04-2006,Alm. Salg,17.553,3,Rækkehus,94,2003,,Aktuel værdi
+Smerupvej 354653 Karise,rise,2.100.000,06-04-2006,Alm. Salg,8.400,6,Villa,250,1827,,Aktuel værdi
+Skolegade 224653 Karise,rise,1.895.000,04-04-2006,Alm. Salg,13.251,6,Villa,143,1947,,Aktuel værdi
+Søndergade 114653 Karise,rise,900.000,29-03-2006,Alm. Salg,10.000,4,Villa,90,1877,,Aktuel værdi
+Karisevej 1444653 Karise,rise,1.402.500,27-03-2006,Alm. Salg,13.485,4,Stuehus,104,1877,,
+Hemmingsvej 464653 Karise,rise,1.375.000,19-03-2006,Alm. Salg,7.638,5,Villa,180,1973,,Aktuel værdi
+Jørslev Skovvej 44653 Karise,rise,1.430.375,17-03-2006,Alm. Salg,5.544,4,Villa,258,1898,,Aktuel værdi
+Køgevej 214653 Karise,rise,1.650.000,17-03-2006,Alm. Salg,10.855,4,Villa,152,1969,,Aktuel værdi
+Ingers Vej 454653 Karise,rise,1.450.000,16-03-2006,Alm. Salg,15.425,3,Rækkehus,94,2006,,Aktuel værdi
+Ingers Vej 464653 Karise,rise,1.450.000,16-03-2006,Alm. Salg,15.425,3,Rækkehus,94,2006,,Aktuel værdi
+Præstemarksvej 264653 Karise,rise,2.235.000,16-03-2006,Alm. Salg,14.326,5,Villa,156,1955,,Aktuel værdi
+Ingers Vej 504653 Karise,rise,1.625.000,14-03-2006,Alm. Salg,14.130,3,Rækkehus,115,2006,,Aktuel værdi
+Ingers Vej 514653 Karise,rise,1.625.000,14-03-2006,Alm. Salg,14.130,3,Rækkehus,115,2007,,Aktuel værdi
+Ingers Vej 474653 Karise,rise,1.625.000,14-03-2006,Alm. Salg,14.130,3,Rækkehus,115,2007,,Aktuel værdi
+Skolegade 344653 Karise,rise,1.450.000,10-03-2006,Alm. Salg,15.104,4,Villa,96,1989,,Aktuel værdi
+Solagervej 194653 Karise,rise,1.507.297,07-03-2006,Alm. Salg,10.323,6,Villa,146,1973,,Aktuel værdi
+Præstemarksvej 14653 Karise,rise,1.425.000,06-03-2006,Alm. Salg,9.760,3,Villa,146,1937,,Aktuel værdi
+Rhitras Vej 64653 Karise,rise,1.550.000,01-03-2006,Alm. Salg,12.601,4,Rækkehus,123,2006,,Aktuel værdi
+Rhitras Vej 84653 Karise,rise,1.595.000,01-03-2006,Alm. Salg,12.967,4,Rækkehus,123,2006,,Aktuel værdi
+Bredgade 184653 Karise,rise,2.295.000,25-02-2006,Alm. Salg,13.993,7,Villa,164,1927,,Aktuel værdi
+Fasanvej 154653 Karise,rise,1.685.000,22-02-2006,Alm. Salg,12.389,4,Villa,136,1973,,Aktuel værdi
+Rhitras Vej 54653 Karise,rise,1.760.000,20-02-2006,Alm. Salg,12.846,4,Rækkehus,137,2006,,Aktuel værdi
+Jørslevvej 94653 Karise,rise,1.695.000,09-02-2006,Alm. Salg,13.242,4,Villa,128,1850,,Aktuel værdi
+Rhitras Vej 74653 Karise,rise,1.778.000,02-02-2006,Alm. Salg,12.884,4,Rækkehus,138,2007,,Aktuel værdi
+Hemmingsvej 754653 Karise,rise,1.795.000,02-02-2006,Alm. Salg,11.809,5,Villa,152,1973,,Aktuel værdi
+Skolegade 25D4653 Karise,rise,1.475.000,01-02-2006,Alm. Salg,15.206,3,Villa,97,2006,,Aktuel værdi
+Skolegade 44A4653 Karise,rise,554.500,01-02-2006,Fam. Salg,6.523,4,Villa,85,1956,,Aktuel værdi
+Skolegade 194653 Karise,rise,875.000,30-01-2006,Alm. Salg,7.743,4,Villa,113,1915,,Aktuel værdi
+Kulagervej 314653 Karise,rise,1.530.000,27-01-2006,Alm. Salg,12.047,4,Villa,127,1877,,Aktuel værdi
+Lucernevej 64653 Karise,rise,143.160,24-01-2006,Alm. Salg,1.417,5,Erhverv,101,2008,,Aktuel værdi
+Skovvænget 34653 Karise,rise,1.375.000,20-01-2006,Alm. Salg,9.166,4,Villa,150,1976,,Aktuel værdi
+Storkevænget 6A4653 Karise,rise,785.000,15-01-2006,Alm. Salg,3.270,5,Villa,240,1931,,Aktuel værdi
+Præstemarksvej 64653 Karise,rise,915.000,13-01-2006,Alm. Salg,10.280,3,Villa,89,1961,,Aktuel værdi
+Kulagervej 194653 Karise,rise,1.750.000,05-01-2006,Alm. Salg,14.000,6,Villa,125,1896,,Aktuel værdi
+Åvej 34653 Karise,rise,445.000,12-12-2005,Alm. Salg,7.416,2,Sommerhus,60,1864,,Aktuel værdi
+Ærtevænget 74653 Karise,rise,1.375.000,01-12-2005,Alm. Salg,15.109,3,Rækkehus,91,2004,,Aktuel værdi
+Gimlingevej 10C4653 Karise,rise,1.750.000,11-11-2005,Fam. Salg,8.101,6,Villa,216,1973,,Aktuel værdi
+Barupvejen 354653 Karise,rise,2.395.000,09-11-2005,Alm. Salg,7.725,9,Villa,310,1901,,Aktuel værdi
+Alslevvej 3A4653 Karise,rise,3.000.000,31-10-2005,Alm. Salg,14.563,9,Stuehus,206,1904,,
+Karisevej 1494653 Karise,rise,3.250.000,25-10-2005,Alm. Salg,22.413,6,Villa,145,1870,,Aktuel værdi
+Prins Buris Vej 134653 Karise,rise,1.595.000,19-10-2005,Alm. Salg,14.500,4,Villa,110,1991,,Aktuel værdi
+Breddammen 94653 Karise,rise,2.400.000,17-10-2005,Alm. Salg,15.483,4,Stuehus,155,1880,,
+Alslevvej 244653 Karise,rise,1.650.000,16-10-2005,Alm. Salg,7.710,7,Villa,214,1860,,Aktuel værdi
+Folmer Sangers Vej 234653 Karise,rise,1.365.000,15-10-2005,Alm. Salg,14.521,3,Rækkehus,94,2007,,Aktuel værdi
+Karisevej 1634653 Karise,rise,2.185.000,11-10-2005,Alm. Salg,10.069,6,Villa,217,1920,,Aktuel værdi
+Drosselvej 984653 Karise,rise,1.047.000,03-10-2005,Alm. Salg,9.605,3,Villa,109,1924,,Aktuel værdi
+Geddevænget 44653 Karise,rise,460.000,02-10-2005,Andet,4.035,3,Villa,114,1777,,Aktuel værdi
+Ærtevænget 64653 Karise,rise,1.050.000,01-10-2005,Alm. Salg,12.962,3,Rækkehus,81,2004,,Aktuel værdi
+Skolegade 494653 Karise,rise,1.215.000,29-09-2005,Alm. Salg,9.878,5,Rækkehus,123,1961,,Aktuel værdi
+Kærvej 44653 Karise,rise,1.050.000,27-09-2005,Alm. Salg,9.545,5,Villa,110,1906,,Aktuel værdi
+Rønne Alle 94653 Karise,rise,2.300.000,25-09-2005,Alm. Salg,17.424,5,Villa,132,1935,,Aktuel værdi
+Folmer Sangers Vej 224653 Karise,rise,1.365.000,22-09-2005,Alm. Salg,14.521,3,Rækkehus,94,2006,,Aktuel værdi
+Folmer Sangers Vej 214653 Karise,rise,1.365.000,20-09-2005,Alm. Salg,14.521,3,Rækkehus,94,2006,,Aktuel værdi
+Solagervej 17B4653 Karise,rise,1.500.000,19-09-2005,Alm. Salg,17.045,3,Rækkehus,88,1970,,Aktuel værdi
+Spjellerupvej 144653 Karise,rise,1.375.000,07-09-2005,Alm. Salg,6.610,5,Villa,208,1872,,Aktuel værdi
+Gimlingevej 64653 Karise,rise,2.200.000,01-09-2005,Alm. Salg,10.426,5,Villa,211,1902,,Aktuel værdi
+Søndergade 18A4653 Karise,rise,1.395.000,26-08-2005,Alm. Salg,8.063,7,Villa,173,1930,,Aktuel værdi
+Søndergade 84653 Karise,rise,750.000,24-08-2005,Alm. Salg,6.637,4,Villa,113,1900,,Aktuel værdi
+St Lindevej 14653 Karise,rise,1.575.000,23-08-2005,Alm. Salg,8.798,6,Villa,179,1929,,Aktuel værdi
+Folmer Sangers Vej 114653 Karise,rise,1.495.000,22-08-2005,Alm. Salg,13.230,4,Rækkehus,113,2004,,Aktuel værdi
+Liden Kirstens Vej 94653 Karise,rise,1.395.000,19-08-2005,Alm. Salg,10.730,4,Villa,130,1972,,Aktuel værdi
+Præstemarksvej 2C4653 Karise,rise,2.355.000,16-08-2005,Alm. Salg,12.139,5,Villa,194,1867,,Aktuel værdi
+Toftagervej 1B4653 Karise,rise,1.145.000,05-08-2005,Alm. Salg,11.009,4,Villa,104,1983,,Aktuel værdi
+Rhitras Vej 144653 Karise,rise,351.000,02-08-2005,Alm. Salg,2.294,3,Villa,153,2006,,Aktuel værdi
+Rhitras Vej 164653 Karise,rise,341.510,28-07-2005,Alm. Salg,1.997,6,Villa,171,2007,,Aktuel værdi
+Folmer Sangers Vej 44653 Karise,rise,1.331.963,15-07-2005,Alm. Salg,14.169,3,Rækkehus,94,2005,,Aktuel værdi
+Rosengården 24653 Karise,rise,380.000,14-07-2005,Alm. Salg,2.451,4,Villa,155,2006,,Aktuel værdi
+Breddammen 194653 Karise,rise,1.399.000,11-07-2005,Alm. Salg,11.373,4,Villa,123,1917,,Aktuel værdi
+Rosengården 524653 Karise,rise,1.235.000,10-07-2005,Alm. Salg,13.423,3,Rækkehus,92,2006,,Aktuel værdi
+Ligustervej 64653 Karise,rise,1.120.000,07-07-2005,Alm. Salg,10.181,3,Villa,110,1963,,Aktuel værdi
+Dalbyvej 114653 Karise,rise,1.250.000,04-07-2005,Alm. Salg,13.888,5,Villa,90,1917,,Aktuel værdi
+Prins Buris Vej 224653 Karise,rise,1.695.000,03-07-2005,Alm. Salg,13.452,4,Villa,126,1988,,Aktuel værdi
+Pebringevej 44653 Karise,rise,875.000,02-07-2005,Fam. Salg,8.578,4,Villa,102,1895,,Aktuel værdi
+Rosengården 504653 Karise,rise,1.485.000,28-06-2005,Alm. Salg,13.026,3,Rækkehus,114,2006,,Aktuel værdi
+Spjellerupvej 104653 Karise,rise,950.000,23-06-2005,Alm. Salg,8.333,4,Villa,114,1914,,Aktuel værdi
+Rosengården 484653 Karise,rise,1.485.000,22-06-2005,Alm. Salg,12.913,3,Rækkehus,115,2006,,Aktuel værdi
+Sønderbyvej 64653 Karise,rise,437.460,20-06-2005,Alm. Salg,3.080,4,Stuehus,142,1923,,
+Sønderbyvej 34653 Karise,rise,57.040,20-06-2005,Alm. Salg,432,2,Stuehus,132,1923,,
+Liden Kirstens Vej 114653 Karise,rise,1.562.000,15-06-2005,Alm. Salg,11.000,6,Villa,142,1972,,Aktuel værdi
+Fasanvej 84653 Karise,rise,1.445.000,27-05-2005,Alm. Salg,11.201,6,Villa,129,1979,,Aktuel værdi
+Rhitras Vej 154653 Karise,rise,391.830,17-05-2005,Alm. Salg,2.213,6,Villa,177,2006,,Aktuel værdi
+Rhitras Vej 174653 Karise,rise,339.290,09-05-2005,Alm. Salg,2.081,4,Villa,163,2007,,Aktuel værdi
+Søndergade 214653 Karise,rise,810.000,28-04-2005,Alm. Salg,7.297,4,Villa,111,1935,,Aktuel værdi
+Folmer Sangers Vej 94653 Karise,rise,1.290.000,20-04-2005,Alm. Salg,12.524,3,Rækkehus,103,2005,,Aktuel værdi
+Køgevej 394653 Karise,rise,1.750.000,10-04-2005,Alm. Salg,12.962,4,Villa,135,1900,,Aktuel værdi
+Rønne Alle 174653 Karise,rise,513.565,06-04-2005,Alm. Salg,4.108,4,Villa,125,1959,,Aktuel værdi
+Hemmingsvej 444653 Karise,rise,1.350.000,05-04-2005,Alm. Salg,10.384,3,Villa,130,1973,,Aktuel værdi
+Højmøllevej 44653 Karise,rise,710.000,05-04-2005,Alm. Salg,10.441,3,Stuehus,68,1900,,
+Skovvænget 44653 Karise,rise,1.295.000,04-04-2005,Alm. Salg,9.592,6,Villa,135,1969,,Aktuel værdi
+Folmer Sangers Vej 34653 Karise,rise,1.350.000,04-04-2005,Alm. Salg,11.842,3,Rækkehus,114,2005,,Aktuel værdi
+Drosselvej 1004653 Karise,rise,1.395.000,24-03-2005,Alm. Salg,10.648,4,Villa,131,1976,,Aktuel værdi
+Folmer Sangers Vej 164653 Karise,rise,1.425.000,21-03-2005,Alm. Salg,12.500,3,Rækkehus,114,2006,,Aktuel værdi
+Skolegade 44B4653 Karise,rise,1.425.000,15-03-2005,Alm. Salg,12.391,3,Rækkehus,115,2006,,Aktuel værdi
+Præstemarksvej 34653 Karise,rise,314.267,01-03-2005,Fam. Salg,3.571,3,Villa,88,1937,,Aktuel værdi
+Hemmingsvej 524653 Karise,rise,1.330.000,01-02-2005,Alm. Salg,-,5,Villa,192,1973,,Aktuel værdi
+Skolegade 324653 Karise,rise,1.195.000,20-01-2005,Alm. Salg,10.575,4,Villa,113,1912,,Aktuel værdi
+Tågerupvej 114653 Karise,rise,400.000,20-01-2005,Fam. Salg,5.128,3,Villa,78,1727,,Aktuel værdi
+Søndergade 104653 Karise,rise,800.000,18-01-2005,Fam. Salg,8.888,4,Villa,90,1925,,Aktuel værdi
+Vemmetoftevej 74653 Karise,rise,10.702.000,11-01-2005,Andet,-,8,Villa,226,1790,,Aktuel værdi
+Folmer Sangers Vej 64653 Karise,rise,1.370.000,23-12-2004,Alm. Salg,12.123,4,Rækkehus,113,2005,,Aktuel værdi
+Pebringevej 164653 Karise,rise,1.895.000,18-12-2004,Alm. Salg,7.962,6,Stuehus,238,1880,,
+Dalbyvej 19A4653 Karise,rise,895.000,14-12-2004,Alm. Salg,5.490,6,Villa,163,1877,,Aktuel værdi
+Ærtevænget 14653 Karise,rise,1.065.000,13-12-2004,Alm. Salg,13.148,3,Rækkehus,81,2004,,Aktuel værdi
+Møllehusvej 114653 Karise,rise,7.526.000,03-12-2004,Fam. Salg,24.756,8,Stuehus,304,1837,,
+Breddammen 114653 Karise,rise,1.695.000,26-11-2004,Alm. Salg,8.033,5,Villa,211,1977,,Aktuel værdi
+Folmer Sangers Vej 84653 Karise,rise,1.395.000,10-11-2004,Alm. Salg,11.434,4,Rækkehus,122,2004,,Aktuel værdi
+Fru Marthes Vej 44653 Karise,rise,1.535.000,02-11-2004,Alm. Salg,8.208,5,Villa,187,1974,,Aktuel værdi
+Folmer Sangers Vej 14653 Karise,rise,1.395.000,01-11-2004,Alm. Salg,11.160,4,Rækkehus,125,2004,,Aktuel værdi
+Folmer Sangers Vej 74653 Karise,rise,1.350.000,01-11-2004,Alm. Salg,11.946,4,Rækkehus,113,2004,,Aktuel værdi
+Hemmingsvej 64653 Karise,rise,1.312.500,26-10-2004,Alm. Salg,8.750,4,Villa,150,1973,,Aktuel værdi
+St Lindevej 74653 Karise,rise,950.000,22-10-2004,Alm. Salg,10.000,3,Villa,95,1873,,Aktuel værdi
+Fællesvej 34653 Karise,rise,1.000.000,21-10-2004,Andet,5.102,6,Villa,196,1910,,Aktuel værdi
+Rhitras Vej 334653 Karise,rise,300.300,18-10-2004,Alm. Salg,1.547,4,Villa,194,2006,,Aktuel værdi
+Rhitras Vej 354653 Karise,rise,406.000,18-10-2004,Alm. Salg,2.780,5,Villa,146,2006,,Aktuel værdi
+Rønne Alle 44653 Karise,rise,1.395.000,17-10-2004,Alm. Salg,12.130,5,Villa,115,1937,,Aktuel værdi
+Ærtevænget 34653 Karise,rise,1.065.000,07-10-2004,Alm. Salg,13.148,3,Rækkehus,81,2004,,Aktuel værdi
+Bredgade 234653 Karise,rise,400.000,05-10-2004,Andet,3.076,4,Villa,130,1897,,Aktuel værdi
+Drosselvej 37C4653 Karise,rise,355.000,20-09-2004,Alm. Salg,2.773,3,Villa,128,2006,,Aktuel værdi
+Toftagervej 24653 Karise,rise,1.070.000,14-09-2004,Alm. Salg,8.842,4,Villa,121,1979,,Aktuel værdi
+Møllehusvej 84653 Karise,rise,1.595.000,29-08-2004,Alm. Salg,9.011,7,Rækkehus,177,1887,,Aktuel værdi
+Hemmingsvej 294653 Karise,rise,1.400.000,25-08-2004,Alm. Salg,9.589,5,Villa,146,1975,,Aktuel værdi
+Ærtevænget 84653 Karise,rise,1.095.000,20-08-2004,Alm. Salg,12.032,3,Rækkehus,91,2004,,Aktuel værdi
+Folmer Sangers Vej 194653 Karise,rise,1.360.000,10-08-2004,Alm. Salg,11.826,3,Rækkehus,115,2004,,Aktuel værdi
+Møllehusvej 154653 Karise,rise,950.000,10-08-2004,Alm. Salg,5.491,4,Villa,173,2006,,Aktuel værdi
+Rhitras Vej 314653 Karise,rise,350.700,02-08-2004,Alm. Salg,1.638,7,Villa,214,2006,,Aktuel værdi
+Søndergade 334653 Karise,rise,1.150.000,29-07-2004,Alm. Salg,9.913,5,Villa,116,1950,,Aktuel værdi
+Præstemarksvej 184653 Karise,rise,1.835.000,15-07-2004,Alm. Salg,9.657,6,Villa,190,1907,,Aktuel værdi
+Rhitras Vej 324653 Karise,rise,300.300,14-07-2004,Alm. Salg,1.853,5,Villa,162,2006,,Aktuel værdi
+Rhitras Vej 344653 Karise,rise,309.400,09-07-2004,Alm. Salg,1.886,5,Villa,164,2006,,Aktuel værdi
+Valbyvej 64653 Karise,rise,1.195.000,29-06-2004,Alm. Salg,9.409,4,Villa,127,1923,,Aktuel værdi
+Søndergade 134653 Karise,rise,952.600,06-06-2004,Alm. Salg,13.608,2,Villa,70,1938,,Aktuel værdi
+Vemmetoftevej 34653 Karise,rise,1.500.000,11-05-2004,Alm. Salg,13.392,4,Villa,112,1877,,Aktuel værdi
+Spjellerupvej 27B4653 Karise,rise,320.000,27-04-2004,Alm. Salg,1.675,6,Villa,191,2005,,Aktuel værdi
+Drosselvej 154653 Karise,rise,650.000,22-04-2004,Alm. Salg,10.156,3,Villa,64,1961,,Aktuel værdi
+Tågerupvej 34653 Karise,rise,1.225.000,15-04-2004,Alm. Salg,10.040,5,Villa,122,1882,,Aktuel værdi
+Børstedvej 284653 Karise,rise,4.235.000,15-04-2004,Alm. Salg,16.940,7,Stuehus,250,1880,,
+Kildevej 134653 Karise,rise,785.000,07-04-2004,Alm. Salg,-,3,Villa,126,1955,,Aktuel værdi
+Kulagervej 234653 Karise,rise,882.849,04-04-2004,Alm. Salg,3.318,8,Stuehus,266,1890,,
+Ågårdsvej 24653 Karise,rise,4.900.000,24-03-2004,Fam. Salg,10.792,7,Stuehus,454,1887,,
+Rosengården 44653 Karise,rise,412.250,24-03-2004,Alm. Salg,2.694,5,Villa,153,2006,,Aktuel værdi
+Barup Bygade 54653 Karise,rise,1.425.000,23-02-2004,Alm. Salg,7.019,6,Villa,203,1900,,Aktuel værdi
+Søndervang 64653 Karise,rise,439.055,15-02-2004,Andet,2.869,6,Villa,153,1964,,Aktuel værdi
+Toftagervej 64653 Karise,rise,2.200.000,15-02-2004,Alm. Salg,8.461,8,Villa,260,1890,,Aktuel værdi
+Alslevvej 94653 Karise,rise,1.642.000,12-02-2004,Alm. Salg,8.128,6,Stuehus,202,1862,,
+Peder Olufsens Vej 244653 Karise,rise,1.390.000,05-02-2004,Alm. Salg,14.479,4,Villa,96,1986,,Aktuel værdi
+Overdrevsvej 124653 Karise,rise,1.275.000,22-01-2004,Alm. Salg,8.793,5,Villa,145,1902,,Aktuel værdi
+Hemmingsvej 254653 Karise,rise,1.325.000,17-01-2004,Alm. Salg,8.439,4,Villa,157,1973,,Aktuel værdi
+Jørslevvej 174653 Karise,rise,1.995.000,10-01-2004,Alm. Salg,9.236,6,Villa,216,1877,,Aktuel værdi
+Overdrevsvej 114653 Karise,rise,630.000,05-01-2004,Alm. Salg,5.121,4,Villa,123,1967,,Aktuel værdi
+Drosselvej 1124653 Karise,rise,420.000,29-12-2003,Andet,4.468,5,Villa,94,1895,,Aktuel værdi
+Overdrevsvej 164653 Karise,rise,320.000,21-12-2003,Alm. Salg,1.280,6,Stuehus,250,2004,,
+Valbyvej 14653 Karise,rise,950.000,19-12-2003,Alm. Salg,5.757,4,Villa,165,1923,,Aktuel værdi
+Solagervej 14653 Karise,rise,1.250.000,09-12-2003,Alm. Salg,8.064,5,Villa,155,1968,,Aktuel værdi
+Prins Buris Vej 164653 Karise,rise,1.795.000,08-12-2003,Alm. Salg,8.159,7,Villa,220,1922,,Aktuel værdi
+Tinghusvej 64653 Karise,rise,1.675.000,30-11-2003,Alm. Salg,14.823,4,Stuehus,113,1927,,
+Rosengården 64653 Karise,rise,348.715,18-11-2003,Alm. Salg,2.051,5,Villa,170,2006,,Aktuel værdi
+Rosengården 84653 Karise,rise,355.020,18-11-2003,Alm. Salg,2.164,4,Villa,164,2005,,Aktuel værdi
+Rosengården 164653 Karise,rise,352.595,18-11-2003,Alm. Salg,2.086,6,Villa,169,2004,,Aktuel værdi
+Ærtevænget 94653 Karise,rise,1.095.000,31-10-2003,Alm. Salg,12.032,3,Rækkehus,91,2003,,Aktuel værdi
+Hemmingsvej 614653 Karise,rise,1.491.000,27-10-2003,Alm. Salg,10.212,5,Villa,146,1973,,Aktuel værdi
+Jagtvej 44653 Karise,rise,1.195.000,27-10-2003,Alm. Salg,10.391,4,Villa,115,1980,,Aktuel værdi
+Hemmingsvej 424653 Karise,rise,1.450.000,24-10-2003,Alm. Salg,9.731,5,Villa,149,1972,,Aktuel værdi
+Ærtevænget 124653 Karise,rise,1.095.000,23-10-2003,Alm. Salg,12.032,3,Rækkehus,91,2003,,Aktuel værdi
+Nordhøjvej 504653 Karise,rise,1.350.000,17-10-2003,Alm. Salg,7.803,6,Villa,173,1877,,Aktuel værdi
+Kulagervej 244653 Karise,rise,1.700.000,01-10-2003,Alm. Salg,13.821,4,Villa,123,1867,,Aktuel værdi
+Ganneskovvej 24653 Karise,rise,895.000,16-09-2003,Alm. Salg,10.654,3,Villa,84,1877,,Aktuel værdi
+Kulagervej 274653 Karise,rise,1.255.000,04-09-2003,Alm. Salg,9.881,4,Villa,127,1900,,Aktuel værdi
+Bredgade 11B4653 Karise,rise,400.000,01-09-2003,Alm. Salg,4.761,5,Villa,84,1881,,Aktuel værdi
+Skovbrodersvej 74653 Karise,rise,1.185.000,01-08-2003,Alm. Salg,12.606,3,Rækkehus,94,2003,,Aktuel værdi
+Tuehuse 124653 Karise,rise,1.100.000,07-07-2003,Alm. Salg,-,5,Villa,98,1902,,Aktuel værdi
+Køgevej 804653 Karise,rise,1.250.000,16-06-2003,Alm. Salg,11.363,3,Stuehus,110,1927,,
+Prins Buris Vej 194653 Karise,rise,1.685.000,05-05-2003,Alm. Salg,9.683,6,Villa,174,1989,,Aktuel værdi
+Drosselvej 304653 Karise,rise,1.095.000,01-05-2003,Alm. Salg,10.330,4,Villa,106,1979,,Aktuel værdi
+Overdrevsvej 264653 Karise,rise,1.900.000,19-03-2003,Alm. Salg,10.734,6,Villa,177,1936,,Aktuel værdi
+Lægårdsvej 44653 Karise,rise,629.000,17-03-2003,Alm. Salg,6.988,3,Villa,90,1827,,Aktuel værdi
+Fasanvej 54653 Karise,rise,1.530.000,16-03-2003,Alm. Salg,8.052,5,Villa,190,1977,,Aktuel værdi
+Karen Jeppes Vej 24653 Karise,rise,1.565.000,07-03-2003,Alm. Salg,11.178,5,Villa,140,2000,,Aktuel værdi
+Skolegade 414653 Karise,rise,910.000,18-02-2003,Alm. Salg,-,5,Villa,149,1953,,Aktuel værdi
+Bøgevej 34653 Karise,rise,932.234,18-02-2003,Andet,5.419,4,Villa,172,1973,,Aktuel værdi
+Køgevej 414653 Karise,rise,840.000,23-12-2002,Auktion,4.941,6,Villa,170,1777,,Aktuel værdi
+Mosevej 54653 Karise,rise,1.425.000,05-12-2002,Alm. Salg,-,5,Villa,308,1870,,Aktuel værdi
+Jørslevvej 164653 Karise,rise,2.150.000,28-11-2002,Alm. Salg,17.622,2,Villa,122,1890,,Aktuel værdi
+Kulagervej 34653 Karise,rise,924.784,22-11-2002,Alm. Salg,5.345,5,Villa,173,1937,,Aktuel værdi
+Skovbrodersvej 64653 Karise,rise,1.325.000,13-11-2002,Alm. Salg,11.324,3,Rækkehus,117,2003,,Aktuel værdi
+Ridder Jernskægs Vej 3B4653 Karise,rise,975.000,12-11-2002,Alm. Salg,12.187,3,Rækkehus,80,2001,,Aktuel værdi
+Karl Af Rises Vej 84653 Karise,rise,720.000,11-11-2002,Alm. Salg,8.372,3,Villa,86,1881,,Aktuel værdi
+Bøgevej 74653 Karise,rise,925.000,31-10-2002,Alm. Salg,7.974,4,Villa,116,1966,,Aktuel værdi
+Hemmingsvej 314653 Karise,rise,1.105.000,27-10-2002,Alm. Salg,6.138,5,Villa,180,1974,,Aktuel værdi
+Spjellerupvej 194653 Karise,rise,310.000,16-10-2002,Alm. Salg,1.666,7,Villa,186,1865,,Aktuel værdi
+Rønne Alle 244653 Karise,rise,1.100.000,14-10-2002,Alm. Salg,5.527,5,Villa,199,1942,,Aktuel værdi
+Hemmingsvej 654653 Karise,rise,925.000,12-10-2002,Alm. Salg,8.043,4,Villa,115,1973,,Aktuel værdi
+Skovbrodersvej 44653 Karise,rise,1.325.000,10-10-2002,Alm. Salg,11.324,4,Rækkehus,117,2003,,Aktuel værdi
+Møllehusvej 204653 Karise,rise,1.100.000,27-09-2002,Alm. Salg,7.971,5,Villa,138,1975,,Aktuel værdi
+Skovbrodersvej 24653 Karise,rise,1.288.000,04-09-2002,Alm. Salg,13.702,3,Rækkehus,94,2002,,Aktuel værdi
+Prins Buris Vej 114653 Karise,rise,1.215.000,03-09-2002,Alm. Salg,10.041,4,Villa,121,1987,,Aktuel værdi
+Kulagervej 354653 Karise,rise,659.000,15-08-2002,Andet,4.608,4,Villa,143,1900,,Aktuel værdi
+Skovbrodersvej 34653 Karise,rise,1.165.000,10-07-2002,Alm. Salg,12.526,3,Rækkehus,93,2002,,Aktuel værdi
+Drosselvej 1084653 Karise,rise,1.485.000,01-07-2002,Alm. Salg,7.576,7,Villa,196,1775,,Aktuel værdi
+Ridder Jernskægs Vej 24653 Karise,rise,1.288.000,24-06-2002,Alm. Salg,16.100,3,Rækkehus,80,2002,,Aktuel værdi
+Præstestien 34653 Karise,rise,836.200,03-05-2002,Alm. Salg,6.743,4,Villa,124,1900,,Aktuel værdi
+Sønderbyvej 54653 Karise,rise,2.150.000,12-04-2002,Alm. Salg,18.695,4,Stuehus,115,1923,,
+Jørslevvej 24653 Karise,rise,1.290.000,29-03-2002,Alm. Salg,9.416,6,Villa,137,1800,,Aktuel værdi
+Skolegade 94653 Karise,rise,620.000,25-03-2002,Fam. Salg,5.000,4,Villa,124,1900,,Aktuel værdi
+Præstevænget 134653 Karise,rise,50.100,21-03-2002,Alm. Salg,248,8,Stuehus,202,1905,,
+Køgevej 564653 Karise,rise,555.190,09-03-2002,Alm. Salg,17.909,2,Sommerhus,31,1959,,Aktuel værdi
+Tågerupvej 174653 Karise,rise,783.000,08-03-2002,Alm. Salg,8.700,4,Villa,90,1890,,Aktuel værdi
+Præstemarksvej 244653 Karise,rise,1.050.000,04-03-2002,Fam. Salg,11.538,4,Villa,91,1770,,Aktuel værdi
+Hemmingsvej 224653 Karise,rise,1.097.044,22-02-2002,Alm. Salg,8.847,4,Villa,124,1972,,Aktuel værdi
+Ridder Jernskægs Vej 64653 Karise,rise,1.258.000,23-01-2002,Alm. Salg,10.939,4,Rækkehus,115,2002,,Aktuel værdi
+Karen Jeppes Vej 64653 Karise,rise,271.000,09-01-2002,Alm. Salg,2.084,3,Villa,130,2002,,Aktuel værdi
+Kulagervej 144653 Karise,rise,1.182.315,03-01-2002,Alm. Salg,5.254,6,Villa,225,1934,,Aktuel værdi
+Dalbyvej 374653 Karise,rise,800.000,06-12-2001,Fam. Salg,7.017,4,Villa,114,1880,,Aktuel værdi
+Nordhøjvej 254653 Karise,rise,1.285.800,05-12-2001,Alm. Salg,9.667,5,Villa,133,1910,,Aktuel værdi
+Lægårdsvej 94653 Karise,rise,810.000,11-10-2001,Alm. Salg,8.350,3,Villa,97,1951,,Aktuel værdi
+Nørrebro 164653 Karise,rise,1.120.000,09-10-2001,Alm. Salg,9.256,4,Villa,121,1968,,Aktuel værdi
+Karl Af Rises Vej 104653 Karise,rise,695.000,08-10-2001,Alm. Salg,7.722,3,Villa,90,1892,,Aktuel værdi
+Drosselvej 37B4653 Karise,rise,175.000,30-09-2001,Alm. Salg,1.029,5,Villa,170,2003,,Aktuel værdi
+Tuehuse 44653 Karise,rise,500.000,30-09-2001,Alm. Salg,3.333,5,Villa,150,1873,,Aktuel værdi
+Hemmingsvej 504653 Karise,rise,1.209.000,23-09-2001,Alm. Salg,7.651,5,Villa,158,1973,,Aktuel værdi
+Søndergade 264653 Karise,rise,775.100,14-09-2001,Alm. Salg,8.073,3,Villa,96,1960,,Aktuel værdi
+Tågerupvej 204653 Karise,rise,50.000,03-09-2001,Alm. Salg,252,5,Villa,198,1887,,Aktuel værdi
+Fru Marthes Vej 34653 Karise,rise,1.150.000,24-08-2001,Alm. Salg,9.274,4,Villa,124,1973,,Aktuel værdi
+Storkevænget 6B4653 Karise,rise,1.175.000,22-08-2001,Alm. Salg,6.420,6,Villa,183,1911,,Aktuel værdi
+Jørslevvej 194653 Karise,rise,1.285.000,05-08-2001,Alm. Salg,7.138,5,Villa,180,1877,,Aktuel værdi
+Prins Buris Vej 14653 Karise,rise,1.030.000,30-07-2001,Alm. Salg,8.803,5,Villa,117,1986,,Aktuel værdi
+Præstemarksvej 7A4653 Karise,rise,1.295.000,19-07-2001,Alm. Salg,8.196,3,Villa,158,1903,,Aktuel værdi
+Prins Buris Vej 54653 Karise,rise,1.149.682,25-06-2001,Alm. Salg,-,7,Villa,165,1987,,Aktuel værdi
+Rønne Alle 114653 Karise,rise,249.000,21-06-2001,Andet,1.915,3,Villa,130,1961,,Aktuel værdi
+Køgevej 354653 Karise,rise,655.030,20-06-2001,Alm. Salg,6.065,5,Villa,108,1925,,Aktuel værdi
+Søndergade 224653 Karise,rise,1.250.000,01-06-2001,Alm. Salg,6.756,6,Villa,185,1946,,Aktuel værdi
+Mosevej 24653 Karise,rise,190.000,15-05-2001,Alm. Salg,1.266,6,Stuehus,150,1909,,
+Spjellerupvej 84653 Karise,rise,770.000,12-05-2001,Alm. Salg,8.279,4,Villa,93,1883,,Aktuel værdi
+Drosselvej 37A4653 Karise,rise,1.482.300,26-04-2001,Alm. Salg,7.601,7,Villa,195,1930,,Aktuel værdi
+Lægårdsvej 114653 Karise,rise,1.084.738,28-03-2001,Alm. Salg,6.953,4,Villa,156,1988,,Aktuel værdi
+Kløvervej 54653 Karise,rise,106.000,27-03-2001,Alm. Salg,981,4,Villa,108,2002,,Aktuel værdi
+Præstevænget 84653 Karise,rise,1.245.760,05-03-2001,Alm. Salg,6.556,4,Villa,190,1890,,Aktuel værdi
+Hemmingsvej 304653 Karise,rise,1.169.383,13-02-2001,Alm. Salg,6.919,5,Villa,169,1974,,Aktuel værdi
+Skovvænget 12B4653 Karise,rise,1.295.000,01-02-2001,Alm. Salg,10.443,4,Villa,124,1980,,Aktuel værdi
+Smerupvej 314653 Karise,rise,664.337,01-02-2001,Alm. Salg,6.327,2,Villa,105,1877,,Aktuel værdi
+Drosselvej 294653 Karise,rise,855.925,08-01-2001,Alm. Salg,7.925,4,Villa,108,1986,,Aktuel værdi
+Smerupvej 114653 Karise,rise,1.200.000,01-01-2001,Alm. Salg,9.230,4,Villa,130,1750,,Aktuel værdi
+Præstevænget 24653 Karise,rise,810.000,20-12-2000,Alm. Salg,7.570,4,Villa,107,1970,,Aktuel værdi
+Møllehusvej 24653 Karise,rise,764.500,13-12-2000,Alm. Salg,6.950,4,Villa,110,1900,,Aktuel værdi
+Karen Jeppes Vej 34653 Karise,rise,241.000,11-12-2000,Alm. Salg,1.535,6,Villa,157,2001,,Aktuel værdi
+Ridder Jernskægs Vej 104653 Karise,rise,995.237,28-11-2000,Alm. Salg,11.058,3,Rækkehus,90,2001,,Aktuel værdi
+Spjellerupvej 174653 Karise,rise,450.000,13-11-2000,Alm. Salg,7.377,3,Villa,61,1877,,Aktuel værdi
+Køgevej 404653 Karise,rise,670.000,07-11-2000,Alm. Salg,7.882,3,Villa,85,1963,,Aktuel værdi
+Elmevej 114653 Karise,rise,1.230.224,23-10-2000,Alm. Salg,7.366,5,Villa,167,1964,,Aktuel værdi
+Ridder Jernskægs Vej 94653 Karise,rise,995.237,27-09-2000,Alm. Salg,11.058,3,Rækkehus,90,2000,,Aktuel værdi
+Alslevvej 174653 Karise,rise,950.120,19-09-2000,Alm. Salg,7.787,5,Villa,122,1930,,Aktuel værdi
+Totterupvej 24653 Karise,rise,1.359.457,28-08-2000,Alm. Salg,18.881,2,Villa,72,1926,,Aktuel værdi
+Elverhøjvej 254653 Karise,rise,967.764,23-08-2000,Alm. Salg,6.767,5,Villa,143,1877,,Aktuel værdi
+Drosselvej 604653 Karise,rise,1.279.670,18-07-2000,Alm. Salg,8.203,5,Villa,156,1980,,Aktuel værdi
+Møllehusvej 244653 Karise,rise,612.950,03-07-2000,Alm. Salg,-,5,Villa,140,1900,,Aktuel værdi
+Skolegade 404653 Karise,rise,1.084.760,25-06-2000,Alm. Salg,8.474,4,Villa,128,1916,,Aktuel værdi
+Alslevvej 134653 Karise,rise,18.000,10-05-2000,Alm. Salg,122,3,Villa,147,1897,,Aktuel værdi
+Tuehuse 24653 Karise,rise,140.000,11-04-2000,Alm. Salg,1.944,3,Stuehus,72,1877,,
+Storkevænget 84653 Karise,rise,1.280.160,10-04-2000,Alm. Salg,5.689,8,Villa,225,1780,,Aktuel værdi
+Hemmingsvej 484653 Karise,rise,899.290,29-02-2000,Alm. Salg,8.101,3,Villa,111,1972,,Aktuel værdi
+Tokkerupvej 404653 Karise,rise,470.933,25-02-2000,Alm. Salg,5.606,2,Villa,84,1877,,Aktuel værdi
+Kløvervej 104653 Karise,rise,140.000,18-02-2000,Alm. Salg,1.261,4,Villa,111,2000,,Aktuel værdi
+Drosselvej 364653 Karise,rise,965.000,08-02-2000,Alm. Salg,10.157,3,Villa,95,1983,,Aktuel værdi
+Karen Jeppes Vej 14653 Karise,rise,187.600,07-02-2000,Alm. Salg,1.242,3,Villa,151,2000,,Aktuel værdi
+Søndergade 1B4653 Karise,rise,825.000,02-02-2000,Alm. Salg,6.156,4,Villa,134,1870,,Aktuel værdi
+Karl Af Rises Vej 64653 Karise,rise,716.640,12-01-2000,Alm. Salg,6.398,5,Villa,112,1900,,Aktuel værdi
+Karen Jeppes Vej 44653 Karise,rise,247.000,01-01-2000,Alm. Salg,1.593,5,Villa,155,2000,,Aktuel værdi
+Dalbyvej 164653 Karise,rise,1.696.690,18-11-1999,Alm. Salg,9.426,4,Villa,180,1966,,Aktuel værdi
+Skolegade 294653 Karise,rise,615.365,02-11-1999,Alm. Salg,2.734,6,Villa,225,1928,,Aktuel værdi
+Søndergade 154653 Karise,rise,770.668,01-11-1999,Alm. Salg,7.339,4,Villa,105,1938,,Aktuel værdi
+Drosselvej 404653 Karise,rise,966.000,30-10-1999,Alm. Salg,9.288,4,Villa,104,1984,,Aktuel værdi
+Elverhøjvej 224653 Karise,rise,100.000,28-10-1999,Alm. Salg,-,3,Villa,112,1890,,Aktuel værdi
+Nordhøjvej 524653 Karise,rise,712.700,28-10-1999,Alm. Salg,-,8,Villa,191,1862,,Aktuel værdi
+Jørslevvej 34653 Karise,rise,1.457.000,01-10-1999,Alm. Salg,9.522,3,Villa,153,1897,,Aktuel værdi
+Juellingevej 164653 Karise,rise,500.000,30-09-1999,Alm. Salg,-,5,Stuehus,205,1923,,
+Lægårdsvej 6A4653 Karise,rise,1.900.000,23-09-1999,Alm. Salg,5.882,8,Villa,323,1727,,Aktuel værdi
+Tågerupvej 194653 Karise,rise,1.703.000,08-09-1999,Alm. Salg,11.278,5,Stuehus,151,1911,,
+Valbyvej 24653 Karise,rise,1.871.042,19-07-1999,Alm. Salg,6.429,6,Stuehus,291,1923,,
+Køgevej 924653 Karise,rise,840.000,15-07-1999,Alm. Salg,-,6,Villa,166,1927,,Aktuel værdi
+Søndergade 24653 Karise,rise,606.000,01-06-1999,Alm. Salg,4.848,4,Villa,125,1871,,Aktuel værdi
+Præstemarksvej 204653 Karise,rise,374.000,21-05-1999,Fam. Salg,3.596,5,Villa,104,1906,,Aktuel værdi
+Vesterled 84653 Karise,rise,600.000,15-05-1999,Andet,2.564,7,Villa,234,1966,,Aktuel værdi
+Kulagervej 84653 Karise,rise,1.149.356,26-04-1999,Alm. Salg,4.472,9,Villa,257,1904,,Aktuel værdi
+Spjellerupvej 54653 Karise,rise,589.937,16-04-1999,Alm. Salg,3.470,6,Villa,170,1959,,Aktuel værdi
+Alslevvej 124653 Karise,rise,875.000,15-04-1999,Alm. Salg,8.254,4,Villa,106,1971,,Aktuel værdi
+Storkevænget 34653 Karise,rise,810.000,22-03-1999,Alm. Salg,8.350,4,Villa,97,1868,,Aktuel værdi
+Køgevej 584653 Karise,rise,1.025.437,23-02-1999,Alm. Salg,4.419,8,Stuehus,232,1890,,
+Drosselvej 14653 Karise,rise,390.000,11-02-1999,Alm. Salg,4.698,4,Villa,83,1905,,Aktuel værdi
+Fællesvej 44653 Karise,rise,980.300,08-02-1999,Alm. Salg,2.961,7,Villa,331,1927,,Aktuel værdi
+Overdrevsvej 294653 Karise,rise,362.726,01-02-1999,Andet,2.267,6,Villa,160,1885,,Aktuel værdi
+Fru Marthes Vej 64653 Karise,rise,767.640,13-01-1999,Alm. Salg,6.617,4,Villa,116,1969,,Aktuel værdi
+Kløvervej 84653 Karise,rise,112.500,11-01-1999,Alm. Salg,937,5,Villa,120,1999,,Aktuel værdi
+Køgevej 134653 Karise,rise,585.625,21-12-1998,Alm. Salg,5.798,3,Villa,101,1900,,Aktuel værdi
+Storkevænget 114653 Karise,rise,290.000,14-12-1998,Fam. Salg,-,3,Villa,60,1900,,Aktuel værdi
+Toftagervej 54653 Karise,rise,135.000,10-12-1998,Alm. Salg,794,5,Villa,170,1999,,Aktuel værdi
+Breddammen 174653 Karise,rise,87.000,10-12-1998,Alm. Salg,524,5,Villa,166,1890,,Aktuel værdi
+Rønne Alle 14653 Karise,rise,475.000,27-11-1998,Alm. Salg,5.000,3,Villa,95,1902,,Aktuel værdi
+Spjellerupvej 114653 Karise,rise,440.000,20-11-1998,Alm. Salg,6.111,4,Villa,72,1870,,Aktuel værdi
+Smerupvej 214653 Karise,rise,700.000,05-11-1998,Alm. Salg,6.250,4,Villa,112,1790,,Aktuel værdi
+Brinken 14653 Karise,rise,621.650,01-11-1998,Alm. Salg,5.268,4,Villa,118,1852,,Aktuel værdi
+Drosselvej 184653 Karise,rise,680.000,30-10-1998,Fam. Salg,5.964,5,Villa,114,1978,,Aktuel værdi
+Smerupvej 174653 Karise,rise,706.000,29-10-1998,Alm. Salg,8.825,2,Villa,80,1797,,Aktuel værdi
+Liden Kirstens Vej 64653 Karise,rise,854.120,12-10-1998,Alm. Salg,6.326,4,Villa,135,1972,,Aktuel værdi
+Skolegade 134653 Karise,rise,262.066,18-09-1998,Alm. Salg,2.183,9,Villa,120,1915,,Aktuel værdi
+Bredgade 124653 Karise,rise,400.000,14-09-1998,Alm. Salg,2.030,6,Villa,197,2017,,Aktuel værdi
+Skolegade 44653 Karise,rise,1.500.000,25-08-1998,Alm. Salg,8.474,12,Engroshandel,177,1885,,Aktuel værdi
+Peder Olufsens Vej 194653 Karise,rise,958.000,21-08-1998,Andet,8.330,4,Villa,115,1986,,Aktuel værdi
+Køgevej 424653 Karise,rise,458.000,06-08-1998,Alm. Salg,4.361,4,Villa,105,1962,,Aktuel værdi
+Jørslev Skovvej 64653 Karise,rise,1.982.217,29-07-1998,Alm. Salg,7.773,6,Villa,255,1877,,Aktuel værdi
+Dalbyvej 284653 Karise,rise,935.000,27-07-1998,Fam. Salg,5.137,5,Villa,182,1994,,Aktuel værdi
+Tågerupvej 184653 Karise,rise,839.000,10-07-1998,Alm. Salg,3.796,8,Villa,221,1927,,Aktuel værdi
+Drosselvej 324653 Karise,rise,840.000,19-06-1998,Alm. Salg,6.774,3,Villa,124,1978,,Aktuel værdi
+Karisevej 1524653 Karise,rise,886.100,18-06-1998,Alm. Salg,6.374,4,Villa,139,1870,,Aktuel værdi
+Fasanvej 144653 Karise,rise,1.015.000,11-06-1998,Alm. Salg,6.265,5,Villa,162,1970,,Aktuel værdi
+Jagtvej 34653 Karise,rise,1.083.000,06-06-1998,Alm. Salg,8.330,4,Villa,130,1915,,Aktuel værdi
+Tågerupvej 134653 Karise,rise,730.000,29-05-1998,Alm. Salg,4.269,5,Villa,171,1907,,Aktuel værdi
+Dalbyvej 314653 Karise,rise,666.000,22-05-1998,Alm. Salg,-,4,Villa,118,1905,,Aktuel værdi
+Kløvervej 44653 Karise,rise,112.000,15-05-1998,Alm. Salg,783,5,Villa,143,1999,,Aktuel værdi
+Barupvejen 364653 Karise,rise,912.000,11-05-1998,Alm. Salg,5.664,5,Villa,161,1902,,Aktuel værdi
+Åvej 24653 Karise,rise,320.000,16-03-1998,Alm. Salg,3.047,3,Villa,105,1860,,Aktuel værdi
+Præstemarksvej 94653 Karise,rise,818.345,26-02-1998,Alm. Salg,3.467,8,Villa,236,1907,,Aktuel værdi
+Alslevvej 364653 Karise,rise,588.000,14-02-1998,Alm. Salg,4.558,3,Villa,129,1877,,Aktuel værdi
+Kulagervej 64653 Karise,rise,512.225,11-02-1998,Alm. Salg,-,4,Villa,119,1898,,Aktuel værdi
+Nørrebro 124653 Karise,rise,766.436,08-12-1997,Alm. Salg,6.386,4,Villa,120,1969,,Aktuel værdi
+Køgevej 604653 Karise,rise,781.881,30-11-1997,Alm. Salg,5.506,5,Villa,142,1890,,Aktuel værdi
+Rønne Alle 134653 Karise,rise,562.000,27-11-1997,Alm. Salg,6.108,3,Villa,92,1941,,Aktuel værdi
+Bredgade 64653 Karise,rise,375.000,26-11-1997,Alm. Salg,2.259,3,Villa,166,1928,,Aktuel værdi
+Skovvænget 14653 Karise,rise,977.726,24-11-1997,Alm. Salg,9.311,3,Villa,105,1985,,Aktuel værdi
+Vesterled 14653 Karise,rise,130.000,27-10-1997,Alm. Salg,992,6,Villa,131,1900,,Aktuel værdi
+Søndergade 344653 Karise,rise,1.500.000,27-10-1997,Alm. Salg,7.075,9,Villa,212,1922,,Aktuel værdi
+Jørslevvej 84653 Karise,rise,11.440.000,24-10-1997,Alm. Salg,44.862,7,Stuehus,255,1880,,
+Drosselvej 544653 Karise,rise,818.000,24-10-1997,Alm. Salg,7.051,4,Villa,116,1979,,Aktuel værdi
+Storkevænget 24653 Karise,rise,1.041.960,21-10-1997,Alm. Salg,7.718,6,Villa,135,1921,,Aktuel værdi
+Vesterled 34653 Karise,rise,628.000,11-10-1997,Alm. Salg,7.302,3,Villa,86,1980,,Aktuel værdi
+Rønne Alle 304653 Karise,rise,780.000,03-10-1997,Alm. Salg,7.722,3,Villa,101,1960,,Aktuel værdi
+Alslevvej 144653 Karise,rise,750.000,24-09-1997,Alm. Salg,2.757,7,Villa,272,1881,,Aktuel værdi
+Geddevænget 74653 Karise,rise,470.000,22-09-1997,Alm. Salg,5.222,3,Villa,90,1877,,Aktuel værdi
+Præstemarksvej 144653 Karise,rise,903.000,22-08-1997,Alm. Salg,4.085,6,Villa,221,1907,,Aktuel værdi
+Rønne Alle 324653 Karise,rise,377.000,30-07-1997,Alm. Salg,3.396,3,Villa,111,1960,,Aktuel værdi
+Skovvej 24653 Karise,rise,672.500,09-07-1997,Alm. Salg,-,10,Villa,331,1923,,Aktuel værdi
+Køgevej 374653 Karise,rise,1.150.000,04-07-1997,Alm. Salg,5.399,7,Villa,213,1902,,Aktuel værdi
+Køgevej 944653 Karise,rise,243.000,27-06-1997,Alm. Salg,2.271,3,Villa,107,1937,,Aktuel værdi
+Møllehusvej 2A4653 Karise,rise,462.500,02-06-1997,Andet,4.363,3,Stuehus,106,1923,,
+Drosselvej 254653 Karise,rise,630.700,26-05-1997,Alm. Salg,5.839,4,Villa,108,1985,,Aktuel værdi
+Bredgade 204653 Karise,rise,500.000,20-05-1997,Alm. Salg,3.472,4,Villa,144,1937,,Aktuel værdi
+Drosselvej 784653 Karise,rise,860.000,13-05-1997,Alm. Salg,8.269,4,Villa,104,1984,,Aktuel værdi
+Alslevvej 324653 Karise,rise,618.980,13-05-1997,Alm. Salg,6.252,3,Villa,99,1965,,Aktuel værdi
+Skolegade 48B4653 Karise,rise,839.920,28-04-1997,Alm. Salg,6.268,5,Villa,134,1967,,Aktuel værdi
+Nørrebro 144653 Karise,rise,450.000,17-04-1997,Alm. Salg,3.600,4,Villa,125,1968,,Aktuel værdi
+Jørslevvej 224653 Karise,rise,2.110.000,16-04-1997,Alm. Salg,12.411,5,Stuehus,170,1880,,
+Syrenvænget 84653 Karise,rise,607.000,16-04-1997,Fam. Salg,5.518,4,Villa,110,1962,,Aktuel værdi
+Tågerupvej 74653 Karise,rise,385.000,04-04-1997,Alm. Salg,3.208,4,Villa,120,1888,,Aktuel værdi
+Kløvervej 34653 Karise,rise,105.000,22-03-1997,Alm. Salg,-,6,Villa,140,1998,,Aktuel værdi
+Skovvænget 94653 Karise,rise,653.605,28-01-1997,Alm. Salg,5.733,4,Villa,114,1969,,Aktuel værdi
+Præstemarksvej 174653 Karise,rise,740.500,17-12-1996,Alm. Salg,8.610,2,Stuehus,86,1905,,
+Drosselvej 744653 Karise,rise,645.100,25-11-1996,Alm. Salg,-,6,Villa,142,1981,,Aktuel værdi
+Valbyvej 34653 Karise,rise,738.208,21-11-1996,Alm. Salg,4.368,4,Villa,169,1926,,Aktuel værdi
+Bakkeskovvej 74653 Karise,rise,999.863,03-11-1996,Alm. Salg,4.999,7,Stuehus,200,1820,,
+Kulagervej 134653 Karise,rise,734.505,09-10-1996,Alm. Salg,5.829,4,Villa,126,1906,,Aktuel værdi
+Ganneskovvej 14653 Karise,rise,1.952.440,30-09-1996,Alm. Salg,11.484,4,Stuehus,170,1900,,
+Tågerupvej 164653 Karise,rise,660.500,28-09-1996,Alm. Salg,6.412,4,Villa,103,1912,,Aktuel værdi
+Bredgade 444653 Karise,rise,666.000,11-08-1996,Alm. Salg,4.440,5,Villa,150,1928,,Aktuel værdi
+Hemmingsvej 204653 Karise,rise,603.500,08-08-1996,Fam. Salg,3.352,6,Villa,180,1973,,Aktuel værdi
+Ådalsvej 44653 Karise,rise,577.000,30-07-1996,Alm. Salg,7.212,4,Villa,80,1966,,Aktuel værdi
+Smerupvej 44653 Karise,rise,366.840,25-06-1996,Alm. Salg,4.031,5,Villa,91,1884,,Aktuel værdi
+Køgevej 53B4653 Karise,rise,1.283.000,08-06-1996,Alm. Salg,8.224,4,Stuehus,156,1927,,
+Lægårdsvej 54653 Karise,rise,731.900,31-05-1996,Alm. Salg,5.154,4,Villa,142,1877,,Aktuel værdi
+Drosselvej 904653 Karise,rise,708.000,29-04-1996,Alm. Salg,6.156,4,Villa,115,1980,,Aktuel værdi
+Gammelbyvej 44653 Karise,rise,860.000,10-04-1996,Alm. Salg,5.000,4,Villa,172,1888,,Aktuel værdi
+Spjellerupvej 264653 Karise,rise,385.025,01-04-1996,Alm. Salg,-,4,Villa,184,1886,,Aktuel værdi
+Højmøllevej 64653 Karise,rise,480.000,28-03-1996,Alm. Salg,4.324,3,Stuehus,111,1880,,
+Drosselvej 114653 Karise,rise,525.000,15-03-1996,Alm. Salg,5.706,4,Villa,92,1963,,Aktuel værdi
+Breddammen 64653 Karise,rise,475.000,11-03-1996,Alm. Salg,3.893,5,Villa,122,1864,,Aktuel værdi
+Jagtvej 74653 Karise,rise,380.000,08-03-1996,Alm. Salg,-,4,Villa,109,1967,,Aktuel værdi
+Gammelbyvej 24653 Karise,rise,1.442.000,19-02-1996,Alm. Salg,5.187,9,Villa,278,1857,,Aktuel værdi
+Køgevej 884653 Karise,rise,425.000,21-12-1995,Fam. Salg,4.722,4,Stuehus,90,1927,,
+Elverhøjvej 234653 Karise,rise,196.000,18-12-1995,Alm. Salg,4.000,2,Villa,49,1885,,Aktuel værdi
+Skolegade 214653 Karise,rise,261.000,20-11-1995,Alm. Salg,3.000,6,Villa,87,1907,,Aktuel værdi
+Peder Olufsens Vej 224653 Karise,rise,800.000,15-11-1995,Alm. Salg,6.722,4,Villa,119,1986,,Aktuel værdi
+Præstemarksvej 44653 Karise,rise,421.651,06-11-1995,Alm. Salg,2.540,5,Villa,166,1910,,Aktuel værdi
+Kildevej 214653 Karise,rise,583.772,01-11-1995,Fam. Salg,5.405,6,Stuehus,108,1903,,
+Kulagervej 174653 Karise,rise,1.500.000,19-10-1995,Fam. Salg,7.500,6,Stuehus,200,1844,,
+Tågerupvej 214653 Karise,rise,410.000,18-08-1995,Alm. Salg,-,5,Villa,141,1958,,Aktuel værdi
+Drosselvej 334653 Karise,rise,558.000,14-08-1995,Alm. Salg,5.812,4,Villa,96,1985,,Aktuel værdi
+Skolegade 204653 Karise,rise,509.000,29-07-1995,Alm. Salg,4.350,4,Villa,117,1939,,Aktuel værdi
+Nørrebro 194653 Karise,rise,550.000,16-07-1995,Alm. Salg,4.365,4,Villa,126,1968,,Aktuel værdi
+Skolegade 114653 Karise,rise,475.000,13-07-1995,Alm. Salg,2.638,6,Villa,180,1910,,Aktuel værdi
+Karl Af Rises Vej 34653 Karise,rise,434.760,30-06-1995,Alm. Salg,4.997,2,Villa,87,1961,,Aktuel værdi
+Dalbyvej 234653 Karise,rise,704.800,28-06-1995,Alm. Salg,4.606,5,Villa,153,1938,,Aktuel værdi
+Syrenvænget 44653 Karise,rise,374.000,13-06-1995,Alm. Salg,-,3,Villa,117,1963,,Aktuel værdi
+Bredgade 324653 Karise,rise,610.000,06-06-1995,Alm. Salg,4.357,7,Villa,140,1937,,Aktuel værdi
+Kulagervej 74653 Karise,rise,510.000,06-05-1995,Alm. Salg,3.805,5,Villa,134,1880,,Aktuel værdi
+Tågerupvej 254653 Karise,rise,486.000,01-05-1995,Alm. Salg,2.945,5,Villa,165,1900,,Aktuel værdi
+Drosselvej 964653 Karise,rise,306.175,10-04-1995,Alm. Salg,-,5,Villa,131,1980,,Aktuel værdi
+Buddesvej 44653 Karise,rise,400.000,29-03-1995,Alm. Salg,4.081,3,Villa,98,1918,,Aktuel værdi
+Breddammen 34653 Karise,rise,469.494,11-03-1995,Alm. Salg,3.215,4,Villa,146,1875,,Aktuel værdi
+Peder Olufsens Vej 204653 Karise,rise,222.314,01-03-1995,Fam. Salg,1.933,4,Villa,115,1986,,Aktuel værdi
+Karl Af Rises Vej 44653 Karise,rise,508.500,27-02-1995,Alm. Salg,3.911,6,Villa,130,1887,,Aktuel værdi
+Fællesvej 14653 Karise,rise,652.322,23-02-1995,Alm. Salg,4.077,5,Villa,160,1890,,Aktuel værdi
+Syrenvænget 114653 Karise,rise,672.600,13-02-1995,Alm. Salg,4.230,6,Villa,159,1965,,Aktuel værdi
+Fællesvej 54653 Karise,rise,250.000,09-02-1995,Fam. Salg,3.571,3,Stuehus,70,1902,,
+Elmevej 84653 Karise,rise,759.000,27-01-1995,Alm. Salg,3.314,6,Villa,229,1964,,Aktuel værdi
+Fasanvej 194653 Karise,rise,480.000,20-01-1995,Alm. Salg,5.161,4,Villa,93,1965,,Aktuel værdi
+Liden Kirstens Vej 34653 Karise,rise,481.000,15-11-1994,Alm. Salg,4.008,4,Villa,120,1973,,Aktuel værdi
+Gammelbyvej 14653 Karise,rise,345.000,14-10-1994,Alm. Salg,4.156,3,Villa,83,1855,,Aktuel værdi
+Spjellerupvej 27A4653 Karise,rise,830.000,08-09-1994,Alm. Salg,4.438,6,Villa,187,1914,,Aktuel værdi
+Solagervej 17A4653 Karise,rise,495.000,05-08-1994,Alm. Salg,4.304,4,Villa,115,1970,,Aktuel værdi
+Smerupvej 124653 Karise,rise,75.000,01-08-1994,Alm. Salg,852,3,Villa,88,1884,,Aktuel værdi
+Skolegade 124653 Karise,rise,525.000,22-07-1994,Alm. Salg,2.777,9,Villa,189,1881,,Aktuel værdi
+Valbyvej 44653 Karise,rise,625.000,30-06-1994,Alm. Salg,-,7,Stuehus,156,1923,,
+Skolegade 334653 Karise,rise,221.953,24-05-1994,Alm. Salg,2.113,6,Villa,105,1905,,Aktuel værdi
+Skovvænget 154653 Karise,rise,660.000,29-03-1994,Alm. Salg,3.367,6,Villa,196,1975,,Aktuel værdi
+Møllevej 84653 Karise,rise,575.000,17-01-1994,Alm. Salg,-,6,Villa,253,1910,,Aktuel værdi
+Lægårdsvej 134653 Karise,rise,360.000,17-01-1994,Alm. Salg,-,5,Villa,140,1877,,Aktuel værdi
+Jagtvej 14653 Karise,rise,220.000,10-12-1993,Alm. Salg,1.848,4,Villa,119,1900,,Aktuel værdi
+Tuehuse 164653 Karise,rise,175.000,14-11-1993,Fam. Salg,2.822,2,Sommerhus,62,1867,,Aktuel værdi
+Syrenvænget 174653 Karise,rise,443.000,31-10-1993,Alm. Salg,4.614,3,Villa,96,1964,,Aktuel værdi
+Rønne Alle 144653 Karise,rise,569.000,27-10-1993,Alm. Salg,5.268,4,Villa,108,1938,,Aktuel værdi
+Tågerupvej 144653 Karise,rise,875.000,14-10-1993,Alm. Salg,5.000,4,Villa,175,1777,,Aktuel værdi
+Elmevej 5A4653 Karise,rise,768.820,12-10-1993,Alm. Salg,3.844,6,Villa,200,1980,,Aktuel værdi
+Alslevvej 8A4653 Karise,rise,543.000,07-10-1993,Fam. Salg,2.635,7,Villa,206,1891,,Aktuel værdi
+Dalbyvej 94653 Karise,rise,806.500,04-10-1993,Alm. Salg,-,7,Stuehus,178,1910,,
+Totterupvej 84653 Karise,rise,466.233,13-09-1993,Alm. Salg,3.108,5,Villa,150,1850,,Aktuel værdi
+Køgevej 274653 Karise,rise,400.000,31-08-1993,Alm. Salg,3.305,4,Villa,121,1956,,Aktuel værdi
+Bredgade 464653 Karise,rise,540.000,12-08-1993,Alm. Salg,4.122,5,Villa,131,1938,,Aktuel værdi
+Toftagervej 1A4653 Karise,rise,500.000,29-06-1993,Alm. Salg,4.807,4,Villa,104,1983,,Aktuel værdi
+Junker Stranges Alle 14653 Karise,rise,795.000,15-06-1993,Alm. Salg,-,8,Villa,342,1956,,Aktuel værdi
+Elmevej 74653 Karise,rise,510.000,24-05-1993,Alm. Salg,4.594,4,Villa,111,1963,,Aktuel værdi
+Kulagervej 124653 Karise,rise,580.000,14-05-1993,Alm. Salg,-,3,Stuehus,260,1900,,
+Kærvej 14653 Karise,rise,555.000,02-05-1993,Alm. Salg,3.964,5,Villa,140,1904,,Aktuel værdi
+Smerupvej 184653 Karise,rise,700.000,14-04-1993,Alm. Salg,3.846,5,Villa,182,1890,,Aktuel værdi
+Skovvænget 194653 Karise,rise,547.500,06-04-1993,Alm. Salg,5.420,3,Villa,101,1974,,Aktuel værdi
+Kulagervej 374653 Karise,rise,810.400,18-03-1993,Fam. Salg,3.128,6,Villa,259,1882,,Aktuel værdi
+Skolegade 454653 Karise,rise,350.000,11-03-1993,Alm. Salg,2.536,4,Villa,138,1961,,Aktuel værdi
+Alslevvej 204653 Karise,rise,1.795.000,15-02-1993,Alm. Salg,5.439,9,Stuehus,330,1920,,
+Kirkestien 14653 Karise,rise,720.000,27-01-1993,Alm. Salg,3.272,5,Sommerhus,220,1802,,Aktuel værdi
+Bredgade 384653 Karise,rise,400.000,10-12-1992,Alm. Salg,2.500,5,Villa,160,1927,,Aktuel værdi
+Køgevej 864653 Karise,rise,725.000,01-12-1992,Alm. Salg,5.069,4,Stuehus,143,1927,,
+Møllehusvej 264653 Karise,rise,450.700,06-09-1992,Alm. Salg,-,6,Villa,196,1967,,Aktuel værdi
+Overdrevsvej 224653 Karise,rise,2.900.000,06-07-1992,Fam. Salg,16.477,6,Stuehus,176,1830,,
+Køgevej 344653 Karise,rise,725.400,25-06-1992,Alm. Salg,-,5,Villa,199,1925,,Aktuel værdi
+Fasanvej 64653 Karise,rise,557.620,22-06-1992,Alm. Salg,3.692,5,Villa,151,1973,,Aktuel værdi
+Nordhøjvej 484653 Karise,rise,585.000,13-05-1992,Alm. Salg,3.900,4,Villa,150,1860,,Aktuel værdi
+Fasanvej 114653 Karise,rise,675.000,15-04-1992,Alm. Salg,3.970,6,Villa,170,1972,,Aktuel værdi
+Nordhøjvej 314653 Karise,rise,300.000,06-04-1992,Alm. Salg,-,5,Villa,202,1897,,Aktuel værdi
+Spjellerupvej 94653 Karise,rise,450.000,16-03-1992,Alm. Salg,-,4,Villa,160,1960,,Aktuel værdi
+Møllehusvej 104653 Karise,rise,285.000,15-03-1992,Fam. Salg,2.714,4,Sommerhus,105,1887,,Aktuel værdi

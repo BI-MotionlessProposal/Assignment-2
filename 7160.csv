@@ -1,0 +1,1341 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Vibevej 137160 Tørring,ring,800.000,28-04-2017,Alm. Salg,6.666,5,Villa,120,1971,,Aktuel værdi
+Skolevej 337160 Tørring,ring,3.275.000,12-04-2017,Alm. Salg,12.312,7,Villa,266,1969,-6 %,Aktuel værdi
+Brædstrupvej 587160 Tørring,ring,2.227.000,03-04-2017,Fam. Salg,11.362,8,Stuehus,196,1930,,
+Ege Alle 57160 Tørring,ring,1.387.500,31-03-2017,Alm. Salg,9.910,6,Villa,140,1995,-7 %,Aktuel værdi
+Vestervang 37160 Tørring,ring,1.495.000,28-03-2017,Alm. Salg,10.310,4,Villa,145,1964,7 %,Aktuel værdi
+Aagade 167160 Tørring,ring,950.000,27-03-2017,Alm. Salg,8.407,5,Villa,113,1923,-3 %,Aktuel værdi
+"Bredgade 21, 17160 Tørring",ring,1.900.000,21-03-2017,Alm. Salg,10.982,6,Lejlighed,173,1900,,Aktuel værdi
+Solfang 347160 Tørring,ring,516.000,21-03-2017,Fam. Salg,3.938,6,Villa,131,1965,,Aktuel værdi
+Rosavej 1B7160 Tørring,ring,850.000,07-03-2017,Alm. Salg,9.340,4,Rækkehus,91,1984,-5 %,Aktuel værdi
+Vestergårdsvej 27160 Tørring,ring,689.000,03-03-2017,Alm. Salg,10.765,3,Villa,64,1959,0 %,Aktuel værdi
+Nyvej 197160 Tørring,ring,580.000,20-02-2017,Alm. Salg,4.531,4,Villa,128,1966,-10 %,Aktuel værdi
+Bredgade 637160 Tørring,ring,910.000,13-02-2017,Alm. Salg,10.111,3,Villa,90,1964,,Aktuel værdi
+Stougårds Alle 17160 Tørring,ring,694.752,07-02-2017,Andet,4.210,4,Villa,165,1970,,Aktuel værdi
+Torvegade 637160 Tørring,ring,600.000,02-02-2017,Alm. Salg,6.451,5,Industri o.l.,93,1984,,Aktuel værdi
+Postvej 17160 Tørring,ring,2.300.000,31-01-2017,Alm. Salg,14.556,6,Villa,158,2014,,Aktuel værdi
+Østervang 167160 Tørring,ring,1.130.000,30-01-2017,Fam. Salg,4.593,9,Villa,246,1978,,Aktuel værdi
+Viggo Pejsens Vej 87160 Tørring,ring,1.000.000,26-01-2017,Fam. Salg,7.936,5,Villa,126,1980,,Aktuel værdi
+Aale Bygade 117160 Tørring,ring,275.000,25-01-2017,Alm. Salg,3.437,4,Villa,80,1956,-7 %,Aktuel værdi
+J P Nielsens Vej 187160 Tørring,ring,580.000,21-01-2017,Alm. Salg,7.160,3,Villa,81,1964,,Aktuel værdi
+Østervang 97160 Tørring,ring,1.045.000,06-01-2017,Alm. Salg,9.500,4,Villa,110,1977,-5 %,Aktuel værdi
+Ølholm Bygade 49A7160 Tørring,ring,1.950.000,03-01-2017,Andet,6.331,7,Villa,308,1934,,Aktuel værdi
+Rosavej 397160 Tørring,ring,6.630.000,30-12-2016,Andet,42.500,5,Villa,156,1985,,Aktuel værdi
+Skolevej 647160 Tørring,ring,1.400.000,29-12-2016,Alm. Salg,11.111,4,Villa,126,1973,-3 %,Aktuel værdi
+Grønlund 427160 Tørring,ring,647.518,21-12-2016,Andet,4.316,5,Villa,150,2007,,Aktuel værdi
+Sønderbrogade 987160 Tørring,ring,350.000,16-12-2016,Alm. Salg,3.431,4,Villa,102,1900,,Aktuel værdi
+Skolevej 207160 Tørring,ring,1.775.000,14-12-2016,Andet,9.149,7,Villa,194,1965,,Aktuel værdi
+Ølholm Bygade 757160 Tørring,ring,875.000,09-12-2016,Alm. Salg,4.510,6,Villa,194,1930,-27 %,Aktuel værdi
+Birke Alle 17160 Tørring,ring,283.202,05-12-2016,Alm. Salg,1.665,5,Villa,170,1934,,Aktuel værdi
+Borgergade 427160 Tørring,ring,1.582.345,02-12-2016,Alm. Salg,10.342,6,Villa,153,1931,6 %,Aktuel værdi
+Bøgevej 47160 Tørring,ring,1.230.000,24-11-2016,Alm. Salg,6.795,7,Villa,181,1979,-9 %,Aktuel værdi
+Viborgvej 167160 Tørring,ring,1.305.000,21-11-2016,Fam. Salg,6.941,7,Villa,188,1924,,Aktuel værdi
+Købmagergade 27160 Tørring,ring,608.500,21-11-2016,Fam. Salg,8.451,3,Villa,72,1958,,Aktuel værdi
+Søndre Fælledvej 197160 Tørring,ring,7.450.000,16-11-2016,Alm. Salg,21.911,8,Stuehus,340,1930,,
+Viborg Hovedvej 677160 Tørring,ring,5.075.000,10-11-2016,Alm. Salg,29.166,5,Stuehus,174,1990,-12 %,
+Askevej 17160 Tørring,ring,925.000,07-11-2016,Fam. Salg,8.333,4,Villa,111,1983,,Aktuel værdi
+Torvegade 1397160 Tørring,ring,2.000.000,04-11-2016,Fam. Salg,10.526,5,Villa,190,2011,-13 %,Aktuel værdi
+Skolevej 417160 Tørring,ring,1.375.000,03-11-2016,Alm. Salg,8.986,5,Villa,153,1973,,Aktuel værdi
+Søndre Fælledvej 297160 Tørring,ring,1.950.000,27-10-2016,Alm. Salg,11.337,5,Villa,172,1915,-1 %,Aktuel værdi
+Vejlevej 67160 Tørring,ring,610.000,26-10-2016,Alm. Salg,5.700,4,Villa,107,1963,-5 %,Aktuel værdi
+Østergårdsvej 87160 Tørring,ring,16.000.000,26-10-2016,Andet,61.776,10,Stuehus,259,1921,,
+Alsted Skovvej 67160 Tørring,ring,540.000,19-10-2016,Alm. Salg,4.285,6,Villa,126,1934,-4 %,Aktuel værdi
+Rosavej 47160 Tørring,ring,1.600.000,14-10-2016,Alm. Salg,10.666,5,Villa,150,1979,,Aktuel værdi
+Bredgade 597160 Tørring,ring,562.500,03-10-2016,Alm. Salg,4.610,5,Villa,122,1959,,Aktuel værdi
+Sikavej 197160 Tørring,ring,2.100.000,26-09-2016,Alm. Salg,12.883,6,Villa,163,2008,-7 %,Aktuel værdi
+Viborg Hovedvej 1067160 Tørring,ring,2.100.000,23-09-2016,Alm. Salg,17.500,4,Stuehus,120,1994,-4 %,
+Rosavej 317160 Tørring,ring,930.000,15-09-2016,Alm. Salg,8.303,4,Villa,112,1980,-15 %,Aktuel værdi
+Krondyrvej 37160 Tørring,ring,445.000,15-09-2016,Alm. Salg,2.648,4,Villa,168,2017,,Aktuel værdi
+Vongevej 97160 Tørring,ring,970.000,13-09-2016,Alm. Salg,11.547,3,Villa,84,1960,-3 %,Aktuel værdi
+Viborg Hovedvej 897160 Tørring,ring,1.800.000,12-09-2016,Alm. Salg,8.737,6,Villa,206,1880,-5 %,Aktuel værdi
+Viborg Hovedvej 917160 Tørring,ring,25.000,11-09-2016,Alm. Salg,170,2,Villa,147,1764,,Aktuel værdi
+Hjortsvangvej 17160 Tørring,ring,875.000,05-09-2016,Alm. Salg,7.543,3,Villa,116,1900,-2 %,Aktuel værdi
+"Bredgade 48F, 1. TV7160 Tørring",ring,850.000,05-09-2016,Alm. Salg,9.139,2,Lejlighed,93,2016,,Aktuel værdi
+Vongevej 317160 Tørring,ring,1.500.000,29-08-2016,Alm. Salg,5.769,8,Villa,260,1973,,Aktuel værdi
+Brædstrupvej 207160 Tørring,ring,4.300.000,15-08-2016,Alm. Salg,32.575,5,Stuehus,132,1900,,
+Rosavej 67160 Tørring,ring,1.600.000,12-08-2016,Alm. Salg,8.465,4,Villa,189,1976,-3 %,Aktuel værdi
+Brædstrupvej 177160 Tørring,ring,2.210.000,05-08-2016,Alm. Salg,13.393,7,Villa,165,1937,,Aktuel værdi
+Vibevej 177160 Tørring,ring,880.000,02-08-2016,Alm. Salg,6.567,5,Villa,134,1970,-12 %,Aktuel værdi
+Holmdalsvej 17160 Tørring,ring,1.330.000,21-07-2016,Alm. Salg,6.683,4,Villa,199,1919,-3 %,Aktuel værdi
+Spurvevej 147160 Tørring,ring,1.875.000,21-07-2016,Alm. Salg,11.792,5,Villa,159,1996,-6 %,Aktuel værdi
+Liselundvej 97160 Tørring,ring,550.000,14-07-2016,Alm. Salg,5.913,2,Villa,93,1880,-21 %,Aktuel værdi
+Lindbjergvej 47160 Tørring,ring,322.500,11-07-2016,Alm. Salg,2.271,5,Villa,142,1900,,Aktuel værdi
+Sønderbrogade 177160 Tørring,ring,925.000,08-07-2016,Alm. Salg,6.423,5,Villa,144,1951,-7 %,Aktuel værdi
+Viborg Hovedvej 957160 Tørring,ring,725.000,04-07-2016,Alm. Salg,5.069,4,Villa,143,1900,-27 %,Aktuel værdi
+Viborgvej 24B7160 Tørring,ring,2.375.000,28-06-2016,Alm. Salg,15.322,5,Villa,155,2016,,Aktuel værdi
+Alsted Møllevej 47160 Tørring,ring,2.225.000,27-06-2016,Alm. Salg,11.835,5,Villa,188,2005,0 %,Aktuel værdi
+Skovvej 47160 Tørring,ring,1.800.000,27-06-2016,Alm. Salg,10.000,6,Rækkehus,180,1918,-5 %,Aktuel værdi
+J P Nielsens Vej 17160 Tørring,ring,300.000,22-06-2016,Alm. Salg,4.166,3,Villa,72,1950,,Aktuel værdi
+Bredgade 407160 Tørring,ring,731.750,13-06-2016,Fam. Salg,3.811,6,Villa,192,1900,,Aktuel værdi
+"Bredgade 13, 17160 Tørring",ring,2.297.589,06-06-2016,Alm. Salg,9.227,4,Rækkehus,249,1900,,Aktuel værdi
+Fælledvej 47160 Tørring,ring,639.000,03-06-2016,Alm. Salg,5.112,3,Villa,125,1960,-9 %,Aktuel værdi
+Holmdalsvej 227160 Tørring,ring,2.850.000,26-05-2016,Alm. Salg,22.265,5,Villa,128,1924,-10 %,Aktuel værdi
+Olgavej 37160 Tørring,ring,1.075.000,19-05-2016,Alm. Salg,7.026,5,Villa,153,1978,-17 %,Aktuel værdi
+Nyvej 97160 Tørring,ring,1.175.000,13-05-2016,Alm. Salg,9.475,4,Villa,124,1932,-2 %,Aktuel værdi
+Viborg Hovedvej 717160 Tørring,ring,852.500,13-05-2016,Alm. Salg,6.268,5,Villa,136,1900,-8 %,Aktuel værdi
+Krondyrvej 57160 Tørring,ring,470.000,12-05-2016,Alm. Salg,2.596,6,Villa,181,2016,,Aktuel værdi
+Sønderbrogade 1017160 Tørring,ring,2.100.000,03-05-2016,Alm. Salg,8.750,6,Villa,240,1880,-12 %,Aktuel værdi
+Guldagervænget 307160 Tørring,ring,2.280.000,21-04-2016,Alm. Salg,11.457,7,Villa,199,2006,-4 %,Aktuel værdi
+Aalevej 537160 Tørring,ring,2.650.000,07-04-2016,Alm. Salg,12.926,6,Stuehus,205,1973,-11 %,
+Kirkevej 227160 Tørring,ring,821.626,01-04-2016,Andet,3.950,7,Villa,208,1934,,Aktuel værdi
+Ølholm Bygade 167160 Tørring,ring,485.000,31-03-2016,Alm. Salg,4.850,4,Villa,100,1878,-2 %,Aktuel værdi
+Skolehaven 27160 Tørring,ring,695.000,14-03-2016,Alm. Salg,7.554,3,Villa,92,1985,,Aktuel værdi
+Grønlund 647160 Tørring,ring,430.000,10-03-2016,Alm. Salg,2.443,6,Villa,176,2016,,Aktuel værdi
+Skolevej 177160 Tørring,ring,300.000,07-03-2016,Alm. Salg,3.157,3,Villa,95,1957,,Aktuel værdi
+Skolevej 567160 Tørring,ring,795.000,01-03-2016,Alm. Salg,3.533,7,Villa,225,1973,-11 %,Aktuel værdi
+Bjerggårdsvej 137160 Tørring,ring,532.000,26-02-2016,Alm. Salg,2.742,7,Villa,194,1892,,Aktuel værdi
+Aalevej 337160 Tørring,ring,1.010.000,26-02-2016,Alm. Salg,6.965,5,Villa,145,1975,-8 %,Aktuel værdi
+Postvej 137160 Tørring,ring,1.070.000,23-02-2016,Alm. Salg,3.992,8,Villa,268,1968,,Aktuel værdi
+Dådyrvej 97160 Tørring,ring,1.750.000,16-02-2016,Alm. Salg,9.162,5,Villa,191,1979,-3 %,Aktuel værdi
+Østervang 37160 Tørring,ring,715.000,01-02-2016,Fam. Salg,6.809,4,Villa,105,1977,,Aktuel værdi
+Smalålevej 27160 Tørring,ring,1.500.000,01-02-2016,Alm. Salg,6.944,6,Villa,216,1900,-12 %,Aktuel værdi
+Grønnevej 17A7160 Tørring,ring,375.000,01-02-2016,Alm. Salg,2.259,3,Villa,166,2016,,Aktuel værdi
+Rosavej 247160 Tørring,ring,810.000,28-01-2016,Alm. Salg,8.617,4,Villa,94,1977,-9 %,Aktuel værdi
+Borgergade 577160 Tørring,ring,685.000,27-01-2016,Alm. Salg,7.784,3,Villa,88,1965,-6 %,Aktuel værdi
+Krondyrvej 27160 Tørring,ring,395.000,25-01-2016,Alm. Salg,2.925,5,Villa,135,2017,,Aktuel værdi
+Marievej 27160 Tørring,ring,1.450.000,21-01-2016,Alm. Salg,6.473,8,Villa,224,1900,,Aktuel værdi
+Viborgvej 197160 Tørring,ring,1.490.000,19-01-2016,Alm. Salg,8.142,8,Villa,183,1835,-7 %,Aktuel værdi
+Ølholm Bygade 237160 Tørring,ring,900.000,19-01-2016,Alm. Salg,3.829,6,Villa,235,1949,-10 %,Aktuel værdi
+Rosavej 187160 Tørring,ring,1.300.000,14-01-2016,Alm. Salg,10.000,6,Villa,130,1977,,Aktuel værdi
+Nyvej 137160 Tørring,ring,405.000,14-01-2016,Alm. Salg,2.718,5,Villa,149,1928,-32 %,Aktuel værdi
+Jordemodervej 47160 Tørring,ring,4.485.000,06-01-2016,Alm. Salg,27.857,4,Stuehus,161,1823,,
+Elmevej 67160 Tørring,ring,655.000,06-01-2016,Alm. Salg,6.064,4,Villa,108,1970,-6 %,Aktuel værdi
+Viborgvej 137160 Tørring,ring,1.535.000,28-12-2015,Alm. Salg,7.415,6,Villa,207,1900,,Aktuel værdi
+Viborgvej 47160 Tørring,ring,1.122.500,28-12-2015,Alm. Salg,6.681,6,Villa,168,1906,-6 %,Aktuel værdi
+Mosevej 37160 Tørring,ring,400.000,21-12-2015,Fam. Salg,2.797,6,Villa,143,1845,,Aktuel værdi
+Spurvevej 237160 Tørring,ring,501.000,14-12-2015,Fam. Salg,3.976,6,Villa,126,1989,-63 %,Aktuel værdi
+Overbygård 127160 Tørring,ring,1.775.000,08-12-2015,Alm. Salg,11.912,5,Villa,149,1986,0 %,Aktuel værdi
+Bjerggårdsvej 157160 Tørring,ring,260.000,30-11-2015,Alm. Salg,945,8,Stuehus,275,1889,,
+Korshøj 37160 Tørring,ring,417.147,20-11-2015,Auktion,2.656,5,Villa,157,1936,-40 %,Aktuel værdi
+Engvej 37160 Tørring,ring,617.000,18-11-2015,Andet,3.371,5,Villa,183,1914,,Aktuel værdi
+Sønderbrogade 287160 Tørring,ring,760.000,17-11-2015,Alm. Salg,6.495,5,Rækkehus,117,1910,-4 %,Aktuel værdi
+Krondyrvej 67160 Tørring,ring,395.000,16-11-2015,Alm. Salg,1.945,5,Villa,203,2016,,Aktuel værdi
+Bøgevej 107160 Tørring,ring,800.000,13-11-2015,Alm. Salg,5.714,4,Villa,140,1977,-10 %,Aktuel værdi
+Rosavej 487160 Tørring,ring,1.050.000,02-11-2015,Alm. Salg,8.750,4,Villa,120,1978,,Aktuel værdi
+Alsted Møllevej 27160 Tørring,ring,535.984,30-10-2015,Fam. Salg,3.573,6,Villa,150,1890,,Aktuel værdi
+Søndervang 157160 Tørring,ring,1.360.000,26-10-2015,Alm. Salg,11.826,4,Villa,115,2009,-3 %,Aktuel værdi
+Egholmvej 67160 Tørring,ring,1.000.000,20-10-2015,Alm. Salg,5.952,4,Villa,168,1947,,Aktuel værdi
+Skovhussvinget 87160 Tørring,ring,2.400.000,12-10-2015,Alm. Salg,13.636,7,Villa,176,1918,-4 %,Aktuel værdi
+Vejlevej 247160 Tørring,ring,1.750.000,08-10-2015,Alm. Salg,6.055,7,Villa,289,1996,-8 %,Aktuel værdi
+Elsdyrvej 97160 Tørring,ring,835.000,29-09-2015,Alm. Salg,6.626,4,Villa,126,1977,-12 %,Aktuel værdi
+J P Nielsens Vej 157160 Tørring,ring,740.000,22-09-2015,Fam. Salg,8.409,3,Villa,88,1953,,Aktuel værdi
+Skolevej 447160 Tørring,ring,960.000,21-09-2015,Alm. Salg,7.500,4,Villa,128,1968,,Aktuel værdi
+Linnerupvej 117160 Tørring,ring,406.500,03-09-2015,Andet,3.359,4,Villa,121,1912,,Aktuel værdi
+Østervang 117160 Tørring,ring,775.000,31-08-2015,Alm. Salg,4.329,4,Villa,179,1984,-13 %,Aktuel værdi
+Vejlevej 277160 Tørring,ring,895.000,24-08-2015,Alm. Salg,9.132,4,Villa,98,1970,-5 %,Aktuel værdi
+Borgergade 247160 Tørring,ring,425.000,19-08-2015,Alm. Salg,3.269,6,Villa,130,1914,-14 %,Aktuel værdi
+Sønderbrogade 237160 Tørring,ring,650.000,18-08-2015,Alm. Salg,5.508,4,Rækkehus,118,1927,-6 %,Aktuel værdi
+Askevej 137160 Tørring,ring,1.575.000,18-08-2015,Alm. Salg,9.905,5,Villa,159,2006,,Aktuel værdi
+Svalevej 107160 Tørring,ring,750.000,16-08-2015,Fam. Salg,4.838,6,Villa,155,1970,-53 %,Aktuel værdi
+Ege Alle 227160 Tørring,ring,1.825.000,15-08-2015,Alm. Salg,9.554,5,Villa,191,1994,-9 %,Aktuel værdi
+Skolevej 147160 Tørring,ring,400.000,14-08-2015,Auktion,4.000,3,Villa,100,1952,,Aktuel værdi
+Mattrupvej 177160 Tørring,ring,860.000,12-08-2015,Andet,4.095,8,Stuehus,210,1916,,
+Sønderbrogade 627160 Tørring,ring,418.500,11-08-2015,Auktion,4.270,4,Villa,98,1935,,Aktuel værdi
+Postvej 107160 Tørring,ring,750.000,11-08-2015,Alm. Salg,5.681,5,Villa,132,1902,-16 %,Aktuel værdi
+Skolevej 747160 Tørring,ring,1.329.000,07-08-2015,Alm. Salg,7.726,6,Villa,172,1974,0 %,Aktuel værdi
+Gudenåvej 207160 Tørring,ring,3.400.000,06-08-2015,Alm. Salg,9.577,9,Villa,355,1998,-5 %,Aktuel værdi
+Viborg Hovedvej 817160 Tørring,ring,1.220.000,03-08-2015,Alm. Salg,6.594,6,Villa,185,1920,-6 %,Aktuel værdi
+Svalevej 87160 Tørring,ring,1.700.000,31-07-2015,Alm. Salg,10.559,6,Villa,161,1969,,Aktuel værdi
+Ølholm Bygade 647160 Tørring,ring,1.150.000,29-07-2015,Alm. Salg,7.718,4,Villa,149,1949,-11 %,Aktuel værdi
+Birke Alle 47160 Tørring,ring,1.455.000,19-06-2015,Alm. Salg,10.543,6,Villa,138,2005,-3 %,Aktuel værdi
+Solfang 87160 Tørring,ring,1.450.000,29-05-2015,Auktion,7.754,6,Villa,187,1938,,Aktuel værdi
+Pile Alle 47160 Tørring,ring,1.775.000,27-05-2015,Alm. Salg,10.757,5,Villa,165,1998,-4 %,Aktuel værdi
+Hagevej 27160 Tørring,ring,1.235.000,21-05-2015,Alm. Salg,3.087,6,Villa,400,2017,3 %,Aktuel værdi
+Lydiavej 27160 Tørring,ring,950.000,15-05-2015,Alm. Salg,7.196,4,Villa,132,1976,-5 %,Aktuel værdi
+Vesterbyvej 107160 Tørring,ring,2.600.000,15-05-2015,Alm. Salg,9.122,7,Stuehus,285,1890,-13 %,
+Borgergade 157160 Tørring,ring,800.000,15-05-2015,Alm. Salg,10.256,3,Villa,78,1955,,Aktuel værdi
+Tværvejen 67160 Tørring,ring,1.695.000,15-05-2015,Alm. Salg,7.306,5,Villa,232,1930,0 %,Aktuel værdi
+Uldumvej 57160 Tørring,ring,425.000,13-05-2015,Alm. Salg,4.381,4,Villa,97,1962,,Aktuel værdi
+"Torvegade 1A, 17160 Tørring",ring,1.950.000,13-05-2015,Alm. Salg,43.333,2,Lejlighed,45,1892,,Aktuel værdi
+Ølholm Bygade 337160 Tørring,ring,705.000,08-05-2015,Alm. Salg,7.343,3,Villa,96,1877,1 %,Aktuel værdi
+Bygade 3A7160 Tørring,ring,1.550.000,04-05-2015,Alm. Salg,7.560,6,Villa,205,1909,-7 %,Aktuel værdi
+Liselundvej 47160 Tørring,ring,2.100.000,27-04-2015,Fam. Salg,29.577,2,Villa,71,1941,,Aktuel værdi
+Vidtskuevej 87160 Tørring,ring,167.492,19-04-2015,Alm. Salg,547,10,Stuehus,306,1967,,
+Sønderkærvej 87160 Tørring,ring,255.573,17-04-2015,Auktion,2.344,3,Villa,109,1895,,Aktuel værdi
+Hvolgårdsvej 307160 Tørring,ring,160.000,16-04-2015,Alm. Salg,1.702,2,Villa,94,1927,,Aktuel værdi
+Aagade 257160 Tørring,ring,855.000,15-04-2015,Alm. Salg,6.951,5,Villa,123,1954,-4 %,Aktuel værdi
+Sikavej 287160 Tørring,ring,360.000,13-04-2015,Alm. Salg,2.727,4,Villa,132,2015,,Aktuel værdi
+Rosavej 517160 Tørring,ring,1.030.000,10-04-2015,Alm. Salg,8.174,5,Villa,126,1999,-31 %,Aktuel værdi
+Viborgvej 447160 Tørring,ring,40.000,07-04-2015,Fam. Salg,176,8,Stuehus,226,1890,,
+Ølholm Bygade 377160 Tørring,ring,550.000,01-04-2015,Alm. Salg,2.059,6,Villa,267,1967,0 %,Aktuel værdi
+Bygade 187160 Tørring,ring,800.000,31-03-2015,Alm. Salg,6.400,4,Villa,125,1920,-9 %,Aktuel værdi
+Viborg Hovedvej 887160 Tørring,ring,578.000,27-03-2015,Alm. Salg,4.013,4,Villa,144,1939,,Aktuel værdi
+Melhedevej 27160 Tørring,ring,400.000,24-03-2015,Alm. Salg,-,4,Villa,107,1961,-20 %,Aktuel værdi
+Melhedevej 47160 Tørring,ring,1.000.000,24-03-2015,Alm. Salg,7.575,5,Villa,132,1953,-9 %,Aktuel værdi
+Skolevej 237160 Tørring,ring,1.000.000,23-03-2015,Fam. Salg,6.622,5,Villa,151,1967,,Aktuel værdi
+Smedetoften 47160 Tørring,ring,820.000,20-03-2015,Alm. Salg,6.721,4,Villa,122,1972,-7 %,Aktuel værdi
+Sønderbrogade 787160 Tørring,ring,1.045.000,19-03-2015,Alm. Salg,9.675,4,Villa,108,1968,-8 %,Aktuel værdi
+Vongevej 8B7160 Tørring,ring,1.245.000,19-03-2015,Andet,7.280,5,Villa,171,2011,,Aktuel værdi
+J P Nielsens Vej 1A7160 Tørring,ring,1.425.000,10-03-2015,Alm. Salg,12.076,3,Villa,118,2005,,Aktuel værdi
+Overbygård 437160 Tørring,ring,1.565.000,09-03-2015,Alm. Salg,11.099,6,Villa,141,1986,-5 %,Aktuel værdi
+Sikavej 17160 Tørring,ring,3.100.000,27-02-2015,Alm. Salg,16.315,7,Villa,190,2008,,Aktuel værdi
+Kirkebakken 27160 Tørring,ring,1.073.000,26-02-2015,Alm. Salg,8.867,3,Villa,121,1968,-10 %,Aktuel værdi
+Rosavej 477160 Tørring,ring,675.000,17-02-2015,Alm. Salg,9.121,3,Rækkehus,74,1983,-15 %,Aktuel værdi
+Byvang 27160 Tørring,ring,1.045.000,12-02-2015,Alm. Salg,7.683,5,Villa,136,1973,-9 %,Aktuel værdi
+Torvegade 867160 Tørring,ring,2.995.000,30-01-2015,Alm. Salg,12.531,8,Villa,239,2006,,Aktuel værdi
+Rosavej 367160 Tørring,ring,750.000,29-01-2015,Fam. Salg,5.639,5,Villa,133,1979,,Aktuel værdi
+J P Nielsens Vej 67160 Tørring,ring,513.500,21-01-2015,Andet,3.590,4,Villa,143,1973,,Aktuel værdi
+Fruehøjvej 27160 Tørring,ring,1.500.000,05-01-2015,Alm. Salg,7.772,5,Villa,193,1969,-10 %,Aktuel værdi
+Guldagervænget 127160 Tørring,ring,400.000,31-12-2014,Alm. Salg,2.666,5,Villa,150,2015,,Aktuel værdi
+Smedetoften 67160 Tørring,ring,1.175.000,23-12-2014,Alm. Salg,9.710,5,Villa,121,1972,-13 %,Aktuel værdi
+Bredgade 417160 Tørring,ring,375.000,19-12-2014,Alm. Salg,3.440,4,Rækkehus,109,1903,-32 %,Aktuel værdi
+Guldager 47160 Tørring,ring,1.000.000,17-12-2014,Fam. Salg,5.464,6,Villa,183,2007,,Aktuel værdi
+Sønderbrogade 337160 Tørring,ring,600.000,15-12-2014,Fam. Salg,4.347,5,Villa,138,1965,,Aktuel værdi
+Østerkærvej 67160 Tørring,ring,875.000,11-12-2014,Alm. Salg,-,3,Villa,117,1947,-2 %,Aktuel værdi
+Bygade 227160 Tørring,ring,840.485,08-12-2014,Alm. Salg,8.941,4,Villa,94,1940,,Aktuel værdi
+"Bredgade 10, 17160 Tørring",ring,1.436.500,04-12-2014,Fam. Salg,20.521,3,Lejlighed,70,1894,,Aktuel værdi
+Solfang 137160 Tørring,ring,1.300.000,04-12-2014,Alm. Salg,7.926,5,Villa,164,1975,-3 %,Aktuel værdi
+Krondyrvej 87160 Tørring,ring,450.000,04-12-2014,Alm. Salg,2.571,4,Villa,175,2015,,Aktuel værdi
+Ølholm Bygade 277160 Tørring,ring,310.000,27-11-2014,Alm. Salg,4.428,2,Villa,70,1909,-14 %,Aktuel værdi
+Rådyrvej 17160 Tørring,ring,1.160.000,27-11-2014,Alm. Salg,7.388,5,Villa,157,1978,-3 %,Aktuel værdi
+Hvolgårdsvej 317160 Tørring,ring,1.065.000,24-11-2014,Alm. Salg,11.210,4,Stuehus,95,1895,,
+Birke Alle 37160 Tørring,ring,600.000,20-11-2014,Fam. Salg,5.882,5,Villa,102,1934,,Aktuel værdi
+Vongevej 37160 Tørring,ring,300.000,07-11-2014,Auktion,2.857,4,Villa,105,1939,,Aktuel værdi
+Købmagergade 67160 Tørring,ring,318.500,07-11-2014,Auktion,1.625,7,Villa,196,1943,,Aktuel værdi
+Grønlund 407160 Tørring,ring,2.795.000,31-10-2014,Alm. Salg,14.260,5,Villa,196,2009,0 %,Aktuel værdi
+Aalevej 607160 Tørring,ring,779.500,30-10-2014,Auktion,2.919,7,Villa,267,1900,,Aktuel værdi
+Skolevej 187160 Tørring,ring,785.000,28-10-2014,Alm. Salg,8.092,4,Villa,97,1951,-2 %,Aktuel værdi
+Vejlevej 957160 Tørring,ring,200.000,27-10-2014,Alm. Salg,1.587,4,Villa,126,1958,-43 %,Aktuel værdi
+Ølholm Bygade 607160 Tørring,ring,1.175.000,27-10-2014,Fam. Salg,7.436,6,Villa,158,1961,,Aktuel værdi
+Ølholm Kærvej 77160 Tørring,ring,432.000,27-10-2014,Fam. Salg,4.320,4,Villa,100,1958,,Aktuel værdi
+Borgergade 117160 Tørring,ring,450.000,21-10-2014,Auktion,3.947,4,Villa,114,1950,-47 %,Aktuel værdi
+Brædstrupvej 327160 Tørring,ring,250.000,21-10-2014,Alm. Salg,2.314,4,Villa,108,1917,-15 %,Aktuel værdi
+Sikavej 317160 Tørring,ring,2.800.000,17-10-2014,Alm. Salg,16.279,5,Villa,172,2008,,Aktuel værdi
+Linnerupvej 187160 Tørring,ring,2.400.000,15-10-2014,Alm. Salg,11.214,8,Stuehus,214,1991,,
+Uldumvej 27160 Tørring,ring,1.000.000,07-10-2014,Alm. Salg,3.787,5,Villa,264,1931,-17 %,Aktuel værdi
+Søndervang 357160 Tørring,ring,697.500,05-10-2014,Alm. Salg,4.151,5,Villa,168,1969,,Aktuel værdi
+Sikavej 307160 Tørring,ring,3.600.000,03-10-2014,Alm. Salg,15.062,6,Villa,239,2010,-3 %,Aktuel værdi
+Vejlevej 177160 Tørring,ring,1.675.000,01-10-2014,Alm. Salg,7.188,10,Villa,233,1951,-4 %,Aktuel værdi
+Skolestien 187160 Tørring,ring,1.150.000,01-10-2014,Alm. Salg,9.829,3,Villa,117,1967,,Aktuel værdi
+Elmevej 27160 Tørring,ring,740.000,25-09-2014,Alm. Salg,6.324,4,Villa,117,1970,-7 %,Aktuel værdi
+Sydtoften 27160 Tørring,ring,475.000,22-09-2014,Fam. Salg,3.518,4,Villa,135,1980,,Aktuel værdi
+Koutrupvej 167160 Tørring,ring,850.000,15-09-2014,Alm. Salg,5.666,6,Villa,150,1900,-5 %,Aktuel værdi
+Borgergade 447160 Tørring,ring,500.000,08-09-2014,Alm. Salg,6.410,4,Villa,78,1930,,Aktuel værdi
+Pile Alle 57160 Tørring,ring,1.450.000,08-09-2014,Alm. Salg,8.841,6,Villa,164,1998,-3 %,Aktuel værdi
+Krambovej 67160 Tørring,ring,295.000,05-09-2014,Alm. Salg,2.269,6,Villa,130,1931,0 %,Aktuel værdi
+Hans Jensens Vej 237160 Tørring,ring,935.000,05-09-2014,Alm. Salg,9.842,4,Villa,95,1970,-6 %,Aktuel værdi
+Skovvej 197160 Tørring,ring,1.000.000,26-08-2014,Alm. Salg,4.830,9,Villa,207,1944,-23 %,Aktuel værdi
+Elmevej 37160 Tørring,ring,875.000,22-08-2014,Alm. Salg,6.250,4,Villa,140,1970,-12 %,Aktuel værdi
+Rosavej 297160 Tørring,ring,1.424.000,22-08-2014,Alm. Salg,10.318,5,Villa,138,1984,-2 %,Aktuel værdi
+J P Nielsens Vej 23B7160 Tørring,ring,1.250.000,18-08-2014,Alm. Salg,10.869,4,Villa,115,1973,,Aktuel værdi
+Sønderkærvej 137160 Tørring,ring,1.700.000,12-08-2014,Alm. Salg,9.659,6,Stuehus,176,1914,-6 %,
+Sikavej 247160 Tørring,ring,470.000,30-07-2014,Alm. Salg,1.540,5,Villa,305,2015,,Aktuel værdi
+Hjortevej 27160 Tørring,ring,1.500.000,07-07-2014,Alm. Salg,10.416,6,Villa,144,2002,-9 %,Aktuel værdi
+Aalevej 407160 Tørring,ring,550.000,04-07-2014,Alm. Salg,6.962,3,Villa,79,1955,-21 %,Aktuel værdi
+Torvegade 123D7160 Tørring,ring,2.800.000,01-07-2014,Alm. Salg,20.000,6,Villa,140,2009,,Aktuel værdi
+Kandborgvej 117160 Tørring,ring,960.000,29-06-2014,Alm. Salg,5.748,9,Stuehus,167,1923,-4 %,
+Skolevej 277160 Tørring,ring,450.000,26-06-2014,Fam. Salg,3.629,4,Villa,124,1967,,Aktuel værdi
+Grønlund 227160 Tørring,ring,400.000,25-06-2014,Alm. Salg,2.919,4,Villa,137,2015,-11 %,Aktuel værdi
+Uldumvej 187160 Tørring,ring,995.000,16-06-2014,Alm. Salg,6.257,5,Villa,159,1971,0 %,Aktuel værdi
+Borgergade 357160 Tørring,ring,450.000,13-06-2014,Alm. Salg,2.601,7,Villa,173,1907,-13 %,Aktuel værdi
+Haugevej 207160 Tørring,ring,2.425.000,30-05-2014,Alm. Salg,12.830,6,Villa,189,1929,-19 %,Aktuel værdi
+Bækvej 37160 Tørring,ring,1.950.000,21-05-2014,Alm. Salg,7.991,6,Villa,244,1900,-15 %,Aktuel værdi
+Sønderbrogade 967160 Tørring,ring,567.000,10-05-2014,Alm. Salg,5.451,4,Villa,104,1955,,Aktuel værdi
+Bygade 247160 Tørring,ring,1.000.000,09-05-2014,Alm. Salg,6.622,4,Villa,151,1922,-7 %,Aktuel værdi
+Roloddet 147160 Tørring,ring,180.000,09-05-2014,Alm. Salg,1.052,8,Villa,171,2015,,Aktuel værdi
+Elsdyrvej 167160 Tørring,ring,1.175.000,08-05-2014,Alm. Salg,8.969,5,Villa,131,1977,-15 %,Aktuel værdi
+Bygade 257160 Tørring,ring,1.255.000,05-05-2014,Alm. Salg,7.652,3,Villa,164,1930,,Aktuel værdi
+Nordre Fælledvej 77160 Tørring,ring,2.900.000,02-05-2014,Alm. Salg,15.760,7,Stuehus,184,1880,,
+Kirkevej 267160 Tørring,ring,1.200.000,29-04-2014,Alm. Salg,5.769,6,Villa,208,1909,-14 %,Aktuel værdi
+Bygade 317160 Tørring,ring,900.000,15-04-2014,Alm. Salg,6.666,5,Villa,135,1941,-10 %,Aktuel værdi
+Solfang 32A7160 Tørring,ring,1.625.000,27-03-2014,Alm. Salg,9.078,5,Villa,179,1972,0 %,Aktuel værdi
+J P Nielsens Vej 37160 Tørring,ring,1.095.000,26-03-2014,Alm. Salg,11.060,3,Villa,99,1952,,Aktuel værdi
+Askevej 87160 Tørring,ring,625.000,24-03-2014,Alm. Salg,4.464,6,Villa,140,1981,,Aktuel værdi
+Bækvej 237160 Tørring,ring,325.000,14-03-2014,Auktion,2.226,4,Villa,146,1922,,Aktuel værdi
+Holmdalsvej 37160 Tørring,ring,700.000,12-03-2014,Alm. Salg,6.363,4,Villa,110,1939,,Aktuel værdi
+Sikavej 267160 Tørring,ring,370.000,05-03-2014,Alm. Salg,2.312,4,Villa,160,2015,,Aktuel værdi
+Skolevej 727160 Tørring,ring,1.195.000,27-02-2014,Alm. Salg,9.192,5,Villa,130,1974,,Aktuel værdi
+Brædstrupvej 257160 Tørring,ring,1.420.000,26-02-2014,Alm. Salg,5.795,8,Stuehus,245,1880,,
+Brædstrupvej 497160 Tørring,ring,1.420.000,26-02-2014,Alm. Salg,7.029,6,Stuehus,202,1920,,
+Vejlevej 37160 Tørring,ring,515.000,20-02-2014,Alm. Salg,4.478,3,Villa,115,1929,-13 %,Aktuel værdi
+Spurvevej 367160 Tørring,ring,1.900.000,19-02-2014,Alm. Salg,11.875,6,Villa,160,1998,-4 %,Aktuel værdi
+Rådyrvej 77160 Tørring,ring,1.000.000,28-01-2014,Alm. Salg,6.134,6,Villa,163,1976,-16 %,Aktuel værdi
+Fælledvej 27160 Tørring,ring,340.000,23-01-2014,Alm. Salg,4.250,4,Villa,80,1920,-41 %,Aktuel værdi
+Grønlund 387160 Tørring,ring,435.000,18-12-2013,Alm. Salg,2.351,4,Villa,185,2015,,Aktuel værdi
+Raskvej 127160 Tørring,ring,543.525,16-12-2013,Alm. Salg,4.455,6,Villa,122,1935,,Aktuel værdi
+Hans Jensens Vej 277160 Tørring,ring,1.235.000,13-12-2013,Alm. Salg,8.576,5,Villa,144,1986,-5 %,Aktuel værdi
+Sikavej 217160 Tørring,ring,2.805.000,10-12-2013,Alm. Salg,13.046,8,Villa,215,2008,-6 %,Aktuel værdi
+Sønderbrogade 307160 Tørring,ring,536.000,03-12-2013,Fam. Salg,5.826,3,Rækkehus,92,1916,-23 %,Aktuel værdi
+Rosavej 3A7160 Tørring,ring,775.000,28-11-2013,Alm. Salg,10.472,3,Rækkehus,74,1987,-6 %,Aktuel værdi
+Olgavej 47160 Tørring,ring,995.000,26-11-2013,Alm. Salg,6.067,6,Villa,164,1973,-9 %,Aktuel værdi
+Banevænget 17160 Tørring,ring,975.000,25-11-2013,Alm. Salg,7.617,5,Villa,128,1964,-2 %,Aktuel værdi
+Vejlevej 127160 Tørring,ring,1.645.000,20-11-2013,Alm. Salg,10.345,7,Villa,159,1933,6 %,Aktuel værdi
+Ølholm Bygade 107160 Tørring,ring,1.592.770,31-10-2013,Alm. Salg,4.424,12,Villa,360,1909,,Aktuel værdi
+Brædstrupvej 377160 Tørring,ring,316.061,29-10-2013,Andet,2.797,3,Villa,113,1936,,Aktuel værdi
+Raskvej 197160 Tørring,ring,295.000,28-10-2013,Alm. Salg,4.916,2,Villa,60,1927,-16 %,Aktuel værdi
+Vibevej 357160 Tørring,ring,980.000,14-10-2013,Alm. Salg,7.656,3,Villa,128,1971,-9 %,Aktuel værdi
+Sikavej 207160 Tørring,ring,320.000,10-10-2013,Alm. Salg,2.191,4,Villa,146,2014,,Aktuel værdi
+Hjortsvang Kærvej 87160 Tørring,ring,2.000.000,09-10-2013,Alm. Salg,14.705,4,Stuehus,136,1911,-13 %,
+Brædstrupvej 637160 Tørring,ring,1.150.000,04-10-2013,Alm. Salg,8.273,4,Stuehus,139,1910,-23 %,
+Vejlevej 87160 Tørring,ring,895.000,30-09-2013,Alm. Salg,6.679,4,Villa,134,1919,,Aktuel værdi
+Spurvevej 57160 Tørring,ring,1.695.000,27-09-2013,Alm. Salg,10.527,6,Villa,161,1996,-6 %,Aktuel værdi
+Stougårds Alle 87160 Tørring,ring,1.470.000,23-09-2013,Alm. Salg,8.855,5,Villa,166,1972,0 %,Aktuel værdi
+Nordre Fælledvej 37160 Tørring,ring,1.437.500,23-09-2013,Fam. Salg,6.845,8,Villa,210,1918,,Aktuel værdi
+Solfang 267160 Tørring,ring,1.487.500,23-09-2013,Fam. Salg,10.937,4,Villa,136,2010,,Aktuel værdi
+Tingvejen 57160 Tørring,ring,2.250.000,21-09-2013,Alm. Salg,11.780,7,Villa,191,1912,-10 %,Aktuel værdi
+Hørsholmvej 117160 Tørring,ring,1.100.000,16-09-2013,Alm. Salg,14.666,3,Stuehus,75,1877,,
+Aagade 147160 Tørring,ring,1.105.000,11-09-2013,Alm. Salg,10.833,4,Rækkehus,102,1925,-8 %,Aktuel værdi
+Kodamvej 17160 Tørring,ring,1.800.000,09-09-2013,Fam. Salg,5.471,9,Stuehus,329,1872,,
+Solfang 17160 Tørring,ring,1.460.000,06-09-2013,Alm. Salg,14.038,4,Villa,104,1948,-12 %,Aktuel værdi
+Viborgvej 367160 Tørring,ring,1.900.000,31-08-2013,Alm. Salg,7.786,8,Villa,244,1965,-5 %,Aktuel værdi
+Skolevej 467160 Tørring,ring,1.395.000,23-08-2013,Alm. Salg,8.718,6,Villa,160,1971,0 %,Aktuel værdi
+Rosavej 5A7160 Tørring,ring,925.000,22-08-2013,Alm. Salg,12.500,3,Rækkehus,74,1986,,Aktuel værdi
+Brædstrupvej 277160 Tørring,ring,350.000,20-08-2013,Alm. Salg,1.861,6,Villa,188,1924,,Aktuel værdi
+Aalevej 197160 Tørring,ring,500.000,19-08-2013,Alm. Salg,3.937,3,Villa,127,1956,-16 %,Aktuel værdi
+Hagevej 37160 Tørring,ring,400.000,16-08-2013,Alm. Salg,3.418,4,Villa,117,1905,-38 %,Aktuel værdi
+Hjortsvang Kærvej 187160 Tørring,ring,470.000,15-08-2013,Alm. Salg,3.286,4,Villa,143,1890,-22 %,Aktuel værdi
+Vongevej 107160 Tørring,ring,1.100.000,13-08-2013,Alm. Salg,7.051,4,Villa,156,1915,-15 %,Aktuel værdi
+Alstedvej 47160 Tørring,ring,380.000,13-08-2013,Alm. Salg,3.304,4,Villa,115,1920,,Aktuel værdi
+Søndervang 277160 Tørring,ring,800.000,09-08-2013,Fam. Salg,-,6,Villa,167,1995,,Aktuel værdi
+Overbygård 457160 Tørring,ring,1.300.000,30-07-2013,Alm. Salg,9.774,4,Villa,133,1986,-7 %,Aktuel værdi
+Rosavej 117160 Tørring,ring,1.350.000,27-07-2013,Alm. Salg,10.714,4,Villa,126,1980,-3 %,Aktuel værdi
+Rosavej 5B7160 Tørring,ring,737.500,12-07-2013,Alm. Salg,9.966,2,Rækkehus,74,1986,-2 %,Aktuel værdi
+Aalevej 317160 Tørring,ring,1.100.000,12-07-2013,Alm. Salg,7.006,5,Villa,157,1965,,Aktuel værdi
+Søndervang 117160 Tørring,ring,2.000.000,06-07-2013,Alm. Salg,10.638,5,Villa,188,2007,-5 %,Aktuel værdi
+Liselundvej 107160 Tørring,ring,1.920.000,27-06-2013,Alm. Salg,9.142,7,Villa,210,1928,,Aktuel værdi
+Rosavej 337160 Tørring,ring,999.000,27-06-2013,Alm. Salg,8.840,5,Villa,113,1984,-9 %,Aktuel værdi
+Solfang 13A7160 Tørring,ring,1.361.550,27-06-2013,Auktion,9.795,5,Villa,139,1981,,Aktuel værdi
+Møllevej 147160 Tørring,ring,262.850,21-06-2013,Auktion,2.709,3,Rækkehus,97,1874,,Aktuel værdi
+Solfang 37160 Tørring,ring,2.150.000,20-06-2013,Alm. Salg,14.238,4,Villa,151,1977,-2 %,Aktuel værdi
+Hvolgårdsvej 407160 Tørring,ring,1.187.900,14-06-2013,Auktion,4.257,10,Villa,279,1877,,Aktuel værdi
+Omannsvej 117160 Tørring,ring,920.000,13-06-2013,Auktion,5.000,5,Villa,184,1976,,Aktuel værdi
+Hjortevej 77160 Tørring,ring,1.375.000,10-06-2013,Alm. Salg,6.610,7,Villa,208,1977,-8 %,Aktuel værdi
+"Bredgade 16, 17160 Tørring",ring,787.361,31-05-2013,Auktion,7.427,3,Lejlighed,106,1903,,Aktuel værdi
+Pogensvej 47160 Tørring,ring,551.500,27-05-2013,Alm. Salg,1.593,7,Villa,346,1968,,Aktuel værdi
+J P Nielsens Vej 217160 Tørring,ring,580.000,21-05-2013,Alm. Salg,3.558,4,Villa,163,2015,-22 %,Aktuel værdi
+Abildtoft 27160 Tørring,ring,865.000,16-05-2013,Alm. Salg,5.766,5,Villa,150,1973,-13 %,Aktuel værdi
+Logslundvej 17160 Tørring,ring,1.145.000,28-04-2013,Alm. Salg,6.981,5,Villa,164,1847,-4 %,Aktuel værdi
+Solfang 26A7160 Tørring,ring,1.200.000,24-04-2013,Alm. Salg,10.000,6,Villa,120,1977,0 %,Aktuel værdi
+Bjerggårdsvej 67160 Tørring,ring,1.037.500,18-04-2013,Fam. Salg,4.893,6,Villa,212,1930,,Aktuel værdi
+Rosavej 287160 Tørring,ring,850.000,18-04-2013,Alm. Salg,7.727,4,Villa,110,1978,-14 %,Aktuel værdi
+Rosavej 1A7160 Tørring,ring,1.050.000,12-04-2013,Alm. Salg,11.666,4,Rækkehus,90,1984,,Aktuel værdi
+Hammer Møllevej 57160 Tørring,ring,995.000,12-04-2013,Alm. Salg,7.107,6,Sommerhus,140,1902,,Aktuel værdi
+Viborgvej 207160 Tørring,ring,1.725.000,07-04-2013,Alm. Salg,10.917,6,Villa,158,1950,-4 %,Aktuel værdi
+Skovvej 27160 Tørring,ring,995.000,04-04-2013,Alm. Salg,7.653,5,Rækkehus,130,1923,0 %,Aktuel værdi
+Sønderbrogade 67160 Tørring,ring,580.000,25-03-2013,Alm. Salg,4.202,3,Rækkehus,138,1903,-17 %,Aktuel værdi
+Overbygård 597160 Tørring,ring,1.525.000,14-03-2013,Alm. Salg,11.213,5,Villa,136,1986,,Aktuel værdi
+Vongevej 207160 Tørring,ring,1.125.000,06-03-2013,Alm. Salg,8.720,3,Villa,129,1937,-13 %,Aktuel værdi
+Torvegade 77160 Tørring,ring,1.000.000,06-03-2013,Alm. Salg,10.000,4,Rækkehus,100,1912,-16 %,Aktuel værdi
+Teglværksvej 97160 Tørring,ring,1.300.000,20-02-2013,Alm. Salg,9.352,5,Villa,139,1981,-13 %,Aktuel værdi
+Vejlevej 257160 Tørring,ring,600.000,19-02-2013,Alm. Salg,6.818,4,Villa,88,1965,-14 %,Aktuel værdi
+Nyvej 127160 Tørring,ring,775.000,15-02-2013,Alm. Salg,6.919,4,Villa,112,1986,-9 %,Aktuel værdi
+Guldagervænget 207160 Tørring,ring,2.000.000,11-02-2013,Alm. Salg,12.345,6,Villa,162,2013,0 %,Aktuel værdi
+Postvej 37160 Tørring,ring,275.000,08-02-2013,Alm. Salg,2.455,4,Villa,112,1902,,Aktuel værdi
+Haugevej 187160 Tørring,ring,8.350.000,06-02-2013,Fam. Salg,35.683,7,Stuehus,234,1975,,
+Sikavej 367160 Tørring,ring,370.000,27-01-2013,Alm. Salg,2.312,5,Villa,160,2014,,Aktuel værdi
+Fousingvej 17160 Tørring,ring,625.000,21-01-2013,Alm. Salg,2.741,7,Villa,228,1893,,Aktuel værdi
+Aale Bygade 217160 Tørring,ring,890.000,21-12-2012,Alm. Salg,5.705,5,Villa,156,1870,3 %,Aktuel værdi
+Østergade 97160 Tørring,ring,1.175.000,21-12-2012,Alm. Salg,9.631,5,Rækkehus,122,1880,,Aktuel værdi
+Søndervang 377160 Tørring,ring,1.070.000,21-12-2012,Alm. Salg,10.490,4,Villa,102,1967,8 %,Aktuel værdi
+Skolevej 257160 Tørring,ring,807.500,20-12-2012,Fam. Salg,5.456,5,Villa,148,1967,-26 %,Aktuel værdi
+Søndervang 207160 Tørring,ring,520.000,10-12-2012,Alm. Salg,5.098,4,Villa,102,1965,,Aktuel værdi
+Bredgade 307160 Tørring,ring,1.824.380,01-12-2012,Alm. Salg,25.695,6,Servicevirksomhed,71,1880,,Aktuel værdi
+Sikavej 347160 Tørring,ring,344.000,30-11-2012,Alm. Salg,2.047,6,Villa,168,2013,,Aktuel værdi
+Bygade 427160 Tørring,ring,748.000,08-11-2012,Auktion,9.468,3,Villa,79,1947,-16 %,Aktuel værdi
+J P Nielsens Vej 277160 Tørring,ring,1.030.000,25-10-2012,Alm. Salg,14.305,2,Villa,72,1959,,Aktuel værdi
+Aalevej 157160 Tørring,ring,1.300.000,12-10-2012,Alm. Salg,9.027,4,Villa,144,1995,-7 %,Aktuel værdi
+Viborg Hovedvej 1017160 Tørring,ring,900.000,11-10-2012,Fam. Salg,3.146,8,Villa,286,1913,,Aktuel værdi
+Viborg Hovedvej 1157160 Tørring,ring,2.795.000,02-10-2012,Alm. Salg,13.975,6,Stuehus,200,2012,,
+Hagevej 117160 Tørring,ring,1.295.000,24-09-2012,Alm. Salg,9.664,4,Villa,134,1900,0 %,Aktuel værdi
+Hammervej 187160 Tørring,ring,11.650.000,22-09-2012,Alm. Salg,38.704,4,Stuehus,301,1976,,
+Hammervej 227160 Tørring,ring,6.275.000,22-09-2012,Alm. Salg,39.968,6,Stuehus,157,1860,,
+Rosavej 3B7160 Tørring,ring,671.500,18-09-2012,Fam. Salg,9.074,3,Rækkehus,74,1987,,Aktuel værdi
+Torvegade 597160 Tørring,ring,1.050.000,13-09-2012,Auktion,7.094,6,Villa,148,1982,,Aktuel værdi
+Lindbjergvej 27160 Tørring,ring,870.000,11-09-2012,Alm. Salg,5.117,4,Sommerhus,170,1954,,Aktuel værdi
+Slårupvej 47160 Tørring,ring,1.295.000,27-08-2012,Alm. Salg,10.702,3,Villa,121,1968,,Aktuel værdi
+Guldager 147160 Tørring,ring,1.875.000,24-08-2012,Alm. Salg,11.503,6,Villa,163,2006,-6 %,Aktuel værdi
+Brædstrupvej 217160 Tørring,ring,1.250.000,21-08-2012,Alm. Salg,-,7,Villa,180,2002,-10 %,Aktuel værdi
+Guldagervænget 287160 Tørring,ring,2.500.000,20-08-2012,Fam. Salg,12.376,6,Villa,202,2006,,Aktuel værdi
+Bredgade 657160 Tørring,ring,1.050.000,12-08-2012,Alm. Salg,6.481,4,Villa,162,1960,,Aktuel værdi
+Torvegade 537160 Tørring,ring,1.550.000,09-08-2012,Auktion,8.563,6,Villa,181,1977,,Aktuel værdi
+Kyndesens Eng 27160 Tørring,ring,2.145.000,07-08-2012,Alm. Salg,11.230,6,Villa,191,2004,-4 %,Aktuel værdi
+Viborg Hovedvej 837160 Tørring,ring,408.000,07-08-2012,Alm. Salg,2.914,9,Villa,140,1790,-8 %,Aktuel værdi
+Viborg Hovedvej 737160 Tørring,ring,665.000,15-07-2012,Alm. Salg,3.259,6,Villa,204,1900,-16 %,Aktuel værdi
+Borgergade 167160 Tørring,ring,500.000,10-07-2012,Fam. Salg,4.132,4,Villa,121,1950,-37 %,Aktuel værdi
+Skolevænget 97160 Tørring,ring,1.250.000,01-07-2012,Alm. Salg,9.124,4,Villa,137,1941,,Aktuel værdi
+Sønderbrogade 87160 Tørring,ring,730.000,28-06-2012,Alm. Salg,5.887,4,Villa,124,1906,,Aktuel værdi
+Alsted Skovvej 37160 Tørring,ring,480.000,21-06-2012,Alm. Salg,4.848,3,Villa,99,1927,-17 %,Aktuel værdi
+Østergade 47160 Tørring,ring,700.000,15-06-2012,Auktion,7.000,4,Villa,100,1900,-22 %,Aktuel værdi
+Engvej 87160 Tørring,ring,900.000,08-06-2012,Fam. Salg,8.181,4,Villa,110,1925,,Aktuel værdi
+Møllevej 267160 Tørring,ring,382.000,07-06-2012,Alm. Salg,2.850,5,Villa,134,1943,,Aktuel værdi
+J P Nielsens Vej 297160 Tørring,ring,750.000,06-06-2012,Alm. Salg,10.416,3,Villa,72,1962,,Aktuel værdi
+Bygade 67160 Tørring,ring,970.000,29-05-2012,Alm. Salg,9.417,5,Villa,103,1934,,Aktuel værdi
+Firhøjvej 97160 Tørring,ring,1.700.000,23-05-2012,Alm. Salg,11.805,5,Villa,144,1908,-19 %,Aktuel værdi
+Sønderbrogade 367160 Tørring,ring,450.000,23-05-2012,Alm. Salg,3.237,4,Villa,139,1926,,Aktuel værdi
+Sønderbrogade 347160 Tørring,ring,882.500,15-05-2012,Alm. Salg,6.635,4,Villa,133,1915,,Aktuel værdi
+Vesterbyvej 27160 Tørring,ring,235.000,10-05-2012,Alm. Salg,1.850,5,Villa,127,1910,-20 %,Aktuel værdi
+Skolevej 377160 Tørring,ring,68.000,03-05-2012,Alm. Salg,629,4,Villa,108,1968,,Aktuel værdi
+Rådyrvej 37160 Tørring,ring,1.445.000,30-04-2012,Alm. Salg,12.787,4,Villa,113,1976,,Aktuel værdi
+Guldagervænget 427160 Tørring,ring,2.700.000,27-04-2012,Alm. Salg,13.106,5,Villa,206,2008,-3 %,Aktuel værdi
+Brædstrupvej 607160 Tørring,ring,3.530.000,25-04-2012,Alm. Salg,23.533,5,Stuehus,150,1931,-23 %,
+"Bredgade 20, 17160 Tørring",ring,1.000.000,10-04-2012,Alm. Salg,20.000,2,Lejlighed,50,1906,,Aktuel værdi
+Teglværksvej 57160 Tørring,ring,950.000,07-04-2012,Alm. Salg,11.875,3,Villa,80,1957,-13 %,Aktuel værdi
+Nyvej 167160 Tørring,ring,960.000,04-04-2012,Alm. Salg,8.000,4,Villa,120,1986,,Aktuel værdi
+Rosavej 17A7160 Tørring,ring,675.000,29-03-2012,Alm. Salg,9.121,3,Rækkehus,74,1984,-10 %,Aktuel værdi
+Vibevej 377160 Tørring,ring,990.000,28-03-2012,Alm. Salg,8.608,4,Villa,115,1972,,Aktuel værdi
+Olgavej 27160 Tørring,ring,945.000,23-03-2012,Alm. Salg,8.076,4,Villa,117,1975,,Aktuel værdi
+Tværvejen 107160 Tørring,ring,2.725.000,18-03-2012,Alm. Salg,14.650,9,Stuehus,186,1928,,
+Ege Alle 207160 Tørring,ring,1.750.000,06-03-2012,Alm. Salg,11.006,6,Villa,159,1994,-3 %,Aktuel værdi
+Aale Bygade 37160 Tørring,ring,260.000,24-02-2012,Alm. Salg,2.407,7,Villa,108,1905,-34 %,Aktuel værdi
+Skolevænget 27160 Tørring,ring,995.000,21-02-2012,Alm. Salg,9.567,4,Villa,104,1975,0 %,Aktuel værdi
+Askevej 77160 Tørring,ring,970.000,10-02-2012,Alm. Salg,9.700,3,Villa,100,2000,-3 %,Aktuel værdi
+Østervang 127160 Tørring,ring,1.595.000,07-02-2012,Alm. Salg,-,6,Villa,221,1978,0 %,Aktuel værdi
+Sønderbrogade 617160 Tørring,ring,3.100.000,02-02-2012,Fam. Salg,15.577,5,Villa,199,2007,,Aktuel værdi
+Fousingvej 47160 Tørring,ring,1.200.000,26-01-2012,Alm. Salg,6.122,7,Stuehus,196,1870,-29 %,
+Askevej 117160 Tørring,ring,1.500.000,15-01-2012,Alm. Salg,9.493,6,Villa,158,1995,-12 %,Aktuel værdi
+Aale Bygade 28A7160 Tørring,ring,103.600,11-01-2012,Alm. Salg,460,8,Stuehus,225,1950,,
+Aagade 177160 Tørring,ring,1.000.000,01-01-2012,Fam. Salg,5.988,5,Villa,167,1927,,Aktuel værdi
+Sydtoften 67160 Tørring,ring,625.000,15-12-2011,Fam. Salg,-,5,Stuehus,232,1912,,
+"Sønderbrogade 12, 17160 Tørring",ring,955.000,16-11-2011,Alm. Salg,7.701,5,Lejlighed,124,1924,,Aktuel værdi
+Hjortsvang Kærvej 157160 Tørring,ring,1.100.000,15-11-2011,Alm. Salg,7.051,6,Villa,156,1855,-12 %,Aktuel værdi
+Nyvej 17160 Tørring,ring,750.000,15-11-2011,Alm. Salg,5.434,5,Villa,138,1910,-6 %,Aktuel værdi
+Søndervang 217160 Tørring,ring,1.295.000,14-11-2011,Alm. Salg,9.961,4,Villa,130,1973,-4 %,Aktuel værdi
+Aagade 47160 Tørring,ring,390.000,28-10-2011,Alm. Salg,4.588,4,Rækkehus,85,1917,,Aktuel værdi
+Viborg Hovedvej 1107160 Tørring,ring,100.000,21-10-2011,Auktion,819,4,Villa,122,1956,-80 %,Aktuel værdi
+Bygade 447160 Tørring,ring,1.400.000,19-10-2011,Alm. Salg,6.896,10,Villa,203,1910,-12 %,Aktuel værdi
+Nyvej 57160 Tørring,ring,825.000,06-10-2011,Alm. Salg,6.021,5,Villa,137,1935,-2 %,Aktuel værdi
+Viborg Hovedvej 1027160 Tørring,ring,1.200.000,30-09-2011,Alm. Salg,11.538,5,Villa,104,1911,,Aktuel værdi
+Rosavej 7A7160 Tørring,ring,757.000,16-09-2011,Alm. Salg,10.229,3,Rækkehus,74,1984,,Aktuel værdi
+Damgårdsvej 97160 Tørring,ring,800.000,08-09-2011,Alm. Salg,8.510,3,Villa,94,1951,-11 %,Aktuel værdi
+Bredgade 397160 Tørring,ring,765.000,01-09-2011,Alm. Salg,8.500,3,Rækkehus,90,1902,-15 %,Aktuel værdi
+Ådalvej 617160 Tørring,ring,2.100.000,25-08-2011,Alm. Salg,16.153,8,Villa,130,1880,-8 %,Aktuel værdi
+Slårupvej 17160 Tørring,ring,1.350.000,15-08-2011,Alm. Salg,7.219,6,Villa,187,1966,-10 %,Aktuel værdi
+Ølholm Bygade 457160 Tørring,ring,1.975.000,08-08-2011,Alm. Salg,7.287,8,Villa,271,1925,-1 %,Aktuel værdi
+Bygade 237160 Tørring,ring,995.000,08-08-2011,Alm. Salg,7.773,4,Villa,128,1915,,Aktuel værdi
+Askevej 67160 Tørring,ring,1.535.000,08-08-2011,Alm. Salg,8.672,6,Villa,177,1986,3 %,Aktuel værdi
+Aalevej 217160 Tørring,ring,425.000,06-07-2011,Alm. Salg,5.902,5,Villa,72,1958,0 %,Aktuel værdi
+Borgergade 377160 Tørring,ring,300.000,16-06-2011,Alm. Salg,1.694,4,Villa,177,1918,-50 %,Aktuel værdi
+Søndre Fælledvej 167160 Tørring,ring,1.000.000,08-06-2011,Alm. Salg,6.756,4,Villa,148,1930,,Aktuel værdi
+Vejlevej 217160 Tørring,ring,1.285.000,06-06-2011,Alm. Salg,5.711,7,Villa,225,1973,-14 %,Aktuel værdi
+Sønderbrogade 47160 Tørring,ring,600.000,01-06-2011,Auktion,4.109,6,Rækkehus,146,1906,-40 %,Aktuel værdi
+Borgergade 337160 Tørring,ring,81.000,27-05-2011,Auktion,387,6,Villa,209,1908,,Aktuel værdi
+Hagevej 137160 Tørring,ring,700.000,27-05-2011,Auktion,2.651,10,Villa,264,1868,-56 %,Aktuel værdi
+Skolehaven 57160 Tørring,ring,945.000,26-05-2011,Alm. Salg,6.562,5,Villa,144,1978,-5 %,Aktuel værdi
+Askevej 157160 Tørring,ring,2.100.000,17-05-2011,Alm. Salg,10.194,6,Villa,206,2006,-8 %,Aktuel værdi
+Banevænget 77160 Tørring,ring,2.037.000,13-05-2011,Alm. Salg,10.185,6,Villa,200,1977,2 %,Aktuel værdi
+Liselundvej 37160 Tørring,ring,80.000,13-05-2011,Auktion,1.212,4,Villa,66,1878,,Aktuel værdi
+Vongevej 247160 Tørring,ring,1.180.000,10-05-2011,Alm. Salg,8.676,5,Villa,136,1962,-9 %,Aktuel værdi
+Vongevej 477160 Tørring,ring,10.500.000,20-04-2011,Alm. Salg,53.299,8,Stuehus,197,1777,,
+Uhrskovvej 37160 Tørring,ring,6.500.000,20-04-2011,Alm. Salg,24.074,8,Stuehus,270,1911,,
+Østervang 157160 Tørring,ring,1.625.000,13-04-2011,Alm. Salg,11.284,5,Villa,144,1985,-4 %,Aktuel værdi
+Vongevej 297160 Tørring,ring,1.495.000,12-04-2011,Alm. Salg,11.589,4,Villa,129,1973,0 %,Aktuel værdi
+Sikavej 67160 Tørring,ring,2.950.000,12-04-2011,Alm. Salg,14.047,7,Villa,210,2007,,Aktuel værdi
+Skolehaven 67160 Tørring,ring,525.000,07-04-2011,Alm. Salg,8.203,2,Rækkehus,64,1983,-12 %,Aktuel værdi
+Skovvej 57160 Tørring,ring,605.000,04-04-2011,Alm. Salg,4.763,6,Rækkehus,127,1915,-19 %,Aktuel værdi
+Rejsenhusvej 37160 Tørring,ring,2.725.000,30-03-2011,Alm. Salg,11.745,7,Villa,232,1889,-9 %,Aktuel værdi
+Borgergade 537160 Tørring,ring,537.270,26-03-2011,Fam. Salg,3.052,6,Villa,176,1916,,Aktuel værdi
+Bygade 97160 Tørring,ring,600.000,25-03-2011,Auktion,3.703,5,Villa,162,1890,-40 %,Aktuel værdi
+Viborgvej 16C7160 Tørring,ring,2.725.000,24-03-2011,Alm. Salg,8.876,7,Villa,307,1900,-3 %,Aktuel værdi
+Elsdyrvej 87160 Tørring,ring,1.180.000,11-03-2011,Auktion,10.442,4,Villa,113,1975,,Aktuel værdi
+Rådyrvej 137160 Tørring,ring,1.000.000,10-03-2011,Andet,4.524,7,Villa,221,1976,,Aktuel værdi
+Borgergade 317160 Tørring,ring,430.000,18-02-2011,Auktion,3.071,4,Villa,140,1929,,Aktuel værdi
+Aale Bygade 137160 Tørring,ring,895.000,25-01-2011,Andet,11.474,4,Villa,78,1925,,Aktuel værdi
+Ølholm Bygade 77160 Tørring,ring,775.000,18-01-2011,Alm. Salg,8.908,3,Villa,87,1900,-4 %,Aktuel værdi
+Solfang 227160 Tørring,ring,575.500,17-01-2011,Alm. Salg,6.122,3,Rækkehus,94,1920,,Aktuel værdi
+"Bredgade 31, 17160 Tørring",ring,1.325.000,07-01-2011,Alm. Salg,12.155,5,Lejlighed,109,1930,,Aktuel værdi
+Grønlund 47160 Tørring,ring,2.355.000,27-12-2010,Alm. Salg,16.354,5,Villa,144,2007,-2 %,Aktuel værdi
+Koutrupvej 57160 Tørring,ring,1.995.000,23-12-2010,Alm. Salg,7.024,8,Villa,284,1894,,Aktuel værdi
+Bredgade 427160 Tørring,ring,745.000,02-12-2010,Andet,8.277,5,Villa,90,1923,,Aktuel værdi
+Solvej 67160 Tørring,ring,750.000,02-12-2010,Alm. Salg,6.048,4,Rækkehus,124,1937,-21 %,Aktuel værdi
+Skovvej 67160 Tørring,ring,1.300.000,23-11-2010,Alm. Salg,9.154,3,Villa,142,1910,-13 %,Aktuel værdi
+Brædstrupvej 537160 Tørring,ring,3.695.000,23-11-2010,Alm. Salg,10.710,14,Villa,345,1903,0 %,Aktuel værdi
+Dådyrvej 67160 Tørring,ring,1.150.000,18-11-2010,Alm. Salg,9.126,3,Villa,126,1977,-12 %,Aktuel værdi
+Uhrskovvej 17160 Tørring,ring,815.000,12-11-2010,Alm. Salg,5.191,6,Villa,157,1850,-9 %,Aktuel værdi
+Roloddet 27160 Tørring,ring,268.000,11-11-2010,Alm. Salg,1.887,3,Villa,142,2010,,Aktuel værdi
+Sikavej 327160 Tørring,ring,690.000,01-11-2010,Alm. Salg,4.600,5,Villa,150,2011,,Aktuel værdi
+Østerkærvej 27160 Tørring,ring,1.400.000,28-10-2010,Alm. Salg,7.567,4,Villa,185,1942,,Aktuel værdi
+Ølholm Bygade 417160 Tørring,ring,1.195.000,28-10-2010,Alm. Salg,9.715,4,Villa,123,1933,0 %,Aktuel værdi
+Tingvejen 37160 Tørring,ring,570.000,12-10-2010,Alm. Salg,6.195,3,Villa,92,1840,,Aktuel værdi
+Raskvej 47160 Tørring,ring,555.000,12-10-2010,Alm. Salg,8.671,2,Villa,64,1942,-7 %,Aktuel værdi
+Skolevej 1017160 Tørring,ring,640.000,09-10-2010,Alm. Salg,5.470,5,Villa,117,1958,-9 %,Aktuel værdi
+Viborg Hovedvej 1177160 Tørring,ring,849.333,07-10-2010,Alm. Salg,4.666,6,Stuehus,182,2016,,
+Rogårdsvej 87160 Tørring,ring,1.275.000,01-10-2010,Alm. Salg,8.916,5,Villa,143,1926,,Aktuel værdi
+Nyvej 157160 Tørring,ring,2.200.000,01-10-2010,Alm. Salg,10.784,8,Villa,204,1928,,Aktuel værdi
+Vejlevej 47160 Tørring,ring,1.150.000,24-09-2010,Fam. Salg,10.176,4,Villa,113,1999,,Aktuel værdi
+Tværvejen 97160 Tørring,ring,1.650.000,23-09-2010,Alm. Salg,8.418,8,Villa,196,1873,-5 %,Aktuel værdi
+Sikavej 237160 Tørring,ring,503.748,23-09-2010,Alm. Salg,2.493,6,Villa,202,2010,,Aktuel værdi
+Aalevej 377160 Tørring,ring,550.000,22-09-2010,Alm. Salg,6.250,4,Villa,88,1965,,Aktuel værdi
+Brædstrupvej 287160 Tørring,ring,800.000,21-09-2010,Alm. Salg,8.888,3,Villa,90,1925,-6 %,Aktuel værdi
+Sikavej 227160 Tørring,ring,500.000,16-09-2010,Alm. Salg,3.676,3,Villa,136,2010,,Aktuel værdi
+Solfang 57160 Tørring,ring,950.000,05-09-2010,Alm. Salg,9.500,3,Villa,100,1954,-12 %,Aktuel værdi
+Uldumvej 147160 Tørring,ring,685.000,03-09-2010,Alm. Salg,9.927,4,Villa,69,1900,-1 %,Aktuel værdi
+Slårupvej 57160 Tørring,ring,2.698.000,24-08-2010,Alm. Salg,12.433,11,Villa,217,1969,0 %,Aktuel værdi
+Alsted Møllevej 107160 Tørring,ring,1.200.000,20-08-2010,Alm. Salg,4.705,7,Villa,255,1880,0 %,Aktuel værdi
+Slårupvej 147160 Tørring,ring,1.025.000,16-08-2010,Alm. Salg,6.655,7,Villa,154,1972,-13 %,Aktuel værdi
+Alstedvej 6A7160 Tørring,ring,725.000,12-08-2010,Alm. Salg,6.304,3,Villa,115,2011,,Aktuel værdi
+Mosevej 87160 Tørring,ring,10.200.000,28-07-2010,Alm. Salg,54.255,7,Stuehus,188,1870,,
+Sønderbrogade 807160 Tørring,ring,1.332.500,13-07-2010,Alm. Salg,10.745,4,Villa,124,1976,-2 %,Aktuel værdi
+Brædstrupvej 347160 Tørring,ring,350.000,09-07-2010,Auktion,3.043,4,Villa,115,1956,-63 %,Aktuel værdi
+Smedetoften 27160 Tørring,ring,484.171,29-06-2010,Alm. Salg,4.611,4,Villa,105,1972,,Aktuel værdi
+Bækvej 137160 Tørring,ring,875.000,22-06-2010,Alm. Salg,5.756,5,Villa,152,1970,-12 %,Aktuel værdi
+J P Nielsens Vej 147160 Tørring,ring,850.000,18-06-2010,Alm. Salg,8.673,4,Villa,98,1952,-21 %,Aktuel værdi
+Torvegade 807160 Tørring,ring,2.450.000,15-06-2010,Alm. Salg,-,7,Villa,318,2005,-9 %,Aktuel værdi
+Vongevej 377160 Tørring,ring,1.395.000,14-06-2010,Alm. Salg,8.454,4,Villa,165,1968,0 %,Aktuel værdi
+Viborgvej 3A7160 Tørring,ring,615.000,28-05-2010,Auktion,7.068,3,Villa,87,1955,,Aktuel værdi
+Vibevej 57160 Tørring,ring,1.395.000,26-05-2010,Alm. Salg,7.380,4,Villa,189,2008,0 %,Aktuel værdi
+Vongevej 337160 Tørring,ring,1.300.000,19-05-2010,Alm. Salg,7.386,7,Villa,176,1973,-12 %,Aktuel værdi
+Vongevej 1A7160 Tørring,ring,800.000,18-05-2010,Alm. Salg,6.153,5,Villa,130,1910,-20 %,Aktuel værdi
+Ølholm Bygade 357160 Tørring,ring,1.250.000,12-05-2010,Alm. Salg,7.763,6,Villa,161,1907,,Aktuel værdi
+Rosavej 43B7160 Tørring,ring,960.000,12-05-2010,Alm. Salg,10.549,3,Rækkehus,91,1983,-4 %,Aktuel værdi
+Vibevej 327160 Tørring,ring,1.300.000,11-05-2010,Alm. Salg,9.558,5,Villa,136,1972,-7 %,Aktuel værdi
+Aale Bygade 297160 Tørring,ring,380.000,05-05-2010,Alm. Salg,4.318,4,Villa,88,1900,-23 %,Aktuel værdi
+Skolevej 457160 Tørring,ring,700.000,28-04-2010,Fam. Salg,4.242,4,Villa,165,1972,,Aktuel værdi
+Raskvej 107160 Tørring,ring,1.310.000,23-04-2010,Alm. Salg,7.237,5,Villa,181,1924,-3 %,Aktuel værdi
+Præstevænget 67160 Tørring,ring,475.000,15-04-2010,Alm. Salg,4.797,5,Villa,99,1934,-47 %,Aktuel værdi
+Tingvejen 77160 Tørring,ring,3.650.000,13-04-2010,Alm. Salg,24.013,5,Stuehus,152,1900,,
+Skovvej 107160 Tørring,ring,487.500,07-04-2010,Alm. Salg,4.642,3,Villa,105,1958,,Aktuel værdi
+Elsdyrvej 47160 Tørring,ring,1.300.000,31-03-2010,Alm. Salg,-,7,Villa,161,1976,-7 %,Aktuel værdi
+Viborg Hovedvej 997160 Tørring,ring,280.000,31-03-2010,Alm. Salg,1.971,3,Villa,142,1940,,Aktuel værdi
+Torvegade 737160 Tørring,ring,2.300.242,23-03-2010,Alm. Salg,-,2,Industri o.l.,53,1986,,Aktuel værdi
+Rosavej 15A7160 Tørring,ring,900.000,21-03-2010,Alm. Salg,12.162,3,Rækkehus,74,1984,,Aktuel værdi
+Guldagervænget 327160 Tørring,ring,2.000.000,18-02-2010,Alm. Salg,13.888,5,Villa,144,2006,-5 %,Aktuel værdi
+Aagade 57160 Tørring,ring,595.000,11-02-2010,Auktion,4.576,4,Villa,130,1902,,Aktuel værdi
+Skolevej 787160 Tørring,ring,800.000,05-02-2010,Auktion,5.333,5,Villa,150,1973,,Aktuel værdi
+Uldumvej 87160 Tørring,ring,1.162.000,03-02-2010,Alm. Salg,8.481,6,Villa,137,1900,2 %,Aktuel værdi
+Spurvevej 207160 Tørring,ring,2.100.000,03-02-2010,Alm. Salg,12.500,6,Villa,168,1997,-11 %,Aktuel værdi
+Engvej 137160 Tørring,ring,780.000,26-01-2010,Alm. Salg,6.093,5,Villa,128,1930,,Aktuel værdi
+Hjortsvangvej 97160 Tørring,ring,1.100.000,25-01-2010,Alm. Salg,9.821,4,Villa,112,1986,,Aktuel værdi
+Torvegade 557160 Tørring,ring,150.000,19-01-2010,Alm. Salg,797,6,Villa,188,1978,,Aktuel værdi
+Egholmvej 27160 Tørring,ring,5.000.000,18-01-2010,Alm. Salg,-,7,Villa,185,1970,,Aktuel værdi
+Hørsholmvej 47160 Tørring,ring,1.820.000,11-01-2010,Alm. Salg,10.705,6,Villa,170,1912,-6 %,Aktuel værdi
+Sikavej 337160 Tørring,ring,1.466.246,10-11-2009,Andet,8.378,7,Villa,175,2007,-51 %,Aktuel værdi
+Bækvej 227160 Tørring,ring,1.400.000,27-10-2009,Alm. Salg,8.235,5,Villa,170,1960,-6 %,Aktuel værdi
+Slårupvej 10A7160 Tørring,ring,861.863,14-10-2009,Fam. Salg,5.524,4,Villa,156,1973,,Aktuel værdi
+Myllerupvej 37160 Tørring,ring,1.600.000,09-10-2009,Alm. Salg,9.580,6,Stuehus,167,1887,,
+Hvolgårdsvej 287160 Tørring,ring,1.500.000,18-09-2009,Alm. Salg,3.759,9,Villa,399,1800,-16 %,Aktuel værdi
+Aale Bygade 197160 Tørring,ring,1.025.000,04-09-2009,Alm. Salg,10.250,3,Villa,100,1964,-4 %,Aktuel værdi
+Skolevej 117160 Tørring,ring,1.050.000,21-08-2009,Alm. Salg,12.650,4,Villa,83,1951,-12 %,Aktuel værdi
+Bredgade 347160 Tørring,ring,850.000,10-08-2009,Fam. Salg,4.473,7,Villa,190,1912,,Aktuel værdi
+Sønderbrogade 227160 Tørring,ring,150.000,07-08-2009,Alm. Salg,1.094,5,Villa,137,1907,,Aktuel værdi
+Kodamvej 47160 Tørring,ring,1.195.000,07-08-2009,Alm. Salg,7.242,6,Villa,165,2012,0 %,Aktuel værdi
+Skolevej 167160 Tørring,ring,650.000,31-07-2009,Alm. Salg,7.386,3,Villa,88,1950,-18 %,Aktuel værdi
+Skolevej 27160 Tørring,ring,1.325.000,28-07-2009,Alm. Salg,8.493,4,Villa,156,1942,-5 %,Aktuel værdi
+Vongevej 417160 Tørring,ring,2.430.000,26-07-2009,Auktion,97.200,33,Servicevirksomhed,25,1986,,Aktuel værdi
+Ege Alle 147160 Tørring,ring,2.175.000,24-07-2009,Alm. Salg,12.794,5,Villa,170,1993,-3 %,Aktuel værdi
+Gudenåvænget 47160 Tørring,ring,2.400.000,10-07-2009,Alm. Salg,16.000,5,Villa,150,2007,-4 %,Aktuel værdi
+Uldumvej 227160 Tørring,ring,850.000,07-07-2009,Fam. Salg,7.727,3,Villa,110,1962,,Aktuel værdi
+Rosavej 41A7160 Tørring,ring,416.500,26-06-2009,Fam. Salg,5.206,3,Rækkehus,80,1987,,Aktuel værdi
+J P Nielsens Vej 107160 Tørring,ring,812.566,26-06-2009,Auktion,8.644,4,Villa,94,1956,,Aktuel værdi
+Aale Bygade 277160 Tørring,ring,1.395.000,23-06-2009,Alm. Salg,8.506,6,Villa,164,1912,0 %,Aktuel værdi
+Melhedevej 107160 Tørring,ring,1.525.000,23-06-2009,Alm. Salg,10.445,6,Villa,146,1987,-4 %,Aktuel værdi
+Møllevej 67160 Tørring,ring,100.000,15-06-2009,Auktion,1.282,3,Villa,78,1932,,Aktuel værdi
+Grønlund 287160 Tørring,ring,375.510,03-06-2009,Alm. Salg,2.571,5,Villa,146,2011,-3 %,Aktuel værdi
+Slårupvej 127160 Tørring,ring,1.462.500,02-06-2009,Alm. Salg,10.675,3,Villa,137,1972,-10 %,Aktuel værdi
+Aale Bygade 17160 Tørring,ring,1.250.000,26-05-2009,Alm. Salg,7.763,8,Villa,161,1890,0 %,Aktuel værdi
+Vongevej 16A7160 Tørring,ring,2.895.000,11-05-2009,Alm. Salg,14.121,7,Villa,205,1980,-3 %,Aktuel værdi
+Søndervang 57160 Tørring,ring,1.385.000,05-05-2009,Alm. Salg,8.710,5,Villa,159,1973,-31 %,Aktuel værdi
+Søndre Fælledvej 187160 Tørring,ring,640.000,28-04-2009,Alm. Salg,8.000,3,Villa,80,1927,-15 %,Aktuel værdi
+Skolevej 137160 Tørring,ring,850.000,23-04-2009,Alm. Salg,8.415,4,Villa,101,1954,,Aktuel værdi
+Præstevænget 27160 Tørring,ring,700.000,08-04-2009,Alm. Salg,3.703,5,Villa,189,1916,,Aktuel værdi
+Skovvej 15A7160 Tørring,ring,250.000,06-04-2009,Alm. Salg,4.166,2,Villa,60,2009,,Aktuel værdi
+Torvegade 477160 Tørring,ring,1.250.000,05-04-2009,Alm. Salg,10.080,4,Villa,124,1988,,Aktuel værdi
+Hørsholmvej 177160 Tørring,ring,2.300.000,03-04-2009,Alm. Salg,14.375,5,Villa,160,1916,,Aktuel værdi
+Marievej 37160 Tørring,ring,1.380.000,18-03-2009,Alm. Salg,-,5,Villa,153,1980,-1 %,Aktuel værdi
+Brædstrupvej 557160 Tørring,ring,1.750.000,14-03-2009,Alm. Salg,8.027,7,Villa,218,1917,-7 %,Aktuel værdi
+Søndre Fælledvej 237160 Tørring,ring,936.655,12-03-2009,Andet,7.095,5,Stuehus,132,1928,,
+Egholmvej 17160 Tørring,ring,759.476,06-03-2009,Alm. Salg,6.075,4,Villa,125,1967,,Aktuel værdi
+Engvej 97160 Tørring,ring,1.360.000,06-03-2009,Alm. Salg,10.225,4,Villa,133,1934,-6 %,Aktuel værdi
+Aagade 217160 Tørring,ring,710.000,25-02-2009,Alm. Salg,7.717,3,Villa,92,1933,-11 %,Aktuel værdi
+J P Nielsens Vej 127160 Tørring,ring,593.000,25-02-2009,Alm. Salg,8.236,3,Villa,72,1957,,Aktuel værdi
+Rosavej 15B7160 Tørring,ring,900.000,23-02-2009,Alm. Salg,-,3,Rækkehus,94,1984,-10 %,Aktuel værdi
+Ølholm Bygade 97160 Tørring,ring,1.434.246,12-02-2009,Alm. Salg,8.057,7,Villa,178,1909,-18 %,Aktuel værdi
+Søndervang 167160 Tørring,ring,850.000,11-02-2009,Alm. Salg,6.390,7,Villa,133,1964,-11 %,Aktuel værdi
+Askevej 197160 Tørring,ring,2.395.000,26-01-2009,Alm. Salg,15.756,4,Villa,152,2007,0 %,Aktuel værdi
+Vindelevvej 867160 Tørring,ring,2.350.000,15-01-2009,Alm. Salg,10.217,7,Villa,230,1917,,Aktuel værdi
+Tørringvej 517160 Tørring,ring,1.300.000,06-12-2008,Alm. Salg,-,9,Stuehus,224,1880,-4 %,
+Grønlund 447160 Tørring,ring,411.345,03-12-2008,Alm. Salg,2.046,5,Villa,201,2012,0 %,Aktuel værdi
+Rosavej 467160 Tørring,ring,1.250.000,28-11-2008,Alm. Salg,11.160,3,Villa,112,1978,-4 %,Aktuel værdi
+Stations Alle 17160 Tørring,ring,700.000,27-11-2008,Alm. Salg,3.317,5,Villa,211,1940,,Aktuel værdi
+Sønderbrogade 387160 Tørring,ring,965.000,19-11-2008,Alm. Salg,13.040,3,Villa,74,1900,,Aktuel værdi
+Østervang 77160 Tørring,ring,525.000,12-11-2008,Alm. Salg,3.832,4,Villa,137,1977,,Aktuel værdi
+Guldager 107160 Tørring,ring,2.320.000,12-11-2008,Fam. Salg,8.498,10,Villa,273,2002,,Aktuel værdi
+Sønderbrogade 487160 Tørring,ring,1.250.000,07-11-2008,Alm. Salg,8.561,7,Villa,146,1927,-4 %,Aktuel værdi
+Skolevej 297160 Tørring,ring,1.395.000,22-10-2008,Alm. Salg,10.568,5,Villa,132,1970,0 %,Aktuel værdi
+Askevej 167160 Tørring,ring,50.000,22-09-2008,Andet,287,4,Villa,174,2003,,Aktuel værdi
+Aagade 97160 Tørring,ring,1.525.000,21-09-2008,Alm. Salg,10.374,7,Rækkehus,147,1910,-4 %,Aktuel værdi
+Svalevej 37160 Tørring,ring,1.212.500,16-09-2008,Alm. Salg,10.635,4,Villa,114,1972,-3 %,Aktuel værdi
+Møllevej 107160 Tørring,ring,600.000,16-09-2008,Alm. Salg,8.450,3,Villa,71,1900,,Aktuel værdi
+Skolevej 127160 Tørring,ring,1.000.000,08-09-2008,Alm. Salg,9.090,4,Villa,110,1959,,Aktuel værdi
+Borgergade 437160 Tørring,ring,450.000,03-09-2008,Alm. Salg,4.687,6,Villa,96,1920,,Aktuel værdi
+Sikavej 97160 Tørring,ring,2.950.000,01-09-2008,Alm. Salg,17.771,5,Villa,166,2005,-8 %,Aktuel værdi
+Raskvej 207160 Tørring,ring,905.000,28-08-2008,Alm. Salg,8.537,3,Villa,106,1953,,Aktuel værdi
+Skolevej 37160 Tørring,ring,782.000,27-08-2008,Alm. Salg,10.861,2,Villa,72,1865,,Aktuel værdi
+Skolevej 477160 Tørring,ring,945.000,21-08-2008,Alm. Salg,8.590,4,Villa,110,1974,-5 %,Aktuel værdi
+Viborg Hovedvej 757160 Tørring,ring,1.325.000,19-08-2008,Auktion,7.085,9,Villa,187,1925,-16 %,Aktuel værdi
+Bredgade 44B7160 Tørring,ring,2.650.000,04-08-2008,Alm. Salg,10.816,8,Villa,245,1999,0 %,Aktuel værdi
+Sønderbrogade 687160 Tørring,ring,500.000,03-08-2008,Alm. Salg,2.840,5,Villa,176,1975,,Aktuel værdi
+Grønlund 347160 Tørring,ring,409.690,18-07-2008,Alm. Salg,2.845,5,Villa,144,2009,0 %,Aktuel værdi
+Møllevej 87160 Tørring,ring,350.000,11-07-2008,Alm. Salg,5.555,3,Villa,63,1880,,Aktuel værdi
+Kirkebakken 47160 Tørring,ring,1.100.000,10-07-2008,Alm. Salg,8.461,4,Villa,130,1971,-3 %,Aktuel værdi
+Sønderbrogade 207160 Tørring,ring,1.240.000,07-07-2008,Alm. Salg,8.211,5,Rækkehus,151,1912,-4 %,Aktuel værdi
+Borgergade 237160 Tørring,ring,1.050.000,07-07-2008,Alm. Salg,7.342,5,Villa,143,1956,-14 %,Aktuel værdi
+Brædstrupvej 267160 Tørring,ring,600.000,05-07-2008,Fam. Salg,-,5,Villa,245,1976,,Aktuel værdi
+Sønderkærvej 47160 Tørring,ring,1.700.000,02-07-2008,Alm. Salg,14.049,5,Villa,121,1875,,Aktuel værdi
+Koutrupvej 157160 Tørring,ring,159.800,29-06-2008,Fam. Salg,2.219,1,Sommerhus,72,2003,,Aktuel værdi
+Spurvevej 347160 Tørring,ring,2.150.000,06-06-2008,Alm. Salg,10.539,7,Villa,204,1991,-2 %,Aktuel værdi
+Søndervang 137160 Tørring,ring,425.000,04-06-2008,Alm. Salg,3.269,4,Villa,130,2009,,Aktuel værdi
+Linnerupvej 87160 Tørring,ring,1.275.000,03-06-2008,Alm. Salg,10.714,5,Villa,119,1980,-2 %,Aktuel værdi
+Ølholm Bygade 137160 Tørring,ring,765.000,03-06-2008,Alm. Salg,4.500,7,Rækkehus,170,1904,-10 %,Aktuel værdi
+Hørsholmvej 97160 Tørring,ring,1.500.000,02-06-2008,Alm. Salg,11.538,6,Villa,130,1907,,Aktuel værdi
+Alstedvej 17160 Tørring,ring,1.500.000,01-06-2008,Alm. Salg,11.538,4,Villa,130,1900,0 %,Aktuel værdi
+Vibevej 167160 Tørring,ring,2.155.000,19-05-2008,Alm. Salg,10.165,7,Villa,212,1973,-2 %,Aktuel værdi
+Ådalvej 467160 Tørring,ring,3.095.000,16-05-2008,Alm. Salg,13.456,8,Villa,230,1913,-8 %,Aktuel værdi
+Haugevej 117160 Tørring,ring,1.490.000,13-05-2008,Alm. Salg,10.275,4,Villa,145,1920,-4 %,Aktuel værdi
+Roloddet 107160 Tørring,ring,380.000,07-05-2008,Alm. Salg,2.483,5,Villa,153,2009,,Aktuel værdi
+Møllevej 167160 Tørring,ring,1.200.000,07-05-2008,Alm. Salg,7.643,4,Villa,157,1928,2 %,Aktuel værdi
+Hørsholmvej 157160 Tørring,ring,600.000,05-05-2008,Alm. Salg,4.166,5,Stuehus,144,1897,,
+Bygade 87160 Tørring,ring,1.175.000,29-04-2008,Alm. Salg,6.250,6,Villa,188,1910,-6 %,Aktuel værdi
+Sønderbrogade 377160 Tørring,ring,1.065.000,24-04-2008,Alm. Salg,12.987,4,Villa,82,1963,0 %,Aktuel værdi
+Abildtoft 17160 Tørring,ring,1.650.000,04-04-2008,Alm. Salg,11.000,5,Villa,150,1974,-6 %,Aktuel værdi
+Bygade 467160 Tørring,ring,860.000,31-03-2008,Alm. Salg,6.880,5,Villa,125,1919,-4 %,Aktuel værdi
+Spurvevej 297160 Tørring,ring,1.650.000,27-03-2008,Alm. Salg,12.890,6,Villa,128,1992,-1 %,Aktuel værdi
+Sønderbrogade 527160 Tørring,ring,1.250.000,26-03-2008,Alm. Salg,8.278,7,Villa,151,1963,-9 %,Aktuel værdi
+Elsdyrvej 107160 Tørring,ring,1.998.000,25-03-2008,Alm. Salg,12.333,5,Villa,162,1977,0 %,Aktuel værdi
+Engvej 127160 Tørring,ring,1.670.000,24-03-2008,Fam. Salg,12.189,5,Villa,137,1940,-4 %,Aktuel værdi
+Smedetoften 17160 Tørring,ring,1.400.000,18-03-2008,Alm. Salg,9.722,5,Villa,144,1974,-6 %,Aktuel værdi
+Mosevænget 77160 Tørring,ring,500.000,11-03-2008,Alm. Salg,2.538,6,Villa,197,2009,,Aktuel værdi
+Banevej 117160 Tørring,ring,2.600.000,06-03-2008,Alm. Salg,15.476,5,Villa,168,1980,,Aktuel værdi
+Sønderbrogade 37160 Tørring,ring,1.125.000,06-03-2008,Alm. Salg,9.782,4,Rækkehus,115,1908,-12 %,Aktuel værdi
+Søndre Fælledvej 277160 Tørring,ring,1.600.000,04-03-2008,Auktion,4.624,7,Villa,346,2008,,Aktuel værdi
+"Vejlevej 1D, 17160 Tørring",ring,680.000,28-02-2008,Alm. Salg,7.234,3,Lejlighed,94,1902,0 %,Aktuel værdi
+Ildvedvej 47160 Tørring,ring,14.500.000,27-02-2008,Alm. Salg,61.702,8,Stuehus,235,1907,,
+Vongevej 357160 Tørring,ring,1.375.000,26-02-2008,Alm. Salg,8.757,4,Villa,157,1975,-5 %,Aktuel værdi
+"Sønderbrogade 12, ST7160 Tørring",ring,900.000,19-02-2008,Alm. Salg,9.473,3,Lejlighed,95,1924,,Aktuel værdi
+Bækvej 247160 Tørring,ring,1.100.000,18-02-2008,Alm. Salg,5.527,7,Villa,199,1899,0 %,Aktuel værdi
+Vongevej 87160 Tørring,ring,1.395.000,15-02-2008,Alm. Salg,10.035,4,Villa,139,1910,0 %,Aktuel værdi
+Købmagergade 17160 Tørring,ring,1.290.000,15-02-2008,Alm. Salg,10.573,4,Villa,122,1935,0 %,Aktuel værdi
+"Vejlevej 1A, ST7160 Tørring",ring,750.000,08-02-2008,Alm. Salg,7.978,3,Lejlighed,94,1902,0 %,Aktuel værdi
+Borgergade 107160 Tørring,ring,1.140.000,30-01-2008,Alm. Salg,8.769,4,Villa,130,1975,-11 %,Aktuel værdi
+Søndre Fælledvej 217160 Tørring,ring,3.950.000,26-01-2008,Alm. Salg,18.990,6,Villa,208,1877,,Aktuel værdi
+Brædstrupvej 647160 Tørring,ring,57.000,16-01-2008,Alm. Salg,351,7,Villa,162,1910,,Aktuel værdi
+Søndre Fælledvej 307160 Tørring,ring,537.090,14-01-2008,Alm. Salg,3.836,5,Stuehus,140,1965,,
+Nordre Fælledvej 177160 Tørring,ring,3.000.000,14-01-2008,Alm. Salg,7.731,10,Stuehus,388,2010,,
+Ølholm Bygade 467160 Tørring,ring,450.000,12-01-2008,Alm. Salg,2.647,4,Villa,170,2012,,Aktuel værdi
+Spurvevej 187160 Tørring,ring,1.300.000,11-01-2008,Alm. Salg,11.607,4,Villa,112,1989,-7 %,Aktuel værdi
+Torvegade 1557160 Tørring,ring,6.800.000,09-01-2008,Alm. Salg,25.660,9,Villa,265,2001,,Aktuel værdi
+Rejsenhusvej 17160 Tørring,ring,1.639.820,17-12-2007,Alm. Salg,9.938,6,Stuehus,165,1991,,
+Brædstrupvej 417160 Tørring,ring,1.050.000,03-12-2007,Alm. Salg,11.290,4,Villa,93,1949,,Aktuel værdi
+Guldagervænget 347160 Tørring,ring,338.505,01-12-2007,Alm. Salg,1.979,6,Villa,171,2008,,Aktuel værdi
+"Vejlevej 1C, 17160 Tørring",ring,540.000,22-11-2007,Alm. Salg,5.744,3,Lejlighed,94,1902,-9 %,Aktuel værdi
+Hørsholmvej 227160 Tørring,ring,1.519.000,22-11-2007,Alm. Salg,15.500,6,Villa,98,1902,,Aktuel værdi
+Vibevej 17160 Tørring,ring,1.100.000,21-11-2007,Alm. Salg,9.090,4,Villa,121,1966,-8 %,Aktuel værdi
+Brædstrupvej 357160 Tørring,ring,570.000,20-11-2007,Alm. Salg,6.263,2,Villa,91,1920,-5 %,Aktuel værdi
+Gudenåvænget 67160 Tørring,ring,3.400.000,16-11-2007,Alm. Salg,12.781,7,Villa,266,2006,-3 %,Aktuel værdi
+Sønderbrogade 47A7160 Tørring,ring,1.400.000,16-11-2007,Alm. Salg,12.500,3,Villa,112,2008,,Aktuel værdi
+Grønlund 307160 Tørring,ring,418.680,15-11-2007,Alm. Salg,1.812,7,Villa,231,2009,0 %,Aktuel værdi
+Mattrupvej 247160 Tørring,ring,1.665.000,14-11-2007,Alm. Salg,10.811,6,Villa,154,1900,,Aktuel værdi
+Rolighedsvej 87160 Tørring,ring,1.595.000,09-11-2007,Alm. Salg,8.861,6,Villa,180,1900,0 %,Aktuel værdi
+Aale Bygade 237160 Tørring,ring,325.000,07-11-2007,Andet,2.389,3,Villa,136,1770,-19 %,Aktuel værdi
+J P Nielsens Vej 47160 Tørring,ring,462.500,06-11-2007,Alm. Salg,5.854,3,Villa,79,1961,,Aktuel værdi
+Krambovej 37160 Tørring,ring,675.000,24-10-2007,Alm. Salg,6.553,4,Villa,103,1920,-3 %,Aktuel værdi
+Sønderbrogade 407160 Tørring,ring,560.000,19-10-2007,Alm. Salg,3.835,4,Villa,146,1987,,Aktuel værdi
+Stations Alle 47160 Tørring,ring,1.025.000,09-10-2007,Alm. Salg,10.353,5,Villa,99,1922,,Aktuel værdi
+Viggo Pejsens Vej 37160 Tørring,ring,1.100.000,01-10-2007,Alm. Salg,6.470,5,Villa,170,1971,,Aktuel værdi
+Vibevej 257160 Tørring,ring,1.680.000,01-10-2007,Alm. Salg,9.710,6,Villa,173,1968,-4 %,Aktuel værdi
+Rogårdsvej 1E7160 Tørring,ring,985.000,24-09-2007,Alm. Salg,11.321,3,Rækkehus,87,2001,0 %,Aktuel værdi
+Hjortsvang Fælledvej 57160 Tørring,ring,2.025.000,19-09-2007,Alm. Salg,12.816,6,Stuehus,158,1877,0 %,
+Viborgvej 347160 Tørring,ring,1.500.000,11-09-2007,Alm. Salg,11.111,5,Villa,135,1971,,Aktuel værdi
+Vibevej 307160 Tørring,ring,2.125.000,07-09-2007,Alm. Salg,11.184,7,Villa,190,1967,-6 %,Aktuel værdi
+Slårupvej 87160 Tørring,ring,1.765.000,27-08-2007,Alm. Salg,12.883,5,Villa,137,1971,,Aktuel værdi
+Vestergårdsvej 37160 Tørring,ring,2.595.000,23-08-2007,Alm. Salg,-,16,Villa,501,1886,0 %,Aktuel værdi
+Vibevej 337160 Tørring,ring,980.000,21-08-2007,Alm. Salg,9.074,6,Villa,108,1967,-11 %,Aktuel værdi
+Sønderbrogade 827160 Tørring,ring,1.285.000,20-08-2007,Alm. Salg,9.884,4,Villa,130,1974,-3 %,Aktuel værdi
+Skolevej 227160 Tørring,ring,1.185.000,14-08-2007,Alm. Salg,10.772,4,Villa,110,1965,-5 %,Aktuel værdi
+Vibevej 317160 Tørring,ring,800.000,01-08-2007,Fam. Salg,8.333,4,Villa,96,1967,,Aktuel værdi
+Spurvevej 407160 Tørring,ring,1.425.000,01-08-2007,Alm. Salg,11.309,5,Villa,126,1993,,Aktuel værdi
+Vibevej 417160 Tørring,ring,1.306.000,15-07-2007,Alm. Salg,10.883,4,Villa,120,1976,1 %,Aktuel værdi
+Grønlund 327160 Tørring,ring,410.000,13-07-2007,Alm. Salg,2.679,5,Villa,153,2008,,Aktuel værdi
+Stenagervej 137160 Tørring,ring,667.500,08-07-2007,Andet,3.240,6,Villa,206,1877,,Aktuel værdi
+Bredgade 537160 Tørring,ring,1.295.000,06-07-2007,Alm. Salg,10.277,5,Villa,126,1896,-4 %,Aktuel værdi
+Logslundvej 37160 Tørring,ring,2.600.000,03-07-2007,Alm. Salg,12.440,9,Villa,209,1953,,Aktuel værdi
+Ølholm Bygade 447160 Tørring,ring,250.000,30-06-2007,Fam. Salg,1.282,6,Villa,195,2007,,Aktuel værdi
+Ølholm Bygade 487160 Tørring,ring,250.000,30-06-2007,Fam. Salg,1.096,9,Villa,228,2008,,Aktuel værdi
+Solfang 307160 Tørring,ring,1.050.000,30-06-2007,Alm. Salg,9.545,3,Villa,110,1964,-8 %,Aktuel værdi
+Grønlund 267160 Tørring,ring,413.100,29-06-2007,Alm. Salg,2.581,5,Villa,160,2008,0 %,Aktuel værdi
+Sønderbrogade 647160 Tørring,ring,950.000,29-06-2007,Alm. Salg,8.189,4,Villa,116,1935,-2 %,Aktuel værdi
+Solvej 107160 Tørring,ring,830.000,27-06-2007,Alm. Salg,8.058,4,Villa,103,1943,-2 %,Aktuel værdi
+J P Nielsens Vej 137160 Tørring,ring,1.200.000,27-06-2007,Alm. Salg,19.354,2,Villa,62,1955,,Aktuel værdi
+Raskvej 37160 Tørring,ring,960.000,27-06-2007,Alm. Salg,9.320,4,Villa,103,1910,,Aktuel værdi
+Møllevej 57160 Tørring,ring,620.000,26-06-2007,Alm. Salg,8.611,3,Villa,72,1900,0 %,Aktuel værdi
+Brædstrupvej 297160 Tørring,ring,303.375,26-06-2007,Alm. Salg,3.840,3,Villa,79,1900,,Aktuel værdi
+Viborgvej 24A7160 Tørring,ring,356.650,23-06-2007,Alm. Salg,2.377,4,Villa,150,2011,,Aktuel værdi
+Ølholm Bygade 117160 Tørring,ring,850.000,22-06-2007,Alm. Salg,5.944,6,Villa,143,1935,-8 %,Aktuel værdi
+Stenagervej 107160 Tørring,ring,1.675.000,18-06-2007,Alm. Salg,12.407,4,Villa,135,1866,,Aktuel værdi
+Landsflod 47160 Tørring,ring,575.000,18-06-2007,Alm. Salg,3.042,5,Villa,189,1963,,Aktuel værdi
+Vejlevej 107160 Tørring,ring,1.075.000,16-06-2007,Alm. Salg,12.215,3,Villa,88,1971,0 %,Aktuel værdi
+Torvegade 927160 Tørring,ring,1.000.000,05-06-2007,Andet,5.319,5,Villa,188,2008,,Aktuel værdi
+Holmdalsvej 207160 Tørring,ring,782.637,29-05-2007,Fam. Salg,5.217,4,Villa,150,1900,,Aktuel værdi
+Østergade 187160 Tørring,ring,950.000,10-05-2007,Alm. Salg,8.636,3,Villa,110,1955,0 %,Aktuel værdi
+Sønderbrogade 947160 Tørring,ring,825.000,10-05-2007,Alm. Salg,12.890,3,Villa,64,1950,0 %,Aktuel værdi
+Tørringvej 707160 Tørring,ring,750.000,02-05-2007,Alm. Salg,4.870,6,Villa,154,1912,,Aktuel værdi
+Skolehaven 47160 Tørring,ring,875.000,23-04-2007,Alm. Salg,9.510,3,Villa,92,1986,,Aktuel værdi
+Grønnevej 317160 Tørring,ring,1.029.703,16-04-2007,Alm. Salg,9.446,4,Villa,109,1968,-6 %,Aktuel værdi
+Grønlund 67160 Tørring,ring,460.000,16-04-2007,Alm. Salg,2.967,5,Villa,155,2007,,Aktuel værdi
+Bredgade 77160 Tørring,ring,650.000,04-04-2007,Fam. Salg,4.642,5,Rækkehus,140,1896,,Aktuel værdi
+Ådalvej 507160 Tørring,ring,500.000,02-04-2007,Andet,3.378,6,Stuehus,148,1912,,
+Vejlevej 227160 Tørring,ring,1.200.000,12-03-2007,Alm. Salg,7.361,7,Villa,163,1940,-20 %,Aktuel værdi
+Grønnevej 27160 Tørring,ring,1.550.000,06-03-2007,Alm. Salg,12.704,6,Villa,122,1960,,Aktuel værdi
+Guldagervænget 387160 Tørring,ring,312.745,05-03-2007,Alm. Salg,1.992,4,Villa,157,2007,,Aktuel værdi
+Grønlund 367160 Tørring,ring,310.000,27-02-2007,Alm. Salg,1.542,6,Villa,201,2007,,Aktuel værdi
+Vongevej 257160 Tørring,ring,1.895.000,26-02-2007,Alm. Salg,9.334,6,Villa,203,1977,,Aktuel værdi
+Grønnevej 247160 Tørring,ring,1.050.000,23-02-2007,Fam. Salg,9.051,4,Villa,116,1958,,Aktuel værdi
+Ølholm Bygade 267160 Tørring,ring,700.000,14-02-2007,Alm. Salg,4.666,4,Villa,150,1900,,Aktuel værdi
+Liselundvej 87160 Tørring,ring,2.512.300,09-02-2007,Alm. Salg,15.900,7,Villa,158,1877,,Aktuel værdi
+Nørremarksvej 57160 Tørring,ring,1.325.000,08-02-2007,Alm. Salg,7.658,3,Villa,173,1910,,Aktuel værdi
+Dådyrvej 87160 Tørring,ring,1.325.000,30-01-2007,Alm. Salg,10.515,5,Villa,126,1985,-4 %,Aktuel værdi
+Fousingvej 107160 Tørring,ring,1.650.000,30-01-2007,Alm. Salg,8.250,7,Villa,200,1850,,Aktuel værdi
+Østergårdsvej 17160 Tørring,ring,3.400.000,22-01-2007,Alm. Salg,18.579,3,Stuehus,183,2000,,
+Østervang 187160 Tørring,ring,1.615.000,18-01-2007,Alm. Salg,11.875,5,Villa,136,1985,,Aktuel værdi
+Sikavej 177160 Tørring,ring,406.188,02-01-2007,Alm. Salg,2.321,5,Villa,175,2008,,Aktuel værdi
+Søndervang 97160 Tørring,ring,350.000,01-01-2007,Alm. Salg,2.631,3,Villa,133,2007,,Aktuel værdi
+Ølholm Bygade 297160 Tørring,ring,940.000,25-12-2006,Alm. Salg,7.966,3,Rækkehus,118,1825,,Aktuel værdi
+Nyvej 117160 Tørring,ring,605.000,13-12-2006,Alm. Salg,6.436,3,Villa,94,1933,,Aktuel værdi
+Solfang 97160 Tørring,ring,1.000.000,11-12-2006,Alm. Salg,6.410,4,Villa,156,1976,,Aktuel værdi
+Sønderbrogade 137160 Tørring,ring,1.025.000,08-12-2006,Alm. Salg,14.436,3,Villa,71,1954,,Aktuel værdi
+Østerkærvej 17160 Tørring,ring,970.502,06-12-2006,Alm. Salg,-,6,Villa,213,1924,,Aktuel værdi
+Københavnervej 47160 Tørring,ring,300.498,06-12-2006,Alm. Salg,1.437,7,Stuehus,209,1870,,
+Dybdalvej 107160 Tørring,ring,2.400.000,24-11-2006,Alm. Salg,11.374,7,Villa,211,1922,,Aktuel værdi
+Købmagergade 57160 Tørring,ring,800.000,22-11-2006,Alm. Salg,-,3,Villa,122,1939,,Aktuel værdi
+Mattrupvej 217160 Tørring,ring,200.000,06-11-2006,Alm. Salg,2.564,3,Villa,78,1928,,Aktuel værdi
+Svinget 157160 Tørring,ring,395.250,06-11-2006,Fam. Salg,3.239,9,Villa,122,1970,,Aktuel værdi
+Aagade 197160 Tørring,ring,750.000,06-11-2006,Alm. Salg,4.601,6,Rækkehus,163,1929,,Aktuel værdi
+Møllevej 27160 Tørring,ring,575.000,06-11-2006,Alm. Salg,9.126,3,Villa,63,1880,,Aktuel værdi
+Alstedvej 37160 Tørring,ring,800.000,06-11-2006,Alm. Salg,-,3,Villa,95,1917,,Aktuel værdi
+Solvej 37160 Tørring,ring,1.270.000,04-11-2006,Alm. Salg,10.583,3,Villa,120,1940,,Aktuel værdi
+Vejlevej 617160 Tørring,ring,1.200.000,31-10-2006,Alm. Salg,11.214,4,Villa,107,1956,,Aktuel værdi
+Hjortsvang Kærvej 67160 Tørring,ring,1.625.000,26-10-2006,Alm. Salg,9.908,6,Stuehus,164,1897,,
+Aalevej 237160 Tørring,ring,975.000,16-10-2006,Alm. Salg,7.926,4,Villa,123,1958,,Aktuel værdi
+Solfang 207160 Tørring,ring,1.200.000,13-10-2006,Alm. Salg,9.677,3,Villa,124,1918,,Aktuel værdi
+Borgergade 127160 Tørring,ring,1.145.000,03-10-2006,Alm. Salg,8.178,4,Villa,140,1973,,Aktuel værdi
+Brædstrupvej 457160 Tørring,ring,1.200.000,02-10-2006,Alm. Salg,7.643,5,Villa,157,1880,,Aktuel værdi
+Østervang 197160 Tørring,ring,1.645.000,27-09-2006,Alm. Salg,11.114,4,Villa,148,1988,,Aktuel værdi
+Møllevej 17160 Tørring,ring,735.000,24-09-2006,Alm. Salg,6.125,3,Villa,120,1900,,Aktuel værdi
+Abildtoft 37160 Tørring,ring,1.395.000,15-09-2006,Alm. Salg,8.664,4,Villa,161,1977,,Aktuel værdi
+Skovhussvinget 127160 Tørring,ring,670.000,13-09-2006,Alm. Salg,6.203,3,Villa,108,1890,,Aktuel værdi
+Viborg Hovedvej 777160 Tørring,ring,2.700.000,06-09-2006,Fam. Salg,14.210,8,Stuehus,190,1903,,
+Søndervang 187160 Tørring,ring,750.000,04-09-2006,Alm. Salg,8.522,4,Villa,88,1964,,Aktuel værdi
+Sikavej 257160 Tørring,ring,457.988,30-08-2006,Alm. Salg,2.758,3,Villa,166,2007,,Aktuel værdi
+Sikavej 297160 Tørring,ring,524.628,30-08-2006,Alm. Salg,2.732,7,Villa,192,2007,,Aktuel værdi
+Sikavej 277160 Tørring,ring,469.028,30-08-2006,Alm. Salg,3.500,4,Villa,134,2007,,Aktuel værdi
+Fousingvej 67160 Tørring,ring,1.860.000,23-08-2006,Alm. Salg,7.265,8,Villa,256,1986,,Aktuel værdi
+Gudenåvænget 27160 Tørring,ring,374.757,15-08-2006,Alm. Salg,2.998,4,Villa,125,2007,,Aktuel værdi
+Gudenåvænget 187160 Tørring,ring,432.117,15-08-2006,Alm. Salg,3.086,6,Villa,140,2007,,Aktuel værdi
+Abildtoft 77160 Tørring,ring,1.410.000,13-08-2006,Alm. Salg,8.057,5,Villa,175,1975,,Aktuel værdi
+Vongevej 327160 Tørring,ring,1.200.000,11-08-2006,Alm. Salg,9.448,6,Villa,127,1970,,Aktuel værdi
+Seren P Hansens Vej 27160 Tørring,ring,1.100.000,08-08-2006,Alm. Salg,7.096,6,Villa,155,1913,,Aktuel værdi
+Bygade 127160 Tørring,ring,885.000,07-08-2006,Alm. Salg,6.232,6,Villa,142,1912,,Aktuel værdi
+Hans Jensens Vej 117160 Tørring,ring,815.000,27-07-2006,Alm. Salg,6.791,4,Rækkehus,120,1918,,Aktuel værdi
+Omannsvej 37160 Tørring,ring,535.628,24-07-2006,Alm. Salg,-,6,Villa,150,1977,,Aktuel værdi
+Grønlund 247160 Tørring,ring,218.000,23-07-2006,Alm. Salg,1.524,6,Villa,143,2007,,Aktuel værdi
+Bækvej 157160 Tørring,ring,1.000.000,19-07-2006,Fam. Salg,5.649,9,Villa,177,1969,,Aktuel værdi
+Hvolgårdsvej 327160 Tørring,ring,6.760.880,11-07-2006,Alm. Salg,45.681,5,Stuehus,148,1902,,
+Nyborgvej 107160 Tørring,ring,852.400,11-07-2006,Alm. Salg,-,10,Stuehus,424,1980,,
+Sikavej 57160 Tørring,ring,2.400.000,23-06-2006,Alm. Salg,14.457,6,Villa,166,2001,,Aktuel værdi
+Gudenåvænget 87160 Tørring,ring,418.797,22-06-2006,Alm. Salg,2.301,6,Villa,182,2007,,Aktuel værdi
+Bygade 27160 Tørring,ring,785.000,21-06-2006,Alm. Salg,5.489,6,Villa,143,1904,,Aktuel værdi
+Uldumvej 37160 Tørring,ring,865.000,19-06-2006,Alm. Salg,9.829,3,Villa,88,1966,,Aktuel værdi
+Torvegade 123E7160 Tørring,ring,272.175,12-06-2006,Alm. Salg,1.395,6,Villa,195,2009,,Aktuel værdi
+Stougårds Alle 27160 Tørring,ring,905.000,01-06-2006,Alm. Salg,-,7,Villa,145,1968,,Aktuel værdi
+Solfang 197160 Tørring,ring,1.495.000,29-05-2006,Alm. Salg,11.074,4,Villa,135,1971,,Aktuel værdi
+Fousingvej 87160 Tørring,ring,1.159.487,12-05-2006,Alm. Salg,6.102,8,Stuehus,190,1826,,
+Gudenåvænget 167160 Tørring,ring,383.277,27-04-2006,Alm. Salg,3.017,3,Villa,127,2009,,Aktuel værdi
+Guldagervænget 367160 Tørring,ring,316.385,26-04-2006,Alm. Salg,1.861,5,Villa,170,2006,,Aktuel værdi
+Hjortsvangvej 127160 Tørring,ring,1.235.000,25-04-2006,Alm. Salg,6.333,5,Villa,195,1890,,Aktuel værdi
+Østervang 27160 Tørring,ring,1.450.000,21-04-2006,Alm. Salg,8.285,7,Villa,175,1978,,Aktuel værdi
+Sønderbrogade 497160 Tørring,ring,1.260.000,18-04-2006,Alm. Salg,8.129,5,Villa,155,1973,,Aktuel værdi
+Søndre Fælledvej 257160 Tørring,ring,2.600.000,05-04-2006,Alm. Salg,-,5,Villa,242,1932,,Aktuel værdi
+Vejlevej 737160 Tørring,ring,775.000,27-03-2006,Alm. Salg,5.272,6,Villa,147,1942,,Aktuel værdi
+Svalevej 127160 Tørring,ring,1.004.375,27-03-2006,Alm. Salg,8.369,4,Villa,120,1972,,Aktuel værdi
+Solfang 147160 Tørring,ring,950.000,27-03-2006,Fam. Salg,9.047,4,Villa,105,1920,,Aktuel værdi
+Postvej 67160 Tørring,ring,266.068,27-03-2006,Andet,2.660,4,Rækkehus,100,1902,,Aktuel værdi
+J P Nielsens Vej 25A7160 Tørring,ring,1.175.000,18-03-2006,Alm. Salg,10.491,4,Villa,112,1992,,Aktuel værdi
+Aagade 77160 Tørring,ring,500.000,09-03-2006,Alm. Salg,4.504,5,Villa,111,1907,,Aktuel værdi
+Viborgvej 97160 Tørring,ring,1.758.000,27-02-2006,Alm. Salg,6.278,6,Villa,280,1899,,Aktuel værdi
+Kyndesens Eng 37160 Tørring,ring,240.000,22-02-2006,Alm. Salg,1.311,6,Villa,183,2007,,Aktuel værdi
+Guldagervænget 407160 Tørring,ring,407.665,21-02-2006,Alm. Salg,2.264,6,Villa,180,2006,,Aktuel værdi
+Abildtoft 147160 Tørring,ring,1.060.000,17-02-2006,Alm. Salg,6.973,5,Villa,152,1973,,Aktuel værdi
+Hammer Møllevej 117160 Tørring,ring,3.150.000,14-02-2006,Alm. Salg,-,7,Sommerhus,248,1920,,Aktuel værdi
+Bredgade 44A7160 Tørring,ring,1.400.000,09-02-2006,Alm. Salg,11.111,6,Villa,126,1999,,Aktuel værdi
+Byvang 67160 Tørring,ring,1.600.000,09-02-2006,Alm. Salg,10.126,5,Villa,158,1973,,Aktuel værdi
+Alsted Møllevej 87160 Tørring,ring,3.041.902,06-02-2006,Fam. Salg,12.674,8,Stuehus,240,1856,,
+Vongevej 367160 Tørring,ring,1.075.000,03-02-2006,Alm. Salg,8.669,5,Villa,124,1966,,Aktuel værdi
+Hammervej 237160 Tørring,ring,330.000,01-02-2006,Alm. Salg,2.869,4,Villa,115,1906,,Aktuel værdi
+Rønne Alle 37160 Tørring,ring,1.690.000,20-01-2006,Alm. Salg,9.234,6,Villa,183,1980,,Aktuel værdi
+Overbygård 87160 Tørring,ring,1.550.000,19-01-2006,Alm. Salg,12.109,4,Villa,128,1988,,Aktuel værdi
+Vibevej 367160 Tørring,ring,1.060.000,18-01-2006,Alm. Salg,6.883,5,Villa,154,1969,,Aktuel værdi
+Aagade 23A7160 Tørring,ring,1.470.000,16-01-2006,Alm. Salg,10.888,4,Villa,135,2004,,Aktuel værdi
+Vejlevej 427160 Tørring,ring,1.015.000,11-01-2006,Alm. Salg,7.463,5,Villa,136,1968,,Aktuel værdi
+Solfang 247160 Tørring,ring,475.000,06-01-2006,Alm. Salg,3.958,3,Rækkehus,120,1920,,Aktuel værdi
+Kirkestien 27160 Tørring,ring,785.000,30-12-2005,Alm. Salg,7.621,4,Villa,103,1930,,Aktuel værdi
+Vongevej 137160 Tørring,ring,725.000,22-12-2005,Alm. Salg,8.055,4,Villa,90,1940,,Aktuel værdi
+Bækvej 77160 Tørring,ring,1.000.000,12-12-2005,Fam. Salg,6.711,6,Villa,149,1825,,Aktuel værdi
+Møllevej 287160 Tørring,ring,565.000,12-12-2005,Auktion,4.829,5,Villa,117,1943,,Aktuel værdi
+Grønlund 107160 Tørring,ring,274.000,08-12-2005,Alm. Salg,1.826,5,Villa,150,2007,,Aktuel værdi
+Sikavej 47160 Tørring,ring,399.435,24-11-2005,Alm. Salg,2.593,6,Villa,154,2006,,Aktuel værdi
+Pile Alle 37160 Tørring,ring,1.700.000,20-11-2005,Alm. Salg,10.897,6,Villa,156,2001,,Aktuel værdi
+Tværvejen 27160 Tørring,ring,735.000,18-11-2005,Alm. Salg,9.671,7,Villa,76,1938,,Aktuel værdi
+Borgergade 497160 Tørring,ring,990.000,07-11-2005,Alm. Salg,6.265,6,Villa,158,1944,,Aktuel værdi
+Aagade 157160 Tørring,ring,685.000,04-11-2005,Alm. Salg,5.708,4,Villa,120,1934,,Aktuel værdi
+Skolevej 437160 Tørring,ring,1.150.000,04-11-2005,Alm. Salg,10.000,3,Villa,115,1972,,Aktuel værdi
+Guldagervænget 267160 Tørring,ring,470.105,03-11-2005,Alm. Salg,1.858,8,Villa,253,2007,,Aktuel værdi
+Gudenåvænget 147160 Tørring,ring,529.557,03-11-2005,Alm. Salg,2.068,6,Villa,256,2007,,Aktuel værdi
+Gudenåvænget 107160 Tørring,ring,377.637,03-11-2005,Alm. Salg,1.936,5,Villa,195,2010,,Aktuel værdi
+Gudenåvænget 127160 Tørring,ring,453.717,03-11-2005,Alm. Salg,2.534,6,Villa,179,2007,,Aktuel værdi
+Aalevej 37160 Tørring,ring,1.025.000,23-10-2005,Alm. Salg,9.669,3,Villa,106,1949,,Aktuel værdi
+Viborg Hovedvej 1197160 Tørring,ring,1.775.000,20-10-2005,Alm. Salg,9.342,5,Stuehus,190,1974,,
+Nyvej 37160 Tørring,ring,575.000,19-10-2005,Alm. Salg,6.250,4,Villa,92,1934,,Aktuel værdi
+Sønderkærvej 107160 Tørring,ring,2.060.000,17-10-2005,Alm. Salg,-,6,Villa,238,1908,,Aktuel værdi
+Askevej 37160 Tørring,ring,134.565,14-10-2005,Alm. Salg,909,5,Villa,148,2008,,Aktuel værdi
+Sønderbrogade 447160 Tørring,ring,675.000,12-10-2005,Alm. Salg,7.500,3,Villa,90,1920,,Aktuel værdi
+Østergade 197160 Tørring,ring,780.000,07-10-2005,Alm. Salg,5.492,8,Villa,142,1962,,Aktuel værdi
+Borgergade 327160 Tørring,ring,825.000,27-09-2005,Alm. Salg,5.892,6,Villa,140,1912,,Aktuel værdi
+Stougårds Alle 77160 Tørring,ring,689.000,21-09-2005,Andet,3.765,5,Villa,183,1969,,Aktuel værdi
+Hagevej 57160 Tørring,ring,925.000,21-09-2005,Alm. Salg,-,8,Villa,163,1910,,Aktuel værdi
+Stougårds Alle 117160 Tørring,ring,810.000,16-09-2005,Alm. Salg,5.225,7,Villa,155,1970,,Aktuel værdi
+Slårupvej 167160 Tørring,ring,1.050.000,14-09-2005,Alm. Salg,6.287,5,Villa,167,1979,,Aktuel værdi
+Stations Alle 37160 Tørring,ring,90.000,31-08-2005,Alm. Salg,1.125,2,Villa,80,2007,,Aktuel værdi
+Kyndesens Eng 17160 Tørring,ring,250.000,30-08-2005,Alm. Salg,2.032,4,Villa,123,2009,,Aktuel værdi
+Stenagervej 127160 Tørring,ring,860.000,30-08-2005,Alm. Salg,5.931,4,Villa,145,1900,,Aktuel værdi
+Alsted Skovvej 87160 Tørring,ring,760.000,24-08-2005,Alm. Salg,5.671,6,Villa,134,1875,,Aktuel værdi
+Borgergade 277160 Tørring,ring,900.000,23-08-2005,Alm. Salg,3.333,5,Villa,270,1942,,Aktuel værdi
+Stougårds Alle 97160 Tørring,ring,1.100.000,22-08-2005,Alm. Salg,5.851,5,Villa,188,1970,,Aktuel værdi
+Skovhussvinget 67160 Tørring,ring,775.000,19-08-2005,Alm. Salg,6.054,6,Villa,128,1910,,Aktuel værdi
+Omannsvej 47160 Tørring,ring,935.000,18-08-2005,Alm. Salg,6.151,5,Villa,152,1974,,Aktuel værdi
+Askevej 97160 Tørring,ring,130.145,18-08-2005,Alm. Salg,667,5,Villa,195,2007,,Aktuel værdi
+Solvej 17160 Tørring,ring,765.000,15-08-2005,Alm. Salg,5.000,3,Villa,153,1946,,Aktuel værdi
+Bækvej 187160 Tørring,ring,578.000,11-08-2005,Fam. Salg,4.624,4,Villa,125,1975,,Aktuel værdi
+Bredgade 37160 Tørring,ring,620.000,03-08-2005,Alm. Salg,-,4,Villa,126,1895,,Aktuel værdi
+Østergade 127160 Tørring,ring,875.000,03-08-2005,Alm. Salg,6.679,4,Villa,131,1954,,Aktuel værdi
+Banevænget 37160 Tørring,ring,580.000,23-07-2005,Alm. Salg,6.744,3,Villa,86,1934,,Aktuel værdi
+Nyvej 177160 Tørring,ring,725.000,04-07-2005,Alm. Salg,6.712,4,Villa,108,1965,,Aktuel værdi
+Vejlevej 467160 Tørring,ring,409.000,30-06-2005,Fam. Salg,2.840,4,Villa,144,1972,,Aktuel værdi
+Ølholm Bygade 227160 Tørring,ring,1.285.000,28-06-2005,Alm. Salg,9.518,4,Villa,135,1900,,Aktuel værdi
+Guldager 27160 Tørring,ring,244.660,22-06-2005,Alm. Salg,1.382,7,Villa,177,2006,,Aktuel værdi
+Bygade 207160 Tørring,ring,1.295.000,18-06-2005,Alm. Salg,9.055,6,Villa,143,1922,,Aktuel værdi
+Søndervang 197160 Tørring,ring,1.230.000,17-06-2005,Alm. Salg,7.068,6,Villa,174,1972,,Aktuel værdi
+Rogårdsvej 57160 Tørring,ring,825.000,07-06-2005,Alm. Salg,4.768,4,Villa,173,1925,,Aktuel værdi
+Dådyrvej 107160 Tørring,ring,1.350.000,06-06-2005,Alm. Salg,-,5,Villa,143,1985,,Aktuel værdi
+Byvang 57160 Tørring,ring,1.530.000,06-06-2005,Alm. Salg,7.927,7,Villa,193,1973,,Aktuel værdi
+Sikavej 87160 Tørring,ring,378.645,02-06-2005,Alm. Salg,2.267,6,Villa,167,2006,,Aktuel værdi
+Nordre Fælledvej 157160 Tørring,ring,748.000,29-05-2005,Fam. Salg,5.342,5,Villa,140,1974,,Aktuel værdi
+Østermarksvej 87160 Tørring,ring,4.481.431,23-05-2005,Alm. Salg,21.340,7,Stuehus,210,1907,,
+Søndervang 17160 Tørring,ring,1.225.000,23-05-2005,Alm. Salg,8.333,6,Villa,147,1980,,Aktuel værdi
+Bjerggårdsvej 77160 Tørring,ring,1.360.000,18-05-2005,Alm. Salg,8.774,4,Villa,155,1942,,Aktuel værdi
+Kandborgvej 57160 Tørring,ring,1.657.000,13-05-2005,Fam. Salg,-,6,Stuehus,196,1980,,
+Aagade 67160 Tørring,ring,875.000,11-05-2005,Alm. Salg,9.210,3,Rækkehus,95,1988,,Aktuel værdi
+Vongevej 117160 Tørring,ring,810.000,03-05-2005,Alm. Salg,6.136,5,Villa,132,1930,,Aktuel værdi
+Borgergade 617160 Tørring,ring,534.498,03-05-2005,Andet,3.493,6,Villa,153,1969,,Aktuel værdi
+Sikavej 147160 Tørring,ring,401.489,25-04-2005,Alm. Salg,2.607,6,Villa,154,2005,,Aktuel værdi
+Bækvej 257160 Tørring,ring,343.250,21-04-2005,Andet,2.542,3,Villa,135,1915,,Aktuel værdi
+Hørsholmvej 2A7160 Tørring,ring,975.000,18-04-2005,Alm. Salg,7.500,3,Villa,130,1900,,Aktuel værdi
+Kirkevej 17160 Tørring,ring,740.000,01-04-2005,Alm. Salg,7.115,6,Villa,104,1927,,Aktuel værdi
+Aale Bygade 417160 Tørring,ring,700.000,31-03-2005,Alm. Salg,6.086,5,Villa,115,1947,,Aktuel værdi
+Sikavej 27160 Tørring,ring,352.393,30-03-2005,Alm. Salg,2.244,6,Villa,157,2005,,Aktuel værdi
+Grønlund 187160 Tørring,ring,279.000,24-03-2005,Alm. Salg,2.097,5,Villa,133,2006,,Aktuel værdi
+Brædstrupvej 687160 Tørring,ring,1.250.000,23-03-2005,Alm. Salg,5.841,6,Villa,214,1890,,Aktuel værdi
+Rådyrvej 67160 Tørring,ring,970.000,23-03-2005,Alm. Salg,7.760,4,Villa,125,1980,,Aktuel værdi
+Borgergade 17160 Tørring,ring,1.100.000,18-03-2005,Alm. Salg,8.208,4,Villa,134,1827,,Aktuel værdi
+Hammervej 87160 Tørring,ring,48.000,15-03-2005,Alm. Salg,266,6,Villa,180,1900,,Aktuel værdi
+J P Nielsens Vej 87160 Tørring,ring,875.000,15-03-2005,Alm. Salg,-,6,Villa,139,1962,,Aktuel værdi
+Brædstrupvej 437160 Tørring,ring,690.000,14-03-2005,Alm. Salg,5.847,3,Villa,118,1964,,Aktuel værdi
+Skolestien 67160 Tørring,ring,1.451.000,07-03-2005,Alm. Salg,8.016,6,Villa,181,1941,,Aktuel værdi
+Uldumvej 177160 Tørring,ring,1.600.000,07-03-2005,Alm. Salg,-,7,Villa,264,1924,,Aktuel værdi
+Grønlund 127160 Tørring,ring,294.000,06-03-2005,Alm. Salg,2.210,5,Villa,133,2006,,Aktuel værdi
+Tingvejen 117160 Tørring,ring,1.700.000,01-03-2005,Alm. Salg,-,6,Stuehus,186,1900,,
+Aale Bygade 57160 Tørring,ring,380.000,28-02-2005,Alm. Salg,5.135,4,Villa,74,1961,,Aktuel værdi
+Solfang 67160 Tørring,ring,940.000,28-02-2005,Alm. Salg,8.173,3,Villa,115,1950,,Aktuel værdi
+Sønderkærvej 167160 Tørring,ring,1.650.000,28-02-2005,Alm. Salg,5.140,6,Villa,321,1916,,Aktuel værdi
+Uldumvej 287160 Tørring,ring,625.000,25-02-2005,Alm. Salg,3.255,5,Stuehus,192,1890,,
+Vongevej 67160 Tørring,ring,965.000,24-02-2005,Alm. Salg,8.041,5,Villa,120,1907,,Aktuel værdi
+Brædstrupvej 337160 Tørring,ring,525.000,11-02-2005,Alm. Salg,5.198,4,Villa,101,1906,,Aktuel værdi
+Sikavej 37160 Tørring,ring,321.750,10-02-2005,Alm. Salg,2.533,4,Villa,127,2006,,Aktuel værdi
+Rønne Alle 17160 Tørring,ring,900.000,06-02-2005,Alm. Salg,7.563,4,Villa,119,1980,,Aktuel værdi
+Solfang 367160 Tørring,ring,1.455.000,03-02-2005,Alm. Salg,7.311,7,Villa,199,1976,,Aktuel værdi
+Askevej 107160 Tørring,ring,100.625,01-02-2005,Alm. Salg,653,6,Villa,154,2005,,Aktuel værdi
+Aalevej 517160 Tørring,ring,990.000,31-01-2005,Alm. Salg,-,8,Stuehus,258,1910,,
+Askevej 187160 Tørring,ring,1.975.000,31-01-2005,Alm. Salg,9.587,5,Villa,206,2001,,Aktuel værdi
+Borgergade 417160 Tørring,ring,880.000,25-01-2005,Alm. Salg,6.376,4,Villa,138,1913,,Aktuel værdi
+Skolestien 17160 Tørring,ring,995.000,09-01-2005,Alm. Salg,8.024,3,Villa,124,1943,,Aktuel værdi
+Hjortsvangvej 19A7160 Tørring,ring,1.395.000,07-01-2005,Alm. Salg,8.063,7,Villa,173,1978,,Aktuel værdi
+Østergade 77160 Tørring,ring,600.000,23-12-2004,Alm. Salg,6.818,3,Villa,88,1902,,Aktuel værdi
+Skovhussvinget 147160 Tørring,ring,7.281.000,22-12-2004,Alm. Salg,47.279,4,Stuehus,154,1998,,
+Kodamvej 37160 Tørring,ring,525.000,18-12-2004,Alm. Salg,2.692,9,Stuehus,195,1872,,
+Torvegade 497160 Tørring,ring,290.000,08-12-2004,Alm. Salg,2.301,5,Villa,126,1979,,Aktuel værdi
+Grønlund 207160 Tørring,ring,260.000,08-12-2004,Alm. Salg,1.656,7,Villa,157,2005,,Aktuel værdi
+Aale Bygade 437160 Tørring,ring,595.000,07-12-2004,Alm. Salg,6.611,4,Villa,90,1964,,Aktuel værdi
+Sikavej 107160 Tørring,ring,304.912,19-11-2004,Alm. Salg,1.954,6,Villa,156,2005,,Aktuel værdi
+Sønderbrogade 867160 Tørring,ring,925.000,08-11-2004,Alm. Salg,11.708,3,Villa,79,1972,,Aktuel værdi
+J P Nielsens Vej 1B7160 Tørring,ring,225.000,01-11-2004,Alm. Salg,1.800,3,Villa,125,2005,,Aktuel værdi
+Raskvej 17160 Tørring,ring,625.000,13-10-2004,Alm. Salg,4.528,4,Villa,138,1934,,Aktuel værdi
+Svinget 277160 Tørring,ring,850.000,30-08-2004,Alm. Salg,5.120,6,Villa,166,1966,,Aktuel værdi
+Skovvej 77160 Tørring,ring,765.000,20-08-2004,Alm. Salg,5.464,5,Villa,140,1920,,Aktuel værdi
+Vestergårdsvej 47160 Tørring,ring,100.000,13-08-2004,Alm. Salg,645,7,Stuehus,155,1900,,
+Østervang 47160 Tørring,ring,1.100.000,30-07-2004,Alm. Salg,5.092,10,Villa,216,1976,,Aktuel værdi
+Østergade 137160 Tørring,ring,725.000,30-07-2004,Alm. Salg,6.415,4,Villa,113,1956,,Aktuel værdi
+Nyvej 147160 Tørring,ring,980.000,07-07-2004,Alm. Salg,6.363,5,Villa,154,1980,,Aktuel værdi
+Hjortevej 67160 Tørring,ring,927.500,03-05-2004,Alm. Salg,6.266,5,Villa,148,1976,,Aktuel værdi
+Tværvejen 47160 Tørring,ring,650.000,03-05-2004,Alm. Salg,-,6,Villa,249,1870,,Aktuel værdi
+Sønderbrogade 417160 Tørring,ring,450.000,20-04-2004,Alm. Salg,5.357,4,Villa,84,1933,,Aktuel værdi
+Hagevej 97160 Tørring,ring,460.000,29-03-2004,Alm. Salg,3.565,3,Villa,129,1900,,Aktuel værdi
+Bøgevej 27160 Tørring,ring,750.000,28-03-2004,Alm. Salg,5.244,3,Villa,143,1976,,Aktuel værdi
+Rosavej 87160 Tørring,ring,923.000,26-03-2004,Alm. Salg,7.100,5,Villa,130,1977,,Aktuel værdi
+Hagevej 77160 Tørring,ring,545.000,26-03-2004,Alm. Salg,3.096,6,Villa,176,1900,,Aktuel værdi
+Bredgade 23A7160 Tørring,ring,875.000,25-03-2004,Alm. Salg,5.833,8,Villa,150,1988,,Aktuel værdi
+Pogensvej 27160 Tørring,ring,930.000,11-03-2004,Alm. Salg,6.241,4,Villa,149,1930,,Aktuel værdi
+Fousingvej 27160 Tørring,ring,550.000,05-03-2004,Alm. Salg,5.500,2,Villa,100,1950,,Aktuel værdi
+Smalålevej 57160 Tørring,ring,1.275.000,04-03-2004,Fam. Salg,7.589,7,Stuehus,168,1906,,
+Torvegade 997160 Tørring,ring,2.000.000,01-03-2004,Alm. Salg,14.814,6,Villa,135,1989,,Aktuel værdi
+Dådyrvej 117160 Tørring,ring,800.000,12-02-2004,Alm. Salg,5.882,5,Villa,136,1975,,Aktuel værdi
+Firhøjvej 87160 Tørring,ring,1.070.000,01-02-2004,Alm. Salg,3.203,6,Stuehus,334,1898,,
+Aagade 327160 Tørring,ring,1.067.277,30-01-2004,Alm. Salg,10.672,5,Villa,100,1955,,Aktuel værdi
+Torvegade 78C7160 Tørring,ring,195.000,28-01-2004,Alm. Salg,1.300,6,Villa,150,2004,,Aktuel værdi
+Viborgvej 327160 Tørring,ring,800.000,26-01-2004,Fam. Salg,8.333,3,Villa,96,1966,,Aktuel værdi
+Firhøjvej 47160 Tørring,ring,42.500,20-01-2004,Alm. Salg,379,3,Villa,112,1909,,Aktuel værdi
+Brædstrupvej 577160 Tørring,ring,102.875,16-01-2004,Alm. Salg,902,3,Stuehus,114,1930,,
+Sønderkærvej 187160 Tørring,ring,1.700.000,16-01-2004,Alm. Salg,-,6,Villa,177,1868,,Aktuel værdi
+Elsdyrvej 207160 Tørring,ring,700.000,04-01-2004,Alm. Salg,4.320,6,Villa,162,1976,,Aktuel værdi
+Vejlevej 297160 Tørring,ring,867.500,19-12-2003,Alm. Salg,5.421,6,Villa,160,1966,,Aktuel værdi
+Stenagervej 87160 Tørring,ring,1.110.744,11-12-2003,Alm. Salg,5.696,6,Villa,195,1935,,Aktuel værdi
+Rogårdsvej 67160 Tørring,ring,200.000,05-12-2003,Alm. Salg,3.571,2,Villa,56,1947,,Aktuel værdi
+Vongevej 267160 Tørring,ring,781.000,27-11-2003,Alm. Salg,7.810,4,Villa,100,1966,,Aktuel værdi
+Københavnervej 37160 Tørring,ring,283.333,14-11-2003,Andet,1.115,8,Villa,254,1920,,Aktuel værdi
+Kandborgvej 97160 Tørring,ring,976.000,29-10-2003,Alm. Salg,8.066,5,Villa,121,1986,,Aktuel værdi
+Lydiavej 67160 Tørring,ring,910.000,08-10-2003,Alm. Salg,5.321,6,Villa,171,1973,,Aktuel værdi
+Spurvevej 277160 Tørring,ring,910.575,04-10-2003,Alm. Salg,8.130,4,Villa,112,1997,,Aktuel værdi
+Damgårdsvej 87160 Tørring,ring,445.000,02-10-2003,Alm. Salg,3.677,4,Villa,121,1946,,Aktuel værdi
+Hjortsvangvej 37160 Tørring,ring,544.000,30-09-2003,Fam. Salg,-,6,Villa,146,1850,,Aktuel værdi
+Vejlevej 907160 Tørring,ring,585.000,12-09-2003,Alm. Salg,3.145,8,Villa,186,1902,,Aktuel værdi
+Hammer Møllevej 47160 Tørring,ring,1.145.000,05-09-2003,Alm. Salg,7.435,7,Villa,154,1921,,Aktuel værdi
+Brædstrupvej 617160 Tørring,ring,375.000,01-09-2003,Alm. Salg,1.659,6,Villa,226,1892,,Aktuel værdi
+Skovhussvinget 27160 Tørring,ring,1.500.000,14-08-2003,Alm. Salg,10.000,4,Villa,150,1931,,Aktuel værdi
+Vejlevej 757160 Tørring,ring,660.000,16-07-2003,Alm. Salg,6.168,4,Villa,107,1942,,Aktuel værdi
+Firhøjvej 37160 Tørring,ring,8.003.279,15-07-2003,Fam. Salg,30.781,7,Stuehus,260,1978,,
+Bjerggårdsvej 37160 Tørring,ring,525.000,07-07-2003,Alm. Salg,4.646,4,Villa,113,1949,,Aktuel værdi
+Nørremarksvej 27160 Tørring,ring,715.000,27-06-2003,Alm. Salg,4.181,6,Villa,171,1875,,Aktuel værdi
+Sikavej 157160 Tørring,ring,289.025,25-06-2003,Alm. Salg,1.623,7,Villa,178,2004,,Aktuel værdi
+Sønderbrogade 257160 Tørring,ring,400.000,24-06-2003,Alm. Salg,2.702,6,Rækkehus,148,1911,,Aktuel værdi
+Aalevej 587160 Tørring,ring,588.794,15-06-2003,Andet,2.117,10,Villa,278,1886,,Aktuel værdi
+Sønderbrogade 707160 Tørring,ring,595.000,04-06-2003,Alm. Salg,7.531,3,Villa,79,1945,,Aktuel værdi
+Nyvej 87160 Tørring,ring,650.000,02-06-2003,Alm. Salg,5.555,4,Villa,117,1934,,Aktuel værdi
+Spurvevej 137160 Tørring,ring,1.340.000,02-06-2003,Alm. Salg,8.933,5,Villa,150,1988,,Aktuel værdi
+Abildtoft 87160 Tørring,ring,750.000,28-05-2003,Alm. Salg,5.813,4,Villa,129,1975,,Aktuel værdi
+Torvegade 577160 Tørring,ring,1.550.000,22-05-2003,Alm. Salg,9.064,6,Villa,171,2004,,Aktuel værdi
+Uldumvej 207160 Tørring,ring,400.000,19-05-2003,Alm. Salg,4.000,5,Villa,100,1906,,Aktuel værdi
+Ølholm Bygade 187160 Tørring,ring,750.000,07-05-2003,Alm. Salg,3.112,9,Stuehus,241,1870,,
+Pile Alle 17160 Tørring,ring,181.050,01-05-2003,Alm. Salg,1.275,6,Villa,142,2004,,Aktuel værdi
+Hjortevej 157160 Tørring,ring,1.025.000,25-04-2003,Alm. Salg,8.541,4,Villa,120,1977,,Aktuel værdi
+Spurvevej 167160 Tørring,ring,1.350.000,15-04-2003,Fam. Salg,9.121,5,Villa,148,1996,,Aktuel værdi
+Vidtskuevej 47160 Tørring,ring,348.500,31-03-2003,Alm. Salg,2.489,4,Villa,140,1775,,Aktuel værdi
+Slårupvej 37160 Tørring,ring,900.000,31-03-2003,Auktion,3.600,8,Villa,250,1968,,Aktuel værdi
+Købmagergade 37160 Tørring,ring,730.000,18-03-2003,Alm. Salg,5.447,4,Villa,134,1935,,Aktuel værdi
+Elsdyrvej 17160 Tørring,ring,980.000,04-03-2003,Alm. Salg,7.424,3,Villa,132,1974,,Aktuel værdi
+Banevænget 57160 Tørring,ring,1.030.744,27-02-2003,Alm. Salg,-,9,Villa,179,1894,,Aktuel værdi
+Hørsholmvej 187160 Tørring,ring,1.217.000,26-02-2003,Alm. Salg,8.692,5,Villa,140,1908,,Aktuel værdi
+Rosavej 17B7160 Tørring,ring,725.000,07-02-2003,Alm. Salg,9.797,3,Rækkehus,74,1984,,Aktuel værdi
+Bredgade 557160 Tørring,ring,1.400.000,05-02-2003,Alm. Salg,4.761,8,Villa,294,1910,,Aktuel værdi
+Koutrupvej 127160 Tørring,ring,504.196,04-02-2003,Fam. Salg,3.074,5,Villa,164,1923,,Aktuel værdi
+Skolevej 827160 Tørring,ring,1.350.000,27-01-2003,Alm. Salg,7.258,6,Villa,186,1965,,Aktuel værdi
+Aalevej 527160 Tørring,ring,465.000,15-01-2003,Alm. Salg,1.929,6,Stuehus,241,1900,,
+Bredgade 27160 Tørring,ring,557.500,10-12-2002,Fam. Salg,3.982,8,Rækkehus,140,1907,,Aktuel værdi
+Kandborgvej 127160 Tørring,ring,800.000,10-12-2002,Alm. Salg,3.755,8,Villa,213,1850,,Aktuel værdi
+Hjortevej 137160 Tørring,ring,960.000,03-12-2002,Alm. Salg,7.384,4,Villa,130,1977,,Aktuel værdi
+"Vejlevej 1E, 27160 Tørring",ring,340.000,26-11-2002,Alm. Salg,5.230,2,Lejlighed,65,1902,,Aktuel værdi
+Skolevej 627160 Tørring,ring,895.000,21-11-2002,Alm. Salg,7.103,4,Villa,126,1974,,Aktuel værdi
+Nyvej 47160 Tørring,ring,1.230.000,18-11-2002,Alm. Salg,-,6,Villa,217,1978,,Aktuel værdi
+Østergårdsvej 97160 Tørring,ring,650.000,06-11-2002,Fam. Salg,3.140,5,Villa,207,1921,,Aktuel værdi
+Nyvej 67160 Tørring,ring,350.000,23-10-2002,Alm. Salg,-,7,Villa,184,1950,,Aktuel værdi
+Pile Alle 77160 Tørring,ring,1.390.255,26-09-2002,Alm. Salg,9.654,6,Villa,144,1999,,Aktuel værdi
+Uldumvej 247160 Tørring,ring,715.000,18-09-2002,Alm. Salg,7.150,5,Villa,100,1890,,Aktuel værdi
+Rosavej 7B7160 Tørring,ring,561.000,12-09-2002,Fam. Salg,5.843,4,Rækkehus,96,1984,,Aktuel værdi
+Hvolgårdsvej 227160 Tørring,ring,1.325.000,10-09-2002,Alm. Salg,7.886,6,Villa,168,1933,,Aktuel værdi
+Guldager 127160 Tørring,ring,253.240,09-09-2002,Alm. Salg,1.312,8,Villa,193,2003,,Aktuel værdi
+Bygade 57160 Tørring,ring,495.000,06-09-2002,Alm. Salg,6.111,4,Villa,81,1850,,Aktuel værdi
+Nyborgvej 77160 Tørring,ring,40.550,03-09-2002,Alm. Salg,125,8,Stuehus,322,1834,,
+Byvang 17160 Tørring,ring,890.000,03-09-2002,Alm. Salg,7.355,3,Villa,121,1974,,Aktuel værdi
+Postvej 117160 Tørring,ring,520.000,16-08-2002,Alm. Salg,5.200,4,Villa,100,1905,,Aktuel værdi
+Logslundvej 87160 Tørring,ring,950.000,13-08-2002,Alm. Salg,5.397,5,Villa,176,1827,,Aktuel værdi
+Skolevej 77160 Tørring,ring,694.550,29-07-2002,Alm. Salg,4.539,5,Villa,153,1949,,Aktuel værdi
+Spurvevej 427160 Tørring,ring,1.169.505,28-06-2002,Alm. Salg,9.136,6,Villa,128,1991,,Aktuel værdi
+Brædstrupvej 667160 Tørring,ring,750.000,15-06-2002,Alm. Salg,4.076,6,Villa,184,1916,,Aktuel værdi
+Vejlevej 97160 Tørring,ring,964.000,28-05-2002,Alm. Salg,7.194,6,Villa,134,1936,,Aktuel værdi
+Solfang 117160 Tørring,ring,552.500,28-05-2002,Fam. Salg,5.470,3,Villa,101,1963,,Aktuel værdi
+Kyndesens Eng 67160 Tørring,ring,225.000,27-05-2002,Alm. Salg,1.331,6,Villa,169,2005,,Aktuel værdi
+Mosevej 17160 Tørring,ring,115.000,15-05-2002,Alm. Salg,642,5,Stuehus,179,1915,,
+Sikavej 117160 Tørring,ring,308.000,07-05-2002,Alm. Salg,2.248,5,Villa,137,2002,,Aktuel værdi
+Møllevej 127160 Tørring,ring,330.000,03-05-2002,Fam. Salg,5.409,3,Rækkehus,61,1900,,Aktuel værdi
+Ådalvej 527160 Tørring,ring,1.055.000,24-04-2002,Alm. Salg,-,4,Villa,211,1928,,Aktuel værdi
+Slårupvej 117160 Tørring,ring,1.225.000,24-04-2002,Alm. Salg,8.221,6,Villa,149,1976,,Aktuel værdi
+Aagade 187160 Tørring,ring,527.307,17-04-2002,Alm. Salg,5.992,3,Villa,88,1900,,Aktuel værdi
+Askevej 147160 Tørring,ring,65.625,04-04-2002,Alm. Salg,482,4,Villa,136,2003,,Aktuel værdi
+Ølholm Bygade 667160 Tørring,ring,570.000,03-04-2002,Alm. Salg,6.951,3,Villa,82,1963,,Aktuel værdi
+Elmevej 127160 Tørring,ring,685.000,26-03-2002,Alm. Salg,5.708,4,Villa,120,1970,,Aktuel værdi
+Østergade 117160 Tørring,ring,1.350.000,21-03-2002,Alm. Salg,6.250,6,Villa,216,1937,,Aktuel værdi
+Hørsholmvej 207160 Tørring,ring,205.000,20-03-2002,Alm. Salg,836,7,Villa,245,2004,,Aktuel værdi
+Østergårdsvej 67160 Tørring,ring,550.000,12-03-2002,Fam. Salg,2.925,5,Villa,188,1921,,Aktuel værdi
+Sønderbrogade 737160 Tørring,ring,475.000,20-02-2002,Alm. Salg,4.611,5,Villa,103,1950,,Aktuel værdi
+Rådyrvej 157160 Tørring,ring,1.200.000,24-01-2002,Alm. Salg,5.020,6,Villa,239,1974,,Aktuel værdi
+Spurvevej 127160 Tørring,ring,1.350.607,14-01-2002,Alm. Salg,9.064,5,Villa,149,1997,,Aktuel værdi
+Vejlevej 27160 Tørring,ring,971.628,10-01-2002,Alm. Salg,6.794,4,Villa,143,1909,,Aktuel værdi
+Krambovej 57160 Tørring,ring,465.000,28-12-2001,Fam. Salg,-,3,Villa,80,1930,,Aktuel værdi
+Hjortevej 37160 Tørring,ring,1.057.000,14-12-2001,Alm. Salg,7.550,5,Villa,140,1980,,Aktuel værdi
+Elmevej 87160 Tørring,ring,695.000,10-12-2001,Alm. Salg,5.743,4,Villa,121,1974,,Aktuel værdi
+Bygade 17160 Tørring,ring,1.016.250,19-11-2001,Alm. Salg,5.908,6,Villa,172,1935,,Aktuel værdi
+Gudenåvej 37160 Tørring,ring,1.376.000,12-11-2001,Alm. Salg,6.712,6,Villa,205,1988,,Aktuel værdi
+Linnerupvej 67160 Tørring,ring,400.000,02-11-2001,Alm. Salg,5.000,4,Villa,80,1900,,Aktuel værdi
+Mosevej 57160 Tørring,ring,2.600.000,24-10-2001,Alm. Salg,13.402,7,Stuehus,194,1900,,
+Østermarksvej 127160 Tørring,ring,1.914.385,12-10-2001,Alm. Salg,16.087,4,Stuehus,119,1800,,
+Vibevej 197160 Tørring,ring,570.000,07-09-2001,Alm. Salg,5.588,3,Villa,102,1969,,Aktuel værdi
+Skolehaven 97160 Tørring,ring,670.000,06-09-2001,Alm. Salg,3.350,5,Villa,200,1977,,Aktuel værdi
+Ege Alle 17160 Tørring,ring,1.225.000,04-09-2001,Alm. Salg,7.753,6,Villa,158,1998,,Aktuel værdi
+Ølholm Bygade 367160 Tørring,ring,80.000,17-08-2001,Alm. Salg,571,5,Villa,140,1800,,Aktuel værdi
+Guldager 87160 Tørring,ring,240.760,13-08-2001,Alm. Salg,1.605,6,Villa,150,2002,,Aktuel værdi
+Hammervej 47160 Tørring,ring,300.000,06-08-2001,Alm. Salg,-,6,Villa,180,1900,,Aktuel værdi
+Borgergade 387160 Tørring,ring,579.040,13-07-2001,Alm. Salg,7.932,3,Rækkehus,73,1983,,Aktuel værdi
+Hvolgårdsvej 267160 Tørring,ring,513.104,29-06-2001,Alm. Salg,4.240,5,Villa,121,1920,,Aktuel værdi
+Torvegade 797160 Tørring,ring,1.400.000,27-06-2001,Alm. Salg,8.641,5,Villa,162,1985,,Aktuel værdi
+Vongevej 77160 Tørring,ring,500.000,22-06-2001,Alm. Salg,4.132,5,Villa,121,1919,,Aktuel værdi
+Rosavej 227160 Tørring,ring,975.000,18-06-2001,Alm. Salg,8.552,4,Villa,114,1977,,Aktuel værdi
+Vongevej 197160 Tørring,ring,887.497,14-06-2001,Alm. Salg,5.652,7,Villa,157,1969,,Aktuel værdi
+Ådalvej 487160 Tørring,ring,1.300.608,11-06-2001,Alm. Salg,5.419,7,Villa,240,1840,,Aktuel værdi
+Hvolgårdsvej 247160 Tørring,ring,975.000,11-06-2001,Alm. Salg,-,6,Villa,172,1933,,Aktuel værdi
+Askevej 217160 Tørring,ring,812.000,29-05-2001,Alm. Salg,-,4,Villa,225,1989,,Aktuel værdi
+Sønderkærvej 67160 Tørring,ring,318.750,28-05-2001,Fam. Salg,2.490,3,Villa,128,1928,,Aktuel værdi
+Rosavej 307160 Tørring,ring,840.000,19-05-2001,Alm. Salg,7.500,5,Villa,112,1977,,Aktuel værdi
+Svinget 27160 Tørring,ring,1.075.000,16-05-2001,Alm. Salg,4.820,6,Villa,223,1947,,Aktuel værdi
+Hjortsvang Kærvej 147160 Tørring,ring,1.250.657,10-05-2001,Alm. Salg,8.933,4,Villa,140,1907,,Aktuel værdi
+Vesterbyvej 147160 Tørring,ring,440.000,17-04-2001,Alm. Salg,2.189,6,Villa,201,1913,,Aktuel værdi
+Bygade 37160 Tørring,ring,707.416,11-04-2001,Alm. Salg,5.126,5,Villa,138,1917,,Aktuel værdi
+Skovhussvinget 167160 Tørring,ring,350.000,05-04-2001,Alm. Salg,-,7,Villa,205,1875,,Aktuel værdi
+Rogårdsvej 27160 Tørring,ring,1.150.000,04-04-2001,Alm. Salg,6.725,7,Villa,171,1925,,Aktuel værdi
+Borgergade 147160 Tørring,ring,1.045.000,04-04-2001,Alm. Salg,-,7,Villa,194,1976,,Aktuel værdi
+Fælledvej 67160 Tørring,ring,212.500,02-04-2001,Alm. Salg,1.931,6,Villa,110,1960,,Aktuel værdi
+Ølholm Bygade 477160 Tørring,ring,725.000,25-03-2001,Alm. Salg,-,6,Villa,157,1910,,Aktuel værdi
+Mejsevej 27160 Tørring,ring,755.724,18-03-2001,Alm. Salg,7.266,4,Villa,104,1968,,Aktuel værdi
+Slårupvej 27160 Tørring,ring,1.295.000,02-03-2001,Alm. Salg,6.744,6,Villa,192,1980,,Aktuel værdi
+Solfang 287160 Tørring,ring,755.000,22-02-2001,Alm. Salg,-,3,Villa,231,1931,,Aktuel værdi
+Ege Alle 47160 Tørring,ring,835.000,20-02-2001,Alm. Salg,7.455,4,Villa,112,1987,,Aktuel værdi
+Brædstrupvej 627160 Tørring,ring,426.384,15-02-2001,Alm. Salg,1.799,5,Villa,237,2001,,Aktuel værdi
+Banevej 67160 Tørring,ring,1.600.000,05-02-2001,Alm. Salg,-,8,Villa,162,1977,,Aktuel værdi
+Vidtskuevej 37160 Tørring,ring,295.000,05-02-2001,Alm. Salg,1.676,6,Villa,176,1910,,Aktuel værdi
+Koutrupvej 107160 Tørring,ring,450.000,03-02-2001,Alm. Salg,-,3,Villa,180,1926,,Aktuel værdi
+Møllevej 227160 Tørring,ring,666.701,02-02-2001,Alm. Salg,4.273,7,Villa,156,1887,,Aktuel værdi
+Borgergade 457160 Tørring,ring,811.253,27-01-2001,Alm. Salg,3.670,7,Villa,221,1906,,Aktuel værdi
+Vidtskuevej 57160 Tørring,ring,868.000,20-01-2001,Alm. Salg,5.358,6,Villa,162,1910,,Aktuel værdi
+Spurvevej 247160 Tørring,ring,156.000,10-01-2001,Alm. Salg,975,6,Villa,160,2001,,Aktuel værdi
+Raskvej 177160 Tørring,ring,545.570,05-01-2001,Alm. Salg,4.744,4,Villa,115,1924,,Aktuel værdi
+Præstevej 67160 Tørring,ring,513.271,18-12-2000,Alm. Salg,2.673,6,Villa,192,1837,,Aktuel værdi
+"Vejlevej 1B, ST7160 Tørring",ring,447.812,29-11-2000,Alm. Salg,4.763,3,Lejlighed,94,1902,,Aktuel værdi
+Kirkevej 97160 Tørring,ring,1.050.000,27-11-2000,Alm. Salg,7.777,5,Villa,135,1967,,Aktuel værdi
+Viborgvej 247160 Tørring,ring,938.572,22-11-2000,Alm. Salg,4.764,8,Villa,197,1927,,Aktuel værdi
+Nordre Fælledvej 97160 Tørring,ring,900.000,10-11-2000,Alm. Salg,10.714,3,Villa,84,1900,,Aktuel værdi
+Sønderbrogade 247160 Tørring,ring,1.107.922,23-10-2000,Alm. Salg,7.747,6,Villa,143,1920,,Aktuel værdi
+Rønne Alle 27160 Tørring,ring,570.000,04-10-2000,Alm. Salg,5.377,4,Villa,106,1965,,Aktuel værdi
+Omannsvej 137160 Tørring,ring,700.001,28-09-2000,Alm. Salg,-,5,Villa,137,1980,,Aktuel værdi
+Teglværksvej 77160 Tørring,ring,450.000,27-09-2000,Fam. Salg,4.411,4,Villa,102,1949,,Aktuel værdi
+Askevej 207160 Tørring,ring,131.480,22-09-2000,Alm. Salg,-,8,Villa,267,2001,,Aktuel værdi
+Borgergade 517160 Tørring,ring,575.000,19-09-2000,Alm. Salg,5.637,3,Villa,102,1947,,Aktuel værdi
+Pile Alle 27160 Tørring,ring,154.350,29-08-2000,Alm. Salg,-,8,Villa,189,2001,,Aktuel værdi
+Skolevej 217160 Tørring,ring,775.000,17-08-2000,Alm. Salg,5.419,5,Villa,143,1968,,Aktuel værdi
+Vestergårdsvej 17160 Tørring,ring,670.000,10-08-2000,Alm. Salg,4.322,5,Villa,155,1905,,Aktuel værdi
+Aale Bygade 317160 Tørring,ring,575.000,31-07-2000,Alm. Salg,2.457,8,Villa,234,1904,,Aktuel værdi
+Bygade 197160 Tørring,ring,1.118.157,12-07-2000,Alm. Salg,5.675,5,Villa,197,1880,,Aktuel værdi
+Aagade 137160 Tørring,ring,750.000,14-06-2000,Andet,3.846,7,Villa,195,1912,,Aktuel værdi
+Spurvevej 177160 Tørring,ring,725.000,12-06-2000,Fam. Salg,4.447,6,Villa,163,1998,,Aktuel værdi
+Overbygård 517160 Tørring,ring,1.025.735,08-06-2000,Alm. Salg,8.140,5,Villa,126,1986,,Aktuel værdi
+Elmevej 107160 Tørring,ring,784.508,07-06-2000,Alm. Salg,4.903,5,Villa,160,1972,,Aktuel værdi
+Liselundvej 57160 Tørring,ring,100.000,31-05-2000,Alm. Salg,591,4,Stuehus,169,1900,,
+Skolevej 107160 Tørring,ring,282.186,15-05-2000,Alm. Salg,-,4,Villa,98,1946,,Aktuel værdi
+Viggo Pejsens Vej 107160 Tørring,ring,1.100.000,14-04-2000,Alm. Salg,5.882,5,Villa,187,1974,,Aktuel værdi
+Kandborgvej 137160 Tørring,ring,8.480.000,12-04-2000,Alm. Salg,40.189,7,Stuehus,211,1938,,
+Solvej 87160 Tørring,ring,724.058,11-02-2000,Alm. Salg,6.704,3,Villa,108,1967,,Aktuel værdi
+Mattrupvej 287160 Tørring,ring,1.150.000,06-02-2000,Alm. Salg,-,9,Stuehus,219,1904,,
+Bjerggårdsvej 177160 Tørring,ring,100.000,05-02-2000,Alm. Salg,359,9,Stuehus,278,1937,,
+Solfang 327160 Tørring,ring,763.000,01-02-2000,Alm. Salg,7.064,4,Villa,108,1967,,Aktuel værdi
+Skolevej 157160 Tørring,ring,602.000,18-12-1999,Alm. Salg,-,4,Villa,190,1957,,Aktuel værdi
+Raskvej 67160 Tørring,ring,533.444,17-12-1999,Fam. Salg,4.135,7,Villa,129,1926,,Aktuel værdi
+Bygade 327160 Tørring,ring,523.185,09-12-1999,Alm. Salg,5.338,4,Villa,98,1917,,Aktuel værdi
+Elsdyrvej 27160 Tørring,ring,1.125.000,26-11-1999,Alm. Salg,5.921,9,Villa,190,1973,,Aktuel værdi
+Smalålevej 77160 Tørring,ring,965.000,26-11-1999,Alm. Salg,-,8,Villa,171,1905,,Aktuel værdi
+Aale Bygade 87160 Tørring,ring,600.000,18-11-1999,Fam. Salg,4.285,4,Villa,140,1867,,Aktuel værdi
+Bækvej 217160 Tørring,ring,406.965,26-10-1999,Alm. Salg,-,4,Villa,96,1963,,Aktuel værdi
+Østergårdsvej 47160 Tørring,ring,1.650.000,25-10-1999,Alm. Salg,7.971,6,Villa,207,1924,,Aktuel værdi
+Viborg Hovedvej 1047160 Tørring,ring,341.642,11-10-1999,Alm. Salg,-,4,Villa,88,1948,,Aktuel værdi
+Spurvevej 217160 Tørring,ring,70.600,01-09-1999,Andet,-,6,Villa,197,2000,,Aktuel værdi
+Tværvejen 87160 Tørring,ring,195.500,30-08-1999,Fam. Salg,3.910,2,Villa,50,1948,,Aktuel værdi
+Østervang 147160 Tørring,ring,800.000,23-08-1999,Fam. Salg,5.882,5,Villa,136,1975,,Aktuel værdi
+Aalevej 357160 Tørring,ring,1.025.897,06-08-1999,Alm. Salg,-,4,Villa,141,1985,,Aktuel værdi
+"Sønderbrogade 18, 17160 Tørring",ring,536.791,04-08-1999,Alm. Salg,-,2,Lejlighed,73,1900,,Aktuel værdi
+Bredgade 47160 Tørring,ring,1.275.000,28-07-1999,Alm. Salg,15.937,4,Rækkehus,80,1896,,Aktuel værdi
+Grønnevej 267160 Tørring,ring,623.000,19-07-1999,Alm. Salg,-,7,Villa,176,1956,,Aktuel værdi
+Grønnevej 287160 Tørring,ring,650.000,19-07-1999,Alm. Salg,7.222,4,Villa,90,1960,,Aktuel værdi
+Fousingvej 37160 Tørring,ring,928.000,08-07-1999,Alm. Salg,7.365,4,Villa,126,1859,,Aktuel værdi
+Borgergade 207160 Tørring,ring,479.860,03-07-1999,Alm. Salg,2.231,6,Villa,215,1917,,Aktuel værdi
+Elsdyrvej 147160 Tørring,ring,1.228.000,30-06-1999,Alm. Salg,-,5,Villa,216,1976,,Aktuel værdi
+Borgergade 307160 Tørring,ring,606.188,02-06-1999,Alm. Salg,5.137,4,Villa,118,1880,,Aktuel værdi
+Spurvevej 387160 Tørring,ring,61.200,27-05-1999,Alm. Salg,408,6,Villa,150,1999,,Aktuel værdi
+Gudenåvej 147160 Tørring,ring,172.840,26-05-1999,Alm. Salg,929,6,Villa,186,2000,,Aktuel værdi
+Grønnevej 257160 Tørring,ring,90.000,19-05-1999,Alm. Salg,604,6,Villa,149,1999,,Aktuel værdi
+Grønnevej 307160 Tørring,ring,855.000,18-05-1999,Alm. Salg,7.125,6,Villa,120,1969,,Aktuel værdi
+Solfang 187160 Tørring,ring,896.523,18-05-1999,Alm. Salg,5.400,4,Villa,166,1918,,Aktuel værdi
+Lindbjergvej 107160 Tørring,ring,380.000,17-05-1999,Alm. Salg,4.222,3,Villa,90,1850,,Aktuel værdi
+Hjortevej 17160 Tørring,ring,1.115.000,10-05-1999,Alm. Salg,6.840,5,Villa,163,1987,,Aktuel værdi
+Dybdalvej 47160 Tørring,ring,430.000,03-05-1999,Alm. Salg,3.644,6,Villa,118,1930,,Aktuel værdi
+Gudenåvej 167160 Tørring,ring,176.180,29-04-1999,Alm. Salg,962,5,Villa,183,2004,,Aktuel værdi
+Bækvej 277160 Tørring,ring,503.201,27-04-1999,Alm. Salg,2.150,6,Villa,234,1920,,Aktuel værdi
+Aalevej 17160 Tørring,ring,675.250,27-04-1999,Alm. Salg,5.001,6,Villa,135,1952,,Aktuel værdi
+Vibevej 187160 Tørring,ring,940.000,26-04-1999,Fam. Salg,4.292,7,Villa,219,1973,,Aktuel værdi
+Sikavej 137160 Tørring,ring,288.750,26-03-1999,Alm. Salg,1.613,7,Villa,179,2001,,Aktuel værdi
+Uldumvej 157160 Tørring,ring,894.000,19-03-1999,Alm. Salg,6.208,3,Villa,144,1932,,Aktuel værdi
+Firhøjvej 17160 Tørring,ring,870.000,05-03-1999,Alm. Salg,5.178,8,Villa,168,1924,,Aktuel værdi
+Sikavej 77160 Tørring,ring,243.100,04-03-1999,Alm. Salg,2.009,5,Villa,121,1999,,Aktuel værdi
+Vejlevej 147160 Tørring,ring,810.000,22-02-1999,Alm. Salg,4.450,6,Villa,182,1934,,Aktuel værdi
+Sønderbrogade 467160 Tørring,ring,657.000,17-02-1999,Alm. Salg,8.212,6,Villa,80,1912,,Aktuel værdi
+Bygade 277160 Tørring,ring,409.000,25-01-1999,Alm. Salg,5.243,2,Villa,78,1870,,Aktuel værdi
+Rosavej 107160 Tørring,ring,963.000,23-01-1999,Alm. Salg,5.836,5,Villa,165,1978,,Aktuel værdi
+Brædstrupvej 187160 Tørring,ring,396.691,22-01-1999,Andet,2.793,6,Stuehus,142,1900,,
+Raskvej 167160 Tørring,ring,470.000,25-11-1998,Alm. Salg,4.947,3,Villa,95,1966,,Aktuel værdi
+Rolighedsvej 27160 Tørring,ring,820.000,23-11-1998,Alm. Salg,-,7,Villa,205,1924,,Aktuel værdi
+Hammervej 8A7160 Tørring,ring,37.500,12-11-1998,Alm. Salg,186,6,Villa,201,2001,,Aktuel værdi
+Ølholm Bygade 407160 Tørring,ring,665.985,06-11-1998,Alm. Salg,2.821,9,Stuehus,236,1900,,
+Sønderbrogade 717160 Tørring,ring,180.000,04-11-1998,Alm. Salg,1.651,3,Villa,109,1950,,Aktuel værdi
+Alsted Skovvej 57160 Tørring,ring,3.355.875,19-10-1998,Alm. Salg,-,12,Døgninstitution,378,1982,,Aktuel værdi
+Aale Bygade 397160 Tørring,ring,615.702,20-09-1998,Alm. Salg,3.998,6,Villa,154,1943,,Aktuel værdi
+Hjortsvangvej 217160 Tørring,ring,641.000,14-09-1998,Alm. Salg,4.611,6,Villa,139,1867,,Aktuel værdi
+Torvegade 817160 Tørring,ring,2.008.000,09-09-1998,Alm. Salg,11.280,8,Villa,178,1989,,Aktuel værdi
+Stougårds Alle 67160 Tørring,ring,451.000,28-08-1998,Fam. Salg,4.100,4,Villa,110,1971,,Aktuel værdi
+Østerkærvej 147160 Tørring,ring,555.600,27-08-1998,Alm. Salg,6.460,3,Stuehus,86,1876,,
+J P Nielsens Vej 57160 Tørring,ring,757.445,17-08-1998,Alm. Salg,5.826,5,Villa,130,1960,,Aktuel værdi
+Østermarksvej 77160 Tørring,ring,1.030.000,12-08-1998,Alm. Salg,-,7,Stuehus,224,1854,,
+Vidtskuevej 27160 Tørring,ring,462.596,31-07-1998,Alm. Salg,3.003,5,Villa,154,1924,,Aktuel værdi
+Bygade 337160 Tørring,ring,620.000,15-07-1998,Alm. Salg,7.045,4,Villa,88,1964,,Aktuel værdi
+Teglværksvej 37160 Tørring,ring,581.000,30-06-1998,Alm. Salg,5.429,4,Villa,107,1900,,Aktuel værdi
+Ådalvej 547160 Tørring,ring,2.233.160,26-06-1998,Alm. Salg,8.723,7,Stuehus,256,1975,,
+Gudenåvej 127160 Tørring,ring,191.280,03-06-1998,Alm. Salg,1.203,6,Villa,159,1999,,Aktuel værdi
+Spurvevej 447160 Tørring,ring,105.840,02-06-1998,Alm. Salg,720,5,Villa,147,1998,,Aktuel værdi
+Hjortsvangvej 167160 Tørring,ring,333.000,12-05-1998,Alm. Salg,3.505,4,Villa,95,1930,,Aktuel værdi
+Solfang 167160 Tørring,ring,580.092,07-05-1998,Alm. Salg,-,6,Villa,209,1920,,Aktuel værdi
+Raskvej 147160 Tørring,ring,341.950,05-05-1998,Alm. Salg,-,3,Villa,127,1939,,Aktuel værdi
+Ølholm Bygade 257160 Tørring,ring,344.000,04-05-1998,Alm. Salg,2.625,6,Rækkehus,131,1810,,Aktuel værdi
+Alstedvej 77160 Tørring,ring,1.045.000,04-05-1998,Alm. Salg,6.830,6,Villa,153,1984,,Aktuel værdi
+Kirkevej 247160 Tørring,ring,960.000,29-04-1998,Alm. Salg,7.500,4,Villa,128,1965,,Aktuel værdi
+Spurvevej 117160 Tørring,ring,134.790,28-04-1998,Alm. Salg,802,5,Villa,168,1998,,Aktuel værdi
+Aale Bygade 157160 Tørring,ring,472.000,27-04-1998,Alm. Salg,3.167,5,Villa,149,1880,,Aktuel værdi
+Nyvej 277160 Tørring,ring,520.000,23-04-1998,Alm. Salg,4.561,4,Villa,114,1977,,Aktuel værdi
+Sønderbrogade 927160 Tørring,ring,903.500,18-04-1998,Alm. Salg,4.428,6,Villa,204,1877,,Aktuel værdi
+Spurvevej 67160 Tørring,ring,101.760,08-04-1998,Alm. Salg,721,5,Villa,141,1998,,Aktuel værdi
+Bjerggårdsvej 57160 Tørring,ring,434.000,02-04-1998,Alm. Salg,-,7,Stuehus,334,1868,,
+Hjortsvangvej 57160 Tørring,ring,907.900,24-03-1998,Alm. Salg,7.092,6,Villa,128,1868,,Aktuel værdi
+Vestervang 17160 Tørring,ring,865.055,14-03-1998,Alm. Salg,5.509,6,Villa,157,1930,,Aktuel værdi
+Stougårds Alle 57160 Tørring,ring,710.000,06-03-1998,Alm. Salg,5.071,5,Villa,140,1968,,Aktuel værdi
+Hagevej 177160 Tørring,ring,600.000,04-03-1998,Alm. Salg,6.976,2,Stuehus,86,1924,,
+Rosavej 427160 Tørring,ring,830.000,20-02-1998,Alm. Salg,6.587,4,Villa,126,1978,,Aktuel værdi
+Uldumvej 107160 Tørring,ring,382.685,18-02-1998,Alm. Salg,1.449,9,Villa,264,1860,,Aktuel værdi
+Omannsvej 67160 Tørring,ring,810.000,05-02-1998,Alm. Salg,7.297,4,Villa,111,1985,,Aktuel værdi
+Spurvevej 257160 Tørring,ring,133.800,05-02-1998,Alm. Salg,976,6,Villa,137,1998,,Aktuel værdi
+Hjortsvangvej 177160 Tørring,ring,357.500,02-02-1998,Alm. Salg,2.792,4,Villa,128,1950,,Aktuel værdi
+Viborg Hovedvej 877160 Tørring,ring,1.113.000,29-01-1998,Alm. Salg,-,7,Villa,240,1939,,Aktuel værdi
+Hammervej 247160 Tørring,ring,47.220,26-01-1998,Andet,325,7,Stuehus,145,1902,,
+Vesterbyvej 47160 Tørring,ring,262.864,24-01-1998,Alm. Salg,1.740,4,Villa,151,1968,,Aktuel værdi
+Vejlevej 187160 Tørring,ring,855.000,07-01-1998,Alm. Salg,4.253,6,Villa,201,1938,,Aktuel værdi
+Aale Bygade 47160 Tørring,ring,240.000,29-12-1997,Alm. Salg,4.000,2,Villa,60,1850,,Aktuel værdi
+Østergade 167160 Tørring,ring,650.000,12-12-1997,Alm. Salg,3.532,5,Rækkehus,184,1917,,Aktuel værdi
+Stougårds Alle 37160 Tørring,ring,630.000,01-12-1997,Alm. Salg,5.250,4,Villa,120,1968,,Aktuel værdi
+Askevej 127160 Tørring,ring,65.625,11-11-1997,Alm. Salg,443,6,Villa,148,1998,,Aktuel værdi
+Vejlevej 697160 Tørring,ring,625.000,27-10-1997,Alm. Salg,3.810,6,Villa,164,1942,,Aktuel værdi
+Engvej 117160 Tørring,ring,1.079.836,06-10-1997,Alm. Salg,5.868,5,Villa,184,1963,,Aktuel værdi
+Melhedevej 197160 Tørring,ring,445.000,02-10-1997,Alm. Salg,4.198,5,Villa,106,1964,,Aktuel værdi
+Vejlevej 927160 Tørring,ring,452.000,22-09-1997,Alm. Salg,2.378,8,Villa,190,1934,,Aktuel værdi
+Viborg Hovedvej 797160 Tørring,ring,110.000,12-09-1997,Alm. Salg,738,6,Stuehus,149,1931,,
+Ølholm Bygade 437160 Tørring,ring,520.000,11-09-1997,Alm. Salg,2.905,7,Villa,179,1912,,Aktuel værdi
+Koutrupvej 87160 Tørring,ring,607.500,05-09-1997,Alm. Salg,2.838,5,Villa,214,1900,,Aktuel værdi
+Hammervej 147160 Tørring,ring,490.312,26-08-1997,Alm. Salg,4.903,5,Villa,100,1937,,Aktuel værdi
+Spurvevej 77160 Tørring,ring,121.320,21-08-1997,Alm. Salg,666,7,Villa,182,1998,,Aktuel værdi
+Bygade 387160 Tørring,ring,390.227,13-08-1997,Alm. Salg,3.335,6,Villa,117,1877,,Aktuel værdi
+Marievej 17160 Tørring,ring,735.000,11-08-1997,Alm. Salg,5.485,5,Villa,134,1974,,Aktuel værdi
+Spurvevej 307160 Tørring,ring,123.720,01-08-1997,Alm. Salg,808,4,Villa,153,1998,,Aktuel værdi
+Hjortsvangvej 207160 Tørring,ring,1.150.000,21-07-1997,Alm. Salg,-,6,Stuehus,159,1900,,
+Gudenåvej 157160 Tørring,ring,849.900,19-07-1997,Alm. Salg,4.999,6,Villa,170,1979,,Aktuel værdi
+Svinget 257160 Tørring,ring,216.500,11-07-1997,Alm. Salg,2.706,2,Villa,80,1947,,Aktuel værdi
+Viborg Hovedvej 937160 Tørring,ring,66.780,02-07-1997,Alm. Salg,309,7,Stuehus,216,1970,,
+Bredgade 57160 Tørring,ring,425.000,16-06-1997,Alm. Salg,3.794,5,Rækkehus,112,1900,,Aktuel værdi
+Aale Bygade 97160 Tørring,ring,1.137.000,06-06-1997,Fam. Salg,8.679,6,Stuehus,131,1822,,
+Bygade 377160 Tørring,ring,816.000,04-06-1997,Alm. Salg,-,8,Villa,227,1911,,Aktuel værdi
+Grønnevej 67160 Tørring,ring,690.000,29-05-1997,Alm. Salg,6.160,4,Villa,112,1961,,Aktuel værdi
+Spurvevej 287160 Tørring,ring,175.500,13-05-1997,Alm. Salg,1.063,6,Villa,165,1997,,Aktuel værdi
+Birke Alle 27160 Tørring,ring,617.000,01-05-1997,Alm. Salg,4.032,6,Villa,153,1974,,Aktuel værdi
+Krambovej 17160 Tørring,ring,307.000,15-04-1997,Alm. Salg,3.231,4,Villa,95,1966,,Aktuel værdi
+Koutrupvej 117160 Tørring,ring,902.700,14-04-1997,Alm. Salg,4.605,3,Stuehus,196,1949,,
+Lydiavej 37160 Tørring,ring,787.375,09-04-1997,Alm. Salg,-,4,Villa,153,1974,,Aktuel værdi
+Lindbjergvej 67160 Tørring,ring,790.000,29-03-1997,Alm. Salg,3.726,4,Villa,212,1937,,Aktuel værdi
+Spurvevej 157160 Tørring,ring,975.000,24-03-1997,Alm. Salg,6.914,5,Villa,141,1989,,Aktuel værdi
+Viggo Pejsens Vej 147160 Tørring,ring,142.800,24-02-1997,Alm. Salg,952,6,Villa,150,1997,,Aktuel værdi
+Nordre Fælledvej 87160 Tørring,ring,90.000,20-02-1997,Alm. Salg,422,6,Villa,213,1996,,Aktuel værdi
+Møllevej 327160 Tørring,ring,496.000,18-02-1997,Alm. Salg,-,4,Villa,137,1929,,Aktuel værdi
+Vibevej 397160 Tørring,ring,725.000,11-02-1997,Alm. Salg,5.330,5,Villa,136,1972,,Aktuel værdi
+Aale Bygade 267160 Tørring,ring,375.000,08-02-1997,Alm. Salg,3.440,6,Villa,109,1949,,Aktuel værdi
+Rosavej 45A7160 Tørring,ring,430.000,27-01-1997,Alm. Salg,5.810,3,Rækkehus,74,1983,,Aktuel værdi
+Aalevej 257160 Tørring,ring,366.000,21-01-1997,Fam. Salg,4.066,3,Villa,90,1965,,Aktuel værdi
+Tørringvej 537160 Tørring,ring,3.770.000,30-12-1996,Alm. Salg,34.272,4,Stuehus,110,1934,,
+Rolighedsvej 47160 Tørring,ring,714.000,21-12-1996,Alm. Salg,4.080,6,Villa,175,1930,,Aktuel værdi
+Vestervang 27160 Tørring,ring,460.917,09-12-1996,Alm. Salg,-,5,Villa,178,1934,,Aktuel værdi
+J P Nielsens Vej 167160 Tørring,ring,514.000,20-11-1996,Alm. Salg,6.192,4,Villa,83,1964,,Aktuel værdi
+Vestervang 47160 Tørring,ring,598.800,18-11-1996,Alm. Salg,4.435,3,Villa,135,1970,,Aktuel værdi
+Jordemodervej 17160 Tørring,ring,1.332.000,04-11-1996,Alm. Salg,5.064,10,Villa,263,1982,,Aktuel værdi
+Sønderbrogade 397160 Tørring,ring,391.000,04-11-1996,Fam. Salg,4.443,4,Villa,88,1951,,Aktuel værdi
+Mosevej 107160 Tørring,ring,1.922.100,23-10-1996,Alm. Salg,15.376,6,Stuehus,125,1977,,
+Melhedevej 157160 Tørring,ring,399.000,08-10-1996,Alm. Salg,-,4,Villa,107,1954,,Aktuel værdi
+Hvolgårdsvej 367160 Tørring,ring,574.274,16-09-1996,Alm. Salg,5.521,4,Stuehus,104,1898,,
+Smalålevej 47160 Tørring,ring,1.000.000,16-09-1996,Fam. Salg,7.042,6,Stuehus,142,1910,,
+Østerkærvej 47160 Tørring,ring,420.000,02-09-1996,Alm. Salg,-,8,Villa,195,1947,,Aktuel værdi
+Mosevej 177160 Tørring,ring,795.000,30-08-1996,Alm. Salg,-,8,Stuehus,323,1908,,
+Rogårdsvej 47160 Tørring,ring,295.000,29-08-1996,Alm. Salg,3.554,4,Villa,83,1927,,Aktuel værdi
+Nørremarksvej 117160 Tørring,ring,450.000,28-08-1996,Alm. Salg,3.383,2,Villa,133,1930,,Aktuel værdi
+Ølholm Bygade 287160 Tørring,ring,768.626,23-08-1996,Alm. Salg,-,6,Villa,156,1914,,Aktuel værdi
+Sønderbrogade 607160 Tørring,ring,375.000,19-08-1996,Alm. Salg,4.166,3,Villa,90,1940,,Aktuel værdi
+Holmdalsvej 177160 Tørring,ring,1.210.600,18-08-1996,Alm. Salg,-,10,Stuehus,248,1900,,
+Bøgevej 17160 Tørring,ring,466.391,16-08-1996,Fam. Salg,3.986,4,Villa,117,1976,,Aktuel værdi
+Møllevej 307160 Tørring,ring,264.000,16-08-1996,Fam. Salg,2.869,3,Villa,92,1938,,Aktuel værdi
+Købmagergade 47160 Tørring,ring,640.000,14-08-1996,Fam. Salg,-,4,Villa,128,1959,,Aktuel værdi
+J P Nielsens Vej 317160 Tørring,ring,300.000,30-07-1996,Alm. Salg,-,5,Villa,115,1956,,Aktuel værdi
+Vibevej 207160 Tørring,ring,370.000,28-07-1996,Alm. Salg,3.425,3,Villa,108,1968,,Aktuel værdi
+Præstevænget 127160 Tørring,ring,450.000,17-07-1996,Alm. Salg,3.913,4,Villa,115,1970,,Aktuel værdi
+Hagevej 107160 Tørring,ring,19.800,15-07-1996,Alm. Salg,660,1,Sommerhus,30,1950,,Aktuel værdi
+Rogårdsvej 2A7160 Tørring,ring,28.000,15-07-1996,Alm. Salg,237,4,Villa,118,2010,,Aktuel værdi
+Kandborgvej 107160 Tørring,ring,1.125.000,08-07-1996,Alm. Salg,-,6,Villa,240,1908,,Aktuel værdi
+Bygade 367160 Tørring,ring,500.000,06-07-1996,Alm. Salg,-,8,Villa,240,1880,,Aktuel værdi
+Hjortsvangvej 157160 Tørring,ring,688.000,02-07-1996,Alm. Salg,-,4,Villa,173,1973,,Aktuel værdi
+Vibevej 237160 Tørring,ring,682.309,24-06-1996,Alm. Salg,-,6,Villa,145,1971,,Aktuel værdi
+Spurvevej 87160 Tørring,ring,170.000,19-06-1996,Alm. Salg,894,7,Villa,190,1997,,Aktuel værdi
+Sønderbrogade 767160 Tørring,ring,486.000,14-06-1996,Alm. Salg,-,6,Villa,149,1967,,Aktuel værdi
+Østerkærvej 37160 Tørring,ring,460.000,10-06-1996,Alm. Salg,2.658,4,Villa,173,1920,,Aktuel værdi
+Ege Alle 77160 Tørring,ring,118.320,03-06-1996,Alm. Salg,739,5,Villa,160,1996,,Aktuel værdi
+Aalevej 437160 Tørring,ring,487.000,30-05-1996,Alm. Salg,6.763,2,Villa,72,1958,,Aktuel værdi
+Møllevej 207160 Tørring,ring,525.000,18-05-1996,Alm. Salg,1.329,6,Villa,395,1928,,Aktuel værdi
+Borgergade 257160 Tørring,ring,493.600,06-05-1996,Alm. Salg,2.253,8,Villa,219,1858,,Aktuel værdi
+Hans Jensens Vej 137160 Tørring,ring,790.000,01-05-1996,Alm. Salg,5.448,4,Rækkehus,145,1912,,Aktuel værdi
+Spurvevej 107160 Tørring,ring,100.000,29-04-1996,Alm. Salg,704,6,Villa,142,1996,,Aktuel værdi
+Skolevej 47160 Tørring,ring,509.000,24-04-1996,Alm. Salg,-,7,Villa,213,1942,,Aktuel værdi
+Rådyrvej 47160 Tørring,ring,710.000,19-04-1996,Auktion,-,5,Villa,157,1981,,Aktuel værdi
+Nørre Snedevej 1457160 Tørring,ring,552.000,02-04-1996,Fam. Salg,5.520,4,Stuehus,100,1905,,
+Hjortsvang Fælledvej 97160 Tørring,ring,924.000,28-03-1996,Alm. Salg,4.143,7,Stuehus,223,2008,,
+Aale Bygade 247160 Tørring,ring,300.000,12-03-1996,Alm. Salg,2.857,4,Villa,105,1890,,Aktuel værdi
+Østermarksvej 10A7160 Tørring,ring,870.000,11-03-1996,Alm. Salg,-,9,Villa,183,1906,,Aktuel værdi
+Vongevej 147160 Tørring,ring,314.916,19-02-1996,Alm. Salg,3.704,3,Villa,85,1958,,Aktuel værdi
+Vesterbyvej 37160 Tørring,ring,430.000,07-02-1996,Alm. Salg,2.402,4,Villa,179,1880,,Aktuel værdi
+Viggo Pejsens Vej 117160 Tørring,ring,914.000,29-01-1996,Alm. Salg,4.994,6,Villa,183,1972,,Aktuel værdi
+Aale Bygade 147160 Tørring,ring,660.000,09-11-1995,Fam. Salg,2.640,6,Villa,250,1908,,Aktuel værdi
+Uldumvej 47160 Tørring,ring,450.000,31-10-1995,Alm. Salg,2.884,7,Villa,156,1924,,Aktuel værdi
+Kirkestien 47160 Tørring,ring,300.000,06-10-1995,Fam. Salg,2.222,4,Villa,135,1930,,Aktuel værdi
+Spurvevej 227160 Tørring,ring,719.500,06-10-1995,Alm. Salg,-,5,Villa,154,1989,,Aktuel værdi
+"Bredgade 24, 17160 Tørring",ring,265.000,06-09-1995,Alm. Salg,-,3,Lejlighed,80,1891,,Aktuel værdi
+Bækvej 87160 Tørring,ring,900.000,04-09-1995,Alm. Salg,4.838,7,Stuehus,186,1931,,
+Dybdalvej 87160 Tørring,ring,48.000,18-08-1995,Alm. Salg,252,6,Villa,190,1998,,Aktuel værdi
+Torvegade 1237160 Tørring,ring,150.000,10-08-1995,Alm. Salg,438,9,Villa,342,2006,,Aktuel værdi
+Ildvedvej 67160 Tørring,ring,2.400.000,09-08-1995,Alm. Salg,11.881,6,Stuehus,202,1836,,
+Sønderkærvej 27160 Tørring,ring,765.000,26-07-1995,Alm. Salg,-,11,Villa,326,1973,,Aktuel værdi
+Bredgade 517160 Tørring,ring,552.000,07-07-1995,Alm. Salg,3.942,5,Rækkehus,140,1907,,Aktuel værdi
+Hjortevej 167160 Tørring,ring,905.000,07-07-1995,Alm. Salg,5.621,6,Villa,161,1984,,Aktuel værdi
+Vejlevej 207160 Tørring,ring,490.000,05-07-1995,Alm. Salg,-,5,Villa,126,1934,,Aktuel værdi
+Borgergade 67160 Tørring,ring,406.000,05-07-1995,Alm. Salg,3.383,4,Villa,120,1918,,Aktuel værdi
+Hørsholmvej 27160 Tørring,ring,680.000,30-06-1995,Alm. Salg,4.857,8,Villa,140,1870,,Aktuel værdi
+Rosavej 267160 Tørring,ring,508.000,28-06-1995,Alm. Salg,5.404,4,Villa,94,1978,,Aktuel værdi
+Sønderbrogade 847160 Tørring,ring,315.000,24-06-1995,Alm. Salg,3.500,3,Villa,90,1951,,Aktuel værdi
+Østergårdsvej 107160 Tørring,ring,750.000,23-06-1995,Fam. Salg,-,6,Stuehus,136,1921,,
+Liselundvej 27160 Tørring,ring,230.000,20-06-1995,Alm. Salg,2.527,4,Villa,91,1900,,Aktuel værdi
+Linnerupvej 77160 Tørring,ring,1.380.000,19-06-1995,Alm. Salg,12.105,5,Villa,114,1920,,Aktuel værdi
+Brædstrupvej 597160 Tørring,ring,443.000,13-06-1995,Alm. Salg,-,5,Villa,139,1910,,Aktuel værdi
+Raskvej 217160 Tørring,ring,280.000,06-06-1995,Alm. Salg,3.333,4,Villa,84,1930,,Aktuel værdi
+Vejlevej 57160 Tørring,ring,407.000,22-05-1995,Alm. Salg,2.768,5,Villa,147,1930,,Aktuel værdi
+Mosevej 147160 Tørring,ring,331.400,01-05-1995,Fam. Salg,-,6,Stuehus,142,1870,,
+Bygade 297160 Tørring,ring,618.961,24-04-1995,Fam. Salg,2.750,9,Villa,225,1909,,Aktuel værdi
+Viborgvej 287160 Tørring,ring,257.000,11-04-1995,Alm. Salg,-,5,Villa,185,1930,,Aktuel værdi
+Overbygård 27160 Tørring,ring,980.000,31-03-1995,Alm. Salg,6.163,5,Villa,159,1990,,Aktuel værdi
+Mattrupvej 197160 Tørring,ring,399.000,01-03-1995,Alm. Salg,3.950,4,Villa,101,1911,,Aktuel værdi
+Ildvedvej 87160 Tørring,ring,350.000,21-02-1995,Alm. Salg,-,7,Villa,173,1941,,Aktuel værdi
+Hans Jensens Vej 37160 Tørring,ring,585.000,10-02-1995,Alm. Salg,5.176,4,Villa,113,1908,,Aktuel værdi
+Ølholm Bygade 497160 Tørring,ring,625.000,30-01-1995,Alm. Salg,2.948,7,Villa,212,1900,,Aktuel værdi
+Viborgvej 37160 Tørring,ring,1.000.000,22-01-1995,Alm. Salg,3.333,9,Villa,300,1900,,Aktuel værdi
+Skovhussvinget 77160 Tørring,ring,33.000,16-01-1995,Alm. Salg,-,6,Villa,194,1926,,Aktuel værdi
+Tingvejen 97160 Tørring,ring,2.800.000,04-01-1995,Alm. Salg,16.279,5,Stuehus,172,1931,,
+Ege Alle 97160 Tørring,ring,122.612,14-12-1994,Alm. Salg,-,7,Villa,194,1999,,Aktuel værdi
+Ege Alle 117160 Tørring,ring,124.816,02-12-1994,Alm. Salg,-,7,Villa,221,1995,,Aktuel værdi
+Søndervang 37160 Tørring,ring,405.458,28-11-1994,Alm. Salg,3.685,4,Villa,110,1975,,Aktuel værdi
+Ølholm Bygade 127160 Tørring,ring,728.000,15-11-1994,Alm. Salg,2.666,5,Villa,273,1907,,Aktuel værdi
+Solvej 57160 Tørring,ring,605.000,10-11-1994,Alm. Salg,5.127,5,Villa,118,1973,,Aktuel værdi
+Rosavej 41B7160 Tørring,ring,405.000,08-11-1994,Alm. Salg,5.062,3,Rækkehus,80,1988,,Aktuel værdi
+Søndervang 147160 Tørring,ring,385.000,31-10-1994,Alm. Salg,-,6,Villa,153,1966,,Aktuel værdi
+Bredgade 547160 Tørring,ring,550.000,28-10-1994,Alm. Salg,3.437,5,Villa,160,1968,,Aktuel værdi
+Søndervang 127160 Tørring,ring,575.000,15-10-1994,Alm. Salg,3.833,4,Villa,150,1973,,Aktuel værdi
+Elsdyrvej 127160 Tørring,ring,765.000,07-10-1994,Alm. Salg,5.666,5,Villa,135,1977,,Aktuel værdi
+Skolevej 197160 Tørring,ring,525.000,02-10-1994,Alm. Salg,3.431,6,Villa,153,1967,,Aktuel værdi
+Askevej 27160 Tørring,ring,644.864,29-09-1994,Alm. Salg,4.327,5,Villa,149,1985,,Aktuel værdi
+Melhedevej 117160 Tørring,ring,390.000,28-09-1994,Alm. Salg,-,9,Villa,260,1924,,Aktuel værdi
+Teglværksvej 17160 Tørring,ring,360.000,16-09-1994,Alm. Salg,3.461,3,Villa,104,1930,,Aktuel værdi
+Hjortsvang Fælledvej 37160 Tørring,ring,555.000,09-09-1994,Alm. Salg,-,7,Stuehus,177,1988,,
+Nordre Fælledvej 47160 Tørring,ring,510.000,29-08-1994,Alm. Salg,3.445,6,Villa,148,1933,,Aktuel værdi
+Sønderbrogade 327160 Tørring,ring,365.000,26-08-1994,Alm. Salg,4.147,3,Rækkehus,88,1916,,Aktuel værdi
+Sønderkærvej 177160 Tørring,ring,512.500,17-08-1994,Alm. Salg,-,7,Stuehus,177,1870,,
+Overbygård 557160 Tørring,ring,581.500,23-07-1994,Alm. Salg,-,5,Villa,153,1986,,Aktuel værdi
+Ege Alle 187160 Tørring,ring,119.712,14-07-1994,Alm. Salg,604,8,Villa,198,1995,,Aktuel værdi
+Elsdyrvej 57160 Tørring,ring,570.000,12-07-1994,Alm. Salg,-,6,Villa,156,1977,,Aktuel værdi
+Tingvejen 27160 Tørring,ring,400.000,06-07-1994,Alm. Salg,3.960,3,Villa,101,1850,,Aktuel værdi
+Brædstrupvej 227160 Tørring,ring,690.000,04-07-1994,Alm. Salg,-,9,Stuehus,232,1909,,
+Uhrskovvej 77160 Tørring,ring,550.000,18-06-1994,Alm. Salg,-,5,Villa,120,1939,,Aktuel værdi
+Hjortsvang Fælledvej 27160 Tørring,ring,727.000,30-05-1994,Alm. Salg,-,10,Villa,390,1900,,Aktuel værdi
+Fousingvej 127160 Tørring,ring,700.000,26-05-1994,Alm. Salg,5.737,4,Stuehus,122,1885,,
+Ege Alle 37160 Tørring,ring,83.520,21-05-1994,Alm. Salg,-,5,Villa,142,1994,,Aktuel værdi
+Ege Alle 167160 Tørring,ring,114.144,18-05-1994,Alm. Salg,746,6,Villa,153,1994,,Aktuel værdi
+Rådyrvej 57160 Tørring,ring,642.000,15-05-1994,Alm. Salg,5.631,4,Villa,114,1977,,Aktuel værdi
+Hjortsvang Kærvej 77160 Tørring,ring,675.000,07-05-1994,Alm. Salg,4.326,9,Stuehus,156,1917,,
+Logslundvej 67160 Tørring,ring,970.000,05-05-1994,Alm. Salg,7.578,5,Stuehus,128,1900,,
+Nyvej 207160 Tørring,ring,669.234,23-04-1994,Alm. Salg,3.397,7,Villa,197,1969,,Aktuel værdi
+Vibevej 107160 Tørring,ring,271.254,16-02-1994,Fam. Salg,2.223,5,Villa,122,1977,,Aktuel værdi
+Borgergade 637160 Tørring,ring,398.000,01-02-1994,Alm. Salg,1.604,6,Villa,248,1862,,Aktuel værdi
+Ildvedvej 37160 Tørring,ring,810.000,29-01-1994,Alm. Salg,3.306,10,Villa,245,1860,,Aktuel værdi
+Aagade 227160 Tørring,ring,417.000,28-01-1994,Alm. Salg,3.336,5,Villa,125,1944,,Aktuel værdi
+Hvolgårdsvej 347160 Tørring,ring,475.000,25-01-1994,Alm. Salg,3.958,5,Villa,120,1830,,Aktuel værdi
+Aale Bygade 177160 Tørring,ring,217.889,23-11-1993,Alm. Salg,1.379,9,Villa,158,1845,,Aktuel værdi
+Viborgvej 57160 Tørring,ring,99.379,18-11-1993,Alm. Salg,1.116,4,Rækkehus,89,1880,,Aktuel værdi
+Ølholm Kærvej 67160 Tørring,ring,410.000,15-11-1993,Alm. Salg,2.611,7,Villa,157,1870,,Aktuel værdi
+Rosavej 377160 Tørring,ring,646.000,21-10-1993,Alm. Salg,5.046,4,Villa,128,1980,,Aktuel værdi
+Birke Alle 57160 Tørring,ring,350.000,11-10-1993,Alm. Salg,2.611,5,Villa,134,1938,,Aktuel værdi
+Ølholm Bygade 327160 Tørring,ring,485.000,21-09-1993,Alm. Salg,3.149,5,Villa,154,1908,,Aktuel værdi
+Vejlevej 817160 Tørring,ring,465.000,15-09-1993,Alm. Salg,3.522,3,Villa,132,1936,,Aktuel værdi
+Vibevej 247160 Tørring,ring,470.000,02-09-1993,Alm. Salg,3.671,4,Villa,128,1970,,Aktuel værdi
+Hjortsvangvej 197160 Tørring,ring,530.000,30-08-1993,Alm. Salg,3.136,5,Villa,169,1929,,Aktuel værdi
+Vongevej 407160 Tørring,ring,531.436,19-08-1993,Alm. Salg,2.460,6,Villa,216,1955,,Aktuel værdi
+Mattrupvej 227160 Tørring,ring,680.000,11-08-1993,Fam. Salg,5.714,7,Stuehus,119,1887,,
+Nordre Fælledvej 197160 Tørring,ring,85.000,23-07-1993,Alm. Salg,-,10,Villa,257,1900,,Aktuel værdi
+Aale Bygade 367160 Tørring,ring,455.000,12-07-1993,Alm. Salg,3.791,3,Villa,120,1914,,Aktuel værdi
+Borgergade 407160 Tørring,ring,330.000,03-07-1993,Alm. Salg,942,9,Villa,350,1893,,Aktuel værdi
+Raskvej 27160 Tørring,ring,315.000,12-06-1993,Fam. Salg,1.387,6,Villa,227,1925,,Aktuel værdi
+Sønderkærvej 157160 Tørring,ring,390.000,04-06-1993,Alm. Salg,-,5,Stuehus,175,1924,,
+Sønderbrogade 157160 Tørring,ring,451.500,24-05-1993,Auktion,3.225,4,Villa,140,1953,,Aktuel værdi
+Svinget 317160 Tørring,ring,470.000,12-05-1993,Alm. Salg,3.507,3,Villa,134,1966,,Aktuel værdi
+Krambovej 77160 Tørring,ring,375.000,02-05-1993,Alm. Salg,-,6,Villa,158,1945,,Aktuel værdi
+J P Nielsens Vej 2A7160 Tørring,ring,370.000,19-04-1993,Alm. Salg,2.356,5,Villa,157,1920,,Aktuel værdi
+Hvolgårdsvej 377160 Tørring,ring,149.439,15-04-1993,Fam. Salg,774,6,Villa,193,1877,,Aktuel værdi
+Damgårdsvej 77160 Tørring,ring,160.000,02-03-1993,Alm. Salg,-,5,Villa,167,1926,,Aktuel værdi
+Aalevej 417160 Tørring,ring,490.000,26-01-1993,Alm. Salg,3.712,4,Villa,132,1963,,Aktuel værdi
+Østerkærvej 137160 Tørring,ring,153.000,12-01-1993,Alm. Salg,1.159,4,Villa,132,1927,,Aktuel værdi
+"Vejlevej 1F, 27160 Tørring",ring,287.244,04-01-1993,Alm. Salg,4.419,2,Lejlighed,65,1902,,Aktuel værdi
+Mattrupvej 157160 Tørring,ring,1.850.000,02-11-1992,Alm. Salg,-,10,Stuehus,177,1873,,
+Mosevej 157160 Tørring,ring,1.000.000,16-10-1992,Alm. Salg,11.363,3,Stuehus,88,1927,,
+J P Nielsens Vej 27160 Tørring,ring,400.000,02-10-1992,Alm. Salg,-,4,Villa,104,1968,,Aktuel værdi
+Vibevej 157160 Tørring,ring,460.000,28-09-1992,Alm. Salg,-,4,Villa,143,1969,,Aktuel værdi
+Borgergade 297160 Tørring,ring,230.000,24-08-1992,Alm. Salg,2.277,4,Villa,101,1920,,Aktuel værdi
+Haustrupvej 27160 Tørring,ring,400.000,10-08-1992,Alm. Salg,3.030,4,Villa,132,1927,,Aktuel værdi
+Vongevej 307160 Tørring,ring,630.000,03-07-1992,Alm. Salg,3.705,6,Villa,170,1900,,Aktuel værdi
+Borgergade 557160 Tørring,ring,318.000,29-06-1992,Alm. Salg,-,6,Villa,158,1918,,Aktuel værdi
+Viggo Pejsens Vej 57160 Tørring,ring,550.000,06-06-1992,Alm. Salg,3.900,4,Villa,141,1969,,Aktuel værdi
+Rosavej 447160 Tørring,ring,425.000,03-06-1992,Alm. Salg,3.828,4,Villa,111,1978,,Aktuel værdi
+Hjortsvang Kærvej 47160 Tørring,ring,460.000,29-05-1992,Alm. Salg,-,5,Villa,140,1907,,Aktuel værdi
+Linnerupvej 137160 Tørring,ring,565.000,15-05-1992,Alm. Salg,-,6,Villa,221,1893,,Aktuel værdi
+J P Nielsens Vej 337160 Tørring,ring,450.000,28-04-1992,Fam. Salg,2.694,6,Villa,167,1965,,Aktuel værdi
+Vejlevej 777160 Tørring,ring,145.000,15-04-1992,Alm. Salg,1.355,4,Villa,107,1942,,Aktuel værdi
+Elmevej 137160 Tørring,ring,350.000,15-04-1992,Alm. Salg,3.301,4,Villa,106,1970,,Aktuel værdi
+Jordemodervej 27160 Tørring,ring,107.791,16-03-1992,Fam. Salg,637,6,Villa,169,1851,,Aktuel værdi
+Overbygård 537160 Tørring,ring,965.000,27-02-1992,Alm. Salg,-,7,Villa,183,1986,,Aktuel værdi
+Vongevej 217160 Tørring,ring,405.000,17-02-1992,Alm. Salg,3.319,4,Villa,122,1969,,Aktuel værdi
+Skovvej 127160 Tørring,ring,827.000,16-02-1992,Fam. Salg,-,7,Villa,199,1941,,Aktuel værdi
+Søndre Fælledvej 127160 Tørring,ring,605.000,13-02-1992,Alm. Salg,-,7,Villa,244,1923,,Aktuel værdi

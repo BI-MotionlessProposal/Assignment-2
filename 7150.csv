@@ -1,0 +1,405 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Surmosevej 97150 Barrit,rrit,300.000,28-04-2017,Alm. Salg,4.166,4,Villa,72,1932,,Aktuel værdi
+Barrit Langgade 1537150 Barrit,rrit,455.000,01-04-2017,Alm. Salg,2.757,5,Villa,165,1943,,Aktuel værdi
+Bagervænget 167150 Barrit,rrit,698.000,20-03-2017,Alm. Salg,3.388,6,Villa,206,1964,0 %,Aktuel værdi
+Barrit Langgade 747150 Barrit,rrit,545.000,17-02-2017,Alm. Salg,4.780,4,Villa,114,1900,-8 %,Aktuel værdi
+Barrit Langgade 317150 Barrit,rrit,382.000,26-01-2017,Fam. Salg,3.979,3,Villa,96,1961,,Aktuel værdi
+Vævergade 257150 Barrit,rrit,870.000,21-01-2017,Alm. Salg,6.692,3,Villa,130,1877,-3 %,Aktuel værdi
+Vangevej 257150 Barrit,rrit,689.000,16-01-2017,Alm. Salg,4.150,6,Villa,166,1971,,Aktuel værdi
+Serupsvej 17150 Barrit,rrit,825.200,04-01-2017,Alm. Salg,5.358,5,Stuehus,154,1750,-13 %,
+Fennen 197150 Barrit,rrit,895.000,10-12-2016,Andet,7.160,5,Rækkehus,125,1985,,Aktuel værdi
+Vævergade 287150 Barrit,rrit,1.000.000,18-11-2016,Alm. Salg,6.250,6,Villa,160,1972,-9 %,Aktuel værdi
+Barrit Langgade 337150 Barrit,rrit,155.000,16-11-2016,Alm. Salg,2.066,3,Villa,75,1956,0 %,Aktuel værdi
+Bakkesvinget 67150 Barrit,rrit,935.000,23-10-2016,Alm. Salg,5.993,5,Villa,156,1971,-6 %,Aktuel værdi
+Mikkelbro 87150 Barrit,rrit,644.000,04-10-2016,Andet,4.700,6,Villa,137,1998,,Aktuel værdi
+Randvej 107150 Barrit,rrit,1.318.400,26-07-2016,Alm. Salg,7.577,6,Stuehus,174,1877,-17 %,
+Bakkesvinget 57150 Barrit,rrit,600.000,15-06-2016,Alm. Salg,4.687,4,Villa,128,1975,-14 %,Aktuel værdi
+Barrit Langgade 1897150 Barrit,rrit,1.150.000,27-05-2016,Alm. Salg,11.734,4,Stuehus,98,1937,-11 %,
+Bagervænget 37150 Barrit,rrit,760.000,20-05-2016,Alm. Salg,8.941,3,Villa,85,1967,-4 %,Aktuel værdi
+Barrit Langgade 1557150 Barrit,rrit,600.000,13-05-2016,Alm. Salg,3.141,7,Villa,191,1969,-8 %,Aktuel værdi
+Sigurd Stenhøj Vej 47150 Barrit,rrit,800.000,14-04-2016,Andet,3.478,6,Villa,230,1965,-46 %,Aktuel værdi
+Nørløkkevej 17150 Barrit,rrit,1.350.000,30-03-2016,Alm. Salg,7.941,6,Villa,170,1912,-10 %,Aktuel værdi
+Vangevej 247150 Barrit,rrit,1.400.000,01-03-2016,Alm. Salg,6.763,7,Villa,207,1971,-6 %,Aktuel værdi
+Randvej 127150 Barrit,rrit,9.250.000,01-03-2016,Andet,54.411,7,Stuehus,170,1815,,
+Høkervej 107150 Barrit,rrit,865.000,16-12-2015,Alm. Salg,7.032,4,Villa,123,1925,-3 %,Aktuel værdi
+Serupsvej 67150 Barrit,rrit,300.000,01-12-2015,Andet,2.000,6,Villa,150,1850,,Aktuel værdi
+Barrit Stationsvej 17150 Barrit,rrit,484.200,20-11-2015,Auktion,2.457,5,Villa,197,1909,-19 %,Aktuel værdi
+Barrit Langgade 1407150 Barrit,rrit,1.025.000,29-10-2015,Alm. Salg,6.029,6,Villa,170,1972,-2 %,Aktuel værdi
+Randvej 77150 Barrit,rrit,1.150.000,22-09-2015,Alm. Salg,11.057,3,Villa,104,1835,-4 %,Aktuel værdi
+Serupsvej 157150 Barrit,rrit,1.509.000,13-09-2015,Fam. Salg,7.545,5,Stuehus,200,1975,,
+Barrit Langgade 1227150 Barrit,rrit,350.000,03-09-2015,Alm. Salg,3.240,4,Villa,108,1962,-36 %,Aktuel værdi
+Barrit Langgade 727150 Barrit,rrit,750.000,30-08-2015,Alm. Salg,7.142,5,Villa,105,1965,,Aktuel værdi
+Brethvej 97150 Barrit,rrit,412.000,07-08-2015,Auktion,2.881,4,Villa,143,1920,-51 %,Aktuel værdi
+Barrit Langgade 1997150 Barrit,rrit,467.500,03-08-2015,Fam. Salg,3.740,4,Villa,125,1984,,Aktuel værdi
+Randvej 237150 Barrit,rrit,1.500.000,26-06-2015,Alm. Salg,5.905,7,Villa,254,1914,-6 %,Aktuel værdi
+Serupsvej 167150 Barrit,rrit,1.600.000,11-06-2015,Alm. Salg,9.411,5,Villa,170,1850,-11 %,Aktuel værdi
+Vævergade 347150 Barrit,rrit,415.000,04-06-2015,Andet,3.952,4,Villa,105,1950,-60 %,Aktuel værdi
+Vangevej 227150 Barrit,rrit,1.200.000,28-05-2015,Alm. Salg,6.818,5,Villa,176,1975,,Aktuel værdi
+Serupsvej 27150 Barrit,rrit,820.000,24-04-2015,Alm. Salg,7.130,4,Villa,115,1960,-3 %,Aktuel værdi
+Serupsvej 257150 Barrit,rrit,875.000,09-04-2015,Alm. Salg,5.271,4,Stuehus,166,1972,,
+Barrit Langgade 1447150 Barrit,rrit,480.000,14-03-2015,Alm. Salg,5.161,4,Villa,93,1949,-19 %,Aktuel værdi
+Staksrodevej 27150 Barrit,rrit,19.450.000,12-03-2015,Alm. Salg,180.092,6,Villa,108,1926,,Aktuel værdi
+Skulsballevej 27150 Barrit,rrit,1.700.000,26-02-2015,Alm. Salg,12.318,4,Villa,138,1870,-10 %,Aktuel værdi
+Barrit Langgade 417150 Barrit,rrit,620.000,13-02-2015,Andet,5.166,5,Villa,120,1930,,Aktuel værdi
+Barrit Langgade 1147150 Barrit,rrit,1.400.000,02-02-2015,Alm. Salg,11.666,5,Villa,120,1974,-3 %,Aktuel værdi
+Barrit Langgade 59B7150 Barrit,rrit,575.000,30-01-2015,Alm. Salg,5.000,4,Rækkehus,115,1982,-3 %,Aktuel værdi
+Barrit Langgade 997150 Barrit,rrit,770.000,19-12-2014,Alm. Salg,7.938,4,Villa,97,1952,-3 %,Aktuel værdi
+Barrit Stationsvej 87150 Barrit,rrit,500.000,16-12-2014,Alm. Salg,4.201,3,Villa,119,1938,,Aktuel værdi
+Staksrodevej 13B7150 Barrit,rrit,535.000,12-12-2014,Auktion,2.939,4,Villa,182,1863,-53 %,Aktuel værdi
+Barrit Langgade 647150 Barrit,rrit,585.000,09-12-2014,Alm. Salg,4.431,4,Villa,132,1960,-6 %,Aktuel værdi
+Skerrildgårdvej 97150 Barrit,rrit,1.400.000,01-12-2014,Alm. Salg,5.932,8,Villa,236,1990,-12 %,Aktuel værdi
+Dynnesvej 217150 Barrit,rrit,620.000,19-11-2014,Alm. Salg,5.166,4,Villa,120,1976,-4 %,Aktuel værdi
+Brethvej 87150 Barrit,rrit,1.237.500,03-10-2014,Alm. Salg,11.899,4,Villa,104,1897,-4 %,Aktuel værdi
+Kirkebro 57150 Barrit,rrit,685.000,15-08-2014,Alm. Salg,6.116,5,Villa,112,1959,-14 %,Aktuel værdi
+Bagervænget 117150 Barrit,rrit,760.000,26-05-2014,Alm. Salg,6.608,4,Villa,115,1965,-5 %,Aktuel værdi
+Vejlevej 587150 Barrit,rrit,1.000.000,21-05-2014,Alm. Salg,11.111,4,Stuehus,90,1954,,
+Barrit Langgade 1357150 Barrit,rrit,500.000,27-04-2014,Alm. Salg,4.901,4,Villa,102,1962,-8 %,Aktuel værdi
+Brølbæk 157150 Barrit,rrit,300.000,11-04-2014,Alm. Salg,2.380,4,Villa,126,1953,,Aktuel værdi
+Høkervej 1B7150 Barrit,rrit,1.512.000,24-03-2014,Alm. Salg,10.427,6,Villa,145,1996,-11 %,Aktuel værdi
+Bagervænget 197150 Barrit,rrit,699.000,27-02-2014,Alm. Salg,5.592,4,Villa,125,1965,0 %,Aktuel værdi
+Barrit Langgade 117150 Barrit,rrit,350.000,14-02-2014,Auktion,2.692,5,Villa,130,1968,,Aktuel værdi
+Barrit Langgade 47150 Barrit,rrit,1.675.000,28-01-2014,Alm. Salg,10.090,5,Villa,166,1974,-7 %,Aktuel værdi
+Barrit Langgade 787150 Barrit,rrit,1.050.000,09-01-2014,Fam. Salg,4.468,5,Villa,235,1897,,Aktuel værdi
+Barrit Langgade 637150 Barrit,rrit,1.100.000,13-12-2013,Alm. Salg,5.188,7,Villa,212,1885,-8 %,Aktuel værdi
+Dynnesvej 237150 Barrit,rrit,700.000,04-12-2013,Alm. Salg,4.487,5,Villa,156,1976,-12 %,Aktuel værdi
+Vangevej 207150 Barrit,rrit,514.890,06-11-2013,Alm. Salg,2.574,6,Villa,200,2010,,Aktuel værdi
+Overmarksvej 27150 Barrit,rrit,950.000,10-10-2013,Fam. Salg,5.000,6,Villa,190,1875,,Aktuel værdi
+Vangevej 97150 Barrit,rrit,900.000,23-09-2013,Alm. Salg,5.113,6,Villa,176,1971,-18 %,Aktuel værdi
+Barrit Langgade 1587150 Barrit,rrit,1.250.000,19-09-2013,Alm. Salg,5.230,6,Villa,239,1898,-3 %,Aktuel værdi
+Gramtangevej 177150 Barrit,rrit,1.350.000,04-09-2013,Alm. Salg,8.333,4,Villa,162,1981,-10 %,Aktuel værdi
+Barrit Langgade 1957150 Barrit,rrit,450.000,22-08-2013,Alm. Salg,3.750,5,Villa,120,1951,,Aktuel værdi
+Barrit Stationsvej 77150 Barrit,rrit,650.000,06-08-2013,Alm. Salg,7.831,3,Villa,83,1960,-6 %,Aktuel værdi
+Barrit Langgade 1037150 Barrit,rrit,375.180,07-07-2013,Alm. Salg,1.437,6,Stuehus,261,2007,,
+Barrit Langgade 1877150 Barrit,rrit,925.000,19-06-2013,Alm. Salg,5.441,8,Villa,170,1877,0 %,Aktuel værdi
+Brølbæk 197150 Barrit,rrit,735.000,14-06-2013,Fam. Salg,8.166,5,Villa,90,1957,,Aktuel værdi
+Surmosevej 237150 Barrit,rrit,1.575.000,07-06-2013,Fam. Salg,12.804,6,Stuehus,123,1877,,
+Vævergade 327150 Barrit,rrit,500.000,23-05-2013,Alm. Salg,4.464,4,Villa,112,1942,-20 %,Aktuel værdi
+Vævergade 117150 Barrit,rrit,160.000,07-12-2012,Auktion,1.927,3,Villa,83,1850,,Aktuel værdi
+Barrit Langgade 627150 Barrit,rrit,595.000,30-11-2012,Alm. Salg,5.509,3,Villa,108,1950,0 %,Aktuel værdi
+Randvej 37150 Barrit,rrit,1.091.109,12-10-2012,Alm. Salg,5.245,5,Stuehus,208,1941,,
+Surmosevej 77150 Barrit,rrit,1.422.500,15-09-2012,Alm. Salg,8.835,4,Villa,161,1977,-5 %,Aktuel værdi
+Dynnesvej 17150 Barrit,rrit,1.025.000,25-07-2012,Alm. Salg,6.101,5,Villa,168,1980,-2 %,Aktuel værdi
+Blæsbjergvej 17150 Barrit,rrit,470.000,29-06-2012,Auktion,2.974,6,Villa,158,1892,-54 %,Aktuel værdi
+Barrit Langgade 447150 Barrit,rrit,624.000,29-05-2012,Alm. Salg,4.691,4,Villa,133,1956,-58 %,Aktuel værdi
+Staksrodevej 17C7150 Barrit,rrit,300.000,25-05-2012,Fam. Salg,2.142,4,Villa,140,2014,,Aktuel værdi
+Barrit Langgade 1157150 Barrit,rrit,5.479.000,16-05-2012,Fam. Salg,49.809,4,Stuehus,110,1912,,
+Brølbæk 1B7150 Barrit,rrit,500.000,20-04-2012,Auktion,2.314,6,Rækkehus,216,1910,-64 %,Aktuel værdi
+Barrit Hulevej 47150 Barrit,rrit,625.000,28-02-2012,Alm. Salg,6.127,3,Villa,102,1962,,Aktuel værdi
+Vangevej 107150 Barrit,rrit,500.000,21-02-2012,Alm. Salg,3.030,6,Villa,165,1969,,Aktuel værdi
+Barrit Langgade 807150 Barrit,rrit,2.000.000,10-02-2012,Alm. Salg,19.230,7,Industri o.l.,104,1964,,Aktuel værdi
+Gramtangevej 47150 Barrit,rrit,900.000,21-12-2011,Alm. Salg,8.181,4,Villa,110,1995,-59 %,Aktuel værdi
+Serupsvej 177150 Barrit,rrit,1.900.000,07-12-2011,Alm. Salg,8.755,8,Villa,217,1877,-13 %,Aktuel værdi
+Bagervænget 147150 Barrit,rrit,1.025.000,18-11-2011,Alm. Salg,7.536,4,Villa,136,1964,,Aktuel værdi
+Barrit Langgade 1327150 Barrit,rrit,630.000,20-10-2011,Alm. Salg,6.774,4,Rækkehus,93,1959,-7 %,Aktuel værdi
+Vangevej 167150 Barrit,rrit,1.000.000,14-09-2011,Alm. Salg,6.134,5,Villa,163,1973,,Aktuel værdi
+Korsbækdal 17150 Barrit,rrit,1.565.000,13-09-2011,Alm. Salg,8.236,6,Villa,190,2001,-8 %,Aktuel værdi
+Barrit Langgade 77150 Barrit,rrit,700.000,14-07-2011,Alm. Salg,6.194,4,Villa,113,1963,-12 %,Aktuel værdi
+Lhombrevej 27150 Barrit,rrit,870.000,01-06-2011,Alm. Salg,10.875,4,Villa,80,1777,-3 %,Aktuel værdi
+Vangevej 287150 Barrit,rrit,695.000,26-05-2011,Alm. Salg,5.429,3,Villa,128,1969,-13 %,Aktuel værdi
+Barrit Langgade 707150 Barrit,rrit,780.000,14-04-2011,Alm. Salg,5.131,3,Villa,152,1877,-2 %,Aktuel værdi
+Barrit Stationsvej 47150 Barrit,rrit,650.000,24-02-2011,Auktion,2.355,8,Villa,276,1908,,Aktuel værdi
+Brølbæk 1A7150 Barrit,rrit,180.000,18-02-2011,Auktion,1.353,4,Rækkehus,133,1910,-70 %,Aktuel værdi
+Vangevej 267150 Barrit,rrit,1.090.000,03-02-2011,Alm. Salg,7.676,6,Villa,142,1972,,Aktuel værdi
+Dynnesvej 177150 Barrit,rrit,710.000,04-01-2011,Alm. Salg,6.339,4,Villa,112,1978,-11 %,Aktuel værdi
+Barrit Langgade 1107150 Barrit,rrit,930.000,14-12-2010,Alm. Salg,5.284,4,Villa,176,1962,-7 %,Aktuel værdi
+Bagervænget 57150 Barrit,rrit,775.000,08-12-2010,Alm. Salg,8.072,3,Villa,96,1966,-13 %,Aktuel værdi
+Serupsvej 147150 Barrit,rrit,575.000,25-11-2010,Alm. Salg,7.876,3,Villa,73,1850,-12 %,Aktuel værdi
+Brethvej 67150 Barrit,rrit,685.000,29-10-2010,Alm. Salg,5.708,6,Villa,120,1965,-1 %,Aktuel værdi
+Staksrodevej 417150 Barrit,rrit,1.070.000,27-09-2010,Alm. Salg,7.535,6,Villa,142,1900,-2 %,Aktuel værdi
+Barrit Langgade 877150 Barrit,rrit,513.000,21-09-2010,Alm. Salg,7.434,3,Villa,69,1877,,Aktuel værdi
+Vævergade 367150 Barrit,rrit,950.000,15-09-2010,Alm. Salg,7.089,4,Villa,134,1963,-11 %,Aktuel værdi
+Barrit Langgade 1857150 Barrit,rrit,455.128,09-09-2010,Auktion,3.992,4,Villa,114,1946,-8 %,Aktuel værdi
+Bagervænget 177150 Barrit,rrit,875.000,09-07-2010,Alm. Salg,7.352,4,Villa,119,1965,-10 %,Aktuel værdi
+Barrit Langgade 187150 Barrit,rrit,544.554,24-06-2010,Alm. Salg,-,6,Villa,178,1918,-54 %,Aktuel værdi
+Surmosevej 3B7150 Barrit,rrit,1.500.000,15-04-2010,Auktion,6.097,5,Villa,246,1877,-35 %,Aktuel værdi
+Barrit Langgade 857150 Barrit,rrit,420.000,25-03-2010,Alm. Salg,4.000,4,Rækkehus,105,1920,-15 %,Aktuel værdi
+Bakkesvinget 407150 Barrit,rrit,1.345.000,20-03-2010,Alm. Salg,8.302,6,Villa,162,1975,-4 %,Aktuel værdi
+Overmarksvej 17150 Barrit,rrit,395.000,12-03-2010,Fam. Salg,2.821,5,Villa,140,1877,,Aktuel værdi
+Vævergade 57150 Barrit,rrit,650.000,12-02-2010,Auktion,7.558,4,Villa,86,1877,,Aktuel værdi
+Gramtangevej 17150 Barrit,rrit,1.545.000,07-02-2010,Alm. Salg,9.537,6,Villa,162,1900,-3 %,Aktuel værdi
+Brethvej 117150 Barrit,rrit,1.125.000,23-01-2010,Alm. Salg,7.500,6,Villa,150,1890,,Aktuel værdi
+Overmarksvej 37150 Barrit,rrit,1.475.000,14-01-2010,Alm. Salg,10.034,5,Villa,147,1900,-8 %,Aktuel værdi
+Barrit Langgade 1867150 Barrit,rrit,450.000,18-11-2009,Auktion,2.542,8,Villa,177,1941,,Aktuel værdi
+Skerrildgårdvej 57150 Barrit,rrit,1.840.000,16-11-2009,Alm. Salg,6.996,9,Villa,263,1877,,Aktuel værdi
+Nørløkkevej 27150 Barrit,rrit,825.000,24-09-2009,Alm. Salg,7.500,4,Villa,110,1961,0 %,Aktuel værdi
+Vævergade 187150 Barrit,rrit,1.495.000,14-09-2009,Alm. Salg,7.512,7,Villa,199,1976,-6 %,Aktuel værdi
+Barrit Langgade 1317150 Barrit,rrit,2.098.000,08-09-2009,Alm. Salg,9.004,8,Villa,233,1927,-4 %,Aktuel værdi
+Brølbæk 107150 Barrit,rrit,700.000,03-08-2009,Alm. Salg,5.343,4,Villa,131,1960,-7 %,Aktuel værdi
+Vangevej 77150 Barrit,rrit,795.000,23-07-2009,Alm. Salg,8.281,4,Villa,96,1966,-4 %,Aktuel værdi
+Vangevej 157150 Barrit,rrit,700.000,10-07-2009,Alm. Salg,5.882,4,Villa,119,1970,-12 %,Aktuel værdi
+Barrit Langgade 67150 Barrit,rrit,1.145.000,29-06-2009,Alm. Salg,6.856,5,Villa,167,1960,-12 %,Aktuel værdi
+Vævergade 217150 Barrit,rrit,80.000,22-06-2009,Alm. Salg,526,4,Villa,152,1964,,Aktuel værdi
+Vævergade 197150 Barrit,rrit,610.000,19-06-2009,Alm. Salg,-,6,Villa,212,1943,,Aktuel værdi
+Brethvej 17150 Barrit,rrit,950.000,28-05-2009,Alm. Salg,2.386,6,Villa,398,1900,,Aktuel værdi
+Blæsbjergvej 77150 Barrit,rrit,1.800.000,18-05-2009,Fam. Salg,10.000,6,Villa,180,1910,0 %,Aktuel værdi
+Kirkebro 47150 Barrit,rrit,530.000,14-05-2009,Fam. Salg,6.162,4,Villa,86,1916,,Aktuel værdi
+Lykkevej 17150 Barrit,rrit,450.000,04-05-2009,Alm. Salg,3.125,4,Villa,144,1887,-43 %,Aktuel værdi
+Barrit Langgade 1647150 Barrit,rrit,1.098.000,26-04-2009,Alm. Salg,10.980,4,Villa,100,1960,0 %,Aktuel værdi
+Barrit Langgade 1457150 Barrit,rrit,810.000,17-04-2009,Alm. Salg,5.827,5,Villa,139,1941,-19 %,Aktuel værdi
+Skulsballevej 67150 Barrit,rrit,10.600.000,20-01-2009,Alm. Salg,63.473,4,Stuehus,167,1901,,
+Staksrodevej 437150 Barrit,rrit,1.350.000,28-12-2008,Fam. Salg,10.975,4,Sommerhus,123,1850,,Aktuel værdi
+Brethvej 27150 Barrit,rrit,355.000,13-10-2008,Alm. Salg,5.298,3,Villa,67,1956,,Aktuel værdi
+Vævergade 147150 Barrit,rrit,695.000,03-10-2008,Auktion,6.205,4,Villa,112,1973,,Aktuel værdi
+Barrit Langgade 17150 Barrit,rrit,2.200.000,12-09-2008,Alm. Salg,10.476,6,Villa,210,1909,-4 %,Aktuel værdi
+Brethvej 77150 Barrit,rrit,884.835,21-08-2008,Alm. Salg,4.657,5,Villa,190,1849,,Aktuel værdi
+Brethvej 127150 Barrit,rrit,1.095.000,12-08-2008,Alm. Salg,13.035,4,Villa,84,1825,0 %,Aktuel værdi
+Serupsvej 57150 Barrit,rrit,960.000,04-07-2008,Alm. Salg,5.647,5,Villa,170,1913,-6 %,Aktuel værdi
+Randvej 17150 Barrit,rrit,7.000.000,02-07-2008,Alm. Salg,51.851,6,Villa,135,1858,,Aktuel værdi
+Smedskærlund 207150 Barrit,rrit,2.250.000,30-06-2008,Alm. Salg,15.734,6,Villa,143,1890,-10 %,Aktuel værdi
+Fennen 167150 Barrit,rrit,1.345.000,04-06-2008,Alm. Salg,11.594,4,Villa,116,1977,0 %,Aktuel værdi
+Korsbækdal 47150 Barrit,rrit,1.395.000,27-05-2008,Alm. Salg,8.558,6,Villa,163,1867,0 %,Aktuel værdi
+Barrit Langgade 97150 Barrit,rrit,1.185.000,20-05-2008,Alm. Salg,7.900,6,Villa,150,1964,-3 %,Aktuel værdi
+Blæsbjergvej 177150 Barrit,rrit,198.231,02-05-2008,Alm. Salg,1.126,7,Stuehus,176,1888,,
+Vejlevej 477150 Barrit,rrit,231.423,02-05-2008,Alm. Salg,1.361,9,Stuehus,170,1965,,
+Vejlevej 547150 Barrit,rrit,85.000,02-05-2008,Alm. Salg,412,6,Stuehus,206,1872,,
+Smedskærlund 267150 Barrit,rrit,3.130.000,17-04-2008,Alm. Salg,16.918,5,Villa,185,1972,-7 %,Aktuel værdi
+Vævergade 87150 Barrit,rrit,1.170.000,10-03-2008,Alm. Salg,3.391,8,Villa,345,1939,,Aktuel værdi
+Vævergade 10A7150 Barrit,rrit,240.000,20-02-2008,Fam. Salg,1.621,5,Villa,148,2011,,Aktuel værdi
+Barrit Langgade 657150 Barrit,rrit,807.815,04-02-2008,Andet,4.039,7,Villa,200,1880,,Aktuel værdi
+Barrit Langgade 667150 Barrit,rrit,1.050.000,19-01-2008,Alm. Salg,9.545,3,Villa,110,1962,0 %,Aktuel værdi
+Randvej 177150 Barrit,rrit,1.200.000,17-01-2008,Alm. Salg,10.000,3,Villa,120,1970,,Aktuel værdi
+Korsbækdal 107150 Barrit,rrit,416.500,04-12-2007,Fam. Salg,7.572,3,Sommerhus,55,1867,,Aktuel værdi
+Barrit Langgade 327150 Barrit,rrit,1.800.000,25-10-2007,Alm. Salg,10.465,4,Villa,172,1877,,Aktuel værdi
+Skerrildgårdvej 47150 Barrit,rrit,600.000,25-10-2007,Fam. Salg,4.958,4,Villa,121,1987,,Aktuel værdi
+Vævergade 207150 Barrit,rrit,1.750.000,24-10-2007,Alm. Salg,10.542,5,Villa,166,1950,,Aktuel værdi
+Høkervænget 67150 Barrit,rrit,340.000,03-10-2007,Alm. Salg,2.125,6,Villa,160,2008,,Aktuel værdi
+Blæsbjergvej 117150 Barrit,rrit,1.895.000,19-09-2007,Alm. Salg,12.891,4,Villa,147,1934,0 %,Aktuel værdi
+Randvej 157150 Barrit,rrit,995.000,17-09-2007,Alm. Salg,16.583,3,Villa,60,1954,,Aktuel værdi
+Høkervej 167150 Barrit,rrit,1.150.000,29-08-2007,Alm. Salg,10.454,4,Villa,110,1949,0 %,Aktuel værdi
+Vejlevej 527150 Barrit,rrit,1.327.000,23-07-2007,Alm. Salg,15.797,3,Villa,84,1850,,Aktuel værdi
+Serupsvej 137150 Barrit,rrit,1.095.000,03-07-2007,Alm. Salg,8.423,5,Villa,130,1931,,Aktuel værdi
+Barrit Langgade 1757150 Barrit,rrit,1.550.000,15-06-2007,Alm. Salg,8.806,7,Villa,176,1915,,Aktuel værdi
+Barrit Langgade 1247150 Barrit,rrit,1.035.000,11-06-2007,Alm. Salg,11.129,4,Rækkehus,93,1959,,Aktuel værdi
+Barrit Langgade 1467150 Barrit,rrit,547.185,01-06-2007,Alm. Salg,4.929,4,Villa,111,1948,,Aktuel værdi
+Barrit Langgade 1427150 Barrit,rrit,1.250.000,29-05-2007,Alm. Salg,12.254,4,Villa,102,1950,,Aktuel værdi
+Barrit Langgade 847150 Barrit,rrit,698.460,18-05-2007,Alm. Salg,3.174,6,Villa,220,1870,,Aktuel værdi
+Barrit Langgade 907150 Barrit,rrit,200.000,14-05-2007,Alm. Salg,854,8,Villa,234,2009,,Aktuel værdi
+Skulsballevej 47150 Barrit,rrit,2.885.000,30-04-2007,Alm. Salg,10.490,7,Villa,275,1847,,Aktuel værdi
+Brethvej 47150 Barrit,rrit,1.050.000,27-04-2007,Alm. Salg,9.459,3,Villa,111,1910,,Aktuel værdi
+Barrit Langgade 577150 Barrit,rrit,1.095.000,23-04-2007,Alm. Salg,7.300,4,Villa,150,1900,,Aktuel værdi
+Geert Strandvej 57150 Barrit,rrit,3.400.000,03-04-2007,Fam. Salg,38.202,4,Sommerhus,89,1777,,Aktuel værdi
+Gramtangevej 117150 Barrit,rrit,2.145.000,27-03-2007,Alm. Salg,8.511,7,Villa,252,1877,,Aktuel værdi
+Barrit Langgade 207150 Barrit,rrit,1.225.000,14-03-2007,Alm. Salg,9.496,4,Villa,129,1959,,Aktuel værdi
+Korsbækdal 87150 Barrit,rrit,7.500.000,05-01-2007,Fam. Salg,35.885,8,Stuehus,209,1970,,
+Barrit Langgade 1517150 Barrit,rrit,1.245.000,08-12-2006,Alm. Salg,7.781,5,Villa,160,1936,,Aktuel værdi
+Ørnsvigvej 37150 Barrit,rrit,1.395.000,14-11-2006,Alm. Salg,14.090,4,Villa,99,1913,,Aktuel værdi
+Brølbæk 287150 Barrit,rrit,700.000,14-09-2006,Alm. Salg,9.859,2,Villa,71,1932,,Aktuel værdi
+Skulsballevej 37150 Barrit,rrit,2.295.000,10-09-2006,Alm. Salg,12.207,6,Villa,188,1860,,Aktuel værdi
+Midterfolden 57150 Barrit,rrit,173.758,28-08-2006,Alm. Salg,1.143,5,Villa,152,2007,,Aktuel værdi
+Midterfolden 77150 Barrit,rrit,173.758,24-08-2006,Alm. Salg,1.206,5,Villa,144,2007,,Aktuel værdi
+Vævergade 27150 Barrit,rrit,820.000,17-08-2006,Alm. Salg,7.321,6,Villa,112,1930,,Aktuel værdi
+Barrit Langgade 1417150 Barrit,rrit,1.150.000,05-08-2006,Alm. Salg,8.984,4,Villa,128,1973,,Aktuel værdi
+Barrit Hulevej 27150 Barrit,rrit,610.000,24-07-2006,Alm. Salg,10.517,2,Villa,58,1870,,Aktuel værdi
+Skerrildgårdvej 27150 Barrit,rrit,1.600.000,28-06-2006,Alm. Salg,11.594,4,Villa,138,1920,,Aktuel værdi
+Barrit Langgade 397150 Barrit,rrit,950.000,28-06-2006,Alm. Salg,7.037,5,Villa,135,1952,,Aktuel værdi
+Randvej 167150 Barrit,rrit,1.800.000,27-06-2006,Alm. Salg,12.949,5,Villa,139,1969,,Aktuel værdi
+Kirkebro 77150 Barrit,rrit,1.295.000,21-06-2006,Alm. Salg,4.796,6,Villa,270,1974,,Aktuel værdi
+Ørnsvigvej 87150 Barrit,rrit,1.850.000,08-06-2006,Alm. Salg,10.511,7,Villa,176,1870,,Aktuel værdi
+Høkervænget 47150 Barrit,rrit,360.000,02-06-2006,Alm. Salg,2.337,4,Villa,154,2007,,Aktuel værdi
+Midterfolden 107150 Barrit,rrit,180.441,01-06-2006,Alm. Salg,1.219,5,Villa,148,2007,,Aktuel værdi
+Lykkevej 27150 Barrit,rrit,960.000,19-05-2006,Alm. Salg,11.566,4,Villa,83,1932,,Aktuel værdi
+Skulsballevej 17150 Barrit,rrit,1.995.000,17-05-2006,Alm. Salg,10.445,6,Villa,191,1997,,Aktuel værdi
+Høkervej 127150 Barrit,rrit,1.283.000,08-05-2006,Alm. Salg,8.610,4,Villa,149,1974,,Aktuel værdi
+Bakkesvinget 97150 Barrit,rrit,1.295.000,04-05-2006,Alm. Salg,8.633,5,Villa,150,1973,,Aktuel værdi
+Vævergade 127150 Barrit,rrit,895.000,03-05-2006,Alm. Salg,6.832,5,Villa,131,1910,,Aktuel værdi
+Vandmøllevej 37150 Barrit,rrit,3.500.000,24-04-2006,Alm. Salg,17.073,8,Villa,205,1863,,Aktuel værdi
+Barrit Langgade 1077150 Barrit,rrit,875.000,22-04-2006,Alm. Salg,-,6,Villa,150,1870,,Aktuel værdi
+Serupsvej 187150 Barrit,rrit,80.000,10-04-2006,Alm. Salg,-,8,Stuehus,193,1870,,
+Bagervænget 27150 Barrit,rrit,1.025.000,13-03-2006,Alm. Salg,7.481,3,Villa,137,1964,,Aktuel værdi
+Vævergade 247150 Barrit,rrit,570.468,13-03-2006,Alm. Salg,3.656,7,Villa,156,1957,,Aktuel værdi
+Barrit Stationsvej 37150 Barrit,rrit,675.000,08-03-2006,Alm. Salg,5.192,6,Villa,130,1920,,Aktuel værdi
+Barrit Langgade 1497150 Barrit,rrit,1.255.000,01-03-2006,Alm. Salg,6.605,6,Villa,190,1930,,Aktuel værdi
+Midterfolden 177150 Barrit,rrit,1.375.000,25-02-2006,Alm. Salg,8.088,5,Villa,170,1980,,Aktuel værdi
+Smedskærlund 197150 Barrit,rrit,1.150.000,15-02-2006,Alm. Salg,7.931,4,Villa,145,1916,,Aktuel værdi
+Vangevej 27150 Barrit,rrit,1.490.000,23-01-2006,Alm. Salg,6.106,8,Villa,244,1967,,Aktuel værdi
+Barrit Stationsvej 127150 Barrit,rrit,600.696,13-12-2005,Alm. Salg,-,3,Villa,174,1945,,Aktuel værdi
+Fennen 177150 Barrit,rrit,955.000,12-12-2005,Alm. Salg,7.519,5,Rækkehus,127,1984,,Aktuel værdi
+Randvej 27150 Barrit,rrit,1.400.000,16-11-2005,Alm. Salg,9.333,8,Villa,150,1880,,Aktuel værdi
+Barrit Langgade 1347150 Barrit,rrit,735.000,14-11-2005,Alm. Salg,7.903,4,Rækkehus,93,1959,,Aktuel værdi
+Barrit Langgade 777150 Barrit,rrit,1.095.000,29-08-2005,Alm. Salg,-,5,Villa,160,1910,,Aktuel værdi
+Barrit Langgade 607150 Barrit,rrit,635.000,25-08-2005,Alm. Salg,5.669,4,Villa,112,1957,,Aktuel værdi
+Ørnsvigvej 67150 Barrit,rrit,675.000,22-08-2005,Alm. Salg,2.596,6,Villa,260,2007,,Aktuel værdi
+Barrit Langgade 677150 Barrit,rrit,423.748,04-08-2005,Fam. Salg,4.074,5,Villa,104,1900,,Aktuel værdi
+Barrit Langgade 1287150 Barrit,rrit,659.000,15-07-2005,Alm. Salg,7.086,4,Rækkehus,93,1959,,Aktuel værdi
+Midterfolden 47150 Barrit,rrit,173.758,12-07-2005,Alm. Salg,1.099,5,Villa,158,2006,,Aktuel værdi
+Midterfolden 37150 Barrit,rrit,173.758,29-06-2005,Alm. Salg,1.326,4,Villa,131,2006,,Aktuel værdi
+Ørnsvigvej 27150 Barrit,rrit,9.191.810,28-06-2005,Fam. Salg,45.959,6,Stuehus,200,1912,,
+Barrit Langgade 1717150 Barrit,rrit,978.845,10-06-2005,Auktion,5.968,5,Villa,164,1900,,Aktuel værdi
+Kirkebro 187150 Barrit,rrit,899.000,25-05-2005,Alm. Salg,5.137,6,Villa,175,1800,,Aktuel værdi
+Dynnesvej 37150 Barrit,rrit,880.000,07-05-2005,Alm. Salg,-,4,Villa,129,1979,,Aktuel værdi
+Brølbæk 127150 Barrit,rrit,432.397,25-04-2005,Andet,2.485,5,Villa,174,1884,,Aktuel værdi
+Geert Strandvej 37150 Barrit,rrit,1.000.000,24-04-2005,Fam. Salg,13.698,3,Sommerhus,73,1850,,Aktuel værdi
+Bagervænget 107150 Barrit,rrit,670.000,18-04-2005,Alm. Salg,5.982,4,Villa,112,1964,,Aktuel værdi
+Barrit Langgade 87150 Barrit,rrit,1.257.500,04-04-2005,Alm. Salg,6.834,6,Villa,184,1906,,Aktuel værdi
+Staksrodevej 357150 Barrit,rrit,1.385.000,04-03-2005,Alm. Salg,6.471,7,Villa,214,1777,,Aktuel værdi
+Randvej 267150 Barrit,rrit,1.100.000,28-01-2005,Alm. Salg,4.453,8,Villa,247,1969,,Aktuel værdi
+Brølbæk 247150 Barrit,rrit,975.000,20-01-2005,Alm. Salg,7.500,4,Villa,130,1827,,Aktuel værdi
+Barrit Langgade 147150 Barrit,rrit,685.000,06-12-2004,Alm. Salg,5.351,4,Villa,128,1962,,Aktuel værdi
+Blæsbjergvej 47150 Barrit,rrit,395.000,23-09-2004,Alm. Salg,4.157,4,Villa,95,1908,,Aktuel værdi
+Kirkebro 117150 Barrit,rrit,600.000,05-05-2004,Alm. Salg,4.615,5,Villa,130,1870,,Aktuel værdi
+Lykkevej 57150 Barrit,rrit,3.780.000,26-04-2004,Alm. Salg,23.924,6,Villa,158,1900,,Aktuel værdi
+Barrit Langgade 1837150 Barrit,rrit,455.000,23-04-2004,Alm. Salg,3.500,5,Villa,130,1927,,Aktuel værdi
+Randvej 67150 Barrit,rrit,383.316,05-04-2004,Fam. Salg,4.852,4,Villa,79,1877,,Aktuel værdi
+Kirkebro 167150 Barrit,rrit,625.000,20-01-2004,Alm. Salg,4.734,4,Villa,132,1909,,Aktuel værdi
+Barrit Langgade 1747150 Barrit,rrit,2.750.000,07-01-2004,Fam. Salg,17.187,5,Stuehus,160,1909,,
+Barrit Langgade 947150 Barrit,rrit,870.000,01-12-2003,Alm. Salg,7.016,6,Villa,124,1928,,Aktuel værdi
+Midterfolden 117150 Barrit,rrit,800.000,13-11-2003,Alm. Salg,7.476,4,Villa,107,1980,,Aktuel værdi
+Barrit Langgade 1257150 Barrit,rrit,470.000,21-10-2003,Fam. Salg,4.519,3,Villa,104,1939,,Aktuel værdi
+Randvej 287150 Barrit,rrit,520.000,20-10-2003,Alm. Salg,4.062,4,Villa,128,1930,,Aktuel værdi
+Barrit Langgade 697150 Barrit,rrit,410.000,14-10-2003,Alm. Salg,2.356,6,Villa,174,1900,,Aktuel værdi
+Surmosevej 117150 Barrit,rrit,850.000,13-10-2003,Alm. Salg,4.250,8,Villa,200,1860,,Aktuel værdi
+Barrit Langgade 1607150 Barrit,rrit,737.000,06-10-2003,Fam. Salg,2.440,8,Stuehus,302,1930,,
+Høkervej 1A7150 Barrit,rrit,790.000,24-09-2003,Alm. Salg,6.171,4,Villa,128,1890,,Aktuel værdi
+Staksrodevej 147150 Barrit,rrit,564.965,15-09-2003,Alm. Salg,5.885,4,Villa,96,1781,,Aktuel værdi
+Midterfolden 137150 Barrit,rrit,1.195.000,11-07-2003,Alm. Salg,6.867,4,Villa,174,1980,,Aktuel værdi
+Skulsballevej 77150 Barrit,rrit,1.300.000,10-07-2003,Alm. Salg,7.692,8,Villa,169,1900,,Aktuel værdi
+Smedskærlund 127150 Barrit,rrit,1.300.000,03-07-2003,Alm. Salg,8.074,5,Villa,161,1904,,Aktuel værdi
+Gramtangevej 57150 Barrit,rrit,621.073,28-06-2003,Alm. Salg,6.824,3,Villa,91,1900,,Aktuel værdi
+Brethvej 37150 Barrit,rrit,824.762,28-06-2003,Alm. Salg,5.572,5,Villa,148,1931,,Aktuel værdi
+Vævergade 267150 Barrit,rrit,780.008,24-06-2003,Alm. Salg,6.000,4,Villa,130,1957,,Aktuel værdi
+Randvej 117150 Barrit,rrit,1.625.000,07-05-2003,Alm. Salg,9.730,5,Villa,167,1910,,Aktuel værdi
+Gramtangevej 157150 Barrit,rrit,885.000,24-01-2003,Alm. Salg,6.413,11,Villa,138,1963,,Aktuel værdi
+Fennen 187150 Barrit,rrit,755.000,09-10-2002,Alm. Salg,6.508,4,Villa,116,1977,,Aktuel værdi
+Overmarksvej 47150 Barrit,rrit,675.000,04-10-2002,Fam. Salg,-,5,Villa,141,1924,,Aktuel værdi
+Kirkebro 67150 Barrit,rrit,650.000,12-09-2002,Alm. Salg,4.333,5,Villa,150,1952,,Aktuel værdi
+Barrit Langgade 687150 Barrit,rrit,501.000,10-09-2002,Auktion,4.682,4,Villa,107,1964,,Aktuel værdi
+Kirkebro 87150 Barrit,rrit,925.000,17-06-2002,Alm. Salg,6.902,5,Villa,134,1926,,Aktuel værdi
+Midterfolden 147150 Barrit,rrit,236.341,15-04-2002,Alm. Salg,1.641,6,Villa,144,2002,,Aktuel værdi
+Midterfolden 157150 Barrit,rrit,970.000,06-04-2002,Alm. Salg,6.423,4,Villa,151,1980,,Aktuel værdi
+Dynnesvej 137150 Barrit,rrit,755.000,02-04-2002,Alm. Salg,6.508,4,Villa,116,1979,,Aktuel værdi
+Barrit Langgade 1547150 Barrit,rrit,970.000,27-03-2002,Alm. Salg,5.105,5,Villa,190,1979,,Aktuel værdi
+Gramtangevej 37150 Barrit,rrit,1.492.500,15-03-2002,Alm. Salg,9.156,6,Villa,163,1912,,Aktuel værdi
+Høkervej 147150 Barrit,rrit,760.000,27-02-2002,Alm. Salg,6.333,4,Villa,120,1963,,Aktuel værdi
+Bagervænget 187150 Barrit,rrit,970.000,21-01-2002,Alm. Salg,5.574,4,Villa,174,1965,,Aktuel værdi
+Randvej 16B7150 Barrit,rrit,664.590,17-01-2002,Alm. Salg,4.615,4,Villa,144,2005,,Aktuel værdi
+Barrit Langgade 1817150 Barrit,rrit,638.000,03-01-2002,Alm. Salg,4.253,6,Villa,150,1870,,Aktuel værdi
+Staksrodevej 67150 Barrit,rrit,1.110.000,28-12-2001,Alm. Salg,5.186,5,Villa,214,2014,,Aktuel værdi
+Lhombrevej 17150 Barrit,rrit,9.200.000,19-12-2001,Alm. Salg,31.724,8,Stuehus,290,1922,,
+Mikkelbro 47150 Barrit,rrit,297.012,22-11-2001,Andet,2.475,3,Villa,120,1977,,Aktuel værdi
+Barrit Langgade 467150 Barrit,rrit,490.000,20-09-2001,Alm. Salg,6.901,4,Villa,71,1949,,Aktuel værdi
+Vangevej 87150 Barrit,rrit,835.000,13-09-2001,Alm. Salg,-,6,Villa,158,1970,,Aktuel værdi
+Barrit Langgade 1007150 Barrit,rrit,915.000,12-09-2001,Alm. Salg,6.310,4,Villa,145,1937,,Aktuel værdi
+Surmosevej 157150 Barrit,rrit,900.000,22-08-2001,Alm. Salg,-,4,Villa,166,1850,,Aktuel værdi
+Barrit Langgade 1927150 Barrit,rrit,720.000,10-08-2001,Alm. Salg,-,5,Villa,174,1820,,Aktuel værdi
+Ørnsvigvej 107150 Barrit,rrit,169.260,01-08-2001,Alm. Salg,2.015,3,Villa,84,1928,,Aktuel værdi
+Dynnesvej 297150 Barrit,rrit,880.000,18-06-2001,Alm. Salg,4.916,5,Villa,179,1978,,Aktuel værdi
+Blæsbjergvej 107150 Barrit,rrit,1.116.394,21-05-2001,Alm. Salg,6.002,6,Villa,186,1931,,Aktuel værdi
+Vandmøllevej 17150 Barrit,rrit,290.000,07-05-2001,Alm. Salg,3.118,3,Villa,93,1930,,Aktuel værdi
+Barrit Stationsvej 57150 Barrit,rrit,870.000,16-03-2001,Alm. Salg,4.887,5,Villa,178,1937,,Aktuel værdi
+Barrit Langgade 217150 Barrit,rrit,595.000,02-03-2001,Auktion,-,3,Villa,182,1942,,Aktuel værdi
+Staksrodevej 217150 Barrit,rrit,225.000,18-01-2001,Alm. Salg,-,6,Villa,135,1921,,Aktuel værdi
+Randvej 57150 Barrit,rrit,2.650.000,08-12-2000,Fam. Salg,13.184,7,Stuehus,201,1983,,
+Randvej 137150 Barrit,rrit,270.000,20-10-2000,Fam. Salg,3.913,4,Villa,69,1890,,Aktuel værdi
+Staksrodevej 317150 Barrit,rrit,340.000,17-08-2000,Alm. Salg,4.358,4,Villa,78,1830,,Aktuel værdi
+Kirkebro 207150 Barrit,rrit,992.061,15-08-2000,Alm. Salg,6.049,5,Villa,164,1827,,Aktuel værdi
+Bagervænget 207150 Barrit,rrit,1.214.826,31-07-2000,Alm. Salg,5.703,9,Villa,213,1968,,Aktuel værdi
+Bagervænget 87150 Barrit,rrit,645.000,11-07-2000,Alm. Salg,5.119,4,Villa,126,1966,,Aktuel værdi
+Blæsbjergvej 87150 Barrit,rrit,565.000,30-06-2000,Alm. Salg,3.951,5,Villa,143,1920,,Aktuel værdi
+Smedskærlund 187150 Barrit,rrit,320.145,18-05-2000,Fam. Salg,2.645,3,Villa,121,1877,,Aktuel værdi
+Barrit Langgade 797150 Barrit,rrit,504.000,16-05-2000,Alm. Salg,5.727,4,Villa,88,1962,,Aktuel værdi
+Staksrodevej 37150 Barrit,rrit,790.000,05-05-2000,Alm. Salg,-,6,Villa,163,1860,,Aktuel værdi
+Barrit Langgade 1657150 Barrit,rrit,35.000,03-04-2000,Alm. Salg,246,4,Villa,142,2000,,Aktuel værdi
+Barrit Langgade 307150 Barrit,rrit,715.000,24-02-2000,Alm. Salg,3.823,9,Villa,187,1909,,Aktuel værdi
+Brølbæk 37150 Barrit,rrit,710.000,27-01-2000,Alm. Salg,-,5,Villa,114,1931,,Aktuel værdi
+Bakkesvinget 117150 Barrit,rrit,643.300,17-01-2000,Alm. Salg,-,5,Villa,187,1973,,Aktuel værdi
+Serupsvej 117150 Barrit,rrit,1.310.000,21-12-1999,Fam. Salg,6.208,6,Stuehus,211,2007,,
+Brølbæk 117150 Barrit,rrit,413.500,04-11-1999,Alm. Salg,4.014,5,Villa,103,1957,,Aktuel værdi
+Staksrodevej 167150 Barrit,rrit,1.250.501,03-09-1999,Alm. Salg,6.129,4,Villa,204,2002,,Aktuel værdi
+Barrit Langgade 557150 Barrit,rrit,547.000,15-03-1999,Alm. Salg,3.772,5,Villa,145,1900,,Aktuel værdi
+Barrit Langgade 1307150 Barrit,rrit,590.957,08-02-1999,Alm. Salg,6.354,4,Rækkehus,93,1959,,Aktuel værdi
+Vævergade 307150 Barrit,rrit,1.149.510,17-12-1998,Alm. Salg,4.210,6,Villa,273,1972,,Aktuel værdi
+Vævergade 97150 Barrit,rrit,508.000,30-11-1998,Alm. Salg,3.907,4,Villa,130,1965,,Aktuel værdi
+Barrit Langgade 1917150 Barrit,rrit,685.000,08-11-1998,Alm. Salg,6.919,5,Villa,99,1949,,Aktuel værdi
+Barrit Langgade 767150 Barrit,rrit,270.000,06-11-1998,Alm. Salg,3.000,3,Villa,90,1949,,Aktuel værdi
+Brølbæk 217150 Barrit,rrit,377.000,22-09-1998,Alm. Salg,-,5,Villa,149,1897,,Aktuel værdi
+Brølbæk 237150 Barrit,rrit,567.000,08-09-1998,Alm. Salg,-,6,Villa,232,1870,,Aktuel værdi
+Lykkevej 47150 Barrit,rrit,1.068.000,25-08-1998,Alm. Salg,6.433,6,Villa,166,1900,,Aktuel værdi
+Vævergade 67150 Barrit,rrit,408.000,04-06-1998,Alm. Salg,5.666,3,Villa,72,1937,,Aktuel værdi
+Barrit Langgade 927150 Barrit,rrit,510.000,03-06-1998,Alm. Salg,6.800,3,Villa,75,1954,,Aktuel værdi
+Barrit Langgade 107150 Barrit,rrit,701.000,26-05-1998,Alm. Salg,-,4,Villa,160,1777,,Aktuel værdi
+Barrit Stationsvej 27150 Barrit,rrit,1.095.000,25-05-1998,Alm. Salg,4.910,13,Villa,223,1964,,Aktuel værdi
+Fennen 87150 Barrit,rrit,568.878,30-03-1998,Alm. Salg,5.523,4,Villa,103,1977,,Aktuel værdi
+Midterfolden 127150 Barrit,rrit,845.000,16-01-1998,Alm. Salg,-,7,Villa,216,1980,,Aktuel værdi
+Barrit Langgade 114A7150 Barrit,rrit,1.615.000,15-01-1998,Alm. Salg,8.367,5,Villa,193,1988,,Aktuel værdi
+Gramtangevej 97150 Barrit,rrit,1.390.943,09-12-1997,Alm. Salg,6.687,6,Stuehus,208,1777,,
+Brølbæk 97150 Barrit,rrit,160.000,06-12-1997,Alm. Salg,1.523,3,Villa,105,1890,,Aktuel værdi
+Barrit Langgade 1367150 Barrit,rrit,553.705,05-12-1997,Fam. Salg,5.174,4,Villa,107,1949,,Aktuel værdi
+Serupsvej 47150 Barrit,rrit,402.006,05-11-1997,Alm. Salg,4.020,3,Villa,100,1777,,Aktuel værdi
+Barrit Langgade 1437150 Barrit,rrit,506.972,29-09-1997,Alm. Salg,3.621,5,Villa,140,2005,,Aktuel værdi
+Barrit Langgade 197150 Barrit,rrit,1.301.400,23-09-1997,Alm. Salg,-,7,Villa,214,1915,,Aktuel værdi
+Kirkebro 17150 Barrit,rrit,1.166.000,14-08-1997,Alm. Salg,-,7,Stuehus,217,1913,,
+Barrit Langgade 827150 Barrit,rrit,541.589,31-07-1997,Alm. Salg,6.017,5,Villa,90,1907,,Aktuel værdi
+Blæsbjergvej 57150 Barrit,rrit,378.226,28-07-1997,Alm. Salg,2.701,4,Villa,140,1892,,Aktuel værdi
+Blæsbjergvej 37150 Barrit,rrit,483.861,28-07-1997,Alm. Salg,4.398,4,Villa,110,1887,,Aktuel værdi
+Surmosevej 217150 Barrit,rrit,689.000,24-07-1997,Alm. Salg,6.321,4,Villa,109,1882,,Aktuel værdi
+Kirkebro 157150 Barrit,rrit,1.071.000,02-07-1997,Fam. Salg,7.140,5,Stuehus,150,1770,,
+Sigurd Stenhøj Vej 17150 Barrit,rrit,736.843,24-06-1997,Alm. Salg,-,8,Villa,210,1900,,Aktuel værdi
+Sigurd Stenhøj Vej 37150 Barrit,rrit,515.000,05-05-1997,Alm. Salg,-,6,Villa,144,1954,,Aktuel værdi
+Skerrildgårdvej 37150 Barrit,rrit,285.000,07-04-1997,Alm. Salg,-,7,Villa,198,1800,,Aktuel værdi
+Barrit Langgade 267150 Barrit,rrit,325.000,14-03-1997,Alm. Salg,1.231,9,Villa,264,1905,,Aktuel værdi
+Blæsbjergvej 97150 Barrit,rrit,234.000,28-02-1997,Alm. Salg,-,4,Villa,151,1925,,Aktuel værdi
+Barrit Langgade 127B7150 Barrit,rrit,380.000,20-01-1997,Alm. Salg,2.857,5,Villa,133,1999,,Aktuel værdi
+Surmosevej 27150 Barrit,rrit,770.000,18-12-1996,Fam. Salg,-,8,Stuehus,256,1870,,
+Barrit Langgade 1277150 Barrit,rrit,200.178,16-12-1996,Fam. Salg,1.450,6,Villa,138,1955,,Aktuel værdi
+Mikkelbro 17150 Barrit,rrit,101.780,16-12-1996,Alm. Salg,742,5,Villa,137,1997,,Aktuel værdi
+Gramtangevej 137150 Barrit,rrit,611.000,05-12-1996,Alm. Salg,4.128,6,Villa,148,1740,,Aktuel værdi
+Ørnsvigvej 47150 Barrit,rrit,635.000,30-09-1996,Alm. Salg,-,7,Villa,213,1877,,Aktuel værdi
+Barrit Langgade 2017150 Barrit,rrit,1.626.186,12-09-1996,Alm. Salg,5.019,8,Villa,324,1964,,Aktuel værdi
+Barrit Langgade 1207150 Barrit,rrit,272.000,15-08-1996,Fam. Salg,3.022,3,Villa,90,1948,,Aktuel værdi
+Barrit Langgade 27150 Barrit,rrit,858.000,09-07-1996,Alm. Salg,6.128,5,Villa,140,1870,,Aktuel værdi
+Staksrodevej 277150 Barrit,rrit,305.000,03-07-1996,Alm. Salg,-,7,Villa,218,1917,,Aktuel værdi
+Rosenvoldvej 297150 Barrit,rrit,1.200.000,02-07-1996,Alm. Salg,-,8,Stuehus,262,1900,,
+Blæsbjergvej 127150 Barrit,rrit,2.350.000,18-06-1996,Alm. Salg,11.989,5,Stuehus,196,1876,,
+Fennen 117150 Barrit,rrit,672.563,12-06-1996,Alm. Salg,4.051,6,Villa,166,1978,,Aktuel værdi
+Randvej 47150 Barrit,rrit,50.000,29-05-1996,Alm. Salg,833,3,Sommerhus,60,1777,,Aktuel værdi
+Barrit Langgade 1387150 Barrit,rrit,310.000,21-05-1996,Alm. Salg,3.444,4,Villa,90,1951,,Aktuel værdi
+Staksrodevej 77150 Barrit,rrit,745.000,07-05-1996,Alm. Salg,-,6,Villa,261,1900,,Aktuel værdi
+Brølbæk 277150 Barrit,rrit,899.000,22-04-1996,Alm. Salg,3.444,6,Villa,261,1924,,Aktuel værdi
+Vævergade 47150 Barrit,rrit,230.000,18-04-1996,Alm. Salg,3.709,3,Villa,62,1877,,Aktuel værdi
+Høkervej 67150 Barrit,rrit,405.000,17-04-1996,Alm. Salg,2.396,5,Villa,169,1927,,Aktuel værdi
+Staksrodevej 397150 Barrit,rrit,620.000,31-03-1996,Alm. Salg,-,9,Villa,178,1902,,Aktuel værdi
+Staksrodevej 157150 Barrit,rrit,523.000,25-03-1996,Alm. Salg,2.355,6,Villa,222,1907,,Aktuel værdi
+Barrit Langgade 59A7150 Barrit,rrit,216.876,12-03-1996,Fam. Salg,1.869,4,Rækkehus,116,1982,,Aktuel værdi
+Dynnesvej 77150 Barrit,rrit,624.853,25-01-1996,Alm. Salg,2.919,6,Villa,214,1979,,Aktuel værdi
+Skerrildgårdvej 77150 Barrit,rrit,75.000,12-10-1995,Alm. Salg,365,5,Villa,205,1998,,Aktuel værdi
+Smedskærlund 167150 Barrit,rrit,875.000,05-10-1995,Alm. Salg,5.271,5,Villa,166,1877,,Aktuel værdi
+Surmosevej 57150 Barrit,rrit,354.000,31-08-1995,Alm. Salg,-,4,Villa,91,1850,,Aktuel værdi
+Lykkevej 67150 Barrit,rrit,135.000,21-08-1995,Alm. Salg,1.038,4,Villa,130,1997,,Aktuel værdi
+Barrit Langgade 357150 Barrit,rrit,450.000,08-08-1995,Alm. Salg,-,5,Villa,148,1946,,Aktuel værdi
+Barrit Langgade 977150 Barrit,rrit,2.240.000,07-08-1995,Andet,13.913,5,Villa,161,1911,,Aktuel værdi
+Barrit Langgade 387150 Barrit,rrit,890.000,28-07-1995,Alm. Salg,5.527,6,Villa,161,1931,,Aktuel værdi
+Bagervænget 47150 Barrit,rrit,290.000,15-05-1995,Alm. Salg,3.918,3,Villa,74,1965,,Aktuel værdi
+Randvej 197150 Barrit,rrit,525.000,14-05-1995,Alm. Salg,-,9,Villa,230,1900,,Aktuel værdi
+Fennen 127150 Barrit,rrit,630.000,08-05-1995,Alm. Salg,3.579,6,Villa,176,1976,,Aktuel værdi
+Smedskærlund 247150 Barrit,rrit,270.000,24-04-1995,Alm. Salg,3.750,3,Villa,72,1900,,Aktuel værdi
+Bakkesvinget 37150 Barrit,rrit,325.000,18-04-1995,Fam. Salg,2.777,4,Villa,117,1970,,Aktuel værdi
+Barrit Langgade 227150 Barrit,rrit,271.564,25-03-1995,Fam. Salg,2.715,4,Villa,100,1961,,Aktuel værdi
+Barrit Langgade 1187150 Barrit,rrit,385.000,24-11-1994,Alm. Salg,4.476,4,Villa,86,1947,,Aktuel værdi
+Brølbæk 77150 Barrit,rrit,450.000,07-11-1994,Alm. Salg,2.812,5,Villa,160,1877,,Aktuel værdi
+Brølbæk 307150 Barrit,rrit,518.500,03-11-1994,Fam. Salg,4.050,5,Stuehus,128,1890,,
+Staksrodevej 177150 Barrit,rrit,607.500,28-10-1994,Alm. Salg,3.164,5,Villa,192,1935,,Aktuel værdi
+Brølbæk 187150 Barrit,rrit,237.000,14-09-1994,Alm. Salg,2.693,3,Villa,88,1930,,Aktuel værdi
+Blæsbjergvej 27150 Barrit,rrit,280.000,28-08-1994,Alm. Salg,2.434,4,Villa,115,1923,,Aktuel værdi
+Midterfolden 17150 Barrit,rrit,465.000,05-08-1994,Alm. Salg,-,9,Villa,199,1979,,Aktuel værdi
+Serupsvej 37150 Barrit,rrit,174.250,25-04-1994,Alm. Salg,-,5,Villa,195,1882,,Aktuel værdi
+Bagervænget 1B7150 Barrit,rrit,635.000,30-11-1993,Alm. Salg,3.848,7,Villa,165,1968,,Aktuel værdi
+Staksrodevej 377150 Barrit,rrit,166.645,19-10-1993,Andet,-,8,Villa,191,1850,,Aktuel værdi
+Fennen 147150 Barrit,rrit,685.763,01-10-1993,Alm. Salg,3.941,6,Villa,174,1976,,Aktuel værdi
+Barrit Langgade 1267150 Barrit,rrit,378.000,30-09-1993,Alm. Salg,4.064,4,Rækkehus,93,1959,,Aktuel værdi
+Barrit Langgade 37150 Barrit,rrit,355.000,22-09-1993,Alm. Salg,-,5,Villa,165,1941,,Aktuel værdi
+Barrit Langgade 177150 Barrit,rrit,425.000,18-09-1993,Alm. Salg,3.541,4,Villa,120,1971,,Aktuel værdi
+Staksrodevej 127150 Barrit,rrit,389.000,06-09-1993,Alm. Salg,3.704,4,Villa,105,1966,,Aktuel værdi
+Bakkesvinget 107150 Barrit,rrit,645.000,16-06-1993,Alm. Salg,3.706,5,Villa,174,1973,,Aktuel værdi
+Barrit Langgade 1027150 Barrit,rrit,855.157,01-04-1993,Fam. Salg,5.120,6,Stuehus,167,1939,,
+Barrit Langgade 487150 Barrit,rrit,225.000,02-03-1993,Alm. Salg,991,6,Villa,227,1950,,Aktuel værdi
+Korsbækdal 27150 Barrit,rrit,575.000,18-02-1993,Fam. Salg,2.566,6,Stuehus,224,2016,,
+Bakkesvinget 157150 Barrit,rrit,529.875,30-01-1993,Alm. Salg,3.784,4,Villa,140,1975,,Aktuel værdi
+Brethvej 57150 Barrit,rrit,640.000,24-01-1993,Fam. Salg,3.368,6,Stuehus,190,1857,,
+Barrit Langgade 1787150 Barrit,rrit,24.386.038,01-11-1992,Alm. Salg,151.466,6,Villa,161,1827,,Aktuel værdi
+Dynnesvej 277150 Barrit,rrit,525.000,01-07-1992,Fam. Salg,3.776,4,Villa,139,1977,,Aktuel værdi
+Brølbæk 167150 Barrit,rrit,330.000,12-04-1992,Alm. Salg,1.709,5,Villa,193,1885,,Aktuel værdi
+Brølbæk 257150 Barrit,rrit,325.000,12-03-1992,Alm. Salg,2.954,4,Villa,110,1962,,Aktuel værdi
+Høkervej 37150 Barrit,rrit,285.000,07-03-1992,Alm. Salg,3.701,3,Villa,77,1897,,Aktuel værdi
+Barrit Langgade 837150 Barrit,rrit,330.000,26-02-1992,Alm. Salg,2.500,5,Villa,132,1900,,Aktuel værdi
+Randvej 97150 Barrit,rrit,740.000,11-02-1992,Alm. Salg,9.367,3,Stuehus,79,1880,,
+Barrit Langgade 167150 Barrit,rrit,353.000,18-01-1992,Alm. Salg,3.361,4,Villa,105,1961,,Aktuel værdi

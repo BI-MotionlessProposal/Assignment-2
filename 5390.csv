@@ -1,0 +1,605 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Rødkløveren 55390 Martofte,ofte,150.000,04-05-2017,Alm. Salg,1.666,4,Sommerhus,90,2006,,Aktuel værdi
+Egensøvej 2855390 Martofte,ofte,86.000,18-04-2017,Alm. Salg,358,9,Stuehus,240,1657,,
+Kvikgræsset 145390 Martofte,ofte,1.400.000,10-04-2017,Alm. Salg,20.000,4,Sommerhus,70,1971,-7 %,Aktuel værdi
+Enghavevej 195390 Martofte,ofte,50.000,22-03-2017,Alm. Salg,400,5,Villa,125,1870,,Aktuel værdi
+Hedelyngen 465390 Martofte,ofte,1.500.000,21-03-2017,Fam. Salg,18.987,4,Sommerhus,79,2006,,Aktuel værdi
+Hjertegræsset 705390 Martofte,ofte,350.000,18-03-2017,Fam. Salg,6.250,3,Sommerhus,56,1966,,Aktuel værdi
+Fløjelsgræsset 335390 Martofte,ofte,2.400.000,01-03-2017,Alm. Salg,42.857,3,Sommerhus,56,1948,-13 %,Aktuel værdi
+Sømærkevej 655390 Martofte,ofte,1.030.000,04-02-2017,Alm. Salg,11.444,5,Sommerhus,90,1962,-14 %,Aktuel værdi
+Klokkelyngen 225390 Martofte,ofte,150.000,17-01-2017,Alm. Salg,1.875,4,Sommerhus,80,1980,,Aktuel værdi
+Sandvejen 455390 Martofte,ofte,807.500,06-01-2017,Alm. Salg,17.944,3,Sommerhus,45,1947,,Aktuel værdi
+Langøvej 5945390 Martofte,ofte,945.000,28-12-2016,Fam. Salg,13.500,4,Sommerhus,70,1973,,Aktuel værdi
+Hjertegræsset 175390 Martofte,ofte,850.000,13-12-2016,Fam. Salg,13.709,5,Sommerhus,62,1967,,Aktuel værdi
+Sandvejen 275390 Martofte,ofte,1.567.500,08-12-2016,Fam. Salg,17.416,2,Sommerhus,90,2009,,Aktuel værdi
+Munkekrogen 205390 Martofte,ofte,1.364.500,23-11-2016,Fam. Salg,13.377,5,Sommerhus,102,2015,,Aktuel værdi
+Bogensøvej 3085390 Martofte,ofte,512.288,22-11-2016,Alm. Salg,2.246,7,Stuehus,228,1943,,
+Klokkelyngen 65390 Martofte,ofte,1.050.000,14-11-2016,Alm. Salg,14.383,4,Sommerhus,73,1973,-9 %,Aktuel værdi
+Klokkelyngen 365390 Martofte,ofte,1.487.500,10-11-2016,Alm. Salg,22.537,4,Sommerhus,66,1973,-7 %,Aktuel værdi
+Hjertegræsset 555390 Martofte,ofte,860.000,09-11-2016,Alm. Salg,14.827,4,Sommerhus,58,1986,-14 %,Aktuel værdi
+Dunhammeren 725390 Martofte,ofte,7.000.000,20-10-2016,Alm. Salg,41.176,5,Sommerhus,170,2009,-7 %,Aktuel værdi
+Hulvej 915390 Martofte,ofte,66.000,13-10-2016,Fam. Salg,1.571,3,Sommerhus,42,1967,,Aktuel værdi
+Sømærkevej 455390 Martofte,ofte,1.800.000,03-10-2016,Alm. Salg,21.951,3,Sommerhus,82,2007,-10 %,Aktuel værdi
+Sømærkevej 895390 Martofte,ofte,854.500,03-10-2016,Fam. Salg,10.955,3,Sommerhus,78,1960,,Aktuel værdi
+Enghavevej 1015390 Martofte,ofte,850.000,02-10-2016,Alm. Salg,6.343,4,Villa,134,1965,,Aktuel værdi
+Søvej 255390 Martofte,ofte,420.000,27-09-2016,Auktion,3.471,4,Villa,121,1954,6 %,Aktuel værdi
+Hundegræsset 125390 Martofte,ofte,850.000,20-09-2016,Fam. Salg,13.492,4,Sommerhus,63,1970,,Aktuel værdi
+Dunhammeren 855390 Martofte,ofte,1.450.000,07-09-2016,Alm. Salg,18.831,4,Sommerhus,77,1983,-3 %,Aktuel værdi
+Fynshovedvej 6045390 Martofte,ofte,2.595.000,28-08-2016,Alm. Salg,11.233,8,Stuehus,231,1810,-4 %,
+Pragtstjernen 135390 Martofte,ofte,3.325.000,23-08-2016,Alm. Salg,27.941,3,Sommerhus,119,1961,-4 %,Aktuel værdi
+Stenene 1425390 Martofte,ofte,1.995.000,15-08-2016,Alm. Salg,40.714,3,Sommerhus,49,1963,0 %,Aktuel værdi
+Kvikgræsset 325390 Martofte,ofte,650.000,08-08-2016,Alm. Salg,12.037,2,Sommerhus,54,1998,-6 %,Aktuel værdi
+Sømærkevej 395390 Martofte,ofte,1.095.000,02-08-2016,Alm. Salg,17.380,4,Sommerhus,63,1960,0 %,Aktuel værdi
+Fynshovedvej 8065390 Martofte,ofte,1.955.001,29-07-2016,Fam. Salg,21.722,4,Sommerhus,90,1937,,Aktuel værdi
+Hundegræsset 255390 Martofte,ofte,375.000,28-06-2016,Alm. Salg,6.465,3,Sommerhus,58,1971,,Aktuel værdi
+Hjertegræsset 135390 Martofte,ofte,850.000,21-06-2016,Fam. Salg,13.709,4,Sommerhus,62,1967,,Aktuel værdi
+Langøvej 5045390 Martofte,ofte,814.000,21-06-2016,Auktion,10.435,4,Sommerhus,78,1961,-42 %,Aktuel værdi
+Nordskov Bygade 115390 Martofte,ofte,120.000,02-06-2016,Alm. Salg,937,5,Stuehus,128,1877,,
+Fynshovedvej 4785390 Martofte,ofte,1.195.000,30-05-2016,Alm. Salg,10.042,5,Villa,119,1907,0 %,Aktuel værdi
+Rajgræsset 85390 Martofte,ofte,2.700.000,28-05-2016,Alm. Salg,32.926,4,Sommerhus,82,1967,-3 %,Aktuel værdi
+Hjertegræsset 765390 Martofte,ofte,250.000,20-05-2016,Fam. Salg,6.756,3,Sommerhus,37,1965,,Aktuel værdi
+Stenene 1135390 Martofte,ofte,950.000,19-05-2016,Fam. Salg,38.000,1,Sommerhus,25,1964,,Aktuel værdi
+Fynshovedvej 7005390 Martofte,ofte,935.000,09-05-2016,Alm. Salg,4.722,6,Villa,198,1677,-1 %,Aktuel værdi
+Sandvejen 515390 Martofte,ofte,1.650.000,04-05-2016,Alm. Salg,61.111,3,Sommerhus,27,1955,,Aktuel værdi
+Sømærkevej 215390 Martofte,ofte,580.000,14-04-2016,Fam. Salg,9.354,4,Sommerhus,62,1974,,Aktuel værdi
+Æblehaven 25390 Martofte,ofte,395.000,05-04-2016,Auktion,3.110,4,Villa,127,1944,,Aktuel værdi
+Fynshovedvej 854I5390 Martofte,ofte,1.600.000,15-02-2016,Alm. Salg,20.000,3,Fritid,80,2006,,Aktuel værdi
+Søvej 75390 Martofte,ofte,140.000,09-02-2016,Auktion,1.129,4,Villa,124,1907,,Aktuel værdi
+Sømærkevej 335390 Martofte,ofte,1.700.000,08-02-2016,Alm. Salg,28.333,3,Sommerhus,60,1930,-15 %,Aktuel værdi
+Stenene 115390 Martofte,ofte,1.926.666,03-02-2016,Fam. Salg,21.407,4,Sommerhus,90,2009,,Aktuel værdi
+Øleddet 65390 Martofte,ofte,2.500.000,29-01-2016,Fam. Salg,22.935,5,Sommerhus,109,1962,,Aktuel værdi
+Hedelyngen 225390 Martofte,ofte,2.700.000,08-01-2016,Alm. Salg,25.471,4,Sommerhus,106,1972,,Aktuel værdi
+Snavevej 1505390 Martofte,ofte,650.000,01-01-2016,Andet,6.842,4,Villa,95,1925,,Aktuel værdi
+Hundegræsset 355390 Martofte,ofte,1.250.000,18-12-2015,Alm. Salg,16.891,5,Sommerhus,74,1980,-16 %,Aktuel værdi
+Alpehau 115390 Martofte,ofte,816.000,18-12-2015,Fam. Salg,17.000,3,Sommerhus,48,1965,,Aktuel værdi
+Hjertegræsset 75390 Martofte,ofte,1.370.000,22-11-2015,Alm. Salg,13.838,4,Sommerhus,99,1969,-12 %,Aktuel værdi
+Hulvej 555390 Martofte,ofte,1.360.000,04-11-2015,Fam. Salg,11.929,5,Sommerhus,114,1977,,Aktuel værdi
+Hulvej 55390 Martofte,ofte,1.100.000,30-10-2015,Alm. Salg,11.000,6,Sommerhus,100,1969,-6 %,Aktuel værdi
+Hjertegræsset 455390 Martofte,ofte,850.000,28-10-2015,Alm. Salg,16.037,3,Sommerhus,53,1971,-5 %,Aktuel værdi
+Langøvej 4985390 Martofte,ofte,2.500.000,27-09-2015,Alm. Salg,8.928,12,Sommerhus,280,1852,,Aktuel værdi
+Rødkløveren 75390 Martofte,ofte,3.400.000,10-09-2015,Alm. Salg,41.975,5,Sommerhus,81,1956,,Aktuel værdi
+Sømærkevej 315390 Martofte,ofte,2.250.000,03-09-2015,Alm. Salg,30.000,2,Sommerhus,75,2008,-6 %,Aktuel værdi
+Langøvej 2925390 Martofte,ofte,1.200.000,07-08-2015,Alm. Salg,24.000,2,Sommerhus,50,2009,-6 %,Aktuel værdi
+Sømærkevej 265390 Martofte,ofte,675.000,02-08-2015,Alm. Salg,9.121,4,Sommerhus,74,2016,,Aktuel værdi
+Sømærkevej 285390 Martofte,ofte,725.000,02-08-2015,Alm. Salg,9.797,4,Sommerhus,74,2016,,Aktuel værdi
+Alpehau 365390 Martofte,ofte,1.000.000,25-06-2015,Alm. Salg,18.181,3,Sommerhus,55,1966,-16 %,Aktuel værdi
+Rødkløveren 215390 Martofte,ofte,1.375.000,30-05-2015,Alm. Salg,19.097,4,Sommerhus,72,1936,,Aktuel værdi
+Langøvej 5795390 Martofte,ofte,1.925.000,06-05-2015,Alm. Salg,16.452,6,Sommerhus,117,1990,-3 %,Aktuel værdi
+Fynshovedvej 5455390 Martofte,ofte,433.900,04-05-2015,Andet,2.613,4,Villa,166,1900,,Aktuel værdi
+Hjertegræsset 255390 Martofte,ofte,1.250.000,04-05-2015,Alm. Salg,14.044,4,Sommerhus,89,1967,-4 %,Aktuel værdi
+Rødkløveren 325390 Martofte,ofte,1.300.000,23-04-2015,Alm. Salg,13.684,4,Sommerhus,95,1962,,Aktuel værdi
+Fynshovedvej 854G5390 Martofte,ofte,1.150.000,16-04-2015,Alm. Salg,17.968,3,Fritid,64,2006,-15 %,Aktuel værdi
+Fynshovedvej 5535390 Martofte,ofte,200.000,14-04-2015,Auktion,2.105,3,Villa,95,1969,,Aktuel værdi
+Munkekrogen 155390 Martofte,ofte,850.000,10-04-2015,Alm. Salg,17.000,3,Sommerhus,50,1964,-5 %,Aktuel værdi
+Sandvejen 65390 Martofte,ofte,1.575.000,27-03-2015,Alm. Salg,21.283,3,Sommerhus,74,1989,0 %,Aktuel værdi
+Øksnebjerg 315390 Martofte,ofte,1.056.000,17-03-2015,Alm. Salg,22.000,4,Sommerhus,48,1961,6 %,Aktuel værdi
+Kvikgræsset 65390 Martofte,ofte,348.845,20-02-2015,Fam. Salg,6.460,4,Sommerhus,54,1983,,Aktuel værdi
+Sømærkevej 495390 Martofte,ofte,240.000,15-02-2015,Fam. Salg,3.934,4,Sommerhus,61,1986,,Aktuel værdi
+Fynshovedvej 4415390 Martofte,ofte,4.500.000,01-01-2015,Alm. Salg,38.135,3,Stuehus,118,1926,,
+Snavevej 1305390 Martofte,ofte,4.400.000,01-01-2015,Alm. Salg,20.952,8,Stuehus,210,1926,,
+Hundegræsset 45390 Martofte,ofte,760.000,17-12-2014,Fam. Salg,6.551,4,Sommerhus,116,2016,,Aktuel værdi
+Snavevej 1135390 Martofte,ofte,700.000,15-12-2014,Alm. Salg,6.363,3,Villa,110,1968,-22 %,Aktuel værdi
+Øleddet 95390 Martofte,ofte,1.000.000,28-11-2014,Alm. Salg,8.264,5,Sommerhus,121,2015,-15 %,Aktuel værdi
+Fynshovedvej 4775390 Martofte,ofte,900.000,26-11-2014,Alm. Salg,6.338,5,Villa,142,1926,-10 %,Aktuel værdi
+Rødkløveren 205390 Martofte,ofte,935.000,24-11-2014,Fam. Salg,16.120,3,Sommerhus,58,1988,,Aktuel værdi
+Hvidkløveren 165390 Martofte,ofte,2.176.000,07-11-2014,Fam. Salg,18.921,4,Sommerhus,115,2006,-34 %,Aktuel værdi
+Ridderstjernen 45390 Martofte,ofte,891.000,07-11-2014,Fam. Salg,10.011,6,Sommerhus,89,1977,,Aktuel værdi
+Fynshovedvej 8385390 Martofte,ofte,1.250.000,30-10-2014,Fam. Salg,20.491,1,Sommerhus,61,2014,,Aktuel værdi
+Langøvej 5215390 Martofte,ofte,280.000,08-10-2014,Alm. Salg,1.037,7,Stuehus,270,1905,-96 %,
+Hedelyngen 125390 Martofte,ofte,2.000.000,08-10-2014,Fam. Salg,50.000,4,Sommerhus,40,1955,,Aktuel værdi
+Alpehau 175390 Martofte,ofte,895.000,24-09-2014,Alm. Salg,16.886,3,Sommerhus,53,1973,-6 %,Aktuel værdi
+Fynshovedvej 5145390 Martofte,ofte,470.000,23-09-2014,Alm. Salg,4.607,5,Villa,102,1914,-5 %,Aktuel værdi
+Rødkløveren 65390 Martofte,ofte,850.000,10-09-2014,Fam. Salg,14.406,4,Sommerhus,59,1949,,Aktuel værdi
+Sandvejen 75390 Martofte,ofte,1.000.000,04-09-2014,Alm. Salg,14.285,4,Sommerhus,70,2003,,Aktuel værdi
+Kvikgræsset 25390 Martofte,ofte,860.000,27-08-2014,Alm. Salg,11.944,4,Sommerhus,72,1972,-14 %,Aktuel værdi
+Kirkebakken 465390 Martofte,ofte,1.200.000,27-08-2014,Alm. Salg,6.557,5,Villa,183,1946,-7 %,Aktuel værdi
+Enghavevej 605390 Martofte,ofte,1.150.000,06-08-2014,Alm. Salg,6.318,7,Stuehus,182,1915,-8 %,
+Marehalmen 245390 Martofte,ofte,3.000.000,08-07-2014,Alm. Salg,31.250,4,Sommerhus,96,2001,-18 %,Aktuel værdi
+Øksnebjerg 255390 Martofte,ofte,1.500.000,06-07-2014,Alm. Salg,41.666,2,Sommerhus,36,1946,-9 %,Aktuel værdi
+Hundegræsset 115390 Martofte,ofte,1.175.000,25-06-2014,Alm. Salg,13.823,4,Sommerhus,85,1972,-9 %,Aktuel værdi
+Sandvejen 935390 Martofte,ofte,977.500,04-06-2014,Fam. Salg,13.964,2,Sommerhus,70,1965,,Aktuel værdi
+Alpehau 35390 Martofte,ofte,950.000,02-06-2014,Alm. Salg,13.571,3,Sommerhus,70,1970,-5 %,Aktuel værdi
+Fynshovedvej 854A5390 Martofte,ofte,2.500.000,01-05-2014,Alm. Salg,17.482,2,Fritid,143,1961,,Aktuel værdi
+Fynshovedvej 7015390 Martofte,ofte,750.000,29-04-2014,Alm. Salg,8.152,4,Villa,92,1852,-6 %,Aktuel værdi
+Sandvejen 195390 Martofte,ofte,1.300.000,27-04-2014,Alm. Salg,20.967,5,Sommerhus,62,1967,,Aktuel værdi
+Hedelyngen 105390 Martofte,ofte,184.783,24-04-2014,Fam. Salg,5.434,3,Sommerhus,34,1962,,Aktuel værdi
+Dunhammeren 1125390 Martofte,ofte,500.000,22-04-2014,Alm. Salg,8.333,4,Sommerhus,60,1984,-33 %,Aktuel værdi
+Sømærkevej 675390 Martofte,ofte,1.525.000,08-04-2014,Alm. Salg,22.426,3,Sommerhus,68,1969,-10 %,Aktuel værdi
+Langøvej 6205390 Martofte,ofte,6.666.666,03-04-2014,Alm. Salg,51.282,3,Sommerhus,130,1937,,Aktuel værdi
+Kærulden 155390 Martofte,ofte,554.000,31-03-2014,Fam. Salg,10.862,4,Sommerhus,51,1969,,Aktuel værdi
+Hvidkløveren 85390 Martofte,ofte,750.000,25-03-2014,Fam. Salg,9.615,4,Sommerhus,78,1967,,Aktuel værdi
+Fynshovedvej 5075390 Martofte,ofte,305.000,17-02-2014,Alm. Salg,2.772,7,Villa,110,1914,-38 %,Aktuel værdi
+Sømærkevej 45390 Martofte,ofte,850.000,15-02-2014,Fam. Salg,16.666,3,Sommerhus,51,1980,,Aktuel værdi
+Hundegræsset 15390 Martofte,ofte,760.000,07-01-2014,Alm. Salg,8.000,4,Sommerhus,95,1970,-5 %,Aktuel værdi
+Sømærkevej 75390 Martofte,ofte,1.445.000,25-12-2013,Fam. Salg,16.802,4,Sommerhus,86,1961,,Aktuel værdi
+Fynshovedvej 6915390 Martofte,ofte,3.555.000,23-12-2013,Fam. Salg,29.625,3,Stuehus,120,1777,,
+Hulvej 1175390 Martofte,ofte,971.400,16-12-2013,Fam. Salg,10.793,5,Sommerhus,90,1969,,Aktuel værdi
+Stenene 1345390 Martofte,ofte,3.500.000,24-10-2013,Alm. Salg,30.701,5,Sommerhus,114,2010,,Aktuel værdi
+Nordskov Bygade 385390 Martofte,ofte,2.200.000,18-10-2013,Alm. Salg,11.640,3,Villa,189,2008,-8 %,Aktuel værdi
+Rødkløveren 415390 Martofte,ofte,2.700.000,26-09-2013,Alm. Salg,60.000,3,Sommerhus,45,1965,,Aktuel værdi
+Hedelyngen 285390 Martofte,ofte,2.500.000,23-09-2013,Alm. Salg,65.789,2,Sommerhus,38,1935,-15 %,Aktuel værdi
+Fynshovedvej 5415390 Martofte,ofte,200.000,10-09-2013,Auktion,1.250,5,Villa,160,1870,,Aktuel værdi
+Bystævnevej 255390 Martofte,ofte,1.300.000,10-09-2013,Alm. Salg,8.333,3,Villa,156,1790,-7 %,Aktuel værdi
+Stubberup Bygade 405390 Martofte,ofte,7.103.133,26-08-2013,Fam. Salg,28.641,7,Stuehus,248,2012,,
+Rødkløveren 435390 Martofte,ofte,1.530.000,21-08-2013,Fam. Salg,24.285,4,Sommerhus,63,1930,,Aktuel værdi
+Munkekrogen 485390 Martofte,ofte,2.000.000,09-08-2013,Alm. Salg,76.923,2,Sommerhus,26,1961,,Aktuel værdi
+Hundegræsset 135390 Martofte,ofte,1.075.000,02-08-2013,Alm. Salg,20.673,4,Sommerhus,52,1969,0 %,Aktuel værdi
+Hulvej 785390 Martofte,ofte,2.250.000,23-07-2013,Alm. Salg,18.595,4,Sommerhus,121,2000,-2 %,Aktuel værdi
+Hjertegræsset 565390 Martofte,ofte,925.000,29-06-2013,Alm. Salg,-,4,Sommerhus,69,1967,-7 %,Aktuel værdi
+Munkekrogen 15390 Martofte,ofte,850.000,27-06-2013,Fam. Salg,17.000,3,Sommerhus,50,1963,,Aktuel værdi
+Munkekrogen 425390 Martofte,ofte,2.300.000,19-06-2013,Fam. Salg,37.096,4,Sommerhus,62,1961,,Aktuel værdi
+Stenene 1015390 Martofte,ofte,2.400.000,27-05-2013,Alm. Salg,50.000,3,Sommerhus,48,2004,,Aktuel værdi
+Æblehaven 305390 Martofte,ofte,2.700.000,08-05-2013,Alm. Salg,13.235,6,Stuehus,204,1926,-20 %,
+Hjertegræsset 35390 Martofte,ofte,1.450.000,07-05-2013,Alm. Salg,16.860,6,Sommerhus,86,1990,-9 %,Aktuel værdi
+Sømærkevej 855390 Martofte,ofte,1.600.000,18-02-2013,Alm. Salg,17.777,4,Sommerhus,90,1965,-9 %,Aktuel værdi
+Fynshovedvej 5845390 Martofte,ofte,300.000,12-02-2013,Alm. Salg,1.923,7,Stuehus,156,1809,,
+Kvikgræsset 305390 Martofte,ofte,79.300,09-02-2013,Alm. Salg,1.043,5,Sommerhus,76,1971,,Aktuel værdi
+Hulvej 155390 Martofte,ofte,2.050.000,04-02-2013,Alm. Salg,15.648,4,Sommerhus,131,1999,-11 %,Aktuel værdi
+Munkekrogen 305390 Martofte,ofte,2.422.500,27-12-2012,Fam. Salg,25.771,4,Sommerhus,94,2012,,Aktuel værdi
+Langøvej 5465390 Martofte,ofte,2.000.000,14-12-2012,Alm. Salg,21.276,4,Sommerhus,94,2006,,Aktuel værdi
+Hedelyngen 265390 Martofte,ofte,3.450.000,13-12-2012,Alm. Salg,53.906,4,Sommerhus,64,2000,,Aktuel værdi
+Hulvej 655390 Martofte,ofte,1.072.600,20-11-2012,Fam. Salg,15.773,5,Sommerhus,68,1959,,Aktuel værdi
+Hvidkløveren 135390 Martofte,ofte,1.675.000,07-11-2012,Alm. Salg,18.611,4,Sommerhus,90,1972,-7 %,Aktuel værdi
+Langøvej 2905390 Martofte,ofte,450.000,26-10-2012,Alm. Salg,13.235,2,Sommerhus,34,1000,-9 %,Aktuel værdi
+Sømærkevej 255390 Martofte,ofte,550.000,05-09-2012,Fam. Salg,11.000,4,Sommerhus,50,1966,,Aktuel værdi
+Hvidkløveren 145390 Martofte,ofte,1.565.000,04-09-2012,Alm. Salg,13.491,6,Sommerhus,116,1982,-22 %,Aktuel værdi
+Rævehalen 145390 Martofte,ofte,850.000,07-08-2012,Fam. Salg,17.000,3,Sommerhus,50,1970,,Aktuel værdi
+Langøvej 3065390 Martofte,ofte,1.020.000,03-07-2012,Fam. Salg,12.439,4,Sommerhus,82,1970,,Aktuel værdi
+Alpehau 325390 Martofte,ofte,1.700.000,28-06-2012,Alm. Salg,22.368,5,Sommerhus,76,1966,,Aktuel værdi
+"Hedelyngen 54, ST5390 Martofte",ofte,2.600.000,07-06-2012,Andet,24.528,4,Sommerhus,106,2012,,Aktuel værdi
+Sandvejen 45390 Martofte,ofte,775.000,14-05-2012,Fam. Salg,12.301,2,Sommerhus,63,1963,,Aktuel værdi
+Guldstjernen 55390 Martofte,ofte,945.000,30-04-2012,Alm. Salg,12.945,4,Sommerhus,73,1972,-21 %,Aktuel værdi
+Sandvejen 775390 Martofte,ofte,2.430.000,30-04-2012,Alm. Salg,24.059,5,Sommerhus,101,1961,,Aktuel værdi
+Stenene 175390 Martofte,ofte,2.750.000,14-04-2012,Alm. Salg,45.833,4,Sommerhus,60,1935,,Aktuel værdi
+Søvej 215390 Martofte,ofte,1.000.000,30-03-2012,Alm. Salg,7.142,5,Villa,140,1867,,Aktuel værdi
+Sandvejen 895390 Martofte,ofte,1.062.500,26-03-2012,Fam. Salg,10.416,5,Sommerhus,102,1980,,Aktuel værdi
+Kvikgræsset 245390 Martofte,ofte,1.135.000,21-03-2012,Alm. Salg,16.449,3,Sommerhus,69,1969,-9 %,Aktuel værdi
+Dunhammeren 1105390 Martofte,ofte,1.020.000,08-01-2012,Alm. Salg,13.783,4,Sommerhus,74,1985,,Aktuel værdi
+Marehalmen 285390 Martofte,ofte,666.667,28-12-2011,Alm. Salg,13.333,4,Sommerhus,50,1929,,Aktuel værdi
+Rødkløveren 225390 Martofte,ofte,716.400,24-12-2011,Fam. Salg,11.554,4,Sommerhus,62,1975,,Aktuel værdi
+Klokkelyngen 25390 Martofte,ofte,557.550,20-12-2011,Fam. Salg,6.969,4,Sommerhus,80,1995,,Aktuel værdi
+Rævehalen 65390 Martofte,ofte,1.232.500,12-12-2011,Fam. Salg,12.706,5,Sommerhus,97,1972,,Aktuel værdi
+Kvikgræsset 175390 Martofte,ofte,1.232.500,16-11-2011,Fam. Salg,14.849,4,Sommerhus,83,1994,,Aktuel værdi
+Egensøvej 3135390 Martofte,ofte,6.460.000,15-11-2011,Fam. Salg,17.412,8,Stuehus,371,1976,,
+Dunhammeren 465390 Martofte,ofte,5.500.000,19-09-2011,Fam. Salg,47.826,4,Sommerhus,115,1993,,Aktuel værdi
+Kirkebakken 625390 Martofte,ofte,790.000,12-09-2011,Alm. Salg,6.810,3,Villa,116,1912,-1 %,Aktuel værdi
+Sømærkevej 435390 Martofte,ofte,1.349.000,05-08-2011,Alm. Salg,23.666,3,Sommerhus,57,2006,-7 %,Aktuel værdi
+Fynshovedvej 7275390 Martofte,ofte,1.483.500,01-08-2011,Fam. Salg,25.577,2,Sommerhus,58,2006,,Aktuel værdi
+Alpehau 435390 Martofte,ofte,150.000,25-07-2011,Andet,1.500,5,Sommerhus,100,1966,,Aktuel værdi
+Fløjelsgræsset 135390 Martofte,ofte,3.100.000,25-07-2011,Alm. Salg,13.247,5,Sommerhus,234,2012,0 %,Aktuel værdi
+Fynshovedvej 5865390 Martofte,ofte,295.000,20-07-2011,Alm. Salg,1.266,9,Villa,233,1900,0 %,Aktuel værdi
+Munkekrogen 95390 Martofte,ofte,1.350.000,01-07-2011,Alm. Salg,18.750,5,Sommerhus,72,1964,-10 %,Aktuel værdi
+Hulvej 475390 Martofte,ofte,750.000,23-05-2011,Fam. Salg,19.230,3,Sommerhus,39,1962,,Aktuel værdi
+Hundegræsset 85390 Martofte,ofte,1.400.000,03-05-2011,Fam. Salg,15.730,4,Sommerhus,89,1970,,Aktuel værdi
+Fynshovedvej 8245390 Martofte,ofte,2.040.000,04-04-2011,Alm. Salg,23.448,4,Sommerhus,87,1947,,Aktuel værdi
+Hjertegræsset 505390 Martofte,ofte,624.750,28-03-2011,Fam. Salg,12.014,4,Sommerhus,52,1969,,Aktuel værdi
+Stenene 355390 Martofte,ofte,1.760.000,20-02-2011,Alm. Salg,20.705,4,Sommerhus,85,2015,-20 %,Aktuel værdi
+Hulvej 1155390 Martofte,ofte,750.000,15-02-2011,Alm. Salg,14.423,4,Sommerhus,52,1960,,Aktuel værdi
+Bogensøvej 3445390 Martofte,ofte,892.500,26-12-2010,Fam. Salg,15.657,3,Sommerhus,57,1970,,Aktuel værdi
+Jøvet 55390 Martofte,ofte,1.300.000,25-12-2010,Fam. Salg,29.545,3,Sommerhus,44,1972,,Aktuel værdi
+Hundegræsset 65390 Martofte,ofte,765.000,03-12-2010,Fam. Salg,9.562,4,Sommerhus,80,1990,,Aktuel værdi
+Stenene 1305390 Martofte,ofte,2.775.000,12-11-2010,Alm. Salg,48.684,4,Sommerhus,57,1950,0 %,Aktuel værdi
+Jøvet 195390 Martofte,ofte,865.000,09-11-2010,Alm. Salg,8.917,5,Sommerhus,97,1994,,Aktuel værdi
+Fynshovedvej 5285390 Martofte,ofte,625.000,07-11-2010,Alm. Salg,6.009,3,Villa,104,1958,-10 %,Aktuel værdi
+Rævehalen 9B5390 Martofte,ofte,1.610.000,21-10-2010,Alm. Salg,14.122,3,Sommerhus,114,2010,,Aktuel værdi
+Rævehalen 9A5390 Martofte,ofte,675.000,15-10-2010,Alm. Salg,9.375,3,Sommerhus,72,2012,,Aktuel værdi
+Fynshovedvej 5125390 Martofte,ofte,370.000,21-09-2010,Auktion,3.425,4,Villa,108,1916,,Aktuel værdi
+Søvej 115390 Martofte,ofte,1.075.000,05-08-2010,Alm. Salg,6.761,5,Villa,159,1827,-10 %,Aktuel værdi
+Kvikgræsset 45390 Martofte,ofte,1.375.000,03-07-2010,Alm. Salg,22.177,4,Sommerhus,62,1972,-4 %,Aktuel værdi
+Søvej 155390 Martofte,ofte,625.000,24-06-2010,Alm. Salg,4.496,3,Villa,139,1963,-10 %,Aktuel værdi
+Sandvejen 615390 Martofte,ofte,2.985.000,23-06-2010,Alm. Salg,44.552,2,Sommerhus,67,1961,0 %,Aktuel værdi
+Kærulden 95390 Martofte,ofte,935.000,09-06-2010,Fam. Salg,13.357,3,Sommerhus,70,1969,,Aktuel værdi
+Sømærkevej 47A5390 Martofte,ofte,2.140.000,29-04-2010,Alm. Salg,21.400,4,Sommerhus,100,2009,-11 %,Aktuel værdi
+Fynshovedvej 4655390 Martofte,ofte,2.000.000,28-04-2010,Alm. Salg,20.202,3,Stuehus,99,1926,,
+Alpehau 165390 Martofte,ofte,1.195.800,23-04-2010,Fam. Salg,12.858,4,Sommerhus,93,1968,,Aktuel værdi
+Hulvej 575390 Martofte,ofte,1.190.000,20-04-2010,Fam. Salg,12.020,5,Sommerhus,99,1959,,Aktuel værdi
+Horseklint 1325390 Martofte,ofte,1.030.000,13-04-2010,Fam. Salg,12.117,4,Sommerhus,85,1959,,Aktuel værdi
+Kvikgræsset 265390 Martofte,ofte,1.010.000,12-04-2010,Alm. Salg,15.538,4,Sommerhus,65,1970,-4 %,Aktuel værdi
+Guldstjernen 35390 Martofte,ofte,1.550.000,25-03-2010,Alm. Salg,19.375,5,Sommerhus,80,1973,-16 %,Aktuel værdi
+Øleddet 55390 Martofte,ofte,1.200.000,15-02-2010,Alm. Salg,11.428,6,Sommerhus,105,2010,-21 %,Aktuel værdi
+Hulvej 955390 Martofte,ofte,1.500.000,14-01-2010,Alm. Salg,26.315,4,Sommerhus,57,1984,-9 %,Aktuel værdi
+Hulvej 815390 Martofte,ofte,639.100,28-12-2009,Fam. Salg,16.818,3,Sommerhus,38,1959,,Aktuel værdi
+Hvidkløveren 35390 Martofte,ofte,935.000,23-12-2009,Fam. Salg,18.700,3,Sommerhus,50,1968,,Aktuel værdi
+Hulvej 495390 Martofte,ofte,420.000,22-12-2009,Alm. Salg,8.400,2,Sommerhus,50,1962,,Aktuel værdi
+Dunhammeren 845390 Martofte,ofte,1.200.000,01-12-2009,Alm. Salg,31.578,3,Sommerhus,38,1967,,Aktuel værdi
+"Horseklint 126, ST5390 Martofte",ofte,2.006.850,28-11-2009,Alm. Salg,17.918,4,Sommerhus,112,2011,,Aktuel værdi
+Sømærkevej 635390 Martofte,ofte,850.000,24-11-2009,Alm. Salg,9.770,4,Sommerhus,87,2012,-13 %,Aktuel værdi
+Fynshovedvej 7805390 Martofte,ofte,1.600.000,24-11-2009,Alm. Salg,8.602,5,Villa,186,1928,-10 %,Aktuel værdi
+Fynshovedvej 7095390 Martofte,ofte,3.200.000,17-11-2009,Alm. Salg,13.617,5,Villa,235,1877,-9 %,Aktuel værdi
+Pragtstjernen 155390 Martofte,ofte,4.200.000,13-11-2009,Alm. Salg,30.656,6,Sommerhus,137,1957,-4 %,Aktuel værdi
+Hjertegræsset 335390 Martofte,ofte,1.375.000,07-09-2009,Alm. Salg,28.645,3,Sommerhus,48,1978,0 %,Aktuel værdi
+Munkekrogen 565390 Martofte,ofte,3.100.000,04-09-2009,Alm. Salg,59.615,3,Sommerhus,52,1963,4 %,Aktuel værdi
+Sømærkevej 735390 Martofte,ofte,1.140.000,17-08-2009,Alm. Salg,21.509,3,Sommerhus,53,1961,-8 %,Aktuel værdi
+Stubberup Bygade 215390 Martofte,ofte,400.000,23-06-2009,Alm. Salg,5.000,3,Villa,80,1850,,Aktuel værdi
+Langøvej 6055390 Martofte,ofte,1.232.000,20-06-2009,Fam. Salg,14.000,2,Sommerhus,88,1950,,Aktuel værdi
+Fynshovedvej 854C5390 Martofte,ofte,2.300.000,17-06-2009,Alm. Salg,20.535,3,Fritid,112,1961,-8 %,Aktuel værdi
+Jøvet 155390 Martofte,ofte,2.450.000,25-05-2009,Alm. Salg,28.488,4,Sommerhus,86,1995,-18 %,Aktuel værdi
+Hulvej 275390 Martofte,ofte,650.000,11-05-2009,Fam. Salg,9.285,3,Sommerhus,70,1961,,Aktuel værdi
+Fynshovedvej 854B5390 Martofte,ofte,2.200.000,30-04-2009,Alm. Salg,18.644,5,Fritid,118,1961,,Aktuel værdi
+Dunhammeren 775390 Martofte,ofte,412.500,25-03-2009,Alm. Salg,7.366,3,Sommerhus,56,1969,,Aktuel værdi
+Fynshovedvej 6855390 Martofte,ofte,4.100.000,14-02-2009,Fam. Salg,26.973,5,Stuehus,152,1866,,
+Sømærkevej 595390 Martofte,ofte,800.000,26-01-2009,Alm. Salg,16.000,4,Sommerhus,50,1969,-24 %,Aktuel værdi
+Hulvej 1095390 Martofte,ofte,1.750.000,12-01-2009,Alm. Salg,23.026,4,Sommerhus,76,1962,-12 %,Aktuel værdi
+Fynshovedvej 6085390 Martofte,ofte,10.277.900,18-12-2008,Alm. Salg,45.477,9,Stuehus,226,1919,,
+Langøvej 5005390 Martofte,ofte,450.000,23-10-2008,Alm. Salg,-,4,Villa,188,1965,,Aktuel værdi
+Rødkløveren 265390 Martofte,ofte,2.055.000,11-10-2008,Alm. Salg,22.582,4,Sommerhus,91,1962,,Aktuel værdi
+Sømærkevej 275390 Martofte,ofte,892.500,09-10-2008,Fam. Salg,10.377,4,Sommerhus,86,2015,,Aktuel værdi
+Fynshovedvej 7385390 Martofte,ofte,4.000.000,04-10-2008,Alm. Salg,34.482,5,Stuehus,116,1961,,
+Dunhammeren 1005390 Martofte,ofte,550.000,12-09-2008,Fam. Salg,10.000,4,Sommerhus,55,1982,,Aktuel værdi
+Horseklint 1745390 Martofte,ofte,3.550.000,24-08-2008,Alm. Salg,23.986,7,Sommerhus,148,1962,-15 %,Aktuel værdi
+Sandvejen 625390 Martofte,ofte,4.750.000,18-08-2008,Alm. Salg,38.000,5,Sommerhus,125,2012,,Aktuel værdi
+Fynshovedvej 6945390 Martofte,ofte,1.366.000,06-08-2008,Fam. Salg,5.530,9,Villa,247,1937,,Aktuel værdi
+Sømærkevej 295390 Martofte,ofte,1.745.000,28-07-2008,Alm. Salg,26.846,4,Sommerhus,65,1967,-3 %,Aktuel værdi
+Øksnebjerg 215390 Martofte,ofte,2.500.000,30-06-2008,Alm. Salg,-,4,Sommerhus,88,1962,,Aktuel værdi
+Hjertegræsset 185390 Martofte,ofte,1.595.000,20-06-2008,Alm. Salg,20.714,5,Sommerhus,77,1970,0 %,Aktuel værdi
+Hedelyngen 405390 Martofte,ofte,4.000.000,29-05-2008,Alm. Salg,31.746,5,Sommerhus,126,1961,-11 %,Aktuel værdi
+Guldstjernen 45390 Martofte,ofte,1.400.000,26-05-2008,Alm. Salg,16.666,4,Sommerhus,84,1973,-12 %,Aktuel værdi
+Fynshovedvej 8785390 Martofte,ofte,1.150.000,06-05-2008,Alm. Salg,25.000,2,Sommerhus,46,2009,,Aktuel værdi
+Alpehau 225390 Martofte,ofte,1.050.000,25-04-2008,Alm. Salg,30.882,3,Sommerhus,34,1968,-7 %,Aktuel værdi
+Langøvej 5815390 Martofte,ofte,1.742.500,15-04-2008,Fam. Salg,34.166,3,Sommerhus,51,1968,,Aktuel værdi
+Hjertegræsset 385390 Martofte,ofte,1.565.000,04-04-2008,Alm. Salg,24.076,3,Sommerhus,65,1970,-2 %,Aktuel værdi
+Hulvej 9B5390 Martofte,ofte,400.000,28-03-2008,Alm. Salg,5.555,3,Sommerhus,72,2011,,Aktuel værdi
+Fynshovedvej 8365390 Martofte,ofte,1.250.000,15-03-2008,Fam. Salg,25.000,3,Sommerhus,50,1975,,Aktuel værdi
+Rødkløveren 405390 Martofte,ofte,748.000,10-03-2008,Fam. Salg,15.583,3,Sommerhus,48,1962,,Aktuel værdi
+Dunhammeren 835390 Martofte,ofte,1.285.000,28-02-2008,Alm. Salg,22.946,4,Sommerhus,56,1964,3 %,Aktuel værdi
+Bøgebjergvej 4925390 Martofte,ofte,1.145.000,27-02-2008,Alm. Salg,8.063,5,Villa,142,1877,,Aktuel værdi
+Sandvejen 955390 Martofte,ofte,518.000,23-02-2008,Fam. Salg,5.820,5,Sommerhus,89,1961,,Aktuel værdi
+Hedelyngen 385390 Martofte,ofte,1.575.000,14-02-2008,Fam. Salg,30.288,3,Sommerhus,52,1947,,Aktuel værdi
+Fynshovedvej 854F5390 Martofte,ofte,1.750.000,20-12-2007,Alm. Salg,27.343,3,Fritid,64,2006,-3 %,Aktuel værdi
+Bogensøvej 2835390 Martofte,ofte,1.050.000,17-12-2007,Alm. Salg,16.935,3,Sommerhus,62,1967,,Aktuel værdi
+Sandvejen 355390 Martofte,ofte,1.300.000,17-12-2007,Fam. Salg,16.250,6,Sommerhus,80,1978,,Aktuel værdi
+Øksnebjerg 305390 Martofte,ofte,2.825.000,04-12-2007,Alm. Salg,-,5,Sommerhus,112,1988,,Aktuel værdi
+Klokkelyngen 35390 Martofte,ofte,467.500,19-11-2007,Fam. Salg,8.657,2,Sommerhus,54,1976,,Aktuel værdi
+Munkekrogen 115390 Martofte,ofte,782.000,27-10-2007,Fam. Salg,14.218,4,Sommerhus,55,1966,,Aktuel værdi
+Fynshovedvej 7605390 Martofte,ofte,1.450.000,24-10-2007,Alm. Salg,14.215,3,Villa,102,1957,,Aktuel værdi
+Fynshovedvej 5025390 Martofte,ofte,440.000,12-10-2007,Alm. Salg,4.782,3,Villa,92,1941,,Aktuel værdi
+Hjertegræsset 285390 Martofte,ofte,756.500,19-09-2007,Fam. Salg,16.445,1,Sommerhus,46,1976,,Aktuel værdi
+Munkekrogen 135390 Martofte,ofte,629.000,19-09-2007,Fam. Salg,14.976,3,Sommerhus,42,1964,,Aktuel værdi
+Sømærkevej 35390 Martofte,ofte,4.225.000,14-09-2007,Alm. Salg,37.723,5,Sommerhus,112,1947,,Aktuel værdi
+Fynshovedvej 854E5390 Martofte,ofte,2.650.000,13-09-2007,Alm. Salg,23.873,4,Fritid,111,1961,,Aktuel værdi
+Hulvej 1055390 Martofte,ofte,2.015.000,28-08-2007,Alm. Salg,27.602,4,Sommerhus,73,1961,-2 %,Aktuel værdi
+Fynshovedvej 5095390 Martofte,ofte,685.000,28-08-2007,Alm. Salg,6.989,5,Villa,98,1912,-8 %,Aktuel værdi
+Hundegræsset 175390 Martofte,ofte,1.375.000,21-08-2007,Alm. Salg,22.540,4,Sommerhus,61,1969,,Aktuel værdi
+Nordskov Bygade 135390 Martofte,ofte,950.000,07-08-2007,Alm. Salg,11.875,3,Stuehus,80,1970,,
+Langøvej 5355390 Martofte,ofte,1.040.000,31-07-2007,Alm. Salg,10.000,4,Villa,104,1916,,Aktuel værdi
+Ridderstjernen 105390 Martofte,ofte,1.880.000,13-07-2007,Alm. Salg,15.284,4,Sommerhus,123,1976,,Aktuel værdi
+Hvidkløveren 25390 Martofte,ofte,1.500.000,25-06-2007,Alm. Salg,25.862,4,Sommerhus,58,1968,-3 %,Aktuel værdi
+Hulvej 665390 Martofte,ofte,3.300.000,20-06-2007,Alm. Salg,43.421,4,Sommerhus,76,1965,-13 %,Aktuel værdi
+Sømærkevej 515390 Martofte,ofte,925.000,04-06-2007,Alm. Salg,10.054,4,Sommerhus,92,2008,-5 %,Aktuel værdi
+Kvikgræsset 185390 Martofte,ofte,1.200.000,03-06-2007,Alm. Salg,20.000,4,Sommerhus,60,1970,-4 %,Aktuel værdi
+Fynshovedvej 8265390 Martofte,ofte,1.870.000,16-05-2007,Fam. Salg,26.338,3,Sommerhus,71,1993,,Aktuel værdi
+Sandvejen 135390 Martofte,ofte,912.500,09-05-2007,Alm. Salg,7.541,6,Sommerhus,121,1969,,Aktuel værdi
+Snavevej 1595390 Martofte,ofte,6.275.000,30-03-2007,Alm. Salg,43.576,6,Stuehus,144,1950,,
+Kvikgræsset 85390 Martofte,ofte,1.800.000,28-03-2007,Alm. Salg,22.222,5,Sommerhus,81,1974,-4 %,Aktuel værdi
+Horseklint 1305390 Martofte,ofte,2.700.000,26-03-2007,Alm. Salg,38.571,3,Sommerhus,70,1958,,Aktuel værdi
+Dunhammeren 865390 Martofte,ofte,650.000,05-03-2007,Alm. Salg,11.818,3,Sommerhus,55,1962,,Aktuel værdi
+Hvidkløveren 95390 Martofte,ofte,412.250,09-02-2007,Fam. Salg,6.342,4,Sommerhus,65,1970,,Aktuel værdi
+Fynshovedvej 6025390 Martofte,ofte,1.441.500,15-01-2007,Alm. Salg,9.240,6,Villa,156,1913,,Aktuel værdi
+Hjertegræsset 295390 Martofte,ofte,680.000,03-01-2007,Fam. Salg,6.666,3,Sommerhus,102,2009,,Aktuel værdi
+Fynshovedvej 854J5390 Martofte,ofte,2.138.000,14-12-2006,Alm. Salg,23.239,3,Fritid,92,2006,,Aktuel værdi
+Langøvej 6025390 Martofte,ofte,816.000,06-11-2006,Fam. Salg,13.161,4,Sommerhus,62,1970,,Aktuel værdi
+Langøvej 155390 Martofte,ofte,1.200.000,25-09-2006,Alm. Salg,7.500,3,Villa,160,1978,,Aktuel værdi
+Stenene 315390 Martofte,ofte,1.360.000,12-09-2006,Fam. Salg,18.888,4,Sommerhus,72,2010,,Aktuel værdi
+Kvikgræsset 15390 Martofte,ofte,1.225.000,04-09-2006,Alm. Salg,18.846,3,Sommerhus,65,1985,,Aktuel værdi
+Jøvet 135390 Martofte,ofte,1.785.000,03-07-2006,Fam. Salg,25.500,4,Sommerhus,70,1954,,Aktuel værdi
+Kærulden 235390 Martofte,ofte,1.800.000,01-06-2006,Alm. Salg,15.254,4,Sommerhus,118,1985,,Aktuel værdi
+Fynshovedvej 7585390 Martofte,ofte,1.062.500,20-05-2006,Fam. Salg,9.004,3,Sommerhus,118,1964,,Aktuel værdi
+Langøvej 3005390 Martofte,ofte,1.250.000,08-05-2006,Alm. Salg,18.382,4,Sommerhus,68,1970,,Aktuel værdi
+Yderledet 24A5390 Martofte,ofte,1.026.290,06-03-2006,Fam. Salg,12.828,6,Sommerhus,80,1960,,Aktuel værdi
+Bogensøvej 3465390 Martofte,ofte,892.500,01-03-2006,Fam. Salg,12.395,4,Sommerhus,72,1939,,Aktuel værdi
+Munkekrogen 325390 Martofte,ofte,600.000,01-02-2006,Alm. Salg,5.263,3,Sommerhus,114,2007,,Aktuel værdi
+Ridderstjernen 15390 Martofte,ofte,629.000,15-01-2006,Fam. Salg,9.984,4,Sommerhus,63,1977,,Aktuel værdi
+Fynshovedvej 5065390 Martofte,ofte,820.000,27-12-2005,Alm. Salg,8.367,4,Villa,98,1939,,Aktuel værdi
+Rødkløveren 85390 Martofte,ofte,1.535.000,23-12-2005,Alm. Salg,22.910,4,Sommerhus,67,1964,,Aktuel værdi
+Rødkløveren 305390 Martofte,ofte,535.500,19-12-2005,Fam. Salg,10.298,4,Sommerhus,52,1967,,Aktuel værdi
+Sandvejen 415390 Martofte,ofte,714.000,12-12-2005,Alm. Salg,9.916,4,Sommerhus,72,1981,,Aktuel værdi
+Hedelyngen 505390 Martofte,ofte,900.000,02-12-2005,Alm. Salg,14.062,4,Sommerhus,64,1964,,Aktuel værdi
+Rødkløveren 185390 Martofte,ofte,1.100.000,01-12-2005,Alm. Salg,18.644,3,Sommerhus,59,1964,,Aktuel værdi
+Bakkegårdsvej 65390 Martofte,ofte,1.100.000,30-11-2005,Alm. Salg,9.565,4,Villa,115,1887,,Aktuel værdi
+Hedelyngen 525390 Martofte,ofte,1.207.500,28-11-2005,Fam. Salg,17.250,4,Sommerhus,70,1962,,Aktuel værdi
+Hulvej 375390 Martofte,ofte,714.000,24-11-2005,Fam. Salg,12.310,4,Sommerhus,58,1961,,Aktuel værdi
+Hulvej 855390 Martofte,ofte,756.500,28-10-2005,Alm. Salg,-,4,Sommerhus,92,1969,,Aktuel værdi
+Bakkegårdsvej 45390 Martofte,ofte,995.000,03-10-2005,Alm. Salg,6.503,5,Villa,153,1857,,Aktuel værdi
+Hjertegræsset 205390 Martofte,ofte,1.005.000,22-09-2005,Alm. Salg,17.946,3,Sommerhus,56,1968,,Aktuel værdi
+Rævehalen 95390 Martofte,ofte,330.000,09-09-2005,Alm. Salg,2.037,5,Sommerhus,162,2009,,Aktuel værdi
+Stenene 135390 Martofte,ofte,860.000,11-08-2005,Fam. Salg,9.347,6,Sommerhus,92,1940,,Aktuel værdi
+Sømærkevej 47B5390 Martofte,ofte,625.000,11-08-2005,Fam. Salg,8.445,4,Sommerhus,74,1980,,Aktuel værdi
+Klokkelyngen 45390 Martofte,ofte,825.000,01-08-2005,Alm. Salg,11.458,4,Sommerhus,72,1969,,Aktuel værdi
+Marehalmen 65390 Martofte,ofte,2.738.000,08-07-2005,Alm. Salg,17.895,5,Sommerhus,153,1966,,Aktuel værdi
+Munkekrogen 35390 Martofte,ofte,1.050.000,06-07-2005,Alm. Salg,15.000,4,Sommerhus,70,1960,,Aktuel værdi
+Søvej 145390 Martofte,ofte,1.700.000,25-06-2005,Alm. Salg,7.870,5,Villa,216,1890,,Aktuel værdi
+Langøvej 2685390 Martofte,ofte,820.000,23-06-2005,Alm. Salg,8.541,3,Villa,96,1959,,Aktuel værdi
+Hjertegræsset 195390 Martofte,ofte,1.895.000,17-06-2005,Alm. Salg,14.465,6,Sommerhus,131,1967,,Aktuel værdi
+Hjertegræsset 425390 Martofte,ofte,995.000,30-05-2005,Alm. Salg,20.729,3,Sommerhus,48,1967,,Aktuel værdi
+Horseklint 1245390 Martofte,ofte,2.450.000,09-04-2005,Alm. Salg,26.344,3,Sommerhus,93,1976,,Aktuel værdi
+Øksnebjerg 355390 Martofte,ofte,1.700.000,23-03-2005,Alm. Salg,22.666,5,Sommerhus,75,1961,,Aktuel værdi
+Øksnebjerg 95390 Martofte,ofte,700.000,21-03-2005,Alm. Salg,-,3,Sommerhus,35,1977,,Aktuel værdi
+Guldstjernen 115390 Martofte,ofte,1.365.000,11-03-2005,Alm. Salg,-,5,Sommerhus,104,1973,,Aktuel værdi
+Fløjelsgræsset 175390 Martofte,ofte,1.700.000,03-03-2005,Fam. Salg,30.357,5,Sommerhus,56,1977,,Aktuel værdi
+Kærulden 195390 Martofte,ofte,940.000,05-02-2005,Alm. Salg,13.623,4,Sommerhus,69,1970,,Aktuel værdi
+Fynshovedvej 8805390 Martofte,ofte,678.000,18-12-2004,Alm. Salg,14.739,2,Sommerhus,46,2008,,Aktuel værdi
+Munkekrogen 405390 Martofte,ofte,406.666,28-11-2004,Fam. Salg,8.299,3,Sommerhus,49,1961,,Aktuel værdi
+Rødkløveren 25390 Martofte,ofte,1.185.000,25-11-2004,Alm. Salg,9.793,4,Sommerhus,121,2006,,Aktuel værdi
+Dunhammeren 905390 Martofte,ofte,671.500,17-11-2004,Fam. Salg,8.608,3,Sommerhus,78,1963,,Aktuel værdi
+Stenene 335390 Martofte,ofte,663.000,15-11-2004,Fam. Salg,12.509,3,Sommerhus,53,1962,,Aktuel værdi
+Alpehau 55390 Martofte,ofte,885.000,26-10-2004,Alm. Salg,12.291,2,Sommerhus,72,1975,,Aktuel værdi
+Munkekrogen 195390 Martofte,ofte,314.500,11-08-2004,Fam. Salg,3.882,5,Sommerhus,81,1966,,Aktuel værdi
+Guldstjernen 65390 Martofte,ofte,675.000,10-08-2004,Alm. Salg,-,5,Sommerhus,100,1974,,Aktuel værdi
+Hulvej 235390 Martofte,ofte,1.180.000,10-07-2004,Alm. Salg,16.857,4,Sommerhus,70,1970,,Aktuel værdi
+Alpehau 355390 Martofte,ofte,1.275.000,07-07-2004,Alm. Salg,14.166,5,Sommerhus,90,1971,,Aktuel værdi
+Stenene 1325390 Martofte,ofte,665.000,07-07-2004,Andet,8.312,5,Sommerhus,80,1973,,Aktuel værdi
+Kvikgræsset 135390 Martofte,ofte,525.000,01-07-2004,Andet,9.051,4,Sommerhus,58,1972,,Aktuel værdi
+Alpehau 455390 Martofte,ofte,416.529,17-06-2004,Alm. Salg,8.330,3,Sommerhus,50,1966,,Aktuel værdi
+Rajgræsset 15390 Martofte,ofte,850.000,09-06-2004,Fam. Salg,13.492,5,Sommerhus,63,1972,,Aktuel værdi
+Dunhammeren 815390 Martofte,ofte,888.750,04-06-2004,Alm. Salg,16.159,3,Sommerhus,55,1977,,Aktuel værdi
+Hulvej 1015390 Martofte,ofte,947.504,11-05-2004,Alm. Salg,11.415,4,Sommerhus,83,1962,,Aktuel værdi
+Hjertegræsset 31A5390 Martofte,ofte,943.000,29-04-2004,Alm. Salg,10.031,4,Sommerhus,94,1969,,Aktuel værdi
+Hjertegræsset 115390 Martofte,ofte,975.000,21-04-2004,Alm. Salg,13.356,4,Sommerhus,73,1975,,Aktuel værdi
+Alpehau 295390 Martofte,ofte,735.000,05-04-2004,Alm. Salg,-,4,Sommerhus,100,1966,,Aktuel værdi
+Sømærkevej 715390 Martofte,ofte,560.000,28-03-2004,Alm. Salg,8.750,4,Sommerhus,64,1962,,Aktuel værdi
+Sandvejen 565390 Martofte,ofte,420.000,25-01-2004,Andet,9.333,3,Sommerhus,45,1961,,Aktuel værdi
+Munkekrogen 85390 Martofte,ofte,995.000,05-01-2004,Alm. Salg,-,4,Sommerhus,70,1982,,Aktuel værdi
+Dunhammeren 165390 Martofte,ofte,500.000,23-12-2003,Alm. Salg,11.111,3,Sommerhus,45,1970,,Aktuel værdi
+Sandvejen 525390 Martofte,ofte,690.000,20-12-2003,Fam. Salg,8.518,7,Sommerhus,81,1961,,Aktuel værdi
+Hulvej 1035390 Martofte,ofte,552.500,17-12-2003,Fam. Salg,12.277,3,Sommerhus,45,1984,,Aktuel værdi
+Rødkløveren 19A5390 Martofte,ofte,297.500,10-12-2003,Fam. Salg,4.576,3,Sommerhus,65,1976,,Aktuel værdi
+Sandvejen 435390 Martofte,ofte,870.000,08-12-2003,Alm. Salg,8.700,5,Sommerhus,100,2007,,Aktuel værdi
+Klokkelyngen 95390 Martofte,ofte,965.000,04-12-2003,Alm. Salg,12.062,5,Sommerhus,80,1971,,Aktuel værdi
+Langøvej 6035390 Martofte,ofte,186.235,03-11-2003,Fam. Salg,3.103,3,Sommerhus,60,2005,,Aktuel værdi
+Fynshovedvej 5595390 Martofte,ofte,665.000,20-10-2003,Alm. Salg,5.195,4,Villa,128,1867,,Aktuel værdi
+Alpehau 485390 Martofte,ofte,3.675.000,13-10-2003,Alm. Salg,14.080,7,Sommerhus,261,2001,,Aktuel værdi
+Klokkelyngen 215390 Martofte,ofte,825.000,13-10-2003,Alm. Salg,13.983,4,Sommerhus,59,1978,,Aktuel værdi
+Hulvej 1115390 Martofte,ofte,750.000,07-10-2003,Alm. Salg,9.146,5,Sommerhus,82,2005,,Aktuel værdi
+Dunhammeren 985390 Martofte,ofte,990.000,06-10-2003,Alm. Salg,14.558,4,Sommerhus,68,1978,,Aktuel værdi
+Fynshovedvej 5035390 Martofte,ofte,760.000,29-09-2003,Alm. Salg,8.444,5,Villa,90,1917,,Aktuel værdi
+Langøvej 6045390 Martofte,ofte,840.000,28-09-2003,Alm. Salg,11.666,5,Sommerhus,72,1969,,Aktuel værdi
+Kvikgræsset 405390 Martofte,ofte,695.000,24-09-2003,Alm. Salg,11.982,3,Sommerhus,58,1971,,Aktuel værdi
+Fynshovedvej 6965390 Martofte,ofte,1.900.000,18-09-2003,Alm. Salg,12.500,10,Villa,152,1926,,Aktuel værdi
+Øksnebjerg 425390 Martofte,ofte,1.200.000,24-08-2003,Alm. Salg,22.222,5,Sommerhus,54,1961,,Aktuel værdi
+Kvikgræsset 105390 Martofte,ofte,607.500,19-08-2003,Alm. Salg,9.492,4,Sommerhus,64,1970,,Aktuel værdi
+Sandvejen 505390 Martofte,ofte,1.500.000,19-08-2003,Alm. Salg,14.563,4,Sommerhus,103,2013,,Aktuel værdi
+Langøvej 255390 Martofte,ofte,1.100.000,03-08-2003,Alm. Salg,5.759,7,Villa,191,2003,,Aktuel værdi
+Hjertegræsset 575390 Martofte,ofte,250.000,22-07-2003,Alm. Salg,4.901,4,Sommerhus,51,1966,,Aktuel værdi
+Søvej 1625390 Martofte,ofte,170.000,11-07-2003,Fam. Salg,1.416,4,Stuehus,120,1885,,
+Ridderstjernen 125390 Martofte,ofte,845.000,29-06-2003,Alm. Salg,9.825,5,Sommerhus,86,1978,,Aktuel værdi
+Hulvej 695390 Martofte,ofte,820.000,18-06-2003,Alm. Salg,12.058,4,Sommerhus,68,1966,,Aktuel værdi
+Hulvej 75390 Martofte,ofte,896.673,01-04-2003,Alm. Salg,12.453,3,Sommerhus,72,1967,,Aktuel værdi
+Hedelyngen 15390 Martofte,ofte,450.000,05-03-2003,Fam. Salg,13.636,4,Sommerhus,33,1970,,Aktuel værdi
+Enghavevej 305390 Martofte,ofte,293.250,13-02-2003,Fam. Salg,1.629,7,Villa,180,1888,,Aktuel værdi
+Kvikgræsset 215390 Martofte,ofte,800.000,11-01-2003,Fam. Salg,9.195,4,Sommerhus,87,1973,,Aktuel værdi
+Langøvej 2885390 Martofte,ofte,375.000,09-01-2003,Andet,1.602,6,Villa,234,1827,,Aktuel værdi
+Dunhammeren 505390 Martofte,ofte,900.000,05-12-2002,Alm. Salg,10.227,3,Sommerhus,88,2005,,Aktuel værdi
+Sømærkevej 875390 Martofte,ofte,510.000,11-11-2002,Alm. Salg,8.500,3,Sommerhus,60,2003,,Aktuel værdi
+Øksnebjerg 235390 Martofte,ofte,765.000,09-11-2002,Fam. Salg,8.500,5,Sommerhus,90,1960,,Aktuel værdi
+Hedelyngen 445390 Martofte,ofte,1.600.000,07-11-2002,Fam. Salg,19.753,4,Sommerhus,81,1987,,Aktuel værdi
+Slippen 115390 Martofte,ofte,550.000,31-10-2002,Alm. Salg,5.500,6,Villa,100,1800,,Aktuel værdi
+Klokkelyngen 195390 Martofte,ofte,578.000,30-10-2002,Fam. Salg,9.965,3,Sommerhus,58,1970,,Aktuel værdi
+Dunhammeren 1045390 Martofte,ofte,560.000,18-10-2002,Alm. Salg,10.566,3,Sommerhus,53,1967,,Aktuel værdi
+Rødkløveren 27A5390 Martofte,ofte,700.000,15-10-2002,Fam. Salg,6.034,5,Sommerhus,116,2004,,Aktuel værdi
+Kvikgræsset 125390 Martofte,ofte,770.000,08-10-2002,Alm. Salg,12.833,4,Sommerhus,60,1975,,Aktuel værdi
+Hulvej 35390 Martofte,ofte,480.000,08-10-2002,Alm. Salg,16.551,3,Sommerhus,29,1964,,Aktuel værdi
+Hjertegræsset 325390 Martofte,ofte,467.500,30-09-2002,Fam. Salg,10.388,3,Sommerhus,45,1970,,Aktuel værdi
+Langøvej 2945390 Martofte,ofte,410.000,27-09-2002,Alm. Salg,9.761,3,Sommerhus,42,1967,,Aktuel værdi
+Kirkebakken 645390 Martofte,ofte,312.500,24-09-2002,Fam. Salg,1.953,5,Villa,160,1880,,Aktuel værdi
+Kvikgræsset 385390 Martofte,ofte,750.000,04-09-2002,Alm. Salg,7.575,4,Sommerhus,99,1975,,Aktuel værdi
+Munkekrogen 145390 Martofte,ofte,680.000,31-08-2002,Fam. Salg,9.444,4,Sommerhus,72,2014,,Aktuel værdi
+Rajgræsset 95390 Martofte,ofte,1.216.867,28-08-2002,Alm. Salg,9.734,5,Sommerhus,125,1967,,Aktuel værdi
+Søvej 615390 Martofte,ofte,537.107,27-08-2002,Alm. Salg,5.214,4,Villa,103,1965,,Aktuel værdi
+Alpehau 45390 Martofte,ofte,977.500,09-08-2002,Fam. Salg,12.532,4,Sommerhus,78,1987,,Aktuel værdi
+Munkekrogen 185390 Martofte,ofte,1.225.000,06-08-2002,Alm. Salg,12.373,4,Sommerhus,99,1961,,Aktuel værdi
+Alpehau 155390 Martofte,ofte,532.500,05-08-2002,Fam. Salg,8.875,3,Sommerhus,60,1968,,Aktuel værdi
+Hedelyngen 485390 Martofte,ofte,722.500,08-07-2002,Fam. Salg,13.632,4,Sommerhus,53,1955,,Aktuel værdi
+Fynshovedvej 5995390 Martofte,ofte,750.000,01-07-2002,Fam. Salg,4.032,7,Stuehus,186,1941,,
+Rajgræsset 75390 Martofte,ofte,1.225.000,19-06-2002,Alm. Salg,-,4,Sommerhus,97,1987,,Aktuel værdi
+Alpehau 415390 Martofte,ofte,383.000,13-06-2002,Fam. Salg,4.505,3,Sommerhus,85,1966,,Aktuel værdi
+Hulvej 775390 Martofte,ofte,730.000,17-05-2002,Alm. Salg,8.390,3,Sommerhus,87,1965,,Aktuel værdi
+Hjertegræsset 515390 Martofte,ofte,865.000,17-05-2002,Alm. Salg,11.233,4,Sommerhus,77,1973,,Aktuel værdi
+Fynshovedvej 5055390 Martofte,ofte,605.000,06-05-2002,Alm. Salg,5.817,4,Villa,104,1915,,Aktuel værdi
+Alpehau 105390 Martofte,ofte,675.000,09-04-2002,Alm. Salg,11.842,3,Sommerhus,57,1970,,Aktuel værdi
+Hulvej 355390 Martofte,ofte,565.000,15-03-2002,Alm. Salg,8.828,3,Sommerhus,64,1959,,Aktuel værdi
+Klokkelyngen 445390 Martofte,ofte,820.000,06-03-2002,Alm. Salg,11.081,4,Sommerhus,74,1985,,Aktuel værdi
+Fynshovedvej 5245390 Martofte,ofte,475.000,05-03-2002,Alm. Salg,4.896,4,Villa,97,1920,,Aktuel værdi
+Søvej 105390 Martofte,ofte,525.000,25-02-2002,Alm. Salg,3.201,4,Villa,164,1827,,Aktuel værdi
+Hedelyngen 25390 Martofte,ofte,3.000.000,02-01-2002,Alm. Salg,26.086,4,Sommerhus,115,1991,,Aktuel værdi
+Fynshovedvej 8085390 Martofte,ofte,680.000,21-12-2001,Fam. Salg,7.157,4,Sommerhus,95,1935,,Aktuel værdi
+Hulvej 195390 Martofte,ofte,810.000,20-12-2001,Alm. Salg,10.000,3,Sommerhus,81,1961,,Aktuel værdi
+Munkekrogen 125390 Martofte,ofte,459.000,12-12-2001,Fam. Salg,9.765,4,Sommerhus,47,1962,,Aktuel værdi
+Alpehau 205390 Martofte,ofte,425.000,08-12-2001,Alm. Salg,-,4,Sommerhus,127,1974,,Aktuel værdi
+Klokkelyngen 155390 Martofte,ofte,575.000,11-10-2001,Alm. Salg,8.214,3,Sommerhus,70,1974,,Aktuel værdi
+Bakkegårdsvej 75390 Martofte,ofte,1.075.000,14-08-2001,Alm. Salg,5.718,8,Villa,188,1890,,Aktuel værdi
+Frederikslundvej 605390 Martofte,ofte,840.000,12-06-2001,Alm. Salg,4.565,3,Villa,184,1890,,Aktuel værdi
+Bogensøvej 3065390 Martofte,ofte,1.650.000,21-05-2001,Alm. Salg,-,11,Villa,582,1530,,Aktuel værdi
+Øksnebjerg 325390 Martofte,ofte,459.000,10-05-2001,Fam. Salg,11.195,2,Sommerhus,41,1935,,Aktuel værdi
+Nordskov Bygade 425390 Martofte,ofte,700.000,25-04-2001,Alm. Salg,10.000,2,Sommerhus,70,1930,,Aktuel værdi
+Hjertegræsset 395390 Martofte,ofte,585.000,21-03-2001,Alm. Salg,-,4,Sommerhus,94,1967,,Aktuel værdi
+Langøvej 3715390 Martofte,ofte,3.592.200,16-03-2001,Fam. Salg,15.618,9,Stuehus,230,1896,,
+Ridderstjernen 25390 Martofte,ofte,885.000,16-01-2001,Alm. Salg,11.493,4,Sommerhus,77,1976,,Aktuel værdi
+Marehalmen 185390 Martofte,ofte,325.000,12-01-2001,Fam. Salg,8.552,5,Sommerhus,38,1928,,Aktuel værdi
+Hjertegræsset 465390 Martofte,ofte,370.000,10-01-2001,Fam. Salg,4.111,4,Sommerhus,90,1974,,Aktuel værdi
+Sømærkevej 25390 Martofte,ofte,166.000,31-12-2000,Fam. Salg,2.213,3,Sommerhus,75,1993,,Aktuel værdi
+Alpehau 475390 Martofte,ofte,335.000,27-12-2000,Fam. Salg,5.775,4,Sommerhus,58,1966,,Aktuel værdi
+Hundegræsset 415390 Martofte,ofte,637.500,14-12-2000,Fam. Salg,11.184,3,Sommerhus,57,1989,,Aktuel værdi
+Søvej 205390 Martofte,ofte,476.000,30-11-2000,Alm. Salg,5.666,2,Villa,84,1945,,Aktuel værdi
+Ridderstjernen 65390 Martofte,ofte,675.000,10-11-2000,Alm. Salg,12.272,4,Sommerhus,55,1976,,Aktuel værdi
+Langøvej 5905390 Martofte,ofte,600.000,08-11-2000,Fam. Salg,10.909,3,Sommerhus,55,1978,,Aktuel værdi
+Fynshovedvej 5385390 Martofte,ofte,396.000,07-11-2000,Alm. Salg,4.829,3,Villa,82,1877,,Aktuel værdi
+Hjertegræsset 545390 Martofte,ofte,791.600,09-10-2000,Alm. Salg,13.193,3,Sommerhus,60,1976,,Aktuel værdi
+Bystævnevej 205390 Martofte,ofte,700.000,20-09-2000,Alm. Salg,3.286,7,Villa,213,1737,,Aktuel værdi
+Rødkløveren 275390 Martofte,ofte,1.698.000,15-09-2000,Alm. Salg,15.436,4,Sommerhus,110,2001,,Aktuel værdi
+Fynshovedvej 8285390 Martofte,ofte,660.000,13-09-2000,Alm. Salg,11.000,3,Sommerhus,60,1960,,Aktuel værdi
+Alpehau 65390 Martofte,ofte,561.000,11-09-2000,Fam. Salg,10.388,3,Sommerhus,54,1971,,Aktuel værdi
+Fynshovedvej 5355390 Martofte,ofte,600.000,04-09-2000,Alm. Salg,3.208,6,Villa,187,1880,,Aktuel værdi
+Hjertegræsset 95390 Martofte,ofte,675.000,17-08-2000,Alm. Salg,12.272,4,Sommerhus,55,1971,,Aktuel værdi
+Rajgræsset 45390 Martofte,ofte,1.025.000,16-08-2000,Alm. Salg,-,4,Sommerhus,89,1969,,Aktuel værdi
+Hvidkløveren 55390 Martofte,ofte,775.000,15-06-2000,Alm. Salg,11.397,2,Sommerhus,68,1976,,Aktuel værdi
+Munkekrogen 445390 Martofte,ofte,1.500.000,15-06-2000,Alm. Salg,18.518,4,Sommerhus,81,1961,,Aktuel værdi
+Hulvej 625390 Martofte,ofte,1.750.000,18-05-2000,Alm. Salg,25.000,3,Sommerhus,70,1959,,Aktuel værdi
+Guldstjernen 25390 Martofte,ofte,374.000,13-05-2000,Fam. Salg,6.448,4,Sommerhus,58,1980,,Aktuel værdi
+Yderledet 185390 Martofte,ofte,722.531,27-03-2000,Fam. Salg,6.337,3,Sommerhus,114,2009,,Aktuel værdi
+Fynshovedvej 8005390 Martofte,ofte,366.667,14-03-2000,Alm. Salg,3.525,5,Sommerhus,104,1937,,Aktuel værdi
+Rævehalen 25390 Martofte,ofte,619.090,23-02-2000,Alm. Salg,12.381,4,Sommerhus,50,1974,,Aktuel værdi
+Fynshovedvej 8225390 Martofte,ofte,480.000,22-02-2000,Fam. Salg,4.485,4,Sommerhus,107,2001,,Aktuel værdi
+Nordskov Bygade 445390 Martofte,ofte,360.794,09-02-2000,Fam. Salg,2.540,4,Villa,142,1890,,Aktuel værdi
+Frederikslundvej 985390 Martofte,ofte,530.000,05-01-2000,Alm. Salg,8.281,1,Villa,64,1830,,Aktuel værdi
+Marehalmen 115390 Martofte,ofte,500.000,28-12-1999,Alm. Salg,2.631,7,Sommerhus,190,1931,,Aktuel værdi
+Fløjelsgræsset 19A5390 Martofte,ofte,527.000,17-12-1999,Fam. Salg,9.410,3,Sommerhus,56,1976,,Aktuel værdi
+Langøvej 6155390 Martofte,ofte,1.147.500,15-12-1999,Fam. Salg,8.196,7,Sommerhus,140,1935,,Aktuel værdi
+Egensøvej 2705390 Martofte,ofte,314.500,15-12-1999,Fam. Salg,3.494,3,Villa,90,1957,,Aktuel værdi
+Fynshovedvej 8765390 Martofte,ofte,160.000,14-12-1999,Alm. Salg,8.888,1,Sommerhus,18,1930,,Aktuel værdi
+Rødkløveren 195390 Martofte,ofte,510.000,21-11-1999,Fam. Salg,8.500,4,Sommerhus,60,1932,,Aktuel værdi
+Langøvej 5695390 Martofte,ofte,334.442,21-11-1999,Fam. Salg,2.388,5,Sommerhus,140,2003,,Aktuel værdi
+Munkekrogen 165390 Martofte,ofte,190.000,29-10-1999,Alm. Salg,2.345,4,Sommerhus,81,2002,,Aktuel værdi
+Stenene 255390 Martofte,ofte,400.000,26-10-1999,Fam. Salg,3.636,7,Sommerhus,110,1934,,Aktuel værdi
+Dunhammeren 965390 Martofte,ofte,400.000,15-10-1999,Alm. Salg,-,4,Sommerhus,55,2000,,Aktuel værdi
+Langøvej 5715390 Martofte,ofte,835.000,09-10-1999,Alm. Salg,16.700,4,Sommerhus,50,1968,,Aktuel værdi
+Stenene 1095390 Martofte,ofte,313.000,20-09-1999,Alm. Salg,4.968,3,Sommerhus,63,1962,,Aktuel værdi
+Øksnebjerg 295390 Martofte,ofte,640.000,15-09-1999,Fam. Salg,14.222,3,Sommerhus,45,1960,,Aktuel værdi
+Kærulden 295390 Martofte,ofte,660.000,15-09-1999,Fam. Salg,11.578,3,Sommerhus,57,1971,,Aktuel værdi
+Langøvej 5375390 Martofte,ofte,300.000,14-09-1999,Alm. Salg,3.000,5,Villa,100,1916,,Aktuel værdi
+Horseklint 1205390 Martofte,ofte,1.160.000,14-09-1999,Alm. Salg,-,4,Sommerhus,103,1971,,Aktuel værdi
+Alpehau 15390 Martofte,ofte,275.000,06-09-1999,Alm. Salg,3.437,3,Sommerhus,80,2001,,Aktuel værdi
+Sandvejen 115390 Martofte,ofte,399.500,06-09-1999,Fam. Salg,7.990,2,Sommerhus,50,1963,,Aktuel værdi
+Stenene 1115390 Martofte,ofte,230.000,20-07-1999,Alm. Salg,6.571,1,Sommerhus,35,1967,,Aktuel værdi
+Hulvej 295390 Martofte,ofte,627.000,19-07-1999,Alm. Salg,8.250,5,Sommerhus,76,2008,,Aktuel værdi
+Stenene 1035390 Martofte,ofte,346.000,15-07-1999,Alm. Salg,8.650,3,Sommerhus,40,1960,,Aktuel værdi
+Stenene 1055390 Martofte,ofte,443.500,15-07-1999,Alm. Salg,-,3,Sommerhus,71,1960,,Aktuel værdi
+Guldstjernen 15390 Martofte,ofte,575.000,08-07-1999,Alm. Salg,7.876,4,Sommerhus,73,1973,,Aktuel værdi
+Æblehaven 75390 Martofte,ofte,422.912,07-06-1999,Alm. Salg,3.879,4,Villa,109,1964,,Aktuel værdi
+Hvidkløveren 45390 Martofte,ofte,570.000,29-04-1999,Alm. Salg,7.702,3,Sommerhus,74,1969,,Aktuel værdi
+Ridderstjernen 35390 Martofte,ofte,650.000,19-03-1999,Alm. Salg,-,4,Sommerhus,122,1976,,Aktuel værdi
+Hjertegræsset 345390 Martofte,ofte,323.000,25-02-1999,Fam. Salg,6.333,3,Sommerhus,51,1969,,Aktuel værdi
+Horseklint 1665390 Martofte,ofte,459.000,17-12-1998,Fam. Salg,7.403,3,Sommerhus,62,1963,,Aktuel værdi
+Enghavevej 245390 Martofte,ofte,650.000,12-10-1998,Alm. Salg,5.000,3,Villa,130,1956,,Aktuel værdi
+Fløjelsgræsset 355390 Martofte,ofte,391.000,07-10-1998,Fam. Salg,-,3,Sommerhus,72,1951,,Aktuel værdi
+Fynshovedvej 5545390 Martofte,ofte,727.201,28-08-1998,Alm. Salg,5.593,7,Villa,130,1912,,Aktuel værdi
+Fynshovedvej 7865390 Martofte,ofte,1.095.000,27-08-1998,Alm. Salg,13.353,4,Sommerhus,82,1934,,Aktuel værdi
+Fynshovedvej 5465390 Martofte,ofte,697.230,06-08-1998,Alm. Salg,5.404,4,Villa,129,1922,,Aktuel værdi
+Alpehau 535390 Martofte,ofte,1.600.000,31-07-1998,Alm. Salg,17.777,4,Sommerhus,90,1966,,Aktuel værdi
+Fløjelsgræsset 275390 Martofte,ofte,680.000,18-07-1998,Fam. Salg,75.555,1,Sommerhus,9,1966,,Aktuel værdi
+Langøvej 3025390 Martofte,ofte,380.000,25-06-1998,Fam. Salg,4.175,5,Sommerhus,91,1968,,Aktuel værdi
+Øleddet 75390 Martofte,ofte,896.000,24-05-1998,Alm. Salg,13.784,4,Sommerhus,65,1973,,Aktuel værdi
+Alpehau 605390 Martofte,ofte,340.000,23-05-1998,Alm. Salg,3.148,4,Sommerhus,108,2004,,Aktuel værdi
+Stubberup Bygade 55390 Martofte,ofte,800.000,12-05-1998,Alm. Salg,6.504,3,Villa,123,1969,,Aktuel værdi
+Fynshovedvej 7685390 Martofte,ofte,595.000,30-04-1998,Alm. Salg,9.296,3,Villa,64,1959,,Aktuel værdi
+Stenene 155390 Martofte,ofte,65.000,27-04-1998,Alm. Salg,1.031,3,Sommerhus,63,1998,,Aktuel værdi
+Øleddet 25390 Martofte,ofte,350.000,14-04-1998,Alm. Salg,3.977,4,Sommerhus,88,1999,,Aktuel værdi
+Horseklint 1405390 Martofte,ofte,1.156.000,27-02-1998,Alm. Salg,-,3,Sommerhus,74,1971,,Aktuel værdi
+Hundegræsset 235390 Martofte,ofte,232.000,07-01-1998,Alm. Salg,3.741,3,Sommerhus,62,1998,,Aktuel værdi
+Alpehau 265390 Martofte,ofte,297.500,31-12-1997,Fam. Salg,5.721,3,Sommerhus,52,1968,,Aktuel værdi
+Klokkelyngen 55390 Martofte,ofte,540.000,30-12-1997,Fam. Salg,6.666,4,Sommerhus,81,1978,,Aktuel værdi
+Frederikslundvej 1095390 Martofte,ofte,370.000,20-12-1997,Fam. Salg,3.303,4,Stuehus,112,1800,,
+Frederikslundvej 825390 Martofte,ofte,290.000,20-12-1997,Fam. Salg,2.148,3,Villa,135,1800,,Aktuel værdi
+Frederikslundvej 1115390 Martofte,ofte,340.000,20-12-1997,Fam. Salg,4.197,3,Stuehus,81,1950,,
+Sømærkevej 755390 Martofte,ofte,382.500,17-11-1997,Fam. Salg,6.375,3,Sommerhus,60,1965,,Aktuel værdi
+Fynshovedvej 5005390 Martofte,ofte,356.320,16-11-1997,Alm. Salg,3.959,2,Villa,90,1945,,Aktuel værdi
+Stenene 495390 Martofte,ofte,391.000,13-11-1997,Fam. Salg,8.688,3,Sommerhus,45,1930,,Aktuel værdi
+Enghavevej 365390 Martofte,ofte,247.500,25-10-1997,Alm. Salg,1.672,5,Villa,148,1880,,Aktuel værdi
+Sandvejen 155390 Martofte,ofte,137.500,21-10-1997,Alm. Salg,1.617,4,Sommerhus,85,1962,,Aktuel værdi
+Søvej 865390 Martofte,ofte,550.000,13-10-1997,Fam. Salg,4.044,6,Villa,136,1964,,Aktuel værdi
+Hulvej 765390 Martofte,ofte,500.000,29-09-1997,Alm. Salg,-,5,Sommerhus,91,1999,,Aktuel værdi
+Langøvej 3045390 Martofte,ofte,415.000,11-09-1997,Alm. Salg,6.803,5,Sommerhus,61,1961,,Aktuel værdi
+Alpehau 445390 Martofte,ofte,315.000,02-09-1997,Fam. Salg,2.441,5,Sommerhus,129,1971,,Aktuel værdi
+Fynshovedvej 6895390 Martofte,ofte,550.000,02-09-1997,Alm. Salg,5.238,4,Villa,105,1938,,Aktuel værdi
+Snavevej 1005390 Martofte,ofte,425.000,27-08-1997,Alm. Salg,-,1,Villa,169,1855,,Aktuel værdi
+Bøgebjergvej 4885390 Martofte,ofte,365.000,30-07-1997,Alm. Salg,-,3,Villa,103,1900,,Aktuel værdi
+Hjertegræsset 625390 Martofte,ofte,155.000,22-06-1997,Fam. Salg,4.189,2,Sommerhus,37,1965,,Aktuel værdi
+Kærulden 15390 Martofte,ofte,530.000,29-05-1997,Alm. Salg,9.464,3,Sommerhus,56,1987,,Aktuel værdi
+Munkekrogen 345390 Martofte,ofte,1.057.060,28-05-1997,Alm. Salg,10.570,4,Sommerhus,100,1964,,Aktuel værdi
+Fynshovedvej 5475390 Martofte,ofte,345.000,23-05-1997,Alm. Salg,-,4,Villa,111,1727,,Aktuel værdi
+Rævehalen 15390 Martofte,ofte,534.000,27-04-1997,Alm. Salg,6.000,5,Sommerhus,89,1977,,Aktuel værdi
+Stenene 395390 Martofte,ofte,310.000,11-04-1997,Alm. Salg,4.305,6,Sommerhus,72,1936,,Aktuel værdi
+Munkekrogen 255390 Martofte,ofte,600.000,08-04-1997,Alm. Salg,7.692,4,Sommerhus,78,1964,,Aktuel værdi
+Bystævnevej 115390 Martofte,ofte,1.019.000,03-01-1997,Alm. Salg,6.329,6,Villa,161,1978,,Aktuel værdi
+Bøgebjergvej 3275390 Martofte,ofte,382.500,20-12-1996,Fam. Salg,3.541,4,Stuehus,108,1800,,
+Fynshovedvej 5085390 Martofte,ofte,440.000,19-12-1996,Alm. Salg,4.313,3,Villa,102,1950,,Aktuel værdi
+Munkekrogen 25390 Martofte,ofte,400.000,15-12-1996,Fam. Salg,4.597,5,Sommerhus,87,1964,,Aktuel værdi
+Øksnebjerg 365390 Martofte,ofte,195.500,05-12-1996,Fam. Salg,4.654,4,Sommerhus,42,1948,,Aktuel værdi
+Alpehau 305390 Martofte,ofte,191.000,16-11-1996,Alm. Salg,2.938,3,Sommerhus,65,2000,,Aktuel værdi
+Langøvej 2705390 Martofte,ofte,270.000,31-10-1996,Alm. Salg,1.139,5,Villa,237,1997,,Aktuel værdi
+Alpehau 145390 Martofte,ofte,415.000,11-10-1996,Alm. Salg,-,4,Sommerhus,95,1967,,Aktuel værdi
+Sømærkevej 175390 Martofte,ofte,300.000,08-10-1996,Fam. Salg,5.555,4,Sommerhus,54,1947,,Aktuel værdi
+Hulvej 615390 Martofte,ofte,400.000,29-08-1996,Fam. Salg,-,4,Sommerhus,60,1970,,Aktuel værdi
+Alpehau 255390 Martofte,ofte,246.000,28-08-1996,Fam. Salg,2.764,4,Sommerhus,89,2012,,Aktuel værdi
+Hulvej 435390 Martofte,ofte,450.000,22-08-1996,Alm. Salg,-,7,Sommerhus,65,1960,,Aktuel værdi
+Enghavevej 55390 Martofte,ofte,250.000,29-05-1996,Alm. Salg,1.497,5,Villa,167,1889,,Aktuel værdi
+Langøvej 5855390 Martofte,ofte,280.000,24-04-1996,Fam. Salg,4.745,3,Sommerhus,59,1961,,Aktuel værdi
+Rødkløveren 365390 Martofte,ofte,493.000,21-04-1996,Alm. Salg,-,7,Sommerhus,131,1958,,Aktuel værdi
+Kvikgræsset 365390 Martofte,ofte,563.000,16-04-1996,Alm. Salg,9.542,3,Sommerhus,59,1987,,Aktuel værdi
+Hundegræsset 25390 Martofte,ofte,700.000,12-04-1996,Alm. Salg,8.333,4,Sommerhus,84,1981,,Aktuel værdi
+Fynshovedvej 7505390 Martofte,ofte,105.000,26-02-1996,Alm. Salg,652,5,Villa,161,1997,,Aktuel værdi
+Sandvejen 255390 Martofte,ofte,225.000,26-02-1996,Fam. Salg,4.500,4,Sommerhus,50,1959,,Aktuel værdi
+Rødkløveren 165390 Martofte,ofte,450.000,23-02-1996,Alm. Salg,8.653,4,Sommerhus,52,1961,,Aktuel værdi
+Bøgebjergvej 4945390 Martofte,ofte,463.715,05-01-1996,Fam. Salg,-,7,Villa,224,1860,,Aktuel værdi
+Langøvej 5885390 Martofte,ofte,360.000,14-12-1995,Fam. Salg,5.901,4,Sommerhus,61,1974,,Aktuel værdi
+Klokkelyngen 305390 Martofte,ofte,160.000,04-12-1995,Alm. Salg,-,4,Sommerhus,110,1972,,Aktuel værdi
+Sandvejen 175390 Martofte,ofte,306.000,03-12-1995,Fam. Salg,5.016,3,Sommerhus,61,1975,,Aktuel værdi
+Æblehaven 205390 Martofte,ofte,460.000,01-12-1995,Fam. Salg,2.804,6,Villa,164,1935,,Aktuel værdi
+Kvikgræsset 155390 Martofte,ofte,90.265,23-10-1995,Fam. Salg,1.388,3,Sommerhus,65,1975,,Aktuel værdi
+Guldstjernen 145390 Martofte,ofte,550.000,18-10-1995,Alm. Salg,-,5,Sommerhus,93,1972,,Aktuel værdi
+Alpehau 345390 Martofte,ofte,450.000,10-10-1995,Alm. Salg,-,5,Sommerhus,80,1967,,Aktuel værdi
+Bakkegårdsvej 85390 Martofte,ofte,200.000,03-10-1995,Alm. Salg,3.076,3,Villa,65,1827,,Aktuel værdi
+Hundegræsset 35390 Martofte,ofte,225.000,20-09-1995,Alm. Salg,2.528,3,Sommerhus,89,2004,,Aktuel værdi
+Langøvej 5335390 Martofte,ofte,351.000,28-08-1995,Alm. Salg,2.089,6,Stuehus,168,1850,,
+Søvej 1035390 Martofte,ofte,799.510,06-07-1995,Alm. Salg,5.294,3,Stuehus,151,1999,,
+Fynshovedvej 4765390 Martofte,ofte,360.990,01-07-1995,Alm. Salg,3.721,4,Villa,97,1901,,Aktuel værdi
+Hulvej 21A5390 Martofte,ofte,520.000,27-06-1995,Alm. Salg,6.753,3,Sommerhus,77,1980,,Aktuel værdi
+"Guldstjernen 13, ST5390 Martofte",ofte,350.000,14-06-1995,Alm. Salg,-,3,Sommerhus,67,1973,,Aktuel værdi
+Klokkelyngen 325390 Martofte,ofte,673.555,02-06-1995,Alm. Salg,8.747,4,Sommerhus,77,1976,,Aktuel værdi
+Hjertegræsset 605390 Martofte,ofte,340.000,31-05-1995,Alm. Salg,3.777,4,Sommerhus,90,2011,,Aktuel værdi
+Ridderstjernen 55390 Martofte,ofte,415.000,08-05-1995,Alm. Salg,6.916,3,Sommerhus,60,1976,,Aktuel værdi
+Klokkelyngen 425390 Martofte,ofte,349.000,05-05-1995,Fam. Salg,-,5,Sommerhus,69,1970,,Aktuel værdi
+Munkekrogen 385390 Martofte,ofte,815.000,26-04-1995,Alm. Salg,12.936,4,Sommerhus,63,1978,,Aktuel værdi
+Sandvejen 335390 Martofte,ofte,238.000,06-03-1995,Fam. Salg,3.966,3,Sommerhus,60,1964,,Aktuel værdi
+Fynshovedvej 5225390 Martofte,ofte,360.749,16-02-1995,Alm. Salg,2.454,4,Villa,147,1911,,Aktuel værdi
+Jøvet 85390 Martofte,ofte,102.000,10-02-1995,Fam. Salg,2.428,1,Sommerhus,42,1932,,Aktuel værdi
+Kærulden 275390 Martofte,ofte,403.600,20-01-1995,Alm. Salg,3.449,6,Sommerhus,117,1971,,Aktuel værdi
+Øleddet 35390 Martofte,ofte,314.500,19-01-1995,Fam. Salg,4.084,4,Sommerhus,77,1974,,Aktuel værdi
+Langøvej 2245390 Martofte,ofte,485.000,20-12-1994,Alm. Salg,2.425,8,Villa,200,1861,,Aktuel værdi
+Alpehau 515390 Martofte,ofte,270.000,19-10-1994,Fam. Salg,3.033,4,Sommerhus,89,1981,,Aktuel værdi
+Kirkebakken 485390 Martofte,ofte,410.000,14-10-1994,Alm. Salg,-,5,Villa,127,1952,,Aktuel værdi
+Hundegræsset 185390 Martofte,ofte,575.000,04-10-1994,Alm. Salg,-,4,Sommerhus,77,1971,,Aktuel værdi
+Enghavevej 545390 Martofte,ofte,185.000,26-09-1994,Alm. Salg,2.151,4,Villa,86,1888,,Aktuel værdi
+Nordskov Bygade 15390 Martofte,ofte,350.000,13-09-1994,Fam. Salg,2.083,7,Villa,168,1825,,Aktuel værdi
+Alpehau 375390 Martofte,ofte,575.000,03-09-1994,Alm. Salg,5.750,3,Sommerhus,100,1971,,Aktuel værdi
+Snavevej 1445390 Martofte,ofte,402.500,25-08-1994,Alm. Salg,2.775,5,Villa,145,1925,,Aktuel værdi
+Nordskov Bygade 305390 Martofte,ofte,320.000,19-08-1994,Alm. Salg,-,6,Villa,141,1907,,Aktuel værdi
+Munkekrogen 45390 Martofte,ofte,156.190,31-07-1994,Alm. Salg,-,3,Sommerhus,65,1942,,Aktuel værdi
+Rødkløveren 155390 Martofte,ofte,178.500,21-07-1994,Fam. Salg,1.500,5,Sommerhus,119,2010,,Aktuel værdi
+Rævehalen 155390 Martofte,ofte,335.000,07-06-1994,Alm. Salg,6.320,3,Sommerhus,53,1972,,Aktuel værdi
+Rødkløveren 135390 Martofte,ofte,400.000,30-05-1994,Fam. Salg,-,4,Sommerhus,150,1965,,Aktuel værdi
+Munkekrogen 235390 Martofte,ofte,475.000,09-05-1994,Auktion,6.985,3,Sommerhus,68,1951,,Aktuel værdi
+Sømærkevej 155390 Martofte,ofte,160.000,04-05-1994,Alm. Salg,2.807,3,Sommerhus,57,1995,,Aktuel værdi
+Bystævnevej 155390 Martofte,ofte,2.825.000,12-04-1994,Alm. Salg,15.026,8,Stuehus,188,1916,,
+Kærulden 35390 Martofte,ofte,360.000,29-03-1994,Alm. Salg,-,4,Sommerhus,68,1968,,Aktuel værdi
+Langøvej 5425390 Martofte,ofte,221.000,08-02-1994,Fam. Salg,-,2,Sommerhus,40,1968,,Aktuel værdi
+Alpehau 315390 Martofte,ofte,160.000,26-01-1994,Fam. Salg,-,5,Sommerhus,107,1966,,Aktuel værdi
+Øksnebjerg 45390 Martofte,ofte,315.500,12-12-1993,Alm. Salg,3.123,4,Sommerhus,101,1900,,Aktuel værdi
+Dunhammeren 645390 Martofte,ofte,112.333,31-08-1993,Alm. Salg,2.246,3,Sommerhus,50,1927,,Aktuel værdi
+Dunhammeren 925390 Martofte,ofte,847.680,16-08-1993,Alm. Salg,9.632,4,Sommerhus,88,1994,,Aktuel værdi
+Langøvej 599A5390 Martofte,ofte,625.000,27-07-1993,Alm. Salg,-,4,Sommerhus,88,1994,,Aktuel værdi
+Fynshovedvej 8145390 Martofte,ofte,815.000,07-07-1993,Alm. Salg,5.224,5,Sommerhus,156,1995,,Aktuel værdi
+Hjertegræsset 685390 Martofte,ofte,343.000,02-07-1993,Alm. Salg,-,4,Sommerhus,94,1971,,Aktuel værdi
+Fynshovedvej 7795390 Martofte,ofte,240.000,22-06-1993,Fam. Salg,4.897,3,Sommerhus,49,1936,,Aktuel værdi
+Hjertegræsset 535390 Martofte,ofte,100.000,26-04-1993,Alm. Salg,-,4,Sommerhus,89,1966,,Aktuel værdi
+Langøvej 3575390 Martofte,ofte,2.200.000,02-04-1993,Alm. Salg,8.000,8,Stuehus,275,1880,,
+Fynshovedvej 7485390 Martofte,ofte,3.000.000,01-04-1993,Alm. Salg,27.272,11,Detailhandel,110,1965,,Aktuel værdi
+Dunhammeren 1085390 Martofte,ofte,340.000,12-03-1993,Alm. Salg,6.181,4,Sommerhus,55,1979,,Aktuel værdi
+Dunhammeren 685390 Martofte,ofte,680.000,16-02-1993,Fam. Salg,4.415,5,Sommerhus,154,1950,,Aktuel værdi
+Rødkløveren 355390 Martofte,ofte,153.000,05-02-1993,Fam. Salg,-,3,Sommerhus,62,1942,,Aktuel værdi
+Horseklint 1765390 Martofte,ofte,365.500,21-01-1993,Fam. Salg,4.809,4,Sommerhus,76,1984,,Aktuel værdi
+Langøvej 5995390 Martofte,ofte,575.000,01-12-1992,Alm. Salg,3.382,6,Sommerhus,170,1934,,Aktuel værdi
+Sandvejen 105390 Martofte,ofte,475.000,08-10-1992,Alm. Salg,-,6,Sommerhus,99,1962,,Aktuel værdi
+Langøvej 5975390 Martofte,ofte,600.000,18-08-1992,Alm. Salg,-,8,Sommerhus,134,1936,,Aktuel værdi
+Hundegræsset 225390 Martofte,ofte,220.000,15-08-1992,Fam. Salg,1.929,5,Sommerhus,114,2007,,Aktuel værdi
+Bøgebjergvej 4915390 Martofte,ofte,300.000,15-07-1992,Alm. Salg,-,4,Villa,110,1850,,Aktuel værdi
+Hundegræsset 195390 Martofte,ofte,305.000,26-06-1992,Alm. Salg,5.083,3,Sommerhus,60,1971,,Aktuel værdi
+Munkekrogen 55390 Martofte,ofte,105.000,15-06-1992,Alm. Salg,1.329,4,Sommerhus,79,1994,,Aktuel værdi
+Bogensøvej 2545390 Martofte,ofte,2.350.000,13-06-1992,Alm. Salg,13.988,8,Stuehus,168,1899,,
+Alpehau 95390 Martofte,ofte,150.000,06-05-1992,Alm. Salg,4.411,1,Sommerhus,34,1968,,Aktuel værdi
+Hjertegræsset 225390 Martofte,ofte,334.700,23-04-1992,Alm. Salg,-,4,Sommerhus,92,1968,,Aktuel værdi
+Guldstjernen 125390 Martofte,ofte,100.000,06-04-1992,Alm. Salg,1.449,4,Sommerhus,69,1992,,Aktuel værdi
+Hulvej 935390 Martofte,ofte,450.000,26-03-1992,Alm. Salg,7.758,3,Sommerhus,58,1960,,Aktuel værdi
+Langøvej 3975390 Martofte,ofte,425.822,25-03-1992,Fam. Salg,3.108,5,Villa,137,1901,,Aktuel værdi
+Hjertegræsset 105390 Martofte,ofte,300.000,13-03-1992,Alm. Salg,5.357,4,Sommerhus,56,1970,,Aktuel værdi
+Alpehau 215390 Martofte,ofte,485.000,11-03-1992,Alm. Salg,6.643,3,Sommerhus,73,1968,,Aktuel værdi
+Rævehalen 85390 Martofte,ofte,470.000,14-02-1992,Fam. Salg,-,5,Sommerhus,104,1972,,Aktuel værdi

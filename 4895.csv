@@ -1,0 +1,242 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Havnevej 44895 Errindlev,dlev,200.000,19-04-2017,Alm. Salg,1.052,7,Villa,190,1931,-78 %,Aktuel værdi
+Skovbyskovvej 14895 Errindlev,dlev,375.000,29-01-2017,Alm. Salg,3.289,3,Sommerhus,114,1903,-24 %,Aktuel værdi
+Errindlevvej 194895 Errindlev,dlev,200.000,20-12-2016,Alm. Salg,1.941,5,Villa,103,1930,-42 %,Aktuel værdi
+Lundehøjevej 54895 Errindlev,dlev,250.000,20-10-2016,Alm. Salg,1.785,3,Villa,140,1934,,Aktuel værdi
+Skovbyskovvej 54895 Errindlev,dlev,94.000,19-10-2016,Alm. Salg,949,4,Villa,99,1910,,Aktuel værdi
+Havnevej 124895 Errindlev,dlev,180.000,05-10-2016,Alm. Salg,1.440,4,Villa,125,1965,-8 %,Aktuel værdi
+Errindlevvej 144895 Errindlev,dlev,50.000,26-09-2016,Alm. Salg,793,3,Villa,63,1827,,Aktuel værdi
+Sjælstoftevej 14895 Errindlev,dlev,130.000,22-09-2016,Alm. Salg,1.830,4,Villa,71,1900,-10 %,Aktuel værdi
+Olstrupvej 74895 Errindlev,dlev,375.000,06-09-2016,Alm. Salg,5.597,4,Villa,67,1880,,Aktuel værdi
+Havnevej 284895 Errindlev,dlev,995.000,22-08-2016,Alm. Salg,3.407,7,Villa,292,1800,-9 %,Aktuel værdi
+Havnevej 444895 Errindlev,dlev,43.000,17-08-2016,Auktion,537,2,Rækkehus,80,1938,,Aktuel værdi
+Egelundvej 84895 Errindlev,dlev,415.000,15-08-2016,Alm. Salg,2.292,7,Villa,181,1929,-8 %,Aktuel værdi
+Havnevej 224895 Errindlev,dlev,165.000,25-07-2016,Alm. Salg,1.793,3,Villa,92,1943,-17 %,Aktuel værdi
+Sognevejen 14895 Errindlev,dlev,660.000,20-07-2016,Alm. Salg,4.888,6,Villa,135,1926,-2 %,Aktuel værdi
+Rødbyvej 14895 Errindlev,dlev,190.000,16-06-2016,Alm. Salg,553,18,Villa,343,1927,,Aktuel værdi
+Digevej 84895 Errindlev,dlev,130.000,18-05-2016,Alm. Salg,1.300,4,Villa,100,1850,-33 %,Aktuel værdi
+Errindlevvej 314895 Errindlev,dlev,25.000,21-04-2016,Alm. Salg,168,3,Villa,148,1927,,Aktuel værdi
+Mejerivej 14895 Errindlev,dlev,275.000,17-02-2016,Auktion,1.883,5,Villa,146,1908,17 %,Aktuel værdi
+Kærstrupvej 104895 Errindlev,dlev,25.000,04-02-2016,Alm. Salg,384,2,Villa,65,1870,,Aktuel værdi
+Stadionvej 74895 Errindlev,dlev,225.000,04-12-2015,Alm. Salg,1.906,4,Villa,118,1976,,Aktuel værdi
+Fælledvej 134895 Errindlev,dlev,470.000,30-10-2015,Alm. Salg,3.263,4,Stuehus,144,1982,-21 %,
+Krambesvej 14895 Errindlev,dlev,150.000,25-09-2015,Alm. Salg,2.142,3,Villa,70,1897,0 %,Aktuel værdi
+Rødbyvej 214895 Errindlev,dlev,95.000,27-08-2015,Alm. Salg,612,5,Villa,155,1910,-37 %,Aktuel værdi
+Hyldagervej 74895 Errindlev,dlev,385.000,07-07-2015,Alm. Salg,2.566,3,Sommerhus,150,1840,,Aktuel værdi
+Skolevænget 234895 Errindlev,dlev,250.000,25-06-2015,Alm. Salg,1.984,4,Villa,126,1977,-9 %,Aktuel værdi
+Havnevej 134895 Errindlev,dlev,6.019.000,11-06-2015,Fam. Salg,44.257,4,Villa,136,1912,,Aktuel værdi
+Skovbyskovvej 74895 Errindlev,dlev,110.000,21-04-2015,Alm. Salg,1.746,2,Sommerhus,63,1927,10 %,Aktuel værdi
+Assenbøllevej 64895 Errindlev,dlev,275.000,06-03-2015,Alm. Salg,3.437,3,Villa,80,1827,10 %,Aktuel værdi
+Assenbøllevej 44895 Errindlev,dlev,225.000,05-03-2015,Alm. Salg,665,6,Villa,338,1800,-36 %,Aktuel værdi
+Assenbøllevej 34895 Errindlev,dlev,80.000,09-02-2015,Fam. Salg,761,4,Villa,105,1914,,Aktuel værdi
+Fælledvej 44895 Errindlev,dlev,65.000,12-01-2015,Alm. Salg,570,3,Villa,114,1911,,Aktuel værdi
+Skolevænget 104895 Errindlev,dlev,360.000,03-11-2014,Andet,2.465,4,Villa,146,1979,,Aktuel værdi
+Havnevej 264895 Errindlev,dlev,5.745.000,28-10-2014,Alm. Salg,25.647,7,Stuehus,224,1931,,
+Studehavevej 34895 Errindlev,dlev,400.000,03-10-2014,Alm. Salg,2.150,3,Villa,186,1907,-20 %,Aktuel værdi
+Niels Hemmingsensvej 84895 Errindlev,dlev,220.000,14-08-2014,Alm. Salg,2.365,3,Villa,93,1973,-20 %,Aktuel værdi
+Sjælstoftevej 234895 Errindlev,dlev,200.000,11-04-2014,Alm. Salg,1.652,4,Villa,121,1820,-33 %,Aktuel værdi
+Skolevænget 94895 Errindlev,dlev,244.000,26-03-2014,Auktion,2.103,3,Villa,116,1977,,Aktuel værdi
+Studehavevej 64895 Errindlev,dlev,11.000.000,10-12-2013,Andet,72.847,5,Fritid,151,1915,,Aktuel værdi
+Havnevej 424895 Errindlev,dlev,399.000,21-10-2013,Alm. Salg,4.200,3,Rækkehus,95,1938,0 %,Aktuel værdi
+Rødbyvej 314895 Errindlev,dlev,150.000,26-06-2013,Alm. Salg,1.094,4,Villa,137,1880,-23 %,Aktuel værdi
+Errindlevvej 494895 Errindlev,dlev,200.000,11-06-2013,Alm. Salg,1.904,4,Villa,105,1937,3 %,Aktuel værdi
+Torpevej 24895 Errindlev,dlev,125.000,31-05-2013,Alm. Salg,1.190,3,Villa,105,1956,0 %,Aktuel værdi
+C. D. Schrødersvej 24895 Errindlev,dlev,250.000,10-05-2013,Alm. Salg,1.736,4,Villa,144,1972,0 %,Aktuel værdi
+Torpevej 34895 Errindlev,dlev,5.001,19-09-2012,Auktion,38,5,Villa,130,1885,,Aktuel værdi
+Stadionvej 94895 Errindlev,dlev,360.000,07-09-2012,Alm. Salg,2.790,3,Villa,129,1976,-9 %,Aktuel værdi
+Rødbyvej 294895 Errindlev,dlev,150.000,09-07-2012,Alm. Salg,1.153,4,Villa,130,1890,-33 %,Aktuel værdi
+Fælledvej 84895 Errindlev,dlev,25.000,23-05-2012,Alm. Salg,156,5,Villa,160,1910,,Aktuel værdi
+Havnevej 24895 Errindlev,dlev,300.000,08-05-2012,Alm. Salg,1.470,5,Villa,204,1930,,Aktuel værdi
+Sognevejen 184895 Errindlev,dlev,437.500,07-04-2012,Fam. Salg,2.604,4,Villa,168,1951,,Aktuel værdi
+Torsøvej 34895 Errindlev,dlev,150.000,02-11-2011,Auktion,1.363,5,Villa,110,1905,,Aktuel værdi
+Havnevej 464895 Errindlev,dlev,400.000,31-10-2011,Alm. Salg,2.836,4,Villa,141,1912,-16 %,Aktuel værdi
+Errindlevvej 284895 Errindlev,dlev,135.000,19-09-2011,Alm. Salg,1.406,4,Villa,96,1958,-7 %,Aktuel værdi
+Havnevej 204895 Errindlev,dlev,151.250,01-09-2011,Alm. Salg,1.120,4,Villa,135,1936,-45 %,Aktuel værdi
+Stadionvej 114895 Errindlev,dlev,1.572.500,28-06-2011,Fam. Salg,10.920,4,Villa,144,2010,,Aktuel værdi
+Fælledvej 144895 Errindlev,dlev,370.000,20-06-2011,Alm. Salg,2.846,3,Villa,130,1927,,Aktuel værdi
+Studehavevej 24895 Errindlev,dlev,2.582.200,15-04-2011,Fam. Salg,13.107,7,Stuehus,197,1870,,
+Havnevej 164895 Errindlev,dlev,212.500,03-04-2011,Andet,1.609,3,Villa,132,1936,,Aktuel værdi
+Digevej 54895 Errindlev,dlev,150.000,25-01-2011,Alm. Salg,2.142,2,Villa,70,1944,,Aktuel værdi
+Krambesvej 124895 Errindlev,dlev,660.000,03-01-2011,Alm. Salg,5.454,4,Sommerhus,121,1930,-17 %,Aktuel værdi
+Errindlevvej 294895 Errindlev,dlev,525.000,01-12-2010,Alm. Salg,7.000,3,Villa,75,1944,,Aktuel værdi
+Kærvej 64895 Errindlev,dlev,385.000,01-12-2010,Alm. Salg,2.483,5,Villa,155,1900,-3 %,Aktuel værdi
+Niels Hemmingsensvej 14895 Errindlev,dlev,760.000,11-10-2010,Alm. Salg,5.588,4,Villa,136,1972,-10 %,Aktuel værdi
+Olstrupvej 1A4895 Errindlev,dlev,304.999,08-10-2010,Alm. Salg,3.505,4,Villa,87,1870,,Aktuel værdi
+Krusegaardvej 34895 Errindlev,dlev,820.684,09-04-2010,Alm. Salg,4.460,4,Villa,184,1911,,Aktuel værdi
+Sognevejen 114895 Errindlev,dlev,675.000,26-02-2010,Alm. Salg,3.835,7,Villa,176,1926,-3 %,Aktuel værdi
+Rødbyvej 114895 Errindlev,dlev,350.000,10-02-2010,Auktion,1.813,11,Villa,193,1904,,Aktuel værdi
+Fælledvej 94895 Errindlev,dlev,2.428.130,23-12-2009,Fam. Salg,14.715,3,Stuehus,165,1909,,
+Errindlevvej 84895 Errindlev,dlev,100.000,25-11-2009,Alm. Salg,1.250,3,Rækkehus,80,1800,,Aktuel værdi
+Errindlevvej 1B4895 Errindlev,dlev,500.000,03-11-2009,Alm. Salg,5.000,4,Villa,100,1970,-8 %,Aktuel værdi
+C. D. Schrødersvej 14895 Errindlev,dlev,550.000,23-10-2009,Alm. Salg,3.819,4,Villa,144,1970,-8 %,Aktuel værdi
+Sognevejen 94895 Errindlev,dlev,440.000,25-09-2009,Alm. Salg,4.313,4,Villa,102,1926,-12 %,Aktuel værdi
+Havnevej 104895 Errindlev,dlev,150.000,16-09-2009,Auktion,867,6,Villa,173,1910,,Aktuel værdi
+Lundehøjevej 64895 Errindlev,dlev,460.000,30-06-2009,Alm. Salg,4.107,3,Villa,112,1932,-6 %,Aktuel værdi
+Errindlevvej 1A4895 Errindlev,dlev,675.000,29-06-2009,Alm. Salg,5.625,7,Villa,120,1973,-15 %,Aktuel værdi
+Egelundvej 144895 Errindlev,dlev,650.000,19-06-2009,Alm. Salg,4.676,5,Villa,139,1929,-7 %,Aktuel værdi
+Errindlevvej 544895 Errindlev,dlev,395.000,05-05-2009,Alm. Salg,3.347,5,Villa,118,1951,-12 %,Aktuel værdi
+Errindlevvej 334895 Errindlev,dlev,400.000,06-04-2009,Alm. Salg,5.555,3,Villa,72,1936,-6 %,Aktuel værdi
+Torsøvej 14895 Errindlev,dlev,199.007,09-03-2009,Alm. Salg,1.809,5,Villa,110,1955,,Aktuel værdi
+Kærvej 114895 Errindlev,dlev,5.392.301,05-01-2009,Alm. Salg,35.014,5,Stuehus,154,1910,,
+Havnevej 304895 Errindlev,dlev,1.000.000,03-01-2009,Alm. Salg,6.944,5,Villa,144,1903,-15 %,Aktuel værdi
+Assenbøllevej 24895 Errindlev,dlev,874.700,18-12-2008,Alm. Salg,3.239,6,Villa,270,1884,,Aktuel værdi
+C. D. Schrødersvej 34895 Errindlev,dlev,485.000,12-11-2008,Alm. Salg,4.145,4,Villa,117,1971,-12 %,Aktuel værdi
+Sjælstoftevej 34895 Errindlev,dlev,527.250,10-10-2008,Alm. Salg,4.119,4,Villa,128,1900,6 %,Aktuel værdi
+Errindlevvej 234895 Errindlev,dlev,330.000,16-08-2008,Alm. Salg,3.837,4,Villa,86,1937,-16 %,Aktuel værdi
+Torsøvej 114895 Errindlev,dlev,770.000,21-05-2008,Alm. Salg,5.877,3,Villa,131,1968,-3 %,Aktuel værdi
+Havnevej 344895 Errindlev,dlev,825.000,18-03-2008,Alm. Salg,5.935,4,Villa,139,1917,-3 %,Aktuel værdi
+Errindlevvej 24B4895 Errindlev,dlev,249.000,30-01-2008,Alm. Salg,2.371,3,Rækkehus,105,1903,,Aktuel værdi
+Niels Hemmingsensvej 34895 Errindlev,dlev,375.000,13-11-2007,Andet,3.504,4,Villa,107,1968,,Aktuel værdi
+Krambesvej 84895 Errindlev,dlev,492.500,06-11-2007,Fam. Salg,4.173,5,Sommerhus,118,1900,,Aktuel værdi
+Egelundvej 34895 Errindlev,dlev,835.000,05-11-2007,Alm. Salg,5.880,6,Villa,142,1920,-3 %,Aktuel værdi
+Havnevej 254895 Errindlev,dlev,340.000,02-11-2007,Fam. Salg,3.090,5,Villa,110,1905,,Aktuel værdi
+Fælledvej 244895 Errindlev,dlev,1.195.000,13-10-2007,Alm. Salg,6.322,6,Villa,189,1914,-4 %,Aktuel værdi
+Kærstrupvej 24895 Errindlev,dlev,460.000,20-09-2007,Alm. Salg,5.411,3,Villa,85,1969,-7 %,Aktuel værdi
+Errindlevvej 364895 Errindlev,dlev,858.099,12-09-2007,Alm. Salg,5.536,5,Villa,155,1973,,Aktuel værdi
+Præstevænget 64895 Errindlev,dlev,895.000,06-08-2007,Alm. Salg,6.729,5,Villa,133,1983,,Aktuel værdi
+Egelundvej 104895 Errindlev,dlev,550.000,04-08-2007,Alm. Salg,4.296,5,Villa,128,1952,-13 %,Aktuel værdi
+Havnevej 314895 Errindlev,dlev,340.000,08-06-2007,Fam. Salg,3.400,3,Villa,100,1965,,Aktuel værdi
+Krambesvej 24895 Errindlev,dlev,420.000,12-05-2007,Alm. Salg,5.526,2,Villa,76,1947,,Aktuel værdi
+Lundehøjevej 104895 Errindlev,dlev,150.000,15-04-2007,Alm. Salg,1.470,3,Villa,102,1887,,Aktuel værdi
+Skovbyskovvej 34895 Errindlev,dlev,675.000,12-03-2007,Alm. Salg,3.609,5,Villa,187,1900,,Aktuel værdi
+Kærvej 44895 Errindlev,dlev,305.021,27-02-2007,Alm. Salg,3.719,5,Villa,82,1932,,Aktuel værdi
+Niels Hemmingsensvej 134895 Errindlev,dlev,1.125.000,23-02-2007,Alm. Salg,6.355,8,Villa,177,1971,,Aktuel værdi
+Errindlevvej 24A4895 Errindlev,dlev,379.382,04-11-2006,Alm. Salg,3.215,5,Rækkehus,118,1928,,Aktuel værdi
+Kærstrupvej 124895 Errindlev,dlev,414.000,16-10-2006,Alm. Salg,5.376,4,Villa,77,1905,,Aktuel værdi
+Errindlevvej 204895 Errindlev,dlev,235.000,22-09-2006,Alm. Salg,3.133,3,Villa,75,1870,,Aktuel værdi
+Errindlevvej 54895 Errindlev,dlev,720.000,07-09-2006,Alm. Salg,8.000,3,Villa,90,1968,,Aktuel værdi
+Studehavevej 134895 Errindlev,dlev,1.350.000,05-09-2006,Alm. Salg,12.500,4,Sommerhus,108,1877,,Aktuel værdi
+Sjælstoftevej 154895 Errindlev,dlev,725.000,04-09-2006,Alm. Salg,6.359,6,Sommerhus,114,1902,,Aktuel værdi
+Lundehøjevej 74895 Errindlev,dlev,300.000,03-09-2006,Alm. Salg,3.448,4,Villa,87,1850,,Aktuel værdi
+Olstrupvej 44895 Errindlev,dlev,14.010.000,31-08-2006,Alm. Salg,73.736,5,Stuehus,190,1977,,
+Digevej 124895 Errindlev,dlev,1.350.000,17-08-2006,Alm. Salg,4.205,7,Sommerhus,321,1860,,Aktuel værdi
+Sognevejen 124895 Errindlev,dlev,1.435.000,12-07-2006,Alm. Salg,7.103,5,Villa,202,1927,,Aktuel værdi
+Kærvej 174895 Errindlev,dlev,593.843,01-05-2006,Fam. Salg,2.868,5,Villa,207,1907,,Aktuel værdi
+Sjælstoftevej 224895 Errindlev,dlev,300.000,09-03-2006,Alm. Salg,3.333,4,Villa,90,1870,,Aktuel værdi
+Havnevej 354895 Errindlev,dlev,715.000,27-02-2006,Alm. Salg,6.271,4,Sommerhus,114,1926,,Aktuel værdi
+Lundehøjevej 24895 Errindlev,dlev,400.000,18-11-2005,Alm. Salg,3.100,5,Villa,129,1850,,Aktuel værdi
+Kærstrupvej 64895 Errindlev,dlev,130.000,17-11-2005,Fam. Salg,1.150,5,Sommerhus,113,1877,,Aktuel værdi
+Havnevej 14895 Errindlev,dlev,330.000,02-11-2005,Alm. Salg,4.024,3,Villa,82,1949,,Aktuel værdi
+Torsøvej 134895 Errindlev,dlev,3.571.000,17-10-2005,Alm. Salg,20.405,6,Stuehus,175,1870,,
+Errindlevvej 184895 Errindlev,dlev,850.000,08-09-2005,Alm. Salg,2.881,6,Villa,295,1935,,Aktuel værdi
+Torsøvej 74895 Errindlev,dlev,325.000,20-08-2005,Alm. Salg,2.901,3,Villa,112,1877,,Aktuel værdi
+Sognevejen 34895 Errindlev,dlev,975.000,01-08-2005,Alm. Salg,6.290,4,Villa,155,1926,,Aktuel værdi
+Havnevej 364895 Errindlev,dlev,399.000,12-07-2005,Alm. Salg,3.352,3,Villa,119,1907,,Aktuel værdi
+Sjælstoftevej 124895 Errindlev,dlev,374.253,18-05-2005,Alm. Salg,4.024,4,Villa,93,1937,,Aktuel værdi
+Fælledvej 34895 Errindlev,dlev,200.000,13-05-2005,Alm. Salg,1.538,3,Villa,130,1890,,Aktuel værdi
+Fælledvej 64895 Errindlev,dlev,625.000,29-04-2005,Alm. Salg,7.812,3,Villa,80,1906,,Aktuel værdi
+Hyldagervej 34895 Errindlev,dlev,1.115.920,14-04-2005,Fam. Salg,8.390,7,Stuehus,133,1885,,
+Skolevænget 34895 Errindlev,dlev,680.000,05-04-2005,Alm. Salg,5.862,4,Villa,116,1977,,Aktuel værdi
+Kærstrupvej 44895 Errindlev,dlev,331.500,30-03-2005,Alm. Salg,2.302,4,Villa,144,1887,,Aktuel værdi
+Egelundvej 264895 Errindlev,dlev,340.000,07-03-2005,Fam. Salg,1.566,6,Villa,217,1930,,Aktuel værdi
+Sjælstoftevej 214895 Errindlev,dlev,5.047.140,20-01-2005,Fam. Salg,32.773,4,Stuehus,154,1881,,
+Errindlevvej 64895 Errindlev,dlev,221.000,03-01-2005,Alm. Salg,3.250,2,Villa,68,1880,,Aktuel værdi
+Havnevej 94895 Errindlev,dlev,357.000,21-12-2004,Fam. Salg,3.570,3,Villa,100,1939,,Aktuel værdi
+Studehavevej 94895 Errindlev,dlev,4.331.000,06-12-2004,Fam. Salg,15.358,11,Stuehus,282,1914,,
+Errindlevvej 464895 Errindlev,dlev,2.100.000,12-11-2004,Alm. Salg,15.000,5,Stuehus,140,1876,,
+Errindlevvej 304895 Errindlev,dlev,300.000,01-11-2004,Alm. Salg,1.229,5,Villa,244,1854,,Aktuel værdi
+Rødbyvej 274895 Errindlev,dlev,525.000,11-10-2004,Alm. Salg,3.365,5,Villa,156,1805,,Aktuel værdi
+Havnevej 33A4895 Errindlev,dlev,945.000,11-10-2004,Alm. Salg,5.462,4,Villa,173,1973,,Aktuel værdi
+Digevej 64895 Errindlev,dlev,230.000,11-10-2004,Alm. Salg,2.072,4,Villa,111,1920,,Aktuel værdi
+Errindlevvej 444895 Errindlev,dlev,505.000,13-08-2004,Alm. Salg,5.315,5,Villa,95,1939,,Aktuel værdi
+Havnevej 374895 Errindlev,dlev,550.000,23-07-2004,Alm. Salg,5.729,3,Sommerhus,96,1902,,Aktuel værdi
+Errindlevvej 24895 Errindlev,dlev,375.000,30-06-2004,Alm. Salg,2.483,10,Villa,151,1924,,Aktuel værdi
+Hyldagervej 14895 Errindlev,dlev,144.500,23-06-2004,Alm. Salg,1.235,3,Villa,117,1923,,Aktuel værdi
+Havnevej 274895 Errindlev,dlev,300.000,14-06-2004,Alm. Salg,3.061,4,Villa,98,1904,,Aktuel værdi
+Olstrupvej 174895 Errindlev,dlev,730.000,14-06-2004,Alm. Salg,7.373,4,Villa,99,1911,,Aktuel værdi
+Sjælstoftevej 134895 Errindlev,dlev,940.000,26-04-2004,Alm. Salg,4.177,6,Villa,225,1827,,Aktuel værdi
+Errindlevvej 214895 Errindlev,dlev,380.000,23-04-2004,Alm. Salg,4.691,3,Villa,81,1934,,Aktuel værdi
+Fælledvej 224895 Errindlev,dlev,1.295.000,28-03-2004,Alm. Salg,7.442,6,Villa,174,1949,,Aktuel værdi
+Digevej 34895 Errindlev,dlev,665.000,18-03-2004,Alm. Salg,4.156,6,Villa,160,1900,,Aktuel værdi
+Errindlevvej 44895 Errindlev,dlev,160.000,15-03-2004,Alm. Salg,3.902,2,Rækkehus,41,1852,,Aktuel værdi
+Havnevej 114895 Errindlev,dlev,4.500.000,15-03-2004,Fam. Salg,16.071,11,Stuehus,280,1911,,
+Kærvej 54895 Errindlev,dlev,1.183.000,03-03-2004,Alm. Salg,8.102,3,Villa,146,1977,,Aktuel værdi
+Skolevænget 14895 Errindlev,dlev,810.000,27-10-2003,Alm. Salg,7.168,3,Villa,113,1974,,Aktuel værdi
+Rødbyvej 54895 Errindlev,dlev,310.000,22-10-2003,Alm. Salg,2.296,4,Villa,135,1867,,Aktuel værdi
+Kærvej 74895 Errindlev,dlev,420.000,14-10-2003,Alm. Salg,3.000,4,Villa,140,1870,,Aktuel værdi
+Havnevej 64895 Errindlev,dlev,175.000,16-09-2003,Alm. Salg,2.464,3,Sommerhus,71,1870,,Aktuel værdi
+Sjælstoftevej 114895 Errindlev,dlev,225.000,09-09-2003,Alm. Salg,2.528,4,Sommerhus,89,1697,,Aktuel værdi
+Studehavevej 54895 Errindlev,dlev,1.227.891,22-07-2003,Alm. Salg,5.433,7,Villa,226,1933,,Aktuel værdi
+Niels Hemmingsensvej 54895 Errindlev,dlev,525.000,09-07-2003,Alm. Salg,5.250,3,Villa,100,1969,,Aktuel værdi
+Sognevejen 134895 Errindlev,dlev,850.000,13-06-2003,Alm. Salg,9.340,3,Villa,91,1922,,Aktuel værdi
+Errindlevvej 474895 Errindlev,dlev,224.000,13-01-2003,Alm. Salg,2.434,4,Villa,92,1897,,Aktuel værdi
+C. D. Schrødersvej 74895 Errindlev,dlev,586.483,13-01-2003,Alm. Salg,4.729,6,Villa,124,1972,,Aktuel værdi
+Skovbyskovvej 94895 Errindlev,dlev,90.152,13-01-2003,Alm. Salg,1.024,4,Villa,88,1947,,Aktuel værdi
+Havnevej 34895 Errindlev,dlev,460.950,03-11-2002,Alm. Salg,3.873,4,Villa,119,1897,,Aktuel værdi
+Kærvej 34895 Errindlev,dlev,70.000,25-09-2002,Alm. Salg,2.592,1,Fritid,27,1958,,Aktuel værdi
+Errindlevvej 74895 Errindlev,dlev,588.443,23-09-2002,Alm. Salg,2.101,6,Villa,280,1900,,Aktuel værdi
+Havnevej 234895 Errindlev,dlev,860.000,23-09-2002,Alm. Salg,7.962,4,Villa,108,1890,,Aktuel værdi
+Egelundvej 54895 Errindlev,dlev,108.658,28-08-2002,Alm. Salg,505,9,Stuehus,215,1938,,
+Egelundvej 114895 Errindlev,dlev,557.000,28-08-2002,Alm. Salg,2.665,11,Villa,209,1900,,Aktuel værdi
+Torsøvej 44895 Errindlev,dlev,333.649,12-08-2002,Alm. Salg,2.435,5,Villa,137,1850,,Aktuel værdi
+Errindlevvej 254895 Errindlev,dlev,564.744,30-03-2002,Alm. Salg,4.785,4,Villa,118,1937,,Aktuel værdi
+Errindlevvej 154895 Errindlev,dlev,50.000,26-03-2002,Auktion,322,3,Villa,155,1912,,Aktuel værdi
+Egelundvej 14895 Errindlev,dlev,980.000,24-01-2002,Alm. Salg,5.764,7,Detailhandel,170,1890,,Aktuel værdi
+Skolevænget 274895 Errindlev,dlev,640.000,14-11-2001,Alm. Salg,4.705,5,Villa,136,1976,,Aktuel værdi
+Egelundvej 224895 Errindlev,dlev,180.000,07-09-2001,Alm. Salg,1.313,4,Villa,137,1912,,Aktuel værdi
+Havnevej 174895 Errindlev,dlev,195.000,11-06-2001,Alm. Salg,1.989,3,Sommerhus,98,1900,,Aktuel værdi
+Skolevænget 124895 Errindlev,dlev,631.000,14-05-2001,Alm. Salg,4.744,4,Villa,133,1978,,Aktuel værdi
+Errindlevvej 394895 Errindlev,dlev,594.515,08-05-2001,Alm. Salg,4.573,4,Villa,130,1961,,Aktuel værdi
+Fælledvej 24895 Errindlev,dlev,115.000,12-02-2001,Alm. Salg,1.263,3,Villa,91,1911,,Aktuel værdi
+Havnevej 404895 Errindlev,dlev,500.000,17-11-2000,Alm. Salg,4.166,6,Villa,120,1913,,Aktuel værdi
+Niels Hemmingsensvej 64895 Errindlev,dlev,625.000,30-10-2000,Alm. Salg,4.166,4,Villa,150,1973,,Aktuel værdi
+Rødbyvej 154895 Errindlev,dlev,372.000,14-10-2000,Alm. Salg,3.100,4,Villa,120,1938,,Aktuel værdi
+Kærvej 24895 Errindlev,dlev,694.218,10-10-2000,Alm. Salg,6.942,4,Villa,100,1877,,Aktuel værdi
+Havnevej 54895 Errindlev,dlev,165.000,26-09-2000,Alm. Salg,2.750,3,Villa,60,1898,,Aktuel værdi
+Rødbyvej 144895 Errindlev,dlev,295.000,01-09-2000,Alm. Salg,-,3,Villa,112,1892,,Aktuel værdi
+Havnevej 384895 Errindlev,dlev,185.000,22-08-2000,Alm. Salg,1.745,4,Villa,106,1944,,Aktuel værdi
+Errindlevvej 514895 Errindlev,dlev,50.000,31-07-2000,Alm. Salg,625,2,Sommerhus,80,1918,,Aktuel værdi
+Rødbyvej 94895 Errindlev,dlev,130.000,30-07-2000,Alm. Salg,1.340,6,Villa,97,1917,,Aktuel værdi
+Fælledvej 184895 Errindlev,dlev,614.500,09-07-2000,Alm. Salg,4.389,3,Villa,140,1887,,Aktuel værdi
+Havnevej 33B4895 Errindlev,dlev,125.000,04-05-2000,Fam. Salg,1.524,2,Villa,82,1870,,Aktuel værdi
+Niels Hemmingsensvej 124895 Errindlev,dlev,565.902,19-02-2000,Alm. Salg,4.386,3,Villa,129,1972,,Aktuel værdi
+Errindlevvej 17B4895 Errindlev,dlev,220.000,08-12-1999,Alm. Salg,2.619,5,Villa,84,1933,,Aktuel værdi
+Krambesvej 44895 Errindlev,dlev,210.000,02-09-1999,Alm. Salg,2.019,4,Sommerhus,104,1900,,Aktuel værdi
+Sognevejen 104895 Errindlev,dlev,801.823,09-08-1999,Alm. Salg,3.259,7,Villa,246,1926,,Aktuel værdi
+Digevej 74895 Errindlev,dlev,75.000,12-07-1999,Alm. Salg,543,4,Sommerhus,138,1881,,Aktuel værdi
+Errindlevvej 134895 Errindlev,dlev,40.000,18-02-1999,Alm. Salg,363,6,Villa,110,1920,,Aktuel værdi
+Sognevejen 84895 Errindlev,dlev,317.500,12-02-1999,Alm. Salg,2.668,5,Villa,119,1926,,Aktuel værdi
+Krambesvej 64895 Errindlev,dlev,286.763,24-09-1998,Alm. Salg,1.838,6,Villa,156,1900,,Aktuel værdi
+Rødbyvej 134895 Errindlev,dlev,2.401.128,17-09-1998,Fam. Salg,13.193,6,Stuehus,182,1842,,
+Sjælstoftevej 254895 Errindlev,dlev,1.200.000,07-08-1998,Fam. Salg,8.000,6,Stuehus,150,1840,,
+Egelundvej 184895 Errindlev,dlev,395.000,06-07-1998,Alm. Salg,2.687,3,Villa,147,1948,,Aktuel værdi
+Kærvej 194895 Errindlev,dlev,205.000,15-06-1998,Alm. Salg,1.375,7,Villa,149,1904,,Aktuel værdi
+Hyldagervej 44895 Errindlev,dlev,1.317.500,20-05-1998,Fam. Salg,13.044,5,Stuehus,101,1900,,
+Præstevænget 24895 Errindlev,dlev,23.580,30-03-1998,Alm. Salg,160,5,Villa,147,1998,,Aktuel værdi
+Sognevejen 54895 Errindlev,dlev,150.000,06-03-1998,Alm. Salg,2.083,2,Villa,72,1926,,Aktuel værdi
+Fælledvej 104895 Errindlev,dlev,698.100,23-02-1998,Alm. Salg,4.130,4,Villa,169,1908,,Aktuel værdi
+Havnevej 394895 Errindlev,dlev,100.000,25-01-1998,Alm. Salg,1.219,3,Sommerhus,82,1900,,Aktuel værdi
+Fælledvej 12B4895 Errindlev,dlev,403.000,26-06-1997,Alm. Salg,3.100,4,Villa,130,1890,,Aktuel værdi
+Rødbyvej 124895 Errindlev,dlev,1.675.000,10-06-1997,Alm. Salg,4.855,7,Stuehus,345,1923,,
+Rødbyvej 254895 Errindlev,dlev,350.000,01-05-1997,Alm. Salg,1.422,6,Villa,246,1875,,Aktuel værdi
+Assenbøllevej 74895 Errindlev,dlev,410.000,22-04-1997,Alm. Salg,2.808,5,Villa,146,1920,,Aktuel værdi
+Digevej 44895 Errindlev,dlev,331.500,27-01-1997,Alm. Salg,3.683,4,Villa,90,1906,,Aktuel værdi
+Sjælstoftevej 184895 Errindlev,dlev,120.000,04-01-1997,Alm. Salg,1.250,3,Villa,96,1900,,Aktuel værdi
+Torsøvej 54895 Errindlev,dlev,430.000,14-10-1996,Fam. Salg,1.194,9,Villa,360,1899,,Aktuel værdi
+Egelundvej 94895 Errindlev,dlev,585.000,04-10-1996,Alm. Salg,3.046,8,Villa,192,1883,,Aktuel værdi
+Errindlevvej 17A4895 Errindlev,dlev,350.000,22-11-1995,Alm. Salg,2.822,4,Villa,124,1973,,Aktuel værdi
+Sjælstoftevej 84895 Errindlev,dlev,369.961,20-11-1995,Auktion,2.433,6,Villa,152,1911,,Aktuel værdi
+Lundehøjevej 14895 Errindlev,dlev,175.000,11-10-1995,Alm. Salg,1.620,4,Sommerhus,108,1870,,Aktuel værdi
+Studehavevej 174895 Errindlev,dlev,47.260,01-08-1995,Alm. Salg,843,2,Sommerhus,56,1901,,Aktuel værdi
+Niels Hemmingsensvej 194895 Errindlev,dlev,325.000,08-06-1995,Alm. Salg,2.901,4,Villa,112,1973,,Aktuel værdi
+Errindlevvej 404895 Errindlev,dlev,390.100,19-05-1995,Alm. Salg,2.241,5,Villa,174,1950,,Aktuel værdi
+Hyldagervej 24895 Errindlev,dlev,225.500,23-11-1994,Alm. Salg,1.670,4,Villa,135,1926,,Aktuel værdi
+Skolevænget 214895 Errindlev,dlev,340.000,15-11-1994,Alm. Salg,2.931,4,Villa,116,1977,,Aktuel værdi
+Digevej 104895 Errindlev,dlev,400.000,18-10-1994,Alm. Salg,3.389,7,Villa,118,1840,,Aktuel værdi
+Stadionvej 34895 Errindlev,dlev,480.000,13-06-1994,Alm. Salg,2.962,6,Villa,162,1973,,Aktuel værdi
+Errindlevvej 274895 Errindlev,dlev,150.000,13-04-1994,Alm. Salg,1.666,3,Villa,90,1945,,Aktuel værdi
+Fælledvej 114895 Errindlev,dlev,315.000,30-10-1993,Alm. Salg,2.032,5,Villa,155,1910,,Aktuel værdi
+Skolevænget 44895 Errindlev,dlev,471.430,04-10-1993,Alm. Salg,3.626,4,Villa,130,1979,,Aktuel værdi
+Sjælstoftevej 204895 Errindlev,dlev,175.000,26-06-1993,Alm. Salg,1.842,4,Villa,95,1934,,Aktuel værdi
+Olstrupvej 34895 Errindlev,dlev,285.000,03-03-1993,Alm. Salg,2.126,4,Villa,134,1877,,Aktuel værdi
+Torsøvej 94895 Errindlev,dlev,148.915,07-12-1992,Alm. Salg,1.985,6,Sommerhus,75,1867,,Aktuel værdi
+Sjælstoftevej 104895 Errindlev,dlev,140.500,09-11-1992,Alm. Salg,1.778,3,Villa,79,1877,,Aktuel værdi
+Assenbøllevej 94895 Errindlev,dlev,445.000,25-09-1992,Alm. Salg,2.069,6,Villa,215,1930,,Aktuel værdi
+Lundehøjevej 84895 Errindlev,dlev,74.671,28-08-1992,Alm. Salg,921,3,Sommerhus,81,1800,,Aktuel værdi
+Rødbyvej 74895 Errindlev,dlev,330.000,25-05-1992,Alm. Salg,2.357,5,Villa,140,1959,,Aktuel værdi
+Sognevejen 144895 Errindlev,dlev,295.000,18-05-1992,Alm. Salg,3.430,4,Villa,86,1925,,Aktuel værdi
+Stadionvej 54895 Errindlev,dlev,325.000,04-05-1992,Alm. Salg,2.425,4,Villa,134,1974,,Aktuel værdi
+Studehavevej 14895 Errindlev,dlev,130.000,02-03-1992,Alm. Salg,1.547,5,Villa,84,1877,,Aktuel værdi
+Egelundvej 284895 Errindlev,dlev,325.000,08-02-1992,Alm. Salg,2.954,4,Villa,110,1912,,Aktuel værdi
+Assenbøllevej 14895 Errindlev,dlev,649.400,20-01-1992,Fam. Salg,4.058,8,Villa,160,1900,,Aktuel værdi
+Rødbyvej 84895 Errindlev,dlev,180.000,09-01-1992,Alm. Salg,2.045,2,Villa,88,1909,,Aktuel værdi

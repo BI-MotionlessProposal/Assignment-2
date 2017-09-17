@@ -1,0 +1,458 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Andemosevej 334944 Fejø,Fejø,495.000,17-03-2017,Fam. Salg,4.194,3,Villa,118,1900,,Aktuel værdi
+Lærkestien 74944 Fejø,Fejø,450.000,08-03-2017,Alm. Salg,4.736,3,Sommerhus,95,1976,,Aktuel værdi
+Brigetvej 34944 Fejø,Fejø,195.000,21-02-2017,Alm. Salg,2.407,3,Villa,81,1952,,Aktuel værdi
+Skovvej 284944 Fejø,Fejø,150.000,20-02-2017,Fam. Salg,882,6,Villa,170,1877,,Aktuel værdi
+Skaløvej 154944 Fejø,Fejø,700.000,28-12-2016,Alm. Salg,3.846,4,Villa,182,1976,,Aktuel værdi
+Dybvigvej 494944 Fejø,Fejø,400.000,09-12-2016,Fam. Salg,4.705,4,Villa,85,1915,,Aktuel værdi
+Storemosevej 564944 Fejø,Fejø,555.000,15-11-2016,Alm. Salg,4.021,5,Villa,138,1877,-7 %,Aktuel værdi
+Herredsvej 57B4944 Fejø,Fejø,455.000,02-10-2016,Alm. Salg,3.791,4,Sommerhus,120,1860,,Aktuel værdi
+Slettervig 94944 Fejø,Fejø,230.000,23-09-2016,Alm. Salg,6.388,3,Sommerhus,36,1969,,Aktuel værdi
+Skaløvej 274944 Fejø,Fejø,850.000,24-08-2016,Alm. Salg,5.000,5,Villa,170,1910,-28 %,Aktuel værdi
+Poppelstien 184944 Fejø,Fejø,180.000,14-08-2016,Alm. Salg,4.500,3,Sommerhus,40,1971,,Aktuel værdi
+Bøgestien 74944 Fejø,Fejø,270.000,12-08-2016,Alm. Salg,5.400,3,Sommerhus,50,1973,-8 %,Aktuel værdi
+Syrenstien 104944 Fejø,Fejø,570.000,05-08-2016,Alm. Salg,9.047,4,Sommerhus,63,1970,-18 %,Aktuel værdi
+Herredsvej 2804944 Fejø,Fejø,160.000,28-07-2016,Alm. Salg,2.285,3,Villa,70,1897,-18 %,Aktuel værdi
+Dommervej 24944 Fejø,Fejø,800.000,06-07-2016,Alm. Salg,6.837,5,Villa,117,1934,,Aktuel værdi
+Herredsvej 74A4944 Fejø,Fejø,170.000,01-07-2016,Alm. Salg,1.452,5,Villa,117,1893,-15 %,Aktuel værdi
+Herredsvej 2874944 Fejø,Fejø,500.000,30-06-2016,Alm. Salg,6.250,4,Villa,80,1875,1 %,Aktuel værdi
+Andemosevej 274944 Fejø,Fejø,445.000,03-06-2016,Fam. Salg,3.476,5,Villa,128,1846,,Aktuel værdi
+Andemosevej 27B4944 Fejø,Fejø,360.000,02-06-2016,Fam. Salg,4.931,3,Sommerhus,73,1880,,Aktuel værdi
+Lærkestien 54944 Fejø,Fejø,155.000,31-05-2016,Alm. Salg,5.961,1,Sommerhus,26,1972,,Aktuel værdi
+Birkestien 34944 Fejø,Fejø,325.000,31-05-2016,Alm. Salg,4.850,5,Sommerhus,67,1973,,Aktuel værdi
+Bøgestien 144944 Fejø,Fejø,470.000,27-05-2016,Alm. Salg,8.103,3,Sommerhus,58,1981,-5 %,Aktuel værdi
+Sletterodde 94944 Fejø,Fejø,96.627,24-05-2016,Alm. Salg,1.288,4,Sommerhus,75,1968,,Aktuel værdi
+Herredsvej 2614944 Fejø,Fejø,150.000,25-04-2016,Alm. Salg,1.724,2,Villa,87,1820,-23 %,Aktuel værdi
+Storemosevej 754944 Fejø,Fejø,162.500,22-04-2016,Alm. Salg,3.779,2,Sommerhus,43,1956,,Aktuel værdi
+Herredsvej 194944 Fejø,Fejø,330.000,09-03-2016,Alm. Salg,2.391,3,Villa,138,1938,-33 %,Aktuel værdi
+Herredsvej 834944 Fejø,Fejø,127.500,17-02-2016,Alm. Salg,1.593,3,Villa,80,1941,29 %,Aktuel værdi
+Herredsvej 644944 Fejø,Fejø,177.004,09-12-2015,Auktion,1.085,5,Villa,163,1925,,Aktuel værdi
+Brigetvej 114944 Fejø,Fejø,990.000,03-12-2015,Andet,9.900,4,Sommerhus,100,1897,,Aktuel værdi
+Granstien 44944 Fejø,Fejø,540.000,03-12-2015,Alm. Salg,8.307,4,Sommerhus,65,1974,3 %,Aktuel værdi
+Dalmosevej 24944 Fejø,Fejø,675.000,29-11-2015,Alm. Salg,3.276,5,Villa,206,1980,-16 %,Aktuel værdi
+Herredsvej 192C4944 Fejø,Fejø,350.000,24-11-2015,Alm. Salg,2.966,4,Villa,118,1961,-11 %,Aktuel værdi
+Herredsvej 594944 Fejø,Fejø,250.000,23-11-2015,Fam. Salg,2.118,7,Villa,118,1827,,Aktuel værdi
+Kløverstien 54944 Fejø,Fejø,357.000,16-11-2015,Fam. Salg,6.263,3,Sommerhus,57,1969,,Aktuel værdi
+Herredsvej 1584944 Fejø,Fejø,815.000,05-11-2015,Alm. Salg,4.453,6,Villa,183,1957,-8 %,Aktuel værdi
+Herredsvej 1574944 Fejø,Fejø,875.000,06-10-2015,Alm. Salg,5.468,6,Stuehus,160,1862,,
+Herredsvej 1674944 Fejø,Fejø,200.000,25-09-2015,Alm. Salg,2.197,3,Villa,91,1912,,Aktuel værdi
+Hjortemosevej 94944 Fejø,Fejø,1.300.000,18-09-2015,Alm. Salg,7.222,4,Villa,180,1916,-12 %,Aktuel værdi
+Birkestien 14944 Fejø,Fejø,225.000,18-09-2015,Alm. Salg,5.357,1,Sommerhus,42,2004,,Aktuel værdi
+Herredsvej 1444944 Fejø,Fejø,700.000,04-09-2015,Alm. Salg,5.468,4,Villa,128,1957,-6 %,Aktuel værdi
+Birkestien 184944 Fejø,Fejø,600.000,23-08-2015,Alm. Salg,12.765,3,Sommerhus,47,1978,,Aktuel værdi
+Tuborgvej 64944 Fejø,Fejø,245.000,23-08-2015,Alm. Salg,8.448,2,Sommerhus,29,1985,,Aktuel værdi
+Herredsvej 394944 Fejø,Fejø,290.233,12-08-2015,Fam. Salg,2.073,3,Villa,140,1920,,Aktuel værdi
+Syrenstien 114944 Fejø,Fejø,1.050.000,01-07-2015,Alm. Salg,17.500,4,Sommerhus,60,1969,-4 %,Aktuel værdi
+Herredsvej 57G4944 Fejø,Fejø,675.000,10-04-2015,Alm. Salg,4.687,6,Sommerhus,144,1877,0 %,Aktuel værdi
+Slettervej 254944 Fejø,Fejø,600.000,07-04-2015,Alm. Salg,5.217,4,Stuehus,115,1800,,
+Dybvigvej 474944 Fejø,Fejø,621.350,01-04-2015,Fam. Salg,5.010,5,Villa,124,1915,,Aktuel værdi
+Skovvej 384944 Fejø,Fejø,5.540.000,27-03-2015,Alm. Salg,28.704,8,Stuehus,193,1959,,
+Birkestien 154944 Fejø,Fejø,625.000,25-03-2015,Alm. Salg,6.648,5,Sommerhus,94,1970,-10 %,Aktuel værdi
+Herredsvej 1534944 Fejø,Fejø,250.000,24-03-2015,Alm. Salg,3.246,3,Villa,77,1850,,Aktuel værdi
+Slettervej 354944 Fejø,Fejø,5.045.970,08-03-2015,Fam. Salg,32.554,4,Stuehus,155,1850,,
+Slettervej 474944 Fejø,Fejø,350.000,08-03-2015,Fam. Salg,2.447,5,Stuehus,143,1902,,
+Slettervej 454944 Fejø,Fejø,200.000,08-03-2015,Fam. Salg,990,7,Stuehus,202,1872,,
+Herredsvej 114944 Fejø,Fejø,50.000,01-03-2015,Alm. Salg,357,5,Villa,140,1907,,Aktuel værdi
+Herredsvej 2284944 Fejø,Fejø,565.000,14-01-2015,Alm. Salg,4.094,4,Villa,138,1976,-16 %,Aktuel værdi
+Herredsvej 2934944 Fejø,Fejø,94.732,14-01-2015,Auktion,648,6,Villa,146,1933,,Aktuel værdi
+Herredsvej 384944 Fejø,Fejø,775.000,15-12-2014,Alm. Salg,4.479,6,Villa,173,1976,,Aktuel værdi
+Granstien 84944 Fejø,Fejø,530.000,19-11-2014,Fam. Salg,9.636,2,Sommerhus,55,1969,,Aktuel værdi
+Herredsvej 2104944 Fejø,Fejø,950.000,18-11-2014,Alm. Salg,6.785,4,Villa,140,1885,-13 %,Aktuel værdi
+Slettervig 64944 Fejø,Fejø,350.000,05-11-2014,Alm. Salg,6.250,3,Sommerhus,56,1979,-22 %,Aktuel værdi
+Skovvej 84944 Fejø,Fejø,3.085.000,03-11-2014,Alm. Salg,19.775,5,Stuehus,156,1967,,
+Herredsvej 2454944 Fejø,Fejø,151.724,26-09-2014,Andet,2.107,3,Sommerhus,72,1877,,Aktuel værdi
+Nøddestien 64944 Fejø,Fejø,270.000,03-09-2014,Alm. Salg,4.029,4,Sommerhus,67,1974,-10 %,Aktuel værdi
+Gl. Smedievej 94944 Fejø,Fejø,1.800.000,29-08-2014,Alm. Salg,15.652,5,Sommerhus,115,1987,0 %,Aktuel værdi
+Degnemosevej 94944 Fejø,Fejø,450.000,23-07-2014,Alm. Salg,5.000,4,Villa,90,1964,-24 %,Aktuel værdi
+Herredsvej 1914944 Fejø,Fejø,575.000,04-07-2014,Alm. Salg,4.956,5,Villa,116,1965,,Aktuel værdi
+Birkestien 94944 Fejø,Fejø,475.000,03-07-2014,Alm. Salg,7.196,2,Sommerhus,66,2005,-4 %,Aktuel værdi
+Dybvigvej 64944 Fejø,Fejø,375.000,18-06-2014,Alm. Salg,2.929,5,Villa,128,1891,,Aktuel værdi
+Herredsvej 2824944 Fejø,Fejø,147.845,14-05-2014,Auktion,1.128,5,Villa,131,1900,-70 %,Aktuel værdi
+Andemosevej 74944 Fejø,Fejø,230.000,03-03-2014,Alm. Salg,2.346,4,Villa,98,1877,-8 %,Aktuel værdi
+Poppelstien 124944 Fejø,Fejø,80.000,20-02-2014,Alm. Salg,1.095,3,Sommerhus,73,1975,,Aktuel værdi
+Herredsvej 64944 Fejø,Fejø,10.000,15-01-2014,Auktion,90,4,Villa,110,1928,,Aktuel værdi
+Storemosevej 404944 Fejø,Fejø,100.000,01-01-2014,Alm. Salg,1.282,4,Sommerhus,78,1959,,Aktuel værdi
+Herredsvej 2054944 Fejø,Fejø,395.000,18-12-2013,Fam. Salg,3.038,5,Villa,130,1920,,Aktuel værdi
+Sletterodde 64944 Fejø,Fejø,500.000,23-11-2013,Alm. Salg,5.102,4,Sommerhus,98,1973,-37 %,Aktuel værdi
+Brigetvej 64944 Fejø,Fejø,250.000,05-11-2013,Fam. Salg,1.077,9,Villa,232,1877,,Aktuel værdi
+Herredsvej 2964944 Fejø,Fejø,10.000,30-10-2013,Auktion,138,3,Rækkehus,72,1877,,Aktuel værdi
+Herredsvej 564944 Fejø,Fejø,41.469,09-10-2013,Auktion,406,4,Stuehus,102,1860,,
+Herredsvej 1294944 Fejø,Fejø,75.000,02-10-2013,Auktion,347,6,Villa,216,1920,-87 %,Aktuel værdi
+Herredsvej 244944 Fejø,Fejø,230.000,10-09-2013,Alm. Salg,1.337,5,Villa,172,1928,-22 %,Aktuel værdi
+Herredsvej 2634944 Fejø,Fejø,300.000,27-08-2013,Andet,1.886,6,Villa,159,1852,,Aktuel værdi
+Herredsvej 2694944 Fejø,Fejø,375.000,01-08-2013,Alm. Salg,2.976,4,Sommerhus,126,1850,-5 %,Aktuel værdi
+Sletterodde 104944 Fejø,Fejø,211.225,26-07-2013,Fam. Salg,2.640,4,Sommerhus,80,1970,-57 %,Aktuel værdi
+Birkestien 144944 Fejø,Fejø,400.000,21-06-2013,Alm. Salg,6.779,3,Sommerhus,59,1970,,Aktuel værdi
+Dybvigvej 344944 Fejø,Fejø,145.000,21-06-2013,Alm. Salg,1.306,5,Villa,111,1895,,Aktuel værdi
+Slettervej 274944 Fejø,Fejø,4.350.000,17-06-2013,Alm. Salg,21.428,6,Stuehus,203,1958,,
+Herredsvej 754944 Fejø,Fejø,160.000,01-06-2013,Alm. Salg,1.758,4,Villa,91,2016,,Aktuel værdi
+Storemosevej 624944 Fejø,Fejø,1.885.000,07-04-2013,Alm. Salg,19.635,6,Stuehus,96,1795,,
+Storemosevej 284944 Fejø,Fejø,690.000,17-03-2013,Alm. Salg,5.036,5,Stuehus,137,1935,,
+Strandvejen 19A4944 Fejø,Fejø,950.000,13-03-2013,Alm. Salg,5.900,3,Villa,161,1978,-13 %,Aktuel værdi
+Herredsvej 2514944 Fejø,Fejø,35.000,27-02-2013,Auktion,437,3,Villa,80,1895,,Aktuel værdi
+Hjortemosevej 274944 Fejø,Fejø,240.955,06-02-2013,Alm. Salg,2.113,4,Sommerhus,114,1877,,Aktuel værdi
+Herredsvej 2664944 Fejø,Fejø,600.000,25-12-2012,Alm. Salg,7.500,3,Villa,80,1920,,Aktuel værdi
+Herredsvej 934944 Fejø,Fejø,145.000,19-12-2012,Alm. Salg,1.115,7,Villa,130,1952,,Aktuel værdi
+Skovvej 34944 Fejø,Fejø,458.700,14-11-2012,Alm. Salg,5.212,4,Villa,88,1916,-34 %,Aktuel værdi
+Skovvej 214944 Fejø,Fejø,765.000,02-11-2012,Alm. Salg,4.841,6,Villa,158,1877,,Aktuel værdi
+Skaløvej 414944 Fejø,Fejø,350.000,26-09-2012,Alm. Salg,3.645,5,Villa,96,1911,,Aktuel værdi
+Herredsvej 844944 Fejø,Fejø,75.000,14-09-2012,Alm. Salg,765,5,Villa,98,1870,,Aktuel værdi
+Dybvigvej 554944 Fejø,Fejø,950.000,31-08-2012,Alm. Salg,5.135,6,Villa,185,1877,,Aktuel værdi
+Vestergårdsvej 54944 Fejø,Fejø,275.000,27-08-2012,Alm. Salg,1.833,5,Villa,150,1909,0 %,Aktuel værdi
+Dybvigvej 364944 Fejø,Fejø,425.000,30-07-2012,Alm. Salg,3.483,4,Villa,122,1907,-21 %,Aktuel værdi
+Slettervej 44944 Fejø,Fejø,275.000,27-07-2012,Alm. Salg,2.864,2,Sommerhus,96,1920,-30 %,Aktuel værdi
+Birkestien 24944 Fejø,Fejø,225.000,22-07-2012,Alm. Salg,5.232,3,Sommerhus,43,1979,,Aktuel værdi
+Dybvigvej 534944 Fejø,Fejø,261.219,17-07-2012,Alm. Salg,2.024,6,Villa,129,1906,,Aktuel værdi
+Poppelstien 24944 Fejø,Fejø,565.000,28-06-2012,Alm. Salg,11.770,3,Sommerhus,48,1973,,Aktuel værdi
+Poppelstien 174944 Fejø,Fejø,600.000,19-06-2012,Fam. Salg,7.792,4,Sommerhus,77,1970,,Aktuel værdi
+Fyrrestien 24944 Fejø,Fejø,490.000,04-06-2012,Alm. Salg,12.564,2,Sommerhus,39,1973,,Aktuel værdi
+Herredsvej 764944 Fejø,Fejø,38.000,16-05-2012,Auktion,271,6,Villa,140,1912,-90 %,Aktuel værdi
+Herredsvej 1374944 Fejø,Fejø,250.000,02-05-2012,Alm. Salg,2.777,2,Villa,90,1827,-15 %,Aktuel værdi
+Poppelstien 144944 Fejø,Fejø,225.000,26-04-2012,Fam. Salg,4.687,4,Sommerhus,48,1975,,Aktuel værdi
+Tuborgvej 84944 Fejø,Fejø,160.000,17-03-2012,Alm. Salg,1.927,3,Sommerhus,83,1932,-20 %,Aktuel værdi
+Dybvigvej 204944 Fejø,Fejø,260.000,14-03-2012,Auktion,1.405,7,Sommerhus,185,1966,-77 %,Aktuel værdi
+Herredsvej 14944 Fejø,Fejø,400.000,12-03-2012,Alm. Salg,2.127,10,Villa,188,1916,,Aktuel værdi
+Herredsvej 2764944 Fejø,Fejø,425.000,05-03-2012,Alm. Salg,3.219,5,Villa,132,1977,-26 %,Aktuel værdi
+Herredsvej 2184944 Fejø,Fejø,300.000,29-02-2012,Auktion,2.752,4,Villa,109,2008,,Aktuel værdi
+Skovvej 74944 Fejø,Fejø,4.887.500,03-01-2012,Fam. Salg,24.437,6,Stuehus,200,1839,,
+Herredsvej 40B4944 Fejø,Fejø,810.000,13-12-2011,Alm. Salg,7.297,3,Villa,111,1975,,Aktuel værdi
+Dybvigvej 44944 Fejø,Fejø,200.000,09-12-2011,Alm. Salg,1.219,6,Villa,164,1903,,Aktuel værdi
+Fyrrestien 34944 Fejø,Fejø,630.000,31-10-2011,Alm. Salg,8.750,2,Sommerhus,72,1994,-9 %,Aktuel værdi
+Herredsvej 954944 Fejø,Fejø,1.000.000,06-10-2011,Alm. Salg,13.157,11,Servicevirksomhed,76,1856,,Aktuel værdi
+Slettervig 84944 Fejø,Fejø,698.000,21-09-2011,Alm. Salg,14.541,4,Sommerhus,48,1974,,Aktuel værdi
+Dybvigvej 264944 Fejø,Fejø,600.000,18-09-2011,Fam. Salg,2.985,6,Villa,201,1800,,Aktuel værdi
+Skaløvej 114944 Fejø,Fejø,1.460.000,16-09-2011,Alm. Salg,15.208,4,Villa,96,2007,-8 %,Aktuel værdi
+Herredsvej 2524944 Fejø,Fejø,875.000,16-09-2011,Alm. Salg,7.231,4,Servicevirksomhed,121,1976,0 %,Aktuel værdi
+Herredsvej 198C4944 Fejø,Fejø,995.000,31-08-2011,Alm. Salg,7.316,5,Villa,136,1979,-17 %,Aktuel værdi
+Slettervej 334944 Fejø,Fejø,195.000,12-08-2011,Fam. Salg,1.741,4,Sommerhus,112,1850,0 %,Aktuel værdi
+Herredsvej 192A4944 Fejø,Fejø,640.000,02-07-2011,Alm. Salg,5.000,6,Villa,128,1960,-8 %,Aktuel værdi
+Sletterodde 144944 Fejø,Fejø,1.950.000,01-07-2011,Alm. Salg,14.130,3,Sommerhus,138,1966,-2 %,Aktuel værdi
+Herredsvej 1214944 Fejø,Fejø,495.000,29-06-2011,Alm. Salg,2.861,4,Villa,173,1914,0 %,Aktuel værdi
+Herredsvej 1704944 Fejø,Fejø,215.000,29-06-2011,Auktion,1.954,3,Villa,110,1877,,Aktuel værdi
+Skaløvej 484944 Fejø,Fejø,1.000.000,23-06-2011,Alm. Salg,6.172,5,Villa,162,1923,,Aktuel værdi
+Lærkestien 44944 Fejø,Fejø,155.000,09-06-2011,Alm. Salg,1.802,1,Sommerhus,86,2016,,Aktuel værdi
+Herredsvej 104944 Fejø,Fejø,443.472,04-04-2011,Fam. Salg,3.411,6,Villa,130,1949,,Aktuel værdi
+Dybvigvej 394944 Fejø,Fejø,450.000,22-03-2011,Alm. Salg,3.543,5,Villa,127,1907,,Aktuel værdi
+Herredsvej 1334944 Fejø,Fejø,995.000,13-03-2011,Alm. Salg,7.653,7,Villa,130,1852,-13 %,Aktuel værdi
+Herredsvej 1754944 Fejø,Fejø,275.000,26-02-2011,Alm. Salg,2.750,3,Rækkehus,100,1950,,Aktuel værdi
+Storemosevej 1074944 Fejø,Fejø,185.000,04-02-2011,Alm. Salg,1.947,4,Villa,95,1938,,Aktuel værdi
+Storemosevej 1164944 Fejø,Fejø,425.000,26-01-2011,Alm. Salg,3.794,3,Villa,112,1974,,Aktuel værdi
+Herredsvej 2224944 Fejø,Fejø,1.300.000,07-01-2011,Alm. Salg,6.878,7,Sommerhus,189,1928,-7 %,Aktuel værdi
+Herredsvej 1724944 Fejø,Fejø,600.000,04-01-2011,Alm. Salg,2.739,8,Stuehus,219,1931,,
+Hjortemosevej 34944 Fejø,Fejø,630.000,01-01-2011,Alm. Salg,6.000,4,Villa,105,1910,,Aktuel værdi
+Slettervig 54944 Fejø,Fejø,730.000,27-12-2010,Alm. Salg,6.293,10,Sommerhus,116,1984,-18 %,Aktuel værdi
+Herredsvej 2674944 Fejø,Fejø,220.000,21-12-2010,Alm. Salg,4.888,3,Rækkehus,45,1850,,Aktuel værdi
+Herredsvej 2294944 Fejø,Fejø,320.000,14-12-2010,Alm. Salg,2.580,5,Villa,124,1890,-25 %,Aktuel værdi
+Poppelstien 194944 Fejø,Fejø,701.674,07-12-2010,Alm. Salg,9.882,4,Sommerhus,71,1974,,Aktuel værdi
+Herredsvej 2134944 Fejø,Fejø,300.000,19-11-2010,Alm. Salg,1.704,5,Villa,176,1850,,Aktuel værdi
+Slettervig 34944 Fejø,Fejø,900.000,04-10-2010,Alm. Salg,12.162,2,Sommerhus,74,2006,-10 %,Aktuel værdi
+Skovvej 314944 Fejø,Fejø,650.000,13-07-2010,Auktion,5.909,7,Villa,110,1951,,Aktuel værdi
+Slettervig 154944 Fejø,Fejø,1.400.000,11-07-2010,Alm. Salg,9.655,5,Sommerhus,145,1968,-12 %,Aktuel værdi
+Slettervig 124944 Fejø,Fejø,750.000,29-06-2010,Alm. Salg,11.194,4,Sommerhus,67,1972,,Aktuel værdi
+Lærkestien 144944 Fejø,Fejø,400.000,15-06-2010,Alm. Salg,8.000,3,Sommerhus,50,1973,,Aktuel værdi
+Skovvej 14944 Fejø,Fejø,300.000,14-06-2010,Alm. Salg,4.166,4,Villa,72,1850,,Aktuel værdi
+Herredsvej 1054944 Fejø,Fejø,215.000,07-04-2010,Auktion,2.216,4,Villa,97,1941,-73 %,Aktuel værdi
+Skovvej 274944 Fejø,Fejø,1.379.000,02-04-2010,Alm. Salg,7.835,7,Villa,176,1969,,Aktuel værdi
+Æblestien 24944 Fejø,Fejø,470.000,23-03-2010,Alm. Salg,7.230,3,Sommerhus,65,1990,-5 %,Aktuel værdi
+Herredsvej 1354944 Fejø,Fejø,560.000,17-03-2010,Alm. Salg,6.086,5,Sommerhus,92,1850,,Aktuel værdi
+Herredsvej 884944 Fejø,Fejø,280.000,03-03-2010,Auktion,2.456,6,Villa,114,1890,-36 %,Aktuel værdi
+Sletterodde 154944 Fejø,Fejø,450.000,01-03-2010,Fam. Salg,5.487,5,Sommerhus,82,1974,,Aktuel værdi
+Andemosevej 344944 Fejø,Fejø,2.633.300,24-02-2010,Alm. Salg,14.234,5,Villa,185,1840,,Aktuel værdi
+Dybvigvej 284944 Fejø,Fejø,425.000,15-02-2010,Fam. Salg,4.722,3,Villa,90,1934,,Aktuel værdi
+Herredsvej 1074944 Fejø,Fejø,501.500,25-01-2010,Fam. Salg,6.268,4,Villa,80,1920,,Aktuel værdi
+Slettervej 214944 Fejø,Fejø,1.800.000,27-12-2009,Alm. Salg,7.929,5,Villa,227,1912,-10 %,Aktuel værdi
+Fyrrestien 114944 Fejø,Fejø,680.000,21-12-2009,Alm. Salg,9.444,2,Sommerhus,72,1994,,Aktuel værdi
+Bøgestien 84944 Fejø,Fejø,370.000,11-12-2009,Alm. Salg,8.043,2,Sommerhus,46,1992,,Aktuel værdi
+Syrenstien 64944 Fejø,Fejø,259.250,24-11-2009,Fam. Salg,4.629,3,Sommerhus,56,1982,,Aktuel værdi
+Storemosevej 1184944 Fejø,Fejø,85.000,09-11-2009,Fam. Salg,1.103,4,Sommerhus,77,2012,,Aktuel værdi
+Pærestien 14944 Fejø,Fejø,490.000,09-09-2009,Alm. Salg,7.424,4,Sommerhus,66,1974,-16 %,Aktuel værdi
+Sletterodde 214944 Fejø,Fejø,120.000,26-08-2009,Alm. Salg,2.790,3,Sommerhus,43,2012,,Aktuel værdi
+Nøddestien 84944 Fejø,Fejø,750.000,22-07-2009,Alm. Salg,12.931,3,Sommerhus,58,1974,-6 %,Aktuel værdi
+Dybvigvej 104944 Fejø,Fejø,1.800.000,02-07-2009,Alm. Salg,7.826,11,Villa,230,1910,-16 %,Aktuel værdi
+Herredsvej 2814944 Fejø,Fejø,1.050.000,30-06-2009,Fam. Salg,7.394,8,Villa,142,1780,,Aktuel værdi
+Dybvigvej 354944 Fejø,Fejø,500.000,26-06-2009,Alm. Salg,4.098,5,Sommerhus,122,1910,,Aktuel værdi
+Engstien 34944 Fejø,Fejø,1.050.000,25-05-2009,Alm. Salg,11.413,4,Villa,92,1987,-5 %,Aktuel værdi
+Herredsvej 3044944 Fejø,Fejø,810.000,14-05-2009,Alm. Salg,6.230,5,Villa,130,1911,-2 %,Aktuel værdi
+Sletterbo 64944 Fejø,Fejø,896.700,01-03-2009,Andet,7.797,4,Sommerhus,115,1976,,Aktuel værdi
+Dybvigvej 574944 Fejø,Fejø,2.215.000,10-02-2009,Alm. Salg,8.931,3,Sommerhus,248,2011,,Aktuel værdi
+Slettervig 104944 Fejø,Fejø,900.000,22-11-2008,Alm. Salg,16.666,5,Sommerhus,54,1990,,Aktuel værdi
+Herredsvej 2024944 Fejø,Fejø,550.000,13-10-2008,Alm. Salg,5.555,4,Villa,99,1827,,Aktuel værdi
+Kagevigsvej 204944 Fejø,Fejø,82.755,01-10-2008,Alm. Salg,835,4,Villa,99,1953,,Aktuel værdi
+Storemosevej 534944 Fejø,Fejø,690.000,18-09-2008,Fam. Salg,5.307,4,Villa,130,1827,,Aktuel værdi
+Herredsvej 2884944 Fejø,Fejø,350.000,16-09-2008,Alm. Salg,5.303,4,Villa,66,1935,,Aktuel værdi
+Herredsvej 444944 Fejø,Fejø,775.000,11-09-2008,Alm. Salg,7.110,5,Villa,109,1957,,Aktuel værdi
+Fyrrestien 94944 Fejø,Fejø,795.000,05-08-2008,Alm. Salg,9.244,4,Sommerhus,86,1974,0 %,Aktuel værdi
+Herredsvej 2654944 Fejø,Fejø,63.374,11-07-2008,Alm. Salg,772,4,Rækkehus,82,1877,,Aktuel værdi
+Sletterbo 34944 Fejø,Fejø,700.000,14-06-2008,Fam. Salg,10.769,4,Sommerhus,65,1979,,Aktuel værdi
+Storemosevej 244944 Fejø,Fejø,419.000,30-05-2008,Fam. Salg,2.394,5,Villa,175,1936,,Aktuel værdi
+Dommervej 104944 Fejø,Fejø,1.750.000,09-05-2008,Alm. Salg,13.461,6,Stuehus,130,1961,,
+Brigetvej 54944 Fejø,Fejø,585.000,28-04-2008,Auktion,5.223,4,Villa,112,1973,,Aktuel værdi
+Herredsvej 1004944 Fejø,Fejø,570.000,28-04-2008,Auktion,2.923,5,Villa,195,1850,,Aktuel værdi
+Herredsvej 964944 Fejø,Fejø,296.442,24-04-2008,Alm. Salg,1.665,5,Villa,178,1727,,Aktuel værdi
+Herredsvej 1624944 Fejø,Fejø,2.165.000,24-04-2008,Alm. Salg,8.200,8,Villa,264,1908,0 %,Aktuel værdi
+Syrenstien 84944 Fejø,Fejø,600.000,26-03-2008,Alm. Salg,12.000,3,Sommerhus,50,1971,0 %,Aktuel værdi
+Storemosevej 54944 Fejø,Fejø,840.000,06-03-2008,Alm. Salg,9.438,4,Villa,89,1941,-2 %,Aktuel værdi
+Hjortemosevej 254944 Fejø,Fejø,1.200.000,06-02-2008,Alm. Salg,6.666,5,Villa,180,1897,,Aktuel værdi
+Skaløvej 74944 Fejø,Fejø,1.030.000,01-02-2008,Alm. Salg,12.716,3,Sommerhus,81,1999,-6 %,Aktuel værdi
+Lærkestien 24944 Fejø,Fejø,215.000,25-01-2008,Alm. Salg,2.443,4,Sommerhus,88,2008,-14 %,Aktuel værdi
+Storemosevej 364944 Fejø,Fejø,450.000,23-01-2008,Alm. Salg,3.913,5,Villa,115,1956,,Aktuel værdi
+Herredsvej 434944 Fejø,Fejø,350.000,17-01-2008,Alm. Salg,3.932,3,Villa,89,1850,,Aktuel værdi
+Hjortemosevej 224944 Fejø,Fejø,569.500,24-12-2007,Fam. Salg,3.822,3,Sommerhus,149,1880,,Aktuel værdi
+Poppelstien 104944 Fejø,Fejø,640.000,01-12-2007,Alm. Salg,15.238,2,Sommerhus,42,1970,-1 %,Aktuel værdi
+Herredsvej 2374944 Fejø,Fejø,950.000,15-11-2007,Alm. Salg,8.878,6,Villa,107,1877,6 %,Aktuel værdi
+Herredsvej 2624944 Fejø,Fejø,900.000,09-11-2007,Alm. Salg,7.200,4,Villa,125,1942,,Aktuel værdi
+Herredsvej 2854944 Fejø,Fejø,220.000,29-10-2007,Andet,1.629,5,Villa,135,1827,,Aktuel værdi
+Herredsvej 2994944 Fejø,Fejø,835.000,29-10-2007,Andet,5.457,4,Villa,153,1877,,Aktuel værdi
+Herredsvej 84944 Fejø,Fejø,595.000,07-10-2007,Alm. Salg,7.000,4,Sommerhus,85,1937,,Aktuel værdi
+Sletterodde 124944 Fejø,Fejø,975.000,01-09-2007,Alm. Salg,15.000,3,Sommerhus,65,1967,,Aktuel værdi
+Andemosevej 354944 Fejø,Fejø,650.000,21-07-2007,Fam. Salg,5.000,5,Sommerhus,130,1814,,Aktuel værdi
+Herredsvej 7A4944 Fejø,Fejø,1.345.000,20-07-2007,Alm. Salg,8.151,5,Villa,165,1978,,Aktuel værdi
+Hjortemosevej 364944 Fejø,Fejø,395.000,16-07-2007,Fam. Salg,2.158,5,Stuehus,183,1825,,
+Herredsvej 984944 Fejø,Fejø,610.000,08-07-2007,Alm. Salg,3.674,4,Villa,166,1939,,Aktuel værdi
+Syrenstien 34944 Fejø,Fejø,500.000,31-05-2007,Alm. Salg,9.803,4,Sommerhus,51,1982,,Aktuel værdi
+Lærkestien 114944 Fejø,Fejø,3.146.456,29-05-2007,Fam. Salg,73.173,1,Sommerhus,43,1970,,Aktuel værdi
+Fyrrestien 134944 Fejø,Fejø,450.000,13-04-2007,Alm. Salg,17.307,1,Sommerhus,26,2006,-9 %,Aktuel værdi
+Herredsvej 2314944 Fejø,Fejø,425.000,26-03-2007,Alm. Salg,3.601,3,Villa,118,1897,,Aktuel værdi
+Lærkestien 164944 Fejø,Fejø,802.000,16-03-2007,Alm. Salg,10.025,5,Sommerhus,80,1977,5 %,Aktuel værdi
+Dalmosevej 84944 Fejø,Fejø,600.000,23-01-2007,Andet,5.000,5,Sommerhus,120,1877,,Aktuel værdi
+Andemosevej 104944 Fejø,Fejø,4.500.000,03-01-2007,Alm. Salg,23.560,7,Stuehus,191,1877,,
+Bøgestien 54944 Fejø,Fejø,200.000,01-01-2007,Fam. Salg,3.773,3,Sommerhus,53,1971,,Aktuel værdi
+Herredsvej 924944 Fejø,Fejø,420.000,24-12-2006,Fam. Salg,3.387,5,Villa,124,1917,,Aktuel værdi
+Syrenstien 44944 Fejø,Fejø,391.000,23-12-2006,Fam. Salg,6.516,3,Sommerhus,60,1975,,Aktuel værdi
+Herredsvej 2734944 Fejø,Fejø,950.000,10-12-2006,Alm. Salg,6.737,6,Villa,141,1870,,Aktuel værdi
+Poppelstien 94944 Fejø,Fejø,650.000,10-12-2006,Alm. Salg,14.772,3,Sommerhus,44,1970,,Aktuel værdi
+Herredsvej 2004944 Fejø,Fejø,559.000,09-12-2006,Alm. Salg,3.677,6,Villa,152,1923,,Aktuel værdi
+Sletterodde 234944 Fejø,Fejø,850.000,24-11-2006,Alm. Salg,8.673,4,Sommerhus,98,1976,,Aktuel værdi
+Skovvej 264944 Fejø,Fejø,1.945.000,27-10-2006,Alm. Salg,6.706,5,Villa,290,1878,,Aktuel værdi
+Hjortemosevej 24944 Fejø,Fejø,635.000,05-10-2006,Alm. Salg,7.055,4,Villa,90,1908,,Aktuel værdi
+Herredsvej 424944 Fejø,Fejø,595.000,29-09-2006,Alm. Salg,6.010,3,Villa,99,1877,,Aktuel værdi
+Herredsvej 854944 Fejø,Fejø,725.000,28-09-2006,Alm. Salg,3.918,8,Villa,185,1923,,Aktuel værdi
+Nyvej 24944 Fejø,Fejø,725.000,21-09-2006,Alm. Salg,7.552,3,Villa,96,1987,,Aktuel værdi
+Lærkestien 134944 Fejø,Fejø,395.000,15-09-2006,Alm. Salg,9.875,3,Sommerhus,40,1990,,Aktuel værdi
+Sletterodde 174944 Fejø,Fejø,107.000,08-09-2006,Fam. Salg,1.844,4,Sommerhus,58,1968,,Aktuel værdi
+Herredsvej 234944 Fejø,Fejø,850.000,09-08-2006,Alm. Salg,5.279,4,Villa,161,1936,,Aktuel værdi
+Herredsvej 1874944 Fejø,Fejø,650.000,02-08-2006,Alm. Salg,3.591,5,Villa,181,1911,,Aktuel værdi
+Lærkestien 124944 Fejø,Fejø,595.000,25-07-2006,Alm. Salg,13.837,3,Sommerhus,43,1972,,Aktuel værdi
+Bøgestien 124944 Fejø,Fejø,760.000,19-07-2006,Alm. Salg,14.615,3,Sommerhus,52,1974,,Aktuel værdi
+Syrenstien 74944 Fejø,Fejø,290.000,19-07-2006,Alm. Salg,3.493,4,Sommerhus,83,2009,,Aktuel værdi
+Herredsvej 2204944 Fejø,Fejø,825.000,12-07-2006,Alm. Salg,7.500,4,Villa,110,1955,,Aktuel værdi
+Herredsvej 1894944 Fejø,Fejø,500.000,10-07-2006,Alm. Salg,3.333,5,Villa,150,1920,,Aktuel værdi
+Herredsvej 90A4944 Fejø,Fejø,500.000,07-07-2006,Alm. Salg,7.575,3,Rækkehus,66,1872,,Aktuel værdi
+Brigetvej 44944 Fejø,Fejø,600.000,21-06-2006,Alm. Salg,3.409,6,Villa,176,1850,,Aktuel værdi
+Herredsvej 2974944 Fejø,Fejø,960.000,16-06-2006,Alm. Salg,5.133,4,Villa,187,1827,,Aktuel værdi
+Elmestien 24944 Fejø,Fejø,585.000,30-05-2006,Alm. Salg,12.446,3,Sommerhus,47,1973,,Aktuel værdi
+Storemosevej 184944 Fejø,Fejø,900.000,26-05-2006,Alm. Salg,13.235,4,Stuehus,68,1948,,
+Granstien 24944 Fejø,Fejø,652.000,19-05-2006,Alm. Salg,13.040,3,Sommerhus,50,1978,,Aktuel værdi
+Herredsvej 894944 Fejø,Fejø,1.875.000,19-05-2006,Fam. Salg,4.562,11,Villa,411,1870,,Aktuel værdi
+Storemosevej 1154944 Fejø,Fejø,1.375.000,02-05-2006,Alm. Salg,5.566,8,Stuehus,247,1958,,
+Herredsvej 374944 Fejø,Fejø,585.000,24-04-2006,Alm. Salg,7.800,2,Sommerhus,75,1877,,Aktuel værdi
+Sletterodde 254944 Fejø,Fejø,544.000,24-04-2006,Fam. Salg,6.044,3,Sommerhus,90,1972,,Aktuel værdi
+Herredsvej 2494944 Fejø,Fejø,408.000,24-03-2006,Fam. Salg,2.472,4,Stuehus,165,1908,,
+Herredsvej 1634944 Fejø,Fejø,400.000,10-02-2006,Alm. Salg,3.571,4,Villa,112,1862,,Aktuel værdi
+Herredsvej 57C4944 Fejø,Fejø,75.000,11-01-2006,Alm. Salg,852,5,Villa,88,1914,,Aktuel værdi
+Hjortemosevej 264944 Fejø,Fejø,1.300.000,09-12-2005,Alm. Salg,5.652,7,Villa,230,1914,,Aktuel værdi
+Poppelstien 134944 Fejø,Fejø,165.000,14-11-2005,Alm. Salg,4.342,4,Sommerhus,38,2008,,Aktuel værdi
+Herredsvej 144944 Fejø,Fejø,400.000,11-11-2005,Alm. Salg,3.100,6,Villa,129,1927,,Aktuel værdi
+Herredsvej 1064944 Fejø,Fejø,365.500,27-10-2005,Alm. Salg,3.071,5,Villa,119,1872,,Aktuel værdi
+Sletterodde 114944 Fejø,Fejø,56.000,20-10-2005,Fam. Salg,800,4,Sommerhus,70,2006,,Aktuel værdi
+Herredsvej 1694944 Fejø,Fejø,750.000,10-10-2005,Alm. Salg,6.818,5,Villa,110,1896,,Aktuel værdi
+Strandvejen 19B4944 Fejø,Fejø,200.000,20-09-2005,Alm. Salg,3.225,4,Sommerhus,62,1960,,Aktuel værdi
+Herredsvej 2414944 Fejø,Fejø,285.000,15-09-2005,Alm. Salg,4.130,4,Rækkehus,69,1878,,Aktuel værdi
+Herredsvej 2434944 Fejø,Fejø,495.000,15-09-2005,Alm. Salg,10.312,2,Sommerhus,48,1770,,Aktuel værdi
+Lærkestien 104944 Fejø,Fejø,500.000,13-09-2005,Alm. Salg,7.352,2,Sommerhus,68,1979,,Aktuel værdi
+Strandvejen 74944 Fejø,Fejø,195.000,12-09-2005,Alm. Salg,2.867,2,Sommerhus,68,1958,,Aktuel værdi
+Herredsvej 2214944 Fejø,Fejø,880.000,28-08-2005,Alm. Salg,5.500,6,Villa,160,1777,,Aktuel værdi
+Kagevigsvej 104944 Fejø,Fejø,650.000,28-08-2005,Alm. Salg,8.666,3,Villa,75,1960,,Aktuel værdi
+Herredsvej 1264944 Fejø,Fejø,7.355.418,07-08-2005,Alm. Salg,39.759,6,Stuehus,185,1912,,
+Engstien 14944 Fejø,Fejø,775.000,06-08-2005,Alm. Salg,10.763,3,Sommerhus,72,1974,,Aktuel værdi
+Degnemosevej 54944 Fejø,Fejø,1.152.000,02-08-2005,Alm. Salg,6.776,6,Villa,170,1875,,Aktuel værdi
+Herredsvej 624944 Fejø,Fejø,605.000,05-07-2005,Alm. Salg,4.801,3,Sommerhus,126,1902,,Aktuel værdi
+Rosenstien 14944 Fejø,Fejø,695.000,29-06-2005,Alm. Salg,10.692,4,Sommerhus,65,1965,,Aktuel værdi
+Fyrrestien 84944 Fejø,Fejø,100.000,19-06-2005,Alm. Salg,1.333,4,Sommerhus,75,2006,,Aktuel værdi
+Storemosevej 1044944 Fejø,Fejø,450.000,16-06-2005,Alm. Salg,3.629,5,Sommerhus,124,1896,,Aktuel værdi
+Herredsvej 2394944 Fejø,Fejø,191.500,12-06-2005,Fam. Salg,1.994,5,Sommerhus,96,1800,,Aktuel værdi
+Tuborgvej 14944 Fejø,Fejø,300.000,05-06-2005,Alm. Salg,2.500,5,Villa,120,1960,,Aktuel værdi
+Poppelstien 114944 Fejø,Fejø,500.000,31-05-2005,Alm. Salg,8.333,4,Sommerhus,60,1971,,Aktuel værdi
+Rosenstien 74944 Fejø,Fejø,200.000,23-05-2005,Alm. Salg,3.225,3,Sommerhus,62,2013,,Aktuel værdi
+Herredsvej 184944 Fejø,Fejø,800.000,29-04-2005,Alm. Salg,4.020,7,Villa,199,1931,,Aktuel værdi
+Tuborgvej 44944 Fejø,Fejø,571.000,08-04-2005,Alm. Salg,10.381,3,Sommerhus,55,1970,,Aktuel værdi
+Poppelstien 54944 Fejø,Fejø,400.000,01-04-2005,Fam. Salg,4.494,3,Sommerhus,89,1980,,Aktuel værdi
+Herredsvej 57D4944 Fejø,Fejø,1.200.000,31-03-2005,Alm. Salg,11.428,5,Stuehus,105,1958,,
+Herredsvej 1304944 Fejø,Fejø,680.000,31-01-2005,Alm. Salg,5.230,4,Villa,130,1914,,Aktuel værdi
+Andemosevej 134944 Fejø,Fejø,471.467,31-01-2005,Alm. Salg,5.419,3,Villa,87,1908,,Aktuel værdi
+Tuborgvej 124944 Fejø,Fejø,246.500,27-01-2005,Fam. Salg,4.108,3,Sommerhus,60,1973,,Aktuel værdi
+Nøddestien 74944 Fejø,Fejø,685.000,05-01-2005,Alm. Salg,7.965,4,Sommerhus,86,1973,,Aktuel værdi
+Herredsvej 2594944 Fejø,Fejø,1.850.000,03-01-2005,Alm. Salg,8.486,9,Villa,218,1900,,Aktuel værdi
+Sletterbo 144944 Fejø,Fejø,565.000,03-01-2005,Alm. Salg,10.272,3,Sommerhus,55,1971,,Aktuel værdi
+Storemosevej 944944 Fejø,Fejø,506.556,13-12-2004,Alm. Salg,2.979,5,Stuehus,170,1900,,
+Strandvejen 54944 Fejø,Fejø,750.000,06-12-2004,Alm. Salg,-,7,Villa,173,1946,,Aktuel værdi
+Herredsvej 3004944 Fejø,Fejø,500.000,16-11-2004,Alm. Salg,2.577,7,Villa,194,1936,,Aktuel værdi
+Hjortemosevej 84944 Fejø,Fejø,316.000,13-11-2004,Alm. Salg,3.291,4,Rækkehus,96,1827,,Aktuel værdi
+Herredsvej 94944 Fejø,Fejø,220.000,01-11-2004,Alm. Salg,2.820,3,Villa,78,1970,,Aktuel værdi
+Andemosevej 34944 Fejø,Fejø,610.000,12-10-2004,Alm. Salg,6.777,3,Rækkehus,90,1877,,Aktuel værdi
+Skaløvej 54944 Fejø,Fejø,850.000,04-10-2004,Alm. Salg,10.625,3,Villa,80,1997,,Aktuel værdi
+Fyrrestien 54944 Fejø,Fejø,250.000,27-09-2004,Alm. Salg,5.952,2,Sommerhus,42,1978,,Aktuel værdi
+Skovvej 44944 Fejø,Fejø,190.000,27-09-2004,Alm. Salg,3.166,2,Villa,60,1827,,Aktuel værdi
+Fyrrestien 124944 Fejø,Fejø,559.000,21-09-2004,Alm. Salg,6.987,4,Sommerhus,80,1986,,Aktuel værdi
+Slettervig 24944 Fejø,Fejø,460.000,28-06-2004,Alm. Salg,8.518,4,Sommerhus,54,1981,,Aktuel værdi
+Herredsvej 34944 Fejø,Fejø,330.000,25-06-2004,Fam. Salg,3.437,4,Villa,96,1911,,Aktuel værdi
+Herredsvej 1134944 Fejø,Fejø,465.000,14-06-2004,Alm. Salg,2.906,5,Villa,160,1927,,Aktuel værdi
+Herredsvej 12A4944 Fejø,Fejø,660.000,27-05-2004,Alm. Salg,5.840,4,Villa,113,1977,,Aktuel værdi
+Skaløvej 334944 Fejø,Fejø,1.400.000,12-04-2004,Alm. Salg,8.092,6,Sommerhus,173,2002,,Aktuel værdi
+Rosenstien 34944 Fejø,Fejø,567.000,03-04-2004,Alm. Salg,8.462,4,Sommerhus,67,1975,,Aktuel værdi
+Dybvigvej 414944 Fejø,Fejø,231.769,24-03-2004,Alm. Salg,1.545,6,Villa,150,1900,,Aktuel værdi
+Poppelstien 84944 Fejø,Fejø,100.000,29-12-2003,Fam. Salg,2.564,2,Sommerhus,39,1969,,Aktuel værdi
+Herredsvej 57F4944 Fejø,Fejø,160.000,27-11-2003,Alm. Salg,-,3,Villa,100,1875,,Aktuel værdi
+Elmestien 84944 Fejø,Fejø,400.000,20-10-2003,Alm. Salg,6.250,3,Sommerhus,64,1974,,Aktuel værdi
+Slettervej 444944 Fejø,Fejø,750.000,29-09-2003,Alm. Salg,5.000,5,Villa,150,1969,,Aktuel værdi
+Dybvigvej 184944 Fejø,Fejø,350.000,09-09-2003,Alm. Salg,4.375,6,Villa,80,1890,,Aktuel værdi
+Herredsvej 124944 Fejø,Fejø,825.000,25-08-2003,Alm. Salg,4.824,5,Villa,171,1972,,Aktuel værdi
+Bøgestien 24944 Fejø,Fejø,320.000,12-08-2003,Alm. Salg,6.153,3,Sommerhus,52,1971,,Aktuel værdi
+Herredsvej 264944 Fejø,Fejø,275.000,29-07-2003,Alm. Salg,2.083,2,Villa,132,1850,,Aktuel værdi
+Slettervig 74944 Fejø,Fejø,540.000,21-07-2003,Alm. Salg,8.852,3,Sommerhus,61,1974,,Aktuel værdi
+Herredsvej 2914944 Fejø,Fejø,295.000,17-07-2003,Alm. Salg,4.916,2,Villa,60,1857,,Aktuel værdi
+Birkestien 74944 Fejø,Fejø,110.000,15-07-2003,Fam. Salg,2.000,3,Sommerhus,55,1972,,Aktuel værdi
+Storemosevej 604944 Fejø,Fejø,325.000,18-06-2003,Alm. Salg,1.993,6,Villa,163,1777,,Aktuel værdi
+Dybvigvej 164944 Fejø,Fejø,272.000,18-06-2003,Fam. Salg,2.833,6,Villa,96,1932,,Aktuel værdi
+Kirkevej 404944 Fejø,Fejø,655.000,18-06-2003,Alm. Salg,6.121,4,Villa,107,1877,,Aktuel værdi
+Herredsvej 2234944 Fejø,Fejø,320.000,07-05-2003,Fam. Salg,2.666,4,Villa,120,1850,,Aktuel værdi
+Skovvej 54944 Fejø,Fejø,350.000,04-04-2003,Alm. Salg,2.822,4,Villa,124,1930,,Aktuel værdi
+Storemosevej 44944 Fejø,Fejø,750.000,24-03-2003,Alm. Salg,7.500,3,Villa,100,1880,,Aktuel værdi
+Elmestien 74944 Fejø,Fejø,325.000,24-03-2003,Alm. Salg,10.483,1,Sommerhus,31,1986,,Aktuel værdi
+Dybvigvej 454944 Fejø,Fejø,675.000,12-03-2003,Alm. Salg,5.000,6,Lejlighed,135,1920,,Aktuel værdi
+Herredsvej 2584944 Fejø,Fejø,250.000,25-02-2003,Alm. Salg,2.873,3,Villa,87,1777,,Aktuel værdi
+Kløverstien 14944 Fejø,Fejø,170.000,16-01-2003,Alm. Salg,1.770,2,Sommerhus,96,1971,,Aktuel værdi
+Brigetvej 24944 Fejø,Fejø,150.000,09-12-2002,Fam. Salg,1.829,4,Rækkehus,82,1847,,Aktuel værdi
+Skaløvej 464944 Fejø,Fejø,4.000.000,09-12-2002,Alm. Salg,13.559,10,Stuehus,295,1877,,
+Dybvigvej 14944 Fejø,Fejø,575.000,08-12-2002,Alm. Salg,3.549,5,Villa,162,1880,,Aktuel værdi
+Elmestien 14944 Fejø,Fejø,35.000,27-11-2002,Alm. Salg,564,3,Sommerhus,62,2004,,Aktuel værdi
+Herredsvej 1324944 Fejø,Fejø,600.000,27-11-2002,Alm. Salg,3.296,6,Villa,182,1909,,Aktuel værdi
+Herredsvej 2154944 Fejø,Fejø,361.420,25-11-2002,Alm. Salg,3.725,6,Villa,97,1912,,Aktuel værdi
+Herredsvej 1274944 Fejø,Fejø,221.000,25-11-2002,Fam. Salg,2.600,3,Sommerhus,85,1900,,Aktuel værdi
+Herredsvej 1254944 Fejø,Fejø,300.000,14-11-2002,Alm. Salg,-,3,Villa,80,1928,,Aktuel værdi
+Hjortemosevej 304944 Fejø,Fejø,626.253,08-11-2002,Alm. Salg,4.970,5,Villa,126,1919,,Aktuel værdi
+Herredsvej 1234944 Fejø,Fejø,350.000,08-11-2002,Alm. Salg,2.333,6,Villa,150,1911,,Aktuel værdi
+Storemosevej 224944 Fejø,Fejø,599.324,10-10-2002,Alm. Salg,3.057,7,Villa,196,1935,,Aktuel værdi
+Sletterbo 114944 Fejø,Fejø,200.000,16-09-2002,Alm. Salg,4.761,3,Sommerhus,42,1972,,Aktuel værdi
+Dybvigvej 514944 Fejø,Fejø,200.000,15-08-2002,Fam. Salg,2.500,3,Villa,80,1909,,Aktuel værdi
+Syrenstien 94944 Fejø,Fejø,245.000,31-07-2002,Alm. Salg,-,5,Sommerhus,60,1970,,Aktuel værdi
+Skovvej 234944 Fejø,Fejø,385.000,28-07-2002,Alm. Salg,4.812,3,Sommerhus,80,1860,,Aktuel værdi
+Strandvejen 34944 Fejø,Fejø,470.000,15-07-2002,Alm. Salg,3.455,5,Villa,136,1969,,Aktuel værdi
+Herredsvej 1974944 Fejø,Fejø,385.000,04-07-2002,Alm. Salg,3.500,4,Villa,110,1959,,Aktuel værdi
+Syrenstien 144944 Fejø,Fejø,575.000,27-06-2002,Alm. Salg,6.845,5,Sommerhus,84,1972,,Aktuel værdi
+Herredsvej 1044944 Fejø,Fejø,315.000,17-06-2002,Alm. Salg,3.579,4,Villa,88,1900,,Aktuel værdi
+Dybvigvej 434944 Fejø,Fejø,400.574,11-05-2002,Alm. Salg,3.641,4,Villa,110,1939,,Aktuel værdi
+Skaløvej 374944 Fejø,Fejø,1.950.000,18-04-2002,Alm. Salg,12.187,4,Stuehus,160,1970,,
+Andemosevej 64944 Fejø,Fejø,149.602,14-04-2002,Alm. Salg,1.994,3,Rækkehus,75,1897,,Aktuel værdi
+Elmestien 44944 Fejø,Fejø,395.000,12-04-2002,Alm. Salg,6.171,4,Sommerhus,64,1977,,Aktuel værdi
+Dommervej 54944 Fejø,Fejø,370.505,26-03-2002,Alm. Salg,2.872,4,Villa,129,1934,,Aktuel værdi
+Herredsvej 2774944 Fejø,Fejø,225.000,10-12-2001,Alm. Salg,2.777,3,Villa,81,1947,,Aktuel værdi
+Lærkestien 64944 Fejø,Fejø,120.000,10-12-2001,Alm. Salg,1.904,3,Sommerhus,63,1969,,Aktuel værdi
+Herredsvej 57E4944 Fejø,Fejø,120.000,30-11-2001,Alm. Salg,1.263,2,Villa,95,1900,,Aktuel værdi
+Andemosevej 114944 Fejø,Fejø,275.000,29-10-2001,Alm. Salg,3.235,3,Villa,85,1903,,Aktuel værdi
+Herredsvej 2604944 Fejø,Fejø,140.000,20-09-2001,Alm. Salg,2.058,4,Villa,68,1900,,Aktuel værdi
+Sletterodde 54944 Fejø,Fejø,316.000,14-09-2001,Alm. Salg,-,5,Sommerhus,103,1967,,Aktuel værdi
+Herredsvej 57I4944 Fejø,Fejø,337.536,29-08-2001,Alm. Salg,3.309,6,Villa,102,1900,,Aktuel værdi
+Herredsvej 2794944 Fejø,Fejø,235.000,30-07-2001,Fam. Salg,581,9,Villa,404,1900,,Aktuel værdi
+Fyrrestien 44944 Fejø,Fejø,33.500,05-07-2001,Alm. Salg,985,2,Sommerhus,34,2005,,Aktuel værdi
+Syrenstien 134944 Fejø,Fejø,200.000,19-06-2001,Alm. Salg,3.225,3,Sommerhus,62,1970,,Aktuel værdi
+Vestergårdsvej 34944 Fejø,Fejø,80.000,18-06-2001,Alm. Salg,1.600,3,Sommerhus,50,1827,,Aktuel værdi
+Storemosevej 14944 Fejø,Fejø,177.500,16-06-2001,Alm. Salg,3.944,2,Sommerhus,45,1827,,Aktuel værdi
+Herredsvej 2644944 Fejø,Fejø,331.180,18-05-2001,Andet,1.839,8,Sommerhus,180,1897,,Aktuel værdi
+Herredsvej 100A4944 Fejø,Fejø,605.000,23-03-2001,Alm. Salg,3.601,5,Villa,168,1976,,Aktuel værdi
+Kirkevej 154944 Fejø,Fejø,300.000,15-03-2001,Alm. Salg,3.409,4,Villa,88,1949,,Aktuel værdi
+Hjortemosevej 14944 Fejø,Fejø,380.854,13-02-2001,Alm. Salg,4.095,6,Villa,93,1917,,Aktuel værdi
+Poppelstien 224944 Fejø,Fejø,85.000,15-01-2001,Alm. Salg,1.133,3,Sommerhus,75,2002,,Aktuel værdi
+Lærkestien 94944 Fejø,Fejø,107.974,04-01-2001,Alm. Salg,-,5,Sommerhus,93,1971,,Aktuel værdi
+Herredsvej 2194944 Fejø,Fejø,283.000,08-11-2000,Alm. Salg,2.830,4,Villa,100,1905,,Aktuel værdi
+Degnemosevej 204944 Fejø,Fejø,336.092,26-10-2000,Alm. Salg,2.646,5,Villa,127,1956,,Aktuel værdi
+Herredsvej 1094944 Fejø,Fejø,200.000,10-09-2000,Alm. Salg,2.222,3,Villa,90,1930,,Aktuel værdi
+Herredsvej 864944 Fejø,Fejø,270.000,24-08-2000,Alm. Salg,3.375,4,Rækkehus,80,1877,,Aktuel værdi
+Sletterodde 294944 Fejø,Fejø,350.000,21-07-2000,Alm. Salg,-,3,Sommerhus,49,1966,,Aktuel værdi
+Dybvigvej 244944 Fejø,Fejø,390.000,15-07-2000,Alm. Salg,6.500,3,Villa,60,1912,,Aktuel værdi
+Tuborgvej 104944 Fejø,Fejø,294.270,29-06-2000,Alm. Salg,3.976,4,Sommerhus,74,1973,,Aktuel værdi
+Poppelstien 244944 Fejø,Fejø,500.000,06-06-2000,Alm. Salg,8.928,2,Sommerhus,56,1976,,Aktuel værdi
+Æblestien 44944 Fejø,Fejø,30.000,19-04-2000,Alm. Salg,405,3,Sommerhus,74,2002,,Aktuel værdi
+Sletterodde 134944 Fejø,Fejø,160.000,31-01-2000,Alm. Salg,1.632,3,Sommerhus,98,1971,,Aktuel værdi
+Slettervej 494944 Fejø,Fejø,100.000,14-01-2000,Fam. Salg,714,5,Sommerhus,140,1870,,Aktuel værdi
+Herredsvej 1434944 Fejø,Fejø,90.000,03-01-2000,Alm. Salg,666,6,Stuehus,135,1870,,
+Syrenstien 54944 Fejø,Fejø,320.000,21-12-1999,Alm. Salg,5.333,4,Sommerhus,60,1971,,Aktuel værdi
+Bøgestien 134944 Fejø,Fejø,329.000,21-11-1999,Alm. Salg,4.768,4,Villa,69,1976,,Aktuel værdi
+Herredsvej 2274944 Fejø,Fejø,230.000,03-11-1999,Alm. Salg,1.666,5,Villa,138,1863,,Aktuel værdi
+Elmestien 64944 Fejø,Fejø,248.000,25-10-1999,Fam. Salg,4.350,3,Sommerhus,57,1972,,Aktuel værdi
+Herredsvej 514944 Fejø,Fejø,640.000,05-10-1999,Alm. Salg,4.671,1,Villa,137,1979,,Aktuel værdi
+Herredsvej 1834944 Fejø,Fejø,175.000,29-09-1999,Alm. Salg,1.902,4,Villa,92,1935,,Aktuel værdi
+Herredsvej 2564944 Fejø,Fejø,220.000,27-09-1999,Alm. Salg,2.750,3,Villa,80,1957,,Aktuel værdi
+Storemosevej 204944 Fejø,Fejø,44.692,12-09-1999,Alm. Salg,475,3,Stuehus,94,1934,,
+Herredsvej 251A4944 Fejø,Fejø,159.945,30-07-1999,Alm. Salg,1.454,4,Villa,110,1877,,Aktuel værdi
+Herredsvej 57H4944 Fejø,Fejø,180.000,05-07-1999,Alm. Salg,2.337,5,Villa,77,1950,,Aktuel værdi
+Dommervej 114944 Fejø,Fejø,318.000,25-06-1999,Alm. Salg,4.746,4,Villa,67,1934,,Aktuel værdi
+Herredsvej 1024944 Fejø,Fejø,50.000,09-03-1999,Fam. Salg,500,5,Villa,100,1877,,Aktuel værdi
+Sletterodde 84944 Fejø,Fejø,205.000,09-03-1999,Alm. Salg,3.253,3,Sommerhus,63,1978,,Aktuel værdi
+Herredsvej 2754944 Fejø,Fejø,470.400,08-03-1999,Alm. Salg,3.094,4,Villa,152,1887,,Aktuel værdi
+Slettervig 44944 Fejø,Fejø,49.000,22-02-1999,Fam. Salg,830,3,Sommerhus,59,1979,,Aktuel værdi
+Vestergårdsvej 14944 Fejø,Fejø,200.000,01-02-1999,Alm. Salg,-,5,Villa,244,1910,,Aktuel værdi
+Poppelstien 64944 Fejø,Fejø,195.000,30-11-1998,Alm. Salg,-,5,Sommerhus,76,1981,,Aktuel værdi
+Herredsvej 1184944 Fejø,Fejø,185.737,28-09-1998,Alm. Salg,1.485,2,Villa,125,1857,,Aktuel værdi
+Nyvej 14944 Fejø,Fejø,478.000,14-09-1998,Alm. Salg,3.414,4,Villa,140,1978,,Aktuel værdi
+Herredsvej 2474944 Fejø,Fejø,255.000,07-09-1998,Fam. Salg,2.297,3,Villa,111,1877,,Aktuel værdi
+Sletterodde 44944 Fejø,Fejø,290.260,17-08-1998,Alm. Salg,5.375,3,Sommerhus,54,1970,,Aktuel værdi
+Storemosevej 344944 Fejø,Fejø,259.440,10-08-1998,Alm. Salg,-,4,Villa,102,1777,,Aktuel værdi
+Herredsvej 2554944 Fejø,Fejø,184.337,01-08-1998,Alm. Salg,2.671,3,Villa,69,1850,,Aktuel værdi
+Syrenstien 124944 Fejø,Fejø,220.000,29-06-1998,Fam. Salg,2.750,3,Sommerhus,80,1971,,Aktuel værdi
+Slettervig 114944 Fejø,Fejø,268.300,18-06-1998,Alm. Salg,2.981,6,Sommerhus,90,1971,,Aktuel værdi
+Herredsvej 1114944 Fejø,Fejø,182.587,05-06-1998,Alm. Salg,-,3,Villa,118,1910,,Aktuel værdi
+Storemosevej 324944 Fejø,Fejø,630.000,18-05-1998,Alm. Salg,6.176,3,Stuehus,102,1936,,
+Skovvej 334944 Fejø,Fejø,870.000,02-04-1998,Fam. Salg,4.578,9,Stuehus,190,1850,,
+Hjortemosevej 414944 Fejø,Fejø,440.000,09-03-1998,Alm. Salg,-,8,Villa,190,1896,,Aktuel værdi
+Skovvej 154944 Fejø,Fejø,200.000,14-12-1997,Fam. Salg,1.369,4,Villa,146,1950,,Aktuel værdi
+Herredsvej 86B4944 Fejø,Fejø,110.000,08-12-1997,Alm. Salg,1.279,3,Rækkehus,86,1827,,Aktuel værdi
+Birkestien 44944 Fejø,Fejø,70.000,08-12-1997,Alm. Salg,1.666,2,Sommerhus,42,1972,,Aktuel værdi
+Herredsvej 1194944 Fejø,Fejø,200.000,11-10-1997,Fam. Salg,1.960,5,Villa,102,1909,,Aktuel værdi
+Dybvigvej 404944 Fejø,Fejø,75.000,03-10-1997,Alm. Salg,480,6,Sommerhus,156,1894,,Aktuel værdi
+Elmestien 94944 Fejø,Fejø,60.000,01-10-1997,Alm. Salg,845,5,Sommerhus,71,2001,,Aktuel værdi
+Herredsvej 2244944 Fejø,Fejø,40.000,15-09-1997,Alm. Salg,370,2,Villa,108,1911,,Aktuel værdi
+Elmestien 124944 Fejø,Fejø,60.000,18-07-1997,Alm. Salg,779,3,Sommerhus,77,2000,,Aktuel værdi
+Storemosevej 854944 Fejø,Fejø,490.000,04-06-1997,Alm. Salg,2.149,6,Villa,228,1877,,Aktuel værdi
+Birkestien 134944 Fejø,Fejø,180.000,21-02-1997,Alm. Salg,3.396,4,Sommerhus,53,1970,,Aktuel værdi
+Dybvigvej 144944 Fejø,Fejø,297.500,20-09-1996,Fam. Salg,1.781,7,Villa,167,1926,,Aktuel værdi
+Herredsvej 224944 Fejø,Fejø,195.000,18-09-1996,Alm. Salg,-,4,Villa,125,1950,,Aktuel værdi
+Herredsvej 774944 Fejø,Fejø,110.000,27-06-1996,Fam. Salg,-,8,Villa,135,1910,,Aktuel værdi
+Dybvigvej 224944 Fejø,Fejø,424.000,20-06-1996,Alm. Salg,2.683,5,Villa,158,1972,,Aktuel værdi
+Herredsvej 2534944 Fejø,Fejø,37.565,10-06-1996,Alm. Salg,799,2,Sommerhus,47,1827,,Aktuel værdi
+Dybvigvej 374944 Fejø,Fejø,130.000,30-05-1996,Alm. Salg,844,4,Villa,154,1913,,Aktuel værdi
+Slettervej 124944 Fejø,Fejø,1.300.000,25-02-1996,Alm. Salg,6.220,6,Stuehus,209,1889,,
+Herredsvej 2354944 Fejø,Fejø,180.000,22-01-1996,Alm. Salg,-,5,Villa,123,1890,,Aktuel værdi
+Hjortemosevej 104944 Fejø,Fejø,150.000,18-01-1996,Alm. Salg,2.307,3,Villa,65,1850,,Aktuel værdi
+Herredsvej 1814944 Fejø,Fejø,370.000,27-11-1995,Alm. Salg,2.803,5,Villa,132,1976,,Aktuel værdi
+Herredsvej 2944944 Fejø,Fejø,110.000,04-09-1995,Alm. Salg,1.309,4,Rækkehus,84,1900,,Aktuel værdi
+Dommervej 44944 Fejø,Fejø,260.000,21-07-1995,Alm. Salg,3.333,3,Sommerhus,78,1937,,Aktuel værdi
+Herredsvej 2894944 Fejø,Fejø,200.000,18-05-1995,Alm. Salg,1.000,7,Sommerhus,200,1930,,Aktuel værdi
+Sletterbo 134944 Fejø,Fejø,411.000,15-05-1995,Fam. Salg,7.210,2,Sommerhus,57,1974,,Aktuel værdi
+Andemosevej 174944 Fejø,Fejø,600.000,29-03-1995,Fam. Salg,6.000,6,Stuehus,100,1840,,
+Sletterbo 164944 Fejø,Fejø,352.000,09-03-1995,Alm. Salg,-,6,Sommerhus,115,1980,,Aktuel værdi
+Dybvigvej 384944 Fejø,Fejø,187.000,07-09-1994,Alm. Salg,1.438,6,Villa,130,1893,,Aktuel værdi
+Bøgestien 34944 Fejø,Fejø,190.000,20-06-1994,Alm. Salg,4.318,3,Villa,44,1971,,Aktuel værdi
+Herredsvej 1944944 Fejø,Fejø,139.102,19-05-1994,Andet,965,10,Villa,144,1935,,Aktuel værdi
+Herredsvej 1344944 Fejø,Fejø,134.030,31-01-1994,Fam. Salg,2.271,3,Villa,59,1920,,Aktuel værdi
+Herredsvej 1314944 Fejø,Fejø,328.415,21-09-1993,Alm. Salg,2.487,5,Villa,132,1941,,Aktuel værdi
+Rosenstien 54944 Fejø,Fejø,55.000,26-06-1993,Alm. Salg,948,1,Sommerhus,58,1967,,Aktuel værdi
+Bøgestien 114944 Fejø,Fejø,130.000,22-06-1993,Alm. Salg,1.547,3,Sommerhus,84,1969,,Aktuel værdi
+Herredsvej 804944 Fejø,Fejø,200.000,27-05-1993,Alm. Salg,2.083,3,Villa,96,1900,,Aktuel værdi
+Gl. Smedievej 124944 Fejø,Fejø,275.000,24-05-1993,Alm. Salg,-,4,Villa,180,1930,,Aktuel værdi
+Herredsvej 3034944 Fejø,Fejø,285.000,24-02-1993,Alm. Salg,1.925,6,Villa,148,1945,,Aktuel værdi
+Slettervig 144944 Fejø,Fejø,230.000,07-01-1993,Alm. Salg,6.052,4,Sommerhus,38,1973,,Aktuel værdi
+Herredsvej 814944 Fejø,Fejø,165.000,26-09-1992,Alm. Salg,1.447,3,Villa,114,1900,,Aktuel værdi
+Avernakkevej 64944 Fejø,Fejø,914.000,14-09-1992,Fam. Salg,5.222,8,Stuehus,175,1727,,
+Herredsvej 2124944 Fejø,Fejø,350.000,23-07-1992,Alm. Salg,3.763,3,Villa,93,1964,,Aktuel værdi
+Skovvej 174944 Fejø,Fejø,300.000,16-06-1992,Alm. Salg,2.343,3,Villa,128,1906,,Aktuel værdi
+Herredsvej 604944 Fejø,Fejø,1.600.000,15-06-1992,Alm. Salg,13.333,4,Stuehus,120,1845,,
+Storemosevej 1024944 Fejø,Fejø,180.000,28-05-1992,Alm. Salg,-,5,Sommerhus,104,1850,,Aktuel værdi
+Herredsvej 2424944 Fejø,Fejø,150.000,12-03-1992,Alm. Salg,750,7,Stuehus,200,1931,,
+Slettervig 184944 Fejø,Fejø,60.000,11-03-1992,Alm. Salg,1.200,3,Sommerhus,50,1966,,Aktuel værdi
+Slettervej 394944 Fejø,Fejø,807.500,10-03-1992,Alm. Salg,5.726,6,Stuehus,141,1863,,
+Herredsvej 314944 Fejø,Fejø,280.000,25-02-1992,Fam. Salg,1.284,9,Stuehus,218,1898,,
+Herredsvej 2984944 Fejø,Fejø,37.090,16-02-1992,Fam. Salg,463,4,Villa,80,1877,,Aktuel værdi
+Dybvigvej 154944 Fejø,Fejø,355.000,31-01-1992,Alm. Salg,2.840,3,Villa,125,1934,,Aktuel værdi
+Slettervig 164944 Fejø,Fejø,175.000,23-01-1992,Alm. Salg,1.666,4,Sommerhus,105,1969,,Aktuel værdi
+Herredsvej 2744944 Fejø,Fejø,225.000,09-01-1992,Alm. Salg,4.017,2,Sommerhus,56,1889,,Aktuel værdi

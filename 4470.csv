@@ -1,0 +1,897 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Parcelvej 64470 Svebølle,ølle,1.000.000,26-04-2017,Andet,7.936,4,Villa,126,1923,,Aktuel værdi
+Gl Skovvej 1D4470 Svebølle,ølle,175.000,11-04-2017,Alm. Salg,1.129,5,Villa,155,1900,,Aktuel værdi
+Pilekrogen 194470 Svebølle,ølle,50.000,27-03-2017,Alm. Salg,649,3,Villa,77,1967,-83 %,Aktuel værdi
+Hovedgaden 114470 Svebølle,ølle,1.100.000,22-03-2017,Alm. Salg,7.586,6,Villa,145,1946,-24 %,Aktuel værdi
+Skolevænget 114470 Svebølle,ølle,1.050.000,17-03-2017,Alm. Salg,6.140,5,Villa,171,1969,,Aktuel værdi
+Kalundborgvej 664470 Svebølle,ølle,390.000,16-03-2017,Alm. Salg,3.451,3,Villa,113,1910,-27 %,Aktuel værdi
+Åvej 14470 Svebølle,ølle,1.200.000,13-03-2017,Alm. Salg,10.000,6,Villa,120,1937,-6 %,Aktuel værdi
+Azaleavej 54470 Svebølle,ølle,1.220.000,17-02-2017,Alm. Salg,11.296,4,Rækkehus,108,2007,-6 %,Aktuel værdi
+Øresøvej 104470 Svebølle,ølle,1.000.000,01-02-2017,Andet,9.090,6,Villa,110,1937,-17 %,Aktuel værdi
+Jorløsevej 114470 Svebølle,ølle,690.000,09-01-2017,Alm. Salg,6.969,2,Villa,99,1915,-7 %,Aktuel værdi
+Fabrikvej 24470 Svebølle,ølle,1.195.000,02-01-2017,Alm. Salg,7.913,6,Villa,151,1945,-8 %,Aktuel værdi
+Lavendelvej 374470 Svebølle,ølle,822.403,19-12-2016,Alm. Salg,7.029,4,Villa,117,2006,,Aktuel værdi
+Fabrikvej 14470 Svebølle,ølle,350.000,13-12-2016,Alm. Salg,3.535,4,Villa,99,1915,-11 %,Aktuel værdi
+Jernbanevej 264470 Svebølle,ølle,845.000,30-11-2016,Alm. Salg,6.869,5,Villa,123,1916,-14 %,Aktuel værdi
+Rosenhaven 204470 Svebølle,ølle,560.000,28-11-2016,Alm. Salg,6.913,4,Rækkehus,81,1977,,Aktuel værdi
+Kildevej 104470 Svebølle,ølle,1.295.000,22-11-2016,Alm. Salg,8.248,5,Villa,157,1974,-4 %,Aktuel værdi
+Stendyssevej 64470 Svebølle,ølle,1.240.000,16-11-2016,Alm. Salg,7.045,6,Villa,176,1967,-13 %,Aktuel værdi
+Skolelodden 74470 Svebølle,ølle,945.000,11-11-2016,Alm. Salg,7.500,4,Villa,126,1930,-5 %,Aktuel værdi
+Anemonevej 334470 Svebølle,ølle,972.000,08-10-2016,Alm. Salg,7.653,3,Villa,127,1979,,Aktuel værdi
+Nordvestvej 84470 Svebølle,ølle,640.000,20-09-2016,Andet,5.120,3,Villa,125,1928,,Aktuel værdi
+Bregningevej 314470 Svebølle,ølle,5.757.768,06-09-2016,Alm. Salg,30.955,9,Stuehus,186,1900,,
+Skolevænget 404470 Svebølle,ølle,431.000,05-09-2016,Auktion,3.954,4,Villa,109,1971,-46 %,Aktuel værdi
+Parcelvej 54470 Svebølle,ølle,485.000,31-08-2016,Alm. Salg,4.663,4,Villa,104,1934,-8 %,Aktuel værdi
+Højbjergvej 224470 Svebølle,ølle,700.000,31-08-2016,Alm. Salg,7.954,2,Villa,88,1965,-12 %,Aktuel værdi
+Frederiksberg 474470 Svebølle,ølle,950.000,25-08-2016,Alm. Salg,5.459,5,Villa,174,1965,,Aktuel værdi
+Jorløse Byvej 344470 Svebølle,ølle,440.000,31-07-2016,Alm. Salg,6.285,3,Villa,70,1965,-11 %,Aktuel værdi
+Anemonevej 184470 Svebølle,ølle,985.000,29-07-2016,Alm. Salg,7.576,3,Villa,130,1980,-6 %,Aktuel værdi
+Frederiksberg 204470 Svebølle,ølle,825.000,22-07-2016,Alm. Salg,7.568,2,Villa,109,1948,-2 %,Aktuel værdi
+Kalundborgvej 874470 Svebølle,ølle,382.500,19-07-2016,Fam. Salg,3.574,3,Villa,107,1941,,Aktuel værdi
+Kildevej 74470 Svebølle,ølle,1.175.000,15-07-2016,Alm. Salg,8.901,4,Villa,132,1976,0 %,Aktuel værdi
+Kalundborgvej 734470 Svebølle,ølle,237.000,28-06-2016,Alm. Salg,1.453,6,Villa,163,1928,,Aktuel værdi
+Jernbanevej 64470 Svebølle,ølle,600.000,22-06-2016,Alm. Salg,4.054,11,Villa,148,1937,-14 %,Aktuel værdi
+Frederiksberg 394470 Svebølle,ølle,327.500,13-06-2016,Auktion,2.154,4,Villa,152,1964,,Aktuel værdi
+Frederiksberg 104470 Svebølle,ølle,950.000,12-06-2016,Alm. Salg,9.500,4,Villa,100,1935,-13 %,Aktuel værdi
+Nordvestvej 24470 Svebølle,ølle,600.000,03-06-2016,Alm. Salg,5.309,4,Villa,113,1927,-25 %,Aktuel værdi
+Madesøvej 154470 Svebølle,ølle,700.000,31-05-2016,Alm. Salg,5.833,4,Villa,120,1933,-12 %,Aktuel værdi
+Platanhaven 224470 Svebølle,ølle,465.000,31-05-2016,Alm. Salg,3.576,5,Rækkehus,130,1976,-15 %,Aktuel værdi
+Lavendelvej 234470 Svebølle,ølle,1.083.500,27-05-2016,Alm. Salg,7.472,5,Villa,145,2007,,Aktuel værdi
+Jorløsevej 34470 Svebølle,ølle,625.000,23-05-2016,Alm. Salg,6.443,4,Villa,97,1800,-16 %,Aktuel værdi
+Kirkebakken 34470 Svebølle,ølle,300.000,09-05-2016,Alm. Salg,3.797,3,Villa,79,1961,,Aktuel værdi
+Anemonevej 154470 Svebølle,ølle,635.413,22-04-2016,Andet,4.638,4,Villa,137,1979,,Aktuel værdi
+Mosevej 64470 Svebølle,ølle,560.000,20-04-2016,Alm. Salg,3.111,3,Villa,180,1827,-66 %,Aktuel værdi
+Vesterled 134470 Svebølle,ølle,795.000,18-04-2016,Alm. Salg,5.598,4,Villa,142,1967,0 %,Aktuel værdi
+Højvangen 234470 Svebølle,ølle,975.000,12-04-2016,Alm. Salg,6.587,5,Villa,148,1972,-11 %,Aktuel værdi
+Kalundborgvej 1054470 Svebølle,ølle,2.000.000,01-04-2016,Alm. Salg,10.989,5,Villa,182,1880,,Aktuel værdi
+Mosevej 134470 Svebølle,ølle,1.200.000,29-03-2016,Alm. Salg,8.000,4,Stuehus,150,1910,-7 %,
+Viskingevejen 14470 Svebølle,ølle,950.000,07-03-2016,Alm. Salg,4.679,6,Villa,203,1968,-16 %,Aktuel værdi
+Azaleavej 84470 Svebølle,ølle,800.000,02-02-2016,Fam. Salg,6.349,4,Villa,126,2008,,Aktuel værdi
+Gl Svebøllevej 54470 Svebølle,ølle,2.330.000,01-02-2016,Alm. Salg,13.786,5,Stuehus,169,1873,-3 %,
+Jydegårdsvej 194470 Svebølle,ølle,700.000,14-01-2016,Alm. Salg,7.142,3,Villa,98,1949,,Aktuel værdi
+Nordvestvej 254470 Svebølle,ølle,865.000,21-12-2015,Alm. Salg,7.792,4,Villa,111,1912,-3 %,Aktuel værdi
+Kalundborgvej 1014470 Svebølle,ølle,450.000,18-12-2015,Alm. Salg,4.285,4,Villa,105,1943,-9 %,Aktuel værdi
+Gl Svebøllevej 154470 Svebølle,ølle,150.000,18-12-2015,Alm. Salg,1.829,3,Villa,82,1880,-49 %,Aktuel værdi
+Parcelvej 114470 Svebølle,ølle,650.000,16-12-2015,Alm. Salg,3.051,7,Villa,213,1955,,Aktuel værdi
+Azaleavej 124470 Svebølle,ølle,1.500.000,21-11-2015,Alm. Salg,7.575,6,Villa,198,2006,-12 %,Aktuel værdi
+Gl Skovvej 404470 Svebølle,ølle,2.508.750,19-11-2015,Alm. Salg,7.292,10,Villa,344,1936,,Aktuel værdi
+Mosevej 84470 Svebølle,ølle,995.000,17-11-2015,Alm. Salg,3.528,8,Villa,282,1877,0 %,Aktuel værdi
+Gl Svebøllevej 34470 Svebølle,ølle,235.000,12-11-2015,Fam. Salg,1.358,5,Villa,173,1800,,Aktuel værdi
+Stationsvej 144470 Svebølle,ølle,550.000,09-11-2015,Auktion,2.522,5,Villa,218,1900,-8 %,Aktuel værdi
+Ebbedalen 34470 Svebølle,ølle,825.000,14-10-2015,Alm. Salg,9.593,3,Rækkehus,86,2001,0 %,Aktuel værdi
+Azaleavej 384470 Svebølle,ølle,2.500.000,12-10-2015,Alm. Salg,14.619,5,Villa,171,2008,-4 %,Aktuel værdi
+Kalundborgvej 764470 Svebølle,ølle,150.000,12-10-2015,Alm. Salg,2.142,2,Villa,70,1880,-40 %,Aktuel værdi
+Tjørnebjergvej 64470 Svebølle,ølle,1.300.000,30-09-2015,Alm. Salg,6.161,8,Villa,211,1988,-13 %,Aktuel værdi
+Lavendelvej 384470 Svebølle,ølle,710.000,21-09-2015,Fam. Salg,5.144,4,Villa,138,1999,,Aktuel værdi
+Azaleavej 324470 Svebølle,ølle,262.500,10-08-2015,Alm. Salg,1.250,6,Villa,210,2017,-7 %,Aktuel værdi
+Nordvestvej 144470 Svebølle,ølle,440.000,07-08-2015,Alm. Salg,3.793,5,Villa,116,1935,-11 %,Aktuel værdi
+Gustavshøj 14470 Svebølle,ølle,2.400.000,06-08-2015,Alm. Salg,12.371,4,Villa,194,2008,,Aktuel værdi
+Madesøvej 64470 Svebølle,ølle,1.760.000,09-07-2015,Alm. Salg,7.521,7,Villa,234,1978,-5 %,Aktuel værdi
+Kirkebakken 134470 Svebølle,ølle,700.000,09-07-2015,Alm. Salg,6.086,3,Villa,115,1976,,Aktuel værdi
+Frederiksberg 124470 Svebølle,ølle,1.100.000,28-06-2015,Alm. Salg,9.649,4,Villa,114,1968,-8 %,Aktuel værdi
+Skolevænget 54470 Svebølle,ølle,625.000,23-06-2015,Alm. Salg,5.165,4,Villa,121,1969,-11 %,Aktuel værdi
+Tjørnebjergvej 44470 Svebølle,ølle,1.475.000,16-06-2015,Alm. Salg,7.722,6,Villa,191,1987,-8 %,Aktuel værdi
+Anemonevej 274470 Svebølle,ølle,1.170.000,11-06-2015,Alm. Salg,7.405,6,Villa,158,1980,-2 %,Aktuel værdi
+Skolelodden 14470 Svebølle,ølle,900.000,27-05-2015,Alm. Salg,5.882,7,Villa,153,1966,,Aktuel værdi
+Jorløse Byvej 214470 Svebølle,ølle,123.200,20-05-2015,Auktion,1.432,2,Villa,86,1827,,Aktuel værdi
+Døvnældevej 54470 Svebølle,ølle,700.000,07-05-2015,Alm. Salg,5.511,4,Villa,127,1977,-12 %,Aktuel værdi
+Hovedgaden 544470 Svebølle,ølle,205.800,05-05-2015,Alm. Salg,1.870,4,Villa,110,1949,,Aktuel værdi
+Skolelodden 114470 Svebølle,ølle,500.000,04-05-2015,Alm. Salg,4.807,4,Villa,104,1972,-9 %,Aktuel værdi
+Kelleklintegårdsvej 44470 Svebølle,ølle,1.075.000,15-04-2015,Auktion,5.375,7,Stuehus,200,1906,,
+Lavendelvej 664470 Svebølle,ølle,2.220.000,12-04-2015,Alm. Salg,12.685,5,Villa,175,2006,-3 %,Aktuel værdi
+Gl Skovvej 1B4470 Svebølle,ølle,650.000,10-04-2015,Alm. Salg,6.565,3,Villa,99,1930,,Aktuel værdi
+Øresøvej 284470 Svebølle,ølle,250.000,04-03-2015,Alm. Salg,2.358,4,Villa,106,1907,-29 %,Aktuel værdi
+Faksbjergvej 124470 Svebølle,ølle,743.000,16-02-2015,Auktion,6.350,4,Villa,117,1974,,Aktuel værdi
+Frederiksberg 384470 Svebølle,ølle,1.450.000,21-01-2015,Alm. Salg,5.350,8,Villa,271,1924,-8 %,Aktuel værdi
+Hegnet 44470 Svebølle,ølle,200.000,26-11-2014,Auktion,2.325,3,Villa,86,1968,,Aktuel værdi
+Fingerbølvej 24470 Svebølle,ølle,1.100.000,24-11-2014,Alm. Salg,9.565,4,Villa,115,1986,-8 %,Aktuel værdi
+Platanhaven 44470 Svebølle,ølle,625.000,18-11-2014,Alm. Salg,4.807,4,Rækkehus,130,1976,-4 %,Aktuel værdi
+Jorløsevej 174470 Svebølle,ølle,2.500.000,13-11-2014,Alm. Salg,11.627,8,Villa,215,1980,,Aktuel værdi
+Jorløse Byvej 134470 Svebølle,ølle,500.000,14-09-2014,Alm. Salg,3.521,3,Villa,142,1968,-16 %,Aktuel værdi
+Rosenhaven 304470 Svebølle,ølle,760.000,22-08-2014,Alm. Salg,7.524,4,Rækkehus,101,1977,-10 %,Aktuel værdi
+Platanhaven 104470 Svebølle,ølle,550.000,22-08-2014,Alm. Salg,4.230,4,Rækkehus,130,1976,-8 %,Aktuel værdi
+Skolevænget 414470 Svebølle,ølle,550.000,30-07-2014,Fam. Salg,4.044,4,Villa,136,1972,,Aktuel værdi
+Stationsvej 74470 Svebølle,ølle,400.000,12-07-2014,Andet,5.000,3,Villa,80,1951,,Aktuel værdi
+Jorløse Byvej 364470 Svebølle,ølle,70.000,03-07-2014,Alm. Salg,636,3,Villa,110,1965,,Aktuel værdi
+Højvangen 354470 Svebølle,ølle,750.000,11-06-2014,Auktion,3.968,6,Villa,189,1972,-25 %,Aktuel værdi
+Lerbjergvej 264470 Svebølle,ølle,800.000,11-06-2014,Alm. Salg,6.299,4,Villa,127,1984,,Aktuel værdi
+Rosenhaven 414470 Svebølle,ølle,900.000,27-05-2014,Alm. Salg,8.910,4,Rækkehus,101,1979,,Aktuel værdi
+Lerbjergvej 394470 Svebølle,ølle,700.000,21-04-2014,Alm. Salg,8.235,3,Villa,85,1987,-12 %,Aktuel værdi
+Stendyssevej 44470 Svebølle,ølle,1.450.000,16-04-2014,Alm. Salg,6.331,5,Villa,229,2004,-9 %,Aktuel værdi
+Hovedgaden 144470 Svebølle,ølle,640.535,09-04-2014,Andet,4.298,4,Villa,149,1930,,Aktuel værdi
+Rosenhaven 284470 Svebølle,ølle,710.000,08-04-2014,Alm. Salg,6.960,4,Rækkehus,102,1978,-5 %,Aktuel værdi
+Lerbjergvej 454470 Svebølle,ølle,620.000,07-04-2014,Alm. Salg,7.294,3,Villa,85,1987,-11 %,Aktuel værdi
+Skolevænget 394470 Svebølle,ølle,995.000,05-04-2014,Alm. Salg,8.223,3,Villa,121,1972,0 %,Aktuel værdi
+Madesøvej 14470 Svebølle,ølle,600.000,19-03-2014,Alm. Salg,6.741,3,Villa,89,1957,-7 %,Aktuel værdi
+Azaleavej 44470 Svebølle,ølle,534.312,13-03-2014,Andet,2.698,6,Villa,198,2007,,Aktuel værdi
+Jydegårdsvej 134470 Svebølle,ølle,448.000,12-03-2014,Andet,4.307,4,Villa,104,1949,,Aktuel værdi
+Jorløse Tved 14470 Svebølle,ølle,375.000,03-03-2014,Alm. Salg,4.807,3,Villa,78,1903,-17 %,Aktuel værdi
+Kalundborgvej 774470 Svebølle,ølle,700.000,03-02-2014,Alm. Salg,5.737,5,Villa,122,1931,-6 %,Aktuel værdi
+Gyldenrisvej 124470 Svebølle,ølle,999.000,01-02-2014,Alm. Salg,8.188,4,Villa,122,1979,0 %,Aktuel værdi
+Stenrand 124470 Svebølle,ølle,40.000,23-01-2014,Auktion,425,4,Villa,94,1870,,Aktuel værdi
+Platanhaven 374470 Svebølle,ølle,800.000,15-01-2014,Fam. Salg,5.633,5,Rækkehus,142,1974,,Aktuel værdi
+Mindevej 44470 Svebølle,ølle,1.200.000,28-12-2013,Alm. Salg,6.629,6,Villa,181,1922,,Aktuel værdi
+Stationsvej 154470 Svebølle,ølle,600.000,27-12-2013,Alm. Salg,4.285,4,Villa,140,1920,,Aktuel værdi
+Kelleklintegårdsvej 24470 Svebølle,ølle,507.704,12-12-2013,Fam. Salg,3.296,3,Villa,154,1920,-63 %,Aktuel værdi
+Gyldenrisvej 24470 Svebølle,ølle,600.000,10-12-2013,Alm. Salg,7.407,3,Villa,81,1978,-14 %,Aktuel værdi
+Parcelvej 24470 Svebølle,ølle,248.000,09-12-2013,Auktion,1.355,6,Villa,183,1932,,Aktuel værdi
+Tissøvej 144470 Svebølle,ølle,375.000,03-12-2013,Alm. Salg,1.923,6,Villa,195,1877,,Aktuel værdi
+Azaleavej 214470 Svebølle,ølle,325.000,29-11-2013,Alm. Salg,2.166,4,Villa,150,2016,4 %,Aktuel værdi
+Rosenhaven 1B4470 Svebølle,ølle,521.000,28-11-2013,Auktion,5.158,4,Rækkehus,101,1978,-12 %,Aktuel værdi
+Kildevej 124470 Svebølle,ølle,800.000,28-11-2013,Fam. Salg,6.611,5,Villa,121,1974,,Aktuel værdi
+Skolelodden 34470 Svebølle,ølle,650.000,27-11-2013,Alm. Salg,6.372,4,Villa,102,1960,-6 %,Aktuel værdi
+Gl Svebøllevej 94470 Svebølle,ølle,1.512.500,13-11-2013,Alm. Salg,12.100,4,Villa,125,1800,-3 %,Aktuel værdi
+Skolelodden 104470 Svebølle,ølle,770.000,31-10-2013,Alm. Salg,6.875,3,Villa,112,1932,-4 %,Aktuel værdi
+Kalundborgvej 1114470 Svebølle,ølle,675.000,16-10-2013,Alm. Salg,3.110,5,Villa,217,1880,-7 %,Aktuel værdi
+Tissøvej 104470 Svebølle,ølle,595.000,14-10-2013,Alm. Salg,5.409,4,Stuehus,110,1840,,
+Skolevænget 254470 Svebølle,ølle,595.000,13-10-2013,Alm. Salg,4.311,5,Villa,138,1971,-14 %,Aktuel værdi
+Hovedgaden 214470 Svebølle,ølle,325.000,10-10-2013,Alm. Salg,2.708,3,Villa,120,1932,-6 %,Aktuel værdi
+Jorløse Byvej 374470 Svebølle,ølle,385.000,04-10-2013,Alm. Salg,3.235,4,Villa,119,1920,-11 %,Aktuel værdi
+Jorløsevej 334470 Svebølle,ølle,2.050.000,27-09-2013,Alm. Salg,12.058,6,Villa,170,1969,,Aktuel værdi
+Kirkebakken 154470 Svebølle,ølle,500.000,23-09-2013,Alm. Salg,3.623,5,Villa,138,1950,-28 %,Aktuel værdi
+Gl Skovvej 44470 Svebølle,ølle,116.000,05-09-2013,Auktion,591,5,Villa,196,2015,-71 %,Aktuel værdi
+Azaleavej 284470 Svebølle,ølle,1.995.000,04-09-2013,Alm. Salg,10.178,3,Villa,196,2008,0 %,Aktuel værdi
+Frederiksberg 454470 Svebølle,ølle,550.000,14-08-2013,Auktion,2.894,7,Villa,190,1966,,Aktuel værdi
+Lerbjergvej 314470 Svebølle,ølle,750.000,25-07-2013,Alm. Salg,8.064,4,Villa,93,1987,,Aktuel værdi
+Øresøvej 124470 Svebølle,ølle,795.000,11-07-2013,Alm. Salg,13.250,3,Villa,60,1938,-6 %,Aktuel værdi
+Lavendelvej 654470 Svebølle,ølle,1.795.000,08-07-2013,Alm. Salg,8.842,5,Villa,203,2007,0 %,Aktuel værdi
+Rosenhaven 94470 Svebølle,ølle,375.000,26-06-2013,Alm. Salg,7.075,2,Rækkehus,53,1975,-6 %,Aktuel værdi
+Jorløsevej 24470 Svebølle,ølle,1.750.000,17-06-2013,Fam. Salg,9.308,6,Villa,188,1900,,Aktuel værdi
+Gl Skovvej 264470 Svebølle,ølle,500.000,13-06-2013,Alm. Salg,3.105,4,Villa,161,1900,-16 %,Aktuel værdi
+Jydegårdsvej 94470 Svebølle,ølle,100.000,10-06-2013,Alm. Salg,689,5,Villa,145,1952,,Aktuel værdi
+Jorløse Byvej 45A4470 Svebølle,ølle,115.000,21-05-2013,Alm. Salg,927,3,Villa,124,1894,,Aktuel værdi
+Madesøvej 114470 Svebølle,ølle,775.000,15-05-2013,Alm. Salg,5.961,5,Villa,130,1877,-3 %,Aktuel værdi
+Kalundborgvej 1064470 Svebølle,ølle,895.000,03-05-2013,Alm. Salg,5.559,5,Villa,161,1954,0 %,Aktuel værdi
+Højvangen 214470 Svebølle,ølle,565.500,25-03-2013,Auktion,4.127,3,Villa,137,1972,-25 %,Aktuel værdi
+Lavendelvej 434470 Svebølle,ølle,1.600.000,20-03-2013,Alm. Salg,11.678,5,Villa,137,2007,-6 %,Aktuel værdi
+Anemonevej 404470 Svebølle,ølle,850.000,15-03-2013,Alm. Salg,7.264,4,Villa,117,1983,-19 %,Aktuel værdi
+Søbanken 44470 Svebølle,ølle,2.800.000,05-03-2013,Alm. Salg,14.432,5,Villa,194,2000,,Aktuel værdi
+Berberisvej 1D4470 Svebølle,ølle,700.000,23-02-2013,Alm. Salg,8.235,3,Rækkehus,85,1999,-20 %,Aktuel værdi
+Hovedgaden 554470 Svebølle,ølle,1.100.000,14-02-2013,Alm. Salg,8.148,4,Villa,135,1978,-8 %,Aktuel værdi
+Jorløse Byvej 474470 Svebølle,ølle,180.000,07-01-2013,Auktion,3.214,3,Villa,56,1880,,Aktuel værdi
+Fingerbølvej 114470 Svebølle,ølle,1.300.000,06-01-2013,Alm. Salg,9.285,5,Villa,140,1977,-10 %,Aktuel værdi
+Fabrikvej 94470 Svebølle,ølle,734.000,11-12-2012,Andet,4.587,5,Villa,160,1927,,Aktuel værdi
+Højbjergvej 244470 Svebølle,ølle,600.000,25-10-2012,Alm. Salg,2.816,7,Villa,213,1900,-14 %,Aktuel værdi
+Følfodvej 34470 Svebølle,ølle,875.000,19-10-2012,Alm. Salg,8.663,3,Villa,101,1975,-12 %,Aktuel værdi
+Lindevej 14470 Svebølle,ølle,1.000.000,01-10-2012,Alm. Salg,4.255,6,Villa,235,1930,1 %,Aktuel værdi
+Vesterled 54470 Svebølle,ølle,359.000,20-09-2012,Alm. Salg,3.485,4,Villa,103,1956,,Aktuel værdi
+Avnsøgårds Alle 64470 Svebølle,ølle,330.000,20-09-2012,Auktion,3.882,3,Villa,85,1910,,Aktuel værdi
+Frederiksberg 7B4470 Svebølle,ølle,1.395.000,14-09-2012,Alm. Salg,9.554,5,Villa,146,1951,-3 %,Aktuel værdi
+"Centret 2C, 14470 Svebølle",ølle,637.000,13-09-2012,Auktion,10.616,3,Lejlighed,60,1982,,Aktuel værdi
+Smedestræde 94470 Svebølle,ølle,775.000,03-09-2012,Alm. Salg,5.535,5,Villa,140,1935,-3 %,Aktuel værdi
+Viskingevejen 24470 Svebølle,ølle,500.000,24-08-2012,Fam. Salg,4.504,4,Villa,111,1908,,Aktuel værdi
+Kildevej 64470 Svebølle,ølle,745.000,07-08-2012,Alm. Salg,5.359,5,Villa,139,1973,-6 %,Aktuel værdi
+Stenrand 64470 Svebølle,ølle,180.000,07-08-2012,Alm. Salg,3.913,2,Villa,46,1958,-8 %,Aktuel værdi
+Fabrikvej 134470 Svebølle,ølle,1.075.000,26-07-2012,Alm. Salg,7.733,3,Villa,139,1911,-9 %,Aktuel værdi
+Skolelodden 84470 Svebølle,ølle,475.000,29-06-2012,Alm. Salg,3.209,6,Villa,148,1960,-20 %,Aktuel værdi
+Anemonevej 254470 Svebølle,ølle,1.195.000,07-06-2012,Alm. Salg,8.535,5,Villa,140,1979,0 %,Aktuel værdi
+Svinghulen 24470 Svebølle,ølle,790.000,27-05-2012,Alm. Salg,16.122,2,Villa,49,1912,,Aktuel værdi
+Svinghulen 84470 Svebølle,ølle,700.000,27-05-2012,Fam. Salg,5.147,6,Villa,136,1880,,Aktuel værdi
+Platanhaven 134470 Svebølle,ølle,310.000,16-05-2012,Auktion,2.384,5,Rækkehus,130,1976,,Aktuel værdi
+Tissøvej 24470 Svebølle,ølle,750.000,02-05-2012,Auktion,4.545,4,Stuehus,165,1900,-58 %,
+Frederiksberg 554470 Svebølle,ølle,180.000,25-04-2012,Auktion,1.417,3,Villa,127,1937,,Aktuel værdi
+Lavendelvej 414470 Svebølle,ølle,1.370.000,16-04-2012,Alm. Salg,9.785,5,Villa,140,2007,,Aktuel værdi
+Azaleavej 564470 Svebølle,ølle,300.000,30-03-2012,Alm. Salg,1.754,5,Villa,171,2012,-4 %,Aktuel værdi
+Skolevænget 24470 Svebølle,ølle,785.000,27-03-2012,Alm. Salg,5.567,5,Villa,141,1967,-10 %,Aktuel værdi
+Hovedgaden 1B4470 Svebølle,ølle,695.000,22-03-2012,Auktion,3.406,5,Villa,204,1840,,Aktuel værdi
+Platanhaven 284470 Svebølle,ølle,400.000,12-03-2012,Auktion,3.100,4,Rækkehus,129,1976,,Aktuel værdi
+Lavendelvej 594470 Svebølle,ølle,1.495.000,29-02-2012,Alm. Salg,9.771,5,Villa,153,2006,0 %,Aktuel værdi
+Højvangen 304470 Svebølle,ølle,900.000,20-02-2012,Alm. Salg,6.870,4,Villa,131,1974,-10 %,Aktuel værdi
+Smedestræde 134470 Svebølle,ølle,212.500,10-02-2012,Fam. Salg,3.035,2,Villa,70,1900,,Aktuel værdi
+Lerbjergvej 144470 Svebølle,ølle,875.000,25-01-2012,Alm. Salg,8.027,4,Villa,109,1986,,Aktuel værdi
+Vesterled 224470 Svebølle,ølle,583.112,24-01-2012,Alm. Salg,5.661,3,Villa,103,1968,,Aktuel værdi
+Højbjergvej 104470 Svebølle,ølle,1.080.000,24-01-2012,Fam. Salg,10.188,4,Villa,106,1948,,Aktuel værdi
+Fabrikvej 54470 Svebølle,ølle,900.000,17-01-2012,Auktion,5.454,5,Villa,165,1925,16 %,Aktuel værdi
+Jorløsevej 74470 Svebølle,ølle,150.000,11-01-2012,Auktion,2.307,3,Villa,65,1892,-75 %,Aktuel værdi
+Lavendelvej 454470 Svebølle,ølle,1.450.000,11-01-2012,Alm. Salg,10.069,5,Villa,144,2004,-19 %,Aktuel værdi
+Platanhaven 364470 Svebølle,ølle,540.000,11-01-2012,Auktion,3.802,4,Rækkehus,142,1974,-22 %,Aktuel værdi
+Rosenhaven 124470 Svebølle,ølle,574.000,07-01-2012,Alm. Salg,10.629,2,Rækkehus,54,1975,,Aktuel værdi
+Anemonevej 24470 Svebølle,ølle,550.000,24-11-2011,Andet,4.508,5,Villa,122,1979,,Aktuel værdi
+Lavendelvej 404470 Svebølle,ølle,1.100.000,21-11-2011,Alm. Salg,6.470,4,Villa,170,2004,,Aktuel værdi
+Højvangen 5B4470 Svebølle,ølle,370.000,01-11-2011,Alm. Salg,6.379,2,Rækkehus,58,1974,-18 %,Aktuel værdi
+Kelleklintegårdsvej 14470 Svebølle,ølle,2.300.000,13-10-2011,Alm. Salg,11.557,5,Villa,199,1922,-8 %,Aktuel værdi
+Jorløse Byvej 324470 Svebølle,ølle,190.000,14-09-2011,Auktion,1.338,7,Villa,142,1877,,Aktuel værdi
+Højvangen 11A4470 Svebølle,ølle,925.000,12-09-2011,Alm. Salg,8.486,3,Villa,109,1972,-16 %,Aktuel værdi
+Ranjevej 64470 Svebølle,ølle,720.000,10-09-2011,Alm. Salg,4.260,4,Villa,169,1870,-1 %,Aktuel værdi
+Pindsbjergvej 24470 Svebølle,ølle,750.000,09-09-2011,Alm. Salg,6.302,3,Villa,119,1976,-16 %,Aktuel værdi
+Højvangen 11B4470 Svebølle,ølle,1.100.000,07-09-2011,Alm. Salg,7.534,5,Villa,146,1984,-6 %,Aktuel værdi
+Øresøvej 174470 Svebølle,ølle,70.000,25-08-2011,Auktion,804,3,Villa,87,1969,,Aktuel værdi
+Lerbjergvej 9A4470 Svebølle,ølle,750.000,11-08-2011,Alm. Salg,8.928,3,Rækkehus,84,1984,,Aktuel værdi
+Jydegårdsvej 154470 Svebølle,ølle,260.000,08-08-2011,Auktion,4.406,2,Villa,59,1946,,Aktuel værdi
+Stendyssevej 24470 Svebølle,ølle,650.000,08-08-2011,Alm. Salg,2.838,7,Villa,229,1790,-35 %,Aktuel værdi
+Gl Svebøllevej 124470 Svebølle,ølle,600.000,05-08-2011,Alm. Salg,4.580,3,Villa,131,1900,-25 %,Aktuel værdi
+Stationsvej 124470 Svebølle,ølle,1.075.000,10-07-2011,Alm. Salg,12.500,3,Villa,86,2001,-8 %,Aktuel værdi
+Lavendelvej 524470 Svebølle,ølle,836.000,04-07-2011,Alm. Salg,6.014,4,Villa,139,2003,,Aktuel værdi
+Hovedgaden 604470 Svebølle,ølle,700.000,29-06-2011,Alm. Salg,5.468,3,Villa,128,1927,-12 %,Aktuel værdi
+Tjørnebjergvej 24470 Svebølle,ølle,350.000,26-06-2011,Alm. Salg,3.070,4,Villa,114,1900,-11 %,Aktuel værdi
+Jorløsevej 14470 Svebølle,ølle,850.000,22-06-2011,Alm. Salg,7.798,3,Villa,109,1900,,Aktuel værdi
+Saltoftevej 64470 Svebølle,ølle,370.000,20-06-2011,Auktion,3.162,3,Villa,117,1700,,Aktuel værdi
+Vesterled 114470 Svebølle,ølle,564.845,31-05-2011,Alm. Salg,5.592,3,Villa,101,1964,,Aktuel værdi
+Gyldenrisvej 134470 Svebølle,ølle,850.000,28-05-2011,Alm. Salg,6.746,4,Villa,126,1978,-5 %,Aktuel værdi
+Frederiksberg 514470 Svebølle,ølle,795.000,27-05-2011,Alm. Salg,7.429,4,Villa,107,1965,-11 %,Aktuel værdi
+Rosenhaven 44470 Svebølle,ølle,700.000,28-04-2011,Alm. Salg,8.433,4,Rækkehus,83,1975,-22 %,Aktuel værdi
+Vesterled 44470 Svebølle,ølle,512.500,27-04-2011,Alm. Salg,4.456,2,Villa,115,1955,-14 %,Aktuel værdi
+Jorløse Byvej 544470 Svebølle,ølle,1.100.000,24-04-2011,Alm. Salg,10.091,3,Villa,109,1969,-8 %,Aktuel værdi
+Rosenhaven 344470 Svebølle,ølle,800.000,12-04-2011,Alm. Salg,7.920,4,Rækkehus,101,1979,-20 %,Aktuel værdi
+Stenrand 44470 Svebølle,ølle,937.259,24-03-2011,Alm. Salg,4.221,5,Villa,222,1870,,Aktuel værdi
+Gl Skovvej 164470 Svebølle,ølle,471.134,21-03-2011,Andet,3.341,5,Villa,141,1930,,Aktuel værdi
+Skovgårdsvej 134470 Svebølle,ølle,10.500.000,20-03-2011,Alm. Salg,25.362,6,Stuehus,414,1850,,
+Skolevænget 64470 Svebølle,ølle,800.000,07-03-2011,Alm. Salg,5.755,5,Villa,139,1969,-14 %,Aktuel værdi
+Stengårdsvej 104470 Svebølle,ølle,531.956,20-02-2011,Alm. Salg,4.255,3,Villa,125,1914,,Aktuel værdi
+Vesterled 84470 Svebølle,ølle,875.000,18-02-2011,Alm. Salg,8.838,2,Villa,99,1961,-2 %,Aktuel værdi
+Rødtjørnevej 24470 Svebølle,ølle,375.000,22-01-2011,Alm. Salg,3.177,6,Villa,118,1939,-5 %,Aktuel værdi
+Parcelvej 164470 Svebølle,ølle,300.000,20-01-2011,Fam. Salg,2.803,4,Villa,107,1937,,Aktuel værdi
+Kalundborgvej 994470 Svebølle,ølle,595.000,11-01-2011,Alm. Salg,5.891,3,Villa,101,1956,0 %,Aktuel værdi
+Jorløse Byvej 484470 Svebølle,ølle,350.000,29-12-2010,Auktion,1.988,6,Stuehus,176,1827,,
+Azaleavej 254470 Svebølle,ølle,796.590,17-12-2010,Alm. Salg,4.827,4,Villa,165,2011,0 %,Aktuel værdi
+Jorløse Byvej 244470 Svebølle,ølle,695.000,10-12-2010,Alm. Salg,3.777,6,Villa,184,1930,0 %,Aktuel værdi
+Viskingevejen 64470 Svebølle,ølle,285.000,08-12-2010,Auktion,3.958,3,Villa,72,1900,-28 %,Aktuel værdi
+Nordvestvej 214470 Svebølle,ølle,1.195.000,01-12-2010,Alm. Salg,7.071,4,Villa,169,1911,0 %,Aktuel værdi
+Rugtved Huse 64470 Svebølle,ølle,2.800.000,30-11-2010,Fam. Salg,10.144,5,Villa,276,2010,,Aktuel værdi
+Rosenhaven 144470 Svebølle,ølle,580.000,25-11-2010,Alm. Salg,9.206,3,Rækkehus,63,1976,-10 %,Aktuel værdi
+Azaleavej 94470 Svebølle,ølle,1.175.000,15-11-2010,Auktion,9.325,4,Rækkehus,126,2007,,Aktuel værdi
+Kildevej 84470 Svebølle,ølle,900.000,11-11-2010,Alm. Salg,7.894,4,Villa,114,1975,-5 %,Aktuel værdi
+Lerbjergvej 224470 Svebølle,ølle,1.075.000,25-10-2010,Auktion,5.119,6,Villa,210,1984,-16 %,Aktuel værdi
+Vesterled 154470 Svebølle,ølle,1.045.000,08-10-2010,Alm. Salg,8.708,4,Villa,120,1968,-5 %,Aktuel værdi
+Nordvestvej 164470 Svebølle,ølle,340.000,27-09-2010,Auktion,2.698,3,Villa,126,1912,-57 %,Aktuel værdi
+Jorløsevej 84470 Svebølle,ølle,395.000,08-09-2010,Alm. Salg,3.134,5,Villa,126,1900,0 %,Aktuel værdi
+Feltergårdsvej 114470 Svebølle,ølle,472.639,20-08-2010,Alm. Salg,4.258,4,Villa,111,1857,,Aktuel værdi
+Hovedgaden 184470 Svebølle,ølle,625.000,18-08-2010,Alm. Salg,4.166,3,Villa,150,1910,,Aktuel værdi
+Bjergsted Bakker 104470 Svebølle,ølle,1.275.000,16-08-2010,Alm. Salg,4.829,7,Villa,264,1944,,Aktuel værdi
+Nikolinevej 104470 Svebølle,ølle,651.500,12-08-2010,Alm. Salg,7.159,4,Villa,91,1800,,Aktuel værdi
+Mosevej 104470 Svebølle,ølle,810.000,11-08-2010,Auktion,3.347,3,Villa,242,1900,-40 %,Aktuel værdi
+Højbjergvej 294470 Svebølle,ølle,713.659,05-08-2010,Alm. Salg,4.078,8,Villa,175,1960,,Aktuel værdi
+Stationsvej 11B4470 Svebølle,ølle,780.000,28-07-2010,Alm. Salg,5.909,4,Villa,132,1970,-22 %,Aktuel værdi
+Frederiksberg 244470 Svebølle,ølle,835.716,09-07-2010,Fam. Salg,5.927,4,Villa,141,1951,,Aktuel værdi
+Vesterled 104470 Svebølle,ølle,1.350.000,09-07-2010,Alm. Salg,7.941,4,Villa,170,1963,-10 %,Aktuel værdi
+Øresøvej 14470 Svebølle,ølle,570.000,30-06-2010,Auktion,3.496,4,Villa,163,1780,,Aktuel værdi
+Gl Løgtved Huse 64470 Svebølle,ølle,760.000,28-06-2010,Alm. Salg,9.382,2,Villa,81,1955,-4 %,Aktuel værdi
+Lerbjergvej 194470 Svebølle,ølle,825.000,20-06-2010,Alm. Salg,9.705,3,Villa,85,1988,-8 %,Aktuel værdi
+Hegnet 24470 Svebølle,ølle,1.500.000,01-06-2010,Alm. Salg,7.425,6,Villa,202,1931,-28 %,Aktuel værdi
+Tissøvej 164470 Svebølle,ølle,300.000,01-06-2010,Alm. Salg,1.111,6,Stuehus,270,2010,,
+Vesterled 64470 Svebølle,ølle,825.000,29-05-2010,Alm. Salg,7.857,4,Villa,105,1962,-8 %,Aktuel værdi
+Gammelrand 2A4470 Svebølle,ølle,495.000,17-05-2010,Alm. Salg,11.511,3,Villa,43,1752,0 %,Aktuel værdi
+Mindegårdsvej 154470 Svebølle,ølle,35.000,07-05-2010,Alm. Salg,3.500,1,Fritid,10,1950,,Aktuel værdi
+Højbjergvej 354470 Svebølle,ølle,850.000,22-04-2010,Alm. Salg,6.488,3,Villa,131,1958,-5 %,Aktuel værdi
+Azaleavej 104470 Svebølle,ølle,295.000,12-03-2010,Alm. Salg,1.777,4,Villa,166,2011,0 %,Aktuel værdi
+Frederiksberg 634470 Svebølle,ølle,325.000,05-03-2010,Andet,2.927,3,Villa,111,1944,,Aktuel værdi
+Azaleavej 64470 Svebølle,ølle,995.000,21-02-2010,Alm. Salg,5.050,3,Villa,197,2007,0 %,Aktuel værdi
+Øresøvej 2B4470 Svebølle,ølle,124.288,19-01-2010,Alm. Salg,621,9,Stuehus,200,1886,,
+Centret 6A4470 Svebølle,ølle,903.000,15-12-2009,Alm. Salg,11.148,3,Engroshandel,81,1988,,Aktuel værdi
+Azaleavej 134470 Svebølle,ølle,1.400.000,01-12-2009,Alm. Salg,11.111,4,Rækkehus,126,2008,-17 %,Aktuel værdi
+Mindegårdsvej 44470 Svebølle,ølle,1.993.939,18-11-2009,Auktion,10.494,4,Villa,190,1900,,Aktuel værdi
+Hovedgaden 354470 Svebølle,ølle,750.000,21-10-2009,Auktion,3.289,7,Villa,228,1881,,Aktuel værdi
+Rosenhaven 194470 Svebølle,ølle,712.000,30-09-2009,Alm. Salg,8.790,4,Rækkehus,81,1977,,Aktuel værdi
+Skolevænget 454470 Svebølle,ølle,1.300.000,24-09-2009,Alm. Salg,7.262,5,Villa,179,1972,,Aktuel værdi
+Azaleavej 174470 Svebølle,ølle,1.650.000,10-09-2009,Alm. Salg,11.538,5,Villa,143,2007,-13 %,Aktuel værdi
+Frederiksberg 154470 Svebølle,ølle,868.000,03-09-2009,Alm. Salg,11.890,3,Villa,73,1945,-17 %,Aktuel værdi
+Lerbjergvej 84470 Svebølle,ølle,1.000.000,18-08-2009,Alm. Salg,11.764,3,Villa,85,1986,,Aktuel værdi
+Rosenhaven 404470 Svebølle,ølle,1.075.000,17-08-2009,Alm. Salg,10.643,4,Rækkehus,101,1979,-7 %,Aktuel værdi
+Hovedgaden 644470 Svebølle,ølle,400.000,05-08-2009,Auktion,3.333,3,Villa,120,1930,,Aktuel værdi
+Azaleavej 604470 Svebølle,ølle,484.420,05-08-2009,Alm. Salg,4.403,3,Villa,110,2010,0 %,Aktuel værdi
+Skovgårdsvej 44470 Svebølle,ølle,3.000.000,04-08-2009,Alm. Salg,15.625,4,Stuehus,192,1913,,
+Parcelvej 44470 Svebølle,ølle,1.000.000,01-08-2009,Andet,7.874,3,Villa,127,1929,-9 %,Aktuel værdi
+Frederiksberg 694470 Svebølle,ølle,705.371,25-07-2009,Andet,5.467,4,Villa,129,1890,-53 %,Aktuel værdi
+Lindevej 54470 Svebølle,ølle,850.000,06-07-2009,Alm. Salg,7.264,2,Villa,117,1936,-5 %,Aktuel værdi
+Gl Skovvej 324470 Svebølle,ølle,1.100.000,03-07-2009,Alm. Salg,9.016,2,Villa,122,1901,0 %,Aktuel værdi
+Frederiksberg 534470 Svebølle,ølle,995.000,01-07-2009,Alm. Salg,9.476,4,Villa,105,1961,0 %,Aktuel værdi
+Jorløse Byvej 44470 Svebølle,ølle,995.000,19-06-2009,Alm. Salg,8.728,4,Villa,114,1870,-9 %,Aktuel værdi
+Mindegårdsvej 14470 Svebølle,ølle,130.000,13-06-2009,Alm. Salg,718,6,Stuehus,181,1916,,
+Mindegårdsvej 34470 Svebølle,ølle,130.000,13-06-2009,Alm. Salg,631,3,Stuehus,206,1950,,
+Højvangen 34470 Svebølle,ølle,589.424,06-06-2009,Andet,6.139,4,Villa,96,1968,-58 %,Aktuel værdi
+Rosenhaven 104470 Svebølle,ølle,289.000,02-06-2009,Fam. Salg,5.452,2,Rækkehus,53,1975,,Aktuel værdi
+Madesøvej 134470 Svebølle,ølle,200.000,15-05-2009,Alm. Salg,1.117,6,Villa,179,2011,-33 %,Aktuel værdi
+Faksbjergvej 84470 Svebølle,ølle,1.600.000,04-05-2009,Fam. Salg,11.034,4,Villa,145,1974,,Aktuel værdi
+Platanhaven 74470 Svebølle,ølle,1.260.000,29-04-2009,Alm. Salg,9.767,3,Rækkehus,129,1976,-3 %,Aktuel værdi
+Nikolinevej 44470 Svebølle,ølle,1.056.224,22-04-2009,Andet,5.867,4,Stuehus,180,2008,,
+Rødtjørnevej 54470 Svebølle,ølle,1.065.000,02-04-2009,Alm. Salg,11.833,4,Villa,90,1942,-7 %,Aktuel værdi
+Azaleavej 14470 Svebølle,ølle,325.000,16-03-2009,Alm. Salg,3.009,4,Rækkehus,108,2010,-82 %,Aktuel værdi
+Azaleavej 34470 Svebølle,ølle,325.000,16-03-2009,Alm. Salg,3.009,4,Rækkehus,108,2011,-84 %,Aktuel værdi
+Lavendelvej 724470 Svebølle,ølle,2.295.000,02-03-2009,Alm. Salg,16.276,4,Villa,141,2002,-8 %,Aktuel værdi
+Mindevej 104470 Svebølle,ølle,1.285.000,24-02-2009,Alm. Salg,8.862,5,Villa,145,1918,-8 %,Aktuel værdi
+Rosenhaven 114470 Svebølle,ølle,525.000,13-02-2009,Alm. Salg,9.905,2,Rækkehus,53,1975,-17 %,Aktuel værdi
+Lerbjergvej 13A4470 Svebølle,ølle,990.000,12-02-2009,Alm. Salg,11.927,3,Rækkehus,83,1985,,Aktuel værdi
+Fingerbølvej 44470 Svebølle,ølle,1.000.000,29-01-2009,Alm. Salg,9.708,4,Villa,103,1977,-17 %,Aktuel værdi
+Lerbjergvej 434470 Svebølle,ølle,1.150.000,25-01-2009,Alm. Salg,13.529,3,Villa,85,1987,-8 %,Aktuel værdi
+Frederiksberg 23B4470 Svebølle,ølle,1.514.000,01-01-2009,Andet,7.175,5,Villa,211,2008,,Aktuel værdi
+Frederiksberg 594470 Svebølle,ølle,1.020.000,17-12-2008,Fam. Salg,8.225,3,Villa,124,1947,,Aktuel værdi
+Feltergårdsvej 44470 Svebølle,ølle,324.807,01-12-2008,Andet,5.238,2,Rækkehus,62,1983,,Aktuel værdi
+Gl Skovvej 284470 Svebølle,ølle,525.000,05-11-2008,Fam. Salg,4.375,4,Villa,120,1930,,Aktuel værdi
+Rugtvedvej 94470 Svebølle,ølle,1.170.000,27-10-2008,Alm. Salg,9.360,5,Villa,125,1880,-10 %,Aktuel værdi
+Platanhaven 174470 Svebølle,ølle,1.185.000,21-10-2008,Alm. Salg,9.115,4,Rækkehus,130,1976,-5 %,Aktuel værdi
+Højbjergvej 144470 Svebølle,ølle,1.170.000,28-09-2008,Alm. Salg,9.360,3,Villa,125,1941,-6 %,Aktuel værdi
+Hovedgaden 514470 Svebølle,ølle,2.250.000,19-09-2008,Alm. Salg,14.331,2,Villa,157,1913,-1 %,Aktuel værdi
+Mindevej 14470 Svebølle,ølle,924.000,10-09-2008,Alm. Salg,7.830,4,Villa,118,1935,-10 %,Aktuel værdi
+Azaleavej 24470 Svebølle,ølle,350.000,26-08-2008,Alm. Salg,2.941,4,Villa,119,2013,,Aktuel værdi
+Azaleavej 584470 Svebølle,ølle,484.420,20-08-2008,Alm. Salg,3.105,5,Villa,156,2009,,Aktuel værdi
+Platanhaven 34470 Svebølle,ølle,1.050.000,18-08-2008,Alm. Salg,8.076,4,Rækkehus,130,1976,-7 %,Aktuel værdi
+Faksbjergvej 94470 Svebølle,ølle,317.288,08-08-2008,Andet,1.813,7,Villa,175,1973,,Aktuel værdi
+Azaleavej 404470 Svebølle,ølle,566.375,03-08-2008,Alm. Salg,2.889,5,Villa,196,2010,,Aktuel værdi
+Hovedgaden 704470 Svebølle,ølle,630.000,31-07-2008,Alm. Salg,6.847,4,Villa,92,1932,0 %,Aktuel værdi
+Gl Svebøllevej 104470 Svebølle,ølle,1.250.000,30-07-2008,Alm. Salg,10.330,3,Stuehus,121,1830,,
+Tissøvej 124470 Svebølle,ølle,3.100.000,29-07-2008,Alm. Salg,15.500,4,Villa,200,2007,-8 %,Aktuel værdi
+Azaleavej 424470 Svebølle,ølle,564.075,07-07-2008,Alm. Salg,3.168,4,Villa,178,2013,,Aktuel værdi
+Azaleavej 274470 Svebølle,ølle,1.272.000,07-07-2008,Alm. Salg,4.326,7,Villa,294,2011,,Aktuel værdi
+"Azaleavej 62, ST4470 Svebølle",ølle,475.940,07-07-2008,Alm. Salg,3.090,4,Villa,154,2013,,Aktuel værdi
+Dagliljevej 64470 Svebølle,ølle,1.575.000,18-06-2008,Alm. Salg,13.815,4,Villa,114,1978,-1 %,Aktuel værdi
+Frederiksberg 114470 Svebølle,ølle,1.147.500,11-06-2008,Fam. Salg,8.196,5,Villa,140,1931,,Aktuel værdi
+Højbjergvej 254470 Svebølle,ølle,4.900.000,26-05-2008,Alm. Salg,28.823,6,Stuehus,170,1887,,
+Stationsvej 17B4470 Svebølle,ølle,1.150.000,10-04-2008,Alm. Salg,9.274,3,Villa,124,1940,,Aktuel værdi
+Frederiksberg 144470 Svebølle,ølle,1.795.000,03-04-2008,Alm. Salg,13.102,6,Villa,137,1950,0 %,Aktuel værdi
+Fingerbølvej 74470 Svebølle,ølle,1.495.000,31-03-2008,Alm. Salg,13.114,4,Villa,114,1978,0 %,Aktuel værdi
+Rosenhaven 84470 Svebølle,ølle,820.000,28-03-2008,Alm. Salg,15.471,2,Rækkehus,53,1975,-3 %,Aktuel værdi
+Skolevænget 364470 Svebølle,ølle,845.000,16-03-2008,Alm. Salg,11.418,2,Villa,74,1954,,Aktuel værdi
+Hovedgaden 464470 Svebølle,ølle,970.000,14-03-2008,Alm. Salg,5.132,7,Villa,189,1913,0 %,Aktuel værdi
+Frederiksberg 504470 Svebølle,ølle,3.500.000,12-03-2008,Alm. Salg,13.888,7,Stuehus,252,2008,,
+Madesøvej 94470 Svebølle,ølle,1.153.396,03-03-2008,Alm. Salg,4.178,5,Villa,276,1897,,Aktuel værdi
+Jorløse Byvej 434470 Svebølle,ølle,1.100.000,22-02-2008,Alm. Salg,7.857,5,Villa,140,1907,-15 %,Aktuel værdi
+Kildevej 94470 Svebølle,ølle,750.000,19-02-2008,Alm. Salg,6.521,4,Villa,115,1976,,Aktuel værdi
+Jorløsevej 54470 Svebølle,ølle,770.000,04-02-2008,Alm. Salg,7.264,4,Villa,106,1936,0 %,Aktuel værdi
+Følfodvej 24470 Svebølle,ølle,2.050.000,02-02-2008,Alm. Salg,13.945,6,Villa,147,1976,-2 %,Aktuel værdi
+Frederiksberg 54470 Svebølle,ølle,579.903,28-01-2008,Andet,4.566,3,Villa,127,1956,,Aktuel værdi
+Azaleavej 184470 Svebølle,ølle,1.700.000,18-01-2008,Alm. Salg,15.740,4,Rækkehus,108,2007,-3 %,Aktuel værdi
+Skovgårdsvej 34470 Svebølle,ølle,1.100.000,15-01-2008,Alm. Salg,10.280,2,Villa,107,1850,-4 %,Aktuel værdi
+Lerbjergvej 294470 Svebølle,ølle,1.150.000,02-01-2008,Alm. Salg,13.529,3,Villa,85,1988,,Aktuel værdi
+Saltoftevænge 64470 Svebølle,ølle,3.000.000,27-12-2007,Alm. Salg,19.867,5,Villa,151,2016,,Aktuel værdi
+Dagliljevej 14470 Svebølle,ølle,1.795.000,30-11-2007,Alm. Salg,10.198,7,Villa,176,1976,,Aktuel værdi
+Parcelvej 154470 Svebølle,ølle,795.000,20-11-2007,Alm. Salg,7.871,2,Villa,101,1910,0 %,Aktuel værdi
+Nyvej 34470 Svebølle,ølle,500.000,12-11-2007,Alm. Salg,4.098,4,Villa,122,1941,,Aktuel værdi
+Azaleavej 154470 Svebølle,ølle,1.850.000,09-11-2007,Alm. Salg,17.129,4,Rækkehus,108,2008,0 %,Aktuel værdi
+Pilekrogen 334470 Svebølle,ølle,916.000,18-10-2007,Alm. Salg,6.887,5,Villa,133,1960,,Aktuel værdi
+Platanhaven 304470 Svebølle,ølle,1.030.000,15-10-2007,Alm. Salg,7.923,4,Rækkehus,130,1976,-2 %,Aktuel værdi
+Skolelodden 24470 Svebølle,ølle,195.000,10-10-2007,Andet,1.875,3,Villa,104,1968,,Aktuel værdi
+Nordvestvej 14470 Svebølle,ølle,1.360.000,30-09-2007,Alm. Salg,9.577,4,Villa,142,1928,-3 %,Aktuel værdi
+Lavendelvej 514470 Svebølle,ølle,2.740.000,26-09-2007,Alm. Salg,18.389,5,Villa,149,2005,-2 %,Aktuel værdi
+Hovedgaden 1A4470 Svebølle,ølle,1.200.000,25-09-2007,Alm. Salg,11.428,3,Villa,105,1971,,Aktuel værdi
+Jorløse Byvej 564470 Svebølle,ølle,3.700.000,16-09-2007,Alm. Salg,28.906,4,Stuehus,128,1917,-3 %,
+Nyvej 144470 Svebølle,ølle,900.000,10-09-2007,Alm. Salg,-,4,Villa,113,1955,-9 %,Aktuel værdi
+Kalundborgvej 704470 Svebølle,ølle,845.000,04-09-2007,Alm. Salg,6.601,5,Villa,128,1936,,Aktuel værdi
+Følfodvej 104470 Svebølle,ølle,1.430.000,01-07-2007,Alm. Salg,9.794,5,Villa,146,1976,0 %,Aktuel værdi
+Madesøvej 44470 Svebølle,ølle,2.630.000,29-06-2007,Alm. Salg,8.915,4,Villa,295,1940,-4 %,Aktuel værdi
+Nyvej 54470 Svebølle,ølle,502.210,28-06-2007,Alm. Salg,5.839,3,Villa,86,1945,,Aktuel værdi
+Gl Skovvej 174470 Svebølle,ølle,810.000,27-06-2007,Andet,7.043,4,Villa,115,1935,,Aktuel værdi
+Jorløse Byvej 264470 Svebølle,ølle,680.000,27-06-2007,Andet,8.095,3,Villa,84,1929,,Aktuel værdi
+Jernbanevej 14470 Svebølle,ølle,832.511,27-06-2007,Andet,5.904,4,Villa,141,1910,,Aktuel værdi
+Dagliljevej 84470 Svebølle,ølle,2.350.000,25-06-2007,Alm. Salg,11.868,5,Villa,198,1977,,Aktuel værdi
+Gl Svebøllevej 64470 Svebølle,ølle,1.745.000,24-06-2007,Alm. Salg,12.553,6,Villa,139,1870,,Aktuel værdi
+Højbjergvej 334470 Svebølle,ølle,533.427,04-06-2007,Andet,3.893,4,Villa,137,1880,,Aktuel værdi
+Lerbjergvej 44470 Svebølle,ølle,1.735.000,30-05-2007,Alm. Salg,13.880,3,Villa,125,1988,,Aktuel værdi
+Kildevej 144470 Svebølle,ølle,1.387.000,30-05-2007,Fam. Salg,9.767,4,Villa,142,1975,,Aktuel værdi
+Frederiksberg 674470 Svebølle,ølle,449.998,24-05-2007,Andet,3.358,3,Villa,134,1948,,Aktuel værdi
+Azaleavej 144470 Svebølle,ølle,485.000,11-05-2007,Alm. Salg,3.391,4,Villa,143,2007,0 %,Aktuel værdi
+Kalundborgvej 724470 Svebølle,ølle,22.000.000,26-04-2007,Alm. Salg,166.666,4,Villa,132,1880,,Aktuel værdi
+Fingerbølvej 94470 Svebølle,ølle,1.400.000,25-04-2007,Fam. Salg,12.173,3,Villa,115,1986,,Aktuel værdi
+Nyvej 84470 Svebølle,ølle,750.000,16-04-2007,Alm. Salg,12.711,3,Villa,59,1942,0 %,Aktuel værdi
+Højbjergvej 274470 Svebølle,ølle,980.000,13-04-2007,Alm. Salg,8.828,4,Villa,111,1890,,Aktuel værdi
+Højvangen 164470 Svebølle,ølle,1.725.000,12-04-2007,Alm. Salg,10.714,6,Villa,161,1974,,Aktuel værdi
+Azaleavej 74470 Svebølle,ølle,1.895.000,22-03-2007,Alm. Salg,15.039,4,Rækkehus,126,2007,0 %,Aktuel værdi
+Jorløse Byvej 154470 Svebølle,ølle,1.395.000,19-03-2007,Alm. Salg,7.265,7,Villa,192,1827,,Aktuel værdi
+Azaleavej 164470 Svebølle,ølle,1.920.000,16-03-2007,Alm. Salg,15.238,4,Rækkehus,126,2007,1 %,Aktuel værdi
+Ranjevej 44470 Svebølle,ølle,4.250.000,13-03-2007,Alm. Salg,14.455,8,Stuehus,294,1920,,
+Kirsebærvej 54470 Svebølle,ølle,200.000,11-03-2007,Alm. Salg,1.234,4,Villa,162,2012,,Aktuel værdi
+Lerbjergvej 174470 Svebølle,ølle,1.025.000,09-03-2007,Alm. Salg,12.058,3,Villa,85,1988,,Aktuel værdi
+Pilekrogen 254470 Svebølle,ølle,1.265.000,08-03-2007,Alm. Salg,8.784,4,Villa,144,1967,0 %,Aktuel værdi
+Jorløsevej 354470 Svebølle,ølle,5.200.000,16-02-2007,Fam. Salg,24.413,7,Stuehus,213,1890,,
+Rugtvedvej 34470 Svebølle,ølle,2.695.000,10-02-2007,Alm. Salg,13.542,5,Villa,199,1900,,Aktuel værdi
+Kalundborgvej 1044470 Svebølle,ølle,900.000,07-02-2007,Alm. Salg,7.317,5,Villa,123,1960,,Aktuel værdi
+Lavendelvej 574470 Svebølle,ølle,285.000,04-02-2007,Alm. Salg,2.175,4,Villa,131,2007,,Aktuel værdi
+Lindevej 34470 Svebølle,ølle,600.000,18-01-2007,Alm. Salg,7.894,2,Villa,76,1948,,Aktuel værdi
+Hovedgaden 194470 Svebølle,ølle,1.390.000,17-01-2007,Alm. Salg,11.982,4,Villa,116,1967,,Aktuel værdi
+Lerbjergvej 64470 Svebølle,ølle,1.110.000,13-12-2006,Alm. Salg,13.214,3,Villa,84,1986,,Aktuel værdi
+Fabrikvej 64470 Svebølle,ølle,2.195.000,30-11-2006,Alm. Salg,11.030,4,Villa,199,1962,,Aktuel værdi
+Platanhaven 194470 Svebølle,ølle,1.150.000,29-11-2006,Alm. Salg,8.846,4,Rækkehus,130,1976,,Aktuel værdi
+Højvangen 344470 Svebølle,ølle,550.000,28-11-2006,Andet,4.365,4,Villa,126,1971,,Aktuel værdi
+Gl Svebøllevej 144470 Svebølle,ølle,970.000,19-11-2006,Alm. Salg,-,4,Villa,117,1900,,Aktuel værdi
+Lerbjergvej 3A4470 Svebølle,ølle,1.125.000,19-11-2006,Alm. Salg,13.554,3,Rækkehus,83,1983,,Aktuel værdi
+Øresøvej 304470 Svebølle,ølle,2.900.000,06-11-2006,Alm. Salg,17.159,6,Stuehus,169,1750,,
+Mosevej 54470 Svebølle,ølle,1.600.000,06-11-2006,Alm. Salg,-,6,Stuehus,162,1900,,
+Pilekrogen 14470 Svebølle,ølle,885.000,21-10-2006,Alm. Salg,8.045,3,Villa,110,1930,,Aktuel værdi
+Nordvestvej 104470 Svebølle,ølle,975.000,15-10-2006,Alm. Salg,4.974,12,Villa,196,1914,,Aktuel værdi
+Gl Skovvej 64470 Svebølle,ølle,1.535.000,04-10-2006,Alm. Salg,13.232,6,Villa,116,1930,,Aktuel værdi
+Nordvestvej 54470 Svebølle,ølle,605.000,30-09-2006,Alm. Salg,8.175,3,Rækkehus,74,1955,,Aktuel værdi
+Parcelvej 174470 Svebølle,ølle,1.085.000,15-09-2006,Alm. Salg,7.587,6,Villa,143,1910,,Aktuel værdi
+Anemonevej 224470 Svebølle,ølle,1.250.000,12-09-2006,Alm. Salg,9.842,5,Villa,127,1980,,Aktuel værdi
+Blachs Vej 64470 Svebølle,ølle,671.938,30-08-2006,Andet,4.904,5,Villa,137,1857,,Aktuel værdi
+Højvangen 294470 Svebølle,ølle,1.256.341,24-08-2006,Alm. Salg,8.785,4,Villa,143,1973,,Aktuel værdi
+Rugtvedvej 164470 Svebølle,ølle,835.000,18-08-2006,Alm. Salg,9.277,1,Villa,90,1939,,Aktuel værdi
+Nyrandsvej 74470 Svebølle,ølle,882.000,02-08-2006,Alm. Salg,10.626,5,Villa,83,1948,,Aktuel værdi
+Døvnældevej 64470 Svebølle,ølle,1.235.000,02-08-2006,Alm. Salg,12.107,3,Villa,102,1976,,Aktuel værdi
+Frederiksberg 224470 Svebølle,ølle,1.200.000,14-07-2006,Alm. Salg,10.000,3,Villa,120,1940,,Aktuel værdi
+Gyldenrisvej 174470 Svebølle,ølle,1.175.000,10-07-2006,Alm. Salg,9.179,4,Villa,128,1978,,Aktuel værdi
+Gyldenrisvej 74470 Svebølle,ølle,1.000.000,16-06-2006,Fam. Salg,7.751,4,Villa,129,1978,,Aktuel værdi
+Nyrandsvej 24470 Svebølle,ølle,1.333.579,08-06-2006,Andet,5.556,6,Villa,240,1917,,Aktuel værdi
+Bjergsted Bakker 74470 Svebølle,ølle,1.210.000,19-05-2006,Alm. Salg,12.474,3,Villa,97,1700,,Aktuel værdi
+Øresøvej 204470 Svebølle,ølle,1.150.000,17-05-2006,Alm. Salg,9.200,4,Villa,125,1900,,Aktuel værdi
+Kobjergvej 94470 Svebølle,ølle,1.345.000,03-05-2006,Alm. Salg,9.889,4,Villa,136,1974,,Aktuel værdi
+Viskingevejen 44470 Svebølle,ølle,1.575.000,30-04-2006,Alm. Salg,11.753,5,Villa,134,1918,,Aktuel værdi
+Mindevej 2D4470 Svebølle,ølle,1.265.000,23-04-2006,Alm. Salg,8.724,4,Villa,145,1973,,Aktuel værdi
+Parcelvej 94470 Svebølle,ølle,1.195.000,18-04-2006,Alm. Salg,10.127,4,Villa,118,1925,,Aktuel værdi
+Azaleavej 114470 Svebølle,ølle,390.000,11-04-2006,Alm. Salg,3.577,4,Rækkehus,109,2007,,Aktuel værdi
+Azaleavej 224470 Svebølle,ølle,485.000,04-04-2006,Alm. Salg,2.993,5,Villa,162,2006,,Aktuel værdi
+Platanhaven 164470 Svebølle,ølle,1.025.000,30-03-2006,Alm. Salg,8.134,4,Rækkehus,126,1976,,Aktuel værdi
+Jorløse Byvej 174470 Svebølle,ølle,595.000,28-03-2006,Alm. Salg,6.611,4,Villa,90,1800,,Aktuel værdi
+Azaleavej 204470 Svebølle,ølle,390.000,28-03-2006,Alm. Salg,3.095,4,Rækkehus,126,2007,,Aktuel værdi
+Stenrand 14470 Svebølle,ølle,1.130.000,23-03-2006,Alm. Salg,10.970,4,Villa,103,1958,,Aktuel værdi
+Jorløse Byvej 524470 Svebølle,ølle,1.225.000,21-03-2006,Alm. Salg,10.840,3,Villa,113,1966,,Aktuel værdi
+Jorløsevej 64470 Svebølle,ølle,1.445.000,12-03-2006,Alm. Salg,14.306,5,Villa,101,1962,,Aktuel værdi
+Nordvestvej 74470 Svebølle,ølle,682.203,08-03-2006,Alm. Salg,5.781,4,Rækkehus,118,1932,,Aktuel værdi
+Hovedgaden 534470 Svebølle,ølle,2.200.000,22-02-2006,Alm. Salg,10.526,3,Villa,209,1998,,Aktuel værdi
+Kildevej 14470 Svebølle,ølle,905.000,22-02-2006,Andet,6.510,3,Villa,139,1973,,Aktuel værdi
+Jorløsevej 134470 Svebølle,ølle,65.000.000,21-02-2006,Alm. Salg,722.222,4,Villa,90,1827,,Aktuel værdi
+Skolevænget 494470 Svebølle,ølle,895.000,21-02-2006,Alm. Salg,8.861,4,Villa,101,1973,,Aktuel værdi
+Jorløsevej 184470 Svebølle,ølle,1.325.000,20-02-2006,Alm. Salg,10.515,5,Villa,126,1930,,Aktuel værdi
+Skolevænget 14470 Svebølle,ølle,1.100.000,16-02-2006,Alm. Salg,10.185,3,Villa,108,1967,,Aktuel værdi
+Gl Skovvej 104470 Svebølle,ølle,1.200.000,16-02-2006,Alm. Salg,7.017,5,Villa,171,1920,,Aktuel værdi
+Rødtjørnevej 14470 Svebølle,ølle,710.000,13-02-2006,Alm. Salg,6.396,4,Villa,111,1942,,Aktuel værdi
+Højbjergvej 124470 Svebølle,ølle,1.050.000,09-02-2006,Alm. Salg,9.905,2,Villa,106,1940,,Aktuel værdi
+Blachs Vej 24470 Svebølle,ølle,785.000,23-01-2006,Alm. Salg,9.235,3,Rækkehus,85,1988,,Aktuel værdi
+Søbanken 64470 Svebølle,ølle,2.600.000,10-01-2006,Alm. Salg,8.934,9,Villa,291,1877,,Aktuel værdi
+Stenrand 114470 Svebølle,ølle,935.000,07-01-2006,Alm. Salg,10.872,3,Villa,86,1928,,Aktuel værdi
+Faksbjergvej 114470 Svebølle,ølle,1.250.000,28-12-2005,Alm. Salg,10.416,4,Villa,120,1976,,Aktuel værdi
+Gl Løgtved Huse 24470 Svebølle,ølle,910.000,27-12-2005,Alm. Salg,6.275,6,Villa,145,1954,,Aktuel værdi
+Jorløse Byvej 504470 Svebølle,ølle,1.375.000,20-12-2005,Alm. Salg,8.593,5,Villa,160,1900,,Aktuel værdi
+Hovedgaden 474470 Svebølle,ølle,1.295.000,02-12-2005,Alm. Salg,8.931,7,Villa,145,1929,,Aktuel værdi
+Skolevænget 34470 Svebølle,ølle,1.075.000,26-11-2005,Alm. Salg,10.238,4,Villa,105,1969,,Aktuel værdi
+Skovgårdsvej 74470 Svebølle,ølle,1.075.000,18-11-2005,Alm. Salg,7.312,4,Villa,147,1870,,Aktuel værdi
+Kalundborgvej 944470 Svebølle,ølle,2.050.000,01-11-2005,Alm. Salg,7.295,6,Villa,281,1975,,Aktuel værdi
+Rødtjørnevej 44470 Svebølle,ølle,1.650.000,31-10-2005,Alm. Salg,8.967,5,Villa,184,1936,,Aktuel værdi
+Stenrand 174470 Svebølle,ølle,380.000,25-10-2005,Alm. Salg,5.205,3,Stuehus,73,1900,,
+Lavendelvej 674470 Svebølle,ølle,225.000,24-10-2005,Alm. Salg,1.222,5,Villa,184,2007,,Aktuel værdi
+Skolelodden 64470 Svebølle,ølle,1.100.000,16-10-2005,Fam. Salg,5.263,6,Villa,209,1967,,Aktuel værdi
+Pilekrogen 23A4470 Svebølle,ølle,920.000,13-10-2005,Alm. Salg,9.108,5,Villa,101,1964,,Aktuel værdi
+Rosenhaven 224470 Svebølle,ølle,920.000,07-10-2005,Alm. Salg,11.084,4,Rækkehus,83,1979,,Aktuel værdi
+Rosenhaven 34470 Svebølle,ølle,914.868,30-09-2005,Alm. Salg,11.022,4,Rækkehus,83,1975,,Aktuel værdi
+Hovedgaden 64470 Svebølle,ølle,1.060.000,27-09-2005,Alm. Salg,6.235,6,Villa,170,1966,,Aktuel værdi
+Lavendelvej 614470 Svebølle,ølle,1.695.000,26-09-2005,Alm. Salg,11.609,5,Villa,146,2006,,Aktuel værdi
+Jorløsevej 394470 Svebølle,ølle,1.000.000,20-09-2005,Alm. Salg,-,6,Stuehus,159,1927,,
+Lavendelvej 644470 Svebølle,ølle,195.000,06-09-2005,Alm. Salg,1.083,6,Villa,180,2007,,Aktuel værdi
+Jorløse Byvej 124470 Svebølle,ølle,862.000,20-08-2005,Fam. Salg,8.288,5,Villa,104,1912,,Aktuel værdi
+Frederiksberg 34470 Svebølle,ølle,1.170.000,17-08-2005,Alm. Salg,8.796,4,Villa,133,1946,,Aktuel værdi
+Stengårdsvej 84470 Svebølle,ølle,995.000,16-08-2005,Alm. Salg,8.089,4,Villa,123,1931,,Aktuel værdi
+Højvangen 6A4470 Svebølle,ølle,692.936,19-07-2005,Alm. Salg,11.744,2,Rækkehus,59,1972,,Aktuel værdi
+Øresøvej 164470 Svebølle,ølle,1.175.000,10-07-2005,Alm. Salg,4.978,8,Villa,236,1880,,Aktuel værdi
+Lavendelvej 694470 Svebølle,ølle,220.000,06-07-2005,Alm. Salg,1.341,5,Villa,164,2007,,Aktuel værdi
+Jorløse Byvej 14470 Svebølle,ølle,818.733,27-06-2005,Alm. Salg,14.116,3,Villa,58,1964,,Aktuel værdi
+Lavendelvej 274470 Svebølle,ølle,220.000,22-06-2005,Alm. Salg,-,6,Villa,192,2006,,Aktuel værdi
+Vesterled 244470 Svebølle,ølle,1.195.000,17-06-2005,Alm. Salg,8.074,6,Villa,148,1970,,Aktuel værdi
+Kalundborgvej 674470 Svebølle,ølle,940.000,30-05-2005,Alm. Salg,6.911,4,Villa,136,1901,,Aktuel værdi
+Gyldenrisvej 44470 Svebølle,ølle,1.185.000,29-05-2005,Alm. Salg,9.556,4,Villa,124,1978,,Aktuel værdi
+Rugtved Huse 14470 Svebølle,ølle,110.000,23-05-2005,Alm. Salg,839,3,Stuehus,131,1890,,
+Lavendelvej 254470 Svebølle,ølle,220.000,20-05-2005,Alm. Salg,1.325,5,Villa,166,2006,,Aktuel værdi
+Tissøvej 15A4470 Svebølle,ølle,800.000,12-05-2005,Alm. Salg,5.031,5,Villa,159,1943,,Aktuel værdi
+Lavendelvej 294470 Svebølle,ølle,220.000,10-05-2005,Alm. Salg,1.122,7,Villa,196,2005,,Aktuel værdi
+Pilekrogen 294470 Svebølle,ølle,1.085.000,30-04-2005,Alm. Salg,8.750,3,Villa,124,1989,,Aktuel værdi
+Skolevænget 374470 Svebølle,ølle,1.098.000,27-04-2005,Alm. Salg,9.891,4,Villa,111,1970,,Aktuel værdi
+Øresøvej 44470 Svebølle,ølle,2.695.000,22-04-2005,Alm. Salg,17.730,5,Stuehus,152,1934,,
+Lerbjergvej 124470 Svebølle,ølle,1.470.000,20-04-2005,Alm. Salg,9.607,4,Villa,153,1986,,Aktuel værdi
+Parcelvej 74470 Svebølle,ølle,1.550.000,04-04-2005,Alm. Salg,8.031,8,Villa,193,1920,,Aktuel værdi
+Frederiksberg 614470 Svebølle,ølle,800.000,01-04-2005,Alm. Salg,8.791,3,Villa,91,1947,,Aktuel værdi
+Saltoftevej 194470 Svebølle,ølle,950.000,18-03-2005,Alm. Salg,6.168,5,Villa,154,1964,,Aktuel værdi
+Skolevænget 194470 Svebølle,ølle,1.095.000,18-03-2005,Alm. Salg,10.045,3,Villa,109,1971,,Aktuel værdi
+Kalundborgvej 934470 Svebølle,ølle,413.000,17-03-2005,Andet,3.529,4,Villa,117,1949,,Aktuel værdi
+Kalundborgvej 754470 Svebølle,ølle,1.150.000,08-03-2005,Alm. Salg,8.394,4,Villa,137,1935,,Aktuel værdi
+Faksbjergvej 24470 Svebølle,ølle,1.185.000,07-03-2005,Alm. Salg,9.793,4,Villa,121,1973,,Aktuel værdi
+Jernbanevej 44470 Svebølle,ølle,800.246,02-03-2005,Alm. Salg,6.062,4,Villa,132,1912,,Aktuel værdi
+Nyvej 14470 Svebølle,ølle,498.000,01-03-2005,Auktion,3.890,4,Villa,128,1943,,Aktuel værdi
+Skolevej 64470 Svebølle,ølle,758.000,01-03-2005,Alm. Salg,6.534,4,Villa,116,1932,,Aktuel værdi
+Gl Skovvej 364470 Svebølle,ølle,1.280.000,21-02-2005,Alm. Salg,6.772,6,Villa,189,1906,,Aktuel værdi
+Fingerbølvej 84470 Svebølle,ølle,995.000,16-02-2005,Alm. Salg,-,3,Villa,133,1978,,Aktuel værdi
+Kirkebakken 54470 Svebølle,ølle,820.000,03-02-2005,Alm. Salg,10.379,2,Villa,79,1960,,Aktuel værdi
+Kalundborgvej 744470 Svebølle,ølle,725.000,21-01-2005,Alm. Salg,6.041,4,Villa,120,1900,,Aktuel værdi
+Platanhaven 184470 Svebølle,ølle,359.999,20-01-2005,Andet,-,3,Rækkehus,163,1976,,Aktuel værdi
+Lavendelvej 634470 Svebølle,ølle,220.000,14-01-2005,Alm. Salg,1.122,5,Villa,196,2007,,Aktuel værdi
+Kalundborgvej 1174470 Svebølle,ølle,702.661,15-12-2004,Alm. Salg,8.894,3,Villa,79,1890,,Aktuel værdi
+Højvangen 274470 Svebølle,ølle,1.375.000,12-12-2004,Alm. Salg,10.036,5,Villa,137,1973,,Aktuel værdi
+Tissøvej 64470 Svebølle,ølle,440.000,08-12-2004,Alm. Salg,4.400,3,Stuehus,100,1881,,
+Skolevej 14470 Svebølle,ølle,1.035.000,05-12-2004,Alm. Salg,7.089,4,Villa,146,1942,,Aktuel værdi
+Rosenhaven 134470 Svebølle,ølle,725.000,30-11-2004,Andet,11.328,3,Rækkehus,64,1976,,Aktuel værdi
+Berberisvej 1C4470 Svebølle,ølle,1.050.000,29-11-2004,Alm. Salg,12.352,3,Rækkehus,85,1999,,Aktuel værdi
+Lerbjergvej 214470 Svebølle,ølle,965.000,24-11-2004,Fam. Salg,11.352,3,Villa,85,1988,,Aktuel værdi
+Lavendelvej 394470 Svebølle,ølle,220.000,21-11-2004,Alm. Salg,1.428,5,Villa,154,2006,,Aktuel værdi
+Stationsvej 64470 Svebølle,ølle,2.350.000,09-11-2004,Alm. Salg,14.779,7,Industri o.l.,159,1970,,Aktuel værdi
+Jorløsevej 31B4470 Svebølle,ølle,75.000,02-11-2004,Alm. Salg,641,3,Stuehus,117,1880,,
+Søbanken 124470 Svebølle,ølle,1.400.000,02-11-2004,Alm. Salg,10.937,4,Villa,128,1917,,Aktuel værdi
+Kalundborgvej 914470 Svebølle,ølle,800.000,01-11-2004,Alm. Salg,-,6,Villa,141,1947,,Aktuel værdi
+Jernbanevej 344470 Svebølle,ølle,600.000,01-11-2004,Alm. Salg,10.909,2,Rækkehus,55,1982,,Aktuel værdi
+"Centret 2B, 14470 Svebølle",ølle,466.068,26-10-2004,Andet,-,3,Lejlighed,118,1978,,Aktuel værdi
+Pindsbjergvej 44470 Svebølle,ølle,1.000.000,25-10-2004,Alm. Salg,-,4,Villa,122,1975,,Aktuel værdi
+Jorløse Byvej 254470 Svebølle,ølle,845.000,11-10-2004,Alm. Salg,6.601,5,Villa,128,1952,,Aktuel værdi
+Jorløse Byvej 114470 Svebølle,ølle,805.585,09-10-2004,Alm. Salg,8.570,4,Villa,94,1900,,Aktuel værdi
+Ebbedalen 94470 Svebølle,ølle,995.000,06-10-2004,Alm. Salg,11.569,3,Rækkehus,86,1998,,Aktuel værdi
+Lindevej 74470 Svebølle,ølle,898.000,27-09-2004,Alm. Salg,7.360,4,Villa,122,1892,,Aktuel værdi
+Nyvej 44470 Svebølle,ølle,1.240.000,23-09-2004,Alm. Salg,11.272,5,Villa,110,1939,,Aktuel værdi
+Platanhaven 54470 Svebølle,ølle,925.000,16-09-2004,Alm. Salg,7.341,3,Rækkehus,126,1976,,Aktuel værdi
+Fabrikvej 104470 Svebølle,ølle,654.500,10-08-2004,Alm. Salg,5.950,5,Villa,110,1935,,Aktuel værdi
+Pilekrogen 24470 Svebølle,ølle,781.000,09-08-2004,Fam. Salg,8.308,3,Villa,94,1959,,Aktuel værdi
+Tissøvej 184470 Svebølle,ølle,665.000,02-08-2004,Alm. Salg,5.937,4,Villa,112,1956,,Aktuel værdi
+Gammelrand 24470 Svebølle,ølle,548.000,12-07-2004,Alm. Salg,5.372,2,Villa,102,1880,,Aktuel værdi
+Døvnældevej 24470 Svebølle,ølle,1.162.331,25-06-2004,Fam. Salg,8.872,4,Villa,131,1975,,Aktuel værdi
+Platanhaven 334470 Svebølle,ølle,835.000,25-06-2004,Alm. Salg,6.472,3,Rækkehus,129,1976,,Aktuel værdi
+Højvangen 124470 Svebølle,ølle,1.225.000,22-06-2004,Alm. Salg,7.000,7,Villa,175,1972,,Aktuel værdi
+Frederiksberg 304470 Svebølle,ølle,995.000,22-06-2004,Alm. Salg,9.299,3,Villa,107,1950,,Aktuel værdi
+Lavendelvej 354470 Svebølle,ølle,205.000,12-06-2004,Alm. Salg,1.507,4,Villa,136,2006,,Aktuel værdi
+Lavendelvej 554470 Svebølle,ølle,220.000,03-06-2004,Alm. Salg,1.023,6,Villa,215,2005,,Aktuel værdi
+Vinkelvej 6A4470 Svebølle,ølle,724.876,03-06-2004,Alm. Salg,9.537,3,Rækkehus,76,1979,,Aktuel værdi
+Frederiksberg 414470 Svebølle,ølle,1.200.000,02-06-2004,Alm. Salg,7.692,7,Villa,156,1967,,Aktuel værdi
+Jorløsevej 44470 Svebølle,ølle,495.000,01-06-2004,Alm. Salg,8.684,2,Villa,57,1897,,Aktuel værdi
+Lavendelvej 534470 Svebølle,ølle,240.000,26-05-2004,Alm. Salg,1.610,4,Villa,149,2006,,Aktuel værdi
+Lavendelvej 334470 Svebølle,ølle,1.495.000,25-05-2004,Alm. Salg,9.835,5,Villa,152,2004,,Aktuel værdi
+Nyrandsvej 34470 Svebølle,ølle,250.000,03-05-2004,Alm. Salg,1.937,4,Stuehus,129,1963,,
+Nyrandsvej 54470 Svebølle,ølle,1.450.000,03-05-2004,Alm. Salg,10.357,5,Villa,140,1930,,Aktuel værdi
+Kirkebakken 1C4470 Svebølle,ølle,775.000,03-05-2004,Alm. Salg,7.045,3,Villa,110,1950,,Aktuel værdi
+Anemonevej 244470 Svebølle,ølle,551.868,27-04-2004,Fam. Salg,4.180,5,Villa,132,1979,,Aktuel værdi
+Skolevænget 204470 Svebølle,ølle,715.569,21-04-2004,Alm. Salg,5.504,5,Villa,130,1910,,Aktuel værdi
+Lerbjergvej 9B4470 Svebølle,ølle,800.000,05-04-2004,Alm. Salg,9.523,3,Rækkehus,84,1984,,Aktuel værdi
+Gl Svebøllevej 174470 Svebølle,ølle,1.425.000,25-03-2004,Alm. Salg,8.906,5,Villa,160,1915,,Aktuel værdi
+Kalundborgvej 654470 Svebølle,ølle,75.000,20-03-2004,Auktion,380,5,Villa,197,2006,,Aktuel værdi
+Rosenhaven 1D4470 Svebølle,ølle,837.000,09-03-2004,Alm. Salg,8.287,4,Rækkehus,101,1978,,Aktuel værdi
+Anemonevej 324470 Svebølle,ølle,974.680,09-03-2004,Alm. Salg,7.674,4,Villa,127,1979,,Aktuel værdi
+Anemonevej 14470 Svebølle,ølle,863.042,04-03-2004,Alm. Salg,8.630,3,Villa,100,1979,,Aktuel værdi
+Jorløse Byvej 144470 Svebølle,ølle,975.000,04-03-2004,Alm. Salg,7.862,4,Villa,124,1938,,Aktuel værdi
+Tissøvej 134470 Svebølle,ølle,561.000,03-03-2004,Fam. Salg,5.008,5,Villa,112,1961,,Aktuel værdi
+Rosenhaven 274470 Svebølle,ølle,850.000,20-02-2004,Alm. Salg,10.240,4,Rækkehus,83,1977,,Aktuel værdi
+Tissøvej 3B4470 Svebølle,ølle,200.000,06-02-2004,Alm. Salg,1.036,5,Stuehus,193,1971,,
+Lavendelvej 424470 Svebølle,ølle,1.495.000,03-02-2004,Alm. Salg,10.912,5,Villa,137,1999,,Aktuel værdi
+Kalundborgvej 964470 Svebølle,ølle,750.000,30-01-2004,Alm. Salg,8.720,2,Villa,86,1952,,Aktuel værdi
+Gyldenrisvej 94470 Svebølle,ølle,926.000,15-01-2004,Alm. Salg,8.052,4,Villa,115,1978,,Aktuel værdi
+Højvangen 5A4470 Svebølle,ølle,378.250,14-01-2004,Alm. Salg,6.521,2,Rækkehus,58,1974,,Aktuel værdi
+Højvangen 5D4470 Svebølle,ølle,378.250,14-01-2004,Alm. Salg,6.521,2,Rækkehus,58,1974,,Aktuel værdi
+Jernbanevej 284470 Svebølle,ølle,355.668,14-01-2004,Alm. Salg,6.028,2,Rækkehus,59,1982,,Aktuel værdi
+Jernbanevej 304470 Svebølle,ølle,355.688,14-01-2004,Alm. Salg,6.132,2,Rækkehus,58,1982,,Aktuel værdi
+Højvangen 6B4470 Svebølle,ølle,369.167,14-01-2004,Alm. Salg,6.257,2,Rækkehus,59,1972,,Aktuel værdi
+Højvangen 7A4470 Svebølle,ølle,369.167,14-01-2004,Alm. Salg,6.592,2,Rækkehus,56,1972,,Aktuel værdi
+Højvangen 6C4470 Svebølle,ølle,369.167,14-01-2004,Alm. Salg,6.257,2,Rækkehus,59,1972,,Aktuel værdi
+Højvangen 7B4470 Svebølle,ølle,369.166,14-01-2004,Alm. Salg,6.592,2,Rækkehus,56,1972,,Aktuel værdi
+Jernbanevej 384470 Svebølle,ølle,355.666,14-01-2004,Alm. Salg,6.466,2,Rækkehus,55,1982,,Aktuel værdi
+Højvangen 5C4470 Svebølle,ølle,378.250,14-01-2004,Alm. Salg,6.521,2,Rækkehus,58,1974,,Aktuel værdi
+Højvangen 7C4470 Svebølle,ølle,369.166,14-01-2004,Alm. Salg,6.592,2,Rækkehus,56,1972,,Aktuel værdi
+Fabrikvej 12A4470 Svebølle,ølle,405.000,14-01-2004,Alm. Salg,6.428,2,Lejlighed,63,1977,,Aktuel værdi
+Fabrikvej 12C4470 Svebølle,ølle,405.000,14-01-2004,Alm. Salg,6.639,2,Lejlighed,61,1977,,Aktuel værdi
+Vinkelvej 6B4470 Svebølle,ølle,502.500,14-01-2004,Alm. Salg,6.611,2,Rækkehus,76,1979,,Aktuel værdi
+Feltergårdsvej 104470 Svebølle,ølle,418.750,14-01-2004,Alm. Salg,6.754,2,Rækkehus,62,1983,,Aktuel værdi
+Mindevej 6A4470 Svebølle,ølle,371.000,14-01-2004,Alm. Salg,6.183,2,Lejlighed,60,1979,,Aktuel værdi
+Mindevej 6C4470 Svebølle,ølle,371.000,14-01-2004,Alm. Salg,6.396,2,Lejlighed,58,1979,,Aktuel værdi
+Mindevej 6B4470 Svebølle,ølle,371.000,14-01-2004,Alm. Salg,6.508,2,Lejlighed,57,1979,,Aktuel værdi
+Feltergårdsvej 84470 Svebølle,ølle,418.750,14-01-2004,Alm. Salg,6.864,2,Rækkehus,61,1983,,Aktuel værdi
+Feltergårdsvej 64470 Svebølle,ølle,418.750,14-01-2004,Alm. Salg,6.864,2,Rækkehus,61,1983,,Aktuel værdi
+Nyrandsvej 214470 Svebølle,ølle,120.000,07-01-2004,Alm. Salg,1.481,2,Villa,81,1870,,Aktuel værdi
+Jernbanevej 324470 Svebølle,ølle,355.666,04-01-2004,Alm. Salg,6.466,2,Rækkehus,55,1982,,Aktuel værdi
+Højvangen 264470 Svebølle,ølle,1.125.000,30-12-2003,Alm. Salg,-,6,Villa,185,1973,,Aktuel værdi
+Højvangen 14470 Svebølle,ølle,920.000,16-12-2003,Alm. Salg,9.484,3,Villa,97,1960,,Aktuel værdi
+Mosevej 24470 Svebølle,ølle,572.500,28-11-2003,Alm. Salg,3.512,4,Villa,163,1927,,Aktuel værdi
+Højbjergvej 374470 Svebølle,ølle,835.000,26-11-2003,Alm. Salg,3.901,3,Villa,214,1910,,Aktuel værdi
+Pilekrogen 134470 Svebølle,ølle,212.701,18-11-2003,Alm. Salg,1.729,5,Villa,123,1959,,Aktuel værdi
+Lavendelvej 494470 Svebølle,ølle,220.000,13-11-2003,Alm. Salg,1.375,4,Villa,160,2010,,Aktuel værdi
+Højvangen 44470 Svebølle,ølle,735.000,07-11-2003,Alm. Salg,8.076,3,Villa,91,1961,,Aktuel værdi
+Parcelvej 84470 Svebølle,ølle,945.000,01-11-2003,Alm. Salg,8.513,4,Villa,111,1932,,Aktuel værdi
+Jorløse Tved 24470 Svebølle,ølle,1.260.000,22-10-2003,Alm. Salg,15.750,2,Stuehus,80,1900,,
+Øresøvej 64470 Svebølle,ølle,875.000,16-10-2003,Alm. Salg,9.020,3,Villa,97,1780,,Aktuel værdi
+Højbjergvej 64470 Svebølle,ølle,591.102,10-10-2003,Alm. Salg,6.222,2,Villa,95,1931,,Aktuel værdi
+Smedestræde 34470 Svebølle,ølle,1.070.000,08-10-2003,Alm. Salg,5.691,6,Villa,188,1899,,Aktuel værdi
+Kalundborgvej 864470 Svebølle,ølle,900.000,06-10-2003,Alm. Salg,5.844,7,Stuehus,154,1909,,
+Vesterled 194470 Svebølle,ølle,1.100.000,03-10-2003,Alm. Salg,-,8,Villa,267,1971,,Aktuel værdi
+Skolevænget 314470 Svebølle,ølle,975.000,25-09-2003,Alm. Salg,-,2,Villa,104,1973,,Aktuel værdi
+Lavendelvej 314470 Svebølle,ølle,205.000,23-09-2003,Alm. Salg,1.331,4,Villa,154,2006,,Aktuel værdi
+Hovedgaden 174470 Svebølle,ølle,995.000,12-09-2003,Alm. Salg,6.589,5,Villa,151,1938,,Aktuel værdi
+Jorløse Byvej 424470 Svebølle,ølle,524.792,12-09-2003,Alm. Salg,7.288,3,Villa,72,1877,,Aktuel værdi
+Mindevej 34470 Svebølle,ølle,1.095.000,28-08-2003,Alm. Salg,8.111,5,Villa,135,1963,,Aktuel værdi
+Mosevej 94470 Svebølle,ølle,626.003,30-07-2003,Alm. Salg,9.484,1,Villa,66,1877,,Aktuel værdi
+Øresøvej 114470 Svebølle,ølle,125.000,27-07-2003,Alm. Salg,8.928,1,Sommerhus,14,1965,,Aktuel værdi
+Stengårdsvej 44470 Svebølle,ølle,645.729,21-07-2003,Alm. Salg,5.615,3,Villa,115,1902,,Aktuel værdi
+Rosenhaven 64470 Svebølle,ølle,735.000,12-07-2003,Alm. Salg,8.855,4,Rækkehus,83,1975,,Aktuel værdi
+Jorløse Byvej 414470 Svebølle,ølle,595.000,03-07-2003,Alm. Salg,3.361,6,Villa,177,1827,,Aktuel værdi
+Højvangen 284470 Svebølle,ølle,1.330.644,02-07-2003,Alm. Salg,9.572,6,Villa,139,1972,,Aktuel værdi
+Anemonevej 214470 Svebølle,ølle,995.000,30-06-2003,Alm. Salg,8.504,3,Villa,117,1980,,Aktuel værdi
+Lavendelvej 744470 Svebølle,ølle,391.666,29-05-2003,Alm. Salg,2.402,5,Villa,163,2002,,Aktuel værdi
+Lavendelvej 484470 Svebølle,ølle,1.020.000,23-05-2003,Alm. Salg,7.727,4,Villa,132,2002,,Aktuel værdi
+Svinghulen 64470 Svebølle,ølle,1.750.000,21-05-2003,Alm. Salg,10.057,6,Villa,174,1935,,Aktuel værdi
+Feltergårdsvej 54470 Svebølle,ølle,752.027,21-05-2003,Alm. Salg,5.529,4,Villa,136,1949,,Aktuel værdi
+Jorløse Byvej 74470 Svebølle,ølle,775.000,14-05-2003,Alm. Salg,8.072,3,Villa,96,1918,,Aktuel værdi
+Lavendelvej 474470 Svebølle,ølle,220.000,08-05-2003,Alm. Salg,1.189,5,Villa,185,2008,,Aktuel værdi
+Pilekrogen 214470 Svebølle,ølle,1.075.000,26-04-2003,Alm. Salg,8.206,4,Villa,131,1972,,Aktuel værdi
+Gl Skovvej 384470 Svebølle,ølle,2.740.591,25-04-2003,Alm. Salg,4.824,14,Stuehus,568,1896,,
+Tissøvej 94470 Svebølle,ølle,825.000,16-04-2003,Alm. Salg,7.500,4,Villa,110,1961,,Aktuel værdi
+Jorløse Byvej 494470 Svebølle,ølle,1.395.000,26-03-2003,Alm. Salg,6.642,4,Villa,210,1962,,Aktuel værdi
+Rugtvedvej 64470 Svebølle,ølle,1.400.000,21-03-2003,Alm. Salg,5.447,10,Stuehus,257,1903,,
+Platanhaven 354470 Svebølle,ølle,940.000,20-03-2003,Alm. Salg,6.619,5,Rækkehus,142,1974,,Aktuel værdi
+Mosevej 44470 Svebølle,ølle,420.000,19-02-2003,Alm. Salg,-,4,Stuehus,214,1890,,
+Jorløsevej 244470 Svebølle,ølle,6.600.000,18-02-2003,Alm. Salg,36.666,8,Stuehus,180,1917,,
+Kalundborgvej 834470 Svebølle,ølle,567.117,14-02-2003,Alm. Salg,4.296,5,Villa,132,1945,,Aktuel værdi
+Frederiksberg 494470 Svebølle,ølle,795.000,12-02-2003,Alm. Salg,6.463,3,Villa,123,1965,,Aktuel værdi
+Rugtvedvej 74470 Svebølle,ølle,375.000,10-02-2003,Alm. Salg,5.434,2,Villa,69,1948,,Aktuel værdi
+Højvangen 314470 Svebølle,ølle,1.195.000,29-01-2003,Alm. Salg,6.988,6,Villa,171,1974,,Aktuel værdi
+Fabrikvej 74470 Svebølle,ølle,713.895,26-01-2003,Alm. Salg,5.621,4,Villa,127,1912,,Aktuel værdi
+Øresøvej 154470 Svebølle,ølle,830.670,16-01-2003,Alm. Salg,6.753,6,Villa,123,1837,,Aktuel værdi
+Rosenhaven 354470 Svebølle,ølle,725.000,08-01-2003,Alm. Salg,7.178,4,Rækkehus,101,1979,,Aktuel værdi
+Lerbjergvej 244470 Svebølle,ølle,945.000,07-01-2003,Alm. Salg,-,6,Villa,175,1981,,Aktuel værdi
+Jorløse Byvej 354470 Svebølle,ølle,345.000,02-01-2003,Alm. Salg,7.840,2,Villa,44,1827,,Aktuel værdi
+Skovgårdsvej 24470 Svebølle,ølle,675.000,30-12-2002,Alm. Salg,7.031,3,Villa,96,1900,,Aktuel værdi
+Kalundborgvej 814470 Svebølle,ølle,550.000,21-12-2002,Alm. Salg,7.971,2,Villa,69,1945,,Aktuel værdi
+Åvej 44470 Svebølle,ølle,1.140.000,02-12-2002,Alm. Salg,-,4,Villa,109,1900,,Aktuel værdi
+Frederiksberg 194470 Svebølle,ølle,691.642,13-11-2002,Alm. Salg,5.361,4,Villa,129,1956,,Aktuel værdi
+Kalundborgvej 1094470 Svebølle,ølle,150.000,11-11-2002,Alm. Salg,2.586,3,Villa,58,1930,,Aktuel værdi
+Rosenhaven 374470 Svebølle,ølle,895.000,03-11-2002,Alm. Salg,8.861,4,Rækkehus,101,1979,,Aktuel værdi
+Nyrandsvej 64470 Svebølle,ølle,325.000,28-10-2002,Andet,3.693,3,Villa,88,1948,,Aktuel værdi
+Smedestræde 74470 Svebølle,ølle,699.500,28-10-2002,Alm. Salg,5.978,5,Villa,117,1926,,Aktuel værdi
+Lerbjergvej 304470 Svebølle,ølle,1.245.000,17-10-2002,Alm. Salg,9.222,4,Villa,135,1985,,Aktuel værdi
+Højvangen 174470 Svebølle,ølle,1.095.000,12-10-2002,Alm. Salg,6.186,4,Villa,177,1972,,Aktuel værdi
+Stationsvej 24470 Svebølle,ølle,800.000,12-10-2002,Alm. Salg,5.555,5,Villa,144,1880,,Aktuel værdi
+Skolelodden 94470 Svebølle,ølle,675.000,30-09-2002,Alm. Salg,3.813,4,Villa,177,1934,,Aktuel værdi
+Madesøvej 34470 Svebølle,ølle,2.900.000,24-09-2002,Alm. Salg,22.307,5,Stuehus,130,1862,,
+Gl Skovvej 34470 Svebølle,ølle,770.000,21-09-2002,Alm. Salg,7.700,3,Villa,100,1902,,Aktuel værdi
+Nyvej 154470 Svebølle,ølle,502.109,08-09-2002,Alm. Salg,4.115,5,Villa,122,1949,,Aktuel værdi
+Jorløse Tved 34470 Svebølle,ølle,25.150.500,26-08-2002,Fam. Salg,226.581,5,Villa,111,1857,,Aktuel værdi
+Anemonevej 454470 Svebølle,ølle,992.840,15-08-2002,Alm. Salg,6.708,4,Villa,148,1979,,Aktuel værdi
+Rugtvedvej 134470 Svebølle,ølle,850.000,13-08-2002,Alm. Salg,-,2,Villa,102,1912,,Aktuel værdi
+Lavendelvej 624470 Svebølle,ølle,190.000,23-07-2002,Alm. Salg,794,6,Villa,239,2005,,Aktuel værdi
+Stationsvej 194470 Svebølle,ølle,975.000,23-07-2002,Alm. Salg,7.065,5,Villa,138,1972,,Aktuel værdi
+Vesterled 204470 Svebølle,ølle,959.234,22-07-2002,Alm. Salg,7.553,4,Villa,127,1970,,Aktuel værdi
+Døvnældevej 74470 Svebølle,ølle,1.125.000,27-06-2002,Alm. Salg,9.615,4,Villa,117,1974,,Aktuel værdi
+Hovedgaden 94470 Svebølle,ølle,555.431,26-06-2002,Alm. Salg,6.240,2,Villa,89,1950,,Aktuel værdi
+Mindegårdsvej 114470 Svebølle,ølle,1.215.000,22-06-2002,Alm. Salg,-,3,Stuehus,156,1923,,
+Lindevej 64470 Svebølle,ølle,725.000,16-06-2002,Alm. Salg,5.330,4,Villa,136,1915,,Aktuel værdi
+Rosenhaven 324470 Svebølle,ølle,310.000,10-06-2002,Andet,3.039,4,Rækkehus,102,1978,,Aktuel værdi
+Lerbjergvej 154470 Svebølle,ølle,1.150.000,17-05-2002,Alm. Salg,8.778,4,Villa,131,1987,,Aktuel værdi
+Rosenhaven 314470 Svebølle,ølle,865.000,14-05-2002,Alm. Salg,8.564,4,Rækkehus,101,1978,,Aktuel værdi
+Lerbjergvej 334470 Svebølle,ølle,896.095,30-04-2002,Fam. Salg,6.266,6,Villa,143,1982,,Aktuel værdi
+Platanhaven 214470 Svebølle,ølle,620.000,25-04-2002,Alm. Salg,4.769,4,Rækkehus,130,1976,,Aktuel værdi
+Fingerbølvej 124470 Svebølle,ølle,945.000,15-04-2002,Alm. Salg,8.146,4,Villa,116,1977,,Aktuel værdi
+Jydegårdsvej 54470 Svebølle,ølle,728.113,03-04-2002,Alm. Salg,5.127,2,Villa,142,1947,,Aktuel værdi
+Lavendelvej 684470 Svebølle,ølle,139.564,27-03-2002,Alm. Salg,680,6,Villa,205,2008,,Aktuel værdi
+Kalundborgvej 714470 Svebølle,ølle,707.107,12-03-2002,Alm. Salg,4.447,3,Villa,159,1934,,Aktuel værdi
+Nyrandsvej 174470 Svebølle,ølle,325.287,22-02-2002,Alm. Salg,4.066,3,Villa,80,1949,,Aktuel værdi
+Skolevænget 424470 Svebølle,ølle,722.079,20-02-2002,Alm. Salg,4.376,5,Villa,165,1973,,Aktuel værdi
+Jorløsevej 164470 Svebølle,ølle,522.500,20-02-2002,Alm. Salg,4.427,2,Villa,118,1926,,Aktuel værdi
+Følfodvej 44470 Svebølle,ølle,950.000,11-02-2002,Alm. Salg,8.407,5,Villa,113,1977,,Aktuel værdi
+Jorløse Byvej 294470 Svebølle,ølle,375.000,09-02-2002,Alm. Salg,-,7,Villa,141,1920,,Aktuel værdi
+Nordvestvej 184470 Svebølle,ølle,600.000,04-02-2002,Alm. Salg,4.477,5,Villa,134,2003,,Aktuel værdi
+Hovedgaden 54470 Svebølle,ølle,778.486,16-01-2002,Alm. Salg,8.461,4,Villa,92,1960,,Aktuel værdi
+Platanhaven 14470 Svebølle,ølle,400.000,11-01-2002,Auktion,3.100,5,Rækkehus,129,1976,,Aktuel værdi
+Lerbjergvej 474470 Svebølle,ølle,845.000,21-12-2001,Alm. Salg,9.941,3,Villa,85,1987,,Aktuel værdi
+Lavendelvej 704470 Svebølle,ølle,1.050.000,14-12-2001,Alm. Salg,6.325,6,Villa,166,2002,,Aktuel værdi
+Gl Svebøllevej 44470 Svebølle,ølle,270.000,12-12-2001,Alm. Salg,927,6,Stuehus,291,1937,,
+Gl Skovvej 144470 Svebølle,ølle,780.000,10-12-2001,Fam. Salg,4.382,7,Villa,178,1922,,Aktuel værdi
+Bjergsted Bakker 184470 Svebølle,ølle,1.350.000,02-12-2001,Alm. Salg,11.440,3,Stuehus,118,1850,,
+Mosevej 74470 Svebølle,ølle,280.000,05-11-2001,Alm. Salg,2.240,5,Villa,125,1900,,Aktuel værdi
+Søbanken 104470 Svebølle,ølle,420.000,23-10-2001,Alm. Salg,-,6,Villa,251,1800,,Aktuel værdi
+Højbjergvej 184470 Svebølle,ølle,1.180.000,29-09-2001,Alm. Salg,11.683,3,Villa,101,1927,,Aktuel værdi
+Gl Skovvej 214470 Svebølle,ølle,500.000,24-09-2001,Alm. Salg,4.901,3,Villa,102,1934,,Aktuel værdi
+Gl Svebøllevej 24470 Svebølle,ølle,100.000,24-09-2001,Alm. Salg,636,5,Stuehus,157,1969,,
+Pilekrogen 34470 Svebølle,ølle,696.755,18-09-2001,Alm. Salg,7.656,3,Villa,91,1961,,Aktuel værdi
+Skolevænget 324470 Svebølle,ølle,797.063,12-09-2001,Alm. Salg,4.379,6,Villa,182,1905,,Aktuel værdi
+Skolelodden 124470 Svebølle,ølle,844.474,03-09-2001,Alm. Salg,6.495,4,Villa,130,1972,,Aktuel værdi
+Stenrand 104470 Svebølle,ølle,6.700.000,24-08-2001,Alm. Salg,50.375,6,Villa,133,1900,,Aktuel værdi
+Frederiksberg 174470 Svebølle,ølle,735.000,20-08-2001,Alm. Salg,-,5,Villa,140,1942,,Aktuel værdi
+Rugtved Huse 24470 Svebølle,ølle,550.000,16-08-2001,Fam. Salg,6.707,2,Stuehus,82,1900,,
+Jorløse Byvej 104470 Svebølle,ølle,620.000,01-08-2001,Alm. Salg,5.254,2,Villa,118,1900,,Aktuel værdi
+Stationsvej 11A4470 Svebølle,ølle,875.000,15-07-2001,Alm. Salg,6.294,5,Villa,139,1973,,Aktuel værdi
+Tissøvej 54470 Svebølle,ølle,1.500.000,05-07-2001,Alm. Salg,10.000,4,Stuehus,150,1941,,
+Skolevej 44470 Svebølle,ølle,970.000,27-06-2001,Alm. Salg,8.899,6,Villa,109,1937,,Aktuel værdi
+Søbanken 24470 Svebølle,ølle,1.900.000,21-06-2001,Alm. Salg,4.000,7,Stuehus,475,2008,,
+Højbjergvej 24470 Svebølle,ølle,698.020,27-05-2001,Alm. Salg,5.816,4,Villa,120,1939,,Aktuel værdi
+Frederiksholm 24470 Svebølle,ølle,1.500.000,15-05-2001,Alm. Salg,5.791,7,Stuehus,259,1943,,
+Frederiksberg 274470 Svebølle,ølle,730.000,14-05-2001,Alm. Salg,6.886,4,Villa,106,1930,,Aktuel værdi
+Stenrand 74470 Svebølle,ølle,160.000,24-04-2001,Fam. Salg,2.711,3,Villa,59,1940,,Aktuel værdi
+Jernbanevej 204470 Svebølle,ølle,568.100,23-04-2001,Alm. Salg,3.762,5,Villa,151,1910,,Aktuel værdi
+Skolevænget 434470 Svebølle,ølle,480.148,15-04-2001,Andet,3.288,4,Villa,146,1973,,Aktuel værdi
+Jorløse Byvej 54470 Svebølle,ølle,600.000,15-04-2001,Alm. Salg,5.263,5,Villa,114,1950,,Aktuel værdi
+Faksbjergvej 64470 Svebølle,ølle,1.175.000,11-04-2001,Alm. Salg,7.078,5,Villa,166,1975,,Aktuel værdi
+Frederiksberg 294470 Svebølle,ølle,785.000,07-04-2001,Alm. Salg,-,4,Villa,151,1936,,Aktuel værdi
+Anemonevej 34470 Svebølle,ølle,1.095.000,06-04-2001,Alm. Salg,-,7,Villa,191,1980,,Aktuel værdi
+Lavendelvej 604470 Svebølle,ølle,110.000,25-03-2001,Alm. Salg,567,4,Villa,194,2002,,Aktuel værdi
+Lavendelvej 464470 Svebølle,ølle,70.000,20-03-2001,Alm. Salg,437,5,Villa,160,2002,,Aktuel værdi
+Følfodvej 124470 Svebølle,ølle,1.172.077,21-02-2001,Alm. Salg,6.072,4,Villa,193,1974,,Aktuel værdi
+Jernbanevej 364470 Svebølle,ølle,355.666,14-01-2001,Alm. Salg,6.466,2,Rækkehus,55,1982,,Aktuel værdi
+Fabrikvej 12B4470 Svebølle,ølle,405.000,14-01-2001,Alm. Salg,6.639,2,Lejlighed,61,1977,,Aktuel værdi
+Ebbedalen 14470 Svebølle,ølle,770.000,10-01-2001,Alm. Salg,8.953,2,Rækkehus,86,2001,,Aktuel værdi
+Pilekrogen 154470 Svebølle,ølle,713.692,18-12-2000,Alm. Salg,7.066,3,Villa,101,1963,,Aktuel værdi
+Stationsvej 104470 Svebølle,ølle,1.412.000,15-12-2000,Alm. Salg,7.095,8,Villa,199,1976,,Aktuel værdi
+Jorløse Byvej 444470 Svebølle,ølle,60.000,14-12-2000,Alm. Salg,434,6,Stuehus,138,1835,,
+Rosenhaven 384470 Svebølle,ølle,660.000,06-12-2000,Alm. Salg,-,4,Rækkehus,127,1979,,Aktuel værdi
+Ebbedalen 54470 Svebølle,ølle,777.587,20-11-2000,Alm. Salg,9.148,3,Rækkehus,85,2001,,Aktuel værdi
+Nikolinevej 84470 Svebølle,ølle,321.504,03-11-2000,Alm. Salg,-,4,Villa,141,1962,,Aktuel værdi
+Nyvej 12B4470 Svebølle,ølle,754.000,30-10-2000,Alm. Salg,8.870,3,Rækkehus,85,2000,,Aktuel værdi
+Skolevænget 154470 Svebølle,ølle,840.583,27-10-2000,Alm. Salg,7.004,4,Villa,120,1973,,Aktuel værdi
+Nyvej 12A4470 Svebølle,ølle,756.236,21-10-2000,Alm. Salg,8.896,3,Rækkehus,85,2000,,Aktuel værdi
+Jydegårdsvej 214470 Svebølle,ølle,231.000,06-10-2000,Auktion,4.277,3,Villa,54,1958,,Aktuel værdi
+Kalundborgvej 1104470 Svebølle,ølle,588.732,26-09-2000,Alm. Salg,5.660,3,Villa,104,1952,,Aktuel værdi
+Hovedgaden 444470 Svebølle,ølle,823.995,16-09-2000,Alm. Salg,4.336,7,Villa,190,1912,,Aktuel værdi
+Ebbedalen 134470 Svebølle,ølle,745.000,06-09-2000,Alm. Salg,8.662,3,Rækkehus,86,2000,,Aktuel værdi
+Hovedgaden 314470 Svebølle,ølle,1.483.735,29-08-2000,Alm. Salg,7.608,8,Stuehus,195,1909,,
+Centret 6B4470 Svebølle,ølle,1.190.000,07-08-2000,Alm. Salg,6.611,8,Engroshandel,180,1987,,Aktuel værdi
+Øresøvej 184470 Svebølle,ølle,365.502,11-07-2000,Alm. Salg,-,7,Villa,169,1830,,Aktuel værdi
+Nyrandsvej 94470 Svebølle,ølle,355.000,03-07-2000,Auktion,1.802,4,Villa,197,1930,,Aktuel værdi
+Ebbedalen 74470 Svebølle,ølle,745.000,23-06-2000,Alm. Salg,8.764,3,Rækkehus,85,2001,,Aktuel værdi
+Nordvestvej 34470 Svebølle,ølle,893.000,20-06-2000,Alm. Salg,4.988,8,Villa,179,2009,,Aktuel værdi
+Stenrand 134470 Svebølle,ølle,180.000,16-06-2000,Alm. Salg,2.686,2,Villa,67,1880,,Aktuel værdi
+Kildevej 34470 Svebølle,ølle,840.690,21-05-2000,Alm. Salg,6.091,5,Villa,138,1973,,Aktuel værdi
+Skolevej 84470 Svebølle,ølle,1.538.723,11-05-2000,Alm. Salg,5.287,9,Villa,291,1934,,Aktuel værdi
+Kalundborgvej 1134470 Svebølle,ølle,1.286.569,02-05-2000,Alm. Salg,7.436,3,Stuehus,173,1910,,
+Søbanken 84470 Svebølle,ølle,1.050.000,21-04-2000,Fam. Salg,8.139,4,Stuehus,129,1970,,
+Platanhaven 324470 Svebølle,ølle,623.991,08-04-2000,Alm. Salg,3.999,3,Rækkehus,156,1976,,Aktuel værdi
+Kobjergvej 124470 Svebølle,ølle,415.000,29-03-2000,Andet,3.401,3,Villa,122,1973,,Aktuel værdi
+Frederiksholm 64470 Svebølle,ølle,340.000,23-02-2000,Alm. Salg,4.415,3,Villa,77,1957,,Aktuel værdi
+Frederiksberg 374470 Svebølle,ølle,850.000,21-02-2000,Alm. Salg,5.379,5,Villa,158,1952,,Aktuel værdi
+Anemonevej 284470 Svebølle,ølle,924.195,10-02-2000,Alm. Salg,7.220,4,Villa,128,1980,,Aktuel værdi
+Kalundborgvej 684470 Svebølle,ølle,1.100.000,30-01-2000,Alm. Salg,3.264,6,Villa,337,1880,,Aktuel værdi
+Højvangen 24470 Svebølle,ølle,504.000,20-01-2000,Alm. Salg,5.305,3,Villa,95,1930,,Aktuel værdi
+Højbjergvej 284470 Svebølle,ølle,290.000,10-01-2000,Andet,1.559,4,Villa,186,1906,,Aktuel værdi
+Frederiksberg 14470 Svebølle,ølle,1.900.000,06-12-1999,Alm. Salg,-,12,Servicevirksomhed,138,1910,,Aktuel værdi
+Jorløse Byvej 34470 Svebølle,ølle,695.350,08-11-1999,Alm. Salg,5.746,6,Villa,121,1933,,Aktuel værdi
+Følfodvej 84470 Svebølle,ølle,1.095.000,04-11-1999,Alm. Salg,5.644,6,Villa,194,1977,,Aktuel værdi
+Kalundborgvej 1004470 Svebølle,ølle,751.198,01-11-1999,Alm. Salg,6.366,3,Villa,118,1977,,Aktuel værdi
+Lavendelvej 584470 Svebølle,ølle,110.000,28-10-1999,Alm. Salg,514,5,Villa,214,2001,,Aktuel værdi
+Rugtvedvej 24470 Svebølle,ølle,1.169.000,26-10-1999,Alm. Salg,9.352,5,Villa,125,1926,,Aktuel værdi
+Dagliljevej 54470 Svebølle,ølle,849.881,23-10-1999,Alm. Salg,6.487,4,Villa,131,1977,,Aktuel værdi
+Jorløse Byvej 404470 Svebølle,ølle,985.000,22-10-1999,Alm. Salg,4.925,7,Stuehus,200,1910,,
+Stenrand 34470 Svebølle,ølle,400.000,01-10-1999,Alm. Salg,3.960,2,Villa,101,1956,,Aktuel værdi
+Platanhaven 84470 Svebølle,ølle,282.000,30-09-1999,Auktion,2.238,3,Rækkehus,126,1973,,Aktuel værdi
+Lerbjergvej 254470 Svebølle,ølle,600.000,27-09-1999,Alm. Salg,7.058,3,Villa,85,1986,,Aktuel værdi
+Platanhaven 114470 Svebølle,ølle,607.674,23-09-1999,Alm. Salg,4.822,4,Rækkehus,126,1976,,Aktuel værdi
+Jernbanevej 74470 Svebølle,ølle,828.483,18-09-1999,Alm. Salg,5.345,6,Villa,155,1920,,Aktuel værdi
+Berberisvej 1A4470 Svebølle,ølle,50.000,30-08-1999,Alm. Salg,588,3,Rækkehus,85,1999,,Aktuel værdi
+Parcelvej 104470 Svebølle,ølle,457.138,27-08-1999,Alm. Salg,4.481,3,Villa,102,1932,,Aktuel værdi
+Ebbedalen 154470 Svebølle,ølle,745.000,22-07-1999,Alm. Salg,8.662,3,Rækkehus,86,2000,,Aktuel værdi
+Rosenhaven 54470 Svebølle,ølle,536.000,16-07-1999,Alm. Salg,6.536,4,Rækkehus,82,1975,,Aktuel værdi
+Ebbedalen 114470 Svebølle,ølle,675.000,12-07-1999,Alm. Salg,7.848,3,Rækkehus,86,1998,,Aktuel værdi
+Gl Skovvej 204470 Svebølle,ølle,895.000,21-06-1999,Alm. Salg,6.580,5,Villa,136,1900,,Aktuel værdi
+Gyldenrisvej 84470 Svebølle,ølle,800.737,21-06-1999,Alm. Salg,-,5,Villa,140,1979,,Aktuel værdi
+Rosenhaven 1F4470 Svebølle,ølle,688.938,31-05-1999,Alm. Salg,8.300,4,Rækkehus,83,1975,,Aktuel værdi
+Mindegårdsvej 24470 Svebølle,ølle,100.000,20-04-1999,Alm. Salg,-,7,Villa,244,2000,,Aktuel værdi
+Højbjergvej 84470 Svebølle,ølle,280.000,26-03-1999,Alm. Salg,4.000,3,Villa,70,1946,,Aktuel værdi
+Kalundborgvej 694470 Svebølle,ølle,628.000,15-03-1999,Alm. Salg,2.522,7,Villa,249,1850,,Aktuel værdi
+Rugtvedvej 54470 Svebølle,ølle,280.555,05-03-1999,Alm. Salg,3.083,2,Villa,91,1880,,Aktuel værdi
+Rosenhaven 164470 Svebølle,ølle,415.971,12-02-1999,Alm. Salg,6.602,3,Rækkehus,63,1976,,Aktuel værdi
+Rosenhaven 334470 Svebølle,ølle,606.598,21-01-1999,Alm. Salg,-,4,Rækkehus,101,1979,,Aktuel værdi
+Højbjergvej 384470 Svebølle,ølle,780.000,18-01-1999,Alm. Salg,2.172,9,Villa,359,1905,,Aktuel værdi
+Kalundborgvej 1154470 Svebølle,ølle,1.130.000,15-01-1999,Alm. Salg,8.432,5,Stuehus,134,1960,,
+Gammelrand 84470 Svebølle,ølle,410.000,25-11-1998,Fam. Salg,-,4,Villa,171,1900,,Aktuel værdi
+Anemonevej 434470 Svebølle,ølle,913.300,22-10-1998,Alm. Salg,6.255,4,Villa,146,1979,,Aktuel værdi
+Platanhaven 24470 Svebølle,ølle,192.308,20-10-1998,Alm. Salg,1.526,4,Rækkehus,126,1976,,Aktuel værdi
+Lerbjergvej 414470 Svebølle,ølle,560.143,15-10-1998,Alm. Salg,6.589,3,Villa,85,1987,,Aktuel værdi
+Jorløse Byvej 64470 Svebølle,ølle,536.000,26-09-1998,Alm. Salg,3.288,4,Stuehus,163,1893,,
+Stengårdsvej 124470 Svebølle,ølle,783.011,18-09-1998,Alm. Salg,6.525,5,Villa,120,1985,,Aktuel værdi
+Parcelvej 204470 Svebølle,ølle,548.000,16-09-1998,Alm. Salg,4.183,4,Villa,131,1942,,Aktuel værdi
+Frederiksberg 254470 Svebølle,ølle,530.000,14-09-1998,Alm. Salg,5.760,3,Villa,92,1935,,Aktuel værdi
+Jorløse Byvej 274470 Svebølle,ølle,399.636,23-08-1998,Alm. Salg,-,4,Villa,178,1939,,Aktuel værdi
+Døvnældevej 84470 Svebølle,ølle,650.000,15-08-1998,Alm. Salg,5.803,4,Villa,112,1975,,Aktuel værdi
+Lavendelvej 564470 Svebølle,ølle,70.000,13-07-1998,Alm. Salg,440,5,Villa,159,1998,,Aktuel værdi
+Fabrikvej 144470 Svebølle,ølle,395.000,01-07-1998,Alm. Salg,4.817,2,Villa,82,1915,,Aktuel værdi
+Skolevænget 174470 Svebølle,ølle,605.702,25-06-1998,Alm. Salg,5.360,3,Villa,113,1970,,Aktuel værdi
+Stendyssevej 84470 Svebølle,ølle,351.667,19-06-1998,Alm. Salg,1.483,3,Stuehus,237,1890,,
+Stengårdsvej 24470 Svebølle,ølle,378.000,16-06-1998,Alm. Salg,3.230,5,Villa,117,1900,,Aktuel værdi
+Lerbjergvej 11B4470 Svebølle,ølle,595.000,26-05-1998,Alm. Salg,7.168,3,Rækkehus,83,1985,,Aktuel værdi
+Gl Svebøllevej 114470 Svebølle,ølle,518.754,20-05-1998,Alm. Salg,-,4,Villa,151,1930,,Aktuel værdi
+Hovedgaden 74470 Svebølle,ølle,600.000,20-05-1998,Alm. Salg,6.060,3,Villa,99,1950,,Aktuel værdi
+Anemonevej 234470 Svebølle,ølle,798.550,19-05-1998,Alm. Salg,6.238,4,Villa,128,1980,,Aktuel værdi
+Lerbjergvej 24470 Svebølle,ølle,586.500,03-04-1998,Alm. Salg,5.639,3,Villa,104,1988,,Aktuel værdi
+Tjørnebjergvej 84470 Svebølle,ølle,626.000,16-03-1998,Alm. Salg,7.825,3,Villa,80,1986,,Aktuel værdi
+Frederiksberg 434470 Svebølle,ølle,385.000,11-03-1998,Alm. Salg,-,8,Villa,182,1961,,Aktuel værdi
+Platanhaven 384470 Svebølle,ølle,254.000,21-02-1998,Alm. Salg,1.751,4,Rækkehus,145,1974,,Aktuel værdi
+Skolelodden 54470 Svebølle,ølle,551.000,19-02-1998,Alm. Salg,4.750,5,Villa,116,1962,,Aktuel værdi
+Døvnældevej 44470 Svebølle,ølle,666.000,11-02-1998,Alm. Salg,6.594,3,Villa,101,1975,,Aktuel værdi
+Skolevænget 134470 Svebølle,ølle,705.900,20-01-1998,Alm. Salg,-,4,Villa,112,1972,,Aktuel værdi
+Øresøvej 134470 Svebølle,ølle,538.000,21-12-1997,Alm. Salg,-,5,Villa,144,1920,,Aktuel værdi
+Rosenhaven 234470 Svebølle,ølle,372.019,25-11-1997,Fam. Salg,4.536,4,Rækkehus,82,1977,,Aktuel værdi
+Højvangen 134470 Svebølle,ølle,1.245.353,21-11-1997,Alm. Salg,5.534,7,Villa,225,1972,,Aktuel værdi
+Kobjergvej 104470 Svebølle,ølle,740.000,16-11-1997,Fam. Salg,3.737,5,Villa,198,1976,,Aktuel værdi
+Gl Skovvej 304470 Svebølle,ølle,1.850.000,14-11-1997,Alm. Salg,8.043,5,Villa,230,1901,,Aktuel værdi
+Tuevej 44470 Svebølle,ølle,1.163.000,14-11-1997,Alm. Salg,4.746,6,Villa,245,1900,,Aktuel værdi
+Øresøvej 404470 Svebølle,ølle,2.400.000,10-11-1997,Alm. Salg,8.759,8,Villa,274,1900,,Aktuel værdi
+Madesøvej 214470 Svebølle,ølle,568.000,09-11-1997,Alm. Salg,3.641,3,Villa,156,1852,,Aktuel værdi
+Vesterled 184470 Svebølle,ølle,750.000,06-11-1997,Fam. Salg,5.000,4,Villa,150,1970,,Aktuel værdi
+Mindegårdsvej 94470 Svebølle,ølle,204.000,04-11-1997,Alm. Salg,1.214,6,Stuehus,168,1830,,
+Kildevej 114470 Svebølle,ølle,678.724,24-10-1997,Alm. Salg,5.953,4,Villa,114,1976,,Aktuel værdi
+Rosenhaven 184470 Svebølle,ølle,515.000,02-10-1997,Alm. Salg,6.204,4,Rækkehus,83,1977,,Aktuel værdi
+Pilekrogen 54470 Svebølle,ølle,653.420,24-09-1997,Alm. Salg,4.950,4,Villa,132,1975,,Aktuel værdi
+Højvangen 324470 Svebølle,ølle,690.000,28-08-1997,Alm. Salg,4.693,5,Villa,147,1973,,Aktuel værdi
+Gl Skovvej 74470 Svebølle,ølle,350.070,19-07-1997,Alm. Salg,-,6,Villa,136,1932,,Aktuel værdi
+Rosenhaven 264470 Svebølle,ølle,496.400,11-07-1997,Alm. Salg,6.053,4,Rækkehus,82,1977,,Aktuel værdi
+Stenrand 94470 Svebølle,ølle,646.000,01-07-1997,Alm. Salg,-,6,Villa,180,1900,,Aktuel værdi
+Hovedgaden 334470 Svebølle,ølle,543.000,22-06-1997,Alm. Salg,3.719,4,Villa,146,1895,,Aktuel værdi
+Mosevej 34470 Svebølle,ølle,564.080,20-06-1997,Alm. Salg,4.905,2,Villa,115,1900,,Aktuel værdi
+Mindevej 4A4470 Svebølle,ølle,300.000,21-05-1997,Alm. Salg,4.166,2,Lejlighed,72,1965,,Aktuel værdi
+Rosenhaven 394470 Svebølle,ølle,484.996,14-05-1997,Alm. Salg,4.801,4,Rækkehus,101,1979,,Aktuel værdi
+Rødtjørnevej 34470 Svebølle,ølle,523.000,22-04-1997,Alm. Salg,-,5,Villa,191,1939,,Aktuel værdi
+Stendyssevej 14470 Svebølle,ølle,1.515.000,16-04-1997,Alm. Salg,4.840,7,Villa,313,1965,,Aktuel værdi
+Feltergårdsvej 94470 Svebølle,ølle,700.000,16-04-1997,Alm. Salg,5.263,3,Villa,133,1879,,Aktuel værdi
+Nordvestvej 234470 Svebølle,ølle,568.253,31-03-1997,Alm. Salg,6.685,3,Villa,85,1987,,Aktuel værdi
+Jorløse Byvej 314470 Svebølle,ølle,190.000,25-02-1997,Alm. Salg,2.714,4,Villa,70,1932,,Aktuel værdi
+Nordvestvej 44470 Svebølle,ølle,520.178,03-02-1997,Alm. Salg,4.032,5,Villa,129,1930,,Aktuel værdi
+Kalundborgvej 1144470 Svebølle,ølle,502.918,10-01-1997,Fam. Salg,3.492,3,Stuehus,144,1850,,
+Gl Løgtved Huse 84470 Svebølle,ølle,334.155,12-12-1996,Alm. Salg,2.457,3,Villa,136,1976,,Aktuel værdi
+Saltoftevænge 44470 Svebølle,ølle,750.000,11-12-1996,Alm. Salg,5.514,9,Undervisning o.l.,136,1980,,Aktuel værdi
+Kalundborgvej 984470 Svebølle,ølle,350.000,29-10-1996,Fam. Salg,-,4,Villa,151,1957,,Aktuel værdi
+Gl Løgtved Huse 44470 Svebølle,ølle,507.000,25-10-1996,Alm. Salg,-,6,Villa,273,1880,,Aktuel værdi
+Jernbanevej 54470 Svebølle,ølle,400.000,25-10-1996,Alm. Salg,2.272,7,Villa,176,1923,,Aktuel værdi
+Nyrandsvej 44470 Svebølle,ølle,315.000,23-10-1996,Alm. Salg,2.889,6,Villa,109,1952,,Aktuel værdi
+Anemonevej 114470 Svebølle,ølle,665.000,15-10-1996,Alm. Salg,5.037,4,Villa,132,1980,,Aktuel værdi
+Rugtvedvej 17B4470 Svebølle,ølle,393.052,06-10-1996,Alm. Salg,2.807,4,Villa,140,1967,,Aktuel værdi
+Frederiksberg 234470 Svebølle,ølle,1.150.000,24-09-1996,Alm. Salg,-,9,Industri o.l.,417,1969,,Aktuel værdi
+Forsingevej 24470 Svebølle,ølle,72.000,06-09-1996,Alm. Salg,847,4,Villa,85,1880,,Aktuel værdi
+Bjergsted Bakker 164470 Svebølle,ølle,223.000,11-08-1996,Alm. Salg,-,3,Villa,98,1960,,Aktuel værdi
+Mindevej 6D4470 Svebølle,ølle,545.000,08-08-1996,Alm. Salg,-,7,Villa,156,1924,,Aktuel værdi
+Parcelvej 234470 Svebølle,ølle,445.000,02-08-1996,Alm. Salg,3.248,5,Villa,137,1920,,Aktuel værdi
+Jydegårdsvej 114470 Svebølle,ølle,270.096,29-07-1996,Alm. Salg,-,7,Villa,173,1960,,Aktuel værdi
+Kildevej 44470 Svebølle,ølle,530.000,16-07-1996,Alm. Salg,3.840,4,Villa,138,1973,,Aktuel værdi
+Nyrandsvej 14470 Svebølle,ølle,200.000,29-06-1996,Alm. Salg,-,6,Villa,197,1914,,Aktuel værdi
+Anemonevej 54470 Svebølle,ølle,650.000,19-06-1996,Alm. Salg,-,5,Villa,158,1981,,Aktuel værdi
+Jydegårdsvej 24470 Svebølle,ølle,1.224.800,29-05-1996,Alm. Salg,7.204,6,Stuehus,170,1951,,
+Anemonevej 384470 Svebølle,ølle,670.000,29-05-1996,Alm. Salg,5.114,5,Villa,131,1983,,Aktuel værdi
+Skolelodden 44470 Svebølle,ølle,585.000,18-05-1996,Alm. Salg,4.875,4,Villa,120,1968,,Aktuel værdi
+Anemonevej 304470 Svebølle,ølle,675.000,11-05-1996,Alm. Salg,4.326,3,Villa,156,1979,,Aktuel værdi
+Hovedgaden 34470 Svebølle,ølle,251.490,17-04-1996,Alm. Salg,3.869,2,Villa,65,1950,,Aktuel værdi
+Nyvej 64470 Svebølle,ølle,410.000,27-03-1996,Alm. Salg,-,5,Villa,122,1940,,Aktuel værdi
+Rugtvedvej 84470 Svebølle,ølle,410.924,22-03-1996,Alm. Salg,-,5,Villa,154,1895,,Aktuel værdi
+Kirkebakken 24470 Svebølle,ølle,667.260,11-03-1996,Alm. Salg,4.277,9,Villa,156,1939,,Aktuel værdi
+Mindegårdsvej 54470 Svebølle,ølle,493.200,12-02-1996,Alm. Salg,5.246,4,Villa,94,1800,,Aktuel værdi
+Pilekrogen 314470 Svebølle,ølle,365.000,08-02-1996,Alm. Salg,3.802,5,Villa,96,1961,,Aktuel værdi
+Kalundborgvej 1034470 Svebølle,ølle,445.000,22-01-1996,Alm. Salg,4.198,3,Villa,106,1946,,Aktuel værdi
+Anemonevej 414470 Svebølle,ølle,640.000,04-12-1995,Alm. Salg,-,4,Villa,117,1980,,Aktuel værdi
+Hovedgaden 624470 Svebølle,ølle,538.200,02-12-1995,Alm. Salg,4.046,5,Villa,133,1925,,Aktuel værdi
+Hovedgaden 134470 Svebølle,ølle,175.000,09-11-1995,Alm. Salg,1.988,2,Villa,88,1940,,Aktuel værdi
+Anemonevej 374470 Svebølle,ølle,560.000,12-10-1995,Alm. Salg,4.307,5,Villa,130,1979,,Aktuel værdi
+Nordvestvej 94470 Svebølle,ølle,465.000,29-09-1995,Alm. Salg,4.428,4,Villa,105,1965,,Aktuel værdi
+Kalundborgvej 894470 Svebølle,ølle,379.000,19-09-1995,Alm. Salg,5.656,3,Villa,67,1942,,Aktuel værdi
+Anemonevej 104470 Svebølle,ølle,601.293,05-09-1995,Alm. Salg,-,4,Villa,157,1981,,Aktuel værdi
+Fabrikvej 114470 Svebølle,ølle,177.500,23-08-1995,Alm. Salg,1.375,3,Villa,129,1925,,Aktuel værdi
+Rosenhaven 1A4470 Svebølle,ølle,433.000,26-07-1995,Alm. Salg,4.245,4,Rækkehus,102,1978,,Aktuel værdi
+Kobjergvej 14470 Svebølle,ølle,795.000,20-06-1995,Alm. Salg,4.847,4,Villa,164,1975,,Aktuel værdi
+Lerbjergvej 13B4470 Svebølle,ølle,350.000,01-06-1995,Alm. Salg,4.216,3,Rækkehus,83,1985,,Aktuel værdi
+Hovedgaden 454470 Svebølle,ølle,375.000,19-04-1995,Alm. Salg,4.687,3,Villa,80,1932,,Aktuel værdi
+Vesterled 214470 Svebølle,ølle,793.580,16-04-1995,Alm. Salg,3.778,8,Villa,210,1969,,Aktuel værdi
+Kalundborgvej 904470 Svebølle,ølle,178.925,26-03-1995,Alm. Salg,922,4,Villa,194,1906,,Aktuel værdi
+Gl Svebøllevej 224470 Svebølle,ølle,229.000,06-03-1995,Alm. Salg,1.708,5,Villa,134,1830,,Aktuel værdi
+Madesøvej 54470 Svebølle,ølle,314.600,04-03-1995,Alm. Salg,3.457,5,Sommerhus,91,1961,,Aktuel værdi
+Øresøvej 94470 Svebølle,ølle,485.000,20-02-1995,Alm. Salg,3.321,6,Villa,146,1780,,Aktuel værdi
+Lerbjergvej 3B4470 Svebølle,ølle,343.100,30-01-1995,Alm. Salg,4.133,3,Rækkehus,83,1983,,Aktuel værdi
+Anemonevej 364470 Svebølle,ølle,568.150,30-01-1995,Alm. Salg,4.438,4,Villa,128,1980,,Aktuel værdi
+Skovgårdsvej 114470 Svebølle,ølle,382.500,25-01-1995,Andet,2.161,6,Stuehus,177,1920,,
+Smedestræde 114470 Svebølle,ølle,150.000,07-01-1995,Alm. Salg,-,6,Villa,177,1880,,Aktuel værdi
+Skolevænget 344470 Svebølle,ølle,340.000,11-11-1994,Alm. Salg,3.366,3,Villa,101,1957,,Aktuel værdi
+"Nordvestvej 19, ST. TV4470 Svebølle",ølle,781.778,19-10-1994,Andet,13.478,2,Lejlighed,58,1976,,Aktuel værdi
+Lerbjergvej 234470 Svebølle,ølle,315.000,26-09-1994,Alm. Salg,3.705,3,Villa,85,1988,,Aktuel værdi
+Lerbjergvej 274470 Svebølle,ølle,330.000,26-09-1994,Alm. Salg,3.882,3,Villa,85,1988,,Aktuel værdi
+Lerbjergvej 374470 Svebølle,ølle,325.000,26-09-1994,Alm. Salg,3.823,3,Villa,85,1987,,Aktuel værdi
+Anemonevej 294470 Svebølle,ølle,560.000,05-08-1994,Alm. Salg,4.628,5,Villa,121,1979,,Aktuel værdi
+Madesøvej 174470 Svebølle,ølle,180.000,28-07-1994,Fam. Salg,2.222,3,Villa,81,1863,,Aktuel værdi
+Feltergårdsvej 24470 Svebølle,ølle,415.000,25-07-1994,Auktion,3.878,3,Villa,107,1897,,Aktuel værdi
+Nyvej 104470 Svebølle,ølle,362.000,23-03-1994,Alm. Salg,5.171,2,Villa,70,1959,,Aktuel værdi
+Fabrikvej 44470 Svebølle,ølle,611.485,03-03-1994,Alm. Salg,4.131,5,Villa,148,1969,,Aktuel værdi
+Jorløse Byvej 184470 Svebølle,ølle,150.000,10-02-1994,Alm. Salg,1.744,4,Villa,86,1887,,Aktuel værdi
+Tissøvej 14470 Svebølle,ølle,613.000,12-12-1993,Alm. Salg,3.278,7,Stuehus,187,1944,,
+Jernbanevej 404470 Svebølle,ølle,256.375,08-12-1993,Alm. Salg,4.747,2,Rækkehus,54,1982,,Aktuel værdi
+Gl Løgtved Huse 144470 Svebølle,ølle,150.000,18-11-1993,Alm. Salg,1.315,5,Villa,114,1881,,Aktuel værdi
+Jernbanevej 224470 Svebølle,ølle,216.050,05-10-1993,Fam. Salg,1.161,8,Villa,186,1912,,Aktuel værdi
+Gl Skovvej 244470 Svebølle,ølle,450.000,08-09-1993,Fam. Salg,-,6,Villa,240,1952,,Aktuel værdi
+Platanhaven 234470 Svebølle,ølle,310.000,13-08-1993,Alm. Salg,2.403,3,Rækkehus,129,1976,,Aktuel værdi
+Saltoftevej 174470 Svebølle,ølle,550.000,19-07-1993,Alm. Salg,4.700,3,Villa,117,1964,,Aktuel værdi
+Pilekrogen 23B4470 Svebølle,ølle,398.500,22-05-1993,Alm. Salg,2.002,6,Villa,199,1974,,Aktuel værdi
+Jorløsevej 104470 Svebølle,ølle,475.000,18-04-1993,Alm. Salg,-,8,Villa,207,1948,,Aktuel værdi
+Stationsvej 114470 Svebølle,ølle,395.000,14-04-1993,Alm. Salg,-,5,Villa,118,1964,,Aktuel værdi
+Højbjergvej 264470 Svebølle,ølle,470.000,07-04-1993,Alm. Salg,2.486,7,Villa,189,1957,,Aktuel værdi
+Rugtvedvej 44470 Svebølle,ølle,600.000,06-04-1993,Alm. Salg,4.054,4,Stuehus,148,1925,,
+Fingerbølvej 54470 Svebølle,ølle,330.000,04-02-1993,Alm. Salg,2.640,4,Villa,125,1976,,Aktuel værdi
+Skolevænget 334470 Svebølle,ølle,235.000,01-02-1993,Andet,1.350,5,Villa,174,1973,,Aktuel værdi
+Nyvej 24470 Svebølle,ølle,310.000,28-01-1993,Alm. Salg,-,4,Villa,126,1960,,Aktuel værdi
+Øresøvej 324470 Svebølle,ølle,1.395.000,14-01-1993,Fam. Salg,9.300,6,Stuehus,150,1915,,
+Gl Skovvej 124470 Svebølle,ølle,238.000,14-12-1992,Fam. Salg,-,4,Villa,118,1880,,Aktuel værdi
+Jorløse Byvej 204470 Svebølle,ølle,1.400.000,04-12-1992,Alm. Salg,8.139,5,Stuehus,172,1882,,
+Gl Skovvej 154470 Svebølle,ølle,215.000,28-10-1992,Alm. Salg,3.307,2,Villa,65,1948,,Aktuel værdi
+Pilekrogen 44470 Svebølle,ølle,395.000,26-10-1992,Alm. Salg,2.668,5,Villa,148,1925,,Aktuel værdi
+Gyldenrisvej 164470 Svebølle,ølle,375.000,22-09-1992,Alm. Salg,2.929,4,Villa,128,1979,,Aktuel værdi
+Anemonevej 444470 Svebølle,ølle,445.000,01-09-1992,Alm. Salg,3.371,5,Villa,132,1980,,Aktuel værdi
+Gl Skovvej 354470 Svebølle,ølle,1.350.000,28-08-1992,Alm. Salg,6.783,7,Stuehus,199,1951,,
+Højvangen 144470 Svebølle,ølle,704.700,10-08-1992,Alm. Salg,4.729,5,Villa,149,1974,,Aktuel værdi
+Nordvestvej 114470 Svebølle,ølle,328.000,26-07-1992,Andet,-,5,Villa,204,1927,,Aktuel værdi
+Jorløsevej 144470 Svebølle,ølle,506.000,25-06-1992,Alm. Salg,-,7,Villa,134,1913,,Aktuel værdi
+Kirkebakken 74470 Svebølle,ølle,590.000,19-06-1992,Alm. Salg,3.333,6,Villa,177,1978,,Aktuel værdi
+Grydemøllevej 14470 Svebølle,ølle,135.000,25-05-1992,Alm. Salg,1.144,3,Villa,118,1993,,Aktuel værdi
+Jernbanevej 124470 Svebølle,ølle,475.000,20-05-1992,Alm. Salg,827,12,Villa,574,1920,,Aktuel værdi
+Tissøvej 3A4470 Svebølle,ølle,1.000.000,04-05-1992,Alm. Salg,9.259,5,Stuehus,108,1928,,
+Stenrand 144470 Svebølle,ølle,350.000,02-05-1992,Alm. Salg,2.397,3,Villa,146,1880,,Aktuel værdi
+Tissøvej 84470 Svebølle,ølle,350.000,17-03-1992,Alm. Salg,3.465,4,Villa,101,1915,,Aktuel værdi
+Gyldenrisvej 104470 Svebølle,ølle,630.000,27-02-1992,Alm. Salg,4.846,5,Villa,130,1979,,Aktuel værdi
+Frederiksberg 334470 Svebølle,ølle,336.000,28-01-1992,Alm. Salg,4.800,2,Villa,70,1948,,Aktuel værdi
+Pilekrogen 174470 Svebølle,ølle,370.000,27-01-1992,Alm. Salg,-,3,Villa,83,1964,,Aktuel værdi
+Gyldenrisvej 14470 Svebølle,ølle,620.000,17-01-1992,Alm. Salg,-,5,Villa,158,1978,,Aktuel værdi

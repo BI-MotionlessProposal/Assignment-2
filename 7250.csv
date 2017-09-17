@@ -1,0 +1,564 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Torvegade 7B7250 Hejnsvig,svig,550.000,15-03-2017,Alm. Salg,5.288,2,Villa,104,1965,-21 %,Aktuel værdi
+Kolding Landevej 207250 Hejnsvig,svig,5.080.000,09-03-2017,Alm. Salg,26.321,5,Stuehus,193,1932,0 %,
+Klodhøjvej 57250 Hejnsvig,svig,287.010,28-02-2017,Fam. Salg,2.259,4,Villa,127,1949,,Aktuel værdi
+Torvegade 5B7250 Hejnsvig,svig,300.000,23-02-2017,Alm. Salg,1.829,5,Villa,164,1934,-20 %,Aktuel værdi
+Nyvej 2B7250 Hejnsvig,svig,669.032,08-02-2017,Fam. Salg,5.718,3,Villa,117,1973,,Aktuel værdi
+Bredgade 757250 Hejnsvig,svig,538.000,08-02-2017,Fam. Salg,3.320,4,Villa,162,1915,,Aktuel værdi
+Langmosevej 67250 Hejnsvig,svig,1.675.000,07-02-2017,Alm. Salg,6.950,6,Villa,241,1996,-11 %,Aktuel værdi
+Præstevænget 17250 Hejnsvig,svig,600.000,03-01-2017,Alm. Salg,3.468,7,Villa,173,1927,-14 %,Aktuel værdi
+Trøllundvej 277250 Hejnsvig,svig,4.502.000,22-12-2016,Fam. Salg,27.619,6,Stuehus,163,1961,,
+Nyvej 197250 Hejnsvig,svig,500.000,21-12-2016,Alm. Salg,7.812,3,Villa,64,1962,-13 %,Aktuel værdi
+Kirkevej 487250 Hejnsvig,svig,825.000,19-12-2016,Alm. Salg,6.932,5,Stuehus,119,1900,-6 %,
+Bakkevej 27250 Hejnsvig,svig,775.000,18-10-2016,Alm. Salg,7.598,4,Villa,102,1985,0 %,Aktuel værdi
+Klodhøjvej 217250 Hejnsvig,svig,980.000,07-10-2016,Alm. Salg,6.666,5,Villa,147,1974,-6 %,Aktuel værdi
+Rugbjergvej 167250 Hejnsvig,svig,425.000,07-10-2016,Fam. Salg,2.972,7,Stuehus,143,1913,,
+Egebjerg Landevej 537250 Hejnsvig,svig,130.000,05-10-2016,Alm. Salg,1.313,4,Villa,99,1962,-33 %,Aktuel værdi
+Højene 57250 Hejnsvig,svig,645.000,30-09-2016,Alm. Salg,4.510,5,Villa,143,1971,-11 %,Aktuel værdi
+Lundgårdvej 657250 Hejnsvig,svig,1.495.000,21-09-2016,Fam. Salg,17.797,3,Stuehus,84,1912,,
+Præstevænget 37250 Hejnsvig,svig,475.000,08-09-2016,Alm. Salg,3.925,5,Villa,121,1957,0 %,Aktuel værdi
+Bredgade 857250 Hejnsvig,svig,550.000,01-09-2016,Alm. Salg,3.716,11,Ukendt,148,1950,10 %,Aktuel værdi
+Kirkevej 137250 Hejnsvig,svig,645.000,17-08-2016,Fam. Salg,5.560,3,Villa,116,1950,0 %,Aktuel værdi
+Klodhøjvej 87250 Hejnsvig,svig,795.000,15-08-2016,Alm. Salg,8.030,2,Villa,99,2009,0 %,Aktuel værdi
+Søllingdalvej 727250 Hejnsvig,svig,875.000,09-08-2016,Fam. Salg,6.118,5,Villa,143,1977,,Aktuel værdi
+Refshøjvej 1067250 Hejnsvig,svig,1.450.000,29-07-2016,Alm. Salg,5.800,6,Villa,250,1930,-3 %,Aktuel værdi
+Fugdalvej 47250 Hejnsvig,svig,60.000,22-07-2016,Alm. Salg,327,5,Stuehus,183,1890,,
+Fugdalvej 87250 Hejnsvig,svig,60.000,22-07-2016,Alm. Salg,147,10,Stuehus,407,2005,,
+Ribe Landevej 667250 Hejnsvig,svig,850.000,13-07-2016,Alm. Salg,4.775,5,Villa,178,1969,0 %,Aktuel værdi
+Billundvej 557250 Hejnsvig,svig,453.444,01-07-2016,Fam. Salg,5.813,3,Villa,78,1957,,Aktuel værdi
+Søgårdvej 597250 Hejnsvig,svig,325.000,24-06-2016,Alm. Salg,4.779,3,Villa,68,1979,0 %,Aktuel værdi
+Æblevej 67250 Hejnsvig,svig,1.240.000,22-05-2016,Alm. Salg,8.985,5,Villa,138,1980,-4 %,Aktuel værdi
+Refshøjvej 647250 Hejnsvig,svig,1.450.000,12-05-2016,Alm. Salg,5.215,11,Villa,278,1800,0 %,Aktuel værdi
+Langgade 697250 Hejnsvig,svig,425.000,12-05-2016,Alm. Salg,3.148,4,Villa,135,1910,0 %,Aktuel værdi
+Søllingdalvej 387250 Hejnsvig,svig,745.000,03-05-2016,Alm. Salg,6.008,5,Villa,124,1975,0 %,Aktuel værdi
+Fugdalvej 157250 Hejnsvig,svig,4.500.000,25-04-2016,Andet,21.531,7,Stuehus,209,2000,,
+Bredgade 77250 Hejnsvig,svig,930.000,11-04-2016,Alm. Salg,6.000,5,Villa,155,1954,-7 %,Aktuel værdi
+Klodhøjvej 507250 Hejnsvig,svig,1.800.000,04-04-2016,Alm. Salg,8.256,8,Stuehus,218,1940,,
+Løvlundvej 167250 Hejnsvig,svig,1.395.000,01-04-2016,Alm. Salg,9.893,4,Villa,141,1964,0 %,Aktuel værdi
+Lundgårdvej 567250 Hejnsvig,svig,2.082.500,15-03-2016,Fam. Salg,14.166,5,Sommerhus,147,1961,,Aktuel værdi
+Lundgårdvej 907250 Hejnsvig,svig,275.000,08-03-2016,Alm. Salg,2.750,4,Villa,100,1934,,Aktuel værdi
+Bredgade 897250 Hejnsvig,svig,695.000,04-03-2016,Alm. Salg,1.838,8,Villa,378,1965,0 %,Aktuel værdi
+Staruphøjevej 87250 Hejnsvig,svig,1.590.000,26-02-2016,Alm. Salg,4.832,7,Villa,329,1930,-6 %,Aktuel værdi
+"Bredgade 52, 17250 Hejnsvig",svig,745.000,18-02-2016,Alm. Salg,5.912,5,Lejlighed,126,1917,,Aktuel værdi
+Søgårdvej 54B7250 Hejnsvig,svig,550.000,10-02-2016,Alm. Salg,6.250,4,Rækkehus,88,1988,-21 %,Aktuel værdi
+Søgårdvej 1157250 Hejnsvig,svig,5.210.000,09-02-2016,Alm. Salg,14.392,8,Stuehus,362,2007,,
+Risbølvej 157250 Hejnsvig,svig,1.300.000,20-01-2016,Alm. Salg,12.264,4,Stuehus,106,1877,,
+Bakkevej 17250 Hejnsvig,svig,725.000,18-01-2016,Alm. Salg,8.146,3,Villa,89,1961,-3 %,Aktuel værdi
+Langgade 107250 Hejnsvig,svig,14.050.000,06-01-2016,Alm. Salg,65.654,8,Stuehus,214,1986,,
+Møllevangen 107250 Hejnsvig,svig,200.000,12-12-2015,Alm. Salg,2.105,3,Rækkehus,95,1932,,Aktuel værdi
+Møllevangen 37250 Hejnsvig,svig,271.000,10-12-2015,Auktion,1.566,5,Villa,173,1900,-64 %,Aktuel værdi
+Lillevej 37250 Hejnsvig,svig,200.000,09-12-2015,Alm. Salg,1.041,8,Stuehus,192,1918,,
+Søgårdvej 1447250 Hejnsvig,svig,733.000,04-12-2015,Fam. Salg,3.857,7,Stuehus,190,1900,,
+Bredgade 37250 Hejnsvig,svig,795.000,13-11-2015,Alm. Salg,3.955,6,Villa,201,1872,0 %,Aktuel værdi
+Østre Ringvej 27250 Hejnsvig,svig,500.000,29-10-2015,Alm. Salg,2.272,8,Villa,220,1950,-17 %,Aktuel værdi
+Bøgelunden 47250 Hejnsvig,svig,100.000,14-10-2015,Andet,833,3,Villa,120,1932,,Aktuel værdi
+Kolding Landevej 377250 Hejnsvig,svig,1.095.000,21-09-2015,Alm. Salg,9.358,5,Stuehus,117,1955,-22 %,
+Billundvej 367250 Hejnsvig,svig,805.000,01-09-2015,Alm. Salg,5.000,8,Stuehus,161,1879,,
+Egebjerg Landevej 797250 Hejnsvig,svig,784.950,22-07-2015,Alm. Salg,3.473,8,Villa,226,1914,5 %,Aktuel værdi
+Søllingdalvej 207250 Hejnsvig,svig,975.000,10-07-2015,Alm. Salg,5.769,6,Villa,169,1982,,Aktuel værdi
+Søgårdparken 47250 Hejnsvig,svig,875.000,09-07-2015,Andet,6.161,4,Villa,142,2007,,Aktuel værdi
+Torvegade 37250 Hejnsvig,svig,1.795.000,25-06-2015,Alm. Salg,8.588,7,Villa,209,1966,0 %,Aktuel værdi
+Søgårdvej 397250 Hejnsvig,svig,700.000,21-06-2015,Alm. Salg,5.035,5,Villa,139,1979,-22 %,Aktuel værdi
+Søgårdvej 1457250 Hejnsvig,svig,2.460.000,20-06-2015,Alm. Salg,12.424,7,Stuehus,198,1908,17 %,
+Klodhøjvej 317250 Hejnsvig,svig,4.400.000,15-06-2015,Fam. Salg,24.581,8,Stuehus,179,1915,,
+Rungborgvej 77250 Hejnsvig,svig,432.085,20-05-2015,Andet,3.224,6,Villa,134,1916,,Aktuel værdi
+Søllingdalvej 427250 Hejnsvig,svig,1.695.000,21-04-2015,Alm. Salg,11.151,5,Villa,152,1976,13 %,Aktuel værdi
+Søllingdalvej 67250 Hejnsvig,svig,995.000,21-04-2015,Alm. Salg,8.024,5,Villa,124,1975,34 %,Aktuel værdi
+Billundvej 67250 Hejnsvig,svig,450.000,20-04-2015,Alm. Salg,2.406,7,Villa,187,1961,,Aktuel værdi
+Egebjerg Landevej 507250 Hejnsvig,svig,50.000,17-03-2015,Alm. Salg,490,3,Villa,102,1960,,Aktuel værdi
+Gilbjergvej 257250 Hejnsvig,svig,230.000,16-02-2015,Alm. Salg,2.446,4,Villa,94,1948,15 %,Aktuel værdi
+Klinkvej 127250 Hejnsvig,svig,10.100.000,11-02-2015,Fam. Salg,50.500,8,Stuehus,200,1960,,
+Høstvej 17250 Hejnsvig,svig,925.000,06-02-2015,Alm. Salg,6.902,6,Villa,134,1967,-5 %,Aktuel værdi
+Ribe Landevej 707250 Hejnsvig,svig,360.000,22-01-2015,Auktion,2.448,6,Stuehus,147,1959,-63 %,
+Søllingdalvej 407250 Hejnsvig,svig,876.050,14-12-2014,Alm. Salg,5.183,6,Villa,169,1975,0 %,Aktuel værdi
+Grønmarksvej 37250 Hejnsvig,svig,320.000,11-12-2014,Alm. Salg,2.622,3,Villa,122,1947,-25 %,Aktuel værdi
+Søgårdvej 1347250 Hejnsvig,svig,824.500,21-11-2014,Fam. Salg,6.928,6,Villa,119,1942,,Aktuel værdi
+Lundgårdvej 697250 Hejnsvig,svig,5.000.000,11-11-2014,Alm. Salg,57.471,3,Stuehus,87,1905,,
+Egebjerg Landevej 1227250 Hejnsvig,svig,15.605.400,31-10-2014,Alm. Salg,65.294,7,Stuehus,239,1912,,
+Stenhøjvej 57250 Hejnsvig,svig,450.000,22-10-2014,Fam. Salg,4.500,4,Villa,100,1971,,Aktuel værdi
+Søgårdvej 207250 Hejnsvig,svig,1.000.000,06-09-2014,Alm. Salg,5.376,6,Villa,186,1972,-5 %,Aktuel værdi
+Daugårdvej 407250 Hejnsvig,svig,322.710,06-09-2014,Alm. Salg,2.256,6,Villa,143,1947,,Aktuel værdi
+Egebjerg Landevej 467250 Hejnsvig,svig,2.497.580,03-09-2014,Alm. Salg,9.950,8,Stuehus,251,1978,,
+Egebjerg Landevej 727250 Hejnsvig,svig,390.000,19-07-2014,Alm. Salg,4.062,4,Villa,96,1962,-13 %,Aktuel værdi
+Søllingdalvej 647250 Hejnsvig,svig,531.960,17-06-2014,Alm. Salg,3.388,5,Villa,157,1976,,Aktuel værdi
+Bøgelunden 57250 Hejnsvig,svig,105.000,08-06-2014,Alm. Salg,1.153,6,Villa,91,1930,-16 %,Aktuel værdi
+Søgårdparken 97250 Hejnsvig,svig,1.375.478,03-06-2014,Alm. Salg,7.316,6,Villa,188,2013,,Aktuel værdi
+Frodeslundvej 327250 Hejnsvig,svig,225.000,31-05-2014,Alm. Salg,4.411,2,Sommerhus,51,1950,,Aktuel værdi
+Rugbjergvej 277250 Hejnsvig,svig,160.000,30-04-2014,Alm. Salg,2.025,3,Villa,79,1940,-11 %,Aktuel værdi
+Løvlundvej 327250 Hejnsvig,svig,550.000,29-04-2014,Alm. Salg,3.395,8,Stuehus,162,1924,-21 %,
+Vandmosevej 47250 Hejnsvig,svig,607.000,20-03-2014,Alm. Salg,4.215,5,Villa,144,1969,,Aktuel værdi
+Søllingdalvej 327250 Hejnsvig,svig,825.000,27-02-2014,Alm. Salg,5.650,4,Villa,146,1979,-8 %,Aktuel værdi
+Egebjerg Landevej 1507250 Hejnsvig,svig,2.000.000,26-02-2014,Fam. Salg,9.090,8,Stuehus,220,1931,,
+Rogusavej 37250 Hejnsvig,svig,477.550,08-02-2014,Alm. Salg,3.226,6,Villa,148,1964,,Aktuel værdi
+Gilbjergvej 187250 Hejnsvig,svig,4.444.000,28-01-2014,Fam. Salg,31.076,5,Stuehus,143,1888,,
+Bredgade 597250 Hejnsvig,svig,725.000,30-12-2013,Alm. Salg,4.420,8,BygningTilLager,164,1912,,Aktuel værdi
+Vinkelvej 37250 Hejnsvig,svig,600.000,23-12-2013,Alm. Salg,5.217,4,Villa,115,1961,-14 %,Aktuel værdi
+Daugårdvej 367250 Hejnsvig,svig,1.075.000,04-12-2013,Alm. Salg,6.107,5,Villa,176,1920,-2 %,Aktuel værdi
+Fugdalvej 197250 Hejnsvig,svig,1.710.000,29-11-2013,Alm. Salg,9.606,7,Stuehus,178,1897,,
+Boldingvej 197250 Hejnsvig,svig,898.520,24-11-2013,Alm. Salg,4.754,7,Stuehus,189,1961,,
+Gilbjergvej 317250 Hejnsvig,svig,11.300.000,21-11-2013,Fam. Salg,61.413,8,Stuehus,184,1912,,
+Gilbjergvej 517250 Hejnsvig,svig,16.804.176,21-11-2013,Fam. Salg,62.008,6,Stuehus,271,1850,,
+Klodhøjvej 147250 Hejnsvig,svig,569.500,21-11-2013,Fam. Salg,4.668,4,Villa,122,1969,,Aktuel værdi
+Rogusavej 87250 Hejnsvig,svig,960.000,15-11-2013,Alm. Salg,8.275,4,Villa,116,1973,-4 %,Aktuel værdi
+Højene 167250 Hejnsvig,svig,605.000,29-10-2013,Alm. Salg,5.654,4,Villa,107,1971,-2 %,Aktuel værdi
+Langgade 397250 Hejnsvig,svig,930.000,24-10-2013,Fam. Salg,5.438,7,Villa,171,1978,,Aktuel værdi
+Frodeslundvej 747250 Hejnsvig,svig,1.700.000,09-10-2013,Alm. Salg,8.173,7,Stuehus,208,1915,-5 %,
+Klodhøjvej 117250 Hejnsvig,svig,387.023,29-09-2013,Alm. Salg,4.961,3,Villa,78,1967,,Aktuel værdi
+Bredgade 877250 Hejnsvig,svig,310.000,17-09-2013,Alm. Salg,4.843,2,Villa,64,1955,-7 %,Aktuel værdi
+Højene 147250 Hejnsvig,svig,780.000,11-09-2013,Alm. Salg,5.693,4,Villa,137,1970,-2 %,Aktuel værdi
+Langgade 807250 Hejnsvig,svig,1.400.000,06-09-2013,Alm. Salg,6.392,5,Villa,219,1777,,Aktuel værdi
+Ørnsbjergvej 117250 Hejnsvig,svig,2.995.000,03-09-2013,Alm. Salg,12.909,6,Stuehus,232,1929,0 %,
+Søllingdalvej 507250 Hejnsvig,svig,750.000,16-08-2013,Alm. Salg,5.905,5,Villa,127,1977,-6 %,Aktuel værdi
+Klodhøjvej 197250 Hejnsvig,svig,314.064,14-08-2013,Alm. Salg,2.309,4,Villa,136,1973,,Aktuel værdi
+Bredgade 837250 Hejnsvig,svig,620.000,29-06-2013,Alm. Salg,6.526,3,Villa,95,1946,-4 %,Aktuel værdi
+Østerbo 97250 Hejnsvig,svig,60.000,02-05-2013,Auktion,560,4,Villa,107,1984,,Aktuel værdi
+Rugbjergvej 147250 Hejnsvig,svig,1.900.000,17-04-2013,Alm. Salg,12.258,4,Stuehus,155,1935,-22 %,
+Egebjerg Landevej 1147250 Hejnsvig,svig,398.855,04-04-2013,Andet,2.266,6,Stuehus,176,1931,,
+Langgade 537250 Hejnsvig,svig,645.000,13-03-2013,Alm. Salg,6.084,4,Villa,106,1979,-4 %,Aktuel værdi
+Søllingdalvej 807250 Hejnsvig,svig,225.000,21-02-2013,Auktion,1.480,5,Villa,152,1977,,Aktuel værdi
+Daugårdvej 147250 Hejnsvig,svig,306.000,08-02-2013,Fam. Salg,3.326,4,Villa,92,1924,,Aktuel værdi
+Rungborgvej 117250 Hejnsvig,svig,725.000,04-12-2012,Alm. Salg,6.359,4,Villa,114,1917,-9 %,Aktuel værdi
+Kirkevej 57250 Hejnsvig,svig,325.000,16-11-2012,Alm. Salg,2.731,4,Villa,119,1927,-34 %,Aktuel værdi
+Daugårdvej 757250 Hejnsvig,svig,550.000,14-11-2012,Fam. Salg,5.288,3,Stuehus,104,1925,,
+Langgade 307250 Hejnsvig,svig,750.000,10-11-2012,Alm. Salg,5.905,4,Villa,127,1982,,Aktuel værdi
+Søllingdalvej 447250 Hejnsvig,svig,675.000,24-10-2012,Alm. Salg,5.273,5,Villa,128,1975,0 %,Aktuel værdi
+Staruphøjevej 47250 Hejnsvig,svig,1.100.000,11-10-2012,Alm. Salg,5.238,7,Villa,210,1920,-15 %,Aktuel værdi
+Billundvej 57250 Hejnsvig,svig,210.000,11-10-2012,Auktion,2.038,4,Villa,103,1946,-62 %,Aktuel værdi
+Billundvej 17250 Hejnsvig,svig,840.000,18-09-2012,Alm. Salg,6.461,3,Villa,130,1965,-6 %,Aktuel værdi
+Ribe Landevej 537250 Hejnsvig,svig,2.525.000,13-09-2012,Alm. Salg,26.302,4,Stuehus,96,1925,,
+Bredgade 347250 Hejnsvig,svig,900.000,30-08-2012,Alm. Salg,5.232,6,Villa,172,1928,-10 %,Aktuel værdi
+Vinkelvej 787250 Hejnsvig,svig,675.000,27-08-2012,Alm. Salg,10.887,3,Villa,62,1959,-3 %,Aktuel værdi
+Søgårdvej 577250 Hejnsvig,svig,1.220.000,17-08-2012,Alm. Salg,8.187,6,Villa,149,1979,-6 %,Aktuel værdi
+Egebjerg Landevej 857250 Hejnsvig,svig,1.397.310,15-08-2012,Alm. Salg,7.472,5,Stuehus,187,1921,,
+Vesterhedevej 367250 Hejnsvig,svig,159.000,14-08-2012,Alm. Salg,760,8,Stuehus,209,1936,,
+Søgårdvej 317250 Hejnsvig,svig,700.000,23-07-2012,Alm. Salg,4.895,4,Villa,143,1980,-12 %,Aktuel værdi
+Langgade 327250 Hejnsvig,svig,1.900.000,18-07-2012,Alm. Salg,9.134,5,Villa,208,1916,,Aktuel værdi
+Søllingdalvej 847250 Hejnsvig,svig,1.105.000,06-07-2012,Alm. Salg,6.779,6,Villa,163,1980,-8 %,Aktuel værdi
+Daugårdvej 197250 Hejnsvig,svig,450.000,26-05-2012,Alm. Salg,3.658,5,Villa,123,1932,,Aktuel værdi
+Nyvej 77250 Hejnsvig,svig,900.000,22-05-2012,Alm. Salg,10.227,3,Villa,88,1947,-10 %,Aktuel værdi
+Egebjerg Landevej 927250 Hejnsvig,svig,950.000,24-04-2012,Alm. Salg,5.428,6,Villa,175,1965,-5 %,Aktuel værdi
+Rosengårdsvej 137250 Hejnsvig,svig,517.170,19-04-2012,Alm. Salg,3.380,5,Villa,153,1976,,Aktuel værdi
+Møllevangen 27250 Hejnsvig,svig,20.000,29-03-2012,Auktion,178,4,Villa,112,1932,,Aktuel værdi
+Tegnhøjvej 207250 Hejnsvig,svig,3.625.000,19-03-2012,Alm. Salg,27.052,5,Villa,134,1966,,Aktuel værdi
+Klodhøjvej 467250 Hejnsvig,svig,2.885.000,30-01-2012,Alm. Salg,25.307,4,Stuehus,114,1939,,
+Klinkvej 87250 Hejnsvig,svig,3.875.000,22-12-2011,Alm. Salg,-,7,Stuehus,215,1984,,
+Tegnhøjvej 347250 Hejnsvig,svig,1.472.200,20-12-2011,Fam. Salg,8.815,6,Stuehus,167,1928,,
+Stenhøjvej 1B7250 Hejnsvig,svig,1.070.000,23-11-2011,Alm. Salg,4.349,8,Villa,246,1969,-7 %,Aktuel værdi
+Lundgårdvej 737250 Hejnsvig,svig,50.000,04-11-2011,Alm. Salg,833,4,Villa,60,1947,,Aktuel værdi
+Risbølvej 57250 Hejnsvig,svig,625.000,24-10-2011,Alm. Salg,3.188,5,Villa,196,1953,0 %,Aktuel værdi
+Torvegade 67250 Hejnsvig,svig,400.000,22-10-2011,Alm. Salg,2.684,5,Villa,149,1928,,Aktuel værdi
+Søllingdalvej 527250 Hejnsvig,svig,550.000,05-09-2011,Alm. Salg,4.074,5,Villa,135,1977,,Aktuel værdi
+Katrinebjergvej 77250 Hejnsvig,svig,3.260.000,05-09-2011,Alm. Salg,24.328,5,Stuehus,134,1890,,
+Langgade 547250 Hejnsvig,svig,170.000,25-08-2011,Auktion,1.250,4,Villa,136,1978,,Aktuel værdi
+Vinkelvej 67250 Hejnsvig,svig,350.000,23-08-2011,Alm. Salg,4.022,4,Villa,87,1960,-36 %,Aktuel værdi
+Æblevej 107250 Hejnsvig,svig,110.000,18-08-2011,Auktion,-,4,Villa,111,1960,-71 %,Aktuel værdi
+Egebjerg Landevej 917250 Hejnsvig,svig,275.000,24-06-2011,Alm. Salg,1.785,5,Villa,154,1945,,Aktuel værdi
+Bredgade 447250 Hejnsvig,svig,558.730,19-06-2011,Alm. Salg,3.069,5,Villa,182,1935,,Aktuel værdi
+Søndergade 47250 Hejnsvig,svig,800.000,18-06-2011,Fam. Salg,3.603,10,Villa,222,1925,,Aktuel værdi
+Langgade 477250 Hejnsvig,svig,150.000,26-05-2011,Auktion,1.339,4,Villa,112,1978,-68 %,Aktuel værdi
+Langmosevej 147250 Hejnsvig,svig,800.000,03-05-2011,Fam. Salg,4.790,5,Villa,167,1998,,Aktuel værdi
+Vinkelvej 57250 Hejnsvig,svig,800.000,28-04-2011,Alm. Salg,7.017,4,Villa,114,1963,-10 %,Aktuel værdi
+Højene 97250 Hejnsvig,svig,765.000,13-04-2011,Alm. Salg,4.693,5,Villa,163,1971,-4 %,Aktuel værdi
+Ribe Landevej 577250 Hejnsvig,svig,1.300.000,16-03-2011,Alm. Salg,7.692,8,Villa,169,1918,-26 %,Aktuel værdi
+Søgårdparken 207250 Hejnsvig,svig,1.995.000,11-03-2011,Alm. Salg,11.598,5,Villa,172,2005,0 %,Aktuel værdi
+Søgårdvej 507250 Hejnsvig,svig,1.545.000,11-03-2011,Alm. Salg,6.630,8,Villa,233,1945,-3 %,Aktuel værdi
+Søgårdvej 737250 Hejnsvig,svig,1.215.000,18-02-2011,Alm. Salg,8.617,5,Villa,141,1979,-6 %,Aktuel værdi
+Midtkjærvej 117250 Hejnsvig,svig,560.000,11-02-2011,Alm. Salg,4.087,5,Stuehus,137,1940,-6 %,
+Søllingdalvej 47250 Hejnsvig,svig,475.000,10-02-2011,Alm. Salg,3.958,5,Villa,120,1974,,Aktuel værdi
+Daugårdvej 167250 Hejnsvig,svig,415.963,05-02-2011,Alm. Salg,3.466,3,Villa,120,1949,,Aktuel værdi
+Kirkevej 517250 Hejnsvig,svig,5.979.000,24-01-2011,Fam. Salg,27.809,9,Stuehus,215,1931,,
+Vinkelvej 27250 Hejnsvig,svig,600.000,11-11-2010,Alm. Salg,7.407,3,Villa,81,1947,,Aktuel værdi
+Rosengårdsvej 117250 Hejnsvig,svig,795.000,21-10-2010,Alm. Salg,5.000,6,Villa,159,1974,-6 %,Aktuel værdi
+Ørnsbjergvej 317250 Hejnsvig,svig,2.000.000,15-10-2010,Alm. Salg,12.820,6,Stuehus,156,2016,-5 %,
+Torvegade 87250 Hejnsvig,svig,925.000,06-10-2010,Alm. Salg,6.751,4,Villa,137,1978,,Aktuel værdi
+Østerbo 67250 Hejnsvig,svig,453.000,30-09-2010,Alm. Salg,2.422,5,Villa,187,1928,,Aktuel værdi
+Søllingdalvej 187250 Hejnsvig,svig,1.490.000,06-08-2010,Alm. Salg,7.233,4,Villa,206,1975,-7 %,Aktuel værdi
+Søllingdalvej 27250 Hejnsvig,svig,785.000,17-07-2010,Alm. Salg,5.858,4,Villa,134,1976,-12 %,Aktuel værdi
+Højene 67250 Hejnsvig,svig,900.000,06-07-2010,Alm. Salg,5.027,6,Villa,179,1973,-10 %,Aktuel værdi
+Rugbjergvej 207250 Hejnsvig,svig,500.000,03-06-2010,Alm. Salg,1.275,7,Stuehus,392,2012,,
+Søgårdvej 587250 Hejnsvig,svig,1.250.000,02-06-2010,Alm. Salg,9.328,5,Villa,134,1992,-3 %,Aktuel værdi
+Klodhøjvej 107250 Hejnsvig,svig,750.000,30-03-2010,Alm. Salg,7.211,3,Villa,104,1961,-2 %,Aktuel værdi
+Refshøjvej 597250 Hejnsvig,svig,1.555.299,06-03-2010,Alm. Salg,7.699,9,Stuehus,202,1929,,
+Billundvej 147250 Hejnsvig,svig,645.000,24-02-2010,Alm. Salg,4.215,7,Villa,153,1927,-7 %,Aktuel værdi
+Klodhøjvej 137250 Hejnsvig,svig,850.000,12-01-2010,Alm. Salg,7.024,5,Villa,121,1967,-5 %,Aktuel værdi
+Klodhøjvej 77250 Hejnsvig,svig,625.000,05-01-2010,Alm. Salg,4.734,5,Villa,132,1920,-10 %,Aktuel værdi
+Løvlundvej 367250 Hejnsvig,svig,5.100.000,22-12-2009,Fam. Salg,25.247,7,Stuehus,202,1940,,
+Østre Ringvej 37250 Hejnsvig,svig,1.160.000,09-11-2009,Alm. Salg,7.837,4,Villa,148,1976,-7 %,Aktuel værdi
+Langgade 567250 Hejnsvig,svig,690.000,27-10-2009,Alm. Salg,8.214,3,Villa,84,1954,,Aktuel værdi
+Askjærvej 267250 Hejnsvig,svig,1.550.000,18-09-2009,Alm. Salg,11.923,6,Villa,130,1909,-9 %,Aktuel værdi
+Nyvej 87250 Hejnsvig,svig,1.260.000,17-09-2009,Alm. Salg,13.125,4,Villa,96,1959,-8 %,Aktuel værdi
+Vinkelvej 147250 Hejnsvig,svig,520.000,14-09-2009,Alm. Salg,4.031,4,Villa,129,1958,-13 %,Aktuel værdi
+Rosengårdsvej 87250 Hejnsvig,svig,775.000,28-07-2009,Alm. Salg,5.783,5,Villa,134,1973,,Aktuel værdi
+Søgårdvej 677250 Hejnsvig,svig,1.140.000,13-07-2009,Alm. Salg,7.402,7,Villa,154,1981,,Aktuel værdi
+A G Jensens Vej 37250 Hejnsvig,svig,600.000,02-07-2009,Alm. Salg,6.122,3,Villa,98,1939,,Aktuel værdi
+Askjærvej 367250 Hejnsvig,svig,1.265.000,24-06-2009,Alm. Salg,8.322,3,Stuehus,152,1928,,
+Præstevænget 47250 Hejnsvig,svig,885.000,20-06-2009,Alm. Salg,6.914,5,Villa,128,1935,-1 %,Aktuel værdi
+Højene 87250 Hejnsvig,svig,900.000,26-05-2009,Alm. Salg,6.040,4,Villa,149,1970,-4 %,Aktuel værdi
+Søgårdparken 37250 Hejnsvig,svig,457.500,27-04-2009,Alm. Salg,2.584,5,Villa,177,2009,,Aktuel værdi
+Langgade 497250 Hejnsvig,svig,700.000,26-04-2009,Alm. Salg,7.070,3,Villa,99,1979,,Aktuel værdi
+Søllingdalvej 127250 Hejnsvig,svig,675.000,20-04-2009,Fam. Salg,4.141,5,Villa,163,1976,,Aktuel værdi
+Boldingvej 37250 Hejnsvig,svig,1.300.000,02-04-2009,Alm. Salg,10.077,5,Villa,129,2004,-10 %,Aktuel værdi
+Søndergade 147250 Hejnsvig,svig,485.000,30-03-2009,Auktion,5.511,5,Villa,88,1958,,Aktuel værdi
+Løvlundvej 287250 Hejnsvig,svig,2.006.438,16-03-2009,Alm. Salg,10.672,9,Stuehus,188,1920,,
+Søndergade 107250 Hejnsvig,svig,795.000,04-03-2009,Alm. Salg,6.210,5,Villa,128,2015,0 %,Aktuel værdi
+Rogusavej 57250 Hejnsvig,svig,845.000,20-02-2009,Alm. Salg,8.535,3,Villa,99,1975,0 %,Aktuel værdi
+Daugårdvej 747250 Hejnsvig,svig,1.555.299,29-01-2009,Alm. Salg,12.644,5,Stuehus,123,1927,,
+Refshøjvej 467250 Hejnsvig,svig,4.200.000,29-01-2009,Alm. Salg,28.000,5,Stuehus,150,1924,,
+Refshøjvej 587250 Hejnsvig,svig,1.960.000,29-01-2009,Alm. Salg,19.215,3,Villa,102,1913,,Aktuel værdi
+Vinkelvej 107250 Hejnsvig,svig,900.000,23-01-2009,Alm. Salg,5.325,7,Villa,169,1952,,Aktuel værdi
+Søgårdparken 197250 Hejnsvig,svig,270.000,21-01-2009,Alm. Salg,1.646,5,Villa,164,2009,,Aktuel værdi
+Bredgade 427250 Hejnsvig,svig,670.000,20-01-2009,Alm. Salg,5.153,6,Villa,130,1924,-8 %,Aktuel værdi
+Trøllundvej 217250 Hejnsvig,svig,12.167.705,15-01-2009,Fam. Salg,81.118,4,Stuehus,150,2010,,
+Bredgade 157250 Hejnsvig,svig,1.036.000,19-12-2008,Fam. Salg,4.666,7,Villa,222,1902,,Aktuel værdi
+Østre Ringvej 57250 Hejnsvig,svig,695.000,05-12-2008,Alm. Salg,6.150,4,Villa,113,1968,0 %,Aktuel værdi
+Søgårdvej 1377250 Hejnsvig,svig,1.800.000,04-12-2008,Fam. Salg,13.533,7,Stuehus,133,1910,,
+Daugårdvej 37250 Hejnsvig,svig,500.000,11-11-2008,Andet,21.739,1,Villa,23,1800,,Aktuel værdi
+Klodhøjvej 387250 Hejnsvig,svig,3.400.000,22-10-2008,Alm. Salg,24.285,5,Stuehus,140,1941,,
+Gråhedevej 87250 Hejnsvig,svig,3.260.000,20-10-2008,Fam. Salg,28.347,5,Stuehus,115,1911,,
+Rogusavej 17250 Hejnsvig,svig,1.100.000,16-09-2008,Alm. Salg,7.189,4,Villa,153,1962,-4 %,Aktuel værdi
+Østerbo 27250 Hejnsvig,svig,475.000,01-08-2008,Alm. Salg,-,6,Villa,157,1950,,Aktuel værdi
+Rugbjergvej 157250 Hejnsvig,svig,600.247,25-07-2008,Fam. Salg,8.454,3,Villa,71,1963,,Aktuel værdi
+Frodeslundvej 497250 Hejnsvig,svig,1.150.000,21-07-2008,Alm. Salg,7.823,5,Villa,147,1927,0 %,Aktuel værdi
+Søgårdvej 377250 Hejnsvig,svig,1.255.000,20-06-2008,Alm. Salg,8.715,5,Villa,144,1978,-5 %,Aktuel værdi
+Klinkvej 297250 Hejnsvig,svig,1.228.000,09-06-2008,Alm. Salg,11.584,5,Stuehus,106,1700,,
+Klinkvej 377250 Hejnsvig,svig,1.600.000,30-05-2008,Alm. Salg,5.970,3,Villa,268,1985,-6 %,Aktuel værdi
+Billundvej 47250 Hejnsvig,svig,1.350.000,17-04-2008,Alm. Salg,5.335,10,Villa,253,1921,,Aktuel værdi
+Rosengårdsvej 157250 Hejnsvig,svig,1.295.000,25-02-2008,Alm. Salg,10.360,5,Villa,125,1974,0 %,Aktuel værdi
+Præstevænget 127250 Hejnsvig,svig,985.000,05-02-2008,Alm. Salg,5.382,6,Villa,183,1919,,Aktuel værdi
+Daugårdvej 717250 Hejnsvig,svig,641.885,14-01-2008,Andet,3.585,7,Villa,179,1927,,Aktuel værdi
+Nyvej 187250 Hejnsvig,svig,530.000,14-01-2008,Alm. Salg,7.464,2,Villa,71,1963,-8 %,Aktuel værdi
+Egebjerg Landevej 737250 Hejnsvig,svig,109.340,07-01-2008,Alm. Salg,581,6,Villa,188,1914,,Aktuel værdi
+Søgårdparken 147250 Hejnsvig,svig,159.000,03-01-2008,Alm. Salg,963,5,Villa,165,2009,,Aktuel værdi
+Skrænten 127250 Hejnsvig,svig,1.100.000,21-12-2007,Alm. Salg,4.721,8,Villa,233,1982,-6 %,Aktuel værdi
+Refshøjvej 607250 Hejnsvig,svig,1.965.000,17-12-2007,Alm. Salg,8.972,7,Stuehus,219,1910,-2 %,
+Bredgade 587250 Hejnsvig,svig,970.000,26-11-2007,Alm. Salg,4.663,6,Villa,208,1925,-3 %,Aktuel værdi
+Daugårdvej 427250 Hejnsvig,svig,375.000,25-11-2007,Alm. Salg,3.826,4,Villa,98,1956,0 %,Aktuel værdi
+Nyvej 157250 Hejnsvig,svig,1.095.000,22-11-2007,Alm. Salg,7.064,4,Villa,155,1956,,Aktuel værdi
+Fugdalvej 127250 Hejnsvig,svig,14.000.000,08-11-2007,Alm. Salg,52.830,9,Stuehus,265,1900,,
+Æblevej 77250 Hejnsvig,svig,895.000,27-10-2007,Alm. Salg,7.047,5,Villa,127,1968,,Aktuel værdi
+Donslundvej 157250 Hejnsvig,svig,925.000,13-10-2007,Alm. Salg,9.068,4,Villa,102,1957,,Aktuel værdi
+Søgårdparken 127250 Hejnsvig,svig,149.000,12-10-2007,Alm. Salg,866,6,Villa,172,2008,,Aktuel værdi
+Lundgårdvej 817250 Hejnsvig,svig,294.350,10-10-2007,Alm. Salg,3.725,3,Stuehus,79,1855,,
+Ribe Landevej 817250 Hejnsvig,svig,2.000.000,05-10-2007,Alm. Salg,6.825,8,Villa,293,1925,,Aktuel værdi
+Daugårdvej 727250 Hejnsvig,svig,2.700.000,04-10-2007,Alm. Salg,16.981,6,Stuehus,159,1956,,
+Løvlundvej 27250 Hejnsvig,svig,995.000,13-09-2007,Alm. Salg,6.378,5,Villa,156,1951,,Aktuel værdi
+Søllingdalvej 227250 Hejnsvig,svig,1.600.000,08-09-2007,Alm. Salg,11.111,5,Villa,144,1975,,Aktuel værdi
+Gilbjergvej 277250 Hejnsvig,svig,570.000,15-08-2007,Alm. Salg,3.677,5,Villa,155,1918,,Aktuel værdi
+Langgade 577250 Hejnsvig,svig,625.000,10-08-2007,Alm. Salg,5.787,4,Villa,108,1979,,Aktuel værdi
+Daugårdvej 647250 Hejnsvig,svig,1.050.000,09-08-2007,Alm. Salg,6.140,6,Villa,171,1912,,Aktuel værdi
+Langgade 437250 Hejnsvig,svig,645.000,14-07-2007,Alm. Salg,4.777,6,Villa,135,1977,,Aktuel værdi
+Kolding Landevej 417250 Hejnsvig,svig,1.350.000,11-07-2007,Alm. Salg,10.800,5,Villa,125,1924,,Aktuel værdi
+Søgårdparken 87250 Hejnsvig,svig,974.862,06-07-2007,Alm. Salg,5.908,4,Villa,165,2007,,Aktuel værdi
+Fugdalvej 167250 Hejnsvig,svig,4.300.000,25-06-2007,Alm. Salg,33.593,4,Stuehus,128,1936,,
+Bøgelunden 37250 Hejnsvig,svig,565.000,23-06-2007,Alm. Salg,7.434,3,Villa,76,1959,,Aktuel værdi
+Katrinebjergvej 37250 Hejnsvig,svig,2.095.000,23-06-2007,Alm. Salg,12.323,6,Villa,170,1931,,Aktuel værdi
+Søgårdvej 1217250 Hejnsvig,svig,9.000.000,14-06-2007,Fam. Salg,45.918,6,Stuehus,196,1930,,
+Billundvej 87250 Hejnsvig,svig,860.000,09-06-2007,Alm. Salg,6.991,4,Villa,123,1952,,Aktuel værdi
+Egebjerg Landevej 667250 Hejnsvig,svig,1.375.000,30-05-2007,Fam. Salg,8.088,6,Stuehus,170,1969,,
+Langgade 20B7250 Hejnsvig,svig,2.050.000,12-05-2007,Alm. Salg,10.098,7,Villa,203,2002,,Aktuel værdi
+Ribe Landevej 757250 Hejnsvig,svig,1.850.000,10-05-2007,Alm. Salg,6.026,8,Stuehus,307,2008,,
+Bredgade 467250 Hejnsvig,svig,615.000,27-04-2007,Alm. Salg,4.241,6,Villa,145,1924,-9 %,Aktuel værdi
+Gråhedevej 97250 Hejnsvig,svig,1.500.000,26-04-2007,Alm. Salg,7.692,7,Villa,195,1932,,Aktuel værdi
+Bredgade 957250 Hejnsvig,svig,342.500,16-04-2007,Alm. Salg,3.763,3,Villa,91,1912,,Aktuel værdi
+Højene 177250 Hejnsvig,svig,1.395.000,26-03-2007,Alm. Salg,6.674,8,Villa,209,1971,,Aktuel værdi
+Holtevej 47250 Hejnsvig,svig,765.000,16-03-2007,Alm. Salg,8.895,3,Stuehus,86,1920,29 %,
+Stenhøjvej 137250 Hejnsvig,svig,1.095.000,05-03-2007,Alm. Salg,7.877,6,Villa,139,1976,,Aktuel værdi
+Tegnhøjvej 237250 Hejnsvig,svig,1.690.000,20-02-2007,Fam. Salg,14.201,6,Stuehus,119,1918,,
+Østerbo 117250 Hejnsvig,svig,400.000,01-02-2007,Alm. Salg,2.919,5,Villa,137,1965,,Aktuel værdi
+Trøllundvej 197250 Hejnsvig,svig,1.825.000,31-01-2007,Alm. Salg,10.195,6,Villa,179,1930,-5 %,Aktuel værdi
+Søllingdalvej 247250 Hejnsvig,svig,679.000,31-01-2007,Alm. Salg,5.475,5,Villa,124,1976,,Aktuel værdi
+Billundvej 427250 Hejnsvig,svig,1.742.500,18-01-2007,Fam. Salg,11.098,7,Stuehus,157,1913,,
+Gilbjergvej 217250 Hejnsvig,svig,27.500.000,16-01-2007,Alm. Salg,189.655,7,Stuehus,145,1935,,
+Fugdalvej 77250 Hejnsvig,svig,50.000,16-01-2007,Alm. Salg,279,6,Stuehus,179,1865,,
+Nyvej 16B7250 Hejnsvig,svig,775.000,04-12-2006,Alm. Salg,6.981,4,Villa,111,1968,,Aktuel værdi
+Lundgårdvej 687250 Hejnsvig,svig,2.200.000,09-11-2006,Alm. Salg,12.222,5,Stuehus,180,1937,,
+Boldingvej 157250 Hejnsvig,svig,2.550.145,03-11-2006,Alm. Salg,18.751,6,Villa,136,1923,,Aktuel værdi
+Billundvej 127250 Hejnsvig,svig,625.000,30-10-2006,Alm. Salg,5.434,4,Villa,115,1989,,Aktuel værdi
+Vinkelvej 47250 Hejnsvig,svig,675.000,17-10-2006,Alm. Salg,6.553,5,Villa,103,1947,,Aktuel værdi
+Stenhøjvej 1A7250 Hejnsvig,svig,500.000,27-09-2006,Alm. Salg,-,6,Villa,170,1967,,Aktuel værdi
+Bredgade 457250 Hejnsvig,svig,262.500,26-09-2006,Fam. Salg,1.750,4,Villa,150,1908,,Aktuel værdi
+Ribe Landevej 807250 Hejnsvig,svig,4.100.000,25-09-2006,Alm. Salg,24.848,3,Stuehus,165,1896,,
+Vesterhedevej 387250 Hejnsvig,svig,690.000,13-09-2006,Alm. Salg,6.699,5,Villa,103,1923,,Aktuel værdi
+Rosengårdsvej 47250 Hejnsvig,svig,9.000.000,12-09-2006,Alm. Salg,70.866,5,Villa,127,1973,,Aktuel værdi
+Vandmosevej 157250 Hejnsvig,svig,1.775.000,23-08-2006,Andet,10.757,5,Stuehus,165,1900,,
+Egebjerg Landevej 587250 Hejnsvig,svig,700.000,16-08-2006,Alm. Salg,3.517,6,Villa,199,1943,,Aktuel værdi
+Bredgade 777250 Hejnsvig,svig,620.000,04-08-2006,Alm. Salg,5.391,4,Villa,115,1953,,Aktuel værdi
+Egebjerg Landevej 717250 Hejnsvig,svig,170.000,24-07-2006,Alm. Salg,4.358,2,Villa,39,1956,,Aktuel værdi
+Daugårdvej 67250 Hejnsvig,svig,1.350.000,22-07-2006,Alm. Salg,6.617,6,Villa,204,1954,,Aktuel værdi
+Mejerivej 127250 Hejnsvig,svig,100.000,20-07-2006,Alm. Salg,341,6,Villa,293,1875,,Aktuel værdi
+Daugårdvej 127250 Hejnsvig,svig,300.000,19-07-2006,Alm. Salg,6.000,2,Villa,50,1944,,Aktuel værdi
+Søllingdalvej 627250 Hejnsvig,svig,835.000,05-07-2006,Alm. Salg,6.374,4,Villa,131,1977,,Aktuel værdi
+Møllevangen 87250 Hejnsvig,svig,465.000,04-07-2006,Alm. Salg,3.875,4,Rækkehus,120,1931,,Aktuel værdi
+Søgårdvej 517250 Hejnsvig,svig,865.000,29-06-2006,Alm. Salg,-,6,Villa,185,1979,,Aktuel værdi
+Høstvej 57250 Hejnsvig,svig,1.075.000,09-06-2006,Alm. Salg,7.166,5,Villa,150,1987,,Aktuel værdi
+Refshøjvej 707250 Hejnsvig,svig,775.000,07-06-2006,Alm. Salg,-,7,Villa,164,1954,,Aktuel værdi
+Søgårdvej 1537250 Hejnsvig,svig,2.500.000,06-06-2006,Alm. Salg,22.321,4,Stuehus,112,1941,,
+Ørnsbjergvej 157250 Hejnsvig,svig,143.450,02-05-2006,Alm. Salg,637,7,Stuehus,225,1979,,
+Løvlundvej 57250 Hejnsvig,svig,800.000,31-03-2006,Alm. Salg,5.263,5,Villa,152,1966,,Aktuel værdi
+Østerbo 137250 Hejnsvig,svig,515.000,31-03-2006,Alm. Salg,4.364,6,Villa,118,1792,,Aktuel værdi
+Præstevænget 57250 Hejnsvig,svig,450.000,28-03-2006,Alm. Salg,2.727,5,Villa,165,1915,,Aktuel værdi
+Lundgårdvej 387250 Hejnsvig,svig,2.519.812,15-03-2006,Fam. Salg,19.841,4,Villa,127,1960,,Aktuel værdi
+Egebjerg Landevej 937250 Hejnsvig,svig,600.000,15-03-2006,Alm. Salg,4.137,7,Villa,145,1912,,Aktuel værdi
+Tegnhøjvej 47250 Hejnsvig,svig,5.944.008,09-03-2006,Alm. Salg,51.687,4,Stuehus,115,1902,,
+Refshøjvej 507250 Hejnsvig,svig,800.000,08-03-2006,Alm. Salg,4.188,6,Villa,191,1956,,Aktuel værdi
+Æblevej 57250 Hejnsvig,svig,700.000,27-02-2006,Alm. Salg,6.603,3,Villa,106,1965,,Aktuel værdi
+Staruphøjevej 127250 Hejnsvig,svig,7.310.445,23-02-2006,Alm. Salg,38.679,5,Stuehus,189,1936,,
+Æblevej 37250 Hejnsvig,svig,775.000,16-02-2006,Alm. Salg,7.380,4,Villa,105,1966,,Aktuel værdi
+Skrænten 47250 Hejnsvig,svig,635.997,12-02-2006,Alm. Salg,4.416,4,Villa,144,1979,,Aktuel værdi
+Præstevænget 67250 Hejnsvig,svig,550.000,07-02-2006,Alm. Salg,4.741,4,Villa,116,1937,,Aktuel værdi
+Søgårdvej 637250 Hejnsvig,svig,825.000,06-02-2006,Alm. Salg,6.547,4,Villa,126,1979,,Aktuel værdi
+Langgade 657250 Hejnsvig,svig,650.000,01-02-2006,Alm. Salg,4.577,5,Villa,142,1980,,Aktuel værdi
+Daugårdvej 187250 Hejnsvig,svig,425.000,02-01-2006,Alm. Salg,3.601,3,Villa,118,1924,,Aktuel værdi
+A G Jensens Vej 57250 Hejnsvig,svig,730.000,23-12-2005,Fam. Salg,5.748,4,Villa,127,1960,,Aktuel værdi
+Rungborgvej 27250 Hejnsvig,svig,420.000,05-12-2005,Fam. Salg,2.295,7,Villa,183,1923,,Aktuel værdi
+Lundgårdvej 627250 Hejnsvig,svig,800.000,15-11-2005,Fam. Salg,8.333,4,Stuehus,96,1872,,
+Nyvej 207250 Hejnsvig,svig,725.000,12-11-2005,Alm. Salg,7.397,3,Villa,98,1962,,Aktuel værdi
+Søgårdvej 1227250 Hejnsvig,svig,1.335.000,04-11-2005,Fam. Salg,5.276,5,Stuehus,253,1900,,
+Vandmosevej 107250 Hejnsvig,svig,1.095.000,03-11-2005,Alm. Salg,10.735,3,Villa,102,1962,,Aktuel værdi
+Egebjerg Landevej 837250 Hejnsvig,svig,590.000,02-11-2005,Alm. Salg,-,7,Villa,285,1912,,Aktuel værdi
+Søgårdparken 167250 Hejnsvig,svig,159.000,31-10-2005,Alm. Salg,845,6,Villa,188,2007,,Aktuel værdi
+Højene 137250 Hejnsvig,svig,795.000,28-10-2005,Alm. Salg,6.853,4,Villa,116,1971,,Aktuel værdi
+Daugårdvej 237250 Hejnsvig,svig,360.000,27-10-2005,Fam. Salg,2.950,4,Villa,122,1929,,Aktuel værdi
+Gilbjergvej 437250 Hejnsvig,svig,564.158,17-10-2005,Fam. Salg,4.001,5,Villa,141,1927,,Aktuel værdi
+Kirkevej 167250 Hejnsvig,svig,700.000,10-10-2005,Alm. Salg,-,7,Villa,193,1956,,Aktuel værdi
+Højene 227250 Hejnsvig,svig,675.000,27-09-2005,Alm. Salg,4.470,5,Villa,151,1970,,Aktuel værdi
+Søgårdparken 107250 Hejnsvig,svig,159.000,15-09-2005,Alm. Salg,836,5,Villa,190,2006,,Aktuel værdi
+Gilbjergvej 287250 Hejnsvig,svig,517.055,05-09-2005,Alm. Salg,2.765,6,Villa,187,1872,,Aktuel værdi
+Nyvej 1B7250 Hejnsvig,svig,629.000,01-08-2005,Fam. Salg,5.113,4,Villa,123,1985,,Aktuel værdi
+Rogusavej 47250 Hejnsvig,svig,995.000,30-06-2005,Alm. Salg,-,7,Villa,229,1970,,Aktuel værdi
+Bredgade 817250 Hejnsvig,svig,200.000,28-06-2005,Alm. Salg,-,5,Villa,164,1951,,Aktuel værdi
+Nyvej 177250 Hejnsvig,svig,250.000,22-06-2005,Alm. Salg,3.623,4,Villa,69,1933,,Aktuel værdi
+Nyvej 147250 Hejnsvig,svig,655.000,08-06-2005,Alm. Salg,5.458,4,Villa,120,1949,,Aktuel værdi
+Løvlundvej 177250 Hejnsvig,svig,230.000,07-06-2005,Alm. Salg,-,10,Villa,202,1964,,Aktuel værdi
+Søgårdvej 627250 Hejnsvig,svig,975.000,31-05-2005,Alm. Salg,6.866,5,Villa,142,1986,,Aktuel værdi
+Rosengårdsvej 67250 Hejnsvig,svig,1.065.000,25-05-2005,Alm. Salg,7.052,4,Villa,151,1975,,Aktuel værdi
+Nyvej 47250 Hejnsvig,svig,675.000,19-05-2005,Alm. Salg,6.617,4,Villa,102,1960,,Aktuel værdi
+Egebjerg Landevej 1087250 Hejnsvig,svig,450.000,17-05-2005,Alm. Salg,-,4,Stuehus,116,1905,,
+Fugdalvej 37250 Hejnsvig,svig,2.325.000,09-05-2005,Alm. Salg,14.531,7,Stuehus,160,1880,,
+Søllingdalvej 747250 Hejnsvig,svig,695.000,03-05-2005,Alm. Salg,6.205,4,Villa,112,1977,,Aktuel værdi
+Nyvej 237250 Hejnsvig,svig,725.000,01-04-2005,Alm. Salg,4.769,6,Villa,152,1967,,Aktuel værdi
+Nyvej 37250 Hejnsvig,svig,475.000,24-03-2005,Alm. Salg,8.189,2,Villa,58,1961,,Aktuel værdi
+Bøgelunden 17250 Hejnsvig,svig,284.043,15-03-2005,Andet,2.290,3,Villa,124,1948,,Aktuel værdi
+Langgade 597250 Hejnsvig,svig,515.000,15-03-2005,Alm. Salg,4.221,4,Villa,122,1977,,Aktuel værdi
+Daugårdvej 257250 Hejnsvig,svig,400.000,14-03-2005,Alm. Salg,3.225,6,Villa,124,1931,,Aktuel værdi
+Fugdalvej 207250 Hejnsvig,svig,255.000,07-03-2005,Fam. Salg,7.285,1,Sommerhus,35,1968,,Aktuel værdi
+Fugdalvej 117250 Hejnsvig,svig,875.000,02-03-2005,Alm. Salg,4.679,6,Villa,187,1911,,Aktuel værdi
+Østre Ringvej 107250 Hejnsvig,svig,425.000,25-02-2005,Alm. Salg,4.207,3,Villa,101,1966,,Aktuel værdi
+Midtkjærvej 127250 Hejnsvig,svig,155.000,31-01-2005,Alm. Salg,1.291,3,Stuehus,120,1895,,
+Midtkjærvej 157250 Hejnsvig,svig,155.000,31-01-2005,Alm. Salg,811,7,Stuehus,191,1897,,
+Egebjerg Landevej 767250 Hejnsvig,svig,400.000,07-01-2005,Alm. Salg,4.347,4,Villa,92,1800,,Aktuel værdi
+Egebjerg Landevej 907250 Hejnsvig,svig,550.000,17-12-2004,Alm. Salg,2.619,6,Villa,210,1962,,Aktuel værdi
+Askjærvej 27250 Hejnsvig,svig,470.000,14-12-2004,Alm. Salg,4.234,5,Villa,111,1960,,Aktuel værdi
+Søgårdvej 567250 Hejnsvig,svig,930.000,29-11-2004,Alm. Salg,6.549,5,Villa,142,1988,,Aktuel værdi
+Daugårdvej 227250 Hejnsvig,svig,325.000,29-11-2004,Alm. Salg,2.876,5,Villa,113,1917,,Aktuel værdi
+Egebjerg Landevej 547250 Hejnsvig,svig,2.200.000,03-11-2004,Alm. Salg,18.803,5,Stuehus,117,1960,,
+Langgade 507250 Hejnsvig,svig,785.000,01-10-2004,Alm. Salg,5.198,4,Villa,151,1910,,Aktuel værdi
+Søgårdvej 537250 Hejnsvig,svig,790.000,10-06-2004,Alm. Salg,5.374,4,Villa,147,1979,,Aktuel værdi
+Søllingdalvej 827250 Hejnsvig,svig,625.000,07-04-2004,Alm. Salg,4.340,5,Villa,144,1977,,Aktuel værdi
+Vesterhedevej 427250 Hejnsvig,svig,5.300.000,05-04-2004,Alm. Salg,21.900,8,Stuehus,242,1890,,
+Egebjerg Landevej 887250 Hejnsvig,svig,675.000,02-04-2004,Alm. Salg,4.623,5,Villa,146,1930,,Aktuel værdi
+Søgårdvej 1587250 Hejnsvig,svig,1.508.291,31-03-2004,Fam. Salg,9.426,6,Stuehus,160,1927,,
+Æblevej 27250 Hejnsvig,svig,490.000,31-03-2004,Alm. Salg,3.798,4,Villa,129,1947,,Aktuel værdi
+Katrinebjergvej 47250 Hejnsvig,svig,1.700.000,19-03-2004,Fam. Salg,9.239,7,Stuehus,184,1908,,
+Egebjerg Landevej 867250 Hejnsvig,svig,585.000,13-02-2004,Alm. Salg,4.090,4,Villa,143,1931,,Aktuel værdi
+Ribe Landevej 1057250 Hejnsvig,svig,850.000,16-01-2004,Alm. Salg,6.538,4,Stuehus,130,1932,,
+Høstvej 37250 Hejnsvig,svig,570.000,22-12-2003,Fam. Salg,4.488,5,Villa,127,1968,,Aktuel værdi
+Daugårdvej 357250 Hejnsvig,svig,350.000,12-12-2003,Alm. Salg,6.034,2,Villa,58,1935,,Aktuel værdi
+Søgårdvej 817250 Hejnsvig,svig,815.000,15-11-2003,Alm. Salg,6.037,6,Villa,135,1985,,Aktuel værdi
+Billundvej 477250 Hejnsvig,svig,2.600.000,16-09-2003,Alm. Salg,7.761,7,Villa,335,1916,,Aktuel værdi
+Daugårdvej 377250 Hejnsvig,svig,170.000,12-09-2003,Fam. Salg,1.545,3,Villa,110,1954,,Aktuel værdi
+Bredgade 577250 Hejnsvig,svig,355.000,28-08-2003,Alm. Salg,2.414,6,Villa,147,1926,,Aktuel værdi
+Midtkjærvej 97250 Hejnsvig,svig,760.000,19-08-2003,Alm. Salg,4.245,8,Villa,179,1927,,Aktuel værdi
+Skrænten 87250 Hejnsvig,svig,750.000,12-08-2003,Alm. Salg,5.319,5,Villa,141,1985,,Aktuel værdi
+Boldingvej 107250 Hejnsvig,svig,1.300.000,06-08-2003,Alm. Salg,9.701,5,Villa,134,1965,,Aktuel værdi
+Ribe Landevej 1237250 Hejnsvig,svig,100.000,08-07-2003,Alm. Salg,625,6,Stuehus,160,1916,,
+Langgade 587250 Hejnsvig,svig,390.000,08-07-2003,Alm. Salg,4.756,2,Villa,82,1954,,Aktuel værdi
+Søgårdvej 697250 Hejnsvig,svig,910.000,05-07-2003,Alm. Salg,5.947,6,Villa,153,1979,,Aktuel værdi
+Søndergade 127250 Hejnsvig,svig,470.000,20-06-2003,Alm. Salg,2.764,8,Villa,170,1953,,Aktuel værdi
+Bredgade 357250 Hejnsvig,svig,580.000,03-06-2003,Alm. Salg,9.666,2,Villa,60,1958,,Aktuel værdi
+Nyvej 137250 Hejnsvig,svig,450.000,07-03-2003,Alm. Salg,4.838,2,Villa,93,1940,,Aktuel værdi
+A G Jensens Vej 67250 Hejnsvig,svig,505.000,27-02-2003,Alm. Salg,4.243,4,Villa,119,1966,,Aktuel værdi
+Langgade 377250 Hejnsvig,svig,318.017,24-02-2003,Auktion,-,3,Villa,124,1929,,Aktuel værdi
+Kirkevej 157250 Hejnsvig,svig,640.000,14-02-2003,Alm. Salg,5.245,4,Villa,122,1952,,Aktuel værdi
+Søgårdvej 857250 Hejnsvig,svig,500.000,14-02-2003,Andet,3.623,4,Villa,138,1980,,Aktuel værdi
+Refshøjvej 747250 Hejnsvig,svig,950.000,06-02-2003,Fam. Salg,8.119,5,Stuehus,117,1954,,
+Langgade 87250 Hejnsvig,svig,843.318,21-01-2003,Alm. Salg,5.337,7,Stuehus,158,1917,,
+Bredgade 47250 Hejnsvig,svig,625.000,13-12-2002,Fam. Salg,5.252,2,Villa,119,2012,,Aktuel værdi
+Bredgade 397250 Hejnsvig,svig,570.000,02-12-2002,Alm. Salg,-,6,Villa,186,1910,,Aktuel værdi
+Tegnhøjvej 247250 Hejnsvig,svig,1.650.000,14-11-2002,Alm. Salg,10.927,5,Stuehus,151,2011,,
+Tegnhøjvej 287250 Hejnsvig,svig,1.170.000,11-11-2002,Alm. Salg,4.936,8,Villa,237,1900,,Aktuel værdi
+Ribe Landevej 847250 Hejnsvig,svig,600.000,21-10-2002,Fam. Salg,-,7,Villa,245,1932,,Aktuel værdi
+Østerbo 77250 Hejnsvig,svig,406.584,28-09-2002,Fam. Salg,-,6,Villa,151,1910,,Aktuel værdi
+Vesterhedevej 447250 Hejnsvig,svig,680.000,27-09-2002,Alm. Salg,-,7,Stuehus,182,1900,,
+Præstevænget 107250 Hejnsvig,svig,375.000,15-08-2002,Alm. Salg,-,3,Villa,112,1927,,Aktuel værdi
+Fugdalvej 227250 Hejnsvig,svig,110.500,30-07-2002,Fam. Salg,7.366,2,Sommerhus,15,1969,,Aktuel værdi
+Søgårdvej 457250 Hejnsvig,svig,775.000,26-07-2002,Alm. Salg,5.698,5,Villa,136,1979,,Aktuel værdi
+Ørnsbjergvej 107250 Hejnsvig,svig,800.000,25-07-2002,Alm. Salg,9.638,2,Stuehus,83,1930,,
+Kirkevej 127250 Hejnsvig,svig,765.000,27-06-2002,Alm. Salg,3.297,7,Villa,232,1944,,Aktuel værdi
+Stenhøjvej 117250 Hejnsvig,svig,480.000,20-06-2002,Andet,4.000,5,Villa,120,1974,,Aktuel værdi
+Søgårdparken 227250 Hejnsvig,svig,179.200,12-06-2002,Alm. Salg,1.171,6,Villa,153,2003,,Aktuel værdi
+Daugårdvej 247250 Hejnsvig,svig,259.250,10-06-2002,Fam. Salg,1.705,4,Villa,152,1955,,Aktuel værdi
+Søllingdalvej 147250 Hejnsvig,svig,850.000,28-05-2002,Alm. Salg,5.944,6,Villa,143,1974,,Aktuel værdi
+Skrænten 107250 Hejnsvig,svig,30.000,14-05-2002,Alm. Salg,184,6,Villa,163,2006,,Aktuel værdi
+Løvlundvej 297250 Hejnsvig,svig,1.275.000,19-04-2002,Fam. Salg,10.805,4,Stuehus,118,1884,,
+Højene 37250 Hejnsvig,svig,850.000,25-03-2002,Alm. Salg,6.640,3,Villa,128,1970,,Aktuel værdi
+Egebjerg Landevej 897250 Hejnsvig,svig,420.000,15-03-2002,Alm. Salg,5.600,2,Villa,75,1955,,Aktuel værdi
+Nyvej 117250 Hejnsvig,svig,650.000,23-01-2002,Alm. Salg,6.632,3,Villa,98,1962,,Aktuel værdi
+Langgade 297250 Hejnsvig,svig,50.000,19-11-2001,Alm. Salg,295,4,Villa,169,2001,,Aktuel værdi
+Ribe Landevej 627250 Hejnsvig,svig,525.000,17-11-2001,Alm. Salg,4.906,3,Stuehus,107,1850,,
+Søgårdvej 797250 Hejnsvig,svig,1.180.000,16-11-2001,Alm. Salg,7.564,5,Villa,156,1984,,Aktuel værdi
+Bredgade 647250 Hejnsvig,svig,825.000,21-10-2001,Alm. Salg,4.064,7,Villa,203,1927,,Aktuel værdi
+Søgårdvej 657250 Hejnsvig,svig,954.398,03-10-2001,Alm. Salg,5.819,6,Villa,164,1979,,Aktuel værdi
+Langgade 527250 Hejnsvig,svig,375.000,21-09-2001,Alm. Salg,3.000,4,Villa,125,1954,,Aktuel værdi
+Risbølvej 37250 Hejnsvig,svig,1.350.000,18-09-2001,Alm. Salg,9.712,7,Stuehus,139,1934,,
+Egebjerg Landevej 1487250 Hejnsvig,svig,1.050.000,21-08-2001,Fam. Salg,6.287,5,Stuehus,167,1955,,
+Egebjerg Landevej 1187250 Hejnsvig,svig,1.350.000,13-08-2001,Alm. Salg,12.857,2,Stuehus,105,1940,,
+Skrænten 227250 Hejnsvig,svig,477.500,18-05-2001,Alm. Salg,5.026,4,Villa,95,1937,,Aktuel værdi
+Torvegade 17250 Hejnsvig,svig,325.000,18-05-2001,Alm. Salg,2.272,5,Villa,143,1921,,Aktuel værdi
+Søgårdvej 667250 Hejnsvig,svig,820.000,23-04-2001,Alm. Salg,5.030,6,Villa,163,1981,,Aktuel værdi
+Langgade 167250 Hejnsvig,svig,650.000,30-03-2001,Alm. Salg,3.823,9,Villa,170,1956,,Aktuel værdi
+Vesterhedevej 407250 Hejnsvig,svig,725.000,26-03-2001,Alm. Salg,-,9,Villa,250,1927,,Aktuel værdi
+Lundgårdvej 607250 Hejnsvig,svig,1.034.133,28-02-2001,Alm. Salg,5.745,6,Stuehus,180,1932,,
+Klodhøjvej 437250 Hejnsvig,svig,130.776,21-02-2001,Alm. Salg,983,5,Stuehus,133,1952,,
+Langgade 347250 Hejnsvig,svig,920.000,01-02-2001,Alm. Salg,5.027,6,Villa,183,1929,,Aktuel værdi
+Kirkevej 427250 Hejnsvig,svig,812.153,30-01-2001,Alm. Salg,5.639,5,Villa,144,1946,,Aktuel værdi
+Vinkelvej 127250 Hejnsvig,svig,720.000,29-01-2001,Alm. Salg,8.275,4,Villa,87,1955,,Aktuel værdi
+Lundgårdvej 777250 Hejnsvig,svig,1.626.567,30-12-2000,Alm. Salg,12.707,5,Stuehus,128,1923,,
+Ribe Landevej 837250 Hejnsvig,svig,2.298.873,17-11-2000,Fam. Salg,11.437,6,Stuehus,201,1925,,
+Egebjerg Landevej 607250 Hejnsvig,svig,550.000,31-10-2000,Fam. Salg,6.111,3,Villa,90,1993,,Aktuel værdi
+Egebjerg Landevej 1447250 Hejnsvig,svig,940.000,18-10-2000,Alm. Salg,-,5,Stuehus,180,1952,,
+Rungborgvej 17250 Hejnsvig,svig,425.000,09-10-2000,Fam. Salg,3.935,5,Villa,108,1926,,Aktuel værdi
+Refshøjvej 767250 Hejnsvig,svig,175.000,04-10-2000,Fam. Salg,4.375,2,Sommerhus,40,1967,,Aktuel værdi
+Rungborgvej 57250 Hejnsvig,svig,695.000,01-10-2000,Alm. Salg,7.020,5,Villa,99,1925,,Aktuel værdi
+Søllingdalvej 567250 Hejnsvig,svig,850.000,21-09-2000,Andet,6.390,6,Villa,133,1977,,Aktuel værdi
+Rugbjergvej 267250 Hejnsvig,svig,1.630.000,11-09-2000,Alm. Salg,9.055,5,Stuehus,180,1900,,
+Søgårdparken 187250 Hejnsvig,svig,154.000,29-08-2000,Alm. Salg,911,5,Villa,169,2000,,Aktuel værdi
+Klodhøjvej 427250 Hejnsvig,svig,250.000,29-07-2000,Andet,1.256,5,Stuehus,199,1936,,
+Klodhøjvej 67250 Hejnsvig,svig,550.000,16-06-2000,Alm. Salg,4.910,4,Villa,112,1940,,Aktuel værdi
+Langgade 667250 Hejnsvig,svig,331.500,08-05-2000,Fam. Salg,4.361,3,Stuehus,76,1909,,
+Stenhøjvej 167250 Hejnsvig,svig,673.000,06-05-2000,Alm. Salg,5.427,4,Villa,124,1985,,Aktuel værdi
+Højene 77250 Hejnsvig,svig,762.026,14-03-2000,Alm. Salg,5.953,5,Villa,128,1972,,Aktuel værdi
+Egebjerg Landevej 1267250 Hejnsvig,svig,1.139.367,19-02-2000,Alm. Salg,7.446,7,Villa,153,1937,,Aktuel værdi
+Stenhøjvej 107250 Hejnsvig,svig,620.000,14-01-2000,Alm. Salg,4.661,4,Villa,133,1976,,Aktuel værdi
+Boldingvej 77250 Hejnsvig,svig,3.900.000,28-12-1999,Alm. Salg,11.504,13,Stuehus,339,1937,,
+Billundvej 277250 Hejnsvig,svig,975.000,21-12-1999,Fam. Salg,6.290,8,Stuehus,155,1913,,
+Klinkvej 207250 Hejnsvig,svig,1.950.000,20-12-1999,Fam. Salg,11.818,6,Stuehus,165,1926,,
+Kirkevej 117250 Hejnsvig,svig,300.000,09-12-1999,Fam. Salg,4.761,3,Villa,63,1949,,Aktuel værdi
+Vinkelvej 17250 Hejnsvig,svig,303.000,26-10-1999,Fam. Salg,3.564,3,Villa,85,1952,,Aktuel værdi
+Egebjerg Landevej 847250 Hejnsvig,svig,562.000,20-10-1999,Alm. Salg,4.496,4,Villa,125,1913,,Aktuel værdi
+Risbølvej 97250 Hejnsvig,svig,780.000,09-09-1999,Fam. Salg,4.561,6,Stuehus,171,1935,,
+Egebjerg Landevej 527250 Hejnsvig,svig,375.000,30-08-1999,Alm. Salg,5.000,3,Villa,75,1940,,Aktuel værdi
+Egebjerg Landevej 1007250 Hejnsvig,svig,457.000,11-06-1999,Alm. Salg,3.776,5,Villa,121,1973,,Aktuel værdi
+Bredgade 27250 Hejnsvig,svig,854.970,06-05-1999,Alm. Salg,-,12,Villa,313,1876,,Aktuel værdi
+Rugbjergvej 107250 Hejnsvig,svig,1.568.687,28-04-1999,Alm. Salg,5.602,6,Stuehus,280,1955,,
+Æblevej 117250 Hejnsvig,svig,350.000,27-03-1999,Alm. Salg,5.384,3,Villa,65,1961,,Aktuel værdi
+Refshøjvej 897250 Hejnsvig,svig,2.788.742,09-03-1999,Alm. Salg,-,10,Stuehus,282,1973,,
+Ribe Landevej 1627250 Hejnsvig,svig,1.474.000,03-03-1999,Alm. Salg,8.987,7,Stuehus,164,1959,,
+"Bredgade 61, 17250 Hejnsvig",svig,2.300.000,26-02-1999,Alm. Salg,-,6,Lejlighed,81,1913,,Aktuel værdi
+Nyvej 107250 Hejnsvig,svig,263.500,20-02-1999,Fam. Salg,2.533,2,Villa,104,2000,,Aktuel værdi
+Langgade 467250 Hejnsvig,svig,170.000,29-01-1999,Alm. Salg,3.269,2,Villa,52,1950,,Aktuel værdi
+Ribe Landevej 767250 Hejnsvig,svig,1.550.000,12-01-1999,Alm. Salg,11.071,5,Stuehus,140,1936,,
+Billundvej 587250 Hejnsvig,svig,550.000,12-12-1998,Alm. Salg,2.989,5,Villa,184,1999,,Aktuel værdi
+Lundgårdvej 647250 Hejnsvig,svig,170.000,25-11-1998,Fam. Salg,1.847,3,Villa,92,1965,,Aktuel værdi
+Søllingdalvej 87250 Hejnsvig,svig,810.000,17-11-1998,Alm. Salg,5.436,5,Villa,149,1975,,Aktuel værdi
+Skrænten 37250 Hejnsvig,svig,751.000,06-10-1998,Alm. Salg,5.481,5,Villa,137,1979,,Aktuel værdi
+Søllingdalvej 607250 Hejnsvig,svig,451.000,29-09-1998,Fam. Salg,3.887,5,Villa,116,1976,,Aktuel værdi
+Mejerivej 207250 Hejnsvig,svig,965.000,25-09-1998,Alm. Salg,-,5,Stuehus,130,1969,,
+Rogusavej 67250 Hejnsvig,svig,275.000,06-08-1998,Alm. Salg,2.217,5,Villa,124,1973,,Aktuel værdi
+Søgårdparken 67250 Hejnsvig,svig,188.497,20-07-1998,Alm. Salg,1.291,5,Villa,146,1999,,Aktuel værdi
+Daugårdvej 207250 Hejnsvig,svig,625.000,19-05-1998,Alm. Salg,4.340,7,Villa,144,1940,,Aktuel værdi
+Stenhøjvej 147250 Hejnsvig,svig,747.533,18-05-1998,Alm. Salg,5.794,5,Villa,129,1975,,Aktuel værdi
+Langgade 457250 Hejnsvig,svig,447.000,21-04-1998,Alm. Salg,4.425,4,Villa,101,1977,,Aktuel værdi
+Langmosevej 107250 Hejnsvig,svig,125.935,08-04-1998,Alm. Salg,777,6,Villa,162,2000,,Aktuel værdi
+Søgårdparken 247250 Hejnsvig,svig,164.000,01-04-1998,Alm. Salg,911,6,Villa,180,1998,,Aktuel værdi
+Søgårdvej 1107250 Hejnsvig,svig,535.000,26-03-1998,Fam. Salg,-,3,Stuehus,89,1894,,
+Egebjerg Landevej 427250 Hejnsvig,svig,850.000,25-02-1998,Alm. Salg,6.343,4,Stuehus,134,1902,,
+Egebjerg Landevej 487250 Hejnsvig,svig,451.957,11-02-1998,Alm. Salg,4.808,4,Villa,94,1935,,Aktuel værdi
+A G Jensens Vej 47250 Hejnsvig,svig,460.000,16-01-1998,Alm. Salg,2.857,4,Villa,161,1942,,Aktuel værdi
+Rugbjergvej 247250 Hejnsvig,svig,1.117.000,06-12-1997,Alm. Salg,8.094,3,Stuehus,138,1910,,
+Søgårdvej 417250 Hejnsvig,svig,683.440,05-11-1997,Alm. Salg,5.257,5,Villa,130,1979,,Aktuel værdi
+Lundgårdvej 667250 Hejnsvig,svig,105.984,20-10-1997,Fam. Salg,841,6,Villa,126,1954,,Aktuel værdi
+Kirkevej 417250 Hejnsvig,svig,640.000,16-10-1997,Alm. Salg,-,8,Villa,196,1944,,Aktuel værdi
+Søgårdvej 1247250 Hejnsvig,svig,800.000,17-09-1997,Alm. Salg,3.076,6,Stuehus,260,1999,,
+Kolding Landevej 477250 Hejnsvig,svig,838.333,11-09-1997,Alm. Salg,-,8,Stuehus,245,1959,,
+Østerbo 37250 Hejnsvig,svig,331.000,10-09-1997,Fam. Salg,2.330,6,Villa,142,1963,,Aktuel værdi
+Søgårdparken 27250 Hejnsvig,svig,188.497,01-09-1997,Alm. Salg,1.178,5,Villa,160,1997,,Aktuel værdi
+Billundvej 357250 Hejnsvig,svig,710.000,07-05-1997,Fam. Salg,3.717,6,Stuehus,191,1972,,
+Bredgade 497250 Hejnsvig,svig,350.000,30-04-1997,Alm. Salg,2.500,7,Villa,140,1910,,Aktuel værdi
+Søllingdalvej 307250 Hejnsvig,svig,664.136,26-03-1997,Alm. Salg,5.355,5,Villa,124,1975,,Aktuel værdi
+Bredgade 737250 Hejnsvig,svig,452.500,19-02-1997,Fam. Salg,2.011,9,Villa,225,1917,,Aktuel værdi
+Kirkevej 527250 Hejnsvig,svig,303.456,15-02-1997,Alm. Salg,-,4,Villa,139,1902,,Aktuel værdi
+Præstevænget 27250 Hejnsvig,svig,635.000,01-02-1997,Alm. Salg,4.960,5,Villa,128,1967,,Aktuel værdi
+Højene 47250 Hejnsvig,svig,485.000,06-01-1997,Fam. Salg,3.646,5,Villa,133,1973,,Aktuel værdi
+Højene 107250 Hejnsvig,svig,850.000,17-12-1996,Alm. Salg,5.059,5,Villa,168,1971,,Aktuel værdi
+Rungborgvej 137250 Hejnsvig,svig,663.406,21-11-1996,Alm. Salg,3.790,7,Villa,175,1961,,Aktuel værdi
+Refshøjvej 697250 Hejnsvig,svig,425.000,07-11-1996,Alm. Salg,-,6,Stuehus,191,1928,,
+Østerbo 47250 Hejnsvig,svig,100.000,02-11-1996,Alm. Salg,787,4,Villa,127,1999,,Aktuel værdi
+Søgårdvej 1257250 Hejnsvig,svig,1.411.086,11-10-1996,Alm. Salg,7.545,6,Stuehus,187,1937,,
+Langgade 337250 Hejnsvig,svig,936.599,05-09-1996,Alm. Salg,-,6,Stuehus,168,1916,,
+Søllingdalvej 347250 Hejnsvig,svig,650.000,23-08-1996,Alm. Salg,4.577,6,Villa,142,1976,,Aktuel værdi
+Askjærvej 67250 Hejnsvig,svig,1.130.800,29-07-1996,Alm. Salg,-,5,Stuehus,191,1912,,
+Refshøjvej 987250 Hejnsvig,svig,854.000,02-07-1996,Fam. Salg,5.972,5,Stuehus,143,1936,,
+Skrænten 17250 Hejnsvig,svig,444.000,11-06-1996,Alm. Salg,-,5,Villa,156,1978,,Aktuel værdi
+Donslundvej 117250 Hejnsvig,svig,1.185.000,31-05-1996,Alm. Salg,5.642,5,Stuehus,210,1905,,
+Bøgelunden 27250 Hejnsvig,svig,275.000,28-04-1996,Alm. Salg,-,6,Villa,134,1938,,Aktuel værdi
+Vesterhedevej 347250 Hejnsvig,svig,447.500,12-04-1996,Fam. Salg,2.905,5,Stuehus,154,1909,,
+Gråhedevej 67250 Hejnsvig,svig,1.540.000,03-04-1996,Alm. Salg,7.096,6,Stuehus,217,2005,,
+Billundvej 37250 Hejnsvig,svig,450.000,24-03-1996,Alm. Salg,2.142,6,Villa,210,1947,,Aktuel værdi
+Refshøjvej 1027250 Hejnsvig,svig,1.188.000,22-03-1996,Alm. Salg,7.113,6,Stuehus,167,1975,,
+Æblevej 47250 Hejnsvig,svig,130.000,14-03-1996,Alm. Salg,1.007,4,Villa,129,1996,,Aktuel værdi
+Stenhøjvej 37250 Hejnsvig,svig,675.000,12-03-1996,Alm. Salg,4.383,4,Villa,154,1977,,Aktuel værdi
+Løvlundvej 127250 Hejnsvig,svig,530.000,14-02-1996,Alm. Salg,4.108,5,Villa,129,1963,,Aktuel værdi
+Trøllundvej 47250 Hejnsvig,svig,650.000,09-02-1996,Alm. Salg,-,10,Villa,286,1922,,Aktuel værdi
+Refshøjvej 857250 Hejnsvig,svig,726.790,19-01-1996,Alm. Salg,3.349,9,Villa,217,1966,,Aktuel værdi
+Søllingdalvej 487250 Hejnsvig,svig,692.640,31-12-1995,Alm. Salg,-,5,Villa,152,1977,,Aktuel værdi
+Klinkvej 257250 Hejnsvig,svig,1.650.000,22-12-1995,Alm. Salg,-,8,Stuehus,206,1962,,
+Søllingdalvej 367250 Hejnsvig,svig,665.000,25-10-1995,Alm. Salg,4.854,5,Villa,137,1975,,Aktuel værdi
+Søgårdvej 54A7250 Hejnsvig,svig,469.039,24-10-1995,Alm. Salg,5.329,4,Rækkehus,88,1988,,Aktuel værdi
+Rugbjergvej 317250 Hejnsvig,svig,780.000,13-10-1995,Fam. Salg,-,5,Stuehus,213,1929,,
+Æblevej 17250 Hejnsvig,svig,515.000,30-09-1995,Alm. Salg,-,7,Villa,138,1963,,Aktuel værdi
+Rosengårdsvej 77250 Hejnsvig,svig,530.000,14-08-1995,Alm. Salg,4.416,5,Villa,120,1973,,Aktuel værdi
+A G Jensens Vej 27250 Hejnsvig,svig,349.000,11-08-1995,Alm. Salg,3.144,5,Villa,111,1936,,Aktuel værdi
+Nyvej 16A7250 Hejnsvig,svig,250.000,31-05-1995,Alm. Salg,2.906,4,Villa,86,1954,,Aktuel værdi
+Præstevænget 87250 Hejnsvig,svig,595.000,31-05-1995,Alm. Salg,3.672,6,Villa,162,1951,,Aktuel værdi
+Kolding Landevej 407250 Hejnsvig,svig,3.200.000,15-05-1995,Fam. Salg,19.047,6,Stuehus,168,1927,,
+Bredgade 607250 Hejnsvig,svig,365.000,07-04-1995,Alm. Salg,-,6,Villa,176,1910,,Aktuel værdi
+Refshøjvej 797250 Hejnsvig,svig,950.000,24-02-1995,Alm. Salg,5.828,5,Stuehus,163,2011,,
+Vesterhedevej 527250 Hejnsvig,svig,278.000,02-02-1995,Alm. Salg,-,5,Villa,142,1929,,Aktuel værdi
+Trøllundvej 227250 Hejnsvig,svig,1.850.500,25-01-1995,Alm. Salg,10.167,6,Stuehus,182,1966,,
+Østerbo 87250 Hejnsvig,svig,285.000,17-01-1995,Alm. Salg,-,7,Villa,186,1946,,Aktuel værdi
+Nyvej 57250 Hejnsvig,svig,340.000,16-12-1994,Alm. Salg,8.095,1,Villa,42,1960,,Aktuel værdi
+Ribe Landevej 457250 Hejnsvig,svig,868.000,29-11-1994,Alm. Salg,-,5,Stuehus,173,1910,,
+Askjærvej 217250 Hejnsvig,svig,838.505,25-11-1994,Alm. Salg,5.743,4,Stuehus,146,1926,,
+Bredgade 317250 Hejnsvig,svig,213.000,07-11-1994,Alm. Salg,1.092,7,Villa,195,1916,,Aktuel værdi
+Søllingdalvej 887250 Hejnsvig,svig,155.500,10-09-1994,Alm. Salg,1.029,7,Villa,151,1995,,Aktuel værdi
+Askjærvej 307250 Hejnsvig,svig,485.000,02-09-1994,Alm. Salg,-,6,Stuehus,195,1919,,
+Ribe Landevej 587250 Hejnsvig,svig,144.500,24-06-1994,Fam. Salg,760,5,Stuehus,190,1860,,
+Langmosevej 47250 Hejnsvig,svig,68.655,20-06-1994,Alm. Salg,403,4,Villa,170,1996,,Aktuel værdi
+Stenhøjvej 187250 Hejnsvig,svig,675.000,10-06-1994,Alm. Salg,-,6,Villa,179,1979,,Aktuel værdi
+Nyvej 16C7250 Hejnsvig,svig,370.000,01-06-1994,Alm. Salg,-,4,Villa,120,1970,,Aktuel værdi
+Staruphøjevej 247250 Hejnsvig,svig,915.000,15-05-1994,Alm. Salg,4.945,5,Stuehus,185,1936,,
+Vesterhedevej 357250 Hejnsvig,svig,455.628,13-05-1994,Alm. Salg,4.068,4,Villa,112,1951,,Aktuel værdi
+Østre Ringvej 47250 Hejnsvig,svig,315.000,30-03-1994,Fam. Salg,3.315,3,Villa,95,1965,,Aktuel værdi
+Rosengårdsvej 17250 Hejnsvig,svig,495.000,28-03-1994,Alm. Salg,3.897,4,Villa,127,1968,,Aktuel værdi
+Stenhøjvej 97250 Hejnsvig,svig,500.909,15-02-1994,Alm. Salg,3.430,5,Villa,146,1979,,Aktuel værdi
+Søgårdvej 277250 Hejnsvig,svig,662.000,23-11-1993,Alm. Salg,4.728,4,Villa,140,1979,,Aktuel værdi
+Søllingdalvej 867250 Hejnsvig,svig,212.558,15-10-1993,Andet,1.647,5,Villa,129,1980,,Aktuel værdi
+Lundgårdvej 407250 Hejnsvig,svig,475.000,18-08-1993,Alm. Salg,5.459,4,Villa,87,1966,,Aktuel værdi
+Søgårdvej 1207250 Hejnsvig,svig,790.000,18-08-1993,Alm. Salg,-,7,Stuehus,279,1918,,
+Refshøjvej 867250 Hejnsvig,svig,525.000,13-07-1993,Alm. Salg,-,6,Stuehus,193,1955,,
+Mejerivej 257250 Hejnsvig,svig,375.000,03-06-1993,Alm. Salg,2.500,5,Stuehus,150,1927,,
+Egebjerg Landevej 1237250 Hejnsvig,svig,222.500,02-03-1993,Fam. Salg,1.838,4,Villa,121,1914,,Aktuel værdi
+Højene 117250 Hejnsvig,svig,640.000,10-02-1993,Alm. Salg,3.720,5,Villa,172,1970,,Aktuel værdi
+Gilbjergvej 207250 Hejnsvig,svig,425.000,03-02-1993,Alm. Salg,2.931,4,Stuehus,145,1997,,
+Nyvej 2A7250 Hejnsvig,svig,275.000,07-11-1992,Alm. Salg,3.395,3,Villa,81,1957,,Aktuel værdi
+Kirkevej 447250 Hejnsvig,svig,610.000,15-10-1992,Alm. Salg,3.210,5,Villa,190,1899,,Aktuel værdi
+Trøllundvej 287250 Hejnsvig,svig,261.885,14-08-1992,Alm. Salg,-,6,Stuehus,174,1970,,
+Nyvej 247250 Hejnsvig,svig,295.000,04-08-1992,Alm. Salg,-,2,Villa,127,1966,,Aktuel værdi
+Gilbjergvej 397250 Hejnsvig,svig,650.000,03-08-1992,Fam. Salg,4.193,5,Stuehus,155,1999,,
+Mejerivej 47250 Hejnsvig,svig,650.000,17-07-1992,Alm. Salg,-,10,Stuehus,210,1916,,
+Gilbjergvej 357250 Hejnsvig,svig,1.135.000,25-05-1992,Alm. Salg,6.376,8,Stuehus,178,1912,,
+Klinkvej 117250 Hejnsvig,svig,400.000,20-05-1992,Alm. Salg,2.139,8,Stuehus,187,1869,,
+Billundvej 167250 Hejnsvig,svig,300.000,19-05-1992,Alm. Salg,3.571,2,Villa,84,1957,,Aktuel værdi
+Kolding Landevej 127250 Hejnsvig,svig,530.000,01-05-1992,Fam. Salg,4.108,4,Villa,129,1925,,Aktuel værdi
+Kolding Landevej 167250 Hejnsvig,svig,250.000,19-02-1992,Alm. Salg,1.436,5,Stuehus,174,1993,,

@@ -1,0 +1,391 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Kielgade 112150 Nordhavn,havn,4.930.000,06-05-2017,Fam. Salg,32.434,5,Rækkehus,152,2016,,Aktuel værdi
+"Trelleborggade 6, 1. TH2150 Nordhavn",havn,3.150.000,22-03-2017,Alm. Salg,40.909,2,Lejlighed,77,2016,-4 %,Aktuel værdi
+"Dover Passage 2, 2. TV2150 Nordhavn",havn,4.910.000,16-03-2017,Alm. Salg,45.462,4,Lejlighed,108,2015,-2 %,Aktuel værdi
+"Göteborg Plads 8, 3. TH2150 Nordhavn",havn,2.895.000,23-02-2017,Alm. Salg,37.115,3,Lejlighed,78,2015,,Aktuel værdi
+"Trelleborggade 14, 4. TV2150 Nordhavn",havn,7.100.000,20-02-2017,Alm. Salg,60.169,4,Lejlighed,118,2016,-5 %,Aktuel værdi
+"Antwerpengade 13, 1. 32150 Nordhavn",havn,2.950.000,13-02-2017,Alm. Salg,40.972,2,Lejlighed,72,2015,,Aktuel værdi
+"Trelleborggade 6, 1. TV2150 Nordhavn",havn,6.825.000,06-02-2017,Alm. Salg,46.428,4,Lejlighed,147,2016,-2 %,Aktuel værdi
+"Antwerpengade 13, 2. 62150 Nordhavn",havn,5.950.000,02-02-2017,Alm. Salg,45.075,5,Lejlighed,132,2015,-1 %,Aktuel værdi
+"Århusgade 142, 5. TV2150 Nordhavn",havn,7.295.000,25-01-2017,Alm. Salg,56.550,3,Lejlighed,129,2015,,Aktuel værdi
+"Trelleborggade 14, 2. MF2150 Nordhavn",havn,5.300.000,24-01-2017,Alm. Salg,51.960,3,Lejlighed,102,2016,-4 %,Aktuel værdi
+"Sankt Petersborg Plads 2, 3. TH2150 Nordhavn",havn,6.200.000,24-01-2017,Alm. Salg,47.328,4,Lejlighed,131,2015,-1 %,Aktuel værdi
+"Trelleborggade 6, 3. TV2150 Nordhavn",havn,7.200.000,24-01-2017,Alm. Salg,48.979,4,Lejlighed,147,2016,-3 %,Aktuel værdi
+"Sankt Petersborg Plads 4, 4. TH2150 Nordhavn",havn,3.450.000,19-01-2017,Alm. Salg,49.285,2,Lejlighed,70,2015,-4 %,Aktuel værdi
+"Trelleborggade 4, 5. TH2150 Nordhavn",havn,5.745.000,21-12-2016,Alm. Salg,53.691,3,Lejlighed,107,2016,-3 %,Aktuel værdi
+"Trelleborggade 2, 5. TH2150 Nordhavn",havn,5.250.000,19-12-2016,Alm. Salg,49.528,4,Lejlighed,106,2016,-6 %,Aktuel værdi
+"Sandkaj 13, 5. TH2150 Nordhavn",havn,9.900.000,16-12-2016,Alm. Salg,71.223,4,Lejlighed,139,2016,-1 %,Aktuel værdi
+"Sandkaj 13, 1. TV2150 Nordhavn",havn,6.995.000,08-12-2016,Alm. Salg,55.515,4,Lejlighed,126,2016,0 %,Aktuel værdi
+"Sankt Petersborg Plads 4, 3. TH2150 Nordhavn",havn,3.200.000,23-11-2016,Alm. Salg,45.714,2,Lejlighed,70,2015,-3 %,Aktuel værdi
+"Sandkaj 13, 2. TH2150 Nordhavn",havn,7.650.000,21-11-2016,Alm. Salg,57.089,4,Lejlighed,134,2016,0 %,Aktuel værdi
+"Antwerpengade 13, 2. 22150 Nordhavn",havn,5.500.000,31-10-2016,Alm. Salg,41.984,5,Lejlighed,131,2015,-8 %,Aktuel værdi
+"Fortkaj 20, 1. TH2150 Nordhavn",havn,4.950.000,18-10-2016,Alm. Salg,48.529,4,Lejlighed,102,2015,-4 %,Aktuel værdi
+"Trelleborggade 2, 3. TV2150 Nordhavn",havn,4.795.000,30-09-2016,Alm. Salg,45.666,3,Lejlighed,105,2016,0 %,Aktuel værdi
+"Trelleborggade 6, ST2150 Nordhavn",havn,6.535.000,30-09-2016,Alm. Salg,46.021,4,Lejlighed,142,2016,-1 %,Aktuel værdi
+"Trelleborggade 6, 4. TH2150 Nordhavn",havn,5.600.000,12-09-2016,Alm. Salg,41.481,3,Lejlighed,135,2016,-2 %,Aktuel værdi
+"Sandkaj 13, 4. TV2150 Nordhavn",havn,7.395.000,23-08-2016,Alm. Salg,58.690,4,Lejlighed,126,2016,,Aktuel værdi
+"Antwerpengade 15, 2. TV2150 Nordhavn",havn,5.100.000,23-08-2016,Alm. Salg,44.736,4,Lejlighed,114,2015,-5 %,Aktuel værdi
+"Helsinkigade 21, ST. TH2150 Nordhavn",havn,1.647.500,23-08-2016,Fam. Salg,21.121,2,Lejlighed,78,2015,,Aktuel værdi
+"Trelleborggade 6, 2. TH2150 Nordhavn",havn,3.395.000,22-08-2016,Alm. Salg,44.090,2,Lejlighed,77,2016,0 %,Aktuel værdi
+"Sankt Petersborg Plads 4, ST. TH2150 Nordhavn",havn,2.250.000,16-08-2016,Fam. Salg,25.568,2,Lejlighed,88,2015,,Aktuel værdi
+"Trelleborggade 4, 3. TH2150 Nordhavn",havn,4.995.000,15-08-2016,Alm. Salg,46.682,3,Lejlighed,107,2016,0 %,Aktuel værdi
+"Århusgade 142, 3. TV2150 Nordhavn",havn,4.800.000,10-08-2016,Alm. Salg,39.344,3,Lejlighed,122,2015,-4 %,Aktuel værdi
+"Århusgade 142, 2. TV2150 Nordhavn",havn,4.795.000,29-07-2016,Alm. Salg,39.303,3,Lejlighed,122,2015,0 %,Aktuel værdi
+"Antwerpengade 13, 2. 12150 Nordhavn",havn,6.580.000,22-07-2016,Alm. Salg,45.068,5,Lejlighed,146,2015,,Aktuel værdi
+"Sankt Petersborg Plads 4, 2. TH2150 Nordhavn",havn,3.220.000,17-07-2016,Alm. Salg,46.000,2,Lejlighed,70,2015,,Aktuel værdi
+"Århusgade 131A, 2. TH2150 Nordhavn",havn,4.950.741,13-07-2016,Alm. Salg,38.082,5,Lejlighed,130,2016,,Aktuel værdi
+"Sandkaj 13, 4. TH2150 Nordhavn",havn,9.800.000,11-07-2016,Alm. Salg,70.503,4,Lejlighed,139,2016,,Aktuel værdi
+"Antwerpengade 15, 1. TH2150 Nordhavn",havn,5.675.000,27-06-2016,Alm. Salg,40.535,4,Lejlighed,140,2015,-2 %,Aktuel værdi
+"Århusgade 131A, 3. TV2150 Nordhavn",havn,2.995.000,27-06-2016,Alm. Salg,43.405,2,Lejlighed,69,2016,,Aktuel værdi
+"Sandkaj 13, 2. TV2150 Nordhavn",havn,7.195.000,24-06-2016,Alm. Salg,57.103,4,Lejlighed,126,2016,,Aktuel værdi
+"Dover Passage 2, 1. TV2150 Nordhavn",havn,4.600.000,22-06-2016,Alm. Salg,42.201,4,Lejlighed,109,2015,-2 %,Aktuel værdi
+"Sandkaj 15, 2. TH2150 Nordhavn",havn,7.195.000,20-06-2016,Alm. Salg,56.653,4,Lejlighed,127,2016,,Aktuel værdi
+"Trelleborggade 4, 5. TV2150 Nordhavn",havn,5.695.000,19-06-2016,Alm. Salg,52.247,4,Lejlighed,109,2016,-3 %,Aktuel værdi
+"Antwerpengade 13, 2. 52150 Nordhavn",havn,6.195.000,27-05-2016,Alm. Salg,46.231,5,Lejlighed,134,2015,0 %,Aktuel værdi
+"Sandkaj 13, 3. TV2150 Nordhavn",havn,7.295.000,12-05-2016,Alm. Salg,57.896,4,Lejlighed,126,2016,,Aktuel værdi
+"Sandkaj 17, 1. TV2150 Nordhavn",havn,7.450.000,02-05-2016,Alm. Salg,55.597,4,Lejlighed,134,2016,,Aktuel værdi
+"Trelleborggade 2, 4. TV2150 Nordhavn",havn,4.960.000,28-04-2016,Alm. Salg,45.925,3,Lejlighed,108,2016,-3 %,Aktuel værdi
+"Trelleborggade 2, ST. MF2150 Nordhavn",havn,4.295.000,21-04-2016,Alm. Salg,40.904,3,Lejlighed,105,2016,0 %,Aktuel værdi
+"Fortkaj 22, 3. TV2150 Nordhavn",havn,4.900.000,15-04-2016,Alm. Salg,52.127,3,Lejlighed,94,2015,-2 %,Aktuel værdi
+"Trelleborggade 6, 2. TV2150 Nordhavn",havn,7.195.000,14-04-2016,Alm. Salg,48.945,4,Lejlighed,147,2016,-1 %,Aktuel værdi
+"Århusgade 142, 4. TV2150 Nordhavn",havn,5.025.000,10-04-2016,Alm. Salg,41.188,3,Lejlighed,122,2015,-4 %,Aktuel værdi
+"Trelleborggade 2, 4. TH2150 Nordhavn",havn,5.095.000,07-04-2016,Alm. Salg,49.950,4,Lejlighed,102,2016,0 %,Aktuel værdi
+"Trelleborggade 6, 4. TV2150 Nordhavn",havn,5.795.000,03-04-2016,Alm. Salg,53.165,3,Lejlighed,109,2016,0 %,Aktuel værdi
+"Trelleborggade 4, 4. TV2150 Nordhavn",havn,5.245.000,30-03-2016,Alm. Salg,48.119,4,Lejlighed,109,2016,-1 %,Aktuel værdi
+"Dunkerquegade 1, 1. TV2150 Nordhavn",havn,2.015.000,21-03-2016,Alm. Salg,34.152,2,Lejlighed,59,2015,,Aktuel værdi
+"Trelleborggade 14, ST. MF2150 Nordhavn",havn,3.795.000,15-03-2016,Alm. Salg,42.640,3,Lejlighed,89,2016,,Aktuel værdi
+"Sandkaj 17, 2. TH2150 Nordhavn",havn,7.195.000,11-03-2016,Alm. Salg,57.103,4,Lejlighed,126,2016,,Aktuel værdi
+"Murmanskgade 1, 2. TH2150 Nordhavn",havn,7.495.000,10-03-2016,Alm. Salg,55.518,3,Lejlighed,135,2015,0 %,Aktuel værdi
+"Trelleborggade 2, 1. TV2150 Nordhavn",havn,4.575.000,09-03-2016,Alm. Salg,43.571,3,Lejlighed,105,2016,0 %,Aktuel værdi
+"Sandkaj 17, 5. TV2150 Nordhavn",havn,10.495.000,02-03-2016,Alm. Salg,75.503,4,Lejlighed,139,2016,,Aktuel værdi
+"Sandkaj 13, 1. TH2150 Nordhavn",havn,7.450.000,01-03-2016,Alm. Salg,55.597,4,Lejlighed,134,2016,,Aktuel værdi
+"Murmanskgade 1, 1. TH2150 Nordhavn",havn,7.195.000,23-02-2016,Alm. Salg,53.296,3,Lejlighed,135,2015,0 %,Aktuel værdi
+"Fortkaj 22, 5. TV2150 Nordhavn",havn,6.405.000,12-02-2016,Alm. Salg,52.933,3,Lejlighed,121,2015,,Aktuel værdi
+"Trelleborggade 2, 2. TH2150 Nordhavn",havn,4.795.000,10-02-2016,Alm. Salg,45.235,4,Lejlighed,106,2016,,Aktuel værdi
+"Trelleborggade 2, 1. TH2150 Nordhavn",havn,4.595.000,04-02-2016,Alm. Salg,45.049,4,Lejlighed,102,2016,,Aktuel værdi
+"Trelleborggade 2, ST. TV2150 Nordhavn",havn,4.395.000,31-01-2016,Alm. Salg,43.088,4,Lejlighed,102,2016,,Aktuel værdi
+"Sandkaj 17, ST. TH2150 Nordhavn",havn,6.495.000,25-01-2016,Alm. Salg,44.486,3,Lejlighed,146,2016,,Aktuel værdi
+"Trelleborggade 4, ST. TH2150 Nordhavn",havn,4.495.000,24-01-2016,Alm. Salg,43.640,4,Lejlighed,103,2016,,Aktuel værdi
+"Murmanskgade 1, 4. TH2150 Nordhavn",havn,8.295.000,20-01-2016,Alm. Salg,61.444,3,Lejlighed,135,2015,0 %,Aktuel værdi
+"Fortkaj 22, 3. TH2150 Nordhavn",havn,5.595.000,13-01-2016,Alm. Salg,47.415,4,Lejlighed,118,2015,,Aktuel værdi
+"Trelleborggade 2, 2. TV2150 Nordhavn",havn,4.695.000,11-01-2016,Alm. Salg,44.714,3,Lejlighed,105,2016,,Aktuel værdi
+"Trelleborggade 2, 3. TH2150 Nordhavn",havn,4.895.000,11-01-2016,Alm. Salg,46.179,4,Lejlighed,106,2016,,Aktuel værdi
+"Trelleborggade 4, 1. TV2150 Nordhavn",havn,4.795.000,07-01-2016,Alm. Salg,46.553,4,Lejlighed,103,2016,,Aktuel værdi
+"Trelleborggade 6, 3. TH2150 Nordhavn",havn,3.495.000,28-12-2015,Alm. Salg,45.389,2,Lejlighed,77,2016,,Aktuel værdi
+"Trelleborggade 20, ST. TV2150 Nordhavn",havn,3.895.000,21-12-2015,Alm. Salg,40.572,3,Lejlighed,96,2016,,Aktuel værdi
+"Århusgade 140, 5. TV2150 Nordhavn",havn,3.975.000,16-12-2015,Alm. Salg,45.170,3,Lejlighed,88,2015,-1 %,Aktuel værdi
+"Trelleborggade 2, 1. MF2150 Nordhavn",havn,2.995.000,15-12-2015,Alm. Salg,42.183,2,Lejlighed,71,2016,,Aktuel værdi
+"Sandkaj 15, 3. TH2150 Nordhavn",havn,7.295.000,14-12-2015,Alm. Salg,57.440,4,Lejlighed,127,2016,,Aktuel værdi
+"Sandkaj 37, 4. TV2150 Nordhavn",havn,6.295.000,08-12-2015,Alm. Salg,58.287,3,Lejlighed,108,2015,0 %,Aktuel værdi
+"Sandkaj 17, 2. TV2150 Nordhavn",havn,7.650.000,07-12-2015,Alm. Salg,57.089,4,Lejlighed,134,2016,,Aktuel værdi
+"Trelleborggade 4, 2. TV2150 Nordhavn",havn,4.945.000,03-12-2015,Alm. Salg,45.366,4,Lejlighed,109,2016,,Aktuel værdi
+"Trelleborggade 4, 3. TV2150 Nordhavn",havn,5.100.000,30-11-2015,Alm. Salg,46.788,4,Lejlighed,109,2016,,Aktuel værdi
+"Trelleborggade 2, 3. MF2150 Nordhavn",havn,3.100.000,24-11-2015,Alm. Salg,43.661,2,Lejlighed,71,2016,,Aktuel værdi
+"Trelleborggade 4, ST. TV2150 Nordhavn",havn,4.495.000,20-11-2015,Alm. Salg,43.640,3,Lejlighed,103,2016,,Aktuel værdi
+"Sandkaj 17, 4. TH2150 Nordhavn",havn,7.395.000,19-11-2015,Alm. Salg,58.690,4,Lejlighed,126,2016,,Aktuel værdi
+"Sandkaj 37, ST. TH2150 Nordhavn",havn,4.400.000,18-11-2015,Alm. Salg,50.000,2,Lejlighed,88,2015,-2 %,Aktuel værdi
+"Trelleborggade 4, 2. TH2150 Nordhavn",havn,4.945.000,17-11-2015,Alm. Salg,46.214,3,Lejlighed,107,2016,,Aktuel værdi
+"Trelleborggade 4, 1. TH2150 Nordhavn",havn,4.845.000,13-11-2015,Alm. Salg,47.038,3,Lejlighed,103,2016,,Aktuel værdi
+"Sandkaj 17, 3. TV2150 Nordhavn",havn,7.750.000,12-11-2015,Alm. Salg,57.835,4,Lejlighed,134,2016,,Aktuel værdi
+"Trelleborggade 2, ST. TH2150 Nordhavn",havn,2.795.000,11-11-2015,Alm. Salg,40.507,2,Lejlighed,69,2016,,Aktuel værdi
+"Dunkerquegade 1, 3. MF2150 Nordhavn",havn,2.675.000,10-11-2015,Alm. Salg,46.929,2,Lejlighed,57,2015,,Aktuel værdi
+"Dover Passage 2, 42150 Nordhavn",havn,7.850.000,09-11-2015,Alm. Salg,51.307,4,Lejlighed,153,2015,,Aktuel værdi
+"Sandkaj 17, 4. TV2150 Nordhavn",havn,7.895.000,01-11-2015,Alm. Salg,58.917,4,Lejlighed,134,2016,,Aktuel værdi
+"Sandkaj 15, 1. TH2150 Nordhavn",havn,6.995.000,13-10-2015,Alm. Salg,55.078,4,Lejlighed,127,2016,,Aktuel værdi
+"Göteborg Plads 4, ST2150 Nordhavn",havn,6.345.000,09-10-2015,Alm. Salg,47.000,4,Lejlighed,135,2015,-1 %,Aktuel værdi
+"Sandkaj 15, 4. TH2150 Nordhavn",havn,7.395.000,09-10-2015,Alm. Salg,58.228,4,Lejlighed,127,2016,,Aktuel værdi
+"Dunkerquegade 1, 2. TV2150 Nordhavn",havn,2.550.000,01-10-2015,Alm. Salg,43.220,2,Lejlighed,59,2015,,Aktuel værdi
+"Göteborg Plads 12, 4. TV2150 Nordhavn",havn,5.495.000,22-09-2015,Alm. Salg,41.946,3,Lejlighed,131,2015,0 %,Aktuel værdi
+"Göteborg Plads 4, 3. TV2150 Nordhavn",havn,7.250.000,16-09-2015,Alm. Salg,54.511,3,Lejlighed,133,2015,-2 %,Aktuel værdi
+"Antwerpengade 13, 1. 62150 Nordhavn",havn,2.490.644,15-09-2015,Alm. Salg,35.580,2,Lejlighed,70,2015,,Aktuel værdi
+"Århusgade 140, 2. TV2150 Nordhavn",havn,3.265.412,26-08-2015,Alm. Salg,34.014,3,Lejlighed,96,2015,,Aktuel værdi
+"Trelleborggade 20, 1. TH2150 Nordhavn",havn,4.995.000,20-08-2015,Alm. Salg,43.060,4,Lejlighed,116,2016,,Aktuel værdi
+"Trelleborggade 16, 1. TV2150 Nordhavn",havn,4.895.000,11-08-2015,Alm. Salg,46.179,4,Lejlighed,106,2016,,Aktuel værdi
+"Sandkaj 17, 3. TH2150 Nordhavn",havn,7.295.000,04-08-2015,Alm. Salg,57.896,4,Lejlighed,126,2016,,Aktuel værdi
+"Sandkaj 15, 1. TV2150 Nordhavn",havn,5.795.000,30-07-2015,Alm. Salg,52.681,3,Lejlighed,110,2016,,Aktuel værdi
+"Sandkaj 37, 1. TV2150 Nordhavn",havn,5.795.000,16-07-2015,Alm. Salg,53.657,3,Lejlighed,108,2015,,Aktuel værdi
+"Murmanskgade 3, 5. TH2150 Nordhavn",havn,7.495.000,15-07-2015,Alm. Salg,53.156,3,Lejlighed,141,2015,,Aktuel værdi
+"Sandkaj 17, 5. TH2150 Nordhavn",havn,9.495.000,13-07-2015,Alm. Salg,71.931,4,Lejlighed,132,2016,,Aktuel værdi
+"Murmanskgade 3, 3. MF2150 Nordhavn",havn,6.345.000,07-07-2015,Alm. Salg,45.647,3,Lejlighed,139,2015,-1 %,Aktuel værdi
+"Sandkaj 15, ST. TV2150 Nordhavn",havn,5.495.000,29-06-2015,Alm. Salg,49.954,3,Lejlighed,110,2016,,Aktuel værdi
+"Sandkaj 37, 3. TV2150 Nordhavn",havn,6.095.000,26-06-2015,Alm. Salg,56.435,3,Lejlighed,108,2015,,Aktuel værdi
+"Trelleborggade 14, ST. TH2150 Nordhavn",havn,3.995.000,26-06-2015,Alm. Salg,43.423,3,Lejlighed,92,2016,,Aktuel værdi
+"Århusgade 131A, 1. TV2150 Nordhavn",havn,2.795.000,25-06-2015,Alm. Salg,40.507,2,Lejlighed,69,2016,,Aktuel værdi
+"Fortkaj 22, 5. TH2150 Nordhavn",havn,7.695.000,24-06-2015,Alm. Salg,55.359,4,Lejlighed,139,2015,,Aktuel værdi
+Sassnitzgade 32150 Nordhavn,havn,2.019.113,18-06-2015,Alm. Salg,6.045,10,Villa,334,2016,,Aktuel værdi
+"Fortkaj 20, 3. TV2150 Nordhavn",havn,6.595.000,17-06-2015,Alm. Salg,46.443,5,Lejlighed,142,2015,,Aktuel værdi
+"Fortkaj 20, 4. TV2150 Nordhavn",havn,6.845.000,15-06-2015,Alm. Salg,48.204,5,Lejlighed,142,2015,,Aktuel værdi
+"Sandkaj 15, 3. TV2150 Nordhavn",havn,5.995.000,04-06-2015,Alm. Salg,54.500,3,Lejlighed,110,2016,,Aktuel værdi
+"Trelleborggade 18, ST. TV2150 Nordhavn",havn,2.395.000,02-06-2015,Alm. Salg,44.351,2,Lejlighed,54,2016,,Aktuel værdi
+"Sandkaj 15, 2. TV2150 Nordhavn",havn,5.895.000,02-06-2015,Alm. Salg,53.590,3,Lejlighed,110,2016,,Aktuel værdi
+"Trelleborggade 18, 2. TV2150 Nordhavn",havn,4.995.000,02-06-2015,Alm. Salg,47.122,4,Lejlighed,106,2016,,Aktuel værdi
+Kielgade 12150 Nordhavn,havn,9.048.000,27-05-2015,Alm. Salg,59.920,5,Rækkehus,151,2016,,Aktuel værdi
+Århusgade 1332150 Nordhavn,havn,9.250.000,26-05-2015,Alm. Salg,45.792,3,Rækkehus,202,2016,,Aktuel værdi
+"Dover Passage 2, ST. TV2150 Nordhavn",havn,3.700.000,26-05-2015,Alm. Salg,36.274,4,Lejlighed,102,2015,,Aktuel værdi
+"Fortkaj 22, 4. TH2150 Nordhavn",havn,5.895.000,26-05-2015,Alm. Salg,49.957,4,Lejlighed,118,2015,,Aktuel værdi
+"Sandkaj 15, 52150 Nordhavn",havn,9.495.000,20-05-2015,Alm. Salg,73.604,4,Lejlighed,129,2016,,Aktuel værdi
+"Sandkaj 17, ST. TV2150 Nordhavn",havn,5.495.000,19-05-2015,Alm. Salg,50.412,3,Lejlighed,109,2016,,Aktuel værdi
+"Murmanskgade 1, 3. TH2150 Nordhavn",havn,7.995.000,18-05-2015,Alm. Salg,59.222,3,Lejlighed,135,2015,,Aktuel værdi
+"Trelleborggade 16, ST. TH2150 Nordhavn",havn,4.195.000,18-05-2015,Alm. Salg,45.597,3,Lejlighed,92,2016,,Aktuel værdi
+"Fortkaj 30, 13. TH2150 Nordhavn",havn,19.062.374,12-05-2015,Alm. Salg,63.120,4,Lejlighed,302,1961,,Aktuel værdi
+"Murmanskgade 3, 4. MF2150 Nordhavn",havn,6.495.000,11-05-2015,Alm. Salg,46.726,3,Lejlighed,139,2015,,Aktuel værdi
+"Trelleborggade 14, 2. TV2150 Nordhavn",havn,4.995.000,08-05-2015,Alm. Salg,43.060,4,Lejlighed,116,2016,,Aktuel værdi
+"Trelleborggade 16, 2. TV2150 Nordhavn",havn,4.895.000,08-05-2015,Alm. Salg,46.179,4,Lejlighed,106,2016,,Aktuel værdi
+"Århusgade 131A, 5. TV2150 Nordhavn",havn,3.113.798,07-05-2015,Alm. Salg,45.127,2,Lejlighed,69,2016,,Aktuel værdi
+"Sandkaj 13, ST. TH2150 Nordhavn",havn,5.395.000,06-05-2015,Alm. Salg,49.495,3,Lejlighed,109,2016,,Aktuel værdi
+"Trelleborggade 16, 4. TV2150 Nordhavn",havn,5.195.000,06-05-2015,Alm. Salg,49.009,4,Lejlighed,106,2016,,Aktuel værdi
+"Murmanskgade 1, 1. MF2150 Nordhavn",havn,7.495.000,06-05-2015,Alm. Salg,55.932,3,Lejlighed,134,2015,,Aktuel værdi
+"Sandkaj 13, 3. TH2150 Nordhavn",havn,7.750.000,06-05-2015,Alm. Salg,57.835,4,Lejlighed,134,2016,,Aktuel værdi
+"Århusgade 131A, 5. TH2150 Nordhavn",havn,5.495.000,05-05-2015,Alm. Salg,42.269,5,Lejlighed,130,2016,,Aktuel værdi
+"Trelleborggade 20, ST. TH2150 Nordhavn",havn,2.395.000,04-05-2015,Alm. Salg,43.545,2,Lejlighed,55,2016,,Aktuel værdi
+"Trelleborggade 16, ST. TV2150 Nordhavn",havn,2.395.000,30-04-2015,Alm. Salg,44.351,2,Lejlighed,54,2016,,Aktuel værdi
+"Århusgade 131A, 2. TV2150 Nordhavn",havn,2.895.000,29-04-2015,Alm. Salg,41.956,2,Lejlighed,69,2016,,Aktuel værdi
+"Sandkaj 37, 4. TH2150 Nordhavn",havn,6.750.000,28-04-2015,Alm. Salg,60.810,3,Lejlighed,111,2015,,Aktuel værdi
+"Fortkaj 22, 2. TH2150 Nordhavn",havn,5.395.000,27-04-2015,Alm. Salg,45.720,4,Lejlighed,118,2015,,Aktuel værdi
+"Sandkaj 15, ST. TH2150 Nordhavn",havn,5.495.000,24-04-2015,Alm. Salg,49.954,3,Lejlighed,110,2016,,Aktuel værdi
+"Århusgade 131A, 2. MF2150 Nordhavn",havn,4.445.000,20-04-2015,Alm. Salg,40.045,4,Lejlighed,111,2016,,Aktuel værdi
+"Trelleborggade 18, 4. TV2150 Nordhavn",havn,4.995.000,20-04-2015,Alm. Salg,47.122,4,Lejlighed,106,2016,,Aktuel værdi
+"Trelleborggade 18, ST. TH2150 Nordhavn",havn,3.995.000,20-04-2015,Alm. Salg,43.423,3,Lejlighed,92,2016,,Aktuel værdi
+"Århusgade 131A, 1. TH2150 Nordhavn",havn,5.233.094,20-04-2015,Alm. Salg,40.254,5,Lejlighed,130,2016,,Aktuel værdi
+"Helsinkigade 21, 42150 Nordhavn",havn,5.095.000,17-04-2015,Alm. Salg,43.547,4,Lejlighed,117,2015,,Aktuel værdi
+"Trelleborggade 16, 1. TH2150 Nordhavn",havn,2.395.000,17-04-2015,Alm. Salg,44.351,2,Lejlighed,54,2016,,Aktuel værdi
+"Trelleborggade 16, 3. TV2150 Nordhavn",havn,4.795.000,17-04-2015,Alm. Salg,45.235,4,Lejlighed,106,2016,,Aktuel værdi
+"Trelleborggade 14, ST. TV2150 Nordhavn",havn,2.395.000,17-04-2015,Alm. Salg,43.545,2,Lejlighed,55,2016,,Aktuel værdi
+"Helsinkigade 29, 4. TH2150 Nordhavn",havn,8.265.000,16-04-2015,Alm. Salg,38.263,2,Lejlighed,216,1961,,Aktuel værdi
+"Fortkaj 30, 2. MF2150 Nordhavn",havn,6.300.000,14-04-2015,Alm. Salg,29.302,4,Lejlighed,215,1961,,Aktuel værdi
+"Fortkaj 30, 15. TH2150 Nordhavn",havn,20.655.000,14-04-2015,Alm. Salg,60.929,5,Lejlighed,339,1961,,Aktuel værdi
+"Fortkaj 30, 4. TV2150 Nordhavn",havn,7.560.000,14-04-2015,Alm. Salg,34.838,2,Lejlighed,217,1961,,Aktuel værdi
+"Antwerpengade 13, 1. 52150 Nordhavn",havn,2.875.000,14-04-2015,Alm. Salg,39.930,2,Lejlighed,72,2015,,Aktuel værdi
+"Århusgade 131A, 5. MF2150 Nordhavn",havn,4.845.000,14-04-2015,Alm. Salg,43.648,4,Lejlighed,111,2016,,Aktuel værdi
+"Århusgade 131A, 4. TV2150 Nordhavn",havn,3.095.000,13-04-2015,Alm. Salg,44.855,2,Lejlighed,69,2016,,Aktuel værdi
+"Trelleborggade 18, 3. TV2150 Nordhavn",havn,4.795.000,13-04-2015,Alm. Salg,45.235,4,Lejlighed,106,2016,,Aktuel værdi
+"Trelleborggade 20, 2. TH2150 Nordhavn",havn,4.895.000,10-04-2015,Alm. Salg,42.198,4,Lejlighed,116,2016,,Aktuel værdi
+"Århusgade 131A, 3. MF2150 Nordhavn",havn,4.445.000,10-04-2015,Alm. Salg,40.045,4,Lejlighed,111,2016,,Aktuel værdi
+Århusgade 1352150 Nordhavn,havn,7.836.586,09-04-2015,Alm. Salg,52.243,4,Rækkehus,150,2016,,Aktuel værdi
+"Århusgade 131A, 3. TH2150 Nordhavn",havn,5.402.825,09-04-2015,Alm. Salg,41.560,5,Lejlighed,130,2016,,Aktuel værdi
+"Århusgade 131A, 4. TH2150 Nordhavn",havn,5.395.000,09-04-2015,Alm. Salg,41.500,5,Lejlighed,130,2016,,Aktuel værdi
+"Sandkaj 13, 5. TV2150 Nordhavn",havn,7.850.000,07-04-2015,Alm. Salg,62.301,4,Lejlighed,126,2016,,Aktuel værdi
+"Murmanskgade 1, ST. TV2150 Nordhavn",havn,6.395.000,07-04-2015,Alm. Salg,46.340,3,Lejlighed,138,2015,,Aktuel værdi
+"Göteborg Plads 12, 3. MF2150 Nordhavn",havn,4.995.000,05-04-2015,Alm. Salg,38.720,3,Lejlighed,129,2015,,Aktuel værdi
+"Trelleborggade 18, 2. TH2150 Nordhavn",havn,2.495.000,02-04-2015,Alm. Salg,46.203,2,Lejlighed,54,2016,,Aktuel værdi
+"Trelleborggade 14, 1. MF2150 Nordhavn",havn,4.395.000,01-04-2015,Alm. Salg,43.088,3,Lejlighed,102,2016,,Aktuel værdi
+"Trelleborggade 20, 4. TV2150 Nordhavn",havn,2.645.000,01-04-2015,Alm. Salg,45.603,2,Lejlighed,58,2016,,Aktuel værdi
+"Trelleborggade 14, 3. MF2150 Nordhavn",havn,4.595.000,01-04-2015,Alm. Salg,45.049,3,Lejlighed,102,2016,,Aktuel værdi
+"Trelleborggade 18, 3. TH2150 Nordhavn",havn,2.545.000,01-04-2015,Alm. Salg,47.129,2,Lejlighed,54,2016,,Aktuel værdi
+"Dover Passage 4, 3. TV2150 Nordhavn",havn,6.095.000,31-03-2015,Alm. Salg,54.419,3,Lejlighed,112,2015,,Aktuel værdi
+"Trelleborggade 20, 3. TV2150 Nordhavn",havn,2.595.000,30-03-2015,Alm. Salg,44.741,2,Lejlighed,58,2016,,Aktuel værdi
+"Fortkaj 20, 4. TH2150 Nordhavn",havn,6.595.000,27-03-2015,Alm. Salg,56.853,4,Lejlighed,116,2015,,Aktuel værdi
+"Trelleborggade 18, 4. TH2150 Nordhavn",havn,2.595.000,27-03-2015,Alm. Salg,48.055,2,Lejlighed,54,2016,,Aktuel værdi
+"Trelleborggade 16, 3. TH2150 Nordhavn",havn,2.545.000,25-03-2015,Alm. Salg,47.129,2,Lejlighed,54,2016,,Aktuel værdi
+"Trelleborggade 14, 1. TV2150 Nordhavn",havn,4.795.000,24-03-2015,Alm. Salg,41.336,3,Lejlighed,116,2016,,Aktuel værdi
+"Fortkaj 22, 1. TH2150 Nordhavn",havn,3.995.000,22-03-2015,Alm. Salg,41.185,3,Lejlighed,97,2015,,Aktuel værdi
+"Århusgade 131A, 4. MF2150 Nordhavn",havn,4.545.000,19-03-2015,Alm. Salg,40.945,4,Lejlighed,111,2016,,Aktuel værdi
+"Århusgade 131A, 1. MF2150 Nordhavn",havn,4.245.000,18-03-2015,Alm. Salg,38.243,4,Lejlighed,111,2016,,Aktuel værdi
+"Göteborg Plads 12, 1. MF2150 Nordhavn",havn,4.495.000,18-03-2015,Alm. Salg,34.844,3,Lejlighed,129,2015,,Aktuel værdi
+"Trelleborggade 18, 1. TV2150 Nordhavn",havn,4.595.000,17-03-2015,Alm. Salg,43.349,4,Lejlighed,106,2016,,Aktuel værdi
+"Göteborg Plads 4, 2. TV2150 Nordhavn",havn,6.895.000,15-03-2015,Alm. Salg,51.842,3,Lejlighed,133,2015,0 %,Aktuel værdi
+"Trelleborggade 20, 2. TV2150 Nordhavn",havn,2.375.000,13-03-2015,Alm. Salg,40.948,2,Lejlighed,58,2016,,Aktuel værdi
+"Trelleborggade 16, 4. TH2150 Nordhavn",havn,2.425.000,13-03-2015,Alm. Salg,44.907,2,Lejlighed,54,2016,,Aktuel værdi
+"Trelleborggade 18, 1. TH2150 Nordhavn",havn,2.295.000,13-03-2015,Alm. Salg,42.500,2,Lejlighed,54,2016,,Aktuel værdi
+"Sandkaj 13, ST. TV2150 Nordhavn",havn,3.695.000,11-03-2015,Alm. Salg,35.528,3,Lejlighed,104,2016,,Aktuel værdi
+"Trelleborggade 16, 2. TH2150 Nordhavn",havn,2.325.000,11-03-2015,Alm. Salg,43.055,2,Lejlighed,54,2016,,Aktuel værdi
+"Trelleborggade 20, 4. TH2150 Nordhavn",havn,5.195.000,11-03-2015,Alm. Salg,44.784,4,Lejlighed,116,2016,,Aktuel værdi
+"Trelleborggade 20, 1. TV2150 Nordhavn",havn,2.325.000,11-03-2015,Alm. Salg,24.218,3,Lejlighed,96,2016,,Aktuel værdi
+"Trelleborggade 14, 2. TH2150 Nordhavn",havn,2.375.000,10-03-2015,Alm. Salg,40.948,2,Lejlighed,58,2016,,Aktuel værdi
+"Trelleborggade 14, 3. TH2150 Nordhavn",havn,2.425.000,09-03-2015,Alm. Salg,41.810,2,Lejlighed,58,2016,,Aktuel værdi
+"Trelleborggade 14, 1. TH2150 Nordhavn",havn,2.275.000,09-03-2015,Alm. Salg,39.224,2,Lejlighed,58,2016,,Aktuel værdi
+"Sandkaj 15, 4. TV2150 Nordhavn",havn,6.095.000,09-03-2015,Alm. Salg,55.409,3,Lejlighed,110,2016,,Aktuel værdi
+"Trelleborggade 20, 1. MF2150 Nordhavn",havn,4.095.000,06-03-2015,Alm. Salg,40.147,3,Lejlighed,102,2016,,Aktuel værdi
+"Trelleborggade 14, 3. TV2150 Nordhavn",havn,4.995.000,06-03-2015,Alm. Salg,43.060,4,Lejlighed,116,2016,,Aktuel værdi
+"Trelleborggade 20, 2. MF2150 Nordhavn",havn,4.195.000,06-03-2015,Alm. Salg,41.127,3,Lejlighed,102,2016,,Aktuel værdi
+"Trelleborggade 20, 3. MF2150 Nordhavn",havn,4.295.000,05-03-2015,Alm. Salg,42.107,3,Lejlighed,102,2016,,Aktuel værdi
+"Trelleborggade 14, 4. TH2150 Nordhavn",havn,2.800.000,05-03-2015,Alm. Salg,48.275,2,Lejlighed,58,2016,,Aktuel værdi
+"Trelleborggade 20, 4. MF2150 Nordhavn",havn,4.395.000,05-03-2015,Alm. Salg,43.088,3,Lejlighed,102,2016,,Aktuel værdi
+"Trelleborggade 20, 3. TH2150 Nordhavn",havn,4.995.000,05-03-2015,Alm. Salg,43.060,4,Lejlighed,116,2016,,Aktuel værdi
+"Murmanskgade 1, 2. MF2150 Nordhavn",havn,7.750.000,03-03-2015,Alm. Salg,57.835,3,Lejlighed,134,2015,,Aktuel værdi
+"Fortkaj 20, 5. TV2150 Nordhavn",havn,8.995.000,03-03-2015,Alm. Salg,51.994,5,Lejlighed,173,2015,,Aktuel værdi
+"Sandkaj 37, 2. TH2150 Nordhavn",havn,6.095.000,02-03-2015,Alm. Salg,54.909,3,Lejlighed,111,2015,,Aktuel værdi
+"Göteborg Plads 4, 1. MF2150 Nordhavn",havn,7.000.000,02-03-2015,Alm. Salg,44.871,3,Lejlighed,156,2015,,Aktuel værdi
+"Göteborg Plads 4, 5. TV2150 Nordhavn",havn,11.500.000,26-02-2015,Alm. Salg,67.647,3,Lejlighed,170,2015,,Aktuel værdi
+Århusgade 1392150 Nordhavn,havn,6.000.493,24-02-2015,Alm. Salg,49.184,4,Rækkehus,122,2016,,Aktuel værdi
+"Antwerpengade 13, 1. 42150 Nordhavn",havn,2.675.000,19-02-2015,Alm. Salg,37.152,2,Lejlighed,72,2015,,Aktuel værdi
+"Dover Passage 4, 1. TV2150 Nordhavn",havn,4.095.000,17-02-2015,Alm. Salg,44.032,3,Lejlighed,93,2015,,Aktuel værdi
+"Helsinkigade 23, 4. TH2150 Nordhavn",havn,6.195.000,11-02-2015,Alm. Salg,52.058,4,Lejlighed,119,2015,,Aktuel værdi
+"Antwerpengade 13, 2. 42150 Nordhavn",havn,5.895.000,09-02-2015,Alm. Salg,43.992,5,Lejlighed,134,2015,,Aktuel værdi
+"Dover Passage 4, 3. TH2150 Nordhavn",havn,6.095.000,05-02-2015,Alm. Salg,48.760,4,Lejlighed,125,2015,,Aktuel værdi
+"Göteborg Plads 12, 5. TV2150 Nordhavn",havn,5.250.000,30-01-2015,Alm. Salg,40.076,3,Lejlighed,131,2015,,Aktuel værdi
+"Travemündegade 3, ST2150 Nordhavn",havn,47.361.600,30-01-2015,Alm. Salg,-,2,Fritid,-,2016,,Aktuel værdi
+"Göteborg Plads 4, 4. TV2150 Nordhavn",havn,7.495.000,28-01-2015,Alm. Salg,56.353,3,Lejlighed,133,2015,,Aktuel værdi
+Århusgade 1412150 Nordhavn,havn,5.675.000,28-01-2015,Alm. Salg,47.291,4,Rækkehus,120,2016,,Aktuel værdi
+Århusgade 1372150 Nordhavn,havn,5.754.141,28-01-2015,Alm. Salg,49.180,4,Rækkehus,117,2016,,Aktuel værdi
+"Århusgade 140, 1. TH2150 Nordhavn",havn,3.150.000,26-01-2015,Alm. Salg,37.058,2,Lejlighed,85,2015,,Aktuel værdi
+Århusgade 1432150 Nordhavn,havn,5.707.597,23-01-2015,Alm. Salg,50.066,4,Rækkehus,114,2016,,Aktuel værdi
+"Göteborg Plads 4, 2. MF2150 Nordhavn",havn,7.500.000,16-01-2015,Alm. Salg,48.076,3,Lejlighed,156,2015,,Aktuel værdi
+"Sandkaj 37, 1. TH2150 Nordhavn",havn,5.895.000,12-01-2015,Alm. Salg,53.108,3,Lejlighed,111,2015,,Aktuel værdi
+"Fortkaj 20, 5. TH2150 Nordhavn",havn,6.995.000,08-01-2015,Alm. Salg,52.201,4,Lejlighed,134,2015,,Aktuel værdi
+"Göteborg Plads 4, 3. MF2150 Nordhavn",havn,8.000.000,08-01-2015,Alm. Salg,51.282,3,Lejlighed,156,2015,,Aktuel værdi
+"Sandkaj 37, ST. TV2150 Nordhavn",havn,5.495.000,07-01-2015,Alm. Salg,49.504,3,Lejlighed,111,2015,,Aktuel værdi
+"Dover Passage 4, ST. TV2150 Nordhavn",havn,2.895.000,16-12-2014,Alm. Salg,36.187,2,Lejlighed,80,2015,,Aktuel værdi
+"Dover Passage 4, 2. TV2150 Nordhavn",havn,4.250.000,01-12-2014,Alm. Salg,45.698,3,Lejlighed,93,2015,,Aktuel værdi
+"Dunkerquegade 1, 52150 Nordhavn",havn,7.200.000,01-12-2014,Alm. Salg,49.655,4,Lejlighed,145,2015,,Aktuel værdi
+"Murmanskgade 3, 4. TH2150 Nordhavn",havn,8.995.000,01-12-2014,Alm. Salg,53.862,3,Lejlighed,167,2015,,Aktuel værdi
+"Sandkaj 37, 5. TH2150 Nordhavn",havn,7.995.000,29-11-2014,Alm. Salg,68.922,3,Lejlighed,116,2015,,Aktuel værdi
+"Århusgade 142, 1. TH2150 Nordhavn",havn,3.695.000,17-11-2014,Alm. Salg,35.528,3,Lejlighed,104,2015,,Aktuel værdi
+"Sandkaj 37, 2. TV2150 Nordhavn",havn,5.895.000,10-11-2014,Alm. Salg,54.583,3,Lejlighed,108,2015,,Aktuel værdi
+"Fortkaj 22, 1. TV2150 Nordhavn",havn,3.995.000,06-11-2014,Alm. Salg,42.500,3,Lejlighed,94,2015,,Aktuel værdi
+"Helsinkigade 23, 4. TV2150 Nordhavn",havn,6.295.000,03-11-2014,Alm. Salg,48.798,4,Lejlighed,129,2015,,Aktuel værdi
+"Göteborg Plads 12, 2. MF2150 Nordhavn",havn,4.750.000,27-10-2014,Alm. Salg,36.821,3,Lejlighed,129,2015,,Aktuel værdi
+"Göteborg Plads 4, 4. MF2150 Nordhavn",havn,8.250.000,26-10-2014,Alm. Salg,52.884,3,Lejlighed,156,2015,,Aktuel værdi
+"Dover Passage 4, 1. MF2150 Nordhavn",havn,4.495.000,23-10-2014,Alm. Salg,44.504,4,Lejlighed,101,2015,,Aktuel værdi
+"Dunkerquegade 1, 4. TH2150 Nordhavn",havn,4.695.000,14-10-2014,Alm. Salg,39.788,4,Lejlighed,118,2015,,Aktuel værdi
+"Antwerpengade 13, 1. 22150 Nordhavn",havn,2.570.490,13-10-2014,Alm. Salg,36.721,2,Lejlighed,70,2015,,Aktuel værdi
+"Murmanskgade 3, 2. MF2150 Nordhavn",havn,5.750.000,25-09-2014,Alm. Salg,41.366,4,Lejlighed,139,2015,,Aktuel værdi
+"Århusgade 142, 2. TH2150 Nordhavn",havn,3.700.000,19-09-2014,Alm. Salg,35.576,3,Lejlighed,104,2015,,Aktuel værdi
+Helsinkigade 6E2150 Nordhavn,havn,6.574.226,16-09-2014,Alm. Salg,42.968,5,Rækkehus,153,2016,,Aktuel værdi
+"Dover Passage 2, 32150 Nordhavn",havn,4.295.000,11-09-2014,Alm. Salg,37.347,4,Lejlighed,115,2015,,Aktuel værdi
+Helsinkigade 6D2150 Nordhavn,havn,6.547.529,10-09-2014,Alm. Salg,43.075,5,Rækkehus,152,2016,,Aktuel værdi
+"Sankt Petersborg Plads 2, 1. TH2150 Nordhavn",havn,4.750.000,08-09-2014,Alm. Salg,36.259,3,Lejlighed,131,2015,,Aktuel værdi
+"Antwerpengade 13, 1. 12150 Nordhavn",havn,2.691.935,08-09-2014,Alm. Salg,36.377,2,Lejlighed,74,2015,,Aktuel værdi
+Kielgade 52150 Nordhavn,havn,7.015.942,05-09-2014,Alm. Salg,46.157,5,Rækkehus,152,2016,,Aktuel værdi
+"Murmanskgade 1, 4. TV2150 Nordhavn",havn,9.870.000,05-09-2014,Alm. Salg,72.573,3,Lejlighed,136,2015,,Aktuel værdi
+"Sankt Petersborg Plads 2, 42150 Nordhavn",havn,5.250.000,04-09-2014,Alm. Salg,46.460,3,Lejlighed,113,2015,,Aktuel værdi
+"Helsinkigade 19, 32150 Nordhavn",havn,3.795.000,19-08-2014,Alm. Salg,35.801,4,Lejlighed,106,2015,,Aktuel værdi
+"Sankt Petersborg Plads 2, 2. TH2150 Nordhavn",havn,4.995.000,18-08-2014,Alm. Salg,38.129,4,Lejlighed,131,2015,,Aktuel værdi
+Helsinkigade 6C2150 Nordhavn,havn,5.826.524,18-08-2014,Alm. Salg,41.917,5,Rækkehus,139,2016,,Aktuel værdi
+"Dover Passage 2, 1. TH2150 Nordhavn",havn,4.395.000,11-08-2014,Alm. Salg,33.807,4,Lejlighed,130,2015,,Aktuel værdi
+Kielgade 92150 Nordhavn,havn,7.028.673,10-08-2014,Alm. Salg,46.241,5,Rækkehus,152,2016,,Aktuel værdi
+"Dover Passage 4, ST. MF2150 Nordhavn",havn,3.550.000,07-08-2014,Alm. Salg,35.148,4,Lejlighed,101,2015,,Aktuel værdi
+"Fortkaj 22, ST. TH2150 Nordhavn",havn,3.450.000,07-08-2014,Alm. Salg,35.567,4,Lejlighed,97,2015,,Aktuel værdi
+"Murmanskgade 3, ST. TH2150 Nordhavn",havn,3.995.000,04-08-2014,Alm. Salg,33.855,4,Lejlighed,118,2015,,Aktuel værdi
+"Dover Passage 2, 2. TH2150 Nordhavn",havn,4.595.000,04-08-2014,Alm. Salg,35.346,4,Lejlighed,130,2015,,Aktuel værdi
+"Dunkerquegade 1, 2. TH2150 Nordhavn",havn,4.195.000,29-07-2014,Alm. Salg,35.550,4,Lejlighed,118,2015,,Aktuel værdi
+"Helsinkigade 21, 2. TH2150 Nordhavn",havn,3.550.000,20-07-2014,Alm. Salg,35.148,4,Lejlighed,101,2015,,Aktuel værdi
+"Sandkaj 37, 5. TV2150 Nordhavn",havn,9.000.000,15-07-2014,Alm. Salg,79.646,3,Lejlighed,113,2015,,Aktuel værdi
+"Sankt Petersborg Plads 4, 4. TV2150 Nordhavn",havn,5.750.000,15-07-2014,Alm. Salg,50.884,2,Lejlighed,113,2015,,Aktuel værdi
+"Helsinkigade 21, 3. TH2150 Nordhavn",havn,3.750.000,14-07-2014,Alm. Salg,37.128,4,Lejlighed,101,2015,,Aktuel værdi
+"Dover Passage 4, 2. MF2150 Nordhavn",havn,4.650.000,11-07-2014,Alm. Salg,46.039,4,Lejlighed,101,2015,,Aktuel værdi
+"Helsinkigade 23, 3. TH2150 Nordhavn",havn,3.695.000,11-07-2014,Alm. Salg,37.323,4,Lejlighed,99,2015,,Aktuel værdi
+"Dover Passage 2, ST. MF2150 Nordhavn",havn,1.695.000,09-07-2014,Alm. Salg,26.076,2,Lejlighed,65,2015,,Aktuel værdi
+"Helsinkigade 19, 1. TV2150 Nordhavn",havn,3.450.000,09-07-2014,Alm. Salg,32.857,4,Lejlighed,105,2015,,Aktuel værdi
+"Helsinkigade 21, 1. TH2150 Nordhavn",havn,3.395.000,04-07-2014,Alm. Salg,33.613,4,Lejlighed,101,2015,,Aktuel værdi
+"Fortkaj 20, 1. TV2150 Nordhavn",havn,5.295.000,30-06-2014,Alm. Salg,43.760,4,Lejlighed,121,2015,,Aktuel værdi
+"Helsinkigade 23, 2. TH2150 Nordhavn",havn,3.495.000,30-06-2014,Alm. Salg,35.303,4,Lejlighed,99,2015,,Aktuel værdi
+"Murmanskgade 1, 1. TV2150 Nordhavn",havn,7.495.000,30-06-2014,Alm. Salg,46.265,3,Lejlighed,162,2015,,Aktuel værdi
+"Dover Passage 4, 3. MF2150 Nordhavn",havn,4.850.000,29-06-2014,Alm. Salg,48.019,4,Lejlighed,101,2015,,Aktuel værdi
+"Göteborg Plads 4, 1. TV2150 Nordhavn",havn,6.250.000,27-06-2014,Alm. Salg,46.992,3,Lejlighed,133,2015,,Aktuel værdi
+"Helsinkigade 19, 2. TV2150 Nordhavn",havn,3.595.000,27-06-2014,Alm. Salg,34.238,4,Lejlighed,105,2015,,Aktuel værdi
+"Helsinkigade 23, ST. TH2150 Nordhavn",havn,2.895.000,26-06-2014,Alm. Salg,29.845,4,Lejlighed,97,2015,,Aktuel værdi
+"Göteborg Plads 4, 2. TH2150 Nordhavn",havn,3.295.000,25-06-2014,Alm. Salg,47.071,2,Lejlighed,70,2015,,Aktuel værdi
+Helsinkigade 6G2150 Nordhavn,havn,6.202.865,24-06-2014,Andet,40.541,5,Rækkehus,153,2016,,Aktuel værdi
+Helsinkigade 6A2150 Nordhavn,havn,4.427.020,24-06-2014,Alm. Salg,42.162,3,Rækkehus,105,2016,,Aktuel værdi
+"Göteborg Plads 4, 3. TH2150 Nordhavn",havn,3.395.000,17-06-2014,Alm. Salg,48.500,3,Lejlighed,70,2015,,Aktuel værdi
+"Helsinkigade 21, 3. TV2150 Nordhavn",havn,3.750.000,16-06-2014,Alm. Salg,36.407,4,Lejlighed,103,2015,,Aktuel værdi
+"Helsinkigade 19, ST. TV2150 Nordhavn",havn,3.195.000,10-06-2014,Alm. Salg,27.543,4,Lejlighed,116,2015,,Aktuel værdi
+"Göteborg Plads 4, 4. TH2150 Nordhavn",havn,3.495.000,06-06-2014,Alm. Salg,49.928,2,Lejlighed,70,2015,,Aktuel værdi
+"Dunkerquegade 1, ST. MF2150 Nordhavn",havn,1.750.000,06-06-2014,Alm. Salg,30.701,2,Lejlighed,57,2015,,Aktuel værdi
+"Helsinkigade 19, 2. TH2150 Nordhavn",havn,3.895.000,06-06-2014,Alm. Salg,34.469,4,Lejlighed,113,2015,,Aktuel værdi
+"Helsinkigade 19, ST. TH2150 Nordhavn",havn,2.395.000,06-06-2014,Alm. Salg,30.316,2,Lejlighed,79,2015,,Aktuel værdi
+"Dunkerquegade 1, ST. TV2150 Nordhavn",havn,1.595.000,06-06-2014,Alm. Salg,30.094,2,Lejlighed,53,2015,,Aktuel værdi
+"Dunkerquegade 1, 4. TV2150 Nordhavn",havn,2.095.000,06-06-2014,Alm. Salg,35.508,2,Lejlighed,59,2015,,Aktuel værdi
+"Fortkaj 20, ST. TV2150 Nordhavn",havn,3.495.000,06-06-2014,Alm. Salg,34.603,4,Lejlighed,101,2015,,Aktuel værdi
+"Helsinkigade 23, 1. TH2150 Nordhavn",havn,3.350.000,02-06-2014,Alm. Salg,33.838,4,Lejlighed,99,2015,,Aktuel værdi
+"Dunkerquegade 1, 1. MF2150 Nordhavn",havn,1.850.000,02-06-2014,Alm. Salg,32.456,2,Lejlighed,57,2015,,Aktuel værdi
+"Fortkaj 20, ST. TH2150 Nordhavn",havn,3.595.000,02-06-2014,Alm. Salg,34.902,4,Lejlighed,103,2015,,Aktuel værdi
+"Sandkaj 37, 3. TH2150 Nordhavn",havn,6.195.000,30-05-2014,Alm. Salg,55.810,3,Lejlighed,111,2015,,Aktuel værdi
+"Dunkerquegade 1, 3. TV2150 Nordhavn",havn,1.995.000,29-05-2014,Alm. Salg,33.813,2,Lejlighed,59,2015,,Aktuel værdi
+"Göteborg Plads 4, 1. TH2150 Nordhavn",havn,2.995.000,27-05-2014,Alm. Salg,42.785,3,Lejlighed,70,2015,,Aktuel værdi
+Kielgade 32150 Nordhavn,havn,6.562.890,27-05-2014,Alm. Salg,43.176,5,Rækkehus,152,2016,,Aktuel værdi
+Helsinkigade 6F2150 Nordhavn,havn,6.601.593,27-05-2014,Alm. Salg,43.147,5,Rækkehus,153,2016,,Aktuel værdi
+"Helsinkigade 23, 3. TV2150 Nordhavn",havn,3.850.000,26-05-2014,Alm. Salg,37.745,4,Lejlighed,102,2015,,Aktuel værdi
+"Dover Passage 2, ST. TH2150 Nordhavn",havn,1.695.000,26-05-2014,Alm. Salg,28.250,2,Lejlighed,60,2015,,Aktuel værdi
+"Helsinkigade 19, 1. TH2150 Nordhavn",havn,3.695.000,26-05-2014,Alm. Salg,32.699,4,Lejlighed,113,2015,,Aktuel værdi
+"Murmanskgade 3, 1. TH2150 Nordhavn",havn,6.995.000,22-05-2014,Alm. Salg,43.179,3,Lejlighed,162,2015,,Aktuel værdi
+"Sankt Petersborg Plads 4, ST. TV2150 Nordhavn",havn,2.395.000,19-05-2014,Alm. Salg,33.732,2,Lejlighed,71,2015,,Aktuel værdi
+Kielgade 72150 Nordhavn,havn,6.427.706,12-05-2014,Alm. Salg,42.287,5,Rækkehus,152,2016,,Aktuel værdi
+Helsinkigade 6B2150 Nordhavn,havn,5.127.278,08-05-2014,Alm. Salg,43.086,4,Rækkehus,119,2016,,Aktuel værdi
+"Helsinkigade 21, ST. TV2150 Nordhavn",havn,2.895.000,08-05-2014,Alm. Salg,28.106,4,Lejlighed,103,2015,,Aktuel værdi
+"Fortkaj 20, 2. TV2150 Nordhavn",havn,6.195.000,07-05-2014,Alm. Salg,43.626,5,Lejlighed,142,2015,,Aktuel værdi
+"Fortkaj 22, 2. TV2150 Nordhavn",havn,4.095.000,07-05-2014,Alm. Salg,43.563,3,Lejlighed,94,2015,,Aktuel værdi
+"Dunkerquegade 1, ST. TH2150 Nordhavn",havn,3.595.000,04-05-2014,Alm. Salg,30.726,4,Lejlighed,117,2015,,Aktuel værdi
+"Dunkerquegade 1, 1. TH2150 Nordhavn",havn,3.995.000,28-04-2014,Alm. Salg,33.855,4,Lejlighed,118,2015,,Aktuel værdi
+"Helsinkigade 21, 2. TV2150 Nordhavn",havn,3.550.000,27-04-2014,Alm. Salg,34.466,4,Lejlighed,103,2015,,Aktuel værdi
+"Dunkerquegade 1, 3. TH2150 Nordhavn",havn,4.495.000,27-04-2014,Alm. Salg,38.093,4,Lejlighed,118,2015,,Aktuel værdi
+"Dover Passage 4, 1. TH2150 Nordhavn",havn,3.495.000,27-04-2014,Alm. Salg,34.603,4,Lejlighed,101,2015,,Aktuel værdi
+"Fortkaj 20, 2. TH2150 Nordhavn",havn,4.650.000,27-04-2014,Alm. Salg,45.588,4,Lejlighed,102,2015,,Aktuel værdi
+"Helsinkigade 23, 2. TV2150 Nordhavn",havn,3.650.000,25-04-2014,Alm. Salg,35.784,4,Lejlighed,102,2015,,Aktuel værdi
+"Fortkaj 20, 3. TH2150 Nordhavn",havn,4.850.000,22-04-2014,Alm. Salg,47.549,4,Lejlighed,102,2015,,Aktuel værdi
+"Helsinkigade 23, ST. TV2150 Nordhavn",havn,2.695.000,16-04-2014,Alm. Salg,28.978,4,Lejlighed,93,2015,,Aktuel værdi
+"Fortkaj 22, 4. TV2150 Nordhavn",havn,4.495.000,16-04-2014,Alm. Salg,47.819,3,Lejlighed,94,2015,,Aktuel værdi
+"Dover Passage 4, 2. TH2150 Nordhavn",havn,3.650.000,16-04-2014,Alm. Salg,36.138,4,Lejlighed,101,2015,,Aktuel værdi
+"Helsinkigade 23, 1. TV2150 Nordhavn",havn,3.495.000,16-04-2014,Alm. Salg,34.264,4,Lejlighed,102,2015,,Aktuel værdi
+"Dover Passage 4, ST. TH2150 Nordhavn",havn,2.650.000,16-04-2014,Alm. Salg,31.176,4,Lejlighed,85,2015,,Aktuel værdi
+"Helsinkigade 21, 1. TV2150 Nordhavn",havn,3.395.000,16-04-2014,Alm. Salg,32.961,4,Lejlighed,103,2015,,Aktuel værdi
+"Dunkerquegade 1, 4. MF2150 Nordhavn",havn,2.095.000,16-04-2014,Alm. Salg,36.754,2,Lejlighed,57,2015,,Aktuel værdi
+"Dunkerquegade 1, 2. MF2150 Nordhavn",havn,1.925.000,14-04-2014,Alm. Salg,33.771,2,Lejlighed,57,2015,,Aktuel værdi
+"Antwerpengade 15, 3. TH2150 Nordhavn",havn,5.570.476,11-04-2014,Alm. Salg,39.789,4,Lejlighed,140,2015,,Aktuel værdi
+"Göteborg Plads 8, 42150 Nordhavn",havn,4.745.000,09-04-2014,Alm. Salg,40.555,3,Lejlighed,117,2015,,Aktuel værdi
+"Sankt Petersborg Plads 2, 52150 Nordhavn",havn,4.750.000,09-04-2014,Alm. Salg,42.035,3,Lejlighed,113,2015,,Aktuel værdi
+"Göteborg Plads 4, 5. TH2150 Nordhavn",havn,3.595.000,17-03-2014,Alm. Salg,47.933,3,Lejlighed,75,2015,,Aktuel værdi
+"Murmanskgade 3, 5. TV2150 Nordhavn",havn,6.495.000,11-03-2014,Alm. Salg,52.804,3,Lejlighed,123,2015,,Aktuel værdi
+"Murmanskgade 1, ST. TH2150 Nordhavn",havn,7.495.000,10-03-2014,Alm. Salg,46.265,3,Lejlighed,162,2015,,Aktuel værdi
+"Sankt Petersborg Plads 2, ST. TV2150 Nordhavn",havn,3.995.000,04-03-2014,Alm. Salg,30.496,3,Lejlighed,131,2015,,Aktuel værdi
+"Antwerpengade 15, 3. MF2150 Nordhavn",havn,4.821.352,03-03-2014,Alm. Salg,33.953,4,Lejlighed,142,2015,,Aktuel værdi
+"Göteborg Plads 12, 3. TH2150 Nordhavn",havn,3.495.000,28-02-2014,Alm. Salg,33.932,3,Lejlighed,103,2015,,Aktuel værdi
+"Göteborg Plads 12, 1. TH2150 Nordhavn",havn,3.295.000,25-02-2014,Alm. Salg,31.990,3,Lejlighed,103,2015,,Aktuel værdi
+"Göteborg Plads 12, 2. TH2150 Nordhavn",havn,3.295.000,19-02-2014,Alm. Salg,31.990,3,Lejlighed,103,2015,,Aktuel værdi
+"Sankt Petersborg Plads 4, 1. TH2150 Nordhavn",havn,2.395.000,14-02-2014,Alm. Salg,34.214,2,Lejlighed,70,2015,,Aktuel værdi
+"Murmanskgade 3, ST. TV2150 Nordhavn",havn,5.995.000,11-02-2014,Alm. Salg,37.006,4,Lejlighed,162,2015,,Aktuel værdi
+"Antwerpengade 15, 1. MF2150 Nordhavn",havn,4.148.942,06-02-2014,Alm. Salg,30.506,3,Lejlighed,136,2015,,Aktuel værdi
+"Murmanskgade 1, 3. MF2150 Nordhavn",havn,7.995.000,06-02-2014,Alm. Salg,59.664,3,Lejlighed,134,2015,,Aktuel værdi
+"Århusgade 140, 2. TH2150 Nordhavn",havn,2.733.062,13-01-2014,Alm. Salg,32.153,2,Lejlighed,85,2015,,Aktuel værdi
+"Antwerpengade 15, 2. MF2150 Nordhavn",havn,4.615.582,09-01-2014,Alm. Salg,32.504,4,Lejlighed,142,2015,,Aktuel værdi
+"Århusgade 140, 1. TV2150 Nordhavn",havn,3.151.942,08-01-2014,Alm. Salg,32.832,3,Lejlighed,96,2015,,Aktuel værdi
+"Århusgade 142, 3. TH2150 Nordhavn",havn,3.627.003,20-12-2013,Alm. Salg,34.875,3,Lejlighed,104,2015,,Aktuel værdi
+"Århusgade 140, 4. TH2150 Nordhavn",havn,3.231.357,20-12-2013,Alm. Salg,35.123,3,Lejlighed,92,2015,,Aktuel værdi
+"Århusgade 142, 4. TH2150 Nordhavn",havn,3.679.423,15-12-2013,Alm. Salg,35.379,3,Lejlighed,104,2015,,Aktuel værdi
+"Antwerpengade 13, 2. 32150 Nordhavn",havn,5.623.513,11-12-2013,Alm. Salg,41.966,5,Lejlighed,134,2015,,Aktuel værdi
+"Murmanskgade 3, 3. TH2150 Nordhavn",havn,7.250.000,06-12-2013,Alm. Salg,44.753,3,Lejlighed,162,2015,,Aktuel værdi
+"Århusgade 140, 5. TH2150 Nordhavn",havn,3.305.634,03-12-2013,Alm. Salg,35.544,3,Lejlighed,93,2015,,Aktuel værdi
+"Murmanskgade 1, 2. TV2150 Nordhavn",havn,7.775.000,29-11-2013,Alm. Salg,47.993,4,Lejlighed,162,2015,,Aktuel værdi
+"Göteborg Plads 12, 4. TH2150 Nordhavn",havn,3.395.000,25-11-2013,Alm. Salg,32.961,3,Lejlighed,103,2015,,Aktuel værdi
+"Antwerpengade 15, 4. TH2150 Nordhavn",havn,5.285.888,25-11-2013,Alm. Salg,40.975,4,Lejlighed,129,2015,,Aktuel værdi
+"Århusgade 142, 5. TH2150 Nordhavn",havn,3.914.095,12-11-2013,Alm. Salg,37.635,3,Lejlighed,104,2015,,Aktuel værdi
+"Murmanskgade 1, 3. TV2150 Nordhavn",havn,7.995.000,12-11-2013,Alm. Salg,49.351,3,Lejlighed,162,2015,,Aktuel værdi
+"Murmanskgade 3, 2. TV2150 Nordhavn",havn,3.095.000,12-11-2013,Alm. Salg,26.452,3,Lejlighed,117,2015,,Aktuel værdi
+"Århusgade 140, 4. TV2150 Nordhavn",havn,3.401.853,12-11-2013,Alm. Salg,35.070,3,Lejlighed,97,2015,,Aktuel værdi
+"Murmanskgade 3, ST. MF2150 Nordhavn",havn,2.995.000,12-11-2013,Alm. Salg,25.598,3,Lejlighed,117,2015,,Aktuel værdi
+"Sankt Petersborg Plads 2, ST. TH2150 Nordhavn",havn,2.550.000,08-11-2013,Alm. Salg,26.562,3,Lejlighed,96,2015,,Aktuel værdi
+"Sankt Petersborg Plads 4, 1. TV2150 Nordhavn",havn,3.700.000,07-11-2013,Alm. Salg,34.259,2,Lejlighed,108,2015,,Aktuel værdi
+"Århusgade 140, 3. TH2150 Nordhavn",havn,3.174.118,28-10-2013,Alm. Salg,34.501,3,Lejlighed,92,2015,,Aktuel værdi
+"Göteborg Plads 12, 3. TV2150 Nordhavn",havn,2.895.000,27-10-2013,Alm. Salg,39.657,3,Lejlighed,73,2015,,Aktuel værdi
+"Göteborg Plads 12, 5. TH2150 Nordhavn",havn,3.300.000,22-10-2013,Alm. Salg,32.038,3,Lejlighed,103,2015,,Aktuel værdi
+"Murmanskgade 3, 3. TV2150 Nordhavn",havn,3.295.000,22-10-2013,Alm. Salg,28.162,4,Lejlighed,117,2015,,Aktuel værdi
+"Göteborg Plads 8, 3. TV2150 Nordhavn",havn,3.995.000,17-10-2013,Alm. Salg,34.739,3,Lejlighed,115,2015,,Aktuel værdi
+"Sankt Petersborg Plads 4, 3. TV2150 Nordhavn",havn,3.595.000,17-10-2013,Alm. Salg,33.287,2,Lejlighed,108,2015,,Aktuel værdi
+"Murmanskgade 3, 4. TV2150 Nordhavn",havn,3.495.000,17-10-2013,Alm. Salg,29.871,3,Lejlighed,117,2015,,Aktuel værdi
+"Göteborg Plads 12, 2. TV2150 Nordhavn",havn,2.195.000,16-10-2013,Alm. Salg,30.068,3,Lejlighed,73,2015,,Aktuel værdi
+"Göteborg Plads 12, 1. TV2150 Nordhavn",havn,1.995.000,16-10-2013,Alm. Salg,27.328,3,Lejlighed,73,2015,,Aktuel værdi
+"Murmanskgade 3, 2. TH2150 Nordhavn",havn,6.995.000,15-10-2013,Alm. Salg,43.179,3,Lejlighed,162,2015,,Aktuel værdi
+"Göteborg Plads 8, 2. TH2150 Nordhavn",havn,2.195.000,15-10-2013,Alm. Salg,28.141,2,Lejlighed,78,2015,,Aktuel værdi
+"Sankt Petersborg Plads 4, 2. TV2150 Nordhavn",havn,3.495.000,15-10-2013,Alm. Salg,32.361,2,Lejlighed,108,2015,,Aktuel værdi
+"Göteborg Plads 8, 1. TH2150 Nordhavn",havn,2.250.000,15-10-2013,Alm. Salg,28.846,2,Lejlighed,78,2015,,Aktuel værdi
+"Göteborg Plads 8, 1. TV2150 Nordhavn",havn,3.550.000,11-10-2013,Alm. Salg,30.869,3,Lejlighed,115,2015,,Aktuel værdi
+"Göteborg Plads 8, 2. TV2150 Nordhavn",havn,3.795.000,11-10-2013,Alm. Salg,33.000,3,Lejlighed,115,2015,,Aktuel værdi
+"Århusgade 140, 3. TV2150 Nordhavn",havn,3.303.972,11-10-2013,Alm. Salg,34.416,3,Lejlighed,96,2015,,Aktuel værdi
+"Århusgade 142, 1. TV2150 Nordhavn",havn,3.475.684,10-10-2013,Alm. Salg,28.489,3,Lejlighed,122,2015,,Aktuel værdi
+"Murmanskgade 3, 1. TV2150 Nordhavn",havn,2.995.000,10-10-2013,Alm. Salg,25.598,3,Lejlighed,117,2015,,Aktuel værdi
+"Sankt Petersborg Plads 2, 1. TV2150 Nordhavn",havn,2.495.000,09-10-2013,Alm. Salg,22.477,4,Lejlighed,111,2015,,Aktuel værdi
+"Sankt Petersborg Plads 2, 3. TV2150 Nordhavn",havn,2.895.000,09-10-2013,Alm. Salg,26.081,3,Lejlighed,111,2015,,Aktuel værdi
+"Murmanskgade 3, 1. MF2150 Nordhavn",havn,4.995.000,09-10-2013,Alm. Salg,35.935,3,Lejlighed,139,2015,,Aktuel værdi
+"Sankt Petersborg Plads 2, 2. TV2150 Nordhavn",havn,4.500.000,08-10-2013,Alm. Salg,40.540,3,Lejlighed,111,2015,,Aktuel værdi
+"Århusgade 142, 2. MF2150 Nordhavn",havn,3.684.427,09-08-2013,Alm. Salg,33.193,4,Lejlighed,111,2015,,Aktuel værdi
+"Århusgade 142, 4. MF2150 Nordhavn",havn,3.923.106,05-08-2013,Alm. Salg,35.343,4,Lejlighed,111,2015,,Aktuel værdi
+"Århusgade 142, 1. MF2150 Nordhavn",havn,3.447.465,01-08-2013,Alm. Salg,31.058,4,Lejlighed,111,2015,,Aktuel værdi
+"Antwerpengade 15, 1. TV2150 Nordhavn",havn,3.849.816,29-06-2013,Alm. Salg,33.770,4,Lejlighed,114,2015,,Aktuel værdi
+"Antwerpengade 15, 2. TH2150 Nordhavn",havn,5.002.762,17-06-2013,Alm. Salg,35.734,4,Lejlighed,140,2015,,Aktuel værdi
+"Antwerpengade 15, 4. MF2150 Nordhavn",havn,4.970.188,24-05-2013,Alm. Salg,35.001,4,Lejlighed,142,2015,,Aktuel værdi
+"Århusgade 142, 3. MF2150 Nordhavn",havn,3.771.097,06-05-2013,Alm. Salg,33.973,4,Lejlighed,111,2015,,Aktuel værdi
+"Århusgade 142, 5. MF2150 Nordhavn",havn,5.700.165,10-04-2013,Alm. Salg,48.306,4,Lejlighed,118,2015,,Aktuel værdi
+"Antwerpengade 15, 4. TV2150 Nordhavn",havn,4.237.619,05-03-2013,Alm. Salg,37.172,4,Lejlighed,114,2015,,Aktuel værdi
+"Antwerpengade 15, 5. TH2150 Nordhavn",havn,6.255.448,21-02-2013,Alm. Salg,43.141,4,Lejlighed,145,2015,,Aktuel værdi
+"Antwerpengade 15, 3. TV2150 Nordhavn",havn,4.149.553,13-02-2013,Alm. Salg,36.399,4,Lejlighed,114,2015,,Aktuel værdi

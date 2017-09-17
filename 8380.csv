@@ -1,0 +1,767 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Højgårdsparken 198380 Trige,rige,1.850.000,04-04-2017,Alm. Salg,13.909,5,Villa,133,1975,-3 %,Aktuel værdi
+Trige Møllevej 1948380 Trige,rige,840.500,10-03-2017,Andet,6.889,4,Villa,122,1979,,Aktuel værdi
+Blålervænget 58380 Trige,rige,3.200.000,03-03-2017,Alm. Salg,20.915,6,Villa,153,2016,0 %,Aktuel værdi
+Gartnerparken 378380 Trige,rige,1.775.000,15-02-2017,Alm. Salg,17.067,7,Villa,104,1940,-6 %,Aktuel værdi
+Holmkærvej 848380 Trige,rige,1.260.000,10-02-2017,Alm. Salg,13.846,3,Rækkehus,91,1987,-1 %,Aktuel værdi
+Gartnerparken 858380 Trige,rige,1.975.000,08-02-2017,Alm. Salg,17.173,4,Rækkehus,115,2006,-1 %,Aktuel værdi
+Bærmosehøjen 1078380 Trige,rige,3.200.000,05-02-2017,Alm. Salg,16.410,7,Villa,195,2015,-3 %,Aktuel værdi
+Lergravvænget 18380 Trige,rige,2.100.000,04-02-2017,Alm. Salg,17.355,5,Villa,121,1998,-4 %,Aktuel værdi
+Bærmosehøjen 328380 Trige,rige,2.200.000,11-01-2017,Alm. Salg,14.965,5,Villa,147,1973,-4 %,Aktuel værdi
+Spørring Skovvej 28380 Trige,rige,1.760.000,21-12-2016,Alm. Salg,13.750,3,Stuehus,128,1914,-2 %,
+Hjulgårdsvej 108380 Trige,rige,1.435.000,05-12-2016,Alm. Salg,13.287,4,Villa,108,1961,-10 %,Aktuel værdi
+Byhøjvej 58380 Trige,rige,1.890.000,05-12-2016,Alm. Salg,25.540,3,Villa,74,1957,-5 %,Aktuel værdi
+Trige Møllevej 148380 Trige,rige,1.700.000,02-12-2016,Alm. Salg,13.821,4,Villa,123,1978,-5 %,Aktuel værdi
+Parallelvej 578380 Trige,rige,3.500.000,25-11-2016,Alm. Salg,12.635,11,Villa,277,1914,,Aktuel værdi
+Bærmosehøjen 418380 Trige,rige,3.170.000,24-11-2016,Alm. Salg,17.322,6,Villa,183,2012,-1 %,Aktuel værdi
+Hjulgårdsvej 388380 Trige,rige,2.100.000,21-11-2016,Alm. Salg,24.705,5,Villa,85,1961,-2 %,Aktuel værdi
+Holmkærvej 788380 Trige,rige,710.000,21-11-2016,Fam. Salg,7.802,3,Rækkehus,91,1987,,Aktuel værdi
+Blålervænget 78380 Trige,rige,2.600.000,09-11-2016,Alm. Salg,16.993,6,Villa,153,2016,,Aktuel værdi
+Gartnerparken 898380 Trige,rige,908.544,04-11-2016,Fam. Salg,7.832,4,Rækkehus,116,2006,,Aktuel værdi
+Trige Møllevej 408380 Trige,rige,2.440.000,02-11-2016,Alm. Salg,15.947,6,Villa,153,1976,0 %,Aktuel værdi
+Gammel Landevej 228380 Trige,rige,1.435.000,25-10-2016,Alm. Salg,11.480,4,Villa,125,1927,-4 %,Aktuel værdi
+Hvidbjergvej 178380 Trige,rige,977.000,10-10-2016,Alm. Salg,15.030,3,Villa,65,1963,9 %,Aktuel værdi
+Højgårdsparken 28380 Trige,rige,2.060.000,06-10-2016,Alm. Salg,11.638,4,Villa,177,1973,-6 %,Aktuel værdi
+Holmkærvej 136B8380 Trige,rige,1.775.000,21-09-2016,Alm. Salg,19.722,4,Rækkehus,90,2004,-1 %,Aktuel værdi
+Trige Møllevej 1648380 Trige,rige,1.550.000,16-09-2016,Alm. Salg,13.478,4,Villa,115,1978,-3 %,Aktuel værdi
+Trige Møllevej 988380 Trige,rige,2.220.000,14-09-2016,Alm. Salg,14.322,4,Villa,155,1977,1 %,Aktuel værdi
+Hjulgårdsvej 228380 Trige,rige,1.500.000,10-09-2016,Alm. Salg,8.823,6,Villa,170,1968,-5 %,Aktuel værdi
+Vestermøllevej 2848380 Trige,rige,2.495.000,06-09-2016,Alm. Salg,18.481,4,Villa,135,1969,0 %,Aktuel værdi
+Bærmosehøjen 558380 Trige,rige,3.325.000,04-09-2016,Alm. Salg,17.780,5,Villa,187,2012,,Aktuel værdi
+Ågade 98380 Trige,rige,2.099.000,24-08-2016,Alm. Salg,15.210,4,Villa,138,1936,0 %,Aktuel værdi
+Bærmosehøjen 738380 Trige,rige,899.360,22-08-2016,Alm. Salg,5.916,4,Villa,152,2017,0 %,Aktuel værdi
+Elmebakken 18380 Trige,rige,1.445.000,16-08-2016,Alm. Salg,13.256,6,Villa,109,1880,-3 %,Aktuel værdi
+Vestermøllevej 308380 Trige,rige,1.665.000,11-08-2016,Alm. Salg,15.707,4,Rækkehus,106,2005,,Aktuel værdi
+Gartnerparken 878380 Trige,rige,1.895.000,29-07-2016,Alm. Salg,16.336,4,Rækkehus,116,2006,0 %,Aktuel værdi
+Estrupvej 38380 Trige,rige,4.100.000,19-07-2016,Alm. Salg,17.083,6,Stuehus,240,1827,-7 %,
+Gartnerparken 698380 Trige,rige,2.275.000,18-07-2016,Alm. Salg,17.773,4,Rækkehus,128,2006,,Aktuel værdi
+Bjørnshøjvej 128380 Trige,rige,1.495.000,08-07-2016,Alm. Salg,15.572,3,Villa,96,1969,0 %,Aktuel værdi
+Østermøllevej 28380 Trige,rige,995.000,28-06-2016,Alm. Salg,7.960,5,Stuehus,125,1863,,
+Trige Møllevej 2348380 Trige,rige,1.850.000,15-06-2016,Alm. Salg,16.517,4,Villa,112,1980,0 %,Aktuel værdi
+Bærmosehøjen 38380 Trige,rige,777.040,07-06-2016,Alm. Salg,5.472,4,Villa,142,2017,0 %,Aktuel værdi
+Højgårdsparken 258380 Trige,rige,1.995.000,31-05-2016,Alm. Salg,12.626,6,Villa,158,1973,0 %,Aktuel værdi
+Søhøjparken 238380 Trige,rige,2.550.000,24-05-2016,Alm. Salg,15.454,5,Villa,165,2010,-2 %,Aktuel værdi
+Trige Møllevej 1148380 Trige,rige,1.600.000,19-05-2016,Alm. Salg,9.756,5,Villa,164,1977,0 %,Aktuel værdi
+Gammel Landevej 238380 Trige,rige,1.800.000,18-05-2016,Alm. Salg,10.000,6,Villa,180,1890,-9 %,Aktuel værdi
+Holmkærvej 132C8380 Trige,rige,1.775.000,17-05-2016,Alm. Salg,19.293,4,Rækkehus,92,2003,-1 %,Aktuel værdi
+Lergravvej 118380 Trige,rige,2.430.000,10-05-2016,Alm. Salg,16.875,4,Villa,144,1910,-6 %,Aktuel værdi
+Ladegårdsbakken 268380 Trige,rige,1.350.000,04-05-2016,Alm. Salg,12.162,4,Villa,111,1965,-2 %,Aktuel værdi
+Vestermøllevej 988380 Trige,rige,1.848.000,02-05-2016,Alm. Salg,18.480,3,Rækkehus,100,2005,0 %,Aktuel værdi
+Bærmosehøjen 228380 Trige,rige,2.200.000,25-04-2016,Alm. Salg,15.714,5,Villa,140,1973,-8 %,Aktuel værdi
+Bærmosehøjen 918380 Trige,rige,902.000,25-04-2016,Alm. Salg,5.011,6,Villa,180,2016,0 %,Aktuel værdi
+Holmkærvej 138A8380 Trige,rige,1.695.000,28-03-2016,Alm. Salg,18.626,4,Rækkehus,91,2004,0 %,Aktuel værdi
+Bærmosehøjen 798380 Trige,rige,2.455.000,18-03-2016,Alm. Salg,18.884,5,Villa,130,2011,-2 %,Aktuel værdi
+Randersvej 5738380 Trige,rige,626.250,11-03-2016,Fam. Salg,5.218,5,Stuehus,120,1900,,
+Randersvej 5898380 Trige,rige,1.800.000,02-03-2016,Alm. Salg,10.055,6,Villa,179,1924,-11 %,Aktuel værdi
+Høgemosevej 298380 Trige,rige,8.300.000,24-02-2016,Alm. Salg,38.073,6,Stuehus,218,1918,0 %,
+Bærmosehøjen 18380 Trige,rige,752.400,22-02-2016,Alm. Salg,4.854,5,Villa,155,2016,,Aktuel værdi
+Randersvej 5908380 Trige,rige,1.200.000,05-02-2016,Alm. Salg,14.814,4,Villa,81,1958,-4 %,Aktuel værdi
+Bærmosevej 258380 Trige,rige,3.250.000,01-02-2016,Andet,14.976,8,Villa,217,1987,,Aktuel værdi
+Lergravvej 78380 Trige,rige,2.036.100,20-01-2016,Fam. Salg,15.194,6,Stuehus,134,1967,,
+Hjulgårdsvej 48380 Trige,rige,1.795.000,15-01-2016,Alm. Salg,12.552,6,Villa,143,1911,-7 %,Aktuel værdi
+Østervang 108380 Trige,rige,1.000.000,12-01-2016,Alm. Salg,11.111,3,Villa,90,1960,-28 %,Aktuel værdi
+Pannerupvej 168380 Trige,rige,2.650.000,08-01-2016,Alm. Salg,10.037,7,Villa,264,1877,,Aktuel værdi
+Østervang 88380 Trige,rige,35.000,23-12-2015,Alm. Salg,168,9,Villa,208,1890,,Aktuel værdi
+Trige Møllevej 1708380 Trige,rige,1.595.000,09-12-2015,Alm. Salg,11.902,5,Villa,134,1978,0 %,Aktuel værdi
+Gammel Landevej 88380 Trige,rige,1.025.000,08-12-2015,Alm. Salg,10.250,5,Villa,100,1924,-6 %,Aktuel værdi
+Trige Møllevej 2428380 Trige,rige,2.450.000,07-12-2015,Alm. Salg,11.238,8,Villa,218,1980,-4 %,Aktuel værdi
+Bærmosehøjen 548380 Trige,rige,836.880,04-12-2015,Alm. Salg,5.579,5,Villa,150,2016,0 %,Aktuel værdi
+Gammel Landevej 408380 Trige,rige,2.700.000,29-11-2015,Alm. Salg,16.770,6,Villa,161,1897,-10 %,Aktuel værdi
+Bærmosehøjen 978380 Trige,rige,833.360,19-11-2015,Alm. Salg,5.241,5,Villa,159,2016,0 %,Aktuel værdi
+Trige Møllevej 28380 Trige,rige,1.950.000,17-11-2015,Alm. Salg,11.470,6,Villa,170,1977,-7 %,Aktuel værdi
+Trige Møllevej 2268380 Trige,rige,752.504,09-11-2015,Andet,7.921,4,Villa,95,1983,,Aktuel værdi
+Trige Møllevej 2668380 Trige,rige,1.100.000,09-11-2015,Andet,7.638,6,Villa,144,1979,,Aktuel værdi
+Trige Møllevej 1248380 Trige,rige,1.350.000,05-11-2015,Fam. Salg,9.507,4,Villa,142,1977,,Aktuel værdi
+Lergravvej 218380 Trige,rige,2.198.000,29-10-2015,Alm. Salg,8.971,7,Villa,245,1916,0 %,Aktuel værdi
+Søhøjparken 218380 Trige,rige,2.450.000,20-10-2015,Alm. Salg,16.666,5,Villa,147,2009,-2 %,Aktuel værdi
+Hæstvej 518380 Trige,rige,1.000.000,05-10-2015,Alm. Salg,9.345,5,Villa,107,1900,-9 %,Aktuel værdi
+Holmkærvej 688380 Trige,rige,1.500.000,02-10-2015,Alm. Salg,16.483,3,Rækkehus,91,1988,-5 %,Aktuel værdi
+Hvidbjergvej 198380 Trige,rige,2.955.000,01-10-2015,Alm. Salg,19.700,4,Villa,150,1934,-1 %,Aktuel værdi
+Ladegårdsbakken 48380 Trige,rige,1.300.000,15-09-2015,Alm. Salg,8.965,5,Villa,145,1966,-13 %,Aktuel værdi
+Vestermøllevej 348380 Trige,rige,1.550.000,02-09-2015,Alm. Salg,15.196,4,Rækkehus,102,2005,,Aktuel værdi
+Ølstedvej 1048380 Trige,rige,2.550.000,01-09-2015,Alm. Salg,16.451,4,Villa,155,1940,-9 %,Aktuel værdi
+Høgemosevej 228380 Trige,rige,1.300.000,19-08-2015,Alm. Salg,10.236,5,Stuehus,127,1907,-18 %,
+Bærmosehøjen 78380 Trige,rige,752.400,17-08-2015,Alm. Salg,4.111,6,Villa,183,2016,0 %,Aktuel værdi
+Trige Møllevej 2408380 Trige,rige,1.375.000,12-08-2015,Alm. Salg,12.168,4,Villa,113,1979,-8 %,Aktuel værdi
+Bærmosehøjen 158380 Trige,rige,773.520,31-07-2015,Alm. Salg,5.191,4,Villa,149,2016,0 %,Aktuel værdi
+Trige Møllevej 448380 Trige,rige,599.220,10-07-2015,Fam. Salg,3.968,6,Villa,151,1976,,Aktuel værdi
+Bærmosehøjen 638380 Trige,rige,2.995.000,02-07-2015,Alm. Salg,17.617,5,Villa,170,2011,0 %,Aktuel værdi
+Bærmosehøjen 508380 Trige,rige,675.840,01-07-2015,Alm. Salg,3.975,5,Villa,170,2016,0 %,Aktuel værdi
+Bærmosehøjen 98380 Trige,rige,672.320,18-06-2015,Alm. Salg,4.228,5,Villa,159,2016,0 %,Aktuel værdi
+Hvidbjergvej 11B8380 Trige,rige,628.000,17-06-2015,Alm. Salg,28.545,3,Anden beboelse,22,2016,-10 %,Aktuel værdi
+Ågade 48380 Trige,rige,625.000,27-05-2015,Fam. Salg,5.681,2,Villa,110,1910,,Aktuel værdi
+Randersvej 5848380 Trige,rige,681.000,27-05-2015,Alm. Salg,5.404,4,Villa,126,1956,,Aktuel værdi
+Hjulgårdsvej 138380 Trige,rige,1.600.000,25-05-2015,Alm. Salg,9.411,5,Villa,170,1962,-6 %,Aktuel værdi
+Gartnerparken 738380 Trige,rige,2.205.000,15-05-2015,Alm. Salg,17.500,4,Rækkehus,126,2006,-2 %,Aktuel værdi
+Trige Møllevej 948380 Trige,rige,1.475.000,12-05-2015,Alm. Salg,13.169,4,Villa,112,1977,-1 %,Aktuel værdi
+"Smedebroen 4, 18380 Trige",rige,1.065.000,01-05-2015,Alm. Salg,8.875,4,Lejlighed,120,1920,-3 %,Aktuel værdi
+Vestermøllevej 2828380 Trige,rige,1.488.538,27-04-2015,Fam. Salg,11.276,3,Villa,132,1980,,Aktuel værdi
+Holmkærvej 1188380 Trige,rige,1.440.000,22-04-2015,Alm. Salg,15.000,4,Rækkehus,96,1987,-4 %,Aktuel værdi
+Holmkærvej 888380 Trige,rige,1.320.000,20-04-2015,Alm. Salg,14.505,3,Rækkehus,91,1987,-2 %,Aktuel værdi
+Gartnerparken 938380 Trige,rige,1.740.000,16-04-2015,Alm. Salg,15.130,4,Rækkehus,115,2006,-3 %,Aktuel værdi
+Mosegårdsvangen 328380 Trige,rige,2.995.000,14-04-2015,Alm. Salg,11.519,7,Stuehus,260,1865,0 %,
+Vestermøllevej 428380 Trige,rige,1.575.000,01-04-2015,Alm. Salg,15.441,4,Rækkehus,102,2005,0 %,Aktuel værdi
+Trige Møllevej 608380 Trige,rige,2.300.000,27-03-2015,Alm. Salg,13.609,5,Villa,169,1976,-4 %,Aktuel værdi
+Bærmosehøjen 598380 Trige,rige,736.001,16-03-2015,Alm. Salg,4.628,5,Villa,159,2015,,Aktuel værdi
+Gammel Landevej 828380 Trige,rige,867.500,15-03-2015,Andet,4.985,7,Villa,174,1973,,Aktuel værdi
+Randersvej 516D8380 Trige,rige,2.500.000,02-03-2015,Alm. Salg,12.500,6,Villa,200,1965,-14 %,Aktuel værdi
+Vestermøllevej 2688380 Trige,rige,1.900.000,26-02-2015,Alm. Salg,14.179,5,Villa,134,1979,-3 %,Aktuel værdi
+Gammel Landevej 948380 Trige,rige,17.675.000,19-02-2015,Fam. Salg,77.863,11,Stuehus,227,1904,,
+Hæstvej 158380 Trige,rige,4.100.000,19-02-2015,Alm. Salg,17.521,5,Stuehus,234,1928,,
+Lergravvænget 238380 Trige,rige,2.025.000,18-02-2015,Alm. Salg,17.161,3,Villa,118,1998,-2 %,Aktuel værdi
+Hvidbjergvej 248380 Trige,rige,1.506.000,17-02-2015,Alm. Salg,16.733,5,Villa,90,1900,0 %,Aktuel værdi
+Hjulgårdsvej 348380 Trige,rige,1.687.500,12-02-2015,Alm. Salg,9.072,6,Villa,186,1957,-6 %,Aktuel værdi
+Trige Møllevej 1968380 Trige,rige,1.485.000,04-02-2015,Alm. Salg,11.335,4,Villa,131,1979,-4 %,Aktuel værdi
+Mosegårdsparken 78380 Trige,rige,410.000,04-02-2015,Alm. Salg,2.697,5,Villa,152,2015,-22 %,Aktuel værdi
+Bogenhøjvej 38380 Trige,rige,672.750,03-02-2015,Auktion,5.606,5,Villa,120,1916,,Aktuel værdi
+Trige Møllevej 1908380 Trige,rige,1.650.000,28-01-2015,Fam. Salg,14.732,4,Villa,112,1979,,Aktuel værdi
+Gartnerparken 818380 Trige,rige,1.840.000,27-01-2015,Alm. Salg,16.000,4,Rækkehus,115,2006,-2 %,Aktuel værdi
+Gartnerparken 368380 Trige,rige,2.265.000,20-01-2015,Alm. Salg,15.950,5,Villa,142,2007,-6 %,Aktuel værdi
+Hjulgårdsvej 288380 Trige,rige,1.835.000,05-01-2015,Alm. Salg,14.918,4,Villa,123,1910,-2 %,Aktuel værdi
+Bærmosehøjen 678380 Trige,rige,2.540.000,28-12-2014,Alm. Salg,16.933,5,Villa,150,2010,-6 %,Aktuel værdi
+Trige Møllevej 1608380 Trige,rige,1.500.000,20-12-2014,Fam. Salg,13.157,4,Villa,114,1978,,Aktuel værdi
+Lergravvænget 108380 Trige,rige,2.135.000,17-12-2014,Alm. Salg,15.932,5,Villa,134,1997,-7 %,Aktuel værdi
+Søhøjparken 308380 Trige,rige,570.000,08-12-2014,Alm. Salg,4.042,4,Villa,141,2015,,Aktuel værdi
+Gammel Landevej 448380 Trige,rige,1.250.000,25-11-2014,Alm. Salg,10.593,3,Villa,118,1902,-2 %,Aktuel værdi
+Bærmosehøjen 758380 Trige,rige,2.625.000,20-11-2014,Alm. Salg,17.384,6,Villa,151,2012,-2 %,Aktuel værdi
+Høgemosevej 278380 Trige,rige,900.000,05-11-2014,Alm. Salg,5.769,7,Villa,156,1947,,Aktuel værdi
+Ladegårdsbakken 128380 Trige,rige,1.670.000,03-11-2014,Alm. Salg,11.597,5,Villa,144,1968,-6 %,Aktuel værdi
+Bærmosevej 138380 Trige,rige,1.053.559,24-10-2014,Andet,9.323,4,Villa,113,1987,,Aktuel værdi
+Lergravvænget 388380 Trige,rige,2.110.000,15-10-2014,Alm. Salg,15.071,4,Villa,140,1997,-3 %,Aktuel værdi
+Vestermøllevej 388380 Trige,rige,1.530.000,09-10-2014,Alm. Salg,15.000,4,Rækkehus,102,2005,-1 %,Aktuel værdi
+Søhøjparken 368380 Trige,rige,585.000,07-10-2014,Alm. Salg,3.145,6,Villa,186,2015,,Aktuel værdi
+Lergravvænget 268380 Trige,rige,1.075.000,29-09-2014,Fam. Salg,7.517,5,Villa,143,1998,,Aktuel værdi
+Lergravvej 88380 Trige,rige,2.588.000,28-09-2014,Alm. Salg,18.225,4,Stuehus,142,1904,,
+Høgemosevej 68380 Trige,rige,1.695.000,23-09-2014,Alm. Salg,13.242,4,Stuehus,128,1941,-3 %,
+Bjørnshøjvej 78380 Trige,rige,775.000,22-09-2014,Fam. Salg,5.535,4,Villa,140,1970,-57 %,Aktuel værdi
+Trige Møllevej 2028380 Trige,rige,1.410.000,14-08-2014,Alm. Salg,15.000,4,Villa,94,1983,-6 %,Aktuel værdi
+Ågade 118380 Trige,rige,2.110.000,08-08-2014,Alm. Salg,13.790,5,Villa,153,1975,-4 %,Aktuel værdi
+Doktorbakken 68380 Trige,rige,2.375.000,31-07-2014,Alm. Salg,16.047,5,Villa,148,2009,-3 %,Aktuel værdi
+Bærmosehøjen 118380 Trige,rige,549.120,24-07-2014,Alm. Salg,3.894,4,Villa,141,2015,,Aktuel værdi
+Trige Møllevej 1268380 Trige,rige,1.650.000,23-07-2014,Alm. Salg,14.732,4,Villa,112,1978,-3 %,Aktuel værdi
+Vestermøllevej 1028380 Trige,rige,1.700.000,14-07-2014,Alm. Salg,17.346,3,Rækkehus,98,2005,,Aktuel værdi
+Østermøllevej 218380 Trige,rige,2.500.000,14-07-2014,Alm. Salg,17.605,6,Stuehus,142,1910,,
+Smedebroen 38380 Trige,rige,847.057,09-07-2014,Alm. Salg,5.572,6,Villa,152,1920,,Aktuel værdi
+Bærmosehøjen 178380 Trige,rige,2.240.000,30-06-2014,Alm. Salg,14.933,5,Villa,150,2014,-21 %,Aktuel værdi
+Gammel Landevej 638380 Trige,rige,1.300.000,26-06-2014,Alm. Salg,6.310,5,Villa,206,1964,-21 %,Aktuel værdi
+Bærmosehøjen 1018380 Trige,rige,588.544,02-06-2014,Alm. Salg,3.923,5,Villa,150,2015,-20 %,Aktuel værdi
+Holmkærvej 130C8380 Trige,rige,1.500.000,01-06-2014,Alm. Salg,16.129,3,Rækkehus,93,2003,-3 %,Aktuel værdi
+Trige Møllevej 2628380 Trige,rige,1.146.000,15-05-2014,Alm. Salg,5.673,5,Villa,202,1979,,Aktuel værdi
+Holmkærvej 1208380 Trige,rige,1.325.000,14-05-2014,Alm. Salg,13.802,4,Rækkehus,96,1987,-7 %,Aktuel værdi
+Gammel Landevej 698380 Trige,rige,1.025.000,07-05-2014,Alm. Salg,9.951,3,Villa,103,1963,-7 %,Aktuel værdi
+Hjulgårdsvej 128380 Trige,rige,1.735.000,04-05-2014,Alm. Salg,9.747,5,Villa,178,1890,-3 %,Aktuel værdi
+Hæstvej 508380 Trige,rige,1.470.000,25-04-2014,Alm. Salg,14.700,3,Stuehus,100,1928,-2 %,
+Bærmosehøjen 1098380 Trige,rige,626.560,23-04-2014,Alm. Salg,4.122,5,Villa,152,2014,-20 %,Aktuel værdi
+Estrupvej 18380 Trige,rige,3.000.000,17-03-2014,Fam. Salg,12.500,7,Villa,240,1925,,Aktuel værdi
+Bærmosehøjen 998380 Trige,rige,554.752,14-03-2014,Alm. Salg,3.906,4,Villa,142,2014,,Aktuel værdi
+Erbækvej 38380 Trige,rige,2.400.000,11-03-2014,Alm. Salg,12.903,6,Stuehus,186,1928,,
+Hæstvej 218380 Trige,rige,1.828.000,05-03-2014,Fam. Salg,17.409,4,Stuehus,105,1929,,
+Gartnerparken 718380 Trige,rige,2.005.000,28-02-2014,Alm. Salg,15.787,4,Rækkehus,127,2006,-2 %,Aktuel værdi
+Spørring Møllevej 48380 Trige,rige,1.600.000,25-02-2014,Alm. Salg,7.960,5,Villa,201,1932,-6 %,Aktuel værdi
+Højgårdsparken 658380 Trige,rige,2.025.000,12-02-2014,Alm. Salg,14.568,5,Villa,139,1977,-2 %,Aktuel værdi
+Trige Møllevej 2248380 Trige,rige,1.545.000,10-02-2014,Alm. Salg,13.794,4,Villa,112,1979,-3 %,Aktuel værdi
+Hornsbjergvej 58380 Trige,rige,1.495.000,23-01-2014,Alm. Salg,15.255,3,Stuehus,98,1965,,
+Højgårdsparken 158380 Trige,rige,1.640.000,17-01-2014,Alm. Salg,11.006,5,Villa,149,1972,,Aktuel værdi
+Trige Møllevej 2168380 Trige,rige,2.198.000,20-12-2013,Alm. Salg,14.851,6,Villa,148,1979,0 %,Aktuel værdi
+Kærhusevej 58380 Trige,rige,1.370.000,18-12-2013,Alm. Salg,9.785,5,Stuehus,140,1854,,
+Randersvej 5158380 Trige,rige,1.295.000,12-12-2013,Alm. Salg,12.696,3,Villa,102,1947,-7 %,Aktuel værdi
+Byhøjvej 68380 Trige,rige,1.450.000,28-11-2013,Alm. Salg,9.602,5,Villa,151,1968,-3 %,Aktuel værdi
+Hjulgårdsvej 188380 Trige,rige,1.450.000,13-11-2013,Alm. Salg,13.679,4,Rækkehus,106,1910,-3 %,Aktuel værdi
+Bærmosehøjen 238380 Trige,rige,540.672,13-11-2013,Alm. Salg,3.379,4,Villa,160,2014,-78 %,Aktuel værdi
+Høgemosevej 19A8380 Trige,rige,2.700.000,28-10-2013,Alm. Salg,16.363,6,Villa,165,2007,-6 %,Aktuel værdi
+Randersvej 514D8380 Trige,rige,2.000.000,16-10-2013,Alm. Salg,13.071,5,Villa,153,2012,-5 %,Aktuel værdi
+Højgårdsparken 638380 Trige,rige,857.500,10-10-2013,Andet,5.913,4,Villa,145,1972,,Aktuel værdi
+Bærmosehøjen 378380 Trige,rige,3.099.000,05-09-2013,Alm. Salg,17.508,5,Villa,177,2012,0 %,Aktuel værdi
+Ladegårdsbakken 168380 Trige,rige,900.000,30-08-2013,Alm. Salg,9.473,3,Villa,95,1968,-10 %,Aktuel værdi
+Gartnerparken 578380 Trige,rige,2.075.000,30-08-2013,Alm. Salg,16.468,4,Rækkehus,126,2006,-3 %,Aktuel værdi
+Randersvej 514F8380 Trige,rige,350.000,27-08-2013,Alm. Salg,2.134,5,Villa,164,2014,,Aktuel værdi
+Bærmosehøjen 338380 Trige,rige,501.952,15-08-2013,Alm. Salg,3.559,3,Villa,141,2014,,Aktuel værdi
+Bærmosehøjen 68380 Trige,rige,1.940.000,25-07-2013,Alm. Salg,17.636,4,Villa,110,1972,-3 %,Aktuel værdi
+Randersvej 5538380 Trige,rige,1.750.000,21-07-2013,Alm. Salg,12.773,5,Villa,137,1950,-3 %,Aktuel værdi
+Højgårdsparken 338380 Trige,rige,959.000,13-07-2013,Alm. Salg,5.641,6,Villa,170,1972,,Aktuel værdi
+Lergravvænget 208380 Trige,rige,2.250.000,12-07-2013,Alm. Salg,14.900,6,Villa,151,2000,-6 %,Aktuel værdi
+Vestermøllevej 28380 Trige,rige,1.565.000,09-07-2013,Alm. Salg,14.764,4,Rækkehus,106,2005,-2 %,Aktuel værdi
+Bærmosehøjen 538380 Trige,rige,522.368,03-07-2013,Alm. Salg,3.127,6,Villa,167,2014,,Aktuel værdi
+Hvidbjergvej 88380 Trige,rige,921.000,02-07-2013,Alm. Salg,7.427,4,Villa,124,1981,,Aktuel værdi
+Vestermøllevej 92C8380 Trige,rige,1.615.000,23-06-2013,Alm. Salg,16.150,3,Rækkehus,100,2005,-2 %,Aktuel værdi
+Søhøjparken 378380 Trige,rige,610.000,23-06-2013,Alm. Salg,3.674,4,Villa,166,2015,-6 %,Aktuel værdi
+Søhøjparken 278380 Trige,rige,590.000,22-06-2013,Alm. Salg,5.315,3,Villa,111,2013,0 %,Aktuel værdi
+Bjørnshøjvej 248380 Trige,rige,652.000,19-06-2013,Alm. Salg,4.317,5,Villa,151,1967,,Aktuel værdi
+Bærmosehøjen 218380 Trige,rige,536.448,18-06-2013,Alm. Salg,3.529,5,Villa,152,2014,,Aktuel værdi
+Elvej 28380 Trige,rige,1.850.000,11-06-2013,Alm. Salg,8.851,4,Stuehus,209,1880,-7 %,
+Gammel Landevej 788380 Trige,rige,1.715.000,03-06-2013,Alm. Salg,10.393,6,Villa,165,1972,,Aktuel værdi
+Mosegårdsparken 258380 Trige,rige,1.995.000,27-05-2013,Alm. Salg,14.352,4,Villa,139,2000,0 %,Aktuel værdi
+Vestermøllevej 2308380 Trige,rige,1.650.000,24-05-2013,Alm. Salg,8.048,7,Villa,205,1978,-4 %,Aktuel værdi
+Pannerupvej 108380 Trige,rige,2.514.000,20-05-2013,Alm. Salg,12.696,8,Stuehus,198,1900,-3 %,
+Bærmosehøjen 838380 Trige,rige,699.072,15-05-2013,Alm. Salg,4.660,5,Villa,150,2014,,Aktuel værdi
+Ladegårdsbakken 2A8380 Trige,rige,1.550.000,08-05-2013,Alm. Salg,10.763,5,Villa,144,1967,-9 %,Aktuel værdi
+Hæstvej 148380 Trige,rige,1.529.028,08-05-2013,Alm. Salg,8.542,5,Stuehus,179,1928,,
+Trige Møllevej 1208380 Trige,rige,1.495.000,16-04-2013,Alm. Salg,11.589,4,Villa,129,1977,0 %,Aktuel værdi
+Husumgårdvej 128380 Trige,rige,1.123.500,16-04-2013,Andet,6.809,6,Villa,165,2004,,Aktuel værdi
+Søhøjparken 358380 Trige,rige,545.000,10-04-2013,Alm. Salg,3.263,5,Villa,167,2013,-6 %,Aktuel værdi
+Bærmosehøjen 258380 Trige,rige,532.928,03-04-2013,Alm. Salg,3.506,5,Villa,152,2013,,Aktuel værdi
+Vestermøllevej 368380 Trige,rige,1.475.000,27-03-2013,Alm. Salg,14.460,4,Rækkehus,102,2005,-5 %,Aktuel værdi
+Vestermøllevej 1168380 Trige,rige,1.715.000,27-03-2013,Alm. Salg,17.500,3,Rækkehus,98,2005,-7 %,Aktuel værdi
+Holmkærvej 138B8380 Trige,rige,1.495.000,19-03-2013,Alm. Salg,16.611,3,Rækkehus,90,2004,-3 %,Aktuel værdi
+Elmebakken 38380 Trige,rige,1.450.000,14-03-2013,Fam. Salg,13.181,4,Villa,110,1973,,Aktuel værdi
+Østervang 248380 Trige,rige,866.396,12-03-2013,Alm. Salg,6.664,4,Villa,130,1965,,Aktuel værdi
+Vestermøllevej 968380 Trige,rige,1.658.000,22-02-2013,Alm. Salg,16.918,4,Rækkehus,98,2005,-2 %,Aktuel værdi
+Gartnerparken 798380 Trige,rige,1.675.000,05-02-2013,Alm. Salg,14.439,4,Rækkehus,116,2006,-6 %,Aktuel værdi
+Vestermøllevej 1108380 Trige,rige,850.620,22-01-2013,Alm. Salg,8.506,3,Rækkehus,100,2005,,Aktuel værdi
+Spørring Kirkevej 118380 Trige,rige,1.119.000,22-01-2013,Alm. Salg,6.993,4,Villa,160,1962,-10 %,Aktuel værdi
+Vestermøllevej 168380 Trige,rige,8.350.000,03-12-2012,Alm. Salg,111.333,3,Lejlighed,75,2005,,Aktuel værdi
+Holmkærvej 132B8380 Trige,rige,1.425.000,22-11-2012,Alm. Salg,15.833,3,Rækkehus,90,2003,-8 %,Aktuel værdi
+Gartnerparken 598380 Trige,rige,2.000.000,11-11-2012,Alm. Salg,15.873,4,Rækkehus,126,2006,-9 %,Aktuel værdi
+Ågade 28380 Trige,rige,1.750.000,05-11-2012,Alm. Salg,10.937,6,Villa,160,1877,-8 %,Aktuel værdi
+Vestermøllevej 1068380 Trige,rige,2.000.000,29-10-2012,Fam. Salg,20.000,3,Rækkehus,100,2005,,Aktuel værdi
+Bærmosehøjen 318380 Trige,rige,2.852.000,24-10-2012,Alm. Salg,19.013,6,Villa,150,2012,,Aktuel værdi
+Bærmosehøjen 298380 Trige,rige,2.393.244,16-10-2012,Alm. Salg,21.560,5,Villa,111,2013,,Aktuel værdi
+Bærmosehøjen 308380 Trige,rige,1.800.000,09-10-2012,Alm. Salg,11.250,5,Villa,160,1973,-10 %,Aktuel værdi
+Bærmosehøjen 198380 Trige,rige,533.632,12-09-2012,Alm. Salg,3.533,5,Villa,151,2013,,Aktuel værdi
+Smedetoften 68380 Trige,rige,1.700.000,11-09-2012,Alm. Salg,13.600,4,Villa,125,1964,-24 %,Aktuel værdi
+Søhøjparken 338380 Trige,rige,600.000,28-08-2012,Alm. Salg,3.208,5,Villa,187,2013,-3 %,Aktuel værdi
+Randersvej 5828380 Trige,rige,3.990.000,24-08-2012,Alm. Salg,35.625,5,Stuehus,112,1880,,
+Vestermøllevej 1148380 Trige,rige,1.795.000,17-08-2012,Alm. Salg,18.316,3,Rækkehus,98,2005,0 %,Aktuel værdi
+Søhøjparken 528380 Trige,rige,765.000,08-08-2012,Alm. Salg,3.400,6,Villa,225,2013,-4 %,Aktuel værdi
+Hvidbjergvej 68380 Trige,rige,625.000,03-08-2012,Alm. Salg,3.324,6,Villa,188,2017,-26 %,Aktuel værdi
+"Smedebroen 4, 28380 Trige",rige,950.000,12-07-2012,Alm. Salg,10.919,3,Lejlighed,87,1920,-5 %,Aktuel værdi
+Gammel Landevej 758380 Trige,rige,341.401,11-07-2012,Alm. Salg,2.147,6,Villa,159,2013,-2 %,Aktuel værdi
+Parallelvej 628380 Trige,rige,1.750.000,10-07-2012,Alm. Salg,7.743,7,Villa,226,2007,-61 %,Aktuel værdi
+Bærmosehøjen 818380 Trige,rige,780.000,04-07-2012,Alm. Salg,3.880,6,Villa,201,2015,0 %,Aktuel værdi
+Bogenhøjvej 28380 Trige,rige,1.725.000,31-05-2012,Alm. Salg,9.636,5,Villa,179,1863,-4 %,Aktuel værdi
+Hvidbjergvej 148380 Trige,rige,9.000.000,30-05-2012,Alm. Salg,70.312,5,Stuehus,128,1880,,
+Randersvej 5068380 Trige,rige,2.000.000,14-05-2012,Alm. Salg,16.666,5,Stuehus,120,1956,-9 %,
+Hæstvej 348380 Trige,rige,792.500,29-04-2012,Alm. Salg,4.215,7,Stuehus,188,1929,,
+Vestermøllevej 8A8380 Trige,rige,963.970,12-04-2012,Alm. Salg,12.852,3,Lejlighed,75,2005,,Aktuel værdi
+Vestermøllevej 8B8380 Trige,rige,963.970,12-04-2012,Alm. Salg,12.852,3,Lejlighed,75,2005,,Aktuel værdi
+Vestermøllevej 10A8380 Trige,rige,922.060,12-04-2012,Alm. Salg,12.630,3,Lejlighed,73,2005,,Aktuel værdi
+Vestermøllevej 10B8380 Trige,rige,922.060,12-04-2012,Alm. Salg,12.630,3,Lejlighed,73,2005,,Aktuel værdi
+Vestermøllevej 12A8380 Trige,rige,963.970,12-04-2012,Alm. Salg,12.852,3,Lejlighed,75,2005,,Aktuel værdi
+Vestermøllevej 12B8380 Trige,rige,963.970,12-04-2012,Alm. Salg,12.852,3,Lejlighed,75,2005,,Aktuel værdi
+Bærmosehøjen 858380 Trige,rige,2.204.000,12-04-2012,Alm. Salg,14.693,5,Villa,150,2012,-24 %,Aktuel værdi
+Bærmosehøjen 898380 Trige,rige,670.912,03-04-2012,Alm. Salg,4.017,5,Villa,167,2014,,Aktuel værdi
+Holmkærvej 748380 Trige,rige,1.325.000,13-03-2012,Alm. Salg,14.560,3,Rækkehus,91,1987,,Aktuel værdi
+Pannerupvej 88380 Trige,rige,1.892.000,12-03-2012,Alm. Salg,13.048,6,Villa,145,1968,0 %,Aktuel værdi
+Trige Møllevej 768380 Trige,rige,1.820.000,01-03-2012,Alm. Salg,12.380,5,Villa,147,1977,-4 %,Aktuel værdi
+Gartnerparken 778380 Trige,rige,1.955.000,28-02-2012,Alm. Salg,15.273,4,Rækkehus,128,2006,0 %,Aktuel værdi
+Gartnerparken 918380 Trige,rige,1.880.000,23-02-2012,Alm. Salg,16.347,4,Rækkehus,115,2006,-4 %,Aktuel værdi
+Gammel Landevej 49E8380 Trige,rige,1.225.000,20-02-2012,Alm. Salg,12.009,3,Rækkehus,102,2000,-6 %,Aktuel værdi
+Mosegårdsparken 198380 Trige,rige,2.625.000,24-01-2012,Alm. Salg,16.613,6,Villa,158,2005,-3 %,Aktuel værdi
+Holmkærvej 828380 Trige,rige,1.250.000,23-01-2012,Alm. Salg,13.736,3,Rækkehus,91,1987,-8 %,Aktuel værdi
+Trige Møllevej 2288380 Trige,rige,1.800.000,20-01-2012,Alm. Salg,8.571,7,Villa,210,1980,-10 %,Aktuel værdi
+Hjulgårdsvej 408380 Trige,rige,2.735.000,16-01-2012,Alm. Salg,16.088,5,Villa,170,2007,-3 %,Aktuel værdi
+Randersvej 5258380 Trige,rige,1.900.000,03-01-2012,Alm. Salg,21.111,3,Villa,90,1955,,Aktuel værdi
+Gartnerparken 758380 Trige,rige,2.045.000,28-12-2011,Alm. Salg,16.230,4,Rækkehus,126,2006,-7 %,Aktuel værdi
+Holmkærvej 808380 Trige,rige,1.165.000,14-12-2011,Alm. Salg,12.802,3,Rækkehus,91,1987,-10 %,Aktuel værdi
+Hornsbjergvej 158380 Trige,rige,1.600.000,30-11-2011,Alm. Salg,11.034,4,Stuehus,145,1877,-20 %,
+Ølstedvej 1078380 Trige,rige,2.820.000,27-11-2011,Alm. Salg,15.580,5,Stuehus,181,1910,-16 %,
+Søhøjparken 488380 Trige,rige,1.260.000,25-11-2011,Alm. Salg,7.590,5,Villa,166,2016,,Aktuel værdi
+Højgårdsparken 228380 Trige,rige,1.675.000,23-11-2011,Alm. Salg,10.468,4,Villa,160,1975,-5 %,Aktuel værdi
+"Bogenhøjvej 4, 1. 58380 Trige",rige,715.000,06-10-2011,Alm. Salg,11.171,3,Lejlighed,64,1977,-5 %,Aktuel værdi
+Holmkærvej 1108380 Trige,rige,1.375.000,03-10-2011,Alm. Salg,14.322,4,Rækkehus,96,1987,-4 %,Aktuel værdi
+Husumgårdvej 118380 Trige,rige,1.025.000,30-09-2011,Alm. Salg,11.388,4,Villa,90,1959,-5 %,Aktuel værdi
+Bærmosehøjen 278380 Trige,rige,526.080,13-09-2011,Alm. Salg,3.329,5,Villa,158,2012,,Aktuel værdi
+"Smedebroen 12A, 1. TV8380 Trige",rige,387.000,08-09-2011,Fam. Salg,9.923,1,Lejlighed,39,1911,,Aktuel værdi
+Holmkærvej 130A8380 Trige,rige,1.333.334,17-08-2011,Alm. Salg,14.492,3,Rækkehus,92,2003,,Aktuel værdi
+Holmkærvej 130B8380 Trige,rige,1.333.334,17-08-2011,Alm. Salg,14.814,3,Rækkehus,90,2003,,Aktuel værdi
+Holmkærvej 134B8380 Trige,rige,1.333.334,17-08-2011,Alm. Salg,14.814,3,Rækkehus,90,2003,,Aktuel værdi
+Holmkærvej 134C8380 Trige,rige,1.333.334,17-08-2011,Alm. Salg,14.492,4,Rækkehus,92,2003,,Aktuel værdi
+Holmkærvej 138C8380 Trige,rige,1.333.334,17-08-2011,Alm. Salg,14.492,3,Rækkehus,92,2004,,Aktuel værdi
+Holmkærvej 136A8380 Trige,rige,1.333.334,17-08-2011,Alm. Salg,14.492,3,Rækkehus,92,2004,,Aktuel værdi
+Husumgårdvej 78380 Trige,rige,690.000,09-08-2011,Alm. Salg,3.432,6,Villa,201,2012,,Aktuel værdi
+Bærmosehøjen 778380 Trige,rige,567.424,18-07-2011,Alm. Salg,3.224,5,Villa,176,2012,,Aktuel værdi
+Gammel Landevej 518380 Trige,rige,1.275.000,13-06-2011,Alm. Salg,9.586,4,Villa,133,1975,-7 %,Aktuel værdi
+Bærmosehøjen 878380 Trige,rige,625.856,31-05-2011,Alm. Salg,3.129,7,Villa,200,2012,,Aktuel værdi
+Erbækvej 208380 Trige,rige,1.503.305,26-05-2011,Alm. Salg,7.333,8,Stuehus,205,1912,,
+Trige Møllevej 2008380 Trige,rige,2.525.000,26-05-2011,Alm. Salg,14.027,7,Villa,180,1979,-3 %,Aktuel værdi
+Hæstvej 138380 Trige,rige,2.595.000,23-05-2011,Alm. Salg,9.829,5,Villa,264,2015,-12 %,Aktuel værdi
+Bjergagervej 28380 Trige,rige,950.000,16-05-2011,Fam. Salg,4.398,6,Villa,216,1970,,Aktuel værdi
+Gartnerparken 24C8380 Trige,rige,2.315.000,13-05-2011,Alm. Salg,13.945,4,Villa,166,1998,-7 %,Aktuel værdi
+Vestermøllevej 1048380 Trige,rige,1.895.000,10-05-2011,Alm. Salg,18.950,3,Rækkehus,100,2005,0 %,Aktuel værdi
+Bærmosehøjen 718380 Trige,rige,572.352,05-05-2011,Alm. Salg,3.815,4,Villa,150,2012,,Aktuel værdi
+Søhøjparken 468380 Trige,rige,900.000,05-05-2011,Alm. Salg,4.000,6,Villa,225,2013,-10 %,Aktuel værdi
+Trige Møllevej 1528380 Trige,rige,1.955.000,25-04-2011,Alm. Salg,13.120,6,Villa,149,1978,-2 %,Aktuel værdi
+Bærmosehøjen 698380 Trige,rige,514.624,11-04-2011,Alm. Salg,3.176,6,Villa,162,2011,,Aktuel værdi
+Trige Møllevej 1468380 Trige,rige,1.800.000,20-03-2011,Alm. Salg,13.740,4,Villa,131,1978,-3 %,Aktuel værdi
+Bjørnshøjvej 28380 Trige,rige,433.000,01-03-2011,Alm. Salg,3.866,4,Villa,112,1967,,Aktuel værdi
+Søhøjparken 328380 Trige,rige,490.000,16-02-2011,Alm. Salg,2.784,6,Villa,176,2013,0 %,Aktuel værdi
+Sognevejen 168380 Trige,rige,550.000,04-02-2011,Alm. Salg,3.985,5,Villa,138,1965,,Aktuel værdi
+Gammel Landevej 208380 Trige,rige,1.200.000,14-12-2010,Alm. Salg,8.633,5,Villa,139,1860,-7 %,Aktuel værdi
+Ågade 88380 Trige,rige,1.525.000,09-12-2010,Alm. Salg,13.990,4,Villa,109,1967,-3 %,Aktuel værdi
+Søhøjparken 288380 Trige,rige,490.000,01-12-2010,Alm. Salg,2.934,5,Villa,167,2011,0 %,Aktuel værdi
+Østermøllevej 178380 Trige,rige,3.200.000,30-11-2010,Auktion,29.090,4,Stuehus,110,1900,,
+Smedetoften 18380 Trige,rige,1.414.853,24-11-2010,Alm. Salg,9.690,4,Villa,146,1952,,Aktuel værdi
+Bærmosehøjen 108380 Trige,rige,2.195.000,12-11-2010,Alm. Salg,14.070,4,Villa,156,1972,0 %,Aktuel værdi
+Hjulgårdsvej 68380 Trige,rige,845.153,28-10-2010,Alm. Salg,4.225,5,Villa,200,1877,,Aktuel værdi
+Bærmosevej 98380 Trige,rige,1.611.000,27-10-2010,Fam. Salg,14.256,4,Villa,113,1987,,Aktuel værdi
+Ladegårdsbakken 188380 Trige,rige,1.759.000,25-10-2010,Alm. Salg,15.705,4,Villa,112,1969,-2 %,Aktuel værdi
+Lergravvænget 198380 Trige,rige,2.480.000,30-09-2010,Alm. Salg,18.370,5,Villa,135,2003,-4 %,Aktuel værdi
+Vestermøllevej 1228380 Trige,rige,1.595.000,30-09-2010,Alm. Salg,16.275,3,Rækkehus,98,2005,-3 %,Aktuel værdi
+Randersvej 5268380 Trige,rige,1.910.000,30-09-2010,Alm. Salg,11.104,7,Villa,172,1934,-1 %,Aktuel værdi
+Randersvej 5938380 Trige,rige,1.162.500,23-09-2010,Alm. Salg,10.287,3,Villa,113,1954,-9 %,Aktuel værdi
+Pannerupvej 188380 Trige,rige,825.000,21-09-2010,Alm. Salg,7.300,5,Stuehus,113,1876,,
+Bærmosevej 58380 Trige,rige,1.895.000,17-09-2010,Alm. Salg,17.385,4,Villa,109,1987,0 %,Aktuel værdi
+Østermøllevej 68380 Trige,rige,1.424.029,17-09-2010,Alm. Salg,7.615,5,Stuehus,187,1907,,
+Ølstedvej 1028380 Trige,rige,1.500.000,13-09-2010,Andet,9.316,4,Villa,161,1941,,Aktuel værdi
+Holmkærvej 1048380 Trige,rige,1.395.000,03-09-2010,Alm. Salg,14.531,4,Rækkehus,96,1986,0 %,Aktuel værdi
+Lergravvænget 28380 Trige,rige,2.150.000,31-08-2010,Alm. Salg,16.165,5,Villa,133,1997,-10 %,Aktuel værdi
+Bærmosehøjen 478380 Trige,rige,590.400,25-08-2010,Alm. Salg,3.784,5,Villa,156,2011,,Aktuel værdi
+Trige Møllevej 208380 Trige,rige,2.300.000,16-08-2010,Fam. Salg,12.777,7,Villa,180,1979,,Aktuel værdi
+Randersvej 5178380 Trige,rige,850.000,27-07-2010,Auktion,6.967,4,Villa,122,1945,,Aktuel værdi
+Sognevejen 18380 Trige,rige,1.550.000,29-06-2010,Alm. Salg,-,9,Stuehus,230,1910,,
+Hæstvej 228380 Trige,rige,2.000.000,29-06-2010,Alm. Salg,26.666,3,Stuehus,75,1928,-4 %,
+Bærmosehøjen 358380 Trige,rige,562.400,29-06-2010,Alm. Salg,3.582,4,Villa,157,2011,,Aktuel værdi
+Bærmosevej 178380 Trige,rige,1.038.459,27-06-2010,Alm. Salg,9.527,4,Villa,109,1986,,Aktuel værdi
+Trige Møllevej 1988380 Trige,rige,1.765.000,24-06-2010,Alm. Salg,14.467,4,Villa,122,1979,-2 %,Aktuel værdi
+Lergravvænget 68380 Trige,rige,2.388.814,08-06-2010,Auktion,16.474,5,Villa,145,2003,,Aktuel værdi
+Ågade 78380 Trige,rige,1.620.000,01-06-2010,Alm. Salg,16.039,4,Villa,101,1957,-4 %,Aktuel værdi
+Gammel Landevej 68380 Trige,rige,1.737.500,29-05-2010,Alm. Salg,10.101,6,Villa,172,1923,,Aktuel værdi
+Randersvej 5058380 Trige,rige,1.200.000,26-05-2010,Alm. Salg,16.666,3,Villa,72,1953,-14 %,Aktuel værdi
+Trige Møllevej 1368380 Trige,rige,1.600.000,23-05-2010,Alm. Salg,11.940,4,Villa,134,1978,-7 %,Aktuel værdi
+Bærmosehøjen 618380 Trige,rige,754.400,19-05-2010,Alm. Salg,3.476,7,Villa,217,2011,,Aktuel værdi
+Lergravvænget 58380 Trige,rige,1.099.000,11-05-2010,Andet,7.794,4,Villa,141,1999,,Aktuel værdi
+Bærmosehøjen 518380 Trige,rige,615.200,11-05-2010,Alm. Salg,3.774,5,Villa,163,2011,,Aktuel værdi
+Højgårdsparken 558380 Trige,rige,1.750.000,07-05-2010,Alm. Salg,12.962,4,Villa,135,1969,-3 %,Aktuel værdi
+Bærmosehøjen 498380 Trige,rige,590.400,04-05-2010,Alm. Salg,3.280,6,Villa,180,2011,,Aktuel værdi
+Østervang 278380 Trige,rige,1.650.000,15-04-2010,Alm. Salg,10.443,5,Villa,158,1979,-3 %,Aktuel værdi
+Vestermøllevej 2628380 Trige,rige,1.475.000,18-03-2010,Alm. Salg,11.090,4,Villa,133,1979,-9 %,Aktuel værdi
+Lergravvænget 168380 Trige,rige,2.210.000,01-03-2010,Alm. Salg,14.444,5,Villa,153,1999,,Aktuel værdi
+Ølstedvej 1058380 Trige,rige,900.000,17-02-2010,Alm. Salg,13.432,2,Villa,67,1958,,Aktuel værdi
+Sognevejen 48380 Trige,rige,7.650.000,11-02-2010,Fam. Salg,47.812,5,Stuehus,160,1872,,
+Vestermøllevej 2268380 Trige,rige,707.216,21-01-2010,Andet,6.371,4,Villa,111,1978,,Aktuel værdi
+Søhøjparken 258380 Trige,rige,550.000,18-01-2010,Alm. Salg,3.716,5,Villa,148,2010,0 %,Aktuel værdi
+Hjulgårdsvej 78380 Trige,rige,965.000,15-01-2010,Alm. Salg,15.317,4,Rækkehus,63,1884,-3 %,Aktuel værdi
+Randersvej 5348380 Trige,rige,4.800.000,15-01-2010,Alm. Salg,8.450,19,Stuehus,568,1876,-4 %,
+Parallelvej 648380 Trige,rige,2.025.000,20-11-2009,Alm. Salg,9.080,7,Villa,223,2007,,Aktuel værdi
+Holmkærvej 136C8380 Trige,rige,1.550.000,18-11-2009,Alm. Salg,17.032,4,Rækkehus,91,2004,,Aktuel værdi
+Lergravvænget 48380 Trige,rige,2.650.000,16-11-2009,Alm. Salg,15.406,6,Villa,172,1998,-3 %,Aktuel værdi
+Trige Møllevej 1128380 Trige,rige,1.337.000,28-10-2009,Alm. Salg,10.959,4,Villa,122,1977,-8 %,Aktuel værdi
+Randersvej 5098380 Trige,rige,864.013,27-10-2009,Alm. Salg,4.994,6,Villa,173,1898,,Aktuel værdi
+Hæstvej 118380 Trige,rige,1.300.000,27-10-2009,Alm. Salg,-,3,Stuehus,152,1929,-12 %,
+Vestermøllevej 2608380 Trige,rige,747.500,26-10-2009,Andet,6.127,4,Villa,122,1978,,Aktuel værdi
+Byhøjvej 78380 Trige,rige,1.500.000,06-10-2009,Auktion,7.978,6,Villa,188,1961,-14 %,Aktuel værdi
+Bærmosehøjen 438380 Trige,rige,670.400,25-09-2009,Alm. Salg,3.852,5,Villa,174,2010,,Aktuel værdi
+Søhøjparken 348380 Trige,rige,550.000,21-08-2009,Alm. Salg,3.642,5,Villa,151,2010,-21 %,Aktuel værdi
+Bogenhøjvej 18380 Trige,rige,1.623.000,20-08-2009,Alm. Salg,16.230,3,Villa,100,1885,-4 %,Aktuel værdi
+Holmkærvej 548380 Trige,rige,1.225.000,14-08-2009,Alm. Salg,13.461,3,Rækkehus,91,1987,-4 %,Aktuel værdi
+Gammel Landevej 49F8380 Trige,rige,1.600.000,03-08-2009,Alm. Salg,11.594,4,Villa,138,1975,-9 %,Aktuel værdi
+Kærhusevej 18380 Trige,rige,1.000.000,28-07-2009,Alm. Salg,10.000,3,Villa,100,1965,,Aktuel værdi
+Trige Møllevej 2648380 Trige,rige,1.025.000,28-05-2009,Fam. Salg,6.101,6,Villa,168,1979,-53 %,Aktuel værdi
+Lergravvænget 228380 Trige,rige,1.550.000,21-05-2009,Alm. Salg,-,4,Villa,123,1989,-3 %,Aktuel værdi
+Randersvej 5128380 Trige,rige,1.100.000,05-05-2009,Alm. Salg,8.730,4,Villa,126,1941,-15 %,Aktuel værdi
+Holmkærvej 1168380 Trige,rige,1.298.000,01-05-2009,Alm. Salg,13.520,4,Rækkehus,96,1986,0 %,Aktuel værdi
+Vestermøllevej 2728380 Trige,rige,1.700.000,13-04-2009,Alm. Salg,14.285,4,Villa,119,1979,-10 %,Aktuel værdi
+Østervang 258380 Trige,rige,2.200.000,12-04-2009,Alm. Salg,10.328,6,Villa,213,1972,-4 %,Aktuel værdi
+Søhøjparken 548380 Trige,rige,1.875.000,30-03-2009,Alm. Salg,11.094,8,Villa,169,1880,,Aktuel værdi
+Holmkærvej 1008380 Trige,rige,1.150.000,26-03-2009,Alm. Salg,12.637,3,Rækkehus,91,1987,-4 %,Aktuel værdi
+Smedebroen 12C8380 Trige,rige,1.220.000,22-03-2009,Alm. Salg,20.333,2,Lejlighed,60,1911,,Aktuel værdi
+Bærmosehøjen 578380 Trige,rige,616.800,12-01-2009,Alm. Salg,3.280,5,Villa,188,2009,,Aktuel værdi
+Ladegårdsbakken 248380 Trige,rige,1.335.000,20-12-2008,Alm. Salg,13.350,3,Villa,100,1968,-11 %,Aktuel værdi
+Trige Møllevej 2328380 Trige,rige,1.825.000,18-12-2008,Alm. Salg,-,7,Villa,162,1980,-4 %,Aktuel værdi
+Bjørnshøjvej 48380 Trige,rige,1.575.000,24-11-2008,Alm. Salg,11.666,4,Villa,135,1969,-7 %,Aktuel værdi
+Gammel Landevej 49A8380 Trige,rige,1.160.000,14-10-2008,Alm. Salg,13.975,2,Rækkehus,83,2000,-11 %,Aktuel værdi
+Høgemosevej 128380 Trige,rige,3.900.000,10-10-2008,Alm. Salg,24.840,4,Stuehus,157,1877,,
+Højgårdsparken 118380 Trige,rige,2.100.000,16-07-2008,Alm. Salg,10.880,8,Villa,193,1973,-4 %,Aktuel værdi
+Søhøjparken 428380 Trige,rige,812.500,08-07-2008,Alm. Salg,3.595,5,Villa,226,2010,-4 %,Aktuel værdi
+Gammel Landevej 328380 Trige,rige,2.398.000,05-07-2008,Alm. Salg,12.172,6,Villa,197,1852,0 %,Aktuel værdi
+Vestermøllevej 1088380 Trige,rige,1.800.000,23-06-2008,Alm. Salg,18.367,3,Rækkehus,98,2005,,Aktuel værdi
+Elmebakken 78380 Trige,rige,700.000,19-05-2008,Andet,-,6,Villa,168,1964,,Aktuel værdi
+Bærmosehøjen 168380 Trige,rige,2.400.000,18-05-2008,Alm. Salg,14.457,4,Villa,166,1972,,Aktuel værdi
+Holmkærvej 1028380 Trige,rige,1.550.000,18-05-2008,Alm. Salg,16.145,4,Rækkehus,96,1987,,Aktuel værdi
+Bærmosehøjen 658380 Trige,rige,710.102,23-04-2008,Alm. Salg,4.128,6,Villa,172,2009,,Aktuel værdi
+Erbækvej 268380 Trige,rige,3.000.000,17-04-2008,Alm. Salg,16.304,8,Stuehus,184,1910,0 %,
+Holmkærvej 508380 Trige,rige,1.510.000,16-04-2008,Alm. Salg,16.593,3,Rækkehus,91,1987,-5 %,Aktuel værdi
+Randersvej 5018380 Trige,rige,1.629.100,15-04-2008,Andet,14.166,3,Stuehus,115,1910,,
+Bærmosehøjen 458380 Trige,rige,730.001,14-04-2008,Alm. Salg,4.899,5,Villa,149,2009,,Aktuel værdi
+Hjulgårdsvej 268380 Trige,rige,1.060.000,06-04-2008,Alm. Salg,6.424,5,Villa,165,1872,-8 %,Aktuel værdi
+Gammel Landevej 738380 Trige,rige,1.275.000,05-04-2008,Alm. Salg,12.750,3,Villa,100,1965,-2 %,Aktuel værdi
+Højgårdsparken 38380 Trige,rige,1.849.000,31-03-2008,Alm. Salg,19.061,3,Villa,97,1998,0 %,Aktuel værdi
+Randersvej 5658380 Trige,rige,807.500,14-03-2008,Fam. Salg,2.915,9,Villa,277,1928,,Aktuel værdi
+Bærmosehøjen 398380 Trige,rige,746.002,10-03-2008,Alm. Salg,5.006,5,Villa,149,2008,,Aktuel værdi
+Hæstvej 298380 Trige,rige,2.300.000,20-02-2008,Alm. Salg,17.293,5,Stuehus,133,1929,,
+"Bogenhøjvej 4, ST. 18380 Trige",rige,750.000,15-02-2008,Alm. Salg,12.096,2,Lejlighed,62,1977,-6 %,Aktuel værdi
+Holmkærvej 968380 Trige,rige,1.110.000,05-12-2007,Fam. Salg,12.197,3,Rækkehus,91,1987,,Aktuel værdi
+Højgårdsparken 308380 Trige,rige,508.168,29-11-2007,Fam. Salg,4.306,4,Villa,118,1985,,Aktuel værdi
+Parallelvej 638380 Trige,rige,1.765.000,23-11-2007,Alm. Salg,14.831,4,Villa,119,1967,,Aktuel værdi
+Holmkærvej 528380 Trige,rige,1.420.000,22-11-2007,Alm. Salg,15.604,3,Rækkehus,91,1987,-8 %,Aktuel værdi
+Holmkærvej 648380 Trige,rige,1.105.000,22-11-2007,Fam. Salg,12.142,3,Rækkehus,91,1987,,Aktuel værdi
+Mosegårdsparken 398380 Trige,rige,2.700.000,22-10-2007,Alm. Salg,16.363,5,Villa,165,2007,,Aktuel værdi
+Lergravvænget 288380 Trige,rige,2.675.000,18-10-2007,Alm. Salg,16.718,5,Villa,160,1991,,Aktuel værdi
+Randersvej 5478380 Trige,rige,1.758.000,15-10-2007,Alm. Salg,18.903,3,Villa,93,1947,,Aktuel værdi
+Lergravvænget 248380 Trige,rige,2.495.000,30-08-2007,Alm. Salg,18.079,5,Villa,138,1996,,Aktuel værdi
+"Bogenhøjvej 4, 1. 68380 Trige",rige,745.000,14-08-2007,Alm. Salg,13.070,2,Lejlighed,57,1977,,Aktuel værdi
+Holmkærvej 568380 Trige,rige,1.540.000,19-07-2007,Alm. Salg,16.923,3,Rækkehus,91,1987,,Aktuel værdi
+Bærmosevej 158380 Trige,rige,1.750.000,13-07-2007,Alm. Salg,16.055,4,Villa,109,1986,,Aktuel værdi
+Kærhusevej 98380 Trige,rige,2.290.000,11-07-2007,Alm. Salg,22.019,4,Stuehus,104,1907,-8 %,
+Højgårdsparken 238380 Trige,rige,2.100.000,09-07-2007,Alm. Salg,15.909,5,Villa,132,1972,-8 %,Aktuel værdi
+Gartnerparken 308380 Trige,rige,904.048,14-06-2007,Alm. Salg,6.278,5,Villa,144,1977,,Aktuel værdi
+Randersvej 514E8380 Trige,rige,1.000.000,23-05-2007,Alm. Salg,6.535,6,Villa,153,2011,,Aktuel værdi
+Mosegårdsparken 438380 Trige,rige,2.478.000,15-05-2007,Alm. Salg,17.956,5,Villa,138,2008,,Aktuel værdi
+Mosegårdsparken 358380 Trige,rige,2.558.000,01-05-2007,Alm. Salg,17.763,4,Villa,144,2008,,Aktuel værdi
+Gammel Landevej 288380 Trige,rige,476.000,27-04-2007,Fam. Salg,4.958,3,Villa,96,1906,,Aktuel værdi
+Gammel Landevej 248380 Trige,rige,1.167.500,25-04-2007,Alm. Salg,9.415,4,Villa,124,1905,,Aktuel værdi
+Trige Skovvej 28380 Trige,rige,1.485.000,23-04-2007,Fam. Salg,9.580,5,Stuehus,155,1880,,
+Smedebroen 12B8380 Trige,rige,786.000,04-04-2007,Fam. Salg,17.863,1,Lejlighed,44,1911,,Aktuel værdi
+Estrupvej 28380 Trige,rige,2.050.000,08-03-2007,Alm. Salg,15.769,6,Villa,130,1877,,Aktuel værdi
+Gartnerparken 558380 Trige,rige,2.349.000,16-02-2007,Alm. Salg,18.642,4,Rækkehus,126,2006,,Aktuel værdi
+Pannerupvej 158380 Trige,rige,7.000.000,15-01-2007,Alm. Salg,43.750,5,Villa,160,2009,,Aktuel værdi
+Trige Møllevej 1388380 Trige,rige,2.575.000,05-01-2007,Alm. Salg,12.560,6,Villa,205,1978,,Aktuel værdi
+Gartnerparken 328380 Trige,rige,2.388.000,02-01-2007,Alm. Salg,16.583,4,Villa,144,1978,,Aktuel værdi
+Højgårdsparken 32B8380 Trige,rige,3.000.000,01-01-2007,Fam. Salg,13.636,6,Villa,220,2007,,Aktuel værdi
+Gartnerparken 518380 Trige,rige,2.635.000,15-12-2006,Alm. Salg,20.426,5,Villa,129,2006,,Aktuel værdi
+Hjulgårdsvej 248380 Trige,rige,2.050.000,12-12-2006,Alm. Salg,11.516,6,Villa,178,1969,,Aktuel værdi
+Trige Møllevej 368380 Trige,rige,1.700.000,24-11-2006,Alm. Salg,18.279,3,Villa,93,1976,,Aktuel værdi
+Gammel Landevej 348380 Trige,rige,1.535.000,17-11-2006,Alm. Salg,13.347,4,Villa,115,1867,,Aktuel værdi
+Høgemosevej 138380 Trige,rige,3.275.000,08-11-2006,Alm. Salg,27.291,4,Stuehus,120,1870,,
+Langagervej 98380 Trige,rige,1.280.000,09-10-2006,Alm. Salg,11.228,4,Villa,114,1974,,Aktuel værdi
+Peter Vilkens Vej 68380 Trige,rige,2.125.000,27-09-2006,Alm. Salg,15.178,4,Villa,140,1966,,Aktuel værdi
+Mosegårdsparken 338380 Trige,rige,705.100,21-09-2006,Alm. Salg,4.099,5,Villa,172,2009,,Aktuel værdi
+Mosegårdsparken 378380 Trige,rige,550.000,21-09-2006,Alm. Salg,3.333,5,Villa,165,2008,,Aktuel værdi
+Mosegårdsparken 418380 Trige,rige,656.555,21-09-2006,Alm. Salg,4.827,4,Villa,136,2007,,Aktuel værdi
+Mosegårdsparken 318380 Trige,rige,650.000,13-09-2006,Alm. Salg,3.939,5,Villa,165,2007,,Aktuel værdi
+Bjørnshøjvej 228380 Trige,rige,1.950.000,11-09-2006,Alm. Salg,-,5,Villa,233,1969,,Aktuel værdi
+Holmkærvej 132A8380 Trige,rige,1.695.000,29-08-2006,Alm. Salg,18.225,3,Rækkehus,93,2003,,Aktuel værdi
+Gartnerparken 498380 Trige,rige,3.200.000,27-08-2006,Alm. Salg,15.609,8,Villa,205,1981,,Aktuel værdi
+Holmkærvej 728380 Trige,rige,1.559.000,15-08-2006,Alm. Salg,17.131,3,Rækkehus,91,1987,,Aktuel værdi
+Vestermøllevej 2228380 Trige,rige,2.125.000,14-08-2006,Alm. Salg,16.221,4,Villa,131,1978,,Aktuel værdi
+Holmkærvej 608380 Trige,rige,1.565.000,07-08-2006,Alm. Salg,17.197,3,Rækkehus,91,1987,,Aktuel værdi
+Hedegårdsvej 48380 Trige,rige,2.800.000,01-08-2006,Alm. Salg,25.000,3,Stuehus,112,1917,,
+Trige Møllevej 1808380 Trige,rige,2.175.000,25-07-2006,Alm. Salg,9.931,7,Villa,219,1979,,Aktuel værdi
+Peter Vilkens Vej 58380 Trige,rige,2.000.000,13-07-2006,Alm. Salg,8.583,5,Villa,233,1970,,Aktuel værdi
+Mosegårdsparken 58380 Trige,rige,2.800.000,06-07-2006,Alm. Salg,17.500,5,Villa,160,2006,,Aktuel værdi
+Hornsbjergvej 38380 Trige,rige,3.000.000,29-06-2006,Alm. Salg,8.042,11,Villa,373,1917,,Aktuel værdi
+Vestermøllevej 1208380 Trige,rige,1.950.000,25-06-2006,Alm. Salg,19.500,4,Rækkehus,100,2005,,Aktuel værdi
+Mosegårdsparken 238380 Trige,rige,2.830.000,20-06-2006,Alm. Salg,16.549,5,Villa,171,2006,,Aktuel værdi
+Højgårdsparken 168380 Trige,rige,1.795.000,13-06-2006,Alm. Salg,13.807,5,Villa,130,1973,,Aktuel værdi
+Trige Møllevej 968380 Trige,rige,2.348.000,09-06-2006,Alm. Salg,15.972,6,Villa,147,1978,,Aktuel værdi
+Smedetoften 28380 Trige,rige,2.210.000,05-05-2006,Alm. Salg,11.570,5,Villa,191,1905,,Aktuel værdi
+Vestermøllevej 2648380 Trige,rige,2.198.000,26-04-2006,Alm. Salg,14.952,6,Villa,147,1978,,Aktuel værdi
+Risvangsvej 48380 Trige,rige,658.750,20-04-2006,Fam. Salg,3.310,6,Villa,199,1900,,Aktuel værdi
+Høgemosevej 78380 Trige,rige,1.575.000,05-04-2006,Alm. Salg,13.815,3,Villa,114,1964,,Aktuel værdi
+Trige Møllevej 848380 Trige,rige,1.620.000,30-03-2006,Alm. Salg,14.594,4,Villa,111,1977,,Aktuel værdi
+Doktorbakken 88380 Trige,rige,2.000.012,27-03-2006,Alm. Salg,10.000,7,Villa,200,1935,,Aktuel værdi
+Trige Møllevej 928380 Trige,rige,2.198.000,19-03-2006,Alm. Salg,17.038,4,Villa,129,1977,,Aktuel værdi
+Randersvej 510B8380 Trige,rige,2.995.000,16-03-2006,Alm. Salg,17.212,6,Villa,174,2003,,Aktuel værdi
+Gartnerparken 838380 Trige,rige,1.648.000,08-03-2006,Alm. Salg,14.330,4,Rækkehus,115,2006,,Aktuel værdi
+Parallelvej 618380 Trige,rige,1.050.000,04-03-2006,Fam. Salg,10.396,4,Villa,101,1969,,Aktuel værdi
+Gammel Landevej 49C8380 Trige,rige,1.499.000,03-03-2006,Alm. Salg,14.990,3,Rækkehus,100,2000,,Aktuel værdi
+Mosegårdsparken 218380 Trige,rige,2.295.000,02-03-2006,Alm. Salg,14.617,5,Villa,157,2006,,Aktuel værdi
+Smedebroen 108380 Trige,rige,1.615.000,27-02-2006,Alm. Salg,15.833,4,Villa,102,1900,,Aktuel værdi
+Gartnerparken 958380 Trige,rige,1.648.000,17-02-2006,Andet,14.206,4,Rækkehus,116,2006,,Aktuel værdi
+Højgårdsparken 348380 Trige,rige,1.680.000,16-02-2006,Alm. Salg,11.666,4,Villa,144,1957,,Aktuel værdi
+Hjulgårdsvej 98380 Trige,rige,1.399.000,11-02-2006,Alm. Salg,15.373,3,Villa,91,1877,,Aktuel værdi
+Vestermøllevej 2148380 Trige,rige,1.695.000,30-01-2006,Alm. Salg,16.142,4,Villa,105,1979,,Aktuel værdi
+Erbækvej 218380 Trige,rige,1.570.000,26-01-2006,Fam. Salg,19.625,3,Stuehus,80,1917,,
+Trige Møllevej 2368380 Trige,rige,1.848.000,28-12-2005,Alm. Salg,15.147,4,Villa,122,1980,,Aktuel værdi
+Gartnerparken 678380 Trige,rige,1.795.000,28-12-2005,Alm. Salg,14.246,4,Rækkehus,126,2006,,Aktuel værdi
+Høgemosevej 168380 Trige,rige,1.255.000,19-12-2005,Alm. Salg,12.550,4,Villa,100,1877,,Aktuel værdi
+Mosegårdsparken 18380 Trige,rige,743.767,18-12-2005,Andet,5.274,4,Villa,141,2000,,Aktuel værdi
+Gartnerparken 658380 Trige,rige,1.795.000,16-12-2005,Alm. Salg,14.246,4,Rækkehus,126,2006,,Aktuel værdi
+Lergravvænget 158380 Trige,rige,2.198.000,14-12-2005,Alm. Salg,17.171,5,Villa,128,1999,,Aktuel værdi
+Randersvej 5868380 Trige,rige,1.300.000,12-12-2005,Alm. Salg,10.655,4,Villa,122,1948,,Aktuel værdi
+Højgårdsparken 498380 Trige,rige,1.895.000,12-12-2005,Alm. Salg,11.279,6,Villa,168,1974,,Aktuel værdi
+Holmkærvej 1148380 Trige,rige,1.310.000,07-12-2005,Alm. Salg,13.645,4,Rækkehus,96,1987,,Aktuel værdi
+Hæstvej 20A8380 Trige,rige,1.125.000,30-11-2005,Alm. Salg,3.289,6,Stuehus,342,1969,,
+Høgemosevej 88380 Trige,rige,2.050.000,28-11-2005,Alm. Salg,14.642,7,Stuehus,140,1870,,
+Gartnerparken 638380 Trige,rige,1.795.000,25-11-2005,Alm. Salg,14.133,4,Rækkehus,127,2006,,Aktuel værdi
+Vestermøllevej 448380 Trige,rige,1.445.000,23-11-2005,Alm. Salg,13.632,4,Rækkehus,106,2005,,Aktuel værdi
+Vestermøllevej 408380 Trige,rige,1.445.000,17-11-2005,Alm. Salg,14.166,4,Rækkehus,102,2005,,Aktuel værdi
+Erbækvej 148380 Trige,rige,2.800.000,01-11-2005,Alm. Salg,-,9,Stuehus,290,1882,,
+Hæstvej 448380 Trige,rige,2.500.000,24-10-2005,Alm. Salg,13.157,3,Stuehus,190,1929,,
+Parallelvej 608380 Trige,rige,3.075.000,13-10-2005,Alm. Salg,13.427,6,Villa,229,2001,,Aktuel værdi
+Gartnerparken 618380 Trige,rige,1.795.000,03-10-2005,Alm. Salg,14.023,4,Rækkehus,128,2006,,Aktuel værdi
+Gartnerparken 538380 Trige,rige,1.795.000,27-09-2005,Alm. Salg,14.133,4,Rækkehus,127,2006,,Aktuel værdi
+Hjulgårdsvej 208380 Trige,rige,1.450.000,16-09-2005,Alm. Salg,13.302,4,Rækkehus,109,1904,,Aktuel værdi
+Højgårdsparken 138380 Trige,rige,1.795.000,15-09-2005,Alm. Salg,11.218,5,Villa,160,1971,,Aktuel værdi
+Højgårdsparken 618380 Trige,rige,1.630.000,09-09-2005,Alm. Salg,11.985,5,Villa,136,1974,,Aktuel værdi
+Vestermøllevej 1248380 Trige,rige,1.425.000,31-08-2005,Alm. Salg,14.250,3,Rækkehus,100,2005,,Aktuel værdi
+Vestermøllevej 68380 Trige,rige,1.445.000,30-08-2005,Alm. Salg,13.632,4,Rækkehus,106,2005,,Aktuel værdi
+Højgårdsparken 218380 Trige,rige,1.665.650,28-08-2005,Alm. Salg,11.567,5,Villa,144,1972,,Aktuel værdi
+Gammel Landevej 18B8380 Trige,rige,1.288.000,28-08-2005,Alm. Salg,11.200,4,Villa,115,1984,,Aktuel værdi
+Vestermøllevej 48380 Trige,rige,1.445.000,22-08-2005,Alm. Salg,14.166,4,Rækkehus,102,2005,,Aktuel værdi
+Vestermøllevej 328380 Trige,rige,1.445.000,22-08-2005,Alm. Salg,14.166,4,Rækkehus,102,2005,,Aktuel værdi
+Holmkærvej 708380 Trige,rige,1.225.000,16-08-2005,Alm. Salg,13.461,3,Rækkehus,91,1987,,Aktuel værdi
+Bærmosehøjen 188380 Trige,rige,1.698.000,12-08-2005,Alm. Salg,13.162,3,Villa,129,1974,,Aktuel værdi
+Gammel Landevej 428380 Trige,rige,1.800.000,09-08-2005,Alm. Salg,8.530,8,Villa,211,1796,,Aktuel værdi
+Vestermøllevej 1008380 Trige,rige,1.425.000,02-07-2005,Alm. Salg,14.250,3,Rækkehus,100,2005,,Aktuel værdi
+Vestermøllevej 92B8380 Trige,rige,1.425.000,25-06-2005,Alm. Salg,14.540,3,Rækkehus,98,2005,,Aktuel værdi
+Vestermøllevej 92A8380 Trige,rige,1.425.000,19-06-2005,Alm. Salg,14.250,3,Rækkehus,100,2005,,Aktuel værdi
+Vestermøllevej 1188380 Trige,rige,1.425.000,15-06-2005,Alm. Salg,14.250,3,Rækkehus,100,2005,,Aktuel værdi
+Trige Møllevej 828380 Trige,rige,1.450.000,08-06-2005,Alm. Salg,13.063,4,Villa,111,1976,,Aktuel værdi
+Vestermøllevej 1128380 Trige,rige,1.425.000,08-06-2005,Alm. Salg,14.250,3,Rækkehus,100,2005,,Aktuel værdi
+Vestermøllevej 948380 Trige,rige,1.425.000,24-05-2005,Alm. Salg,14.250,3,Rækkehus,100,2005,,Aktuel værdi
+Hæstvej 328380 Trige,rige,765.000,13-05-2005,Fam. Salg,5.884,5,Villa,130,1964,,Aktuel værdi
+Trige Møllevej 1348380 Trige,rige,1.570.000,04-05-2005,Alm. Salg,11.716,5,Villa,134,1978,,Aktuel værdi
+Hvidbjergvej 38380 Trige,rige,2.280.000,29-04-2005,Alm. Salg,10.133,8,Villa,225,1897,,Aktuel værdi
+Vestermøllevej 2068380 Trige,rige,650.000,29-04-2005,Andet,6.190,4,Villa,105,1979,,Aktuel værdi
+Høgemosevej 19B8380 Trige,rige,360.000,29-04-2005,Alm. Salg,2.168,5,Villa,166,2009,,Aktuel værdi
+Pannerupvej 38380 Trige,rige,1.525.000,28-04-2005,Alm. Salg,7.587,7,Villa,201,1962,,Aktuel værdi
+Mosegårdsparken 278380 Trige,rige,1.812.500,26-04-2005,Alm. Salg,13.039,5,Villa,139,2005,,Aktuel værdi
+Hvidbjergvej 1B8380 Trige,rige,2.098.000,21-04-2005,Alm. Salg,9.450,6,Villa,222,1976,,Aktuel værdi
+Spørring Møllevej 18380 Trige,rige,1.620.000,21-04-2005,Alm. Salg,8.019,5,Villa,202,1852,,Aktuel værdi
+Mosegårdsparken 38380 Trige,rige,1.978.000,19-04-2005,Alm. Salg,11.773,5,Villa,168,2005,,Aktuel værdi
+Spørring Kirkevej 78380 Trige,rige,484.285,28-02-2005,Alm. Salg,3.294,6,Villa,147,1912,,Aktuel værdi
+Lergravvænget 368380 Trige,rige,2.010.000,17-02-2005,Alm. Salg,14.357,4,Villa,140,1997,,Aktuel værdi
+Gammel Landevej 49B8380 Trige,rige,975.000,17-02-2005,Alm. Salg,11.890,2,Rækkehus,82,2000,,Aktuel værdi
+Højgårdsparken 88380 Trige,rige,1.425.000,31-01-2005,Alm. Salg,12.837,4,Villa,111,1973,,Aktuel værdi
+Randersvej 5698380 Trige,rige,650.000,23-01-2005,Alm. Salg,-,7,Stuehus,181,1885,,
+Østervang 188380 Trige,rige,1.162.000,17-01-2005,Alm. Salg,9.447,5,Villa,123,1965,,Aktuel værdi
+Højgårdsparken 12A8380 Trige,rige,437.000,10-12-2004,Andet,3.387,4,Villa,129,1877,,Aktuel værdi
+Trige Møllevej 1588380 Trige,rige,1.325.000,03-11-2004,Alm. Salg,10.860,4,Villa,122,1978,,Aktuel værdi
+Lergravvænget 178380 Trige,rige,1.455.000,22-10-2004,Alm. Salg,13.472,4,Villa,108,1999,,Aktuel værdi
+Holmkærvej 768380 Trige,rige,1.095.000,22-10-2004,Alm. Salg,12.032,3,Rækkehus,91,1987,,Aktuel værdi
+Ågade 108380 Trige,rige,1.300.000,04-10-2004,Alm. Salg,7.738,7,Villa,168,1965,,Aktuel værdi
+Østervang 218380 Trige,rige,1.285.000,01-10-2004,Alm. Salg,7.603,7,Villa,169,1969,,Aktuel værdi
+Gammel Landevej 538380 Trige,rige,1.338.000,09-09-2004,Alm. Salg,10.292,4,Villa,130,1972,,Aktuel værdi
+Mosegårdsparken 298380 Trige,rige,287.600,07-09-2004,Alm. Salg,1.563,6,Villa,184,2005,,Aktuel værdi
+Smedebroen 88380 Trige,rige,1.139.000,02-09-2004,Alm. Salg,10.546,4,Villa,108,1932,,Aktuel værdi
+Randersvej 5558380 Trige,rige,1.170.000,18-08-2004,Alm. Salg,13.146,4,Villa,89,1945,,Aktuel værdi
+Mosegårdsparken 158380 Trige,rige,335.866,26-07-2004,Alm. Salg,1.835,6,Villa,183,2005,,Aktuel værdi
+Gammel Landevej 388380 Trige,rige,1.547.000,09-07-2004,Alm. Salg,8.057,7,Villa,192,1872,,Aktuel værdi
+Vestermøllevej 2188380 Trige,rige,1.485.000,29-06-2004,Alm. Salg,13.258,4,Villa,112,1978,,Aktuel værdi
+Østervang 38380 Trige,rige,2.825.000,17-06-2004,Fam. Salg,16.815,4,Stuehus,168,1800,,
+Østervang 118380 Trige,rige,1.100.000,17-06-2004,Fam. Salg,10.185,4,Villa,108,1967,,Aktuel værdi
+Bærmosevej 118380 Trige,rige,1.315.000,27-05-2004,Alm. Salg,12.064,4,Villa,109,1987,,Aktuel værdi
+Højgårdsparken 418380 Trige,rige,1.000.000,13-05-2004,Fam. Salg,7.575,4,Villa,132,1973,,Aktuel værdi
+Trige Møllevej 1188380 Trige,rige,1.174.006,03-05-2004,Alm. Salg,10.120,5,Villa,116,1977,,Aktuel værdi
+Husumgårdvej 108380 Trige,rige,275.000,03-05-2004,Alm. Salg,1.636,6,Villa,168,2005,,Aktuel værdi
+Ladegårdsbakken 148380 Trige,rige,1.270.000,26-04-2004,Alm. Salg,10.079,5,Villa,126,1966,,Aktuel værdi
+Mosegårdsparken 98380 Trige,rige,296.400,31-03-2004,Alm. Salg,2.002,4,Villa,148,2004,,Aktuel værdi
+Gammel Landevej 178380 Trige,rige,1.390.000,15-03-2004,Alm. Salg,9.720,4,Villa,143,1928,,Aktuel værdi
+Gammel Landevej 78380 Trige,rige,1.137.799,04-03-2004,Alm. Salg,15.802,4,Villa,72,1941,,Aktuel værdi
+Gammel Landevej 258380 Trige,rige,670.000,20-02-2004,Alm. Salg,4.652,6,Villa,144,1890,,Aktuel værdi
+Mosegårdsvangen 348380 Trige,rige,786.869,17-02-2004,Fam. Salg,6.612,6,Stuehus,119,1872,,
+Høgemosevej 148380 Trige,rige,1.768.000,19-01-2004,Alm. Salg,8.223,7,Stuehus,215,1866,,
+Lergravvænget 98380 Trige,rige,1.698.000,05-01-2004,Alm. Salg,10.417,5,Villa,163,1997,,Aktuel værdi
+Randersvej 5238380 Trige,rige,1.285.000,30-12-2003,Alm. Salg,9.589,5,Villa,134,1954,,Aktuel værdi
+Husumgårdvej 98380 Trige,rige,1.125.000,16-12-2003,Alm. Salg,-,6,Villa,170,1983,,Aktuel værdi
+Østervang 168380 Trige,rige,1.275.000,13-12-2003,Alm. Salg,7.968,6,Villa,160,1965,,Aktuel værdi
+Hvidbjergvej 168380 Trige,rige,640.000,04-11-2003,Alm. Salg,5.470,4,Villa,117,2007,,Aktuel værdi
+Trige Møllevej 48380 Trige,rige,1.050.000,08-10-2003,Alm. Salg,8.536,4,Villa,123,1978,,Aktuel værdi
+Holmkærvej 928380 Trige,rige,1.000.000,02-10-2003,Alm. Salg,10.989,3,Rækkehus,91,1987,,Aktuel værdi
+Gammel Landevej 18380 Trige,rige,1.230.000,01-10-2003,Alm. Salg,9.318,5,Villa,132,1949,,Aktuel værdi
+Høgemosevej 258380 Trige,rige,670.000,30-09-2003,Alm. Salg,7.613,3,Villa,88,1958,,Aktuel værdi
+Holmkærvej 908380 Trige,rige,965.000,27-08-2003,Alm. Salg,10.604,3,Rækkehus,91,1987,,Aktuel værdi
+Peter Vilkens Vej 18380 Trige,rige,1.164.516,14-08-2003,Alm. Salg,8.957,4,Villa,130,1970,,Aktuel værdi
+Ølstedvej 1018380 Trige,rige,1.150.000,01-08-2003,Alm. Salg,-,5,Villa,192,1880,,Aktuel værdi
+Gammel Landevej 28380 Trige,rige,1.038.000,21-07-2003,Alm. Salg,7.804,5,Villa,133,1952,,Aktuel værdi
+Østervang 238380 Trige,rige,1.239.000,11-07-2003,Alm. Salg,8.428,5,Villa,147,1969,,Aktuel værdi
+Hjulgårdsvej 218380 Trige,rige,1.250.000,27-06-2003,Fam. Salg,-,8,Stuehus,232,1872,,
+Gartnerparken 108380 Trige,rige,1.134.293,15-05-2003,Alm. Salg,9.002,4,Villa,126,1965,,Aktuel værdi
+Østervang 58380 Trige,rige,1.099.000,14-05-2003,Alm. Salg,9.158,4,Villa,120,1975,,Aktuel værdi
+Østervang 128380 Trige,rige,1.098.000,14-05-2003,Alm. Salg,7.956,6,Villa,138,1964,,Aktuel værdi
+Randersvej 5108380 Trige,rige,146.472,08-04-2003,Fam. Salg,1.118,4,Villa,131,1935,,Aktuel værdi
+Bærmosehøjen 348380 Trige,rige,1.222.500,13-02-2003,Alm. Salg,10.020,5,Villa,122,1972,,Aktuel værdi
+Trige Møllevej 388380 Trige,rige,1.111.200,14-01-2003,Alm. Salg,9.108,4,Villa,122,1977,,Aktuel værdi
+Randersvej 5318380 Trige,rige,1.225.000,07-01-2003,Alm. Salg,8.333,4,Villa,147,1931,,Aktuel værdi
+Ågade 68380 Trige,rige,1.140.000,24-10-2002,Alm. Salg,-,6,Villa,196,1877,,Aktuel værdi
+Højgårdsparken 24B8380 Trige,rige,1.079.000,18-10-2002,Alm. Salg,-,9,Villa,271,1974,,Aktuel værdi
+Røvedvej 18380 Trige,rige,4.325.000,17-10-2002,Alm. Salg,12.910,4,Stuehus,335,1887,,
+Højgårdsparken 538380 Trige,rige,1.098.000,10-10-2002,Alm. Salg,8.511,4,Villa,129,1971,,Aktuel værdi
+Østermøllevej 78380 Trige,rige,1.394.003,30-09-2002,Alm. Salg,8.011,6,Villa,174,1957,,Aktuel værdi
+Husumgårdvej 88380 Trige,rige,165.000,27-09-2002,Alm. Salg,873,6,Villa,189,2003,,Aktuel værdi
+Trige Møllevej 888380 Trige,rige,875.000,25-09-2002,Alm. Salg,7.812,4,Villa,112,1976,,Aktuel værdi
+Randersvej 5358380 Trige,rige,1.125.000,23-08-2002,Alm. Salg,-,5,Stuehus,227,1907,,
+Højgårdsparken 78380 Trige,rige,1.052.936,31-07-2002,Alm. Salg,-,7,Villa,158,1972,,Aktuel værdi
+Gartnerparken 68380 Trige,rige,1.115.000,14-07-2002,Alm. Salg,7.797,5,Villa,143,1966,,Aktuel værdi
+"Bogenhøjvej 4, ST. 38380 Trige",rige,450.000,12-07-2002,Alm. Salg,7.258,2,Lejlighed,62,1977,,Aktuel værdi
+Hæstvej 368380 Trige,rige,679.524,27-06-2002,Andet,-,5,Stuehus,152,1928,,
+Knoldevej 38380 Trige,rige,816.000,21-06-2002,Fam. Salg,6.743,5,Stuehus,121,1925,,
+Højgårdsparken 148380 Trige,rige,1.145.000,03-06-2002,Alm. Salg,-,6,Villa,190,1972,,Aktuel værdi
+Peter Vilkens Vej 148380 Trige,rige,1.338.436,30-05-2002,Alm. Salg,8.579,5,Villa,156,1978,,Aktuel værdi
+Røvedvej 38380 Trige,rige,2.146.348,23-05-2002,Alm. Salg,6.645,15,Stuehus,323,1880,,
+Hvidbjergvej 1A8380 Trige,rige,140.000,07-04-2002,Alm. Salg,979,5,Villa,143,2003,,Aktuel værdi
+Byhøjvej 38380 Trige,rige,400.000,25-03-2002,Andet,-,5,Villa,136,1956,,Aktuel værdi
+Højgårdsparken 388380 Trige,rige,569.488,07-03-2002,Alm. Salg,11.389,2,Villa,50,1951,,Aktuel værdi
+Hvidbjergvej 228380 Trige,rige,779.478,24-02-2002,Alm. Salg,4.639,4,Villa,168,1827,,Aktuel værdi
+Smedetoften 48380 Trige,rige,898.000,11-02-2002,Alm. Salg,4.628,5,Villa,194,1965,,Aktuel værdi
+Risvangsvej 18380 Trige,rige,1.900.000,11-02-2002,Alm. Salg,6.666,6,Stuehus,285,1910,,
+Risvangsvej 38380 Trige,rige,200.000,27-12-2001,Alm. Salg,-,5,Villa,153,2003,,Aktuel værdi
+Højgårdsparken 288380 Trige,rige,800.000,04-12-2001,Alm. Salg,6.666,4,Villa,120,1950,,Aktuel værdi
+Trige Møllevej 1228380 Trige,rige,1.298.000,01-11-2001,Alm. Salg,8.215,5,Villa,158,1977,,Aktuel værdi
+Østermøllevej 138380 Trige,rige,1.548.000,29-10-2001,Alm. Salg,9.381,9,Villa,165,1970,,Aktuel værdi
+Østermøllevej 198380 Trige,rige,685.000,15-10-2001,Alm. Salg,-,4,Villa,121,1860,,Aktuel værdi
+Hjulgårdsvej 58380 Trige,rige,825.000,31-08-2001,Alm. Salg,10.443,4,Rækkehus,79,1858,,Aktuel værdi
+Peter Vilkens Vej 168380 Trige,rige,1.125.000,16-08-2001,Alm. Salg,5.859,6,Villa,192,1968,,Aktuel værdi
+Mosegårdsparken 138380 Trige,rige,321.200,08-08-2001,Alm. Salg,2.793,2,Villa,115,2002,,Aktuel værdi
+Trige Møllevej 268380 Trige,rige,1.069.121,07-08-2001,Alm. Salg,7.636,5,Villa,140,1976,,Aktuel værdi
+Erbækvej 108380 Trige,rige,800.000,30-07-2001,Alm. Salg,3.493,7,Stuehus,229,1928,,
+Hjulgårdsvej 148380 Trige,rige,770.001,18-07-2001,Alm. Salg,12.833,2,Rækkehus,60,1877,,Aktuel værdi
+Peter Vilkens Vej 128380 Trige,rige,795.000,21-06-2001,Alm. Salg,7.500,4,Villa,106,1967,,Aktuel værdi
+Pannerupvej 28380 Trige,rige,1.123.999,15-06-2001,Alm. Salg,9.366,5,Villa,120,1935,,Aktuel værdi
+Gartnerparken 128380 Trige,rige,1.040.000,07-06-2001,Alm. Salg,8.320,4,Villa,125,1967,,Aktuel værdi
+Erbækvej 88380 Trige,rige,1.210.000,23-05-2001,Alm. Salg,7.857,4,Stuehus,154,1927,,
+Pannerupvej 18380 Trige,rige,722.000,14-05-2001,Alm. Salg,-,6,Villa,196,1962,,Aktuel værdi
+Østervang 388380 Trige,rige,800.000,23-04-2001,Alm. Salg,4.678,8,Stuehus,171,1900,,
+Kærhusevej 118380 Trige,rige,920.000,06-04-2001,Alm. Salg,-,7,Stuehus,259,1890,,
+Bærmosehøjen 288380 Trige,rige,1.125.000,15-02-2001,Alm. Salg,7.867,5,Villa,143,1972,,Aktuel værdi
+Randersvej 5248380 Trige,rige,1.078.000,15-01-2001,Alm. Salg,6.022,6,Villa,179,1933,,Aktuel værdi
+Trige Møllevej 1068380 Trige,rige,760.000,18-12-2000,Alm. Salg,6.846,4,Villa,111,1977,,Aktuel værdi
+Hæstvej 548380 Trige,rige,1.306.800,01-12-2000,Alm. Salg,-,6,Villa,205,1928,,Aktuel værdi
+Hjulgårdsvej 38380 Trige,rige,614.264,22-11-2000,Alm. Salg,11.168,3,Rækkehus,55,1877,,Aktuel værdi
+Gammel Landevej 488380 Trige,rige,332.319,11-11-2000,Fam. Salg,-,8,Villa,205,1863,,Aktuel værdi
+Østervang 68380 Trige,rige,1.385.000,06-11-2000,Alm. Salg,7.914,5,Villa,175,1930,,Aktuel værdi
+Bjørnshøjvej 88380 Trige,rige,500.000,11-10-2000,Fam. Salg,4.132,5,Villa,121,1909,,Aktuel værdi
+Lergravvej 68380 Trige,rige,1.706.025,28-09-2000,Alm. Salg,17.771,5,Stuehus,96,1947,,
+Vestermøllevej 2328380 Trige,rige,1.195.000,27-09-2000,Alm. Salg,8.020,6,Villa,149,1978,,Aktuel værdi
+Lergravvænget 328380 Trige,rige,1.350.000,24-09-2000,Alm. Salg,8.231,5,Villa,164,1996,,Aktuel værdi
+Bærmosehøjen 128380 Trige,rige,1.200.000,03-09-2000,Alm. Salg,8.333,5,Villa,144,1972,,Aktuel værdi
+Nyvangs Allé 18380 Trige,rige,7.250.000,11-08-2000,Alm. Salg,77.956,4,Stuehus,93,1900,,
+Hæstvej 178380 Trige,rige,365.000,29-06-2000,Alm. Salg,1.972,7,Stuehus,185,1928,,
+Trige Møllevej 788380 Trige,rige,960.000,26-06-2000,Alm. Salg,8.571,4,Villa,112,1977,,Aktuel værdi
+Trige Møllevej 1548380 Trige,rige,1.314.050,13-06-2000,Alm. Salg,7.102,6,Villa,185,1978,,Aktuel værdi
+Bogenhøjvej 58380 Trige,rige,350.000,12-05-2000,Alm. Salg,4.117,3,Villa,85,1960,,Aktuel værdi
+Bærmosevej 78380 Trige,rige,1.064.968,16-03-2000,Alm. Salg,9.770,4,Villa,109,1987,,Aktuel værdi
+Resengårdsvej 18380 Trige,rige,1.089.417,24-02-2000,Alm. Salg,-,6,Villa,184,1900,,Aktuel værdi
+Vestermøllevej 2448380 Trige,rige,1.049.579,18-02-2000,Alm. Salg,8.746,4,Villa,120,1979,,Aktuel værdi
+Randersvej 5198380 Trige,rige,866.000,29-12-1999,Alm. Salg,8.660,3,Villa,100,1946,,Aktuel værdi
+Høgemosevej 38380 Trige,rige,1.585.000,21-12-1999,Fam. Salg,8.614,5,Stuehus,184,1933,,
+Mosegårdsparken 118380 Trige,rige,296.400,13-12-1999,Alm. Salg,2.102,4,Villa,141,2005,,Aktuel værdi
+Gammel Landevej 49D8380 Trige,rige,935.581,09-12-1999,Alm. Salg,9.355,3,Rækkehus,100,1999,,Aktuel værdi
+Østervang 308380 Trige,rige,949.080,24-11-1999,Alm. Salg,7.592,5,Villa,125,1965,,Aktuel værdi
+Østermøllevej 118380 Trige,rige,1.215.000,06-11-1999,Alm. Salg,9.720,4,Villa,125,1967,,Aktuel værdi
+Sognevejen 188380 Trige,rige,2.200.000,18-10-1999,Alm. Salg,15.068,6,Stuehus,146,1900,,
+Smedebroen 18380 Trige,rige,233.750,18-08-1999,Fam. Salg,2.068,4,Villa,113,1910,,Aktuel værdi
+Gammel Landevej 848380 Trige,rige,1.295.000,29-07-1999,Alm. Salg,9.055,6,Villa,143,1974,,Aktuel værdi
+Bjørnshøjvej 38380 Trige,rige,871.257,15-07-1999,Alm. Salg,-,4,Villa,138,1931,,Aktuel værdi
+Højgårdsparken 48380 Trige,rige,940.862,08-07-1999,Alm. Salg,6.918,5,Villa,136,1973,,Aktuel værdi
+Højgårdsparken 578380 Trige,rige,1.049.000,15-06-1999,Alm. Salg,8.131,3,Villa,129,1969,,Aktuel værdi
+Lergravvænget 138380 Trige,rige,200.000,31-05-1999,Alm. Salg,1.538,5,Villa,130,1999,,Aktuel værdi
+Lergravvænget 78380 Trige,rige,165.183,25-05-1999,Alm. Salg,-,5,Villa,155,2000,,Aktuel værdi
+Gammel Landevej 558380 Trige,rige,916.440,21-05-1999,Alm. Salg,9.351,4,Villa,98,1961,,Aktuel værdi
+Bjørnshøjvej 68380 Trige,rige,850.000,06-04-1999,Alm. Salg,5.743,5,Villa,148,1967,,Aktuel værdi
+Lergravvænget 118380 Trige,rige,165.183,31-03-1999,Alm. Salg,1.147,5,Villa,144,2004,,Aktuel værdi
+Østervang 78380 Trige,rige,872.000,22-03-1999,Fam. Salg,7.716,4,Villa,113,1967,,Aktuel værdi
+Trige Møllevej 628380 Trige,rige,1.280.726,12-03-1999,Alm. Salg,7.075,8,Villa,181,1976,,Aktuel værdi
+Bærmosehøjen 428380 Trige,rige,1.140.000,18-02-1999,Alm. Salg,8.382,5,Villa,136,1972,,Aktuel værdi
+Hæstvej 198380 Trige,rige,387.521,03-02-1999,Alm. Salg,2.189,5,Stuehus,177,1925,,
+Estrupvej 48380 Trige,rige,2.600.000,24-11-1998,Alm. Salg,12.440,5,Stuehus,209,1987,,
+Højgårdsparken 378380 Trige,rige,416.378,19-11-1998,Alm. Salg,3.130,3,Villa,133,1973,,Aktuel værdi
+Lergravvænget 308380 Trige,rige,1.223.000,16-11-1998,Alm. Salg,-,6,Villa,166,1997,,Aktuel værdi
+Lergravvænget 38380 Trige,rige,166.467,28-10-1998,Alm. Salg,1.242,5,Villa,134,1999,,Aktuel værdi
+Trige Møllevej 1028380 Trige,rige,1.234.000,07-10-1998,Alm. Salg,8.172,5,Villa,151,1977,,Aktuel værdi
+Randersvej 5298380 Trige,rige,1.116.000,07-09-1998,Alm. Salg,7.440,5,Villa,150,1943,,Aktuel værdi
+Gammel Landevej 278380 Trige,rige,529.000,06-09-1998,Alm. Salg,5.086,4,Villa,104,1922,,Aktuel værdi
+Bjergagervej 18380 Trige,rige,733.000,04-09-1998,Alm. Salg,3.092,7,Stuehus,237,1877,,
+Hæstvej 258380 Trige,rige,1.162.000,31-08-1998,Alm. Salg,8.671,3,Villa,134,1930,,Aktuel værdi
+Trige Møllevej 1428380 Trige,rige,1.223.613,21-08-1998,Alm. Salg,5.854,9,Villa,209,1977,,Aktuel værdi
+Holmkærvej 1128380 Trige,rige,808.000,18-08-1998,Alm. Salg,8.416,4,Rækkehus,96,1987,,Aktuel værdi
+Holmkærvej 868380 Trige,rige,699.130,17-08-1998,Alm. Salg,7.682,3,Rækkehus,91,1987,,Aktuel værdi
+Trige Møllevej 328380 Trige,rige,1.095.000,13-08-1998,Alm. Salg,-,5,Villa,190,1976,,Aktuel værdi
+Vestermøllevej 2128380 Trige,rige,988.575,13-08-1998,Alm. Salg,-,5,Villa,155,1979,,Aktuel værdi
+Randersvej 5458380 Trige,rige,259.250,05-07-1998,Andet,1.481,5,Villa,175,2009,,Aktuel værdi
+Holmkærvej 628380 Trige,rige,739.000,26-06-1998,Alm. Salg,8.120,3,Rækkehus,91,1987,,Aktuel værdi
+Spørring Møllevej 38380 Trige,rige,1.050.000,12-06-1998,Alm. Salg,-,6,Villa,252,1880,,Aktuel værdi
+Lergravvænget 218380 Trige,rige,173.342,25-05-1998,Alm. Salg,1.097,6,Villa,158,1999,,Aktuel værdi
+Gammel Landevej 268380 Trige,rige,698.000,19-05-1998,Alm. Salg,5.539,4,Villa,126,1920,,Aktuel værdi
+Trige Møllevej 2548380 Trige,rige,1.040.000,18-05-1998,Alm. Salg,8.595,4,Villa,121,1980,,Aktuel værdi
+Trige Møllevej 348380 Trige,rige,907.000,11-05-1998,Alm. Salg,7.434,4,Villa,122,1977,,Aktuel værdi
+Vestermøllevej 2388380 Trige,rige,1.309.600,07-05-1998,Alm. Salg,6.388,8,Villa,205,1978,,Aktuel værdi
+Trige Møllevej 2588380 Trige,rige,865.000,06-05-1998,Alm. Salg,7.521,4,Villa,115,1982,,Aktuel værdi
+Spørring Kirkevej 98380 Trige,rige,617.729,01-05-1998,Alm. Salg,4.751,6,Villa,130,1909,,Aktuel værdi
+"Bogenhøjvej 4, 1. 48380 Trige",rige,441.000,16-04-1998,Alm. Salg,7.736,2,Lejlighed,57,1977,,Aktuel værdi
+Vestermøllevej 2468380 Trige,rige,1.283.100,16-04-1998,Alm. Salg,6.415,7,Villa,200,1978,,Aktuel værdi
+Lergravvænget 88380 Trige,rige,187.917,17-03-1998,Alm. Salg,1.278,5,Villa,147,1998,,Aktuel værdi
+Lergravvænget 408380 Trige,rige,168.942,16-03-1998,Alm. Salg,1.260,5,Villa,134,1998,,Aktuel værdi
+Lergravvænget 148380 Trige,rige,165.917,13-03-1998,Alm. Salg,1.077,5,Villa,154,1998,,Aktuel værdi
+Randersvej 5668380 Trige,rige,282.138,08-02-1998,Alm. Salg,-,5,Stuehus,219,1875,,
+Bærmosevej 198380 Trige,rige,880.000,05-01-1998,Alm. Salg,8.073,4,Villa,109,1987,,Aktuel værdi
+Hæstvej 168380 Trige,rige,940.000,16-11-1997,Fam. Salg,6.619,5,Stuehus,142,1928,,
+Højgårdsparken 428380 Trige,rige,1.052.000,30-10-1997,Alm. Salg,7.013,6,Villa,150,1979,,Aktuel værdi
+Hornsbjergvej 28380 Trige,rige,1.150.000,20-10-1997,Alm. Salg,5.989,7,Engroshandel,192,1780,,Aktuel værdi
+Gammel Landevej 618380 Trige,rige,850.000,16-10-1997,Alm. Salg,6.589,3,Villa,129,1967,,Aktuel værdi
+Randersvej 5288380 Trige,rige,44.521,08-09-1997,Fam. Salg,292,6,Stuehus,152,1876,,
+Trige Møllevej 708380 Trige,rige,596.000,17-08-1997,Alm. Salg,4.845,4,Villa,123,1977,,Aktuel værdi
+Lergravvænget 428380 Trige,rige,169.033,31-07-1997,Alm. Salg,1.432,4,Villa,118,1998,,Aktuel værdi
+Spørring Kirkevej 18380 Trige,rige,536.500,09-07-1997,Alm. Salg,3.751,4,Villa,143,1872,,Aktuel værdi
+Hæstvej 428380 Trige,rige,872.822,04-07-1997,Alm. Salg,11.190,3,Stuehus,78,1929,,
+Langagervej 38380 Trige,rige,350.000,26-06-1997,Alm. Salg,5.000,2,Villa,70,1941,,Aktuel værdi
+Trige Møllevej 1768380 Trige,rige,904.894,02-06-1997,Alm. Salg,8.079,4,Villa,112,1978,,Aktuel værdi
+Spørring Kirkevej 58380 Trige,rige,1.400.000,14-05-1997,Fam. Salg,7.000,13,Stuehus,200,1842,,
+Nyvangs Allé 38380 Trige,rige,1.305.000,13-05-1997,Alm. Salg,8.365,5,Villa,156,1877,,Aktuel værdi
+Trige Møllevej 908380 Trige,rige,830.085,30-04-1997,Alm. Salg,6.385,5,Villa,130,1976,,Aktuel værdi
+Vestermøllevej 2108380 Trige,rige,921.000,22-04-1997,Alm. Salg,8.771,4,Villa,105,1979,,Aktuel værdi
+Bærmosevej 468380 Trige,rige,750.000,20-04-1997,Alm. Salg,-,7,Stuehus,150,1920,,
+Randersvej 5188380 Trige,rige,707.160,25-02-1997,Alm. Salg,6.547,5,Villa,108,1920,,Aktuel værdi
+Trige Møllevej 1568380 Trige,rige,757.000,20-02-1997,Alm. Salg,6.758,4,Villa,112,1978,,Aktuel værdi
+Lergravvænget 348380 Trige,rige,166.283,12-02-1997,Alm. Salg,1.433,4,Villa,116,1997,,Aktuel værdi
+Bærmosevej 238380 Trige,rige,618.000,12-02-1997,Auktion,6.058,4,Villa,102,1986,,Aktuel værdi
+Østervang 178380 Trige,rige,983.702,12-12-1996,Alm. Salg,-,6,Stuehus,297,1854,,
+Lergravvænget 188380 Trige,rige,171.325,29-11-1996,Alm. Salg,1.392,4,Villa,123,1997,,Aktuel værdi
+Østervang 228380 Trige,rige,825.000,10-11-1996,Alm. Salg,6.297,5,Villa,131,1968,,Aktuel værdi
+Hvidbjergvej 138380 Trige,rige,700.000,07-10-1996,Auktion,6.796,2,Villa,103,1870,,Aktuel værdi
+Smedetoften 78380 Trige,rige,940.000,04-09-1996,Alm. Salg,5.595,7,Villa,168,1963,,Aktuel værdi
+Trige Møllevej 308380 Trige,rige,766.000,03-09-1996,Alm. Salg,6.278,4,Villa,122,1977,,Aktuel værdi
+Randersvej 5398380 Trige,rige,635.244,20-08-1996,Alm. Salg,4.924,4,Villa,129,1939,,Aktuel værdi
+Erbækvej 28380 Trige,rige,637.845,06-08-1996,Alm. Salg,-,4,Villa,138,1900,,Aktuel værdi
+Randersvej 5088380 Trige,rige,612.000,01-08-1996,Alm. Salg,4.896,6,Stuehus,125,1880,,
+Randersvej 538A8380 Trige,rige,1.195.570,19-07-1996,Alm. Salg,6.642,6,Stuehus,180,1947,,
+Lergravvej 108380 Trige,rige,192.000,02-07-1996,Alm. Salg,-,4,Villa,195,1910,,Aktuel værdi
+Vestermøllevej 2788380 Trige,rige,1.039.000,28-05-1996,Alm. Salg,6.111,6,Villa,170,1978,,Aktuel værdi
+Trige Møllevej 288380 Trige,rige,664.000,09-04-1996,Alm. Salg,7.139,3,Villa,93,1976,,Aktuel værdi
+Trige Skovvej 58380 Trige,rige,521.250,24-03-1996,Alm. Salg,2.347,7,Stuehus,222,1936,,
+Hæstvej 288380 Trige,rige,518.500,29-02-1996,Fam. Salg,3.677,5,Villa,141,1951,,Aktuel værdi
+Østermøllevej 98380 Trige,rige,1.220.000,17-02-1996,Alm. Salg,5.674,8,Stuehus,215,1970,,
+Bærmosehøjen 48380 Trige,rige,802.000,07-02-1996,Alm. Salg,5.346,6,Villa,150,1972,,Aktuel værdi
+Randersvej 5438380 Trige,rige,415.000,04-02-1996,Alm. Salg,4.068,3,Villa,102,1944,,Aktuel værdi
+Bærmosevej 18380 Trige,rige,910.000,10-01-1996,Alm. Salg,4.666,7,Villa,195,1987,,Aktuel værdi
+Gartnerparken 188380 Trige,rige,318.747,08-01-1996,Fam. Salg,2.701,4,Villa,118,1966,,Aktuel værdi
+Gammel Landevej 888380 Trige,rige,547.581,15-11-1995,Fam. Salg,3.675,5,Villa,149,1974,,Aktuel værdi
+Højgårdsparken 278380 Trige,rige,840.000,07-11-1995,Alm. Salg,5.090,6,Villa,165,1978,,Aktuel værdi
+Østervang 28380 Trige,rige,374.000,30-10-1995,Fam. Salg,3.116,4,Villa,120,1800,,Aktuel værdi
+Randersvej 5928380 Trige,rige,467.500,15-10-1995,Fam. Salg,7.540,4,Villa,62,1950,,Aktuel værdi
+Trige Møllevej 1308380 Trige,rige,928.000,04-10-1995,Alm. Salg,5.491,5,Villa,169,1978,,Aktuel værdi
+Gartnerparken 418380 Trige,rige,698.242,19-09-1995,Andet,-,7,Villa,208,1976,,Aktuel værdi
+Hjulgårdsvej 2A8380 Trige,rige,575.000,15-09-1995,Alm. Salg,4.197,4,Lejlighed,137,1920,,Aktuel værdi
+Hjulgårdsvej 308380 Trige,rige,499.000,07-08-1995,Alm. Salg,4.264,4,Villa,117,1907,,Aktuel værdi
+Hedegårdsvej 28380 Trige,rige,670.000,24-07-1995,Alm. Salg,-,5,Villa,200,1800,,Aktuel værdi
+Højgårdsparken 98380 Trige,rige,856.000,02-07-1995,Alm. Salg,5.903,6,Villa,145,1972,,Aktuel værdi
+Holmkærvej 1088380 Trige,rige,483.000,23-05-1995,Alm. Salg,5.031,4,Rækkehus,96,1986,,Aktuel værdi
+Vestermøllevej 2488380 Trige,rige,570.842,15-05-1995,Alm. Salg,4.757,4,Villa,120,1979,,Aktuel værdi
+Gammel Landevej 768380 Trige,rige,695.000,27-03-1995,Alm. Salg,3.657,5,Villa,190,1972,,Aktuel værdi
+Høgemosevej 248380 Trige,rige,900.000,10-01-1995,Alm. Salg,4.390,6,Stuehus,205,2000,,
+Gammel Landevej 678380 Trige,rige,595.000,19-12-1994,Alm. Salg,-,4,Villa,152,1965,,Aktuel værdi
+Trige Møllevej 188380 Trige,rige,775.000,29-11-1994,Alm. Salg,9.451,3,Villa,82,1980,,Aktuel værdi
+Randersvej 5308380 Trige,rige,201.836,04-11-1994,Andet,1.959,4,Villa,103,1956,,Aktuel værdi
+Gammel Landevej 718380 Trige,rige,150.000,06-10-1994,Alm. Salg,1.013,4,Villa,148,1995,,Aktuel værdi
+Erbækvej 48380 Trige,rige,638.000,05-10-1994,Alm. Salg,7.975,3,Stuehus,80,1926,,
+Trige Skovvej 38380 Trige,rige,721.000,29-09-1994,Alm. Salg,-,7,Villa,189,1927,,Aktuel værdi
+Højgårdsparken 368380 Trige,rige,480.000,26-09-1994,Alm. Salg,5.106,3,Villa,94,1947,,Aktuel værdi
+Hvidbjergvej 98380 Trige,rige,1.674.500,14-09-1994,Fam. Salg,7.155,10,Stuehus,234,1935,,
+Husumgårdvej 18380 Trige,rige,1.445.000,14-09-1994,Fam. Salg,5.780,9,Stuehus,250,1881,,
+Gammel Landevej 928380 Trige,rige,875.000,01-09-1994,Alm. Salg,5.057,7,Villa,173,1974,,Aktuel værdi
+Randersvej 5218380 Trige,rige,1.000.000,25-08-1994,Alm. Salg,3.389,8,Villa,295,1935,,Aktuel værdi
+Hvidbjergvej 108380 Trige,rige,238.000,23-08-1994,Fam. Salg,3.718,2,Villa,64,1902,,Aktuel værdi
+Hvidbjergvej 118380 Trige,rige,429.326,23-08-1994,Fam. Salg,3.434,4,Villa,125,1900,,Aktuel værdi
+Holmkærvej 588380 Trige,rige,461.000,23-08-1994,Alm. Salg,5.065,3,Rækkehus,91,1987,,Aktuel værdi
+Randersvej 5078380 Trige,rige,481.000,11-08-1994,Alm. Salg,-,5,Villa,141,1900,,Aktuel værdi
+Hæstvej 538380 Trige,rige,762.000,21-07-1994,Alm. Salg,6.512,3,Stuehus,117,1928,,
+Trige Møllevej 528380 Trige,rige,573.360,26-05-1994,Alm. Salg,-,5,Villa,153,1976,,Aktuel værdi
+Højgårdsparken 178380 Trige,rige,598.000,17-05-1994,Alm. Salg,2.820,6,Villa,212,1973,,Aktuel værdi
+Randersvej 5498380 Trige,rige,770.000,16-05-1994,Alm. Salg,3.437,8,Villa,224,1900,,Aktuel værdi
+Langagervej 18380 Trige,rige,920.000,09-05-1994,Alm. Salg,-,3,Villa,175,1897,,Aktuel værdi
+Østervang 158380 Trige,rige,786.000,05-05-1994,Alm. Salg,4.030,7,Villa,195,1967,,Aktuel værdi
+Randersvej 5678380 Trige,rige,435.000,06-04-1994,Alm. Salg,3.918,3,Villa,111,1910,,Aktuel værdi
+Hvidbjergvej 188380 Trige,rige,475.000,25-03-1994,Alm. Salg,4.318,5,Villa,110,1900,,Aktuel værdi
+Hjulgårdsvej 168380 Trige,rige,380.300,15-03-1994,Alm. Salg,5.850,2,Rækkehus,65,1900,,Aktuel værdi
+Lergravvej 178380 Trige,rige,654.892,30-01-1994,Alm. Salg,3.898,6,Villa,168,1900,,Aktuel værdi
+Lergravvej 38380 Trige,rige,394.000,26-01-1994,Alm. Salg,5.253,2,Villa,75,1777,,Aktuel værdi
+Gammel Landevej 368380 Trige,rige,193.166,23-01-1994,Alm. Salg,-,4,Villa,114,1870,,Aktuel værdi
+Hvidbjergvej 208380 Trige,rige,288.448,26-10-1993,Alm. Salg,-,6,Villa,192,1827,,Aktuel værdi
+Pannerupvej 128380 Trige,rige,572.111,21-09-1993,Alm. Salg,4.145,6,Villa,138,1963,,Aktuel værdi
+Randersvej 5418380 Trige,rige,478.000,20-09-1993,Alm. Salg,4.596,3,Villa,104,1942,,Aktuel værdi
+Ladegårdsbakken 138380 Trige,rige,541.000,16-07-1993,Alm. Salg,-,5,Villa,160,1967,,Aktuel værdi
+Bærmosevej 38380 Trige,rige,560.400,02-07-1993,Alm. Salg,5.141,4,Villa,109,1987,,Aktuel værdi
+Peter Vilkens Vej 78380 Trige,rige,418.333,27-05-1993,Alm. Salg,-,5,Villa,156,1971,,Aktuel værdi
+Bjørnshøjvej 108380 Trige,rige,600.000,17-05-1993,Alm. Salg,4.316,4,Villa,139,1971,,Aktuel værdi
+Ågade 18380 Trige,rige,160.639,22-11-1992,Alm. Salg,-,6,Villa,181,1875,,Aktuel værdi
+Doktorbakken 28380 Trige,rige,580.000,02-11-1992,Alm. Salg,4.603,5,Villa,126,1945,,Aktuel værdi
+Vestermøllevej 2808380 Trige,rige,524.999,26-10-1992,Alm. Salg,4.303,4,Villa,122,1979,,Aktuel værdi
+Holmkærvej 988380 Trige,rige,479.600,19-10-1992,Alm. Salg,5.270,3,Rækkehus,91,1987,,Aktuel værdi
+Holmkærvej 668380 Trige,rige,482.088,27-07-1992,Alm. Salg,5.297,3,Rækkehus,91,1987,,Aktuel værdi
+Mosegårdsvangen 368380 Trige,rige,208.100,09-07-1992,Andet,1.734,4,Stuehus,120,1897,,
+Holmkærvej 948380 Trige,rige,482.088,04-06-1992,Alm. Salg,5.297,3,Rækkehus,91,1987,,Aktuel værdi
+Holmkærvej 1068380 Trige,rige,565.400,24-04-1992,Alm. Salg,5.889,4,Rækkehus,96,1987,,Aktuel værdi
+Hjulgårdsvej 118380 Trige,rige,290.000,27-03-1992,Alm. Salg,2.959,4,Villa,98,1827,,Aktuel værdi
+Kærhusevej 28380 Trige,rige,975.000,05-02-1992,Alm. Salg,-,6,Stuehus,233,1907,,
+Parallelvej 558380 Trige,rige,510.000,20-01-1992,Fam. Salg,3.207,6,Villa,159,1968,,Aktuel værdi

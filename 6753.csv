@@ -1,0 +1,442 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Tværvej 46753 Agerbæk,rbæk,1.400.000,12-04-2017,Alm. Salg,8.974,5,Villa,156,1969,-6 %,Aktuel værdi
+Bredgade 316753 Agerbæk,rbæk,187.500,09-04-2017,Alm. Salg,1.339,4,Villa,140,1957,-64 %,Aktuel værdi
+Storegade 506753 Agerbæk,rbæk,670.000,26-03-2017,Alm. Salg,6.700,3,Villa,100,1984,,Aktuel værdi
+Hellevej 156753 Agerbæk,rbæk,540.000,03-03-2017,Alm. Salg,2.151,8,Stuehus,251,1930,,
+Nørregade 11B6753 Agerbæk,rbæk,798.500,12-01-2017,Alm. Salg,12.098,2,Rækkehus,66,2001,,Aktuel værdi
+Kærbjergvej 326753 Agerbæk,rbæk,840.000,10-01-2017,Alm. Salg,2.857,6,Stuehus,294,1969,-56 %,
+Jernbanegade 126753 Agerbæk,rbæk,750.000,29-12-2016,Alm. Salg,6.944,3,Villa,108,1961,-16 %,Aktuel værdi
+Tranebærvej 196753 Agerbæk,rbæk,1.775.000,27-12-2016,Alm. Salg,8.255,4,Villa,215,2010,,Aktuel værdi
+Tjørnealle 106753 Agerbæk,rbæk,269.633,15-12-2016,Andet,1.821,6,Villa,148,1977,,Aktuel værdi
+Lochmannsvej 126753 Agerbæk,rbæk,264.000,09-11-2016,Auktion,2.357,4,Villa,112,1973,,Aktuel værdi
+Jernbanegade 286753 Agerbæk,rbæk,407.922,16-10-2016,Fam. Salg,3.609,4,Villa,113,1941,,Aktuel værdi
+Debelvej 276753 Agerbæk,rbæk,515.000,14-10-2016,Alm. Salg,5.364,4,Villa,96,1961,-13 %,Aktuel værdi
+Østergade 66753 Agerbæk,rbæk,725.000,27-09-2016,Alm. Salg,7.631,3,Villa,95,1957,-9 %,Aktuel værdi
+Fåborgvej 1616753 Agerbæk,rbæk,325.000,14-08-2016,Alm. Salg,2.321,4,Villa,140,1940,-7 %,Aktuel værdi
+Blåbærvej 66753 Agerbæk,rbæk,595.000,04-07-2016,Alm. Salg,4.375,5,Villa,136,1978,-15 %,Aktuel værdi
+Kokjærvej 26753 Agerbæk,rbæk,400.000,29-06-2016,Fam. Salg,2.352,4,Stuehus,170,1927,,
+Kokjærvej 36753 Agerbæk,rbæk,4.725.000,29-06-2016,Fam. Salg,39.375,5,Stuehus,120,1939,,
+Tingvejen 2726753 Agerbæk,rbæk,275.500,29-06-2016,Alm. Salg,2.221,4,Villa,124,1947,,Aktuel værdi
+Sønderbyen 116753 Agerbæk,rbæk,375.000,23-05-2016,Fam. Salg,3.537,3,Villa,106,1840,,Aktuel værdi
+Jernbanegade 246753 Agerbæk,rbæk,506.000,04-05-2016,Alm. Salg,4.324,5,Villa,117,1939,-8 %,Aktuel værdi
+Pilealle 86753 Agerbæk,rbæk,720.000,19-04-2016,Alm. Salg,6.371,4,Villa,113,1973,-9 %,Aktuel værdi
+Kærbjergvej 306753 Agerbæk,rbæk,13.411.000,17-03-2016,Alm. Salg,112.697,4,Stuehus,119,1957,,
+Bredgade 206753 Agerbæk,rbæk,243.301,30-01-2016,Alm. Salg,1.946,4,Villa,125,1935,,Aktuel værdi
+Skovgårdsvej 256753 Agerbæk,rbæk,995.000,30-01-2016,Alm. Salg,5.437,5,Villa,183,1969,,Aktuel værdi
+Storegade 516753 Agerbæk,rbæk,780.000,27-01-2016,Alm. Salg,6.046,3,Villa,129,1965,-2 %,Aktuel værdi
+Sønderbyen 26753 Agerbæk,rbæk,150.000,13-12-2015,Alm. Salg,2.586,2,Villa,58,1946,,Aktuel værdi
+Skovgårdsvej 16753 Agerbæk,rbæk,500.000,19-11-2015,Alm. Salg,5.000,4,Villa,100,1969,-9 %,Aktuel værdi
+Tranebærvej 216753 Agerbæk,rbæk,719.500,13-11-2015,Andet,3.670,7,Villa,196,2005,,Aktuel værdi
+Fåborgvej 1356753 Agerbæk,rbæk,1.450.000,14-10-2015,Alm. Salg,5.141,7,Villa,282,1927,-3 %,Aktuel værdi
+Hybenvej 36753 Agerbæk,rbæk,435.000,13-10-2015,Alm. Salg,1.968,8,Villa,221,1981,-19 %,Aktuel værdi
+Pilealle 46753 Agerbæk,rbæk,565.000,08-10-2015,Alm. Salg,4.829,3,Villa,117,1972,,Aktuel værdi
+Debelvej 246753 Agerbæk,rbæk,1.195.000,10-09-2015,Alm. Salg,6.065,7,Villa,197,1909,0 %,Aktuel værdi
+Hybenvej 46753 Agerbæk,rbæk,1.335.000,20-08-2015,Alm. Salg,9.335,6,Villa,143,1988,-1 %,Aktuel værdi
+Tværvej 26753 Agerbæk,rbæk,530.000,11-08-2015,Alm. Salg,5.196,4,Villa,102,1978,,Aktuel værdi
+Tjørnealle 166753 Agerbæk,rbæk,820.000,04-06-2015,Alm. Salg,5.694,4,Villa,144,1977,-3 %,Aktuel værdi
+Lindealle 136753 Agerbæk,rbæk,1.195.000,05-05-2015,Alm. Salg,6.789,6,Villa,176,1975,0 %,Aktuel værdi
+Egealle 196753 Agerbæk,rbæk,549.000,10-04-2015,Alm. Salg,4.463,4,Villa,123,1976,0 %,Aktuel værdi
+Kokjærvej 76753 Agerbæk,rbæk,36.000,26-03-2015,Auktion,514,2,Villa,70,1900,,Aktuel værdi
+Fåborgvej 1046753 Agerbæk,rbæk,460.000,16-03-2015,Alm. Salg,4.791,5,Villa,96,1939,-33 %,Aktuel værdi
+Debelvej 446753 Agerbæk,rbæk,600.000,20-02-2015,Alm. Salg,4.109,5,Villa,146,1962,,Aktuel værdi
+Højgårdsvej 106753 Agerbæk,rbæk,51.000,19-02-2015,Auktion,455,5,Stuehus,112,1953,,
+Fåborgvej 1146753 Agerbæk,rbæk,1.260.000,11-02-2015,Alm. Salg,7.368,3,Villa,171,1928,-7 %,Aktuel værdi
+"Nygade 2, 16753 Agerbæk",rbæk,400.000,05-02-2015,Alm. Salg,3.174,3,Lejlighed,126,1955,-24 %,Aktuel værdi
+Storegade 76753 Agerbæk,rbæk,4.200.000,03-02-2015,Andet,28.000,17,Ukendt,150,1930,,Aktuel værdi
+Højgårdsvej 76753 Agerbæk,rbæk,3.615.000,27-01-2015,Alm. Salg,23.782,6,Stuehus,152,1920,,
+Bredgade 276753 Agerbæk,rbæk,912.900,13-01-2015,Fam. Salg,8.612,4,Villa,106,1962,,Aktuel værdi
+Bøgealle 16753 Agerbæk,rbæk,612.000,08-12-2014,Fam. Salg,4.896,4,Villa,125,1968,,Aktuel værdi
+Bolhedevej 26753 Agerbæk,rbæk,12.032.100,23-10-2014,Fam. Salg,48.712,7,Stuehus,247,1987,,
+Tværvej 76753 Agerbæk,rbæk,550.000,25-08-2014,Fam. Salg,4.044,6,Villa,136,1964,-12 %,Aktuel værdi
+Kærbjergvej 206753 Agerbæk,rbæk,800.000,15-08-2014,Alm. Salg,7.207,3,Stuehus,111,1947,-17 %,
+Kokjærvej 56753 Agerbæk,rbæk,1.660.000,14-08-2014,Alm. Salg,9.485,7,Stuehus,175,1977,-2 %,
+Tranebærvej 116753 Agerbæk,rbæk,1.810.000,23-07-2014,Alm. Salg,9.329,5,Villa,194,2010,,Aktuel værdi
+Tjørnealle 16753 Agerbæk,rbæk,800.000,12-06-2014,Alm. Salg,7.619,4,Villa,105,1977,-4 %,Aktuel værdi
+Engvej 66753 Agerbæk,rbæk,891.000,19-05-2014,Alm. Salg,7.681,3,Rækkehus,116,1999,-10 %,Aktuel værdi
+Elmealle 56753 Agerbæk,rbæk,1.125.000,01-05-2014,Alm. Salg,8.458,5,Villa,133,1977,,Aktuel værdi
+Blåbærvej 116753 Agerbæk,rbæk,650.000,01-05-2014,Alm. Salg,4.676,5,Villa,139,1980,64999900 %,Aktuel værdi
+Skovgårdsvej 276753 Agerbæk,rbæk,920.000,25-04-2014,Alm. Salg,6.216,4,Villa,148,1971,-3 %,Aktuel værdi
+Tranebærvej 186753 Agerbæk,rbæk,1.600.000,09-04-2014,Alm. Salg,9.523,6,Villa,168,2004,,Aktuel værdi
+Storegade 17A6753 Agerbæk,rbæk,675.000,03-04-2014,Alm. Salg,9.375,3,Lejlighed,72,2011,-15 %,Aktuel værdi
+Tranebærvej 36753 Agerbæk,rbæk,850.000,01-04-2014,Fam. Salg,5.414,5,Villa,157,2003,,Aktuel værdi
+Tranebærvej 426753 Agerbæk,rbæk,344.356,06-03-2014,Alm. Salg,1.624,5,Villa,212,2016,,Aktuel værdi
+Allegade 226753 Agerbæk,rbæk,930.000,12-02-2014,Alm. Salg,5.406,6,Villa,172,1973,-6 %,Aktuel værdi
+Hellevej 266753 Agerbæk,rbæk,1.157.500,10-02-2014,Alm. Salg,6.652,5,Stuehus,174,1926,-6 %,
+Skovgårdsvej 116753 Agerbæk,rbæk,675.000,23-12-2013,Alm. Salg,5.625,4,Villa,120,1967,-6 %,Aktuel værdi
+Engvej 76753 Agerbæk,rbæk,700.000,27-09-2013,Fam. Salg,7.446,3,Rækkehus,94,1999,,Aktuel værdi
+Bredgade 36753 Agerbæk,rbæk,400.000,29-08-2013,Alm. Salg,4.705,4,Villa,85,1961,-19 %,Aktuel værdi
+Østergade 216753 Agerbæk,rbæk,785.000,23-08-2013,Alm. Salg,7.008,4,Villa,112,1966,-1 %,Aktuel værdi
+Nygade 186753 Agerbæk,rbæk,800.000,05-08-2013,Alm. Salg,4.968,7,Villa,161,1964,-13 %,Aktuel værdi
+Skovgårdsvej 176753 Agerbæk,rbæk,775.000,03-07-2013,Alm. Salg,6.623,4,Villa,117,1969,-3 %,Aktuel værdi
+Tranebærvej 406753 Agerbæk,rbæk,286.882,20-06-2013,Alm. Salg,1.728,5,Villa,166,2014,,Aktuel værdi
+Bøgealle 46753 Agerbæk,rbæk,645.000,16-05-2013,Alm. Salg,6.142,4,Villa,105,1967,-7 %,Aktuel værdi
+Tjørnealle 196753 Agerbæk,rbæk,935.000,02-05-2013,Alm. Salg,6.875,5,Villa,136,1977,-4 %,Aktuel værdi
+Hellevej 76753 Agerbæk,rbæk,177.395,12-04-2013,Andet,1.385,3,Stuehus,128,1908,,
+Engvej 46753 Agerbæk,rbæk,775.000,04-03-2013,Alm. Salg,8.333,3,Rækkehus,93,1999,-7 %,Aktuel værdi
+Fåborgvej 1066753 Agerbæk,rbæk,475.000,21-02-2013,Alm. Salg,3.598,4,Villa,132,1971,-32 %,Aktuel værdi
+Debelvej 376753 Agerbæk,rbæk,1.329.000,21-02-2013,Alm. Salg,7.726,7,Stuehus,172,1910,,
+Fåborgvej 1656753 Agerbæk,rbæk,580.000,19-02-2013,Alm. Salg,6.170,3,Villa,94,1963,,Aktuel værdi
+Klippen 26753 Agerbæk,rbæk,180.000,18-02-2013,Alm. Salg,1.125,5,Villa,160,1917,,Aktuel værdi
+Skovgårdsvej 126753 Agerbæk,rbæk,1.050.000,12-01-2013,Alm. Salg,6.402,5,Villa,164,1973,-4 %,Aktuel værdi
+Skovgårdsvej 46753 Agerbæk,rbæk,574.500,25-12-2012,Alm. Salg,3.754,4,Villa,153,1970,,Aktuel værdi
+Fåborgvej 706753 Agerbæk,rbæk,709.974,19-12-2012,Fam. Salg,4.493,5,Villa,158,2014,,Aktuel værdi
+Jernbanegade 326753 Agerbæk,rbæk,250.000,31-10-2012,Auktion,1.445,6,Villa,173,1923,,Aktuel værdi
+Kærvej 76753 Agerbæk,rbæk,750.000,28-10-2012,Fam. Salg,6.637,3,Villa,113,1980,,Aktuel værdi
+Højgårdsvej 1A6753 Agerbæk,rbæk,1.020.000,10-10-2012,Alm. Salg,7.391,5,Villa,138,1993,-14 %,Aktuel værdi
+Jernbanegade 106753 Agerbæk,rbæk,545.000,09-10-2012,Alm. Salg,4.037,6,Villa,135,1918,-4 %,Aktuel værdi
+Tranebærvej 466753 Agerbæk,rbæk,216.400,08-10-2012,Alm. Salg,1.229,6,Villa,176,2013,,Aktuel værdi
+Tranebærvej 286753 Agerbæk,rbæk,272.523,05-10-2012,Alm. Salg,1.227,5,Villa,222,2013,,Aktuel værdi
+Lochmannsvej 216753 Agerbæk,rbæk,600.000,02-10-2012,Alm. Salg,3.061,6,Villa,196,1973,-17 %,Aktuel værdi
+Allegade 166753 Agerbæk,rbæk,334.860,07-09-2012,Andet,2.203,6,Villa,152,1973,,Aktuel værdi
+Egealle 16753 Agerbæk,rbæk,472.500,26-08-2012,Alm. Salg,3.526,4,Villa,134,1976,,Aktuel værdi
+Grønnegade 96753 Agerbæk,rbæk,795.000,09-08-2012,Alm. Salg,6.115,5,Villa,130,1963,0 %,Aktuel værdi
+Debelvej 536753 Agerbæk,rbæk,15.033.900,31-07-2012,Alm. Salg,63.974,6,Stuehus,235,1982,,
+Kærvej 106753 Agerbæk,rbæk,1.650.000,13-07-2012,Alm. Salg,5.729,8,Villa,288,1978,0 %,Aktuel værdi
+Nygade 166753 Agerbæk,rbæk,454.231,06-07-2012,Alm. Salg,2.911,4,Villa,156,1964,,Aktuel værdi
+Pilealle 66753 Agerbæk,rbæk,670.000,28-06-2012,Fam. Salg,5.929,4,Villa,113,1971,,Aktuel værdi
+Allegade 16753 Agerbæk,rbæk,1.100.000,17-06-2012,Alm. Salg,8.029,5,Villa,137,1991,,Aktuel værdi
+Egealle 146753 Agerbæk,rbæk,780.000,20-04-2012,Alm. Salg,5.571,5,Villa,140,1976,-13 %,Aktuel værdi
+Tværvej 66753 Agerbæk,rbæk,600.000,03-04-2012,Fam. Salg,4.918,4,Villa,122,1969,,Aktuel værdi
+Ålundevej 196753 Agerbæk,rbæk,27.000.000,08-03-2012,Auktion,221.311,4,Stuehus,122,1925,,
+Ålundevej 236753 Agerbæk,rbæk,27.000.000,08-03-2012,Auktion,151.685,4,Stuehus,178,1952,,
+Engvej 86753 Agerbæk,rbæk,885.000,28-02-2012,Alm. Salg,9.516,3,Rækkehus,93,1999,,Aktuel værdi
+Debelvej 476753 Agerbæk,rbæk,137.070,28-02-2012,Alm. Salg,806,7,Stuehus,170,1883,,
+Fåborgvej 1126753 Agerbæk,rbæk,710.000,08-02-2012,Alm. Salg,8.987,3,Villa,79,1953,,Aktuel værdi
+Hybenvej 26753 Agerbæk,rbæk,1.500.000,25-01-2012,Alm. Salg,9.090,6,Villa,165,1998,-5 %,Aktuel værdi
+Debelvej 226753 Agerbæk,rbæk,1.095.000,19-01-2012,Alm. Salg,12.303,3,Villa,89,1951,0 %,Aktuel værdi
+Skovgårdsvej 236753 Agerbæk,rbæk,650.000,27-12-2011,Alm. Salg,4.676,4,Villa,139,1970,,Aktuel værdi
+Parkvej 66753 Agerbæk,rbæk,700.000,19-12-2011,Alm. Salg,6.481,3,Villa,108,1967,-11 %,Aktuel værdi
+Debelvej 326753 Agerbæk,rbæk,1.285.000,09-11-2011,Alm. Salg,6.983,6,Villa,184,1956,-8 %,Aktuel værdi
+"Storegade 19B, ST6753 Agerbæk",rbæk,1.875.000,05-10-2011,Alm. Salg,13.686,4,Lejlighed,137,2011,,Aktuel værdi
+Tyttebærvej 76753 Agerbæk,rbæk,900.000,14-09-2011,Fam. Salg,4.390,7,Villa,205,1979,,Aktuel værdi
+Starupvej 106753 Agerbæk,rbæk,922.000,02-09-2011,Alm. Salg,6.402,5,Stuehus,144,1958,-29 %,
+Grønnegade 206753 Agerbæk,rbæk,1.500.000,29-08-2011,Alm. Salg,13.513,4,Villa,111,2011,-5 %,Aktuel værdi
+Rodebækvej 66753 Agerbæk,rbæk,382.500,01-07-2011,Fam. Salg,1.517,6,Stuehus,252,2011,,
+Tyttebærvej 26753 Agerbæk,rbæk,900.000,29-06-2011,Alm. Salg,7.438,4,Villa,121,1979,,Aktuel værdi
+Storegade 346753 Agerbæk,rbæk,1.000.000,27-06-2011,Alm. Salg,6.329,6,Villa,158,1944,-5 %,Aktuel værdi
+Nygade 106753 Agerbæk,rbæk,625.000,09-06-2011,Alm. Salg,9.765,3,Villa,64,1953,,Aktuel værdi
+Kokjærvej 46753 Agerbæk,rbæk,840.984,02-06-2011,Alm. Salg,6.323,5,Stuehus,133,1958,,
+Lochmannsvej 156753 Agerbæk,rbæk,825.000,04-05-2011,Alm. Salg,4.714,4,Villa,175,1976,0 %,Aktuel værdi
+Debelvej 416753 Agerbæk,rbæk,1.900.000,14-04-2011,Alm. Salg,6.643,5,Stuehus,286,1840,,
+Fåborgvej 1326753 Agerbæk,rbæk,1.900.000,24-03-2011,Alm. Salg,10.052,14,Engroshandel,189,1910,,Aktuel værdi
+Storegade 146753 Agerbæk,rbæk,865.000,14-03-2011,Alm. Salg,5.474,4,Villa,158,1926,-4 %,Aktuel værdi
+"Storegade 19A, ST6753 Agerbæk",rbæk,1.282.000,23-02-2011,Alm. Salg,13.494,3,Lejlighed,95,2011,,Aktuel værdi
+Bredgade 306753 Agerbæk,rbæk,800.000,14-02-2011,Alm. Salg,6.666,2,Villa,120,1952,,Aktuel værdi
+Kærbjergvej 186753 Agerbæk,rbæk,1.725.000,09-02-2011,Alm. Salg,8.497,7,Stuehus,203,1909,-13 %,
+Egealle 26753 Agerbæk,rbæk,955.000,23-01-2011,Alm. Salg,6.870,4,Villa,139,1976,-7 %,Aktuel værdi
+Grønnegade 116753 Agerbæk,rbæk,632.500,08-01-2011,Alm. Salg,5.142,5,Villa,123,1962,-6 %,Aktuel værdi
+Starupvej 96753 Agerbæk,rbæk,496.700,20-12-2010,Alm. Salg,3.028,7,Stuehus,164,1989,,
+Jernbanegade 5B6753 Agerbæk,rbæk,300.000,03-12-2010,Alm. Salg,-,4,Rækkehus,100,1947,,Aktuel værdi
+Elmealle 66753 Agerbæk,rbæk,225.000,25-11-2010,Andet,1.530,4,Villa,147,1976,,Aktuel værdi
+Fåborgvej 826753 Agerbæk,rbæk,1.112.500,03-11-2010,Alm. Salg,5.272,5,Villa,211,1962,-10 %,Aktuel værdi
+Egealle 256753 Agerbæk,rbæk,815.000,26-10-2010,Alm. Salg,7.546,4,Villa,108,1976,-7 %,Aktuel værdi
+"Storegade 17B, 16753 Agerbæk",rbæk,1.500.000,22-10-2010,Alm. Salg,13.636,3,Lejlighed,110,2011,,Aktuel værdi
+"Storegade 17B, ST6753 Agerbæk",rbæk,1.020.000,18-10-2010,Alm. Salg,13.600,3,Lejlighed,75,2011,,Aktuel værdi
+Tranebærvej 66753 Agerbæk,rbæk,182.898,12-10-2010,Alm. Salg,1.252,5,Villa,146,2011,,Aktuel værdi
+Lochmannsvej 86753 Agerbæk,rbæk,1.000.000,06-10-2010,Alm. Salg,6.134,5,Villa,163,1973,-7 %,Aktuel værdi
+Allegade 276753 Agerbæk,rbæk,770.000,23-09-2010,Alm. Salg,4.095,4,Villa,188,1959,,Aktuel værdi
+"Storegade 19A, 16753 Agerbæk",rbæk,1.944.000,15-09-2010,Alm. Salg,13.500,3,Lejlighed,144,2011,,Aktuel værdi
+Nørregade 11C6753 Agerbæk,rbæk,970.000,30-08-2010,Andet,11.547,3,Rækkehus,84,2001,,Aktuel værdi
+Sønderbyen 96753 Agerbæk,rbæk,740.000,26-08-2010,Alm. Salg,6.166,3,Villa,120,1941,-7 %,Aktuel værdi
+Kokjærvej 106753 Agerbæk,rbæk,1.750.000,16-08-2010,Alm. Salg,12.500,5,Stuehus,140,1979,0 %,
+Lindealle 86753 Agerbæk,rbæk,1.700.000,26-07-2010,Alm. Salg,9.392,7,Villa,181,1975,,Aktuel værdi
+Kærbjergvej 336753 Agerbæk,rbæk,606.840,19-07-2010,Fam. Salg,4.740,3,Stuehus,128,1900,,
+Kærvej 56753 Agerbæk,rbæk,209.500,01-07-2010,Fam. Salg,2.014,4,Villa,104,1929,,Aktuel værdi
+Storegade 29C6753 Agerbæk,rbæk,840.000,30-06-2010,Alm. Salg,9.655,3,Rækkehus,87,1997,,Aktuel værdi
+Allegade 266753 Agerbæk,rbæk,1.085.000,14-06-2010,Alm. Salg,8.750,5,Villa,124,1974,0 %,Aktuel værdi
+Bredgade 346753 Agerbæk,rbæk,1.550.000,21-03-2010,Alm. Salg,7.416,8,Villa,209,1960,,Aktuel værdi
+Storegade 396753 Agerbæk,rbæk,965.000,13-03-2010,Alm. Salg,6.795,5,Villa,142,1961,-3 %,Aktuel værdi
+Bøgealle 56753 Agerbæk,rbæk,1.250.000,22-02-2010,Alm. Salg,10.000,4,Villa,125,1968,,Aktuel værdi
+Allegade 256753 Agerbæk,rbæk,1.278.424,19-02-2010,Fam. Salg,7.520,6,Villa,170,1961,,Aktuel værdi
+Fåborgvej 1026753 Agerbæk,rbæk,895.000,17-02-2010,Alm. Salg,7.217,5,Villa,124,1942,0 %,Aktuel værdi
+Hellevej 216753 Agerbæk,rbæk,1.505.000,15-12-2009,Alm. Salg,11.231,5,Stuehus,134,1900,,
+Fåborgvej 1086753 Agerbæk,rbæk,440.000,02-12-2009,Alm. Salg,3.666,3,Villa,120,1900,-22 %,Aktuel værdi
+Blåbærvej 76753 Agerbæk,rbæk,925.000,21-10-2009,Alm. Salg,7.905,4,Villa,117,1978,0 %,Aktuel værdi
+Allegade 146753 Agerbæk,rbæk,875.000,09-10-2009,Alm. Salg,6.628,4,Villa,132,1976,-2 %,Aktuel værdi
+Storegade 476753 Agerbæk,rbæk,710.000,07-10-2009,Alm. Salg,5.546,3,Villa,128,1952,-8 %,Aktuel værdi
+Grønnegade 56753 Agerbæk,rbæk,400.000,14-08-2009,Alm. Salg,3.125,4,Villa,128,1963,-20 %,Aktuel værdi
+Bredgade 366753 Agerbæk,rbæk,410.000,10-08-2009,Alm. Salg,3.660,4,Villa,112,1961,-23 %,Aktuel værdi
+Bredgade 326753 Agerbæk,rbæk,625.000,15-07-2009,Alm. Salg,4.664,4,Villa,134,1957,,Aktuel værdi
+Allegade 56753 Agerbæk,rbæk,650.000,23-06-2009,Alm. Salg,5.000,4,Villa,130,1973,-23 %,Aktuel værdi
+Storegade 386753 Agerbæk,rbæk,990.000,17-06-2009,Alm. Salg,7.071,5,Villa,140,1964,,Aktuel værdi
+Lochmannsvej 36753 Agerbæk,rbæk,840.000,08-06-2009,Alm. Salg,5.915,4,Villa,142,1969,0 %,Aktuel værdi
+Tranebærvej 146753 Agerbæk,rbæk,861.584,05-06-2009,Alm. Salg,5.221,4,Villa,165,2009,,Aktuel værdi
+Nygade 116753 Agerbæk,rbæk,300.000,13-05-2009,Alm. Salg,2.654,3,Villa,113,1958,,Aktuel værdi
+Nørregade 166753 Agerbæk,rbæk,500.000,07-05-2009,Alm. Salg,5.208,4,Villa,96,1964,-16 %,Aktuel værdi
+Sønderbyen 186753 Agerbæk,rbæk,455.000,23-04-2009,Alm. Salg,4.739,3,Villa,96,1900,-8 %,Aktuel værdi
+Parkvej 46753 Agerbæk,rbæk,850.000,06-04-2009,Alm. Salg,6.296,6,Villa,135,1966,-15 %,Aktuel værdi
+Bredgade 236753 Agerbæk,rbæk,815.000,01-04-2009,Alm. Salg,7.149,5,Villa,114,1942,,Aktuel værdi
+Tyttebærvej 96753 Agerbæk,rbæk,865.000,23-03-2009,Alm. Salg,4.779,5,Villa,181,1980,-31 %,Aktuel værdi
+Blåbærvej 106753 Agerbæk,rbæk,609.097,12-03-2009,Andet,3.365,6,Villa,181,1978,,Aktuel værdi
+Kærvej 36753 Agerbæk,rbæk,350.000,09-03-2009,Alm. Salg,2.611,7,Villa,134,1912,0 %,Aktuel værdi
+Debelvej 426753 Agerbæk,rbæk,435.000,09-03-2009,Alm. Salg,4.350,5,Villa,100,1939,-23 %,Aktuel værdi
+Ålundevej 126753 Agerbæk,rbæk,300.000,27-02-2009,Andet,-,5,Villa,221,1918,,Aktuel værdi
+Hellevej 246753 Agerbæk,rbæk,10.250.000,17-02-2009,Fam. Salg,38.533,6,Stuehus,266,2015,,
+Allegade 176753 Agerbæk,rbæk,555.000,22-01-2009,Alm. Salg,8.409,3,Villa,66,1943,-14 %,Aktuel værdi
+Nygade 36753 Agerbæk,rbæk,899.235,13-01-2009,Alm. Salg,8.730,5,Villa,103,1938,,Aktuel værdi
+Brombærvej 46753 Agerbæk,rbæk,1.037.500,16-12-2008,Alm. Salg,7.859,4,Villa,132,1986,-3 %,Aktuel værdi
+Ålundevej 166753 Agerbæk,rbæk,1.030.000,26-11-2008,Fam. Salg,17.758,3,Stuehus,58,1930,,
+Bredgade 266753 Agerbæk,rbæk,1.490.000,21-11-2008,Alm. Salg,7.450,7,Villa,200,1954,,Aktuel værdi
+Tranebærvej 156753 Agerbæk,rbæk,171.317,01-11-2008,Alm. Salg,1.070,5,Villa,160,2010,,Aktuel værdi
+Bredgade 386753 Agerbæk,rbæk,795.000,01-11-2008,Alm. Salg,4.968,4,Villa,160,1959,-6 %,Aktuel værdi
+Nygade 76753 Agerbæk,rbæk,493.000,20-10-2008,Fam. Salg,5.189,3,Villa,95,1959,,Aktuel værdi
+Lochmannsvej 116753 Agerbæk,rbæk,935.000,02-10-2008,Alm. Salg,6.360,6,Villa,147,1976,-6 %,Aktuel værdi
+Blåbærvej 16753 Agerbæk,rbæk,1.115.000,21-09-2008,Alm. Salg,6.445,4,Villa,173,1978,,Aktuel værdi
+Storegade 26753 Agerbæk,rbæk,875.000,08-09-2008,Alm. Salg,12.681,2,Villa,69,1976,,Aktuel værdi
+Nørregade 11A6753 Agerbæk,rbæk,1.095.000,02-09-2008,Alm. Salg,13.035,3,Rækkehus,84,2001,0 %,Aktuel værdi
+Bolhedevej 36753 Agerbæk,rbæk,1.350.000,22-08-2008,Alm. Salg,6.585,6,Villa,205,1840,0 %,Aktuel værdi
+Kærvej 8B6753 Agerbæk,rbæk,400.000,17-08-2008,Alm. Salg,6.557,2,Rækkehus,61,1982,,Aktuel værdi
+Grønnegade 156753 Agerbæk,rbæk,974.000,15-08-2008,Alm. Salg,10.361,3,Villa,94,2004,-2 %,Aktuel værdi
+Kokjærvej 96753 Agerbæk,rbæk,1.290.000,18-07-2008,Alm. Salg,12.169,6,Stuehus,106,1955,-4 %,
+Storegade 416753 Agerbæk,rbæk,650.000,14-07-2008,Alm. Salg,4.333,4,Villa,150,1957,,Aktuel værdi
+Nørremarken 66753 Agerbæk,rbæk,3.500.000,01-07-2008,Fam. Salg,14.893,8,Villa,235,1980,,Aktuel værdi
+Bolhedevej 56753 Agerbæk,rbæk,1.295.000,23-06-2008,Alm. Salg,6.475,4,Villa,200,1910,8 %,Aktuel værdi
+Hellevej 106753 Agerbæk,rbæk,1.495.000,30-04-2008,Alm. Salg,11.240,5,Stuehus,133,1919,0 %,
+Storegade 486753 Agerbæk,rbæk,970.000,18-03-2008,Alm. Salg,5.739,5,Villa,169,1964,,Aktuel værdi
+Bredgade 336753 Agerbæk,rbæk,750.000,25-02-2008,Alm. Salg,6.944,4,Villa,108,1968,0 %,Aktuel værdi
+Sønderbyen 16753 Agerbæk,rbæk,543.000,01-02-2008,Fam. Salg,3.878,5,Villa,140,1957,,Aktuel værdi
+Sønderbyen 286753 Agerbæk,rbæk,274.550,28-01-2008,Fam. Salg,2.691,3,Stuehus,102,1891,,
+Tranebærvej 46753 Agerbæk,rbæk,172.782,21-01-2008,Alm. Salg,-,5,Villa,180,2009,,Aktuel værdi
+Allegade 86753 Agerbæk,rbæk,900.000,11-01-2008,Alm. Salg,7.438,4,Villa,121,1959,,Aktuel værdi
+Rodebækvej 36753 Agerbæk,rbæk,578.000,01-01-2008,Fam. Salg,4.281,5,Stuehus,135,1892,,
+"Storegade 21, 16753 Agerbæk",rbæk,1.600.000,21-12-2007,Alm. Salg,28.070,2,Anden beboelse,57,1937,,Aktuel værdi
+Hybenvej 146753 Agerbæk,rbæk,111.202,21-12-2007,Alm. Salg,788,5,Villa,141,2009,,Aktuel værdi
+Kokjærvej 16753 Agerbæk,rbæk,1.145.000,16-12-2007,Alm. Salg,8.063,5,Stuehus,142,1981,0 %,
+Allegade 306753 Agerbæk,rbæk,1.595.000,05-12-2007,Alm. Salg,-,7,Villa,196,1973,0 %,Aktuel værdi
+Bolhedevej 46753 Agerbæk,rbæk,1.295.000,24-11-2007,Alm. Salg,-,6,Stuehus,141,1925,0 %,
+Nr Agerbækvej 46753 Agerbæk,rbæk,1.134.395,31-10-2007,Alm. Salg,4.051,13,Stuehus,280,1974,,
+Fåborgvej 1226753 Agerbæk,rbæk,1.365.000,25-10-2007,Alm. Salg,5.229,8,Villa,261,1925,-4 %,Aktuel værdi
+Tranebærvej 136753 Agerbæk,rbæk,155.842,25-09-2007,Alm. Salg,980,3,Villa,159,2009,-91 %,Aktuel værdi
+Tjørnealle 26753 Agerbæk,rbæk,1.475.000,06-09-2007,Alm. Salg,6.584,7,Villa,224,1977,0 %,Aktuel værdi
+Debelvej 436753 Agerbæk,rbæk,2.500.000,02-09-2007,Alm. Salg,11.520,6,Villa,217,2003,,Aktuel værdi
+Egealle 56753 Agerbæk,rbæk,612.500,14-08-2007,Alm. Salg,3.804,4,Villa,161,1976,,Aktuel værdi
+Østergade 266753 Agerbæk,rbæk,850.000,02-08-2007,Alm. Salg,6.071,4,Villa,140,1982,,Aktuel værdi
+Lochmannsvej 176753 Agerbæk,rbæk,1.665.000,25-07-2007,Alm. Salg,8.366,6,Villa,199,1974,-2 %,Aktuel værdi
+Hedelundvej 36753 Agerbæk,rbæk,780.000,20-07-2007,Alm. Salg,6.724,5,Stuehus,116,1954,-13 %,
+Blåbærvej 86753 Agerbæk,rbæk,1.190.000,11-07-2007,Alm. Salg,5.891,6,Villa,202,1979,,Aktuel værdi
+Fåborgvej 1716753 Agerbæk,rbæk,1.275.000,02-07-2007,Alm. Salg,5.543,5,Villa,230,1990,-2 %,Aktuel værdi
+Tranebærvej 206753 Agerbæk,rbæk,156.402,22-06-2007,Alm. Salg,1.109,6,Villa,141,2010,,Aktuel værdi
+Storegade 406753 Agerbæk,rbæk,650.000,21-06-2007,Alm. Salg,6.500,3,Villa,100,1963,-6 %,Aktuel værdi
+Tjørnealle 36753 Agerbæk,rbæk,1.145.000,19-06-2007,Alm. Salg,5.841,5,Villa,196,1977,0 %,Aktuel værdi
+Tjørnealle 156753 Agerbæk,rbæk,525.000,31-05-2007,Fam. Salg,3.776,4,Villa,139,1977,,Aktuel værdi
+Allegade 36753 Agerbæk,rbæk,415.000,14-05-2007,Alm. Salg,8.645,2,Villa,48,1937,-3 %,Aktuel værdi
+Tranebærvej 86753 Agerbæk,rbæk,202.602,19-04-2007,Alm. Salg,1.066,5,Villa,190,2008,,Aktuel værdi
+Tyttebærvej 16753 Agerbæk,rbæk,1.045.000,02-04-2007,Alm. Salg,7.517,5,Villa,139,1979,,Aktuel værdi
+Nørregade 13B6753 Agerbæk,rbæk,898.000,29-03-2007,Alm. Salg,10.690,3,Rækkehus,84,2002,0 %,Aktuel værdi
+Hybenvej 176753 Agerbæk,rbæk,1.100.000,13-03-2007,Alm. Salg,7.971,7,Villa,138,1986,0 %,Aktuel værdi
+Egealle 156753 Agerbæk,rbæk,1.210.000,29-01-2007,Alm. Salg,6.648,6,Villa,182,1976,,Aktuel værdi
+Kærvej 8A6753 Agerbæk,rbæk,300.000,06-01-2007,Alm. Salg,4.918,2,Rækkehus,61,1982,,Aktuel værdi
+Kærvej 8C6753 Agerbæk,rbæk,445.000,01-01-2007,Alm. Salg,7.295,2,Rækkehus,61,1982,,Aktuel værdi
+Blåbærvej 166753 Agerbæk,rbæk,850.000,20-12-2006,Alm. Salg,6.343,5,Villa,134,1980,,Aktuel værdi
+Starupvej 56753 Agerbæk,rbæk,1.063.000,07-12-2006,Alm. Salg,4.788,7,Villa,222,1952,,Aktuel værdi
+Grønnegade 16753 Agerbæk,rbæk,620.000,05-12-2006,Alm. Salg,5.123,5,Villa,121,1961,,Aktuel værdi
+Storegade 316753 Agerbæk,rbæk,600.000,23-11-2006,Alm. Salg,5.000,4,Villa,120,1976,,Aktuel værdi
+Egealle 186753 Agerbæk,rbæk,560.000,21-11-2006,Alm. Salg,4.117,3,Villa,136,1976,,Aktuel værdi
+Tranebærvej 16753 Agerbæk,rbæk,157.948,24-10-2006,Alm. Salg,929,4,Villa,170,2008,,Aktuel værdi
+Blåbærvej 126753 Agerbæk,rbæk,850.000,22-08-2006,Alm. Salg,7.024,4,Villa,121,1979,,Aktuel værdi
+Tranebærvej 246753 Agerbæk,rbæk,165.648,07-08-2006,Alm. Salg,920,4,Villa,180,2010,,Aktuel værdi
+Allegade 216753 Agerbæk,rbæk,825.000,14-07-2006,Alm. Salg,7.366,4,Villa,112,1962,,Aktuel værdi
+Grønnegade 166753 Agerbæk,rbæk,900.000,27-06-2006,Alm. Salg,8.108,4,Villa,111,2013,,Aktuel værdi
+Sønderbyen 146753 Agerbæk,rbæk,750.000,19-06-2006,Alm. Salg,5.033,4,Villa,149,1870,,Aktuel værdi
+Tranebærvej 166753 Agerbæk,rbæk,1.598.000,03-05-2006,Alm. Salg,10.945,5,Villa,146,2001,,Aktuel værdi
+Ålundevej 186753 Agerbæk,rbæk,1.741.315,19-04-2006,Fam. Salg,9.164,5,Stuehus,190,1912,,
+Debelvej 606753 Agerbæk,rbæk,900.000,11-04-2006,Alm. Salg,8.333,4,Villa,108,1966,,Aktuel værdi
+Nygade 146753 Agerbæk,rbæk,885.000,10-04-2006,Alm. Salg,6.145,5,Villa,144,1977,,Aktuel værdi
+Fåborgvej 1166753 Agerbæk,rbæk,525.000,05-04-2006,Alm. Salg,6.034,3,Villa,87,1948,,Aktuel værdi
+Tranebærvej 226753 Agerbæk,rbæk,156.548,30-03-2006,Alm. Salg,966,4,Villa,162,2007,,Aktuel værdi
+Kærbjergvej 166753 Agerbæk,rbæk,1.200.000,28-03-2006,Fam. Salg,5.454,6,Stuehus,220,1918,,
+Kærvej 146753 Agerbæk,rbæk,2.000.000,27-03-2006,Alm. Salg,10.050,6,Villa,199,1984,,Aktuel værdi
+Engvej 36753 Agerbæk,rbæk,671.500,15-03-2006,Fam. Salg,5.788,4,Rækkehus,116,1999,,Aktuel værdi
+Kærbjergvej 236753 Agerbæk,rbæk,700.000,14-03-2006,Alm. Salg,4.093,4,Stuehus,171,1922,,
+Kærbjergvej 156753 Agerbæk,rbæk,1.000.000,06-03-2006,Alm. Salg,5.952,9,Stuehus,168,1910,,
+Tranebærvej 96753 Agerbæk,rbæk,174.748,04-03-2006,Alm. Salg,882,5,Villa,198,2008,,Aktuel værdi
+Ålundevej 106753 Agerbæk,rbæk,1.530.000,27-02-2006,Alm. Salg,9.683,4,Villa,158,1999,,Aktuel værdi
+Brombærvej 126753 Agerbæk,rbæk,1.545.000,17-01-2006,Alm. Salg,8.131,6,Villa,190,1995,,Aktuel værdi
+Tranebærvej 176753 Agerbæk,rbæk,122.640,06-01-2006,Alm. Salg,834,4,Villa,147,2006,,Aktuel værdi
+Fåborgvej 1286753 Agerbæk,rbæk,598.000,17-11-2005,Alm. Salg,4.152,4,Villa,144,1959,,Aktuel værdi
+Debelvej 406753 Agerbæk,rbæk,925.000,25-10-2005,Alm. Salg,7.581,6,Villa,122,1961,,Aktuel værdi
+Fåborgvej 726753 Agerbæk,rbæk,4.462.215,10-10-2005,Alm. Salg,19.832,7,Stuehus,225,1917,,
+Egealle 136753 Agerbæk,rbæk,770.000,28-07-2005,Alm. Salg,5.460,4,Villa,141,1976,,Aktuel værdi
+Jernbanegade 306753 Agerbæk,rbæk,700.000,08-07-2005,Alm. Salg,4.861,6,Villa,144,1934,,Aktuel værdi
+Nørregade 11D6753 Agerbæk,rbæk,930.000,07-07-2005,Alm. Salg,11.341,3,Rækkehus,82,2001,,Aktuel værdi
+Kærvej 66753 Agerbæk,rbæk,1.285.000,23-05-2005,Alm. Salg,7.981,6,Villa,161,1986,,Aktuel værdi
+Fåborgvej 1106753 Agerbæk,rbæk,355.000,23-05-2005,Alm. Salg,4.176,3,Villa,85,1957,,Aktuel værdi
+Højgårdsvej 36753 Agerbæk,rbæk,895.000,19-05-2005,Alm. Salg,6.302,3,Villa,142,1922,,Aktuel værdi
+Jernbanegade 276753 Agerbæk,rbæk,650.000,09-05-2005,Alm. Salg,4.452,3,Villa,146,1916,,Aktuel værdi
+Tranebærvej 236753 Agerbæk,rbæk,168.387,28-04-2005,Alm. Salg,962,5,Villa,175,2010,,Aktuel værdi
+Kærbjergvej 226753 Agerbæk,rbæk,824.956,26-04-2005,Alm. Salg,7.638,5,Stuehus,108,1897,,
+Grønnegade 136753 Agerbæk,rbæk,635.000,20-04-2005,Alm. Salg,5.879,4,Villa,108,1965,,Aktuel værdi
+Fåborgvej 866753 Agerbæk,rbæk,1.421.154,07-04-2005,Alm. Salg,6.288,6,Villa,226,1972,,Aktuel værdi
+Fåborgvej 1416753 Agerbæk,rbæk,785.000,22-03-2005,Alm. Salg,6.709,4,Villa,117,1967,,Aktuel værdi
+Østergade 236753 Agerbæk,rbæk,730.000,18-03-2005,Alm. Salg,4.649,7,Villa,157,1935,,Aktuel værdi
+Rodebækvej 26753 Agerbæk,rbæk,12.900.000,14-03-2005,Alm. Salg,86.000,5,Stuehus,150,1935,,
+Storegade 29B6753 Agerbæk,rbæk,527.000,10-03-2005,Alm. Salg,6.057,3,Rækkehus,87,1997,,Aktuel værdi
+Nørregade 126753 Agerbæk,rbæk,70.000,25-02-2005,Alm. Salg,534,6,Villa,131,2006,,Aktuel værdi
+Nørregade 146753 Agerbæk,rbæk,450.000,25-02-2005,Alm. Salg,5.421,3,Villa,83,1948,,Aktuel værdi
+Ålundevej 46753 Agerbæk,rbæk,480.000,20-02-2005,Fam. Salg,4.363,4,Villa,110,1963,,Aktuel værdi
+Blåbærvej 136753 Agerbæk,rbæk,550.037,07-02-2005,Fam. Salg,2.546,7,Villa,216,1979,,Aktuel værdi
+Fåborgvej 1576753 Agerbæk,rbæk,530.000,17-01-2005,Alm. Salg,7.162,2,Villa,74,1947,,Aktuel værdi
+Sønderbyen 296753 Agerbæk,rbæk,630.000,02-01-2005,Alm. Salg,5.727,3,Villa,110,1967,,Aktuel værdi
+Dyrebjergvej 4A6753 Agerbæk,rbæk,600.000,13-12-2004,Alm. Salg,3.157,5,Stuehus,190,1954,,
+Nygade 126753 Agerbæk,rbæk,660.000,06-12-2004,Alm. Salg,5.739,5,Villa,115,1950,,Aktuel værdi
+Hybenvej 136753 Agerbæk,rbæk,1.265.000,06-12-2004,Alm. Salg,7.808,5,Villa,162,1988,,Aktuel værdi
+Hybenvej 76753 Agerbæk,rbæk,1.250.000,17-11-2004,Alm. Salg,8.333,6,Villa,150,1986,,Aktuel værdi
+Kærbjergvej 296753 Agerbæk,rbæk,450.000,17-08-2004,Alm. Salg,5.113,4,Villa,88,1842,,Aktuel værdi
+Bredgade 136753 Agerbæk,rbæk,315.000,01-07-2004,Alm. Salg,7.875,2,Villa,40,1950,,Aktuel værdi
+Bredgade 226753 Agerbæk,rbæk,524.511,24-06-2004,Alm. Salg,4.196,4,Villa,125,1932,,Aktuel værdi
+Fåborgvej 1276753 Agerbæk,rbæk,845.000,07-06-2004,Alm. Salg,5.216,5,Villa,162,1965,,Aktuel værdi
+Kokjærvej 86753 Agerbæk,rbæk,1.295.000,25-05-2004,Alm. Salg,4.331,6,Stuehus,299,1954,,
+Grønnegade 176753 Agerbæk,rbæk,858.183,20-05-2004,Alm. Salg,9.129,3,Villa,94,2004,,Aktuel værdi
+Rodebækvej 56753 Agerbæk,rbæk,667.500,15-03-2004,Alm. Salg,4.944,4,Villa,135,1900,,Aktuel værdi
+Ålundevej 136753 Agerbæk,rbæk,870.000,28-01-2004,Alm. Salg,3.625,6,Stuehus,240,2010,,
+Lochmannsvej 136753 Agerbæk,rbæk,915.000,21-01-2004,Alm. Salg,5.718,5,Villa,160,1973,,Aktuel værdi
+"Bredgade 10, ST6753 Agerbæk",rbæk,1.200.000,08-12-2003,Andet,7.594,6,Villa,158,1916,,Aktuel værdi
+Debelvej 106753 Agerbæk,rbæk,450.000,25-09-2003,Fam. Salg,-,3,Villa,85,1981,,Aktuel værdi
+Hedelundvej 46753 Agerbæk,rbæk,395.000,19-09-2003,Alm. Salg,1.854,5,Villa,213,2006,,Aktuel værdi
+Ålundevej 206753 Agerbæk,rbæk,2.375.000,02-09-2003,Alm. Salg,10.795,7,Stuehus,220,1875,,
+Kærbjergvej 266753 Agerbæk,rbæk,900.000,02-08-2003,Alm. Salg,3.321,5,Stuehus,271,2011,,
+Debelvej 66753 Agerbæk,rbæk,275.000,12-07-2003,Alm. Salg,2.148,5,Villa,128,1944,,Aktuel værdi
+Storegade 366753 Agerbæk,rbæk,695.000,31-05-2003,Alm. Salg,5.940,5,Villa,117,1948,,Aktuel værdi
+Kærbjergvej 246753 Agerbæk,rbæk,825.000,26-05-2003,Alm. Salg,3.451,5,Stuehus,239,1911,,
+Fåborgvej 986753 Agerbæk,rbæk,457.500,25-04-2003,Alm. Salg,3.750,4,Villa,122,1942,,Aktuel værdi
+Jernbanegade 266753 Agerbæk,rbæk,595.000,20-03-2003,Alm. Salg,1.919,9,Villa,310,1936,,Aktuel værdi
+Pilealle 76753 Agerbæk,rbæk,700.000,22-10-2002,Alm. Salg,4.929,5,Villa,142,1973,,Aktuel værdi
+Nørregade 13A6753 Agerbæk,rbæk,890.000,27-09-2002,Alm. Salg,10.595,3,Rækkehus,84,2002,,Aktuel værdi
+Lindealle 16753 Agerbæk,rbæk,795.000,26-09-2002,Alm. Salg,-,6,Villa,181,1977,,Aktuel værdi
+Skovgårdsvej 96753 Agerbæk,rbæk,1.000.000,02-09-2002,Alm. Salg,6.369,7,Villa,157,1968,,Aktuel værdi
+Debelvej 466753 Agerbæk,rbæk,765.000,27-08-2002,Alm. Salg,7.650,4,Villa,100,1964,,Aktuel værdi
+Debelvej 356753 Agerbæk,rbæk,791.929,20-07-2002,Alm. Salg,4.168,6,Stuehus,190,1910,,
+Østergade 306753 Agerbæk,rbæk,236.667,17-07-2002,Fam. Salg,4.226,2,Villa,56,1954,,Aktuel værdi
+Rodebækvej 86753 Agerbæk,rbæk,850.000,17-05-2002,Fam. Salg,2.941,12,Stuehus,289,1906,,
+Hedelundvej 86753 Agerbæk,rbæk,340.000,20-03-2002,Alm. Salg,2.125,4,Villa,160,1918,,Aktuel værdi
+Blåbærvej 26753 Agerbæk,rbæk,798.000,15-01-2002,Alm. Salg,6.650,4,Villa,120,1980,,Aktuel værdi
+Hybenvej 66753 Agerbæk,rbæk,1.500.000,22-12-2001,Alm. Salg,10.791,4,Villa,139,1998,,Aktuel værdi
+Dyrebjergvej 66753 Agerbæk,rbæk,410.000,05-12-2001,Alm. Salg,2.562,4,Stuehus,160,1954,,
+Storegade 256753 Agerbæk,rbæk,600.000,21-11-2001,Fam. Salg,3.870,6,Villa,155,1954,,Aktuel værdi
+Bredgade 76753 Agerbæk,rbæk,510.000,01-11-2001,Alm. Salg,4.903,3,Villa,104,1936,,Aktuel værdi
+Debelvej 266753 Agerbæk,rbæk,885.000,16-10-2001,Alm. Salg,6.860,4,Villa,129,1987,,Aktuel værdi
+Jernbanegade 5C6753 Agerbæk,rbæk,275.000,28-09-2001,Andet,2.750,4,Rækkehus,100,1924,,Aktuel værdi
+Bredgade 96753 Agerbæk,rbæk,550.000,24-09-2001,Alm. Salg,4.661,3,Villa,118,1935,,Aktuel værdi
+Nygade 156753 Agerbæk,rbæk,835.000,20-08-2001,Alm. Salg,6.185,3,Villa,135,1975,,Aktuel værdi
+Højgårdsvej 66753 Agerbæk,rbæk,199.500,25-07-2001,Alm. Salg,1.445,6,Stuehus,138,1959,,
+Dyrebjergvej 86753 Agerbæk,rbæk,475.000,16-07-2001,Alm. Salg,5.107,4,Stuehus,93,1954,,
+Østergade 106753 Agerbæk,rbæk,670.000,05-07-2001,Alm. Salg,3.681,5,Villa,182,1965,,Aktuel værdi
+Nørregade 11E6753 Agerbæk,rbæk,100.000,10-05-2001,Alm. Salg,1.515,2,Rækkehus,66,2001,,Aktuel værdi
+Tranebærvej 56753 Agerbæk,rbæk,120.978,02-05-2001,Alm. Salg,699,5,Villa,173,2001,,Aktuel værdi
+Østergade 96753 Agerbæk,rbæk,560.000,05-04-2001,Alm. Salg,4.912,4,Villa,114,1923,,Aktuel værdi
+Hellevej 186753 Agerbæk,rbæk,1.200.000,02-04-2001,Fam. Salg,5.911,6,Villa,203,1979,,Aktuel værdi
+Tyttebærvej 36753 Agerbæk,rbæk,1.050.000,30-03-2001,Alm. Salg,5.172,4,Villa,203,1979,,Aktuel værdi
+Grønnegade 86753 Agerbæk,rbæk,565.000,13-02-2001,Alm. Salg,5.090,4,Villa,111,1963,,Aktuel værdi
+Pilealle 36753 Agerbæk,rbæk,812.500,12-02-2001,Alm. Salg,6.885,4,Villa,118,1970,,Aktuel værdi
+Kærbjergvej 176753 Agerbæk,rbæk,525.000,24-01-2001,Alm. Salg,5.833,4,Villa,90,1919,,Aktuel værdi
+Tranebærvej 76753 Agerbæk,rbæk,155.241,11-01-2001,Alm. Salg,1.437,3,Villa,108,2003,,Aktuel værdi
+Ålundevej 216753 Agerbæk,rbæk,1.325.000,16-11-2000,Alm. Salg,5.837,8,Stuehus,227,1911,,
+Egealle 126753 Agerbæk,rbæk,740.000,28-09-2000,Alm. Salg,5.692,4,Villa,130,1977,,Aktuel værdi
+Lindealle 26753 Agerbæk,rbæk,830.000,29-08-2000,Alm. Salg,6.102,5,Villa,136,1976,,Aktuel værdi
+Engvej 96753 Agerbæk,rbæk,780.000,24-07-2000,Alm. Salg,8.297,3,Rækkehus,94,1999,,Aktuel værdi
+Lindealle 56753 Agerbæk,rbæk,795.000,02-07-2000,Alm. Salg,6.022,4,Villa,132,1972,,Aktuel værdi
+Egealle 166753 Agerbæk,rbæk,880.000,13-06-2000,Alm. Salg,6.111,4,Villa,144,1977,,Aktuel værdi
+Engvej 126753 Agerbæk,rbæk,257.757,25-05-2000,Fam. Salg,-,6,Villa,160,1954,,Aktuel værdi
+Nørregade 156753 Agerbæk,rbæk,440.000,22-05-2000,Alm. Salg,3.826,4,Villa,115,1920,,Aktuel værdi
+Sønderbyen 86753 Agerbæk,rbæk,225.000,12-05-2000,Alm. Salg,3.082,2,Villa,73,1944,,Aktuel værdi
+Lochmannsvej 26753 Agerbæk,rbæk,705.000,18-04-2000,Alm. Salg,5.974,4,Villa,118,1970,,Aktuel værdi
+Østergade 116753 Agerbæk,rbæk,460.000,12-04-2000,Alm. Salg,4.693,3,Villa,98,1980,,Aktuel værdi
+Hybenvej 106753 Agerbæk,rbæk,62.475,25-03-2000,Alm. Salg,443,4,Villa,141,2000,,Aktuel værdi
+Debelvej 686753 Agerbæk,rbæk,500.000,13-03-2000,Fam. Salg,2.793,5,Stuehus,179,2009,,
+Ålundevej 176753 Agerbæk,rbæk,1.699.800,02-02-2000,Alm. Salg,7.656,6,Stuehus,222,1925,,
+Østergade 56753 Agerbæk,rbæk,405.000,31-01-2000,Alm. Salg,3.164,4,Villa,128,1936,,Aktuel værdi
+Rodebækvej 16753 Agerbæk,rbæk,347.500,11-12-1999,Alm. Salg,-,7,Stuehus,237,1902,,
+Elmealle 96753 Agerbæk,rbæk,875.000,08-11-1999,Alm. Salg,5.368,4,Villa,163,1977,,Aktuel værdi
+Jernbanegade 406753 Agerbæk,rbæk,596.500,02-10-1999,Alm. Salg,7.848,3,Villa,76,1956,,Aktuel værdi
+Allegade 236753 Agerbæk,rbæk,670.000,30-08-1999,Alm. Salg,4.407,4,Villa,152,1962,,Aktuel værdi
+Fåborgvej 1176753 Agerbæk,rbæk,1.611.691,27-07-1999,Alm. Salg,8.572,7,Stuehus,188,1917,,
+Debelvej 286753 Agerbæk,rbæk,444.580,15-06-1999,Alm. Salg,4.234,3,Villa,105,1946,,Aktuel værdi
+Engvej 146753 Agerbæk,rbæk,220.000,28-04-1999,Alm. Salg,1.279,6,Villa,172,2000,,Aktuel værdi
+Højgårdsvej 156753 Agerbæk,rbæk,600.000,19-04-1999,Alm. Salg,-,5,Stuehus,130,1954,,
+Højgårdsvej 116753 Agerbæk,rbæk,128.525,06-04-1999,Alm. Salg,476,9,Stuehus,270,1927,,
+Tjørnealle 136753 Agerbæk,rbæk,750.000,23-03-1999,Alm. Salg,-,4,Villa,167,1977,,Aktuel værdi
+Kokjærvej 66753 Agerbæk,rbæk,70.000,19-03-1999,Fam. Salg,760,7,Stuehus,92,1954,,
+Engvej 116753 Agerbæk,rbæk,180.000,08-03-1999,Alm. Salg,841,6,Villa,214,2000,,Aktuel værdi
+Engvej 56753 Agerbæk,rbæk,738.000,26-02-1999,Alm. Salg,7.935,3,Rækkehus,93,1999,,Aktuel værdi
+Bredgade 186753 Agerbæk,rbæk,535.000,26-02-1999,Alm. Salg,3.794,4,Villa,141,1930,,Aktuel værdi
+Engvej 106753 Agerbæk,rbæk,858.000,23-02-1999,Alm. Salg,7.396,4,Rækkehus,116,1999,,Aktuel værdi
+Kærbjergvej 116753 Agerbæk,rbæk,1.350.000,01-02-1999,Fam. Salg,5.252,5,Stuehus,257,1986,,
+"Fåborgvej 167, ST6753 Agerbæk",rbæk,510.000,28-01-1999,Alm. Salg,3.984,4,Villa,128,1930,,Aktuel værdi
+Klippen 46753 Agerbæk,rbæk,289.000,10-01-1999,Fam. Salg,3.612,3,Villa,80,1931,,Aktuel værdi
+Kærbjergvej 406753 Agerbæk,rbæk,502.000,16-11-1998,Fam. Salg,5.122,3,Stuehus,98,1875,,
+Grønnegade 66753 Agerbæk,rbæk,540.000,08-10-1998,Alm. Salg,5.400,3,Villa,100,1969,,Aktuel værdi
+Kærbjergvej 136753 Agerbæk,rbæk,785.000,31-08-1998,Alm. Salg,-,7,Villa,215,1928,,Aktuel værdi
+Hybenvej 116753 Agerbæk,rbæk,839.316,11-07-1998,Alm. Salg,7.053,5,Villa,119,1993,,Aktuel værdi
+Fåborgvej 1396753 Agerbæk,rbæk,800.000,22-06-1998,Alm. Salg,5.161,3,Villa,155,1970,,Aktuel værdi
+Jernbanegade 426753 Agerbæk,rbæk,570.000,08-06-1998,Alm. Salg,4.830,4,Villa,118,1965,,Aktuel værdi
+Hybenvej 126753 Agerbæk,rbæk,62.550,03-06-1998,Alm. Salg,268,8,Villa,233,1999,,Aktuel værdi
+Parkvej 86753 Agerbæk,rbæk,1.060.000,18-05-1998,Alm. Salg,5.380,6,Villa,197,1972,,Aktuel værdi
+Debelvej 296753 Agerbæk,rbæk,627.000,18-05-1998,Alm. Salg,5.598,4,Villa,112,1959,,Aktuel værdi
+Storegade 276753 Agerbæk,rbæk,245.000,18-05-1998,Fam. Salg,1.960,5,Villa,125,1923,,Aktuel værdi
+Hybenvej 96753 Agerbæk,rbæk,1.161.000,19-02-1998,Alm. Salg,6.596,5,Villa,176,1991,,Aktuel værdi
+Hybenvej 86753 Agerbæk,rbæk,60.825,01-12-1997,Alm. Salg,380,6,Villa,160,1998,,Aktuel værdi
+Kærbjergvej 276753 Agerbæk,rbæk,542.000,19-11-1997,Alm. Salg,2.248,6,Stuehus,241,2009,,
+Tjørnealle 46753 Agerbæk,rbæk,745.000,30-10-1997,Alm. Salg,5.209,4,Villa,143,1977,,Aktuel værdi
+Ålundevej 26753 Agerbæk,rbæk,829.000,17-10-1997,Alm. Salg,6.186,6,Villa,134,1987,,Aktuel værdi
+Østergade 76753 Agerbæk,rbæk,458.258,23-09-1997,Alm. Salg,2.517,7,Villa,182,1922,,Aktuel værdi
+Storegade 206753 Agerbæk,rbæk,796.500,19-08-1997,Alm. Salg,-,10,Servicevirksomhed,40,1917,,Aktuel værdi
+Hellevej 96753 Agerbæk,rbæk,760.000,13-08-1997,Alm. Salg,3.979,5,Stuehus,191,1931,,
+Hedelundvej 26753 Agerbæk,rbæk,595.000,09-08-1997,Alm. Salg,-,6,Stuehus,234,1969,,
+Dyrebjergvej 26753 Agerbæk,rbæk,793.000,08-07-1997,Alm. Salg,5.322,7,Stuehus,149,1912,,
+Storegade 29A6753 Agerbæk,rbæk,620.000,17-04-1997,Alm. Salg,7.126,3,Rækkehus,87,1997,,Aktuel værdi
+Fåborgvej 1136753 Agerbæk,rbæk,450.000,08-04-1997,Alm. Salg,2.960,6,Villa,152,2003,,Aktuel værdi
+Hybenvej 156753 Agerbæk,rbæk,68.250,01-04-1997,Alm. Salg,509,5,Villa,134,1997,,Aktuel værdi
+Debelvej 26753 Agerbæk,rbæk,553.000,01-02-1997,Alm. Salg,3.840,4,Villa,144,1970,,Aktuel værdi
+Egealle 46753 Agerbæk,rbæk,677.500,22-01-1997,Alm. Salg,4.608,6,Villa,147,1976,,Aktuel værdi
+Kærvej 126753 Agerbæk,rbæk,150.000,17-12-1996,Fam. Salg,833,4,Villa,180,1998,,Aktuel værdi
+Lindealle 116753 Agerbæk,rbæk,642.676,24-10-1996,Alm. Salg,5.267,5,Villa,122,1974,,Aktuel værdi
+Kærbjergvej 146753 Agerbæk,rbæk,1.553.930,30-09-1996,Alm. Salg,9.712,5,Stuehus,160,1948,,
+Debelvej 366753 Agerbæk,rbæk,206.427,24-09-1996,Alm. Salg,1.965,4,Villa,105,1964,,Aktuel værdi
+Debelvej 306753 Agerbæk,rbæk,425.000,09-09-1996,Alm. Salg,4.427,3,Villa,96,1950,,Aktuel værdi
+Hybenvej 16753 Agerbæk,rbæk,62.100,29-08-1996,Alm. Salg,323,7,Villa,192,1997,,Aktuel værdi
+Tjørnealle 176753 Agerbæk,rbæk,610.000,08-08-1996,Alm. Salg,3.812,5,Villa,160,1976,,Aktuel værdi
+Bøgealle 26753 Agerbæk,rbæk,475.000,31-07-1996,Fam. Salg,4.166,4,Villa,114,1968,,Aktuel værdi
+Storegade 356753 Agerbæk,rbæk,975.000,24-07-1996,Alm. Salg,4.045,8,Villa,241,1934,,Aktuel værdi
+Egealle 176753 Agerbæk,rbæk,690.000,03-07-1996,Alm. Salg,-,5,Villa,151,1976,,Aktuel værdi
+Allegade 186753 Agerbæk,rbæk,650.000,23-04-1996,Alm. Salg,-,5,Villa,160,1975,,Aktuel værdi
+Debelvej 576753 Agerbæk,rbæk,870.000,31-03-1996,Alm. Salg,8.700,2,Stuehus,100,1965,,
+Debelvej 186753 Agerbæk,rbæk,490.000,12-03-1996,Fam. Salg,2.121,4,Villa,231,1963,,Aktuel værdi
+Starupvej 116753 Agerbæk,rbæk,500.000,15-12-1995,Fam. Salg,4.587,4,Stuehus,109,1954,,
+Ålundevej 226753 Agerbæk,rbæk,125.576,31-10-1995,Alm. Salg,-,6,Stuehus,240,1914,,
+Hellevej 86753 Agerbæk,rbæk,335.000,20-10-1995,Alm. Salg,-,5,Villa,195,1918,,Aktuel værdi
+Brombærvej 146753 Agerbæk,rbæk,67.400,13-10-1995,Alm. Salg,491,4,Villa,137,1996,,Aktuel værdi
+Fåborgvej 1006753 Agerbæk,rbæk,240.000,28-08-1995,Alm. Salg,1.935,3,Villa,124,1942,,Aktuel værdi
+Sønderbyen 236753 Agerbæk,rbæk,100.000,21-08-1995,Auktion,-,4,Villa,145,1925,,Aktuel værdi
+Skovgårdsvej 156753 Agerbæk,rbæk,531.000,24-05-1995,Alm. Salg,-,3,Villa,132,1969,,Aktuel værdi
+Debelvej 46753 Agerbæk,rbæk,300.000,17-04-1995,Alm. Salg,-,5,Villa,131,1938,,Aktuel værdi
+Lindealle 66753 Agerbæk,rbæk,631.400,27-03-1995,Alm. Salg,3.547,5,Villa,178,1974,,Aktuel værdi
+Ålundevej 146753 Agerbæk,rbæk,848.600,22-02-1995,Alm. Salg,-,8,Stuehus,298,1909,,
+Nr Agerbækvej 36753 Agerbæk,rbæk,620.000,10-01-1995,Alm. Salg,3.179,5,Stuehus,195,1960,,
+Jernbanegade 206753 Agerbæk,rbæk,384.000,19-12-1994,Alm. Salg,1.979,5,Villa,194,1954,,Aktuel værdi
+Fåborgvej 1306753 Agerbæk,rbæk,362.500,17-12-1994,Alm. Salg,-,6,Villa,145,1956,,Aktuel værdi
+Debelvej 556753 Agerbæk,rbæk,350.000,09-08-1994,Alm. Salg,3.431,3,Villa,102,1936,,Aktuel værdi
+Sønderbyen 306753 Agerbæk,rbæk,1.350.000,12-07-1994,Fam. Salg,6.521,7,Stuehus,207,1927,,
+Hellevej 136753 Agerbæk,rbæk,450.000,23-06-1994,Alm. Salg,-,5,Stuehus,147,1901,,
+Debelvej 216753 Agerbæk,rbæk,577.330,07-06-1994,Alm. Salg,2.588,6,Villa,223,1930,,Aktuel værdi
+Kærbjergvej 66753 Agerbæk,rbæk,225.000,07-06-1994,Alm. Salg,1.159,7,Villa,194,1997,,Aktuel værdi
+Højgårdsvej 56753 Agerbæk,rbæk,130.000,13-04-1994,Alm. Salg,812,8,Stuehus,160,1880,,
+Starupvej 46753 Agerbæk,rbæk,289.204,08-04-1994,Alm. Salg,1.624,6,Stuehus,178,1961,,
+Starupvej 86753 Agerbæk,rbæk,990.000,05-04-1994,Fam. Salg,-,8,Stuehus,179,1905,,
+Tyttebærvej 86753 Agerbæk,rbæk,203.268,16-12-1993,Andet,-,4,Villa,154,1978,,Aktuel værdi
+Debelvej 396753 Agerbæk,rbæk,280.000,30-10-1993,Alm. Salg,2.745,3,Villa,102,1931,,Aktuel værdi
+Hellevej 236753 Agerbæk,rbæk,640.000,30-09-1993,Alm. Salg,3.232,5,Stuehus,198,2001,,
+Rodebækvej 46753 Agerbæk,rbæk,762.000,21-09-1993,Alm. Salg,6.350,5,Stuehus,120,1917,,
+Ålundevej 256753 Agerbæk,rbæk,409.000,23-08-1993,Alm. Salg,2.509,6,Stuehus,163,1845,,
+Egealle 116753 Agerbæk,rbæk,680.000,20-08-1993,Alm. Salg,4.303,5,Villa,158,1976,,Aktuel værdi
+Debelvej 546753 Agerbæk,rbæk,312.000,01-07-1993,Alm. Salg,2.437,6,Stuehus,128,1949,,
+Storegade 436753 Agerbæk,rbæk,300.000,23-06-1993,Alm. Salg,2.586,3,Villa,116,1948,,Aktuel værdi
+Blåbærvej 146753 Agerbæk,rbæk,340.000,07-06-1993,Alm. Salg,-,5,Villa,134,1978,,Aktuel værdi
+Højgårdsvej 1C6753 Agerbæk,rbæk,1.200.000,01-04-1993,Alm. Salg,7.843,6,Stuehus,153,1936,,
+Lochmannsvej 16753 Agerbæk,rbæk,270.000,22-02-1993,Fam. Salg,-,4,Villa,121,1967,,Aktuel værdi
+Grønnegade 46753 Agerbæk,rbæk,475.000,26-11-1992,Alm. Salg,2.745,7,Villa,173,1964,,Aktuel værdi
+Højgårdsvej 26753 Agerbæk,rbæk,198.000,20-10-1992,Alm. Salg,1.455,4,Villa,136,1916,,Aktuel værdi
+Sønderbyen 136753 Agerbæk,rbæk,235.000,08-10-1992,Alm. Salg,2.422,4,Villa,97,1877,,Aktuel værdi
+Kærbjergvej 36753 Agerbæk,rbæk,90.000,15-09-1992,Alm. Salg,596,6,Villa,151,1994,,Aktuel værdi
+Debelvej 666753 Agerbæk,rbæk,300.000,03-08-1992,Alm. Salg,2.205,4,Stuehus,136,1929,,
+Skovgårdsvej 196753 Agerbæk,rbæk,460.000,17-03-1992,Alm. Salg,3.108,5,Villa,148,1970,,Aktuel værdi
+Allegade 296753 Agerbæk,rbæk,570.000,10-02-1992,Alm. Salg,-,6,Villa,182,1973,,Aktuel værdi

@@ -1,0 +1,896 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Bøgevej 28653 Them,Them,1.200.000,01-05-2017,Alm. Salg,9.230,5,Villa,130,1976,-7 %,Aktuel værdi
+Rodelundvej 138653 Them,Them,750.000,30-04-2017,Alm. Salg,6.000,5,Villa,125,1924,,Aktuel værdi
+Syrenvej 68653 Them,Them,2.045.000,08-04-2017,Alm. Salg,14.006,5,Villa,146,2009,-3 %,Aktuel værdi
+Dyrehaven 88653 Them,Them,2.275.000,30-03-2017,Alm. Salg,16.250,5,Villa,140,1998,-3 %,Aktuel værdi
+Toftegårdsparken 268653 Them,Them,1.360.000,29-03-2017,Alm. Salg,12.952,4,Villa,105,1978,-3 %,Aktuel værdi
+Ansøvej 188653 Them,Them,295.000,20-03-2017,Alm. Salg,2.006,5,Stuehus,147,1870,,
+Højmarkvej 58653 Them,Them,100.000,20-03-2017,Alm. Salg,531,5,Stuehus,188,1910,,
+Smedebakken 58653 Them,Them,675.000,18-03-2017,Alm. Salg,5.273,6,Villa,128,1930,-13 %,Aktuel værdi
+Sepstrupvej 478653 Them,Them,1.049.589,15-03-2017,Alm. Salg,6.685,6,Villa,157,2006,,Aktuel værdi
+Ryvej 118653 Them,Them,5.000.000,09-03-2017,Alm. Salg,21.645,7,Stuehus,231,1884,-16 %,
+Silkeborgvej 128653 Them,Them,1.650.000,07-03-2017,Alm. Salg,9.593,6,Villa,172,1947,-3 %,Aktuel værdi
+Toftegårds Allé 188653 Them,Them,1.440.000,03-03-2017,Alm. Salg,12.307,4,Villa,117,1979,-4 %,Aktuel værdi
+Bellisvej 98653 Them,Them,1.835.000,26-02-2017,Alm. Salg,14.224,4,Villa,129,2007,-3 %,Aktuel værdi
+Præstemarken 338653 Them,Them,735.000,06-02-2017,Alm. Salg,7.500,4,Rækkehus,98,1977,-8 %,Aktuel værdi
+Rodelundvej 8B8653 Them,Them,240.500,14-01-2017,Alm. Salg,1.088,6,Stuehus,221,1981,,
+Lyngkrogvej 28653 Them,Them,1.555.000,11-01-2017,Alm. Salg,10.874,4,Stuehus,143,1929,4 %,
+Hjortevej 88653 Them,Them,2.495.000,09-01-2017,Alm. Salg,16.744,5,Villa,149,2006,-4 %,Aktuel værdi
+Silkeborgvej 2A8653 Them,Them,2.700.000,07-01-2017,Alm. Salg,15.000,7,Villa,180,1978,,Aktuel værdi
+Møllevej 178653 Them,Them,1.550.000,30-12-2016,Alm. Salg,9.117,7,Villa,170,1972,-9 %,Aktuel værdi
+Mosestien 18653 Them,Them,800.000,22-12-2016,Alm. Salg,7.207,5,Villa,111,1962,-11 %,Aktuel værdi
+Them Skovvej 168653 Them,Them,2.200.000,16-12-2016,Fam. Salg,13.017,6,Stuehus,169,1955,,
+Tømmerbyvej 168653 Them,Them,1.690.271,15-12-2016,Alm. Salg,10.121,4,Stuehus,167,1928,,
+Højagervej 118653 Them,Them,1.650.000,13-12-2016,Alm. Salg,11.785,5,Villa,140,1973,-2 %,Aktuel værdi
+Toftegårdsparken 498653 Them,Them,977.500,13-12-2016,Fam. Salg,8.650,4,Villa,113,1979,,Aktuel værdi
+Kirkemindevej 78653 Them,Them,1.050.000,12-12-2016,Alm. Salg,8.536,5,Villa,123,1900,-9 %,Aktuel værdi
+Bellisvej 78653 Them,Them,1.900.000,02-12-2016,Alm. Salg,13.970,4,Villa,136,2006,-5 %,Aktuel værdi
+Tjørnevej 14B8653 Them,Them,995.000,18-11-2016,Alm. Salg,10.934,4,Rækkehus,91,1983,0 %,Aktuel værdi
+Præstemarken 15D8653 Them,Them,580.000,16-11-2016,Alm. Salg,11.836,1,Lejlighed,49,1974,-10 %,Aktuel værdi
+Toftegårds Allé 148653 Them,Them,1.495.000,10-11-2016,Alm. Salg,13.842,4,Villa,108,1980,0 %,Aktuel værdi
+Tømmerbyvej 178653 Them,Them,703.500,06-11-2016,Alm. Salg,4.721,6,Stuehus,149,1908,-58 %,
+Harevej 18653 Them,Them,2.975.000,27-10-2016,Alm. Salg,15.994,6,Villa,186,2008,0 %,Aktuel værdi
+Birkevej 28653 Them,Them,1.100.000,26-10-2016,Fam. Salg,8.148,5,Villa,135,1973,,Aktuel værdi
+Odinsvej 178653 Them,Them,2.195.000,20-10-2016,Alm. Salg,14.161,6,Villa,155,2005,-2 %,Aktuel værdi
+Løvsvinget 208653 Them,Them,1.775.000,19-10-2016,Alm. Salg,10.142,6,Villa,175,1976,-4 %,Aktuel værdi
+Møllevænget 108653 Them,Them,985.000,10-10-2016,Alm. Salg,6.840,6,Villa,144,1971,,Aktuel værdi
+Silkeborgvej 1A8653 Them,Them,1.525.000,07-10-2016,Alm. Salg,9.131,5,Villa,167,1931,-5 %,Aktuel værdi
+Tømmerbyvej 318653 Them,Them,1.680.000,01-10-2016,Alm. Salg,10.700,5,Villa,157,1907,-6 %,Aktuel værdi
+Silkeborgvej 1B8653 Them,Them,1.450.000,29-09-2016,Alm. Salg,12.500,4,Villa,116,2007,-3 %,Aktuel værdi
+Silkeborgvej 708653 Them,Them,1.600.000,23-09-2016,Alm. Salg,10.526,3,Villa,152,1940,,Aktuel værdi
+Lyngkrogvej 18653 Them,Them,1.110.000,20-09-2016,Alm. Salg,9.652,3,Villa,115,1867,-7 %,Aktuel værdi
+Dyrehaven 28653 Them,Them,2.550.000,15-09-2016,Alm. Salg,14.571,7,Villa,175,1998,-5 %,Aktuel værdi
+Liljevej 18653 Them,Them,890.000,15-09-2016,Alm. Salg,10.987,3,Rækkehus,81,1982,-6 %,Aktuel værdi
+Slåenvej 168653 Them,Them,675.000,13-09-2016,Alm. Salg,7.417,4,Rækkehus,91,1986,-15 %,Aktuel værdi
+Sepstrupvej 718653 Them,Them,5.500.000,12-09-2016,Alm. Salg,18.771,6,Stuehus,293,2004,-15 %,
+Horsensvej 158653 Them,Them,300.000,06-09-2016,Alm. Salg,1.463,6,Villa,205,1906,,Aktuel værdi
+Sepstrupvej 68653 Them,Them,550.000,30-08-2016,Fam. Salg,3.873,3,Villa,142,1921,,Aktuel værdi
+Horsensvej 328653 Them,Them,483.200,23-08-2016,Auktion,4.646,4,Villa,104,1977,,Aktuel værdi
+Præstemarken 348653 Them,Them,1.180.000,22-08-2016,Alm. Salg,10.172,4,Villa,116,1976,-9 %,Aktuel værdi
+Them Skovvej 188653 Them,Them,331.250,15-08-2016,Alm. Salg,2.528,4,Stuehus,131,1987,,
+Bøgevej 18653 Them,Them,1.745.000,10-08-2016,Alm. Salg,9.858,6,Villa,177,1974,-6 %,Aktuel værdi
+Smedebakken 188653 Them,Them,1.550.000,19-07-2016,Alm. Salg,11.231,5,Villa,138,1961,-3 %,Aktuel værdi
+Slåenvej 68653 Them,Them,650.000,24-06-2016,Alm. Salg,7.142,4,Rækkehus,91,1984,-13 %,Aktuel værdi
+Møllehøjsvej 18653 Them,Them,1.350.000,21-06-2016,Alm. Salg,8.437,6,Villa,160,1969,-3 %,Aktuel værdi
+Mølledraget 68653 Them,Them,2.000.000,13-06-2016,Alm. Salg,13.605,6,Villa,147,1996,-5 %,Aktuel værdi
+Bødskovgårdvej 168653 Them,Them,90.000,31-05-2016,Alm. Salg,629,5,Stuehus,143,1938,,
+Frisholmvej 48653 Them,Them,1.500.000,18-05-2016,Alm. Salg,12.820,4,Villa,117,1939,16 %,Aktuel værdi
+Saltenvej 168653 Them,Them,2.475.000,17-05-2016,Fam. Salg,11.565,6,Stuehus,214,2013,,
+Toftevænget 248653 Them,Them,1.450.000,03-05-2016,Alm. Salg,10.661,4,Villa,136,1973,-3 %,Aktuel værdi
+Them Østergård 238653 Them,Them,2.300.000,20-04-2016,Alm. Salg,14.110,4,Villa,163,2007,-2 %,Aktuel værdi
+Toftegårdsparken 668653 Them,Them,1.480.000,20-04-2016,Alm. Salg,9.250,6,Villa,160,1980,-7 %,Aktuel værdi
+Slåenvej 278653 Them,Them,1.360.000,14-04-2016,Alm. Salg,9.645,5,Villa,141,1986,-3 %,Aktuel værdi
+Elmevej 58653 Them,Them,1.000.000,04-04-2016,Alm. Salg,5.813,6,Villa,172,1972,-28 %,Aktuel værdi
+Præstemarken 308653 Them,Them,900.000,30-03-2016,Fam. Salg,6.923,4,Villa,130,1977,-10 %,Aktuel værdi
+Sepstrupvej 98653 Them,Them,1.750.000,23-03-2016,Alm. Salg,8.974,6,Villa,195,1924,-3 %,Aktuel værdi
+Toftegårdsparken 58653 Them,Them,1.500.000,22-03-2016,Alm. Salg,10.714,4,Villa,140,1979,-9 %,Aktuel værdi
+Møllevænget 58653 Them,Them,1.125.000,21-03-2016,Alm. Salg,9.375,4,Villa,120,1965,-6 %,Aktuel værdi
+Slåenvej 88653 Them,Them,780.000,17-03-2016,Alm. Salg,8.571,4,Rækkehus,91,1984,-5 %,Aktuel værdi
+Frisholmparken 418653 Them,Them,374.000,15-03-2016,Alm. Salg,2.460,6,Villa,152,2016,,Aktuel værdi
+Frisholmparken 118653 Them,Them,327.000,09-03-2016,Alm. Salg,2.151,7,Villa,152,2017,0 %,Aktuel værdi
+Rodelundvej 218653 Them,Them,2.700.000,03-03-2016,Alm. Salg,15.789,6,Stuehus,171,1928,,
+Hørrelundvej 68653 Them,Them,2.896.000,26-02-2016,Alm. Salg,18.928,8,Villa,153,1936,,Aktuel værdi
+Højagervej 108653 Them,Them,650.000,25-02-2016,Alm. Salg,5.508,4,Villa,118,1973,-27 %,Aktuel værdi
+Odinsvej 38653 Them,Them,1.550.000,12-02-2016,Alm. Salg,11.313,5,Villa,137,2003,-9 %,Aktuel værdi
+Pårupvej 38653 Them,Them,2.612.500,10-02-2016,Alm. Salg,12.265,6,Stuehus,213,1885,-12 %,
+Toftevænget 218653 Them,Them,2.000.000,10-02-2016,Alm. Salg,10.204,7,Villa,196,1972,-5 %,Aktuel værdi
+Ligustervej 88653 Them,Them,1.715.000,18-01-2016,Alm. Salg,13.192,5,Villa,130,2005,-4 %,Aktuel værdi
+Salten Skovvej 98653 Them,Them,2.200.000,13-01-2016,Alm. Salg,17.886,4,Villa,123,1945,-12 %,Aktuel værdi
+Frisholmparken 198653 Them,Them,444.000,07-01-2016,Alm. Salg,2.439,6,Villa,182,2017,,Aktuel værdi
+Toftbjerg Bakke 1A8653 Them,Them,393.837,01-01-2016,Andet,3.076,6,Rækkehus,128,1959,,Aktuel værdi
+Knudlundvej 138653 Them,Them,1.225.000,19-11-2015,Alm. Salg,-,4,Lejlighed,197,1970,,Aktuel værdi
+Toftevænget 358653 Them,Them,1.400.000,18-11-2015,Alm. Salg,9.459,6,Villa,148,1972,-9 %,Aktuel værdi
+Ryvej 108653 Them,Them,2.850.000,13-11-2015,Alm. Salg,17.484,4,Stuehus,163,1820,-7 %,
+Silkeborgvej 42B8653 Them,Them,1.150.000,06-11-2015,Alm. Salg,6.969,6,Rækkehus,165,1900,-4 %,Aktuel værdi
+Ahornvej 58653 Them,Them,1.345.000,30-10-2015,Alm. Salg,11.208,5,Villa,120,1974,-9 %,Aktuel værdi
+Toftegårdsparken 48653 Them,Them,1.350.000,28-10-2015,Alm. Salg,8.231,5,Villa,164,1978,-8 %,Aktuel værdi
+Toftevænget 68653 Them,Them,865.000,09-10-2015,Fam. Salg,5.924,4,Villa,146,1973,,Aktuel værdi
+Præstemarken 318653 Them,Them,1.265.000,07-10-2015,Alm. Salg,12.908,4,Rækkehus,98,1977,-2 %,Aktuel værdi
+Ligustervej 128653 Them,Them,1.875.000,06-10-2015,Alm. Salg,12.500,4,Villa,150,2000,-4 %,Aktuel værdi
+Odinsvej 488653 Them,Them,1.337.000,30-09-2015,Alm. Salg,12.980,3,Villa,103,2005,-4 %,Aktuel værdi
+Ansøvej 178653 Them,Them,714.000,28-09-2015,Fam. Salg,5.100,4,Villa,140,1935,,Aktuel værdi
+Højagervej 68653 Them,Them,1.065.000,16-09-2015,Alm. Salg,10.867,3,Villa,98,1975,-7 %,Aktuel værdi
+Esperlundvej 128653 Them,Them,2.000.000,10-09-2015,Alm. Salg,19.801,7,Industri o.l.,101,1983,,Aktuel værdi
+Ryvej 58653 Them,Them,1.300.000,09-09-2015,Alm. Salg,6.018,5,Stuehus,216,1907,-7 %,
+Kærmindevej 128653 Them,Them,1.625.000,03-09-2015,Alm. Salg,7.004,6,Villa,232,1974,-4 %,Aktuel værdi
+Elmevej 148653 Them,Them,735.000,28-08-2015,Alm. Salg,6.282,4,Villa,117,1973,-18 %,Aktuel værdi
+Skovbrynet 58653 Them,Them,1.040.000,28-08-2015,Alm. Salg,8.888,4,Villa,117,1964,-5 %,Aktuel værdi
+Bakbjergvej 48653 Them,Them,2.100.000,24-08-2015,Alm. Salg,8.713,8,Villa,241,1875,-4 %,Aktuel værdi
+Frisholmparken 238653 Them,Them,280.800,20-08-2015,Alm. Salg,1.651,5,Villa,170,2016,,Aktuel værdi
+Kaldæavej 28653 Them,Them,988.000,18-08-2015,Andet,5.458,6,Villa,181,2006,,Aktuel værdi
+Horsbjergvej 28653 Them,Them,3.615.000,11-08-2015,Alm. Salg,18.350,6,Stuehus,197,1892,-10 %,
+Liljevej 38653 Them,Them,560.983,12-07-2015,Alm. Salg,6.925,3,Rækkehus,81,1982,,Aktuel værdi
+Horsensvej 348653 Them,Them,1.400.000,01-07-2015,Alm. Salg,13.207,4,Villa,106,1940,-3 %,Aktuel værdi
+Mølleengen 68653 Them,Them,920.500,30-06-2015,Alm. Salg,6.304,4,Villa,146,1973,,Aktuel værdi
+Tømmerbyvej 248653 Them,Them,58.600,26-06-2015,Alm. Salg,363,6,Stuehus,161,1928,,
+Frisholmparken 98653 Them,Them,278.457,24-06-2015,Alm. Salg,1.974,5,Villa,141,2016,,Aktuel værdi
+Thorsvej 68653 Them,Them,1.550.000,23-06-2015,Alm. Salg,10.763,4,Villa,144,2000,-3 %,Aktuel værdi
+Thorsvej 38653 Them,Them,1.575.000,04-06-2015,Alm. Salg,12.401,5,Villa,127,2000,-1 %,Aktuel værdi
+Pårupvej 88653 Them,Them,17.398.570,03-06-2015,Alm. Salg,58.978,7,Stuehus,295,1887,,
+Toftegårdsparken 198653 Them,Them,767.000,29-05-2015,Alm. Salg,6.787,4,Villa,113,1980,-49 %,Aktuel værdi
+Ansøvej 128653 Them,Them,1.300.000,27-05-2015,Alm. Salg,9.352,5,Villa,139,1938,,Aktuel værdi
+Silkeborgvej 138653 Them,Them,650.000,21-05-2015,Alm. Salg,3.869,5,Villa,168,1910,-13 %,Aktuel værdi
+Tjørnevej 128653 Them,Them,930.000,21-05-2015,Alm. Salg,10.689,3,Villa,87,1982,-3 %,Aktuel værdi
+Toftegårdsparken 318653 Them,Them,1.350.000,17-05-2015,Alm. Salg,12.053,4,Villa,112,1980,-7 %,Aktuel værdi
+Knudlundvej 10A8653 Them,Them,1.026.732,13-05-2015,Andet,5.672,5,Villa,181,1870,-59 %,Aktuel værdi
+Jasminvej 108653 Them,Them,2.445.000,08-05-2015,Alm. Salg,15.186,5,Villa,161,2006,-2 %,Aktuel værdi
+Ryvej 198653 Them,Them,2.150.000,07-05-2015,Alm. Salg,11.197,5,Stuehus,192,1930,-52 %,
+Toftevænget 438653 Them,Them,1.230.000,04-05-2015,Alm. Salg,9.461,4,Villa,130,1973,-1 %,Aktuel værdi
+Bellisvej 58653 Them,Them,1.550.000,30-04-2015,Andet,10.402,5,Villa,149,2006,,Aktuel værdi
+Gl Skolevej 48653 Them,Them,600.000,26-04-2015,Fam. Salg,2.230,7,Villa,269,1902,,Aktuel værdi
+Frisholmparken 258653 Them,Them,268.000,22-04-2015,Alm. Salg,1.798,5,Villa,149,2015,-20 %,Aktuel værdi
+Silkeborgvej 188653 Them,Them,1.650.000,19-04-2015,Alm. Salg,12.222,6,Villa,135,1947,-3 %,Aktuel værdi
+Frisholmparken 358653 Them,Them,302.400,13-04-2015,Alm. Salg,1.989,6,Villa,152,2015,,Aktuel værdi
+Jasminvej 38653 Them,Them,2.235.000,09-04-2015,Alm. Salg,9.675,9,Villa,231,1997,-6 %,Aktuel værdi
+Hjortevej 98653 Them,Them,2.200.000,16-03-2015,Alm. Salg,14.012,5,Villa,157,2006,-8 %,Aktuel værdi
+Slåenvej 128653 Them,Them,630.000,05-03-2015,Alm. Salg,6.923,4,Rækkehus,91,1985,,Aktuel værdi
+Them Skovvej 98653 Them,Them,375.000,18-02-2015,Fam. Salg,2.259,5,Stuehus,166,2015,,
+Poppelvej 78653 Them,Them,885.000,17-02-2015,Alm. Salg,6.366,4,Villa,139,1974,-11 %,Aktuel værdi
+Kærmindevej 78653 Them,Them,2.010.000,11-02-2015,Alm. Salg,10.923,6,Villa,184,1974,-4 %,Aktuel værdi
+Hybenvej 48653 Them,Them,850.000,31-01-2015,Alm. Salg,9.340,3,Villa,91,1984,0 %,Aktuel værdi
+Syrenvej 28653 Them,Them,2.240.000,20-01-2015,Alm. Salg,11.487,6,Villa,195,2007,-6 %,Aktuel værdi
+Rugvænget 58653 Them,Them,1.700.000,30-12-2014,Alm. Salg,11.643,6,Villa,146,1972,-3 %,Aktuel værdi
+Horsensvej 238653 Them,Them,740.000,12-12-2014,Alm. Salg,5.362,5,Villa,138,1921,-15 %,Aktuel værdi
+Bakbjergvej 16A8653 Them,Them,978.000,10-12-2014,Alm. Salg,5.891,5,Villa,166,1920,,Aktuel værdi
+Højmarkvej 48653 Them,Them,4.250.000,28-11-2014,Alm. Salg,19.859,5,Stuehus,214,1972,,
+Toftevænget 118653 Them,Them,825.000,20-11-2014,Alm. Salg,6.600,4,Villa,125,1972,,Aktuel værdi
+Mølleløkken 48653 Them,Them,935.000,09-11-2014,Alm. Salg,5.436,6,Villa,172,1972,,Aktuel værdi
+Frisholmparken 378653 Them,Them,307.200,21-10-2014,Alm. Salg,1.839,7,Villa,167,2015,,Aktuel værdi
+Tømmerbyvej 298653 Them,Them,13.000.000,07-10-2014,Alm. Salg,53.719,8,Stuehus,242,1931,,
+Slåenvej 48653 Them,Them,775.000,02-10-2014,Alm. Salg,8.516,4,Rækkehus,91,1984,-3 %,Aktuel værdi
+Kærmindevej 218653 Them,Them,1.395.000,07-09-2014,Alm. Salg,11.625,4,Villa,120,1975,-5 %,Aktuel værdi
+Bødskovgårdvej 308653 Them,Them,2.582.000,06-09-2014,Alm. Salg,12.719,4,Stuehus,203,1916,-9 %,
+Museumsvej 78653 Them,Them,1.000.000,26-08-2014,Alm. Salg,8.333,4,Villa,120,1880,-4 %,Aktuel værdi
+Toftevænget 78653 Them,Them,603.535,26-08-2014,Andet,3.079,8,Villa,196,1975,,Aktuel værdi
+Ålhøjvej 28653 Them,Them,180.000,16-08-2014,Alm. Salg,2.117,3,Villa,85,1960,-49 %,Aktuel værdi
+Silkeborgvej 728653 Them,Them,1.325.000,12-08-2014,Alm. Salg,10.114,4,Villa,131,1979,,Aktuel værdi
+Møllevænget 118653 Them,Them,1.300.000,23-07-2014,Alm. Salg,10.000,5,Villa,130,1971,-7 %,Aktuel værdi
+Mosestien 58653 Them,Them,750.000,21-07-2014,Alm. Salg,5.000,6,Villa,150,1972,-6 %,Aktuel værdi
+Toftevænget 318653 Them,Them,1.825.000,30-06-2014,Alm. Salg,8.410,10,Villa,217,1973,-8 %,Aktuel værdi
+Mandsdalvej 18653 Them,Them,2.025.000,24-06-2014,Alm. Salg,12.423,5,Stuehus,163,1892,,
+Hjortevej 48653 Them,Them,2.900.000,20-06-2014,Alm. Salg,14.009,5,Villa,207,2006,-3 %,Aktuel værdi
+Gl. Ryvej 38653 Them,Them,1.435.000,19-06-2014,Alm. Salg,9.198,6,Villa,156,1944,-4 %,Aktuel værdi
+Ryvej 278653 Them,Them,1.610.000,25-05-2014,Alm. Salg,8.385,5,Stuehus,192,1897,-10 %,
+Ålhøjvej 68653 Them,Them,2.362.000,23-05-2014,Alm. Salg,8.879,7,Stuehus,266,1877,-41 %,
+Frisholmparken 398653 Them,Them,380.000,19-05-2014,Alm. Salg,2.275,6,Villa,167,2015,,Aktuel værdi
+Tjørnevej 68653 Them,Them,1.750.000,16-05-2014,Alm. Salg,8.838,7,Villa,198,1980,-10 %,Aktuel værdi
+Hjortevej 398653 Them,Them,2.900.000,12-05-2014,Alm. Salg,11.462,7,Villa,253,2007,-6 %,Aktuel værdi
+Ligustervej 48653 Them,Them,1.550.000,07-05-2014,Alm. Salg,15.500,4,Villa,100,2005,-3 %,Aktuel værdi
+Sepstrupvej 558653 Them,Them,24.696.200,23-04-2014,Alm. Salg,73.065,8,Stuehus,338,1994,,
+Sepstrupvej 408653 Them,Them,700.000,26-03-2014,Alm. Salg,4.375,7,Villa,160,1895,,Aktuel værdi
+Bødskovgårdvej 18653 Them,Them,400.000,25-03-2014,Alm. Salg,2.259,4,Stuehus,177,1910,,
+Frisholmparken 438653 Them,Them,377.000,24-03-2014,Alm. Salg,2.401,6,Villa,157,2015,,Aktuel værdi
+Harbohøjvej 128653 Them,Them,2.150.000,07-03-2014,Alm. Salg,14.333,5,Villa,150,2001,-6 %,Aktuel værdi
+Toftevænget 378653 Them,Them,1.525.000,04-03-2014,Alm. Salg,10.166,5,Villa,150,1975,-9 %,Aktuel værdi
+Them Skovvej 18653 Them,Them,2.000.000,27-02-2014,Alm. Salg,10.810,4,Stuehus,185,2014,,
+Bakbjergvej 188653 Them,Them,480.000,24-02-2014,Alm. Salg,2.790,7,Villa,172,2016,-12 %,Aktuel værdi
+Jævndalvej 38653 Them,Them,5.700.000,19-02-2014,Alm. Salg,17.484,9,Stuehus,326,1913,-5 %,
+Jasminvej 148653 Them,Them,2.300.000,02-02-2014,Alm. Salg,14.649,7,Villa,157,2005,-6 %,Aktuel værdi
+Frisholmparken 298653 Them,Them,435.000,23-01-2014,Alm. Salg,2.051,6,Villa,212,2017,,Aktuel værdi
+Jasminvej 28653 Them,Them,200.000,10-01-2014,Fam. Salg,970,8,Villa,206,2003,,Aktuel værdi
+Frisholmparken 318653 Them,Them,503.000,13-12-2013,Alm. Salg,2.502,7,Villa,201,2014,,Aktuel værdi
+Horsensvej 148653 Them,Them,650.000,05-12-2013,Auktion,5.241,5,Villa,124,1927,,Aktuel værdi
+Højagervej 138653 Them,Them,900.000,28-11-2013,Alm. Salg,7.142,4,Villa,126,1975,-10 %,Aktuel værdi
+Smedebakken 348653 Them,Them,1.450.000,27-11-2013,Alm. Salg,5.942,6,Villa,244,1975,-3 %,Aktuel værdi
+Klokbjerghegnet 118653 Them,Them,1.575.000,15-11-2013,Alm. Salg,8.606,6,Villa,183,1988,-7 %,Aktuel værdi
+Thorsvej 18653 Them,Them,910.000,31-10-2013,Auktion,5.141,6,Villa,177,1996,,Aktuel værdi
+Højagervej 158653 Them,Them,1.105.000,29-10-2013,Alm. Salg,9.525,4,Villa,116,1975,-8 %,Aktuel værdi
+Toftegårdsparken 248653 Them,Them,900.000,21-10-2013,Alm. Salg,8.571,4,Villa,105,1978,-10 %,Aktuel værdi
+Harevej 38653 Them,Them,2.650.000,08-10-2013,Alm. Salg,11.572,6,Villa,229,2007,,Aktuel værdi
+Højagervej 258653 Them,Them,1.409.000,27-09-2013,Alm. Salg,8.051,5,Villa,175,1975,-4 %,Aktuel værdi
+Hybenvej 28653 Them,Them,1.175.000,23-09-2013,Alm. Salg,10.398,4,Villa,113,1983,-2 %,Aktuel værdi
+Horsensvej 18653 Them,Them,1.100.000,20-09-2013,Alm. Salg,4.330,10,Villa,254,1979,-33 %,Aktuel værdi
+Tømmerbyvej 208653 Them,Them,490.000,02-09-2013,Fam. Salg,4.537,2,Villa,108,1902,,Aktuel værdi
+Saltenvej 228653 Them,Them,975.000,25-07-2013,Alm. Salg,7.862,4,Villa,124,1932,-2 %,Aktuel værdi
+Kærmindevej 178653 Them,Them,1.300.000,24-06-2013,Alm. Salg,10.483,4,Villa,124,1975,-7 %,Aktuel værdi
+Mølleløkken 28653 Them,Them,1.370.000,22-06-2013,Alm. Salg,10.378,5,Villa,132,1970,-2 %,Aktuel værdi
+Salten Skovvej 158653 Them,Them,1.580.000,15-06-2013,Alm. Salg,11.285,3,Villa,140,1827,-7 %,Aktuel værdi
+Hasselvej 48653 Them,Them,1.325.000,04-06-2013,Alm. Salg,11.324,4,Villa,117,1979,-5 %,Aktuel værdi
+Gran Allé 28653 Them,Them,445.800,03-06-2013,Auktion,4.548,5,Villa,98,1935,,Aktuel værdi
+Lokesvej 48653 Them,Them,1.625.000,28-05-2013,Alm. Salg,11.948,5,Villa,136,1997,-4 %,Aktuel værdi
+Frisholmvej 68653 Them,Them,870.000,03-05-2013,Alm. Salg,6.744,5,Villa,129,1939,-3 %,Aktuel værdi
+Hjortevej 198653 Them,Them,2.475.000,29-04-2013,Alm. Salg,15.184,5,Villa,163,2007,-6 %,Aktuel værdi
+Sepstrupvej 258653 Them,Them,2.250.000,27-03-2013,Alm. Salg,18.145,4,Stuehus,124,1925,,
+Silkeborgvej 58653 Them,Them,1.650.000,18-03-2013,Alm. Salg,10.855,6,Villa,152,1958,,Aktuel værdi
+Smedebakken 308653 Them,Them,1.745.000,15-03-2013,Fam. Salg,10.204,7,Villa,171,1988,,Aktuel værdi
+Klokbjerghegnet 68653 Them,Them,975.000,04-03-2013,Alm. Salg,11.337,3,Villa,86,1987,-7 %,Aktuel værdi
+Elmevej 78653 Them,Them,1.000.000,26-02-2013,Alm. Salg,7.352,5,Villa,136,1973,0 %,Aktuel værdi
+Askevej 78653 Them,Them,1.740.000,04-02-2013,Alm. Salg,11.917,5,Villa,146,1989,-8 %,Aktuel værdi
+Kaldæavej 78653 Them,Them,2.740.000,23-01-2013,Alm. Salg,15.838,5,Villa,173,2006,,Aktuel værdi
+Klintevej 18653 Them,Them,1.400.000,14-01-2013,Alm. Salg,8.235,8,Villa,170,1978,-15 %,Aktuel værdi
+Ryvej 308653 Them,Them,498.846,21-12-2012,Alm. Salg,2.247,7,Villa,222,1907,-64 %,Aktuel værdi
+Rugvænget 168653 Them,Them,1.104.000,20-12-2012,Alm. Salg,6.571,5,Villa,168,1974,,Aktuel værdi
+Bødskovgårdvej 58653 Them,Them,2.150.000,19-12-2012,Alm. Salg,11.559,6,Villa,186,1900,-6 %,Aktuel værdi
+Salten Skovvej 1A8653 Them,Them,1.700.000,07-12-2012,Alm. Salg,9.444,9,Villa,180,1930,-8 %,Aktuel værdi
+Ansøvej 198653 Them,Them,280.000,14-11-2012,Alm. Salg,1.465,6,Stuehus,191,1927,,
+Elmevej 158653 Them,Them,1.675.000,12-11-2012,Alm. Salg,9.852,5,Villa,170,1972,-4 %,Aktuel værdi
+Ryvej 268653 Them,Them,696.886,12-11-2012,Alm. Salg,4.275,6,Engroshandel,163,1924,,Aktuel værdi
+Bellisvej 118653 Them,Them,1.650.000,30-10-2012,Fam. Salg,11.073,5,Villa,149,2006,,Aktuel værdi
+Stenhulevej 38653 Them,Them,2.400.000,29-10-2012,Alm. Salg,11.822,6,Stuehus,203,2014,,
+Smedebakken 68653 Them,Them,500.000,22-10-2012,Fam. Salg,2.747,3,Villa,182,1948,,Aktuel værdi
+Syrenvej 148653 Them,Them,2.450.000,13-10-2012,Alm. Salg,11.395,7,Villa,215,2007,-6 %,Aktuel værdi
+Bakbjergvej 16G8653 Them,Them,2.100.000,04-10-2012,Alm. Salg,14.383,4,Rækkehus,146,1965,,Aktuel værdi
+Løvsvinget 68653 Them,Them,725.000,18-09-2012,Fam. Salg,4.475,5,Villa,162,1976,,Aktuel værdi
+Ryvej 318653 Them,Them,189.590,26-08-2012,Alm. Salg,783,7,Stuehus,242,1870,,
+Harevej 28653 Them,Them,2.425.000,16-08-2012,Alm. Salg,15.348,5,Villa,158,2007,-7 %,Aktuel værdi
+Saltenvej 208653 Them,Them,1.250.000,01-08-2012,Alm. Salg,15.625,4,Villa,80,1923,-3 %,Aktuel værdi
+Harbohøjvej 98653 Them,Them,2.900.000,28-06-2012,Alm. Salg,11.934,6,Villa,243,2007,-9 %,Aktuel værdi
+Rodelundvej 128653 Them,Them,155.000,15-05-2012,Auktion,1.107,4,Villa,140,1913,,Aktuel værdi
+Ansøvej 248653 Them,Them,300.000,06-05-2012,Alm. Salg,2.752,3,Stuehus,109,1920,,
+Ansøvej 88653 Them,Them,2.490.000,01-05-2012,Alm. Salg,18.444,6,Stuehus,135,1914,,
+Ryvej 258653 Them,Them,1.280.000,27-04-2012,Alm. Salg,8.311,5,Villa,154,1946,-14 %,Aktuel værdi
+Engetvedvej 118653 Them,Them,6.294.000,24-04-2012,Alm. Salg,16.873,10,Stuehus,373,1986,,
+Dyrehaven 208653 Them,Them,2.350.000,23-04-2012,Alm. Salg,10.491,8,Villa,224,1998,-6 %,Aktuel værdi
+Jasminvej 288653 Them,Them,2.150.000,17-04-2012,Alm. Salg,14.726,5,Villa,146,2005,-4 %,Aktuel værdi
+Odinsvej 118653 Them,Them,2.175.000,29-03-2012,Alm. Salg,14.597,5,Villa,149,2005,-3 %,Aktuel værdi
+Ryvej 98653 Them,Them,9.111.660,22-03-2012,Alm. Salg,30.171,9,Stuehus,302,1974,,
+Hjortevej 238653 Them,Them,2.350.000,21-03-2012,Alm. Salg,17.028,5,Villa,138,2006,-9 %,Aktuel værdi
+Ryvej 88653 Them,Them,500.000,15-03-2012,Alm. Salg,2.994,6,Stuehus,167,1905,,
+Rugvænget 228653 Them,Them,1.100.000,13-03-2012,Alm. Salg,10.476,4,Villa,105,1979,,Aktuel værdi
+Ryvej 288653 Them,Them,460.000,13-03-2012,Auktion,3.865,3,Villa,119,1930,-34 %,Aktuel værdi
+Højagervej 188653 Them,Them,1.650.000,02-03-2012,Alm. Salg,12.132,5,Villa,136,2009,-6 %,Aktuel værdi
+Rodelundvej 188653 Them,Them,300.000,23-02-2012,Auktion,2.803,3,Villa,107,1942,,Aktuel værdi
+Tømmerbyvej 148653 Them,Them,120.000,21-02-2012,Alm. Salg,512,6,Stuehus,234,1908,,
+Kaldæavej 38653 Them,Them,2.040.000,15-02-2012,Alm. Salg,12.515,5,Villa,163,2007,-7 %,Aktuel værdi
+Toftegårdsparken 458653 Them,Them,1.295.000,06-02-2012,Alm. Salg,13.776,4,Villa,94,1981,0 %,Aktuel værdi
+Gran Allé 38653 Them,Them,610.000,23-12-2011,Alm. Salg,4.485,5,Villa,136,1850,-19 %,Aktuel værdi
+Præstemarken 448653 Them,Them,1.200.000,20-12-2011,Alm. Salg,12.244,4,Villa,98,1978,-14 %,Aktuel værdi
+Silkeborgvej 118653 Them,Them,1.750.000,20-12-2011,Fam. Salg,11.437,5,Villa,153,1937,,Aktuel værdi
+Toftegårdsparken 438653 Them,Them,1.400.000,19-12-2011,Alm. Salg,11.864,4,Villa,118,1980,-6 %,Aktuel værdi
+Ansøvej 48653 Them,Them,1.795.000,21-11-2011,Alm. Salg,6.930,8,Villa,259,2015,0 %,Aktuel værdi
+Rugvænget 88653 Them,Them,1.725.000,07-11-2011,Alm. Salg,9.583,4,Villa,180,1972,-9 %,Aktuel værdi
+Toftegårdsparken 398653 Them,Them,1.645.000,02-11-2011,Alm. Salg,13.373,4,Villa,123,1980,-2 %,Aktuel værdi
+Horsbjergvej 68653 Them,Them,1.487.500,10-10-2011,Alm. Salg,11.100,4,Stuehus,134,1897,,
+Ryvej 7A8653 Them,Them,3.701.250,21-09-2011,Alm. Salg,9.184,14,Anden beboelse,403,1852,,Aktuel værdi
+Ryvej 298653 Them,Them,1.825.000,21-09-2011,Alm. Salg,12.943,5,Villa,141,1947,-9 %,Aktuel værdi
+Syrenvej 88653 Them,Them,2.075.000,13-09-2011,Alm. Salg,15.145,5,Villa,137,2007,-10 %,Aktuel værdi
+Horsensvej 78653 Them,Them,445.000,02-09-2011,Auktion,3.178,9,Villa,140,1898,-41 %,Aktuel værdi
+Museumsvej 198653 Them,Them,2.450.000,10-08-2011,Alm. Salg,21.120,4,Stuehus,116,1873,,
+Gårdstedvej 48653 Them,Them,2.600.000,05-08-2011,Alm. Salg,16.993,3,Villa,153,1991,,Aktuel værdi
+Hedehusvej 98653 Them,Them,2.475.000,17-07-2011,Alm. Salg,22.916,4,Stuehus,108,1880,,
+Toftevænget 228653 Them,Them,1.470.000,14-07-2011,Alm. Salg,12.457,4,Villa,118,1973,-2 %,Aktuel værdi
+Højmarkvej 78653 Them,Them,3.200.000,30-06-2011,Alm. Salg,20.779,5,Stuehus,154,1931,,
+Bakbjergvej 248653 Them,Them,1.150.000,28-06-2011,Alm. Salg,8.518,4,Villa,135,1900,-14 %,Aktuel værdi
+Horsensvej 48653 Them,Them,1.400.000,14-06-2011,Alm. Salg,7.106,5,Villa,197,1907,,Aktuel værdi
+Ryvej 188653 Them,Them,1.681.500,20-05-2011,Fam. Salg,5.222,13,Villa,322,1999,,Aktuel værdi
+Toftegårdsparken 448653 Them,Them,885.000,10-05-2011,Alm. Salg,4.916,5,Villa,180,1980,,Aktuel værdi
+Hjortevej 58653 Them,Them,2.286.000,19-04-2011,Alm. Salg,15.986,5,Villa,143,2006,-5 %,Aktuel værdi
+Egernvej 28653 Them,Them,1.800.000,31-03-2011,Alm. Salg,10.843,6,Villa,166,2007,-25 %,Aktuel værdi
+Bødskovgårdvej 208653 Them,Them,2.825.000,30-03-2011,Alm. Salg,22.070,2,Stuehus,128,1938,-6 %,
+Toftevænget 278653 Them,Them,1.500.000,28-03-2011,Alm. Salg,12.396,4,Villa,121,1972,-3 %,Aktuel værdi
+Møllevænget 158653 Them,Them,2.250.000,08-03-2011,Alm. Salg,15.306,6,Villa,147,2000,-2 %,Aktuel værdi
+Rygesmindevej 68653 Them,Them,2.500.000,20-02-2011,Fam. Salg,10.638,6,Villa,235,1973,,Aktuel værdi
+Poppelvej 48653 Them,Them,1.385.000,15-02-2011,Alm. Salg,7.251,7,Villa,191,1978,-1 %,Aktuel værdi
+Rygesmindevej 38653 Them,Them,2.575.000,29-01-2011,Alm. Salg,11.651,5,Villa,221,1987,0 %,Aktuel værdi
+Bellisvej 18653 Them,Them,1.900.000,20-01-2011,Alm. Salg,12.101,5,Villa,157,2007,-5 %,Aktuel værdi
+Harbohøjvej 218653 Them,Them,2.175.000,19-01-2011,Alm. Salg,14.897,6,Villa,146,2004,-4 %,Aktuel værdi
+Silkeborgvej 358653 Them,Them,593.000,19-01-2011,Andet,5.490,5,Villa,108,1934,-50 %,Aktuel værdi
+Præsteengen 88653 Them,Them,608.710,11-01-2011,Auktion,3.237,4,Villa,188,1889,,Aktuel værdi
+"Knudlundvej 10, 18653 Them",Them,13.200.000,22-12-2010,Alm. Salg,151.724,2,Lejlighed,87,1870,,Aktuel værdi
+Mølledraget 38653 Them,Them,1.695.000,09-12-2010,Alm. Salg,8.228,10,Villa,206,1971,0 %,Aktuel værdi
+Slåenvej 238653 Them,Them,1.100.000,07-12-2010,Alm. Salg,10.576,1,Villa,104,1986,-8 %,Aktuel værdi
+Tjørnevej 98653 Them,Them,1.000.000,03-12-2010,Andet,9.615,4,Villa,104,1981,,Aktuel værdi
+Stenhulevej 58653 Them,Them,435.100,26-11-2010,Fam. Salg,3.175,6,Villa,137,1934,,Aktuel værdi
+Klokbjerghøjen 28653 Them,Them,945.000,22-11-2010,Alm. Salg,10.271,4,Rækkehus,92,1989,,Aktuel værdi
+Præsteengen 28653 Them,Them,1.370.000,20-11-2010,Alm. Salg,8.058,6,Villa,170,1847,-2 %,Aktuel værdi
+Gothenborgvej 28653 Them,Them,90.000,14-10-2010,Andet,400,8,Stuehus,225,1910,,
+Hørrelundvej 28653 Them,Them,2.650.000,28-09-2010,Alm. Salg,16.666,7,Stuehus,159,1928,,
+Pårupvej 78653 Them,Them,2.600.000,24-09-2010,Alm. Salg,14.772,5,Stuehus,176,1857,-4 %,
+Præstemarken 178653 Them,Them,1.010.000,20-09-2010,Alm. Salg,10.306,4,Rækkehus,98,1976,-8 %,Aktuel værdi
+Rønnevej 38653 Them,Them,1.890.000,16-09-2010,Andet,13.216,5,Villa,143,1965,,Aktuel værdi
+Horsensvej 98653 Them,Them,120.000,10-09-2010,Alm. Salg,1.043,4,Villa,115,2012,,Aktuel værdi
+Sepstrupvej 138653 Them,Them,2.950.000,02-09-2010,Alm. Salg,8.727,10,Stuehus,338,1900,-7 %,
+Kaldæavej 88653 Them,Them,1.660.000,24-08-2010,Alm. Salg,13.719,5,Villa,121,2006,-1 %,Aktuel værdi
+Møllevænget 78653 Them,Them,1.650.000,23-08-2010,Alm. Salg,9.939,4,Villa,166,1967,,Aktuel værdi
+Møllesvinget 128653 Them,Them,1.530.000,12-08-2010,Alm. Salg,7.927,5,Villa,193,1974,-10 %,Aktuel værdi
+Præstemarken 268653 Them,Them,880.000,05-08-2010,Auktion,4.334,6,Villa,203,1978,,Aktuel værdi
+Horsensvej 138653 Them,Them,1.400.000,13-07-2010,Alm. Salg,9.790,6,Villa,143,1955,-6 %,Aktuel værdi
+Rustrupvej 28653 Them,Them,750.000,21-06-2010,Alm. Salg,6.944,5,Villa,108,1912,-12 %,Aktuel værdi
+Them Østergård 78653 Them,Them,2.695.000,18-06-2010,Alm. Salg,17.966,5,Villa,150,2007,,Aktuel værdi
+Magnolievej 38653 Them,Them,2.625.000,10-06-2010,Alm. Salg,15.625,7,Villa,168,2006,-3 %,Aktuel værdi
+Højagervej 88653 Them,Them,1.895.000,02-06-2010,Alm. Salg,11.770,5,Villa,161,1974,0 %,Aktuel værdi
+Grævlingevej 98653 Them,Them,3.175.000,21-05-2010,Alm. Salg,14.631,6,Villa,217,2005,-4 %,Aktuel værdi
+Toftevænget 88653 Them,Them,740.000,04-05-2010,Alm. Salg,5.441,4,Villa,136,1973,,Aktuel værdi
+Toftegårdsparken 508653 Them,Them,1.635.000,03-05-2010,Alm. Salg,12.773,4,Villa,128,1979,-4 %,Aktuel værdi
+Knudlundvej 128653 Them,Them,775.000,26-04-2010,Alm. Salg,4.428,6,Villa,175,1932,-9 %,Aktuel værdi
+Sugebækvej 38653 Them,Them,2.300.000,06-04-2010,Alm. Salg,14.197,6,Stuehus,162,1932,-8 %,
+Kirkemindevej 38653 Them,Them,1.325.000,29-03-2010,Alm. Salg,10.037,4,Villa,132,1949,-11 %,Aktuel værdi
+Toftegårdsparken 168653 Them,Them,1.440.000,19-03-2010,Alm. Salg,12.100,4,Villa,119,1978,-4 %,Aktuel værdi
+Ansøvej 268653 Them,Them,231.039,17-03-2010,Fam. Salg,1.627,5,Villa,142,1955,,Aktuel værdi
+Præstemarken 278653 Them,Them,750.000,10-02-2010,Alm. Salg,7.653,4,Rækkehus,98,1976,,Aktuel værdi
+Bødskovgårdvej 188653 Them,Them,3.500.000,06-02-2010,Alm. Salg,19.021,5,Stuehus,184,2010,,
+Odinsvej 78653 Them,Them,1.049.797,26-01-2010,Alm. Salg,8.075,4,Villa,130,2003,,Aktuel værdi
+Skovbrynet 218653 Them,Them,675.000,08-01-2010,Andet,5.000,4,Villa,135,1969,,Aktuel værdi
+Præstemarken 218653 Them,Them,895.000,07-01-2010,Alm. Salg,9.132,4,Rækkehus,98,1976,-10 %,Aktuel værdi
+Enebærvej 48653 Them,Them,1.313.000,06-01-2010,Alm. Salg,12.625,4,Villa,104,1986,,Aktuel værdi
+Hasselvej 58653 Them,Them,1.317.500,29-12-2009,Alm. Salg,11.260,4,Villa,117,1978,2 %,Aktuel værdi
+Them Østergård 278653 Them,Them,2.330.000,19-12-2009,Alm. Salg,15.533,5,Villa,150,2009,-10 %,Aktuel værdi
+Ahornvej 18653 Them,Them,1.402.500,08-12-2009,Fam. Salg,9.288,4,Villa,151,1974,-12 %,Aktuel værdi
+Silkeborgvej 88653 Them,Them,1.065.000,24-11-2009,Alm. Salg,6.915,8,Villa,154,1961,0 %,Aktuel værdi
+Sepstrupvej 108653 Them,Them,2.200.000,05-11-2009,Alm. Salg,15.942,4,Stuehus,138,1982,-3 %,
+Silkeborgvej 768653 Them,Them,773.500,29-10-2009,Alm. Salg,5.191,6,Villa,149,1955,,Aktuel værdi
+Them Skovvej 68653 Them,Them,1.330.000,28-10-2009,Fam. Salg,7.687,6,Villa,173,1727,,Aktuel værdi
+Sepstrupvej 30B8653 Them,Them,275.000,13-10-2009,Alm. Salg,3.160,2,Anden beboelse,87,2015,,Aktuel værdi
+Toftevænget 158653 Them,Them,750.000,08-10-2009,Alm. Salg,3.787,8,Villa,198,1973,,Aktuel værdi
+Gran Allé 48653 Them,Them,950.000,16-09-2009,Alm. Salg,10.326,3,Villa,92,1964,-5 %,Aktuel værdi
+Tjørnevej 108653 Them,Them,1.200.000,15-09-2009,Alm. Salg,13.953,3,Villa,86,1982,-4 %,Aktuel værdi
+Museumsvej 118653 Them,Them,1.225.000,05-08-2009,Alm. Salg,8.750,6,Villa,140,1969,-5 %,Aktuel værdi
+Dyrehaven 248653 Them,Them,2.650.000,17-07-2009,Alm. Salg,15.229,6,Villa,174,1997,0 %,Aktuel værdi
+Them Skovvej 78653 Them,Them,2.000.000,08-07-2009,Alm. Salg,11.428,6,Villa,175,1882,-33 %,Aktuel værdi
+Silkeborgvej 288653 Them,Them,1.070.000,05-07-2009,Alm. Salg,9.304,5,Villa,115,1956,-5 %,Aktuel værdi
+Them Østergård 18653 Them,Them,2.085.000,05-07-2009,Alm. Salg,14.892,5,Villa,140,2008,-5 %,Aktuel værdi
+Hørrelundvej 48653 Them,Them,1.600.000,03-07-2009,Alm. Salg,6.274,6,Stuehus,255,2010,,
+Them Østergård 108653 Them,Them,552.000,28-06-2009,Alm. Salg,3.285,6,Villa,168,2010,,Aktuel værdi
+Saltenvej 138653 Them,Them,40.000,15-05-2009,Alm. Salg,233,4,Villa,171,1912,,Aktuel værdi
+Harbohøjvej 158653 Them,Them,2.250.000,24-04-2009,Alm. Salg,14.516,5,Villa,155,2004,,Aktuel værdi
+Industrivej 9A8653 Them,Them,1.500.000,08-04-2009,Alm. Salg,9.933,7,Villa,151,1973,,Aktuel værdi
+Tømmerbyvej 128653 Them,Them,100.000,25-03-2009,Alm. Salg,546,6,Stuehus,183,2007,,
+Ryvej 168653 Them,Them,1.100.000,12-03-2009,Alm. Salg,-,4,Stuehus,100,1910,,
+Toftegårdsparken 78653 Them,Them,1.250.000,23-02-2009,Alm. Salg,10.683,4,Villa,117,1979,,Aktuel værdi
+Sepstrupvej 698653 Them,Them,18.000.000,26-01-2009,Alm. Salg,75.000,15,Stuehus,240,1911,,
+Toftegårdsparken 228653 Them,Them,1.900.000,19-01-2009,Alm. Salg,12.582,6,Villa,151,1979,-13 %,Aktuel værdi
+Bakbjergvej 38653 Them,Them,1.620.000,17-01-2009,Alm. Salg,8.019,6,Villa,202,1875,-10 %,Aktuel værdi
+Sepstrupvej 168653 Them,Them,3.850.000,10-01-2009,Fam. Salg,16.244,5,Stuehus,237,1877,,
+Smedebakken 208653 Them,Them,443.114,20-12-2008,Andet,4.220,5,Villa,105,1945,,Aktuel værdi
+Møllesvinget 38653 Them,Them,1.360.000,18-12-2008,Alm. Salg,9.251,5,Villa,147,1970,,Aktuel værdi
+Rustrupvej 118653 Them,Them,1.230.000,16-12-2008,Alm. Salg,15.000,4,Villa,82,1922,-9 %,Aktuel værdi
+Præstemarken 15A8653 Them,Them,640.000,05-12-2008,Alm. Salg,13.061,1,Lejlighed,49,1974,,Aktuel værdi
+Sepstrupvej 498653 Them,Them,531.250,28-11-2008,Fam. Salg,2.887,5,Villa,184,1929,,Aktuel værdi
+Præstemarken 188653 Them,Them,1.575.000,12-11-2008,Alm. Salg,7.954,5,Villa,198,1978,-5 %,Aktuel værdi
+Them Østergård 318653 Them,Them,2.850.000,10-11-2008,Alm. Salg,15.405,7,Villa,185,2007,-5 %,Aktuel værdi
+Horsbjergvej 48653 Them,Them,850.000,04-11-2008,Andet,7.456,5,Stuehus,114,1900,,
+Ryvej 128653 Them,Them,700.000,14-10-2008,Alm. Salg,7.692,4,Villa,91,1929,-3 %,Aktuel værdi
+Toftevænget 478653 Them,Them,1.625.000,09-10-2008,Alm. Salg,11.948,3,Villa,136,1972,,Aktuel værdi
+Ansøvej 238653 Them,Them,1.550.000,29-09-2008,Alm. Salg,9.117,5,Stuehus,170,1857,,
+Toftegårdsparken 108653 Them,Them,2.200.000,28-09-2008,Alm. Salg,12.500,6,Villa,176,1978,-4 %,Aktuel værdi
+Elmevej 68653 Them,Them,555.000,18-09-2008,Alm. Salg,4.743,4,Villa,117,1972,,Aktuel værdi
+Gl Skolevej 38653 Them,Them,800.000,16-07-2008,Alm. Salg,11.594,5,Biograf o.l.,69,1934,-32 %,Aktuel værdi
+Harbohøjvej 188653 Them,Them,2.550.000,11-07-2008,Alm. Salg,16.346,5,Villa,156,2000,-4 %,Aktuel værdi
+Tømmerbyvej 98653 Them,Them,1.600.000,10-07-2008,Alm. Salg,12.903,5,Villa,124,1953,,Aktuel værdi
+Mølleskoven 28653 Them,Them,1.950.000,08-07-2008,Alm. Salg,9.198,5,Villa,212,1972,-2 %,Aktuel værdi
+Klokbjerghegnet 58653 Them,Them,1.250.000,19-06-2008,Alm. Salg,12.135,4,Villa,103,1989,-9 %,Aktuel værdi
+Silkeborgvej 868653 Them,Them,1.000.000,16-06-2008,Alm. Salg,11.904,3,Villa,84,1960,-4 %,Aktuel værdi
+Gran Allé 58653 Them,Them,1.780.000,10-06-2008,Alm. Salg,14.833,5,Villa,120,1890,-4 %,Aktuel værdi
+Harbohøjvej 178653 Them,Them,2.560.000,30-05-2008,Alm. Salg,12.800,7,Villa,200,2004,-1 %,Aktuel værdi
+Præstemarken 98653 Them,Them,1.998.000,21-05-2008,Alm. Salg,12.487,4,Villa,160,1976,0 %,Aktuel værdi
+Præstemarken 358653 Them,Them,444.670,16-05-2008,Andet,4.537,4,Rækkehus,98,1977,,Aktuel værdi
+Odinsvej 98653 Them,Them,2.900.000,19-04-2008,Alm. Salg,17.682,6,Villa,164,2005,-1 %,Aktuel værdi
+Brandevej 238653 Them,Them,1.018.536,07-04-2008,Andet,4.174,7,Stuehus,244,1916,,
+Klokbjerghegnet 3B8653 Them,Them,1.125.000,28-03-2008,Alm. Salg,14.423,3,Rækkehus,78,1988,,Aktuel værdi
+Asklevvej 98653 Them,Them,1.995.000,28-03-2008,Fam. Salg,8.243,6,Stuehus,242,2009,,
+Sepstrupvej 318653 Them,Them,1.650.000,25-03-2008,Alm. Salg,10.312,5,Villa,160,1944,,Aktuel værdi
+Mosestien 68653 Them,Them,1.150.000,12-03-2008,Alm. Salg,11.057,4,Villa,104,1965,,Aktuel værdi
+Grævlingevej 68653 Them,Them,2.600.000,06-03-2008,Alm. Salg,15.294,7,Villa,170,2006,,Aktuel værdi
+Præstemarken 78653 Them,Them,1.600.000,25-02-2008,Fam. Salg,13.793,4,Villa,116,1976,,Aktuel værdi
+Præstemarken 208653 Them,Them,1.325.000,22-02-2008,Alm. Salg,10.192,5,Villa,130,1978,0 %,Aktuel værdi
+Klokbjerghegnet 138653 Them,Them,1.640.000,14-02-2008,Alm. Salg,11.468,5,Villa,143,1988,-9 %,Aktuel værdi
+Kamillevej 58653 Them,Them,541.580,08-02-2008,Fam. Salg,3.223,6,Villa,168,1987,,Aktuel værdi
+Rugvænget 28653 Them,Them,1.420.000,30-01-2008,Alm. Salg,10.923,5,Villa,130,1972,,Aktuel værdi
+Mølleløkken 38653 Them,Them,1.500.000,05-01-2008,Alm. Salg,11.811,4,Villa,127,1972,-6 %,Aktuel værdi
+Toftevænget 408653 Them,Them,1.675.000,04-01-2008,Alm. Salg,10.668,5,Villa,157,1972,-1 %,Aktuel værdi
+Toftevænget 328653 Them,Them,765.000,21-12-2007,Fam. Salg,6.120,4,Villa,125,1973,,Aktuel værdi
+Kastanievej 38653 Them,Them,1.030.339,01-12-2007,Alm. Salg,4.240,7,Villa,243,1893,,Aktuel værdi
+Rugvænget 268653 Them,Them,1.230.000,05-11-2007,Alm. Salg,13.516,4,Villa,91,1985,,Aktuel værdi
+Toftegårdsparken 518653 Them,Them,800.000,18-10-2007,Andet,5.063,6,Villa,158,1981,,Aktuel værdi
+Syrenvej 48653 Them,Them,2.475.000,11-10-2007,Alm. Salg,17.553,4,Villa,141,2007,-1 %,Aktuel værdi
+Toftegårds Allé 168653 Them,Them,1.320.000,10-09-2007,Alm. Salg,11.282,4,Villa,117,1980,,Aktuel værdi
+Tømmerbyvej 108653 Them,Them,11.016.569,05-09-2007,Fam. Salg,41.415,4,Stuehus,266,1956,,
+Birkevej 148653 Them,Them,1.200.000,04-09-2007,Fam. Salg,5.555,6,Villa,216,1969,,Aktuel værdi
+Præstemarken 288653 Them,Them,550.000,29-08-2007,Fam. Salg,4.741,4,Villa,116,1976,,Aktuel værdi
+Slåenvej 258653 Them,Them,1.455.000,24-08-2007,Alm. Salg,13.990,4,Villa,104,1986,-2 %,Aktuel værdi
+Syrenvej 208653 Them,Them,2.650.000,26-07-2007,Alm. Salg,15.588,5,Villa,170,2007,,Aktuel værdi
+Hybenvej 58653 Them,Them,1.395.000,14-07-2007,Alm. Salg,12.345,5,Villa,113,1983,-3 %,Aktuel værdi
+Mandsdalvej 58653 Them,Them,270.000,14-07-2007,Alm. Salg,1.875,6,Stuehus,144,1848,,
+Skovbrynet 78653 Them,Them,1.875.000,12-07-2007,Alm. Salg,11.363,6,Villa,165,1978,-17 %,Aktuel værdi
+Præstemarken 168653 Them,Them,1.305.000,05-07-2007,Alm. Salg,5.825,8,Villa,224,1976,,Aktuel værdi
+Møllevej 28653 Them,Them,1.390.000,26-06-2007,Alm. Salg,10.944,4,Villa,127,1965,0 %,Aktuel værdi
+Rugvænget 38653 Them,Them,850.000,25-06-2007,Fam. Salg,8.095,4,Villa,105,1973,,Aktuel værdi
+Hjortevej 38653 Them,Them,3.000.000,15-06-2007,Alm. Salg,18.072,5,Villa,166,2006,,Aktuel værdi
+Toftevænget 308653 Them,Them,749.698,31-05-2007,Alm. Salg,4.436,6,Villa,169,1974,,Aktuel værdi
+Sepstrupvej 278653 Them,Them,1.300.000,14-05-2007,Alm. Salg,6.666,7,Stuehus,195,2008,,
+Horsbjergvej 38653 Them,Them,1.610.000,02-05-2007,Alm. Salg,19.876,5,Sommerhus,81,1925,,Aktuel værdi
+Silkeborgvej 848653 Them,Them,1.550.000,26-04-2007,Alm. Salg,8.072,4,Villa,192,1969,,Aktuel værdi
+Ryvej 338653 Them,Them,2.900.000,26-04-2007,Alm. Salg,13.122,6,Stuehus,221,1916,,
+Rustrupvej 108653 Them,Them,554.000,17-04-2007,Fam. Salg,4.362,5,Villa,127,1961,,Aktuel værdi
+Præstemarken 15B8653 Them,Them,625.000,17-04-2007,Alm. Salg,12.755,1,Lejlighed,49,1974,,Aktuel værdi
+Them Østergård 198653 Them,Them,2.525.000,10-04-2007,Alm. Salg,15.981,5,Villa,158,2007,,Aktuel værdi
+Them Østergård 158653 Them,Them,2.495.000,30-03-2007,Alm. Salg,15.791,5,Villa,158,2007,,Aktuel værdi
+Toftevænget 188653 Them,Them,1.905.000,27-03-2007,Alm. Salg,11.832,5,Villa,161,1975,,Aktuel værdi
+Kirkemindevej 18653 Them,Them,1.325.000,19-03-2007,Alm. Salg,10.351,6,Villa,128,1941,,Aktuel værdi
+Silkeborgvej 42A8653 Them,Them,1.105.000,12-03-2007,Alm. Salg,9.608,3,Rækkehus,115,1900,,Aktuel værdi
+Industrivej 38653 Them,Them,1.250.000,09-03-2007,Alm. Salg,9.191,8,Industri o.l.,136,1973,,Aktuel værdi
+Harbohøjvej 258653 Them,Them,1.171.866,27-02-2007,Andet,7.324,6,Villa,160,2002,,Aktuel værdi
+Bellisvej 228653 Them,Them,1.425.000,27-02-2007,Alm. Salg,14.250,4,Rækkehus,100,1987,,Aktuel værdi
+Bødskovgårdvej 78653 Them,Them,6.425.000,19-02-2007,Alm. Salg,-,7,Stuehus,255,1938,,
+Hjortevej 28653 Them,Them,2.380.000,07-02-2007,Alm. Salg,14.601,6,Villa,163,2007,,Aktuel værdi
+Tømmerbyvej 58653 Them,Them,1.275.000,02-02-2007,Alm. Salg,7.412,6,Villa,172,1937,,Aktuel værdi
+Saltenvej 248653 Them,Them,1.125.000,29-01-2007,Alm. Salg,8.928,5,Villa,126,1923,-6 %,Aktuel værdi
+Bellisvej 38653 Them,Them,2.315.000,22-01-2007,Alm. Salg,16.076,5,Villa,144,2006,,Aktuel værdi
+Toftegårdsparken 598653 Them,Them,1.355.000,08-01-2007,Alm. Salg,11.991,4,Villa,113,1980,,Aktuel værdi
+Saltenvej 98653 Them,Them,2.495.000,07-01-2007,Alm. Salg,9.379,6,Villa,266,1907,,Aktuel værdi
+Rugvænget 148653 Them,Them,1.895.000,05-12-2006,Alm. Salg,10.767,6,Villa,176,1974,,Aktuel værdi
+Salten Skovvej 188653 Them,Them,7.465.000,28-11-2006,Alm. Salg,33.475,6,Stuehus,223,1920,,
+Toftegårdsparken 378653 Them,Them,1.575.000,13-11-2006,Alm. Salg,11.666,4,Villa,135,1980,,Aktuel værdi
+Sepstrupvej 388653 Them,Them,665.000,09-11-2006,Fam. Salg,5.937,4,Villa,112,1974,,Aktuel værdi
+Egevej 18653 Them,Them,1.350.000,29-10-2006,Alm. Salg,11.250,4,Villa,120,1973,,Aktuel værdi
+Tjørnevej 38653 Them,Them,1.200.000,27-10-2006,Alm. Salg,11.538,4,Villa,104,1980,,Aktuel værdi
+Toftevænget 128653 Them,Them,1.485.000,26-10-2006,Alm. Salg,10.384,4,Villa,143,1972,,Aktuel værdi
+Grævlingevej 18653 Them,Them,813.112,13-10-2006,Alm. Salg,4.700,6,Villa,173,2007,,Aktuel værdi
+Syrenvej 108653 Them,Them,2.550.000,10-10-2006,Alm. Salg,12.878,7,Villa,198,2006,,Aktuel værdi
+Faurholtvej 228653 Them,Them,2.163.525,29-09-2006,Alm. Salg,7.512,9,Stuehus,288,1877,,
+Harbohøjvej 298653 Them,Them,3.075.000,28-09-2006,Alm. Salg,14.105,7,Villa,218,2002,,Aktuel værdi
+Tømmerbyvej 228653 Them,Them,2.040.000,19-09-2006,Alm. Salg,8.395,6,Stuehus,243,1914,,
+Horsensvej 188653 Them,Them,745.600,31-08-2006,Alm. Salg,5.142,5,Villa,145,1933,,Aktuel værdi
+Horsensvej 178653 Them,Them,1.365.000,25-08-2006,Alm. Salg,12.297,7,Detailhandel,111,1900,,Aktuel værdi
+Tømmerbyvej 118653 Them,Them,2.025.000,21-08-2006,Alm. Salg,6.795,6,Villa,298,1887,,Aktuel værdi
+Museumsvej 38653 Them,Them,1.210.000,18-08-2006,Alm. Salg,12.100,5,Rækkehus,100,1876,,Aktuel værdi
+Bødskovgårdvej 128653 Them,Them,306.000,15-08-2006,Alm. Salg,3.477,3,Stuehus,88,1875,,
+Hjortevej 68653 Them,Them,360.000,12-08-2006,Alm. Salg,2.322,5,Villa,155,2007,,Aktuel værdi
+Ansøvej 148653 Them,Them,550.000,08-08-2006,Auktion,3.235,5,Villa,170,1944,,Aktuel værdi
+Them Østergård 28653 Them,Them,330.000,31-07-2006,Alm. Salg,2.481,5,Villa,133,2007,,Aktuel værdi
+Toftbjerg Bakke 58653 Them,Them,1.900.000,27-07-2006,Alm. Salg,9.793,6,Villa,194,1966,,Aktuel værdi
+Rustrupvej 68653 Them,Them,845.000,21-07-2006,Alm. Salg,8.450,4,Villa,100,1877,,Aktuel værdi
+Salten Skovvej 178653 Them,Them,50.000,17-07-2006,Alm. Salg,235,6,Villa,212,2008,,Aktuel værdi
+Elmevej 138653 Them,Them,1.250.000,17-07-2006,Alm. Salg,9.615,4,Villa,130,1972,,Aktuel værdi
+Ansøvej 38653 Them,Them,20.000,13-07-2006,Alm. Salg,118,4,Stuehus,169,1900,,
+Ansøvej 68653 Them,Them,100.000,13-07-2006,Alm. Salg,595,6,Stuehus,168,1957,,
+Them Østergård 298653 Them,Them,511.000,07-07-2006,Alm. Salg,2.202,6,Villa,232,2008,,Aktuel værdi
+Silkeborgvej 108653 Them,Them,950.000,06-07-2006,Alm. Salg,10.215,3,Villa,93,1955,,Aktuel værdi
+Præstemarken 15C8653 Them,Them,665.000,06-07-2006,Alm. Salg,13.571,1,Lejlighed,49,1974,,Aktuel værdi
+Esperlundvej 148653 Them,Them,860.000,01-07-2006,Alm. Salg,11.025,3,Villa,78,1989,,Aktuel værdi
+Toftegårds Allé 68653 Them,Them,1.595.000,28-06-2006,Alm. Salg,13.516,4,Villa,118,1982,,Aktuel værdi
+Harevej 68653 Them,Them,544.000,18-06-2006,Alm. Salg,2.893,5,Villa,188,2008,,Aktuel værdi
+Them Østergård 68653 Them,Them,389.000,06-06-2006,Alm. Salg,2.357,6,Villa,165,2007,,Aktuel værdi
+Them Skovvej 148653 Them,Them,55.000,05-06-2006,Andet,226,6,Stuehus,243,1926,,
+Sepstrupvej 488653 Them,Them,3.600.000,02-06-2006,Alm. Salg,22.929,6,Stuehus,157,1880,,
+Jasminvej 138653 Them,Them,1.980.000,31-05-2006,Alm. Salg,14.042,6,Villa,141,1998,,Aktuel værdi
+Smedebakken 14A8653 Them,Them,1.750.000,24-05-2006,Alm. Salg,8.838,8,Villa,198,1840,,Aktuel værdi
+Them Østergård 258653 Them,Them,420.000,18-05-2006,Alm. Salg,2.745,5,Villa,153,2007,,Aktuel værdi
+Egernvej 18653 Them,Them,351.000,18-05-2006,Alm. Salg,2.040,6,Villa,172,2007,,Aktuel værdi
+Egernvej 38653 Them,Them,446.000,18-05-2006,Alm. Salg,2.639,7,Villa,169,2008,,Aktuel værdi
+Egernvej 68653 Them,Them,595.500,18-05-2006,Alm. Salg,2.782,6,Villa,214,2009,,Aktuel værdi
+Egernvej 58653 Them,Them,511.000,18-05-2006,Alm. Salg,3.096,5,Villa,165,2007,,Aktuel værdi
+Them Østergård 38653 Them,Them,301.000,18-05-2006,Alm. Salg,1.846,6,Villa,163,2009,,Aktuel værdi
+Them Østergård 138653 Them,Them,341.000,18-05-2006,Alm. Salg,2.258,6,Villa,151,2008,,Aktuel værdi
+Harevej 48653 Them,Them,498.000,18-05-2006,Alm. Salg,3.276,5,Villa,152,2007,,Aktuel værdi
+Them Østergård 88653 Them,Them,499.000,18-05-2006,Alm. Salg,2.114,7,Villa,236,2008,,Aktuel værdi
+Them Østergård 48653 Them,Them,400.000,18-05-2006,Alm. Salg,2.684,6,Villa,149,2007,,Aktuel værdi
+Them Østergård 118653 Them,Them,363.000,18-05-2006,Alm. Salg,2.630,6,Villa,138,2008,,Aktuel værdi
+Harevej 58653 Them,Them,556.225,18-05-2006,Alm. Salg,3.611,6,Villa,154,2007,,Aktuel værdi
+Them Østergård 98653 Them,Them,402.375,18-05-2006,Alm. Salg,2.682,6,Villa,150,2007,,Aktuel værdi
+Them Østergård 178653 Them,Them,376.100,18-05-2006,Alm. Salg,2.490,6,Villa,151,2007,,Aktuel værdi
+Egernvej 78653 Them,Them,530.302,18-05-2006,Alm. Salg,3.253,5,Villa,163,2007,,Aktuel værdi
+Egernvej 48653 Them,Them,426.100,18-05-2006,Alm. Salg,2.491,5,Villa,171,2007,,Aktuel værdi
+Grævlingevej 48653 Them,Them,300.000,11-05-2006,Alm. Salg,1.986,5,Villa,151,2007,,Aktuel værdi
+Salten Skovvej 168653 Them,Them,1.639.770,11-05-2006,Alm. Salg,5.733,6,Stuehus,286,2008,,
+Høgdalvej 18653 Them,Them,1.565.000,10-05-2006,Alm. Salg,20.324,1,Villa,77,1747,,Aktuel værdi
+Præstemarken 408653 Them,Them,1.395.000,05-05-2006,Alm. Salg,11.434,4,Villa,122,1978,,Aktuel værdi
+Toftegårdsparken 568653 Them,Them,1.495.000,01-05-2006,Alm. Salg,-,6,Villa,195,1978,,Aktuel værdi
+Præstemarken 258653 Them,Them,1.025.000,27-04-2006,Alm. Salg,10.459,4,Rækkehus,98,1977,,Aktuel værdi
+Sepstrupvej 288653 Them,Them,1.050.000,31-03-2006,Alm. Salg,7.894,4,Villa,133,1878,,Aktuel værdi
+Kærmindevej 108653 Them,Them,1.480.000,30-03-2006,Alm. Salg,11.562,3,Villa,128,1974,,Aktuel værdi
+Saltenvej 188653 Them,Them,495.840,27-03-2006,Andet,4.427,4,Villa,112,1946,,Aktuel værdi
+Kastanievej 98653 Them,Them,1.295.000,18-03-2006,Alm. Salg,13.350,4,Stuehus,97,1945,,
+Toftevænget 98653 Them,Them,1.503.000,10-03-2006,Alm. Salg,11.928,4,Villa,126,1973,,Aktuel værdi
+Mølleskoven 18653 Them,Them,1.350.000,21-02-2006,Alm. Salg,8.282,5,Villa,163,1972,,Aktuel værdi
+Kastanievej 88653 Them,Them,1.195.000,10-02-2006,Alm. Salg,8.074,5,Villa,148,1885,,Aktuel værdi
+Rustrupvej 48653 Them,Them,1.195.000,09-02-2006,Alm. Salg,5.717,5,Villa,209,1913,,Aktuel værdi
+Grævlingevej 58653 Them,Them,340.000,09-02-2006,Alm. Salg,2.179,5,Villa,156,2007,,Aktuel værdi
+Engetvedvej 18653 Them,Them,995.000,02-02-2006,Alm. Salg,5.467,7,Villa,182,1877,,Aktuel værdi
+Salten Skovvej 128653 Them,Them,2.100.000,12-01-2006,Alm. Salg,10.447,8,Villa,201,1896,,Aktuel værdi
+Syrenvej 168653 Them,Them,350.000,09-01-2006,Alm. Salg,2.147,6,Villa,163,2007,,Aktuel værdi
+Odinsvej 508653 Them,Them,125.000,05-01-2006,Alm. Salg,-,6,Villa,183,2006,,Aktuel værdi
+Løvsvinget 108653 Them,Them,1.335.000,03-01-2006,Alm. Salg,11.313,4,Villa,118,1974,,Aktuel værdi
+Klokbjerghøjen 8A8653 Them,Them,800.000,30-12-2005,Alm. Salg,9.876,3,Rækkehus,81,1988,,Aktuel værdi
+Rugvænget 68653 Them,Them,900.000,30-12-2005,Alm. Salg,6.617,6,Villa,136,1972,,Aktuel værdi
+Rodelundvej 288653 Them,Them,650.000,20-12-2005,Alm. Salg,9.285,2,Villa,70,1905,,Aktuel værdi
+Vorretvej 68653 Them,Them,1.442.918,20-12-2005,Fam. Salg,9.619,4,Stuehus,150,1864,,
+Hjortevej 298653 Them,Them,360.000,19-12-2005,Alm. Salg,2.057,5,Villa,175,2009,,Aktuel værdi
+Toftegårdsparken 488653 Them,Them,1.300.000,15-12-2005,Alm. Salg,9.154,4,Villa,142,1978,,Aktuel værdi
+Syrenvej 128653 Them,Them,353.100,06-12-2005,Alm. Salg,1.401,9,Villa,252,2007,,Aktuel værdi
+Syrenvej 188653 Them,Them,330.000,06-12-2005,Alm. Salg,2.088,5,Villa,158,2007,,Aktuel værdi
+Magnolievej 18653 Them,Them,270.000,06-12-2005,Alm. Salg,1.800,5,Villa,150,2007,,Aktuel værdi
+Løvsvinget 198653 Them,Them,1.495.000,29-11-2005,Alm. Salg,8.398,7,Villa,178,1974,,Aktuel værdi
+Præstemarken 488653 Them,Them,1.140.000,23-11-2005,Alm. Salg,11.632,4,Villa,98,1978,,Aktuel værdi
+Kaldæavej 48653 Them,Them,213.300,22-11-2005,Alm. Salg,1.316,5,Villa,162,2007,,Aktuel værdi
+Rodelundvej 198653 Them,Them,1.036.491,18-11-2005,Andet,5.991,5,Stuehus,173,1929,,
+Ahornvej 28653 Them,Them,895.000,04-11-2005,Alm. Salg,8.063,4,Villa,111,1942,,Aktuel værdi
+Møllesvinget 48653 Them,Them,1.285.000,02-11-2005,Alm. Salg,6.945,4,Villa,185,1970,,Aktuel værdi
+Hjortevej 158653 Them,Them,340.000,25-10-2005,Alm. Salg,1.942,7,Villa,175,2006,,Aktuel værdi
+Sepstrupvej 18653 Them,Them,1.950.000,20-10-2005,Alm. Salg,8.515,7,Stuehus,229,1907,,
+Hjortevej 18653 Them,Them,300.000,17-10-2005,Alm. Salg,2.307,5,Villa,130,2007,,Aktuel værdi
+Kirkemindevej 108653 Them,Them,700.000,17-10-2005,Alm. Salg,6.306,4,Villa,111,1936,,Aktuel værdi
+Hjortevej 78653 Them,Them,250.000,04-10-2005,Alm. Salg,1.760,6,Villa,142,2007,,Aktuel værdi
+Hjortevej 278653 Them,Them,300.000,04-10-2005,Alm. Salg,1.829,6,Villa,164,2008,,Aktuel værdi
+Hjortevej 118653 Them,Them,280.000,04-10-2005,Alm. Salg,1.806,5,Villa,155,2007,,Aktuel værdi
+Hjortevej 258653 Them,Them,290.000,04-10-2005,Alm. Salg,1.510,5,Villa,192,2007,,Aktuel værdi
+Hjortevej 358653 Them,Them,401.000,04-10-2005,Alm. Salg,2.005,6,Villa,200,2007,,Aktuel værdi
+Hjortevej 338653 Them,Them,451.000,04-10-2005,Alm. Salg,2.013,5,Villa,224,2007,,Aktuel værdi
+Hjortevej 178653 Them,Them,280.000,04-10-2005,Alm. Salg,2.014,5,Villa,139,2006,,Aktuel værdi
+Hjortevej 378653 Them,Them,305.000,04-10-2005,Alm. Salg,-,6,Villa,168,2006,,Aktuel værdi
+Hjortevej 138653 Them,Them,390.000,04-10-2005,Alm. Salg,1.940,7,Villa,201,2007,,Aktuel værdi
+Hjortevej 218653 Them,Them,285.000,04-10-2005,Alm. Salg,1.716,5,Villa,166,2008,,Aktuel værdi
+Hjortevej 318653 Them,Them,290.000,04-10-2005,Alm. Salg,1.559,8,Villa,186,2007,,Aktuel værdi
+Hjortevej 418653 Them,Them,350.000,04-10-2005,Alm. Salg,1.813,5,Villa,193,2007,,Aktuel værdi
+Toftegårdsparken 368653 Them,Them,1.295.000,01-10-2005,Alm. Salg,9.736,4,Villa,133,1978,,Aktuel værdi
+Salten Skovvej 108653 Them,Them,1.175.000,16-09-2005,Alm. Salg,6.025,6,Villa,195,1900,,Aktuel værdi
+Toftbjerg Bakke 38653 Them,Them,1.575.000,06-09-2005,Alm. Salg,8.203,7,Villa,192,1961,,Aktuel værdi
+Møllesvinget 98653 Them,Them,1.245.000,04-09-2005,Alm. Salg,8.412,5,Villa,148,1971,,Aktuel værdi
+Museumsvej 138653 Them,Them,1.545.000,03-09-2005,Alm. Salg,6.602,8,Villa,234,1870,,Aktuel værdi
+Møllevænget 168653 Them,Them,765.000,01-09-2005,Alm. Salg,8.406,4,Rækkehus,91,1988,,Aktuel værdi
+Slåenvej 108653 Them,Them,750.000,10-08-2005,Alm. Salg,8.241,4,Rækkehus,91,1985,,Aktuel værdi
+Rønnevej 18653 Them,Them,1.065.000,10-08-2005,Alm. Salg,10.047,4,Villa,106,1981,,Aktuel værdi
+Gl. Ryvej 18653 Them,Them,1.300.000,25-07-2005,Alm. Salg,7.428,6,Villa,175,1937,,Aktuel værdi
+Lokesvej 28653 Them,Them,1.410.000,22-07-2005,Alm. Salg,10.000,4,Villa,141,1989,,Aktuel værdi
+Sepstrupvej 658653 Them,Them,765.000,20-07-2005,Alm. Salg,6.270,4,Villa,122,1959,,Aktuel værdi
+Tjørnevej 11B8653 Them,Them,750.000,08-07-2005,Alm. Salg,9.036,3,Rækkehus,83,1983,,Aktuel værdi
+Toftevænget 28653 Them,Them,1.250.000,07-07-2005,Alm. Salg,8.445,5,Villa,148,1973,,Aktuel værdi
+Gl. Ryvej 58653 Them,Them,75.000,04-07-2005,Alm. Salg,392,6,Villa,191,2006,,Aktuel værdi
+Gl. Ryvej 78653 Them,Them,75.000,04-07-2005,Alm. Salg,392,6,Villa,191,2006,,Aktuel værdi
+Ligustervej 28653 Them,Them,110.000,27-06-2005,Alm. Salg,1.100,4,Villa,100,2007,,Aktuel værdi
+Grævlingevej 28653 Them,Them,300.000,23-06-2005,Alm. Salg,1.595,5,Villa,188,2006,,Aktuel værdi
+Grævlingevej 88653 Them,Them,315.000,21-06-2005,Alm. Salg,1.521,6,Villa,207,2006,,Aktuel værdi
+Mølledraget 118653 Them,Them,1.300.000,14-06-2005,Fam. Salg,6.220,7,Villa,209,1972,,Aktuel værdi
+Grævlingevej 78653 Them,Them,356.000,13-06-2005,Alm. Salg,1.736,8,Villa,205,2006,,Aktuel værdi
+Grævlingevej 38653 Them,Them,350.000,09-06-2005,Alm. Salg,2.517,6,Villa,139,2006,,Aktuel værdi
+Smedebakken 158653 Them,Them,1.200.000,31-05-2005,Alm. Salg,6.896,6,Villa,174,1943,,Aktuel værdi
+Smedebakken 138653 Them,Them,1.345.000,23-05-2005,Alm. Salg,9.087,5,Villa,148,1945,,Aktuel værdi
+Klokbjerghegnet 9A8653 Them,Them,764.000,23-05-2005,Alm. Salg,9.432,3,Rækkehus,81,1988,,Aktuel værdi
+Kaldæavej 58653 Them,Them,293.300,19-05-2005,Alm. Salg,1.451,6,Villa,202,2007,,Aktuel værdi
+Toftevænget 498653 Them,Them,415.000,10-05-2005,Andet,3.346,4,Villa,124,1972,,Aktuel værdi
+Kaldæavej 98653 Them,Them,283.300,06-05-2005,Alm. Salg,1.940,4,Villa,146,2006,,Aktuel værdi
+Toftevænget 298653 Them,Them,995.000,21-04-2005,Alm. Salg,6.461,5,Villa,154,1972,,Aktuel værdi
+Kaldæavej 108653 Them,Them,223.300,29-03-2005,Alm. Salg,1.691,5,Villa,132,2007,,Aktuel værdi
+Silkeborgvej 308653 Them,Them,970.000,23-03-2005,Alm. Salg,9.417,3,Villa,103,1941,,Aktuel værdi
+Pårupvej 68653 Them,Them,2.705.000,21-03-2005,Alm. Salg,10.207,8,Villa,265,2007,,Aktuel værdi
+Silkeborgvej 208653 Them,Them,1.140.000,20-03-2005,Alm. Salg,8.321,4,Villa,137,1927,,Aktuel værdi
+Grævlingevej 108653 Them,Them,335.000,18-03-2005,Alm. Salg,1.726,6,Villa,194,2007,,Aktuel værdi
+Ligustervej 68653 Them,Them,110.000,09-03-2005,Alm. Salg,820,5,Villa,134,2005,,Aktuel værdi
+Harbohøjvej 138653 Them,Them,314.800,07-03-2005,Alm. Salg,1.992,6,Villa,158,2006,,Aktuel værdi
+Toftegårdsparken 188653 Them,Them,825.000,04-03-2005,Alm. Salg,8.418,4,Villa,98,1979,,Aktuel værdi
+Højagervej 238653 Them,Them,400.000,02-03-2005,Fam. Salg,3.333,4,Villa,120,1976,,Aktuel værdi
+Jasminvej 208653 Them,Them,1.875.000,27-02-2005,Alm. Salg,10.026,5,Villa,187,2002,,Aktuel værdi
+Kaldæavej 68653 Them,Them,223.300,23-02-2005,Alm. Salg,1.629,6,Villa,137,2006,,Aktuel værdi
+Tjørnevej 88653 Them,Them,795.000,16-02-2005,Alm. Salg,9.244,3,Villa,86,1982,,Aktuel værdi
+"Silkeborgvej 54, 18653 Them",Them,775.000,02-02-2005,Alm. Salg,11.071,2,Lejlighed,70,1980,,Aktuel værdi
+Jasminvej 128653 Them,Them,214.500,31-01-2005,Alm. Salg,1.532,6,Villa,140,2006,,Aktuel værdi
+Jasminvej 268653 Them,Them,1.645.000,31-01-2005,Alm. Salg,11.344,5,Villa,145,2000,,Aktuel værdi
+Harbohøjvej 48653 Them,Them,205.000,09-12-2004,Alm. Salg,1.322,6,Villa,155,2007,,Aktuel værdi
+Klokbjerghegnet 8B8653 Them,Them,765.000,29-11-2004,Alm. Salg,9.807,3,Rækkehus,78,1988,,Aktuel værdi
+Silkeborgvej 78653 Them,Them,960.000,29-11-2004,Alm. Salg,9.142,4,Villa,105,1953,,Aktuel værdi
+Møllevej 128653 Them,Them,1.350.000,29-11-2004,Alm. Salg,6.650,6,Villa,203,1972,,Aktuel værdi
+Odinsvej 138653 Them,Them,110.000,29-11-2004,Alm. Salg,666,5,Villa,165,2007,,Aktuel værdi
+Toftevænget 18653 Them,Them,1.065.000,12-11-2004,Alm. Salg,8.588,3,Villa,124,1972,,Aktuel værdi
+Odinsvej 18653 Them,Them,105.000,11-11-2004,Alm. Salg,739,6,Villa,142,2006,,Aktuel værdi
+Sepstrupvej 638653 Them,Them,445.000,30-10-2004,Alm. Salg,4.635,4,Villa,96,1930,,Aktuel værdi
+Mølleløkken 108653 Them,Them,1.165.000,29-10-2004,Alm. Salg,7.103,6,Villa,164,1972,,Aktuel værdi
+Møllevænget 128653 Them,Them,829.000,20-10-2004,Alm. Salg,6.007,4,Villa,138,1970,,Aktuel værdi
+Odinsvej 468653 Them,Them,1.052.740,17-09-2004,Alm. Salg,10.220,4,Villa,103,2004,,Aktuel værdi
+Sepstrupvej 88653 Them,Them,1.103.710,02-09-2004,Alm. Salg,7.358,9,Stuehus,150,1932,,
+Odinsvej 158653 Them,Them,110.000,02-08-2004,Alm. Salg,909,5,Villa,121,2005,,Aktuel værdi
+Sepstrupvej 30A8653 Them,Them,3.250.000,29-07-2004,Alm. Salg,20.312,5,Stuehus,160,1910,,
+Slåenvej 148653 Them,Them,695.000,01-07-2004,Alm. Salg,7.637,4,Rækkehus,91,1986,,Aktuel værdi
+Toftevænget 198653 Them,Them,684.698,24-06-2004,Alm. Salg,4.626,5,Villa,148,1973,,Aktuel værdi
+Jasminvej 168653 Them,Them,226.600,18-06-2004,Alm. Salg,1.381,5,Villa,164,2005,,Aktuel værdi
+Rodelundvej 8C8653 Them,Them,2.207.500,10-06-2004,Fam. Salg,11.932,5,Villa,185,2012,,Aktuel værdi
+Mølledraget 98653 Them,Them,1.650.000,19-05-2004,Alm. Salg,6.547,5,Villa,252,1972,,Aktuel værdi
+Silkeborgvej 98653 Them,Them,875.000,19-05-2004,Alm. Salg,6.340,5,Villa,138,1942,,Aktuel værdi
+Dyrehaven 38653 Them,Them,1.600.000,04-05-2004,Alm. Salg,9.039,7,Villa,177,1998,,Aktuel værdi
+Dyrehaven 48653 Them,Them,616.430,23-04-2004,Andet,3.876,5,Villa,159,1999,,Aktuel værdi
+Harbohøjvej 58653 Them,Them,314.563,22-04-2004,Alm. Salg,2.069,6,Villa,152,2005,,Aktuel værdi
+Højagervej 28653 Them,Them,1.148.000,14-04-2004,Alm. Salg,6.635,4,Villa,173,1976,,Aktuel værdi
+Ansøvej 218653 Them,Them,825.000,31-03-2004,Alm. Salg,4.508,4,Villa,183,1900,,Aktuel værdi
+Harbohøjvej 118653 Them,Them,270.000,23-03-2004,Alm. Salg,1.687,6,Villa,160,2005,,Aktuel værdi
+Sepstrupvej 198653 Them,Them,995.000,15-03-2004,Alm. Salg,4.326,5,Villa,230,2005,,Aktuel værdi
+Silkeborgvej 748653 Them,Them,1.162.500,05-02-2004,Alm. Salg,8.186,5,Villa,142,1943,,Aktuel værdi
+Jasminvej 228653 Them,Them,242.144,04-02-2004,Alm. Salg,1.476,6,Villa,164,2004,,Aktuel værdi
+Jasminvej 248653 Them,Them,251.896,22-01-2004,Alm. Salg,1.384,7,Villa,182,2004,,Aktuel værdi
+Præstemarken 418653 Them,Them,830.000,10-01-2004,Alm. Salg,7.904,4,Villa,105,1978,,Aktuel værdi
+Højagervej 168653 Them,Them,265.000,12-12-2003,Alm. Salg,2.284,5,Villa,116,2004,,Aktuel værdi
+Møllesvinget 18653 Them,Them,1.200.000,02-12-2003,Alm. Salg,7.500,5,Villa,160,1970,,Aktuel værdi
+Rustrupvej 138653 Them,Them,910.000,02-12-2003,Alm. Salg,6.066,4,Villa,150,1877,,Aktuel værdi
+Møllevej 78653 Them,Them,1.095.000,26-11-2003,Alm. Salg,8.171,3,Villa,134,1967,,Aktuel værdi
+Klokbjerghøjen 4A8653 Them,Them,758.000,14-11-2003,Alm. Salg,8.516,4,Rækkehus,89,1989,,Aktuel værdi
+Hørrelundvej 18653 Them,Them,240.000,09-11-2003,Alm. Salg,2.666,3,Villa,90,1870,,Aktuel værdi
+Præstemarken 298653 Them,Them,816.000,04-11-2003,Alm. Salg,8.326,4,Rækkehus,98,1977,,Aktuel værdi
+Harbohøjvej 78653 Them,Them,280.000,29-10-2003,Alm. Salg,1.272,6,Villa,220,2004,,Aktuel værdi
+Sepstrupvej 268653 Them,Them,2.525.000,27-10-2003,Alm. Salg,15.029,5,Stuehus,168,1969,,
+Harbohøjvej 38653 Them,Them,225.000,23-10-2003,Alm. Salg,1.293,7,Villa,174,2004,,Aktuel værdi
+Præsteengen 68653 Them,Them,1.085.000,16-10-2003,Alm. Salg,8.611,5,Villa,126,1927,,Aktuel værdi
+Toftegårdsparken 688653 Them,Them,1.295.000,04-09-2003,Alm. Salg,8.633,5,Villa,150,1980,,Aktuel værdi
+Sepstrupvej 378653 Them,Them,815.000,28-08-2003,Auktion,7.688,4,Villa,106,1877,,Aktuel værdi
+Rodelundvej 28653 Them,Them,1.570.000,15-08-2003,Alm. Salg,8.674,5,Stuehus,181,1929,,
+Klokbjerghegnet 3A8653 Them,Them,650.000,04-08-2003,Alm. Salg,8.333,3,Rækkehus,78,1988,,Aktuel værdi
+Mølleløkken 1A8653 Them,Them,1.060.000,12-07-2003,Alm. Salg,-,6,Villa,197,1973,,Aktuel værdi
+Voldbygårdvej 58653 Them,Them,7.500.000,02-07-2003,Alm. Salg,-,9,Villa,270,1981,,Aktuel værdi
+Præstemarken 438653 Them,Them,750.000,17-06-2003,Alm. Salg,5.769,4,Villa,130,1979,,Aktuel værdi
+Toftegårdsparken 428653 Them,Them,1.324.500,19-05-2003,Alm. Salg,6.460,8,Villa,205,1979,,Aktuel værdi
+Sepstrupvej 458653 Them,Them,7.150.000,15-05-2003,Alm. Salg,49.310,5,Stuehus,145,1974,,
+Rodelundvej 268653 Them,Them,550.000,02-04-2003,Alm. Salg,3.846,6,Villa,143,1875,,Aktuel værdi
+Møllesvinget 78653 Them,Them,1.100.000,27-03-2003,Alm. Salg,5.699,6,Villa,193,1972,,Aktuel værdi
+Silkeborgvej 2B8653 Them,Them,5.350.000,27-02-2003,Alm. Salg,28.157,6,Anden handel/transport,190,1948,,Aktuel værdi
+Thorsvej 108653 Them,Them,1.444.000,16-01-2003,Alm. Salg,-,8,Villa,153,1995,,Aktuel værdi
+Lokesvej 68653 Them,Them,1.295.000,07-01-2003,Alm. Salg,9.592,5,Villa,135,1997,,Aktuel værdi
+Gothenborgvej 108653 Them,Them,1.300.000,20-12-2002,Alm. Salg,7.558,5,Stuehus,172,1926,,
+Smedebakken 228653 Them,Them,750.000,11-12-2002,Fam. Salg,7.500,4,Villa,100,1950,,Aktuel værdi
+Tømmerbyvej 398653 Them,Them,730.000,20-10-2002,Alm. Salg,3.492,7,Villa,209,1930,,Aktuel værdi
+Toftegårdsparken 68653 Them,Them,400.000,18-10-2002,Alm. Salg,3.361,4,Villa,119,1978,,Aktuel værdi
+Tømmerbyvej 198653 Them,Them,820.000,12-10-2002,Alm. Salg,3.166,7,Villa,259,1936,,Aktuel værdi
+Toftbjerg Bakke 98653 Them,Them,940.000,30-09-2002,Fam. Salg,5.802,6,Villa,162,1962,,Aktuel værdi
+Præstemarken 478653 Them,Them,865.000,25-09-2002,Alm. Salg,8.564,3,Villa,101,1978,,Aktuel værdi
+Toftegårdsparken 128653 Them,Them,720.000,12-09-2002,Alm. Salg,6.050,4,Villa,119,1978,,Aktuel værdi
+Kastanievej 28653 Them,Them,935.000,23-08-2002,Alm. Salg,7.991,5,Villa,117,1986,,Aktuel værdi
+Silkeborgvej 228653 Them,Them,965.000,08-08-2002,Alm. Salg,6.795,3,Villa,142,1943,,Aktuel værdi
+Jasminvej 188653 Them,Them,208.472,06-08-2002,Alm. Salg,1.722,5,Villa,121,2003,,Aktuel værdi
+Møllevej 48653 Them,Them,785.000,31-07-2002,Alm. Salg,4.537,6,Villa,173,1967,,Aktuel værdi
+Silkeborgvej 398653 Them,Them,665.000,31-07-2002,Alm. Salg,5.320,5,Villa,125,1948,,Aktuel værdi
+Klokbjerg Allé 38653 Them,Them,950.000,25-07-2002,Alm. Salg,-,6,Stuehus,178,1905,,
+Gothenborgvej 58653 Them,Them,1.025.000,23-07-2002,Alm. Salg,-,5,Stuehus,229,1890,,
+Møllesvinget 208653 Them,Them,1.125.000,18-07-2002,Alm. Salg,6.048,5,Villa,186,1972,,Aktuel værdi
+Rugvænget 188653 Them,Them,1.110.000,26-06-2002,Alm. Salg,7.655,6,Villa,145,1976,,Aktuel værdi
+Klokbjerghegnet 8A8653 Them,Them,430.000,20-06-2002,Alm. Salg,5.512,3,Rækkehus,78,1988,,Aktuel værdi
+Toftevænget 138653 Them,Them,665.000,19-06-2002,Alm. Salg,5.635,4,Villa,118,1973,,Aktuel værdi
+Kærmindevej 118653 Them,Them,1.203.504,29-04-2002,Alm. Salg,7.163,5,Villa,168,1973,,Aktuel værdi
+Præstemarken 528653 Them,Them,795.000,24-04-2002,Alm. Salg,8.112,4,Villa,98,1977,,Aktuel værdi
+Toftegårdsparken 18653 Them,Them,575.000,04-04-2002,Andet,3.549,7,Villa,162,1978,,Aktuel værdi
+Jasminvej 178653 Them,Them,236.072,27-02-2002,Alm. Salg,1.639,6,Villa,144,2002,,Aktuel værdi
+Harbohøjvej 198653 Them,Them,225.000,31-01-2002,Alm. Salg,1.102,6,Villa,204,2002,,Aktuel værdi
+Toftbjerg Bakke 1B8653 Them,Them,665.000,31-01-2002,Alm. Salg,-,7,Rækkehus,167,1959,,Aktuel værdi
+Silkeborgvej 68653 Them,Them,665.510,11-12-2001,Alm. Salg,5.942,5,Villa,112,1960,,Aktuel værdi
+Sugebækvej 18653 Them,Them,1.775.000,05-12-2001,Alm. Salg,10.201,6,Stuehus,174,1912,,
+Præstemarken 428653 Them,Them,780.000,16-11-2001,Alm. Salg,7.959,4,Villa,98,1978,,Aktuel værdi
+Egevej 48653 Them,Them,882.000,25-10-2001,Alm. Salg,6.582,3,Villa,134,1973,,Aktuel værdi
+Rustrupvej 248653 Them,Them,850.000,09-10-2001,Alm. Salg,7.589,2,Villa,112,1890,,Aktuel værdi
+Løvsvinget 148653 Them,Them,1.060.000,04-10-2001,Alm. Salg,7.260,5,Villa,146,1976,,Aktuel værdi
+Ålhøjvej 48653 Them,Them,996.822,24-09-2001,Fam. Salg,6.389,4,Stuehus,156,1968,,
+Høgdalvej 38653 Them,Them,395.430,24-09-2001,Andet,5.135,3,Villa,77,1965,,Aktuel værdi
+Birkevej 68653 Them,Them,1.039.999,21-09-2001,Alm. Salg,7.999,4,Villa,130,1973,,Aktuel værdi
+Ligustervej 38653 Them,Them,711.991,21-09-2001,Andet,-,5,Villa,210,1996,,Aktuel værdi
+Esperlundvej 38653 Them,Them,290.000,17-09-2001,Alm. Salg,3.372,6,Engroshandel,86,2002,,Aktuel værdi
+Thorsvej 28653 Them,Them,125.000,29-08-2001,Alm. Salg,801,6,Villa,156,2002,,Aktuel værdi
+Rodelundvej 108653 Them,Them,875.000,28-08-2001,Alm. Salg,5.239,5,Villa,167,1925,,Aktuel værdi
+Bakbjergvej 208653 Them,Them,400.000,27-08-2001,Alm. Salg,-,6,Villa,183,2002,,Aktuel værdi
+Gl Skolevej 88653 Them,Them,755.000,09-08-2001,Alm. Salg,5.676,6,Stuehus,133,1827,,
+Smedebakken 268653 Them,Them,400.000,08-08-2001,Fam. Salg,3.669,5,Villa,109,1926,,Aktuel værdi
+Smedebakken 18653 Them,Them,736.390,01-08-2001,Andet,3.681,5,Villa,200,1911,,Aktuel værdi
+Kastanievej 18653 Them,Them,872.000,05-07-2001,Alm. Salg,6.759,4,Villa,129,1900,,Aktuel værdi
+Them Skovvej 58653 Them,Them,1.160.000,04-07-2001,Alm. Salg,8.854,3,Villa,131,1925,,Aktuel værdi
+Højagervej 268653 Them,Them,965.000,27-06-2001,Alm. Salg,6.892,5,Villa,140,1974,,Aktuel værdi
+Toftegårdsparken 548653 Them,Them,1.107.700,11-06-2001,Alm. Salg,5.377,6,Villa,206,1978,,Aktuel værdi
+Harbohøjvej 238653 Them,Them,225.000,07-06-2001,Alm. Salg,1.433,6,Villa,157,2002,,Aktuel værdi
+Saltenvej 58653 Them,Them,2.600.000,21-05-2001,Fam. Salg,14.689,6,Stuehus,177,1939,,
+Asklevvej 88653 Them,Them,550.000,17-05-2001,Alm. Salg,5.092,5,Villa,108,1948,,Aktuel værdi
+Bellisvej 268653 Them,Them,870.000,05-05-2001,Alm. Salg,7.131,4,Rækkehus,122,1986,,Aktuel værdi
+Dyrehaven 78653 Them,Them,1.350.000,26-04-2001,Alm. Salg,9.642,6,Villa,140,1998,,Aktuel værdi
+Knudlundvej 188653 Them,Them,2.300.000,23-04-2001,Alm. Salg,15.333,5,Villa,150,1976,,Aktuel værdi
+Engetvedvej 48653 Them,Them,977.500,26-03-2001,Fam. Salg,8.727,5,Stuehus,112,1911,,
+Møllesvinget 148653 Them,Them,1.140.000,16-03-2001,Alm. Salg,4.042,6,Villa,282,1972,,Aktuel værdi
+Tjørnevej 58653 Them,Them,857.410,06-03-2001,Alm. Salg,8.244,4,Villa,104,1981,,Aktuel værdi
+Gårdstedvej 18653 Them,Them,670.101,27-02-2001,Alm. Salg,7.283,3,Villa,92,1931,,Aktuel værdi
+Jasminvej 48653 Them,Them,214.912,19-02-2001,Alm. Salg,-,7,Villa,183,2001,,Aktuel værdi
+Sepstrupvej 118653 Them,Them,723.716,14-01-2001,Alm. Salg,5.567,5,Stuehus,130,1949,,
+Harbohøjvej 278653 Them,Them,280.000,19-12-2000,Alm. Salg,1.866,4,Villa,150,2001,,Aktuel værdi
+Rodelundvej 308653 Them,Them,780.931,06-12-2000,Alm. Salg,4.566,5,Villa,171,1887,,Aktuel værdi
+Harbohøjvej 318653 Them,Them,285.000,25-11-2000,Alm. Salg,1.344,8,Villa,212,2003,,Aktuel værdi
+Esperlundvej 28653 Them,Them,358.020,24-11-2000,Alm. Salg,2.237,5,Villa,160,1979,,Aktuel værdi
+Silkeborgvej 378653 Them,Them,694.118,03-11-2000,Alm. Salg,6.548,4,Villa,106,1944,,Aktuel værdi
+Tømmerbyvej 188653 Them,Them,1.647.936,20-10-2000,Alm. Salg,3.295,12,Villa,500,1938,,Aktuel værdi
+Ahornvej 48653 Them,Them,237.500,10-10-2000,Alm. Salg,2.083,4,Villa,114,1966,,Aktuel værdi
+Rønnevej 78653 Them,Them,255.000,04-10-2000,Alm. Salg,1.847,5,Villa,138,2001,,Aktuel værdi
+Ryvej 32A8653 Them,Them,875.000,30-09-2000,Alm. Salg,5.794,4,Villa,151,1977,,Aktuel værdi
+Jasminvej 158653 Them,Them,1.652.000,27-09-2000,Alm. Salg,9.604,6,Villa,172,1998,,Aktuel værdi
+Sepstrupvej 348653 Them,Them,659.000,29-08-2000,Alm. Salg,3.723,5,Villa,177,1864,,Aktuel værdi
+Møllevænget 68653 Them,Them,983.643,04-08-2000,Alm. Salg,6.225,5,Villa,158,1971,,Aktuel værdi
+Egevej 78653 Them,Them,963.012,11-07-2000,Fam. Salg,7.080,4,Villa,136,1972,,Aktuel værdi
+Bakbjergvej 128653 Them,Them,1.615.000,20-06-2000,Fam. Salg,13.803,4,Stuehus,117,1890,,
+Stenhulevej 18653 Them,Them,650.000,15-06-2000,Alm. Salg,2.539,9,Stuehus,256,2006,,
+Slåenvej 338653 Them,Them,850.000,06-06-2000,Alm. Salg,-,5,Villa,142,1987,,Aktuel værdi
+Klokbjerghøjen 4B8653 Them,Them,616.000,31-05-2000,Alm. Salg,6.695,4,Rækkehus,92,1989,,Aktuel værdi
+Rodelundvej 178653 Them,Them,1.331.918,30-05-2000,Alm. Salg,-,8,Stuehus,253,1928,,
+Sepstrupvej 328653 Them,Them,262.500,29-05-2000,Andet,2.100,4,Villa,125,1920,,Aktuel værdi
+Ansøvej 18653 Them,Them,715.001,18-05-2000,Auktion,6.163,4,Villa,116,1952,,Aktuel værdi
+Skovbrynet 48653 Them,Them,600.000,15-05-2000,Alm. Salg,5.769,3,Villa,104,1968,,Aktuel værdi
+Harbohøjvej 18653 Them,Them,195.000,06-04-2000,Alm. Salg,1.274,5,Villa,153,2000,,Aktuel værdi
+Løvsvinget 18653 Them,Them,666.000,03-04-2000,Alm. Salg,5.370,4,Villa,124,1975,,Aktuel værdi
+Silkeborgvej 328653 Them,Them,799.000,30-03-2000,Alm. Salg,11.750,3,Villa,68,1958,,Aktuel værdi
+Harbohøjvej 68653 Them,Them,200.000,16-03-2000,Alm. Salg,1.600,4,Villa,125,2001,,Aktuel værdi
+Harbohøjvej 148653 Them,Them,230.000,08-03-2000,Alm. Salg,1.631,5,Villa,141,2000,,Aktuel værdi
+Sepstrupvej 28653 Them,Them,1.300.000,28-02-2000,Alm. Salg,9.352,4,Stuehus,139,1927,,
+Gothenborgvej 38653 Them,Them,96.000,07-01-2000,Alm. Salg,492,8,Stuehus,195,1914,,
+Rodelundvej 158653 Them,Them,1.150.234,13-12-1999,Fam. Salg,4.694,7,Villa,245,1988,,Aktuel værdi
+Toftevænget 258653 Them,Them,1.059.600,13-10-1999,Alm. Salg,7.307,5,Villa,145,1974,,Aktuel værdi
+Harbohøjvej 88653 Them,Them,210.000,21-09-1999,Alm. Salg,1.468,6,Villa,143,2000,,Aktuel værdi
+Harbohøjvej 108653 Them,Them,254.300,21-09-1999,Alm. Salg,1.956,6,Villa,130,2000,,Aktuel værdi
+Harbohøjvej 208653 Them,Them,275.000,21-09-1999,Alm. Salg,1.486,6,Villa,185,2000,,Aktuel værdi
+Møllevænget 98653 Them,Them,820.024,20-09-1999,Alm. Salg,6.406,4,Villa,128,1969,,Aktuel værdi
+Jasminvej 68653 Them,Them,1.650.000,15-09-1999,Alm. Salg,8.375,7,Villa,197,2000,,Aktuel værdi
+Ligustervej 18653 Them,Them,1.079.625,09-09-1999,Alm. Salg,7.938,5,Villa,136,1988,,Aktuel værdi
+Ansøvej 228653 Them,Them,1.106.500,31-08-1999,Alm. Salg,-,5,Stuehus,182,1880,,
+Sepstrupvej 178653 Them,Them,1.925.000,27-08-1999,Alm. Salg,16.739,3,Stuehus,115,1920,,
+Museumsvej 128653 Them,Them,931.612,26-08-1999,Alm. Salg,-,5,Stuehus,225,1857,,
+Gothenborgvej 98653 Them,Them,540.000,22-07-1999,Alm. Salg,2.559,6,Stuehus,211,2000,,
+Salten Skovvej 198653 Them,Them,774.978,21-07-1999,Alm. Salg,5.656,4,Villa,137,1962,,Aktuel værdi
+Toftbjerg Bakke 78653 Them,Them,700.000,12-07-1999,Alm. Salg,2.904,7,Villa,241,1964,,Aktuel værdi
+Kastanievej 108653 Them,Them,585.000,01-07-1999,Alm. Salg,3.656,5,Villa,160,1900,,Aktuel værdi
+Rugvænget 208653 Them,Them,1.150.406,14-06-1999,Alm. Salg,7.933,6,Villa,145,1977,,Aktuel værdi
+Bødskovgårdvej 228653 Them,Them,334.000,08-06-1999,Alm. Salg,3.976,3,Villa,84,1915,,Aktuel værdi
+Rønnevej 58653 Them,Them,1.499.578,08-06-1999,Alm. Salg,8.284,6,Villa,181,1982,,Aktuel værdi
+Rustrupvej 178653 Them,Them,1.900.000,25-05-1999,Alm. Salg,9.452,5,Stuehus,201,1934,,
+Ålhøjvej 118653 Them,Them,859.424,21-05-1999,Alm. Salg,5.055,7,Stuehus,170,1798,,
+Højagervej 318653 Them,Them,1.040.000,27-04-1999,Alm. Salg,7.938,4,Villa,131,1977,,Aktuel værdi
+Højagervej 218653 Them,Them,930.000,23-04-1999,Alm. Salg,7.440,5,Villa,125,1974,,Aktuel værdi
+Elmevej 38653 Them,Them,872.267,15-04-1999,Alm. Salg,-,5,Villa,166,1973,,Aktuel værdi
+Rugvænget 48653 Them,Them,693.000,06-04-1999,Alm. Salg,6.663,5,Villa,104,1972,,Aktuel værdi
+Birkevej 78653 Them,Them,1.084.741,23-03-1999,Alm. Salg,3.930,7,Villa,276,1970,,Aktuel værdi
+Odinsvej 58653 Them,Them,1.075.000,23-03-1999,Alm. Salg,7.570,6,Villa,142,1989,,Aktuel værdi
+Bødskovgårdvej 148653 Them,Them,3.000.000,13-03-1999,Alm. Salg,24.390,5,Stuehus,123,1890,,
+Sepstrupvej 128653 Them,Them,830.616,12-03-1999,Fam. Salg,6.698,4,Stuehus,124,1926,,
+Jasminvej 198653 Them,Them,235.888,10-03-1999,Alm. Salg,1.572,5,Villa,150,1999,,Aktuel værdi
+Ryvej 348653 Them,Them,600.000,05-03-1999,Fam. Salg,5.405,3,Stuehus,111,1863,,
+Ålhøjvej 18653 Them,Them,1.345.000,25-01-1999,Alm. Salg,6.691,12,Villa,201,1897,,Aktuel værdi
+Gl Skolevej 18653 Them,Them,1.131.351,21-01-1999,Alm. Salg,5.801,5,Villa,195,1945,,Aktuel værdi
+Toftevænget 38653 Them,Them,945.408,03-12-1998,Alm. Salg,5.528,4,Villa,171,1972,,Aktuel værdi
+Klokbjerghegnet 7B8653 Them,Them,258.000,30-11-1998,Alm. Salg,4.229,2,Rækkehus,61,1988,,Aktuel værdi
+Klokbjerghegnet 9B8653 Them,Them,258.000,30-11-1998,Alm. Salg,4.229,2,Rækkehus,61,1988,,Aktuel værdi
+Klokbjerghøjen 8B8653 Them,Them,258.000,30-11-1998,Fam. Salg,4.229,2,Rækkehus,61,1988,,Aktuel værdi
+Horsensvej 208653 Them,Them,825.000,24-11-1998,Fam. Salg,6.021,6,Villa,137,1936,,Aktuel værdi
+Kastanievej 128653 Them,Them,655.000,11-11-1998,Alm. Salg,6.121,4,Villa,107,1934,,Aktuel værdi
+Møllehøjsvej 28653 Them,Them,1.027.835,08-11-1998,Alm. Salg,5.244,5,Villa,196,1972,,Aktuel værdi
+Ryvej 248653 Them,Them,557.000,26-10-1998,Alm. Salg,7.957,3,Villa,70,1945,,Aktuel værdi
+Birkevej 108653 Them,Them,815.000,19-10-1998,Alm. Salg,3.543,6,Villa,230,1973,,Aktuel værdi
+Tjørnevej 28653 Them,Them,710.196,08-10-1998,Alm. Salg,8.258,3,Villa,86,1982,,Aktuel værdi
+Smedebakken 168653 Them,Them,350.000,11-09-1998,Alm. Salg,5.384,3,Villa,65,1947,,Aktuel værdi
+Højagervej 278653 Them,Them,928.406,11-09-1998,Alm. Salg,-,5,Villa,152,1973,,Aktuel værdi
+Horsbjergvej 98653 Them,Them,3.500.000,07-09-1998,Alm. Salg,13.059,4,Stuehus,268,1972,,
+Løvsvinget 78653 Them,Them,1.355.865,28-08-1998,Alm. Salg,5.794,8,Villa,234,1974,,Aktuel værdi
+Klokbjerghegnet 7A8653 Them,Them,714.160,20-08-1998,Alm. Salg,8.816,3,Rækkehus,81,1988,,Aktuel værdi
+Tjørnevej 138653 Them,Them,975.000,20-08-1998,Alm. Salg,-,6,Villa,200,1979,,Aktuel værdi
+Toftegårds Allé 48653 Them,Them,865.058,26-07-1998,Alm. Salg,7.793,4,Villa,111,1979,,Aktuel værdi
+Ansøvej 28653 Them,Them,900.000,01-07-1998,Fam. Salg,5.806,5,Stuehus,155,1963,,
+Sepstrupvej 508653 Them,Them,735.286,18-05-1998,Alm. Salg,-,5,Stuehus,205,1927,,
+Dyrehaven 68653 Them,Them,240.000,20-04-1998,Alm. Salg,1.500,6,Villa,160,1998,,Aktuel værdi
+Horsbjergvej 18653 Them,Them,75.722,20-04-1998,Alm. Salg,357,9,Stuehus,212,1885,,
+Askevej 88653 Them,Them,140.000,16-04-1998,Alm. Salg,985,5,Villa,142,1998,,Aktuel værdi
+Hasselvej 68653 Them,Them,934.408,23-03-1998,Alm. Salg,5.249,4,Villa,178,1977,,Aktuel værdi
+Rodelundvej 208653 Them,Them,467.035,16-03-1998,Alm. Salg,4.026,4,Villa,116,1897,,Aktuel værdi
+Jasminvej 78653 Them,Them,148.000,20-02-1998,Alm. Salg,973,6,Villa,152,1998,,Aktuel værdi
+Engetvedvej 128653 Them,Them,860.000,15-02-1998,Fam. Salg,5.308,5,Stuehus,162,1902,,
+Frisholmvej 88653 Them,Them,855.918,02-02-1998,Alm. Salg,6.686,5,Villa,128,1939,,Aktuel værdi
+Jasminvej 98653 Them,Them,1.300.000,27-01-1998,Alm. Salg,8.552,6,Villa,152,1997,,Aktuel værdi
+Tjørnevej 14A8653 Them,Them,573.066,09-01-1998,Alm. Salg,6.297,4,Rækkehus,91,1983,,Aktuel værdi
+Bakbjergvej 58653 Them,Them,450.000,09-01-1998,Fam. Salg,3.409,4,Stuehus,132,1835,,
+Jasminvej 118653 Them,Them,148.000,05-01-1998,Alm. Salg,902,7,Villa,164,1998,,Aktuel værdi
+Dyrehaven 108653 Them,Them,240.000,16-12-1997,Alm. Salg,1.256,9,Villa,191,1998,,Aktuel værdi
+Bøgevej 48653 Them,Them,838.106,11-12-1997,Alm. Salg,5.271,5,Villa,159,1974,,Aktuel værdi
+Dyrehaven 188653 Them,Them,240.000,10-12-1997,Alm. Salg,1.600,6,Villa,150,1998,,Aktuel værdi
+Sugebækvej 58653 Them,Them,3.565.000,05-12-1997,Fam. Salg,12.641,7,Stuehus,282,2008,,
+Egevej 28653 Them,Them,560.000,12-11-1997,Alm. Salg,-,6,Villa,177,1975,,Aktuel værdi
+Pårupvej 18653 Them,Them,4.106.167,05-11-1997,Alm. Salg,23.735,6,Stuehus,173,1925,,
+Pilevej 18653 Them,Them,940.000,04-11-1997,Alm. Salg,6.714,4,Villa,140,1969,,Aktuel værdi
+Toftegårds Allé 88653 Them,Them,794.931,19-10-1997,Alm. Salg,6.462,4,Villa,123,1979,,Aktuel værdi
+Horsensvej 368653 Them,Them,709.000,07-10-1997,Alm. Salg,-,6,Villa,164,1946,,Aktuel værdi
+Ansøvej 98653 Them,Them,428.132,17-09-1997,Alm. Salg,-,9,Villa,237,1930,,Aktuel værdi
+Præstemarken 588653 Them,Them,501.220,14-09-1997,Fam. Salg,4.475,4,Villa,112,1976,,Aktuel værdi
+Elmevej 28653 Them,Them,904.749,11-09-1997,Alm. Salg,5.550,5,Villa,163,1972,,Aktuel værdi
+Salten Skovvej 208653 Them,Them,750.000,09-09-1997,Alm. Salg,5.952,4,Villa,126,1954,,Aktuel værdi
+Kirkemindevej 168653 Them,Them,409.876,10-08-1997,Alm. Salg,2.499,6,Villa,164,1928,,Aktuel værdi
+Dyrehaven 228653 Them,Them,255.000,30-07-1997,Alm. Salg,1.328,7,Villa,192,1998,,Aktuel værdi
+Sepstrupvej 248653 Them,Them,935.000,22-07-1997,Fam. Salg,6.824,5,Stuehus,137,1956,,
+Løvsvinget 218653 Them,Them,1.475.320,30-06-1997,Alm. Salg,6.096,5,Villa,242,1984,,Aktuel værdi
+Mosestien 28653 Them,Them,560.000,22-05-1997,Alm. Salg,6.363,3,Villa,88,1934,,Aktuel værdi
+Mølledraget 48653 Them,Them,663.000,01-05-1997,Fam. Salg,5.304,4,Villa,125,1971,,Aktuel værdi
+Dyrehaven 128653 Them,Them,240.000,17-04-1997,Alm. Salg,1.437,6,Villa,167,1997,,Aktuel værdi
+Rustrupvej 208653 Them,Them,385.000,11-04-1997,Alm. Salg,1.807,4,Stuehus,213,1900,,
+"Silkeborgvej 27, 1. TV8653 Them",Them,398.732,04-04-1997,Alm. Salg,6.431,2,Lejlighed,62,1988,,Aktuel værdi
+Sepstrupvej 368653 Them,Them,738.020,25-03-1997,Alm. Salg,3.280,8,Stuehus,225,1907,,
+Egevej 68653 Them,Them,692.504,17-03-1997,Alm. Salg,5.868,4,Villa,118,1975,,Aktuel værdi
+Dyrehaven 168653 Them,Them,240.000,27-02-1997,Alm. Salg,1.500,6,Villa,160,1997,,Aktuel værdi
+Sepstrupvej 358653 Them,Them,1.175.000,25-02-1997,Alm. Salg,4.936,6,Stuehus,238,1890,,
+Jasminvej 58653 Them,Them,148.000,18-02-1997,Alm. Salg,925,5,Villa,160,1997,,Aktuel værdi
+Højagervej 398653 Them,Them,920.072,13-02-1997,Alm. Salg,5.679,4,Villa,162,1975,,Aktuel værdi
+Elkærvej 38653 Them,Them,625.000,10-02-1997,Alm. Salg,3.591,3,Villa,174,1952,,Aktuel værdi
+Jasminvej 18653 Them,Them,148.000,10-02-1997,Alm. Salg,646,7,Villa,229,1999,,Aktuel værdi
+Toftevænget 468653 Them,Them,354.744,04-02-1997,Andet,2.608,4,Villa,136,1973,,Aktuel værdi
+Dyrehaven 268653 Them,Them,145.000,22-01-1997,Alm. Salg,878,6,Villa,165,1998,,Aktuel værdi
+Thorsvej 58653 Them,Them,70.000,30-12-1996,Alm. Salg,411,6,Villa,170,1998,,Aktuel værdi
+Højkolvej 28653 Them,Them,501.500,27-12-1996,Fam. Salg,4.044,3,Villa,124,1920,,Aktuel værdi
+Møllesvinget 158653 Them,Them,1.158.000,02-12-1996,Alm. Salg,4.886,6,Villa,237,1971,,Aktuel værdi
+Dyrehaven 58653 Them,Them,145.000,01-12-1996,Alm. Salg,1.028,5,Villa,141,1997,,Aktuel værdi
+Dyrehaven 148653 Them,Them,240.000,25-11-1996,Alm. Salg,1.379,6,Villa,174,1997,,Aktuel værdi
+Smedebakken 368653 Them,Them,635.000,20-11-1996,Alm. Salg,-,6,Villa,153,1968,,Aktuel værdi
+Præstemarken 198653 Them,Them,552.000,19-11-1996,Alm. Salg,5.632,3,Rækkehus,98,1976,,Aktuel værdi
+"Silkeborgvej 27, ST. TV8653 Them",Them,384.000,11-11-1996,Alm. Salg,4.860,3,Lejlighed,79,1988,,Aktuel værdi
+"Silkeborgvej 27, ST. TH8653 Them",Them,485.000,11-11-1996,Alm. Salg,6.139,3,Lejlighed,79,1988,,Aktuel værdi
+"Silkeborgvej 27, 1. TH8653 Them",Them,306.000,11-11-1996,Alm. Salg,4.935,2,Lejlighed,62,1988,,Aktuel værdi
+Præstemarken 38653 Them,Them,775.000,05-11-1996,Alm. Salg,6.739,4,Villa,115,1977,,Aktuel værdi
+Gårdstedvej 28653 Them,Them,889.000,08-10-1996,Alm. Salg,4.512,4,Stuehus,197,1938,,
+Vorretvej 298653 Them,Them,473.480,03-10-1996,Alm. Salg,3.642,4,Stuehus,130,1920,,
+Klokbjerghøjen 68653 Them,Them,251.909,29-09-1996,Fam. Salg,2.445,4,Villa,103,1989,,Aktuel værdi
+Elmevej 108653 Them,Them,900.000,28-08-1996,Alm. Salg,3.862,7,Villa,233,1973,,Aktuel værdi
+Rustrupvej 228653 Them,Them,1.600.000,16-08-1996,Alm. Salg,10.884,5,Stuehus,147,1974,,
+Silkeborgvej 38653 Them,Them,1.039.000,10-08-1996,Alm. Salg,6.111,9,Villa,170,1957,,Aktuel værdi
+Mølleengen 28653 Them,Them,791.000,08-08-1996,Alm. Salg,5.493,5,Villa,144,1973,,Aktuel værdi
+Frisholmvej 78653 Them,Them,1.302.000,29-06-1996,Alm. Salg,5.636,9,Villa,231,1967,,Aktuel værdi
+Bødskovgårdvej 328653 Them,Them,700.000,15-05-1996,Fam. Salg,3.684,5,Stuehus,190,1914,,
+Hasselvej 38653 Them,Them,615.938,21-04-1996,Alm. Salg,5.264,4,Villa,117,1978,,Aktuel værdi
+Ligustervej 98653 Them,Them,70.000,11-04-1996,Alm. Salg,510,6,Villa,137,1997,,Aktuel værdi
+Slåenvej 318653 Them,Them,580.000,02-04-1996,Alm. Salg,6.744,3,Villa,86,1987,,Aktuel værdi
+Ryvej 238653 Them,Them,355.000,29-03-1996,Alm. Salg,3.480,4,Villa,102,1921,,Aktuel værdi
+Asklevvej 38653 Them,Them,296.000,26-03-1996,Alm. Salg,-,6,Villa,172,1947,,Aktuel værdi
+Frisholmvej 18653 Them,Them,415.250,17-03-1996,Alm. Salg,2.595,4,Villa,160,1930,,Aktuel værdi
+Toftbjerg Bakke 68653 Them,Them,614.000,11-03-1996,Alm. Salg,5.581,5,Villa,110,1963,,Aktuel værdi
+Toftegårdsparken 538653 Them,Them,763.000,20-02-1996,Alm. Salg,-,8,Villa,195,1979,,Aktuel værdi
+Højagervej 478653 Them,Them,796.220,03-02-1996,Alm. Salg,-,6,Villa,183,1976,,Aktuel værdi
+Rustrupvej 258653 Them,Them,250.000,25-01-1996,Fam. Salg,1.213,5,Stuehus,206,1907,,
+Bellisvej 208653 Them,Them,548.000,02-12-1995,Alm. Salg,5.480,4,Rækkehus,100,1987,,Aktuel værdi
+Hybenvej 68653 Them,Them,567.000,27-11-1995,Alm. Salg,6.300,4,Villa,90,1985,,Aktuel værdi
+Møllesvinget 28653 Them,Them,800.000,06-11-1995,Alm. Salg,5.128,5,Villa,156,1971,,Aktuel værdi
+Kamillevej 38653 Them,Them,698.000,08-10-1995,Alm. Salg,-,7,Villa,196,1986,,Aktuel værdi
+Slåenvej 28653 Them,Them,435.894,21-09-1995,Alm. Salg,4.790,4,Rækkehus,91,1984,,Aktuel værdi
+Skovbrynet 38653 Them,Them,697.000,23-08-1995,Alm. Salg,4.773,4,Villa,146,1963,,Aktuel værdi
+Sepstrupvej 678653 Them,Them,538.660,14-08-1995,Alm. Salg,1.923,6,Villa,280,1977,,Aktuel værdi
+Askevej 58653 Them,Them,710.000,01-08-1995,Alm. Salg,6.339,4,Villa,112,1989,,Aktuel værdi
+Ligustervej 78653 Them,Them,70.000,28-07-1995,Alm. Salg,-,5,Villa,155,1996,,Aktuel værdi
+Askevej 18653 Them,Them,140.000,12-07-1995,Alm. Salg,-,7,Villa,196,1996,,Aktuel værdi
+Bøgevej 38653 Them,Them,725.000,27-06-1995,Alm. Salg,5.410,3,Villa,134,1973,,Aktuel værdi
+Horsensvej 198653 Them,Them,450.000,17-06-1995,Alm. Salg,3.214,5,Villa,140,1909,,Aktuel værdi
+Birkevej 48653 Them,Them,602.000,31-05-1995,Alm. Salg,-,4,Villa,142,1973,,Aktuel værdi
+Toftevænget 518653 Them,Them,770.000,24-05-1995,Alm. Salg,3.989,5,Villa,193,1974,,Aktuel værdi
+Højagervej 228653 Them,Them,570.000,19-05-1995,Alm. Salg,-,6,Villa,175,1975,,Aktuel værdi
+Bødskovgårdvej 38653 Them,Them,1.175.000,27-04-1995,Alm. Salg,6.831,5,Stuehus,172,1931,,
+Asklevvej 48653 Them,Them,550.000,10-04-1995,Fam. Salg,3.767,3,Stuehus,146,1933,,
+Rustrupvej 78653 Them,Them,513.000,07-03-1995,Alm. Salg,3.537,4,Villa,145,1917,,Aktuel værdi
+Højagervej 358653 Them,Them,625.000,18-02-1995,Alm. Salg,-,6,Villa,161,1974,,Aktuel værdi
+Museumsvej 58653 Them,Them,410.000,08-02-1995,Alm. Salg,3.474,3,Rækkehus,118,1999,,Aktuel værdi
+Ligustervej 138653 Them,Them,70.000,06-02-1995,Alm. Salg,-,6,Villa,160,1996,,Aktuel værdi
+Toftegårdsparken 608653 Them,Them,620.000,08-12-1994,Alm. Salg,5.210,5,Villa,119,1980,,Aktuel værdi
+Museumsvej 98653 Them,Them,578.232,05-12-1994,Alm. Salg,5.256,5,Villa,110,1918,,Aktuel værdi
+Rugvænget 118653 Them,Them,520.000,04-10-1994,Alm. Salg,-,5,Villa,131,1978,,Aktuel værdi
+Præsteengen 48653 Them,Them,465.000,12-09-1994,Alm. Salg,3.720,3,Villa,125,1938,,Aktuel værdi
+Ansøvej 208653 Them,Them,1.375.000,08-09-1994,Alm. Salg,-,8,Stuehus,291,1930,,
+Toftevænget 168653 Them,Them,575.000,21-08-1994,Alm. Salg,4.356,4,Villa,132,1972,,Aktuel værdi
+Silkeborgvej 408653 Them,Them,620.000,05-07-1994,Alm. Salg,6.888,11,Industri o.l.,90,1912,,Aktuel værdi
+Brandevej 208653 Them,Them,226.000,30-06-1994,Auktion,-,7,Stuehus,364,1928,,
+Løvsvinget 238653 Them,Them,742.000,26-05-1994,Alm. Salg,2.921,8,Villa,254,1980,,Aktuel værdi
+Gl. Ryvej 28653 Them,Them,61.200,11-05-1994,Alm. Salg,-,9,Villa,195,1924,,Aktuel værdi
+Bellisvej 248653 Them,Them,465.000,06-05-1994,Alm. Salg,3.811,4,Rækkehus,122,1986,,Aktuel værdi
+Møllevej 68653 Them,Them,785.000,05-05-1994,Alm. Salg,5.376,5,Villa,146,1966,,Aktuel værdi
+Vorretvej 98653 Them,Them,1.150.000,25-04-1994,Alm. Salg,7.986,5,Stuehus,144,1961,,
+Silkeborgvej 348653 Them,Them,500.000,24-03-1994,Alm. Salg,4.464,3,Villa,112,1931,,Aktuel værdi
+Møllesvinget 68653 Them,Them,690.000,20-02-1994,Alm. Salg,3.854,7,Villa,179,1971,,Aktuel værdi
+Saltenvej 118653 Them,Them,385.000,17-02-1994,Alm. Salg,3.737,3,Villa,103,1938,,Aktuel værdi
+Præstemarken 328653 Them,Them,610.000,04-02-1994,Alm. Salg,5.304,4,Villa,115,1976,,Aktuel værdi
+Højagervej 18653 Them,Them,650.000,29-01-1994,Alm. Salg,-,5,Villa,153,1977,,Aktuel værdi
+Toftegårdsparken 478653 Them,Them,640.000,10-01-1994,Alm. Salg,5.245,4,Villa,122,1979,,Aktuel værdi
+Poppelvej 38653 Them,Them,530.000,30-10-1993,Alm. Salg,3.581,5,Villa,148,1975,,Aktuel værdi
+Toftbjerg Bakke 118653 Them,Them,480.000,27-10-1993,Alm. Salg,3.902,4,Villa,123,1963,,Aktuel værdi
+Smedebakken 328653 Them,Them,585.000,18-10-1993,Alm. Salg,4.333,5,Villa,135,1973,,Aktuel værdi
+Møllesvinget 188653 Them,Them,560.000,28-09-1993,Alm. Salg,3.888,5,Villa,144,1971,,Aktuel værdi
+Rodelundvej 68653 Them,Them,594.176,26-09-1993,Alm. Salg,-,4,Villa,191,1964,,Aktuel værdi
+Præstemarken 18653 Them,Them,477.000,10-09-1993,Alm. Salg,4.770,3,Villa,100,1977,,Aktuel værdi
+Toftegårdsparken 388653 Them,Them,557.500,31-07-1993,Alm. Salg,4.890,5,Villa,114,1978,,Aktuel værdi
+Silkeborgvej 888653 Them,Them,435.000,15-07-1993,Alm. Salg,3.625,4,Villa,120,1961,,Aktuel værdi
+Gl Skolevej 28653 Them,Them,1.000.000,07-07-1993,Alm. Salg,4.273,6,Villa,234,1950,,Aktuel værdi
+Asklevvej 68653 Them,Them,340.135,19-05-1993,Fam. Salg,-,6,Stuehus,180,1987,,
+Knudlundvej 198653 Them,Them,1.450.000,17-05-1993,Alm. Salg,9.666,4,Villa,150,1977,,Aktuel værdi
+Højagervej 148653 Them,Them,391.000,12-05-1993,Alm. Salg,2.678,5,Villa,146,1975,,Aktuel værdi
+Kastanievej 158653 Them,Them,525.000,16-04-1993,Alm. Salg,3.220,7,Villa,163,1951,,Aktuel værdi
+Silkeborgvej 418653 Them,Them,540.000,11-02-1993,Alm. Salg,4.537,4,Villa,119,1930,,Aktuel værdi
+Horsbjergvej 58653 Them,Them,800.000,15-10-1992,Alm. Salg,4.848,3,Villa,165,1907,,Aktuel værdi
+Kamillevej 108653 Them,Them,332.377,03-09-1992,Alm. Salg,-,4,Villa,91,1985,,Aktuel værdi
+Rustrupvej 38653 Them,Them,380.000,20-08-1992,Alm. Salg,-,4,Villa,157,1888,,Aktuel værdi
+Rugvænget 288653 Them,Them,382.850,07-07-1992,Alm. Salg,-,6,Villa,157,1985,,Aktuel værdi
+Toftegårdsparken 648653 Them,Them,423.757,02-07-1992,Alm. Salg,3.783,4,Villa,112,1981,,Aktuel værdi
+Sepstrupvej 398653 Them,Them,750.000,11-06-1992,Fam. Salg,6.097,5,Stuehus,123,1880,,
+Sepstrupvej 38653 Them,Them,700.000,22-05-1992,Fam. Salg,5.737,5,Stuehus,122,1930,,
+Møllevej 198653 Them,Them,750.000,04-05-1992,Alm. Salg,5.474,5,Villa,137,1972,,Aktuel værdi
+Sepstrupvej 538653 Them,Them,1.525.000,29-04-1992,Fam. Salg,8.198,6,Stuehus,186,1939,,
+Løvsvinget 128653 Them,Them,720.000,22-04-1992,Fam. Salg,3.913,5,Villa,184,1973,,Aktuel værdi
+Rustrupvej 88653 Them,Them,340.000,20-03-1992,Alm. Salg,1.920,6,Villa,177,1877,,Aktuel værdi
+Smedebakken 38653 Them,Them,940.000,20-03-1992,Alm. Salg,4.331,8,Villa,217,1932,,Aktuel værdi
+Kirkemindevej 148653 Them,Them,167.000,17-03-1992,Alm. Salg,-,5,Villa,137,1934,,Aktuel værdi
+Asklevvej 18653 Them,Them,916.441,25-02-1992,Alm. Salg,-,4,Stuehus,161,1910,,
+Engetvedvej 38653 Them,Them,1.450.000,29-01-1992,Alm. Salg,6.531,7,Stuehus,222,1932,,
+Toftevænget 208653 Them,Them,280.000,10-01-1992,Fam. Salg,2.000,4,Villa,140,1974,,Aktuel værdi
+Toftevænget 288653 Them,Them,577.000,08-01-1992,Fam. Salg,3.223,7,Villa,179,1972,,Aktuel værdi
+Salten Skovvej 38653 Them,Them,64.000,06-01-1992,Alm. Salg,361,7,Stuehus,177,1941,,

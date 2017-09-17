@@ -1,0 +1,572 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Dortheavej 274791 Borre,orre,1.100.000,26-03-2017,Alm. Salg,6.707,5,Villa,164,1979,-8 %,Aktuel værdi
+Stendyssevej 194791 Borre,orre,1.350.000,22-03-2017,Alm. Salg,7.068,8,Villa,191,1914,-3 %,Aktuel værdi
+Klintevej 3574791 Borre,orre,275.000,16-03-2017,Fam. Salg,1.751,6,Villa,157,1875,,Aktuel værdi
+Svenskestræde 104791 Borre,orre,240.000,08-02-2017,Alm. Salg,5.000,2,Villa,48,1825,-4 %,Aktuel værdi
+Klintholm Havnevej 424791 Borre,orre,780.000,06-01-2017,Alm. Salg,9.629,4,Villa,81,1964,-22 %,Aktuel værdi
+Klintevej 4994791 Borre,orre,395.000,04-01-2017,Alm. Salg,2.564,7,Villa,154,1820,0 %,Aktuel værdi
+Klintholm Havneby 364791 Borre,orre,750.000,21-12-2016,Alm. Salg,15.000,3,Fritid,50,1986,-12 %,Aktuel værdi
+Klintholm Havneby 594791 Borre,orre,1.225.000,09-12-2016,Alm. Salg,23.557,3,Fritid,52,1986,-5 %,Aktuel værdi
+Søndre Landevej 1204791 Borre,orre,778.200,21-11-2016,Alm. Salg,6.176,4,Villa,126,1915,,Aktuel værdi
+Hvilestedvej 74791 Borre,orre,510.000,12-11-2016,Alm. Salg,6.800,3,Villa,75,1949,-21 %,Aktuel værdi
+Klintholm Havneby 194791 Borre,orre,1.290.000,24-10-2016,Alm. Salg,25.800,3,Fritid,50,1986,,Aktuel værdi
+Sømarkevej 214791 Borre,orre,295.000,22-10-2016,Alm. Salg,2.458,6,Villa,120,1910,0 %,Aktuel værdi
+Sønderbyvej 64791 Borre,orre,200.000,04-10-2016,Alm. Salg,1.818,5,Villa,110,1925,-43 %,Aktuel værdi
+Nørrebyvej 194791 Borre,orre,250.000,30-09-2016,Alm. Salg,1.785,5,Villa,140,1938,-15 %,Aktuel værdi
+Kraneledvej 214791 Borre,orre,1.900.000,29-09-2016,Alm. Salg,9.359,9,Villa,203,1892,-16 %,Aktuel værdi
+Søndre Landevej 294791 Borre,orre,300.000,20-09-2016,Alm. Salg,3.488,4,Villa,86,1935,2 %,Aktuel værdi
+Hvilestedvej 54791 Borre,orre,1.117.000,07-09-2016,Alm. Salg,10.844,4,Villa,103,1949,-7 %,Aktuel værdi
+Stendyssevej 24791 Borre,orre,1.395.000,01-09-2016,Alm. Salg,4.500,12,Villa,310,1925,0 %,Aktuel værdi
+Hesselholtvej 34791 Borre,orre,164.671,23-08-2016,Alm. Salg,697,7,Stuehus,236,1800,,
+Søndre Landevej 874791 Borre,orre,1.600.000,22-08-2016,Alm. Salg,6.015,11,Villa,266,1900,-14 %,Aktuel værdi
+Klintholm Havnevej 844791 Borre,orre,425.000,27-07-2016,Alm. Salg,3.079,5,Villa,138,1900,-29 %,Aktuel værdi
+Krogen 44791 Borre,orre,1.400.000,19-07-2016,Alm. Salg,5.384,9,Villa,260,1774,-12 %,Aktuel værdi
+Kraneledvej 374791 Borre,orre,1.500.000,27-06-2016,Alm. Salg,9.493,6,Villa,158,1875,-19 %,Aktuel værdi
+Klintholm Havneby 784791 Borre,orre,790.000,10-06-2016,Alm. Salg,15.800,3,Fritid,50,1986,-7 %,Aktuel værdi
+Skovstrædet 44791 Borre,orre,625.000,29-05-2016,Alm. Salg,6.944,3,Villa,90,1725,-22 %,Aktuel værdi
+Klintevej 3424791 Borre,orre,450.000,27-05-2016,Alm. Salg,2.830,5,Villa,159,1945,,Aktuel værdi
+Vimmelskaftet 54791 Borre,orre,540.000,24-05-2016,Alm. Salg,5.454,3,Villa,99,1910,-8 %,Aktuel værdi
+Katinkavej 214791 Borre,orre,1.093.750,17-04-2016,Alm. Salg,9.269,4,Villa,118,1966,,Aktuel værdi
+Råbyovedvej 104791 Borre,orre,670.000,11-04-2016,Alm. Salg,3.252,12,Villa,206,1783,-16 %,Aktuel værdi
+Amandastræde 124791 Borre,orre,600.000,27-02-2016,Alm. Salg,5.000,4,Villa,120,1941,-14 %,Aktuel værdi
+Nørrebyvej 374791 Borre,orre,751.000,03-02-2016,Alm. Salg,5.732,5,Stuehus,131,1906,8 %,
+Klintholm Havnevej 584791 Borre,orre,625.000,03-02-2016,Auktion,5.000,3,Villa,125,1925,,Aktuel værdi
+Busenevej 224791 Borre,orre,895.000,04-01-2016,Alm. Salg,8.523,3,Villa,105,1895,0 %,Aktuel værdi
+Sømarkevej 304791 Borre,orre,54.880,21-12-2015,Alm. Salg,508,2,Villa,108,1825,-90 %,Aktuel værdi
+Strædet 124791 Borre,orre,629.000,14-12-2015,Fam. Salg,7.147,4,Villa,88,1933,,Aktuel værdi
+Dortheavej 84791 Borre,orre,745.000,09-12-2015,Alm. Salg,6.535,4,Villa,114,1986,-1 %,Aktuel værdi
+Rakkerbanken 14791 Borre,orre,900.000,04-12-2015,Fam. Salg,5.454,6,Villa,165,1876,,Aktuel værdi
+Klintholm Havneby 484791 Borre,orre,1.300.000,02-12-2015,Andet,26.000,3,Fritid,50,1986,,Aktuel værdi
+Sømarkevej 224791 Borre,orre,145.000,01-12-2015,Alm. Salg,805,6,Villa,180,1908,,Aktuel værdi
+Skovstrædet 14791 Borre,orre,795.000,26-11-2015,Fam. Salg,6.516,5,Sommerhus,122,1800,,Aktuel værdi
+Klintholm Havneby 64791 Borre,orre,840.000,19-11-2015,Alm. Salg,16.153,3,Fritid,52,1986,-9 %,Aktuel værdi
+Liselundvej 344791 Borre,orre,1.100.000,10-11-2015,Alm. Salg,6.586,5,Villa,167,1904,0 %,Aktuel værdi
+Strædet 144791 Borre,orre,1.910.000,09-11-2015,Alm. Salg,13.356,3,Villa,143,1875,-4 %,Aktuel værdi
+Klintholm Havneby 324791 Borre,orre,775.000,08-11-2015,Alm. Salg,15.500,3,Fritid,50,1986,-9 %,Aktuel værdi
+Liselundvej 454791 Borre,orre,1.550.000,07-11-2015,Alm. Salg,11.071,6,Villa,140,1892,-6 %,Aktuel værdi
+Strædet 64791 Borre,orre,246.667,04-11-2015,Fam. Salg,4.111,3,Villa,60,1946,,Aktuel værdi
+Sømarkevej 204791 Borre,orre,432.000,26-10-2015,Alm. Salg,3.428,5,Villa,126,1905,,Aktuel værdi
+Klintholm Havneby 644791 Borre,orre,925.000,10-10-2015,Alm. Salg,18.500,3,Fritid,50,1986,-3 %,Aktuel værdi
+Klintevej 3524791 Borre,orre,295.000,18-09-2015,Alm. Salg,2.521,4,Villa,117,1949,0 %,Aktuel værdi
+Klintevej 3464791 Borre,orre,200.000,15-09-2015,Alm. Salg,1.459,4,Villa,137,1912,,Aktuel værdi
+Klintholm Havneby 714791 Borre,orre,1.200.000,10-09-2015,Alm. Salg,17.647,3,Fritid,68,1986,-7 %,Aktuel værdi
+Klintevej 4614791 Borre,orre,286.000,21-08-2015,Fam. Salg,2.000,3,Villa,143,1914,,Aktuel værdi
+Klintholm Havnevej 594791 Borre,orre,250.000,28-07-2015,Alm. Salg,2.252,4,Villa,111,1964,-33 %,Aktuel værdi
+Margrethevej 54791 Borre,orre,1.225.000,28-07-2015,Alm. Salg,9.074,5,Villa,135,1952,-4 %,Aktuel værdi
+Klintholm Havneby 674791 Borre,orre,1.075.000,09-07-2015,Alm. Salg,20.673,3,Fritid,52,1986,-7 %,Aktuel værdi
+Klintevej 3594791 Borre,orre,295.000,24-06-2015,Auktion,1.798,4,Villa,164,1880,,Aktuel værdi
+Thyravej 304791 Borre,orre,595.000,14-06-2015,Fam. Salg,6.839,4,Villa,87,1923,,Aktuel værdi
+Søndre Landevej 734791 Borre,orre,288.000,10-06-2015,Alm. Salg,2.769,4,Villa,104,1946,,Aktuel værdi
+Stendyssevej 44791 Borre,orre,450.000,12-05-2015,Alm. Salg,2.647,6,Villa,170,1850,,Aktuel værdi
+Busenevej 184791 Borre,orre,450.000,11-04-2015,Alm. Salg,2.528,4,Villa,178,1875,0 %,Aktuel værdi
+Klintholm Havneby 654791 Borre,orre,1.200.000,30-03-2015,Alm. Salg,24.000,3,Fritid,50,1986,-4 %,Aktuel værdi
+Nørrebyvej 174791 Borre,orre,550.000,04-03-2015,Auktion,3.459,7,Villa,159,1835,-19 %,Aktuel værdi
+Klintholm Havneby 564791 Borre,orre,1.240.000,26-02-2015,Alm. Salg,18.507,3,Fritid,67,1986,-4 %,Aktuel værdi
+Svenskestræde 24791 Borre,orre,250.000,23-02-2015,Alm. Salg,1.893,4,Villa,132,1926,0 %,Aktuel værdi
+Gurkebakken 14791 Borre,orre,820.000,17-02-2015,Alm. Salg,3.886,5,Villa,211,1889,-14 %,Aktuel værdi
+Sømarkevej 414791 Borre,orre,275.000,11-02-2015,Alm. Salg,3.437,3,Villa,80,1890,-21 %,Aktuel værdi
+Hvilestedvej 14791 Borre,orre,421.044,18-12-2014,Alm. Salg,3.479,5,Villa,121,2006,,Aktuel værdi
+Sømarkevej 344791 Borre,orre,640.000,18-12-2014,Alm. Salg,5.245,4,Villa,122,1905,-8 %,Aktuel værdi
+Klintholm Havneby 114791 Borre,orre,1.095.000,12-12-2014,Fam. Salg,16.102,3,Fritid,68,1986,10 %,Aktuel værdi
+Busenevej 534791 Borre,orre,2.500.000,04-12-2014,Alm. Salg,10.416,9,Villa,240,1910,,Aktuel værdi
+Fyrvej 24791 Borre,orre,980.000,03-12-2014,Fam. Salg,4.949,7,Villa,198,1800,,Aktuel værdi
+Bøgebjergvej 54791 Borre,orre,695.000,27-11-2014,Alm. Salg,5.940,3,Villa,117,1905,0 %,Aktuel værdi
+Kasperstræde 94791 Borre,orre,670.000,26-11-2014,Alm. Salg,6.146,4,Villa,109,1900,-14 %,Aktuel værdi
+Toftevænget 4B4791 Borre,orre,390.000,26-11-2014,Auktion,2.203,7,Villa,177,1980,,Aktuel værdi
+Svenskestræde 124791 Borre,orre,80.000,13-11-2014,Alm. Salg,421,7,Villa,190,1890,,Aktuel værdi
+Stendyssevej 154791 Borre,orre,2.850.000,20-10-2014,Alm. Salg,12.610,6,Villa,226,1926,,Aktuel værdi
+Søndre Landevej 404791 Borre,orre,635.000,24-09-2014,Alm. Salg,2.267,8,Villa,280,1925,-36 %,Aktuel værdi
+Søndre Landevej 1084791 Borre,orre,210.000,22-09-2014,Alm. Salg,1.400,6,Villa,150,1900,-21 %,Aktuel værdi
+Klintholm Havneby 774791 Borre,orre,500.000,08-09-2014,Fam. Salg,10.000,3,Fritid,50,1986,,Aktuel værdi
+Nørrebyvej 154791 Borre,orre,460.000,07-08-2014,Alm. Salg,4.107,5,Villa,112,1845,-7 %,Aktuel værdi
+Klintevej 3264791 Borre,orre,1.500.000,09-07-2014,Alm. Salg,7.575,5,Villa,198,1910,3 %,Aktuel værdi
+Klintholm Havneby 384791 Borre,orre,800.000,26-06-2014,Alm. Salg,11.428,3,Fritid,70,1986,-20 %,Aktuel værdi
+Amandastræde 74791 Borre,orre,500.000,12-06-2014,Alm. Salg,4.166,3,Villa,120,1949,,Aktuel værdi
+Harebankevej 54791 Borre,orre,1.000.000,11-06-2014,Alm. Salg,3.703,9,Stuehus,270,1916,,
+Nøddelundvej 24791 Borre,orre,1.100.000,10-06-2014,Alm. Salg,3.642,9,Villa,302,1914,-21 %,Aktuel værdi
+Søndre Landevej 674791 Borre,orre,199.000,04-06-2014,Alm. Salg,1.932,2,Villa,103,1925,0 %,Aktuel værdi
+Klintholm Havneby 44791 Borre,orre,800.000,27-05-2014,Alm. Salg,16.000,3,Fritid,50,1986,-6 %,Aktuel værdi
+Sømarkevej 174791 Borre,orre,525.000,27-05-2014,Alm. Salg,3.697,4,Villa,142,2008,-24 %,Aktuel værdi
+Ålebæk Strandvej 294791 Borre,orre,595.000,20-05-2014,Alm. Salg,2.500,8,Villa,238,1867,0 %,Aktuel værdi
+Klintevej 3904791 Borre,orre,420.000,15-05-2014,Alm. Salg,1.640,10,Villa,256,1915,-7 %,Aktuel værdi
+Klintholm Havnevej 344791 Borre,orre,300.000,08-05-2014,Fam. Salg,757,9,Villa,396,1870,,Aktuel værdi
+Nørrebyvej 184791 Borre,orre,295.000,28-04-2014,Alm. Salg,2.587,2,Villa,114,1885,0 %,Aktuel værdi
+Klintholm Havneby 74791 Borre,orre,840.000,19-04-2014,Alm. Salg,16.153,3,Fritid,52,1986,-6 %,Aktuel værdi
+Lisbjergvej 14791 Borre,orre,359.000,02-04-2014,Auktion,1.459,7,Villa,246,1922,,Aktuel værdi
+Nørrebyvej 234791 Borre,orre,1.250.000,26-03-2014,Alm. Salg,7.911,4,Villa,158,1968,-10 %,Aktuel værdi
+Klintevej 3734791 Borre,orre,300.000,19-03-2014,Alm. Salg,3.896,3,Rækkehus,77,1869,,Aktuel værdi
+Sømarkevej 234791 Borre,orre,205.000,17-02-2014,Alm. Salg,1.404,4,Villa,146,1716,-31 %,Aktuel værdi
+Margrethevej 64791 Borre,orre,350.000,19-01-2014,Alm. Salg,4.216,4,Villa,83,1950,-7 %,Aktuel værdi
+Klintholm Havnevej 334791 Borre,orre,350.000,18-12-2013,Auktion,2.554,3,Villa,137,1870,,Aktuel værdi
+Klintholm Havnevej 52A4791 Borre,orre,875.000,14-11-2013,Alm. Salg,3.528,6,Villa,248,1935,,Aktuel værdi
+Busenevej 194791 Borre,orre,450.000,08-11-2013,Fam. Salg,3.146,5,Villa,143,1951,,Aktuel værdi
+Strædet 104791 Borre,orre,740.981,28-10-2013,Fam. Salg,8.420,4,Villa,88,1929,,Aktuel værdi
+Klintevej 4784791 Borre,orre,212.937,21-10-2013,Andet,1.410,4,Villa,151,1895,,Aktuel værdi
+Dortheavej 24791 Borre,orre,430.000,09-10-2013,Fam. Salg,4.942,4,Villa,87,1974,-25 %,Aktuel værdi
+Toftevænget 14791 Borre,orre,1.300.000,30-09-2013,Alm. Salg,7.222,4,Villa,180,1971,-4 %,Aktuel værdi
+Amandastræde 54791 Borre,orre,500.000,11-09-2013,Alm. Salg,3.787,2,Villa,132,1950,-9 %,Aktuel værdi
+Krogen 64791 Borre,orre,400.000,05-09-2013,Alm. Salg,5.000,3,Villa,80,1900,,Aktuel værdi
+Klintholm Havneby 544791 Borre,orre,1.045.000,29-07-2013,Alm. Salg,20.900,3,Fritid,50,1986,-5 %,Aktuel værdi
+Klintevej 4344791 Borre,orre,258.000,24-07-2013,Auktion,2.186,5,Villa,118,1916,,Aktuel værdi
+Kraneledvej 64791 Borre,orre,2.985.000,19-07-2013,Alm. Salg,19.638,6,Villa,152,1806,0 %,Aktuel værdi
+Bøgebjergvej 274791 Borre,orre,475.000,10-07-2013,Auktion,3.653,4,Villa,130,1939,-72 %,Aktuel værdi
+Søndre Landevej 1104791 Borre,orre,500.000,04-07-2013,Alm. Salg,3.472,6,Villa,144,1906,-23 %,Aktuel værdi
+Klintevej 3354791 Borre,orre,175.000,04-07-2013,Alm. Salg,2.011,3,Villa,87,1962,-30 %,Aktuel værdi
+Krogen 14791 Borre,orre,196.960,01-07-2013,Alm. Salg,1.330,6,Stuehus,148,1924,,
+Katinkavej 194791 Borre,orre,985.000,29-05-2013,Alm. Salg,7.035,5,Villa,140,1967,0 %,Aktuel værdi
+Klintholm Havnevej 694791 Borre,orre,295.000,04-05-2013,Alm. Salg,6.413,2,Villa,46,1941,0 %,Aktuel værdi
+Bøgebjergvej 34791 Borre,orre,145.000,24-04-2013,Auktion,1.394,5,Villa,104,1906,,Aktuel værdi
+Klintholm Havnevej 884791 Borre,orre,360.000,19-04-2013,Alm. Salg,3.214,4,Villa,112,1900,,Aktuel værdi
+Klintholm Havnevej 254791 Borre,orre,710.000,08-03-2013,Alm. Salg,6.893,3,Villa,103,1875,-5 %,Aktuel værdi
+Birkedalsvej 44791 Borre,orre,625.000,26-02-2013,Alm. Salg,4.032,6,Villa,155,1922,-14 %,Aktuel værdi
+Thyravej 54791 Borre,orre,1.075.000,09-01-2013,Alm. Salg,8.811,4,Villa,122,1935,-20 %,Aktuel værdi
+Klintevej 2854791 Borre,orre,650.000,07-12-2012,Auktion,4.391,5,Villa,148,1936,,Aktuel værdi
+Harebankevej 14791 Borre,orre,1.280.000,15-11-2012,Alm. Salg,5.981,7,Stuehus,214,1840,,
+Thyravej 114791 Borre,orre,1.360.000,01-10-2012,Fam. Salg,6.732,6,Villa,202,1875,,Aktuel værdi
+Strædet 24791 Borre,orre,1.995.000,17-09-2012,Alm. Salg,12.870,4,Villa,155,1936,0 %,Aktuel værdi
+Søndre Landevej 914791 Borre,orre,2.450.000,14-09-2012,Fam. Salg,9.800,6,Villa,250,2008,,Aktuel værdi
+Søndre Landevej 854791 Borre,orre,850.000,07-09-2012,Alm. Salg,4.802,6,Villa,177,1915,,Aktuel værdi
+Klintholm Havneby 804791 Borre,orre,563.665,21-08-2012,Alm. Salg,10.839,3,Fritid,52,1986,-29 %,Aktuel værdi
+Klintholm Havneby 614791 Borre,orre,1.085.000,18-06-2012,Alm. Salg,21.700,3,Fritid,50,1986,-16 %,Aktuel værdi
+Katinkavej 184791 Borre,orre,665.000,11-06-2012,Alm. Salg,6.045,3,Villa,110,1974,-16 %,Aktuel værdi
+Toftevænget 64791 Borre,orre,450.000,31-05-2012,Alm. Salg,3.515,4,Villa,128,1976,,Aktuel værdi
+Klintholm Havneby 814791 Borre,orre,850.000,30-04-2012,Alm. Salg,16.346,3,Fritid,52,1986,-6 %,Aktuel værdi
+Amandastræde 84791 Borre,orre,510.000,21-04-2012,Alm. Salg,4.857,4,Villa,105,1952,0 %,Aktuel værdi
+Bøgebjergvej 254791 Borre,orre,2.750.000,12-04-2012,Alm. Salg,8.957,8,Villa,307,1880,-8 %,Aktuel værdi
+Busenevej 644791 Borre,orre,202.845,11-04-2012,Alm. Salg,2.204,5,Stuehus,92,1870,,
+Klintholm Havneby 734791 Borre,orre,925.000,01-04-2012,Alm. Salg,18.500,3,Fritid,50,1986,-23 %,Aktuel værdi
+Klintholm Havneby 144791 Borre,orre,725.000,29-03-2012,Alm. Salg,10.357,3,Fritid,70,1986,-9 %,Aktuel værdi
+Klintholm Havneby 344791 Borre,orre,525.617,29-03-2012,Fam. Salg,7.508,3,Fritid,70,1986,,Aktuel værdi
+Poststræde 24791 Borre,orre,275.000,21-03-2012,Auktion,2.412,4,Villa,114,1902,,Aktuel værdi
+Klintholm Havnevej 17A. 14791 Borre,orre,850.000,29-02-2012,Alm. Salg,8.947,2,Lejlighed,95,1954,,Aktuel værdi
+Klintholm Havneby 424791 Borre,orre,812.500,24-02-2012,Alm. Salg,16.250,3,Fritid,50,1986,-18 %,Aktuel værdi
+Lybækkervej 14791 Borre,orre,971.900,12-01-2012,Auktion,3.887,10,Stuehus,250,1895,,
+Mosesvinget 54791 Borre,orre,250.000,07-01-2012,Alm. Salg,4.098,3,Rækkehus,61,1868,,Aktuel værdi
+Busenevej 464791 Borre,orre,508.000,19-12-2011,Alm. Salg,3.819,4,Villa,133,2014,,Aktuel værdi
+Klintevej 5094791 Borre,orre,550.000,29-10-2011,Alm. Salg,3.197,7,Villa,172,1825,0 %,Aktuel værdi
+Sømarkevej 154791 Borre,orre,90.000,12-10-2011,Auktion,825,5,Villa,109,1948,-88 %,Aktuel værdi
+Rakkerbanken 34791 Borre,orre,500.000,24-08-2011,Auktion,4.761,3,Villa,105,2015,,Aktuel værdi
+Klintevej 3644791 Borre,orre,425.000,06-07-2011,Auktion,1.426,9,Villa,298,1721,,Aktuel værdi
+Klintevej 3394791 Borre,orre,325.000,16-06-2011,Alm. Salg,3.186,3,Villa,102,1950,0 %,Aktuel værdi
+Kraneledvej 174791 Borre,orre,1.150.000,12-05-2011,Fam. Salg,7.770,5,Villa,148,1906,,Aktuel værdi
+Søndre Landevej 954791 Borre,orre,295.000,29-04-2011,Alm. Salg,2.892,3,Villa,102,1875,0 %,Aktuel værdi
+Ålebæk Strandvej 314791 Borre,orre,2.675.000,12-04-2011,Alm. Salg,12.327,6,Villa,217,1890,,Aktuel værdi
+Kraneledvej 74791 Borre,orre,109.000,28-03-2011,Alm. Salg,516,5,Villa,211,1914,,Aktuel værdi
+Thyravej 104791 Borre,orre,850.000,18-03-2011,Alm. Salg,11.805,8,Servicevirksomhed,72,1909,,Aktuel værdi
+Amandastræde 114791 Borre,orre,900.000,14-03-2011,Alm. Salg,9.183,2,Villa,98,1996,-10 %,Aktuel værdi
+Klintholm Havneby 724791 Borre,orre,900.000,25-02-2011,Alm. Salg,18.000,3,Fritid,50,1986,-25 %,Aktuel værdi
+Klintholm Havnevej 684791 Borre,orre,810.000,23-02-2011,Auktion,4.939,5,Villa,164,1930,,Aktuel værdi
+Klintholm Havneby 494791 Borre,orre,1.500.000,21-01-2011,Alm. Salg,30.000,3,Fritid,50,1986,-9 %,Aktuel værdi
+Klintevej 4584791 Borre,orre,875.000,19-11-2010,Alm. Salg,9.943,3,Villa,88,1900,-5 %,Aktuel værdi
+Klintevej 2774791 Borre,orre,1.263.845,10-11-2010,Alm. Salg,6.982,6,Villa,181,1875,,Aktuel værdi
+Søndre Landevej 784791 Borre,orre,1.475.800,07-11-2010,Fam. Salg,5.425,6,Villa,272,1900,-41 %,Aktuel værdi
+Fyrvej 64791 Borre,orre,4.900.000,02-11-2010,Alm. Salg,24.137,6,Villa,203,1969,-2 %,Aktuel værdi
+Klintholm Havneby 254791 Borre,orre,675.000,01-11-2010,Alm. Salg,12.980,3,Fritid,52,1986,-15 %,Aktuel værdi
+Klintevej 3854791 Borre,orre,100.000,01-11-2010,Fam. Salg,1.587,2,Villa,63,1871,,Aktuel værdi
+Sønderbyvej 34791 Borre,orre,469.220,27-10-2010,Fam. Salg,4.739,3,Villa,99,1905,-41 %,Aktuel værdi
+Søndre Landevej 1024791 Borre,orre,4.098.200,26-10-2010,Alm. Salg,29.272,5,Stuehus,140,1961,,
+Klintholm Havneby 454791 Borre,orre,1.300.000,26-10-2010,Alm. Salg,25.000,3,Fritid,52,1986,,Aktuel værdi
+Klintevej 3154791 Borre,orre,405.901,12-10-2010,Alm. Salg,4.510,5,Villa,90,1960,-55 %,Aktuel værdi
+Nørrebyvej 84791 Borre,orre,1.525.000,27-08-2010,Alm. Salg,7.439,5,Villa,205,1978,-3 %,Aktuel værdi
+Klintholm Havneby 104791 Borre,orre,925.000,20-08-2010,Alm. Salg,18.500,3,Fritid,50,1986,-5 %,Aktuel værdi
+Klintholm Havnevej 24791 Borre,orre,300.000,11-08-2010,Auktion,1.734,3,Villa,173,1875,,Aktuel værdi
+Klintholm Havneby 504791 Borre,orre,1.750.000,30-07-2010,Alm. Salg,25.000,3,Fritid,70,1986,-12 %,Aktuel værdi
+Klintholm Havneby 624791 Borre,orre,1.395.000,22-07-2010,Alm. Salg,27.900,3,Fritid,50,1986,-7 %,Aktuel værdi
+Hesselholtvej 44791 Borre,orre,1.470.000,21-07-2010,Auktion,5.653,9,Stuehus,260,1930,-45 %,
+Liselundvej 134791 Borre,orre,450.000,30-06-2010,Alm. Salg,4.545,3,Villa,99,1858,-31 %,Aktuel værdi
+Klintholm Havneby 634791 Borre,orre,1.225.000,28-06-2010,Alm. Salg,18.014,3,Fritid,68,1986,-12 %,Aktuel værdi
+Stubberup Havevej 124791 Borre,orre,1.600.000,16-06-2010,Alm. Salg,11.034,5,Villa,145,1850,,Aktuel værdi
+Thyravej 264791 Borre,orre,940.000,27-05-2010,Alm. Salg,5.562,2,Villa,169,1930,-6 %,Aktuel værdi
+Klintevej 5114791 Borre,orre,1.325.000,25-05-2010,Alm. Salg,10.860,5,Villa,122,1872,,Aktuel værdi
+Klintevej 3404791 Borre,orre,459.873,20-04-2010,Alm. Salg,2.874,5,Villa,160,1966,,Aktuel værdi
+Nørrebyvej 304791 Borre,orre,1.050.000,18-04-2010,Alm. Salg,6.687,5,Villa,157,1907,,Aktuel værdi
+Thyravej 74791 Borre,orre,1.800.000,16-04-2010,Alm. Salg,9.523,4,Villa,189,1912,-28 %,Aktuel værdi
+Sømarkevej 14791 Borre,orre,126.900,17-03-2010,Auktion,1.410,4,Villa,90,1905,,Aktuel værdi
+Nyborrevej 44791 Borre,orre,675.000,06-03-2010,Alm. Salg,5.625,4,Villa,120,1900,-13 %,Aktuel værdi
+Liselundvej 364791 Borre,orre,420.000,24-02-2010,Alm. Salg,4.666,4,Villa,90,1875,-38 %,Aktuel værdi
+Klintholm Havnevej 484791 Borre,orre,1.995.000,17-02-2010,Alm. Salg,15.960,3,Villa,125,1948,,Aktuel værdi
+Nyborrevej 204791 Borre,orre,350.000,20-01-2010,Auktion,2.348,5,Villa,149,1926,,Aktuel værdi
+Sønderbyvej 114791 Borre,orre,200.000,06-01-2010,Auktion,1.111,8,Villa,180,1875,-90 %,Aktuel værdi
+Stavrebjergvej 34791 Borre,orre,3.752.500,04-12-2009,Alm. Salg,16.530,9,Stuehus,227,1921,,
+Kasperstræde 124791 Borre,orre,850.000,01-12-2009,Alm. Salg,6.640,4,Villa,128,1825,-8 %,Aktuel værdi
+Søndre Landevej 894791 Borre,orre,760.000,01-12-2009,Andet,5.390,4,Villa,141,1902,,Aktuel værdi
+Bøgebjergvej 64791 Borre,orre,825.000,17-11-2009,Alm. Salg,5.689,6,Villa,145,1845,-17 %,Aktuel værdi
+Klintholm Havnevej 614791 Borre,orre,725.000,16-11-2009,Alm. Salg,7.250,5,Villa,100,1956,-27 %,Aktuel værdi
+Klintholm Havneby 184791 Borre,orre,1.350.000,19-10-2009,Alm. Salg,19.285,3,Fritid,70,1986,-7 %,Aktuel værdi
+Klintevej 3094791 Borre,orre,325.000,29-09-2009,Alm. Salg,3.066,3,Villa,106,1775,,Aktuel værdi
+Nørrebyvej 114791 Borre,orre,400.000,16-09-2009,Auktion,3.333,4,Villa,120,1910,,Aktuel værdi
+Strædet 74791 Borre,orre,588.100,15-09-2009,Fam. Salg,11.762,4,Villa,50,1875,,Aktuel værdi
+Søndre Landevej 814791 Borre,orre,695.000,07-09-2009,Alm. Salg,6.619,5,Villa,105,1913,0 %,Aktuel værdi
+Nøddelundvej 44791 Borre,orre,505.000,12-08-2009,Auktion,3.556,5,Villa,142,1950,-75 %,Aktuel værdi
+Hvilestedvej 94791 Borre,orre,700.000,24-07-2009,Alm. Salg,7.954,3,Villa,88,1950,-30 %,Aktuel værdi
+Klintholm Havneby 554791 Borre,orre,1.175.000,25-06-2009,Alm. Salg,23.500,3,Fritid,50,1986,-24 %,Aktuel værdi
+Klintevej 3704791 Borre,orre,210.000,03-06-2009,Auktion,3.088,3,Villa,68,1932,,Aktuel værdi
+Margrethevej 104791 Borre,orre,165.000,28-05-2009,Auktion,3.055,2,Villa,54,1940,,Aktuel værdi
+Søndre Landevej 634791 Borre,orre,850.000,27-05-2009,Alm. Salg,5.944,6,Villa,143,1913,,Aktuel værdi
+Dortheavej 14791 Borre,orre,1.150.000,19-05-2009,Alm. Salg,-,8,Villa,234,1973,-3 %,Aktuel værdi
+Moenavej 84791 Borre,orre,330.000,17-05-2009,Fam. Salg,5.500,3,Sommerhus,60,1940,,Aktuel værdi
+Liselundvej 384791 Borre,orre,245.600,25-02-2009,Alm. Salg,1.063,10,Stuehus,231,1914,-90 %,
+Sømarkevej 354791 Borre,orre,300.000,04-12-2008,Alm. Salg,2.830,2,Rækkehus,106,1800,,Aktuel værdi
+Stendyssevej 184791 Borre,orre,1.400.000,21-09-2008,Alm. Salg,-,12,Villa,300,1944,-6 %,Aktuel værdi
+Lisbjergvej 34791 Borre,orre,850.000,16-09-2008,Fam. Salg,6.538,5,Villa,130,1922,,Aktuel værdi
+Liselundvej 114791 Borre,orre,900.000,02-09-2008,Alm. Salg,7.258,6,Villa,124,1850,-20 %,Aktuel værdi
+Nørrebyvej 334791 Borre,orre,2.206.000,27-08-2008,Alm. Salg,9.191,5,Villa,240,1883,,Aktuel værdi
+Ålebæk Strandvej 184791 Borre,orre,1.480.000,18-08-2008,Alm. Salg,8.554,7,Villa,173,1807,-12 %,Aktuel værdi
+Klintholm Havneby 204791 Borre,orre,1.600.000,13-08-2008,Alm. Salg,32.000,3,Fritid,50,1986,-16 %,Aktuel værdi
+Mandehøjvej 44791 Borre,orre,784.820,07-08-2008,Alm. Salg,4.087,4,Stuehus,192,1914,-70 %,
+Klintevej 3254791 Borre,orre,422.000,11-06-2008,Auktion,1.875,8,Villa,225,1912,-50 %,Aktuel værdi
+Klintevej 4854791 Borre,orre,910.000,22-04-2008,Alm. Salg,7.583,5,Villa,120,1914,-9 %,Aktuel værdi
+Lisbjergvej 84791 Borre,orre,1.360.000,09-04-2008,Fam. Salg,11.333,4,Stuehus,120,1941,,
+Nyborrevej 104791 Borre,orre,473.955,07-04-2008,Alm. Salg,2.872,6,Villa,165,1908,,Aktuel værdi
+Søndre Landevej 604791 Borre,orre,3.200.000,10-03-2008,Alm. Salg,34.042,4,Villa,94,1937,,Aktuel værdi
+Klintholm Havneby 444791 Borre,orre,1.360.000,29-02-2008,Alm. Salg,19.428,3,Fritid,70,1986,-15 %,Aktuel værdi
+Degnestræde 54791 Borre,orre,380.000,25-02-2008,Alm. Salg,3.423,4,Villa,111,1914,-16 %,Aktuel værdi
+Stubberup Havevej 44791 Borre,orre,1.214.000,31-01-2008,Fam. Salg,7.587,5,Villa,160,1913,,Aktuel værdi
+Klintevej 3294791 Borre,orre,955.735,21-01-2008,Alm. Salg,9.653,4,Villa,99,1926,,Aktuel værdi
+Søndre Landevej 1064791 Borre,orre,1.237.500,20-01-2008,Alm. Salg,10.399,5,Villa,119,1937,-10 %,Aktuel værdi
+Ålebæk Strandvej 14791 Borre,orre,380.000,16-01-2008,Alm. Salg,3.725,4,Villa,102,1860,-16 %,Aktuel værdi
+Klintevej 3314791 Borre,orre,260.000,14-01-2008,Auktion,2.407,2,Villa,108,1926,,Aktuel værdi
+Vimmelskaftet 44791 Borre,orre,1.200.000,04-01-2008,Alm. Salg,7.792,4,Villa,154,1860,-7 %,Aktuel værdi
+Klintevej 5244791 Borre,orre,795.000,06-12-2007,Alm. Salg,7.293,4,Villa,109,1885,0 %,Aktuel værdi
+Busenevej 624791 Borre,orre,694.000,30-11-2007,Fam. Salg,9.131,5,Sommerhus,76,1977,,Aktuel værdi
+Nørrebyvej 404791 Borre,orre,3.331.844,07-11-2007,Andet,16.576,5,Stuehus,201,1964,,
+Klintholm Havneby 244791 Borre,orre,1.475.000,10-10-2007,Alm. Salg,21.071,3,Fritid,70,1986,-5 %,Aktuel værdi
+Stendyssevej 104791 Borre,orre,1.450.000,04-10-2007,Alm. Salg,7.038,5,Villa,206,1875,-16 %,Aktuel værdi
+Nørrebyvej 454791 Borre,orre,1.500.000,04-10-2007,Alm. Salg,7.812,5,Villa,192,1850,-6 %,Aktuel værdi
+Katinkavej 84791 Borre,orre,1.100.000,30-09-2007,Fam. Salg,12.222,3,Villa,90,1966,,Aktuel værdi
+Sømarkevej 64791 Borre,orre,300.000,31-08-2007,Alm. Salg,2.419,5,Villa,124,1907,,Aktuel værdi
+Råbyovedvej 54791 Borre,orre,714.000,21-08-2007,Fam. Salg,5.950,5,Villa,120,1852,,Aktuel værdi
+Klintevej 4144791 Borre,orre,650.000,20-06-2007,Alm. Salg,8.125,3,Villa,80,1944,,Aktuel værdi
+Amandastræde 134791 Borre,orre,700.000,12-06-2007,Alm. Salg,17.948,2,Villa,39,1932,8 %,Aktuel værdi
+Klintholm Havnevej 384791 Borre,orre,700.000,31-05-2007,Alm. Salg,11.111,3,Villa,63,1966,,Aktuel værdi
+Ålebæk Strandvej 264791 Borre,orre,1.350.000,10-05-2007,Alm. Salg,7.297,6,Stuehus,185,1807,,
+Søndre Landevej 624791 Borre,orre,2.210.550,09-05-2007,Alm. Salg,30.702,3,Stuehus,72,1928,,
+Risbækvej 54791 Borre,orre,1.660.000,09-05-2007,Alm. Salg,5.060,8,Stuehus,328,1906,,
+Toftevænget 54791 Borre,orre,965.000,07-05-2007,Alm. Salg,4.825,4,Villa,200,1980,,Aktuel værdi
+Klintholm Havneby 474791 Borre,orre,1.945.000,02-05-2007,Alm. Salg,28.602,3,Fritid,68,1986,-3 %,Aktuel værdi
+Søndre Landevej 1154791 Borre,orre,1.600.000,22-04-2007,Alm. Salg,7.619,7,Villa,210,1900,0 %,Aktuel værdi
+Thyravej 154791 Borre,orre,390.000,11-04-2007,Alm. Salg,6.842,3,Villa,57,1945,,Aktuel værdi
+Ålebæk Strandvej 234791 Borre,orre,3.173.039,24-02-2007,Alm. Salg,20.604,6,Villa,154,1827,,Aktuel værdi
+Søndre Landevej 364791 Borre,orre,2.325.000,20-02-2007,Alm. Salg,13.210,7,Villa,176,1907,,Aktuel værdi
+Klintevej 3434791 Borre,orre,825.000,20-02-2007,Alm. Salg,5.061,5,Villa,163,1925,-8 %,Aktuel værdi
+Klintevej 5014791 Borre,orre,7.682.500,12-02-2007,Fam. Salg,31.103,6,Stuehus,247,1860,,
+Liselundvej 324791 Borre,orre,3.357.500,12-02-2007,Fam. Salg,24.329,4,Stuehus,138,1825,,
+Søndre Landevej 544791 Borre,orre,1.420.000,03-02-2007,Alm. Salg,14.489,4,Villa,98,1940,,Aktuel værdi
+Klintevej 5084791 Borre,orre,422.283,02-02-2007,Alm. Salg,2.994,5,Villa,141,1920,,Aktuel værdi
+Hesselholtvej 54791 Borre,orre,2.250.000,30-01-2007,Alm. Salg,15.625,3,Villa,144,1875,-6 %,Aktuel værdi
+Søndre Landevej 1014791 Borre,orre,97.196,26-01-2007,Fam. Salg,883,6,Villa,110,1875,,Aktuel værdi
+Liselundvej 424791 Borre,orre,745.000,10-01-2007,Alm. Salg,8.465,4,Villa,88,1939,0 %,Aktuel værdi
+Stendyssevej 134791 Borre,orre,2.700.000,30-12-2006,Alm. Salg,10.074,11,Villa,268,1915,,Aktuel værdi
+Klintevej 4934791 Borre,orre,19.878.000,27-12-2006,Fam. Salg,121.207,6,Stuehus,164,1906,,
+Kobbelgårdsvej 14791 Borre,orre,2.675.000,08-12-2006,Alm. Salg,18.706,6,Stuehus,143,1860,,
+Sønderbyvej 264791 Borre,orre,850.000,24-11-2006,Alm. Salg,7.083,5,Villa,120,1915,,Aktuel værdi
+Nørrebyvej 494791 Borre,orre,805.000,23-11-2006,Alm. Salg,6.708,3,Villa,120,1900,,Aktuel værdi
+Busenevej 564791 Borre,orre,475.000,16-11-2006,Fam. Salg,7.089,3,Villa,67,1969,,Aktuel værdi
+Klintevej 3224791 Borre,orre,527.000,18-10-2006,Fam. Salg,3.962,4,Villa,133,1927,,Aktuel værdi
+Klintholm Havneby 604791 Borre,orre,1.800.000,15-09-2006,Alm. Salg,25.714,3,Fritid,70,1986,,Aktuel værdi
+Degnestræde 64791 Borre,orre,725.000,24-08-2006,Alm. Salg,7.712,4,Villa,94,1875,,Aktuel værdi
+Bøgebjergvej 114791 Borre,orre,1.000.000,22-08-2006,Alm. Salg,9.090,5,Villa,110,1960,,Aktuel værdi
+Lybækkervej 94791 Borre,orre,800.000,21-08-2006,Alm. Salg,9.523,3,Villa,84,1915,,Aktuel værdi
+Sømarkevej 274791 Borre,orre,625.000,12-08-2006,Alm. Salg,6.944,3,Villa,90,1825,,Aktuel værdi
+Busenevej 414791 Borre,orre,1.050.000,01-08-2006,Alm. Salg,13.815,3,Villa,76,1865,,Aktuel værdi
+Liselundvej 274791 Borre,orre,885.000,26-07-2006,Alm. Salg,6.968,3,Villa,127,1875,,Aktuel værdi
+Klintevej 4874791 Borre,orre,750.000,04-07-2006,Alm. Salg,4.166,5,Villa,180,1935,,Aktuel værdi
+Søndre Landevej 41A4791 Borre,orre,500.000,04-07-2006,Alm. Salg,6.410,4,Villa,78,1875,,Aktuel værdi
+Katinkavej 144791 Borre,orre,1.195.000,26-06-2006,Alm. Salg,8.020,7,Villa,149,1971,,Aktuel værdi
+Sømarkevej 44791 Borre,orre,250.000,16-06-2006,Alm. Salg,2.000,4,Villa,125,1907,,Aktuel værdi
+Ålebæk Strandvej 254791 Borre,orre,820.000,15-06-2006,Fam. Salg,4.226,8,Villa,194,1807,,Aktuel værdi
+Klintevej 3774791 Borre,orre,920.000,09-06-2006,Alm. Salg,4.946,7,Villa,186,1941,,Aktuel værdi
+Nyborrevej 84791 Borre,orre,635.000,30-05-2006,Alm. Salg,7.743,5,Villa,82,1921,,Aktuel værdi
+Klintevej 3414791 Borre,orre,725.000,28-04-2006,Alm. Salg,7.880,3,Villa,92,1961,,Aktuel værdi
+Klintholm Havneby 704791 Borre,orre,2.100.000,22-04-2006,Alm. Salg,42.000,3,Fritid,50,1986,,Aktuel værdi
+Klintevej 5204791 Borre,orre,675.000,13-04-2006,Alm. Salg,9.642,3,Villa,70,1935,,Aktuel værdi
+Vimmelskaftet 164791 Borre,orre,665.000,05-04-2006,Alm. Salg,7.916,3,Rækkehus,84,1875,,Aktuel værdi
+Liselundvej 84791 Borre,orre,895.000,04-04-2006,Alm. Salg,11.187,2,Villa,80,1965,,Aktuel værdi
+Nørrebyvej 204791 Borre,orre,1.340.000,28-03-2006,Alm. Salg,8.121,5,Villa,165,1963,,Aktuel værdi
+Amandastræde 104791 Borre,orre,650.000,27-03-2006,Alm. Salg,10.156,3,Villa,64,1943,,Aktuel værdi
+Katinkavej 114791 Borre,orre,1.150.000,14-03-2006,Alm. Salg,9.349,5,Villa,123,1968,,Aktuel værdi
+Klintholm Havneby 264791 Borre,orre,1.075.000,02-03-2006,Alm. Salg,20.673,3,Fritid,52,1986,,Aktuel værdi
+Moenavej 24791 Borre,orre,1.490.000,24-02-2006,Alm. Salg,-,7,Villa,255,1875,,Aktuel værdi
+Mosesvinget 74791 Borre,orre,795.000,19-02-2006,Alm. Salg,5.230,6,Villa,152,1918,,Aktuel værdi
+Nørrebyvej 394791 Borre,orre,652.791,19-02-2006,Alm. Salg,3.885,5,Villa,168,1886,,Aktuel værdi
+Kobbelgårdsvej 24791 Borre,orre,930.000,24-01-2006,Alm. Salg,-,5,Villa,198,1860,,Aktuel værdi
+Søndre Landevej 1144791 Borre,orre,1.370.000,20-01-2006,Alm. Salg,13.700,3,Villa,100,1855,,Aktuel værdi
+Klintevej 2794791 Borre,orre,980.000,13-12-2005,Alm. Salg,6.490,4,Villa,151,1850,,Aktuel værdi
+Kraneledvej 124791 Borre,orre,2.500.000,01-12-2005,Alm. Salg,-,5,Villa,241,1775,,Aktuel værdi
+Klintevej 3194791 Borre,orre,775.000,29-11-2005,Alm. Salg,6.798,3,Villa,114,1900,,Aktuel værdi
+Langebjergvej 24791 Borre,orre,840.000,18-11-2005,Fam. Salg,4.307,5,Stuehus,195,1875,,
+Moenavej 14791 Borre,orre,500.000,18-11-2005,Fam. Salg,2.450,8,Stuehus,204,1922,,
+Busenevej 204791 Borre,orre,2.700.000,15-11-2005,Alm. Salg,27.551,4,Stuehus,98,1875,,
+Klintevej 3554791 Borre,orre,480.000,08-11-2005,Alm. Salg,3.037,7,Villa,158,1925,,Aktuel værdi
+Sømarkevej 244791 Borre,orre,750.000,21-10-2005,Alm. Salg,5.952,4,Villa,126,1920,,Aktuel værdi
+Klintholm Havnevej 744791 Borre,orre,1.160.000,10-10-2005,Alm. Salg,10.086,4,Villa,115,1901,,Aktuel værdi
+Nøddelundvej 134791 Borre,orre,1.349.000,09-10-2005,Alm. Salg,14.988,4,Villa,90,1870,,Aktuel værdi
+Thyravej 284791 Borre,orre,900.000,07-10-2005,Alm. Salg,18.367,2,Villa,49,1943,,Aktuel værdi
+Mosesvinget 214791 Borre,orre,631.967,04-10-2005,Alm. Salg,6.944,4,Villa,91,1886,,Aktuel værdi
+Bøgebjergvej 124791 Borre,orre,1.675.000,19-09-2005,Alm. Salg,19.034,5,Villa,88,1954,,Aktuel værdi
+Klintholm Havnevej 1224791 Borre,orre,1.000.000,14-09-2005,Alm. Salg,6.993,3,Villa,143,1961,,Aktuel værdi
+Ålebæk Strandvej 334791 Borre,orre,2.800.000,14-09-2005,Alm. Salg,11.428,9,Villa,245,2008,,Aktuel værdi
+Katinkavej 14791 Borre,orre,825.000,31-08-2005,Alm. Salg,6.762,4,Villa,122,1965,,Aktuel værdi
+Klintholm Havneby 464791 Borre,orre,1.298.000,23-08-2005,Alm. Salg,24.961,3,Fritid,52,1986,,Aktuel værdi
+Nyborrevej 34791 Borre,orre,900.000,21-07-2005,Alm. Salg,4.017,7,Villa,224,1900,,Aktuel værdi
+Søndre Landevej 394791 Borre,orre,400.000,19-07-2005,Fam. Salg,2.272,6,Villa,176,1895,,Aktuel værdi
+Søndre Landevej 994791 Borre,orre,2.350.000,17-07-2005,Alm. Salg,7.580,7,Villa,310,1875,,Aktuel værdi
+Sømarkevej 434791 Borre,orre,230.000,15-07-2005,Alm. Salg,2.771,4,Villa,83,1925,,Aktuel værdi
+Klintevej 4484791 Borre,orre,654.555,12-07-2005,Alm. Salg,5.547,5,Villa,118,1928,,Aktuel værdi
+Dalsgårdsvej 24791 Borre,orre,1.825.000,07-07-2005,Alm. Salg,7.700,8,Villa,237,1897,,Aktuel værdi
+Søndre Landevej 1134791 Borre,orre,1.075.000,24-06-2005,Alm. Salg,7.570,4,Villa,142,1931,,Aktuel værdi
+Sønderbyvej 24791 Borre,orre,625.000,24-06-2005,Alm. Salg,4.340,7,Villa,144,1887,,Aktuel værdi
+Klintholm Havnevej 94791 Borre,orre,533.000,24-06-2005,Fam. Salg,4.935,5,Villa,108,1943,,Aktuel værdi
+Fyrvej 34791 Borre,orre,600.000,19-06-2005,Alm. Salg,6.521,3,Villa,92,1929,,Aktuel værdi
+Moenavej 74791 Borre,orre,1.500.000,14-06-2005,Alm. Salg,10.135,5,Stuehus,148,1850,,
+Bøgebjergvej 294791 Borre,orre,300.000,12-06-2005,Alm. Salg,4.411,3,Villa,68,1884,,Aktuel værdi
+Toftevænget 94791 Borre,orre,750.000,10-06-2005,Alm. Salg,5.639,3,Villa,133,1985,,Aktuel værdi
+Klintholm Havneby 24791 Borre,orre,1.098.000,05-06-2005,Alm. Salg,15.685,3,Fritid,70,1986,,Aktuel værdi
+Klintholm Havneby 34791 Borre,orre,948.000,05-06-2005,Alm. Salg,18.960,3,Fritid,50,1986,,Aktuel værdi
+Klintholm Havneby 54791 Borre,orre,1.098.000,05-06-2005,Alm. Salg,16.147,3,Fritid,68,1986,,Aktuel værdi
+Klintholm Havneby 84791 Borre,orre,1.098.000,05-06-2005,Alm. Salg,15.685,3,Fritid,70,1986,,Aktuel værdi
+Klintholm Havneby 94791 Borre,orre,948.000,05-06-2005,Alm. Salg,18.960,3,Fritid,50,1986,,Aktuel værdi
+Klintholm Havneby 124791 Borre,orre,848.000,05-06-2005,Alm. Salg,16.960,3,Fritid,50,1986,,Aktuel værdi
+Busenevej 544791 Borre,orre,1.895.000,02-06-2005,Fam. Salg,9.668,7,Villa,196,1925,,Aktuel værdi
+Lisbjergvej 44791 Borre,orre,1.200.000,17-05-2005,Alm. Salg,8.759,5,Villa,137,1952,,Aktuel værdi
+Liselundvej 394791 Borre,orre,1.350.000,13-05-2005,Alm. Salg,6.994,7,Villa,193,1910,,Aktuel værdi
+Liselundvej 314791 Borre,orre,870.000,12-05-2005,Alm. Salg,6.126,4,Villa,142,1950,,Aktuel værdi
+Liselundvej 414791 Borre,orre,925.000,09-05-2005,Alm. Salg,6.702,5,Villa,138,1917,,Aktuel værdi
+Hampelandsvej 34791 Borre,orre,1.531.000,29-04-2005,Alm. Salg,9.450,5,Villa,162,1900,,Aktuel værdi
+Lilleskovvej 44791 Borre,orre,1.000.000,28-04-2005,Alm. Salg,10.526,3,Villa,95,1938,,Aktuel værdi
+Toftevænget 74791 Borre,orre,1.190.000,16-04-2005,Alm. Salg,7.083,5,Villa,168,1977,,Aktuel værdi
+Klintevej 4884791 Borre,orre,535.000,11-04-2005,Alm. Salg,3.543,7,Villa,151,1932,,Aktuel værdi
+Moenavej 64791 Borre,orre,1.350.000,29-03-2005,Alm. Salg,7.297,6,Villa,185,1913,,Aktuel værdi
+Mandehøjvej 84791 Borre,orre,1.650.000,18-03-2005,Alm. Salg,-,5,Villa,241,1860,,Aktuel værdi
+Kraneledvej 194791 Borre,orre,700.000,03-03-2005,Alm. Salg,5.263,5,Villa,133,1896,,Aktuel værdi
+Hampelandsvej 44791 Borre,orre,1.350.000,16-02-2005,Alm. Salg,10.074,5,Villa,134,1963,,Aktuel værdi
+Kraneledvej 354791 Borre,orre,6.700.000,11-02-2005,Fam. Salg,27.459,10,Stuehus,244,1910,,
+Thyravej 124791 Borre,orre,700.000,17-01-2005,Alm. Salg,8.750,3,Villa,80,1961,,Aktuel værdi
+Langebjergvej 44791 Borre,orre,1.500.000,28-12-2004,Alm. Salg,15.000,6,Servicevirksomhed,100,1790,,Aktuel værdi
+Nørrebyvej 474791 Borre,orre,585.000,19-12-2004,Alm. Salg,5.131,3,Villa,114,1825,,Aktuel værdi
+Sønderbyvej 134791 Borre,orre,640.000,09-11-2004,Alm. Salg,7.619,2,Villa,84,1870,,Aktuel værdi
+Fyrvej 44791 Borre,orre,2.540.000,06-11-2004,Alm. Salg,15.875,5,Villa,160,1850,,Aktuel værdi
+Klintevej 5344791 Borre,orre,2.270.000,29-09-2004,Alm. Salg,15.133,5,Stuehus,150,1775,,
+Birkedalsvej 24791 Borre,orre,350.000,16-09-2004,Alm. Salg,4.022,4,Villa,87,1923,,Aktuel værdi
+Busenevej 524791 Borre,orre,1.020.000,16-09-2004,Alm. Salg,8.793,3,Sommerhus,116,1775,,Aktuel værdi
+Klintholm Havnevej 44791 Borre,orre,2.025.000,11-08-2004,Alm. Salg,23.011,12,Servicevirksomhed,88,1900,,Aktuel værdi
+Søndre Landevej 41B4791 Borre,orre,635.000,04-08-2004,Alm. Salg,3.779,8,Villa,168,1865,,Aktuel værdi
+Klintholm Havnevej 984791 Borre,orre,630.000,29-07-2004,Alm. Salg,2.957,5,Villa,213,1865,,Aktuel værdi
+Sømarkevej 194791 Borre,orre,718.946,22-06-2004,Alm. Salg,5.991,5,Villa,120,1949,,Aktuel værdi
+Liselundvej 194791 Borre,orre,525.000,10-06-2004,Fam. Salg,1.923,5,Villa,273,1925,,Aktuel værdi
+Busenevej 724791 Borre,orre,2.150.000,24-04-2004,Alm. Salg,8.600,2,Stuehus,250,2016,,
+Ålebæk Strandvej 164791 Borre,orre,95.000,21-04-2004,Alm. Salg,-,5,Stuehus,115,1953,,
+Margrethevej 124791 Borre,orre,660.000,19-04-2004,Alm. Salg,-,6,Villa,116,1945,,Aktuel værdi
+Harebankevej 24791 Borre,orre,5.461.000,12-03-2004,Fam. Salg,33.298,8,Stuehus,164,1850,,
+Sømarkevej 144791 Borre,orre,750.000,10-03-2004,Alm. Salg,5.597,5,Villa,134,1888,,Aktuel værdi
+Katinkavej 64791 Borre,orre,1.325.000,20-02-2004,Alm. Salg,11.041,4,Villa,120,1977,,Aktuel værdi
+Nørrebyvej 24791 Borre,orre,547.500,05-02-2004,Alm. Salg,3.278,7,Villa,167,1897,,Aktuel værdi
+Søndre Landevej 694791 Borre,orre,1.600.500,16-12-2003,Fam. Salg,-,7,Stuehus,272,1918,,
+Klintevej 3504791 Borre,orre,250.000,16-12-2003,Fam. Salg,2.808,4,Villa,89,1935,,Aktuel værdi
+Ålebæk Strandvej 34791 Borre,orre,635.000,20-11-2003,Alm. Salg,6.902,5,Villa,92,1900,,Aktuel værdi
+Klintholm Havnevej 14791 Borre,orre,336.000,17-11-2003,Auktion,2.417,4,Villa,139,1937,,Aktuel værdi
+Nørrebyvej 214791 Borre,orre,331.500,15-11-2003,Fam. Salg,4.196,3,Villa,79,1953,,Aktuel værdi
+Amandastræde 44791 Borre,orre,1.088.000,08-11-2003,Alm. Salg,8.059,6,Villa,135,1962,,Aktuel værdi
+Klintevej 3064791 Borre,orre,425.000,29-10-2003,Alm. Salg,-,4,Villa,135,1900,,Aktuel værdi
+Mandehøjvej 24791 Borre,orre,750.000,02-10-2003,Alm. Salg,3.472,4,Villa,216,1860,,Aktuel værdi
+Nørrebyvej 444791 Borre,orre,925.000,23-08-2003,Alm. Salg,6.801,5,Villa,136,1800,,Aktuel værdi
+Busenevej 84791 Borre,orre,1.600.000,28-07-2003,Alm. Salg,5.693,7,Villa,281,1900,,Aktuel værdi
+Liselundvej 254791 Borre,orre,875.000,26-07-2003,Alm. Salg,5.756,4,Villa,152,1885,,Aktuel værdi
+Bøgebjergvej 24791 Borre,orre,800.000,15-07-2003,Alm. Salg,4.395,4,Villa,182,1920,,Aktuel værdi
+Kraneledvej 44791 Borre,orre,1.500.000,11-07-2003,Alm. Salg,15.000,5,Villa,100,1875,,Aktuel værdi
+Klintevej 3204791 Borre,orre,395.122,25-05-2003,Alm. Salg,4.703,2,Villa,84,1860,,Aktuel værdi
+Søndre Landevej 1124791 Borre,orre,956.808,23-05-2003,Alm. Salg,6.834,2,Villa,140,1775,,Aktuel værdi
+Klintevej 4004791 Borre,orre,1.000.000,19-05-2003,Alm. Salg,4.716,8,Villa,212,1925,,Aktuel værdi
+Sømarkevej 254791 Borre,orre,490.000,10-05-2003,Fam. Salg,4.298,5,Villa,114,1895,,Aktuel værdi
+Moenavej 44791 Borre,orre,1.201.086,08-05-2003,Alm. Salg,7.460,5,Villa,161,1825,,Aktuel værdi
+Kasperstræde 44791 Borre,orre,140.000,28-04-2003,Alm. Salg,1.772,4,Rækkehus,79,1775,,Aktuel værdi
+Klintholm Havnevej 864791 Borre,orre,795.000,20-04-2003,Alm. Salg,5.096,3,Villa,156,1901,,Aktuel værdi
+Kraneledvej 144791 Borre,orre,3.030.000,15-04-2003,Alm. Salg,-,4,Stuehus,278,1806,,
+Klintevej 3544791 Borre,orre,370.657,15-04-2003,Alm. Salg,5.148,4,Villa,72,1895,,Aktuel værdi
+Busenevej 44791 Borre,orre,389.912,28-02-2003,Alm. Salg,3.170,4,Villa,123,1807,,Aktuel værdi
+Birkedalsvej 54791 Borre,orre,1.126.804,05-02-2003,Alm. Salg,6.058,5,Villa,186,1922,,Aktuel værdi
+Gurkebakken 64791 Borre,orre,1.150.000,03-02-2003,Alm. Salg,10.454,4,Villa,110,1925,,Aktuel værdi
+Klintevej 2694791 Borre,orre,652.556,31-01-2003,Alm. Salg,4.595,4,Villa,142,1900,,Aktuel værdi
+Råbyovedvej 64791 Borre,orre,521.000,21-01-2003,Alm. Salg,-,4,Villa,111,1875,,Aktuel værdi
+Klintevej 3754791 Borre,orre,440.000,21-01-2003,Andet,3.333,5,Villa,132,1880,,Aktuel værdi
+Søndre Landevej 1164791 Borre,orre,450.000,18-01-2003,Alm. Salg,4.166,3,Villa,108,1865,,Aktuel værdi
+Klintevej 3924791 Borre,orre,390.000,07-01-2003,Alm. Salg,2.191,6,Villa,178,1895,,Aktuel værdi
+Søndre Landevej 484791 Borre,orre,865.000,01-12-2002,Alm. Salg,-,5,Villa,167,1932,,Aktuel værdi
+Klintevej 5074791 Borre,orre,570.000,22-11-2002,Fam. Salg,5.277,5,Stuehus,108,1875,,
+Klintevej 3134791 Borre,orre,1.500.000,19-10-2002,Alm. Salg,4.615,10,Villa,325,1928,,Aktuel værdi
+Thyravej 4A4791 Borre,orre,1.500.000,09-10-2002,Alm. Salg,13.392,12,Servicevirksomhed,112,1876,,Aktuel værdi
+Katinkavej 94791 Borre,orre,500.000,04-10-2002,Fam. Salg,4.385,6,Villa,114,1966,,Aktuel værdi
+Bøgebjergvej 154791 Borre,orre,1.000.000,17-09-2002,Alm. Salg,7.194,5,Villa,139,1974,,Aktuel værdi
+Klintevej 3634791 Borre,orre,428.861,10-08-2002,Alm. Salg,5.360,3,Villa,80,1925,,Aktuel værdi
+Klintevej 5184791 Borre,orre,109.062,07-07-2002,Andet,1.473,5,Villa,74,1910,,Aktuel værdi
+Klintevej 3584791 Borre,orre,419.500,25-06-2002,Alm. Salg,5.448,4,Rækkehus,77,1870,,Aktuel værdi
+Søndre Landevej 1284791 Borre,orre,625.000,17-06-2002,Alm. Salg,-,6,Villa,180,1899,,Aktuel værdi
+Klintevej 4114791 Borre,orre,750.000,12-05-2002,Alm. Salg,5.000,4,Villa,150,1920,,Aktuel værdi
+Amandastræde 94791 Borre,orre,640.000,04-05-2002,Alm. Salg,6.881,3,Villa,93,1935,,Aktuel værdi
+Dalsgårdsvej 4A4791 Borre,orre,1.322.560,12-04-2002,Alm. Salg,6.011,6,Villa,220,1880,,Aktuel værdi
+Busenevej 604791 Borre,orre,1.700.000,15-02-2002,Fam. Salg,15.454,4,Villa,110,1960,,Aktuel værdi
+Kasperstræde 74791 Borre,orre,624.932,07-02-2002,Alm. Salg,2.460,10,Villa,254,1892,,Aktuel værdi
+Kraneledvej 394791 Borre,orre,1.875.000,21-11-2001,Alm. Salg,9.191,6,Villa,204,1930,,Aktuel værdi
+Strædet 54791 Borre,orre,550.000,02-11-2001,Alm. Salg,6.875,3,Villa,80,1825,,Aktuel værdi
+Strædet 114791 Borre,orre,382.412,31-10-2001,Fam. Salg,3.983,3,Villa,96,1963,,Aktuel værdi
+Søndre Landevej 974791 Borre,orre,295.000,17-10-2001,Alm. Salg,3.933,3,Villa,75,1721,,Aktuel værdi
+Klintevej 3564791 Borre,orre,255.000,02-10-2001,Alm. Salg,3.984,2,Rækkehus,64,1863,,Aktuel værdi
+Ålebæk Strandvej 64791 Borre,orre,325.000,01-10-2001,Alm. Salg,5.078,3,Villa,64,1898,,Aktuel værdi
+Dortheavej 64791 Borre,orre,1.120.606,22-09-2001,Alm. Salg,7.047,5,Villa,159,1980,,Aktuel værdi
+Klintevej 4564791 Borre,orre,598.999,10-07-2001,Alm. Salg,5.598,4,Villa,107,1894,,Aktuel værdi
+Klintevej 4414791 Borre,orre,985.000,09-07-2001,Alm. Salg,5.267,5,Villa,187,1932,,Aktuel værdi
+Klintevej 4624791 Borre,orre,1.066.667,27-06-2001,Alm. Salg,6.311,4,Villa,169,1969,,Aktuel værdi
+Klintholm Havnevej 904791 Borre,orre,430.000,20-06-2001,Alm. Salg,2.792,5,Villa,154,1875,,Aktuel værdi
+Stubberup Havevej 24791 Borre,orre,778.239,19-06-2001,Alm. Salg,4.632,8,Villa,168,1870,,Aktuel værdi
+Katinkavej 124791 Borre,orre,600.000,12-06-2001,Alm. Salg,5.000,3,Villa,120,1965,,Aktuel værdi
+Vimmelskaftet 24791 Borre,orre,392.766,11-06-2001,Alm. Salg,6.546,4,Villa,60,1865,,Aktuel værdi
+Kraneledvej 274791 Borre,orre,806.503,08-05-2001,Alm. Salg,8.961,4,Villa,90,1934,,Aktuel værdi
+Liselundvej 144791 Borre,orre,750.000,08-05-2001,Alm. Salg,3.289,6,Villa,228,1895,,Aktuel værdi
+Bøgebjergvej 184791 Borre,orre,1.200.000,19-04-2001,Alm. Salg,4.109,9,Villa,292,1880,,Aktuel værdi
+Klintholm Havnevej 574791 Borre,orre,700.000,31-01-2001,Fam. Salg,5.600,5,Villa,125,1964,,Aktuel værdi
+Søndre Landevej 474791 Borre,orre,410.183,11-01-2001,Alm. Salg,2.698,5,Villa,152,1876,,Aktuel værdi
+Klintholm Havnevej 1024791 Borre,orre,550.000,27-12-2000,Andet,2.894,5,Stuehus,190,1900,,
+Søndre Landevej 234791 Borre,orre,572.276,27-12-2000,Alm. Salg,4.690,2,Villa,122,1910,,Aktuel værdi
+Skansevej 24791 Borre,orre,1.100.000,11-12-2000,Fam. Salg,7.236,5,Stuehus,152,1824,,
+Klintevej 4774791 Borre,orre,827.954,14-11-2000,Alm. Salg,6.899,5,Villa,120,1964,,Aktuel værdi
+Klintholm Havnevej 284791 Borre,orre,628.635,10-11-2000,Alm. Salg,3.492,8,Villa,180,1908,,Aktuel værdi
+Klintholm Havnevej 784791 Borre,orre,592.004,02-10-2000,Alm. Salg,4.451,5,Villa,133,1901,,Aktuel værdi
+Søndre Landevej 254791 Borre,orre,1.324.114,15-09-2000,Alm. Salg,7.005,5,Villa,189,1875,,Aktuel værdi
+Dortheavej 154791 Borre,orre,50.328,26-08-2000,Alm. Salg,453,4,Villa,111,2001,,Aktuel værdi
+Råbyovedvej 144791 Borre,orre,1.550.000,15-08-2000,Alm. Salg,8.806,5,Villa,176,1875,,Aktuel værdi
+Klintevej 3344791 Borre,orre,250.000,31-07-2000,Alm. Salg,3.906,3,Villa,64,1942,,Aktuel værdi
+Hampelandsvej 14791 Borre,orre,916.500,26-07-2000,Alm. Salg,-,6,Villa,235,1805,,Aktuel værdi
+Skovstrædet 114791 Borre,orre,750.000,14-07-2000,Alm. Salg,6.410,4,Villa,117,1900,,Aktuel værdi
+Søndre Landevej 984791 Borre,orre,341.262,27-06-2000,Alm. Salg,3.378,5,Villa,101,1875,,Aktuel værdi
+Amandastræde 64791 Borre,orre,625.000,27-06-2000,Alm. Salg,-,3,Villa,88,1960,,Aktuel værdi
+Søndre Landevej 374791 Borre,orre,172.500,24-06-2000,Alm. Salg,1.223,5,Villa,141,1875,,Aktuel værdi
+Østerborgvej 44791 Borre,orre,719.041,31-05-2000,Alm. Salg,-,5,Villa,166,1963,,Aktuel værdi
+Mosesvinget 94791 Borre,orre,265.963,27-05-2000,Alm. Salg,2.374,4,Villa,112,1875,,Aktuel værdi
+Klintholm Havnevej 234791 Borre,orre,925.000,20-02-2000,Alm. Salg,3.952,8,Villa,234,1987,,Aktuel værdi
+Kraneledvej 84791 Borre,orre,1.180.000,20-12-1999,Fam. Salg,7.283,8,Stuehus,162,1912,,
+Klintevej 3054791 Borre,orre,593.480,03-12-1999,Alm. Salg,2.760,8,Villa,215,1924,,Aktuel værdi
+Søndre Landevej 924791 Borre,orre,380.912,28-11-1999,Alm. Salg,4.328,3,Rækkehus,88,1864,,Aktuel værdi
+Klintevej 4394791 Borre,orre,505.462,23-11-1999,Alm. Salg,-,5,Villa,149,1934,,Aktuel værdi
+Dortheavej 294791 Borre,orre,65.280,14-11-1999,Alm. Salg,402,5,Villa,162,2001,,Aktuel værdi
+Busenevej 124791 Borre,orre,1.000.000,14-11-1999,Fam. Salg,6.622,6,Villa,151,1875,,Aktuel værdi
+Råbyovedvej 74791 Borre,orre,230.000,08-11-1999,Fam. Salg,2.110,5,Villa,109,1936,,Aktuel værdi
+Sømarkevej 124791 Borre,orre,400.000,04-11-1999,Alm. Salg,1.851,5,Villa,216,1896,,Aktuel værdi
+Nyborrevej 14791 Borre,orre,395.000,29-10-1999,Alm. Salg,2.365,5,Villa,167,1901,,Aktuel værdi
+Svenskestræde 84791 Borre,orre,245.000,27-10-1999,Alm. Salg,3.602,3,Villa,68,1885,,Aktuel værdi
+Klintevej 2754791 Borre,orre,410.000,18-10-1999,Fam. Salg,-,5,Villa,124,1900,,Aktuel værdi
+Hampelandsvej 64791 Borre,orre,25.000,20-09-1999,Alm. Salg,277,3,Villa,90,1792,,Aktuel værdi
+Råbyovedvej 34791 Borre,orre,641.598,19-08-1999,Alm. Salg,5.346,5,Villa,120,1898,,Aktuel værdi
+Svenskestræde 154791 Borre,orre,375.000,15-08-1999,Alm. Salg,2.358,5,Villa,159,1925,,Aktuel værdi
+Klintevej 4894791 Borre,orre,254.308,09-08-1999,Alm. Salg,2.354,7,Villa,108,1917,,Aktuel værdi
+Sønderbyvej 84791 Borre,orre,332.000,05-08-1999,Alm. Salg,5.107,3,Villa,65,1962,,Aktuel værdi
+Råbyovedvej 124791 Borre,orre,652.691,13-07-1999,Alm. Salg,3.296,8,Stuehus,198,1880,,
+Gurkebakken 124791 Borre,orre,495.031,08-07-1999,Alm. Salg,-,5,Villa,206,1901,,Aktuel værdi
+Busenevej 384791 Borre,orre,370.000,25-06-1999,Auktion,-,5,Villa,191,1887,,Aktuel værdi
+Liselundvej 24791 Borre,orre,550.000,19-06-1999,Alm. Salg,3.055,6,Villa,180,1890,,Aktuel værdi
+Toftevænget 84791 Borre,orre,500.000,16-06-1999,Alm. Salg,4.464,3,Villa,112,1976,,Aktuel værdi
+Lilleskovvej 54791 Borre,orre,550.000,08-06-1999,Alm. Salg,-,7,Villa,244,1874,,Aktuel værdi
+Dortheavej 134791 Borre,orre,48.222,20-05-1999,Alm. Salg,328,5,Villa,147,1999,,Aktuel værdi
+Sønderbyvej 204791 Borre,orre,110.000,07-05-1999,Alm. Salg,495,6,Stuehus,222,1875,,
+Klintholm Havnevej 634791 Borre,orre,663.780,03-05-1999,Alm. Salg,-,6,Villa,182,1954,,Aktuel værdi
+Liselundvej 214791 Borre,orre,610.000,31-03-1999,Alm. Salg,6.100,4,Villa,100,1922,,Aktuel værdi
+Klintholm Havnevej 74791 Borre,orre,320.000,23-03-1999,Alm. Salg,3.555,4,Villa,90,1950,,Aktuel værdi
+Klintevej 4374791 Borre,orre,291.962,18-03-1999,Alm. Salg,4.561,3,Villa,64,1935,,Aktuel værdi
+Søndre Landevej 314791 Borre,orre,326.752,23-12-1998,Alm. Salg,3.267,4,Villa,100,1940,,Aktuel værdi
+Stendyssevej 94791 Borre,orre,849.795,01-12-1998,Alm. Salg,8.171,6,Villa,104,1884,,Aktuel værdi
+Dortheavej 174791 Borre,orre,59.994,21-10-1998,Alm. Salg,-,5,Villa,125,1999,,Aktuel værdi
+Klintevej 3974791 Borre,orre,595.000,14-10-1998,Alm. Salg,6.611,5,Villa,90,1874,,Aktuel værdi
+Søndre Landevej 834791 Borre,orre,308.920,18-09-1998,Alm. Salg,2.413,5,Villa,128,1910,,Aktuel værdi
+Kraneledvej 534791 Borre,orre,733.000,13-09-1998,Alm. Salg,3.983,7,Villa,184,1800,,Aktuel værdi
+Nørrebyvej 284791 Borre,orre,400.000,18-08-1998,Alm. Salg,2.051,5,Villa,195,1875,,Aktuel værdi
+Klintevej 5264791 Borre,orre,1.099.500,06-08-1998,Alm. Salg,7.233,5,Villa,152,1963,,Aktuel værdi
+Klintevej 3304791 Borre,orre,302.000,31-07-1998,Alm. Salg,2.876,5,Villa,105,1914,,Aktuel værdi
+Stubberup Havevej 14791 Borre,orre,727.187,18-07-1998,Alm. Salg,5.194,5,Villa,140,1890,,Aktuel værdi
+Kraneledvej 204791 Borre,orre,1.200.000,26-06-1998,Alm. Salg,3.296,14,Villa,364,1934,,Aktuel værdi
+Krogen 84791 Borre,orre,726.980,12-06-1998,Alm. Salg,3.495,6,Villa,208,1924,,Aktuel værdi
+Østerborgvej 84791 Borre,orre,263.500,11-06-1998,Fam. Salg,1.606,6,Villa,164,1920,,Aktuel værdi
+Svenskestræde 64791 Borre,orre,150.000,31-05-1998,Alm. Salg,2.000,4,Villa,75,1902,,Aktuel værdi
+Stendyssevej 14791 Borre,orre,134.000,02-04-1998,Auktion,2.000,3,Rækkehus,67,1825,,Aktuel værdi
+Klintholm Havnevej 764791 Borre,orre,368.688,31-03-1998,Alm. Salg,3.964,4,Villa,93,1906,,Aktuel værdi
+Nøddelundvej 34791 Borre,orre,324.625,25-03-1998,Alm. Salg,1.575,9,Stuehus,206,1940,,
+Klintevej 4634791 Borre,orre,153.497,23-03-1998,Alm. Salg,1.128,5,Villa,136,1932,,Aktuel værdi
+Søndre Landevej 454791 Borre,orre,50.497,18-03-1998,Alm. Salg,673,4,Villa,75,1875,,Aktuel værdi
+Østerborgvej 14791 Borre,orre,264.286,24-02-1998,Alm. Salg,1.536,6,Villa,172,1875,,Aktuel værdi
+Margrethevej 84791 Borre,orre,410.000,04-02-1998,Alm. Salg,-,4,Villa,124,1955,,Aktuel værdi
+Harebankevej 84791 Borre,orre,1.275.000,13-01-1998,Alm. Salg,7.083,3,Villa,180,1885,,Aktuel værdi
+Båndhøjvej 14791 Borre,orre,1.296.250,30-12-1997,Fam. Salg,4.320,7,Stuehus,300,1896,,
+Mandehøjvej 64791 Borre,orre,400.009,28-10-1997,Alm. Salg,2.797,3,Villa,143,1942,,Aktuel værdi
+Klintevej 5124791 Borre,orre,257.000,20-10-1997,Alm. Salg,2.495,4,Villa,103,1942,,Aktuel værdi
+Klintholm Havnevej 444791 Borre,orre,297.000,15-10-1997,Alm. Salg,2.724,3,Villa,109,1830,,Aktuel værdi
+Søndre Landevej 1054791 Borre,orre,435.400,02-08-1997,Alm. Salg,-,5,Villa,163,1852,,Aktuel værdi
+Busenevej 454791 Borre,orre,745.000,08-07-1997,Alm. Salg,4.209,6,Villa,177,1764,,Aktuel værdi
+Søndre Landevej 274791 Borre,orre,750.064,14-05-1997,Alm. Salg,6.250,4,Villa,120,1895,,Aktuel værdi
+Klintevej 3214791 Borre,orre,574.436,10-05-1997,Fam. Salg,2.486,7,Villa,231,1930,,Aktuel værdi
+Liselundvej 104791 Borre,orre,752.000,05-05-1997,Alm. Salg,3.704,7,Villa,203,1915,,Aktuel værdi
+Sønderbyvej 184791 Borre,orre,492.000,22-04-1997,Alm. Salg,4.392,4,Villa,112,1966,,Aktuel værdi
+Degnestræde 34791 Borre,orre,305.350,16-04-1997,Alm. Salg,3.469,3,Villa,88,1954,,Aktuel værdi
+Sømarkevej 34791 Borre,orre,500.000,10-04-1997,Alm. Salg,4.310,5,Villa,116,1954,,Aktuel værdi
+Liselundvej 264791 Borre,orre,333.850,31-01-1997,Fam. Salg,2.903,4,Villa,115,1913,,Aktuel værdi
+Stubberup Havevej 104791 Borre,orre,1.600.000,16-12-1996,Alm. Salg,5.351,8,Stuehus,299,1934,,
+Hampelandsvej 74791 Borre,orre,600.000,16-12-1996,Fam. Salg,3.797,6,Villa,158,1890,,Aktuel værdi
+Nøddelundvej 14791 Borre,orre,617.501,07-12-1996,Alm. Salg,-,5,Villa,468,1853,,Aktuel værdi
+Klintevej 4604791 Borre,orre,530.625,30-11-1996,Alm. Salg,1.936,10,Villa,274,1895,,Aktuel værdi
+Søndre Landevej 1214791 Borre,orre,665.000,21-11-1996,Alm. Salg,5.195,4,Villa,128,1967,,Aktuel værdi
+Birkedalsvej 34791 Borre,orre,183.279,24-10-1996,Alm. Salg,1.666,2,Villa,110,1922,,Aktuel værdi
+Lisbjergvej 24791 Borre,orre,475.000,12-09-1996,Alm. Salg,3.392,7,Villa,140,1927,,Aktuel værdi
+Klintevej 3104791 Borre,orre,135.000,02-09-1996,Alm. Salg,1.115,5,Villa,121,1912,,Aktuel værdi
+Klintholm Havnevej 604791 Borre,orre,530.000,30-08-1996,Alm. Salg,3.785,4,Villa,140,1974,,Aktuel værdi
+Toftevænget 114791 Borre,orre,675.000,15-07-1996,Alm. Salg,4.963,5,Villa,136,1987,,Aktuel værdi
+Stubberup Havevej 34791 Borre,orre,640.000,28-04-1996,Alm. Salg,5.039,5,Villa,127,1912,,Aktuel værdi
+Klintevej 4954791 Borre,orre,387.000,19-04-1996,Alm. Salg,3.455,5,Villa,112,1750,,Aktuel værdi
+Søndre Landevej 444791 Borre,orre,2.300.000,19-03-1996,Alm. Salg,12.105,8,Stuehus,190,1898,,
+Katinkavej 44791 Borre,orre,465.000,08-02-1996,Alm. Salg,3.604,4,Villa,129,1976,,Aktuel værdi
+Klintevej 4064791 Borre,orre,450.000,24-01-1996,Alm. Salg,4.285,3,Villa,105,1950,,Aktuel værdi
+Søndre Landevej 704791 Borre,orre,569.500,27-12-1995,Fam. Salg,2.920,8,Villa,195,1875,,Aktuel værdi
+Klintevej 5164791 Borre,orre,315.000,23-12-1995,Fam. Salg,1.932,6,Villa,163,1900,,Aktuel værdi
+Klintevej 4724791 Borre,orre,550.000,05-12-1995,Alm. Salg,4.910,4,Stuehus,112,1937,,
+Klintholm Havnevej 714791 Borre,orre,450.000,16-10-1995,Alm. Salg,3.982,4,Villa,113,1944,,Aktuel værdi
+Strædet 94791 Borre,orre,317.383,08-10-1995,Alm. Salg,3.823,3,Rækkehus,83,1875,,Aktuel værdi
+Dortheavej 214791 Borre,orre,813.912,13-09-1995,Alm. Salg,3.405,6,Villa,239,1986,,Aktuel værdi
+Busenevej 154791 Borre,orre,405.000,23-08-1995,Alm. Salg,-,6,Villa,191,1875,,Aktuel værdi
+Amandastræde 34791 Borre,orre,760.000,14-07-1995,Alm. Salg,4.497,6,Villa,169,1959,,Aktuel værdi
+Katinkavej 104791 Borre,orre,421.750,14-07-1995,Alm. Salg,4.584,3,Villa,92,1966,,Aktuel værdi
+Bøgebjergvej 214791 Borre,orre,820.000,28-06-1995,Alm. Salg,3.402,11,Villa,241,1916,,Aktuel værdi
+Krogen 104791 Borre,orre,675.000,23-06-1995,Alm. Salg,4.090,4,Stuehus,165,1868,,
+Klintholm Havnevej 1244791 Borre,orre,10.000,21-06-1995,Alm. Salg,212,2,Villa,47,1935,,Aktuel værdi
+Nørrebyvej 94791 Borre,orre,65.000,21-06-1995,Alm. Salg,1.444,4,Villa,45,1633,,Aktuel værdi
+Kraneledvej 184791 Borre,orre,393.300,31-05-1995,Alm. Salg,4.573,3,Villa,86,1954,,Aktuel værdi
+Nyborrevej 224791 Borre,orre,2.250.000,03-05-1995,Alm. Salg,19.736,5,Villa,114,1917,,Aktuel værdi
+Klintevej 3144791 Borre,orre,450.000,28-02-1995,Alm. Salg,3.061,9,Servicevirksomhed,147,1875,,Aktuel værdi
+Søndre Landevej 434791 Borre,orre,77.427,10-02-1995,Alm. Salg,697,5,Villa,111,1875,,Aktuel værdi
+Klintevej 4244791 Borre,orre,280.000,26-09-1994,Alm. Salg,3.835,3,Villa,73,1960,,Aktuel værdi
+Liselundvej 334791 Borre,orre,259.793,12-09-1994,Alm. Salg,2.854,4,Villa,91,1943,,Aktuel værdi
+Klintevej 3074791 Borre,orre,115.663,26-08-1994,Andet,1.464,4,Villa,79,1800,,Aktuel værdi
+Stendyssevej 84791 Borre,orre,300.000,14-07-1994,Alm. Salg,3.191,3,Villa,94,1946,,Aktuel værdi
+Margrethevej 34791 Borre,orre,666.000,11-06-1994,Alm. Salg,6.403,4,Villa,104,1775,,Aktuel værdi
+Sønderbyvej 244791 Borre,orre,440.000,08-05-1994,Alm. Salg,2.378,7,Villa,185,1890,,Aktuel værdi
+Søndre Landevej 514791 Borre,orre,349.137,02-05-1994,Alm. Salg,1.419,10,Villa,246,1876,,Aktuel værdi
+Margrethevej 44791 Borre,orre,417.000,21-04-1994,Alm. Salg,-,2,Villa,130,1950,,Aktuel værdi
+Mosesvinget 34791 Borre,orre,65.000,15-04-1994,Alm. Salg,1.160,2,Villa,56,1875,,Aktuel værdi
+Margrethevej 184791 Borre,orre,463.000,22-03-1994,Alm. Salg,3.561,5,Villa,130,1945,,Aktuel værdi
+Busenevej 324791 Borre,orre,350.000,12-03-1994,Alm. Salg,2.536,4,Villa,138,1934,,Aktuel værdi
+Klintevej 3624791 Borre,orre,95.000,09-02-1994,Alm. Salg,766,4,Villa,124,1868,,Aktuel værdi
+Klintholm Havnevej 104791 Borre,orre,265.000,06-12-1993,Alm. Salg,2.264,3,Villa,117,1951,,Aktuel værdi
+Klintholm Havnevej 404791 Borre,orre,750.000,26-10-1993,Alm. Salg,5.859,5,Villa,128,1986,,Aktuel værdi
+Sømarkevej 294791 Borre,orre,325.000,20-10-1993,Alm. Salg,2.321,5,Villa,140,1948,,Aktuel værdi
+Klintevej 4824791 Borre,orre,534.000,14-10-1993,Alm. Salg,2.934,6,Villa,182,1943,,Aktuel værdi
+Ålebæk Strandvej 114791 Borre,orre,385.000,07-10-1993,Fam. Salg,2.127,5,Villa,181,1968,,Aktuel værdi
+Mandehøjvej 14791 Borre,orre,349.520,06-10-1993,Alm. Salg,-,6,Villa,217,1917,,Aktuel værdi
+Busenevej 134791 Borre,orre,260.000,16-07-1993,Alm. Salg,-,3,Villa,100,1957,,Aktuel værdi
+Degnestræde 74791 Borre,orre,260.000,16-06-1993,Alm. Salg,1.830,4,Villa,142,1885,,Aktuel værdi
+Sømarkevej 24791 Borre,orre,380.000,08-04-1993,Alm. Salg,3.064,5,Villa,124,1880,,Aktuel værdi
+Sømarkevej 334791 Borre,orre,340.000,01-04-1993,Fam. Salg,2.446,7,Villa,139,1915,,Aktuel værdi
+Skovstrædet 54791 Borre,orre,268.200,23-02-1993,Alm. Salg,1.836,4,Villa,146,1775,,Aktuel værdi
+Rakkerbanken 24791 Borre,orre,525.000,22-02-1993,Alm. Salg,-,6,Villa,181,1929,,Aktuel værdi
+Klintevej 2744791 Borre,orre,395.000,01-11-1992,Alm. Salg,2.862,3,Villa,138,1875,,Aktuel værdi
+Busenevej 54791 Borre,orre,430.000,28-10-1992,Alm. Salg,4.300,3,Villa,100,1875,,Aktuel værdi
+Kasperstræde 104791 Borre,orre,635.000,02-10-1992,Fam. Salg,2.939,7,Villa,216,1875,,Aktuel værdi
+Søndre Landevej 1264791 Borre,orre,290.000,25-08-1992,Alm. Salg,3.295,3,Villa,88,1875,,Aktuel værdi
+Nørrebyvej 164791 Borre,orre,430.000,16-07-1992,Alm. Salg,2.687,4,Villa,160,1890,,Aktuel værdi
+Gurkebakken 74791 Borre,orre,513.000,07-05-1992,Alm. Salg,-,7,Villa,240,1890,,Aktuel værdi
+Strædet 34791 Borre,orre,226.000,02-03-1992,Alm. Salg,2.152,3,Villa,105,1900,,Aktuel værdi
+Svenskestræde 54791 Borre,orre,193.000,29-02-1992,Fam. Salg,919,7,Villa,210,1909,,Aktuel værdi

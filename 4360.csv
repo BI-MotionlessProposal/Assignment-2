@@ -1,0 +1,321 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Stestrupvej 394360 Kirke Eskilstrup,trup,350.000,02-03-2017,Alm. Salg,3.846,3,Villa,91,1890,-11 %,Aktuel værdi
+Stestrup Old 244360 Kirke Eskilstrup,trup,3.150.000,21-02-2017,Alm. Salg,16.755,6,Stuehus,188,1974,,
+Borgergade 284360 Kirke Eskilstrup,trup,1.050.000,15-02-2017,Alm. Salg,7.608,4,Villa,138,1915,-4 %,Aktuel værdi
+Sønderstrupvej 1234360 Kirke Eskilstrup,trup,1.400.000,05-12-2016,Alm. Salg,6.034,6,Stuehus,232,2008,,
+Lindegårdsparken 134360 Kirke Eskilstrup,trup,1.200.000,02-11-2016,Alm. Salg,9.600,4,Villa,125,1976,,Aktuel værdi
+Lindegårdsparken 524360 Kirke Eskilstrup,trup,425.000,25-10-2016,Fam. Salg,2.992,5,Villa,142,1979,,Aktuel værdi
+Agerupvej 44360 Kirke Eskilstrup,trup,1.300.000,04-10-2016,Alm. Salg,15.662,4,Stuehus,83,1925,,
+Stestrup Oldvej 514360 Kirke Eskilstrup,trup,56.700,20-09-2016,Andet,356,7,Stuehus,159,1965,,
+Stestrup Oldvej 334360 Kirke Eskilstrup,trup,2.250.000,19-09-2016,Alm. Salg,21.844,4,Stuehus,103,1925,-10 %,
+Stestrup Oldvej 534360 Kirke Eskilstrup,trup,46.900,19-09-2016,Andet,253,4,Stuehus,185,1991,,
+Stationsvej 214360 Kirke Eskilstrup,trup,1.550.000,16-09-2016,Alm. Salg,9.872,5,Villa,157,1910,-3 %,Aktuel værdi
+Stestrup Oldvej 73A4360 Kirke Eskilstrup,trup,10.800,05-09-2016,Andet,31,7,Stuehus,339,1998,,
+Sønderstrupvej 1154360 Kirke Eskilstrup,trup,1.500.000,25-08-2016,Alm. Salg,8.823,7,Villa,170,1962,-10 %,Aktuel værdi
+Sønderstrupvej 1784360 Kirke Eskilstrup,trup,1.350.000,19-08-2016,Alm. Salg,7.848,9,Villa,172,1958,-10 %,Aktuel værdi
+Eliasmindevej 264360 Kirke Eskilstrup,trup,725.000,24-07-2016,Fam. Salg,7.250,4,Villa,100,2006,,Aktuel værdi
+Stestrupvej 844360 Kirke Eskilstrup,trup,2.250.000,20-07-2016,Alm. Salg,10.368,5,Villa,217,1902,-4 %,Aktuel værdi
+Eliasmindevej 194360 Kirke Eskilstrup,trup,2.195.000,20-07-2016,Alm. Salg,16.884,6,Villa,130,1998,0 %,Aktuel værdi
+Holtevej 284360 Kirke Eskilstrup,trup,3.400.000,17-07-2016,Fam. Salg,18.681,6,Stuehus,182,1960,,
+Vinkelvej 94360 Kirke Eskilstrup,trup,400.000,11-07-2016,Alm. Salg,5.882,5,Industri o.l.,68,1967,,Aktuel værdi
+Borgergade 124360 Kirke Eskilstrup,trup,680.000,08-07-2016,Fam. Salg,6.181,3,Villa,110,1910,,Aktuel værdi
+Agerupvej 414360 Kirke Eskilstrup,trup,2.735.000,23-06-2016,Alm. Salg,9.698,7,Stuehus,282,1923,-1 %,
+Stestrupvej 524360 Kirke Eskilstrup,trup,1.545.000,06-05-2016,Alm. Salg,8.174,8,Stuehus,189,1901,-9 %,
+Platanvej 564360 Kirke Eskilstrup,trup,1.470.000,21-03-2016,Alm. Salg,9.800,6,Villa,150,1967,-2 %,Aktuel værdi
+Lindegårdsparken 164360 Kirke Eskilstrup,trup,800.000,21-12-2015,Alm. Salg,5.228,5,Villa,153,1974,,Aktuel værdi
+Agerupvej 404360 Kirke Eskilstrup,trup,1.700.000,01-12-2015,Alm. Salg,5.396,7,Villa,315,1924,-10 %,Aktuel værdi
+Lindegårdsparken 84360 Kirke Eskilstrup,trup,895.000,31-08-2015,Alm. Salg,6.884,5,Villa,130,1973,-10 %,Aktuel værdi
+Lindegårdsparken 704360 Kirke Eskilstrup,trup,1.285.000,03-06-2015,Alm. Salg,9.049,5,Villa,142,1979,-14 %,Aktuel værdi
+Stestrupvej 734360 Kirke Eskilstrup,trup,1.600.000,22-05-2015,Alm. Salg,11.428,6,Stuehus,140,1910,-15 %,
+Lindegårdsparken 304360 Kirke Eskilstrup,trup,1.725.000,19-05-2015,Alm. Salg,8.414,7,Villa,205,1973,-4 %,Aktuel værdi
+Stestrupvej 64360 Kirke Eskilstrup,trup,650.000,25-04-2015,Alm. Salg,5.158,6,Villa,126,1890,-6 %,Aktuel værdi
+Stestrupvej 1104360 Kirke Eskilstrup,trup,1.220.037,24-02-2015,Alm. Salg,10.000,4,Stuehus,122,1930,,
+Eliasmindevej 474360 Kirke Eskilstrup,trup,488.718,24-02-2015,Fam. Salg,3.647,4,Villa,134,1990,-65 %,Aktuel værdi
+Eliasmindevej 434360 Kirke Eskilstrup,trup,1.300.000,28-01-2015,Alm. Salg,11.016,4,Villa,118,1990,-10 %,Aktuel værdi
+Eliasmindevej 494360 Kirke Eskilstrup,trup,900.000,26-01-2015,Alm. Salg,7.627,4,Villa,118,1990,0 %,Aktuel værdi
+Stestrup Old 174360 Kirke Eskilstrup,trup,2.500.000,22-12-2014,Alm. Salg,16.666,6,Stuehus,150,1870,,
+Stationsvej 34360 Kirke Eskilstrup,trup,503.932,05-12-2014,Alm. Salg,5.792,3,Villa,87,1948,,Aktuel værdi
+Borgergade 15A4360 Kirke Eskilstrup,trup,170.000,01-12-2014,Fam. Salg,1.545,5,Stuehus,110,1901,,
+Lindegårdsparken 224360 Kirke Eskilstrup,trup,1.200.000,25-11-2014,Alm. Salg,8.888,4,Villa,135,1977,-7 %,Aktuel værdi
+Stestrup Old 54360 Kirke Eskilstrup,trup,646.000,20-10-2014,Fam. Salg,2.858,5,Stuehus,226,1800,,
+Sønderstrupvej 1864360 Kirke Eskilstrup,trup,1.700.000,13-10-2014,Alm. Salg,18.888,23,Døgninstitution,90,1934,-15 %,Aktuel værdi
+Eliasmindevej 354360 Kirke Eskilstrup,trup,1.215.000,12-05-2014,Auktion,8.321,6,Villa,146,2006,-29 %,Aktuel værdi
+Platanvej 144360 Kirke Eskilstrup,trup,1.155.000,05-05-2014,Alm. Salg,8.430,4,Villa,137,1969,-9 %,Aktuel værdi
+Lindegårdsparken 104360 Kirke Eskilstrup,trup,1.050.000,09-04-2014,Alm. Salg,9.545,3,Villa,110,1975,-4 %,Aktuel værdi
+Stestrup Old 284360 Kirke Eskilstrup,trup,4.100.000,13-03-2014,Alm. Salg,24.117,5,Stuehus,170,1974,-9 %,
+Stestrupvej 86B4360 Kirke Eskilstrup,trup,1.197.500,28-01-2014,Andet,4.129,13,Villa,290,1978,,Aktuel værdi
+Bårupvej 114360 Kirke Eskilstrup,trup,500.000,19-12-2013,Alm. Salg,6.250,2,Villa,80,1900,-28 %,Aktuel værdi
+Rønnevej 84360 Kirke Eskilstrup,trup,799.000,14-11-2013,Auktion,7.263,5,Villa,110,1967,,Aktuel værdi
+Tysingevej 134360 Kirke Eskilstrup,trup,540.000,10-11-2013,Alm. Salg,5.567,3,Villa,97,1980,-17 %,Aktuel værdi
+Bårupvej 294360 Kirke Eskilstrup,trup,252.056,14-10-2013,Alm. Salg,3.150,2,Villa,80,1929,-32 %,Aktuel værdi
+Borgergade 7B4360 Kirke Eskilstrup,trup,975.000,27-09-2013,Alm. Salg,5.668,6,Villa,172,1903,-11 %,Aktuel værdi
+Eliasmindevej 154360 Kirke Eskilstrup,trup,937.681,09-09-2013,Andet,5.752,6,Villa,163,2000,,Aktuel værdi
+Ålykken 114360 Kirke Eskilstrup,trup,2.943.000,04-09-2013,Alm. Salg,20.296,3,Stuehus,145,1906,,
+Platanvej 194360 Kirke Eskilstrup,trup,927.500,22-06-2013,Alm. Salg,8.668,3,Villa,107,1965,,Aktuel værdi
+Stestrupvej 554360 Kirke Eskilstrup,trup,1.335.000,29-05-2013,Auktion,5.471,12,Industri o.l.,244,1904,-47 %,Aktuel værdi
+Tysingevej 144360 Kirke Eskilstrup,trup,970.000,25-04-2013,Andet,9.417,4,Villa,103,1952,,Aktuel værdi
+Stestrupvej 924360 Kirke Eskilstrup,trup,180.000,15-04-2013,Auktion,1.730,4,Villa,104,1850,,Aktuel værdi
+Borgergade 94360 Kirke Eskilstrup,trup,1.290.000,19-03-2013,Alm. Salg,7.456,6,Villa,173,1918,-3 %,Aktuel værdi
+Solvangsvej 474360 Kirke Eskilstrup,trup,925.000,14-03-2013,Fam. Salg,5.640,6,Stuehus,164,1909,,
+Hvalsøvej 2144360 Kirke Eskilstrup,trup,1.150.000,11-03-2013,Alm. Salg,8.098,4,Villa,142,1949,-18 %,Aktuel værdi
+Have Borupvej 1854360 Kirke Eskilstrup,trup,2.900.000,07-03-2013,Alm. Salg,13.302,8,Stuehus,218,1915,-3 %,
+Kirkevænget 514360 Kirke Eskilstrup,trup,1.385.000,11-02-2013,Alm. Salg,12.366,4,Villa,112,1985,0 %,Aktuel værdi
+Sønderstrupvej 1774360 Kirke Eskilstrup,trup,580.000,22-11-2012,Alm. Salg,10.357,2,Villa,56,1934,,Aktuel værdi
+Stestrup Oldvej 314360 Kirke Eskilstrup,trup,2.195.000,15-10-2012,Alm. Salg,11.142,4,Villa,197,1925,0 %,Aktuel værdi
+Solvangsvej 564360 Kirke Eskilstrup,trup,2.600.000,12-10-2012,Alm. Salg,19.696,6,Stuehus,132,1908,,
+Lindegårdsparken 214360 Kirke Eskilstrup,trup,1.350.000,27-09-2012,Alm. Salg,10.887,4,Villa,124,1981,-3 %,Aktuel værdi
+Stestrupvej 854360 Kirke Eskilstrup,trup,1.995.000,10-08-2012,Alm. Salg,9.731,8,Stuehus,205,1864,0 %,
+Eliasmindevej 394360 Kirke Eskilstrup,trup,2.183.333,08-06-2012,Fam. Salg,14.270,6,Villa,153,2007,,Aktuel værdi
+Lindegårdsparken 174360 Kirke Eskilstrup,trup,1.160.000,22-05-2012,Alm. Salg,9.354,4,Villa,124,1981,-17 %,Aktuel værdi
+Brinken 74360 Kirke Eskilstrup,trup,750.000,28-03-2012,Alm. Salg,5.769,4,Villa,130,1974,,Aktuel værdi
+Stestrup Bjærg 134360 Kirke Eskilstrup,trup,1.325.000,13-10-2011,Alm. Salg,15.056,3,Stuehus,88,1878,-28 %,
+Have Borupvej 2074360 Kirke Eskilstrup,trup,3.480.000,25-05-2011,Alm. Salg,15.130,6,Stuehus,230,1875,-5 %,
+Stestrupvej 1424360 Kirke Eskilstrup,trup,2.400.000,29-09-2010,Alm. Salg,13.483,4,Villa,178,1907,-8 %,Aktuel værdi
+Vinkelvej 54360 Kirke Eskilstrup,trup,820.000,13-09-2010,Alm. Salg,7.663,4,Villa,107,1956,0 %,Aktuel værdi
+Eliasmindevej 454360 Kirke Eskilstrup,trup,1.695.000,09-08-2010,Alm. Salg,14.364,4,Villa,118,1990,0 %,Aktuel værdi
+Stestrupvej 364360 Kirke Eskilstrup,trup,1.195.000,05-08-2010,Alm. Salg,10.765,4,Villa,111,1947,0 %,Aktuel værdi
+Sønderstrupvej 1724360 Kirke Eskilstrup,trup,925.000,10-07-2010,Alm. Salg,16.517,2,Villa,56,1951,-7 %,Aktuel værdi
+Hasselvej 14360 Kirke Eskilstrup,trup,1.500.000,08-07-2010,Alm. Salg,11.538,4,Villa,130,1972,,Aktuel værdi
+Eliasmindevej 244360 Kirke Eskilstrup,trup,1.925.000,25-06-2010,Alm. Salg,15.650,4,Villa,123,2002,-4 %,Aktuel værdi
+Vinkelvej 84360 Kirke Eskilstrup,trup,1.210.000,24-06-2010,Alm. Salg,11.523,3,Villa,105,1956,-3 %,Aktuel værdi
+Egeskov 504360 Kirke Eskilstrup,trup,1.625.000,23-04-2010,Alm. Salg,9.969,5,Villa,163,1929,-8 %,Aktuel værdi
+Hasselvej 34360 Kirke Eskilstrup,trup,1.200.000,06-03-2010,Alm. Salg,7.692,5,Villa,156,1969,-14 %,Aktuel værdi
+Sønderstrupvej 1704360 Kirke Eskilstrup,trup,750.000,04-03-2010,Alm. Salg,7.142,3,Villa,105,1948,-6 %,Aktuel værdi
+Platanvej 204360 Kirke Eskilstrup,trup,1.020.000,25-02-2010,Auktion,8.717,2,Villa,117,1967,3 %,Aktuel værdi
+Toftevænget 54360 Kirke Eskilstrup,trup,1.225.000,18-01-2010,Fam. Salg,9.722,4,Villa,126,1978,,Aktuel værdi
+Platanvej 64360 Kirke Eskilstrup,trup,135.000,15-12-2009,Alm. Salg,1.000,5,Villa,135,1909,,Aktuel værdi
+Have Borupvej 1874360 Kirke Eskilstrup,trup,1.839.590,26-10-2009,Alm. Salg,12.023,4,Stuehus,153,1914,2 %,
+Syrenvej 34360 Kirke Eskilstrup,trup,660.000,08-10-2009,Auktion,6.000,3,Villa,110,1965,,Aktuel værdi
+Stestrupvej 1024360 Kirke Eskilstrup,trup,4.275.000,08-06-2009,Alm. Salg,21.059,6,Stuehus,203,1938,-5 %,
+Stestrupvej 1114360 Kirke Eskilstrup,trup,3.550.000,03-06-2009,Alm. Salg,18.020,7,Stuehus,197,1900,-11 %,
+Eliasmindevej 374360 Kirke Eskilstrup,trup,2.035.000,24-05-2009,Alm. Salg,13.476,6,Villa,151,2006,-7 %,Aktuel værdi
+Eliasmindevej 314360 Kirke Eskilstrup,trup,2.075.000,05-05-2009,Alm. Salg,15.257,6,Villa,136,2004,-9 %,Aktuel værdi
+Stestrupvej 404360 Kirke Eskilstrup,trup,5.927.500,22-01-2009,Fam. Salg,23.901,5,Stuehus,248,1934,,
+Agerupvej 324360 Kirke Eskilstrup,trup,1.809.297,18-11-2008,Andet,6.531,9,Stuehus,277,1925,,
+Solvangsvej 114360 Kirke Eskilstrup,trup,2.000.000,11-11-2008,Alm. Salg,14.388,6,Stuehus,139,1943,-28 %,
+Svalmstrupvej 544360 Kirke Eskilstrup,trup,1.075.000,25-10-2008,Andet,4.166,7,Villa,258,1900,-62 %,Aktuel værdi
+Sønderstrupvej 1324360 Kirke Eskilstrup,trup,1.400.000,15-08-2008,Alm. Salg,11.570,4,Villa,121,1964,-24 %,Aktuel værdi
+Sønderstrupvej 1744360 Kirke Eskilstrup,trup,1.710.000,10-06-2008,Alm. Salg,14.869,4,Villa,115,1945,,Aktuel værdi
+Vinkelvej 74360 Kirke Eskilstrup,trup,1.275.000,14-04-2008,Alm. Salg,9.107,6,Villa,140,1962,-11 %,Aktuel værdi
+Stationsvej 4A4360 Kirke Eskilstrup,trup,438.766,08-03-2008,Fam. Salg,4.523,8,Villa,97,1900,-78 %,Aktuel værdi
+Borgergade 224360 Kirke Eskilstrup,trup,1.480.000,06-02-2008,Alm. Salg,15.257,3,Villa,97,1939,-1 %,Aktuel værdi
+Brinken 64360 Kirke Eskilstrup,trup,2.550.000,19-01-2008,Alm. Salg,16.037,6,Villa,159,1977,-4 %,Aktuel værdi
+Sønderstrupvej 1764360 Kirke Eskilstrup,trup,1.650.000,26-11-2007,Alm. Salg,19.186,3,Villa,86,1956,-7 %,Aktuel værdi
+Brinken 104360 Kirke Eskilstrup,trup,1.795.000,16-10-2007,Alm. Salg,15.474,3,Villa,116,1975,0 %,Aktuel værdi
+Bukkerupvej 1714360 Kirke Eskilstrup,trup,1.450.000,08-10-2007,Alm. Salg,4.785,6,Villa,303,2012,,Aktuel værdi
+Toftevænget 34360 Kirke Eskilstrup,trup,1.300.000,17-09-2007,Alm. Salg,11.304,4,Villa,115,1975,,Aktuel værdi
+Lindegårdsparken 364360 Kirke Eskilstrup,trup,2.350.000,14-09-2007,Alm. Salg,17.407,5,Villa,135,1972,-2 %,Aktuel værdi
+Borgergade 264360 Kirke Eskilstrup,trup,640.950,15-08-2007,Alm. Salg,4.451,7,Villa,144,1901,,Aktuel værdi
+Svalmstrupvej 494360 Kirke Eskilstrup,trup,510.000,10-08-2007,Alm. Salg,3.493,5,Stuehus,146,1928,,
+Borgergade 304360 Kirke Eskilstrup,trup,1.785.000,13-07-2007,Alm. Salg,16.081,4,Villa,111,1995,-1 %,Aktuel værdi
+Stestrupvej 974360 Kirke Eskilstrup,trup,2.420.000,14-06-2007,Alm. Salg,13.988,5,Villa,173,1927,-3 %,Aktuel værdi
+Borgergade 454360 Kirke Eskilstrup,trup,1.750.000,31-05-2007,Alm. Salg,11.146,5,Villa,157,1927,,Aktuel værdi
+Stationsvej 54360 Kirke Eskilstrup,trup,1.375.000,14-05-2007,Alm. Salg,9.290,7,Villa,148,1908,0 %,Aktuel værdi
+Solvangsvej 284360 Kirke Eskilstrup,trup,3.835.000,14-05-2007,Alm. Salg,44.080,3,Stuehus,87,1917,-4 %,
+Holtevej 264360 Kirke Eskilstrup,trup,1.500.000,11-05-2007,Alm. Salg,15.306,4,Villa,98,1950,,Aktuel værdi
+Holtevej 244360 Kirke Eskilstrup,trup,12.700.000,07-05-2007,Alm. Salg,52.479,8,Stuehus,242,1900,-11 %,
+Stestrupvej 84360 Kirke Eskilstrup,trup,2.100.000,21-12-2006,Alm. Salg,16.800,5,Villa,125,1955,,Aktuel værdi
+Stestrupvej 24360 Kirke Eskilstrup,trup,495.244,12-11-2006,Alm. Salg,-,6,Villa,131,1919,,Aktuel værdi
+Have Borupvej 1794360 Kirke Eskilstrup,trup,2.295.000,23-10-2006,Alm. Salg,11.033,5,Villa,208,1945,,Aktuel værdi
+Stestrupvej 954360 Kirke Eskilstrup,trup,1.604.840,23-09-2006,Andet,10.698,6,Stuehus,150,1863,,
+Stationsvej 74360 Kirke Eskilstrup,trup,2.575.000,22-09-2006,Alm. Salg,10.300,8,Villa,250,1900,,Aktuel værdi
+Hvalsøvej 1334360 Kirke Eskilstrup,trup,3.550.000,22-09-2006,Alm. Salg,18.020,6,Stuehus,197,1937,,
+Stestrup Oldvej 384360 Kirke Eskilstrup,trup,2.195.000,11-09-2006,Alm. Salg,12.836,5,Villa,171,1877,,Aktuel værdi
+Have Borupvej 1664360 Kirke Eskilstrup,trup,2.800.000,24-08-2006,Alm. Salg,19.858,5,Villa,141,1827,,Aktuel værdi
+Tysingevej 124360 Kirke Eskilstrup,trup,1.850.000,12-08-2006,Alm. Salg,13.405,5,Villa,138,1953,,Aktuel værdi
+Have Borupvej 1814360 Kirke Eskilstrup,trup,1.850.000,18-07-2006,Alm. Salg,15.416,3,Villa,120,1888,,Aktuel værdi
+Sønderstrupvej 1574360 Kirke Eskilstrup,trup,3.100.000,28-06-2006,Alm. Salg,13.839,5,Stuehus,224,1880,,
+Svalmstrupvej 534360 Kirke Eskilstrup,trup,3.995.000,15-06-2006,Alm. Salg,16.856,7,Stuehus,237,1870,,
+Tysingevej 94360 Kirke Eskilstrup,trup,1.425.000,05-06-2006,Alm. Salg,13.194,3,Villa,108,1946,,Aktuel værdi
+Bukkerupvej 1824360 Kirke Eskilstrup,trup,3.300.000,06-05-2006,Alm. Salg,22.758,6,Stuehus,145,1908,,
+Svalmstrupvej 584360 Kirke Eskilstrup,trup,3.150.000,20-04-2006,Alm. Salg,-,9,Stuehus,251,1935,,
+Sønderstrupvej 1754360 Kirke Eskilstrup,trup,1.600.000,21-03-2006,Fam. Salg,12.307,5,Villa,130,1943,,Aktuel værdi
+Eliasmindevej 204360 Kirke Eskilstrup,trup,2.295.000,20-03-2006,Alm. Salg,19.285,4,Villa,119,2000,,Aktuel værdi
+Stestrupvej 1694360 Kirke Eskilstrup,trup,2.600.000,18-03-2006,Alm. Salg,20.000,5,Villa,130,1948,,Aktuel værdi
+Platanvej 524360 Kirke Eskilstrup,trup,1.425.000,14-03-2006,Alm. Salg,12.954,4,Villa,110,1968,,Aktuel værdi
+Bukkerupvej 1664360 Kirke Eskilstrup,trup,3.200.000,12-03-2006,Alm. Salg,13.913,7,Villa,230,1902,,Aktuel værdi
+Vinkelvej 64360 Kirke Eskilstrup,trup,1.595.000,09-03-2006,Alm. Salg,14.906,3,Villa,107,1955,,Aktuel værdi
+Lindegårdsparken 74360 Kirke Eskilstrup,trup,1.600.000,09-02-2006,Fam. Salg,11.267,5,Villa,142,1980,,Aktuel værdi
+Platanvej 254360 Kirke Eskilstrup,trup,1.795.000,31-01-2006,Alm. Salg,13.007,4,Villa,138,1970,,Aktuel værdi
+Egeskov 354360 Kirke Eskilstrup,trup,3.195.000,31-01-2006,Alm. Salg,35.500,3,Stuehus,90,1927,,
+Stationsvej 134360 Kirke Eskilstrup,trup,250.000,17-01-2006,Alm. Salg,1.923,5,Villa,130,1914,,Aktuel værdi
+Bårupvej 164360 Kirke Eskilstrup,trup,140.000,02-01-2006,Alm. Salg,338,11,Stuehus,414,1873,,
+Stestrup Oldvej 344360 Kirke Eskilstrup,trup,361.117,06-11-2005,Andet,2.473,4,Villa,146,2005,,Aktuel værdi
+Egeskov 424360 Kirke Eskilstrup,trup,3.395.000,31-10-2005,Alm. Salg,16.975,7,Stuehus,200,1927,,
+Lindegårdsparken 624360 Kirke Eskilstrup,trup,1.835.000,26-10-2005,Alm. Salg,12.568,4,Villa,146,1979,,Aktuel værdi
+Svalmstrupvej 654360 Kirke Eskilstrup,trup,3.800.000,12-09-2005,Alm. Salg,14.285,9,Stuehus,266,1905,,
+Hvalsøvej 2694360 Kirke Eskilstrup,trup,3.075.000,09-09-2005,Alm. Salg,19.218,3,Stuehus,160,1900,,
+Platanvej 544360 Kirke Eskilstrup,trup,1.025.000,08-09-2005,Alm. Salg,6.833,7,Villa,150,1967,,Aktuel værdi
+Stestrup Bjærg 164360 Kirke Eskilstrup,trup,5.000.000,31-08-2005,Alm. Salg,16.891,5,Stuehus,296,1908,,
+Borgergade 84360 Kirke Eskilstrup,trup,900.000,09-08-2005,Alm. Salg,12.500,5,Villa,72,1933,,Aktuel værdi
+Lindegårdsparken 584360 Kirke Eskilstrup,trup,1.450.000,11-07-2005,Alm. Salg,10.211,5,Villa,142,1979,,Aktuel værdi
+Bårupvej 124360 Kirke Eskilstrup,trup,1.125.000,09-07-2005,Alm. Salg,12.931,3,Villa,87,1900,,Aktuel værdi
+Eliasmindevej 294360 Kirke Eskilstrup,trup,240.600,09-06-2005,Alm. Salg,1.593,5,Villa,151,2006,,Aktuel værdi
+Egeskov 314360 Kirke Eskilstrup,trup,1.500.000,26-05-2005,Alm. Salg,7.142,5,Stuehus,210,2005,,
+Lindegårdsparken 44360 Kirke Eskilstrup,trup,1.310.000,18-04-2005,Alm. Salg,-,5,Villa,142,1980,,Aktuel værdi
+Tysingevej 154360 Kirke Eskilstrup,trup,945.000,03-04-2005,Alm. Salg,10.617,3,Villa,89,1877,,Aktuel værdi
+Sønderstrupvej 1254360 Kirke Eskilstrup,trup,1.150.000,18-03-2005,Andet,4.831,7,Villa,238,1946,,Aktuel værdi
+Borgergade 364360 Kirke Eskilstrup,trup,1.240.000,11-03-2005,Alm. Salg,9.920,3,Villa,125,1880,,Aktuel værdi
+Egeskov 614360 Kirke Eskilstrup,trup,1.740.000,03-02-2005,Fam. Salg,15.818,4,Stuehus,110,1929,,
+Eliasmindevej 414360 Kirke Eskilstrup,trup,1.475.000,28-01-2005,Alm. Salg,12.500,4,Villa,118,1997,,Aktuel værdi
+Sønderstrupvej 1114360 Kirke Eskilstrup,trup,4.660.000,26-01-2005,Alm. Salg,25.888,6,Stuehus,180,1935,,
+Eliasmindevej 274360 Kirke Eskilstrup,trup,184.600,21-01-2005,Alm. Salg,1.273,6,Villa,145,2005,,Aktuel værdi
+Kirkevænget 57A4360 Kirke Eskilstrup,trup,1.400.000,19-01-2005,Alm. Salg,12.612,4,Villa,111,1987,,Aktuel værdi
+Solvangsvej 494360 Kirke Eskilstrup,trup,1.265.000,27-12-2004,Alm. Salg,8.784,6,Villa,144,1929,,Aktuel værdi
+Stestrup Oldvej 774360 Kirke Eskilstrup,trup,1.575.000,29-11-2004,Alm. Salg,10.862,5,Stuehus,145,1900,,
+Borgergade 15B4360 Kirke Eskilstrup,trup,1.375.000,05-11-2004,Fam. Salg,11.000,4,Villa,125,1980,,Aktuel værdi
+Lindegårdsparken 344360 Kirke Eskilstrup,trup,700.000,18-10-2004,Andet,5.147,5,Villa,136,1973,,Aktuel værdi
+Solvangsvej 314360 Kirke Eskilstrup,trup,2.295.000,17-10-2004,Alm. Salg,12.015,6,Stuehus,191,1910,,
+Hvalsøvej 2984360 Kirke Eskilstrup,trup,3.200.000,27-08-2004,Fam. Salg,12.598,10,Stuehus,254,1600,,
+Stestrup Oldvej 714360 Kirke Eskilstrup,trup,870.000,02-08-2004,Alm. Salg,8.969,3,Villa,97,1945,,Aktuel værdi
+Grønnebjærgvej 734360 Kirke Eskilstrup,trup,7.500.000,29-07-2004,Fam. Salg,24.671,8,Stuehus,304,1850,,
+Stestrupvej 1344360 Kirke Eskilstrup,trup,400.000,18-06-2004,Alm. Salg,-,6,Stuehus,169,1907,,
+Lindegårdsparken 424360 Kirke Eskilstrup,trup,1.235.000,27-05-2004,Alm. Salg,10.206,4,Villa,121,1972,,Aktuel værdi
+Borgergade 24360 Kirke Eskilstrup,trup,910.000,19-05-2004,Alm. Salg,4.136,6,Villa,220,1902,,Aktuel værdi
+Sønderstrupvej 1524360 Kirke Eskilstrup,trup,430.000,04-05-2004,Fam. Salg,3.233,4,Villa,133,1900,,Aktuel værdi
+Hvalsøvej 1654360 Kirke Eskilstrup,trup,565.176,18-04-2004,Andet,3.669,6,Villa,154,1949,,Aktuel værdi
+Hvalsøvej 1954360 Kirke Eskilstrup,trup,2.650.000,10-03-2004,Alm. Salg,9.330,6,Stuehus,284,1902,,
+Stestrup Oldvej 304360 Kirke Eskilstrup,trup,435.000,09-02-2004,Alm. Salg,1.968,7,Villa,221,2006,,Aktuel værdi
+Platanvej 164360 Kirke Eskilstrup,trup,412.500,18-01-2004,Alm. Salg,3.855,3,Villa,107,1967,,Aktuel værdi
+Tysingevej 34360 Kirke Eskilstrup,trup,1.250.000,13-01-2004,Alm. Salg,-,5,Villa,175,1905,,Aktuel værdi
+Kirkevænget 53B4360 Kirke Eskilstrup,trup,560.000,31-12-2003,Alm. Salg,5.045,4,Rækkehus,111,1986,,Aktuel værdi
+Eliasmindevej 334360 Kirke Eskilstrup,trup,190.200,09-12-2003,Alm. Salg,1.398,5,Villa,136,2007,,Aktuel værdi
+Have Borupvej 1684360 Kirke Eskilstrup,trup,2.400.000,03-12-2003,Auktion,26.666,3,Villa,90,1865,,Aktuel værdi
+Borgergade 274360 Kirke Eskilstrup,trup,860.000,30-11-2003,Alm. Salg,12.112,2,Villa,71,1968,,Aktuel værdi
+Grønnebjærgvej 474360 Kirke Eskilstrup,trup,2.635.000,25-10-2003,Fam. Salg,22.521,4,Stuehus,117,1962,,
+Borgergade 14360 Kirke Eskilstrup,trup,1.325.000,22-10-2003,Alm. Salg,9.464,4,Villa,140,1927,,Aktuel værdi
+Tysingevej 54360 Kirke Eskilstrup,trup,1.695.000,17-10-2003,Alm. Salg,10.593,7,Villa,160,1920,,Aktuel værdi
+Eliasmindevej 254360 Kirke Eskilstrup,trup,186.600,17-09-2003,Alm. Salg,1.403,4,Villa,133,2005,,Aktuel værdi
+Borgergade 44360 Kirke Eskilstrup,trup,1.050.000,03-09-2003,Alm. Salg,8.076,8,Detailhandel,130,1928,,Aktuel værdi
+Kirkevænget 374360 Kirke Eskilstrup,trup,1.230.000,31-08-2003,Alm. Salg,10.982,4,Villa,112,1985,,Aktuel værdi
+Stestrupvej 964360 Kirke Eskilstrup,trup,1.041.805,25-08-2003,Alm. Salg,7.774,5,Villa,134,1890,,Aktuel værdi
+Stestrupvej 1444360 Kirke Eskilstrup,trup,750.000,14-07-2003,Fam. Salg,4.807,4,Stuehus,156,1890,,
+Bårupvej 84360 Kirke Eskilstrup,trup,2.513.139,04-07-2003,Alm. Salg,16.109,5,Stuehus,156,1877,,
+Stestrupvej 1604360 Kirke Eskilstrup,trup,950.000,30-06-2003,Alm. Salg,16.666,3,Sommerhus,57,1949,,Aktuel værdi
+Eliasmindevej 224360 Kirke Eskilstrup,trup,210.000,25-06-2003,Alm. Salg,1.735,5,Villa,121,2004,,Aktuel værdi
+Stestrup Oldvej 164360 Kirke Eskilstrup,trup,766.889,19-05-2003,Alm. Salg,-,8,Stuehus,223,1910,,
+Syrenvej 54360 Kirke Eskilstrup,trup,1.110.000,09-05-2003,Alm. Salg,9.652,4,Villa,115,1965,,Aktuel værdi
+Brinken 154360 Kirke Eskilstrup,trup,1.100.000,23-04-2003,Alm. Salg,10.091,3,Villa,109,1983,,Aktuel værdi
+Egeskov 324360 Kirke Eskilstrup,trup,1.810.000,06-04-2003,Alm. Salg,16.454,4,Villa,110,1927,,Aktuel værdi
+Holtevej 164360 Kirke Eskilstrup,trup,1.900.000,19-03-2003,Alm. Salg,15.200,4,Stuehus,125,1984,,
+Tysingevej 204360 Kirke Eskilstrup,trup,375.000,24-11-2002,Alm. Salg,3.348,3,Villa,112,2006,,Aktuel værdi
+Stestrupvej 1564360 Kirke Eskilstrup,trup,1.845.000,01-10-2002,Alm. Salg,6.212,8,Villa,297,1877,,Aktuel værdi
+Lindegårdsparken 184360 Kirke Eskilstrup,trup,1.265.000,26-09-2002,Alm. Salg,8.784,4,Villa,144,1975,,Aktuel værdi
+Stestrup Old 204360 Kirke Eskilstrup,trup,300.030,19-08-2002,Fam. Salg,1.579,3,Stuehus,190,2003,,
+Stestrupvej 1944360 Kirke Eskilstrup,trup,3.000.000,21-07-2002,Alm. Salg,16.666,6,Stuehus,180,1896,,
+Tysingevej 104360 Kirke Eskilstrup,trup,821.000,26-06-2002,Alm. Salg,8.552,4,Villa,96,1952,,Aktuel værdi
+Sønderstrupvej 1594360 Kirke Eskilstrup,trup,680.000,24-06-2002,Fam. Salg,-,6,Villa,162,1925,,Aktuel værdi
+Lindegårdsparken 664360 Kirke Eskilstrup,trup,1.185.000,12-06-2002,Alm. Salg,9.404,4,Villa,126,1979,,Aktuel værdi
+Stestrupvej 94360 Kirke Eskilstrup,trup,560.000,22-05-2002,Alm. Salg,3.589,5,Villa,156,1904,,Aktuel værdi
+Tysingevej 84360 Kirke Eskilstrup,trup,1.185.000,12-04-2002,Alm. Salg,8.464,6,Villa,140,1965,,Aktuel værdi
+Rønnevej 74360 Kirke Eskilstrup,trup,525.000,06-04-2002,Fam. Salg,4.375,4,Villa,120,1969,,Aktuel værdi
+Hvalsøvej 2254360 Kirke Eskilstrup,trup,1.520.093,01-04-2002,Alm. Salg,11.259,4,Villa,135,1920,,Aktuel værdi
+Hvalsøvej 2294360 Kirke Eskilstrup,trup,1.119.998,09-03-2002,Alm. Salg,11.089,3,Villa,101,1940,,Aktuel værdi
+Tysingevej 44360 Kirke Eskilstrup,trup,623.593,15-01-2002,Alm. Salg,8.908,3,Villa,70,1962,,Aktuel værdi
+Kirkevænget 45B4360 Kirke Eskilstrup,trup,820.518,12-01-2002,Alm. Salg,9.431,4,Rækkehus,87,1984,,Aktuel værdi
+Vinkelvej 44360 Kirke Eskilstrup,trup,714.000,02-01-2002,Fam. Salg,6.208,3,Villa,115,1955,,Aktuel værdi
+Have Borupvej 1704360 Kirke Eskilstrup,trup,2.311.521,28-12-2001,Fam. Salg,8.561,9,Stuehus,270,1888,,
+Bårupvej 34360 Kirke Eskilstrup,trup,1.905.000,16-11-2001,Alm. Salg,-,6,Villa,172,1800,,Aktuel værdi
+Eliasmindevej 284360 Kirke Eskilstrup,trup,200.000,29-10-2001,Alm. Salg,1.459,6,Villa,137,2003,,Aktuel værdi
+Eliasmindevej 134360 Kirke Eskilstrup,trup,99.000,25-10-2001,Alm. Salg,712,6,Villa,139,2003,,Aktuel værdi
+Solvangsvej 154360 Kirke Eskilstrup,trup,565.000,24-10-2001,Alm. Salg,5.885,3,Villa,96,1952,,Aktuel værdi
+Platanvej 114360 Kirke Eskilstrup,trup,1.029.000,10-10-2001,Alm. Salg,9.354,4,Villa,110,1969,,Aktuel værdi
+Stestrupvej 884360 Kirke Eskilstrup,trup,577.024,30-08-2001,Alm. Salg,8.243,3,Villa,70,1933,,Aktuel værdi
+Agerupvej 114360 Kirke Eskilstrup,trup,645.363,07-07-2001,Alm. Salg,5.333,5,Villa,121,1883,,Aktuel værdi
+Stationsvej 174360 Kirke Eskilstrup,trup,1.225.000,05-07-2001,Alm. Salg,-,5,Villa,155,2004,,Aktuel værdi
+Svalmstrupvej 684360 Kirke Eskilstrup,trup,2.899.978,28-06-2001,Alm. Salg,8.895,7,Villa,326,1924,,Aktuel værdi
+Borgergade 134360 Kirke Eskilstrup,trup,1.345.000,19-06-2001,Alm. Salg,8.406,6,Villa,160,1940,,Aktuel værdi
+Bårupvej 174360 Kirke Eskilstrup,trup,6.206.824,15-06-2001,Andet,24.436,7,Stuehus,254,1927,,
+Borgergade 334360 Kirke Eskilstrup,trup,740.000,24-04-2001,Alm. Salg,4.868,4,Villa,152,1908,,Aktuel værdi
+Brinken 124360 Kirke Eskilstrup,trup,790.000,17-03-2001,Alm. Salg,-,6,Villa,162,1933,,Aktuel værdi
+Stestrupvej 764360 Kirke Eskilstrup,trup,1.400.000,22-01-2001,Alm. Salg,5.833,7,Villa,240,1851,,Aktuel værdi
+Platanvej 124360 Kirke Eskilstrup,trup,835.000,16-09-2000,Alm. Salg,7.136,4,Villa,117,1968,,Aktuel værdi
+Solvangsvej 364360 Kirke Eskilstrup,trup,1.900.000,10-08-2000,Alm. Salg,13.768,5,Stuehus,138,1968,,
+Agerupvej 334360 Kirke Eskilstrup,trup,1.775.630,08-08-2000,Alm. Salg,16.441,4,Stuehus,108,1924,,
+Have Borupvej 1844360 Kirke Eskilstrup,trup,700.072,06-06-2000,Alm. Salg,5.303,4,Villa,132,1875,,Aktuel værdi
+Tysingevej 184360 Kirke Eskilstrup,trup,809.000,04-06-2000,Alm. Salg,5.579,4,Villa,145,1970,,Aktuel værdi
+Hvalsøvej 3344360 Kirke Eskilstrup,trup,1.217.120,24-05-2000,Alm. Salg,9.583,5,Villa,127,1967,,Aktuel værdi
+Lindegårdsparken 264360 Kirke Eskilstrup,trup,1.024.902,07-05-2000,Alm. Salg,8.134,5,Villa,126,1973,,Aktuel værdi
+Solvangsvej 84360 Kirke Eskilstrup,trup,996.600,28-04-2000,Alm. Salg,-,4,Rækkehus,107,1985,,Aktuel værdi
+Stestrupvej 74360 Kirke Eskilstrup,trup,802.000,31-01-2000,Alm. Salg,5.811,4,Villa,138,1903,,Aktuel værdi
+Platanvej 74360 Kirke Eskilstrup,trup,1.050.000,20-01-2000,Alm. Salg,7.664,4,Villa,137,1967,,Aktuel værdi
+Eliasmindevej 114360 Kirke Eskilstrup,trup,119.164,06-01-2000,Alm. Salg,-,6,Villa,180,2000,,Aktuel værdi
+Solvangsvej 454360 Kirke Eskilstrup,trup,425.000,28-12-1999,Alm. Salg,-,7,Stuehus,180,1920,,
+Kirkevænget 554360 Kirke Eskilstrup,trup,850.000,19-12-1999,Fam. Salg,-,4,Villa,125,1990,,Aktuel værdi
+Kirkevænget 61B4360 Kirke Eskilstrup,trup,810.480,17-12-1999,Alm. Salg,8.531,5,Rækkehus,95,1985,,Aktuel værdi
+Kirkevænget 35A4360 Kirke Eskilstrup,trup,703.000,03-11-1999,Alm. Salg,8.679,4,Rækkehus,81,1985,,Aktuel værdi
+Stestrupvej 434360 Kirke Eskilstrup,trup,563.122,27-09-1999,Fam. Salg,6.188,3,Villa,91,1956,,Aktuel værdi
+Have Borupvej 1914360 Kirke Eskilstrup,trup,931.000,20-09-1999,Alm. Salg,5.541,7,Stuehus,168,1916,,
+Borgergade 17B4360 Kirke Eskilstrup,trup,998.000,17-09-1999,Alm. Salg,5.768,6,Villa,173,1920,,Aktuel værdi
+Borgergade 434360 Kirke Eskilstrup,trup,930.000,04-08-1999,Alm. Salg,10.689,3,Villa,87,1917,,Aktuel værdi
+Sønderstrupvej 1434360 Kirke Eskilstrup,trup,1.582.000,18-07-1999,Alm. Salg,5.881,4,Villa,269,1928,,Aktuel værdi
+Hvalsøvej 2754360 Kirke Eskilstrup,trup,1.120.000,04-06-1999,Alm. Salg,6.956,6,Stuehus,161,1904,,
+Bukkerupvej 1764360 Kirke Eskilstrup,trup,1.125.000,19-03-1999,Alm. Salg,8.093,6,Stuehus,139,1900,,
+Eliasmindevej 214360 Kirke Eskilstrup,trup,1.093.000,30-12-1998,Alm. Salg,-,6,Villa,153,1999,,Aktuel værdi
+Eliasmindevej 174360 Kirke Eskilstrup,trup,191.420,21-12-1998,Alm. Salg,1.693,4,Villa,113,1999,,Aktuel værdi
+Borgergade 17A4360 Kirke Eskilstrup,trup,450.232,07-12-1998,Andet,3.385,4,Villa,133,1955,,Aktuel værdi
+Have Borupvej 1904360 Kirke Eskilstrup,trup,1.000.000,20-10-1998,Fam. Salg,9.345,5,Stuehus,107,1917,,
+Svalmstrupvej 634360 Kirke Eskilstrup,trup,640.480,17-08-1998,Alm. Salg,4.675,4,Villa,137,1930,,Aktuel værdi
+Svalmstrupvej 614360 Kirke Eskilstrup,trup,1.008.618,13-08-1998,Alm. Salg,4.482,7,Villa,225,1925,,Aktuel værdi
+Platanvej 104360 Kirke Eskilstrup,trup,545.000,10-08-1998,Alm. Salg,-,5,Villa,141,1970,,Aktuel værdi
+Stestrupvej 694360 Kirke Eskilstrup,trup,460.000,29-06-1998,Alm. Salg,5.168,3,Villa,89,1900,,Aktuel værdi
+Sønderstrupvej 1734360 Kirke Eskilstrup,trup,700.000,29-05-1998,Alm. Salg,6.796,3,Villa,103,1961,,Aktuel værdi
+Eliasmindevej 234360 Kirke Eskilstrup,trup,1.042.000,10-04-1998,Alm. Salg,8.830,4,Villa,118,1998,,Aktuel værdi
+Birkegårdsvej 134360 Kirke Eskilstrup,trup,1.750.000,01-04-1998,Alm. Salg,11.437,6,Stuehus,153,1892,,
+Borgergade 474360 Kirke Eskilstrup,trup,819.580,04-03-1998,Alm. Salg,6.556,4,Villa,125,1925,,Aktuel værdi
+Lindegårdsparken 64360 Kirke Eskilstrup,trup,815.468,24-02-1998,Alm. Salg,6.795,5,Villa,120,1970,,Aktuel værdi
+Sønderstrupvej 1794360 Kirke Eskilstrup,trup,700.000,08-01-1998,Alm. Salg,4.895,5,Villa,143,1936,,Aktuel værdi
+Borgergade 194360 Kirke Eskilstrup,trup,544.480,04-12-1997,Alm. Salg,7.357,3,Villa,74,1904,,Aktuel værdi
+Lindegårdsparken 144360 Kirke Eskilstrup,trup,919.747,17-11-1997,Alm. Salg,6.214,4,Villa,148,1975,,Aktuel værdi
+Borgergade 144360 Kirke Eskilstrup,trup,773.355,19-09-1997,Alm. Salg,-,7,Villa,189,1913,,Aktuel værdi
+Stestrupvej 14360 Kirke Eskilstrup,trup,672.000,04-09-1997,Alm. Salg,14.608,2,Villa,46,1900,,Aktuel værdi
+Borgergade 354360 Kirke Eskilstrup,trup,560.140,16-08-1997,Alm. Salg,4.275,5,Villa,131,1912,,Aktuel værdi
+Syrenvej 84360 Kirke Eskilstrup,trup,746.000,21-07-1997,Alm. Salg,6.114,5,Villa,122,1966,,Aktuel værdi
+Brinken 134360 Kirke Eskilstrup,trup,978.335,30-05-1997,Alm. Salg,6.479,4,Villa,151,1975,,Aktuel værdi
+Lindegårdsparken 504360 Kirke Eskilstrup,trup,746.948,14-04-1997,Alm. Salg,5.081,5,Villa,147,1979,,Aktuel værdi
+Stestrup Oldvej 754360 Kirke Eskilstrup,trup,1.487.082,24-02-1997,Alm. Salg,7.548,8,Stuehus,197,1966,,
+Sønderstrupvej 1824360 Kirke Eskilstrup,trup,1.089.000,23-01-1997,Alm. Salg,5.642,7,Villa,193,1945,,Aktuel værdi
+Borgergade 204360 Kirke Eskilstrup,trup,372.000,15-01-1997,Alm. Salg,2.113,6,Villa,176,1900,,Aktuel værdi
+Brinken 144360 Kirke Eskilstrup,trup,640.000,31-10-1996,Alm. Salg,6.400,4,Villa,100,1954,,Aktuel værdi
+Tysingevej 114360 Kirke Eskilstrup,trup,595.000,22-10-1996,Alm. Salg,7.168,4,Villa,83,1929,,Aktuel værdi
+Platanvej 34360 Kirke Eskilstrup,trup,642.000,09-10-1996,Alm. Salg,5.177,5,Villa,124,1970,,Aktuel værdi
+Kirkevænget 57B4360 Kirke Eskilstrup,trup,281.317,16-09-1996,Fam. Salg,2.534,4,Rækkehus,111,1987,,Aktuel værdi
+Syrenvej 94360 Kirke Eskilstrup,trup,860.680,11-09-1996,Alm. Salg,4.303,7,Villa,200,1968,,Aktuel værdi
+Platanvej 464360 Kirke Eskilstrup,trup,995.000,25-08-1996,Alm. Salg,7.537,4,Villa,132,1972,,Aktuel værdi
+Borgergade 64360 Kirke Eskilstrup,trup,760.000,20-08-1996,Alm. Salg,2.733,9,Villa,278,1930,,Aktuel værdi
+Lindegårdsparken 54360 Kirke Eskilstrup,trup,725.000,13-08-1996,Alm. Salg,5.451,4,Villa,133,1978,,Aktuel værdi
+Solvangsvej 64360 Kirke Eskilstrup,trup,500.000,26-07-1996,Fam. Salg,5.747,4,Rækkehus,87,1985,,Aktuel værdi
+Solvangsvej 554360 Kirke Eskilstrup,trup,650.000,26-07-1996,Fam. Salg,3.672,5,Stuehus,177,1910,,
+Sønderstrupvej 1714360 Kirke Eskilstrup,trup,575.000,04-07-1996,Alm. Salg,4.423,4,Villa,130,1938,,Aktuel værdi
+Stestrup Oldvej 634360 Kirke Eskilstrup,trup,165.000,30-04-1996,Alm. Salg,877,5,Stuehus,188,2002,,
+Stestrupvej 86A4360 Kirke Eskilstrup,trup,1.050.000,01-04-1996,Alm. Salg,5.172,5,Villa,203,1979,,Aktuel værdi
+Hvalsøvej 1904360 Kirke Eskilstrup,trup,1.000.000,19-03-1996,Alm. Salg,6.172,4,Stuehus,162,1914,,
+Hvalsøvej 3024360 Kirke Eskilstrup,trup,584.000,21-02-1996,Alm. Salg,2.794,5,Villa,209,1877,,Aktuel værdi
+Syrenvej 74360 Kirke Eskilstrup,trup,534.000,05-02-1996,Alm. Salg,4.045,5,Villa,132,1965,,Aktuel værdi
+Tysingevej 284360 Kirke Eskilstrup,trup,2.300.000,28-10-1995,Alm. Salg,12.105,9,Stuehus,190,1873,,
+Vinkelvej 114360 Kirke Eskilstrup,trup,574.000,02-08-1995,Alm. Salg,4.484,5,Villa,128,1963,,Aktuel værdi
+Lindegårdsparken 274360 Kirke Eskilstrup,trup,597.000,01-06-1995,Alm. Salg,4.204,5,Villa,142,1980,,Aktuel værdi
+Borgergade 5A4360 Kirke Eskilstrup,trup,428.200,03-02-1995,Alm. Salg,4.604,3,Villa,93,1928,,Aktuel værdi
+Stestrup Oldvej 34360 Kirke Eskilstrup,trup,657.000,20-11-1994,Alm. Salg,3.352,6,Villa,196,1907,,Aktuel værdi
+Kirkevænget 61A4360 Kirke Eskilstrup,trup,405.000,29-09-1994,Alm. Salg,-,4,Rækkehus,86,1985,,Aktuel værdi
+Bårupvej 14360 Kirke Eskilstrup,trup,404.000,18-09-1994,Alm. Salg,1.351,7,Villa,299,2016,,Aktuel værdi
+Birkegårdsvej 114360 Kirke Eskilstrup,trup,1.130.000,01-09-1994,Alm. Salg,-,4,Stuehus,170,1914,,
+Agerupvej 514360 Kirke Eskilstrup,trup,761.060,31-08-1994,Fam. Salg,11.359,2,Stuehus,67,1926,,
+Solvangsvej 414360 Kirke Eskilstrup,trup,225.000,10-08-1994,Alm. Salg,2.122,6,Villa,106,1878,,Aktuel værdi
+Stestrup Oldvej 834360 Kirke Eskilstrup,trup,490.800,28-07-1994,Alm. Salg,-,4,Villa,103,1930,,Aktuel værdi
+Ålykken 234360 Kirke Eskilstrup,trup,895.000,26-03-1994,Alm. Salg,-,6,Stuehus,175,1906,,
+Bukkerupvej 1754360 Kirke Eskilstrup,trup,695.100,24-03-1994,Alm. Salg,-,5,Villa,148,1970,,Aktuel værdi
+Platanvej 234360 Kirke Eskilstrup,trup,465.000,16-03-1994,Alm. Salg,-,6,Villa,176,1965,,Aktuel værdi
+Stestrupvej 1094360 Kirke Eskilstrup,trup,935.980,30-12-1993,Alm. Salg,3.613,8,Villa,259,1890,,Aktuel værdi
+Bårupvej 134360 Kirke Eskilstrup,trup,95.000,25-10-1993,Alm. Salg,-,7,Villa,220,1725,,Aktuel værdi
+Bårupvej 104360 Kirke Eskilstrup,trup,900.000,10-10-1993,Alm. Salg,4.736,6,Stuehus,190,1877,,
+Stestrupvej 1034360 Kirke Eskilstrup,trup,800.000,09-06-1993,Alm. Salg,-,5,Villa,200,1987,,Aktuel værdi
+Sønderstrupvej 1174360 Kirke Eskilstrup,trup,710.000,26-04-1993,Alm. Salg,-,6,Stuehus,150,1887,,
+Egeskov 244360 Kirke Eskilstrup,trup,153.125,13-03-1993,Alm. Salg,-,5,Stuehus,104,1927,,
+Sønderstrupvej 1844360 Kirke Eskilstrup,trup,580.000,19-02-1993,Alm. Salg,2.180,9,Villa,266,1951,,Aktuel værdi
+Stestrup Oldvej 694360 Kirke Eskilstrup,trup,955.350,04-02-1993,Alm. Salg,4.402,5,Stuehus,217,1890,,
+Kirkevænget 414360 Kirke Eskilstrup,trup,490.000,09-12-1992,Alm. Salg,4.375,4,Villa,112,1985,,Aktuel værdi
+Egeskov 254360 Kirke Eskilstrup,trup,624.241,05-12-1992,Alm. Salg,2.633,10,Stuehus,237,1928,,
+Have Borupvej 1384360 Kirke Eskilstrup,trup,1.935.000,31-07-1992,Alm. Salg,9.872,6,Stuehus,196,1850,,
+Kirkevænget 45A4360 Kirke Eskilstrup,trup,236.519,09-04-1992,Fam. Salg,2.718,4,Rækkehus,87,1984,,Aktuel værdi
+Bukkerupvej 1894360 Kirke Eskilstrup,trup,1.555.750,05-03-1992,Alm. Salg,-,4,Stuehus,179,1930,,

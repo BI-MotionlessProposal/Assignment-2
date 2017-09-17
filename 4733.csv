@@ -1,0 +1,969 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Sneserevej 524733 Tappernøje,nøje,912.452,05-05-2017,Alm. Salg,3.366,6,Villa,271,1925,,Aktuel værdi
+Teglværksvej 134733 Tappernøje,nøje,6.100.000,28-04-2017,Andet,74.390,4,Villa,82,1900,,Aktuel værdi
+Jægervænget 64733 Tappernøje,nøje,1.510.000,16-04-2017,Alm. Salg,11.889,5,Villa,127,1974,-4 %,Aktuel værdi
+Sneserevej 224733 Tappernøje,nøje,1.141.000,11-04-2017,Alm. Salg,14.262,3,Villa,80,1952,,Aktuel værdi
+Tværvej 24733 Tappernøje,nøje,540.000,03-04-2017,Alm. Salg,1.824,11,Villa,296,1920,,Aktuel værdi
+Lundhøjvej 94733 Tappernøje,nøje,975.000,15-03-2017,Alm. Salg,7.330,5,Villa,133,1978,-2 %,Aktuel værdi
+Tågeskovvej 84733 Tappernøje,nøje,1.020.000,14-03-2017,Alm. Salg,9.107,4,Stuehus,112,1914,,
+Karlshøj 184733 Tappernøje,nøje,1.100.000,08-03-2017,Alm. Salg,8.088,5,Villa,136,1960,-15 %,Aktuel værdi
+Brøderupvej 5A4733 Tappernøje,nøje,440.000,04-03-2017,Alm. Salg,4.888,3,Villa,90,1953,,Aktuel værdi
+Harevænget 76B4733 Tappernøje,nøje,1.950.000,07-02-2017,Alm. Salg,13.448,4,Villa,145,2005,-2 %,Aktuel værdi
+Bårsevej 154733 Tappernøje,nøje,1.700.000,03-02-2017,Alm. Salg,12.592,3,Villa,135,1902,-8 %,Aktuel værdi
+Kildebakken 54733 Tappernøje,nøje,1.995.000,30-01-2017,Alm. Salg,8.750,7,Villa,228,1934,0 %,Aktuel værdi
+Bredeshave Strand 54733 Tappernøje,nøje,2.350.000,25-01-2017,Alm. Salg,13.055,6,Villa,180,1974,-4 %,Aktuel værdi
+Tågeskov By 74733 Tappernøje,nøje,957.100,20-01-2017,Fam. Salg,9.571,3,Villa,100,2000,,Aktuel værdi
+Lunden 44733 Tappernøje,nøje,1.300.000,09-01-2017,Alm. Salg,8.024,6,Stuehus,162,1910,,
+Bredeshave Strand 64733 Tappernøje,nøje,1.200.000,05-01-2017,Alm. Salg,12.500,4,Villa,96,1971,-7 %,Aktuel værdi
+Kildebakken 304733 Tappernøje,nøje,1.095.000,02-01-2017,Alm. Salg,7.019,5,Villa,156,1956,-8 %,Aktuel værdi
+Saksholmvej 334733 Tappernøje,nøje,1.355.000,29-12-2016,Alm. Salg,10.840,5,Villa,125,1913,-3 %,Aktuel værdi
+Bårsevej 6B4733 Tappernøje,nøje,1.840.000,27-12-2016,Alm. Salg,11.428,5,Villa,161,2007,-8 %,Aktuel værdi
+Hovedvejen 81B4733 Tappernøje,nøje,825.000,19-12-2016,Alm. Salg,5.851,4,Lejlighed,141,1927,-2 %,Aktuel værdi
+Brøderupvej 38A4733 Tappernøje,nøje,895.000,08-12-2016,Alm. Salg,6.215,5,Villa,144,1930,-9 %,Aktuel værdi
+Karlshøj 34733 Tappernøje,nøje,334.559,08-12-2016,Alm. Salg,2.424,5,Villa,138,1903,,Aktuel værdi
+Pilevej 14733 Tappernøje,nøje,560.000,22-11-2016,Alm. Salg,6.511,4,Villa,86,1964,-4 %,Aktuel værdi
+Rypevænget 54733 Tappernøje,nøje,325.000,16-11-2016,Alm. Salg,3.186,4,Villa,102,1988,,Aktuel værdi
+Oddervænget 34733 Tappernøje,nøje,1.850.000,15-11-2016,Alm. Salg,9.840,5,Villa,188,1974,0 %,Aktuel værdi
+Hovedvejen 1044733 Tappernøje,nøje,587.413,11-11-2016,Alm. Salg,1.513,9,Villa,388,1882,,Aktuel værdi
+Sneserevej 504733 Tappernøje,nøje,1.700.000,05-11-2016,Alm. Salg,7.870,5,Villa,216,1939,6 %,Aktuel værdi
+Egernvænget 34733 Tappernøje,nøje,850.000,19-10-2016,Alm. Salg,4.857,5,Villa,175,2004,,Aktuel værdi
+Sjoltevej 244733 Tappernøje,nøje,300.000,07-10-2016,Alm. Salg,1.948,6,Villa,154,1877,,Aktuel værdi
+Gl Skolevej 194733 Tappernøje,nøje,810.000,26-09-2016,Alm. Salg,4.009,5,Villa,202,1927,,Aktuel værdi
+Hovedvejen 864733 Tappernøje,nøje,450.000,22-09-2016,Alm. Salg,3.146,4,Villa,143,1911,-24 %,Aktuel værdi
+Videbækvej 2A4733 Tappernøje,nøje,890.000,09-09-2016,Alm. Salg,6.013,6,Villa,148,1966,-6 %,Aktuel værdi
+Gl Skolevej 224733 Tappernøje,nøje,2.330.000,07-09-2016,Alm. Salg,9.282,8,Villa,251,2005,-3 %,Aktuel værdi
+Vildtbanevej 144733 Tappernøje,nøje,895.000,05-09-2016,Alm. Salg,6.992,5,Villa,128,1975,,Aktuel værdi
+Harevænget 514733 Tappernøje,nøje,1.375.000,11-08-2016,Alm. Salg,7.313,7,Villa,188,1986,-1 %,Aktuel værdi
+Smidstrupvej 104733 Tappernøje,nøje,595.000,09-08-2016,Alm. Salg,3.914,5,Villa,152,1968,0 %,Aktuel værdi
+Lindhøjgårdsvej 764733 Tappernøje,nøje,1.775.000,03-08-2016,Alm. Salg,11.677,5,Villa,152,2008,-4 %,Aktuel værdi
+Pilevej 44733 Tappernøje,nøje,560.000,08-07-2016,Alm. Salg,5.894,3,Villa,95,1968,-6 %,Aktuel værdi
+Harevænget 1164733 Tappernøje,nøje,700.000,07-07-2016,Alm. Salg,6.250,4,Villa,112,1978,1 %,Aktuel værdi
+Karlshøj 32B4733 Tappernøje,nøje,1.250.000,05-07-2016,Alm. Salg,4.807,6,Villa,260,1916,-3 %,Aktuel værdi
+Snigsvej 44733 Tappernøje,nøje,890.000,29-06-2016,Alm. Salg,5.668,5,Villa,157,1972,-6 %,Aktuel værdi
+Gl Skolevej 94733 Tappernøje,nøje,280.000,23-06-2016,Alm. Salg,2.916,3,Villa,96,1885,-29 %,Aktuel værdi
+Størlingevej 224733 Tappernøje,nøje,2.823.740,17-06-2016,Fam. Salg,56.474,2,Villa,50,1880,,Aktuel værdi
+Størlingevej 244733 Tappernøje,nøje,2.823.740,17-06-2016,Fam. Salg,12.777,5,Stuehus,221,1900,,
+Teglværksvej 24733 Tappernøje,nøje,1.080.000,09-06-2016,Alm. Salg,4.931,7,Stuehus,219,1870,,
+Bårsevej 54733 Tappernøje,nøje,400.000,02-06-2016,Alm. Salg,5.714,2,Villa,70,1877,-19 %,Aktuel værdi
+Sneppevænget 34733 Tappernøje,nøje,760.000,01-06-2016,Alm. Salg,6.280,4,Villa,121,1979,,Aktuel værdi
+Sjoltevej 284733 Tappernøje,nøje,1.350.000,23-05-2016,Alm. Salg,7.941,6,Villa,170,1837,-3 %,Aktuel værdi
+Tværvej 44733 Tappernøje,nøje,1.495.000,19-05-2016,Alm. Salg,3.051,11,Villa,490,1900,0 %,Aktuel værdi
+Harevænget 554733 Tappernøje,nøje,1.600.000,05-05-2016,Alm. Salg,10.810,5,Villa,148,1997,,Aktuel værdi
+Flintemosevej 104733 Tappernøje,nøje,595.000,26-04-2016,Alm. Salg,7.437,4,Villa,80,1887,0 %,Aktuel værdi
+Stavnstrupvej 374733 Tappernøje,nøje,560.000,20-04-2016,Alm. Salg,5.333,2,Villa,105,1885,-6 %,Aktuel værdi
+Gl Skolevej 134733 Tappernøje,nøje,1.152.000,12-04-2016,Alm. Salg,7.111,6,Villa,162,1900,,Aktuel værdi
+Hulebækvej 44733 Tappernøje,nøje,208.091,01-04-2016,Alm. Salg,2.972,2,Villa,70,1880,,Aktuel værdi
+Stavnstrupvej 434733 Tappernøje,nøje,1.745.000,29-03-2016,Alm. Salg,5.665,9,Villa,308,1974,-3 %,Aktuel værdi
+Svingkærvej 184733 Tappernøje,nøje,1.265.000,15-03-2016,Alm. Salg,9.166,4,Villa,138,2004,-9 %,Aktuel værdi
+Oddervænget 44733 Tappernøje,nøje,429.961,10-03-2016,Fam. Salg,3.838,4,Villa,112,1980,,Aktuel værdi
+Sneserevej 84733 Tappernøje,nøje,695.000,08-03-2016,Alm. Salg,5.387,5,Villa,129,1938,0 %,Aktuel værdi
+Sølperupvej 74733 Tappernøje,nøje,459.200,04-03-2016,Auktion,2.717,4,Villa,169,1925,,Aktuel værdi
+Størlingevej 114733 Tappernøje,nøje,800.000,02-03-2016,Alm. Salg,4.705,14,Stuehus,170,1802,-11 %,
+Stavnstrupvej 314733 Tappernøje,nøje,671.270,23-02-2016,Alm. Salg,2.918,6,Villa,230,1880,,Aktuel værdi
+Åsidevej 44733 Tappernøje,nøje,2.150.000,11-02-2016,Alm. Salg,10.141,4,Villa,212,1911,-2 %,Aktuel værdi
+Hovvej 44733 Tappernøje,nøje,495.000,08-02-2016,Alm. Salg,3.036,3,Stuehus,163,1925,-7 %,
+Engelstrupvej 124733 Tappernøje,nøje,1.147.500,04-02-2016,Andet,4.841,7,Villa,237,1958,,Aktuel værdi
+Smidstrupvej 554733 Tappernøje,nøje,3.551.871,25-01-2016,Fam. Salg,17.759,8,Stuehus,200,1954,,
+Vildtbanevej 104733 Tappernøje,nøje,575.000,13-01-2016,Alm. Salg,3.833,4,Villa,150,1973,-3 %,Aktuel værdi
+Hovedvejen 994733 Tappernøje,nøje,300.000,04-01-2016,Fam. Salg,1.023,6,Stuehus,293,1913,,
+Bækkeskov Stræde 64733 Tappernøje,nøje,3.770.000,04-01-2016,Alm. Salg,22.710,5,Stuehus,166,1934,,
+Kærvej 14733 Tappernøje,nøje,665.000,16-12-2015,Alm. Salg,5.000,5,Villa,133,1926,-11 %,Aktuel værdi
+Bækkeskov Stræde 24733 Tappernøje,nøje,2.805.000,10-12-2015,Fam. Salg,32.616,3,Stuehus,86,1920,,
+Kildebakken 354733 Tappernøje,nøje,50.000,08-12-2015,Alm. Salg,-,4,Villa,129,1912,,Aktuel værdi
+Snesere Torpvej 304733 Tappernøje,nøje,1.564.000,01-12-2015,Alm. Salg,8.231,5,Stuehus,190,1943,-13 %,
+Svingkærvej 324733 Tappernøje,nøje,1.495.000,24-11-2015,Alm. Salg,9.966,5,Villa,150,1987,0 %,Aktuel værdi
+Stavnstrupvej 54733 Tappernøje,nøje,1.362.479,18-11-2015,Alm. Salg,7.967,3,Stuehus,171,1916,,
+Askovvej 184733 Tappernøje,nøje,4.200.000,06-11-2015,Alm. Salg,10.769,11,Villa,390,1870,0 %,Aktuel værdi
+Fasanvænget 2A4733 Tappernøje,nøje,690.000,26-10-2015,Alm. Salg,6.764,4,Dobbelthus,102,1978,-7 %,Aktuel værdi
+Sneserevej 254733 Tappernøje,nøje,375.000,12-10-2015,Alm. Salg,1.334,8,Villa,281,1900,-42 %,Aktuel værdi
+St Røttingevej 34733 Tappernøje,nøje,1.063.800,29-09-2015,Alm. Salg,5.319,5,Villa,200,1850,-11 %,Aktuel værdi
+Rønnedevej 354733 Tappernøje,nøje,1.250.000,28-09-2015,Alm. Salg,4.545,10,Stuehus,275,1902,-10 %,
+Jægersborgvej 34733 Tappernøje,nøje,1.750.000,25-09-2015,Alm. Salg,14.227,4,Villa,123,1997,-11 %,Aktuel værdi
+Hovvej 34733 Tappernøje,nøje,1.495.000,18-09-2015,Alm. Salg,10.602,6,Stuehus,141,1877,,
+Stavnstrupvej 114733 Tappernøje,nøje,1.700.000,16-09-2015,Alm. Salg,8.542,5,Stuehus,199,1867,31 %,
+Hovedvejen 744733 Tappernøje,nøje,120.000,14-09-2015,Alm. Salg,1.363,2,Villa,88,1909,,Aktuel værdi
+Jægersborgvej 54733 Tappernøje,nøje,950.000,11-09-2015,Alm. Salg,10.326,3,Villa,92,1963,0 %,Aktuel værdi
+Smidstrupvej 344733 Tappernøje,nøje,1.187.500,06-09-2015,Fam. Salg,5.967,5,Stuehus,199,1924,,
+Sjoltevej 54733 Tappernøje,nøje,1.500.000,28-08-2015,Alm. Salg,10.714,5,Villa,140,1940,0 %,Aktuel værdi
+Sneppevænget 324733 Tappernøje,nøje,870.000,24-08-2015,Alm. Salg,6.904,4,Villa,126,1978,-3 %,Aktuel værdi
+Snesere Torpvej 324733 Tappernøje,nøje,700.000,22-08-2015,Fam. Salg,3.517,5,Villa,199,1946,,Aktuel værdi
+Rønnedevej 144733 Tappernøje,nøje,2.750.000,13-08-2015,Alm. Salg,14.248,8,Stuehus,193,1872,-8 %,
+Pilevej 84733 Tappernøje,nøje,1.300.000,11-08-2015,Alm. Salg,10.317,6,Villa,126,1967,1 %,Aktuel værdi
+Sneserevej 44733 Tappernøje,nøje,275.000,04-08-2015,Auktion,3.125,2,Villa,88,1921,,Aktuel værdi
+Karlshøj 224733 Tappernøje,nøje,895.000,29-07-2015,Alm. Salg,5.774,6,Villa,155,1959,0 %,Aktuel værdi
+Lundhøjvej 194733 Tappernøje,nøje,1.000.000,18-07-2015,Alm. Salg,6.756,5,Villa,148,1976,,Aktuel værdi
+Snesere Torpvej 424733 Tappernøje,nøje,1.700.000,16-07-2015,Fam. Salg,14.166,4,Stuehus,120,1916,,
+Bakkehusene 64733 Tappernøje,nøje,2.025.000,07-07-2015,Alm. Salg,13.322,5,Villa,152,2008,-3 %,Aktuel værdi
+Egernvænget 44733 Tappernøje,nøje,999.000,02-07-2015,Alm. Salg,4.802,7,Villa,208,1968,0 %,Aktuel værdi
+Æskebjergvej 44733 Tappernøje,nøje,100.000,30-06-2015,Alm. Salg,892,4,Villa,112,1901,-50 %,Aktuel værdi
+Hovedvejen 1A4733 Tappernøje,nøje,4.129.579,29-06-2015,Fam. Salg,17.799,6,Stuehus,232,1917,,
+Lindhøjgårdsvej 824733 Tappernøje,nøje,1.700.000,25-06-2015,Alm. Salg,11.184,5,Villa,152,2008,-4 %,Aktuel værdi
+Muldbjergvej 64733 Tappernøje,nøje,525.000,24-06-2015,Auktion,1.909,7,Villa,275,1730,,Aktuel værdi
+Svingkærvej 164733 Tappernøje,nøje,1.060.000,10-06-2015,Alm. Salg,7.412,5,Villa,143,1979,-3 %,Aktuel værdi
+Brøderupvej 184733 Tappernøje,nøje,1.600.000,29-05-2015,Alm. Salg,6.584,10,Villa,243,1903,-6 %,Aktuel værdi
+Kærvej 94733 Tappernøje,nøje,1.222.000,20-05-2015,Andet,5.028,6,Villa,243,1986,,Aktuel værdi
+Pilevej 164733 Tappernøje,nøje,837.500,20-05-2015,Alm. Salg,5.368,4,Villa,156,1970,0 %,Aktuel værdi
+Korskildevej 134733 Tappernøje,nøje,478.000,19-05-2015,Auktion,3.025,6,Villa,158,1860,,Aktuel værdi
+Oddervænget 74733 Tappernøje,nøje,837.500,11-05-2015,Alm. Salg,5.982,4,Villa,140,1968,-6 %,Aktuel værdi
+Jægervænget 164733 Tappernøje,nøje,1.050.000,07-05-2015,Alm. Salg,6.818,5,Villa,154,1977,-5 %,Aktuel værdi
+Rønnedevej 174733 Tappernøje,nøje,991.500,06-05-2015,Fam. Salg,7.344,4,Villa,135,1948,-42 %,Aktuel værdi
+Vildtbanevej 14733 Tappernøje,nøje,1.200.000,25-04-2015,Alm. Salg,8.219,4,Villa,146,1968,-2 %,Aktuel værdi
+Harevænget 934733 Tappernøje,nøje,995.000,16-04-2015,Alm. Salg,7.425,4,Villa,134,2005,0 %,Aktuel værdi
+Størlingevej 704733 Tappernøje,nøje,785.000,09-04-2015,Alm. Salg,6.541,3,Villa,120,1877,-1 %,Aktuel værdi
+Jægervænget 224733 Tappernøje,nøje,850.000,10-03-2015,Alm. Salg,6.250,5,Villa,136,1973,0 %,Aktuel værdi
+Sjoltevej 84733 Tappernøje,nøje,83.413,09-03-2015,Alm. Salg,251,11,Stuehus,332,1860,,
+Oddervænget 194733 Tappernøje,nøje,1.000.000,08-03-2015,Alm. Salg,6.622,4,Villa,151,1986,-13 %,Aktuel værdi
+Bellisvej 14733 Tappernøje,nøje,395.000,18-02-2015,Alm. Salg,3.211,4,Villa,123,1967,-12 %,Aktuel værdi
+Smidstrupvej 754733 Tappernøje,nøje,441.455,17-02-2015,Auktion,1.511,8,Villa,292,1850,,Aktuel værdi
+Snigsvej 104733 Tappernøje,nøje,495.000,05-02-2015,Alm. Salg,3.535,5,Villa,140,1971,0 %,Aktuel værdi
+Brøderupvej 94733 Tappernøje,nøje,845.000,03-02-2015,Alm. Salg,5.029,5,Villa,168,1904,0 %,Aktuel værdi
+Bårsevej 114733 Tappernøje,nøje,1.950.000,02-02-2015,Alm. Salg,6.678,8,Villa,292,1932,-2 %,Aktuel værdi
+Sneppevænget 264733 Tappernøje,nøje,754.000,27-01-2015,Alm. Salg,4.742,6,Villa,159,1979,,Aktuel værdi
+Flintemosevej 6A4733 Tappernøje,nøje,1.195.000,22-01-2015,Alm. Salg,7.611,3,Villa,157,1876,0 %,Aktuel værdi
+Bækkeskov Stræde 44733 Tappernøje,nøje,475.000,22-01-2015,Alm. Salg,4.567,3,Villa,104,1962,-14 %,Aktuel værdi
+Snesere Torpvej 174733 Tappernøje,nøje,822.900,20-01-2015,Auktion,4.263,6,Stuehus,193,1905,,
+Sjoltevej 184733 Tappernøje,nøje,1.100.000,03-01-2015,Alm. Salg,13.095,5,Stuehus,84,1890,,
+Højgårdsvej 44733 Tappernøje,nøje,410.000,22-12-2014,Alm. Salg,2.562,7,Villa,160,1852,,Aktuel værdi
+Sjoltevej 304733 Tappernøje,nøje,1.872.745,19-12-2014,Fam. Salg,9.856,7,Villa,190,1877,,Aktuel værdi
+Tågeskov Overdrev 64733 Tappernøje,nøje,1.975.000,15-12-2014,Alm. Salg,16.737,4,Villa,118,1677,-1 %,Aktuel værdi
+Størlingevej 574733 Tappernøje,nøje,765.000,14-12-2014,Fam. Salg,8.693,2,Villa,88,1827,,Aktuel værdi
+Sneserevej 824733 Tappernøje,nøje,625.000,21-11-2014,Alm. Salg,5.000,5,Villa,125,1909,,Aktuel værdi
+Mårvænget 254733 Tappernøje,nøje,309.509,18-11-2014,Fam. Salg,2.763,4,Villa,112,1979,,Aktuel værdi
+Hybenvej 64733 Tappernøje,nøje,995.000,17-11-2014,Alm. Salg,6.677,5,Villa,149,1967,0 %,Aktuel værdi
+Strandvejen 294733 Tappernøje,nøje,1.400.000,05-11-2014,Alm. Salg,10.000,6,Villa,140,1952,-6 %,Aktuel værdi
+Gl Skolevej 74733 Tappernøje,nøje,98.600,05-11-2014,Auktion,719,5,Villa,137,1897,,Aktuel værdi
+Mårvænget 64733 Tappernøje,nøje,1.100.000,30-10-2014,Alm. Salg,5.945,8,Villa,185,1977,-12 %,Aktuel værdi
+Hovedvejen 634733 Tappernøje,nøje,475.000,27-10-2014,Alm. Salg,3.104,4,Villa,153,1932,-10 %,Aktuel værdi
+St Røttingevej 24733 Tappernøje,nøje,650.000,21-10-2014,Alm. Salg,3.125,6,Villa,208,1900,,Aktuel værdi
+Fasanvænget 34733 Tappernøje,nøje,630.000,20-10-2014,Fam. Salg,4.256,6,Villa,148,1979,,Aktuel værdi
+Askovvej 74733 Tappernøje,nøje,785.000,15-10-2014,Alm. Salg,6.541,3,Villa,120,1934,,Aktuel værdi
+Sjoltevej 234733 Tappernøje,nøje,1.250.000,14-10-2014,Alm. Salg,7.267,7,Villa,172,1937,-15 %,Aktuel værdi
+Fasanvænget 214733 Tappernøje,nøje,475.000,13-10-2014,Alm. Salg,4.318,3,Villa,110,1976,-5 %,Aktuel værdi
+Oddervænget 54733 Tappernøje,nøje,750.000,08-10-2014,Alm. Salg,5.357,4,Villa,140,1979,,Aktuel værdi
+Harevænget 594733 Tappernøje,nøje,1.595.000,29-09-2014,Alm. Salg,11.392,4,Villa,140,2002,0 %,Aktuel værdi
+Sneppevænget 94733 Tappernøje,nøje,480.000,24-09-2014,Alm. Salg,3.636,4,Villa,132,1977,-19 %,Aktuel værdi
+Brøderupvej 15A4733 Tappernøje,nøje,2.695.000,22-09-2014,Alm. Salg,9.835,7,Villa,274,1903,0 %,Aktuel værdi
+Sjoltevej 124733 Tappernøje,nøje,1.300.000,25-08-2014,Alm. Salg,5.963,6,Villa,218,1900,-7 %,Aktuel værdi
+Everdrupvej 24733 Tappernøje,nøje,1.700.000,22-08-2014,Alm. Salg,7.083,8,Villa,240,1870,-3 %,Aktuel værdi
+Tågeskovvej 44733 Tappernøje,nøje,1.100.000,21-08-2014,Alm. Salg,7.051,5,Stuehus,156,1966,11 %,
+Rypevænget 384733 Tappernøje,nøje,1.650.000,13-08-2014,Alm. Salg,10.248,4,Villa,161,2000,-3 %,Aktuel værdi
+Stavnstrupvej 204733 Tappernøje,nøje,1.235.000,01-08-2014,Alm. Salg,7.180,6,Villa,172,1906,-7 %,Aktuel værdi
+Smidstrupvej 604733 Tappernøje,nøje,600.000,25-07-2014,Alm. Salg,6.666,4,Villa,90,1777,-11 %,Aktuel værdi
+Harevænget 954733 Tappernøje,nøje,960.019,08-07-2014,Auktion,6.037,5,Villa,159,2007,-42 %,Aktuel værdi
+Everdrupvej 94733 Tappernøje,nøje,150.000,08-07-2014,Auktion,1.327,4,Villa,113,1877,,Aktuel værdi
+Hovedvejen 54733 Tappernøje,nøje,499.000,30-06-2014,Alm. Salg,4.536,4,Villa,110,1930,0 %,Aktuel værdi
+Bygårdsvej 164733 Tappernøje,nøje,625.000,27-06-2014,Alm. Salg,6.510,3,Villa,96,1972,-4 %,Aktuel værdi
+Flintholm 34733 Tappernøje,nøje,235.000,25-06-2014,Alm. Salg,4.272,2,Villa,55,1950,,Aktuel værdi
+Nyvej 104733 Tappernøje,nøje,600.000,20-06-2014,Andet,5.454,3,Villa,110,1962,,Aktuel værdi
+Sneserevej 264733 Tappernøje,nøje,935.000,04-06-2014,Alm. Salg,7.991,4,Villa,117,1950,0 %,Aktuel værdi
+Skovvej 14733 Tappernøje,nøje,200.000,24-05-2014,Alm. Salg,1.818,3,Villa,110,1914,-32 %,Aktuel værdi
+Jægersborgvej 24733 Tappernøje,nøje,1.250.000,14-05-2014,Alm. Salg,5.841,5,Villa,214,1780,-7 %,Aktuel værdi
+Jægervænget 34733 Tappernøje,nøje,1.225.000,14-05-2014,Alm. Salg,6.843,6,Villa,179,1979,-5 %,Aktuel værdi
+Sølperupvej 134733 Tappernøje,nøje,700.000,04-05-2014,Alm. Salg,6.034,5,Stuehus,116,1925,,
+Teglværksvej 54733 Tappernøje,nøje,503.000,01-05-2014,Fam. Salg,5.988,4,Villa,84,1920,,Aktuel værdi
+Jægervænget 204733 Tappernøje,nøje,700.000,02-04-2014,Alm. Salg,6.034,4,Villa,116,1979,-7 %,Aktuel værdi
+Tågeskovvej 214733 Tappernøje,nøje,2.700.000,20-03-2014,Alm. Salg,9.310,7,Villa,290,1880,-5 %,Aktuel værdi
+Flintemosevej 184733 Tappernøje,nøje,300.000,18-03-2014,Auktion,2.912,3,Villa,103,1880,,Aktuel værdi
+Hovedvejen 234733 Tappernøje,nøje,895.000,27-02-2014,Alm. Salg,7.458,4,Villa,120,1929,0 %,Aktuel værdi
+Hovedvejen 81C4733 Tappernøje,nøje,150.000,18-02-2014,Alm. Salg,925,4,Lejlighed,162,1927,,Aktuel værdi
+Gl Skolevej 174733 Tappernøje,nøje,507.166,10-02-2014,Alm. Salg,2.983,6,Villa,170,1968,,Aktuel værdi
+Snigsvej 24733 Tappernøje,nøje,753.000,14-01-2014,Auktion,5.020,5,Villa,150,1972,,Aktuel værdi
+Stenagervej 14733 Tappernøje,nøje,995.000,14-01-2014,Alm. Salg,7.896,5,Villa,126,1900,0 %,Aktuel værdi
+Bøgebjergvej 24733 Tappernøje,nøje,5.831.000,27-12-2013,Fam. Salg,16.660,12,Stuehus,350,1870,,
+Pilevej 114733 Tappernøje,nøje,675.000,18-11-2013,Alm. Salg,7.031,3,Villa,96,1966,-9 %,Aktuel værdi
+Oddervænget 174733 Tappernøje,nøje,895.000,07-11-2013,Alm. Salg,8.774,4,Villa,102,1988,,Aktuel værdi
+Hemmestrupvej 24733 Tappernøje,nøje,845.000,05-11-2013,Alm. Salg,5.868,5,Anden beboelse,144,1975,0 %,Aktuel værdi
+Kærvej 104733 Tappernøje,nøje,1.100.000,29-10-2013,Alm. Salg,2.511,10,Villa,438,1902,-12 %,Aktuel værdi
+Bredeshave Strand 24733 Tappernøje,nøje,1.000.000,30-09-2013,Fam. Salg,13.513,3,Villa,74,1986,,Aktuel værdi
+Stenagervej 24733 Tappernøje,nøje,98.550,18-09-2013,Auktion,821,3,Villa,120,1900,,Aktuel værdi
+Snesere Torpvej 264733 Tappernøje,nøje,435.000,16-09-2013,Alm. Salg,4.943,4,Villa,88,1950,-27 %,Aktuel værdi
+Stavnstrupvej 704733 Tappernøje,nøje,1.595.000,13-08-2013,Alm. Salg,6.845,6,Villa,233,1930,0 %,Aktuel værdi
+Pilevej 124733 Tappernøje,nøje,927.000,13-08-2013,Fam. Salg,7.130,6,Villa,130,1967,,Aktuel værdi
+Bøgebjergvej 14733 Tappernøje,nøje,3.500.000,12-08-2013,Alm. Salg,13.944,6,Villa,251,1869,,Aktuel værdi
+Sjoltevej 44733 Tappernøje,nøje,1.850.000,05-08-2013,Alm. Salg,3.767,9,Villa,491,1920,-16 %,Aktuel værdi
+Snesere Torpvej 84733 Tappernøje,nøje,1.680.500,31-07-2013,Alm. Salg,8.530,4,Stuehus,197,1923,-16 %,
+Brøderupvej 364733 Tappernøje,nøje,650.000,18-07-2013,Alm. Salg,4.609,5,Villa,141,1911,-6 %,Aktuel værdi
+Sneserevej 124733 Tappernøje,nøje,426.600,15-07-2013,Auktion,2.666,6,Villa,160,1944,,Aktuel værdi
+Oddervænget 114733 Tappernøje,nøje,605.000,09-07-2013,Auktion,5.401,4,Villa,112,1988,,Aktuel værdi
+Tågeskovvej 114733 Tappernøje,nøje,350.000,17-06-2013,Alm. Salg,2.500,4,Villa,140,1925,0 %,Aktuel værdi
+Stenagervej 44733 Tappernøje,nøje,250.000,10-06-2013,Alm. Salg,2.941,3,Villa,85,1825,,Aktuel værdi
+Skovmosevej 84733 Tappernøje,nøje,1.701.525,04-06-2013,Alm. Salg,11.898,4,Villa,143,1923,,Aktuel værdi
+Sneserevej 24733 Tappernøje,nøje,370.000,29-05-2013,Auktion,3.737,4,Villa,99,1920,25 %,Aktuel værdi
+Sjoltevej 224733 Tappernøje,nøje,950.000,27-05-2013,Alm. Salg,8.878,3,Villa,107,1900,-5 %,Aktuel værdi
+Smidstrupvej 74733 Tappernøje,nøje,438.683,19-04-2013,Fam. Salg,3.749,4,Villa,117,1905,,Aktuel værdi
+Svingkærvej 364733 Tappernøje,nøje,725.000,02-04-2013,Alm. Salg,6.473,4,Villa,112,1980,-6 %,Aktuel værdi
+Sjoltevej 324733 Tappernøje,nøje,1.450.000,02-04-2013,Alm. Salg,7.323,6,Villa,198,1900,,Aktuel værdi
+Hovskovvej 34733 Tappernøje,nøje,3.500.000,25-03-2013,Alm. Salg,12.867,9,Villa,272,1880,,Aktuel værdi
+Kildehøjvej 34733 Tappernøje,nøje,420.000,12-03-2013,Auktion,3.255,4,Villa,129,1977,,Aktuel værdi
+Tågeskov Overdrev 104733 Tappernøje,nøje,191.000,11-03-2013,Auktion,1.736,4,Villa,110,1962,,Aktuel værdi
+Sneppevænget 304733 Tappernøje,nøje,1.354.733,11-03-2013,Fam. Salg,11.289,4,Villa,120,1977,,Aktuel værdi
+Mårvænget 84733 Tappernøje,nøje,920.000,27-02-2013,Alm. Salg,6.618,5,Villa,139,1977,-6 %,Aktuel værdi
+Åsidevej 74733 Tappernøje,nøje,6.900.000,26-02-2013,Fam. Salg,23.389,9,Stuehus,295,1858,,
+Stavnstrupvej 624733 Tappernøje,nøje,235.000,31-01-2013,Alm. Salg,5.875,2,Villa,40,1750,,Aktuel værdi
+Strandvejen 474733 Tappernøje,nøje,1.200.000,04-01-2013,Alm. Salg,14.117,4,Villa,85,1956,,Aktuel værdi
+Hovedvejen 34733 Tappernøje,nøje,795.000,20-12-2012,Alm. Salg,7.098,4,Villa,112,1936,0 %,Aktuel værdi
+Hovedvejen 374733 Tappernøje,nøje,1.500.000,20-12-2012,Alm. Salg,9.868,4,Villa,152,1930,,Aktuel værdi
+Kildebakken 414733 Tappernøje,nøje,1.117.000,11-12-2012,Andet,8.592,4,Stuehus,130,1846,,
+Stavnstrupvej 164733 Tappernøje,nøje,850.000,07-12-2012,Fam. Salg,5.821,5,Villa,146,1840,,Aktuel værdi
+Stavnstrupvej 344733 Tappernøje,nøje,2.382.914,05-12-2012,Alm. Salg,14.441,6,Villa,165,1901,,Aktuel værdi
+Harevænget 754733 Tappernøje,nøje,895.000,04-12-2012,Alm. Salg,7.991,4,Villa,112,1977,-5 %,Aktuel værdi
+Sneserevej 884733 Tappernøje,nøje,225.000,19-11-2012,Auktion,1.530,3,Villa,147,1909,,Aktuel værdi
+Størlingevej 214733 Tappernøje,nøje,952.222,19-10-2012,Alm. Salg,-,4,Villa,139,1906,37 %,Aktuel værdi
+Gl Skolevej 34733 Tappernøje,nøje,150.000,16-10-2012,Alm. Salg,1.401,4,Villa,107,1921,-62 %,Aktuel værdi
+Størlingevej 304733 Tappernøje,nøje,1.100.000,14-10-2012,Alm. Salg,7.857,4,Villa,140,1820,,Aktuel værdi
+Stavnstrupvej 224733 Tappernøje,nøje,1.950.000,28-09-2012,Alm. Salg,10.597,4,Villa,184,1880,-2 %,Aktuel værdi
+Vildtbanevej 114733 Tappernøje,nøje,700.000,25-09-2012,Alm. Salg,5.185,5,Villa,135,1968,-22 %,Aktuel værdi
+Snesere Torpvej 204733 Tappernøje,nøje,3.995.000,06-09-2012,Alm. Salg,19.393,4,Stuehus,206,1880,0 %,
+Kildebakken 274733 Tappernøje,nøje,125.000,28-08-2012,Alm. Salg,538,7,Stuehus,232,1880,,
+Hovedvejen 94733 Tappernøje,nøje,400.000,08-08-2012,Alm. Salg,4.210,4,Villa,95,1948,-11 %,Aktuel værdi
+Strandvejen 654733 Tappernøje,nøje,1.040.806,25-07-2012,Auktion,8.006,3,Villa,130,1877,-39 %,Aktuel værdi
+Sneserevej 804733 Tappernøje,nøje,550.000,02-07-2012,Andet,2.972,5,Villa,185,1904,-27 %,Aktuel værdi
+Bygårdsvej 14733 Tappernøje,nøje,475.000,02-07-2012,Auktion,4.241,4,Villa,112,1971,-21 %,Aktuel værdi
+Centervej 114733 Tappernøje,nøje,1.237.500,22-06-2012,Alm. Salg,6.582,6,Villa,188,2011,,Aktuel værdi
+Everdrupvej 244733 Tappernøje,nøje,90.000,30-05-2012,Auktion,1.384,3,Villa,65,1963,-79 %,Aktuel værdi
+Svingkærvej 124733 Tappernøje,nøje,407.900,24-05-2012,Auktion,3.641,4,Villa,112,1980,-49 %,Aktuel værdi
+Kirkevej 84733 Tappernøje,nøje,275.000,18-05-2012,Alm. Salg,3.055,4,Villa,90,1902,-31 %,Aktuel værdi
+Oddervænget 234733 Tappernøje,nøje,750.000,14-05-2012,Alm. Salg,7.352,4,Villa,102,1988,,Aktuel værdi
+Snesere Torpvej 454733 Tappernøje,nøje,958.218,09-05-2012,Fam. Salg,4.839,5,Stuehus,198,1921,,
+Engelstrupvej 204733 Tappernøje,nøje,425.000,08-05-2012,Alm. Salg,3.935,4,Villa,108,1969,,Aktuel værdi
+Kildebakken 314733 Tappernøje,nøje,375.000,30-04-2012,Auktion,3.947,4,Villa,95,1882,-12 %,Aktuel værdi
+Nyvej 14733 Tappernøje,nøje,600.000,30-04-2012,Alm. Salg,5.825,4,Villa,103,1968,,Aktuel værdi
+Sjoltevej 404733 Tappernøje,nøje,1.400.000,20-04-2012,Alm. Salg,9.333,6,Villa,150,1966,-8 %,Aktuel værdi
+Møllevej 54733 Tappernøje,nøje,575.000,14-04-2012,Andet,3.833,5,Villa,150,1968,,Aktuel værdi
+Mårvænget 294733 Tappernøje,nøje,678.822,03-04-2012,Alm. Salg,6.060,4,Villa,112,1979,,Aktuel værdi
+Sneserevej 14733 Tappernøje,nøje,1.229.000,02-04-2012,Alm. Salg,9.171,6,Villa,134,1913,-18 %,Aktuel værdi
+Brøderupvej 34733 Tappernøje,nøje,460.000,26-03-2012,Alm. Salg,4.423,3,Villa,104,1959,-19 %,Aktuel værdi
+"Hovedvejen 79, 14733 Tappernøje",nøje,10.000,26-03-2012,Auktion,120,3,Anden beboelse,83,1925,,Aktuel værdi
+Rønnedevej 204733 Tappernøje,nøje,9.096.927,26-03-2012,Fam. Salg,55.132,3,Stuehus,165,1900,,
+Brøderupvej 7B4733 Tappernøje,nøje,180.000,15-03-2012,Auktion,2.093,2,Villa,86,1911,,Aktuel værdi
+Sneserevej 904733 Tappernøje,nøje,1.700.000,20-02-2012,Alm. Salg,11.333,4,Villa,150,1890,,Aktuel værdi
+Pilevej 184733 Tappernøje,nøje,674.760,10-02-2012,Alm. Salg,4.621,5,Villa,146,1966,,Aktuel værdi
+Harevænget 334733 Tappernøje,nøje,900.000,26-01-2012,Alm. Salg,7.692,4,Villa,117,1978,-10 %,Aktuel værdi
+Karlshøj 32A4733 Tappernøje,nøje,474.000,20-12-2011,Auktion,3.314,3,Villa,143,1966,,Aktuel værdi
+Sneserevej 754733 Tappernøje,nøje,250.000,14-12-2011,Alm. Salg,2.272,3,Villa,110,1920,0 %,Aktuel værdi
+Sjoltevej 144733 Tappernøje,nøje,1.080.787,22-11-2011,Alm. Salg,4.358,9,Stuehus,248,1900,,
+Flintemosevej 234733 Tappernøje,nøje,468.300,12-11-2011,Fam. Salg,-,5,Sommerhus,97,1854,,Aktuel værdi
+Flintemosevej 84733 Tappernøje,nøje,100.000,09-11-2011,Alm. Salg,1.428,3,Villa,70,1870,,Aktuel værdi
+Kærvej 64733 Tappernøje,nøje,757.625,24-10-2011,Andet,3.845,6,Villa,197,1825,-55 %,Aktuel værdi
+Hovedvejen 524733 Tappernøje,nøje,600.000,12-10-2011,Auktion,4.081,7,Engroshandel,147,1900,,Aktuel værdi
+Harevænget 864733 Tappernøje,nøje,775.000,05-10-2011,Alm. Salg,6.919,4,Villa,112,1978,-9 %,Aktuel værdi
+Brøderupvej 404733 Tappernøje,nøje,701.250,28-09-2011,Fam. Salg,3.895,7,Villa,180,1880,,Aktuel værdi
+Fasanvænget 314733 Tappernøje,nøje,975.000,27-09-2011,Alm. Salg,8.705,4,Villa,112,1979,0 %,Aktuel værdi
+Bredeshave Strand 14733 Tappernøje,nøje,1.800.000,07-09-2011,Alm. Salg,7.860,7,Villa,229,1968,-10 %,Aktuel værdi
+Rønnedevej 244733 Tappernøje,nøje,695.000,31-08-2011,Alm. Salg,6.950,5,Villa,100,1896,0 %,Aktuel værdi
+Scheelsvej 34733 Tappernøje,nøje,1.295.000,27-08-2011,Alm. Salg,7.801,5,Villa,166,1976,0 %,Aktuel værdi
+Mårvænget 74733 Tappernøje,nøje,915.000,22-08-2011,Alm. Salg,7.204,4,Villa,127,1982,-8 %,Aktuel værdi
+Fasanvænget 464733 Tappernøje,nøje,1.100.000,09-08-2011,Alm. Salg,9.821,4,Villa,112,1977,-6 %,Aktuel værdi
+Everdrupvej 154733 Tappernøje,nøje,1.335.000,01-07-2011,Alm. Salg,8.668,5,Villa,154,1916,-11 %,Aktuel værdi
+Hovedvejen 30B4733 Tappernøje,nøje,580.000,16-06-2011,Auktion,5.321,3,Villa,109,1939,,Aktuel værdi
+Fasanvænget 114733 Tappernøje,nøje,850.000,16-06-2011,Alm. Salg,7.391,4,Villa,115,1977,,Aktuel værdi
+Lindhøjgårdsvej 684733 Tappernøje,nøje,2.420.830,05-06-2011,Fam. Salg,19.366,4,Villa,125,2008,21 %,Aktuel værdi
+Sølperupvej 34733 Tappernøje,nøje,1.775.000,23-05-2011,Alm. Salg,12.412,5,Villa,143,1885,-5 %,Aktuel værdi
+Lindhøjgårdsvej 564733 Tappernøje,nøje,1.300.000,09-05-2011,Alm. Salg,9.774,5,Villa,133,2011,,Aktuel værdi
+Flintemosevej 174733 Tappernøje,nøje,525.000,24-04-2011,Alm. Salg,7.608,3,Villa,69,1827,,Aktuel værdi
+Hovedvejen 974733 Tappernøje,nøje,1.275.000,30-03-2011,Andet,3.464,7,Villa,368,1911,,Aktuel værdi
+Askovvej 334733 Tappernøje,nøje,1.025.000,17-03-2011,Auktion,5.423,6,Villa,189,1880,,Aktuel værdi
+Sneserevej 644733 Tappernøje,nøje,625.000,03-03-2011,Auktion,3.612,5,Villa,173,1873,,Aktuel værdi
+Fasanvænget 144733 Tappernøje,nøje,1.125.500,02-03-2011,Alm. Salg,8.591,4,Villa,131,2001,-42 %,Aktuel værdi
+Sneppevænget 214733 Tappernøje,nøje,589.000,25-02-2011,Andet,4.908,4,Villa,120,1978,,Aktuel værdi
+Brøderupvej 114733 Tappernøje,nøje,675.000,09-02-2011,Fam. Salg,4.192,5,Villa,161,1963,-55 %,Aktuel værdi
+Askovvej 544733 Tappernøje,nøje,995.000,04-01-2011,Alm. Salg,8.432,5,Villa,118,1890,0 %,Aktuel værdi
+Leestrup Byvej 54733 Tappernøje,nøje,1.195.000,23-11-2010,Alm. Salg,10.765,4,Villa,111,1941,0 %,Aktuel værdi
+Skovvej 24733 Tappernøje,nøje,5.000.000,13-11-2010,Alm. Salg,22.727,5,Stuehus,220,1935,,
+Jægervænget 74733 Tappernøje,nøje,1.219.994,09-11-2010,Fam. Salg,10.517,4,Villa,116,1974,,Aktuel værdi
+Engelstrupvej 264733 Tappernøje,nøje,1.500.000,28-10-2010,Fam. Salg,6.250,7,Villa,240,1814,,Aktuel værdi
+Smidstrupvej 354733 Tappernøje,nøje,1.405.000,13-10-2010,Alm. Salg,9.493,4,Villa,148,1923,-6 %,Aktuel værdi
+Sneserevej 104733 Tappernøje,nøje,850.000,13-10-2010,Alm. Salg,7.203,4,Villa,118,1942,-3 %,Aktuel værdi
+Tyrehule 44733 Tappernøje,nøje,1.350.000,13-10-2010,Alm. Salg,-,3,Villa,155,1945,,Aktuel værdi
+Everdrupvej 84733 Tappernøje,nøje,1.595.000,29-09-2010,Alm. Salg,9.845,4,Villa,162,1948,,Aktuel værdi
+Stavnstrupvej 414733 Tappernøje,nøje,500.000,22-09-2010,Auktion,4.273,4,Villa,117,1877,,Aktuel værdi
+Askovvej 274733 Tappernøje,nøje,746.697,19-09-2010,Andet,5.656,3,Villa,132,1900,,Aktuel værdi
+St Røttingevej 224733 Tappernøje,nøje,775.000,16-09-2010,Alm. Salg,3.762,8,Villa,206,1916,-13 %,Aktuel værdi
+Egernvænget 624733 Tappernøje,nøje,395.000,13-09-2010,Alm. Salg,1.803,6,Villa,219,2012,-12 %,Aktuel værdi
+Broskovvej 204733 Tappernøje,nøje,800.000,08-09-2010,Alm. Salg,6.201,3,Villa,129,1827,-20 %,Aktuel værdi
+Hovedvejen 534733 Tappernøje,nøje,1.345.000,02-09-2010,Auktion,7.642,8,Villa,176,1929,,Aktuel værdi
+Flintemosevej 124733 Tappernøje,nøje,390.000,01-09-2010,Alm. Salg,6.190,3,Villa,63,1900,-2 %,Aktuel værdi
+Askovvej 524733 Tappernøje,nøje,400.000,20-08-2010,Alm. Salg,5.405,2,Villa,74,1870,-10 %,Aktuel værdi
+Mårvænget 14733 Tappernøje,nøje,950.000,17-08-2010,Alm. Salg,7.851,3,Villa,121,1983,-5 %,Aktuel værdi
+Snigsvej 84733 Tappernøje,nøje,1.100.000,09-08-2010,Alm. Salg,9.909,4,Villa,111,1974,,Aktuel værdi
+Fasanvænget 524733 Tappernøje,nøje,917.743,04-08-2010,Fam. Salg,4.520,4,Villa,203,1979,,Aktuel værdi
+Snesere Torpvej 54733 Tappernøje,nøje,450.000,22-07-2010,Alm. Salg,2.884,5,Villa,156,1935,-71 %,Aktuel værdi
+Saksholmvej 354733 Tappernøje,nøje,10.500.000,17-07-2010,Alm. Salg,10.791,20,Villa,973,1909,,Aktuel værdi
+Kærvej 74733 Tappernøje,nøje,1.750.000,09-07-2010,Alm. Salg,7.709,5,Villa,227,1780,-3 %,Aktuel værdi
+Hovedvejen 394733 Tappernøje,nøje,1.000.000,07-07-2010,Alm. Salg,5.263,6,Villa,190,1943,,Aktuel værdi
+Tågeskov Overdrev 184733 Tappernøje,nøje,1.395.000,07-07-2010,Alm. Salg,13.543,4,Villa,103,1827,0 %,Aktuel værdi
+Sneppevænget 54733 Tappernøje,nøje,1.100.000,17-06-2010,Alm. Salg,10.476,4,Villa,105,1978,-8 %,Aktuel værdi
+Smidstrupvej 214733 Tappernøje,nøje,700.000,14-06-2010,Alm. Salg,2.573,9,Villa,272,1922,-22 %,Aktuel værdi
+Skovvej 44733 Tappernøje,nøje,1.445.000,11-06-2010,Fam. Salg,10.864,3,Stuehus,133,1942,,
+Korskildevej 94733 Tappernøje,nøje,1.575.000,09-06-2010,Alm. Salg,14.062,4,Stuehus,112,1909,-16 %,
+Sneppevænget 234733 Tappernøje,nøje,426.711,09-06-2010,Fam. Salg,4.063,4,Villa,105,1979,,Aktuel værdi
+Brøderupvej 414733 Tappernøje,nøje,500.000,27-05-2010,Alm. Salg,3.846,4,Villa,130,1900,,Aktuel værdi
+Svingkærvej 74733 Tappernøje,nøje,2.450.000,26-05-2010,Auktion,7.954,7,Villa,308,1900,-26 %,Aktuel værdi
+Egernvænget 644733 Tappernøje,nøje,350.000,26-04-2010,Fam. Salg,1.758,6,Villa,199,2012,,Aktuel værdi
+Jægersborgvej 74733 Tappernøje,nøje,1.900.000,31-03-2010,Alm. Salg,16.379,4,Villa,116,1986,,Aktuel værdi
+Mårvænget 264733 Tappernøje,nøje,950.000,09-03-2010,Alm. Salg,8.482,4,Villa,112,1979,-5 %,Aktuel værdi
+Pilevej 104733 Tappernøje,nøje,1.195.000,23-02-2010,Alm. Salg,-,5,Villa,108,1967,,Aktuel værdi
+Kildevej 24733 Tappernøje,nøje,870.000,14-01-2010,Auktion,-,5,Villa,192,1917,-27 %,Aktuel værdi
+Harevænget 464733 Tappernøje,nøje,1.525.000,04-12-2009,Alm. Salg,11.296,5,Villa,135,2008,-4 %,Aktuel værdi
+Sneppevænget 254733 Tappernøje,nøje,960.000,30-11-2009,Alm. Salg,9.142,4,Villa,105,1979,-11 %,Aktuel værdi
+Sneppevænget 74733 Tappernøje,nøje,1.295.000,20-11-2009,Alm. Salg,11.562,4,Villa,112,1978,0 %,Aktuel værdi
+Kildebakken 244733 Tappernøje,nøje,940.000,12-11-2009,Alm. Salg,8.173,4,Villa,115,1963,-4 %,Aktuel værdi
+Mårvænget 94733 Tappernøje,nøje,1.625.000,04-11-2009,Alm. Salg,13.541,4,Villa,120,2000,0 %,Aktuel værdi
+Sølperupvej 64733 Tappernøje,nøje,2.925.000,30-10-2009,Alm. Salg,11.987,11,Villa,244,1926,2 %,Aktuel værdi
+Harevænget 56B4733 Tappernøje,nøje,1.745.000,24-10-2009,Alm. Salg,11.405,5,Villa,153,2008,0 %,Aktuel værdi
+Egernvænget 64733 Tappernøje,nøje,1.379.000,20-10-2009,Alm. Salg,8.565,5,Villa,161,1967,-1 %,Aktuel værdi
+Gl Skolevej 154733 Tappernøje,nøje,1.250.000,01-10-2009,Alm. Salg,8.169,5,Villa,153,1887,,Aktuel værdi
+Sneserevej 364733 Tappernøje,nøje,790.000,29-09-2009,Alm. Salg,7.523,3,Villa,105,1901,-17 %,Aktuel værdi
+Størlingevej 534733 Tappernøje,nøje,2.375.000,24-07-2009,Alm. Salg,10.371,7,Villa,229,1847,0 %,Aktuel værdi
+Harevænget 76A4733 Tappernøje,nøje,1.900.000,17-07-2009,Alm. Salg,13.768,5,Villa,138,2006,-3 %,Aktuel værdi
+Toftegårdsvej 144733 Tappernøje,nøje,890.000,27-05-2009,Alm. Salg,9.270,3,Villa,96,1968,-1 %,Aktuel værdi
+Harevænget 724733 Tappernøje,nøje,1.985.113,25-05-2009,Alm. Salg,14.281,5,Villa,139,2009,5 %,Aktuel værdi
+Egernvænget 504733 Tappernøje,nøje,2.250.000,06-05-2009,Alm. Salg,12.857,5,Villa,175,2008,-2 %,Aktuel værdi
+Rypevænget 234733 Tappernøje,nøje,1.975.000,24-03-2009,Alm. Salg,10.618,5,Villa,186,2004,-6 %,Aktuel værdi
+Harevænget 524733 Tappernøje,nøje,400.000,23-03-2009,Alm. Salg,3.539,3,Villa,113,2010,,Aktuel værdi
+Bårsevej 194733 Tappernøje,nøje,375.000,16-03-2009,Alm. Salg,4.076,4,Villa,92,1877,-32 %,Aktuel værdi
+Kildebakken 184733 Tappernøje,nøje,334.784,12-03-2009,Andet,3.219,3,Villa,104,1930,,Aktuel værdi
+Størlingevej 154733 Tappernøje,nøje,1.062.000,17-02-2009,Fam. Salg,8.362,5,Villa,127,1922,,Aktuel værdi
+Sjoltevej 114733 Tappernøje,nøje,6.885.000,10-02-2009,Fam. Salg,29.934,7,Stuehus,230,1900,,
+Lundhøjvej 54733 Tappernøje,nøje,1.650.000,21-01-2009,Alm. Salg,12.790,5,Villa,129,1978,-7 %,Aktuel værdi
+Stavnstrupvej 524733 Tappernøje,nøje,1.050.000,29-12-2008,Alm. Salg,11.170,3,Villa,94,1905,-9 %,Aktuel værdi
+Kongskildevej 44733 Tappernøje,nøje,3.585.000,17-12-2008,Alm. Salg,9.689,9,Stuehus,370,1924,-10 %,
+Everdrupvej 134733 Tappernøje,nøje,1.830.000,24-10-2008,Alm. Salg,14.186,5,Villa,129,1939,-1 %,Aktuel værdi
+Hulebækvej 24733 Tappernøje,nøje,850.000,24-09-2008,Fam. Salg,4.569,7,Villa,186,1877,,Aktuel værdi
+Størlingevej 94733 Tappernøje,nøje,972.562,22-09-2008,Alm. Salg,2.114,10,Stuehus,460,2002,,
+Nyvej 84733 Tappernøje,nøje,1.395.000,14-09-2008,Alm. Salg,10.568,5,Villa,132,1967,-5 %,Aktuel værdi
+Askovvej 104733 Tappernøje,nøje,150.000,04-09-2008,Alm. Salg,993,4,Stuehus,151,1902,,
+Brøderupvej 484733 Tappernøje,nøje,1.600.000,04-09-2008,Alm. Salg,9.411,5,Villa,170,1800,-6 %,Aktuel værdi
+Stavnstrupvej 514733 Tappernøje,nøje,1.420.000,02-09-2008,Alm. Salg,9.861,5,Rækkehus,144,1802,-5 %,Aktuel værdi
+Størlingevej 724733 Tappernøje,nøje,3.600.000,27-08-2008,Alm. Salg,15.929,7,Stuehus,226,1880,,
+Rønnedevej 334733 Tappernøje,nøje,1.575.000,19-08-2008,Alm. Salg,11.842,5,Stuehus,133,1900,-5 %,
+Hovedvejen 764733 Tappernøje,nøje,5.677.632,14-08-2008,Alm. Salg,54.072,3,Villa,105,1900,,Aktuel værdi
+Brøderupvej 44733 Tappernøje,nøje,1.125.000,08-08-2008,Alm. Salg,8.272,3,Villa,136,1904,,Aktuel værdi
+Højgårdsvej 24733 Tappernøje,nøje,250.000,15-07-2008,Fam. Salg,1.096,7,Stuehus,228,1780,,
+Kildebakken 204733 Tappernøje,nøje,1.525.000,16-06-2008,Alm. Salg,11.466,4,Villa,133,1934,-9 %,Aktuel værdi
+Sjoltevej 154733 Tappernøje,nøje,1.000.000,11-06-2008,Alm. Salg,11.111,4,Villa,90,1877,-16 %,Aktuel værdi
+Bygårdsvej 34733 Tappernøje,nøje,1.640.000,16-05-2008,Alm. Salg,11.714,5,Villa,140,1971,0 %,Aktuel værdi
+Askovvej 314733 Tappernøje,nøje,90.000,14-05-2008,Alm. Salg,468,6,Stuehus,192,1867,,
+Askovvej 504733 Tappernøje,nøje,1.430.000,30-04-2008,Alm. Salg,6.809,7,Villa,210,1880,-8 %,Aktuel værdi
+Smidstrupvej 194733 Tappernøje,nøje,1.055.000,19-04-2008,Alm. Salg,7.814,4,Villa,135,1927,,Aktuel værdi
+Ll Røttingevej 54733 Tappernøje,nøje,2.550.000,17-04-2008,Alm. Salg,17.708,5,Villa,144,1909,0 %,Aktuel værdi
+Hovedvejen 414733 Tappernøje,nøje,1.200.000,01-04-2008,Alm. Salg,6.857,6,Villa,175,1930,-19 %,Aktuel værdi
+Harevænget 894733 Tappernøje,nøje,1.575.000,28-03-2008,Alm. Salg,14.062,4,Villa,112,1977,0 %,Aktuel værdi
+Ny Prøvevej 54733 Tappernøje,nøje,1.550.000,26-03-2008,Alm. Salg,7.750,5,Stuehus,200,2010,,
+Smidstrupvej 534733 Tappernøje,nøje,950.000,14-03-2008,Alm. Salg,7.786,5,Villa,122,1877,6 %,Aktuel værdi
+Snesere Torpvej 134733 Tappernøje,nøje,1.800.000,10-03-2008,Alm. Salg,5.787,7,Villa,311,1902,-10 %,Aktuel værdi
+Egernvænget 684733 Tappernøje,nøje,510.013,26-02-2008,Alm. Salg,3.090,5,Villa,165,2008,,Aktuel værdi
+Rønnedevej 224733 Tappernøje,nøje,2.620.000,19-02-2008,Fam. Salg,13.034,5,Stuehus,201,1936,,
+Stavnstrupvej 784733 Tappernøje,nøje,604.500,31-01-2008,Alm. Salg,7.283,4,Villa,83,1884,,Aktuel værdi
+Karlshøj 94733 Tappernøje,nøje,1.525.000,17-01-2008,Alm. Salg,7.439,9,Villa,205,1907,-8 %,Aktuel værdi
+Hovedvejen 1014733 Tappernøje,nøje,711.060,15-01-2008,Alm. Salg,2.394,8,Stuehus,297,1912,,
+Skovmosevej 34733 Tappernøje,nøje,692.500,21-12-2007,Alm. Salg,4.122,4,Villa,168,1923,,Aktuel værdi
+Bakkehusene 34733 Tappernøje,nøje,450.000,18-12-2007,Alm. Salg,3.543,4,Villa,127,2008,,Aktuel værdi
+Hovedvejen 824733 Tappernøje,nøje,312.500,10-12-2007,Andet,2.648,5,Villa,118,1905,,Aktuel værdi
+Egernvænget 664733 Tappernøje,nøje,510.000,29-11-2007,Alm. Salg,3.333,4,Villa,153,2008,,Aktuel værdi
+Korskildevej 14733 Tappernøje,nøje,1.350.000,15-11-2007,Alm. Salg,6.650,5,Villa,203,1910,0 %,Aktuel værdi
+Flintemosevej 6B4733 Tappernøje,nøje,965.000,03-11-2007,Alm. Salg,7.909,4,Villa,122,1849,,Aktuel værdi
+Lindhøjgårdsvej 604733 Tappernøje,nøje,395.000,30-10-2007,Alm. Salg,1.965,5,Villa,201,2008,,Aktuel værdi
+Askovvej 444733 Tappernøje,nøje,1.095.000,24-10-2007,Alm. Salg,7.300,4,Villa,150,1850,0 %,Aktuel værdi
+Stavnstrupvej 304733 Tappernøje,nøje,2.038.000,23-10-2007,Andet,8.635,6,Villa,236,1901,,Aktuel værdi
+Lindhøjgårdsvej 744733 Tappernøje,nøje,395.000,22-10-2007,Alm. Salg,3.495,3,Villa,113,2009,,Aktuel værdi
+Bakkehusene 24733 Tappernøje,nøje,495.000,19-10-2007,Alm. Salg,2.538,4,Villa,195,2010,,Aktuel værdi
+Sneserevej 314733 Tappernøje,nøje,3.850.000,18-10-2007,Fam. Salg,16.594,7,Villa,232,1927,,Aktuel værdi
+Fasanvænget 14733 Tappernøje,nøje,1.795.000,10-10-2007,Alm. Salg,15.084,4,Villa,119,1976,0 %,Aktuel værdi
+Harevænget 994733 Tappernøje,nøje,1.390.000,09-10-2007,Alm. Salg,12.410,4,Villa,112,1977,0 %,Aktuel værdi
+Kirkevej 24733 Tappernøje,nøje,3.100.000,28-09-2007,Alm. Salg,12.704,7,Villa,244,1942,,Aktuel værdi
+Brøderupvej 354733 Tappernøje,nøje,1.835.000,07-09-2007,Alm. Salg,16.834,3,Villa,109,1907,0 %,Aktuel værdi
+Hovedvejen 884733 Tappernøje,nøje,1.850.000,30-08-2007,Alm. Salg,13.405,5,Villa,138,1924,0 %,Aktuel værdi
+Storgårdsvej 14733 Tappernøje,nøje,1.250.000,26-08-2007,Alm. Salg,7.861,4,Villa,159,1944,,Aktuel værdi
+Askovvej 464733 Tappernøje,nøje,975.000,20-08-2007,Alm. Salg,11.890,3,Villa,82,1965,-2 %,Aktuel værdi
+Rypevænget 524733 Tappernøje,nøje,2.200.000,18-08-2007,Alm. Salg,16.176,5,Villa,136,2004,-2 %,Aktuel værdi
+Askovvej 164733 Tappernøje,nøje,1.250.000,03-08-2007,Alm. Salg,13.440,3,Villa,93,1777,-3 %,Aktuel værdi
+Rypevænget 194733 Tappernøje,nøje,2.350.000,31-07-2007,Alm. Salg,15.986,5,Villa,147,2004,-2 %,Aktuel værdi
+Stavnstrupvej 34733 Tappernøje,nøje,2.250.000,24-07-2007,Alm. Salg,12.711,4,Villa,177,1914,,Aktuel værdi
+Broskovvej 184733 Tappernøje,nøje,9.050.000,23-07-2007,Alm. Salg,34.280,9,Stuehus,264,1906,-3 %,
+Askovvej 414733 Tappernøje,nøje,699.572,12-07-2007,Andet,4.632,4,Villa,151,1917,,Aktuel værdi
+Sneppevænget 24733 Tappernøje,nøje,900.000,06-07-2007,Fam. Salg,7.758,4,Villa,116,1976,,Aktuel værdi
+Hovedvejen 334733 Tappernøje,nøje,925.000,02-07-2007,Alm. Salg,10.054,4,Villa,92,1938,-3 %,Aktuel værdi
+Stavnstrupvej 494733 Tappernøje,nøje,330.000,29-06-2007,Alm. Salg,2.000,6,Rækkehus,165,1803,-22 %,Aktuel værdi
+Bakkehusene 14733 Tappernøje,nøje,450.000,25-06-2007,Alm. Salg,2.903,5,Villa,155,2010,,Aktuel værdi
+Hovedvejen 554733 Tappernøje,nøje,2.300.000,24-06-2007,Alm. Salg,9.623,8,Villa,239,1929,,Aktuel værdi
+Lunden 24733 Tappernøje,nøje,3.100.000,23-06-2007,Alm. Salg,8.333,10,Stuehus,372,1830,-2 %,
+Svingkærvej 144733 Tappernøje,nøje,1.475.000,10-06-2007,Alm. Salg,13.169,4,Villa,112,1979,0 %,Aktuel værdi
+Størlingevej 664733 Tappernøje,nøje,495.000,09-06-2007,Alm. Salg,5.156,3,Villa,96,1954,0 %,Aktuel værdi
+Askovvej 424733 Tappernøje,nøje,1.450.000,24-05-2007,Alm. Salg,15.591,2,Villa,93,1928,0 %,Aktuel værdi
+Rønnedevej 124733 Tappernøje,nøje,2.600.000,23-05-2007,Alm. Salg,17.687,3,Stuehus,147,1929,-5 %,
+Rødlersvej 94733 Tappernøje,nøje,2.800.000,22-05-2007,Alm. Salg,10.370,5,Villa,270,2003,-7 %,Aktuel værdi
+Rypevænget 34733 Tappernøje,nøje,1.995.000,18-05-2007,Alm. Salg,12.314,5,Villa,162,1988,,Aktuel værdi
+Harevænget 444733 Tappernøje,nøje,398.000,08-05-2007,Alm. Salg,2.863,5,Villa,139,2008,,Aktuel værdi
+Everdrupvej 224733 Tappernøje,nøje,1.350.000,01-05-2007,Alm. Salg,14.062,3,Villa,96,1960,0 %,Aktuel værdi
+Hovedvejen 544733 Tappernøje,nøje,1.625.000,30-04-2007,Alm. Salg,10.906,5,Villa,149,1974,0 %,Aktuel værdi
+Smidstrupvej 84733 Tappernøje,nøje,8.000.000,24-04-2007,Alm. Salg,80.000,3,Stuehus,100,1959,,
+Fasanvænget 284733 Tappernøje,nøje,1.645.000,21-04-2007,Alm. Salg,13.373,5,Villa,123,1977,0 %,Aktuel værdi
+Sneserevej 214733 Tappernøje,nøje,1.575.000,17-04-2007,Alm. Salg,14.449,4,Villa,109,1962,-1 %,Aktuel værdi
+Ny Prøvevej 104733 Tappernøje,nøje,2.025.000,13-04-2007,Alm. Salg,15.340,4,Villa,132,1962,0 %,Aktuel værdi
+Hovedvejen 1004733 Tappernøje,nøje,1.800.000,12-04-2007,Alm. Salg,10.465,6,Villa,172,1914,-4 %,Aktuel værdi
+Sølperupvej 2D4733 Tappernøje,nøje,595.000,11-04-2007,Alm. Salg,3.269,5,Villa,182,2011,0 %,Aktuel værdi
+Brøderupvej 524733 Tappernøje,nøje,607.000,02-04-2007,Alm. Salg,6.322,3,Villa,96,1850,2 %,Aktuel værdi
+Jægervænget 114733 Tappernøje,nøje,1.825.000,02-04-2007,Alm. Salg,15.208,4,Villa,120,1974,0 %,Aktuel værdi
+Skovholmvej 54733 Tappernøje,nøje,395.500,01-04-2007,Fam. Salg,3.839,3,Villa,103,1880,,Aktuel værdi
+Bredeshave Strand 10B4733 Tappernøje,nøje,1.550.000,06-03-2007,Alm. Salg,8.908,4,Villa,174,2013,,Aktuel værdi
+Hovedvejen 424733 Tappernøje,nøje,1.900.000,27-02-2007,Alm. Salg,17.272,4,Villa,110,1968,,Aktuel værdi
+Snesere Torpvej 284733 Tappernøje,nøje,1.730.000,21-02-2007,Alm. Salg,10.236,6,Villa,169,1918,,Aktuel værdi
+Rypevænget 134733 Tappernøje,nøje,1.655.000,15-02-2007,Alm. Salg,12.350,6,Villa,134,1988,,Aktuel værdi
+Centervej 74733 Tappernøje,nøje,285.000,05-02-2007,Alm. Salg,1.446,7,Villa,197,2007,,Aktuel værdi
+Flintemosevej 204733 Tappernøje,nøje,1.100.000,05-02-2007,Alm. Salg,11.340,6,Villa,97,1872,,Aktuel værdi
+Hovedvejen 874733 Tappernøje,nøje,500.000,25-01-2007,Fam. Salg,3.125,5,Villa,160,1935,,Aktuel værdi
+Flintemosevej 14733 Tappernøje,nøje,2.100.000,15-01-2007,Alm. Salg,15.000,5,Stuehus,140,1921,-5 %,
+Mårvænget 44733 Tappernøje,nøje,2.750.000,12-01-2007,Alm. Salg,15.027,5,Villa,183,2004,,Aktuel værdi
+Ll Røttingevej 84733 Tappernøje,nøje,1.275.000,04-01-2007,Alm. Salg,10.714,4,Villa,119,1827,,Aktuel værdi
+Sneppevænget 164733 Tappernøje,nøje,875.000,20-12-2006,Alm. Salg,7.743,4,Villa,113,1976,,Aktuel værdi
+Fasanvænget 64733 Tappernøje,nøje,1.865.000,12-12-2006,Alm. Salg,12.032,5,Villa,155,1973,,Aktuel værdi
+Størlingevej 424733 Tappernøje,nøje,3.600.000,27-11-2006,Alm. Salg,12.456,8,Villa,289,1900,,Aktuel værdi
+Sneppevænget 44733 Tappernøje,nøje,1.425.000,21-11-2006,Alm. Salg,-,7,Villa,180,1978,,Aktuel værdi
+Strandvejen 94733 Tappernøje,nøje,1.965.000,20-11-2006,Alm. Salg,9.825,4,Villa,200,1900,,Aktuel værdi
+Strandvejen 754733 Tappernøje,nøje,1.550.000,09-11-2006,Alm. Salg,-,10,Villa,227,1939,,Aktuel værdi
+Sneserevej 404733 Tappernøje,nøje,1.365.000,30-10-2006,Alm. Salg,10.500,4,Villa,130,1877,,Aktuel værdi
+Størlingevej 484733 Tappernøje,nøje,2.400.000,26-10-2006,Alm. Salg,13.259,5,Villa,181,1840,,Aktuel værdi
+Brøderupvej 344733 Tappernøje,nøje,552.500,15-10-2006,Fam. Salg,7.366,4,Villa,75,1917,,Aktuel værdi
+Harevænget 484733 Tappernøje,nøje,348.000,13-10-2006,Alm. Salg,2.503,5,Villa,139,2010,,Aktuel værdi
+Rypevænget 424733 Tappernøje,nøje,1.595.000,13-10-2006,Alm. Salg,15.637,4,Villa,102,1988,,Aktuel værdi
+Skovholmvej 94733 Tappernøje,nøje,1.300.000,12-10-2006,Alm. Salg,7.558,4,Villa,172,1967,,Aktuel værdi
+Størlingevej 404733 Tappernøje,nøje,2.200.000,02-10-2006,Alm. Salg,14.285,7,Villa,154,1920,,Aktuel værdi
+Hovedvejen 494733 Tappernøje,nøje,1.300.000,25-09-2006,Alm. Salg,13.541,3,Villa,96,1960,,Aktuel værdi
+Sneppevænget 154733 Tappernøje,nøje,1.575.000,04-09-2006,Alm. Salg,13.235,4,Villa,119,1978,,Aktuel værdi
+Pilevej 54733 Tappernøje,nøje,1.118.000,03-09-2006,Alm. Salg,10.750,4,Villa,104,1965,,Aktuel værdi
+Harevænget 58A4733 Tappernøje,nøje,348.000,01-09-2006,Alm. Salg,2.320,5,Villa,150,2009,,Aktuel værdi
+Oddervænget 84733 Tappernøje,nøje,1.575.000,30-08-2006,Alm. Salg,12.209,4,Villa,129,1986,,Aktuel værdi
+Tågeskov Overdrev 204733 Tappernøje,nøje,1.250.000,31-07-2006,Alm. Salg,18.939,3,Villa,66,1877,,Aktuel værdi
+Harevænget 544733 Tappernøje,nøje,348.000,28-07-2006,Alm. Salg,1.766,8,Villa,197,2007,,Aktuel værdi
+Mårvænget 114733 Tappernøje,nøje,300.000,10-07-2006,Alm. Salg,1.775,5,Villa,169,2008,,Aktuel værdi
+Skovholmvej 14733 Tappernøje,nøje,1.700.000,10-07-2006,Alm. Salg,9.497,5,Villa,179,1910,,Aktuel værdi
+Kildebakken 124733 Tappernøje,nøje,1.000.000,07-07-2006,Alm. Salg,10.416,3,Villa,96,1963,,Aktuel værdi
+Lundhøjvej 164733 Tappernøje,nøje,1.350.000,05-07-2006,Alm. Salg,10.546,4,Villa,128,1977,,Aktuel værdi
+Tværvej 14733 Tappernøje,nøje,1.005.000,05-07-2006,Alm. Salg,10.923,2,Villa,92,1925,,Aktuel værdi
+Bårsevej 74733 Tappernøje,nøje,1.345.000,04-07-2006,Alm. Salg,9.746,4,Villa,138,1877,,Aktuel værdi
+Hjortevej 14733 Tappernøje,nøje,1.795.000,04-07-2006,Alm. Salg,10.141,5,Villa,177,1974,,Aktuel værdi
+Brydesvej 24733 Tappernøje,nøje,340.000,01-07-2006,Alm. Salg,5.964,2,Dobbelthus,57,1988,,Aktuel værdi
+"Brydesvej 6, ST. TH4733 Tappernøje",nøje,1.000.000,01-07-2006,Alm. Salg,9.523,3,Lejlighed,105,1902,,Aktuel værdi
+Brydesvej 44733 Tappernøje,nøje,1.000.000,01-07-2006,Alm. Salg,11.764,3,Dobbelthus,85,1988,,Aktuel værdi
+"Brydesvej 6, ST. TV4733 Tappernøje",nøje,530.000,01-07-2006,Alm. Salg,4.568,3,Lejlighed,116,1902,,Aktuel værdi
+"Brydesvej 6, 1. TV4733 Tappernøje",nøje,530.000,01-07-2006,Alm. Salg,4.568,3,Lejlighed,116,1902,,Aktuel værdi
+"Brydesvej 6, 2. TH4733 Tappernøje",nøje,550.000,01-07-2006,Alm. Salg,5.238,3,Lejlighed,105,1902,,Aktuel værdi
+"Brydesvej 6, 1. TH4733 Tappernøje",nøje,550.000,01-07-2006,Alm. Salg,5.238,3,Lejlighed,105,1902,,Aktuel værdi
+"Brydesvej 6, 2. TV4733 Tappernøje",nøje,1.200.000,01-07-2006,Alm. Salg,10.344,3,Lejlighed,116,1902,,Aktuel værdi
+Leestrup Skovvej 174733 Tappernøje,nøje,1.500.000,29-06-2006,Alm. Salg,-,3,Villa,100,1877,,Aktuel værdi
+Egernvænget 174733 Tappernøje,nøje,198.500,24-06-2006,Alm. Salg,1.084,5,Villa,183,2008,,Aktuel værdi
+Oddervænget 64733 Tappernøje,nøje,1.255.000,22-06-2006,Alm. Salg,11.205,4,Villa,112,1983,,Aktuel værdi
+Fasanvænget 334733 Tappernøje,nøje,1.040.000,17-06-2006,Alm. Salg,6.842,7,Villa,152,1979,,Aktuel værdi
+Sneppevænget 244733 Tappernøje,nøje,1.645.000,15-06-2006,Alm. Salg,11.040,4,Villa,149,1976,,Aktuel værdi
+Askovvej 174733 Tappernøje,nøje,2.407.000,14-06-2006,Alm. Salg,13.994,5,Villa,172,1979,,Aktuel værdi
+Fasanvænget 544733 Tappernøje,nøje,2.495.000,13-06-2006,Alm. Salg,14.505,5,Villa,172,2004,,Aktuel værdi
+Sneserevej 16B4733 Tappernøje,nøje,1.180.000,09-06-2006,Alm. Salg,9.833,2,Villa,120,1951,,Aktuel værdi
+Lundhøjvej 114733 Tappernøje,nøje,1.250.000,06-06-2006,Alm. Salg,9.469,4,Villa,132,1979,,Aktuel værdi
+Everdrupvej 104733 Tappernøje,nøje,1.545.000,10-05-2006,Alm. Salg,7.357,5,Villa,210,1942,,Aktuel værdi
+Everdrupvej 274733 Tappernøje,nøje,4.750.000,04-05-2006,Alm. Salg,-,7,Stuehus,229,1927,,
+Tværvej 34733 Tappernøje,nøje,1.720.000,03-05-2006,Alm. Salg,11.466,4,Villa,150,1945,,Aktuel værdi
+Fasanvænget 304733 Tappernøje,nøje,1.260.000,28-04-2006,Alm. Salg,11.250,4,Villa,112,1977,,Aktuel værdi
+Brøderupvej 264733 Tappernøje,nøje,700.003,24-04-2006,Andet,4.964,6,Villa,141,1866,,Aktuel værdi
+Sneserevej 584733 Tappernøje,nøje,2.500.000,10-04-2006,Alm. Salg,10.330,6,Stuehus,242,1880,,
+Smidstrupvej 224733 Tappernøje,nøje,1.514.000,06-04-2006,Alm. Salg,10.026,5,Villa,151,1928,,Aktuel værdi
+Jægersborgvej 44733 Tappernøje,nøje,1.650.000,31-03-2006,Alm. Salg,10.855,5,Villa,152,1971,,Aktuel værdi
+Sneserevej 34733 Tappernøje,nøje,975.000,30-03-2006,Alm. Salg,-,4,Villa,138,1929,,Aktuel værdi
+Bårsevej 174733 Tappernøje,nøje,134.800,24-03-2006,Alm. Salg,1.053,5,Villa,128,1906,,Aktuel værdi
+Smidstrupvej 284733 Tappernøje,nøje,895.000,16-03-2006,Alm. Salg,11.933,2,Villa,75,1907,,Aktuel værdi
+Fasanvænget 184733 Tappernøje,nøje,435.000,07-03-2006,Andet,3.883,4,Villa,112,1978,,Aktuel værdi
+Fasanvænget 74733 Tappernøje,nøje,1.465.000,21-02-2006,Alm. Salg,12.415,4,Villa,118,1993,,Aktuel værdi
+Sølperupvej 5A4733 Tappernøje,nøje,3.070.000,19-02-2006,Fam. Salg,19.554,8,Stuehus,157,1880,,
+"Hovedvejen 68, 14733 Tappernøje",nøje,569.500,16-02-2006,Fam. Salg,7.396,3,Anden beboelse,77,1927,,Aktuel værdi
+Flintemosevej 224733 Tappernøje,nøje,595.000,13-02-2006,Fam. Salg,5.666,5,Villa,105,1860,,Aktuel værdi
+Harevænget 694733 Tappernøje,nøje,2.325.000,10-02-2006,Alm. Salg,14.808,5,Villa,157,2004,,Aktuel værdi
+Hovedvejen 314733 Tappernøje,nøje,895.000,07-02-2006,Alm. Salg,9.322,4,Villa,96,1949,,Aktuel værdi
+Harevænget 704733 Tappernøje,nøje,1.700.000,07-02-2006,Alm. Salg,11.333,5,Villa,150,2006,,Aktuel værdi
+Gl Skolevej 274733 Tappernøje,nøje,720.000,07-02-2006,Fam. Salg,3.750,7,Villa,192,1877,,Aktuel værdi
+Kildevej 134733 Tappernøje,nøje,1.025.000,27-01-2006,Alm. Salg,8.134,3,Villa,126,1977,,Aktuel værdi
+St Røttingevej 84733 Tappernøje,nøje,1.250.000,27-01-2006,Alm. Salg,9.689,5,Villa,129,1966,,Aktuel værdi
+Rønnedevej 374733 Tappernøje,nøje,808.000,20-01-2006,Fam. Salg,5.179,4,Villa,156,1889,,Aktuel værdi
+Hjortevej 64733 Tappernøje,nøje,1.150.000,14-01-2006,Alm. Salg,9.913,4,Villa,116,1976,,Aktuel værdi
+Rypevænget 114733 Tappernøje,nøje,1.320.000,05-12-2005,Alm. Salg,12.941,4,Villa,102,1988,,Aktuel værdi
+Svingkærvej 244733 Tappernøje,nøje,1.285.000,01-12-2005,Alm. Salg,12.598,4,Villa,102,1988,,Aktuel værdi
+Hjortevej 34733 Tappernøje,nøje,1.165.566,28-11-2005,Fam. Salg,6.585,7,Villa,177,1973,,Aktuel værdi
+Sneserevej 324733 Tappernøje,nøje,924.066,28-11-2005,Fam. Salg,10.744,3,Villa,86,1961,,Aktuel værdi
+Strandvejen 194733 Tappernøje,nøje,1.815.000,24-11-2005,Alm. Salg,9.705,6,Villa,187,1877,,Aktuel værdi
+"Hovedvejen 67, 14733 Tappernøje",nøje,2.430.000,22-11-2005,Alm. Salg,12.789,7,Anden beboelse,190,1936,,Aktuel værdi
+Smidstrupvej 114733 Tappernøje,nøje,850.000,21-11-2005,Alm. Salg,-,5,Villa,206,1928,,Aktuel værdi
+Hovedvejen 81F4733 Tappernøje,nøje,1.450.000,09-11-2005,Alm. Salg,9.294,4,Lejlighed,156,1927,,Aktuel værdi
+Harevænget 664733 Tappernøje,nøje,270.500,05-11-2005,Alm. Salg,1.932,5,Villa,140,2006,,Aktuel værdi
+Saksholmvej 434733 Tappernøje,nøje,1.295.000,03-11-2005,Alm. Salg,8.043,5,Villa,161,1900,,Aktuel værdi
+Oddervænget 14733 Tappernøje,nøje,900.000,02-11-2005,Fam. Salg,8.108,3,Villa,111,1973,,Aktuel værdi
+Mårvænget 224733 Tappernøje,nøje,1.395.000,27-10-2005,Alm. Salg,12.455,4,Villa,112,1978,,Aktuel værdi
+Harevænget 684733 Tappernøje,nøje,270.500,19-10-2005,Alm. Salg,1.639,5,Villa,165,2010,,Aktuel værdi
+Kærvej 44733 Tappernøje,nøje,391.867,12-10-2005,Alm. Salg,4.213,4,Villa,93,1960,,Aktuel værdi
+Rypevænget 174733 Tappernøje,nøje,2.300.000,10-10-2005,Alm. Salg,16.197,4,Villa,142,2004,,Aktuel værdi
+Everdrupvej 74733 Tappernøje,nøje,571.732,08-10-2005,Andet,2.634,8,Villa,217,1924,,Aktuel værdi
+Flintemosevej 94733 Tappernøje,nøje,900.000,01-10-2005,Alm. Salg,13.846,2,Villa,65,1882,,Aktuel værdi
+Egernvænget 224733 Tappernøje,nøje,350.000,29-09-2005,Alm. Salg,1.583,5,Villa,221,2008,,Aktuel værdi
+Harevænget 80B4733 Tappernøje,nøje,270.500,28-09-2005,Alm. Salg,1.932,5,Villa,140,2006,,Aktuel værdi
+Tværvej 54733 Tappernøje,nøje,975.000,20-09-2005,Alm. Salg,10.156,3,Villa,96,1951,,Aktuel værdi
+Rønnedevej 284733 Tappernøje,nøje,785.000,16-09-2005,Alm. Salg,9.812,3,Villa,80,1881,,Aktuel værdi
+Brøderupvej 84733 Tappernøje,nøje,1.250.000,08-09-2005,Alm. Salg,10.869,4,Villa,115,1966,,Aktuel værdi
+Kildebakken 14733 Tappernøje,nøje,100.000,05-09-2005,Alm. Salg,458,10,Villa,218,1870,,Aktuel værdi
+Smidstrupvej 544733 Tappernøje,nøje,2.500.000,03-09-2005,Alm. Salg,15.625,5,Stuehus,160,1877,,
+St Røttingevej 104733 Tappernøje,nøje,1.035.000,23-08-2005,Alm. Salg,-,5,Villa,186,1856,,Aktuel værdi
+Hovedvejen 514733 Tappernøje,nøje,925.000,13-08-2005,Alm. Salg,10.511,3,Villa,88,1958,,Aktuel værdi
+Hovedvejen 204733 Tappernøje,nøje,977.500,13-08-2005,Fam. Salg,5.522,5,Villa,177,1953,,Aktuel værdi
+Hovedvejen 81D4733 Tappernøje,nøje,1.195.000,12-08-2005,Alm. Salg,9.122,3,Lejlighed,131,1927,,Aktuel værdi
+Jægervænget 134733 Tappernøje,nøje,1.095.000,09-08-2005,Alm. Salg,10.735,4,Villa,102,1974,,Aktuel værdi
+Hovedvejen 264733 Tappernøje,nøje,1.000.000,02-08-2005,Alm. Salg,5.405,6,Villa,185,1925,,Aktuel værdi
+Kærvej 144733 Tappernøje,nøje,1.326.000,01-08-2005,Andet,6.254,4,Villa,212,1680,,Aktuel værdi
+Vildtbanevej 94733 Tappernøje,nøje,800.000,20-07-2005,Fam. Salg,7.142,5,Villa,112,1969,,Aktuel værdi
+St Røttingevej 44733 Tappernøje,nøje,1.825.000,20-07-2005,Alm. Salg,10.928,5,Villa,167,1977,,Aktuel værdi
+Rønnedevej 264733 Tappernøje,nøje,1.500.000,19-07-2005,Alm. Salg,8.823,4,Villa,170,1952,,Aktuel værdi
+Hovedvejen 81E4733 Tappernøje,nøje,1.045.000,15-07-2005,Alm. Salg,10.773,3,Lejlighed,97,1927,,Aktuel værdi
+Tågeskov By 44733 Tappernøje,nøje,850.000,12-07-2005,Alm. Salg,-,5,Villa,159,1895,,Aktuel værdi
+Hybenvej 24733 Tappernøje,nøje,754.904,10-07-2005,Andet,6.087,4,Villa,124,1972,,Aktuel værdi
+Scheelsvej 14733 Tappernøje,nøje,2.500.000,09-07-2005,Alm. Salg,14.705,5,Villa,170,1970,,Aktuel værdi
+Egernvænget 54733 Tappernøje,nøje,250.000,30-06-2005,Alm. Salg,1.269,5,Villa,197,2008,,Aktuel værdi
+Harevænget 78A4733 Tappernøje,nøje,270.500,17-06-2005,Alm. Salg,1.669,5,Villa,162,2005,,Aktuel værdi
+Harevænget 354733 Tappernøje,nøje,1.175.000,12-06-2005,Alm. Salg,11.519,4,Villa,102,1987,,Aktuel værdi
+Egernvænget 264733 Tappernøje,nøje,150.000,08-06-2005,Alm. Salg,694,6,Villa,216,2006,,Aktuel værdi
+Everdrupvej 174733 Tappernøje,nøje,1.610.000,05-06-2005,Alm. Salg,10.189,6,Villa,158,1912,,Aktuel værdi
+Brøderupvej 194733 Tappernøje,nøje,555.000,02-06-2005,Alm. Salg,6.306,3,Villa,88,1925,,Aktuel værdi
+St Røttingevej 94733 Tappernøje,nøje,439.109,31-05-2005,Alm. Salg,4.142,3,Villa,106,1909,,Aktuel værdi
+Sneserevej 344733 Tappernøje,nøje,735.000,30-05-2005,Alm. Salg,8.352,3,Villa,88,1961,,Aktuel værdi
+Everdrupvej 164733 Tappernøje,nøje,1.350.000,22-05-2005,Alm. Salg,6.164,5,Villa,219,1827,,Aktuel værdi
+Smidstrupvej 644733 Tappernøje,nøje,5.500.000,20-05-2005,Fam. Salg,25.000,7,Stuehus,220,1900,,
+Smidstrupvej 664733 Tappernøje,nøje,1.300.000,20-05-2005,Fam. Salg,-,4,Villa,67,1924,,Aktuel værdi
+Hovedvejen 44733 Tappernøje,nøje,2.100.000,15-05-2005,Alm. Salg,4.918,10,Villa,427,1912,,Aktuel værdi
+Ny Prøvevej 84733 Tappernøje,nøje,2.400.000,13-05-2005,Alm. Salg,6.818,5,Villa,352,1877,,Aktuel værdi
+Leestrup Byvej 144733 Tappernøje,nøje,2.398.750,12-05-2005,Alm. Salg,10.078,7,Stuehus,238,2009,,
+Harevænget 824733 Tappernøje,nøje,1.395.000,30-04-2005,Alm. Salg,7.045,7,Villa,198,1978,,Aktuel værdi
+Mårvænget 24733 Tappernøje,nøje,1.035.000,11-04-2005,Alm. Salg,7.137,4,Villa,145,1964,,Aktuel værdi
+Egernvænget 164733 Tappernøje,nøje,190.000,04-04-2005,Alm. Salg,1.079,4,Villa,176,2006,,Aktuel værdi
+Smidstrupvej 44733 Tappernøje,nøje,645.000,30-03-2005,Alm. Salg,4.031,7,Villa,160,1909,,Aktuel værdi
+Smidstrupvej 314733 Tappernøje,nøje,1.300.000,29-03-2005,Fam. Salg,9.027,5,Villa,144,1930,,Aktuel værdi
+Harevænget 914733 Tappernøje,nøje,1.010.000,24-03-2005,Alm. Salg,9.017,4,Villa,112,1977,,Aktuel værdi
+Hovvej 74733 Tappernøje,nøje,765.000,22-03-2005,Alm. Salg,6.538,5,Villa,117,1900,,Aktuel værdi
+Harevænget 744733 Tappernøje,nøje,270.500,18-03-2005,Alm. Salg,2.033,5,Villa,133,2005,,Aktuel værdi
+Kildebakken 174733 Tappernøje,nøje,1.725.000,12-03-2005,Alm. Salg,7.666,7,Villa,225,1929,,Aktuel værdi
+Teglvej 4A4733 Tappernøje,nøje,1.150.000,10-03-2005,Alm. Salg,12.234,3,Villa,94,1998,,Aktuel værdi
+Sneserevej 54733 Tappernøje,nøje,610.000,28-02-2005,Alm. Salg,6.100,4,Villa,100,1916,,Aktuel værdi
+Skovmosevej 54733 Tappernøje,nøje,1.197.500,28-02-2005,Fam. Salg,5.206,6,Villa,230,1923,,Aktuel værdi
+Hovedvejen 804733 Tappernøje,nøje,995.000,23-02-2005,Alm. Salg,4.606,5,Villa,216,1910,,Aktuel værdi
+Brøderupvej 444733 Tappernøje,nøje,962.200,12-02-2005,Alm. Salg,7.886,4,Villa,122,1900,,Aktuel værdi
+Pilevej 34733 Tappernøje,nøje,870.000,04-02-2005,Alm. Salg,9.666,3,Villa,90,1966,,Aktuel værdi
+Ll Røttingevej 124733 Tappernøje,nøje,1.100.000,30-01-2005,Alm. Salg,-,4,Stuehus,260,1870,,
+Sjoltevej 344733 Tappernøje,nøje,1.800.000,29-01-2005,Alm. Salg,7.287,6,Villa,247,2011,,Aktuel værdi
+Brøderupvej 244733 Tappernøje,nøje,5.475.000,14-01-2005,Alm. Salg,27.375,5,Stuehus,200,1877,,
+Hovedvejen 30A4733 Tappernøje,nøje,1.003.449,06-01-2005,Fam. Salg,-,5,Villa,182,1929,,Aktuel værdi
+Sølperupvej 14733 Tappernøje,nøje,1.250.000,05-01-2005,Alm. Salg,5.924,5,Villa,211,1877,,Aktuel værdi
+Hovedvejen 444733 Tappernøje,nøje,637.500,05-01-2005,Fam. Salg,4.553,5,Villa,140,1929,,Aktuel værdi
+Sneserevej 244733 Tappernøje,nøje,695.000,03-01-2005,Alm. Salg,9.144,4,Villa,76,1951,,Aktuel værdi
+Brøderupvej 64733 Tappernøje,nøje,415.000,20-12-2004,Andet,3.458,4,Villa,120,1910,,Aktuel værdi
+Hjortevej 44733 Tappernøje,nøje,1.116.000,20-12-2004,Fam. Salg,6.603,5,Villa,169,1974,,Aktuel værdi
+Egernvænget 204733 Tappernøje,nøje,80.000,11-12-2004,Alm. Salg,555,4,Villa,144,2006,,Aktuel værdi
+Everdrupvej 264733 Tappernøje,nøje,618.985,30-11-2004,Alm. Salg,5.032,4,Villa,123,1972,,Aktuel værdi
+Korskildevej 44733 Tappernøje,nøje,1.695.000,23-11-2004,Alm. Salg,9.313,7,Villa,182,1780,,Aktuel værdi
+Teglvej 2A4733 Tappernøje,nøje,1.000.000,03-11-2004,Alm. Salg,8.620,4,Villa,116,1971,,Aktuel værdi
+Sneppevænget 104733 Tappernøje,nøje,870.000,26-10-2004,Alm. Salg,-,4,Villa,113,1976,,Aktuel værdi
+Askovvej 194733 Tappernøje,nøje,1.035.000,22-10-2004,Alm. Salg,7.392,4,Villa,140,1932,,Aktuel værdi
+Engelstrupvej 14733 Tappernøje,nøje,725.000,19-10-2004,Alm. Salg,5.620,4,Villa,129,1960,,Aktuel værdi
+Fasanvænget 174733 Tappernøje,nøje,687.500,05-10-2004,Alm. Salg,3.489,6,Villa,197,1998,,Aktuel værdi
+Kildebakken 394733 Tappernøje,nøje,791.925,06-09-2004,Andet,3.369,8,Villa,235,1989,,Aktuel værdi
+Kildebakken 214733 Tappernøje,nøje,875.000,01-09-2004,Alm. Salg,5.434,6,Villa,161,1948,,Aktuel værdi
+Strandvejen 494733 Tappernøje,nøje,1.815.000,21-08-2004,Alm. Salg,16.061,4,Villa,113,1837,,Aktuel værdi
+Møllevej 34733 Tappernøje,nøje,1.050.000,18-08-2004,Alm. Salg,11.931,3,Villa,88,1968,,Aktuel værdi
+Ll Røttingevej 174733 Tappernøje,nøje,775.000,16-08-2004,Alm. Salg,7.524,4,Villa,103,1860,,Aktuel værdi
+Snesere Torpvej 114733 Tappernøje,nøje,875.000,03-08-2004,Alm. Salg,6.481,5,Villa,135,1920,,Aktuel værdi
+Hovedvejen 654733 Tappernøje,nøje,775.000,26-07-2004,Alm. Salg,6.200,5,Villa,125,1934,,Aktuel værdi
+Flintemosevej 34733 Tappernøje,nøje,2.050.000,06-07-2004,Alm. Salg,7.824,10,Villa,262,1922,,Aktuel værdi
+Sneserevej 464733 Tappernøje,nøje,925.000,22-06-2004,Fam. Salg,9.343,3,Villa,99,1910,,Aktuel værdi
+Kongskildevej 64733 Tappernøje,nøje,480.000,16-06-2004,Alm. Salg,9.600,2,Villa,50,1827,,Aktuel værdi
+Egernvænget 294733 Tappernøje,nøje,93.800,14-06-2004,Alm. Salg,432,6,Villa,217,2009,,Aktuel værdi
+Egernvænget 274733 Tappernøje,nøje,91.400,14-06-2004,Alm. Salg,491,5,Villa,186,2005,,Aktuel værdi
+Størlingevej 684733 Tappernøje,nøje,298.000,07-06-2004,Fam. Salg,3.973,4,Villa,75,1884,,Aktuel værdi
+Mårvænget 104733 Tappernøje,nøje,995.000,04-06-2004,Alm. Salg,8.883,4,Villa,112,1979,,Aktuel værdi
+Tågeskovvej 164733 Tappernøje,nøje,1.400.000,03-06-2004,Alm. Salg,10.294,5,Villa,136,1917,,Aktuel værdi
+Everdrupvej 234733 Tappernøje,nøje,385.000,02-06-2004,Fam. Salg,3.437,4,Villa,112,1901,,Aktuel værdi
+Harevænget 814733 Tappernøje,nøje,1.490.000,24-05-2004,Alm. Salg,12.627,4,Villa,118,2004,,Aktuel værdi
+Tågeskov Overdrev 12A4733 Tappernøje,nøje,1.385.000,24-05-2004,Alm. Salg,4.616,6,Villa,300,2010,,Aktuel værdi
+Bredeshave Strand 84733 Tappernøje,nøje,2.208.425,13-05-2004,Alm. Salg,12.002,6,Villa,184,1965,,Aktuel værdi
+Engelstrupvej 64733 Tappernøje,nøje,950.000,10-05-2004,Alm. Salg,4.846,5,Villa,196,1930,,Aktuel værdi
+Sneserevej 444733 Tappernøje,nøje,550.000,10-05-2004,Alm. Salg,5.092,4,Villa,108,1922,,Aktuel værdi
+Smidstrupvej 824733 Tappernøje,nøje,1.555.000,21-04-2004,Alm. Salg,9.841,5,Villa,158,1934,,Aktuel værdi
+Sneserevej 694733 Tappernøje,nøje,1.800.000,21-04-2004,Alm. Salg,9.523,6,Villa,189,1903,,Aktuel værdi
+Smidstrupvej 564733 Tappernøje,nøje,625.000,19-04-2004,Alm. Salg,4.401,6,Villa,142,2016,,Aktuel værdi
+Tågeskov Overdrev 224733 Tappernøje,nøje,2.250.000,17-04-2004,Alm. Salg,12.228,8,Stuehus,184,1947,,
+Sneppevænget 134733 Tappernøje,nøje,995.000,05-04-2004,Alm. Salg,9.476,4,Villa,105,1978,,Aktuel værdi
+Bækkeskov Stræde 224733 Tappernøje,nøje,2.200.000,05-04-2004,Alm. Salg,15.277,5,Stuehus,144,1934,,
+Svingkærvej 304733 Tappernøje,nøje,1.225.000,30-03-2004,Alm. Salg,12.009,4,Villa,102,1989,,Aktuel værdi
+Sjoltevej 204733 Tappernøje,nøje,890.000,30-03-2004,Alm. Salg,9.270,2,Villa,96,1850,,Aktuel værdi
+Karlshøj 64733 Tappernøje,nøje,980.000,18-03-2004,Alm. Salg,-,7,Villa,196,1937,,Aktuel værdi
+Fasanvænget 374733 Tappernøje,nøje,185.000,08-03-2004,Alm. Salg,1.468,3,Villa,126,2004,,Aktuel værdi
+Kildevej 114733 Tappernøje,nøje,1.150.000,07-03-2004,Alm. Salg,8.582,5,Villa,134,1973,,Aktuel værdi
+Stavnstrupvej 534733 Tappernøje,nøje,1.345.000,11-02-2004,Alm. Salg,8.966,6,Villa,150,1948,,Aktuel værdi
+Sneserevej 184733 Tappernøje,nøje,625.000,10-02-2004,Andet,4.960,5,Villa,126,1952,,Aktuel værdi
+Smidstrupvej 714733 Tappernøje,nøje,62.610,02-02-2004,Alm. Salg,391,8,Stuehus,160,1916,,
+Engelstrupvej 324733 Tappernøje,nøje,270.000,22-01-2004,Alm. Salg,3.857,5,Villa,70,1875,,Aktuel værdi
+Sneppevænget 144733 Tappernøje,nøje,1.265.000,17-12-2003,Alm. Salg,8.784,5,Villa,144,1978,,Aktuel værdi
+Flintemosevej 114733 Tappernøje,nøje,620.000,27-10-2003,Alm. Salg,6.739,4,Villa,92,1917,,Aktuel værdi
+Harevænget 574733 Tappernøje,nøje,1.450.000,20-10-2003,Alm. Salg,8.100,4,Villa,179,1998,,Aktuel værdi
+Fasanvænget 44733 Tappernøje,nøje,1.198.000,19-10-2003,Alm. Salg,7.304,6,Villa,164,1973,,Aktuel værdi
+Mårvænget 164733 Tappernøje,nøje,910.000,15-10-2003,Alm. Salg,9.680,3,Villa,94,1976,,Aktuel værdi
+Møllevej 124733 Tappernøje,nøje,1.200.000,13-10-2003,Alm. Salg,8.571,4,Villa,140,1976,,Aktuel værdi
+Askovvej 14733 Tappernøje,nøje,1.395.000,13-10-2003,Alm. Salg,9.362,3,Villa,149,1875,,Aktuel værdi
+Oddervænget 154733 Tappernøje,nøje,1.595.000,11-10-2003,Alm. Salg,7.152,6,Villa,223,1988,,Aktuel værdi
+Sneserevej 384733 Tappernøje,nøje,800.000,07-10-2003,Alm. Salg,7.079,4,Villa,113,1954,,Aktuel værdi
+Harevænget 794733 Tappernøje,nøje,1.685.000,22-09-2003,Alm. Salg,11.085,5,Villa,152,2003,,Aktuel værdi
+Sneserevej 714733 Tappernøje,nøje,1.580.000,19-09-2003,Alm. Salg,7.821,7,Villa,202,1958,,Aktuel værdi
+Mårvænget 204733 Tappernøje,nøje,835.000,29-08-2003,Alm. Salg,-,5,Villa,148,1978,,Aktuel værdi
+Tyrehule 24733 Tappernøje,nøje,1.295.000,26-08-2003,Alm. Salg,9.384,6,Villa,138,1827,,Aktuel værdi
+Kildevej 54733 Tappernøje,nøje,208.984,18-08-2003,Alm. Salg,1.251,6,Villa,167,1971,,Aktuel værdi
+Engelstrupvej 164733 Tappernøje,nøje,860.000,14-08-2003,Alm. Salg,9.347,4,Villa,92,1964,,Aktuel værdi
+Smidstrupvej 244733 Tappernøje,nøje,845.000,28-07-2003,Alm. Salg,10.059,4,Villa,84,1908,,Aktuel værdi
+Irisvej 34733 Tappernøje,nøje,518.500,25-07-2003,Fam. Salg,5.892,3,Villa,88,1969,,Aktuel værdi
+Brøderupvej 334733 Tappernøje,nøje,1.037.500,22-07-2003,Alm. Salg,7.204,3,Villa,144,1893,,Aktuel værdi
+Irisvej 44733 Tappernøje,nøje,900.000,17-07-2003,Alm. Salg,6.766,4,Villa,133,1970,,Aktuel værdi
+Brøderupvej 294733 Tappernøje,nøje,982.239,20-06-2003,Alm. Salg,10.449,4,Villa,94,1900,,Aktuel værdi
+Bygårdsvej 54733 Tappernøje,nøje,1.000.000,20-06-2003,Alm. Salg,8.928,4,Villa,112,1971,,Aktuel værdi
+Everdrupvej 324733 Tappernøje,nøje,855.000,19-06-2003,Alm. Salg,6.576,5,Villa,130,1920,,Aktuel værdi
+Ll Røttingevej 104733 Tappernøje,nøje,1.011.000,18-06-2003,Alm. Salg,5.585,6,Villa,181,1954,,Aktuel værdi
+Hovedvejen 104733 Tappernøje,nøje,1.345.000,16-06-2003,Alm. Salg,7.041,4,Villa,191,1912,,Aktuel værdi
+Everdrupvej 34733 Tappernøje,nøje,675.000,06-06-2003,Alm. Salg,4.753,4,Villa,142,1677,,Aktuel værdi
+Hovedvejen 154733 Tappernøje,nøje,775.000,27-05-2003,Alm. Salg,9.226,3,Villa,84,1962,,Aktuel værdi
+Ll Røttingevej 24733 Tappernøje,nøje,1.295.000,25-05-2003,Alm. Salg,7.194,6,Villa,180,1845,,Aktuel værdi
+Rypevænget 364733 Tappernøje,nøje,1.695.000,20-05-2003,Alm. Salg,10.935,5,Villa,155,2001,,Aktuel værdi
+Fasanvænget 154733 Tappernøje,nøje,975.000,08-05-2003,Alm. Salg,8.478,4,Villa,115,1977,,Aktuel værdi
+Vildtbanevej 54733 Tappernøje,nøje,825.000,03-05-2003,Alm. Salg,-,4,Villa,162,1970,,Aktuel værdi
+Bygårdsvej 144733 Tappernøje,nøje,1.075.000,18-04-2003,Alm. Salg,7.733,4,Villa,139,1973,,Aktuel værdi
+Teglværksvej 74733 Tappernøje,nøje,1.150.000,31-03-2003,Fam. Salg,5.111,7,Stuehus,225,1910,,
+Fasanvænget 104733 Tappernøje,nøje,895.000,29-03-2003,Alm. Salg,6.679,5,Villa,134,1971,,Aktuel værdi
+Saksholmvej 304733 Tappernøje,nøje,300.000,28-03-2003,Fam. Salg,4.347,3,Villa,69,1948,,Aktuel værdi
+Hovedvejen 214733 Tappernøje,nøje,855.000,27-03-2003,Alm. Salg,6.195,4,Villa,138,1925,,Aktuel værdi
+Sneserevej 844733 Tappernøje,nøje,1.050.000,24-03-2003,Alm. Salg,6.402,7,Villa,164,1974,,Aktuel værdi
+Snesere Torpvej 244733 Tappernøje,nøje,466.945,10-03-2003,Alm. Salg,2.370,3,Villa,197,1900,,Aktuel værdi
+Pilevej 94733 Tappernøje,nøje,646.000,21-02-2003,Fam. Salg,5.126,4,Villa,126,1972,,Aktuel værdi
+Egernvænget 24733 Tappernøje,nøje,695.000,21-02-2003,Alm. Salg,7.473,5,Villa,93,1973,,Aktuel værdi
+Bredeshave Strand 44733 Tappernøje,nøje,1.587.880,16-02-2003,Alm. Salg,12.805,4,Villa,124,2000,,Aktuel værdi
+Snigsvej 74733 Tappernøje,nøje,1.100.000,07-02-2003,Alm. Salg,7.638,5,Villa,144,1973,,Aktuel værdi
+Smidstrupvej 574733 Tappernøje,nøje,3.060.000,03-02-2003,Fam. Salg,16.190,8,Stuehus,189,1860,,
+Jægervænget 184733 Tappernøje,nøje,700.000,31-01-2003,Alm. Salg,7.000,4,Villa,100,1974,,Aktuel værdi
+Korskildevej 84733 Tappernøje,nøje,2.862.000,22-01-2003,Alm. Salg,14.238,6,Stuehus,201,1896,,
+Brøderupvej 424733 Tappernøje,nøje,415.000,10-12-2002,Alm. Salg,-,6,Villa,171,1964,,Aktuel værdi
+Vildtbanevej 34733 Tappernøje,nøje,1.065.000,29-11-2002,Alm. Salg,6.339,5,Villa,168,1971,,Aktuel værdi
+Sneserevej 64733 Tappernøje,nøje,785.000,08-11-2002,Fam. Salg,4.617,6,Villa,170,1923,,Aktuel værdi
+Engelstrupvej 144733 Tappernøje,nøje,420.000,29-10-2002,Alm. Salg,-,4,Villa,150,1964,,Aktuel værdi
+Storgårdsvej 24733 Tappernøje,nøje,715.000,23-10-2002,Alm. Salg,5.296,5,Villa,135,1949,,Aktuel værdi
+Stavnstrupvej 634733 Tappernøje,nøje,1.099.272,19-10-2002,Andet,5.974,6,Villa,184,1877,,Aktuel værdi
+Sjoltevej 424733 Tappernøje,nøje,1.195.000,16-10-2002,Alm. Salg,9.958,4,Villa,120,1968,,Aktuel værdi
+Kildebakken 334733 Tappernøje,nøje,770.000,12-10-2002,Alm. Salg,-,6,Villa,163,1891,,Aktuel værdi
+Harevænget 434733 Tappernøje,nøje,1.090.000,27-09-2002,Alm. Salg,8.320,5,Villa,131,1980,,Aktuel værdi
+Nyvej 94733 Tappernøje,nøje,655.000,27-09-2002,Alm. Salg,7.797,3,Villa,84,1971,,Aktuel værdi
+Askovvej 214733 Tappernøje,nøje,544.914,24-09-2002,Fam. Salg,3.632,4,Villa,150,1900,,Aktuel værdi
+Engelstrupvej 104733 Tappernøje,nøje,1.430.000,23-09-2002,Alm. Salg,6.412,6,Villa,223,1927,,Aktuel værdi
+Smidstrupvej 764733 Tappernøje,nøje,360.000,20-09-2002,Alm. Salg,1.800,8,Villa,200,1850,,Aktuel værdi
+Toftegårdsvej 64733 Tappernøje,nøje,765.000,12-09-2002,Alm. Salg,-,4,Villa,153,1973,,Aktuel værdi
+Scheelsvej 74733 Tappernøje,nøje,250.000,12-09-2002,Alm. Salg,912,4,Villa,274,2014,,Aktuel værdi
+Jægervænget 24733 Tappernøje,nøje,950.924,11-09-2002,Alm. Salg,9.056,4,Villa,105,1978,,Aktuel værdi
+Harevænget 714733 Tappernøje,nøje,1.302.000,04-09-2002,Alm. Salg,11.522,4,Villa,113,2000,,Aktuel værdi
+Kærvej 84733 Tappernøje,nøje,600.000,27-08-2002,Fam. Salg,3.191,5,Villa,188,1927,,Aktuel værdi
+Snesere Torpvej 34733 Tappernøje,nøje,767.770,15-08-2002,Alm. Salg,6.398,4,Villa,120,1941,,Aktuel værdi
+Hovedvejen 574733 Tappernøje,nøje,1.060.000,12-08-2002,Fam. Salg,7.794,5,Villa,136,1962,,Aktuel værdi
+Gl Skolevej 54733 Tappernøje,nøje,1.450.000,30-07-2002,Alm. Salg,14.215,4,Stuehus,102,1900,,
+Saksholmvej 414733 Tappernøje,nøje,1.285.200,22-07-2002,Alm. Salg,8.742,9,Villa,147,1880,,Aktuel værdi
+Pilevej 24733 Tappernøje,nøje,1.040.000,19-07-2002,Alm. Salg,5.200,8,Villa,200,1966,,Aktuel værdi
+Muldbjergvej 24733 Tappernøje,nøje,1.275.000,15-07-2002,Alm. Salg,5.059,8,Villa,252,1780,,Aktuel værdi
+Skovholmvej 24733 Tappernøje,nøje,895.000,04-07-2002,Alm. Salg,6.729,5,Villa,133,1825,,Aktuel værdi
+Harevænget 834733 Tappernøje,nøje,110.000,24-06-2002,Alm. Salg,839,4,Villa,131,2005,,Aktuel værdi
+Tågeskov By 14733 Tappernøje,nøje,1.085.000,13-06-2002,Alm. Salg,5.740,5,Villa,189,1920,,Aktuel værdi
+Everdrupvej 14733 Tappernøje,nøje,1.360.120,10-06-2002,Alm. Salg,7.556,6,Villa,180,1912,,Aktuel værdi
+Sjoltevej 364733 Tappernøje,nøje,1.800.000,29-05-2002,Alm. Salg,12.949,4,Villa,139,1996,,Aktuel værdi
+Stavnstrupvej 74733 Tappernøje,nøje,795.000,25-05-2002,Alm. Salg,3.680,5,Stuehus,216,2005,,
+Fasanvænget 344733 Tappernøje,nøje,240.000,10-05-2002,Alm. Salg,1.445,4,Villa,166,2002,,Aktuel værdi
+Bygårdsvej 104733 Tappernøje,nøje,1.200.000,06-05-2002,Alm. Salg,8.053,4,Villa,149,1971,,Aktuel værdi
+Tågeskovvej 174733 Tappernøje,nøje,1.560.950,12-04-2002,Alm. Salg,15.609,4,Stuehus,100,1817,,
+Smidstrupvej 73A4733 Tappernøje,nøje,311.000,25-03-2002,Auktion,2.591,3,Villa,120,1896,,Aktuel værdi
+Strandvejen 514733 Tappernøje,nøje,600.000,18-03-2002,Alm. Salg,6.382,4,Villa,94,1913,,Aktuel værdi
+Fasanvænget 384733 Tappernøje,nøje,950.000,07-03-2002,Fam. Salg,8.482,4,Villa,112,1977,,Aktuel værdi
+Vildtbanevej 244733 Tappernøje,nøje,860.000,19-02-2002,Alm. Salg,7.478,4,Villa,115,1973,,Aktuel værdi
+Snesere Torpvej 434733 Tappernøje,nøje,3.008.000,06-02-2002,Alm. Salg,23.138,4,Stuehus,130,1920,,
+Kildebakken 44733 Tappernøje,nøje,595.000,01-02-2002,Alm. Salg,4.837,4,Villa,123,1900,,Aktuel værdi
+Fasanvænget 404733 Tappernøje,nøje,1.120.000,29-01-2002,Alm. Salg,6.327,6,Villa,177,1980,,Aktuel værdi
+Bårsevej 134733 Tappernøje,nøje,473.000,03-01-2002,Alm. Salg,7.166,3,Villa,66,1850,,Aktuel værdi
+Hovedvejen 1024733 Tappernøje,nøje,345.088,28-12-2001,Fam. Salg,1.282,6,Stuehus,269,2014,,
+Hovedvejen 784733 Tappernøje,nøje,775.000,27-12-2001,Alm. Salg,8.611,3,Villa,90,1908,,Aktuel værdi
+Hovedvejen 124733 Tappernøje,nøje,700.000,30-11-2001,Fam. Salg,-,5,Villa,169,1953,,Aktuel værdi
+Ll Røttingevej 134733 Tappernøje,nøje,1.250.000,30-11-2001,Fam. Salg,9.259,6,Stuehus,135,1890,,
+Brøderupvej 224733 Tappernøje,nøje,1.395.000,21-11-2001,Alm. Salg,8.063,6,Villa,173,1988,,Aktuel værdi
+Bårsevej 214733 Tappernøje,nøje,943.400,20-11-2001,Alm. Salg,6.836,5,Villa,138,1972,,Aktuel værdi
+Kongskildevej 24733 Tappernøje,nøje,150.000,22-10-2001,Fam. Salg,460,9,Villa,326,1857,,Aktuel værdi
+Fasanvænget 2B4733 Tappernøje,nøje,680.000,24-09-2001,Alm. Salg,6.666,4,Rækkehus,102,1978,,Aktuel værdi
+Sneserevej 744733 Tappernøje,nøje,715.000,19-09-2001,Alm. Salg,8.313,3,Villa,86,1957,,Aktuel værdi
+Harevænget 674733 Tappernøje,nøje,130.000,11-09-2001,Alm. Salg,955,5,Villa,136,2003,,Aktuel værdi
+Stavnstrupvej 424733 Tappernøje,nøje,731.000,03-09-2001,Alm. Salg,5.710,4,Villa,128,1932,,Aktuel værdi
+Brøderupvej 214733 Tappernøje,nøje,650.000,30-08-2001,Alm. Salg,-,5,Villa,250,1737,,Aktuel værdi
+Møllevej 64733 Tappernøje,nøje,585.000,21-08-2001,Alm. Salg,5.850,3,Villa,100,1964,,Aktuel værdi
+Hovedvejen 47B4733 Tappernøje,nøje,1.600.000,15-08-2001,Alm. Salg,5.734,14,Villa,279,1980,,Aktuel værdi
+Bækkeskov Stræde 34733 Tappernøje,nøje,1.350.000,06-08-2001,Alm. Salg,11.250,3,Stuehus,120,1940,,
+Møllevej 104733 Tappernøje,nøje,655.000,19-07-2001,Alm. Salg,5.695,4,Villa,115,1966,,Aktuel værdi
+Harevænget 604733 Tappernøje,nøje,847.320,02-07-2001,Alm. Salg,7.565,4,Villa,112,1978,,Aktuel værdi
+Bækkeskov Stræde 234733 Tappernøje,nøje,5.050.000,02-07-2001,Alm. Salg,20.039,15,Engroshandel,252,1869,,Aktuel værdi
+Bækkeskov Stræde 184733 Tappernøje,nøje,1.550.000,01-07-2001,Alm. Salg,11.923,5,Villa,130,1934,,Aktuel værdi
+Engelstrupvej 84733 Tappernøje,nøje,894.806,26-06-2001,Alm. Salg,5.925,5,Villa,151,1900,,Aktuel værdi
+Hovedvejen 114733 Tappernøje,nøje,850.000,21-06-2001,Alm. Salg,7.657,3,Villa,111,1946,,Aktuel værdi
+Bækkeskov Stræde 304733 Tappernøje,nøje,450.500,19-06-2001,Fam. Salg,4.290,3,Villa,105,1868,,Aktuel værdi
+Egernvænget 104733 Tappernøje,nøje,80.000,16-06-2001,Alm. Salg,264,10,Villa,302,2004,,Aktuel værdi
+Askovvej 34733 Tappernøje,nøje,375.000,08-06-2001,Alm. Salg,2.016,4,Villa,186,1910,,Aktuel værdi
+Tågeskovvej 344733 Tappernøje,nøje,650.000,31-05-2001,Alm. Salg,6.250,4,Villa,104,1800,,Aktuel værdi
+Hovedvejen 254733 Tappernøje,nøje,1.600.000,24-05-2001,Alm. Salg,9.523,7,Stuehus,168,1919,,
+Sneserevej 94733 Tappernøje,nøje,631.644,01-05-2001,Alm. Salg,5.177,5,Villa,122,1927,,Aktuel værdi
+Sjoltevej 21A4733 Tappernøje,nøje,459.232,06-04-2001,Fam. Salg,2.870,5,Villa,160,1838,,Aktuel værdi
+Sneserevej 114733 Tappernøje,nøje,746.388,27-03-2001,Alm. Salg,3.750,4,Villa,199,1930,,Aktuel værdi
+Karlshøj 84733 Tappernøje,nøje,685.000,22-03-2001,Alm. Salg,5.189,5,Villa,132,1944,,Aktuel værdi
+Bækkeskov Stræde 74733 Tappernøje,nøje,2.800.000,09-03-2001,Alm. Salg,27.722,4,Stuehus,101,1986,,
+Tågeskov Overdrev 144733 Tappernøje,nøje,1.495.000,20-02-2001,Alm. Salg,14.375,3,Stuehus,104,1877,,
+Engelstrupvej 94733 Tappernøje,nøje,1.407.500,19-02-2001,Fam. Salg,6.340,8,Stuehus,222,1870,,
+Kildevej 174733 Tappernøje,nøje,416.716,14-02-2001,Andet,3.109,5,Villa,134,1973,,Aktuel værdi
+Engelstrupvej 244733 Tappernøje,nøje,983.900,09-02-2001,Alm. Salg,7.129,4,Villa,138,1777,,Aktuel værdi
+Smidstrupvej 514733 Tappernøje,nøje,605.000,06-02-2001,Alm. Salg,6.722,4,Villa,90,1850,,Aktuel værdi
+Kildebakken 294733 Tappernøje,nøje,720.000,30-01-2001,Fam. Salg,3.130,12,Villa,230,1872,,Aktuel værdi
+Engelstrupvej 34733 Tappernøje,nøje,686.098,22-12-2000,Alm. Salg,6.412,3,Villa,107,1962,,Aktuel værdi
+Skovholmvej 74733 Tappernøje,nøje,457.000,12-12-2000,Alm. Salg,5.077,3,Villa,90,1961,,Aktuel værdi
+Svingkærvej 424733 Tappernøje,nøje,1.075.080,07-12-2000,Alm. Salg,9.034,4,Villa,119,1986,,Aktuel værdi
+Tågeskovvej 304733 Tappernøje,nøje,839.608,05-12-2000,Alm. Salg,5.997,4,Villa,140,1877,,Aktuel værdi
+Tågeskov By 64733 Tappernøje,nøje,683.421,08-11-2000,Alm. Salg,6.973,4,Villa,98,1954,,Aktuel værdi
+Saksholmvej 294733 Tappernøje,nøje,320.000,25-09-2000,Fam. Salg,6.153,2,Villa,52,1962,,Aktuel værdi
+Hovedvejen 354733 Tappernøje,nøje,1.250.000,06-09-2000,Alm. Salg,11.261,5,Villa,111,1931,,Aktuel værdi
+Hovedvejen 92B4733 Tappernøje,nøje,1.270.096,28-08-2000,Alm. Salg,-,4,Stuehus,181,1927,,
+Brøderupvej 164733 Tappernøje,nøje,667.000,23-08-2000,Fam. Salg,2.425,8,Stuehus,275,1880,,
+Rypevænget 464733 Tappernøje,nøje,478.375,15-08-2000,Alm. Salg,3.889,4,Villa,123,1998,,Aktuel værdi
+Everdrupvej 304733 Tappernøje,nøje,550.000,02-08-2000,Alm. Salg,7.236,2,Villa,76,1877,,Aktuel værdi
+Videbækvej 14733 Tappernøje,nøje,895.000,24-07-2000,Alm. Salg,6.392,3,Villa,140,1960,,Aktuel værdi
+Tågeskovvej 24A4733 Tappernøje,nøje,792.160,24-07-2000,Alm. Salg,7.473,3,Anden beboelse,106,1977,,Aktuel værdi
+Åsidevej 114733 Tappernøje,nøje,562.000,24-07-2000,Alm. Salg,3.556,4,Villa,158,1900,,Aktuel værdi
+Hovedvejen 144733 Tappernøje,nøje,475.913,20-07-2000,Alm. Salg,4.906,3,Villa,97,1947,,Aktuel værdi
+Askovvej 124733 Tappernøje,nøje,396.044,14-07-2000,Alm. Salg,5.280,4,Villa,75,1904,,Aktuel værdi
+Sølperupvej 104733 Tappernøje,nøje,619.769,13-07-2000,Alm. Salg,5.297,4,Villa,117,1918,,Aktuel værdi
+Bækkeskov Stræde 194733 Tappernøje,nøje,822.500,07-07-2000,Andet,5.751,4,Stuehus,143,1934,,
+Tågeskovvej 204733 Tappernøje,nøje,1.750.000,06-07-2000,Alm. Salg,12.773,4,Villa,137,1917,,Aktuel værdi
+Harevænget 644733 Tappernøje,nøje,823.000,21-06-2000,Alm. Salg,7.348,4,Villa,112,1978,,Aktuel værdi
+Kildebakken 434733 Tappernøje,nøje,1.050.000,14-06-2000,Alm. Salg,7.954,5,Villa,132,1877,,Aktuel værdi
+Snesere Torpvej 154733 Tappernøje,nøje,670.000,26-04-2000,Alm. Salg,-,5,Stuehus,199,1902,,
+Leestrupvej 374733 Tappernøje,nøje,1.333.754,24-04-2000,Alm. Salg,-,5,Stuehus,178,1938,,
+Æskebjergvej 54733 Tappernøje,nøje,1.450.000,19-04-2000,Alm. Salg,5.451,10,Villa,266,1880,,Aktuel værdi
+Hemmestrupvej 44733 Tappernøje,nøje,4.100.000,13-04-2000,Alm. Salg,18.894,7,Stuehus,217,1907,,
+Harevænget 314733 Tappernøje,nøje,62.000,10-04-2000,Alm. Salg,469,4,Villa,132,2001,,Aktuel værdi
+Everdrupvej 194733 Tappernøje,nøje,672.142,10-04-2000,Andet,2.884,6,Villa,233,1892,,Aktuel værdi
+Teglværksvej 14733 Tappernøje,nøje,225.000,28-03-2000,Alm. Salg,1.171,5,Villa,192,2002,,Aktuel værdi
+Harevænget 394733 Tappernøje,nøje,120.000,26-03-2000,Alm. Salg,645,6,Villa,186,2001,,Aktuel værdi
+Harevænget 424733 Tappernøje,nøje,625.000,18-03-2000,Andet,3.930,5,Villa,159,1998,,Aktuel værdi
+Størlingevej 384733 Tappernøje,nøje,1.429.000,02-03-2000,Alm. Salg,6.408,5,Villa,223,1907,,Aktuel værdi
+Sølperupvej 2B4733 Tappernøje,nøje,80.000,14-02-2000,Alm. Salg,-,7,Villa,221,1972,,Aktuel værdi
+St Røttingevej 144733 Tappernøje,nøje,350.000,08-02-2000,Alm. Salg,2.991,3,Villa,117,1880,,Aktuel værdi
+Skovmosevej 64733 Tappernøje,nøje,550.000,03-01-2000,Fam. Salg,4.471,4,Stuehus,123,1923,,
+Bårsevej 34733 Tappernøje,nøje,283.707,02-01-2000,Alm. Salg,-,9,Villa,283,1856,,Aktuel værdi
+Rypevænget 94733 Tappernøje,nøje,649.773,23-12-1999,Alm. Salg,6.370,4,Villa,102,1988,,Aktuel værdi
+Kildebakken 144733 Tappernøje,nøje,75.000,08-12-1999,Alm. Salg,403,4,Villa,186,2004,,Aktuel værdi
+Bårsevej 94733 Tappernøje,nøje,387.640,18-11-1999,Alm. Salg,2.202,6,Villa,176,1932,,Aktuel værdi
+Størlingevej 254733 Tappernøje,nøje,715.306,09-11-1999,Alm. Salg,3.472,4,Villa,206,1877,,Aktuel værdi
+Karlshøj 44733 Tappernøje,nøje,125.000,02-11-1999,Fam. Salg,637,6,Villa,196,1937,,Aktuel værdi
+Karlshøj 104733 Tappernøje,nøje,813.132,07-10-1999,Alm. Salg,7.325,4,Villa,111,1950,,Aktuel værdi
+Stavnstrupvej 184733 Tappernøje,nøje,645.000,30-09-1999,Alm. Salg,-,4,Villa,94,1910,,Aktuel værdi
+Hjortevej 84733 Tappernøje,nøje,939.980,20-09-1999,Alm. Salg,6.527,5,Villa,144,1975,,Aktuel værdi
+Sneserevej 424733 Tappernøje,nøje,493.000,13-09-1999,Alm. Salg,7.042,3,Villa,70,1850,,Aktuel værdi
+Fasanvænget 164733 Tappernøje,nøje,90.000,30-08-1999,Alm. Salg,461,6,Villa,195,2001,,Aktuel værdi
+Flintholm 14733 Tappernøje,nøje,1.618.000,30-08-1999,Alm. Salg,8.515,4,Stuehus,190,1827,,
+Brøderupvej 394733 Tappernøje,nøje,518.000,25-08-1999,Alm. Salg,-,6,Villa,151,1955,,Aktuel værdi
+Oddervænget 2A4733 Tappernøje,nøje,108.500,19-08-1999,Alm. Salg,758,5,Villa,143,2000,,Aktuel værdi
+Askovvej 254733 Tappernøje,nøje,485.000,30-07-1999,Alm. Salg,4.490,4,Villa,108,1890,,Aktuel værdi
+Hovedvejen 92A4733 Tappernøje,nøje,280.000,18-07-1999,Alm. Salg,1.076,8,Villa,260,1929,,Aktuel værdi
+Fasanvænget 54733 Tappernøje,nøje,1.145.000,07-07-1999,Alm. Salg,7.736,5,Villa,148,1996,,Aktuel værdi
+Smidstrupvej 584733 Tappernøje,nøje,305.000,24-06-1999,Auktion,3.050,4,Villa,100,1932,,Aktuel værdi
+Harevænget 774733 Tappernøje,nøje,718.360,21-06-1999,Alm. Salg,6.413,4,Villa,112,1977,,Aktuel værdi
+Harevænget 374733 Tappernøje,nøje,372.000,14-06-1999,Alm. Salg,3.321,4,Villa,112,1979,,Aktuel værdi
+Hovedvejen 18A4733 Tappernøje,nøje,1.225.568,09-06-1999,Alm. Salg,8.170,5,Villa,150,1968,,Aktuel værdi
+Hovedvejen 164733 Tappernøje,nøje,1.872.380,02-06-1999,Alm. Salg,7.580,8,Villa,247,1920,,Aktuel værdi
+Egernvænget 14733 Tappernøje,nøje,32.000,01-06-1999,Alm. Salg,172,6,Villa,185,2000,,Aktuel værdi
+Oddervænget 134733 Tappernøje,nøje,1.218.000,17-04-1999,Alm. Salg,5.461,6,Villa,223,1988,,Aktuel værdi
+Sjoltevej 164733 Tappernøje,nøje,200.000,10-04-1999,Alm. Salg,-,3,Villa,114,1921,,Aktuel værdi
+Broskovvej 24733 Tappernøje,nøje,1.100.000,24-02-1999,Alm. Salg,6.547,6,Villa,168,1966,,Aktuel værdi
+Bårsevej 104733 Tappernøje,nøje,331.453,26-01-1999,Alm. Salg,3.724,3,Villa,89,1870,,Aktuel værdi
+Pilevej 144733 Tappernøje,nøje,700.000,15-12-1998,Fam. Salg,-,4,Villa,151,1967,,Aktuel værdi
+Kildehøjvej 44733 Tappernøje,nøje,625.120,30-11-1998,Alm. Salg,4.845,4,Villa,129,1977,,Aktuel værdi
+Hovedvejen 954733 Tappernøje,nøje,1.053.000,12-11-1998,Alm. Salg,7.521,5,Villa,140,1877,,Aktuel værdi
+Smidstrupvej 334733 Tappernøje,nøje,692.120,12-11-1998,Alm. Salg,3.327,5,Villa,208,1925,,Aktuel værdi
+Snesere Torpvej 344733 Tappernøje,nøje,1.109.000,27-10-1998,Alm. Salg,7.201,7,Stuehus,154,1880,,
+Snesere Torpvej 234733 Tappernøje,nøje,692.000,05-10-1998,Alm. Salg,5.323,5,Villa,130,1913,,Aktuel værdi
+Harevænget 454733 Tappernøje,nøje,1.005.000,20-09-1998,Alm. Salg,6.090,5,Villa,165,1998,,Aktuel værdi
+Lundhøjvej 24733 Tappernøje,nøje,685.000,06-09-1998,Alm. Salg,5.310,4,Villa,129,1977,,Aktuel værdi
+Svingkærvej 464733 Tappernøje,nøje,985.000,29-07-1998,Alm. Salg,5.794,4,Villa,170,1980,,Aktuel værdi
+Bårsevej 84733 Tappernøje,nøje,386.000,30-06-1998,Alm. Salg,-,4,Villa,148,1920,,Aktuel værdi
+Karlshøj 204733 Tappernøje,nøje,609.000,30-06-1998,Alm. Salg,4.288,5,Villa,142,1959,,Aktuel værdi
+Snigsvej 34733 Tappernøje,nøje,259.037,27-06-1998,Alm. Salg,-,5,Villa,148,1973,,Aktuel værdi
+Rypevænget 504733 Tappernøje,nøje,66.666,17-06-1998,Alm. Salg,574,4,Villa,116,1998,,Aktuel værdi
+Rypevænget 74733 Tappernøje,nøje,744.846,02-06-1998,Alm. Salg,-,4,Villa,102,1988,,Aktuel værdi
+Sjoltevej 104733 Tappernøje,nøje,560.000,19-05-1998,Alm. Salg,-,5,Villa,166,1900,,Aktuel værdi
+Sneserevej 304733 Tappernøje,nøje,388.920,18-05-1998,Alm. Salg,2.818,5,Villa,138,1960,,Aktuel værdi
+Askovvej 564733 Tappernøje,nøje,708.000,16-05-1998,Alm. Salg,5.057,6,Villa,140,1870,,Aktuel værdi
+Sneppevænget 204733 Tappernøje,nøje,950.000,11-05-1998,Fam. Salg,4.279,6,Villa,222,1978,,Aktuel værdi
+Rypevænget 154733 Tappernøje,nøje,599.000,09-05-1998,Alm. Salg,5.872,4,Villa,102,1988,,Aktuel værdi
+Sølperupvej 4B4733 Tappernøje,nøje,280.000,05-05-1998,Alm. Salg,2.333,4,Villa,120,1738,,Aktuel værdi
+Stavnstrupvej 284733 Tappernøje,nøje,250.536,05-05-1998,Alm. Salg,1.298,4,Stuehus,193,1920,,
+Hovedvejen 904733 Tappernøje,nøje,400.000,28-04-1998,Alm. Salg,4.210,4,Villa,95,1916,,Aktuel værdi
+Størlingevej 644733 Tappernøje,nøje,430.000,14-04-1998,Alm. Salg,3.071,4,Villa,140,1900,,Aktuel værdi
+Kildebakken 74733 Tappernøje,nøje,285.000,02-04-1998,Alm. Salg,2.261,3,Villa,126,1900,,Aktuel værdi
+Bækkeskov Stræde 244733 Tappernøje,nøje,544.000,26-03-1998,Fam. Salg,5.551,4,Stuehus,98,1934,,
+Jægervænget 84733 Tappernøje,nøje,555.000,19-03-1998,Alm. Salg,4.955,4,Villa,112,1975,,Aktuel værdi
+Lundhøjvej 34733 Tappernøje,nøje,727.240,17-03-1998,Alm. Salg,5.427,6,Villa,134,1977,,Aktuel værdi
+Brøderupvej 454733 Tappernøje,nøje,536.260,14-03-1998,Alm. Salg,6.308,3,Villa,85,1905,,Aktuel værdi
+Sneserevej 234733 Tappernøje,nøje,226.320,24-02-1998,Alm. Salg,-,3,Villa,156,1959,,Aktuel værdi
+Fasanvænget 244733 Tappernøje,nøje,1.150.000,17-02-1998,Alm. Salg,4.181,5,Villa,275,1977,,Aktuel værdi
+Bårsevej 144733 Tappernøje,nøje,935.000,06-02-1998,Fam. Salg,3.462,10,Villa,270,1926,,Aktuel værdi
+Fasanvænget 354733 Tappernøje,nøje,35.000,28-01-1998,Alm. Salg,282,3,Villa,124,1998,,Aktuel værdi
+Flintemosevej 244733 Tappernøje,nøje,1.770.000,18-12-1997,Alm. Salg,10.290,6,Stuehus,172,1877,,
+Snesere Torpvej 254733 Tappernøje,nøje,2.296.200,08-12-1997,Alm. Salg,14.910,5,Stuehus,154,1875,,
+Oddervænget 124733 Tappernøje,nøje,640.000,26-11-1997,Fam. Salg,-,4,Villa,102,1988,,Aktuel værdi
+Lunden 54733 Tappernøje,nøje,359.939,14-11-1997,Andet,2.790,3,Villa,129,1913,,Aktuel værdi
+Hovedvejen 714733 Tappernøje,nøje,130.000,30-10-1997,Alm. Salg,2.000,2,Villa,65,1947,,Aktuel værdi
+Kærvej 124733 Tappernøje,nøje,818.000,23-10-1997,Alm. Salg,6.292,4,Villa,130,1967,,Aktuel værdi
+Hybenvej 44733 Tappernøje,nøje,593.959,23-09-1997,Alm. Salg,5.164,3,Villa,115,1971,,Aktuel værdi
+Skovholmvej 104733 Tappernøje,nøje,2.496.850,17-09-1997,Fam. Salg,11.297,9,Stuehus,221,1951,,
+Pilevej 64733 Tappernøje,nøje,949.162,01-09-1997,Alm. Salg,4.793,6,Villa,198,1969,,Aktuel værdi
+Korskildevej 144733 Tappernøje,nøje,825.000,08-08-1997,Alm. Salg,-,4,Villa,139,1902,,Aktuel værdi
+Skovholmvej 134733 Tappernøje,nøje,1.407.340,22-07-1997,Alm. Salg,8.427,4,Villa,167,1885,,Aktuel værdi
+Stavnstrupvej 584733 Tappernøje,nøje,310.000,07-07-1997,Alm. Salg,3.734,3,Villa,83,1942,,Aktuel værdi
+Tågeskov Overdrev 24733 Tappernøje,nøje,712.000,04-07-1997,Alm. Salg,5.274,5,Villa,135,1777,,Aktuel værdi
+Lundhøjvej 14733 Tappernøje,nøje,350.000,19-06-1997,Fam. Salg,2.134,5,Villa,164,1978,,Aktuel værdi
+Størlingevej 194733 Tappernøje,nøje,490.000,05-06-1997,Fam. Salg,5.000,4,Villa,98,1827,,Aktuel værdi
+Sneppevænget 194733 Tappernøje,nøje,553.000,30-05-1997,Alm. Salg,4.608,4,Villa,120,1978,,Aktuel værdi
+Irisvej 24733 Tappernøje,nøje,607.170,22-05-1997,Alm. Salg,4.857,4,Villa,125,1970,,Aktuel værdi
+Størlingevej 324733 Tappernøje,nøje,694.221,10-05-1997,Alm. Salg,4.923,3,Villa,141,1898,,Aktuel værdi
+Bækkeskov Stræde 8B4733 Tappernøje,nøje,1.003.000,02-05-1997,Alm. Salg,4.600,8,Villa,218,1825,,Aktuel værdi
+Tågeskov By 24733 Tappernøje,nøje,847.000,24-04-1997,Alm. Salg,4.840,5,Villa,175,1877,,Aktuel værdi
+St Røttingevej 124733 Tappernøje,nøje,1.200.000,15-04-1997,Alm. Salg,8.000,7,Villa,150,1880,,Aktuel værdi
+Kildehøjvej 74733 Tappernøje,nøje,639.600,12-04-1997,Alm. Salg,4.845,4,Villa,132,1979,,Aktuel værdi
+Sjoltevej 24733 Tappernøje,nøje,703.008,26-03-1997,Alm. Salg,3.379,7,Villa,208,1856,,Aktuel værdi
+Gl Skolevej 244733 Tappernøje,nøje,650.000,11-03-1997,Alm. Salg,-,4,Stuehus,118,1785,,
+Hulebækvej 14733 Tappernøje,nøje,863.000,03-03-1997,Alm. Salg,3.818,6,Stuehus,226,1900,,
+St Røttingevej 54733 Tappernøje,nøje,1.359.999,20-02-1997,Fam. Salg,6.799,7,Stuehus,200,1918,,
+Leestrup Skovvej 184733 Tappernøje,nøje,580.000,03-02-1997,Fam. Salg,5.132,3,Stuehus,113,1939,,
+Æskebjergvej 2A4733 Tappernøje,nøje,1.351.250,17-01-1997,Fam. Salg,5.217,8,Stuehus,259,1923,,
+Hovedvejen 944733 Tappernøje,nøje,280.000,09-01-1997,Alm. Salg,-,5,Villa,179,1901,,Aktuel værdi
+Svingkærvej 204733 Tappernøje,nøje,859.505,30-12-1996,Alm. Salg,6.611,4,Villa,130,1987,,Aktuel værdi
+Ny Prøvevej 34733 Tappernøje,nøje,918.140,30-12-1996,Alm. Salg,-,7,Stuehus,238,1945,,
+Stavnstrupvej 384733 Tappernøje,nøje,479.786,11-12-1996,Alm. Salg,-,4,Villa,133,1963,,Aktuel værdi
+Sjoltevej 64733 Tappernøje,nøje,603.000,10-12-1996,Alm. Salg,7.934,3,Villa,76,1934,,Aktuel værdi
+Smidstrupvej 134733 Tappernøje,nøje,435.000,26-11-1996,Alm. Salg,1.995,7,Villa,218,1934,,Aktuel værdi
+Pilevej 74733 Tappernøje,nøje,350.000,22-11-1996,Alm. Salg,3.645,3,Villa,96,1966,,Aktuel værdi
+St Røttingevej 14733 Tappernøje,nøje,918.710,19-11-1996,Alm. Salg,3.765,6,Villa,244,1877,,Aktuel værdi
+Harevænget 974733 Tappernøje,nøje,609.000,15-11-1996,Alm. Salg,4.757,4,Villa,128,1980,,Aktuel værdi
+Saksholmvej 264733 Tappernøje,nøje,446.500,28-10-1996,Alm. Salg,2.325,6,Villa,192,1880,,Aktuel værdi
+Kildebakken 84733 Tappernøje,nøje,374.000,21-10-1996,Fam. Salg,2.200,8,Villa,170,1899,,Aktuel værdi
+Strandvejen 744733 Tappernøje,nøje,852.000,21-10-1996,Alm. Salg,4.868,5,Villa,175,1875,,Aktuel værdi
+Bredeshave Strand 124733 Tappernøje,nøje,615.730,04-10-1996,Alm. Salg,6.692,2,Villa,92,1970,,Aktuel værdi
+Kildebakken 34733 Tappernøje,nøje,568.602,18-09-1996,Alm. Salg,3.249,6,Villa,175,1900,,Aktuel værdi
+Stavnstrupvej 714733 Tappernøje,nøje,2.233.048,11-09-1996,Alm. Salg,11.815,4,Stuehus,189,1920,,
+Hovvej 134733 Tappernøje,nøje,430.000,05-09-1996,Alm. Salg,-,5,Villa,153,1850,,Aktuel værdi
+Fasanvænget 124733 Tappernøje,nøje,507.700,03-09-1996,Alm. Salg,4.533,4,Villa,112,1979,,Aktuel værdi
+Lundhøjvej 144733 Tappernøje,nøje,650.000,31-08-1996,Alm. Salg,4.961,4,Villa,131,1975,,Aktuel værdi
+Leestrup Byvej 94733 Tappernøje,nøje,654.640,19-08-1996,Alm. Salg,5.279,3,Villa,124,1956,,Aktuel værdi
+Bårsevej 14733 Tappernøje,nøje,210.000,22-07-1996,Alm. Salg,2.187,3,Villa,96,1880,,Aktuel værdi
+Brøderupvej 104733 Tappernøje,nøje,1.340.244,12-07-1996,Fam. Salg,9.307,5,Stuehus,144,1910,,
+Rønnedevej 314733 Tappernøje,nøje,599.000,24-06-1996,Alm. Salg,4.437,6,Villa,135,1902,,Aktuel værdi
+Brøderupvej 174733 Tappernøje,nøje,250.000,31-05-1996,Alm. Salg,2.450,4,Villa,102,1960,,Aktuel værdi
+Jægersborgvej 114733 Tappernøje,nøje,460.000,20-05-1996,Alm. Salg,-,3,Villa,110,1976,,Aktuel værdi
+Stenagervej 84733 Tappernøje,nøje,548.000,19-05-1996,Alm. Salg,4.384,4,Villa,125,1700,,Aktuel værdi
+Karlshøj 394733 Tappernøje,nøje,342.000,29-04-1996,Fam. Salg,-,5,Villa,146,1932,,Aktuel værdi
+Skovholmvej 164733 Tappernøje,nøje,1.275.000,24-04-1996,Alm. Salg,4.009,10,Villa,318,1925,,Aktuel værdi
+Fasanvænget 204733 Tappernøje,nøje,530.000,26-03-1996,Alm. Salg,4.732,4,Villa,112,1978,,Aktuel værdi
+Kildehøjvej 54733 Tappernøje,nøje,478.600,19-03-1996,Alm. Salg,4.090,3,Villa,117,1979,,Aktuel værdi
+Svingkærvej 384733 Tappernøje,nøje,595.000,05-03-1996,Alm. Salg,3.098,8,Villa,192,1979,,Aktuel værdi
+Bredeshave Strand 10A4733 Tappernøje,nøje,765.345,28-02-1996,Alm. Salg,3.510,5,Villa,218,1966,,Aktuel værdi
+Stavnstrupvej 614733 Tappernøje,nøje,672.000,23-02-1996,Alm. Salg,5.376,5,Villa,125,1877,,Aktuel værdi
+Sjoltevej 274733 Tappernøje,nøje,783.800,23-02-1996,Alm. Salg,5.679,3,Villa,138,1910,,Aktuel værdi
+Vildtbanevej 204733 Tappernøje,nøje,755.000,22-02-1996,Alm. Salg,5.206,4,Villa,145,1972,,Aktuel værdi
+Hovedvejen 1054733 Tappernøje,nøje,681.000,29-01-1996,Auktion,3.584,4,Stuehus,190,1950,,
+Askovvej 144733 Tappernøje,nøje,520.000,24-01-1996,Alm. Salg,3.443,4,Villa,151,1900,,Aktuel værdi
+Hovvej 84733 Tappernøje,nøje,580.000,28-12-1995,Fam. Salg,4.142,7,Stuehus,140,1960,,
+Karlshøj 24733 Tappernøje,nøje,394.183,22-12-1995,Alm. Salg,2.463,7,Villa,160,1937,,Aktuel værdi
+Fasanvænget 2D4733 Tappernøje,nøje,636.080,18-12-1995,Alm. Salg,3.655,4,Villa,174,1969,,Aktuel værdi
+Saksholmvej 284733 Tappernøje,nøje,1.199.167,11-12-1995,Alm. Salg,6.852,5,Stuehus,175,1912,,
+Hovedvejen 854733 Tappernøje,nøje,540.000,22-11-1995,Alm. Salg,4.186,4,Villa,129,1978,,Aktuel værdi
+Brøderupvej 38B4733 Tappernøje,nøje,697.000,20-11-1995,Alm. Salg,2.904,8,Villa,240,1974,,Aktuel værdi
+Fasanvænget 274733 Tappernøje,nøje,476.000,14-11-1995,Alm. Salg,4.250,4,Villa,112,1978,,Aktuel værdi
+Karlshøj 264733 Tappernøje,nøje,420.000,08-11-1995,Alm. Salg,3.134,4,Villa,134,1964,,Aktuel værdi
+Brøderupvej 204733 Tappernøje,nøje,501.635,03-11-1995,Fam. Salg,-,7,Villa,228,1914,,Aktuel værdi
+Stavnstrupvej 354733 Tappernøje,nøje,1.115.000,16-10-1995,Alm. Salg,6.558,5,Stuehus,170,1907,,
+Smidstrupvej 204733 Tappernøje,nøje,495.000,11-10-1995,Alm. Salg,-,4,Villa,202,1926,,Aktuel værdi
+Oddervænget 104733 Tappernøje,nøje,560.000,10-10-1995,Alm. Salg,4.341,4,Villa,129,1986,,Aktuel værdi
+Sneserevej 194733 Tappernøje,nøje,351.000,02-10-1995,Auktion,2.193,5,Villa,160,1946,,Aktuel værdi
+Kirkevej 64733 Tappernøje,nøje,445.000,21-09-1995,Alm. Salg,2.966,4,Villa,150,1961,,Aktuel værdi
+Stavnstrupvej 604733 Tappernøje,nøje,500.000,01-08-1995,Alm. Salg,4.310,3,Villa,116,1930,,Aktuel værdi
+Stenagervej 104733 Tappernøje,nøje,579.000,21-07-1995,Fam. Salg,6.225,2,Villa,93,1700,,Aktuel værdi
+Bygårdsvej 64733 Tappernøje,nøje,500.000,13-07-1995,Alm. Salg,3.546,4,Villa,141,1972,,Aktuel værdi
+Svingkærvej 344733 Tappernøje,nøje,485.357,04-07-1995,Fam. Salg,3.279,5,Villa,148,1980,,Aktuel værdi
+Videbækvej 44733 Tappernøje,nøje,513.400,24-04-1995,Alm. Salg,3.802,5,Villa,135,1965,,Aktuel værdi
+Sneppevænget 284733 Tappernøje,nøje,479.000,16-04-1995,Alm. Salg,3.548,4,Villa,135,1977,,Aktuel værdi
+Hovedvejen 84733 Tappernøje,nøje,607.500,14-04-1995,Alm. Salg,3.491,4,Villa,174,1946,,Aktuel værdi
+Kildebakken 94733 Tappernøje,nøje,320.000,29-03-1995,Alm. Salg,3.047,3,Villa,105,1905,,Aktuel værdi
+Rypevænget 14733 Tappernøje,nøje,395.000,15-03-1995,Alm. Salg,-,4,Villa,133,1988,,Aktuel værdi
+Æskebjergvej 64733 Tappernøje,nøje,840.391,05-03-1995,Alm. Salg,2.546,8,Stuehus,330,1907,,
+Kildehøjvej 84733 Tappernøje,nøje,815.400,27-02-1995,Alm. Salg,5.742,4,Villa,142,1987,,Aktuel værdi
+Hestehavevej 44733 Tappernøje,nøje,665.000,20-02-1995,Alm. Salg,6.157,3,Villa,108,1900,,Aktuel værdi
+Brøderupvej 274733 Tappernøje,nøje,607.000,20-01-1995,Alm. Salg,3.967,4,Villa,153,1900,,Aktuel værdi
+Broskovvej 14733 Tappernøje,nøje,270.575,14-01-1995,Andet,1.780,6,Villa,152,1920,,Aktuel værdi
+Broskovvej 34733 Tappernøje,nøje,206.778,14-01-1995,Andet,-,5,Villa,171,1920,,Aktuel værdi
+Kildebakken 194733 Tappernøje,nøje,276.761,02-12-1994,Andet,1.637,6,Villa,169,1977,,Aktuel værdi
+Svingkærvej 64733 Tappernøje,nøje,571.972,14-11-1994,Alm. Salg,4.333,4,Villa,132,1980,,Aktuel værdi
+Hovvej 24733 Tappernøje,nøje,169.900,14-11-1994,Alm. Salg,1.306,3,Villa,130,2000,,Aktuel værdi
+Hovvej 104733 Tappernøje,nøje,295.000,08-11-1994,Alm. Salg,2.185,2,Villa,135,1925,,Aktuel værdi
+Gl Skolevej 14733 Tappernøje,nøje,578.600,03-10-1994,Alm. Salg,-,3,Stuehus,153,1920,,
+Bredeshave Strand 34733 Tappernøje,nøje,787.700,21-09-1994,Alm. Salg,4.773,6,Villa,165,1979,,Aktuel værdi
+Kongskildevej 84733 Tappernøje,nøje,640.000,01-09-1994,Alm. Salg,3.832,6,Stuehus,167,1937,,
+Tågeskov By 34733 Tappernøje,nøje,294.000,15-08-1994,Fam. Salg,3.161,3,Villa,93,1968,,Aktuel værdi
+Smidstrupvej 73B4733 Tappernøje,nøje,700.000,15-08-1994,Alm. Salg,2.834,8,Villa,247,1896,,Aktuel værdi
+Størlingevej 744733 Tappernøje,nøje,400.000,04-08-1994,Alm. Salg,3.448,5,Villa,116,1958,,Aktuel værdi
+Skovholmvej 174733 Tappernøje,nøje,2.100.000,01-08-1994,Alm. Salg,8.400,8,Stuehus,250,1800,,
+Sneserevej 284733 Tappernøje,nøje,322.000,27-07-1994,Alm. Salg,2.728,3,Villa,118,1954,,Aktuel værdi
+Ll Røttingevej 154733 Tappernøje,nøje,540.000,14-06-1994,Auktion,4.153,5,Villa,130,1945,,Aktuel værdi
+Strandvejen 804733 Tappernøje,nøje,926.509,30-05-1994,Fam. Salg,2.790,8,Villa,332,1910,,Aktuel værdi
+Sneserevej 374733 Tappernøje,nøje,580.000,18-05-1994,Alm. Salg,1.624,8,Villa,357,1927,,Aktuel værdi
+Stavnstrupvej 404733 Tappernøje,nøje,50.000,24-01-1994,Alm. Salg,892,3,Villa,56,1898,,Aktuel værdi
+Hovedvejen 1034733 Tappernøje,nøje,291.000,29-11-1993,Auktion,2.621,3,Stuehus,111,1912,,
+Bygårdsvej 204733 Tappernøje,nøje,540.000,31-10-1993,Alm. Salg,5.046,4,Villa,107,1969,,Aktuel værdi
+Jægervænget 44733 Tappernøje,nøje,420.000,29-10-1993,Alm. Salg,3.620,4,Villa,116,1979,,Aktuel værdi
+Saksholmvej 454733 Tappernøje,nøje,100.000,06-09-1993,Alm. Salg,-,5,Villa,161,1860,,Aktuel værdi
+Møllevej 24733 Tappernøje,nøje,385.000,13-08-1993,Alm. Salg,5.000,3,Villa,77,1964,,Aktuel værdi
+Toftegårdsvej 24733 Tappernøje,nøje,765.960,09-08-1993,Alm. Salg,3.126,7,Villa,245,1720,,Aktuel værdi
+Bækkeskov Stræde 174733 Tappernøje,nøje,700.000,28-06-1993,Alm. Salg,6.603,3,Stuehus,106,1938,,
+Jægervænget 124733 Tappernøje,nøje,346.169,28-06-1993,Fam. Salg,2.420,4,Villa,143,1975,,Aktuel værdi
+Smidstrupvej 254733 Tappernøje,nøje,425.000,24-06-1993,Alm. Salg,1.666,6,Villa,255,1920,,Aktuel værdi
+Smidstrupvej 624733 Tappernøje,nøje,335.000,18-06-1993,Alm. Salg,3.350,3,Villa,100,1777,,Aktuel værdi
+Smidstrupvej 684733 Tappernøje,nøje,282.550,15-06-1993,Alm. Salg,2.825,4,Villa,100,1927,,Aktuel værdi
+Irisvej 64733 Tappernøje,nøje,450.000,28-05-1993,Alm. Salg,4.090,4,Villa,110,1967,,Aktuel værdi
+Korskildevej 154733 Tappernøje,nøje,1.150.000,13-05-1993,Alm. Salg,6.764,8,Stuehus,170,1906,,
+Ny Prøvevej 124733 Tappernøje,nøje,1.161.000,02-05-1993,Alm. Salg,4.221,8,Villa,275,1880,,Aktuel værdi
+Rypevænget 444733 Tappernøje,nøje,337.148,05-04-1993,Alm. Salg,-,5,Villa,165,1988,,Aktuel værdi
+Harevænget 844733 Tappernøje,nøje,525.000,22-03-1993,Alm. Salg,3.476,5,Villa,151,1978,,Aktuel værdi
+Toftegårdsvej 104733 Tappernøje,nøje,310.000,22-03-1993,Alm. Salg,-,6,Villa,194,1966,,Aktuel værdi
+Møllevej 14733 Tappernøje,nøje,347.000,04-02-1993,Alm. Salg,3.368,3,Villa,103,1965,,Aktuel værdi
+Smidstrupvej 694733 Tappernøje,nøje,359.000,20-12-1992,Alm. Salg,-,4,Villa,152,1700,,Aktuel værdi
+Smidstrupvej 464733 Tappernøje,nøje,1.850.000,23-11-1992,Alm. Salg,9.736,6,Stuehus,190,1859,,
+Ll Røttingevej 74733 Tappernøje,nøje,1.500.000,16-10-1992,Alm. Salg,11.278,4,Stuehus,133,1976,,
+Sneserevej 764733 Tappernøje,nøje,340.000,02-09-1992,Fam. Salg,3.035,5,Villa,112,1951,,Aktuel værdi
+Broskovvej 224733 Tappernøje,nøje,290.000,28-08-1992,Fam. Salg,3.222,3,Villa,90,1777,,Aktuel værdi
+Snesere Torpvej 214733 Tappernøje,nøje,550.000,25-08-1992,Alm. Salg,2.989,5,Villa,184,1864,,Aktuel værdi
+Brøderupvej 324733 Tappernøje,nøje,622.195,27-07-1992,Alm. Salg,-,6,Villa,223,1908,,Aktuel værdi
+Bækkeskov Stræde 28B4733 Tappernøje,nøje,1.500.000,20-07-1992,Alm. Salg,-,10,Villa,252,1965,,Aktuel værdi
+Karlshøj 304733 Tappernøje,nøje,230.000,09-07-1992,Alm. Salg,-,6,Villa,175,1931,,Aktuel værdi
+Brøderupvej 434733 Tappernøje,nøje,481.600,08-07-1992,Alm. Salg,4.300,5,Villa,112,1923,,Aktuel værdi
+Karlshøj 284733 Tappernøje,nøje,395.000,11-06-1992,Alm. Salg,4.247,4,Villa,93,1939,,Aktuel værdi
+Videbækvej 2B4733 Tappernøje,nøje,353.000,09-06-1992,Alm. Salg,3.096,4,Villa,114,1974,,Aktuel værdi
+Sølperupvej 194733 Tappernøje,nøje,112.756,01-06-1992,Alm. Salg,2.818,2,Villa,40,1830,,Aktuel værdi
+Kærvej 24733 Tappernøje,nøje,275.000,01-06-1992,Alm. Salg,-,4,Villa,143,1930,,Aktuel værdi
+Kærvej 34733 Tappernøje,nøje,325.000,01-06-1992,Fam. Salg,-,7,Villa,230,1926,,Aktuel værdi
+Bækkeskov Stræde 54733 Tappernøje,nøje,511.624,18-05-1992,Fam. Salg,-,8,Stuehus,262,1830,,
+Skovmosevej 44733 Tappernøje,nøje,885.000,18-05-1992,Alm. Salg,-,3,Stuehus,164,1923,,
+Lundhøjvej 64733 Tappernøje,nøje,530.000,13-05-1992,Alm. Salg,4.108,4,Villa,129,1977,,Aktuel værdi
+Brøderupvej 5B4733 Tappernøje,nøje,185.000,23-03-1992,Alm. Salg,1.107,3,Villa,167,1902,,Aktuel værdi
+Gl Skolevej 114733 Tappernøje,nøje,225.000,11-03-1992,Alm. Salg,1.859,3,Villa,121,1907,,Aktuel værdi
+Teglværksvej 154733 Tappernøje,nøje,285.000,04-02-1992,Alm. Salg,2.938,3,Villa,97,1885,,Aktuel værdi

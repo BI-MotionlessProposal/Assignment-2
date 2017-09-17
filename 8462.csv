@@ -1,0 +1,900 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Ketting Parkvej 248462 Harlev J,ev J,2.114.000,24-04-2017,Alm. Salg,18.707,5,Rækkehus,113,2009,-2 %,Aktuel værdi
+Labing Møllevej 58462 Harlev J,ev J,1.830.000,31-03-2017,Alm. Salg,8.798,8,Stuehus,208,1914,,
+Acervej 88462 Harlev J,ev J,1.850.000,31-03-2017,Alm. Salg,14.919,5,Villa,124,1964,-3 %,Aktuel værdi
+Framlevvej 118462 Harlev J,ev J,2.200.000,30-03-2017,Alm. Salg,8.208,7,Villa,268,1962,-6 %,Aktuel værdi
+Grønhøjvej 198462 Harlev J,ev J,1.780.000,27-03-2017,Alm. Salg,14.240,4,Villa,125,1964,-4 %,Aktuel værdi
+Nytoften 118462 Harlev J,ev J,1.525.000,26-02-2017,Alm. Salg,14.523,3,Rækkehus,105,1983,-5 %,Aktuel værdi
+Rødlundvænget 218462 Harlev J,ev J,3.850.000,25-02-2017,Alm. Salg,19.444,8,Villa,198,2000,,Aktuel værdi
+Sydbakken 168462 Harlev J,ev J,3.200.000,23-02-2017,Alm. Salg,14.285,7,Villa,224,1973,,Aktuel værdi
+Edelhoffvej 2C8462 Harlev J,ev J,1.090.000,08-02-2017,Alm. Salg,12.386,3,Rækkehus,88,1971,-9 %,Aktuel værdi
+Gammel Stillingvej 4388462 Harlev J,ev J,2.025.000,25-01-2017,Alm. Salg,18.409,4,Villa,110,1992,-3 %,Aktuel værdi
+Grønhøjvej 56D8462 Harlev J,ev J,2.440.000,19-01-2017,Alm. Salg,15.541,5,Villa,157,1978,-2 %,Aktuel værdi
+Damkærvej 108462 Harlev J,ev J,1.084.000,10-01-2017,Fam. Salg,8.089,4,Villa,134,1960,,Aktuel værdi
+Stallinggårdvej 28462 Harlev J,ev J,3.360.000,29-12-2016,Alm. Salg,17.319,6,Villa,194,2008,-4 %,Aktuel værdi
+Havremarksvej 28462 Harlev J,ev J,1.780.000,28-12-2016,Alm. Salg,16.952,4,Villa,105,1968,-5 %,Aktuel værdi
+Nytoften 138462 Harlev J,ev J,1.799.000,23-12-2016,Alm. Salg,15.643,4,Rækkehus,115,1983,0 %,Aktuel værdi
+Florasvej 158462 Harlev J,ev J,2.775.000,13-12-2016,Alm. Salg,16.323,4,Villa,170,1968,-1 %,Aktuel værdi
+Florasvej 168462 Harlev J,ev J,2.600.000,12-12-2016,Alm. Salg,15.294,4,Villa,170,1970,4 %,Aktuel værdi
+Kettinggårdsvej 138462 Harlev J,ev J,4.165.000,06-12-2016,Alm. Salg,18.108,7,Villa,230,2009,-3 %,Aktuel værdi
+Kettingvej 268462 Harlev J,ev J,1.870.000,06-12-2016,Alm. Salg,12.142,5,Villa,154,1963,-4 %,Aktuel værdi
+Bygmarksvej 108462 Harlev J,ev J,1.950.000,02-12-2016,Alm. Salg,19.117,4,Villa,102,1969,-2 %,Aktuel værdi
+Tandrupvej 108462 Harlev J,ev J,1.272.310,23-11-2016,Andet,4.479,9,Villa,284,1877,-66 %,Aktuel værdi
+Ketting Parkvej 2338462 Harlev J,ev J,2.455.048,08-11-2016,Alm. Salg,18.321,4,Rækkehus,134,2016,,Aktuel værdi
+Kornelvej 388462 Harlev J,ev J,2.498.000,02-11-2016,Alm. Salg,7.955,10,Stuehus,314,1928,,
+Stallinggårdvej 48462 Harlev J,ev J,1.655.000,28-10-2016,Andet,8.152,6,Villa,203,2005,,Aktuel værdi
+Nytoften 88462 Harlev J,ev J,1.375.000,19-10-2016,Alm. Salg,13.480,5,Rækkehus,102,1984,-8 %,Aktuel værdi
+Hvedemarksvej 58462 Harlev J,ev J,2.890.000,19-10-2016,Alm. Salg,17.730,5,Villa,163,1968,-4 %,Aktuel værdi
+Araliavej 438462 Harlev J,ev J,750.000,17-10-2016,Alm. Salg,4.838,5,Villa,155,1979,-47 %,Aktuel værdi
+Grønhøjvej 478462 Harlev J,ev J,2.300.000,13-10-2016,Alm. Salg,14.838,4,Villa,155,1969,-2 %,Aktuel værdi
+Framlev Korsvej 298462 Harlev J,ev J,2.000.000,03-10-2016,Alm. Salg,12.048,5,Villa,166,1991,,Aktuel værdi
+Ketting Parkvej 2258462 Harlev J,ev J,2.275.000,30-09-2016,Alm. Salg,21.462,4,Rækkehus,106,2015,-1 %,Aktuel værdi
+Højlundvej 308462 Harlev J,ev J,2.100.000,27-09-2016,Alm. Salg,10.714,8,Villa,196,1969,-8 %,Aktuel værdi
+Sydbakken 308462 Harlev J,ev J,1.515.000,19-09-2016,Fam. Salg,9.837,4,Villa,154,1972,,Aktuel værdi
+Tåstrupvej 1108462 Harlev J,ev J,1.250.000,09-09-2016,Andet,7.267,6,Villa,172,1877,,Aktuel værdi
+Vingetoften 148462 Harlev J,ev J,2.100.000,06-09-2016,Andet,15.555,5,Villa,135,2004,,Aktuel værdi
+Spiræavej 168462 Harlev J,ev J,2.375.000,29-08-2016,Alm. Salg,11.046,6,Villa,215,1976,-5 %,Aktuel værdi
+Højbyvej 218462 Harlev J,ev J,1.450.000,25-08-2016,Alm. Salg,17.261,3,Villa,84,1910,-3 %,Aktuel værdi
+Vårgyvelvej 98462 Harlev J,ev J,2.500.000,19-08-2016,Alm. Salg,16.025,5,Villa,156,1969,0 %,Aktuel værdi
+Engsvinget 298462 Harlev J,ev J,2.374.000,18-08-2016,Alm. Salg,14.387,5,Villa,165,1973,-1 %,Aktuel værdi
+Tandrupvej 188462 Harlev J,ev J,3.428.804,17-08-2016,Alm. Salg,9.768,8,Stuehus,351,1845,,
+Kettingvej 188462 Harlev J,ev J,1.900.000,15-08-2016,Alm. Salg,13.286,4,Villa,143,1973,-5 %,Aktuel værdi
+Åbovej 518462 Harlev J,ev J,2.430.000,04-08-2016,Alm. Salg,18.134,4,Villa,134,1960,-3 %,Aktuel værdi
+Grønhøjvej 718462 Harlev J,ev J,1.500.000,03-08-2016,Alm. Salg,11.811,4,Villa,127,1967,-9 %,Aktuel værdi
+Engsvinget 238462 Harlev J,ev J,1.936.000,21-07-2016,Alm. Salg,14.892,5,Villa,130,1973,-3 %,Aktuel værdi
+Florasvej 28462 Harlev J,ev J,1.775.000,16-07-2016,Alm. Salg,14.087,5,Villa,126,1967,-6 %,Aktuel værdi
+Labing Landevej 18462 Harlev J,ev J,2.400.000,08-07-2016,Alm. Salg,14.285,4,Stuehus,168,1911,-4 %,
+Sydbakken 238462 Harlev J,ev J,2.175.000,01-07-2016,Alm. Salg,10.357,4,Villa,210,1969,-3 %,Aktuel værdi
+Ketting Parkvej 2138462 Harlev J,ev J,2.150.000,30-06-2016,Alm. Salg,20.283,4,Rækkehus,106,2016,3 %,Aktuel værdi
+Labingvej 18462 Harlev J,ev J,17.750.000,29-06-2016,Alm. Salg,42.261,12,Stuehus,420,1927,,
+Gammel Mosevej 11A8462 Harlev J,ev J,2.225.000,29-06-2016,Alm. Salg,15.892,5,Villa,140,1990,-5 %,Aktuel værdi
+Sydbakken 578462 Harlev J,ev J,4.300.000,23-06-2016,Alm. Salg,21.608,7,Villa,199,1970,,Aktuel værdi
+Sydbakken 158462 Harlev J,ev J,516.960,07-06-2016,Fam. Salg,2.872,6,Villa,180,1970,,Aktuel værdi
+Tåstrup Byvej 118462 Harlev J,ev J,1.955.000,06-06-2016,Fam. Salg,11.432,6,Villa,171,2003,,Aktuel værdi
+Nyvangsvej 18462 Harlev J,ev J,2.250.000,31-05-2016,Alm. Salg,18.750,3,Villa,120,1968,-2 %,Aktuel værdi
+Skibbyvej 518462 Harlev J,ev J,4.325.000,10-05-2016,Alm. Salg,41.190,3,Villa,105,2008,-13 %,Aktuel værdi
+Grønhøjvej 738462 Harlev J,ev J,1.471.238,02-05-2016,Fam. Salg,8.862,7,Villa,166,1969,,Aktuel værdi
+Ketting Parkvej 2158462 Harlev J,ev J,2.200.000,02-05-2016,Alm. Salg,20.754,4,Rækkehus,106,2016,,Aktuel værdi
+Rødlundvej 4978462 Harlev J,ev J,2.998.000,24-04-2016,Alm. Salg,20.256,5,Villa,148,2003,0 %,Aktuel værdi
+Vårgyvelvej 38462 Harlev J,ev J,2.685.000,13-04-2016,Alm. Salg,14.752,8,Villa,182,1967,,Aktuel værdi
+Ketting Parkvej 388462 Harlev J,ev J,2.049.000,11-04-2016,Alm. Salg,19.701,4,Rækkehus,104,2009,0 %,Aktuel værdi
+Nyvangsvej 12A8462 Harlev J,ev J,1.400.000,23-03-2016,Alm. Salg,15.909,3,Villa,88,1966,-6 %,Aktuel værdi
+Ketting Parkvej 188462 Harlev J,ev J,2.075.000,21-03-2016,Alm. Salg,19.951,3,Rækkehus,104,2008,-2 %,Aktuel værdi
+Ketting Parkvej 2178462 Harlev J,ev J,2.125.000,11-03-2016,Alm. Salg,20.047,4,Rækkehus,106,2016,,Aktuel værdi
+Spiræavej 318462 Harlev J,ev J,1.600.000,09-03-2016,Alm. Salg,11.764,5,Villa,136,1976,-3 %,Aktuel værdi
+Storringvej 168462 Harlev J,ev J,1.880.000,29-02-2016,Alm. Salg,10.742,5,Villa,175,1904,-1 %,Aktuel værdi
+Lærkesvinget 188462 Harlev J,ev J,1.550.000,25-02-2016,Alm. Salg,13.247,5,Villa,117,1962,-3 %,Aktuel værdi
+Brombærvej 198462 Harlev J,ev J,1.100.000,17-02-2016,Alm. Salg,7.586,6,Villa,145,1956,-8 %,Aktuel værdi
+Ketting Parkvej 2198462 Harlev J,ev J,2.100.000,11-02-2016,Alm. Salg,19.811,4,Rækkehus,106,2016,,Aktuel værdi
+Engsvinget 148462 Harlev J,ev J,2.650.000,10-02-2016,Alm. Salg,14.171,7,Villa,187,1972,,Aktuel værdi
+Bygmarksvej 208462 Harlev J,ev J,1.400.000,10-02-2016,Alm. Salg,11.382,4,Villa,123,1968,-15 %,Aktuel værdi
+Ketting Parkvej 2118462 Harlev J,ev J,2.100.000,07-02-2016,Alm. Salg,19.811,4,Rækkehus,106,2016,,Aktuel værdi
+Ketting Parkvej 2218462 Harlev J,ev J,2.085.000,07-02-2016,Alm. Salg,19.669,4,Rækkehus,106,2016,,Aktuel værdi
+Vingetoften 258462 Harlev J,ev J,2.050.000,05-02-2016,Alm. Salg,16.400,4,Villa,125,1979,-2 %,Aktuel værdi
+Lærkesvinget 218462 Harlev J,ev J,1.800.000,25-01-2016,Alm. Salg,17.821,4,Villa,101,1962,-5 %,Aktuel værdi
+Engsvinget 418462 Harlev J,ev J,1.700.000,21-01-2016,Alm. Salg,10.897,4,Villa,156,1970,,Aktuel værdi
+Åbovej 538462 Harlev J,ev J,2.875.000,06-01-2016,Alm. Salg,10.727,7,Villa,268,1962,-7 %,Aktuel værdi
+Kirkesvinget 38462 Harlev J,ev J,4.300.000,30-12-2015,Alm. Salg,12.427,12,Stuehus,346,1894,-4 %,
+Grønhøjvej 758462 Harlev J,ev J,2.298.000,21-12-2015,Alm. Salg,15.527,5,Villa,148,1970,0 %,Aktuel værdi
+Tiliavej 78462 Harlev J,ev J,1.580.000,14-12-2015,Alm. Salg,11.366,5,Villa,139,1967,-8 %,Aktuel værdi
+Hørslevvej 1318462 Harlev J,ev J,1.360.000,10-12-2015,Alm. Salg,10.225,4,Villa,133,1969,-9 %,Aktuel værdi
+Stillingvej 5138462 Harlev J,ev J,1.250.000,09-12-2015,Andet,12.019,4,Stuehus,104,1909,,
+Rødlundvej 5218462 Harlev J,ev J,3.365.000,06-12-2015,Alm. Salg,18.189,6,Villa,185,2001,-4 %,Aktuel værdi
+Rødlundvænget 58462 Harlev J,ev J,2.980.000,30-11-2015,Alm. Salg,17.225,6,Villa,173,2002,-1 %,Aktuel værdi
+Hørslevvej 1348462 Harlev J,ev J,1.700.000,26-11-2015,Alm. Salg,12.781,5,Villa,133,1827,-6 %,Aktuel værdi
+Acervej 148462 Harlev J,ev J,1.650.000,25-11-2015,Alm. Salg,15.277,4,Villa,108,1963,-3 %,Aktuel værdi
+Lærkesvinget 248462 Harlev J,ev J,2.412.500,23-11-2015,Alm. Salg,15.078,5,Villa,160,1963,-3 %,Aktuel værdi
+Nytoften 148462 Harlev J,ev J,3.648.000,06-11-2015,Alm. Salg,19.934,7,Villa,183,2001,,Aktuel værdi
+Ketting Parkvej 538462 Harlev J,ev J,4.498.000,06-11-2015,Alm. Salg,21.018,8,Villa,214,2011,0 %,Aktuel værdi
+Framlevvej 278462 Harlev J,ev J,2.195.000,19-10-2015,Alm. Salg,13.143,5,Villa,167,1961,0 %,Aktuel værdi
+Gammel Stillingvej 4618462 Harlev J,ev J,1.900.000,16-10-2015,Alm. Salg,13.868,5,Villa,137,1919,-5 %,Aktuel værdi
+Ketting Parkvej 968462 Harlev J,ev J,1.275.000,09-10-2015,Fam. Salg,14.325,3,Rækkehus,89,2012,-29 %,Aktuel værdi
+Acervej 238462 Harlev J,ev J,2.170.000,07-10-2015,Alm. Salg,15.724,5,Villa,138,1965,-1 %,Aktuel værdi
+Ketting Parkvej 2318462 Harlev J,ev J,2.395.000,02-10-2015,Alm. Salg,17.873,4,Rækkehus,134,2015,,Aktuel værdi
+Højbyvej 98462 Harlev J,ev J,3.400.000,01-10-2015,Alm. Salg,22.818,6,Villa,149,1964,-15 %,Aktuel værdi
+Engsvinget 258462 Harlev J,ev J,1.998.000,30-09-2015,Alm. Salg,10.515,5,Villa,190,1971,0 %,Aktuel værdi
+Tiliavej 28462 Harlev J,ev J,2.150.000,22-09-2015,Alm. Salg,8.600,8,Villa,250,1964,-2 %,Aktuel værdi
+Araliavej 68462 Harlev J,ev J,2.450.000,18-09-2015,Alm. Salg,18.014,5,Villa,136,1998,-6 %,Aktuel værdi
+Ketting Parkvej 2238462 Harlev J,ev J,2.135.000,17-09-2015,Alm. Salg,20.141,4,Rækkehus,106,2015,,Aktuel værdi
+Sydbakken 598462 Harlev J,ev J,1.999.000,15-09-2015,Alm. Salg,12.339,5,Villa,162,1970,0 %,Aktuel værdi
+Frøkjærvænget 58462 Harlev J,ev J,2.098.000,10-09-2015,Alm. Salg,15.313,5,Villa,137,1984,0 %,Aktuel værdi
+"Edelhoffvej 2A, 1. TV8462 Harlev J",ev J,1.198.000,06-09-2015,Alm. Salg,15.763,3,Lejlighed,76,1972,0 %,Aktuel værdi
+Engsvinget 58462 Harlev J,ev J,2.195.000,27-08-2015,Alm. Salg,11.492,7,Villa,191,1969,0 %,Aktuel værdi
+Nytoften 168462 Harlev J,ev J,3.300.000,24-08-2015,Alm. Salg,19.411,6,Villa,170,2007,-2 %,Aktuel værdi
+Holmbækvej 78462 Harlev J,ev J,1.950.000,22-08-2015,Alm. Salg,12.580,4,Villa,155,1830,-7 %,Aktuel værdi
+Tåstrupvej 1508462 Harlev J,ev J,369.271,20-08-2015,Alm. Salg,5.769,2,Villa,64,1937,,Aktuel værdi
+Parcelvej 68462 Harlev J,ev J,1.275.000,20-08-2015,Alm. Salg,13.709,3,Villa,93,1949,-9 %,Aktuel værdi
+Bøgebakken 28462 Harlev J,ev J,2.630.000,03-08-2015,Alm. Salg,14.530,4,Villa,181,1945,-8 %,Aktuel værdi
+Engsvinget 308462 Harlev J,ev J,2.075.000,29-07-2015,Alm. Salg,16.210,4,Villa,128,1971,-1 %,Aktuel værdi
+Florasvej 128462 Harlev J,ev J,400.000,27-07-2015,Andet,3.007,6,Villa,133,1967,,Aktuel værdi
+Ketting Parkvej 528462 Harlev J,ev J,2.000.000,06-07-2015,Alm. Salg,19.230,4,Rækkehus,104,2009,-2 %,Aktuel værdi
+Storringvej 228462 Harlev J,ev J,4.250.000,26-06-2015,Fam. Salg,20.047,8,Stuehus,212,1928,,
+Rødlundvej 2848462 Harlev J,ev J,1.325.000,19-06-2015,Andet,8.179,5,Villa,162,1998,,Aktuel værdi
+Rødlundvej 38462 Harlev J,ev J,4.010.000,15-06-2015,Alm. Salg,27.465,5,Villa,146,1994,-2 %,Aktuel værdi
+Gammel Stillingvej 4588462 Harlev J,ev J,1.750.000,02-06-2015,Alm. Salg,15.086,3,Villa,116,1988,-3 %,Aktuel værdi
+Guldregnvej 418462 Harlev J,ev J,2.112.000,31-05-2015,Alm. Salg,15.529,4,Villa,136,1975,-2 %,Aktuel værdi
+Stillingvej 5078462 Harlev J,ev J,7.982.300,30-05-2015,Alm. Salg,22.741,9,Stuehus,351,1974,,
+Grønhøjvej 298462 Harlev J,ev J,1.950.000,12-05-2015,Alm. Salg,15.234,4,Villa,128,1969,,Aktuel værdi
+Framlevvej 68462 Harlev J,ev J,2.700.000,12-05-2015,Alm. Salg,18.750,4,Villa,144,1942,-4 %,Aktuel værdi
+Lærkesvinget 118462 Harlev J,ev J,1.954.000,06-05-2015,Alm. Salg,15.886,4,Villa,123,1975,-1 %,Aktuel værdi
+Tandrupvej 98462 Harlev J,ev J,2.595.000,04-05-2015,Alm. Salg,17.533,6,Stuehus,148,1910,0 %,
+Spiræavej 238462 Harlev J,ev J,1.945.000,03-05-2015,Alm. Salg,16.208,4,Villa,120,1977,0 %,Aktuel værdi
+Framlev Korsvej 328462 Harlev J,ev J,3.998.000,30-04-2015,Alm. Salg,17.085,4,Stuehus,234,1909,,
+Vårgyvelvej 68462 Harlev J,ev J,2.475.000,28-04-2015,Alm. Salg,16.500,5,Villa,150,1968,-1 %,Aktuel værdi
+Espevej 28462 Harlev J,ev J,2.150.000,27-04-2015,Andet,13.354,7,Villa,161,1935,,Aktuel værdi
+Skibbyvej 538462 Harlev J,ev J,290.000,22-04-2015,Fam. Salg,2.000,4,Stuehus,145,1964,,
+Ketting Parkvej 2298462 Harlev J,ev J,2.425.000,20-04-2015,Alm. Salg,18.097,4,Rækkehus,134,2015,,Aktuel værdi
+Gammel Stillingvej 4528462 Harlev J,ev J,1.250.000,14-04-2015,Fam. Salg,10.162,4,Villa,123,1965,,Aktuel værdi
+Nyvangsvej 218462 Harlev J,ev J,2.750.000,10-04-2015,Alm. Salg,17.187,4,Villa,160,1967,-3 %,Aktuel værdi
+Lærkesvinget 298462 Harlev J,ev J,1.048.250,09-04-2015,Fam. Salg,8.592,5,Villa,122,1964,,Aktuel værdi
+Ketting Parkvej 2278462 Harlev J,ev J,2.425.000,26-03-2015,Alm. Salg,18.097,4,Rækkehus,134,2015,,Aktuel værdi
+Bøgebakken 58462 Harlev J,ev J,1.400.000,25-03-2015,Alm. Salg,7.734,5,Villa,181,1914,-17 %,Aktuel værdi
+Ketting Parkvej 288462 Harlev J,ev J,2.198.000,23-03-2015,Alm. Salg,18.627,5,Rækkehus,118,2008,0 %,Aktuel værdi
+Framlevvej 18462 Harlev J,ev J,1.650.000,23-03-2015,Alm. Salg,8.250,12,Villa,200,1923,,Aktuel værdi
+Ketting Parkvej 168462 Harlev J,ev J,2.098.000,22-03-2015,Alm. Salg,20.173,4,Rækkehus,104,2008,0 %,Aktuel værdi
+Bygmarksvej 128462 Harlev J,ev J,2.435.000,19-03-2015,Alm. Salg,15.915,5,Villa,153,1971,-3 %,Aktuel værdi
+Ulmusvej 98462 Harlev J,ev J,2.050.000,19-03-2015,Alm. Salg,13.141,3,Villa,156,1966,-7 %,Aktuel værdi
+Labingvej 7A8462 Harlev J,ev J,1.480.000,17-03-2015,Alm. Salg,9.866,4,Villa,150,2000,-5 %,Aktuel værdi
+Sydbakken 458462 Harlev J,ev J,1.970.000,11-03-2015,Alm. Salg,11.726,6,Villa,168,1970,-1 %,Aktuel værdi
+Tåstrupvej 1058462 Harlev J,ev J,3.335.000,04-03-2015,Alm. Salg,22.233,5,Stuehus,150,1797,,
+Kettingvej 88462 Harlev J,ev J,1.300.000,03-03-2015,Alm. Salg,5.909,6,Villa,220,2017,-7 %,Aktuel værdi
+Højlundvej 288462 Harlev J,ev J,1.950.000,02-03-2015,Alm. Salg,13.087,5,Villa,149,1969,-11 %,Aktuel værdi
+Grønhøjvej 228462 Harlev J,ev J,1.800.000,27-02-2015,Alm. Salg,12.676,4,Villa,142,1961,-10 %,Aktuel værdi
+Framlev Korsvej 18462 Harlev J,ev J,1.450.000,26-01-2015,Alm. Salg,8.381,5,Villa,173,1963,-15 %,Aktuel værdi
+Araliavej 458462 Harlev J,ev J,2.210.000,21-01-2015,Alm. Salg,16.014,5,Villa,138,1980,,Aktuel værdi
+Ketting Parkvej 548462 Harlev J,ev J,1.950.000,19-01-2015,Alm. Salg,18.750,4,Rækkehus,104,2009,0 %,Aktuel værdi
+Ketting Parkvej 558462 Harlev J,ev J,3.200.000,19-01-2015,Fam. Salg,18.181,5,Villa,176,2009,,Aktuel værdi
+Edelhoffvej 68462 Harlev J,ev J,4.725.000,07-01-2015,Alm. Salg,15.802,8,Villa,299,2008,-5 %,Aktuel værdi
+Bøgebakken 1A8462 Harlev J,ev J,772.000,07-01-2015,Fam. Salg,8.577,2,Villa,90,1974,,Aktuel værdi
+Framlev Korsvej 258462 Harlev J,ev J,2.425.000,11-12-2014,Alm. Salg,9.661,7,Villa,251,1949,-2 %,Aktuel værdi
+Harlev Kirkevej 98462 Harlev J,ev J,2.450.000,24-11-2014,Alm. Salg,9.879,6,Villa,248,1910,-9 %,Aktuel værdi
+Tåstrupvej 1298462 Harlev J,ev J,1.500.000,24-11-2014,Alm. Salg,12.605,4,Villa,119,1910,-16 %,Aktuel værdi
+Grøntoften 18462 Harlev J,ev J,1.850.000,19-11-2014,Alm. Salg,13.120,4,Villa,141,1968,-7 %,Aktuel værdi
+Florasvej 138462 Harlev J,ev J,1.625.000,07-11-2014,Alm. Salg,14.508,4,Villa,112,1967,-10 %,Aktuel værdi
+Gammel Stillingvej 4468462 Harlev J,ev J,1.983.000,06-11-2014,Alm. Salg,11.140,6,Villa,178,1906,-10 %,Aktuel værdi
+Vestervej 128462 Harlev J,ev J,1.330.000,15-10-2014,Alm. Salg,9.637,6,Villa,138,1957,-11 %,Aktuel værdi
+Nytoften 238462 Harlev J,ev J,2.225.000,06-10-2014,Alm. Salg,17.382,4,Villa,128,1998,-3 %,Aktuel værdi
+Ketting Parkvej 428462 Harlev J,ev J,2.000.000,03-10-2014,Alm. Salg,16.949,5,Rækkehus,118,2009,-2 %,Aktuel værdi
+Lilleringvej 458462 Harlev J,ev J,975.000,01-10-2014,Fam. Salg,5.873,5,Villa,166,1969,,Aktuel værdi
+Nytoften 108462 Harlev J,ev J,1.750.000,26-09-2014,Alm. Salg,15.909,3,Rækkehus,110,1984,,Aktuel værdi
+Nytoften 98462 Harlev J,ev J,1.660.000,13-09-2014,Alm. Salg,15.660,5,Rækkehus,106,1983,-2 %,Aktuel værdi
+Florasvej 258462 Harlev J,ev J,2.250.000,08-09-2014,Alm. Salg,17.578,4,Villa,128,1972,,Aktuel værdi
+Sydbakken 558462 Harlev J,ev J,1.203.277,04-09-2014,Fam. Salg,6.915,6,Villa,174,1970,,Aktuel værdi
+Spiræavej 208462 Harlev J,ev J,2.500.000,04-09-2014,Alm. Salg,14.367,4,Villa,174,1975,-4 %,Aktuel værdi
+Labingvej 108462 Harlev J,ev J,475.000,19-08-2014,Auktion,4.439,4,Rækkehus,107,1777,,Aktuel værdi
+Ulmusvej 58462 Harlev J,ev J,2.450.000,08-08-2014,Alm. Salg,9.919,7,Villa,247,1965,-2 %,Aktuel værdi
+Grønhøjvej 378462 Harlev J,ev J,980.000,07-08-2014,Fam. Salg,7.368,4,Villa,133,1972,,Aktuel værdi
+Sydbakken 348462 Harlev J,ev J,2.368.000,04-08-2014,Alm. Salg,12.800,7,Villa,185,1972,-9 %,Aktuel værdi
+Hørslevvej 1298462 Harlev J,ev J,2.000.000,30-07-2014,Alm. Salg,7.751,4,Stuehus,258,1890,-11 %,
+Kirkesvinget 28462 Harlev J,ev J,2.000.000,30-07-2014,Alm. Salg,11.363,6,Villa,176,1800,-11 %,Aktuel værdi
+Grøntoften 178462 Harlev J,ev J,1.675.000,17-07-2014,Alm. Salg,11.166,6,Villa,150,1968,-16 %,Aktuel værdi
+Ulmusvej 18462 Harlev J,ev J,1.790.000,11-07-2014,Alm. Salg,12.013,5,Villa,149,1963,-6 %,Aktuel værdi
+Framlev Korsvej 5A8462 Harlev J,ev J,1.500.000,08-07-2014,Alm. Salg,8.333,5,Villa,180,1975,-17 %,Aktuel værdi
+Araliavej 678462 Harlev J,ev J,750.000,07-07-2014,Alm. Salg,5.102,5,Villa,147,1985,-67 %,Aktuel værdi
+Sydbakken 328462 Harlev J,ev J,1.530.000,04-07-2014,Fam. Salg,12.047,4,Villa,127,1972,,Aktuel værdi
+"Edelhoffvej 2A, ST. TV8462 Harlev J",ev J,875.000,02-07-2014,Alm. Salg,11.075,2,Lejlighed,79,1972,-3 %,Aktuel værdi
+Nyvangsvej 228462 Harlev J,ev J,1.800.000,01-07-2014,Alm. Salg,11.842,5,Villa,152,1965,-10 %,Aktuel værdi
+Rødlundvej 2928462 Harlev J,ev J,1.247.500,30-06-2014,Fam. Salg,8.785,5,Villa,142,1996,,Aktuel værdi
+Rødlundvej 2908462 Harlev J,ev J,2.587.500,20-06-2014,Alm. Salg,16.801,5,Villa,154,1997,-4 %,Aktuel værdi
+Araliavej 638462 Harlev J,ev J,2.210.000,19-06-2014,Alm. Salg,13.987,5,Villa,158,1985,-2 %,Aktuel værdi
+Lilleringvej 98462 Harlev J,ev J,1.550.000,10-06-2014,Alm. Salg,17.032,3,Villa,91,1961,-9 %,Aktuel værdi
+Sydbakken 698462 Harlev J,ev J,2.600.000,02-06-2014,Alm. Salg,11.504,8,Villa,226,1973,-4 %,Aktuel værdi
+Lilleringvej 498462 Harlev J,ev J,2.800.000,26-05-2014,Alm. Salg,9.459,7,Villa,296,1877,-15 %,Aktuel værdi
+Framlev Korsvej 58462 Harlev J,ev J,1.650.000,13-05-2014,Alm. Salg,11.000,4,Villa,150,1932,-3 %,Aktuel værdi
+Lærkesvinget 48462 Harlev J,ev J,1.745.000,07-05-2014,Alm. Salg,11.258,5,Villa,155,1959,-6 %,Aktuel værdi
+Vestervej 328462 Harlev J,ev J,1.498.000,30-04-2014,Alm. Salg,11.795,5,Villa,127,1960,0 %,Aktuel værdi
+Kettingvej 27A8462 Harlev J,ev J,1.675.000,29-04-2014,Alm. Salg,12.884,4,Villa,130,1971,-7 %,Aktuel værdi
+Sydbakken 1078462 Harlev J,ev J,1.720.000,28-04-2014,Alm. Salg,13.437,4,Villa,128,1971,-4 %,Aktuel værdi
+Ketting Parkvej 868462 Harlev J,ev J,2.168.000,14-04-2014,Alm. Salg,18.852,4,Rækkehus,115,2011,-1 %,Aktuel værdi
+Espevej 3A8462 Harlev J,ev J,2.150.000,11-04-2014,Alm. Salg,14.429,6,Villa,149,1989,-2 %,Aktuel værdi
+Araliavej 618462 Harlev J,ev J,2.175.000,19-03-2014,Alm. Salg,15.425,5,Villa,141,1985,-5 %,Aktuel værdi
+Vestervej 188462 Harlev J,ev J,1.900.000,02-03-2014,Alm. Salg,16.666,4,Villa,114,1958,-2 %,Aktuel værdi
+Hørslevvej 1098462 Harlev J,ev J,200.000,24-02-2014,Alm. Salg,1.136,6,Stuehus,176,1755,,
+Rødlundvej 3108462 Harlev J,ev J,2.500.000,09-02-2014,Alm. Salg,16.025,6,Villa,156,1996,-7 %,Aktuel værdi
+Harlev Kirkevej 38462 Harlev J,ev J,1.550.000,31-01-2014,Alm. Salg,10.915,7,Villa,142,1870,-3 %,Aktuel værdi
+Tandrupvej 38462 Harlev J,ev J,645.000,30-01-2014,Alm. Salg,6.323,1,Villa,102,1873,,Aktuel værdi
+Lilleringvej 58462 Harlev J,ev J,1.650.000,23-01-2014,Alm. Salg,15.277,4,Villa,108,1961,-3 %,Aktuel værdi
+Engsvinget 458462 Harlev J,ev J,1.275.000,21-01-2014,Alm. Salg,11.283,4,Villa,113,1969,-6 %,Aktuel værdi
+Vingetoften 338462 Harlev J,ev J,1.950.000,10-01-2014,Alm. Salg,15.000,4,Villa,130,1970,-2 %,Aktuel værdi
+Sydbakken 538462 Harlev J,ev J,1.700.000,17-12-2013,Alm. Salg,14.166,4,Villa,120,1970,-10 %,Aktuel værdi
+Snåstrupvej 98462 Harlev J,ev J,3.888.750,04-12-2013,Fam. Salg,11.505,10,Stuehus,338,2002,,
+Grønhøjvej 788462 Harlev J,ev J,2.030.000,29-11-2013,Alm. Salg,11.666,4,Villa,174,1971,-3 %,Aktuel værdi
+Gammel Stillingvej 4378462 Harlev J,ev J,1.800.000,22-11-2013,Alm. Salg,13.333,4,Villa,135,1969,-10 %,Aktuel værdi
+Grønhøjvej 48462 Harlev J,ev J,1.999.000,18-11-2013,Alm. Salg,14.278,4,Villa,140,1984,0 %,Aktuel værdi
+Framlevvej 48462 Harlev J,ev J,1.550.000,14-11-2013,Fam. Salg,9.872,5,Villa,157,1912,,Aktuel værdi
+Nyvangsvej 88462 Harlev J,ev J,1.510.000,04-11-2013,Alm. Salg,16.063,4,Villa,94,1963,-6 %,Aktuel værdi
+Stillingvej 5088462 Harlev J,ev J,2.900.000,31-10-2013,Alm. Salg,19.078,4,Villa,152,1898,-3 %,Aktuel værdi
+Gammel Stillingvej 4208462 Harlev J,ev J,1.825.000,31-10-2013,Alm. Salg,17.892,5,Villa,102,1934,-3 %,Aktuel værdi
+Lærkesvinget 228462 Harlev J,ev J,2.050.000,29-10-2013,Alm. Salg,15.298,5,Villa,134,1961,-2 %,Aktuel værdi
+Engsvinget 188462 Harlev J,ev J,1.450.000,25-10-2013,Alm. Salg,9.177,6,Villa,158,1968,-6 %,Aktuel værdi
+Sydbakken 838462 Harlev J,ev J,2.250.000,15-10-2013,Alm. Salg,9.698,6,Villa,232,1973,,Aktuel værdi
+Lærkesvinget 128462 Harlev J,ev J,1.375.000,01-10-2013,Alm. Salg,12.387,3,Villa,111,1961,-8 %,Aktuel værdi
+Rugmarksvej 48462 Harlev J,ev J,2.150.000,09-09-2013,Fam. Salg,12.285,10,Villa,175,1969,-14 %,Aktuel værdi
+Framlev Korsvej 78462 Harlev J,ev J,367.500,08-09-2013,Andet,3.675,4,Villa,100,1932,,Aktuel værdi
+Grønhøjvej 638462 Harlev J,ev J,1.750.000,02-09-2013,Alm. Salg,11.666,5,Villa,150,1969,0 %,Aktuel værdi
+Espevej 18462 Harlev J,ev J,1.300.000,29-08-2013,Alm. Salg,11.111,4,Villa,117,1936,-13 %,Aktuel værdi
+Grønhøjvej 218462 Harlev J,ev J,1.400.000,27-08-2013,Alm. Salg,15.909,4,Villa,88,1962,-12 %,Aktuel værdi
+Damkærvej 128462 Harlev J,ev J,1.485.000,21-08-2013,Alm. Salg,12.172,5,Villa,122,1957,-7 %,Aktuel værdi
+Ketting Parkvej 468462 Harlev J,ev J,2.000.000,31-07-2013,Alm. Salg,16.949,5,Rækkehus,118,2009,-5 %,Aktuel værdi
+Lilleringvej 428462 Harlev J,ev J,750.000,29-07-2013,Alm. Salg,7.731,2,Villa,97,1853,,Aktuel værdi
+Bygmarksvej 328462 Harlev J,ev J,1.700.000,29-07-2013,Alm. Salg,12.592,4,Villa,135,1968,-3 %,Aktuel værdi
+Hørslevvej 1438462 Harlev J,ev J,1.950.000,24-07-2013,Alm. Salg,12.187,5,Villa,160,1966,-2 %,Aktuel værdi
+Sydbakken 38462 Harlev J,ev J,1.600.000,10-07-2013,Alm. Salg,12.500,4,Villa,128,1970,-11 %,Aktuel værdi
+Lærkesvinget 198462 Harlev J,ev J,2.050.000,28-06-2013,Alm. Salg,13.141,5,Villa,156,1969,-7 %,Aktuel værdi
+Højbyvej 11B8462 Harlev J,ev J,3.585.000,17-05-2013,Alm. Salg,15.519,8,Villa,231,2006,-6 %,Aktuel værdi
+Ketting Parkvej 1148462 Harlev J,ev J,2.198.000,17-05-2013,Alm. Salg,16.161,6,Rækkehus,136,2013,-4 %,Aktuel værdi
+Lilleringvej 438462 Harlev J,ev J,1.600.000,24-04-2013,Alm. Salg,10.000,4,Villa,160,1920,-6 %,Aktuel værdi
+Araliavej 258462 Harlev J,ev J,2.200.000,17-04-2013,Alm. Salg,13.750,6,Villa,160,1980,-8 %,Aktuel værdi
+Bøgebakken 2A8462 Harlev J,ev J,2.465.500,12-04-2013,Alm. Salg,16.009,5,Villa,154,1987,-1 %,Aktuel værdi
+Ketting Parkvej 218462 Harlev J,ev J,2.700.000,06-04-2013,Alm. Salg,17.419,5,Villa,155,2009,-2 %,Aktuel værdi
+Damkærvej 48462 Harlev J,ev J,1.325.000,24-03-2013,Alm. Salg,6.495,4,Villa,204,1951,-5 %,Aktuel værdi
+Grønhøjvej 598462 Harlev J,ev J,2.395.000,21-03-2013,Alm. Salg,16.404,5,Villa,146,1969,0 %,Aktuel værdi
+Åbovej 558462 Harlev J,ev J,2.350.000,18-03-2013,Alm. Salg,14.156,5,Stuehus,166,1910,,
+Labingvej 58462 Harlev J,ev J,700.000,25-02-2013,Alm. Salg,6.140,4,Villa,114,1870,-12 %,Aktuel værdi
+Kettingvej 328462 Harlev J,ev J,701.600,25-02-2013,Alm. Salg,6.208,4,Villa,113,1961,,Aktuel værdi
+Bøgebakken 158462 Harlev J,ev J,3.000.000,22-02-2013,Alm. Salg,12.448,6,Villa,241,1960,-6 %,Aktuel værdi
+Nyvangsvej 118462 Harlev J,ev J,1.900.000,31-01-2013,Alm. Salg,11.656,6,Villa,163,1968,-5 %,Aktuel værdi
+Ketting Parkvej 448462 Harlev J,ev J,2.000.000,28-01-2013,Alm. Salg,16.949,5,Rækkehus,118,2009,-5 %,Aktuel værdi
+Snåstrupvej 58462 Harlev J,ev J,1.582.100,16-01-2013,Alm. Salg,5.418,7,Stuehus,292,1915,,
+Frøkjærvænget 18462 Harlev J,ev J,1.087.676,15-01-2013,Fam. Salg,5.816,5,Villa,187,2004,,Aktuel værdi
+Havremarksvej 228462 Harlev J,ev J,2.350.000,11-12-2012,Alm. Salg,13.428,3,Villa,175,1970,-6 %,Aktuel værdi
+Rugmarksvej 78462 Harlev J,ev J,1.573.795,28-11-2012,Alm. Salg,10.491,6,Villa,150,1972,,Aktuel værdi
+Grønhøjvej 508462 Harlev J,ev J,1.898.000,26-11-2012,Alm. Salg,12.245,5,Villa,155,1970,0 %,Aktuel værdi
+Spiræavej 358462 Harlev J,ev J,1.750.000,22-11-2012,Alm. Salg,13.888,4,Villa,126,1976,-12 %,Aktuel værdi
+Bygmarksvej 148462 Harlev J,ev J,1.475.000,30-10-2012,Alm. Salg,15.526,4,Villa,95,1970,-2 %,Aktuel værdi
+Brombærvej 2B8462 Harlev J,ev J,2.350.000,22-10-2012,Alm. Salg,16.319,5,Villa,144,1986,-2 %,Aktuel værdi
+Guldregnvej 258462 Harlev J,ev J,1.875.000,17-10-2012,Alm. Salg,14.880,4,Villa,126,1975,-4 %,Aktuel værdi
+Birkesvinget 148462 Harlev J,ev J,1.600.000,16-10-2012,Alm. Salg,9.248,6,Villa,173,1960,-16 %,Aktuel værdi
+Gammel Stillingvej 4398462 Harlev J,ev J,1.572.500,10-10-2012,Fam. Salg,10.080,6,Villa,156,1910,,Aktuel værdi
+Framlevvej 108462 Harlev J,ev J,1.425.000,20-09-2012,Alm. Salg,13.194,4,Villa,108,1952,0 %,Aktuel værdi
+Tåstrupvej 1308462 Harlev J,ev J,950.000,31-08-2012,Fam. Salg,5.080,8,Villa,187,1910,,Aktuel værdi
+Guldregnvej 38462 Harlev J,ev J,2.125.000,31-08-2012,Alm. Salg,13.198,6,Villa,161,1973,-3 %,Aktuel værdi
+Tåstrupvej 1338462 Harlev J,ev J,1.495.000,23-08-2012,Alm. Salg,14.514,4,Villa,103,1958,0 %,Aktuel værdi
+Bøgebakken 68462 Harlev J,ev J,2.998.000,12-08-2012,Alm. Salg,26.530,4,Stuehus,113,1984,0 %,
+Grønhøjvej 418462 Harlev J,ev J,1.500.000,14-07-2012,Alm. Salg,11.029,4,Villa,136,1969,-6 %,Aktuel værdi
+Tarskovvænget 48462 Harlev J,ev J,290.000,09-07-2012,Andet,2.660,3,Villa,109,2016,-57 %,Aktuel værdi
+Ketting Parkvej 1128462 Harlev J,ev J,2.252.866,02-07-2012,Alm. Salg,17.067,6,Rækkehus,132,2012,-2 %,Aktuel værdi
+Edelhoffvej 118462 Harlev J,ev J,2.000.000,27-06-2012,Alm. Salg,8.510,6,Villa,235,1910,-9 %,Aktuel værdi
+Sydbakken 108462 Harlev J,ev J,1.720.000,26-06-2012,Auktion,9.052,5,Villa,190,1973,-31 %,Aktuel værdi
+Ketting Parkvej 308462 Harlev J,ev J,2.150.000,25-06-2012,Alm. Salg,18.220,5,Rækkehus,118,2009,0 %,Aktuel værdi
+Vårgyvelvej 48462 Harlev J,ev J,2.500.000,14-06-2012,Alm. Salg,17.241,5,Villa,145,1967,-7 %,Aktuel værdi
+Araliavej 538462 Harlev J,ev J,2.000.000,12-06-2012,Alm. Salg,17.699,4,Villa,113,1980,0 %,Aktuel værdi
+Ketting Parkvej 128462 Harlev J,ev J,2.117.000,26-04-2012,Alm. Salg,17.940,5,Rækkehus,118,2009,,Aktuel værdi
+Kettingvej 308462 Harlev J,ev J,825.000,19-04-2012,Alm. Salg,4.435,5,Villa,186,2013,-17 %,Aktuel værdi
+Guldregnvej 48462 Harlev J,ev J,1.700.000,01-04-2012,Alm. Salg,9.770,6,Villa,174,1974,-15 %,Aktuel værdi
+Lilleringvej 528462 Harlev J,ev J,1.970.000,22-03-2012,Alm. Salg,11.257,6,Villa,175,1870,-1 %,Aktuel værdi
+Tåstrupvej 1318462 Harlev J,ev J,1.998.000,16-03-2012,Alm. Salg,12.726,5,Villa,157,1996,0 %,Aktuel værdi
+Snåstrupvej 68462 Harlev J,ev J,1.750.000,14-03-2012,Alm. Salg,14.583,4,Villa,120,1964,,Aktuel værdi
+Grønhøjvej 398462 Harlev J,ev J,2.095.000,14-02-2012,Alm. Salg,16.496,4,Villa,127,1968,,Aktuel værdi
+Birkesvinget 78462 Harlev J,ev J,1.675.000,13-02-2012,Alm. Salg,12.984,5,Villa,129,1963,-4 %,Aktuel værdi
+Tandrupvej 88462 Harlev J,ev J,1.500.000,03-02-2012,Alm. Salg,11.904,5,Villa,126,1912,-6 %,Aktuel værdi
+Ulmusvej 48462 Harlev J,ev J,2.795.000,01-02-2012,Alm. Salg,11.047,8,Villa,253,1966,0 %,Aktuel værdi
+Labingvej 68462 Harlev J,ev J,2.275.000,22-01-2012,Alm. Salg,18.346,5,Villa,124,1930,-9 %,Aktuel værdi
+Araliavej 58462 Harlev J,ev J,2.000.000,20-01-2012,Alm. Salg,11.560,7,Villa,173,1980,,Aktuel værdi
+Lærkesvinget 88462 Harlev J,ev J,1.650.000,13-01-2012,Alm. Salg,13.983,5,Villa,118,1962,-7 %,Aktuel værdi
+Grønhøjvej 748462 Harlev J,ev J,1.760.000,11-01-2012,Alm. Salg,12.571,4,Villa,140,1925,-12 %,Aktuel værdi
+Havremarksvej 88462 Harlev J,ev J,872.500,10-01-2012,Alm. Salg,6.462,5,Villa,135,1969,,Aktuel værdi
+Araliavej 128462 Harlev J,ev J,2.260.000,21-12-2011,Alm. Salg,15.694,4,Villa,144,1997,-6 %,Aktuel værdi
+Engsvinget 68462 Harlev J,ev J,2.200.000,08-12-2011,Alm. Salg,14.473,5,Villa,152,1970,-12 %,Aktuel værdi
+Framlevvej 78462 Harlev J,ev J,1.375.000,07-12-2011,Alm. Salg,12.500,4,Villa,110,1966,-8 %,Aktuel værdi
+Gammel Mosevej 1A8462 Harlev J,ev J,137.200,05-12-2011,Alm. Salg,591,7,Stuehus,232,1929,,
+Vestervej 238462 Harlev J,ev J,1.150.000,04-12-2011,Alm. Salg,10.747,4,Villa,107,1962,-14 %,Aktuel værdi
+Sydbakken 1158462 Harlev J,ev J,2.050.000,14-11-2011,Alm. Salg,12.812,5,Villa,160,1969,-7 %,Aktuel værdi
+Ketting Parkvej 988462 Harlev J,ev J,1.798.000,10-11-2011,Alm. Salg,20.202,3,Rækkehus,89,2012,,Aktuel værdi
+Ketting Parkvej 848462 Harlev J,ev J,2.098.000,08-11-2011,Alm. Salg,18.086,4,Rækkehus,116,2012,,Aktuel værdi
+Grønhøjvej 158462 Harlev J,ev J,1.850.000,07-11-2011,Alm. Salg,9.736,4,Villa,190,1962,,Aktuel værdi
+Sydbakken 938462 Harlev J,ev J,2.250.000,04-11-2011,Alm. Salg,10.714,6,Villa,210,1973,-6 %,Aktuel værdi
+Ketting Parkvej 908462 Harlev J,ev J,2.098.000,30-10-2011,Alm. Salg,18.243,4,Rækkehus,115,2012,0 %,Aktuel værdi
+Ketting Parkvej 928462 Harlev J,ev J,2.110.050,26-10-2011,Alm. Salg,18.348,4,Rækkehus,115,2012,,Aktuel værdi
+Engsvinget 488462 Harlev J,ev J,1.950.000,25-10-2011,Alm. Salg,14.338,5,Villa,136,1968,-7 %,Aktuel værdi
+Lærkesvinget 268462 Harlev J,ev J,1.300.000,24-10-2011,Alm. Salg,9.285,6,Villa,140,1961,-13 %,Aktuel værdi
+Sydbakken 658462 Harlev J,ev J,1.825.000,24-10-2011,Alm. Salg,11.550,3,Villa,158,1970,11 %,Aktuel værdi
+Ketting Parkvej 1028462 Harlev J,ev J,1.817.609,03-10-2011,Alm. Salg,20.422,3,Rækkehus,89,2012,,Aktuel værdi
+Grønhøjvej 56A8462 Harlev J,ev J,1.805.000,30-09-2011,Alm. Salg,13.370,5,Villa,135,1978,-5 %,Aktuel værdi
+Ketting Parkvej 1008462 Harlev J,ev J,1.839.000,28-09-2011,Alm. Salg,20.662,3,Rækkehus,89,2012,,Aktuel værdi
+Hørslevvej 1068462 Harlev J,ev J,685.000,21-09-2011,Alm. Salg,9.513,3,Villa,72,1907,-6 %,Aktuel værdi
+Spiræavej 138462 Harlev J,ev J,1.900.000,21-09-2011,Alm. Salg,15.833,3,Villa,120,1976,-9 %,Aktuel værdi
+Vestervej 78462 Harlev J,ev J,1.750.000,17-09-2011,Fam. Salg,12.500,7,Villa,140,1944,-20 %,Aktuel værdi
+Engsvinget 338462 Harlev J,ev J,1.900.000,16-09-2011,Alm. Salg,11.801,6,Villa,161,1970,-5 %,Aktuel værdi
+Grønhøjvej 458462 Harlev J,ev J,2.350.000,11-09-2011,Alm. Salg,13.352,7,Villa,176,1969,-2 %,Aktuel værdi
+Guldregnvej 238462 Harlev J,ev J,2.730.000,29-08-2011,Alm. Salg,15.689,6,Villa,174,1982,-6 %,Aktuel værdi
+Nytoften 158462 Harlev J,ev J,1.150.000,28-08-2011,Alm. Salg,10.952,5,Rækkehus,105,1983,-4 %,Aktuel værdi
+Frøkjærvænget 2B8462 Harlev J,ev J,2.498.000,26-07-2011,Alm. Salg,13.358,7,Villa,187,1988,0 %,Aktuel værdi
+Vårgyvelvej 118462 Harlev J,ev J,2.000.000,15-07-2011,Alm. Salg,11.627,6,Villa,172,1968,-5 %,Aktuel værdi
+Silkeborgvej 9418462 Harlev J,ev J,5.380.000,08-07-2011,Alm. Salg,48.035,4,Stuehus,112,1939,,
+Damkærvej 88462 Harlev J,ev J,1.875.000,07-07-2011,Alm. Salg,19.946,3,Villa,94,1956,-6 %,Aktuel værdi
+Havremarksvej 268462 Harlev J,ev J,1.180.000,23-06-2011,Alm. Salg,-,6,Villa,115,1970,-13 %,Aktuel værdi
+Vestervej 198462 Harlev J,ev J,2.125.000,22-06-2011,Alm. Salg,16.601,5,Villa,128,1944,-2 %,Aktuel værdi
+Sydbakken 978462 Harlev J,ev J,2.375.000,20-06-2011,Alm. Salg,11.418,6,Villa,208,1973,-5 %,Aktuel værdi
+Ketting Parkvej 368462 Harlev J,ev J,1.800.000,01-06-2011,Alm. Salg,17.307,4,Rækkehus,104,2009,-5 %,Aktuel værdi
+Sydbakken 1218462 Harlev J,ev J,2.100.000,25-05-2011,Alm. Salg,12.804,7,Villa,164,1968,-7 %,Aktuel værdi
+Rødlundvej 2968462 Harlev J,ev J,1.200.000,19-05-2011,Alm. Salg,8.571,5,Villa,140,1996,,Aktuel værdi
+Espevej 88462 Harlev J,ev J,998.000,18-05-2011,Alm. Salg,14.257,3,Villa,70,1954,0 %,Aktuel værdi
+Gammel Stillingvej 4058462 Harlev J,ev J,1.198.000,26-04-2011,Alm. Salg,13.311,3,Villa,90,1948,,Aktuel værdi
+Engsvinget 358462 Harlev J,ev J,1.995.000,19-04-2011,Alm. Salg,15.346,5,Villa,130,1972,0 %,Aktuel værdi
+Gammel Silkeborgvej 58462 Harlev J,ev J,1.200.000,18-04-2011,Alm. Salg,15.000,3,Stuehus,80,1910,-4 %,
+Lilleringvej 398462 Harlev J,ev J,2.300.000,11-04-2011,Alm. Salg,16.428,5,Villa,140,1922,-8 %,Aktuel værdi
+Vestervej 88462 Harlev J,ev J,2.175.000,05-04-2011,Alm. Salg,14.309,5,Villa,152,1973,-5 %,Aktuel værdi
+Edelhoffvej 108462 Harlev J,ev J,3.150.000,10-02-2011,Alm. Salg,17.403,6,Villa,181,1909,-10 %,Aktuel værdi
+Havremarksvej 48462 Harlev J,ev J,1.740.000,28-01-2011,Alm. Salg,17.400,4,Villa,100,1969,-5 %,Aktuel værdi
+Ketting Parkvej 948462 Harlev J,ev J,1.998.000,28-01-2011,Alm. Salg,17.224,4,Rækkehus,116,2012,,Aktuel værdi
+Kettingvej 148462 Harlev J,ev J,995.000,18-01-2011,Alm. Salg,10.585,3,Villa,94,1967,0 %,Aktuel værdi
+Ketting Parkvej 888462 Harlev J,ev J,1.998.000,17-01-2011,Alm. Salg,17.373,4,Rækkehus,115,2012,,Aktuel værdi
+Araliavej 268462 Harlev J,ev J,2.650.000,13-01-2011,Alm. Salg,20.703,5,Villa,128,1997,0 %,Aktuel værdi
+Framlev Korsvej 38462 Harlev J,ev J,938.000,11-01-2011,Auktion,9.474,4,Villa,99,1938,,Aktuel værdi
+Damkærvej 68462 Harlev J,ev J,825.000,30-12-2010,Alm. Salg,8.168,4,Villa,101,1955,-56 %,Aktuel værdi
+Blomsterhaven 88462 Harlev J,ev J,4.100.000,30-12-2010,Alm. Salg,38.317,4,Rækkehus,107,2011,106 %,Aktuel værdi
+Blomsterhaven 48462 Harlev J,ev J,4.100.000,30-12-2010,Alm. Salg,38.317,4,Rækkehus,107,2011,116 %,Aktuel værdi
+Blomsterhaven 108462 Harlev J,ev J,4.100.000,30-12-2010,Alm. Salg,38.317,4,Rækkehus,107,2011,106 %,Aktuel værdi
+Blomsterhaven 68462 Harlev J,ev J,4.100.000,30-12-2010,Alm. Salg,38.317,4,Rækkehus,107,2011,116 %,Aktuel værdi
+Gammel Stillingvej 4038462 Harlev J,ev J,1.550.000,20-12-2010,Alm. Salg,10.264,6,Villa,151,1957,-9 %,Aktuel værdi
+Tåstrupvej 1048462 Harlev J,ev J,1.350.000,09-12-2010,Alm. Salg,11.157,5,Villa,121,1850,-3 %,Aktuel værdi
+Labing Landevej 58462 Harlev J,ev J,2.850.000,07-12-2010,Alm. Salg,20.357,6,Stuehus,140,1850,,
+Bygmarksvej 178462 Harlev J,ev J,2.585.000,24-11-2010,Alm. Salg,14.604,5,Villa,177,1969,-4 %,Aktuel værdi
+Engsvinget 438462 Harlev J,ev J,2.199.000,18-11-2010,Alm. Salg,10.180,5,Villa,216,1970,0 %,Aktuel værdi
+Nyvangsvej 68462 Harlev J,ev J,1.440.000,12-11-2010,Alm. Salg,13.090,4,Villa,110,1962,-10 %,Aktuel værdi
+Skibbyvej 628462 Harlev J,ev J,1.000.000,07-11-2010,Fam. Salg,11.904,3,Villa,84,1877,,Aktuel værdi
+Rødlundvænget 238462 Harlev J,ev J,2.735.000,27-10-2010,Alm. Salg,19.676,5,Villa,139,1999,-1 %,Aktuel værdi
+Gammel Stillingvej 4478462 Harlev J,ev J,1.250.000,25-10-2010,Alm. Salg,8.223,5,Villa,152,1907,-17 %,Aktuel værdi
+Havremarksvej 128462 Harlev J,ev J,1.150.000,20-10-2010,Andet,-,6,Villa,181,1969,,Aktuel værdi
+Grønhøjvej 728462 Harlev J,ev J,2.040.000,08-10-2010,Alm. Salg,12.215,4,Villa,167,1969,-7 %,Aktuel værdi
+Araliavej 578462 Harlev J,ev J,1.875.000,01-10-2010,Alm. Salg,16.891,4,Villa,111,1985,-6 %,Aktuel værdi
+Rødlundvej 3008462 Harlev J,ev J,2.900.000,22-09-2010,Alm. Salg,14.948,6,Villa,194,1997,,Aktuel værdi
+Labing Møllevej 68462 Harlev J,ev J,2.675.000,26-08-2010,Alm. Salg,13.788,4,Stuehus,194,1938,-42 %,
+Snåstrupvej 28462 Harlev J,ev J,1.600.000,05-08-2010,Alm. Salg,10.191,5,Villa,157,1905,3 %,Aktuel værdi
+Framlevvej 28462 Harlev J,ev J,750.000,12-07-2010,Fam. Salg,3.086,7,Villa,243,2010,,Aktuel værdi
+Parcelvej 108462 Harlev J,ev J,1.575.000,29-06-2010,Alm. Salg,11.250,6,Villa,140,1939,-7 %,Aktuel værdi
+Hørslevvej 1268462 Harlev J,ev J,1.190.000,26-05-2010,Alm. Salg,7.933,6,Stuehus,150,1970,,
+Højlundvej 218462 Harlev J,ev J,1.895.000,26-05-2010,Alm. Salg,15.160,5,Villa,125,1969,-5 %,Aktuel værdi
+Frøkjærvej 138462 Harlev J,ev J,4.200.000,19-05-2010,Alm. Salg,27.814,5,Stuehus,151,1970,,
+Gammel Stillingvej 4168462 Harlev J,ev J,2.199.000,18-05-2010,Alm. Salg,16.410,4,Villa,134,1919,0 %,Aktuel værdi
+Ketting Parkvej 678462 Harlev J,ev J,807.000,10-05-2010,Alm. Salg,4.890,6,Villa,165,2010,,Aktuel værdi
+Nyvangsvej 308462 Harlev J,ev J,1.200.000,06-05-2010,Alm. Salg,14.285,2,Villa,84,1961,-7 %,Aktuel værdi
+Guldregnvej 178462 Harlev J,ev J,2.998.000,05-05-2010,Alm. Salg,16.032,6,Villa,187,1977,0 %,Aktuel værdi
+Ketting Parkvej 108462 Harlev J,ev J,2.175.000,03-05-2010,Alm. Salg,18.432,5,Rækkehus,118,2009,,Aktuel værdi
+Rødlundvej 3088462 Harlev J,ev J,2.340.000,19-04-2010,Alm. Salg,17.205,5,Villa,136,1998,-6 %,Aktuel værdi
+Gammel Mosevej 18462 Harlev J,ev J,40.000,17-04-2010,Alm. Salg,190,7,Stuehus,210,1928,,
+Rødlundvej 58462 Harlev J,ev J,2.475.000,09-04-2010,Alm. Salg,11.785,6,Stuehus,210,2012,-17 %,
+Højlundvej 338462 Harlev J,ev J,2.750.000,11-03-2010,Alm. Salg,16.666,7,Villa,165,1913,-8 %,Aktuel værdi
+Tåstrupvej 1128462 Harlev J,ev J,600.000,08-03-2010,Alm. Salg,-,5,Villa,171,1917,-33 %,Aktuel værdi
+Storringvej 188462 Harlev J,ev J,1.400.000,05-03-2010,Alm. Salg,13.861,3,Villa,101,1850,-11 %,Aktuel værdi
+Rødlundvej 2948462 Harlev J,ev J,1.284.546,04-03-2010,Alm. Salg,9.445,5,Villa,136,1997,,Aktuel værdi
+Grønhøjvej 238462 Harlev J,ev J,1.650.000,16-02-2010,Alm. Salg,11.379,5,Villa,145,1967,-11 %,Aktuel værdi
+Araliavej 218462 Harlev J,ev J,1.600.000,16-01-2010,Alm. Salg,11.678,4,Villa,137,1979,-9 %,Aktuel værdi
+Gammel Stillingvej 4558462 Harlev J,ev J,1.825.000,17-12-2009,Alm. Salg,11.477,6,Villa,159,1906,-9 %,Aktuel værdi
+Lærkesvinget 98462 Harlev J,ev J,310.000,16-12-2009,Alm. Salg,-,7,Villa,176,1975,,Aktuel værdi
+"Edelhoffvej 2A, ST. TH8462 Harlev J",ev J,1.175.000,04-12-2009,Alm. Salg,13.505,4,Lejlighed,87,1972,,Aktuel værdi
+Sydbakken 288462 Harlev J,ev J,1.000.000,27-11-2009,Andet,3.937,9,Villa,254,1972,,Aktuel værdi
+Skibbyvej 698462 Harlev J,ev J,2.980.000,12-11-2009,Fam. Salg,12.064,4,Stuehus,247,1995,,
+Havremarksvej 288462 Harlev J,ev J,1.325.000,04-11-2009,Alm. Salg,13.947,4,Villa,95,1970,0 %,Aktuel værdi
+Grønhøjvej 60A8462 Harlev J,ev J,1.100.000,29-10-2009,Alm. Salg,11.224,4,Rækkehus,98,1981,,Aktuel værdi
+Guldregnvej 58462 Harlev J,ev J,2.400.000,20-10-2009,Alm. Salg,15.894,5,Villa,151,1973,-6 %,Aktuel værdi
+Tandrupvej 1A8462 Harlev J,ev J,1.016.000,19-10-2009,Andet,4.703,6,Villa,216,2010,,Aktuel værdi
+Ketting Parkvej 488462 Harlev J,ev J,2.050.000,07-10-2009,Alm. Salg,17.372,5,Rækkehus,118,2009,-5 %,Aktuel værdi
+Grønhøjvej 658462 Harlev J,ev J,1.450.000,02-10-2009,Alm. Salg,10.661,5,Villa,136,1968,-14 %,Aktuel værdi
+Ketting Parkvej 268462 Harlev J,ev J,2.150.000,30-09-2009,Alm. Salg,18.220,5,Lejlighed,118,2009,-2 %,Aktuel værdi
+Araliavej 98462 Harlev J,ev J,1.190.000,29-09-2009,Auktion,9.153,4,Villa,130,1979,,Aktuel værdi
+Tåstrupvej 938462 Harlev J,ev J,1.050.000,06-09-2009,Alm. Salg,10.396,3,Villa,101,1902,-19 %,Aktuel værdi
+Storringvej 1A8462 Harlev J,ev J,250.000,08-08-2009,Fam. Salg,1.562,4,Villa,160,2008,,Aktuel værdi
+Ketting Parkvej 628462 Harlev J,ev J,853.000,30-07-2009,Alm. Salg,5.169,5,Villa,165,2011,,Aktuel værdi
+Nytoften 28462 Harlev J,ev J,2.250.000,28-07-2009,Alm. Salg,12.640,7,Villa,178,1969,-4 %,Aktuel værdi
+Harlev Møllevej 88462 Harlev J,ev J,2.825.000,28-07-2009,Alm. Salg,16.815,5,Stuehus,168,1897,-6 %,
+Tåstrupvej 858462 Harlev J,ev J,3.375.000,30-06-2009,Fam. Salg,15.271,7,Stuehus,221,1910,,
+Grønhøjvej 408462 Harlev J,ev J,1.900.000,23-06-2009,Alm. Salg,13.475,5,Villa,141,1968,-5 %,Aktuel værdi
+Spiræavej 18462 Harlev J,ev J,847.500,22-06-2009,Alm. Salg,7.062,4,Villa,120,1977,,Aktuel værdi
+Højlundvej 198462 Harlev J,ev J,2.250.000,16-06-2009,Alm. Salg,12.362,4,Villa,182,1971,-8 %,Aktuel værdi
+Florasvej 68462 Harlev J,ev J,2.100.000,14-06-2009,Alm. Salg,11.797,5,Villa,178,1968,-8 %,Aktuel værdi
+Sydbakken 28462 Harlev J,ev J,1.930.000,11-06-2009,Alm. Salg,13.040,6,Villa,148,1970,-3 %,Aktuel værdi
+Bygmarksvej 198462 Harlev J,ev J,1.850.000,27-05-2009,Alm. Salg,14.230,4,Villa,130,1969,-7 %,Aktuel værdi
+Brombærvej 158462 Harlev J,ev J,1.300.000,05-05-2009,Alm. Salg,9.701,5,Villa,134,1949,-13 %,Aktuel værdi
+Nytoften 208462 Harlev J,ev J,1.800.000,29-04-2009,Alm. Salg,17.142,4,Villa,105,2004,-10 %,Aktuel værdi
+Stillingvej 5098462 Harlev J,ev J,2.700.000,22-04-2009,Alm. Salg,17.197,6,Villa,157,1904,-10 %,Aktuel værdi
+Birkesvinget 28462 Harlev J,ev J,1.635.000,07-04-2009,Alm. Salg,-,5,Villa,140,1961,-9 %,Aktuel værdi
+Gammel Stillingvej 450A8462 Harlev J,ev J,1.250.000,06-04-2009,Alm. Salg,12.376,6,Villa,101,1908,-16 %,Aktuel værdi
+Guldregnvej 138462 Harlev J,ev J,1.800.000,26-03-2009,Alm. Salg,12.000,5,Villa,150,1974,-10 %,Aktuel værdi
+Bygmarksvej 118462 Harlev J,ev J,1.498.000,23-03-2009,Alm. Salg,8.511,9,Villa,176,1969,-6 %,Aktuel værdi
+Hvedemarksvej 28462 Harlev J,ev J,1.350.000,13-03-2009,Alm. Salg,-,4,Villa,144,1969,-8 %,Aktuel værdi
+Vårgyvelvej 18462 Harlev J,ev J,2.025.000,02-03-2009,Alm. Salg,16.200,4,Villa,125,1969,-8 %,Aktuel værdi
+Labing Landevej 98462 Harlev J,ev J,2.500.000,16-02-2009,Alm. Salg,12.195,4,Stuehus,205,1932,,
+Labingvej 88462 Harlev J,ev J,7.740.000,16-02-2009,Fam. Salg,34.864,10,Stuehus,222,1892,,
+Storringvej 118462 Harlev J,ev J,975.000,10-02-2009,Alm. Salg,8.944,4,Villa,109,1960,,Aktuel værdi
+Vestervej 48462 Harlev J,ev J,1.000.000,08-02-2009,Alm. Salg,11.111,2,Villa,90,1955,-16 %,Aktuel værdi
+Sydbakken 338462 Harlev J,ev J,1.430.000,30-01-2009,Fam. Salg,11.532,4,Villa,124,1971,,Aktuel værdi
+Tarskovvej 18462 Harlev J,ev J,3.140.550,15-12-2008,Alm. Salg,8.534,12,Stuehus,368,1777,,
+Kettinggårdsvej 68462 Harlev J,ev J,889.500,10-12-2008,Fam. Salg,5.082,5,Villa,175,2008,,Aktuel værdi
+Hørslevvej 1358462 Harlev J,ev J,6.897.330,11-11-2008,Alm. Salg,40.572,6,Stuehus,170,1893,,
+Sydbakken 148462 Harlev J,ev J,2.900.000,29-10-2008,Alm. Salg,19.594,6,Villa,148,1973,-3 %,Aktuel værdi
+Ketting Parkvej 828462 Harlev J,ev J,2.900.000,01-10-2008,Alm. Salg,18.238,5,Villa,159,2008,,Aktuel værdi
+Stallinggårdvej 18462 Harlev J,ev J,2.375.000,07-09-2008,Alm. Salg,14.053,6,Villa,169,1936,-5 %,Aktuel værdi
+Engsvinget 108462 Harlev J,ev J,1.990.000,03-09-2008,Alm. Salg,14.014,5,Villa,142,1970,0 %,Aktuel værdi
+Højbyvej 38462 Harlev J,ev J,4.250.000,27-08-2008,Alm. Salg,17.418,6,Stuehus,244,1917,-9 %,
+Hørslevvej 1498462 Harlev J,ev J,1.110.000,11-08-2008,Auktion,8.161,5,Villa,136,2009,,Aktuel værdi
+Tarskovvænget 68462 Harlev J,ev J,2.125.000,14-07-2008,Alm. Salg,10.572,4,Villa,201,1991,-6 %,Aktuel værdi
+Rødlundvej 2988462 Harlev J,ev J,3.400.000,03-07-2008,Alm. Salg,18.681,5,Villa,182,1997,,Aktuel værdi
+Framlev Korsvej 108462 Harlev J,ev J,12.750.000,30-06-2008,Andet,85.000,15,Servicevirksomhed,150,1957,,Aktuel værdi
+Framlev Korsvej 128462 Harlev J,ev J,7.040.091,30-06-2008,Andet,52.933,5,Villa,133,1950,,Aktuel værdi
+Snåstrupvej 38462 Harlev J,ev J,9.804.575,30-06-2008,Andet,45.391,7,Stuehus,216,1907,,
+Birkesvinget 98462 Harlev J,ev J,1.450.000,25-06-2008,Alm. Salg,11.693,5,Villa,124,1971,-3 %,Aktuel værdi
+Ketting Parkvej 238462 Harlev J,ev J,892.000,03-06-2008,Alm. Salg,4.091,6,Villa,218,2010,,Aktuel værdi
+Tiliavej 18462 Harlev J,ev J,2.425.000,01-06-2008,Alm. Salg,14.969,7,Villa,162,1968,-7 %,Aktuel værdi
+Højlundvej 368462 Harlev J,ev J,1.500.000,27-05-2008,Alm. Salg,14.851,4,Villa,101,1969,-6 %,Aktuel værdi
+Ketting Parkvej 658462 Harlev J,ev J,951.200,30-04-2008,Alm. Salg,5.530,5,Villa,172,2009,,Aktuel værdi
+Ketting Parkvej 698462 Harlev J,ev J,740.000,25-04-2008,Alm. Salg,5.211,6,Villa,142,2009,,Aktuel værdi
+Ketting Parkvej 518462 Harlev J,ev J,976.005,23-04-2008,Alm. Salg,6.550,5,Villa,149,2009,,Aktuel værdi
+Ketting Parkvej 498462 Harlev J,ev J,850.555,23-04-2008,Alm. Salg,5.154,5,Villa,165,2009,,Aktuel værdi
+Araliavej 378462 Harlev J,ev J,1.900.000,21-04-2008,Alm. Salg,16.666,4,Villa,114,1979,-5 %,Aktuel værdi
+Ketting Parkvej 478462 Harlev J,ev J,788.755,21-04-2008,Alm. Salg,3.755,7,Villa,210,2009,,Aktuel værdi
+Ketting Parkvej 208462 Harlev J,ev J,2.145.000,17-04-2008,Alm. Salg,20.625,4,Rækkehus,104,2008,,Aktuel værdi
+Havremarksvej 58462 Harlev J,ev J,1.100.000,14-04-2008,Alm. Salg,5.945,8,Villa,185,1973,,Aktuel værdi
+Rødlundvænget 158462 Harlev J,ev J,2.950.000,31-03-2008,Alm. Salg,20.205,5,Villa,146,2000,-8 %,Aktuel værdi
+Vestervej 288462 Harlev J,ev J,1.550.000,13-03-2008,Alm. Salg,10.915,5,Villa,142,1957,-16 %,Aktuel værdi
+Ketting Parkvej 328462 Harlev J,ev J,2.445.000,01-03-2008,Alm. Salg,20.720,5,Rækkehus,118,2008,,Aktuel værdi
+Sydbakken 678462 Harlev J,ev J,2.385.000,27-02-2008,Alm. Salg,17.536,4,Villa,136,1971,0 %,Aktuel værdi
+Vestervej 348462 Harlev J,ev J,1.700.000,15-02-2008,Alm. Salg,8.673,6,Villa,196,1961,-15 %,Aktuel værdi
+Guldregnvej 168462 Harlev J,ev J,1.925.000,01-02-2008,Alm. Salg,-,7,Villa,200,1974,-1 %,Aktuel værdi
+Ketting Parkvej 598462 Harlev J,ev J,1.156.005,04-01-2008,Alm. Salg,7.135,5,Villa,162,2010,,Aktuel værdi
+Edelhoffvej 2B8462 Harlev J,ev J,1.500.000,03-01-2008,Alm. Salg,12.711,4,Rækkehus,118,1971,,Aktuel værdi
+Brydehøjvej 508462 Harlev J,ev J,799.000,31-12-2007,Fam. Salg,8.877,4,Villa,90,1910,,Aktuel værdi
+Ketting Parkvej 638462 Harlev J,ev J,939.863,20-12-2007,Alm. Salg,5.661,6,Villa,166,2009,,Aktuel værdi
+Ketting Parkvej 568462 Harlev J,ev J,2.095.000,19-12-2007,Alm. Salg,20.144,4,Rækkehus,104,2007,,Aktuel værdi
+Ketting Parkvej 508462 Harlev J,ev J,2.095.000,19-12-2007,Alm. Salg,20.144,3,Rækkehus,104,2007,,Aktuel værdi
+Ketting Parkvej 298462 Harlev J,ev J,851.000,19-12-2007,Alm. Salg,4.919,5,Villa,173,2009,,Aktuel værdi
+Ketting Parkvej 318462 Harlev J,ev J,919.000,18-12-2007,Alm. Salg,5.502,5,Villa,167,2008,,Aktuel værdi
+Ketting Parkvej 338462 Harlev J,ev J,917.180,18-12-2007,Alm. Salg,4.984,5,Villa,184,2010,,Aktuel værdi
+Ketting Parkvej 358462 Harlev J,ev J,807.221,17-12-2007,Alm. Salg,4.982,5,Villa,162,2009,,Aktuel værdi
+Ketting Parkvej 258462 Harlev J,ev J,1.111.111,17-12-2007,Alm. Salg,5.341,6,Villa,208,2009,,Aktuel værdi
+Ketting Parkvej 618462 Harlev J,ev J,1.134.000,17-12-2007,Alm. Salg,6.631,4,Villa,171,2010,,Aktuel værdi
+Storringvej 138462 Harlev J,ev J,1.150.000,14-12-2007,Alm. Salg,7.187,6,Villa,160,1850,,Aktuel værdi
+Ketting Parkvej 378462 Harlev J,ev J,995.213,13-12-2007,Alm. Salg,5.591,5,Villa,178,2009,,Aktuel værdi
+Ketting Parkvej 278462 Harlev J,ev J,860.000,12-12-2007,Alm. Salg,5.058,5,Villa,170,2008,,Aktuel værdi
+Rødlundvej 5298462 Harlev J,ev J,3.500.000,11-12-2007,Alm. Salg,20.114,5,Villa,174,2008,,Aktuel værdi
+Ketting Parkvej 578462 Harlev J,ev J,1.035.555,10-12-2007,Alm. Salg,5.508,6,Villa,188,2009,,Aktuel værdi
+Kettingvej 298462 Harlev J,ev J,1.275.000,30-11-2007,Alm. Salg,-,6,Villa,212,1928,-15 %,Aktuel værdi
+Engsvinget 288462 Harlev J,ev J,2.100.000,20-11-2007,Alm. Salg,16.030,4,Villa,131,1970,-7 %,Aktuel værdi
+Framlevvej 358462 Harlev J,ev J,1.775.000,13-11-2007,Alm. Salg,17.067,5,Villa,104,1951,-6 %,Aktuel værdi
+Sydbakken 1238462 Harlev J,ev J,2.000.000,08-11-2007,Alm. Salg,11.834,4,Villa,169,1968,-9 %,Aktuel værdi
+Acervej 48462 Harlev J,ev J,1.730.000,04-10-2007,Alm. Salg,14.065,4,Villa,123,1965,-9 %,Aktuel værdi
+Ketting Parkvej 748462 Harlev J,ev J,3.287.575,11-09-2007,Alm. Salg,20.807,4,Villa,158,2008,3 %,Aktuel værdi
+Grønhøjvej 308462 Harlev J,ev J,2.100.000,11-09-2007,Alm. Salg,16.406,4,Villa,128,1967,-3 %,Aktuel værdi
+Framlev Korsvej 118462 Harlev J,ev J,850.000,03-09-2007,Fam. Salg,7.456,4,Villa,114,1923,,Aktuel værdi
+Guldregnvej 298462 Harlev J,ev J,2.250.000,30-08-2007,Alm. Salg,18.000,4,Villa,125,1977,-6 %,Aktuel værdi
+Ketting Parkvej 28462 Harlev J,ev J,1.730.000,17-08-2007,Alm. Salg,15.727,4,Villa,110,1961,,Aktuel værdi
+Rugmarksvej 58462 Harlev J,ev J,2.075.000,15-08-2007,Alm. Salg,18.863,4,Villa,110,1965,-1 %,Aktuel værdi
+Florasvej 298462 Harlev J,ev J,1.600.000,11-08-2007,Alm. Salg,-,8,Villa,183,1976,,Aktuel værdi
+Vestervej 308462 Harlev J,ev J,1.575.000,03-07-2007,Alm. Salg,15.750,4,Villa,100,1959,-2 %,Aktuel værdi
+Grønhøjvej 648462 Harlev J,ev J,2.750.000,31-05-2007,Alm. Salg,13.480,7,Villa,204,1974,,Aktuel værdi
+Framlevvej 98462 Harlev J,ev J,2.345.000,27-05-2007,Alm. Salg,22.990,4,Villa,102,1964,,Aktuel værdi
+Storringvej 38462 Harlev J,ev J,1.200.000,24-05-2007,Alm. Salg,11.538,5,Villa,104,1877,-20 %,Aktuel værdi
+Rødlundvej 4958462 Harlev J,ev J,3.125.000,13-05-2007,Alm. Salg,19.290,5,Villa,162,2004,,Aktuel værdi
+Rødlundvej 5178462 Harlev J,ev J,3.550.000,08-05-2007,Alm. Salg,18.586,7,Villa,191,2004,,Aktuel værdi
+Guldregnvej 158462 Harlev J,ev J,1.670.000,26-04-2007,Alm. Salg,10.308,4,Villa,162,1975,,Aktuel værdi
+Florasvej 178462 Harlev J,ev J,2.000.000,25-04-2007,Alm. Salg,17.699,4,Villa,113,1966,,Aktuel værdi
+Ketting Parkvej 708462 Harlev J,ev J,2.995.000,22-04-2007,Alm. Salg,19.198,5,Villa,156,2008,,Aktuel værdi
+Engsvinget 348462 Harlev J,ev J,3.000.000,14-04-2007,Alm. Salg,19.354,5,Villa,155,1968,,Aktuel værdi
+Tåstrupvej 1218462 Harlev J,ev J,2.300.000,29-03-2007,Alm. Salg,-,6,Villa,222,1882,,Aktuel værdi
+Ketting Parkvej 668462 Harlev J,ev J,956.000,21-03-2007,Alm. Salg,6.289,5,Villa,152,2008,,Aktuel værdi
+Sydbakken 268462 Harlev J,ev J,2.400.000,19-03-2007,Alm. Salg,15.686,5,Villa,153,1972,,Aktuel værdi
+Ketting Parkvej 728462 Harlev J,ev J,1.010.551,18-03-2007,Alm. Salg,7.017,5,Villa,144,2008,,Aktuel værdi
+Ketting Parkvej 608462 Harlev J,ev J,1.061.223,18-03-2007,Alm. Salg,5.077,4,Villa,209,2008,,Aktuel værdi
+Acervej 218462 Harlev J,ev J,2.005.000,13-03-2007,Alm. Salg,18.564,4,Villa,108,1965,-4 %,Aktuel værdi
+Kettinggårdsvej 28462 Harlev J,ev J,1.152.432,12-03-2007,Alm. Salg,5.971,5,Villa,193,2009,,Aktuel værdi
+Ketting Parkvej 648462 Harlev J,ev J,1.070.123,09-03-2007,Alm. Salg,7.698,4,Villa,139,2007,,Aktuel værdi
+Sydbakken 418462 Harlev J,ev J,2.945.000,06-03-2007,Alm. Salg,13.206,9,Villa,223,1971,,Aktuel værdi
+Nyvangsvej 48462 Harlev J,ev J,2.035.000,05-03-2007,Alm. Salg,18.500,4,Villa,110,1961,,Aktuel værdi
+Tåstrupvej 988462 Harlev J,ev J,2.750.000,28-02-2007,Alm. Salg,16.666,5,Villa,165,1930,-4 %,Aktuel værdi
+Kettinggårdsvej 48462 Harlev J,ev J,1.052.800,15-02-2007,Alm. Salg,7.018,5,Villa,150,2008,,Aktuel værdi
+Ketting Parkvej 788462 Harlev J,ev J,1.037.000,15-02-2007,Alm. Salg,6.361,5,Villa,163,2008,,Aktuel værdi
+Ketting Parkvej 808462 Harlev J,ev J,795.000,15-02-2007,Alm. Salg,5.129,5,Villa,155,2008,,Aktuel værdi
+Lilleringvej 418462 Harlev J,ev J,5.331.800,08-02-2007,Fam. Salg,20.909,8,Stuehus,255,1907,,
+Acervej 178462 Harlev J,ev J,2.175.000,17-01-2007,Alm. Salg,15.760,5,Villa,138,1964,,Aktuel værdi
+Spiræavej 78462 Harlev J,ev J,1.860.000,16-01-2007,Alm. Salg,16.460,4,Villa,113,1975,,Aktuel værdi
+Rødlundvej 5058462 Harlev J,ev J,2.695.000,15-01-2007,Alm. Salg,21.388,4,Villa,126,2001,,Aktuel værdi
+Labing Møllevej 38462 Harlev J,ev J,1.690.000,02-01-2007,Alm. Salg,18.172,4,Villa,93,1956,,Aktuel værdi
+Guldregnvej 218462 Harlev J,ev J,375.000,29-12-2006,Alm. Salg,2.218,5,Villa,169,1975,,Aktuel værdi
+Gammel Stillingvej 4368462 Harlev J,ev J,1.220.000,21-12-2006,Alm. Salg,16.944,3,Villa,72,1914,,Aktuel værdi
+Rødlundvej 5098462 Harlev J,ev J,2.945.000,17-12-2006,Alm. Salg,20.034,4,Villa,147,2001,,Aktuel værdi
+Edelhoffvej 8A8462 Harlev J,ev J,1.500.000,12-12-2006,Fam. Salg,14.150,4,Stuehus,106,1938,,
+Nyvangsvej 148462 Harlev J,ev J,1.915.000,11-12-2006,Alm. Salg,17.568,4,Villa,109,1967,,Aktuel værdi
+Gammel Stillingvej 4638462 Harlev J,ev J,2.000.000,04-12-2006,Alm. Salg,14.285,5,Villa,140,1920,,Aktuel værdi
+Harlevholmvej 268462 Harlev J,ev J,4.190.000,29-11-2006,Alm. Salg,14.753,8,Stuehus,284,1908,,
+Gammel Mosevej 118462 Harlev J,ev J,2.450.000,15-10-2006,Alm. Salg,11.448,6,Villa,214,1960,,Aktuel værdi
+Acervej 118462 Harlev J,ev J,1.795.000,03-10-2006,Alm. Salg,16.026,4,Villa,112,1965,,Aktuel værdi
+Nytoften 48462 Harlev J,ev J,1.062.500,25-09-2006,Andet,6.400,6,Villa,166,1981,,Aktuel værdi
+Havremarksvej 38462 Harlev J,ev J,2.030.000,03-09-2006,Alm. Salg,20.099,4,Villa,101,1968,,Aktuel værdi
+Acervej 208462 Harlev J,ev J,2.070.000,30-08-2006,Alm. Salg,15.681,4,Villa,132,1964,,Aktuel værdi
+Vestervej 248462 Harlev J,ev J,2.000.000,25-08-2006,Fam. Salg,17.699,3,Villa,113,1957,,Aktuel værdi
+Vestervej 108462 Harlev J,ev J,1.925.000,20-08-2006,Alm. Salg,18.333,4,Villa,105,1959,,Aktuel værdi
+Lilleringvej 12A8462 Harlev J,ev J,2.400.000,17-08-2006,Alm. Salg,17.647,6,Villa,136,1980,,Aktuel værdi
+Tåstrupvej 1238462 Harlev J,ev J,5.200.000,08-08-2006,Fam. Salg,19.771,8,Stuehus,263,1850,,
+Damkærvej 138462 Harlev J,ev J,663.000,05-07-2006,Alm. Salg,-,5,Villa,179,1952,,Aktuel værdi
+Engsvinget 138462 Harlev J,ev J,1.700.000,29-06-2006,Alm. Salg,16.666,3,Villa,102,1969,,Aktuel værdi
+Toftlundvej 68462 Harlev J,ev J,1.965.000,30-05-2006,Alm. Salg,-,4,Villa,184,1969,,Aktuel værdi
+Hørslevvej 1378462 Harlev J,ev J,4.900.000,29-05-2006,Alm. Salg,18.846,5,Stuehus,260,1897,,
+Grønhøjvej 318462 Harlev J,ev J,1.798.000,10-05-2006,Alm. Salg,18.161,4,Villa,99,1968,,Aktuel værdi
+Harlev Kirkevej 78462 Harlev J,ev J,1.990.000,09-05-2006,Alm. Salg,9.386,8,Villa,212,1868,,Aktuel værdi
+Florasvej 238462 Harlev J,ev J,2.350.000,08-05-2006,Alm. Salg,17.153,4,Villa,137,1976,,Aktuel værdi
+Højlundvej 228462 Harlev J,ev J,2.100.000,12-04-2006,Alm. Salg,15.909,6,Villa,132,1969,,Aktuel værdi
+Højlundvej 88462 Harlev J,ev J,2.200.000,07-04-2006,Alm. Salg,14.965,6,Villa,147,1969,,Aktuel værdi
+Birkesvinget 128462 Harlev J,ev J,1.458.500,03-04-2006,Alm. Salg,13.890,4,Villa,105,1961,,Aktuel værdi
+Parcelvej 88462 Harlev J,ev J,1.630.000,24-03-2006,Alm. Salg,-,5,Villa,115,1960,,Aktuel værdi
+Frøkjærvej 198462 Harlev J,ev J,1.300.000,20-03-2006,Alm. Salg,7.647,5,Villa,170,2007,,Aktuel værdi
+Araliavej 138462 Harlev J,ev J,400.000,10-02-2006,Alm. Salg,2.325,6,Villa,172,1980,,Aktuel værdi
+Nytoften 198462 Harlev J,ev J,1.800.000,09-02-2006,Alm. Salg,18.556,3,Villa,97,1997,,Aktuel værdi
+Birkesvinget 88462 Harlev J,ev J,2.295.000,08-02-2006,Alm. Salg,16.510,4,Villa,139,1962,,Aktuel værdi
+Storringvej 198462 Harlev J,ev J,1.475.000,07-02-2006,Alm. Salg,-,8,Stuehus,307,1890,,
+Damkærvej 148462 Harlev J,ev J,297.397,05-02-2006,Alm. Salg,2.417,3,Villa,123,1958,,Aktuel værdi
+Sydbakken 518462 Harlev J,ev J,2.450.000,30-01-2006,Alm. Salg,17.753,6,Villa,138,1971,,Aktuel værdi
+Acervej 98462 Harlev J,ev J,2.350.000,30-01-2006,Alm. Salg,18.650,4,Villa,126,1969,,Aktuel værdi
+Bygmarksvej 288462 Harlev J,ev J,2.400.000,25-01-2006,Alm. Salg,13.043,5,Villa,184,1969,,Aktuel værdi
+Guldregnvej 338462 Harlev J,ev J,350.000,23-01-2006,Alm. Salg,3.043,4,Villa,115,1976,,Aktuel værdi
+Engsvinget 448462 Harlev J,ev J,2.300.000,21-12-2005,Alm. Salg,15.540,6,Villa,148,1971,,Aktuel værdi
+Sydbakken 638462 Harlev J,ev J,1.248.187,14-12-2005,Alm. Salg,8.790,5,Villa,142,1969,,Aktuel værdi
+Acervej 188462 Harlev J,ev J,2.100.000,13-12-2005,Alm. Salg,11.052,6,Villa,190,1964,,Aktuel værdi
+Nytoften 128462 Harlev J,ev J,1.748.000,21-11-2005,Alm. Salg,15.890,3,Rækkehus,110,1984,,Aktuel værdi
+Edelhoffvej 28462 Harlev J,ev J,1.600.000,19-10-2005,Alm. Salg,21.333,3,Stuehus,75,1887,,
+Tåstrupvej 1228462 Harlev J,ev J,1.995.000,10-10-2005,Alm. Salg,-,7,Villa,222,1995,,Aktuel værdi
+Storringvej 178462 Harlev J,ev J,1.500.000,23-09-2005,Alm. Salg,7.936,5,Stuehus,189,2008,,
+Acervej 58462 Harlev J,ev J,2.125.000,23-09-2005,Alm. Salg,11.548,6,Villa,184,1967,,Aktuel værdi
+Tåstrupvej 1178462 Harlev J,ev J,1.589.000,09-09-2005,Alm. Salg,14.061,5,Villa,113,1887,,Aktuel værdi
+Labingvej 38462 Harlev J,ev J,739.500,05-09-2005,Fam. Salg,7.042,4,Villa,105,1900,,Aktuel værdi
+Framlev Korsvej 558462 Harlev J,ev J,400.000,05-09-2005,Alm. Salg,5.333,3,Villa,75,1938,,Aktuel værdi
+Lilleringvej 118462 Harlev J,ev J,1.675.000,12-08-2005,Alm. Salg,10.339,5,Villa,162,1964,,Aktuel værdi
+Araliavej 238462 Harlev J,ev J,1.500.000,11-08-2005,Alm. Salg,15.000,4,Villa,100,1980,,Aktuel værdi
+Araliavej 498462 Harlev J,ev J,565.023,19-06-2005,Andet,4.346,4,Villa,130,1979,,Aktuel værdi
+Hørslevvej 1418462 Harlev J,ev J,1.025.000,13-06-2005,Alm. Salg,8.333,6,Villa,123,1825,,Aktuel værdi
+Hørslevvej 1638462 Harlev J,ev J,1.590.000,13-06-2005,Fam. Salg,10.600,5,Stuehus,150,1914,,
+Tåstrupvej 1198462 Harlev J,ev J,825.000,10-06-2005,Alm. Salg,5.851,5,Villa,141,2007,,Aktuel værdi
+Gammel Silkeborgvej 78462 Harlev J,ev J,1.300.000,09-06-2005,Alm. Salg,10.000,5,Villa,130,2008,,Aktuel værdi
+Skibbyvej 558462 Harlev J,ev J,825.000,09-06-2005,Alm. Salg,4.661,4,Villa,177,2016,,Aktuel værdi
+Florasvej 218462 Harlev J,ev J,1.041.968,25-05-2005,Alm. Salg,5.370,4,Villa,194,1971,,Aktuel værdi
+Brombærvej 2A8462 Harlev J,ev J,1.475.000,22-05-2005,Alm. Salg,12.606,4,Villa,117,1985,,Aktuel værdi
+Edelhoffvej 138462 Harlev J,ev J,1.500.000,18-05-2005,Alm. Salg,5.016,7,Villa,299,2007,,Aktuel værdi
+Framlev Korsvej 98462 Harlev J,ev J,1.998.000,02-05-2005,Alm. Salg,15.488,3,Villa,129,1930,,Aktuel værdi
+Bøgebakken 108462 Harlev J,ev J,3.500.000,19-04-2005,Alm. Salg,38.888,6,Stuehus,90,1875,,
+Lærkesvinget 208462 Harlev J,ev J,1.830.000,22-03-2005,Alm. Salg,9.481,6,Villa,193,1962,,Aktuel værdi
+Grønhøjvej 588462 Harlev J,ev J,950.000,16-03-2005,Alm. Salg,9.595,3,Villa,99,1975,,Aktuel værdi
+Vestervej 21A8462 Harlev J,ev J,1.750.000,15-03-2005,Alm. Salg,10.057,7,Villa,174,1910,,Aktuel værdi
+Araliavej 518462 Harlev J,ev J,361.500,07-03-2005,Alm. Salg,2.780,4,Villa,130,1979,,Aktuel værdi
+Espevej 38462 Harlev J,ev J,1.244.000,04-03-2005,Alm. Salg,9.718,5,Villa,128,1962,,Aktuel værdi
+Framlev Korsvej 198462 Harlev J,ev J,1.100.000,01-03-2005,Alm. Salg,6.470,6,Villa,170,1929,,Aktuel værdi
+Vestervej 228462 Harlev J,ev J,1.035.000,16-02-2005,Alm. Salg,-,5,Villa,164,1959,,Aktuel værdi
+Grøntoften 48462 Harlev J,ev J,1.695.000,11-02-2005,Alm. Salg,10.593,5,Villa,160,1969,,Aktuel værdi
+Brombærvej 58462 Harlev J,ev J,1.625.000,02-02-2005,Alm. Salg,7.775,7,Villa,209,1955,,Aktuel værdi
+Frøkjærvænget 108462 Harlev J,ev J,1.195.000,28-01-2005,Alm. Salg,8.535,2,Villa,140,1964,,Aktuel værdi
+Tåstrupvej 1188462 Harlev J,ev J,700.000,30-12-2004,Alm. Salg,8.235,5,Villa,85,1955,,Aktuel værdi
+Framlevvej 128462 Harlev J,ev J,175.000,17-12-2004,Alm. Salg,583,6,Stuehus,300,1855,,
+Frøkjærvej 178462 Harlev J,ev J,5.375.924,17-11-2004,Alm. Salg,24.436,7,Stuehus,220,1903,,
+Vårgyvelvej 78462 Harlev J,ev J,1.651.907,15-11-2004,Alm. Salg,8.137,6,Villa,203,1968,,Aktuel værdi
+Gammel Mosevej 178462 Harlev J,ev J,1.525.000,20-10-2004,Alm. Salg,-,5,Stuehus,233,1900,,
+Rødlundvænget 18462 Harlev J,ev J,1.750.000,23-09-2004,Alm. Salg,7.608,6,Villa,230,1880,,Aktuel værdi
+Labing Landevej 48462 Harlev J,ev J,1.830.000,17-09-2004,Alm. Salg,9.150,5,Villa,200,1904,,Aktuel værdi
+Grønhøjvej 448462 Harlev J,ev J,1.598.000,06-09-2004,Alm. Salg,11.414,5,Villa,140,1972,,Aktuel værdi
+Tandrupvej 18462 Harlev J,ev J,868.000,23-08-2004,Alm. Salg,6.834,6,Villa,127,1930,,Aktuel værdi
+Araliavej 698462 Harlev J,ev J,1.625.000,22-07-2004,Alm. Salg,11.524,5,Villa,141,1985,,Aktuel værdi
+Florasvej 208462 Harlev J,ev J,1.600.000,20-07-2004,Alm. Salg,8.791,6,Villa,182,1973,,Aktuel værdi
+Araliavej 718462 Harlev J,ev J,349.200,07-07-2004,Alm. Salg,3.063,4,Villa,114,1985,,Aktuel værdi
+"Gammel Stillingvej 444, 18462 Harlev J",ev J,900.000,30-06-2004,Alm. Salg,12.162,3,Lejlighed,74,1915,,Aktuel værdi
+Bygmarksvej 168462 Harlev J,ev J,1.900.000,29-06-2004,Alm. Salg,10.052,8,Villa,189,1968,,Aktuel værdi
+Grønhøjvej 708462 Harlev J,ev J,1.575.000,14-06-2004,Alm. Salg,9.603,5,Villa,164,1968,,Aktuel værdi
+Spiræavej 378462 Harlev J,ev J,1.425.000,10-05-2004,Alm. Salg,9.437,6,Villa,151,1977,,Aktuel værdi
+Rødlundvej 5118462 Harlev J,ev J,450.000,05-05-2004,Alm. Salg,2.571,5,Villa,175,2008,,Aktuel værdi
+Framlevvej 258462 Harlev J,ev J,1.250.000,30-04-2004,Alm. Salg,9.765,5,Villa,128,1960,,Aktuel værdi
+Florasvej 78462 Harlev J,ev J,1.625.000,02-04-2004,Alm. Salg,9.908,5,Villa,164,1967,,Aktuel værdi
+Spiræavej 178462 Harlev J,ev J,1.235.000,31-03-2004,Alm. Salg,-,4,Villa,153,1974,,Aktuel værdi
+Spiræavej 68462 Harlev J,ev J,1.750.000,29-03-2004,Alm. Salg,10.542,5,Villa,166,1983,,Aktuel værdi
+Havremarksvej 168462 Harlev J,ev J,1.250.000,29-03-2004,Alm. Salg,9.615,3,Villa,130,1969,,Aktuel værdi
+Nyvangsvej 12B8462 Harlev J,ev J,1.398.000,22-03-2004,Alm. Salg,12.594,4,Villa,111,1989,,Aktuel værdi
+Grøntoften 28462 Harlev J,ev J,1.725.000,19-03-2004,Alm. Salg,8.891,7,Villa,194,1970,,Aktuel værdi
+Stillingvej 5058462 Harlev J,ev J,1.100.000,16-03-2004,Alm. Salg,6.832,4,Stuehus,161,1909,,
+Ulmusvej 28462 Harlev J,ev J,1.242.500,02-03-2004,Alm. Salg,8.174,6,Villa,152,1964,,Aktuel værdi
+Bygmarksvej 158462 Harlev J,ev J,1.430.000,16-02-2004,Alm. Salg,7.988,5,Villa,179,1971,,Aktuel værdi
+Acervej 38462 Harlev J,ev J,1.195.000,11-02-2004,Alm. Salg,10.863,4,Villa,110,1965,,Aktuel værdi
+Grønhøjvej 468462 Harlev J,ev J,1.699.000,27-01-2004,Alm. Salg,7.386,6,Villa,230,1969,,Aktuel værdi
+Storringvej 15A8462 Harlev J,ev J,2.400.000,23-01-2004,Alm. Salg,12.000,5,Stuehus,200,2004,,
+Rødlundvej 5078462 Harlev J,ev J,1.865.000,18-01-2004,Alm. Salg,13.321,6,Villa,140,2001,,Aktuel værdi
+Tåstrup Byvej 148462 Harlev J,ev J,7.450.000,16-01-2004,Alm. Salg,34.651,7,Stuehus,215,1964,,
+Labingvej 78462 Harlev J,ev J,1.500.000,07-01-2004,Alm. Salg,-,9,Stuehus,250,1876,,
+Tåstrupvej 818462 Harlev J,ev J,1.550.000,05-01-2004,Fam. Salg,8.072,7,Stuehus,192,1877,,
+Engsvinget 98462 Harlev J,ev J,1.127.500,29-12-2003,Alm. Salg,9.555,3,Villa,118,1969,,Aktuel værdi
+Gammel Stillingvej 4108462 Harlev J,ev J,599.105,06-12-2003,Andet,5.931,3,Villa,101,1929,,Aktuel værdi
+Birkesvinget 48462 Harlev J,ev J,850.000,13-11-2003,Alm. Salg,-,5,Villa,138,1961,,Aktuel værdi
+Nyvangsvej 198462 Harlev J,ev J,1.691.000,28-10-2003,Alm. Salg,16.104,9,Villa,105,1969,,Aktuel værdi
+Engsvinget 208462 Harlev J,ev J,1.200.000,23-10-2003,Alm. Salg,9.090,4,Villa,132,1969,,Aktuel værdi
+Gammel Stillingvej 466A8462 Harlev J,ev J,1.260.000,21-10-2003,Alm. Salg,10.677,4,Villa,118,1978,,Aktuel værdi
+Araliavej 298462 Harlev J,ev J,362.400,16-10-2003,Alm. Salg,2.787,4,Villa,130,1979,,Aktuel værdi
+Parcelvej 18462 Harlev J,ev J,1.060.000,10-10-2003,Alm. Salg,9.814,3,Villa,108,1968,,Aktuel værdi
+Vingetoften 188462 Harlev J,ev J,1.225.000,08-10-2003,Alm. Salg,-,6,Villa,175,1966,,Aktuel værdi
+Havremarksvej 148462 Harlev J,ev J,810.000,17-09-2003,Alm. Salg,8.709,4,Villa,93,1968,,Aktuel værdi
+Engsvinget 408462 Harlev J,ev J,1.250.000,15-09-2003,Alm. Salg,9.615,4,Villa,130,1969,,Aktuel værdi
+Labing Landevej 68462 Harlev J,ev J,1.698.000,04-09-2003,Alm. Salg,10.167,3,Villa,167,1890,,Aktuel værdi
+Gammel Mosevej 138462 Harlev J,ev J,398.000,03-09-2003,Alm. Salg,-,6,Villa,223,2006,,Aktuel værdi
+Grønhøjvej 528462 Harlev J,ev J,1.230.000,24-08-2003,Alm. Salg,10.695,4,Villa,115,1978,,Aktuel værdi
+Engsvinget 38462 Harlev J,ev J,1.325.000,11-08-2003,Alm. Salg,7.443,7,Villa,178,1969,,Aktuel værdi
+Framlevvej 168462 Harlev J,ev J,825.000,03-08-2003,Alm. Salg,8.250,4,Villa,100,1825,,Aktuel værdi
+Araliavej 118462 Harlev J,ev J,1.350.000,24-07-2003,Alm. Salg,10.074,5,Villa,134,1980,,Aktuel værdi
+Havremarksvej 108462 Harlev J,ev J,75.000,22-07-2003,Andet,493,5,Villa,152,1969,,Aktuel værdi
+Lilleringvej 38462 Harlev J,ev J,1.050.000,18-07-2003,Alm. Salg,7.500,4,Villa,140,1959,,Aktuel værdi
+Tåstrup Byvej 138462 Harlev J,ev J,2.100.000,11-07-2003,Alm. Salg,12.068,6,Villa,174,1998,,Aktuel værdi
+Lærkesvinget 138462 Harlev J,ev J,1.250.000,09-07-2003,Alm. Salg,8.445,5,Villa,148,1974,,Aktuel værdi
+Rødlundvej 5338462 Harlev J,ev J,373.825,02-07-2003,Alm. Salg,2.492,5,Villa,150,2003,,Aktuel værdi
+Rugmarksvej 108462 Harlev J,ev J,1.700.000,10-06-2003,Alm. Salg,6.614,7,Villa,257,1974,,Aktuel værdi
+Tandrupvej 78462 Harlev J,ev J,700.000,03-06-2003,Fam. Salg,6.140,4,Villa,114,1966,,Aktuel værdi
+Spiræavej 48462 Harlev J,ev J,1.404.930,20-05-2003,Alm. Salg,10.976,4,Villa,128,1974,,Aktuel værdi
+Gammel Silkeborgvej 98462 Harlev J,ev J,985.000,01-04-2003,Alm. Salg,8.565,4,Villa,115,1907,,Aktuel værdi
+Havremarksvej 248462 Harlev J,ev J,825.000,26-03-2003,Alm. Salg,-,7,Villa,208,1970,,Aktuel værdi
+Vestervej 208462 Harlev J,ev J,1.215.000,05-03-2003,Alm. Salg,10.848,4,Villa,112,1958,,Aktuel værdi
+Højbyvej 158462 Harlev J,ev J,670.000,28-02-2003,Alm. Salg,-,4,Villa,116,1870,,Aktuel værdi
+Skibbyvej 608462 Harlev J,ev J,2.125.000,31-01-2003,Alm. Salg,10.365,6,Stuehus,205,1830,,
+Vestervej 178462 Harlev J,ev J,1.080.000,29-01-2003,Alm. Salg,8.571,4,Villa,126,1959,,Aktuel værdi
+Rugmarksvej 88462 Harlev J,ev J,1.300.000,17-12-2002,Alm. Salg,8.843,4,Villa,147,1972,,Aktuel værdi
+Labingvej 98462 Harlev J,ev J,544.080,09-12-2002,Andet,4.423,4,Villa,123,1903,,Aktuel værdi
+Kettingvej 388462 Harlev J,ev J,700.000,04-12-2002,Andet,3.225,8,Villa,217,1902,,Aktuel værdi
+Tåstrup Byvej 78462 Harlev J,ev J,1.539.000,02-12-2002,Alm. Salg,8.744,6,Villa,176,1997,,Aktuel værdi
+Tåstrup Byvej 98462 Harlev J,ev J,1.240.000,26-11-2002,Alm. Salg,6.560,7,Villa,189,1964,,Aktuel værdi
+Nytoften 248462 Harlev J,ev J,350.000,18-11-2002,Alm. Salg,2.229,5,Villa,157,2003,,Aktuel værdi
+Grønhøjvej 88462 Harlev J,ev J,1.087.000,14-11-2002,Alm. Salg,7.295,5,Villa,149,1964,,Aktuel værdi
+Guldregnvej 318462 Harlev J,ev J,1.079.000,12-11-2002,Alm. Salg,7.875,4,Villa,137,1978,,Aktuel værdi
+Engsvinget 398462 Harlev J,ev J,1.305.537,10-10-2002,Alm. Salg,-,5,Villa,157,1970,,Aktuel værdi
+Silkeborgvej 9378462 Harlev J,ev J,500.000,30-09-2002,Alm. Salg,3.125,5,Stuehus,160,1910,,
+Birkesvinget 38462 Harlev J,ev J,998.000,23-09-2002,Alm. Salg,7.503,5,Villa,133,1962,,Aktuel værdi
+Rødlundvej 5278462 Harlev J,ev J,337.250,20-09-2002,Alm. Salg,2.698,4,Villa,125,2003,,Aktuel værdi
+Rugmarksvej 18462 Harlev J,ev J,1.160.000,08-09-2002,Alm. Salg,8.055,4,Villa,144,1966,,Aktuel værdi
+Gammel Stillingvej 4078462 Harlev J,ev J,1.825.000,27-08-2002,Alm. Salg,7.156,9,Villa,255,1936,,Aktuel værdi
+Havremarksvej 208462 Harlev J,ev J,1.285.000,26-07-2002,Alm. Salg,8.290,8,Villa,155,1971,,Aktuel værdi
+Rødlundvej 5258462 Harlev J,ev J,337.725,22-07-2002,Alm. Salg,2.520,5,Villa,134,2003,,Aktuel værdi
+Højlundvej 178462 Harlev J,ev J,1.665.000,22-07-2002,Alm. Salg,10.741,6,Villa,155,1970,,Aktuel værdi
+Rødlundvej 5318462 Harlev J,ev J,396.466,15-07-2002,Alm. Salg,2.591,5,Villa,153,2003,,Aktuel værdi
+Bygmarksvej 78462 Harlev J,ev J,1.025.000,03-07-2002,Alm. Salg,7.649,5,Villa,134,1969,,Aktuel værdi
+Rødlundvej 5138462 Harlev J,ev J,349.600,17-06-2002,Alm. Salg,-,5,Villa,167,2003,,Aktuel værdi
+Damkærvej 98462 Harlev J,ev J,29.000,02-06-2002,Alm. Salg,166,8,Villa,174,1956,,Aktuel værdi
+Nytoften 188462 Harlev J,ev J,370.000,27-05-2002,Alm. Salg,-,6,Villa,174,2002,,Aktuel værdi
+Lærkesvinget 168462 Harlev J,ev J,1.330.000,30-04-2002,Alm. Salg,8.471,4,Villa,157,1962,,Aktuel værdi
+Grøntoften 98462 Harlev J,ev J,1.250.000,14-04-2002,Alm. Salg,6.613,5,Villa,189,1969,,Aktuel værdi
+Guldregnvej 438462 Harlev J,ev J,1.325.000,08-04-2002,Alm. Salg,8.386,6,Villa,158,1982,,Aktuel værdi
+Grønhøjvej 278462 Harlev J,ev J,1.325.000,24-03-2002,Alm. Salg,7.361,7,Villa,180,1965,,Aktuel værdi
+Grønhøjvej 338462 Harlev J,ev J,1.030.000,22-03-2002,Alm. Salg,7.686,4,Villa,134,1969,,Aktuel værdi
+Rødlundvænget 178462 Harlev J,ev J,326.250,16-03-2002,Alm. Salg,1.930,5,Villa,169,2002,,Aktuel værdi
+Hørslevvej 1128462 Harlev J,ev J,500.000,08-03-2002,Alm. Salg,3.333,6,Villa,150,1932,,Aktuel værdi
+Sydbakken 478462 Harlev J,ev J,1.195.000,28-02-2002,Alm. Salg,9.192,4,Villa,130,1971,,Aktuel værdi
+Labing Landevej 28462 Harlev J,ev J,331.096,25-02-2002,Andet,2.854,5,Stuehus,116,1912,,
+Spiræavej 28462 Harlev J,ev J,1.375.000,22-02-2002,Alm. Salg,7.681,7,Villa,179,1977,,Aktuel værdi
+Rødlundvej 5158462 Harlev J,ev J,349.600,22-01-2002,Alm. Salg,2.226,5,Villa,157,2002,,Aktuel værdi
+Rødlundvej 4998462 Harlev J,ev J,373.825,22-01-2002,Alm. Salg,2.508,5,Villa,149,2002,,Aktuel værdi
+Sydbakken 18462 Harlev J,ev J,1.175.000,14-01-2002,Alm. Salg,9.179,4,Villa,128,1970,,Aktuel værdi
+Lilleringvej 178462 Harlev J,ev J,1.050.000,11-01-2002,Alm. Salg,6.774,5,Villa,155,1971,,Aktuel værdi
+Grønhøjvej 488462 Harlev J,ev J,1.364.102,02-01-2002,Alm. Salg,6.200,8,Villa,220,1972,,Aktuel værdi
+Gammel Stillingvej 4568462 Harlev J,ev J,1.220.000,29-12-2001,Alm. Salg,6.703,6,Villa,182,1932,,Aktuel værdi
+Tåstrupvej 1028462 Harlev J,ev J,2.765.000,14-12-2001,Alm. Salg,13.042,5,Villa,212,1904,,Aktuel værdi
+Damkærvej 18462 Harlev J,ev J,799.216,12-12-2001,Alm. Salg,4.646,6,Villa,172,2013,,Aktuel værdi
+Engsvinget 528462 Harlev J,ev J,1.350.000,10-12-2001,Alm. Salg,9.642,4,Villa,140,1970,,Aktuel værdi
+Bygmarksvej 68462 Harlev J,ev J,1.320.000,09-12-2001,Alm. Salg,8.148,5,Villa,162,1969,,Aktuel værdi
+Grønhøjvej 258462 Harlev J,ev J,1.199.793,26-11-2001,Alm. Salg,-,5,Villa,186,1963,,Aktuel værdi
+Harlev Kirkevej 118462 Harlev J,ev J,100.000,22-10-2001,Alm. Salg,352,10,Stuehus,284,1732,,
+Lærkesvinget 58462 Harlev J,ev J,380.000,22-10-2001,Alm. Salg,2.773,6,Villa,137,1975,,Aktuel værdi
+Storringvej 58462 Harlev J,ev J,1.127.809,02-09-2001,Andet,6.336,7,Stuehus,178,1914,,
+Damkærvej 58462 Harlev J,ev J,1.080.000,14-08-2001,Alm. Salg,11.368,3,Villa,95,1951,,Aktuel værdi
+Storringvej 148462 Harlev J,ev J,1.235.142,23-07-2001,Alm. Salg,-,7,Rækkehus,158,1855,,Aktuel værdi
+Sydbakken 298462 Harlev J,ev J,1.149.420,29-06-2001,Alm. Salg,9.195,4,Villa,125,1970,,Aktuel værdi
+Gammel Mosevej 158462 Harlev J,ev J,725.000,21-06-2001,Alm. Salg,4.833,5,Villa,150,1927,,Aktuel værdi
+Grøntoften 38462 Harlev J,ev J,1.250.000,19-06-2001,Alm. Salg,9.920,5,Villa,126,1969,,Aktuel værdi
+Rødlundvej 5198462 Harlev J,ev J,347.225,18-06-2001,Alm. Salg,2.183,6,Villa,159,2002,,Aktuel værdi
+Rødlundvej 5238462 Harlev J,ev J,355.775,10-06-2001,Alm. Salg,2.325,5,Villa,153,2001,,Aktuel værdi
+Rødlundvej 5038462 Harlev J,ev J,335.350,31-05-2001,Alm. Salg,2.177,6,Villa,154,2002,,Aktuel værdi
+Hørslevvej 1598462 Harlev J,ev J,1.699.641,21-04-2001,Alm. Salg,-,10,Stuehus,308,1957,,
+Florasvej 98462 Harlev J,ev J,1.310.000,27-03-2001,Alm. Salg,7.705,6,Villa,170,1967,,Aktuel værdi
+Damkærvej 28462 Harlev J,ev J,1.135.216,16-03-2001,Alm. Salg,8.226,3,Villa,138,1951,,Aktuel værdi
+Rødlundvej 5018462 Harlev J,ev J,394.062,16-01-2001,Alm. Salg,2.277,6,Villa,173,2002,,Aktuel værdi
+Labingvej 28462 Harlev J,ev J,480.000,21-12-2000,Alm. Salg,9.230,2,Villa,52,1900,,Aktuel værdi
+Grønhøjvej 778462 Harlev J,ev J,1.170.000,21-12-2000,Alm. Salg,8.417,5,Villa,139,1970,,Aktuel værdi
+Engsvinget 128462 Harlev J,ev J,1.280.000,08-11-2000,Alm. Salg,8.648,5,Villa,148,1969,,Aktuel værdi
+Harlev Kirkevej 58462 Harlev J,ev J,750.000,30-10-2000,Alm. Salg,9.375,3,Villa,80,1850,,Aktuel værdi
+Bygmarksvej 188462 Harlev J,ev J,547.012,25-10-2000,Andet,3.462,6,Villa,158,1969,,Aktuel værdi
+Rødlundvænget 338462 Harlev J,ev J,475.000,04-10-2000,Alm. Salg,2.827,6,Villa,168,2001,,Aktuel værdi
+Rødlundvej 2768462 Harlev J,ev J,345.000,03-10-2000,Alm. Salg,-,5,Villa,158,2001,,Aktuel værdi
+Labing Landevej 78462 Harlev J,ev J,798.241,02-10-2000,Alm. Salg,-,5,Villa,151,1940,,Aktuel værdi
+Højlundvej 208462 Harlev J,ev J,1.161.805,01-10-2000,Alm. Salg,7.306,5,Villa,159,1969,,Aktuel værdi
+Højlundvej 188462 Harlev J,ev J,1.269.511,15-09-2000,Alm. Salg,5.472,7,Villa,232,1969,,Aktuel værdi
+Tåstrupvej 1258462 Harlev J,ev J,1.200.000,14-09-2000,Fam. Salg,7.547,5,Villa,159,1977,,Aktuel værdi
+Vestervej 118462 Harlev J,ev J,940.000,25-08-2000,Alm. Salg,6.619,4,Villa,142,1943,,Aktuel værdi
+Bøgebakken 78462 Harlev J,ev J,1.200.000,22-08-2000,Alm. Salg,7.453,3,Stuehus,161,1905,,
+Grønhøjvej 618462 Harlev J,ev J,1.249.554,21-08-2000,Alm. Salg,9.538,4,Villa,131,1968,,Aktuel værdi
+Florasvej 188462 Harlev J,ev J,1.475.000,03-08-2000,Alm. Salg,8.240,5,Villa,179,1976,,Aktuel værdi
+Lilleringvej 218462 Harlev J,ev J,1.304.308,22-07-2000,Alm. Salg,6.521,7,Villa,200,1917,,Aktuel værdi
+Nyvangsvej 248462 Harlev J,ev J,1.029.044,16-07-2000,Alm. Salg,9.354,4,Villa,110,1965,,Aktuel værdi
+Tåstrupvej 828462 Harlev J,ev J,924.970,07-06-2000,Alm. Salg,4.999,6,Stuehus,185,2013,,
+Espevej 68462 Harlev J,ev J,1.464.867,31-05-2000,Alm. Salg,10.771,5,Villa,136,1953,,Aktuel værdi
+Framlevvej 138462 Harlev J,ev J,58.000,24-05-2000,Alm. Salg,-,7,Stuehus,241,1856,,
+Brydehøjvej 318462 Harlev J,ev J,1.466.000,24-05-2000,Alm. Salg,5.574,6,Villa,263,1870,,Aktuel værdi
+Rødlundvænget 78462 Harlev J,ev J,350.550,18-05-2000,Alm. Salg,2.291,5,Villa,153,2001,,Aktuel værdi
+Araliavej 28462 Harlev J,ev J,1.481.070,07-05-2000,Alm. Salg,10.285,5,Villa,144,1997,,Aktuel værdi
+Framlev Korsvej 278462 Harlev J,ev J,923.826,05-05-2000,Alm. Salg,7.450,4,Villa,124,1956,,Aktuel værdi
+Nytoften 218462 Harlev J,ev J,1.231.868,21-04-2000,Alm. Salg,-,5,Villa,152,1998,,Aktuel værdi
+Acervej 258462 Harlev J,ev J,1.138.206,11-04-2000,Alm. Salg,8.431,4,Villa,135,1964,,Aktuel værdi
+Gammel Stillingvej 434A8462 Harlev J,ev J,1.200.000,08-04-2000,Alm. Salg,10.434,4,Villa,115,1970,,Aktuel værdi
+Nyvangsvej 188462 Harlev J,ev J,517.500,04-04-2000,Fam. Salg,2.681,6,Villa,193,1969,,Aktuel værdi
+Bygmarksvej 218462 Harlev J,ev J,1.068.000,16-03-2000,Alm. Salg,8.279,5,Villa,129,1969,,Aktuel værdi
+Bøgebakken 98462 Harlev J,ev J,2.273.000,16-03-2000,Alm. Salg,9.315,9,Stuehus,244,1910,,
+Vestervej 28462 Harlev J,ev J,936.000,13-02-2000,Alm. Salg,6.281,4,Villa,149,1959,,Aktuel værdi
+Rødlundvænget 98462 Harlev J,ev J,397.050,19-01-2000,Alm. Salg,3.545,4,Villa,112,2000,,Aktuel værdi
+Vårgyvelvej 58462 Harlev J,ev J,1.327.270,10-01-2000,Alm. Salg,7.456,6,Villa,178,1970,,Aktuel værdi
+Framlevvej 298462 Harlev J,ev J,1.040.000,19-12-1999,Alm. Salg,6.540,5,Villa,159,1950,,Aktuel værdi
+Højlundvej 118462 Harlev J,ev J,1.264.809,01-12-1999,Alm. Salg,7.712,7,Villa,164,1969,,Aktuel værdi
+Harlevholmvej 248462 Harlev J,ev J,1.020.000,29-11-1999,Alm. Salg,2.914,8,Stuehus,350,1843,,
+Engsvinget 318462 Harlev J,ev J,1.114.960,09-11-1999,Alm. Salg,7.533,5,Villa,148,1969,,Aktuel værdi
+Edelhoffvej 38462 Harlev J,ev J,942.375,22-10-1999,Alm. Salg,6.731,5,Villa,140,1959,,Aktuel værdi
+Harlev Kirkevej 48462 Harlev J,ev J,875.000,04-10-1999,Alm. Salg,9.408,3,Villa,93,1864,,Aktuel værdi
+Rødlundvænget 138462 Harlev J,ev J,390.600,04-10-1999,Alm. Salg,2.981,5,Villa,131,2000,,Aktuel værdi
+Toftlundvej 48462 Harlev J,ev J,1.064.844,02-10-1999,Alm. Salg,7.946,3,Villa,134,1968,,Aktuel værdi
+Grønhøjvej 10B8462 Harlev J,ev J,1.770.000,30-09-1999,Alm. Salg,11.879,4,Villa,149,1998,,Aktuel værdi
+Brombærvej 178462 Harlev J,ev J,705.000,26-09-1999,Alm. Salg,8.011,5,Industri o.l.,88,1959,,Aktuel værdi
+Havremarksvej 68462 Harlev J,ev J,920.000,04-09-1999,Alm. Salg,9.583,4,Villa,96,1970,,Aktuel værdi
+Bygmarksvej 278462 Harlev J,ev J,940.000,15-06-1999,Alm. Salg,-,4,Villa,124,1969,,Aktuel værdi
+Rødlundvænget 198462 Harlev J,ev J,333.642,10-06-1999,Alm. Salg,2.125,5,Villa,157,2000,,Aktuel værdi
+Sydbakken 398462 Harlev J,ev J,1.241.645,02-06-1999,Alm. Salg,7.177,6,Villa,173,1970,,Aktuel værdi
+Hørslevvej 1238462 Harlev J,ev J,659.628,28-05-1999,Alm. Salg,-,7,Villa,194,1721,,Aktuel værdi
+Lilleringvej 158462 Harlev J,ev J,1.239.520,27-05-1999,Alm. Salg,6.963,6,Villa,178,1980,,Aktuel værdi
+Framlevvej 238462 Harlev J,ev J,824.730,24-05-1999,Alm. Salg,7.930,3,Villa,104,1961,,Aktuel værdi
+Sydbakken 138462 Harlev J,ev J,1.473.993,20-05-1999,Alm. Salg,6.887,6,Villa,214,1970,,Aktuel værdi
+Frøkjærvænget 68462 Harlev J,ev J,898.000,19-05-1999,Alm. Salg,-,7,Villa,155,1966,,Aktuel værdi
+Hørslevvej 1308462 Harlev J,ev J,700.000,08-05-1999,Alm. Salg,3.255,6,Stuehus,215,2000,,
+Engsvinget 508462 Harlev J,ev J,1.074.329,30-03-1999,Alm. Salg,6.356,9,Villa,169,1969,,Aktuel værdi
+Rødlundvænget 298462 Harlev J,ev J,315.450,11-02-1999,Alm. Salg,2.354,4,Villa,134,1999,,Aktuel værdi
+Højbyvej 198462 Harlev J,ev J,182.039,26-01-1999,Andet,6.067,2,Rækkehus,30,1802,,Aktuel værdi
+Ulmusvej 78462 Harlev J,ev J,1.200.000,11-01-1999,Alm. Salg,-,8,Villa,214,1965,,Aktuel værdi
+Gammel Stillingvej 4678462 Harlev J,ev J,1.475.000,11-01-1999,Alm. Salg,7.845,7,Villa,188,1925,,Aktuel værdi
+Labing Møllevej 88462 Harlev J,ev J,450.500,22-12-1998,Fam. Salg,4.290,3,Villa,105,1963,,Aktuel værdi
+Rødlundvænget 118462 Harlev J,ev J,376.650,21-12-1998,Alm. Salg,2.189,6,Villa,172,1999,,Aktuel værdi
+Rødlundvænget 278462 Harlev J,ev J,315.450,18-12-1998,Alm. Salg,1.971,5,Villa,160,2010,,Aktuel værdi
+Blomsterhaven 28462 Harlev J,ev J,1.020.000,14-12-1998,Fam. Salg,6.754,5,Villa,151,1985,,Aktuel værdi
+Tåstrupvej 1018462 Harlev J,ev J,517.200,03-12-1998,Alm. Salg,7.836,3,Villa,66,1877,,Aktuel værdi
+Rødlundvænget 318462 Harlev J,ev J,315.450,01-12-1998,Alm. Salg,-,6,Villa,200,1999,,Aktuel værdi
+Rødlundvænget 258462 Harlev J,ev J,375.750,30-11-1998,Alm. Salg,2.573,5,Villa,146,1999,,Aktuel værdi
+Araliavej 658462 Harlev J,ev J,238.875,25-11-1998,Alm. Salg,2.253,4,Villa,106,1985,,Aktuel værdi
+Bøgebakken 148462 Harlev J,ev J,1.873.000,23-11-1998,Alm. Salg,14.984,5,Stuehus,125,1965,,
+Engsvinget 218462 Harlev J,ev J,1.183.320,28-10-1998,Alm. Salg,5.744,5,Villa,206,1970,,Aktuel værdi
+Rødlundvej 2828462 Harlev J,ev J,243.125,27-10-1998,Alm. Salg,1.800,5,Villa,135,1999,,Aktuel værdi
+Hørslevvej 1578462 Harlev J,ev J,909.000,26-10-1998,Alm. Salg,-,6,Villa,134,1959,,Aktuel værdi
+Araliavej 108462 Harlev J,ev J,994.010,16-09-1998,Alm. Salg,12.743,4,Villa,78,1996,,Aktuel værdi
+Højbyvej 78462 Harlev J,ev J,1.099.489,12-09-1998,Alm. Salg,8.393,6,Villa,131,1987,,Aktuel værdi
+Lilleringvej 48462 Harlev J,ev J,763.000,28-08-1998,Alm. Salg,5.086,6,Villa,150,1956,,Aktuel værdi
+Højbyvej 48462 Harlev J,ev J,1.650.000,21-08-1998,Alm. Salg,7.932,6,Stuehus,208,1910,,
+Harlev Kirkevej 28462 Harlev J,ev J,38.780,10-08-1998,Alm. Salg,260,6,Stuehus,149,1865,,
+Damkærvej 38462 Harlev J,ev J,675.000,05-08-1998,Alm. Salg,7.258,2,Villa,93,1948,,Aktuel værdi
+Højbyvej 68462 Harlev J,ev J,879.280,14-07-1998,Alm. Salg,-,7,Villa,233,1912,,Aktuel værdi
+Araliavej 478462 Harlev J,ev J,251.250,14-07-1998,Alm. Salg,2.026,4,Villa,124,1980,,Aktuel værdi
+Højlundvej 158462 Harlev J,ev J,1.045.000,29-05-1998,Alm. Salg,6.220,7,Villa,168,1970,,Aktuel værdi
+Storringvej 208462 Harlev J,ev J,1.277.120,27-05-1998,Alm. Salg,9.390,5,Villa,136,1860,,Aktuel værdi
+Lærkesvinget 78462 Harlev J,ev J,1.014.000,15-05-1998,Alm. Salg,-,4,Villa,149,1974,,Aktuel værdi
+Labingvej 148462 Harlev J,ev J,2.400.000,14-05-1998,Alm. Salg,-,6,Stuehus,248,1902,,
+Harlev Møllevej 28462 Harlev J,ev J,639.000,14-05-1998,Alm. Salg,8.298,3,Villa,77,1932,,Aktuel værdi
+Skibbyvej 648462 Harlev J,ev J,2.700.000,29-04-1998,Fam. Salg,14.594,6,Stuehus,185,1847,,
+Acervej 228462 Harlev J,ev J,879.330,15-04-1998,Alm. Salg,5.673,5,Villa,155,1964,,Aktuel værdi
+Rødlundvej 2788462 Harlev J,ev J,246.250,15-04-1998,Alm. Salg,1.641,5,Villa,150,1998,,Aktuel værdi
+Sydbakken 218462 Harlev J,ev J,925.000,06-04-1998,Alm. Salg,7.708,3,Villa,120,1970,,Aktuel værdi
+Frøkjærvænget 38462 Harlev J,ev J,300.000,03-04-1998,Alm. Salg,-,7,Villa,198,1998,,Aktuel værdi
+Højbyvej 11A8462 Harlev J,ev J,295.000,13-03-1998,Alm. Salg,1.657,5,Villa,178,1999,,Aktuel værdi
+Tarskovvej 58462 Harlev J,ev J,1.045.000,04-03-1998,Alm. Salg,-,7,Villa,198,1897,,Aktuel værdi
+Grønhøjvej 688462 Harlev J,ev J,1.186.260,21-02-1998,Alm. Salg,8.069,6,Villa,147,1970,,Aktuel værdi
+Birkesvinget 68462 Harlev J,ev J,949.140,02-02-1998,Alm. Salg,5.683,6,Villa,167,1967,,Aktuel værdi
+Araliavej 48462 Harlev J,ev J,258.625,29-12-1997,Alm. Salg,1.887,5,Villa,137,1998,,Aktuel værdi
+Gammel Stillingvej 4658462 Harlev J,ev J,342.000,17-12-1997,Alm. Salg,4.384,3,Villa,78,1959,,Aktuel værdi
+Labing Landevej 7A8462 Harlev J,ev J,170.000,08-12-1997,Alm. Salg,1.125,4,Villa,151,1999,,Aktuel værdi
+Højbyvej 178462 Harlev J,ev J,490.000,04-12-1997,Alm. Salg,7.313,4,Rækkehus,67,1802,,Aktuel værdi
+Araliavej 88462 Harlev J,ev J,239.250,27-10-1997,Alm. Salg,1.733,4,Villa,138,1998,,Aktuel værdi
+Toftlundvej 28462 Harlev J,ev J,1.145.817,24-10-1997,Alm. Salg,6.902,5,Villa,166,1968,,Aktuel værdi
+Lærkesvinget 148462 Harlev J,ev J,876.410,12-10-1997,Alm. Salg,-,5,Villa,130,1962,,Aktuel værdi
+Rødlundvej 3128462 Harlev J,ev J,252.625,24-09-1997,Alm. Salg,1.742,5,Villa,145,1998,,Aktuel værdi
+Bygmarksvej 258462 Harlev J,ev J,1.131.003,20-09-1997,Alm. Salg,7.800,7,Villa,145,1969,,Aktuel værdi
+Edelhoffvej 98462 Harlev J,ev J,993.000,11-09-1997,Fam. Salg,11.033,2,Stuehus,90,1910,,
+Rødlundvej 2888462 Harlev J,ev J,252.500,04-09-1997,Alm. Salg,1.494,5,Villa,169,1998,,Aktuel værdi
+Bygmarksvej 38462 Harlev J,ev J,1.216.000,28-08-1997,Alm. Salg,7.369,7,Villa,165,1969,,Aktuel værdi
+Højbyvej 118462 Harlev J,ev J,1.188.000,26-08-1997,Alm. Salg,-,5,Villa,200,1925,,Aktuel værdi
+Grønhøjvej 56B8462 Harlev J,ev J,999.000,12-08-1997,Alm. Salg,7.400,5,Villa,135,1978,,Aktuel værdi
+Holmbækvej 38462 Harlev J,ev J,997.139,08-08-1997,Alm. Salg,8.983,4,Villa,111,1847,,Aktuel værdi
+Lilleringvej 238462 Harlev J,ev J,846.000,05-08-1997,Alm. Salg,6.220,4,Villa,136,1972,,Aktuel værdi
+Hørslevvej 1278462 Harlev J,ev J,1.875.000,15-07-1997,Fam. Salg,10.416,7,Stuehus,180,1914,,
+Sydbakken 858462 Harlev J,ev J,1.350.000,28-06-1997,Alm. Salg,7.105,4,Villa,190,1970,,Aktuel værdi
+Parcelvej 28462 Harlev J,ev J,1.321.197,20-06-1997,Alm. Salg,8.362,6,Villa,158,1937,,Aktuel værdi
+Grønhøjvej 178462 Harlev J,ev J,1.086.000,14-06-1997,Alm. Salg,8.044,6,Villa,135,1962,,Aktuel værdi
+Toftlundvej 88462 Harlev J,ev J,773.823,11-06-1997,Fam. Salg,3.599,8,Villa,215,1968,,Aktuel værdi
+Højlundvej 128462 Harlev J,ev J,819.000,28-05-1997,Fam. Salg,4.627,6,Villa,177,1968,,Aktuel værdi
+Engsvinget 178462 Harlev J,ev J,1.182.930,04-05-1997,Alm. Salg,7.486,6,Villa,158,1970,,Aktuel værdi
+Gammel Stillingvej 4418462 Harlev J,ev J,1.305.000,04-05-1997,Alm. Salg,10.875,4,Villa,120,1929,,Aktuel værdi
+Rødlundvej 3028462 Harlev J,ev J,243.625,23-04-1997,Alm. Salg,1.804,5,Villa,135,1997,,Aktuel værdi
+Kettingvej 228462 Harlev J,ev J,731.750,22-04-1997,Alm. Salg,-,7,Villa,208,1877,,Aktuel værdi
+Harlev Møllevej 68462 Harlev J,ev J,651.000,09-04-1997,Alm. Salg,-,8,Villa,230,1998,,Aktuel værdi
+Gammel Stillingvej 4488462 Harlev J,ev J,964.000,11-03-1997,Alm. Salg,6.885,5,Villa,140,1997,,Aktuel værdi
+Rødlundvej 2868462 Harlev J,ev J,247.125,25-02-1997,Alm. Salg,1.604,6,Villa,154,1997,,Aktuel værdi
+Brydehøjvej 248462 Harlev J,ev J,1.270.000,20-01-1997,Alm. Salg,-,8,Stuehus,198,1873,,
+Rødlundvej 3068462 Harlev J,ev J,242.250,05-12-1996,Alm. Salg,-,5,Villa,168,1997,,Aktuel værdi
+Nytoften 178462 Harlev J,ev J,1.108.000,29-09-1996,Alm. Salg,8.656,4,Villa,128,1996,,Aktuel værdi
+Araliavej 208462 Harlev J,ev J,238.000,25-09-1996,Alm. Salg,2.051,4,Villa,116,1997,,Aktuel værdi
+Tåstrupvej 1528462 Harlev J,ev J,1.007.000,23-09-1996,Alm. Salg,7.192,5,Villa,140,1986,,Aktuel værdi
+Rødlundvej 3048462 Harlev J,ev J,244.625,12-09-1996,Alm. Salg,2.329,4,Villa,105,1997,,Aktuel værdi
+Vestervej 38462 Harlev J,ev J,951.000,28-08-1996,Alm. Salg,5.594,6,Villa,170,1906,,Aktuel værdi
+Benneshede 18462 Harlev J,ev J,585.000,21-08-1996,Alm. Salg,6.882,3,Stuehus,85,1882,,
+Rødlundvej 2808462 Harlev J,ev J,254.250,07-08-1996,Alm. Salg,1.531,5,Villa,166,1997,,Aktuel værdi
+Tåstrup Byvej 158462 Harlev J,ev J,104.300,19-06-1996,Fam. Salg,724,5,Villa,144,1996,,Aktuel værdi
+Kettinggårdsvej 18462 Harlev J,ev J,1.422.000,07-06-1996,Alm. Salg,-,7,Villa,231,1875,,Aktuel værdi
+Snåstrupvej 78462 Harlev J,ev J,2.510.000,30-05-1996,Alm. Salg,12.364,7,Stuehus,203,1911,,
+Skibbyvej 548462 Harlev J,ev J,1.270.000,29-05-1996,Fam. Salg,9.548,4,Stuehus,133,1955,,
+Rugmarksvej 68462 Harlev J,ev J,415.310,11-05-1996,Alm. Salg,2.768,8,Villa,150,1968,,Aktuel værdi
+Birkesvinget 58462 Harlev J,ev J,615.000,06-05-1996,Alm. Salg,6.406,4,Villa,96,1962,,Aktuel værdi
+Gammel Stillingvej 4688462 Harlev J,ev J,705.904,02-05-1996,Alm. Salg,-,3,Villa,84,1952,,Aktuel værdi
+Araliavej 598462 Harlev J,ev J,239.250,01-05-1996,Alm. Salg,-,7,Villa,169,1986,,Aktuel værdi
+Grønhøjvej 558462 Harlev J,ev J,1.041.200,23-04-1996,Alm. Salg,5.480,5,Villa,190,1971,,Aktuel værdi
+Sydbakken 1118462 Harlev J,ev J,1.240.000,18-04-1996,Alm. Salg,5.040,6,Villa,246,1967,,Aktuel værdi
+Grønhøjvej 188462 Harlev J,ev J,1.295.000,17-04-1996,Alm. Salg,8.093,6,Villa,160,1962,,Aktuel værdi
+Sydbakken 228462 Harlev J,ev J,1.058.000,17-04-1996,Alm. Salg,4.898,4,Villa,216,1974,,Aktuel værdi
+Engsvinget 478462 Harlev J,ev J,870.000,15-04-1996,Alm. Salg,6.444,4,Villa,135,1972,,Aktuel værdi
+Storringvej 248462 Harlev J,ev J,1.295.000,11-04-1996,Fam. Salg,13.350,4,Stuehus,97,1911,,
+Araliavej 18462 Harlev J,ev J,242.625,07-03-1996,Alm. Salg,1.866,4,Villa,130,1980,,Aktuel værdi
+Højbyvej 128462 Harlev J,ev J,500.000,18-01-1996,Alm. Salg,-,4,Villa,201,1910,,Aktuel værdi
+Acervej 78462 Harlev J,ev J,987.000,16-01-1996,Alm. Salg,4.910,7,Villa,201,1968,,Aktuel værdi
+Hørslevvej 1328462 Harlev J,ev J,438.550,15-01-1996,Alm. Salg,2.610,4,Villa,168,1906,,Aktuel værdi
+Florasvej 318462 Harlev J,ev J,806.850,30-11-1995,Alm. Salg,4.314,6,Villa,187,1970,,Aktuel værdi
+Engsvinget 78462 Harlev J,ev J,935.000,08-11-1995,Alm. Salg,6.775,4,Villa,138,1971,,Aktuel værdi
+Gammel Stillingvej 4408462 Harlev J,ev J,1.030.000,23-10-1995,Alm. Salg,8.373,4,Villa,123,1912,,Aktuel værdi
+Vestervej 268462 Harlev J,ev J,480.329,03-10-1995,Alm. Salg,6.861,3,Villa,70,1959,,Aktuel værdi
+Vestervej 388462 Harlev J,ev J,515.000,07-09-1995,Alm. Salg,3.301,7,Villa,156,1902,,Aktuel værdi
+Næshøjvej 18462 Harlev J,ev J,672.110,04-08-1995,Alm. Salg,5.420,4,Villa,124,1967,,Aktuel værdi
+Tandrupvej 48462 Harlev J,ev J,1.078.000,03-07-1995,Alm. Salg,-,8,Stuehus,398,1879,,
+Hvedemarksvej 88462 Harlev J,ev J,848.000,03-07-1995,Alm. Salg,5.542,6,Villa,153,1969,,Aktuel værdi
+Engsvinget 48462 Harlev J,ev J,1.125.000,24-06-1995,Alm. Salg,5.681,7,Villa,198,1969,,Aktuel værdi
+Gammel Silkeborgvej 118462 Harlev J,ev J,368.000,15-06-1995,Alm. Salg,2.628,4,Villa,140,1890,,Aktuel værdi
+Grønhøjvej 10A8462 Harlev J,ev J,898.000,01-06-1995,Alm. Salg,5.907,5,Villa,152,1965,,Aktuel værdi
+Tiliavej 108462 Harlev J,ev J,840.000,04-05-1995,Alm. Salg,-,4,Villa,153,1972,,Aktuel værdi
+Sydbakken 378462 Harlev J,ev J,881.000,21-04-1995,Alm. Salg,5.575,5,Villa,158,1971,,Aktuel værdi
+Harlev Kirkevej 68462 Harlev J,ev J,1.239.500,13-04-1995,Alm. Salg,6.197,8,Villa,200,1738,,Aktuel værdi
+Bøgebakken 18462 Harlev J,ev J,630.000,10-04-1995,Alm. Salg,4.736,4,Villa,133,1912,,Aktuel værdi
+Gammel Stillingvej 4598462 Harlev J,ev J,550.000,05-04-1995,Alm. Salg,4.782,3,Villa,115,1920,,Aktuel værdi
+Tandrupvej 58462 Harlev J,ev J,1.575.000,16-03-1995,Alm. Salg,10.500,6,Stuehus,150,1831,,
+Gammel Stillingvej 4358462 Harlev J,ev J,717.252,24-02-1995,Alm. Salg,-,8,Villa,253,1907,,Aktuel værdi
+Snåstrupvej 18462 Harlev J,ev J,360.000,09-02-1995,Alm. Salg,3.000,5,Villa,120,1882,,Aktuel værdi
+Gammel Stillingvej 4648462 Harlev J,ev J,686.000,17-01-1995,Alm. Salg,3.090,10,Villa,222,1930,,Aktuel værdi
+Tåstrupvej 1088462 Harlev J,ev J,250.000,08-12-1994,Alm. Salg,-,4,Villa,186,1902,,Aktuel værdi
+Hvedemarksvej 38462 Harlev J,ev J,798.000,11-11-1994,Alm. Salg,6.650,4,Villa,120,1969,,Aktuel værdi
+Vestervej 158462 Harlev J,ev J,677.000,31-10-1994,Alm. Salg,-,4,Villa,150,1942,,Aktuel værdi
+Gammel Stillingvej 425B8462 Harlev J,ev J,610.000,25-07-1994,Alm. Salg,6.224,4,Rækkehus,98,1981,,Aktuel værdi
+Hvedemarksvej 18462 Harlev J,ev J,910.000,19-07-1994,Alm. Salg,5.582,8,Villa,163,1969,,Aktuel værdi
+Havremarksvej 138462 Harlev J,ev J,892.000,12-07-1994,Alm. Salg,5.068,8,Villa,176,1969,,Aktuel værdi
+Skibbyvej 528462 Harlev J,ev J,660.758,05-07-1994,Alm. Salg,-,5,Stuehus,183,1909,,
+Damkærvej 118462 Harlev J,ev J,590.000,22-06-1994,Alm. Salg,-,3,Villa,122,1954,,Aktuel værdi
+Tåstrup Søvej 68462 Harlev J,ev J,186.000,20-05-1994,Alm. Salg,-,7,Villa,153,1870,,Aktuel værdi
+Bygmarksvej 18462 Harlev J,ev J,912.000,18-05-1994,Alm. Salg,5.364,7,Villa,170,1968,,Aktuel værdi
+Sydbakken 98462 Harlev J,ev J,870.050,08-04-1994,Alm. Salg,5.029,8,Villa,173,1971,,Aktuel værdi
+Gammel Stillingvej 4188462 Harlev J,ev J,607.715,18-03-1994,Alm. Salg,-,4,Villa,126,1932,,Aktuel værdi
+Grønhøjvej 138462 Harlev J,ev J,500.000,02-03-1994,Alm. Salg,4.504,4,Villa,111,1964,,Aktuel værdi
+Sydbakken 1098462 Harlev J,ev J,725.000,01-03-1994,Alm. Salg,5.000,5,Villa,145,1971,,Aktuel værdi
+Grønhøjvej 348462 Harlev J,ev J,643.000,11-01-1994,Alm. Salg,-,7,Villa,183,1966,,Aktuel værdi
+Rugmarksvej 28462 Harlev J,ev J,956.000,20-12-1993,Alm. Salg,7.081,4,Villa,135,1967,,Aktuel værdi
+Sydbakken 498462 Harlev J,ev J,813.000,28-11-1993,Alm. Salg,4.567,5,Villa,178,1969,,Aktuel værdi
+Grønhøjvej 538462 Harlev J,ev J,796.000,31-10-1993,Alm. Salg,-,7,Villa,204,1968,,Aktuel værdi
+Sydbakken 878462 Harlev J,ev J,890.000,29-10-1993,Alm. Salg,4.120,7,Villa,216,1970,,Aktuel værdi
+Gammel Stillingvej 4348462 Harlev J,ev J,411.333,13-10-1993,Alm. Salg,45.703,6,Erhverv,9,1927,,Aktuel værdi
+Hørslevvej 1218462 Harlev J,ev J,1.600.000,13-09-1993,Fam. Salg,13.675,5,Stuehus,117,1905,,
+Snåstrupvej 4B8462 Harlev J,ev J,633.000,07-09-1993,Alm. Salg,5.807,4,Villa,109,1961,,Aktuel værdi
+Sydbakken 198462 Harlev J,ev J,775.000,05-09-1993,Alm. Salg,4.479,6,Villa,173,1970,,Aktuel værdi
+Sydbakken 278462 Harlev J,ev J,820.000,04-09-1993,Alm. Salg,4.823,5,Villa,170,1970,,Aktuel værdi
+Skibbyvej 578462 Harlev J,ev J,439.000,31-08-1993,Alm. Salg,6.271,2,Villa,70,1900,,Aktuel værdi
+Lilleringvej 16D8462 Harlev J,ev J,725.000,01-07-1993,Alm. Salg,5.370,4,Villa,135,1989,,Aktuel værdi
+Framlev Korsvej 158462 Harlev J,ev J,630.000,11-06-1993,Alm. Salg,4.500,6,Villa,140,1924,,Aktuel værdi
+Engsvinget 28462 Harlev J,ev J,625.000,24-05-1993,Alm. Salg,4.844,4,Villa,129,1969,,Aktuel værdi
+Tåstrupvej 1468462 Harlev J,ev J,670.000,14-04-1993,Alm. Salg,4.855,6,Villa,138,1907,,Aktuel værdi
+Framlevvej 23A8462 Harlev J,ev J,783.720,29-03-1993,Andet,4.637,6,Villa,169,1977,,Aktuel værdi
+Brydehøjvej 288462 Harlev J,ev J,32.729,04-11-1992,Alm. Salg,-,7,Stuehus,228,1994,,
+Framlevvej 178462 Harlev J,ev J,610.000,23-10-1992,Alm. Salg,3.546,11,Villa,172,1912,,Aktuel værdi
+Tåstrupvej 1068462 Harlev J,ev J,645.000,16-10-1992,Alm. Salg,-,5,Villa,131,1910,,Aktuel værdi
+Grønhøjvej 518462 Harlev J,ev J,805.000,29-09-1992,Alm. Salg,-,6,Villa,201,1970,,Aktuel værdi
+Bygmarksvej 48462 Harlev J,ev J,535.000,24-09-1992,Alm. Salg,3.039,7,Villa,176,1969,,Aktuel værdi
+Engsvinget 248462 Harlev J,ev J,323.726,28-07-1992,Alm. Salg,1.505,7,Villa,215,1968,,Aktuel værdi
+Sydbakken 78462 Harlev J,ev J,737.000,22-06-1992,Alm. Salg,-,6,Villa,203,1970,,Aktuel værdi
+Engsvinget 368462 Harlev J,ev J,720.000,17-06-1992,Alm. Salg,-,8,Villa,186,1969,,Aktuel værdi
+Nyvangsvej 98462 Harlev J,ev J,900.000,15-06-1992,Fam. Salg,5.660,6,Villa,159,1969,,Aktuel værdi
+Lilleringvej 388462 Harlev J,ev J,525.000,09-06-1992,Alm. Salg,5.833,5,Stuehus,90,1910,,
+Spiræavej 278462 Harlev J,ev J,825.000,27-04-1992,Alm. Salg,4.004,7,Villa,206,1976,,Aktuel værdi
+Gammel Stillingvej 4148462 Harlev J,ev J,530.000,23-04-1992,Alm. Salg,-,4,Villa,107,1932,,Aktuel værdi
+Araliavej 248462 Harlev J,ev J,239.816,09-03-1992,Alm. Salg,1.577,5,Villa,152,1992,,Aktuel værdi
+Spiræavej 338462 Harlev J,ev J,700.000,27-02-1992,Alm. Salg,5.555,4,Villa,126,1976,,Aktuel værdi
+Guldregnvej 458462 Harlev J,ev J,950.000,20-02-1992,Fam. Salg,-,8,Villa,209,1978,,Aktuel værdi
+Brydehøjvej 528462 Harlev J,ev J,674.574,13-02-1992,Alm. Salg,-,5,Stuehus,116,1905,,

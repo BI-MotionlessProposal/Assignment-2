@@ -1,0 +1,349 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Vestre Landevej 1954952 Stokkemarke,arke,600.000,01-05-2017,Alm. Salg,3.821,7,Villa,157,1963,-14 %,Aktuel værdi
+Keldernæsvej 784952 Stokkemarke,arke,300.000,26-04-2017,Fam. Salg,2.097,5,Villa,143,1887,,Aktuel værdi
+Bøllesmindevej 24952 Stokkemarke,arke,150.000,06-02-2017,Alm. Salg,1.041,5,Villa,144,1936,-23 %,Aktuel værdi
+Keldernæsvej 304952 Stokkemarke,arke,200.000,01-02-2017,Alm. Salg,2.173,5,Villa,92,1924,-11 %,Aktuel værdi
+Sørupvej 144952 Stokkemarke,arke,310.000,12-12-2016,Alm. Salg,2.480,3,Villa,125,1901,,Aktuel værdi
+Vestre Landevej 1994952 Stokkemarke,arke,400.000,28-11-2016,Alm. Salg,488,14,Villa,819,1916,,Aktuel værdi
+Hestehavevej 124952 Stokkemarke,arke,605.000,17-11-2016,Alm. Salg,2.115,8,Villa,286,1940,,Aktuel værdi
+Keldernæs Skolevej 84952 Stokkemarke,arke,200.000,21-10-2016,Alm. Salg,1.265,5,Villa,158,1880,-20 %,Aktuel værdi
+Skovhusevej 564952 Stokkemarke,arke,100.000,13-10-2016,Alm. Salg,1.111,2,Sommerhus,90,1852,,Aktuel værdi
+Højrebyvej 274952 Stokkemarke,arke,56.001,05-10-2016,Auktion,622,3,Villa,90,1870,,Aktuel værdi
+Tjennemarkevej 504952 Stokkemarke,arke,595.000,24-08-2016,Auktion,1.983,7,Villa,300,1905,-32 %,Aktuel værdi
+Brandsmose Ringvej 84952 Stokkemarke,arke,215.000,24-08-2016,Auktion,1.692,5,Villa,127,1973,-39 %,Aktuel værdi
+Toftevej 64952 Stokkemarke,arke,185.000,22-08-2016,Alm. Salg,1.321,4,Villa,140,1967,-43 %,Aktuel værdi
+Havløkkevej 494952 Stokkemarke,arke,305.000,17-06-2016,Auktion,2.103,7,Stuehus,145,1870,,
+Toftevej 34952 Stokkemarke,arke,325.000,06-06-2016,Alm. Salg,2.407,4,Villa,135,1967,0 %,Aktuel værdi
+Vestre Landevej 2044952 Stokkemarke,arke,180.000,26-05-2016,Alm. Salg,2.093,4,Villa,86,1920,-8 %,Aktuel værdi
+Vestre Landevej 2154952 Stokkemarke,arke,152.000,11-05-2016,Auktion,878,7,Villa,173,1948,,Aktuel værdi
+Brandsmose Ringvej 124952 Stokkemarke,arke,330.000,03-05-2016,Alm. Salg,2.538,5,Villa,130,1973,-5 %,Aktuel værdi
+Saltvig Hovvej 284952 Stokkemarke,arke,595.000,29-04-2016,Alm. Salg,3.520,7,Stuehus,169,1870,0 %,
+Birketvej 2924952 Stokkemarke,arke,50.000,11-04-2016,Alm. Salg,396,4,Villa,126,1949,-74 %,Aktuel værdi
+Højrebyvej 264952 Stokkemarke,arke,1.600.000,30-03-2016,Alm. Salg,6.274,11,Villa,255,1908,-6 %,Aktuel værdi
+Bøllesmindevej 94952 Stokkemarke,arke,225.000,19-02-2016,Alm. Salg,1.000,5,Villa,225,1910,-31 %,Aktuel værdi
+Øltappervej 44952 Stokkemarke,arke,1.530.000,15-02-2016,Fam. Salg,4.069,10,Villa,376,1926,,Aktuel værdi
+Keldernæs Skovvej 304952 Stokkemarke,arke,65.000,18-01-2016,Alm. Salg,451,4,Villa,144,1916,-57 %,Aktuel værdi
+Vestre Landevej 2024952 Stokkemarke,arke,599.000,03-12-2015,Alm. Salg,3.186,4,Villa,188,1895,0 %,Aktuel værdi
+Rørmarksvej 84952 Stokkemarke,arke,150.000,01-10-2015,Alm. Salg,1.428,4,Villa,105,1900,,Aktuel værdi
+Tjennemarkevej 584952 Stokkemarke,arke,13.611.645,04-09-2015,Fam. Salg,84.022,7,Stuehus,162,1859,,
+Vestre Landevej 2824952 Stokkemarke,arke,133.000,17-06-2015,Auktion,2.046,4,Villa,65,1927,-24 %,Aktuel værdi
+Vestre Landevej 3224952 Stokkemarke,arke,225.000,02-06-2015,Alm. Salg,2.500,3,Villa,90,1899,,Aktuel værdi
+Keldernæsvej 394952 Stokkemarke,arke,220.000,26-02-2015,Alm. Salg,1.157,6,Villa,190,1900,0 %,Aktuel værdi
+Vestre Landevej 2164952 Stokkemarke,arke,295.000,06-10-2014,Alm. Salg,2.379,2,Villa,124,1952,-9 %,Aktuel værdi
+Birketvej 2964952 Stokkemarke,arke,50.000,24-09-2014,Alm. Salg,625,3,Villa,80,1953,,Aktuel værdi
+Sursvej 74952 Stokkemarke,arke,565.000,19-09-2014,Alm. Salg,3.343,8,Villa,169,1964,-5 %,Aktuel værdi
+Havløkkevej 64952 Stokkemarke,arke,45.000,13-09-2014,Alm. Salg,436,4,Villa,103,1941,,Aktuel værdi
+Havløkkevej 124952 Stokkemarke,arke,550.000,16-08-2014,Alm. Salg,4.104,4,Villa,134,1876,0 %,Aktuel værdi
+Tjennemarkevej 134952 Stokkemarke,arke,500.000,05-08-2014,Alm. Salg,3.846,4,Villa,130,1987,,Aktuel værdi
+Vestre Landevej 3124952 Stokkemarke,arke,300.000,09-07-2014,Alm. Salg,3.846,3,Villa,78,1933,,Aktuel værdi
+Birketvej 2724952 Stokkemarke,arke,471.123,01-07-2014,Alm. Salg,3.893,3,Villa,121,1900,,Aktuel værdi
+Vestre Landevej 2314952 Stokkemarke,arke,541.689,01-07-2014,Andet,5.259,3,Villa,103,1907,,Aktuel værdi
+Øltappervej 124952 Stokkemarke,arke,1.100.000,30-06-2014,Alm. Salg,8.593,5,Villa,128,1931,-12 %,Aktuel værdi
+Birketvej 2354952 Stokkemarke,arke,45.000,18-06-2014,Auktion,661,4,Villa,68,1825,,Aktuel værdi
+Studiestræde 64952 Stokkemarke,arke,470.000,04-06-2014,Alm. Salg,2.814,6,Villa,167,1961,-6 %,Aktuel værdi
+Vestre Landevej 3074952 Stokkemarke,arke,310.000,25-04-2014,Alm. Salg,3.069,4,Villa,101,1963,-22 %,Aktuel værdi
+Øltappervej 94952 Stokkemarke,arke,5.567.500,12-03-2014,Fam. Salg,40.053,8,Stuehus,139,1928,,
+Vestre Landevej 2244952 Stokkemarke,arke,225.000,30-01-2014,Alm. Salg,2.122,4,Villa,106,1951,-25 %,Aktuel værdi
+Vestre Landevej 2594952 Stokkemarke,arke,115.000,04-01-2014,Alm. Salg,1.337,4,Villa,86,1903,-15 %,Aktuel værdi
+Vestre Landevej 3144952 Stokkemarke,arke,650.000,23-09-2013,Alm. Salg,2.765,6,Villa,235,1965,,Aktuel værdi
+Tjennemarkevej 344952 Stokkemarke,arke,307.800,18-09-2013,Auktion,1.076,8,Villa,286,1926,,Aktuel værdi
+Vestre Landevej 2794952 Stokkemarke,arke,115.000,27-08-2013,Alm. Salg,1.916,3,Villa,60,1951,-62 %,Aktuel værdi
+Vestre Landevej 3284952 Stokkemarke,arke,108.000,14-08-2013,Auktion,590,8,Villa,183,1900,,Aktuel værdi
+Brandsmose Ringvej 24952 Stokkemarke,arke,122.000,14-08-2013,Auktion,1.196,3,Villa,102,1974,,Aktuel værdi
+Vestre Landevej 2924952 Stokkemarke,arke,595.000,29-04-2013,Alm. Salg,2.479,8,Villa,240,1938,0 %,Aktuel værdi
+Birketvej 3384952 Stokkemarke,arke,1.050.000,15-04-2013,Alm. Salg,5.526,8,Villa,190,1907,-33 %,Aktuel værdi
+Vestre Landevej 2074952 Stokkemarke,arke,150.000,03-04-2013,Auktion,1.200,5,Villa,125,1914,-29 %,Aktuel værdi
+Keldernæsvej 134952 Stokkemarke,arke,520.000,27-03-2013,Alm. Salg,3.687,7,Villa,141,1867,,Aktuel værdi
+Havløkkevej 34952 Stokkemarke,arke,590.000,28-01-2013,Alm. Salg,3.314,6,Villa,178,1880,-26 %,Aktuel værdi
+Kommunegårdsvej 94952 Stokkemarke,arke,495.000,23-01-2013,Alm. Salg,4.057,3,Villa,122,1880,0 %,Aktuel værdi
+Tjennemarkevej 244952 Stokkemarke,arke,8.190.000,18-01-2013,Alm. Salg,35.608,9,Stuehus,230,1850,,
+Keldernæs Skovvej 404952 Stokkemarke,arke,150.000,18-12-2012,Alm. Salg,1.071,4,Villa,140,1911,-25 %,Aktuel værdi
+Rørmarksvej 124952 Stokkemarke,arke,690.000,13-11-2012,Fam. Salg,4.825,4,Villa,143,1926,,Aktuel værdi
+Birketvej 2174952 Stokkemarke,arke,175.000,01-11-2012,Alm. Salg,1.029,4,Villa,170,1869,-10 %,Aktuel værdi
+Birketvej 3184952 Stokkemarke,arke,70.000,19-09-2012,Auktion,406,4,Villa,172,1917,,Aktuel værdi
+Birketvej 3544952 Stokkemarke,arke,70.000,15-08-2012,Alm. Salg,619,4,Villa,113,1877,,Aktuel værdi
+Vestre Landevej 3104952 Stokkemarke,arke,125.699,23-07-2012,Alm. Salg,1.876,4,Villa,67,1917,-36 %,Aktuel værdi
+Havløkkevej 14952 Stokkemarke,arke,150.000,20-06-2012,Auktion,925,4,Villa,162,1890,-39 %,Aktuel værdi
+Toftevej 84952 Stokkemarke,arke,595.000,23-04-2012,Alm. Salg,4.958,4,Villa,120,1967,0 %,Aktuel værdi
+Sursvej 54952 Stokkemarke,arke,500.000,25-03-2012,Alm. Salg,3.846,5,Villa,130,1964,-23 %,Aktuel værdi
+Skovhusevej 524952 Stokkemarke,arke,150.000,12-03-2012,Alm. Salg,1.744,3,Villa,86,1962,-34 %,Aktuel værdi
+Keldernæs Hovvej 124952 Stokkemarke,arke,530.773,22-02-2012,Fam. Salg,2.932,8,Villa,181,1936,,Aktuel værdi
+Vestre Landevej 2294952 Stokkemarke,arke,150.000,13-01-2012,Alm. Salg,1.470,4,Villa,102,1912,-50 %,Aktuel værdi
+Studiestræde 44952 Stokkemarke,arke,645.000,31-12-2011,Alm. Salg,4.849,5,Villa,133,1959,-7 %,Aktuel værdi
+Vestre Landevej 2284952 Stokkemarke,arke,720.000,01-12-2011,Alm. Salg,4.090,6,Villa,176,1947,,Aktuel værdi
+Brandsmosevej 34952 Stokkemarke,arke,30.001,19-10-2011,Auktion,434,2,Villa,69,1887,,Aktuel værdi
+Vestre Landevej 2714952 Stokkemarke,arke,375.000,08-08-2011,Alm. Salg,4.310,3,Villa,87,1920,2 %,Aktuel værdi
+Keldernæsvej 564952 Stokkemarke,arke,360.000,29-06-2011,Auktion,3.050,4,Villa,118,1903,,Aktuel værdi
+Godthåbsvej 54952 Stokkemarke,arke,600.000,22-06-2011,Alm. Salg,5.000,5,Villa,120,2008,-24 %,Aktuel værdi
+Hestehavevej 84952 Stokkemarke,arke,775.000,09-05-2011,Alm. Salg,3.027,6,Villa,256,1905,,Aktuel værdi
+Vestre Landevej 2304952 Stokkemarke,arke,330.000,09-02-2011,Auktion,2.894,3,Villa,114,1948,,Aktuel værdi
+Keldernæs Skolevej 324952 Stokkemarke,arke,180.000,23-01-2011,Alm. Salg,2.812,2,Villa,64,1957,-5 %,Aktuel værdi
+Løjetvej 24952 Stokkemarke,arke,250.000,28-11-2010,Alm. Salg,2.314,4,Villa,108,1827,-18 %,Aktuel værdi
+Keldernæs Hovvej 74952 Stokkemarke,arke,2.100.000,23-11-2010,Alm. Salg,9.130,8,Villa,230,1948,,Aktuel værdi
+Vestre Landevej 2874952 Stokkemarke,arke,370.000,17-11-2010,Auktion,3.057,4,Villa,121,1930,,Aktuel værdi
+"Vestre Landevej 219, 14952 Stokkemarke",arke,250.000,10-11-2010,Auktion,1.824,5,Lejlighed,137,1954,,Aktuel værdi
+Vestre Landevej 3244952 Stokkemarke,arke,275.000,25-10-2010,Auktion,1.909,5,Villa,144,1903,-30 %,Aktuel værdi
+Havløkkevej 204952 Stokkemarke,arke,170.000,18-10-2010,Alm. Salg,1.349,5,Villa,126,1900,,Aktuel værdi
+Vestre Landevej 3204952 Stokkemarke,arke,200.000,04-10-2010,Alm. Salg,1.550,4,Villa,129,1907,-20 %,Aktuel værdi
+Klintegårdsvej 24952 Stokkemarke,arke,1.800.000,03-10-2010,Alm. Salg,7.659,4,Stuehus,235,1933,1 %,
+Keldernæs Skovvej 114952 Stokkemarke,arke,3.710.325,20-09-2010,Fam. Salg,20.728,6,Stuehus,179,1960,,
+Vestre Landevej 2904952 Stokkemarke,arke,600.000,08-09-2010,Auktion,4.918,5,Villa,122,1938,-33 %,Aktuel værdi
+Keldernæs Skolevej 234952 Stokkemarke,arke,125.000,25-08-2010,Auktion,1.302,5,Villa,96,1930,,Aktuel værdi
+Birketvej 3224952 Stokkemarke,arke,460.000,27-07-2010,Alm. Salg,5.111,4,Villa,90,1870,,Aktuel værdi
+Saltvig Hovvej 404952 Stokkemarke,arke,391.539,06-07-2010,Fam. Salg,3.728,3,Villa,105,1870,-35 %,Aktuel værdi
+Højrebyvej 134952 Stokkemarke,arke,6.760.000,26-03-2010,Alm. Salg,37.555,7,Stuehus,180,1902,,
+Tjennemarkevej 214952 Stokkemarke,arke,4.889.554,17-03-2010,Alm. Salg,16.977,7,Stuehus,288,1876,,
+Øltappervej 54952 Stokkemarke,arke,1.675.000,06-12-2009,Fam. Salg,6.442,10,Stuehus,260,1888,,
+Vestre Landevej 2174952 Stokkemarke,arke,463.125,25-11-2009,Auktion,1.781,6,Villa,260,1952,-67 %,Aktuel værdi
+Kildevej 24952 Stokkemarke,arke,393.000,14-11-2009,Alm. Salg,1.926,4,Villa,204,1890,-21 %,Aktuel værdi
+Blansmosevej 114952 Stokkemarke,arke,12.660.000,01-09-2009,Fam. Salg,48.692,11,Stuehus,260,1929,,
+Kommunegårdsvej 14952 Stokkemarke,arke,1.050.000,26-08-2009,Alm. Salg,11.931,2,Sommerhus,88,1989,0 %,Aktuel værdi
+Havløkkevej 214952 Stokkemarke,arke,800.000,18-08-2009,Alm. Salg,6.106,4,Villa,131,1880,-6 %,Aktuel værdi
+Vestre Landevej 2964952 Stokkemarke,arke,525.000,15-08-2009,Alm. Salg,4.200,5,Villa,125,1942,-12 %,Aktuel værdi
+Keldernæs Skovvej 104952 Stokkemarke,arke,995.000,13-08-2009,Alm. Salg,7.107,8,Stuehus,140,1865,0 %,
+Vestre Landevej 2974952 Stokkemarke,arke,392.606,10-05-2009,Andet,3.020,6,Villa,130,1900,,Aktuel værdi
+Sørupvej 114952 Stokkemarke,arke,2.400.000,30-03-2009,Alm. Salg,12.972,3,Stuehus,185,1870,,
+Vestre Landevej 3054952 Stokkemarke,arke,790.000,11-03-2009,Auktion,5.724,4,Villa,138,1963,,Aktuel værdi
+Vestre Landevej 2374952 Stokkemarke,arke,272.000,22-12-2008,Auktion,1.123,6,Villa,242,1914,,Aktuel værdi
+Vestre Landevej 2694952 Stokkemarke,arke,650.000,01-12-2008,Alm. Salg,2.888,6,Villa,225,1912,,Aktuel værdi
+Brandsmose Ringvej 14952 Stokkemarke,arke,765.000,13-11-2008,Alm. Salg,7.083,4,Villa,108,1969,,Aktuel værdi
+Keldernæsvej 684952 Stokkemarke,arke,7.182.500,22-10-2008,Fam. Salg,34.040,9,Stuehus,211,1948,,
+Birketvej 3604952 Stokkemarke,arke,375.000,06-10-2008,Alm. Salg,1.811,5,Villa,207,1949,,Aktuel værdi
+Keldernæsvej 724952 Stokkemarke,arke,720.000,24-09-2008,Alm. Salg,5.950,4,Villa,121,1976,-6 %,Aktuel værdi
+Rørmarksvej 44952 Stokkemarke,arke,800.000,20-09-2008,Alm. Salg,6.611,4,Villa,121,2006,,Aktuel værdi
+Vestre Landevej 2474952 Stokkemarke,arke,400.000,15-09-2008,Fam. Salg,1.166,19,Villa,343,1887,,Aktuel værdi
+Keldernæs Skovvej 84952 Stokkemarke,arke,1.625.000,23-08-2008,Alm. Salg,7.158,5,Villa,227,1850,-3 %,Aktuel værdi
+Saltvig Hovvej 444952 Stokkemarke,arke,1.540.000,15-08-2008,Alm. Salg,8.324,5,Villa,185,1914,-3 %,Aktuel værdi
+Keldernæs Skovvej 344952 Stokkemarke,arke,650.000,11-08-2008,Alm. Salg,5.241,4,Villa,124,1915,-4 %,Aktuel værdi
+Birketvej 3524952 Stokkemarke,arke,190.000,04-08-2008,Alm. Salg,3.064,2,Villa,62,1936,,Aktuel værdi
+Vestre Landevej 2574952 Stokkemarke,arke,725.000,15-07-2008,Alm. Salg,2.543,7,Villa,285,1880,-19 %,Aktuel værdi
+Blansmosevej 104952 Stokkemarke,arke,280.000,14-06-2008,Alm. Salg,3.333,3,Villa,84,1827,,Aktuel værdi
+Brandsmose Tværvej 14952 Stokkemarke,arke,475.000,12-06-2008,Alm. Salg,6.597,3,Villa,72,1915,-4 %,Aktuel værdi
+Grantoften 14952 Stokkemarke,arke,44.700,28-04-2008,Alm. Salg,375,3,Villa,119,2009,-37 %,Aktuel værdi
+Thomasmindevej 94952 Stokkemarke,arke,1.910.000,14-04-2008,Alm. Salg,6.141,10,Villa,311,1872,,Aktuel værdi
+Højrebyvej 174952 Stokkemarke,arke,4.889.554,07-04-2008,Alm. Salg,20.373,6,Stuehus,240,1877,,
+Blansmosevej 74952 Stokkemarke,arke,570.000,31-03-2008,Alm. Salg,4.351,4,Villa,131,1827,-3 %,Aktuel værdi
+Vestre Landevej 1374952 Stokkemarke,arke,3.429.000,27-03-2008,Alm. Salg,40.821,3,Villa,84,1920,,Aktuel værdi
+Birketvej 3584952 Stokkemarke,arke,1.450.000,17-03-2008,Auktion,9.477,9,Villa,153,1777,,Aktuel værdi
+Kommunegårdsvej 24952 Stokkemarke,arke,1.995.000,19-02-2008,Alm. Salg,9.925,5,Villa,201,1934,0 %,Aktuel værdi
+Kildevej 54952 Stokkemarke,arke,750.000,10-12-2007,Alm. Salg,7.653,4,Villa,98,1900,,Aktuel værdi
+Øltappervej 14952 Stokkemarke,arke,1.050.000,03-12-2007,Alm. Salg,7.664,5,Villa,137,1965,-4 %,Aktuel værdi
+Keldernæs Hovvej 84952 Stokkemarke,arke,900.000,12-11-2007,Alm. Salg,4.568,5,Stuehus,197,1800,,
+Brandsmosevej 254952 Stokkemarke,arke,400.000,30-10-2007,Alm. Salg,5.333,3,Villa,75,1830,,Aktuel værdi
+Keldernæs Skovvej 184952 Stokkemarke,arke,595.000,29-10-2007,Alm. Salg,5.000,3,Villa,119,1880,0 %,Aktuel værdi
+Keldernæs Skolevej 14952 Stokkemarke,arke,795.000,23-10-2007,Alm. Salg,6.309,4,Villa,126,1910,0 %,Aktuel værdi
+Keldernæs Skolevej 224952 Stokkemarke,arke,490.000,15-10-2007,Alm. Salg,6.125,3,Villa,80,1952,-8 %,Aktuel værdi
+Vestre Landevej 2614952 Stokkemarke,arke,630.000,07-10-2007,Alm. Salg,2.692,3,Villa,234,1900,,Aktuel værdi
+Birketvej 2194952 Stokkemarke,arke,565.000,05-10-2007,Alm. Salg,8.071,3,Villa,70,1950,,Aktuel værdi
+Sørupvej 204952 Stokkemarke,arke,288.000,26-09-2007,Alm. Salg,3.428,3,Rækkehus,84,1920,-11 %,Aktuel værdi
+Birketvej 3424952 Stokkemarke,arke,110.000,31-07-2007,Alm. Salg,-,5,Villa,164,1900,,Aktuel værdi
+Brandsmose Ringvej 74952 Stokkemarke,arke,960.000,13-07-2007,Alm. Salg,6.075,6,Villa,158,1965,-4 %,Aktuel værdi
+Godthåbsvej 154952 Stokkemarke,arke,825.000,02-07-2007,Alm. Salg,4.274,4,Villa,193,1970,0 %,Aktuel værdi
+Vestre Landevej 2664952 Stokkemarke,arke,425.000,25-06-2007,Alm. Salg,3.346,5,Villa,127,1900,0 %,Aktuel værdi
+Brandsmose Ringvej 94952 Stokkemarke,arke,330.199,20-06-2007,Auktion,2.089,5,Villa,158,1971,,Aktuel værdi
+Vestre Landevej 2704952 Stokkemarke,arke,650.000,22-05-2007,Alm. Salg,1.662,14,Villa,391,1912,,Aktuel værdi
+Havløkkevej 144952 Stokkemarke,arke,480.000,07-05-2007,Alm. Salg,4.660,4,Villa,103,1900,,Aktuel værdi
+Vestre Landevej 1874952 Stokkemarke,arke,813.262,17-04-2007,Alm. Salg,4.755,5,Villa,171,1962,,Aktuel værdi
+Godthåbsvej 44952 Stokkemarke,arke,595.000,12-03-2007,Alm. Salg,9.153,3,Villa,65,1942,,Aktuel værdi
+Vestre Landevej 3344952 Stokkemarke,arke,645.000,18-01-2007,Alm. Salg,4.961,6,Villa,130,1900,,Aktuel værdi
+Birketvej 2034952 Stokkemarke,arke,531.879,04-01-2007,Andet,4.188,5,Stuehus,127,1917,,
+Sørupvej 184952 Stokkemarke,arke,332.578,11-12-2006,Auktion,3.959,3,Rækkehus,84,1920,,Aktuel værdi
+Kommunegårdsvej 114952 Stokkemarke,arke,500.000,28-09-2006,Alm. Salg,5.952,3,Sommerhus,84,1880,,Aktuel værdi
+Vestre Landevej 2764952 Stokkemarke,arke,1.800.000,21-09-2006,Alm. Salg,9.278,5,Villa,194,1900,,Aktuel værdi
+Birketvej 2904952 Stokkemarke,arke,300.000,11-09-2006,Alm. Salg,3.191,3,Villa,94,1860,,Aktuel værdi
+Vestre Landevej 3604952 Stokkemarke,arke,693.809,30-08-2006,Alm. Salg,6.194,5,Villa,112,1943,,Aktuel værdi
+Vestre Landevej 2404952 Stokkemarke,arke,500.000,22-08-2006,Alm. Salg,7.142,4,Villa,70,1912,,Aktuel værdi
+Havløkkevej 134952 Stokkemarke,arke,310.000,09-08-2006,Alm. Salg,5.740,2,Villa,54,1880,,Aktuel værdi
+Vestre Landevej 2014952 Stokkemarke,arke,410.000,03-08-2006,Alm. Salg,4.555,3,Villa,90,1929,,Aktuel værdi
+Havløkkevej 24952 Stokkemarke,arke,785.000,31-07-2006,Alm. Salg,5.233,6,Villa,150,1917,,Aktuel værdi
+Tjennemarkevej 304952 Stokkemarke,arke,545.000,28-06-2006,Fam. Salg,3.633,5,Villa,150,1912,,Aktuel værdi
+Vestre Landevej 1334952 Stokkemarke,arke,1.045.000,06-06-2006,Alm. Salg,4.504,7,Villa,232,1922,,Aktuel værdi
+Keldernæs Skolevej 54952 Stokkemarke,arke,320.000,20-05-2006,Alm. Salg,2.962,4,Villa,108,1914,,Aktuel værdi
+Godthåbsvej 134952 Stokkemarke,arke,435.000,11-05-2006,Alm. Salg,4.350,4,Villa,100,1902,,Aktuel værdi
+Grantoften 94952 Stokkemarke,arke,675.000,09-05-2006,Alm. Salg,5.818,3,Villa,116,1981,,Aktuel værdi
+Vestre Landevej 3044952 Stokkemarke,arke,535.000,05-05-2006,Alm. Salg,3.302,6,Villa,162,1924,,Aktuel værdi
+Keldernæsvej 274952 Stokkemarke,arke,395.000,25-04-2006,Alm. Salg,3.291,4,Villa,120,1947,,Aktuel værdi
+Keldernæs Hovvej 44952 Stokkemarke,arke,2.090.000,03-03-2006,Alm. Salg,20.096,5,Stuehus,104,1880,,
+Keldernæsvej 64952 Stokkemarke,arke,280.000,25-02-2006,Alm. Salg,4.117,3,Villa,68,1946,,Aktuel værdi
+Bøllesmindevej 104952 Stokkemarke,arke,940.000,07-02-2006,Alm. Salg,3.022,6,Stuehus,311,1750,,
+Skovhusevej 554952 Stokkemarke,arke,2.055.000,19-01-2006,Alm. Salg,16.844,3,Stuehus,122,1927,,
+Keldernæs Skolevej 44952 Stokkemarke,arke,250.000,20-12-2005,Alm. Salg,-,2,Villa,55,1877,,Aktuel værdi
+Keldernæs Skolevej 374952 Stokkemarke,arke,870.000,20-12-2005,Alm. Salg,9.886,3,Villa,88,1800,,Aktuel værdi
+Saltvig Hovvej 264952 Stokkemarke,arke,825.000,12-12-2005,Alm. Salg,7.638,4,Villa,108,1936,,Aktuel værdi
+Vestre Landevej 2104952 Stokkemarke,arke,320.000,29-11-2005,Alm. Salg,2.909,3,Villa,110,1948,,Aktuel værdi
+Brandsmosevej 64952 Stokkemarke,arke,1.520.000,24-11-2005,Alm. Salg,10.555,4,Villa,144,1915,,Aktuel værdi
+Godthåbsvej 104952 Stokkemarke,arke,323.000,23-11-2005,Fam. Salg,4.141,2,Villa,78,1700,,Aktuel værdi
+Brandsmosevej 54952 Stokkemarke,arke,310.000,22-11-2005,Alm. Salg,3.444,4,Villa,90,1933,,Aktuel værdi
+Kildevej 84952 Stokkemarke,arke,263.500,15-11-2005,Alm. Salg,3.136,3,Villa,84,1880,,Aktuel værdi
+Hestehavevej 64952 Stokkemarke,arke,755.000,08-11-2005,Alm. Salg,6.508,4,Rækkehus,116,1902,,Aktuel værdi
+Vestre Landevej 2134952 Stokkemarke,arke,650.000,08-11-2005,Alm. Salg,5.327,5,Villa,122,1925,,Aktuel værdi
+Havløkkevej 94952 Stokkemarke,arke,210.000,29-10-2005,Alm. Salg,4.117,2,Villa,51,1780,,Aktuel værdi
+Vestre Landevej 2084952 Stokkemarke,arke,515.000,26-10-2005,Alm. Salg,4.517,4,Villa,114,1674,,Aktuel værdi
+Kommunegårdsvej 124952 Stokkemarke,arke,950.000,06-10-2005,Fam. Salg,3.467,8,Stuehus,274,1900,,
+Godthåbsvej 144952 Stokkemarke,arke,691.101,27-09-2005,Alm. Salg,5.573,5,Villa,124,1919,,Aktuel værdi
+Birketvej 2534952 Stokkemarke,arke,665.000,14-09-2005,Alm. Salg,4.104,5,Villa,162,1932,,Aktuel værdi
+Vildmosevej 34952 Stokkemarke,arke,785.000,30-08-2005,Alm. Salg,7.850,2,Sommerhus,100,1860,,Aktuel værdi
+Keldernæsvej 354952 Stokkemarke,arke,385.000,11-08-2005,Alm. Salg,2.961,4,Villa,130,1880,,Aktuel værdi
+Tjennemarkevej 444952 Stokkemarke,arke,795.000,05-08-2005,Alm. Salg,-,6,Villa,166,1877,,Aktuel værdi
+Keldernæs Skolevej 314952 Stokkemarke,arke,670.000,19-07-2005,Alm. Salg,7.204,4,Villa,93,1852,,Aktuel værdi
+Godthåbsvej 64952 Stokkemarke,arke,100.000,13-07-2005,Alm. Salg,1.562,2,Villa,64,2007,,Aktuel værdi
+Brandsmosevej 294952 Stokkemarke,arke,705.000,12-07-2005,Alm. Salg,5.222,3,Villa,135,1900,,Aktuel værdi
+Keldernæsvej 104952 Stokkemarke,arke,687.500,05-07-2005,Fam. Salg,5.729,3,Villa,120,1960,,Aktuel værdi
+Højrebyvej 214952 Stokkemarke,arke,575.000,16-06-2005,Alm. Salg,6.845,2,Villa,84,1965,,Aktuel værdi
+Vestre Landevej 3064952 Stokkemarke,arke,660.000,14-03-2005,Alm. Salg,4.888,5,Villa,135,1913,,Aktuel værdi
+Vestre Landevej 3664952 Stokkemarke,arke,810.000,25-02-2005,Alm. Salg,4.602,5,Villa,176,1900,,Aktuel værdi
+Brandsmosevej 224952 Stokkemarke,arke,245.000,23-02-2005,Alm. Salg,4.083,2,Villa,60,1800,,Aktuel værdi
+Tjennemarkevej 484952 Stokkemarke,arke,995.000,10-02-2005,Alm. Salg,3.812,5,Villa,261,1870,,Aktuel værdi
+Birketvej 2494952 Stokkemarke,arke,2.700.000,03-02-2005,Alm. Salg,17.088,6,Villa,158,1700,,Aktuel værdi
+Sørupvej 104952 Stokkemarke,arke,1.826.250,25-01-2005,Fam. Salg,8.116,3,Stuehus,225,1863,,
+Birketvej 3284952 Stokkemarke,arke,350.000,22-12-2004,Alm. Salg,1.715,5,Villa,204,1920,,Aktuel værdi
+Blansmosevej 184952 Stokkemarke,arke,110.000,07-12-2004,Alm. Salg,1.294,4,Villa,85,1827,,Aktuel værdi
+Havløkkevej 394952 Stokkemarke,arke,330.000,18-11-2004,Alm. Salg,3.300,4,Sommerhus,100,1890,,Aktuel værdi
+Birketvej 2114952 Stokkemarke,arke,235.222,09-11-2004,Alm. Salg,980,6,Villa,240,1903,,Aktuel værdi
+Keldernæs Skolevej 184952 Stokkemarke,arke,555.000,27-10-2004,Alm. Salg,5.550,4,Villa,100,1966,,Aktuel værdi
+Vestre Landevej 3324952 Stokkemarke,arke,300.000,26-10-2004,Alm. Salg,2.027,3,Villa,148,1900,,Aktuel værdi
+Løjetvej 54952 Stokkemarke,arke,475.000,07-09-2004,Alm. Salg,3.345,4,Villa,142,1827,,Aktuel værdi
+Vestre Landevej 3464952 Stokkemarke,arke,525.000,06-09-2004,Alm. Salg,4.906,4,Villa,107,1900,,Aktuel værdi
+Havløkkevej 114952 Stokkemarke,arke,255.000,30-08-2004,Alm. Salg,3.311,3,Villa,77,1880,,Aktuel værdi
+Vestre Landevej 2634952 Stokkemarke,arke,456.939,16-08-2004,Auktion,3.461,6,Villa,132,1922,,Aktuel værdi
+Skovhusevej 604952 Stokkemarke,arke,785.000,03-08-2004,Alm. Salg,4.361,5,Villa,180,1820,,Aktuel værdi
+Kildevej 134952 Stokkemarke,arke,800.000,18-07-2004,Alm. Salg,6.557,4,Villa,122,1970,,Aktuel værdi
+Vestre Landevej 2094952 Stokkemarke,arke,665.000,15-06-2004,Alm. Salg,4.750,9,Villa,140,1937,,Aktuel værdi
+Keldernæs Strandvej 74952 Stokkemarke,arke,1.300.000,29-05-2004,Alm. Salg,5.327,7,Villa,244,1900,,Aktuel værdi
+Vestre Landevej 3214952 Stokkemarke,arke,495.000,04-05-2004,Alm. Salg,4.714,3,Villa,105,1946,,Aktuel værdi
+Vestre Landevej 2034952 Stokkemarke,arke,375.566,03-05-2004,Auktion,3.237,5,Villa,116,1900,,Aktuel værdi
+Højrebyvej 114952 Stokkemarke,arke,555.000,03-05-2004,Alm. Salg,3.425,6,Villa,162,1827,,Aktuel værdi
+Vestre Landevej 2334952 Stokkemarke,arke,375.000,17-04-2004,Alm. Salg,1.923,5,Villa,195,1959,,Aktuel værdi
+Keldernæs Skovvej 164952 Stokkemarke,arke,321.698,28-03-2004,Alm. Salg,4.021,4,Villa,80,1900,,Aktuel værdi
+Brandsmose Ringvej 194952 Stokkemarke,arke,861.042,26-03-2004,Alm. Salg,6.523,4,Villa,132,1968,,Aktuel værdi
+Vestre Landevej 1814952 Stokkemarke,arke,850.000,20-02-2004,Alm. Salg,8.173,4,Villa,104,1960,,Aktuel værdi
+Vestre Landevej 3524952 Stokkemarke,arke,625.000,17-02-2004,Alm. Salg,6.510,3,Villa,96,1935,,Aktuel værdi
+Birketvej 3464952 Stokkemarke,arke,495.000,17-02-2004,Alm. Salg,4.541,5,Villa,109,1875,,Aktuel værdi
+Øltappervej 104952 Stokkemarke,arke,325.758,08-02-2004,Alm. Salg,2.216,4,Villa,147,1877,,Aktuel værdi
+Vestre Landevej 2834952 Stokkemarke,arke,475.000,05-11-2003,Alm. Salg,2.581,5,Villa,184,1900,,Aktuel værdi
+Vestre Landevej 1894952 Stokkemarke,arke,650.000,20-10-2003,Alm. Salg,5.803,4,Villa,112,1960,,Aktuel værdi
+Birketvej 2474952 Stokkemarke,arke,200.000,13-10-2003,Auktion,1.666,7,Villa,120,1916,,Aktuel værdi
+Brandsmosevej 114952 Stokkemarke,arke,425.000,26-09-2003,Alm. Salg,3.794,4,Villa,112,1915,,Aktuel værdi
+Blansmosevej 44952 Stokkemarke,arke,300.000,04-09-2003,Alm. Salg,2.857,3,Sommerhus,105,1920,,Aktuel værdi
+Vestre Landevej 2784952 Stokkemarke,arke,400.000,04-08-2003,Alm. Salg,5.405,4,Villa,74,1901,,Aktuel værdi
+Vestre Landevej 2184952 Stokkemarke,arke,225.000,02-07-2003,Fam. Salg,1.875,4,Villa,120,1947,,Aktuel værdi
+Vestre Landevej 2354952 Stokkemarke,arke,623.000,25-06-2003,Alm. Salg,-,8,Villa,233,1948,,Aktuel værdi
+Keldernæs Skolevej 104952 Stokkemarke,arke,380.000,06-06-2003,Alm. Salg,4.810,4,Villa,79,1807,,Aktuel værdi
+Kildevej 114952 Stokkemarke,arke,555.000,15-05-2003,Alm. Salg,6.032,3,Villa,92,1880,,Aktuel værdi
+Birketvej 2864952 Stokkemarke,arke,906.000,24-04-2003,Alm. Salg,4.213,5,Villa,215,1880,,Aktuel værdi
+Vestre Landevej 2564952 Stokkemarke,arke,420.000,23-03-2003,Alm. Salg,1.680,9,Villa,250,1911,,Aktuel værdi
+Keldernæs Skolevej 214952 Stokkemarke,arke,1.000.000,20-03-2003,Alm. Salg,6.666,6,Villa,150,1800,,Aktuel værdi
+Brandsmose Tværvej 54952 Stokkemarke,arke,835.000,17-03-2003,Alm. Salg,6.231,3,Villa,134,1800,,Aktuel værdi
+Knuthenlundvej 14952 Stokkemarke,arke,62.719,17-03-2003,Alm. Salg,418,5,Villa,150,1880,,Aktuel værdi
+Vestre Landevej 2854952 Stokkemarke,arke,330.000,17-02-2003,Alm. Salg,2.214,4,Villa,149,1910,,Aktuel værdi
+Keldernæsvej 534952 Stokkemarke,arke,607.000,08-12-2002,Alm. Salg,4.705,3,Villa,129,1936,,Aktuel værdi
+Højrebyvej 74952 Stokkemarke,arke,226.730,01-10-2002,Alm. Salg,921,7,Villa,246,1910,,Aktuel værdi
+Brandsmosevej 74952 Stokkemarke,arke,250.000,21-09-2002,Alm. Salg,3.676,1,Villa,68,1921,,Aktuel værdi
+Vestre Landevej 2864952 Stokkemarke,arke,228.143,09-09-2002,Andet,1.629,6,Villa,140,1935,,Aktuel værdi
+Keldernæsvej 524952 Stokkemarke,arke,1.410.000,19-08-2002,Alm. Salg,6.266,9,Villa,225,1872,,Aktuel værdi
+Keldernæsvej 324952 Stokkemarke,arke,353.924,08-08-2002,Alm. Salg,2.681,4,Villa,132,1830,,Aktuel værdi
+Vestre Landevej 2064952 Stokkemarke,arke,535.000,01-08-2002,Alm. Salg,3.933,4,Villa,136,1939,,Aktuel værdi
+Birketvej 2594952 Stokkemarke,arke,209.466,08-07-2002,Alm. Salg,1.586,4,Villa,132,1905,,Aktuel værdi
+Keldernæsvej 244952 Stokkemarke,arke,540.842,14-05-2002,Alm. Salg,4.622,4,Villa,117,1937,,Aktuel værdi
+Sørupvej 124952 Stokkemarke,arke,419.253,13-05-2002,Alm. Salg,4.234,6,Villa,99,1921,,Aktuel værdi
+Sørupvej 34952 Stokkemarke,arke,2.777.000,16-04-2002,Fam. Salg,12.916,5,Stuehus,215,1866,,
+Vestre Landevej 2224952 Stokkemarke,arke,184.500,06-03-2002,Alm. Salg,2.073,2,Villa,89,1958,,Aktuel værdi
+Vestre Landevej 3424952 Stokkemarke,arke,182.281,21-12-2001,Alm. Salg,-,6,Villa,157,1930,,Aktuel værdi
+Sørupvej 44952 Stokkemarke,arke,311.250,12-12-2001,Fam. Salg,2.572,4,Villa,121,1915,,Aktuel værdi
+Skovhusevej 614952 Stokkemarke,arke,566.000,10-12-2001,Alm. Salg,-,6,Villa,192,1920,,Aktuel værdi
+Keldernæs Skolevej 24952 Stokkemarke,arke,270.480,15-11-2001,Alm. Salg,2.146,5,Villa,126,1911,,Aktuel værdi
+Saltvig Hovvej 294952 Stokkemarke,arke,735.000,15-10-2001,Alm. Salg,3.418,5,Villa,215,1870,,Aktuel værdi
+Højrebyvej 194952 Stokkemarke,arke,308.718,13-10-2001,Alm. Salg,2.572,4,Villa,120,1917,,Aktuel værdi
+Keldernæsvej 44952 Stokkemarke,arke,123.000,16-09-2001,Andet,1.078,4,Villa,114,1936,,Aktuel værdi
+Vestre Landevej 3744952 Stokkemarke,arke,529.000,04-09-2001,Alm. Salg,4.408,4,Villa,120,1966,,Aktuel værdi
+Keldernæsvej 474952 Stokkemarke,arke,350.000,25-08-2001,Alm. Salg,2.554,5,Villa,137,1900,,Aktuel værdi
+Vestre Landevej 2684952 Stokkemarke,arke,400.496,13-08-2001,Alm. Salg,3.544,5,Villa,113,1911,,Aktuel værdi
+Keldernæsvej 124952 Stokkemarke,arke,330.246,13-08-2001,Alm. Salg,3.476,3,Villa,95,1960,,Aktuel værdi
+Brandsmosevej 264952 Stokkemarke,arke,627.858,10-08-2001,Alm. Salg,12.557,3,Villa,50,1830,,Aktuel værdi
+Skovstræde 44952 Stokkemarke,arke,450.000,17-07-2001,Alm. Salg,5.769,2,Villa,78,1802,,Aktuel værdi
+Grantoften 134952 Stokkemarke,arke,650.000,05-03-2001,Alm. Salg,4.710,5,Villa,138,1978,,Aktuel værdi
+Kildevej 154952 Stokkemarke,arke,285.000,12-02-2001,Alm. Salg,1.619,7,Villa,176,1880,,Aktuel værdi
+Tjennemarkevej 404952 Stokkemarke,arke,504.480,07-02-2001,Alm. Salg,3.133,4,Villa,161,1900,,Aktuel værdi
+Vestre Landevej 3264952 Stokkemarke,arke,535.000,29-01-2001,Alm. Salg,2.377,7,Villa,225,1857,,Aktuel værdi
+Klintegårdsvej 64952 Stokkemarke,arke,330.000,18-12-2000,Alm. Salg,3.235,5,Sommerhus,102,1900,,Aktuel værdi
+Rørmarksvej 104952 Stokkemarke,arke,4.869.000,15-12-2000,Fam. Salg,18.726,7,Stuehus,260,1670,,
+Vestre Landevej 2884952 Stokkemarke,arke,270.000,22-11-2000,Alm. Salg,1.475,7,Villa,183,1937,,Aktuel værdi
+Havløkkevej 334952 Stokkemarke,arke,227.900,14-11-2000,Auktion,2.279,5,Villa,100,1900,,Aktuel værdi
+Keldernæsvej 344952 Stokkemarke,arke,130.000,02-11-2000,Alm. Salg,1.444,3,Villa,90,1935,,Aktuel værdi
+Brandsmose Ringvej 44952 Stokkemarke,arke,73.331,09-10-2000,Alm. Salg,814,3,Villa,90,1966,,
+Keldernæsvej 334952 Stokkemarke,arke,75.000,03-10-2000,Alm. Salg,378,8,Stuehus,198,1948,,
+Keldernæs Skolevej 164952 Stokkemarke,arke,233.456,02-10-2000,Alm. Salg,1.667,4,Villa,140,1964,,Aktuel værdi
+Bøllesmindevej 64952 Stokkemarke,arke,350.000,05-07-2000,Fam. Salg,1.933,7,Villa,181,1973,,Aktuel værdi
+Vestre Landevej 2384952 Stokkemarke,arke,550.000,24-04-2000,Alm. Salg,4.400,5,Villa,125,1917,,Aktuel værdi
+Keldernæsvej 314952 Stokkemarke,arke,295.000,24-03-2000,Alm. Salg,1.843,4,Villa,160,1947,,Aktuel værdi
+Keldernæsvej 224952 Stokkemarke,arke,232.164,01-02-2000,Alm. Salg,3.627,2,Villa,64,1950,,Aktuel værdi
+Vestre Landevej 2894952 Stokkemarke,arke,135.435,13-12-1999,Alm. Salg,1.504,5,Villa,90,1900,,Aktuel værdi
+Keldernæs Skovvej 124952 Stokkemarke,arke,275.000,13-12-1999,Alm. Salg,2.956,4,Villa,93,1900,,Aktuel værdi
+Vestre Landevej 1724952 Stokkemarke,arke,88.000,10-08-1999,Alm. Salg,389,8,Stuehus,226,1931,,
+Skovhusevej 654952 Stokkemarke,arke,2.925.000,22-07-1999,Alm. Salg,19.500,6,Stuehus,150,1929,,
+Blansmosevej 54952 Stokkemarke,arke,200.000,14-06-1999,Alm. Salg,2.298,5,Sommerhus,87,1777,,Aktuel værdi
+Vestre Landevej 1974952 Stokkemarke,arke,250.000,11-06-1999,Alm. Salg,2.604,4,Villa,96,1943,,Aktuel værdi
+Grantoften 154952 Stokkemarke,arke,180.000,21-05-1999,Alm. Salg,3.103,2,Villa,58,1979,,Aktuel værdi
+Sursvej 34952 Stokkemarke,arke,400.000,13-04-1999,Alm. Salg,1.860,6,Villa,215,1956,,Aktuel værdi
+Keldernæs Skolevej 94952 Stokkemarke,arke,405.000,12-04-1999,Alm. Salg,1.824,7,Villa,222,1916,,Aktuel værdi
+Keldernæs Skolevej 34952 Stokkemarke,arke,138.843,29-03-1999,Alm. Salg,1.851,3,Villa,75,1880,,Aktuel værdi
+Vestre Landevej 1474952 Stokkemarke,arke,325.126,23-11-1998,Alm. Salg,2.902,4,Villa,112,1931,,Aktuel værdi
+Vestre Landevej 1914952 Stokkemarke,arke,436.000,16-11-1998,Alm. Salg,3.353,4,Villa,130,1960,,Aktuel værdi
+Vestre Landevej 2464952 Stokkemarke,arke,741.000,07-09-1998,Alm. Salg,2.352,9,Villa,315,1777,,Aktuel værdi
+Keldernæs Skolevej 254952 Stokkemarke,arke,286.332,20-07-1998,Alm. Salg,3.181,3,Villa,90,1900,,Aktuel værdi
+Keldernæsvej 434952 Stokkemarke,arke,6.500.000,20-07-1998,Alm. Salg,38.235,7,Stuehus,170,1936,,
+Vestre Landevej 1854952 Stokkemarke,arke,435.399,24-05-1998,Alm. Salg,3.628,4,Villa,120,1960,,Aktuel værdi
+Birketvej 2434952 Stokkemarke,arke,609.972,23-05-1998,Alm. Salg,3.525,6,Villa,173,1906,,Aktuel værdi
+Tjennemarkevej 464952 Stokkemarke,arke,80.000,11-05-1998,Alm. Salg,909,3,Villa,88,1920,,Aktuel værdi
+Vestre Landevej 1934952 Stokkemarke,arke,520.000,30-04-1998,Alm. Salg,2.921,8,Villa,178,1963,,Aktuel værdi
+Keldernæsvej 24952 Stokkemarke,arke,350.000,05-04-1998,Alm. Salg,2.500,4,Villa,140,1900,,Aktuel værdi
+Vestre Landevej 2674952 Stokkemarke,arke,240.000,02-04-1998,Alm. Salg,2.727,4,Villa,88,1920,,Aktuel værdi
+Birketvej 3104952 Stokkemarke,arke,411.284,02-03-1998,Alm. Salg,3.515,3,Villa,117,1942,,Aktuel værdi
+Vestre Landevej 2734952 Stokkemarke,arke,200.000,09-12-1997,Alm. Salg,1.923,4,Villa,104,1962,,Aktuel værdi
+Blansmosevej 124952 Stokkemarke,arke,637.840,08-11-1997,Alm. Salg,-,5,Villa,170,1912,,Aktuel værdi
+Vestre Landevej 2364952 Stokkemarke,arke,575.000,19-09-1997,Alm. Salg,4.107,6,Villa,140,1923,,Aktuel værdi
+Vestre Landevej 1784952 Stokkemarke,arke,1.250.000,18-08-1997,Alm. Salg,7.352,6,Stuehus,170,1914,,
+Vestre Landevej 3174952 Stokkemarke,arke,106.374,09-06-1997,Alm. Salg,1.131,4,Villa,94,1939,,Aktuel værdi
+Vestre Landevej 1614952 Stokkemarke,arke,641.000,21-05-1997,Alm. Salg,2.627,7,Villa,244,1912,,Aktuel værdi
+Keldernæsvej 514952 Stokkemarke,arke,845.000,19-05-1997,Alm. Salg,4.225,5,Villa,200,1780,,Aktuel værdi
+Tjennemarkevej 144952 Stokkemarke,arke,430.000,07-04-1997,Alm. Salg,3.071,3,Villa,140,1959,,Aktuel værdi
+Hjortevej 44952 Stokkemarke,arke,276.000,01-03-1997,Alm. Salg,3.325,3,Villa,83,1942,,Aktuel værdi
+Keldernæs Skolevej 134952 Stokkemarke,arke,360.000,17-02-1997,Alm. Salg,3.428,6,Villa,105,1926,,Aktuel værdi
+Rørmarksvej 54952 Stokkemarke,arke,1.360.000,17-12-1996,Fam. Salg,5.375,8,Stuehus,253,1930,,
+Vestre Landevej 2274952 Stokkemarke,arke,9.000.000,20-11-1996,Fam. Salg,60.000,10,Villa,150,1913,,Aktuel værdi
+Vestre Landevej 3084952 Stokkemarke,arke,167.000,13-11-1996,Alm. Salg,1.491,3,Villa,112,1910,,Aktuel værdi
+Saltvig Hovvej 384952 Stokkemarke,arke,139.000,14-10-1996,Alm. Salg,868,4,Sommerhus,160,1864,,Aktuel værdi
+Kommunegårdsvej 34952 Stokkemarke,arke,84.455,07-10-1996,Alm. Salg,521,5,Villa,162,1920,,Aktuel værdi
+Keldernæs Skolevej 174952 Stokkemarke,arke,320.000,07-10-1996,Alm. Salg,2.285,4,Villa,140,1900,,Aktuel værdi
+Birketvej 3124952 Stokkemarke,arke,170.000,07-10-1996,Alm. Salg,439,8,Villa,387,1890,,Aktuel værdi
+Birketvej 3264952 Stokkemarke,arke,625.000,23-09-1996,Alm. Salg,-,5,Villa,161,1850,,Aktuel værdi
+Kommunegårdsvej 134952 Stokkemarke,arke,290.000,07-09-1996,Alm. Salg,2.132,4,Villa,136,1914,,Aktuel værdi
+Bøttevej 34952 Stokkemarke,arke,150.000,06-09-1996,Fam. Salg,1.401,3,Villa,107,1977,,Aktuel værdi
+Tjennemarkevej 264952 Stokkemarke,arke,320.000,09-08-1996,Alm. Salg,984,9,Villa,325,1852,,Aktuel værdi
+Vestre Landevej 1984952 Stokkemarke,arke,530.309,20-05-1996,Alm. Salg,2.638,5,Villa,201,1890,,Aktuel værdi
+Birketvej 3024952 Stokkemarke,arke,227.000,20-05-1996,Alm. Salg,2.802,4,Villa,81,1907,,Aktuel værdi
+Vestre Landevej 1654952 Stokkemarke,arke,375.000,11-03-1996,Alm. Salg,2.300,6,Villa,163,1938,,Aktuel værdi
+Godthåbsvej 174952 Stokkemarke,arke,363.000,11-12-1995,Alm. Salg,2.436,4,Villa,149,1939,,Aktuel værdi
+Skovhusevej 574952 Stokkemarke,arke,575.000,13-11-1995,Alm. Salg,5.000,4,Stuehus,115,1923,,
+Vestre Landevej 2544952 Stokkemarke,arke,373.900,07-08-1995,Alm. Salg,956,10,Villa,391,1900,,Aktuel værdi
+Tjennemarkevej 184952 Stokkemarke,arke,410.000,04-03-1995,Alm. Salg,3.082,4,Villa,133,1972,,Aktuel værdi
+Brandsmose Ringvej 54952 Stokkemarke,arke,385.000,22-02-1995,Alm. Salg,1.954,4,Villa,197,1970,,Aktuel værdi
+Brandsmosevej 244952 Stokkemarke,arke,124.000,06-02-1995,Alm. Salg,1.180,5,Villa,105,1800,,Aktuel værdi
+Vestre Landevej 2324952 Stokkemarke,arke,475.000,29-12-1994,Alm. Salg,3.830,6,Villa,124,1949,,Aktuel værdi
+Højrebyvej 184952 Stokkemarke,arke,120.000,23-12-1994,Alm. Salg,1.142,5,Villa,105,1870,,Aktuel værdi
+Birketvej 2314952 Stokkemarke,arke,75.000,21-11-1994,Alm. Salg,-,6,Sommerhus,90,1975,,Aktuel værdi
+Tjennemarkevej 164952 Stokkemarke,arke,440.000,14-09-1994,Alm. Salg,2.378,8,Villa,185,1912,,Aktuel værdi
+Højrebyvej 334952 Stokkemarke,arke,5.937.518,18-05-1994,Alm. Salg,21.990,5,Stuehus,270,1980,,
+Havløkkevej 264952 Stokkemarke,arke,425.000,17-04-1994,Alm. Salg,2.135,4,Villa,199,2002,,Aktuel værdi
+Keldernæs Skovvej 364952 Stokkemarke,arke,172.800,06-04-1994,Alm. Salg,1.280,3,Villa,135,1916,,Aktuel værdi
+Højrebyvej 54952 Stokkemarke,arke,30.000,21-01-1994,Alm. Salg,312,2,Villa,96,1882,,Aktuel værdi
+Vestre Landevej 3304952 Stokkemarke,arke,278.000,30-10-1993,Alm. Salg,2.780,3,Villa,100,1920,,Aktuel værdi
+Birketvej 2274952 Stokkemarke,arke,162.500,16-08-1993,Alm. Salg,1.069,5,Villa,152,1909,,Aktuel værdi
+Keldernæs Strandvej 11B4952 Stokkemarke,arke,6.500.000,16-07-1993,Alm. Salg,28.260,7,Stuehus,230,1912,,
+Keldernæs Skolevej 334952 Stokkemarke,arke,137.000,28-06-1993,Alm. Salg,1.902,4,Villa,72,1852,,Aktuel værdi
+Vestre Landevej 2994952 Stokkemarke,arke,200.800,28-05-1993,Alm. Salg,1.606,5,Villa,125,1900,,Aktuel værdi
+Havløkkevej 234952 Stokkemarke,arke,240.000,28-05-1993,Alm. Salg,1.764,4,Villa,136,1915,,Aktuel værdi
+Blansmosevej 164952 Stokkemarke,arke,245.000,16-04-1993,Alm. Salg,-,6,Villa,148,1911,,Aktuel værdi
+Brandsmosevej 104952 Stokkemarke,arke,250.000,23-03-1993,Alm. Salg,1.106,7,Villa,226,1875,,Aktuel værdi
+Vestre Landevej 2484952 Stokkemarke,arke,161.250,09-10-1992,Alm. Salg,1.119,6,Villa,144,1900,,Aktuel værdi
+Højrebyvej 234952 Stokkemarke,arke,190.000,11-02-1992,Alm. Salg,-,5,Villa,165,1877,,Aktuel værdi

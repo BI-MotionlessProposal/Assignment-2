@@ -1,0 +1,810 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Testrupvej 28732 Hovedgård,gård,61.128,27-04-2017,Alm. Salg,108,8,Stuehus,562,2012,,
+Katrinelundsvej 198732 Hovedgård,gård,1.650.000,21-04-2017,Alm. Salg,12.500,4,Rækkehus,132,2009,,Aktuel værdi
+Bakkevej 128732 Hovedgård,gård,1.395.000,25-01-2017,Alm. Salg,8.017,5,Villa,174,1912,0 %,Aktuel værdi
+Tornbjerg 1028732 Hovedgård,gård,1.400.000,20-01-2017,Alm. Salg,9.523,6,Villa,147,1978,-6 %,Aktuel værdi
+Kirkevej 558732 Hovedgård,gård,1.000.000,07-01-2017,Alm. Salg,8.333,3,Stuehus,120,1940,,
+Sogneskellet 148732 Hovedgård,gård,1.109.500,06-01-2017,Andet,5.778,5,Villa,192,1997,,Aktuel værdi
+Fruenshave 488732 Hovedgård,gård,616.500,05-01-2017,Fam. Salg,3.691,6,Villa,167,1974,,Aktuel værdi
+Ørskovbæk Parken 128732 Hovedgård,gård,2.350.000,16-12-2016,Alm. Salg,15.562,5,Villa,151,2016,-2 %,Aktuel værdi
+Vinthervej 138732 Hovedgård,gård,2.400.000,13-12-2016,Alm. Salg,15.483,5,Villa,155,2007,-8 %,Aktuel værdi
+Nylandsvej 14A8732 Hovedgård,gård,925.000,11-12-2016,Alm. Salg,8.894,3,Rækkehus,104,1987,-7 %,Aktuel værdi
+Grumstrupvej 618732 Hovedgård,gård,1.525.000,05-12-2016,Alm. Salg,10.517,5,Villa,145,1930,-4 %,Aktuel værdi
+Frydsvej 78732 Hovedgård,gård,755.000,24-11-2016,Alm. Salg,9.679,3,Villa,78,1952,0 %,Aktuel værdi
+Sogneskellet 558732 Hovedgård,gård,1.375.000,07-11-2016,Alm. Salg,9.353,5,Villa,147,1986,-1 %,Aktuel værdi
+Vestergade 458732 Hovedgård,gård,1.000.000,31-10-2016,Alm. Salg,6.493,4,Villa,154,1920,-17 %,Aktuel værdi
+Gl Kattrupvej 278732 Hovedgård,gård,1.170.000,30-10-2016,Alm. Salg,8.125,6,Villa,144,1949,-10 %,Aktuel værdi
+Tornbjerg 1B8732 Hovedgård,gård,800.000,06-10-2016,Fam. Salg,9.756,3,Rækkehus,82,1981,,Aktuel værdi
+N P Danmarksvej 678732 Hovedgård,gård,1.500.000,25-09-2016,Alm. Salg,13.888,4,Villa,108,2009,-2 %,Aktuel værdi
+N P Danmarksvej 738732 Hovedgård,gård,1.975.000,20-09-2016,Alm. Salg,15.192,4,Rækkehus,130,2009,-6 %,Aktuel værdi
+Ørskovbæk Parken 108732 Hovedgård,gård,2.450.000,16-09-2016,Alm. Salg,15.217,5,Villa,161,2016,-2 %,Aktuel værdi
+Lundgårdevej 68732 Hovedgård,gård,1.300.000,15-09-2016,Alm. Salg,7.784,6,Villa,167,1953,-7 %,Aktuel værdi
+Horsensvej 428732 Hovedgård,gård,1.045.000,09-09-2016,Alm. Salg,7.307,5,Villa,143,1969,-13 %,Aktuel værdi
+Østergade 108732 Hovedgård,gård,735.000,15-08-2016,Andet,6.681,3,Rækkehus,110,1909,,Aktuel værdi
+Præstevænget 118732 Hovedgård,gård,875.000,02-08-2016,Alm. Salg,4.834,7,Villa,181,1973,-17 %,Aktuel værdi
+N P Danmarksvej 328732 Hovedgård,gård,2.275.000,11-07-2016,Alm. Salg,14.398,5,Villa,158,2008,-1 %,Aktuel værdi
+Overby Skovvej 48732 Hovedgård,gård,2.262.500,01-07-2016,Alm. Salg,11.484,5,Villa,197,1827,,Aktuel værdi
+Engmarksvej 358732 Hovedgård,gård,975.000,09-06-2016,Alm. Salg,6.964,5,Stuehus,140,1908,-8 %,
+N P Danmarksvej 638732 Hovedgård,gård,1.975.000,06-06-2016,Alm. Salg,15.192,4,Villa,130,2009,-6 %,Aktuel værdi
+Elbjergvej 418732 Hovedgård,gård,1.340.000,04-06-2016,Alm. Salg,8.023,6,Villa,167,1877,-3 %,Aktuel værdi
+Grumstrupvej 298732 Hovedgård,gård,275.000,02-06-2016,Alm. Salg,3.873,3,Villa,71,1877,-7 %,Aktuel værdi
+N P Danmarksvej 358732 Hovedgård,gård,2.094.000,23-05-2016,Alm. Salg,14.053,6,Villa,149,2007,0 %,Aktuel værdi
+Gl Tebstrupvej 2A8732 Hovedgård,gård,1.040.000,17-05-2016,Fam. Salg,8.062,4,Villa,129,1976,,Aktuel værdi
+N P Danmarksvej 758732 Hovedgård,gård,1.495.000,28-04-2016,Alm. Salg,13.842,3,Rækkehus,108,2009,-3 %,Aktuel værdi
+Bakkevej 188732 Hovedgård,gård,1.050.000,26-04-2016,Alm. Salg,10.937,4,Villa,96,1963,-4 %,Aktuel værdi
+Hadrupvej 808732 Hovedgård,gård,20.425.000,24-04-2016,Andet,77.661,10,Stuehus,263,1897,,
+Horsensvej 308732 Hovedgård,gård,2.450.000,21-04-2016,Alm. Salg,17.253,5,Villa,142,1918,-7 %,Aktuel værdi
+Vedsletvej 28732 Hovedgård,gård,380.000,06-04-2016,Alm. Salg,5.277,3,Villa,72,1950,-23 %,Aktuel værdi
+Vinthervej 18732 Hovedgård,gård,2.150.000,21-03-2016,Alm. Salg,15.140,5,Villa,142,2008,-4 %,Aktuel værdi
+Gl Kattrupvej 648732 Hovedgård,gård,1.070.000,14-03-2016,Alm. Salg,7.985,4,Villa,134,1962,,Aktuel værdi
+Grumstrupvej 278732 Hovedgård,gård,1.125.000,25-02-2016,Alm. Salg,7.653,5,Villa,147,1880,-6 %,Aktuel værdi
+Tvilhøj 88732 Hovedgård,gård,1.990.000,22-02-2016,Alm. Salg,13.266,5,Villa,150,2011,0 %,Aktuel værdi
+Grumstrupvej 398732 Hovedgård,gård,1.275.000,20-02-2016,Alm. Salg,6.071,6,Villa,210,1780,-6 %,Aktuel værdi
+Horsensvej 238732 Hovedgård,gård,1.050.000,16-02-2016,Alm. Salg,7.291,4,Villa,144,1900,-8 %,Aktuel værdi
+Kærsholmvej 2B8732 Hovedgård,gård,1.548.000,04-02-2016,Alm. Salg,12.093,5,Villa,128,2005,0 %,Aktuel værdi
+Gl Århusvej 508732 Hovedgård,gård,860.456,20-01-2016,Andet,3.911,6,Villa,220,1900,,Aktuel værdi
+Tornbjerg 928732 Hovedgård,gård,1.950.000,11-01-2016,Alm. Salg,8.441,5,Villa,231,1978,-11 %,Aktuel værdi
+"Gl Kattrupvej 24, 18732 Hovedgård",gård,525.000,08-01-2016,Alm. Salg,6.562,4,Lejlighed,80,1888,,Aktuel værdi
+N P Danmarksvej 718732 Hovedgård,gård,1.499.000,30-12-2015,Alm. Salg,13.879,4,Villa,108,2009,0 %,Aktuel værdi
+Bakkevej 68732 Hovedgård,gård,825.000,09-12-2015,Alm. Salg,8.168,3,Villa,101,1963,0 %,Aktuel værdi
+Tornbjerg 878732 Hovedgård,gård,1.150.000,04-12-2015,Fam. Salg,9.055,5,Villa,127,1974,-11 %,Aktuel værdi
+Østergade 158732 Hovedgård,gård,1.175.000,01-12-2015,Alm. Salg,15.064,5,Villa,78,1950,-2 %,Aktuel værdi
+Heilesenvænget 14A8732 Hovedgård,gård,1.370.000,26-11-2015,Fam. Salg,13.838,4,Villa,99,2001,,Aktuel værdi
+Hadrupvej 778732 Hovedgård,gård,575.000,25-11-2015,Alm. Salg,4.423,8,Villa,130,1900,-16 %,Aktuel værdi
+Lundgårdevej 138732 Hovedgård,gård,6.059.000,23-11-2015,Alm. Salg,38.106,5,Stuehus,159,1895,,
+Tornbjerg 428732 Hovedgård,gård,1.950.000,20-10-2015,Alm. Salg,12.037,4,Villa,162,1976,0 %,Aktuel værdi
+Vestergade 388732 Hovedgård,gård,760.000,20-09-2015,Alm. Salg,4.318,5,Villa,176,1914,-4 %,Aktuel værdi
+Tornbjerg 858732 Hovedgård,gård,1.640.000,16-09-2015,Alm. Salg,11.714,4,Villa,140,1976,-3 %,Aktuel værdi
+Vestergade 528732 Hovedgård,gård,1.475.000,15-09-2015,Alm. Salg,8.194,7,Villa,180,1900,-1 %,Aktuel værdi
+Grumstrupvej 13B8732 Hovedgård,gård,790.000,08-09-2015,Alm. Salg,7.745,4,Villa,102,1727,-12 %,Aktuel værdi
+Hadrupvej 748732 Hovedgård,gård,1.100.000,04-09-2015,Fam. Salg,6.214,4,Villa,177,1920,,Aktuel værdi
+Nørregade 38732 Hovedgård,gård,925.000,03-09-2015,Alm. Salg,8.409,4,Villa,110,1951,-3 %,Aktuel værdi
+Gl Kattrupvej 228732 Hovedgård,gård,3.835.000,25-08-2015,Alm. Salg,13.551,7,Villa,283,1900,-18 %,Aktuel værdi
+Elbækvej 58732 Hovedgård,gård,720.000,21-08-2015,Fam. Salg,6.101,5,Villa,118,1902,,Aktuel værdi
+Ørskovbæk Parken 158732 Hovedgård,gård,725.000,18-08-2015,Alm. Salg,4.190,6,Villa,173,2016,,Aktuel værdi
+Frydsvej 108732 Hovedgård,gård,945.000,17-08-2015,Alm. Salg,6.300,6,Villa,150,1927,-5 %,Aktuel værdi
+Grønnegade 28732 Hovedgård,gård,718.500,24-07-2015,Alm. Salg,4.726,7,Villa,152,1915,,Aktuel værdi
+Vestergade 408732 Hovedgård,gård,950.000,22-07-2015,Alm. Salg,7.251,4,Villa,131,1924,-5 %,Aktuel værdi
+Sogneskellet 398732 Hovedgård,gård,1.747.500,10-07-2015,Alm. Salg,14.809,3,Villa,118,1996,-3 %,Aktuel værdi
+N P Danmarksvej 1158732 Hovedgård,gård,2.700.000,10-07-2015,Alm. Salg,15.428,5,Villa,175,2012,-3 %,Aktuel værdi
+Ørskovbæk Parken 68732 Hovedgård,gård,595.000,07-07-2015,Alm. Salg,3.500,5,Villa,170,2016,,Aktuel værdi
+Gl Kattrupvej 488732 Hovedgård,gård,430.000,26-06-2015,Andet,3.093,5,Villa,139,1912,,Aktuel værdi
+Søndervænget 57A8732 Hovedgård,gård,650.000,17-06-2015,Alm. Salg,5.000,5,Villa,130,1974,-27 %,Aktuel værdi
+Katrinelundsvej 38732 Hovedgård,gård,485.000,17-06-2015,Alm. Salg,3.344,5,Villa,145,2016,-75 %,Aktuel værdi
+Sogneskellet 53A8732 Hovedgård,gård,945.000,15-06-2015,Alm. Salg,10.988,3,Rækkehus,86,1986,0 %,Aktuel værdi
+Vestergade 518732 Hovedgård,gård,2.000.000,11-06-2015,Alm. Salg,14.285,5,Villa,140,1920,,Aktuel værdi
+Lundgårdevej 188732 Hovedgård,gård,1.350.000,10-06-2015,Alm. Salg,11.440,4,Villa,118,1897,0 %,Aktuel værdi
+Stationsvej 28732 Hovedgård,gård,1.300.000,04-06-2015,Alm. Salg,6.467,9,Engroshandel,201,1900,,Aktuel værdi
+N P Danmarksvej 98732 Hovedgård,gård,2.700.000,02-06-2015,Alm. Salg,14.835,5,Villa,182,2007,-4 %,Aktuel værdi
+Katrinelundsvej 58732 Hovedgård,gård,2.338.000,29-05-2015,Alm. Salg,14.343,6,Villa,163,2008,-2 %,Aktuel værdi
+N P Danmarksvej 618732 Hovedgård,gård,1.670.000,29-05-2015,Alm. Salg,12.846,4,Villa,130,2009,-1 %,Aktuel værdi
+Heilesenvænget 16B8732 Hovedgård,gård,1.175.000,27-05-2015,Alm. Salg,15.666,2,Villa,75,2001,,Aktuel værdi
+Østergade 128732 Hovedgård,gård,750.000,16-04-2015,Alm. Salg,8.064,4,Rækkehus,93,1908,-6 %,Aktuel værdi
+Horsensvej 24A8732 Hovedgård,gård,835.000,15-04-2015,Alm. Salg,3.711,5,Villa,225,2016,,Aktuel værdi
+Møllevej 1A8732 Hovedgård,gård,1.800.000,30-03-2015,Alm. Salg,11.920,4,Villa,151,2008,,Aktuel værdi
+Nylandsvej 78732 Hovedgård,gård,953.238,30-03-2015,Alm. Salg,11.484,4,Villa,83,1963,,Aktuel værdi
+Tornbjerg 48732 Hovedgård,gård,749.265,27-03-2015,Alm. Salg,5.853,4,Villa,128,1976,-49 %,Aktuel værdi
+Fruenshave 48732 Hovedgård,gård,1.700.000,19-03-2015,Alm. Salg,8.673,7,Villa,196,1976,-3 %,Aktuel værdi
+Gl Tebstrupvej 98732 Hovedgård,gård,12.550.000,11-03-2015,Alm. Salg,48.269,10,Stuehus,260,1870,,
+Grumstrupvej 238732 Hovedgård,gård,720.000,11-03-2015,Alm. Salg,5.853,3,Villa,123,1892,-10 %,Aktuel værdi
+Søndervænget 58732 Hovedgård,gård,1.550.000,24-02-2015,Alm. Salg,15.500,4,Villa,100,1964,,Aktuel værdi
+Gl Kattrupvej 348732 Hovedgård,gård,675.000,19-02-2015,Alm. Salg,7.336,4,Villa,92,1968,-23 %,Aktuel værdi
+Troldkirkevej 78732 Hovedgård,gård,6.000.000,18-02-2015,Alm. Salg,16.304,10,Stuehus,368,1935,,
+Overbyvej 78732 Hovedgård,gård,7.264.500,17-02-2015,Fam. Salg,31.584,10,Stuehus,230,1896,,
+N P Danmarksvej 1458732 Hovedgård,gård,2.150.000,16-02-2015,Alm. Salg,15.034,4,Villa,143,2010,-2 %,Aktuel værdi
+Vestergade 488732 Hovedgård,gård,700.000,13-02-2015,Alm. Salg,6.796,3,Villa,103,1963,-17 %,Aktuel værdi
+Hovedgårdvej 28732 Hovedgård,gård,1.065.000,09-01-2015,Alm. Salg,10.240,3,Villa,104,1947,-7 %,Aktuel værdi
+Grumstrupvej 448732 Hovedgård,gård,737.500,29-12-2014,Andet,5.267,5,Villa,140,1987,,Aktuel værdi
+Elbjergvej 338732 Hovedgård,gård,448.357,23-12-2014,Fam. Salg,4.352,4,Villa,103,1900,,Aktuel værdi
+Søndervænget 578732 Hovedgård,gård,672.160,13-12-2014,Alm. Salg,5.794,5,Villa,116,1967,,Aktuel værdi
+Præstevænget 218732 Hovedgård,gård,1.950.000,10-12-2014,Alm. Salg,10.597,6,Villa,184,1976,-2 %,Aktuel værdi
+Kærsholmvej 2C8732 Hovedgård,gård,1.940.000,23-10-2014,Alm. Salg,12.516,5,Villa,155,2005,-3 %,Aktuel værdi
+Grumstrupvej 888732 Hovedgård,gård,685.000,21-10-2014,Alm. Salg,8.782,3,Villa,78,1949,-7 %,Aktuel værdi
+Vinthervej 78732 Hovedgård,gård,2.930.000,12-09-2014,Alm. Salg,17.440,4,Villa,168,2009,-2 %,Aktuel værdi
+N P Danmarksvej 658732 Hovedgård,gård,1.735.000,03-09-2014,Alm. Salg,13.346,3,Villa,130,2009,-3 %,Aktuel værdi
+Præstevænget 238732 Hovedgård,gård,641.371,28-08-2014,Alm. Salg,5.010,4,Villa,128,1976,,Aktuel værdi
+Snareskovvej 88732 Hovedgård,gård,695.000,28-08-2014,Alm. Salg,6.950,4,Stuehus,100,1939,,
+Gl Århusvej 578732 Hovedgård,gård,571.000,19-08-2014,Alm. Salg,5.653,4,Villa,101,1946,,Aktuel værdi
+Præstevænget 308732 Hovedgård,gård,880.000,04-08-2014,Alm. Salg,7.040,5,Villa,125,1966,-2 %,Aktuel værdi
+Tornbjerg 3A8732 Hovedgård,gård,1.500.000,15-07-2014,Alm. Salg,10.489,5,Villa,143,1990,-12 %,Aktuel værdi
+Vestergade 268732 Hovedgård,gård,730.000,17-06-2014,Alm. Salg,6.952,4,Villa,105,1908,-6 %,Aktuel værdi
+Søndervænget 758732 Hovedgård,gård,795.000,13-06-2014,Alm. Salg,7.361,4,Villa,108,1967,0 %,Aktuel værdi
+Gl Kattrupvej 298732 Hovedgård,gård,799.000,22-05-2014,Alm. Salg,5.918,4,Villa,135,1947,,Aktuel værdi
+N P Danmarksvej 458732 Hovedgård,gård,1.900.000,21-05-2014,Alm. Salg,13.286,5,Villa,143,2007,-5 %,Aktuel værdi
+Vinthervej 208732 Hovedgård,gård,2.200.000,14-05-2014,Alm. Salg,12.790,6,Villa,172,2008,,Aktuel værdi
+Elbækvej 98732 Hovedgård,gård,530.000,02-05-2014,Auktion,3.045,5,Villa,174,1926,,Aktuel værdi
+Søndervænget 468732 Hovedgård,gård,1.150.000,18-04-2014,Alm. Salg,9.913,5,Villa,116,1966,-4 %,Aktuel værdi
+Søndervænget 418732 Hovedgård,gård,1.095.000,09-04-2014,Alm. Salg,9.439,5,Villa,116,1966,0 %,Aktuel værdi
+Krøruplundvej 198732 Hovedgård,gård,495.000,03-04-2014,Alm. Salg,3.074,5,Villa,161,1900,0 %,Aktuel værdi
+Hadrupvej 668732 Hovedgård,gård,1.200.000,25-03-2014,Alm. Salg,7.692,8,Stuehus,156,1910,,
+Søndervænget 298732 Hovedgård,gård,995.000,01-03-2014,Alm. Salg,11.306,4,Villa,88,1965,0 %,Aktuel værdi
+Grumstrupvej 478732 Hovedgård,gård,640.000,09-02-2014,Alm. Salg,6.213,4,Villa,103,1877,-5 %,Aktuel værdi
+N P Danmarksvej 178732 Hovedgård,gård,2.415.000,22-01-2014,Alm. Salg,15.580,5,Villa,155,2007,-3 %,Aktuel værdi
+Krøruplundvej 88732 Hovedgård,gård,1.375.000,09-01-2014,Alm. Salg,6.840,7,Villa,201,1922,,Aktuel værdi
+N P Danmarksvej 238732 Hovedgård,gård,1.017.685,26-11-2013,Fam. Salg,5.986,5,Villa,170,2008,,Aktuel værdi
+Fruenshave 88732 Hovedgård,gård,1.395.000,21-11-2013,Alm. Salg,4.744,9,Villa,294,1972,0 %,Aktuel værdi
+Vestergade 198732 Hovedgård,gård,600.000,13-11-2013,Alm. Salg,4.347,5,Villa,138,1907,,Aktuel værdi
+Lundgårdevej 7B8732 Hovedgård,gård,750.000,12-11-2013,Fam. Salg,4.901,3,Villa,153,1988,,Aktuel værdi
+Hedemølle Kirkevej 18732 Hovedgård,gård,2.270.213,24-10-2013,Alm. Salg,15.134,4,Stuehus,150,1969,-13 %,
+Tornbjerg 798732 Hovedgård,gård,1.790.000,08-10-2013,Alm. Salg,8.950,5,Villa,200,1976,-6 %,Aktuel værdi
+Tornbjerg 838732 Hovedgård,gård,1.300.000,26-08-2013,Alm. Salg,7.142,6,Villa,182,1973,-5 %,Aktuel værdi
+Vestergade 308732 Hovedgård,gård,995.000,15-08-2013,Alm. Salg,7.056,5,Villa,141,1916,-9 %,Aktuel værdi
+Gl Kattrupvej 598732 Hovedgård,gård,1.225.000,04-08-2013,Alm. Salg,7.802,5,Villa,157,1900,0 %,Aktuel værdi
+Bakkevej 118732 Hovedgård,gård,1.912.000,13-07-2013,Alm. Salg,8.770,5,Villa,218,1960,-3 %,Aktuel værdi
+Engvangen 88732 Hovedgård,gård,1.395.000,27-06-2013,Alm. Salg,13.413,3,Villa,104,1984,0 %,Aktuel værdi
+Tornbjerg 308732 Hovedgård,gård,950.000,25-06-2013,Andet,5.135,7,Villa,185,1977,-52 %,Aktuel værdi
+Fruenshave 118732 Hovedgård,gård,950.000,25-06-2013,Alm. Salg,8.796,4,Villa,108,1973,-4 %,Aktuel værdi
+Espevej 118732 Hovedgård,gård,2.600.000,24-06-2013,Alm. Salg,11.353,8,Villa,229,1850,-4 %,Aktuel værdi
+Kattrupmade 78732 Hovedgård,gård,1.400.000,22-06-2013,Alm. Salg,7.035,9,Villa,199,1897,-6 %,Aktuel værdi
+Kærsholmvej 198732 Hovedgård,gård,875.000,22-06-2013,Alm. Salg,5.057,8,Villa,173,1970,-7 %,Aktuel værdi
+Oudrupgårdsvej 208732 Hovedgård,gård,775.000,17-06-2013,Alm. Salg,5.065,5,Villa,153,1909,-3 %,Aktuel værdi
+Fruenshave 68732 Hovedgård,gård,800.000,15-06-2013,Alm. Salg,5.882,4,Villa,136,1970,-20 %,Aktuel værdi
+Søndervænget 388732 Hovedgård,gård,1.275.000,17-05-2013,Alm. Salg,12.623,4,Villa,101,1965,-2 %,Aktuel værdi
+Præstevænget 38732 Hovedgård,gård,1.440.000,10-05-2013,Alm. Salg,12.307,4,Villa,117,1969,-4 %,Aktuel værdi
+Elbjergvej 53A8732 Hovedgård,gård,2.850.000,10-05-2013,Alm. Salg,11.974,5,Villa,238,2010,-5 %,Aktuel værdi
+Vestergade 13A8732 Hovedgård,gård,1.200.000,08-04-2013,Alm. Salg,10.810,2,Lejlighed,111,1920,,Aktuel værdi
+Katrinelundsvej 19A8732 Hovedgård,gård,1.650.000,05-04-2013,Andet,12.500,4,Rækkehus,132,2010,,Aktuel værdi
+Tornbjerg 528732 Hovedgård,gård,1.495.000,26-03-2013,Alm. Salg,8.591,7,Villa,174,1974,-5 %,Aktuel værdi
+Langdammen 68732 Hovedgård,gård,1.585.000,22-03-2013,Alm. Salg,9.378,5,Villa,169,2004,-1 %,Aktuel værdi
+Østergade 188732 Hovedgård,gård,639.000,14-03-2013,Alm. Salg,1.901,8,Villa,336,1920,,Aktuel værdi
+Tornbjerg 68732 Hovedgård,gård,1.230.000,28-02-2013,Alm. Salg,7.321,6,Villa,168,1978,-2 %,Aktuel værdi
+Gl Århusvej 568732 Hovedgård,gård,2.415.000,22-02-2013,Auktion,5.805,10,Stuehus,416,1918,,
+Katrinelundsvej 78732 Hovedgård,gård,412.500,27-12-2012,Alm. Salg,3.248,4,Villa,127,2013,-7 %,Aktuel værdi
+Katrinelundsvej 18732 Hovedgård,gård,387.500,31-10-2012,Alm. Salg,2.437,5,Villa,159,2014,,Aktuel værdi
+N P Danmarksvej 1378732 Hovedgård,gård,580.000,30-10-2012,Alm. Salg,2.543,7,Villa,228,2014,-14 %,Aktuel værdi
+Katrinelundsvej 178732 Hovedgård,gård,440.000,15-10-2012,Alm. Salg,2.913,5,Villa,151,2013,,Aktuel værdi
+Lundgårdevej 268732 Hovedgård,gård,3.000.000,10-10-2012,Alm. Salg,12.875,6,Villa,233,1967,-2 %,Aktuel værdi
+Gammeltoftevej 28732 Hovedgård,gård,1.650.000,10-09-2012,Alm. Salg,7.051,6,Stuehus,234,1870,,
+N P Danmarksvej 698732 Hovedgård,gård,1.850.000,10-09-2012,Alm. Salg,14.230,4,Villa,130,2009,,Aktuel værdi
+Fruenshave 388732 Hovedgård,gård,1.250.000,19-08-2012,Alm. Salg,8.992,4,Villa,139,1973,-10 %,Aktuel værdi
+Krøruplundvej 108732 Hovedgård,gård,2.900.000,31-07-2012,Alm. Salg,9.446,6,Villa,307,1997,,Aktuel værdi
+Assendrupvej 28732 Hovedgård,gård,1.800.000,10-07-2012,Alm. Salg,10.000,5,Villa,180,1914,-18 %,Aktuel værdi
+Sogneskellet 618732 Hovedgård,gård,1.915.000,21-06-2012,Alm. Salg,12.939,5,Villa,148,1998,-4 %,Aktuel værdi
+Søndervænget 59A8732 Hovedgård,gård,1.260.000,21-06-2012,Alm. Salg,11.150,4,Villa,113,1967,-10 %,Aktuel værdi
+Kærsholmvej 2A8732 Hovedgård,gård,1.220.000,23-05-2012,Alm. Salg,11.509,4,Villa,106,1976,-2 %,Aktuel værdi
+Bakkevej 168732 Hovedgård,gård,975.000,16-05-2012,Alm. Salg,6.132,6,Villa,159,1960,-11 %,Aktuel værdi
+Søndervænget 678732 Hovedgård,gård,1.500.000,25-04-2012,Alm. Salg,12.096,5,Villa,124,1966,-6 %,Aktuel værdi
+N P Danmarksvej 378732 Hovedgård,gård,535.000,25-04-2012,Alm. Salg,3.039,5,Villa,176,2014,-7 %,Aktuel værdi
+Assendrupvej 2A8732 Hovedgård,gård,1.700.000,24-04-2012,Alm. Salg,12.230,5,Villa,139,2009,0 %,Aktuel værdi
+Tornbjerg 408732 Hovedgård,gård,1.450.000,23-03-2012,Alm. Salg,8.238,6,Villa,176,1974,,Aktuel værdi
+Gl Kattrupvej 838732 Hovedgård,gård,2.200.000,21-03-2012,Alm. Salg,15.827,3,Villa,139,1907,-8 %,Aktuel værdi
+Elbækvej 7B8732 Hovedgård,gård,1.000.000,20-03-2012,Alm. Salg,10.000,4,Villa,100,1964,,Aktuel værdi
+N P Danmarksvej 418732 Hovedgård,gård,2.320.000,15-03-2012,Alm. Salg,15.570,5,Villa,149,2007,-1 %,Aktuel værdi
+Grumstrupvej 638732 Hovedgård,gård,345.000,02-03-2012,Fam. Salg,3.670,3,Villa,94,1926,,Aktuel værdi
+N P Danmarksvej 998732 Hovedgård,gård,650.000,09-01-2012,Alm. Salg,3.494,4,Villa,186,2012,-6 %,Aktuel værdi
+Krogstrupvej 1688732 Hovedgård,gård,1.400.000,05-01-2012,Fam. Salg,6.862,5,Villa,204,1952,,Aktuel værdi
+Søndervænget 78732 Hovedgård,gård,880.000,04-01-2012,Alm. Salg,7.787,4,Villa,113,1965,-12 %,Aktuel værdi
+N P Danmarksvej 1398732 Hovedgård,gård,590.000,26-11-2011,Alm. Salg,3.619,5,Villa,163,2012,,Aktuel værdi
+Brørupvej 768732 Hovedgård,gård,2.125.000,14-11-2011,Alm. Salg,15.625,7,Stuehus,136,1827,-49 %,
+Birkevænget 38732 Hovedgård,gård,430.000,01-11-2011,Alm. Salg,2.654,5,Villa,162,2012,,Aktuel værdi
+Birkevænget 108732 Hovedgård,gård,4.250.000,25-10-2011,Alm. Salg,16.798,6,Villa,253,2008,-8 %,Aktuel værdi
+Katrinelundsvej 158732 Hovedgård,gård,452.000,23-09-2011,Alm. Salg,2.973,4,Villa,152,2012,,Aktuel værdi
+Grumstrupvej 588732 Hovedgård,gård,1.175.000,20-09-2011,Alm. Salg,10.879,4,Villa,108,1938,-9 %,Aktuel værdi
+Horsensvej 208732 Hovedgård,gård,893.376,15-09-2011,Fam. Salg,7.836,4,Villa,114,1937,-55 %,Aktuel værdi
+Gl Kattrupvej 328732 Hovedgård,gård,775.000,15-09-2011,Alm. Salg,-,4,Villa,137,1971,-3 %,Aktuel værdi
+Søndervænget 158732 Hovedgård,gård,800.000,22-08-2011,Alm. Salg,8.333,4,Villa,96,1963,,Aktuel værdi
+Birkevænget 18732 Hovedgård,gård,500.000,22-08-2011,Alm. Salg,3.289,4,Villa,152,2012,-5 %,Aktuel værdi
+Vinthervej 148732 Hovedgård,gård,2.325.000,05-08-2011,Alm. Salg,16.034,5,Villa,145,2007,-5 %,Aktuel værdi
+Birkevænget 28732 Hovedgård,gård,500.000,02-07-2011,Alm. Salg,3.289,4,Villa,152,2012,-22 %,Aktuel værdi
+Tornbjerg 628732 Hovedgård,gård,639.000,01-07-2011,Alm. Salg,4.698,4,Villa,136,1977,,Aktuel værdi
+P C Jensensvej 48732 Hovedgård,gård,575.000,27-06-2011,Alm. Salg,6.250,5,Villa,92,1960,-28 %,Aktuel værdi
+Horsensvej 178732 Hovedgård,gård,1.780.000,16-06-2011,Alm. Salg,9.417,9,Villa,189,1922,-15 %,Aktuel værdi
+Vestergade 478732 Hovedgård,gård,1.500.000,31-05-2011,Alm. Salg,13.274,3,Villa,113,1934,-5 %,Aktuel værdi
+Krøruplundvej 68732 Hovedgård,gård,770.000,12-05-2011,Alm. Salg,9.277,3,Villa,83,1967,-14 %,Aktuel værdi
+Katrinelundsvej 308732 Hovedgård,gård,566.500,04-05-2011,Alm. Salg,3.412,6,Villa,166,2000,,Aktuel værdi
+Vinthervej 228732 Hovedgård,gård,2.500.000,21-04-2011,Alm. Salg,14.880,5,Villa,168,2006,-11 %,Aktuel værdi
+Horsensvej 168732 Hovedgård,gård,1.000.000,01-04-2011,Alm. Salg,7.692,4,Rækkehus,130,1940,,Aktuel værdi
+Grumstrupvej 228732 Hovedgård,gård,2.500.000,09-03-2011,Alm. Salg,13.888,5,Villa,180,2006,-4 %,Aktuel værdi
+Elbjergvej 358732 Hovedgård,gård,700.000,07-03-2011,Alm. Salg,5.147,4,Villa,136,1775,-20 %,Aktuel værdi
+Vestergade 508732 Hovedgård,gård,2.600.000,25-02-2011,Alm. Salg,8.873,12,Villa,293,1908,-4 %,Aktuel værdi
+N P Danmarksvej 1338732 Hovedgård,gård,2.220.000,14-02-2011,Alm. Salg,15.971,4,Villa,139,2008,-3 %,Aktuel værdi
+Sogneskellet 518732 Hovedgård,gård,2.050.000,02-02-2011,Alm. Salg,14.137,5,Villa,145,1996,-2 %,Aktuel værdi
+Elbjergvej 298732 Hovedgård,gård,1.110.000,24-01-2011,Alm. Salg,8.809,4,Villa,126,1934,-5 %,Aktuel værdi
+Sogneskellet 88732 Hovedgård,gård,873.075,27-12-2010,Fam. Salg,5.422,5,Villa,161,1997,,Aktuel værdi
+N P Danmarksvej 1358732 Hovedgård,gård,600.000,21-12-2010,Alm. Salg,3.550,4,Villa,169,2012,-11 %,Aktuel værdi
+Vestergade 598732 Hovedgård,gård,970.000,18-12-2010,Alm. Salg,7.950,4,Villa,122,1949,-3 %,Aktuel værdi
+N P Danmarksvej 18732 Hovedgård,gård,400.000,15-12-2010,Alm. Salg,1.970,5,Villa,203,2011,-30 %,Aktuel værdi
+Vestergade 288732 Hovedgård,gård,1.150.000,03-12-2010,Alm. Salg,10.952,4,Villa,105,1908,-4 %,Aktuel værdi
+Tornbjerg 88732 Hovedgård,gård,860.500,02-12-2010,Alm. Salg,5.516,5,Villa,156,1974,,Aktuel værdi
+N P Danmarksvej 1118732 Hovedgård,gård,690.000,15-11-2010,Alm. Salg,3.650,6,Villa,189,2011,,Aktuel værdi
+Gl Kattrupvej 258732 Hovedgård,gård,1.600.000,06-11-2010,Alm. Salg,9.815,4,Villa,163,1946,-4 %,Aktuel værdi
+N P Danmarksvej 228732 Hovedgård,gård,515.000,24-10-2010,Alm. Salg,3.410,5,Villa,151,2011,-6 %,Aktuel værdi
+Hadrupvej 868732 Hovedgård,gård,1.295.000,20-10-2010,Alm. Salg,13.350,4,Villa,97,1969,0 %,Aktuel værdi
+N P Danmarksvej 198732 Hovedgård,gård,603.300,14-10-2010,Alm. Salg,3.142,5,Villa,192,2011,,Aktuel værdi
+Kirkevej 468732 Hovedgård,gård,17.954.000,11-10-2010,Alm. Salg,28.772,12,Stuehus,624,2010,,
+Gl Århusvej 488732 Hovedgård,gård,1.700.000,10-10-2010,Alm. Salg,12.592,6,Stuehus,135,1877,-19 %,
+N P Danmarksvej 778732 Hovedgård,gård,1.769.000,06-10-2010,Alm. Salg,13.607,4,Rækkehus,130,2009,0 %,Aktuel værdi
+N P Danmarksvej 1018732 Hovedgård,gård,2.350.000,05-10-2010,Alm. Salg,13.276,6,Villa,177,2008,-6 %,Aktuel værdi
+Gl Kattrupvej 338732 Hovedgård,gård,1.050.000,23-09-2010,Alm. Salg,9.813,4,Villa,107,1954,-12 %,Aktuel værdi
+Horsensvej 20A8732 Hovedgård,gård,1.425.000,22-09-2010,Alm. Salg,11.491,4,Villa,124,1986,-8 %,Aktuel værdi
+Krogstrupvej 1698732 Hovedgård,gård,822.381,08-09-2010,Alm. Salg,7.614,6,Villa,108,1931,-55 %,Aktuel værdi
+Kirkevej 458732 Hovedgård,gård,10.125.000,03-09-2010,Alm. Salg,38.352,9,Stuehus,264,1910,,
+Gl Kattrupvej 208732 Hovedgård,gård,1.113.491,02-09-2010,Alm. Salg,6.627,5,Stuehus,168,1862,,
+Vestergade 298732 Hovedgård,gård,1.140.000,02-09-2010,Alm. Salg,10.555,4,Rækkehus,108,1931,-3 %,Aktuel værdi
+Gl Kattrupvej 508732 Hovedgård,gård,2.250.000,01-09-2010,Alm. Salg,13.803,6,Villa,163,1908,-2 %,Aktuel værdi
+Søndervænget 898732 Hovedgård,gård,1.650.000,19-08-2010,Alm. Salg,11.000,4,Villa,150,1965,-6 %,Aktuel værdi
+N P Danmarksvej 578732 Hovedgård,gård,550.000,15-08-2010,Alm. Salg,3.666,5,Villa,150,2011,-4 %,Aktuel værdi
+Frydsvej 58732 Hovedgård,gård,803.496,13-08-2010,Auktion,7.580,4,Villa,106,1964,,Aktuel værdi
+N P Danmarksvej 1258732 Hovedgård,gård,525.000,08-08-2010,Alm. Salg,3.125,6,Villa,168,2011,-38 %,Aktuel værdi
+Kirkedalsvej 158732 Hovedgård,gård,2.450.000,05-08-2010,Alm. Salg,10.606,7,Villa,231,1877,-2 %,Aktuel værdi
+Lundgårdevej 208732 Hovedgård,gård,1.750.000,30-07-2010,Alm. Salg,19.444,3,Stuehus,90,1880,,
+Søndervænget 118732 Hovedgård,gård,980.000,05-07-2010,Alm. Salg,10.208,4,Villa,96,1964,-7 %,Aktuel værdi
+Fruenshave 258732 Hovedgård,gård,1.380.000,05-07-2010,Alm. Salg,9.857,3,Villa,140,1974,-11 %,Aktuel værdi
+Grumstrupvej 218732 Hovedgård,gård,1.600.000,01-07-2010,Fam. Salg,11.678,3,Villa,137,1900,,Aktuel værdi
+Fruenshave 268732 Hovedgård,gård,1.750.000,01-07-2010,Alm. Salg,9.020,6,Villa,194,1972,-12 %,Aktuel værdi
+N P Danmarksvej 938732 Hovedgård,gård,575.000,24-06-2010,Alm. Salg,2.426,10,Villa,237,2011,-3 %,Aktuel værdi
+Troldkirkevej 68732 Hovedgård,gård,2.650.000,21-06-2010,Alm. Salg,14.247,5,Villa,186,1900,,Aktuel værdi
+Sogneskellet 278732 Hovedgård,gård,1.850.000,17-06-2010,Alm. Salg,12.251,6,Villa,151,1986,-7 %,Aktuel værdi
+Tornbjerg 1068732 Hovedgård,gård,1.650.000,15-06-2010,Fam. Salg,8.730,7,Villa,189,1978,,Aktuel værdi
+Vinthervej 368732 Hovedgård,gård,3.250.000,21-05-2010,Alm. Salg,17.379,5,Villa,187,2009,-4 %,Aktuel værdi
+N P Danmarksvej 818732 Hovedgård,gård,1.900.000,18-05-2010,Alm. Salg,14.615,4,Rækkehus,130,2011,0 %,Aktuel værdi
+N P Danmarksvej 958732 Hovedgård,gård,575.000,17-05-2010,Alm. Salg,2.875,6,Villa,200,2011,0 %,Aktuel værdi
+Ørridslevvej 1A8732 Hovedgård,gård,2.250.000,06-05-2010,Alm. Salg,12.640,5,Villa,178,1975,-2 %,Aktuel værdi
+Gl Tebstrupvej 18732 Hovedgård,gård,2.330.000,03-05-2010,Alm. Salg,16.293,6,Villa,143,1924,-3 %,Aktuel værdi
+Søndervænget 608732 Hovedgård,gård,985.000,23-04-2010,Alm. Salg,9.752,3,Villa,101,1968,-10 %,Aktuel værdi
+Tornbjerg 418732 Hovedgård,gård,1.825.000,18-04-2010,Alm. Salg,11.850,7,Villa,154,1988,-9 %,Aktuel værdi
+N P Danmarksvej 91A8732 Hovedgård,gård,1.519.773,12-04-2010,Alm. Salg,14.071,3,Rækkehus,108,2010,,Aktuel værdi
+N P Danmarksvej 1438732 Hovedgård,gård,575.000,30-03-2010,Alm. Salg,4.049,5,Villa,142,2011,0 %,Aktuel værdi
+Gl Århusvej 428732 Hovedgård,gård,2.000.000,24-03-2010,Alm. Salg,10.000,9,Stuehus,200,1920,,
+N P Danmarksvej 91B8732 Hovedgård,gård,1.498.000,28-02-2010,Alm. Salg,12.588,4,Rækkehus,119,2010,,Aktuel værdi
+Elbjergvej 43A8732 Hovedgård,gård,160.000,24-02-2010,Alm. Salg,958,5,Villa,167,2011,,Aktuel værdi
+Nylandsvej 118732 Hovedgård,gård,275.000,23-02-2010,Alm. Salg,4.583,2,Villa,60,1940,-54 %,Aktuel værdi
+Vestergade 578732 Hovedgård,gård,1.325.000,05-02-2010,Alm. Salg,10.772,5,Villa,123,1949,-7 %,Aktuel værdi
+N P Danmarksvej 978732 Hovedgård,gård,415.000,21-01-2010,Alm. Salg,2.804,5,Villa,148,2011,-41 %,Aktuel værdi
+N P Danmarksvej 348732 Hovedgård,gård,515.000,19-01-2010,Alm. Salg,2.994,7,Villa,172,2011,-21 %,Aktuel værdi
+Gl Kattrupvej 268732 Hovedgård,gård,370.000,14-01-2010,Fam. Salg,3.057,4,Villa,121,1934,,Aktuel værdi
+Kattrupmade 38732 Hovedgård,gård,525.000,14-12-2009,Alm. Salg,7.835,2,Villa,67,1960,-25 %,Aktuel værdi
+N P Danmarksvej 1278732 Hovedgård,gård,575.000,21-11-2009,Alm. Salg,3.343,4,Villa,172,2011,-4 %,Aktuel værdi
+Krøruplundvej 138732 Hovedgård,gård,1.450.000,16-11-2009,Alm. Salg,5.555,11,Stuehus,261,1932,,
+Katrinelundsvej 98732 Hovedgård,gård,2.150.000,10-11-2009,Alm. Salg,16.538,6,Villa,130,2007,-2 %,Aktuel værdi
+N P Danmarksvej 108732 Hovedgård,gård,450.000,28-10-2009,Alm. Salg,2.694,5,Villa,167,2010,-9 %,Aktuel værdi
+N P Danmarksvej 918732 Hovedgård,gård,1.720.000,23-10-2009,Alm. Salg,14.453,4,Rækkehus,119,2010,,Aktuel værdi
+Vestergade 278732 Hovedgård,gård,880.000,18-09-2009,Auktion,4.378,7,Villa,201,1910,,Aktuel værdi
+Gl Tebstrupvej 78732 Hovedgård,gård,1.500.000,17-09-2009,Alm. Salg,7.853,4,Villa,191,1870,-6 %,Aktuel værdi
+Espevej 68732 Hovedgård,gård,1.400.000,11-09-2009,Alm. Salg,7.179,8,Stuehus,195,1877,,
+Snareskovvej 48732 Hovedgård,gård,1.915.000,09-09-2009,Alm. Salg,13.776,6,Villa,139,1940,-3 %,Aktuel værdi
+Vinthervej 348732 Hovedgård,gård,2.350.000,31-08-2009,Alm. Salg,10.129,7,Villa,232,2009,-11 %,Aktuel værdi
+Sogneskellet 268732 Hovedgård,gård,1.525.000,12-08-2009,Alm. Salg,12.200,4,Villa,125,1978,-10 %,Aktuel værdi
+Hadrupvej 788732 Hovedgård,gård,1.200.000,29-07-2009,Alm. Salg,6.629,7,Stuehus,181,1850,-20 %,
+Søndervænget 358732 Hovedgård,gård,970.000,16-07-2009,Alm. Salg,11.022,4,Villa,88,1965,-3 %,Aktuel værdi
+Grumstrupvej 438732 Hovedgård,gård,590.000,10-07-2009,Auktion,3.782,5,Villa,156,1875,,Aktuel værdi
+Tornbjerg 728732 Hovedgård,gård,1.100.000,29-06-2009,Alm. Salg,9.401,4,Rækkehus,117,1974,-15 %,Aktuel værdi
+Gl Kattrupvej 618732 Hovedgård,gård,985.000,10-06-2009,Alm. Salg,11.726,3,Villa,84,1900,,Aktuel værdi
+Tornbjerg 788732 Hovedgård,gård,1.070.000,29-05-2009,Alm. Salg,7.588,6,Rækkehus,141,1974,-10 %,Aktuel værdi
+Søndervænget 878732 Hovedgård,gård,1.370.000,21-05-2009,Alm. Salg,10.148,5,Villa,135,1967,-2 %,Aktuel værdi
+Gl Kattrupvej 218732 Hovedgård,gård,3.300.000,14-05-2009,Alm. Salg,11.111,10,Stuehus,297,1927,3 %,
+N P Danmarksvej 168732 Hovedgård,gård,575.000,03-05-2009,Alm. Salg,3.616,5,Villa,159,2010,-12 %,Aktuel værdi
+N P Danmarksvej 1198732 Hovedgård,gård,610.000,24-04-2009,Alm. Salg,3.388,4,Villa,180,2010,,Aktuel værdi
+Vinthervej 268732 Hovedgård,gård,2.600.000,30-03-2009,Alm. Salg,11.206,7,Villa,232,2009,-9 %,Aktuel værdi
+Fruenshave 228732 Hovedgård,gård,1.450.000,21-03-2009,Alm. Salg,10.661,5,Villa,136,1971,-3 %,Aktuel værdi
+N P Danmarksvej 598732 Hovedgård,gård,515.000,12-03-2009,Alm. Salg,3.322,5,Villa,155,2011,,Aktuel værdi
+Kirkedalsvej 48732 Hovedgård,gård,1.470.000,23-02-2009,Fam. Salg,6.099,5,Villa,241,1856,-53 %,Aktuel værdi
+Tvilhøj 308732 Hovedgård,gård,1.998.000,19-02-2009,Alm. Salg,13.231,5,Villa,151,2008,0 %,Aktuel værdi
+Sogneskellet 498732 Hovedgård,gård,875.000,16-02-2009,Andet,6.835,4,Villa,128,1997,,Aktuel værdi
+Tornbjerg 518732 Hovedgård,gård,1.220.000,03-02-2009,Alm. Salg,8.840,4,Villa,138,1973,-6 %,Aktuel værdi
+Østergade 148732 Hovedgård,gård,1.200.000,29-01-2009,Alm. Salg,13.043,3,Rækkehus,92,1900,-4 %,Aktuel værdi
+N P Danmarksvej 1318732 Hovedgård,gård,625.000,10-01-2009,Alm. Salg,2.840,5,Villa,220,2009,,Aktuel værdi
+Søndervænget 168732 Hovedgård,gård,1.000.000,21-12-2008,Alm. Salg,12.500,3,Villa,80,1965,-9 %,Aktuel værdi
+Vinthervej 58732 Hovedgård,gård,850.000,07-12-2008,Fam. Salg,5.592,5,Villa,152,2006,,Aktuel værdi
+Elbjergvej 308732 Hovedgård,gård,300.000,28-11-2008,Auktion,3.750,5,Rækkehus,80,1777,-39 %,Aktuel værdi
+Katrinelundsvej 138732 Hovedgård,gård,575.000,24-11-2008,Alm. Salg,4.166,5,Villa,138,2009,-73 %,Aktuel værdi
+Møllevej 1B8732 Hovedgård,gård,2.800.000,11-11-2008,Alm. Salg,18.543,4,Villa,151,2008,,Aktuel værdi
+Industriområdet 28732 Hovedgård,gård,2.800.000,08-10-2008,Alm. Salg,12.785,6,Villa,219,1972,-14 %,Aktuel værdi
+Overbyvej 58732 Hovedgård,gård,900.000,06-10-2008,Alm. Salg,4.972,7,Villa,181,1725,,Aktuel værdi
+Ørridslevvej 19A8732 Hovedgård,gård,6.691.300,24-09-2008,Andet,57.190,2,Dobbelthus,117,2000,,Aktuel værdi
+N P Danmarksvej 288732 Hovedgård,gård,600.000,09-09-2008,Alm. Salg,4.000,5,Villa,150,2009,,Aktuel værdi
+Fruenshave 368732 Hovedgård,gård,1.575.000,03-09-2008,Alm. Salg,11.013,4,Villa,143,1971,-4 %,Aktuel værdi
+N P Danmarksvej 1298732 Hovedgård,gård,2.500.000,29-08-2008,Alm. Salg,15.060,4,Villa,166,2008,,Aktuel værdi
+N P Danmarksvej 1218732 Hovedgård,gård,700.000,17-08-2008,Alm. Salg,3.381,5,Villa,207,2009,,Aktuel værdi
+Overby Skovvej 38732 Hovedgård,gård,1.956.500,14-07-2008,Alm. Salg,13.400,7,Stuehus,146,1931,,
+Sogneskellet 348732 Hovedgård,gård,2.075.000,11-07-2008,Alm. Salg,15.961,5,Villa,130,1997,-6 %,Aktuel værdi
+N P Danmarksvej 1178732 Hovedgård,gård,2.707.321,03-07-2008,Alm. Salg,15.559,5,Villa,174,2008,,Aktuel værdi
+Elbjergvej 288732 Hovedgård,gård,1.550.000,26-06-2008,Alm. Salg,10.839,5,Villa,143,1972,-3 %,Aktuel værdi
+Fruenshave 668732 Hovedgård,gård,1.540.000,20-06-2008,Alm. Salg,12.941,5,Villa,119,1973,,Aktuel værdi
+Tvilhøj 208732 Hovedgård,gård,732.000,19-06-2008,Alm. Salg,3.660,4,Villa,200,2011,5 %,Aktuel værdi
+Elbjergvej 398732 Hovedgård,gård,950.000,16-06-2008,Alm. Salg,8.636,5,Villa,110,1880,-5 %,Aktuel værdi
+N P Danmarksvej 1138732 Hovedgård,gård,650.000,05-06-2008,Alm. Salg,3.571,5,Villa,182,2009,,Aktuel værdi
+N P Danmarksvej 798732 Hovedgård,gård,1.602.608,03-06-2008,Alm. Salg,14.838,3,Rækkehus,108,2009,3 %,Aktuel værdi
+N P Danmarksvej 1058732 Hovedgård,gård,600.000,29-05-2008,Alm. Salg,4.166,5,Villa,144,2009,,Aktuel værdi
+Engmarksvej 468732 Hovedgård,gård,7.200.000,24-05-2008,Alm. Salg,53.731,5,Stuehus,134,1930,,
+Horsensvej 248732 Hovedgård,gård,2.800.000,20-05-2008,Alm. Salg,9.722,11,Villa,288,1881,-2 %,Aktuel værdi
+Grumstrupvej 198732 Hovedgård,gård,1.450.000,18-05-2008,Alm. Salg,11.885,4,Villa,122,1937,-3 %,Aktuel værdi
+Lundgårdevej 18732 Hovedgård,gård,1.920.000,28-04-2008,Alm. Salg,7.804,7,Villa,246,1886,-4 %,Aktuel værdi
+Elbjergvej 458732 Hovedgård,gård,1.745.000,26-04-2008,Alm. Salg,14.914,4,Villa,117,1968,-2 %,Aktuel værdi
+Østergade 6A8732 Hovedgård,gård,725.000,14-04-2008,Alm. Salg,3.356,8,Villa,216,1897,,Aktuel værdi
+Bakkevej 108732 Hovedgård,gård,558.000,03-04-2008,Alm. Salg,7.750,2,Villa,72,1961,,Aktuel værdi
+Søndervænget 658732 Hovedgård,gård,1.450.000,31-03-2008,Alm. Salg,-,7,Villa,164,1965,-3 %,Aktuel værdi
+Langdammen 18732 Hovedgård,gård,1.774.000,19-03-2008,Alm. Salg,10.435,7,Villa,170,1784,-16 %,Aktuel værdi
+N P Danmarksvej 1038732 Hovedgård,gård,550.000,09-03-2008,Alm. Salg,3.125,5,Villa,176,2008,,Aktuel værdi
+Søkærvej 128732 Hovedgård,gård,127.310,25-02-2008,Alm. Salg,603,10,Stuehus,211,1933,,
+Grumstrupvej 598732 Hovedgård,gård,1.300.000,25-02-2008,Alm. Salg,5.349,6,Villa,243,1952,-7 %,Aktuel værdi
+Tornbjerg 698732 Hovedgård,gård,2.200.000,09-02-2008,Alm. Salg,9.777,8,Villa,225,1975,-6 %,Aktuel værdi
+N P Danmarksvej 268732 Hovedgård,gård,550.000,05-02-2008,Alm. Salg,4.044,4,Villa,136,2008,,Aktuel værdi
+Katrinelundsvej 248732 Hovedgård,gård,1.960.000,21-01-2008,Alm. Salg,14.000,5,Villa,140,2001,-4 %,Aktuel værdi
+Grumstrupvej 108732 Hovedgård,gård,1.450.000,05-01-2008,Alm. Salg,9.477,6,Villa,153,2010,,Aktuel værdi
+Vinthervej 48732 Hovedgård,gård,590.000,02-01-2008,Alm. Salg,3.881,5,Villa,152,2008,-2 %,Aktuel værdi
+Tornbjerg 938732 Hovedgård,gård,1.948.000,30-12-2007,Alm. Salg,14.218,5,Villa,137,1974,0 %,Aktuel værdi
+Oudrupgårdsvej 238732 Hovedgård,gård,1.595.000,21-12-2007,Alm. Salg,7.595,8,Villa,210,1877,,Aktuel værdi
+Engvangen 38732 Hovedgård,gård,850.000,17-12-2007,Andet,6.250,6,Villa,136,1967,,Aktuel værdi
+Møllevej 1C8732 Hovedgård,gård,2.180.000,05-12-2007,Alm. Salg,20.961,3,Villa,104,2008,,Aktuel værdi
+N P Danmarksvej 248732 Hovedgård,gård,475.000,21-11-2007,Alm. Salg,2.950,5,Villa,161,2009,,Aktuel værdi
+Fruenshave 508732 Hovedgård,gård,1.750.000,19-11-2007,Alm. Salg,12.681,5,Villa,138,1972,-3 %,Aktuel værdi
+Nørregade 48732 Hovedgård,gård,1.295.000,01-11-2007,Alm. Salg,11.359,4,Villa,114,1909,0 %,Aktuel værdi
+N P Danmarksvej 1078732 Hovedgård,gård,600.000,28-10-2007,Alm. Salg,3.508,6,Villa,171,2008,,Aktuel værdi
+N P Danmarksvej 898732 Hovedgård,gård,2.665.000,24-10-2007,Alm. Salg,24.675,3,Rækkehus,108,2012,,Aktuel værdi
+N P Danmarksvej 838732 Hovedgård,gård,2.665.000,24-10-2007,Alm. Salg,24.675,3,Rækkehus,108,2011,,Aktuel værdi
+Tornbjerg 3B8732 Hovedgård,gård,1.970.000,19-10-2007,Alm. Salg,13.873,5,Villa,142,1990,,Aktuel værdi
+Vestergade 558732 Hovedgård,gård,1.850.000,12-10-2007,Alm. Salg,7.974,6,Villa,232,1979,,Aktuel værdi
+Stationsvej 88732 Hovedgård,gård,1.100.000,06-10-2007,Alm. Salg,10.377,4,Rækkehus,106,1908,-2 %,Aktuel værdi
+Oudrupgårdsvej 168732 Hovedgård,gård,1.350.000,05-10-2007,Alm. Salg,9.060,5,Villa,149,1935,-2 %,Aktuel værdi
+Søndervænget 918732 Hovedgård,gård,1.699.000,03-10-2007,Alm. Salg,12.585,6,Villa,135,1967,,Aktuel værdi
+Skråvej 18732 Hovedgård,gård,920.000,26-09-2007,Alm. Salg,10.823,2,Villa,85,1827,-2 %,Aktuel værdi
+Kirkevej 528732 Hovedgård,gård,575.867,25-09-2007,Andet,4.297,4,Villa,134,1907,,Aktuel værdi
+Søndervænget 508732 Hovedgård,gård,1.026.000,21-09-2007,Alm. Salg,9.679,4,Villa,106,1966,3 %,Aktuel værdi
+Fruenshave 208732 Hovedgård,gård,1.865.000,16-09-2007,Alm. Salg,13.917,4,Villa,134,1971,-2 %,Aktuel værdi
+Elbjergvej 348732 Hovedgård,gård,347.963,15-09-2007,Alm. Salg,4.970,2,Rækkehus,70,1887,,Aktuel værdi
+Birkevænget 58732 Hovedgård,gård,575.000,11-09-2007,Alm. Salg,4.078,5,Villa,141,2009,,Aktuel værdi
+Kirkevej 538732 Hovedgård,gård,744.475,29-08-2007,Fam. Salg,4.303,6,Villa,173,1900,,Aktuel værdi
+Fruenshave 398732 Hovedgård,gård,2.299.000,20-08-2007,Alm. Salg,12.164,6,Villa,189,1974,,Aktuel værdi
+Fruenshave 18A8732 Hovedgård,gård,3.125.000,15-08-2007,Alm. Salg,12.254,8,Villa,255,1924,,Aktuel værdi
+Søndervænget 778732 Hovedgård,gård,1.600.000,02-08-2007,Alm. Salg,15.094,4,Villa,106,1967,-4 %,Aktuel værdi
+Grumstrupvej 678732 Hovedgård,gård,1.695.000,01-08-2007,Alm. Salg,11.078,4,Villa,153,1966,0 %,Aktuel værdi
+N P Danmarksvej 308732 Hovedgård,gård,625.000,28-07-2007,Alm. Salg,3.551,6,Villa,176,2008,,Aktuel værdi
+N P Danmarksvej 1098732 Hovedgård,gård,700.000,13-07-2007,Alm. Salg,4.216,5,Villa,166,2008,,Aktuel værdi
+Fruenshave 608732 Hovedgård,gård,1.700.000,10-07-2007,Alm. Salg,10.559,7,Villa,161,1973,,Aktuel værdi
+Sogneskellet 298732 Hovedgård,gård,2.475.000,27-06-2007,Alm. Salg,17.187,5,Villa,144,1997,,Aktuel værdi
+Krøruplundvej 128732 Hovedgård,gård,1.975.000,27-06-2007,Alm. Salg,14.007,4,Villa,141,1975,0 %,Aktuel værdi
+Søndervænget 858732 Hovedgård,gård,1.202.000,26-06-2007,Alm. Salg,11.027,4,Villa,109,1967,10 %,Aktuel værdi
+N P Danmarksvej 88732 Hovedgård,gård,550.000,25-06-2007,Alm. Salg,4.330,5,Villa,127,2008,,Aktuel værdi
+Tornbjerg 648732 Hovedgård,gård,1.240.000,01-06-2007,Alm. Salg,-,7,Villa,188,1975,,Aktuel værdi
+Tornbjerg 1A8732 Hovedgård,gård,1.275.000,31-05-2007,Alm. Salg,14.166,4,Rækkehus,90,1981,,Aktuel værdi
+Gl Kattrupvej 428732 Hovedgård,gård,1.540.000,24-05-2007,Alm. Salg,9.746,5,Villa,158,1927,,Aktuel værdi
+Kærsholmvej 78732 Hovedgård,gård,1.275.000,21-05-2007,Alm. Salg,10.991,4,Villa,116,1974,,Aktuel værdi
+Tornbjerg 808732 Hovedgård,gård,1.295.000,09-05-2007,Alm. Salg,9.316,6,Rækkehus,139,1974,,Aktuel værdi
+N P Danmarksvej 208732 Hovedgård,gård,540.000,07-05-2007,Alm. Salg,3.176,6,Villa,170,2008,,Aktuel værdi
+N P Danmarksvej 538732 Hovedgård,gård,600.000,30-04-2007,Alm. Salg,3.750,5,Villa,160,2008,,Aktuel værdi
+Horsensvej 348732 Hovedgård,gård,75.000,20-04-2007,Andet,394,4,Villa,190,1919,,Aktuel værdi
+Tvilhøj 168732 Hovedgård,gård,425.000,10-04-2007,Alm. Salg,1.831,5,Villa,232,2008,,Aktuel værdi
+N P Danmarksvej 158732 Hovedgård,gård,550.000,03-04-2007,Alm. Salg,3.767,5,Villa,146,2008,,Aktuel værdi
+Ballebovej 38732 Hovedgård,gård,1.737.500,24-03-2007,Andet,9.652,7,Villa,180,1972,,Aktuel værdi
+Tornbjerg 828732 Hovedgård,gård,1.350.000,02-03-2007,Alm. Salg,11.538,5,Rækkehus,117,1974,-7 %,Aktuel værdi
+N P Danmarksvej 1418732 Hovedgård,gård,650.000,21-02-2007,Alm. Salg,3.457,7,Villa,188,2008,,Aktuel værdi
+Fruenshave 328732 Hovedgård,gård,1.745.000,09-02-2007,Fam. Salg,15.173,4,Villa,115,1972,,Aktuel værdi
+N P Danmarksvej 558732 Hovedgård,gård,600.000,02-02-2007,Alm. Salg,3.750,5,Villa,160,2008,,Aktuel værdi
+N P Danmarksvej 1518732 Hovedgård,gård,600.000,02-02-2007,Alm. Salg,4.195,5,Villa,143,2007,,Aktuel værdi
+N P Danmarksvej 1498732 Hovedgård,gård,600.000,02-02-2007,Alm. Salg,4.444,4,Villa,135,2008,,Aktuel værdi
+N P Danmarksvej 128732 Hovedgård,gård,550.000,02-02-2007,Alm. Salg,3.548,5,Villa,155,2008,,Aktuel værdi
+N P Danmarksvej 118732 Hovedgård,gård,575.000,02-02-2007,Alm. Salg,3.108,5,Villa,185,2008,,Aktuel værdi
+N P Danmarksvej 518732 Hovedgård,gård,600.000,10-01-2007,Alm. Salg,3.846,5,Villa,156,2008,,Aktuel værdi
+Birkevænget 68732 Hovedgård,gård,450.000,10-01-2007,Alm. Salg,2.238,11,Villa,201,2008,,Aktuel værdi
+Tornbjerg 818732 Hovedgård,gård,3.150.000,04-01-2007,Alm. Salg,18.750,5,Villa,168,1997,-2 %,Aktuel værdi
+Kirkevej 608732 Hovedgård,gård,650.000,13-12-2006,Alm. Salg,2.927,7,Stuehus,222,1877,,
+N P Danmarksvej 78732 Hovedgård,gård,575.000,13-12-2006,Alm. Salg,3.159,6,Villa,182,2007,,Aktuel værdi
+N P Danmarksvej 338732 Hovedgård,gård,555.000,13-12-2006,Alm. Salg,2.890,6,Villa,192,2007,,Aktuel værdi
+Grumstrupvej 118732 Hovedgård,gård,2.200.000,08-12-2006,Fam. Salg,12.571,5,Stuehus,175,1827,,
+Tornbjerg 898732 Hovedgård,gård,2.225.000,07-12-2006,Alm. Salg,12.092,7,Villa,184,1976,,Aktuel værdi
+Oudrupgårdsvej 118732 Hovedgård,gård,1.018.813,06-12-2006,Fam. Salg,5.507,5,Villa,185,1931,,Aktuel værdi
+Katrinelundsvej 208732 Hovedgård,gård,2.750.000,04-12-2006,Alm. Salg,16.871,5,Villa,163,2001,,Aktuel værdi
+N P Danmarksvej 28732 Hovedgård,gård,575.000,20-11-2006,Alm. Salg,2.578,7,Villa,223,2007,,Aktuel værdi
+N P Danmarksvej 188732 Hovedgård,gård,600.000,06-11-2006,Alm. Salg,4.511,5,Villa,133,2007,,Aktuel værdi
+N P Danmarksvej 438732 Hovedgård,gård,550.000,06-11-2006,Alm. Salg,3.459,5,Villa,159,2007,,Aktuel værdi
+N P Danmarksvej 68732 Hovedgård,gård,525.000,06-11-2006,Alm. Salg,4.200,5,Villa,125,2008,,Aktuel værdi
+N P Danmarksvej 138732 Hovedgård,gård,575.000,06-11-2006,Alm. Salg,3.549,5,Villa,162,2007,,Aktuel værdi
+N P Danmarksvej 218732 Hovedgård,gård,575.000,06-11-2006,Alm. Salg,3.382,5,Villa,170,2008,,Aktuel værdi
+N P Danmarksvej 318732 Hovedgård,gård,400.000,06-11-2006,Alm. Salg,2.424,6,Villa,165,2008,,Aktuel værdi
+Søndervænget 598732 Hovedgård,gård,2.125.000,01-11-2006,Alm. Salg,11.805,6,Villa,180,1966,,Aktuel værdi
+Møllevej 128732 Hovedgård,gård,1.475.000,30-10-2006,Alm. Salg,11.434,4,Villa,129,1968,,Aktuel værdi
+Elbjergvej 57A8732 Hovedgård,gård,975.000,05-10-2006,Alm. Salg,7.169,5,Villa,136,1907,,Aktuel værdi
+Kirkevej 47A8732 Hovedgård,gård,300.000,25-09-2006,Alm. Salg,1.960,6,Villa,153,2008,,Aktuel værdi
+Kærsholmvej 218732 Hovedgård,gård,9.000.000,22-09-2006,Alm. Salg,30.716,10,Stuehus,293,1880,,
+Fruenshave 278732 Hovedgård,gård,1.400.000,18-09-2006,Alm. Salg,10.526,4,Villa,133,1973,,Aktuel værdi
+Tvilhøj 268732 Hovedgård,gård,599.000,14-09-2006,Alm. Salg,3.442,5,Villa,174,2007,,Aktuel værdi
+Hovedgårdvej 38732 Hovedgård,gård,600.000,30-08-2006,Alm. Salg,4.687,5,Villa,128,1932,,Aktuel værdi
+Gl Kattrupvej 388732 Hovedgård,gård,1.340.000,23-08-2006,Alm. Salg,9.370,4,Villa,143,1961,,Aktuel værdi
+Hedemølle Kirkevej 58732 Hovedgård,gård,220.160,12-08-2006,Alm. Salg,1.850,5,Stuehus,119,1890,,
+Oudrupgårdsvej 278732 Hovedgård,gård,18.415.000,02-08-2006,Alm. Salg,67.702,5,Stuehus,272,1850,,
+Vestergade 188732 Hovedgård,gård,1.000.000,24-07-2006,Alm. Salg,7.042,5,Villa,142,1911,,Aktuel værdi
+Horsensvej 218732 Hovedgård,gård,999.000,12-07-2006,Alm. Salg,6.529,5,Villa,153,1935,,Aktuel værdi
+Horsensvej 408732 Hovedgård,gård,1.695.000,10-07-2006,Alm. Salg,12.649,4,Villa,134,1930,,Aktuel værdi
+Gl Århusvej 358732 Hovedgård,gård,1.135.000,07-07-2006,Alm. Salg,11.581,4,Villa,98,1890,,Aktuel værdi
+Troldkirkevej 48732 Hovedgård,gård,3.798.000,16-06-2006,Alm. Salg,18.709,6,Villa,203,1900,,Aktuel værdi
+Vandværksvej 48732 Hovedgård,gård,1.010.000,14-06-2006,Alm. Salg,6.196,6,Villa,163,1899,,Aktuel værdi
+Østergade 228732 Hovedgård,gård,1.295.000,07-06-2006,Alm. Salg,12.950,4,Villa,100,1948,,Aktuel værdi
+Fruenshave 628732 Hovedgård,gård,1.875.000,04-06-2006,Alm. Salg,13.586,6,Villa,138,1972,,Aktuel værdi
+Katrinelundsvej 118732 Hovedgård,gård,550.000,30-05-2006,Alm. Salg,3.437,5,Villa,160,2008,,Aktuel værdi
+Fruenshave 358732 Hovedgård,gård,1.660.025,26-05-2006,Alm. Salg,13.387,5,Villa,124,1974,,Aktuel værdi
+Fruenshave 378732 Hovedgård,gård,2.198.000,11-05-2006,Alm. Salg,13.402,4,Villa,164,1973,,Aktuel værdi
+Lundgårdevej 108732 Hovedgård,gård,3.865.000,04-05-2006,Alm. Salg,15.097,6,Stuehus,256,2010,,
+Søndervænget 38732 Hovedgård,gård,1.299.000,27-04-2006,Alm. Salg,13.121,3,Villa,99,1965,,Aktuel værdi
+Krøruplundvej 178732 Hovedgård,gård,1.750.000,27-04-2006,Fam. Salg,11.744,4,Stuehus,149,1920,,
+Gl Kattrupvej 378732 Hovedgård,gård,1.285.000,25-04-2006,Alm. Salg,12.122,4,Villa,106,1951,,Aktuel værdi
+Tvilhøj 228732 Hovedgård,gård,599.000,10-04-2006,Alm. Salg,2.852,6,Villa,210,2007,,Aktuel værdi
+Tornbjerg 208732 Hovedgård,gård,1.385.000,05-04-2006,Alm. Salg,11.080,4,Villa,125,1975,,Aktuel værdi
+Fruenshave 308732 Hovedgård,gård,1.200.000,05-04-2006,Fam. Salg,7.058,5,Villa,170,1973,,Aktuel værdi
+Krogstrupvej 1678732 Hovedgård,gård,1.150.000,30-03-2006,Alm. Salg,6.318,6,Villa,182,1930,,Aktuel værdi
+Søndervænget 278732 Hovedgård,gård,845.000,06-03-2006,Alm. Salg,7.412,4,Villa,114,1964,,Aktuel værdi
+Søndervænget 18732 Hovedgård,gård,1.210.000,24-02-2006,Alm. Salg,6.685,6,Villa,181,1964,,Aktuel værdi
+Tvilhøj 128732 Hovedgård,gård,399.000,16-02-2006,Alm. Salg,3.594,4,Villa,111,2007,,Aktuel værdi
+Vestergade 358732 Hovedgård,gård,1.055.000,16-02-2006,Alm. Salg,12.710,2,Villa,83,1997,,Aktuel værdi
+Grumstrupvej 928732 Hovedgård,gård,1.135.000,14-02-2006,Alm. Salg,10.809,4,Villa,105,1976,,Aktuel værdi
+Nørregade 18732 Hovedgård,gård,1.186.500,10-02-2006,Alm. Salg,11.519,3,Villa,103,1915,,Aktuel værdi
+Grumstrupvej 948732 Hovedgård,gård,1.280.000,10-02-2006,Alm. Salg,9.624,5,Villa,133,1937,,Aktuel værdi
+Horsensvej 21A8732 Hovedgård,gård,1.775.000,09-02-2006,Alm. Salg,9.491,5,Villa,187,1967,,Aktuel værdi
+Vinthervej 278732 Hovedgård,gård,420.000,06-02-2006,Alm. Salg,2.608,5,Villa,161,2007,,Aktuel værdi
+Heilesenvænget 128732 Hovedgård,gård,369.000,06-02-2006,Alm. Salg,2.476,5,Villa,149,2007,,Aktuel værdi
+Vinthervej 288732 Hovedgård,gård,425.000,02-02-2006,Alm. Salg,2.759,5,Villa,154,2008,,Aktuel værdi
+Vedsletvej 98732 Hovedgård,gård,3.850.000,02-02-2006,Alm. Salg,15.277,7,Stuehus,252,1992,,
+Assendrupvej 18732 Hovedgård,gård,1.160.000,01-02-2006,Alm. Salg,9.206,4,Villa,126,1927,,Aktuel værdi
+Vinthervej 28732 Hovedgård,gård,440.000,31-01-2006,Alm. Salg,3.098,5,Villa,142,2007,,Aktuel værdi
+Vedsletvej 18732 Hovedgård,gård,1.400.000,26-01-2006,Alm. Salg,8.045,5,Villa,174,1947,,Aktuel værdi
+Tornbjerg 718732 Hovedgård,gård,2.695.000,20-01-2006,Alm. Salg,13.820,4,Villa,195,1997,,Aktuel værdi
+Vinthervej 258732 Hovedgård,gård,380.000,19-01-2006,Alm. Salg,2.435,5,Villa,156,2006,,Aktuel værdi
+Grumstrupvej 718732 Hovedgård,gård,700.000,16-01-2006,Alm. Salg,5.882,4,Villa,119,1962,,Aktuel værdi
+Søkærvej 9A8732 Hovedgård,gård,570.000,16-01-2006,Alm. Salg,6.333,2,Villa,90,1905,,Aktuel værdi
+Horsensvej 188732 Hovedgård,gård,1.200.000,11-01-2006,Alm. Salg,15.584,3,Villa,77,1877,,Aktuel værdi
+Katrinelundsvej 288732 Hovedgård,gård,2.295.000,11-01-2006,Alm. Salg,15.612,5,Villa,147,2001,,Aktuel værdi
+Gl Kattrupvej 448732 Hovedgård,gård,1.035.000,10-01-2006,Alm. Salg,8.085,4,Villa,128,1973,,Aktuel værdi
+Kirkedalsvej 38732 Hovedgård,gård,1.475.000,29-12-2005,Alm. Salg,7.763,5,Villa,190,1910,,Aktuel værdi
+Vinthervej 248732 Hovedgård,gård,425.000,25-12-2005,Alm. Salg,2.871,5,Villa,148,2007,,Aktuel værdi
+Vinthervej 308732 Hovedgård,gård,450.000,25-12-2005,Alm. Salg,2.830,5,Villa,159,2007,,Aktuel værdi
+Vinthervej 68732 Hovedgård,gård,445.000,25-12-2005,Alm. Salg,2.472,5,Villa,180,2007,,Aktuel værdi
+Vinthervej 158732 Hovedgård,gård,495.000,25-12-2005,Alm. Salg,2.911,6,Villa,170,2007,,Aktuel værdi
+Møllevej 108732 Hovedgård,gård,640.000,22-12-2005,Fam. Salg,6.736,4,Villa,95,1967,,Aktuel værdi
+Overby Skovvej 18732 Hovedgård,gård,2.000.000,17-12-2005,Fam. Salg,16.528,6,Stuehus,121,1932,,
+Vinthervej 238732 Hovedgård,gård,395.000,15-12-2005,Alm. Salg,2.687,5,Villa,147,2007,,Aktuel værdi
+Heilesenvænget 18A8732 Hovedgård,gård,924.183,14-12-2005,Andet,9.527,3,Rækkehus,97,2001,,Aktuel værdi
+Heilesenvænget 18B8732 Hovedgård,gård,772.103,14-12-2005,Andet,10.576,2,Rækkehus,73,2001,,Aktuel værdi
+Heilesenvænget 20A8732 Hovedgård,gård,924.183,14-12-2005,Andet,9.527,3,Rækkehus,97,2001,,Aktuel værdi
+Heilesenvænget 20B8732 Hovedgård,gård,772.103,14-12-2005,Andet,10.576,2,Rækkehus,73,2001,,Aktuel værdi
+Sogneskellet 258732 Hovedgård,gård,1.950.000,12-12-2005,Alm. Salg,11.890,5,Villa,164,1987,,Aktuel værdi
+Søndervænget 328732 Hovedgård,gård,950.000,09-12-2005,Alm. Salg,9.134,4,Villa,104,1964,,Aktuel værdi
+Bakkevej 148732 Hovedgård,gård,775.000,09-12-2005,Alm. Salg,9.117,3,Villa,85,1961,,Aktuel værdi
+Edelsmindevej 28732 Hovedgård,gård,1.450.000,06-12-2005,Fam. Salg,6.041,7,Villa,240,1874,,Aktuel værdi
+Vinthervej 98732 Hovedgård,gård,460.000,23-11-2005,Alm. Salg,2.738,5,Villa,168,2006,,Aktuel værdi
+Gl Århusvej 408732 Hovedgård,gård,390.000,22-11-2005,Alm. Salg,5.342,2,Villa,73,1000,,Aktuel værdi
+Gl Århusvej 388732 Hovedgård,gård,30.740,17-11-2005,Alm. Salg,132,5,Stuehus,232,1877,,
+Tornbjerg 668732 Hovedgård,gård,478.371,14-11-2005,Andet,3.826,5,Villa,125,1973,,Aktuel værdi
+Vinthervej 188732 Hovedgård,gård,450.000,13-11-2005,Alm. Salg,2.368,6,Villa,190,2006,,Aktuel værdi
+Vinthervej 168732 Hovedgård,gård,450.000,13-11-2005,Alm. Salg,3.000,5,Villa,150,2007,,Aktuel værdi
+Skovbrynet 118732 Hovedgård,gård,1.220.000,01-11-2005,Alm. Salg,-,6,Villa,194,1962,,Aktuel værdi
+P C Jensensvej 58732 Hovedgård,gård,1.625.000,31-10-2005,Alm. Salg,17.287,4,Villa,94,1924,,Aktuel værdi
+Søndervænget 798732 Hovedgård,gård,1.375.000,28-10-2005,Alm. Salg,10.576,4,Villa,130,1969,,Aktuel værdi
+Vinthervej 298732 Hovedgård,gård,395.000,25-10-2005,Alm. Salg,2.484,5,Villa,159,2006,,Aktuel værdi
+Vinthervej 218732 Hovedgård,gård,420.000,22-10-2005,Alm. Salg,2.763,5,Villa,152,2007,,Aktuel værdi
+Engmarksvej 488732 Hovedgård,gård,1.630.000,05-10-2005,Alm. Salg,8.489,6,Stuehus,192,1900,,
+Søndervænget 838732 Hovedgård,gård,1.575.000,29-09-2005,Alm. Salg,10.570,4,Villa,149,1968,,Aktuel værdi
+Tornbjerg 1008732 Hovedgård,gård,1.765.000,22-09-2005,Alm. Salg,8.364,8,Villa,211,1977,,Aktuel værdi
+Vinthervej 178732 Hovedgård,gård,410.000,22-09-2005,Alm. Salg,2.484,6,Villa,165,2007,,Aktuel værdi
+Vinthervej 328732 Hovedgård,gård,420.000,22-09-2005,Alm. Salg,1.810,7,Villa,232,2009,,Aktuel værdi
+Søndervænget 318732 Hovedgård,gård,1.575.000,19-09-2005,Alm. Salg,11.413,5,Villa,138,1964,,Aktuel værdi
+Vinthervej 198732 Hovedgård,gård,420.000,12-09-2005,Alm. Salg,2.763,5,Villa,152,2006,,Aktuel værdi
+Vinthervej 128732 Hovedgård,gård,450.000,12-09-2005,Alm. Salg,2.694,5,Villa,167,2006,,Aktuel værdi
+Vinthervej 388732 Hovedgård,gård,440.000,12-09-2005,Alm. Salg,2.514,5,Villa,175,2009,,Aktuel værdi
+Vinthervej 88732 Hovedgård,gård,450.000,12-09-2005,Alm. Salg,2.662,4,Villa,169,2006,,Aktuel værdi
+Vinthervej 38732 Hovedgård,gård,460.000,12-09-2005,Alm. Salg,2.569,5,Villa,179,2006,,Aktuel værdi
+Vinthervej 108732 Hovedgård,gård,450.000,12-09-2005,Alm. Salg,3.191,5,Villa,141,2006,,Aktuel værdi
+Vinthervej 408732 Hovedgård,gård,420.000,12-09-2005,Alm. Salg,3.255,3,Villa,129,2007,,Aktuel værdi
+Vinthervej 118732 Hovedgård,gård,495.000,12-09-2005,Alm. Salg,2.270,5,Villa,218,2007,,Aktuel værdi
+Tornbjerg 78732 Hovedgård,gård,1.450.000,27-08-2005,Alm. Salg,10.000,5,Villa,145,1974,,Aktuel værdi
+Industriområdet 138732 Hovedgård,gård,1.260.000,15-08-2005,Auktion,4.405,9,Villa,286,1974,,Aktuel værdi
+Søndervænget 128732 Hovedgård,gård,925.000,04-08-2005,Alm. Salg,11.280,3,Villa,82,1964,,Aktuel værdi
+Vestergade 128732 Hovedgård,gård,750.000,02-08-2005,Alm. Salg,4.335,6,Villa,173,1900,,Aktuel værdi
+Præstevænget 248732 Hovedgård,gård,1.115.000,31-07-2005,Alm. Salg,9.867,4,Villa,113,1977,,Aktuel værdi
+Heilesenvænget 108732 Hovedgård,gård,224.000,29-07-2005,Alm. Salg,1.635,4,Villa,137,2007,,Aktuel værdi
+Elbjergvej 378732 Hovedgård,gård,1.145.000,08-07-2005,Alm. Salg,10.132,7,Villa,113,1927,,Aktuel værdi
+Elbjergvej 268732 Hovedgård,gård,1.475.000,05-07-2005,Alm. Salg,8.625,5,Villa,171,1890,,Aktuel værdi
+Vedsletvej 88732 Hovedgård,gård,775.000,29-06-2005,Alm. Salg,8.333,4,Villa,93,1852,,Aktuel værdi
+Fruenshave 448732 Hovedgård,gård,1.860.000,29-06-2005,Alm. Salg,10.054,5,Villa,185,1970,,Aktuel værdi
+Overby Skovvej 118732 Hovedgård,gård,465.000,28-06-2005,Alm. Salg,2.767,6,Villa,168,1827,,Aktuel værdi
+Tornbjerg 338732 Hovedgård,gård,1.150.000,17-06-2005,Alm. Salg,8.984,4,Villa,128,1976,,Aktuel værdi
+Tornbjerg 108732 Hovedgård,gård,1.213.750,01-06-2005,Alm. Salg,7.311,6,Villa,166,1977,,Aktuel værdi
+Søndervænget 218732 Hovedgård,gård,960.000,23-05-2005,Alm. Salg,8.571,4,Villa,112,1966,,Aktuel værdi
+Søndervænget 368732 Hovedgård,gård,880.000,11-05-2005,Alm. Salg,8.380,5,Villa,105,1967,,Aktuel værdi
+Søndervænget 88732 Hovedgård,gård,1.150.000,28-04-2005,Alm. Salg,-,5,Villa,103,1963,,Aktuel værdi
+Hadrupvej 708732 Hovedgård,gård,345.000,08-03-2005,Fam. Salg,3.108,4,Villa,111,1932,,Aktuel værdi
+Grumstrupvej 358732 Hovedgård,gård,1.050.000,28-02-2005,Alm. Salg,4.794,8,Villa,219,1800,,Aktuel værdi
+Møllevej 148732 Hovedgård,gård,1.285.000,27-02-2005,Alm. Salg,6.908,7,Villa,186,1964,,Aktuel værdi
+Heilesenvænget 28732 Hovedgård,gård,207.000,06-12-2004,Alm. Salg,1.389,5,Villa,149,2007,,Aktuel værdi
+Katrinelundsvej 228732 Hovedgård,gård,285.000,23-11-2004,Alm. Salg,1.716,5,Villa,166,2005,,Aktuel værdi
+Kirkevej 478732 Hovedgård,gård,336.250,05-11-2004,Alm. Salg,-,6,Villa,214,1900,,Aktuel værdi
+Kærsholmvej 2D8732 Hovedgård,gård,1.277.500,26-10-2004,Alm. Salg,8.996,5,Villa,142,2005,,Aktuel værdi
+Snareskovvej 58732 Hovedgård,gård,2.795.000,24-09-2004,Alm. Salg,17.360,5,Stuehus,161,1931,,
+Ballebovej 118732 Hovedgård,gård,4.845.666,23-09-2004,Alm. Salg,23.637,9,Stuehus,205,1835,,
+Krøruplundvej 38732 Hovedgård,gård,1.299.000,21-09-2004,Alm. Salg,7.596,7,Villa,171,1850,,Aktuel værdi
+Grumstrupvej 908732 Hovedgård,gård,665.000,09-09-2004,Alm. Salg,7.000,3,Villa,95,1955,,Aktuel værdi
+Heilesenvænget 48732 Hovedgård,gård,205.000,08-09-2004,Alm. Salg,1.453,5,Villa,141,2007,,Aktuel værdi
+Langdammen 58732 Hovedgård,gård,270.000,04-08-2004,Alm. Salg,931,9,Villa,290,2005,,Aktuel værdi
+Grumstrupvej 418732 Hovedgård,gård,750.000,19-07-2004,Fam. Salg,5.281,5,Villa,142,1750,,Aktuel værdi
+Oudrupgårdsvej 138732 Hovedgård,gård,165.424,02-07-2004,Fam. Salg,551,15,Stuehus,300,1885,,
+Grumstrupvej 538732 Hovedgård,gård,818.635,26-06-2004,Alm. Salg,4.651,6,Villa,176,1972,,Aktuel værdi
+Langdammen 78732 Hovedgård,gård,150.000,24-06-2004,Alm. Salg,847,5,Villa,177,2005,,Aktuel værdi
+Ørridslevvej 68732 Hovedgård,gård,1.025.000,03-06-2004,Alm. Salg,8.134,4,Villa,126,1971,,Aktuel værdi
+Overby Skovvej 28732 Hovedgård,gård,1.450.000,26-05-2004,Alm. Salg,9.539,4,Villa,152,1995,,Aktuel værdi
+Møllevej 58732 Hovedgård,gård,755.000,22-04-2004,Alm. Salg,8.483,3,Villa,89,1964,,Aktuel værdi
+Fruenshave 168732 Hovedgård,gård,1.242.500,30-03-2004,Alm. Salg,7.576,5,Villa,164,1969,,Aktuel værdi
+Ørridslevvej 28732 Hovedgård,gård,840.000,22-03-2004,Alm. Salg,7.304,4,Villa,115,1974,,Aktuel værdi
+Kirkevej 518732 Hovedgård,gård,525.000,11-03-2004,Alm. Salg,-,4,Villa,120,1877,,Aktuel værdi
+Kærsholmvej 158732 Hovedgård,gård,999.000,11-03-2004,Alm. Salg,8.612,4,Villa,116,1972,,Aktuel værdi
+Tornbjerg 678732 Hovedgård,gård,1.850.000,02-03-2004,Alm. Salg,10.511,4,Villa,176,1996,,Aktuel værdi
+Horsensvej 258732 Hovedgård,gård,985.000,20-02-2004,Alm. Salg,7.695,5,Villa,128,1900,,Aktuel værdi
+Grumstrupvej 568732 Hovedgård,gård,657.901,18-02-2004,Alm. Salg,8.223,3,Villa,80,1963,,Aktuel værdi
+Vinkelvej 48732 Hovedgård,gård,580.000,03-02-2004,Alm. Salg,-,3,Villa,89,1935,,Aktuel værdi
+Tornbjerg 508732 Hovedgård,gård,1.140.000,03-02-2004,Alm. Salg,7.125,5,Villa,160,1975,,Aktuel værdi
+Hadrupvej 628732 Hovedgård,gård,1.050.000,02-02-2004,Alm. Salg,-,6,Døgninstitution,536,1877,,Aktuel værdi
+Elbjergvej 228732 Hovedgård,gård,650.000,19-01-2004,Alm. Salg,5.909,3,Villa,110,1777,,Aktuel værdi
+Grumstrupvej 288732 Hovedgård,gård,700.000,15-01-2004,Alm. Salg,8.536,3,Villa,82,1900,,Aktuel værdi
+Søndervænget 448732 Hovedgård,gård,1.175.000,18-12-2003,Fam. Salg,7.035,6,Villa,167,1966,,Aktuel værdi
+Gl Kattrupvej 878732 Hovedgård,gård,2.400.000,15-12-2003,Alm. Salg,-,6,Stuehus,183,1924,,
+Krøruplundvej 18732 Hovedgård,gård,8.900.000,13-12-2003,Alm. Salg,38.695,9,Stuehus,230,1913,,
+Grumstrupvej 498732 Hovedgård,gård,400.000,02-12-2003,Alm. Salg,5.555,2,Villa,72,1900,,Aktuel værdi
+Grumstrupvej 388732 Hovedgård,gård,1.295.000,26-11-2003,Alm. Salg,7.400,4,Villa,175,2010,,Aktuel værdi
+Grumstrupvej 68732 Hovedgård,gård,570.000,25-11-2003,Fam. Salg,-,4,Villa,140,1870,,Aktuel værdi
+Grumstrupvej 518732 Hovedgård,gård,2.260.700,25-11-2003,Fam. Salg,8.628,8,Stuehus,262,1777,,
+Horsensvej 118732 Hovedgård,gård,2.725.000,14-11-2003,Alm. Salg,10.728,6,Villa,254,1913,,Aktuel værdi
+Assendrupvej 48732 Hovedgård,gård,805.508,05-11-2003,Alm. Salg,3.835,8,Villa,210,1887,,Aktuel værdi
+Hadrupvej 638732 Hovedgård,gård,165.000,25-09-2003,Andet,1.269,5,Villa,130,1947,,Aktuel værdi
+Hadrupvej 618732 Hovedgård,gård,223.360,21-09-2003,Alm. Salg,1.163,6,Stuehus,192,1857,,
+Grumstrupvej 248732 Hovedgård,gård,765.000,15-09-2003,Alm. Salg,4.273,6,Villa,179,1877,,Aktuel værdi
+Snareskovvej 98732 Hovedgård,gård,1.550.000,15-09-2003,Alm. Salg,9.687,5,Stuehus,160,2004,,
+Fruenshave 54A8732 Hovedgård,gård,225.000,01-09-2003,Alm. Salg,775,7,Villa,290,2007,,Aktuel værdi
+Lundgårdevej 328732 Hovedgård,gård,750.000,04-07-2003,Alm. Salg,5.859,4,Villa,128,1827,,Aktuel værdi
+Tornbjerg 538732 Hovedgård,gård,678.251,01-07-2003,Alm. Salg,4.521,5,Villa,150,2017,,Aktuel værdi
+Kirkevej 368732 Hovedgård,gård,550.000,27-06-2003,Alm. Salg,5.140,4,Villa,107,1937,,Aktuel værdi
+Gl Kattrupvej 318732 Hovedgård,gård,450.000,23-06-2003,Fam. Salg,4.500,3,Villa,100,1946,,Aktuel værdi
+Kærsholmvej 18732 Hovedgård,gård,2.050.000,23-06-2003,Alm. Salg,11.918,4,Villa,172,1910,,Aktuel værdi
+Kærsholmvej 58732 Hovedgård,gård,1.000.000,19-06-2003,Alm. Salg,8.771,4,Villa,114,1970,,Aktuel værdi
+Heilesenvænget 16A8732 Hovedgård,gård,950.000,18-06-2003,Alm. Salg,9.595,3,Villa,99,2001,,Aktuel værdi
+Overby Skovvej 98732 Hovedgård,gård,690.000,16-06-2003,Alm. Salg,-,7,Stuehus,215,2005,,
+Søndervænget 228732 Hovedgård,gård,840.000,13-06-2003,Alm. Salg,-,3,Villa,132,1964,,Aktuel værdi
+Søkærvej 88732 Hovedgård,gård,1.800.000,28-05-2003,Alm. Salg,16.363,4,Stuehus,110,1880,,
+Fruenshave 298732 Hovedgård,gård,1.095.000,11-04-2003,Alm. Salg,6.636,6,Villa,165,1973,,Aktuel værdi
+Sogneskellet 228732 Hovedgård,gård,840.000,01-04-2003,Alm. Salg,6.942,4,Villa,121,1979,,Aktuel værdi
+Lundgårdevej 288732 Hovedgård,gård,2.380.000,28-03-2003,Fam. Salg,13.370,6,Stuehus,178,1890,,
+Præstevænget 208732 Hovedgård,gård,850.000,26-03-2003,Alm. Salg,7.522,4,Villa,113,1969,,Aktuel værdi
+Gl Kattrupvej 818732 Hovedgård,gård,1.200.000,15-03-2003,Alm. Salg,9.160,5,Stuehus,131,2007,,
+Fruenshave 348732 Hovedgård,gård,783.482,26-02-2003,Alm. Salg,6.120,4,Villa,128,1972,,Aktuel værdi
+Gl Tebstrupvej 48732 Hovedgård,gård,306.000,27-01-2003,Fam. Salg,4.371,2,Villa,70,1927,,Aktuel værdi
+Sogneskellet 12A8732 Hovedgård,gård,700.000,23-12-2002,Alm. Salg,9.210,3,Rækkehus,76,1990,,Aktuel værdi
+Heilesenvænget 68732 Hovedgård,gård,238.000,10-12-2002,Alm. Salg,1.442,5,Villa,165,2003,,Aktuel værdi
+Præstevænget 108732 Hovedgård,gård,1.160.000,29-11-2002,Alm. Salg,6.666,6,Villa,174,1970,,Aktuel værdi
+Sogneskellet 53B8732 Hovedgård,gård,700.000,22-10-2002,Alm. Salg,8.139,3,Rækkehus,86,1986,,Aktuel værdi
+Søndervænget 268732 Hovedgård,gård,860.000,21-10-2002,Alm. Salg,5.695,5,Villa,151,1964,,Aktuel værdi
+Overby Skovvej 158732 Hovedgård,gård,775.000,25-09-2002,Alm. Salg,-,8,Villa,295,1926,,Aktuel værdi
+Vestergade 158732 Hovedgård,gård,395.000,05-09-2002,Alm. Salg,3.950,5,Engroshandel,100,1903,,Aktuel værdi
+Elbækvej 38732 Hovedgård,gård,1.389.000,03-09-2002,Alm. Salg,6.256,6,Villa,222,1877,,Aktuel værdi
+Grumstrupvej 778732 Hovedgård,gård,910.000,16-08-2002,Alm. Salg,5.796,5,Villa,157,1934,,Aktuel værdi
+Grumstrupvej 308732 Hovedgård,gård,995.000,05-07-2002,Alm. Salg,-,10,Stuehus,290,1896,,
+Elbækvej 78732 Hovedgård,gård,9.150.000,26-06-2002,Alm. Salg,49.728,5,Stuehus,184,1994,,
+Søndervænget 618732 Hovedgård,gård,875.000,28-05-2002,Alm. Salg,7.000,5,Villa,125,1970,,Aktuel værdi
+Tornbjerg 618732 Hovedgård,gård,1.153.263,16-05-2002,Alm. Salg,5.766,7,Villa,200,1974,,Aktuel værdi
+Kattrupmade 118732 Hovedgård,gård,301.101,14-05-2002,Alm. Salg,1.420,8,Villa,212,2004,,Aktuel værdi
+Lundgårdevej 58732 Hovedgård,gård,850.000,02-05-2002,Alm. Salg,4.722,6,Villa,180,1827,,Aktuel værdi
+Nylandsvej 28732 Hovedgård,gård,820.000,30-04-2002,Alm. Salg,6.259,4,Villa,131,1937,,Aktuel værdi
+Horsensvej 98732 Hovedgård,gård,600.000,29-04-2002,Alm. Salg,7.500,3,Villa,80,1963,,Aktuel værdi
+Grumstrupvej 628732 Hovedgård,gård,990.000,27-04-2002,Alm. Salg,4.040,10,Villa,245,1932,,Aktuel værdi
+Skråvej 58732 Hovedgård,gård,1.600.000,17-04-2002,Fam. Salg,5.714,8,Stuehus,280,1855,,
+Vestergade 238732 Hovedgård,gård,323.729,21-03-2002,Alm. Salg,1.961,5,Villa,165,1900,,Aktuel værdi
+Møllevej 28732 Hovedgård,gård,635.000,19-03-2002,Alm. Salg,5.381,3,Villa,118,1908,,Aktuel værdi
+Sogneskellet 108732 Hovedgård,gård,1.050.000,18-03-2002,Alm. Salg,6.818,6,Villa,154,1980,,Aktuel værdi
+Grumstrupvej 458732 Hovedgård,gård,819.561,17-03-2002,Alm. Salg,-,5,Villa,132,1877,,Aktuel værdi
+Elbjergvej 438732 Hovedgård,gård,775.000,27-02-2002,Alm. Salg,7.380,4,Villa,105,1912,,Aktuel værdi
+Oudrupgårdsvej 308732 Hovedgård,gård,1.122.904,22-02-2002,Alm. Salg,5.174,6,Villa,217,1827,,Aktuel værdi
+Grumstrupvej 158732 Hovedgård,gård,2.646.000,22-02-2002,Fam. Salg,13.230,7,Stuehus,200,1880,,
+Oudrupgårdsvej 218732 Hovedgård,gård,890.000,08-02-2002,Alm. Salg,4.784,5,Villa,186,1850,,Aktuel værdi
+Søndervænget 378732 Hovedgård,gård,1.140.000,07-02-2002,Alm. Salg,6.368,6,Villa,179,1966,,Aktuel værdi
+Østergade 88732 Hovedgård,gård,360.000,24-01-2002,Alm. Salg,3.000,4,Rækkehus,120,1907,,Aktuel værdi
+Nylandsvej 38732 Hovedgård,gård,554.814,09-12-2001,Alm. Salg,8.040,2,Villa,69,1946,,Aktuel værdi
+Bakkevej 58732 Hovedgård,gård,840.000,04-12-2001,Alm. Salg,10.000,3,Villa,84,1954,,Aktuel værdi
+Skovbrynet 138732 Hovedgård,gård,643.000,30-10-2001,Alm. Salg,7.476,3,Villa,86,1964,,Aktuel værdi
+Grumstrupvej 338732 Hovedgård,gård,455.000,17-10-2001,Alm. Salg,5.352,3,Villa,85,1900,,Aktuel værdi
+Tornbjerg 58732 Hovedgård,gård,965.000,12-10-2001,Alm. Salg,6.655,5,Villa,145,1973,,Aktuel værdi
+Horsensvej 198732 Hovedgård,gård,1.610.000,04-10-2001,Alm. Salg,7.488,8,Villa,215,1931,,Aktuel værdi
+Lundgårdevej 248732 Hovedgård,gård,1.257.669,06-09-2001,Alm. Salg,9.316,5,Stuehus,135,1913,,
+Grumstrupvej 748732 Hovedgård,gård,510.000,04-09-2001,Alm. Salg,5.425,4,Villa,94,1927,,Aktuel værdi
+Vestergade 608732 Hovedgård,gård,1.900.000,30-08-2001,Alm. Salg,11.309,8,Villa,168,1868,,Aktuel værdi
+Tornbjerg 228732 Hovedgård,gård,1.029.184,20-08-2001,Alm. Salg,7.351,4,Villa,140,1976,,Aktuel værdi
+Grønnegade 38732 Hovedgård,gård,1.094.000,17-08-2001,Alm. Salg,7.597,5,Villa,144,1932,,Aktuel værdi
+Oudrupgårdsvej 148732 Hovedgård,gård,339.000,17-08-2001,Alm. Salg,5.650,2,Villa,60,1930,,Aktuel værdi
+Tornbjerg 198732 Hovedgård,gård,845.000,02-08-2001,Alm. Salg,5.827,5,Villa,145,1975,,Aktuel værdi
+Ørridslevvej 928732 Hovedgård,gård,600.000,03-07-2001,Alm. Salg,3.243,4,Rækkehus,185,1900,,Aktuel værdi
+Grumstrupvej 468732 Hovedgård,gård,735.000,05-04-2001,Alm. Salg,5.250,4,Villa,140,1923,,Aktuel værdi
+Præstevænget 128732 Hovedgård,gård,843.842,16-03-2001,Alm. Salg,5.444,5,Villa,155,1969,,Aktuel værdi
+Søndervænget 738732 Hovedgård,gård,347.720,13-03-2001,Fam. Salg,1.986,6,Villa,175,1969,,Aktuel værdi
+Espevej 28732 Hovedgård,gård,1.922.800,07-03-2001,Fam. Salg,7.540,10,Stuehus,255,1893,,
+Vestergade 638732 Hovedgård,gård,800.000,01-03-2001,Alm. Salg,8.000,3,Villa,100,1966,,Aktuel værdi
+Gl Kattrupvej 898732 Hovedgård,gård,1.500.000,19-02-2001,Fam. Salg,7.177,5,Villa,209,1915,,Aktuel værdi
+Krøruplundvej 48732 Hovedgård,gård,2.055.000,02-02-2001,Fam. Salg,-,8,Stuehus,197,1920,,
+Gl Kattrupvej 558732 Hovedgård,gård,856.653,19-01-2001,Alm. Salg,5.827,5,Villa,147,1877,,Aktuel værdi
+Heilesenvænget 14B8732 Hovedgård,gård,1.014.876,15-01-2001,Alm. Salg,10.251,4,Villa,99,2001,,Aktuel værdi
+Søndervænget 428732 Hovedgård,gård,900.000,11-01-2001,Alm. Salg,7.826,5,Villa,115,1967,,Aktuel værdi
+Tornbjerg 688732 Hovedgård,gård,875.000,09-01-2001,Alm. Salg,6.433,4,Villa,136,1974,,Aktuel værdi
+Katrinelundsvej 268732 Hovedgård,gård,1.400.000,01-01-2001,Alm. Salg,10.852,4,Villa,129,2001,,Aktuel værdi
+Elbjergvej 208732 Hovedgård,gård,1.375.000,17-12-2000,Alm. Salg,5.705,7,Villa,241,2006,,Aktuel værdi
+Engvangen 6B8732 Hovedgård,gård,1.720.804,14-12-2000,Alm. Salg,7.449,7,Villa,231,1992,,Aktuel værdi
+Gl Århusvej 328732 Hovedgård,gård,600.000,12-12-2000,Fam. Salg,2.083,5,Villa,288,1802,,Aktuel værdi
+Grumstrupvej 608732 Hovedgård,gård,410.381,27-11-2000,Alm. Salg,-,3,Villa,112,1890,,Aktuel værdi
+Lundgårdevej 158732 Hovedgård,gård,2.800.000,20-11-2000,Alm. Salg,12.334,7,Stuehus,227,1993,,
+Horsensvej 228732 Hovedgård,gård,1.000.000,03-10-2000,Alm. Salg,4.545,6,Villa,220,1905,,Aktuel værdi
+Horsensvej 288732 Hovedgård,gård,1.450.000,27-09-2000,Alm. Salg,8.529,4,Villa,170,1919,,Aktuel værdi
+Elbækvej 108732 Hovedgård,gård,966.000,19-09-2000,Alm. Salg,8.186,4,Villa,118,1962,,Aktuel værdi
+Kirkevej 548732 Hovedgård,gård,1.899.881,15-09-2000,Alm. Salg,6.354,8,Villa,299,1891,,Aktuel værdi
+Oudrupgårdsvej 198732 Hovedgård,gård,990.000,30-08-2000,Auktion,5.210,6,Villa,190,1920,,Aktuel værdi
+Grumstrupvej 688732 Hovedgård,gård,836.000,21-08-2000,Alm. Salg,6.966,4,Villa,120,1913,,Aktuel værdi
+Elbjergvej 558732 Hovedgård,gård,90.000,11-08-2000,Alm. Salg,1.836,2,Villa,49,1777,,Aktuel værdi
+Gl Kattrupvej 858732 Hovedgård,gård,670.000,29-06-2000,Alm. Salg,3.582,5,Villa,187,1958,,Aktuel værdi
+Gl Århusvej 468732 Hovedgård,gård,818.929,22-06-2000,Alm. Salg,4.094,8,Stuehus,200,1871,,
+Præstevænget 158732 Hovedgård,gård,928.593,19-06-2000,Alm. Salg,8.928,4,Villa,104,1981,,Aktuel værdi
+Ørridslevvej 48732 Hovedgård,gård,895.000,13-06-2000,Alm. Salg,7.991,4,Villa,112,1977,,Aktuel værdi
+Vestergade 228732 Hovedgård,gård,1.045.253,20-05-2000,Alm. Salg,5.743,9,Villa,182,1911,,Aktuel værdi
+Engmosevej 58732 Hovedgård,gård,579.708,10-05-2000,Alm. Salg,3.293,8,Stuehus,176,1882,,
+Grumstrupvej 88732 Hovedgård,gård,1.095.000,14-04-2000,Alm. Salg,4.932,6,Villa,222,1877,,Aktuel værdi
+Tornbjerg 608732 Hovedgård,gård,1.160.000,16-03-2000,Alm. Salg,6.553,7,Villa,177,1977,,Aktuel værdi
+Søndervænget 628732 Hovedgård,gård,635.000,08-03-2000,Alm. Salg,7.743,3,Villa,82,1968,,Aktuel værdi
+Skråvej 38732 Hovedgård,gård,501.500,03-03-2000,Fam. Salg,6.348,3,Villa,79,1952,,Aktuel værdi
+Industriområdet 68732 Hovedgård,gård,3.900.000,11-02-2000,Alm. Salg,102.631,5,Industri o.l.,38,1987,,Aktuel værdi
+Nylandsvej 18732 Hovedgård,gård,278.818,24-01-2000,Fam. Salg,2.323,4,Villa,120,1946,,Aktuel værdi
+Gl Kattrupvej 548732 Hovedgård,gård,2.509.000,12-01-2000,Fam. Salg,12.482,9,Stuehus,201,1936,,
+Vandværksvej 38732 Hovedgård,gård,720.000,21-12-1999,Fam. Salg,7.200,3,Villa,100,1927,,Aktuel værdi
+Horsensvej 138732 Hovedgård,gård,935.000,15-12-1999,Alm. Salg,4.155,6,Villa,225,1912,,Aktuel værdi
+Gl Århusvej 318732 Hovedgård,gård,1.349.406,23-11-1999,Alm. Salg,5.766,7,Villa,234,1870,,Aktuel værdi
+Fruenshave 648732 Hovedgård,gård,740.000,05-11-1999,Alm. Salg,6.218,4,Villa,119,1972,,Aktuel værdi
+Bakkevej 98732 Hovedgård,gård,822.398,01-11-1999,Alm. Salg,7.408,4,Villa,111,1957,,Aktuel værdi
+Præstevænget 78732 Hovedgård,gård,915.499,23-09-1999,Alm. Salg,8.101,4,Villa,113,1971,,Aktuel værdi
+Sogneskellet 248732 Hovedgård,gård,832.893,17-09-1999,Alm. Salg,6.663,4,Villa,125,1979,,Aktuel værdi
+Troldkirkevej 58732 Hovedgård,gård,425.000,16-09-1999,Alm. Salg,6.071,2,Villa,70,1777,,Aktuel værdi
+Grumstrupvej 648732 Hovedgård,gård,485.000,08-09-1999,Alm. Salg,-,6,Villa,168,1900,,Aktuel værdi
+Søndervænget 438732 Hovedgård,gård,730.000,01-09-1999,Alm. Salg,-,4,Villa,115,1965,,Aktuel værdi
+Tornbjerg 558732 Hovedgård,gård,890.000,01-09-1999,Alm. Salg,6.496,4,Villa,137,1974,,Aktuel værdi
+Kattrupmade 138732 Hovedgård,gård,775.000,26-08-1999,Alm. Salg,5.871,2,Villa,132,1850,,Aktuel værdi
+Tornbjerg 848732 Hovedgård,gård,1.212.497,26-07-1999,Alm. Salg,6.154,7,Villa,197,1974,,Aktuel værdi
+Hadrupvej 848732 Hovedgård,gård,305.000,05-07-1999,Alm. Salg,2.652,4,Villa,115,1827,,Aktuel værdi
+Bakkevej 28732 Hovedgård,gård,800.000,07-06-1999,Alm. Salg,-,6,Villa,200,1938,,Aktuel værdi
+Vestergade 438732 Hovedgård,gård,464.350,16-05-1999,Alm. Salg,2.780,5,Villa,167,2008,,Aktuel værdi
+Bakkevej 18732 Hovedgård,gård,712.000,09-05-1999,Alm. Salg,3.869,5,Villa,184,1938,,Aktuel værdi
+Elbækvej 188732 Hovedgård,gård,568.097,04-05-1999,Alm. Salg,5.462,4,Villa,104,1900,,Aktuel værdi
+Overby Skovvej 138732 Hovedgård,gård,1.150.000,23-03-1999,Alm. Salg,5.693,5,Villa,202,2001,,Aktuel værdi
+Præstevænget 348732 Hovedgård,gård,1.025.435,12-03-1999,Alm. Salg,5.696,6,Villa,180,1974,,Aktuel værdi
+Fruenshave 238732 Hovedgård,gård,870.383,17-01-1999,Alm. Salg,6.086,5,Villa,143,1973,,Aktuel værdi
+Snareskovvej 78732 Hovedgård,gård,220.000,04-01-1999,Alm. Salg,-,4,Villa,135,1780,,Aktuel værdi
+Søndervænget 308732 Hovedgård,gård,646.936,16-12-1998,Alm. Salg,7.889,3,Villa,82,1964,,Aktuel værdi
+Elbækvej 28732 Hovedgård,gård,333.285,09-12-1998,Fam. Salg,-,6,Villa,168,1900,,Aktuel værdi
+Tornbjerg 918732 Hovedgård,gård,975.000,09-11-1998,Alm. Salg,5.213,5,Villa,187,1974,,Aktuel værdi
+Gl Kattrupvej 638732 Hovedgård,gård,538.200,27-10-1998,Alm. Salg,-,8,Villa,277,1993,,Aktuel værdi
+Sogneskellet 328732 Hovedgård,gård,95.000,20-10-1998,Alm. Salg,693,4,Villa,137,1999,,Aktuel værdi
+Elbjergvej 318732 Hovedgård,gård,531.647,23-09-1998,Alm. Salg,4.430,4,Villa,120,1907,,Aktuel værdi
+Søndervænget 498732 Hovedgård,gård,817.004,31-08-1998,Alm. Salg,-,4,Villa,131,1966,,Aktuel værdi
+Troldkirkevej 18732 Hovedgård,gård,1.200.000,18-08-1998,Alm. Salg,6.521,9,Villa,184,1850,,Aktuel værdi
+Grumstrupvej 348732 Hovedgård,gård,390.000,12-08-1998,Alm. Salg,-,3,Villa,101,1928,,Aktuel værdi
+Gl Tebstrupvej 58732 Hovedgård,gård,881.820,06-08-1998,Alm. Salg,6.731,5,Villa,131,1912,,Aktuel værdi
+Grumstrupvej 528732 Hovedgård,gård,617.000,16-07-1998,Alm. Salg,-,5,Villa,163,1777,,Aktuel værdi
+Elbjergvej 538732 Hovedgård,gård,350.000,30-06-1998,Fam. Salg,3.465,5,Villa,101,1935,,Aktuel værdi
+Sogneskellet 198732 Hovedgård,gård,32.500,01-06-1998,Alm. Salg,277,4,Villa,117,1999,,Aktuel værdi
+Hedemølle Kirkevej 38732 Hovedgård,gård,850.000,29-05-1998,Alm. Salg,4.545,6,Stuehus,187,1911,,
+Elbjergvej 248732 Hovedgård,gård,860.000,27-05-1998,Alm. Salg,3.822,7,Villa,225,1900,,Aktuel værdi
+Tornbjerg 288732 Hovedgård,gård,1.072.303,19-05-1998,Alm. Salg,-,6,Villa,242,1976,,Aktuel værdi
+Tornbjerg 778732 Hovedgård,gård,1.160.000,23-04-1998,Alm. Salg,3.866,7,Villa,300,1974,,Aktuel værdi
+Kærsholmvej 138732 Hovedgård,gård,60.000,20-04-1998,Alm. Salg,392,3,Villa,153,2000,,Aktuel værdi
+Kattrupmade 58732 Hovedgård,gård,951.305,25-03-1998,Alm. Salg,-,10,Villa,247,1941,,Aktuel værdi
+Elbækvej 138732 Hovedgård,gård,513.000,23-03-1998,Alm. Salg,3.946,11,Villa,130,1902,,Aktuel værdi
+Elbjergvej 238732 Hovedgård,gård,843.000,15-03-1998,Alm. Salg,-,5,Villa,167,1986,,Aktuel værdi
+Tornbjerg 358732 Hovedgård,gård,851.655,23-02-1998,Alm. Salg,-,5,Villa,161,1975,,Aktuel værdi
+Hadrupvej 828732 Hovedgård,gård,254.575,16-01-1998,Alm. Salg,-,6,Villa,242,1850,,Aktuel værdi
+Espevej 108732 Hovedgård,gård,1.256.383,18-12-1997,Alm. Salg,-,6,Villa,206,1977,,Aktuel værdi
+Sogneskellet 12B8732 Hovedgård,gård,683.117,27-10-1997,Alm. Salg,8.988,3,Rækkehus,76,1990,,Aktuel værdi
+Vestergade 658732 Hovedgård,gård,850.000,23-10-1997,Alm. Salg,4.250,7,Villa,200,1969,,Aktuel værdi
+Elbækvej 18732 Hovedgård,gård,1.191.000,20-10-1997,Alm. Salg,5.866,8,Villa,203,1877,,Aktuel værdi
+Sogneskellet 288732 Hovedgård,gård,703.122,10-10-1997,Alm. Salg,-,5,Villa,133,1980,,Aktuel værdi
+Præstevænget 18732 Hovedgård,gård,1.050.000,02-10-1997,Alm. Salg,6.000,6,Villa,175,1969,,Aktuel værdi
+Vestergade 468732 Hovedgård,gård,767.120,26-09-1997,Alm. Salg,4.824,6,Villa,159,1912,,Aktuel værdi
+Engmarksvej 508732 Hovedgård,gård,1.233.197,16-09-1997,Alm. Salg,5.292,5,Villa,233,1869,,Aktuel værdi
+Tornbjerg 588732 Hovedgård,gård,175.000,16-09-1997,Alm. Salg,1.223,5,Villa,143,1998,,Aktuel værdi
+Fruenshave 128732 Hovedgård,gård,1.035.211,04-08-1997,Alm. Salg,5.535,7,Villa,187,1970,,Aktuel værdi
+Tornbjerg 578732 Hovedgård,gård,993.000,31-07-1997,Alm. Salg,5.516,6,Villa,180,1974,,Aktuel værdi
+Grumstrupvej 668732 Hovedgård,gård,498.059,25-07-1997,Alm. Salg,-,6,Villa,162,1900,,Aktuel værdi
+Oudrupgårdsvej 108732 Hovedgård,gård,839.000,04-07-1997,Alm. Salg,-,5,Villa,152,1955,,Aktuel værdi
+Sogneskellet 598732 Hovedgård,gård,10.000,03-07-1997,Alm. Salg,60,5,Villa,166,1998,,Aktuel værdi
+Sogneskellet 208732 Hovedgård,gård,110.000,01-07-1997,Alm. Salg,601,4,Villa,183,1997,,Aktuel værdi
+Sogneskellet 578732 Hovedgård,gård,60.000,27-06-1997,Alm. Salg,348,6,Villa,172,1998,,Aktuel værdi
+Troldkirkevej 38732 Hovedgård,gård,700.000,13-06-1997,Fam. Salg,6.666,3,Stuehus,105,1911,,
+Sogneskellet 178732 Hovedgård,gård,67.500,09-06-1997,Alm. Salg,548,4,Villa,123,1998,,Aktuel værdi
+Kattrupmade 28732 Hovedgård,gård,450.000,30-05-1997,Alm. Salg,5.844,3,Villa,77,1850,,Aktuel værdi
+Vandværksvej 18732 Hovedgård,gård,304.900,21-05-1997,Alm. Salg,-,3,Villa,85,1882,,Aktuel værdi
+Sogneskellet 388732 Hovedgård,gård,90.000,12-05-1997,Alm. Salg,502,4,Villa,179,2003,,Aktuel værdi
+Elbækvej 168732 Hovedgård,gård,4.250.000,18-04-1997,Fam. Salg,-,10,Stuehus,357,1897,,
+Tornbjerg 28732 Hovedgård,gård,921.000,17-04-1997,Alm. Salg,5.449,4,Villa,169,1974,,Aktuel værdi
+Kråsigvej 158732 Hovedgård,gård,1.680.000,31-03-1997,Fam. Salg,10.306,4,Stuehus,163,1867,,
+Elbjergvej 328732 Hovedgård,gård,45.000,27-03-1997,Alm. Salg,1.000,2,Rækkehus,45,1777,,Aktuel værdi
+Tornbjerg 948732 Hovedgård,gård,930.500,11-03-1997,Alm. Salg,4.561,6,Villa,204,1975,,Aktuel værdi
+Horsensvej 18732 Hovedgård,gård,578.050,19-02-1997,Alm. Salg,3.753,4,Villa,154,1895,,Aktuel værdi
+Østergade 168732 Hovedgård,gård,418.200,13-02-1997,Alm. Salg,2.788,6,Villa,150,1918,,Aktuel værdi
+Tornbjerg 708732 Hovedgård,gård,970.000,12-02-1997,Alm. Salg,6.643,5,Villa,146,1987,,Aktuel værdi
+Horsensvej 38732 Hovedgård,gård,827.000,07-02-1997,Alm. Salg,6.361,5,Villa,130,1924,,Aktuel værdi
+Fruenshave 138732 Hovedgård,gård,975.000,06-02-1997,Alm. Salg,4.239,6,Villa,230,1973,,Aktuel værdi
+Grumstrupvej 808732 Hovedgård,gård,275.000,14-01-1997,Alm. Salg,-,5,Villa,112,1910,,Aktuel værdi
+Gl Kattrupvej 398732 Hovedgård,gård,798.000,13-01-1997,Alm. Salg,-,6,Villa,178,1917,,Aktuel værdi
+Sogneskellet 28732 Hovedgård,gård,110.000,03-01-1997,Alm. Salg,723,5,Villa,152,1998,,Aktuel værdi
+Sogneskellet 68732 Hovedgård,gård,120.000,03-01-1997,Alm. Salg,839,5,Villa,143,1997,,Aktuel værdi
+Sogneskellet 438732 Hovedgård,gård,105.000,05-11-1996,Alm. Salg,-,5,Villa,148,1997,,Aktuel værdi
+Vedsletvej 118732 Hovedgård,gård,625.000,09-10-1996,Alm. Salg,-,6,Villa,178,1914,,Aktuel værdi
+Lundgårdevej 28732 Hovedgård,gård,550.000,06-09-1996,Alm. Salg,3.928,7,Villa,140,1934,,Aktuel værdi
+Tornbjerg 148732 Hovedgård,gård,781.545,30-08-1996,Alm. Salg,4.854,4,Villa,161,1974,,Aktuel værdi
+Kirkedalsvej 198732 Hovedgård,gård,400.000,27-08-1996,Fam. Salg,-,7,Villa,229,1800,,Aktuel værdi
+Horsensvej 78732 Hovedgård,gård,453.000,26-08-1996,Alm. Salg,-,6,Villa,205,1910,,Aktuel værdi
+Vestergade 318732 Hovedgård,gård,296.132,23-08-1996,Alm. Salg,-,5,Villa,144,1900,,Aktuel værdi
+Elbjergvej 518732 Hovedgård,gård,601.000,01-08-1996,Alm. Salg,5.834,3,Villa,103,1756,,Aktuel værdi
+Bakkevej 78732 Hovedgård,gård,375.000,28-06-1996,Alm. Salg,5.514,2,Villa,68,1958,,Aktuel værdi
+Søndervænget 178732 Hovedgård,gård,740.000,24-06-1996,Alm. Salg,5.481,5,Villa,135,1964,,Aktuel værdi
+Sogneskellet 38732 Hovedgård,gård,235.000,18-06-1996,Alm. Salg,-,6,Villa,201,1997,,Aktuel værdi
+Tornbjerg 478732 Hovedgård,gård,926.000,29-05-1996,Alm. Salg,5.291,6,Villa,175,1974,,Aktuel værdi
+Stationsvej 128732 Hovedgård,gård,580.000,22-04-1996,Alm. Salg,3.473,5,Villa,167,1964,,Aktuel værdi
+Kirkevej 628732 Hovedgård,gård,350.000,11-04-1996,Alm. Salg,2.413,4,Villa,145,1907,,Aktuel værdi
+Krøruplundvej 78732 Hovedgård,gård,450.000,05-03-1996,Alm. Salg,2.008,6,Villa,224,2002,,Aktuel værdi
+Tornbjerg 138732 Hovedgård,gård,547.749,29-01-1996,Fam. Salg,3.777,5,Villa,145,1973,,Aktuel værdi
+Frydsvej 118732 Hovedgård,gård,35.535,08-12-1995,Alm. Salg,-,7,Villa,243,1996,,Aktuel værdi
+Søndervænget 238732 Hovedgård,gård,740.500,07-12-1995,Alm. Salg,5.609,4,Villa,132,1966,,Aktuel værdi
+Kirkedalsvej 68732 Hovedgård,gård,500.000,04-12-1995,Alm. Salg,-,5,Villa,176,1910,,Aktuel værdi
+Kirkedalsvej 28732 Hovedgård,gård,1.167.000,01-09-1995,Alm. Salg,-,8,Villa,220,1852,,Aktuel værdi
+Kattrupmade 158732 Hovedgård,gård,915.000,31-08-1995,Alm. Salg,7.204,5,Stuehus,127,1917,,
+Sogneskellet 218732 Hovedgård,gård,621.000,14-08-1995,Alm. Salg,4.704,5,Villa,132,1986,,Aktuel værdi
+Kattrupmade 98732 Hovedgård,gård,1.369.000,09-08-1995,Alm. Salg,8.100,5,Stuehus,169,1929,,
+Skolebakken 28732 Hovedgård,gård,450.000,03-07-1995,Alm. Salg,-,8,Villa,220,1900,,Aktuel værdi
+Tornbjerg 448732 Hovedgård,gård,840.000,20-06-1995,Alm. Salg,2.896,8,Villa,290,1977,,Aktuel værdi
+Grumstrupvej 128732 Hovedgård,gård,510.337,12-06-1995,Fam. Salg,3.189,4,Villa,160,1777,,Aktuel værdi
+Hedemøllevej 198732 Hovedgård,gård,1.095.000,30-05-1995,Alm. Salg,8.051,5,Stuehus,136,1951,,
+Ørridslevvej 238732 Hovedgård,gård,80.250,06-04-1995,Alm. Salg,565,5,Villa,142,1996,,Aktuel værdi
+Grumstrupvej 788732 Hovedgård,gård,250.000,20-03-1995,Alm. Salg,2.427,5,Villa,103,1926,,Aktuel værdi
+Vestergade 498732 Hovedgård,gård,629.000,13-03-1995,Alm. Salg,2.953,6,Villa,213,1948,,Aktuel værdi
+Søndervænget 138732 Hovedgård,gård,280.500,02-01-1995,Fam. Salg,-,5,Villa,138,1965,,Aktuel værdi
+Krøruplundvej 158732 Hovedgård,gård,435.000,27-12-1994,Alm. Salg,3.041,5,Villa,143,1975,,Aktuel værdi
+Gl Kattrupvej 628732 Hovedgård,gård,255.000,20-12-1994,Alm. Salg,1.961,4,Villa,130,1966,,Aktuel værdi
+Fruenshave 108732 Hovedgård,gård,788.000,25-11-1994,Alm. Salg,4.329,6,Villa,182,1971,,Aktuel værdi
+Tornbjerg 768732 Hovedgård,gård,360.000,17-10-1994,Alm. Salg,3.076,5,Rækkehus,117,1974,,Aktuel værdi
+Tornbjerg 188732 Hovedgård,gård,495.000,01-10-1994,Alm. Salg,-,5,Villa,128,1975,,Aktuel værdi
+Gl Kattrupvej 608732 Hovedgård,gård,235.000,21-07-1994,Alm. Salg,-,3,Villa,149,1965,,Aktuel værdi
+Krogstrupvej 1658732 Hovedgård,gård,387.773,18-06-1994,Alm. Salg,2.084,6,Villa,186,2012,,Aktuel værdi
+Ballebovej 98732 Hovedgård,gård,190.000,03-06-1994,Alm. Salg,2.638,2,Villa,72,1912,,Aktuel værdi
+Horsensvej 148732 Hovedgård,gård,240.000,18-05-1994,Alm. Salg,2.123,4,Rækkehus,113,1952,,Aktuel værdi
+Lundgårdevej 48732 Hovedgård,gård,635.000,12-05-1994,Alm. Salg,3.175,6,Villa,200,1827,,Aktuel værdi
+Præstevænget 368732 Hovedgård,gård,600.000,07-05-1994,Alm. Salg,4.081,5,Villa,147,1978,,Aktuel værdi
+Tornbjerg 398732 Hovedgård,gård,463.360,27-04-1994,Fam. Salg,4.412,4,Villa,105,1975,,Aktuel værdi
+Fruenshave 338732 Hovedgård,gård,745.000,04-04-1994,Alm. Salg,4.382,7,Villa,170,1973,,Aktuel værdi
+Kirkedalsvej 148732 Hovedgård,gård,819.000,02-04-1994,Alm. Salg,-,9,Villa,322,1852,,Aktuel værdi
+Espevej 88732 Hovedgård,gård,895.000,12-03-1994,Alm. Salg,3.254,8,Villa,275,1820,,Aktuel værdi
+Elbjergvej 498732 Hovedgård,gård,300.000,28-02-1994,Alm. Salg,-,3,Villa,131,1969,,Aktuel værdi
+Grumstrupvej 828732 Hovedgård,gård,390.000,10-02-1994,Alm. Salg,3.333,5,Villa,117,1906,,Aktuel værdi
+Vestergade 168732 Hovedgård,gård,288.750,15-01-1994,Alm. Salg,1.159,11,Villa,249,1907,,Aktuel værdi
+Tornbjerg 658732 Hovedgård,gård,735.362,09-12-1993,Alm. Salg,3.830,6,Villa,192,1979,,Aktuel værdi
+Kirkevej 438732 Hovedgård,gård,650.000,15-11-1993,Alm. Salg,-,7,Villa,195,1870,,Aktuel værdi
+Tornbjerg 568732 Hovedgård,gård,505.000,29-10-1993,Alm. Salg,3.914,4,Villa,129,1974,,Aktuel værdi
+Elbjergvej 258732 Hovedgård,gård,549.454,15-10-1993,Fam. Salg,5.183,4,Villa,106,1751,,Aktuel værdi
+Gl Århusvej 538732 Hovedgård,gård,200.000,14-10-1993,Alm. Salg,3.030,4,Villa,66,1900,,Aktuel værdi
+Tornbjerg 1C8732 Hovedgård,gård,460.000,05-10-1993,Alm. Salg,5.111,4,Rækkehus,90,1981,,Aktuel værdi
+Engvangen 18732 Hovedgård,gård,345.315,28-09-1993,Alm. Salg,-,5,Villa,162,1908,,Aktuel værdi
+Horsensvej 1A8732 Hovedgård,gård,560.947,08-09-1993,Alm. Salg,3.714,5,Villa,151,1978,,Aktuel værdi
+Vestergade 448732 Hovedgård,gård,390.000,17-08-1993,Alm. Salg,2.468,5,Villa,158,1900,,Aktuel værdi
+Fruenshave 218732 Hovedgård,gård,564.000,13-08-1993,Alm. Salg,4.440,5,Villa,127,1973,,Aktuel værdi
+Tornbjerg 268732 Hovedgård,gård,619.000,28-07-1993,Alm. Salg,4.126,5,Villa,150,1973,,Aktuel værdi
+Tornbjerg 638732 Hovedgård,gård,590.200,02-07-1993,Alm. Salg,3.073,7,Villa,192,1974,,Aktuel værdi
+Søndervænget 588732 Hovedgård,gård,449.600,24-06-1993,Alm. Salg,-,4,Villa,169,1968,,Aktuel værdi
+Grumstrupvej 168732 Hovedgård,gård,240.000,21-06-1993,Fam. Salg,2.580,3,Villa,93,1930,,Aktuel værdi
+Tornbjerg 738732 Hovedgård,gård,665.234,21-06-1993,Alm. Salg,3.801,6,Villa,175,1974,,Aktuel værdi
+Grumstrupvej 138732 Hovedgård,gård,500.000,12-02-1993,Alm. Salg,2.293,7,Stuehus,218,2006,,
+Fruenshave 288732 Hovedgård,gård,685.445,22-12-1992,Alm. Salg,3.939,5,Villa,174,1972,,Aktuel værdi
+Præstevænget 58732 Hovedgård,gård,460.000,18-12-1992,Alm. Salg,-,5,Villa,128,1977,,Aktuel værdi
+Vestergade 548732 Hovedgård,gård,490.000,11-11-1992,Alm. Salg,2.258,7,Villa,217,1920,,Aktuel værdi
+Gl Kattrupvej 468732 Hovedgård,gård,102.629,14-09-1992,Alm. Salg,-,5,Villa,111,1908,,Aktuel værdi
+Kirkevej 568732 Hovedgård,gård,269.656,07-09-1992,Alm. Salg,1.634,5,Villa,165,1954,,Aktuel værdi
+P C Jensensvej 28732 Hovedgård,gård,301.108,26-08-1992,Alm. Salg,2.230,5,Villa,135,1920,,Aktuel værdi
+Gl Kattrupvej 588732 Hovedgård,gård,430.000,09-07-1992,Alm. Salg,3.771,3,Villa,114,1964,,Aktuel værdi
+Præstevænget 388732 Hovedgård,gård,511.500,12-06-1992,Alm. Salg,3.706,5,Villa,138,1973,,Aktuel værdi
+Vinkelvej 88732 Hovedgård,gård,570.000,09-06-1992,Alm. Salg,-,7,Villa,226,1922,,Aktuel værdi
+Grumstrupvej 578732 Hovedgård,gård,25.000,10-05-1992,Alm. Salg,164,6,Villa,152,1992,,Aktuel værdi
+Gl Kattrupvej 698732 Hovedgård,gård,575.000,03-05-1992,Alm. Salg,4.674,7,Villa,123,1915,,Aktuel værdi
+Elbækvej 208732 Hovedgård,gård,330.000,24-04-1992,Alm. Salg,-,7,Villa,191,1910,,Aktuel værdi
+Overby Skovvej 78732 Hovedgård,gård,443.000,13-04-1992,Alm. Salg,-,7,Villa,225,1850,,Aktuel værdi
+Grumstrupvej 328732 Hovedgård,gård,1.641.500,01-04-1992,Fam. Salg,9.119,7,Stuehus,180,1852,,
+Sogneskellet 48732 Hovedgård,gård,710.000,17-03-1992,Alm. Salg,6.826,4,Villa,104,1987,,Aktuel værdi
+Tornbjerg 178732 Hovedgård,gård,598.000,23-02-1992,Alm. Salg,4.124,5,Villa,145,1974,,Aktuel værdi
+Ballebovej 48732 Hovedgård,gård,735.000,18-02-1992,Alm. Salg,-,8,Stuehus,285,1897,,
+Engvangen 6A8732 Hovedgård,gård,1.025.000,05-02-1992,Alm. Salg,-,8,Villa,252,1987,,Aktuel værdi
+Søndervænget 698732 Hovedgård,gård,710.000,16-01-1992,Alm. Salg,4.965,5,Villa,143,1972,,Aktuel værdi

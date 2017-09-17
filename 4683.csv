@@ -1,0 +1,901 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Timianvej 64683 Rønnede,nede,1.450.000,19-05-2017,Alm. Salg,14.215,4,Rækkehus,102,2008,0 %,Aktuel værdi
+Sneden 144683 Rønnede,nede,581.639,28-04-2017,Alm. Salg,3.681,6,Villa,158,1877,,Aktuel værdi
+Fasanvej 34683 Rønnede,nede,1.165.000,27-04-2017,Alm. Salg,8.893,4,Villa,131,1969,-3 %,Aktuel værdi
+Gl. Næstvedvej 74683 Rønnede,nede,604.000,12-04-2017,Alm. Salg,6.565,4,Villa,92,1956,-11 %,Aktuel værdi
+Birkevej 134683 Rønnede,nede,935.000,07-04-2017,Fam. Salg,6.775,5,Villa,138,1968,,Aktuel værdi
+Bellisvej 14683 Rønnede,nede,1.025.000,24-03-2017,Alm. Salg,9.490,4,Villa,108,1967,-2 %,Aktuel værdi
+Sneden 74683 Rønnede,nede,634.018,15-03-2017,Alm. Salg,5.113,3,Villa,124,1825,,Aktuel værdi
+Poppelvej 154683 Rønnede,nede,1.200.000,12-03-2017,Alm. Salg,8.888,5,Villa,135,1973,-2 %,Aktuel værdi
+Lyngvej 154683 Rønnede,nede,495.000,02-03-2017,Alm. Salg,7.071,3,Villa,70,1962,0 %,Aktuel værdi
+Dyssehøj 14683 Rønnede,nede,1.225.000,24-02-2017,Alm. Salg,10.208,4,Villa,120,1979,-5 %,Aktuel værdi
+Vordingborgvej 5754683 Rønnede,nede,1.100.000,20-02-2017,Alm. Salg,10.000,4,Villa,110,1780,-4 %,Aktuel værdi
+Svennerupvej 84683 Rønnede,nede,3.290.000,16-01-2017,Alm. Salg,18.176,6,Stuehus,181,1820,-18 %,
+Elmevej 264683 Rønnede,nede,750.000,12-01-2017,Fam. Salg,5.555,5,Villa,135,2005,,Aktuel værdi
+Møllevej 114683 Rønnede,nede,615.000,09-01-2017,Alm. Salg,5.540,6,Villa,111,1949,,Aktuel værdi
+Bøgevej 314683 Rønnede,nede,900.000,23-12-2016,Fam. Salg,5.882,5,Villa,153,1974,,Aktuel værdi
+Løvsangervej 104683 Rønnede,nede,870.000,17-12-2016,Alm. Salg,7.500,4,Villa,116,1975,-3 %,Aktuel værdi
+Eskilstrupvej 274683 Rønnede,nede,1.912.500,08-12-2016,Fam. Salg,10.805,6,Stuehus,177,1858,,
+Industrivej 764683 Rønnede,nede,595.000,07-12-2016,Alm. Salg,4.473,5,Villa,133,1952,0 %,Aktuel værdi
+Mågevej 44683 Rønnede,nede,965.000,03-12-2016,Alm. Salg,7.598,4,Villa,127,1988,-3 %,Aktuel værdi
+Eskilstrupvej 414683 Rønnede,nede,680.000,28-11-2016,Andet,3.505,5,Villa,194,1897,,Aktuel værdi
+Birkegårdsvej 384683 Rønnede,nede,920.000,16-11-2016,Alm. Salg,7.863,4,Villa,117,1979,-15 %,Aktuel værdi
+Lindevej 54683 Rønnede,nede,1.100.000,14-11-2016,Alm. Salg,7.432,5,Villa,148,1970,,Aktuel værdi
+Tranevej 124683 Rønnede,nede,451.500,04-11-2016,Alm. Salg,4.907,3,Rækkehus,92,1988,,Aktuel værdi
+Borupvej 364683 Rønnede,nede,1.338.833,27-10-2016,Alm. Salg,6.345,6,Stuehus,211,1906,,
+Solbakken 74683 Rønnede,nede,1.650.000,24-10-2016,Alm. Salg,11.458,5,Villa,144,1987,-1 %,Aktuel værdi
+Bøgevej 244683 Rønnede,nede,2.270.000,13-10-2016,Alm. Salg,13.841,6,Villa,164,2009,-1 %,Aktuel værdi
+Lyngvej 124683 Rønnede,nede,750.000,12-10-2016,Alm. Salg,6.818,3,Villa,110,1966,0 %,Aktuel værdi
+Rypevej 94683 Rønnede,nede,1.250.000,11-10-2016,Alm. Salg,9.920,3,Villa,126,1977,0 %,Aktuel værdi
+Rørsangervej 84683 Rønnede,nede,625.000,01-10-2016,Alm. Salg,3.980,4,Villa,157,1975,,Aktuel værdi
+Akacievej 124683 Rønnede,nede,1.500.000,21-09-2016,Alm. Salg,13.513,3,Rækkehus,111,2007,,Aktuel værdi
+Akacievej 184683 Rønnede,nede,1.250.000,19-09-2016,Alm. Salg,11.261,3,Rækkehus,111,2007,-3 %,Aktuel værdi
+Nymarksvej 234683 Rønnede,nede,3.475.000,15-09-2016,Alm. Salg,12.918,7,Stuehus,269,1930,-3 %,
+Kærvej 4B4683 Rønnede,nede,1.195.000,06-09-2016,Alm. Salg,10.391,4,Lejlighed,115,1898,,Aktuel værdi
+Akacievej 104683 Rønnede,nede,1.499.000,30-08-2016,Alm. Salg,13.504,3,Rækkehus,111,2007,0 %,Aktuel værdi
+Granvej 64683 Rønnede,nede,1.195.000,23-08-2016,Alm. Salg,9.053,4,Villa,132,1972,,Aktuel værdi
+Rypevej 24683 Rønnede,nede,1.380.000,16-08-2016,Alm. Salg,9.718,5,Villa,142,1977,-1 %,Aktuel værdi
+Mellemvang 44683 Rønnede,nede,1.300.000,14-08-2016,Alm. Salg,11.818,3,Rækkehus,110,2015,,Aktuel værdi
+Østervej 84683 Rønnede,nede,695.000,10-08-2016,Auktion,7.808,3,Villa,89,1956,,Aktuel værdi
+Rypevej 14683 Rønnede,nede,1.510.000,10-08-2016,Alm. Salg,8.435,6,Villa,179,1977,-6 %,Aktuel værdi
+Tornemarksvej 104683 Rønnede,nede,1.500.000,05-08-2016,Alm. Salg,13.157,5,Stuehus,114,1911,,
+Bøgevej 124683 Rønnede,nede,950.000,01-08-2016,Alm. Salg,7.851,3,Villa,121,1970,-5 %,Aktuel værdi
+Rørsangervej 44683 Rønnede,nede,950.000,11-07-2016,Alm. Salg,6.785,5,Villa,140,1974,-10 %,Aktuel værdi
+Rønnedevej 2A4683 Rønnede,nede,1.441.500,27-06-2016,Andet,5.565,5,Stuehus,259,1943,,
+Østervej 104683 Rønnede,nede,1.050.000,24-06-2016,Alm. Salg,6.481,4,Villa,162,1955,-3 %,Aktuel værdi
+Rosenvej 94683 Rønnede,nede,825.000,19-06-2016,Alm. Salg,7.638,5,Villa,108,1968,-13 %,Aktuel værdi
+Boldbanen 24683 Rønnede,nede,1.400.000,17-06-2016,Alm. Salg,12.173,3,Rækkehus,115,2006,,Aktuel værdi
+Vestervej 24683 Rønnede,nede,550.000,16-06-2016,Alm. Salg,5.500,3,Villa,100,1963,,Aktuel værdi
+Falkevej 14683 Rønnede,nede,1.500.000,27-05-2016,Alm. Salg,9.036,4,Villa,166,1980,-6 %,Aktuel værdi
+Eskilstrupvej 124683 Rønnede,nede,2.445.000,24-05-2016,Alm. Salg,8.069,7,Villa,303,1908,-2 %,Aktuel værdi
+Sølvmosevej 44683 Rønnede,nede,606.883,11-05-2016,Andet,6.896,3,Stuehus,88,1946,,
+Birkegårdsvej 154683 Rønnede,nede,2.400.000,04-05-2016,Alm. Salg,6.876,8,Villa,349,1972,-4 %,Aktuel værdi
+Gl. Næstvedvej 104683 Rønnede,nede,775.000,03-05-2016,Alm. Salg,7.175,4,Villa,108,1964,-9 %,Aktuel værdi
+Dyssevej 434683 Rønnede,nede,1.910.000,27-04-2016,Alm. Salg,12.649,5,Villa,151,1998,-4 %,Aktuel værdi
+Pilevej 44683 Rønnede,nede,1.044.946,26-04-2016,Fam. Salg,7.060,5,Villa,148,1972,,Aktuel værdi
+Nymarksvej 34683 Rønnede,nede,6.375.000,07-04-2016,Andet,37.500,6,Stuehus,170,1877,,
+Vordingborgvej 4844683 Rønnede,nede,3.000.000,29-03-2016,Alm. Salg,12.820,7,Stuehus,234,1900,,
+Industrivej 264683 Rønnede,nede,515.000,15-03-2016,Alm. Salg,6.204,2,Villa,83,1973,,Aktuel værdi
+Løvsangervej 114683 Rønnede,nede,1.550.000,11-03-2016,Alm. Salg,7.242,6,Villa,214,1973,0 %,Aktuel værdi
+Højgårdsvej 354683 Rønnede,nede,1.250.000,08-03-2016,Alm. Salg,8.012,2,Villa,156,1888,,Aktuel værdi
+Tingerupvej 44683 Rønnede,nede,1.785.000,06-03-2016,Fam. Salg,10.688,5,Stuehus,167,1880,,
+Bøgevej 34683 Rønnede,nede,825.000,03-03-2016,Alm. Salg,6.250,3,Villa,132,1972,0 %,Aktuel værdi
+Grunderupvej 54683 Rønnede,nede,625.000,29-02-2016,Alm. Salg,4.734,5,Villa,132,1920,-2 %,Aktuel værdi
+Mosevej 74683 Rønnede,nede,850.000,29-02-2016,Alm. Salg,5.483,5,Villa,155,1960,-22 %,Aktuel værdi
+Dyssevej 47B4683 Rønnede,nede,1.700.000,05-02-2016,Alm. Salg,9.239,4,Villa,184,1984,-5 %,Aktuel værdi
+Hestehavevej 84683 Rønnede,nede,600.000,21-01-2016,Andet,6.060,3,Villa,99,1982,,Aktuel værdi
+Boruphøj 74683 Rønnede,nede,1.302.832,13-01-2016,Fam. Salg,8.351,4,Villa,156,2010,,Aktuel værdi
+"Lyngvej 5A, 1. TV4683 Rønnede",nede,4.485.000,12-01-2016,Alm. Salg,38.008,3,Lejlighed,118,1925,,Aktuel værdi
+Bellisvej 114683 Rønnede,nede,400.000,09-12-2015,Alm. Salg,3.252,5,Villa,123,1969,,Aktuel værdi
+Nymarksvej 124683 Rønnede,nede,895.000,09-12-2015,Auktion,8.950,4,Villa,100,1980,,Aktuel værdi
+Hestevænget 54683 Rønnede,nede,1.550.000,04-12-2015,Fam. Salg,12.109,4,Villa,128,2007,-9 %,Aktuel værdi
+Gl. Næstvedvej 35B4683 Rønnede,nede,1.100.000,04-12-2015,Alm. Salg,7.534,6,Villa,146,1979,-8 %,Aktuel værdi
+Mågevej 124683 Rønnede,nede,1.670.000,21-11-2015,Alm. Salg,10.245,5,Villa,163,1988,-1 %,Aktuel værdi
+Gl. Næstvedvej 374683 Rønnede,nede,2.050.000,18-11-2015,Alm. Salg,6.065,13,Villa,338,1902,-7 %,Aktuel værdi
+Nymarksvej 104683 Rønnede,nede,1.470.000,11-11-2015,Alm. Salg,7.577,6,Villa,194,1947,-16 %,Aktuel værdi
+Bøgevej 494683 Rønnede,nede,1.100.000,06-11-2015,Alm. Salg,6.586,6,Villa,167,1974,-2 %,Aktuel værdi
+Højgårdsvej 384683 Rønnede,nede,1.930.000,06-11-2015,Alm. Salg,9.846,6,Villa,196,1910,-3 %,Aktuel værdi
+Højgårdsvej 494683 Rønnede,nede,655.000,31-10-2015,Alm. Salg,6.238,3,Villa,105,1800,1 %,Aktuel værdi
+Drosselvej 34683 Rønnede,nede,1.575.000,29-10-2015,Alm. Salg,12.600,4,Villa,125,1969,-1 %,Aktuel værdi
+Birkegårdsvej 254683 Rønnede,nede,1.000.000,25-10-2015,Auktion,8.474,4,Villa,118,1932,-33 %,Aktuel værdi
+Timianvej 114683 Rønnede,nede,1.240.000,24-10-2015,Alm. Salg,12.156,4,Rækkehus,102,2008,-2 %,Aktuel værdi
+Grunderupvej 104683 Rønnede,nede,420.000,21-10-2015,Auktion,3.021,4,Villa,139,1938,,Aktuel værdi
+Kærsangervej 14683 Rønnede,nede,1.510.000,01-10-2015,Alm. Salg,9.437,4,Villa,160,1973,-5 %,Aktuel værdi
+Dyssevej 314683 Rønnede,nede,1.170.000,23-09-2015,Alm. Salg,10.540,5,Villa,111,1936,-2 %,Aktuel værdi
+Jyderupvej 294683 Rønnede,nede,488.500,21-09-2015,Andet,4.697,3,Villa,104,1877,,Aktuel værdi
+Lyngvej 264683 Rønnede,nede,250.000,16-09-2015,Auktion,4.464,3,Villa,56,1963,,Aktuel værdi
+Birkevej 24683 Rønnede,nede,710.000,14-09-2015,Alm. Salg,4.610,6,Villa,154,1965,-11 %,Aktuel værdi
+Fuksiavej 54683 Rønnede,nede,325.000,10-09-2015,Alm. Salg,1.900,5,Villa,171,2016,-7 %,Aktuel værdi
+Lyngvej 164683 Rønnede,nede,525.000,09-09-2015,Alm. Salg,6.818,4,Villa,77,1964,-12 %,Aktuel værdi
+Industrivej 44683 Rønnede,nede,1.500.000,05-09-2015,Alm. Salg,7.462,6,Villa,201,1967,,Aktuel værdi
+Industrivej 394683 Rønnede,nede,1.950.000,30-08-2015,Alm. Salg,10.833,5,Villa,180,1987,,Aktuel værdi
+Glentevej 114683 Rønnede,nede,2.000.000,18-08-2015,Andet,16.393,5,Villa,122,1988,,Aktuel værdi
+Borupvej 474683 Rønnede,nede,377.104,17-08-2015,Alm. Salg,5.713,2,Stuehus,66,1900,,
+Bellisvej 84683 Rønnede,nede,1.050.000,14-08-2015,Alm. Salg,6.325,6,Villa,166,1965,-2 %,Aktuel værdi
+Jyderupvej 364683 Rønnede,nede,1.570.000,07-08-2015,Alm. Salg,11.214,4,Stuehus,140,1965,,
+Timianvej 104683 Rønnede,nede,1.235.000,04-08-2015,Alm. Salg,12.107,4,Rækkehus,102,2008,-3 %,Aktuel værdi
+Birkevej 344683 Rønnede,nede,560.000,28-07-2015,Alm. Salg,5.333,3,Villa,105,1968,-19 %,Aktuel værdi
+Jyderupvej 394683 Rønnede,nede,443.363,23-07-2015,Auktion,2.184,5,Villa,203,1877,,Aktuel værdi
+Rørsangervej 104683 Rønnede,nede,950.000,06-07-2015,Alm. Salg,6.250,4,Villa,152,1976,-21 %,Aktuel værdi
+Svalevej 14683 Rønnede,nede,1.200.000,02-07-2015,Alm. Salg,9.523,4,Villa,126,1976,-2 %,Aktuel værdi
+Østervangsvej 94683 Rønnede,nede,1.575.000,19-06-2015,Alm. Salg,11.091,4,Villa,142,1928,-4 %,Aktuel værdi
+Sneden 254683 Rønnede,nede,2.550.000,17-06-2015,Alm. Salg,14.825,5,Stuehus,172,1877,-9 %,
+Timianvej 54683 Rønnede,nede,1.050.000,29-05-2015,Fam. Salg,10.294,4,Rækkehus,102,2006,,Aktuel værdi
+Lyngvej 64683 Rønnede,nede,325.000,26-05-2015,Alm. Salg,3.869,3,Villa,84,1964,-7 %,Aktuel værdi
+Svennerupvej 94683 Rønnede,nede,2.800.000,18-05-2015,Alm. Salg,14.070,6,Stuehus,199,1902,-3 %,
+Fasanvej 114683 Rønnede,nede,1.500.000,10-05-2015,Alm. Salg,7.211,6,Villa,208,1973,-6 %,Aktuel værdi
+Borupvej 544683 Rønnede,nede,1.100.000,07-05-2015,Alm. Salg,4.761,6,Stuehus,231,1877,-8 %,
+Dyssehøj 44683 Rønnede,nede,1.100.000,05-05-2015,Auktion,11.578,3,Villa,95,1926,,Aktuel værdi
+Elmevej 114683 Rønnede,nede,1.650.000,28-04-2015,Auktion,10.185,6,Villa,162,2004,,Aktuel værdi
+Elmevej 19A4683 Rønnede,nede,425.000,21-04-2015,Fam. Salg,3.728,4,Rækkehus,114,2004,,Aktuel værdi
+Agerstedvej 44683 Rønnede,nede,2.350.000,20-04-2015,Alm. Salg,10.444,6,Villa,225,1800,-6 %,Aktuel værdi
+Gl. Næstvedvej 584683 Rønnede,nede,1.554.000,11-04-2015,Alm. Salg,8.136,5,Villa,191,1994,-3 %,Aktuel værdi
+Dyssevej 124683 Rønnede,nede,360.000,08-04-2015,Alm. Salg,1.565,5,Villa,230,1877,-40 %,Aktuel værdi
+Birkevej 54683 Rønnede,nede,550.000,31-03-2015,Fam. Salg,4.782,2,Villa,115,1965,,Aktuel værdi
+Eskilstrupvej 314683 Rønnede,nede,210.000,13-03-2015,Alm. Salg,3.088,2,Villa,68,1898,14 %,Aktuel værdi
+Dalgårdsvej 14683 Rønnede,nede,1.030.000,09-03-2015,Alm. Salg,8.174,4,Villa,126,1967,-6 %,Aktuel værdi
+Eskilstrupvej 334683 Rønnede,nede,270.000,24-02-2015,Auktion,2.327,4,Villa,116,1939,,Aktuel værdi
+Gl. Næstvedvej 444683 Rønnede,nede,815.000,20-02-2015,Alm. Salg,7.149,4,Villa,114,1963,-9 %,Aktuel værdi
+Bjerggårdsvej 114683 Rønnede,nede,835.000,09-02-2015,Alm. Salg,5.758,5,Stuehus,145,2015,-16 %,
+Akacievej 114683 Rønnede,nede,1.395.000,02-02-2015,Alm. Salg,12.567,3,Rækkehus,111,2007,,Aktuel værdi
+Grunderupvej 274683 Rønnede,nede,19.448.226,02-01-2015,Fam. Salg,117.157,5,Stuehus,166,1900,,
+Industrivænget 14683 Rønnede,nede,2.000.000,20-12-2014,Alm. Salg,9.090,6,Villa,220,1998,0 %,Aktuel værdi
+Dyssevej 394683 Rønnede,nede,875.000,18-12-2014,Alm. Salg,7.231,4,Villa,121,1960,-16 %,Aktuel værdi
+Tranevej 224683 Rønnede,nede,312.352,04-12-2014,Alm. Salg,3.187,3,Villa,98,1961,,Aktuel værdi
+Lindevej 24683 Rønnede,nede,1.450.000,21-11-2014,Alm. Salg,7.631,4,Villa,190,1969,-3 %,Aktuel værdi
+Dyssevej 16B4683 Rønnede,nede,571.000,19-11-2014,Fam. Salg,7.613,3,Rækkehus,75,1877,,Aktuel værdi
+Dalgårdsvej 224683 Rønnede,nede,2.125.000,18-11-2014,Alm. Salg,9.703,6,Villa,219,1825,-6 %,Aktuel værdi
+Rosenvej 124683 Rønnede,nede,1.050.000,16-11-2014,Alm. Salg,6.907,4,Villa,152,1969,-4 %,Aktuel værdi
+Svennerupvej 114683 Rønnede,nede,2.575.000,04-11-2014,Alm. Salg,11.547,6,Villa,223,2005,-3 %,Aktuel værdi
+Tranevej 244683 Rønnede,nede,780.000,04-11-2014,Auktion,6.190,5,Villa,126,1960,-40 %,Aktuel værdi
+Rosenvej 164683 Rønnede,nede,763.000,29-10-2014,Auktion,5.736,4,Villa,133,1971,,Aktuel værdi
+Leestrupvej 164683 Rønnede,nede,519.017,29-10-2014,Fam. Salg,3.554,5,Villa,146,1930,,Aktuel værdi
+"Møllevej 21, 14683 Rønnede",nede,1.065.000,29-10-2014,Alm. Salg,7.100,5,Lejlighed,150,1900,,Aktuel værdi
+Skoverupvej 94683 Rønnede,nede,1.700.000,28-10-2014,Alm. Salg,7.692,6,Villa,221,2008,-5 %,Aktuel værdi
+Eskilstrupvej 84683 Rønnede,nede,408.000,28-10-2014,Auktion,3.923,3,Villa,104,1952,-35 %,Aktuel værdi
+Timianvej 144683 Rønnede,nede,1.190.000,23-10-2014,Alm. Salg,11.666,4,Rækkehus,102,2008,-8 %,Aktuel værdi
+Gl. Næstvedvej 464683 Rønnede,nede,645.000,06-10-2014,Alm. Salg,5.243,5,Villa,123,1928,-7 %,Aktuel værdi
+Skoverupvej 24683 Rønnede,nede,1.080.000,03-10-2014,Alm. Salg,8.852,6,Villa,122,1960,-6 %,Aktuel værdi
+Eskilstrupvej 94683 Rønnede,nede,400.000,29-09-2014,Alm. Salg,2.439,5,Villa,164,2016,,Aktuel værdi
+Vibevej 134683 Rønnede,nede,2.000.000,25-09-2014,Alm. Salg,6.369,6,Villa,314,1975,-5 %,Aktuel værdi
+Lyngvej 74683 Rønnede,nede,280.000,23-09-2014,Alm. Salg,3.684,3,Villa,76,1962,,Aktuel værdi
+Svalevej 24683 Rønnede,nede,1.379.000,12-09-2014,Alm. Salg,11.786,4,Villa,117,1979,0 %,Aktuel værdi
+Eskilstrupvej 144683 Rønnede,nede,585.000,19-08-2014,Auktion,4.270,4,Villa,137,1897,,Aktuel værdi
+Hestehavevej 134683 Rønnede,nede,900.000,07-08-2014,Alm. Salg,4.500,6,Villa,200,1930,-5 %,Aktuel værdi
+Vordingborgvej 5054683 Rønnede,nede,800.000,16-07-2014,Auktion,7.692,4,Stuehus,104,1927,,
+Grunderupvej 94683 Rønnede,nede,795.000,23-06-2014,Alm. Salg,4.297,8,Villa,185,1902,-11 %,Aktuel værdi
+Jyderupvej 514683 Rønnede,nede,595.000,17-06-2014,Auktion,3.562,6,Villa,167,1910,,Aktuel værdi
+Lyngvej 44683 Rønnede,nede,875.000,12-06-2014,Andet,5.833,7,Villa,150,1998,,Aktuel værdi
+Højgårdsvej 114683 Rønnede,nede,1.405.000,02-06-2014,Alm. Salg,7.025,6,Villa,200,1847,-6 %,Aktuel værdi
+Dyssevej 494683 Rønnede,nede,689.756,26-05-2014,Alm. Salg,4.033,7,Villa,171,1964,,Aktuel værdi
+Boldbanen 124683 Rønnede,nede,1.275.000,23-05-2014,Alm. Salg,11.086,3,Rækkehus,115,2006,-6 %,Aktuel værdi
+Skov-Torupvej 214683 Rønnede,nede,470.000,20-05-2014,Alm. Salg,3.154,3,Villa,149,1777,-5 %,Aktuel værdi
+Kongstedvej 144683 Rønnede,nede,795.000,14-05-2014,Alm. Salg,6.680,4,Villa,119,1968,-6 %,Aktuel værdi
+Skov-Torupvej 104683 Rønnede,nede,2.000.000,07-05-2014,Alm. Salg,11.834,5,Villa,169,1896,-13 %,Aktuel værdi
+Jyderupvej 234683 Rønnede,nede,1.250.000,13-04-2014,Alm. Salg,9.615,5,Villa,130,1942,-3 %,Aktuel værdi
+Vordingborgvej 5294683 Rønnede,nede,300.000,02-04-2014,Auktion,3.030,3,Villa,99,1953,,Aktuel værdi
+Birkevej 114683 Rønnede,nede,1.070.000,01-04-2014,Alm. Salg,10.190,3,Villa,105,1966,-2 %,Aktuel værdi
+Møllevej 514683 Rønnede,nede,600.000,18-02-2014,Alm. Salg,6.122,5,Villa,98,1960,-8 %,Aktuel værdi
+Gl. Næstvedvej 164683 Rønnede,nede,350.000,18-02-2014,Alm. Salg,3.571,4,Villa,98,1966,,Aktuel værdi
+Sneden 234683 Rønnede,nede,475.000,10-02-2014,Alm. Salg,3.571,3,Villa,133,1850,-5 %,Aktuel værdi
+Industrivej 834683 Rønnede,nede,450.000,10-12-2013,Alm. Salg,4.787,4,Villa,94,1916,,Aktuel værdi
+Bøgevej 174683 Rønnede,nede,975.000,05-12-2013,Alm. Salg,7.276,3,Villa,134,1970,-2 %,Aktuel værdi
+Pilevej 64683 Rønnede,nede,780.000,01-11-2013,Alm. Salg,4.968,4,Villa,157,1969,-2 %,Aktuel værdi
+Møllevej 394683 Rønnede,nede,600.000,23-10-2013,Andet,4.026,5,Villa,149,1949,,Aktuel værdi
+Solbakken 54683 Rønnede,nede,590.000,23-10-2013,Auktion,5.619,3,Villa,105,1910,-9 %,Aktuel værdi
+Gl. Næstvedvej 524683 Rønnede,nede,1.370.000,11-10-2013,Alm. Salg,9.383,3,Villa,146,1877,-1 %,Aktuel værdi
+Duevej 54683 Rønnede,nede,1.375.000,29-09-2013,Alm. Salg,10.036,5,Villa,137,1979,0 %,Aktuel værdi
+Lindevej 194683 Rønnede,nede,900.000,19-09-2013,Alm. Salg,6.250,4,Villa,144,1969,-9 %,Aktuel værdi
+Elmevej 84683 Rønnede,nede,1.645.000,12-09-2013,Alm. Salg,8.225,6,Villa,200,2002,-3 %,Aktuel værdi
+Musvitvej 54683 Rønnede,nede,1.900.000,06-09-2013,Fam. Salg,12.179,7,Villa,156,1986,,Aktuel værdi
+Lyngvej 244683 Rønnede,nede,750.000,27-08-2013,Alm. Salg,5.952,4,Villa,126,1966,-6 %,Aktuel værdi
+Bøgevej 44683 Rønnede,nede,1.150.000,22-08-2013,Alm. Salg,9.829,4,Villa,117,1969,0 %,Aktuel værdi
+Jyderupvej 464683 Rønnede,nede,1.725.000,12-08-2013,Alm. Salg,7.949,6,Villa,217,1914,-5 %,Aktuel værdi
+Løvsangervej 74683 Rønnede,nede,524.315,06-08-2013,Alm. Salg,3.855,5,Villa,136,1973,,Aktuel værdi
+Dyssevej 354683 Rønnede,nede,322.000,25-07-2013,Alm. Salg,2.050,4,Villa,157,2015,,Aktuel værdi
+Kærsangervej 54683 Rønnede,nede,1.495.000,06-07-2013,Alm. Salg,9.645,5,Villa,155,1975,-6 %,Aktuel værdi
+Rosenvej 24683 Rønnede,nede,985.000,20-06-2013,Alm. Salg,9.120,3,Villa,108,1969,-6 %,Aktuel værdi
+Boruphøj 44683 Rønnede,nede,2.320.000,29-05-2013,Alm. Salg,12.960,5,Villa,179,2013,-7 %,Aktuel værdi
+Hasselvej 74683 Rønnede,nede,1.050.000,15-04-2013,Alm. Salg,8.203,4,Villa,128,1970,-9 %,Aktuel værdi
+Hylledevej 204683 Rønnede,nede,18.660,12-04-2013,Alm. Salg,94,5,Stuehus,197,1877,,
+Tranevej 104683 Rønnede,nede,620.000,09-04-2013,Alm. Salg,8.493,2,Rækkehus,73,1988,-4 %,Aktuel værdi
+Møllevej 164683 Rønnede,nede,1.195.000,08-04-2013,Auktion,5.173,5,Villa,231,1907,,Aktuel værdi
+Elmevej 19B4683 Rønnede,nede,700.000,03-04-2013,Alm. Salg,6.140,4,Rækkehus,114,2004,,Aktuel værdi
+Rørsangervej 134683 Rønnede,nede,1.375.000,17-03-2013,Alm. Salg,9.417,4,Villa,146,1973,-8 %,Aktuel værdi
+Vestervej 14683 Rønnede,nede,1.045.000,06-03-2013,Auktion,7.977,6,Villa,131,1998,-20 %,Aktuel værdi
+Dalgårdsvej 94683 Rønnede,nede,1.100.000,19-02-2013,Alm. Salg,6.285,5,Villa,175,1968,-26 %,Aktuel værdi
+Mosevej 24683 Rønnede,nede,806.128,29-01-2013,Alm. Salg,3.614,6,Villa,223,1910,,Aktuel værdi
+Timianvej 44683 Rønnede,nede,1.150.000,29-01-2013,Alm. Salg,11.274,4,Rækkehus,102,2007,-4 %,Aktuel værdi
+Højgårdsvej 234683 Rønnede,nede,684.000,14-01-2013,Andet,5.343,3,Villa,128,1906,,Aktuel værdi
+Elmevej 16A4683 Rønnede,nede,700.000,03-01-2013,Alm. Salg,7.865,3,Rækkehus,89,2004,,Aktuel værdi
+Vordingborgvej 5164683 Rønnede,nede,156.250,22-12-2012,Alm. Salg,872,6,Villa,179,2008,,Aktuel værdi
+Skrænten 134683 Rønnede,nede,1.341.607,20-12-2012,Alm. Salg,9.864,4,Villa,136,1998,,Aktuel værdi
+Elmevej 16B4683 Rønnede,nede,700.000,17-12-2012,Alm. Salg,7.865,3,Rækkehus,89,2004,,Aktuel værdi
+Irisvej 34683 Rønnede,nede,895.000,06-12-2012,Alm. Salg,8.774,4,Villa,102,1961,0 %,Aktuel værdi
+Grunderupvej 354683 Rønnede,nede,560.000,29-11-2012,Alm. Salg,4.148,5,Villa,135,1964,,Aktuel værdi
+Bøgevej 374683 Rønnede,nede,1.400.000,28-11-2012,Alm. Salg,10.071,4,Villa,139,1973,-5 %,Aktuel værdi
+Poppelvej 164683 Rønnede,nede,1.010.000,19-11-2012,Alm. Salg,7.537,5,Villa,134,1972,0 %,Aktuel værdi
+Skov-Torupvej 84683 Rønnede,nede,1.740.000,18-10-2012,Alm. Salg,10.875,4,Villa,160,1900,-3 %,Aktuel værdi
+Boldbanen 134683 Rønnede,nede,1.275.000,18-09-2012,Alm. Salg,11.383,3,Rækkehus,112,2006,0 %,Aktuel værdi
+Skov-Torupvej 94683 Rønnede,nede,1.102.977,18-09-2012,Alm. Salg,4.924,7,Villa,224,1998,,Aktuel værdi
+Pilevej 104683 Rønnede,nede,774.921,17-09-2012,Andet,8.157,3,Villa,95,1971,,Aktuel værdi
+Boldbanen 34683 Rønnede,nede,1.375.000,11-09-2012,Alm. Salg,12.276,3,Rækkehus,112,2006,-1 %,Aktuel værdi
+Møllevej 444683 Rønnede,nede,1.150.000,10-09-2012,Alm. Salg,7.565,3,Villa,152,1943,-4 %,Aktuel værdi
+Nymarksvej 284683 Rønnede,nede,380.000,05-09-2012,Alm. Salg,2.516,5,Villa,151,1914,-23 %,Aktuel værdi
+Borupvej 144683 Rønnede,nede,1.880.000,28-08-2012,Alm. Salg,10.502,4,Villa,179,2005,5 %,Aktuel værdi
+Fasanvej 74683 Rønnede,nede,1.200.000,28-08-2012,Alm. Salg,6.315,5,Villa,190,1973,-22 %,Aktuel værdi
+Lyngvej 174683 Rønnede,nede,800.000,27-08-2012,Andet,5.161,4,Villa,155,1964,,Aktuel værdi
+Nymarksvej 94683 Rønnede,nede,450.000,22-08-2012,Alm. Salg,3.750,5,Villa,120,1877,-24 %,Aktuel værdi
+Hestehavevej 15B4683 Rønnede,nede,1.700.000,09-08-2012,Alm. Salg,8.173,5,Stuehus,208,1860,-14 %,
+Boruphøj 104683 Rønnede,nede,439.000,08-08-2012,Alm. Salg,2.251,6,Villa,195,2013,-1 %,Aktuel værdi
+Gl. Næstvedvej 564683 Rønnede,nede,2.430.000,05-08-2012,Alm. Salg,8.678,7,Villa,280,1880,-3 %,Aktuel værdi
+Løvsangervej 94683 Rønnede,nede,750.000,12-07-2012,Alm. Salg,6.097,4,Villa,123,1978,-6 %,Aktuel værdi
+Vordingborgvej 5254683 Rønnede,nede,275.000,09-07-2012,Alm. Salg,1.909,6,Villa,144,1935,,Aktuel værdi
+Lindevej 314683 Rønnede,nede,800.000,29-06-2012,Alm. Salg,6.106,5,Villa,131,1971,-9 %,Aktuel værdi
+Bellisvej 34683 Rønnede,nede,800.000,26-06-2012,Alm. Salg,5.797,4,Villa,138,1970,-11 %,Aktuel værdi
+Tranevej 34683 Rønnede,nede,275.000,19-06-2012,Fam. Salg,1.883,5,Villa,146,1973,,Aktuel værdi
+Saksholmvej 94683 Rønnede,nede,1.250.000,13-06-2012,Auktion,5.980,2,Stuehus,209,2016,,
+Fuksiavej 14683 Rønnede,nede,2.250.000,09-06-2012,Alm. Salg,13.554,6,Villa,166,2007,-2 %,Aktuel værdi
+Lyngvej 84683 Rønnede,nede,875.000,01-06-2012,Alm. Salg,4.971,5,Villa,176,1962,-12 %,Aktuel værdi
+Lindevej 44683 Rønnede,nede,900.000,31-05-2012,Alm. Salg,8.411,3,Villa,107,1969,29 %,Aktuel værdi
+Birkegårdsvej 264683 Rønnede,nede,435.000,08-05-2012,Auktion,4.531,5,Villa,96,1830,,Aktuel værdi
+Dalgårdsvej 114683 Rønnede,nede,1.560.000,11-04-2012,Alm. Salg,6.964,7,Villa,224,1970,-16 %,Aktuel værdi
+Gavevænget 14683 Rønnede,nede,570.000,28-03-2012,Auktion,7.307,3,Villa,78,1992,-65 %,Aktuel værdi
+Elmevej 134683 Rønnede,nede,1.350.000,17-03-2012,Auktion,9.310,5,Villa,145,2006,-3 %,Aktuel værdi
+Møllevej 404683 Rønnede,nede,395.000,08-03-2012,Auktion,3.590,4,Villa,110,1948,,Aktuel værdi
+Irisvej 64683 Rønnede,nede,1.200.000,29-02-2012,Alm. Salg,8.955,4,Villa,134,1968,-7 %,Aktuel værdi
+Lyngvej 104683 Rønnede,nede,650.000,18-01-2012,Alm. Salg,5.803,5,Villa,112,1962,-10 %,Aktuel værdi
+Industrivej 874683 Rønnede,nede,735.000,02-01-2012,Alm. Salg,8.750,4,Villa,84,1913,-22 %,Aktuel værdi
+Borupvej 664683 Rønnede,nede,1.467.500,28-12-2011,Fam. Salg,3.335,13,Villa,440,1850,,Aktuel værdi
+Gl. Næstvedvej 224683 Rønnede,nede,1.000.000,19-12-2011,Fam. Salg,9.433,4,Villa,106,1967,,Aktuel værdi
+Timianvej 164683 Rønnede,nede,1.230.000,07-12-2011,Alm. Salg,12.058,4,Rækkehus,102,2008,-5 %,Aktuel værdi
+Bøgevej 154683 Rønnede,nede,750.000,30-11-2011,Auktion,5.319,5,Villa,141,1970,-50 %,Aktuel værdi
+Bøgevej 634683 Rønnede,nede,2.150.000,30-11-2011,Alm. Salg,10.858,6,Villa,198,2006,-4 %,Aktuel værdi
+Skov-Torupvej 44683 Rønnede,nede,3.527.350,21-11-2011,Alm. Salg,26.722,7,Stuehus,132,1910,,
+Birkevej 34683 Rønnede,nede,587.500,21-11-2011,Andet,5.340,4,Villa,110,1965,,Aktuel værdi
+Grunderupvej 214683 Rønnede,nede,1.100.000,16-11-2011,Alm. Salg,6.875,5,Villa,160,2013,,Aktuel værdi
+Elmevej 224683 Rønnede,nede,640.000,13-10-2011,Andet,4.238,4,Villa,151,2001,,Aktuel værdi
+Gl. Næstvedvej 174683 Rønnede,nede,1.075.000,15-09-2011,Alm. Salg,11.436,4,Villa,94,1965,-1 %,Aktuel værdi
+Borupvej 284683 Rønnede,nede,900.000,19-07-2011,Alm. Salg,6.521,6,Villa,138,1900,-10 %,Aktuel værdi
+Rønnedevej 74683 Rønnede,nede,966.700,10-07-2011,Alm. Salg,5.967,4,Stuehus,162,2014,,
+Bøgevej 284683 Rønnede,nede,1.700.000,01-07-2011,Fam. Salg,6.093,5,Villa,279,2007,,Aktuel værdi
+Timianvej 134683 Rønnede,nede,757.126,01-07-2011,Fam. Salg,7.422,4,Rækkehus,102,2006,,Aktuel værdi
+Timianvej 24683 Rønnede,nede,1.275.000,01-06-2011,Alm. Salg,12.500,4,Rækkehus,102,2007,-1 %,Aktuel værdi
+Faxevej 354683 Rønnede,nede,4.030.000,31-05-2011,Alm. Salg,27.793,4,Stuehus,145,1915,,
+Bjerggårdsvej 54683 Rønnede,nede,1.100.000,23-05-2011,Fam. Salg,8.461,4,Villa,130,1890,,Aktuel værdi
+Tornemarksvej 124683 Rønnede,nede,1.994.000,18-05-2011,Alm. Salg,14.992,4,Stuehus,133,1895,,
+Drosselvej 54683 Rønnede,nede,875.000,03-05-2011,Alm. Salg,5.434,8,Villa,161,1974,0 %,Aktuel værdi
+Dyssevej 554683 Rønnede,nede,900.000,27-04-2011,Auktion,5.263,5,Villa,171,1900,,Aktuel værdi
+Rosenvej 174683 Rønnede,nede,1.100.000,25-04-2011,Alm. Salg,8.461,4,Villa,130,1967,-12 %,Aktuel værdi
+Svalevej 74683 Rønnede,nede,1.150.000,06-04-2011,Alm. Salg,9.913,4,Villa,116,1979,-3 %,Aktuel værdi
+Pilevej 134683 Rønnede,nede,1.025.000,17-03-2011,Alm. Salg,7.536,4,Villa,136,1972,-6 %,Aktuel værdi
+Højgårdsvej 414683 Rønnede,nede,625.000,03-03-2011,Alm. Salg,7.812,2,Villa,80,1880,,Aktuel værdi
+Faxevej 544683 Rønnede,nede,1.200.000,21-02-2011,Alm. Salg,4.800,4,Villa,250,1820,,Aktuel værdi
+Jyderupvej 474683 Rønnede,nede,755.000,11-02-2011,Alm. Salg,8.988,3,Villa,84,1962,-5 %,Aktuel værdi
+Bøgevej 534683 Rønnede,nede,1.400.000,20-01-2011,Alm. Salg,8.536,5,Villa,164,1973,-7 %,Aktuel værdi
+Hestevænget 24683 Rønnede,nede,1.300.000,19-01-2011,Fam. Salg,8.387,5,Villa,155,2008,,Aktuel værdi
+Boldbanen 94683 Rønnede,nede,1.485.000,18-01-2011,Alm. Salg,12.913,3,Rækkehus,115,2006,0 %,Aktuel værdi
+Sneden 154683 Rønnede,nede,85.725,04-01-2011,Alm. Salg,473,4,Villa,181,1928,,Aktuel værdi
+Birkegårdsvej 74683 Rønnede,nede,2.250.000,26-12-2010,Alm. Salg,11.842,6,Villa,190,1872,-10 %,Aktuel værdi
+Søndervej 34683 Rønnede,nede,800.000,19-11-2010,Alm. Salg,7.017,5,Villa,114,1954,0 %,Aktuel værdi
+Hasselvej 154683 Rønnede,nede,765.719,12-11-2010,Alm. Salg,5.630,5,Villa,136,1971,-52 %,Aktuel værdi
+Vibevej 64683 Rønnede,nede,1.200.000,07-11-2010,Alm. Salg,8.108,5,Villa,148,1971,-7 %,Aktuel værdi
+Vibevej 94683 Rønnede,nede,670.000,28-10-2010,Auktion,5.726,4,Villa,117,1970,,Aktuel værdi
+Boruphøj 134683 Rønnede,nede,3.095.000,13-10-2010,Alm. Salg,17.685,5,Villa,175,2008,-11 %,Aktuel værdi
+Akacievej 364683 Rønnede,nede,1.400.000,10-10-2010,Alm. Salg,12.612,3,Rækkehus,111,2007,-17 %,Aktuel værdi
+Højgårdsvej 464683 Rønnede,nede,220.832,30-09-2010,Alm. Salg,501,9,Stuehus,440,1880,,
+Kongstedvej 34683 Rønnede,nede,1.155.000,29-09-2010,Alm. Salg,7.356,6,Villa,157,1930,0 %,Aktuel værdi
+Møllevej 174683 Rønnede,nede,660.000,19-09-2010,Alm. Salg,5.196,6,Villa,127,1887,-5 %,Aktuel værdi
+Møllevangen 14683 Rønnede,nede,1.050.000,19-08-2010,Alm. Salg,12.804,2,Villa,82,1980,-7 %,Aktuel værdi
+Borupvej 484683 Rønnede,nede,627.000,17-08-2010,Alm. Salg,5.500,4,Villa,114,1947,-10 %,Aktuel værdi
+Gl. Næstvedvej 54683 Rønnede,nede,700.000,04-08-2010,Alm. Salg,6.140,3,Villa,114,1948,-7 %,Aktuel værdi
+Grunderupvej 24683 Rønnede,nede,700.000,22-07-2010,Alm. Salg,6.666,4,Villa,105,1962,-12 %,Aktuel værdi
+Skrænten 124683 Rønnede,nede,2.115.000,17-07-2010,Alm. Salg,13.301,5,Villa,159,1999,-8 %,Aktuel værdi
+Møllevej 264683 Rønnede,nede,770.500,06-07-2010,Andet,5.069,5,Villa,152,1924,,Aktuel værdi
+Boldbanen 144683 Rønnede,nede,1.470.000,24-06-2010,Alm. Salg,13.125,3,Rækkehus,112,2006,-2 %,Aktuel værdi
+Jyderupvej 49C4683 Rønnede,nede,945.000,11-06-2010,Alm. Salg,15.000,2,Rækkehus,63,1989,6 %,Aktuel værdi
+Tingerupvej 74683 Rønnede,nede,850.000,02-06-2010,Alm. Salg,6.538,5,Villa,130,1900,-15 %,Aktuel værdi
+Kærsangervej 24683 Rønnede,nede,1.670.000,01-06-2010,Alm. Salg,10.844,4,Villa,154,1973,-1 %,Aktuel værdi
+Bøgevej 364683 Rønnede,nede,1.000.000,17-05-2010,Alm. Salg,6.896,7,Villa,145,2005,0 %,Aktuel værdi
+Leestrupvej 64683 Rønnede,nede,1.240.000,10-05-2010,Alm. Salg,9.763,4,Villa,127,1850,-4 %,Aktuel værdi
+Dyssevej 614683 Rønnede,nede,330.000,14-04-2010,Alm. Salg,756,10,Villa,436,1917,-92 %,Aktuel værdi
+Vordingborgvej 5314683 Rønnede,nede,875.000,25-03-2010,Auktion,5.208,6,Villa,168,1950,-12 %,Aktuel værdi
+Musvitvej 24683 Rønnede,nede,1.750.000,23-03-2010,Alm. Salg,12.500,5,Villa,140,1973,-3 %,Aktuel værdi
+Industrivej 194683 Rønnede,nede,675.000,23-03-2010,Auktion,6.958,6,Detailhandel,97,1977,,Aktuel værdi
+Lindevej 154683 Rønnede,nede,1.200.000,23-03-2010,Alm. Salg,8.759,6,Villa,137,1968,-7 %,Aktuel værdi
+Irisvej 14683 Rønnede,nede,1.095.000,22-02-2010,Alm. Salg,11.406,3,Villa,96,1967,0 %,Aktuel værdi
+Timianvej 94683 Rønnede,nede,1.300.000,10-02-2010,Alm. Salg,12.745,4,Rækkehus,102,2008,-7 %,Aktuel værdi
+Dalgårdsvej 74683 Rønnede,nede,920.000,22-01-2010,Alm. Salg,8.761,4,Villa,105,1965,-2 %,Aktuel værdi
+Boruphøj 24683 Rønnede,nede,895.000,14-01-2010,Alm. Salg,7.276,4,Villa,123,2012,-10 %,Aktuel værdi
+Dyssevej 204683 Rønnede,nede,1.450.000,12-01-2010,Alm. Salg,9.062,7,Villa,160,1947,-5 %,Aktuel værdi
+"Vordingborgvej 530, 14683 Rønnede",nede,2.900.000,21-12-2009,Alm. Salg,-,5,Lejlighed,265,1825,,Aktuel værdi
+Birkegårdsvej 204683 Rønnede,nede,1.325.000,15-12-2009,Auktion,10.433,5,Stuehus,127,1908,,
+Leestrupvej 184683 Rønnede,nede,650.000,04-12-2009,Alm. Salg,3.023,5,Villa,215,2012,-27 %,Aktuel værdi
+Akacievej 144683 Rønnede,nede,1.450.000,26-11-2009,Alm. Salg,12.719,3,Rækkehus,114,2007,0 %,Aktuel værdi
+Duevej 24683 Rønnede,nede,1.150.000,25-11-2009,Auktion,9.583,4,Villa,120,1976,,Aktuel værdi
+Mosevej 34683 Rønnede,nede,736.000,24-11-2009,Alm. Salg,6.082,6,Villa,121,1955,,Aktuel værdi
+Bellisvej 24683 Rønnede,nede,1.330.000,13-11-2009,Alm. Salg,10.901,4,Villa,122,1967,-8 %,Aktuel værdi
+Rørsangervej 114683 Rønnede,nede,1.495.000,09-11-2009,Alm. Salg,9.707,5,Villa,154,1974,0 %,Aktuel værdi
+Gl. Næstvedvej 354683 Rønnede,nede,2.750.000,22-09-2009,Fam. Salg,37.671,3,Villa,73,1827,,Aktuel værdi
+Møllevej 754683 Rønnede,nede,1.032.500,27-08-2009,Andet,6.748,5,Villa,153,2004,-62 %,Aktuel værdi
+Hemmestrupvej 84683 Rønnede,nede,2.750.000,06-08-2009,Alm. Salg,17.857,3,Villa,154,1900,-14 %,Aktuel værdi
+Vordingborgvej 4914683 Rønnede,nede,850.000,05-08-2009,Alm. Salg,10.240,3,Villa,83,1924,0 %,Aktuel værdi
+Poppelvej 104683 Rønnede,nede,1.100.000,13-07-2009,Alm. Salg,7.801,5,Villa,141,1972,-8 %,Aktuel værdi
+Boldbanen 14683 Rønnede,nede,1.375.000,07-07-2009,Alm. Salg,12.276,3,Rækkehus,112,2006,0 %,Aktuel værdi
+Industrivej 144683 Rønnede,nede,1.800.000,06-07-2009,Alm. Salg,13.636,5,Villa,132,1973,,Aktuel værdi
+Pilevej 74683 Rønnede,nede,775.000,03-07-2009,Fam. Salg,6.623,4,Villa,117,1970,,Aktuel værdi
+Rypevej 84683 Rønnede,nede,1.100.000,25-06-2009,Alm. Salg,8.661,5,Villa,127,1979,-21 %,Aktuel værdi
+Vordingborgvej 5734683 Rønnede,nede,2.050.000,21-06-2009,Alm. Salg,20.707,3,Stuehus,99,1966,-16 %,
+Kærvej 84683 Rønnede,nede,1.900.000,04-06-2009,Alm. Salg,11.728,5,Villa,162,1938,-5 %,Aktuel værdi
+Musvitvej 114683 Rønnede,nede,1.200.000,01-06-2009,Alm. Salg,8.571,5,Villa,140,1973,-14 %,Aktuel værdi
+Birkegårdsvej 34683 Rønnede,nede,1.225.000,17-05-2009,Alm. Salg,10.937,3,Villa,112,1896,-5 %,Aktuel værdi
+Højgårdsvej 34683 Rønnede,nede,3.485.000,07-05-2009,Alm. Salg,11.975,4,Villa,291,1910,-13 %,Aktuel værdi
+Bøgevej 414683 Rønnede,nede,838.926,23-04-2009,Andet,5.447,5,Villa,154,1972,,Aktuel værdi
+Gl. Næstvedvej 44683 Rønnede,nede,580.000,08-04-2009,Alm. Salg,8.285,4,Villa,70,1964,,Aktuel værdi
+Kongstedvej 2A4683 Rønnede,nede,995.000,07-04-2009,Alm. Salg,9.950,4,Villa,100,1958,0 %,Aktuel værdi
+Duevej 124683 Rønnede,nede,525.000,02-04-2009,Andet,3.322,5,Villa,158,1976,,Aktuel værdi
+Møllevej 64683 Rønnede,nede,900.000,19-01-2009,Alm. Salg,6.293,5,Villa,143,1900,-22 %,Aktuel værdi
+Lurhøjvej 114683 Rønnede,nede,1.318.000,29-12-2008,Alm. Salg,-,3,Stuehus,90,1900,,
+Dyssevej 674683 Rønnede,nede,1.695.000,17-12-2008,Andet,13.038,4,Villa,130,1967,0 %,Aktuel værdi
+Gl. Næstvedvej 214683 Rønnede,nede,1.225.000,08-12-2008,Alm. Salg,9.496,5,Villa,129,1924,-2 %,Aktuel værdi
+Birkelunden 34683 Rønnede,nede,1.000.000,21-11-2008,Alm. Salg,5.076,5,Villa,197,1900,-33 %,Aktuel værdi
+Boruphøj 114683 Rønnede,nede,359.350,12-11-2008,Andet,2.089,4,Villa,172,2010,-88 %,Aktuel værdi
+Timianvej 84683 Rønnede,nede,946.600,10-11-2008,Alm. Salg,9.280,4,Rækkehus,102,2008,,Aktuel værdi
+Uglevej 84683 Rønnede,nede,900.000,20-10-2008,Fam. Salg,8.035,4,Villa,112,1979,,Aktuel værdi
+Svalevej 94683 Rønnede,nede,2.900.000,15-10-2008,Alm. Salg,17.159,6,Villa,169,1976,-15 %,Aktuel værdi
+Kongstedvej 184683 Rønnede,nede,800.000,06-10-2008,Alm. Salg,11.428,3,Villa,70,1963,,Aktuel værdi
+Tranevej 144683 Rønnede,nede,1.370.000,02-10-2008,Alm. Salg,14.891,3,Rækkehus,92,1988,-2 %,Aktuel værdi
+Tornemarksvej 54683 Rønnede,nede,1.428.000,11-09-2008,Fam. Salg,6.490,5,Villa,220,1920,,Aktuel værdi
+Industrivej 34683 Rønnede,nede,1.750.000,04-09-2008,Alm. Salg,14.583,4,Villa,120,1977,,Aktuel værdi
+Dyssevej 304683 Rønnede,nede,1.400.000,18-08-2008,Alm. Salg,11.764,4,Villa,119,1967,-9 %,Aktuel værdi
+Gl. Næstvedvej 35A4683 Rønnede,nede,1.700.000,05-08-2008,Alm. Salg,13.385,4,Villa,127,1978,-5 %,Aktuel værdi
+Hegnstoften 64683 Rønnede,nede,1.700.000,31-07-2008,Alm. Salg,7.053,8,Villa,241,2012,-4 %,Aktuel værdi
+Kongstedvej 164683 Rønnede,nede,1.375.000,26-06-2008,Alm. Salg,11.270,4,Villa,122,1967,-2 %,Aktuel værdi
+Bøgevej 554683 Rønnede,nede,1.275.000,15-06-2008,Alm. Salg,12.623,3,Villa,101,1892,-6 %,Aktuel værdi
+Grunderupvej 124683 Rønnede,nede,1.375.000,12-06-2008,Alm. Salg,12.168,4,Villa,113,1946,0 %,Aktuel værdi
+Elmevej 104683 Rønnede,nede,2.100.000,06-06-2008,Alm. Salg,15.441,5,Villa,136,2001,-4 %,Aktuel værdi
+Akacievej 204683 Rønnede,nede,1.785.000,06-06-2008,Alm. Salg,16.081,3,Rækkehus,111,2007,0 %,Aktuel værdi
+Boldbanen 44683 Rønnede,nede,1.725.000,02-06-2008,Alm. Salg,15.540,3,Rækkehus,111,2006,,Aktuel værdi
+Drosselvej 64683 Rønnede,nede,2.525.000,08-04-2008,Alm. Salg,11.744,6,Villa,215,1973,-6 %,Aktuel værdi
+Dyssevej 634683 Rønnede,nede,1.020.000,28-03-2008,Fam. Salg,8.031,5,Villa,127,1962,,Aktuel værdi
+Tranevej 84683 Rønnede,nede,1.450.000,20-02-2008,Alm. Salg,9.006,5,Villa,161,1972,,Aktuel værdi
+Rypevej 74683 Rønnede,nede,1.900.000,14-02-2008,Alm. Salg,14.615,4,Villa,130,1980,-8 %,Aktuel værdi
+Lyngvej 254683 Rønnede,nede,1.100.000,12-02-2008,Alm. Salg,14.864,3,Villa,74,1961,-6 %,Aktuel værdi
+Borupvej 134683 Rønnede,nede,1.495.000,26-01-2008,Alm. Salg,11.240,4,Villa,133,1964,0 %,Aktuel værdi
+Skov-Torupvej 134683 Rønnede,nede,9.500.000,25-01-2008,Alm. Salg,56.547,4,Stuehus,168,1917,,
+Akacievej 304683 Rønnede,nede,1.965.000,16-01-2008,Alm. Salg,17.236,3,Rækkehus,114,2007,,Aktuel værdi
+Elmevej 274683 Rønnede,nede,1.191.500,12-01-2008,Alm. Salg,7.787,6,Villa,153,2003,,Aktuel værdi
+Pilevej 114683 Rønnede,nede,1.800.000,10-01-2008,Alm. Salg,12.000,6,Villa,150,1969,-10 %,Aktuel værdi
+Vordingborgvej 5384683 Rønnede,nede,1.440.000,30-12-2007,Alm. Salg,5.925,6,Villa,243,1900,,Aktuel værdi
+Rosenvej 74683 Rønnede,nede,2.600.000,20-12-2007,Alm. Salg,16.883,6,Villa,154,1967,0 %,Aktuel værdi
+Dyssevej 14683 Rønnede,nede,2.835.000,15-12-2007,Alm. Salg,9.295,7,Villa,305,1872,0 %,Aktuel værdi
+Lyngvej 274683 Rønnede,nede,1.410.000,29-11-2007,Alm. Salg,16.987,3,Villa,83,1955,-6 %,Aktuel værdi
+Gl. Næstvedvej 274683 Rønnede,nede,1.640.000,24-11-2007,Alm. Salg,14.385,5,Villa,114,1904,,Aktuel værdi
+Borupvej 114683 Rønnede,nede,1.345.000,20-11-2007,Alm. Salg,9.539,3,Villa,141,1937,0 %,Aktuel værdi
+Vibevej 104683 Rønnede,nede,2.700.000,18-11-2007,Fam. Salg,15.254,6,Villa,177,1970,8 %,Aktuel værdi
+Borupvej 684683 Rønnede,nede,2.595.000,14-11-2007,Alm. Salg,-,5,Stuehus,206,1885,0 %,
+Skov-Torupvej 114683 Rønnede,nede,539.852,05-11-2007,Alm. Salg,5.398,4,Villa,100,1780,,Aktuel værdi
+Nymarksvej 434683 Rønnede,nede,1.525.000,02-11-2007,Alm. Salg,17.732,2,Rækkehus,86,1897,0 %,Aktuel værdi
+Birkegårdsvej 54683 Rønnede,nede,655.000,30-10-2007,Alm. Salg,-,4,Villa,110,1890,,Aktuel værdi
+Høgevej 64683 Rønnede,nede,1.649.000,20-10-2007,Alm. Salg,13.406,5,Villa,123,1979,,Aktuel værdi
+Vordingborgvej 5574683 Rønnede,nede,2.200.000,18-10-2007,Alm. Salg,20.000,3,Villa,110,1905,-8 %,Aktuel værdi
+Boruphøj 14683 Rønnede,nede,885.000,17-10-2007,Alm. Salg,6.807,4,Villa,130,2011,,Aktuel værdi
+Vordingborgvej 4814683 Rønnede,nede,4.300.000,08-10-2007,Alm. Salg,23.626,7,Villa,182,1885,,Aktuel værdi
+Vordingborgvej 4794683 Rønnede,nede,3.975.000,07-10-2007,Alm. Salg,25.158,8,Stuehus,158,1955,,
+Boruphøj 84683 Rønnede,nede,885.000,03-10-2007,Alm. Salg,4.944,5,Villa,179,2008,-70 %,Aktuel værdi
+Lyngvej 14683 Rønnede,nede,1.650.000,30-09-2007,Alm. Salg,10.714,5,Villa,154,1957,,Aktuel værdi
+Akacievej 384683 Rønnede,nede,1.660.000,10-09-2007,Alm. Salg,14.954,3,Rækkehus,111,2007,,Aktuel værdi
+Svalevej 54683 Rønnede,nede,570.250,05-09-2007,Andet,4.873,4,Villa,117,1979,,Aktuel værdi
+Akacievej 94683 Rønnede,nede,1.735.000,28-08-2007,Alm. Salg,15.630,3,Rækkehus,111,2007,,Aktuel værdi
+Sneden 324683 Rønnede,nede,2.200.000,20-08-2007,Alm. Salg,10.784,5,Stuehus,204,1930,-4 %,
+Dyssevænget 154683 Rønnede,nede,2.870.000,17-08-2007,Alm. Salg,17.083,5,Villa,168,1991,-4 %,Aktuel værdi
+Akacievej 194683 Rønnede,nede,1.660.000,14-08-2007,Alm. Salg,14.954,3,Rækkehus,111,2007,,Aktuel værdi
+Møllevej 414683 Rønnede,nede,1.950.000,23-07-2007,Alm. Salg,12.341,5,Villa,158,1946,-2 %,Aktuel værdi
+Møllevej 31A4683 Rønnede,nede,1.095.000,13-07-2007,Alm. Salg,8.423,4,Villa,130,1936,,Aktuel værdi
+Hasselvej 84683 Rønnede,nede,1.575.000,12-07-2007,Alm. Salg,13.577,4,Villa,116,1971,0 %,Aktuel værdi
+Møllevej 224683 Rønnede,nede,2.180.000,28-06-2007,Andet,16.148,3,Villa,135,1920,,Aktuel værdi
+Akacievej 174683 Rønnede,nede,1.710.000,12-06-2007,Alm. Salg,15.405,3,Rækkehus,111,2007,,Aktuel værdi
+Akacievej 344683 Rønnede,nede,1.660.000,11-06-2007,Alm. Salg,14.954,3,Rækkehus,111,2007,,Aktuel værdi
+Akacievej 214683 Rønnede,nede,1.660.000,10-06-2007,Alm. Salg,14.954,3,Rækkehus,111,2007,,Aktuel værdi
+Boldbanen 174683 Rønnede,nede,1.800.000,07-06-2007,Alm. Salg,16.216,3,Rækkehus,111,2006,,Aktuel værdi
+Akacievej 324683 Rønnede,nede,1.710.000,05-06-2007,Alm. Salg,15.000,3,Rækkehus,114,2007,,Aktuel værdi
+Nymarksvej 294683 Rønnede,nede,894.405,01-06-2007,Andet,5.962,4,Villa,150,1972,,Aktuel værdi
+Akacievej 14683 Rønnede,nede,1.800.000,01-06-2007,Alm. Salg,15.789,3,Rækkehus,114,2007,,Aktuel værdi
+Jyderupvej 544683 Rønnede,nede,1.250.000,31-05-2007,Alm. Salg,11.574,4,Villa,108,1887,,Aktuel værdi
+Hestevænget 74683 Rønnede,nede,1.450.000,24-05-2007,Fam. Salg,10.139,4,Villa,143,2008,,Aktuel værdi
+Vordingborgvej 5654683 Rønnede,nede,1.850.000,18-05-2007,Alm. Salg,10.511,4,Villa,176,1943,0 %,Aktuel værdi
+Poppelvej 124683 Rønnede,nede,1.780.000,08-05-2007,Alm. Salg,13.906,4,Villa,128,1972,,Aktuel værdi
+Faxevej 314683 Rønnede,nede,1.070.000,03-05-2007,Alm. Salg,15.735,2,Villa,68,1897,,Aktuel værdi
+Lindevej 214683 Rønnede,nede,2.285.000,03-05-2007,Alm. Salg,17.992,4,Villa,127,1998,,Aktuel værdi
+Ny Næstvedvej 344683 Rønnede,nede,1.257.500,28-04-2007,Alm. Salg,7.311,4,Villa,172,1880,-3 %,Aktuel værdi
+Dyssevej 294683 Rønnede,nede,759.500,13-04-2007,Fam. Salg,4.776,6,Villa,159,1937,,Aktuel værdi
+Akacievej 244683 Rønnede,nede,1.710.000,09-04-2007,Alm. Salg,15.000,3,Rækkehus,114,2007,,Aktuel værdi
+Boruphøj 34683 Rønnede,nede,785.000,08-04-2007,Alm. Salg,3.944,6,Villa,199,2010,-66 %,Aktuel værdi
+Akacievej 64683 Rønnede,nede,1.710.000,16-03-2007,Alm. Salg,15.000,3,Rækkehus,114,2007,,Aktuel værdi
+Akacievej 264683 Rønnede,nede,1.660.000,01-03-2007,Alm. Salg,14.954,3,Rækkehus,111,2007,,Aktuel værdi
+Lindevej 294683 Rønnede,nede,1.385.000,28-02-2007,Alm. Salg,13.066,4,Villa,106,1972,0 %,Aktuel værdi
+Akacievej 44683 Rønnede,nede,1.660.000,27-02-2007,Alm. Salg,14.954,3,Rækkehus,111,2007,,Aktuel værdi
+Dyssevej 14A4683 Rønnede,nede,2.150.000,23-02-2007,Alm. Salg,14.333,4,Villa,150,1900,,Aktuel værdi
+Elmevej 184683 Rønnede,nede,2.400.000,21-02-2007,Alm. Salg,18.320,4,Villa,131,2002,,Aktuel værdi
+Akacievej 134683 Rønnede,nede,1.710.000,10-02-2007,Alm. Salg,15.000,3,Rækkehus,114,2007,,Aktuel værdi
+Hestehavevej 114683 Rønnede,nede,1.200.000,15-01-2007,Alm. Salg,9.160,4,Villa,131,1926,,Aktuel værdi
+Akacievej 154683 Rønnede,nede,1.710.000,15-01-2007,Alm. Salg,15.000,3,Rækkehus,114,2007,,Aktuel værdi
+Akacievej 164683 Rønnede,nede,1.710.000,15-01-2007,Alm. Salg,15.000,3,Rækkehus,114,2007,,Aktuel værdi
+Akacievej 84683 Rønnede,nede,1.710.000,13-01-2007,Alm. Salg,15.000,3,Rækkehus,114,2007,,Aktuel værdi
+Nymarksvej 384683 Rønnede,nede,2.200.000,12-01-2007,Alm. Salg,13.333,5,Villa,165,1902,,Aktuel værdi
+Akacievej 24683 Rønnede,nede,1.710.000,08-01-2007,Alm. Salg,15.405,3,Rækkehus,111,2007,,Aktuel værdi
+Irisvej 44683 Rønnede,nede,1.685.000,04-01-2007,Alm. Salg,15.896,4,Villa,106,1967,,Aktuel værdi
+Birkevej 304683 Rønnede,nede,1.400.000,02-01-2007,Alm. Salg,12.389,4,Villa,113,1967,,Aktuel værdi
+Fuksiavej 74683 Rønnede,nede,750.000,15-12-2006,Alm. Salg,4.746,6,Villa,158,2008,,Aktuel værdi
+Fuksiavej 34683 Rønnede,nede,650.000,13-12-2006,Alm. Salg,3.250,6,Villa,200,2008,,Aktuel værdi
+Faxevej 324683 Rønnede,nede,1.945.000,06-12-2006,Alm. Salg,11.577,4,Villa,168,1900,,Aktuel værdi
+Fuksiavej 24683 Rønnede,nede,575.000,01-12-2006,Alm. Salg,3.484,6,Villa,165,2007,,Aktuel værdi
+Bøgevej 224683 Rønnede,nede,2.161.000,01-12-2006,Alm. Salg,10.914,4,Villa,198,1800,,Aktuel værdi
+Svennerupvej 74683 Rønnede,nede,1.999.000,19-11-2006,Alm. Salg,15.259,4,Villa,131,1827,,Aktuel værdi
+Akacievej 54683 Rønnede,nede,1.710.000,16-11-2006,Alm. Salg,15.405,3,Rækkehus,111,2006,,Aktuel værdi
+Rosenvej 44683 Rønnede,nede,2.200.000,06-11-2006,Alm. Salg,17.460,4,Villa,126,1968,,Aktuel værdi
+Akacievej 74683 Rønnede,nede,1.710.000,02-11-2006,Alm. Salg,15.000,3,Rækkehus,114,2007,,Aktuel værdi
+Akacievej 224683 Rønnede,nede,1.710.000,02-11-2006,Alm. Salg,15.000,3,Rækkehus,114,2007,,Aktuel værdi
+Nymarksvej 42B4683 Rønnede,nede,1.130.000,25-10-2006,Alm. Salg,13.139,3,Rækkehus,86,1897,,Aktuel værdi
+Vordingborgvej 5104683 Rønnede,nede,5.500.000,16-10-2006,Alm. Salg,11.247,5,Villa,489,1953,,Aktuel værdi
+Tranevej 164683 Rønnede,nede,1.085.000,13-10-2006,Alm. Salg,14.863,2,Rækkehus,73,1988,,Aktuel værdi
+Industrivej 374683 Rønnede,nede,2.250.000,02-10-2006,Alm. Salg,14.423,5,Villa,156,1988,,Aktuel værdi
+Nymarksvej 364683 Rønnede,nede,1.785.000,29-09-2006,Alm. Salg,-,7,Villa,201,1897,,Aktuel værdi
+Ny Næstvedvej 154683 Rønnede,nede,2.800.000,29-09-2006,Alm. Salg,21.705,3,Stuehus,129,1930,,
+Kongstedvej 9A4683 Rønnede,nede,1.700.000,19-09-2006,Alm. Salg,12.230,5,Villa,139,1978,,Aktuel værdi
+Svalevej 44683 Rønnede,nede,2.455.000,16-09-2006,Alm. Salg,15.838,4,Villa,155,1978,,Aktuel værdi
+Vestervej 74683 Rønnede,nede,1.275.000,06-09-2006,Alm. Salg,10.450,4,Villa,122,1965,,Aktuel værdi
+Gl. Næstvedvej 234683 Rønnede,nede,1.245.000,31-08-2006,Alm. Salg,10.550,5,Villa,118,1920,,Aktuel værdi
+Uglevej 74683 Rønnede,nede,1.700.000,28-08-2006,Alm. Salg,13.281,4,Villa,128,1980,,Aktuel værdi
+Vordingborgvej 5114683 Rønnede,nede,3.145.000,22-08-2006,Fam. Salg,17.000,5,Villa,185,1930,,Aktuel værdi
+Slettehavevej 494683 Rønnede,nede,1.800.000,13-08-2006,Alm. Salg,10.909,5,Villa,165,1872,,Aktuel værdi
+Dyssevænget 74683 Rønnede,nede,2.600.000,11-08-2006,Alm. Salg,16.774,6,Villa,155,1920,,Aktuel værdi
+Rørsangervej 24683 Rønnede,nede,1.350.000,10-08-2006,Alm. Salg,9.782,4,Villa,138,1974,,Aktuel værdi
+Glentevej 94683 Rønnede,nede,1.799.000,04-08-2006,Alm. Salg,16.813,4,Villa,107,1987,,Aktuel værdi
+Bøgevej 594683 Rønnede,nede,2.595.000,31-07-2006,Alm. Salg,18.804,5,Villa,138,2006,,Aktuel værdi
+Dyssevej 264683 Rønnede,nede,1.395.000,31-07-2006,Alm. Salg,10.648,5,Villa,131,1967,,Aktuel værdi
+Borupvej 604683 Rønnede,nede,2.050.000,13-07-2006,Alm. Salg,10.512,6,Stuehus,195,1926,,
+Gl. Næstvedvej 154683 Rønnede,nede,1.650.000,22-06-2006,Alm. Salg,13.095,5,Villa,126,2002,,Aktuel værdi
+Gl. Næstvedvej 314683 Rønnede,nede,1.280.000,19-06-2006,Alm. Salg,10.578,5,Villa,121,1956,,Aktuel værdi
+Mosevej 14683 Rønnede,nede,1.200.000,19-06-2006,Fam. Salg,12.244,5,Villa,98,1965,,Aktuel værdi
+Kongstedvej 94683 Rønnede,nede,1.075.000,15-06-2006,Alm. Salg,14.726,4,Villa,73,1943,,Aktuel værdi
+Boldbanen 64683 Rønnede,nede,1.450.000,13-06-2006,Alm. Salg,12.946,3,Rækkehus,112,2006,,Aktuel værdi
+Boldbanen 84683 Rønnede,nede,1.450.000,08-06-2006,Alm. Salg,12.946,3,Rækkehus,112,2006,,Aktuel værdi
+Boldbanen 104683 Rønnede,nede,1.475.000,07-06-2006,Alm. Salg,13.169,3,Rækkehus,112,2006,,Aktuel værdi
+Faxevej 334683 Rønnede,nede,945.000,07-06-2006,Alm. Salg,11.524,3,Villa,82,1897,,Aktuel værdi
+Høgevej 24683 Rønnede,nede,1.695.000,02-06-2006,Alm. Salg,12.463,4,Villa,136,1979,,Aktuel værdi
+Duevej 94683 Rønnede,nede,1.385.000,29-05-2006,Alm. Salg,11.939,4,Villa,116,1977,,Aktuel værdi
+Skoverupvej 44683 Rønnede,nede,741.225,29-05-2006,Fam. Salg,7.641,3,Villa,97,1900,,Aktuel værdi
+Bellisvej 94683 Rønnede,nede,1.050.000,29-05-2006,Fam. Salg,11.666,4,Villa,90,1965,,Aktuel værdi
+Sneden 314683 Rønnede,nede,871.602,29-05-2006,Alm. Salg,3.631,7,Villa,240,1850,,Aktuel værdi
+Timianvej 124683 Rønnede,nede,1.345.000,29-05-2006,Alm. Salg,13.186,4,Rækkehus,102,2008,,Aktuel værdi
+Dyssevej 16A4683 Rønnede,nede,495.000,24-05-2006,Alm. Salg,-,3,Rækkehus,87,1780,,Aktuel værdi
+Dalgårdsvej 54683 Rønnede,nede,1.595.000,24-05-2006,Alm. Salg,12.658,5,Villa,126,1967,,Aktuel værdi
+Kærsangervej 64683 Rønnede,nede,1.630.000,23-05-2006,Alm. Salg,11.642,5,Villa,140,1975,,Aktuel værdi
+Leestrupvej 144683 Rønnede,nede,800.000,16-05-2006,Alm. Salg,3.200,7,Villa,250,2009,,Aktuel værdi
+Glentevej 44683 Rønnede,nede,1.775.000,05-05-2006,Fam. Salg,14.087,4,Villa,126,1987,,Aktuel værdi
+Hylledevej 304683 Rønnede,nede,2.200.050,01-05-2006,Alm. Salg,12.088,6,Villa,182,1907,,Aktuel værdi
+Eskilstrupvej 254683 Rønnede,nede,2.150.025,01-05-2006,Alm. Salg,12.147,5,Villa,177,1957,,Aktuel værdi
+Faxevej 474683 Rønnede,nede,1.675.000,28-04-2006,Alm. Salg,13.085,4,Villa,128,1877,,Aktuel værdi
+Elmevej 17B4683 Rønnede,nede,1.495.000,18-04-2006,Alm. Salg,14.950,3,Rækkehus,100,2003,,Aktuel værdi
+Elmevej 154683 Rønnede,nede,1.687.000,10-04-2006,Alm. Salg,14.929,3,Villa,113,2003,,Aktuel værdi
+Nymarksvej 74683 Rønnede,nede,1.245.000,29-03-2006,Alm. Salg,10.289,5,Villa,121,1949,,Aktuel værdi
+Borupvej 254683 Rønnede,nede,2.578.000,27-03-2006,Alm. Salg,6.696,11,Villa,385,1904,,Aktuel værdi
+Timianvej 34683 Rønnede,nede,1.285.250,27-03-2006,Alm. Salg,12.600,4,Rækkehus,102,2008,,Aktuel værdi
+Timianvej 14683 Rønnede,nede,1.285.250,27-03-2006,Alm. Salg,12.600,4,Rækkehus,102,2008,,Aktuel værdi
+Løvsangervej 84683 Rønnede,nede,1.600.000,21-03-2006,Alm. Salg,11.940,5,Villa,134,1973,,Aktuel værdi
+Boldbanen 184683 Rønnede,nede,1.475.000,20-03-2006,Alm. Salg,12.826,3,Rækkehus,115,2006,,Aktuel værdi
+Boldbanen 164683 Rønnede,nede,1.450.000,20-03-2006,Alm. Salg,12.946,3,Rækkehus,112,2006,,Aktuel værdi
+Boldbanen 74683 Rønnede,nede,1.450.000,20-03-2006,Alm. Salg,13.063,3,Rækkehus,111,2006,,Aktuel værdi
+Møllevej 454683 Rønnede,nede,1.435.000,13-03-2006,Alm. Salg,6.612,7,Villa,217,1969,,Aktuel værdi
+Lyngvej 54683 Rønnede,nede,2.455.000,13-03-2006,Alm. Salg,9.742,5,Villa,252,1978,,Aktuel værdi
+Dyssevej 194683 Rønnede,nede,590.000,13-03-2006,Fam. Salg,7.375,5,Villa,80,1860,,Aktuel værdi
+Pilevej 124683 Rønnede,nede,1.825.000,13-03-2006,Alm. Salg,11.624,7,Villa,157,1971,,Aktuel værdi
+Timianvej 74683 Rønnede,nede,1.345.000,13-03-2006,Alm. Salg,13.186,4,Rækkehus,102,2006,,Aktuel værdi
+Timianvej 154683 Rønnede,nede,1.435.000,13-03-2006,Alm. Salg,14.068,4,Rækkehus,102,2006,,Aktuel værdi
+Ørnevej 84683 Rønnede,nede,1.945.000,13-03-2006,Alm. Salg,13.413,4,Villa,145,1980,,Aktuel værdi
+Bjerggårdsvej 104683 Rønnede,nede,3.367.980,20-02-2006,Alm. Salg,18.404,7,Stuehus,183,1991,,
+Hestehavevej 64683 Rønnede,nede,1.130.000,16-02-2006,Alm. Salg,10.761,4,Villa,105,1865,,Aktuel værdi
+Dyssevej 594683 Rønnede,nede,1.140.000,29-01-2006,Alm. Salg,12.000,3,Villa,95,1966,,Aktuel værdi
+Tornemarksvej 94683 Rønnede,nede,96.360,21-01-2006,Alm. Salg,577,7,Stuehus,167,1890,,
+Dyssevænget 54683 Rønnede,nede,841.563,15-01-2006,Alm. Salg,4.921,5,Villa,171,1979,,Aktuel værdi
+Fasanvej 24683 Rønnede,nede,1.775.000,07-01-2006,Alm. Salg,11.833,5,Villa,150,1969,,Aktuel værdi
+Bøgevej 614683 Rønnede,nede,447.260,02-01-2006,Alm. Salg,3.440,5,Villa,130,2007,,Aktuel værdi
+Granvej 74683 Rønnede,nede,1.198.000,16-12-2005,Alm. Salg,11.092,4,Villa,108,1972,,Aktuel værdi
+Boldbanen 54683 Rønnede,nede,1.450.000,06-12-2005,Alm. Salg,12.946,3,Rækkehus,112,2006,,Aktuel værdi
+Bellisvej 134683 Rønnede,nede,1.375.000,01-12-2005,Alm. Salg,12.971,5,Villa,106,1966,,Aktuel værdi
+Bøgevej 274683 Rønnede,nede,1.275.000,23-11-2005,Alm. Salg,10.991,4,Villa,116,1971,,Aktuel værdi
+Birkevej 324683 Rønnede,nede,1.595.000,21-11-2005,Alm. Salg,10.357,4,Villa,154,1966,,Aktuel værdi
+Boldbanen 154683 Rønnede,nede,1.450.000,11-11-2005,Alm. Salg,12.946,3,Rækkehus,112,2006,,Aktuel værdi
+Hestevænget 34683 Rønnede,nede,161.100,08-11-2005,Alm. Salg,988,6,Villa,163,2007,,Aktuel værdi
+Nymarksvej 374683 Rønnede,nede,400.000,07-11-2005,Fam. Salg,3.076,4,Villa,130,1866,,Aktuel værdi
+Tranevej 64683 Rønnede,nede,1.425.000,07-11-2005,Alm. Salg,11.875,5,Villa,120,1969,,Aktuel værdi
+Bøgevej 264683 Rønnede,nede,445.360,21-10-2005,Alm. Salg,2.650,6,Villa,168,2009,,Aktuel værdi
+Bøgevej 324683 Rønnede,nede,382.280,10-10-2005,Alm. Salg,2.548,6,Villa,150,2007,,Aktuel værdi
+Ny Næstvedvej 384683 Rønnede,nede,1.675.000,30-09-2005,Alm. Salg,10.601,6,Villa,158,1918,,Aktuel værdi
+Bøgevej 674683 Rønnede,nede,420.660,26-09-2005,Alm. Salg,2.403,6,Villa,175,2006,,Aktuel værdi
+Lurhøjvej 34683 Rønnede,nede,925.000,20-09-2005,Alm. Salg,-,4,Villa,114,1830,,Aktuel værdi
+Musvitvej 104683 Rønnede,nede,1.695.000,19-09-2005,Alm. Salg,12.649,4,Villa,134,1974,,Aktuel værdi
+Skrænten 154683 Rønnede,nede,2.120.000,15-09-2005,Alm. Salg,14.825,4,Villa,143,1998,,Aktuel værdi
+Bøgevej 574683 Rønnede,nede,382.280,08-09-2005,Alm. Salg,2.389,5,Villa,160,2006,,Aktuel værdi
+Duevej 84683 Rønnede,nede,1.775.000,07-09-2005,Alm. Salg,15.170,4,Villa,117,1977,,Aktuel værdi
+Møllevej 844683 Rønnede,nede,66.000,26-08-2005,Alm. Salg,268,8,Stuehus,246,1908,,
+Boldbanen 114683 Rønnede,nede,1.475.000,25-08-2005,Alm. Salg,13.169,3,Rækkehus,112,2006,,Aktuel værdi
+Møllevej 914683 Rønnede,nede,875.000,25-08-2005,Alm. Salg,8.027,4,Villa,109,1877,,Aktuel værdi
+Kongstedvej 64683 Rønnede,nede,965.000,25-08-2005,Alm. Salg,10.376,2,Villa,93,1978,,Aktuel værdi
+Jyderupvej 354683 Rønnede,nede,785.000,24-08-2005,Alm. Salg,-,7,Villa,196,1856,,Aktuel værdi
+Boldbanen 194683 Rønnede,nede,1.475.000,23-08-2005,Alm. Salg,12.826,3,Rækkehus,115,2006,,Aktuel værdi
+Nymarksvej 42A4683 Rønnede,nede,900.000,22-08-2005,Alm. Salg,-,3,Rækkehus,141,1897,,Aktuel værdi
+Leestrupvej 74683 Rønnede,nede,1.155.000,16-08-2005,Alm. Salg,8.816,6,Villa,131,1965,,Aktuel værdi
+Saksholmvej 144683 Rønnede,nede,1.289.999,09-08-2005,Alm. Salg,12.772,4,Villa,101,1910,,Aktuel værdi
+Møllevej 614683 Rønnede,nede,1.850.000,08-08-2005,Alm. Salg,17.788,4,Villa,104,1877,,Aktuel værdi
+Vordingborgvej 5514683 Rønnede,nede,615.000,28-07-2005,Alm. Salg,7.151,3,Villa,86,1808,,Aktuel værdi
+Skrænten 24683 Rønnede,nede,2.250.000,25-07-2005,Alm. Salg,13.636,4,Villa,165,1993,,Aktuel værdi
+Skov-Torupvej 254683 Rønnede,nede,1.995.000,19-07-2005,Alm. Salg,11.875,7,Stuehus,168,1877,,
+Leestrupvej 34683 Rønnede,nede,1.095.000,07-07-2005,Alm. Salg,8.171,3,Villa,134,1877,,Aktuel værdi
+Kærvej 104683 Rønnede,nede,598.000,30-06-2005,Alm. Salg,6.719,6,Villa,89,1820,,Aktuel værdi
+Elmevej 17A4683 Rønnede,nede,1.375.000,22-06-2005,Alm. Salg,13.750,3,Rækkehus,100,2004,,Aktuel værdi
+Dalgårdsvej 204683 Rønnede,nede,2.950.000,21-06-2005,Alm. Salg,21.071,4,Stuehus,140,1905,,
+Dyssevænget 104683 Rønnede,nede,1.481.300,20-06-2005,Alm. Salg,10.891,4,Villa,136,1980,,Aktuel værdi
+Højgårdsvej 454683 Rønnede,nede,800.000,15-06-2005,Alm. Salg,8.333,3,Villa,96,1900,,Aktuel værdi
+Birkevej 214683 Rønnede,nede,1.000.000,15-06-2005,Fam. Salg,9.523,3,Villa,105,1967,,Aktuel værdi
+Bøgevej 164683 Rønnede,nede,1.105.000,13-06-2005,Alm. Salg,9.608,4,Villa,115,1971,,Aktuel værdi
+Hestevænget 14683 Rønnede,nede,330.300,13-06-2005,Alm. Salg,2.103,5,Villa,157,2008,,Aktuel værdi
+Bøgevej 334683 Rønnede,nede,1.330.000,09-06-2005,Alm. Salg,10.991,3,Villa,121,1972,,Aktuel værdi
+Kongstedvej 44683 Rønnede,nede,915.000,02-06-2005,Alm. Salg,10.517,3,Villa,87,1967,,Aktuel værdi
+Kærsangervej 44683 Rønnede,nede,1.495.000,31-05-2005,Alm. Salg,11.156,5,Villa,134,1973,,Aktuel værdi
+Skrænten 114683 Rønnede,nede,400.000,28-05-2005,Alm. Salg,2.185,7,Villa,183,2007,,Aktuel værdi
+Ny Næstvedvej 5A4683 Rønnede,nede,1.890.000,22-05-2005,Alm. Salg,16.016,4,Villa,118,1876,,Aktuel værdi
+Skov-Torupvej 274683 Rønnede,nede,2.850.000,16-05-2005,Alm. Salg,10.215,7,Villa,279,1900,,Aktuel værdi
+Drosselvej 74683 Rønnede,nede,1.250.000,11-05-2005,Alm. Salg,9.615,4,Villa,130,1969,,Aktuel værdi
+Gl. Næstvedvej 544683 Rønnede,nede,425.000,09-05-2005,Alm. Salg,1.344,8,Stuehus,316,1850,,
+Industrivænget 54683 Rønnede,nede,2.250.000,02-05-2005,Alm. Salg,8.333,6,Villa,270,1850,,Aktuel værdi
+Dyssevænget 134683 Rønnede,nede,1.750.000,25-04-2005,Alm. Salg,10.670,6,Villa,164,1998,,Aktuel værdi
+Hylledevej 244683 Rønnede,nede,675.000,12-04-2005,Alm. Salg,-,3,Villa,129,1907,,Aktuel værdi
+Østervangsvej 184683 Rønnede,nede,1.885.000,11-04-2005,Alm. Salg,-,5,Villa,334,1900,,Aktuel værdi
+Grunderupvej 64683 Rønnede,nede,1.275.000,05-04-2005,Alm. Salg,13.858,4,Villa,92,1942,,Aktuel værdi
+Vordingborgvej 5094683 Rønnede,nede,955.000,28-03-2005,Alm. Salg,8.304,3,Villa,115,1865,,Aktuel værdi
+Bøgevej 654683 Rønnede,nede,435.100,21-03-2005,Alm. Salg,1.891,7,Villa,230,2006,,Aktuel værdi
+Sneden 64683 Rønnede,nede,1.150.000,09-03-2005,Alm. Salg,8.518,5,Villa,135,1924,,Aktuel værdi
+Tranevej 204683 Rønnede,nede,1.495.000,18-02-2005,Alm. Salg,8.037,8,Villa,186,1962,,Aktuel værdi
+Borupvej 494683 Rønnede,nede,2.250.000,12-02-2005,Alm. Salg,11.479,6,Stuehus,196,1870,,
+Musvitvej 64683 Rønnede,nede,1.350.000,07-01-2005,Alm. Salg,8.766,5,Villa,154,1975,,Aktuel værdi
+Rypevej 44683 Rønnede,nede,630.000,04-01-2005,Fam. Salg,4.921,4,Villa,128,1980,,Aktuel værdi
+Industrivej 244683 Rønnede,nede,1.150.000,03-01-2005,Fam. Salg,8.582,8,Villa,134,1972,,Aktuel værdi
+Rosenvej 34683 Rønnede,nede,1.550.000,03-01-2005,Alm. Salg,7.345,7,Villa,211,1968,,Aktuel værdi
+Møllevej 74683 Rønnede,nede,575.000,03-01-2005,Andet,3.285,5,Villa,175,1899,,Aktuel værdi
+Jyderupvej 31A4683 Rønnede,nede,2.200.000,03-01-2005,Fam. Salg,6.832,8,Stuehus,322,2008,,
+Industrivej 274683 Rønnede,nede,2.100.000,23-12-2004,Alm. Salg,12.138,6,Villa,173,1979,,Aktuel værdi
+Dyssevej 47A4683 Rønnede,nede,841.500,22-12-2004,Fam. Salg,6.473,5,Villa,130,1926,,Aktuel værdi
+Dyssevej 334683 Rønnede,nede,1.295.000,01-12-2004,Alm. Salg,11.260,4,Villa,115,1941,,Aktuel værdi
+Gl. Næstvedvej 334683 Rønnede,nede,935.000,26-11-2004,Alm. Salg,-,5,Villa,184,1959,,Aktuel værdi
+Eskilstrupvej 64683 Rønnede,nede,850.000,17-11-2004,Alm. Salg,8.173,4,Villa,104,1945,,Aktuel værdi
+Birkevej 194683 Rønnede,nede,925.000,09-11-2004,Alm. Salg,8.409,3,Villa,110,1969,,Aktuel værdi
+Møllevej 374683 Rønnede,nede,1.195.000,28-10-2004,Alm. Salg,11.490,3,Villa,104,1948,,Aktuel værdi
+Bøgevej 344683 Rønnede,nede,424.080,25-10-2004,Alm. Salg,2.617,6,Villa,162,2006,,Aktuel værdi
+Duevej 44683 Rønnede,nede,1.335.000,22-10-2004,Alm. Salg,9.816,3,Villa,136,1976,,Aktuel værdi
+Poppelvej 194683 Rønnede,nede,1.605.000,09-10-2004,Alm. Salg,9.171,6,Villa,175,1972,,Aktuel værdi
+Glentevej 104683 Rønnede,nede,1.480.000,29-09-2004,Alm. Salg,10.882,6,Villa,136,1987,,Aktuel værdi
+Industrivej 624683 Rønnede,nede,1.370.327,29-09-2004,Alm. Salg,8.355,5,Villa,164,1986,,Aktuel værdi
+Birkelunden 74683 Rønnede,nede,2.070.000,22-08-2004,Alm. Salg,17.844,4,Stuehus,116,1923,,
+Mågevej 114683 Rønnede,nede,2.450.000,09-08-2004,Alm. Salg,13.841,7,Villa,177,2002,,Aktuel værdi
+Bøgevej 304683 Rønnede,nede,396.340,27-07-2004,Alm. Salg,2.387,6,Villa,166,2005,,Aktuel værdi
+Gl. Næstvedvej 144683 Rønnede,nede,1.025.000,19-07-2004,Alm. Salg,7.765,5,Villa,132,1973,,Aktuel værdi
+Duevej 114683 Rønnede,nede,1.360.000,15-07-2004,Alm. Salg,9.645,5,Villa,141,1976,,Aktuel værdi
+Pilevej 144683 Rønnede,nede,675.000,09-07-2004,Alm. Salg,3.770,4,Villa,179,1971,,Aktuel værdi
+Møllevej 144683 Rønnede,nede,825.000,24-06-2004,Alm. Salg,8.505,4,Villa,97,1904,,Aktuel værdi
+Hestehavevej 34683 Rønnede,nede,775.000,19-06-2004,Alm. Salg,-,6,Villa,127,1877,,Aktuel værdi
+Elmevej 94683 Rønnede,nede,1.650.000,17-06-2004,Alm. Salg,9.016,6,Villa,183,2000,,Aktuel værdi
+Egevej 14683 Rønnede,nede,1.400.000,09-06-2004,Alm. Salg,7.650,7,Villa,183,1969,,Aktuel værdi
+Birkegårdsvej 324683 Rønnede,nede,960.000,04-06-2004,Alm. Salg,3.840,7,Villa,250,1916,,Aktuel værdi
+Birkegårdsvej 404683 Rønnede,nede,1.235.000,27-05-2004,Alm. Salg,6.938,5,Villa,178,1880,,Aktuel værdi
+Skov-Torupvej 64683 Rønnede,nede,1.710.000,26-05-2004,Auktion,13.571,8,Stuehus,126,1939,,
+Industrikrogen 14683 Rønnede,nede,1.975.000,23-05-2004,Alm. Salg,9.228,7,Engroshandel,214,1983,,Aktuel værdi
+Leestrupvej 134683 Rønnede,nede,55.000,22-05-2004,Alm. Salg,392,6,Stuehus,140,1919,,
+Leestrupvej 114683 Rønnede,nede,1.365.637,20-05-2004,Alm. Salg,10.267,3,Villa,133,1906,,Aktuel værdi
+Mosevej 54683 Rønnede,nede,1.226.962,18-05-2004,Alm. Salg,10.224,4,Villa,120,1956,,Aktuel værdi
+Starhøjvej 174683 Rønnede,nede,790.000,06-05-2004,Alm. Salg,-,7,Villa,211,1887,,Aktuel værdi
+Fasanvej 54683 Rønnede,nede,1.200.000,13-04-2004,Alm. Salg,7.692,5,Villa,156,1976,,Aktuel værdi
+Eskilstrupvej 174683 Rønnede,nede,1.245.000,10-04-2004,Alm. Salg,9.360,4,Villa,133,1855,,Aktuel værdi
+Kærsangervej 164683 Rønnede,nede,1.830.000,26-03-2004,Alm. Salg,10.223,6,Villa,179,1973,,Aktuel værdi
+Elmevej 21B4683 Rønnede,nede,995.000,18-03-2004,Andet,10.364,3,Rækkehus,96,2004,,Aktuel værdi
+Bøgevej 384683 Rønnede,nede,308.940,15-03-2004,Alm. Salg,2.471,4,Villa,125,2004,,Aktuel værdi
+Industrivej 414683 Rønnede,nede,1.167.854,02-03-2004,Alm. Salg,6.452,9,"Transport, garage",181,2002,,Aktuel værdi
+Elmevej 21A4683 Rønnede,nede,975.000,01-03-2004,Andet,10.156,3,Rækkehus,96,2004,,Aktuel værdi
+Højgårdsvej 334683 Rønnede,nede,935.000,24-02-2004,Fam. Salg,4.675,6,Villa,200,1877,,Aktuel værdi
+Agerstedvej 24683 Rønnede,nede,2.150.000,20-02-2004,Alm. Salg,13.437,5,Villa,160,1912,,Aktuel værdi
+Bellisvej 154683 Rønnede,nede,1.450.000,17-02-2004,Alm. Salg,10.139,5,Villa,143,1967,,Aktuel værdi
+Møllevej 924683 Rønnede,nede,2.200.000,19-01-2004,Alm. Salg,10.628,6,Villa,207,1912,,Aktuel værdi
+Dyssehøj 74683 Rønnede,nede,1.540.000,15-01-2004,Alm. Salg,12.941,5,Villa,119,1987,,Aktuel værdi
+Industrivej 854683 Rønnede,nede,995.000,24-11-2003,Alm. Salg,7.653,6,Villa,130,1912,,Aktuel værdi
+Birkevej 144683 Rønnede,nede,452.750,19-11-2003,Alm. Salg,3.836,4,Villa,118,1966,,Aktuel værdi
+Lindevej 174683 Rønnede,nede,1.285.000,16-11-2003,Alm. Salg,9.049,5,Villa,142,1969,,Aktuel værdi
+Industrivej 284683 Rønnede,nede,2.225.000,04-11-2003,Alm. Salg,12.430,5,Villa,179,1975,,Aktuel værdi
+Poppelvej 184683 Rønnede,nede,1.320.000,03-11-2003,Alm. Salg,8.407,5,Villa,157,1973,,Aktuel værdi
+Granvej 104683 Rønnede,nede,1.175.000,30-10-2003,Alm. Salg,10.217,5,Villa,115,1973,,Aktuel værdi
+Dyssevej 534683 Rønnede,nede,750.000,30-10-2003,Alm. Salg,7.352,4,Villa,102,1966,,Aktuel værdi
+Poppelvej 44683 Rønnede,nede,630.481,20-10-2003,Andet,3.426,5,Villa,184,1972,,Aktuel værdi
+Poppelvej 94683 Rønnede,nede,1.245.000,20-10-2003,Alm. Salg,9.651,5,Villa,129,1972,,Aktuel værdi
+Industrivej 814683 Rønnede,nede,750.000,15-10-2003,Alm. Salg,8.522,3,Villa,88,1930,,Aktuel værdi
+Starhøjvej 134683 Rønnede,nede,500.000,02-10-2003,Alm. Salg,11.904,4,Villa,42,1960,,Aktuel værdi
+Ørnevej 54683 Rønnede,nede,655.000,30-09-2003,Andet,3.898,4,Villa,168,1980,,Aktuel værdi
+Skov-Torupvej 174683 Rønnede,nede,1.600.000,22-09-2003,Alm. Salg,9.876,5,Villa,162,1870,,Aktuel værdi
+Poppelvej 174683 Rønnede,nede,995.000,06-09-2003,Alm. Salg,-,7,Villa,195,1973,,Aktuel værdi
+Gl. Næstvedvej 414683 Rønnede,nede,1.050.000,01-09-2003,Alm. Salg,7.000,5,Villa,150,1850,,Aktuel værdi
+Lindevej 94683 Rønnede,nede,925.000,29-08-2003,Alm. Salg,8.043,4,Villa,115,1969,,Aktuel værdi
+Birkevej 284683 Rønnede,nede,1.010.000,28-08-2003,Alm. Salg,7.952,4,Villa,127,1969,,Aktuel værdi
+Gl. Næstvedvej 39A4683 Rønnede,nede,822.500,30-07-2003,Fam. Salg,5.633,5,Villa,146,1997,,Aktuel værdi
+Møllevej 764683 Rønnede,nede,569.500,29-07-2003,Fam. Salg,4.039,4,Villa,141,1890,,Aktuel værdi
+Højgårdsvej 184683 Rønnede,nede,1.050.000,14-07-2003,Alm. Salg,-,4,Villa,125,1965,,Aktuel værdi
+Butikstorvet 254683 Rønnede,nede,860.000,30-06-2003,Alm. Salg,-,4,Villa,142,1978,,Aktuel værdi
+Rønnedevej 114683 Rønnede,nede,1.300.000,26-06-2003,Fam. Salg,10.400,4,Stuehus,125,1939,,
+Askvej 64683 Rønnede,nede,875.000,25-06-2003,Alm. Salg,6.294,3,Villa,139,1965,,Aktuel værdi
+Sneden 14683 Rønnede,nede,2.000.000,23-06-2003,Alm. Salg,7.042,4,Stuehus,284,1974,,
+Rønnedevej 44683 Rønnede,nede,2.995.000,18-06-2003,Alm. Salg,10.399,7,Stuehus,288,1852,,
+Falkevej 54683 Rønnede,nede,650.000,26-05-2003,Fam. Salg,4.482,4,Villa,145,1980,,Aktuel værdi
+Kongstedvej 154683 Rønnede,nede,932.000,10-05-2003,Alm. Salg,9.137,2,Villa,102,1947,,Aktuel værdi
+Leestrupvej 174683 Rønnede,nede,1.355.614,10-05-2003,Alm. Salg,11.111,4,Villa,122,1855,,Aktuel værdi
+Skoverupvej 114683 Rønnede,nede,522.882,02-05-2003,Andet,3.288,5,Villa,159,1825,,Aktuel værdi
+Leestrupvej 44683 Rønnede,nede,745.000,02-05-2003,Alm. Salg,6.834,3,Villa,109,1800,,Aktuel værdi
+Nymarksvej 414683 Rønnede,nede,507.284,28-04-2003,Alm. Salg,8.052,1,Villa,63,1961,,Aktuel værdi
+Møllevej 714683 Rønnede,nede,2.395.000,26-04-2003,Alm. Salg,9.696,7,Stuehus,247,1827,,
+Skrænten 164683 Rønnede,nede,1.555.793,03-03-2003,Alm. Salg,11.967,5,Villa,130,1996,,Aktuel værdi
+Ørnevej 44683 Rønnede,nede,1.441.428,25-02-2003,Alm. Salg,10.445,4,Villa,138,1980,,Aktuel værdi
+Elmevej 204683 Rønnede,nede,295.000,20-02-2003,Alm. Salg,2.020,6,Villa,146,2003,,Aktuel værdi
+Lyngvej 224683 Rønnede,nede,835.000,19-02-2003,Alm. Salg,8.697,4,Villa,96,2017,,Aktuel værdi
+Borupvej 434683 Rønnede,nede,680.000,23-01-2003,Alm. Salg,7.157,3,Villa,95,1887,,Aktuel værdi
+Faxevej 584683 Rønnede,nede,943.303,06-01-2003,Alm. Salg,5.421,6,Villa,174,1827,,Aktuel værdi
+Falkevej 34683 Rønnede,nede,687.500,16-12-2002,Andet,5.018,4,Villa,137,1979,,Aktuel værdi
+Gl. Næstvedvej 364683 Rønnede,nede,895.000,10-12-2002,Alm. Salg,9.040,4,Villa,99,1965,,Aktuel værdi
+Grunderupvej 194683 Rønnede,nede,1.200.000,01-11-2002,Alm. Salg,11.650,4,Villa,103,1800,,Aktuel værdi
+Birkevej 14683 Rønnede,nede,850.000,31-10-2002,Alm. Salg,7.727,3,Villa,110,1966,,Aktuel værdi
+Bellisvej 174683 Rønnede,nede,920.000,23-09-2002,Alm. Salg,7.603,4,Villa,121,1967,,Aktuel værdi
+Uglevej 64683 Rønnede,nede,1.025.000,19-09-2002,Alm. Salg,8.007,4,Villa,128,1980,,Aktuel værdi
+Dyssevænget 84683 Rønnede,nede,242.250,26-08-2002,Andet,1.755,4,Villa,138,1980,,Aktuel værdi
+Borupvej 204683 Rønnede,nede,1.310.000,24-08-2002,Alm. Salg,5.346,6,Villa,245,1861,,Aktuel værdi
+Møllevej 654683 Rønnede,nede,461.424,21-08-2002,Alm. Salg,-,3,Villa,83,1877,,Aktuel værdi
+Starhøjvej 64683 Rønnede,nede,1.375.000,20-08-2002,Alm. Salg,15.277,2,Stuehus,90,1880,,
+Irisvej 74683 Rønnede,nede,1.150.000,29-07-2002,Alm. Salg,7.666,5,Villa,150,1968,,Aktuel værdi
+Møllevej 364683 Rønnede,nede,710.000,23-07-2002,Alm. Salg,6.574,2,Villa,108,1946,,Aktuel værdi
+Vibevej 24683 Rønnede,nede,523.209,22-07-2002,Andet,3.270,3,Villa,160,1971,,Aktuel værdi
+Birkevej 84683 Rønnede,nede,522.004,22-07-2002,Andet,4.789,4,Villa,109,1966,,Aktuel værdi
+Østervangsvej 24683 Rønnede,nede,755.140,03-07-2002,Alm. Salg,3.561,5,Villa,212,1880,,Aktuel værdi
+Gl. Næstvedvej 404683 Rønnede,nede,1.377.100,30-06-2002,Alm. Salg,6.885,8,Villa,200,1971,,Aktuel værdi
+Kærsangervej 104683 Rønnede,nede,1.175.000,26-06-2002,Alm. Salg,8.392,7,Villa,140,1974,,Aktuel værdi
+Falkevej 64683 Rønnede,nede,885.000,21-06-2002,Alm. Salg,7.972,4,Villa,111,1979,,Aktuel værdi
+Askvej 34683 Rønnede,nede,1.015.000,14-05-2002,Alm. Salg,10.357,3,Villa,98,1965,,Aktuel værdi
+Birkegårdsvej 214683 Rønnede,nede,1.375.000,11-05-2002,Alm. Salg,-,6,Villa,187,1900,,Aktuel værdi
+Leestrupvej 244683 Rønnede,nede,1.830.000,10-05-2002,Alm. Salg,9.384,9,Villa,195,1890,,Aktuel værdi
+Glentevej 84683 Rønnede,nede,1.350.000,16-04-2002,Alm. Salg,9.060,5,Villa,149,1989,,Aktuel værdi
+Gl. Næstvedvej 424683 Rønnede,nede,100.200,15-04-2002,Alm. Salg,491,4,Villa,204,2004,,Aktuel værdi
+Skrænten 144683 Rønnede,nede,160.000,15-04-2002,Alm. Salg,969,4,Villa,165,2005,,Aktuel værdi
+Borupvej 94683 Rønnede,nede,1.450.000,08-04-2002,Alm. Salg,9.177,5,Villa,158,1902,,Aktuel værdi
+Møllevej 494683 Rønnede,nede,700.000,28-02-2002,Alm. Salg,-,6,Villa,155,1960,,Aktuel værdi
+Borupvej 514683 Rønnede,nede,1.975.000,28-02-2002,Alm. Salg,14.107,4,Villa,140,1780,,Aktuel værdi
+Bøgevej 434683 Rønnede,nede,1.235.000,11-02-2002,Alm. Salg,7.767,5,Villa,159,1973,,Aktuel værdi
+Mosevej 104683 Rønnede,nede,561.000,04-02-2002,Fam. Salg,4.714,3,Villa,119,1961,,Aktuel værdi
+Birkevej 94683 Rønnede,nede,875.000,28-01-2002,Alm. Salg,7.608,4,Villa,115,1967,,Aktuel værdi
+Leestrupvej 24683 Rønnede,nede,595.000,25-01-2002,Alm. Salg,-,3,Villa,115,1890,,Aktuel værdi
+Granvej 144683 Rønnede,nede,624.945,13-01-2002,Fam. Salg,3.787,6,Villa,165,1973,,Aktuel værdi
+Poppelvej 274683 Rønnede,nede,1.200.000,10-01-2002,Alm. Salg,6.857,6,Villa,175,1975,,Aktuel værdi
+Industrivej 614683 Rønnede,nede,1.400.000,06-01-2002,Alm. Salg,24.561,5,Industri o.l.,57,1988,,Aktuel værdi
+Høgevej 54683 Rønnede,nede,1.272.212,26-12-2001,Alm. Salg,9.354,6,Villa,136,1986,,Aktuel værdi
+Elmevej 254683 Rønnede,nede,290.580,20-12-2001,Alm. Salg,1.782,6,Villa,163,2004,,Aktuel værdi
+Ørnevej 14683 Rønnede,nede,1.333.390,18-12-2001,Alm. Salg,10.929,5,Villa,122,1988,,Aktuel værdi
+Irisvej 54683 Rønnede,nede,775.000,17-12-2001,Alm. Salg,-,4,Villa,139,1970,,Aktuel værdi
+Dyssevej 94683 Rønnede,nede,510.000,15-12-2001,Alm. Salg,4.473,6,Villa,114,1900,,Aktuel værdi
+Møllevej 24683 Rønnede,nede,934.000,10-12-2001,Alm. Salg,-,4,Villa,126,1890,,Aktuel værdi
+Rosenvej 154683 Rønnede,nede,1.050.000,31-10-2001,Alm. Salg,8.139,4,Villa,129,1968,,Aktuel værdi
+Pilevej 94683 Rønnede,nede,1.335.000,26-10-2001,Alm. Salg,8.090,3,Villa,165,1969,,Aktuel værdi
+Rørsangervej 74683 Rønnede,nede,975.000,22-10-2001,Alm. Salg,6.964,4,Villa,140,1973,,Aktuel værdi
+Rørsangervej 64683 Rønnede,nede,1.180.000,16-10-2001,Alm. Salg,8.805,5,Villa,134,1973,,Aktuel værdi
+Jyderupvej 49B4683 Rønnede,nede,700.000,04-10-2001,Alm. Salg,11.290,2,Rækkehus,62,1989,,Aktuel værdi
+Mågevej 94683 Rønnede,nede,1.180.000,01-10-2001,Alm. Salg,9.076,4,Villa,130,1988,,Aktuel værdi
+Møllevej 554683 Rønnede,nede,820.000,13-09-2001,Alm. Salg,6.612,5,Villa,124,1961,,Aktuel værdi
+Lurhøjvej 94683 Rønnede,nede,1.625.400,10-09-2001,Alm. Salg,7.256,6,Villa,224,1904,,Aktuel værdi
+Elmevej 124683 Rønnede,nede,230.000,10-09-2001,Alm. Salg,-,4,Villa,212,2002,,Aktuel værdi
+Saksholmvej 84683 Rønnede,nede,4.500.000,07-09-2001,Alm. Salg,16.423,7,Stuehus,274,2002,,
+Elmevej 144683 Rønnede,nede,269.410,30-08-2001,Alm. Salg,2.040,4,Villa,132,2003,,Aktuel værdi
+Skrænten 14683 Rønnede,nede,1.771.240,18-08-2001,Alm. Salg,11.001,4,Villa,161,1991,,Aktuel værdi
+Borupvej 104683 Rønnede,nede,475.000,16-07-2001,Alm. Salg,-,5,Villa,212,1870,,Aktuel værdi
+Hestehavevej 104683 Rønnede,nede,2.200.000,05-07-2001,Alm. Salg,8.301,5,Villa,265,1980,,Aktuel værdi
+Dyssevej 134683 Rønnede,nede,1.266.000,27-06-2001,Alm. Salg,6.770,6,Villa,187,1926,,Aktuel værdi
+Elmevej 244683 Rønnede,nede,238.000,18-06-2001,Alm. Salg,1.252,6,Villa,190,2004,,Aktuel værdi
+Tranevej 24683 Rønnede,nede,966.263,08-06-2001,Alm. Salg,6.757,5,Villa,143,1971,,Aktuel værdi
+Agerstedvej 84683 Rønnede,nede,710.777,07-06-2001,Alm. Salg,6.642,3,Villa,107,1920,,Aktuel værdi
+Elmevej 64683 Rønnede,nede,200.000,07-06-2001,Alm. Salg,1.063,6,Villa,188,2001,,Aktuel værdi
+Kongstedvej 54683 Rønnede,nede,1.013.275,04-06-2001,Alm. Salg,5.692,7,Villa,178,1939,,Aktuel værdi
+Kærvej 64683 Rønnede,nede,180.000,01-06-2001,Alm. Salg,1.200,6,Villa,150,2003,,Aktuel værdi
+Drosselvej 174683 Rønnede,nede,1.310.000,31-05-2001,Alm. Salg,6.421,5,Villa,204,1973,,Aktuel værdi
+Bøgevej 454683 Rønnede,nede,1.185.000,07-05-2001,Alm. Salg,8.843,4,Villa,134,1973,,Aktuel værdi
+Solbakken 34683 Rønnede,nede,877.911,07-05-2001,Alm. Salg,10.577,4,Villa,83,1984,,Aktuel værdi
+Gl. Næstvedvej 324683 Rønnede,nede,775.000,03-05-2001,Alm. Salg,8.611,3,Villa,90,1967,,Aktuel værdi
+Industrivej 404683 Rønnede,nede,700.000,26-04-2001,Alm. Salg,5.000,4,Villa,140,1974,,Aktuel værdi
+Dalgårdsvej 24683 Rønnede,nede,170.000,23-04-2001,Alm. Salg,1.005,6,Villa,169,2002,,Aktuel værdi
+Vibevej 114683 Rønnede,nede,1.162.331,26-03-2001,Alm. Salg,8.422,4,Villa,138,1970,,Aktuel værdi
+Gl. Næstvedvej 84683 Rønnede,nede,635.000,22-03-2001,Alm. Salg,8.246,3,Villa,77,1963,,Aktuel værdi
+Dyssevej 214683 Rønnede,nede,650.000,12-03-2001,Alm. Salg,6.190,3,Villa,105,1901,,Aktuel værdi
+Elmevej 54683 Rønnede,nede,180.000,12-03-2001,Alm. Salg,1.343,5,Villa,134,2002,,Aktuel værdi
+Rypevej 114683 Rønnede,nede,185.000,05-03-2001,Alm. Salg,761,6,Villa,243,2002,,Aktuel værdi
+Dyssevej 64683 Rønnede,nede,710.472,28-02-2001,Alm. Salg,7.894,4,Villa,90,1920,,Aktuel værdi
+Agerstedvej 54683 Rønnede,nede,1.148.283,05-02-2001,Alm. Salg,5.126,7,Stuehus,224,2012,,
+Slettehavevej 474683 Rønnede,nede,550.000,20-12-2000,Alm. Salg,2.722,7,Villa,202,1872,,Aktuel værdi
+Poppelvej 234683 Rønnede,nede,1.080.400,14-12-2000,Alm. Salg,7.555,5,Villa,143,1978,,Aktuel værdi
+Gl. Næstvedvej 394683 Rønnede,nede,931.980,05-12-2000,Alm. Salg,7.224,4,Villa,129,1890,,Aktuel værdi
+Skrænten 94683 Rønnede,nede,190.000,30-11-2000,Alm. Salg,1.079,5,Villa,176,2001,,Aktuel værdi
+Vibevej 34683 Rønnede,nede,1.257.655,27-11-2000,Alm. Salg,8.856,4,Villa,142,1970,,Aktuel værdi
+Eskilstrupvej 354683 Rønnede,nede,1.391.010,08-11-2000,Alm. Salg,10.867,3,Villa,128,1966,,Aktuel værdi
+Drosselvej 104683 Rønnede,nede,1.083.952,14-10-2000,Alm. Salg,8.029,4,Villa,135,1969,,Aktuel værdi
+Vordingborgvej 4984683 Rønnede,nede,800.000,25-09-2000,Fam. Salg,8.791,4,Stuehus,91,1827,,
+Fasanvej 44683 Rønnede,nede,1.080.000,01-09-2000,Alm. Salg,8.000,5,Villa,135,1971,,Aktuel værdi
+Skrænten 34683 Rønnede,nede,1.759.000,28-08-2000,Alm. Salg,13.427,5,Villa,131,1998,,Aktuel værdi
+Nymarksvej 454683 Rønnede,nede,420.000,10-07-2000,Alm. Salg,2.978,6,Rækkehus,141,1897,,Aktuel værdi
+Borupvej 64683 Rønnede,nede,1.077.851,30-06-2000,Alm. Salg,7.138,5,Villa,151,1820,,Aktuel værdi
+Mågevej 74683 Rønnede,nede,1.335.065,21-06-2000,Alm. Salg,9.020,6,Villa,148,1988,,Aktuel værdi
+Leestrupvej 334683 Rønnede,nede,1.644.056,13-05-2000,Alm. Salg,10.275,5,Villa,160,1905,,Aktuel værdi
+Kærsangervej 34683 Rønnede,nede,1.150.000,10-05-2000,Alm. Salg,8.041,6,Villa,143,1977,,Aktuel værdi
+Rosenvej 64683 Rønnede,nede,883.400,19-04-2000,Alm. Salg,7.124,5,Villa,124,1970,,Aktuel værdi
+Mågevej 64683 Rønnede,nede,813.440,30-03-2000,Alm. Salg,10.703,2,Villa,76,1988,,Aktuel værdi
+Vordingborgvej 4944683 Rønnede,nede,754.606,26-01-2000,Alm. Salg,2.575,6,Stuehus,293,1904,,
+Jyderupvej 264683 Rønnede,nede,1.535.422,24-01-2000,Alm. Salg,10.889,4,Stuehus,141,1909,,
+Lyngvej 24683 Rønnede,nede,725.000,14-01-2000,Alm. Salg,3.519,5,Villa,206,1962,,Aktuel værdi
+Jyderupvej 184683 Rønnede,nede,1.607.500,30-12-1999,Fam. Salg,7.273,7,Stuehus,221,1910,,
+Grunderupvej 174683 Rønnede,nede,5.579.401,22-12-1999,Alm. Salg,23.344,6,Stuehus,239,1934,,
+Gl. Næstvedvej 264683 Rønnede,nede,162.000,13-12-1999,Alm. Salg,778,8,Stuehus,208,1876,,
+Østervangsvej 74683 Rønnede,nede,1.500.000,03-12-1999,Fam. Salg,7.075,7,Stuehus,212,1900,,
+Møllevej 854683 Rønnede,nede,1.000.000,23-11-1999,Fam. Salg,-,5,Stuehus,212,1909,,
+Birkegårdsvej 104683 Rønnede,nede,710.000,22-11-1999,Alm. Salg,4.201,6,Villa,169,1912,,Aktuel værdi
+Elmevej 234683 Rønnede,nede,233.160,15-11-1999,Alm. Salg,1.260,6,Villa,185,2002,,Aktuel værdi
+Dyssevej 84683 Rønnede,nede,696.000,08-11-1999,Alm. Salg,5.353,4,Villa,130,1953,,Aktuel værdi
+Borupvej 704683 Rønnede,nede,2.648.976,27-10-1999,Alm. Salg,8.463,6,Villa,313,1800,,Aktuel værdi
+Eskilstrupvej 194683 Rønnede,nede,790.143,06-10-1999,Alm. Salg,11.619,3,Villa,68,1856,,Aktuel værdi
+Elmevej 24683 Rønnede,nede,1.025.000,05-10-1999,Alm. Salg,4.456,4,Villa,230,1976,,Aktuel værdi
+Mågevej 54683 Rønnede,nede,945.000,22-09-1999,Alm. Salg,7.440,4,Villa,127,1989,,Aktuel værdi
+Tranevej 54683 Rønnede,nede,890.100,13-09-1999,Alm. Salg,6.544,4,Villa,136,1971,,Aktuel værdi
+Industriskellet 44683 Rønnede,nede,1.100.000,06-09-1999,Alm. Salg,9.482,4,Villa,116,1984,,Aktuel værdi
+Krogvænget 54683 Rønnede,nede,1.542.000,23-08-1999,Alm. Salg,7.787,4,Stuehus,198,1908,,
+Jyderupvej 194683 Rønnede,nede,1.954.335,16-08-1999,Alm. Salg,9.674,7,Stuehus,202,1923,,
+Møllevej 294683 Rønnede,nede,340.818,26-07-1999,Andet,3.550,3,Villa,96,1938,,Aktuel værdi
+Vordingborgvej 5144683 Rønnede,nede,1.081.000,14-07-1999,Alm. Salg,4.825,5,Villa,224,1947,,Aktuel værdi
+Grunderupvej 304683 Rønnede,nede,1.106.381,09-07-1999,Alm. Salg,-,6,Villa,247,1850,,Aktuel værdi
+Hemmestrupvej 74683 Rønnede,nede,210.000,05-07-1999,Alm. Salg,913,6,Villa,230,1885,,Aktuel værdi
+Birkevænget 64683 Rønnede,nede,966.047,04-06-1999,Alm. Salg,4.830,7,Villa,200,1900,,Aktuel værdi
+Nymarksvej 324683 Rønnede,nede,2.000.000,03-06-1999,Alm. Salg,9.090,6,Stuehus,220,1983,,
+Borupvej 164683 Rønnede,nede,1.176.000,01-06-1999,Alm. Salg,9.800,4,Villa,120,1893,,Aktuel værdi
+Kærvej 24683 Rønnede,nede,118.215,17-05-1999,Alm. Salg,844,4,Villa,140,2000,,Aktuel værdi
+Gl. Næstvedvej 384683 Rønnede,nede,550.000,13-05-1999,Alm. Salg,7.333,2,Villa,75,1963,,Aktuel værdi
+Rørsangervej 94683 Rønnede,nede,823.066,12-05-1999,Alm. Salg,6.142,5,Villa,134,1972,,Aktuel værdi
+Hylledevej 284683 Rønnede,nede,668.000,29-04-1999,Alm. Salg,5.859,4,Villa,114,1907,,Aktuel værdi
+Grunderupvej 264683 Rønnede,nede,2.200.000,19-04-1999,Alm. Salg,-,4,Villa,215,1800,,Aktuel værdi
+Borupvej 194683 Rønnede,nede,452.714,12-04-1999,Alm. Salg,4.715,3,Villa,96,1776,,Aktuel værdi
+Jyderupvej 304683 Rønnede,nede,1.525.000,24-03-1999,Alm. Salg,7.625,8,Villa,200,1927,,Aktuel værdi
+Skov-Torupvej 154683 Rønnede,nede,1.118.000,15-03-1999,Alm. Salg,6.425,5,Villa,174,1897,,Aktuel værdi
+Dyssevej 174683 Rønnede,nede,551.000,10-03-1999,Alm. Salg,4.876,4,Villa,113,1924,,Aktuel værdi
+Højgårdsvej 134683 Rønnede,nede,805.000,03-03-1999,Alm. Salg,-,3,Villa,136,1866,,Aktuel værdi
+Møllevej 784683 Rønnede,nede,1.399.000,11-02-1999,Alm. Salg,6.004,7,Villa,233,1878,,Aktuel værdi
+Vordingborgvej 4874683 Rønnede,nede,2.776.158,28-01-1999,Fam. Salg,13.675,7,Stuehus,203,1900,,
+Fasanvej 84683 Rønnede,nede,839.174,28-01-1999,Alm. Salg,4.303,6,Villa,195,1972,,Aktuel værdi
+Gl. Næstvedvej 34683 Rønnede,nede,747.540,18-01-1999,Alm. Salg,7.052,4,Villa,106,1947,,Aktuel værdi
+Borupvej 44683 Rønnede,nede,750.000,11-01-1999,Alm. Salg,3.731,5,Villa,201,1910,,Aktuel værdi
+Saksholmvej 214683 Rønnede,nede,198.500,20-12-1998,Alm. Salg,992,7,Stuehus,200,1917,,
+Rypevej 54683 Rønnede,nede,901.847,19-11-1998,Alm. Salg,6.219,5,Villa,145,1980,,Aktuel værdi
+Løvsangervej 14683 Rønnede,nede,1.588.000,05-11-1998,Alm. Salg,7.561,4,Villa,210,1974,,Aktuel værdi
+Poppelvej 74683 Rønnede,nede,461.870,05-10-1998,Fam. Salg,3.499,5,Villa,132,1973,,Aktuel værdi
+Kongstedvej 74683 Rønnede,nede,642.590,02-10-1998,Alm. Salg,7.302,3,Villa,88,1940,,Aktuel værdi
+Sneden 194683 Rønnede,nede,1.355.160,01-10-1998,Alm. Salg,6.273,5,Villa,216,1827,,Aktuel værdi
+Østervej 144683 Rønnede,nede,654.000,17-09-1998,Alm. Salg,6.169,4,Villa,106,1952,,Aktuel værdi
+Højgårdsvej 374683 Rønnede,nede,900.000,11-09-1998,Alm. Salg,-,6,Villa,246,1876,,Aktuel værdi
+Poppelvej 144683 Rønnede,nede,1.049.097,04-09-1998,Alm. Salg,-,7,Villa,204,1974,,Aktuel værdi
+Grunderupvej 44683 Rønnede,nede,300.000,31-08-1998,Alm. Salg,3.333,2,Villa,90,1877,,Aktuel værdi
+Skov-Torupvej 74683 Rønnede,nede,616.000,24-08-1998,Alm. Salg,4.219,4,Villa,146,1900,,Aktuel værdi
+Gl. Næstvedvej 64683 Rønnede,nede,414.000,03-08-1998,Alm. Salg,-,3,Villa,118,1963,,Aktuel værdi
+Saksholmvej 54683 Rønnede,nede,662.350,26-07-1998,Alm. Salg,-,4,Villa,132,1890,,Aktuel værdi
+Nymarksvej 314683 Rønnede,nede,640.075,16-07-1998,Alm. Salg,6.400,4,Villa,100,1852,,Aktuel værdi
+Hestehavevej 154683 Rønnede,nede,2.600.000,01-07-1998,Alm. Salg,6.824,14,Villa,381,1965,,Aktuel værdi
+Birkevej 44683 Rønnede,nede,762.193,19-06-1998,Alm. Salg,6.929,4,Villa,110,1966,,Aktuel værdi
+Jyderupvej 454683 Rønnede,nede,420.000,01-06-1998,Alm. Salg,4.200,4,Villa,100,1963,,Aktuel værdi
+Sneden 264683 Rønnede,nede,2.514.720,24-05-1998,Alm. Salg,-,6,Stuehus,146,1991,,
+Lindevej 74683 Rønnede,nede,990.000,18-05-1998,Alm. Salg,7.557,4,Villa,131,1968,,Aktuel værdi
+Gl. Næstvedvej 94683 Rønnede,nede,452.500,08-04-1998,Alm. Salg,5.027,4,Villa,90,1961,,Aktuel værdi
+Høgevej 84683 Rønnede,nede,864.500,06-04-1998,Alm. Salg,6.861,4,Villa,126,1979,,Aktuel værdi
+Industrikrogen 44683 Rønnede,nede,690.000,09-03-1998,Alm. Salg,5.564,5,Villa,124,1987,,Aktuel værdi
+Dyssehøj 24683 Rønnede,nede,145.000,08-01-1998,Alm. Salg,979,5,Villa,148,1998,,Aktuel værdi
+Industrivej 84683 Rønnede,nede,1.277.118,05-01-1998,Alm. Salg,7.425,4,Villa,172,1972,,Aktuel værdi
+Vordingborgvej 5364683 Rønnede,nede,100.000,15-12-1997,Alm. Salg,1.111,6,Engroshandel,90,1950,,Aktuel værdi
+Tranevej 14683 Rønnede,nede,998.000,28-10-1997,Alm. Salg,5.940,4,Villa,168,1972,,Aktuel værdi
+Borupvej 564683 Rønnede,nede,70.000,06-10-1997,Alm. Salg,-,3,Villa,115,1878,,Aktuel værdi
+Rønnedevej 94683 Rønnede,nede,406.000,12-09-1997,Alm. Salg,3.530,5,Villa,115,1877,,Aktuel værdi
+Eskilstrupvej 214683 Rønnede,nede,432.000,02-09-1997,Alm. Salg,2.938,3,Villa,147,1877,,Aktuel værdi
+Højgårdsvej 614683 Rønnede,nede,320.000,21-08-1997,Alm. Salg,-,3,Villa,103,1890,,Aktuel værdi
+Møllevej 804683 Rønnede,nede,1.274.600,19-08-1997,Alm. Salg,8.067,4,Villa,158,1850,,Aktuel værdi
+Møllevej 354683 Rønnede,nede,553.000,04-08-1997,Fam. Salg,5.882,3,Villa,94,1925,,Aktuel værdi
+Borupvej 424683 Rønnede,nede,242.531,30-07-1997,Alm. Salg,-,2,Villa,95,1900,,Aktuel værdi
+Birkegårdsvej 114683 Rønnede,nede,988.000,30-07-1997,Alm. Salg,9.148,2,Villa,108,1890,,Aktuel værdi
+Skrænten 64683 Rønnede,nede,213.000,23-07-1997,Alm. Salg,1.109,6,Villa,192,1997,,Aktuel værdi
+Rypevej 34683 Rønnede,nede,896.000,18-07-1997,Alm. Salg,5.856,5,Villa,153,1977,,Aktuel værdi
+Uglevej 54683 Rønnede,nede,630.000,23-06-1997,Fam. Salg,5.384,4,Villa,117,1980,,Aktuel værdi
+Solbakken 134683 Rønnede,nede,908.720,02-06-1997,Alm. Salg,6.490,5,Villa,140,1977,,Aktuel værdi
+Skovbakkevej 64683 Rønnede,nede,1.104.000,28-04-1997,Alm. Salg,7.613,5,Villa,145,1850,,Aktuel værdi
+Nymarksvej 64683 Rønnede,nede,575.000,11-04-1997,Alm. Salg,2.933,6,Villa,196,1900,,Aktuel værdi
+Glentevej 74683 Rønnede,nede,720.000,07-04-1997,Fam. Salg,5.294,4,Villa,136,1981,,Aktuel værdi
+Tingerupvej 24683 Rønnede,nede,418.307,13-03-1997,Auktion,2.504,5,Villa,167,1915,,Aktuel værdi
+Leestrupvej 204683 Rønnede,nede,730.000,17-02-1997,Alm. Salg,-,7,Villa,265,1920,,Aktuel værdi
+Hulhøjvej 164683 Rønnede,nede,994.000,20-01-1997,Andet,4.497,8,Villa,221,1955,,Aktuel værdi
+Faxevej 424683 Rønnede,nede,445.000,20-01-1997,Fam. Salg,3.973,3,Villa,112,1920,,Aktuel værdi
+Møllevej 674683 Rønnede,nede,863.300,06-01-1997,Alm. Salg,-,7,Villa,230,1827,,Aktuel værdi
+Leestrupvej 354683 Rønnede,nede,957.498,01-01-1997,Alm. Salg,5.699,4,Stuehus,168,1911,,
+Egevej 34683 Rønnede,nede,888.000,20-12-1996,Alm. Salg,5.381,4,Villa,165,1972,,Aktuel værdi
+Duevej 144683 Rønnede,nede,718.000,09-12-1996,Alm. Salg,5.480,3,Villa,131,1976,,Aktuel værdi
+Møllevej 304683 Rønnede,nede,529.000,18-11-1996,Alm. Salg,3.861,4,Villa,137,1932,,Aktuel værdi
+Møllevej 20A4683 Rønnede,nede,502.500,28-10-1996,Alm. Salg,3.865,5,Villa,130,1904,,Aktuel værdi
+Nymarksvej 344683 Rønnede,nede,280.000,27-10-1996,Alm. Salg,3.733,3,Villa,75,1930,,Aktuel værdi
+Saksholmvej 124683 Rønnede,nede,1.650.000,21-10-1996,Fam. Salg,9.065,6,Stuehus,182,1650,,
+Tranevej 44683 Rønnede,nede,204.510,16-10-1996,Andet,1.649,5,Villa,124,1971,,Aktuel værdi
+Tornemarksvej 114683 Rønnede,nede,69.840,01-10-1996,Alm. Salg,567,3,Villa,123,1860,,Aktuel værdi
+Glentevej 64683 Rønnede,nede,725.000,30-09-1996,Alm. Salg,6.839,4,Villa,106,1986,,Aktuel værdi
+Saksholmvej 174683 Rønnede,nede,498.784,18-09-1996,Alm. Salg,1.348,11,Stuehus,370,1932,,
+Møllevej 534683 Rønnede,nede,520.000,06-08-1996,Alm. Salg,-,7,Villa,150,1960,,Aktuel værdi
+Eskilstrupvej 184683 Rønnede,nede,639.000,22-07-1996,Alm. Salg,4.804,4,Villa,133,1964,,Aktuel værdi
+Vordingborgvej 5084683 Rønnede,nede,729.660,11-07-1996,Alm. Salg,-,5,Villa,147,1876,,Aktuel værdi
+Uglevej 14683 Rønnede,nede,1.108.850,03-06-1996,Alm. Salg,7.920,5,Villa,140,1979,,Aktuel værdi
+Skrænten 44683 Rønnede,nede,115.810,27-05-1996,Alm. Salg,890,5,Villa,130,1996,,Aktuel værdi
+Birkevej 64683 Rønnede,nede,545.000,23-05-1996,Alm. Salg,5.450,3,Villa,100,1965,,Aktuel værdi
+Høgevej 104683 Rønnede,nede,843.950,20-05-1996,Alm. Salg,5.820,5,Villa,145,1979,,Aktuel værdi
+Højgårdsvej 124683 Rønnede,nede,1.000.000,20-05-1996,Alm. Salg,3.875,6,Villa,258,1877,,Aktuel værdi
+Lyngvej 204683 Rønnede,nede,562.470,15-04-1996,Alm. Salg,4.326,5,Villa,130,1963,,Aktuel værdi
+Løvsangervej 44683 Rønnede,nede,953.880,15-04-1996,Alm. Salg,5.611,5,Villa,170,1973,,Aktuel værdi
+Jyderupvej 384683 Rønnede,nede,655.380,13-04-1996,Alm. Salg,-,4,Villa,185,1877,,Aktuel værdi
+Svalevej 104683 Rønnede,nede,1.023.540,25-03-1996,Alm. Salg,5.117,4,Villa,200,1977,,Aktuel værdi
+Gl. Næstvedvej 184683 Rønnede,nede,374.000,14-03-1996,Fam. Salg,3.040,3,Villa,123,1969,,Aktuel værdi
+Bøgevej 294683 Rønnede,nede,675.000,27-02-1996,Alm. Salg,5.818,4,Villa,116,1972,,Aktuel værdi
+Møllevej 274683 Rønnede,nede,416.278,15-01-1996,Fam. Salg,3.357,5,Villa,124,1925,,Aktuel værdi
+Saksholmvej 194683 Rønnede,nede,1.212.003,11-01-1996,Alm. Salg,2.838,9,Villa,427,1927,,Aktuel værdi
+Birkegårdsvej 14683 Rønnede,nede,1.050.750,11-12-1995,Alm. Salg,3.549,9,Stuehus,296,1919,,
+Møllevej 254683 Rønnede,nede,573.812,12-11-1995,Alm. Salg,-,7,Villa,199,1927,,Aktuel værdi
+Kongstedvej 24683 Rønnede,nede,607.200,04-11-1995,Alm. Salg,-,4,Villa,186,1900,,Aktuel værdi
+Vordingborgvej 5034683 Rønnede,nede,541.134,01-11-1995,Alm. Salg,4.399,4,Villa,123,1939,,Aktuel værdi
+Vordingborgvej 5044683 Rønnede,nede,360.000,18-10-1995,Alm. Salg,4.500,4,Villa,80,1902,,Aktuel værdi
+Kongstedvej 174683 Rønnede,nede,330.060,09-10-1995,Alm. Salg,-,6,Villa,178,1876,,Aktuel værdi
+Vordingborgvej 5594683 Rønnede,nede,295.000,26-09-1995,Alm. Salg,3.687,2,Villa,80,1825,,Aktuel værdi
+Dyssehøj 34683 Rønnede,nede,1.092.000,25-09-1995,Alm. Salg,7.970,4,Villa,137,1988,,Aktuel værdi
+Ny Næstvedvej 134683 Rønnede,nede,680.000,25-09-1995,Alm. Salg,5.528,4,Villa,123,1915,,Aktuel værdi
+Gl. Næstvedvej 284683 Rønnede,nede,517.850,11-09-1995,Alm. Salg,-,3,Villa,134,1971,,Aktuel værdi
+Vordingborgvej 5494683 Rønnede,nede,574.352,11-09-1995,Fam. Salg,3.418,5,Stuehus,168,1879,,
+Vordingborgvej 5154683 Rønnede,nede,404.000,21-08-1995,Alm. Salg,3.338,4,Villa,121,1950,,Aktuel værdi
+Borupvej 534683 Rønnede,nede,1.000.000,08-08-1995,Alm. Salg,6.060,5,Stuehus,165,1900,,
+Skrænten 104683 Rønnede,nede,118.955,27-07-1995,Alm. Salg,1.101,3,Villa,108,1996,,Aktuel værdi
+Højgårdsvej 84683 Rønnede,nede,500.000,17-07-1995,Alm. Salg,2.040,7,Stuehus,245,1999,,
+Møllevej 334683 Rønnede,nede,331.500,15-07-1995,Fam. Salg,2.809,5,Villa,118,1933,,Aktuel værdi
+Vestervej 34683 Rønnede,nede,455.000,12-07-1995,Alm. Salg,4.595,3,Villa,99,1963,,Aktuel værdi
+Skov-Torupvej 24683 Rønnede,nede,667.000,29-05-1995,Alm. Salg,4.446,5,Villa,150,1870,,Aktuel værdi
+Vordingborgvej 5234683 Rønnede,nede,575.250,29-05-1995,Alm. Salg,2.713,7,Villa,212,1931,,Aktuel værdi
+Højgårdsvej 154683 Rønnede,nede,600.000,17-05-1995,Alm. Salg,-,2,Stuehus,92,1890,,
+Musvitvej 14683 Rønnede,nede,617.500,21-04-1995,Alm. Salg,4.410,5,Villa,140,1974,,Aktuel værdi
+Poppelvej 84683 Rønnede,nede,710.000,17-04-1995,Alm. Salg,4.277,5,Villa,166,1973,,Aktuel værdi
+Jyderupvej 324683 Rønnede,nede,1.250.000,03-04-1995,Fam. Salg,5.208,6,Stuehus,240,1916,,
+Rosenvej 114683 Rønnede,nede,550.000,10-03-1995,Alm. Salg,3.767,5,Villa,146,1969,,Aktuel værdi
+Hylledevej 314683 Rønnede,nede,295.000,06-03-1995,Alm. Salg,2.731,4,Villa,108,1897,,Aktuel værdi
+Møllevej 574683 Rønnede,nede,187.220,20-02-1995,Andet,1.509,5,Villa,124,1961,,Aktuel værdi
+Rosenvej 84683 Rønnede,nede,665.000,08-02-1995,Alm. Salg,4.104,4,Villa,162,1969,,Aktuel værdi
+Bjerggårdsvej 14683 Rønnede,nede,705.000,15-12-1994,Alm. Salg,-,5,Villa,147,1877,,Aktuel værdi
+Svalevej 64683 Rønnede,nede,555.000,12-12-1994,Alm. Salg,-,5,Villa,166,1978,,Aktuel værdi
+Leestrupvej 254683 Rønnede,nede,1.428.000,12-12-1994,Alm. Salg,-,6,Stuehus,200,1904,,
+Rørsangervej 124683 Rønnede,nede,775.269,21-11-1994,Alm. Salg,4.727,6,Villa,164,1974,,Aktuel værdi
+Højgårdsvej 424683 Rønnede,nede,675.000,28-10-1994,Alm. Salg,-,4,Villa,131,1937,,Aktuel værdi
+Birkevænget 14683 Rønnede,nede,465.000,17-10-1994,Alm. Salg,-,5,Villa,190,1904,,Aktuel værdi
+Vordingborgvej 5014683 Rønnede,nede,1.580.200,11-10-1994,Alm. Salg,11.287,5,Stuehus,140,1957,,
+Starhøjvej 114683 Rønnede,nede,161.500,06-10-1994,Fam. Salg,1.076,4,Stuehus,150,1972,,
+Nymarksvej 334683 Rønnede,nede,635.656,27-09-1994,Fam. Salg,3.571,6,Stuehus,178,1900,,
+Bøgevej 234683 Rønnede,nede,560.000,15-09-1994,Alm. Salg,4.552,4,Villa,123,1972,,Aktuel værdi
+Starhøjvej 84683 Rønnede,nede,1.861.000,31-08-1994,Alm. Salg,-,5,Stuehus,201,1872,,
+Sølvmosevej 64683 Rønnede,nede,207.854,29-08-1994,Alm. Salg,1.148,3,Villa,181,1878,,Aktuel værdi
+Rørsangervej 14683 Rønnede,nede,570.000,19-08-1994,Alm. Salg,4.253,5,Villa,134,1973,,Aktuel værdi
+Hestehavevej 15A4683 Rønnede,nede,535.000,01-08-1994,Alm. Salg,-,5,Villa,226,1870,,Aktuel værdi
+Drosselvej 94683 Rønnede,nede,502.605,04-07-1994,Fam. Salg,3.009,5,Villa,167,1970,,Aktuel værdi
+Tornemarksvej 84683 Rønnede,nede,837.000,28-06-1994,Alm. Salg,6.438,3,Villa,130,1827,,Aktuel værdi
+Møllevej 94683 Rønnede,nede,234.579,20-06-1994,Alm. Salg,1.954,5,Villa,120,1906,,Aktuel værdi
+Løvsangervej 134683 Rønnede,nede,650.000,09-05-1994,Auktion,3.494,5,Villa,186,1973,,Aktuel værdi
+Hylledevej 234683 Rønnede,nede,695.000,14-02-1994,Alm. Salg,4.483,6,Villa,155,1990,,Aktuel værdi
+Industrivej 124683 Rønnede,nede,575.000,23-12-1993,Alm. Salg,-,7,Industri o.l.,27,1969,,Aktuel værdi
+Løvsangervej 34683 Rønnede,nede,640.000,02-12-1993,Alm. Salg,4.129,6,Villa,155,1974,,Aktuel værdi
+Møllevej 134683 Rønnede,nede,426.129,15-11-1993,Alm. Salg,3.043,5,Villa,140,1897,,Aktuel værdi
+Lyngvej 234683 Rønnede,nede,415.000,25-10-1993,Alm. Salg,4.068,4,Villa,102,1962,,Aktuel værdi
+Slettehavevej 664683 Rønnede,nede,1.183.333,25-10-1993,Alm. Salg,-,7,Villa,201,1870,,Aktuel værdi
+Duevej 64683 Rønnede,nede,251.008,12-10-1993,Fam. Salg,1.442,5,Villa,174,1977,,Aktuel værdi
+Leestrupvej 324683 Rønnede,nede,1.368.000,11-10-1993,Alm. Salg,5.723,5,Stuehus,239,1877,,
+Sneden 114683 Rønnede,nede,980.000,25-09-1993,Alm. Salg,4.083,6,Villa,240,1932,,Aktuel værdi
+Glentevej 54683 Rønnede,nede,414.762,21-07-1993,Alm. Salg,3.005,4,Villa,138,1988,,Aktuel værdi
+Grunderupvej 14683 Rønnede,nede,285.000,14-07-1993,Alm. Salg,5.181,2,Villa,55,1870,,Aktuel værdi
+Bøgevej 214683 Rønnede,nede,500.000,11-06-1993,Alm. Salg,-,7,Villa,157,1973,,Aktuel værdi
+Svennerupvej 124683 Rønnede,nede,387.418,06-05-1993,Alm. Salg,4.304,3,Villa,90,1860,,Aktuel værdi
+Møllevej 744683 Rønnede,nede,600.000,10-03-1993,Alm. Salg,6.250,4,Stuehus,96,1904,,
+Østervangsvej 34683 Rønnede,nede,720.000,04-01-1993,Alm. Salg,6.428,4,Stuehus,112,1961,,
+Dyssevænget 14683 Rønnede,nede,655.000,04-01-1993,Alm. Salg,5.240,4,Villa,125,1988,,Aktuel værdi
+Vordingborgvej 4894683 Rønnede,nede,297.524,23-11-1992,Andet,2.125,5,Villa,140,1872,,Aktuel værdi
+Leestrupvej 94683 Rønnede,nede,580.000,05-09-1992,Fam. Salg,-,6,Villa,154,1950,,Aktuel værdi
+Vibevej 84683 Rønnede,nede,575.000,04-08-1992,Alm. Salg,3.549,4,Villa,162,1973,,Aktuel værdi
+Grunderupvej 324683 Rønnede,nede,855.250,06-07-1992,Alm. Salg,-,4,Villa,213,1895,,Aktuel værdi
+Østervej 44683 Rønnede,nede,550.000,27-04-1992,Alm. Salg,-,4,Villa,163,1969,,Aktuel værdi
+Vordingborgvej 5404683 Rønnede,nede,560.000,27-04-1992,Alm. Salg,3.660,4,Villa,153,1920,,Aktuel værdi
+Rørsangervej 54683 Rønnede,nede,660.000,06-04-1992,Alm. Salg,3.928,6,Villa,168,1974,,Aktuel værdi
+Østervangsvej 204683 Rønnede,nede,1.050.000,22-01-1992,Alm. Salg,8.750,5,Stuehus,120,1948,,

@@ -1,0 +1,757 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Tårnbakken 454793 Bogø By,ø By,375.000,19-05-2017,Alm. Salg,7.812,2,Sommerhus,48,1971,,Aktuel værdi
+Bogø Hovedgade 564793 Bogø By,ø By,199.000,24-04-2017,Alm. Salg,1.496,3,Villa,133,1925,,Aktuel værdi
+Ålborgvej 354793 Bogø By,ø By,4.480.000,20-03-2017,Fam. Salg,17.431,6,Stuehus,257,1900,,
+Møllebakken 234793 Bogø By,ø By,400.000,13-03-2017,Alm. Salg,4.819,3,Sommerhus,83,1972,-33 %,Aktuel værdi
+Strandbakken 744793 Bogø By,ø By,575.000,08-03-2017,Alm. Salg,8.582,3,Sommerhus,67,1970,,Aktuel værdi
+Østkildevej 474793 Bogø By,ø By,665.000,06-03-2017,Alm. Salg,13.300,3,Sommerhus,50,1981,-4 %,Aktuel værdi
+Stenkildevej 34793 Bogø By,ø By,1.250.000,23-02-2017,Fam. Salg,6.648,5,Stuehus,188,1896,,
+Østerskovvej 494793 Bogø By,ø By,65.000,02-02-2017,Alm. Salg,580,5,Villa,112,1875,,Aktuel værdi
+Akslen 14793 Bogø By,ø By,420.000,18-01-2017,Alm. Salg,5.384,5,Sommerhus,78,1980,-12 %,Aktuel værdi
+Vesterskovvej 94793 Bogø By,ø By,635.000,17-01-2017,Alm. Salg,6.546,4,Villa,97,1917,-15 %,Aktuel værdi
+Valsen 54793 Bogø By,ø By,247.500,29-12-2016,Alm. Salg,5.265,3,Sommerhus,47,1980,,Aktuel værdi
+Østkildevej 374793 Bogø By,ø By,635.000,27-12-2016,Alm. Salg,7.383,3,Sommerhus,86,1985,-9 %,Aktuel værdi
+Tårnbakken 14793 Bogø By,ø By,385.000,22-12-2016,Alm. Salg,5.923,4,Sommerhus,65,1973,-3 %,Aktuel værdi
+Bogø Hovedgade 1194793 Bogø By,ø By,575.000,02-12-2016,Fam. Salg,3.965,5,Villa,145,1912,,Aktuel værdi
+Østkildevej 24793 Bogø By,ø By,525.000,26-11-2016,Alm. Salg,9.545,4,Sommerhus,55,1981,-12 %,Aktuel værdi
+Nybygade 284793 Bogø By,ø By,365.000,09-11-2016,Auktion,3.802,3,Villa,96,1972,,Aktuel værdi
+Bogø Hovedgade 1624793 Bogø By,ø By,400.000,29-10-2016,Alm. Salg,3.007,6,Villa,133,1900,-11 %,Aktuel værdi
+Tragten 204793 Bogø By,ø By,259.962,28-10-2016,Alm. Salg,3.058,4,Sommerhus,85,1998,,Aktuel værdi
+Møllebakken 284793 Bogø By,ø By,640.000,27-10-2016,Alm. Salg,12.075,3,Sommerhus,53,2008,-8 %,Aktuel værdi
+Sejlet 264793 Bogø By,ø By,1.400.000,26-10-2016,Alm. Salg,18.666,3,Sommerhus,75,2002,-10 %,Aktuel værdi
+Højdedraget 464793 Bogø By,ø By,645.000,24-10-2016,Alm. Salg,10.078,3,Sommerhus,64,1977,-4 %,Aktuel værdi
+Møllebakken 354793 Bogø By,ø By,725.000,21-10-2016,Alm. Salg,9.539,3,Sommerhus,76,1972,-9 %,Aktuel værdi
+Mosedalen 664793 Bogø By,ø By,495.000,14-10-2016,Alm. Salg,4.950,5,Sommerhus,100,1976,-10 %,Aktuel værdi
+Valsen 84793 Bogø By,ø By,700.000,21-09-2016,Alm. Salg,11.666,4,Sommerhus,60,1981,-6 %,Aktuel værdi
+Vindrosen 104793 Bogø By,ø By,430.000,20-09-2016,Fam. Salg,4.387,3,Sommerhus,98,1979,,Aktuel værdi
+Stenkildevej 14793 Bogø By,ø By,20.741.650,13-09-2016,Fam. Salg,112.117,12,Stuehus,185,1880,,
+Højdedraget 544793 Bogø By,ø By,200.000,17-08-2016,Alm. Salg,5.555,3,Sommerhus,36,2003,-20 %,Aktuel værdi
+Fruekildevej 44793 Bogø By,ø By,995.000,12-08-2016,Alm. Salg,10.934,3,Sommerhus,91,2003,0 %,Aktuel værdi
+Møllebakken 174793 Bogø By,ø By,270.000,10-08-2016,Alm. Salg,4.821,3,Sommerhus,56,1974,-8 %,Aktuel værdi
+A Johnsons Vej 134793 Bogø By,ø By,495.000,11-07-2016,Alm. Salg,6.600,3,Villa,75,1967,0 %,Aktuel værdi
+Sydgrænsen 204793 Bogø By,ø By,360.000,02-07-2016,Alm. Salg,7.200,3,Sommerhus,50,1979,-9 %,Aktuel værdi
+Skovgårdsvej 104793 Bogø By,ø By,1.545.000,30-06-2016,Alm. Salg,11.360,5,Villa,136,2000,0 %,Aktuel værdi
+Bogø Hovedgade 1034793 Bogø By,ø By,285.000,27-06-2016,Alm. Salg,3.000,4,Villa,95,1800,-28 %,Aktuel værdi
+Bogø Hovedgade 124793 Bogø By,ø By,1.700.000,23-05-2016,Alm. Salg,9.090,5,Villa,187,2000,-3 %,Aktuel værdi
+A Johnsons Vej 124793 Bogø By,ø By,1.100.000,09-05-2016,Alm. Salg,11.458,4,Villa,96,1977,-6 %,Aktuel værdi
+Akslen 74793 Bogø By,ø By,540.000,25-04-2016,Alm. Salg,9.818,2,Sommerhus,55,1982,-17 %,Aktuel værdi
+Kværnen 54793 Bogø By,ø By,425.000,09-04-2016,Alm. Salg,9.239,2,Sommerhus,46,1981,-14 %,Aktuel værdi
+Valsen 334793 Bogø By,ø By,1.495.000,15-03-2016,Alm. Salg,18.456,3,Sommerhus,81,2003,0 %,Aktuel værdi
+Strandbakken 474793 Bogø By,ø By,300.000,09-03-2016,Alm. Salg,3.333,4,Sommerhus,90,1969,-20 %,Aktuel værdi
+Tårnbakken 364793 Bogø By,ø By,370.000,29-02-2016,Alm. Salg,5.000,3,Sommerhus,74,1971,-6 %,Aktuel værdi
+Akslen 44793 Bogø By,ø By,550.000,25-02-2016,Alm. Salg,10.185,3,Sommerhus,54,1979,-8 %,Aktuel værdi
+Bogø Hovedgade 794793 Bogø By,ø By,1.042.000,22-02-2016,Fam. Salg,6.512,5,Villa,160,1875,,Aktuel værdi
+A Johnsons Vej 344793 Bogø By,ø By,200.000,12-02-2016,Alm. Salg,3.571,5,Sommerhus,56,1981,-20 %,Aktuel værdi
+Østkildevej 754793 Bogø By,ø By,400.000,28-01-2016,Alm. Salg,6.896,3,Sommerhus,58,1976,,Aktuel værdi
+Farøvej 204793 Bogø By,ø By,1.900.000,12-01-2016,Alm. Salg,10.439,5,Villa,182,1908,,Aktuel værdi
+Tragten 364793 Bogø By,ø By,775.000,23-12-2015,Alm. Salg,14.622,2,Sommerhus,53,1993,-3 %,Aktuel værdi
+Bergsvej 154793 Bogø By,ø By,962.432,03-12-2015,Fam. Salg,7.182,3,Villa,134,1999,,Aktuel værdi
+Tårnbakken 624793 Bogø By,ø By,295.000,27-11-2015,Alm. Salg,4.836,3,Sommerhus,61,1973,0 %,Aktuel værdi
+Mosedalen 484793 Bogø By,ø By,367.000,13-11-2015,Alm. Salg,5.477,5,Sommerhus,67,1983,,Aktuel værdi
+Akslen 114793 Bogø By,ø By,688.000,09-11-2015,Alm. Salg,13.490,3,Sommerhus,51,1999,-1 %,Aktuel værdi
+Sejlet 214793 Bogø By,ø By,935.000,04-11-2015,Fam. Salg,11.835,3,Sommerhus,79,2001,,Aktuel værdi
+Mosedalen 144793 Bogø By,ø By,800.000,03-11-2015,Alm. Salg,11.940,3,Sommerhus,67,2004,-6 %,Aktuel værdi
+Smedestræde 54793 Bogø By,ø By,575.000,01-11-2015,Alm. Salg,4.600,5,Villa,125,1978,,Aktuel værdi
+Farøvej 44793 Bogø By,ø By,650.000,24-10-2015,Alm. Salg,5.416,3,Stuehus,120,1875,,
+Vindrosen 84793 Bogø By,ø By,555.000,17-10-2015,Alm. Salg,7.816,3,Sommerhus,71,1985,,Aktuel værdi
+Grønsundvej 6114793 Bogø By,ø By,100.000,01-10-2015,Fam. Salg,617,6,Villa,162,1825,,Aktuel værdi
+Østerskovvej 194793 Bogø By,ø By,825.000,30-09-2015,Alm. Salg,7.236,4,Villa,114,1961,-6 %,Aktuel værdi
+Bogø Hovedgade 1644793 Bogø By,ø By,280.000,21-09-2015,Alm. Salg,2.028,5,Villa,138,1910,,Aktuel værdi
+Højdedraget 94793 Bogø By,ø By,840.000,18-09-2015,Fam. Salg,8.484,5,Sommerhus,99,1977,,Aktuel værdi
+Tragten 94793 Bogø By,ø By,1.408.000,18-09-2015,Alm. Salg,11.733,4,Sommerhus,120,2008,-6 %,Aktuel værdi
+Skovgårdsvej 124793 Bogø By,ø By,401.950,18-09-2015,Fam. Salg,3.215,4,Villa,125,2000,,Aktuel værdi
+Solbakkevej 44793 Bogø By,ø By,1.525.000,10-09-2015,Alm. Salg,10.099,4,Villa,151,1971,-10 %,Aktuel værdi
+Akslen 34793 Bogø By,ø By,340.000,28-08-2015,Alm. Salg,8.717,3,Sommerhus,39,1979,,Aktuel værdi
+Bogø Hovedgade 138A4793 Bogø By,ø By,100.000,19-08-2015,Auktion,740,5,Rækkehus,135,1866,,Aktuel værdi
+Sydgrænsen 24793 Bogø By,ø By,410.000,15-08-2015,Alm. Salg,8.039,3,Sommerhus,51,1981,-8 %,Aktuel værdi
+Mosedalen 304793 Bogø By,ø By,75.000,14-07-2015,Alm. Salg,2.027,2,Sommerhus,37,2011,,Aktuel værdi
+Strandbakken 454793 Bogø By,ø By,493.000,14-07-2015,Fam. Salg,8.803,3,Sommerhus,56,1970,,Aktuel værdi
+Bogø Hovedgade 64793 Bogø By,ø By,295.000,08-07-2015,Alm. Salg,4.338,4,Villa,68,1825,0 %,Aktuel værdi
+Skovvangen 54793 Bogø By,ø By,707.000,03-07-2015,Fam. Salg,5.795,5,Villa,122,1961,,Aktuel værdi
+Østkildevej 494793 Bogø By,ø By,200.000,01-07-2015,Alm. Salg,3.333,4,Sommerhus,60,1977,,Aktuel værdi
+Bogø Hovedgade 1464793 Bogø By,ø By,393.275,24-06-2015,Fam. Salg,1.687,6,Villa,233,1865,,Aktuel værdi
+Strandbakken 304793 Bogø By,ø By,416.667,23-06-2015,Andet,8.333,3,Sommerhus,50,1970,,Aktuel værdi
+Strandbakken 104793 Bogø By,ø By,595.000,14-06-2015,Alm. Salg,8.500,3,Sommerhus,70,1973,0 %,Aktuel værdi
+Vestergade 144793 Bogø By,ø By,225.000,07-06-2015,Alm. Salg,3.214,2,Villa,70,1895,-31 %,Aktuel værdi
+Skåningevej 64793 Bogø By,ø By,73.965,31-05-2015,Alm. Salg,366,3,Stuehus,202,1982,,
+Skåningevej 54793 Bogø By,ø By,175.000,18-05-2015,Alm. Salg,2.611,4,Villa,67,1891,,Aktuel værdi
+Tårnbakken 484793 Bogø By,ø By,333.770,13-05-2015,Andet,4.635,4,Sommerhus,72,1978,-58 %,Aktuel værdi
+Mosedalen 84793 Bogø By,ø By,400.000,07-05-2015,Alm. Salg,5.000,4,Sommerhus,80,1979,-6 %,Aktuel værdi
+Smedestræde 154793 Bogø By,ø By,735.000,21-04-2015,Alm. Salg,13.363,3,Villa,55,1875,,Aktuel værdi
+Omgangen 284793 Bogø By,ø By,500.000,29-03-2015,Alm. Salg,9.615,3,Sommerhus,52,1996,-16 %,Aktuel værdi
+Tårnbakken 144793 Bogø By,ø By,600.000,21-03-2015,Alm. Salg,7.142,4,Sommerhus,84,2007,-7 %,Aktuel værdi
+Bremavej 14793 Bogø By,ø By,475.000,12-03-2015,Alm. Salg,3.518,6,Villa,135,1875,,Aktuel værdi
+Sydgrænsen 124793 Bogø By,ø By,390.000,10-03-2015,Alm. Salg,5.416,4,Sommerhus,72,1978,-13 %,Aktuel værdi
+Tjørnedalsvej 74793 Bogø By,ø By,714.000,10-03-2015,Fam. Salg,8.925,4,Sommerhus,80,1941,,Aktuel værdi
+Stenkildevej 24793 Bogø By,ø By,350.000,19-02-2015,Alm. Salg,2.800,4,Villa,125,1950,-29 %,Aktuel værdi
+Skovgårdsvej 24793 Bogø By,ø By,550.000,29-01-2015,Alm. Salg,5.729,4,Villa,96,2000,0 %,Aktuel værdi
+Skovgårdsvej 164793 Bogø By,ø By,1.145.000,27-01-2015,Alm. Salg,9.621,4,Villa,119,2003,-4 %,Aktuel værdi
+Strandbakken 904793 Bogø By,ø By,800.000,21-01-2015,Alm. Salg,10.256,4,Sommerhus,78,1977,-6 %,Aktuel værdi
+Stenkildevej 54793 Bogø By,ø By,675.000,20-01-2015,Alm. Salg,4.272,6,Villa,158,1937,-10 %,Aktuel værdi
+Bogø Hovedgade 964793 Bogø By,ø By,800.000,07-01-2015,Alm. Salg,4.571,5,Villa,175,1962,,Aktuel værdi
+Nybygade 54793 Bogø By,ø By,450.000,24-12-2014,Alm. Salg,4.090,4,Villa,110,1875,,Aktuel værdi
+Omgangen 254793 Bogø By,ø By,606.000,28-11-2014,Fam. Salg,5.050,5,Sommerhus,120,2006,,Aktuel værdi
+Omgangen 114793 Bogø By,ø By,412.500,18-11-2014,Fam. Salg,5.357,3,Sommerhus,77,2004,,Aktuel værdi
+Vesterskovvej 474793 Bogø By,ø By,4.100.000,29-10-2014,Alm. Salg,19.158,6,Villa,214,1964,-37 %,Aktuel værdi
+Bogø Hovedgade 624793 Bogø By,ø By,230.000,29-10-2014,Auktion,2.555,4,Villa,90,1960,-54 %,Aktuel værdi
+Omgangen 164793 Bogø By,ø By,188.000,16-10-2014,Alm. Salg,4.372,2,Sommerhus,43,1993,,Aktuel værdi
+Skovvangen 14793 Bogø By,ø By,725.000,16-10-2014,Alm. Salg,5.178,4,Villa,140,1825,-9 %,Aktuel værdi
+Møllebakken 634793 Bogø By,ø By,500.000,14-10-2014,Fam. Salg,8.333,4,Sommerhus,60,1972,,Aktuel værdi
+Møllebakken 334793 Bogø By,ø By,375.000,29-09-2014,Alm. Salg,4.261,4,Sommerhus,88,2003,,Aktuel værdi
+Møllebakken 364793 Bogø By,ø By,255.000,25-09-2014,Alm. Salg,4.250,3,Sommerhus,60,1968,-36 %,Aktuel værdi
+Tragten 324793 Bogø By,ø By,240.000,23-09-2014,Alm. Salg,2.474,4,Sommerhus,97,2003,0 %,Aktuel værdi
+Strandbakken 644793 Bogø By,ø By,550.000,01-09-2014,Alm. Salg,9.166,3,Sommerhus,60,1989,-8 %,Aktuel værdi
+Bogø Hovedgade 1064793 Bogø By,ø By,1.500.000,01-09-2014,Alm. Salg,13.513,3,Villa,111,1800,,Aktuel værdi
+Tårnbakken 334793 Bogø By,ø By,490.000,30-08-2014,Alm. Salg,9.074,3,Sommerhus,54,1971,-15 %,Aktuel værdi
+Valsen 324793 Bogø By,ø By,400.000,30-08-2014,Alm. Salg,8.000,3,Sommerhus,50,1980,-16 %,Aktuel værdi
+Vesterskovvej 434793 Bogø By,ø By,625.000,28-08-2014,Alm. Salg,4.340,3,Stuehus,144,1906,-37 %,
+Møllebakken 264793 Bogø By,ø By,1.130.000,21-08-2014,Alm. Salg,17.936,4,Sommerhus,63,2003,-5 %,Aktuel værdi
+Bogø Hovedgade 324793 Bogø By,ø By,285.000,15-08-2014,Alm. Salg,2.794,3,Villa,102,1976,,Aktuel værdi
+Møllebakken 684793 Bogø By,ø By,321.765,11-08-2014,Alm. Salg,4.233,4,Sommerhus,76,1970,,Aktuel værdi
+Ålborgvej 154793 Bogø By,ø By,700.000,09-08-2014,Alm. Salg,3.804,8,Villa,184,1926,,Aktuel værdi
+Østkildevej 634793 Bogø By,ø By,780.000,22-07-2014,Alm. Salg,10.833,3,Sommerhus,72,1998,-9 %,Aktuel værdi
+Østkildevej 234793 Bogø By,ø By,150.000,09-07-2014,Alm. Salg,5.357,2,Sommerhus,28,1958,-62 %,Aktuel værdi
+Valsen 24793 Bogø By,ø By,350.000,15-06-2014,Alm. Salg,7.000,4,Sommerhus,50,1982,-9 %,Aktuel værdi
+Mosedalen 44793 Bogø By,ø By,800.000,05-06-2014,Alm. Salg,8.080,3,Sommerhus,99,1979,-6 %,Aktuel værdi
+Bogø Hovedgade 234793 Bogø By,ø By,1.325.000,01-06-2014,Alm. Salg,9.888,4,Villa,134,2004,-10 %,Aktuel værdi
+Skovgårdsvej 204793 Bogø By,ø By,1.000.000,22-04-2014,Alm. Salg,4.950,4,Villa,202,2009,-9 %,Aktuel værdi
+Mosedalen 824793 Bogø By,ø By,360.000,11-04-2014,Alm. Salg,4.931,3,Sommerhus,73,1981,-9 %,Aktuel værdi
+Grønsundvej 5914793 Bogø By,ø By,1.700.000,08-04-2014,Alm. Salg,10.967,5,Villa,155,1875,0 %,Aktuel værdi
+Valsen 314793 Bogø By,ø By,530.000,29-03-2014,Alm. Salg,7.910,3,Sommerhus,67,1980,-18 %,Aktuel værdi
+Højdedraget 254793 Bogø By,ø By,291.355,26-03-2014,Fam. Salg,7.106,2,Sommerhus,41,1978,,Aktuel værdi
+Østkildevej 34793 Bogø By,ø By,400.000,22-03-2014,Alm. Salg,6.349,3,Sommerhus,63,1979,-20 %,Aktuel værdi
+Hougårdsbanke 14793 Bogø By,ø By,1.000.000,19-03-2014,Alm. Salg,8.474,6,Stuehus,118,1894,,
+Strandbakken 334793 Bogø By,ø By,550.000,14-03-2014,Alm. Salg,10.000,3,Sommerhus,55,1975,,Aktuel værdi
+Bogø Hovedgade 304793 Bogø By,ø By,600.000,12-03-2014,Alm. Salg,4.687,4,Villa,128,1964,-14 %,Aktuel værdi
+Bogø Hovedgade 44793 Bogø By,ø By,1.500.000,11-03-2014,Alm. Salg,7.537,5,Villa,199,1979,-9 %,Aktuel værdi
+Højdedraget 214793 Bogø By,ø By,545.000,13-02-2014,Alm. Salg,10.480,3,Sommerhus,52,1980,0 %,Aktuel værdi
+Tårnbakken 134793 Bogø By,ø By,676.000,02-02-2014,Alm. Salg,5.728,4,Sommerhus,118,1975,-10 %,Aktuel værdi
+Højdedraget 344793 Bogø By,ø By,950.000,18-01-2014,Alm. Salg,13.768,3,Sommerhus,69,2005,-10 %,Aktuel værdi
+Hougårdsbanke 34793 Bogø By,ø By,2.550.000,11-12-2013,Alm. Salg,10.039,8,Stuehus,254,1875,,
+Bogø Hovedgade 1094793 Bogø By,ø By,560.000,11-12-2013,Alm. Salg,3.478,6,Villa,161,1921,-23 %,Aktuel værdi
+Grønsundvej 6054793 Bogø By,ø By,498.750,04-12-2013,Fam. Salg,4.493,4,Villa,111,1864,,Aktuel værdi
+Bogø Hovedgade 1414793 Bogø By,ø By,290.000,29-11-2013,Alm. Salg,2.132,6,Villa,136,1880,-17 %,Aktuel værdi
+Bogø Hovedgade 100A4793 Bogø By,ø By,557.500,14-11-2013,Fam. Salg,4.039,4,Villa,138,2005,,Aktuel værdi
+Strandbakken 124793 Bogø By,ø By,335.000,01-11-2013,Alm. Salg,9.571,3,Sommerhus,35,1974,,Aktuel værdi
+Gammelbystræde 114793 Bogø By,ø By,775.000,31-10-2013,Alm. Salg,4.353,7,Villa,178,1875,-13 %,Aktuel værdi
+Strandbakken 534793 Bogø By,ø By,900.000,29-10-2013,Alm. Salg,8.256,4,Sommerhus,109,1974,-10 %,Aktuel værdi
+Bogø Hovedgade 1084793 Bogø By,ø By,425.000,23-10-2013,Auktion,2.871,5,Villa,148,1895,,Aktuel værdi
+Møllevænget 164793 Bogø By,ø By,385.000,22-10-2013,Alm. Salg,1.370,7,Villa,281,2015,,Aktuel værdi
+Østkildevej 314793 Bogø By,ø By,330.000,15-10-2013,Alm. Salg,5.689,3,Sommerhus,58,1980,-6 %,Aktuel værdi
+Sydgrænsen 34793 Bogø By,ø By,790.000,10-10-2013,Alm. Salg,7.596,4,Sommerhus,104,2003,-7 %,Aktuel værdi
+Sejlet 84793 Bogø By,ø By,490.000,26-09-2013,Alm. Salg,5.505,4,Sommerhus,89,1984,-11 %,Aktuel værdi
+Strandbakken 594793 Bogø By,ø By,475.000,12-09-2013,Alm. Salg,7.421,4,Sommerhus,64,1972,-4 %,Aktuel værdi
+Smedestræde 264793 Bogø By,ø By,734.500,27-08-2013,Fam. Salg,4.346,4,Villa,169,2009,,Aktuel værdi
+Møllebakken 404793 Bogø By,ø By,438.000,21-08-2013,Alm. Salg,7.180,5,Sommerhus,61,1971,,Aktuel værdi
+Højdedraget 74793 Bogø By,ø By,300.000,15-08-2013,Alm. Salg,5.454,3,Sommerhus,55,1978,-14 %,Aktuel værdi
+Gammelbystræde 14793 Bogø By,ø By,325.000,26-07-2013,Alm. Salg,-,4,Villa,113,1933,,Aktuel værdi
+Valsen 384793 Bogø By,ø By,1.435.000,23-07-2013,Alm. Salg,15.105,4,Sommerhus,95,2009,-13 %,Aktuel værdi
+Mosedalen 104793 Bogø By,ø By,350.000,10-07-2013,Alm. Salg,5.645,3,Sommerhus,62,1979,-11 %,Aktuel værdi
+Mosedalen 684793 Bogø By,ø By,995.000,28-06-2013,Alm. Salg,9.567,4,Sommerhus,104,2006,0 %,Aktuel værdi
+Vestergade 164793 Bogø By,ø By,218.036,06-06-2013,Auktion,1.473,6,Villa,148,1885,-60 %,Aktuel værdi
+Østkildevej 404793 Bogø By,ø By,155.000,31-05-2013,Alm. Salg,-,3,Sommerhus,62,2014,,Aktuel værdi
+Østkildevej 204793 Bogø By,ø By,350.000,30-05-2013,Alm. Salg,4.022,3,Sommerhus,87,1982,0 %,Aktuel værdi
+Nybygade 74793 Bogø By,ø By,150.000,30-05-2013,Alm. Salg,2.083,4,Villa,72,1930,-61 %,Aktuel værdi
+Strandbakken 494793 Bogø By,ø By,467.500,01-05-2013,Fam. Salg,8.201,4,Sommerhus,57,1970,,Aktuel værdi
+Møllebakken 54793 Bogø By,ø By,360.000,11-04-2013,Auktion,3.750,3,Sommerhus,96,1979,-20 %,Aktuel værdi
+Mosedalen 124793 Bogø By,ø By,426.367,10-04-2013,Auktion,6.661,2,Sommerhus,64,2005,,Aktuel værdi
+Smedestræde 34793 Bogø By,ø By,200.000,08-04-2013,Alm. Salg,1.694,6,Villa,118,1890,-64 %,Aktuel værdi
+Tragten 144793 Bogø By,ø By,430.000,07-04-2013,Alm. Salg,7.678,3,Sommerhus,56,1981,-4 %,Aktuel værdi
+Nybygade 44793 Bogø By,ø By,150.000,13-03-2013,Alm. Salg,1.851,3,Villa,81,1895,,Aktuel værdi
+Østkildevej 554793 Bogø By,ø By,1.235.000,13-03-2013,Alm. Salg,11.227,4,Sommerhus,110,2006,-5 %,Aktuel værdi
+Galgebakken 54793 Bogø By,ø By,850.000,14-02-2013,Alm. Salg,7.522,4,Villa,113,1987,-15 %,Aktuel værdi
+Skovgårdsvej 324793 Bogø By,ø By,1.150.000,08-02-2013,Alm. Salg,6.216,5,Villa,185,2004,-10 %,Aktuel værdi
+Kværnen 374793 Bogø By,ø By,330.000,03-01-2013,Alm. Salg,6.000,4,Sommerhus,55,1980,-52 %,Aktuel værdi
+Højdedraget 324793 Bogø By,ø By,540.000,13-11-2012,Alm. Salg,8.852,3,Sommerhus,61,1980,,Aktuel værdi
+Søvangsvej 44793 Bogø By,ø By,800.000,13-11-2012,Andet,5.714,4,Villa,140,1875,,Aktuel værdi
+Bogø Hovedgade 654793 Bogø By,ø By,338.000,13-11-2012,Alm. Salg,3.797,3,Villa,89,1875,-10 %,Aktuel værdi
+Søvangsvej 254793 Bogø By,ø By,1.200.000,08-11-2012,Alm. Salg,-,3,Sommerhus,60,1978,-14 %,Aktuel værdi
+Vesternæsvej 44793 Bogø By,ø By,402.500,26-10-2012,Alm. Salg,3.194,5,Villa,126,1919,,Aktuel værdi
+Smedestræde 174793 Bogø By,ø By,1.450.000,22-10-2012,Alm. Salg,10.139,3,Villa,143,1902,-9 %,Aktuel værdi
+Bogø Hovedgade 404793 Bogø By,ø By,4.250.000,18-10-2012,Alm. Salg,15.625,9,Villa,272,1790,,Aktuel værdi
+Ålborgvej 264793 Bogø By,ø By,625.000,17-10-2012,Alm. Salg,6.009,3,Villa,104,1963,-21 %,Aktuel værdi
+Kværnen 184793 Bogø By,ø By,900.000,10-10-2012,Alm. Salg,18.000,3,Sommerhus,50,1996,-5 %,Aktuel værdi
+Tårnbakken 384793 Bogø By,ø By,575.000,26-09-2012,Alm. Salg,8.582,4,Sommerhus,67,1973,-17 %,Aktuel værdi
+Bogø Hovedgade 107A4793 Bogø By,ø By,750.000,17-09-2012,Alm. Salg,5.769,5,Villa,130,1895,-12 %,Aktuel værdi
+Østkildevej 444793 Bogø By,ø By,375.000,13-09-2012,Alm. Salg,7.211,3,Sommerhus,52,2003,,Aktuel værdi
+Kværnen 124793 Bogø By,ø By,505.000,30-08-2012,Alm. Salg,7.112,4,Sommerhus,71,2005,6 %,Aktuel værdi
+Valsen 354793 Bogø By,ø By,770.000,23-08-2012,Alm. Salg,12.622,4,Sommerhus,61,1993,-2 %,Aktuel værdi
+Omgangen 224793 Bogø By,ø By,500.000,22-08-2012,Alm. Salg,8.196,3,Sommerhus,61,1980,-9 %,Aktuel værdi
+Grønsundvej 6124793 Bogø By,ø By,800.000,21-08-2012,Fam. Salg,3.433,5,Villa,233,1925,-63 %,Aktuel værdi
+Højdedraget 84793 Bogø By,ø By,495.000,10-08-2012,Alm. Salg,10.760,3,Sommerhus,46,1994,0 %,Aktuel værdi
+Smedestræde 314793 Bogø By,ø By,837.500,27-07-2012,Alm. Salg,6.025,5,Villa,139,1915,-1 %,Aktuel værdi
+Østerskovvej 264793 Bogø By,ø By,535.500,09-07-2012,Alm. Salg,5.578,2,Villa,96,1965,,Aktuel værdi
+Omgangen 354793 Bogø By,ø By,489.760,14-06-2012,Fam. Salg,9.795,3,Sommerhus,50,2000,,Aktuel værdi
+Bogø Hovedgade 1344793 Bogø By,ø By,620.000,16-05-2012,Auktion,12.400,13,Servicevirksomhed,50,1800,,Aktuel værdi
+Vindrosen 134793 Bogø By,ø By,400.000,25-04-2012,Alm. Salg,6.666,3,Sommerhus,60,1995,-38 %,Aktuel værdi
+Bogø Hovedgade 1104793 Bogø By,ø By,850.000,31-03-2012,Alm. Salg,4.166,6,Villa,204,1900,-43 %,Aktuel værdi
+Kværnen 334793 Bogø By,ø By,720.000,30-03-2012,Alm. Salg,13.584,3,Sommerhus,53,1983,0 %,Aktuel værdi
+A Johnsons Vej 244793 Bogø By,ø By,595.000,29-03-2012,Alm. Salg,8.623,3,Villa,69,1972,0 %,Aktuel værdi
+Vesterskovvej 194793 Bogø By,ø By,120.000,28-03-2012,Auktion,1.000,5,Villa,120,1967,,Aktuel værdi
+A Johnsons Vej 384793 Bogø By,ø By,925.000,23-03-2012,Alm. Salg,11.708,4,Sommerhus,79,1989,,Aktuel værdi
+Østkildevej 264793 Bogø By,ø By,745.000,02-03-2012,Alm. Salg,9.551,3,Sommerhus,78,2006,0 %,Aktuel værdi
+Højdedraget 264793 Bogø By,ø By,300.000,02-02-2012,Alm. Salg,6.122,2,Sommerhus,49,1945,-50 %,Aktuel værdi
+Østkildevej 74793 Bogø By,ø By,400.000,09-01-2012,Alm. Salg,7.547,3,Sommerhus,53,1977,-27 %,Aktuel værdi
+Fruekildevej 134793 Bogø By,ø By,3.401.344,20-12-2011,Fam. Salg,22.675,6,Stuehus,150,1800,,
+Østkildevej 184793 Bogø By,ø By,398.000,08-12-2011,Alm. Salg,7.960,3,Sommerhus,50,2000,,Aktuel værdi
+Valsen 94793 Bogø By,ø By,795.000,14-11-2011,Alm. Salg,13.947,3,Sommerhus,57,1999,0 %,Aktuel værdi
+Sydgrænsen 54793 Bogø By,ø By,150.000,10-11-2011,Alm. Salg,1.442,4,Sommerhus,104,2014,-19 %,Aktuel værdi
+Strandbakken 524793 Bogø By,ø By,845.000,13-10-2011,Alm. Salg,9.494,3,Sommerhus,89,1970,-6 %,Aktuel værdi
+Bogø Hovedgade 1054793 Bogø By,ø By,430.000,04-10-2011,Fam. Salg,2.402,5,Villa,179,1871,,Aktuel værdi
+Søvangsvej 54793 Bogø By,ø By,900.000,18-09-2011,Alm. Salg,6.122,4,Villa,147,1800,-25 %,Aktuel værdi
+Tårnbakken 94793 Bogø By,ø By,450.000,14-09-2011,Alm. Salg,6.716,3,Sommerhus,67,1974,-24 %,Aktuel værdi
+Skåningevej 94793 Bogø By,ø By,2.600.000,18-08-2011,Alm. Salg,14.857,5,Stuehus,175,1875,4 %,
+Møllebakken 184793 Bogø By,ø By,375.000,17-08-2011,Alm. Salg,6.818,3,Sommerhus,55,1973,-24 %,Aktuel værdi
+Tragten 54793 Bogø By,ø By,1.650.000,12-08-2011,Alm. Salg,15.000,4,Sommerhus,110,2005,0 %,Aktuel værdi
+Østkildevej 284793 Bogø By,ø By,453.333,08-08-2011,Fam. Salg,8.717,3,Sommerhus,52,2007,,Aktuel værdi
+Bogø Hovedgade 107B4793 Bogø By,ø By,1.270.000,13-07-2011,Alm. Salg,5.990,6,Villa,212,1989,-6 %,Aktuel værdi
+Vesterskovvej 354793 Bogø By,ø By,1.900.000,27-06-2011,Alm. Salg,11.801,6,Villa,161,1898,-9 %,Aktuel værdi
+Østkildevej 424793 Bogø By,ø By,695.000,15-06-2011,Alm. Salg,9.266,3,Sommerhus,75,1976,-5 %,Aktuel værdi
+Bogø Hovedgade 1364793 Bogø By,ø By,355.000,01-06-2011,Alm. Salg,1.972,6,Villa,180,1900,,Aktuel værdi
+Højdedraget 194793 Bogø By,ø By,285.000,30-05-2011,Alm. Salg,3.352,4,Sommerhus,85,2012,-19 %,Aktuel værdi
+Tragten 274793 Bogø By,ø By,1.695.000,24-05-2011,Alm. Salg,15.409,4,Sommerhus,110,2011,6 %,Aktuel værdi
+Tårnbakken 474793 Bogø By,ø By,495.000,29-04-2011,Alm. Salg,6.187,3,Sommerhus,80,1972,0 %,Aktuel værdi
+Østkildevej 384793 Bogø By,ø By,675.000,04-04-2011,Alm. Salg,13.235,2,Sommerhus,51,1977,-3 %,Aktuel værdi
+Østerskovvej 114793 Bogø By,ø By,600.000,23-03-2011,Alm. Salg,3.797,6,Villa,158,1927,-14 %,Aktuel værdi
+Bogø Hovedgade 1244793 Bogø By,ø By,220.000,23-03-2011,Auktion,1.325,7,Villa,166,1900,,Aktuel værdi
+Strandbakken 344793 Bogø By,ø By,495.000,02-03-2011,Alm. Salg,9.166,4,Sommerhus,54,1970,-7 %,Aktuel værdi
+Tårnbakken 174793 Bogø By,ø By,750.000,21-02-2011,Alm. Salg,13.392,3,Sommerhus,56,2005,-6 %,Aktuel værdi
+Strandbakken 964793 Bogø By,ø By,750.000,19-02-2011,Alm. Salg,15.000,3,Sommerhus,50,1971,-6 %,Aktuel værdi
+Østerskovvej 404793 Bogø By,ø By,1.200.000,18-01-2011,Alm. Salg,13.953,3,Villa,86,1845,-14 %,Aktuel værdi
+Vesterskovvej 144793 Bogø By,ø By,1.100.000,30-12-2010,Alm. Salg,-,7,Villa,240,1825,-12 %,Aktuel værdi
+Kværnen 44793 Bogø By,ø By,245.000,25-12-2010,Alm. Salg,2.333,5,Sommerhus,105,2016,,Aktuel værdi
+Tragten 174793 Bogø By,ø By,1.120.000,21-12-2010,Alm. Salg,14.000,4,Sommerhus,80,1992,-11 %,Aktuel værdi
+Bakkedraget 144793 Bogø By,ø By,350.000,15-12-2010,Alm. Salg,2.272,5,Villa,154,1820,,Aktuel værdi
+Søvangsvej 234793 Bogø By,ø By,920.000,15-12-2010,Alm. Salg,11.358,4,Sommerhus,81,2012,-63 %,Aktuel værdi
+Farøvej 184793 Bogø By,ø By,1.100.000,30-11-2010,Alm. Salg,4.508,4,Stuehus,244,2016,,
+Højdedraget 144793 Bogø By,ø By,39.450,02-11-2010,Fam. Salg,383,4,Sommerhus,103,2011,,Aktuel værdi
+Jørgensmindevej 34793 Bogø By,ø By,600.000,14-10-2010,Alm. Salg,7.792,3,Villa,77,1961,-14 %,Aktuel værdi
+Valsen 304793 Bogø By,ø By,1.025.000,13-10-2010,Alm. Salg,14.236,3,Sommerhus,72,2010,-6 %,Aktuel værdi
+Vindrosen 54793 Bogø By,ø By,900.000,05-10-2010,Alm. Salg,11.250,3,Sommerhus,80,2005,-10 %,Aktuel værdi
+Vesternæsvej 74793 Bogø By,ø By,1.950.000,03-10-2010,Alm. Salg,9.285,7,Stuehus,210,1928,0 %,
+Møllebakken 424793 Bogø By,ø By,383.000,20-09-2010,Alm. Salg,6.963,2,Sommerhus,55,1977,,Aktuel værdi
+Omgangen 244793 Bogø By,ø By,1.400.000,17-09-2010,Alm. Salg,15.053,4,Sommerhus,93,2009,-6 %,Aktuel værdi
+Østkildevej 124793 Bogø By,ø By,625.000,17-09-2010,Alm. Salg,13.888,3,Sommerhus,45,1978,-4 %,Aktuel værdi
+Søvangsvej 284793 Bogø By,ø By,980.000,13-09-2010,Fam. Salg,14.000,4,Sommerhus,70,2004,,Aktuel værdi
+Jørgensmindevej 54793 Bogø By,ø By,375.000,01-09-2010,Auktion,2.358,6,Villa,159,1965,-24 %,Aktuel værdi
+Sejlet 174793 Bogø By,ø By,1.920.000,28-07-2010,Alm. Salg,21.333,3,Sommerhus,90,1999,-4 %,Aktuel værdi
+Bogø Hovedgade 544793 Bogø By,ø By,500.000,14-07-2010,Alm. Salg,4.273,3,Villa,117,1923,,Aktuel værdi
+A Johnsons Vej 174793 Bogø By,ø By,425.000,04-06-2010,Fam. Salg,3.079,4,Villa,138,1967,,Aktuel værdi
+Højdedraget 174793 Bogø By,ø By,1.300.000,01-06-2010,Alm. Salg,13.402,4,Sommerhus,97,2003,0 %,Aktuel værdi
+Mosedalen 504793 Bogø By,ø By,675.000,19-05-2010,Alm. Salg,12.735,3,Sommerhus,53,1995,-7 %,Aktuel værdi
+Strandbakken 274793 Bogø By,ø By,1.145.000,17-05-2010,Alm. Salg,17.615,3,Sommerhus,65,1973,,Aktuel værdi
+Møllebakken 374793 Bogø By,ø By,725.000,07-05-2010,Alm. Salg,13.942,2,Sommerhus,52,1970,,Aktuel værdi
+Bogø Hovedgade 24793 Bogø By,ø By,637.140,02-05-2010,Alm. Salg,4.455,4,Villa,143,1994,,Aktuel værdi
+Skovgårdsvej 344793 Bogø By,ø By,302.804,26-04-2010,Fam. Salg,2.117,6,Villa,143,2002,,Aktuel værdi
+Tårnbakken 184793 Bogø By,ø By,640.000,23-04-2010,Alm. Salg,13.617,3,Sommerhus,47,1972,-5 %,Aktuel værdi
+Vestergade 74793 Bogø By,ø By,395.000,22-04-2010,Alm. Salg,4.817,3,Villa,82,1870,0 %,Aktuel værdi
+Møllebakken 644793 Bogø By,ø By,1.075.000,24-03-2010,Alm. Salg,15.357,4,Sommerhus,70,2003,-2 %,Aktuel værdi
+Tårnbakken 394793 Bogø By,ø By,650.000,22-03-2010,Alm. Salg,15.116,2,Sommerhus,43,1974,0 %,Aktuel værdi
+Vestergade 124793 Bogø By,ø By,400.000,17-03-2010,Auktion,5.128,5,Villa,78,1900,-33 %,Aktuel værdi
+Vesterskovvej 24793 Bogø By,ø By,900.000,10-03-2010,Alm. Salg,-,4,Villa,111,1800,,Aktuel værdi
+Strandbakken 844793 Bogø By,ø By,1.000.000,02-02-2010,Alm. Salg,12.048,4,Sommerhus,83,1969,-9 %,Aktuel værdi
+Jørgensmindevej 74793 Bogø By,ø By,250.000,26-01-2010,Alm. Salg,1.712,4,Villa,146,2010,-23 %,Aktuel værdi
+Vesterskovvej 44793 Bogø By,ø By,2.200.000,15-12-2009,Alm. Salg,22.916,5,Stuehus,96,1900,,
+Møllebakken 204793 Bogø By,ø By,735.000,07-12-2009,Alm. Salg,13.611,3,Sommerhus,54,1972,-8 %,Aktuel værdi
+Skåningevej 84793 Bogø By,ø By,1.062.500,25-11-2009,Fam. Salg,5.059,6,Stuehus,210,1900,,
+Grønsundvej 6024793 Bogø By,ø By,2.850.000,30-10-2009,Alm. Salg,22.800,4,Stuehus,125,1875,,
+Solbakkevej 64793 Bogø By,ø By,631.359,25-10-2009,Alm. Salg,4.073,5,Villa,155,1974,-55 %,Aktuel værdi
+Bergsvej 14793 Bogø By,ø By,1.850.000,24-10-2009,Alm. Salg,11.011,7,Villa,168,1927,-7 %,Aktuel værdi
+Udsigten 74793 Bogø By,ø By,1.450.000,06-09-2009,Alm. Salg,10.357,5,Villa,140,2007,-11 %,Aktuel værdi
+Mosedalen 704793 Bogø By,ø By,225.000,17-08-2009,Alm. Salg,2.922,3,Sommerhus,77,2015,-10 %,Aktuel værdi
+Grønsundvej 6034793 Bogø By,ø By,2.100.000,30-07-2009,Alm. Salg,12.000,8,Stuehus,175,1800,,
+Ålborgvej 74793 Bogø By,ø By,550.000,24-07-2009,Alm. Salg,6.547,3,Villa,84,1870,-15 %,Aktuel værdi
+Mosedalen 184793 Bogø By,ø By,400.000,17-07-2009,Alm. Salg,3.883,4,Sommerhus,103,2010,,Aktuel værdi
+Søvangsvej 274793 Bogø By,ø By,629.000,07-07-2009,Fam. Salg,17.000,2,Sommerhus,37,1952,,Aktuel værdi
+Strandbakken 574793 Bogø By,ø By,700.000,02-07-2009,Alm. Salg,9.090,3,Sommerhus,77,1973,-12 %,Aktuel værdi
+Bogø Hovedgade 10A4793 Bogø By,ø By,862.126,30-06-2009,Alm. Salg,6.292,4,Rækkehus,137,1943,,Aktuel værdi
+Bogø Hovedgade 82A4793 Bogø By,ø By,450.000,27-05-2009,Auktion,8.181,3,Anden beboelse,55,1925,,Aktuel værdi
+Vesterskovvej 54793 Bogø By,ø By,600.000,26-05-2009,Alm. Salg,-,3,Villa,77,1825,-25 %,Aktuel værdi
+Smedestræde 144793 Bogø By,ø By,107.701,18-05-2009,Fam. Salg,1.495,4,Villa,72,1950,,Aktuel værdi
+Vesterskovvej 514793 Bogø By,ø By,3.850.000,14-05-2009,Auktion,18.965,5,Stuehus,203,1875,,
+Ålborgvej 84793 Bogø By,ø By,800.000,22-04-2009,Alm. Salg,6.153,4,Villa,130,1915,-33 %,Aktuel værdi
+Bogø Hovedgade 924793 Bogø By,ø By,635.000,10-04-2009,Alm. Salg,6.287,4,Villa,101,1900,-12 %,Aktuel værdi
+Farøvej 54793 Bogø By,ø By,2.325.000,26-03-2009,Alm. Salg,21.136,5,Stuehus,110,1860,-22 %,
+Vesterskovvej 154793 Bogø By,ø By,703.771,26-03-2009,Alm. Salg,4.454,5,Villa,158,1912,-62 %,Aktuel værdi
+Sejlet 224793 Bogø By,ø By,1.000.000,11-03-2009,Alm. Salg,12.345,3,Sommerhus,81,2002,-26 %,Aktuel værdi
+Østkildevej 354793 Bogø By,ø By,630.000,27-02-2009,Alm. Salg,8.630,3,Sommerhus,73,1977,-18 %,Aktuel værdi
+Østkildevej 334793 Bogø By,ø By,350.000,22-02-2009,Alm. Salg,-,5,Sommerhus,98,1977,-11 %,Aktuel værdi
+Nybygade 204793 Bogø By,ø By,700.000,10-02-2009,Alm. Salg,6.666,3,Villa,105,1900,-12 %,Aktuel værdi
+Vestergade 84793 Bogø By,ø By,1.500.000,20-01-2009,Alm. Salg,11.627,5,Villa,129,1933,,Aktuel værdi
+Østerskovvej 4A4793 Bogø By,ø By,960.000,21-12-2008,Alm. Salg,3.453,8,Villa,278,1915,,Aktuel værdi
+Smedestræde 214793 Bogø By,ø By,21.534,11-12-2008,Auktion,458,3,Villa,47,1750,,Aktuel værdi
+Vesterskovvej 14793 Bogø By,ø By,680.000,11-11-2008,Fam. Salg,5.312,5,Villa,128,1900,,Aktuel værdi
+Bogø Hovedgade 954793 Bogø By,ø By,722.500,11-11-2008,Fam. Salg,5.971,5,Villa,121,1924,,Aktuel værdi
+Omgangen 144793 Bogø By,ø By,650.000,26-10-2008,Alm. Salg,12.745,4,Sommerhus,51,1982,-12 %,Aktuel værdi
+Vindrosen 204793 Bogø By,ø By,664.000,12-10-2008,Alm. Salg,11.857,4,Sommerhus,56,1987,-14 %,Aktuel værdi
+Møllebakken 604793 Bogø By,ø By,895.000,11-10-2008,Alm. Salg,11.329,4,Sommerhus,79,1974,0 %,Aktuel værdi
+Ålborgvej 224793 Bogø By,ø By,550.000,01-10-2008,Alm. Salg,4.583,5,Villa,120,1960,-31 %,Aktuel værdi
+Stenkildevej 74793 Bogø By,ø By,1.415.000,30-09-2008,Alm. Salg,8.575,4,Villa,165,1900,,Aktuel værdi
+Smedestræde 204793 Bogø By,ø By,695.000,15-09-2008,Alm. Salg,6.950,3,Villa,100,1961,-13 %,Aktuel værdi
+Tårnbakken 344793 Bogø By,ø By,600.000,01-09-2008,Alm. Salg,7.142,4,Sommerhus,84,1971,-7 %,Aktuel værdi
+Bogø Hovedgade 1494793 Bogø By,ø By,700.000,19-08-2008,Alm. Salg,9.459,4,Villa,74,1929,-7 %,Aktuel værdi
+Nybygade 64793 Bogø By,ø By,2.300.000,15-08-2008,Alm. Salg,14.649,5,Villa,157,2006,-8 %,Aktuel værdi
+Smedestræde 184793 Bogø By,ø By,750.000,31-07-2008,Alm. Salg,7.211,4,Villa,104,1960,-14 %,Aktuel værdi
+Tårnbakken 374793 Bogø By,ø By,900.000,29-07-2008,Alm. Salg,18.000,3,Sommerhus,50,1974,-3 %,Aktuel værdi
+Tragten 194793 Bogø By,ø By,972.586,24-07-2008,Fam. Salg,-,3,Sommerhus,68,1993,,Aktuel værdi
+Møllebakken 124793 Bogø By,ø By,375.000,01-07-2008,Fam. Salg,5.859,2,Sommerhus,64,2009,,Aktuel værdi
+Bogø Hovedgade 514793 Bogø By,ø By,1.000.000,16-06-2008,Fam. Salg,6.329,4,Villa,158,1800,,Aktuel værdi
+Bogø Hovedgade 284793 Bogø By,ø By,1.200.000,28-05-2008,Alm. Salg,11.320,5,Villa,106,1910,-6 %,Aktuel værdi
+Farø Vad 54793 Bogø By,ø By,2.400.000,20-04-2008,Alm. Salg,21.052,5,Stuehus,114,1887,-11 %,
+Bogø Hovedgade 714793 Bogø By,ø By,1.395.000,17-04-2008,Alm. Salg,9.300,5,Villa,150,1915,-7 %,Aktuel værdi
+Bogø Hovedgade 1554793 Bogø By,ø By,525.000,16-04-2008,Alm. Salg,5.000,4,Villa,105,1800,-12 %,Aktuel værdi
+Møllebakken 94793 Bogø By,ø By,855.000,09-04-2008,Alm. Salg,10.301,4,Sommerhus,83,1980,-10 %,Aktuel værdi
+Bogø Hovedgade 1694793 Bogø By,ø By,1.900.000,14-02-2008,Alm. Salg,8.837,8,Villa,215,1901,-5 %,Aktuel værdi
+Møllebakken 384793 Bogø By,ø By,549.000,13-02-2008,Fam. Salg,11.204,3,Sommerhus,49,1972,-16 %,Aktuel værdi
+Bogø Hovedgade 1534793 Bogø By,ø By,700.000,07-02-2008,Alm. Salg,6.542,6,Villa,107,1702,,Aktuel værdi
+Vindrosen 94793 Bogø By,ø By,1.500.000,24-01-2008,Alm. Salg,16.129,4,Sommerhus,93,2004,0 %,Aktuel værdi
+Sydgrænsen 84793 Bogø By,ø By,300.000,23-12-2007,Alm. Salg,2.631,4,Sommerhus,114,2010,-14 %,Aktuel værdi
+Kværnen 234793 Bogø By,ø By,1.260.000,14-12-2007,Alm. Salg,17.746,3,Sommerhus,71,2005,-10 %,Aktuel værdi
+Tårnbakken 204793 Bogø By,ø By,675.000,09-12-2007,Alm. Salg,16.875,3,Sommerhus,40,1973,,Aktuel værdi
+Tragten 184793 Bogø By,ø By,1.366.200,21-11-2007,Alm. Salg,19.242,4,Sommerhus,71,2001,-8 %,Aktuel værdi
+Østerskovvej 334793 Bogø By,ø By,1.061.958,20-11-2007,Alm. Salg,7.808,7,Villa,136,1874,,Aktuel værdi
+Tårnbakken 674793 Bogø By,ø By,735.000,19-11-2007,Alm. Salg,14.411,3,Sommerhus,51,1974,-8 %,Aktuel værdi
+Sydgrænsen 14793 Bogø By,ø By,625.000,15-11-2007,Alm. Salg,9.328,4,Sommerhus,67,1976,-17 %,Aktuel værdi
+Østkildevej 114793 Bogø By,ø By,1.150.000,12-11-2007,Alm. Salg,16.428,3,Sommerhus,70,2000,,Aktuel værdi
+Sejlet 244793 Bogø By,ø By,750.000,09-10-2007,Alm. Salg,7.281,3,Sommerhus,103,2008,,Aktuel værdi
+Strandbakken 74793 Bogø By,ø By,680.000,27-09-2007,Alm. Salg,16.190,3,Sommerhus,42,1972,-14 %,Aktuel værdi
+Bogø Hovedgade 138B4793 Bogø By,ø By,685.000,02-09-2007,Alm. Salg,5.436,5,Rækkehus,126,1866,,Aktuel værdi
+Jørgensmindevej 24793 Bogø By,ø By,700.000,30-08-2007,Alm. Salg,4.242,5,Villa,165,1900,,Aktuel værdi
+Bogø Hovedgade 1264793 Bogø By,ø By,1.995.000,18-08-2007,Alm. Salg,-,6,Villa,160,1830,0 %,Aktuel værdi
+Vesternæsvej 24793 Bogø By,ø By,739.500,30-07-2007,Fam. Salg,5.602,5,Villa,132,1912,,Aktuel værdi
+Smedestræde 14793 Bogø By,ø By,625.000,26-07-2007,Alm. Salg,5.252,4,Villa,119,1925,,Aktuel værdi
+Vesterskovvej 334793 Bogø By,ø By,2.300.000,21-07-2007,Alm. Salg,12.169,5,Villa,189,1880,-4 %,Aktuel værdi
+Tårnbakken 504793 Bogø By,ø By,650.000,13-07-2007,Alm. Salg,-,3,Sommerhus,70,1973,-18 %,Aktuel værdi
+Møllebakken 414793 Bogø By,ø By,1.600.000,07-07-2007,Alm. Salg,17.204,4,Sommerhus,93,2006,-3 %,Aktuel værdi
+Søvangsvej 204793 Bogø By,ø By,540.000,23-06-2007,Fam. Salg,10.800,3,Sommerhus,50,1974,,Aktuel værdi
+Møllebakken 554793 Bogø By,ø By,700.000,17-06-2007,Fam. Salg,12.500,3,Sommerhus,56,1973,,Aktuel værdi
+Østerskovvej 27A4793 Bogø By,ø By,1.000.000,14-05-2007,Fam. Salg,8.000,6,Villa,125,1967,,Aktuel værdi
+Bogø Hovedgade 10B4793 Bogø By,ø By,1.335.000,12-05-2007,Alm. Salg,11.125,4,Rækkehus,120,1943,-3 %,Aktuel værdi
+Strandbakken 94793 Bogø By,ø By,1.150.000,27-04-2007,Alm. Salg,17.968,4,Sommerhus,64,1972,-8 %,Aktuel værdi
+Møllebakken 454793 Bogø By,ø By,1.150.000,23-04-2007,Alm. Salg,18.548,3,Sommerhus,62,1972,0 %,Aktuel værdi
+Østerskovvej 234793 Bogø By,ø By,1.500.000,02-04-2007,Alm. Salg,10.869,5,Villa,138,1885,-5 %,Aktuel værdi
+A Johnsons Vej 154793 Bogø By,ø By,2.300.000,29-03-2007,Alm. Salg,18.253,4,Villa,126,1966,-5 %,Aktuel værdi
+Strandbakken 444793 Bogø By,ø By,360.000,24-02-2007,Alm. Salg,3.956,4,Sommerhus,91,2000,,Aktuel værdi
+Møllebakken 194793 Bogø By,ø By,850.000,23-02-2007,Alm. Salg,12.500,3,Sommerhus,68,1973,,Aktuel værdi
+Valsen 174793 Bogø By,ø By,375.000,21-02-2007,Alm. Salg,5.136,4,Sommerhus,73,2008,,Aktuel værdi
+Fruekildevej 154793 Bogø By,ø By,2.890.000,15-02-2007,Fam. Salg,14.029,8,Stuehus,206,1916,,
+Vesternæsvej 14793 Bogø By,ø By,1.188.500,03-02-2007,Fam. Salg,10.334,5,Stuehus,115,1880,,
+Bergsvej 114793 Bogø By,ø By,350.000,10-01-2007,Alm. Salg,2.536,4,Villa,138,2008,,Aktuel værdi
+Bogø Hovedgade 1124793 Bogø By,ø By,460.000,04-01-2007,Alm. Salg,-,4,Servicevirksomhed,60,1895,,Aktuel værdi
+Højdedraget 244793 Bogø By,ø By,695.000,25-11-2006,Alm. Salg,16.951,3,Sommerhus,41,1987,,Aktuel værdi
+Østerskovvej 64793 Bogø By,ø By,1.150.000,19-10-2006,Alm. Salg,6.647,5,Villa,173,1886,,Aktuel værdi
+Fruekildevej 84793 Bogø By,ø By,1.900.000,17-10-2006,Alm. Salg,13.194,6,Villa,144,1875,,Aktuel værdi
+Bogø Hovedgade 774793 Bogø By,ø By,1.175.000,29-09-2006,Alm. Salg,8.703,5,Villa,135,1889,,Aktuel værdi
+Strandbakken 684793 Bogø By,ø By,48.000,15-09-2006,Fam. Salg,494,4,Sommerhus,97,2007,,Aktuel værdi
+Strandbakken 704793 Bogø By,ø By,48.000,15-09-2006,Fam. Salg,494,4,Sommerhus,97,2007,,Aktuel værdi
+Østerskovvej 144793 Bogø By,ø By,326.565,11-09-2006,Andet,4.082,3,Villa,80,1900,,Aktuel værdi
+Bogø Hovedgade 1354793 Bogø By,ø By,795.000,23-08-2006,Alm. Salg,6.516,5,Villa,122,1900,,Aktuel værdi
+Jørgensmindevej 94793 Bogø By,ø By,1.550.000,18-08-2006,Alm. Salg,10.839,5,Villa,143,1969,,Aktuel værdi
+Tragten 64793 Bogø By,ø By,350.000,01-08-2006,Alm. Salg,6.363,3,Sommerhus,55,2007,,Aktuel værdi
+Akslen 64793 Bogø By,ø By,449.000,18-07-2006,Alm. Salg,5.756,4,Sommerhus,78,2007,,Aktuel værdi
+Bogø Hovedgade 984793 Bogø By,ø By,1.145.000,10-07-2006,Alm. Salg,11.450,3,Villa,100,1825,,Aktuel værdi
+Kværnen 84793 Bogø By,ø By,1.800.000,09-06-2006,Alm. Salg,19.780,4,Sommerhus,91,2004,,Aktuel værdi
+Smedestræde 24793 Bogø By,ø By,990.000,24-05-2006,Alm. Salg,4.647,5,Villa,213,1885,,Aktuel værdi
+Tårnbakken 54793 Bogø By,ø By,1.100.000,23-05-2006,Alm. Salg,14.285,4,Sommerhus,77,1974,,Aktuel værdi
+Tragten 14793 Bogø By,ø By,825.000,19-05-2006,Alm. Salg,9.593,4,Sommerhus,86,1997,,Aktuel værdi
+Strandbakken 244793 Bogø By,ø By,450.000,05-05-2006,Alm. Salg,5.172,2,Sommerhus,87,2011,,Aktuel værdi
+A Johnsons Vej 264793 Bogø By,ø By,1.200.000,03-05-2006,Alm. Salg,16.000,3,Sommerhus,75,1997,,Aktuel værdi
+Vesterskovvej 414793 Bogø By,ø By,990.000,02-05-2006,Fam. Salg,6.387,7,Stuehus,155,1773,,
+Østerskovvej 394793 Bogø By,ø By,1.330.000,28-04-2006,Alm. Salg,8.636,5,Villa,154,1824,,Aktuel værdi
+Østerskovvej 424793 Bogø By,ø By,2.400.000,26-04-2006,Alm. Salg,14.814,8,Villa,162,1897,,Aktuel værdi
+Møllebakken 534793 Bogø By,ø By,645.000,24-04-2006,Alm. Salg,12.900,3,Sommerhus,50,1973,,Aktuel værdi
+Tårnbakken 224793 Bogø By,ø By,810.000,20-04-2006,Alm. Salg,13.728,3,Sommerhus,59,1973,,Aktuel værdi
+Nybygade 224793 Bogø By,ø By,795.000,20-04-2006,Alm. Salg,15.900,2,Rækkehus,50,1890,,Aktuel værdi
+Vestergade 9B4793 Bogø By,ø By,1.020.000,12-04-2006,Alm. Salg,12.750,4,Villa,80,1800,,Aktuel værdi
+Skovgårdsvej 244793 Bogø By,ø By,11.720,10-04-2006,Alm. Salg,58,4,Villa,199,2007,,Aktuel værdi
+Valsen 294793 Bogø By,ø By,1.250.000,04-04-2006,Alm. Salg,21.186,3,Sommerhus,59,2003,,Aktuel værdi
+Kværnen 474793 Bogø By,ø By,1.100.000,28-03-2006,Alm. Salg,11.956,5,Sommerhus,92,1980,,Aktuel værdi
+Møllebakken 694793 Bogø By,ø By,790.000,13-03-2006,Alm. Salg,12.153,3,Sommerhus,65,1970,,Aktuel værdi
+Tårnbakken 74793 Bogø By,ø By,400.000,16-02-2006,Alm. Salg,7.407,4,Sommerhus,54,1973,,Aktuel værdi
+Strandbakken 804793 Bogø By,ø By,1.590.000,07-02-2006,Alm. Salg,18.068,3,Sommerhus,88,2005,,Aktuel værdi
+Kværnen 314793 Bogø By,ø By,350.000,04-02-2006,Alm. Salg,4.729,3,Sommerhus,74,2008,,Aktuel værdi
+Bogø Hovedgade 764793 Bogø By,ø By,1.306.500,10-01-2006,Alm. Salg,12.097,5,Villa,108,1800,,Aktuel værdi
+Bogø Hovedgade 394793 Bogø By,ø By,221.000,25-12-2005,Fam. Salg,3.069,4,Sommerhus,72,2007,,Aktuel værdi
+Grønsundvej 6074793 Bogø By,ø By,2.067.874,15-12-2005,Alm. Salg,20.887,4,Stuehus,99,1900,,
+Kværnen 74793 Bogø By,ø By,375.000,13-12-2005,Alm. Salg,3.989,4,Sommerhus,94,2008,,Aktuel værdi
+Tårnbakken 564793 Bogø By,ø By,900.000,12-12-2005,Fam. Salg,12.857,3,Sommerhus,70,2005,,Aktuel værdi
+Skovgårdsvej 144793 Bogø By,ø By,103.635,23-11-2005,Alm. Salg,856,4,Villa,121,2008,,Aktuel værdi
+Nybygade 164793 Bogø By,ø By,1.375.000,18-11-2005,Alm. Salg,9.821,6,Villa,140,1892,,Aktuel værdi
+A Johnsons Vej 584793 Bogø By,ø By,918.600,15-11-2005,Andet,6.754,5,Villa,136,1870,,Aktuel værdi
+Valsen 144793 Bogø By,ø By,380.000,08-11-2005,Alm. Salg,4.634,3,Sommerhus,82,2008,,Aktuel værdi
+Bergsvej 134793 Bogø By,ø By,305.000,31-10-2005,Alm. Salg,1.804,7,Villa,169,2007,,Aktuel værdi
+Skovgårdsvej 224793 Bogø By,ø By,198.479,24-10-2005,Alm. Salg,1.526,3,Villa,130,2006,,Aktuel værdi
+Mosedalen 264793 Bogø By,ø By,825.000,22-10-2005,Alm. Salg,13.750,4,Sommerhus,60,1996,,Aktuel værdi
+Bakkedraget 74793 Bogø By,ø By,1.525.000,21-10-2005,Alm. Salg,8.111,6,Villa,188,1900,,Aktuel værdi
+Tårnbakken 24793 Bogø By,ø By,507.913,18-10-2005,Fam. Salg,9.405,3,Sommerhus,54,1973,,Aktuel værdi
+Møllebakken 314793 Bogø By,ø By,975.000,04-10-2005,Alm. Salg,21.195,3,Sommerhus,46,1972,,Aktuel værdi
+Tragten 254793 Bogø By,ø By,1.270.000,01-10-2005,Alm. Salg,18.405,4,Sommerhus,69,2005,,Aktuel værdi
+Bogø Hovedgade 1224793 Bogø By,ø By,990.000,30-09-2005,Alm. Salg,7.333,7,Villa,135,1932,,Aktuel værdi
+Omgangen 134793 Bogø By,ø By,1.045.000,27-09-2005,Alm. Salg,14.315,3,Sommerhus,73,2005,,Aktuel værdi
+Østerskovvej 164793 Bogø By,ø By,1.400.000,21-09-2005,Alm. Salg,8.641,7,Villa,162,1975,,Aktuel værdi
+Møllebakken 24793 Bogø By,ø By,137.500,09-09-2005,Fam. Salg,1.809,4,Sommerhus,76,2006,,Aktuel værdi
+Bogø Hovedgade 884793 Bogø By,ø By,975.000,08-09-2005,Alm. Salg,5.186,5,Villa,188,1897,,Aktuel værdi
+Sejlet 184793 Bogø By,ø By,1.395.000,30-08-2005,Alm. Salg,17.437,4,Sommerhus,80,2002,,Aktuel værdi
+Bogø Hovedgade 704793 Bogø By,ø By,595.000,19-08-2005,Alm. Salg,-,7,Villa,192,1956,,Aktuel værdi
+Østerskovvej 214793 Bogø By,ø By,1.450.000,18-08-2005,Alm. Salg,12.083,3,Villa,120,1976,,Aktuel værdi
+Grønsundvej 6104793 Bogø By,ø By,9.300.000,12-08-2005,Alm. Salg,43.255,7,Stuehus,215,1925,,
+Møllebakken 614793 Bogø By,ø By,100.000,10-08-2005,Alm. Salg,1.020,3,Sommerhus,98,2005,,Aktuel værdi
+A Johnsons Vej 104793 Bogø By,ø By,650.000,04-08-2005,Alm. Salg,15.116,3,Sommerhus,43,2000,,Aktuel værdi
+Bergsvej 84793 Bogø By,ø By,1.295.000,31-07-2005,Alm. Salg,10.791,5,Villa,120,2001,,Aktuel værdi
+Strandbakken 984793 Bogø By,ø By,310.000,28-07-2005,Alm. Salg,2.767,4,Sommerhus,112,2009,,Aktuel værdi
+Østkildevej 574793 Bogø By,ø By,675.000,07-07-2005,Alm. Salg,15.697,3,Sommerhus,43,1977,,Aktuel værdi
+Skovgårdsvej 364793 Bogø By,ø By,117.306,07-07-2005,Alm. Salg,1.047,4,Villa,112,2006,,Aktuel værdi
+Tragten 344793 Bogø By,ø By,850.000,03-07-2005,Alm. Salg,10.365,4,Sommerhus,82,1992,,Aktuel værdi
+Vindrosen 124793 Bogø By,ø By,715.000,01-07-2005,Alm. Salg,13.240,4,Sommerhus,54,1981,,Aktuel værdi
+Omgangen 264793 Bogø By,ø By,760.000,28-06-2005,Alm. Salg,-,3,Sommerhus,75,1980,,Aktuel værdi
+Strandbakken 364793 Bogø By,ø By,695.000,16-06-2005,Alm. Salg,-,4,Sommerhus,92,1971,,Aktuel værdi
+Strandbakken 264793 Bogø By,ø By,775.000,13-06-2005,Alm. Salg,12.704,4,Sommerhus,61,1970,,Aktuel værdi
+Vindrosen 214793 Bogø By,ø By,331.500,02-06-2005,Fam. Salg,3.250,3,Sommerhus,102,1980,,Aktuel værdi
+Strandbakken 664793 Bogø By,ø By,670.000,31-05-2005,Alm. Salg,-,4,Sommerhus,78,1972,,Aktuel værdi
+Strandbakken 214793 Bogø By,ø By,629.570,30-05-2005,Andet,7.585,3,Sommerhus,83,2005,,Aktuel værdi
+Sejlet 154793 Bogø By,ø By,890.000,11-05-2005,Alm. Salg,17.800,3,Sommerhus,50,1987,,Aktuel værdi
+Vindrosen 154793 Bogø By,ø By,282.000,09-05-2005,Alm. Salg,3.481,3,Sommerhus,81,2006,,Aktuel værdi
+Skovgårdsvej 304793 Bogø By,ø By,180.383,04-05-2005,Alm. Salg,1.067,5,Villa,169,2006,,Aktuel værdi
+Østkildevej 94793 Bogø By,ø By,375.000,03-05-2005,Alm. Salg,10.714,3,Sommerhus,35,1971,,Aktuel værdi
+Farøvej 74793 Bogø By,ø By,1.450.000,29-04-2005,Alm. Salg,5.967,7,Villa,243,1880,,Aktuel værdi
+Møllebakken 514793 Bogø By,ø By,282.000,29-04-2005,Andet,4.947,3,Sommerhus,57,1970,,Aktuel værdi
+Vindrosen 64793 Bogø By,ø By,725.000,26-04-2005,Alm. Salg,-,3,Sommerhus,45,1985,,Aktuel værdi
+Højdedraget 364793 Bogø By,ø By,275.000,14-04-2005,Alm. Salg,2.455,4,Sommerhus,112,2007,,Aktuel værdi
+Vindrosen 74793 Bogø By,ø By,150.000,30-03-2005,Alm. Salg,1.807,3,Sommerhus,83,2007,,Aktuel værdi
+Strandbakken 624793 Bogø By,ø By,1.102.000,26-03-2005,Alm. Salg,15.521,3,Sommerhus,71,2004,,Aktuel værdi
+Sejlet 134793 Bogø By,ø By,1.475.000,04-03-2005,Alm. Salg,15.206,4,Sommerhus,97,2004,,Aktuel værdi
+Mosedalen 284793 Bogø By,ø By,660.000,06-02-2005,Alm. Salg,-,5,Sommerhus,115,1979,,Aktuel værdi
+Valsen 424793 Bogø By,ø By,1.035.900,05-02-2005,Alm. Salg,13.112,4,Sommerhus,79,1987,,Aktuel værdi
+Tårnbakken 594793 Bogø By,ø By,400.000,12-01-2005,Alm. Salg,6.250,3,Sommerhus,64,1976,,Aktuel værdi
+Jørgensmindevej 114793 Bogø By,ø By,1.175.000,08-01-2005,Alm. Salg,9.873,4,Villa,119,2000,,Aktuel værdi
+Grønsundvej 6004793 Bogø By,ø By,2.000.000,30-12-2004,Alm. Salg,10.928,4,Villa,183,1937,,Aktuel værdi
+Tragten 334793 Bogø By,ø By,1.475.000,22-12-2004,Alm. Salg,15.206,4,Sommerhus,97,2004,,Aktuel værdi
+Vestergade 154793 Bogø By,ø By,895.000,19-12-2004,Alm. Salg,8.523,5,Villa,105,1895,,Aktuel værdi
+Tårnbakken 44793 Bogø By,ø By,200.000,13-12-2004,Alm. Salg,5.000,2,Sommerhus,40,1980,,Aktuel værdi
+Højdedraget 134793 Bogø By,ø By,550.000,22-11-2004,Alm. Salg,14.102,3,Sommerhus,39,2001,,Aktuel værdi
+Møllebakken 104793 Bogø By,ø By,260.000,19-11-2004,Alm. Salg,3.466,4,Sommerhus,75,2006,,Aktuel værdi
+Grønsundvej 6164793 Bogø By,ø By,1.950.000,19-11-2004,Alm. Salg,-,5,Stuehus,187,1949,,
+Bogø Hovedgade 314793 Bogø By,ø By,750.000,15-11-2004,Alm. Salg,9.259,4,Villa,81,1934,,Aktuel værdi
+Skovgårdsvej 264793 Bogø By,ø By,204.902,31-10-2004,Alm. Salg,1.004,4,Villa,204,2005,,Aktuel værdi
+Vesterskovvej 244793 Bogø By,ø By,2.400.000,29-10-2004,Alm. Salg,-,7,Stuehus,279,1870,,
+Skovgårdsvej 284793 Bogø By,ø By,1.280.000,24-10-2004,Alm. Salg,7.150,7,Villa,179,2004,,Aktuel værdi
+Vesternæsvej 34793 Bogø By,ø By,1.075.000,23-10-2004,Alm. Salg,-,4,Villa,159,1920,,Aktuel værdi
+Tårnbakken 274793 Bogø By,ø By,640.000,12-10-2004,Alm. Salg,9.846,4,Sommerhus,65,1974,,Aktuel værdi
+Akslen 84793 Bogø By,ø By,665.000,25-09-2004,Alm. Salg,12.788,4,Sommerhus,52,1979,,Aktuel værdi
+Skovgårdsvej 74793 Bogø By,ø By,1.550.000,21-09-2004,Alm. Salg,9.171,5,Villa,169,1900,,Aktuel værdi
+A Johnsons Vej 444793 Bogø By,ø By,370.000,06-09-2004,Fam. Salg,-,4,Villa,130,1998,,Aktuel værdi
+Vesternæsvej 104793 Bogø By,ø By,1.350.000,26-08-2004,Alm. Salg,5.744,4,Villa,235,2007,,Aktuel værdi
+Grønsundvej 6094793 Bogø By,ø By,863.123,24-08-2004,Andet,6.165,4,Villa,140,1850,,Aktuel værdi
+Østkildevej 84793 Bogø By,ø By,100.000,01-08-2004,Alm. Salg,1.449,4,Sommerhus,69,1983,,Aktuel værdi
+Mosedalen 564793 Bogø By,ø By,307.000,30-07-2004,Alm. Salg,8.527,3,Sommerhus,36,1977,,Aktuel værdi
+Smedestræde 234793 Bogø By,ø By,600.000,07-07-2004,Alm. Salg,6.250,4,Villa,96,1915,,Aktuel værdi
+Omgangen 34793 Bogø By,ø By,227.500,25-06-2004,Alm. Salg,1.961,4,Sommerhus,116,2013,,Aktuel værdi
+Bogø Hovedgade 464793 Bogø By,ø By,400.000,21-06-2004,Alm. Salg,5.970,3,Sommerhus,67,2007,,Aktuel værdi
+A Johnsons Vej 304793 Bogø By,ø By,145.000,04-06-2004,Alm. Salg,1.510,3,Villa,96,2006,,Aktuel værdi
+Valsen 124793 Bogø By,ø By,50.000,19-05-2004,Alm. Salg,609,3,Sommerhus,82,2008,,Aktuel værdi
+Møllebakken 594793 Bogø By,ø By,185.000,19-05-2004,Alm. Salg,3.245,3,Sommerhus,57,2005,,Aktuel værdi
+Vindrosen 294793 Bogø By,ø By,300.000,13-05-2004,Alm. Salg,8.571,2,Sommerhus,35,1983,,Aktuel værdi
+Farøvej 24793 Bogø By,ø By,410.000,30-04-2004,Alm. Salg,-,6,Villa,317,1900,,Aktuel værdi
+Tragten 224793 Bogø By,ø By,1.065.000,27-04-2004,Alm. Salg,14.791,3,Sommerhus,72,2001,,Aktuel værdi
+Ålborgvej 334793 Bogø By,ø By,335.000,12-04-2004,Fam. Salg,2.791,4,Villa,120,1965,,Aktuel værdi
+Møllebakken 714793 Bogø By,ø By,100.000,06-04-2004,Alm. Salg,793,4,Sommerhus,126,2006,,Aktuel værdi
+Skovvangen 44793 Bogø By,ø By,775.000,01-04-2004,Alm. Salg,6.681,4,Villa,116,1956,,Aktuel værdi
+Vindrosen 374793 Bogø By,ø By,525.000,01-04-2004,Alm. Salg,12.500,3,Sommerhus,42,1985,,Aktuel værdi
+Kværnen 494793 Bogø By,ø By,375.000,31-03-2004,Alm. Salg,-,4,Sommerhus,89,1981,,Aktuel værdi
+Vestergade 174793 Bogø By,ø By,212.500,26-03-2004,Fam. Salg,2.284,3,Villa,93,2006,,Aktuel værdi
+Skovgårdsvej 184793 Bogø By,ø By,161.685,26-03-2004,Alm. Salg,1.206,4,Villa,134,2005,,Aktuel værdi
+Østkildevej 274793 Bogø By,ø By,67.000,21-03-2004,Alm. Salg,779,4,Sommerhus,86,2005,,Aktuel værdi
+Østkildevej 414793 Bogø By,ø By,150.000,12-03-2004,Alm. Salg,1.851,3,Sommerhus,81,2010,,Aktuel værdi
+Ålborgvej 64793 Bogø By,ø By,436.000,02-03-2004,Fam. Salg,4.316,3,Villa,101,1915,,Aktuel værdi
+Tårnbakken 544793 Bogø By,ø By,203.110,27-02-2004,Fam. Salg,2.744,4,Sommerhus,74,1969,,Aktuel værdi
+Tragten 114793 Bogø By,ø By,48.267,13-02-2004,Fam. Salg,492,5,Sommerhus,98,2004,,Aktuel værdi
+Tragten 104793 Bogø By,ø By,90.000,04-02-2004,Alm. Salg,1.097,4,Sommerhus,82,2006,,Aktuel værdi
+Bogø Hovedgade 224793 Bogø By,ø By,841.596,01-02-2004,Alm. Salg,9.147,5,Villa,92,1915,,Aktuel værdi
+Kværnen 194793 Bogø By,ø By,90.000,01-02-2004,Alm. Salg,873,4,Sommerhus,103,2009,,Aktuel værdi
+Sydgrænsen 164793 Bogø By,ø By,595.000,30-01-2004,Alm. Salg,7.345,4,Sommerhus,81,1979,,Aktuel værdi
+Strandbakken 504793 Bogø By,ø By,120.000,27-01-2004,Alm. Salg,1.395,4,Sommerhus,86,2004,,Aktuel værdi
+Strandbakken 604793 Bogø By,ø By,120.000,19-01-2004,Alm. Salg,1.621,4,Sommerhus,74,2005,,Aktuel værdi
+Kværnen 284793 Bogø By,ø By,170.000,15-01-2004,Alm. Salg,1.416,4,Sommerhus,120,2009,,Aktuel værdi
+Bogø Hovedgade 934793 Bogø By,ø By,825.000,15-12-2003,Alm. Salg,3.928,8,Villa,210,1892,,Aktuel værdi
+Vesterskovvej 394793 Bogø By,ø By,2.800.000,17-11-2003,Alm. Salg,20.143,5,Stuehus,139,1890,,
+Vindrosen 184793 Bogø By,ø By,390.000,10-11-2003,Alm. Salg,5.820,3,Sommerhus,67,1979,,Aktuel værdi
+Strandbakken 144793 Bogø By,ø By,475.000,07-11-2003,Alm. Salg,8.050,3,Sommerhus,59,1973,,Aktuel værdi
+Sydgrænsen 64793 Bogø By,ø By,73.600,04-11-2003,Alm. Salg,1.291,3,Sommerhus,57,2005,,Aktuel værdi
+Gammelbystræde 94793 Bogø By,ø By,535.000,31-10-2003,Alm. Salg,6.079,3,Villa,88,1984,,Aktuel værdi
+Omgangen 154793 Bogø By,ø By,110.000,15-10-2003,Alm. Salg,1.718,2,Sommerhus,64,2007,,Aktuel værdi
+Søvangsvej 264793 Bogø By,ø By,325.000,15-10-2003,Alm. Salg,4.642,3,Sommerhus,70,2005,,Aktuel værdi
+Østerskovvej 294793 Bogø By,ø By,610.000,10-10-2003,Alm. Salg,-,9,Villa,244,1885,,Aktuel værdi
+Tragten 74793 Bogø By,ø By,75.000,10-10-2003,Andet,635,4,Sommerhus,118,2005,,Aktuel værdi
+Østkildevej 224793 Bogø By,ø By,550.000,19-09-2003,Fam. Salg,11.224,3,Sommerhus,49,1978,,Aktuel værdi
+Strandbakken 34793 Bogø By,ø By,520.000,16-09-2003,Alm. Salg,7.536,3,Sommerhus,69,1974,,Aktuel værdi
+Vesterskovvej 214793 Bogø By,ø By,995.000,05-09-2003,Alm. Salg,8.432,4,Villa,118,1974,,Aktuel værdi
+Tårnbakken 644793 Bogø By,ø By,190.000,01-09-2003,Alm. Salg,3.725,3,Sommerhus,51,1971,,Aktuel værdi
+Kværnen 94793 Bogø By,ø By,110.000,26-08-2003,Alm. Salg,1.067,3,Sommerhus,103,2004,,Aktuel værdi
+Møllebakken 664793 Bogø By,ø By,315.000,15-08-2003,Alm. Salg,6.562,3,Sommerhus,48,1969,,Aktuel værdi
+Strandbakken 404793 Bogø By,ø By,85.000,04-08-2003,Alm. Salg,1.036,4,Sommerhus,82,2007,,Aktuel værdi
+Højdedraget 114793 Bogø By,ø By,975.000,24-07-2003,Alm. Salg,10.263,3,Sommerhus,95,1998,,Aktuel værdi
+Strandbakken 194793 Bogø By,ø By,509.464,01-07-2003,Alm. Salg,-,4,Sommerhus,90,1972,,Aktuel værdi
+Mosedalen 584793 Bogø By,ø By,82.000,26-06-2003,Alm. Salg,1.366,3,Sommerhus,60,2004,,Aktuel værdi
+Vindrosen 164793 Bogø By,ø By,65.000,17-06-2003,Alm. Salg,1.477,2,Sommerhus,44,2008,,Aktuel værdi
+Højdedraget 444793 Bogø By,ø By,95.000,13-06-2003,Alm. Salg,1.792,3,Sommerhus,53,2007,,Aktuel værdi
+Vindrosen 114793 Bogø By,ø By,70.000,30-05-2003,Alm. Salg,833,4,Sommerhus,84,2009,,Aktuel værdi
+Tårnbakken 164793 Bogø By,ø By,50.000,26-05-2003,Fam. Salg,561,4,Sommerhus,89,2005,,Aktuel værdi
+Østkildevej 64793 Bogø By,ø By,400.000,25-05-2003,Alm. Salg,-,5,Sommerhus,90,1981,,Aktuel værdi
+Tårnbakken 324793 Bogø By,ø By,187.000,10-05-2003,Fam. Salg,5.342,2,Sommerhus,35,1970,,Aktuel værdi
+Højdedraget 164793 Bogø By,ø By,80.000,10-05-2003,Alm. Salg,898,4,Sommerhus,89,2003,,Aktuel værdi
+Omgangen 324793 Bogø By,ø By,120.000,04-05-2003,Alm. Salg,1.578,3,Sommerhus,76,2005,,Aktuel værdi
+Højdedraget 234793 Bogø By,ø By,110.000,01-05-2003,Alm. Salg,1.134,4,Sommerhus,97,2006,,Aktuel værdi
+Højdedraget 564793 Bogø By,ø By,90.000,29-04-2003,Alm. Salg,1.428,2,Sommerhus,63,2007,,Aktuel værdi
+Gammelbystræde 24793 Bogø By,ø By,797.000,29-04-2003,Alm. Salg,7.518,3,Villa,106,1825,,Aktuel værdi
+Højdedraget 524793 Bogø By,ø By,80.000,15-04-2003,Alm. Salg,842,4,Sommerhus,95,2009,,Aktuel værdi
+Sydgrænsen 134793 Bogø By,ø By,80.000,03-04-2003,Alm. Salg,1.081,4,Sommerhus,74,2003,,Aktuel værdi
+Strandbakken 284793 Bogø By,ø By,575.000,01-04-2003,Alm. Salg,7.666,4,Sommerhus,75,1970,,Aktuel værdi
+Strandbakken 314793 Bogø By,ø By,180.000,25-03-2003,Alm. Salg,4.864,2,Sommerhus,37,1970,,Aktuel værdi
+Kværnen 214793 Bogø By,ø By,285.000,16-03-2003,Alm. Salg,6.951,3,Sommerhus,41,1998,,Aktuel værdi
+Sejlet 194793 Bogø By,ø By,365.000,15-03-2003,Alm. Salg,3.543,4,Sommerhus,103,2003,,Aktuel værdi
+Bogø Hovedgade 944793 Bogø By,ø By,459.375,07-03-2003,Alm. Salg,6.125,3,Villa,75,1825,,Aktuel værdi
+Ålborgvej 384793 Bogø By,ø By,700.000,06-03-2003,Fam. Salg,3.846,6,Stuehus,182,1950,,
+Tragten 154793 Bogø By,ø By,165.000,05-03-2003,Alm. Salg,1.683,4,Sommerhus,98,2006,,Aktuel værdi
+Sydgrænsen 74793 Bogø By,ø By,80.000,26-02-2003,Alm. Salg,1.038,4,Sommerhus,77,2005,,Aktuel værdi
+Sejlet 204793 Bogø By,ø By,195.000,13-02-2003,Alm. Salg,3.823,3,Sommerhus,51,2003,,Aktuel værdi
+Højdedraget 294793 Bogø By,ø By,100.000,10-02-2003,Alm. Salg,2.325,3,Sommerhus,43,1976,,Aktuel værdi
+Søvangsvej 14793 Bogø By,ø By,990.760,08-02-2003,Alm. Salg,6.739,6,Villa,147,1760,,Aktuel værdi
+Mosedalen 364793 Bogø By,ø By,90.000,23-01-2003,Alm. Salg,1.578,3,Sommerhus,57,2003,,Aktuel værdi
+Nybygade 144793 Bogø By,ø By,1.702.275,21-01-2003,Alm. Salg,5.829,7,Villa,292,1975,,Aktuel værdi
+Østkildevej 594793 Bogø By,ø By,450.000,17-01-2003,Alm. Salg,7.894,3,Sommerhus,57,1979,,Aktuel værdi
+Møllebakken 544793 Bogø By,ø By,320.000,04-01-2003,Alm. Salg,4.776,3,Sommerhus,67,1972,,Aktuel værdi
+Bogø Hovedgade 138D4793 Bogø By,ø By,850.000,27-12-2002,Alm. Salg,5.666,4,Rækkehus,150,2004,,Aktuel værdi
+A Johnsons Vej 214793 Bogø By,ø By,525.000,23-12-2002,Alm. Salg,-,5,Villa,156,1876,,Aktuel værdi
+Farøgårdsvej 34793 Bogø By,ø By,2.500.000,18-12-2002,Alm. Salg,15.625,6,Stuehus,160,1850,,
+Søvangsvej 94793 Bogø By,ø By,1.050.000,06-12-2002,Alm. Salg,6.562,6,Villa,160,1966,,Aktuel værdi
+Mosedalen 404793 Bogø By,ø By,75.000,02-12-2002,Alm. Salg,625,4,Sommerhus,120,2011,,Aktuel værdi
+Sydgrænsen 114793 Bogø By,ø By,417.500,25-11-2002,Alm. Salg,7.455,3,Sommerhus,56,1982,,Aktuel værdi
+Strandbakken 764793 Bogø By,ø By,50.000,24-11-2002,Alm. Salg,574,4,Sommerhus,87,2005,,Aktuel værdi
+Gammelbystræde 134793 Bogø By,ø By,415.000,22-11-2002,Alm. Salg,5.187,4,Villa,80,1903,,Aktuel værdi
+Østkildevej 674793 Bogø By,ø By,60.000,20-11-2002,Alm. Salg,937,2,Sommerhus,64,2005,,Aktuel værdi
+Østerskovvej 84793 Bogø By,ø By,850.000,07-11-2002,Alm. Salg,7.083,6,Villa,120,1909,,Aktuel værdi
+Bogø Hovedgade 138C4793 Bogø By,ø By,160.000,21-10-2002,Alm. Salg,1.311,3,Rækkehus,122,2004,,Aktuel værdi
+Mosedalen 64793 Bogø By,ø By,650.000,14-10-2002,Fam. Salg,-,4,Sommerhus,83,2004,,Aktuel værdi
+Valsen 64793 Bogø By,ø By,80.000,04-10-2002,Alm. Salg,1.066,4,Sommerhus,75,2003,,Aktuel værdi
+Strandbakken 584793 Bogø By,ø By,220.000,04-10-2002,Fam. Salg,4.313,3,Sommerhus,51,1971,,Aktuel værdi
+Valsen 204793 Bogø By,ø By,312.084,24-09-2002,Alm. Salg,7.430,2,Sommerhus,42,2000,,Aktuel værdi
+Højdedraget 44793 Bogø By,ø By,55.000,12-09-2002,Alm. Salg,743,4,Sommerhus,74,2005,,Aktuel værdi
+Tårnbakken 414793 Bogø By,ø By,100.000,11-09-2002,Alm. Salg,2.127,2,Sommerhus,47,2004,,Aktuel værdi
+Bogø Hovedgade 694793 Bogø By,ø By,564.604,08-09-2002,Fam. Salg,6.071,4,Villa,93,1874,,Aktuel værdi
+Kværnen 224793 Bogø By,ø By,546.173,20-08-2002,Alm. Salg,5.689,4,Sommerhus,96,1986,,Aktuel værdi
+Vesternæsvej 84793 Bogø By,ø By,521.727,16-08-2002,Alm. Salg,4.013,6,Villa,130,1800,,Aktuel værdi
+Mosedalen 424793 Bogø By,ø By,270.412,16-08-2002,Alm. Salg,-,3,Sommerhus,52,1980,,Aktuel værdi
+Gammelbystræde 54793 Bogø By,ø By,152.999,03-07-2002,Fam. Salg,3.255,2,Villa,47,1930,,Aktuel værdi
+Højdedraget 484793 Bogø By,ø By,81.000,30-06-2002,Alm. Salg,835,3,Sommerhus,97,2009,,Aktuel værdi
+Vindrosen 24793 Bogø By,ø By,50.000,23-06-2002,Alm. Salg,694,3,Sommerhus,72,2009,,Aktuel værdi
+Vesterskovvej 304793 Bogø By,ø By,371.330,22-06-2002,Andet,2.856,5,Villa,130,1825,,Aktuel værdi
+Omgangen 394793 Bogø By,ø By,410.000,17-06-2002,Alm. Salg,6.119,3,Sommerhus,67,1992,,Aktuel værdi
+Højdedraget 504793 Bogø By,ø By,450.000,01-06-2002,Alm. Salg,8.035,4,Sommerhus,56,1977,,Aktuel værdi
+Omgangen 234793 Bogø By,ø By,385.000,31-05-2002,Alm. Salg,7.403,2,Sommerhus,52,1990,,Aktuel værdi
+Strandbakken 414793 Bogø By,ø By,625.000,23-05-2002,Alm. Salg,7.352,3,Sommerhus,85,1977,,Aktuel værdi
+Tårnbakken 314793 Bogø By,ø By,376.317,22-05-2002,Alm. Salg,6.602,3,Sommerhus,57,1970,,Aktuel værdi
+Vesterskovvej 224793 Bogø By,ø By,1.830.000,15-05-2002,Alm. Salg,8.755,5,Villa,209,1925,,Aktuel værdi
+Mosedalen 224793 Bogø By,ø By,55.000,15-05-2002,Alm. Salg,1.527,3,Sommerhus,36,2006,,Aktuel værdi
+Kværnen 164793 Bogø By,ø By,135.000,14-05-2002,Alm. Salg,1.467,4,Sommerhus,92,2002,,Aktuel værdi
+Kværnen 204793 Bogø By,ø By,72.000,10-05-2002,Alm. Salg,631,4,Sommerhus,114,2003,,Aktuel værdi
+Østkildevej 294793 Bogø By,ø By,374.184,25-04-2002,Alm. Salg,6.803,2,Sommerhus,55,1998,,Aktuel værdi
+Kværnen 14793 Bogø By,ø By,410.000,16-04-2002,Alm. Salg,9.318,3,Sommerhus,44,1996,,Aktuel værdi
+Vesterskovvej 184793 Bogø By,ø By,1.200.000,10-04-2002,Alm. Salg,6.593,5,Villa,182,1875,,Aktuel værdi
+Bogø Hovedgade 1614793 Bogø By,ø By,650.000,08-04-2002,Alm. Salg,5.416,5,Villa,120,1895,,Aktuel værdi
+Vindrosen 244793 Bogø By,ø By,260.000,04-04-2002,Alm. Salg,3.058,4,Sommerhus,85,1983,,Aktuel værdi
+Møllebakken 74793 Bogø By,ø By,285.877,11-03-2002,Alm. Salg,8.167,2,Sommerhus,35,1974,,Aktuel værdi
+Omgangen 194793 Bogø By,ø By,27.500,05-03-2002,Alm. Salg,241,5,Sommerhus,114,2006,,Aktuel værdi
+Tragten 284793 Bogø By,ø By,105.000,21-02-2002,Alm. Salg,1.296,4,Sommerhus,81,2005,,Aktuel værdi
+Valsen 224793 Bogø By,ø By,48.000,19-01-2002,Alm. Salg,600,3,Sommerhus,80,2004,,Aktuel værdi
+Højdedraget 64793 Bogø By,ø By,341.950,15-01-2002,Alm. Salg,3.195,5,Sommerhus,107,1978,,Aktuel værdi
+Tragten 84793 Bogø By,ø By,63.000,14-01-2002,Alm. Salg,1.500,3,Sommerhus,42,2011,,Aktuel værdi
+Bogø Hovedgade 1474793 Bogø By,ø By,65.000,10-01-2002,Alm. Salg,347,5,Villa,187,2004,,Aktuel værdi
+Søvangsvej 364793 Bogø By,ø By,740.500,18-12-2001,Alm. Salg,12.341,2,Sommerhus,60,1971,,Aktuel værdi
+Smedestræde 254793 Bogø By,ø By,450.000,28-10-2001,Alm. Salg,3.571,3,Villa,126,2006,,Aktuel værdi
+Vestergade 264793 Bogø By,ø By,942.000,22-10-2001,Alm. Salg,7.302,6,Villa,129,1791,,Aktuel værdi
+Østkildevej 304793 Bogø By,ø By,310.000,09-09-2001,Alm. Salg,5.636,3,Sommerhus,55,1978,,Aktuel værdi
+Valsen 74793 Bogø By,ø By,435.000,08-09-2001,Alm. Salg,8.700,3,Sommerhus,50,1980,,Aktuel værdi
+Tragten 354793 Bogø By,ø By,105.000,10-08-2001,Alm. Salg,1.346,3,Sommerhus,78,2005,,Aktuel værdi
+Vestergade 194793 Bogø By,ø By,395.000,08-08-2001,Alm. Salg,5.197,3,Villa,76,1914,,Aktuel værdi
+Bogø Hovedgade 744793 Bogø By,ø By,800.000,23-07-2001,Alm. Salg,2.515,8,Villa,318,1900,,Aktuel værdi
+A Johnsons Vej 164793 Bogø By,ø By,300.000,12-07-2001,Alm. Salg,5.454,3,Villa,55,1978,,Aktuel værdi
+Skåningevej 14793 Bogø By,ø By,707.159,09-07-2001,Alm. Salg,7.443,4,Villa,95,1948,,Aktuel værdi
+Søvangsvej 344793 Bogø By,ø By,351.000,09-07-2001,Alm. Salg,10.968,3,Sommerhus,32,1981,,Aktuel værdi
+Bremavej 34793 Bogø By,ø By,2.353.817,09-07-2001,Alm. Salg,12.723,6,Stuehus,185,1815,,
+Højdedraget 124793 Bogø By,ø By,394.614,05-07-2001,Alm. Salg,7.307,4,Sommerhus,54,1979,,Aktuel værdi
+Østerskovvej 134793 Bogø By,ø By,610.000,05-07-2001,Alm. Salg,3.674,7,Villa,166,1978,,Aktuel værdi
+Bogø Hovedgade 864793 Bogø By,ø By,500.000,30-06-2001,Alm. Salg,6.756,2,Villa,74,1900,,Aktuel værdi
+Sejlet 54793 Bogø By,ø By,90.000,30-05-2001,Alm. Salg,1.097,3,Sommerhus,82,2002,,Aktuel værdi
+Farøgårdsvej 54793 Bogø By,ø By,348.500,25-05-2001,Fam. Salg,2.581,5,Stuehus,135,2005,,
+Bogø Hovedgade 138E4793 Bogø By,ø By,800.000,22-05-2001,Fam. Salg,8.791,3,Villa,91,1987,,Aktuel værdi
+Tårnbakken 534793 Bogø By,ø By,77.461,15-05-2001,Fam. Salg,2.213,3,Sommerhus,35,1970,,Aktuel værdi
+Bogø Hovedgade 814793 Bogø By,ø By,684.888,04-05-2001,Alm. Salg,4.101,6,Villa,167,1930,,Aktuel værdi
+Tårnbakken 574793 Bogø By,ø By,525.000,01-05-2001,Alm. Salg,4.646,4,Sommerhus,113,1972,,Aktuel værdi
+Smedestræde 244793 Bogø By,ø By,642.000,29-04-2001,Alm. Salg,12.840,2,Villa,50,1800,,Aktuel værdi
+Bogø Hovedgade 1484793 Bogø By,ø By,925.837,01-04-2001,Alm. Salg,5.859,6,Villa,158,1880,,Aktuel værdi
+Skåningevej 34793 Bogø By,ø By,1.020.000,26-03-2001,Fam. Salg,8.869,3,Stuehus,115,1894,,
+Bogø Hovedgade 644793 Bogø By,ø By,450.000,22-02-2001,Alm. Salg,4.838,4,Villa,93,1960,,Aktuel værdi
+A Johnsons Vej 64793 Bogø By,ø By,419.999,20-02-2001,Alm. Salg,5.060,3,Villa,83,1976,,Aktuel værdi
+Grønsundvej 5954793 Bogø By,ø By,75.000,11-12-2000,Alm. Salg,-,1,Fritid,-,1943,,Aktuel værdi
+A Johnsons Vej 484793 Bogø By,ø By,425.000,07-12-2000,Alm. Salg,-,5,Villa,102,1953,,Aktuel værdi
+Kværnen 114793 Bogø By,ø By,88.000,30-11-2000,Alm. Salg,-,3,Sommerhus,60,2001,,Aktuel værdi
+Omgangen 64793 Bogø By,ø By,440.000,20-11-2000,Alm. Salg,2.933,5,Villa,150,1875,,Aktuel værdi
+Tragten 234793 Bogø By,ø By,96.000,20-11-2000,Alm. Salg,857,4,Sommerhus,112,2004,,Aktuel værdi
+Vesterskovvej 314793 Bogø By,ø By,880.000,02-11-2000,Alm. Salg,5.906,5,Villa,149,1892,,Aktuel værdi
+Vindrosen 314793 Bogø By,ø By,50.000,01-11-2000,Alm. Salg,625,3,Sommerhus,80,2002,,Aktuel værdi
+Vesterskovvej 534793 Bogø By,ø By,304.000,26-10-2000,Alm. Salg,1.527,6,Stuehus,199,1895,,
+Ålborgvej 94793 Bogø By,ø By,733.054,13-10-2000,Andet,3.702,10,Villa,198,1880,,Aktuel værdi
+Søvangsvej 194793 Bogø By,ø By,512.876,02-10-2000,Andet,2.154,8,Villa,238,1971,,Aktuel værdi
+Møllebakken 484793 Bogø By,ø By,227.401,02-10-2000,Alm. Salg,-,3,Sommerhus,70,1970,,Aktuel værdi
+Møllebakken 224793 Bogø By,ø By,230.000,11-09-2000,Alm. Salg,6.388,3,Sommerhus,36,1970,,Aktuel værdi
+A Johnsons Vej 404793 Bogø By,ø By,345.000,07-09-2000,Alm. Salg,-,4,Villa,152,1973,,Aktuel værdi
+Bakkedraget 24793 Bogø By,ø By,261.104,07-09-2000,Fam. Salg,1.070,7,Industri o.l.,244,1988,,Aktuel værdi
+Østerskovvej 174793 Bogø By,ø By,475.000,02-09-2000,Alm. Salg,-,4,Villa,134,1875,,Aktuel værdi
+Vindrosen 144793 Bogø By,ø By,50.000,30-08-2000,Alm. Salg,909,3,Sommerhus,55,2005,,Aktuel værdi
+Tragten 304793 Bogø By,ø By,105.000,29-08-2000,Alm. Salg,1.400,3,Sommerhus,75,2001,,Aktuel værdi
+A Johnsons Vej 44793 Bogø By,ø By,800.000,21-08-2000,Fam. Salg,5.333,6,Villa,150,1936,,Aktuel værdi
+Møllebakken 464793 Bogø By,ø By,325.000,12-08-2000,Alm. Salg,5.803,2,Sommerhus,56,1971,,Aktuel værdi
+Bogø Hovedgade 1754793 Bogø By,ø By,725.000,10-08-2000,Alm. Salg,5.330,7,Villa,136,1855,,Aktuel værdi
+Mosedalen 164793 Bogø By,ø By,507.278,10-08-2000,Alm. Salg,4.831,4,Sommerhus,105,1990,,Aktuel værdi
+Mosedalen 764793 Bogø By,ø By,275.000,09-08-2000,Alm. Salg,-,5,Sommerhus,95,1976,,Aktuel værdi
+A Johnsons Vej 364793 Bogø By,ø By,290.000,05-08-2000,Alm. Salg,-,8,Villa,154,1978,,Aktuel værdi
+Tårnbakken 404793 Bogø By,ø By,273.672,01-08-2000,Alm. Salg,4.801,4,Sommerhus,57,1970,,Aktuel værdi
+Søvangsvej 294793 Bogø By,ø By,468.748,05-07-2000,Alm. Salg,13.392,2,Sommerhus,35,1965,,Aktuel værdi
+Møllebakken 214793 Bogø By,ø By,380.000,29-06-2000,Alm. Salg,6.031,3,Sommerhus,63,1977,,Aktuel værdi
+Møllebakken 114793 Bogø By,ø By,367.874,23-06-2000,Fam. Salg,7.074,3,Sommerhus,52,1990,,Aktuel værdi
+Nybygade 34793 Bogø By,ø By,1.450.000,05-06-2000,Alm. Salg,4.545,8,Villa,319,1880,,Aktuel værdi
+Sydgrænsen 104793 Bogø By,ø By,250.000,30-05-2000,Alm. Salg,-,3,Sommerhus,70,1977,,Aktuel værdi
+Kværnen 174793 Bogø By,ø By,30.000,16-05-2000,Alm. Salg,416,4,Sommerhus,72,2001,,Aktuel værdi
+Søvangsvej 224793 Bogø By,ø By,350.000,15-05-2000,Alm. Salg,9.722,2,Sommerhus,36,1967,,Aktuel værdi
+Mosedalen 784793 Bogø By,ø By,75.000,17-04-2000,Alm. Salg,892,3,Sommerhus,84,2001,,Aktuel værdi
+Sejlet 234793 Bogø By,ø By,180.000,13-04-2000,Alm. Salg,1.836,4,Sommerhus,98,2001,,Aktuel værdi
+Strandbakken 114793 Bogø By,ø By,418.229,01-04-2000,Alm. Salg,6.970,3,Sommerhus,60,1971,,Aktuel værdi
+Møllebakken 724793 Bogø By,ø By,216.615,15-02-2000,Alm. Salg,5.037,2,Sommerhus,43,1976,,Aktuel værdi
+Ålborgvej 44793 Bogø By,ø By,340.000,13-02-2000,Alm. Salg,1.683,4,Villa,202,1900,,Aktuel værdi
+Søvangsvej 214793 Bogø By,ø By,965.800,04-02-2000,Alm. Salg,6.898,4,Villa,140,1970,,Aktuel værdi
+Nybygade 104793 Bogø By,ø By,1.525.000,07-01-2000,Alm. Salg,5.669,7,Villa,269,1985,,Aktuel værdi
+Smedestræde 294793 Bogø By,ø By,316.617,23-12-1999,Fam. Salg,3.479,4,Villa,91,1800,,Aktuel værdi
+Vestergade 14793 Bogø By,ø By,317.119,30-10-1999,Alm. Salg,4.344,2,Villa,73,1700,,Aktuel værdi
+Bogø Hovedgade 1184793 Bogø By,ø By,805.000,26-10-1999,Alm. Salg,3.851,10,Villa,209,1875,,Aktuel værdi
+Nybygade 244793 Bogø By,ø By,377.897,06-10-1999,Alm. Salg,4.723,2,Villa,80,1700,,Aktuel værdi
+Møllebakken 674793 Bogø By,ø By,424.220,06-10-1999,Alm. Salg,5.811,4,Sommerhus,73,1973,,Aktuel værdi
+Vestergade 34793 Bogø By,ø By,500.000,15-09-1999,Alm. Salg,4.716,5,Villa,106,1977,,Aktuel værdi
+Kværnen 304793 Bogø By,ø By,115.000,19-07-1999,Alm. Salg,1.419,3,Sommerhus,81,2000,,Aktuel værdi
+Omgangen 334793 Bogø By,ø By,45.000,14-07-1999,Alm. Salg,600,3,Sommerhus,75,2002,,Aktuel værdi
+Bogø Hovedgade 1674793 Bogø By,ø By,550.000,08-07-1999,Alm. Salg,3.846,4,Villa,143,1898,,Aktuel værdi
+Bergsvej 54793 Bogø By,ø By,895.251,18-06-1999,Alm. Salg,6.782,5,Villa,132,1997,,Aktuel værdi
+Strandbakken 724793 Bogø By,ø By,286.000,08-06-1999,Alm. Salg,3.972,4,Sommerhus,72,1973,,Aktuel værdi
+Bogø Hovedgade 724793 Bogø By,ø By,430.000,01-06-1999,Alm. Salg,2.349,4,Villa,183,1927,,Aktuel værdi
+Ålborgvej 324793 Bogø By,ø By,736.637,24-05-1999,Alm. Salg,4.603,3,Villa,160,1900,,Aktuel værdi
+Kværnen 34793 Bogø By,ø By,306.000,08-04-1999,Alm. Salg,-,3,Sommerhus,77,1982,,Aktuel værdi
+Østerskovvej 27B4793 Bogø By,ø By,880.000,29-03-1999,Alm. Salg,6.285,4,Villa,140,1981,,Aktuel værdi
+Østerskovvej 4B4793 Bogø By,ø By,697.000,16-03-1999,Alm. Salg,3.241,6,Villa,215,1893,,Aktuel værdi
+Søvangsvej 154793 Bogø By,ø By,1.025.000,11-02-1999,Alm. Salg,4.418,9,Villa,232,1880,,Aktuel værdi
+Møllebakken 444793 Bogø By,ø By,273.924,21-12-1998,Alm. Salg,4.722,3,Sommerhus,58,1978,,Aktuel værdi
+Bogø Hovedgade 1234793 Bogø By,ø By,425.000,25-11-1998,Alm. Salg,2.759,8,Villa,154,1960,,Aktuel værdi
+A Johnsons Vej 20A4793 Bogø By,ø By,235.000,19-11-1998,Alm. Salg,3.175,4,Villa,74,1980,,Aktuel værdi
+Østkildevej 714793 Bogø By,ø By,47.500,10-11-1998,Alm. Salg,494,3,Sommerhus,96,2003,,Aktuel værdi
+A Johnsons Vej 184793 Bogø By,ø By,279.849,05-11-1998,Alm. Salg,4.115,3,Sommerhus,68,1973,,Aktuel værdi
+Fruekildevej 174793 Bogø By,ø By,510.000,09-10-1998,Alm. Salg,1.526,12,Villa,334,1850,,Aktuel værdi
+Bogø Hovedgade 129A4793 Bogø By,ø By,360.000,29-09-1998,Alm. Salg,4.235,4,Villa,85,1962,,Aktuel værdi
+Søvangsvej 114793 Bogø By,ø By,130.000,19-09-1998,Fam. Salg,2.063,4,Sommerhus,63,1967,,Aktuel værdi
+Tårnbakken 444793 Bogø By,ø By,611.000,18-09-1998,Alm. Salg,6.110,5,Sommerhus,100,1974,,Aktuel værdi
+A Johnsons Vej 114793 Bogø By,ø By,170.000,13-08-1998,Alm. Salg,1.517,4,Villa,112,2000,,Aktuel værdi
+Tjørnedalsvej 84793 Bogø By,ø By,763.131,09-07-1998,Fam. Salg,3.391,5,Stuehus,225,1925,,
+Strandbakken 394793 Bogø By,ø By,637.200,19-06-1998,Alm. Salg,9.370,4,Sommerhus,68,1988,,Aktuel værdi
+Vesterskovvej 284793 Bogø By,ø By,1.956.613,11-05-1998,Alm. Salg,-,8,Villa,245,1991,,Aktuel værdi
+Strandbakken 184793 Bogø By,ø By,271.300,09-05-1998,Alm. Salg,-,4,Sommerhus,80,1974,,Aktuel værdi
+Skovvangen 34793 Bogø By,ø By,311.641,30-04-1998,Andet,2.149,6,Villa,145,1900,,Aktuel værdi
+Møllebakken 324793 Bogø By,ø By,315.000,30-04-1998,Alm. Salg,5.080,3,Sommerhus,62,1978,,Aktuel værdi
+Bogø Hovedgade 1114793 Bogø By,ø By,519.627,21-04-1998,Alm. Salg,3.685,4,Villa,141,1920,,Aktuel værdi
+A Johnsons Vej 14793 Bogø By,ø By,140.000,20-04-1998,Alm. Salg,756,4,Villa,185,2000,,Aktuel værdi
+Bogø Hovedgade 534793 Bogø By,ø By,900.000,14-04-1998,Alm. Salg,6.000,8,Villa,150,1925,,Aktuel værdi
+Møllebakken 274793 Bogø By,ø By,260.000,31-03-1998,Alm. Salg,2.921,4,Sommerhus,89,1969,,Aktuel værdi
+Bogø Hovedgade 184793 Bogø By,ø By,450.000,17-03-1998,Alm. Salg,2.445,6,Villa,184,1925,,Aktuel værdi
+Østkildevej 364793 Bogø By,ø By,240.000,06-02-1998,Alm. Salg,4.000,4,Sommerhus,60,1976,,Aktuel værdi
+Bogø Hovedgade 914793 Bogø By,ø By,360.000,28-01-1998,Alm. Salg,3.600,4,Villa,100,1964,,Aktuel værdi
+Smedestræde 274793 Bogø By,ø By,372.689,23-01-1998,Alm. Salg,5.733,3,Rækkehus,65,1875,,Aktuel værdi
+Farøvej 164793 Bogø By,ø By,1.780.000,12-01-1998,Alm. Salg,8.811,10,Stuehus,202,1895,,
+Solbakkevej 84793 Bogø By,ø By,575.000,08-01-1998,Alm. Salg,4.291,6,Villa,134,1940,,Aktuel værdi
+Kværnen 414793 Bogø By,ø By,85.000,10-12-1997,Fam. Salg,-,3,Sommerhus,75,2006,,Aktuel værdi
+Østkildevej 654793 Bogø By,ø By,45.000,20-11-1997,Alm. Salg,633,4,Sommerhus,71,2000,,Aktuel værdi
+Bogø Hovedgade 414793 Bogø By,ø By,448.000,31-10-1997,Alm. Salg,4.110,3,Villa,109,1925,,Aktuel værdi
+Tårnbakken 84793 Bogø By,ø By,261.260,22-10-1997,Alm. Salg,4.838,3,Sommerhus,54,1973,,Aktuel værdi
+Tårnbakken 154793 Bogø By,ø By,273.800,22-10-1997,Alm. Salg,4.563,4,Sommerhus,60,1974,,Aktuel værdi
+Vestergade 134793 Bogø By,ø By,359.170,06-10-1997,Alm. Salg,3.780,3,Villa,95,1800,,Aktuel værdi
+Kværnen 254793 Bogø By,ø By,127.900,20-08-1997,Alm. Salg,3.654,2,Sommerhus,35,1984,,Aktuel værdi
+Østerskovvej 304793 Bogø By,ø By,417.940,26-06-1997,Alm. Salg,2.347,7,Villa,178,1880,,Aktuel værdi
+Møllebakken 254793 Bogø By,ø By,231.391,01-06-1997,Fam. Salg,4.285,3,Sommerhus,54,1974,,Aktuel værdi
+Farøvej 94793 Bogø By,ø By,213.408,27-04-1997,Alm. Salg,602,9,Villa,354,1875,,Aktuel værdi
+Nybygade 24793 Bogø By,ø By,477.000,20-03-1997,Alm. Salg,3.180,4,Villa,150,1921,,Aktuel værdi
+Udsigten 84793 Bogø By,ø By,170.000,20-02-1997,Alm. Salg,-,4,Villa,220,1997,,Aktuel værdi
+Skovgårdsvej 44793 Bogø By,ø By,57.892,30-12-1996,Alm. Salg,531,4,Villa,109,1997,,Aktuel værdi
+Strandbakken 554793 Bogø By,ø By,170.000,20-12-1996,Fam. Salg,-,3,Sommerhus,58,1970,,Aktuel værdi
+Jørgensmindevej 154793 Bogø By,ø By,946.463,18-12-1996,Alm. Salg,7.063,4,Villa,134,1875,,Aktuel værdi
+Vesternæsvej 54793 Bogø By,ø By,816.000,02-12-1996,Alm. Salg,4.080,7,Villa,200,1700,,Aktuel værdi
+Ålborgvej 124793 Bogø By,ø By,552.000,02-12-1996,Alm. Salg,4.416,6,Villa,125,1912,,Aktuel værdi
+Grønsundvej 6184793 Bogø By,ø By,75.000,25-11-1996,Alm. Salg,681,5,Stuehus,110,1900,,
+Vesternæsvej 64793 Bogø By,ø By,400.000,18-11-1996,Fam. Salg,2.352,7,Villa,170,1850,,Aktuel værdi
+Udsigten 64793 Bogø By,ø By,900.000,11-10-1996,Alm. Salg,6.569,3,Villa,137,1985,,Aktuel værdi
+Tårnbakken 434793 Bogø By,ø By,230.000,07-10-1996,Alm. Salg,3.432,4,Sommerhus,67,1972,,Aktuel værdi
+Tragten 294793 Bogø By,ø By,107.900,29-09-1996,Alm. Salg,2.247,2,Sommerhus,48,1996,,Aktuel værdi
+Tårnbakken 214793 Bogø By,ø By,262.000,24-09-1996,Fam. Salg,4.225,3,Sommerhus,62,1974,,Aktuel værdi
+Bogø Hovedgade 1334793 Bogø By,ø By,489.500,21-09-1996,Alm. Salg,2.459,7,Villa,199,1900,,Aktuel værdi
+Ålborgvej 214793 Bogø By,ø By,650.000,02-09-1996,Alm. Salg,3.611,5,Stuehus,180,1890,,
+Kværnen 104793 Bogø By,ø By,88.000,01-08-1996,Alm. Salg,1.725,3,Sommerhus,51,2000,,Aktuel værdi
+Grønsundvej 6014793 Bogø By,ø By,497.000,29-07-1996,Alm. Salg,-,5,Villa,214,1855,,Aktuel værdi
+Strandbakken 54793 Bogø By,ø By,228.000,28-07-1996,Alm. Salg,3.211,4,Sommerhus,71,1973,,Aktuel værdi
+Østerskovvej 314793 Bogø By,ø By,961.200,03-07-1996,Alm. Salg,-,4,Stuehus,151,1900,,
+Møllebakken 584793 Bogø By,ø By,275.000,11-06-1996,Alm. Salg,2.925,4,Sommerhus,94,1972,,Aktuel værdi
+Skovgårdsvej 404793 Bogø By,ø By,831.000,02-06-1996,Alm. Salg,4.155,6,Villa,200,1910,,Aktuel værdi
+Østerskovvej 204793 Bogø By,ø By,177.000,24-05-1996,Alm. Salg,2.424,4,Villa,73,1898,,Aktuel værdi
+Bergsvej 34793 Bogø By,ø By,35.000,20-03-1996,Alm. Salg,269,5,Villa,130,1998,,Aktuel værdi
+Bogø Hovedgade 1304793 Bogø By,ø By,180.487,14-03-1996,Alm. Salg,1.317,3,Villa,137,1935,,Aktuel værdi
+Bogø Hovedgade 94793 Bogø By,ø By,180.000,18-12-1995,Alm. Salg,-,4,Sommerhus,78,1950,,Aktuel værdi
+Tårnbakken 654793 Bogø By,ø By,270.000,11-12-1995,Alm. Salg,4.736,3,Sommerhus,57,1979,,Aktuel værdi
+Ålborgvej 344793 Bogø By,ø By,250.208,10-11-1995,Fam. Salg,1.939,4,Villa,129,1780,,Aktuel værdi
+A Johnsons Vej 34793 Bogø By,ø By,120.000,06-10-1995,Alm. Salg,882,4,Villa,136,1998,,Aktuel værdi
+Udsigten 34793 Bogø By,ø By,831.000,17-09-1995,Alm. Salg,5.193,4,Villa,160,1987,,Aktuel værdi
+Østerskovvej 124793 Bogø By,ø By,391.918,14-09-1995,Alm. Salg,3.061,4,Villa,128,1882,,Aktuel værdi
+Bergsvej 74793 Bogø By,ø By,27.500,13-09-1995,Alm. Salg,572,2,Villa,48,1996,,Aktuel værdi
+Østkildevej 534793 Bogø By,ø By,36.500,12-09-1995,Alm. Salg,536,4,Sommerhus,68,1999,,Aktuel værdi
+A Johnsons Vej 424793 Bogø By,ø By,110.000,05-09-1995,Alm. Salg,1.718,3,Villa,64,1980,,Aktuel værdi
+Valsen 154793 Bogø By,ø By,30.000,01-08-1995,Alm. Salg,750,1,Sommerhus,40,1996,,Aktuel værdi
+Møllebakken 624793 Bogø By,ø By,253.000,24-06-1995,Alm. Salg,4.600,3,Sommerhus,55,1974,,Aktuel værdi
+Møllebakken 304793 Bogø By,ø By,165.000,10-05-1995,Alm. Salg,3.055,3,Sommerhus,54,1970,,Aktuel værdi
+A Johnsons Vej 24793 Bogø By,ø By,494.000,09-05-1995,Alm. Salg,2.546,7,Villa,194,1910,,Aktuel værdi
+Mosedalen 244793 Bogø By,ø By,97.900,01-03-1995,Alm. Salg,-,2,Sommerhus,70,1998,,Aktuel værdi
+Vestergade 44793 Bogø By,ø By,695.000,27-02-1995,Alm. Salg,2.574,9,Villa,270,1922,,Aktuel værdi
+Vindrosen 174793 Bogø By,ø By,92.900,26-02-1995,Alm. Salg,-,5,Sommerhus,81,1980,,Aktuel værdi
+Omgangen 24793 Bogø By,ø By,290.000,23-12-1994,Alm. Salg,4.754,3,Sommerhus,61,1980,,Aktuel værdi
+Østkildevej 394793 Bogø By,ø By,265.000,01-12-1994,Alm. Salg,6.625,3,Sommerhus,40,1978,,Aktuel værdi
+Tjørnedalsvej 104793 Bogø By,ø By,75.000,29-09-1994,Alm. Salg,652,3,Stuehus,115,1911,,
+Østkildevej 54793 Bogø By,ø By,30.000,27-09-1994,Alm. Salg,-,3,Sommerhus,60,1996,,Aktuel værdi
+Bogø Hovedgade 374793 Bogø By,ø By,430.000,22-09-1994,Alm. Salg,5.119,4,Villa,84,1939,,Aktuel værdi
+Farøvej 134793 Bogø By,ø By,373.000,26-08-1994,Alm. Salg,3.108,4,Villa,120,1950,,Aktuel værdi
+Mosedalen 444793 Bogø By,ø By,240.000,23-08-1994,Alm. Salg,-,3,Sommerhus,126,1980,,Aktuel værdi
+Solbakkevej 74793 Bogø By,ø By,411.000,28-07-1994,Alm. Salg,-,5,Villa,117,1962,,Aktuel værdi
+Grønsundvej 6044793 Bogø By,ø By,1.069.500,13-07-1994,Fam. Salg,5.570,8,Stuehus,192,1940,,
+Vestergade 114793 Bogø By,ø By,338.200,06-06-1994,Alm. Salg,3.382,5,Villa,100,1869,,Aktuel værdi
+Mosedalen 804793 Bogø By,ø By,78.000,04-06-1994,Alm. Salg,-,5,Sommerhus,97,1998,,Aktuel værdi
+Østerskovvej 384793 Bogø By,ø By,508.800,30-05-1994,Alm. Salg,3.180,5,Villa,160,1890,,Aktuel værdi
+Valsen 214793 Bogø By,ø By,330.000,29-04-1994,Alm. Salg,6.346,3,Sommerhus,52,1985,,Aktuel værdi
+Farø Vad 14793 Bogø By,ø By,390.000,24-04-1994,Alm. Salg,1.959,5,Villa,199,1875,,Aktuel værdi
+Bogø Hovedgade 1134793 Bogø By,ø By,315.250,04-04-1994,Alm. Salg,2.671,5,Villa,118,1800,,Aktuel værdi
+Bogø Hovedgade 54793 Bogø By,ø By,253.000,14-02-1994,Alm. Salg,1.462,5,Villa,173,1961,,Aktuel værdi
+Bogø Hovedgade 1654793 Bogø By,ø By,212.500,29-10-1993,Fam. Salg,2.284,4,Villa,93,1922,,Aktuel værdi
+Skovleddet 24793 Bogø By,ø By,785.000,07-07-1993,Alm. Salg,-,7,Villa,180,1800,,Aktuel værdi
+Strandbakken 374793 Bogø By,ø By,195.000,18-05-1993,Alm. Salg,-,2,Sommerhus,70,1972,,Aktuel værdi
+Grønsundvej 6194793 Bogø By,ø By,275.000,13-05-1993,Alm. Salg,2.894,3,Villa,95,1875,,Aktuel værdi
+Østerskovvej 104793 Bogø By,ø By,384.000,15-02-1993,Alm. Salg,1.959,6,Villa,196,1887,,Aktuel værdi
+Ålborgvej 254793 Bogø By,ø By,1.090.000,09-02-1993,Fam. Salg,5.165,5,Stuehus,211,1877,,
+Ålborgvej 184793 Bogø By,ø By,349.865,22-01-1993,Alm. Salg,-,9,Villa,207,1842,,Aktuel værdi
+Sejlet 124793 Bogø By,ø By,112.900,23-12-1992,Alm. Salg,-,3,Sommerhus,83,1995,,Aktuel værdi
+Sejlet 274793 Bogø By,ø By,60.000,23-11-1992,Alm. Salg,645,4,Sommerhus,93,2012,,Aktuel værdi
+Østerskovvej 354793 Bogø By,ø By,615.000,30-09-1992,Alm. Salg,4.330,5,Villa,142,1953,,Aktuel værdi
+Bogø Hovedgade 784793 Bogø By,ø By,400.000,13-08-1992,Alm. Salg,4.081,4,Villa,98,1875,,Aktuel værdi
+Østkildevej 14793 Bogø By,ø By,28.500,01-08-1992,Alm. Salg,527,3,Sommerhus,54,1995,,Aktuel værdi
+Nybygade 184793 Bogø By,ø By,330.000,19-07-1992,Alm. Salg,2.578,4,Villa,128,1890,,Aktuel værdi
+A Johnsons Vej 144793 Bogø By,ø By,265.000,05-04-1992,Alm. Salg,6.162,3,Sommerhus,43,1979,,Aktuel værdi
+Tragten 214793 Bogø By,ø By,142.900,17-03-1992,Alm. Salg,2.748,3,Sommerhus,52,2001,,Aktuel værdi
+Strandbakken 354793 Bogø By,ø By,112.900,29-02-1992,Alm. Salg,1.568,3,Sommerhus,72,2002,,Aktuel værdi

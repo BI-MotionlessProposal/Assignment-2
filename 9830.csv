@@ -1,0 +1,923 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Egely 149830 Tårs,Tårs,865.000,28-04-2017,Alm. Salg,7.208,4,Villa,120,1980,-3 %,Aktuel værdi
+Bettevej 59830 Tårs,Tårs,450.000,20-03-2017,Alm. Salg,6.250,3,Rækkehus,72,1987,-5 %,Aktuel værdi
+Bollervej 79830 Tårs,Tårs,265.000,17-03-2017,Alm. Salg,2.284,4,Villa,116,1912,-10 %,Aktuel værdi
+Stendalvej 1689830 Tårs,Tårs,1.850.000,11-03-2017,Alm. Salg,9.250,5,Villa,200,1936,-7 %,Aktuel værdi
+Tykskovvej 10D9830 Tårs,Tårs,380.000,08-03-2017,Alm. Salg,5.277,3,Rækkehus,72,1985,-4 %,Aktuel værdi
+Bredgade 689830 Tårs,Tårs,525.000,28-02-2017,Alm. Salg,3.125,8,Villa,168,1930,-24 %,Aktuel værdi
+Bredgade 1409830 Tårs,Tårs,628.000,08-02-2017,Fam. Salg,5.557,4,Villa,113,1928,,Aktuel værdi
+Solhøjvej 469830 Tårs,Tårs,645.000,01-02-2017,Fam. Salg,4.673,4,Stuehus,138,1905,,
+Bredgade 1149830 Tårs,Tårs,325.000,26-01-2017,Alm. Salg,3.095,5,Villa,105,1937,-24 %,Aktuel værdi
+Tårs Møllegade 59830 Tårs,Tårs,300.000,02-01-2017,Alm. Salg,2.830,3,Villa,106,1935,-24 %,Aktuel værdi
+Vrejlev Klostervej 179830 Tårs,Tårs,668.132,20-12-2016,Fam. Salg,4.338,5,Villa,154,1959,,Aktuel værdi
+Agdrupvej 3419830 Tårs,Tårs,1.885.000,12-12-2016,Alm. Salg,11.153,6,Stuehus,169,1771,-1 %,
+Morildvej 169830 Tårs,Tårs,595.000,12-12-2016,Alm. Salg,4.219,6,Villa,141,1880,-14 %,Aktuel værdi
+Sønder Graumvej 269830 Tårs,Tårs,1.200.000,10-11-2016,Alm. Salg,5.825,4,Villa,206,1914,,Aktuel værdi
+Trangetvej 79830 Tårs,Tårs,450.000,04-11-2016,Alm. Salg,3.813,4,Villa,118,1939,-9 %,Aktuel værdi
+Trangetvej 29830 Tårs,Tårs,325.000,30-10-2016,Alm. Salg,3.963,3,Villa,82,1927,-13 %,Aktuel værdi
+Nylandsvej 149830 Tårs,Tårs,405.000,19-10-2016,Alm. Salg,3.188,3,Villa,127,1964,,Aktuel værdi
+Stendalvej 1969830 Tårs,Tårs,20.000,28-09-2016,Alm. Salg,253,2,Stuehus,79,1777,,
+Trangetvej 2909830 Tårs,Tårs,100.000,22-09-2016,Alm. Salg,641,3,Villa,156,1942,0 %,Aktuel værdi
+Damhusvej 709830 Tårs,Tårs,530.000,21-09-2016,Alm. Salg,5.638,2,Villa,94,2000,-24 %,Aktuel værdi
+Klosterbakken 109830 Tårs,Tårs,1.300.999,16-09-2016,Fam. Salg,7.268,5,Villa,179,2015,,Aktuel værdi
+Klarupvej 2249830 Tårs,Tårs,398.000,12-09-2016,Alm. Salg,3.618,3,Villa,110,1978,0 %,Aktuel værdi
+Skovgårdsvej 549830 Tårs,Tårs,600.000,08-09-2016,Alm. Salg,3.614,5,Villa,166,1890,0 %,Aktuel værdi
+Sørupvej 1019830 Tårs,Tårs,2.710.014,02-09-2016,Alm. Salg,14.338,6,Stuehus,189,1891,,
+Håsenvej 1099830 Tårs,Tårs,750.000,16-08-2016,Alm. Salg,6.097,2,Villa,123,1928,,Aktuel værdi
+Melbækvej 2049830 Tårs,Tårs,1.525.000,15-08-2016,Alm. Salg,5.083,6,Villa,300,1897,-24 %,Aktuel værdi
+Solhøjvej 459830 Tårs,Tårs,1.640.000,11-08-2016,Alm. Salg,14.513,4,Stuehus,113,1962,,
+Johannes Hansens Vej 259830 Tårs,Tårs,995.000,22-07-2016,Alm. Salg,7.960,5,Villa,125,1948,0 %,Aktuel værdi
+Præstebakken 29830 Tårs,Tårs,895.000,07-07-2016,Alm. Salg,9.040,3,Villa,99,1965,0 %,Aktuel værdi
+Søholmvej 129830 Tårs,Tårs,625.000,06-07-2016,Alm. Salg,5.434,4,Villa,115,1975,-10 %,Aktuel værdi
+Klosterbakken 119830 Tårs,Tårs,850.000,05-07-2016,Alm. Salg,8.762,3,Villa,97,1990,-8 %,Aktuel værdi
+Engholmvej 99830 Tårs,Tårs,850.000,10-06-2016,Alm. Salg,5.743,5,Villa,148,1900,0 %,Aktuel værdi
+Berberisvej 39830 Tårs,Tårs,580.000,30-05-2016,Alm. Salg,4.393,3,Villa,132,1986,-17 %,Aktuel værdi
+Stenskrogvej 809830 Tårs,Tårs,175.000,26-05-2016,Alm. Salg,1.346,3,Villa,130,1910,-36 %,Aktuel værdi
+Bollervej 609830 Tårs,Tårs,708.602,26-05-2016,Fam. Salg,3.326,6,Villa,213,1976,,Aktuel værdi
+Rævmosevej 139830 Tårs,Tårs,225.400,18-05-2016,Alm. Salg,1.747,3,Villa,129,1930,,Aktuel værdi
+Nørgårdsvej 69830 Tårs,Tårs,6.470.000,17-05-2016,Alm. Salg,34.784,5,Stuehus,186,1924,,
+Barholtvej 359830 Tårs,Tårs,500.000,11-05-2016,Auktion,2.192,5,Villa,228,1910,-50 %,Aktuel værdi
+Damhusvej 729830 Tårs,Tårs,675.000,11-04-2016,Alm. Salg,8.035,3,Rækkehus,84,2000,,Aktuel værdi
+Tårnvej 219830 Tårs,Tårs,1.150.000,08-04-2016,Alm. Salg,6.725,5,Villa,171,1971,-4 %,Aktuel værdi
+Trangetvej 1749830 Tårs,Tårs,1.200.000,01-04-2016,Alm. Salg,3.636,8,Villa,330,1907,-6 %,Aktuel værdi
+Rugholmvej 599830 Tårs,Tårs,1.365.000,21-03-2016,Alm. Salg,9.545,5,Stuehus,143,1977,-14 %,
+Stovhøjvej 909830 Tårs,Tårs,2.095.000,11-03-2016,Alm. Salg,11.836,4,Villa,177,1959,-2 %,Aktuel værdi
+Skråningen 39830 Tårs,Tårs,650.000,07-03-2016,Alm. Salg,5.118,4,Villa,127,1967,-18 %,Aktuel værdi
+Sørupvej 3749830 Tårs,Tårs,1.300.000,02-03-2016,Alm. Salg,4.561,5,Stuehus,285,1887,,
+Svenstrupvej 405A9830 Tårs,Tårs,495.000,26-02-2016,Alm. Salg,4.459,3,Stuehus,111,1942,0 %,
+Klosterbakken 629830 Tårs,Tårs,210.000,09-12-2015,Alm. Salg,1.750,3,Villa,120,2016,,Aktuel værdi
+Gammel Damhusvej 119830 Tårs,Tårs,300.000,02-12-2015,Alm. Salg,2.479,3,Villa,121,1957,-29 %,Aktuel værdi
+Åsmarkvej 659830 Tårs,Tårs,450.000,01-12-2015,Andet,3.846,4,Villa,117,1914,,Aktuel værdi
+Tårshedevej 309830 Tårs,Tårs,1.395.000,23-11-2015,Alm. Salg,5.764,6,Villa,242,1920,0 %,Aktuel værdi
+Søparken 359830 Tårs,Tårs,2.140.000,20-10-2015,Alm. Salg,12.441,5,Villa,172,2007,-3 %,Aktuel værdi
+Søparken 459830 Tårs,Tårs,195.000,19-10-2015,Alm. Salg,1.133,5,Villa,172,2016,,Aktuel værdi
+Vrejlev Klostervej 149830 Tårs,Tårs,375.000,13-10-2015,Alm. Salg,4.573,3,Villa,82,1961,-5 %,Aktuel værdi
+Sørupvangvej 709830 Tårs,Tårs,817.500,11-10-2015,Alm. Salg,6.927,4,Villa,118,1900,-3 %,Aktuel værdi
+Johannes Hansens Vej 109830 Tårs,Tårs,442.709,25-09-2015,Andet,3.139,4,Villa,141,1934,,Aktuel værdi
+Bredgade 729830 Tårs,Tårs,595.000,23-09-2015,Alm. Salg,6.611,6,Detailhandel,90,1935,,Aktuel værdi
+Trangetvej 109830 Tårs,Tårs,325.000,21-09-2015,Alm. Salg,4.452,4,Villa,73,1935,-13 %,Aktuel værdi
+Søparken 249830 Tårs,Tårs,2.100.000,13-09-2015,Alm. Salg,10.344,5,Villa,203,2008,-5 %,Aktuel værdi
+Trangetvej 2479830 Tårs,Tårs,515.000,11-09-2015,Alm. Salg,5.309,3,Villa,97,1900,-4 %,Aktuel værdi
+Berberisvej 7A9830 Tårs,Tårs,575.000,08-09-2015,Alm. Salg,5.000,4,Villa,115,1984,-12 %,Aktuel værdi
+Guldregnvej 139830 Tårs,Tårs,600.000,04-09-2015,Alm. Salg,4.000,4,Villa,150,1974,,Aktuel værdi
+Damhusvej 379830 Tårs,Tårs,1.082.500,28-08-2015,Fam. Salg,6.723,5,Villa,161,1989,,Aktuel værdi
+Højvej 49830 Tårs,Tårs,380.000,18-08-2015,Alm. Salg,2.099,6,Villa,181,1967,,Aktuel værdi
+Nordbakken 39830 Tårs,Tårs,675.000,07-08-2015,Alm. Salg,5.869,4,Villa,115,1969,,Aktuel værdi
+Gadekæret 169830 Tårs,Tårs,310.000,31-07-2015,Alm. Salg,3.604,3,Villa,86,1907,-7 %,Aktuel værdi
+Magsvej 109830 Tårs,Tårs,235.000,04-07-2015,Alm. Salg,3.615,2,Villa,65,1960,-30 %,Aktuel værdi
+Terpetvej 4909830 Tårs,Tårs,2.575.000,30-06-2015,Fam. Salg,12.261,3,Villa,210,1937,,Aktuel værdi
+Paxvej 3D9830 Tårs,Tårs,380.000,29-06-2015,Alm. Salg,4.935,3,Rækkehus,77,1986,-23 %,Aktuel værdi
+Svenstrupvej 4639830 Tårs,Tårs,236.256,22-06-2015,Fam. Salg,3.424,3,Sommerhus,69,1978,,Aktuel værdi
+Stendalvej 2369830 Tårs,Tårs,895.480,19-06-2015,Andet,3.794,4,Villa,236,1877,,Aktuel værdi
+Harpsøvej 809830 Tårs,Tårs,1.250.000,15-06-2015,Alm. Salg,6.313,6,Villa,198,1864,-7 %,Aktuel værdi
+Johannes Hansens Vej 89830 Tårs,Tårs,1.050.000,12-06-2015,Alm. Salg,3.500,11,Villa,300,1947,-19 %,Aktuel værdi
+Trangetvej 5909830 Tårs,Tårs,2.250.000,10-06-2015,Alm. Salg,10.975,6,Stuehus,205,1950,,
+Sønder Klarupvej 299830 Tårs,Tårs,800.000,09-06-2015,Alm. Salg,5.797,7,Villa,138,1922,-4 %,Aktuel værdi
+Industrivej 239830 Tårs,Tårs,1.405.000,08-06-2015,Alm. Salg,8.313,8,Lejlighed,169,1978,-8 %,Aktuel værdi
+Sæbyvej 8449830 Tårs,Tårs,345.960,01-06-2015,Alm. Salg,3.088,4,Stuehus,112,1912,,
+Syrenvej 29830 Tårs,Tårs,445.110,28-05-2015,Andet,4.083,4,Villa,109,1973,,Aktuel værdi
+Højvej 19830 Tårs,Tårs,425.000,23-05-2015,Alm. Salg,3.794,4,Villa,112,1966,-6 %,Aktuel værdi
+Sæby Landevej 819830 Tårs,Tårs,353.969,20-05-2015,Fam. Salg,2.328,4,Stuehus,152,1910,,
+Bredgade 131A9830 Tårs,Tårs,340.000,18-05-2015,Alm. Salg,3.736,3,Rækkehus,91,1985,-31 %,Aktuel værdi
+Bredgade 1309830 Tårs,Tårs,250.000,18-05-2015,Alm. Salg,5.102,2,Villa,49,1909,0 %,Aktuel værdi
+Damly 19830 Tårs,Tårs,975.000,12-05-2015,Alm. Salg,6.678,4,Villa,146,1976,-2 %,Aktuel værdi
+Bredgade 229830 Tårs,Tårs,1.500.000,04-05-2015,Alm. Salg,6.250,7,Villa,240,1961,-12 %,Aktuel værdi
+Nyhusvej 1559830 Tårs,Tårs,5.850.000,16-04-2015,Alm. Salg,31.283,5,Villa,187,1937,,Aktuel værdi
+Johannes Hansens Vej 209830 Tårs,Tårs,800.000,01-04-2015,Alm. Salg,7.142,3,Villa,112,1969,-3 %,Aktuel værdi
+Damhusvej 789830 Tårs,Tårs,770.000,30-03-2015,Alm. Salg,9.166,3,Rækkehus,84,2000,-4 %,Aktuel værdi
+Humlely 69830 Tårs,Tårs,865.000,10-03-2015,Alm. Salg,6.455,4,Villa,134,1980,-1 %,Aktuel værdi
+Sæby Landevej 3819830 Tårs,Tårs,1.360.000,19-02-2015,Alm. Salg,4.263,10,Villa,319,1920,-9 %,Aktuel værdi
+Bollervej 219830 Tårs,Tårs,300.000,17-02-2015,Alm. Salg,3.448,3,Villa,87,1934,-13 %,Aktuel værdi
+Morildvej 3229830 Tårs,Tårs,560.000,04-02-2015,Alm. Salg,4.552,4,Villa,123,1953,-6 %,Aktuel værdi
+Tykskovvej 2719830 Tårs,Tårs,700.000,04-02-2015,Alm. Salg,3.608,5,Stuehus,194,1936,,
+Præstebakken 249830 Tårs,Tårs,661.589,29-01-2015,Alm. Salg,3.482,5,Villa,190,1963,,Aktuel værdi
+Lyngvej 69830 Tårs,Tårs,560.000,28-01-2015,Alm. Salg,4.590,3,Villa,122,1970,-6 %,Aktuel værdi
+Damly 279830 Tårs,Tårs,712.030,23-12-2014,Fam. Salg,4.450,5,Villa,160,1978,,Aktuel værdi
+Bredgade 399830 Tårs,Tårs,325.000,20-12-2014,Alm. Salg,3.282,4,Villa,99,1897,-18 %,Aktuel værdi
+Nygade 59830 Tårs,Tårs,750.000,10-12-2014,Fam. Salg,6.097,4,Villa,123,1966,,Aktuel værdi
+Nygade 69830 Tårs,Tårs,675.000,18-11-2014,Alm. Salg,4.218,6,Villa,160,1961,,Aktuel værdi
+Søruplundvej 269830 Tårs,Tårs,1.500.000,05-10-2014,Fam. Salg,10.948,6,Stuehus,137,1944,,
+Trangetvej 299830 Tårs,Tårs,315.770,01-10-2014,Alm. Salg,1.764,7,Stuehus,179,1936,,
+Stendalvej 605A9830 Tårs,Tårs,3.100.000,01-10-2014,Fam. Salg,10.508,7,Villa,295,1974,,Aktuel værdi
+Brogårdsvej 19830 Tårs,Tårs,550.000,28-09-2014,Alm. Salg,3.571,4,Villa,154,1897,,Aktuel værdi
+Tårnvej 259830 Tårs,Tårs,1.100.000,24-09-2014,Alm. Salg,6.010,5,Villa,183,1974,-8 %,Aktuel værdi
+Vrejlev Klostervej 159830 Tårs,Tårs,550.000,14-09-2014,Alm. Salg,4.435,5,Villa,124,1960,-4 %,Aktuel værdi
+Sørupvej 2509830 Tårs,Tårs,695.000,06-09-2014,Alm. Salg,5.940,5,Villa,117,1917,0 %,Aktuel værdi
+Lindely 69830 Tårs,Tårs,740.000,04-09-2014,Alm. Salg,4.596,6,Villa,161,1980,-20 %,Aktuel værdi
+Bjørnstrupvej 1619830 Tårs,Tårs,555.000,27-08-2014,Alm. Salg,3.032,7,Villa,183,1930,,Aktuel værdi
+Tårnvej 49830 Tårs,Tårs,1.850.000,26-08-2014,Alm. Salg,8.486,7,Villa,218,1970,,Aktuel værdi
+Rolighed 69830 Tårs,Tårs,544.069,20-08-2014,Alm. Salg,6.253,3,Stuehus,87,1937,,
+Håsenvej 509830 Tårs,Tårs,17.372.000,18-08-2014,Alm. Salg,74.557,8,Stuehus,233,1913,,
+Søparken 579830 Tårs,Tårs,160.000,18-08-2014,Alm. Salg,1.012,5,Villa,158,2015,,Aktuel værdi
+Vrejlev Klostervej 189830 Tårs,Tårs,450.000,15-08-2014,Fam. Salg,3.409,3,Villa,132,1973,,Aktuel værdi
+Terpetvej 6609830 Tårs,Tårs,57.300,14-08-2014,Alm. Salg,1.432,2,Villa,40,1880,-54 %,Aktuel værdi
+Tårnvej 59830 Tårs,Tårs,660.000,05-08-2014,Alm. Salg,4.400,4,Villa,150,1971,-17 %,Aktuel værdi
+Søparken 309830 Tårs,Tårs,692.565,28-07-2014,Alm. Salg,4.586,5,Villa,151,2005,,Aktuel værdi
+Højvej 39830 Tårs,Tårs,595.000,17-07-2014,Alm. Salg,6.010,3,Villa,99,1967,-14 %,Aktuel værdi
+Søparken 409830 Tårs,Tårs,1.950.000,06-06-2014,Alm. Salg,9.558,6,Villa,204,1981,-2 %,Aktuel værdi
+Degnebakken 19830 Tårs,Tårs,1.340.000,06-06-2014,Alm. Salg,9.054,5,Villa,148,1970,-10 %,Aktuel værdi
+Bredgade 1209830 Tårs,Tårs,275.000,02-06-2014,Auktion,2.131,4,Villa,129,1939,,Aktuel værdi
+Sæsingvej 79830 Tårs,Tårs,620.000,29-05-2014,Alm. Salg,5.794,3,Villa,107,1944,0 %,Aktuel værdi
+Bjørnstrupvej 1089830 Tårs,Tårs,1.500.000,22-05-2014,Fam. Salg,13.157,4,Stuehus,114,1890,,
+Bålhøj 49830 Tårs,Tårs,690.000,09-05-2014,Alm. Salg,6.448,3,Villa,107,1967,-11 %,Aktuel værdi
+Rævmosevej 4A9830 Tårs,Tårs,865.000,24-04-2014,Auktion,4.805,5,Villa,180,1912,,Aktuel værdi
+Nylandsvej 89830 Tårs,Tårs,975.000,07-04-2014,Alm. Salg,4.062,7,Villa,240,1970,-11 %,Aktuel værdi
+Syrenvej 129830 Tårs,Tårs,1.100.000,28-03-2014,Alm. Salg,10.377,4,Villa,106,1971,-4 %,Aktuel værdi
+Søbakken 129830 Tårs,Tårs,1.320.000,25-03-2014,Alm. Salg,5.432,7,Villa,243,1975,-9 %,Aktuel værdi
+Damly 219830 Tårs,Tårs,727.000,10-03-2014,Alm. Salg,3.429,4,Villa,212,1980,,Aktuel værdi
+Berberisvej 109830 Tårs,Tårs,350.000,04-03-2014,Alm. Salg,4.117,3,Villa,85,1965,-28 %,Aktuel værdi
+Damly 199830 Tårs,Tårs,770.000,08-02-2014,Alm. Salg,5.703,4,Villa,135,1979,-11 %,Aktuel værdi
+Bredgade 1359830 Tårs,Tårs,130.000,07-02-2014,Alm. Salg,2.000,2,Villa,65,1917,-40 %,Aktuel værdi
+Morildvej 3249830 Tårs,Tårs,300.000,05-02-2014,Alm. Salg,1.875,4,Stuehus,160,1900,,
+Stenskrogvej 459830 Tårs,Tårs,440.000,08-01-2014,Fam. Salg,3.308,3,Villa,133,1900,,Aktuel værdi
+Bredgade 419830 Tårs,Tårs,304.905,19-12-2013,Alm. Salg,2.060,4,Villa,148,1880,-49 %,Aktuel værdi
+Vestbakken 99830 Tårs,Tårs,875.000,17-12-2013,Alm. Salg,3.102,6,Villa,282,1930,,Aktuel værdi
+Tegldal 69830 Tårs,Tårs,116.000,12-12-2013,Alm. Salg,477,4,Villa,243,2015,-41 %,Aktuel værdi
+Bjørnstrupvej 1029830 Tårs,Tårs,900.000,04-12-2013,Alm. Salg,4.390,5,Villa,205,1877,,Aktuel værdi
+Morildvej 89830 Tårs,Tårs,45.001,11-11-2013,Auktion,338,7,Villa,133,1950,,Aktuel værdi
+Damhusvej 629830 Tårs,Tårs,650.000,05-11-2013,Andet,8.666,3,Rækkehus,75,2000,,Aktuel værdi
+Egely 89830 Tårs,Tårs,1.350.000,26-10-2013,Alm. Salg,11.637,4,Villa,116,1985,,Aktuel værdi
+Tidemandsholmsvej 809830 Tårs,Tårs,66.782,02-10-2013,Alm. Salg,451,5,Stuehus,148,1935,,
+Lyngvej 89830 Tårs,Tårs,1.340.000,21-09-2013,Alm. Salg,6.380,7,Villa,210,1971,,Aktuel værdi
+Kirsebærly 39830 Tårs,Tårs,950.000,13-09-2013,Alm. Salg,5.621,5,Villa,169,1978,-17 %,Aktuel værdi
+Søparken 539830 Tårs,Tårs,2.250.000,12-09-2013,Alm. Salg,13.554,5,Villa,166,2007,-4 %,Aktuel værdi
+Højvej 69830 Tårs,Tårs,755.000,01-09-2013,Alm. Salg,6.565,4,Villa,115,1968,-5 %,Aktuel værdi
+Bredgade 1169830 Tårs,Tårs,440.000,19-08-2013,Alm. Salg,3.120,6,Villa,141,1932,-11 %,Aktuel værdi
+Æblely 49830 Tårs,Tårs,825.000,24-07-2013,Alm. Salg,6.021,4,Villa,137,1977,-2 %,Aktuel værdi
+Koldbrovej 2849830 Tårs,Tårs,395.000,23-07-2013,Alm. Salg,1.787,8,Stuehus,221,1890,-49 %,
+Sørupvej 209830 Tårs,Tårs,2.600.000,18-06-2013,Alm. Salg,11.818,8,Stuehus,220,1942,,
+Åsmarkvej 509830 Tårs,Tårs,420.000,05-06-2013,Alm. Salg,4.719,3,Villa,89,1915,-15 %,Aktuel værdi
+Burskovvej 2519830 Tårs,Tårs,1.435.000,28-05-2013,Alm. Salg,9.761,4,Villa,147,1940,-10 %,Aktuel værdi
+Tykskovvej 1859830 Tårs,Tårs,1.595.000,16-05-2013,Alm. Salg,6.206,9,Stuehus,257,1933,,
+Præstebakken 119830 Tårs,Tårs,720.000,12-05-2013,Alm. Salg,6.315,4,Villa,114,1968,-3 %,Aktuel værdi
+Sæbyvej 8109830 Tårs,Tårs,91.000,08-05-2013,Alm. Salg,602,4,Stuehus,151,1927,,
+Nythåbsvej 209830 Tårs,Tårs,850.000,07-04-2013,Alm. Salg,5.704,4,Stuehus,149,1900,,
+Bredgade 1079830 Tårs,Tårs,565.000,05-04-2013,Alm. Salg,2.568,7,Villa,220,1878,-2 %,Aktuel værdi
+Sæby Landevej 4099830 Tårs,Tårs,450.000,18-03-2013,Alm. Salg,4.838,4,Villa,93,1961,-7 %,Aktuel værdi
+Gammel Damhusvej 59830 Tårs,Tårs,700.000,13-03-2013,Alm. Salg,6.140,4,Villa,114,1973,-12 %,Aktuel værdi
+Nygade 149830 Tårs,Tårs,359.000,04-03-2013,Fam. Salg,2.510,4,Villa,143,1962,,Aktuel værdi
+Grønnegade 49830 Tårs,Tårs,600.000,16-02-2013,Alm. Salg,5.042,5,Villa,119,1952,85 %,Aktuel værdi
+Nygade 249830 Tårs,Tårs,1.025.000,12-02-2013,Alm. Salg,9.579,5,Villa,107,1962,-5 %,Aktuel værdi
+Søbakken 119830 Tårs,Tårs,1.245.000,11-02-2013,Alm. Salg,4.882,7,Villa,255,1974,0 %,Aktuel værdi
+Bøgebækvej 209830 Tårs,Tårs,3.226.133,22-01-2013,Fam. Salg,19.552,6,Stuehus,165,1914,,
+Sæby Landevej 4029830 Tårs,Tårs,975.000,17-01-2013,Alm. Salg,4.276,8,Villa,228,1988,-7 %,Aktuel værdi
+Barholtvej 909830 Tårs,Tårs,740.745,02-01-2013,Andet,6.224,3,Stuehus,119,1969,,
+Bollervej 259830 Tårs,Tårs,220.000,19-12-2012,Alm. Salg,2.820,5,Villa,78,1949,-12 %,Aktuel værdi
+Klosterbakken 19830 Tårs,Tårs,1.000.000,05-12-2012,Alm. Salg,9.433,4,Villa,106,1998,-9 %,Aktuel værdi
+Sæby Landevej 559830 Tårs,Tårs,100.000,04-12-2012,Alm. Salg,1.041,3,Stuehus,96,1820,,
+Damly 129830 Tårs,Tårs,1.345.000,22-11-2012,Alm. Salg,7.005,7,Villa,192,1975,0 %,Aktuel værdi
+Sæsingvej 119830 Tårs,Tårs,71.000,23-10-2012,Auktion,568,3,Villa,125,1950,,Aktuel værdi
+Volsholtvej 759830 Tårs,Tårs,700.000,22-10-2012,Alm. Salg,2.592,8,Stuehus,270,1889,,
+Bollervej 279830 Tårs,Tårs,475.000,22-10-2012,Alm. Salg,6.012,3,Villa,79,1942,-17 %,Aktuel værdi
+Sæbyvej 6189830 Tårs,Tårs,407.500,16-10-2012,Fam. Salg,3.367,4,Villa,121,1945,-51 %,Aktuel værdi
+Barholtvej 102B9830 Tårs,Tårs,1.395.000,11-10-2012,Alm. Salg,12.681,4,Sommerhus,110,1877,-7 %,Aktuel værdi
+Damhusvej 649830 Tårs,Tårs,650.000,05-10-2012,Alm. Salg,8.666,3,Rækkehus,75,2000,,Aktuel værdi
+Svenstrupvej 4239830 Tårs,Tårs,865.000,03-10-2012,Alm. Salg,5.544,3,Stuehus,156,1900,,
+Sæby Landevej 2259830 Tårs,Tårs,180.000,03-10-2012,Alm. Salg,900,5,Villa,200,1880,,Aktuel værdi
+Hornbjergvej 159830 Tårs,Tårs,450.000,29-08-2012,Auktion,3.237,5,Villa,139,1890,,Aktuel værdi
+Vrejlev Klostervej 199830 Tårs,Tårs,350.000,28-08-2012,Alm. Salg,4.022,3,Villa,87,1961,,Aktuel værdi
+Magsvej 189830 Tårs,Tårs,920.000,24-08-2012,Alm. Salg,7.244,4,Villa,127,1967,-8 %,Aktuel værdi
+Gammel Borupvej 1309830 Tårs,Tårs,589.000,24-08-2012,Fam. Salg,4.237,4,Villa,139,1907,,Aktuel værdi
+Nygade 289830 Tårs,Tårs,510.000,24-08-2012,Fam. Salg,4.636,4,Villa,110,1965,,Aktuel værdi
+Søholmvej 109830 Tårs,Tårs,450.000,14-08-2012,Alm. Salg,4.639,4,Villa,97,1975,,Aktuel værdi
+Lille Dalvej 29830 Tårs,Tårs,1.505.370,06-08-2012,Alm. Salg,8.363,7,Villa,180,1973,,Aktuel værdi
+Sørupvej 4059830 Tårs,Tårs,1.500.000,30-07-2012,Alm. Salg,5.882,5,Stuehus,255,1952,-16 %,
+Horsevadvej 1129830 Tårs,Tårs,1.582.500,17-07-2012,Alm. Salg,17.982,3,Stuehus,88,1877,,
+Damhusvej 49830 Tårs,Tårs,850.000,07-07-2012,Alm. Salg,6.159,4,Villa,138,1972,,Aktuel værdi
+Sæsingvej 59830 Tårs,Tårs,105.000,06-07-2012,Alm. Salg,1.050,5,Villa,100,1942,-53 %,Aktuel værdi
+Skiverenvej 629830 Tårs,Tårs,485.000,03-07-2012,Alm. Salg,5.449,3,Villa,89,1964,0 %,Aktuel værdi
+Søbakken 109830 Tårs,Tårs,1.435.000,26-06-2012,Alm. Salg,5.954,7,Villa,241,1974,,Aktuel værdi
+Skovgårdsvej 399830 Tårs,Tårs,1.200.000,11-06-2012,Alm. Salg,4.285,6,Villa,280,1893,-4 %,Aktuel værdi
+Bålhøj 19830 Tårs,Tårs,715.000,11-06-2012,Alm. Salg,6.875,4,Villa,104,1966,-5 %,Aktuel værdi
+Bredgade 1329830 Tårs,Tårs,225.250,11-06-2012,Andet,1.668,5,Villa,135,1913,-57 %,Aktuel værdi
+Bedelundvej 159830 Tårs,Tårs,1.050.000,07-06-2012,Alm. Salg,4.411,6,Villa,238,1887,-7 %,Aktuel værdi
+Søbakken 7A9830 Tårs,Tårs,495.000,05-06-2012,Alm. Salg,3.750,3,Villa,132,1977,0 %,Aktuel værdi
+Svenstrupvej 5209830 Tårs,Tårs,3.196.000,31-05-2012,Alm. Salg,14.017,7,Stuehus,228,1890,,
+Sønder Houstrupvej 159830 Tårs,Tårs,725.000,30-05-2012,Alm. Salg,4.738,5,Villa,153,1971,,Aktuel værdi
+Sæsingvej 209830 Tårs,Tårs,100.000,15-05-2012,Auktion,699,4,Villa,143,1927,,Aktuel værdi
+Johannes Hansens Vej 6C9830 Tårs,Tårs,425.000,30-04-2012,Alm. Salg,5.592,2,Rækkehus,76,1988,,Aktuel værdi
+Sæbyvej 8459830 Tårs,Tårs,150.000,15-04-2012,Alm. Salg,660,8,Villa,227,1900,,Aktuel værdi
+Lyngvej 19830 Tårs,Tårs,860.000,02-04-2012,Alm. Salg,5.443,6,Villa,158,1970,-24 %,Aktuel værdi
+Blommely 39830 Tårs,Tårs,570.230,22-03-2012,Alm. Salg,3.049,5,Villa,187,1977,,Aktuel værdi
+Sæbyvej 7469830 Tårs,Tårs,342.500,08-03-2012,Alm. Salg,2.429,7,Villa,141,1860,-47 %,Aktuel værdi
+Gammel Borupvej 409830 Tårs,Tårs,1.100.000,14-02-2012,Alm. Salg,5.418,5,Villa,203,1923,,Aktuel værdi
+Søruphøjvej 109830 Tårs,Tårs,1.644.000,12-01-2012,Alm. Salg,6.655,5,Villa,247,1940,,Aktuel værdi
+Agdrupvej 2019830 Tårs,Tårs,300.000,07-01-2012,Alm. Salg,1.153,10,Stuehus,260,1827,,
+Trangetvej 329830 Tårs,Tårs,1.100.000,06-01-2012,Alm. Salg,10.784,3,Villa,102,1902,-21 %,Aktuel værdi
+Sørupbakkevej 409830 Tårs,Tårs,1.040.000,06-01-2012,Alm. Salg,-,3,Villa,118,1875,-5 %,Aktuel værdi
+Præstebakken 99830 Tårs,Tårs,775.000,28-11-2011,Alm. Salg,6.919,4,Villa,112,1967,-3 %,Aktuel værdi
+Jasminvej 49830 Tårs,Tårs,730.000,21-11-2011,Fam. Salg,3.650,6,Villa,200,2012,,Aktuel værdi
+Trangetvej 2919830 Tårs,Tårs,265.000,21-10-2011,Alm. Salg,1.934,5,Villa,137,1934,-18 %,Aktuel værdi
+Vrejlev Klostervej 209830 Tårs,Tårs,400.000,18-10-2011,Alm. Salg,3.225,4,Villa,124,1937,,Aktuel værdi
+Johannes Hansens Vej 6B9830 Tårs,Tårs,430.000,13-10-2011,Alm. Salg,5.512,3,Rækkehus,78,1988,,Aktuel værdi
+Paxvej 119830 Tårs,Tårs,795.000,10-10-2011,Alm. Salg,4.392,6,Villa,181,1924,0 %,Aktuel værdi
+Sæsingvej 259830 Tårs,Tårs,337.500,07-10-2011,Alm. Salg,2.070,5,Villa,163,1913,-15 %,Aktuel værdi
+Bollervej 329830 Tårs,Tårs,550.000,06-10-2011,Alm. Salg,5.238,4,Villa,105,1966,-8 %,Aktuel værdi
+Stenskrogvej 619830 Tårs,Tårs,980.000,04-10-2011,Alm. Salg,8.166,4,Villa,120,1939,,Aktuel værdi
+Terpetvej 6699830 Tårs,Tårs,350.000,28-09-2011,Alm. Salg,2.215,6,Villa,158,2013,-18 %,Aktuel værdi
+Sæbyvej 6719830 Tårs,Tårs,1.225.000,27-09-2011,Alm. Salg,8.566,4,Villa,143,1935,-5 %,Aktuel værdi
+Gammel Damhusvej 3A9830 Tårs,Tårs,950.000,11-08-2011,Alm. Salg,10.326,2,Villa,92,2002,,Aktuel værdi
+Gammel Damhusvej 3B9830 Tårs,Tårs,950.000,11-08-2011,Alm. Salg,10.326,2,Villa,92,2002,,Aktuel værdi
+Bredgade 319830 Tårs,Tårs,350.000,05-08-2011,Andet,2.023,5,Villa,173,1925,-60 %,Aktuel værdi
+Skråningen 59830 Tårs,Tårs,850.000,27-06-2011,Fam. Salg,4.970,6,Villa,171,1966,,Aktuel værdi
+Damly 59830 Tårs,Tårs,900.000,07-06-2011,Alm. Salg,6.666,4,Villa,135,1976,-10 %,Aktuel værdi
+Gadekæret 259830 Tårs,Tårs,1.187.500,13-05-2011,Alm. Salg,7.612,4,Villa,156,1938,-5 %,Aktuel værdi
+Hornbjergvej 1059830 Tårs,Tårs,1.550.000,15-03-2011,Alm. Salg,9.567,5,Villa,162,1974,-18 %,Aktuel værdi
+Græsdalvej 709830 Tårs,Tårs,181.545,10-03-2011,Alm. Salg,1.296,6,Stuehus,140,1880,,
+Tårs Møllevej 39830 Tårs,Tårs,310.000,18-02-2011,Alm. Salg,4.025,3,Villa,77,1958,-36 %,Aktuel værdi
+Klarupvej 2489830 Tårs,Tårs,450.000,15-02-2011,Fam. Salg,3.435,5,Villa,131,1920,,Aktuel værdi
+Hornbjergvej 469830 Tårs,Tårs,1.025.000,14-02-2011,Alm. Salg,6.699,4,Stuehus,153,1894,,
+Bettevej 39830 Tårs,Tårs,501.083,19-01-2011,Alm. Salg,6.959,3,Rækkehus,72,1987,,Aktuel værdi
+Damhusvej 669830 Tårs,Tårs,700.000,12-01-2011,Alm. Salg,8.235,3,Villa,85,2001,-15 %,Aktuel værdi
+Tårnvej 189830 Tårs,Tårs,1.000.000,17-12-2010,Alm. Salg,8.771,4,Villa,114,1969,,Aktuel værdi
+Nygade 229830 Tårs,Tårs,575.000,09-12-2010,Alm. Salg,5.424,4,Villa,106,1961,,Aktuel værdi
+Søholmvej 139830 Tårs,Tårs,337.500,29-11-2010,Andet,2.083,6,Villa,162,1900,-57 %,Aktuel værdi
+Johannes Hansens Vej 49830 Tårs,Tårs,435.448,23-11-2010,Fam. Salg,1.427,8,Villa,305,1915,,Aktuel værdi
+Rønly 149830 Tårs,Tårs,1.150.000,10-11-2010,Alm. Salg,9.426,4,Villa,122,1986,-4 %,Aktuel værdi
+Søparken 269830 Tårs,Tårs,295.000,04-11-2010,Alm. Salg,1.867,5,Villa,158,2013,,Aktuel værdi
+Søbakken 99830 Tårs,Tårs,720.000,01-11-2010,Alm. Salg,4.768,3,Villa,151,1975,0 %,Aktuel værdi
+Sønder Klarupvej 269830 Tårs,Tårs,640.000,11-10-2010,Alm. Salg,3.678,4,Stuehus,174,1900,-8 %,
+Gadekæret 229830 Tårs,Tårs,335.000,27-09-2010,Alm. Salg,5.075,2,Villa,66,1942,-15 %,Aktuel værdi
+Sørupvej 729830 Tårs,Tårs,3.200.000,27-09-2010,Fam. Salg,10.355,8,Stuehus,309,1904,,
+Stenskrogvej 1149830 Tårs,Tårs,1.225.000,14-09-2010,Alm. Salg,4.375,5,Villa,280,1900,-12 %,Aktuel værdi
+Nygade 109830 Tårs,Tårs,750.000,07-09-2010,Alm. Salg,6.756,4,Villa,111,1965,,Aktuel værdi
+Johannes Hansens Vej 229830 Tårs,Tårs,660.000,02-09-2010,Alm. Salg,9.041,3,Villa,73,1952,-2 %,Aktuel værdi
+Tårnvej 169830 Tårs,Tårs,1.017.000,09-08-2010,Alm. Salg,6.690,4,Villa,152,1971,,Aktuel værdi
+Terpetvej 5909830 Tårs,Tårs,425.000,03-08-2010,Alm. Salg,1.591,5,Villa,267,2015,0 %,Aktuel værdi
+Trangetvej 5659830 Tårs,Tårs,1.215.000,03-08-2010,Alm. Salg,6.014,3,Villa,202,1927,,Aktuel værdi
+Vester Borupvej 1769830 Tårs,Tårs,675.000,02-08-2010,Alm. Salg,4.560,5,Villa,148,1935,-14 %,Aktuel værdi
+Horsevadvej 1549830 Tårs,Tårs,934.548,25-06-2010,Alm. Salg,3.594,7,Villa,260,1946,,Aktuel værdi
+Plumbjergvej 559830 Tårs,Tårs,995.000,24-06-2010,Alm. Salg,6.633,6,Villa,150,1950,0 %,Aktuel værdi
+Bredgade 1519830 Tårs,Tårs,214.004,21-06-2010,Andet,1.813,4,Villa,118,1937,,Aktuel værdi
+Vrejlev Klostervej 169830 Tårs,Tårs,550.000,17-06-2010,Alm. Salg,6.395,3,Villa,86,1959,,Aktuel værdi
+Bredgade 59A9830 Tårs,Tårs,275.000,03-06-2010,Alm. Salg,2.835,3,Villa,97,1948,-17 %,Aktuel værdi
+Damlyvej 379830 Tårs,Tårs,1.102.255,03-06-2010,Alm. Salg,5.566,4,Villa,198,1920,,Aktuel værdi
+Horsevadvej 1509830 Tårs,Tårs,2.472.500,26-05-2010,Alm. Salg,18.451,4,Stuehus,134,1930,-5 %,
+Søparken 279830 Tårs,Tårs,230.000,25-05-2010,Alm. Salg,1.437,6,Villa,160,2011,,Aktuel værdi
+Johannes Hansens Vej 6E9830 Tårs,Tårs,525.000,10-05-2010,Alm. Salg,6.730,3,Rækkehus,78,1988,,Aktuel værdi
+Nygade 269830 Tårs,Tårs,580.000,06-05-2010,Alm. Salg,4.957,4,Villa,117,1963,-10 %,Aktuel værdi
+Syrenvej 149830 Tårs,Tårs,555.000,05-05-2010,Alm. Salg,5.235,4,Villa,106,1971,-11 %,Aktuel værdi
+Sønder Romvej 1209830 Tårs,Tårs,1.885.000,29-04-2010,Alm. Salg,8.340,6,Stuehus,226,1900,-10 %,
+Præstebakken 179830 Tårs,Tårs,917.500,28-04-2010,Alm. Salg,5.919,6,Villa,155,1965,-8 %,Aktuel værdi
+Trangetvej 69830 Tårs,Tårs,205.000,26-04-2010,Alm. Salg,2.383,5,Villa,86,1934,,Aktuel værdi
+Bredgade 1389830 Tårs,Tårs,275.000,26-04-2010,Alm. Salg,2.835,4,Villa,97,1932,,Aktuel værdi
+Sæby Landevej 2299830 Tårs,Tårs,185.000,26-04-2010,Alm. Salg,2.312,3,Villa,80,1910,,Aktuel værdi
+Søparken 289830 Tårs,Tårs,275.000,09-04-2010,Alm. Salg,1.432,6,Villa,192,2011,,Aktuel værdi
+Nøddely 119830 Tårs,Tårs,1.332.500,01-04-2010,Alm. Salg,8.766,4,Villa,152,1980,-4 %,Aktuel værdi
+Johannes Hansens Vej 169830 Tårs,Tårs,1.045.000,31-03-2010,Alm. Salg,6.147,5,Villa,170,1952,-5 %,Aktuel værdi
+Svenstrupvej 3459830 Tårs,Tårs,181.000,05-03-2010,Alm. Salg,962,7,Stuehus,188,2007,,
+Hjørringvej 5399830 Tårs,Tårs,500.000,16-02-2010,Fam. Salg,2.645,7,Stuehus,189,1918,,
+Nyhusvej 1209830 Tårs,Tårs,2.100.000,05-02-2010,Alm. Salg,8.536,8,Stuehus,246,1920,-15 %,
+Rønly 109830 Tårs,Tårs,1.655.000,27-01-2010,Alm. Salg,7.697,7,Villa,215,1987,-5 %,Aktuel værdi
+Bollervej 319830 Tårs,Tårs,2.075.000,27-01-2010,Alm. Salg,10.171,5,Stuehus,204,1986,-2 %,
+Åsmarkvej 1409830 Tårs,Tårs,335.000,15-12-2009,Alm. Salg,2.723,3,Villa,123,1900,-28 %,Aktuel værdi
+Præstebakken 159830 Tårs,Tårs,815.000,02-12-2009,Alm. Salg,6.174,4,Villa,132,1966,-4 %,Aktuel værdi
+Postholdervej 59830 Tårs,Tårs,265.000,01-12-2009,Auktion,2.548,4,Villa,104,1936,,Aktuel værdi
+Sæbyvej 8149830 Tårs,Tårs,160.000,24-11-2009,Alm. Salg,1.523,4,Stuehus,105,1927,-66 %,
+Bredgade 359830 Tårs,Tårs,1.575.000,20-11-2009,Alm. Salg,9.375,4,Villa,168,1939,-1 %,Aktuel værdi
+Plumbjergvej 159830 Tårs,Tårs,1.250.000,12-11-2009,Alm. Salg,8.992,4,Stuehus,139,1920,-16 %,
+Vesterled 59830 Tårs,Tårs,350.000,10-11-2009,Alm. Salg,4.216,3,Villa,83,1954,,Aktuel værdi
+Tykskovvej 10B9830 Tårs,Tårs,550.000,06-11-2009,Alm. Salg,7.638,3,Rækkehus,72,1985,,Aktuel værdi
+Sæby Landevej 3979830 Tårs,Tårs,650.000,27-10-2009,Alm. Salg,4.710,4,Villa,138,1925,0 %,Aktuel værdi
+Klarupvej 2339830 Tårs,Tårs,150.000,01-09-2009,Auktion,1.102,4,Villa,136,1902,,Aktuel værdi
+Trangetvej 709830 Tårs,Tårs,1.495.000,25-08-2009,Alm. Salg,6.615,8,Villa,226,1900,0 %,Aktuel værdi
+Morildvej 3389830 Tårs,Tårs,660.000,17-08-2009,Andet,5.500,4,Villa,120,1956,,Aktuel værdi
+Bollervej 169830 Tårs,Tårs,525.000,11-08-2009,Alm. Salg,4.772,4,Villa,110,1964,-6 %,Aktuel værdi
+Nordbakken 29830 Tårs,Tårs,475.000,08-06-2009,Alm. Salg,6.012,4,Villa,79,1934,0 %,Aktuel værdi
+Brogårdsvej 959830 Tårs,Tårs,1.037.500,25-05-2009,Alm. Salg,5.213,7,Villa,199,1916,-52 %,Aktuel værdi
+Trangetvej 4509830 Tårs,Tårs,230.000,11-05-2009,Alm. Salg,1.036,7,Villa,222,2012,-8 %,Aktuel værdi
+Egely 139830 Tårs,Tårs,816.000,29-04-2009,Alm. Salg,6.000,4,Villa,136,1979,,Aktuel værdi
+Bredgade 1429830 Tårs,Tårs,795.000,21-04-2009,Alm. Salg,7.227,4,Villa,110,1940,,Aktuel værdi
+Bredgade 1249830 Tårs,Tårs,625.000,26-03-2009,Alm. Salg,2.551,6,Villa,245,1900,,Aktuel værdi
+Sørupvej 4529830 Tårs,Tårs,80.000,20-03-2009,Alm. Salg,1.038,3,Villa,77,1902,-46 %,Aktuel værdi
+Trangetvej 159830 Tårs,Tårs,375.000,11-03-2009,Fam. Salg,5.769,3,Villa,65,1923,,Aktuel værdi
+Østerhedenvej 619830 Tårs,Tårs,350.719,05-03-2009,Alm. Salg,2.559,4,Villa,137,1871,-11 %,Aktuel værdi
+Vogdrupvej 719830 Tårs,Tårs,9.500.000,27-02-2009,Fam. Salg,44.811,7,Stuehus,212,1966,,
+Morildvej 3299830 Tårs,Tårs,374.483,21-02-2009,Fam. Salg,2.972,4,Villa,126,1938,,Aktuel værdi
+Vesterskovvej 399830 Tårs,Tårs,389.000,16-02-2009,Alm. Salg,1.800,7,Stuehus,216,1900,,
+Skovgårdsvej 989830 Tårs,Tårs,1.390.000,16-01-2009,Alm. Salg,9.652,4,Villa,144,1978,,Aktuel værdi
+Bollervej 859830 Tårs,Tårs,3.116.667,29-12-2008,Fam. Salg,8.585,7,Stuehus,363,1727,,
+Postholdervej 99830 Tårs,Tårs,475.000,13-12-2008,Alm. Salg,3.625,3,Villa,131,1934,12 %,Aktuel værdi
+Havelundsvej 27A9830 Tårs,Tårs,1.178.000,10-11-2008,Fam. Salg,4.147,6,Villa,284,2010,,Aktuel værdi
+Vester Borupvej 209830 Tårs,Tårs,2.021.350,10-11-2008,Fam. Salg,6.627,7,Villa,305,1907,,Aktuel værdi
+Nygade 199830 Tårs,Tårs,875.000,04-11-2008,Alm. Salg,7.882,4,Villa,111,1964,-5 %,Aktuel værdi
+Damhusvej 1109830 Tårs,Tårs,550.000,31-10-2008,Alm. Salg,7.333,2,Villa,75,2000,,Aktuel værdi
+Bredgade 83B9830 Tårs,Tårs,630.000,30-10-2008,Auktion,3.423,5,Villa,184,1900,,Aktuel værdi
+Klarupvej 819830 Tårs,Tårs,925.000,19-10-2008,Alm. Salg,7.581,5,Stuehus,122,1936,0 %,
+Agdrupvej 3049830 Tårs,Tårs,375.000,14-10-2008,Alm. Salg,2.083,7,Stuehus,180,1928,,
+Stenskrogvej 1439830 Tårs,Tårs,925.000,10-10-2008,Fam. Salg,4.074,4,Stuehus,227,1877,,
+Blommely 89830 Tårs,Tårs,475.801,03-10-2008,Andet,3.069,6,Villa,155,1978,,Aktuel værdi
+Løvbrøndvej 709830 Tårs,Tårs,165.000,24-09-2008,Alm. Salg,760,4,Stuehus,217,1972,,
+Sæbyvej 7699830 Tårs,Tårs,445.000,19-09-2008,Alm. Salg,3.272,2,Villa,136,1900,,Aktuel værdi
+Trangetvej 199830 Tårs,Tårs,475.000,17-09-2008,Alm. Salg,5.163,3,Villa,92,1936,-10 %,Aktuel værdi
+Tårsvej 3809830 Tårs,Tårs,342.500,10-09-2008,Alm. Salg,1.783,6,Villa,192,1880,,Aktuel værdi
+Paxvej 49830 Tårs,Tårs,1.100.000,26-08-2008,Alm. Salg,7.586,6,Villa,145,1924,-4 %,Aktuel værdi
+Egely 129830 Tårs,Tårs,1.175.000,25-08-2008,Alm. Salg,9.873,4,Villa,119,1986,,Aktuel værdi
+Sæbyvej 8429830 Tårs,Tårs,320.000,15-08-2008,Alm. Salg,4.000,2,Villa,80,1920,-6 %,Aktuel værdi
+Degnebakken 49830 Tårs,Tårs,1.600.000,15-08-2008,Alm. Salg,6.504,7,Villa,246,1972,-6 %,Aktuel værdi
+Dalsmøllevej 269830 Tårs,Tårs,11.231.350,13-08-2008,Alm. Salg,54.521,7,Stuehus,206,1935,,
+Skråningen 79830 Tårs,Tårs,1.745.000,01-08-2008,Alm. Salg,9.587,6,Villa,182,1967,-2 %,Aktuel værdi
+Terpetvej 2509830 Tårs,Tårs,625.000,29-07-2008,Alm. Salg,5.081,3,Villa,123,1914,,Aktuel værdi
+Agdrupvej 3059830 Tårs,Tårs,7.850.000,14-07-2008,Alm. Salg,37.740,7,Stuehus,208,1969,,
+Stendalvej 3009830 Tårs,Tårs,900.000,07-07-2008,Alm. Salg,6.666,6,Stuehus,135,1927,-17 %,
+Bakkestien 89830 Tårs,Tårs,855.000,01-07-2008,Alm. Salg,5.029,7,Villa,170,1920,-4 %,Aktuel værdi
+Postholdervej 149830 Tårs,Tårs,426.979,27-06-2008,Fam. Salg,2.004,9,Villa,213,1965,,Aktuel værdi
+Magsvej 79830 Tårs,Tårs,460.000,26-06-2008,Alm. Salg,5.897,3,Villa,78,1907,-7 %,Aktuel værdi
+Magsvej 89830 Tårs,Tårs,775.000,20-06-2008,Alm. Salg,7.908,4,Villa,98,1934,-3 %,Aktuel værdi
+Morildvej 3099830 Tårs,Tårs,1.800.000,04-06-2008,Alm. Salg,7.758,5,Villa,232,1900,-5 %,Aktuel værdi
+Johannes Hansens Vej 39830 Tårs,Tårs,450.000,28-05-2008,Auktion,4.128,3,Villa,109,1939,,Aktuel værdi
+Sæby Landevej 4059830 Tårs,Tårs,250.000,27-05-2008,Alm. Salg,3.125,5,Villa,80,1954,-23 %,Aktuel værdi
+Paxvej 59830 Tårs,Tårs,400.000,08-05-2008,Alm. Salg,4.761,3,Villa,84,1923,,Aktuel værdi
+Sæby Landevej 3939830 Tårs,Tårs,480.000,27-04-2008,Alm. Salg,3.503,4,Villa,137,1937,,Aktuel værdi
+Damhusvej 1069830 Tårs,Tårs,170.000,22-04-2008,Alm. Salg,1.717,4,Villa,99,2009,,Aktuel værdi
+Hvidstedvej 409830 Tårs,Tårs,8.475.000,10-04-2008,Alm. Salg,51.054,6,Stuehus,166,1910,,
+Damlyvej 189830 Tårs,Tårs,3.780.977,01-04-2008,Alm. Salg,21.241,5,Stuehus,178,1930,,
+Burskovvej 1559830 Tårs,Tårs,1.868.012,01-04-2008,Alm. Salg,14.151,5,Stuehus,132,1930,,
+Klarupvej 2359830 Tårs,Tårs,575.000,01-04-2008,Alm. Salg,3.639,5,Villa,158,1920,-4 %,Aktuel værdi
+Vester Borupvej 959830 Tårs,Tårs,1.600.000,28-03-2008,Alm. Salg,-,6,Stuehus,163,1959,,
+Agdrupvej 320B9830 Tårs,Tårs,1.550.000,19-03-2008,Alm. Salg,12.015,4,Stuehus,129,1930,,
+Magsvej 49830 Tårs,Tårs,560.000,17-03-2008,Alm. Salg,5.656,5,Villa,99,1900,,Aktuel værdi
+Præstebakken 89830 Tårs,Tårs,780.000,12-03-2008,Alm. Salg,7.959,3,Villa,98,1964,,Aktuel værdi
+Bredgade 289830 Tårs,Tårs,395.000,10-03-2008,Auktion,2.743,4,Villa,144,1941,-50 %,Aktuel værdi
+Barholtvej 409830 Tårs,Tårs,1.395.000,07-03-2008,Alm. Salg,8.664,5,Villa,161,1897,0 %,Aktuel værdi
+Sæby Landevej 4259830 Tårs,Tårs,560.000,26-02-2008,Alm. Salg,2.947,8,Villa,190,1939,-6 %,Aktuel værdi
+"Bredgade 52, 19830 Tårs",Tårs,2.800.000,25-02-2008,Alm. Salg,19.444,5,Anden beboelse,144,1912,,Aktuel værdi
+Morildvej 3109830 Tårs,Tårs,80.000,20-02-2008,Alm. Salg,349,7,Stuehus,229,1989,,
+Nygade 189830 Tårs,Tårs,650.000,11-02-2008,Alm. Salg,6.074,5,Villa,107,1960,-9 %,Aktuel værdi
+Sæsingvej 229830 Tårs,Tårs,330.000,14-01-2008,Alm. Salg,2.519,4,Villa,131,1930,-15 %,Aktuel værdi
+Vinkelvej 59830 Tårs,Tårs,465.000,04-01-2008,Alm. Salg,4.696,3,Villa,99,1900,,Aktuel værdi
+Lille Rugholmvej 269830 Tårs,Tårs,2.000.000,10-12-2007,Fam. Salg,4.474,9,Villa,447,2008,,Aktuel værdi
+Mosebakkevej 249830 Tårs,Tårs,925.000,05-12-2007,Alm. Salg,5.027,6,Stuehus,184,1925,,
+Trangetvej 289830 Tårs,Tårs,830.000,29-11-2007,Alm. Salg,7.904,3,Villa,105,1958,-2 %,Aktuel værdi
+Søholmvej 39830 Tårs,Tårs,798.000,09-11-2007,Alm. Salg,6.705,3,Villa,119,1944,0 %,Aktuel værdi
+Tykskovvej 109830 Tårs,Tårs,695.000,24-10-2007,Alm. Salg,5.991,4,Villa,116,1934,,Aktuel værdi
+Øster Lievej 69830 Tårs,Tårs,1.050.000,22-10-2007,Alm. Salg,8.139,4,Villa,129,1877,,Aktuel værdi
+Sørupvej 2369830 Tårs,Tårs,1.380.000,15-10-2007,Alm. Salg,5.287,6,Villa,261,1914,-13 %,Aktuel værdi
+Sæby Landevej 299830 Tårs,Tårs,1.150.000,15-10-2007,Alm. Salg,-,6,Villa,237,1910,-4 %,Aktuel værdi
+Tårnvej 149830 Tårs,Tårs,810.000,12-10-2007,Alm. Salg,7.714,4,Villa,105,1970,,Aktuel værdi
+Søbakken 79830 Tårs,Tårs,935.000,11-10-2007,Alm. Salg,6.493,4,Villa,144,1973,,Aktuel værdi
+Sørupvangvej 29830 Tårs,Tårs,55.000,10-10-2007,Alm. Salg,392,4,Villa,140,1990,,Aktuel værdi
+Søholmvej 119830 Tårs,Tårs,855.000,01-10-2007,Fam. Salg,8.382,3,Villa,102,1967,,Aktuel værdi
+Skråningen 69830 Tårs,Tårs,1.200.000,01-10-2007,Alm. Salg,8.759,5,Villa,137,1980,,Aktuel værdi
+Brogårdsvej 1099830 Tårs,Tårs,503.696,21-09-2007,Alm. Salg,2.998,7,Villa,168,1935,,Aktuel værdi
+Bredgade 169830 Tårs,Tårs,2.050.000,19-09-2007,Alm. Salg,14.748,5,Stuehus,139,1936,,
+Trangetvej 249830 Tårs,Tårs,570.000,06-09-2007,Alm. Salg,6.477,4,Villa,88,1950,,Aktuel værdi
+Tårs Møllegade 139830 Tårs,Tårs,699.000,05-09-2007,Alm. Salg,6.354,6,Villa,110,1942,,Aktuel værdi
+Bøgelundsvej 609830 Tårs,Tårs,2.550.000,31-08-2007,Alm. Salg,10.714,6,Stuehus,238,1956,-15 %,
+Bollervej 59830 Tårs,Tårs,750.000,29-08-2007,Alm. Salg,8.152,5,Villa,92,1910,-6 %,Aktuel værdi
+Berberisvej 79830 Tårs,Tårs,590.000,15-08-2007,Alm. Salg,4.916,3,Villa,120,1934,-1 %,Aktuel værdi
+Kokmosevej 479830 Tårs,Tårs,700.000,14-08-2007,Alm. Salg,4.458,4,Villa,157,1925,,Aktuel værdi
+Tegldal 49830 Tårs,Tårs,1.100.000,08-08-2007,Alm. Salg,8.461,4,Villa,130,1991,,Aktuel værdi
+Tangetvej 2909830 Tårs,Tårs,900.000,06-08-2007,Fam. Salg,8.653,3,Stuehus,104,1931,,
+Boller Kærvej 159830 Tårs,Tårs,3.475.000,06-08-2007,Fam. Salg,13.263,7,Stuehus,262,1979,,
+Gadekæret 219830 Tårs,Tårs,885.000,26-07-2007,Alm. Salg,4.609,7,Villa,192,1880,-1 %,Aktuel værdi
+Tykskovvej 1699830 Tårs,Tårs,1.210.000,26-07-2007,Alm. Salg,9.236,4,Stuehus,131,1972,-7 %,
+Tårs Møllegade 159830 Tårs,Tårs,610.000,12-07-2007,Alm. Salg,7.439,3,Villa,82,1952,,Aktuel værdi
+Hjabelundvej 1269830 Tårs,Tårs,815.000,20-06-2007,Alm. Salg,4.267,6,Villa,191,1934,,Aktuel værdi
+Hornbjergvej 989830 Tårs,Tårs,731.920,18-06-2007,Alm. Salg,-,5,Stuehus,229,1954,,
+Klarupvej 2419830 Tårs,Tårs,395.000,15-06-2007,Alm. Salg,3.062,5,Villa,129,1938,,Aktuel værdi
+Vesterled 2A9830 Tårs,Tårs,735.000,07-06-2007,Alm. Salg,6.176,4,Villa,119,1950,,Aktuel værdi
+Lyngvej 109830 Tårs,Tårs,1.255.000,07-06-2007,Alm. Salg,5.783,5,Villa,217,1970,,Aktuel værdi
+Bredgade 1219830 Tårs,Tårs,445.000,14-05-2007,Alm. Salg,3.320,5,Villa,134,1917,,Aktuel værdi
+Skiverenvej 9B9830 Tårs,Tårs,975.000,27-04-2007,Alm. Salg,6.866,4,Villa,142,1907,,Aktuel værdi
+Syrenvej 139830 Tårs,Tårs,1.300.000,26-04-2007,Alm. Salg,6.435,6,Villa,202,1973,,Aktuel værdi
+Sæby Landevej 2249830 Tårs,Tårs,331.448,26-04-2007,Andet,3.899,4,Stuehus,85,1907,,
+Præstebakken 129830 Tårs,Tårs,835.000,23-04-2007,Alm. Salg,4.717,5,Villa,177,1966,,Aktuel værdi
+Terpetvej 4239830 Tårs,Tårs,450.000,17-04-2007,Alm. Salg,3.488,3,Villa,129,1935,-22 %,Aktuel værdi
+Nygade 99830 Tårs,Tårs,850.000,11-04-2007,Alm. Salg,7.083,5,Villa,120,1971,,Aktuel værdi
+Tårs Møllegade 69830 Tårs,Tårs,485.000,02-04-2007,Alm. Salg,4.110,5,Villa,118,1932,,Aktuel værdi
+Sæbyvej 8309830 Tårs,Tårs,1.600.000,16-03-2007,Alm. Salg,11.428,4,Stuehus,140,1928,,
+Stendalvej 1659830 Tårs,Tårs,1.285.000,16-03-2007,Alm. Salg,11.473,4,Villa,112,1890,0 %,Aktuel værdi
+Bjørnstrupvej 919830 Tårs,Tårs,1.470.000,11-03-2007,Alm. Salg,8.909,7,Stuehus,165,1920,-18 %,
+Trangetvej 39830 Tårs,Tårs,465.000,07-03-2007,Alm. Salg,4.227,4,Villa,110,1935,0 %,Aktuel værdi
+Bredgade 131B9830 Tårs,Tårs,660.000,07-03-2007,Alm. Salg,6.947,3,Rækkehus,95,1985,,Aktuel værdi
+Morildvej 3219830 Tårs,Tårs,340.000,01-03-2007,Alm. Salg,2.236,4,Villa,152,1930,,Aktuel værdi
+Bollervej 299830 Tårs,Tårs,400.000,01-03-2007,Alm. Salg,5.194,3,Villa,77,1927,,Aktuel værdi
+Morildvej 1369830 Tårs,Tårs,826.479,26-02-2007,Fam. Salg,5.197,4,Stuehus,159,1827,,
+Sæby Landevej 4399830 Tårs,Tårs,1.200.000,19-02-2007,Fam. Salg,10.434,4,Stuehus,115,1890,,
+Bredgade 1059830 Tårs,Tårs,450.000,14-02-2007,Alm. Salg,4.945,4,Villa,91,1931,,Aktuel værdi
+Egely 79830 Tårs,Tårs,995.000,08-02-2007,Alm. Salg,8.577,4,Villa,116,1980,,Aktuel værdi
+Agdrupvej 2309830 Tårs,Tårs,5.056.919,05-02-2007,Fam. Salg,29.922,7,Stuehus,169,1910,,
+Sæsingvej 219830 Tårs,Tårs,60.000,18-01-2007,Alm. Salg,444,5,Villa,135,1938,,Aktuel værdi
+Boller Møllevej 169830 Tårs,Tårs,325.000,17-01-2007,Alm. Salg,4.062,3,Villa,80,1900,,Aktuel værdi
+Tårnvej 39830 Tårs,Tårs,1.017.764,15-01-2007,Alm. Salg,7.769,5,Villa,131,1971,,Aktuel værdi
+Sæsingvej 189830 Tårs,Tårs,630.000,14-12-2006,Alm. Salg,3.865,5,Villa,163,1927,,Aktuel værdi
+Søparken 189830 Tårs,Tårs,250.000,11-12-2006,Alm. Salg,1.329,7,Villa,188,2010,,Aktuel værdi
+Trangetvej 2929830 Tårs,Tårs,460.000,28-11-2006,Alm. Salg,4.299,3,Villa,107,1932,,Aktuel værdi
+Sæbyvej 8619830 Tårs,Tårs,1.500.000,27-11-2006,Fam. Salg,6.818,8,Villa,220,1990,,Aktuel værdi
+Trangetvej 2689830 Tårs,Tårs,475.000,14-11-2006,Alm. Salg,5.053,3,Villa,94,1937,,Aktuel værdi
+Trangetvej 129830 Tårs,Tårs,865.000,06-11-2006,Alm. Salg,6.975,4,Villa,124,1955,,Aktuel værdi
+Stenslundvej 599830 Tårs,Tårs,1.640.000,27-10-2006,Alm. Salg,10.314,5,Villa,159,1990,,Aktuel værdi
+Klarupvej 2319830 Tårs,Tårs,250.000,16-10-2006,Alm. Salg,1.366,5,Villa,183,1900,,Aktuel værdi
+Søparken 339830 Tårs,Tårs,2.273.802,12-10-2006,Alm. Salg,8.916,7,Villa,255,2006,,Aktuel værdi
+Tværvej 119830 Tårs,Tårs,795.000,21-09-2006,Alm. Salg,6.570,3,Villa,121,1969,,Aktuel værdi
+Bredgade 1159830 Tårs,Tårs,200.000,15-09-2006,Alm. Salg,1.226,6,Villa,163,1890,,Aktuel værdi
+Søparken 259830 Tårs,Tårs,230.000,06-09-2006,Alm. Salg,962,6,Villa,239,2011,,Aktuel værdi
+Bredgade 329830 Tårs,Tårs,405.000,01-09-2006,Alm. Salg,3.970,4,Villa,102,1930,,Aktuel værdi
+Bollervej 99830 Tårs,Tårs,527.000,30-08-2006,Alm. Salg,3.737,6,Villa,141,1927,,Aktuel værdi
+Tårnvej 79830 Tårs,Tårs,735.000,15-08-2006,Alm. Salg,5.787,4,Villa,127,1969,,Aktuel værdi
+Trangetvej 6549830 Tårs,Tårs,8.820.000,04-08-2006,Alm. Salg,45.463,5,Stuehus,194,1920,,
+Vesterled 99830 Tårs,Tårs,320.000,10-07-2006,Alm. Salg,2.133,3,Villa,150,1945,,Aktuel værdi
+Damhusvej 609830 Tårs,Tårs,800.000,30-06-2006,Alm. Salg,4.819,7,Villa,166,1975,,Aktuel værdi
+Harpsøvej 359830 Tårs,Tårs,6.086.356,28-06-2006,Fam. Salg,17.290,9,Stuehus,352,1974,,
+Fuglsangvej 359830 Tårs,Tårs,875.000,22-06-2006,Alm. Salg,4.581,5,Villa,191,1925,,Aktuel værdi
+Skiverenvej 9A9830 Tårs,Tårs,504.244,22-06-2006,Auktion,4.802,3,Villa,105,1925,,Aktuel værdi
+Gadekæret 249830 Tårs,Tårs,485.000,20-06-2006,Alm. Salg,2.819,7,Villa,172,1902,,Aktuel værdi
+Boller Kærvej 1109830 Tårs,Tårs,410.000,19-06-2006,Alm. Salg,-,6,Villa,194,1892,,Aktuel værdi
+Sæsingvej 39830 Tårs,Tårs,550.000,15-06-2006,Alm. Salg,2.370,6,Villa,232,1912,,Aktuel værdi
+Tykskovvej 189830 Tårs,Tårs,775.000,15-06-2006,Alm. Salg,4.813,6,Villa,161,1949,,Aktuel værdi
+Bredgade 1289830 Tårs,Tårs,320.000,15-06-2006,Fam. Salg,3.333,3,Villa,96,1933,,Aktuel værdi
+Nybovej 49830 Tårs,Tårs,1.950.000,12-06-2006,Fam. Salg,10.540,5,Stuehus,185,1975,,
+Trangetvej 269830 Tårs,Tårs,850.000,05-06-2006,Alm. Salg,7.870,3,Villa,108,1965,,Aktuel værdi
+Nøddely 79830 Tårs,Tårs,1.230.000,30-05-2006,Alm. Salg,8.785,4,Villa,140,1986,,Aktuel værdi
+Sæby Landevej 4219830 Tårs,Tårs,340.000,30-05-2006,Alm. Salg,4.722,3,Villa,72,1953,,Aktuel værdi
+Berberisvej 59830 Tårs,Tårs,695.000,29-05-2006,Alm. Salg,7.637,4,Villa,91,1932,,Aktuel værdi
+Vrejlev Klostervej 129830 Tårs,Tårs,340.000,22-05-2006,Auktion,3.578,3,Villa,95,1960,,Aktuel værdi
+Højvej 29830 Tårs,Tårs,730.000,16-05-2006,Alm. Salg,6.033,3,Villa,121,1967,,Aktuel værdi
+Skæggesholtvej 1109830 Tårs,Tårs,13.350.000,10-05-2006,Alm. Salg,71.010,5,Stuehus,188,1906,,
+Sæsingvej 269830 Tårs,Tårs,200.000,24-04-2006,Fam. Salg,1.307,6,Villa,153,1929,,Aktuel værdi
+Rønly 39830 Tårs,Tårs,775.000,17-04-2006,Alm. Salg,7.175,4,Villa,108,1981,,Aktuel værdi
+Bredgade 1479830 Tårs,Tårs,250.000,29-03-2006,Alm. Salg,3.787,3,Villa,66,1934,,Aktuel værdi
+Håsenvej 1519830 Tårs,Tårs,1.006.930,28-03-2006,Alm. Salg,4.266,5,Stuehus,236,1976,,
+Egely 19830 Tårs,Tårs,1.300.000,24-03-2006,Alm. Salg,9.219,5,Villa,141,1980,,Aktuel værdi
+Græsdalvej 1019830 Tårs,Tårs,405.000,23-03-2006,Alm. Salg,-,8,Villa,259,1986,,Aktuel værdi
+Terpetvej 4189830 Tårs,Tårs,250.000,22-03-2006,Alm. Salg,1.146,8,Villa,218,1927,,Aktuel værdi
+Bollervej 1609830 Tårs,Tårs,1.300.000,21-03-2006,Alm. Salg,3.915,9,Villa,332,1924,,Aktuel værdi
+Nørgårdsvej 659830 Tårs,Tårs,680.000,16-03-2006,Alm. Salg,2.905,7,Villa,234,2008,,Aktuel værdi
+Magsvej 59830 Tårs,Tårs,725.000,15-03-2006,Alm. Salg,6.590,4,Villa,110,1907,,Aktuel værdi
+Horsevadvej 1989830 Tårs,Tårs,620.000,27-02-2006,Alm. Salg,4.133,4,Stuehus,150,1910,,
+Trangetvej 280A9830 Tårs,Tårs,250.000,22-02-2006,Alm. Salg,2.192,3,Villa,114,1927,,Aktuel værdi
+Vogdruplundvej 409830 Tårs,Tårs,492.000,15-02-2006,Alm. Salg,2.186,7,Villa,225,1905,,Aktuel værdi
+Sæby Landevej 4159830 Tårs,Tårs,1.525.000,01-02-2006,Alm. Salg,7.702,6,Villa,198,1957,,Aktuel værdi
+Rugholmvej 1309830 Tårs,Tårs,2.189.600,10-01-2006,Fam. Salg,14.597,4,Stuehus,150,1877,,
+Åsmarkvej 1069830 Tårs,Tårs,945.000,21-12-2005,Alm. Salg,-,7,Villa,232,1914,,Aktuel værdi
+Sønder Graumvej 619830 Tårs,Tårs,400.000,21-12-2005,Alm. Salg,1.632,7,Villa,245,1920,,Aktuel værdi
+Søparken 479830 Tårs,Tårs,260.000,14-12-2005,Alm. Salg,1.688,4,Villa,154,2007,,Aktuel værdi
+Søparken 399830 Tårs,Tårs,240.000,05-12-2005,Alm. Salg,1.600,5,Villa,150,2007,,Aktuel værdi
+Johannes Hansens Vej 149830 Tårs,Tårs,477.600,29-11-2005,Alm. Salg,6.633,2,Villa,72,1939,,Aktuel værdi
+Søparken 499830 Tårs,Tårs,240.000,23-11-2005,Alm. Salg,1.043,6,Villa,230,2006,,Aktuel værdi
+Stendalvej 859830 Tårs,Tårs,2.035.000,23-11-2005,Alm. Salg,12.561,4,Stuehus,162,1916,,
+Bredgade 409830 Tårs,Tårs,580.000,16-11-2005,Alm. Salg,6.170,2,Villa,94,1950,,Aktuel værdi
+Bollervej 429830 Tårs,Tårs,750.000,12-11-2005,Alm. Salg,8.152,3,Villa,92,1937,,Aktuel værdi
+Bredgade 1019830 Tårs,Tårs,530.000,10-11-2005,Alm. Salg,7.066,3,Villa,75,1882,,Aktuel værdi
+Håsenvej 1309830 Tårs,Tårs,1.125.000,03-11-2005,Alm. Salg,5.000,8,Stuehus,225,1927,,
+Vesterled 149830 Tårs,Tårs,450.000,02-11-2005,Fam. Salg,4.838,3,Villa,93,1957,,Aktuel værdi
+Præstebakken 209830 Tårs,Tårs,1.280.000,31-10-2005,Alm. Salg,7.272,6,Villa,176,1965,,Aktuel værdi
+Degnebakken 89830 Tårs,Tårs,1.260.000,31-10-2005,Alm. Salg,6.146,7,Villa,205,1971,,Aktuel værdi
+Søparken 419830 Tårs,Tårs,1.455.000,13-10-2005,Alm. Salg,10.104,4,Rækkehus,144,2003,,Aktuel værdi
+Søparken 439830 Tårs,Tårs,1.400.000,13-10-2005,Alm. Salg,9.722,4,Rækkehus,144,2003,,Aktuel værdi
+Skovgårdsvej 1019830 Tårs,Tårs,650.467,11-10-2005,Alm. Salg,3.966,4,Stuehus,164,1930,,
+Magsvej 169830 Tårs,Tårs,710.000,10-10-2005,Alm. Salg,6.761,3,Villa,105,1969,,Aktuel værdi
+Morildvej 109830 Tårs,Tårs,450.000,03-10-2005,Alm. Salg,2.000,7,Villa,225,1875,,Aktuel værdi
+Gammel Borupvej 29830 Tårs,Tårs,585.000,30-09-2005,Alm. Salg,5.850,4,Stuehus,100,1900,,
+Egely 49830 Tårs,Tårs,940.000,21-09-2005,Alm. Salg,5.628,5,Villa,167,1980,,Aktuel værdi
+Tykskovvej 209830 Tårs,Tårs,860.000,07-09-2005,Alm. Salg,5.695,6,Villa,151,1969,,Aktuel værdi
+Horsevadvej 1529830 Tårs,Tårs,660.000,02-09-2005,Alm. Salg,8.571,3,Sommerhus,77,1852,,Aktuel værdi
+Kirsebærly 49830 Tårs,Tårs,1.100.000,31-08-2005,Alm. Salg,7.971,4,Villa,138,1977,,Aktuel værdi
+Damly 39830 Tårs,Tårs,760.000,30-08-2005,Alm. Salg,5.100,5,Villa,149,1975,,Aktuel værdi
+Tykskovvej 1869830 Tårs,Tårs,365.000,26-08-2005,Alm. Salg,4.147,3,Villa,88,1777,,Aktuel værdi
+Præstebakken 149830 Tårs,Tårs,835.000,18-08-2005,Alm. Salg,5.218,6,Villa,160,1965,,Aktuel værdi
+Magnolievej 119830 Tårs,Tårs,635.000,16-08-2005,Alm. Salg,6.755,3,Villa,94,1981,,Aktuel værdi
+Søholmvej 339830 Tårs,Tårs,415.000,11-08-2005,Alm. Salg,4.108,3,Villa,101,1952,,Aktuel værdi
+Nybovej 119830 Tårs,Tårs,850.000,08-08-2005,Alm. Salg,2.656,6,Villa,320,2014,,Aktuel værdi
+Sæby Landevej 4419830 Tårs,Tårs,130.000,28-07-2005,Alm. Salg,828,3,Villa,157,1892,,Aktuel værdi
+Søparken 299830 Tårs,Tårs,230.000,20-07-2005,Alm. Salg,1.631,4,Villa,141,2007,,Aktuel værdi
+Klosterbakken 79830 Tårs,Tårs,170.250,14-07-2005,Alm. Salg,1.242,5,Villa,137,2007,,Aktuel værdi
+Rolighed 289830 Tårs,Tårs,750.000,13-07-2005,Alm. Salg,-,7,Villa,210,1988,,Aktuel værdi
+Bollervej 489830 Tårs,Tårs,417.307,12-07-2005,Andet,2.745,5,Villa,152,1960,,Aktuel værdi
+Nygade 179830 Tårs,Tårs,810.000,08-07-2005,Alm. Salg,5.159,4,Villa,157,1966,,Aktuel værdi
+Volsholtvej 559830 Tårs,Tårs,1.995.000,01-07-2005,Fam. Salg,10.901,5,Villa,183,1952,,Aktuel værdi
+Syrenvej 19830 Tårs,Tårs,740.000,24-06-2005,Alm. Salg,5.781,4,Villa,128,1972,,Aktuel værdi
+Tårs Møllegade 49830 Tårs,Tårs,840.000,24-06-2005,Alm. Salg,6.885,6,Villa,122,1927,,Aktuel værdi
+Tårshedevej 509830 Tårs,Tårs,645.000,22-06-2005,Alm. Salg,6.789,4,Villa,95,1982,,Aktuel værdi
+Terpetvej 5989830 Tårs,Tårs,400.000,20-06-2005,Alm. Salg,3.809,3,Villa,105,1935,,Aktuel værdi
+Bredgade 1649830 Tårs,Tårs,310.000,13-06-2005,Alm. Salg,5.000,3,Villa,62,1900,,Aktuel værdi
+Terpetvej 2599830 Tårs,Tårs,935.000,31-05-2005,Alm. Salg,6.317,6,Villa,148,1915,,Aktuel værdi
+Damhusvej 1129830 Tårs,Tårs,740.000,30-05-2005,Alm. Salg,8.809,3,Rækkehus,84,2001,,Aktuel værdi
+Kirkestien 59830 Tårs,Tårs,330.000,17-05-2005,Alm. Salg,4.714,4,Villa,70,1930,,Aktuel værdi
+Rønly 169830 Tårs,Tårs,1.185.000,13-05-2005,Alm. Salg,7.547,6,Villa,157,1986,,Aktuel værdi
+Morildvej 2809830 Tårs,Tårs,625.000,10-05-2005,Alm. Salg,6.188,3,Stuehus,101,1912,,
+Tidemandsholmsvej 1129830 Tårs,Tårs,455.510,10-05-2005,Alm. Salg,1.859,10,Stuehus,245,1917,,
+Højvej 119830 Tårs,Tårs,1.100.000,05-05-2005,Alm. Salg,7.236,6,Villa,152,1968,,Aktuel værdi
+Paxvej 3A9830 Tårs,Tårs,550.000,02-05-2005,Alm. Salg,6.962,2,Rækkehus,79,1986,,Aktuel værdi
+Sørupvej 389830 Tårs,Tårs,925.000,25-04-2005,Alm. Salg,6.801,5,Villa,136,1936,,Aktuel værdi
+Svenstrupvej 5349830 Tårs,Tårs,710.000,28-03-2005,Alm. Salg,3.944,5,Villa,180,1957,,Aktuel værdi
+Bollervej 269830 Tårs,Tårs,475.000,14-03-2005,Alm. Salg,3.298,5,Villa,144,1966,,Aktuel værdi
+Højmarksvej 79830 Tårs,Tårs,500.000,07-03-2005,Alm. Salg,3.816,5,Villa,131,1907,,Aktuel værdi
+Bredgade 1039830 Tårs,Tårs,315.000,02-03-2005,Alm. Salg,3.000,2,Villa,105,1877,,Aktuel værdi
+Melbækvej 2699830 Tårs,Tårs,340.000,02-03-2005,Alm. Salg,2.266,4,Villa,150,1929,,Aktuel værdi
+Søparken 389830 Tårs,Tårs,335.000,14-02-2005,Alm. Salg,2.067,4,Villa,162,2007,,Aktuel værdi
+Damly 149830 Tårs,Tårs,805.000,14-02-2005,Alm. Salg,7.000,4,Villa,115,1975,,Aktuel værdi
+Tårnvej 239830 Tårs,Tårs,705.000,09-02-2005,Alm. Salg,3.490,6,Villa,202,1972,,Aktuel værdi
+Trangetvej 169830 Tårs,Tårs,570.000,04-02-2005,Alm. Salg,5.277,3,Villa,108,1953,,Aktuel værdi
+Vrejlev Klostervej 2659830 Tårs,Tårs,1.775.000,04-02-2005,Alm. Salg,8.255,7,Villa,215,1956,,Aktuel værdi
+Engholmvej 59830 Tårs,Tårs,146.136,04-02-2005,Fam. Salg,2.519,2,Villa,58,1915,,Aktuel værdi
+Søholmvej 49830 Tårs,Tårs,800.000,03-02-2005,Alm. Salg,-,6,Villa,194,1949,,Aktuel værdi
+Rolighed 299830 Tårs,Tårs,295.000,18-01-2005,Alm. Salg,3.105,3,Villa,95,1910,,Aktuel værdi
+Damhusvej 749830 Tårs,Tårs,720.000,12-01-2005,Alm. Salg,8.571,3,Rækkehus,84,2000,,Aktuel værdi
+Bredgade 61B9830 Tårs,Tårs,1.435.000,02-01-2005,Fam. Salg,7.884,5,Lejlighed,182,1930,,Aktuel værdi
+Bålhøj 69830 Tårs,Tårs,870.000,30-12-2004,Alm. Salg,3.918,7,Villa,222,1972,,Aktuel værdi
+Bettevej 29830 Tårs,Tårs,875.000,20-12-2004,Alm. Salg,5.993,6,Villa,146,1953,,Aktuel værdi
+Søparken 559830 Tårs,Tårs,215.000,19-11-2004,Alm. Salg,1.378,5,Villa,156,2005,,Aktuel værdi
+Rævmosevej 59830 Tårs,Tårs,175.000,03-11-2004,Alm. Salg,1.422,4,Villa,123,1939,,Aktuel værdi
+Skovgårdsvej 109830 Tårs,Tårs,500.000,02-11-2004,Alm. Salg,-,6,Stuehus,222,2002,,
+Damhusvej 99830 Tårs,Tårs,325.000,21-10-2004,Alm. Salg,4.642,2,Villa,70,1957,,Aktuel værdi
+Søparken 209830 Tårs,Tårs,240.000,26-09-2004,Alm. Salg,1.132,6,Villa,212,2007,,Aktuel værdi
+Guldregnvej 79830 Tårs,Tårs,775.000,20-09-2004,Alm. Salg,5.575,5,Villa,139,1973,,Aktuel værdi
+Lysholtvej 469830 Tårs,Tårs,1.185.000,04-09-2004,Alm. Salg,5.220,5,Villa,227,1920,,Aktuel værdi
+Bredgade 1399830 Tårs,Tårs,335.000,30-08-2004,Alm. Salg,3.563,3,Villa,94,1914,,Aktuel værdi
+Broensvej 469830 Tårs,Tårs,40.000,26-08-2004,Andet,197,6,Villa,203,1927,,Aktuel værdi
+Morildvej 3319830 Tårs,Tårs,625.000,25-08-2004,Alm. Salg,3.360,6,Villa,186,1904,,Aktuel værdi
+Tårnvej 19830 Tårs,Tårs,1.000.000,02-08-2004,Alm. Salg,5.649,5,Villa,177,1968,,Aktuel værdi
+Risdalvej 19830 Tårs,Tårs,630.000,30-07-2004,Alm. Salg,-,5,Villa,122,1962,,Aktuel værdi
+Johannes Hansens Vej 279830 Tårs,Tårs,750.000,07-07-2004,Alm. Salg,4.491,4,Villa,167,1953,,Aktuel værdi
+Gadekæret 269830 Tårs,Tårs,270.000,06-07-2004,Alm. Salg,1.551,4,Villa,174,1877,,Aktuel værdi
+Søholmvej 89830 Tårs,Tårs,425.000,08-06-2004,Alm. Salg,5.592,3,Villa,76,1940,,Aktuel værdi
+Søparken 229830 Tårs,Tårs,230.000,04-05-2004,Alm. Salg,1.619,4,Villa,142,2007,,Aktuel værdi
+Tværvej 209830 Tårs,Tårs,650.000,03-05-2004,Alm. Salg,5.909,4,Villa,110,1965,,Aktuel værdi
+Syrenvej 39830 Tårs,Tårs,735.000,03-05-2004,Alm. Salg,6.125,4,Villa,120,1972,,Aktuel værdi
+Risdalvej 39830 Tårs,Tårs,600.000,29-04-2004,Alm. Salg,4.687,4,Villa,128,1912,,Aktuel værdi
+Rønly 189830 Tårs,Tårs,1.100.000,07-04-2004,Alm. Salg,5.820,6,Villa,189,1980,,Aktuel værdi
+Askebjergvej 309830 Tårs,Tårs,956.500,07-04-2004,Alm. Salg,3.582,9,Villa,267,1918,,Aktuel værdi
+Bakkensvej 109830 Tårs,Tårs,693.000,19-03-2004,Alm. Salg,3.268,5,Villa,212,1897,,Aktuel værdi
+Rugholmvej 1109830 Tårs,Tårs,50.000,12-03-2004,Alm. Salg,925,2,Villa,54,1877,,Aktuel værdi
+Boller Kærvej 469830 Tårs,Tårs,550.000,08-03-2004,Alm. Salg,2.582,5,Villa,213,1930,,Aktuel værdi
+Blommely 69830 Tårs,Tårs,800.000,16-02-2004,Alm. Salg,4.123,7,Villa,194,1975,,Aktuel værdi
+Paxvej 3B9830 Tårs,Tårs,524.999,12-02-2004,Alm. Salg,6.818,3,Rækkehus,77,1986,,Aktuel værdi
+Svenstrupvej 525A9830 Tårs,Tårs,303.000,11-02-2004,Auktion,1.183,4,Stuehus,256,2013,,
+Tårnvej 289830 Tårs,Tårs,720.000,14-01-2004,Alm. Salg,5.034,5,Villa,143,1973,,Aktuel værdi
+Vogdrupvej 469830 Tårs,Tårs,2.100.000,10-12-2003,Alm. Salg,7.046,7,Stuehus,298,1974,,
+Sæsingvej 69830 Tårs,Tårs,298.000,09-12-2003,Alm. Salg,3.820,4,Villa,78,1922,,Aktuel værdi
+Boller Møllevej 1169830 Tårs,Tårs,4.750.000,05-12-2003,Fam. Salg,17.857,7,Stuehus,266,1887,,
+Brogårdsvej 29830 Tårs,Tårs,1.000.000,28-11-2003,Alm. Salg,-,7,Stuehus,262,1898,,
+Gadekæret 29830 Tårs,Tårs,725.000,10-11-2003,Alm. Salg,5.370,5,Villa,135,1978,,Aktuel værdi
+Tykskovvej 19830 Tårs,Tårs,365.000,10-11-2003,Alm. Salg,2.967,4,Villa,123,1902,,Aktuel værdi
+Kirsebærly 19830 Tårs,Tårs,840.000,03-11-2003,Alm. Salg,5.121,5,Villa,164,1975,,Aktuel værdi
+Terpetvej 1609830 Tårs,Tårs,618.750,28-10-2003,Alm. Salg,-,4,Villa,162,1900,,Aktuel værdi
+Hjabelundvej 819830 Tårs,Tårs,595.000,16-10-2003,Alm. Salg,5.360,3,Stuehus,111,1890,,
+Højvej 99830 Tårs,Tårs,730.000,09-10-2003,Alm. Salg,4.124,6,Villa,177,1967,,Aktuel værdi
+Skovgårdsvej 709830 Tårs,Tårs,1.099.000,12-09-2003,Alm. Salg,6.389,5,Stuehus,172,1901,,
+Degnebakken 59830 Tårs,Tårs,740.000,20-08-2003,Alm. Salg,5.362,5,Villa,138,1970,,Aktuel værdi
+Trangetvej 2A9830 Tårs,Tårs,400.000,08-08-2003,Alm. Salg,-,5,Villa,148,1930,,Aktuel værdi
+Nøddely 179830 Tårs,Tårs,820.000,07-08-2003,Fam. Salg,6.165,5,Villa,133,1980,,Aktuel værdi
+Agdrupvej 1209830 Tårs,Tårs,635.000,24-07-2003,Alm. Salg,3.848,5,Villa,165,1940,,Aktuel værdi
+Sæby Landevej 4549830 Tårs,Tårs,440.000,12-07-2003,Alm. Salg,3.308,6,Villa,133,1927,,Aktuel værdi
+Morildvej 49830 Tårs,Tårs,450.000,01-07-2003,Alm. Salg,3.600,5,Villa,125,1900,,Aktuel værdi
+Søbakken 39830 Tårs,Tårs,815.000,16-06-2003,Alm. Salg,5.361,5,Villa,152,1973,,Aktuel værdi
+Hjabelundvej 499830 Tårs,Tårs,940.000,14-06-2003,Alm. Salg,8.545,5,Stuehus,110,1928,,
+Morildvej 3369830 Tårs,Tårs,350.000,06-06-2003,Alm. Salg,3.977,4,Villa,88,1926,,Aktuel værdi
+Magnolievej 79830 Tårs,Tårs,675.000,06-06-2003,Alm. Salg,7.180,3,Villa,94,1981,,Aktuel værdi
+Vrejlev Klostervej 3209830 Tårs,Tårs,750.000,26-05-2003,Alm. Salg,4.545,5,Stuehus,165,1900,,
+Gammel Damhusvej 29830 Tårs,Tårs,289.000,20-05-2003,Fam. Salg,3.705,3,Villa,78,1900,,Aktuel værdi
+Kringelbornvej 789830 Tårs,Tårs,400.000,05-05-2003,Alm. Salg,4.347,4,Anden beboelse,92,1927,,Aktuel værdi
+Rønly 99830 Tårs,Tårs,950.000,14-04-2003,Alm. Salg,7.480,4,Villa,127,1980,,Aktuel værdi
+Sæby Landevej 3909830 Tårs,Tårs,300.000,04-04-2003,Alm. Salg,1.960,7,Stuehus,153,1868,,
+Morildvej 3269830 Tårs,Tårs,325.000,26-03-2003,Alm. Salg,2.801,4,Villa,116,1949,,Aktuel værdi
+Vesterled 129830 Tårs,Tårs,295.000,10-03-2003,Alm. Salg,2.565,3,Villa,115,1947,,Aktuel værdi
+Nyhusvej 809830 Tårs,Tårs,575.000,07-03-2003,Alm. Salg,7.770,2,Stuehus,74,1940,,
+Søparken 519830 Tårs,Tårs,240.000,27-02-2003,Alm. Salg,1.600,5,Villa,150,2003,,Aktuel værdi
+Johannes Hansens Vej 199830 Tårs,Tårs,640.000,30-01-2003,Alm. Salg,4.102,6,Villa,156,1930,,Aktuel værdi
+Kirkestien 79830 Tårs,Tårs,432.000,24-01-2003,Alm. Salg,3.891,5,Villa,111,1942,,Aktuel værdi
+Berberisvej 99830 Tårs,Tårs,375.000,21-01-2003,Alm. Salg,3.826,4,Villa,98,1937,,Aktuel værdi
+Skovgårdsvej 509830 Tårs,Tårs,345.000,30-12-2002,Alm. Salg,2.240,6,Villa,154,1907,,Aktuel værdi
+Nylandsvej 129830 Tårs,Tårs,950.000,22-12-2002,Alm. Salg,5.828,6,Villa,163,1967,,Aktuel værdi
+Klosterbakken 59830 Tårs,Tårs,170.250,09-12-2002,Alm. Salg,1.064,5,Villa,160,2007,,Aktuel værdi
+Bollervej 69830 Tårs,Tårs,332.000,09-12-2002,Alm. Salg,4.426,3,Villa,75,1950,,Aktuel værdi
+Burskovvej 2119830 Tårs,Tårs,2.000.000,28-11-2002,Alm. Salg,-,6,Stuehus,166,1975,,
+Stenskrogvej 1039830 Tårs,Tårs,750.000,20-11-2002,Alm. Salg,-,7,Stuehus,257,1916,,
+Bredgade 1179830 Tårs,Tårs,450.000,06-11-2002,Alm. Salg,4.945,2,Villa,91,1892,,Aktuel værdi
+Klarupvej 2919830 Tårs,Tårs,298.278,31-10-2002,Alm. Salg,2.425,3,Villa,123,1920,,Aktuel værdi
+Tidemandsholmsvej 499830 Tårs,Tårs,131.362,28-10-2002,Alm. Salg,1.002,4,Stuehus,131,1900,,
+Tidemandsholmsvej 569830 Tårs,Tårs,169.140,28-10-2002,Alm. Salg,1.409,4,Stuehus,120,1977,,
+Sæby Landevej 3929830 Tårs,Tårs,430.000,15-10-2002,Alm. Salg,3.909,3,Villa,110,1986,,Aktuel værdi
+Bredgade 479830 Tårs,Tårs,1.520.000,27-09-2002,Alm. Salg,7.600,7,Servicevirksomhed,200,1913,,Aktuel værdi
+Korsvej 89830 Tårs,Tårs,350.000,24-09-2002,Alm. Salg,3.500,4,Villa,100,1935,,Aktuel værdi
+Nygade 239830 Tårs,Tårs,780.000,13-09-2002,Alm. Salg,7.027,5,Villa,111,1961,,Aktuel værdi
+Tykskovvej 749830 Tårs,Tårs,495.427,31-08-2002,Alm. Salg,4.027,4,Stuehus,123,1933,,
+Sæby Landevej 59830 Tårs,Tårs,240.000,30-08-2002,Fam. Salg,2.926,2,Villa,82,1867,,Aktuel værdi
+Sæbyvej 7359830 Tårs,Tårs,675.000,29-08-2002,Alm. Salg,2.947,4,Villa,229,1875,,Aktuel værdi
+Tykskovvej 79830 Tårs,Tårs,750.000,27-08-2002,Alm. Salg,6.818,5,Villa,110,1957,,Aktuel værdi
+Østerhedenvej 109830 Tårs,Tårs,90.000,22-08-2002,Alm. Salg,978,3,Villa,92,1877,,Aktuel værdi
+Bollervej 249830 Tårs,Tårs,540.000,15-08-2002,Alm. Salg,-,2,Villa,167,1966,,Aktuel værdi
+Stendalvej 2019830 Tårs,Tårs,862.373,22-07-2002,Alm. Salg,5.133,5,Villa,168,1880,,Aktuel værdi
+Bollerhedevej 309830 Tårs,Tårs,535.000,16-07-2002,Alm. Salg,3.364,4,Villa,159,1887,,Aktuel værdi
+Klosterbakken 39830 Tårs,Tårs,170.250,01-07-2002,Alm. Salg,1.158,4,Villa,147,2003,,Aktuel værdi
+Højmarksvej 469830 Tårs,Tårs,2.065.000,26-06-2002,Alm. Salg,14.440,4,Stuehus,143,2004,,
+Tårnvej 229830 Tårs,Tårs,760.000,05-06-2002,Alm. Salg,4.198,7,Villa,181,1969,,Aktuel værdi
+Vesterled 69830 Tårs,Tårs,595.000,03-06-2002,Alm. Salg,6.397,4,Villa,93,1952,,Aktuel værdi
+Postholdervej 169830 Tårs,Tårs,525.000,23-04-2002,Alm. Salg,-,3,Villa,116,1959,,Aktuel værdi
+Karmisholtvej 209830 Tårs,Tårs,709.884,19-04-2002,Alm. Salg,3.412,7,Stuehus,208,1975,,
+Johannes Hansens Vej 319830 Tårs,Tårs,689.264,18-04-2002,Alm. Salg,4.254,6,Villa,162,1949,,Aktuel værdi
+Stendalvej 1669830 Tårs,Tårs,290.000,11-04-2002,Fam. Salg,-,4,Villa,102,1930,,Aktuel værdi
+Nygade 219830 Tårs,Tårs,650.000,15-03-2002,Alm. Salg,4.924,4,Villa,132,1967,,Aktuel værdi
+Rævmosevej 39830 Tårs,Tårs,446.000,07-02-2002,Alm. Salg,3.539,3,Villa,126,1920,,Aktuel værdi
+Johannes Hansens Vej 6D9830 Tårs,Tårs,381.000,07-01-2002,Auktion,4.884,3,Rækkehus,78,1988,,Aktuel værdi
+Tykskovvej 10C9830 Tårs,Tårs,499.000,20-12-2001,Alm. Salg,6.930,3,Rækkehus,72,1985,,Aktuel værdi
+Graumvej 969830 Tårs,Tårs,10.100.000,23-11-2001,Alm. Salg,36.200,8,Stuehus,279,1978,,
+Sæbyvej 7909830 Tårs,Tårs,410.000,21-11-2001,Alm. Salg,1.759,7,Villa,233,2005,,Aktuel værdi
+Trangetvej 309830 Tårs,Tårs,460.000,20-11-2001,Alm. Salg,4.220,3,Villa,109,1956,,Aktuel værdi
+Morildvej 3209830 Tårs,Tårs,339.000,16-11-2001,Alm. Salg,3.228,4,Villa,105,1952,,Aktuel værdi
+"Bredgade 63A, ST9830 Tårs",Tårs,340.000,11-11-2001,Fam. Salg,4.197,2,Lejlighed,81,1920,,Aktuel værdi
+Tidemandsholmsvej 19830 Tårs,Tårs,495.000,09-11-2001,Alm. Salg,3.093,5,Villa,160,1917,,Aktuel værdi
+Tårs Møllegade 119830 Tårs,Tårs,400.000,09-11-2001,Alm. Salg,2.941,4,Villa,136,1962,,Aktuel værdi
+Sønder Houstrupvej 259830 Tårs,Tårs,680.000,02-11-2001,Fam. Salg,4.358,4,Stuehus,156,1897,,
+Bredgade 279830 Tårs,Tårs,875.000,01-11-2001,Alm. Salg,5.177,5,Villa,169,1946,,Aktuel værdi
+Karmisholtvej 619830 Tårs,Tårs,1.488.315,01-10-2001,Alm. Salg,6.442,7,Stuehus,231,1877,,
+Vesterled 49830 Tårs,Tårs,290.000,27-09-2001,Alm. Salg,-,4,Villa,127,1945,,Aktuel værdi
+Paxvej 69830 Tårs,Tårs,600.000,17-09-2001,Alm. Salg,4.580,5,Villa,131,1922,,Aktuel værdi
+Agdrupvej 320A9830 Tårs,Tårs,9.930.140,10-09-2001,Alm. Salg,37.191,11,Stuehus,267,1860,,
+Bollervej 209830 Tårs,Tårs,525.000,06-09-2001,Alm. Salg,4.906,3,Villa,107,1967,,Aktuel værdi
+Vrejlev Klostervej 379830 Tårs,Tårs,433.500,04-09-2001,Alm. Salg,2.929,6,Villa,148,1907,,Aktuel værdi
+Stenslundvej 609830 Tårs,Tårs,275.000,17-08-2001,Alm. Salg,1.470,2,Villa,187,1875,,Aktuel værdi
+Damly 169830 Tårs,Tårs,890.000,17-08-2001,Alm. Salg,6.402,5,Villa,139,1977,,Aktuel værdi
+Bollervej 39830 Tårs,Tårs,725.000,08-08-2001,Alm. Salg,6.196,3,Villa,117,1977,,Aktuel værdi
+Trangetvej 49830 Tårs,Tårs,190.000,30-07-2001,Auktion,2.567,3,Villa,74,1927,,Aktuel værdi
+Sæby Landevej 4079830 Tårs,Tårs,460.000,24-07-2001,Alm. Salg,4.220,4,Villa,109,1965,,Aktuel værdi
+Stenskrogvej 1609830 Tårs,Tårs,800.000,17-07-2001,Alm. Salg,4.705,5,Villa,170,1900,,Aktuel værdi
+Nylandsvej 109830 Tårs,Tårs,400.000,20-06-2001,Alm. Salg,3.846,4,Villa,104,1966,,Aktuel værdi
+Skråningen 89830 Tårs,Tårs,1.030.000,15-06-2001,Alm. Salg,4.439,5,Villa,232,1967,,Aktuel værdi
+Rævmosevej 79830 Tårs,Tårs,545.000,18-05-2001,Alm. Salg,4.224,4,Villa,129,1975,,Aktuel værdi
+Bollervej 19A9830 Tårs,Tårs,380.000,09-05-2001,Alm. Salg,4.691,3,Villa,81,1962,,Aktuel værdi
+Rolighed 319830 Tårs,Tårs,150.000,26-04-2001,Alm. Salg,1.119,3,Villa,134,1940,,Aktuel værdi
+Sæbyvej 6759830 Tårs,Tårs,430.000,05-04-2001,Alm. Salg,3.706,3,Villa,116,1930,,Aktuel værdi
+Vrejlev Klostervej 3649830 Tårs,Tårs,125.000,31-03-2001,Alm. Salg,968,4,Villa,129,1870,,Aktuel værdi
+Bredgade 1339830 Tårs,Tårs,226.000,26-03-2001,Alm. Salg,2.722,3,Villa,83,1912,,Aktuel værdi
+Stendalvej 5259830 Tårs,Tårs,973.000,23-03-2001,Alm. Salg,-,6,Stuehus,257,1935,,
+Sæby Landevej 3949830 Tårs,Tårs,362.500,22-03-2001,Alm. Salg,2.626,4,Villa,138,1930,,Aktuel værdi
+Græsdalvej 1609830 Tårs,Tårs,695.000,21-03-2001,Alm. Salg,5.346,4,Stuehus,130,1905,,
+Søparken 329830 Tårs,Tårs,200.000,18-03-2001,Alm. Salg,956,6,Villa,209,2002,,Aktuel værdi
+Søparken 369830 Tårs,Tårs,355.500,18-03-2001,Alm. Salg,1.608,6,Villa,221,2002,,Aktuel værdi
+Søparken 349830 Tårs,Tårs,295.000,18-03-2001,Alm. Salg,1.528,5,Villa,193,2002,,Aktuel værdi
+Trangetvej 3559830 Tårs,Tårs,1.100.000,09-03-2001,Alm. Salg,-,6,Stuehus,192,1877,,
+Barholtvej 709830 Tårs,Tårs,518.443,22-02-2001,Andet,4.320,3,Stuehus,120,1900,,
+Bredgade 1189830 Tårs,Tårs,420.000,18-02-2001,Alm. Salg,4.000,3,Villa,105,1937,,Aktuel værdi
+Terpetvej 3019830 Tårs,Tårs,988.131,09-02-2001,Alm. Salg,4.353,8,Villa,227,1915,,Aktuel værdi
+Græsdalvej 169830 Tårs,Tårs,807.058,08-02-2001,Alm. Salg,5.683,5,Villa,142,1934,,Aktuel værdi
+Morildvej 2599830 Tårs,Tårs,150.000,06-02-2001,Alm. Salg,553,8,Stuehus,271,1987,,
+Magsvej 69830 Tårs,Tårs,365.000,27-01-2001,Alm. Salg,-,4,Villa,95,1902,,Aktuel værdi
+Nythåbsvej 89830 Tårs,Tårs,495.000,26-01-2001,Alm. Salg,2.964,3,Villa,167,1902,,Aktuel værdi
+Bollervej 289830 Tårs,Tårs,600.000,18-01-2001,Alm. Salg,5.217,4,Villa,115,1972,,Aktuel værdi
+Bollervej 1909830 Tårs,Tårs,8.620.000,12-01-2001,Alm. Salg,36.837,5,Stuehus,234,1908,,
+Sørupvej 3119830 Tårs,Tårs,7.750.000,02-01-2001,Alm. Salg,32.024,5,Stuehus,242,1881,,
+Morildvej 3429830 Tårs,Tårs,290.000,09-12-2000,Alm. Salg,2.101,5,Villa,138,1917,,Aktuel værdi
+Damhusvej 689830 Tårs,Tårs,750.000,27-11-2000,Alm. Salg,8.823,3,Villa,85,2001,,Aktuel værdi
+Bredgade 81B9830 Tårs,Tårs,725.000,13-11-2000,Alm. Salg,6.712,3,Lejlighed,108,1960,,Aktuel værdi
+Grønnegade 19830 Tårs,Tårs,260.000,10-11-2000,Alm. Salg,3.132,4,Villa,83,1923,,Aktuel værdi
+Æblely 129830 Tårs,Tårs,735.000,07-11-2000,Alm. Salg,5.139,4,Villa,143,1975,,Aktuel værdi
+Æblely 89830 Tårs,Tårs,715.000,03-11-2000,Alm. Salg,5.813,4,Villa,123,1977,,Aktuel værdi
+Trangetvej 5919830 Tårs,Tårs,903.600,19-10-2000,Alm. Salg,4.540,6,Stuehus,199,1923,,
+Nordbakken 49830 Tårs,Tårs,430.000,10-10-2000,Alm. Salg,4.257,3,Villa,101,1965,,Aktuel værdi
+Søruplundvej 259830 Tårs,Tårs,900.000,30-09-2000,Alm. Salg,5.202,5,Stuehus,173,1915,,
+Damhusvej 1149830 Tårs,Tårs,160.000,11-09-2000,Alm. Salg,1.720,3,Rækkehus,93,2000,,Aktuel værdi
+Bredgade 1269830 Tårs,Tårs,470.000,11-09-2000,Alm. Salg,4.272,3,Villa,110,1927,,Aktuel værdi
+Koldbromøllevej 409830 Tårs,Tårs,630.000,05-09-2000,Alm. Salg,4.375,5,Villa,144,1986,,Aktuel værdi
+Bollervej 309830 Tårs,Tårs,680.000,05-09-2000,Alm. Salg,4.250,5,Villa,160,1974,,Aktuel værdi
+Sæbyvej 6469830 Tårs,Tårs,828.000,29-08-2000,Alm. Salg,5.750,5,Villa,144,1950,,Aktuel værdi
+Bollervej 159830 Tårs,Tårs,463.000,29-08-2000,Alm. Salg,6.092,4,Villa,76,1935,,Aktuel værdi
+Stendalvej 2109830 Tårs,Tårs,780.000,25-08-2000,Alm. Salg,5.098,5,Villa,153,1877,,Aktuel værdi
+Trangetvej 5159830 Tårs,Tårs,595.000,01-08-2000,Alm. Salg,6.918,4,Villa,86,1905,,Aktuel værdi
+Terpetvej 5859830 Tårs,Tårs,648.687,10-07-2000,Alm. Salg,-,8,Villa,278,1907,,Aktuel værdi
+Vestbakken 59830 Tårs,Tårs,815.000,03-07-2000,Alm. Salg,6.906,4,Villa,118,1986,,Aktuel værdi
+Johannes Hansens Vej 6H9830 Tårs,Tårs,565.000,28-04-2000,Alm. Salg,7.243,3,Rækkehus,78,1988,,Aktuel værdi
+Rævmosevej 299830 Tårs,Tårs,207.865,06-04-2000,Alm. Salg,1.960,2,Villa,106,1920,,Aktuel værdi
+Vinkelvej 39830 Tårs,Tårs,240.000,27-03-2000,Alm. Salg,3.157,2,Villa,76,1899,,Aktuel værdi
+Askebjergvej 1309830 Tårs,Tårs,640.000,20-03-2000,Alm. Salg,2.612,8,Villa,245,1900,,Aktuel værdi
+Agdrupvej 2699830 Tårs,Tårs,585.000,18-02-2000,Alm. Salg,5.416,4,Villa,108,1910,,Aktuel værdi
+Nyhusvej 59830 Tårs,Tårs,680.000,08-02-2000,Alm. Salg,-,6,Villa,183,1864,,Aktuel værdi
+Damly 79830 Tårs,Tårs,840.000,25-01-2000,Alm. Salg,5.600,5,Villa,150,1976,,Aktuel værdi
+Stenskrogvej 1109830 Tårs,Tårs,550.000,12-01-2000,Alm. Salg,3.459,4,Stuehus,159,1919,,
+Trangetvej 1269830 Tårs,Tårs,300.000,12-01-2000,Fam. Salg,1.898,5,Villa,158,2007,,Aktuel værdi
+Præstebakken 239830 Tårs,Tårs,625.000,11-01-2000,Alm. Salg,5.482,3,Villa,114,1967,,Aktuel værdi
+Bollervej 109830 Tårs,Tårs,335.000,20-12-1999,Alm. Salg,-,5,Villa,206,1933,,Aktuel værdi
+Nørgårdsvej 89830 Tårs,Tårs,463.156,19-12-1999,Alm. Salg,3.482,5,Villa,133,1888,,Aktuel værdi
+Damhusvej 1089830 Tårs,Tårs,150.000,08-12-1999,Alm. Salg,2.000,2,Villa,75,2000,,Aktuel værdi
+Brobakvej 99830 Tårs,Tårs,775.000,30-11-1999,Alm. Salg,4.057,7,Villa,191,1912,,Aktuel værdi
+Morildvej 1559830 Tårs,Tårs,343.000,26-11-1999,Alm. Salg,3.536,3,Villa,97,1875,,Aktuel værdi
+Bedelundvej 399830 Tårs,Tårs,645.000,26-11-1999,Alm. Salg,5.917,3,Villa,109,1956,,Aktuel værdi
+Sæby Landevej 4199830 Tårs,Tårs,375.000,15-11-1999,Alm. Salg,3.378,2,Villa,111,1945,,Aktuel værdi
+Rattisoddevej 109830 Tårs,Tårs,800.000,10-11-1999,Alm. Salg,3.773,6,Villa,212,1920,,Aktuel værdi
+Trangetvej 2709830 Tårs,Tårs,250.000,08-11-1999,Alm. Salg,2.659,2,Villa,94,1927,,Aktuel værdi
+Stenslundvej 399830 Tårs,Tårs,180.000,15-10-1999,Alm. Salg,1.607,4,Villa,112,1900,,Aktuel værdi
+Trangetvej 2669830 Tårs,Tårs,95.000,23-09-1999,Alm. Salg,1.357,4,Villa,70,1934,,Aktuel værdi
+Damly 269830 Tårs,Tårs,770.000,19-09-1999,Alm. Salg,5.661,4,Villa,136,1977,,Aktuel værdi
+Magnolievej 59830 Tårs,Tårs,540.000,15-09-1999,Fam. Salg,5.094,3,Villa,106,1981,,Aktuel værdi
+Damhusvej 89830 Tårs,Tårs,625.000,03-09-1999,Alm. Salg,-,6,Villa,163,1965,,Aktuel værdi
+Morildvej 1669830 Tårs,Tårs,12.825.000,03-09-1999,Alm. Salg,70.081,7,Stuehus,183,1900,,
+Stendalvej 6809830 Tårs,Tårs,9.030.000,25-08-1999,Alm. Salg,44.048,7,Stuehus,205,1910,,
+Korsvej 79830 Tårs,Tårs,650.000,25-08-1999,Alm. Salg,4.304,4,Villa,151,1927,,Aktuel værdi
+Tegldal 79830 Tårs,Tårs,1.165.000,23-08-1999,Alm. Salg,-,6,Stuehus,231,1900,,
+Klosterbakken 159830 Tårs,Tårs,96.150,13-08-1999,Alm. Salg,586,5,Villa,164,2001,,Aktuel værdi
+Klosterbakken 139830 Tårs,Tårs,96.150,26-07-1999,Alm. Salg,686,4,Villa,140,2002,,Aktuel værdi
+Damhusvej 1169830 Tårs,Tårs,150.000,16-07-1999,Alm. Salg,1.415,3,Villa,106,2000,,Aktuel værdi
+Bredgade 1239830 Tårs,Tårs,741.800,07-07-1999,Alm. Salg,2.991,5,Villa,248,1975,,Aktuel værdi
+Gilsigvej 1359830 Tårs,Tårs,471.753,25-06-1999,Fam. Salg,2.791,3,Villa,169,1936,,Aktuel værdi
+Søholmvej 29830 Tårs,Tårs,905.000,11-06-1999,Alm. Salg,5.084,6,Villa,178,1948,,Aktuel værdi
+Brogårdsvej 89830 Tårs,Tårs,1.160.000,07-06-1999,Alm. Salg,5.888,5,Stuehus,197,1929,,
+Bøgelundsvej 309830 Tårs,Tårs,750.000,28-05-1999,Alm. Salg,4.411,4,Stuehus,170,2012,,
+Grønnegade 59830 Tårs,Tårs,725.000,18-05-1999,Alm. Salg,4.677,5,Villa,155,1925,,Aktuel værdi
+Lykkenshedevej 409830 Tårs,Tårs,625.000,07-05-1999,Fam. Salg,-,5,Stuehus,241,1912,,
+Stensskovvej 519830 Tårs,Tårs,748.000,01-05-1999,Alm. Salg,4.021,7,Villa,186,1927,,Aktuel værdi
+Søbakken 29830 Tårs,Tårs,675.000,26-04-1999,Alm. Salg,4.821,4,Villa,140,1973,,Aktuel værdi
+Tårs Møllegade 199830 Tårs,Tårs,720.000,21-04-1999,Alm. Salg,5.000,5,Villa,144,1962,,Aktuel værdi
+Sæbyvej 7289830 Tårs,Tårs,900.000,16-04-1999,Alm. Salg,6.164,4,Stuehus,146,1913,,
+Lindely 39830 Tårs,Tårs,515.000,16-04-1999,Alm. Salg,5.722,3,Villa,90,1951,,Aktuel værdi
+Trangetvej 859830 Tårs,Tårs,228.789,31-03-1999,Alm. Salg,2.599,2,Stuehus,88,1964,,
+Damhusvej 1029830 Tårs,Tårs,150.000,29-03-1999,Alm. Salg,1.973,3,Rækkehus,76,2002,,Aktuel værdi
+Tårs Møllegade 169830 Tårs,Tårs,510.000,27-03-1999,Alm. Salg,4.434,5,Villa,115,1962,,Aktuel værdi
+Nøddely 129830 Tårs,Tårs,699.910,26-03-1999,Alm. Salg,5.599,4,Villa,125,1979,,Aktuel værdi
+Morildvej 3279830 Tårs,Tårs,520.350,18-03-1999,Fam. Salg,1.948,9,Villa,267,1925,,Aktuel værdi
+Tårs Møllegade 129830 Tårs,Tårs,559.364,17-03-1999,Alm. Salg,3.518,6,Villa,159,1890,,Aktuel værdi
+Damhusvej 1049830 Tårs,Tårs,150.000,16-03-1999,Alm. Salg,1.973,2,Rækkehus,76,2000,,Aktuel værdi
+Gammel Damhusvej 69830 Tårs,Tårs,258.000,08-03-1999,Alm. Salg,-,2,Villa,123,1900,,Aktuel værdi
+Sønder Klarupvej 109830 Tårs,Tårs,510.000,26-02-1999,Alm. Salg,2.405,5,Villa,212,1990,,Aktuel værdi
+Bollervej 19830 Tårs,Tårs,319.000,10-02-1999,Alm. Salg,3.505,3,Villa,91,1925,,Aktuel værdi
+Sæsingvej 169830 Tårs,Tårs,610.000,04-02-1999,Alm. Salg,4.452,4,Villa,137,1998,,Aktuel værdi
+Agdrupvej 1369830 Tårs,Tårs,900.000,26-01-1999,Alm. Salg,7.377,4,Stuehus,122,1850,,
+Lyngvej 49830 Tårs,Tårs,610.251,11-01-1999,Alm. Salg,4.554,4,Villa,134,1971,,Aktuel værdi
+Damhusvej 239830 Tårs,Tårs,1.020.000,22-12-1998,Alm. Salg,6.496,5,Villa,157,1978,,Aktuel værdi
+Damhusvej 769830 Tårs,Tårs,150.000,21-12-1998,Alm. Salg,2.307,2,Rækkehus,65,2000,,Aktuel værdi
+Hjabelundvej 999830 Tårs,Tårs,618.000,18-11-1998,Alm. Salg,4.175,6,Stuehus,148,1928,,
+Lille Dalvej 159830 Tårs,Tårs,246.500,28-10-1998,Fam. Salg,1.162,8,Villa,212,2000,,Aktuel værdi
+Bredgade 979830 Tårs,Tårs,257.000,23-10-1998,Alm. Salg,-,4,Villa,130,1877,,Aktuel værdi
+Bollervej 179830 Tårs,Tårs,400.000,13-10-1998,Alm. Salg,4.395,3,Villa,91,1952,,Aktuel værdi
+Rugholmvej 369830 Tårs,Tårs,4.100.000,15-09-1998,Alm. Salg,19.069,4,Stuehus,215,1900,,
+Trangetvej 2789830 Tårs,Tårs,253.791,14-09-1998,Alm. Salg,3.253,2,Villa,78,1913,,Aktuel værdi
+Bredgade 1709830 Tårs,Tårs,535.000,08-09-1998,Alm. Salg,2.609,6,Stuehus,205,1887,,
+Skæggesholtvej 669830 Tårs,Tårs,478.000,05-09-1998,Alm. Salg,2.476,6,Villa,193,1890,,Aktuel værdi
+Svenstrupvej 405B9830 Tårs,Tårs,460.000,27-08-1998,Alm. Salg,2.358,5,Villa,195,1896,,Aktuel værdi
+Terpetvej 6599830 Tårs,Tårs,630.000,06-08-1998,Fam. Salg,3.818,5,Stuehus,165,1932,,
+Svenstrupvej 3269830 Tårs,Tårs,617.000,31-07-1998,Alm. Salg,4.226,4,Villa,146,1942,,Aktuel værdi
+Johannes Hansens Vej 99830 Tårs,Tårs,372.499,24-07-1998,Alm. Salg,3.840,4,Villa,97,1935,,Aktuel værdi
+Gammel Borupvej 1509830 Tårs,Tårs,485.000,24-07-1998,Alm. Salg,1.947,9,Villa,249,1917,,Aktuel værdi
+Trangetvej 3219830 Tårs,Tårs,330.000,20-07-1998,Alm. Salg,2.640,3,Villa,125,1927,,Aktuel værdi
+Sæsingvej 1959830 Tårs,Tårs,290.000,16-07-1998,Alm. Salg,1.705,5,Villa,170,1900,,Aktuel værdi
+Hornbjergvej 399830 Tårs,Tårs,281.000,14-07-1998,Alm. Salg,3.697,2,Villa,76,1925,,Aktuel værdi
+Magsvej 39830 Tårs,Tårs,489.000,03-07-1998,Alm. Salg,5.315,3,Villa,92,1900,,Aktuel værdi
+Stendalvej 2559830 Tårs,Tårs,700.000,17-06-1998,Alm. Salg,5.384,4,Stuehus,130,1927,,
+Trangetvej 1619830 Tårs,Tårs,600.000,10-06-1998,Alm. Salg,-,7,Stuehus,160,1922,,
+Gammel Ugiltvej 259830 Tårs,Tårs,1.083.885,19-05-1998,Alm. Salg,4.994,8,Villa,217,1965,,Aktuel værdi
+Højvej 159830 Tårs,Tårs,727.000,19-05-1998,Alm. Salg,4.061,5,Villa,179,1969,,Aktuel værdi
+Trangetvej 3469830 Tårs,Tårs,1.225.000,18-05-1998,Alm. Salg,4.939,8,Villa,248,1982,,Aktuel værdi
+Vesterskovvej 59830 Tårs,Tårs,479.000,13-05-1998,Alm. Salg,2.885,5,Stuehus,166,1903,,
+Guldregnvej 119830 Tårs,Tårs,655.000,04-05-1998,Alm. Salg,5.038,5,Villa,130,1973,,Aktuel værdi
+Stenskrogvej 779830 Tårs,Tårs,347.000,01-05-1998,Alm. Salg,-,6,Villa,123,1920,,Aktuel værdi
+Sæsingvej 279830 Tårs,Tårs,250.000,27-04-1998,Alm. Salg,2.252,4,Villa,111,1969,,Aktuel værdi
+Præstebakken 229830 Tårs,Tårs,805.000,24-04-1998,Alm. Salg,3.709,7,Villa,217,1964,,Aktuel værdi
+Damhusvej 109830 Tårs,Tårs,631.000,15-04-1998,Alm. Salg,6.009,2,Villa,105,1961,,Aktuel værdi
+Stendalvej 4919830 Tårs,Tårs,269.232,16-03-1998,Alm. Salg,-,5,Stuehus,204,1944,,
+Vesterled 39830 Tårs,Tårs,100.000,13-03-1998,Alm. Salg,-,3,Villa,92,1940,,Aktuel værdi
+Sønderlystvej 269830 Tårs,Tårs,750.000,07-03-1998,Alm. Salg,3.073,9,Villa,244,1940,,Aktuel værdi
+Højvej 149830 Tårs,Tårs,10.000,04-03-1998,Alm. Salg,62,4,Villa,160,1969,,Aktuel værdi
+Trangetvej 4559830 Tårs,Tårs,835.000,27-01-1998,Alm. Salg,4.798,6,Villa,174,1935,,Aktuel værdi
+Sønder Graumvej 349830 Tårs,Tårs,522.581,20-01-1998,Fam. Salg,2.871,6,Villa,182,1892,,Aktuel værdi
+Trangetvej 1069830 Tårs,Tårs,165.000,16-12-1997,Alm. Salg,767,4,Villa,215,1999,,Aktuel værdi
+Nøddely 169830 Tårs,Tårs,761.526,08-12-1997,Alm. Salg,6.621,4,Villa,115,1980,,Aktuel værdi
+Sæsingvej 1059830 Tårs,Tårs,316.000,07-11-1997,Alm. Salg,2.872,3,Villa,110,1900,,Aktuel værdi
+Sørupbakkevej 209830 Tårs,Tårs,735.000,24-10-1997,Alm. Salg,-,5,Stuehus,201,1900,,
+Dalsmøllevej 199830 Tårs,Tårs,1.500.000,10-10-1997,Alm. Salg,9.375,6,Stuehus,160,1936,,
+Bålhøj 39830 Tårs,Tårs,670.000,06-10-1997,Alm. Salg,3.895,4,Villa,172,1966,,Aktuel værdi
+Bredgade 269830 Tårs,Tårs,390.000,28-09-1997,Alm. Salg,2.765,5,Villa,141,1945,,Aktuel værdi
+Korsvej 129830 Tårs,Tårs,265.000,25-09-1997,Alm. Salg,2.345,4,Villa,113,1920,,Aktuel værdi
+Trangetvej 3249830 Tårs,Tårs,575.000,10-09-1997,Alm. Salg,3.709,5,Villa,155,1900,,Aktuel værdi
+Paxvej 3E9830 Tårs,Tårs,525.080,11-08-1997,Alm. Salg,6.646,3,Rækkehus,79,1986,,Aktuel værdi
+Tykskovvej 99830 Tårs,Tårs,525.000,05-08-1997,Alm. Salg,5.645,5,Villa,93,1959,,Aktuel værdi
+Tykskovvej 129830 Tårs,Tårs,185.000,22-07-1997,Alm. Salg,1.831,3,Villa,101,1997,,Aktuel værdi
+Sæby Landevej 4309830 Tårs,Tårs,375.000,11-07-1997,Alm. Salg,2.343,4,Villa,160,1954,,Aktuel værdi
+Nygade 79830 Tårs,Tårs,495.000,17-06-1997,Alm. Salg,-,8,Villa,231,1924,,Aktuel værdi
+Rønly 59830 Tårs,Tårs,570.000,02-06-1997,Alm. Salg,4.913,4,Villa,116,1979,,Aktuel værdi
+Græsdalvej 1359830 Tårs,Tårs,412.500,30-05-1997,Fam. Salg,4.796,3,Stuehus,86,1930,,
+Tårnvej 209830 Tårs,Tårs,610.000,14-05-1997,Alm. Salg,4.621,4,Villa,132,1972,,Aktuel værdi
+Holtetvej 29830 Tårs,Tårs,320.000,09-05-1997,Alm. Salg,-,8,Villa,250,1977,,Aktuel værdi
+Sæsingvej 109830 Tårs,Tårs,360.000,24-04-1997,Alm. Salg,2.384,4,Villa,151,1925,,Aktuel værdi
+Sæbyvej 6169830 Tårs,Tårs,260.000,22-04-1997,Alm. Salg,2.888,5,Villa,90,1890,,Aktuel værdi
+Præstebakken 59830 Tårs,Tårs,644.000,17-04-1997,Alm. Salg,4.472,5,Villa,144,1967,,Aktuel værdi
+Melbækvej 2039830 Tårs,Tårs,300.000,15-04-1997,Alm. Salg,-,6,Villa,191,1935,,Aktuel værdi
+Nylandsvej 49830 Tårs,Tårs,500.000,25-03-1997,Alm. Salg,3.846,4,Villa,130,1966,,Aktuel værdi
+Stenslundvej 1409830 Tårs,Tårs,405.000,27-02-1997,Alm. Salg,-,7,Villa,209,1936,,Aktuel værdi
+Sæby Landevej 2409830 Tårs,Tårs,100.000,24-02-1997,Alm. Salg,892,3,Villa,112,1897,,Aktuel værdi
+Bedelundvej 769830 Tårs,Tårs,1.450.000,12-02-1997,Alm. Salg,7.967,5,Stuehus,182,1890,,
+Søholmvej 359830 Tårs,Tårs,345.000,05-02-1997,Alm. Salg,3.593,3,Villa,96,1947,,Aktuel værdi
+Bollervej 229830 Tårs,Tårs,143.000,29-01-1997,Alm. Salg,1.606,3,Villa,89,1935,,Aktuel værdi
+Morildvej 3329830 Tårs,Tårs,178.000,27-01-1997,Alm. Salg,1.289,3,Villa,138,1927,,Aktuel værdi
+Sønderlystvej 109830 Tårs,Tårs,1.200.000,18-12-1996,Alm. Salg,3.560,5,Stuehus,337,1900,,
+Lille Barholtvej 109830 Tårs,Tårs,984.851,29-11-1996,Alm. Salg,3.647,7,Villa,270,1988,,Aktuel værdi
+Burskovvej 2759830 Tårs,Tårs,1.241.000,22-11-1996,Alm. Salg,-,6,Stuehus,146,1870,,
+Bålhøj 29830 Tårs,Tårs,670.000,18-11-1996,Alm. Salg,-,5,Villa,166,1969,,Aktuel værdi
+Burskovvej 1609830 Tårs,Tårs,600.000,04-11-1996,Alm. Salg,-,5,Villa,162,1965,,Aktuel værdi
+Lykkenshedevej 169830 Tårs,Tårs,118.539,18-10-1996,Alm. Salg,898,5,Stuehus,132,1943,,
+Søholmvej 419830 Tårs,Tårs,535.000,28-09-1996,Alm. Salg,3.165,6,Villa,169,1977,,Aktuel værdi
+Vesterled 109830 Tårs,Tårs,420.000,13-09-1996,Alm. Salg,4.941,2,Villa,85,1960,,Aktuel værdi
+Nørgårdsvej 269830 Tårs,Tårs,665.889,12-09-1996,Alm. Salg,4.756,4,Stuehus,140,1925,,
+Søbakken 59830 Tårs,Tårs,810.200,02-09-1996,Alm. Salg,3.522,5,Villa,230,1973,,Aktuel værdi
+Lindely 29830 Tårs,Tårs,550.000,27-08-1996,Alm. Salg,3.216,7,Villa,171,1977,,Aktuel værdi
+Bredgade 1099830 Tårs,Tårs,250.000,21-08-1996,Alm. Salg,2.100,4,Villa,119,1911,,Aktuel værdi
+Skråningen 49830 Tårs,Tårs,341.000,13-08-1996,Alm. Salg,3.552,3,Villa,96,1967,,Aktuel værdi
+Trangetvej 2359830 Tårs,Tårs,330.000,12-08-1996,Alm. Salg,1.571,7,Stuehus,210,1900,,
+Mosebakkevej 59830 Tårs,Tårs,595.000,07-08-1996,Alm. Salg,3.863,6,Villa,154,1964,,Aktuel værdi
+Bredgade 1449830 Tårs,Tårs,455.000,01-08-1996,Alm. Salg,-,4,Villa,129,1976,,Aktuel værdi
+Æblely 109830 Tårs,Tårs,850.000,31-07-1996,Alm. Salg,-,6,Villa,213,1977,,Aktuel værdi
+Tangetvej 3109830 Tårs,Tårs,650.000,30-07-1996,Alm. Salg,-,7,Stuehus,160,1928,,
+Sørupvej 1419830 Tårs,Tårs,6.000,30-07-1996,Alm. Salg,25,10,Stuehus,233,1902,,
+Sæby Landevej 4249830 Tårs,Tårs,295.000,29-07-1996,Alm. Salg,2.020,7,Villa,146,1953,,Aktuel værdi
+Kirsebærly 29830 Tårs,Tårs,325.000,25-07-1996,Alm. Salg,2.272,5,Villa,143,1976,,Aktuel værdi
+Trangetvej 229830 Tårs,Tårs,253.916,24-07-1996,Alm. Salg,3.431,3,Villa,74,1954,,Aktuel værdi
+Horsevadvej 2009830 Tårs,Tårs,420.000,01-07-1996,Fam. Salg,-,6,Stuehus,118,1900,,
+Tidemandsholmsvej 1419830 Tårs,Tårs,1.470.000,17-06-1996,Alm. Salg,9.735,4,Stuehus,151,1912,,
+Tårnvej 129830 Tårs,Tårs,760.000,17-06-1996,Alm. Salg,4.606,5,Villa,165,1969,,Aktuel værdi
+Sørupvej 99830 Tårs,Tårs,523.075,29-05-1996,Alm. Salg,2.179,8,Villa,240,1915,,Aktuel værdi
+Melbækvej 2719830 Tårs,Tårs,755.000,15-05-1996,Alm. Salg,5.279,4,Stuehus,143,1946,,
+Egely 109830 Tårs,Tårs,675.000,21-04-1996,Alm. Salg,-,4,Villa,113,1986,,Aktuel værdi
+Sæby Landevej 469830 Tårs,Tårs,640.000,29-03-1996,Alm. Salg,5.470,4,Stuehus,117,1935,,
+Sæby Landevej 4859830 Tårs,Tårs,366.239,29-03-1996,Alm. Salg,4.308,2,Stuehus,85,1917,,
+Tykskovvej 10A9830 Tårs,Tårs,399.904,26-03-1996,Alm. Salg,5.554,3,Rækkehus,72,1985,,Aktuel værdi
+Egely 99830 Tårs,Tårs,717.000,21-03-1996,Alm. Salg,3.961,6,Villa,181,1980,,Aktuel værdi
+Egely 69830 Tårs,Tårs,650.000,17-03-1996,Alm. Salg,4.391,5,Villa,148,1980,,Aktuel værdi
+Æblely 69830 Tårs,Tårs,540.000,14-03-1996,Alm. Salg,5.046,4,Villa,107,1978,,Aktuel værdi
+Bollervej 49830 Tårs,Tårs,445.000,16-02-1996,Alm. Salg,6.095,3,Villa,73,1945,,Aktuel værdi
+Sæbyvej 7279830 Tårs,Tårs,225.000,08-01-1996,Alm. Salg,1.256,4,Villa,179,1919,,Aktuel værdi
+Nøddely 139830 Tårs,Tårs,695.000,22-11-1995,Alm. Salg,5.148,4,Villa,135,1980,,Aktuel værdi
+Rævmosevej 359830 Tårs,Tårs,3.263.500,05-09-1995,Alm. Salg,15.039,4,Stuehus,217,1953,,
+Lille Rugholmvej 89830 Tårs,Tårs,1.748.000,30-08-1995,Andet,6.723,8,Stuehus,260,1980,,
+Græsdalvej 899830 Tårs,Tårs,1.196.000,30-08-1995,Andet,9.492,3,Villa,126,1880,,Aktuel værdi
+Bollervej 119830 Tårs,Tårs,350.000,21-08-1995,Fam. Salg,3.684,3,Villa,95,1966,,Aktuel værdi
+Nygade 299830 Tårs,Tårs,655.000,17-08-1995,Alm. Salg,4.366,5,Villa,150,1974,,Aktuel værdi
+Bøjholmvej 59830 Tårs,Tårs,1.862.500,15-07-1995,Fam. Salg,15.783,6,Villa,118,1917,,Aktuel værdi
+Stenskrogvej 1519830 Tårs,Tårs,535.000,07-07-1995,Alm. Salg,1.687,10,Stuehus,317,1870,,
+Sæbyvej 6319830 Tårs,Tårs,435.500,06-07-1995,Alm. Salg,1.728,10,Stuehus,252,1910,,
+Tykskovvej 149830 Tårs,Tårs,505.000,21-06-1995,Alm. Salg,2.821,8,Villa,179,1956,,Aktuel værdi
+Trangetvej 2259830 Tårs,Tårs,822.000,23-05-1995,Alm. Salg,2.758,8,Stuehus,298,1930,,
+Agdrupvej 1199830 Tårs,Tårs,230.000,17-05-1995,Fam. Salg,1.229,7,Stuehus,187,1863,,
+Vrejlev Klostervej 1109830 Tårs,Tårs,175.000,01-05-1995,Alm. Salg,-,5,Villa,187,1931,,Aktuel værdi
+Stendalvej 6859830 Tårs,Tårs,175.000,26-04-1995,Fam. Salg,1.377,3,Villa,127,1942,,Aktuel værdi
+Kirsebærly 69830 Tårs,Tårs,680.000,21-04-1995,Alm. Salg,4.755,4,Villa,143,1978,,Aktuel værdi
+Sønder Romvej 759830 Tårs,Tårs,450.000,19-04-1995,Alm. Salg,-,4,Stuehus,180,1905,,
+Nøddely 49830 Tårs,Tårs,681.000,18-04-1995,Alm. Salg,5.362,4,Villa,127,1989,,Aktuel værdi
+Trangetvej 559830 Tårs,Tårs,650.000,18-04-1995,Alm. Salg,-,7,Stuehus,209,1960,,
+Tidemandsholmsvej 99830 Tårs,Tårs,340.500,29-03-1995,Alm. Salg,2.348,5,Villa,145,1964,,Aktuel værdi
+Løvbrøndvej 51B9830 Tårs,Tårs,292.400,28-03-1995,Alm. Salg,4.177,3,Villa,70,1920,,Aktuel værdi
+Dalsmøllevej 19830 Tårs,Tårs,90.000,27-03-1995,Alm. Salg,-,6,Stuehus,208,1967,,
+"Bredgade 87, 19830 Tårs",Tårs,332.000,21-03-1995,Alm. Salg,2.198,4,Lejlighed,151,1908,,Aktuel værdi
+Grønnegade 39830 Tårs,Tårs,340.000,07-03-1995,Alm. Salg,2.833,4,Villa,120,1953,,Aktuel værdi
+Bredgade 499830 Tårs,Tårs,370.000,06-03-1995,Alm. Salg,-,4,Villa,103,1924,,Aktuel værdi
+Bredgade 609830 Tårs,Tårs,295.000,06-03-1995,Alm. Salg,1.544,7,Villa,191,1920,,Aktuel værdi
+Tykskovvej 669830 Tårs,Tårs,370.000,08-12-1994,Alm. Salg,2.868,4,Villa,129,1959,,Aktuel værdi
+Søholmvej 99830 Tårs,Tårs,390.000,18-11-1994,Alm. Salg,3.900,4,Villa,100,1962,,Aktuel værdi
+Bredgade 19830 Tårs,Tårs,173.698,17-11-1994,Alm. Salg,-,9,Villa,262,1900,,Aktuel værdi
+Bredgade 999830 Tårs,Tårs,430.000,17-11-1994,Alm. Salg,2.756,3,Villa,156,1897,,Aktuel værdi
+Syrenvej 79830 Tårs,Tårs,382.000,01-11-1994,Alm. Salg,-,4,Villa,111,1971,,Aktuel værdi
+Trangetvej 6249830 Tårs,Tårs,425.000,26-10-1994,Alm. Salg,2.575,5,Villa,165,1976,,Aktuel værdi
+Klarupvej 2279830 Tårs,Tårs,335.000,08-10-1994,Alm. Salg,3.489,3,Villa,96,1952,,Aktuel værdi
+Risdalvej 59830 Tårs,Tårs,350.000,04-10-1994,Alm. Salg,-,4,Villa,140,1965,,Aktuel værdi
+Nygade 169830 Tårs,Tårs,396.000,04-10-1994,Alm. Salg,3.771,4,Villa,105,1963,,Aktuel værdi
+Rolighed 109830 Tårs,Tårs,265.000,20-09-1994,Alm. Salg,-,5,Villa,113,1902,,Aktuel værdi
+Vesterled 89830 Tårs,Tårs,550.000,15-08-1994,Alm. Salg,2.682,6,Villa,205,1954,,Aktuel værdi
+"Bredgade 70, 19830 Tårs",Tårs,580.091,01-07-1994,Alm. Salg,7.533,3,Anden beboelse,77,1897,,Aktuel værdi
+Terpetvej 4009830 Tårs,Tårs,402.720,21-05-1994,Alm. Salg,1.537,6,Villa,262,1915,,Aktuel værdi
+Bredgade 29830 Tårs,Tårs,210.000,07-05-1994,Alm. Salg,1.093,5,Villa,192,2003,,Aktuel værdi
+Broensvej 699830 Tårs,Tårs,495.000,20-04-1994,Alm. Salg,3.214,4,Stuehus,154,1937,,
+Nøddely 189830 Tårs,Tårs,665.000,16-04-1994,Alm. Salg,-,5,Villa,173,1981,,Aktuel værdi
+Tykskovvej 859830 Tårs,Tårs,695.000,04-04-1994,Alm. Salg,3.677,6,Stuehus,189,1937,,
+Præstebakken 79830 Tårs,Tårs,485.000,28-03-1994,Alm. Salg,3.674,4,Villa,132,1966,,Aktuel værdi
+Horsevadvej 1199830 Tårs,Tårs,416.028,24-03-1994,Alm. Salg,3.649,5,Stuehus,114,1937,,
+Syrenvej 189830 Tårs,Tårs,675.000,22-03-1994,Alm. Salg,4.192,5,Villa,161,1974,,Aktuel værdi
+Sæby Landevej 139830 Tårs,Tårs,240.000,28-01-1994,Alm. Salg,1.714,6,Villa,140,1950,,Aktuel værdi
+Guldregnvej 6B9830 Tårs,Tårs,900.000,03-09-1993,Alm. Salg,-,5,Anden beboelse,174,1975,,Aktuel værdi
+Brobakvej 709830 Tårs,Tårs,150.000,31-08-1993,Alm. Salg,474,6,Villa,316,1936,,Aktuel værdi
+Øster Lievej 199830 Tårs,Tårs,112.200,26-08-1993,Fam. Salg,950,4,Anden beboelse,118,1920,,Aktuel værdi
+Sæby Landevej 2859830 Tårs,Tårs,575.000,23-08-1993,Alm. Salg,2.933,6,Villa,196,1945,,Aktuel værdi
+Højvej 139830 Tårs,Tårs,425.000,20-08-1993,Alm. Salg,2.972,4,Villa,143,1969,,Aktuel værdi
+Åsmarkvej 759830 Tårs,Tårs,270.000,16-08-1993,Alm. Salg,3.698,3,Villa,73,1915,,Aktuel værdi
+Nøddely 109830 Tårs,Tårs,722.000,11-08-1993,Alm. Salg,3.166,7,Villa,228,1980,,Aktuel værdi
+Johannes Hansens Vej 339830 Tårs,Tårs,470.000,06-08-1993,Alm. Salg,-,7,Villa,170,1958,,Aktuel værdi
+Tværvej 49830 Tårs,Tårs,247.000,02-08-1993,Alm. Salg,2.470,3,Villa,100,1921,,Aktuel værdi
+Stensskovvej 1279830 Tårs,Tårs,430.000,25-06-1993,Alm. Salg,2.500,4,Villa,172,1880,,Aktuel værdi
+Sønder Klarupvej 29830 Tårs,Tårs,182.282,18-06-1993,Fam. Salg,1.481,5,Villa,123,1924,,Aktuel værdi
+Trangetvej 139830 Tårs,Tårs,230.000,13-06-1993,Alm. Salg,2.072,3,Villa,111,1942,,Aktuel værdi
+Terpetvej 3549830 Tårs,Tårs,175.000,02-06-1993,Andet,1.356,6,Villa,129,1938,,Aktuel værdi
+Præstebakken 19830 Tårs,Tårs,475.000,26-05-1993,Alm. Salg,3.925,4,Villa,121,1969,,Aktuel værdi
+Tårs Møllegade 179830 Tårs,Tårs,370.000,04-05-1993,Alm. Salg,-,3,Villa,97,1964,,Aktuel værdi
+Kringelbornvej 459830 Tårs,Tårs,615.000,07-04-1993,Alm. Salg,4.842,6,Villa,127,1935,,Aktuel værdi
+Bredgade 1379830 Tårs,Tårs,175.000,10-03-1993,Alm. Salg,3.070,2,Villa,57,1932,,Aktuel værdi
+Sæby Landevej 4239830 Tårs,Tårs,130.000,01-03-1993,Alm. Salg,1.111,4,Villa,117,1941,,Aktuel værdi
+Vesterled 79830 Tårs,Tårs,425.000,30-01-1993,Alm. Salg,-,6,Villa,156,1942,,Aktuel værdi
+Åsmarkvej 709830 Tårs,Tårs,660.000,14-01-1993,Alm. Salg,2.135,7,Villa,309,1913,,Aktuel værdi
+Sæsingvej 139830 Tårs,Tårs,320.393,27-11-1992,Fam. Salg,2.256,5,Villa,142,1964,,Aktuel værdi
+Brogårdsvej 1119830 Tårs,Tårs,195.000,14-10-1992,Alm. Salg,-,6,Villa,212,1897,,Aktuel værdi
+Damhusvej 169830 Tårs,Tårs,361.512,13-08-1992,Alm. Salg,-,4,Villa,144,1982,,Aktuel værdi
+Bredgade 1419830 Tårs,Tårs,377.750,13-08-1992,Alm. Salg,3.046,4,Villa,124,1975,,Aktuel værdi
+Græsdalvej 349830 Tårs,Tårs,484.500,12-08-1992,Andet,-,4,Stuehus,185,1927,,
+Bollervej 149830 Tårs,Tårs,115.000,01-08-1992,Alm. Salg,1.796,2,Villa,64,1944,,Aktuel værdi
+Trangetvej 179830 Tårs,Tårs,463.000,23-07-1992,Alm. Salg,-,5,Villa,111,1927,,Aktuel værdi
+Lille Barholtvej 299830 Tårs,Tårs,1.330.326,21-07-1992,Fam. Salg,-,5,Stuehus,178,1877,,
+Stensskovvej 999830 Tårs,Tårs,1.125.000,12-06-1992,Alm. Salg,6.114,6,Stuehus,184,1920,,
+Nythåbsvej 29830 Tårs,Tårs,255.000,11-06-1992,Alm. Salg,-,5,Villa,205,1897,,Aktuel værdi
+Håsenvej 909830 Tårs,Tårs,474.000,09-06-1992,Alm. Salg,2.455,6,Stuehus,193,1905,,
+Sæby Landevej 1059830 Tårs,Tårs,690.000,27-05-1992,Alm. Salg,-,4,Villa,127,1877,,Aktuel værdi
+Broensvej 259830 Tårs,Tårs,640.000,13-05-1992,Alm. Salg,4.539,4,Stuehus,141,2003,,
+Blommely 59830 Tårs,Tårs,450.000,09-05-1992,Alm. Salg,-,6,Villa,141,1977,,Aktuel værdi
+Johannes Hansens Vej 299830 Tårs,Tårs,320.000,26-04-1992,Alm. Salg,-,5,Villa,130,1948,,Aktuel værdi
+Højvej 109830 Tårs,Tårs,540.000,13-03-1992,Alm. Salg,3.913,3,Villa,138,1969,,Aktuel værdi
+Klarupvej 2429830 Tårs,Tårs,485.000,21-02-1992,Alm. Salg,3.321,4,Stuehus,146,1955,,
+Vrejlev Klostervej 3109830 Tårs,Tårs,1.800.000,28-01-1992,Fam. Salg,5.863,7,Stuehus,307,1980,,
+Bredgade 43B9830 Tårs,Tårs,330.000,27-01-1992,Alm. Salg,3.333,4,Lejlighed,99,1890,,Aktuel værdi
+Tegldal 29830 Tårs,Tårs,275.000,27-01-1992,Alm. Salg,-,6,Villa,128,1940,,Aktuel værdi

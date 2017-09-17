@@ -1,0 +1,537 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Liljevænget 15856 Ryslinge,inge,676.609,01-05-2017,Andet,3.888,6,Villa,174,1973,,Aktuel værdi
+Maegaardsvej 105856 Ryslinge,inge,2.850.000,12-04-2017,Alm. Salg,13.970,6,Villa,204,2009,-5 %,Aktuel værdi
+Skæretvej 235856 Ryslinge,inge,700.000,07-04-2017,Alm. Salg,8.433,4,Villa,83,1957,-6 %,Aktuel værdi
+Tyttebærvænget 55856 Ryslinge,inge,700.000,03-04-2017,Alm. Salg,6.250,4,Villa,112,1978,-3 %,Aktuel værdi
+Liljevænget 25856 Ryslinge,inge,1.800.000,01-04-2017,Alm. Salg,9.677,6,Villa,186,2001,,Aktuel værdi
+"Højholtvej 5, 15856 Ryslinge",inge,350.000,28-03-2017,Alm. Salg,3.240,4,Villa,108,1950,,Aktuel værdi
+Skæretvej 245856 Ryslinge,inge,3.075.000,25-03-2017,Alm. Salg,14.504,8,Villa,212,1880,-5 %,Aktuel værdi
+Aavej 365856 Ryslinge,inge,225.000,22-03-2017,Alm. Salg,2.647,3,Villa,85,1950,-24 %,Aktuel værdi
+Blaakærvej 165856 Ryslinge,inge,480.000,17-03-2017,Alm. Salg,3.037,3,Villa,158,1907,,Aktuel værdi
+Hestehavevej 365856 Ryslinge,inge,1.150.000,01-03-2017,Alm. Salg,8.333,5,Villa,138,1957,-11 %,Aktuel værdi
+Sandbjergvej 25856 Ryslinge,inge,900.000,15-02-2017,Alm. Salg,4.522,6,Villa,199,1972,-18 %,Aktuel værdi
+Leragervej 215856 Ryslinge,inge,750.000,15-02-2017,Alm. Salg,5.357,4,Villa,140,1976,,Aktuel værdi
+Slåenvænget 125856 Ryslinge,inge,1.290.000,07-01-2017,Alm. Salg,9.280,3,Villa,139,1977,,Aktuel værdi
+Stenager 13A5856 Ryslinge,inge,750.000,10-12-2016,Alm. Salg,10.273,3,Rækkehus,73,1987,-6 %,Aktuel værdi
+Bellisvænget 35856 Ryslinge,inge,930.000,30-11-2016,Alm. Salg,7.209,4,Villa,129,1974,,Aktuel værdi
+Rødamsvej 595856 Ryslinge,inge,585.000,17-10-2016,Alm. Salg,5.318,3,Villa,110,1950,-9 %,Aktuel værdi
+Liljevænget 35856 Ryslinge,inge,1.270.000,14-10-2016,Alm. Salg,7.937,5,Villa,160,1976,-2 %,Aktuel værdi
+Kløvmosevej 295856 Ryslinge,inge,1.875.000,13-10-2016,Alm. Salg,9.615,5,Villa,195,1945,0 %,Aktuel værdi
+Skæretvej 315856 Ryslinge,inge,1.150.000,12-10-2016,Auktion,8.914,6,Stuehus,129,1908,-21 %,
+Leragervej 195856 Ryslinge,inge,1.130.000,27-08-2016,Alm. Salg,8.188,4,Villa,138,1977,-9 %,Aktuel værdi
+Luneskovvej 95856 Ryslinge,inge,600.000,23-08-2016,Alm. Salg,5.454,4,Villa,110,1968,,Aktuel værdi
+Hestehavevej 305856 Ryslinge,inge,1.000.000,15-08-2016,Alm. Salg,7.936,5,Villa,126,1956,-9 %,Aktuel værdi
+Enghavevej 195856 Ryslinge,inge,380.000,13-08-2016,Alm. Salg,3.275,4,Villa,116,1971,,Aktuel værdi
+Leragervej 95856 Ryslinge,inge,1.600.000,30-07-2016,Alm. Salg,9.411,6,Villa,170,1971,,Aktuel værdi
+Nygaardsvej 155856 Ryslinge,inge,1.020.000,22-07-2016,Alm. Salg,7.669,6,Villa,133,1971,-7 %,Aktuel værdi
+Leragervej 65856 Ryslinge,inge,825.000,29-06-2016,Alm. Salg,5.650,5,Villa,146,1974,-8 %,Aktuel værdi
+Højholtvej 315856 Ryslinge,inge,30.001,16-06-2016,Auktion,179,6,Villa,167,1875,,Aktuel værdi
+Krokusvænget 85856 Ryslinge,inge,810.837,01-06-2016,Andet,8.190,4,Rækkehus,99,1979,,Aktuel værdi
+Snerlevænget 105856 Ryslinge,inge,525.000,30-04-2016,Alm. Salg,5.303,4,Villa,99,1978,0 %,Aktuel værdi
+Blaakærvej 45856 Ryslinge,inge,947.500,28-04-2016,Alm. Salg,5.149,6,Villa,184,1922,-5 %,Aktuel værdi
+Rønnebærvænget 13A5856 Ryslinge,inge,500.000,28-04-2016,Fam. Salg,7.812,2,Rækkehus,64,1978,,Aktuel værdi
+Stenager 225856 Ryslinge,inge,1.435.000,23-04-2016,Alm. Salg,10.105,5,Villa,142,1997,,Aktuel værdi
+Enghavevej 15856 Ryslinge,inge,1.115.000,20-04-2016,Alm. Salg,5.309,6,Villa,210,1973,-9 %,Aktuel værdi
+Tyttebærvænget 85856 Ryslinge,inge,1.030.000,15-04-2016,Alm. Salg,7.357,5,Villa,140,1977,-5 %,Aktuel værdi
+Snerlevænget 25856 Ryslinge,inge,800.000,14-04-2016,Alm. Salg,8.080,4,Villa,99,1977,-11 %,Aktuel værdi
+Blåbærvænget 35856 Ryslinge,inge,932.500,18-03-2016,Alm. Salg,8.325,4,Villa,112,1977,,Aktuel værdi
+Violvænget 75856 Ryslinge,inge,785.000,17-03-2016,Alm. Salg,6.487,4,Villa,121,1979,-1 %,Aktuel værdi
+Hesselhavevej 95856 Ryslinge,inge,800.000,19-02-2016,Alm. Salg,5.000,6,Villa,160,1964,-16 %,Aktuel værdi
+Gyvelvænget 35856 Ryslinge,inge,700.000,18-02-2016,Alm. Salg,5.426,4,Villa,129,1973,-6 %,Aktuel værdi
+Snerlevænget 75856 Ryslinge,inge,880.000,15-02-2016,Alm. Salg,8.888,4,Villa,99,1977,-7 %,Aktuel værdi
+Bellisvænget 85856 Ryslinge,inge,500.000,11-02-2016,Andet,3.816,3,Villa,131,1974,,Aktuel værdi
+Daugårdsvej 115856 Ryslinge,inge,625.000,05-02-2016,Alm. Salg,6.009,3,Villa,104,1911,-10 %,Aktuel værdi
+Stenager 255856 Ryslinge,inge,10.950.000,27-01-2016,Alm. Salg,182.500,2,Rækkehus,60,1984,,Aktuel værdi
+Fjellerupvej 75856 Ryslinge,inge,1.400.000,15-01-2016,Alm. Salg,9.589,5,Villa,146,1921,-12 %,Aktuel værdi
+Daugårdsvej 145856 Ryslinge,inge,6.500.000,10-01-2016,Alm. Salg,17.060,10,Stuehus,381,1957,-6 %,
+Kirkevænget 85856 Ryslinge,inge,1.075.000,02-01-2016,Alm. Salg,7.166,6,Villa,150,1949,-10 %,Aktuel værdi
+Aaskovvej 45856 Ryslinge,inge,820.000,13-12-2015,Alm. Salg,4.581,6,Villa,179,1900,,Aktuel værdi
+Kildegaardsvej 215856 Ryslinge,inge,1.170.000,09-12-2015,Alm. Salg,7.312,4,Villa,160,1972,-12 %,Aktuel værdi
+Birkevænget 65856 Ryslinge,inge,6.250.000,04-12-2015,Fam. Salg,53.879,3,Villa,116,1972,,Aktuel værdi
+Højholtvej 235856 Ryslinge,inge,1.080.000,13-11-2015,Alm. Salg,9.473,4,Stuehus,114,1955,,
+Rødamsvej 555856 Ryslinge,inge,450.000,03-11-2015,Alm. Salg,5.921,2,Villa,76,1935,,Aktuel værdi
+Hybenvænget 85856 Ryslinge,inge,500.000,30-10-2015,Fam. Salg,3.571,5,Villa,140,1974,,Aktuel værdi
+Hestehavevej 255856 Ryslinge,inge,750.000,28-10-2015,Alm. Salg,5.357,3,Villa,140,1966,-19 %,Aktuel værdi
+Stenager 215856 Ryslinge,inge,10.000.000,28-10-2015,Alm. Salg,166.666,2,Rækkehus,60,1984,,Aktuel værdi
+Skæretvej 255856 Ryslinge,inge,800.000,22-10-2015,Alm. Salg,8.333,3,Villa,96,1957,-8 %,Aktuel værdi
+Leragervej 45856 Ryslinge,inge,775.000,01-10-2015,Fam. Salg,5.132,6,Villa,151,1974,,Aktuel værdi
+Kildegaardsvej 115856 Ryslinge,inge,1.025.000,24-09-2015,Alm. Salg,9.318,4,Villa,110,1971,-6 %,Aktuel værdi
+Skæretvej 5A5856 Ryslinge,inge,1.300.000,15-09-2015,Alm. Salg,7.926,5,Villa,164,1884,,Aktuel værdi
+Lupinvænget 35856 Ryslinge,inge,1.525.000,26-08-2015,Alm. Salg,10.892,5,Villa,140,1977,,Aktuel værdi
+Aavej 95856 Ryslinge,inge,810.500,20-08-2015,Alm. Salg,8.622,4,Villa,94,1969,,Aktuel værdi
+Banevænget 45856 Ryslinge,inge,1.160.000,01-08-2015,Alm. Salg,8.345,5,Villa,139,1969,-3 %,Aktuel værdi
+Leragervej 105856 Ryslinge,inge,900.000,15-07-2015,Alm. Salg,6.870,4,Villa,131,1975,,Aktuel værdi
+Humlevænget 15856 Ryslinge,inge,1.000.000,08-07-2015,Alm. Salg,9.090,4,Villa,110,1877,,Aktuel værdi
+Enebærvænget 15856 Ryslinge,inge,975.000,19-06-2015,Alm. Salg,9.027,4,Villa,108,1986,,Aktuel værdi
+Rønnebærvænget 7A5856 Ryslinge,inge,555.000,26-05-2015,Alm. Salg,8.538,2,Rækkehus,65,1978,-1 %,Aktuel værdi
+Rønnebærvænget 65856 Ryslinge,inge,1.470.000,27-04-2015,Alm. Salg,9.363,5,Villa,157,1978,,Aktuel værdi
+Skæretvej 265856 Ryslinge,inge,1.175.000,24-04-2015,Alm. Salg,9.957,6,Villa,118,1933,-9 %,Aktuel værdi
+Skæretvej 405856 Ryslinge,inge,125.000,30-03-2015,Alm. Salg,675,6,Stuehus,185,1807,,
+Daugårdsvej 135856 Ryslinge,inge,400.000,15-03-2015,Alm. Salg,6.250,3,Fritid,64,1915,,Aktuel værdi
+Blaakærvej 25856 Ryslinge,inge,350.000,11-03-2015,Alm. Salg,2.333,6,Villa,150,1906,-29 %,Aktuel værdi
+Rødamsvej 355856 Ryslinge,inge,400.000,10-03-2015,Andet,2.222,6,Villa,180,1933,,Aktuel værdi
+Hybenvænget 75856 Ryslinge,inge,1.275.000,23-02-2015,Alm. Salg,7.285,5,Villa,175,1973,-6 %,Aktuel værdi
+Birkevænget 35856 Ryslinge,inge,710.000,08-12-2014,Alm. Salg,5.590,4,Villa,127,1971,-11 %,Aktuel værdi
+Primulavænget 15856 Ryslinge,inge,413.500,17-11-2014,Andet,3.691,3,Villa,112,1978,,Aktuel værdi
+Birkevænget 115856 Ryslinge,inge,1.100.000,10-11-2014,Alm. Salg,7.692,4,Villa,143,1972,-8 %,Aktuel værdi
+Kullerupvej 35856 Ryslinge,inge,6.100.000,24-10-2014,Alm. Salg,32.275,5,Stuehus,189,1875,,
+Graabjergvej 2B5856 Ryslinge,inge,4.025.000,21-10-2014,Alm. Salg,25.156,8,Villa,160,1862,,Aktuel værdi
+Leragervej 135856 Ryslinge,inge,1.369.000,17-10-2014,Andet,3.339,9,Villa,410,1972,,Aktuel værdi
+Hesselhavevej 65856 Ryslinge,inge,520.000,04-08-2014,Andet,2.407,6,Villa,216,1969,,Aktuel værdi
+Blaakærvej 35856 Ryslinge,inge,345.000,30-07-2014,Alm. Salg,3.254,4,Villa,106,1921,-50 %,Aktuel værdi
+Kirkevænget 145856 Ryslinge,inge,525.000,11-07-2014,Alm. Salg,4.565,4,Villa,115,1958,-12 %,Aktuel værdi
+Irisvænget 25856 Ryslinge,inge,1.010.000,04-07-2014,Alm. Salg,7.709,4,Villa,131,1974,-7 %,Aktuel værdi
+Aaskovvej 175856 Ryslinge,inge,1.600.000,17-06-2014,Alm. Salg,7.407,5,Villa,216,1968,,Aktuel værdi
+Birkevænget 225856 Ryslinge,inge,1.200.000,13-06-2014,Alm. Salg,7.185,5,Villa,167,1974,-4 %,Aktuel værdi
+Rønnebærvænget 11C5856 Ryslinge,inge,535.000,11-06-2014,Alm. Salg,8.359,2,Rækkehus,64,1978,-7 %,Aktuel værdi
+Maegaardsvej 165856 Ryslinge,inge,2.650.000,06-06-2014,Alm. Salg,14.021,6,Villa,189,2007,-7 %,Aktuel værdi
+Tjørnevænget 255856 Ryslinge,inge,610.000,28-05-2014,Alm. Salg,5.809,4,Villa,105,1980,-12 %,Aktuel værdi
+Stenager 195856 Ryslinge,inge,730.000,25-05-2014,Alm. Salg,8.111,3,Villa,90,1987,-8 %,Aktuel værdi
+Liljevænget 75856 Ryslinge,inge,1.290.000,09-05-2014,Alm. Salg,9.148,4,Villa,141,1975,-4 %,Aktuel værdi
+Birkevænget 15856 Ryslinge,inge,975.000,11-04-2014,Alm. Salg,7.222,4,Villa,135,1972,,Aktuel værdi
+Rødamsvej 275856 Ryslinge,inge,400.000,02-04-2014,Auktion,2.531,7,Villa,158,1922,,Aktuel værdi
+Irisvænget 85856 Ryslinge,inge,402.750,31-03-2014,Andet,2.486,5,Villa,162,1974,,Aktuel værdi
+Daugårdsvej 105856 Ryslinge,inge,374.257,24-03-2014,Fam. Salg,1.871,5,Villa,200,1877,,Aktuel værdi
+Gyvelvænget 15856 Ryslinge,inge,509.573,20-03-2014,Andet,3.145,4,Villa,162,1973,,Aktuel værdi
+Stenager 15856 Ryslinge,inge,710.000,15-03-2014,Alm. Salg,6.960,4,Rækkehus,102,1986,-11 %,Aktuel værdi
+Hyldevænget 105856 Ryslinge,inge,1.450.000,10-03-2014,Alm. Salg,9.235,4,Villa,157,1973,-3 %,Aktuel værdi
+Slåenvænget 85856 Ryslinge,inge,1.075.000,07-03-2014,Alm. Salg,7.072,4,Villa,152,1973,-2 %,Aktuel værdi
+Slåenvænget 15856 Ryslinge,inge,800.000,22-02-2014,Alm. Salg,5.405,5,Villa,148,1974,-11 %,Aktuel værdi
+Graabjergvej 15856 Ryslinge,inge,800.000,21-02-2014,Alm. Salg,4.790,6,Villa,167,1962,-6 %,Aktuel værdi
+Erantisvænget 15856 Ryslinge,inge,1.350.000,16-02-2014,Alm. Salg,8.653,4,Villa,156,1979,-7 %,Aktuel værdi
+Sofienlundsvej 45856 Ryslinge,inge,668.000,10-02-2014,Fam. Salg,5.387,5,Villa,124,1956,,Aktuel værdi
+Violvænget 9B5856 Ryslinge,inge,570.000,10-02-2014,Alm. Salg,5.876,3,Rækkehus,97,1976,,Aktuel værdi
+Kildegaardsvej 95856 Ryslinge,inge,8.000,01-02-2014,Fam. Salg,55,4,Villa,144,1971,,Aktuel værdi
+Kløvmosevej 205856 Ryslinge,inge,731.000,20-12-2013,Fam. Salg,5.076,5,Stuehus,144,1911,,
+Erantisvænget 45856 Ryslinge,inge,1.300.000,10-12-2013,Alm. Salg,10.000,5,Villa,130,1980,-7 %,Aktuel værdi
+Krokusvænget 95856 Ryslinge,inge,1.150.000,06-12-2013,Alm. Salg,8.582,5,Villa,134,1980,-11 %,Aktuel værdi
+Birkevænget 45856 Ryslinge,inge,1.300.000,30-10-2013,Alm. Salg,8.333,7,Villa,156,1971,,Aktuel værdi
+Højskolevej 45856 Ryslinge,inge,423.646,30-10-2013,Alm. Salg,2.206,6,Stuehus,192,1955,,
+Rønnebærvænget 13B5856 Ryslinge,inge,400.000,17-10-2013,Alm. Salg,6.250,2,Rækkehus,64,1978,,Aktuel værdi
+Aavej 185856 Ryslinge,inge,800.000,17-10-2013,Alm. Salg,7.272,4,Villa,110,1968,-11 %,Aktuel værdi
+Kløvmosevej 225856 Ryslinge,inge,750.000,01-10-2013,Alm. Salg,5.681,4,Stuehus,132,1877,,
+Aaskovvej 165856 Ryslinge,inge,995.000,30-09-2013,Alm. Salg,6.419,5,Villa,155,1925,-5 %,Aktuel værdi
+Birkevænget 175856 Ryslinge,inge,575.000,23-09-2013,Fam. Salg,3.911,4,Villa,147,1973,,Aktuel værdi
+Rødamsvej 325856 Ryslinge,inge,2.000.000,11-09-2013,Auktion,6.451,10,Stuehus,310,1917,,
+Tjørnevænget 215856 Ryslinge,inge,600.000,25-07-2013,Alm. Salg,5.714,4,Villa,105,1980,-14 %,Aktuel værdi
+Daugårdsvej 155856 Ryslinge,inge,11.500,23-06-2013,Andet,273,1,Sommerhus,42,1936,,Aktuel værdi
+Skovkrogen 85856 Ryslinge,inge,935.000,16-06-2013,Alm. Salg,6.925,5,Villa,135,1964,-5 %,Aktuel værdi
+Højholtvej 25856 Ryslinge,inge,602.674,10-06-2013,Alm. Salg,2.608,8,Villa,231,1870,,Aktuel værdi
+Højholtvej 175856 Ryslinge,inge,400.000,08-06-2013,Alm. Salg,3.278,7,Villa,122,1954,-47 %,Aktuel værdi
+Stenager 245856 Ryslinge,inge,1.500.000,01-06-2013,Fam. Salg,12.820,4,Villa,117,2001,,Aktuel værdi
+Nørremarksgyden 105856 Ryslinge,inge,650.000,22-05-2013,Alm. Salg,5.963,4,Villa,109,1961,-6 %,Aktuel værdi
+Graabjergvej 145856 Ryslinge,inge,750.000,25-04-2013,Alm. Salg,5.319,5,Villa,141,1870,,Aktuel værdi
+Ærenlundsparken 95856 Ryslinge,inge,308.700,03-04-2013,Alm. Salg,2.220,3,Villa,139,2013,,Aktuel værdi
+Enghavevej 105856 Ryslinge,inge,462.500,30-01-2013,Auktion,3.280,6,Villa,141,1929,-54 %,Aktuel værdi
+Enghavevej 55856 Ryslinge,inge,945.000,16-12-2012,Alm. Salg,8.146,4,Villa,116,1965,0 %,Aktuel værdi
+Blåbærvænget 45856 Ryslinge,inge,1.275.000,11-12-2012,Alm. Salg,7.285,4,Villa,175,1976,-9 %,Aktuel værdi
+Kirkestien 55856 Ryslinge,inge,773.500,16-11-2012,Alm. Salg,7.366,5,Villa,105,1937,4 %,Aktuel værdi
+Nørremarksgyden 25856 Ryslinge,inge,235.000,08-11-2012,Auktion,3.263,4,Villa,72,1800,-70 %,Aktuel værdi
+Ahornvænget 15856 Ryslinge,inge,775.000,27-10-2012,Alm. Salg,5.419,7,Villa,143,1917,-6 %,Aktuel værdi
+Enghavevej 15B5856 Ryslinge,inge,1.090.636,24-10-2012,Auktion,7.270,4,Villa,150,1932,,Aktuel værdi
+Birkevænget 25856 Ryslinge,inge,787.500,20-10-2012,Alm. Salg,6.402,4,Villa,123,1972,-5 %,Aktuel værdi
+Skæretvej 15856 Ryslinge,inge,705.000,11-10-2012,Alm. Salg,4.668,5,Villa,151,1866,-11 %,Aktuel værdi
+Leragervej 175856 Ryslinge,inge,575.000,04-10-2012,Andet,3.285,4,Villa,175,1974,,Aktuel værdi
+Kirkestien 35856 Ryslinge,inge,300.000,25-09-2012,Alm. Salg,3.030,4,Villa,99,1934,-20 %,Aktuel værdi
+Højholtvej 265856 Ryslinge,inge,755.000,13-09-2012,Alm. Salg,7.626,5,Villa,99,1910,-16 %,Aktuel værdi
+Luneskovvej 35856 Ryslinge,inge,725.000,01-08-2012,Alm. Salg,5.800,4,Villa,125,1845,-5 %,Aktuel værdi
+Stenager 145856 Ryslinge,inge,1.185.000,01-08-2012,Alm. Salg,9.875,5,Villa,120,1989,-4 %,Aktuel værdi
+Sønderlund 45856 Ryslinge,inge,425.000,25-07-2012,Alm. Salg,7.456,2,Villa,57,1952,-6 %,Aktuel værdi
+Aaskovvej 13C5856 Ryslinge,inge,741.000,12-07-2012,Andet,5.880,4,Villa,126,2007,,Aktuel værdi
+Krokusvænget 185856 Ryslinge,inge,850.000,13-06-2012,Alm. Salg,8.854,4,Rækkehus,96,1979,,Aktuel værdi
+Daugårdsvej 65856 Ryslinge,inge,325.000,08-06-2012,Alm. Salg,3.385,4,Villa,96,1937,,Aktuel værdi
+Aavej 165856 Ryslinge,inge,1.175.000,02-06-2012,Alm. Salg,7.532,5,Villa,156,1967,-2 %,Aktuel værdi
+Tjørnevænget 65856 Ryslinge,inge,1.600.000,25-05-2012,Alm. Salg,9.302,5,Villa,172,1979,-4 %,Aktuel værdi
+Snebærvænget 9C5856 Ryslinge,inge,645.000,27-04-2012,Alm. Salg,8.835,3,Rækkehus,73,1978,0 %,Aktuel værdi
+Maegaardsvej 95856 Ryslinge,inge,1.850.000,26-04-2012,Alm. Salg,11.011,6,Villa,168,2007,-1 %,Aktuel værdi
+Stenager 165856 Ryslinge,inge,1.300.000,19-04-2012,Alm. Salg,11.818,4,Villa,110,2008,-7 %,Aktuel værdi
+Skæretvej 135856 Ryslinge,inge,925.000,26-03-2012,Alm. Salg,5.929,5,Villa,156,2003,-11 %,Aktuel værdi
+Violvænget 9C5856 Ryslinge,inge,565.000,20-03-2012,Alm. Salg,5.824,3,Rækkehus,97,1976,,Aktuel værdi
+Slåenvænget 105856 Ryslinge,inge,500.000,12-03-2012,Fam. Salg,3.067,5,Villa,163,1973,,Aktuel værdi
+Højholtvej 11A5856 Ryslinge,inge,161.636,20-12-2011,Fam. Salg,665,7,Villa,243,2015,,Aktuel værdi
+Aaskovvej 305856 Ryslinge,inge,750.000,08-11-2011,Auktion,4.237,11,Villa,177,1932,,Aktuel værdi
+Blaakærvej 105856 Ryslinge,inge,349.000,03-11-2011,Auktion,3.490,3,Villa,100,1917,-56 %,Aktuel værdi
+Aavej 385856 Ryslinge,inge,500.000,01-11-2011,Alm. Salg,4.545,3,Villa,110,1949,-16 %,Aktuel værdi
+Højholtvej 29A5856 Ryslinge,inge,1.375.000,28-10-2011,Alm. Salg,7.994,6,Villa,172,2009,,Aktuel værdi
+Violvænget 5E5856 Ryslinge,inge,1.825.000,25-10-2011,Alm. Salg,14.717,4,Villa,124,2006,-9 %,Aktuel værdi
+Krokusvænget 165856 Ryslinge,inge,523.100,31-08-2011,Auktion,5.283,4,Rækkehus,99,1979,,Aktuel værdi
+Leragervej 35856 Ryslinge,inge,450.000,02-07-2011,Fam. Salg,3.191,5,Villa,141,1973,,Aktuel værdi
+Syrenvænget 15856 Ryslinge,inge,627.120,30-05-2011,Alm. Salg,3.871,5,Villa,162,1979,,Aktuel værdi
+Hestehavevej 515856 Ryslinge,inge,1.250.000,20-05-2011,Alm. Salg,9.057,7,Villa,138,1908,0 %,Aktuel værdi
+Nygaardsvej 25856 Ryslinge,inge,875.000,23-03-2011,Alm. Salg,6.944,4,Villa,126,1969,-8 %,Aktuel værdi
+Bellisvænget 95856 Ryslinge,inge,985.000,12-03-2011,Alm. Salg,8.794,4,Villa,112,1975,-14 %,Aktuel værdi
+Aavej 145856 Ryslinge,inge,795.000,15-02-2011,Alm. Salg,8.112,3,Villa,98,1967,0 %,Aktuel værdi
+Erantisvænget 85856 Ryslinge,inge,1.275.000,04-02-2011,Alm. Salg,9.807,5,Villa,130,1980,-2 %,Aktuel værdi
+Tjørnevænget 175856 Ryslinge,inge,755.000,26-01-2011,Alm. Salg,7.190,4,Villa,105,1980,-16 %,Aktuel værdi
+Rødamsvej 195856 Ryslinge,inge,810.000,14-01-2011,Alm. Salg,4.628,7,Villa,175,1934,-9 %,Aktuel værdi
+Brinken 35856 Ryslinge,inge,760.000,12-01-2011,Auktion,6.129,5,Villa,124,1965,-49 %,Aktuel værdi
+Skovkrogen 65856 Ryslinge,inge,625.000,30-12-2010,Alm. Salg,7.183,3,Villa,87,1963,-4 %,Aktuel værdi
+"Chr. Fabersvej 3, ST5856 Ryslinge",inge,280.000,17-12-2010,Alm. Salg,2.028,3,Villa,138,1950,,Aktuel værdi
+Hestehavevej 205856 Ryslinge,inge,288.000,17-12-2010,Alm. Salg,1.704,7,Villa,169,1907,,Aktuel værdi
+Hestehavevej 245856 Ryslinge,inge,248.000,17-12-2010,Alm. Salg,1.698,6,Villa,146,1905,,Aktuel værdi
+Hestehavevej 285856 Ryslinge,inge,264.000,17-12-2010,Alm. Salg,2.422,4,Villa,109,1935,,Aktuel værdi
+Skovkrogen 35856 Ryslinge,inge,850.000,02-12-2010,Alm. Salg,6.071,4,Villa,140,1965,-4 %,Aktuel værdi
+Kirkevænget 65856 Ryslinge,inge,550.000,30-11-2010,Alm. Salg,7.746,3,Villa,71,1944,,Aktuel værdi
+Hestehavevej 495856 Ryslinge,inge,1.795.000,05-10-2010,Alm. Salg,8.756,7,Villa,205,1912,0 %,Aktuel værdi
+Skæretvej 205856 Ryslinge,inge,1.825.000,01-10-2010,Alm. Salg,7.900,7,Villa,231,1934,-3 %,Aktuel værdi
+Gyvelvænget 65856 Ryslinge,inge,955.000,30-09-2010,Alm. Salg,8.304,4,Villa,115,1977,-4 %,Aktuel værdi
+Liljevænget 55856 Ryslinge,inge,1.450.000,08-09-2010,Alm. Salg,12.946,4,Villa,112,1975,-3 %,Aktuel værdi
+Blåbærvænget 6B5856 Ryslinge,inge,625.000,03-09-2010,Alm. Salg,8.561,3,Rækkehus,73,1983,0 %,Aktuel værdi
+Skæretvej 335856 Ryslinge,inge,800.000,01-09-2010,Alm. Salg,5.333,5,Villa,150,1895,-11 %,Aktuel værdi
+Kirkestien 125856 Ryslinge,inge,1.150.000,20-08-2010,Alm. Salg,6.686,5,Villa,172,1935,-15 %,Aktuel værdi
+Kirkestien 105856 Ryslinge,inge,480.000,12-08-2010,Auktion,4.247,4,Villa,113,1952,,Aktuel værdi
+Skovkrogen 15856 Ryslinge,inge,830.000,11-08-2010,Alm. Salg,8.217,2,Villa,101,1964,,Aktuel værdi
+Kildegaardsvej 155856 Ryslinge,inge,1.595.000,27-07-2010,Alm. Salg,10.357,4,Villa,154,1971,-2 %,Aktuel værdi
+Kildegaardsvej 45856 Ryslinge,inge,500.000,15-07-2010,Andet,3.571,4,Villa,140,1965,,Aktuel værdi
+Sandbjergvej 125856 Ryslinge,inge,1.275.000,07-07-2010,Alm. Salg,10.282,4,Villa,124,1975,0 %,Aktuel værdi
+Snebærvænget 55856 Ryslinge,inge,1.000.000,14-06-2010,Fam. Salg,8.928,4,Villa,112,1978,,Aktuel værdi
+Syrenvænget 35856 Ryslinge,inge,1.235.000,15-05-2010,Alm. Salg,10.291,4,Villa,120,1981,-5 %,Aktuel værdi
+Daugårdsvej 55856 Ryslinge,inge,825.000,09-04-2010,Alm. Salg,5.809,5,Villa,142,1890,-20 %,Aktuel værdi
+Kløvmosevej 195856 Ryslinge,inge,795.000,09-04-2010,Alm. Salg,7.950,3,Villa,100,1910,0 %,Aktuel værdi
+Bellisvænget 65856 Ryslinge,inge,1.500.000,25-03-2010,Alm. Salg,9.933,4,Villa,151,1974,-6 %,Aktuel værdi
+Kløvmosevej 85856 Ryslinge,inge,2.125.000,11-03-2010,Alm. Salg,11.740,5,Villa,181,1905,-7 %,Aktuel værdi
+Aaskovvej 65856 Ryslinge,inge,1.800.000,01-02-2010,Alm. Salg,9.523,5,Villa,189,1938,-10 %,Aktuel værdi
+Rønnebærvænget 1C5856 Ryslinge,inge,530.000,27-12-2009,Alm. Salg,8.412,2,Rækkehus,63,1978,,Aktuel værdi
+Aaskovvej 55856 Ryslinge,inge,995.000,22-12-2009,Alm. Salg,4.830,8,Villa,206,1929,0 %,Aktuel værdi
+Enghavevej 185856 Ryslinge,inge,900.000,12-12-2009,Fam. Salg,7.627,5,Villa,118,1915,,Aktuel værdi
+Aavej 35856 Ryslinge,inge,750.000,27-11-2009,Alm. Salg,6.000,4,Villa,125,1964,-16 %,Aktuel værdi
+Violvænget 9D5856 Ryslinge,inge,700.000,22-11-2009,Alm. Salg,7.216,3,Rækkehus,97,1976,-6 %,Aktuel værdi
+Tjørnevænget 275856 Ryslinge,inge,840.000,06-11-2009,Alm. Salg,8.000,4,Villa,105,1980,-16 %,Aktuel værdi
+Blåbærvænget 8A5856 Ryslinge,inge,560.000,05-11-2009,Alm. Salg,8.484,2,Rækkehus,66,1983,-6 %,Aktuel værdi
+Slåenvænget 75856 Ryslinge,inge,1.300.000,13-09-2009,Alm. Salg,9.848,5,Villa,132,1984,-5 %,Aktuel værdi
+Rødamsvej 535856 Ryslinge,inge,750.000,01-07-2009,Alm. Salg,5.208,4,Villa,144,1932,-9 %,Aktuel værdi
+Slåenvænget 45856 Ryslinge,inge,1.075.000,30-06-2009,Andet,8.739,4,Villa,123,1973,,Aktuel værdi
+Kildegaardsvej 145856 Ryslinge,inge,1.145.000,26-06-2009,Alm. Salg,9.870,3,Villa,116,1972,-4 %,Aktuel værdi
+Maegaardsvej 25856 Ryslinge,inge,421.706,23-06-2009,Alm. Salg,1.891,7,Villa,223,2011,,Aktuel værdi
+Daugårdsvej 35856 Ryslinge,inge,650.000,12-06-2009,Alm. Salg,5.078,5,Villa,128,1965,-55 %,Aktuel værdi
+Snerlevænget 15856 Ryslinge,inge,700.000,04-06-2009,Alm. Salg,7.070,3,Villa,99,1977,-6 %,Aktuel værdi
+Kløvmosevej 115856 Ryslinge,inge,530.000,18-05-2009,Alm. Salg,5.300,4,Villa,100,1903,-24 %,Aktuel værdi
+Rødamsvej 245856 Ryslinge,inge,1.650.000,06-05-2009,Auktion,10.312,6,Stuehus,160,1852,,
+Aavej 555856 Ryslinge,inge,580.000,03-05-2009,Fam. Salg,2.478,6,Villa,234,1817,,Aktuel værdi
+Stenager 115856 Ryslinge,inge,925.000,29-04-2009,Alm. Salg,11.280,3,Rækkehus,82,1986,-3 %,Aktuel værdi
+Nørremarksgyden 85856 Ryslinge,inge,1.110.000,08-04-2009,Auktion,6.981,5,Stuehus,159,1850,-35 %,
+Aaskovvej 155856 Ryslinge,inge,1.050.000,09-03-2009,Alm. Salg,7.291,4,Villa,144,1968,-12 %,Aktuel værdi
+Aaskovvej 35856 Ryslinge,inge,275.000,04-03-2009,Alm. Salg,1.432,7,Villa,192,1916,-87 %,Aktuel værdi
+Skovlundsvej 45856 Ryslinge,inge,1.100.000,05-02-2009,Fam. Salg,8.029,4,Villa,137,1968,,Aktuel værdi
+Skæretvej 115856 Ryslinge,inge,2.175.000,15-01-2009,Alm. Salg,13.425,5,Villa,162,1877,-3 %,Aktuel værdi
+Hyldevænget 25856 Ryslinge,inge,825.000,14-01-2009,Alm. Salg,6.066,4,Villa,136,1976,0 %,Aktuel værdi
+Kildegaardsvej 185856 Ryslinge,inge,1.100.000,21-12-2008,Alm. Salg,8.661,4,Villa,127,1971,,Aktuel værdi
+Aaskovvej 285856 Ryslinge,inge,625.000,29-10-2008,Andet,5.580,5,Villa,112,1923,,Aktuel værdi
+Birkevænget 105856 Ryslinge,inge,1.420.000,09-10-2008,Alm. Salg,9.466,4,Villa,150,1972,-2 %,Aktuel værdi
+Stenager 35856 Ryslinge,inge,895.000,24-09-2008,Alm. Salg,10.914,3,Rækkehus,82,1986,,Aktuel værdi
+Hestehavevej 135856 Ryslinge,inge,715.000,23-09-2008,Auktion,5.813,6,Villa,123,1900,,Aktuel værdi
+Højholtvej 29B5856 Ryslinge,inge,850.000,22-09-2008,Fam. Salg,6.854,6,Villa,124,1911,,Aktuel værdi
+Nygaardsvej 55856 Ryslinge,inge,1.425.000,08-08-2008,Alm. Salg,10.714,4,Villa,133,1976,,Aktuel værdi
+Højholtvej 255856 Ryslinge,inge,725.000,07-08-2008,Alm. Salg,10.211,3,Villa,71,1952,-3 %,Aktuel værdi
+Krokusvænget 55856 Ryslinge,inge,1.295.000,31-07-2008,Alm. Salg,10.791,4,Villa,120,1979,0 %,Aktuel værdi
+Hestehavevej 425856 Ryslinge,inge,1.475.000,30-06-2008,Alm. Salg,8.939,6,Villa,165,1959,,Aktuel værdi
+Ærenlundsparken 105856 Ryslinge,inge,1.995.000,13-06-2008,Alm. Salg,18.136,3,Villa,110,2008,,Aktuel værdi
+Enghavevej 245856 Ryslinge,inge,1.650.000,12-06-2008,Alm. Salg,7.857,7,Villa,210,1971,-4 %,Aktuel værdi
+Maegaardsvej 155856 Ryslinge,inge,2.580.000,01-06-2008,Alm. Salg,15.266,4,Villa,169,2007,-4 %,Aktuel værdi
+Hybenvænget 45856 Ryslinge,inge,1.295.000,21-05-2008,Alm. Salg,9.316,4,Villa,139,1973,0 %,Aktuel værdi
+Violvænget 25856 Ryslinge,inge,1.825.000,16-05-2008,Alm. Salg,-,8,Villa,271,1974,-1 %,Aktuel værdi
+Hybenvænget 25856 Ryslinge,inge,1.295.000,08-05-2008,Alm. Salg,10.196,4,Villa,127,1976,0 %,Aktuel værdi
+Højholtvej 225856 Ryslinge,inge,1.575.000,08-04-2008,Alm. Salg,13.125,5,Villa,120,1900,-6 %,Aktuel værdi
+Højholtvej 125856 Ryslinge,inge,1.030.000,01-04-2008,Alm. Salg,10.842,6,Villa,95,1918,-5 %,Aktuel værdi
+Stenager 95856 Ryslinge,inge,915.000,28-03-2008,Alm. Salg,11.158,3,Rækkehus,82,1986,,Aktuel værdi
+Lupinvænget 25856 Ryslinge,inge,1.545.000,15-03-2008,Alm. Salg,12.875,3,Villa,120,1977,0 %,Aktuel værdi
+Glasbjergvej 2A5856 Ryslinge,inge,1.175.000,10-03-2008,Alm. Salg,11.190,3,Villa,105,1989,,Aktuel værdi
+Blåbærvænget 95856 Ryslinge,inge,1.575.000,05-03-2008,Alm. Salg,10.031,6,Villa,157,1976,0 %,Aktuel værdi
+Rødamsvej 485856 Ryslinge,inge,1.435.000,28-01-2008,Alm. Salg,7.928,5,Stuehus,181,1830,,
+Stenager 75856 Ryslinge,inge,945.000,14-01-2008,Alm. Salg,11.524,3,Rækkehus,82,1986,0 %,Aktuel værdi
+Skæretvej 215856 Ryslinge,inge,1.125.000,08-01-2008,Alm. Salg,12.500,3,Villa,90,1961,-4 %,Aktuel værdi
+Kløvmosevej 75856 Ryslinge,inge,890.000,20-12-2007,Alm. Salg,6.846,4,Villa,130,1900,-4 %,Aktuel værdi
+Hestehavevej 325856 Ryslinge,inge,1.365.000,12-11-2007,Alm. Salg,9.222,5,Villa,148,1950,0 %,Aktuel værdi
+Nygaardsvej 125856 Ryslinge,inge,743.207,02-11-2007,Fam. Salg,5.993,4,Villa,124,1970,,Aktuel værdi
+Stenager 155856 Ryslinge,inge,510.000,29-10-2007,Fam. Salg,6.986,3,Rækkehus,73,1987,,Aktuel værdi
+Hestehavevej 185856 Ryslinge,inge,960.000,25-10-2007,Alm. Salg,6.357,5,Villa,151,1910,,Aktuel værdi
+Birkevænget 145856 Ryslinge,inge,1.800.000,10-10-2007,Alm. Salg,8.866,8,Villa,203,1972,,Aktuel værdi
+Kirkevænget 35856 Ryslinge,inge,1.645.000,04-10-2007,Alm. Salg,9.676,4,Villa,170,1950,,Aktuel værdi
+Hestehavevej 25856 Ryslinge,inge,900.000,24-09-2007,Andet,6.000,10,Villa,150,1900,,Aktuel værdi
+Kirkevænget 15856 Ryslinge,inge,1.075.000,18-09-2007,Alm. Salg,10.141,4,Villa,106,1941,-10 %,Aktuel værdi
+Aavej 65856 Ryslinge,inge,730.000,09-09-2007,Alm. Salg,11.967,3,Villa,61,1953,,Aktuel værdi
+Hestehavevej 355856 Ryslinge,inge,620.000,04-09-2007,Alm. Salg,6.526,4,Villa,95,1930,,Aktuel værdi
+Rødamsvej 85856 Ryslinge,inge,950.000,30-08-2007,Alm. Salg,5.191,5,Villa,183,1900,-4 %,Aktuel værdi
+Aaskovvej 13A5856 Ryslinge,inge,355.000,24-08-2007,Alm. Salg,2.817,4,Villa,126,2008,-80 %,Aktuel værdi
+Skæretvej 275856 Ryslinge,inge,500.000,24-08-2007,Alm. Salg,6.849,3,Villa,73,1955,-23 %,Aktuel værdi
+Enebærvænget 3C5856 Ryslinge,inge,560.000,21-08-2007,Alm. Salg,8.888,2,Rækkehus,63,1977,,Aktuel værdi
+Birkevænget 165856 Ryslinge,inge,1.150.000,17-08-2007,Alm. Salg,7.823,5,Villa,147,1973,,Aktuel værdi
+Hestehavevej 395856 Ryslinge,inge,875.000,12-08-2007,Andet,4.629,6,Villa,189,1962,,Aktuel værdi
+Syrenvænget 105856 Ryslinge,inge,1.250.000,10-08-2007,Alm. Salg,10.416,4,Villa,120,1979,,Aktuel værdi
+Krokusvænget 25856 Ryslinge,inge,421.000,13-07-2007,Fam. Salg,4.385,4,Rækkehus,96,1979,,Aktuel værdi
+Tjørnevænget 35856 Ryslinge,inge,328.739,10-07-2007,Andet,3.130,4,Villa,105,1980,,Aktuel værdi
+Kildegaardsvej 125856 Ryslinge,inge,1.545.000,03-07-2007,Alm. Salg,10.510,4,Villa,147,1972,0 %,Aktuel værdi
+Kløvmosevej 175856 Ryslinge,inge,1.550.000,27-06-2007,Alm. Salg,9.748,5,Villa,159,1904,0 %,Aktuel værdi
+Maegaardsvej 15856 Ryslinge,inge,1.060.000,14-06-2007,Alm. Salg,5.668,6,Villa,187,2008,,Aktuel værdi
+Nørremarksgyden 245856 Ryslinge,inge,1.138.000,07-06-2007,Alm. Salg,5.367,4,Villa,212,1850,,Aktuel værdi
+Humlevænget 6A5856 Ryslinge,inge,46.665,03-05-2007,Fam. Salg,265,6,Villa,176,2011,,Aktuel værdi
+"Hestehavevej 4, 15856 Ryslinge",inge,1.100.000,29-03-2007,Alm. Salg,20.000,2,Lejlighed,55,1897,,Aktuel værdi
+Kildegaardsvej 55856 Ryslinge,inge,985.000,26-03-2007,Alm. Salg,9.120,4,Villa,108,1968,,Aktuel værdi
+Enghavevej 125856 Ryslinge,inge,1.100.000,06-03-2007,Alm. Salg,7.638,5,Villa,144,1926,,Aktuel værdi
+Maegaardsvej 85856 Ryslinge,inge,310.700,20-02-2007,Alm. Salg,1.451,5,Villa,214,2010,,Aktuel værdi
+Liljevænget 105856 Ryslinge,inge,750.000,14-02-2007,Fam. Salg,3.750,9,Villa,200,1974,,Aktuel værdi
+Hesselhavevej 55856 Ryslinge,inge,1.775.000,26-01-2007,Alm. Salg,11.677,5,Villa,152,1965,,Aktuel værdi
+Maegaardsvej 35856 Ryslinge,inge,447.006,16-01-2007,Alm. Salg,2.980,5,Villa,150,2009,,Aktuel værdi
+Højskolevej 105856 Ryslinge,inge,247.875,08-01-2007,Alm. Salg,1.221,5,Villa,203,1910,,Aktuel værdi
+Skæretvej 445856 Ryslinge,inge,82.275,01-01-2007,Alm. Salg,442,6,Villa,186,1912,,Aktuel værdi
+Skæretvej 425856 Ryslinge,inge,59.750,27-12-2006,Alm. Salg,307,6,Villa,194,1973,,Aktuel værdi
+Brinken 45856 Ryslinge,inge,550.000,22-12-2006,Fam. Salg,5.445,3,Villa,101,1965,,Aktuel værdi
+Aaskovvej 13B5856 Ryslinge,inge,355.000,07-12-2006,Alm. Salg,2.817,4,Villa,126,2007,,Aktuel værdi
+Tjørnevænget 75856 Ryslinge,inge,900.000,30-11-2006,Fam. Salg,7.500,5,Villa,120,1980,,Aktuel værdi
+Rødamsvej 455856 Ryslinge,inge,775.000,21-11-2006,Alm. Salg,6.300,3,Villa,123,1820,,Aktuel værdi
+Snebærvænget 9A5856 Ryslinge,inge,585.000,15-11-2006,Alm. Salg,8.013,3,Rækkehus,73,1978,,Aktuel værdi
+Gyvelvænget 95856 Ryslinge,inge,1.465.000,14-11-2006,Alm. Salg,8.987,4,Villa,163,1978,,Aktuel værdi
+Violvænget 5C5856 Ryslinge,inge,1.565.000,09-11-2006,Alm. Salg,15.048,4,Villa,104,2006,,Aktuel værdi
+Aavej 205856 Ryslinge,inge,865.000,20-10-2006,Alm. Salg,7.863,5,Villa,110,1750,,Aktuel værdi
+Kløvmosevej 315856 Ryslinge,inge,680.000,17-10-2006,Alm. Salg,7.555,3,Villa,90,1950,,Aktuel værdi
+Rødamsvej 105856 Ryslinge,inge,575.000,16-10-2006,Auktion,5.133,3,Villa,112,1900,,Aktuel værdi
+Humlevænget 45856 Ryslinge,inge,975.000,13-10-2006,Alm. Salg,6.866,6,Villa,142,1961,,Aktuel værdi
+Erantisvænget 65856 Ryslinge,inge,1.900.000,09-10-2006,Alm. Salg,-,5,Villa,235,1982,,Aktuel værdi
+Daugårdsvej 45856 Ryslinge,inge,650.000,05-10-2006,Alm. Salg,4.924,3,Villa,132,1905,,Aktuel værdi
+Graabjergvej 125856 Ryslinge,inge,900.000,13-09-2006,Fam. Salg,4.591,6,Villa,196,1930,,Aktuel værdi
+Kullerupvej 105856 Ryslinge,inge,1.500.000,11-09-2006,Alm. Salg,6.147,8,Villa,244,1877,,Aktuel værdi
+Nørremarksgyden 185856 Ryslinge,inge,580.000,04-09-2006,Alm. Salg,4.172,5,Villa,139,1877,,Aktuel værdi
+Maegaardsvej 75856 Ryslinge,inge,346.206,04-09-2006,Alm. Salg,2.012,5,Villa,172,2007,,Aktuel værdi
+Maegaardsvej 45856 Ryslinge,inge,378.506,21-08-2006,Alm. Salg,2.426,5,Villa,156,2007,,Aktuel værdi
+Kløvmosevej 125856 Ryslinge,inge,698.000,20-07-2006,Alm. Salg,6.069,5,Villa,115,1904,,Aktuel værdi
+Daugårdsvej 125856 Ryslinge,inge,750.000,19-07-2006,Fam. Salg,7.075,3,Villa,106,1900,,Aktuel værdi
+Daugårdsvej 15856 Ryslinge,inge,1.090.000,13-07-2006,Alm. Salg,5.736,6,Villa,190,1907,,Aktuel værdi
+Maegaardsvej 65856 Ryslinge,inge,389.906,03-07-2006,Alm. Salg,1.979,6,Villa,197,2007,,Aktuel værdi
+Violvænget 5D5856 Ryslinge,inge,1.395.000,19-06-2006,Alm. Salg,13.543,4,Villa,103,2006,,Aktuel værdi
+Stenager 125856 Ryslinge,inge,1.585.000,26-05-2006,Alm. Salg,11.083,5,Villa,143,1997,,Aktuel værdi
+Maegaardsvej 55856 Ryslinge,inge,417.306,22-05-2006,Alm. Salg,1.329,7,Villa,314,2011,,Aktuel værdi
+Violvænget 5B5856 Ryslinge,inge,1.420.000,16-05-2006,Alm. Salg,13.653,4,Villa,104,2007,,Aktuel værdi
+Maegaardsvej 175856 Ryslinge,inge,279.231,15-05-2006,Alm. Salg,1.525,6,Villa,183,2008,,Aktuel værdi
+Skæretvej 285856 Ryslinge,inge,1.000.000,03-05-2006,Alm. Salg,7.751,3,Stuehus,129,1872,,
+Tvekildevej 13A5856 Ryslinge,inge,97.626,01-05-2006,Alm. Salg,762,4,Villa,128,2007,,Aktuel værdi
+Maegaardsvej 145856 Ryslinge,inge,432.606,24-04-2006,Fam. Salg,2.276,6,Villa,190,2008,,Aktuel værdi
+Maegaardsvej 115856 Ryslinge,inge,414.506,10-04-2006,Alm. Salg,2.062,6,Villa,201,2008,,Aktuel værdi
+Maegaardsvej 125856 Ryslinge,inge,432.106,27-02-2006,Alm. Salg,2.000,7,Villa,216,2009,,Aktuel værdi
+Violvænget 125856 Ryslinge,inge,1.140.000,22-02-2006,Alm. Salg,8.260,4,Villa,138,1975,,Aktuel værdi
+Rødamsvej 135856 Ryslinge,inge,630.000,20-02-2006,Alm. Salg,6.300,4,Villa,100,1940,,Aktuel værdi
+Hyldevænget 15856 Ryslinge,inge,750.000,15-02-2006,Alm. Salg,5.859,4,Villa,128,1974,,Aktuel værdi
+Skæretvej 25856 Ryslinge,inge,860.000,28-01-2006,Alm. Salg,7.107,3,Villa,121,1972,,Aktuel værdi
+Leragervej 235856 Ryslinge,inge,1.355.000,09-01-2006,Alm. Salg,8.364,5,Villa,162,1981,,Aktuel værdi
+Enghavevej 225856 Ryslinge,inge,910.000,28-11-2005,Alm. Salg,3.729,7,Villa,244,1900,,Aktuel værdi
+Nygaardsvej 65856 Ryslinge,inge,995.000,24-10-2005,Alm. Salg,7.262,5,Villa,137,1972,,Aktuel værdi
+Skæretvej 155856 Ryslinge,inge,121.656,24-10-2005,Alm. Salg,1.644,3,Villa,74,1860,,Aktuel værdi
+Kildegaardsvej 25856 Ryslinge,inge,960.000,21-10-2005,Alm. Salg,7.111,4,Villa,135,1969,,Aktuel værdi
+Nørremarksgyden 125856 Ryslinge,inge,695.000,13-10-2005,Alm. Salg,6.950,4,Villa,100,1961,,Aktuel værdi
+Maegaardsvej 195856 Ryslinge,inge,368.406,10-10-2005,Alm. Salg,2.540,5,Villa,145,2006,,Aktuel værdi
+Rødamsvej 305856 Ryslinge,inge,1.325.000,03-10-2005,Alm. Salg,8.281,8,Villa,160,1811,,Aktuel værdi
+Bellisvænget 15856 Ryslinge,inge,715.000,03-10-2005,Auktion,6.327,4,Villa,113,1975,,Aktuel værdi
+Rødamsvej 175856 Ryslinge,inge,798.000,28-09-2005,Alm. Salg,7.528,3,Villa,106,1777,,Aktuel værdi
+Tvekildevej 13B5856 Ryslinge,inge,154.695,19-09-2005,Alm. Salg,954,5,Villa,162,2008,,Aktuel værdi
+Kullerupvej 55856 Ryslinge,inge,2.698.750,15-09-2005,Fam. Salg,16.658,3,Stuehus,162,1907,,
+Hesselhavevej 145856 Ryslinge,inge,1.150.000,16-08-2005,Alm. Salg,7.666,5,Villa,150,1964,,Aktuel værdi
+Kløvmosevej 15856 Ryslinge,inge,1.275.000,05-07-2005,Alm. Salg,6.891,5,Villa,185,1902,,Aktuel værdi
+Skæretvej 125856 Ryslinge,inge,1.050.000,29-06-2005,Alm. Salg,7.000,5,Villa,150,1971,,Aktuel værdi
+Violvænget 9A5856 Ryslinge,inge,61.000,15-06-2005,Alm. Salg,535,4,Rækkehus,114,1976,,Aktuel værdi
+Hestehavevej 85856 Ryslinge,inge,1.500.000,13-06-2005,Andet,3.177,11,Villa,472,1851,,Aktuel værdi
+Daugårdsvej 85856 Ryslinge,inge,525.000,01-06-2005,Alm. Salg,8.076,2,Villa,65,1943,,Aktuel værdi
+Højskolevej 85856 Ryslinge,inge,692.500,25-05-2005,Andet,4.382,4,Villa,158,1888,,Aktuel værdi
+Rønnebærvænget 11A5856 Ryslinge,inge,480.000,25-05-2005,Alm. Salg,7.500,2,Rækkehus,64,1978,,Aktuel værdi
+Rødamsvej 615856 Ryslinge,inge,565.852,23-05-2005,Alm. Salg,4.920,4,Villa,115,1946,,Aktuel værdi
+Rønnebærvænget 25856 Ryslinge,inge,870.000,20-05-2005,Alm. Salg,7.310,4,Villa,119,1979,,Aktuel værdi
+Blaakærvej 125856 Ryslinge,inge,770.000,04-05-2005,Alm. Salg,4.476,6,Villa,172,1937,,Aktuel værdi
+Tyttebærvænget 25856 Ryslinge,inge,490.000,01-04-2005,Alm. Salg,3.576,4,Villa,137,1977,,Aktuel værdi
+Krokusvænget 105856 Ryslinge,inge,700.000,31-03-2005,Alm. Salg,7.070,4,Rækkehus,99,1979,,Aktuel værdi
+Kløvmosevej 145856 Ryslinge,inge,750.000,15-03-2005,Alm. Salg,4.360,5,Villa,172,1903,,Aktuel værdi
+Syrenvænget 85856 Ryslinge,inge,785.000,14-03-2005,Alm. Salg,6.038,5,Villa,130,1980,,Aktuel værdi
+Kirkevænget 75856 Ryslinge,inge,475.000,04-03-2005,Alm. Salg,5.722,3,Villa,83,1950,,Aktuel værdi
+Rødamsvej 575856 Ryslinge,inge,550.000,02-03-2005,Alm. Salg,7.051,3,Villa,78,1949,,Aktuel værdi
+Kirkevænget 125856 Ryslinge,inge,847.271,02-03-2005,Alm. Salg,7.180,4,Villa,118,1948,,Aktuel værdi
+Rønnebærvænget 13C5856 Ryslinge,inge,525.000,28-02-2005,Alm. Salg,8.203,2,Rækkehus,64,1978,,Aktuel værdi
+Højholtvej 75856 Ryslinge,inge,695.000,07-02-2005,Alm. Salg,5.110,5,Villa,136,1946,,Aktuel værdi
+Krokusvænget 65856 Ryslinge,inge,364.092,07-02-2005,Alm. Salg,3.677,4,Rækkehus,99,1979,,Aktuel værdi
+Hestehavevej 385856 Ryslinge,inge,1.963.745,10-01-2005,Alm. Salg,10.227,7,Stuehus,192,1849,,
+Hesselhavevej 185856 Ryslinge,inge,443.000,16-12-2004,Alm. Salg,3.631,6,Villa,122,1967,,Aktuel værdi
+Nellikevænget 55856 Ryslinge,inge,1.100.000,19-11-2004,Alm. Salg,7.801,5,Villa,141,1978,,Aktuel værdi
+Irisvænget 115856 Ryslinge,inge,710.000,18-11-2004,Alm. Salg,5.419,4,Villa,131,1974,,Aktuel værdi
+Blaakærvej 115856 Ryslinge,inge,1.000.000,10-11-2004,Alm. Salg,2.976,8,Stuehus,336,1854,,
+Krokusvænget 45856 Ryslinge,inge,635.000,26-10-2004,Alm. Salg,6.614,4,Rækkehus,96,1979,,Aktuel værdi
+Graabjergvej 155856 Ryslinge,inge,1.135.000,21-10-2004,Alm. Salg,5.509,6,Villa,206,1980,,Aktuel værdi
+Primulavænget 125856 Ryslinge,inge,675.000,20-10-2004,Alm. Salg,6.553,3,Rækkehus,103,1982,,Aktuel værdi
+Glasbjergvej 45856 Ryslinge,inge,1.195.000,11-10-2004,Alm. Salg,-,7,Villa,296,1877,,Aktuel værdi
+Rønnebærvænget 1A5856 Ryslinge,inge,380.000,27-09-2004,Alm. Salg,5.846,2,Rækkehus,65,1978,,Aktuel værdi
+Snebærvænget 65856 Ryslinge,inge,1.095.000,16-09-2004,Alm. Salg,4.977,6,Villa,220,1979,,Aktuel værdi
+Højholtvej 145856 Ryslinge,inge,550.565,23-08-2004,Alm. Salg,5.145,4,Villa,107,1918,,Aktuel værdi
+Hestehavevej 405856 Ryslinge,inge,1.175.000,09-07-2004,Alm. Salg,5.064,9,Villa,232,1972,,Aktuel værdi
+Fjellerupvej 125856 Ryslinge,inge,9.500.000,29-06-2004,Alm. Salg,62.500,6,Stuehus,152,1984,,
+Aavej 55856 Ryslinge,inge,267.548,17-06-2004,Fam. Salg,2.972,4,Villa,90,1963,,Aktuel værdi
+Enghavevej 65856 Ryslinge,inge,225.000,14-06-2004,Alm. Salg,2.295,4,Villa,98,1927,,Aktuel værdi
+Højholtvej 85856 Ryslinge,inge,495.000,03-06-2004,Alm. Salg,4.852,5,Villa,102,1934,,Aktuel værdi
+Blaakærvej 145856 Ryslinge,inge,550.000,25-05-2004,Alm. Salg,4.435,4,Villa,124,1930,,Aktuel værdi
+Hestehavevej 55856 Ryslinge,inge,235.000,06-05-2004,Auktion,1.766,3,Villa,133,1904,,Aktuel værdi
+Valmuevænget 25856 Ryslinge,inge,799.349,26-04-2004,Alm. Salg,6.148,4,Villa,130,1976,,Aktuel værdi
+Aaskovvej 225856 Ryslinge,inge,981.660,22-03-2004,Alm. Salg,-,5,Villa,173,1905,,Aktuel værdi
+Rødamsvej 475856 Ryslinge,inge,600.000,19-03-2004,Alm. Salg,-,4,Villa,200,1917,,Aktuel værdi
+Rønnebærvænget 85856 Ryslinge,inge,1.208.747,12-03-2004,Alm. Salg,5.278,5,Villa,229,1980,,Aktuel værdi
+Nellikevænget 45856 Ryslinge,inge,795.000,11-03-2004,Alm. Salg,6.794,4,Villa,117,1976,,Aktuel værdi
+Nørremarksgyden 55856 Ryslinge,inge,1.525.000,12-02-2004,Alm. Salg,8.472,4,Villa,180,1950,,Aktuel værdi
+Gyvelvænget 105856 Ryslinge,inge,625.000,14-01-2004,Alm. Salg,5.580,3,Villa,112,1976,,Aktuel værdi
+Stenager 105856 Ryslinge,inge,1.140.000,10-01-2004,Alm. Salg,7.916,5,Villa,144,1988,,Aktuel værdi
+Fjellerupvej 145856 Ryslinge,inge,1.495.000,08-12-2003,Alm. Salg,8.494,6,Stuehus,176,1922,,
+Slåenvænget 95856 Ryslinge,inge,1.200.000,22-10-2003,Alm. Salg,7.947,5,Villa,151,1978,,Aktuel værdi
+Aaskovvej 85856 Ryslinge,inge,560.000,22-07-2003,Alm. Salg,5.600,4,Villa,100,1907,,Aktuel værdi
+Blåbærvænget 6A5856 Ryslinge,inge,575.000,14-07-2003,Alm. Salg,7.876,3,Rækkehus,73,1983,,Aktuel værdi
+Enebærvænget 5A5856 Ryslinge,inge,400.000,25-06-2003,Alm. Salg,6.349,2,Rækkehus,63,1976,,Aktuel værdi
+Aaskovvej 125856 Ryslinge,inge,1.085.000,28-05-2003,Alm. Salg,-,9,Villa,199,1929,,Aktuel værdi
+Leragervej 75856 Ryslinge,inge,850.000,23-05-2003,Alm. Salg,6.538,4,Villa,130,1970,,Aktuel værdi
+Skæretvej 45856 Ryslinge,inge,925.000,09-05-2003,Alm. Salg,6.514,5,Villa,142,1971,,Aktuel værdi
+Enghavevej 135856 Ryslinge,inge,400.000,18-02-2003,Alm. Salg,2.857,3,Villa,140,1950,,Aktuel værdi
+Rønnebærvænget 5A5856 Ryslinge,inge,460.000,14-02-2003,Alm. Salg,7.076,2,Rækkehus,65,1978,,Aktuel værdi
+Enghavevej 215856 Ryslinge,inge,830.000,09-12-2002,Alm. Salg,6.058,5,Villa,137,1969,,Aktuel værdi
+Ahornvænget 35856 Ryslinge,inge,350.000,30-10-2002,Alm. Salg,3.723,4,Villa,94,1939,,Aktuel værdi
+Rønnebærvænget 7B5856 Ryslinge,inge,475.000,15-10-2002,Alm. Salg,7.539,2,Rækkehus,63,1978,,Aktuel værdi
+Enebærvænget 3B5856 Ryslinge,inge,450.000,25-09-2002,Alm. Salg,7.142,2,Rækkehus,63,1977,,Aktuel værdi
+Hestehavevej 345856 Ryslinge,inge,798.000,13-09-2002,Alm. Salg,5.018,6,Villa,159,1950,,Aktuel værdi
+Kirkevænget 45856 Ryslinge,inge,710.000,01-09-2002,Alm. Salg,5.725,6,Villa,124,1943,,Aktuel værdi
+Stenager 185856 Ryslinge,inge,1.100.000,22-08-2002,Alm. Salg,7.692,5,Villa,143,1995,,Aktuel værdi
+Højholtvej 215856 Ryslinge,inge,434.820,19-08-2002,Alm. Salg,6.489,3,Villa,67,1870,,Aktuel værdi
+Kildegaardsvej 75856 Ryslinge,inge,292.500,13-08-2002,Andet,2.250,5,Villa,130,1970,,Aktuel værdi
+Nørremarksgyden 165856 Ryslinge,inge,1.165.000,01-08-2002,Alm. Salg,7.766,5,Villa,150,1976,,Aktuel værdi
+Nørremarksgyden 225856 Ryslinge,inge,395.000,23-05-2002,Alm. Salg,1.724,5,Stuehus,229,2004,,
+Rødamsvej 385856 Ryslinge,inge,350.000,15-04-2002,Alm. Salg,4.375,4,Villa,80,1880,,Aktuel værdi
+Aavej 535856 Ryslinge,inge,870.000,05-04-2002,Alm. Salg,2.890,6,Stuehus,301,1910,,
+Kløvmosevej 55856 Ryslinge,inge,500.000,26-03-2002,Alm. Salg,4.950,3,Villa,101,1955,,Aktuel værdi
+Rolighedsvænget 35856 Ryslinge,inge,635.000,22-02-2002,Alm. Salg,5.934,4,Villa,107,1954,,Aktuel værdi
+Hestehavevej 535856 Ryslinge,inge,1.000.000,20-01-2002,Fam. Salg,3.703,7,Villa,270,1883,,Aktuel værdi
+Hybenvænget 95856 Ryslinge,inge,700.000,20-01-2002,Fam. Salg,6.250,4,Villa,112,1976,,Aktuel værdi
+Sandbjergvej 85856 Ryslinge,inge,315.166,31-10-2001,Andet,2.626,4,Villa,120,1973,,Aktuel værdi
+Rønnebærvænget 1D5856 Ryslinge,inge,500.540,19-10-2001,Alm. Salg,7.700,2,Rækkehus,65,1978,,Aktuel værdi
+Skæretvej 95856 Ryslinge,inge,300.000,10-08-2001,Alm. Salg,2.205,3,Villa,136,1900,,Aktuel værdi
+Skæretvej 175856 Ryslinge,inge,750.000,06-07-2001,Alm. Salg,-,5,Villa,198,1896,,Aktuel værdi
+Højholtvej 45856 Ryslinge,inge,442.661,19-05-2001,Alm. Salg,3.952,5,Villa,112,1943,,Aktuel værdi
+Luneskovvej 165856 Ryslinge,inge,885.000,04-04-2001,Alm. Salg,6.459,4,Villa,137,1968,,Aktuel værdi
+Nørremarksgyden 205856 Ryslinge,inge,785.000,29-03-2001,Alm. Salg,10.064,3,Villa,78,1827,,Aktuel værdi
+Krokusvænget 205856 Ryslinge,inge,505.000,14-03-2001,Alm. Salg,5.260,4,Rækkehus,96,1979,,Aktuel værdi
+Violvænget 15856 Ryslinge,inge,745.976,13-02-2001,Alm. Salg,5.694,4,Villa,131,1973,,Aktuel værdi
+Tjørnevænget 195856 Ryslinge,inge,550.000,07-02-2001,Alm. Salg,5.238,4,Villa,105,1980,,Aktuel værdi
+Snerlevænget 55856 Ryslinge,inge,565.658,20-12-2000,Alm. Salg,5.713,4,Villa,99,1977,,Aktuel værdi
+Daugårdsvej 25856 Ryslinge,inge,237.578,27-11-2000,Andet,1.856,5,Villa,128,1904,,Aktuel værdi
+Kildegaardsvej 35856 Ryslinge,inge,493.000,04-10-2000,Fam. Salg,5.030,3,Villa,98,1968,,Aktuel værdi
+Lørupvej 35856 Ryslinge,inge,791.009,19-09-2000,Alm. Salg,4.652,5,Villa,170,1933,,Aktuel værdi
+Aavej 335856 Ryslinge,inge,2.540.000,05-07-2000,Alm. Salg,10.762,6,Stuehus,236,1900,,
+Nygaardsvej 175856 Ryslinge,inge,816.000,29-06-2000,Alm. Salg,7.486,4,Villa,109,1970,,Aktuel værdi
+Rødamsvej 365856 Ryslinge,inge,675.000,27-06-2000,Alm. Salg,3.214,4,Villa,210,1900,,Aktuel værdi
+Enebærvænget 65856 Ryslinge,inge,839.790,19-06-2000,Alm. Salg,7.498,4,Villa,112,1977,,Aktuel værdi
+Glasbjergvej 15856 Ryslinge,inge,1.288.000,15-06-2000,Alm. Salg,5.389,8,Villa,239,1907,,Aktuel værdi
+Ullemoseparken 305856 Ryslinge,inge,978.800,21-01-2000,Alm. Salg,7.092,4,Villa,138,1998,,Aktuel værdi
+Stenager 175856 Ryslinge,inge,630.000,06-12-1999,Alm. Salg,8.630,3,Rækkehus,73,1987,,Aktuel værdi
+Snebærvænget 25856 Ryslinge,inge,112.671,08-11-1999,Alm. Salg,771,5,Villa,146,2000,,Aktuel værdi
+Birkevænget 135856 Ryslinge,inge,994.230,11-10-1999,Alm. Salg,6.856,4,Villa,145,1972,,Aktuel værdi
+Violvænget 55856 Ryslinge,inge,825.000,27-08-1999,Alm. Salg,5.156,5,Villa,160,1972,,Aktuel værdi
+Nygaardsvej 45856 Ryslinge,inge,748.000,19-08-1999,Alm. Salg,6.800,4,Villa,110,1970,,Aktuel værdi
+Stenager 285856 Ryslinge,inge,50.000,09-08-1999,Alm. Salg,427,4,Villa,117,2004,,Aktuel værdi
+Liljevænget 85856 Ryslinge,inge,910.000,10-07-1999,Alm. Salg,5.687,4,Villa,160,1974,,Aktuel værdi
+Tjørnevænget 115856 Ryslinge,inge,488.000,08-07-1999,Alm. Salg,4.066,5,Villa,120,1980,,Aktuel værdi
+Primulavænget 45856 Ryslinge,inge,960.000,05-07-1999,Alm. Salg,6.400,4,Villa,150,1986,,Aktuel værdi
+Nellikevænget 65856 Ryslinge,inge,875.000,14-06-1999,Alm. Salg,-,6,Villa,174,1978,,Aktuel værdi
+Enebærvænget 3A5856 Ryslinge,inge,435.000,01-06-1999,Alm. Salg,6.692,2,Rækkehus,65,1977,,Aktuel værdi
+Blaakærvej 15856 Ryslinge,inge,713.000,28-04-1999,Alm. Salg,4.986,6,Villa,143,1936,,Aktuel værdi
+Dalshuse 25856 Ryslinge,inge,636.386,15-04-1999,Alm. Salg,5.582,4,Villa,114,1939,,Aktuel værdi
+Aavej 45856 Ryslinge,inge,612.000,23-02-1999,Alm. Salg,7.285,4,Villa,84,1800,,Aktuel værdi
+Kirkevænget 25856 Ryslinge,inge,190.000,18-01-1999,Auktion,-,3,Villa,88,1940,,Aktuel værdi
+Højholtvej 155856 Ryslinge,inge,591.481,27-11-1998,Alm. Salg,4.770,4,Villa,124,1966,,Aktuel værdi
+Blaakærvej 75856 Ryslinge,inge,663.505,08-10-1998,Alm. Salg,5.026,5,Villa,132,1940,,Aktuel værdi
+Nygaardsvej 115856 Ryslinge,inge,634.000,29-09-1998,Alm. Salg,5.763,3,Villa,110,1969,,Aktuel værdi
+Rødamsvej 185856 Ryslinge,inge,530.000,23-09-1998,Alm. Salg,-,7,Villa,181,1907,,Aktuel værdi
+Irisvænget 45856 Ryslinge,inge,918.507,10-08-1998,Alm. Salg,6.291,4,Villa,146,1974,,Aktuel værdi
+Stenager 265856 Ryslinge,inge,54.166,10-08-1998,Alm. Salg,462,4,Villa,117,2000,,Aktuel værdi
+Valmuevænget 35856 Ryslinge,inge,550.000,17-05-1998,Alm. Salg,4.330,4,Villa,127,1976,,Aktuel værdi
+Enghavevej 45856 Ryslinge,inge,631.000,13-05-1998,Alm. Salg,5.535,4,Villa,114,1974,,Aktuel værdi
+Brinken 15856 Ryslinge,inge,646.855,28-04-1998,Alm. Salg,4.791,5,Villa,135,1965,,Aktuel værdi
+Snerlevænget 125856 Ryslinge,inge,596.000,10-04-1998,Alm. Salg,6.020,4,Villa,99,1978,,Aktuel værdi
+Rolighedsvænget 15856 Ryslinge,inge,608.673,13-03-1998,Alm. Salg,4.682,5,Villa,130,1965,,Aktuel værdi
+Erantisvænget 95856 Ryslinge,inge,138.993,02-03-1998,Alm. Salg,731,6,Villa,190,1999,,Aktuel værdi
+Brinken 85856 Ryslinge,inge,715.995,25-02-1998,Alm. Salg,5.042,5,Villa,142,1966,,Aktuel værdi
+Højholtvej 275856 Ryslinge,inge,736.000,16-02-1998,Alm. Salg,4.810,6,Villa,153,1950,,Aktuel værdi
+Højholtvej 135856 Ryslinge,inge,400.000,11-02-1998,Alm. Salg,1.851,9,Villa,216,1902,,Aktuel værdi
+Hyldevænget 115856 Ryslinge,inge,816.000,06-02-1998,Alm. Salg,6.089,4,Villa,134,1973,,Aktuel værdi
+Fjellerupvej 95856 Ryslinge,inge,382.500,19-01-1998,Fam. Salg,2.045,5,Villa,187,1948,,Aktuel værdi
+Tvekildevej 175856 Ryslinge,inge,119.060,05-01-1998,Alm. Salg,1.653,3,Villa,72,1998,,Aktuel værdi
+Hesselhavevej 165856 Ryslinge,inge,867.000,19-11-1997,Alm. Salg,7.165,3,Villa,121,1969,,Aktuel værdi
+Blåbærvænget 15856 Ryslinge,inge,683.000,11-11-1997,Alm. Salg,5.887,4,Villa,116,1976,,Aktuel værdi
+Hesselhavevej 85856 Ryslinge,inge,861.000,30-10-1997,Alm. Salg,6.284,3,Villa,137,1967,,Aktuel værdi
+Tvekildevej 215856 Ryslinge,inge,84.200,06-10-1997,Alm. Salg,522,5,Villa,161,1998,,Aktuel værdi
+Aaskovvej 105856 Ryslinge,inge,925.000,04-09-1997,Alm. Salg,5.606,6,Villa,165,1902,,Aktuel værdi
+Kildegaardsvej 175856 Ryslinge,inge,633.000,15-08-1997,Alm. Salg,4.984,4,Villa,127,1972,,Aktuel værdi
+Skæretvej 295856 Ryslinge,inge,510.000,07-08-1997,Alm. Salg,5.312,3,Villa,96,1956,,Aktuel værdi
+Snerlevænget 115856 Ryslinge,inge,515.000,01-08-1997,Alm. Salg,5.202,4,Villa,99,1977,,Aktuel værdi
+Violvænget 5A5856 Ryslinge,inge,811.000,18-07-1997,Alm. Salg,5.671,6,Villa,143,1981,,Aktuel værdi
+Aaskovvej 245856 Ryslinge,inge,535.000,06-06-1997,Alm. Salg,4.385,5,Villa,122,1928,,Aktuel værdi
+Rødamsvej 225856 Ryslinge,inge,1.550.000,13-05-1997,Alm. Salg,8.031,6,Villa,193,1916,,Aktuel værdi
+Luneskovvej 45856 Ryslinge,inge,540.659,12-05-1997,Alm. Salg,4.960,6,Villa,109,1967,,Aktuel værdi
+Rødamsvej 115856 Ryslinge,inge,580.906,01-05-1997,Alm. Salg,4.271,3,Villa,136,1942,,Aktuel værdi
+Kirkevænget 105856 Ryslinge,inge,327.500,10-03-1997,Alm. Salg,2.872,5,Villa,114,1944,,Aktuel værdi
+Irisvænget 65856 Ryslinge,inge,607.000,05-03-1997,Alm. Salg,4.934,5,Villa,123,1975,,Aktuel værdi
+Aavej 105856 Ryslinge,inge,564.000,16-02-1997,Alm. Salg,-,8,Villa,210,1880,,Aktuel værdi
+Kullerupvej 65856 Ryslinge,inge,526.000,24-01-1997,Alm. Salg,3.094,5,Villa,170,1934,,Aktuel værdi
+Hesselhavevej 225856 Ryslinge,inge,519.597,29-11-1996,Andet,2.808,7,Villa,185,1969,,Aktuel værdi
+Nørremarksgyden 65856 Ryslinge,inge,390.000,01-11-1996,Alm. Salg,3.611,2,Villa,108,1898,,Aktuel værdi
+Højholtvej 95856 Ryslinge,inge,307.000,28-07-1996,Alm. Salg,3.070,4,Villa,100,1952,,Aktuel værdi
+Irisvænget 55856 Ryslinge,inge,615.000,17-07-1996,Alm. Salg,4.694,3,Villa,131,1974,,Aktuel værdi
+Aaskovvej 145856 Ryslinge,inge,1.241.167,10-07-1996,Alm. Salg,6.637,8,Villa,187,1916,,Aktuel værdi
+Hestehavevej 465856 Ryslinge,inge,550.000,03-07-1996,Alm. Salg,2.696,6,Villa,204,1890,,Aktuel værdi
+Tvekildevej 235856 Ryslinge,inge,95.000,01-07-1996,Alm. Salg,-,6,Villa,168,1996,,Aktuel værdi
+Dalshuse 65856 Ryslinge,inge,825.350,29-04-1996,Alm. Salg,5.653,5,Villa,146,1971,,Aktuel værdi
+Leragervej 115856 Ryslinge,inge,742.000,29-04-1996,Alm. Salg,5.082,3,Villa,146,1972,,Aktuel værdi
+Højholtvej 205856 Ryslinge,inge,675.000,12-04-1996,Alm. Salg,3.813,7,Villa,177,1895,,Aktuel værdi
+Leragervej 255856 Ryslinge,inge,560.000,14-03-1996,Alm. Salg,4.666,4,Villa,120,1974,,Aktuel værdi
+Krokusvænget 15856 Ryslinge,inge,658.500,05-03-1996,Alm. Salg,5.487,4,Villa,120,1979,,Aktuel værdi
+Aaskovvej 205856 Ryslinge,inge,478.000,04-03-1996,Alm. Salg,-,4,Villa,148,1922,,Aktuel værdi
+Hestehavevej 275856 Ryslinge,inge,696.000,13-02-1996,Alm. Salg,3.702,7,Villa,188,1910,,Aktuel værdi
+Rønnebærvænget 11B5856 Ryslinge,inge,314.000,01-02-1996,Alm. Salg,4.906,2,Rækkehus,64,1978,,Aktuel værdi
+Primulavænget 105856 Ryslinge,inge,453.000,05-01-1996,Alm. Salg,3.939,5,Rækkehus,115,1982,,Aktuel værdi
+Rønnebærvænget 3B5856 Ryslinge,inge,321.000,27-11-1995,Alm. Salg,4.652,3,Rækkehus,69,1978,,Aktuel værdi
+Liljevænget 95856 Ryslinge,inge,514.000,20-11-1995,Alm. Salg,-,4,Villa,111,1976,,Aktuel værdi
+Tjørnevænget 105856 Ryslinge,inge,64.854,06-11-1995,Alm. Salg,429,5,Villa,151,1996,,Aktuel værdi
+Kildegaardsvej 6B5856 Ryslinge,inge,782.000,24-10-1995,Alm. Salg,6.982,4,Villa,112,1985,,Aktuel værdi
+Skæretvej 345856 Ryslinge,inge,310.000,12-09-1995,Alm. Salg,3.875,4,Villa,80,1959,,Aktuel værdi
+Hestehavevej 75856 Ryslinge,inge,295.000,30-08-1995,Alm. Salg,2.836,5,Villa,104,1888,,Aktuel værdi
+Aaskovvej 265856 Ryslinge,inge,660.000,15-08-1995,Alm. Salg,-,5,Villa,197,1915,,Aktuel værdi
+Rødamsvej 155856 Ryslinge,inge,298.000,24-07-1995,Alm. Salg,-,6,Villa,271,1864,,Aktuel værdi
+Blåbærvænget 75856 Ryslinge,inge,705.000,06-07-1995,Alm. Salg,4.098,7,Villa,172,1978,,Aktuel værdi
+Tjørnevænget 155856 Ryslinge,inge,360.437,20-06-1995,Alm. Salg,-,4,Villa,105,1980,,Aktuel værdi
+Lupinvænget 55856 Ryslinge,inge,729.000,15-06-1995,Alm. Salg,4.860,4,Villa,150,1978,,Aktuel værdi
+Skæretvej 75856 Ryslinge,inge,986.000,07-06-1995,Alm. Salg,7.303,3,Stuehus,135,1905,,
+Højskolevej 65856 Ryslinge,inge,1.377.500,17-05-1995,Fam. Salg,7.100,6,Stuehus,194,1870,,
+Enghavevej 25856 Ryslinge,inge,464.000,09-05-1995,Alm. Salg,-,5,Villa,128,1914,,Aktuel værdi
+Højskolevej 15856 Ryslinge,inge,1.100.000,10-03-1995,Alm. Salg,6.111,4,Villa,180,1900,,Aktuel værdi
+Leragervej 15856 Ryslinge,inge,756.500,05-03-1995,Alm. Salg,3.152,5,Villa,240,1974,,Aktuel værdi
+Nellikevænget 15856 Ryslinge,inge,550.000,24-02-1995,Alm. Salg,4.583,4,Villa,120,1977,,Aktuel værdi
+Krokusvænget 75856 Ryslinge,inge,515.500,05-01-1995,Alm. Salg,3.875,5,Villa,133,1978,,Aktuel værdi
+Aavej 325856 Ryslinge,inge,306.000,16-12-1994,Alm. Salg,2.508,5,Villa,122,1943,,Aktuel værdi
+Aavej 135856 Ryslinge,inge,360.000,10-11-1994,Andet,2.857,4,Villa,126,1963,,Aktuel værdi
+Syrenvænget 75856 Ryslinge,inge,750.000,06-11-1994,Alm. Salg,5.555,4,Villa,135,1980,,Aktuel værdi
+Hybenvænget 55856 Ryslinge,inge,592.000,02-08-1994,Alm. Salg,5.059,4,Villa,117,1973,,Aktuel værdi
+Rødamsvej 495856 Ryslinge,inge,334.000,29-07-1994,Alm. Salg,3.591,4,Villa,93,1908,,Aktuel værdi
+Syrenvænget 65856 Ryslinge,inge,509.000,27-06-1994,Alm. Salg,3.262,6,Villa,156,1979,,Aktuel værdi
+Højholtvej 335856 Ryslinge,inge,610.000,30-05-1994,Alm. Salg,-,5,Villa,154,1900,,Aktuel værdi
+Enebærvænget 105856 Ryslinge,inge,479.000,16-05-1994,Alm. Salg,-,4,Villa,112,1977,,Aktuel værdi
+Bellisvænget 25856 Ryslinge,inge,535.000,28-04-1994,Alm. Salg,3.639,5,Villa,147,1975,,Aktuel værdi
+Skæretvej 195856 Ryslinge,inge,744.901,24-04-1994,Alm. Salg,4.626,5,Villa,161,1877,,Aktuel værdi
+Kløvmosevej 105856 Ryslinge,inge,477.000,25-03-1994,Alm. Salg,2.757,3,Villa,173,1905,,Aktuel værdi
+Rødamsvej 255856 Ryslinge,inge,350.000,31-01-1994,Alm. Salg,2.348,6,Villa,149,1908,,Aktuel værdi
+Syrenvænget 95856 Ryslinge,inge,670.000,30-01-1994,Alm. Salg,3.045,4,Villa,220,1980,,Aktuel værdi
+Skæretvej 365856 Ryslinge,inge,1.214.000,19-11-1993,Fam. Salg,7.099,6,Stuehus,171,1800,,
+Kløvmosevej 185856 Ryslinge,inge,260.000,29-10-1993,Fam. Salg,2.363,4,Villa,110,1960,,Aktuel værdi
+Højholtvej 65856 Ryslinge,inge,240.000,27-10-1993,Alm. Salg,2.400,3,Villa,100,1946,,Aktuel værdi
+Snerlevænget 95856 Ryslinge,inge,375.000,07-10-1993,Alm. Salg,3.787,4,Villa,99,1977,,Aktuel værdi
+Kløvmosevej 165856 Ryslinge,inge,275.000,28-07-1993,Alm. Salg,1.774,6,Villa,155,1902,,Aktuel værdi
+Hesselhavevej 105856 Ryslinge,inge,400.000,13-04-1993,Alm. Salg,3.418,6,Villa,117,1964,,Aktuel værdi
+Slåenvænget 35856 Ryslinge,inge,575.000,11-03-1993,Alm. Salg,4.600,5,Villa,125,1973,,Aktuel værdi
+Aavej 125856 Ryslinge,inge,490.000,08-03-1993,Alm. Salg,2.882,6,Villa,170,1967,,Aktuel værdi
+Nørremarksgyden 75856 Ryslinge,inge,600.000,08-02-1993,Alm. Salg,2.690,5,Villa,223,1947,,Aktuel værdi
+Syrenvænget 45856 Ryslinge,inge,350.000,04-02-1993,Alm. Salg,-,5,Villa,159,1978,,Aktuel værdi
+Kirkevænget 55856 Ryslinge,inge,430.000,21-01-1993,Alm. Salg,2.388,7,Villa,180,1943,,Aktuel værdi
+Skæretvej 185856 Ryslinge,inge,500.000,22-08-1992,Alm. Salg,3.816,5,Villa,131,1972,,Aktuel værdi
+Stenager 55856 Ryslinge,inge,351.935,08-07-1992,Alm. Salg,4.291,4,Rækkehus,82,1986,,Aktuel værdi
+Leragervej 155856 Ryslinge,inge,487.500,03-07-1992,Alm. Salg,4.352,4,Villa,112,1975,,Aktuel værdi
+Kullerupvej 45856 Ryslinge,inge,1.025.000,07-05-1992,Alm. Salg,5.890,6,Stuehus,174,1902,,
+Skæretvej 35856 Ryslinge,inge,625.000,23-04-1992,Alm. Salg,4.006,7,Villa,156,1933,,Aktuel værdi
+Højholtvej 285856 Ryslinge,inge,415.000,03-04-1992,Alm. Salg,5.060,3,Villa,82,1938,,Aktuel værdi
+Tjørnevænget 235856 Ryslinge,inge,325.000,31-03-1992,Alm. Salg,3.095,4,Villa,105,1980,,Aktuel værdi
+Tyttebærvænget 35856 Ryslinge,inge,465.000,13-03-1992,Alm. Salg,4.151,4,Villa,112,1978,,Aktuel værdi
+Kildegaardsvej 165856 Ryslinge,inge,556.000,09-01-1992,Alm. Salg,3.123,6,Villa,178,1972,,Aktuel værdi

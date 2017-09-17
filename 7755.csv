@@ -1,0 +1,833 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Hedegårdsvej 27755 Bedsted Thy, Thy,631.073,16-03-2017,Alm. Salg,2.755,5,Villa,229,1850,,Aktuel værdi
+Morup Møllevej 557755 Bedsted Thy, Thy,8.275.000,28-02-2017,Alm. Salg,32.968,6,Stuehus,251,1902,,
+Lyngbyvej 247755 Bedsted Thy, Thy,200.000,27-02-2017,Alm. Salg,1.904,4,Villa,105,1904,,Aktuel værdi
+Morup Møllevej 1167755 Bedsted Thy, Thy,10.000,20-02-2017,Alm. Salg,129,3,Villa,77,1914,,Aktuel værdi
+Oddesundvej 2227755 Bedsted Thy, Thy,125.000,03-02-2017,Alm. Salg,1.785,4,Villa,70,1926,0 %,Aktuel værdi
+Iruplundvej 107755 Bedsted Thy, Thy,80.000,30-01-2017,Alm. Salg,800,3,Sommerhus,100,1900,,Aktuel værdi
+Rønheden 417755 Bedsted Thy, Thy,1.950.000,30-01-2017,Alm. Salg,8.986,5,Villa,217,2005,,Aktuel værdi
+Åkandevej 167755 Bedsted Thy, Thy,200.000,26-01-2017,Alm. Salg,1.709,4,Villa,117,1974,,Aktuel værdi
+Hvidbjerggårdsvej 127755 Bedsted Thy, Thy,9.912.500,19-01-2017,Fam. Salg,51.627,6,Stuehus,192,1908,,
+Thybovej 87755 Bedsted Thy, Thy,256.965,19-01-2017,Fam. Salg,1.596,5,Villa,161,1877,,Aktuel værdi
+Lyngbyvej 407755 Bedsted Thy, Thy,560.000,22-12-2016,Alm. Salg,9.333,4,Villa,60,1923,-35 %,Aktuel værdi
+Gundgårdsvej 97755 Bedsted Thy, Thy,270.000,11-12-2016,Alm. Salg,1.525,7,Villa,177,1975,,Aktuel værdi
+Hunskjærvej 37755 Bedsted Thy, Thy,429.446,06-12-2016,Auktion,2.862,5,Stuehus,150,1970,,
+Morup Møllevej 987755 Bedsted Thy, Thy,700.000,15-11-2016,Alm. Salg,3.196,7,Villa,219,1896,,Aktuel værdi
+Skolegade 287755 Bedsted Thy, Thy,545.000,11-11-2016,Alm. Salg,4.037,4,Villa,135,1979,0 %,Aktuel værdi
+"Nordvejen 1, 17755 Bedsted Thy", Thy,50.001,08-11-2016,Auktion,555,4,Villa,90,1939,,Aktuel værdi
+Hedegårdsvej 277755 Bedsted Thy, Thy,90.000,26-10-2016,Alm. Salg,789,6,Villa,114,1922,-5 %,Aktuel værdi
+Grurupvej 97755 Bedsted Thy, Thy,295.000,14-10-2016,Alm. Salg,2.048,7,Villa,144,1877,0 %,Aktuel værdi
+Rishøjvej 157755 Bedsted Thy, Thy,1.315.000,13-10-2016,Alm. Salg,6.414,6,Villa,205,1939,,Aktuel værdi
+Bakkevej 9A7755 Bedsted Thy, Thy,340.000,12-10-2016,Alm. Salg,2.956,4,Villa,115,1966,,Aktuel værdi
+Skovbrynet 127755 Bedsted Thy, Thy,260.628,29-09-2016,Fam. Salg,2.714,4,Villa,96,1965,,Aktuel værdi
+Skolegade 97755 Bedsted Thy, Thy,212.500,26-09-2016,Alm. Salg,1.328,6,Villa,160,1967,,Aktuel værdi
+Villerslevvej 187755 Bedsted Thy, Thy,50.000,16-09-2016,Alm. Salg,595,4,Villa,84,1900,,Aktuel værdi
+Hvidbjerggårdsvej 97755 Bedsted Thy, Thy,350.000,13-09-2016,Alm. Salg,5.833,3,Sommerhus,60,1968,-4 %,Aktuel værdi
+Vestervigvej 1297755 Bedsted Thy, Thy,516.673,09-09-2016,Andet,2.227,9,Stuehus,232,1912,,
+Vestervigvej 427755 Bedsted Thy, Thy,300.000,22-08-2016,Alm. Salg,2.459,5,Villa,122,1927,-8 %,Aktuel værdi
+Hedegårdsvej 267755 Bedsted Thy, Thy,285.000,09-08-2016,Alm. Salg,4.750,4,Villa,60,1890,-3 %,Aktuel værdi
+Kjallerupvej 37755 Bedsted Thy, Thy,1.940.000,02-08-2016,Auktion,16.302,4,Villa,119,1900,,Aktuel værdi
+Rønheden 437755 Bedsted Thy, Thy,1.745.000,25-07-2016,Alm. Salg,12.375,5,Villa,141,2009,-8 %,Aktuel værdi
+Istrupvej 487755 Bedsted Thy, Thy,260.000,22-07-2016,Alm. Salg,2.600,3,Villa,100,1827,-55 %,Aktuel værdi
+Svankærvej 117755 Bedsted Thy, Thy,150.000,14-07-2016,Alm. Salg,1.442,5,Villa,104,1938,-23 %,Aktuel værdi
+Nordre Redningsvej 47755 Bedsted Thy, Thy,2.650.000,07-07-2016,Alm. Salg,24.090,4,Sommerhus,110,1972,,Aktuel værdi
+Vestervigvej 1587755 Bedsted Thy, Thy,700.000,30-06-2016,Alm. Salg,3.743,4,Stuehus,187,1935,,
+Åbrovej 97755 Bedsted Thy, Thy,250.000,30-06-2016,Alm. Salg,1.428,6,Stuehus,175,1975,,
+Nordre Redningsvej 217755 Bedsted Thy, Thy,1.900.000,30-06-2016,Alm. Salg,30.645,3,Sommerhus,62,1978,-3 %,Aktuel værdi
+Skellebjergvej 157755 Bedsted Thy, Thy,95.000,29-06-2016,Alm. Salg,678,4,Villa,140,1917,0 %,Aktuel værdi
+Skovbrynet 67755 Bedsted Thy, Thy,655.000,27-06-2016,Alm. Salg,8.506,3,Villa,77,2013,-6 %,Aktuel værdi
+Oddesundvej 2407755 Bedsted Thy, Thy,765.000,27-06-2016,Alm. Salg,5.100,5,Stuehus,150,1902,,
+Villerslevvej 117755 Bedsted Thy, Thy,295.000,24-06-2016,Alm. Salg,4.609,3,Villa,64,1892,0 %,Aktuel værdi
+Oddesundvej 2367755 Bedsted Thy, Thy,995.000,24-06-2016,Alm. Salg,6.030,8,Villa,165,1923,0 %,Aktuel værdi
+Vestervigvej 657755 Bedsted Thy, Thy,75.000,31-05-2016,Alm. Salg,663,6,Villa,113,1904,,Aktuel værdi
+Vestervigvej 1117755 Bedsted Thy, Thy,71.000,31-05-2016,Auktion,887,3,Stuehus,80,1873,,
+Astavej 17755 Bedsted Thy, Thy,900.000,30-05-2016,Alm. Salg,5.960,7,Sommerhus,151,1920,-10 %,Aktuel værdi
+Vestervigvej 347755 Bedsted Thy, Thy,325.000,27-05-2016,Alm. Salg,2.166,6,Villa,150,1916,0 %,Aktuel værdi
+Møllestræde 57755 Bedsted Thy, Thy,575.000,12-05-2016,Alm. Salg,10.648,2,Villa,54,1910,-11 %,Aktuel værdi
+Kystvejen 647755 Bedsted Thy, Thy,1.270.000,10-05-2016,Alm. Salg,5.427,7,Villa,234,1927,-2 %,Aktuel værdi
+Udsigten 47755 Bedsted Thy, Thy,150.000,20-04-2016,Alm. Salg,2.205,3,Villa,68,1971,-14 %,Aktuel værdi
+Grurupvej 307755 Bedsted Thy, Thy,61.371,05-04-2016,Auktion,461,5,Villa,133,1900,,Aktuel værdi
+Vestervigvej 337755 Bedsted Thy, Thy,92.000,29-03-2016,Auktion,1.095,3,Villa,84,1925,,Aktuel værdi
+Villerslevvej 457755 Bedsted Thy, Thy,495.000,26-03-2016,Alm. Salg,3.300,7,Villa,150,1918,0 %,Aktuel værdi
+Thybovej 57755 Bedsted Thy, Thy,250.000,23-03-2016,Alm. Salg,2.272,4,Villa,110,1933,,Aktuel værdi
+Stormgade 157755 Bedsted Thy, Thy,105.000,22-03-2016,Alm. Salg,394,10,Villa,266,1970,,Aktuel værdi
+Skyumvej 1387755 Bedsted Thy, Thy,3.975.000,17-03-2016,Alm. Salg,23.382,6,Stuehus,170,1862,,
+Vestervigvej 1607755 Bedsted Thy, Thy,50.000,11-03-2016,Alm. Salg,694,4,Villa,72,1931,,Aktuel værdi
+Grurupvej 77755 Bedsted Thy, Thy,450.000,09-03-2016,Alm. Salg,2.368,10,Stuehus,190,1913,,
+Thylandsgade 337755 Bedsted Thy, Thy,225.000,25-02-2016,Alm. Salg,1.679,4,Villa,134,1973,-18 %,Aktuel værdi
+Vestervigvej 1037755 Bedsted Thy, Thy,712.500,12-02-2016,Alm. Salg,5.163,4,Villa,138,1967,-18 %,Aktuel værdi
+Stenskærvej 107755 Bedsted Thy, Thy,2.982.000,03-02-2016,Alm. Salg,16.566,6,Stuehus,180,1887,-17 %,
+Fruegårdsvej 77755 Bedsted Thy, Thy,1.895.000,22-01-2016,Alm. Salg,9.973,6,Villa,190,1908,-5 %,Aktuel værdi
+Nordvejen 37755 Bedsted Thy, Thy,95.000,15-01-2016,Alm. Salg,500,6,Villa,190,1939,0 %,Aktuel værdi
+Thybovej 67755 Bedsted Thy, Thy,650.000,14-01-2016,Alm. Salg,2.765,6,Villa,235,1917,-4 %,Aktuel værdi
+Højbogårdsvej 37755 Bedsted Thy, Thy,150.000,08-01-2016,Fam. Salg,1.530,4,Villa,98,1912,,Aktuel værdi
+Nordre Redningsvej 137755 Bedsted Thy, Thy,942.200,27-12-2015,Fam. Salg,14.721,4,Sommerhus,64,1961,,Aktuel værdi
+Gl. Bedstedvej 127755 Bedsted Thy, Thy,2.825.000,11-12-2015,Alm. Salg,30.706,2,Villa,92,1920,,Aktuel værdi
+Ringvej 117755 Bedsted Thy, Thy,350.000,13-11-2015,Alm. Salg,3.888,4,Villa,90,1966,0 %,Aktuel værdi
+Gl. Bedstedvej 157755 Bedsted Thy, Thy,200.000,11-11-2015,Andet,3.030,3,Villa,66,1913,,Aktuel værdi
+Lyngbyvej 627755 Bedsted Thy, Thy,462.750,05-11-2015,Andet,3.989,6,Sommerhus,116,1918,,Aktuel værdi
+Vestervigvej 1007755 Bedsted Thy, Thy,2.242.700,04-11-2015,Andet,13.038,8,Villa,172,1970,,Aktuel værdi
+Astavej 187755 Bedsted Thy, Thy,1.900.000,23-10-2015,Alm. Salg,22.352,8,Sommerhus,85,1976,-13 %,Aktuel værdi
+Hedegårdsvej 107755 Bedsted Thy, Thy,275.000,19-10-2015,Alm. Salg,2.310,2,Villa,119,1954,-20 %,Aktuel værdi
+Visbyvej 47755 Bedsted Thy, Thy,460.000,12-10-2015,Alm. Salg,3.865,4,Villa,119,1968,-4 %,Aktuel værdi
+Syrenvej 77755 Bedsted Thy, Thy,275.000,09-10-2015,Alm. Salg,1.656,6,Villa,166,1965,-15 %,Aktuel værdi
+Vestervigvej 1427755 Bedsted Thy, Thy,465.170,11-09-2015,Andet,2.258,6,Stuehus,206,1914,,
+Ingersmindevej 27755 Bedsted Thy, Thy,160.000,17-08-2015,Alm. Salg,1.333,5,Villa,120,1957,-9 %,Aktuel værdi
+Frederiksvej 37755 Bedsted Thy, Thy,256.702,27-07-2015,Andet,2.399,3,Villa,107,1916,,Aktuel værdi
+Brydbjergvej 77755 Bedsted Thy, Thy,2.097.000,02-07-2015,Alm. Salg,13.106,6,Stuehus,160,1929,,
+Gl. Bedstedvej 1B7755 Bedsted Thy, Thy,466.500,29-06-2015,Alm. Salg,5.553,4,Villa,84,1913,,Aktuel værdi
+Villerslevvej 207755 Bedsted Thy, Thy,485.000,28-06-2015,Alm. Salg,2.852,6,Villa,170,1918,0 %,Aktuel værdi
+Vestervigvej 1747755 Bedsted Thy, Thy,1.290.000,24-06-2015,Alm. Salg,9.280,4,Stuehus,139,1915,-14 %,
+Villerslevvej 107755 Bedsted Thy, Thy,130.000,24-06-2015,Auktion,1.326,6,Villa,98,1953,,Aktuel værdi
+Astavej 57755 Bedsted Thy, Thy,1.000.000,23-06-2015,Fam. Salg,4.405,8,Sommerhus,227,1918,,Aktuel værdi
+Lyngbyvej 287755 Bedsted Thy, Thy,625.000,22-06-2015,Alm. Salg,5.122,5,Villa,122,1888,-17 %,Aktuel værdi
+Hvidbjerggårdsvej 67755 Bedsted Thy, Thy,630.000,03-06-2015,Alm. Salg,2.943,8,Villa,214,1979,-26 %,Aktuel værdi
+Oddesundvej 2427755 Bedsted Thy, Thy,150.100,03-06-2015,Auktion,1.293,3,Villa,116,1989,,Aktuel værdi
+Vestervigvej 1257755 Bedsted Thy, Thy,400.000,02-06-2015,Fam. Salg,4.597,5,Villa,87,1923,,Aktuel værdi
+Brydbjergvej 57755 Bedsted Thy, Thy,795.000,15-05-2015,Alm. Salg,6.309,4,Villa,126,1900,-11 %,Aktuel værdi
+Rosenvænget 107755 Bedsted Thy, Thy,740.000,12-05-2015,Alm. Salg,4.378,5,Villa,169,1973,-1 %,Aktuel værdi
+Morup Møllevej 1087755 Bedsted Thy, Thy,495.000,07-03-2015,Alm. Salg,2.302,14,Industri o.l.,215,1934,0 %,Aktuel værdi
+Gyvelvænget 147755 Bedsted Thy, Thy,580.000,03-03-2015,Alm. Salg,4.873,4,Villa,119,1975,-3 %,Aktuel værdi
+Svindborgvej 97755 Bedsted Thy, Thy,2.920.000,03-03-2015,Alm. Salg,13.333,7,Villa,219,1940,-1 %,Aktuel værdi
+Højbogårdsvej 107755 Bedsted Thy, Thy,287.000,24-02-2015,Alm. Salg,3.986,5,Villa,72,1910,,Aktuel værdi
+Morup Møllevej 1247755 Bedsted Thy, Thy,495.000,23-02-2015,Alm. Salg,3.132,5,Villa,158,1915,0 %,Aktuel værdi
+Morup Møllevej 87755 Bedsted Thy, Thy,130.000,22-02-2015,Alm. Salg,1.140,5,Villa,114,1916,-35 %,Aktuel værdi
+Højbogårdsvej 117755 Bedsted Thy, Thy,516.200,18-02-2015,Fam. Salg,2.660,8,Stuehus,194,1900,,
+Højbogårdsvej 27755 Bedsted Thy, Thy,565.000,21-01-2015,Fam. Salg,4.124,4,Villa,137,1873,-12 %,Aktuel værdi
+Dalgårdvej 17755 Bedsted Thy, Thy,325.000,21-01-2015,Alm. Salg,2.708,4,Villa,120,1950,,Aktuel værdi
+Vestervigvej 557755 Bedsted Thy, Thy,250.000,31-12-2014,Alm. Salg,1.190,6,Villa,210,1984,,Aktuel værdi
+Kystvejen 857755 Bedsted Thy, Thy,525.000,11-12-2014,Alm. Salg,2.807,6,Stuehus,187,1930,-32 %,
+Vestervigvej 477755 Bedsted Thy, Thy,1.200.000,02-12-2014,Alm. Salg,8.823,4,Villa,136,2014,,Aktuel værdi
+Hedegårdsvej 437755 Bedsted Thy, Thy,1.824.711,01-12-2014,Fam. Salg,8.294,6,Villa,220,1915,,Aktuel værdi
+Morup Møllevej 407755 Bedsted Thy, Thy,1.470.000,27-11-2014,Alm. Salg,5.568,7,Villa,264,1956,-2 %,Aktuel værdi
+Morup Møllevej 967755 Bedsted Thy, Thy,110.000,25-11-2014,Alm. Salg,797,6,Villa,138,1928,,Aktuel værdi
+Stormgade 317755 Bedsted Thy, Thy,395.000,13-11-2014,Alm. Salg,3.405,4,Villa,116,1977,-28 %,Aktuel værdi
+Morup Møllevej 37755 Bedsted Thy, Thy,590.000,11-11-2014,Alm. Salg,3.881,6,Villa,152,1927,-5 %,Aktuel værdi
+Tinghøjvej 67755 Bedsted Thy, Thy,1.300.000,06-11-2014,Alm. Salg,6.372,5,Stuehus,204,1917,,
+Rosenvænget 87755 Bedsted Thy, Thy,225.000,03-11-2014,Alm. Salg,2.556,3,Villa,88,1972,0 %,Aktuel værdi
+Nordre Redningsvej 117755 Bedsted Thy, Thy,1.205.000,12-10-2014,Alm. Salg,15.855,3,Sommerhus,76,1978,-10 %,Aktuel værdi
+Nordre Redningsvej 57755 Bedsted Thy, Thy,1.350.000,09-10-2014,Alm. Salg,19.285,4,Villa,70,2015,,Aktuel værdi
+Lyngbyvej 517755 Bedsted Thy, Thy,300.000,02-10-2014,Fam. Salg,4.761,4,Sommerhus,63,1977,,Aktuel værdi
+Morup Møllevej 1047755 Bedsted Thy, Thy,185.000,19-09-2014,Alm. Salg,1.681,4,Villa,110,1964,-5 %,Aktuel værdi
+Vestervigvej 60B7755 Bedsted Thy, Thy,180.000,09-09-2014,Alm. Salg,1.551,4,Villa,116,1974,-27 %,Aktuel værdi
+Skovlyvej 117755 Bedsted Thy, Thy,1.075.000,01-09-2014,Alm. Salg,12.356,5,Sommerhus,87,1989,-2 %,Aktuel værdi
+Skovvej 27755 Bedsted Thy, Thy,390.000,29-08-2014,Alm. Salg,5.571,4,Villa,70,1964,-1 %,Aktuel værdi
+Villerslevvej 77755 Bedsted Thy, Thy,207.000,25-08-2014,Fam. Salg,2.875,3,Villa,72,1962,,Aktuel værdi
+Vittrupvej 187755 Bedsted Thy, Thy,775.000,22-08-2014,Alm. Salg,4.305,5,Stuehus,180,1925,,
+Horsfeldvej 127755 Bedsted Thy, Thy,865.000,20-08-2014,Alm. Salg,3.405,9,Villa,254,1977,0 %,Aktuel værdi
+Lyngbyvej 267755 Bedsted Thy, Thy,540.000,04-08-2014,Fam. Salg,4.615,7,Sommerhus,117,1932,,Aktuel værdi
+Villerslevvej 227755 Bedsted Thy, Thy,410.000,01-08-2014,Alm. Salg,3.388,5,Villa,121,1962,-10 %,Aktuel værdi
+Visbyvej 57755 Bedsted Thy, Thy,1.075.000,11-07-2014,Alm. Salg,5.972,5,Stuehus,180,1910,0 %,
+Skolegade 37755 Bedsted Thy, Thy,1.347.000,10-07-2014,Alm. Salg,8.418,5,Stuehus,160,1900,-13 %,
+Horsfeldvej 67755 Bedsted Thy, Thy,1.200.000,08-07-2014,Alm. Salg,8.450,5,Stuehus,142,1937,-3 %,
+Grurupvej 137755 Bedsted Thy, Thy,545.000,17-04-2014,Alm. Salg,7.171,5,Villa,76,1920,0 %,Aktuel værdi
+Visbyvej 77755 Bedsted Thy, Thy,1.375.000,01-04-2014,Alm. Salg,6.138,6,Stuehus,224,1920,,
+Thylandsgade 467755 Bedsted Thy, Thy,400.000,27-03-2014,Alm. Salg,4.444,3,Villa,90,1910,-10 %,Aktuel værdi
+Ingersmindevej 37755 Bedsted Thy, Thy,1.210.000,24-03-2014,Alm. Salg,5.000,10,Stuehus,242,1900,-7 %,
+Hedegårdsvej 337755 Bedsted Thy, Thy,440.000,17-03-2014,Alm. Salg,3.235,5,Villa,136,1900,-19 %,Aktuel værdi
+Hedegårdsvej 567755 Bedsted Thy, Thy,670.000,11-03-2014,Alm. Salg,5.075,5,Villa,132,1960,-16 %,Aktuel værdi
+Vestervigvej 1087755 Bedsted Thy, Thy,172.500,03-03-2014,Alm. Salg,1.487,4,Villa,116,1940,-23 %,Aktuel værdi
+Udsigten 127755 Bedsted Thy, Thy,400.000,28-02-2014,Alm. Salg,1.619,7,Villa,247,1980,-6 %,Aktuel værdi
+Skolegade 2B7755 Bedsted Thy, Thy,330.000,20-02-2014,Alm. Salg,2.558,4,Villa,129,1978,-10 %,Aktuel værdi
+Madstedvej 107755 Bedsted Thy, Thy,4.296.000,28-01-2014,Alm. Salg,26.850,5,Stuehus,160,1930,,
+Vestervigvej 847755 Bedsted Thy, Thy,275.000,22-01-2014,Auktion,1.267,5,Erhverv,217,1917,,Aktuel værdi
+Skellebjergvej 37755 Bedsted Thy, Thy,1.375.000,20-01-2014,Alm. Salg,6.773,7,Villa,203,1942,-4 %,Aktuel værdi
+Tandrupvej 27755 Bedsted Thy, Thy,800.000,20-12-2013,Alm. Salg,5.000,5,Stuehus,160,1908,,
+Skovvej 67755 Bedsted Thy, Thy,760.000,07-12-2013,Alm. Salg,3.917,6,Villa,194,1975,-32 %,Aktuel værdi
+Stormgade 237755 Bedsted Thy, Thy,440.000,29-11-2013,Alm. Salg,3.728,4,Villa,118,1979,-7 %,Aktuel værdi
+Harregårdsvej 17755 Bedsted Thy, Thy,1.334.000,19-11-2013,Alm. Salg,6.119,9,Stuehus,218,1953,-4 %,
+Irisvej 137755 Bedsted Thy, Thy,236.640,17-11-2013,Alm. Salg,2.885,3,Villa,82,1972,-11 %,Aktuel værdi
+Lyngholmvej 37755 Bedsted Thy, Thy,495.000,14-11-2013,Alm. Salg,4.419,4,Stuehus,112,1934,,
+Madstedvej 47755 Bedsted Thy, Thy,257.000,29-10-2013,Alm. Salg,1.103,5,Stuehus,233,1923,,
+Brydbjergvej 47755 Bedsted Thy, Thy,325.000,25-10-2013,Alm. Salg,1.836,6,Villa,177,1930,-13 %,Aktuel værdi
+Iruplundvej 217755 Bedsted Thy, Thy,160.000,08-10-2013,Alm. Salg,1.777,5,Villa,90,1900,,Aktuel værdi
+Gartnervænget 17755 Bedsted Thy, Thy,370.000,27-09-2013,Alm. Salg,2.936,3,Villa,126,1976,-3 %,Aktuel værdi
+Syrenvej 97755 Bedsted Thy, Thy,50.000,11-09-2013,Auktion,420,4,Villa,119,1966,,Aktuel værdi
+Oddesundvej 2327755 Bedsted Thy, Thy,606.896,05-09-2013,Alm. Salg,4.045,5,Stuehus,150,1912,,
+Stormgade 97755 Bedsted Thy, Thy,63.000,04-09-2013,Auktion,642,4,Villa,98,1957,-82 %,Aktuel værdi
+Stormgade 537755 Bedsted Thy, Thy,305.000,02-09-2013,Andet,2.210,5,Villa,138,1979,,Aktuel værdi
+Morup Møllevej 677755 Bedsted Thy, Thy,2.300.000,01-09-2013,Alm. Salg,19.166,5,Stuehus,120,1915,,
+Frederiksvej 127755 Bedsted Thy, Thy,427.500,30-08-2013,Alm. Salg,3.392,5,Villa,126,1965,-5 %,Aktuel værdi
+Østergårdvej 37755 Bedsted Thy, Thy,700.000,29-08-2013,Alm. Salg,4.166,7,Villa,168,1890,-10 %,Aktuel værdi
+Stormgade 297755 Bedsted Thy, Thy,360.000,27-08-2013,Alm. Salg,3.750,3,Villa,96,1979,,Aktuel værdi
+Villerupvej 77755 Bedsted Thy, Thy,290.000,14-08-2013,Alm. Salg,2.301,3,Villa,126,1900,,Aktuel værdi
+Rosenvænget 57755 Bedsted Thy, Thy,300.000,08-08-2013,Alm. Salg,2.112,5,Villa,142,1974,-24 %,Aktuel værdi
+Stormgade 427755 Bedsted Thy, Thy,180.000,07-08-2013,Alm. Salg,3.000,3,Rækkehus,60,1975,,Aktuel værdi
+Lyngbyvej 617755 Bedsted Thy, Thy,850.000,12-07-2013,Alm. Salg,11.805,4,Villa,72,1924,-29 %,Aktuel værdi
+Thylandsgade 447755 Bedsted Thy, Thy,395.000,27-06-2013,Alm. Salg,2.925,7,Villa,135,1918,-11 %,Aktuel værdi
+Skellebjergvej 27755 Bedsted Thy, Thy,10.300.000,24-06-2013,Andet,37.318,7,Stuehus,276,1860,,
+Morup Møllevej 567755 Bedsted Thy, Thy,800.000,24-06-2013,Andet,5.128,6,Stuehus,156,1910,,
+Oddesundvej 2487755 Bedsted Thy, Thy,345.000,14-06-2013,Alm. Salg,2.331,7,Villa,148,1960,0 %,Aktuel værdi
+Rønheden 27755 Bedsted Thy, Thy,1.200.000,10-06-2013,Alm. Salg,7.361,4,Villa,163,2002,-13 %,Aktuel værdi
+Hedegårdsvej 497755 Bedsted Thy, Thy,245.000,31-05-2013,Alm. Salg,2.041,5,Villa,120,1932,0 %,Aktuel værdi
+Rønheden 217755 Bedsted Thy, Thy,1.250.000,28-05-2013,Alm. Salg,8.865,4,Villa,141,2005,-3 %,Aktuel værdi
+Åkandevej 27755 Bedsted Thy, Thy,250.000,27-05-2013,Alm. Salg,2.083,4,Villa,120,1975,-15 %,Aktuel værdi
+Nordre Redningsvej 157755 Bedsted Thy, Thy,1.200.000,24-05-2013,Alm. Salg,14.117,3,Sommerhus,85,2014,,Aktuel værdi
+Villerslevvej 237755 Bedsted Thy, Thy,275.000,21-05-2013,Alm. Salg,2.182,6,Villa,126,1920,0 %,Aktuel værdi
+Irisvej 37755 Bedsted Thy, Thy,150.000,14-05-2013,Alm. Salg,1.851,4,Villa,81,1972,-39 %,Aktuel værdi
+Morup Møllevej 847755 Bedsted Thy, Thy,575.000,06-05-2013,Alm. Salg,4.049,6,Villa,142,1924,0 %,Aktuel værdi
+Højensvej 47755 Bedsted Thy, Thy,1.100.000,19-04-2013,Alm. Salg,7.432,7,Villa,148,1916,0 %,Aktuel værdi
+Thylandsgade 527755 Bedsted Thy, Thy,710.000,16-04-2013,Alm. Salg,4.201,8,Villa,169,1958,-5 %,Aktuel værdi
+Kildedal 107755 Bedsted Thy, Thy,100.000,15-04-2013,Fam. Salg,1.388,4,Villa,72,1877,,Aktuel værdi
+Syrenvej 107755 Bedsted Thy, Thy,188.000,10-04-2013,Auktion,1.790,4,Villa,105,1968,-52 %,Aktuel værdi
+Rosenvænget 97755 Bedsted Thy, Thy,340.000,08-04-2013,Alm. Salg,1.942,5,Villa,175,1970,-14 %,Aktuel værdi
+Kystvejen 727755 Bedsted Thy, Thy,4.562.500,25-03-2013,Fam. Salg,30.416,6,Stuehus,150,1918,,
+Vilhelmsmindevej 97755 Bedsted Thy, Thy,350.000,25-03-2013,Alm. Salg,2.734,3,Stuehus,128,1924,0 %,
+Skyumvej 1397755 Bedsted Thy, Thy,460.595,23-03-2013,Fam. Salg,2.631,7,Villa,175,1923,,Aktuel værdi
+Skyumvej 1417755 Bedsted Thy, Thy,1.350.000,10-03-2013,Alm. Salg,9.121,7,Stuehus,148,1909,-3 %,
+Villerslevvej 837755 Bedsted Thy, Thy,975.000,09-03-2013,Alm. Salg,4.620,5,Stuehus,211,1907,-39 %,
+Blomstervænget 27755 Bedsted Thy, Thy,30.000,22-02-2013,Alm. Salg,243,4,Villa,123,1961,,Aktuel værdi
+Visbyvej 87755 Bedsted Thy, Thy,350.000,21-02-2013,Alm. Salg,2.500,5,Villa,140,1971,-39 %,Aktuel værdi
+Gartnervænget 137755 Bedsted Thy, Thy,300.000,21-01-2013,Alm. Salg,2.542,4,Villa,118,1975,-24 %,Aktuel værdi
+Østergade 257755 Bedsted Thy, Thy,350.000,16-01-2013,Auktion,2.380,4,Villa,147,1933,,Aktuel værdi
+Villerupvej 117755 Bedsted Thy, Thy,8.000.000,11-01-2013,Alm. Salg,47.058,4,Stuehus,170,1933,,
+Kystvejen 617755 Bedsted Thy, Thy,1.571.676,10-01-2013,Fam. Salg,10.205,5,Stuehus,154,1998,,
+Skovlyvej 227755 Bedsted Thy, Thy,470.100,14-12-2012,Fam. Salg,4.701,5,Sommerhus,100,1975,,Aktuel værdi
+Vestervigvej 677755 Bedsted Thy, Thy,87.500,08-12-2012,Alm. Salg,875,4,Villa,100,1904,0 %,Aktuel værdi
+Skellebjergvej 67755 Bedsted Thy, Thy,300.000,05-12-2012,Alm. Salg,2.419,5,Villa,124,1884,-25 %,Aktuel værdi
+Åkærsvej 17755 Bedsted Thy, Thy,402.593,29-11-2012,Alm. Salg,4.025,4,Sommerhus,100,1875,,Aktuel værdi
+Gyvelvænget 157755 Bedsted Thy, Thy,450.000,24-11-2012,Alm. Salg,3.750,3,Villa,120,1977,,Aktuel værdi
+Vestervigvej 97755 Bedsted Thy, Thy,395.000,07-11-2012,Alm. Salg,4.157,3,Villa,95,1870,-7 %,Aktuel værdi
+Lyngbyvej 477755 Bedsted Thy, Thy,1.030.000,30-10-2012,Alm. Salg,9.716,5,Sommerhus,106,1918,,Aktuel værdi
+Vestervigvej 1067755 Bedsted Thy, Thy,50.000,29-10-2012,Alm. Salg,340,6,Villa,147,1950,,Aktuel værdi
+Stormgade 357755 Bedsted Thy, Thy,450.000,18-10-2012,Alm. Salg,4.687,3,Villa,96,1980,-5 %,Aktuel værdi
+Syrenvej 87755 Bedsted Thy, Thy,250.000,08-10-2012,Alm. Salg,2.941,4,Villa,85,1966,-9 %,Aktuel værdi
+Ingersmindevej 87755 Bedsted Thy, Thy,38.234,03-10-2012,Auktion,101,15,Døgninstitution,375,1895,,Aktuel værdi
+Kjærgaardsvej 47755 Bedsted Thy, Thy,365.410,27-08-2012,Alm. Salg,2.706,6,Villa,135,1962,,Aktuel værdi
+Villerslevvej 47755 Bedsted Thy, Thy,1.012.500,07-08-2012,Alm. Salg,3.894,7,Villa,260,1973,-6 %,Aktuel værdi
+Vestervigvej 617755 Bedsted Thy, Thy,150.000,25-07-2012,Auktion,2.678,2,Villa,56,1927,,Aktuel værdi
+Gartnervænget 207755 Bedsted Thy, Thy,535.000,24-07-2012,Alm. Salg,3.715,4,Villa,144,1976,-2 %,Aktuel værdi
+Villerslevvej 617755 Bedsted Thy, Thy,205.000,02-07-2012,Alm. Salg,2.050,5,Villa,100,1968,-9 %,Aktuel værdi
+Morup Møllevej 717755 Bedsted Thy, Thy,387.500,27-06-2012,Auktion,4.843,10,Servicevirksomhed,80,1864,,Aktuel værdi
+Ørum Kirkevej 37755 Bedsted Thy, Thy,600.000,22-06-2012,Alm. Salg,3.973,4,Villa,151,1880,-14 %,Aktuel værdi
+Vestervigvej 487755 Bedsted Thy, Thy,375.000,14-06-2012,Alm. Salg,2.388,6,Villa,157,1945,-41 %,Aktuel værdi
+Brydbjergvej 107755 Bedsted Thy, Thy,400.000,14-06-2012,Alm. Salg,4.347,5,Stuehus,92,1898,,
+Gyvelvænget 177755 Bedsted Thy, Thy,325.000,16-05-2012,Alm. Salg,2.754,3,Villa,118,1975,,Aktuel værdi
+Grurupvej 19A7755 Bedsted Thy, Thy,92.500,08-05-2012,Alm. Salg,1.850,3,Sommerhus,50,1950,,Aktuel værdi
+Vestervigvej 1077755 Bedsted Thy, Thy,325.000,27-04-2012,Alm. Salg,2.500,6,Villa,130,1958,0 %,Aktuel værdi
+Svankærvej 77755 Bedsted Thy, Thy,438.913,15-02-2012,Fam. Salg,1.986,7,Villa,221,1927,,Aktuel værdi
+Hedegårdsvej 297755 Bedsted Thy, Thy,40.000,08-02-2012,Alm. Salg,261,6,Villa,153,1907,,Aktuel værdi
+Gyvelvænget 167755 Bedsted Thy, Thy,835.000,07-02-2012,Alm. Salg,3.568,9,Villa,234,1975,-1 %,Aktuel værdi
+Morup Møllevej 67755 Bedsted Thy, Thy,195.000,24-01-2012,Alm. Salg,1.822,5,Villa,107,1913,,Aktuel værdi
+Østergade 87755 Bedsted Thy, Thy,250.000,13-01-2012,Alm. Salg,2.380,10,Industri o.l.,105,1912,,Aktuel værdi
+Villerslevvej 607755 Bedsted Thy, Thy,695.000,07-01-2012,Alm. Salg,4.793,3,Villa,145,1872,-7 %,Aktuel værdi
+Rosenvænget 127755 Bedsted Thy, Thy,270.000,05-01-2012,Auktion,2.030,6,Villa,133,1972,-45 %,Aktuel værdi
+Lyngholmvej 27755 Bedsted Thy, Thy,240.000,19-12-2011,Alm. Salg,2.526,3,Villa,95,1931,-9 %,Aktuel værdi
+Højbogårdsvej 77755 Bedsted Thy, Thy,480.000,12-12-2011,Andet,3.356,5,Villa,143,1930,,Aktuel værdi
+Stationsvej 57755 Bedsted Thy, Thy,260.000,02-12-2011,Alm. Salg,2.476,3,Villa,105,1955,,Aktuel værdi
+Villerslevvej 497755 Bedsted Thy, Thy,535.000,24-11-2011,Alm. Salg,3.639,6,Villa,147,1958,,Aktuel værdi
+Vestervigvej 1397755 Bedsted Thy, Thy,575.000,23-11-2011,Auktion,3.506,10,Villa,164,1955,,Aktuel værdi
+Kjallerupvej 57755 Bedsted Thy, Thy,1.730.000,16-11-2011,Alm. Salg,10.484,6,Stuehus,165,1877,-1 %,
+Jordemodervej 17755 Bedsted Thy, Thy,1.070.000,25-10-2011,Alm. Salg,6.772,4,Villa,158,1906,,Aktuel værdi
+Kjærgaardsvej 37755 Bedsted Thy, Thy,175.000,25-10-2011,Alm. Salg,1.750,4,Villa,100,1962,,Aktuel værdi
+Vestervigvej 727755 Bedsted Thy, Thy,225.000,24-10-2011,Alm. Salg,3.214,5,Lejlighed,70,1900,0 %,Aktuel værdi
+Villerslevvej 177755 Bedsted Thy, Thy,200.000,20-10-2011,Alm. Salg,1.886,6,Villa,106,1939,,Aktuel værdi
+Morup Møllevej 767755 Bedsted Thy, Thy,100.000,17-10-2011,Alm. Salg,666,4,Villa,150,1900,-47 %,Aktuel værdi
+Lethsvej 17755 Bedsted Thy, Thy,1.105.302,13-10-2011,Alm. Salg,4.764,6,Villa,232,2011,,Aktuel værdi
+Stationsvej 67755 Bedsted Thy, Thy,250.000,12-10-2011,Auktion,1.785,4,Villa,140,1934,-69 %,Aktuel værdi
+Rønheden 87755 Bedsted Thy, Thy,1.680.000,03-10-2011,Alm. Salg,10.500,5,Villa,160,1999,,Aktuel værdi
+Morup Møllevej 237755 Bedsted Thy, Thy,80.476,21-09-2011,Auktion,804,4,Villa,100,1950,,Aktuel værdi
+Skovbrynet 57755 Bedsted Thy, Thy,410.000,20-09-2011,Alm. Salg,4.659,4,Sommerhus,88,1887,,Aktuel værdi
+Østergade 207755 Bedsted Thy, Thy,350.000,06-09-2011,Andet,2.095,8,Villa,167,1913,-11 %,Aktuel værdi
+Istrupvej 417755 Bedsted Thy, Thy,672.296,06-09-2011,Fam. Salg,5.378,5,Stuehus,125,1914,,
+Stenskærvej 67755 Bedsted Thy, Thy,1.295.000,31-08-2011,Alm. Salg,7.848,7,Villa,165,1875,0 %,Aktuel værdi
+Kjallerupvej 17755 Bedsted Thy, Thy,135.000,31-08-2011,Alm. Salg,725,4,Villa,186,2015,,Aktuel værdi
+Dalgårdvej 37755 Bedsted Thy, Thy,1.995.000,30-08-2011,Alm. Salg,7.823,6,Villa,255,1895,0 %,Aktuel værdi
+Storkærvej 47755 Bedsted Thy, Thy,1.525.000,30-08-2011,Alm. Salg,-,5,Stuehus,258,1889,-4 %,
+Stormgade 437755 Bedsted Thy, Thy,950.000,30-08-2011,Alm. Salg,6.168,5,Villa,154,1978,,Aktuel værdi
+Stormgade 407755 Bedsted Thy, Thy,175.000,01-08-2011,Alm. Salg,2.916,3,Rækkehus,60,1975,-20 %,Aktuel værdi
+Hvidbjerggårdsvej 197755 Bedsted Thy, Thy,300.000,08-07-2011,Alm. Salg,3.896,2,Sommerhus,77,2015,,Aktuel værdi
+Gl. Bedstedvej 67755 Bedsted Thy, Thy,553.394,29-06-2011,Auktion,-,4,Villa,129,1935,,Aktuel værdi
+Villerslevvej 217755 Bedsted Thy, Thy,55.000,29-06-2011,Auktion,447,3,Villa,123,1902,0 %,Aktuel værdi
+Thylandsgade 4C7755 Bedsted Thy, Thy,47.655,29-06-2011,Auktion,257,3,Rækkehus,185,1932,,Aktuel værdi
+Brogårdsvej 27755 Bedsted Thy, Thy,875.000,31-05-2011,Alm. Salg,3.586,5,Villa,244,1907,-12 %,Aktuel værdi
+Vestervigvej 287755 Bedsted Thy, Thy,385.326,11-05-2011,Auktion,3.350,4,Villa,115,1880,,Aktuel værdi
+Brogårdsvej 97755 Bedsted Thy, Thy,1.200.000,05-05-2011,Alm. Salg,4.918,5,Stuehus,244,1965,,
+Hedegårdsvej 347755 Bedsted Thy, Thy,1.215.340,29-04-2011,Alm. Salg,3.739,9,Stuehus,325,1900,,
+Kystvejen 787755 Bedsted Thy, Thy,15.890.000,20-04-2011,Alm. Salg,56.548,10,Stuehus,281,1873,,
+Morup Møllevej 1067755 Bedsted Thy, Thy,600.000,06-04-2011,Alm. Salg,3.508,4,Villa,171,1964,-23 %,Aktuel værdi
+Lodbjergvej 437755 Bedsted Thy, Thy,270.000,02-04-2011,Alm. Salg,2.842,4,Stuehus,95,1887,-5 %,
+Vestervigvej 277755 Bedsted Thy, Thy,250.000,28-03-2011,Alm. Salg,2.777,5,Stuehus,90,1930,-68 %,
+Kirkebakken 67755 Bedsted Thy, Thy,125.000,25-01-2011,Andet,912,5,Villa,137,1900,,Aktuel værdi
+Gartnervænget 67755 Bedsted Thy, Thy,275.000,24-01-2011,Alm. Salg,3.395,3,Rækkehus,81,1977,-7 %,Aktuel værdi
+Gudnæsvej 247755 Bedsted Thy, Thy,1.295.000,22-12-2010,Alm. Salg,7.617,8,Villa,170,1961,,Aktuel værdi
+Morup Møllevej 577755 Bedsted Thy, Thy,1.575.000,22-12-2010,Alm. Salg,6.589,8,Villa,239,1913,-20 %,Aktuel værdi
+Hedegårdsvej 167755 Bedsted Thy, Thy,425.000,21-12-2010,Alm. Salg,5.120,4,Villa,83,1907,-5 %,Aktuel værdi
+Lyngbyvej 317755 Bedsted Thy, Thy,1.070.000,19-12-2010,Fam. Salg,6.645,6,Villa,161,1908,,Aktuel værdi
+Morup Møllevej 927755 Bedsted Thy, Thy,150.000,06-10-2010,Alm. Salg,819,6,Stuehus,183,1932,,
+Vestervigvej 447755 Bedsted Thy, Thy,425.000,30-09-2010,Alm. Salg,3.320,4,Villa,128,1955,0 %,Aktuel værdi
+Stormgade 137755 Bedsted Thy, Thy,395.000,30-08-2010,Alm. Salg,3.291,6,Villa,120,1961,0 %,Aktuel værdi
+Morup Møllevej 167755 Bedsted Thy, Thy,900.000,24-08-2010,Alm. Salg,5.844,3,Villa,154,1960,,Aktuel værdi
+Lyngbyvej 497755 Bedsted Thy, Thy,1.625.000,11-08-2010,Alm. Salg,15.931,6,Sommerhus,102,1935,-3 %,Aktuel værdi
+Stormgade 57755 Bedsted Thy, Thy,404.103,01-07-2010,Fam. Salg,3.367,5,Villa,120,1952,,Aktuel værdi
+Vestervigvej 1F7755 Bedsted Thy, Thy,1.400.000,26-06-2010,Alm. Salg,7.070,8,Stuehus,198,1908,-6 %,
+Højensvej 27755 Bedsted Thy, Thy,775.000,19-05-2010,Alm. Salg,4.725,5,Villa,164,1928,,Aktuel værdi
+Åkandevej 127755 Bedsted Thy, Thy,555.000,14-05-2010,Alm. Salg,4.021,4,Villa,138,1975,-17 %,Aktuel værdi
+Gundgårdsvej 137755 Bedsted Thy, Thy,646.004,30-04-2010,Andet,2.037,10,Stuehus,317,1927,,
+Lyngbyvej 397755 Bedsted Thy, Thy,861.250,28-04-2010,Alm. Salg,5.666,5,Villa,152,1924,,Aktuel værdi
+Balsbyvej 47755 Bedsted Thy, Thy,302.500,26-04-2010,Alm. Salg,2.700,4,Villa,112,1964,6 %,Aktuel værdi
+Lodbjergvej 547755 Bedsted Thy, Thy,1.700.000,16-04-2010,Alm. Salg,9.139,5,Villa,186,1930,,Aktuel værdi
+Svindborgvej 77755 Bedsted Thy, Thy,637.500,12-04-2010,Fam. Salg,4.553,6,Sommerhus,140,1897,,Aktuel værdi
+Nordvejen 97755 Bedsted Thy, Thy,390.000,22-03-2010,Alm. Salg,3.095,4,Villa,126,1955,-16 %,Aktuel værdi
+Stenskærvej 87755 Bedsted Thy, Thy,1.340.000,13-03-2010,Alm. Salg,5.560,11,Villa,241,1941,-3 %,Aktuel værdi
+Stormgade 27755 Bedsted Thy, Thy,825.000,11-03-2010,Alm. Salg,8.593,3,Villa,96,1974,0 %,Aktuel værdi
+Gundgårdsvej 187755 Bedsted Thy, Thy,1.450.000,05-03-2010,Alm. Salg,7.880,5,Villa,184,1880,,Aktuel værdi
+Skovlyvej 77755 Bedsted Thy, Thy,1.537.500,05-03-2010,Alm. Salg,13.727,5,Sommerhus,112,2004,-2 %,Aktuel værdi
+Horsfeldvej 107755 Bedsted Thy, Thy,975.000,19-02-2010,Alm. Salg,6.093,6,Villa,160,1880,0 %,Aktuel værdi
+Ringvej 67755 Bedsted Thy, Thy,325.000,08-02-2010,Alm. Salg,4.220,4,Villa,77,1933,,Aktuel værdi
+Sølystvej 97755 Bedsted Thy, Thy,100.000,04-02-2010,Auktion,588,6,Villa,170,1939,,Aktuel værdi
+Skolegade 137755 Bedsted Thy, Thy,625.000,15-01-2010,Alm. Salg,4.310,5,Villa,145,1967,-7 %,Aktuel værdi
+Vestervigvej 1437755 Bedsted Thy, Thy,470.000,07-01-2010,Auktion,4.700,4,Villa,100,1956,-27 %,Aktuel værdi
+Vittrupvej 57755 Bedsted Thy, Thy,950.000,28-12-2009,Alm. Salg,4.589,5,Stuehus,207,1977,-5 %,
+Vestervigvej 647755 Bedsted Thy, Thy,100.000,09-11-2009,Fam. Salg,456,6,Villa,219,1918,,Aktuel værdi
+Lodbjergvej 457755 Bedsted Thy, Thy,850.000,19-10-2009,Alm. Salg,5.312,6,Villa,160,1898,-10 %,Aktuel værdi
+Hvidbjerggårdsvej 167755 Bedsted Thy, Thy,1.422.616,14-10-2009,Fam. Salg,10.460,5,Stuehus,136,1877,,
+Hedegårdsvej 127755 Bedsted Thy, Thy,560.000,20-09-2009,Alm. Salg,5.656,4,Villa,99,1930,-4 %,Aktuel værdi
+Istrupvej 467755 Bedsted Thy, Thy,1.297.500,16-09-2009,Alm. Salg,-,5,Villa,234,1852,,Aktuel værdi
+Præstegårdsvænget 97755 Bedsted Thy, Thy,825.000,14-09-2009,Alm. Salg,-,4,Villa,148,1908,10 %,Aktuel værdi
+Thylandsgade 247755 Bedsted Thy, Thy,545.000,10-09-2009,Alm. Salg,4.780,3,Villa,114,1907,0 %,Aktuel værdi
+Rønheden 107755 Bedsted Thy, Thy,920.000,10-09-2009,Alm. Salg,6.764,5,Villa,136,1984,-2 %,Aktuel værdi
+Rosenvænget 67755 Bedsted Thy, Thy,660.000,03-09-2009,Alm. Salg,4.489,6,Villa,147,1969,,Aktuel værdi
+Kirkebakken 27755 Bedsted Thy, Thy,375.000,18-08-2009,Alm. Salg,2.678,6,Villa,140,1880,-6 %,Aktuel værdi
+Nørgårdsvej 87755 Bedsted Thy, Thy,500.000,14-08-2009,Alm. Salg,3.048,7,Villa,164,1960,,Aktuel værdi
+Skovlyvej 377755 Bedsted Thy, Thy,800.000,14-08-2009,Alm. Salg,9.411,4,Sommerhus,85,1972,0 %,Aktuel værdi
+Østermarksvej 37755 Bedsted Thy, Thy,240.000,10-07-2009,Alm. Salg,-,5,Villa,128,1944,,Aktuel værdi
+Spolumvej 67755 Bedsted Thy, Thy,11.700.000,18-06-2009,Andet,45.000,7,Stuehus,260,1976,,
+Spolumvej 87755 Bedsted Thy, Thy,39.764.000,08-06-2009,Andet,121.231,8,Stuehus,328,1912,,
+Vestervigvej 297755 Bedsted Thy, Thy,7.412.082,07-05-2009,Alm. Salg,39.217,7,Villa,189,1919,,Aktuel værdi
+Vestervigvej 507755 Bedsted Thy, Thy,101.000,06-05-2009,Auktion,789,3,Villa,128,1917,,Aktuel værdi
+Nordvejen 67755 Bedsted Thy, Thy,450.000,30-04-2009,Alm. Salg,3.461,5,Villa,130,1921,0 %,Aktuel værdi
+Bakgårdsvej 17755 Bedsted Thy, Thy,525.000,20-03-2009,Alm. Salg,3.476,8,Villa,151,1955,-16 %,Aktuel værdi
+Gyvelvænget 67755 Bedsted Thy, Thy,790.000,13-03-2009,Alm. Salg,6.124,5,Villa,129,1973,,Aktuel værdi
+Østergade 57755 Bedsted Thy, Thy,2.200.000,13-03-2009,Alm. Salg,15.602,6,Industri o.l.,141,1930,,Aktuel værdi
+Ringvej 37755 Bedsted Thy, Thy,475.000,03-03-2009,Alm. Salg,3.769,5,Villa,126,1932,-2 %,Aktuel værdi
+Villerslevvej 587755 Bedsted Thy, Thy,7.406.980,13-02-2009,Fam. Salg,31.519,5,Stuehus,235,1900,,
+Gudnæsvej 37755 Bedsted Thy, Thy,2.800.000,02-02-2009,Alm. Salg,10.218,6,Villa,274,1999,-3 %,Aktuel værdi
+Åbrovej 237755 Bedsted Thy, Thy,700.000,31-01-2009,Alm. Salg,4.545,4,Villa,154,1921,-11 %,Aktuel værdi
+Hedegårdsvej 557755 Bedsted Thy, Thy,609.730,13-01-2009,Alm. Salg,3.586,6,Stuehus,170,1911,,
+Lodbjergvej 647755 Bedsted Thy, Thy,387.800,04-01-2009,Alm. Salg,-,7,Stuehus,244,1928,,
+Nedergårdsvej 17755 Bedsted Thy, Thy,600.000,15-12-2008,Fam. Salg,3.703,7,Villa,162,1931,,Aktuel værdi
+Møllestræde 117755 Bedsted Thy, Thy,595.000,17-11-2008,Alm. Salg,8.380,3,Villa,71,1877,0 %,Aktuel værdi
+Højbogårdsvej 137755 Bedsted Thy, Thy,2.175.000,03-11-2008,Alm. Salg,10.767,4,Stuehus,202,1975,,
+Skolegade 67755 Bedsted Thy, Thy,550.000,28-10-2008,Alm. Salg,5.445,3,Villa,101,1961,-8 %,Aktuel værdi
+Vestervigvej 227755 Bedsted Thy, Thy,348.500,22-10-2008,Fam. Salg,5.361,3,Villa,65,1922,,Aktuel værdi
+Villerslevvej 17755 Bedsted Thy, Thy,520.000,22-09-2008,Alm. Salg,3.661,5,Villa,142,1967,0 %,Aktuel værdi
+Astavej 107755 Bedsted Thy, Thy,3.000.000,20-09-2008,Alm. Salg,44.776,4,Sommerhus,67,1979,,Aktuel værdi
+Skyumvej 1477755 Bedsted Thy, Thy,915.000,19-09-2008,Andet,3.812,6,Stuehus,240,1923,,
+Gartnervænget 57755 Bedsted Thy, Thy,450.000,19-09-2008,Alm. Salg,3.191,6,Villa,141,1976,-3 %,Aktuel værdi
+Ringvej 97755 Bedsted Thy, Thy,365.000,17-09-2008,Alm. Salg,4.866,3,Villa,75,1968,-14 %,Aktuel værdi
+Villerslevvej 277755 Bedsted Thy, Thy,435.000,14-09-2008,Alm. Salg,3.020,5,Villa,144,1877,,Aktuel værdi
+Thylandsgade 237755 Bedsted Thy, Thy,260.000,08-09-2008,Alm. Salg,2.080,4,Villa,125,1902,,Aktuel værdi
+Vittrupvej 167755 Bedsted Thy, Thy,140.000,02-09-2008,Alm. Salg,1.772,3,Villa,79,1877,,Aktuel værdi
+Iruplundvej 87755 Bedsted Thy, Thy,2.510.000,17-08-2008,Alm. Salg,11.728,5,Stuehus,214,1963,-5 %,
+Visbyvej 17755 Bedsted Thy, Thy,475.000,12-08-2008,Alm. Salg,4.241,4,Villa,112,1934,-4 %,Aktuel værdi
+Morup Møllevej 77755 Bedsted Thy, Thy,200.000,11-08-2008,Auktion,1.724,4,Villa,116,1917,,Aktuel værdi
+Lyngbyvej 157755 Bedsted Thy, Thy,400.000,30-07-2008,Fam. Salg,3.636,3,Sommerhus,110,1961,,Aktuel værdi
+Stationsvej 27755 Bedsted Thy, Thy,320.000,27-07-2008,Alm. Salg,3.440,3,Villa,93,1962,,Aktuel værdi
+Kjærgaardsvej 67755 Bedsted Thy, Thy,770.000,23-07-2008,Alm. Salg,5.347,6,Villa,144,1966,,Aktuel værdi
+Stormgade 557755 Bedsted Thy, Thy,650.000,13-07-2008,Alm. Salg,4.710,5,Villa,138,1978,-6 %,Aktuel værdi
+Åkandevej 187755 Bedsted Thy, Thy,745.000,24-06-2008,Alm. Salg,5.730,4,Villa,130,1973,0 %,Aktuel værdi
+Gyvelvænget 107755 Bedsted Thy, Thy,332.914,09-06-2008,Andet,2.219,5,Villa,150,1973,,Aktuel værdi
+Gartnervænget 227755 Bedsted Thy, Thy,650.000,29-05-2008,Alm. Salg,7.647,3,Villa,85,1977,0 %,Aktuel værdi
+Skyumvej 1557755 Bedsted Thy, Thy,150.000,21-05-2008,Alm. Salg,1.000,6,Villa,150,1857,,Aktuel værdi
+Hedegårdsvej 237755 Bedsted Thy, Thy,75.000,09-05-2008,Alm. Salg,416,5,Stuehus,180,1877,,
+Morup Møllevej 267755 Bedsted Thy, Thy,735.000,28-04-2008,Alm. Salg,4.106,7,Villa,179,1958,-5 %,Aktuel værdi
+Stenskærvej 37755 Bedsted Thy, Thy,255.581,14-04-2008,Alm. Salg,1.452,6,Villa,176,1872,-7 %,Aktuel værdi
+Stormgade 607755 Bedsted Thy, Thy,295.000,02-04-2008,Alm. Salg,4.916,3,Rækkehus,60,1975,,Aktuel værdi
+Østergårdvej 17755 Bedsted Thy, Thy,905.000,02-04-2008,Alm. Salg,3.415,9,Villa,265,1965,,Aktuel værdi
+Gyvelvænget 127755 Bedsted Thy, Thy,745.000,26-03-2008,Alm. Salg,4.656,6,Villa,160,1975,,Aktuel værdi
+Galgebakkevej 77755 Bedsted Thy, Thy,1.050.000,24-03-2008,Fam. Salg,5.198,5,Stuehus,202,1938,,
+Nordre Redningsvej 177755 Bedsted Thy, Thy,2.750.000,22-03-2008,Alm. Salg,43.650,2,Sommerhus,63,2005,,Aktuel værdi
+Lyngbyvej 177755 Bedsted Thy, Thy,1.550.000,18-03-2008,Alm. Salg,18.674,4,Sommerhus,83,1880,0 %,Aktuel værdi
+Lyngbyvej 217755 Bedsted Thy, Thy,3.250.000,13-03-2008,Alm. Salg,20.569,6,Villa,158,1927,,Aktuel værdi
+Visbyvej 177755 Bedsted Thy, Thy,965.000,13-03-2008,Alm. Salg,5.132,8,Villa,188,1922,0 %,Aktuel værdi
+Svankærvej 47755 Bedsted Thy, Thy,350.000,11-03-2008,Alm. Salg,2.916,4,Villa,120,1932,-7 %,Aktuel værdi
+Dalgårdvej 167755 Bedsted Thy, Thy,610.000,07-03-2008,Alm. Salg,4.265,2,Villa,143,1887,,Aktuel værdi
+Østergade 77755 Bedsted Thy, Thy,726.000,01-03-2008,Alm. Salg,4.033,6,Villa,180,1924,,Aktuel værdi
+Visbyvej 257755 Bedsted Thy, Thy,1.795.000,28-02-2008,Alm. Salg,7.907,9,Stuehus,227,1906,0 %,
+Vestervigvej 247755 Bedsted Thy, Thy,765.700,25-02-2008,Alm. Salg,6.276,3,Villa,122,1912,-55 %,Aktuel værdi
+Skovvej 37755 Bedsted Thy, Thy,483.581,22-02-2008,Andet,4.740,3,Villa,102,1956,,Aktuel værdi
+Vestervigvej 1497755 Bedsted Thy, Thy,200.500,20-02-2008,Andet,1.245,4,Villa,161,1919,,Aktuel værdi
+Rishøjvej 17755 Bedsted Thy, Thy,278.987,12-02-2008,Fam. Salg,2.268,3,Villa,123,1900,,Aktuel værdi
+Lyngbyvej 197755 Bedsted Thy, Thy,1.200.000,07-02-2008,Alm. Salg,-,4,Villa,166,1924,,Aktuel værdi
+Svankærvej 137755 Bedsted Thy, Thy,560.000,25-01-2008,Alm. Salg,6.153,4,Villa,91,1938,-3 %,Aktuel værdi
+Hedegårdsvej 547755 Bedsted Thy, Thy,495.000,21-01-2008,Alm. Salg,5.051,3,Villa,98,1977,0 %,Aktuel værdi
+Thylandsgade 187755 Bedsted Thy, Thy,770.000,21-01-2008,Alm. Salg,5.065,7,Villa,152,1934,-3 %,Aktuel værdi
+Rønheden 67755 Bedsted Thy, Thy,104.610,21-01-2008,Alm. Salg,864,5,Villa,121,2008,,Aktuel værdi
+Stormgade 77755 Bedsted Thy, Thy,570.000,16-01-2008,Alm. Salg,4.596,4,Villa,124,1953,-4 %,Aktuel værdi
+Bakkevej 67755 Bedsted Thy, Thy,450.000,15-01-2008,Alm. Salg,2.812,6,Villa,160,1966,-5 %,Aktuel værdi
+Østergade 107755 Bedsted Thy, Thy,555.000,08-01-2008,Alm. Salg,4.236,5,Villa,131,1962,,Aktuel værdi
+Gudnæsvej 87755 Bedsted Thy, Thy,1.567.500,04-01-2008,Alm. Salg,13.062,4,Villa,120,1944,,Aktuel værdi
+Morup Møllevej 1207755 Bedsted Thy, Thy,445.000,20-12-2007,Alm. Salg,3.272,7,Villa,136,1913,,Aktuel værdi
+Skovvej 97755 Bedsted Thy, Thy,850.000,18-12-2007,Alm. Salg,5.029,7,Stuehus,169,1907,,
+Morup Møllevej 607755 Bedsted Thy, Thy,430.000,17-12-2007,Fam. Salg,4.777,3,Villa,90,1963,,Aktuel værdi
+Lyngbyvej 127755 Bedsted Thy, Thy,462.157,16-12-2007,Fam. Salg,9.243,3,Villa,50,1967,,Aktuel værdi
+Thylandsgade 37755 Bedsted Thy, Thy,525.000,28-11-2007,Alm. Salg,2.419,6,Villa,217,1904,-2 %,Aktuel værdi
+Kirkebakken 87755 Bedsted Thy, Thy,465.000,27-11-2007,Alm. Salg,3.100,5,Villa,150,1924,-5 %,Aktuel værdi
+Villerslevvej 417755 Bedsted Thy, Thy,415.000,24-11-2007,Alm. Salg,2.441,6,Villa,170,1955,0 %,Aktuel værdi
+Galgebakkevej 17755 Bedsted Thy, Thy,1.275.000,09-11-2007,Alm. Salg,7.919,6,Stuehus,161,1908,,
+Tværgade 17755 Bedsted Thy, Thy,300.000,06-11-2007,Alm. Salg,2.631,3,Villa,114,1933,-8 %,Aktuel værdi
+Kjallerupvej 27755 Bedsted Thy, Thy,670.000,22-10-2007,Fam. Salg,3.366,7,Villa,199,1875,,Aktuel værdi
+Østergade 157755 Bedsted Thy, Thy,435.000,18-10-2007,Alm. Salg,3.595,8,Villa,121,1915,0 %,Aktuel værdi
+Fruegårdsvej 37755 Bedsted Thy, Thy,1.750.000,09-10-2007,Alm. Salg,7.743,6,Stuehus,226,1959,-1 %,
+Gudnæsvej 147755 Bedsted Thy, Thy,1.200.000,04-10-2007,Alm. Salg,7.741,5,Sommerhus,155,2011,0 %,Aktuel værdi
+Brydbjergvej 67755 Bedsted Thy, Thy,545.000,25-09-2007,Alm. Salg,3.811,5,Stuehus,143,1852,0 %,
+Bakkevej 37755 Bedsted Thy, Thy,445.000,10-09-2007,Alm. Salg,-,9,Villa,185,1960,0 %,Aktuel værdi
+Gudnæsvej 267755 Bedsted Thy, Thy,1.075.000,06-09-2007,Alm. Salg,6.178,4,Villa,174,1900,,Aktuel værdi
+Morup Møllevej 837755 Bedsted Thy, Thy,1.030.974,28-08-2007,Alm. Salg,4.242,8,Villa,243,1983,,Aktuel værdi
+Morup Møllevej 19A7755 Bedsted Thy, Thy,355.000,28-08-2007,Alm. Salg,3.413,2,Villa,104,1949,-8 %,Aktuel værdi
+Bakkevej 47755 Bedsted Thy, Thy,795.000,28-08-2007,Alm. Salg,5.063,5,Villa,157,1962,0 %,Aktuel værdi
+Vestervigvej 1057755 Bedsted Thy, Thy,395.000,20-08-2007,Alm. Salg,4.157,3,Villa,95,1958,,Aktuel værdi
+Kystvejen 627755 Bedsted Thy, Thy,650.000,08-08-2007,Alm. Salg,2.372,8,Villa,274,1880,,Aktuel værdi
+Brydbjergvej 87755 Bedsted Thy, Thy,1.580.000,31-07-2007,Alm. Salg,5.163,8,Stuehus,306,2008,,
+Skovlyvej 127755 Bedsted Thy, Thy,795.000,28-07-2007,Alm. Salg,-,7,Sommerhus,138,1974,,Aktuel værdi
+Vestervigvej 667755 Bedsted Thy, Thy,340.000,13-07-2007,Alm. Salg,3.777,5,Villa,90,1908,-14 %,Aktuel værdi
+Grurupvej 157755 Bedsted Thy, Thy,740.000,10-07-2007,Alm. Salg,8.043,5,Stuehus,92,1900,-3 %,
+Thylandsgade 317755 Bedsted Thy, Thy,675.000,05-07-2007,Alm. Salg,5.192,7,Villa,130,1976,0 %,Aktuel værdi
+Redningsvej 77755 Bedsted Thy, Thy,1.550.000,28-06-2007,Alm. Salg,31.000,3,Sommerhus,50,1965,0 %,Aktuel værdi
+Valmuevej 17755 Bedsted Thy, Thy,585.000,23-06-2007,Alm. Salg,4.642,4,Villa,126,1972,,Aktuel værdi
+Brogårdsvej 77755 Bedsted Thy, Thy,2.875.000,15-06-2007,Alm. Salg,10.687,8,Stuehus,269,1915,,
+Skellebjergvej 117755 Bedsted Thy, Thy,30.000,13-06-2007,Alm. Salg,340,4,Villa,88,1907,,Aktuel værdi
+Villerslevvej 437755 Bedsted Thy, Thy,475.000,13-06-2007,Alm. Salg,5.459,3,Villa,87,1950,,Aktuel værdi
+Stormgade 547755 Bedsted Thy, Thy,330.000,12-06-2007,Alm. Salg,5.500,3,Rækkehus,60,1976,,Aktuel værdi
+Skovlyvej 167755 Bedsted Thy, Thy,416.500,07-06-2007,Fam. Salg,6.941,4,Sommerhus,60,1972,,Aktuel værdi
+Skovbrynet 107755 Bedsted Thy, Thy,420.000,31-05-2007,Alm. Salg,8.400,3,Sommerhus,50,1910,-20 %,Aktuel værdi
+Rosenvænget 137755 Bedsted Thy, Thy,335.000,30-05-2007,Alm. Salg,2.791,5,Villa,120,1968,0 %,Aktuel værdi
+Astrupvej 27755 Bedsted Thy, Thy,10.126.363,28-05-2007,Alm. Salg,112.515,5,Stuehus,90,1929,,
+Skolegade 157755 Bedsted Thy, Thy,625.000,25-05-2007,Alm. Salg,4.340,6,Villa,144,1967,,Aktuel værdi
+Stormgade 197755 Bedsted Thy, Thy,670.000,16-05-2007,Alm. Salg,5.677,4,Villa,118,1987,-4 %,Aktuel værdi
+Ringvej 107755 Bedsted Thy, Thy,250.000,09-05-2007,Alm. Salg,2.232,3,Villa,112,1921,,Aktuel værdi
+Syrenvej 67755 Bedsted Thy, Thy,545.000,07-05-2007,Alm. Salg,5.677,4,Villa,96,1965,,Aktuel værdi
+Morup Møllevej 787755 Bedsted Thy, Thy,295.000,07-05-2007,Alm. Salg,2.950,4,Villa,100,1909,0 %,Aktuel værdi
+Vestervigvej 1027755 Bedsted Thy, Thy,240.000,16-04-2007,Alm. Salg,1.832,6,Villa,131,1943,-20 %,Aktuel værdi
+Frederiksvej 107755 Bedsted Thy, Thy,435.000,12-04-2007,Fam. Salg,2.543,4,Villa,171,1907,,Aktuel værdi
+Rønheden 167755 Bedsted Thy, Thy,550.000,02-03-2007,Alm. Salg,4.230,3,Villa,130,1981,-4 %,Aktuel værdi
+Rønheden 247755 Bedsted Thy, Thy,94.194,15-02-2007,Alm. Salg,455,5,Villa,207,2009,,Aktuel værdi
+Kjærgaardsvej 27755 Bedsted Thy, Thy,210.000,08-02-2007,Alm. Salg,2.916,3,Villa,72,1962,,Aktuel værdi
+Morup Møllevej 127755 Bedsted Thy, Thy,275.000,02-02-2007,Alm. Salg,1.909,5,Villa,144,1930,-20 %,Aktuel værdi
+Østermarksvej 57755 Bedsted Thy, Thy,295.000,31-01-2007,Alm. Salg,2.107,5,Villa,140,1946,0 %,Aktuel værdi
+Spangbjergvej 17755 Bedsted Thy, Thy,2.130.000,23-01-2007,Alm. Salg,15.661,4,Stuehus,136,1922,10 %,
+Foldagervej 37755 Bedsted Thy, Thy,3.300.000,15-12-2006,Andet,25.781,4,Villa,128,1949,,Aktuel værdi
+Gl. Bedstedvej 27755 Bedsted Thy, Thy,165.000,07-12-2006,Alm. Salg,3.055,2,Villa,54,1920,,Aktuel værdi
+Kjærgaardsvej 17755 Bedsted Thy, Thy,500.000,04-12-2006,Fam. Salg,5.000,5,Villa,100,1961,,Aktuel værdi
+Vestervigvej 467755 Bedsted Thy, Thy,435.600,01-12-2006,Alm. Salg,3.723,4,Villa,117,1890,,Aktuel værdi
+Thylandsgade 147755 Bedsted Thy, Thy,411.439,22-11-2006,Alm. Salg,2.671,3,Villa,154,1912,,Aktuel værdi
+Lilbjergvej 27755 Bedsted Thy, Thy,4.298.000,21-11-2006,Alm. Salg,35.816,3,Stuehus,120,1941,,
+Vestervigvej 107755 Bedsted Thy, Thy,5.914.545,17-11-2006,Alm. Salg,32.858,8,Stuehus,180,1973,,
+Morup Møllevej 307755 Bedsted Thy, Thy,525.000,31-10-2006,Alm. Salg,5.833,3,Villa,90,1956,,Aktuel værdi
+Gundgårdsvej 67755 Bedsted Thy, Thy,320.000,30-10-2006,Fam. Salg,2.560,4,Villa,125,1934,,Aktuel værdi
+Vestervigvej 1047755 Bedsted Thy, Thy,745.000,13-10-2006,Alm. Salg,4.487,5,Villa,166,1953,,Aktuel værdi
+Tværgade 47755 Bedsted Thy, Thy,606.276,20-09-2006,Alm. Salg,3.031,6,Villa,200,1917,,Aktuel værdi
+Vestervigvej 907755 Bedsted Thy, Thy,250.000,20-09-2006,Alm. Salg,3.906,3,Villa,64,1934,,Aktuel værdi
+Åbrovej 137755 Bedsted Thy, Thy,3.300.000,19-09-2006,Alm. Salg,34.375,4,Villa,96,1956,,Aktuel værdi
+Vilhelmsmindevej 17755 Bedsted Thy, Thy,450.000,15-09-2006,Alm. Salg,3.688,4,Stuehus,122,1924,,
+Rønheden 397755 Bedsted Thy, Thy,470.000,08-09-2006,Alm. Salg,7.580,2,Rækkehus,62,1989,,Aktuel værdi
+Morup Møllevej 587755 Bedsted Thy, Thy,425.000,25-08-2006,Alm. Salg,5.312,2,Villa,80,1900,,Aktuel værdi
+Vestervigvej 417755 Bedsted Thy, Thy,370.000,24-08-2006,Alm. Salg,2.387,5,Villa,155,1950,,Aktuel værdi
+Oddesundvej 1957755 Bedsted Thy, Thy,150.000,17-08-2006,Alm. Salg,1.875,3,Villa,80,1896,,Aktuel værdi
+Morup Møllevej 1267755 Bedsted Thy, Thy,250.000,31-07-2006,Alm. Salg,1.937,4,Villa,129,1931,,Aktuel værdi
+Kystvejen 677755 Bedsted Thy, Thy,150.000,31-07-2006,Alm. Salg,1.315,5,Villa,114,2012,,Aktuel værdi
+Rosen Alle 17755 Bedsted Thy, Thy,415.000,26-05-2006,Alm. Salg,3.705,5,Villa,112,1925,,Aktuel værdi
+Morup Møllevej 697755 Bedsted Thy, Thy,295.000,24-04-2006,Alm. Salg,2.950,3,Villa,100,1908,,Aktuel værdi
+Skolegade 227755 Bedsted Thy, Thy,805.000,29-03-2006,Alm. Salg,6.338,4,Villa,127,1965,,Aktuel værdi
+Grurupvej 237755 Bedsted Thy, Thy,1.850.000,14-03-2006,Fam. Salg,18.500,4,Stuehus,100,1895,,
+Nordvejen 107755 Bedsted Thy, Thy,415.000,09-03-2006,Alm. Salg,3.458,8,Villa,120,1972,,Aktuel værdi
+Stormgade 447755 Bedsted Thy, Thy,300.000,03-03-2006,Alm. Salg,5.000,3,Rækkehus,60,1974,,Aktuel værdi
+Thylandsgade 427755 Bedsted Thy, Thy,200.000,24-02-2006,Alm. Salg,2.352,3,Villa,85,1918,,Aktuel værdi
+Hedegårdsvej 477755 Bedsted Thy, Thy,545.000,20-01-2006,Alm. Salg,5.343,4,Villa,102,1927,,Aktuel værdi
+Astrupvej 47755 Bedsted Thy, Thy,1.025.000,17-01-2006,Alm. Salg,4.880,6,Villa,210,1983,,Aktuel værdi
+Vestervigvej 1627755 Bedsted Thy, Thy,385.000,13-01-2006,Fam. Salg,1.726,4,Villa,223,1927,,Aktuel værdi
+Balsbyvej 67755 Bedsted Thy, Thy,450.000,07-01-2006,Alm. Salg,4.166,4,Villa,108,1963,,Aktuel værdi
+Skovlyvej 187755 Bedsted Thy, Thy,770.000,26-12-2005,Alm. Salg,12.031,4,Sommerhus,64,1978,,Aktuel værdi
+Kystvejen 767755 Bedsted Thy, Thy,1.399.745,14-12-2005,Fam. Salg,7.525,7,Stuehus,186,1928,,
+Vittrupvej 147755 Bedsted Thy, Thy,6.097.805,14-12-2005,Fam. Salg,45.848,5,Stuehus,133,1961,,
+Hedegårdsvej 377755 Bedsted Thy, Thy,295.000,01-11-2005,Alm. Salg,4.275,3,Villa,69,1852,,Aktuel værdi
+Grurup Kirkevej 27755 Bedsted Thy, Thy,302.876,31-10-2005,Alm. Salg,1.442,5,Stuehus,210,1913,,
+Morup Møllevej 277755 Bedsted Thy, Thy,910.000,30-09-2005,Alm. Salg,4.619,6,Villa,197,1969,,Aktuel værdi
+Vestervigvej 397755 Bedsted Thy, Thy,420.000,13-09-2005,Alm. Salg,4.200,3,Villa,100,1952,,Aktuel værdi
+Udsigten 17755 Bedsted Thy, Thy,400.000,02-09-2005,Alm. Salg,4.347,4,Villa,92,1971,,Aktuel værdi
+Tandrupvej 17755 Bedsted Thy, Thy,1.275.000,01-09-2005,Alm. Salg,7.005,6,Villa,182,1928,,Aktuel værdi
+Villerupvej 107755 Bedsted Thy, Thy,150.000,01-09-2005,Alm. Salg,1.648,4,Villa,91,1910,,Aktuel værdi
+Rønheden 427755 Bedsted Thy, Thy,1.855.000,31-08-2005,Alm. Salg,9.763,5,Villa,190,2002,,Aktuel værdi
+Spolumvej 27755 Bedsted Thy, Thy,970.000,29-08-2005,Fam. Salg,5.159,4,Villa,188,1957,,Aktuel værdi
+Gyvelvænget 77755 Bedsted Thy, Thy,365.000,25-08-2005,Alm. Salg,5.615,2,Villa,65,1975,,Aktuel værdi
+Stormgade 567755 Bedsted Thy, Thy,245.000,23-07-2005,Alm. Salg,4.083,3,Rækkehus,60,1975,,Aktuel værdi
+Lodbjergvej 567755 Bedsted Thy, Thy,1.735.000,05-07-2005,Alm. Salg,8.301,4,Villa,209,1996,,Aktuel værdi
+Lyngbyvej 307755 Bedsted Thy, Thy,60.000,27-06-2005,Fam. Salg,357,7,Villa,168,1864,,Aktuel værdi
+Skovlyvej 357755 Bedsted Thy, Thy,775.000,22-06-2005,Alm. Salg,9.337,4,Sommerhus,83,1975,,Aktuel værdi
+Lodbjergvej 667755 Bedsted Thy, Thy,525.000,09-06-2005,Alm. Salg,4.007,6,Stuehus,131,1900,,
+Dalgårdvej 127755 Bedsted Thy, Thy,665.000,13-05-2005,Alm. Salg,3.778,5,Stuehus,176,1927,,
+Ringvej 47755 Bedsted Thy, Thy,330.000,21-04-2005,Fam. Salg,5.500,3,Villa,60,1942,,Aktuel værdi
+Stormgade 577755 Bedsted Thy, Thy,585.000,16-04-2005,Alm. Salg,4.957,4,Villa,118,1979,,Aktuel værdi
+Hvidbjerggårdsvej 157755 Bedsted Thy, Thy,600.000,08-04-2005,Fam. Salg,9.230,3,Villa,65,1877,,Aktuel værdi
+Stenskærvej 47755 Bedsted Thy, Thy,4.400.000,29-03-2005,Alm. Salg,19.555,9,Stuehus,225,1970,,
+Storkærvej 87755 Bedsted Thy, Thy,214.500,24-03-2005,Fam. Salg,3.698,5,Sommerhus,58,1966,,Aktuel værdi
+Nordre Redningsvej 257755 Bedsted Thy, Thy,561.000,22-03-2005,Fam. Salg,8.500,4,Sommerhus,66,1967,,Aktuel værdi
+Vestervigvej 1017755 Bedsted Thy, Thy,305.000,21-03-2005,Alm. Salg,3.588,3,Villa,85,1960,,Aktuel værdi
+Skovbrynet 37755 Bedsted Thy, Thy,50.000,16-03-2005,Alm. Salg,476,4,Villa,105,2007,,Aktuel værdi
+Thylandsgade 297755 Bedsted Thy, Thy,170.000,14-03-2005,Auktion,1.717,4,Villa,99,1900,,Aktuel værdi
+Frederiksvej 57755 Bedsted Thy, Thy,275.000,11-03-2005,Alm. Salg,3.437,5,Villa,80,1913,,Aktuel værdi
+Hvidbjerggårdsvej 247755 Bedsted Thy, Thy,925.000,07-03-2005,Alm. Salg,10.882,3,Sommerhus,85,1997,,Aktuel værdi
+Astrupvej 97755 Bedsted Thy, Thy,3.545.000,24-02-2005,Alm. Salg,16.040,9,Stuehus,221,1860,,
+Skolegade 327755 Bedsted Thy, Thy,610.000,18-02-2005,Alm. Salg,5.258,4,Villa,116,1977,,Aktuel værdi
+Horsfeldvej 57755 Bedsted Thy, Thy,7.785.783,16-02-2005,Fam. Salg,57.672,6,Stuehus,135,1930,,
+Skyumvej 1537755 Bedsted Thy, Thy,3.175.000,15-02-2005,Alm. Salg,16.536,8,Stuehus,192,1920,,
+Stationsvej 17755 Bedsted Thy, Thy,410.000,25-01-2005,Alm. Salg,3.727,3,Villa,110,1957,,Aktuel værdi
+Vestervigvej 817755 Bedsted Thy, Thy,700.000,06-01-2005,Alm. Salg,7.777,7,Engroshandel,90,1963,,Aktuel værdi
+Åkandevej 17755 Bedsted Thy, Thy,475.000,23-12-2004,Alm. Salg,4.947,3,Villa,96,1974,,Aktuel værdi
+Thybovej 107755 Bedsted Thy, Thy,4.700.000,17-12-2004,Alm. Salg,16.095,8,Villa,292,2009,,Aktuel værdi
+Thylandsgade 387755 Bedsted Thy, Thy,235.324,15-12-2004,Alm. Salg,1.705,6,Villa,138,1918,,Aktuel værdi
+Skyumvej 1447755 Bedsted Thy, Thy,520.000,09-12-2004,Alm. Salg,3.250,5,Villa,160,1917,,Aktuel værdi
+Oddesundvej 2467755 Bedsted Thy, Thy,650.000,06-12-2004,Alm. Salg,3.801,7,Villa,171,1949,,Aktuel værdi
+Gl. Bedstedvej 77755 Bedsted Thy, Thy,275.462,03-12-2004,Alm. Salg,1.610,6,Villa,171,1924,,Aktuel værdi
+Astrupvej 77755 Bedsted Thy, Thy,260.000,12-11-2004,Alm. Salg,1.604,7,Stuehus,162,1938,,
+Vestervigvej 1527755 Bedsted Thy, Thy,82.535,08-11-2004,Alm. Salg,376,9,Villa,219,1965,,Aktuel værdi
+Vestervigvej 127755 Bedsted Thy, Thy,450.000,05-11-2004,Alm. Salg,3.461,4,Villa,130,1910,,Aktuel værdi
+Stormgade 337755 Bedsted Thy, Thy,15.000,21-10-2004,Alm. Salg,59,9,Villa,251,1977,,Aktuel værdi
+Åbrovej 77755 Bedsted Thy, Thy,85.000,01-10-2004,Fam. Salg,1.416,3,Villa,60,1873,,Aktuel værdi
+Højensvej 17755 Bedsted Thy, Thy,1.950.000,24-09-2004,Alm. Salg,13.448,7,Sommerhus,145,1900,,Aktuel værdi
+Gartnervænget 47755 Bedsted Thy, Thy,280.000,20-09-2004,Alm. Salg,3.456,3,Rækkehus,81,1977,,Aktuel værdi
+Vestervigvej 1217755 Bedsted Thy, Thy,3.292.210,14-09-2004,Alm. Salg,22.244,6,Stuehus,148,1906,,
+Villerupvej 97755 Bedsted Thy, Thy,315.000,12-08-2004,Andet,2.058,6,Villa,153,1911,,Aktuel værdi
+Skellebjergvej 77755 Bedsted Thy, Thy,295.000,06-07-2004,Alm. Salg,1.766,5,Villa,167,1911,,Aktuel værdi
+Tværgade 37755 Bedsted Thy, Thy,534.474,25-06-2004,Fam. Salg,5.685,3,Villa,94,1937,,Aktuel værdi
+Svankærvej 67755 Bedsted Thy, Thy,135.000,20-06-2004,Alm. Salg,-,6,Villa,177,1905,,Aktuel værdi
+Åkandevej 77755 Bedsted Thy, Thy,415.000,07-06-2004,Alm. Salg,4.234,3,Villa,98,1976,,Aktuel værdi
+Kirkebakken 17755 Bedsted Thy, Thy,245.000,25-05-2004,Alm. Salg,3.500,4,Villa,70,1897,,Aktuel værdi
+Hvidbjerggårdsvej 37755 Bedsted Thy, Thy,550.000,24-05-2004,Alm. Salg,6.111,5,Villa,90,1944,,Aktuel værdi
+Brydbjergvej 27755 Bedsted Thy, Thy,525.000,24-05-2004,Alm. Salg,6.562,4,Stuehus,80,1777,,
+Skovlyvej 217755 Bedsted Thy, Thy,115.000,19-05-2004,Alm. Salg,1.116,4,Sommerhus,103,2006,,Aktuel værdi
+Vestervigvej 1547755 Bedsted Thy, Thy,400.000,10-05-2004,Fam. Salg,-,5,Villa,148,1967,,Aktuel værdi
+Morup Møllevej 1107755 Bedsted Thy, Thy,200.000,06-04-2004,Alm. Salg,1.666,4,Villa,120,1915,,Aktuel værdi
+Lyngbyvej 297755 Bedsted Thy, Thy,620.502,30-03-2004,Fam. Salg,3.607,6,Sommerhus,172,1922,,Aktuel værdi
+Gudnæsvej 227755 Bedsted Thy, Thy,1.650.000,23-03-2004,Fam. Salg,4.230,5,Stuehus,390,1935,,
+Oddesundvej 2307755 Bedsted Thy, Thy,225.000,22-03-2004,Alm. Salg,2.250,4,Villa,100,1913,,Aktuel værdi
+Morup Møllevej 1127755 Bedsted Thy, Thy,280.000,15-03-2004,Alm. Salg,1.581,5,Villa,177,1920,,Aktuel værdi
+Vestervigvej 567755 Bedsted Thy, Thy,2.075.000,05-03-2004,Alm. Salg,8.469,7,Villa,245,1976,,Aktuel værdi
+Højbogårdsvej 87755 Bedsted Thy, Thy,11.243.756,26-02-2004,Fam. Salg,55.116,8,Stuehus,204,1929,,
+Dalgårdvej 107755 Bedsted Thy, Thy,800.000,10-02-2004,Alm. Salg,3.883,7,Stuehus,206,1870,,
+Galgebakkevej 57755 Bedsted Thy, Thy,250.000,03-02-2004,Alm. Salg,2.604,4,Villa,96,1903,,Aktuel værdi
+Irisvej 97755 Bedsted Thy, Thy,310.000,21-01-2004,Alm. Salg,3.875,3,Rækkehus,80,1972,,Aktuel værdi
+Nedergårdsvej 37755 Bedsted Thy, Thy,400.000,05-12-2003,Fam. Salg,3.225,4,Stuehus,124,1912,,
+Lyngbyvej 427755 Bedsted Thy, Thy,1.000.000,20-11-2003,Alm. Salg,7.518,4,Sommerhus,133,1974,,Aktuel værdi
+Tandrupvej 67755 Bedsted Thy, Thy,610.000,20-11-2003,Alm. Salg,3.426,5,Stuehus,178,1929,,
+Vestervigvej 1097755 Bedsted Thy, Thy,495.000,05-11-2003,Alm. Salg,4.950,4,Villa,100,1955,,Aktuel værdi
+Stormgade 377755 Bedsted Thy, Thy,645.000,15-10-2003,Alm. Salg,4.961,5,Villa,130,1979,,Aktuel værdi
+Lodbjergvej 477755 Bedsted Thy, Thy,60.000,13-10-2003,Alm. Salg,857,4,Villa,70,1887,,Aktuel værdi
+Hunskjærvej 17755 Bedsted Thy, Thy,12.700.000,06-10-2003,Alm. Salg,61.650,5,Stuehus,206,1919,,
+Irisvej 57755 Bedsted Thy, Thy,330.000,25-09-2003,Alm. Salg,4.074,3,Rækkehus,81,1972,,Aktuel værdi
+Iruplundvej 67755 Bedsted Thy, Thy,325.000,17-09-2003,Alm. Salg,2.056,6,Villa,158,1939,,Aktuel værdi
+Villerupvej 57755 Bedsted Thy, Thy,1.400.000,06-08-2003,Alm. Salg,5.761,8,Stuehus,243,1873,,
+Gyvelvænget 117755 Bedsted Thy, Thy,737.302,05-08-2003,Alm. Salg,2.633,11,Villa,280,1973,,Aktuel værdi
+Villerslevvej 347755 Bedsted Thy, Thy,370.000,05-08-2003,Alm. Salg,2.387,5,Villa,155,1927,,Aktuel værdi
+Skovlyvej 27755 Bedsted Thy, Thy,1.335.098,30-07-2003,Alm. Salg,5.779,3,Villa,231,1930,,Aktuel værdi
+Lodbjergvej 417755 Bedsted Thy, Thy,400.000,11-07-2003,Alm. Salg,3.809,4,Stuehus,105,1890,,
+Hedegårdsvej 197755 Bedsted Thy, Thy,700.000,07-07-2003,Alm. Salg,-,11,Villa,354,1897,,Aktuel værdi
+Lyngbyvej 12B7755 Bedsted Thy, Thy,475.000,05-07-2003,Alm. Salg,67.857,1,Fritid,7,1985,,Aktuel værdi
+Gundgårdsvej 17755 Bedsted Thy, Thy,234.736,10-06-2003,Alm. Salg,3.260,3,Villa,72,1900,,Aktuel værdi
+Lyngbyvej 637755 Bedsted Thy, Thy,25.000,07-06-2003,Alm. Salg,247,4,Villa,101,1933,,Aktuel værdi
+Astavej 227755 Bedsted Thy, Thy,900.000,07-06-2003,Alm. Salg,5.294,7,Sommerhus,170,2005,,Aktuel værdi
+Astavej 167755 Bedsted Thy, Thy,2.300.000,30-05-2003,Alm. Salg,12.299,5,Sommerhus,187,1968,,Aktuel værdi
+Ågårdsvej 27755 Bedsted Thy, Thy,435.625,25-05-2003,Alm. Salg,2.847,5,Villa,153,1900,,Aktuel værdi
+Lindagergårdvej 27755 Bedsted Thy, Thy,1.154.700,19-05-2003,Alm. Salg,5.921,7,Stuehus,195,1886,,
+Villerslevvej 357755 Bedsted Thy, Thy,307.500,21-04-2003,Alm. Salg,3.660,3,Villa,84,1968,,Aktuel værdi
+Astrupvej 17755 Bedsted Thy, Thy,245.000,04-04-2003,Alm. Salg,2.525,3,Stuehus,97,1928,,
+Rishøjvej 47755 Bedsted Thy, Thy,7.706.250,29-03-2003,Fam. Salg,26.757,8,Stuehus,288,1917,,
+Morup Møllevej 1287755 Bedsted Thy, Thy,230.000,17-01-2003,Alm. Salg,2.169,4,Villa,106,1965,,Aktuel værdi
+Rishøjvej 57755 Bedsted Thy, Thy,300.000,11-01-2003,Alm. Salg,2.500,4,Sommerhus,120,1870,,Aktuel værdi
+Gartnervænget 87755 Bedsted Thy, Thy,290.000,10-01-2003,Alm. Salg,3.536,3,Rækkehus,82,1977,,Aktuel værdi
+Kjallerupvej 67755 Bedsted Thy, Thy,245.000,05-01-2003,Alm. Salg,-,8,Stuehus,179,1910,,
+Lyngbyvej 57755 Bedsted Thy, Thy,850.000,31-12-2002,Fam. Salg,9.340,2,Sommerhus,91,2016,,Aktuel værdi
+Irisvej 117755 Bedsted Thy, Thy,315.000,31-12-2002,Fam. Salg,3.888,3,Rækkehus,81,1972,,Aktuel værdi
+Grurup Kirkevej 37755 Bedsted Thy, Thy,500.000,12-12-2002,Alm. Salg,-,6,Villa,250,1888,,Aktuel værdi
+Stormgade 527755 Bedsted Thy, Thy,250.000,09-11-2002,Alm. Salg,4.166,3,Rækkehus,60,1975,,Aktuel værdi
+Harregårdsvej 37755 Bedsted Thy, Thy,425.000,18-10-2002,Alm. Salg,2.759,6,Stuehus,154,1912,,
+Nedergårdsvej 57755 Bedsted Thy, Thy,458.241,11-10-2002,Alm. Salg,7.512,3,Sommerhus,61,1971,,Aktuel værdi
+Vestervigvej 577755 Bedsted Thy, Thy,450.000,27-09-2002,Alm. Salg,4.326,4,Villa,104,1959,,Aktuel værdi
+Gl. Bedstedvej 107755 Bedsted Thy, Thy,623.925,25-09-2002,Alm. Salg,2.293,7,Stuehus,272,1922,,
+Morup Møllevej 547755 Bedsted Thy, Thy,1.350.000,09-08-2002,Alm. Salg,6.887,8,Stuehus,196,1920,,
+Hedegårdsvej 187755 Bedsted Thy, Thy,255.000,01-08-2002,Alm. Salg,951,7,Villa,268,1907,,Aktuel værdi
+Vestervigvej 157755 Bedsted Thy, Thy,473.000,25-07-2002,Fam. Salg,4.300,3,Stuehus,110,1927,,
+Lyngbyvej 257755 Bedsted Thy, Thy,480.000,15-07-2002,Alm. Salg,4.363,5,Sommerhus,110,1921,,Aktuel værdi
+Stormgade 487755 Bedsted Thy, Thy,265.000,13-06-2002,Alm. Salg,4.344,2,Rækkehus,61,1975,,Aktuel værdi
+Morup Møllevej 597755 Bedsted Thy, Thy,260.000,09-06-2002,Alm. Salg,2.166,3,Villa,120,1907,,Aktuel værdi
+Spangbjergvej 67755 Bedsted Thy, Thy,450.000,30-05-2002,Fam. Salg,2.571,5,Stuehus,175,1922,,
+Istrupvej 357755 Bedsted Thy, Thy,405.000,19-04-2002,Alm. Salg,-,5,Sommerhus,144,1967,,Aktuel værdi
+Gundgårdsvej 147755 Bedsted Thy, Thy,370.000,17-04-2002,Alm. Salg,3.490,4,Stuehus,106,1880,,
+Gudnæsvej 97755 Bedsted Thy, Thy,1.225.000,27-03-2002,Alm. Salg,8.750,7,Stuehus,140,1940,,
+Villerslevvej 167755 Bedsted Thy, Thy,320.000,25-03-2002,Andet,2.689,5,Villa,119,1902,,Aktuel værdi
+Udsigten 77755 Bedsted Thy, Thy,550.000,08-03-2002,Alm. Salg,2.412,8,Villa,228,1970,,Aktuel værdi
+Stormgade 217755 Bedsted Thy, Thy,57.194,06-03-2002,Alm. Salg,468,3,Villa,122,2002,,Aktuel værdi
+Irisvej 77755 Bedsted Thy, Thy,326.608,25-02-2002,Alm. Salg,4.082,4,Rækkehus,80,1972,,Aktuel værdi
+Gyvelvænget 87755 Bedsted Thy, Thy,800.000,21-02-2002,Alm. Salg,5.405,5,Villa,148,1973,,Aktuel værdi
+Skolegade 77755 Bedsted Thy, Thy,400.000,15-02-2002,Alm. Salg,4.000,3,Villa,100,1970,,Aktuel værdi
+Hedegårdsvej 367755 Bedsted Thy, Thy,397.601,13-02-2002,Alm. Salg,2.598,4,Villa,153,1903,,Aktuel værdi
+Brydbjergvej 17755 Bedsted Thy, Thy,870.000,08-02-2002,Alm. Salg,5.649,8,Stuehus,154,1914,,
+Villerslevvej 477755 Bedsted Thy, Thy,300.000,24-01-2002,Alm. Salg,1.785,4,Villa,168,1958,,Aktuel værdi
+Villerslevvej 857755 Bedsted Thy, Thy,395.000,23-01-2002,Alm. Salg,1.357,9,Villa,291,1900,,Aktuel værdi
+Rishøjvej 207755 Bedsted Thy, Thy,360.000,12-01-2002,Alm. Salg,5.538,3,Stuehus,65,1920,,
+Villerslevvej 307755 Bedsted Thy, Thy,393.286,09-01-2002,Alm. Salg,3.710,5,Villa,106,1939,,Aktuel værdi
+Morup Møllevej 527755 Bedsted Thy, Thy,2.692.500,03-01-2002,Fam. Salg,12.238,6,Stuehus,220,1857,,
+Lyngbyvej 117755 Bedsted Thy, Thy,160.000,27-12-2001,Fam. Salg,1.797,5,Sommerhus,89,1963,,Aktuel værdi
+Skellebjergvej 57755 Bedsted Thy, Thy,660.000,18-12-2001,Alm. Salg,3.837,4,Stuehus,172,1912,,
+Astavej 147755 Bedsted Thy, Thy,301.750,10-12-2001,Fam. Salg,4.310,3,Sommerhus,70,1966,,Aktuel værdi
+Østergade 117755 Bedsted Thy, Thy,227.500,13-11-2001,Alm. Salg,2.068,4,Villa,110,1937,,Aktuel værdi
+Gyvelvænget 137755 Bedsted Thy, Thy,645.000,12-11-2001,Alm. Salg,4.607,5,Villa,140,1974,,Aktuel værdi
+Harregårdsvej 27755 Bedsted Thy, Thy,345.000,10-11-2001,Alm. Salg,3.317,4,Stuehus,104,1951,,
+Stormgade 277755 Bedsted Thy, Thy,617.805,07-11-2001,Alm. Salg,5.235,4,Villa,118,1979,,Aktuel værdi
+Vestervigvej 917755 Bedsted Thy, Thy,430.000,01-11-2001,Alm. Salg,3.028,4,Villa,142,1956,,Aktuel værdi
+Iruplundvej 187755 Bedsted Thy, Thy,574.563,28-10-2001,Alm. Salg,4.560,4,Villa,126,1928,,Aktuel værdi
+Præstegårdsvænget 77755 Bedsted Thy, Thy,625.000,12-10-2001,Alm. Salg,4.084,4,Villa,153,2007,,Aktuel værdi
+Irisvej 157755 Bedsted Thy, Thy,350.000,09-10-2001,Alm. Salg,3.846,3,Villa,91,1961,,Aktuel værdi
+Vestervigvej 517755 Bedsted Thy, Thy,200.000,02-10-2001,Auktion,1.680,6,Villa,119,1934,,Aktuel værdi
+Grurupvej 117755 Bedsted Thy, Thy,337.846,30-07-2001,Alm. Salg,2.598,4,Villa,130,1907,,Aktuel værdi
+Lyngbyvej 357755 Bedsted Thy, Thy,560.000,23-07-2001,Alm. Salg,4.666,5,Sommerhus,120,1897,,Aktuel værdi
+Rishøjvej 37755 Bedsted Thy, Thy,150.000,19-07-2001,Alm. Salg,3.488,1,Sommerhus,43,1893,,Aktuel værdi
+Østermarksvej 47755 Bedsted Thy, Thy,250.000,19-06-2001,Alm. Salg,2.403,5,Villa,104,1900,,Aktuel værdi
+Lyngbyvej 537755 Bedsted Thy, Thy,925.000,15-06-2001,Alm. Salg,5.000,6,Villa,185,1890,,Aktuel værdi
+Svindborgvej 117755 Bedsted Thy, Thy,1.300.000,13-06-2001,Fam. Salg,10.833,4,Stuehus,120,1964,,
+Dalgårdvej 87755 Bedsted Thy, Thy,390.580,12-06-2001,Alm. Salg,4.489,5,Stuehus,87,1827,,
+Lyngbyvej 577755 Bedsted Thy, Thy,300.000,10-05-2001,Alm. Salg,2.000,4,Villa,150,2008,,Aktuel værdi
+Storkærvej 67755 Bedsted Thy, Thy,2.757.500,30-04-2001,Fam. Salg,16.814,7,Stuehus,164,1943,,
+Svindborgvej 17755 Bedsted Thy, Thy,1.735.400,25-04-2001,Fam. Salg,15.776,5,Stuehus,110,1911,,
+Vestervigvej 267755 Bedsted Thy, Thy,313.398,17-04-2001,Alm. Salg,2.590,4,Stuehus,121,1907,,
+Ørum Kirkevej 57755 Bedsted Thy, Thy,206.926,15-02-2001,Fam. Salg,-,5,Stuehus,197,1875,,
+Sølystvej 27755 Bedsted Thy, Thy,704.227,14-02-2001,Alm. Salg,3.215,9,Stuehus,219,1927,,
+Rønheden 47755 Bedsted Thy, Thy,692.000,06-02-2001,Alm. Salg,3.760,5,Villa,184,1983,,Aktuel værdi
+Skellebjergvej 17755 Bedsted Thy, Thy,4.653.000,01-02-2001,Fam. Salg,20.230,6,Stuehus,230,1987,,
+Åbrovej 17755 Bedsted Thy, Thy,525.000,29-01-2001,Alm. Salg,3.201,7,Villa,164,1915,,Aktuel værdi
+Horsfeldvej 77755 Bedsted Thy, Thy,600.000,26-01-2001,Alm. Salg,3.448,6,Stuehus,174,1930,,
+Lodbjergvej 627755 Bedsted Thy, Thy,365.500,25-01-2001,Fam. Salg,3.045,4,Villa,120,1973,,Aktuel værdi
+Kystvejen 747755 Bedsted Thy, Thy,2.017.000,18-01-2001,Fam. Salg,8.068,8,Stuehus,250,1978,,
+Horsfeldvej 27755 Bedsted Thy, Thy,476.025,29-12-2000,Alm. Salg,-,11,Stuehus,322,1892,,
+Morup Møllevej 887755 Bedsted Thy, Thy,1.992.598,11-12-2000,Fam. Salg,8.302,9,Stuehus,240,1850,,
+Rishøjvej 197755 Bedsted Thy, Thy,1.150.000,11-12-2000,Fam. Salg,-,7,Villa,180,1973,,Aktuel værdi
+Hedegårdsvej 137755 Bedsted Thy, Thy,395.000,11-12-2000,Alm. Salg,4.293,3,Villa,92,1926,,Aktuel værdi
+Spangbjergvej 27755 Bedsted Thy, Thy,2.181.000,03-11-2000,Alm. Salg,13.298,6,Stuehus,164,1922,,
+Kildedal 87755 Bedsted Thy, Thy,395.000,18-09-2000,Alm. Salg,1.975,8,Villa,200,1860,,Aktuel værdi
+Gudnæsvej 67755 Bedsted Thy, Thy,395.715,15-09-2000,Alm. Salg,2.826,4,Villa,140,1936,,Aktuel værdi
+Vestervigvej 187755 Bedsted Thy, Thy,150.000,07-09-2000,Alm. Salg,2.727,2,Villa,55,1927,,Aktuel værdi
+Villerslevvej 817755 Bedsted Thy, Thy,521.000,11-08-2000,Alm. Salg,3.695,5,Villa,141,1914,,Aktuel værdi
+Skovlyvej 147755 Bedsted Thy, Thy,490.000,11-08-2000,Alm. Salg,9.245,3,Sommerhus,53,1976,,Aktuel værdi
+Nørgårdsvej 67755 Bedsted Thy, Thy,938.000,10-08-2000,Fam. Salg,4.466,6,Stuehus,210,1980,,
+Morup Møllevej 217755 Bedsted Thy, Thy,210.000,01-08-2000,Alm. Salg,-,7,Villa,152,1910,,Aktuel værdi
+Storkærvej 17755 Bedsted Thy, Thy,1.600.000,06-07-2000,Alm. Salg,9.467,7,Stuehus,169,1942,,
+Vilhelmsmindevej 47755 Bedsted Thy, Thy,390.000,05-07-2000,Alm. Salg,2.321,6,Stuehus,168,1924,,
+Ingersmindevej 47755 Bedsted Thy, Thy,93.384,01-07-2000,Fam. Salg,1.167,3,Villa,80,1961,,Aktuel værdi
+Kystvejen 827755 Bedsted Thy, Thy,7.335.044,15-06-2000,Alm. Salg,26.010,8,Stuehus,282,1735,,
+Madstedvej 87755 Bedsted Thy, Thy,1.300.000,18-05-2000,Alm. Salg,10.833,3,Stuehus,120,1934,,
+Hedegårdsvej 17755 Bedsted Thy, Thy,2.350.000,28-04-2000,Alm. Salg,10.000,8,Stuehus,235,1900,,
+Skovlyvej 297755 Bedsted Thy, Thy,255.000,27-04-2000,Fam. Salg,4.180,3,Sommerhus,61,1977,,Aktuel værdi
+Stormgade 627755 Bedsted Thy, Thy,279.730,26-04-2000,Alm. Salg,4.370,3,Rækkehus,64,1975,,Aktuel værdi
+Nordvejen 87755 Bedsted Thy, Thy,525.000,15-04-2000,Alm. Salg,1.422,12,Villa,369,1907,,Aktuel værdi
+Vestervigvej 1537755 Bedsted Thy, Thy,286.495,08-04-2000,Alm. Salg,2.557,4,Villa,112,1936,,Aktuel værdi
+Højbogårdsvej 97755 Bedsted Thy, Thy,35.000,28-03-2000,Alm. Salg,286,5,Villa,122,1872,,Aktuel værdi
+Kystvejen 817755 Bedsted Thy, Thy,825.000,08-03-2000,Alm. Salg,4.459,8,Villa,185,1900,,Aktuel værdi
+Skolegade 2A7755 Bedsted Thy, Thy,510.000,21-02-2000,Alm. Salg,3.642,4,Villa,140,1970,,Aktuel værdi
+Gundgårdsvej 107755 Bedsted Thy, Thy,270.000,12-11-1999,Alm. Salg,2.454,4,Villa,110,1954,,Aktuel værdi
+Hedegårdsvej 357755 Bedsted Thy, Thy,195.000,08-10-1999,Alm. Salg,1.893,3,Villa,103,1925,,Aktuel værdi
+Vestervigvej 497755 Bedsted Thy, Thy,610.200,02-10-1999,Alm. Salg,4.622,5,Villa,132,1949,,Aktuel værdi
+Lyngbyvej 417755 Bedsted Thy, Thy,246.500,01-09-1999,Andet,2.465,4,Villa,100,1971,,Aktuel værdi
+Tinghøjvej 17755 Bedsted Thy, Thy,868.901,26-08-1999,Alm. Salg,3.794,7,Villa,229,1956,,Aktuel værdi
+Møllestræde 77755 Bedsted Thy, Thy,324.696,23-08-1999,Alm. Salg,2.925,5,Sommerhus,111,1910,,Aktuel værdi
+Brogårdsvej 47755 Bedsted Thy, Thy,2.540.543,13-08-1999,Fam. Salg,9.771,5,Stuehus,260,1917,,
+Villerslevvej 527755 Bedsted Thy, Thy,3.763.332,28-07-1999,Fam. Salg,22.808,6,Stuehus,165,1870,,
+Skovlyvej 337755 Bedsted Thy, Thy,385.000,26-07-1999,Fam. Salg,5.347,4,Sommerhus,72,1978,,Aktuel værdi
+Thylandsgade 307755 Bedsted Thy, Thy,135.000,23-07-1999,Alm. Salg,1.097,6,Villa,123,1906,,Aktuel værdi
+Lyngbyvej 337755 Bedsted Thy, Thy,686.930,04-07-1999,Alm. Salg,-,7,Stuehus,250,1908,,
+Skolegade 177755 Bedsted Thy, Thy,702.959,23-06-1999,Alm. Salg,5.623,3,Villa,125,1880,,Aktuel værdi
+Vittrupvej 27755 Bedsted Thy, Thy,65.400,14-06-1999,Alm. Salg,333,5,Stuehus,196,1854,,
+Lethsvej 27755 Bedsted Thy, Thy,732.000,27-05-1999,Alm. Salg,4.784,6,Stuehus,153,1895,,
+Hedegårdsvej 577755 Bedsted Thy, Thy,200.000,06-05-1999,Alm. Salg,1.769,4,Stuehus,113,1927,,
+Rishøjvej 247755 Bedsted Thy, Thy,750.000,21-04-1999,Alm. Salg,4.143,6,Villa,181,1915,,Aktuel værdi
+Villerupvej 127755 Bedsted Thy, Thy,410.000,16-04-1999,Alm. Salg,2.751,4,Villa,149,1924,,Aktuel værdi
+Åkandevej 47755 Bedsted Thy, Thy,474.000,08-04-1999,Alm. Salg,3.590,5,Villa,132,1976,,Aktuel værdi
+Højbogårdsvej 17755 Bedsted Thy, Thy,985.000,30-03-1999,Alm. Salg,4.339,4,Villa,227,1976,,Aktuel værdi
+Rishøjvej 117755 Bedsted Thy, Thy,385.000,07-03-1999,Alm. Salg,3.850,4,Stuehus,100,1957,,
+Bakkevej 117755 Bedsted Thy, Thy,450.000,05-03-1999,Alm. Salg,3.191,6,Villa,141,1964,,Aktuel værdi
+Villerslevvej 397755 Bedsted Thy, Thy,307.000,04-03-1999,Alm. Salg,1.519,5,Villa,202,1900,,Aktuel værdi
+Hedegårdsvej 517755 Bedsted Thy, Thy,190.044,24-02-1999,Fam. Salg,3.016,3,Stuehus,63,1900,,
+Vestervigvej 977755 Bedsted Thy, Thy,625.000,09-02-1999,Alm. Salg,3.765,4,Villa,166,1956,,Aktuel værdi
+Hedegårdsvej 147755 Bedsted Thy, Thy,125.000,08-02-1999,Alm. Salg,1.420,3,Villa,88,1911,,Aktuel værdi
+Lyngbyvej 167755 Bedsted Thy, Thy,161.500,29-01-1999,Fam. Salg,1.794,3,Villa,90,1919,,Aktuel værdi
+Vestervigvej 307755 Bedsted Thy, Thy,595.000,22-12-1998,Fam. Salg,4.473,4,Stuehus,133,1900,,
+Villerslevvej 247755 Bedsted Thy, Thy,225.000,22-12-1998,Alm. Salg,2.205,5,Villa,102,1917,,Aktuel værdi
+Villerslevvej 337755 Bedsted Thy, Thy,205.000,19-12-1998,Alm. Salg,2.733,3,Villa,75,1947,,Aktuel værdi
+Skolegade 167755 Bedsted Thy, Thy,560.000,16-12-1998,Alm. Salg,3.200,6,Villa,175,1962,,Aktuel værdi
+Hedegårdsvej 317755 Bedsted Thy, Thy,372.000,11-12-1998,Alm. Salg,3.049,4,Villa,122,1910,,Aktuel værdi
+Morup Møllevej 107755 Bedsted Thy, Thy,344.655,03-12-1998,Alm. Salg,1.665,6,Villa,207,1920,,Aktuel værdi
+Højbogårdsvej 67755 Bedsted Thy, Thy,730.000,16-11-1998,Alm. Salg,4.219,5,Villa,173,1900,,Aktuel værdi
+Nordvejen 127755 Bedsted Thy, Thy,340.000,13-11-1998,Alm. Salg,2.857,4,Villa,119,1977,,Aktuel værdi
+Sølystvej 37755 Bedsted Thy, Thy,2.600.000,06-11-1998,Alm. Salg,15.853,5,Stuehus,164,1916,,
+Vittrupvej 67755 Bedsted Thy, Thy,361.467,21-10-1998,Alm. Salg,1.844,7,Stuehus,196,1880,,
+Hedegårdsvej 57755 Bedsted Thy, Thy,319.500,16-10-1998,Alm. Salg,1.521,6,Stuehus,210,1851,,
+Galgebakkevej 27755 Bedsted Thy, Thy,3.900.000,23-09-1998,Alm. Salg,18.932,7,Stuehus,206,1962,,
+Gartnervænget 37755 Bedsted Thy, Thy,613.907,21-09-1998,Alm. Salg,4.686,4,Villa,131,1978,,Aktuel værdi
+Brogårdsvej 137755 Bedsted Thy, Thy,110.000,18-09-1998,Alm. Salg,859,5,Stuehus,128,1939,,
+Rønheden 407755 Bedsted Thy, Thy,188.388,04-09-1998,Alm. Salg,1.082,6,Villa,174,1999,,Aktuel værdi
+Skovlyvej 157755 Bedsted Thy, Thy,93.000,31-08-1998,Alm. Salg,1.162,4,Sommerhus,80,2001,,Aktuel værdi
+Redningsvej 37755 Bedsted Thy, Thy,371.034,06-08-1998,Alm. Salg,2.992,6,Villa,124,1931,,Aktuel værdi
+Villerupvej 17755 Bedsted Thy, Thy,862.720,15-06-1998,Alm. Salg,2.575,8,Villa,335,1903,,Aktuel værdi
+Åkandevej 97755 Bedsted Thy, Thy,499.000,10-06-1998,Alm. Salg,4.228,4,Villa,118,1975,,Aktuel værdi
+Vittrupvej 77755 Bedsted Thy, Thy,1.923.199,26-05-1998,Alm. Salg,9.615,9,Stuehus,200,1867,,
+Åkandevej 37755 Bedsted Thy, Thy,625.000,13-05-1998,Alm. Salg,4.844,4,Villa,129,1975,,Aktuel værdi
+Åkandevej 107755 Bedsted Thy, Thy,567.540,09-05-1998,Alm. Salg,3.170,7,Villa,179,1975,,Aktuel værdi
+Horsfeldvej 167755 Bedsted Thy, Thy,2.742.611,05-05-1998,Fam. Salg,13.122,5,Stuehus,209,1900,,
+Udsigten 137755 Bedsted Thy, Thy,459.000,01-05-1998,Alm. Salg,2.980,6,Villa,154,1972,,Aktuel værdi
+Hvidbjerggårdsvej 187755 Bedsted Thy, Thy,842.500,29-04-1998,Alm. Salg,4.841,6,Sommerhus,174,1976,,Aktuel værdi
+Vittrupvej 47755 Bedsted Thy, Thy,1.440.000,23-04-1998,Alm. Salg,7.783,7,Stuehus,185,1866,,
+Åbrovej 117755 Bedsted Thy, Thy,1.205.000,13-04-1998,Alm. Salg,6.443,7,Villa,187,1913,,Aktuel værdi
+Kirkebakken 47755 Bedsted Thy, Thy,520.000,06-04-1998,Alm. Salg,2.639,6,Villa,197,1979,,Aktuel værdi
+Hedegårdsvej 217755 Bedsted Thy, Thy,474.000,31-03-1998,Alm. Salg,-,7,Villa,112,1947,,Aktuel værdi
+Åbrovej 257755 Bedsted Thy, Thy,289.245,24-03-1998,Alm. Salg,1.546,4,Villa,187,1928,,Aktuel værdi
+Grurupvej 217755 Bedsted Thy, Thy,507.080,17-03-1998,Alm. Salg,3.497,4,Stuehus,145,1917,,
+Kjærgaardsvej 107755 Bedsted Thy, Thy,400.000,04-03-1998,Alm. Salg,1.777,7,Villa,225,1999,,Aktuel værdi
+Villerupvej 87755 Bedsted Thy, Thy,753.341,25-02-1998,Alm. Salg,4.431,6,Stuehus,170,1920,,
+Rosenvænget 37755 Bedsted Thy, Thy,350.000,20-02-1998,Alm. Salg,3.645,4,Villa,96,1975,,Aktuel værdi
+Thylandsgade 287755 Bedsted Thy, Thy,212.370,14-01-1998,Fam. Salg,1.406,4,Villa,151,1908,,Aktuel værdi
+Villerupvej 47755 Bedsted Thy, Thy,711.613,13-01-1998,Alm. Salg,3.997,6,Villa,178,1927,,Aktuel værdi
+Iruplundvej 13B7755 Bedsted Thy, Thy,69.400,18-12-1997,Alm. Salg,963,3,Villa,72,1897,,Aktuel værdi
+Villerupvej 137755 Bedsted Thy, Thy,106.500,17-12-1997,Andet,-,5,Villa,150,1888,,Aktuel værdi
+Horsfeldvej 17755 Bedsted Thy, Thy,295.000,16-12-1997,Alm. Salg,1.282,9,Villa,230,1919,,Aktuel værdi
+Sølystvej 57755 Bedsted Thy, Thy,544.000,11-12-1997,Alm. Salg,3.378,4,Villa,161,1927,,Aktuel værdi
+Gyvelvænget 97755 Bedsted Thy, Thy,800.000,29-11-1997,Alm. Salg,4.678,5,Villa,171,1980,,Aktuel værdi
+Præstegårdsvænget 37755 Bedsted Thy, Thy,475.000,27-11-1997,Alm. Salg,3.467,9,Villa,137,1965,,Aktuel værdi
+Tandrupvej 57755 Bedsted Thy, Thy,284.973,13-11-1997,Fam. Salg,2.456,5,Villa,116,1915,,Aktuel værdi
+Nedergårdsvej 47755 Bedsted Thy, Thy,734.000,03-11-1997,Alm. Salg,4.194,6,Stuehus,175,2012,,
+Astavej 37755 Bedsted Thy, Thy,525.000,27-10-1997,Alm. Salg,-,8,Villa,195,1923,,Aktuel værdi
+Horsfeldvej 97755 Bedsted Thy, Thy,529.735,16-10-1997,Alm. Salg,2.198,10,Stuehus,241,1906,,
+Thylandsgade 12A7755 Bedsted Thy, Thy,250.000,13-10-1997,Fam. Salg,2.066,6,Villa,121,1924,,Aktuel værdi
+Morup Møllevej 517755 Bedsted Thy, Thy,225.000,08-10-1997,Fam. Salg,1.451,6,Villa,155,1929,,Aktuel værdi
+Hedegårdsvej 30B7755 Bedsted Thy, Thy,180.000,06-10-1997,Alm. Salg,1.978,3,Villa,91,1907,,Aktuel værdi
+Gundgårdsvej 87755 Bedsted Thy, Thy,165.000,20-09-1997,Alm. Salg,1.683,5,Villa,98,1951,,Aktuel værdi
+Lyngbyvej 367755 Bedsted Thy, Thy,623.279,17-09-1997,Alm. Salg,-,5,Villa,140,1915,,Aktuel værdi
+Ørum Kirkevej 27755 Bedsted Thy, Thy,925.000,26-08-1997,Fam. Salg,-,5,Stuehus,140,1907,,
+Gundgårdsvej 77755 Bedsted Thy, Thy,150.000,05-08-1997,Alm. Salg,1.200,5,Villa,125,1944,,Aktuel værdi
+Rishøjvej 107755 Bedsted Thy, Thy,876.000,02-07-1997,Alm. Salg,7.300,4,Stuehus,120,1900,,
+Dalgårdvej 187755 Bedsted Thy, Thy,238.000,27-06-1997,Fam. Salg,1.586,6,Villa,150,1870,,Aktuel værdi
+Stormgade 47755 Bedsted Thy, Thy,760.000,13-06-1997,Fam. Salg,5.170,5,Villa,147,1990,,Aktuel værdi
+Vestervigvej 997755 Bedsted Thy, Thy,458.784,10-04-1997,Alm. Salg,4.133,4,Villa,111,1960,,Aktuel værdi
+Tandrupvej 47755 Bedsted Thy, Thy,1.426.902,18-03-1997,Fam. Salg,6.231,5,Stuehus,229,1967,,
+Skovbrynet 147755 Bedsted Thy, Thy,200.000,27-01-1997,Fam. Salg,-,3,Sommerhus,70,1968,,Aktuel værdi
+Astavej 117755 Bedsted Thy, Thy,300.000,16-01-1997,Alm. Salg,2.970,4,Sommerhus,101,2003,,Aktuel værdi
+Kystvejen 837755 Bedsted Thy, Thy,1.400.763,15-01-1997,Alm. Salg,10.775,5,Villa,130,1900,,Aktuel værdi
+Svankærvej 17755 Bedsted Thy, Thy,105.000,12-12-1996,Alm. Salg,889,4,Villa,118,1930,,Aktuel værdi
+Skovlyvej 237755 Bedsted Thy, Thy,500.000,02-12-1996,Alm. Salg,6.756,4,Sommerhus,74,1985,,Aktuel værdi
+Stationsvej 37755 Bedsted Thy, Thy,225.000,18-11-1996,Alm. Salg,1.654,6,Villa,136,1936,,Aktuel værdi
+Gyvelvænget 37755 Bedsted Thy, Thy,440.000,31-10-1996,Alm. Salg,3.142,4,Villa,140,1973,,Aktuel værdi
+Morup Møllevej 647755 Bedsted Thy, Thy,54.000,14-10-1996,Alm. Salg,432,4,Villa,125,1954,,Aktuel værdi
+Astrupvej 57755 Bedsted Thy, Thy,800.000,02-10-1996,Alm. Salg,3.333,5,Stuehus,240,1947,,
+Villerslevvej 57755 Bedsted Thy, Thy,352.000,24-09-1996,Fam. Salg,2.496,5,Villa,141,1966,,Aktuel værdi
+Hunskjærvej 57755 Bedsted Thy, Thy,175.000,21-09-1996,Alm. Salg,683,8,Villa,256,1918,,Aktuel værdi
+Stormgade 117755 Bedsted Thy, Thy,419.700,09-09-1996,Alm. Salg,3.357,5,Villa,125,1954,,Aktuel værdi
+Visbyvej 107755 Bedsted Thy, Thy,603.500,05-09-1996,Fam. Salg,3.725,5,Stuehus,162,1915,,
+Redningsvej 17755 Bedsted Thy, Thy,350.000,30-08-1996,Fam. Salg,2.611,6,Villa,134,1924,,Aktuel værdi
+Gudnæsvej 107755 Bedsted Thy, Thy,1.000.000,29-08-1996,Alm. Salg,3.690,9,Villa,271,1984,,Aktuel værdi
+Skolegade 197755 Bedsted Thy, Thy,200.000,23-08-1996,Alm. Salg,2.352,3,Villa,85,1954,,Aktuel værdi
+Kystvejen 717755 Bedsted Thy, Thy,467.500,08-08-1996,Fam. Salg,3.995,5,Stuehus,117,1913,,
+Astrupvej 37755 Bedsted Thy, Thy,735.000,22-07-1996,Alm. Salg,2.940,8,Stuehus,250,1930,,
+Storkærvej 27755 Bedsted Thy, Thy,3.885.800,26-06-1996,Fam. Salg,21.468,7,Stuehus,181,1907,,
+Villerslevvej 97755 Bedsted Thy, Thy,230.000,14-06-1996,Alm. Salg,2.000,4,Villa,115,1951,,Aktuel værdi
+Lethsvej 77755 Bedsted Thy, Thy,1.450.000,13-06-1996,Alm. Salg,6.444,7,Stuehus,225,1987,,
+Horsfeldvej 87755 Bedsted Thy, Thy,450.000,12-06-1996,Alm. Salg,1.764,11,Stuehus,255,1912,,
+Svindborgvej 27755 Bedsted Thy, Thy,350.000,07-06-1996,Alm. Salg,3.500,4,Villa,100,1827,,Aktuel værdi
+Ørum Kirkevej 17755 Bedsted Thy, Thy,212.500,04-06-1996,Fam. Salg,1.353,6,Stuehus,157,1941,,
+Morup Møllevej 287755 Bedsted Thy, Thy,210.000,30-05-1996,Fam. Salg,2.333,5,Villa,90,1956,,Aktuel værdi
+Balsbyvej 17755 Bedsted Thy, Thy,355.000,28-05-1996,Alm. Salg,1.868,7,Villa,190,1953,,Aktuel værdi
+Pilevej 27755 Bedsted Thy, Thy,137.000,24-05-1996,Alm. Salg,872,3,Villa,157,1999,,Aktuel værdi
+Astavej 87755 Bedsted Thy, Thy,758.000,12-05-1996,Alm. Salg,9.475,3,Sommerhus,80,1972,,Aktuel værdi
+Stormgade 457755 Bedsted Thy, Thy,450.000,08-05-1996,Fam. Salg,2.036,7,Villa,221,1979,,Aktuel værdi
+Gl. Bedstedvej 47755 Bedsted Thy, Thy,360.000,07-05-1996,Alm. Salg,3.000,4,Villa,120,1964,,Aktuel værdi
+Rønheden 467755 Bedsted Thy, Thy,485.000,29-04-1996,Alm. Salg,4.110,4,Villa,118,1987,,Aktuel værdi
+Villerslevvej 387755 Bedsted Thy, Thy,350.000,21-04-1996,Alm. Salg,2.800,6,Villa,125,1953,,Aktuel værdi
+Oddesundvej 1757755 Bedsted Thy, Thy,525.000,17-04-1996,Alm. Salg,2.560,5,Villa,205,1914,,Aktuel værdi
+Stormgade 17755 Bedsted Thy, Thy,175.000,08-03-1996,Alm. Salg,1.346,5,Villa,130,1951,,Aktuel værdi
+Gartnervænget 27755 Bedsted Thy, Thy,244.000,20-12-1995,Alm. Salg,2.870,3,Rækkehus,85,1976,,Aktuel værdi
+Åkandevej 117755 Bedsted Thy, Thy,510.850,05-12-1995,Alm. Salg,4.119,4,Villa,124,1976,,Aktuel værdi
+Astavej 6A7755 Bedsted Thy, Thy,575.000,10-11-1995,Alm. Salg,9.745,3,Sommerhus,59,1961,,Aktuel værdi
+Gartnervænget 7B7755 Bedsted Thy, Thy,394.500,04-11-1995,Alm. Salg,4.641,3,Rækkehus,85,1990,,Aktuel værdi
+Gudnæsvej 77755 Bedsted Thy, Thy,50.000,17-10-1995,Fam. Salg,357,4,Villa,140,1910,,Aktuel værdi
+Skolegade 447755 Bedsted Thy, Thy,93.720,29-09-1995,Alm. Salg,561,5,Villa,167,1996,,Aktuel værdi
+Oddesundvej 2247755 Bedsted Thy, Thy,585.000,29-09-1995,Alm. Salg,4.570,5,Stuehus,128,1963,,
+Hedegårdsvej 97755 Bedsted Thy, Thy,263.800,05-09-1995,Alm. Salg,2.093,4,Villa,126,1900,,Aktuel værdi
+Villerslevvej 877755 Bedsted Thy, Thy,1.921.400,02-09-1995,Alm. Salg,11.369,6,Stuehus,169,1903,,
+Lyngholmvej 47755 Bedsted Thy, Thy,205.000,31-08-1995,Alm. Salg,3.014,3,Villa,68,1954,,Aktuel værdi
+Grurup Kirkevej 47755 Bedsted Thy, Thy,425.000,23-08-1995,Alm. Salg,2.361,10,Villa,180,1900,,Aktuel værdi
+Morup Møllevej 207755 Bedsted Thy, Thy,195.000,17-08-1995,Alm. Salg,2.074,5,Villa,94,1946,,Aktuel værdi
+Rishøjvej 147755 Bedsted Thy, Thy,926.000,16-08-1995,Alm. Salg,-,6,Villa,225,1939,,Aktuel værdi
+Rønheden 357755 Bedsted Thy, Thy,285.000,03-07-1995,Alm. Salg,3.352,3,Rækkehus,85,1989,,Aktuel værdi
+Kystvejen 697755 Bedsted Thy, Thy,215.000,30-06-1995,Alm. Salg,1.131,7,Villa,190,1954,,Aktuel værdi
+Oddesundvej 1977755 Bedsted Thy, Thy,480.800,26-06-1995,Alm. Salg,3.005,5,Sommerhus,160,1860,,Aktuel værdi
+Skovvej 57755 Bedsted Thy, Thy,395.000,08-06-1995,Alm. Salg,2.532,5,Villa,156,1930,,Aktuel værdi
+Lyngbyvej 147755 Bedsted Thy, Thy,410.000,26-05-1995,Alm. Salg,3.059,6,Sommerhus,134,1968,,Aktuel værdi
+Thylandsgade 67755 Bedsted Thy, Thy,298.000,23-05-1995,Alm. Salg,1.216,7,Villa,245,1870,,Aktuel værdi
+Hedegårdsvej 257755 Bedsted Thy, Thy,125.355,22-05-1995,Fam. Salg,1.193,3,Villa,105,1904,,Aktuel værdi
+Thylandsgade 267755 Bedsted Thy, Thy,252.500,28-04-1995,Alm. Salg,2.104,6,Villa,120,1921,,Aktuel værdi
+Vittrupvej 97755 Bedsted Thy, Thy,245.000,28-04-1995,Alm. Salg,1.503,8,Villa,163,1880,,Aktuel værdi
+Nordvejen 147755 Bedsted Thy, Thy,350.000,12-04-1995,Alm. Salg,3.500,4,Villa,100,1922,,Aktuel værdi
+Istrupvej 277755 Bedsted Thy, Thy,1.950.000,29-03-1995,Alm. Salg,6.678,8,Stuehus,292,1917,,
+Morup Møllevej 187755 Bedsted Thy, Thy,420.000,27-03-1995,Alm. Salg,5.121,4,Villa,82,1954,,Aktuel værdi
+Skyumvej 1407755 Bedsted Thy, Thy,791.110,10-03-1995,Fam. Salg,5.239,5,Stuehus,151,1975,,
+Irisvej 127755 Bedsted Thy, Thy,150.000,16-02-1995,Alm. Salg,2.083,3,Villa,72,1970,,Aktuel værdi
+Præstegårdsvænget 57755 Bedsted Thy, Thy,460.000,06-02-1995,Alm. Salg,-,4,Villa,171,1893,,Aktuel værdi
+Rønheden 377755 Bedsted Thy, Thy,285.000,29-01-1995,Alm. Salg,3.352,3,Rækkehus,85,1989,,Aktuel værdi
+Frederiksvej 97755 Bedsted Thy, Thy,237.239,24-01-1995,Alm. Salg,2.965,3,Villa,80,1960,,Aktuel værdi
+Linnetsgade 77755 Bedsted Thy, Thy,39.085,20-12-1994,Alm. Salg,244,7,Villa,160,1900,,Aktuel værdi
+Oddesundvej 1817755 Bedsted Thy, Thy,280.000,11-10-1994,Alm. Salg,2.314,4,Villa,121,1890,,Aktuel værdi
+Brogårdsvej 117755 Bedsted Thy, Thy,50.340,15-07-1994,Alm. Salg,370,5,Villa,136,1930,,Aktuel værdi
+Villerslevvej 287755 Bedsted Thy, Thy,150.000,11-07-1994,Alm. Salg,1.685,3,Villa,89,1930,,Aktuel værdi
+Fruegårdsvej 57755 Bedsted Thy, Thy,425.000,09-07-1994,Alm. Salg,-,8,Stuehus,310,1922,,
+Villerslevvej 637755 Bedsted Thy, Thy,300.000,04-07-1994,Alm. Salg,2.857,3,Villa,105,1910,,Aktuel værdi
+Irisvej 107755 Bedsted Thy, Thy,240.000,16-06-1994,Alm. Salg,-,8,Villa,173,1967,,Aktuel værdi
+Horsfeldvej 147755 Bedsted Thy, Thy,420.862,15-06-1994,Alm. Salg,1.829,5,Villa,230,1920,,Aktuel værdi
+Morup Møllevej 867755 Bedsted Thy, Thy,190.000,10-06-1994,Alm. Salg,1.283,4,Villa,148,1900,,Aktuel værdi
+Villerslevvej 127755 Bedsted Thy, Thy,282.500,04-06-1994,Alm. Salg,2.077,4,Villa,136,1900,,Aktuel værdi
+Gundgårdsvej 117755 Bedsted Thy, Thy,540.000,30-05-1994,Alm. Salg,3.375,6,Stuehus,160,1911,,
+Balsbyvej 27755 Bedsted Thy, Thy,380.000,30-05-1994,Alm. Salg,3.064,4,Villa,124,1961,,Aktuel værdi
+Vestervigvej 857755 Bedsted Thy, Thy,200.000,15-05-1994,Alm. Salg,1.111,5,Villa,180,1890,,Aktuel værdi
+Horsfeldvej 187755 Bedsted Thy, Thy,300.000,14-04-1994,Fam. Salg,2.970,3,Villa,101,1983,,Aktuel værdi
+Gundgårdsvej 167755 Bedsted Thy, Thy,3.627.500,30-03-1994,Alm. Salg,13.435,8,Stuehus,270,1888,,
+Dalgårdvej 147755 Bedsted Thy, Thy,295.000,24-03-1994,Alm. Salg,1.657,8,Stuehus,178,1915,,
+Østergade 97755 Bedsted Thy, Thy,325.000,23-02-1994,Alm. Salg,2.355,6,Villa,138,1933,,Aktuel værdi
+Svindborgvej 137755 Bedsted Thy, Thy,620.000,12-02-1994,Alm. Salg,3.875,4,Stuehus,160,1900,,
+Dalgårdvej 67755 Bedsted Thy, Thy,875.000,17-01-1994,Alm. Salg,-,6,Stuehus,261,1929,,
+Skolegade 57755 Bedsted Thy, Thy,584.000,14-01-1994,Alm. Salg,3.073,5,Villa,190,1973,,Aktuel værdi
+Hedegårdsvej 387755 Bedsted Thy, Thy,675.000,25-10-1993,Alm. Salg,-,9,Stuehus,243,1898,,
+Kirkebakken 107755 Bedsted Thy, Thy,540.000,22-10-1993,Alm. Salg,2.887,7,Villa,187,1978,,Aktuel værdi
+Stenskærvej 17755 Bedsted Thy, Thy,850.000,04-10-1993,Alm. Salg,7.727,3,Stuehus,110,1964,,
+Visbyvej 127755 Bedsted Thy, Thy,90.000,01-10-1993,Alm. Salg,1.022,3,Villa,88,1919,,Aktuel værdi
+Gyvelvænget 47755 Bedsted Thy, Thy,425.000,24-09-1993,Alm. Salg,3.541,4,Villa,120,1972,,Aktuel værdi
+Jordemodervej 47755 Bedsted Thy, Thy,160.000,15-09-1993,Alm. Salg,1.000,4,Villa,160,1900,,Aktuel værdi
+Gyvelvænget 57755 Bedsted Thy, Thy,535.000,31-08-1993,Alm. Salg,3.496,5,Villa,153,1973,,Aktuel værdi
+Åbrovej 217755 Bedsted Thy, Thy,585.000,26-08-1993,Fam. Salg,5.318,5,Stuehus,110,1912,,
+Kystvejen 757755 Bedsted Thy, Thy,480.000,16-06-1993,Fam. Salg,3.720,3,Stuehus,129,2003,,
+Bakkevej 97755 Bedsted Thy, Thy,310.000,18-05-1993,Alm. Salg,3.100,4,Villa,100,1964,,Aktuel værdi
+Oddesundvej 2507755 Bedsted Thy, Thy,710.000,29-04-1993,Alm. Salg,4.671,4,Stuehus,152,1902,,
+Svankærvej 37755 Bedsted Thy, Thy,200.000,27-04-1993,Fam. Salg,1.818,5,Villa,110,1976,,Aktuel værdi
+Vestervigvej 1557755 Bedsted Thy, Thy,155.000,26-04-1993,Alm. Salg,1.291,4,Villa,120,1928,,Aktuel værdi
+Vestervigvej 1237755 Bedsted Thy, Thy,347.500,23-04-1993,Alm. Salg,3.994,3,Villa,87,1925,,Aktuel værdi
+Villerupvej 157755 Bedsted Thy, Thy,355.000,29-03-1993,Alm. Salg,-,8,Stuehus,226,1930,,
+Grurupvej 327755 Bedsted Thy, Thy,639.828,03-03-1993,Alm. Salg,2.908,8,Stuehus,220,1914,,
+"Thylandsgade 16B, ST7755 Bedsted Thy", Thy,25.000,22-02-1993,Alm. Salg,446,2,Lejlighed,56,1929,,Aktuel værdi
+Sølystvej 17755 Bedsted Thy, Thy,415.000,18-02-1993,Alm. Salg,2.561,8,Villa,162,1927,,Aktuel værdi
+Vestervigvej 117755 Bedsted Thy, Thy,119.000,01-02-1993,Fam. Salg,1.053,4,Stuehus,113,1916,,
+Lyngbyvej 467755 Bedsted Thy, Thy,382.000,02-01-1993,Alm. Salg,2.122,6,Villa,180,1934,,Aktuel værdi
+Højbogårdsvej 57755 Bedsted Thy, Thy,180.000,05-12-1992,Alm. Salg,983,8,Stuehus,183,1929,,
+Vestervigvej 217755 Bedsted Thy, Thy,334.852,08-11-1992,Alm. Salg,3.348,4,Villa,100,1920,,Aktuel værdi
+Stormgade 417755 Bedsted Thy, Thy,439.500,12-10-1992,Alm. Salg,2.989,4,Villa,147,1980,,Aktuel værdi
+Nordvejen 47755 Bedsted Thy, Thy,290.000,28-08-1992,Alm. Salg,1.534,7,Villa,189,1907,,Aktuel værdi
+Lyngbyvej 37755 Bedsted Thy, Thy,455.000,03-08-1992,Alm. Salg,4.062,6,Stuehus,112,1911,,
+Vestervigvej 627755 Bedsted Thy, Thy,100.000,23-07-1992,Alm. Salg,2.000,3,Villa,50,1923,,Aktuel værdi
+Hedegårdsvej 77755 Bedsted Thy, Thy,300.000,09-07-1992,Fam. Salg,1.229,10,Stuehus,244,1906,,
+Gudnæsvej 287755 Bedsted Thy, Thy,1.225.000,04-07-1992,Alm. Salg,4.939,6,Stuehus,248,1897,,
+Vestervigvej 1417755 Bedsted Thy, Thy,135.000,25-05-1992,Alm. Salg,-,6,Villa,187,1922,,Aktuel værdi
+Nørgårdsvej 37755 Bedsted Thy, Thy,391.000,13-05-1992,Alm. Salg,3.258,4,Stuehus,120,1912,,
+Vestervigvej 1377755 Bedsted Thy, Thy,95.000,04-05-1992,Alm. Salg,-,8,Villa,246,1887,,Aktuel værdi
+Svindborgvej 47755 Bedsted Thy, Thy,350.000,27-04-1992,Fam. Salg,2.258,7,Villa,155,1907,,Aktuel værdi
+Gartnervænget 97755 Bedsted Thy, Thy,512.500,24-04-1992,Alm. Salg,4.270,4,Villa,120,1976,,Aktuel værdi
+Vestervigvej 317755 Bedsted Thy, Thy,320.000,02-03-1992,Alm. Salg,2.909,4,Villa,110,1969,,Aktuel værdi
+Vestervigvej 1357755 Bedsted Thy, Thy,290.000,18-02-1992,Alm. Salg,1.959,5,Villa,148,1918,,Aktuel værdi
+Morup Møllevej 877755 Bedsted Thy, Thy,190.000,06-02-1992,Alm. Salg,954,6,Stuehus,199,1932,,
+Morup Møllevej 47755 Bedsted Thy, Thy,275.000,28-01-1992,Alm. Salg,2.500,5,Villa,110,1922,,Aktuel værdi
+Kystvejen 897755 Bedsted Thy, Thy,530.000,22-01-1992,Alm. Salg,3.397,6,Stuehus,156,1925,,
+Skovlyvej 257755 Bedsted Thy, Thy,125.000,22-01-1992,Alm. Salg,1.666,4,Sommerhus,75,1994,,Aktuel værdi

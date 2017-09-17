@@ -1,0 +1,430 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Rendebjergvej 75463 Harndrup,drup,535.500,04-04-2017,Alm. Salg,4.318,5,Stuehus,124,1864,,
+Skovvej 45463 Harndrup,drup,460.000,30-03-2017,Alm. Salg,3.833,3,Villa,120,1954,-16 %,Aktuel værdi
+Billesbøllevej 45463 Harndrup,drup,1.200.000,06-02-2017,Andet,5.106,9,Stuehus,235,1921,,
+Ejbyvej 595463 Harndrup,drup,175.000,19-12-2016,Alm. Salg,1.881,4,Villa,93,1896,,Aktuel værdi
+Jægersmindevej 255463 Harndrup,drup,675.000,15-12-2016,Alm. Salg,4.787,7,Villa,141,1845,-3 %,Aktuel værdi
+Juelsmindevænget 65463 Harndrup,drup,1.300.000,13-12-2016,Alm. Salg,11.111,4,Villa,117,2008,,Aktuel værdi
+Ridderstien 45463 Harndrup,drup,346.083,07-12-2016,Alm. Salg,1.955,5,Villa,177,1900,,Aktuel værdi
+Rugårdsvej 465463 Harndrup,drup,900.000,30-11-2016,Alm. Salg,5.454,4,Villa,165,1914,-10 %,Aktuel værdi
+Hønnerupvej 935463 Harndrup,drup,1.500.000,31-10-2016,Alm. Salg,8.670,7,Stuehus,173,1800,,
+Fjellerupvej 95463 Harndrup,drup,1.251.963,25-10-2016,Alm. Salg,5.216,8,Villa,240,1961,,Aktuel værdi
+Billesbølle Mark 115463 Harndrup,drup,1.960.000,17-08-2016,Alm. Salg,9.245,6,Stuehus,212,1770,-2 %,
+Idrætsvej 55463 Harndrup,drup,715.000,20-07-2016,Alm. Salg,6.875,6,Villa,104,1964,-5 %,Aktuel værdi
+Lundsgårdsvej 265463 Harndrup,drup,3.280.000,15-06-2016,Alm. Salg,16.400,7,Stuehus,200,1840,,
+Hjortebjergvej 375463 Harndrup,drup,85.500,15-06-2016,Alm. Salg,619,6,Villa,138,1935,,Aktuel værdi
+Fjellerupvej 335463 Harndrup,drup,795.000,14-06-2016,Alm. Salg,6.162,4,Villa,129,1917,0 %,Aktuel værdi
+Vindebjergvej 15A5463 Harndrup,drup,1.200.000,30-05-2016,Alm. Salg,13.043,2,Villa,92,1987,,Aktuel værdi
+Sletterødvej 205463 Harndrup,drup,75.000,23-05-2016,Alm. Salg,852,4,Villa,88,1915,,Aktuel værdi
+Rugårdsvej 75463 Harndrup,drup,430.000,11-05-2016,Alm. Salg,3.739,5,Villa,115,1827,-4 %,Aktuel værdi
+Jægersmindevej 195463 Harndrup,drup,775.000,08-05-2016,Fam. Salg,2.969,9,Villa,261,1934,-50 %,Aktuel værdi
+Fjellerupvej 555463 Harndrup,drup,1.200.000,28-04-2016,Alm. Salg,9.160,5,Stuehus,131,1923,-18 %,
+Ridderstien 265463 Harndrup,drup,750.000,06-04-2016,Alm. Salg,7.894,3,Villa,95,1947,-13 %,Aktuel værdi
+Vindebjergvej 605463 Harndrup,drup,750.000,31-03-2016,Alm. Salg,7.281,4,Villa,103,1975,0 %,Aktuel værdi
+Fjellerupvej 25463 Harndrup,drup,1.468.000,18-03-2016,Alm. Salg,8.534,7,Villa,172,1858,,Aktuel værdi
+Rendebjergvej 65463 Harndrup,drup,25.000.000,18-03-2016,Alm. Salg,104.602,8,Stuehus,239,1950,,
+Hjortebjergvænget 65463 Harndrup,drup,950.000,10-03-2016,Andet,4.439,7,Villa,214,2007,,Aktuel værdi
+Fjellerupvej 375463 Harndrup,drup,300.000,03-03-2016,Alm. Salg,2.654,4,Villa,113,1902,-14 %,Aktuel værdi
+Knabosholmvej 35463 Harndrup,drup,1.100.000,13-02-2016,Alm. Salg,7.692,8,Stuehus,143,1930,,
+Åvænget 295463 Harndrup,drup,970.000,07-02-2016,Alm. Salg,6.928,4,Villa,140,1975,-3 %,Aktuel værdi
+Graderupvej 45463 Harndrup,drup,1.950.000,22-01-2016,Alm. Salg,10.263,4,Stuehus,190,1880,5 %,
+Åvænget 355463 Harndrup,drup,640.000,13-01-2016,Alm. Salg,4.885,5,Villa,131,1979,-12 %,Aktuel værdi
+Overgade 45463 Harndrup,drup,750.000,07-01-2016,Alm. Salg,3.807,7,Villa,197,1910,-12 %,Aktuel værdi
+Juelsmindevej 265463 Harndrup,drup,1.802.650,05-01-2016,Alm. Salg,11.266,4,Villa,160,2007,,Aktuel værdi
+Fjellerupvej 435463 Harndrup,drup,96.800,24-11-2015,Auktion,880,6,Villa,110,1877,,Aktuel værdi
+Skovgårdvej 45463 Harndrup,drup,1.615.000,19-11-2015,Alm. Salg,9.787,5,Villa,165,1803,-10 %,Aktuel værdi
+Jægersmindevej 35463 Harndrup,drup,250.000,10-11-2015,Auktion,3.125,4,Villa,80,1890,,Aktuel værdi
+Altonavej 15463 Harndrup,drup,35.000,28-10-2015,Alm. Salg,230,8,Villa,152,1827,,Aktuel værdi
+Lundsgårdsvej 185463 Harndrup,drup,740.000,23-10-2015,Alm. Salg,4.111,5,Villa,180,1900,-17 %,Aktuel værdi
+Juelsmindevænget 55463 Harndrup,drup,1.125.000,21-10-2015,Alm. Salg,10.922,4,Villa,103,2007,-6 %,Aktuel værdi
+Nederballevej 385463 Harndrup,drup,1.075.000,17-09-2015,Alm. Salg,7.789,4,Villa,138,1997,-2 %,Aktuel værdi
+Jægersmindevej 265463 Harndrup,drup,1.025.000,28-08-2015,Alm. Salg,7.945,5,Villa,129,1961,-6 %,Aktuel værdi
+Sletterødvej 115463 Harndrup,drup,130.000,04-08-2015,Auktion,1.300,4,Villa,100,1968,,Aktuel værdi
+Broholmvej 265463 Harndrup,drup,1.000.000,17-07-2015,Alm. Salg,6.060,4,Stuehus,165,1892,,
+Vindebjergvej 365463 Harndrup,drup,1.400.000,26-06-2015,Alm. Salg,7.000,6,Villa,200,1936,-6 %,Aktuel værdi
+Rugårdsvej 615463 Harndrup,drup,750.000,28-05-2015,Alm. Salg,5.000,5,Villa,150,1897,-6 %,Aktuel værdi
+Fjellerupvej 345463 Harndrup,drup,410.000,23-05-2015,Alm. Salg,2.928,4,Villa,140,1912,-23 %,Aktuel værdi
+Berlin 285463 Harndrup,drup,775.000,16-05-2015,Fam. Salg,4.057,6,Villa,191,1827,-44 %,Aktuel værdi
+Fjellerupvej 325463 Harndrup,drup,810.000,30-03-2015,Alm. Salg,4.090,7,Villa,198,1728,-5 %,Aktuel værdi
+Vindebjergvej 205463 Harndrup,drup,1.100.000,28-03-2015,Alm. Salg,9.909,3,Villa,111,1958,-4 %,Aktuel værdi
+Sletterødvej 185463 Harndrup,drup,380.000,19-03-2015,Alm. Salg,3.454,6,Villa,110,1960,-11 %,Aktuel værdi
+Åløkkevej 65463 Harndrup,drup,282.407,03-03-2015,Auktion,1.426,5,Villa,198,1924,-48 %,Aktuel værdi
+Stengade 355463 Harndrup,drup,1.500.000,12-02-2015,Alm. Salg,6.521,11,Villa,230,1910,-12 %,Aktuel værdi
+Rugårdsvej 255463 Harndrup,drup,298.796,04-02-2015,Fam. Salg,2.197,4,Villa,136,1912,-60 %,Aktuel værdi
+Graderupvej 125463 Harndrup,drup,215.000,07-01-2015,Alm. Salg,1.954,3,Villa,110,1956,-12 %,Aktuel værdi
+Ejbyvej 505463 Harndrup,drup,1.150.000,22-12-2014,Alm. Salg,9.663,5,Villa,119,1906,0 %,Aktuel værdi
+Vindebjergvej 545463 Harndrup,drup,700.000,05-12-2014,Alm. Salg,5.109,5,Villa,137,1960,-26 %,Aktuel værdi
+Nederballevej 13A5463 Harndrup,drup,1.700.000,02-12-2014,Alm. Salg,9.659,7,Villa,176,1974,-5 %,Aktuel værdi
+Fjellerupvej 415463 Harndrup,drup,350.000,03-10-2014,Auktion,2.482,5,Villa,141,1912,-33 %,Aktuel værdi
+Juelsmindevej 255463 Harndrup,drup,673.306,18-08-2014,Andet,3.383,5,Villa,199,1953,,Aktuel værdi
+Sletterødvej 45463 Harndrup,drup,836.474,14-08-2014,Fam. Salg,2.230,9,Villa,375,1827,,Aktuel værdi
+Sletterødvej 245463 Harndrup,drup,762.277,04-08-2014,Fam. Salg,4.380,5,Villa,174,1991,,Aktuel værdi
+Kildevej 25463 Harndrup,drup,493.811,07-07-2014,Alm. Salg,3.857,5,Villa,128,1972,,Aktuel værdi
+Jægersmindevej 215463 Harndrup,drup,625.000,23-06-2014,Alm. Salg,6.944,3,Villa,90,1959,-10 %,Aktuel værdi
+Ejbyvej 615463 Harndrup,drup,200.000,19-06-2014,Alm. Salg,1.639,5,Villa,122,1940,-30 %,Aktuel værdi
+Stengade 185463 Harndrup,drup,435.000,13-05-2014,Auktion,3.398,5,Villa,128,1928,,Aktuel værdi
+Vindebjergvej 525463 Harndrup,drup,675.000,23-04-2014,Alm. Salg,5.152,4,Villa,131,1967,,Aktuel værdi
+Idrætsvej 35463 Harndrup,drup,750.000,27-03-2014,Alm. Salg,5.208,5,Villa,144,1965,-12 %,Aktuel værdi
+Stævnegårdsvej 25463 Harndrup,drup,480.000,23-03-2014,Alm. Salg,2.526,6,Villa,190,2016,,Aktuel værdi
+Jægersmindevej 115463 Harndrup,drup,1.140.000,10-03-2014,Alm. Salg,7.600,6,Villa,150,1897,-5 %,Aktuel værdi
+Rugårdsvej 995463 Harndrup,drup,317.606,24-02-2014,Alm. Salg,2.062,5,Villa,154,1827,,Aktuel værdi
+Fjellerup Mark 165463 Harndrup,drup,1.525.000,22-02-2014,Alm. Salg,8.198,6,Villa,186,1920,0 %,Aktuel værdi
+Hjortebjergvænget 45463 Harndrup,drup,595.000,19-02-2014,Alm. Salg,4.343,5,Villa,137,1972,0 %,Aktuel værdi
+Nederballevænget 135463 Harndrup,drup,588.500,31-12-2013,Alm. Salg,4.458,7,Villa,132,1980,,Aktuel værdi
+Lundsgårdsvej 215463 Harndrup,drup,1.200.000,21-11-2013,Alm. Salg,5.504,8,Stuehus,218,1790,-14 %,
+Nederballevej 65463 Harndrup,drup,625.000,01-11-2013,Alm. Salg,5.733,4,Villa,109,2014,-34 %,Aktuel værdi
+Harndrup Skov 335463 Harndrup,drup,1.150.000,22-10-2013,Alm. Salg,11.500,4,Stuehus,100,1877,-14 %,
+Rugårdsvej 505463 Harndrup,drup,300.000,18-10-2013,Alm. Salg,1.960,4,Villa,153,2014,-14 %,Aktuel værdi
+Harndrup Skov 15463 Harndrup,drup,25.000,03-10-2013,Auktion,301,5,Villa,83,1800,-96 %,Aktuel værdi
+Nederballevej 155463 Harndrup,drup,200.000,20-08-2013,Alm. Salg,3.333,2,Villa,60,1783,-20 %,Aktuel værdi
+Åkrogen 125463 Harndrup,drup,1.050.000,16-07-2013,Alm. Salg,7.954,5,Villa,132,1983,-4 %,Aktuel værdi
+Hjortebjergvænget 35463 Harndrup,drup,995.000,14-07-2013,Alm. Salg,5.718,6,Villa,174,1920,-17 %,Aktuel værdi
+Fjellerupvej 355463 Harndrup,drup,102.500,13-06-2013,Alm. Salg,362,8,Stuehus,283,1927,,
+Ridderstien 145463 Harndrup,drup,230.000,14-05-2013,Auktion,2.346,3,Villa,98,1960,,Aktuel værdi
+Trydenvej 95463 Harndrup,drup,1.350.000,07-05-2013,Alm. Salg,6.683,8,Villa,202,1877,-7 %,Aktuel værdi
+Kærvej 75463 Harndrup,drup,1.100.000,25-04-2013,Alm. Salg,7.189,4,Villa,153,1945,-12 %,Aktuel værdi
+Berlin 15463 Harndrup,drup,1.750.000,16-04-2013,Alm. Salg,7.954,8,Stuehus,220,1902,-8 %,
+Stengade 135463 Harndrup,drup,1.745.000,22-03-2013,Alm. Salg,9.587,6,Villa,182,1918,-3 %,Aktuel værdi
+Billesbøllevej 145463 Harndrup,drup,205.575,19-03-2013,Alm. Salg,1.142,8,Stuehus,180,1850,,
+Fjellerupvej 305463 Harndrup,drup,105.000,13-12-2012,Auktion,589,8,Villa,178,1917,,Aktuel værdi
+Trydenvej 55463 Harndrup,drup,1.150.000,04-12-2012,Alm. Salg,8.778,5,Stuehus,131,1951,-20 %,
+Rugårdsvej 555463 Harndrup,drup,225.000,30-10-2012,Auktion,1.691,4,Villa,133,1910,,Aktuel værdi
+Rugårdsvej 485463 Harndrup,drup,590.000,24-10-2012,Alm. Salg,4.338,3,Villa,136,1900,-9 %,Aktuel værdi
+Fjellerupvej 315463 Harndrup,drup,485.000,02-10-2012,Auktion,2.803,7,Villa,173,1961,,Aktuel værdi
+Hjortebjergvænget 95463 Harndrup,drup,1.025.000,20-07-2012,Alm. Salg,7.945,6,Villa,129,1900,-5 %,Aktuel værdi
+Juelsmindevænget 155463 Harndrup,drup,1.580.000,14-06-2012,Alm. Salg,10.000,6,Villa,158,1996,-7 %,Aktuel værdi
+Hjortebjergvej 65463 Harndrup,drup,137.795,12-06-2012,Auktion,1.148,5,Villa,120,1934,,Aktuel værdi
+Rugårdsvej 95463 Harndrup,drup,700.000,15-05-2012,Alm. Salg,4.729,6,Villa,148,1867,-12 %,Aktuel værdi
+Berlin 95463 Harndrup,drup,456.500,10-05-2012,Fam. Salg,3.804,8,Stuehus,120,1976,,
+Stengade 125463 Harndrup,drup,950.000,30-04-2012,Alm. Salg,7.089,6,Villa,134,1912,0 %,Aktuel værdi
+Idrætsvej 15463 Harndrup,drup,700.000,27-04-2012,Alm. Salg,5.468,4,Villa,128,1965,-26 %,Aktuel værdi
+Fyllestedvej 445463 Harndrup,drup,1.200.000,13-04-2012,Alm. Salg,8.955,7,Villa,134,1930,-8 %,Aktuel værdi
+Åvænget 25463 Harndrup,drup,595.000,11-04-2012,Alm. Salg,4.958,4,Villa,120,1962,-23 %,Aktuel værdi
+Åvænget 315463 Harndrup,drup,950.000,29-03-2012,Alm. Salg,6.884,3,Villa,138,1972,-10 %,Aktuel værdi
+Skovvej 65463 Harndrup,drup,795.000,22-12-2011,Alm. Salg,5.129,4,Villa,155,1880,0 %,Aktuel værdi
+Hjortebjergvænget 55463 Harndrup,drup,1.050.000,22-12-2011,Alm. Salg,13.125,3,Villa,80,1954,-4 %,Aktuel værdi
+Ejbyvej 545463 Harndrup,drup,360.000,10-11-2011,Alm. Salg,2.368,5,Villa,152,1975,-64 %,Aktuel værdi
+Vindebjergvej 315463 Harndrup,drup,475.000,20-10-2011,Alm. Salg,3.800,5,Villa,125,1959,-30 %,Aktuel værdi
+Vindebjergvej 4A5463 Harndrup,drup,574.313,05-09-2011,Alm. Salg,5.982,2,Villa,96,1976,,Aktuel værdi
+Jægersmindevej 245463 Harndrup,drup,145.000,30-08-2011,Auktion,1.355,4,Villa,107,1915,,Aktuel værdi
+Skydsbjergvej 335463 Harndrup,drup,1.345.000,11-08-2011,Alm. Salg,7.430,5,Stuehus,181,1904,0 %,
+Kildevej 85463 Harndrup,drup,734.420,14-07-2011,Alm. Salg,7.571,4,Villa,97,1902,,Aktuel værdi
+Hjortebjergvej 305463 Harndrup,drup,1.225.000,17-05-2011,Alm. Salg,8.566,5,Villa,143,1976,-4 %,Aktuel værdi
+Ejbyvej 585463 Harndrup,drup,120.000,30-04-2011,Alm. Salg,1.500,3,Villa,80,1777,-52 %,Aktuel værdi
+Jægersmindevej 365463 Harndrup,drup,850.000,12-04-2011,Alm. Salg,7.727,4,Villa,110,1964,-5 %,Aktuel værdi
+Skovvej 225463 Harndrup,drup,1.135.000,07-04-2011,Alm. Salg,5.973,9,Stuehus,190,1908,,
+Stengade 265463 Harndrup,drup,400.000,14-02-2011,Alm. Salg,2.339,6,Villa,171,1922,,Aktuel værdi
+Vindebjergvej 195463 Harndrup,drup,630.000,02-02-2011,Alm. Salg,6.562,3,Stuehus,96,1963,,
+Kildevej 75463 Harndrup,drup,1.150.000,21-01-2011,Alm. Salg,5.528,3,Villa,208,1910,-18 %,Aktuel værdi
+Stengade 395463 Harndrup,drup,1.000.000,20-01-2011,Alm. Salg,3.787,6,Villa,264,1910,,Aktuel værdi
+Juelsmindevænget 175463 Harndrup,drup,1.425.000,13-01-2011,Alm. Salg,10.326,4,Villa,138,2010,-5 %,Aktuel værdi
+Hønnerupvej 1055463 Harndrup,drup,2.100.000,04-01-2011,Alm. Salg,6.287,14,Stuehus,334,1924,,
+Berlin 355463 Harndrup,drup,545.000,29-11-2010,Alm. Salg,6.646,3,Villa,82,1860,0 %,Aktuel værdi
+Rugårdsvej 315463 Harndrup,drup,390.000,10-11-2010,Alm. Salg,3.482,6,Stuehus,112,1877,,
+Sletterødvej 135463 Harndrup,drup,1.100.000,05-11-2010,Alm. Salg,5.418,10,Villa,203,1887,-8 %,Aktuel værdi
+Åløkkevej 85463 Harndrup,drup,780.000,02-11-2010,Alm. Salg,8.666,3,Villa,90,1924,-2 %,Aktuel værdi
+Harndrup Skov 285463 Harndrup,drup,1.645.000,21-09-2010,Alm. Salg,6.825,8,Stuehus,241,1860,-1 %,
+Jægersmindevej 485463 Harndrup,drup,636.000,05-09-2010,Andet,4.478,5,Villa,142,1920,,Aktuel værdi
+Åvænget 55463 Harndrup,drup,770.500,31-08-2010,Fam. Salg,5.464,6,Villa,141,1959,,Aktuel værdi
+Vindebjergvej 55463 Harndrup,drup,1.100.000,14-08-2010,Alm. Salg,11.702,4,Villa,94,1900,-11 %,Aktuel værdi
+Ridderstien 95463 Harndrup,drup,1.120.000,26-07-2010,Alm. Salg,8.549,4,Villa,131,1870,-7 %,Aktuel værdi
+Ridderstien 25463 Harndrup,drup,77.935,08-07-2010,Auktion,304,9,Villa,256,1904,,Aktuel værdi
+Ridderstien 175463 Harndrup,drup,1.600.000,18-05-2010,Alm. Salg,13.114,5,Villa,122,1932,,Aktuel værdi
+Ridderstien 255463 Harndrup,drup,1.530.000,10-05-2010,Andet,7.574,6,Villa,202,1980,,Aktuel værdi
+Rugårdsvej 1105463 Harndrup,drup,325.000,04-05-2010,Auktion,2.138,5,Villa,152,2015,,Aktuel værdi
+Hjortebjergvej 205463 Harndrup,drup,1.200.000,28-04-2010,Alm. Salg,4.363,9,Villa,275,1920,-20 %,Aktuel værdi
+Sletterødvej 145463 Harndrup,drup,1.335.000,22-04-2010,Alm. Salg,-,5,Villa,184,1902,-2 %,Aktuel værdi
+Hønnerupvej 1115463 Harndrup,drup,900.000,14-04-2010,Fam. Salg,7.031,4,Villa,128,1972,,Aktuel værdi
+Broholmvej 95463 Harndrup,drup,2.450.000,06-04-2010,Auktion,6.314,5,Stuehus,388,1905,,
+Nederballevej 105463 Harndrup,drup,200.000,29-03-2010,Alm. Salg,769,8,Stuehus,260,1910,,
+Skovvej 195463 Harndrup,drup,990.000,29-03-2010,Alm. Salg,9.000,5,Stuehus,110,1925,-10 %,
+Stengade 65463 Harndrup,drup,780.000,19-03-2010,Alm. Salg,6.000,6,Villa,130,1911,-8 %,Aktuel værdi
+Rugårdsvej 1245463 Harndrup,drup,1.000.000,18-02-2010,Auktion,3.663,9,Stuehus,273,2014,-44 %,
+Rugårdsvej 815463 Harndrup,drup,2.360.000,15-02-2010,Fam. Salg,9.554,6,Stuehus,247,1985,-19 %,
+Store Landevej 1135463 Harndrup,drup,50.000,11-02-2010,Auktion,416,3,Villa,120,1777,-82 %,Aktuel værdi
+Billesbøllevej 95463 Harndrup,drup,700.000,09-02-2010,Alm. Salg,2.641,6,Villa,265,1890,,Aktuel værdi
+Juelsmindevænget 85463 Harndrup,drup,109.920,02-02-2010,Alm. Salg,774,5,Villa,142,2011,,Aktuel værdi
+Jægersmindevej 285463 Harndrup,drup,575.000,19-01-2010,Alm. Salg,6.534,3,Villa,88,1962,-12 %,Aktuel værdi
+Nederballevej 195463 Harndrup,drup,420.000,06-01-2010,Alm. Salg,2.608,6,Villa,161,1892,,Aktuel værdi
+Rugårdsvej 1465463 Harndrup,drup,1.220.000,13-11-2009,Alm. Salg,5.781,8,Villa,211,1870,-6 %,Aktuel værdi
+Stengade 195463 Harndrup,drup,850.000,27-10-2009,Fam. Salg,6.589,6,Villa,129,1933,,Aktuel værdi
+Stengade 305463 Harndrup,drup,629.687,22-10-2009,Andet,4.806,6,Villa,131,1932,,Aktuel værdi
+Rugårdsvej 45463 Harndrup,drup,400.000,01-09-2009,Alm. Salg,6.060,5,Villa,66,1898,-11 %,Aktuel værdi
+Juelsmindevej 45463 Harndrup,drup,325.000,28-07-2009,Alm. Salg,3.125,4,Villa,104,1814,-7 %,Aktuel værdi
+Ridderstien 285463 Harndrup,drup,900.000,01-07-2009,Alm. Salg,5.357,4,Villa,168,1941,-9 %,Aktuel værdi
+Fjellerupvej 595463 Harndrup,drup,1.225.000,24-06-2009,Alm. Salg,5.542,5,Stuehus,221,2012,-6 %,
+Jægersmindevej 95463 Harndrup,drup,1.025.000,11-06-2009,Alm. Salg,10.677,4,Villa,96,1973,-14 %,Aktuel værdi
+Jægersmindevej 275463 Harndrup,drup,1.850.000,13-05-2009,Alm. Salg,12.500,6,Stuehus,148,1903,,
+Nederballevænget 25463 Harndrup,drup,748.000,30-04-2009,Alm. Salg,10.388,3,Villa,72,1977,,Aktuel værdi
+Kildevej 45463 Harndrup,drup,900.000,03-03-2009,Auktion,7.964,4,Villa,113,1964,-20 %,Aktuel værdi
+Overgade 25463 Harndrup,drup,1.025.000,17-02-2009,Alm. Salg,8.913,3,Villa,115,1968,,Aktuel værdi
+Ridderstien 115463 Harndrup,drup,675.000,13-02-2009,Fam. Salg,4.560,4,Villa,148,1827,,Aktuel værdi
+Harndrup Skov 365463 Harndrup,drup,800.000,01-11-2008,Fam. Salg,8.988,3,Stuehus,89,1900,,
+Rugårdsvej 905463 Harndrup,drup,2.200.000,03-10-2008,Alm. Salg,12.571,5,Villa,175,1933,-4 %,Aktuel værdi
+Stengade 285463 Harndrup,drup,765.000,29-07-2008,Alm. Salg,9.107,4,Villa,84,1962,0 %,Aktuel værdi
+Berlin 35463 Harndrup,drup,925.000,14-07-2008,Alm. Salg,5.781,5,Villa,160,1827,-3 %,Aktuel værdi
+Juelsmindevænget 195463 Harndrup,drup,850.000,11-07-2008,Alm. Salg,5.862,5,Villa,145,2005,,Aktuel værdi
+Rugårdsvej 535463 Harndrup,drup,995.000,18-06-2008,Alm. Salg,4.585,8,Villa,217,1867,0 %,Aktuel værdi
+Berlin 255463 Harndrup,drup,995.000,12-06-2008,Alm. Salg,15.307,4,Villa,65,1847,0 %,Aktuel værdi
+Stengade 255463 Harndrup,drup,1.300.000,07-04-2008,Alm. Salg,8.125,5,Villa,160,1924,-10 %,Aktuel værdi
+Juelsmindevænget 125463 Harndrup,drup,1.850.000,18-03-2008,Alm. Salg,11.144,5,Villa,166,1986,-5 %,Aktuel værdi
+Vindebjergvej 35463 Harndrup,drup,695.000,28-02-2008,Alm. Salg,8.176,3,Villa,85,1946,0 %,Aktuel værdi
+Kildevej 115463 Harndrup,drup,750.000,27-02-2008,Fam. Salg,5.769,5,Villa,130,1850,,Aktuel værdi
+Store Landevej 1165463 Harndrup,drup,13.818.572,27-12-2007,Andet,68.071,11,Stuehus,203,1926,,
+Skydsbjergvej 15463 Harndrup,drup,795.000,24-12-2007,Alm. Salg,15.900,3,Villa,50,1957,,Aktuel værdi
+Rugårdsvej 405463 Harndrup,drup,625.000,22-12-2007,Alm. Salg,11.363,2,Villa,55,1850,0 %,Aktuel værdi
+"Rugårdsvej 75, ST5463 Harndrup",drup,795.000,20-12-2007,Alm. Salg,6.115,3,Villa,130,1907,0 %,Aktuel værdi
+Fjellerupvej 215463 Harndrup,drup,1.895.000,09-11-2007,Alm. Salg,12.633,4,Villa,150,1900,0 %,Aktuel værdi
+Vindebjergvej 535463 Harndrup,drup,575.000,19-10-2007,Alm. Salg,5.424,4,Villa,106,1851,0 %,Aktuel værdi
+Jægersmindevej 445463 Harndrup,drup,1.525.000,13-10-2007,Alm. Salg,8.111,7,Villa,188,1906,,Aktuel værdi
+Åvænget 35463 Harndrup,drup,865.000,11-10-2007,Alm. Salg,7.208,4,Villa,120,1800,-3 %,Aktuel værdi
+Skydsbjergvej 265463 Harndrup,drup,2.000.000,10-09-2007,Alm. Salg,10.869,7,Stuehus,184,1897,,
+Vindebjergvej 265463 Harndrup,drup,2.275.000,06-09-2007,Alm. Salg,15.166,6,Stuehus,150,1890,,
+Åvænget 45463 Harndrup,drup,514.611,06-08-2007,Alm. Salg,4.678,3,Villa,110,1965,,Aktuel værdi
+Harndrup Skov 85463 Harndrup,drup,450.000,30-07-2007,Alm. Salg,3.082,8,Stuehus,146,1850,,
+Vindebjergvej 585463 Harndrup,drup,945.000,27-07-2007,Alm. Salg,6.750,5,Villa,140,1970,6 %,Aktuel værdi
+Graderupvej 10A5463 Harndrup,drup,880.000,11-07-2007,Alm. Salg,4.334,9,Villa,203,1777,,Aktuel værdi
+Skovvej 85463 Harndrup,drup,500.000,09-07-2007,Fam. Salg,3.846,5,Villa,130,1935,,Aktuel værdi
+Kildevej 15463 Harndrup,drup,1.000.000,13-06-2007,Alm. Salg,8.000,5,Villa,125,1916,-5 %,Aktuel værdi
+Nederballevej 25463 Harndrup,drup,725.000,07-06-2007,Alm. Salg,7.107,5,Villa,102,1953,,Aktuel værdi
+Åkrogen 105463 Harndrup,drup,735.000,02-06-2007,Alm. Salg,5.610,5,Villa,131,1980,,Aktuel værdi
+Stengade 55463 Harndrup,drup,1.045.000,31-05-2007,Alm. Salg,6.531,7,Villa,160,1914,,Aktuel værdi
+Ridderstien 185463 Harndrup,drup,725.000,01-05-2007,Alm. Salg,9.666,2,Villa,75,1952,,Aktuel værdi
+Hjortebjergvej 185463 Harndrup,drup,697.000,30-04-2007,Alm. Salg,8.712,4,Villa,80,1932,,Aktuel værdi
+Overgade 35463 Harndrup,drup,935.000,27-03-2007,Alm. Salg,-,5,Villa,133,1973,,Aktuel værdi
+Juelsmindevej 2A5463 Harndrup,drup,945.000,22-02-2007,Alm. Salg,7.159,4,Villa,132,1973,,Aktuel værdi
+Åvænget 335463 Harndrup,drup,585.000,01-01-2007,Alm. Salg,8.239,4,Villa,71,1972,,Aktuel værdi
+Lundsgårdsvej 85463 Harndrup,drup,640.000,15-11-2006,Alm. Salg,6.037,5,Villa,106,1900,,Aktuel værdi
+Ellekærvej 45463 Harndrup,drup,210.714,06-10-2006,Alm. Salg,1.505,6,Stuehus,140,1908,,
+Berlin 55463 Harndrup,drup,1.120.196,15-08-2006,Fam. Salg,12.045,2,Stuehus,93,1800,,
+Sletterødvej 165463 Harndrup,drup,895.000,10-08-2006,Alm. Salg,6.532,4,Villa,137,1900,,Aktuel værdi
+Jægersmindevej 75463 Harndrup,drup,610.000,18-07-2006,Alm. Salg,6.224,4,Villa,98,1895,,Aktuel værdi
+Hønnerupvej 1155463 Harndrup,drup,1.150.000,17-07-2006,Alm. Salg,8.041,5,Villa,143,1970,,Aktuel værdi
+Fjellerup Mark 45463 Harndrup,drup,495.000,30-06-2006,Alm. Salg,7.734,2,Villa,64,1940,,Aktuel værdi
+Juelsmindevænget 115463 Harndrup,drup,1.200.000,26-06-2006,Alm. Salg,11.428,4,Villa,105,2005,,Aktuel værdi
+Knabosholmvej 115463 Harndrup,drup,3.650.000,26-06-2006,Alm. Salg,15.531,8,Stuehus,235,1900,,
+Kærvej 2B5463 Harndrup,drup,350.000,21-06-2006,Fam. Salg,1.707,3,Villa,205,1910,,Aktuel værdi
+Nederballevænget 35463 Harndrup,drup,875.000,14-06-2006,Alm. Salg,6.628,6,Villa,132,1978,,Aktuel værdi
+Idrætsvej 85463 Harndrup,drup,575.000,08-06-2006,Alm. Salg,6.052,4,Villa,95,1914,,Aktuel værdi
+Harndrup Skov 215463 Harndrup,drup,1.925.000,26-05-2006,Alm. Salg,10.026,8,Stuehus,192,1927,,
+Ejbyvej 635463 Harndrup,drup,230.157,15-05-2006,Andet,1.812,6,Villa,127,1959,,Aktuel værdi
+Hjortebjergvej 15463 Harndrup,drup,725.000,11-05-2006,Alm. Salg,5.753,4,Villa,126,1935,,Aktuel værdi
+Knabosholmvej 145463 Harndrup,drup,577.500,08-05-2006,Andet,1.944,5,Villa,297,1900,,Aktuel værdi
+Jægersmindevej 345463 Harndrup,drup,730.000,26-04-2006,Alm. Salg,5.407,6,Villa,135,1964,,Aktuel værdi
+Juelsmindevænget 225463 Harndrup,drup,89.985,30-03-2006,Alm. Salg,642,5,Villa,140,2007,,Aktuel værdi
+Rugårdsvej 175463 Harndrup,drup,1.035.000,13-03-2006,Auktion,5.564,8,Stuehus,186,1840,,
+Ridderstien 105463 Harndrup,drup,347.538,03-03-2006,Alm. Salg,2.780,3,Villa,125,1964,,Aktuel værdi
+Skydsbjergvej 185463 Harndrup,drup,2.600.000,27-02-2006,Alm. Salg,11.818,7,Stuehus,220,1777,,
+Fjellerupvej 395463 Harndrup,drup,725.000,27-02-2006,Alm. Salg,6.415,3,Villa,113,1900,,Aktuel værdi
+Nederballevej 215463 Harndrup,drup,510.000,20-02-2006,Alm. Salg,4.857,3,Villa,105,1823,,Aktuel værdi
+Skydsbjergvej 165463 Harndrup,drup,5.100.000,19-02-2006,Fam. Salg,22.972,6,Stuehus,222,2014,,
+Hjortebjergvej 165463 Harndrup,drup,615.000,11-02-2006,Alm. Salg,-,3,Villa,104,1964,,Aktuel værdi
+Broholmvej 65463 Harndrup,drup,8.335.000,10-02-2006,Alm. Salg,43.868,8,Stuehus,190,1912,,
+Altonavej 415463 Harndrup,drup,2.805.000,05-02-2006,Alm. Salg,14.763,9,Stuehus,190,1902,,
+Broholmvej 45463 Harndrup,drup,632.500,12-01-2006,Fam. Salg,3.456,3,Villa,183,1912,,Aktuel værdi
+Hjortebjergvej 395463 Harndrup,drup,1.925.000,12-01-2006,Fam. Salg,10.349,5,Stuehus,186,1921,,
+Stengade 75463 Harndrup,drup,1.025.000,29-12-2005,Alm. Salg,6.446,6,Villa,159,1934,,Aktuel værdi
+Altonavej 105463 Harndrup,drup,975.000,12-12-2005,Alm. Salg,-,8,Villa,175,1912,,Aktuel værdi
+Juelsmindevej 55463 Harndrup,drup,425.000,12-12-2005,Alm. Salg,3.899,4,Villa,109,1948,,Aktuel værdi
+Nederballevej 35463 Harndrup,drup,330.000,09-12-2005,Alm. Salg,4.925,3,Villa,67,1777,,Aktuel værdi
+Juelsmindevænget 215463 Harndrup,drup,88.295,23-11-2005,Alm. Salg,613,5,Villa,144,2006,,Aktuel værdi
+Stengade 225463 Harndrup,drup,760.000,15-11-2005,Alm. Salg,6.080,4,Villa,125,1933,,Aktuel værdi
+Juelsmindevænget 135463 Harndrup,drup,117.025,03-11-2005,Alm. Salg,785,5,Villa,149,2006,,Aktuel værdi
+Rugårdsvej 55463 Harndrup,drup,75.990,24-10-2005,Andet,783,4,Villa,97,1933,,Aktuel værdi
+Ridderstien 155463 Harndrup,drup,725.000,04-10-2005,Alm. Salg,7.323,4,Villa,99,1964,,Aktuel værdi
+Altonavej 55463 Harndrup,drup,895.000,22-09-2005,Alm. Salg,7.584,7,Villa,118,1852,,Aktuel værdi
+Skydsbjergvej 235463 Harndrup,drup,3.803.362,13-09-2005,Alm. Salg,20.230,5,Stuehus,188,1925,,
+Juelsmindevej 125463 Harndrup,drup,675.000,12-09-2005,Alm. Salg,5.192,4,Villa,130,1970,,Aktuel værdi
+Juelsmindevænget 245463 Harndrup,drup,185.365,10-09-2005,Alm. Salg,980,4,Villa,189,2006,,Aktuel værdi
+Åvænget 235463 Harndrup,drup,900.000,11-07-2005,Auktion,4.500,6,Villa,200,1978,,Aktuel værdi
+Vindebjergvej 495463 Harndrup,drup,500.000,07-07-2005,Fam. Salg,6.666,3,Villa,75,1877,,Aktuel værdi
+Juelsmindevænget 185463 Harndrup,drup,80.000,03-07-2005,Alm. Salg,540,5,Villa,148,2006,,Aktuel værdi
+Berlin 105463 Harndrup,drup,400.000,30-06-2005,Alm. Salg,2.020,4,Stuehus,198,2007,,
+Kildevej 55463 Harndrup,drup,590.000,01-06-2005,Alm. Salg,6.020,4,Villa,98,1777,,Aktuel værdi
+Vindebjergvej 15463 Harndrup,drup,267.932,23-05-2005,Andet,3.010,5,Villa,89,1947,,Aktuel værdi
+Ejlskovhede 515463 Harndrup,drup,2.460.000,22-05-2005,Alm. Salg,11.495,6,Villa,214,1996,,Aktuel værdi
+Overgade 15463 Harndrup,drup,416.000,02-05-2005,Fam. Salg,4.674,3,Villa,89,1968,,Aktuel værdi
+Åløkkevej 35463 Harndrup,drup,1.725.000,01-05-2005,Alm. Salg,6.634,12,Villa,260,1973,,Aktuel værdi
+Nederballevej 295463 Harndrup,drup,10.101.166,05-04-2005,Alm. Salg,62.352,5,Stuehus,162,1990,,
+Hjortebjergvej 45463 Harndrup,drup,800.000,22-03-2005,Alm. Salg,6.666,5,Villa,120,1928,,Aktuel værdi
+Juelsmindevej 35463 Harndrup,drup,680.000,25-02-2005,Alm. Salg,4.533,7,Villa,150,1900,,Aktuel værdi
+Idrætsvej 25463 Harndrup,drup,540.000,16-02-2005,Alm. Salg,5.934,3,Villa,91,1963,,Aktuel værdi
+Juelsmindevej 40A5463 Harndrup,drup,117.875,21-01-2005,Alm. Salg,920,4,Rækkehus,128,1969,,Aktuel værdi
+Sandhøjsvej 35463 Harndrup,drup,3.597.576,12-01-2005,Fam. Salg,8.251,7,Stuehus,436,1873,,
+Stengade 105463 Harndrup,drup,750.000,01-11-2004,Alm. Salg,5.000,5,Villa,150,1914,,Aktuel værdi
+Skovvej 335463 Harndrup,drup,1.125.000,25-10-2004,Alm. Salg,7.550,6,Villa,149,1930,,Aktuel værdi
+Stengade 295463 Harndrup,drup,600.000,28-07-2004,Alm. Salg,3.726,6,Villa,161,1917,,Aktuel værdi
+Stengade 335463 Harndrup,drup,635.000,14-07-2004,Alm. Salg,6.350,3,Villa,100,1965,,Aktuel værdi
+Rugårdsvej 1045463 Harndrup,drup,1.600.000,23-06-2004,Alm. Salg,8.000,9,Villa,200,1938,,Aktuel værdi
+Juelsmindevej 355463 Harndrup,drup,650.000,11-06-2004,Alm. Salg,4.391,5,Stuehus,148,1900,,
+Knabosholmvej 155463 Harndrup,drup,485.000,26-03-2004,Alm. Salg,2.993,7,Stuehus,162,1877,,
+Rugårdsvej 305463 Harndrup,drup,455.000,22-03-2004,Alm. Salg,4.375,4,Villa,104,1942,,Aktuel værdi
+Hjortebjergvej 355463 Harndrup,drup,410.000,18-03-2004,Fam. Salg,-,5,Villa,111,1958,,Aktuel værdi
+Juelsmindevej 25463 Harndrup,drup,465.000,16-03-2004,Alm. Salg,5.670,3,Villa,82,1937,,Aktuel værdi
+Rugårdsvej 1505463 Harndrup,drup,561.222,15-03-2004,Alm. Salg,5.907,4,Villa,95,1877,,Aktuel værdi
+Jægersmindevej 225463 Harndrup,drup,175.000,06-02-2004,Alm. Salg,4.375,2,Lejlighed,40,1909,,Aktuel værdi
+Stævnegyden 35463 Harndrup,drup,1.245.866,27-01-2004,Alm. Salg,8.418,5,Villa,148,2004,,Aktuel værdi
+Skydsbjergvej 55463 Harndrup,drup,268.293,26-01-2004,Andet,-,7,Villa,166,1969,,Aktuel værdi
+Juelsmindevænget 75463 Harndrup,drup,750.000,19-01-2004,Alm. Salg,-,3,Villa,124,1987,,Aktuel værdi
+Trydenvej 35463 Harndrup,drup,245.000,06-01-2004,Alm. Salg,1.384,7,Stuehus,177,1827,,
+Vindebjergvej 145463 Harndrup,drup,600.000,18-12-2003,Alm. Salg,4.166,6,Villa,144,1947,,Aktuel værdi
+Rugårdsvej 705463 Harndrup,drup,495.000,21-11-2003,Alm. Salg,4.342,4,Villa,114,1937,,Aktuel værdi
+Sletterødvej 35463 Harndrup,drup,927.262,24-10-2003,Alm. Salg,3.472,7,Stuehus,267,1909,,
+Skydsbjergvej 415463 Harndrup,drup,920.000,13-10-2003,Alm. Salg,2.534,8,Stuehus,363,1931,,
+Juelsmindevej 285463 Harndrup,drup,950.000,13-10-2003,Alm. Salg,7.421,4,Stuehus,128,1890,,
+Sletterødvej 225463 Harndrup,drup,635.000,10-10-2003,Alm. Salg,6.902,4,Villa,92,1895,,Aktuel værdi
+Hønnerupvej 1195463 Harndrup,drup,785.000,17-09-2003,Alm. Salg,6.487,4,Villa,121,1965,,Aktuel værdi
+Ridderstien 195463 Harndrup,drup,771.830,13-09-2003,Alm. Salg,4.764,5,Villa,162,1928,,Aktuel værdi
+Ridderstien 125463 Harndrup,drup,675.000,11-09-2003,Alm. Salg,4.720,5,Villa,143,1930,,Aktuel værdi
+Billesbøllevej 155463 Harndrup,drup,500.000,03-09-2003,Alm. Salg,3.144,7,Stuehus,159,1652,,
+Hjortebjergvej 85463 Harndrup,drup,637.000,18-08-2003,Alm. Salg,4.423,4,Villa,144,1935,,Aktuel værdi
+Rugårdsvej 785463 Harndrup,drup,645.000,03-07-2003,Alm. Salg,7.087,2,Villa,91,1890,,Aktuel værdi
+Ridderstien 75463 Harndrup,drup,825.572,02-07-2003,Alm. Salg,6.070,4,Villa,136,1972,,Aktuel værdi
+Vindebjergvej 425463 Harndrup,drup,325.000,23-06-2003,Alm. Salg,2.272,7,Villa,143,1940,,Aktuel værdi
+Nederballevej 225463 Harndrup,drup,360.000,11-06-2003,Alm. Salg,3.564,3,Villa,101,1827,,Aktuel værdi
+Åkrogen 85463 Harndrup,drup,610.000,31-03-2003,Alm. Salg,4.656,6,Villa,131,1981,,Aktuel værdi
+Stengade 205463 Harndrup,drup,325.000,18-12-2002,Fam. Salg,2.462,6,Villa,132,1934,,Aktuel værdi
+Jægersmindevej 175463 Harndrup,drup,540.000,07-11-2002,Alm. Salg,4.462,5,Villa,121,1930,,Aktuel værdi
+Rugårdsvej 235463 Harndrup,drup,250.000,14-08-2002,Alm. Salg,1.358,6,Villa,184,1866,,Aktuel værdi
+Vindebjergvej 14A5463 Harndrup,drup,778.000,04-07-2002,Alm. Salg,6.706,4,Villa,116,1972,,Aktuel værdi
+Nederballevej 235463 Harndrup,drup,389.000,01-07-2002,Alm. Salg,2.946,5,Villa,132,1777,,Aktuel værdi
+Vindebjergvej 45463 Harndrup,drup,396.175,23-06-2002,Alm. Salg,2.713,5,Villa,146,1923,,Aktuel værdi
+Vindebjergvej 105463 Harndrup,drup,411.692,18-06-2002,Andet,5.020,3,Villa,82,1943,,Aktuel værdi
+Rugårdsvej 645463 Harndrup,drup,860.000,24-03-2002,Alm. Salg,4.831,6,Villa,178,1932,,Aktuel værdi
+Rugårdsvej 775463 Harndrup,drup,1.733.802,06-03-2002,Alm. Salg,6.772,6,Stuehus,256,1859,,
+Skovvej 265463 Harndrup,drup,1.508.075,01-03-2002,Alm. Salg,7.080,7,Stuehus,213,1827,,
+Rugårdsvej 445463 Harndrup,drup,592.877,25-02-2002,Alm. Salg,4.060,5,Villa,146,1800,,Aktuel værdi
+Rugårdsvej 1165463 Harndrup,drup,544.138,25-11-2001,Alm. Salg,4.731,3,Villa,115,1947,,Aktuel værdi
+Skovvej 185463 Harndrup,drup,50.000,06-11-2001,Alm. Salg,370,5,Villa,135,2002,,Aktuel værdi
+Rugårdsvej 455463 Harndrup,drup,210.238,07-10-2001,Andet,1.501,4,Villa,140,1777,,Aktuel værdi
+Berlin 435463 Harndrup,drup,675.000,15-08-2001,Alm. Salg,7.105,7,Stuehus,95,1912,,
+Stengade 315463 Harndrup,drup,595.000,27-07-2001,Alm. Salg,5.458,4,Villa,109,1965,,Aktuel værdi
+Berlin 315463 Harndrup,drup,40.000,09-07-2001,Alm. Salg,182,6,Stuehus,219,1800,,
+Vindebjergvej 575463 Harndrup,drup,1.094.986,29-06-2001,Alm. Salg,8.690,4,Villa,126,1880,,Aktuel værdi
+Stengade 175463 Harndrup,drup,629.000,09-05-2001,Fam. Salg,3.700,6,Villa,170,1927,,Aktuel værdi
+Billesbøllevej 185463 Harndrup,drup,850.400,27-04-2001,Alm. Salg,-,4,Stuehus,252,1923,,
+Rugårdsvej 375463 Harndrup,drup,556.400,05-04-2001,Alm. Salg,5.454,4,Villa,102,1938,,Aktuel værdi
+Åvænget 265463 Harndrup,drup,884.000,28-03-2001,Alm. Salg,6.597,5,Villa,134,1972,,Aktuel værdi
+Stengade 145463 Harndrup,drup,740.000,16-03-2001,Alm. Salg,5.323,6,Villa,139,1912,,Aktuel værdi
+Juelsbergvej 65463 Harndrup,drup,1.200.000,31-01-2001,Alm. Salg,8.000,6,Stuehus,150,1940,,
+Rendebjergvej 15463 Harndrup,drup,1.050.000,19-01-2001,Alm. Salg,4.038,7,Villa,260,1891,,Aktuel værdi
+Juelsmindevej 315463 Harndrup,drup,3.213.699,19-12-2000,Fam. Salg,17.094,7,Stuehus,188,1910,,
+Rugårdsvej 155463 Harndrup,drup,450.000,23-11-2000,Alm. Salg,4.687,4,Villa,96,1873,,Aktuel værdi
+Fjellerupvej 385463 Harndrup,drup,347.680,13-10-2000,Alm. Salg,4.240,4,Villa,82,1907,,Aktuel værdi
+Vindebjergvej 395463 Harndrup,drup,940.000,26-09-2000,Alm. Salg,-,9,Villa,237,1948,,Aktuel værdi
+Ridderstien 135463 Harndrup,drup,549.736,12-09-2000,Alm. Salg,-,4,Villa,118,1969,,Aktuel værdi
+Stengade 245463 Harndrup,drup,875.330,03-09-2000,Alm. Salg,5.721,5,Villa,153,1933,,Aktuel værdi
+Harndrup Skov 55463 Harndrup,drup,1.162.600,27-08-2000,Alm. Salg,5.962,5,Villa,195,1920,,Aktuel værdi
+Hjortebjergvænget 75463 Harndrup,drup,811.361,22-06-2000,Alm. Salg,5.922,5,Villa,137,1960,,Aktuel værdi
+Hjortebjergvej 25463 Harndrup,drup,240.000,14-06-2000,Alm. Salg,1.702,5,Villa,141,1922,,Aktuel værdi
+Skovvej 125463 Harndrup,drup,837.227,05-06-2000,Alm. Salg,5.734,5,Villa,146,1979,,Aktuel værdi
+Åløkkevej 15463 Harndrup,drup,1.025.000,20-04-2000,Alm. Salg,6.406,4,Villa,160,1974,,Aktuel værdi
+Juelsmindevænget 25463 Harndrup,drup,697.000,07-04-2000,Alm. Salg,6.008,4,Villa,116,1990,,Aktuel værdi
+Harndrup Skov 325463 Harndrup,drup,1.040.926,15-03-2000,Andet,7.178,5,Villa,145,2002,,Aktuel værdi
+Nederballevænget 65463 Harndrup,drup,1.400.580,02-02-2000,Alm. Salg,7.109,9,Villa,197,1980,,Aktuel værdi
+Fjellerupvej 405463 Harndrup,drup,800.000,22-12-1999,Fam. Salg,5.263,4,Villa,152,1927,,Aktuel værdi
+Vindebjergvej 20A5463 Harndrup,drup,22.500,13-12-1999,Alm. Salg,1.607,1,Sommerhus,14,1956,,Aktuel værdi
+Stengade 155463 Harndrup,drup,794.437,09-11-1999,Alm. Salg,5.884,4,Villa,135,1921,,Aktuel værdi
+Juelsmindevej 145463 Harndrup,drup,978.620,02-09-1999,Alm. Salg,6.657,5,Villa,147,1976,,Aktuel værdi
+Broholmvej 195463 Harndrup,drup,722.000,02-06-1999,Alm. Salg,-,4,Villa,189,1870,,Aktuel værdi
+Billesbøllevej 115463 Harndrup,drup,985.000,31-05-1999,Alm. Salg,-,5,Stuehus,157,1894,,
+Skovvej 155463 Harndrup,drup,744.000,15-04-1999,Alm. Salg,-,6,Stuehus,168,1953,,
+Altonavej 335463 Harndrup,drup,1.269.000,09-04-1999,Alm. Salg,10.575,6,Stuehus,120,1962,,
+Ridderstien 205463 Harndrup,drup,500.000,29-03-1999,Alm. Salg,5.263,4,Villa,95,1927,,Aktuel værdi
+Ridderstien 245463 Harndrup,drup,806.440,11-03-1999,Alm. Salg,-,5,Villa,126,1967,,Aktuel værdi
+Fjellerupvej 675463 Harndrup,drup,2.800.000,11-01-1999,Alm. Salg,10.370,8,Stuehus,270,2006,,
+Sletterødvej 85463 Harndrup,drup,1.043.000,09-12-1998,Alm. Salg,4.943,7,Stuehus,211,1899,,
+Rugårdsvej 1085463 Harndrup,drup,490.000,25-11-1998,Alm. Salg,-,3,Villa,104,1939,,Aktuel værdi
+Jægersmindevej 125463 Harndrup,drup,365.000,23-11-1998,Alm. Salg,2.354,5,Villa,155,1910,,Aktuel værdi
+Juelsmindevænget 105463 Harndrup,drup,662.000,20-10-1998,Alm. Salg,7.355,3,Villa,90,1984,,Aktuel værdi
+Rugårdsvej 425463 Harndrup,drup,695.114,19-10-1998,Alm. Salg,4.513,7,Stuehus,154,1909,,
+Sletterødvej 105463 Harndrup,drup,655.900,23-09-1998,Alm. Salg,-,5,Villa,184,1937,,Aktuel værdi
+Jægersmindevej 205463 Harndrup,drup,598.000,14-09-1998,Alm. Salg,4.901,5,Villa,122,1912,,Aktuel værdi
+Kærvej 25463 Harndrup,drup,297.500,08-09-1998,Fam. Salg,2.945,3,Villa,101,1965,,Aktuel værdi
+Fjellerup Mark 145463 Harndrup,drup,260.490,03-08-1998,Andet,2.926,4,Stuehus,89,1777,,
+Altonavej 325463 Harndrup,drup,1.482.000,28-07-1998,Alm. Salg,8.981,5,Villa,165,1916,,Aktuel værdi
+Nederballevej 185463 Harndrup,drup,400.000,15-06-1998,Alm. Salg,2.666,6,Villa,150,1900,,Aktuel værdi
+Stengade 375463 Harndrup,drup,454.000,08-06-1998,Alm. Salg,-,6,Villa,231,1933,,Aktuel værdi
+Stengade 95463 Harndrup,drup,503.000,18-05-1998,Alm. Salg,3.048,7,Villa,165,1925,,Aktuel værdi
+Jægersmindevej 25463 Harndrup,drup,348.000,14-05-1998,Alm. Salg,2.503,3,Villa,139,1930,,Aktuel værdi
+Harndrup Skov 345463 Harndrup,drup,800.000,11-04-1998,Alm. Salg,4.123,5,Stuehus,194,2012,,
+Skydsbjergvej 435463 Harndrup,drup,849.400,08-04-1998,Alm. Salg,-,7,Stuehus,206,1957,,
+Hjortebjergvej 155463 Harndrup,drup,375.000,10-03-1998,Alm. Salg,-,4,Villa,135,1910,,Aktuel værdi
+Nederballevej 75463 Harndrup,drup,729.900,20-02-1998,Alm. Salg,7.018,4,Villa,104,1978,,Aktuel værdi
+Nederballevænget 125463 Harndrup,drup,480.000,09-02-1998,Fam. Salg,-,4,Villa,115,1978,,Aktuel værdi
+Åvænget 65463 Harndrup,drup,500.000,21-01-1998,Alm. Salg,3.144,4,Villa,159,1877,,Aktuel værdi
+Broholmvej 15463 Harndrup,drup,850.000,19-01-1998,Alm. Salg,-,9,Stuehus,199,1917,,
+Graderupvej 105463 Harndrup,drup,757.790,19-01-1998,Alm. Salg,6.367,4,Stuehus,119,1877,,
+Jægersmindevej 155463 Harndrup,drup,297.000,17-11-1997,Fam. Salg,4.569,3,Villa,65,1909,,Aktuel værdi
+Hjortebjergvej 145463 Harndrup,drup,545.000,13-11-1997,Alm. Salg,5.505,4,Villa,99,1928,,Aktuel værdi
+Rugårdsvej 21A5463 Harndrup,drup,1.090.000,10-11-1997,Alm. Salg,5.706,5,Villa,191,1976,,Aktuel værdi
+Nederballevænget 95463 Harndrup,drup,982.000,10-11-1997,Alm. Salg,-,6,Villa,172,1986,,Aktuel værdi
+Vindebjergvej 175463 Harndrup,drup,353.000,03-11-1997,Auktion,1.819,6,Villa,194,1964,,Aktuel værdi
+Rugårdsvej 985463 Harndrup,drup,615.000,02-11-1997,Alm. Salg,-,4,Villa,104,1924,,Aktuel værdi
+Nederballevej 205463 Harndrup,drup,425.000,07-10-1997,Alm. Salg,5.000,2,Villa,85,1786,,Aktuel værdi
+Fjellerupvej 285463 Harndrup,drup,520.000,17-09-1997,Alm. Salg,3.376,5,Villa,154,1929,,Aktuel værdi
+Broholmvej 155463 Harndrup,drup,985.270,15-09-1997,Alm. Salg,-,7,Villa,294,1890,,Aktuel værdi
+Fjellerup Mark 125463 Harndrup,drup,133.333,12-09-1997,Fam. Salg,766,6,Stuehus,174,1900,,
+Vindebjergvej 245463 Harndrup,drup,214.420,21-07-1997,Alm. Salg,1.786,5,Villa,120,1877,,Aktuel værdi
+Harndrup Skov 35463 Harndrup,drup,375.000,11-07-1997,Alm. Salg,-,6,Villa,277,2004,,Aktuel værdi
+Sletterødvej 195463 Harndrup,drup,598.000,07-07-1997,Alm. Salg,4.746,5,Villa,126,1931,,Aktuel værdi
+Kærvej 35463 Harndrup,drup,390.000,23-06-1997,Alm. Salg,3.714,5,Villa,105,1910,,Aktuel værdi
+Rugårdsvej 435463 Harndrup,drup,801.000,16-06-1997,Alm. Salg,3.153,6,Stuehus,254,1900,,
+Vindebjergvej 465463 Harndrup,drup,1.055.600,24-04-1997,Alm. Salg,3.730,7,Villa,283,1978,,Aktuel værdi
+Skovvej 75463 Harndrup,drup,495.000,27-03-1997,Alm. Salg,4.759,3,Villa,104,1930,,Aktuel værdi
+Juelsbergvej 45463 Harndrup,drup,100.000,07-03-1997,Alm. Salg,-,7,Villa,283,1782,,Aktuel værdi
+Nederballevej 285463 Harndrup,drup,1.035.000,21-02-1997,Alm. Salg,4.791,10,Stuehus,216,1913,,
+Billesbøllevej 35463 Harndrup,drup,793.646,05-02-1997,Fam. Salg,5.549,4,Stuehus,143,1827,,
+Altonavej 35463 Harndrup,drup,330.000,27-01-1997,Alm. Salg,-,5,Villa,150,1877,,Aktuel værdi
+Stengade 25463 Harndrup,drup,240.000,06-01-1997,Fam. Salg,1.751,6,Villa,137,1909,,Aktuel værdi
+Vindebjergvej 475463 Harndrup,drup,625.000,09-12-1996,Alm. Salg,4.629,8,Villa,135,1951,,Aktuel værdi
+Skovvej 135463 Harndrup,drup,435.000,13-11-1996,Fam. Salg,2.543,5,Stuehus,171,1911,,
+Åvænget 225463 Harndrup,drup,680.548,12-08-1996,Alm. Salg,5.234,5,Villa,130,1973,,Aktuel værdi
+Sletterødvej 75463 Harndrup,drup,595.000,06-06-1996,Alm. Salg,2.975,7,Villa,200,1937,,Aktuel værdi
+Nederballevej 45463 Harndrup,drup,815.000,20-05-1996,Alm. Salg,5.780,3,Villa,141,1968,,Aktuel værdi
+Skovgårdvej 65463 Harndrup,drup,900.000,25-04-1996,Alm. Salg,-,10,Stuehus,244,1777,,
+Overgade 55463 Harndrup,drup,750.000,01-02-1996,Alm. Salg,-,9,Villa,193,1912,,Aktuel værdi
+Rugårdsvej 1025463 Harndrup,drup,336.000,08-01-1996,Alm. Salg,2.921,4,Villa,115,1925,,Aktuel værdi
+Harndrup Holme 85463 Harndrup,drup,280.500,11-12-1995,Fam. Salg,-,7,Villa,128,1948,,Aktuel værdi
+Juelsmindevej 95463 Harndrup,drup,560.000,11-12-1995,Alm. Salg,5.137,3,Villa,109,1969,,Aktuel værdi
+Vindebjergvej 185463 Harndrup,drup,518.260,24-10-1995,Alm. Salg,2.699,5,Villa,192,1860,,Aktuel værdi
+Harndrup Skov 175463 Harndrup,drup,455.000,20-09-1995,Alm. Salg,2.614,5,Stuehus,174,1905,,
+Knabosholmvej 165463 Harndrup,drup,520.000,27-07-1995,Alm. Salg,-,5,Villa,193,1976,,Aktuel værdi
+Jægersmindevej 185463 Harndrup,drup,495.308,17-07-1995,Alm. Salg,3.302,6,Villa,150,1938,,Aktuel værdi
+Berlin 325463 Harndrup,drup,670.000,07-07-1995,Alm. Salg,-,4,Villa,208,1897,,Aktuel værdi
+Nederballevej 135463 Harndrup,drup,850.000,30-06-1995,Fam. Salg,-,10,Stuehus,297,1885,,
+Juelsmindevænget 95463 Harndrup,drup,83.113,12-06-1995,Alm. Salg,581,5,Villa,143,1995,,Aktuel værdi
+Sletterødvej 155463 Harndrup,drup,1.453.500,16-05-1995,Alm. Salg,4.658,9,Stuehus,312,1870,,
+Rugårdsvej 1035463 Harndrup,drup,348.000,30-04-1995,Alm. Salg,4.971,2,Villa,70,1870,,Aktuel værdi
+Rugårdsvej 865463 Harndrup,drup,410.000,24-04-1995,Alm. Salg,-,5,Villa,171,1926,,Aktuel værdi
+Juelsmindevej 245463 Harndrup,drup,846.750,27-03-1995,Alm. Salg,5.799,4,Stuehus,146,1974,,
+Jægersmindevej 105463 Harndrup,drup,350.000,15-02-1995,Alm. Salg,-,4,Villa,132,1942,,Aktuel værdi
+Skovgårdvej 35463 Harndrup,drup,235.000,05-01-1995,Alm. Salg,2.797,4,Villa,84,1962,,Aktuel værdi
+Stengade 215463 Harndrup,drup,860.000,21-12-1994,Alm. Salg,5.058,10,Villa,170,1947,,Aktuel værdi
+Lundsgårdsvej 255463 Harndrup,drup,453.197,26-10-1994,Alm. Salg,2.178,6,Stuehus,208,1905,,
+Juelsmindevej 445463 Harndrup,drup,805.000,28-09-1994,Alm. Salg,4.472,6,Stuehus,180,1930,,
+Juelsbergvej 125463 Harndrup,drup,3.150.000,08-09-1994,Alm. Salg,18.000,7,Stuehus,175,1927,,
+Rugårdsvej 135463 Harndrup,drup,180.614,29-08-1994,Andet,-,6,Villa,222,1902,,Aktuel værdi
+Harndrup Skov 25463 Harndrup,drup,330.000,01-08-1994,Fam. Salg,2.844,5,Stuehus,116,1900,,
+Rugårdsvej 595463 Harndrup,drup,147.539,23-06-1994,Fam. Salg,996,5,Villa,148,1910,,Aktuel værdi
+Hjortebjergvej 105463 Harndrup,drup,240.000,09-06-1994,Alm. Salg,2.823,4,Villa,85,1932,,Aktuel værdi
+Lundsgårdsvej 315463 Harndrup,drup,444.723,24-05-1994,Alm. Salg,2.728,8,Stuehus,163,1860,,
+Jægersmindevej 145463 Harndrup,drup,455.000,24-04-1994,Alm. Salg,4.550,3,Villa,100,1966,,Aktuel værdi
+Rugårdsvej 185463 Harndrup,drup,395.000,07-02-1994,Alm. Salg,2.581,6,Villa,153,1900,,Aktuel værdi
+Overgade 85463 Harndrup,drup,360.000,13-01-1994,Fam. Salg,-,5,Villa,202,1968,,Aktuel værdi
+Ridderstien 65463 Harndrup,drup,275.000,13-12-1993,Auktion,731,5,Villa,376,1909,,Aktuel værdi
+Stengade 85463 Harndrup,drup,278.070,17-11-1993,Alm. Salg,2.527,5,Villa,110,1912,,Aktuel værdi
+Juelsmindevej 115463 Harndrup,drup,560.000,07-10-1993,Alm. Salg,2.978,5,Villa,188,1977,,Aktuel værdi
+Hjortebjergvej 115463 Harndrup,drup,210.000,29-06-1993,Alm. Salg,2.282,3,Villa,92,1957,,Aktuel værdi
+Jægersmindevej 385463 Harndrup,drup,513.000,12-05-1993,Alm. Salg,4.007,5,Stuehus,128,1974,,
+Vindebjergvej 295463 Harndrup,drup,716.000,10-05-1993,Andet,-,8,Stuehus,266,1950,,
+Åvænget 255463 Harndrup,drup,450.000,23-02-1993,Alm. Salg,3.515,4,Villa,128,1978,,Aktuel værdi
+Hjortebjergvej 255463 Harndrup,drup,325.000,07-02-1993,Alm. Salg,-,3,Villa,137,1928,,Aktuel værdi
+Sletterødvej 125463 Harndrup,drup,234.000,23-12-1992,Alm. Salg,2.853,4,Villa,82,1890,,Aktuel værdi
+Brolundvej 25463 Harndrup,drup,970.000,30-11-1992,Fam. Salg,5.105,8,Stuehus,190,1905,,
+Nederballevej 255463 Harndrup,drup,136.000,06-07-1992,Fam. Salg,2.092,3,Rækkehus,65,1777,,Aktuel værdi
+Hønnerupvej 1025463 Harndrup,drup,674.000,03-06-1992,Alm. Salg,4.011,9,Stuehus,168,1916,,
+Hjortebjergvej 135463 Harndrup,drup,355.000,01-05-1992,Alm. Salg,3.659,5,Villa,97,1932,,Aktuel værdi
+Nederballevænget 115463 Harndrup,drup,480.000,30-03-1992,Alm. Salg,3.809,5,Villa,126,1979,,Aktuel værdi
+Jægersmindevej 325463 Harndrup,drup,415.000,23-03-1992,Alm. Salg,2.862,4,Villa,145,1963,,Aktuel værdi
+Berlin 205463 Harndrup,drup,134.733,10-02-1992,Alm. Salg,-,6,Villa,142,1827,,Aktuel værdi

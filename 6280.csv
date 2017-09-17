@@ -1,0 +1,767 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Ballumvej 236280 Højer,øjer,350.000,22-05-2017,Alm. Salg,2.500,4,Villa,140,1900,,Aktuel værdi
+Nørreager 16280 Højer,øjer,600.000,24-04-2017,Fam. Salg,4.081,4,Villa,147,1978,,Aktuel værdi
+Østerbyvej 86280 Højer,øjer,580.000,08-04-2017,Alm. Salg,4.360,3,Villa,133,1880,-14 %,Aktuel værdi
+Poppenbølvej 46280 Højer,øjer,300.000,30-03-2017,Alm. Salg,2.608,4,Villa,115,1962,,Aktuel værdi
+Sejerslevvej 96280 Højer,øjer,315.000,29-03-2017,Alm. Salg,1.666,8,Villa,189,1938,-9 %,Aktuel værdi
+Syrenvej 26280 Højer,øjer,430.000,22-03-2017,Alm. Salg,5.119,3,Villa,84,1848,-9 %,Aktuel værdi
+Sønderbyvej 176280 Højer,øjer,35.000,21-03-2017,Alm. Salg,253,4,Villa,138,1875,,Aktuel værdi
+Nørrebyen 16280 Højer,øjer,265.000,20-03-2017,Alm. Salg,2.623,4,Villa,101,1870,0 %,Aktuel værdi
+Vadehavsvej 126280 Højer,øjer,760.000,10-03-2017,Alm. Salg,10.270,3,Sommerhus,74,2005,-4 %,Aktuel værdi
+Emmerlev Klev 156280 Højer,øjer,725.000,06-03-2017,Fam. Salg,10.211,4,Sommerhus,71,1935,,Aktuel værdi
+Højer Dige 16280 Højer,øjer,9.779.834,02-03-2017,Fam. Salg,63.920,5,Stuehus,153,1962,,
+Ballumvej 406280 Højer,øjer,9.779.834,02-03-2017,Fam. Salg,56.530,8,Villa,173,1947,,Aktuel værdi
+Nørrebyen 26280 Højer,øjer,270.000,24-02-2017,Alm. Salg,2.700,3,Villa,100,1930,-7 %,Aktuel værdi
+Storegade 66280 Højer,øjer,50.000,23-02-2017,Alm. Salg,390,10,Engroshandel,128,1800,,Aktuel værdi
+Hvidstrengvej 16280 Højer,øjer,259.712,07-02-2017,Alm. Salg,1.731,6,Stuehus,150,1911,,
+Hemvej 106280 Højer,øjer,150.000,24-01-2017,Fam. Salg,1.530,3,Villa,98,1960,,Aktuel værdi
+Nørremarken 206280 Højer,øjer,376.000,20-01-2017,Alm. Salg,3.241,4,Villa,116,1981,7 %,Aktuel værdi
+Kogsgade 66280 Højer,øjer,145.000,17-01-2017,Alm. Salg,1.250,4,Villa,116,1900,,Aktuel værdi
+Nørrevej 64C6280 Højer,øjer,1.340.000,17-01-2017,Alm. Salg,3.383,5,Villa,396,1956,-10 %,Aktuel værdi
+Hjerpstedvej 16280 Højer,øjer,420.000,16-01-2017,Alm. Salg,3.750,4,Villa,112,1924,-7 %,Aktuel værdi
+Lille Møllevej 26280 Højer,øjer,21.400.000,15-12-2016,Fam. Salg,49.651,10,Stuehus,431,1900,,
+Byvej 86280 Højer,øjer,670.000,12-12-2016,Alm. Salg,5.826,4,Villa,115,1820,-4 %,Aktuel værdi
+Buen 136280 Højer,øjer,350.000,08-12-2016,Alm. Salg,2.500,4,Villa,140,1969,-26 %,Aktuel værdi
+Kærgårdvej 106280 Højer,øjer,1.040.000,18-11-2016,Alm. Salg,6.753,4,Stuehus,154,1953,-3 %,
+Sønderhedevej 116280 Højer,øjer,425.000,06-11-2016,Alm. Salg,4.336,3,Villa,98,1955,0 %,Aktuel værdi
+Sejerslevvej 406280 Højer,øjer,150.000,03-11-2016,Alm. Salg,1.973,2,Villa,76,1937,,Aktuel værdi
+Hjerpstedvej 266280 Højer,øjer,100.000,01-11-2016,Alm. Salg,793,4,Sommerhus,126,1908,-90 %,Aktuel værdi
+Rudbølvej 166280 Højer,øjer,1.600.000,21-10-2016,Alm. Salg,9.142,4,Villa,175,1850,-11 %,Aktuel værdi
+Emmerlevvej 136280 Højer,øjer,418.318,20-10-2016,Fam. Salg,2.614,7,Stuehus,160,1960,,
+Hjerpstedvej 226280 Højer,øjer,1.317.500,16-10-2016,Fam. Salg,3.513,10,Villa,375,1843,,Aktuel værdi
+Ballumvej 266280 Højer,øjer,585.000,11-10-2016,Alm. Salg,4.333,7,Villa,135,1955,-10 %,Aktuel værdi
+Siltoftvej 46280 Højer,øjer,357.000,10-10-2016,Fam. Salg,2.586,5,Villa,138,1967,-60 %,Aktuel værdi
+Strandvej 56280 Højer,øjer,600.000,05-10-2016,Andet,4.285,4,Villa,140,1967,,Aktuel værdi
+Nørremølle 126280 Højer,øjer,898.000,30-09-2016,Alm. Salg,9.553,4,Villa,94,1888,0 %,Aktuel værdi
+Hvidstrengvej 46280 Højer,øjer,1.090.000,26-09-2016,Alm. Salg,5.505,6,Stuehus,198,1908,,
+Nørrevej 366280 Højer,øjer,190.000,23-09-2016,Alm. Salg,2.375,3,Villa,80,1965,-16 %,Aktuel værdi
+Nørregade 326280 Højer,øjer,500.000,22-09-2016,Alm. Salg,4.629,3,Rækkehus,108,1997,,Aktuel værdi
+Ternholm 36280 Højer,øjer,300.000,20-09-2016,Alm. Salg,2.027,6,Villa,148,1969,,Aktuel værdi
+Emmerlevvej 36280 Højer,øjer,435.000,19-09-2016,Alm. Salg,2.770,4,Villa,157,1960,-3 %,Aktuel værdi
+Poppenbølvej 16280 Højer,øjer,13.400.002,19-09-2016,Alm. Salg,67.000,11,Stuehus,200,1897,,
+Nørrevej 216280 Højer,øjer,500.000,19-08-2016,Alm. Salg,3.355,5,Villa,149,1963,-16 %,Aktuel værdi
+Nørregade 266280 Højer,øjer,590.650,01-08-2016,Auktion,1.763,14,Villa,335,1858,,Aktuel værdi
+Nørregade 376280 Højer,øjer,200.000,29-07-2016,Alm. Salg,1.538,4,Villa,130,1900,,Aktuel værdi
+Østerbyvej 326280 Højer,øjer,68.293,11-07-2016,Auktion,355,6,Villa,192,1797,,Aktuel værdi
+Vadehavsvej 226280 Højer,øjer,1.000.000,28-06-2016,Andet,13.513,3,Sommerhus,74,2005,,Aktuel værdi
+Ballumvej 36280 Højer,øjer,200.000,16-06-2016,Fam. Salg,1.315,4,Villa,152,1903,,Aktuel værdi
+Østerbyvej 76280 Højer,øjer,210.000,06-06-2016,Alm. Salg,1.381,4,Stuehus,152,1930,,
+Rudbølkogvej 16280 Højer,øjer,446.400,01-06-2016,Alm. Salg,4.555,3,Stuehus,98,1950,-31 %,
+Strandvej 296280 Højer,øjer,395.000,01-06-2016,Alm. Salg,4.293,5,Villa,92,1928,0 %,Aktuel værdi
+Storegade 206280 Højer,øjer,575.000,23-05-2016,Fam. Salg,6.534,8,BygningTilHandel,88,1900,,Aktuel værdi
+Prilen 136280 Højer,øjer,235.000,19-05-2016,Alm. Salg,2.373,4,Villa,99,1968,-21 %,Aktuel værdi
+Vrågård 36280 Højer,øjer,250.000,19-05-2016,Alm. Salg,3.246,3,Villa,77,1867,-9 %,Aktuel værdi
+Sejerslevvej 506280 Højer,øjer,70.000,25-04-2016,Alm. Salg,700,4,Villa,100,1912,,Aktuel værdi
+Storegade 176280 Højer,øjer,1.800.000,18-04-2016,Alm. Salg,4.761,7,Villa,378,1855,,Aktuel værdi
+Storegade 236280 Højer,øjer,700.000,18-04-2016,Alm. Salg,3.181,7,Villa,220,1890,,Aktuel værdi
+Storegade 356280 Højer,øjer,330.000,18-04-2016,Alm. Salg,2.558,5,Rækkehus,129,1827,,Aktuel værdi
+Emmerlevvej 86280 Højer,øjer,475.000,16-04-2016,Alm. Salg,2.878,6,Villa,165,1897,-5 %,Aktuel værdi
+Kogsbølvej 96280 Højer,øjer,745.000,15-04-2016,Alm. Salg,5.209,3,Villa,143,1827,-2 %,Aktuel værdi
+Nørrevej 306280 Højer,øjer,295.000,15-04-2016,Alm. Salg,1.528,4,Villa,193,1855,0 %,Aktuel værdi
+Møllegade 86280 Højer,øjer,385.000,15-04-2016,Alm. Salg,4.812,3,Villa,80,1880,-9 %,Aktuel værdi
+Østerende 13B6280 Højer,øjer,295.000,31-03-2016,Alm. Salg,2.218,4,Villa,133,1968,-25 %,Aktuel værdi
+Tøndervej 86280 Højer,øjer,475.000,21-03-2016,Fam. Salg,3.442,4,Villa,138,1968,,Aktuel værdi
+Sønderhedevej 136280 Højer,øjer,50.000,17-03-2016,Alm. Salg,625,4,Villa,80,1956,,Aktuel værdi
+Sejerslevvej 486280 Højer,øjer,30.000,22-02-2016,Alm. Salg,136,6,Villa,220,1942,,Aktuel værdi
+Nørrehedevej 216280 Højer,øjer,50.000,11-02-2016,Auktion,490,4,Villa,102,1887,,Aktuel værdi
+Møllegade 96280 Højer,øjer,315.000,01-02-2016,Alm. Salg,1.125,6,Villa,280,1757,,Aktuel værdi
+Byvej 256280 Højer,øjer,950.000,28-01-2016,Alm. Salg,3.958,6,Villa,240,1863,0 %,Aktuel værdi
+Torvet 96280 Højer,øjer,200.000,25-01-2016,Alm. Salg,2.000,4,Villa,100,1827,0 %,Aktuel værdi
+Strandvej 236280 Højer,øjer,975.000,19-01-2016,Alm. Salg,6.372,5,Villa,153,1935,,Aktuel værdi
+Nørrehedevej 16280 Højer,øjer,1.145.000,15-01-2016,Alm. Salg,4.163,5,Villa,275,1817,,Aktuel værdi
+Nørrevej 16280 Højer,øjer,1.195.000,12-01-2016,Alm. Salg,4.237,7,Villa,282,1760,0 %,Aktuel værdi
+Nørrebyen 36280 Højer,øjer,550.000,06-01-2016,Alm. Salg,8.088,3,Rækkehus,68,1880,,Aktuel værdi
+Emmerlevvej 146280 Højer,øjer,400.000,30-11-2015,Andet,3.149,4,Villa,127,1887,,Aktuel værdi
+"Nørrevej 32, 16280 Højer",øjer,625.000,30-11-2015,Alm. Salg,4.770,4,Lejlighed,131,1875,,Aktuel værdi
+Vesterled 146280 Højer,øjer,350.000,30-10-2015,Alm. Salg,4.117,3,Sommerhus,85,1850,-11 %,Aktuel værdi
+Havnevej 106280 Højer,øjer,487.500,09-10-2015,Fam. Salg,4.556,4,Villa,107,1943,,Aktuel værdi
+Sejerslevvej 546280 Højer,øjer,300.000,02-10-2015,Auktion,1.875,6,Villa,160,1856,,Aktuel værdi
+Emmerlev Klev 136280 Højer,øjer,750.000,26-09-2015,Alm. Salg,15.625,3,Sommerhus,48,1942,-21 %,Aktuel værdi
+Emmerlevvej 96280 Højer,øjer,995.000,03-09-2015,Alm. Salg,5.407,5,Villa,184,1862,0 %,Aktuel værdi
+Østerbyvej 26280 Højer,øjer,4.527.500,03-09-2015,Fam. Salg,21.058,9,Stuehus,215,1870,,
+Slusevej 136280 Højer,øjer,225.000,25-08-2015,Alm. Salg,2.064,4,Villa,109,1967,,Aktuel værdi
+Søndervej 66280 Højer,øjer,125.000,19-08-2015,Fam. Salg,827,4,Villa,151,1900,,Aktuel værdi
+Agertoften 106280 Højer,øjer,600.000,12-08-2015,Alm. Salg,3.947,4,Villa,152,1975,-20 %,Aktuel værdi
+Østerbyvej 196280 Højer,øjer,1.450.000,11-08-2015,Alm. Salg,7.795,8,Stuehus,186,1930,-3 %,
+Siltoftvej 56280 Højer,øjer,4.823.600,28-07-2015,Alm. Salg,32.591,4,Stuehus,148,1924,,
+Gærupvej 36280 Højer,øjer,690.000,10-07-2015,Alm. Salg,3.593,7,Villa,192,1908,-8 %,Aktuel værdi
+Ved Gaden 116280 Højer,øjer,492.000,05-07-2015,Alm. Salg,6.389,3,Villa,77,1877,,Aktuel værdi
+Strandmeden 36280 Højer,øjer,395.000,17-06-2015,Alm. Salg,2.862,4,Villa,138,1964,0 %,Aktuel værdi
+Nørrevej 146280 Højer,øjer,450.000,12-06-2015,Alm. Salg,2.727,5,Villa,165,1963,,Aktuel værdi
+Nørregade 136280 Højer,øjer,350.000,27-04-2015,Alm. Salg,3.846,3,Villa,91,1800,,Aktuel værdi
+Sejerslevvej 446280 Højer,øjer,150.000,24-04-2015,Alm. Salg,1.666,4,Villa,90,1962,0 %,Aktuel værdi
+Storegade 226280 Højer,øjer,550.000,04-03-2015,Alm. Salg,4.583,5,Villa,120,1900,,Aktuel værdi
+Skolegade 36280 Højer,øjer,280.000,23-02-2015,Alm. Salg,3.733,3,Villa,75,1708,,Aktuel værdi
+Emmerlevvej 216280 Højer,øjer,200.000,09-02-2015,Auktion,1.041,6,Villa,192,1964,,Aktuel værdi
+Hvedemarken 156280 Højer,øjer,650.000,19-01-2015,Alm. Salg,4.276,5,Villa,152,1975,-18 %,Aktuel værdi
+Tøndervej 76280 Højer,øjer,995.000,14-01-2015,Alm. Salg,6.067,7,Villa,164,1877,-10 %,Aktuel værdi
+Højervej 406280 Højer,øjer,50.000,15-12-2014,Alm. Salg,403,4,Villa,124,1944,,Aktuel værdi
+Buen 26280 Højer,øjer,250.000,05-12-2014,Alm. Salg,2.500,4,Villa,100,1963,-15 %,Aktuel værdi
+Vesterende 36280 Højer,øjer,825.000,14-11-2014,Alm. Salg,5.536,5,Villa,149,1978,,Aktuel værdi
+Hjerpstedvej 126280 Højer,øjer,555.000,23-10-2014,Alm. Salg,3.468,4,Villa,160,1931,-14 %,Aktuel værdi
+Nørrevej 606280 Højer,øjer,70.000,20-10-2014,Alm. Salg,573,5,Villa,122,1907,-26 %,Aktuel værdi
+Hjerpstedvej 46280 Højer,øjer,200.000,20-09-2014,Alm. Salg,1.666,2,Villa,120,1930,,Aktuel værdi
+Søndergade 196280 Højer,øjer,250.000,22-08-2014,Alm. Salg,2.450,4,Villa,102,1891,,Aktuel værdi
+Kogsgade 36280 Højer,øjer,450.000,05-08-2014,Alm. Salg,4.411,4,Villa,102,1880,0 %,Aktuel værdi
+Søndergade 116280 Højer,øjer,435.000,01-07-2014,Alm. Salg,4.780,5,Villa,91,1670,0 %,Aktuel værdi
+Sejerslevvej 216280 Højer,øjer,430.000,22-06-2014,Alm. Salg,5.375,4,Villa,80,1755,0 %,Aktuel værdi
+Højmarksvej 16280 Højer,øjer,1.100.000,20-05-2014,Alm. Salg,7.857,5,Villa,140,1960,,Aktuel værdi
+Slusevej 56280 Højer,øjer,545.000,05-05-2014,Alm. Salg,5.677,4,Villa,96,1960,0 %,Aktuel værdi
+Kirkegårdsgade 16280 Højer,øjer,762.000,05-05-2014,Auktion,1.863,10,Villa,409,1806,-54 %,Aktuel værdi
+Nørrehedevej 106280 Højer,øjer,2.690.000,07-04-2014,Alm. Salg,12.748,5,Stuehus,211,1874,,
+Møllegade 46280 Højer,øjer,450.000,07-04-2014,Alm. Salg,6.000,3,Villa,75,1700,,Aktuel værdi
+Strandvej 25A6280 Højer,øjer,810.000,06-04-2014,Andet,6.694,4,Villa,121,1985,,Aktuel værdi
+Stampemøllevej 11A6280 Højer,øjer,1.000.000,03-04-2014,Alm. Salg,5.494,6,Stuehus,182,1862,,
+Storegade 376280 Højer,øjer,330.000,31-03-2014,Alm. Salg,3.666,3,Villa,90,1777,-28 %,Aktuel værdi
+Tøndervej 116280 Højer,øjer,175.000,20-03-2014,Alm. Salg,1.590,4,Stuehus,110,1929,-30 %,
+Langagervej 26280 Højer,øjer,10.150.000,12-03-2014,Alm. Salg,43.562,5,Stuehus,233,1975,,
+Herbergsgade 116280 Højer,øjer,100.000,12-02-2014,Alm. Salg,769,4,Villa,130,1900,,Aktuel værdi
+Østerbyvej 186280 Højer,øjer,1.100.000,29-01-2014,Alm. Salg,12.222,6,Stuehus,90,1850,,
+Buen 96280 Højer,øjer,290.000,25-01-2014,Alm. Salg,2.989,4,Villa,97,1964,-2 %,Aktuel værdi
+Nørrevej 86280 Højer,øjer,425.000,10-01-2014,Alm. Salg,2.833,6,Villa,150,1964,-15 %,Aktuel værdi
+Prilen 236280 Højer,øjer,750.000,09-01-2014,Alm. Salg,4.120,6,Villa,182,1972,-11 %,Aktuel værdi
+Nørreager 36280 Højer,øjer,420.000,20-12-2013,Fam. Salg,4.158,3,Villa,101,1978,,Aktuel værdi
+Nørregade 176280 Højer,øjer,347.000,18-11-2013,Alm. Salg,1.668,13,Lejlighed,208,1947,-30 %,Aktuel værdi
+Frifelt 56280 Højer,øjer,892.500,14-10-2013,Alm. Salg,6.972,4,Villa,128,1990,,Aktuel værdi
+Vesterkær 76280 Højer,øjer,1.455.000,12-10-2013,Alm. Salg,9.831,5,Villa,148,2004,-1 %,Aktuel værdi
+Gærupvej 106280 Højer,øjer,50.000,11-10-2013,Alm. Salg,446,5,Villa,112,1778,,Aktuel værdi
+Lyst 26280 Højer,øjer,1.787.650,18-09-2013,Alm. Salg,23.835,3,Villa,75,1875,,Aktuel værdi
+Strandvej 156280 Højer,øjer,600.000,05-09-2013,Alm. Salg,3.000,6,Villa,200,1901,-14 %,Aktuel værdi
+Emmerlev Klev 96280 Højer,øjer,470.000,08-08-2013,Alm. Salg,11.190,3,Sommerhus,42,1969,,Aktuel værdi
+Nørremarken 126280 Højer,øjer,740.000,12-07-2013,Alm. Salg,6.166,5,Villa,120,1980,-10 %,Aktuel værdi
+Sejerslevvej 286280 Højer,øjer,75.000,05-07-2013,Alm. Salg,872,3,Villa,86,1680,,Aktuel værdi
+Nylandsvej 56280 Højer,øjer,130.000,01-07-2013,Alm. Salg,1.340,4,Villa,97,1967,4 %,Aktuel værdi
+Møllegade 116280 Højer,øjer,330.000,18-06-2013,Alm. Salg,3.203,4,Villa,103,1972,,Aktuel værdi
+Sejerslevvej 5A6280 Højer,øjer,550.000,17-06-2013,Andet,4.074,4,Villa,135,1938,,Aktuel værdi
+Syrenvej 16280 Højer,øjer,400.000,12-06-2013,Alm. Salg,8.000,2,Sommerhus,50,1750,-18 %,Aktuel værdi
+Møllegade 76280 Højer,øjer,165.000,07-06-2013,Alm. Salg,1.701,3,Villa,97,1875,,Aktuel værdi
+Storegade 76280 Højer,øjer,50.000,29-05-2013,Alm. Salg,347,4,Villa,144,1750,,Aktuel værdi
+Nylandsvej 96280 Højer,øjer,450.000,14-05-2013,Alm. Salg,3.750,5,Villa,120,1802,-18 %,Aktuel værdi
+Skytvej 26280 Højer,øjer,400.000,07-05-2013,Alm. Salg,3.333,4,Villa,120,1827,,Aktuel værdi
+Søndergade 66280 Højer,øjer,145.000,29-04-2013,Alm. Salg,1.367,4,Villa,106,1900,0 %,Aktuel værdi
+Vadehavsvej 86280 Højer,øjer,463.000,26-03-2013,Alm. Salg,6.256,3,Sommerhus,74,2005,,Aktuel værdi
+Nørremarken 26280 Højer,øjer,320.000,13-03-2013,Andet,2.162,4,Villa,148,1979,,Aktuel værdi
+Nørreager 216280 Højer,øjer,885.000,27-02-2013,Alm. Salg,5.601,6,Villa,158,1985,-11 %,Aktuel værdi
+Prilen 226280 Højer,øjer,775.000,22-02-2013,Alm. Salg,4.144,5,Villa,187,1965,-6 %,Aktuel værdi
+Sejerslevvej 356280 Højer,øjer,950.000,03-12-2012,Alm. Salg,5.080,6,Villa,187,1850,-4 %,Aktuel værdi
+Søndergade 76280 Højer,øjer,364.667,30-11-2012,Alm. Salg,3.540,8,Villa,103,1898,,Aktuel værdi
+Sønderbygade 116280 Højer,øjer,950.000,16-11-2012,Alm. Salg,6.129,4,Villa,155,1910,-27 %,Aktuel værdi
+Vadehavsvej 46280 Højer,øjer,790.000,12-11-2012,Auktion,10.675,3,Sommerhus,74,2005,,Aktuel værdi
+Møllegade 66280 Højer,øjer,150.000,06-11-2012,Alm. Salg,1.948,2,Villa,77,1785,,Aktuel værdi
+Østerbyvej 346280 Højer,øjer,165.000,26-10-2012,Alm. Salg,1.434,4,Villa,115,1956,-34 %,Aktuel værdi
+Sejerslevvej 636280 Højer,øjer,225.000,26-10-2012,Alm. Salg,1.406,5,Villa,160,1927,-25 %,Aktuel værdi
+Kovej 116280 Højer,øjer,387.500,22-10-2012,Alm. Salg,2.618,6,Villa,148,1907,,Aktuel værdi
+Agertoften 26280 Højer,øjer,850.000,02-10-2012,Alm. Salg,7.083,3,Villa,120,1976,,Aktuel værdi
+Sejerslevvej 306280 Højer,øjer,142.500,17-09-2012,Auktion,1.140,4,Villa,125,1937,,Aktuel værdi
+Tøndervej 16280 Højer,øjer,1.250.000,27-08-2012,Alm. Salg,4.629,10,Stuehus,270,1875,-13 %,
+Kogsbøl-Ladegårdvej 26280 Højer,øjer,16.122.200,18-07-2012,Alm. Salg,64.488,10,Stuehus,250,1830,,
+Sejerslevvej 516280 Højer,øjer,475.000,15-07-2012,Alm. Salg,4.318,3,Villa,110,1770,-20 %,Aktuel værdi
+Nørrevej 236280 Højer,øjer,500.000,10-07-2012,Alm. Salg,1.930,6,Villa,259,1900,-14 %,Aktuel værdi
+Duborgvej 5A6280 Højer,øjer,650.000,21-06-2012,Alm. Salg,5.327,3,Villa,122,1850,,Aktuel værdi
+Ved Gaden 156280 Højer,øjer,590.000,18-06-2012,Fam. Salg,4.682,5,Villa,126,1800,,Aktuel værdi
+Kærgårdvej 16280 Højer,øjer,450.000,18-06-2012,Alm. Salg,3.813,3,Villa,118,1942,,Aktuel værdi
+Emmerlevvej 66280 Højer,øjer,550.000,22-05-2012,Alm. Salg,2.894,6,Villa,190,1913,-19 %,Aktuel værdi
+Nørregade 166280 Højer,øjer,200.000,22-04-2012,Alm. Salg,2.469,6,Villa,81,1892,,Aktuel værdi
+Nørrehedevej 136280 Højer,øjer,189.000,14-04-2012,Alm. Salg,1.968,5,Villa,96,1842,,Aktuel værdi
+Nørrehedevej 236280 Højer,øjer,799.000,12-04-2012,Alm. Salg,4.488,6,Villa,178,1865,0 %,Aktuel værdi
+Nørrevej 266280 Højer,øjer,378.000,22-03-2012,Alm. Salg,3.150,7,Villa,120,1951,,Aktuel værdi
+Kirkevej 16280 Højer,øjer,1.475.000,19-03-2012,Alm. Salg,5.363,8,Villa,275,1851,-5 %,Aktuel værdi
+Kannikhusvej 36280 Højer,øjer,5.900.000,26-02-2012,Fam. Salg,47.580,6,Stuehus,124,1962,,
+Kanalvej 26280 Højer,øjer,775.000,07-02-2012,Alm. Salg,4.258,7,Villa,182,1944,-6 %,Aktuel værdi
+Klintvej 16280 Højer,øjer,350.000,28-01-2012,Alm. Salg,1.923,7,Villa,182,1969,-49 %,Aktuel værdi
+Hjerpstedvej 116280 Højer,øjer,400.000,27-01-2012,Alm. Salg,2.857,4,Villa,140,1902,-27 %,Aktuel værdi
+Kogsbølvej 26280 Højer,øjer,3.480.000,25-01-2012,Alm. Salg,21.219,5,Stuehus,164,1977,,
+Siltoftvej 96280 Højer,øjer,1.100.000,24-01-2012,Alm. Salg,6.586,6,Villa,167,1923,-25 %,Aktuel værdi
+Stationsvej 16280 Højer,øjer,750.000,11-01-2012,Alm. Salg,4.807,7,Villa,156,1929,-6 %,Aktuel værdi
+Nørrehedevej 116280 Højer,øjer,61.250,08-01-2012,Alm. Salg,775,3,Villa,79,1845,,Aktuel værdi
+Søndergade 276280 Højer,øjer,2.376.572,21-12-2011,Alm. Salg,6.601,12,Kollegium,360,1997,,Aktuel værdi
+Klintvej 36280 Højer,øjer,530.000,25-11-2011,Alm. Salg,2.944,6,Villa,180,1970,,Aktuel værdi
+Nylandsvej 26280 Højer,øjer,190.000,24-11-2011,Alm. Salg,950,7,Villa,200,1797,,Aktuel værdi
+Kannikhusvej 106280 Højer,øjer,850.000,14-11-2011,Alm. Salg,6.967,4,Stuehus,122,1962,-5 %,
+Sejerslevvej 276280 Højer,øjer,220.000,08-11-2011,Alm. Salg,1.419,4,Villa,155,1847,-20 %,Aktuel værdi
+Vesterkobbel 96280 Højer,øjer,765.000,01-11-2011,Alm. Salg,6.270,4,Villa,122,1977,0 %,Aktuel værdi
+Kobbervold 26280 Højer,øjer,1.809.000,27-10-2011,Alm. Salg,16.445,5,Stuehus,110,1900,,
+Kovej 16280 Højer,øjer,480.000,26-10-2011,Alm. Salg,6.857,3,Villa,70,1910,-3 %,Aktuel værdi
+Emmerlev Klev 56280 Højer,øjer,302.600,22-10-2011,Fam. Salg,7.565,2,Sommerhus,40,1958,,Aktuel værdi
+Østerende 186280 Højer,øjer,734.721,19-10-2011,Alm. Salg,4.150,5,Villa,177,2015,,Aktuel værdi
+Vadehavsvej 346280 Højer,øjer,900.000,11-10-2011,Alm. Salg,12.162,3,Sommerhus,74,2005,,Aktuel værdi
+Sønderbygade 36280 Højer,øjer,385.000,10-10-2011,Alm. Salg,4.325,3,Villa,89,1900,,Aktuel værdi
+Stampemøllevej 46280 Højer,øjer,3.243.000,07-10-2011,Alm. Salg,24.946,5,Stuehus,130,1969,,
+Klostergade 26280 Højer,øjer,250.000,26-09-2011,Andet,2.272,2,Villa,110,1876,,Aktuel værdi
+Byvej 276280 Højer,øjer,1.550.000,16-09-2011,Alm. Salg,6.054,5,Villa,256,1972,-9 %,Aktuel værdi
+Søndervej 146280 Højer,øjer,110.000,15-08-2011,Auktion,1.000,2,Villa,110,1886,-78 %,Aktuel værdi
+Kathale 26280 Højer,øjer,449.000,09-07-2011,Alm. Salg,4.276,4,Stuehus,105,1756,,
+Emmerlevvej 116280 Højer,øjer,400.000,05-07-2011,Alm. Salg,4.040,1,Villa,99,1677,0 %,Aktuel værdi
+Nylandsvej 106280 Højer,øjer,850.000,27-06-2011,Alm. Salg,4.250,5,Villa,200,1965,,Aktuel værdi
+Nørrevej 756280 Højer,øjer,830.000,24-06-2011,Fam. Salg,4.970,5,Villa,167,1912,,Aktuel værdi
+Nørreled 36280 Højer,øjer,51.100,20-06-2011,Alm. Salg,350,5,Villa,146,2012,,Aktuel værdi
+Ballumvej 446280 Højer,øjer,430.000,18-06-2011,Alm. Salg,3.233,4,Villa,133,1946,-28 %,Aktuel værdi
+Stampemøllevej 56280 Højer,øjer,368.311,16-06-2011,Auktion,2.593,3,Villa,142,1941,,Aktuel værdi
+Sejerslevvej 146280 Højer,øjer,950.000,11-06-2011,Alm. Salg,2.905,8,Villa,327,1911,-5 %,Aktuel værdi
+Nørregade 506280 Højer,øjer,233.262,17-05-2011,Alm. Salg,1.740,5,Villa,134,1870,,Aktuel værdi
+Nørreled 16280 Højer,øjer,987.500,08-05-2011,Alm. Salg,6.810,4,Villa,145,2004,-1 %,Aktuel værdi
+Nylandsvej 126280 Højer,øjer,510.000,26-04-2011,Alm. Salg,6.071,2,Villa,84,1865,,Aktuel værdi
+Ballumvej 846280 Højer,øjer,1.045.000,09-04-2011,Alm. Salg,8.100,7,Stuehus,129,1801,0 %,
+Emmerlev Klev 176280 Højer,øjer,741.300,06-04-2011,Fam. Salg,11.404,4,Sommerhus,65,1935,,Aktuel værdi
+Emmerlev Klev 66280 Højer,øjer,1.805.572,24-03-2011,Alm. Salg,10.030,9,Stuehus,180,1801,,
+Højervej 366280 Højer,øjer,40.000,14-03-2011,Auktion,210,7,Rækkehus,190,1886,,Aktuel værdi
+Sejerslevvej 336280 Højer,øjer,250.000,03-03-2011,Alm. Salg,1.811,5,Villa,138,1937,-23 %,Aktuel værdi
+Nørreager 196280 Højer,øjer,1.250.000,03-03-2011,Alm. Salg,7.142,5,Villa,175,2001,-7 %,Aktuel værdi
+Ballumvej 466280 Højer,øjer,730.000,15-02-2011,Fam. Salg,5.840,4,Villa,125,1946,,Aktuel værdi
+Højer Dige 36280 Højer,øjer,1.048.000,13-01-2011,Alm. Salg,6.238,5,Stuehus,168,1939,-4 %,
+Duborgvej 46280 Højer,øjer,2.725.000,14-12-2010,Fam. Salg,21.975,4,Stuehus,124,1905,,
+Strandvej 216280 Højer,øjer,585.000,01-11-2010,Alm. Salg,5.366,4,Villa,109,1929,-10 %,Aktuel værdi
+Østergade 46280 Højer,øjer,977.106,26-10-2010,Fam. Salg,4.720,6,Villa,207,1727,-48 %,Aktuel værdi
+Kirstine Svendsdattervej 106280 Højer,øjer,620.000,12-10-2010,Alm. Salg,1.163,9,Villa,533,1890,,Aktuel værdi
+Ballumvej 76280 Højer,øjer,760.000,29-09-2010,Alm. Salg,8.351,7,Servicevirksomhed,91,1925,-35 %,Aktuel værdi
+"Storegade 10B, 16280 Højer",øjer,450.000,22-09-2010,Alm. Salg,4.891,3,Lejlighed,92,1878,-33 %,Aktuel værdi
+Østerbyvej 96280 Højer,øjer,688.631,07-09-2010,Alm. Salg,4.250,4,Villa,162,1893,-56 %,Aktuel værdi
+Nørrevej 126280 Højer,øjer,815.000,27-08-2010,Alm. Salg,6.082,4,Villa,134,1965,-4 %,Aktuel værdi
+Østerende 16280 Højer,øjer,773.500,12-08-2010,Fam. Salg,2.907,10,BygningTilHandel,266,1827,,Aktuel værdi
+Stampemøllevej 16280 Højer,øjer,381.500,11-08-2010,Alm. Salg,7.064,2,Sommerhus,54,1948,-1 %,Aktuel værdi
+Emmerlev Klev 36280 Højer,øjer,1.295.000,30-06-2010,Alm. Salg,27.553,3,Sommerhus,47,1934,0 %,Aktuel værdi
+Ny Møllevej 86280 Højer,øjer,200.000,22-06-2010,Fam. Salg,2.500,2,Villa,80,1958,,Aktuel værdi
+Siltoftvej 26280 Højer,øjer,1.250.000,21-06-2010,Andet,5.434,29,Stuehus,230,1880,,
+Sejerslevvej 856280 Højer,øjer,214.236,17-06-2010,Alm. Salg,357,14,Stuehus,600,1905,,
+Sejerslevvej 896280 Højer,øjer,3.516.142,17-06-2010,Alm. Salg,20.929,5,Stuehus,168,1850,,
+Stampemøllevej 96280 Højer,øjer,960.000,12-06-2010,Alm. Salg,-,5,Villa,216,1937,-4 %,Aktuel værdi
+Agertoften 56280 Højer,øjer,770.000,04-06-2010,Alm. Salg,6.209,4,Villa,124,1977,-3 %,Aktuel værdi
+Sejerslevvej 936280 Højer,øjer,992.000,14-05-2010,Alm. Salg,7.936,3,Rækkehus,125,1880,-9 %,Aktuel værdi
+Sejerslevvej 656280 Højer,øjer,150.000,05-05-2010,Alm. Salg,612,9,Stuehus,245,1802,,
+Klintvej 116280 Højer,øjer,830.000,01-05-2010,Alm. Salg,-,5,Villa,196,1973,-7 %,Aktuel værdi
+Ballumvej 826280 Højer,øjer,550.000,18-04-2010,Alm. Salg,4.508,3,Villa,122,1953,0 %,Aktuel værdi
+Nørregade 236280 Højer,øjer,325.000,16-04-2010,Alm. Salg,1.511,5,Villa,215,1906,-59 %,Aktuel værdi
+Sejerslevvej 86280 Højer,øjer,806.973,07-04-2010,Alm. Salg,5.107,4,Villa,158,1928,,Aktuel værdi
+Østerbyvej 136280 Højer,øjer,1.295.000,31-03-2010,Alm. Salg,6.108,6,Villa,212,1932,0 %,Aktuel værdi
+Tøndervej 56280 Højer,øjer,900.000,23-03-2010,Fam. Salg,6.569,5,Stuehus,137,1937,,
+Nørrebyen 156280 Højer,øjer,560.849,02-03-2010,Fam. Salg,3.338,5,Stuehus,168,1845,,
+Gærupvej 16280 Højer,øjer,400.000,15-02-2010,Alm. Salg,4.347,3,Villa,92,1961,-18 %,Aktuel værdi
+Skolegade 46280 Højer,øjer,600.000,11-02-2010,Alm. Salg,8.333,3,Villa,72,1850,-6 %,Aktuel værdi
+Østergade 56280 Højer,øjer,267.000,01-02-2010,Alm. Salg,2.567,5,Villa,104,1878,,Aktuel værdi
+Ballumvej 286280 Højer,øjer,685.000,22-01-2010,Alm. Salg,5.269,5,Villa,130,1956,,Aktuel værdi
+Storegade 296280 Højer,øjer,255.000,18-01-2010,Alm. Salg,1.746,5,Villa,146,1896,-22 %,Aktuel værdi
+Sønderhedevej 106280 Højer,øjer,1.855.000,07-01-2010,Alm. Salg,6.022,9,Stuehus,308,1912,,
+Havnevej 26280 Højer,øjer,710.000,18-12-2009,Alm. Salg,6.228,3,Anden beboelse,114,1917,,Aktuel værdi
+A R Kjærbysvej 116280 Højer,øjer,171.250,19-11-2009,Alm. Salg,973,6,Villa,176,2010,,Aktuel værdi
+Nørregade 486280 Højer,øjer,290.000,12-11-2009,Alm. Salg,2.871,6,Villa,101,1880,-11 %,Aktuel værdi
+Ved Gaden 56280 Højer,øjer,640.000,09-11-2009,Alm. Salg,4.000,5,Stuehus,160,1828,,
+Sejerslevvej 736280 Højer,øjer,90.000,22-10-2009,Auktion,825,4,Villa,109,1827,,Aktuel værdi
+Siltoftvej 306280 Højer,øjer,450.000,28-09-2009,Alm. Salg,5.625,3,Villa,80,1952,,Aktuel værdi
+Siltoftvej 36280 Højer,øjer,730.000,25-09-2009,Alm. Salg,3.560,6,Villa,205,1877,-14 %,Aktuel værdi
+Sejerslevvej 916280 Højer,øjer,560.000,15-09-2009,Alm. Salg,4.666,4,Villa,120,1860,-6 %,Aktuel værdi
+Nørremarken 146280 Højer,øjer,930.000,03-09-2009,Alm. Salg,6.326,5,Villa,147,1980,-6 %,Aktuel værdi
+Engsvinget 16280 Højer,øjer,1.400.000,26-08-2009,Alm. Salg,4.666,5,Villa,300,1848,-12 %,Aktuel værdi
+Hvedemarken 176280 Højer,øjer,745.000,10-07-2009,Alm. Salg,4.570,4,Villa,163,1977,-15 %,Aktuel værdi
+Margrethevej 16280 Højer,øjer,810.000,06-07-2009,Alm. Salg,5.328,4,Villa,152,1973,,Aktuel værdi
+Nørremølle 106280 Højer,øjer,760.000,02-07-2009,Alm. Salg,8.444,4,Stuehus,90,1909,-4 %,
+Ballumvej 816280 Højer,øjer,575.000,26-06-2009,Alm. Salg,5.750,3,Villa,100,1960,,Aktuel værdi
+Tøndervej 26280 Højer,øjer,660.000,10-06-2009,Alm. Salg,4.647,6,Villa,142,1966,-17 %,Aktuel værdi
+Møllegade 36280 Højer,øjer,500.000,06-06-2009,Andet,7.692,4,Rækkehus,65,1777,,Aktuel værdi
+Buen 76280 Højer,øjer,690.000,28-05-2009,Alm. Salg,4.859,6,Villa,142,1964,-10 %,Aktuel værdi
+Nørregade 116280 Højer,øjer,480.000,20-05-2009,Alm. Salg,3.750,3,Villa,128,1800,0 %,Aktuel værdi
+Strandvej 76280 Højer,øjer,330.000,16-04-2009,Fam. Salg,3.113,4,Villa,106,1938,,Aktuel værdi
+Mellemgade 46280 Højer,øjer,1.350.000,17-03-2009,Alm. Salg,6.683,9,Villa,202,1924,-10 %,Aktuel værdi
+Østerbyvej 176280 Højer,øjer,1.215.000,16-03-2009,Alm. Salg,4.418,7,Villa,275,1931,,Aktuel værdi
+Nørremølle 66280 Højer,øjer,755.000,23-02-2009,Alm. Salg,6.508,3,Villa,116,1928,-11 %,Aktuel værdi
+Ved Gamle Dige 66280 Højer,øjer,7.450.000,27-01-2009,Andet,76.020,3,Villa,98,1963,,Aktuel værdi
+Siltoftvej 166280 Højer,øjer,300.000,27-01-2009,Alm. Salg,2.419,4,Villa,124,1958,,Aktuel værdi
+Nørregade 146280 Højer,øjer,430.000,11-11-2008,Alm. Salg,3.981,4,Villa,108,1900,0 %,Aktuel værdi
+Tøndervej 136280 Højer,øjer,8.040.000,04-11-2008,Auktion,57.428,5,Stuehus,140,1934,,
+Gærupvej 1A6280 Højer,øjer,245.000,17-10-2008,Alm. Salg,6.447,2,Villa,38,1964,-29 %,Aktuel værdi
+Hjerpstedvej 146280 Højer,øjer,350.000,07-10-2008,Alm. Salg,3.888,4,Villa,90,1939,-7 %,Aktuel værdi
+Emmerlevvej 156280 Højer,øjer,1.250.000,28-09-2008,Alm. Salg,4.901,7,Villa,255,1700,-7 %,Aktuel værdi
+Herbergsgade 16280 Højer,øjer,800.000,25-09-2008,Alm. Salg,6.451,4,Villa,124,1931,-6 %,Aktuel værdi
+Nørrehedevej 76280 Højer,øjer,450.000,18-09-2008,Alm. Salg,6.000,3,Villa,75,1877,,Aktuel værdi
+Vesterled 126280 Højer,øjer,560.000,12-09-2008,Alm. Salg,9.333,5,Villa,60,1800,-7 %,Aktuel værdi
+Emmerlevvej 316280 Højer,øjer,525.000,26-08-2008,Alm. Salg,4.133,3,Villa,127,1947,-9 %,Aktuel værdi
+Sønderbyvej 156280 Højer,øjer,260.000,22-08-2008,Alm. Salg,2.321,3,Villa,112,1792,-20 %,Aktuel værdi
+Kannikhusvej 146280 Højer,øjer,835.000,20-08-2008,Alm. Salg,4.638,4,Villa,180,2010,0 %,Aktuel værdi
+Torvegade 16280 Højer,øjer,321.533,13-08-2008,Andet,3.215,4,Villa,100,1850,,Aktuel værdi
+Østerbyvej 446280 Højer,øjer,1.795.000,08-08-2008,Alm. Salg,14.360,4,Villa,125,1949,0 %,Aktuel værdi
+Sejerslevvej 436280 Højer,øjer,500.000,14-07-2008,Alm. Salg,4.672,4,Villa,107,1800,,Aktuel værdi
+Nylandsvej 36280 Højer,øjer,530.000,11-07-2008,Alm. Salg,3.509,5,Villa,151,1878,-4 %,Aktuel værdi
+Byvej 176280 Højer,øjer,460.017,11-06-2008,Alm. Salg,6.389,3,Villa,72,1820,,Aktuel værdi
+Siltoftvej 86280 Højer,øjer,1.520.000,06-06-2008,Alm. Salg,6.386,8,Villa,238,1952,,Aktuel værdi
+Nørregade 246280 Højer,øjer,350.000,22-05-2008,Fam. Salg,2.991,5,Villa,117,1860,,Aktuel værdi
+Kanalvej 86280 Højer,øjer,775.000,21-05-2008,Alm. Salg,7.828,4,Villa,99,1861,-3 %,Aktuel værdi
+Ny Møllevej 26280 Højer,øjer,390.000,21-05-2008,Alm. Salg,3.513,3,Villa,111,1951,-12 %,Aktuel værdi
+Søndervej 166280 Højer,øjer,600.000,21-05-2008,Alm. Salg,7.058,3,Stuehus,85,1753,-14 %,
+Højervej 76280 Højer,øjer,250.000,20-05-2008,Fam. Salg,1.953,4,Villa,128,1948,,Aktuel værdi
+Rudbølvej 16280 Højer,øjer,3.000.000,19-05-2008,Fam. Salg,11.111,5,Villa,270,1878,-24 %,Aktuel værdi
+Nørremølle 76280 Højer,øjer,900.000,06-05-2008,Alm. Salg,6.428,5,Villa,140,1925,,Aktuel værdi
+Kannikhusvej 86280 Højer,øjer,6.109.500,15-04-2008,Fam. Salg,58.745,5,Stuehus,104,1963,,
+Nørregade 466280 Højer,øjer,100.000,15-04-2008,Alm. Salg,1.136,2,Villa,88,1825,,Aktuel værdi
+Frifelt 26280 Højer,øjer,550.000,15-04-2008,Alm. Salg,5.339,4,Villa,103,1950,-4 %,Aktuel værdi
+Stampemøllevej 136280 Højer,øjer,1.700.000,31-03-2008,Fam. Salg,9.189,5,Stuehus,185,1934,,
+Nylandsvej 86280 Højer,øjer,810.000,25-03-2008,Alm. Salg,6.694,4,Villa,121,1870,-4 %,Aktuel værdi
+Nørreager 156280 Højer,øjer,700.000,11-03-2008,Alm. Salg,6.481,3,Villa,108,1986,,Aktuel værdi
+Agertoften 16280 Højer,øjer,970.000,03-03-2008,Alm. Salg,5.187,5,Villa,187,1976,-3 %,Aktuel værdi
+Sejerslevvej 296280 Højer,øjer,400.000,25-02-2008,Fam. Salg,2.777,5,Villa,144,1969,,Aktuel værdi
+Nørrevej 766280 Højer,øjer,408.000,19-02-2008,Fam. Salg,2.632,6,Villa,155,1960,,Aktuel værdi
+Klintvej 176280 Højer,øjer,930.000,07-02-2008,Alm. Salg,5.027,7,Villa,185,1971,-5 %,Aktuel værdi
+Søndervej 126280 Højer,øjer,290.000,07-02-2008,Fam. Salg,2.929,3,Villa,99,1967,,Aktuel værdi
+Siltoftvej 136280 Højer,øjer,600.000,29-01-2008,Alm. Salg,4.878,3,Stuehus,123,1970,,
+Højervej 246280 Højer,øjer,550.000,20-12-2007,Alm. Salg,4.867,4,Villa,113,1954,,Aktuel værdi
+Emmerlevvej 356280 Højer,øjer,650.000,12-12-2007,Alm. Salg,3.186,5,Villa,204,1787,,Aktuel værdi
+Siltoftvej 366280 Højer,øjer,600.000,11-12-2007,Alm. Salg,4.109,5,Stuehus,146,1908,,
+Vesterende 96280 Højer,øjer,1.100.000,06-12-2007,Alm. Salg,6.432,6,Villa,171,1977,,Aktuel værdi
+Nørrevej 76280 Højer,øjer,395.000,22-10-2007,Alm. Salg,5.808,3,Villa,68,1777,0 %,Aktuel værdi
+Slusevej 76280 Højer,øjer,550.000,21-10-2007,Alm. Salg,4.782,4,Villa,115,1973,,Aktuel værdi
+Storegade 126280 Højer,øjer,450.000,18-10-2007,Fam. Salg,3.461,5,Villa,130,1870,,Aktuel værdi
+Rudbølvej 266280 Højer,øjer,650.000,18-10-2007,Fam. Salg,6.132,5,Villa,106,1870,,Aktuel værdi
+Emmerlevvej 196280 Højer,øjer,630.000,27-09-2007,Alm. Salg,9.130,2,Villa,69,1890,,Aktuel værdi
+Sejerslevvej 76280 Højer,øjer,680.000,27-09-2007,Alm. Salg,2.821,7,Villa,241,1938,,Aktuel værdi
+Sønderbyvej 236280 Højer,øjer,1.919.200,25-09-2007,Alm. Salg,9.139,7,Stuehus,210,1850,,
+Præstevænget 226280 Højer,øjer,845.000,14-09-2007,Alm. Salg,5.382,4,Villa,157,1979,,Aktuel værdi
+Østerbyvej 146280 Højer,øjer,715.000,17-08-2007,Alm. Salg,5.143,5,Villa,139,1978,,Aktuel værdi
+Kovej 36280 Højer,øjer,375.000,16-08-2007,Alm. Salg,5.136,2,Villa,73,1877,,Aktuel værdi
+Nørremarken 136280 Højer,øjer,615.000,05-08-2007,Alm. Salg,4.804,4,Villa,128,1980,,Aktuel værdi
+Prilen 306280 Højer,øjer,695.000,30-07-2007,Alm. Salg,6.619,4,Villa,105,1969,,Aktuel værdi
+Tøndervej 126280 Højer,øjer,435.000,23-07-2007,Alm. Salg,4.103,5,Villa,106,1956,-13 %,Aktuel værdi
+"Kovej 2, 16280 Højer",øjer,1.041.113,23-07-2007,Alm. Salg,3.203,8,Villa,325,1939,,Aktuel værdi
+Kolkvej 46280 Højer,øjer,600.000,12-07-2007,Alm. Salg,4.347,5,Stuehus,138,1935,,
+Engsvinget 26280 Højer,øjer,450.000,11-07-2007,Alm. Salg,3.103,5,Villa,145,1880,,Aktuel værdi
+Herbergsgade 36280 Højer,øjer,132.000,06-07-2007,Alm. Salg,830,7,Villa,159,1900,,Aktuel værdi
+Ballumvej 186280 Højer,øjer,500.000,05-07-2007,Alm. Salg,4.545,5,Villa,110,1937,,Aktuel værdi
+Nørrebyen 46280 Højer,øjer,550.000,04-07-2007,Alm. Salg,4.044,4,Villa,136,1967,,Aktuel værdi
+Nørremarken 66280 Højer,øjer,1.350.000,19-06-2007,Alm. Salg,7.803,5,Villa,173,1979,-7 %,Aktuel værdi
+Kærengvej 46280 Højer,øjer,625.000,19-06-2007,Alm. Salg,5.208,5,Stuehus,120,1750,-4 %,
+Ved Gaden 66280 Højer,øjer,500.000,09-06-2007,Alm. Salg,4.273,4,Villa,117,1922,,Aktuel værdi
+Højervej 16280 Højer,øjer,1.000.000,04-06-2007,Alm. Salg,5.494,6,Stuehus,182,1950,,
+Højervej 326280 Højer,øjer,385.000,04-06-2007,Alm. Salg,3.737,3,Villa,103,1962,,Aktuel værdi
+Storegade 326280 Højer,øjer,562.500,01-06-2007,Alm. Salg,5.625,5,Villa,100,1708,,Aktuel værdi
+Rudbølvej 306280 Højer,øjer,870.000,01-06-2007,Alm. Salg,7.565,3,Villa,115,1700,,Aktuel værdi
+Præstevænget 216280 Højer,øjer,690.000,25-05-2007,Alm. Salg,5.476,5,Villa,126,1979,-3 %,Aktuel værdi
+Sejerslevvej 16280 Højer,øjer,296.849,25-05-2007,Andet,2.800,4,Villa,106,1950,,Aktuel værdi
+Højervej 16A6280 Højer,øjer,5.549.201,25-05-2007,Andet,29.206,7,Villa,190,1870,,Aktuel værdi
+Højervej 146280 Højer,øjer,476.431,25-05-2007,Andet,7.940,6,Ukendt,60,1870,,Aktuel værdi
+Højervej 226280 Højer,øjer,239.367,25-05-2007,Andet,3.108,4,Villa,77,1956,,Aktuel værdi
+Nørregade 286280 Højer,øjer,800.000,15-05-2007,Alm. Salg,4.571,4,Villa,175,1900,,Aktuel værdi
+Østerende 56280 Højer,øjer,300.000,03-04-2007,Alm. Salg,3.896,2,Villa,77,1871,,Aktuel værdi
+Højervej 36280 Højer,øjer,1.600.000,29-03-2007,Alm. Salg,40.000,3,Ukendt,40,1920,,Aktuel værdi
+Sønderbyvej 196280 Højer,øjer,2.393.475,23-03-2007,Alm. Salg,7.847,9,Stuehus,305,1864,,
+Siltoftvej 226280 Højer,øjer,400.000,22-03-2007,Alm. Salg,4.210,4,Villa,95,1957,,Aktuel værdi
+Nørregade 256280 Højer,øjer,1.200.000,20-03-2007,Alm. Salg,8.333,6,Villa,144,1870,,Aktuel værdi
+Hemvej 26280 Højer,øjer,396.793,20-03-2007,Fam. Salg,5.511,3,Villa,72,1790,,Aktuel værdi
+Ballumvej 486280 Højer,øjer,400.000,20-03-2007,Alm. Salg,2.898,6,Villa,138,1947,-16 %,Aktuel værdi
+Nørregade 346280 Højer,øjer,760.000,16-03-2007,Alm. Salg,3.781,4,Villa,201,1937,-8 %,Aktuel værdi
+Møgeltøndervej 76280 Højer,øjer,485.000,12-03-2007,Alm. Salg,5.639,3,Villa,86,1954,,Aktuel værdi
+Torvet 86280 Højer,øjer,750.033,04-03-2007,Alm. Salg,5.474,6,Villa,137,1790,,Aktuel værdi
+Nørrehedevej 46280 Højer,øjer,1.550.000,28-02-2007,Alm. Salg,8.378,6,Stuehus,185,1857,,
+Nørrehedevej 156280 Højer,øjer,153.000,19-02-2007,Fam. Salg,1.530,4,Villa,100,1880,,Aktuel værdi
+Sejerslevvej 566280 Højer,øjer,800.000,19-02-2007,Alm. Salg,7.207,5,Stuehus,111,1916,,
+Østergade 96280 Højer,øjer,710.000,02-02-2007,Alm. Salg,3.678,5,Villa,193,1857,,Aktuel værdi
+Vestervang 66280 Højer,øjer,875.000,26-01-2007,Alm. Salg,7.172,5,Villa,122,1977,,Aktuel værdi
+Skippergade 26280 Højer,øjer,200.000,24-01-2007,Alm. Salg,3.333,3,Villa,60,1901,,Aktuel værdi
+Kirstine Svendsdattervej 16280 Højer,øjer,585.000,19-01-2007,Alm. Salg,-,5,Villa,201,1900,,Aktuel værdi
+Højervej 426280 Højer,øjer,2.750.000,21-12-2006,Fam. Salg,13.285,6,Stuehus,207,1750,,
+Rosenborgvej 26280 Højer,øjer,6.977.000,20-12-2006,Alm. Salg,51.681,7,Stuehus,135,1909,,
+Klostervej 46280 Højer,øjer,494.708,15-12-2006,Alm. Salg,2.893,5,Stuehus,171,1777,,
+Nørregade 386280 Højer,øjer,825.000,01-12-2006,Alm. Salg,2.304,8,Villa,358,1902,,Aktuel værdi
+Ved Gaden 36280 Højer,øjer,925.000,01-12-2006,Alm. Salg,4.111,8,Stuehus,225,1907,,
+Byvej 136280 Højer,øjer,625.000,26-11-2006,Alm. Salg,2.500,6,Villa,250,1870,,Aktuel værdi
+Nørregade 156280 Højer,øjer,795.000,10-10-2006,Alm. Salg,4.818,5,Villa,165,1927,,Aktuel værdi
+Østermarkvej 36280 Højer,øjer,375.000,10-10-2006,Alm. Salg,3.989,4,Villa,94,1951,,Aktuel værdi
+Ballumvej 386280 Højer,øjer,375.000,05-10-2006,Alm. Salg,3.865,4,Villa,97,1945,,Aktuel værdi
+Ved Gaden 16280 Højer,øjer,8.000.000,03-10-2006,Alm. Salg,32.128,12,Stuehus,249,1970,,
+Vestervang 16280 Højer,øjer,700.000,15-09-2006,Alm. Salg,6.086,4,Villa,115,1977,,Aktuel værdi
+Vestervang 46280 Højer,øjer,820.000,05-09-2006,Alm. Salg,4.939,5,Villa,166,1979,,Aktuel værdi
+Sønderbygade 26280 Højer,øjer,450.000,29-08-2006,Alm. Salg,8.181,3,Sommerhus,55,1910,,Aktuel værdi
+Nørrebyen 116280 Højer,øjer,12.000.000,22-08-2006,Alm. Salg,57.142,5,Stuehus,210,1898,,
+Sejerslevvej 166280 Højer,øjer,795.000,21-08-2006,Alm. Salg,4.704,4,Villa,169,1800,,Aktuel værdi
+Søndervej 36280 Højer,øjer,315.000,25-07-2006,Alm. Salg,1.789,4,Sommerhus,176,1900,,Aktuel værdi
+Rudbølvej 76280 Højer,øjer,755.000,20-07-2006,Alm. Salg,9.437,4,Villa,80,1870,,Aktuel værdi
+Nørremølle 96280 Højer,øjer,490.000,15-07-2006,Alm. Salg,2.899,6,Villa,169,1739,,Aktuel værdi
+Vestkystvej 16280 Højer,øjer,2.800.000,13-07-2006,Alm. Salg,9.150,7,Villa,306,1825,,Aktuel værdi
+Sejerslevvej 376280 Højer,øjer,395.000,12-07-2006,Fam. Salg,4.388,5,Villa,90,1850,,Aktuel værdi
+Sejerslevvej 316280 Højer,øjer,595.000,05-07-2006,Alm. Salg,4.722,4,Villa,126,1876,,Aktuel værdi
+Klintvej 196280 Højer,øjer,810.000,30-06-2006,Alm. Salg,5.785,4,Villa,140,1972,,Aktuel værdi
+Præstevænget 166280 Højer,øjer,475.000,29-06-2006,Alm. Salg,3.958,3,Villa,120,1976,,Aktuel værdi
+Emmerlevvej 346280 Højer,øjer,90.000,17-06-2006,Alm. Salg,1.250,5,Villa,72,1910,,Aktuel værdi
+Slusevej 196280 Højer,øjer,1.025.000,10-06-2006,Alm. Salg,6.743,6,Villa,152,1942,,Aktuel værdi
+Ballumvej 176280 Højer,øjer,455.000,14-05-2006,Alm. Salg,1.552,9,Villa,293,1961,,Aktuel værdi
+Vesterende 46280 Højer,øjer,1.100.000,10-05-2006,Alm. Salg,5.670,6,Villa,194,1977,,Aktuel værdi
+Præstevænget 36280 Højer,øjer,650.000,24-04-2006,Alm. Salg,4.710,4,Villa,138,1975,,Aktuel værdi
+Hjerpstedvej 166280 Højer,øjer,1.600.000,23-04-2006,Alm. Salg,9.523,4,Stuehus,168,1929,,
+Ballumvej 836280 Højer,øjer,650.000,07-04-2006,Fam. Salg,5.603,4,Villa,116,1960,,Aktuel værdi
+Strandvej 86280 Højer,øjer,1.098.000,14-03-2006,Alm. Salg,7.842,6,Villa,140,1933,,Aktuel værdi
+Sejerslevvej 32B6280 Højer,øjer,160.000,09-03-2006,Andet,692,9,Anden beboelse,231,1912,,Aktuel værdi
+Slusevej 46280 Højer,øjer,840.000,08-03-2006,Alm. Salg,6.829,7,Villa,123,1973,,Aktuel værdi
+Østerbyvej 156280 Højer,øjer,1.145.000,08-03-2006,Alm. Salg,6.396,4,Villa,179,1931,,Aktuel værdi
+Østerbyvej 526280 Højer,øjer,750.000,03-03-2006,Alm. Salg,3.488,7,Villa,215,1912,,Aktuel værdi
+Nørrevej 206280 Højer,øjer,352.547,02-02-2006,Andet,2.797,3,Villa,126,1961,,Aktuel værdi
+Ballumvej 326280 Højer,øjer,468.000,14-01-2006,Alm. Salg,4.254,4,Villa,110,1957,,Aktuel værdi
+Nørreager 96280 Højer,øjer,840.000,18-12-2005,Alm. Salg,5.753,4,Villa,146,1979,,Aktuel værdi
+Præstevænget 26280 Højer,øjer,640.000,08-12-2005,Alm. Salg,5.245,5,Villa,122,1976,,Aktuel værdi
+Tøndervej 66280 Højer,øjer,600.000,01-12-2005,Alm. Salg,4.347,5,Villa,138,1969,,Aktuel værdi
+Rudbølvej 186280 Højer,øjer,498.000,25-11-2005,Alm. Salg,5.081,4,Villa,98,1958,,Aktuel værdi
+Nørrehedevej 96280 Højer,øjer,220.000,12-11-2005,Alm. Salg,1.913,4,Stuehus,115,1877,,
+Rudbølvej 86280 Højer,øjer,1.716.250,08-11-2005,Fam. Salg,17.162,4,Stuehus,100,1850,,
+Nørrevej 736280 Højer,øjer,600.000,30-10-2005,Alm. Salg,4.724,3,Villa,127,1959,,Aktuel værdi
+Nørregade 76280 Højer,øjer,935.000,20-10-2005,Alm. Salg,6.192,7,Villa,151,1898,,Aktuel værdi
+Gærupvej 26280 Højer,øjer,355.000,12-10-2005,Alm. Salg,1.888,6,Villa,188,1958,,Aktuel værdi
+Kolkvej 36280 Højer,øjer,675.000,05-10-2005,Alm. Salg,7.031,4,Stuehus,96,1876,,
+Banegårdsgade 16280 Højer,øjer,550.000,03-10-2005,Alm. Salg,2.750,6,Villa,200,1903,,Aktuel værdi
+Møgeltøndervej 116280 Højer,øjer,507.000,26-09-2005,Alm. Salg,3.091,6,Villa,164,1973,,Aktuel værdi
+Rudbølvej 66280 Højer,øjer,475.000,15-09-2005,Alm. Salg,1.637,6,Villa,290,1923,,Aktuel værdi
+Postgade 126280 Højer,øjer,330.000,14-09-2005,Alm. Salg,1.907,6,Villa,173,1870,,Aktuel værdi
+Strandvej 26280 Højer,øjer,956.000,08-09-2005,Alm. Salg,5.112,8,Villa,187,1757,,Aktuel værdi
+Højervej 466280 Højer,øjer,150.000,07-09-2005,Fam. Salg,1.304,4,Villa,115,1936,,Aktuel værdi
+Vesterled 66280 Højer,øjer,855.000,30-08-2005,Fam. Salg,4.275,9,Stuehus,200,1800,,
+Gærupvej 116280 Højer,øjer,500.000,25-08-2005,Alm. Salg,3.968,7,Stuehus,126,1896,,
+Vadehavsvej 66280 Højer,øjer,1.250.000,24-08-2005,Alm. Salg,16.891,3,Sommerhus,74,2005,,Aktuel værdi
+Hjerpstedvej 156280 Højer,øjer,525.000,19-08-2005,Alm. Salg,3.697,4,Villa,142,1872,,Aktuel værdi
+Vadehavsvej 186280 Højer,øjer,1.150.000,15-08-2005,Alm. Salg,15.540,3,Sommerhus,74,2005,,Aktuel værdi
+Vadehavsvej 206280 Højer,øjer,1.150.000,15-08-2005,Alm. Salg,15.540,3,Sommerhus,74,2005,,Aktuel værdi
+Sejerslevvej 776280 Højer,øjer,3.650.000,10-08-2005,Alm. Salg,40.555,4,Villa,90,1953,,Aktuel værdi
+Østerbyvej 166280 Højer,øjer,200.000,29-06-2005,Alm. Salg,873,4,Villa,229,1790,,Aktuel værdi
+Kanalvej 126280 Højer,øjer,1.491.680,14-06-2005,Alm. Salg,17.758,2,Villa,84,1877,,Aktuel værdi
+Sønderbyvej 116280 Højer,øjer,320.000,09-06-2005,Alm. Salg,1.904,4,Villa,168,1850,,Aktuel værdi
+Østerbyvej 116280 Højer,øjer,65.000,19-05-2005,Alm. Salg,416,4,Stuehus,156,1870,,
+Vadehavsvej 106280 Højer,øjer,1.250.000,14-05-2005,Alm. Salg,16.891,3,Sommerhus,74,2005,,Aktuel værdi
+Højervej 346280 Højer,øjer,725.000,12-05-2005,Alm. Salg,4.769,5,Villa,152,1975,,Aktuel værdi
+Østerbyvej 426280 Højer,øjer,65.000,02-05-2005,Alm. Salg,541,3,Stuehus,120,1932,,
+Østerbyvej 266280 Højer,øjer,850.000,29-04-2005,Alm. Salg,5.312,5,Villa,160,1858,,Aktuel værdi
+Nørrevej 136280 Højer,øjer,250.000,26-04-2005,Alm. Salg,1.250,6,Villa,200,1900,,Aktuel værdi
+Nygade 26280 Højer,øjer,485.000,18-04-2005,Alm. Salg,4.330,5,Villa,112,1935,,Aktuel værdi
+Møllegade 56280 Højer,øjer,548.000,16-04-2005,Alm. Salg,8.562,3,Rækkehus,64,1790,,Aktuel værdi
+Kærgårdvej 26280 Højer,øjer,1.366.111,03-04-2005,Alm. Salg,4.568,11,Stuehus,299,1980,,
+Østervej 36280 Højer,øjer,631.218,03-04-2005,Alm. Salg,2.963,3,Stuehus,213,1870,,
+Vadehavsvej 26280 Højer,øjer,1.250.000,29-03-2005,Alm. Salg,16.025,3,Sommerhus,78,2005,,Aktuel værdi
+Gærupvej 156280 Højer,øjer,170.000,25-03-2005,Alm. Salg,2.361,3,Villa,72,1900,,Aktuel værdi
+Hemvej 126280 Højer,øjer,8.000,21-03-2005,Auktion,90,4,Villa,88,1860,,Aktuel værdi
+Rudbølvej 176280 Højer,øjer,135.000,12-03-2005,Alm. Salg,402,9,Villa,335,1880,,Aktuel værdi
+Præstevænget 76280 Højer,øjer,815.000,07-03-2005,Alm. Salg,4.075,6,Villa,200,2013,,Aktuel værdi
+Sønderbygade 76280 Højer,øjer,1.047.016,04-03-2005,Alm. Salg,5.132,6,Villa,204,1868,,Aktuel værdi
+Vadehavsvej 166280 Højer,øjer,1.250.000,10-02-2005,Alm. Salg,16.891,3,Sommerhus,74,2005,,Aktuel værdi
+Vadehavsvej 246280 Højer,øjer,1.250.000,10-02-2005,Alm. Salg,16.891,3,Sommerhus,74,2005,,Aktuel værdi
+Vadehavsvej 266280 Højer,øjer,1.250.000,03-02-2005,Alm. Salg,16.891,3,Sommerhus,74,2005,,Aktuel værdi
+Vadehavsvej 286280 Højer,øjer,1.250.000,02-02-2005,Alm. Salg,16.891,3,Sommerhus,74,2005,,Aktuel værdi
+Vadehavsvej 146280 Højer,øjer,1.250.000,01-02-2005,Alm. Salg,16.891,3,Sommerhus,74,2005,,Aktuel værdi
+Sejerslevvej 1076280 Højer,øjer,395.000,01-02-2005,Alm. Salg,4.388,3,Villa,90,1843,,Aktuel værdi
+Søndergade 106280 Højer,øjer,710.000,26-01-2005,Alm. Salg,4.409,6,Villa,161,1825,,Aktuel værdi
+Nørregade 366280 Højer,øjer,800.000,23-01-2005,Alm. Salg,2.777,13,Villa,288,1906,,Aktuel værdi
+Vadehavsvej 306280 Højer,øjer,1.250.000,30-12-2004,Alm. Salg,16.891,3,Sommerhus,74,2005,,Aktuel værdi
+Rudbølvej 56280 Højer,øjer,570.000,20-12-2004,Alm. Salg,4.042,5,Villa,141,1850,,Aktuel værdi
+Vadehavsvej 366280 Højer,øjer,1.250.000,13-12-2004,Alm. Salg,16.025,3,Sommerhus,78,2005,,Aktuel værdi
+Slusevej 236280 Højer,øjer,600.000,26-11-2004,Fam. Salg,6.122,3,Villa,98,1957,,Aktuel værdi
+Hvedemarken 106280 Højer,øjer,473.000,24-11-2004,Alm. Salg,4.826,3,Villa,98,1975,,Aktuel værdi
+Klostergade 36280 Højer,øjer,212.500,18-11-2004,Fam. Salg,2.213,3,Villa,96,1877,,Aktuel værdi
+Emmerlev Klev 26280 Højer,øjer,650.000,11-11-2004,Alm. Salg,4.362,5,Villa,149,1873,,Aktuel værdi
+Siltoftvej 486280 Højer,øjer,2.699.647,11-11-2004,Fam. Salg,18.240,5,Stuehus,148,1926,,
+Galgevej 36280 Højer,øjer,845.500,29-10-2004,Alm. Salg,6.503,5,Stuehus,130,1964,,
+Søndervej 46280 Højer,øjer,595.000,28-10-2004,Alm. Salg,8.263,3,Villa,72,1878,,Aktuel værdi
+Højervej 56280 Højer,øjer,190.000,25-10-2004,Alm. Salg,1.727,6,Villa,110,1946,,Aktuel værdi
+Klintvej 26280 Højer,øjer,540.000,15-10-2004,Alm. Salg,4.285,4,Villa,126,1969,,Aktuel værdi
+Kovej 156280 Højer,øjer,374.000,14-10-2004,Fam. Salg,2.239,6,Villa,167,1905,,Aktuel værdi
+Nørrehedevej 256280 Højer,øjer,2.700.000,02-09-2004,Alm. Salg,28.421,5,Stuehus,95,1939,,
+Østerende 76280 Højer,øjer,100.000,16-06-2004,Alm. Salg,1.333,3,Villa,75,1907,,Aktuel værdi
+Gærupvej 166280 Højer,øjer,420.722,11-06-2004,Fam. Salg,3.005,4,Stuehus,140,1675,,
+Emmerlev Klev 116280 Højer,øjer,710.000,10-06-2004,Alm. Salg,16.904,3,Sommerhus,42,1930,,Aktuel værdi
+Hvedemarken 236280 Højer,øjer,595.000,28-05-2004,Alm. Salg,4.440,4,Villa,134,1976,,Aktuel værdi
+Havnevej 66280 Højer,øjer,350.000,04-05-2004,Alm. Salg,3.333,2,Villa,105,1954,,Aktuel værdi
+Postgade 36280 Højer,øjer,400.000,28-04-2004,Alm. Salg,2.580,5,Villa,155,1900,,Aktuel værdi
+Digevej 76280 Højer,øjer,315.000,24-04-2004,Alm. Salg,3.937,3,Villa,80,1912,,Aktuel værdi
+Herbergsgade 56280 Højer,øjer,235.000,21-04-2004,Alm. Salg,2.061,6,Villa,114,1867,,Aktuel værdi
+Gærupvej 196280 Højer,øjer,100.000,13-04-2004,Alm. Salg,1.666,2,Villa,60,1948,,Aktuel værdi
+Ved Gamle Dige 36280 Højer,øjer,800.000,10-04-2004,Alm. Salg,3.149,8,Villa,254,1940,,Aktuel værdi
+Frifelt 46280 Højer,øjer,393.000,18-03-2004,Alm. Salg,3.707,3,Villa,106,1964,,Aktuel værdi
+Lille Møllevej 46280 Højer,øjer,300.000,01-03-2004,Alm. Salg,3.333,3,Villa,90,1831,,Aktuel værdi
+Prilen 366280 Højer,øjer,540.000,09-02-2004,Alm. Salg,3.600,6,Villa,150,1969,,Aktuel værdi
+Emmerlevvej 246280 Højer,øjer,325.000,04-02-2004,Alm. Salg,3.611,3,Villa,90,1965,,Aktuel værdi
+Hvedemarken 96280 Højer,øjer,560.000,13-01-2004,Alm. Salg,4.516,4,Villa,124,1975,,Aktuel værdi
+Torvet 16280 Højer,øjer,1.100.000,26-11-2003,Alm. Salg,3.013,11,Villa,365,1777,,Aktuel værdi
+Søndervej 56280 Højer,øjer,201.000,17-11-2003,Auktion,948,6,Villa,212,2012,,Aktuel værdi
+Nørregade 426280 Højer,øjer,172.068,14-11-2003,Alm. Salg,2.000,3,Villa,86,1825,,Aktuel værdi
+Nørregade 226280 Højer,øjer,375.000,11-11-2003,Alm. Salg,3.571,3,Villa,105,1807,,Aktuel værdi
+Nørrebyen 76280 Højer,øjer,610.000,05-11-2003,Alm. Salg,3.860,3,Villa,158,1793,,Aktuel værdi
+Mellemgade 66280 Højer,øjer,425.000,03-11-2003,Alm. Salg,1.486,7,Villa,286,1897,,Aktuel værdi
+Vesterkær 86280 Højer,øjer,1.050.000,16-10-2003,Alm. Salg,6.140,6,Villa,171,1999,,Aktuel værdi
+Duborgvej 5B6280 Højer,øjer,750.000,14-10-2003,Fam. Salg,2.798,6,Villa,268,1980,,Aktuel værdi
+Kanalvej 166280 Højer,øjer,740.000,10-10-2003,Alm. Salg,6.607,3,Villa,112,1775,,Aktuel værdi
+Hvedemarken 16280 Højer,øjer,750.000,08-10-2003,Alm. Salg,4.166,5,Villa,180,1974,,Aktuel værdi
+Ballumvej 306280 Højer,øjer,520.000,29-09-2003,Alm. Salg,6.117,3,Villa,85,1951,,Aktuel værdi
+Siltoftvej 386280 Højer,øjer,480.000,26-09-2003,Alm. Salg,3.200,3,Villa,150,1906,,Aktuel værdi
+Præstevænget 56280 Højer,øjer,900.000,08-09-2003,Fam. Salg,4.663,5,Villa,193,1976,,Aktuel værdi
+Prilen 16280 Højer,øjer,750.000,05-08-2003,Alm. Salg,4.010,5,Villa,187,1955,,Aktuel værdi
+Kirstine Svendsdattervej 56280 Højer,øjer,320.000,14-07-2003,Alm. Salg,4.571,3,Villa,70,1900,,Aktuel værdi
+Præstevænget 16280 Højer,øjer,660.000,08-07-2003,Alm. Salg,4.177,5,Villa,158,1974,,Aktuel værdi
+Sønderbyvej 136280 Højer,øjer,340.000,30-06-2003,Alm. Salg,3.953,3,Villa,86,1800,,Aktuel værdi
+Siltoftvej 466280 Højer,øjer,34.000,30-06-2003,Alm. Salg,425,3,Villa,80,1913,,Aktuel værdi
+Sejerslevvej 676280 Højer,øjer,312.000,20-06-2003,Alm. Salg,3.391,3,Villa,92,1922,,Aktuel værdi
+Hvedemarken 46280 Højer,øjer,680.000,16-06-2003,Alm. Salg,5.483,4,Villa,124,1976,,Aktuel værdi
+Højvej 16280 Højer,øjer,995.000,11-06-2003,Alm. Salg,5.527,4,Villa,180,1846,,Aktuel værdi
+Vestervang 36280 Højer,øjer,870.000,06-06-2003,Alm. Salg,5.028,5,Villa,173,1977,,Aktuel værdi
+Kovej 196280 Højer,øjer,225.000,05-06-2003,Alm. Salg,1.771,5,Villa,127,1898,,Aktuel værdi
+Slusevej 96280 Højer,øjer,630.000,02-06-2003,Alm. Salg,5.206,5,Villa,121,1952,,Aktuel værdi
+Frifelt 36280 Højer,øjer,295.000,02-06-2003,Alm. Salg,3.172,3,Villa,93,1950,,Aktuel værdi
+Sejerslevvej 1036280 Højer,øjer,500.000,26-05-2003,Alm. Salg,2.127,7,Villa,235,1860,,Aktuel værdi
+Søndervej 16280 Højer,øjer,400.000,02-05-2003,Alm. Salg,2.877,4,Villa,139,1800,,Aktuel værdi
+Nørregade 276280 Højer,øjer,256.480,30-04-2003,Alm. Salg,2.249,6,Villa,114,1850,,Aktuel værdi
+Sønderhedevej 46280 Højer,øjer,350.000,29-03-2003,Alm. Salg,2.536,3,Villa,138,1950,,Aktuel værdi
+Nørremarken 96280 Højer,øjer,820.000,27-03-2003,Alm. Salg,5.503,5,Villa,149,1978,,Aktuel værdi
+Ballumvej 206280 Højer,øjer,440.000,26-03-2003,Alm. Salg,3.606,4,Villa,122,1926,,Aktuel værdi
+Nørregade 36280 Højer,øjer,188.475,13-03-2003,Alm. Salg,1.983,2,Villa,95,1827,,Aktuel værdi
+Sejerslevvej 116280 Højer,øjer,390.000,13-03-2003,Alm. Salg,3.545,3,Villa,110,1868,,Aktuel værdi
+Nylandsvej 46280 Højer,øjer,295.831,03-03-2003,Andet,1.661,4,Villa,178,1778,,Aktuel værdi
+Østerende 156280 Højer,øjer,470.000,17-02-2003,Alm. Salg,2.061,10,Villa,228,1800,,Aktuel værdi
+Galgevej 26280 Højer,øjer,415.000,13-02-2003,Alm. Salg,1.660,7,Villa,250,1954,,Aktuel værdi
+Emmerlevvej 226280 Højer,øjer,405.000,20-12-2002,Fam. Salg,3.616,5,Villa,112,1933,,Aktuel værdi
+Ballumvej 776280 Højer,øjer,1.500.000,20-12-2002,Alm. Salg,9.259,4,Stuehus,162,1903,,
+Kogsbølvej 36280 Højer,øjer,180.000,17-12-2002,Alm. Salg,2.727,3,Villa,66,1852,,Aktuel værdi
+Ballumvej 296280 Højer,øjer,625.000,25-10-2002,Alm. Salg,6.250,5,Villa,100,1952,,Aktuel værdi
+Nørremarken 236280 Højer,øjer,500.000,23-10-2002,Alm. Salg,3.311,5,Villa,151,1979,,Aktuel værdi
+Søndervej 186280 Højer,øjer,255.000,16-09-2002,Fam. Salg,2.276,4,Villa,112,1868,,Aktuel værdi
+Nørreled 96280 Højer,øjer,68.775,13-09-2002,Alm. Salg,414,5,Villa,166,2003,,Aktuel værdi
+Sejerslevvej 536280 Højer,øjer,300.000,09-09-2002,Alm. Salg,949,7,Villa,316,1952,,Aktuel værdi
+Sejerslevvej 136280 Højer,øjer,280.000,06-09-2002,Alm. Salg,3.500,1,Rækkehus,80,1800,,Aktuel værdi
+Duborgvej 76280 Højer,øjer,253.204,01-08-2002,Alm. Salg,1.507,6,Ukendt,168,1850,,Aktuel værdi
+Frifelt 66280 Højer,øjer,670.000,12-07-2002,Alm. Salg,5.403,6,Villa,124,1950,,Aktuel værdi
+Sønderbyvej 16280 Højer,øjer,245.000,01-07-2002,Alm. Salg,1.828,3,Villa,134,1800,,Aktuel værdi
+Rudbølvej 146280 Højer,øjer,380.000,20-06-2002,Alm. Salg,3.958,4,Villa,96,1800,,Aktuel værdi
+Klintvej 216280 Højer,øjer,710.000,12-06-2002,Alm. Salg,4.580,4,Villa,155,1974,,Aktuel værdi
+Margrethevej 56280 Højer,øjer,154.810,28-05-2002,Alm. Salg,927,5,Villa,167,2002,,Aktuel værdi
+Vestkystvej 76280 Højer,øjer,500.000,03-05-2002,Alm. Salg,3.597,5,Villa,139,2012,,Aktuel værdi
+Ballumvej 226280 Højer,øjer,734.430,25-03-2002,Alm. Salg,4.648,5,Villa,158,1972,,Aktuel værdi
+Gærupvej 236280 Højer,øjer,815.000,23-03-2002,Alm. Salg,5.821,5,Stuehus,140,1952,,
+Stampemøllevej 76280 Højer,øjer,475.000,11-03-2002,Alm. Salg,3.598,4,Villa,132,1942,,Aktuel værdi
+Østerbyvej 16280 Højer,øjer,255.000,08-03-2002,Alm. Salg,1.677,4,Villa,152,1902,,Aktuel værdi
+Nørremølle 86280 Højer,øjer,714.000,06-03-2002,Fam. Salg,2.756,8,Stuehus,259,2001,,
+Hjerpstedvej 246280 Højer,øjer,323.000,18-12-2001,Fam. Salg,2.083,3,Sommerhus,155,1870,,Aktuel værdi
+Skiffervej 26280 Højer,øjer,450.000,18-12-2001,Alm. Salg,16.071,1,Villa,28,1000,,Aktuel værdi
+Søndervej 26280 Højer,øjer,1.251.732,13-12-2001,Alm. Salg,6.076,4,Villa,206,2010,,Aktuel værdi
+Strandvej 276280 Højer,øjer,335.000,31-10-2001,Alm. Salg,2.863,4,Villa,117,1929,,Aktuel værdi
+Nørreager 76280 Højer,øjer,665.544,29-10-2001,Alm. Salg,5.324,5,Villa,125,1979,,Aktuel værdi
+Nørremølle 56280 Højer,øjer,420.303,27-10-2001,Alm. Salg,2.457,5,Villa,171,1877,,Aktuel værdi
+Præstevænget 66280 Højer,øjer,635.000,10-10-2001,Alm. Salg,4.440,4,Villa,143,1984,,Aktuel værdi
+Østerbyvej 246280 Højer,øjer,515.000,26-09-2001,Alm. Salg,3.433,5,Villa,150,1912,,Aktuel værdi
+Ved Gamle Dige 16280 Højer,øjer,1.163.000,29-08-2001,Alm. Salg,3.739,9,Villa,311,1922,,Aktuel værdi
+Klintvej 166280 Højer,øjer,850.000,20-08-2001,Alm. Salg,4.271,6,Villa,199,1972,,Aktuel værdi
+Nørregade 26280 Højer,øjer,536.497,14-08-2001,Alm. Salg,3.311,6,Villa,162,1923,,Aktuel værdi
+Sejerslevvej 2A6280 Højer,øjer,275.000,13-08-2001,Alm. Salg,1.122,7,Villa,245,1900,,Aktuel værdi
+Østerbyvej 46280 Højer,øjer,615.000,06-08-2001,Alm. Salg,5.125,5,Villa,120,1967,,Aktuel værdi
+Nørrehedevej 36280 Højer,øjer,750.000,01-08-2001,Fam. Salg,5.208,4,Villa,144,1850,,Aktuel værdi
+Vesterende 26280 Højer,øjer,895.000,23-07-2001,Alm. Salg,4.637,5,Villa,193,1977,,Aktuel værdi
+Kanalvej 146280 Højer,øjer,642.500,20-06-2001,Alm. Salg,4.312,5,Villa,149,1820,,Aktuel værdi
+Østerende 96280 Højer,øjer,352.000,01-06-2001,Alm. Salg,2.410,3,Villa,146,1906,,Aktuel værdi
+Rudbølvej 26280 Højer,øjer,480.000,25-05-2001,Alm. Salg,3.720,4,Villa,129,1812,,Aktuel værdi
+Østermarkvej 56280 Højer,øjer,360.000,18-05-2001,Fam. Salg,2.222,8,Villa,162,1953,,Aktuel værdi
+Stationsvej 46280 Højer,øjer,25.000,15-05-2001,Alm. Salg,132,5,Sommerhus,189,1910,,Aktuel værdi
+Agertoften 96280 Højer,øjer,860.000,04-05-2001,Alm. Salg,6.142,4,Villa,140,1975,,Aktuel værdi
+Ved Gaden 46280 Højer,øjer,7.500.000,21-03-2001,Alm. Salg,45.454,7,Stuehus,165,1950,,
+Rudbølvej 506280 Højer,øjer,310.000,21-03-2001,Fam. Salg,1.937,5,Villa,160,1907,,Aktuel værdi
+Nylandsvej 156280 Højer,øjer,425.000,14-03-2001,Fam. Salg,3.794,3,Villa,112,1957,,Aktuel værdi
+Kærgårdvej 96280 Højer,øjer,400.000,05-03-2001,Alm. Salg,2.631,6,Villa,152,1800,,Aktuel værdi
+Skytvej 86280 Højer,øjer,550.000,21-02-2001,Alm. Salg,6.875,4,Villa,80,1700,,Aktuel værdi
+Ternholm 56280 Højer,øjer,400.000,13-02-2001,Alm. Salg,2.702,6,Villa,148,1968,,Aktuel værdi
+Nørremølle 46280 Højer,øjer,600.000,12-12-2000,Alm. Salg,8.333,3,Sommerhus,72,1929,,Aktuel værdi
+Nørremarken 276280 Højer,øjer,564.231,10-12-2000,Andet,4.408,4,Villa,128,1980,,Aktuel værdi
+Vesterled 46280 Højer,øjer,405.000,17-10-2000,Auktion,2.341,4,Villa,173,1941,,Aktuel værdi
+Nørremølle 146280 Højer,øjer,868.000,04-10-2000,Alm. Salg,3.586,6,Villa,242,1928,,Aktuel værdi
+Præstevænget 46280 Højer,øjer,635.000,21-09-2000,Alm. Salg,4.568,3,Villa,139,1975,,Aktuel værdi
+Prilen 36280 Højer,øjer,393.000,15-09-2000,Alm. Salg,5.038,3,Villa,78,1950,,Aktuel værdi
+Rudbølvej 106280 Højer,øjer,150.000,07-09-2000,Alm. Salg,777,8,Villa,193,1922,,Aktuel værdi
+Gærupvej 276280 Højer,øjer,1.250.000,29-08-2000,Alm. Salg,7.440,6,Stuehus,168,1955,,
+Ternholm 16280 Højer,øjer,795.000,22-08-2000,Alm. Salg,5.408,5,Villa,147,1967,,Aktuel værdi
+Nørrevej 66280 Højer,øjer,205.000,13-07-2000,Alm. Salg,2.050,5,Villa,100,1957,,Aktuel værdi
+Klintvej 136280 Højer,øjer,936.910,03-07-2000,Alm. Salg,4.378,8,Villa,214,1970,,Aktuel værdi
+Klintvej 236280 Højer,øjer,625.000,28-06-2000,Alm. Salg,4.734,4,Villa,132,1970,,Aktuel værdi
+Gærupvej 126280 Højer,øjer,114.300,26-06-2000,Alm. Salg,1.256,4,Villa,91,1900,,Aktuel værdi
+Østerbyvej 506280 Højer,øjer,640.000,26-06-2000,Alm. Salg,4.050,5,Villa,158,1935,,Aktuel værdi
+Emmerlev Klev 186280 Højer,øjer,150.000,23-06-2000,Alm. Salg,3.000,2,Sommerhus,50,2015,,Aktuel værdi
+Sejerslevvej 256280 Højer,øjer,575.000,22-06-2000,Alm. Salg,3.304,6,Villa,174,1926,,Aktuel værdi
+Ballumvej 216280 Højer,øjer,330.000,19-06-2000,Alm. Salg,3.367,3,Villa,98,1910,,Aktuel værdi
+Rudbølvej 486280 Højer,øjer,1.142.000,06-06-2000,Fam. Salg,5.287,3,Villa,216,1800,,Aktuel værdi
+Margrethevej 36280 Højer,øjer,900.000,06-05-2000,Alm. Salg,4.500,6,Villa,200,1972,,Aktuel værdi
+Østerbyvej 56280 Højer,øjer,235.000,04-05-2000,Alm. Salg,1.850,6,Villa,127,1935,,Aktuel værdi
+Vrågård 16280 Højer,øjer,398.000,09-03-2000,Alm. Salg,3.158,4,Villa,126,1900,,Aktuel værdi
+Emmerlevvej 286280 Højer,øjer,562.038,07-03-2000,Alm. Salg,3.071,7,Villa,183,1913,,Aktuel værdi
+Strandvej 176280 Højer,øjer,350.000,23-02-2000,Alm. Salg,2.258,5,Villa,155,1912,,Aktuel værdi
+Nørremarken 76280 Højer,øjer,910.000,18-02-2000,Alm. Salg,4.666,6,Villa,195,1979,,Aktuel værdi
+Sønderhedevej 86280 Højer,øjer,483.751,03-12-1999,Alm. Salg,3.336,4,Villa,145,1930,,Aktuel værdi
+Strandmeden 26280 Højer,øjer,560.000,11-11-1999,Alm. Salg,4.028,4,Villa,139,1965,,Aktuel værdi
+Nørregade 1C6280 Højer,øjer,490.000,10-11-1999,Alm. Salg,3.223,5,Villa,152,1961,,Aktuel værdi
+Nørremølle 26280 Højer,øjer,340.000,01-11-1999,Alm. Salg,1.837,5,Villa,185,1922,,Aktuel værdi
+Toldgade 46280 Højer,øjer,350.000,29-10-1999,Alm. Salg,3.365,4,Villa,104,1897,,Aktuel værdi
+Sejerslevvej 206280 Højer,øjer,285.000,11-10-1999,Alm. Salg,3.392,3,Villa,84,1777,,Aktuel værdi
+Mellemgade 86280 Højer,øjer,671.000,08-10-1999,Alm. Salg,3.257,6,Villa,206,1850,,Aktuel værdi
+Kanalvej 186280 Højer,øjer,4.078.719,23-09-1999,Fam. Salg,25.491,3,Stuehus,160,1974,,
+Hvedemarken 26280 Højer,øjer,905.000,17-09-1999,Alm. Salg,4.918,6,Villa,184,1974,,Aktuel værdi
+Kogsbølvej 56280 Højer,øjer,570.135,06-09-1999,Alm. Salg,1.657,10,Villa,344,2009,,Aktuel værdi
+Nørregade 206280 Højer,øjer,263.800,28-07-1999,Alm. Salg,-,3,Villa,80,1900,,Aktuel værdi
+Storegade 316280 Højer,øjer,321.986,09-07-1999,Alm. Salg,2.874,4,Villa,112,1900,,Aktuel værdi
+Postgade 86280 Højer,øjer,120.000,29-06-1999,Alm. Salg,888,4,Villa,135,1825,,Aktuel værdi
+Slusevej 176280 Højer,øjer,550.000,28-06-1999,Fam. Salg,3.666,5,Villa,150,1972,,Aktuel værdi
+Nørrevej 376280 Højer,øjer,500.650,29-05-1999,Alm. Salg,3.973,7,Villa,126,1917,,Aktuel værdi
+Gærupvej 56280 Højer,øjer,345.000,11-05-1999,Alm. Salg,4.367,5,Villa,79,1600,,Aktuel værdi
+Nørrehedevej 296280 Højer,øjer,750.000,07-05-1999,Alm. Salg,7.894,4,Villa,95,1954,,Aktuel værdi
+Rudbølvej 206280 Højer,øjer,490.000,21-04-1999,Alm. Salg,4.454,3,Villa,110,1870,,Aktuel værdi
+Rudbølvej 236280 Højer,øjer,625.000,21-04-1999,Alm. Salg,3.955,7,Villa,158,1870,,Aktuel værdi
+Rudbølvej 286280 Højer,øjer,650.000,21-04-1999,Alm. Salg,4.513,5,Villa,144,1900,,Aktuel værdi
+Højervej 306280 Højer,øjer,300.000,08-04-1999,Alm. Salg,3.703,4,Villa,81,1959,,Aktuel værdi
+Østergade 186280 Højer,øjer,130.000,23-03-1999,Alm. Salg,434,10,Villa,299,1700,,Aktuel værdi
+Østermarkvej 16280 Højer,øjer,400.000,09-03-1999,Alm. Salg,1.581,10,Villa,253,1941,,Aktuel værdi
+Nørreager 176280 Højer,øjer,654.000,04-02-1999,Alm. Salg,5.274,3,Villa,124,1981,,Aktuel værdi
+Kirkevej 46280 Højer,øjer,419.000,15-01-1999,Alm. Salg,2.033,6,Villa,206,1888,,Aktuel værdi
+Nørreager 116280 Højer,øjer,685.000,14-01-1999,Alm. Salg,5.074,5,Villa,135,1979,,Aktuel værdi
+Byvej 106280 Højer,øjer,400.000,17-12-1998,Fam. Salg,2.597,5,Stuehus,154,1891,,
+Byvej 166280 Højer,øjer,2.760.000,17-12-1998,Fam. Salg,11.500,8,Stuehus,240,1780,,
+Nørregade 296280 Højer,øjer,470.000,28-11-1998,Alm. Salg,3.051,7,Villa,154,1910,,Aktuel værdi
+Ballumvej 46280 Højer,øjer,465.000,10-11-1998,Alm. Salg,2.657,6,Villa,175,1895,,Aktuel værdi
+Sønderbyvej 96280 Højer,øjer,260.000,06-11-1998,Alm. Salg,3.095,3,Villa,84,1900,,Aktuel værdi
+Højervej 86280 Højer,øjer,876.724,02-11-1998,Alm. Salg,3.811,5,Villa,230,1998,,Aktuel værdi
+Kobbervold 16280 Højer,øjer,3.523.000,29-10-1998,Alm. Salg,13.655,12,Stuehus,258,1884,,
+Nørrevej 46280 Højer,øjer,385.000,27-10-1998,Alm. Salg,2.532,5,Villa,152,1932,,Aktuel værdi
+Højervej 176280 Højer,øjer,252.009,19-10-1998,Alm. Salg,1.016,7,Stuehus,248,1856,,
+Ballumvej 136280 Højer,øjer,223.339,01-10-1998,Alm. Salg,2.147,6,Villa,104,1912,,Aktuel værdi
+Rudbølvej 46280 Højer,øjer,415.000,30-09-1998,Alm. Salg,1.852,8,Villa,224,1882,,Aktuel værdi
+Højervej 96280 Højer,øjer,350.000,25-09-1998,Alm. Salg,2.692,6,Villa,130,1877,,Aktuel værdi
+Sønderhedevej 96280 Højer,øjer,272.000,18-09-1998,Alm. Salg,3.090,3,Villa,88,1958,,Aktuel værdi
+Poppenbølvej 26280 Højer,øjer,655.460,08-09-1998,Alm. Salg,3.810,6,Stuehus,172,1928,,
+Gærupvej 146280 Højer,øjer,174.752,04-08-1998,Alm. Salg,1.196,4,Villa,146,1903,,Aktuel værdi
+Nørremarken 56280 Højer,øjer,680.000,29-07-1998,Alm. Salg,4.594,5,Villa,148,1979,,Aktuel værdi
+Gærupvej 46280 Højer,øjer,184.000,13-05-1998,Alm. Salg,1.769,4,Villa,104,1889,,Aktuel værdi
+Sejerslevvej 456280 Højer,øjer,440.000,12-05-1998,Fam. Salg,3.055,5,Villa,144,1854,,Aktuel værdi
+Sejerslevvej 196280 Højer,øjer,286.000,07-05-1998,Alm. Salg,2.508,6,Villa,114,1951,,Aktuel værdi
+Sønderbyvej 56280 Højer,øjer,600.000,06-05-1998,Alm. Salg,2.898,7,Villa,207,1933,,Aktuel værdi
+Gærupvej 316280 Højer,øjer,750.000,24-04-1998,Alm. Salg,5.905,5,Stuehus,127,1959,,
+Nørremarken 186280 Højer,øjer,520.000,22-03-1998,Alm. Salg,4.297,4,Villa,121,1980,,Aktuel værdi
+Rosenborgvej 46280 Højer,øjer,380.000,16-03-1998,Alm. Salg,2.375,6,Stuehus,160,1940,,
+Digevej 36280 Højer,øjer,250.000,10-03-1998,Alm. Salg,2.336,5,Villa,107,1900,,Aktuel værdi
+Kathale 46280 Højer,øjer,219.000,28-02-1998,Alm. Salg,901,5,Stuehus,243,1900,,
+Vesterled 86280 Højer,øjer,405.000,25-02-1998,Alm. Salg,1.947,5,Stuehus,208,1890,,
+Nørremarken 296280 Højer,øjer,795.000,10-02-1998,Alm. Salg,6.115,5,Villa,130,1985,,Aktuel værdi
+Emmerlevvej 176280 Højer,øjer,338.000,22-01-1998,Alm. Salg,2.125,5,Stuehus,159,1862,,
+Nørrevej 1006280 Højer,øjer,700.000,19-01-1998,Alm. Salg,5.600,4,Stuehus,125,1938,,
+Emmerlevvej 266280 Højer,øjer,850.000,25-11-1997,Alm. Salg,2.982,10,Stuehus,285,1908,,
+Hjerpstedvej 36280 Højer,øjer,205.000,25-11-1997,Alm. Salg,2.009,5,Villa,102,1900,,Aktuel værdi
+Sønderhedevej 156280 Højer,øjer,605.000,01-11-1997,Alm. Salg,4.583,5,Stuehus,132,1928,,
+Byvej 66280 Højer,øjer,375.000,20-10-1997,Alm. Salg,3.865,4,Villa,97,1820,,Aktuel værdi
+Postgade 76280 Højer,øjer,300.000,07-10-1997,Fam. Salg,1.428,4,Villa,210,1880,,Aktuel værdi
+Kathale 36280 Højer,øjer,489.000,20-09-1997,Alm. Salg,2.928,6,Villa,167,1720,,Aktuel værdi
+Kannikhusvej 126280 Højer,øjer,336.726,04-09-1997,Alm. Salg,2.494,3,Stuehus,135,1930,,
+Højervej 156280 Højer,øjer,674.819,01-09-1997,Alm. Salg,1.682,13,Stuehus,401,1885,,
+Strandvej 66280 Højer,øjer,298.887,21-08-1997,Alm. Salg,2.532,3,Villa,118,1975,,Aktuel værdi
+Vestertoft 46280 Højer,øjer,570.000,15-08-1997,Alm. Salg,4.384,5,Villa,130,1978,,Aktuel værdi
+Frifelt 86280 Højer,øjer,138.000,11-08-1997,Fam. Salg,2.816,2,Villa,49,1951,,Aktuel værdi
+Østerbyvej 546280 Højer,øjer,225.000,10-08-1997,Alm. Salg,2.319,5,Villa,97,1920,,Aktuel værdi
+Nørrevej 156280 Højer,øjer,380.000,30-07-1997,Alm. Salg,3.275,5,Villa,116,1850,,Aktuel værdi
+Østerbyvej 216280 Højer,øjer,1.406.000,23-07-1997,Fam. Salg,4.087,10,Stuehus,344,1912,,
+Ballumvej 166280 Højer,øjer,475.000,02-07-1997,Alm. Salg,3.084,6,Villa,154,1937,,Aktuel værdi
+Nørreager 66280 Højer,øjer,790.000,24-06-1997,Alm. Salg,4.463,4,Villa,177,1980,,Aktuel værdi
+Kolkvej 16280 Højer,øjer,250.000,21-06-1997,Fam. Salg,2.192,4,Villa,114,1790,,Aktuel værdi
+Kanalvej 66280 Højer,øjer,175.000,03-06-1997,Alm. Salg,1.562,5,Villa,112,1820,,Aktuel værdi
+Ballumvej 126280 Højer,øjer,280.000,26-05-1997,Alm. Salg,2.153,4,Villa,130,1926,,Aktuel værdi
+Søndervej 86280 Højer,øjer,388.000,14-05-1997,Alm. Salg,3.730,4,Villa,104,1810,,Aktuel værdi
+Hjerpstedvej 76280 Højer,øjer,5.343.918,05-05-1997,Fam. Salg,11.133,11,Stuehus,480,1907,,
+Nørregade 1A6280 Højer,øjer,1.000.000,30-04-1997,Alm. Salg,13.698,5,Ukendt,73,1958,,Aktuel værdi
+Gærupvej 256280 Højer,øjer,1.750.000,27-04-1997,Fam. Salg,9.459,6,Stuehus,185,1961,,
+Kirstine Svendsdattervej 36280 Højer,øjer,266.000,21-04-1997,Alm. Salg,2.533,4,Villa,105,1950,,Aktuel værdi
+Nørremølle 116280 Højer,øjer,517.000,05-04-1997,Alm. Salg,3.692,5,Stuehus,140,1737,,
+Hvedemarken 56280 Højer,øjer,483.000,24-03-1997,Alm. Salg,-,6,Villa,145,1976,,Aktuel værdi
+Ved Gaden 96280 Højer,øjer,20.000,19-02-1997,Alm. Salg,117,5,Villa,170,2004,,Aktuel værdi
+Nørrehedevej 176280 Højer,øjer,50.000,11-02-1997,Alm. Salg,400,3,Stuehus,125,1888,,
+Kærengvej 26280 Højer,øjer,451.500,24-01-1997,Fam. Salg,2.494,5,Stuehus,181,1875,,
+Nørrebyen 66280 Højer,øjer,1.408.000,24-01-1997,Fam. Salg,6.400,8,Stuehus,220,1912,,
+Emmerlevvej 336280 Højer,øjer,600.000,20-01-1997,Fam. Salg,4.444,7,Villa,135,1843,,Aktuel værdi
+Nørremarken 166280 Højer,øjer,770.000,03-01-1997,Alm. Salg,5.384,5,Villa,143,1985,,Aktuel værdi
+Postgade 106280 Højer,øjer,298.000,28-12-1996,Alm. Salg,3.170,4,Villa,94,1875,,Aktuel værdi
+Højer Dige 26280 Højer,øjer,200.000,20-12-1996,Alm. Salg,995,6,Villa,201,2001,,Aktuel værdi
+Postgade 116280 Højer,øjer,280.000,28-10-1996,Alm. Salg,3.010,4,Villa,93,1860,,Aktuel værdi
+Nørrehedevej 276280 Højer,øjer,858.453,14-10-1996,Alm. Salg,-,6,Stuehus,181,1953,,
+Østerbyvej 566280 Højer,øjer,122.185,27-08-1996,Alm. Salg,977,4,Villa,125,1960,,Aktuel værdi
+Siltoftvej 76280 Højer,øjer,401.000,26-08-1996,Alm. Salg,2.045,7,Villa,196,1902,,Aktuel værdi
+Lystvej 16280 Højer,øjer,388.000,16-08-1996,Alm. Salg,3.919,4,Villa,99,1887,,Aktuel værdi
+Hemvej 86280 Højer,øjer,380.000,16-08-1996,Alm. Salg,2.054,7,Villa,185,1845,,Aktuel værdi
+Klintvej 46280 Højer,øjer,750.000,12-08-1996,Alm. Salg,4.166,5,Villa,180,1971,,Aktuel værdi
+Torvegade 36280 Højer,øjer,450.000,12-08-1996,Alm. Salg,2.528,6,Villa,178,1935,,Aktuel værdi
+Sejerslevvej 226280 Højer,øjer,120.000,05-08-1996,Alm. Salg,784,4,Villa,153,1777,,Aktuel værdi
+Skolegade 136280 Højer,øjer,451.000,27-07-1996,Alm. Salg,1.544,8,Lejlighed,292,1855,,Aktuel værdi
+Vestertoft 66280 Højer,øjer,24.000,23-07-1996,Alm. Salg,181,4,Villa,132,1996,,Aktuel værdi
+Vestertoft 36280 Højer,øjer,527.000,09-07-1996,Alm. Salg,3.992,5,Villa,132,1977,,Aktuel værdi
+Østergade 76280 Højer,øjer,210.000,22-05-1996,Alm. Salg,2.763,3,Villa,76,1855,,Aktuel værdi
+Nørregade 66280 Højer,øjer,310.000,09-04-1996,Alm. Salg,3.875,2,Rækkehus,80,1875,,Aktuel værdi
+Emmerlevvej 106280 Højer,øjer,44.000,19-03-1996,Alm. Salg,275,5,Stuehus,160,1925,,
+Strandvej 96280 Højer,øjer,80.000,14-02-1996,Alm. Salg,808,4,Villa,99,1907,,Aktuel værdi
+Hjerpstedvej 286280 Højer,øjer,187.000,17-01-1996,Fam. Salg,2.337,3,Villa,80,1960,,Aktuel værdi
+Vestertoft 16280 Højer,øjer,505.632,10-01-1996,Alm. Salg,3.830,5,Villa,132,1977,,Aktuel værdi
+Kærgårdvej 116280 Højer,øjer,1.062.500,02-01-1996,Fam. Salg,6.724,6,Stuehus,158,1954,,
+Nørreager 26280 Højer,øjer,400.000,29-12-1995,Alm. Salg,3.508,4,Villa,114,1977,,Aktuel værdi
+Søndergade 96280 Højer,øjer,205.000,27-11-1995,Fam. Salg,2.928,3,Stuehus,70,1777,,
+Postgade 96280 Højer,øjer,366.000,25-11-1995,Alm. Salg,1.220,10,Villa,300,1877,,Aktuel værdi
+Ved Gamle Dige 86280 Højer,øjer,745.000,15-11-1995,Alm. Salg,3.386,6,Villa,220,1974,,Aktuel værdi
+Sejerslevvej 876280 Højer,øjer,582.000,11-09-1995,Alm. Salg,5.388,3,Villa,108,1847,,Aktuel værdi
+Peter Jessensvej 36280 Højer,øjer,199.000,11-09-1995,Fam. Salg,1.363,4,Villa,146,1870,,Aktuel værdi
+Højmarksvej 26280 Højer,øjer,200.000,24-08-1995,Alm. Salg,1.538,3,Stuehus,130,1844,,
+Østerbyvej 66280 Højer,øjer,400.000,07-08-1995,Alm. Salg,2.453,5,Villa,163,1800,,Aktuel værdi
+Byvej 96280 Højer,øjer,250.000,20-07-1995,Fam. Salg,1.677,3,Villa,149,1827,,Aktuel værdi
+Sejerslevvej 716280 Højer,øjer,175.000,06-07-1995,Alm. Salg,2.651,2,Villa,66,1972,,Aktuel værdi
+Storegade 276280 Højer,øjer,365.000,17-05-1995,Alm. Salg,2.147,7,Villa,170,1862,,Aktuel værdi
+Højervej 126280 Højer,øjer,510.000,11-05-1995,Alm. Salg,3.923,12,Villa,130,1896,,Aktuel værdi
+Nylandsvej 16280 Højer,øjer,1.131.958,04-04-1995,Fam. Salg,7.074,5,Stuehus,160,1963,,
+Strandvej 116280 Højer,øjer,380.000,25-03-1995,Alm. Salg,2.835,3,Villa,134,1932,,Aktuel værdi
+Lyst 46280 Højer,øjer,307.350,24-03-1995,Fam. Salg,-,8,Stuehus,215,1965,,
+Postgade 56280 Højer,øjer,94.438,10-03-1995,Alm. Salg,761,5,Villa,124,1887,,Aktuel værdi
+Gærupvej 296280 Højer,øjer,1.465.000,14-02-1995,Alm. Salg,7.252,4,Stuehus,202,1955,,
+Siltoftvej 146280 Højer,øjer,432.300,13-02-1995,Alm. Salg,4.503,6,Villa,96,1958,,Aktuel værdi
+Højmarksvej 36280 Højer,øjer,3.107.658,13-02-1995,Fam. Salg,12.283,7,Stuehus,253,1967,,
+Sejerslevvej 426280 Højer,øjer,642.000,07-01-1995,Alm. Salg,3.668,8,Villa,175,1865,,Aktuel værdi
+Sejerslevvej 126280 Højer,øjer,250.750,22-12-1994,Alm. Salg,2.786,4,Villa,90,1973,,Aktuel værdi
+Sejerslevvej 466280 Højer,øjer,140.000,19-12-1994,Alm. Salg,1.272,4,Villa,110,1940,,Aktuel værdi
+Nylandsvej 146280 Højer,øjer,275.000,12-12-1994,Fam. Salg,2.165,5,Villa,127,1953,,Aktuel værdi
+Nørremarken 86280 Højer,øjer,505.472,27-10-1994,Alm. Salg,4.043,4,Villa,125,1979,,Aktuel værdi
+Søndergade 216280 Højer,øjer,41.475,12-10-1994,Alm. Salg,147,26,Undervisning o.l.,282,1905,,Aktuel værdi
+Nygade 56280 Højer,øjer,140.000,28-09-1994,Alm. Salg,1.458,5,Villa,96,1900,,Aktuel værdi
+Kærgårdvej 66280 Højer,øjer,935.000,28-07-1994,Fam. Salg,11.687,5,Stuehus,80,1857,,
+Svinget 56280 Højer,øjer,109.000,01-07-1994,Alm. Salg,1.816,3,Villa,60,1900,,Aktuel værdi
+Duborgvej 96280 Højer,øjer,40.000,29-06-1994,Alm. Salg,264,5,Stuehus,151,1977,,
+Tøndervej 106280 Højer,øjer,550.000,22-06-1994,Alm. Salg,2.401,6,Villa,229,1968,,Aktuel værdi
+Ny Møllevej 106280 Højer,øjer,1.100.000,11-05-1994,Fam. Salg,5.789,7,Stuehus,190,1762,,
+Strandvej 106280 Højer,øjer,350.000,10-05-1994,Alm. Salg,2.651,4,Villa,132,1931,,Aktuel værdi
+Sejerslevvej 476280 Højer,øjer,150.000,02-05-1994,Alm. Salg,1.442,5,Villa,104,1939,,Aktuel værdi
+Linesvej 26280 Højer,øjer,400.000,14-04-1994,Alm. Salg,2.739,7,Villa,146,1954,,Aktuel værdi
+Nørrevej 786280 Højer,øjer,339.820,16-03-1994,Alm. Salg,3.539,2,Villa,96,1962,,Aktuel værdi
+Emmerlevvej 256280 Højer,øjer,2.227.500,11-03-1994,Fam. Salg,13.750,7,Stuehus,162,1969,,
+Sønderhedevej 26280 Højer,øjer,350.000,05-02-1994,Alm. Salg,2.023,5,Villa,173,1900,,Aktuel værdi
+Rosenborgvej 16280 Højer,øjer,300.000,16-12-1993,Alm. Salg,2.459,3,Villa,122,1967,,Aktuel værdi
+Sejerslevvej 46280 Højer,øjer,350.000,15-12-1993,Alm. Salg,997,9,Villa,351,1925,,Aktuel værdi
+Emmerlevvej 326280 Højer,øjer,200.000,06-12-1993,Alm. Salg,649,16,Villa,308,1902,,Aktuel værdi
+Kærgårdvej 36280 Højer,øjer,240.000,03-12-1993,Alm. Salg,2.727,3,Villa,88,1950,,Aktuel værdi
+Lystvej 36280 Højer,øjer,250.000,31-10-1993,Alm. Salg,1.623,6,Villa,154,1860,,Aktuel værdi
+Tøndervej 46280 Højer,øjer,450.000,29-10-1993,Alm. Salg,3.629,4,Villa,124,1967,,Aktuel værdi
+Møllegade 16280 Højer,øjer,37.000,18-10-1993,Alm. Salg,-,5,Villa,94,1870,,Aktuel værdi
+Gærupvej 176280 Højer,øjer,850.000,04-10-1993,Alm. Salg,3.125,11,Stuehus,272,1902,,
+Lystvej 26280 Højer,øjer,325.000,28-09-1993,Alm. Salg,3.532,5,Villa,92,1944,,Aktuel værdi
+Nørrehedevej 376280 Højer,øjer,208.000,14-09-1993,Fam. Salg,1.444,5,Villa,144,1877,,Aktuel værdi
+Sejerslevvej 956280 Højer,øjer,97.000,23-08-1993,Alm. Salg,776,7,Villa,125,1800,,Aktuel værdi
+Nørrehedevej 316280 Højer,øjer,245.000,03-05-1993,Alm. Salg,2.187,4,Stuehus,112,1953,,
+Agertoften 66280 Højer,øjer,510.000,02-05-1993,Alm. Salg,3.090,5,Villa,165,1974,,Aktuel værdi
+Byvej 76280 Højer,øjer,450.000,27-04-1993,Alm. Salg,3.214,4,Villa,140,1848,,Aktuel værdi
+Hjerpstedvej 176280 Højer,øjer,230.000,13-04-1993,Alm. Salg,-,3,Sommerhus,150,1903,,Aktuel værdi
+Kovej 176280 Højer,øjer,106.250,01-04-1993,Fam. Salg,957,2,Villa,111,1800,,Aktuel værdi
+Østermarkvej 146280 Højer,øjer,600.000,31-03-1993,Alm. Salg,1.617,11,Villa,371,1986,,Aktuel værdi
+Vesterled 26280 Højer,øjer,95.000,02-03-1993,Alm. Salg,818,4,Villa,116,1938,,Aktuel værdi
+Sejerslevvej 616280 Højer,øjer,595.000,02-03-1993,Alm. Salg,3.966,6,Stuehus,150,1908,,
+Østergade 106280 Højer,øjer,6.000,24-02-1993,Alm. Salg,39,4,Rækkehus,153,1800,,Aktuel værdi
+Vesterende 76280 Højer,øjer,435.000,20-02-1993,Alm. Salg,3.425,4,Villa,127,1978,,Aktuel værdi
+Aalbækvej 16280 Højer,øjer,880.000,19-01-1993,Alm. Salg,7.586,5,Villa,116,1888,,Aktuel værdi
+Kovej 86280 Højer,øjer,140.000,11-01-1993,Alm. Salg,1.794,4,BygningTilHandel,78,1901,,Aktuel værdi
+Østerbyvej 306280 Højer,øjer,85.000,18-12-1992,Alm. Salg,361,5,Villa,235,1887,,Aktuel værdi
+Digevej 56280 Højer,øjer,287.519,12-11-1992,Alm. Salg,1.854,5,Villa,155,1955,,Aktuel værdi
+Hemvej 66280 Højer,øjer,150.000,04-11-1992,Alm. Salg,1.401,4,Villa,107,1960,,Aktuel værdi
+Præstevænget 106280 Højer,øjer,285.000,26-10-1992,Alm. Salg,2.159,5,Villa,132,1934,,Aktuel værdi
+Strandvej 196280 Højer,øjer,160.000,26-10-1992,Alm. Salg,569,6,Villa,281,1926,,Aktuel værdi
+Siltoftvej 446280 Højer,øjer,578.000,26-10-1992,Fam. Salg,4.857,5,Stuehus,119,1950,,
+Søndervej 76280 Højer,øjer,440.000,26-09-1992,Alm. Salg,3.283,6,Villa,134,1935,,Aktuel værdi
+Svinget 36280 Højer,øjer,451.007,20-08-1992,Fam. Salg,1.879,6,Villa,240,1900,,Aktuel værdi
+"Søndergade 15, ST. TH6280 Højer",øjer,116.995,25-06-1992,Alm. Salg,823,5,Rækkehus,142,1850,,Aktuel værdi
+"Ballumvej 10, 16280 Højer",øjer,136.966,08-06-1992,Alm. Salg,1.956,3,Lejlighed,70,1925,,Aktuel værdi
+Nørremarken 156280 Højer,øjer,422.000,26-04-1992,Alm. Salg,3.546,4,Villa,119,1980,,Aktuel værdi
+Sejerslevvej 236280 Højer,øjer,250.000,02-04-1992,Alm. Salg,1.428,5,Villa,175,1935,,Aktuel værdi
+Tøndervej 176280 Højer,øjer,595.000,16-03-1992,Alm. Salg,6.197,4,Stuehus,96,1936,,
+Nørrevej 36280 Højer,øjer,77.200,16-03-1992,Fam. Salg,-,2,Villa,94,1724,,Aktuel værdi
+Storegade 46280 Højer,øjer,115.000,24-02-1992,Alm. Salg,737,6,Villa,156,1878,,Aktuel værdi
+Sønderbyvej 76280 Højer,øjer,200.000,31-01-1992,Alm. Salg,1.117,6,Villa,179,1900,,Aktuel værdi
+Møgeltøndervej 26280 Højer,øjer,328.400,15-01-1992,Alm. Salg,2.052,6,Villa,160,1820,,Aktuel værdi
+Østerbyvej 486280 Højer,øjer,267.500,03-01-1992,Alm. Salg,2.229,3,Stuehus,120,1954,,
+Sejerslevvej 186280 Højer,øjer,390.000,02-01-1992,Alm. Salg,2.671,7,Villa,146,1923,,Aktuel værdi

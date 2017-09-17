@@ -1,0 +1,813 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Paradisbakkevejen 63740 Svaneke,neke,647.500,08-05-2017,Fam. Salg,2.490,10,Stuehus,260,1845,,
+Sander Dichsgade 83740 Svaneke,neke,250.000,03-05-2017,Fam. Salg,1.275,10,Villa,196,1876,,Aktuel værdi
+Bølshavn 203740 Svaneke,neke,690.000,27-04-2017,Alm. Salg,5.847,6,Villa,118,1948,-5 %,Aktuel værdi
+Gaden 323740 Svaneke,neke,1.775.000,19-04-2017,Alm. Salg,14.915,9,Villa,119,1954,-1 %,Aktuel værdi
+Svanebakken 113740 Svaneke,neke,3.500.000,18-04-2017,Alm. Salg,29.166,5,Sommerhus,120,2001,0 %,Aktuel værdi
+Mosedalsvej 173740 Svaneke,neke,1.465.000,03-04-2017,Alm. Salg,7.961,6,Villa,184,1959,-11 %,Aktuel værdi
+Vestergade 313740 Svaneke,neke,938.320,02-04-2017,Alm. Salg,9.383,4,Villa,100,1907,,Aktuel værdi
+Lillehøjsvej 33740 Svaneke,neke,1.175.000,24-03-2017,Alm. Salg,10.779,5,Villa,109,1907,-21 %,Aktuel værdi
+Postgade 53740 Svaneke,neke,1.150.000,08-03-2017,Alm. Salg,11.500,3,Villa,100,1875,,Aktuel værdi
+Ahornvej 43740 Svaneke,neke,1.295.000,07-03-2017,Alm. Salg,10.882,5,Villa,119,1898,,Aktuel værdi
+"Borgergade 9, 13740 Svaneke",neke,1.750.000,23-02-2017,Alm. Salg,21.084,3,Fritid,83,1967,-7 %,Aktuel værdi
+Storegade 153740 Svaneke,neke,1.275.000,22-02-2017,Alm. Salg,11.383,3,Villa,112,1818,0 %,Aktuel værdi
+Klippegade 83740 Svaneke,neke,1.010.000,10-02-2017,Alm. Salg,11.222,2,Villa,90,1857,13 %,Aktuel værdi
+Gryneparken 283740 Svaneke,neke,1.560.000,01-02-2017,Alm. Salg,9.341,5,Villa,167,1986,,Aktuel værdi
+Egevej 13740 Svaneke,neke,885.000,09-01-2017,Alm. Salg,8.271,3,Villa,107,1900,-4 %,Aktuel værdi
+Sander Dichsgade 93740 Svaneke,neke,2.150.000,06-01-2017,Alm. Salg,14.238,6,Villa,151,1800,-1 %,Aktuel værdi
+Strandvejen 123740 Svaneke,neke,1.425.000,05-01-2017,Alm. Salg,17.812,3,Villa,80,1777,,Aktuel værdi
+Gryneparken 33740 Svaneke,neke,830.000,05-01-2017,Alm. Salg,5.886,4,Villa,141,1980,-12 %,Aktuel værdi
+Østermarievej 133740 Svaneke,neke,2.835.000,29-12-2016,Alm. Salg,18.057,5,Stuehus,157,1832,,
+Skolekrogen 103740 Svaneke,neke,1.200.000,28-12-2016,Alm. Salg,7.594,4,Villa,158,1898,0 %,Aktuel værdi
+Hellig Kilde 13740 Svaneke,neke,470.000,20-12-2016,Alm. Salg,4.392,4,Villa,107,1881,-66 %,Aktuel værdi
+Brugsebakken 93740 Svaneke,neke,535.500,30-11-2016,Fam. Salg,11.900,2,Sommerhus,45,1850,,Aktuel værdi
+Gaden 193740 Svaneke,neke,600.000,24-11-2016,Alm. Salg,5.825,2,Villa,103,1923,,Aktuel værdi
+Sander Dichsgade 23740 Svaneke,neke,3.900.000,21-11-2016,Alm. Salg,19.024,7,Villa,205,1857,,Aktuel værdi
+Storegade 343740 Svaneke,neke,1.995.000,18-11-2016,Alm. Salg,8.044,6,Villa,248,1857,0 %,Aktuel værdi
+Henrik Hansensgade 73740 Svaneke,neke,1.075.000,18-11-2016,Alm. Salg,14.333,3,Rækkehus,75,1861,0 %,Aktuel værdi
+Kirkebakken 73740 Svaneke,neke,263.500,16-11-2016,Andet,2.661,4,Rækkehus,99,1850,,Aktuel værdi
+Gavlegade 23740 Svaneke,neke,367.014,14-11-2016,Fam. Salg,2.513,6,Villa,146,1727,,Aktuel værdi
+Urmarken 273740 Svaneke,neke,875.000,11-11-2016,Alm. Salg,7.882,4,Villa,111,1923,-12 %,Aktuel værdi
+Urmarken 13740 Svaneke,neke,700.000,08-11-2016,Fam. Salg,7.216,4,Villa,97,1890,,Aktuel værdi
+Munken 73740 Svaneke,neke,1.462.500,05-11-2016,Alm. Salg,11.890,6,Rækkehus,123,1834,0 %,Aktuel værdi
+Hellig Kilde 83740 Svaneke,neke,3.875.000,24-10-2016,Alm. Salg,28.079,4,Villa,138,1761,0 %,Aktuel værdi
+Mosedalsvej 123740 Svaneke,neke,300.000,23-10-2016,Fam. Salg,5.454,3,Villa,55,1827,,Aktuel værdi
+Lindholmsvej 63740 Svaneke,neke,465.000,19-10-2016,Alm. Salg,3.369,4,Villa,138,1877,-6 %,Aktuel værdi
+Storegade 383740 Svaneke,neke,500.000,12-10-2016,Alm. Salg,5.813,4,Rækkehus,86,1925,,Aktuel værdi
+Byfogedvej 23740 Svaneke,neke,800.000,09-10-2016,Alm. Salg,2.614,17,Stuehus,306,1828,,
+Gavlegade 33740 Svaneke,neke,892.500,03-10-2016,Alm. Salg,8.341,5,Villa,107,1877,,Aktuel værdi
+Askelundsvej 133740 Svaneke,neke,1.250.000,30-09-2016,Alm. Salg,15.822,6,Sommerhus,79,1984,0 %,Aktuel værdi
+Bølshavn 163740 Svaneke,neke,1.500.000,27-09-2016,Alm. Salg,9.146,4,Sommerhus,164,1938,-6 %,Aktuel værdi
+Østermarievej 103740 Svaneke,neke,2.000.000,25-09-2016,Alm. Salg,8.333,6,Villa,240,1909,,Aktuel værdi
+Indenmarken 143740 Svaneke,neke,1.250.000,21-09-2016,Alm. Salg,7.668,7,Villa,163,1960,,Aktuel værdi
+Storegade 183740 Svaneke,neke,1.200.000,15-09-2016,Alm. Salg,4.615,6,Villa,260,1911,0 %,Aktuel værdi
+Postgade 83740 Svaneke,neke,1.049.000,09-09-2016,Alm. Salg,6.597,7,Sommerhus,159,1850,,Aktuel værdi
+Reberbanevej 123740 Svaneke,neke,575.000,06-09-2016,Fam. Salg,8.984,3,Villa,64,1830,,Aktuel værdi
+Hans Thygesensvej 303740 Svaneke,neke,745.000,02-09-2016,Alm. Salg,5.477,6,Villa,136,1917,0 %,Aktuel værdi
+Hellig Kilde 93740 Svaneke,neke,2.095.000,24-08-2016,Alm. Salg,17.458,4,Villa,120,1856,,Aktuel værdi
+I Bakkerne 273740 Svaneke,neke,850.000,23-08-2016,Alm. Salg,7.327,4,Villa,116,1967,0 %,Aktuel værdi
+Urmarken 353740 Svaneke,neke,2.500.000,22-08-2016,Alm. Salg,13.888,6,Villa,180,1948,-11 %,Aktuel værdi
+Stengade 13740 Svaneke,neke,1.300.000,18-08-2016,Alm. Salg,11.111,6,Rækkehus,117,1897,-7 %,Aktuel værdi
+Gaden 363740 Svaneke,neke,1.050.000,15-08-2016,Alm. Salg,8.677,4,Villa,121,1951,-9 %,Aktuel værdi
+Klippegade 53740 Svaneke,neke,925.000,12-08-2016,Alm. Salg,10.882,5,Villa,85,1887,-5 %,Aktuel værdi
+Pælevej 13740 Svaneke,neke,895.000,25-07-2016,Alm. Salg,6.780,4,Villa,132,1976,0 %,Aktuel værdi
+Korshøje 113740 Svaneke,neke,1.060.000,21-07-2016,Alm. Salg,8.760,5,Villa,121,1800,21 %,Aktuel værdi
+Degnebrovejen 63740 Svaneke,neke,8.270.584,30-06-2016,Andet,46.991,8,Stuehus,176,1868,,
+Lille Plads 13740 Svaneke,neke,1.495.000,29-06-2016,Alm. Salg,13.230,4,Rækkehus,113,1827,0 %,Aktuel værdi
+Bølsbakke 63740 Svaneke,neke,1.800.000,18-06-2016,Alm. Salg,30.000,3,Sommerhus,60,1981,0 %,Aktuel værdi
+Tempelvej 43740 Svaneke,neke,840.000,17-06-2016,Alm. Salg,9.333,3,Villa,90,1867,-6 %,Aktuel værdi
+Storegade 423740 Svaneke,neke,1.050.000,16-06-2016,Alm. Salg,9.633,4,Villa,109,1921,-12 %,Aktuel værdi
+Skarvigen 43740 Svaneke,neke,745.000,15-06-2016,Alm. Salg,7.376,3,Villa,101,1929,0 %,Aktuel værdi
+Gaden 213740 Svaneke,neke,1.265.000,03-06-2016,Alm. Salg,6.988,5,Villa,181,1770,,Aktuel værdi
+Anders Måns Stræde 13740 Svaneke,neke,1.250.000,31-05-2016,Alm. Salg,15.243,4,Villa,82,1825,,Aktuel værdi
+Anders Måns Stræde 93740 Svaneke,neke,875.000,26-05-2016,Alm. Salg,32.407,1,Sommerhus,27,1827,0 %,Aktuel værdi
+Mor Markers Gænge 53740 Svaneke,neke,1.400.000,25-05-2016,Alm. Salg,24.137,3,Sommerhus,58,1900,-6 %,Aktuel værdi
+Kirkebakken 53740 Svaneke,neke,1.395.000,23-05-2016,Alm. Salg,7.750,7,Rækkehus,180,1856,,Aktuel værdi
+Bølsbakke 83740 Svaneke,neke,925.000,19-05-2016,Alm. Salg,12.500,5,Sommerhus,74,1962,-5 %,Aktuel værdi
+Kirkebakken 63740 Svaneke,neke,3.350.000,13-05-2016,Alm. Salg,12.007,3,Villa,279,1830,,Aktuel værdi
+Sortehølsvejen 23740 Svaneke,neke,675.000,06-05-2016,Alm. Salg,4.218,6,Villa,160,1899,-7 %,Aktuel værdi
+Møllevej 13740 Svaneke,neke,1.255.000,02-05-2016,Alm. Salg,9.365,7,Villa,134,1800,26 %,Aktuel værdi
+Aarsdalevej 433740 Svaneke,neke,995.000,02-05-2016,Alm. Salg,15.793,3,Sommerhus,63,1950,,Aktuel værdi
+Mosedalsvej 403740 Svaneke,neke,3.150.000,01-05-2016,Alm. Salg,42.567,4,Sommerhus,74,1946,,Aktuel værdi
+Gaden 263740 Svaneke,neke,1.160.000,24-04-2016,Alm. Salg,4.584,6,Villa,253,1922,-17 %,Aktuel værdi
+Askelundsvej 203740 Svaneke,neke,1.025.000,11-04-2016,Alm. Salg,13.486,5,Sommerhus,76,1978,-2 %,Aktuel værdi
+Norre Bakke 103740 Svaneke,neke,795.000,11-04-2016,Alm. Salg,7.361,4,Villa,108,1967,0 %,Aktuel værdi
+Byfogedbakken 13740 Svaneke,neke,1.850.000,24-03-2016,Alm. Salg,11.077,5,Villa,167,1895,0 %,Aktuel værdi
+Gaden 53740 Svaneke,neke,825.000,20-03-2016,Alm. Salg,8.088,4,Villa,102,1811,0 %,Aktuel værdi
+Vippebakke 13740 Svaneke,neke,2.495.000,15-03-2016,Alm. Salg,17.206,5,Villa,145,1805,0 %,Aktuel værdi
+Skolebakken 43740 Svaneke,neke,935.000,15-03-2016,Fam. Salg,4.605,6,Villa,203,1873,,Aktuel værdi
+Urmarken 173740 Svaneke,neke,2.700.000,15-03-2016,Alm. Salg,19.285,6,Villa,140,1930,,Aktuel værdi
+Østermarievej 53740 Svaneke,neke,350.000,15-03-2016,Alm. Salg,2.413,7,Stuehus,145,1870,,
+Ibskervej 353740 Svaneke,neke,7.410.576,14-03-2016,Fam. Salg,27.446,6,Stuehus,270,1887,,
+Havnebakken 23740 Svaneke,neke,1.200.000,09-03-2016,Fam. Salg,5.263,9,Villa,228,1853,,Aktuel værdi
+Anders Måns Stræde 53740 Svaneke,neke,1.050.000,09-03-2016,Alm. Salg,19.444,3,Sommerhus,54,1873,6 %,Aktuel værdi
+Bølsbakke 113740 Svaneke,neke,975.000,01-03-2016,Fam. Salg,13.175,6,Sommerhus,74,1962,,Aktuel værdi
+Byledsbakke 13740 Svaneke,neke,710.000,28-02-2016,Alm. Salg,5.966,5,Villa,119,1850,-3 %,Aktuel værdi
+Søndergade 173740 Svaneke,neke,860.000,22-02-2016,Alm. Salg,8.113,4,Rækkehus,106,1825,-4 %,Aktuel værdi
+Skarvigen 73740 Svaneke,neke,285.000,08-02-2016,Alm. Salg,2.375,4,Villa,120,1827,-5 %,Aktuel værdi
+Madvigsgade 103740 Svaneke,neke,550.000,25-01-2016,Auktion,6.962,2,Villa,79,1900,,Aktuel værdi
+Åvej 83740 Svaneke,neke,835.000,21-01-2016,Alm. Salg,13.253,3,Sommerhus,63,1971,-7 %,Aktuel værdi
+Oluf Høstgade 73740 Svaneke,neke,995.000,19-01-2016,Alm. Salg,8.432,3,Villa,118,1888,,Aktuel værdi
+Vestergade 213740 Svaneke,neke,350.000,23-12-2015,Alm. Salg,4.117,2,Rækkehus,85,1817,-11 %,Aktuel værdi
+Storegade 83740 Svaneke,neke,1.275.000,21-12-2015,Alm. Salg,10.450,5,Villa,122,1761,,Aktuel værdi
+Askelundsvej 153740 Svaneke,neke,1.150.000,16-12-2015,Alm. Salg,20.175,3,Sommerhus,57,1986,-11 %,Aktuel værdi
+Svinget 43740 Svaneke,neke,1.075.000,09-12-2015,Alm. Salg,8.600,5,Villa,125,1861,0 %,Aktuel værdi
+Strandvejen 273740 Svaneke,neke,1.425.000,08-12-2015,Alm. Salg,7.916,4,Villa,180,1961,-20 %,Aktuel værdi
+Skovstien 113740 Svaneke,neke,1.402.500,08-12-2015,Fam. Salg,11.885,5,Sommerhus,118,1928,,Aktuel værdi
+Stengade 153740 Svaneke,neke,695.000,03-12-2015,Alm. Salg,9.266,5,Villa,75,1845,0 %,Aktuel værdi
+Hellig Kilde 133740 Svaneke,neke,1.550.000,26-11-2015,Alm. Salg,14.622,4,Villa,106,1897,,Aktuel værdi
+Bølshavn 603740 Svaneke,neke,1.090.000,25-11-2015,Fam. Salg,9.732,4,Sommerhus,112,1800,,Aktuel værdi
+Hans Thygesensvej 293740 Svaneke,neke,2.000.000,13-11-2015,Alm. Salg,10.362,9,Villa,193,1877,,Aktuel værdi
+Duebakken 43740 Svaneke,neke,300.000,26-10-2015,Fam. Salg,9.375,3,Sommerhus,32,1962,,Aktuel værdi
+Gavlegade 133740 Svaneke,neke,870.000,12-10-2015,Alm. Salg,4.123,8,Rækkehus,211,1818,0 %,Aktuel værdi
+Oksemyrevejen 33740 Svaneke,neke,2.995.000,12-10-2015,Alm. Salg,10.363,8,Villa,289,1900,0 %,Aktuel værdi
+Elmevej 83740 Svaneke,neke,1.360.000,28-09-2015,Alm. Salg,12.592,3,Villa,108,1880,-3 %,Aktuel værdi
+Norre Bakke 43740 Svaneke,neke,625.000,23-09-2015,Alm. Salg,4.807,8,Villa,130,1962,-4 %,Aktuel værdi
+Aarsdale Kirkevej 53740 Svaneke,neke,94.900,21-09-2015,Alm. Salg,539,8,Stuehus,176,1852,,
+Degnebrovejen 123740 Svaneke,neke,1.050.000,16-09-2015,Alm. Salg,5.329,6,Stuehus,197,1978,-5 %,
+Brugsebakken 43740 Svaneke,neke,450.000,14-09-2015,Alm. Salg,9.000,2,Sommerhus,50,1930,0 %,Aktuel værdi
+Hellig Kilde 33740 Svaneke,neke,762.500,31-08-2015,Alm. Salg,9.531,2,Villa,80,1868,,Aktuel værdi
+Bølshavn 29A3740 Svaneke,neke,850.000,24-08-2015,Fam. Salg,8.762,5,Villa,97,1960,,Aktuel værdi
+Duebakken 123740 Svaneke,neke,1.017.000,24-08-2015,Alm. Salg,19.557,4,Sommerhus,52,1962,,Aktuel værdi
+Norre Næbbe 13740 Svaneke,neke,1.150.000,19-08-2015,Alm. Salg,10.454,3,Villa,110,1912,0 %,Aktuel værdi
+Højevejen 63740 Svaneke,neke,1.000.000,14-08-2015,Alm. Salg,3.401,11,Stuehus,294,1777,,
+Madvigsgade 83740 Svaneke,neke,645.000,03-08-2015,Alm. Salg,8.062,4,Villa,80,1875,-6 %,Aktuel værdi
+Strandstien 103740 Svaneke,neke,1.200.000,03-08-2015,Alm. Salg,13.186,2,Villa,91,1907,-40 %,Aktuel værdi
+Gryneparken 263740 Svaneke,neke,1.700.000,28-07-2015,Alm. Salg,9.659,4,Villa,176,1982,,Aktuel værdi
+Gulehaldstræde 23740 Svaneke,neke,1.226.000,23-07-2015,Alm. Salg,12.510,4,Villa,98,1938,17 %,Aktuel værdi
+Gryneparken 303740 Svaneke,neke,740.000,21-07-2015,Alm. Salg,5.736,4,Villa,129,1984,-7 %,Aktuel værdi
+Fiskergade 53740 Svaneke,neke,575.000,15-07-2015,Alm. Salg,6.686,3,Rækkehus,86,1900,-12 %,Aktuel værdi
+Møllebakken 53740 Svaneke,neke,650.000,03-07-2015,Andet,3.494,5,Villa,186,1977,,Aktuel værdi
+Nansensgade 93740 Svaneke,neke,995.000,02-07-2015,Alm. Salg,5.527,7,Villa,180,1852,0 %,Aktuel værdi
+Paradisbakkevejen 213740 Svaneke,neke,1.695.000,30-06-2015,Alm. Salg,13.669,3,Stuehus,124,1850,,
+Gaden 133740 Svaneke,neke,1.295.000,30-06-2015,Alm. Salg,10.360,3,Villa,125,1886,0 %,Aktuel værdi
+Storegade 113740 Svaneke,neke,550.000,29-06-2015,Alm. Salg,-,7,Villa,174,1888,-8 %,Aktuel værdi
+Svinget 63740 Svaneke,neke,1.495.000,29-06-2015,Alm. Salg,11.679,6,Villa,128,1850,0 %,Aktuel værdi
+"Postgade 2B, ST3740 Svaneke",neke,850.000,24-06-2015,Alm. Salg,6.967,3,Lejlighed,122,1877,-5 %,Aktuel værdi
+Bølshavnvej 103740 Svaneke,neke,625.000,24-06-2015,Alm. Salg,11.363,4,Sommerhus,55,1872,0 %,Aktuel værdi
+Strandstien 22A3740 Svaneke,neke,629.000,15-06-2015,Alm. Salg,9.388,3,Sommerhus,67,1885,,Aktuel værdi
+Svanebakken 43740 Svaneke,neke,2.090.000,26-05-2015,Andet,17.563,5,Sommerhus,119,2001,,Aktuel værdi
+Helgolandsgade 63740 Svaneke,neke,950.000,20-05-2015,Alm. Salg,10.326,4,Villa,92,1761,,Aktuel værdi
+Madvigsgade 143740 Svaneke,neke,1.385.000,20-05-2015,Alm. Salg,12.366,4,Villa,112,1897,,Aktuel værdi
+Brøddan 53740 Svaneke,neke,366.300,16-05-2015,Fam. Salg,4.309,4,Sommerhus,85,1850,,Aktuel værdi
+Vigebakke 73740 Svaneke,neke,1.487.500,16-05-2015,Fam. Salg,6.670,7,Villa,223,1843,,Aktuel værdi
+Tempelvej 7C3740 Svaneke,neke,1.870.000,11-05-2015,Fam. Salg,12.142,6,Sommerhus,154,1995,,Aktuel værdi
+Aarsdalevej 593740 Svaneke,neke,1.800.000,05-05-2015,Alm. Salg,9.677,7,Villa,186,1870,-10 %,Aktuel værdi
+Lillehøjsvej 13740 Svaneke,neke,499.000,30-04-2015,Fam. Salg,6.237,3,Villa,80,1969,,Aktuel værdi
+Bølsbakke 33740 Svaneke,neke,795.000,30-04-2015,Alm. Salg,18.488,2,Sommerhus,43,1964,0 %,Aktuel værdi
+Vestergade 193740 Svaneke,neke,750.000,28-04-2015,Alm. Salg,8.241,3,Rækkehus,91,1800,-6 %,Aktuel værdi
+Reberbanevej 133740 Svaneke,neke,500.000,27-04-2015,Alm. Salg,6.097,3,Rækkehus,82,1800,,Aktuel værdi
+Korshøje 223740 Svaneke,neke,595.000,27-04-2015,Alm. Salg,3.966,5,Villa,150,1924,0 %,Aktuel værdi
+Gaden 283740 Svaneke,neke,670.000,26-04-2015,Alm. Salg,7.444,5,Villa,90,1870,-4 %,Aktuel værdi
+Skolekrogen 43740 Svaneke,neke,262.500,14-04-2015,Alm. Salg,1.268,6,Villa,207,1915,,Aktuel værdi
+Søndergade 163740 Svaneke,neke,600.000,31-03-2015,Alm. Salg,4.137,4,Villa,145,1909,-14 %,Aktuel værdi
+Reberbanevej 83740 Svaneke,neke,350.000,25-03-2015,Alm. Salg,4.320,2,Villa,81,1815,-22 %,Aktuel værdi
+Egevej 33740 Svaneke,neke,300.000,24-03-2015,Alm. Salg,4.000,2,Rækkehus,75,1750,-13 %,Aktuel værdi
+Askelundsvej 93740 Svaneke,neke,675.000,19-03-2015,Alm. Salg,11.440,4,Sommerhus,59,1984,,Aktuel værdi
+Strandvejen 9A3740 Svaneke,neke,510.000,12-03-2015,Alm. Salg,4.766,4,Rækkehus,107,1800,-11 %,Aktuel værdi
+Kirkevej 73740 Svaneke,neke,600.000,03-03-2015,Alm. Salg,4.026,5,Villa,149,1965,-14 %,Aktuel værdi
+Albret Wolfsensgade 33740 Svaneke,neke,365.000,03-03-2015,Alm. Salg,3.650,4,Villa,100,1964,-33 %,Aktuel værdi
+Bølsbakke 233740 Svaneke,neke,500.000,02-03-2015,Fam. Salg,6.250,6,Sommerhus,80,1962,,Aktuel værdi
+Per Jørns Vej 63740 Svaneke,neke,550.000,28-02-2015,Alm. Salg,6.707,3,Rækkehus,82,1877,0 %,Aktuel værdi
+Duebakken 203740 Svaneke,neke,518.500,24-02-2015,Fam. Salg,8.500,4,Sommerhus,61,1962,,Aktuel værdi
+Elmevej 13740 Svaneke,neke,525.000,14-02-2015,Alm. Salg,4.646,3,Villa,113,1850,-19 %,Aktuel værdi
+Svaneke Torv 43740 Svaneke,neke,750.000,09-02-2015,Alm. Salg,7.352,3,Villa,102,1858,-6 %,Aktuel værdi
+Gulehaldstræde 63740 Svaneke,neke,1.375.000,08-02-2015,Alm. Salg,9.353,4,Villa,147,1926,-18 %,Aktuel værdi
+Højevejen 83740 Svaneke,neke,800.000,14-01-2015,Alm. Salg,1.869,17,Stuehus,428,1800,,
+Albret Wolfsensgade 243740 Svaneke,neke,695.000,14-01-2015,Alm. Salg,5.791,4,Villa,120,1967,-9 %,Aktuel værdi
+Søndergade 53740 Svaneke,neke,860.000,18-12-2014,Andet,8.958,4,Villa,96,1839,-4 %,Aktuel værdi
+Storegade 223740 Svaneke,neke,1.100.000,17-12-2014,Alm. Salg,4.824,13,Villa,228,1761,,Aktuel værdi
+Strandvejen 153740 Svaneke,neke,1.125.000,12-12-2014,Alm. Salg,5.569,6,Villa,202,1876,-13 %,Aktuel værdi
+Gryneparken 2B3740 Svaneke,neke,1.685.000,08-12-2014,Alm. Salg,11.701,5,Villa,144,2007,,Aktuel værdi
+Skovstien 73740 Svaneke,neke,900.000,06-12-2014,Fam. Salg,5.263,6,Sommerhus,171,1857,,Aktuel værdi
+Hans Thygesensvej 193740 Svaneke,neke,1.750.000,28-11-2014,Alm. Salg,8.027,7,Villa,218,1848,-30 %,Aktuel værdi
+Skarvigen 163740 Svaneke,neke,1.420.000,10-11-2014,Alm. Salg,16.136,3,Villa,88,1895,,Aktuel værdi
+Norre Næbbe 33740 Svaneke,neke,500.000,28-10-2014,Alm. Salg,5.813,3,Villa,86,1887,-8 %,Aktuel værdi
+Bølshavn 373740 Svaneke,neke,1.147.500,28-10-2014,Fam. Salg,18.811,3,Sommerhus,61,1971,,Aktuel værdi
+Lyrsbyvej 403740 Svaneke,neke,18.094.500,21-10-2014,Alm. Salg,75.393,9,Stuehus,240,1880,,
+Reberbanevej 163740 Svaneke,neke,500.000,09-10-2014,Fam. Salg,5.494,5,Sommerhus,91,1827,,Aktuel værdi
+Storegade 143740 Svaneke,neke,1.250.000,09-10-2014,Alm. Salg,6.038,5,Villa,207,1850,-15 %,Aktuel værdi
+Postgade 153740 Svaneke,neke,1.450.000,07-10-2014,Alm. Salg,12.608,5,Villa,115,1895,,Aktuel værdi
+Postgade 73740 Svaneke,neke,1.450.000,06-10-2014,Andet,11.328,5,Rækkehus,128,1900,,Aktuel værdi
+Oksemyrevejen 9A3740 Svaneke,neke,1.785.000,03-10-2014,Alm. Salg,6.787,7,Villa,263,1825,0 %,Aktuel værdi
+Bølshavn 123740 Svaneke,neke,319.500,02-10-2014,Fam. Salg,1.868,5,Sommerhus,171,1728,-72 %,Aktuel værdi
+Munken 83740 Svaneke,neke,650.000,25-09-2014,Alm. Salg,6.632,3,Rækkehus,98,1969,-7 %,Aktuel værdi
+Brugsebakken 143740 Svaneke,neke,480.000,17-09-2014,Alm. Salg,4.948,2,Villa,97,1860,-3 %,Aktuel værdi
+Pælevej 123740 Svaneke,neke,880.000,12-09-2014,Alm. Salg,4.631,5,Villa,190,1976,,Aktuel værdi
+Mosedalsvej 63740 Svaneke,neke,1.800.000,29-08-2014,Alm. Salg,20.454,5,Villa,88,1877,-10 %,Aktuel værdi
+Nansensgade 43740 Svaneke,neke,900.000,29-08-2014,Alm. Salg,6.122,8,Villa,147,1889,-25 %,Aktuel værdi
+Urmarken 213740 Svaneke,neke,2.375.000,28-08-2014,Alm. Salg,17.592,5,Sommerhus,135,1986,-5 %,Aktuel værdi
+Strandvejen 173740 Svaneke,neke,1.450.000,26-08-2014,Alm. Salg,12.393,3,Villa,117,1810,-14 %,Aktuel værdi
+Bølshavn 14A3740 Svaneke,neke,1.500.000,18-08-2014,Alm. Salg,10.000,5,Villa,150,1780,-5 %,Aktuel værdi
+Sdr Aarsdalevej 73740 Svaneke,neke,1.200.000,12-08-2014,Alm. Salg,5.940,5,Villa,202,1960,-4 %,Aktuel værdi
+Bølsbakke 143740 Svaneke,neke,1.750.000,12-08-2014,Alm. Salg,17.500,5,Sommerhus,100,1967,0 %,Aktuel værdi
+Åvej 53740 Svaneke,neke,900.000,11-08-2014,Alm. Salg,16.363,3,Sommerhus,55,1971,-10 %,Aktuel værdi
+Mosedalsvej 273740 Svaneke,neke,725.000,04-08-2014,Alm. Salg,7.631,4,Villa,95,1947,-12 %,Aktuel værdi
+Skolebakken 13740 Svaneke,neke,825.000,31-07-2014,Alm. Salg,15.000,3,Villa,55,1827,0 %,Aktuel værdi
+Strandvejen 193740 Svaneke,neke,1.075.000,21-07-2014,Alm. Salg,9.953,4,Rækkehus,108,1860,0 %,Aktuel værdi
+Nansensgade 103740 Svaneke,neke,300.000,14-07-2014,Alm. Salg,2.500,4,Rækkehus,120,1880,-13 %,Aktuel værdi
+Vestergade 2A3740 Svaneke,neke,1.200.000,07-07-2014,Alm. Salg,5.240,6,Villa,229,1976,-4 %,Aktuel værdi
+Skovgade 213740 Svaneke,neke,1.400.000,04-06-2014,Alm. Salg,11.965,5,Villa,117,1904,-11 %,Aktuel værdi
+Vigebakke 1B3740 Svaneke,neke,479.000,02-06-2014,Auktion,5.042,3,Villa,95,1847,-52 %,Aktuel værdi
+Søndergade 283740 Svaneke,neke,455.000,26-05-2014,Alm. Salg,4.892,3,Rækkehus,93,1851,-13 %,Aktuel værdi
+Albret Wolfsensgade 25B3740 Svaneke,neke,1.700.000,20-05-2014,Alm. Salg,18.888,4,Sommerhus,90,1970,0 %,Aktuel værdi
+Ved Parken 73740 Svaneke,neke,675.000,13-05-2014,Alm. Salg,3.629,6,Villa,186,1980,,Aktuel værdi
+Madvigsgade 43740 Svaneke,neke,1.970.000,05-05-2014,Alm. Salg,13.680,3,Sommerhus,144,1761,,Aktuel værdi
+Skolebakken 53740 Svaneke,neke,500.000,02-05-2014,Alm. Salg,8.928,23,Servicevirksomhed,56,1902,,Aktuel værdi
+Søndergade 103740 Svaneke,neke,795.000,23-04-2014,Alm. Salg,8.281,5,Rækkehus,96,1845,-4 %,Aktuel værdi
+Postgade 173740 Svaneke,neke,450.000,22-04-2014,Alm. Salg,4.205,3,Villa,107,1750,-10 %,Aktuel værdi
+Svanekevej 653740 Svaneke,neke,525.000,14-04-2014,Alm. Salg,4.233,8,Villa,124,1861,,Aktuel værdi
+Svanekevej 673740 Svaneke,neke,1.300.000,18-03-2014,Alm. Salg,6.403,6,Villa,203,1878,-7 %,Aktuel værdi
+Gaden 383740 Svaneke,neke,1.925.000,10-03-2014,Alm. Salg,12.183,6,Villa,158,1920,-4 %,Aktuel værdi
+Degnebrovejen 133740 Svaneke,neke,90.000,10-03-2014,Auktion,947,5,Villa,95,1943,,Aktuel værdi
+Østermarievej 123740 Svaneke,neke,13.835.000,25-02-2014,Alm. Salg,58.622,14,Stuehus,236,1905,,
+Ibskervej 473740 Svaneke,neke,1.295.000,24-02-2014,Alm. Salg,5.019,9,Stuehus,258,1800,-6 %,
+Reberbanevej 43740 Svaneke,neke,345.000,21-02-2014,Alm. Salg,5.149,3,Villa,67,1922,0 %,Aktuel værdi
+Urmarken 63740 Svaneke,neke,600.000,17-02-2014,Alm. Salg,3.636,4,Villa,165,1956,-37 %,Aktuel værdi
+Dyrlæge Jürgensensgade 113740 Svaneke,neke,663.000,07-02-2014,Fam. Salg,3.662,9,Villa,181,1970,,Aktuel værdi
+Bølshavn 493740 Svaneke,neke,1.200.000,04-02-2014,Alm. Salg,25.000,3,Sommerhus,48,1932,-14 %,Aktuel værdi
+Møllevej 113740 Svaneke,neke,565.000,23-01-2014,Alm. Salg,4.094,4,Villa,138,1909,-19 %,Aktuel værdi
+I Bakkerne 333740 Svaneke,neke,500.000,23-01-2014,Alm. Salg,3.759,4,Villa,133,1970,0 %,Aktuel værdi
+Paradisbakkevejen 23740 Svaneke,neke,231.972,15-01-2014,Alm. Salg,711,10,Stuehus,326,1852,,
+Ibskervej 423740 Svaneke,neke,108.846,15-01-2014,Alm. Salg,877,5,Stuehus,124,1913,,
+Bølshavn 363740 Svaneke,neke,200.250,06-01-2014,Fam. Salg,3.080,4,Sommerhus,65,1898,,Aktuel værdi
+Vestergade 163740 Svaneke,neke,545.000,02-01-2014,Alm. Salg,5.736,3,Villa,95,1827,-8 %,Aktuel værdi
+Bølshavn 153740 Svaneke,neke,1.200.000,02-01-2014,Fam. Salg,15.384,4,Sommerhus,78,1778,,Aktuel værdi
+Søndergade 33740 Svaneke,neke,580.000,13-12-2013,Alm. Salg,5.742,4,Villa,101,1909,-17 %,Aktuel værdi
+Udsigten 83740 Svaneke,neke,400.000,10-12-2013,Alm. Salg,2.259,5,Sommerhus,177,2015,,Aktuel værdi
+Brugsebakken 33740 Svaneke,neke,250.000,02-12-2013,Alm. Salg,3.333,4,Villa,75,1898,,Aktuel værdi
+Veidichstræde 23740 Svaneke,neke,300.000,29-11-2013,Alm. Salg,2.702,4,Villa,111,1877,-8 %,Aktuel værdi
+Søndergade 143740 Svaneke,neke,800.000,18-11-2013,Alm. Salg,4.395,6,Villa,182,1861,-33 %,Aktuel værdi
+Vasegårdsvejen 23740 Svaneke,neke,325.000,12-11-2013,Alm. Salg,3.421,4,Villa,95,1900,0 %,Aktuel værdi
+Mosedalsvej 313740 Svaneke,neke,816.000,08-11-2013,Fam. Salg,5.333,2,Villa,153,1777,,Aktuel værdi
+Mosedalsvej 103740 Svaneke,neke,1.600.000,28-10-2013,Alm. Salg,13.913,4,Sommerhus,115,1827,-5 %,Aktuel værdi
+Bølshavn 433740 Svaneke,neke,2.850.000,21-10-2013,Alm. Salg,18.387,4,Villa,155,1997,-11 %,Aktuel værdi
+Borgergade 23740 Svaneke,neke,850.000,16-10-2013,Alm. Salg,4.802,8,Villa,177,1860,-15 %,Aktuel værdi
+Albret Wolfsensgade 223740 Svaneke,neke,765.000,07-10-2013,Alm. Salg,7.500,4,Villa,102,1967,0 %,Aktuel værdi
+Askelundsvej 183740 Svaneke,neke,547.500,26-09-2013,Fam. Salg,10.950,3,Sommerhus,50,2004,,Aktuel værdi
+Strandvejen 103740 Svaneke,neke,1.800.000,24-09-2013,Alm. Salg,14.400,4,Villa,125,1906,-8 %,Aktuel værdi
+Oluf Høstgade 5B3740 Svaneke,neke,770.000,23-09-2013,Alm. Salg,5.620,5,Villa,137,1878,-14 %,Aktuel værdi
+Møllebakken 123740 Svaneke,neke,865.000,11-09-2013,Alm. Salg,4.552,7,Villa,190,1962,-10 %,Aktuel værdi
+Strandvejen 213740 Svaneke,neke,300.000,28-08-2013,Alm. Salg,3.225,3,Rækkehus,93,1860,-50 %,Aktuel værdi
+Storegade 93740 Svaneke,neke,750.000,22-08-2013,Alm. Salg,7.978,4,Rækkehus,94,1857,,Aktuel værdi
+Møllevej 43740 Svaneke,neke,995.000,22-08-2013,Alm. Salg,7.834,6,Villa,127,1827,0 %,Aktuel værdi
+Hans Thygesensvej 163740 Svaneke,neke,480.000,22-08-2013,Alm. Salg,3.934,4,Villa,122,1916,-3 %,Aktuel værdi
+Bølshavn 473740 Svaneke,neke,1.600.000,05-08-2013,Alm. Salg,22.535,4,Sommerhus,71,1937,-20 %,Aktuel værdi
+Dyrlæge Jürgensensgade 193740 Svaneke,neke,1.550.000,16-07-2013,Alm. Salg,10.333,6,Villa,150,1971,-22 %,Aktuel værdi
+Søndergade 13740 Svaneke,neke,550.000,05-07-2013,Alm. Salg,3.618,6,Villa,152,1910,-8 %,Aktuel værdi
+Norre Næbbe 23740 Svaneke,neke,795.000,02-07-2013,Alm. Salg,6.973,4,Villa,114,1956,0 %,Aktuel værdi
+Urmarken 153740 Svaneke,neke,2.000.000,28-06-2013,Alm. Salg,16.129,5,Villa,124,1941,-11 %,Aktuel værdi
+Hullebakke 43740 Svaneke,neke,1.500.000,26-06-2013,Alm. Salg,12.295,6,Villa,122,1891,0 %,Aktuel værdi
+Norre Bakke 63740 Svaneke,neke,375.000,21-06-2013,Alm. Salg,3.826,4,Villa,98,1965,-12 %,Aktuel værdi
+Ingemannsvej 33740 Svaneke,neke,900.000,10-06-2013,Alm. Salg,7.894,3,Villa,114,2005,-3 %,Aktuel værdi
+Byledsbakke 43740 Svaneke,neke,1.850.000,07-06-2013,Alm. Salg,10.818,7,Villa,171,1899,,Aktuel værdi
+I Pilene 33740 Svaneke,neke,268.165,31-05-2013,Fam. Salg,3.154,3,Rækkehus,85,1815,,Aktuel værdi
+Per Jørns Vej 23740 Svaneke,neke,380.000,31-05-2013,Alm. Salg,5.066,5,Villa,75,1885,-15 %,Aktuel værdi
+Skovgade 203740 Svaneke,neke,1.500.000,30-05-2013,Alm. Salg,12.000,4,Villa,125,1925,-25 %,Aktuel værdi
+Oluf Høstgade 13740 Svaneke,neke,867.500,27-05-2013,Alm. Salg,7.229,4,Villa,120,1900,-3 %,Aktuel værdi
+Otto Holst Bakke 23740 Svaneke,neke,850.000,27-03-2013,Alm. Salg,4.250,6,Villa,200,1840,,Aktuel værdi
+Albret Wolfsensgade 53740 Svaneke,neke,425.000,18-01-2013,Alm. Salg,3.899,4,Villa,109,1967,-23 %,Aktuel værdi
+Strandvejen 83740 Svaneke,neke,2.000.000,17-01-2013,Alm. Salg,11.111,8,Villa,180,1973,-20 %,Aktuel værdi
+Gaden 173740 Svaneke,neke,1.095.000,17-01-2013,Alm. Salg,4.699,6,Villa,233,1900,0 %,Aktuel værdi
+Nørrevang 13740 Svaneke,neke,585.000,15-01-2013,Alm. Salg,5.467,4,Villa,107,1968,-13 %,Aktuel værdi
+Hans Thygesensvej 233740 Svaneke,neke,1.035.000,11-01-2013,Alm. Salg,5.914,6,Villa,175,1827,-5 %,Aktuel værdi
+Albret Wolfsensgade 173740 Svaneke,neke,710.000,11-01-2013,Fam. Salg,6.068,3,Villa,117,1968,2 %,Aktuel værdi
+Åvej 23740 Svaneke,neke,400.000,21-12-2012,Alm. Salg,3.007,5,Villa,133,1951,-33 %,Aktuel værdi
+Lille Plads 63740 Svaneke,neke,1.150.000,11-12-2012,Alm. Salg,-,5,Sommerhus,80,1761,,Aktuel værdi
+Paradisbakkevejen 113740 Svaneke,neke,1.425.000,10-12-2012,Fam. Salg,6.985,6,Stuehus,204,1798,,
+Mor Markers Gænge 113740 Svaneke,neke,1.260.000,05-12-2012,Fam. Salg,13.548,5,Sommerhus,93,1985,,Aktuel værdi
+Postgade 233740 Svaneke,neke,1.200.000,27-11-2012,Alm. Salg,9.230,3,Rækkehus,130,1854,-13 %,Aktuel værdi
+Storegade 43740 Svaneke,neke,2.100.000,23-11-2012,Alm. Salg,9.952,9,Villa,211,1870,-22 %,Aktuel værdi
+Bølshavn 333740 Svaneke,neke,1.020.000,24-10-2012,Fam. Salg,11.860,4,Sommerhus,86,1974,,Aktuel værdi
+Indenmarken 43740 Svaneke,neke,245.000,12-10-2012,Alm. Salg,2.882,3,Villa,85,1956,-38 %,Aktuel værdi
+Strandstien 223740 Svaneke,neke,1.750.000,25-09-2012,Andet,11.290,5,Villa,155,1880,,Aktuel værdi
+Kristiansens Løkke 43740 Svaneke,neke,575.000,24-09-2012,Alm. Salg,7.371,3,Villa,78,1961,0 %,Aktuel værdi
+Bølsbakke 13740 Svaneke,neke,1.150.000,19-09-2012,Alm. Salg,15.540,6,Sommerhus,74,1962,,Aktuel værdi
+Gaden 403740 Svaneke,neke,895.000,10-09-2012,Alm. Salg,5.524,8,Villa,162,1908,-28 %,Aktuel værdi
+Mosedalsvej 343740 Svaneke,neke,270.000,10-09-2012,Alm. Salg,8.437,3,Sommerhus,32,1935,,Aktuel værdi
+Møllevej 103740 Svaneke,neke,495.000,27-08-2012,Alm. Salg,4.419,7,Villa,112,1862,,Aktuel værdi
+Albret Wolfsensgade 103740 Svaneke,neke,895.000,24-08-2012,Alm. Salg,6.485,5,Villa,138,1967,0 %,Aktuel værdi
+Bølshavn 193740 Svaneke,neke,1.850.000,20-08-2012,Alm. Salg,12.937,4,Villa,143,1878,-7 %,Aktuel værdi
+Klippegade 33740 Svaneke,neke,973.000,14-08-2012,Alm. Salg,9.266,3,Villa,105,1888,-3 %,Aktuel værdi
+Svanebakken 93740 Svaneke,neke,2.750.000,10-08-2012,Alm. Salg,23.913,6,Sommerhus,115,2001,,Aktuel værdi
+Bakken 53740 Svaneke,neke,1.300.000,30-07-2012,Alm. Salg,12.037,2,Sommerhus,108,1827,-7 %,Aktuel værdi
+Oluf Høstgade 123740 Svaneke,neke,800.000,07-07-2012,Alm. Salg,8.602,4,Rækkehus,93,1898,-20 %,Aktuel værdi
+Oksemyrevejen 23740 Svaneke,neke,1.135.000,04-07-2012,Alm. Salg,6.270,5,Villa,181,1916,-15 %,Aktuel værdi
+Skovgade 133740 Svaneke,neke,1.700.000,09-05-2012,Alm. Salg,12.592,5,Villa,135,1884,,Aktuel værdi
+Askelundsvej 23740 Svaneke,neke,325.000,23-04-2012,Alm. Salg,2.579,5,Sommerhus,126,2013,,Aktuel værdi
+Aarsdalevej 71A3740 Svaneke,neke,1.050.000,07-04-2012,Alm. Salg,13.461,3,Sommerhus,78,1877,-4 %,Aktuel værdi
+Skovgade 43740 Svaneke,neke,1.400.000,27-02-2012,Alm. Salg,12.280,4,Villa,114,1860,,Aktuel værdi
+Vippebakke 33740 Svaneke,neke,2.920.000,17-02-2012,Alm. Salg,18.024,3,Villa,162,1977,-11 %,Aktuel værdi
+Storegade 163740 Svaneke,neke,1.500.000,17-02-2012,Alm. Salg,8.620,7,Villa,174,1893,-12 %,Aktuel værdi
+Byfogedvej 43740 Svaneke,neke,165.000,24-01-2012,Alm. Salg,1.078,5,Villa,153,1890,-58 %,Aktuel værdi
+Storegade 1B3740 Svaneke,neke,2.000.000,17-01-2012,Alm. Salg,22.471,5,Servicevirksomhed,89,1800,,Aktuel værdi
+Ibskervej 44C3740 Svaneke,neke,250.000,11-11-2011,Alm. Salg,1.243,7,Villa,201,1910,,Aktuel værdi
+Munken 53740 Svaneke,neke,925.000,09-11-2011,Alm. Salg,7.459,6,Villa,124,1880,-23 %,Aktuel værdi
+Kodalsvejen 33740 Svaneke,neke,850.000,02-11-2011,Alm. Salg,5.902,6,Stuehus,144,1800,,
+Aarsdale Kirkevej 13740 Svaneke,neke,200.000,28-10-2011,Alm. Salg,2.500,2,Villa,80,1949,-32 %,Aktuel værdi
+Urmarken 113740 Svaneke,neke,2.075.000,27-10-2011,Alm. Salg,14.212,5,Villa,146,1937,,Aktuel værdi
+Lillegade 23740 Svaneke,neke,900.000,25-10-2011,Alm. Salg,6.716,5,Villa,134,1854,-25 %,Aktuel værdi
+Urmarken 133740 Svaneke,neke,1.325.000,29-09-2011,Alm. Salg,15.588,3,Villa,85,1907,-12 %,Aktuel værdi
+Nørrevang 73740 Svaneke,neke,1.325.000,26-09-2011,Alm. Salg,9.013,5,Villa,147,1952,,Aktuel værdi
+Duebakken 153740 Svaneke,neke,850.000,14-09-2011,Alm. Salg,26.562,3,Sommerhus,32,1962,-11 %,Aktuel værdi
+Svanekevej 613740 Svaneke,neke,2.195.000,05-09-2011,Alm. Salg,10.257,7,Villa,214,1992,0 %,Aktuel værdi
+Aarsdalevej 613740 Svaneke,neke,895.000,05-09-2011,Alm. Salg,8.287,3,Villa,108,1860,,Aktuel værdi
+Skolekrogen 83740 Svaneke,neke,850.000,30-08-2011,Alm. Salg,4.594,4,Stuehus,185,1900,-10 %,
+Hellig Kilde 113740 Svaneke,neke,934.706,23-08-2011,Alm. Salg,7.789,5,Sommerhus,120,1954,,Aktuel værdi
+Pælevej 83740 Svaneke,neke,2.150.000,19-08-2011,Alm. Salg,8.333,8,Villa,258,1974,-5 %,Aktuel værdi
+Skovgade 93740 Svaneke,neke,900.000,19-08-2011,Alm. Salg,12.000,4,Sommerhus,75,1851,,Aktuel værdi
+Strandvejen 203740 Svaneke,neke,1.850.000,10-08-2011,Alm. Salg,7.838,11,Villa,236,1935,-7 %,Aktuel værdi
+Duebakken 103740 Svaneke,neke,1.300.000,05-08-2011,Alm. Salg,17.105,3,Sommerhus,76,1962,-13 %,Aktuel værdi
+Urmarken 93740 Svaneke,neke,1.900.000,16-06-2011,Alm. Salg,12.925,5,Villa,147,1946,,Aktuel værdi
+Degnebrovejen 203740 Svaneke,neke,1.600.000,14-06-2011,Alm. Salg,8.556,6,Villa,187,1988,-3 %,Aktuel værdi
+Bølshavn 253740 Svaneke,neke,1.575.000,07-06-2011,Alm. Salg,16.578,5,Villa,95,1946,0 %,Aktuel værdi
+Nørrevang 43740 Svaneke,neke,760.000,01-06-2011,Alm. Salg,4.130,6,Villa,184,1970,-24 %,Aktuel værdi
+Bølshavnvej 123740 Svaneke,neke,600.000,20-05-2011,Andet,8.955,4,Sommerhus,67,1828,,Aktuel værdi
+Klippegade 43740 Svaneke,neke,475.000,11-05-2011,Alm. Salg,7.196,4,Rækkehus,66,1831,,Aktuel værdi
+Kirkebakken 33740 Svaneke,neke,1.485.000,04-05-2011,Alm. Salg,11.692,5,Villa,127,1848,,Aktuel værdi
+Duebakken 163740 Svaneke,neke,895.000,15-03-2011,Alm. Salg,27.968,2,Sommerhus,32,1962,0 %,Aktuel værdi
+Urmarken 73740 Svaneke,neke,850.000,24-01-2011,Alm. Salg,4.857,9,Villa,175,1948,-29 %,Aktuel værdi
+Bølsbakke 153740 Svaneke,neke,640.000,30-12-2010,Fam. Salg,8.648,2,Sommerhus,74,1962,,Aktuel værdi
+Møllebakken 7A3740 Svaneke,neke,2.350.000,22-12-2010,Alm. Salg,13.905,5,Villa,169,2000,6 %,Aktuel værdi
+I Bakkerne 23740 Svaneke,neke,200.000,20-12-2010,Fam. Salg,1.626,6,Villa,123,1966,,Aktuel værdi
+Oluf Høstgade 143740 Svaneke,neke,825.000,30-11-2010,Alm. Salg,8.967,3,Rækkehus,92,1898,-17 %,Aktuel værdi
+Stengade 63740 Svaneke,neke,700.000,26-11-2010,Alm. Salg,8.641,2,Villa,81,1914,-17 %,Aktuel værdi
+Askelundsvej 223740 Svaneke,neke,995.000,17-11-2010,Alm. Salg,16.048,4,Sommerhus,62,1978,0 %,Aktuel værdi
+Møllevej 23740 Svaneke,neke,650.000,15-11-2010,Alm. Salg,6.250,3,Villa,104,1900,-10 %,Aktuel værdi
+Kirkevangen 133740 Svaneke,neke,655.300,11-11-2010,Fam. Salg,7.895,3,Rækkehus,83,1888,,Aktuel værdi
+Lille Plads 53740 Svaneke,neke,1.400.000,10-11-2010,Alm. Salg,-,3,Rækkehus,105,1854,10 %,Aktuel værdi
+Vigebakke 23740 Svaneke,neke,1.200.000,08-11-2010,Alm. Salg,-,4,Villa,135,1910,-1 %,Aktuel værdi
+Ved Parken 13740 Svaneke,neke,440.000,14-10-2010,Alm. Salg,3.464,5,Villa,127,1761,,Aktuel værdi
+Degnebrovejen 113740 Svaneke,neke,300.000,06-10-2010,Alm. Salg,3.092,4,Sommerhus,97,1937,-33 %,Aktuel værdi
+Byfogedvej 63740 Svaneke,neke,600.000,01-10-2010,Fam. Salg,4.615,3,Sommerhus,130,1955,,Aktuel værdi
+Tempelvej 93740 Svaneke,neke,383.000,28-09-2010,Alm. Salg,7.092,2,Villa,54,1818,,Aktuel værdi
+Pælevej 53740 Svaneke,neke,1.845.000,16-09-2010,Alm. Salg,8.463,8,Villa,218,1973,-3 %,Aktuel værdi
+Bølshavn 303740 Svaneke,neke,700.000,10-09-2010,Alm. Salg,7.000,3,Villa,100,1828,-30 %,Aktuel værdi
+Hans Thygesensvej 243740 Svaneke,neke,600.000,27-08-2010,Alm. Salg,5.769,3,Rækkehus,104,1897,-7 %,Aktuel værdi
+Bølshavn 533740 Svaneke,neke,750.000,26-08-2010,Alm. Salg,6.048,5,Sommerhus,124,1920,,Aktuel værdi
+Mosedalsvej 383740 Svaneke,neke,2.310.000,12-08-2010,Alm. Salg,22.647,4,Sommerhus,102,2011,-8 %,Aktuel værdi
+Bølshavnvej 43740 Svaneke,neke,1.000.000,01-08-2010,Alm. Salg,3.533,9,Villa,283,1912,,Aktuel værdi
+Bagergade 33740 Svaneke,neke,625.000,30-07-2010,Alm. Salg,6.578,4,Rækkehus,95,1870,-10 %,Aktuel værdi
+Dyrlæge Jürgensensgade 233740 Svaneke,neke,568.634,21-07-2010,Alm. Salg,3.948,5,Villa,144,1973,-52 %,Aktuel værdi
+Skolebakken 23740 Svaneke,neke,795.000,20-07-2010,Alm. Salg,-,4,Sommerhus,83,1831,0 %,Aktuel værdi
+Strandvejen 223740 Svaneke,neke,1.100.000,05-07-2010,Alm. Salg,10.280,5,Villa,107,1936,-29 %,Aktuel værdi
+Nansensgade 33740 Svaneke,neke,170.000,03-07-2010,Alm. Salg,1.619,5,Rækkehus,105,1828,,Aktuel værdi
+Strandvejen 73740 Svaneke,neke,575.000,28-06-2010,Auktion,5.927,7,Villa,97,1955,,Aktuel værdi
+Veidichstræde 13740 Svaneke,neke,350.000,18-06-2010,Alm. Salg,2.868,4,Villa,122,1877,,Aktuel værdi
+Vagtbodgade 93740 Svaneke,neke,575.000,09-06-2010,Alm. Salg,4.600,6,Villa,125,1912,,Aktuel værdi
+Brugsebakken 103740 Svaneke,neke,1.724.500,18-05-2010,Alm. Salg,17.245,4,Villa,100,1923,-1 %,Aktuel værdi
+Aarsdalevej 393740 Svaneke,neke,1.998.000,17-05-2010,Alm. Salg,12.487,7,Villa,160,1936,0 %,Aktuel værdi
+Gryneparken 343740 Svaneke,neke,485.750,01-05-2010,Alm. Salg,3.765,4,Villa,129,1981,,Aktuel værdi
+Korshøje 183740 Svaneke,neke,638.742,26-04-2010,Fam. Salg,4.094,7,Stuehus,156,1907,,
+Henrik Hansensgade 43740 Svaneke,neke,1.600.000,16-04-2010,Alm. Salg,13.333,4,Villa,120,1863,-10 %,Aktuel værdi
+Korshøje 163740 Svaneke,neke,1.850.000,14-04-2010,Alm. Salg,10.109,10,Villa,183,1892,-7 %,Aktuel værdi
+Aarsdalevej 693740 Svaneke,neke,1.700.000,23-03-2010,Alm. Salg,8.900,5,Villa,191,1930,-15 %,Aktuel værdi
+Brøddan 13740 Svaneke,neke,150.000,15-02-2010,Alm. Salg,3.409,2,Villa,44,1900,0 %,Aktuel værdi
+Svanekevej 343740 Svaneke,neke,2.500.000,15-02-2010,Alm. Salg,7.739,8,Stuehus,323,1900,,
+Skovgade 1A3740 Svaneke,neke,1.350.000,07-01-2010,Alm. Salg,10.150,4,Villa,133,1850,-10 %,Aktuel værdi
+Ibskervej 563740 Svaneke,neke,6.212.680,23-12-2009,Alm. Salg,29.584,9,Stuehus,210,1929,,
+Brøndstræde 23740 Svaneke,neke,975.000,19-12-2009,Alm. Salg,7.330,4,Villa,133,1892,0 %,Aktuel værdi
+Svanekevej 323740 Svaneke,neke,165.400,28-11-2009,Alm. Salg,578,7,Stuehus,286,1866,,
+Svanekevej 593740 Svaneke,neke,90.047,28-11-2009,Alm. Salg,307,12,Stuehus,293,1820,,
+Vestergade 333740 Svaneke,neke,2.100.000,25-11-2009,Alm. Salg,10.047,6,Villa,209,1897,-16 %,Aktuel værdi
+Tempelvej 83740 Svaneke,neke,850.000,07-11-2009,Alm. Salg,9.042,5,Villa,94,1834,,Aktuel værdi
+Korshøje 143740 Svaneke,neke,420.000,26-10-2009,Andet,2.222,7,Stuehus,189,1900,,
+Munken 43740 Svaneke,neke,575.000,11-10-2009,Alm. Salg,8.582,2,Villa,67,1969,,Aktuel værdi
+Bølshavn 63740 Svaneke,neke,1.350.000,23-09-2009,Alm. Salg,15.882,5,Sommerhus,85,1800,-15 %,Aktuel værdi
+Degnebrovejen 183740 Svaneke,neke,750.000,21-09-2009,Alm. Salg,5.033,6,Villa,149,1880,-16 %,Aktuel værdi
+Vestergade 233740 Svaneke,neke,1.395.000,14-09-2009,Alm. Salg,11.071,2,Rækkehus,126,1790,,Aktuel værdi
+Per Jørns Vej 13740 Svaneke,neke,1.100.000,12-08-2009,Alm. Salg,8.870,5,Villa,124,1843,-8 %,Aktuel værdi
+Laksegade 103740 Svaneke,neke,1.025.000,10-08-2009,Alm. Salg,7.884,3,Rækkehus,130,1881,-36 %,Aktuel værdi
+Hellig Kilde 103740 Svaneke,neke,210.696,27-07-2009,Fam. Salg,3.830,3,Sommerhus,55,1961,,Aktuel værdi
+Dyrlæge Jürgensensgade 153740 Svaneke,neke,1.450.000,07-07-2009,Alm. Salg,10.357,5,Villa,140,1970,,Aktuel værdi
+Gaden 183740 Svaneke,neke,725.000,29-06-2009,Alm. Salg,7.323,4,Villa,99,1900,-18 %,Aktuel værdi
+Hans Thygesensvej 53740 Svaneke,neke,865.000,29-05-2009,Alm. Salg,7.935,6,Villa,109,1898,0 %,Aktuel værdi
+Gaden 123740 Svaneke,neke,500.000,26-05-2009,Alm. Salg,5.555,3,Villa,90,1900,-7 %,Aktuel værdi
+Bølshavnvej 83740 Svaneke,neke,697.500,19-05-2009,Fam. Salg,3.770,9,Stuehus,185,1800,,
+Ibskervej 543740 Svaneke,neke,895.000,30-04-2009,Alm. Salg,7.458,10,Sommerhus,120,1947,-5 %,Aktuel værdi
+Lyrsbyvej 423740 Svaneke,neke,330.000,27-04-2009,Auktion,1.783,4,Villa,185,1934,-58 %,Aktuel værdi
+Urmarken 193740 Svaneke,neke,1.600.000,24-04-2009,Alm. Salg,16.842,2,Sommerhus,95,1930,-10 %,Aktuel værdi
+Korshøje 93740 Svaneke,neke,465.000,31-03-2009,Alm. Salg,5.961,4,Villa,78,1910,33 %,Aktuel værdi
+I Bakkerne 16A3740 Svaneke,neke,748.000,23-03-2009,Alm. Salg,8.800,3,Villa,85,1986,0 %,Aktuel værdi
+I Bakkerne 223740 Svaneke,neke,725.000,26-02-2009,Alm. Salg,6.839,3,Villa,106,1969,,Aktuel værdi
+Hans Thygesensvej 93740 Svaneke,neke,795.000,25-01-2009,Alm. Salg,6.794,3,Villa,117,1915,0 %,Aktuel værdi
+Sander Dichsgade 13740 Svaneke,neke,1.009.201,12-01-2009,Fam. Salg,7.157,6,Villa,141,1850,,Aktuel værdi
+I Bakkerne 123740 Svaneke,neke,600.000,07-01-2009,Alm. Salg,5.555,4,Villa,108,1965,-20 %,Aktuel værdi
+Gaden 93740 Svaneke,neke,1.195.000,12-12-2008,Alm. Salg,5.334,8,Villa,224,1827,0 %,Aktuel værdi
+Skovgade 283740 Svaneke,neke,4.250.000,24-11-2008,Alm. Salg,25.297,6,Villa,168,1920,,Aktuel værdi
+Tuevej 73740 Svaneke,neke,2.500.000,10-11-2008,Alm. Salg,9.920,6,Stuehus,252,1900,,
+Gaden 103740 Svaneke,neke,447.500,04-11-2008,Fam. Salg,4.917,4,Villa,91,1777,,Aktuel værdi
+Strandvejen 233740 Svaneke,neke,1.795.000,10-10-2008,Alm. Salg,10.084,4,Villa,178,1934,0 %,Aktuel værdi
+Degnebrovejen 73740 Svaneke,neke,425.000,03-10-2008,Alm. Salg,3.761,4,Villa,113,1932,,Aktuel værdi
+Svanebakken 83740 Svaneke,neke,2.000.000,01-10-2008,Alm. Salg,18.348,5,Sommerhus,109,2001,-16 %,Aktuel værdi
+Byfogedbakken 4B3740 Svaneke,neke,2.200.000,17-09-2008,Alm. Salg,22.000,3,Fritid,100,1967,,Aktuel værdi
+Paradisbakkevejen 83740 Svaneke,neke,650.000,15-09-2008,Alm. Salg,3.233,8,Stuehus,201,1777,-16 %,
+Indenmarken 53740 Svaneke,neke,1.232.500,31-07-2008,Fam. Salg,7.951,5,Villa,155,1971,,Aktuel værdi
+Sommervej 43740 Svaneke,neke,2.445.000,23-07-2008,Alm. Salg,10.538,7,Sommerhus,232,1965,-2 %,Aktuel værdi
+Skovgade 223740 Svaneke,neke,2.000.000,22-07-2008,Alm. Salg,13.071,4,Villa,153,1957,-13 %,Aktuel værdi
+Skippergade 103740 Svaneke,neke,1.950.000,25-06-2008,Alm. Salg,34.210,2,Sommerhus,57,1867,,Aktuel værdi
+Aarsdalevej 483740 Svaneke,neke,739.500,23-06-2008,Fam. Salg,12.325,3,Sommerhus,60,1927,,Aktuel værdi
+Gryneparken 383740 Svaneke,neke,190.000,18-06-2008,Alm. Salg,1.328,4,Villa,143,2010,,Aktuel værdi
+I Bakkerne 63740 Svaneke,neke,999.000,13-06-2008,Alm. Salg,9.990,4,Villa,100,1966,0 %,Aktuel værdi
+I Bakkerne 93740 Svaneke,neke,2.490.000,06-06-2008,Alm. Salg,15.276,5,Villa,163,1965,-4 %,Aktuel værdi
+Lille Plads 33740 Svaneke,neke,1.365.000,26-05-2008,Alm. Salg,-,5,Rækkehus,226,1827,,Aktuel værdi
+Møllebakken 12A3740 Svaneke,neke,925.000,22-05-2008,Alm. Salg,16.517,3,Sommerhus,56,1937,-23 %,Aktuel værdi
+Madvigsgade 13740 Svaneke,neke,433.500,05-05-2008,Fam. Salg,8.336,3,Villa,52,1761,,Aktuel værdi
+Svanebakken 63740 Svaneke,neke,2.600.000,05-05-2008,Alm. Salg,23.853,5,Sommerhus,109,2001,-4 %,Aktuel værdi
+Postgade 2A3740 Svaneke,neke,1.650.000,04-05-2008,Alm. Salg,11.073,4,Villa,149,1967,,Aktuel værdi
+Brugsebakken 183740 Svaneke,neke,1.400.000,02-04-2008,Alm. Salg,8.695,4,Villa,161,1800,,Aktuel værdi
+Søndergade 213740 Svaneke,neke,750.000,01-04-2008,Andet,5.555,5,Villa,135,1827,,Aktuel værdi
+Munken 123740 Svaneke,neke,1.150.000,29-03-2008,Alm. Salg,12.637,3,Rækkehus,91,1969,,Aktuel værdi
+Dalen 23740 Svaneke,neke,1.045.000,19-03-2008,Alm. Salg,11.611,2,Villa,90,1964,0 %,Aktuel værdi
+Dalen 53740 Svaneke,neke,550.000,17-03-2008,Alm. Salg,3.873,4,Villa,142,1970,-60 %,Aktuel værdi
+Hans Thygesensvej 213740 Svaneke,neke,1.600.000,10-03-2008,Alm. Salg,15.238,6,Villa,105,1873,,Aktuel værdi
+Lindevej 13740 Svaneke,neke,1.495.000,09-03-2008,Alm. Salg,17.383,3,Villa,86,1863,,Aktuel værdi
+Vagtbodgade 33740 Svaneke,neke,2.475.000,05-03-2008,Alm. Salg,15.184,4,Villa,163,1924,0 %,Aktuel værdi
+Svanekevej 633740 Svaneke,neke,637.000,23-02-2008,Andet,1.454,14,Stuehus,438,1800,,
+Lindholmsvej 83740 Svaneke,neke,1.550.000,15-02-2008,Alm. Salg,6.739,7,Stuehus,230,1900,0 %,
+Højevejen 53740 Svaneke,neke,163.600,11-02-2008,Alm. Salg,1.543,5,Stuehus,106,1860,,
+Hans Thygesensvej 143740 Svaneke,neke,1.180.000,28-01-2008,Alm. Salg,27.441,3,Sommerhus,43,1877,-9 %,Aktuel værdi
+Dyrlæge Jürgensensgade 73740 Svaneke,neke,1.765.000,25-01-2008,Alm. Salg,13.682,5,Villa,129,1974,-2 %,Aktuel værdi
+Bølshavn 29B3740 Svaneke,neke,4.130.000,19-12-2007,Alm. Salg,19.951,9,Sommerhus,207,1700,,Aktuel værdi
+Bølshavn 683740 Svaneke,neke,1.150.000,12-12-2007,Andet,11.165,7,Sommerhus,103,1953,,Aktuel værdi
+Svanebakken 133740 Svaneke,neke,3.200.000,04-12-2007,Alm. Salg,29.357,5,Sommerhus,109,2001,0 %,Aktuel værdi
+Strandstien 123740 Svaneke,neke,2.650.000,18-11-2007,Alm. Salg,17.666,6,Villa,150,1777,-15 %,Aktuel værdi
+Laksegade 83740 Svaneke,neke,1.195.000,14-11-2007,Alm. Salg,10.669,5,Rækkehus,112,1900,0 %,Aktuel værdi
+Bølshavn 18B3740 Svaneke,neke,1.385.000,04-11-2007,Alm. Salg,27.700,2,Sommerhus,50,1983,,Aktuel værdi
+Paradisbakkevejen 73740 Svaneke,neke,52.000,23-10-2007,Andet,244,9,Stuehus,213,1926,,
+Paradisbakkevejen 53740 Svaneke,neke,52.000,23-10-2007,Andet,319,8,Stuehus,163,1923,,
+Havnebakken 63740 Svaneke,neke,1.275.000,19-10-2007,Fam. Salg,8.069,6,Sommerhus,158,1850,,Aktuel værdi
+Madvigsgade 4A3740 Svaneke,neke,730.000,27-09-2007,Fam. Salg,8.111,5,Sommerhus,90,1910,,Aktuel værdi
+Postgade 213740 Svaneke,neke,1.247.500,26-09-2007,Fam. Salg,9.822,3,Rækkehus,127,1854,,Aktuel værdi
+Ibskervej 383740 Svaneke,neke,975.000,20-09-2007,Alm. Salg,9.112,4,Sommerhus,107,1927,-7 %,Aktuel værdi
+Paradisbakkevejen 133740 Svaneke,neke,883.345,18-09-2007,Fam. Salg,5.662,7,Stuehus,156,1875,,
+Trappegangen 13740 Svaneke,neke,1.100.000,14-09-2007,Alm. Salg,10.000,3,Rækkehus,110,1818,,Aktuel værdi
+Strandvejen 33740 Svaneke,neke,1.675.000,04-09-2007,Alm. Salg,12.226,5,Villa,137,1922,,Aktuel værdi
+Ibskervej 493740 Svaneke,neke,2.495.000,31-08-2007,Alm. Salg,10.942,8,Villa,228,1923,0 %,Aktuel værdi
+Kristiansens Løkke 23740 Svaneke,neke,1.400.000,28-08-2007,Alm. Salg,14.141,4,Villa,99,1961,,Aktuel værdi
+I Bakkerne 53740 Svaneke,neke,2.495.000,14-08-2007,Alm. Salg,13.131,6,Villa,190,1962,0 %,Aktuel værdi
+Østergade 33740 Svaneke,neke,565.000,13-08-2007,Alm. Salg,5.885,4,Villa,96,1876,0 %,Aktuel værdi
+Aarsdalevej 283740 Svaneke,neke,1.650.000,13-08-2007,Alm. Salg,20.121,3,Sommerhus,82,1924,-3 %,Aktuel værdi
+Skarvigen 33740 Svaneke,neke,495.000,04-08-2007,Alm. Salg,4.024,5,Villa,123,1827,0 %,Aktuel værdi
+Bølshavn 263740 Svaneke,neke,1.400.000,03-08-2007,Alm. Salg,-,5,Villa,127,1967,-2 %,Aktuel værdi
+Hans Thygesensvej 313740 Svaneke,neke,425.000,26-07-2007,Fam. Salg,7.727,3,Villa,55,1754,,Aktuel værdi
+Møllevej 133740 Svaneke,neke,560.000,16-07-2007,Alm. Salg,7.466,4,Villa,75,1869,-6 %,Aktuel værdi
+I Bakkerne 343740 Svaneke,neke,1.095.000,09-07-2007,Alm. Salg,8.111,4,Villa,135,1971,0 %,Aktuel værdi
+Vippebakke 43740 Svaneke,neke,484.500,03-07-2007,Fam. Salg,5.700,3,Sommerhus,85,1850,,Aktuel værdi
+Vestergade 63740 Svaneke,neke,850.000,29-06-2007,Alm. Salg,5.279,6,Villa,161,1780,,Aktuel værdi
+Møllevej 123740 Svaneke,neke,1.450.000,28-06-2007,Alm. Salg,14.795,1,Sommerhus,98,1884,,Aktuel værdi
+Strandvejen 23740 Svaneke,neke,650.000,26-06-2007,Andet,9.027,2,Rækkehus,72,1877,,Aktuel værdi
+Bølshavn 413740 Svaneke,neke,2.325.000,29-05-2007,Alm. Salg,11.923,7,Villa,195,1933,0 %,Aktuel værdi
+Duebakken 13740 Svaneke,neke,703.000,07-05-2007,Alm. Salg,13.784,4,Sommerhus,51,1962,,Aktuel værdi
+Strandvejen 63740 Svaneke,neke,2.300.000,24-04-2007,Alm. Salg,14.375,5,Villa,160,1895,0 %,Aktuel værdi
+Havnebakken 53740 Svaneke,neke,2.810.000,20-04-2007,Alm. Salg,19.929,5,Villa,141,1867,28 %,Aktuel værdi
+Strandvejen 53740 Svaneke,neke,1.595.000,17-04-2007,Alm. Salg,11.642,5,Villa,137,1931,0 %,Aktuel værdi
+Storegade 303740 Svaneke,neke,1.100.000,28-03-2007,Alm. Salg,9.482,4,Villa,116,1907,-18 %,Aktuel værdi
+Strandstien 93740 Svaneke,neke,553.333,25-03-2007,Alm. Salg,4.356,2,Villa,127,1900,,Aktuel værdi
+I Bakkerne 293740 Svaneke,neke,1.375.000,22-03-2007,Alm. Salg,7.124,6,Villa,193,1974,,Aktuel værdi
+Vagtbodgade 103740 Svaneke,neke,3.305.006,15-02-2007,Alm. Salg,13.886,5,Villa,238,1957,,Aktuel værdi
+Bølshavn 8C3740 Svaneke,neke,2.350.000,05-02-2007,Alm. Salg,22.596,3,Sommerhus,104,2006,-5 %,Aktuel værdi
+Kirkepladsen 13740 Svaneke,neke,547.500,28-01-2007,Alm. Salg,4.932,3,Rækkehus,111,1790,,Aktuel værdi
+Elmevej 103740 Svaneke,neke,1.200.000,16-01-2007,Alm. Salg,9.448,4,Villa,127,1885,0 %,Aktuel værdi
+Møllebakken 6D3740 Svaneke,neke,650.000,11-01-2007,Fam. Salg,5.963,6,Sommerhus,109,1919,,
+Skovgade 273740 Svaneke,neke,814.584,31-12-2006,Alm. Salg,7.473,5,Sommerhus,109,1923,,Aktuel værdi
+Elverhøj 13740 Svaneke,neke,60.000,30-12-2006,Alm. Salg,545,3,Sommerhus,110,2007,,Aktuel værdi
+Søndergade 183740 Svaneke,neke,310.000,08-12-2006,Alm. Salg,-,3,Villa,123,1845,,Aktuel værdi
+Bølshavn 643740 Svaneke,neke,850.000,03-12-2006,Fam. Salg,6.854,5,Villa,124,1932,,Aktuel værdi
+Hullebakke 63740 Svaneke,neke,998.000,30-11-2006,Alm. Salg,7.560,4,Villa,132,1852,,Aktuel værdi
+I Bakkerne 323740 Svaneke,neke,995.000,07-11-2006,Alm. Salg,8.432,4,Villa,118,1975,,Aktuel værdi
+Havnebryggen 33740 Svaneke,neke,3.500.000,20-10-2006,Alm. Salg,19.337,6,Villa,181,1828,,Aktuel værdi
+Gryneparken 423740 Svaneke,neke,160.500,18-10-2006,Alm. Salg,775,5,Villa,207,2009,,Aktuel værdi
+Vestergade 33740 Svaneke,neke,1.245.000,04-10-2006,Alm. Salg,12.450,4,Rækkehus,100,1830,,Aktuel værdi
+Brugsebakken 113740 Svaneke,neke,550.000,14-09-2006,Fam. Salg,4.661,4,Villa,118,1830,,Aktuel værdi
+Gryneparken 183740 Svaneke,neke,330.000,06-09-2006,Alm. Salg,1.520,5,Villa,217,2008,,Aktuel værdi
+Indenmarken 63740 Svaneke,neke,770.000,28-08-2006,Alm. Salg,6.525,3,Villa,118,1966,,Aktuel værdi
+Åvej 4A3740 Svaneke,neke,2.300.000,27-08-2006,Alm. Salg,24.731,4,Sommerhus,93,2004,,Aktuel værdi
+Mosedalsvej 73740 Svaneke,neke,1.875.000,23-08-2006,Alm. Salg,15.889,4,Sommerhus,118,1899,,Aktuel værdi
+Reberbanevej 103740 Svaneke,neke,1.185.000,01-08-2006,Alm. Salg,14.812,3,Villa,80,1818,,Aktuel værdi
+Møllebakken 33740 Svaneke,neke,2.100.000,27-07-2006,Alm. Salg,15.000,5,Villa,140,1944,,Aktuel værdi
+Hans Thygesensvej 403740 Svaneke,neke,2.800.000,13-07-2006,Alm. Salg,9.061,9,Villa,309,1881,,Aktuel værdi
+Søndergade 203740 Svaneke,neke,1.795.000,10-07-2006,Alm. Salg,9.808,6,Villa,183,1858,,Aktuel værdi
+Skolebakken 103740 Svaneke,neke,910.000,06-07-2006,Alm. Salg,7.459,4,Villa,122,1947,,Aktuel værdi
+Munken 103740 Svaneke,neke,1.125.000,03-07-2006,Alm. Salg,12.362,4,Rækkehus,91,1969,,Aktuel værdi
+Sommervej 2B3740 Svaneke,neke,185.705,27-06-2006,Fam. Salg,10.923,1,Sommerhus,17,1975,,
+Åvej 4C3740 Svaneke,neke,1.045.000,26-06-2006,Alm. Salg,18.660,3,Sommerhus,56,1969,,Aktuel værdi
+Bølshavn 563740 Svaneke,neke,714.000,23-06-2006,Fam. Salg,3.818,5,Stuehus,187,2011,,
+Vigebakke 33740 Svaneke,neke,575.000,20-06-2006,Alm. Salg,7.565,3,Villa,76,1851,,Aktuel værdi
+Skolekrogen 13740 Svaneke,neke,925.000,14-06-2006,Alm. Salg,5.891,5,Villa,157,1935,,Aktuel værdi
+Per Sørens Gade 33740 Svaneke,neke,1.800.000,06-06-2006,Alm. Salg,12.244,4,Villa,147,1925,,Aktuel værdi
+Sdr Aarsdalevej 83740 Svaneke,neke,1.050.000,02-05-2006,Alm. Salg,6.730,6,Stuehus,156,1914,,
+Bølshavn 13A3740 Svaneke,neke,2.022.000,02-05-2006,Alm. Salg,9.275,10,Villa,218,1955,,Aktuel værdi
+Sander Dichsgade 73740 Svaneke,neke,795.000,01-05-2006,Alm. Salg,-,3,Villa,89,1851,,Aktuel værdi
+Møllevej 33740 Svaneke,neke,1.150.000,24-04-2006,Alm. Salg,13.690,4,Villa,84,1850,,Aktuel værdi
+Norre Bakke 133740 Svaneke,neke,595.000,11-04-2006,Alm. Salg,6.839,4,Sommerhus,87,1950,,Aktuel værdi
+Aarsdalevej 653740 Svaneke,neke,1.400.000,07-04-2006,Alm. Salg,8.860,4,Villa,158,1926,,Aktuel værdi
+Storegade 263740 Svaneke,neke,995.000,16-03-2006,Alm. Salg,4.402,5,Rækkehus,226,1852,,Aktuel værdi
+Hellig Kilde 23740 Svaneke,neke,1.980.000,16-03-2006,Alm. Salg,-,5,Sommerhus,197,1852,,Aktuel værdi
+I Bakkerne 73740 Svaneke,neke,975.000,16-03-2006,Alm. Salg,8.863,3,Villa,110,1966,,Aktuel værdi
+Skolekrogen 23740 Svaneke,neke,216.666,08-03-2006,Fam. Salg,658,11,Villa,329,1910,,Aktuel værdi
+Tempelvej 1D3740 Svaneke,neke,995.000,03-03-2006,Alm. Salg,6.378,4,Villa,156,1982,,Aktuel værdi
+Gaden 63740 Svaneke,neke,795.000,01-03-2006,Alm. Salg,10.192,4,Villa,78,1907,,Aktuel værdi
+Møllebakken 4B3740 Svaneke,neke,925.000,23-02-2006,Alm. Salg,11.280,3,Villa,82,1946,,Aktuel værdi
+Strandstien 403740 Svaneke,neke,1.565.000,14-02-2006,Alm. Salg,20.592,3,Sommerhus,76,1877,,Aktuel værdi
+Indenmarken 83740 Svaneke,neke,850.000,01-02-2006,Alm. Salg,7.589,3,Villa,112,1979,,Aktuel værdi
+Østermarievej 93740 Svaneke,neke,835.000,19-01-2006,Fam. Salg,13.916,4,Sommerhus,60,1800,,Aktuel værdi
+Kirkevangen 33740 Svaneke,neke,1.375.000,17-01-2006,Alm. Salg,9.821,6,Rækkehus,140,1761,,Aktuel værdi
+Klippegade 13740 Svaneke,neke,773.500,01-01-2006,Fam. Salg,4.834,6,Sommerhus,160,1848,,Aktuel værdi
+Urmarken 313740 Svaneke,neke,2.145.000,23-12-2005,Alm. Salg,17.298,3,Villa,124,1981,,Aktuel værdi
+Kristiansens Løkke 33740 Svaneke,neke,615.000,20-12-2005,Alm. Salg,8.092,3,Villa,76,1962,,Aktuel værdi
+Duebakken 133740 Svaneke,neke,500.000,08-12-2005,Alm. Salg,15.151,3,Sommerhus,33,1962,,Aktuel værdi
+Pælevej 43740 Svaneke,neke,155.000,03-12-2005,Alm. Salg,786,6,Villa,197,2009,,Aktuel værdi
+Postgade 133740 Svaneke,neke,565.000,01-12-2005,Alm. Salg,4.248,5,Rækkehus,133,1818,,Aktuel værdi
+Borgergade 1B3740 Svaneke,neke,2.675.000,01-12-2005,Alm. Salg,9.762,12,Rækkehus,274,1765,,Aktuel værdi
+Strandvejen 133740 Svaneke,neke,750.000,20-11-2005,Fam. Salg,6.250,3,Villa,120,1951,,Aktuel værdi
+Skovstien 13740 Svaneke,neke,1.240.000,16-11-2005,Alm. Salg,6.231,5,Villa,199,1932,,Aktuel værdi
+Munken 2H3740 Svaneke,neke,985.000,09-11-2005,Alm. Salg,7.242,3,Villa,136,1964,,Aktuel værdi
+Degnebrovejen 103740 Svaneke,neke,1.250.000,09-11-2005,Alm. Salg,8.389,4,Villa,149,1897,,Aktuel værdi
+Helgolandsgade 7A3740 Svaneke,neke,810.000,20-10-2005,Andet,4.792,5,Villa,169,1860,,Aktuel værdi
+Gaden 143740 Svaneke,neke,645.000,14-10-2005,Alm. Salg,7.865,5,Villa,82,1892,,Aktuel værdi
+Ingemannsvej 4A3740 Svaneke,neke,900.000,13-10-2005,Alm. Salg,3.448,6,Villa,261,1900,,Aktuel værdi
+Svanebakken 123740 Svaneke,neke,2.475.000,12-10-2005,Alm. Salg,21.902,5,Sommerhus,113,2001,,Aktuel værdi
+Laksegade 63740 Svaneke,neke,875.000,12-10-2005,Alm. Salg,4.353,4,Villa,201,1777,,Aktuel værdi
+Møllebakken 1B3740 Svaneke,neke,1.000.000,03-10-2005,Alm. Salg,-,4,Villa,148,1944,,Aktuel værdi
+Pælevej 103740 Svaneke,neke,1.100.000,27-09-2005,Alm. Salg,7.432,6,Villa,148,1971,,Aktuel værdi
+Tuevej 33740 Svaneke,neke,650.000,16-09-2005,Fam. Salg,4.062,8,Sommerhus,160,1678,,Aktuel værdi
+Svanebakken 33740 Svaneke,neke,2.100.000,12-09-2005,Alm. Salg,17.647,5,Sommerhus,119,2001,,Aktuel værdi
+Søndergade 273740 Svaneke,neke,640.550,24-08-2005,Alm. Salg,3.202,8,Villa,200,1916,,Aktuel værdi
+Bølsbakke 203740 Svaneke,neke,895.000,23-08-2005,Alm. Salg,16.574,3,Sommerhus,54,1987,,Aktuel værdi
+Fiskergade 113740 Svaneke,neke,900.000,19-08-2005,Alm. Salg,6.293,5,Rækkehus,143,1900,,Aktuel værdi
+Albret Wolfsensgade 83740 Svaneke,neke,985.000,19-08-2005,Alm. Salg,6.523,6,Villa,151,1965,,Aktuel værdi
+Gryneparken 443740 Svaneke,neke,175.000,17-08-2005,Alm. Salg,875,5,Villa,200,2007,,Aktuel værdi
+Strandvejen 293740 Svaneke,neke,1.135.000,10-08-2005,Alm. Salg,9.956,5,Villa,114,1956,,Aktuel værdi
+Storegade 53740 Svaneke,neke,1.206.000,09-08-2005,Alm. Salg,12.060,4,Villa,100,1867,,Aktuel værdi
+Bølshavn 103740 Svaneke,neke,795.000,21-07-2005,Alm. Salg,6.853,4,Villa,116,1940,,Aktuel værdi
+Broløkke 13740 Svaneke,neke,1.285.000,20-07-2005,Alm. Salg,6.658,6,Villa,193,1981,,Aktuel værdi
+Gryneparken 143740 Svaneke,neke,995.000,12-07-2005,Alm. Salg,8.504,4,Villa,117,1980,,Aktuel værdi
+Gavlegade 93740 Svaneke,neke,650.000,08-07-2005,Alm. Salg,9.558,2,Villa,68,1800,,Aktuel værdi
+Nansensgade 13740 Svaneke,neke,1.400.000,07-07-2005,Alm. Salg,9.523,5,Rækkehus,147,1868,,Aktuel værdi
+Bølshavn 393740 Svaneke,neke,1.975.000,07-07-2005,Alm. Salg,16.458,4,Villa,120,1850,,Aktuel værdi
+Gaden 293740 Svaneke,neke,1.295.000,05-07-2005,Alm. Salg,6.573,9,Villa,197,1820,,Aktuel værdi
+Aarsdalevej 753740 Svaneke,neke,690.000,01-07-2005,Fam. Salg,3.709,3,Villa,186,1915,,Aktuel værdi
+I Bakkerne 103740 Svaneke,neke,760.000,30-06-2005,Fam. Salg,6.608,4,Villa,115,1966,,Aktuel værdi
+Kirkevangen 13740 Svaneke,neke,1.075.000,23-06-2005,Alm. Salg,8.143,4,Rækkehus,132,1815,,Aktuel værdi
+Vagtbodgade 113740 Svaneke,neke,1.790.000,20-06-2005,Alm. Salg,14.552,8,Villa,123,1926,,Aktuel værdi
+Degnebrovejen 83740 Svaneke,neke,980.000,01-06-2005,Fam. Salg,5.000,6,Stuehus,196,1800,,
+Møllebakken 203740 Svaneke,neke,816.000,26-05-2005,Fam. Salg,6.181,7,Villa,132,1934,,Aktuel værdi
+Indenmarken 13740 Svaneke,neke,1.295.000,06-05-2005,Alm. Salg,7.993,4,Villa,162,1982,,Aktuel værdi
+I Bakkerne 173740 Svaneke,neke,1.375.000,03-05-2005,Alm. Salg,11.853,3,Villa,116,1967,,Aktuel værdi
+Brøndstræde 1B3740 Svaneke,neke,585.000,26-04-2005,Alm. Salg,8.357,3,Villa,70,1889,,Aktuel værdi
+Møllebakken 21B3740 Svaneke,neke,895.000,25-04-2005,Andet,10.287,4,Sommerhus,87,1962,,Aktuel værdi
+Bølshavn 463740 Svaneke,neke,1.235.000,14-04-2005,Alm. Salg,10.040,5,Villa,123,1911,,Aktuel værdi
+Storegade 133740 Svaneke,neke,671.500,12-04-2005,Fam. Salg,5.739,5,Villa,117,1929,,Aktuel værdi
+Bølsbakke 93740 Svaneke,neke,250.000,28-03-2005,Alm. Salg,3.968,3,Sommerhus,63,2015,,Aktuel værdi
+Kristiansens Løkke 13740 Svaneke,neke,1.295.000,01-03-2005,Alm. Salg,14.550,3,Villa,89,1954,,Aktuel værdi
+Møllebakken 183740 Svaneke,neke,1.075.000,20-02-2005,Alm. Salg,11.944,3,Sommerhus,90,1957,,Aktuel værdi
+Albret Wolfsensgade 183740 Svaneke,neke,605.000,17-02-2005,Alm. Salg,7.289,2,Villa,83,1968,,Aktuel værdi
+Havnebakken 43740 Svaneke,neke,584.682,12-01-2005,Andet,3.143,7,Villa,186,1877,,Aktuel værdi
+Nørrevang 53740 Svaneke,neke,1.426.125,30-12-2004,Alm. Salg,8.488,5,Villa,168,1972,,Aktuel værdi
+Gaden 23740 Svaneke,neke,1.400.000,22-12-2004,Alm. Salg,13.461,4,Villa,104,1920,,Aktuel værdi
+Laksegade 13740 Svaneke,neke,400.000,20-12-2004,Andet,-,3,Rækkehus,138,1900,,Aktuel værdi
+Bølshavnvej 63740 Svaneke,neke,1.317.500,08-12-2004,Fam. Salg,9.278,6,Stuehus,142,1930,,
+Byfogedvej 13740 Svaneke,neke,301.000,06-12-2004,Auktion,1.567,5,Villa,192,1923,,Aktuel værdi
+Møllevej 63740 Svaneke,neke,680.000,02-12-2004,Alm. Salg,5.230,5,Villa,130,1870,,Aktuel værdi
+Henrik Hansensgade 153740 Svaneke,neke,1.200.000,02-12-2004,Alm. Salg,10.810,4,Villa,111,1858,,Aktuel værdi
+Bølshavn 283740 Svaneke,neke,688.500,01-12-2004,Fam. Salg,5.834,4,Sommerhus,118,1828,,Aktuel værdi
+Skippergade 33740 Svaneke,neke,1.500.000,28-10-2004,Alm. Salg,8.064,3,Villa,186,1900,,Aktuel værdi
+Gryneparken 2C3740 Svaneke,neke,925.000,01-10-2004,Alm. Salg,6.208,3,Villa,149,1981,,Aktuel værdi
+Bølshavn 18C3740 Svaneke,neke,350.000,22-09-2004,Fam. Salg,5.555,2,Sommerhus,63,2001,,Aktuel værdi
+Paradisbakkevejen 43740 Svaneke,neke,2.212.500,05-08-2004,Fam. Salg,12.429,8,Stuehus,178,1860,,
+Askelundsvej 323740 Svaneke,neke,300.000,29-07-2004,Fam. Salg,4.000,4,Sommerhus,75,1981,,Aktuel værdi
+Byledsbakke 23740 Svaneke,neke,570.000,25-07-2004,Alm. Salg,5.229,4,Villa,109,1842,,Aktuel værdi
+Kirkevej 113740 Svaneke,neke,930.000,25-07-2004,Alm. Salg,-,5,Villa,150,1903,,Aktuel værdi
+Albret Wolfsensgade 193740 Svaneke,neke,895.000,15-07-2004,Alm. Salg,6.392,6,Villa,140,1967,,Aktuel værdi
+Gaden 253740 Svaneke,neke,998.000,15-07-2004,Alm. Salg,4.620,11,Villa,216,1877,,Aktuel værdi
+Søndergade 93740 Svaneke,neke,1.185.000,30-06-2004,Alm. Salg,7.645,7,Villa,155,1859,,Aktuel værdi
+Mosedalsvej 133740 Svaneke,neke,635.000,26-06-2004,Alm. Salg,6.047,3,Villa,105,1896,,Aktuel værdi
+Fiskergade 73740 Svaneke,neke,698.000,12-06-2004,Alm. Salg,6.176,4,Rækkehus,113,1900,,Aktuel værdi
+Østermarievej 113740 Svaneke,neke,995.000,10-06-2004,Alm. Salg,6.337,6,Villa,157,1923,,Aktuel værdi
+Svanekevej 693740 Svaneke,neke,1.400.000,26-05-2004,Alm. Salg,4.946,4,Sommerhus,283,1870,,Aktuel værdi
+Pælevej 93740 Svaneke,neke,995.000,24-05-2004,Alm. Salg,6.141,5,Villa,162,1978,,Aktuel værdi
+Askelundsvej 13740 Svaneke,neke,995.000,14-05-2004,Fam. Salg,14.850,2,Sommerhus,67,2003,,Aktuel værdi
+Lindevej 23740 Svaneke,neke,735.000,13-05-2004,Alm. Salg,7.350,3,Villa,100,1867,,Aktuel værdi
+Askelundsvej 233740 Svaneke,neke,610.000,01-05-2004,Alm. Salg,10.000,4,Sommerhus,61,1980,,Aktuel værdi
+Duebakken 63740 Svaneke,neke,120.000,01-05-2004,Fam. Salg,2.307,2,Sommerhus,52,1962,,Aktuel værdi
+Bølshavn 43740 Svaneke,neke,2.300.000,30-04-2004,Alm. Salg,11.675,7,Sommerhus,197,1935,,Aktuel værdi
+Gaden 273740 Svaneke,neke,800.000,26-04-2004,Alm. Salg,5.128,7,Villa,156,1850,,Aktuel værdi
+Oluf Høstgade 63740 Svaneke,neke,845.000,26-03-2004,Alm. Salg,10.833,4,Villa,78,1899,,Aktuel værdi
+Aarsdalevej 773740 Svaneke,neke,765.200,12-03-2004,Alm. Salg,7.501,3,Villa,102,1900,,Aktuel værdi
+Bølsbakke 183740 Svaneke,neke,725.000,04-03-2004,Alm. Salg,8.055,6,Sommerhus,90,1962,,Aktuel værdi
+Gryneparken 63740 Svaneke,neke,1.025.000,01-03-2004,Alm. Salg,8.686,4,Villa,118,1988,,Aktuel værdi
+Bølshavnvej 53740 Svaneke,neke,837.500,11-02-2004,Alm. Salg,3.101,13,Stuehus,270,1748,,
+Dyrlæge Jürgensensgade 53740 Svaneke,neke,1.235.000,10-02-2004,Alm. Salg,5.416,7,Villa,228,1973,,Aktuel værdi
+Vagtbodgade 1A3740 Svaneke,neke,1.150.000,26-01-2004,Alm. Salg,7.371,4,Villa,156,1974,,Aktuel værdi
+Østermarievej 73740 Svaneke,neke,356.500,22-12-2003,Fam. Salg,4.244,4,Villa,84,1911,,Aktuel værdi
+Lillehøjsvej 63740 Svaneke,neke,977.500,16-12-2003,Fam. Salg,8.078,6,Stuehus,121,1911,,
+Østergade 63740 Svaneke,neke,1.247.000,05-12-2003,Alm. Salg,10.658,3,Villa,117,1898,,Aktuel værdi
+Byfogedbakken 4A3740 Svaneke,neke,1.020.484,04-12-2003,Alm. Salg,-,3,Lejlighed,101,1967,,Aktuel værdi
+"Borgergade 7, 13740 Svaneke",neke,930.000,28-11-2003,Alm. Salg,-,3,Lejlighed,77,1967,,Aktuel værdi
+"Borgergade 9, ST3740 Svaneke",neke,895.000,28-11-2003,Alm. Salg,-,3,Lejlighed,88,1967,,Aktuel værdi
+"Borgergade 7, ST3740 Svaneke",neke,995.000,30-10-2003,Alm. Salg,-,3,Lejlighed,108,1967,,Aktuel værdi
+Gaden 223740 Svaneke,neke,650.000,24-10-2003,Alm. Salg,3.403,6,Villa,191,1850,,Aktuel værdi
+Svanekevej 383740 Svaneke,neke,580.000,10-10-2003,Alm. Salg,2.566,6,Villa,226,1921,,Aktuel værdi
+Hans Thygesensvej 33740 Svaneke,neke,975.000,07-10-2003,Alm. Salg,11.206,2,Rækkehus,87,1907,,Aktuel værdi
+Stengade 73740 Svaneke,neke,445.000,25-09-2003,Alm. Salg,6.449,4,Rækkehus,69,1898,,Aktuel værdi
+Kirkevangen 193740 Svaneke,neke,985.000,09-09-2003,Alm. Salg,8.277,4,Villa,119,1986,,Aktuel værdi
+I Bakkerne 153740 Svaneke,neke,950.000,28-08-2003,Alm. Salg,8.878,5,Villa,107,1980,,Aktuel værdi
+Lille Plads 43740 Svaneke,neke,399.000,19-08-2003,Fam. Salg,3.381,3,Villa,118,1930,,Aktuel værdi
+Tempelvej 1C3740 Svaneke,neke,775.000,14-07-2003,Alm. Salg,10.064,2,Villa,77,2003,,Aktuel værdi
+Strandvejen 263740 Svaneke,neke,1.000.000,10-07-2003,Alm. Salg,8.547,4,Villa,117,1935,,Aktuel værdi
+Aarsdale Kirkevej 83740 Svaneke,neke,1.650.000,09-07-2003,Alm. Salg,9.763,6,Stuehus,169,1850,,
+Hans Thygesensvej 283740 Svaneke,neke,595.000,03-07-2003,Alm. Salg,4.375,5,Villa,136,1909,,Aktuel værdi
+Hans Thygesensvej 263740 Svaneke,neke,560.000,05-05-2003,Alm. Salg,4.307,4,Villa,130,1932,,Aktuel værdi
+Reberbanevej 113740 Svaneke,neke,1.185.000,14-04-2003,Alm. Salg,8.464,4,Rækkehus,140,1777,,Aktuel værdi
+Lille Plads 23740 Svaneke,neke,780.000,07-04-2003,Alm. Salg,5.032,4,Villa,155,1761,,Aktuel værdi
+Aarsdalevej 673740 Svaneke,neke,910.000,20-03-2003,Alm. Salg,4.789,5,Villa,190,1925,,Aktuel værdi
+Per Jørns Vej 83740 Svaneke,neke,900.000,08-03-2003,Alm. Salg,7.200,4,Rækkehus,125,1812,,Aktuel værdi
+Gaden 443740 Svaneke,neke,722.500,18-02-2003,Fam. Salg,4.515,8,Stuehus,160,1877,,
+Gaden 83740 Svaneke,neke,425.000,07-02-2003,Alm. Salg,2.852,5,Villa,149,1890,,Aktuel værdi
+Møllebakken 293740 Svaneke,neke,695.000,04-02-2003,Alm. Salg,6.096,4,Villa,114,1893,,Aktuel værdi
+Bølshavn 8A3740 Svaneke,neke,725.000,30-01-2003,Alm. Salg,8.430,4,Sommerhus,86,1964,,Aktuel værdi
+Åvej 63740 Svaneke,neke,107.000,27-12-2002,Fam. Salg,1.244,4,Sommerhus,86,2010,,Aktuel værdi
+Kodalsvejen 23740 Svaneke,neke,545.000,16-12-2002,Alm. Salg,3.187,6,Villa,171,1863,,Aktuel værdi
+Pælevej 73740 Svaneke,neke,965.000,09-12-2002,Alm. Salg,5.676,7,Villa,170,1969,,Aktuel værdi
+Mosedalsvej 363740 Svaneke,neke,825.000,08-12-2002,Fam. Salg,8.593,4,Sommerhus,96,1946,,Aktuel værdi
+Strandvejen 113740 Svaneke,neke,650.000,06-12-2002,Fam. Salg,9.285,2,Sommerhus,70,1953,,Aktuel værdi
+I Pilene 73740 Svaneke,neke,824.471,21-11-2002,Andet,6.245,5,Villa,132,1898,,Aktuel værdi
+Mosedalsvej 43740 Svaneke,neke,945.000,02-11-2002,Alm. Salg,6.517,5,Villa,145,1927,,Aktuel værdi
+Åvej 33740 Svaneke,neke,150.000,01-11-2002,Alm. Salg,1.875,4,Sommerhus,80,1940,,Aktuel værdi
+Vagtbodgade 153740 Svaneke,neke,556.707,29-10-2002,Fam. Salg,6.255,4,Villa,89,1959,,Aktuel værdi
+"Svaneke Torv 8, 13740 Svaneke",neke,1.300.000,21-10-2002,Fam. Salg,5.531,6,Lejlighed,235,1880,,Aktuel værdi
+Albret Wolfsensgade 43740 Svaneke,neke,865.000,10-10-2002,Alm. Salg,6.811,3,Villa,127,1965,,Aktuel værdi
+I Bakkerne 283740 Svaneke,neke,685.000,09-10-2002,Alm. Salg,5.756,3,Villa,119,1979,,Aktuel værdi
+Reberbanevej 153740 Svaneke,neke,1.065.000,16-09-2002,Alm. Salg,7.661,7,Villa,139,1961,,Aktuel værdi
+Norre Bakke 123740 Svaneke,neke,660.000,16-09-2002,Alm. Salg,5.196,4,Villa,127,1972,,Aktuel værdi
+Bølshavn 18A3740 Svaneke,neke,637.000,10-09-2002,Alm. Salg,-,3,Villa,107,1850,,Aktuel værdi
+Brugsebakken 63740 Svaneke,neke,550.000,19-08-2002,Alm. Salg,6.962,4,Rækkehus,79,1910,,Aktuel værdi
+Møllebakken 7B3740 Svaneke,neke,1.425.000,17-08-2002,Alm. Salg,6.884,6,Villa,207,1956,,Aktuel værdi
+Hans Thygesensvej 273740 Svaneke,neke,200.000,16-08-2002,Alm. Salg,1.709,4,Villa,117,1880,,Aktuel værdi
+Skovstien 33740 Svaneke,neke,168.300,08-08-2002,Fam. Salg,2.244,3,Sommerhus,75,1870,,Aktuel værdi
+Sander Dichsgade 53740 Svaneke,neke,950.000,07-08-2002,Alm. Salg,5.654,7,Villa,168,1870,,Aktuel værdi
+Duebakken 173740 Svaneke,neke,325.000,09-07-2002,Alm. Salg,10.156,3,Sommerhus,32,1962,,Aktuel værdi
+Kirkepladsen 53740 Svaneke,neke,1.200.000,17-06-2002,Alm. Salg,5.911,12,Villa,203,1850,,Aktuel værdi
+Degnebrovejen 13740 Svaneke,neke,1.050.000,17-06-2002,Fam. Salg,3.201,12,Stuehus,328,1877,,
+Degnebrovejen 33740 Svaneke,neke,1.000.000,17-06-2002,Fam. Salg,3.968,11,Stuehus,252,1926,,
+Aarsdale Kirkevej 63740 Svaneke,neke,925.000,17-06-2002,Alm. Salg,7.170,4,Villa,129,1821,,Aktuel værdi
+Svanebakken 23740 Svaneke,neke,1.305.000,10-06-2002,Alm. Salg,11.447,5,Sommerhus,114,2001,,Aktuel værdi
+Vestergade 83740 Svaneke,neke,800.000,04-06-2002,Alm. Salg,6.956,3,Rækkehus,115,1910,,Aktuel værdi
+Hans Thygesensvej 323740 Svaneke,neke,365.000,17-05-2002,Alm. Salg,2.625,4,Villa,139,1926,,Aktuel værdi
+Norre Næbbe 43740 Svaneke,neke,95.000,15-05-2002,Alm. Salg,650,4,Villa,146,2007,,Aktuel værdi
+Brugsebakken 123740 Svaneke,neke,560.000,07-05-2002,Alm. Salg,6.746,3,Villa,83,1870,,Aktuel værdi
+Elverhøj 23740 Svaneke,neke,1.300.000,25-04-2002,Alm. Salg,8.843,4,Sommerhus,147,1991,,Aktuel værdi
+Gaden 33740 Svaneke,neke,510.000,15-04-2002,Alm. Salg,7.846,4,Villa,65,1800,,Aktuel værdi
+Bølshavn 53740 Svaneke,neke,244.798,13-04-2002,Alm. Salg,4.533,2,Sommerhus,54,1938,,Aktuel værdi
+Skarvigen 113740 Svaneke,neke,1.100.000,11-04-2002,Alm. Salg,8.148,5,Villa,135,1827,,Aktuel værdi
+Mosedalsvej 213740 Svaneke,neke,718.663,03-04-2002,Alm. Salg,4.956,5,Villa,145,1847,,Aktuel værdi
+Kirkevangen 153740 Svaneke,neke,480.000,25-03-2002,Alm. Salg,-,3,Villa,108,1800,,Aktuel værdi
+Aarsdalevej 323740 Svaneke,neke,1.075.000,25-03-2002,Alm. Salg,7.904,5,Villa,136,1950,,Aktuel værdi
+Postgade 43740 Svaneke,neke,1.102.000,02-03-2002,Alm. Salg,5.009,5,Villa,220,1900,,Aktuel værdi
+Mosedalsvej 293740 Svaneke,neke,450.000,28-01-2002,Alm. Salg,6.428,3,Sommerhus,70,1950,,Aktuel værdi
+Hans Thygesensvej 113740 Svaneke,neke,376.000,25-01-2002,Alm. Salg,4.000,5,Villa,94,1913,,Aktuel værdi
+Oluf Høstgade 163740 Svaneke,neke,1.200.000,15-01-2002,Alm. Salg,12.500,4,Villa,96,1939,,Aktuel værdi
+Askelundsvej 273740 Svaneke,neke,413.660,31-12-2001,Alm. Salg,15.910,2,Sommerhus,26,2000,,Aktuel værdi
+Højevejen 13740 Svaneke,neke,450.000,20-12-2001,Fam. Salg,2.054,5,Stuehus,219,2002,,
+Møllebakken 21D3740 Svaneke,neke,405.000,14-12-2001,Alm. Salg,10.125,3,Sommerhus,40,1962,,Aktuel værdi
+Gavlegade 43740 Svaneke,neke,414.000,10-12-2001,Fam. Salg,5.520,4,Sommerhus,75,1727,,Aktuel værdi
+Henrik Hansensgade 53740 Svaneke,neke,425.000,10-12-2001,Andet,5.519,5,Rækkehus,77,1861,,Aktuel værdi
+Kirkevangen 113740 Svaneke,neke,500.000,04-12-2001,Alm. Salg,8.771,3,Rækkehus,57,1889,,Aktuel værdi
+Vestergade 143740 Svaneke,neke,685.000,29-11-2001,Alm. Salg,5.708,5,Villa,120,1862,,Aktuel værdi
+Strandstien 63740 Svaneke,neke,510.000,10-11-2001,Fam. Salg,3.000,3,Villa,170,1800,,Aktuel værdi
+Aarsdale Kirkevej 33740 Svaneke,neke,2.238.467,22-10-2001,Alm. Salg,9.648,6,Stuehus,232,1827,,
+Munken 63740 Svaneke,neke,645.000,16-10-2001,Alm. Salg,7.087,4,Rækkehus,91,1969,,Aktuel værdi
+Albret Wolfsensgade 153740 Svaneke,neke,905.167,01-10-2001,Alm. Salg,6.465,4,Villa,140,1967,,Aktuel værdi
+Duebakken 33740 Svaneke,neke,300.000,27-09-2001,Alm. Salg,3.750,5,Sommerhus,80,1962,,Aktuel værdi
+Indenmarken 23740 Svaneke,neke,1.060.000,03-09-2001,Alm. Salg,7.517,4,Villa,141,1900,,Aktuel værdi
+Bagergade 13740 Svaneke,neke,615.000,29-08-2001,Alm. Salg,5.540,3,Rækkehus,111,1856,,Aktuel værdi
+Askelundsvej 123740 Svaneke,neke,138.000,07-08-2001,Alm. Salg,1.725,3,Sommerhus,80,2009,,Aktuel værdi
+Albret Wolfsensgade 133740 Svaneke,neke,535.000,23-07-2001,Alm. Salg,5.350,4,Villa,100,1966,,Aktuel værdi
+Gavlegade 173740 Svaneke,neke,1.350.000,12-07-2001,Alm. Salg,7.758,5,Villa,174,1890,,Aktuel værdi
+Hans Thygesensvej 13740 Svaneke,neke,285.158,27-06-2001,Alm. Salg,2.851,5,Rækkehus,100,1907,,Aktuel værdi
+Gaden 373740 Svaneke,neke,386.000,21-06-2001,Alm. Salg,3.477,3,Villa,111,1890,,Aktuel værdi
+Bølsbakke 193740 Svaneke,neke,591.518,04-06-2001,Alm. Salg,7.583,3,Sommerhus,78,2005,,Aktuel værdi
+Byfogedbakken 33740 Svaneke,neke,774.445,18-05-2001,Alm. Salg,6.050,5,Villa,128,1920,,Aktuel værdi
+Dyrlæge Jürgensensgade 143740 Svaneke,neke,420.000,14-05-2001,Alm. Salg,7.924,3,Sommerhus,53,1958,,Aktuel værdi
+Svanebakken 13740 Svaneke,neke,1.290.000,24-04-2001,Alm. Salg,11.120,6,Sommerhus,116,2001,,Aktuel værdi
+Hans Thygesensvej 73740 Svaneke,neke,466.000,20-04-2001,Alm. Salg,4.438,4,Villa,105,1914,,Aktuel værdi
+Borgergade 83740 Svaneke,neke,649.520,02-04-2001,Alm. Salg,6.245,4,Villa,104,1853,,Aktuel værdi
+Svanebakken 73740 Svaneke,neke,1.290.000,29-03-2001,Alm. Salg,11.834,5,Sommerhus,109,2001,,Aktuel værdi
+Svanebakken 53740 Svaneke,neke,1.290.000,25-03-2001,Alm. Salg,11.834,5,Sommerhus,109,2001,,Aktuel værdi
+Sommervej 2C3740 Svaneke,neke,550.000,18-03-2001,Fam. Salg,6.179,4,Sommerhus,89,1967,,Aktuel værdi
+Strandvejen 183740 Svaneke,neke,850.000,16-03-2001,Alm. Salg,5.345,5,Villa,159,1935,,Aktuel værdi
+Højevejen 23740 Svaneke,neke,3.000.000,06-02-2001,Alm. Salg,10.380,15,Stuehus,289,1765,,
+Urmarken 23740 Svaneke,neke,875.000,31-01-2001,Alm. Salg,7.608,4,Villa,115,1971,,Aktuel værdi
+Vigebakke 63740 Svaneke,neke,461.000,11-01-2001,Auktion,3.269,4,Villa,141,1896,,Aktuel værdi
+Strandvejen 243740 Svaneke,neke,400.000,01-01-2001,Fam. Salg,3.703,5,Villa,108,1937,,Aktuel værdi
+Dyrlæge Jürgensensgade 33740 Svaneke,neke,1.122.480,12-12-2000,Alm. Salg,6.414,8,Villa,175,1973,,Aktuel værdi
+Mosedalsvej 13740 Svaneke,neke,310.000,08-12-2000,Fam. Salg,3.100,3,Rækkehus,100,1700,,Aktuel værdi
+Svanebakken 103740 Svaneke,neke,1.290.000,27-11-2000,Alm. Salg,11.621,5,Sommerhus,111,2001,,Aktuel værdi
+Norre Bakke 163740 Svaneke,neke,1.369.684,20-11-2000,Alm. Salg,7.133,4,Villa,192,1982,,Aktuel værdi
+Østermarievej 63740 Svaneke,neke,575.000,16-11-2000,Alm. Salg,2.637,10,Villa,218,1707,,Aktuel værdi
+I Bakkerne 133740 Svaneke,neke,150.000,23-10-2000,Alm. Salg,949,5,Villa,158,2008,,Aktuel værdi
+Vestergade 253740 Svaneke,neke,480.000,02-10-2000,Alm. Salg,7.164,2,Rækkehus,67,1791,,Aktuel værdi
+Hellig Kilde 5B3740 Svaneke,neke,350.000,30-09-2000,Alm. Salg,-,3,Villa,190,1892,,Aktuel værdi
+Bølshavn 73740 Svaneke,neke,561.000,29-09-2000,Fam. Salg,7.901,3,Sommerhus,71,1920,,Aktuel værdi
+Elmevej 33740 Svaneke,neke,760.000,26-09-2000,Alm. Salg,8.000,4,Villa,95,1853,,Aktuel værdi
+Askelundsvej 163740 Svaneke,neke,138.000,23-09-2000,Alm. Salg,-,2,Sommerhus,41,2001,,Aktuel værdi
+Korshøje 53740 Svaneke,neke,60.000,21-09-2000,Alm. Salg,276,8,Stuehus,217,1900,,
+Laksegade 123740 Svaneke,neke,1.250.000,11-09-2000,Alm. Salg,14.534,3,Villa,86,1890,,Aktuel værdi
+Gryneparken 163740 Svaneke,neke,59.605,08-06-2000,Alm. Salg,441,4,Villa,135,2000,,Aktuel værdi
+Mosedalsvej 183740 Svaneke,neke,540.360,15-05-2000,Alm. Salg,4.002,5,Rækkehus,135,1847,,Aktuel værdi
+Søndergade 63740 Svaneke,neke,800.000,15-05-2000,Alm. Salg,4.571,8,Villa,175,1850,,Aktuel værdi
+I Pilene 13740 Svaneke,neke,325.000,01-05-2000,Alm. Salg,4.850,2,Rækkehus,67,1781,,Aktuel værdi
+Urmarken 333740 Svaneke,neke,1.619.000,19-04-2000,Alm. Salg,9.753,6,Villa,166,1978,,Aktuel værdi
+Klippegade 63740 Svaneke,neke,250.000,19-04-2000,Alm. Salg,6.250,2,Rækkehus,40,1831,,Aktuel værdi
+Albret Wolfsensgade 143740 Svaneke,neke,594.260,03-04-2000,Alm. Salg,5.212,4,Villa,114,1966,,Aktuel værdi
+Gryneparken 83740 Svaneke,neke,60.000,20-03-2000,Alm. Salg,491,4,Villa,122,2000,,Aktuel værdi
+Tempelvej 53740 Svaneke,neke,465.000,16-03-2000,Alm. Salg,3.811,3,Villa,122,1905,,Aktuel værdi
+Askelundsvej 103740 Svaneke,neke,252.000,13-03-2000,Alm. Salg,-,3,Sommerhus,72,1957,,Aktuel værdi
+Askelundsvej 83740 Svaneke,neke,264.000,07-02-2000,Alm. Salg,5.866,3,Sommerhus,45,1956,,Aktuel værdi
+Vagtbodgade 133740 Svaneke,neke,850.000,03-02-2000,Alm. Salg,5.151,7,Villa,165,1915,,Aktuel værdi
+Askelundsvej 143740 Svaneke,neke,138.000,24-01-2000,Alm. Salg,1.703,3,Sommerhus,81,2001,,Aktuel værdi
+Lakseruten 223740 Svaneke,neke,246.000,23-01-2000,Fam. Salg,4.315,3,Lejlighed,57,1900,,Aktuel værdi
+Bølshavn 513740 Svaneke,neke,391.000,31-12-1999,Alm. Salg,5.012,3,Sommerhus,78,1928,,Aktuel værdi
+Bølshavn 503740 Svaneke,neke,300.000,17-12-1999,Alm. Salg,2.542,7,Sommerhus,118,1930,,Aktuel værdi
+Storegade 203740 Svaneke,neke,475.000,13-12-1999,Andet,3.598,4,Villa,132,1908,,Aktuel værdi
+Skarvigen 103740 Svaneke,neke,550.000,13-12-1999,Alm. Salg,6.790,2,Villa,81,1900,,Aktuel værdi
+Askelundsvej 303740 Svaneke,neke,625.000,13-12-1999,Alm. Salg,8.116,4,Sommerhus,77,1988,,Aktuel værdi
+Byfogedvej 83740 Svaneke,neke,153.000,13-12-1999,Fam. Salg,1.610,2,Villa,95,1877,,Aktuel værdi
+Strandstien 43740 Svaneke,neke,500.000,13-12-1999,Alm. Salg,3.703,4,Villa,135,1914,,Aktuel værdi
+Laksegade 183740 Svaneke,neke,1.300.000,28-11-1999,Alm. Salg,8.024,4,Villa,162,1801,,Aktuel værdi
+Laksegade 43740 Svaneke,neke,221.000,22-11-1999,Alm. Salg,-,4,Villa,150,1880,,Aktuel værdi
+Møllebakken 2B3740 Svaneke,neke,712.000,08-11-1999,Alm. Salg,5.085,3,Villa,140,1927,,Aktuel værdi
+Møllevej 83740 Svaneke,neke,900.000,03-11-1999,Alm. Salg,7.964,5,Villa,113,1800,,Aktuel værdi
+Skovgade 1B3740 Svaneke,neke,501.500,03-11-1999,Fam. Salg,7.485,2,Sommerhus,67,1761,,Aktuel værdi
+Gaden 353740 Svaneke,neke,350.000,15-10-1999,Alm. Salg,3.500,3,Rækkehus,100,1827,,Aktuel værdi
+Østergade 83740 Svaneke,neke,460.000,11-10-1999,Alm. Salg,4.791,4,Villa,96,1880,,Aktuel værdi
+Gryneparken 323740 Svaneke,neke,1.030.000,11-10-1999,Alm. Salg,6.866,5,Villa,150,1988,,Aktuel værdi
+Emil Andersens Gade 43740 Svaneke,neke,800.000,26-09-1999,Alm. Salg,3.433,8,Rækkehus,233,1890,,Aktuel værdi
+Bølshavn 383740 Svaneke,neke,650.000,25-09-1999,Alm. Salg,7.558,3,Sommerhus,86,1778,,Aktuel værdi
+Ibskervej 413740 Svaneke,neke,960.000,18-08-1999,Alm. Salg,4.229,7,Villa,227,1850,,Aktuel værdi
+Hans Thygesensvej 463740 Svaneke,neke,585.000,02-08-1999,Alm. Salg,3.145,9,Villa,186,1930,,Aktuel værdi
+Hans Thygesensvej 603740 Svaneke,neke,250.000,12-07-1999,Alm. Salg,3.246,2,Villa,77,1938,,Aktuel værdi
+Elmevej 23740 Svaneke,neke,630.000,21-06-1999,Alm. Salg,4.256,6,Villa,148,1904,,Aktuel værdi
+Elmevej 63740 Svaneke,neke,436.600,21-06-1999,Alm. Salg,-,4,Villa,109,1878,,Aktuel værdi
+Urmarken 83740 Svaneke,neke,588.000,14-06-1999,Alm. Salg,5.394,4,Villa,109,1959,,Aktuel værdi
+Askelundsvej 53740 Svaneke,neke,255.000,06-06-1999,Fam. Salg,4.473,3,Sommerhus,57,1978,,Aktuel værdi
+Vagtbodgade 43740 Svaneke,neke,429.000,31-05-1999,Alm. Salg,4.766,4,Villa,90,1928,,Aktuel værdi
+Munken 33740 Svaneke,neke,422.000,23-04-1999,Alm. Salg,-,4,Villa,159,1875,,Aktuel værdi
+Laksegade 163740 Svaneke,neke,1.214.000,29-03-1999,Alm. Salg,5.079,7,Villa,239,1770,,Aktuel værdi
+Borgergade 63740 Svaneke,neke,307.880,10-03-1999,Alm. Salg,3.622,3,Villa,85,1800,,Aktuel værdi
+Nørregårdsvejen 23740 Svaneke,neke,2.951.728,11-02-1999,Alm. Salg,10.772,10,Stuehus,274,1800,,
+Norre Bakke 53740 Svaneke,neke,612.000,08-02-1999,Alm. Salg,6.000,5,Villa,102,1962,,Aktuel værdi
+Madvigsgade 123740 Svaneke,neke,1.115.000,04-02-1999,Alm. Salg,8.511,3,Villa,131,1897,,Aktuel værdi
+I Bakkerne 16D3740 Svaneke,neke,713.000,01-02-1999,Alm. Salg,7.350,3,Villa,97,1984,,Aktuel værdi
+Helgolandsgade 33740 Svaneke,neke,578.200,15-01-1999,Alm. Salg,6.151,3,Villa,94,1916,,Aktuel værdi
+Lakseruten 33740 Svaneke,neke,379.000,04-01-1999,Alm. Salg,2.493,6,Villa,152,1858,,Aktuel værdi
+Albret Wolfsensgade 13740 Svaneke,neke,870.000,04-01-1999,Fam. Salg,4.531,7,Villa,192,1965,,Aktuel værdi
+Degnebrovejen 93740 Svaneke,neke,200.000,07-12-1998,Alm. Salg,1.470,4,Villa,136,1932,,Aktuel værdi
+Bølshavn 29C3740 Svaneke,neke,1.181.000,07-12-1998,Alm. Salg,6.634,5,Villa,178,1979,,Aktuel værdi
+Lindholmsvej 43740 Svaneke,neke,519.000,23-09-1998,Alm. Salg,3.873,3,Stuehus,134,1925,,
+Askelundsvej 113740 Svaneke,neke,505.000,21-09-1998,Alm. Salg,8.145,4,Sommerhus,62,1984,,Aktuel værdi
+Strandstien 203740 Svaneke,neke,300.000,07-09-1998,Alm. Salg,5.172,3,Sommerhus,58,1960,,Aktuel værdi
+Strandstien 343740 Svaneke,neke,46.000,03-08-1998,Fam. Salg,707,5,Sommerhus,65,1850,,Aktuel værdi
+Hellig Kilde 43740 Svaneke,neke,170.000,26-06-1998,Alm. Salg,1.931,6,Sommerhus,88,1837,,Aktuel værdi
+Brøddan 43740 Svaneke,neke,100.000,29-05-1998,Alm. Salg,531,7,Villa,188,1867,,Aktuel værdi
+Mosedalsvej 33740 Svaneke,neke,590.000,18-05-1998,Alm. Salg,4.503,4,Sommerhus,131,1827,,Aktuel værdi
+Aarsdalevej 793740 Svaneke,neke,342.757,11-05-1998,Alm. Salg,3.533,3,Villa,97,1900,,Aktuel værdi
+Bølshavn 623740 Svaneke,neke,285.000,06-05-1998,Fam. Salg,2.261,6,Sommerhus,126,1923,,Aktuel værdi
+Møllebakken 2A3740 Svaneke,neke,910.920,03-04-1998,Alm. Salg,4.769,7,Villa,191,1959,,Aktuel værdi
+Søndergade 233740 Svaneke,neke,435.000,02-04-1998,Alm. Salg,-,7,Villa,155,1910,,Aktuel værdi
+Fiskergade 43740 Svaneke,neke,384.120,30-03-1998,Alm. Salg,4.221,3,Villa,91,1913,,Aktuel værdi
+Ingemannsvej 83740 Svaneke,neke,535.000,19-03-1998,Alm. Salg,3.933,3,Villa,136,1975,,Aktuel værdi
+Korshøje 33740 Svaneke,neke,87.500,02-03-1998,Alm. Salg,3.645,1,Sommerhus,24,1947,,Aktuel værdi
+Søndergade 343740 Svaneke,neke,648.000,04-01-1998,Alm. Salg,6.415,6,Villa,101,1916,,Aktuel værdi
+Elverhøj 33740 Svaneke,neke,150.000,29-12-1997,Alm. Salg,1.304,5,Sommerhus,115,2007,,Aktuel værdi
+Søndergade 403740 Svaneke,neke,473.000,28-12-1997,Alm. Salg,2.515,5,Villa,188,1952,,Aktuel værdi
+Bølshavn 313740 Svaneke,neke,340.000,22-12-1997,Fam. Salg,3.400,6,Sommerhus,100,1957,,Aktuel værdi
+Skovgade 73740 Svaneke,neke,249.500,08-12-1997,Alm. Salg,-,4,Villa,120,1850,,Aktuel værdi
+Albret Wolfsensgade 203740 Svaneke,neke,545.000,04-11-1997,Alm. Salg,5.000,4,Villa,109,1967,,Aktuel værdi
+Korshøje 83740 Svaneke,neke,250.000,02-10-1997,Alm. Salg,2.016,5,Villa,124,1909,,Aktuel værdi
+Storegade 443740 Svaneke,neke,563.400,01-10-1997,Alm. Salg,-,4,Villa,147,1925,,Aktuel værdi
+Storegade 193740 Svaneke,neke,660.000,29-09-1997,Alm. Salg,4.714,3,Villa,140,1781,,Aktuel værdi
+Helgolandsgade 43740 Svaneke,neke,670.241,29-09-1997,Alm. Salg,3.269,4,Villa,205,1761,,Aktuel værdi
+Gryneparken 123740 Svaneke,neke,737.000,29-09-1997,Alm. Salg,6.522,4,Villa,113,1989,,Aktuel værdi
+Aarsdalevej 443740 Svaneke,neke,672.000,25-09-1997,Alm. Salg,4.634,6,Villa,145,1932,,Aktuel værdi
+Urmarken 233740 Svaneke,neke,276.668,02-09-1997,Fam. Salg,-,5,Villa,135,1912,,Aktuel værdi
+Ved Stranden 43740 Svaneke,neke,412.500,28-07-1997,Fam. Salg,2.825,5,Villa,146,1894,,Aktuel værdi
+Strandvejen 313740 Svaneke,neke,180.000,21-06-1997,Alm. Salg,-,4,Rækkehus,78,1935,,Aktuel værdi
+Søndergade 193740 Svaneke,neke,624.175,19-06-1997,Alm. Salg,4.304,5,Villa,145,1815,,Aktuel værdi
+Gavlegade 13740 Svaneke,neke,439.760,15-06-1997,Alm. Salg,5.637,6,Villa,78,1881,,Aktuel værdi
+Skarvigen 63740 Svaneke,neke,496.750,02-06-1997,Alm. Salg,4.071,6,Villa,122,1910,,Aktuel værdi
+Lakseruten 243740 Svaneke,neke,295.000,30-05-1997,Alm. Salg,1.735,6,Lejlighed,170,1900,,Aktuel værdi
+I Pilene 53740 Svaneke,neke,478.141,14-04-1997,Alm. Salg,5.197,5,Villa,92,1818,,Aktuel værdi
+Stengade 133740 Svaneke,neke,220.000,09-03-1997,Alm. Salg,4.888,3,Rækkehus,45,1887,,Aktuel værdi
+Bølshavn 213740 Svaneke,neke,254.500,27-02-1997,Fam. Salg,2.859,5,Sommerhus,89,1830,,Aktuel værdi
+Oluf Høstgade 23740 Svaneke,neke,410.000,06-01-1997,Alm. Salg,2.679,6,Villa,153,1862,,Aktuel værdi
+Albret Wolfsensgade 213740 Svaneke,neke,655.000,11-12-1996,Fam. Salg,-,6,Villa,156,1969,,Aktuel værdi
+Stengade 53740 Svaneke,neke,325.000,09-12-1996,Alm. Salg,3.282,5,Villa,99,1898,,Aktuel værdi
+Norre Bakke 13740 Svaneke,neke,406.500,09-12-1996,Alm. Salg,2.710,4,Villa,150,1959,,Aktuel værdi
+Gaden 43740 Svaneke,neke,291.500,27-11-1996,Alm. Salg,2.699,4,Rækkehus,108,1920,,Aktuel værdi
+Vestergade 103740 Svaneke,neke,448.000,28-10-1996,Alm. Salg,3.672,4,Rækkehus,122,1899,,Aktuel værdi
+Skolebakken 133740 Svaneke,neke,299.500,24-09-1996,Alm. Salg,3.087,3,Villa,97,1952,,Aktuel værdi
+Trappegangen 33740 Svaneke,neke,340.450,18-09-1996,Alm. Salg,3.700,3,Rækkehus,92,1827,,Aktuel værdi
+Vagtbodgade 13740 Svaneke,neke,350.000,12-09-1996,Alm. Salg,4.069,3,Sommerhus,86,1938,,Aktuel værdi
+Urmarken 33740 Svaneke,neke,400.000,11-09-1996,Alm. Salg,-,7,Villa,148,1936,,Aktuel værdi
+Skolebakken 73740 Svaneke,neke,320.900,05-09-1996,Alm. Salg,2.865,5,Villa,112,1880,,Aktuel værdi
+Brugsebakken 23740 Svaneke,neke,98.996,04-09-1996,Fam. Salg,1.178,4,Rækkehus,84,1777,,Aktuel værdi
+Lindholmsvej 13740 Svaneke,neke,1.450.000,17-07-1996,Alm. Salg,6.444,6,Stuehus,225,1750,,
+Skolebakken 153740 Svaneke,neke,255.000,02-07-1996,Alm. Salg,1.875,3,Villa,136,1700,,Aktuel værdi
+Hans Thygesensvej 203740 Svaneke,neke,195.000,20-06-1996,Alm. Salg,1.695,4,Villa,115,1877,,Aktuel værdi
+Brøndstræde 63740 Svaneke,neke,185.000,18-06-1996,Alm. Salg,3.363,2,Rækkehus,55,1761,,Aktuel værdi
+Gaden 333740 Svaneke,neke,265.000,17-06-1996,Alm. Salg,2.623,3,Rækkehus,101,1927,,Aktuel værdi
+Mosedalsvej 203740 Svaneke,neke,141.000,03-06-1996,Auktion,-,4,Rækkehus,62,1880,,Aktuel værdi
+Bølshavn 273740 Svaneke,neke,90.000,25-05-1996,Alm. Salg,762,5,Sommerhus,118,1999,,Aktuel værdi
+Strandvejen 353740 Svaneke,neke,830.000,24-05-1996,Alm. Salg,2.881,6,Villa,288,1857,,Aktuel værdi
+Møllevej 143740 Svaneke,neke,435.000,24-05-1996,Alm. Salg,5.178,3,Villa,84,1909,,Aktuel værdi
+Højevejen 113740 Svaneke,neke,244.883,20-05-1996,Fam. Salg,1.069,10,Villa,229,1860,,Aktuel værdi
+Strandstien 143740 Svaneke,neke,10.000,08-04-1996,Alm. Salg,66,5,Villa,151,2005,,Aktuel værdi
+Strandstien 383740 Svaneke,neke,250.000,02-04-1996,Fam. Salg,5.208,1,Sommerhus,48,1770,,Aktuel værdi
+Norre Bakke 113740 Svaneke,neke,495.000,25-03-1996,Alm. Salg,4.267,5,Villa,116,1969,,Aktuel værdi
+Aarsdale Kirkevej 93740 Svaneke,neke,500.000,15-03-1996,Alm. Salg,3.164,3,Villa,158,1880,,Aktuel værdi
+I Pilene 43740 Svaneke,neke,170.000,04-03-1996,Alm. Salg,-,4,Villa,95,1827,,Aktuel værdi
+Reberbanevej 143740 Svaneke,neke,678.000,05-02-1996,Alm. Salg,3.213,5,Villa,211,1985,,Aktuel værdi
+Svinget 23740 Svaneke,neke,450.000,17-01-1996,Alm. Salg,4.411,4,Villa,102,1871,,Aktuel værdi
+Albret Wolfsensgade 293740 Svaneke,neke,77.250,16-01-1996,Alm. Salg,394,6,Villa,196,1996,,Aktuel værdi

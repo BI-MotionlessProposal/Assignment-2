@@ -1,0 +1,965 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Sølvagervej 254534 Hørve,ørve,450.000,04-05-2017,Alm. Salg,8.490,2,Rækkehus,53,1974,,Aktuel værdi
+Troldebanken 24534 Hørve,ørve,412.500,28-04-2017,Alm. Salg,2.291,4,Villa,180,1922,,Aktuel værdi
+Søhusvej 164534 Hørve,ørve,1.050.000,24-04-2017,Fam. Salg,6.104,6,Villa,172,2007,,Aktuel værdi
+På Højen 4A4534 Hørve,ørve,625.000,11-04-2017,Alm. Salg,10.775,3,Rækkehus,58,1975,-10 %,Aktuel værdi
+Nekseløvej 554534 Hørve,ørve,225.000,30-03-2017,Alm. Salg,5.625,2,Sommerhus,40,1952,,Aktuel værdi
+Slugten 54534 Hørve,ørve,656.500,27-03-2017,Fam. Salg,10.588,4,Sommerhus,62,1979,-22 %,Aktuel værdi
+Højskolevej 24534 Hørve,ørve,2.865.000,20-03-2017,Alm. Salg,12.456,9,Villa,230,1875,-4 %,Aktuel værdi
+Dragsmøllevej 134534 Hørve,ørve,815.000,20-03-2017,Alm. Salg,9.702,3,Villa,84,1988,-7 %,Aktuel værdi
+Poppelvang 84534 Hørve,ørve,1.295.000,07-03-2017,Alm. Salg,8.750,4,Villa,148,1976,0 %,Aktuel værdi
+Vallekildevej 1634534 Hørve,ørve,250.000,03-03-2017,Alm. Salg,3.246,4,Villa,77,1897,-29 %,Aktuel værdi
+Slotsvej 44534 Hørve,ørve,265.000,24-02-2017,Alm. Salg,4.076,3,Villa,65,1910,,Aktuel værdi
+Elmkær 264534 Hørve,ørve,1.275.000,23-02-2017,Alm. Salg,8.388,5,Villa,152,1969,-2 %,Aktuel værdi
+Strandlystvej 124534 Hørve,ørve,1.850.000,18-02-2017,Alm. Salg,8.222,5,Villa,225,1997,-11 %,Aktuel værdi
+Industrivej 64534 Hørve,ørve,1.645.000,09-02-2017,Alm. Salg,9.791,7,Villa,168,1991,-3 %,Aktuel værdi
+Elmkær 564534 Hørve,ørve,900.000,31-01-2017,Alm. Salg,4.736,5,Villa,190,1972,-10 %,Aktuel værdi
+Vallekildevej 394534 Hørve,ørve,900.000,31-01-2017,Fam. Salg,5.487,7,Stuehus,164,1910,,
+Skolegade 294534 Hørve,ørve,1.050.000,15-12-2016,Fam. Salg,8.015,5,Villa,131,1996,,Aktuel værdi
+Vallekildevej 674534 Hørve,ørve,372.167,08-12-2016,Alm. Salg,4.652,2,Villa,80,1944,,Aktuel værdi
+Hørve Kanalvej 314534 Hørve,ørve,1.800.000,07-12-2016,Alm. Salg,8.695,7,Stuehus,207,1915,-10 %,
+Lindebjerg 10B4534 Hørve,ørve,600.000,22-11-2016,Alm. Salg,8.219,2,Rækkehus,73,1986,,Aktuel værdi
+Svinget 24534 Hørve,ørve,550.000,25-10-2016,Alm. Salg,4.044,3,Villa,136,1954,-12 %,Aktuel værdi
+Skolelodden 14534 Hørve,ørve,595.000,12-10-2016,Alm. Salg,7.727,4,Villa,77,1981,0 %,Aktuel værdi
+Slugten 104534 Hørve,ørve,875.000,26-09-2016,Alm. Salg,14.344,4,Sommerhus,61,2004,-12 %,Aktuel værdi
+Søndergade 15C4534 Hørve,ørve,600.000,25-09-2016,Alm. Salg,7.792,3,Rækkehus,77,1987,-8 %,Aktuel værdi
+Bulskovvej 154534 Hørve,ørve,500.000,25-09-2016,Alm. Salg,8.928,3,Sommerhus,56,1967,,Aktuel værdi
+Teglværksvej 54534 Hørve,ørve,1.450.000,22-09-2016,Alm. Salg,3.950,9,Villa,367,1922,-12 %,Aktuel værdi
+Dragsmøllevej 14534 Hørve,ørve,360.000,22-09-2016,Auktion,4.090,5,Villa,88,1948,,Aktuel værdi
+Lindebjerg 10A4534 Hørve,ørve,625.000,21-09-2016,Alm. Salg,8.561,2,Rækkehus,73,1986,-3 %,Aktuel værdi
+Nørregade 184534 Hørve,ørve,2.067.000,12-09-2016,Andet,7.489,8,Villa,276,1926,,Aktuel værdi
+Vallekildevej 1184534 Hørve,ørve,495.000,07-09-2016,Alm. Salg,4.900,4,Villa,101,1941,0 %,Aktuel værdi
+Lindebjerg 114534 Hørve,ørve,680.000,06-09-2016,Alm. Salg,9.444,3,Rækkehus,72,1983,-2 %,Aktuel værdi
+Elmkær 974534 Hørve,ørve,1.140.000,26-08-2016,Alm. Salg,8.260,4,Villa,138,1973,-5 %,Aktuel værdi
+Bulskovvej 174534 Hørve,ørve,500.000,11-08-2016,Alm. Salg,11.111,3,Sommerhus,45,1951,,Aktuel værdi
+Søhusvej 324534 Hørve,ørve,922.378,10-08-2016,Fam. Salg,4.231,2,Villa,218,2008,,Aktuel værdi
+Kolåsvej 114534 Hørve,ørve,2.700.000,10-08-2016,Alm. Salg,10.505,5,Villa,257,1968,-10 %,Aktuel værdi
+Pilevang 64534 Hørve,ørve,1.565.000,06-08-2016,Alm. Salg,11.592,5,Villa,135,1999,-1 %,Aktuel værdi
+Vallekildevej 47A4534 Hørve,ørve,785.000,15-07-2016,Alm. Salg,6.038,4,Villa,130,1918,,Aktuel værdi
+Vallekildevej 444534 Hørve,ørve,775.000,02-07-2016,Alm. Salg,5.575,5,Villa,139,1949,-8 %,Aktuel værdi
+Bjergesøstien 84534 Hørve,ørve,750.000,20-06-2016,Fam. Salg,6.465,4,Villa,116,1966,,Aktuel værdi
+Hørve Kirkevej 5A4534 Hørve,ørve,1.175.000,08-06-2016,Alm. Salg,9.325,6,Villa,126,1950,-2 %,Aktuel værdi
+Holstensvejen 104534 Hørve,ørve,1.160.000,08-06-2016,Alm. Salg,6.553,5,Stuehus,177,1860,-10 %,
+Nørregade 74534 Hørve,ørve,600.000,06-06-2016,Alm. Salg,3.636,5,Villa,165,1910,,Aktuel værdi
+Holmagervej 74534 Hørve,ørve,745.000,31-05-2016,Alm. Salg,5.246,6,Villa,142,1961,0 %,Aktuel værdi
+Søhusvej 504534 Hørve,ørve,1.895.000,13-05-2016,Alm. Salg,14.248,5,Villa,133,2007,-5 %,Aktuel værdi
+Maglebjergvej 74534 Hørve,ørve,1.305.000,12-05-2016,Alm. Salg,8.312,7,Villa,157,1981,-6 %,Aktuel værdi
+Elmkær 54534 Hørve,ørve,970.000,30-04-2016,Alm. Salg,8.220,4,Villa,118,1970,-3 %,Aktuel værdi
+Vejlebyvej 24534 Hørve,ørve,260.000,01-04-2016,Alm. Salg,2.000,5,Villa,130,1927,,Aktuel værdi
+På Højen 4C4534 Hørve,ørve,500.000,31-03-2016,Alm. Salg,8.620,3,Rækkehus,58,1975,0 %,Aktuel værdi
+Fladehøj 534534 Hørve,ørve,991.000,31-03-2016,Alm. Salg,8.122,4,Villa,122,1978,-9 %,Aktuel værdi
+Pilevang 154534 Hørve,ørve,1.595.000,23-03-2016,Alm. Salg,11.076,5,Villa,144,1998,-6 %,Aktuel værdi
+Hørve Kanalvej 334534 Hørve,ørve,1.495.000,01-03-2016,Alm. Salg,6.500,6,Stuehus,230,1904,,
+Kalundborgvej 474534 Hørve,ørve,1.500.000,26-02-2016,Fam. Salg,7.731,5,Villa,194,1921,,Aktuel værdi
+Adelers Alle 2024534 Hørve,ørve,1.200.000,23-02-2016,Alm. Salg,9.600,5,Villa,125,1900,,Aktuel værdi
+Vallekildevej 1264534 Hørve,ørve,720.000,19-02-2016,Alm. Salg,5.581,4,Villa,129,1935,-4 %,Aktuel værdi
+Vallekildevej 524534 Hørve,ørve,481.000,16-02-2016,Fam. Salg,6.012,3,Villa,80,1959,,Aktuel værdi
+Bjergesøvej 54534 Hørve,ørve,675.000,15-02-2016,Auktion,3.994,6,Villa,169,1887,71 %,Aktuel værdi
+Vallekildevej 244534 Hørve,ørve,500.000,12-02-2016,Alm. Salg,3.448,6,Villa,145,1908,,Aktuel værdi
+Engmosevej 14534 Hørve,ørve,500.000,26-01-2016,Alm. Salg,5.952,4,Villa,84,1965,-9 %,Aktuel værdi
+Hørve Kanalvej 294534 Hørve,ørve,1.240.000,11-01-2016,Alm. Salg,7.948,5,Stuehus,156,1908,,
+Teglværksvej 24534 Hørve,ørve,2.050.000,17-12-2015,Alm. Salg,9.951,6,Villa,206,1921,-11 %,Aktuel værdi
+Pilevang 164534 Hørve,ørve,900.000,14-12-2015,Alm. Salg,6.000,4,Villa,150,1973,-10 %,Aktuel værdi
+Vallekildevej 1384534 Hørve,ørve,4.606.800,01-12-2015,Fam. Salg,17.062,7,Stuehus,270,1914,,
+Højskolevej 14534 Hørve,ørve,170.000,11-11-2015,Auktion,1.588,5,Villa,107,1895,,Aktuel værdi
+Fjordvej 34534 Hørve,ørve,1.078.000,04-11-2015,Fam. Salg,7.045,4,Stuehus,153,1943,,
+Vallekildevej 115C4534 Hørve,ørve,1.250.000,03-11-2015,Alm. Salg,7.668,7,Villa,163,1935,-3 %,Aktuel værdi
+Bakkedraget 574534 Hørve,ørve,2.195.000,29-10-2015,Alm. Salg,8.922,7,Villa,246,1979,0 %,Aktuel værdi
+Hovvejen 104534 Hørve,ørve,1.032.450,26-10-2015,Andet,5.933,5,Villa,174,1900,,Aktuel værdi
+Nyrupsvej 94534 Hørve,ørve,456.500,08-10-2015,Alm. Salg,3.935,4,Villa,116,1962,,Aktuel værdi
+Nygårdsvej 44534 Hørve,ørve,400.000,02-10-2015,Alm. Salg,2.040,9,Villa,196,1887,-19 %,Aktuel værdi
+Bakkedraget 454534 Hørve,ørve,575.000,01-10-2015,Alm. Salg,4.227,5,Villa,136,1978,,Aktuel værdi
+Strandlunden 74534 Hørve,ørve,204.000,28-09-2015,Alm. Salg,2.000,4,Sommerhus,102,2017,,Aktuel værdi
+Lillevangen 34534 Hørve,ørve,945.000,24-09-2015,Alm. Salg,7.620,5,Villa,124,1900,-5 %,Aktuel værdi
+Hørve Kirkevej 7B4534 Hørve,ørve,1.221.945,14-09-2015,Andet,5.455,10,Stuehus,224,1900,-51 %,
+Holstensvejen 44534 Hørve,ørve,2.225.000,08-09-2015,Alm. Salg,11.835,6,Stuehus,188,1900,-7 %,
+Dragsmøllevej 554534 Hørve,ørve,366.000,04-09-2015,Alm. Salg,1.633,6,Stuehus,224,1937,,
+Elmkær 44534 Hørve,ørve,800.000,01-09-2015,Alm. Salg,6.722,4,Villa,119,1968,,Aktuel værdi
+Sølvagervej 184534 Hørve,ørve,500.000,01-09-2015,Alm. Salg,3.846,3,Villa,130,1876,-33 %,Aktuel værdi
+Bakkedraget 434534 Hørve,ørve,1.995.000,28-08-2015,Alm. Salg,7.854,6,Villa,254,1993,-2 %,Aktuel værdi
+Starreklintevej 34534 Hørve,ørve,950.000,21-08-2015,Alm. Salg,6.834,6,Villa,139,1943,,Aktuel værdi
+Vallekildevej 304534 Hørve,ørve,575.000,19-08-2015,Alm. Salg,3.443,5,Villa,167,1917,-3 %,Aktuel værdi
+Starreklintevej 194534 Hørve,ørve,1.700.000,09-08-2015,Fam. Salg,9.497,7,Villa,179,1910,,Aktuel værdi
+Søndergade 214534 Hørve,ørve,1.076.000,07-08-2015,Alm. Salg,7.741,5,Villa,139,1877,-10 %,Aktuel værdi
+På Højen 14534 Hørve,ørve,1.175.000,31-07-2015,Alm. Salg,9.038,4,Villa,130,1990,-2 %,Aktuel værdi
+Dragsmøllevej 24534 Hørve,ørve,302.336,22-07-2015,Fam. Salg,2.029,5,Villa,149,1920,,Aktuel værdi
+Kildebakken 34534 Hørve,ørve,300.000,15-07-2015,Alm. Salg,2.586,4,Villa,116,1973,,Aktuel værdi
+Vallekildevej 1804534 Hørve,ørve,295.000,13-07-2015,Auktion,1.993,7,Villa,148,1867,-34 %,Aktuel værdi
+Dragsmøllevej 54534 Hørve,ørve,750.000,08-07-2015,Alm. Salg,6.410,4,Villa,117,1968,-6 %,Aktuel værdi
+Bjergesøvej 384534 Hørve,ørve,4.285.000,02-07-2015,Alm. Salg,24.073,4,Stuehus,178,1900,,
+Kildegårdsvej 114534 Hørve,ørve,525.000,24-06-2015,Alm. Salg,4.952,4,Villa,106,1975,-12 %,Aktuel værdi
+Hørve Stationsvej 54534 Hørve,ørve,720.000,19-06-2015,Auktion,4.965,4,Villa,145,1903,,Aktuel værdi
+Hørve Kirkevej 264534 Hørve,ørve,200.000,16-06-2015,Alm. Salg,1.388,7,Villa,144,1907,,Aktuel værdi
+Hørve Kanalvej 11A4534 Hørve,ørve,212.927,31-05-2015,Alm. Salg,1.339,4,Stuehus,159,1900,,
+Hørve Kanalvej 194534 Hørve,ørve,350.077,31-05-2015,Alm. Salg,2.448,3,Stuehus,143,1910,,
+Vallekildevej 344534 Hørve,ørve,400.000,27-05-2015,Alm. Salg,-,7,Villa,100,1936,,Aktuel værdi
+Bakken 24534 Hørve,ørve,590.000,15-05-2015,Alm. Salg,3.959,4,Villa,149,1949,-15 %,Aktuel værdi
+Søhusvej 564534 Hørve,ørve,1.850.000,14-05-2015,Alm. Salg,11.783,5,Villa,157,2011,-7 %,Aktuel værdi
+Elmkær 104534 Hørve,ørve,550.000,09-05-2015,Alm. Salg,4.166,4,Villa,132,1974,,Aktuel værdi
+På Højen 4D4534 Hørve,ørve,600.000,21-04-2015,Alm. Salg,10.344,3,Rækkehus,58,1975,-3 %,Aktuel værdi
+Fladehøj 494534 Hørve,ørve,825.000,10-04-2015,Alm. Salg,8.870,4,Villa,93,1979,-8 %,Aktuel værdi
+Vallekildevej 113A4534 Hørve,ørve,1.230.000,31-03-2015,Alm. Salg,10.081,4,Villa,122,1985,-2 %,Aktuel værdi
+Nyrupsvej 44534 Hørve,ørve,425.000,30-03-2015,Alm. Salg,4.381,4,Villa,97,1966,-14 %,Aktuel værdi
+Engmosevej 104534 Hørve,ørve,1.100.000,25-03-2015,Fam. Salg,6.586,5,Villa,167,1974,,Aktuel værdi
+Lundevej 74534 Hørve,ørve,950.000,15-03-2015,Alm. Salg,5.491,6,Villa,173,1969,-5 %,Aktuel værdi
+Industrivej 54534 Hørve,ørve,595.000,11-03-2015,Auktion,5.613,4,Villa,106,1925,,Aktuel værdi
+Hørve Kanalvej 55A4534 Hørve,ørve,220.000,09-03-2015,Auktion,1.294,5,Villa,170,1925,,Aktuel værdi
+Sølvagervej 134534 Hørve,ørve,797.000,18-02-2015,Alm. Salg,6.930,5,Rækkehus,115,1988,,Aktuel værdi
+Næbbevej 6A4534 Hørve,ørve,795.500,13-02-2015,Alm. Salg,3.356,5,Villa,237,1800,0 %,Aktuel værdi
+Starreklintevej 234534 Hørve,ørve,1.320.000,10-02-2015,Alm. Salg,7.904,6,Villa,167,1919,-5 %,Aktuel værdi
+Dragsmøllevej 5B4534 Hørve,ørve,350.000,10-02-2015,Fam. Salg,2.258,5,Villa,155,1974,,Aktuel værdi
+Vallekildevej 1464534 Hørve,ørve,1.200.000,09-02-2015,Alm. Salg,7.500,6,Villa,160,1939,-14 %,Aktuel værdi
+Strandlystvej 54534 Hørve,ørve,1.057.756,21-01-2015,Andet,7.244,7,Stuehus,146,1850,,
+Skolelodden 84534 Hørve,ørve,470.525,19-01-2015,Alm. Salg,4.277,3,Villa,110,1968,,Aktuel værdi
+Strandlunden 134534 Hørve,ørve,246.000,13-01-2015,Alm. Salg,2.827,4,Sommerhus,87,2015,,Aktuel værdi
+Starreklintevej 74534 Hørve,ørve,750.000,10-01-2015,Alm. Salg,6.355,8,Villa,118,1877,0 %,Aktuel værdi
+Bakkedraget 314534 Hørve,ørve,760.000,06-01-2015,Fam. Salg,4.634,5,Villa,164,1980,,Aktuel værdi
+Skolegade 24534 Hørve,ørve,647.000,05-01-2015,Andet,5.725,6,Villa,113,1920,,Aktuel værdi
+Bakkedraget 34534 Hørve,ørve,1.200.000,16-12-2014,Alm. Salg,8.955,6,Villa,134,2007,-14 %,Aktuel værdi
+Kildevej 24534 Hørve,ørve,650.000,10-12-2014,Alm. Salg,5.508,4,Villa,118,1987,-6 %,Aktuel værdi
+Starreklintevej 314534 Hørve,ørve,110.000,07-12-2014,Alm. Salg,1.666,3,Villa,66,1887,,Aktuel værdi
+Bjergesøvej 74534 Hørve,ørve,998.000,28-11-2014,Alm. Salg,8.048,5,Stuehus,124,1925,-6 %,
+Elmkær 144534 Hørve,ørve,674.750,05-11-2014,Auktion,5.622,4,Villa,120,1968,,Aktuel værdi
+Holmagervej 34534 Hørve,ørve,600.000,03-11-2014,Alm. Salg,5.000,9,Villa,120,1958,-8 %,Aktuel værdi
+Nørregade 244534 Hørve,ørve,615.700,01-10-2014,Auktion,4.077,7,Villa,151,1935,,Aktuel værdi
+Nekseløvej 354534 Hørve,ørve,1.525.000,08-09-2014,Alm. Salg,28.240,4,Sommerhus,54,1952,-10 %,Aktuel værdi
+Bjergesøvej 94534 Hørve,ørve,600.000,04-09-2014,Alm. Salg,8.571,3,Villa,70,1700,,Aktuel værdi
+Bakkedraget 494534 Hørve,ørve,915.000,27-08-2014,Alm. Salg,7.148,4,Villa,128,1976,-8 %,Aktuel værdi
+Hørve Kirkevej 23E4534 Hørve,ørve,237.000,26-08-2014,Alm. Salg,3.485,2,Rækkehus,68,1975,,Aktuel værdi
+Søhusvej 44534 Hørve,ørve,1.425.000,25-08-2014,Alm. Salg,10.714,4,Villa,133,2008,-11 %,Aktuel værdi
+Strandlunden 364534 Hørve,ørve,1.100.000,08-08-2014,Alm. Salg,9.166,3,Sommerhus,120,2014,,Aktuel værdi
+Kirkestien 24534 Hørve,ørve,283.333,05-08-2014,Fam. Salg,4.885,4,Villa,58,1957,,Aktuel værdi
+Starreklintevej 354534 Hørve,ørve,1.997.000,05-08-2014,Alm. Salg,10.622,5,Stuehus,188,1853,,
+Vallekildevej 174534 Hørve,ørve,950.000,16-07-2014,Alm. Salg,7.600,4,Villa,125,1911,-5 %,Aktuel værdi
+Bjergesøvej 424534 Hørve,ørve,1.130.000,15-07-2014,Fam. Salg,10.272,2,Villa,110,1827,,Aktuel værdi
+Hørve Kanalvej 14534 Hørve,ørve,1.325.000,10-07-2014,Alm. Salg,11.622,2,Stuehus,114,1931,,
+Fladehøj 174534 Hørve,ørve,1.235.000,04-07-2014,Alm. Salg,8.821,4,Villa,140,1986,-5 %,Aktuel værdi
+Industrivej 94534 Hørve,ørve,525.000,20-06-2014,Alm. Salg,3.697,4,Villa,142,1953,-12 %,Aktuel værdi
+Klitvej 6A4534 Hørve,ørve,1.500.000,10-06-2014,Alm. Salg,10.638,6,Sommerhus,141,2017,0 %,Aktuel værdi
+Fyrrestien 44534 Hørve,ørve,260.000,26-05-2014,Alm. Salg,4.561,3,Sommerhus,57,2010,-25 %,Aktuel værdi
+Bjergesøvej 454534 Hørve,ørve,350.000,23-05-2014,Andet,1.724,7,Villa,203,1935,,Aktuel værdi
+Højskolevej 44534 Hørve,ørve,1.385.000,16-05-2014,Alm. Salg,6.856,7,Villa,202,1885,,Aktuel værdi
+Fladehøj 114534 Hørve,ørve,1.025.000,15-05-2014,Alm. Salg,-,4,Villa,142,1981,-6 %,Aktuel værdi
+Industrivej 14534 Hørve,ørve,399.000,06-05-2014,Alm. Salg,4.113,4,Villa,97,1902,0 %,Aktuel værdi
+Højskolevej 174534 Hørve,ørve,3.300.000,30-04-2014,Alm. Salg,10.476,7,Villa,315,1885,,Aktuel værdi
+Sølvagervej 124534 Hørve,ørve,450.000,23-04-2014,Alm. Salg,4.838,4,Villa,93,1927,-10 %,Aktuel værdi
+Teglværksvej 124534 Hørve,ørve,1.500.000,16-04-2014,Alm. Salg,13.043,4,Stuehus,115,1921,-12 %,
+Vallekildevej 584534 Hørve,ørve,495.000,14-04-2014,Alm. Salg,2.750,7,Villa,180,1900,0 %,Aktuel værdi
+Bakkedraget 154534 Hørve,ørve,850.000,24-03-2014,Auktion,6.640,4,Villa,128,1978,,Aktuel værdi
+"Teglværksvej 9A, ST. 14534 Hørve",ørve,1.500.000,23-03-2014,Alm. Salg,9.036,4,Villa,166,1836,,Aktuel værdi
+Brunbjergvej 24534 Hørve,ørve,4.585.000,16-03-2014,Alm. Salg,59.545,2,Villa,77,1920,,Aktuel værdi
+Holstensvejen 94534 Hørve,ørve,1.172.500,12-03-2014,Alm. Salg,4.708,5,Stuehus,249,2015,,
+Hørve Møllevej 94534 Hørve,ørve,525.000,27-02-2014,Alm. Salg,4.303,4,Villa,122,1959,-24 %,Aktuel værdi
+På Højen 214534 Hørve,ørve,1.050.000,26-02-2014,Alm. Salg,6.104,4,Villa,172,1974,-5 %,Aktuel værdi
+Starreklintevej 394534 Hørve,ørve,1.038.500,23-02-2014,Andet,5.968,7,Stuehus,174,1934,-63 %,
+På Højen 174534 Hørve,ørve,970.000,19-02-2014,Alm. Salg,6.689,4,Villa,145,1973,0 %,Aktuel værdi
+Elmkær 464534 Hørve,ørve,1.045.000,19-02-2014,Alm. Salg,8.228,4,Villa,127,1970,-5 %,Aktuel værdi
+Kolåsvej 134534 Hørve,ørve,557.207,03-02-2014,Alm. Salg,5.207,4,Villa,107,1949,,Aktuel værdi
+Rødelejevej 24534 Hørve,ørve,4.632.500,18-01-2014,Fam. Salg,18.530,7,Stuehus,250,1900,,
+Vikæret 84534 Hørve,ørve,850.000,12-01-2014,Alm. Salg,15.178,2,Villa,56,1987,,Aktuel værdi
+Skolegade 174534 Hørve,ørve,496.054,10-01-2014,Alm. Salg,4.168,6,Villa,119,1961,-53 %,Aktuel værdi
+Hørve Kanalvej 354534 Hørve,ørve,1.640.000,20-12-2013,Fam. Salg,8.200,6,Stuehus,200,1907,,
+Sølvagervej 334534 Hørve,ørve,349.000,05-12-2013,Auktion,6.584,2,Rækkehus,53,1974,,Aktuel værdi
+Østerled 24534 Hørve,ørve,550.000,12-11-2013,Alm. Salg,3.642,7,Villa,151,1957,,Aktuel værdi
+Skolegade 334534 Hørve,ørve,800.000,22-10-2013,Alm. Salg,-,6,Villa,170,1969,-3 %,Aktuel værdi
+Nekseløvej 334534 Hørve,ørve,1.024.192,16-10-2013,Fam. Salg,16.790,4,Sommerhus,61,2006,,Aktuel værdi
+Banevej 84534 Hørve,ørve,152.000,10-10-2013,Alm. Salg,1.357,5,Villa,112,1904,-64 %,Aktuel værdi
+Bjergesøvej 234534 Hørve,ørve,200.000,08-10-2013,Alm. Salg,2.083,3,Villa,96,1850,-33 %,Aktuel værdi
+Bjergesøvej 434534 Hørve,ørve,1.150.000,28-08-2013,Alm. Salg,10.747,3,Stuehus,107,1924,,
+Kalundborgvej 574534 Hørve,ørve,600.000,26-08-2013,Auktion,4.081,5,Stuehus,147,1880,,
+Kildebakken 124534 Hørve,ørve,900.000,19-08-2013,Auktion,5.625,5,Villa,160,1973,-31 %,Aktuel værdi
+Hørve Kanalvej 34534 Hørve,ørve,2.890.000,14-08-2013,Fam. Salg,15.130,5,Stuehus,191,1900,,
+Sandbyhagevej 14534 Hørve,ørve,1.006.000,11-07-2013,Alm. Salg,7.921,5,Stuehus,127,1922,,
+Vallekildevej 11B4534 Hørve,ørve,430.000,03-07-2013,Alm. Salg,3.771,4,Villa,114,1940,-34 %,Aktuel værdi
+Lillevangen 124534 Hørve,ørve,658.218,20-06-2013,Alm. Salg,3.210,5,Villa,205,1916,,Aktuel værdi
+Fladehøj 234534 Hørve,ørve,895.000,20-06-2013,Alm. Salg,6.884,4,Villa,130,1979,0 %,Aktuel værdi
+Kildevej 84534 Hørve,ørve,915.000,14-06-2013,Alm. Salg,4.377,7,Villa,209,1974,-8 %,Aktuel værdi
+Nekseløvej 594534 Hørve,ørve,1.765.000,13-06-2013,Alm. Salg,27.153,2,Sommerhus,65,1935,,Aktuel værdi
+Hørve Kanalvej 674534 Hørve,ørve,2.210.000,03-06-2013,Fam. Salg,30.694,4,Stuehus,72,1928,,
+Dragsmøllevej 44534 Hørve,ørve,250.000,30-05-2013,Alm. Salg,2.941,2,Villa,85,1959,-57 %,Aktuel værdi
+Hørve Kanalvej 654534 Hørve,ørve,850.000,19-05-2013,Alm. Salg,8.333,2,Villa,102,1913,-5 %,Aktuel værdi
+Slugten 114534 Hørve,ørve,995.000,16-05-2013,Alm. Salg,12.594,4,Sommerhus,79,2006,-9 %,Aktuel værdi
+Svinget 14534 Hørve,ørve,478.109,01-05-2013,Alm. Salg,4.597,3,Villa,104,1952,,Aktuel værdi
+Fladehøj 94534 Hørve,ørve,1.600.000,18-04-2013,Alm. Salg,11.188,4,Villa,143,2000,-6 %,Aktuel værdi
+Strandlunden 384534 Hørve,ørve,250.000,08-04-2013,Alm. Salg,2.604,4,Sommerhus,96,2015,-9 %,Aktuel værdi
+Hørve Kanalvej 454534 Hørve,ørve,487.000,13-03-2013,Auktion,4.728,5,Villa,103,1900,,Aktuel værdi
+Kalundborgvej 494534 Hørve,ørve,80.000,19-02-2013,Alm. Salg,547,6,Stuehus,146,1921,,
+Fladehøj 84534 Hørve,ørve,502.431,14-02-2013,Alm. Salg,5.521,3,Villa,91,1977,,Aktuel værdi
+Nygårdsvej 84534 Hørve,ørve,3.290.000,11-02-2013,Alm. Salg,19.939,5,Stuehus,165,1910,-11 %,
+Sølvagervej 374534 Hørve,ørve,285.000,24-01-2013,Alm. Salg,5.181,2,Rækkehus,55,1974,-28 %,Aktuel værdi
+Søndergade 104534 Hørve,ørve,550.000,10-01-2013,Alm. Salg,4.263,4,Villa,129,1908,-15 %,Aktuel værdi
+Dragsmøllevej 74534 Hørve,ørve,1.700.000,03-01-2013,Alm. Salg,10.000,4,Stuehus,170,1900,,
+Overbyvej 24534 Hørve,ørve,350.000,14-12-2012,Fam. Salg,3.333,4,Sommerhus,105,1979,-61 %,Aktuel værdi
+Starreklintevej 14B4534 Hørve,ørve,500.000,10-12-2012,Alm. Salg,4.310,4,Villa,116,1937,,Aktuel værdi
+Slotsvej 74534 Hørve,ørve,500.000,09-12-2012,Alm. Salg,4.761,3,Villa,105,1958,-15 %,Aktuel værdi
+Bjergesøvej 284534 Hørve,ørve,475.000,07-12-2012,Alm. Salg,4.203,5,Villa,113,1900,-20 %,Aktuel værdi
+Næbbevej 174534 Hørve,ørve,125.000,05-12-2012,Alm. Salg,781,4,Stuehus,160,1907,,
+Vallekildevej 1124534 Hørve,ørve,74.380,16-11-2012,Alm. Salg,175,8,Stuehus,425,1877,,
+Hørve Kirkevej 23F4534 Hørve,ørve,363.000,09-11-2012,Andet,5.338,2,Rækkehus,68,1975,,Aktuel værdi
+Kirkebakken 24534 Hørve,ørve,1.150.000,08-11-2012,Alm. Salg,6.216,6,Villa,185,1964,,Aktuel værdi
+Nyrupsvej 74534 Hørve,ørve,282.500,05-11-2012,Auktion,2.173,4,Villa,130,1963,,Aktuel værdi
+Nekseløvej 574534 Hørve,ørve,1.600.000,30-10-2012,Alm. Salg,29.629,3,Sommerhus,54,1936,,Aktuel værdi
+Hørve Møllevej 74534 Hørve,ørve,542.376,15-10-2012,Alm. Salg,8.748,3,Villa,62,1954,,Aktuel værdi
+Vallekildevej 94534 Hørve,ørve,845.774,15-10-2012,Alm. Salg,5.714,6,Villa,148,1907,,Aktuel værdi
+Hovvejen 94534 Hørve,ørve,245.000,08-10-2012,Alm. Salg,1.424,4,Stuehus,172,1917,,
+Vindekilde Strandvej 104534 Hørve,ørve,1.742.500,26-09-2012,Fam. Salg,11.934,5,Sommerhus,146,1777,,Aktuel værdi
+Bakkedraget 264534 Hørve,ørve,845.000,24-09-2012,Alm. Salg,6.601,5,Villa,128,1975,-6 %,Aktuel værdi
+Remisevej 24534 Hørve,ørve,700.000,18-09-2012,Alm. Salg,7.954,3,Villa,88,1960,,Aktuel værdi
+Vallekildevej 124534 Hørve,ørve,675.000,17-09-2012,Alm. Salg,6.026,11,Villa,112,1886,,Aktuel værdi
+Kalundborgvej 304534 Hørve,ørve,299.000,29-08-2012,Auktion,1.625,6,Stuehus,184,1777,,
+Elmkær 894534 Hørve,ørve,800.000,13-08-2012,Alm. Salg,5.194,4,Villa,154,1974,-9 %,Aktuel værdi
+På Højen 134534 Hørve,ørve,800.000,08-08-2012,Alm. Salg,6.896,2,Villa,116,1973,-6 %,Aktuel værdi
+Kildegårdsvej 84534 Hørve,ørve,890.000,25-07-2012,Alm. Salg,6.544,5,Villa,136,1973,-11 %,Aktuel værdi
+Bjergesøvej 84534 Hørve,ørve,1.200.000,17-07-2012,Alm. Salg,11.214,4,Villa,107,1910,,Aktuel værdi
+Søhusvej 464534 Hørve,ørve,1.350.000,11-07-2012,Alm. Salg,9.712,4,Villa,139,2006,-3 %,Aktuel værdi
+Nyrupsvej 114534 Hørve,ørve,950.000,06-07-2012,Alm. Salg,6.597,7,Villa,144,1965,-5 %,Aktuel værdi
+Holstensvejen 24534 Hørve,ørve,300.000,04-07-2012,Auktion,3.157,2,Villa,95,1830,,Aktuel værdi
+Lillevangen 154534 Hørve,ørve,495.000,23-06-2012,Alm. Salg,8.839,3,Stuehus,56,1850,,
+Søhusvej 224534 Hørve,ørve,2.250.000,15-06-2012,Alm. Salg,10.613,7,Villa,212,2007,-6 %,Aktuel værdi
+Kalundborgvej 364534 Hørve,ørve,1.900.000,14-06-2012,Alm. Salg,7.251,6,Villa,262,1921,,Aktuel værdi
+Søndergade 15A4534 Hørve,ørve,250.000,01-06-2012,Alm. Salg,2.808,4,Villa,89,1952,,Aktuel værdi
+Hørve Kanalvej 514534 Hørve,ørve,199.000,23-05-2012,Auktion,1.431,5,Villa,139,1910,,Aktuel værdi
+Starreklintevej 84534 Hørve,ørve,500.000,07-05-2012,Alm. Salg,2.762,6,Villa,181,1797,,Aktuel værdi
+Hørve Møllevej 174534 Hørve,ørve,420.000,02-05-2012,Alm. Salg,3.000,6,Villa,140,1902,-28 %,Aktuel værdi
+Skolegade 274534 Hørve,ørve,1.100.000,29-04-2012,Alm. Salg,7.857,6,Villa,140,1962,-8 %,Aktuel værdi
+Bakkedraget 384534 Hørve,ørve,1.000.000,26-04-2012,Alm. Salg,7.142,4,Villa,140,1977,-16 %,Aktuel værdi
+Fladehøj 514534 Hørve,ørve,975.000,08-04-2012,Alm. Salg,6.866,4,Villa,142,1980,-15 %,Aktuel værdi
+Lindebjerg 144534 Hørve,ørve,780.000,04-04-2012,Alm. Salg,10.000,3,Rækkehus,78,1986,-2 %,Aktuel værdi
+Bjergesøvej 414534 Hørve,ørve,1.475.000,11-03-2012,Alm. Salg,11.259,2,Stuehus,131,1870,-11 %,
+Starreklintevej 94534 Hørve,ørve,668.350,04-03-2012,Alm. Salg,6.188,3,Villa,108,1910,,Aktuel værdi
+Dragsmøllevej 574534 Hørve,ørve,1.575.000,25-02-2012,Alm. Salg,10.500,4,Villa,150,1937,-5 %,Aktuel værdi
+Skovlyvej 84534 Hørve,ørve,8.285.000,22-02-2012,Alm. Salg,47.073,7,Stuehus,176,1887,,
+Bakken 14534 Hørve,ørve,400.000,15-02-2012,Auktion,4.000,4,Villa,100,1948,-60 %,Aktuel værdi
+Bakkedraget 74534 Hørve,ørve,1.200.000,28-01-2012,Alm. Salg,8.823,5,Villa,136,2002,-20 %,Aktuel værdi
+Skolegade 254534 Hørve,ørve,725.000,23-12-2011,Alm. Salg,6.415,5,Villa,113,1961,-3 %,Aktuel værdi
+Skolelodden 64534 Hørve,ørve,1.000.000,13-12-2011,Alm. Salg,7.407,5,Villa,135,1969,-16 %,Aktuel værdi
+Bakkedraget 444534 Hørve,ørve,875.000,01-12-2011,Alm. Salg,7.812,4,Villa,112,1980,-12 %,Aktuel værdi
+Bakkedraget 634534 Hørve,ørve,750.000,22-11-2011,Alm. Salg,6.465,4,Villa,116,1979,-6 %,Aktuel værdi
+Teglværksvej 14D4534 Hørve,ørve,2.675.000,15-11-2011,Alm. Salg,26.750,4,Sommerhus,100,2004,,Aktuel værdi
+Vallekildevej 141A4534 Hørve,ørve,430.000,14-11-2011,Auktion,6.056,3,Villa,71,1950,,Aktuel værdi
+Sølvagervej 244534 Hørve,ørve,977.500,03-11-2011,Fam. Salg,7.032,7,Villa,139,1920,,Aktuel værdi
+Hørve Kanalvej 134534 Hørve,ørve,2.500.000,31-10-2011,Alm. Salg,9.057,7,Stuehus,276,1914,,
+Engmosevej 94534 Hørve,ørve,925.000,31-08-2011,Alm. Salg,9.158,4,Villa,101,1968,-7 %,Aktuel værdi
+Tinghøjvej 14534 Hørve,ørve,1.250.000,27-08-2011,Fam. Salg,7.225,6,Villa,173,1777,,Aktuel værdi
+Dragsmøllevej 254534 Hørve,ørve,400.000,24-08-2011,Alm. Salg,2.424,6,Villa,165,2013,,Aktuel værdi
+Overbyvej 74534 Hørve,ørve,1.700.000,07-08-2011,Alm. Salg,19.101,4,Sommerhus,89,2007,,Aktuel værdi
+Vallekildevej 1194534 Hørve,ørve,1.575.000,04-08-2011,Alm. Salg,15.594,5,Villa,101,1940,,Aktuel værdi
+Lindebjerg 2D4534 Hørve,ørve,930.000,04-08-2011,Alm. Salg,10.219,4,Rækkehus,91,1999,,Aktuel værdi
+Vallekildevej 964534 Hørve,ørve,1.400.000,20-07-2011,Alm. Salg,7.608,5,Villa,184,1942,-12 %,Aktuel værdi
+Industrivej 214534 Hørve,ørve,1.200.000,13-07-2011,Fam. Salg,7.272,6,Villa,165,1972,,Aktuel værdi
+Sølvagervej 454534 Hørve,ørve,647.500,05-07-2011,Andet,4.434,6,Villa,146,1933,,Aktuel værdi
+Næbbevej 14534 Hørve,ørve,650.000,21-06-2011,Alm. Salg,6.770,3,Villa,96,1960,-6 %,Aktuel værdi
+Kirkestien 54534 Hørve,ørve,150.000,15-06-2011,Alm. Salg,757,6,Villa,198,1905,,Aktuel værdi
+Vallekildevej 1344534 Hørve,ørve,1.200.000,01-06-2011,Alm. Salg,8.219,10,Villa,146,1932,,Aktuel værdi
+Fladehøj 374534 Hørve,ørve,634.500,31-05-2011,Fam. Salg,4.287,5,Villa,148,1979,,Aktuel værdi
+Vallekildevej 1434534 Hørve,ørve,360.000,06-05-2011,Auktion,3.302,3,Villa,109,1887,,Aktuel værdi
+Kirkebakken 114534 Hørve,ørve,100.000,02-05-2011,Alm. Salg,877,4,Stuehus,114,1934,,
+Lundevej 124534 Hørve,ørve,850.000,15-03-2011,Alm. Salg,8.854,4,Villa,96,1973,-5 %,Aktuel værdi
+Fjordvej 44534 Hørve,ørve,4.925.772,20-02-2011,Andet,25.260,6,Stuehus,195,1900,,
+Stendyssevej 1B4534 Hørve,ørve,1.092.218,10-02-2011,Alm. Salg,8.337,5,Stuehus,131,1938,,
+Nekseløvej 34534 Hørve,ørve,3.000.000,09-02-2011,Auktion,-,6,Stuehus,247,1919,-25 %,
+Vallekildevej 1544534 Hørve,ørve,500.000,03-02-2011,Fam. Salg,3.267,3,Villa,153,1914,,Aktuel værdi
+Banevej 6A4534 Hørve,ørve,520.000,01-02-2011,Alm. Salg,5.473,3,Villa,95,1947,,Aktuel værdi
+Vallekildevej 1104534 Hørve,ørve,1.100.000,26-01-2011,Alm. Salg,7.857,4,Villa,140,1964,,Aktuel værdi
+Skolelodden 114534 Hørve,ørve,700.000,24-01-2011,Fam. Salg,5.833,4,Villa,120,1976,,Aktuel værdi
+Starreklintevej 124534 Hørve,ørve,230.000,14-01-2011,Auktion,1.474,4,Villa,156,1899,-58 %,Aktuel værdi
+Poppelvang 224534 Hørve,ørve,747.500,10-01-2011,Alm. Salg,4.199,6,Villa,178,1973,,Aktuel værdi
+Starreklintevej 14A4534 Hørve,ørve,1.250.000,07-01-2011,Alm. Salg,5.952,7,Villa,210,1982,0 %,Aktuel værdi
+Bulskovvej 124534 Hørve,ørve,750.000,29-12-2010,Alm. Salg,11.718,3,Sommerhus,64,1952,,Aktuel værdi
+Nekseløvej 494534 Hørve,ørve,750.000,15-12-2010,Alm. Salg,25.000,4,Sommerhus,30,1956,,Aktuel værdi
+Møllevangen 104534 Hørve,ørve,1.450.000,08-12-2010,Alm. Salg,16.477,3,Stuehus,88,1870,,
+Industrivej 114534 Hørve,ørve,3.150.000,03-12-2010,Alm. Salg,20.192,5,Villa,156,2005,-3 %,Aktuel værdi
+Strandlunden 54534 Hørve,ørve,350.000,29-11-2010,Alm. Salg,5.147,4,Sommerhus,68,2011,1 %,Aktuel værdi
+Skolegade 144534 Hørve,ørve,1.175.000,01-11-2010,Alm. Salg,8.392,5,Villa,140,1954,-2 %,Aktuel værdi
+Skolegade 304534 Hørve,ørve,1.175.000,01-11-2010,Alm. Salg,8.834,4,Villa,133,1962,0 %,Aktuel værdi
+Elmkær 364534 Hørve,ørve,510.000,01-11-2010,Fam. Salg,4.214,4,Villa,121,1970,,Aktuel værdi
+Nørregade 254534 Hørve,ørve,1.064.373,22-10-2010,Alm. Salg,4.927,6,Villa,216,1952,,Aktuel værdi
+Lindebjerg 10C4534 Hørve,ørve,2.195.000,19-10-2010,Alm. Salg,17.991,4,Stuehus,122,1900,,
+Hovvejen 44534 Hørve,ørve,1.050.000,11-10-2010,Auktion,6.213,6,Stuehus,169,1875,,
+Holmagervej 14534 Hørve,ørve,1.133.000,04-10-2010,Alm. Salg,7.125,5,Villa,159,1960,-1 %,Aktuel værdi
+Sølvagervej 20B4534 Hørve,ørve,1.550.000,17-09-2010,Alm. Salg,9.281,6,Villa,167,2006,0 %,Aktuel værdi
+Holstensvejen 304534 Hørve,ørve,7.725.000,16-09-2010,Auktion,44.142,6,Stuehus,175,1882,,
+Vallekildevej 644534 Hørve,ørve,750.000,31-08-2010,Alm. Salg,6.756,5,Villa,111,1945,-16 %,Aktuel værdi
+Bulskovvej 294534 Hørve,ørve,1.200.000,25-08-2010,Alm. Salg,17.142,5,Sommerhus,70,2004,,Aktuel værdi
+Fyrrestien 14534 Hørve,ørve,1.150.000,16-08-2010,Alm. Salg,11.734,3,Sommerhus,98,1969,-4 %,Aktuel værdi
+Søndergade 284534 Hørve,ørve,800.000,10-08-2010,Alm. Salg,8.080,3,Villa,99,1960,-20 %,Aktuel værdi
+Hørve Kanalvej 234534 Hørve,ørve,350.000,22-07-2010,Alm. Salg,2.023,4,Villa,173,2014,,Aktuel værdi
+Bjergesøvej 214534 Hørve,ørve,1.500.000,01-07-2010,Andet,8.823,6,Villa,170,1878,,Aktuel værdi
+Slugten 34534 Hørve,ørve,782.000,16-06-2010,Alm. Salg,13.719,2,Sommerhus,57,1977,,Aktuel værdi
+Stendyssevej 184534 Hørve,ørve,2.100.000,07-06-2010,Fam. Salg,8.467,5,Stuehus,248,1915,,
+Lindebjerg 164534 Hørve,ørve,734.000,04-06-2010,Fam. Salg,9.410,3,Rækkehus,78,1988,,Aktuel værdi
+Overbyvej 204534 Hørve,ørve,301.750,24-05-2010,Fam. Salg,3.635,3,Sommerhus,83,2015,,Aktuel værdi
+Remisevej 54534 Hørve,ørve,850.000,29-04-2010,Alm. Salg,9.659,3,Villa,88,1948,0 %,Aktuel værdi
+Hovvejen 114534 Hørve,ørve,820.000,28-04-2010,Auktion,4.315,7,Villa,190,1914,,Aktuel værdi
+Poppelvang 74534 Hørve,ørve,1.300.000,27-04-2010,Alm. Salg,8.724,6,Villa,149,1973,-3 %,Aktuel værdi
+Firstensvej 24534 Hørve,ørve,380.000,26-04-2010,Alm. Salg,3.193,3,Villa,119,1921,,Aktuel værdi
+Rørmosevej 64534 Hørve,ørve,123.324,19-04-2010,Alm. Salg,560,8,Stuehus,220,2006,,
+Vallekildevej 504534 Hørve,ørve,600.000,15-04-2010,Auktion,4.761,5,Villa,126,1915,-50 %,Aktuel værdi
+Kildegårdsvej 6A4534 Hørve,ørve,1.350.000,09-04-2010,Alm. Salg,7.142,7,Villa,189,1973,-11 %,Aktuel værdi
+Elmkær 8C4534 Hørve,ørve,1.849.000,08-04-2010,Alm. Salg,13.595,5,Villa,136,2010,,Aktuel værdi
+Fladehøj 574534 Hørve,ørve,1.250.000,08-04-2010,Alm. Salg,8.680,5,Villa,144,1978,-10 %,Aktuel værdi
+Vallekildevej 944534 Hørve,ørve,500.000,30-03-2010,Alm. Salg,3.184,5,Stuehus,157,1913,,
+Søhusvej 384534 Hørve,ørve,200.000,26-03-2010,Alm. Salg,1.204,6,Villa,166,2011,,Aktuel værdi
+Bjergesøvej 34534 Hørve,ørve,825.000,21-03-2010,Alm. Salg,8.088,4,Villa,102,1942,-8 %,Aktuel værdi
+Skovvangsvej 24534 Hørve,ørve,200.000,06-03-2010,Alm. Salg,1.315,6,Stuehus,152,1921,,
+Vallekildevej 354534 Hørve,ørve,1.250.000,03-03-2010,Alm. Salg,5.630,7,Villa,222,1926,,Aktuel værdi
+Vallekildevej 1514534 Hørve,ørve,300.000,22-02-2010,Alm. Salg,1.886,4,Villa,159,1923,,Aktuel værdi
+Tinghøjvej 44534 Hørve,ørve,110.000,22-02-2010,Alm. Salg,480,11,Stuehus,229,1923,,
+Søndergade 304534 Hørve,ørve,330.000,04-02-2010,Auktion,3.473,3,Villa,95,1934,,Aktuel værdi
+Møllevangen 34534 Hørve,ørve,109.158,02-02-2010,Alm. Salg,415,6,Villa,263,1918,,Aktuel værdi
+Næbbevej 94534 Hørve,ørve,970.848,19-01-2010,Alm. Salg,8.906,2,Villa,109,1850,,Aktuel værdi
+Remisevej 44534 Hørve,ørve,850.000,16-01-2010,Alm. Salg,8.173,4,Villa,104,1957,-5 %,Aktuel værdi
+Vallekildevej 1314534 Hørve,ørve,2.090.000,29-12-2009,Alm. Salg,7.060,9,Villa,296,1904,-16 %,Aktuel værdi
+Lindebjerg 154534 Hørve,ørve,1.000.000,01-12-2009,Alm. Salg,12.195,4,Rækkehus,82,1989,,Aktuel værdi
+Højskolevej 7B4534 Hørve,ørve,2.000.000,28-11-2009,Alm. Salg,7.968,11,Villa,251,1950,,Aktuel værdi
+Nygårdsvej 64534 Hørve,ørve,1.400.000,01-10-2009,Alm. Salg,9.333,5,Stuehus,150,1870,-48 %,
+Teglværksvej 9E4534 Hørve,ørve,305.000,01-10-2009,Andet,3.961,3,Sommerhus,77,1963,,Aktuel værdi
+Bjergesøvej 14534 Hørve,ørve,2.700.000,29-09-2009,Alm. Salg,13.846,5,Stuehus,195,1928,-7 %,
+Overbyvej 164534 Hørve,ørve,1.075.000,08-09-2009,Alm. Salg,15.579,3,Sommerhus,69,1980,-10 %,Aktuel værdi
+Vejrhøjvej 14534 Hørve,ørve,1.450.000,28-08-2009,Alm. Salg,9.177,4,Villa,158,1937,-9 %,Aktuel værdi
+Sølvagervej 44534 Hørve,ørve,1.250.000,16-08-2009,Alm. Salg,9.920,5,Villa,126,1963,-7 %,Aktuel værdi
+Møllevangen 14534 Hørve,ørve,150.000,05-08-2009,Alm. Salg,643,7,Stuehus,233,1912,,
+Stendyssevej 54534 Hørve,ørve,588.000,30-07-2009,Fam. Salg,3.698,3,Villa,159,1917,,Aktuel værdi
+Elmkær 204534 Hørve,ørve,674.474,21-07-2009,Fam. Salg,5.764,4,Villa,117,1971,-62 %,Aktuel værdi
+Vallekildevej 28C4534 Hørve,ørve,1.700.000,17-07-2009,Alm. Salg,12.408,4,Villa,137,2009,0 %,Aktuel værdi
+Stendyssevej 144534 Hørve,ørve,1.500.000,19-06-2009,Alm. Salg,10.135,5,Villa,148,1930,-9 %,Aktuel værdi
+Lundevej 104534 Hørve,ørve,800.000,28-05-2009,Alm. Salg,8.163,3,Villa,98,2011,-5 %,Aktuel værdi
+Slugten 134534 Hørve,ørve,750.000,24-05-2009,Alm. Salg,17.857,3,Sommerhus,42,1980,-14 %,Aktuel værdi
+Sølvagervej 94534 Hørve,ørve,1.350.000,05-05-2009,Alm. Salg,11.739,5,Rækkehus,115,1988,,Aktuel værdi
+På Højen 54534 Hørve,ørve,1.665.000,20-04-2009,Alm. Salg,8.242,5,Villa,202,1973,-2 %,Aktuel værdi
+Kildebakken 54534 Hørve,ørve,1.325.000,10-04-2009,Alm. Salg,11.422,4,Villa,116,1973,-2 %,Aktuel værdi
+Vallekildevej 144534 Hørve,ørve,1.025.000,07-04-2009,Alm. Salg,6.655,5,Villa,154,1904,-2 %,Aktuel værdi
+Vikæret 44534 Hørve,ørve,850.000,26-03-2009,Fam. Salg,13.281,2,Villa,64,1952,,Aktuel værdi
+Lindebjerg 8B4534 Hørve,ørve,1.000.000,17-03-2009,Alm. Salg,10.869,3,Rækkehus,92,1985,,Aktuel værdi
+Strandlystvej 14534 Hørve,ørve,26.500.000,10-03-2009,Alm. Salg,128.640,6,Stuehus,206,1920,,
+Kolåsvej 154534 Hørve,ørve,478.953,02-03-2009,Andet,3.831,5,Villa,125,1967,,Aktuel værdi
+Kalundborgvej 594534 Hørve,ørve,2.950.000,31-01-2009,Alm. Salg,31.052,5,Stuehus,95,1930,,
+Kirkestien 64534 Hørve,ørve,890.000,31-01-2009,Alm. Salg,10.348,3,Villa,86,1959,,Aktuel værdi
+Lindebjerg 12B4534 Hørve,ørve,875.000,13-01-2009,Alm. Salg,11.217,3,Rækkehus,78,1986,-12 %,Aktuel værdi
+Parkvej 74534 Hørve,ørve,1.200.000,13-12-2008,Alm. Salg,7.894,5,Villa,152,1966,-7 %,Aktuel værdi
+Kalundborgvej 26B4534 Hørve,ørve,384.000,24-11-2008,Fam. Salg,8.347,3,Sommerhus,46,1962,,Aktuel værdi
+Skolegade 284534 Hørve,ørve,1.450.000,17-11-2008,Alm. Salg,10.820,4,Villa,134,1963,-9 %,Aktuel værdi
+Parkvej 34534 Hørve,ørve,1.150.000,19-10-2008,Alm. Salg,8.156,7,Villa,141,1966,-17 %,Aktuel værdi
+Elmkær 834534 Hørve,ørve,1.200.000,10-10-2008,Alm. Salg,10.084,4,Villa,119,1971,-7 %,Aktuel værdi
+Nekseløvej 44534 Hørve,ørve,1.695.000,09-10-2008,Alm. Salg,21.187,2,Stuehus,80,1921,,
+Hørve Kirkevej 274534 Hørve,ørve,2.060.000,06-10-2008,Alm. Salg,14.206,6,Villa,145,2006,-10 %,Aktuel værdi
+Lindebjerg 4A4534 Hørve,ørve,1.200.000,01-10-2008,Alm. Salg,13.186,4,Rækkehus,91,1999,-7 %,Aktuel værdi
+Triersvej 54534 Hørve,ørve,730.000,01-10-2008,Alm. Salg,5.367,5,Villa,136,1899,,Aktuel værdi
+Vejrhøjvej 44534 Hørve,ørve,869.243,28-09-2008,Alm. Salg,3.863,13,Villa,225,1989,,Aktuel værdi
+Sølvagervej 394534 Hørve,ørve,1.425.000,24-09-2008,Alm. Salg,13.571,5,Villa,105,1959,-3 %,Aktuel værdi
+Vallekildevej 1724534 Hørve,ørve,2.000.000,15-09-2008,Alm. Salg,13.071,5,Villa,153,1894,-4 %,Aktuel værdi
+Tømrervænget 54534 Hørve,ørve,1.425.000,15-09-2008,Alm. Salg,11.585,5,Villa,123,1960,-2 %,Aktuel værdi
+Hørve Kanalvej 534534 Hørve,ørve,1.567.000,05-09-2008,Alm. Salg,8.379,7,Villa,187,1910,,Aktuel værdi
+Starreklintevej 274534 Hørve,ørve,350.000,28-08-2008,Fam. Salg,3.645,3,Villa,96,1967,,Aktuel værdi
+Kildevej 34534 Hørve,ørve,203.500,15-08-2008,Alm. Salg,1.785,4,Villa,114,2010,,Aktuel værdi
+Bulskovvej 304534 Hørve,ørve,425.000,09-08-2008,Alm. Salg,6.854,5,Sommerhus,62,1967,0 %,Aktuel værdi
+Vallekildevej 1574534 Hørve,ørve,589.288,15-07-2008,Andet,6.932,4,Villa,85,1951,,Aktuel værdi
+Holstensvejen 84534 Hørve,ørve,995.000,03-07-2008,Alm. Salg,6.677,6,Villa,149,1978,,Aktuel værdi
+Fladehøj 134534 Hørve,ørve,900.000,01-07-2008,Alm. Salg,6.122,5,Villa,147,1981,,Aktuel værdi
+Dragsmøllevej 394534 Hørve,ørve,16.790.000,25-06-2008,Alm. Salg,54.161,10,Stuehus,310,1854,,
+Dragsmøllevej 444534 Hørve,ørve,2.300.000,22-06-2008,Fam. Salg,-,8,Stuehus,196,1937,,
+På Højen 154534 Hørve,ørve,1.475.000,19-06-2008,Alm. Salg,16.032,3,Villa,92,1980,0 %,Aktuel værdi
+Elmkær 224534 Hørve,ørve,1.400.000,09-06-2008,Alm. Salg,11.475,4,Villa,122,1970,-7 %,Aktuel værdi
+Idrætsvej 24534 Hørve,ørve,650.000,08-06-2008,Fam. Salg,3.494,7,Villa,186,1971,,Aktuel værdi
+Vallekildevej 1494534 Hørve,ørve,110.000,29-05-2008,Alm. Salg,1.325,3,Stuehus,83,1923,,
+Tuborgvej 644534 Hørve,ørve,2.186.000,15-05-2008,Alm. Salg,18.216,3,Villa,120,1933,-9 %,Aktuel værdi
+Vallekildevej 204534 Hørve,ørve,1.275.000,15-05-2008,Alm. Salg,10.039,5,Villa,127,1907,-6 %,Aktuel værdi
+Pilevang 24534 Hørve,ørve,1.600.000,14-05-2008,Alm. Salg,10.738,6,Villa,149,1973,-6 %,Aktuel værdi
+Rørmosevej 44534 Hørve,ørve,991.362,02-05-2008,Alm. Salg,8.473,4,Stuehus,117,1973,,
+Bjergesøvej 354534 Hørve,ørve,1.995.000,28-04-2008,Alm. Salg,15.585,5,Villa,128,1907,0 %,Aktuel værdi
+Kildebakken 74534 Hørve,ørve,1.625.000,18-03-2008,Alm. Salg,-,4,Villa,116,1973,,Aktuel værdi
+Dragsmøllevej 494534 Hørve,ørve,1.050.000,14-03-2008,Alm. Salg,12.068,4,Villa,87,1870,0 %,Aktuel værdi
+Lindebjerg 204534 Hørve,ørve,1.165.000,11-03-2008,Fam. Salg,12.010,4,Rækkehus,97,1984,,Aktuel værdi
+Lindebjerg 5A4534 Hørve,ørve,800.000,10-03-2008,Fam. Salg,8.695,4,Villa,92,1981,,Aktuel værdi
+Hørve Kirkevej 23G4534 Hørve,ørve,750.000,28-02-2008,Alm. Salg,11.029,2,Rækkehus,68,1975,-6 %,Aktuel værdi
+Tangmosen 24534 Hørve,ørve,1.650.000,27-02-2008,Alm. Salg,11.148,4,Villa,148,1904,-6 %,Aktuel værdi
+Vallekildevej 1024534 Hørve,ørve,1.340.000,19-02-2008,Fam. Salg,10.468,5,Villa,128,1936,,Aktuel værdi
+Sølvagervej 354534 Hørve,ørve,865.000,18-02-2008,Alm. Salg,16.320,2,Rækkehus,53,1974,-3 %,Aktuel værdi
+Starreklintevej 114534 Hørve,ørve,950.000,18-02-2008,Alm. Salg,12.179,3,Villa,78,1827,,Aktuel værdi
+Hørve Kirkevej 23D4534 Hørve,ørve,545.000,04-02-2008,Alm. Salg,8.014,2,Rækkehus,68,1975,,Aktuel værdi
+Hørve Kirkevej 23B4534 Hørve,ørve,850.000,24-01-2008,Alm. Salg,12.500,2,Rækkehus,68,1975,,Aktuel værdi
+Nørregade 13C4534 Hørve,ørve,1.500.000,22-01-2008,Alm. Salg,12.096,5,Servicevirksomhed,124,1924,,Aktuel værdi
+Tangmosen 144534 Hørve,ørve,450.000,08-01-2008,Alm. Salg,11.250,2,Villa,40,1822,,Aktuel værdi
+Elmkær 8D4534 Hørve,ørve,2.012.500,07-01-2008,Alm. Salg,14.797,4,Villa,136,2008,,Aktuel værdi
+Slugten 64534 Hørve,ørve,1.020.000,22-12-2007,Alm. Salg,18.545,4,Sommerhus,55,1980,-11 %,Aktuel værdi
+Nørregade 284534 Hørve,ørve,1.425.000,13-12-2007,Alm. Salg,16.569,4,Villa,86,1920,0 %,Aktuel værdi
+Strandlunden 304534 Hørve,ørve,548.000,11-12-2007,Alm. Salg,6.227,4,Sommerhus,88,2009,,Aktuel værdi
+Vallekildevej 1864534 Hørve,ørve,1.257.000,04-12-2007,Alm. Salg,4.537,8,Villa,277,1928,,Aktuel værdi
+Vallekildevej 108D4534 Hørve,ørve,2.475.000,21-11-2007,Alm. Salg,10.576,6,Villa,234,1988,-3 %,Aktuel værdi
+Lindebjerg 9A4534 Hørve,ørve,1.050.000,18-11-2007,Alm. Salg,15.441,3,Rækkehus,68,1989,,Aktuel værdi
+Strandlystvej 114534 Hørve,ørve,4.600.000,15-11-2007,Alm. Salg,20.087,7,Stuehus,229,1927,,
+Stendyssevej 74534 Hørve,ørve,1.265.000,30-10-2007,Alm. Salg,13.041,5,Villa,97,1964,,Aktuel værdi
+Dragsmøllevej 454534 Hørve,ørve,5.400.000,20-10-2007,Alm. Salg,24.545,6,Stuehus,220,1873,,
+Teglværksvej 114534 Hørve,ørve,2.700.000,17-10-2007,Alm. Salg,14.136,4,Stuehus,191,1921,,
+Vallekildevej 141B4534 Hørve,ørve,1.195.000,20-09-2007,Alm. Salg,12.070,3,Villa,99,1917,0 %,Aktuel værdi
+Sølvagervej 314534 Hørve,ørve,750.000,18-09-2007,Alm. Salg,14.150,2,Rækkehus,53,1974,-6 %,Aktuel værdi
+Vindekilde Strandvej 134534 Hørve,ørve,1.200.000,11-09-2007,Alm. Salg,14.457,3,Villa,83,1952,,Aktuel værdi
+Stendyssevej 34534 Hørve,ørve,1.677.000,10-09-2007,Alm. Salg,14.973,5,Villa,112,1943,,Aktuel værdi
+Hørve Møllevej 104534 Hørve,ørve,1.375.000,07-09-2007,Alm. Salg,11.458,6,Villa,120,1915,,Aktuel værdi
+Søhusvej 444534 Hørve,ørve,300.000,04-09-2007,Alm. Salg,1.796,5,Villa,167,2008,,Aktuel værdi
+Vikæret 164534 Hørve,ørve,739.448,31-08-2007,Alm. Salg,7.623,4,Villa,97,1993,,Aktuel værdi
+Vallekildevej 108B4534 Hørve,ørve,1.200.000,15-08-2007,Fam. Salg,10.434,4,Villa,115,1987,,Aktuel værdi
+Rødelejevej 64534 Hørve,ørve,2.075.000,06-08-2007,Alm. Salg,16.338,5,Stuehus,127,1907,-1 %,
+Vejlebyvej 54534 Hørve,ørve,4.500.000,06-08-2007,Alm. Salg,23.195,3,Stuehus,194,1930,,
+Vallekildevej 1114534 Hørve,ørve,429.500,01-08-2007,Andet,3.869,5,Villa,111,1938,,Aktuel værdi
+Næbbevej 5A4534 Hørve,ørve,1.676.000,29-07-2007,Alm. Salg,14.203,3,Villa,118,1910,29 %,Aktuel værdi
+Fladehøj 414534 Hørve,ørve,1.625.000,21-07-2007,Alm. Salg,13.888,5,Villa,117,1979,-1 %,Aktuel værdi
+Industrivej 74534 Hørve,ørve,1.375.000,20-07-2007,Alm. Salg,10.742,4,Villa,128,1958,0 %,Aktuel værdi
+Kirkebakken 64534 Hørve,ørve,2.900.000,15-07-2007,Alm. Salg,12.033,7,Villa,241,1850,-6 %,Aktuel værdi
+Vallekildevej 1174534 Hørve,ørve,1.015.000,11-07-2007,Alm. Salg,7.518,5,Villa,135,1850,-3 %,Aktuel værdi
+Holstensvejen 224534 Hørve,ørve,2.300.000,05-07-2007,Alm. Salg,16.312,4,Stuehus,141,1937,-7 %,
+Hørve Kirkevej 204534 Hørve,ørve,1.125.000,28-06-2007,Alm. Salg,17.307,2,Villa,65,1957,,Aktuel værdi
+Elmkær 164534 Hørve,ørve,1.530.000,27-06-2007,Alm. Salg,12.439,5,Villa,123,1970,,Aktuel værdi
+Bakkedraget 374534 Hørve,ørve,637.500,22-06-2007,Andet,4.793,5,Villa,133,1976,,Aktuel værdi
+Vallekildevej 1704534 Hørve,ørve,3.500.000,10-06-2007,Alm. Salg,17.156,6,Stuehus,204,1927,,
+Vallekildevej 794534 Hørve,ørve,1.758.000,07-06-2007,Alm. Salg,14.177,5,Villa,124,1953,-5 %,Aktuel værdi
+Sølvagervej 324534 Hørve,ørve,346.070,30-05-2007,Alm. Salg,2.403,6,Villa,144,1965,,Aktuel værdi
+Søhusvej 264534 Hørve,ørve,325.000,23-05-2007,Alm. Salg,2.124,4,Villa,153,2013,,Aktuel værdi
+Agervej 24534 Hørve,ørve,1.205.000,18-05-2007,Alm. Salg,15.448,3,Villa,78,1960,,Aktuel værdi
+Vejrhøjvej 7B4534 Hørve,ørve,1.750.000,15-05-2007,Alm. Salg,11.904,5,Villa,147,1993,,Aktuel værdi
+Søhusvej 364534 Hørve,ørve,295.000,08-05-2007,Alm. Salg,1.638,5,Villa,180,2010,,Aktuel værdi
+Kildebakken 114534 Hørve,ørve,1.450.000,15-04-2007,Alm. Salg,14.500,3,Villa,100,2006,,Aktuel værdi
+Søhusvej 404534 Hørve,ørve,365.000,13-04-2007,Alm. Salg,2.339,5,Villa,156,2007,,Aktuel værdi
+Næbbevej 134534 Hørve,ørve,1.275.000,12-04-2007,Alm. Salg,10.714,2,Villa,119,1877,,Aktuel værdi
+Maglebjergvej 34534 Hørve,ørve,1.240.000,06-04-2007,Alm. Salg,-,6,Villa,143,1967,-13 %,Aktuel værdi
+Strandlunden 24534 Hørve,ørve,498.000,30-03-2007,Alm. Salg,4.293,4,Sommerhus,116,2013,,Aktuel værdi
+Strandlunden 344534 Hørve,ørve,548.000,30-03-2007,Alm. Salg,5.320,4,Sommerhus,103,2007,,Aktuel værdi
+Strandlunden 104534 Hørve,ørve,548.000,27-03-2007,Alm. Salg,5.829,4,Sommerhus,94,2007,,Aktuel værdi
+Holstensvejen 74534 Hørve,ørve,911.436,27-03-2007,Alm. Salg,5.805,7,Villa,157,1877,,Aktuel værdi
+Strandlunden 404534 Hørve,ørve,548.000,27-03-2007,Alm. Salg,7.506,4,Sommerhus,73,2013,,Aktuel værdi
+Strandlunden 624534 Hørve,ørve,583.000,27-03-2007,Alm. Salg,5.500,5,Sommerhus,106,2014,,Aktuel værdi
+Engmosevej 34534 Hørve,ørve,1.400.000,20-03-2007,Alm. Salg,10.218,5,Villa,137,1970,,Aktuel værdi
+Vikæret 124534 Hørve,ørve,1.480.000,20-03-2007,Alm. Salg,11.044,4,Villa,134,1974,-1 %,Aktuel værdi
+Lindebjerg 2B4534 Hørve,ørve,1.495.000,01-03-2007,Alm. Salg,14.375,3,Rækkehus,104,2007,,Aktuel værdi
+Hørve Møllevej 114534 Hørve,ørve,100.000,16-02-2007,Alm. Salg,769,5,Villa,130,1915,,Aktuel værdi
+Vallekildevej 1254534 Hørve,ørve,1.525.000,16-02-2007,Alm. Salg,15.721,4,Villa,97,1902,-2 %,Aktuel værdi
+Nekseløvej 174534 Hørve,ørve,639.000,16-02-2007,Alm. Salg,10.306,5,Sommerhus,62,1961,,Aktuel værdi
+Starreklintevej 254534 Hørve,ørve,2.600.000,09-02-2007,Alm. Salg,10.317,10,Villa,252,1915,,Aktuel værdi
+Nygårdsvej 104534 Hørve,ørve,1.400.000,05-02-2007,Alm. Salg,9.589,6,Villa,146,1976,-10 %,Aktuel værdi
+Teglværksvej 14A4534 Hørve,ørve,1.050.000,01-02-2007,Alm. Salg,8.076,4,Sommerhus,130,2017,-9 %,Aktuel værdi
+Møllevangen 124534 Hørve,ørve,1.045.000,21-01-2007,Alm. Salg,-,6,Villa,168,1890,-5 %,Aktuel værdi
+Tangmosen 104534 Hørve,ørve,1.200.000,13-01-2007,Alm. Salg,11.320,4,Stuehus,106,1900,,
+Søndergade 54534 Hørve,ørve,1.285.000,19-12-2006,Alm. Salg,9.809,4,Villa,131,1937,,Aktuel værdi
+Holstensvejen 54534 Hørve,ørve,1.495.000,15-12-2006,Alm. Salg,13.590,3,Stuehus,110,1956,,
+Sølvagervej 74534 Hørve,ørve,1.425.000,14-12-2006,Alm. Salg,12.391,5,Rækkehus,115,1987,,Aktuel værdi
+Bulskovvej 214534 Hørve,ørve,225.000,12-12-2006,Alm. Salg,6.428,3,Sommerhus,35,1956,,Aktuel værdi
+Lindebjerg 224534 Hørve,ørve,1.145.000,12-12-2006,Alm. Salg,14.679,3,Rækkehus,78,1984,,Aktuel værdi
+Hørve Kanalvej 574534 Hørve,ørve,4.800.000,11-12-2006,Fam. Salg,22.535,7,Stuehus,213,1890,,
+Tømrervænget 14534 Hørve,ørve,1.150.000,01-12-2006,Alm. Salg,9.583,4,Villa,120,1942,,Aktuel værdi
+Hørve Kanalvej 494534 Hørve,ørve,2.710.515,01-12-2006,Alm. Salg,18.693,6,Stuehus,145,1907,,
+Nekseløvej 134534 Hørve,ørve,1.920.000,27-11-2006,Alm. Salg,10.434,5,Stuehus,184,1921,,
+På Højen 254534 Hørve,ørve,850.000,21-11-2006,Alm. Salg,6.390,5,Villa,133,1974,,Aktuel værdi
+Bakkedraget 714534 Hørve,ørve,865.345,13-11-2006,Alm. Salg,5.846,4,Villa,148,1987,,Aktuel værdi
+"Hørve Stationsvej 7, 14534 Hørve",ørve,1.600.000,02-11-2006,Alm. Salg,-,5,Lejlighed,119,1897,,Aktuel værdi
+Fladehøj 124534 Hørve,ørve,1.585.000,27-10-2006,Alm. Salg,12.099,4,Villa,131,1978,,Aktuel værdi
+Vallekildevej 1214534 Hørve,ørve,3.050.000,10-10-2006,Alm. Salg,15.561,15,Villa,196,1907,,Aktuel værdi
+Hørve Kanalvej 614534 Hørve,ørve,1.951.000,08-10-2006,Alm. Salg,11.544,4,Villa,169,1900,,Aktuel værdi
+Dragsmøllevej 184534 Hørve,ørve,1.900.000,05-10-2006,Alm. Salg,10.326,6,Villa,184,1897,,Aktuel værdi
+Lindebjerg 174534 Hørve,ørve,1.215.000,30-09-2006,Alm. Salg,14.817,4,Rækkehus,82,1989,,Aktuel værdi
+Vallekildevej 108A4534 Hørve,ørve,1.225.000,22-09-2006,Alm. Salg,15.312,2,Villa,80,1941,,Aktuel værdi
+Søhusvej 304534 Hørve,ørve,270.000,24-08-2006,Alm. Salg,1.928,4,Villa,140,2010,,Aktuel værdi
+Lindebjerg 2A4534 Hørve,ørve,1.475.000,23-08-2006,Alm. Salg,-,5,Rækkehus,128,2007,,Aktuel værdi
+Vallekildevej 624534 Hørve,ørve,1.275.000,11-08-2006,Alm. Salg,10.450,3,Villa,122,1942,,Aktuel værdi
+Kirkebakken 14534 Hørve,ørve,800.000,10-08-2006,Alm. Salg,10.000,2,Villa,80,1949,,Aktuel værdi
+Skolegade 194534 Hørve,ørve,1.245.000,02-08-2006,Alm. Salg,10.732,4,Villa,116,1961,,Aktuel værdi
+Skolelodden 24534 Hørve,ørve,935.000,01-08-2006,Fam. Salg,7.083,4,Villa,132,1967,,Aktuel værdi
+Nyrupsvej 2B4534 Hørve,ørve,1.395.000,19-07-2006,Alm. Salg,14.684,3,Rækkehus,95,2006,,Aktuel værdi
+Vindekilde Strandvej 154534 Hørve,ørve,1.195.000,17-07-2006,Alm. Salg,14.058,2,Villa,85,1960,,Aktuel værdi
+Bakkedraget 414534 Hørve,ørve,1.800.000,10-07-2006,Alm. Salg,11.538,4,Villa,156,1988,,Aktuel værdi
+Nyrupsvej 34534 Hørve,ørve,1.100.000,07-07-2006,Alm. Salg,12.222,2,Villa,90,1947,,Aktuel værdi
+Nyrupsvej 2A4534 Hørve,ørve,1.395.000,05-07-2006,Alm. Salg,14.684,3,Rækkehus,95,2006,,Aktuel værdi
+Dragsmøllevej 374534 Hørve,ørve,650.000,21-06-2006,Alm. Salg,6.500,4,Villa,100,1777,,Aktuel værdi
+Bjergesøvej 514534 Hørve,ørve,850.000,17-06-2006,Alm. Salg,13.281,3,Villa,64,1940,,Aktuel værdi
+Kildegårdsvej 154534 Hørve,ørve,1.650.000,16-06-2006,Alm. Salg,10.312,5,Villa,160,1973,,Aktuel værdi
+Bakkedraget 114534 Hørve,ørve,1.595.000,16-06-2006,Alm. Salg,12.083,5,Villa,132,2006,,Aktuel værdi
+Søhusvej 184534 Hørve,ørve,1.821.250,01-06-2006,Alm. Salg,12.916,5,Villa,141,2006,,Aktuel værdi
+Nørregade 164534 Hørve,ørve,995.000,31-05-2006,Alm. Salg,10.473,6,Villa,95,1929,,Aktuel værdi
+Søhusvej 544534 Hørve,ørve,270.000,31-05-2006,Alm. Salg,1.607,6,Villa,168,2007,,Aktuel værdi
+Bakkedraget 424534 Hørve,ørve,1.295.000,18-05-2006,Alm. Salg,11.562,4,Villa,112,1980,,Aktuel værdi
+Poppelvang 244534 Hørve,ørve,1.278.665,16-05-2006,Andet,6.393,6,Villa,200,1973,,Aktuel værdi
+Sølvagervej 104534 Hørve,ørve,1.350.000,15-05-2006,Alm. Salg,9.000,4,Villa,150,1902,,Aktuel værdi
+Dragsmøllevej 94534 Hørve,ørve,795.000,13-05-2006,Alm. Salg,14.196,2,Villa,56,1886,,Aktuel værdi
+Remisevej 14534 Hørve,ørve,1.195.000,08-05-2006,Alm. Salg,7.071,5,Villa,169,1922,,Aktuel værdi
+Dragsmøllevej 194534 Hørve,ørve,1.082.000,01-05-2006,Alm. Salg,12.295,3,Villa,88,1982,,Aktuel værdi
+Søhusvej 524534 Hørve,ørve,295.000,27-04-2006,Alm. Salg,1.903,6,Villa,155,2009,,Aktuel værdi
+Kolåsvej 234534 Hørve,ørve,1.100.000,25-04-2006,Alm. Salg,-,6,Villa,148,1985,,Aktuel værdi
+Næbbevej 34534 Hørve,ørve,1.660.000,21-04-2006,Alm. Salg,14.821,4,Villa,112,1969,,Aktuel værdi
+Fjordvej 124534 Hørve,ørve,1.500.000,18-04-2006,Fam. Salg,13.513,4,Stuehus,111,1898,,
+Skolegade 184534 Hørve,ørve,775.000,13-04-2006,Alm. Salg,7.451,4,Villa,104,1947,,Aktuel værdi
+Poppelvang 204534 Hørve,ørve,1.335.000,08-04-2006,Alm. Salg,11.608,4,Villa,115,1974,,Aktuel værdi
+Bjergesøvej 164534 Hørve,ørve,2.600.000,05-04-2006,Alm. Salg,14.444,6,Villa,180,1877,,Aktuel værdi
+Elmkær 404534 Hørve,ørve,600.000,31-03-2006,Andet,4.081,6,Villa,147,1970,,Aktuel værdi
+Lindebjerg 14534 Hørve,ørve,1.617.000,27-03-2006,Alm. Salg,12.157,5,Villa,133,2006,,Aktuel værdi
+Holstensvejen 144534 Hørve,ørve,2.700.000,27-03-2006,Alm. Salg,9.000,8,Stuehus,300,1935,,
+Hørve Kirkevej 23C4534 Hørve,ørve,785.000,24-03-2006,Alm. Salg,11.544,2,Rækkehus,68,1975,,Aktuel værdi
+Højskolevej 34534 Hørve,ørve,1.000.000,17-03-2006,Alm. Salg,7.633,5,Villa,131,1900,,Aktuel værdi
+Kirkestien 194534 Hørve,ørve,2.100.000,09-03-2006,Alm. Salg,14.000,6,Villa,150,1967,,Aktuel værdi
+Vallekildevej 19A4534 Hørve,ørve,975.000,07-03-2006,Alm. Salg,15.476,2,Villa,63,1956,,Aktuel værdi
+Kildevej 54534 Hørve,ørve,95.000,07-03-2006,Alm. Salg,760,3,Villa,125,2008,,Aktuel værdi
+Fladehøj 34534 Hørve,ørve,128.680,06-03-2006,Alm. Salg,779,4,Villa,165,2008,,Aktuel værdi
+Søhusvej 484534 Hørve,ørve,285.552,28-02-2006,Alm. Salg,2.039,5,Villa,140,2007,,Aktuel værdi
+Pilevang 144534 Hørve,ørve,1.415.000,23-02-2006,Alm. Salg,10.639,5,Villa,133,1978,,Aktuel værdi
+Sandbyhagevej 54534 Hørve,ørve,1.495.000,22-02-2006,Alm. Salg,12.458,5,Villa,120,1908,,Aktuel værdi
+Skovvangsvej 4A4534 Hørve,ørve,2.150.000,22-02-2006,Alm. Salg,17.916,4,Villa,120,1922,,Aktuel værdi
+Poppelvang 124534 Hørve,ørve,1.472.093,20-02-2006,Alm. Salg,10.667,4,Villa,138,1974,,Aktuel værdi
+Industrivej 164534 Hørve,ørve,1.800.000,13-02-2006,Alm. Salg,10.909,6,Villa,165,1976,,Aktuel værdi
+Elmkær 504534 Hørve,ørve,1.600.000,07-01-2006,Alm. Salg,8.376,6,Villa,191,1971,,Aktuel værdi
+Fladehøj 194534 Hørve,ørve,1.275.000,21-12-2005,Alm. Salg,8.673,5,Villa,147,1981,,Aktuel værdi
+Pilevang 44534 Hørve,ørve,1.735.000,18-12-2005,Alm. Salg,13.554,5,Villa,128,2002,,Aktuel værdi
+Kolåsvej 16A4534 Hørve,ørve,425.000,16-12-2005,Fam. Salg,3.695,4,Villa,115,1967,,Aktuel værdi
+Svinget 44534 Hørve,ørve,820.000,05-12-2005,Alm. Salg,13.015,3,Villa,63,1959,,Aktuel værdi
+Sølvagervej 194534 Hørve,ørve,715.000,20-11-2005,Alm. Salg,13.000,2,Rækkehus,55,1974,,Aktuel værdi
+Bakkedraget 364534 Hørve,ørve,800.000,17-11-2005,Fam. Salg,7.476,4,Rækkehus,107,1977,,Aktuel værdi
+Søhusvej 24534 Hørve,ørve,190.000,10-11-2005,Alm. Salg,1.283,5,Villa,148,2006,,Aktuel værdi
+Poppelvang 144534 Hørve,ørve,1.285.000,10-11-2005,Alm. Salg,12.722,4,Villa,101,1988,,Aktuel værdi
+Sølvagervej 234534 Hørve,ørve,354.636,04-11-2005,Andet,6.691,2,Rækkehus,53,1974,,Aktuel værdi
+Søhusvej 64534 Hørve,ørve,222.000,02-11-2005,Alm. Salg,1.632,4,Villa,136,2007,,Aktuel værdi
+Vallekildevej 324534 Hørve,ørve,1.025.000,22-10-2005,Alm. Salg,11.141,2,Villa,92,1902,,Aktuel værdi
+Elmkær 914534 Hørve,ørve,1.300.000,19-10-2005,Alm. Salg,9.285,4,Villa,140,1972,,Aktuel værdi
+Dragsmøllevej 84534 Hørve,ørve,1.950.000,03-10-2005,Alm. Salg,8.125,4,Stuehus,240,1984,,
+Teglværksvej 14E4534 Hørve,ørve,2.900.000,29-09-2005,Alm. Salg,-,6,Sommerhus,123,2004,,Aktuel værdi
+Klitvej 54534 Hørve,ørve,2.300.000,18-09-2005,Alm. Salg,46.000,3,Sommerhus,50,1945,,Aktuel værdi
+Østervangsvej 24534 Hørve,ørve,2.800.000,08-09-2005,Alm. Salg,18.918,4,Stuehus,148,1920,,
+På Højen 4E4534 Hørve,ørve,795.000,06-09-2005,Alm. Salg,13.706,3,Rækkehus,58,1975,,Aktuel værdi
+Bakkedraget 614534 Hørve,ørve,300.000,29-08-2005,Alm. Salg,2.013,5,Villa,149,2007,,Aktuel værdi
+Holstensvejen 324534 Hørve,ørve,454.000,28-08-2005,Andet,4.017,3,Stuehus,113,1876,,
+Søhusvej 204534 Hørve,ørve,331.000,19-08-2005,Alm. Salg,1.606,7,Villa,206,2008,,Aktuel værdi
+Søhusvej 124534 Hørve,ørve,326.100,19-08-2005,Alm. Salg,2.174,5,Villa,150,2006,,Aktuel værdi
+Søhusvej 104534 Hørve,ørve,320.000,19-08-2005,Alm. Salg,1.860,6,Villa,172,2006,,Aktuel værdi
+Sølvagervej 294534 Hørve,ørve,775.000,10-08-2005,Alm. Salg,14.351,2,Rækkehus,54,1974,,Aktuel værdi
+Bjergesøvej 104534 Hørve,ørve,900.000,10-08-2005,Alm. Salg,-,5,Villa,143,1927,,Aktuel værdi
+Elmkær 524534 Hørve,ørve,1.050.000,02-08-2005,Alm. Salg,9.905,4,Villa,106,1970,,Aktuel værdi
+Kolåsvej 174534 Hørve,ørve,1.645.000,01-08-2005,Alm. Salg,6.633,6,Villa,248,1875,,Aktuel værdi
+Bjergesøvej 24534 Hørve,ørve,850.000,01-08-2005,Alm. Salg,5.985,4,Villa,142,2009,,Aktuel værdi
+Bulskovvej 184534 Hørve,ørve,395.000,20-07-2005,Alm. Salg,-,5,Sommerhus,107,1967,,Aktuel værdi
+Fladehøj 54534 Hørve,ørve,105.000,19-07-2005,Alm. Salg,840,4,Villa,125,2006,,Aktuel værdi
+Bakkedraget 344534 Hørve,ørve,945.000,18-07-2005,Alm. Salg,10.738,3,Rækkehus,88,1977,,Aktuel værdi
+Overbyvej 184534 Hørve,ørve,1.075.000,18-07-2005,Alm. Salg,15.808,3,Sommerhus,68,1980,,Aktuel værdi
+Vallekildevej 214534 Hørve,ørve,1.400.000,22-06-2005,Alm. Salg,10.000,5,Villa,140,1925,,Aktuel værdi
+Vallekildevej 1444534 Hørve,ørve,890.000,31-05-2005,Alm. Salg,9.673,3,Villa,92,1964,,Aktuel værdi
+Sandbyhagevej 44534 Hørve,ørve,100.000,28-05-2005,Alm. Salg,694,6,Stuehus,144,1906,,
+Overbyvej 34534 Hørve,ørve,1.170.000,27-05-2005,Alm. Salg,20.172,3,Sommerhus,58,1979,,Aktuel værdi
+Maglebjergvej 54534 Hørve,ørve,1.150.000,25-05-2005,Alm. Salg,9.745,4,Villa,118,1970,,Aktuel værdi
+Kildegårdsvej 164534 Hørve,ørve,100.000,16-05-2005,Alm. Salg,900,3,Villa,111,2006,,Aktuel værdi
+Nekseløvej 64534 Hørve,ørve,1.370.580,08-05-2005,Alm. Salg,4.269,10,Stuehus,321,1922,,
+Bakkedraget 354534 Hørve,ørve,1.165.000,23-04-2005,Alm. Salg,8.566,4,Villa,136,1976,,Aktuel værdi
+Lindebjerg 7A4534 Hørve,ørve,950.000,20-04-2005,Alm. Salg,10.326,4,Villa,92,1981,,Aktuel værdi
+Overbyvej 134534 Hørve,ørve,1.010.000,14-04-2005,Alm. Salg,20.200,3,Sommerhus,50,2004,,Aktuel værdi
+Maglebjergvej 84534 Hørve,ørve,825.000,13-04-2005,Fam. Salg,6.762,4,Villa,122,1964,,Aktuel værdi
+Bjergesøvej 194534 Hørve,ørve,850.000,04-04-2005,Alm. Salg,8.095,3,Villa,105,1900,,Aktuel værdi
+Vallekildevej 1754534 Hørve,ørve,1.375.000,01-04-2005,Alm. Salg,7.313,4,Villa,188,1974,,Aktuel værdi
+Teglværksvej 84534 Hørve,ørve,3.400.000,22-03-2005,Alm. Salg,23.448,6,Stuehus,145,1921,,
+Bakkedraget 284534 Hørve,ørve,1.090.000,22-03-2005,Alm. Salg,10.283,4,Villa,106,1976,,Aktuel værdi
+Starreklintevej 184534 Hørve,ørve,1.542.500,18-03-2005,Alm. Salg,7.712,6,Villa,200,1800,,Aktuel værdi
+Sandbyhagevej 3. TH4534 Hørve,ørve,2.250.000,16-03-2005,Alm. Salg,10.765,7,Villa,209,1977,,Aktuel værdi
+Strandlystvej 144534 Hørve,ørve,825.000,15-03-2005,Alm. Salg,7.500,3,Villa,110,1951,,Aktuel værdi
+Hørve Kanalvej 634534 Hørve,ørve,990.913,04-03-2005,Alm. Salg,9.620,3,Villa,103,1907,,Aktuel værdi
+Skovvangsvej 64534 Hørve,ørve,2.125.000,08-02-2005,Alm. Salg,7.988,9,Villa,266,1921,,Aktuel værdi
+Søhusvej 114534 Hørve,ørve,1.190.000,04-02-2005,Alm. Salg,8.814,4,Villa,135,1979,,Aktuel værdi
+Bakkedraget 174534 Hørve,ørve,1.075.000,28-01-2005,Andet,9.267,4,Villa,116,1979,,Aktuel værdi
+Lindebjerg 5B4534 Hørve,ørve,944.186,11-01-2005,Alm. Salg,10.262,4,Villa,92,1981,,Aktuel værdi
+Sølvagervej 64534 Hørve,ørve,795.000,10-01-2005,Alm. Salg,6.853,4,Villa,116,1900,,Aktuel værdi
+Kildegårdsvej 94534 Hørve,ørve,1.250.000,08-01-2005,Alm. Salg,10.330,5,Villa,121,1972,,Aktuel værdi
+Bulskovvej 34534 Hørve,ørve,70.000,06-01-2005,Alm. Salg,2.592,2,Sommerhus,27,1948,,Aktuel værdi
+Elmkær 444534 Hørve,ørve,1.350.000,21-12-2004,Alm. Salg,7.803,5,Villa,173,1971,,Aktuel værdi
+Holstensvejen 164534 Hørve,ørve,1.105.000,16-12-2004,Fam. Salg,12.010,5,Stuehus,92,1800,,
+Bakkedraget 94534 Hørve,ørve,120.000,12-12-2004,Alm. Salg,718,6,Villa,167,2007,,Aktuel værdi
+Stendyssevej 8B4534 Hørve,ørve,1.320.000,09-12-2004,Alm. Salg,11.000,5,Villa,120,1985,,Aktuel værdi
+Elmkær 794534 Hørve,ørve,1.200.000,08-12-2004,Alm. Salg,8.275,5,Villa,145,1973,,Aktuel værdi
+Nekseløvej 214534 Hørve,ørve,125.000,07-12-2004,Andet,2.450,3,Sommerhus,51,1949,,Aktuel værdi
+Kirkebakken 34534 Hørve,ørve,1.395.000,06-12-2004,Alm. Salg,9.238,6,Villa,151,1825,,Aktuel værdi
+Lindebjerg 184534 Hørve,ørve,850.000,01-12-2004,Alm. Salg,10.897,3,Rækkehus,78,1988,,Aktuel værdi
+Søndergade 194534 Hørve,ørve,875.000,29-11-2004,Alm. Salg,9.408,4,Villa,93,1930,,Aktuel værdi
+Lindebjerg 134534 Hørve,ørve,725.000,17-11-2004,Alm. Salg,10.069,3,Rækkehus,72,1983,,Aktuel værdi
+Østerled 74534 Hørve,ørve,1.000.000,01-11-2004,Alm. Salg,11.235,3,Villa,89,1919,,Aktuel værdi
+Bakkedraget 234534 Hørve,ørve,1.050.000,25-10-2004,Alm. Salg,6.645,4,Villa,158,1980,,Aktuel værdi
+Bulskovvej 274534 Hørve,ørve,400.000,10-10-2004,Alm. Salg,5.633,3,Sommerhus,71,1947,,Aktuel værdi
+Fjordvej 14534 Hørve,ørve,1.253.000,10-10-2004,Alm. Salg,3.729,14,Villa,336,1911,,Aktuel værdi
+Bakkedraget 54534 Hørve,ørve,135.000,03-09-2004,Alm. Salg,992,5,Villa,136,2006,,Aktuel værdi
+Bjergesøvej 254534 Hørve,ørve,367.000,27-08-2004,Alm. Salg,7.340,2,Sommerhus,50,1957,,Aktuel værdi
+Poppelvang 44534 Hørve,ørve,1.200.000,02-08-2004,Alm. Salg,7.272,4,Villa,165,1973,,Aktuel værdi
+Nekseløvej 124534 Hørve,ørve,300.000,26-07-2004,Alm. Salg,2.777,4,Sommerhus,108,2006,,Aktuel værdi
+Vallekildevej 28A4534 Hørve,ørve,582.000,15-07-2004,Alm. Salg,5.388,3,Villa,108,1916,,Aktuel værdi
+Poppelvang 34534 Hørve,ørve,1.170.000,03-07-2004,Alm. Salg,10.833,4,Villa,108,1974,,Aktuel værdi
+Lundevej 44534 Hørve,ørve,845.000,30-06-2004,Alm. Salg,8.711,3,Villa,97,1966,,Aktuel værdi
+Bakkedraget 144534 Hørve,ørve,1.035.000,24-06-2004,Alm. Salg,8.085,3,Villa,128,1978,,Aktuel værdi
+Østerled 64534 Hørve,ørve,784.000,12-06-2004,Alm. Salg,9.800,3,Villa,80,1955,,Aktuel værdi
+Højskolevej 104534 Hørve,ørve,1.900.000,07-06-2004,Alm. Salg,10.326,7,Villa,184,1847,,Aktuel værdi
+Pilevang 134534 Hørve,ørve,1.365.000,04-06-2004,Alm. Salg,8.323,4,Villa,164,1976,,Aktuel værdi
+Kildebakken 24534 Hørve,ørve,1.005.073,17-05-2004,Alm. Salg,7.500,4,Villa,134,1976,,Aktuel værdi
+"Nørregade 14, 14534 Hørve",ørve,1.495.000,17-05-2004,Alm. Salg,-,6,Lejlighed,198,1950,,Aktuel værdi
+Dragsmøllevej 20A4534 Hørve,ørve,865.000,12-05-2004,Alm. Salg,7.393,4,Villa,117,1920,,Aktuel værdi
+Lillevangen 64534 Hørve,ørve,840.000,01-05-2004,Alm. Salg,6.562,4,Villa,128,1923,,Aktuel værdi
+Hørve Kirkevej 304534 Hørve,ørve,386.500,29-04-2004,Alm. Salg,3.578,3,Villa,108,1974,,Aktuel værdi
+Skolegade 34534 Hørve,ørve,1.050.000,11-04-2004,Alm. Salg,9.130,5,Villa,115,1936,,Aktuel værdi
+Nygårdsvej 1A4534 Hørve,ørve,1.850.000,06-04-2004,Alm. Salg,10.632,8,Stuehus,174,1930,,
+Damgårdsvej 44534 Hørve,ørve,1.424.999,02-04-2004,Alm. Salg,9.437,6,Villa,151,1943,,Aktuel værdi
+Vallekildevej 28B4534 Hørve,ørve,495.000,01-04-2004,Alm. Salg,8.839,3,Villa,56,1947,,Aktuel værdi
+Elmkær 244534 Hørve,ørve,1.080.000,27-03-2004,Alm. Salg,8.852,4,Villa,122,1972,,Aktuel værdi
+Lindebjerg 2C4534 Hørve,ørve,1.065.000,09-03-2004,Alm. Salg,12.102,5,Rækkehus,88,1999,,Aktuel værdi
+På Højen 2E4534 Hørve,ørve,650.000,08-03-2004,Alm. Salg,11.818,2,Rækkehus,55,1973,,Aktuel værdi
+Hørve Kirkevej 254534 Hørve,ørve,1.290.000,19-02-2004,Alm. Salg,7.247,7,Villa,178,1958,,Aktuel værdi
+Hørve Kirkevej 294534 Hørve,ørve,1.150.000,27-01-2004,Alm. Salg,7.012,7,Villa,164,1936,,Aktuel værdi
+På Højen 4B4534 Hørve,ørve,670.000,15-01-2004,Alm. Salg,11.551,3,Rækkehus,58,1975,,Aktuel værdi
+Vallekildevej 1824534 Hørve,ørve,625.000,05-01-2004,Alm. Salg,7.812,2,Villa,80,1953,,Aktuel værdi
+Klitvej 84534 Hørve,ørve,484.500,15-12-2003,Fam. Salg,15.629,3,Sommerhus,31,1937,,Aktuel værdi
+Starreklintevej 14534 Hørve,ørve,536.591,02-12-2003,Alm. Salg,-,5,Villa,132,1900,,Aktuel værdi
+Starreklintevej 134534 Hørve,ørve,326.000,22-11-2003,Fam. Salg,-,4,Villa,168,1900,,Aktuel værdi
+Lindebjerg 4B4534 Hørve,ørve,1.028.000,19-11-2003,Alm. Salg,11.296,4,Rækkehus,91,1999,,Aktuel værdi
+Damgårdsvej 14534 Hørve,ørve,650.000,18-11-2003,Alm. Salg,-,5,Villa,126,1916,,Aktuel værdi
+Vikæret 104534 Hørve,ørve,500.000,15-11-2003,Andet,7.462,4,Villa,67,1975,,Aktuel værdi
+Elmkær 344534 Hørve,ørve,1.030.000,02-11-2003,Alm. Salg,8.373,5,Villa,123,1977,,Aktuel værdi
+Fladehøj 64534 Hørve,ørve,895.000,10-10-2003,Alm. Salg,5.593,4,Villa,160,1979,,Aktuel værdi
+Vallekildevej 1904534 Hørve,ørve,370.000,08-10-2003,Alm. Salg,4.111,3,Villa,90,1777,,Aktuel værdi
+Søndergade 44534 Hørve,ørve,282.614,02-10-2003,Alm. Salg,3.140,6,Villa,90,1924,,Aktuel værdi
+På Højen 2A4534 Hørve,ørve,590.000,02-10-2003,Alm. Salg,10.350,2,Rækkehus,57,1973,,Aktuel værdi
+Næbbevej 24534 Hørve,ørve,850.000,01-10-2003,Alm. Salg,-,4,Villa,129,1973,,Aktuel værdi
+Kolåsvej 10B4534 Hørve,ørve,900.000,25-09-2003,Alm. Salg,-,4,Sommerhus,83,1937,,Aktuel værdi
+Sølvagervej 84534 Hørve,ørve,325.000,25-09-2003,Alm. Salg,-,5,Villa,116,1958,,Aktuel værdi
+Banevej 124534 Hørve,ørve,725.000,20-09-2003,Alm. Salg,5.753,4,Villa,126,1900,,Aktuel værdi
+Teglværksvej 14C4534 Hørve,ørve,1.500.000,16-09-2003,Alm. Salg,15.000,4,Sommerhus,100,2006,,Aktuel værdi
+Vallekildevej 1004534 Hørve,ørve,1.274.335,14-09-2003,Alm. Salg,10.194,3,Villa,125,1949,,Aktuel værdi
+Bjergesøvej 274534 Hørve,ørve,725.000,29-08-2003,Alm. Salg,13.181,4,Sommerhus,55,1860,,Aktuel værdi
+Holstensvejen 184534 Hørve,ørve,3.250.000,21-08-2003,Alm. Salg,24.809,4,Stuehus,131,1937,,
+Nykøbingvej 764534 Hørve,ørve,615.000,13-08-2003,Alm. Salg,5.590,2,Villa,110,1880,,Aktuel værdi
+Bjergesøvej 204534 Hørve,ørve,825.000,04-08-2003,Alm. Salg,7.300,3,Villa,113,1850,,Aktuel værdi
+Nekseløvej 374534 Hørve,ørve,550.000,23-07-2003,Alm. Salg,18.965,2,Sommerhus,29,1932,,Aktuel værdi
+Fyrrestien 84534 Hørve,ørve,450.000,20-07-2003,Alm. Salg,8.653,3,Sommerhus,52,1963,,Aktuel værdi
+Maglebjergvej 124534 Hørve,ørve,1.215.000,15-07-2003,Alm. Salg,-,6,Villa,150,1965,,Aktuel værdi
+Bakken 64534 Hørve,ørve,530.000,01-07-2003,Alm. Salg,5.047,3,Villa,105,1949,,Aktuel værdi
+Lammefjordsvej 24534 Hørve,ørve,4.904.375,30-06-2003,Fam. Salg,15.769,11,Stuehus,311,1916,,
+Kildegårdsvej 124534 Hørve,ørve,90.000,24-06-2003,Alm. Salg,666,4,Villa,135,2010,,Aktuel værdi
+Engmosevej 64534 Hørve,ørve,1.095.000,24-06-2003,Alm. Salg,10.841,3,Villa,101,1989,,Aktuel værdi
+Vallekildevej 454534 Hørve,ørve,1.295.000,02-06-2003,Alm. Salg,9.885,4,Villa,131,1912,,Aktuel værdi
+Nygårdsvej 74534 Hørve,ørve,2.750.000,16-05-2003,Alm. Salg,18.581,5,Stuehus,148,1907,,
+Fladehøj 14534 Hørve,ørve,154.560,12-05-2003,Alm. Salg,888,5,Villa,174,2006,,Aktuel værdi
+Vallekildevej 1504534 Hørve,ørve,875.000,05-05-2003,Alm. Salg,6.730,7,Villa,130,1917,,Aktuel værdi
+Teglværksvej 104534 Hørve,ørve,1.164.136,03-05-2003,Fam. Salg,7.510,5,Villa,155,1920,,Aktuel værdi
+Overbyvej 94534 Hørve,ørve,952.500,10-04-2003,Alm. Salg,14.216,4,Sommerhus,67,1990,,Aktuel værdi
+Bakkedraget 254534 Hørve,ørve,1.420.000,08-04-2003,Alm. Salg,9.594,5,Villa,148,1980,,Aktuel værdi
+Agervej 14534 Hørve,ørve,3.500.000,07-03-2003,Alm. Salg,13.157,8,Stuehus,266,2016,,
+Søhusvej 194534 Hørve,ørve,1.395.000,07-03-2003,Alm. Salg,7.793,8,Villa,179,1777,,Aktuel værdi
+Holstensvejen 64534 Hørve,ørve,935.000,25-02-2003,Alm. Salg,11.130,3,Villa,84,1815,,Aktuel værdi
+Lindebjerg 8A4534 Hørve,ørve,865.000,22-02-2003,Alm. Salg,-,3,Sommerhus,118,1985,,Aktuel værdi
+Vallekildevej 1924534 Hørve,ørve,917.857,15-02-2003,Alm. Salg,6.556,5,Villa,140,1930,,Aktuel værdi
+Nørregade 274534 Hørve,ørve,909.402,19-01-2003,Alm. Salg,-,5,Villa,152,1948,,Aktuel værdi
+Lindebjerg 6B4534 Hørve,ørve,800.000,13-12-2002,Alm. Salg,8.791,4,Rækkehus,91,1991,,Aktuel værdi
+Vallekildevej 574534 Hørve,ørve,670.000,27-11-2002,Alm. Salg,6.036,3,Villa,111,1945,,Aktuel værdi
+Industrivej 34534 Hørve,ørve,450.000,01-11-2002,Alm. Salg,7.500,3,Villa,60,1969,,Aktuel værdi
+Vindekilde Strandvej 74534 Hørve,ørve,850.000,30-09-2002,Alm. Salg,-,3,Villa,161,1953,,Aktuel værdi
+Kildegårdsvej 34534 Hørve,ørve,580.000,25-09-2002,Alm. Salg,7.532,4,Villa,77,1981,,Aktuel værdi
+Elmkær 544534 Hørve,ørve,1.125.000,14-09-2002,Alm. Salg,8.522,4,Villa,132,1971,,Aktuel værdi
+Bulskovvej 144534 Hørve,ørve,250.000,01-09-2002,Alm. Salg,5.681,3,Sommerhus,44,1965,,Aktuel værdi
+Dragsmøllevej 5A4534 Hørve,ørve,1.270.000,27-08-2002,Alm. Salg,8.193,5,Villa,155,1974,,Aktuel værdi
+Højskolevej 234534 Hørve,ørve,1.995.000,26-08-2002,Alm. Salg,13.854,5,Villa,144,1929,,Aktuel værdi
+Kildegårdsvej 54534 Hørve,ørve,540.000,06-08-2002,Alm. Salg,-,5,Villa,122,1981,,Aktuel værdi
+Hørve Kirkevej 94534 Hørve,ørve,480.168,31-07-2002,Fam. Salg,2.841,5,Villa,169,1901,,Aktuel værdi
+Vallekildevej 1374534 Hørve,ørve,509.923,17-07-2002,Alm. Salg,5.794,2,Villa,88,1900,,Aktuel værdi
+Vallekildevej 1484534 Hørve,ørve,575.000,02-07-2002,Alm. Salg,6.686,4,Villa,86,1890,,Aktuel værdi
+Skolegade 204534 Hørve,ørve,950.000,14-06-2002,Alm. Salg,7.421,4,Villa,128,1972,,Aktuel værdi
+Holmagervej 94534 Hørve,ørve,721.575,12-06-2002,Alm. Salg,6.329,6,Villa,114,1962,,Aktuel værdi
+Hørve Kanalvej 434534 Hørve,ørve,5.140.000,11-06-2002,Fam. Salg,23.796,6,Stuehus,216,1920,,
+Klitvej 94534 Hørve,ørve,1.125.000,04-06-2002,Fam. Salg,10.321,5,Sommerhus,109,2010,,Aktuel værdi
+Elmkær 124534 Hørve,ørve,1.088.000,26-05-2002,Alm. Salg,8.500,4,Villa,128,1973,,Aktuel værdi
+Rørmosevej 34534 Hørve,ørve,1.006.623,24-05-2002,Alm. Salg,7.088,4,Villa,142,1827,,Aktuel værdi
+Næbbevej 74534 Hørve,ørve,1.415.000,14-05-2002,Alm. Salg,9.433,4,Villa,150,1885,,Aktuel værdi
+Søndergade 124534 Hørve,ørve,944.131,10-04-2002,Alm. Salg,7.867,6,Villa,120,1908,,Aktuel værdi
+Sølvagervej 20A4534 Hørve,ørve,196.100,20-02-2002,Alm. Salg,1.233,5,Villa,159,2003,,Aktuel værdi
+Slugten 124534 Hørve,ørve,225.000,25-12-2001,Alm. Salg,5.000,2,Sommerhus,45,1981,,Aktuel værdi
+Vallekildevej 1734534 Hørve,ørve,230.000,30-11-2001,Andet,-,3,Villa,119,1830,,Aktuel værdi
+Vallekildevej 534534 Hørve,ørve,1.095.000,26-11-2001,Alm. Salg,7.877,3,Villa,139,1939,,Aktuel værdi
+Skolelodden 94534 Hørve,ørve,1.275.000,25-11-2001,Alm. Salg,9.659,5,Villa,132,1980,,Aktuel værdi
+Slugten 74534 Hørve,ørve,528.350,20-11-2001,Alm. Salg,9.968,3,Sommerhus,53,1982,,Aktuel værdi
+Vallekildevej 744534 Hørve,ørve,810.000,04-11-2001,Alm. Salg,7.363,3,Villa,110,1944,,Aktuel værdi
+Sandbyhagevej 94534 Hørve,ørve,1.367.500,18-10-2001,Alm. Salg,11.891,5,Stuehus,115,1902,,
+Hørve Kirkevej 284534 Hørve,ørve,895.000,11-10-2001,Alm. Salg,-,4,Villa,146,1978,,Aktuel værdi
+Lillevangen 74534 Hørve,ørve,1.500.000,06-09-2001,Alm. Salg,6.465,7,Stuehus,232,1830,,
+Bakkedraget 204534 Hørve,ørve,970.486,31-07-2001,Alm. Salg,7.581,4,Villa,128,1976,,Aktuel værdi
+Nørregade 304534 Hørve,ørve,510.000,15-07-2001,Alm. Salg,4.636,4,Villa,110,1920,,Aktuel værdi
+Vallekildevej 764534 Hørve,ørve,814.260,12-07-2001,Alm. Salg,6.312,6,Villa,129,1940,,Aktuel værdi
+Storøhagevej 274534 Hørve,ørve,346.692,11-07-2001,Alm. Salg,3.852,4,Stuehus,90,1931,,
+Bulskovvej 264534 Hørve,ørve,250.000,09-07-2001,Alm. Salg,5.000,4,Sommerhus,50,1965,,Aktuel værdi
+Slotsvej 94534 Hørve,ørve,48.000,02-07-2001,Alm. Salg,413,4,Villa,116,2005,,Aktuel værdi
+Højskolevej 194534 Hørve,ørve,950.000,21-06-2001,Alm. Salg,-,8,Villa,323,1880,,Aktuel værdi
+Hørve Kirkevej 24534 Hørve,ørve,942.880,20-06-2001,Alm. Salg,10.476,3,Villa,90,1916,,Aktuel værdi
+Vallekildevej 784534 Hørve,ørve,1.395.344,16-05-2001,Alm. Salg,5.092,5,Villa,274,1947,,Aktuel værdi
+Bulskovvej 244534 Hørve,ørve,200.000,16-05-2001,Alm. Salg,6.250,3,Sommerhus,32,1968,,Aktuel værdi
+Vejlebyvej 104534 Hørve,ørve,96.138,10-05-2001,Andet,537,9,Stuehus,179,1936,,
+Nygårdsvej 144534 Hørve,ørve,1.132.021,07-05-2001,Alm. Salg,8.707,6,Stuehus,130,1890,,
+Sølvagervej 304534 Hørve,ørve,930.000,03-05-2001,Alm. Salg,7.265,5,Villa,128,1973,,Aktuel værdi
+Vallekildevej 294534 Hørve,ørve,860.000,19-04-2001,Alm. Salg,-,4,Villa,100,1965,,Aktuel værdi
+Nygårdsvej 24534 Hørve,ørve,600.000,18-04-2001,Alm. Salg,2.764,9,Stuehus,217,1936,,
+Starreklintevej 15A4534 Hørve,ørve,492.000,10-04-2001,Andet,6.150,2,Lejlighed,80,1900,,Aktuel værdi
+Bjergesøvej 24B4534 Hørve,ørve,1.100.000,08-04-2001,Alm. Salg,8.943,4,Stuehus,123,1979,,
+På Højen 114534 Hørve,ørve,527.808,30-03-2001,Andet,2.208,9,Villa,239,1975,,Aktuel værdi
+Teglværksvej 14B4534 Hørve,ørve,350.000,21-03-2001,Alm. Salg,5.833,4,Sommerhus,60,1967,,Aktuel værdi
+Adelers Alle 2004534 Hørve,ørve,1.592.000,21-03-2001,Alm. Salg,6.419,7,Villa,248,1921,,Aktuel værdi
+Vallekildevej 1404534 Hørve,ørve,875.000,15-03-2001,Alm. Salg,5.147,5,Villa,170,1973,,Aktuel værdi
+Søndergade 15D4534 Hørve,ørve,671.000,20-02-2001,Alm. Salg,8.714,3,Rækkehus,77,1987,,Aktuel værdi
+Bakkedraget 754534 Hørve,ørve,357.725,15-02-2001,Andet,3.888,4,Villa,92,1980,,Aktuel værdi
+Bakkedraget 474534 Hørve,ørve,865.000,17-01-2001,Alm. Salg,6.503,4,Villa,133,1976,,Aktuel værdi
+Krogen 24534 Hørve,ørve,650.000,16-01-2001,Alm. Salg,6.132,5,Villa,106,1967,,Aktuel værdi
+Lammefjordsvej 64534 Hørve,ørve,1.350.000,11-01-2001,Alm. Salg,9.246,4,Stuehus,146,1930,,
+Bjergesøvej 134534 Hørve,ørve,795.000,22-12-2000,Alm. Salg,6.737,4,Villa,118,1949,,Aktuel værdi
+Nekseløvej 84534 Hørve,ørve,590.644,13-12-2000,Alm. Salg,7.875,4,Villa,75,1921,,Aktuel værdi
+Vallekildevej 694534 Hørve,ørve,685.000,11-12-2000,Fam. Salg,5.480,7,Villa,125,1959,,Aktuel værdi
+Vallekildevej 424534 Hørve,ørve,649.000,27-11-2000,Alm. Salg,8.012,4,Villa,81,1932,,Aktuel værdi
+Maglebjergvej 24534 Hørve,ørve,571.877,04-11-2000,Alm. Salg,8.409,3,Villa,68,1964,,Aktuel værdi
+Strandlystvej 34534 Hørve,ørve,1.500.000,03-11-2000,Fam. Salg,6.578,9,Stuehus,228,1947,,
+Dragsmøllevej 104534 Hørve,ørve,825.000,24-10-2000,Alm. Salg,4.459,6,Villa,185,1946,,Aktuel værdi
+På Højen 2B4534 Hørve,ørve,395.000,10-10-2000,Alm. Salg,7.314,2,Rækkehus,54,1973,,Aktuel værdi
+Maglebjergvej 14534 Hørve,ørve,729.575,09-10-2000,Alm. Salg,6.818,3,Villa,107,1966,,Aktuel værdi
+Hørve Kanalvej 254534 Hørve,ørve,875.000,28-09-2000,Alm. Salg,-,5,Villa,184,1900,,Aktuel værdi
+Tangmosen 64534 Hørve,ørve,710.000,08-09-2000,Alm. Salg,6.635,4,Villa,107,1899,,Aktuel værdi
+Vejlebyvej 34534 Hørve,ørve,1.500.000,24-08-2000,Alm. Salg,5.813,6,Stuehus,258,1900,,
+Søndergade 94534 Hørve,ørve,1.096.000,22-08-2000,Alm. Salg,4.104,11,Villa,267,1918,,Aktuel værdi
+Fladehøj 474534 Hørve,ørve,948.000,03-08-2000,Alm. Salg,7.236,4,Villa,131,1977,,Aktuel værdi
+Holmagervej 54534 Hørve,ørve,879.984,27-07-2000,Alm. Salg,5.751,5,Villa,153,1961,,Aktuel værdi
+Kirkestien 84534 Hørve,ørve,470.000,13-07-2000,Alm. Salg,-,7,Villa,180,1962,,Aktuel værdi
+Hørve Møllevej 134534 Hørve,ørve,913.929,28-06-2000,Alm. Salg,6.133,4,Villa,149,1965,,Aktuel værdi
+Kalundborgvej 324534 Hørve,ørve,1.164.000,28-06-2000,Alm. Salg,10.034,4,Villa,116,1900,,Aktuel værdi
+Bulskovvej 204534 Hørve,ørve,146.966,02-06-2000,Fam. Salg,3.340,3,Sommerhus,44,1967,,Aktuel værdi
+Vindekilde Strandvej 94534 Hørve,ørve,480.000,29-05-2000,Alm. Salg,5.581,4,Villa,86,1947,,Aktuel værdi
+Skippingevej 374534 Hørve,ørve,3.324.999,26-05-2000,Alm. Salg,20.781,6,Stuehus,160,1930,,
+Kalundborgvej 344534 Hørve,ørve,782.000,19-04-2000,Alm. Salg,4.797,4,Villa,163,1921,,Aktuel værdi
+Vallekildevej 1334534 Hørve,ørve,345.000,03-04-2000,Fam. Salg,1.825,7,Villa,189,1952,,Aktuel værdi
+Hørve Stationsvej 34534 Hørve,ørve,766.000,22-03-2000,Alm. Salg,-,7,Villa,164,1910,,Aktuel værdi
+Fjordvej 84534 Hørve,ørve,1.625.000,28-02-2000,Alm. Salg,-,4,Stuehus,133,1916,,
+Hørve Kanalvej 474534 Hørve,ørve,319.871,14-02-2000,Alm. Salg,4.921,3,Villa,65,1935,,Aktuel værdi
+Vallekildevej 1394534 Hørve,ørve,325.210,07-02-2000,Alm. Salg,6.022,2,Villa,54,1940,,Aktuel værdi
+Hovvejen 34534 Hørve,ørve,784.486,28-01-2000,Alm. Salg,-,6,Villa,128,1954,,Aktuel værdi
+Vallekildevej 1664534 Hørve,ørve,633.000,27-01-2000,Alm. Salg,4.795,4,Villa,132,1942,,Aktuel værdi
+Teglværksvej 34534 Hørve,ørve,1.800.000,14-01-2000,Alm. Salg,12.500,5,Stuehus,144,1921,,
+Dragsmøllevej 354534 Hørve,ørve,1.049.417,05-01-2000,Alm. Salg,5.830,4,Stuehus,180,1960,,
+Slugten 84534 Hørve,ørve,170.000,01-12-1999,Fam. Salg,4.857,3,Sommerhus,35,1982,,Aktuel værdi
+Nygårdsvej 54534 Hørve,ørve,515.495,12-11-1999,Alm. Salg,-,5,Villa,216,1880,,Aktuel værdi
+Søndergade 224534 Hørve,ørve,634.111,09-11-1999,Alm. Salg,5.982,3,Villa,106,1948,,Aktuel værdi
+Hovvejen 74534 Hørve,ørve,799.710,10-09-1999,Alm. Salg,4.209,7,Villa,190,1916,,Aktuel værdi
+Klitvej 74534 Hørve,ørve,2.023.716,03-09-1999,Alm. Salg,8.915,7,Sommerhus,227,1954,,Aktuel værdi
+Vallekildevej 1654534 Hørve,ørve,400.000,16-08-1999,Alm. Salg,-,5,Villa,115,1897,,Aktuel værdi
+Overbyvej 84534 Hørve,ørve,58.000,29-07-1999,Alm. Salg,816,3,Sommerhus,71,2003,,Aktuel værdi
+Tangmosen 44534 Hørve,ørve,582.635,26-07-1999,Alm. Salg,-,6,Villa,163,1877,,Aktuel værdi
+På Højen 2C4534 Hørve,ørve,361.534,08-07-1999,Alm. Salg,6.695,2,Rækkehus,54,1973,,Aktuel værdi
+Tuborgvej 714534 Hørve,ørve,730.000,07-07-1999,Alm. Salg,4.649,5,Villa,157,1979,,Aktuel værdi
+Triersvej 34534 Hørve,ørve,949.000,07-07-1999,Alm. Salg,5.615,5,Villa,169,1870,,Aktuel værdi
+Vallekildevej 994534 Hørve,ørve,520.000,06-07-1999,Fam. Salg,2.194,6,Villa,237,1913,,Aktuel værdi
+Vallekildevej 154534 Hørve,ørve,596.311,05-07-1999,Alm. Salg,3.636,7,Villa,164,1904,,Aktuel værdi
+Vallekildevej 1164534 Hørve,ørve,895.722,04-07-1999,Alm. Salg,6.586,4,Villa,136,1975,,Aktuel værdi
+Elmkær 854534 Hørve,ørve,715.000,25-06-1999,Alm. Salg,5.585,4,Villa,128,1975,,Aktuel værdi
+Sølvagervej 414534 Hørve,ørve,504.000,13-06-1999,Fam. Salg,4.460,4,Villa,113,1959,,Aktuel værdi
+Sølvagervej 214534 Hørve,ørve,335.000,02-06-1999,Alm. Salg,6.320,2,Rækkehus,53,1974,,Aktuel værdi
+Hørve Kanalvej 274534 Hørve,ørve,431.000,22-05-1999,Alm. Salg,4.788,4,Sommerhus,90,1969,,Aktuel værdi
+Skolegade 214534 Hørve,ørve,698.207,20-05-1999,Alm. Salg,6.124,4,Villa,114,1962,,Aktuel værdi
+Hørve Kirkevej 134534 Hørve,ørve,373.000,20-05-1999,Alm. Salg,-,7,Rækkehus,184,1850,,Aktuel værdi
+Hovvejen 54534 Hørve,ørve,6.300.000,18-05-1999,Alm. Salg,23.507,7,Stuehus,268,2016,,
+Hørve Kirkevej 144534 Hørve,ørve,300.000,12-05-1999,Alm. Salg,6.666,4,Villa,45,1948,,Aktuel værdi
+Bakkedraget 674534 Hørve,ørve,1.064.974,07-05-1999,Alm. Salg,9.260,4,Villa,115,1980,,Aktuel værdi
+Bulskovvej 254534 Hørve,ørve,260.922,28-04-1999,Alm. Salg,3.433,4,Sommerhus,76,2005,,Aktuel værdi
+Vallekildevej 127B4534 Hørve,ørve,20.000,06-04-1999,Alm. Salg,123,7,Villa,162,2002,,Aktuel værdi
+Dragsmøllevej 434534 Hørve,ørve,462.622,06-04-1999,Alm. Salg,3.304,4,Villa,140,1920,,Aktuel værdi
+Nygårdsvej 164534 Hørve,ørve,665.940,04-04-1999,Alm. Salg,3.917,4,Villa,170,1909,,Aktuel værdi
+Lindebjerg 6A4534 Hørve,ørve,680.679,23-03-1999,Alm. Salg,7.479,4,Rækkehus,91,1991,,Aktuel værdi
+Kalundborgvej 514534 Hørve,ørve,1.160.000,16-03-1999,Alm. Salg,7.733,5,Stuehus,150,1921,,
+Vikæret 14534 Hørve,ørve,867.783,10-03-1999,Alm. Salg,-,11,Villa,276,1892,,Aktuel værdi
+Elmkær 34534 Hørve,ørve,741.000,09-03-1999,Alm. Salg,6.073,4,Villa,122,1970,,Aktuel værdi
+Møllevangen 24534 Hørve,ørve,1.100.000,08-03-1999,Alm. Salg,7.913,4,Stuehus,139,1914,,
+Dragsmøllevej 294534 Hørve,ørve,1.004.665,10-02-1999,Alm. Salg,11.960,4,Villa,84,1953,,Aktuel værdi
+Skolegade 64534 Hørve,ørve,564.000,01-02-1999,Alm. Salg,6.197,4,Villa,91,1933,,Aktuel værdi
+Hørve Kirkevej 64534 Hørve,ørve,65.000,25-01-1999,Alm. Salg,477,5,Villa,136,1900,,Aktuel værdi
+Stendyssevej 134534 Hørve,ørve,705.003,10-01-1999,Alm. Salg,6.025,3,Villa,117,1954,,Aktuel værdi
+Østerled 54534 Hørve,ørve,503.500,04-01-1999,Alm. Salg,3.356,3,Villa,150,1933,,Aktuel værdi
+Bjergesøstien 44534 Hørve,ørve,881.801,29-12-1998,Alm. Salg,-,4,Villa,153,1970,,Aktuel værdi
+Sølvagervej 224534 Hørve,ørve,659.020,14-12-1998,Alm. Salg,4.224,5,Villa,156,1907,,Aktuel værdi
+Næbbevej 84534 Hørve,ørve,660.472,01-12-1998,Alm. Salg,-,4,Villa,113,1924,,Aktuel værdi
+Nekseløvej 94534 Hørve,ørve,647.299,17-11-1998,Alm. Salg,-,6,Stuehus,160,1928,,
+Østervangsvej 44534 Hørve,ørve,300.000,05-11-1998,Alm. Salg,-,3,Villa,100,1936,,Aktuel værdi
+Kolåsvej 194534 Hørve,ørve,550.000,27-10-1998,Alm. Salg,3.928,5,Villa,140,1955,,Aktuel værdi
+Vallekildevej 141D4534 Hørve,ørve,964.697,12-10-1998,Alm. Salg,5.882,6,Villa,164,1932,,Aktuel værdi
+Bjergesøvej 39A4534 Hørve,ørve,845.500,08-10-1998,Alm. Salg,4.104,6,Villa,206,1850,,Aktuel værdi
+Bjergesøvej 374534 Hørve,ørve,116.500,08-10-1998,Alm. Salg,510,6,Villa,228,1908,,Aktuel værdi
+Skolelodden 134534 Hørve,ørve,747.729,23-09-1998,Alm. Salg,5.707,4,Villa,131,1977,,Aktuel værdi
+Vallekildevej 1674534 Hørve,ørve,765.344,19-09-1998,Alm. Salg,4.528,7,Stuehus,169,1900,,
+Dragsmøllevej 274534 Hørve,ørve,314.002,02-09-1998,Alm. Salg,4.301,3,Villa,73,1877,,Aktuel værdi
+Dragsmøllevej 364534 Hørve,ørve,285.000,26-08-1998,Alm. Salg,1.706,4,Villa,167,2000,,Aktuel værdi
+Overbyvej 14534 Hørve,ørve,344.581,24-07-1998,Alm. Salg,9.845,3,Sommerhus,35,1979,,Aktuel værdi
+Vejlebyvej 84534 Hørve,ørve,4.316.234,23-07-1998,Alm. Salg,16.664,10,Stuehus,259,1910,,
+Hørve Kirkevej 174534 Hørve,ørve,421.300,23-07-1998,Alm. Salg,3.830,6,Villa,110,1935,,Aktuel værdi
+Kildebakken 44534 Hørve,ørve,730.000,14-07-1998,Alm. Salg,-,3,Villa,144,1976,,Aktuel værdi
+Fyrrestien 64534 Hørve,ørve,90.000,30-06-1998,Alm. Salg,3.333,3,Sommerhus,27,1986,,Aktuel værdi
+Bulskovvej 314534 Hørve,ørve,67.000,14-06-1998,Alm. Salg,2.093,3,Sommerhus,32,1962,,Aktuel værdi
+Tangmosen 84534 Hørve,ørve,649.000,14-06-1998,Alm. Salg,4.992,6,Villa,130,1947,,Aktuel værdi
+Poppelvang 164534 Hørve,ørve,777.304,10-06-1998,Alm. Salg,5.435,5,Villa,143,1973,,Aktuel værdi
+Vallekildevej 147A4534 Hørve,ørve,625.000,10-06-1998,Alm. Salg,3.633,8,Villa,172,1976,,Aktuel værdi
+Søndergade 34534 Hørve,ørve,397.000,06-06-1998,Alm. Salg,3.101,4,Villa,128,1903,,Aktuel værdi
+Slotsvej 14534 Hørve,ørve,497.000,02-06-1998,Alm. Salg,5.177,3,Villa,96,1946,,Aktuel værdi
+Kolåsvej 10A4534 Hørve,ørve,396.716,02-06-1998,Fam. Salg,-,15,Villa,438,1610,,Aktuel værdi
+Vallekildevej 1554534 Hørve,ørve,297.500,19-05-1998,Alm. Salg,2.806,5,Villa,106,1898,,Aktuel værdi
+Teglværksvej 64534 Hørve,ørve,595.000,08-05-1998,Alm. Salg,-,5,Villa,112,1922,,Aktuel værdi
+Kolåsvej 74534 Hørve,ørve,95.000,06-05-1998,Fam. Salg,527,5,Villa,180,2000,,Aktuel værdi
+Nygårdsvej 34534 Hørve,ørve,1.988.000,03-04-1998,Alm. Salg,14.200,5,Stuehus,140,1870,,
+Vallekildevej 1534534 Hørve,ørve,3.093.194,01-04-1998,Alm. Salg,10.666,9,Stuehus,290,1922,,
+Teglværksvej 144534 Hørve,ørve,925.000,24-03-1998,Alm. Salg,-,8,Stuehus,272,1921,,
+Elmkær 484534 Hørve,ørve,805.335,22-03-1998,Alm. Salg,6.055,4,Villa,133,1974,,Aktuel værdi
+Dragsmøllevej 514534 Hørve,ørve,1.300.000,18-03-1998,Fam. Salg,-,5,Stuehus,128,1939,,
+Hovvejen 24534 Hørve,ørve,370.000,28-02-1998,Alm. Salg,3.162,5,Villa,117,1860,,Aktuel værdi
+Vallekildevej 1614534 Hørve,ørve,171.670,28-01-1998,Alm. Salg,1.208,5,Villa,142,1892,,Aktuel værdi
+Lillevangen 114534 Hørve,ørve,750.000,17-12-1997,Alm. Salg,3.333,10,Villa,225,1887,,Aktuel værdi
+Kildegårdsvej 234534 Hørve,ørve,664.887,16-12-1997,Alm. Salg,5.540,4,Villa,120,1974,,Aktuel værdi
+Pilevang 74534 Hørve,ørve,770.000,15-12-1997,Alm. Salg,5.273,5,Villa,146,1974,,Aktuel værdi
+Bulskovvej 14534 Hørve,ørve,200.000,10-12-1997,Alm. Salg,3.773,3,Sommerhus,53,1951,,Aktuel værdi
+Vallekildevej 1764534 Hørve,ørve,413.000,08-12-1997,Alm. Salg,3.059,4,Villa,135,1727,,Aktuel værdi
+Kalundborgvej 55A4534 Hørve,ørve,318.326,23-11-1997,Alm. Salg,1.829,6,Sommerhus,174,1975,,Aktuel værdi
+Hovvejen 64534 Hørve,ørve,647.200,18-11-1997,Alm. Salg,5.992,4,Villa,108,1924,,Aktuel værdi
+Stendyssevej 104534 Hørve,ørve,284.284,14-11-1997,Andet,3.090,4,Villa,92,1802,,Aktuel værdi
+Søndergade 244534 Hørve,ørve,580.000,13-10-1997,Alm. Salg,-,5,Villa,165,1960,,Aktuel værdi
+Nørregade 214534 Hørve,ørve,445.000,10-10-1997,Alm. Salg,3.320,4,Villa,134,1932,,Aktuel værdi
+Dragsmøllevej 34534 Hørve,ørve,460.000,07-10-1997,Alm. Salg,6.052,4,Villa,76,1946,,Aktuel værdi
+Lindebjerg 7B4534 Hørve,ørve,520.000,15-09-1997,Alm. Salg,5.652,4,Villa,92,1981,,Aktuel værdi
+Starreklintevej 4A4534 Hørve,ørve,30.000,01-09-1997,Alm. Salg,164,5,Villa,182,2004,,Aktuel værdi
+Bjergesøvej 304534 Hørve,ørve,378.728,22-07-1997,Alm. Salg,1.611,5,Villa,235,2010,,Aktuel værdi
+Sandbyhagevej 24534 Hørve,ørve,831.337,22-07-1997,Alm. Salg,-,4,Villa,183,1906,,Aktuel værdi
+Vallekildevej 194534 Hørve,ørve,701.067,19-07-1997,Alm. Salg,4.868,4,Villa,144,1917,,Aktuel værdi
+Vallekildevej 264534 Hørve,ørve,313.000,14-07-1997,Alm. Salg,3.726,3,Villa,84,1912,,Aktuel værdi
+Fjordvej 104534 Hørve,ørve,1.072.000,09-07-1997,Alm. Salg,5.280,10,Villa,203,1917,,Aktuel værdi
+Sølvagervej 434534 Hørve,ørve,270.000,01-07-1997,Alm. Salg,7.714,2,Villa,35,1962,,Aktuel værdi
+Elmkær 284534 Hørve,ørve,661.898,18-06-1997,Alm. Salg,5.014,4,Villa,132,1971,,Aktuel værdi
+Bjergesøvej 124534 Hørve,ørve,576.421,18-06-1997,Alm. Salg,6.944,4,Villa,83,1956,,Aktuel værdi
+Fjordvej 54534 Hørve,ørve,125.000,16-06-1997,Alm. Salg,-,7,Villa,210,2003,,Aktuel værdi
+Tømrervænget 1A4534 Hørve,ørve,605.000,09-06-1997,Alm. Salg,6.436,4,Villa,94,1969,,Aktuel værdi
+Næbbevej 154534 Hørve,ørve,845.460,08-06-1997,Alm. Salg,-,10,Villa,249,1913,,Aktuel værdi
+Nekseløvej 54534 Hørve,ørve,1.150.000,17-05-1997,Alm. Salg,10.454,4,Stuehus,110,1972,,
+Slotsvej 24534 Hørve,ørve,526.808,08-05-1997,Alm. Salg,4.580,4,Villa,115,1926,,Aktuel værdi
+Hørve Kirkevej 12A4534 Hørve,ørve,353.000,14-04-1997,Alm. Salg,4.358,2,Villa,81,1922,,Aktuel værdi
+Bjergesøvej 314534 Hørve,ørve,597.920,10-04-1997,Alm. Salg,4.745,3,Stuehus,126,1854,,
+Søndergade 204534 Hørve,ørve,590.000,08-04-1997,Alm. Salg,4.796,5,Villa,123,1959,,Aktuel værdi
+Bjergesøvej 474534 Hørve,ørve,385.000,24-03-1997,Alm. Salg,2.333,5,Villa,165,1884,,Aktuel værdi
+Vallekildevej 1784534 Hørve,ørve,679.904,15-03-1997,Alm. Salg,-,8,Villa,227,1924,,Aktuel værdi
+Bjergesøvej 154534 Hørve,ørve,561.399,27-02-1997,Fam. Salg,3.793,4,Villa,148,1943,,Aktuel værdi
+Bakkedraget 294534 Hørve,ørve,90.000,12-02-1997,Alm. Salg,-,5,Villa,172,2001,,Aktuel værdi
+Vallekildevej 1014534 Hørve,ørve,327.671,08-02-1997,Alm. Salg,-,8,Villa,178,1917,,Aktuel værdi
+Vallekildevej 514534 Hørve,ørve,623.402,03-02-1997,Alm. Salg,4.048,5,Villa,154,1937,,Aktuel værdi
+Bjergesøvej 174534 Hørve,ørve,280.000,01-02-1997,Fam. Salg,2.240,4,Villa,125,1929,,Aktuel værdi
+Nyrupsvej 14534 Hørve,ørve,635.700,22-01-1997,Alm. Salg,3.695,7,Villa,172,1927,,Aktuel værdi
+Lillevangen 54534 Hørve,ørve,1.010.000,15-01-1997,Alm. Salg,7.214,6,Stuehus,140,1880,,
+Vallekildevej 1624534 Hørve,ørve,789.408,27-12-1996,Alm. Salg,4.111,7,Stuehus,192,1909,,
+Elmkær 934534 Hørve,ørve,732.741,27-12-1996,Alm. Salg,5.861,4,Villa,125,1973,,Aktuel værdi
+Strandlystvej 94534 Hørve,ørve,2.055.000,23-12-1996,Fam. Salg,14.270,3,Stuehus,144,2009,,
+Bakkedraget 734534 Hørve,ørve,815.000,11-12-1996,Alm. Salg,-,5,Villa,159,1987,,Aktuel værdi
+Kildevej 44534 Hørve,ørve,692.000,19-11-1996,Alm. Salg,5.864,4,Villa,118,1988,,Aktuel værdi
+Bakkedraget 404534 Hørve,ørve,498.000,05-11-1996,Alm. Salg,4.446,4,Villa,112,1980,,Aktuel værdi
+Bjergesøvej 404534 Hørve,ørve,358.377,21-10-1996,Alm. Salg,3.853,3,Villa,93,1807,,Aktuel værdi
+Vallekildevej 1224534 Hørve,ørve,430.000,26-09-1996,Alm. Salg,5.375,3,Villa,80,1934,,Aktuel værdi
+Vallekildevej 384534 Hørve,ørve,198.650,26-09-1996,Alm. Salg,2.452,4,Villa,81,1877,,Aktuel værdi
+Stendyssevej 24534 Hørve,ørve,225.000,24-09-1996,Fam. Salg,3.308,3,Villa,68,1800,,Aktuel værdi
+Vejrhøjvej 54534 Hørve,ørve,585.000,23-09-1996,Alm. Salg,5.223,5,Villa,112,1939,,Aktuel værdi
+Højskolevej 54534 Hørve,ørve,350.000,14-09-1996,Alm. Salg,3.125,3,Villa,112,1875,,Aktuel værdi
+Sølvagervej 164534 Hørve,ørve,317.300,04-09-1996,Alm. Salg,-,5,Villa,177,1961,,Aktuel værdi
+Kirkestien 114534 Hørve,ørve,678.000,23-08-1996,Alm. Salg,5.512,6,Villa,123,1930,,Aktuel værdi
+Nekseløvej 614534 Hørve,ørve,200.000,08-08-1996,Alm. Salg,-,3,Sommerhus,60,1937,,Aktuel værdi
+Slugten 24534 Hørve,ørve,295.000,29-07-1996,Alm. Salg,5.673,3,Sommerhus,52,1977,,Aktuel værdi
+Lindebjerg 9B4534 Hørve,ørve,480.000,28-07-1996,Alm. Salg,7.058,3,Rækkehus,68,1989,,Aktuel værdi
+Hørve Kirkevej 154534 Hørve,ørve,268.330,15-07-1996,Alm. Salg,3.396,2,Rækkehus,79,1900,,Aktuel værdi
+Industrivej 174534 Hørve,ørve,900.000,08-07-1996,Alm. Salg,3.629,6,Industri o.l.,248,1981,,Aktuel værdi
+Vallekildevej 1204534 Hørve,ørve,509.371,25-06-1996,Alm. Salg,3.144,5,Villa,162,1938,,Aktuel værdi
+Hørve Kirkevej 44534 Hørve,ørve,246.764,24-06-1996,Alm. Salg,2.625,2,Villa,94,1925,,Aktuel værdi
+Bakkedraget 694534 Hørve,ørve,840.000,20-06-1996,Alm. Salg,4.491,3,Villa,187,1980,,Aktuel værdi
+Skolegade 134534 Hørve,ørve,685.000,07-06-1996,Alm. Salg,3.425,6,Villa,200,1967,,Aktuel værdi
+Sandbyhagevej 84534 Hørve,ørve,100.000,20-05-1996,Alm. Salg,621,4,Stuehus,161,1918,,
+Overbyvej 114534 Hørve,ørve,105.000,08-05-1996,Alm. Salg,1.842,3,Sommerhus,57,2004,,Aktuel værdi
+Bulskovvej 224534 Hørve,ørve,685.000,02-05-1996,Alm. Salg,18.513,2,Sommerhus,37,1967,,Aktuel værdi
+Overbyvej 44534 Hørve,ørve,80.000,30-04-1996,Fam. Salg,1.176,3,Sommerhus,68,1997,,Aktuel værdi
+Elmkær 1014534 Hørve,ørve,579.450,21-04-1996,Alm. Salg,-,5,Villa,132,1972,,Aktuel værdi
+Vejlebyvej 1B4534 Hørve,ørve,635.000,15-04-1996,Auktion,7.055,2,Stuehus,90,1924,,
+Damgårdsvej 34534 Hørve,ørve,522.080,20-03-1996,Alm. Salg,3.729,4,Villa,140,1940,,Aktuel værdi
+Vallekildevej 604534 Hørve,ørve,391.900,20-03-1996,Alm. Salg,-,5,Villa,152,1942,,Aktuel værdi
+Remisevej 34534 Hørve,ørve,460.000,24-02-1996,Alm. Salg,3.680,4,Villa,125,1942,,Aktuel værdi
+Vallekildevej 1884534 Hørve,ørve,122.000,21-02-1996,Alm. Salg,-,2,Villa,35,1870,,Aktuel værdi
+Teglværksvej 16B4534 Hørve,ørve,280.000,30-12-1995,Fam. Salg,4.057,4,Sommerhus,69,1980,,Aktuel værdi
+"Vallekildevej 11A, 14534 Hørve",ørve,400.000,04-12-1995,Auktion,4.123,3,Lejlighed,97,1952,,Aktuel værdi
+Bulskovvej 54534 Hørve,ørve,125.000,30-10-1995,Alm. Salg,2.314,4,Sommerhus,54,1957,,Aktuel værdi
+Hørve Kanalvej 44534 Hørve,ørve,765.000,27-09-1995,Alm. Salg,3.269,9,Villa,234,1989,,Aktuel værdi
+Bakkedraget 224534 Hørve,ørve,262.227,13-09-1995,Andet,2.167,4,Villa,121,1978,,Aktuel værdi
+Elmkær 1034534 Hørve,ørve,540.000,22-08-1995,Alm. Salg,3.354,6,Villa,161,1973,,Aktuel værdi
+Krogen 34534 Hørve,ørve,450.000,15-08-1995,Alm. Salg,-,3,Villa,131,1966,,Aktuel værdi
+Sølvagervej 274534 Hørve,ørve,265.000,25-07-1995,Alm. Salg,4.907,2,Rækkehus,54,1974,,Aktuel værdi
+Poppelvang 174534 Hørve,ørve,445.000,01-07-1995,Alm. Salg,5.000,3,Villa,89,1975,,Aktuel værdi
+"Hørve Møllevej 2A, 14534 Hørve",ørve,1.000.000,20-06-1995,Alm. Salg,4.830,7,Lejlighed,207,1913,,Aktuel værdi
+På Højen 2D4534 Hørve,ørve,260.000,16-06-1995,Alm. Salg,-,2,Rækkehus,54,1973,,Aktuel værdi
+Bakkedraget 104534 Hørve,ørve,512.000,14-06-1995,Alm. Salg,4.031,4,Villa,127,1977,,Aktuel værdi
+Nekseløvej 474534 Hørve,ørve,100.000,12-06-1995,Alm. Salg,2.325,2,Sommerhus,43,1952,,Aktuel værdi
+Strandlystvej 74534 Hørve,ørve,200.000,03-06-1995,Alm. Salg,1.197,4,Stuehus,167,1914,,
+Skolegade 104534 Hørve,ørve,485.000,31-05-1995,Alm. Salg,4.801,4,Villa,101,1949,,Aktuel værdi
+Holstensvejen 14534 Hørve,ørve,904.920,26-05-1995,Alm. Salg,5.354,6,Stuehus,169,1928,,
+Sandbyhagevej 74534 Hørve,ørve,181.689,28-03-1995,Alm. Salg,-,5,Villa,167,1908,,Aktuel værdi
+Starreklintevej 204534 Hørve,ørve,380.000,27-03-1995,Alm. Salg,2.968,5,Villa,128,1965,,Aktuel værdi
+Elmkær 324534 Hørve,ørve,539.210,21-03-1995,Alm. Salg,4.456,4,Villa,121,1969,,Aktuel værdi
+Bakkedraget 514534 Hørve,ørve,655.000,16-03-1995,Alm. Salg,3.291,6,Villa,199,1976,,Aktuel værdi
+Dragsmøllevej 114534 Hørve,ørve,210.000,16-03-1995,Alm. Salg,2.187,4,Villa,96,1887,,Aktuel værdi
+"Vallekildevej 115B, 14534 Hørve",ørve,500.000,16-03-1995,Alm. Salg,-,3,Lejlighed,90,1961,,Aktuel værdi
+Bulskovvej 104534 Hørve,ørve,92.000,08-03-1995,Alm. Salg,1.840,3,Sommerhus,50,1962,,Aktuel værdi
+Hørve Kanalvej 154534 Hørve,ørve,1.575.000,03-03-1995,Alm. Salg,13.695,4,Stuehus,115,1962,,
+Kildebakken 144534 Hørve,ørve,420.000,15-02-1995,Alm. Salg,2.763,3,Villa,152,1974,,Aktuel værdi
+Lillevangen 134534 Hørve,ørve,280.000,09-02-1995,Fam. Salg,3.111,5,Villa,90,1942,,Aktuel værdi
+Kirkestien 134534 Hørve,ørve,310.000,20-12-1994,Alm. Salg,3.827,3,Villa,81,1972,,Aktuel værdi
+Næbbevej 44534 Hørve,ørve,387.525,15-12-1994,Alm. Salg,3.399,5,Villa,114,1969,,Aktuel værdi
+Elmkær 814534 Hørve,ørve,675.000,14-12-1994,Alm. Salg,3.245,7,Villa,208,1972,,Aktuel værdi
+Skolegade 234534 Hørve,ørve,420.000,12-12-1994,Alm. Salg,4.285,5,Villa,98,1962,,Aktuel værdi
+Sølvagervej 154534 Hørve,ørve,517.000,24-10-1994,Alm. Salg,4.495,5,Rækkehus,115,1988,,Aktuel værdi
+Skolegade 84534 Hørve,ørve,185.000,18-10-1994,Alm. Salg,1.927,3,Villa,96,1934,,Aktuel værdi
+Hørve Kirkevej 164534 Hørve,ørve,278.000,05-10-1994,Alm. Salg,3.088,3,Villa,90,1900,,Aktuel værdi
+Pilevang 54534 Hørve,ørve,625.000,26-09-1994,Alm. Salg,4.251,5,Villa,147,1974,,Aktuel værdi
+Overbyvej 144534 Hørve,ørve,260.000,20-09-1994,Alm. Salg,5.200,4,Sommerhus,50,1980,,Aktuel værdi
+Næbbevej 104534 Hørve,ørve,550.000,31-08-1994,Alm. Salg,-,6,Villa,122,1900,,Aktuel værdi
+Tømrervænget 44534 Hørve,ørve,245.000,14-08-1994,Andet,1.666,5,Villa,147,1955,,Aktuel værdi
+Vallekildevej 1304534 Hørve,ørve,380.000,09-08-1994,Alm. Salg,-,6,Villa,158,1918,,Aktuel værdi
+Bjergesøvej 184534 Hørve,ørve,360.000,02-08-1994,Alm. Salg,2.080,5,Stuehus,173,1912,,
+Kolåsvej 214534 Hørve,ørve,796.000,28-07-1994,Alm. Salg,-,4,Villa,254,1777,,Aktuel værdi
+Vallekildevej 1284534 Hørve,ørve,625.000,02-07-1994,Alm. Salg,-,5,Villa,226,1923,,Aktuel værdi
+Vejrhøjvej 34534 Hørve,ørve,532.180,27-06-1994,Alm. Salg,-,5,Villa,167,1950,,Aktuel værdi
+Vallekildevej 404534 Hørve,ørve,273.000,26-06-1994,Alm. Salg,2.313,4,Villa,118,1932,,Aktuel værdi
+Bjergesøvej 224534 Hørve,ørve,520.000,15-06-1994,Alm. Salg,-,6,Villa,198,1946,,Aktuel værdi
+Bjergesøvej 294534 Hørve,ørve,530.240,11-06-1994,Alm. Salg,3.957,4,Villa,134,1930,,Aktuel værdi
+Maglebjergvej 64534 Hørve,ørve,213.672,06-06-1994,Alm. Salg,1.682,4,Villa,127,1964,,Aktuel værdi
+Søndergade 344534 Hørve,ørve,575.000,14-04-1994,Alm. Salg,4.600,5,Villa,125,1924,,Aktuel værdi
+Kirkebakken 154534 Hørve,ørve,660.890,21-03-1994,Alm. Salg,3.389,9,Villa,195,1979,,Aktuel værdi
+Sølvagervej 284534 Hørve,ørve,560.000,15-02-1994,Alm. Salg,-,5,Villa,161,1978,,Aktuel værdi
+Stendyssevej 44534 Hørve,ørve,470.000,31-01-1994,Alm. Salg,-,7,Villa,168,1964,,Aktuel værdi
+Hørve Kirkevej 7A4534 Hørve,ørve,365.000,13-01-1994,Alm. Salg,2.703,4,Villa,135,1928,,Aktuel værdi
+Kildegårdsvej 24534 Hørve,ørve,465.000,18-12-1993,Alm. Salg,3.940,4,Villa,118,1967,,Aktuel værdi
+Dragsmøllevej 20B4534 Hørve,ørve,288.600,17-11-1993,Alm. Salg,-,6,Villa,243,1852,,Aktuel værdi
+Skippingevej 404534 Hørve,ørve,739.000,12-11-1993,Fam. Salg,4.296,5,Stuehus,172,1857,,
+Fladehøj 74534 Hørve,ørve,278.082,26-10-1993,Fam. Salg,2.648,4,Villa,105,1988,,Aktuel værdi
+Bakken 84534 Hørve,ørve,541.073,12-10-1993,Fam. Salg,4.162,7,Villa,130,1950,,Aktuel værdi
+Kirkebakken 94534 Hørve,ørve,430.000,04-10-1993,Alm. Salg,-,5,Villa,171,1913,,Aktuel værdi
+Kalundborgvej 424534 Hørve,ørve,465.000,02-10-1993,Alm. Salg,2.870,5,Villa,162,1921,,Aktuel værdi
+Lundevej 34534 Hørve,ørve,464.868,12-09-1993,Fam. Salg,3.250,5,Villa,143,1968,,Aktuel værdi
+På Højen 124534 Hørve,ørve,710.000,09-08-1993,Alm. Salg,5.144,4,Villa,138,1976,,Aktuel værdi
+Lundevej 54534 Hørve,ørve,315.000,04-08-1993,Alm. Salg,1.675,5,Villa,188,1967,,Aktuel værdi
+Tømrervænget 34534 Hørve,ørve,275.000,30-07-1993,Alm. Salg,-,5,Villa,149,1958,,Aktuel værdi
+Nørregade 234534 Hørve,ørve,358.400,30-07-1993,Alm. Salg,3.584,5,Villa,100,1914,,Aktuel værdi
+Møllevangen 64534 Hørve,ørve,10.000,03-06-1993,Alm. Salg,-,7,Stuehus,223,1930,,
+Vallekildevej 554534 Hørve,ørve,370.000,29-05-1993,Alm. Salg,-,6,Villa,159,1940,,Aktuel værdi
+Vallekildevej 1584534 Hørve,ørve,150.000,24-05-1993,Fam. Salg,-,4,Villa,124,1897,,Aktuel værdi
+Hørve Møllevej 54534 Hørve,ørve,310.000,11-05-1993,Alm. Salg,2.052,6,Villa,151,1906,,Aktuel værdi
+Søndergade 15B4534 Hørve,ørve,450.000,10-05-1993,Alm. Salg,5.844,3,Rækkehus,77,1987,,Aktuel værdi
+Vallekildevej 1244534 Hørve,ørve,520.000,19-04-1993,Alm. Salg,2.954,7,Villa,176,1927,,Aktuel værdi
+Holstensvejen 244534 Hørve,ørve,675.000,13-04-1993,Alm. Salg,4.927,4,Stuehus,137,1937,,
+Østervangsvej 64534 Hørve,ørve,60.000,16-12-1992,Alm. Salg,631,2,Stuehus,95,1880,,
+Slugten 44534 Hørve,ørve,220.000,08-12-1992,Alm. Salg,3.666,4,Sommerhus,60,1979,,Aktuel værdi
+På Højen 104534 Hørve,ørve,530.000,04-12-1992,Fam. Salg,3.630,5,Villa,146,1973,,Aktuel værdi
+Møllevangen 54534 Hørve,ørve,207.278,02-12-1992,Alm. Salg,544,10,Villa,381,1800,,Aktuel værdi
+Hørve Enghave 14534 Hørve,ørve,575.000,28-10-1992,Alm. Salg,-,4,Stuehus,136,1905,,
+Vallekildevej 1694534 Hørve,ørve,260.000,14-10-1992,Alm. Salg,1.699,5,Villa,153,1868,,Aktuel værdi
+Søndergade 384534 Hørve,ørve,198.000,24-08-1992,Alm. Salg,2.750,3,Villa,72,1887,,Aktuel værdi
+Kildebakken 84534 Hørve,ørve,540.000,11-08-1992,Alm. Salg,3.648,5,Villa,148,1973,,Aktuel værdi
+Bakkedraget 244534 Hørve,ørve,500.000,02-07-1992,Alm. Salg,-,5,Villa,156,1978,,Aktuel værdi
+Holstensvejen 204534 Hørve,ørve,475.000,20-06-1992,Alm. Salg,-,5,Villa,202,1937,,Aktuel værdi
+Vallekildevej 1064534 Hørve,ørve,480.000,29-05-1992,Alm. Salg,5.161,4,Villa,93,1941,,Aktuel værdi
+Dragsmøllevej 174534 Hørve,ørve,475.000,28-04-1992,Alm. Salg,-,6,Villa,165,1943,,Aktuel værdi
+Dragsmøllevej 404534 Hørve,ørve,600.000,06-04-1992,Fam. Salg,-,5,Stuehus,147,1937,,
+Vallekildevej 1354534 Hørve,ørve,470.000,20-03-1992,Alm. Salg,4.700,6,Villa,100,1950,,Aktuel værdi
+Vejrhøjvej 7A4534 Hørve,ørve,282.000,09-03-1992,Fam. Salg,2.820,6,Villa,100,1780,,Aktuel værdi
+Dragsmøllevej 314534 Hørve,ørve,320.000,25-02-1992,Alm. Salg,5.333,3,Villa,60,1887,,Aktuel værdi
+Starreklintevej 24534 Hørve,ørve,220.000,12-02-1992,Alm. Salg,1.896,5,Villa,116,1827,,Aktuel værdi
+Skippingevej 354534 Hørve,ørve,1.032.332,14-01-1992,Alm. Salg,6.108,7,Stuehus,169,1914,,
+På Højen 234534 Hørve,ørve,149.000,02-01-1992,Fam. Salg,986,5,Villa,151,1973,,Aktuel værdi

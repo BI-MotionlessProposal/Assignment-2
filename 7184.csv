@@ -1,0 +1,362 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Grindstedvej 807184 Vandel,ndel,790.000,31-03-2017,Alm. Salg,6.929,5,Stuehus,114,1911,6 %,
+Åstbyvej 307184 Vandel,ndel,570.000,31-03-2017,Fam. Salg,4.384,8,Villa,130,1962,,Aktuel værdi
+Blomstervænget 107184 Vandel,ndel,1.062.500,30-03-2017,Alm. Salg,5.902,6,Villa,180,1973,-7 %,Aktuel værdi
+Stationsvej 77184 Vandel,ndel,955.000,18-03-2017,Alm. Salg,4.823,7,Villa,198,1970,-4 %,Aktuel værdi
+Mølleparken 77184 Vandel,ndel,1.095.000,29-11-2016,Alm. Salg,6.221,4,Villa,176,1966,0 %,Aktuel værdi
+Dalgasvej 97184 Vandel,ndel,80.598,27-10-2016,Auktion,500,5,Villa,161,1917,,Aktuel værdi
+Vestbanevej 387184 Vandel,ndel,450.000,25-10-2016,Alm. Salg,3.688,5,Villa,122,1985,,Aktuel værdi
+Solbakken 47184 Vandel,ndel,700.000,12-10-2016,Alm. Salg,5.833,5,Villa,120,1956,,Aktuel værdi
+Mølleparken 497184 Vandel,ndel,2.500.000,12-10-2016,Alm. Salg,10.416,7,Villa,240,2010,,Aktuel værdi
+Gl. Stationsvej 227184 Vandel,ndel,387.500,05-09-2016,Alm. Salg,3.875,4,Villa,100,1960,-14 %,Aktuel værdi
+Fasanvej 77184 Vandel,ndel,1.100.000,31-07-2016,Alm. Salg,9.821,4,Villa,112,1971,-8 %,Aktuel værdi
+Grindstedvej 457184 Vandel,ndel,355.950,26-06-2016,Alm. Salg,3.235,3,Villa,110,1959,,Aktuel værdi
+Randbølvej 177184 Vandel,ndel,980.000,15-06-2016,Fam. Salg,9.245,4,Villa,106,1963,,Aktuel værdi
+Mølleparken 137184 Vandel,ndel,1.232.500,10-06-2016,Fam. Salg,5.135,5,Villa,240,1969,,Aktuel værdi
+Fuglsangvej 57184 Vandel,ndel,570.000,30-05-2016,Alm. Salg,5.377,4,Villa,106,1965,-4 %,Aktuel værdi
+Mølleparken 207184 Vandel,ndel,500.000,24-05-2016,Alm. Salg,3.496,3,Villa,143,1973,,Aktuel værdi
+Randbølvej 217184 Vandel,ndel,1.025.000,11-03-2016,Alm. Salg,11.388,2,Villa,90,1956,-10 %,Aktuel værdi
+Gyvelvej 17184 Vandel,ndel,985.000,22-02-2016,Alm. Salg,6.655,5,Villa,148,1977,-1 %,Aktuel værdi
+Åstbyvej 417184 Vandel,ndel,6.500.000,09-02-2016,Andet,29.545,5,Villa,220,1916,,Aktuel værdi
+Vestbanevej 407184 Vandel,ndel,1.350.000,08-01-2016,Alm. Salg,5.921,5,Villa,228,1979,-3 %,Aktuel værdi
+Vestbanevej 427184 Vandel,ndel,1.725.000,28-12-2015,Alm. Salg,8.175,6,Villa,211,1975,-4 %,Aktuel værdi
+Kastanievej 557184 Vandel,ndel,596.500,17-12-2015,Alm. Salg,3.898,6,Stuehus,153,1958,-78 %,
+Mølleparken 87184 Vandel,ndel,970.000,08-12-2015,Alm. Salg,7.461,4,Villa,130,1971,,Aktuel værdi
+Gl. Stationsvej 27184 Vandel,ndel,550.000,09-10-2015,Andet,3.125,5,Villa,176,1968,-54 %,Aktuel værdi
+Hyldestien 1257184 Vandel,ndel,1.775.000,20-09-2015,Alm. Salg,15.707,4,Sommerhus,113,2008,,Aktuel værdi
+Åstbyvej 157184 Vandel,ndel,710.000,03-08-2015,Alm. Salg,5.916,4,Villa,120,1973,-14 %,Aktuel værdi
+"Stationsvej 4, 17184 Vandel",ndel,135.316,15-07-2015,Alm. Salg,1.961,3,Lejlighed,69,1897,,Aktuel værdi
+Gl. Stationsvej 17B7184 Vandel,ndel,1.235.000,10-07-2015,Alm. Salg,11.650,4,Rækkehus,106,2008,-5 %,Aktuel værdi
+Gl. Stationsvej 97184 Vandel,ndel,445.000,25-06-2015,Alm. Salg,3.560,3,Villa,125,1968,-6 %,Aktuel værdi
+Vestbanevej 447184 Vandel,ndel,1.200.000,18-06-2015,Alm. Salg,6.185,7,Villa,194,1976,-7 %,Aktuel værdi
+Randbølvej 147184 Vandel,ndel,100.000,23-04-2015,Alm. Salg,1.219,3,Villa,82,1913,,Aktuel værdi
+Hyldestien 1397184 Vandel,ndel,1.845.000,09-04-2015,Alm. Salg,16.327,4,Sommerhus,113,2008,-3 %,Aktuel værdi
+Åstbyvej 317184 Vandel,ndel,845.000,01-03-2015,Alm. Salg,4.747,6,Villa,178,1937,,Aktuel værdi
+Hyldestien 1057184 Vandel,ndel,1.450.000,23-02-2015,Alm. Salg,20.138,2,Sommerhus,72,2008,-5 %,Aktuel værdi
+Hyldestien 117184 Vandel,ndel,1.995.000,16-02-2015,Alm. Salg,16.352,4,Sommerhus,122,2009,-16 %,Aktuel værdi
+Fasanvej 217184 Vandel,ndel,1.195.000,02-02-2015,Alm. Salg,8.298,4,Villa,144,1973,0 %,Aktuel værdi
+Fasanvej 117184 Vandel,ndel,750.000,29-12-2014,Alm. Salg,5.244,5,Villa,143,1967,-4 %,Aktuel værdi
+Mølleparken 397184 Vandel,ndel,1.600.000,13-12-2014,Alm. Salg,10.666,5,Villa,150,2004,-4 %,Aktuel værdi
+Gødsbølvej 347184 Vandel,ndel,300.000,03-12-2014,Alm. Salg,1.428,8,Stuehus,210,1915,,
+Grindstedvej 627184 Vandel,ndel,1.765.000,14-11-2014,Alm. Salg,7.510,7,Stuehus,235,1922,,
+Gødsbølvej 527184 Vandel,ndel,1.595.000,30-10-2014,Alm. Salg,10.357,5,Villa,154,1890,0 %,Aktuel værdi
+Gl. Stationsvej 37184 Vandel,ndel,350.000,21-08-2014,Alm. Salg,2.755,5,Villa,127,1926,-11 %,Aktuel værdi
+Gl. Åstvej 67184 Vandel,ndel,300.000,31-07-2014,Alm. Salg,2.912,4,Villa,103,1927,-20 %,Aktuel værdi
+Vestbanevej 247184 Vandel,ndel,382.000,04-06-2014,Fam. Salg,1.919,6,Villa,199,1976,,Aktuel værdi
+Randbølvej 197184 Vandel,ndel,825.000,15-05-2014,Alm. Salg,5.288,5,Villa,156,1958,-11 %,Aktuel værdi
+Hyldestien 517184 Vandel,ndel,1.475.000,12-05-2014,Alm. Salg,26.818,2,Sommerhus,55,2009,-13 %,Aktuel værdi
+Vestbanevej 67184 Vandel,ndel,740.000,09-04-2014,Alm. Salg,5.362,4,Villa,138,1967,-7 %,Aktuel værdi
+Hyldestien 277184 Vandel,ndel,1.464.000,07-04-2014,Alm. Salg,12.000,4,Sommerhus,122,2009,,Aktuel værdi
+Gødsbølvej 447184 Vandel,ndel,2.130.000,19-03-2014,Alm. Salg,15.895,4,Stuehus,134,2007,-3 %,
+Grindstedvej 827184 Vandel,ndel,1.550.000,19-03-2014,Alm. Salg,16.315,3,Stuehus,95,1925,-22 %,
+Hyldestien 357184 Vandel,ndel,1.139.470,09-03-2014,Alm. Salg,9.339,4,Sommerhus,122,2009,,Aktuel værdi
+Mølleparken 227184 Vandel,ndel,900.000,04-03-2014,Alm. Salg,6.000,5,Villa,150,1977,,Aktuel værdi
+Grindstedvej 367184 Vandel,ndel,855.000,27-02-2014,Alm. Salg,3.976,5,Villa,215,1952,-2 %,Aktuel værdi
+Gødsbølvej 337184 Vandel,ndel,3.392.500,24-01-2014,Fam. Salg,20.314,5,Villa,167,1930,,Aktuel værdi
+Hyldestien 1437184 Vandel,ndel,1.800.000,15-12-2013,Alm. Salg,15.929,4,Sommerhus,113,2008,-22 %,Aktuel værdi
+Gødsbølvej 65A7184 Vandel,ndel,1.395.053,05-12-2013,Auktion,5.535,8,Stuehus,252,2008,-30 %,
+Mølleparken 337184 Vandel,ndel,265.000,07-11-2013,Alm. Salg,1.802,5,Villa,147,2014,,Aktuel værdi
+Blomstervænget 47184 Vandel,ndel,1.570.000,01-11-2013,Alm. Salg,8.177,7,Villa,192,1965,,Aktuel værdi
+Falkevej 117184 Vandel,ndel,1.425.000,21-10-2013,Alm. Salg,9.076,5,Villa,157,1992,-5 %,Aktuel værdi
+Fasanvej 177184 Vandel,ndel,645.000,23-09-2013,Alm. Salg,5.078,4,Villa,127,1973,0 %,Aktuel værdi
+Randbølvej 237184 Vandel,ndel,375.000,22-08-2013,Alm. Salg,4.076,3,Villa,92,1959,-24 %,Aktuel værdi
+Hyldestien 1217184 Vandel,ndel,1.377.115,08-08-2013,Auktion,19.126,2,Sommerhus,72,2008,,Aktuel værdi
+Blomstervænget 267184 Vandel,ndel,1.000.000,24-06-2013,Fam. Salg,9.803,3,Villa,102,1964,,Aktuel værdi
+Mølleparken 277184 Vandel,ndel,1.995.000,06-06-2013,Alm. Salg,9.193,5,Villa,217,2006,-5 %,Aktuel værdi
+Gl. Stationsvej 187184 Vandel,ndel,270.000,21-03-2013,Auktion,2.195,4,Villa,123,1965,,Aktuel værdi
+Grindstedvej 247184 Vandel,ndel,775.000,20-03-2013,Alm. Salg,8.333,6,Villa,93,1930,-3 %,Aktuel værdi
+Gødsbølvej 507184 Vandel,ndel,3.450.000,06-02-2013,Alm. Salg,16.747,4,Stuehus,206,1850,-1 %,
+Mørupvej 57184 Vandel,ndel,1.575.000,30-01-2013,Alm. Salg,9.051,5,Stuehus,174,1932,,
+Grindstedvej 727184 Vandel,ndel,2.925.000,12-01-2013,Alm. Salg,24.579,4,Stuehus,119,1914,,
+Stationsvej 37184 Vandel,ndel,300.000,25-09-2012,Auktion,1.470,7,Villa,204,1896,-39 %,Aktuel værdi
+Mølleparken 37184 Vandel,ndel,320.000,10-09-2012,Alm. Salg,4.571,5,Villa,70,1955,,Aktuel værdi
+Gl. Stationsvej 17C7184 Vandel,ndel,1.185.000,22-08-2012,Alm. Salg,11.179,4,Rækkehus,106,2008,-1 %,Aktuel værdi
+Falkevej 47184 Vandel,ndel,550.000,07-08-2012,Alm. Salg,3.618,5,Villa,152,1984,,Aktuel værdi
+Gødsbølvej 547184 Vandel,ndel,860.000,14-06-2012,Auktion,5.119,5,Villa,168,1915,-28 %,Aktuel værdi
+Blomstervænget 37184 Vandel,ndel,800.000,08-06-2012,Alm. Salg,5.161,5,Villa,155,1973,,Aktuel værdi
+Gl. Stationsvej 47184 Vandel,ndel,415.000,19-04-2012,Alm. Salg,3.640,3,Villa,114,1968,,Aktuel værdi
+Gyvelvej 37184 Vandel,ndel,895.000,06-03-2012,Alm. Salg,7.047,5,Villa,127,1977,0 %,Aktuel værdi
+Vestbanevej 227184 Vandel,ndel,1.200.000,02-03-2012,Alm. Salg,6.557,8,Villa,183,1977,-14 %,Aktuel værdi
+Åstbyvej 39B7184 Vandel,ndel,838.500,27-12-2011,Alm. Salg,3.301,6,Villa,254,1987,,Aktuel værdi
+Fasanvej 57184 Vandel,ndel,1.075.000,21-10-2011,Alm. Salg,7.904,4,Villa,136,1971,-17 %,Aktuel værdi
+Gl. Stationsvej 77184 Vandel,ndel,525.000,05-10-2011,Alm. Salg,8.606,3,Anden beboelse,61,1935,,Aktuel værdi
+Ternevej 37184 Vandel,ndel,835.000,22-09-2011,Alm. Salg,6.574,4,Villa,127,1971,-7 %,Aktuel værdi
+Åstbyvej 237184 Vandel,ndel,826.642,10-08-2011,Andet,3.993,7,Villa,207,1928,,Aktuel værdi
+Hyldestien 617184 Vandel,ndel,778.500,26-05-2011,Fam. Salg,14.154,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 717184 Vandel,ndel,1.557.000,18-05-2011,Alm. Salg,28.309,2,Sommerhus,55,2009,,Aktuel værdi
+Fasanvej 67184 Vandel,ndel,607.000,18-04-2011,Alm. Salg,4.335,5,Villa,140,1970,,Aktuel værdi
+Solbakken 17184 Vandel,ndel,550.000,08-04-2011,Alm. Salg,7.236,3,Villa,76,1955,-26 %,Aktuel værdi
+"Stationsvej 4, ST7184 Vandel",ndel,111.659,24-03-2011,Auktion,1.227,4,Lejlighed,91,1897,,Aktuel værdi
+Randbølvej 287184 Vandel,ndel,900.000,11-03-2011,Alm. Salg,7.964,4,Villa,113,1976,-10 %,Aktuel værdi
+Hyldestien 57184 Vandel,ndel,800.000,24-01-2011,Alm. Salg,6.557,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 577184 Vandel,ndel,1.600.000,15-10-2010,Alm. Salg,29.090,2,Sommerhus,55,2009,-3 %,Aktuel værdi
+Østerbyvej 197184 Vandel,ndel,600.000,27-09-2010,Alm. Salg,4.255,4,Villa,141,1912,,Aktuel værdi
+Hyldestien 557184 Vandel,ndel,1.535.000,23-08-2010,Alm. Salg,27.909,2,Sommerhus,55,2009,,Aktuel værdi
+Dalgasvej 57184 Vandel,ndel,1.375.000,21-08-2010,Alm. Salg,6.707,6,Villa,205,1923,-8 %,Aktuel værdi
+Grindstedvej 107184 Vandel,ndel,845.000,09-08-2010,Alm. Salg,7.041,7,Villa,120,1873,,Aktuel værdi
+Gødsbølvej 517184 Vandel,ndel,380.000,01-08-2010,Alm. Salg,3.518,4,Villa,108,1880,,Aktuel værdi
+Gl. Stationsvej 387184 Vandel,ndel,1.065.000,30-07-2010,Alm. Salg,9.181,4,Villa,116,1973,-3 %,Aktuel værdi
+Mølleparken 57184 Vandel,ndel,800.000,26-07-2010,Alm. Salg,3.508,11,Villa,228,1954,-16 %,Aktuel værdi
+Grindstedvej 157184 Vandel,ndel,1.300.000,24-06-2010,Auktion,21.666,10,Servicevirksomhed,60,1897,-7 %,Aktuel værdi
+Grindstedvej 767184 Vandel,ndel,997.500,16-06-2010,Andet,8.986,4,Villa,111,1900,,Aktuel værdi
+Hyldestien 597184 Vandel,ndel,1.665.000,24-05-2010,Alm. Salg,30.272,2,Sommerhus,55,2009,,Aktuel værdi
+Mølleparken 257184 Vandel,ndel,2.395.000,15-05-2010,Alm. Salg,13.455,5,Villa,178,2002,-8 %,Aktuel værdi
+Gøddingvej 67184 Vandel,ndel,2.050.000,12-04-2010,Alm. Salg,10.962,6,Villa,187,1963,,Aktuel værdi
+Gødsbølvej 467184 Vandel,ndel,1.800.000,30-03-2010,Alm. Salg,11.250,5,Villa,160,2008,-10 %,Aktuel værdi
+Gl. Stationsvej 117184 Vandel,ndel,527.500,12-03-2010,Alm. Salg,4.186,4,Villa,126,1923,,Aktuel værdi
+Grindstedvej 147184 Vandel,ndel,1.000.000,16-02-2010,Alm. Salg,4.975,8,Villa,201,1900,-13 %,Aktuel værdi
+Grindstedvej 287184 Vandel,ndel,1.295.000,23-11-2009,Alm. Salg,5.967,7,Villa,217,1926,0 %,Aktuel værdi
+Mølleparken 327184 Vandel,ndel,2.675.000,17-08-2009,Alm. Salg,14.944,5,Villa,179,2007,0 %,Aktuel værdi
+Åstvej 107184 Vandel,ndel,1.200.000,13-08-2009,Alm. Salg,7.407,4,Stuehus,162,1850,-7 %,
+Blomstervænget 117184 Vandel,ndel,1.111.170,13-08-2009,Alm. Salg,8.749,5,Villa,127,1969,1 %,Aktuel værdi
+Gl. Stationsvej 407184 Vandel,ndel,1.300.000,13-08-2009,Alm. Salg,6.435,6,Villa,202,1900,-7 %,Aktuel værdi
+Rylevej 27184 Vandel,ndel,1.110.000,08-08-2009,Alm. Salg,9.652,4,Villa,115,1972,-9 %,Aktuel værdi
+Falkevej 127184 Vandel,ndel,1.400.000,20-07-2009,Alm. Salg,10.000,5,Villa,140,1997,-12 %,Aktuel værdi
+Randbølvej 167184 Vandel,ndel,1.210.000,14-07-2009,Alm. Salg,10.431,4,Villa,116,1965,-5 %,Aktuel værdi
+Hyldestien 157184 Vandel,ndel,2.500.000,17-06-2009,Alm. Salg,20.491,4,Sommerhus,122,2009,,Aktuel værdi
+Gl. Stationsvej 367184 Vandel,ndel,1.040.000,13-03-2009,Alm. Salg,7.938,4,Villa,131,1974,-13 %,Aktuel værdi
+Grindstedvej 617184 Vandel,ndel,1.783.687,29-01-2009,Alm. Salg,7.823,4,Stuehus,228,1936,,
+Gl. Stationsvej 17A7184 Vandel,ndel,1.240.000,23-12-2008,Alm. Salg,11.698,4,Rækkehus,106,2009,,Aktuel værdi
+Mølleparken 477184 Vandel,ndel,496.000,20-10-2008,Alm. Salg,2.396,5,Villa,207,2011,,Aktuel værdi
+Lærkevej 67184 Vandel,ndel,650.000,28-09-2008,Alm. Salg,5.909,6,Villa,110,1960,,Aktuel værdi
+Solbakken 57184 Vandel,ndel,500.000,28-08-2008,Alm. Salg,6.493,4,Villa,77,1954,-22 %,Aktuel værdi
+Randbølvej 267184 Vandel,ndel,725.000,07-07-2008,Alm. Salg,6.304,4,Villa,115,1976,0 %,Aktuel værdi
+Grindstedvej 227184 Vandel,ndel,1.025.000,04-07-2008,Alm. Salg,6.029,6,Villa,170,1928,-5 %,Aktuel værdi
+Kastanievej 47184 Vandel,ndel,900.000,17-06-2008,Fam. Salg,7.438,6,Villa,121,1930,,Aktuel værdi
+Ternevej 27184 Vandel,ndel,1.025.000,14-06-2008,Alm. Salg,7.945,4,Villa,129,1972,-2 %,Aktuel værdi
+Hyldestien 637184 Vandel,ndel,1.495.000,04-06-2008,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Randbølvej 257184 Vandel,ndel,1.075.000,30-05-2008,Alm. Salg,8.669,4,Villa,124,1960,-4 %,Aktuel værdi
+Hyldestien 957184 Vandel,ndel,1.595.000,28-05-2008,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Dalgasvej 177184 Vandel,ndel,1.195.000,06-05-2008,Alm. Salg,5.128,6,Villa,233,1895,,Aktuel værdi
+Mølleparken 307184 Vandel,ndel,1.950.000,23-04-2008,Alm. Salg,13.265,5,Villa,147,2006,-1 %,Aktuel værdi
+Blomstervænget 247184 Vandel,ndel,1.155.000,26-03-2008,Alm. Salg,12.031,4,Villa,96,1964,-3 %,Aktuel værdi
+Hyldestien 697184 Vandel,ndel,1.495.000,17-03-2008,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Vestbanevej 37184 Vandel,ndel,1.250.000,31-01-2008,Alm. Salg,9.615,4,Villa,130,1973,0 %,Aktuel værdi
+Kastanievej 537184 Vandel,ndel,3.325.000,22-01-2008,Alm. Salg,14.977,5,Stuehus,222,1927,0 %,
+Åstbyvej 39A7184 Vandel,ndel,150.000,20-12-2007,Alm. Salg,500,7,Stuehus,300,2008,,
+Hyldestien 1077184 Vandel,ndel,1.595.000,17-12-2007,Alm. Salg,19.451,2,Sommerhus,82,2008,,Aktuel værdi
+Falkevej 147184 Vandel,ndel,1.225.000,14-11-2007,Alm. Salg,10.937,4,Villa,112,1992,0 %,Aktuel værdi
+Gyvelvej 57184 Vandel,ndel,1.012.000,13-10-2007,Alm. Salg,7.906,5,Villa,128,1976,,Aktuel værdi
+Grindstedvej 127184 Vandel,ndel,878.000,02-10-2007,Alm. Salg,7.196,3,Villa,122,1979,,Aktuel værdi
+Mølleparken 147184 Vandel,ndel,1.665.000,02-10-2007,Alm. Salg,9.148,6,Villa,182,1974,-2 %,Aktuel værdi
+Randbølvej 187184 Vandel,ndel,450.000,18-09-2007,Alm. Salg,4.591,5,Villa,98,1964,,Aktuel værdi
+Gødsbølvej 317184 Vandel,ndel,1.025.000,12-09-2007,Fam. Salg,5.959,8,Stuehus,172,1925,,
+Gl. Stationsvej 87184 Vandel,ndel,1.200.000,23-08-2007,Alm. Salg,6.153,9,Villa,195,1897,-7 %,Aktuel værdi
+Vestbanevej 267184 Vandel,ndel,1.200.000,20-08-2007,Alm. Salg,9.375,5,Villa,128,1975,,Aktuel værdi
+Grindstedvej 317184 Vandel,ndel,980.000,13-08-2007,Fam. Salg,5.697,4,Villa,172,1897,,Aktuel værdi
+Dalgasvej 77184 Vandel,ndel,945.000,04-08-2007,Alm. Salg,8.750,4,Villa,108,1960,,Aktuel værdi
+Mølleparken 287184 Vandel,ndel,246.000,21-06-2007,Alm. Salg,1.849,4,Villa,133,2008,,Aktuel værdi
+Falkevej 157184 Vandel,ndel,1.525.000,28-05-2007,Alm. Salg,10.517,5,Villa,145,1994,-2 %,Aktuel værdi
+Stationsvej 97184 Vandel,ndel,875.000,27-05-2007,Alm. Salg,6.628,5,Villa,132,1931,,Aktuel værdi
+Falkevej 67184 Vandel,ndel,1.485.000,14-05-2007,Alm. Salg,8.114,6,Villa,183,1994,0 %,Aktuel værdi
+"Stationsvej 6, 27184 Vandel",ndel,600.000,12-04-2007,Alm. Salg,4.166,4,Lejlighed,144,1897,,Aktuel værdi
+Dalgasvej 117184 Vandel,ndel,925.000,11-04-2007,Alm. Salg,6.954,4,Villa,133,1937,,Aktuel værdi
+Hyldestien 477184 Vandel,ndel,1.495.000,10-04-2007,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 37184 Vandel,ndel,2.395.000,09-04-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 97184 Vandel,ndel,2.395.000,04-04-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 537184 Vandel,ndel,1.495.000,04-04-2007,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 1417184 Vandel,ndel,2.265.000,04-04-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 497184 Vandel,ndel,1.495.000,03-04-2007,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 77184 Vandel,ndel,2.395.000,01-04-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 137184 Vandel,ndel,2.395.000,01-04-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 1537184 Vandel,ndel,2.265.000,31-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 1237184 Vandel,ndel,1.595.000,25-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 217184 Vandel,ndel,2.395.000,25-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 737184 Vandel,ndel,1.495.000,25-03-2007,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 337184 Vandel,ndel,2.395.000,25-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 317184 Vandel,ndel,2.395.000,25-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 297184 Vandel,ndel,2.395.000,25-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 17184 Vandel,ndel,2.395.000,25-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 657184 Vandel,ndel,1.495.000,25-03-2007,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 177184 Vandel,ndel,2.395.000,25-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 797184 Vandel,ndel,1.495.000,25-03-2007,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 197184 Vandel,ndel,2.395.000,25-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 837184 Vandel,ndel,1.495.000,25-03-2007,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 457184 Vandel,ndel,1.495.000,25-03-2007,Alm. Salg,27.181,2,Sommerhus,55,2008,,Aktuel værdi
+Hyldestien 437184 Vandel,ndel,2.395.000,25-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 757184 Vandel,ndel,1.495.000,25-03-2007,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 857184 Vandel,ndel,1.495.000,25-03-2007,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 817184 Vandel,ndel,1.495.000,25-03-2007,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 417184 Vandel,ndel,2.395.000,25-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 1017184 Vandel,ndel,1.595.000,25-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 1177184 Vandel,ndel,1.630.000,25-03-2007,Alm. Salg,22.638,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 1157184 Vandel,ndel,1.595.000,25-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 937184 Vandel,ndel,1.595.000,25-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 1277184 Vandel,ndel,2.265.000,25-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 1317184 Vandel,ndel,2.265.000,25-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 1377184 Vandel,ndel,2.265.000,25-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 1517184 Vandel,ndel,2.265.000,25-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 1337184 Vandel,ndel,2.265.000,25-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 1457184 Vandel,ndel,2.265.000,25-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 1497184 Vandel,ndel,2.265.000,25-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 1477184 Vandel,ndel,2.265.000,25-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 1597184 Vandel,ndel,2.265.000,25-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 1297184 Vandel,ndel,2.265.000,25-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 997184 Vandel,ndel,1.595.000,24-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 1197184 Vandel,ndel,1.630.000,24-03-2007,Alm. Salg,22.638,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 237184 Vandel,ndel,2.395.000,24-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 257184 Vandel,ndel,2.395.000,24-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 397184 Vandel,ndel,2.395.000,24-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 777184 Vandel,ndel,1.495.000,24-03-2007,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 897184 Vandel,ndel,1.595.000,24-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 377184 Vandel,ndel,2.395.000,24-03-2007,Alm. Salg,19.631,4,Sommerhus,122,2009,,Aktuel værdi
+Hyldestien 877184 Vandel,ndel,1.595.000,24-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 977184 Vandel,ndel,1.595.000,24-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 677184 Vandel,ndel,1.495.000,24-03-2007,Alm. Salg,27.181,2,Sommerhus,55,2009,,Aktuel værdi
+Hyldestien 917184 Vandel,ndel,1.595.000,24-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 1097184 Vandel,ndel,1.595.000,24-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 1117184 Vandel,ndel,1.595.000,24-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 1137184 Vandel,ndel,1.595.000,24-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 1037184 Vandel,ndel,1.595.000,24-03-2007,Alm. Salg,22.152,2,Sommerhus,72,2008,,Aktuel værdi
+Hyldestien 1357184 Vandel,ndel,2.265.000,24-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 1577184 Vandel,ndel,2.265.000,24-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Hyldestien 1557184 Vandel,ndel,2.265.000,24-03-2007,Alm. Salg,20.044,4,Sommerhus,113,2008,,Aktuel værdi
+Fasanvej 157184 Vandel,ndel,725.000,21-03-2007,Fam. Salg,6.196,4,Villa,117,1973,,Aktuel værdi
+Østerbyvej 217184 Vandel,ndel,3.000.000,08-03-2007,Fam. Salg,18.867,6,Stuehus,159,2008,,
+Gl. Stationsvej 197184 Vandel,ndel,1.025.000,08-03-2007,Alm. Salg,6.972,6,Villa,147,1949,,Aktuel værdi
+Åstbyvej 297184 Vandel,ndel,500.000,20-02-2007,Alm. Salg,6.944,5,BygningTilLager,72,1944,,Aktuel værdi
+Åstvej 47184 Vandel,ndel,1.462.500,01-01-2007,Alm. Salg,6.303,7,Villa,232,1920,,Aktuel værdi
+Vestbanevej 287184 Vandel,ndel,1.200.000,14-12-2006,Alm. Salg,8.333,6,Villa,144,1976,,Aktuel værdi
+Dalgasvej 17184 Vandel,ndel,1.325.000,01-12-2006,Alm. Salg,9.888,3,Villa,134,1777,,Aktuel værdi
+Dalgasvej 14C7184 Vandel,ndel,825.000,17-11-2006,Alm. Salg,6.818,4,Villa,121,1979,,Aktuel værdi
+Dalgasvej 47184 Vandel,ndel,615.000,31-10-2006,Alm. Salg,5.590,5,Villa,110,1930,,Aktuel værdi
+Grindstedvej 167184 Vandel,ndel,574.911,12-10-2006,Alm. Salg,3.570,8,Villa,161,1910,,Aktuel værdi
+Dalgasvej 137184 Vandel,ndel,480.000,30-08-2006,Andet,4.067,6,Villa,118,1909,,Aktuel værdi
+Åstbyvej 17184 Vandel,ndel,900.000,12-06-2006,Alm. Salg,10.227,3,Villa,88,1927,,Aktuel værdi
+Kastanievej 27184 Vandel,ndel,615.000,05-06-2006,Alm. Salg,5.590,5,Villa,110,1922,,Aktuel værdi
+Blomstervænget 137184 Vandel,ndel,860.000,16-03-2006,Alm. Salg,6.991,5,Villa,123,1967,,Aktuel værdi
+Mølleparken 197184 Vandel,ndel,1.195.000,21-02-2006,Alm. Salg,6.675,5,Villa,179,1974,,Aktuel værdi
+Dalgasvej 157184 Vandel,ndel,450.000,19-02-2006,Alm. Salg,5.000,4,Villa,90,1953,,Aktuel værdi
+Åstbyvej 57184 Vandel,ndel,1.050.000,13-02-2006,Alm. Salg,6.213,6,Villa,169,1939,,Aktuel værdi
+Blomstervænget 197184 Vandel,ndel,345.153,18-10-2005,Andet,2.079,4,Villa,166,1963,,Aktuel værdi
+Gl. Stationsvej 67184 Vandel,ndel,700.000,26-09-2005,Fam. Salg,7.777,4,Villa,90,1910,,Aktuel værdi
+Randbølvej 67184 Vandel,ndel,770.000,21-09-2005,Alm. Salg,5.347,4,Villa,144,1944,,Aktuel værdi
+Blomstervænget 127184 Vandel,ndel,1.100.000,12-09-2005,Alm. Salg,6.145,6,Villa,179,1972,,Aktuel værdi
+Åstbyvej 217184 Vandel,ndel,595.000,06-09-2005,Alm. Salg,4.250,5,Villa,140,1935,,Aktuel værdi
+Åstbyvej 257184 Vandel,ndel,350.000,24-08-2005,Alm. Salg,-,7,Villa,217,1926,,Aktuel værdi
+Staghøjvej 107184 Vandel,ndel,400.000,10-08-2005,Fam. Salg,1.724,5,Stuehus,232,1902,,
+Dalgasvej 37184 Vandel,ndel,690.000,21-07-2005,Alm. Salg,3.631,8,Villa,190,1960,,Aktuel værdi
+Åstvej 67184 Vandel,ndel,900.000,13-07-2005,Alm. Salg,4.368,8,Villa,206,1877,,Aktuel værdi
+Mølleparken 347184 Vandel,ndel,265.000,27-06-2005,Alm. Salg,1.596,5,Villa,166,2006,,Aktuel værdi
+Fasanvej 87184 Vandel,ndel,963.000,21-06-2005,Alm. Salg,5.041,6,Villa,191,1973,,Aktuel værdi
+Vestbanevej 117184 Vandel,ndel,865.000,16-06-2005,Alm. Salg,6.006,4,Villa,144,1974,,Aktuel værdi
+Fuglsangvej 27184 Vandel,ndel,1.210.000,14-06-2005,Alm. Salg,6.205,4,Villa,195,1982,,Aktuel værdi
+Falkevej 107184 Vandel,ndel,1.095.000,13-06-2005,Alm. Salg,8.111,5,Villa,135,1997,,Aktuel værdi
+Gl. Stationsvej 307184 Vandel,ndel,950.000,02-06-2005,Alm. Salg,8.189,4,Villa,116,1968,,Aktuel værdi
+Staghøjvej 167184 Vandel,ndel,1.100.000,23-04-2005,Alm. Salg,4.761,9,Stuehus,231,1971,,
+Randbølvej 77184 Vandel,ndel,625.000,12-04-2005,Alm. Salg,5.165,4,Villa,121,1931,,Aktuel værdi
+Gødsbølvej 667184 Vandel,ndel,500.000,29-03-2005,Alm. Salg,5.050,4,Villa,99,1936,,Aktuel værdi
+Rylevej 47184 Vandel,ndel,600.000,11-03-2005,Alm. Salg,5.714,4,Villa,105,1971,,Aktuel værdi
+Åstvej 87184 Vandel,ndel,1.698.554,24-02-2005,Alm. Salg,5.550,10,Stuehus,306,1910,,
+Gødsbølvej 647184 Vandel,ndel,501.508,15-12-2004,Fam. Salg,2.558,6,Villa,196,1900,,Aktuel værdi
+Randbølvej 97184 Vandel,ndel,815.000,14-12-2004,Alm. Salg,5.948,5,Villa,137,1971,,Aktuel værdi
+Grindstedvej 57184 Vandel,ndel,865.000,04-12-2004,Alm. Salg,4.805,7,Villa,180,1925,,Aktuel værdi
+Mølleparken 127184 Vandel,ndel,750.000,09-11-2004,Alm. Salg,5.859,4,Villa,128,1974,,Aktuel værdi
+Ternevej 67184 Vandel,ndel,1.075.000,28-10-2004,Alm. Salg,5.842,7,Villa,184,1965,,Aktuel værdi
+Fasanvej 97184 Vandel,ndel,772.500,04-10-2004,Alm. Salg,5.184,4,Villa,149,1966,,Aktuel værdi
+Østerbyvej 277184 Vandel,ndel,2.865.000,11-06-2004,Alm. Salg,9.581,10,Stuehus,299,1920,,
+Falkevej 17184 Vandel,ndel,937.029,03-06-2004,Alm. Salg,6.374,4,Villa,147,1986,,Aktuel værdi
+Gøddingvej 117184 Vandel,ndel,190.000,11-05-2004,Alm. Salg,3.166,3,Villa,60,1847,,Aktuel værdi
+Hedevej 17184 Vandel,ndel,95.000,25-03-2004,Alm. Salg,730,5,Villa,130,1973,,Aktuel værdi
+Vestbanevej 27184 Vandel,ndel,1.120.000,09-02-2004,Alm. Salg,5.258,7,Villa,213,1963,,Aktuel værdi
+Lærkevej 37184 Vandel,ndel,575.000,11-12-2003,Alm. Salg,7.371,4,Villa,78,1964,,Aktuel værdi
+Gl. Stationsvej 237184 Vandel,ndel,575.000,01-12-2003,Alm. Salg,3.685,6,Villa,156,1920,,Aktuel værdi
+Grindstedvej 537184 Vandel,ndel,1.050.000,06-10-2003,Alm. Salg,11.538,3,Stuehus,91,1900,,
+Gl. Stationsvej 15A7184 Vandel,ndel,115.000,02-10-2003,Alm. Salg,741,6,Lejlighed,155,1935,,Aktuel værdi
+Gl. Stationsvej 207184 Vandel,ndel,540.000,01-10-2003,Fam. Salg,5.142,4,Villa,105,1962,,Aktuel værdi
+Grindstedvej 277184 Vandel,ndel,1.500.000,17-09-2003,Alm. Salg,5.660,9,Villa,265,1916,,Aktuel værdi
+Gødsbølvej 477184 Vandel,ndel,550.000,04-09-2003,Alm. Salg,2.941,6,Villa,187,1947,,Aktuel værdi
+Kastanievej 117184 Vandel,ndel,878.000,01-08-2003,Alm. Salg,3.902,5,Stuehus,225,1930,,
+Gyvelvej 107184 Vandel,ndel,517.500,28-07-2003,Alm. Salg,6.468,4,Villa,80,1962,,Aktuel værdi
+Grindstedvej 757184 Vandel,ndel,1.575.000,26-06-2003,Alm. Salg,13.125,5,Stuehus,120,1976,,
+Gl. Stationsvej 347184 Vandel,ndel,380.000,24-03-2003,Alm. Salg,2.021,6,Villa,188,1920,,Aktuel værdi
+Grindstedvej 187184 Vandel,ndel,1.400.000,20-03-2003,Alm. Salg,5.283,7,Stuehus,265,1900,,
+Gøddingvej 17184 Vandel,ndel,1.460.000,13-03-2003,Alm. Salg,7.263,6,Stuehus,201,1939,,
+Gl. Stationsvej 107184 Vandel,ndel,600.000,06-12-2002,Alm. Salg,5.660,4,Villa,106,1967,,Aktuel værdi
+Grindstedvej 697184 Vandel,ndel,4.400.000,27-09-2002,Alm. Salg,19.130,6,Stuehus,230,1973,,
+Gl. Stationsvej 167184 Vandel,ndel,425.000,03-07-2002,Alm. Salg,4.086,4,Villa,104,1966,,Aktuel værdi
+Fuglsangvej 47184 Vandel,ndel,1.365.000,03-06-2002,Alm. Salg,7.844,5,Villa,174,1996,,Aktuel værdi
+Randbølvej 277184 Vandel,ndel,620.000,26-03-2002,Alm. Salg,5.040,4,Villa,123,1959,,Aktuel værdi
+Gødsbølvej 487184 Vandel,ndel,1.650.000,08-03-2002,Alm. Salg,-,5,Stuehus,175,1900,,
+Grindstedvej 87184 Vandel,ndel,800.000,06-03-2002,Alm. Salg,6.299,4,Villa,127,1980,,Aktuel værdi
+Stationsvej 17184 Vandel,ndel,620.000,12-02-2002,Alm. Salg,5.040,4,Villa,123,1898,,Aktuel værdi
+Gødsbølvej 327184 Vandel,ndel,2.275.000,10-02-2002,Alm. Salg,6.444,7,Villa,353,1830,,Aktuel værdi
+Grindstedvej 117184 Vandel,ndel,403.500,01-01-2002,Alm. Salg,4.247,4,Villa,95,1910,,Aktuel værdi
+Gøddingvej 77184 Vandel,ndel,923.610,17-12-2001,Alm. Salg,6.157,6,Stuehus,150,1977,,
+Grindstedvej 97184 Vandel,ndel,350.000,18-10-2001,Andet,6.140,2,Villa,57,1956,,Aktuel værdi
+Åstbyvej 347184 Vandel,ndel,60.000,15-10-2001,Alm. Salg,315,7,Villa,190,2002,,Aktuel værdi
+Randbølvej 47184 Vandel,ndel,705.000,06-08-2001,Alm. Salg,4.298,5,Villa,164,1921,,Aktuel værdi
+Gl. Stationsvej 137184 Vandel,ndel,697.000,07-06-2001,Alm. Salg,4.646,6,Villa,150,1935,,Aktuel værdi
+Dalgasvej 14A7184 Vandel,ndel,839.153,05-05-2001,Alm. Salg,6.125,5,Villa,137,1978,,Aktuel værdi
+Fasanvej 207184 Vandel,ndel,700.946,01-05-2001,Alm. Salg,3.689,7,Villa,190,1978,,Aktuel værdi
+Grindstedvej 567184 Vandel,ndel,3.546.398,19-04-2001,Alm. Salg,15.091,7,Stuehus,235,1920,,
+Åstbyvej 437184 Vandel,ndel,8.200.000,22-02-2001,Alm. Salg,40.196,6,Stuehus,204,1927,,
+Randbølvej 157184 Vandel,ndel,600.000,29-05-2000,Alm. Salg,5.263,4,Villa,114,1962,,Aktuel værdi
+Grindstedvej 177184 Vandel,ndel,646.000,29-03-2000,Fam. Salg,1.945,18,Villa,332,1964,,Aktuel værdi
+Mølleparken 267184 Vandel,ndel,230.000,27-03-2000,Alm. Salg,1.654,5,Villa,139,2000,,Aktuel værdi
+Vestbanevej 367184 Vandel,ndel,1.070.000,07-03-2000,Alm. Salg,-,6,Villa,192,1975,,Aktuel værdi
+Gl. Åstvej 47184 Vandel,ndel,295.000,19-02-2000,Alm. Salg,4.338,4,Villa,68,1911,,Aktuel værdi
+Skolevej 27184 Vandel,ndel,666.479,23-12-1999,Alm. Salg,5.553,4,Villa,120,1959,,Aktuel værdi
+Vestbanevej 167184 Vandel,ndel,760.000,21-10-1999,Alm. Salg,5.507,4,Villa,138,1976,,Aktuel værdi
+Blomstervænget 77184 Vandel,ndel,831.304,23-09-1999,Alm. Salg,7.044,4,Villa,118,1968,,Aktuel værdi
+Vestbanevej 57184 Vandel,ndel,1.055.000,23-06-1999,Alm. Salg,6.512,5,Villa,162,1973,,Aktuel værdi
+Solbakken 67184 Vandel,ndel,1.230.000,14-06-1999,Alm. Salg,6.275,8,Villa,196,1973,,Aktuel værdi
+Fasanvej 137184 Vandel,ndel,698.000,07-06-1999,Alm. Salg,5.132,4,Villa,136,1974,,Aktuel værdi
+Gyvelvej 27184 Vandel,ndel,650.000,23-03-1999,Alm. Salg,5.803,4,Villa,112,1972,,Aktuel værdi
+Firhøjevej 37184 Vandel,ndel,840.000,23-03-1999,Alm. Salg,6.043,5,Villa,139,1900,,Aktuel værdi
+Lærkevej 27184 Vandel,ndel,207.196,08-02-1999,Fam. Salg,1.631,4,Villa,127,1954,,Aktuel værdi
+Grindstedvej 647184 Vandel,ndel,1.670.462,08-12-1998,Alm. Salg,11.763,5,Stuehus,142,1928,,
+Randbølvej 517184 Vandel,ndel,1.638.381,18-11-1998,Alm. Salg,8.191,6,Stuehus,200,1910,,
+Vestbanevej 87184 Vandel,ndel,790.000,06-11-1998,Alm. Salg,5.895,5,Villa,134,1977,,Aktuel værdi
+Lærkevej 47184 Vandel,ndel,514.516,31-08-1998,Alm. Salg,6.431,3,Villa,80,1960,,Aktuel værdi
+Randbølvej 137184 Vandel,ndel,646.719,13-07-1998,Alm. Salg,6.599,4,Villa,98,1964,,Aktuel værdi
+Falkevej 97184 Vandel,ndel,75.000,16-06-1998,Alm. Salg,513,5,Villa,146,1998,,Aktuel værdi
+Vestbanevej 17184 Vandel,ndel,700.000,06-05-1998,Alm. Salg,-,4,Villa,186,1966,,Aktuel værdi
+Vestbanevej 327184 Vandel,ndel,738.000,29-04-1998,Alm. Salg,4.193,6,Villa,176,1974,,Aktuel værdi
+Fasanvej 27184 Vandel,ndel,636.438,30-03-1998,Alm. Salg,5.582,4,Villa,114,1969,,Aktuel værdi
+Solbakken 37184 Vandel,ndel,578.000,10-03-1998,Alm. Salg,3.753,5,Villa,154,1950,,Aktuel værdi
+Vestbanevej 77184 Vandel,ndel,590.000,09-03-1998,Alm. Salg,4.244,4,Villa,139,1973,,Aktuel værdi
+Dalgasvej 167184 Vandel,ndel,610.000,12-02-1998,Alm. Salg,4.841,6,Villa,126,1939,,Aktuel værdi
+Mølleparken 157184 Vandel,ndel,1.510.000,20-10-1997,Alm. Salg,6.863,6,Villa,220,1971,,Aktuel værdi
+Åstbyvej 367184 Vandel,ndel,738.746,08-10-1997,Alm. Salg,-,5,Villa,240,1857,,Aktuel værdi
+Gødsbølvej 567184 Vandel,ndel,76.443,24-09-1997,Fam. Salg,910,2,Villa,84,1677,,Aktuel værdi
+Åstbyvej 457184 Vandel,ndel,532.528,05-09-1997,Alm. Salg,3.803,5,Villa,140,1900,,Aktuel værdi
+Randbølvej 227184 Vandel,ndel,738.262,01-08-1997,Alm. Salg,6.364,3,Villa,116,1976,,Aktuel værdi
+Vestbanevej 207184 Vandel,ndel,1.110.000,30-05-1997,Alm. Salg,3.700,8,Villa,300,1975,,Aktuel værdi
+Mølleparken 237184 Vandel,ndel,243.646,06-03-1997,Fam. Salg,2.030,4,Villa,120,1976,,Aktuel værdi
+"Grindstedvej 40, 17184 Vandel",ndel,400.000,18-02-1997,Alm. Salg,11.428,2,Anden beboelse,35,1954,,Aktuel værdi
+Åstvej 27184 Vandel,ndel,2.721.000,10-09-1996,Alm. Salg,-,10,Stuehus,249,1984,,
+Randbølvej 327184 Vandel,ndel,655.400,12-07-1996,Alm. Salg,4.819,4,Villa,136,1977,,Aktuel værdi
+Falkevej 87184 Vandel,ndel,79.360,12-07-1996,Alm. Salg,640,4,Villa,124,1996,,Aktuel værdi
+Åstbyvej 357184 Vandel,ndel,433.196,03-07-1996,Alm. Salg,2.062,6,Villa,210,1969,,Aktuel værdi
+Fasanvej 23A7184 Vandel,ndel,787.000,24-06-1996,Alm. Salg,5.465,5,Villa,144,1979,,Aktuel værdi
+Mølleparken 4A7184 Vandel,ndel,295.000,22-02-1996,Alm. Salg,2.438,4,Villa,121,1900,,Aktuel værdi
+Åstbyvej 327184 Vandel,ndel,540.000,14-02-1996,Alm. Salg,4.153,4,Villa,130,1950,,Aktuel værdi
+Åstvej 97184 Vandel,ndel,623.221,04-02-1996,Alm. Salg,2.299,8,Villa,271,2010,,Aktuel værdi
+Gyvelvej 87184 Vandel,ndel,376.000,17-11-1995,Alm. Salg,2.647,6,Villa,142,1927,,Aktuel værdi
+Grindstedvej 517184 Vandel,ndel,725.000,31-08-1995,Alm. Salg,4.367,5,Villa,166,2001,,Aktuel værdi
+Grindstedvej 27184 Vandel,ndel,313.480,26-07-1995,Alm. Salg,1.761,6,Villa,178,1940,,Aktuel værdi
+Vestbanevej 47184 Vandel,ndel,607.000,16-03-1995,Alm. Salg,3.841,5,Villa,158,1967,,Aktuel værdi
+Mølleparken 107184 Vandel,ndel,625.000,05-03-1995,Alm. Salg,3.834,5,Villa,163,1974,,Aktuel værdi
+Grindstedvej 907184 Vandel,ndel,997.299,23-02-1995,Alm. Salg,5.866,5,Villa,170,1996,,Aktuel værdi
+Gødsbølvej 307184 Vandel,ndel,685.000,19-02-1995,Alm. Salg,6.401,4,Stuehus,107,1923,,
+Randbølvej 307184 Vandel,ndel,430.000,22-01-1995,Fam. Salg,2.443,7,Villa,176,1976,,Aktuel værdi
+Mølleparken 11B7184 Vandel,ndel,582.000,28-11-1994,Alm. Salg,-,5,Villa,148,1977,,Aktuel værdi
+Gl. Stationsvej 287184 Vandel,ndel,430.000,06-09-1994,Alm. Salg,3.839,4,Villa,112,1968,,Aktuel værdi
+Dalgasvej 197184 Vandel,ndel,357.580,26-08-1994,Alm. Salg,3.341,4,Villa,107,1900,,Aktuel værdi
+Dalgasvej 87184 Vandel,ndel,552.000,08-06-1994,Alm. Salg,2.083,6,Villa,265,1948,,Aktuel værdi
+Fasanvej 17184 Vandel,ndel,429.000,23-03-1994,Alm. Salg,3.605,4,Villa,119,1965,,Aktuel værdi
+Vestbanevej 467184 Vandel,ndel,962.500,18-03-1994,Alm. Salg,4.296,6,Villa,224,1998,,Aktuel værdi
+Vestbanevej 347184 Vandel,ndel,525.000,04-12-1993,Alm. Salg,3.917,5,Villa,134,1976,,Aktuel værdi
+Grindstedvej 747184 Vandel,ndel,776.900,12-10-1993,Fam. Salg,5.471,5,Stuehus,142,1962,,
+Gøddingvej 127184 Vandel,ndel,600.000,10-09-1993,Fam. Salg,2.970,7,Stuehus,202,1963,,
+Randbølvej 297184 Vandel,ndel,420.830,10-08-1993,Alm. Salg,2.581,6,Villa,163,1953,,Aktuel værdi
+Blomstervænget 17184 Vandel,ndel,585.000,22-07-1993,Alm. Salg,3.656,4,Villa,160,1973,,Aktuel værdi
+Fasanvej 23B7184 Vandel,ndel,570.000,25-02-1993,Alm. Salg,4.285,4,Villa,133,1979,,Aktuel værdi
+Blomstervænget 177184 Vandel,ndel,342.000,14-12-1992,Alm. Salg,3.489,4,Villa,98,1964,,Aktuel værdi
+Østerbyvej 157184 Vandel,ndel,325.000,21-09-1992,Alm. Salg,1.946,7,Villa,167,1877,,Aktuel værdi
+Dalgasvej 14B7184 Vandel,ndel,490.000,09-09-1992,Alm. Salg,4.336,4,Villa,113,1978,,Aktuel værdi
+Stavnkærvej 47184 Vandel,ndel,78.000,16-06-1992,Alm. Salg,-,6,Villa,273,1890,,Aktuel værdi
+Stationsvej 57184 Vandel,ndel,493.500,26-05-1992,Fam. Salg,4.935,4,Villa,100,1948,,Aktuel værdi
+Mølleparken 11A7184 Vandel,ndel,125.000,25-04-1992,Alm. Salg,1.008,4,Villa,124,1993,,Aktuel værdi
+Kastanievej 517184 Vandel,ndel,590.000,14-04-1992,Alm. Salg,3.172,6,Stuehus,186,1887,,

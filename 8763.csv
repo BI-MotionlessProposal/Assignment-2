@@ -1,0 +1,420 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Stenkærgård 88763 Rask Mølle,ølle,1.700.000,15-05-2017,Alm. Salg,14.782,3,Villa,115,2008,0 %,Aktuel værdi
+Stenkærgård 78763 Rask Mølle,ølle,1.600.000,28-03-2017,Fam. Salg,9.090,4,Villa,176,2010,,Aktuel værdi
+Stenkærgård 368763 Rask Mølle,ølle,2.177.000,10-02-2017,Alm. Salg,13.606,6,Villa,160,2007,-3 %,Aktuel værdi
+Stenkærgård 468763 Rask Mølle,ølle,3.180.000,08-02-2017,Alm. Salg,17.096,5,Villa,186,2016,-3 %,Aktuel værdi
+Møllebakken 68763 Rask Mølle,ølle,895.000,03-02-2017,Alm. Salg,6.884,4,Villa,130,1965,-5 %,Aktuel værdi
+Kodallundvej 48763 Rask Mølle,ølle,1.822.000,09-01-2017,Alm. Salg,9.110,6,Villa,200,1877,2 %,Aktuel værdi
+Møllesvinget 88763 Rask Mølle,ølle,1.300.000,04-01-2017,Alm. Salg,9.420,6,Villa,138,1964,,Aktuel værdi
+Peter Hansens Vej 78763 Rask Mølle,ølle,1.000.000,29-12-2016,Fam. Salg,8.928,5,Villa,112,1964,,Aktuel værdi
+Honum Skovvej 178763 Rask Mølle,ølle,750.000,16-12-2016,Alm. Salg,5.244,4,Villa,143,1880,,Aktuel værdi
+Gyvelvej 258763 Rask Mølle,ølle,750.000,12-12-2016,Alm. Salg,6.198,3,Villa,121,1984,,Aktuel værdi
+Bellisvej 58763 Rask Mølle,ølle,1.110.000,09-12-2016,Alm. Salg,7.500,6,Villa,148,1967,-3 %,Aktuel værdi
+Bellisvej 78763 Rask Mølle,ølle,550.000,02-12-2016,Alm. Salg,4.230,5,Villa,130,1968,,Aktuel værdi
+Kalhavevej 148763 Rask Mølle,ølle,1.640.000,30-11-2016,Alm. Salg,9.704,4,Villa,169,1984,-2 %,Aktuel værdi
+Boring 518763 Rask Mølle,ølle,75.000,30-11-2016,Alm. Salg,355,5,Stuehus,211,1920,,
+Boringvej 78763 Rask Mølle,ølle,1.440.000,21-11-2016,Alm. Salg,10.285,4,Villa,140,1930,-1 %,Aktuel værdi
+Kalhavevej 108763 Rask Mølle,ølle,515.000,11-11-2016,Alm. Salg,5.478,4,Villa,94,1896,-13 %,Aktuel værdi
+Raskvej 478763 Rask Mølle,ølle,2.000.000,23-09-2016,Fam. Salg,9.216,6,Villa,217,1994,,Aktuel værdi
+Boring 408763 Rask Mølle,ølle,1.633.333,06-09-2016,Alm. Salg,14.327,4,Villa,114,2012,-7 %,Aktuel værdi
+Erantisvej 38763 Rask Mølle,ølle,480.000,17-08-2016,Alm. Salg,2.981,5,Villa,161,1974,,Aktuel værdi
+Stenkærgård 388763 Rask Mølle,ølle,2.480.000,12-07-2016,Alm. Salg,13.854,5,Villa,179,2008,-4 %,Aktuel værdi
+Enggårdsvej 58763 Rask Mølle,ølle,877.000,16-06-2016,Andet,6.448,3,Villa,136,1905,,Aktuel værdi
+Honumvej 58763 Rask Mølle,ølle,300.000,29-04-2016,Alm. Salg,3.000,4,Villa,100,1951,-39 %,Aktuel værdi
+Cikorievej 108763 Rask Mølle,ølle,840.000,25-04-2016,Alm. Salg,7.058,4,Villa,119,1978,-6 %,Aktuel værdi
+Gyvelvej 58763 Rask Mølle,ølle,1.400.000,09-03-2016,Alm. Salg,8.284,6,Villa,169,1976,-6 %,Aktuel værdi
+Boring 198763 Rask Mølle,ølle,987.500,25-02-2016,Alm. Salg,6.954,4,Villa,142,1929,-10 %,Aktuel værdi
+Møllesvinget 108763 Rask Mølle,ølle,580.000,15-02-2016,Alm. Salg,7.250,3,Villa,80,1964,-17 %,Aktuel værdi
+Honumvej 168763 Rask Mølle,ølle,1.100.000,26-01-2016,Alm. Salg,6.214,5,Villa,177,1961,-15 %,Aktuel værdi
+Cikorievej 58763 Rask Mølle,ølle,825.000,22-12-2015,Alm. Salg,6.445,4,Villa,128,1974,-8 %,Aktuel værdi
+Nørre Snedevej 1408763 Rask Mølle,ølle,852.500,30-11-2015,Alm. Salg,7.163,4,Villa,119,1983,,Aktuel værdi
+Stenkærgård 238763 Rask Mølle,ølle,245.000,25-11-2015,Alm. Salg,1.467,4,Villa,167,2016,,Aktuel værdi
+Boring 298763 Rask Mølle,ølle,1.300.000,20-11-2015,Alm. Salg,7.975,5,Villa,163,1976,-7 %,Aktuel værdi
+Cikorievej 128763 Rask Mølle,ølle,663.000,19-11-2015,Fam. Salg,5.479,4,Villa,121,1971,-17 %,Aktuel værdi
+Gyvelvej 68763 Rask Mølle,ølle,1.150.000,29-10-2015,Alm. Salg,6.149,7,Villa,187,1974,-3 %,Aktuel værdi
+Mølletoften 38763 Rask Mølle,ølle,900.000,21-10-2015,Fam. Salg,6.818,4,Villa,132,1948,,Aktuel værdi
+Hovedgaden 488763 Rask Mølle,ølle,1.400.000,21-10-2015,Fam. Salg,7.692,6,Villa,182,1927,,Aktuel værdi
+"Møllesvinget 4, KL8763 Rask Mølle",ølle,1.240.000,15-09-2015,Alm. Salg,5.610,6,Villa,221,1977,-3 %,Aktuel værdi
+Anemonevej 78763 Rask Mølle,ølle,1.300.000,14-09-2015,Alm. Salg,8.387,4,Villa,155,1966,-12 %,Aktuel værdi
+Stenkærgård 38763 Rask Mølle,ølle,385.000,11-09-2015,Alm. Salg,2.264,5,Villa,170,2017,,Aktuel værdi
+Fruens Vej 78763 Rask Mølle,ølle,1.970.000,09-09-2015,Alm. Salg,7.547,5,Villa,261,1921,-1 %,Aktuel værdi
+Boring 498763 Rask Mølle,ølle,2.290.000,04-09-2015,Alm. Salg,16.013,5,Stuehus,143,1923,,
+Møllebakken 138763 Rask Mølle,ølle,785.000,03-09-2015,Alm. Salg,6.596,4,Villa,119,1985,-13 %,Aktuel værdi
+Honum Byvej 108763 Rask Mølle,ølle,1.945.000,10-07-2015,Alm. Salg,8.104,8,Villa,240,1916,0 %,Aktuel værdi
+Hovedgaden 98763 Rask Mølle,ølle,675.000,30-06-2015,Fam. Salg,6.617,3,Villa,102,1910,,Aktuel værdi
+Gyvelvej 188763 Rask Mølle,ølle,1.300.000,17-06-2015,Fam. Salg,10.156,5,Villa,128,1979,-5 %,Aktuel værdi
+Gl Jernbanevej 158763 Rask Mølle,ølle,2.100.000,17-06-2015,Fam. Salg,10.880,6,Villa,193,1969,,Aktuel værdi
+Fruens Vej 138763 Rask Mølle,ølle,1.315.789,01-06-2015,Andet,3.802,8,Villa,346,1921,,Aktuel værdi
+Peter Hansens Vej 98763 Rask Mølle,ølle,630.000,22-04-2015,Alm. Salg,7.000,3,Villa,90,1965,-8 %,Aktuel værdi
+Cikorievej 88763 Rask Mølle,ølle,600.000,29-03-2015,Alm. Salg,4.347,5,Villa,138,1968,,Aktuel værdi
+Honum Byvej 128763 Rask Mølle,ølle,1.085.000,27-02-2015,Alm. Salg,7.045,7,Villa,154,1875,0 %,Aktuel værdi
+Møllebakken 58763 Rask Mølle,ølle,760.000,09-02-2015,Alm. Salg,8.539,4,Villa,89,1970,-2 %,Aktuel værdi
+Hovedgaden 188763 Rask Mølle,ølle,437.500,14-12-2014,Andet,2.364,7,Villa,185,1904,,Aktuel værdi
+Rask Skovvej 48763 Rask Mølle,ølle,694.500,11-12-2014,Fam. Salg,4.724,4,Villa,147,1921,,Aktuel værdi
+Boring 48763 Rask Mølle,ølle,474.500,05-12-2014,Andet,3.389,4,Villa,140,1973,,Aktuel værdi
+Honumvej 268763 Rask Mølle,ølle,687.712,25-11-2014,Fam. Salg,3.371,8,Villa,204,1900,,Aktuel værdi
+Peter Hansens Vej 118763 Rask Mølle,ølle,575.000,22-10-2014,Alm. Salg,2.979,6,Villa,193,1967,-28 %,Aktuel værdi
+Stenkærgård 98763 Rask Mølle,ølle,3.700.000,17-10-2014,Alm. Salg,17.289,7,Villa,214,2010,-7 %,Aktuel værdi
+Boring 448763 Rask Mølle,ølle,1.250.670,26-09-2014,Andet,7.356,5,Stuehus,170,1870,,
+Boring 248763 Rask Mølle,ølle,140.000,28-07-2014,Alm. Salg,555,9,Stuehus,252,1894,,
+Møllersmindevej 248763 Rask Mølle,ølle,3.500.000,03-07-2014,Alm. Salg,16.826,5,Villa,208,2009,-4 %,Aktuel værdi
+Stenkærgård 208763 Rask Mølle,ølle,1.360.000,27-06-2014,Alm. Salg,12.252,3,Villa,111,2006,-6 %,Aktuel værdi
+Boring 88763 Rask Mølle,ølle,250.000,10-06-2014,Alm. Salg,2.192,5,Villa,114,1777,-17 %,Aktuel værdi
+Bellisvej 68763 Rask Mølle,ølle,1.365.000,28-05-2014,Alm. Salg,9.222,7,Villa,148,1967,-2 %,Aktuel værdi
+Raskvej 588763 Rask Mølle,ølle,1.250.000,18-04-2014,Alm. Salg,11.261,4,Villa,111,1925,,Aktuel værdi
+Fruens Vej 148763 Rask Mølle,ølle,779.500,08-03-2014,Fam. Salg,-,4,Villa,133,1921,,Aktuel værdi
+Stenkærgård 328763 Rask Mølle,ølle,1.700.000,18-02-2014,Fam. Salg,11.805,4,Villa,144,2007,,Aktuel værdi
+Kalhavevej 98763 Rask Mølle,ølle,1.050.000,10-02-2014,Alm. Salg,7.608,5,Villa,138,1900,-3 %,Aktuel værdi
+Nørre Snedevej 1288763 Rask Mølle,ølle,650.000,28-01-2014,Andet,3.385,6,Villa,192,1939,,Aktuel værdi
+Dahliavej 148763 Rask Mølle,ølle,1.100.000,23-01-2014,Alm. Salg,6.707,5,Villa,164,1971,-4 %,Aktuel værdi
+Anemonevej 68763 Rask Mølle,ølle,775.000,20-01-2014,Alm. Salg,5.871,3,Villa,132,1967,-22 %,Aktuel værdi
+Møllersmindevej 318763 Rask Mølle,ølle,1.165.541,14-01-2014,Alm. Salg,7.284,5,Villa,160,1999,,Aktuel værdi
+Skovbyvej 118763 Rask Mølle,ølle,393.500,14-01-2014,Andet,3.003,4,Villa,131,1921,,Aktuel værdi
+Honum Skovvej 298763 Rask Mølle,ølle,1.582.395,25-11-2013,Alm. Salg,8.198,4,Villa,193,1914,-9 %,Aktuel værdi
+Peter Hansens Vej 58763 Rask Mølle,ølle,450.000,19-11-2013,Fam. Salg,2.307,7,Villa,195,1972,,Aktuel værdi
+Honumvej 378763 Rask Mølle,ølle,520.000,31-10-2013,Alm. Salg,2.241,6,Villa,232,1935,4 %,Aktuel værdi
+Skovbrynet 108763 Rask Mølle,ølle,1.575.000,21-10-2013,Alm. Salg,9.156,5,Villa,172,1952,-1 %,Aktuel værdi
+Kalhavevej 288763 Rask Mølle,ølle,1.505.000,03-10-2013,Alm. Salg,-,6,Villa,193,1900,-16 %,Aktuel værdi
+"Hovedgaden 19, 1. TH8763 Rask Mølle",ølle,550.000,01-10-2013,Alm. Salg,7.333,3,Lejlighed,75,1918,,Aktuel værdi
+Hovedgaden 238763 Rask Mølle,ølle,686.121,30-09-2013,Fam. Salg,3.669,7,Villa,187,1875,,Aktuel værdi
+"Stationspladsen 1, 18763 Rask Mølle",ølle,1.000.000,18-09-2013,Alm. Salg,7.633,4,Lejlighed,131,1897,,Aktuel værdi
+Møllebakken 28763 Rask Mølle,ølle,600.500,06-09-2013,Alm. Salg,3.706,5,Villa,162,1977,-56 %,Aktuel værdi
+Hybenvej 238763 Rask Mølle,ølle,1.015.000,23-07-2013,Alm. Salg,-,9,Villa,205,1981,-7 %,Aktuel værdi
+Hovedgaden 138763 Rask Mølle,ølle,370.500,20-05-2013,Fam. Salg,2.470,6,Villa,150,1897,,Aktuel værdi
+Hovedgaden 528763 Rask Mølle,ølle,2.572.500,19-04-2013,Alm. Salg,17.150,6,Villa,150,1967,-3 %,Aktuel værdi
+Honumvej 358763 Rask Mølle,ølle,149.000,11-02-2013,Alm. Salg,468,6,Stuehus,318,1900,,
+Møllebakken 98763 Rask Mølle,ølle,1.300.000,06-02-2013,Alm. Salg,12.745,3,Villa,102,2002,,Aktuel værdi
+Cikorievej 48763 Rask Mølle,ølle,950.000,24-01-2013,Alm. Salg,7.600,5,Villa,125,1968,-9 %,Aktuel værdi
+Skovbrynet 148763 Rask Mølle,ølle,1.150.000,13-01-2013,Alm. Salg,10.454,5,Villa,110,1950,,Aktuel værdi
+Stenkærgård 48763 Rask Mølle,ølle,2.995.000,27-12-2012,Alm. Salg,14.127,7,Villa,212,2008,0 %,Aktuel værdi
+Honumvej 448763 Rask Mølle,ølle,1.012.500,09-12-2012,Alm. Salg,4.560,6,Stuehus,222,1932,,
+Honumvej 488763 Rask Mølle,ølle,3.800.000,19-11-2012,Alm. Salg,15.899,6,Villa,239,1917,-5 %,Aktuel værdi
+Enggårdsvej 248763 Rask Mølle,ølle,2.300.000,28-09-2012,Alm. Salg,8.679,5,Villa,265,1893,-8 %,Aktuel værdi
+Enggårdsvej 28763 Rask Mølle,ølle,1.650.000,18-09-2012,Alm. Salg,12.043,4,Villa,137,1915,-3 %,Aktuel værdi
+Boring 428763 Rask Mølle,ølle,60.000,10-08-2012,Auktion,645,3,Villa,93,1947,,Aktuel værdi
+Stenkærgård 138763 Rask Mølle,ølle,272.000,08-08-2012,Alm. Salg,1.732,5,Villa,157,2012,,Aktuel værdi
+Boringvej 48763 Rask Mølle,ølle,1.375.000,06-08-2012,Alm. Salg,-,4,Villa,105,1948,-1 %,Aktuel værdi
+Boring 228763 Rask Mølle,ølle,200.000,28-06-2012,Auktion,1.123,6,Villa,178,1949,-66 %,Aktuel værdi
+Kornelvej 2B8763 Rask Mølle,ølle,1.275.000,07-06-2012,Alm. Salg,11.184,4,Rækkehus,114,2001,-2 %,Aktuel værdi
+Honum Byvej 118763 Rask Mølle,ølle,706.971,18-05-2012,Alm. Salg,7.213,4,Villa,98,1966,2 %,Aktuel værdi
+Honum Byvej 68763 Rask Mølle,ølle,1.250.000,20-04-2012,Alm. Salg,9.689,5,Villa,129,1920,0 %,Aktuel værdi
+Cikorievej 158763 Rask Mølle,ølle,700.000,12-04-2012,Andet,3.571,5,Villa,196,1972,,Aktuel værdi
+Kildevej 48763 Rask Mølle,ølle,1.295.000,31-03-2012,Alm. Salg,9.316,5,Villa,139,1960,0 %,Aktuel værdi
+Skovbrynet 248763 Rask Mølle,ølle,1.350.000,29-03-2012,Alm. Salg,8.437,4,Villa,160,1900,-15 %,Aktuel værdi
+Bryggervej 88763 Rask Mølle,ølle,889.014,13-03-2012,Fam. Salg,7.227,5,Villa,123,1928,,Aktuel værdi
+Erantisvej 168763 Rask Mølle,ølle,782.000,08-03-2012,Alm. Salg,6.516,5,Villa,120,1972,,Aktuel værdi
+Møllersmindevej 378763 Rask Mølle,ølle,957.500,04-01-2012,Alm. Salg,4.670,4,Villa,205,1998,,Aktuel værdi
+Gyvelvej 98763 Rask Mølle,ølle,1.500.000,20-12-2011,Alm. Salg,9.202,5,Villa,163,1974,-6 %,Aktuel værdi
+Hovedgaden 208763 Rask Mølle,ølle,330.000,16-12-2011,Auktion,-,2,Villa,101,1976,,Aktuel værdi
+Boring 388763 Rask Mølle,ølle,3.000.000,15-12-2011,Alm. Salg,10.676,7,Villa,281,1917,,Aktuel værdi
+Boring 128763 Rask Mølle,ølle,795.000,28-10-2011,Alm. Salg,7.644,4,Villa,104,1860,0 %,Aktuel værdi
+Cikorievej 178763 Rask Mølle,ølle,1.000.000,24-10-2011,Alm. Salg,7.142,4,Villa,140,1972,-5 %,Aktuel værdi
+Cikorievej 138763 Rask Mølle,ølle,765.000,20-06-2011,Alm. Salg,4.447,5,Villa,172,1971,,Aktuel værdi
+Stenkærgård 118763 Rask Mølle,ølle,565.000,31-05-2011,Alm. Salg,3.487,5,Villa,162,2011,,Aktuel værdi
+Fruens Vej 48763 Rask Mølle,ølle,1.250.000,28-04-2011,Alm. Salg,8.012,5,Villa,156,1921,-17 %,Aktuel værdi
+Honum Byvej 28763 Rask Mølle,ølle,1.130.000,11-04-2011,Alm. Salg,10.272,4,Villa,110,1972,-5 %,Aktuel værdi
+Møllesvinget 78763 Rask Mølle,ølle,1.635.000,21-03-2011,Alm. Salg,9.674,7,Villa,169,1963,-11 %,Aktuel værdi
+Gartnervænget 58763 Rask Mølle,ølle,1.495.000,07-03-2011,Alm. Salg,11.500,5,Villa,130,1933,0 %,Aktuel værdi
+Møllesvinget 98763 Rask Mølle,ølle,980.000,15-02-2011,Alm. Salg,-,4,Villa,131,1966,-23 %,Aktuel værdi
+Hovedgaden 508763 Rask Mølle,ølle,1.431.646,21-12-2010,Alm. Salg,9.236,6,Villa,155,1917,,Aktuel værdi
+Cikorievej 348763 Rask Mølle,ølle,741.060,14-12-2010,Alm. Salg,5.614,4,Villa,132,1971,,Aktuel værdi
+Honumvej 248763 Rask Mølle,ølle,652.500,29-11-2010,Alm. Salg,4.129,5,Villa,158,1911,,Aktuel værdi
+Lupinvej 48763 Rask Mølle,ølle,2.200.000,03-11-2010,Alm. Salg,14.473,4,Villa,152,2007,-3 %,Aktuel værdi
+Krogen 28763 Rask Mølle,ølle,3.300.000,15-10-2010,Alm. Salg,17.368,6,Stuehus,190,1921,-3 %,
+Anemonevej 18763 Rask Mølle,ølle,836.667,09-10-2010,Alm. Salg,-,6,Villa,137,1966,-7 %,Aktuel værdi
+Møllersmindevej 28763 Rask Mølle,ølle,1.070.000,27-08-2010,Alm. Salg,9.553,4,Villa,112,1965,-2 %,Aktuel værdi
+Gyvelvej 23A8763 Rask Mølle,ølle,975.000,25-08-2010,Alm. Salg,11.607,3,Rækkehus,84,1984,-2 %,Aktuel værdi
+Boring 148763 Rask Mølle,ølle,1.250.000,16-07-2010,Alm. Salg,6.313,6,Villa,198,1876,0 %,Aktuel værdi
+Dahliavej 108763 Rask Mølle,ølle,1.700.000,28-06-2010,Alm. Salg,10.625,5,Villa,160,1973,,Aktuel værdi
+Kalhavevej 178763 Rask Mølle,ølle,2.300.000,10-06-2010,Alm. Salg,12.921,5,Villa,178,1920,,Aktuel værdi
+Jasminvej 7B8763 Rask Mølle,ølle,950.000,09-06-2010,Alm. Salg,11.176,3,Rækkehus,85,1996,-5 %,Aktuel værdi
+Honumvej 188763 Rask Mølle,ølle,700.000,30-04-2010,Alm. Salg,-,7,Villa,192,1961,-22 %,Aktuel værdi
+Honumvej 238763 Rask Mølle,ølle,900.000,19-04-2010,Fam. Salg,5.960,5,Villa,151,1890,,Aktuel værdi
+Hovedgaden 158763 Rask Mølle,ølle,875.000,15-04-2010,Alm. Salg,5.271,6,Villa,166,1894,0 %,Aktuel værdi
+Lindbækvej 178763 Rask Mølle,ølle,1.600.000,13-04-2010,Alm. Salg,9.467,8,Villa,169,1900,,Aktuel værdi
+Nørre Snedevej 1248763 Rask Mølle,ølle,1.190.000,26-03-2010,Alm. Salg,9.834,3,Villa,121,1934,-7 %,Aktuel værdi
+Hovedgaden 118763 Rask Mølle,ølle,615.000,15-01-2010,Alm. Salg,5.857,4,Villa,105,1902,3 %,Aktuel værdi
+Boring 378763 Rask Mølle,ølle,1.800.000,15-01-2010,Alm. Salg,9.729,5,Villa,185,1862,-3 %,Aktuel værdi
+Cikorievej 28763 Rask Mølle,ølle,1.175.000,14-01-2010,Alm. Salg,7.939,6,Villa,148,1970,-6 %,Aktuel værdi
+Mejerivej 128763 Rask Mølle,ølle,1.137.500,13-11-2009,Alm. Salg,9.100,3,Villa,125,1919,-12 %,Aktuel værdi
+Hovedgaden 78763 Rask Mølle,ølle,330.000,05-11-2009,Auktion,2.598,4,Villa,127,1912,,Aktuel værdi
+Hovedgaden 288763 Rask Mølle,ølle,608.680,05-11-2009,Auktion,3.121,6,Villa,195,1900,,Aktuel værdi
+Hovedgaden 308763 Rask Mølle,ølle,260.000,08-10-2009,Auktion,2.954,4,Villa,88,1949,,Aktuel værdi
+Møllebakken 118763 Rask Mølle,ølle,660.000,01-10-2009,Auktion,6.470,3,Villa,102,2002,,Aktuel værdi
+Bellisvej 18763 Rask Mølle,ølle,1.495.000,15-09-2009,Alm. Salg,11.960,3,Villa,125,1967,0 %,Aktuel værdi
+Møllebakken 128763 Rask Mølle,ølle,1.160.000,31-08-2009,Alm. Salg,12.083,4,Villa,96,1955,-3 %,Aktuel værdi
+Erantisvej 68763 Rask Mølle,ølle,1.295.000,26-08-2009,Alm. Salg,9.384,4,Villa,138,1974,0 %,Aktuel værdi
+Rask Markvej 38763 Rask Mølle,ølle,1.450.000,31-07-2009,Auktion,6.250,10,Villa,232,1900,,Aktuel værdi
+Kodallundvej 108763 Rask Mølle,ølle,1.775.000,23-06-2009,Alm. Salg,16.284,4,Villa,109,1890,-11 %,Aktuel værdi
+Dahliavej 68763 Rask Mølle,ølle,1.600.000,01-05-2009,Alm. Salg,8.000,6,Villa,200,1973,-6 %,Aktuel værdi
+Stenkærgård 248763 Rask Mølle,ølle,3.050.000,12-04-2009,Alm. Salg,13.863,7,Villa,220,2007,,Aktuel værdi
+Enggårdsvej 198763 Rask Mølle,ølle,8.000.000,06-04-2009,Alm. Salg,37.209,3,Stuehus,215,1986,,
+Boring 18763 Rask Mølle,ølle,470.374,23-02-2009,Alm. Salg,3.484,5,Villa,135,1966,,Aktuel værdi
+Stenkærgård 448763 Rask Mølle,ølle,2.400.000,13-02-2009,Alm. Salg,14.814,5,Villa,162,2008,,Aktuel værdi
+Gl Jernbanevej 8A8763 Rask Mølle,ølle,1.100.000,09-02-2009,Alm. Salg,11.827,4,Villa,93,1978,,Aktuel værdi
+Honum Skovvej 308763 Rask Mølle,ølle,393.029,03-02-2009,Alm. Salg,3.447,5,Villa,114,1910,,Aktuel værdi
+Skovbyvej 88763 Rask Mølle,ølle,600.000,02-02-2009,Alm. Salg,2.955,8,Villa,203,1921,,Aktuel værdi
+Skovbyvej 148763 Rask Mølle,ølle,60.000,02-02-2009,Alm. Salg,512,3,Stuehus,117,1921,,
+Hybenvej 258763 Rask Mølle,ølle,1.700.000,21-01-2009,Alm. Salg,10.303,5,Villa,165,1985,,Aktuel værdi
+Anemonevej 128763 Rask Mølle,ølle,1.400.000,25-11-2008,Alm. Salg,7.909,7,Villa,177,1966,,Aktuel værdi
+Hovedgaden 88763 Rask Mølle,ølle,1.050.000,17-11-2008,Alm. Salg,6.000,10,Villa,175,1908,,Aktuel værdi
+Hybenvej 348763 Rask Mølle,ølle,1.400.000,14-11-2008,Alm. Salg,11.475,4,Villa,122,1985,,Aktuel værdi
+Cikorievej 308763 Rask Mølle,ølle,1.050.000,04-11-2008,Alm. Salg,-,3,Villa,114,1972,,Aktuel værdi
+Boring 208763 Rask Mølle,ølle,150.000,27-10-2008,Alm. Salg,1.363,4,Villa,110,2011,,Aktuel værdi
+Gl Jernbanevej 108763 Rask Mølle,ølle,1.250.000,23-09-2008,Alm. Salg,9.469,4,Villa,132,1965,,Aktuel værdi
+Bellisvej 48763 Rask Mølle,ølle,1.750.000,15-09-2008,Alm. Salg,11.437,5,Villa,153,1970,-3 %,Aktuel værdi
+Lupinvej 148763 Rask Mølle,ølle,1.580.000,08-09-2008,Alm. Salg,15.800,3,Rækkehus,100,2003,,Aktuel værdi
+Fruens Vej 38763 Rask Mølle,ølle,2.800.000,31-08-2008,Alm. Salg,28.000,2,Stuehus,100,1921,,
+Boring 268763 Rask Mølle,ølle,625.000,31-07-2008,Alm. Salg,-,4,Villa,118,1775,-10 %,Aktuel værdi
+Kildevej 58763 Rask Mølle,ølle,2.600.000,02-07-2008,Alm. Salg,11.111,7,Villa,234,1936,-4 %,Aktuel værdi
+Gyvelvej 88763 Rask Mølle,ølle,682.500,26-06-2008,Alm. Salg,4.519,6,Villa,151,1979,,Aktuel værdi
+Hybenvej 198763 Rask Mølle,ølle,1.550.000,24-06-2008,Alm. Salg,9.687,4,Villa,160,1974,,Aktuel værdi
+Fruens Vej 28763 Rask Mølle,ølle,3.000.000,19-05-2008,Alm. Salg,13.574,9,Villa,221,1921,-3 %,Aktuel værdi
+Kalhavevej 58763 Rask Mølle,ølle,990.000,12-05-2008,Alm. Salg,7.333,6,Villa,135,1918,,Aktuel værdi
+Boringvej 38763 Rask Mølle,ølle,1.360.000,16-04-2008,Alm. Salg,-,6,Villa,161,1900,-8 %,Aktuel værdi
+Enggårdsvej 78763 Rask Mølle,ølle,1.970.000,10-04-2008,Alm. Salg,15.038,6,Villa,131,1916,,Aktuel værdi
+Skolebakken 88763 Rask Mølle,ølle,887.500,07-04-2008,Alm. Salg,8.964,4,Villa,99,1960,,Aktuel værdi
+Kildevej 148763 Rask Mølle,ølle,1.400.000,04-04-2008,Alm. Salg,9.210,6,Villa,152,1955,-2 %,Aktuel værdi
+Bryggervej 58763 Rask Mølle,ølle,1.135.000,28-03-2008,Alm. Salg,12.336,4,Villa,92,1959,0 %,Aktuel værdi
+Boring 178763 Rask Mølle,ølle,1.320.000,25-03-2008,Alm. Salg,8.461,5,Villa,156,1923,-5 %,Aktuel værdi
+Gartnervænget 78763 Rask Mølle,ølle,2.325.000,19-03-2008,Alm. Salg,14.903,6,Villa,156,2005,,Aktuel værdi
+Hybenvej 78763 Rask Mølle,ølle,1.325.000,12-02-2008,Alm. Salg,11.134,4,Villa,119,1974,-4 %,Aktuel værdi
+Møllersmindevej 48763 Rask Mølle,ølle,600.000,14-01-2008,Andet,4.054,5,Villa,148,1986,,Aktuel værdi
+Kalhavevej 78763 Rask Mølle,ølle,1.000.000,04-01-2008,Alm. Salg,-,5,Villa,123,1925,-16 %,Aktuel værdi
+Stenkærgård 508763 Rask Mølle,ølle,464.438,19-12-2007,Alm. Salg,2.700,5,Villa,172,2008,,Aktuel værdi
+Enggårdsvej 158763 Rask Mølle,ølle,2.399.998,19-11-2007,Fam. Salg,21.238,5,Stuehus,113,1880,,
+Bellisvej 138763 Rask Mølle,ølle,1.475.000,16-11-2007,Alm. Salg,9.640,5,Villa,153,1969,-6 %,Aktuel værdi
+Stenkærgård 108763 Rask Mølle,ølle,55.557,14-11-2007,Alm. Salg,430,3,Villa,129,2011,,Aktuel værdi
+Honumvej 88763 Rask Mølle,ølle,1.600.000,12-10-2007,Alm. Salg,11.678,5,Villa,137,1956,0 %,Aktuel værdi
+Stenkærgård 488763 Rask Mølle,ølle,646.098,11-10-2007,Alm. Salg,3.330,6,Villa,194,2009,,Aktuel værdi
+Anemonevej 158763 Rask Mølle,ølle,1.150.000,08-10-2007,Alm. Salg,9.583,4,Villa,120,1964,0 %,Aktuel værdi
+"Hovedgaden 19, 1. MF8763 Rask Mølle",ølle,487.500,08-10-2007,Alm. Salg,7.738,3,Lejlighed,63,1918,,Aktuel værdi
+Kalhavevej 328763 Rask Mølle,ølle,2.995.000,01-10-2007,Alm. Salg,15.438,5,Villa,194,1991,0 %,Aktuel værdi
+Kildevej 88763 Rask Mølle,ølle,1.095.000,13-09-2007,Alm. Salg,11.288,4,Villa,97,1955,0 %,Aktuel værdi
+Møllesvinget 128763 Rask Mølle,ølle,1.675.000,08-09-2007,Alm. Salg,15.227,3,Villa,110,1963,0 %,Aktuel værdi
+Stenkærgård 308763 Rask Mølle,ølle,507.368,05-09-2007,Alm. Salg,2.949,5,Villa,172,2008,,Aktuel værdi
+Krogen 88763 Rask Mølle,ølle,4.500.000,29-08-2007,Alm. Salg,15.000,6,Stuehus,300,2008,,
+Enggårdsvej 38763 Rask Mølle,ølle,2.700.000,24-08-2007,Alm. Salg,13.636,7,Villa,198,1924,0 %,Aktuel værdi
+"Hovedgaden 19, ST. MF8763 Rask Mølle",ølle,460.000,30-07-2007,Alm. Salg,8.363,3,Lejlighed,55,1918,-7 %,Aktuel værdi
+Nørre Snedevej 1318763 Rask Mølle,ølle,200.000,04-07-2007,Alm. Salg,2.298,3,Villa,87,1928,,Aktuel værdi
+Skovbrynet 188763 Rask Mølle,ølle,1.150.000,27-06-2007,Alm. Salg,11.274,3,Villa,102,1950,-8 %,Aktuel værdi
+Hybenvej 288763 Rask Mølle,ølle,1.810.000,30-05-2007,Alm. Salg,10.111,6,Villa,179,1986,,Aktuel værdi
+Hybenvej 58763 Rask Mølle,ølle,1.350.000,29-05-2007,Alm. Salg,10.150,4,Villa,133,1978,-2 %,Aktuel værdi
+Gartnervænget 128763 Rask Mølle,ølle,1.050.000,22-05-2007,Alm. Salg,6.907,5,Villa,152,1931,-4 %,Aktuel værdi
+Nørre Snedevej 1148763 Rask Mølle,ølle,2.495.000,25-04-2007,Alm. Salg,18.079,7,Villa,138,1935,,Aktuel værdi
+Anemonevej 48763 Rask Mølle,ølle,880.000,19-04-2007,Alm. Salg,8.000,5,Villa,110,1966,,Aktuel værdi
+Bellisvej 118763 Rask Mølle,ølle,1.675.000,23-03-2007,Alm. Salg,9.305,6,Villa,180,1967,,Aktuel værdi
+Skovbyvej 68763 Rask Mølle,ølle,1.700.000,06-02-2007,Alm. Salg,17.894,5,Villa,95,1921,,Aktuel værdi
+Boring 68763 Rask Mølle,ølle,1.125.000,11-12-2006,Alm. Salg,6.736,6,Villa,167,1908,,Aktuel værdi
+Boring 538763 Rask Mølle,ølle,1.545.000,23-11-2006,Alm. Salg,-,5,Villa,161,1825,,Aktuel værdi
+Honumvej 348763 Rask Mølle,ølle,302.000,06-11-2006,Fam. Salg,2.013,5,Villa,150,1965,,Aktuel værdi
+Gl Jernbanevej 68763 Rask Mølle,ølle,3.250.000,06-11-2006,Alm. Salg,33.163,4,Rækkehus,98,1967,,Aktuel værdi
+Stenkærgård 188763 Rask Mølle,ølle,216.455,03-11-2006,Alm. Salg,1.882,4,Villa,115,2007,,Aktuel værdi
+Skovbyvej 218763 Rask Mølle,ølle,600.000,16-10-2006,Alm. Salg,2.666,7,Villa,225,2007,,Aktuel værdi
+Stenkærgård 408763 Rask Mølle,ølle,515.198,16-10-2006,Alm. Salg,2.488,7,Villa,207,2008,,Aktuel værdi
+Stenkærgård 348763 Rask Mølle,ølle,393.698,16-10-2006,Alm. Salg,2.734,4,Villa,144,2009,,Aktuel værdi
+Honumvej 278763 Rask Mølle,ølle,830.000,01-09-2006,Alm. Salg,5.763,5,Villa,144,1910,,Aktuel værdi
+Lupinvej 28763 Rask Mølle,ølle,2.295.000,01-08-2006,Alm. Salg,14.343,5,Villa,160,2006,,Aktuel værdi
+Gartnervænget 68763 Rask Mølle,ølle,840.000,25-07-2006,Alm. Salg,11.666,3,Villa,72,1925,,Aktuel værdi
+Jasminvej 218763 Rask Mølle,ølle,1.350.000,19-06-2006,Alm. Salg,8.132,5,Villa,166,1995,,Aktuel værdi
+Kalhavevej 338763 Rask Mølle,ølle,898.000,18-06-2006,Alm. Salg,7.421,4,Villa,121,1900,,Aktuel værdi
+Boring 458763 Rask Mølle,ølle,1.400.000,20-04-2006,Fam. Salg,4.334,12,Stuehus,323,1917,,
+Peter Hansens Vej 138763 Rask Mølle,ølle,1.100.000,27-03-2006,Fam. Salg,5.851,6,Villa,188,1965,,Aktuel værdi
+Gyvelvej 178763 Rask Mølle,ølle,1.200.000,16-03-2006,Alm. Salg,5.454,7,Villa,220,1974,,Aktuel værdi
+Hovedgaden 448763 Rask Mølle,ølle,1.100.000,27-02-2006,Alm. Salg,6.748,8,Villa,163,1912,,Aktuel værdi
+Honumvej 428763 Rask Mølle,ølle,518.500,08-02-2006,Fam. Salg,4.320,5,Villa,120,1964,,Aktuel værdi
+Lindbækvej 238763 Rask Mølle,ølle,325.000,17-01-2006,Auktion,1.969,4,Villa,165,1910,,Aktuel værdi
+Boring 38763 Rask Mølle,ølle,3.000.000,12-01-2006,Alm. Salg,11.673,8,Stuehus,257,1930,,
+Vandværksvej 38763 Rask Mølle,ølle,870.000,30-12-2005,Alm. Salg,6.444,4,Villa,135,1916,,Aktuel værdi
+Raskvej 488763 Rask Mølle,ølle,1.200.000,23-11-2005,Alm. Salg,4.819,6,Villa,249,1912,,Aktuel værdi
+Honumvej 368763 Rask Mølle,ølle,580.000,18-11-2005,Alm. Salg,8.529,5,Villa,68,1887,,Aktuel værdi
+Boring 348763 Rask Mølle,ølle,1.125.000,16-11-2005,Alm. Salg,6.578,6,Villa,171,1920,,Aktuel værdi
+Cikorievej 18763 Rask Mølle,ølle,1.500.000,01-11-2005,Alm. Salg,8.720,6,Villa,172,1971,,Aktuel værdi
+Nørre Snedevej 1308763 Rask Mølle,ølle,2.200.000,26-10-2005,Alm. Salg,10.185,7,Stuehus,216,1916,,
+Jasminvej 7A8763 Rask Mølle,ølle,885.000,24-10-2005,Alm. Salg,10.411,3,Rækkehus,85,1996,,Aktuel værdi
+Honumvej 458763 Rask Mølle,ølle,650.000,16-10-2005,Alm. Salg,3.066,6,Villa,212,1920,,Aktuel værdi
+Dahliavej 128763 Rask Mølle,ølle,1.160.000,07-10-2005,Alm. Salg,9.206,5,Villa,126,1970,,Aktuel værdi
+Møllesvinget 38763 Rask Mølle,ølle,1.100.000,06-10-2005,Alm. Salg,8.148,3,Villa,135,1963,,Aktuel værdi
+Honumvej 418763 Rask Mølle,ølle,2.325.000,04-10-2005,Alm. Salg,-,11,Villa,387,1914,,Aktuel værdi
+Skovbyvej 238763 Rask Mølle,ølle,2.100.000,26-08-2005,Alm. Salg,8.750,6,Villa,240,1973,,Aktuel værdi
+Stenkærgård 288763 Rask Mølle,ølle,405.995,18-08-2005,Alm. Salg,2.009,5,Villa,202,2006,,Aktuel værdi
+Stenkærgård 148763 Rask Mølle,ølle,345.845,18-08-2005,Alm. Salg,2.231,5,Villa,155,2007,,Aktuel værdi
+Stenkærgård 268763 Rask Mølle,ølle,402.215,18-08-2005,Alm. Salg,2.467,6,Villa,163,2006,,Aktuel værdi
+Stenkærgård 128763 Rask Mølle,ølle,331.745,18-08-2005,Alm. Salg,2.352,6,Villa,141,2006,,Aktuel værdi
+Kornelvej 2C8763 Rask Mølle,ølle,1.150.000,28-07-2005,Alm. Salg,10.849,4,Rækkehus,106,2001,,Aktuel værdi
+Lindbækvej 228763 Rask Mølle,ølle,762.500,29-06-2005,Alm. Salg,2.576,10,Villa,296,1920,,Aktuel værdi
+Skovbrynet 16A8763 Rask Mølle,ølle,1.050.000,27-06-2005,Alm. Salg,8.750,5,Villa,120,1986,,Aktuel værdi
+Nørre Snedevej 1268763 Rask Mølle,ølle,1.675.000,02-06-2005,Alm. Salg,-,10,Villa,208,1900,,Aktuel værdi
+Kornelvej 118763 Rask Mølle,ølle,1.495.000,20-04-2005,Alm. Salg,10.833,4,Villa,138,2001,,Aktuel værdi
+Møllersmindevej 398763 Rask Mølle,ølle,1.545.000,19-04-2005,Alm. Salg,5.618,6,Villa,275,1976,,Aktuel værdi
+Kornelvej 98763 Rask Mølle,ølle,1.145.000,15-04-2005,Andet,5.350,5,Villa,214,2001,,Aktuel værdi
+Honumvej 38763 Rask Mølle,ølle,765.000,11-04-2005,Alm. Salg,10.200,3,Villa,75,1959,,Aktuel værdi
+Bellisvej 178763 Rask Mølle,ølle,1.155.000,11-04-2005,Alm. Salg,7.218,5,Villa,160,1974,,Aktuel værdi
+"Hovedgaden 19, ST. TH8763 Rask Mølle",ølle,320.000,10-04-2005,Alm. Salg,4.923,3,Lejlighed,65,1918,,Aktuel værdi
+Skanderborgvej 768763 Rask Mølle,ølle,1.617.500,09-04-2005,Alm. Salg,7.629,5,Villa,212,1984,,Aktuel værdi
+Hovedgaden 428763 Rask Mølle,ølle,932.000,01-04-2005,Alm. Salg,5.295,8,Villa,176,1908,,Aktuel værdi
+Hybenvej 178763 Rask Mølle,ølle,1.040.000,09-12-2004,Alm. Salg,6.624,5,Villa,157,1974,,Aktuel værdi
+Gl Ålevej 28763 Rask Mølle,ølle,590.000,06-12-2004,Alm. Salg,5.900,3,Villa,100,1934,,Aktuel værdi
+Gl Ålevej 68763 Rask Mølle,ølle,425.000,26-10-2004,Andet,3.601,4,Villa,118,1927,,Aktuel værdi
+Kildevej 38763 Rask Mølle,ølle,1.351.000,25-10-2004,Alm. Salg,3.621,11,Villa,373,1924,,Aktuel værdi
+Gyvelvej 168763 Rask Mølle,ølle,437.500,06-10-2004,Fam. Salg,3.586,4,Villa,122,1987,,Aktuel værdi
+Raskvej 408763 Rask Mølle,ølle,950.000,10-08-2004,Alm. Salg,7.307,5,Villa,130,1830,,Aktuel værdi
+Hovedgaden 58763 Rask Mølle,ølle,810.000,03-05-2004,Alm. Salg,3.785,7,Villa,214,1899,,Aktuel værdi
+Kodallundvej 128763 Rask Mølle,ølle,1.160.000,10-03-2004,Alm. Salg,6.823,6,Villa,170,1902,,Aktuel værdi
+Hybenvej 98763 Rask Mølle,ølle,825.000,03-03-2004,Alm. Salg,6.875,4,Villa,120,1974,,Aktuel værdi
+Hybenvej 38763 Rask Mølle,ølle,940.000,11-02-2004,Alm. Salg,6.025,6,Villa,156,1973,,Aktuel værdi
+Skovhusvej 258763 Rask Mølle,ølle,2.295.000,04-02-2004,Fam. Salg,7.832,5,Stuehus,293,1978,,
+Bjerresmøllevej 208763 Rask Mølle,ølle,475.000,05-01-2004,Alm. Salg,4.656,4,Villa,102,1968,,Aktuel værdi
+Kalhavevej 348763 Rask Mølle,ølle,340.000,21-12-2003,Fam. Salg,2.377,6,Villa,143,1949,,Aktuel værdi
+Nørre Snedevej 1218763 Rask Mølle,ølle,800.000,17-12-2003,Alm. Salg,6.666,4,Villa,120,1900,,Aktuel værdi
+Honum Skovvej 218763 Rask Mølle,ølle,2.835.000,27-11-2003,Alm. Salg,15.576,7,Stuehus,182,1930,,
+Fruens Vej 88763 Rask Mølle,ølle,1.660.000,03-10-2003,Alm. Salg,-,9,Villa,294,1921,,Aktuel værdi
+Honum Skovvej 248763 Rask Mølle,ølle,650.000,23-09-2003,Alm. Salg,2.425,5,Villa,268,2008,,Aktuel værdi
+Skovbyvej 138763 Rask Mølle,ølle,853.939,10-09-2003,Alm. Salg,6.056,4,Villa,141,1921,,Aktuel værdi
+Kalhavevej 168763 Rask Mølle,ølle,650.000,24-08-2003,Alm. Salg,-,5,Villa,155,1953,,Aktuel værdi
+Hybenvej 388763 Rask Mølle,ølle,1.200.000,04-08-2003,Alm. Salg,8.633,4,Villa,139,1986,,Aktuel værdi
+Boring 188763 Rask Mølle,ølle,500.000,01-08-2003,Auktion,2.392,6,Villa,209,1877,,Aktuel værdi
+Cikorievej 198763 Rask Mølle,ølle,895.000,30-06-2003,Alm. Salg,6.130,4,Villa,146,1971,,Aktuel værdi
+Skovbrynet 168763 Rask Mølle,ølle,525.000,17-06-2003,Alm. Salg,4.449,5,Villa,118,1952,,Aktuel værdi
+Møllersmindevej 358763 Rask Mølle,ølle,1.885.000,22-05-2003,Alm. Salg,7.821,6,Villa,241,1997,,Aktuel værdi
+Cikorievej 38763 Rask Mølle,ølle,825.000,02-05-2003,Alm. Salg,6.875,4,Villa,120,1974,,Aktuel værdi
+Nørre Snedevej 1338763 Rask Mølle,ølle,370.000,14-04-2003,Andet,-,7,Villa,200,1939,,Aktuel værdi
+Skovbrynet 268763 Rask Mølle,ølle,100.000,01-04-2003,Alm. Salg,409,10,Stuehus,244,1922,,
+Lupinvej 128763 Rask Mølle,ølle,330.480,05-03-2003,Alm. Salg,1.944,6,Villa,170,2003,,Aktuel værdi
+Lupinvej 108763 Rask Mølle,ølle,216.200,03-03-2003,Alm. Salg,1.689,4,Villa,128,2003,,Aktuel værdi
+Hybenvej 408763 Rask Mølle,ølle,1.150.000,21-02-2003,Alm. Salg,7.565,5,Villa,152,1987,,Aktuel værdi
+"Hovedgaden 19, 1. TV8763 Rask Mølle",ølle,300.000,14-02-2003,Alm. Salg,4.411,3,Lejlighed,68,1918,,Aktuel værdi
+Møllebakken 78763 Rask Mølle,ølle,1.100.000,12-01-2003,Alm. Salg,10.784,3,Villa,102,2002,,Aktuel værdi
+Bellisvej 108763 Rask Mølle,ølle,780.000,11-01-2003,Alm. Salg,6.724,4,Villa,116,1969,,Aktuel værdi
+Dahliavej 88763 Rask Mølle,ølle,741.000,04-11-2002,Fam. Salg,5.834,5,Villa,127,1971,,Aktuel værdi
+Hovedgaden 248763 Rask Mølle,ølle,400.000,04-11-2002,Alm. Salg,2.877,6,Villa,139,1894,,Aktuel værdi
+Gyvelvej 108763 Rask Mølle,ølle,740.000,18-09-2002,Alm. Salg,7.708,3,Villa,96,1985,,Aktuel værdi
+Nørre Snedevej 1378763 Rask Mølle,ølle,260.000,17-09-2002,Alm. Salg,3.714,3,Villa,70,1800,,Aktuel værdi
+Skovbrynet 78763 Rask Mølle,ølle,740.000,11-07-2002,Alm. Salg,6.324,4,Villa,117,1959,,Aktuel værdi
+Nørre Snedevej 1178763 Rask Mølle,ølle,256.000,06-06-2002,Alm. Salg,2.461,5,Villa,104,1914,,Aktuel værdi
+Skovbrynet 38763 Rask Mølle,ølle,595.000,21-05-2002,Alm. Salg,5.219,6,Villa,114,1926,,Aktuel værdi
+Enggårdsvej 98763 Rask Mølle,ølle,895.000,15-05-2002,Alm. Salg,-,8,Villa,194,1993,,Aktuel værdi
+Skovbyvej 158763 Rask Mølle,ølle,1.443.000,08-05-2002,Alm. Salg,-,8,Stuehus,211,1921,,
+Erantisvej 148763 Rask Mølle,ølle,825.000,20-03-2002,Alm. Salg,4.342,5,Villa,190,1973,,Aktuel værdi
+Erantisvej 48763 Rask Mølle,ølle,1.060.448,19-03-2002,Alm. Salg,6.505,5,Villa,163,1973,,Aktuel værdi
+Skovbrynet 128763 Rask Mølle,ølle,710.000,16-03-2002,Alm. Salg,-,3,Villa,145,1952,,Aktuel værdi
+Hybenvej 328763 Rask Mølle,ølle,800.000,06-03-2002,Alm. Salg,7.142,4,Villa,112,1987,,Aktuel værdi
+Gyvelvej 28763 Rask Mølle,ølle,630.000,25-01-2002,Alm. Salg,3.539,9,Villa,178,1980,,Aktuel værdi
+Honum Markvej 28763 Rask Mølle,ølle,237.040,30-11-2001,Alm. Salg,1.569,5,Villa,151,1777,,Aktuel værdi
+Fruens Vej 68763 Rask Mølle,ølle,700.000,16-11-2001,Alm. Salg,-,6,Villa,274,1921,,Aktuel værdi
+Fruens Vej 128763 Rask Mølle,ølle,1.250.000,12-11-2001,Fam. Salg,-,8,Stuehus,224,1921,,
+Nørre Snedevej 1358763 Rask Mølle,ølle,405.000,01-10-2001,Alm. Salg,5.472,3,Villa,74,1865,,Aktuel værdi
+Kildevej 28763 Rask Mølle,ølle,1.075.000,22-09-2001,Alm. Salg,5.295,4,Villa,203,1947,,Aktuel værdi
+Kalhavevej 258763 Rask Mølle,ølle,1.175.000,03-09-2001,Alm. Salg,5.964,7,Villa,197,1928,,Aktuel værdi
+Skolebakken 148763 Rask Mølle,ølle,825.000,28-08-2001,Alm. Salg,5.851,6,Villa,141,1960,,Aktuel værdi
+Krogen 48763 Rask Mølle,ølle,697.000,21-06-2001,Fam. Salg,6.336,4,Villa,110,1921,,Aktuel værdi
+Møllesvinget 138763 Rask Mølle,ølle,775.000,07-06-2001,Alm. Salg,6.919,4,Villa,112,1962,,Aktuel værdi
+Skovhusvej 238763 Rask Mølle,ølle,622.199,31-05-2001,Alm. Salg,3.748,5,Villa,166,1900,,Aktuel værdi
+Hybenvej 158763 Rask Mølle,ølle,885.000,18-04-2001,Alm. Salg,5.900,6,Villa,150,1974,,Aktuel værdi
+Honumvej 388763 Rask Mølle,ølle,1.419.000,24-03-2001,Alm. Salg,7.390,5,Villa,192,1916,,Aktuel værdi
+Kornelvej 2A8763 Rask Mølle,ølle,220.000,12-03-2001,Alm. Salg,1.833,4,Rækkehus,120,2001,,Aktuel værdi
+Bryggervej 78763 Rask Mølle,ølle,233.750,08-01-2001,Fam. Salg,2.032,4,Villa,115,1967,,Aktuel værdi
+Bryggervej 118763 Rask Mølle,ølle,1.025.000,28-12-2000,Alm. Salg,7.321,4,Villa,140,1927,,Aktuel værdi
+Bjerggårdsvej 188763 Rask Mølle,ølle,187.000,21-12-2000,Fam. Salg,1.684,3,Villa,111,2005,,Aktuel værdi
+Honumvej 328763 Rask Mølle,ølle,550.000,01-12-2000,Alm. Salg,2.320,6,Villa,237,1820,,Aktuel værdi
+Hovedgaden 298763 Rask Mølle,ølle,810.000,17-11-2000,Alm. Salg,6.183,6,Villa,131,1907,,Aktuel værdi
+Skovbrynet 28763 Rask Mølle,ølle,322.307,15-11-2000,Alm. Salg,3.255,3,Villa,99,1962,,Aktuel værdi
+Skanderborgvej 858763 Rask Mølle,ølle,401.400,24-10-2000,Alm. Salg,3.786,4,Stuehus,106,1911,,
+Hybenvej 278763 Rask Mølle,ølle,1.175.000,17-08-2000,Alm. Salg,6.911,5,Villa,170,1987,,Aktuel værdi
+Raskvej 508763 Rask Mølle,ølle,2.037.423,01-07-2000,Alm. Salg,11.319,5,Villa,180,1875,,Aktuel værdi
+Jasminvej 198763 Rask Mølle,ølle,1.490.000,29-05-2000,Alm. Salg,8.975,4,Villa,166,1991,,Aktuel værdi
+Fruens Kirkevej 198763 Rask Mølle,ølle,1.600.000,30-03-2000,Alm. Salg,-,7,Villa,257,1931,,Aktuel værdi
+Anemonevej 118763 Rask Mølle,ølle,565.000,07-03-2000,Alm. Salg,-,6,Villa,178,1965,,Aktuel værdi
+Gyvelvej 118763 Rask Mølle,ølle,1.080.000,25-02-2000,Fam. Salg,4.320,7,Villa,250,1975,,Aktuel værdi
+Boring 108763 Rask Mølle,ølle,586.655,14-02-2000,Alm. Salg,2.889,5,Villa,203,1870,,Aktuel værdi
+Hovedgaden 258763 Rask Mølle,ølle,411.076,04-02-2000,Alm. Salg,3.137,5,Villa,131,1924,,Aktuel værdi
+Cikorievej 288763 Rask Mølle,ølle,893.000,03-02-2000,Alm. Salg,6.976,4,Villa,128,1971,,Aktuel værdi
+Kornelvej 88763 Rask Mølle,ølle,176.700,01-02-2000,Alm. Salg,1.210,4,Villa,146,2000,,Aktuel værdi
+Raskvej 418763 Rask Mølle,ølle,1.450.000,14-12-1999,Alm. Salg,7.712,6,Villa,188,1907,,Aktuel værdi
+Honum Markvej 58763 Rask Mølle,ølle,658.858,01-12-1999,Fam. Salg,-,6,Villa,239,1912,,Aktuel værdi
+Jasminvej 118763 Rask Mølle,ølle,116.000,09-11-1999,Alm. Salg,811,5,Villa,143,2000,,Aktuel værdi
+Kornelvej 108763 Rask Mølle,ølle,176.142,25-10-1999,Alm. Salg,1.432,4,Villa,123,2000,,Aktuel værdi
+Kornelvej 158763 Rask Mølle,ølle,176.514,30-09-1999,Alm. Salg,1.138,5,Villa,155,2000,,Aktuel værdi
+Lindbækvej 208763 Rask Mølle,ølle,845.000,27-09-1999,Alm. Salg,3.535,7,Villa,239,1877,,Aktuel værdi
+Stationspladsen 98763 Rask Mølle,ølle,550.000,25-05-1999,Alm. Salg,-,3,Villa,151,1890,,Aktuel værdi
+Skovbyvej 38763 Rask Mølle,ølle,927.689,25-05-1999,Alm. Salg,-,3,Villa,85,1921,,Aktuel værdi
+Enggårdsvej 238763 Rask Mølle,ølle,1.050.000,19-04-1999,Fam. Salg,4.751,6,Stuehus,221,2009,,
+Hovedgaden 28763 Rask Mølle,ølle,440.000,12-01-1999,Alm. Salg,5.500,3,Villa,80,1900,,Aktuel værdi
+Hovedgaden 278763 Rask Mølle,ølle,800.000,18-12-1998,Fam. Salg,-,8,Villa,272,1987,,Aktuel værdi
+Kornelvej 128763 Rask Mølle,ølle,154.194,19-11-1998,Alm. Salg,945,6,Villa,163,2000,,Aktuel værdi
+Skovbrynet 48763 Rask Mølle,ølle,610.000,16-11-1998,Alm. Salg,4.803,5,Villa,127,1950,,Aktuel værdi
+Bryggervej 38763 Rask Mølle,ølle,332.566,30-10-1998,Alm. Salg,4.319,2,Villa,77,1935,,Aktuel værdi
+Skanderborgvej 878763 Rask Mølle,ølle,405.000,19-10-1998,Fam. Salg,4.308,4,Villa,94,1890,,Aktuel værdi
+Kornelvej 58763 Rask Mølle,ølle,174.282,15-10-1998,Alm. Salg,937,6,Villa,186,1999,,Aktuel værdi
+Boring 28763 Rask Mølle,ølle,575.000,12-09-1998,Alm. Salg,-,4,Villa,159,1825,,Aktuel værdi
+Rask Markvej 58763 Rask Mølle,ølle,1.499.126,17-08-1998,Alm. Salg,-,6,Villa,192,1825,,Aktuel værdi
+Nørre Snedevej 1428763 Rask Mølle,ølle,12.673.015,05-08-1998,Alm. Salg,57.085,7,Villa,222,1946,,Aktuel værdi
+Kalhavevej 198763 Rask Mølle,ølle,892.850,31-07-1998,Alm. Salg,-,10,Villa,208,1896,,Aktuel værdi
+Kalhavevej 318763 Rask Mølle,ølle,1.046.000,06-04-1998,Alm. Salg,6.792,5,Villa,154,1910,,Aktuel værdi
+Honum Skovvej 268763 Rask Mølle,ølle,107.600,03-04-1998,Alm. Salg,-,4,Villa,144,1907,,Aktuel værdi
+Kodallundvej 98763 Rask Mølle,ølle,854.300,01-04-1998,Alm. Salg,5.657,4,Villa,151,1911,,Aktuel værdi
+Hovedgaden 218763 Rask Mølle,ølle,550.000,30-03-1998,Alm. Salg,5.188,3,Villa,106,1870,,Aktuel værdi
+Nørre Snedevej 1158763 Rask Mølle,ølle,1.229.700,13-03-1998,Alm. Salg,6.908,6,Villa,178,1924,,Aktuel værdi
+Skovbyvej 18763 Rask Mølle,ølle,1.150.000,09-03-1998,Alm. Salg,6.845,6,Villa,168,1921,,Aktuel værdi
+Lindbækvej 148763 Rask Mølle,ølle,375.000,03-11-1997,Alm. Salg,-,7,Villa,173,1956,,Aktuel værdi
+Dahliavej 98763 Rask Mølle,ølle,590.000,24-10-1997,Fam. Salg,4.154,4,Villa,142,1972,,Aktuel værdi
+Honumvej 108763 Rask Mølle,ølle,794.990,15-09-1997,Alm. Salg,5.371,4,Villa,148,1964,,Aktuel værdi
+Anemonevej 98763 Rask Mølle,ølle,755.000,06-09-1997,Alm. Salg,5.033,5,Villa,150,1962,,Aktuel værdi
+Hybenvej 428763 Rask Mølle,ølle,841.000,19-08-1997,Alm. Salg,-,7,Villa,181,1987,,Aktuel værdi
+Gl Ålevej 108763 Rask Mølle,ølle,428.000,01-08-1997,Alm. Salg,-,6,Villa,157,1927,,Aktuel værdi
+Honum Byvej 18763 Rask Mølle,ølle,756.500,10-07-1997,Alm. Salg,3.960,5,Villa,191,1903,,Aktuel værdi
+"Mejerivej 5, 18763 Rask Mølle",ølle,959.244,30-06-1997,Alm. Salg,6.525,5,Lejlighed,147,1900,,Aktuel værdi
+Kornelvej 48763 Rask Mølle,ølle,208.506,25-06-1997,Alm. Salg,1.178,6,Villa,177,2001,,Aktuel værdi
+Kornelvej 78763 Rask Mølle,ølle,176.700,11-06-1997,Alm. Salg,1.178,5,Villa,150,1997,,Aktuel værdi
+Honum Skovvej 228763 Rask Mølle,ølle,1.268.561,26-05-1997,Alm. Salg,-,6,Stuehus,249,1936,,
+Kornelvej 68763 Rask Mølle,ølle,176.700,29-04-1997,Alm. Salg,837,5,Villa,211,1997,,Aktuel værdi
+Nørre Snedevej 1398763 Rask Mølle,ølle,1.075.000,07-04-1997,Alm. Salg,-,5,Stuehus,193,1670,,
+Bryggervej 98763 Rask Mølle,ølle,514.800,04-02-1997,Alm. Salg,4.185,4,Villa,123,1928,,Aktuel værdi
+Mejerivej 48763 Rask Mølle,ølle,467.317,20-12-1996,Alm. Salg,4.327,3,Villa,108,1930,,Aktuel værdi
+Gyvelvej 278763 Rask Mølle,ølle,535.000,18-12-1996,Alm. Salg,5.194,4,Villa,103,1977,,Aktuel værdi
+Honum Markvej 48763 Rask Mølle,ølle,650.000,07-10-1996,Fam. Salg,3.757,6,Villa,173,1918,,Aktuel værdi
+Gyvelvej 21B8763 Rask Mølle,ølle,495.000,29-09-1996,Alm. Salg,5.265,3,Rækkehus,94,1983,,Aktuel værdi
+Hybenvej 118763 Rask Mølle,ølle,523.000,16-09-1996,Alm. Salg,3.735,5,Villa,140,1975,,Aktuel værdi
+Hovedgaden 338763 Rask Mølle,ølle,807.500,20-08-1996,Fam. Salg,5.937,5,Stuehus,136,1913,,
+Erantisvej 108763 Rask Mølle,ølle,1.030.000,24-04-1996,Alm. Salg,5.628,4,Villa,183,1977,,Aktuel værdi
+Boring 238763 Rask Mølle,ølle,650.000,26-03-1996,Fam. Salg,2.589,8,Villa,251,1913,,Aktuel værdi
+Anemonevej 58763 Rask Mølle,ølle,515.000,15-01-1996,Alm. Salg,-,5,Villa,139,1967,,Aktuel værdi
+Honum Skovvej 188763 Rask Mølle,ølle,902.500,15-01-1996,Fam. Salg,5.127,5,Stuehus,176,1912,,
+Kalhavevej 38763 Rask Mølle,ølle,167.000,27-11-1995,Alm. Salg,-,3,Villa,108,1920,,Aktuel værdi
+Honum Skovvej 208763 Rask Mølle,ølle,561.000,06-11-1995,Alm. Salg,4.878,4,Villa,115,1912,,Aktuel værdi
+Skovbrynet 58763 Rask Mølle,ølle,440.000,08-09-1995,Alm. Salg,3.235,6,Villa,136,1966,,Aktuel værdi
+Honum Markvej 18763 Rask Mølle,ølle,240.000,06-09-1995,Auktion,1.437,7,Villa,167,1930,,Aktuel værdi
+Boring 218763 Rask Mølle,ølle,215.000,22-05-1995,Alm. Salg,2.866,2,Villa,75,1825,,Aktuel værdi
+Hybenvej 468763 Rask Mølle,ølle,690.000,24-04-1995,Alm. Salg,4.011,8,Villa,172,1988,,Aktuel værdi
+Kalhavevej 68763 Rask Mølle,ølle,204.000,12-04-1995,Alm. Salg,-,4,Villa,135,1877,,Aktuel værdi
+Honum Skovvej 258763 Rask Mølle,ølle,649.734,29-03-1995,Alm. Salg,3.248,6,Villa,200,1927,,Aktuel værdi
+Kodallundvej 138763 Rask Mølle,ølle,475.000,20-03-1995,Alm. Salg,2.745,7,Villa,173,1900,,Aktuel værdi
+Hybenvej 298763 Rask Mølle,ølle,60.000,16-03-1995,Alm. Salg,322,6,Villa,186,1996,,Aktuel værdi
+Bjerresmøllevej 228763 Rask Mølle,ølle,295.000,15-12-1994,Alm. Salg,2.979,4,Villa,99,1968,,Aktuel værdi
+Skolebakken 48763 Rask Mølle,ølle,630.000,04-10-1994,Alm. Salg,3.351,4,Villa,188,1960,,Aktuel værdi
+Honum Byvej 48763 Rask Mølle,ølle,75.000,23-09-1994,Alm. Salg,384,8,Stuehus,195,1868,,
+Kalhavevej 248763 Rask Mølle,ølle,243.000,21-09-1994,Alm. Salg,2.858,3,Villa,85,1920,,Aktuel værdi
+Bryggervej 128763 Rask Mølle,ølle,410.000,03-09-1994,Alm. Salg,2.484,5,Villa,165,1934,,Aktuel værdi
+Kalhavevej 228763 Rask Mølle,ølle,797.060,01-06-1994,Alm. Salg,5.573,6,Villa,143,1840,,Aktuel værdi
+Skovbyvej 48763 Rask Mølle,ølle,442.395,26-05-1994,Alm. Salg,-,7,Villa,206,1921,,Aktuel værdi
+Boring 398763 Rask Mølle,ølle,55.000,25-04-1994,Alm. Salg,419,5,Villa,131,1908,,Aktuel værdi
+Erantisvej 98763 Rask Mølle,ølle,720.000,09-04-1994,Alm. Salg,3.396,8,Villa,212,1970,,Aktuel værdi
+Gartnervænget 48763 Rask Mølle,ølle,317.000,17-03-1994,Alm. Salg,-,4,Villa,105,1924,,Aktuel værdi
+Honumvej 408763 Rask Mølle,ølle,498.000,28-01-1994,Alm. Salg,3.212,4,Villa,155,1973,,Aktuel værdi
+Enggårdsvej 88763 Rask Mølle,ølle,50.000,09-11-1993,Alm. Salg,-,8,Stuehus,202,1967,,
+Dahliavej 58763 Rask Mølle,ølle,374.000,18-10-1993,Fam. Salg,2.876,4,Villa,130,1973,,Aktuel værdi
+Honum Skovvej 168763 Rask Mølle,ølle,853.500,11-10-1993,Alm. Salg,-,7,Villa,208,1850,,Aktuel værdi
+Enggårdsvej 18763 Rask Mølle,ølle,1.335.000,29-07-1993,Alm. Salg,5.383,7,Stuehus,248,1921,,
+Skanderborgvej 828763 Rask Mølle,ølle,1.310.000,10-06-1993,Alm. Salg,5.198,6,Stuehus,252,1877,,
+Rask Skovvej 38763 Rask Mølle,ølle,975.000,09-06-1993,Alm. Salg,-,5,Stuehus,169,1923,,
+Skovbyvej 178763 Rask Mølle,ølle,385.000,21-04-1993,Alm. Salg,-,3,Villa,118,1921,,Aktuel værdi
+Bjerresmøllevej 188763 Rask Mølle,ølle,385.000,13-04-1993,Alm. Salg,2.730,3,Villa,141,1968,,Aktuel værdi
+Bryggervej 108763 Rask Mølle,ølle,340.000,07-12-1992,Alm. Salg,2.720,4,Villa,125,1928,,Aktuel værdi
+Gyvelvej 78763 Rask Mølle,ølle,515.000,19-10-1992,Alm. Salg,3.814,5,Villa,135,1975,,Aktuel værdi
+Rask Skovvej 28763 Rask Mølle,ølle,675.000,19-08-1992,Alm. Salg,-,5,Villa,145,1921,,Aktuel værdi
+Enggårdsvej 168763 Rask Mølle,ølle,288.755,10-08-1992,Andet,1.925,4,Villa,150,1987,,Aktuel værdi
+Erantisvej 88763 Rask Mølle,ølle,445.000,30-06-1992,Alm. Salg,3.248,5,Villa,137,1972,,Aktuel værdi
+Gartnervænget 108763 Rask Mølle,ølle,375.000,24-04-1992,Alm. Salg,-,6,Villa,200,1922,,Aktuel værdi
+Erantisvej 118763 Rask Mølle,ølle,550.000,11-04-1992,Alm. Salg,-,4,Villa,159,1976,,Aktuel værdi
+Kalhavevej 368763 Rask Mølle,ølle,1.395.000,10-01-1992,Fam. Salg,9.489,6,Stuehus,147,1918,,
+Hybenvej 218763 Rask Mølle,ølle,465.000,09-01-1992,Fam. Salg,3.907,4,Villa,119,1974,,Aktuel værdi

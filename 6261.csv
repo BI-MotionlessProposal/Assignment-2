@@ -1,0 +1,998 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Harres 556261 Bredebro,ebro,1.500.000,01-05-2017,Alm. Salg,11.029,5,Stuehus,136,1939,,
+Sct Hansvej 166261 Bredebro,ebro,800.000,01-05-2017,Alm. Salg,6.504,4,Villa,123,1977,,Aktuel værdi
+Byvej 356261 Bredebro,ebro,750.000,24-03-2017,Alm. Salg,4.261,5,Villa,176,1905,-12 %,Aktuel værdi
+Midsommervej 896261 Bredebro,ebro,825.000,20-03-2017,Alm. Salg,3.985,7,Villa,207,1978,-15 %,Aktuel værdi
+Munketoft 66261 Bredebro,ebro,600.000,19-03-2017,Alm. Salg,3.750,5,Villa,160,1934,,Aktuel værdi
+Strandvej 66261 Bredebro,ebro,736.730,16-03-2017,Fam. Salg,3.007,7,Villa,245,1902,,Aktuel værdi
+Harres 476261 Bredebro,ebro,1.200.000,06-03-2017,Alm. Salg,10.434,4,Stuehus,115,1938,,
+Randerup Østermark 36261 Bredebro,ebro,406.284,01-03-2017,Andet,3.149,5,Villa,129,1960,,Aktuel værdi
+Møllevej 26261 Bredebro,ebro,135.000,01-03-2017,Alm. Salg,608,5,Villa,222,1899,,Aktuel værdi
+Skomagergade 56261 Bredebro,ebro,305.000,01-02-2017,Alm. Salg,3.812,4,Villa,80,1877,0 %,Aktuel værdi
+Kummerlev 176261 Bredebro,ebro,3.452.500,31-01-2017,Fam. Salg,21.578,8,Stuehus,160,1972,,
+Vollum Østermark 106261 Bredebro,ebro,4.348.000,25-01-2017,Alm. Salg,33.446,5,Stuehus,130,1938,,
+Borg 756261 Bredebro,ebro,500.000,23-01-2017,Alm. Salg,4.000,4,Stuehus,125,1939,,
+Trælborgvej 126261 Bredebro,ebro,250.000,20-01-2017,Alm. Salg,2.525,3,Villa,99,1963,-16 %,Aktuel værdi
+Møllebakken 66261 Bredebro,ebro,525.000,18-01-2017,Alm. Salg,5.048,3,Villa,104,1964,,Aktuel værdi
+Nr Vollum 106261 Bredebro,ebro,50.000,17-01-2017,Alm. Salg,357,5,Villa,140,1914,,Aktuel værdi
+Borg 456261 Bredebro,ebro,263.500,26-12-2016,Fam. Salg,3.063,3,Villa,86,1877,,Aktuel værdi
+Strandvej 36261 Bredebro,ebro,405.000,22-12-2016,Alm. Salg,9.418,2,Villa,43,2004,-19 %,Aktuel værdi
+Nr Vollum 246261 Bredebro,ebro,14.758.000,19-12-2016,Alm. Salg,88.903,5,Stuehus,166,1983,,
+Harknagvej 176261 Bredebro,ebro,25.000,14-12-2016,Andet,352,2,Villa,71,1770,-87 %,Aktuel værdi
+Harknagvej 186261 Bredebro,ebro,600.000,09-12-2016,Alm. Salg,2.298,8,Villa,261,1859,-20 %,Aktuel værdi
+Krovej 176261 Bredebro,ebro,1.300.000,02-12-2016,Alm. Salg,7.027,6,Villa,185,1980,,Aktuel værdi
+Aaspe 206261 Bredebro,ebro,3.300.000,01-12-2016,Alm. Salg,10.216,12,Stuehus,323,1914,,
+Nygade 76261 Bredebro,ebro,230.000,29-11-2016,Alm. Salg,2.371,6,Villa,97,1926,-23 %,Aktuel værdi
+Borgvej 1B6261 Bredebro,ebro,590.000,14-11-2016,Alm. Salg,6.781,5,Villa,87,1954,,Aktuel værdi
+Høybergvej 126261 Bredebro,ebro,20.719,11-11-2016,Alm. Salg,246,3,Villa,84,1775,,Aktuel værdi
+Nørhus 56261 Bredebro,ebro,217.000,11-11-2016,Alm. Salg,1.205,6,Stuehus,180,1889,,
+Kystvej 376261 Bredebro,ebro,2.800.000,10-11-2016,Alm. Salg,45.901,4,"Ferie, andet",61,1994,,Aktuel værdi
+Harres 186261 Bredebro,ebro,135.000,12-10-2016,Alm. Salg,665,8,Stuehus,203,1933,,
+Harres 396261 Bredebro,ebro,215.000,12-10-2016,Alm. Salg,1.207,7,Stuehus,178,1907,,
+Munketoft 46261 Bredebro,ebro,350.000,12-10-2016,Alm. Salg,2.916,5,Villa,120,1964,,Aktuel værdi
+Randerup 56261 Bredebro,ebro,1.538.000,12-10-2016,Fam. Salg,17.678,2,Stuehus,87,1996,,
+Østerende 166261 Bredebro,ebro,450.000,05-10-2016,Alm. Salg,3.082,4,Villa,146,1998,,Aktuel værdi
+Catharinasvej 16261 Bredebro,ebro,25.000,05-10-2016,Alm. Salg,255,4,Villa,98,1970,,Aktuel værdi
+Sportsvej 36261 Bredebro,ebro,520.000,30-09-2016,Alm. Salg,5.000,4,Villa,104,1949,-5 %,Aktuel værdi
+Høybergvej 776261 Bredebro,ebro,1.900.000,26-09-2016,Andet,8.016,7,Stuehus,237,1927,,
+Stationsvej 36261 Bredebro,ebro,50.000,14-09-2016,Alm. Salg,581,3,Villa,86,1954,,Aktuel værdi
+Søndervang 55C6261 Bredebro,ebro,299.000,05-09-2016,Alm. Salg,3.285,4,Rækkehus,91,1980,,Aktuel værdi
+Harres 136261 Bredebro,ebro,153.000,29-08-2016,Alm. Salg,1.100,6,Villa,139,1956,-48 %,Aktuel værdi
+Østervang 316261 Bredebro,ebro,323.000,16-08-2016,Alm. Salg,3.047,4,Villa,106,1968,-15 %,Aktuel værdi
+Høybergvej 556261 Bredebro,ebro,199.000,11-07-2016,Alm. Salg,1.372,3,Villa,145,1934,0 %,Aktuel værdi
+Borgvej 26261 Bredebro,ebro,170.000,10-07-2016,Alm. Salg,1.478,4,Villa,115,1961,-36 %,Aktuel værdi
+Skast 416261 Bredebro,ebro,120.000,27-06-2016,Auktion,888,4,Villa,135,1911,,Aktuel værdi
+Skast 626261 Bredebro,ebro,10.000,14-06-2016,Alm. Salg,107,3,Villa,93,1930,,Aktuel værdi
+Lagervej 116261 Bredebro,ebro,525.000,01-06-2016,Alm. Salg,5.000,3,Villa,105,1935,-5 %,Aktuel værdi
+Skast 466261 Bredebro,ebro,230.000,31-05-2016,Alm. Salg,2.643,4,Villa,87,1959,,Aktuel værdi
+Sct Hansvej 56261 Bredebro,ebro,765.000,26-05-2016,Alm. Salg,6.270,5,Villa,122,1977,-3 %,Aktuel værdi
+Midsommervej 976261 Bredebro,ebro,26.700,24-05-2016,Alm. Salg,161,5,Villa,165,2017,,Aktuel værdi
+Trælborg 76261 Bredebro,ebro,977.500,19-05-2016,Fam. Salg,6.033,6,Stuehus,162,1880,,
+Storde 16261 Bredebro,ebro,8.673.000,19-05-2016,Fam. Salg,29.202,7,Stuehus,297,1993,,
+Strandvej 276261 Bredebro,ebro,690.000,12-05-2016,Alm. Salg,3.165,9,Villa,218,1890,-13 %,Aktuel værdi
+Byvej 146261 Bredebro,ebro,190.000,10-05-2016,Alm. Salg,1.386,5,Villa,137,1955,,Aktuel værdi
+Parkvej 216261 Bredebro,ebro,2.330.000,10-05-2016,Alm. Salg,19.416,5,Stuehus,120,1877,,
+Langager 36261 Bredebro,ebro,132.030,26-04-2016,Alm. Salg,653,5,Villa,202,2016,,Aktuel værdi
+Mollerup 126261 Bredebro,ebro,295.000,18-04-2016,Auktion,1.404,5,Villa,210,1866,0 %,Aktuel værdi
+Lagervej 126261 Bredebro,ebro,332.181,14-04-2016,Andet,2.171,6,Villa,153,1949,-63 %,Aktuel værdi
+Skast 956261 Bredebro,ebro,555.500,12-04-2016,Alm. Salg,2.525,8,Villa,220,1911,,Aktuel værdi
+Skast 386261 Bredebro,ebro,900.000,11-04-2016,Alm. Salg,2.284,9,Stuehus,394,1849,-47 %,
+Midsommervej 1156261 Bredebro,ebro,900.000,07-04-2016,Andet,6.250,4,Villa,144,1980,,Aktuel værdi
+Brogade 16261 Bredebro,ebro,1.893.400,01-04-2016,Alm. Salg,10.944,10,BygningTilHandel,173,1860,,Aktuel værdi
+Søndergade 166261 Bredebro,ebro,450.000,01-04-2016,Alm. Salg,4.166,4,Villa,108,1922,,Aktuel værdi
+Søndervang 58B6261 Bredebro,ebro,350.000,01-04-2016,Alm. Salg,4.545,3,Rækkehus,77,1980,-11 %,Aktuel værdi
+Brinkvej 226261 Bredebro,ebro,745.000,22-03-2016,Alm. Salg,3.547,9,Stuehus,210,1957,,
+Byvej 306261 Bredebro,ebro,326.000,19-03-2016,Alm. Salg,4.075,2,Villa,80,1955,-9 %,Aktuel værdi
+Sct Hansvej 436261 Bredebro,ebro,1.175.000,11-03-2016,Alm. Salg,4.795,9,Villa,245,1976,,Aktuel værdi
+Vestervang 56261 Bredebro,ebro,950.000,08-03-2016,Alm. Salg,4.947,6,Villa,192,1973,-5 %,Aktuel værdi
+Midsommervej 1066261 Bredebro,ebro,175.000,28-02-2016,Alm. Salg,1.136,5,Villa,154,1980,0 %,Aktuel værdi
+Søndervang 296261 Bredebro,ebro,400.000,22-02-2016,Alm. Salg,2.816,5,Villa,142,1974,-11 %,Aktuel værdi
+Kummerlev 36261 Bredebro,ebro,1.095.000,17-02-2016,Alm. Salg,6.556,8,Stuehus,167,1926,-8 %,
+Vestervang 36261 Bredebro,ebro,625.000,16-02-2016,Alm. Salg,4.370,4,Villa,143,1976,-10 %,Aktuel værdi
+Galgemark 66261 Bredebro,ebro,600.000,15-02-2016,Alm. Salg,3.529,6,Villa,170,1971,,Aktuel værdi
+Rantzausvej 26261 Bredebro,ebro,337.500,11-02-2016,Alm. Salg,3.750,3,Villa,90,1968,-15 %,Aktuel værdi
+Møllebakken 56261 Bredebro,ebro,1.579.500,25-01-2016,Fam. Salg,11.282,7,Stuehus,140,1870,,
+Ø Gammelby 156261 Bredebro,ebro,130.000,19-01-2016,Alm. Salg,1.130,5,Villa,115,1885,,Aktuel værdi
+Nørrevej 26261 Bredebro,ebro,102.540,08-01-2016,Alm. Salg,582,4,Villa,176,2016,,Aktuel værdi
+Søndergade 256261 Bredebro,ebro,722.500,24-12-2015,Fam. Salg,4.128,6,Villa,175,1935,,Aktuel værdi
+Søndergade 276261 Bredebro,ebro,433.500,24-12-2015,Fam. Salg,3.440,4,Villa,126,1948,,Aktuel værdi
+Sct Hansvej 176261 Bredebro,ebro,865.000,22-12-2015,Alm. Salg,5.474,5,Villa,158,1977,-9 %,Aktuel værdi
+Harres 646261 Bredebro,ebro,3.975.000,21-12-2015,Alm. Salg,19.875,7,Stuehus,200,1880,,
+Vesterende 206261 Bredebro,ebro,350.000,18-12-2015,Andet,2.430,8,Villa,144,1942,,Aktuel værdi
+Søndervang 446261 Bredebro,ebro,420.000,10-12-2015,Alm. Salg,3.500,3,Villa,120,1975,-27 %,Aktuel værdi
+Byvej 466261 Bredebro,ebro,59.818,30-11-2015,Auktion,336,5,Villa,178,1900,,Aktuel værdi
+Trælborgvej 36261 Bredebro,ebro,280.000,28-11-2015,Alm. Salg,3.333,3,Villa,84,1941,-7 %,Aktuel værdi
+Nørby 226261 Bredebro,ebro,723.000,20-11-2015,Alm. Salg,6.025,5,Stuehus,120,1913,,
+Ballum Hede 56261 Bredebro,ebro,81.000,16-11-2015,Auktion,380,7,Stuehus,213,1848,,
+Strandvej 3A6261 Bredebro,ebro,16.000,10-11-2015,Alm. Salg,105,4,Villa,152,2016,,Aktuel værdi
+Midsommervej 1226261 Bredebro,ebro,544.000,09-11-2015,Alm. Salg,4.217,4,Villa,129,1979,,Aktuel værdi
+Vestervang 266261 Bredebro,ebro,50.000,09-11-2015,Auktion,333,5,Villa,150,1800,,Aktuel værdi
+Skast 776261 Bredebro,ebro,386.113,06-11-2015,Andet,2.797,4,Villa,138,1877,,Aktuel værdi
+Søndervang 156261 Bredebro,ebro,370.000,29-10-2015,Alm. Salg,2.466,5,Villa,150,1970,,Aktuel værdi
+Skast 346261 Bredebro,ebro,400.000,28-10-2015,Alm. Salg,3.883,5,Villa,103,1959,-19 %,Aktuel værdi
+Løgumklostervej 14B6261 Bredebro,ebro,530.000,06-10-2015,Alm. Salg,4.240,4,Villa,125,1973,-3 %,Aktuel værdi
+Bunti 56261 Bredebro,ebro,845.000,04-10-2015,Fam. Salg,9.388,3,Stuehus,90,1880,,
+Genforeningsvej 46261 Bredebro,ebro,150.000,28-09-2015,Alm. Salg,750,8,Villa,200,1946,,Aktuel værdi
+Kirkegade 76261 Bredebro,ebro,150.000,14-09-2015,Alm. Salg,1.875,3,Villa,80,1870,,Aktuel værdi
+Sct Hansvej 486261 Bredebro,ebro,850.000,03-09-2015,Alm. Salg,3.541,8,Villa,240,1978,-10 %,Aktuel værdi
+Østerende 76261 Bredebro,ebro,840.000,31-08-2015,Alm. Salg,5.000,7,Stuehus,168,1804,,
+Gemmet 56261 Bredebro,ebro,445.000,24-07-2015,Alm. Salg,3.476,4,Villa,128,1968,-6 %,Aktuel værdi
+Bakkevej 2C6261 Bredebro,ebro,400.000,23-07-2015,Alm. Salg,4.494,3,Rækkehus,89,1989,,Aktuel værdi
+Skast 896261 Bredebro,ebro,40.000,17-07-2015,Alm. Salg,258,7,Villa,155,1780,,Aktuel værdi
+Søndervang 706261 Bredebro,ebro,1.075.000,10-07-2015,Alm. Salg,5.269,7,Villa,204,1973,,Aktuel værdi
+Harres 586261 Bredebro,ebro,2.000.000,03-07-2015,Alm. Salg,8.849,9,Stuehus,226,1938,,
+Gaden 236261 Bredebro,ebro,220.000,18-06-2015,Alm. Salg,2.244,4,Villa,98,1970,-25 %,Aktuel værdi
+Østerende 176261 Bredebro,ebro,10.900.000,12-06-2015,Alm. Salg,58.602,8,Stuehus,186,1884,,
+Abterp 106261 Bredebro,ebro,150.000,25-05-2015,Alm. Salg,1.271,5,Villa,118,1928,-14 %,Aktuel værdi
+Vesterende 396261 Bredebro,ebro,2.800.000,05-05-2015,Alm. Salg,19.047,2,Villa,147,1800,-30 %,Aktuel værdi
+Randerup 576261 Bredebro,ebro,287.900,23-04-2015,Alm. Salg,1.599,6,Stuehus,180,1867,,
+Tingvej 116261 Bredebro,ebro,1.177.400,22-04-2015,Alm. Salg,4.393,7,Stuehus,268,1870,,
+Høybergvej 36261 Bredebro,ebro,425.000,22-04-2015,Alm. Salg,2.992,4,Villa,142,1942,-14 %,Aktuel værdi
+Tingvej 36261 Bredebro,ebro,161.896,22-04-2015,Alm. Salg,1.274,4,Stuehus,127,1875,-72 %,
+Gaden 16261 Bredebro,ebro,752.000,07-04-2015,Alm. Salg,4.641,5,Villa,162,1978,11 %,Aktuel værdi
+Vestervej 56261 Bredebro,ebro,535.555,27-03-2015,Alm. Salg,3.433,5,Villa,156,1976,-4 %,Aktuel værdi
+Strandvej 256261 Bredebro,ebro,600.000,23-02-2015,Alm. Salg,5.000,5,Villa,120,1938,-14 %,Aktuel værdi
+Trælborgvej 136261 Bredebro,ebro,350.000,22-02-2015,Alm. Salg,4.375,3,Villa,80,1957,,Aktuel værdi
+Søndergade 516261 Bredebro,ebro,270.000,17-02-2015,Fam. Salg,2.596,4,Villa,104,1965,,Aktuel værdi
+Skast 866261 Bredebro,ebro,8.447.100,08-02-2015,Fam. Salg,30.060,6,Villa,281,1977,,Aktuel værdi
+Skast 506261 Bredebro,ebro,178.500,06-02-2015,Fam. Salg,915,6,Stuehus,195,1875,,
+Galgemark 166261 Bredebro,ebro,500.000,02-02-2015,Fam. Salg,3.144,4,Villa,159,1876,,Aktuel værdi
+Sct Hansvej 186261 Bredebro,ebro,540.000,16-01-2015,Alm. Salg,4.153,4,Villa,130,1977,-6 %,Aktuel værdi
+Søndergade 176261 Bredebro,ebro,238.000,14-01-2015,Alm. Salg,1.515,6,Villa,157,1952,-3 %,Aktuel værdi
+Vesterende 76261 Bredebro,ebro,750.000,29-12-2014,Alm. Salg,2.929,10,Villa,256,1781,,Aktuel værdi
+Toften 16261 Bredebro,ebro,385.000,18-12-2014,Alm. Salg,1.859,6,Villa,207,1969,-18 %,Aktuel værdi
+Harknagvej 56261 Bredebro,ebro,300.000,08-12-2014,Alm. Salg,2.272,4,Villa,132,1944,-25 %,Aktuel værdi
+Rantzausvej 96261 Bredebro,ebro,300.000,27-11-2014,Alm. Salg,3.061,4,Villa,98,1967,-14 %,Aktuel værdi
+"Storegade 20B, 16261 Bredebro",ebro,500.000,27-11-2014,Alm. Salg,3.184,5,Villa,157,1880,,Aktuel værdi
+Søndergade 466261 Bredebro,ebro,300.000,05-11-2014,Alm. Salg,2.362,5,Villa,127,1963,,Aktuel værdi
+Søndervang 126261 Bredebro,ebro,760.000,31-10-2014,Alm. Salg,3.877,7,Villa,196,1972,-10 %,Aktuel værdi
+Østervang 166261 Bredebro,ebro,200.000,29-10-2014,Fam. Salg,1.459,4,Villa,137,1965,,Aktuel værdi
+Skast 476261 Bredebro,ebro,175.000,17-10-2014,Alm. Salg,1.483,5,Villa,118,1958,-41 %,Aktuel værdi
+Lagervej 46261 Bredebro,ebro,425.000,27-09-2014,Alm. Salg,4.427,3,Villa,96,1966,,Aktuel værdi
+Borgvej 56261 Bredebro,ebro,650.000,08-09-2014,Alm. Salg,4.333,5,Villa,150,1968,,Aktuel værdi
+Skast 116261 Bredebro,ebro,175.000,08-08-2014,Alm. Salg,1.666,4,Villa,105,1961,-10 %,Aktuel værdi
+Skast 16261 Bredebro,ebro,175.000,18-07-2014,Fam. Salg,1.458,4,Villa,120,1860,,Aktuel værdi
+Harres 316261 Bredebro,ebro,797.000,13-07-2014,Alm. Salg,3.511,9,Stuehus,227,1827,,
+Byvej 346261 Bredebro,ebro,145.000,09-07-2014,Alm. Salg,1.000,5,Villa,145,1944,,Aktuel værdi
+Sct Hansvej 116261 Bredebro,ebro,450.000,07-07-2014,Alm. Salg,3.308,6,Villa,136,1976,0 %,Aktuel værdi
+Lagervej 136261 Bredebro,ebro,360.000,26-06-2014,Alm. Salg,3.103,4,Villa,116,1951,-10 %,Aktuel værdi
+Sct Hansvej 556261 Bredebro,ebro,705.000,25-06-2014,Alm. Salg,4.462,5,Villa,158,1979,,Aktuel værdi
+Østervang 56261 Bredebro,ebro,275.000,22-06-2014,Alm. Salg,3.055,3,Villa,90,1965,,Aktuel værdi
+Midsommervej 1016261 Bredebro,ebro,845.000,18-06-2014,Alm. Salg,5.090,5,Villa,166,1979,-6 %,Aktuel værdi
+Abterp 86261 Bredebro,ebro,1.120.114,27-05-2014,Alm. Salg,4.786,7,Stuehus,234,1864,,
+Catharinasvej 106261 Bredebro,ebro,350.000,15-05-2014,Alm. Salg,2.692,4,Villa,130,1971,-20 %,Aktuel værdi
+Byvej 506261 Bredebro,ebro,250.000,14-05-2014,Alm. Salg,1.201,5,Villa,208,1912,-44 %,Aktuel værdi
+Abterp 416261 Bredebro,ebro,566.250,06-05-2014,Alm. Salg,3.905,5,Stuehus,145,1935,,
+Abterp 76261 Bredebro,ebro,11.515.000,05-05-2014,Alm. Salg,95.958,7,Stuehus,120,1876,,
+Skast 106261 Bredebro,ebro,444.700,01-05-2014,Auktion,2.416,6,Villa,184,1950,,Aktuel værdi
+Hovedvejen 16261 Bredebro,ebro,250.000,22-04-2014,Alm. Salg,2.604,4,Industri o.l.,96,1962,,Aktuel værdi
+Borg 116261 Bredebro,ebro,512.500,11-04-2014,Alm. Salg,1.785,9,Stuehus,287,1932,,
+Rantzausvej 236261 Bredebro,ebro,251.671,10-04-2014,Alm. Salg,1.498,6,Villa,168,1980,,Aktuel værdi
+Bomvej 106261 Bredebro,ebro,175.000,06-04-2014,Alm. Salg,1.822,2,Villa,96,1900,-29 %,Aktuel værdi
+Farverhusvej 226261 Bredebro,ebro,75.000,03-04-2014,Alm. Salg,765,3,Villa,98,1876,,Aktuel værdi
+Vangvej 16261 Bredebro,ebro,1.200.000,27-03-2014,Auktion,10.909,3,Villa,110,1925,,Aktuel værdi
+Rantzausvej 336261 Bredebro,ebro,424.500,16-03-2014,Alm. Salg,3.265,4,Villa,130,1980,,Aktuel værdi
+Borgvej 106261 Bredebro,ebro,975.000,07-03-2014,Alm. Salg,5.357,6,Villa,182,1971,-2 %,Aktuel værdi
+Vesterende 126261 Bredebro,ebro,1.138.500,01-03-2014,Fam. Salg,5.664,7,Villa,201,1850,,Aktuel værdi
+Nørby 116261 Bredebro,ebro,392.500,18-02-2014,Fam. Salg,2.350,5,Villa,167,1908,,Aktuel værdi
+Lagervej 56261 Bredebro,ebro,250.000,10-02-2014,Alm. Salg,1.748,5,Villa,143,1939,-23 %,Aktuel værdi
+Storegade 226261 Bredebro,ebro,300.000,02-02-2014,Alm. Salg,2.307,5,Rækkehus,130,1905,,Aktuel værdi
+Vesterende 426261 Bredebro,ebro,1.600.000,29-01-2014,Alm. Salg,13.114,3,Villa,122,1870,-20 %,Aktuel værdi
+"Storegade 2A, 16261 Bredebro",ebro,516.668,14-01-2014,Fam. Salg,5.438,3,Anden beboelse,95,1938,,Aktuel værdi
+Ø Gammelby 236261 Bredebro,ebro,564.882,14-01-2014,Fam. Salg,2.591,8,Villa,218,1877,,Aktuel værdi
+Østerende 11B6261 Bredebro,ebro,5.290.000,03-01-2014,Alm. Salg,22.900,10,Stuehus,231,1979,,
+Vesterende 456261 Bredebro,ebro,1.250.000,30-12-2013,Alm. Salg,6.983,6,Villa,179,1890,-22 %,Aktuel værdi
+Borg 716261 Bredebro,ebro,1.100.000,16-12-2013,Alm. Salg,4.489,6,Stuehus,245,1936,-8 %,
+Gaden 376261 Bredebro,ebro,560.000,03-12-2013,Andet,3.414,5,Villa,164,1980,,Aktuel værdi
+Borg 76261 Bredebro,ebro,712.000,29-11-2013,Alm. Salg,3.473,8,Villa,205,1877,2 %,Aktuel værdi
+Høybergvej 326261 Bredebro,ebro,100.000,21-11-2013,Alm. Salg,1.020,3,Villa,98,1930,-66 %,Aktuel værdi
+Søndergade 446261 Bredebro,ebro,250.000,28-10-2013,Alm. Salg,3.333,3,Villa,75,1947,0 %,Aktuel værdi
+Trøjborgvej 86261 Bredebro,ebro,995.000,18-10-2013,Alm. Salg,2.487,14,Villa,400,1850,-9 %,Aktuel værdi
+Borg 36261 Bredebro,ebro,52.000,08-10-2013,Alm. Salg,433,5,Villa,120,1880,,Aktuel værdi
+Abterp 266261 Bredebro,ebro,11.880.942,19-09-2013,Fam. Salg,32.820,13,Stuehus,362,1880,,
+Nr Vollum 226261 Bredebro,ebro,600.000,16-09-2013,Andet,4.054,4,Stuehus,148,1877,,
+Catharinasvej 76261 Bredebro,ebro,281.000,01-09-2013,Alm. Salg,2.601,3,Villa,108,1969,,Aktuel værdi
+Catharinasvej 226261 Bredebro,ebro,364.412,01-09-2013,Fam. Salg,2.803,3,Villa,130,1978,,Aktuel værdi
+Trælborgvej 96261 Bredebro,ebro,295.000,20-08-2013,Alm. Salg,3.597,4,Villa,82,1949,,Aktuel værdi
+Løgumklostervej 176261 Bredebro,ebro,505.000,26-07-2013,Alm. Salg,3.976,5,Villa,127,1951,0 %,Aktuel værdi
+Sct Hansvej 256261 Bredebro,ebro,750.000,10-07-2013,Alm. Salg,5.905,5,Villa,127,1976,-6 %,Aktuel værdi
+Brede Bygade 16261 Bredebro,ebro,750.000,10-07-2013,Alm. Salg,2.988,10,Villa,251,1888,-16 %,Aktuel værdi
+Abterpvej 506261 Bredebro,ebro,412.115,04-07-2013,Alm. Salg,1.668,7,Stuehus,247,1972,,
+Midsommervej 1186261 Bredebro,ebro,675.000,28-06-2013,Alm. Salg,4.141,5,Villa,163,1979,,Aktuel værdi
+Brinkvej 56261 Bredebro,ebro,350.000,28-06-2013,Alm. Salg,4.430,6,Villa,79,1957,-21 %,Aktuel værdi
+Harknagvej 356261 Bredebro,ebro,100.000,27-06-2013,Alm. Salg,1.333,4,Villa,75,1912,-33 %,Aktuel værdi
+Randerup 486261 Bredebro,ebro,1.392.400,19-06-2013,Fam. Salg,12.774,4,Stuehus,109,1931,,
+Lagervej 76261 Bredebro,ebro,545.000,12-06-2013,Fam. Salg,4.360,5,Villa,125,1939,,Aktuel værdi
+Mølbyvej 16261 Bredebro,ebro,212.500,31-05-2013,Fam. Salg,4.250,3,Villa,50,1867,,Aktuel værdi
+Bunti 106261 Bredebro,ebro,4.845.000,31-05-2013,Fam. Salg,19.695,6,Villa,246,1865,,Aktuel værdi
+Gaden 186261 Bredebro,ebro,250.000,30-04-2013,Alm. Salg,2.136,4,Villa,117,1969,,Aktuel værdi
+Harknagvej 126261 Bredebro,ebro,20.000,30-04-2013,Alm. Salg,183,3,Villa,109,1934,,Aktuel værdi
+Vestervang 106261 Bredebro,ebro,300.000,03-04-2013,Alm. Salg,2.255,3,Villa,133,1973,-20 %,Aktuel værdi
+Skomagergade 36261 Bredebro,ebro,380.000,20-03-2013,Alm. Salg,2.405,5,Villa,158,1888,-22 %,Aktuel værdi
+Stationsvej 106261 Bredebro,ebro,750.000,04-03-2013,Alm. Salg,5.000,4,Villa,150,1970,-4 %,Aktuel værdi
+Byvej 86261 Bredebro,ebro,525.000,28-02-2013,Alm. Salg,2.058,5,Villa,255,1975,-19 %,Aktuel værdi
+Østervang 356261 Bredebro,ebro,662.300,20-02-2013,Alm. Salg,6.132,4,Villa,108,1968,,Aktuel værdi
+Vesterende 4A6261 Bredebro,ebro,200.000,19-02-2013,Alm. Salg,-,3,Villa,140,2016,,Aktuel værdi
+Bakkevej 46261 Bredebro,ebro,1.000.000,11-02-2013,Alm. Salg,5.494,6,Villa,182,1936,-9 %,Aktuel værdi
+Høybergvej 186261 Bredebro,ebro,250.000,17-01-2013,Auktion,1.562,5,Villa,160,1969,-37 %,Aktuel værdi
+Vesterende 45B6261 Bredebro,ebro,800.000,15-01-2013,Alm. Salg,4.571,2,Villa,175,2015,,Aktuel værdi
+Jepsensvej 76261 Bredebro,ebro,220.000,07-01-2013,Auktion,1.833,4,Rækkehus,120,1947,-66 %,Aktuel værdi
+Randerup 216261 Bredebro,ebro,480.000,19-12-2012,Fam. Salg,2.580,7,Villa,186,1900,,Aktuel værdi
+Søndervang 456261 Bredebro,ebro,925.000,17-12-2012,Alm. Salg,5.285,7,Villa,175,1973,-7 %,Aktuel værdi
+Vesterende 326261 Bredebro,ebro,120.000,12-12-2012,Alm. Salg,1.714,3,Villa,70,1850,,Aktuel værdi
+Harknagvej 16261 Bredebro,ebro,50.492,06-12-2012,Auktion,454,3,Villa,111,1930,-84 %,Aktuel værdi
+Høybergvej 726261 Bredebro,ebro,300.000,22-11-2012,Fam. Salg,3.409,3,Stuehus,88,1927,,
+Sct Hansvej 276261 Bredebro,ebro,800.000,01-11-2012,Alm. Salg,3.603,7,Villa,222,1976,-11 %,Aktuel værdi
+Harres 386261 Bredebro,ebro,494.000,16-10-2012,Alm. Salg,2.457,5,Villa,201,1909,-70 %,Aktuel værdi
+Vesterende 216261 Bredebro,ebro,810.000,30-09-2012,Alm. Salg,3.521,9,Villa,230,1860,-17 %,Aktuel værdi
+Skast 456261 Bredebro,ebro,395.000,27-09-2012,Auktion,2.309,5,Villa,171,1959,,Aktuel værdi
+Slippevej 126261 Bredebro,ebro,290.000,25-09-2012,Alm. Salg,3.333,3,Villa,87,1849,,Aktuel værdi
+K L Knudsens Vej 476261 Bredebro,ebro,850.000,28-08-2012,Alm. Salg,3.935,4,Villa,216,1890,-5 %,Aktuel værdi
+Bakkevej 2A6261 Bredebro,ebro,475.000,03-08-2012,Alm. Salg,5.337,3,Rækkehus,89,1989,-4 %,Aktuel værdi
+Midsommervej 996261 Bredebro,ebro,600.000,31-07-2012,Fam. Salg,4.444,5,Villa,135,1979,,Aktuel værdi
+Byvej 196261 Bredebro,ebro,550.000,30-07-2012,Fam. Salg,4.400,3,Villa,125,1985,,Aktuel værdi
+Søndervang 306261 Bredebro,ebro,520.000,26-07-2012,Alm. Salg,4.062,3,Villa,128,1972,,Aktuel værdi
+Sct Hansvej 426261 Bredebro,ebro,850.000,13-07-2012,Fam. Salg,7.657,5,Villa,111,1976,,Aktuel værdi
+Toften 66261 Bredebro,ebro,440.000,02-07-2012,Andet,2.619,8,Villa,168,1967,-47 %,Aktuel værdi
+Skast 296261 Bredebro,ebro,170.000,02-07-2012,Alm. Salg,1.440,5,Villa,118,1923,,Aktuel værdi
+Kystvej 146261 Bredebro,ebro,824.375,26-06-2012,Fam. Salg,7.926,6,Villa,104,1931,,Aktuel værdi
+Søndergade 546261 Bredebro,ebro,400.000,25-06-2012,Auktion,3.174,2,Villa,126,2008,-54 %,Aktuel værdi
+Vesterende 486261 Bredebro,ebro,1.100.000,22-06-2012,Alm. Salg,8.527,3,Villa,129,1875,,Aktuel værdi
+Brede Bygade 666261 Bredebro,ebro,720.000,15-06-2012,Alm. Salg,6.728,3,Villa,107,1990,,Aktuel værdi
+Ballum Hede 146261 Bredebro,ebro,1.019.000,12-06-2012,Alm. Salg,5.568,5,Villa,183,1932,,Aktuel værdi
+Søndergade 206261 Bredebro,ebro,595.000,31-05-2012,Alm. Salg,5.613,4,Villa,106,1941,,Aktuel værdi
+Østervang 96261 Bredebro,ebro,475.000,02-05-2012,Alm. Salg,3.492,5,Villa,136,1967,,Aktuel værdi
+Søndervang 106261 Bredebro,ebro,575.000,29-04-2012,Alm. Salg,4.791,4,Villa,120,1971,-15 %,Aktuel værdi
+Søndervang 476261 Bredebro,ebro,699.000,17-04-2012,Alm. Salg,5.825,4,Villa,120,1972,0 %,Aktuel værdi
+Bunti 176261 Bredebro,ebro,1.350.000,04-04-2012,Alm. Salg,8.490,7,Villa,159,1870,,Aktuel værdi
+Strandvej 56261 Bredebro,ebro,585.000,04-04-2012,Alm. Salg,3.679,6,Villa,159,1850,-12 %,Aktuel værdi
+Midsommervej 836261 Bredebro,ebro,220.000,07-03-2012,Alm. Salg,1.447,5,Villa,152,2012,,Aktuel værdi
+Trøjborgvej 26261 Bredebro,ebro,246.761,28-02-2012,Andet,1.592,5,Villa,155,1776,-71 %,Aktuel værdi
+Stationsvej 86261 Bredebro,ebro,744.500,23-02-2012,Alm. Salg,4.742,6,Villa,157,1963,,Aktuel værdi
+Madevej 16261 Bredebro,ebro,396.554,10-02-2012,Andet,1.963,5,Villa,202,1937,,Aktuel værdi
+Randerup 16261 Bredebro,ebro,1.740.888,05-02-2012,Alm. Salg,13.600,6,Stuehus,128,1910,,
+Sct Hansvej 36261 Bredebro,ebro,550.000,18-01-2012,Alm. Salg,4.263,4,Villa,129,1976,-12 %,Aktuel værdi
+Skast 526261 Bredebro,ebro,250.000,17-01-2012,Alm. Salg,2.450,4,Villa,102,1967,-19 %,Aktuel værdi
+Stationsvej 206261 Bredebro,ebro,598.000,09-01-2012,Fam. Salg,5.750,3,Villa,104,1956,,Aktuel værdi
+Borg 736261 Bredebro,ebro,6.226.200,09-01-2012,Fam. Salg,27.549,6,Stuehus,226,1927,,
+Randerup 506261 Bredebro,ebro,100.000,09-01-2012,Auktion,709,4,Lejlighed,141,1939,,Aktuel værdi
+Mollerup 56261 Bredebro,ebro,398.000,29-12-2011,Alm. Salg,2.487,5,Stuehus,160,1959,,
+Søndervang 57A6261 Bredebro,ebro,480.000,16-12-2011,Fam. Salg,6.233,3,Rækkehus,77,1980,,Aktuel værdi
+Genforeningsvej 16261 Bredebro,ebro,550.000,04-11-2011,Alm. Salg,4.365,5,Villa,126,1937,0 %,Aktuel værdi
+Vesterende 26261 Bredebro,ebro,480.000,02-11-2011,Alm. Salg,3.750,4,Villa,128,1844,-19 %,Aktuel værdi
+Mølbyvej 26261 Bredebro,ebro,300.000,02-11-2011,Alm. Salg,2.678,3,Villa,112,1961,-54 %,Aktuel værdi
+Søndervang 386261 Bredebro,ebro,550.000,21-09-2011,Alm. Salg,3.642,5,Villa,151,1973,-12 %,Aktuel værdi
+Søndervang 516261 Bredebro,ebro,750.000,21-09-2011,Alm. Salg,6.355,4,Villa,118,1984,-6 %,Aktuel værdi
+Storegade 86261 Bredebro,ebro,3.500.000,14-09-2011,Alm. Salg,33.333,5,Ukendt,105,1962,,Aktuel værdi
+Strandvej 136261 Bredebro,ebro,480.000,05-09-2011,Alm. Salg,1.600,11,Villa,300,1831,,Aktuel værdi
+Mølbyvej 36261 Bredebro,ebro,225.000,30-08-2011,Alm. Salg,2.045,3,Villa,110,1772,,Aktuel værdi
+Catharinasvej 206261 Bredebro,ebro,400.643,30-08-2011,Andet,2.635,5,Villa,152,1979,,Aktuel værdi
+Vesterende 186261 Bredebro,ebro,490.000,25-08-2011,Alm. Salg,3.310,4,Villa,148,1927,-18 %,Aktuel værdi
+Nørhus 16261 Bredebro,ebro,980.000,17-08-2011,Alm. Salg,3.888,9,Villa,252,1852,-15 %,Aktuel værdi
+Skast 516261 Bredebro,ebro,375.000,09-08-2011,Alm. Salg,2.862,6,Villa,131,1974,-12 %,Aktuel værdi
+Stationsvej 66261 Bredebro,ebro,550.000,07-08-2011,Alm. Salg,4.230,4,Villa,130,1964,-8 %,Aktuel værdi
+Søndergade 56261 Bredebro,ebro,900.000,01-08-2011,Alm. Salg,4.568,5,Villa,197,1932,,Aktuel værdi
+Harres 686261 Bredebro,ebro,2.997.440,27-07-2011,Alm. Salg,23.417,5,Villa,128,1965,,Aktuel værdi
+Genforeningsvej 36261 Bredebro,ebro,247.190,21-07-2011,Auktion,1.728,5,Villa,143,1954,,Aktuel værdi
+Byvej 586261 Bredebro,ebro,184.774,19-07-2011,Fam. Salg,1.539,4,Rækkehus,120,1867,,Aktuel værdi
+Høybergvej 86261 Bredebro,ebro,150.000,14-07-2011,Alm. Salg,1.229,4,Villa,122,1895,-40 %,Aktuel værdi
+Svanstrup 36261 Bredebro,ebro,325.000,08-07-2011,Alm. Salg,2.901,7,Villa,112,1876,-7 %,Aktuel værdi
+Randerup 696261 Bredebro,ebro,330.000,04-07-2011,Alm. Salg,3.666,3,Villa,90,1959,,Aktuel værdi
+Kystvej 106261 Bredebro,ebro,600.000,22-06-2011,Fam. Salg,3.508,5,Stuehus,171,1844,,
+Byvej 51A6261 Bredebro,ebro,262.500,22-06-2011,Fam. Salg,2.151,3,Villa,122,1975,,Aktuel værdi
+Bunti 86261 Bredebro,ebro,1.000.000,14-06-2011,Alm. Salg,3.311,12,Villa,302,2008,-23 %,Aktuel værdi
+Randerup 336261 Bredebro,ebro,250.000,09-06-2011,Auktion,1.275,6,Villa,196,1807,,Aktuel værdi
+Byvej 106261 Bredebro,ebro,200.000,30-05-2011,Alm. Salg,1.694,4,Villa,118,1900,-17 %,Aktuel værdi
+Gaden 116261 Bredebro,ebro,242.100,30-05-2011,Alm. Salg,1.780,4,Villa,136,1870,-3 %,Aktuel værdi
+Brogade 156261 Bredebro,ebro,275.000,26-05-2011,Alm. Salg,1.544,6,Villa,178,1917,-27 %,Aktuel værdi
+Ø Gammelby 356261 Bredebro,ebro,300.000,17-05-2011,Alm. Salg,5.357,3,Villa,56,1890,,Aktuel værdi
+Ø Gammelby 376261 Bredebro,ebro,80.000,17-05-2011,Alm. Salg,615,6,Villa,130,1875,,Aktuel værdi
+Ø Gammelby 486261 Bredebro,ebro,600.000,12-05-2011,Alm. Salg,4.285,6,Villa,140,1842,,Aktuel værdi
+Brede Bygade 356261 Bredebro,ebro,400.000,29-04-2011,Alm. Salg,4.210,3,Villa,95,1959,-11 %,Aktuel værdi
+Brede Bygade 126261 Bredebro,ebro,550.000,28-04-2011,Alm. Salg,2.301,6,Villa,239,1931,,Aktuel værdi
+Skast 446261 Bredebro,ebro,170.000,11-04-2011,Auktion,1.240,4,Villa,137,1956,,Aktuel værdi
+Engvej 66261 Bredebro,ebro,225.000,04-04-2011,Alm. Salg,1.630,3,Villa,138,1827,,Aktuel værdi
+Trælborgvej 176261 Bredebro,ebro,495.000,24-03-2011,Alm. Salg,3.018,5,Villa,164,1958,,Aktuel værdi
+Søndergade 246261 Bredebro,ebro,650.000,19-03-2011,Alm. Salg,4.850,6,Villa,134,1940,0 %,Aktuel værdi
+Møllebakken 166261 Bredebro,ebro,750.000,18-03-2011,Alm. Salg,5.905,5,Villa,127,1958,-12 %,Aktuel værdi
+Hedegårdsvej 56261 Bredebro,ebro,100.000,14-03-2011,Alm. Salg,448,7,Stuehus,223,1840,,
+Parkvej 46261 Bredebro,ebro,110.000,14-03-2011,Auktion,763,4,Villa,144,1920,,Aktuel værdi
+Hedegårdsvej 96261 Bredebro,ebro,525.000,02-03-2011,Alm. Salg,5.585,4,Stuehus,94,1953,0 %,
+Parkvej 156261 Bredebro,ebro,425.000,21-02-2011,Fam. Salg,3.269,5,Villa,130,1940,,Aktuel værdi
+Skast 606261 Bredebro,ebro,13.319.022,11-02-2011,Fam. Salg,70.845,7,Stuehus,188,1900,,
+Østervang 286261 Bredebro,ebro,575.000,04-02-2011,Alm. Salg,4.227,4,Villa,136,1968,-8 %,Aktuel værdi
+Aaspe 46261 Bredebro,ebro,406.700,04-02-2011,Fam. Salg,4.026,2,Villa,101,1880,,Aktuel værdi
+Abterp 56261 Bredebro,ebro,850.000,03-02-2011,Fam. Salg,9.550,3,Stuehus,89,1963,,
+Skråvej 136261 Bredebro,ebro,200.000,03-02-2011,Alm. Salg,1.538,5,Villa,130,1937,,Aktuel værdi
+Catharinasvej 46261 Bredebro,ebro,432.025,01-02-2011,Alm. Salg,3.130,5,Villa,138,1972,,Aktuel værdi
+Højervej 156261 Bredebro,ebro,725.000,31-01-2011,Alm. Salg,4.677,4,Villa,155,1981,-9 %,Aktuel værdi
+Abterp 326261 Bredebro,ebro,1.645.000,17-01-2011,Alm. Salg,5.614,10,Villa,293,1541,-11 %,Aktuel værdi
+Sdr Vollum 76261 Bredebro,ebro,1.845.000,08-01-2011,Alm. Salg,8.541,5,Villa,216,1842,-3 %,Aktuel værdi
+Mollerup 156261 Bredebro,ebro,1.609.000,24-11-2010,Alm. Salg,8.513,4,Villa,189,2008,-5 %,Aktuel værdi
+Bunti 186261 Bredebro,ebro,85.000,21-10-2010,Alm. Salg,1.603,3,Villa,53,1955,,Aktuel værdi
+Vesterende 17A6261 Bredebro,ebro,750.000,16-10-2010,Alm. Salg,8.152,5,Villa,92,1973,-16 %,Aktuel værdi
+Strandvej 15B6261 Bredebro,ebro,500.000,12-10-2010,Alm. Salg,1.650,8,Villa,303,1909,,Aktuel værdi
+Østerende 146261 Bredebro,ebro,169.500,05-10-2010,Alm. Salg,847,7,Stuehus,200,1897,,
+Randerup 76261 Bredebro,ebro,927.064,01-10-2010,Alm. Salg,5.794,3,Stuehus,160,1972,,
+K L Knudsens Vej 256261 Bredebro,ebro,260.000,27-09-2010,Fam. Salg,1.405,5,Stuehus,185,2012,,
+Høybergvej 576261 Bredebro,ebro,495.000,09-09-2010,Alm. Salg,5.892,4,Villa,84,1935,0 %,Aktuel værdi
+Skast 806261 Bredebro,ebro,48.000,09-09-2010,Auktion,271,5,Villa,177,1877,,Aktuel værdi
+Søndergade 566261 Bredebro,ebro,300.000,25-08-2010,Alm. Salg,3.370,3,Villa,89,1948,-12 %,Aktuel værdi
+Søndervang 316261 Bredebro,ebro,550.000,09-08-2010,Alm. Salg,4.230,4,Villa,130,1972,-12 %,Aktuel værdi
+Ballum Hede 16261 Bredebro,ebro,290.000,14-07-2010,Alm. Salg,2.338,3,Villa,124,1932,-25 %,Aktuel værdi
+Søndervang 656261 Bredebro,ebro,550.000,03-07-2010,Alm. Salg,4.954,3,Villa,111,1972,-8 %,Aktuel værdi
+Parkvej 13A6261 Bredebro,ebro,275.000,02-07-2010,Alm. Salg,2.083,5,Villa,132,1936,-8 %,Aktuel værdi
+Brede Bygade 216261 Bredebro,ebro,519.375,01-07-2010,Alm. Salg,2.210,10,Villa,235,1914,,Aktuel værdi
+Ø Gammelby 256261 Bredebro,ebro,250.000,15-06-2010,Alm. Salg,2.688,3,Villa,93,1910,-9 %,Aktuel værdi
+Borg 466261 Bredebro,ebro,135.000,27-05-2010,Alm. Salg,1.534,3,Villa,88,1927,0 %,Aktuel værdi
+Randerup 236261 Bredebro,ebro,125.000,26-05-2010,Alm. Salg,1.315,3,Villa,95,1909,,Aktuel værdi
+Vestervang 26261 Bredebro,ebro,975.000,06-05-2010,Alm. Salg,7.500,5,Villa,130,1973,-7 %,Aktuel værdi
+Gaden 396261 Bredebro,ebro,3.000.000,06-05-2010,Alm. Salg,17.964,6,Villa,167,1877,,Aktuel værdi
+Vesterende 556261 Bredebro,ebro,8.550.000,04-05-2010,Alm. Salg,43.401,7,Stuehus,197,1968,,
+Høybergvej 696261 Bredebro,ebro,410.000,27-04-2010,Alm. Salg,3.014,5,Villa,136,1900,-4 %,Aktuel værdi
+Nr Vollum 36261 Bredebro,ebro,420.000,09-04-2010,Alm. Salg,4.000,5,Villa,105,1952,-5 %,Aktuel værdi
+Søndergade 426261 Bredebro,ebro,550.000,31-03-2010,Alm. Salg,5.238,3,Villa,105,1950,-4 %,Aktuel værdi
+Høybergvej 476261 Bredebro,ebro,160.000,25-03-2010,Auktion,2.077,4,Villa,77,1942,,Aktuel værdi
+Grønagervej 56261 Bredebro,ebro,800.000,22-03-2010,Alm. Salg,6.557,4,Villa,122,1969,-11 %,Aktuel værdi
+Galgemark 56261 Bredebro,ebro,236.968,19-03-2010,Fam. Salg,2.078,4,Villa,114,1964,,Aktuel værdi
+Harknagvej 786261 Bredebro,ebro,750.000,05-03-2010,Alm. Salg,4.411,5,Stuehus,170,1969,,
+Skast 356261 Bredebro,ebro,400.000,30-01-2010,Alm. Salg,6.666,2,Villa,60,1959,-6 %,Aktuel værdi
+Søndervang 366261 Bredebro,ebro,625.000,30-01-2010,Alm. Salg,3.571,5,Villa,175,1972,-10 %,Aktuel værdi
+Vesterende 66261 Bredebro,ebro,1.050.000,28-01-2010,Alm. Salg,7.954,5,Villa,132,1825,,Aktuel værdi
+Harknagvej 86261 Bredebro,ebro,595.000,08-01-2010,Alm. Salg,5.833,4,Villa,102,1961,-7 %,Aktuel værdi
+Høybergvej 76261 Bredebro,ebro,312.500,04-01-2010,Alm. Salg,2.604,4,Villa,120,1949,,Aktuel værdi
+Parkvej 36261 Bredebro,ebro,427.702,29-12-2009,Alm. Salg,2.851,5,Villa,150,1920,,Aktuel værdi
+Gaden 286261 Bredebro,ebro,475.000,03-12-2009,Alm. Salg,4.750,4,Villa,100,1966,,Aktuel værdi
+Sdr Vollum 16261 Bredebro,ebro,975.000,26-11-2009,Alm. Salg,6.500,5,Stuehus,150,1863,,
+Møllebakken 26261 Bredebro,ebro,1.000.000,05-11-2009,Alm. Salg,3.802,9,Villa,263,1970,,Aktuel værdi
+Borgvej 186261 Bredebro,ebro,149.272,01-10-2009,Andet,2.530,3,Villa,59,1953,,Aktuel værdi
+Harknagvej 166261 Bredebro,ebro,410.000,10-09-2009,Auktion,3.796,4,Villa,108,1970,,Aktuel værdi
+Borg 286261 Bredebro,ebro,335.000,10-09-2009,Auktion,2.791,6,Villa,120,1900,,Aktuel værdi
+Ø Gammelby 166261 Bredebro,ebro,153.255,03-09-2009,Alm. Salg,681,7,Stuehus,225,1800,,
+Kystvej 206261 Bredebro,ebro,405.000,20-08-2009,Auktion,1.857,8,Villa,218,1975,,Aktuel værdi
+Søndervang 59C6261 Bredebro,ebro,490.000,13-08-2009,Alm. Salg,6.049,3,Rækkehus,81,1983,-10 %,Aktuel værdi
+"Storegade 34, 16261 Bredebro",ebro,445.000,29-07-2009,Alm. Salg,3.476,8,Villa,128,1930,,Aktuel værdi
+Møllebakken 86261 Bredebro,ebro,975.000,25-07-2009,Alm. Salg,6.587,5,Villa,148,1986,,Aktuel værdi
+Borgvej 176261 Bredebro,ebro,440.000,16-07-2009,Auktion,4.583,4,Villa,96,1939,,Aktuel værdi
+Søndervang 216261 Bredebro,ebro,825.000,13-07-2009,Alm. Salg,4.342,5,Villa,190,1972,-17 %,Aktuel værdi
+Byvej 536261 Bredebro,ebro,225.000,08-07-2009,Alm. Salg,1.973,4,Villa,114,1820,,Aktuel værdi
+Borg 46261 Bredebro,ebro,1.050.000,08-07-2009,Alm. Salg,4.816,6,Villa,218,1870,-9 %,Aktuel værdi
+Kirkegade 46261 Bredebro,ebro,500.000,02-07-2009,Alm. Salg,5.000,3,Rækkehus,100,1870,,Aktuel værdi
+Rejsby 276261 Bredebro,ebro,2.225.000,01-07-2009,Alm. Salg,9.044,6,Villa,246,2001,,Aktuel værdi
+Tingvej 16261 Bredebro,ebro,475.000,23-06-2009,Alm. Salg,3.861,4,Villa,123,1917,-5 %,Aktuel værdi
+Randerup 406261 Bredebro,ebro,140.000,16-06-2009,Alm. Salg,880,5,Stuehus,159,1777,,
+Parkvej 66261 Bredebro,ebro,540.000,02-06-2009,Alm. Salg,5.454,3,Villa,99,1902,-4 %,Aktuel værdi
+Danmarksgade 36261 Bredebro,ebro,730.000,01-05-2009,Alm. Salg,5.447,5,Rækkehus,134,1886,-17 %,Aktuel værdi
+Gallehøjvej 46261 Bredebro,ebro,1.025.000,30-04-2009,Alm. Salg,5.857,3,Stuehus,175,1960,,
+Søndervang 286261 Bredebro,ebro,925.000,23-04-2009,Alm. Salg,-,5,Villa,140,1972,-7 %,Aktuel værdi
+Brede Bygade 296261 Bredebro,ebro,500.000,17-04-2009,Fam. Salg,6.024,3,Villa,83,1961,,Aktuel værdi
+Borg 446261 Bredebro,ebro,750.000,04-04-2009,Alm. Salg,4.746,5,Villa,158,1876,-12 %,Aktuel værdi
+Storegade 66261 Bredebro,ebro,170.400,11-03-2009,Alm. Salg,1.704,3,Villa,100,1941,,Aktuel værdi
+Møllevej 156261 Bredebro,ebro,5.000.000,20-02-2009,Alm. Salg,37.878,5,Stuehus,132,1929,,
+Kummerlev 116261 Bredebro,ebro,364.000,17-02-2009,Alm. Salg,1.562,5,Stuehus,233,1959,,
+Trælborgvej 56261 Bredebro,ebro,825.000,13-02-2009,Alm. Salg,6.707,4,Villa,123,1963,-8 %,Aktuel værdi
+Randerup 116261 Bredebro,ebro,1.535.220,12-02-2009,Alm. Salg,6.044,7,Stuehus,254,1860,,
+Vænget 16261 Bredebro,ebro,800.000,30-01-2009,Alm. Salg,5.673,5,Villa,141,1974,,Aktuel værdi
+Randerup 726261 Bredebro,ebro,298.340,16-01-2009,Alm. Salg,1.117,8,Stuehus,267,1959,,
+Gaden 96261 Bredebro,ebro,500.000,06-01-2009,Alm. Salg,3.968,5,Villa,126,1839,,Aktuel værdi
+Kystvej 256261 Bredebro,ebro,430.000,01-01-2009,Alm. Salg,5.058,3,Villa,85,1952,,Aktuel værdi
+Ballum Hede 126261 Bredebro,ebro,166.600,19-12-2008,Fam. Salg,1.851,3,Stuehus,90,1825,,
+Mølbyvej 136261 Bredebro,ebro,416.500,19-12-2008,Fam. Salg,3.470,4,Villa,120,1954,,Aktuel værdi
+Østerende 216261 Bredebro,ebro,650.000,10-12-2008,Alm. Salg,4.642,5,Villa,140,1970,,Aktuel værdi
+Ø Gammelby 176261 Bredebro,ebro,45.000,10-12-2008,Auktion,500,3,Stuehus,90,1800,,
+Søndergade 226261 Bredebro,ebro,450.000,04-12-2008,Fam. Salg,5.625,3,Villa,80,1943,,Aktuel værdi
+Sct Hansvej 86261 Bredebro,ebro,550.000,03-12-2008,Alm. Salg,3.985,4,Villa,138,1976,-21 %,Aktuel værdi
+Gaden 446261 Bredebro,ebro,1.740.000,30-11-2008,Alm. Salg,11.298,4,Villa,154,2003,,Aktuel værdi
+Munketoft 86261 Bredebro,ebro,305.000,07-11-2008,Alm. Salg,1.023,6,Villa,298,1965,,Aktuel værdi
+Abterp 166261 Bredebro,ebro,290.000,27-10-2008,Alm. Salg,3.493,2,Villa,83,1825,,Aktuel værdi
+Harknagvej 146261 Bredebro,ebro,395.000,22-09-2008,Alm. Salg,1.899,11,Villa,208,1850,-17 %,Aktuel værdi
+Ballum Hede 76261 Bredebro,ebro,625.000,22-09-2008,Fam. Salg,5.165,5,Villa,121,1881,,Aktuel værdi
+Midsommervej 1046261 Bredebro,ebro,850.000,03-09-2008,Alm. Salg,7.456,4,Villa,114,1980,-5 %,Aktuel værdi
+Enklavevej 66261 Bredebro,ebro,565.000,02-09-2008,Alm. Salg,6.010,4,Villa,94,1875,,Aktuel værdi
+Harresvej 386261 Bredebro,ebro,1.400.000,31-08-2008,Fam. Salg,8.750,4,Villa,160,1912,,Aktuel værdi
+Søndergade 376261 Bredebro,ebro,640.000,29-08-2008,Alm. Salg,7.111,3,Villa,90,1958,-7 %,Aktuel værdi
+Trøjborgvej 66261 Bredebro,ebro,740.000,20-08-2008,Alm. Salg,4.021,6,Villa,184,1910,0 %,Aktuel værdi
+Galgemark 146261 Bredebro,ebro,1.315.000,20-08-2008,Alm. Salg,11.846,4,Stuehus,111,1930,,
+Høybergvej 53A6261 Bredebro,ebro,700.000,30-07-2008,Alm. Salg,5.072,5,Villa,138,1979,-7 %,Aktuel værdi
+Gaden 336261 Bredebro,ebro,561.616,15-07-2008,Fam. Salg,5.506,4,Villa,102,1970,,Aktuel værdi
+Bunti 246261 Bredebro,ebro,1.100.000,09-07-2008,Fam. Salg,8.088,4,Stuehus,136,1848,,
+Midsommervej 1086261 Bredebro,ebro,1.040.000,03-07-2008,Alm. Salg,8.739,4,Villa,119,1980,-5 %,Aktuel værdi
+Brinkvej 136261 Bredebro,ebro,750.000,27-06-2008,Alm. Salg,3.623,8,Stuehus,207,1971,,
+Bunti 216261 Bredebro,ebro,650.000,17-06-2008,Alm. Salg,3.651,5,Stuehus,178,1970,0 %,
+Lagervej 66261 Bredebro,ebro,325.000,12-06-2008,Alm. Salg,2.850,5,Villa,114,1931,-28 %,Aktuel værdi
+Borg 406261 Bredebro,ebro,725.000,08-06-2008,Alm. Salg,6.041,3,Stuehus,120,1955,-3 %,
+Borg 276261 Bredebro,ebro,585.000,30-05-2008,Alm. Salg,1.695,8,Villa,345,1915,-6 %,Aktuel værdi
+Abterp 316261 Bredebro,ebro,370.000,29-05-2008,Alm. Salg,3.245,5,Villa,114,1959,-13 %,Aktuel værdi
+Søndergade 526261 Bredebro,ebro,275.000,22-05-2008,Alm. Salg,2.455,4,Villa,112,1936,,Aktuel værdi
+K L Knudsens Vej 146261 Bredebro,ebro,560.000,19-05-2008,Alm. Salg,4.666,3,Villa,120,1976,-6 %,Aktuel værdi
+Byvej 516261 Bredebro,ebro,365.500,25-04-2008,Alm. Salg,4.403,2,Villa,83,1901,,Aktuel værdi
+Vænget 46261 Bredebro,ebro,700.000,23-04-2008,Alm. Salg,5.645,4,Villa,124,1971,-1 %,Aktuel værdi
+Bunti 206261 Bredebro,ebro,544.138,16-04-2008,Alm. Salg,2.053,9,Villa,265,1910,,Aktuel værdi
+Vesterende 256261 Bredebro,ebro,220.000,15-04-2008,Alm. Salg,1.333,5,Villa,165,2009,,Aktuel værdi
+Byvej 486261 Bredebro,ebro,525.000,10-04-2008,Alm. Salg,4.729,3,Villa,111,1967,-5 %,Aktuel værdi
+Ø Gammelby 286261 Bredebro,ebro,760.000,06-04-2008,Alm. Salg,5.428,5,Villa,140,1870,-4 %,Aktuel værdi
+Borg 246261 Bredebro,ebro,575.000,02-04-2008,Alm. Salg,3.571,9,Villa,161,1900,,Aktuel værdi
+Toften 36261 Bredebro,ebro,975.000,27-03-2008,Alm. Salg,6.818,3,Villa,143,1971,,Aktuel værdi
+Kringlum 76261 Bredebro,ebro,400.000,27-03-2008,Alm. Salg,3.030,5,Stuehus,132,1873,,
+Rantzausvej 76261 Bredebro,ebro,495.000,05-03-2008,Alm. Salg,4.159,5,Villa,119,1966,0 %,Aktuel værdi
+Harres 446261 Bredebro,ebro,625.000,03-03-2008,Alm. Salg,4.432,7,Stuehus,141,1870,-10 %,
+Bunti 126261 Bredebro,ebro,450.000,01-03-2008,Alm. Salg,5.172,4,Villa,87,1827,,Aktuel værdi
+Høybergvej 106261 Bredebro,ebro,375.000,29-02-2008,Fam. Salg,2.060,9,Villa,182,1910,,Aktuel værdi
+Storegade 176261 Bredebro,ebro,1.020.000,28-02-2008,Alm. Salg,7.083,3,Lejlighed,144,1922,,Aktuel værdi
+Søndergade 266261 Bredebro,ebro,590.000,19-02-2008,Fam. Salg,4.214,4,Villa,140,1923,,Aktuel værdi
+Søndervang 26261 Bredebro,ebro,680.000,16-02-2008,Alm. Salg,4.503,4,Villa,151,1968,-9 %,Aktuel værdi
+Strandvej 196261 Bredebro,ebro,1.450.000,15-02-2008,Alm. Salg,17.261,3,Villa,84,1870,,Aktuel værdi
+Parkvej 316261 Bredebro,ebro,850.000,25-01-2008,Fam. Salg,4.427,6,Villa,192,1960,,Aktuel værdi
+Skast 826261 Bredebro,ebro,537.200,24-01-2008,Alm. Salg,4.476,4,Stuehus,120,1870,,
+Skast 836261 Bredebro,ebro,778.600,24-01-2008,Alm. Salg,3.190,9,Stuehus,244,1977,,
+Harres 506261 Bredebro,ebro,2.260.000,11-01-2008,Alm. Salg,9.456,5,Stuehus,239,1927,,
+Borgmark 16261 Bredebro,ebro,175.000,11-01-2008,Alm. Salg,583,10,Villa,300,1866,,Aktuel værdi
+Rantzausvænget 86261 Bredebro,ebro,36.960,31-12-2007,Alm. Salg,284,3,Villa,130,2008,,Aktuel værdi
+Aaspe 26261 Bredebro,ebro,415.000,20-12-2007,Alm. Salg,3.547,4,Villa,117,1942,,Aktuel værdi
+Rantzausvej 46261 Bredebro,ebro,665.000,17-12-2007,Alm. Salg,6.157,5,Villa,108,1969,,Aktuel værdi
+Brede Bygade 136261 Bredebro,ebro,1.100.000,10-12-2007,Alm. Salg,6.111,5,Villa,180,1910,,Aktuel værdi
+Østerende 106261 Bredebro,ebro,600.000,30-11-2007,Alm. Salg,5.217,6,Villa,115,1877,-8 %,Aktuel værdi
+Bosholmvej 16261 Bredebro,ebro,835.000,23-11-2007,Alm. Salg,6.574,4,Villa,127,1979,,Aktuel værdi
+Nørrevej 616261 Bredebro,ebro,500.000,04-11-2007,Fam. Salg,3.571,6,Villa,140,1956,,Aktuel værdi
+Østervang 76261 Bredebro,ebro,339.500,29-10-2007,Fam. Salg,4.041,3,Villa,84,1965,,Aktuel værdi
+K L Knudsens Vej 416261 Bredebro,ebro,745.000,25-10-2007,Alm. Salg,7.450,5,Villa,100,1940,,Aktuel værdi
+Storde 36261 Bredebro,ebro,161.625,20-10-2007,Alm. Salg,734,9,Stuehus,220,1980,,
+Bunti 306261 Bredebro,ebro,1.050.000,18-10-2007,Alm. Salg,5.497,10,Stuehus,191,1875,,
+Byvej 326261 Bredebro,ebro,825.000,17-10-2007,Alm. Salg,5.221,5,Villa,158,1977,,Aktuel værdi
+Stationsvej 146261 Bredebro,ebro,700.000,12-10-2007,Alm. Salg,6.363,4,Villa,110,1961,,Aktuel værdi
+Østervang 296261 Bredebro,ebro,740.000,04-10-2007,Alm. Salg,5.481,6,Villa,135,1968,,Aktuel værdi
+Sct Hansvej 126261 Bredebro,ebro,712.500,01-10-2007,Alm. Salg,5.397,4,Villa,132,1976,,Aktuel værdi
+Trælborgvej 246261 Bredebro,ebro,925.000,27-09-2007,Alm. Salg,6.250,6,Villa,148,1965,,Aktuel værdi
+Abterp 226261 Bredebro,ebro,575.000,25-09-2007,Alm. Salg,4.020,5,Villa,143,1740,,Aktuel værdi
+Galgemark 96261 Bredebro,ebro,1.800.000,25-09-2007,Alm. Salg,12.765,3,Villa,141,1990,,Aktuel værdi
+Vænget 96261 Bredebro,ebro,765.000,20-09-2007,Alm. Salg,4.751,6,Villa,161,1971,,Aktuel værdi
+Borg 396261 Bredebro,ebro,60.599,17-09-2007,Fam. Salg,1.009,2,Villa,60,1850,,Aktuel værdi
+Genforeningsvej 76261 Bredebro,ebro,595.000,10-09-2007,Alm. Salg,4.798,4,Villa,124,1937,,Aktuel værdi
+Hovedvejen 276261 Bredebro,ebro,175.000,01-09-2007,Alm. Salg,1.388,3,Villa,126,1900,,Aktuel værdi
+Søndergade 356261 Bredebro,ebro,450.500,30-08-2007,Fam. Salg,4.692,3,Villa,96,1962,,Aktuel værdi
+Håndværkervej 96261 Bredebro,ebro,145.200,29-08-2007,Alm. Salg,772,7,Villa,188,2009,,Aktuel værdi
+Storegade 366261 Bredebro,ebro,450.000,22-08-2007,Alm. Salg,3.688,6,Villa,122,1902,,Aktuel værdi
+Aaspe 86261 Bredebro,ebro,475.917,21-08-2007,Alm. Salg,1.991,5,Villa,239,1900,,Aktuel værdi
+Sdr Vollum 96261 Bredebro,ebro,2.357.575,21-08-2007,Alm. Salg,6.406,11,Villa,368,1921,3 %,Aktuel værdi
+Gaden 406261 Bredebro,ebro,1.100.000,16-08-2007,Alm. Salg,6.666,5,Villa,165,1977,,Aktuel værdi
+Søndergade 156261 Bredebro,ebro,575.000,15-08-2007,Alm. Salg,6.250,3,Villa,92,1962,,Aktuel værdi
+Gallehøjvej 26261 Bredebro,ebro,1.166.400,15-08-2007,Alm. Salg,6.106,6,Villa,191,1929,,Aktuel værdi
+Vesterende 156261 Bredebro,ebro,1.215.000,14-08-2007,Alm. Salg,6.167,9,Villa,197,1899,-5 %,Aktuel værdi
+Randerup 306261 Bredebro,ebro,600.000,14-08-2007,Alm. Salg,5.217,4,Villa,115,1879,-4 %,Aktuel værdi
+Langagervej 526261 Bredebro,ebro,960.000,09-08-2007,Alm. Salg,7.559,5,Villa,127,1975,,Aktuel værdi
+Høybergvej 4B6261 Bredebro,ebro,700.000,08-08-2007,Alm. Salg,3.888,6,Villa,180,1977,-7 %,Aktuel værdi
+Borgvej 96261 Bredebro,ebro,710.000,03-08-2007,Alm. Salg,7.888,2,Villa,90,1937,,Aktuel værdi
+Randerup 206261 Bredebro,ebro,395.000,03-08-2007,Alm. Salg,3.347,4,Villa,118,1949,,Aktuel værdi
+Nørby 16261 Bredebro,ebro,595.000,22-07-2007,Alm. Salg,7.256,2,Villa,82,1877,0 %,Aktuel værdi
+Trælborg 16261 Bredebro,ebro,200.000,21-07-2007,Alm. Salg,1.515,5,Stuehus,132,1922,,
+Sct Hansvej 146261 Bredebro,ebro,925.000,20-07-2007,Alm. Salg,6.702,5,Villa,138,1977,,Aktuel værdi
+Harknagvej 236261 Bredebro,ebro,545.000,19-07-2007,Alm. Salg,7.364,3,Villa,74,1633,,Aktuel værdi
+Husumvej 136261 Bredebro,ebro,88.822,11-07-2007,Andet,409,6,Stuehus,217,1868,,
+Østerende 11A6261 Bredebro,ebro,187.792,10-07-2007,Andet,779,8,Villa,241,1827,,Aktuel værdi
+Husumvej 46261 Bredebro,ebro,314.822,10-07-2007,Andet,1.229,8,Stuehus,256,1900,,
+Borgvej 156261 Bredebro,ebro,380.000,10-07-2007,Alm. Salg,3.958,4,Villa,96,1967,,Aktuel værdi
+Høybergvej 746261 Bredebro,ebro,1.065.000,06-07-2007,Alm. Salg,5.605,5,Villa,190,1927,,Aktuel værdi
+Krovej 216261 Bredebro,ebro,600.000,05-07-2007,Alm. Salg,5.000,6,Villa,120,1907,,Aktuel værdi
+Borg 296261 Bredebro,ebro,325.000,03-07-2007,Alm. Salg,4.062,3,Villa,80,1900,-8 %,Aktuel værdi
+Randerup 176261 Bredebro,ebro,792.000,28-06-2007,Alm. Salg,3.771,9,Stuehus,210,1844,,
+Kystvej 236261 Bredebro,ebro,800.000,27-06-2007,Alm. Salg,3.478,14,Villa,230,1890,,Aktuel værdi
+Rantzausvej 366261 Bredebro,ebro,416.500,25-06-2007,Fam. Salg,3.500,5,Villa,119,1973,,Aktuel værdi
+Søndervang 55A6261 Bredebro,ebro,360.000,25-06-2007,Alm. Salg,5.806,2,Rækkehus,62,1980,-8 %,Aktuel værdi
+Søndergade 406261 Bredebro,ebro,590.000,20-06-2007,Alm. Salg,6.704,4,Villa,88,1957,,Aktuel værdi
+Krovej 2A6261 Bredebro,ebro,255.000,16-06-2007,Alm. Salg,3.493,2,Villa,73,1935,-7 %,Aktuel værdi
+Enklavevej 16261 Bredebro,ebro,535.000,10-06-2007,Alm. Salg,6.687,4,Villa,80,1928,,Aktuel værdi
+Farverhusvej 206261 Bredebro,ebro,1.300.000,10-06-2007,Alm. Salg,6.598,8,Villa,197,1978,,Aktuel værdi
+Østerende 96261 Bredebro,ebro,600.000,30-05-2007,Andet,-,6,Villa,174,1817,,Aktuel værdi
+Sct Hansvej 296261 Bredebro,ebro,775.000,25-05-2007,Andet,5.166,5,Villa,150,1977,,Aktuel værdi
+Ø Gammelby 326261 Bredebro,ebro,1.098.000,24-05-2007,Alm. Salg,6.614,4,Stuehus,166,1947,,
+Ø Gammelby 226261 Bredebro,ebro,470.000,17-05-2007,Alm. Salg,2.079,7,Villa,226,1880,,Aktuel værdi
+Kystvej 26261 Bredebro,ebro,786.750,10-05-2007,Alm. Salg,2.613,6,Stuehus,301,2008,,
+Møllebakken 286261 Bredebro,ebro,1.800.000,03-05-2007,Alm. Salg,9.045,5,Villa,199,2000,,Aktuel værdi
+Borg 636261 Bredebro,ebro,585.000,03-05-2007,Alm. Salg,5.270,5,Villa,111,1982,-5 %,Aktuel værdi
+Byvej 526261 Bredebro,ebro,625.000,26-04-2007,Alm. Salg,5.208,4,Villa,120,1964,,Aktuel værdi
+Bunti 146261 Bredebro,ebro,590.000,25-04-2007,Alm. Salg,4.125,6,Villa,143,1875,-5 %,Aktuel værdi
+Strandvej 26261 Bredebro,ebro,2.212.721,20-04-2007,Alm. Salg,8.287,8,Stuehus,267,1802,,
+Borg 86261 Bredebro,ebro,4.321.220,20-04-2007,Alm. Salg,12.709,7,Stuehus,340,1880,,
+Trælborg 96261 Bredebro,ebro,564.000,19-04-2007,Alm. Salg,3.016,7,Stuehus,187,1897,,
+Nygade 96261 Bredebro,ebro,850.000,15-04-2007,Alm. Salg,5.000,5,Villa,170,1927,-5 %,Aktuel værdi
+Søndergade 126261 Bredebro,ebro,500.000,13-04-2007,Fam. Salg,4.000,3,Villa,125,1965,,Aktuel værdi
+Borg 666261 Bredebro,ebro,870.000,25-03-2007,Alm. Salg,6.692,4,Villa,130,1954,,Aktuel værdi
+Kringlum 56261 Bredebro,ebro,875.000,23-03-2007,Alm. Salg,6.889,5,Stuehus,127,1963,,
+Trøjborgvej 166261 Bredebro,ebro,1.028.000,08-03-2007,Alm. Salg,4.548,7,Villa,226,1930,-4 %,Aktuel værdi
+Harres 666261 Bredebro,ebro,276.831,21-02-2007,Fam. Salg,2.050,5,Stuehus,135,1936,,
+Kummerlev 76261 Bredebro,ebro,887.500,14-02-2007,Alm. Salg,6.163,4,Stuehus,144,1935,,
+Harres 126261 Bredebro,ebro,855.000,13-02-2007,Alm. Salg,3.750,7,Villa,228,1900,,Aktuel værdi
+Søndervang 57B6261 Bredebro,ebro,435.000,30-01-2007,Alm. Salg,5.649,3,Rækkehus,77,1980,-8 %,Aktuel værdi
+Ø Gammelby 276261 Bredebro,ebro,385.000,24-01-2007,Alm. Salg,2.961,5,Villa,130,1775,,Aktuel værdi
+Toften 26261 Bredebro,ebro,1.000.000,22-01-2007,Alm. Salg,4.405,8,Villa,227,1964,,Aktuel værdi
+Nr Vollum 156261 Bredebro,ebro,1.400.000,15-01-2007,Alm. Salg,8.235,6,Stuehus,170,1876,,
+Randerup 346261 Bredebro,ebro,275.000,15-01-2007,Alm. Salg,4.365,3,Villa,63,1892,,Aktuel værdi
+Trøjborgvej 266261 Bredebro,ebro,310.000,09-01-2007,Alm. Salg,3.522,3,Villa,88,1963,,Aktuel værdi
+Abterp 406261 Bredebro,ebro,3.150.000,19-12-2006,Fam. Salg,14.516,5,Stuehus,217,1936,,
+Skast 26261 Bredebro,ebro,1.000.000,07-12-2006,Alm. Salg,10.000,4,Stuehus,100,1875,,
+Harknagvej 36261 Bredebro,ebro,330.000,24-11-2006,Alm. Salg,3.142,4,Villa,105,1936,,Aktuel værdi
+Skast 276261 Bredebro,ebro,450.000,23-11-2006,Fam. Salg,3.191,5,Villa,141,1972,,Aktuel værdi
+Abterp 26261 Bredebro,ebro,495.000,09-11-2006,Alm. Salg,4.125,3,Villa,120,1970,,Aktuel værdi
+Harres 306261 Bredebro,ebro,9.884.343,01-11-2006,Alm. Salg,29.505,10,Stuehus,335,1908,,
+Søndergade 306261 Bredebro,ebro,350.000,26-10-2006,Alm. Salg,4.375,3,Villa,80,1930,,Aktuel værdi
+Strandvej 96261 Bredebro,ebro,725.000,20-10-2006,Alm. Salg,6.041,5,Villa,120,1907,,Aktuel værdi
+Ø Gammelby 136261 Bredebro,ebro,300.000,20-10-2006,Alm. Salg,2.307,4,Stuehus,130,1870,,
+Vestervang 246261 Bredebro,ebro,650.000,09-10-2006,Alm. Salg,4.421,5,Stuehus,147,1942,,
+Harknagvej 4B6261 Bredebro,ebro,780.000,09-10-2006,Alm. Salg,5.571,5,Villa,140,1980,,Aktuel værdi
+Søndergade 536261 Bredebro,ebro,475.376,02-10-2006,Alm. Salg,4.753,5,Villa,100,1937,,Aktuel værdi
+Rejsby 236261 Bredebro,ebro,350.000,28-09-2006,Alm. Salg,2.464,4,Stuehus,142,1870,,
+Borg 96261 Bredebro,ebro,275.000,14-09-2006,Alm. Salg,925,4,Stuehus,297,1868,,
+Borg 226261 Bredebro,ebro,275.000,14-09-2006,Alm. Salg,1.328,6,Stuehus,207,1905,,
+Søndervang 16261 Bredebro,ebro,750.000,06-09-2006,Alm. Salg,5.555,4,Villa,135,1968,,Aktuel værdi
+Bomvej 126261 Bredebro,ebro,875.000,05-09-2006,Alm. Salg,5.368,6,Villa,163,1944,,Aktuel værdi
+Høybergvej 496261 Bredebro,ebro,185.491,30-08-2006,Alm. Salg,1.717,4,Villa,108,1942,,Aktuel værdi
+Langagervej 506261 Bredebro,ebro,280.000,29-08-2006,Andet,2.089,8,Villa,134,1895,,Aktuel værdi
+Tingvej 56261 Bredebro,ebro,500.000,25-08-2006,Alm. Salg,5.263,4,Villa,95,1957,,Aktuel værdi
+Håndværkervej 76261 Bredebro,ebro,124.872,18-08-2006,Alm. Salg,671,5,Villa,186,2007,,Aktuel værdi
+Skast 216261 Bredebro,ebro,300.000,16-08-2006,Alm. Salg,2.727,3,Villa,110,1900,,Aktuel værdi
+Gaden 146261 Bredebro,ebro,985.000,15-08-2006,Alm. Salg,7.817,6,Villa,126,1845,,Aktuel værdi
+Vesterende 336261 Bredebro,ebro,1.100.000,03-08-2006,Alm. Salg,-,8,Villa,202,1875,,Aktuel værdi
+Catharinasvej 86261 Bredebro,ebro,850.000,11-07-2006,Alm. Salg,4.207,3,Villa,202,1979,,Aktuel værdi
+Høybergvej 4A6261 Bredebro,ebro,350.000,08-07-2006,Alm. Salg,2.651,4,Villa,132,1775,,Aktuel værdi
+Bomvej 16261 Bredebro,ebro,405.000,03-07-2006,Alm. Salg,3.857,5,Villa,105,1937,,Aktuel værdi
+Lagervej 96261 Bredebro,ebro,423.000,15-06-2006,Alm. Salg,3.021,3,Villa,140,1935,,Aktuel værdi
+Trøjborgvej 116261 Bredebro,ebro,625.000,24-05-2006,Fam. Salg,3.858,5,Stuehus,162,1930,,
+Slippevej 146261 Bredebro,ebro,235.000,10-05-2006,Alm. Salg,1.958,4,Villa,120,1891,,Aktuel værdi
+Kniplestien 46261 Bredebro,ebro,900.000,26-04-2006,Alm. Salg,4.736,7,Villa,190,1850,,Aktuel værdi
+Borgmark 56261 Bredebro,ebro,1.037.150,30-03-2006,Fam. Salg,6.564,6,Stuehus,158,1876,,
+Sct Hansvej 606261 Bredebro,ebro,540.000,22-03-2006,Alm. Salg,4.695,4,Villa,115,1978,,Aktuel værdi
+Møllevej 56261 Bredebro,ebro,2.450.000,16-03-2006,Alm. Salg,8.687,7,Stuehus,282,1929,,
+Gaden 296261 Bredebro,ebro,315.000,15-03-2006,Alm. Salg,2.086,5,Villa,151,1972,,Aktuel værdi
+Rejsby 76261 Bredebro,ebro,800.000,13-03-2006,Alm. Salg,4.848,5,Villa,165,1856,,Aktuel værdi
+Sct Hansvej 206261 Bredebro,ebro,835.000,01-03-2006,Alm. Salg,6.844,4,Villa,122,1977,,Aktuel værdi
+Nørby 236261 Bredebro,ebro,370.000,24-01-2006,Alm. Salg,2.624,6,Villa,141,1890,,Aktuel værdi
+Løgumklostervej 36261 Bredebro,ebro,760.000,22-01-2006,Alm. Salg,4.935,4,Villa,154,1971,,Aktuel værdi
+Borg 436261 Bredebro,ebro,250.000,21-01-2006,Fam. Salg,2.747,4,Villa,91,1877,,Aktuel værdi
+Stationsvej 116261 Bredebro,ebro,301.000,18-01-2006,Alm. Salg,2.229,6,Villa,135,1953,,Aktuel værdi
+Borgvej 76261 Bredebro,ebro,400.000,12-01-2006,Alm. Salg,3.883,4,Villa,103,1940,,Aktuel værdi
+Løgumklostervej 126261 Bredebro,ebro,725.000,11-01-2006,Alm. Salg,7.474,5,Villa,97,1954,,Aktuel værdi
+Kongenstoft 136261 Bredebro,ebro,600.000,07-01-2006,Alm. Salg,6.976,3,Villa,86,1995,,Aktuel værdi
+Sct Hansvej 566261 Bredebro,ebro,690.000,20-12-2005,Fam. Salg,4.825,5,Villa,143,1978,,Aktuel værdi
+Byvej 456261 Bredebro,ebro,795.000,13-12-2005,Alm. Salg,5.230,6,Villa,152,1850,,Aktuel værdi
+Søndergade 586261 Bredebro,ebro,770.676,13-12-2005,Fam. Salg,4.354,5,Villa,177,1981,,Aktuel værdi
+Sct Hansvej 106261 Bredebro,ebro,550.000,06-12-2005,Alm. Salg,5.392,5,Villa,102,1976,,Aktuel værdi
+Toften 46261 Bredebro,ebro,1.095.000,05-12-2005,Alm. Salg,5.918,7,Villa,185,1966,,Aktuel værdi
+Østervang 456261 Bredebro,ebro,481.979,29-11-2005,Andet,1.875,8,Villa,257,1969,,Aktuel værdi
+Løgumklostervej 186261 Bredebro,ebro,580.000,29-11-2005,Alm. Salg,6.987,3,Villa,83,1958,,Aktuel værdi
+Søndergade 396261 Bredebro,ebro,390.000,21-11-2005,Alm. Salg,4.534,4,Villa,86,1952,,Aktuel værdi
+Høybergvej 756261 Bredebro,ebro,1.025.000,16-11-2005,Alm. Salg,4.927,5,Stuehus,208,1957,,
+Borg 616261 Bredebro,ebro,425.000,17-10-2005,Alm. Salg,5.902,4,Stuehus,72,1890,,
+Randerup 266261 Bredebro,ebro,860.000,12-10-2005,Alm. Salg,4.777,6,Stuehus,180,1850,,
+Smedevej 96261 Bredebro,ebro,210.000,11-10-2005,Alm. Salg,3.000,2,Rækkehus,70,1795,,Aktuel værdi
+Høybergvej 516261 Bredebro,ebro,500.000,30-09-2005,Fam. Salg,4.310,2,Villa,116,1940,,Aktuel værdi
+Borg 206261 Bredebro,ebro,380.000,18-09-2005,Alm. Salg,2.171,5,Villa,175,2012,,Aktuel værdi
+Rantzausvej 146261 Bredebro,ebro,460.000,09-09-2005,Alm. Salg,1.940,10,Villa,237,1973,,Aktuel værdi
+Ballum Hede 86261 Bredebro,ebro,260.000,02-09-2005,Alm. Salg,1.818,5,Villa,143,1877,,Aktuel værdi
+Jernbanegade 96261 Bredebro,ebro,1.150.000,02-09-2005,Alm. Salg,8.214,9,BygningTilHandel,140,1890,,Aktuel værdi
+Gaden 46261 Bredebro,ebro,240.000,01-09-2005,Alm. Salg,3.478,2,Villa,69,1800,,Aktuel værdi
+Randerup 656261 Bredebro,ebro,340.000,23-08-2005,Alm. Salg,1.798,4,Villa,189,1850,,Aktuel værdi
+Byvej 416261 Bredebro,ebro,266.000,22-08-2005,Auktion,1.094,7,Villa,243,1777,,Aktuel værdi
+Harres 46261 Bredebro,ebro,782.000,21-08-2005,Alm. Salg,4.627,7,Villa,169,1934,,Aktuel værdi
+Krovej 2B6261 Bredebro,ebro,425.000,15-08-2005,Alm. Salg,2.707,3,Villa,157,1930,,Aktuel værdi
+Spindborg 56261 Bredebro,ebro,599.000,01-08-2005,Alm. Salg,2.559,9,Stuehus,234,1848,,
+Vollum Østermark 86261 Bredebro,ebro,720.500,31-07-2005,Fam. Salg,2.442,4,Villa,295,1953,,Aktuel værdi
+Hovedvejen 46261 Bredebro,ebro,2.420.600,06-07-2005,Fam. Salg,14.759,5,Stuehus,164,1910,,
+Nygade 116261 Bredebro,ebro,415.000,22-06-2005,Alm. Salg,-,6,Villa,175,1923,,Aktuel værdi
+Skast 556261 Bredebro,ebro,250.000,10-06-2005,Alm. Salg,1.562,6,Villa,160,1900,,Aktuel værdi
+Østervang 106261 Bredebro,ebro,650.000,09-05-2005,Alm. Salg,4.248,7,Villa,153,1963,,Aktuel værdi
+Abterp 376261 Bredebro,ebro,1.500.000,03-05-2005,Fam. Salg,13.636,2,Stuehus,110,1938,,
+Nr Vollum 96261 Bredebro,ebro,491.000,18-04-2005,Alm. Salg,2.383,5,Stuehus,206,1934,,
+Stationsvej 16261 Bredebro,ebro,635.000,11-04-2005,Alm. Salg,6.225,3,Villa,102,1954,,Aktuel værdi
+Håndværkervej 106261 Bredebro,ebro,795.000,10-04-2005,Alm. Salg,4.968,5,Villa,160,1984,,Aktuel værdi
+Høybergvej 716261 Bredebro,ebro,960.000,07-04-2005,Alm. Salg,4.304,4,Stuehus,223,1954,,
+Rejsby 316261 Bredebro,ebro,100.000,05-04-2005,Fam. Salg,892,4,Sommerhus,112,1865,,Aktuel værdi
+Søndervang 666261 Bredebro,ebro,530.000,18-03-2005,Alm. Salg,4.015,4,Villa,132,1973,,Aktuel værdi
+Hovedvejen 26261 Bredebro,ebro,300.000,16-03-2005,Alm. Salg,1.875,5,Stuehus,160,1900,,
+Aaspe 126261 Bredebro,ebro,100.000,16-03-2005,Fam. Salg,740,4,Stuehus,135,2004,,
+Brede Bygade 416261 Bredebro,ebro,300.000,02-03-2005,Alm. Salg,2.362,5,Villa,127,1912,,Aktuel værdi
+Vænget 126261 Bredebro,ebro,680.000,01-03-2005,Alm. Salg,4.387,4,Villa,155,1973,,Aktuel værdi
+Østervang 116261 Bredebro,ebro,650.000,23-02-2005,Alm. Salg,6.310,4,Villa,103,1967,,Aktuel værdi
+Borg 16261 Bredebro,ebro,399.000,18-02-2005,Alm. Salg,4.030,3,Villa,99,1900,,Aktuel værdi
+Byvej 436261 Bredebro,ebro,175.000,08-02-2005,Alm. Salg,1.699,4,Villa,103,1935,,Aktuel værdi
+Byvej 246261 Bredebro,ebro,305.000,01-02-2005,Andet,2.382,4,Villa,128,1989,,Aktuel værdi
+Rantzausvænget 136261 Bredebro,ebro,598.000,31-01-2005,Alm. Salg,4.784,4,Villa,125,1981,,Aktuel værdi
+Brinkvej 206261 Bredebro,ebro,146.293,29-01-2005,Alm. Salg,812,6,Stuehus,180,1855,,
+Harres 36261 Bredebro,ebro,665.000,28-01-2005,Alm. Salg,3.674,7,Stuehus,181,1914,,
+Rantzausvej 286261 Bredebro,ebro,285.000,25-01-2005,Auktion,2.261,4,Villa,126,1974,,Aktuel værdi
+Ø Gammelby 436261 Bredebro,ebro,251.888,05-01-2005,Alm. Salg,3.314,3,Villa,76,1925,,Aktuel værdi
+Hovedvejen 246261 Bredebro,ebro,750.000,20-12-2004,Alm. Salg,6.756,4,Stuehus,111,1931,,
+Sdr Vollum 116261 Bredebro,ebro,2.800.000,20-12-2004,Alm. Salg,9.210,9,Stuehus,304,1878,,
+Sct Hansvej 156261 Bredebro,ebro,720.000,10-12-2004,Alm. Salg,4.645,4,Villa,155,1977,,Aktuel værdi
+Smedevej 76261 Bredebro,ebro,250.000,06-12-2004,Alm. Salg,2.604,3,Rækkehus,96,1795,,Aktuel værdi
+Søndervang 686261 Bredebro,ebro,475.000,06-12-2004,Alm. Salg,5.053,4,Villa,94,1972,,Aktuel værdi
+Rantzausvej 36261 Bredebro,ebro,385.000,03-12-2004,Alm. Salg,3.262,4,Villa,118,1965,,Aktuel værdi
+Rejsby 376261 Bredebro,ebro,280.000,20-11-2004,Alm. Salg,3.733,2,Villa,75,1902,,Aktuel værdi
+Harknagvej 26261 Bredebro,ebro,495.000,13-11-2004,Alm. Salg,2.239,6,Villa,221,1847,,Aktuel værdi
+Vesterende 196261 Bredebro,ebro,375.000,03-11-2004,Alm. Salg,1.019,12,Villa,368,1923,,Aktuel værdi
+Stationsvej 156261 Bredebro,ebro,600.000,21-10-2004,Alm. Salg,4.347,5,Villa,138,1980,,Aktuel værdi
+Harres 486261 Bredebro,ebro,4.350.000,10-09-2004,Alm. Salg,60.416,3,Stuehus,72,1939,,
+Nørrevej 516261 Bredebro,ebro,435.000,02-09-2004,Alm. Salg,3.152,4,Stuehus,138,1880,,
+Hovedvejen 226261 Bredebro,ebro,484.500,04-08-2004,Alm. Salg,2.422,6,Stuehus,200,1790,,
+Nørby 126261 Bredebro,ebro,2.300.000,04-08-2004,Alm. Salg,11.500,5,Stuehus,200,1877,,
+K L Knudsens Vej 306261 Bredebro,ebro,1.050.000,03-08-2004,Fam. Salg,6.862,5,Villa,153,1971,,Aktuel værdi
+Rantzausvej 306261 Bredebro,ebro,435.000,31-07-2004,Alm. Salg,4.484,4,Villa,97,1972,,Aktuel værdi
+Møllebakken 246261 Bredebro,ebro,150.000,27-07-2004,Alm. Salg,714,5,Villa,210,2005,,Aktuel værdi
+Møllebakken 206261 Bredebro,ebro,88.500,27-07-2004,Alm. Salg,343,5,Villa,258,2006,,Aktuel værdi
+Høybergvej 4C6261 Bredebro,ebro,275.000,23-07-2004,Andet,2.254,4,Villa,122,1979,,Aktuel værdi
+Svinget 36261 Bredebro,ebro,1.050.000,29-06-2004,Alm. Salg,4.085,8,Villa,257,1975,,Aktuel værdi
+Vesterende 466261 Bredebro,ebro,695.000,26-06-2004,Alm. Salg,-,3,Villa,216,1675,,Aktuel værdi
+Søndervang 246261 Bredebro,ebro,725.000,19-06-2004,Alm. Salg,4.027,7,Villa,180,1970,,Aktuel værdi
+Lagervej 36261 Bredebro,ebro,550.000,18-06-2004,Alm. Salg,4.365,6,Villa,126,1940,,Aktuel værdi
+Borg 426261 Bredebro,ebro,285.000,09-06-2004,Alm. Salg,2.663,3,Villa,107,1825,,Aktuel værdi
+Midsommervej 906261 Bredebro,ebro,1.050.000,25-05-2004,Alm. Salg,6.603,5,Villa,159,1988,,Aktuel værdi
+Skast 646261 Bredebro,ebro,1.625.000,23-05-2004,Alm. Salg,13.429,4,Stuehus,121,1777,,
+Randerup Østermark 76261 Bredebro,ebro,1.265.000,19-05-2004,Alm. Salg,5.597,7,Stuehus,226,1965,,
+Rantzausvej 206261 Bredebro,ebro,565.000,18-05-2004,Alm. Salg,3.766,5,Villa,150,1972,,Aktuel værdi
+Borgvej 66261 Bredebro,ebro,484.500,12-05-2004,Fam. Salg,3.588,5,Villa,135,1962,,Aktuel værdi
+Brede Bygade 536261 Bredebro,ebro,2.167.500,27-04-2004,Fam. Salg,9.184,7,Stuehus,236,1780,,
+Wulffsvej 26261 Bredebro,ebro,225.000,02-04-2004,Alm. Salg,1.730,4,Villa,130,1870,,Aktuel værdi
+Sportsvej 16261 Bredebro,ebro,403.076,16-03-2004,Fam. Salg,2.942,4,Villa,137,1949,,Aktuel værdi
+Byvej 116261 Bredebro,ebro,425.000,05-03-2004,Alm. Salg,2.236,5,Villa,190,1974,,Aktuel værdi
+Trælborgvej 206261 Bredebro,ebro,400.000,23-02-2004,Alm. Salg,3.539,4,Villa,113,1967,,Aktuel værdi
+Ø Gammelby 266261 Bredebro,ebro,400.000,15-02-2004,Alm. Salg,3.809,5,Villa,105,1916,,Aktuel værdi
+Randerup 546261 Bredebro,ebro,540.000,28-01-2004,Alm. Salg,3.724,6,Stuehus,145,1960,,
+Vænget 56261 Bredebro,ebro,314.856,26-01-2004,Alm. Salg,2.385,4,Villa,132,1974,,Aktuel værdi
+Borg 556261 Bredebro,ebro,205.000,10-01-2004,Alm. Salg,2.252,3,Villa,91,1877,,Aktuel værdi
+Sct Hansvej 616261 Bredebro,ebro,534.000,09-12-2003,Andet,4.643,4,Villa,115,1978,,Aktuel værdi
+Sct Hansvej 596261 Bredebro,ebro,650.000,28-11-2003,Alm. Salg,4.012,7,Villa,162,1978,,Aktuel værdi
+Midsommervej 1026261 Bredebro,ebro,1.090.000,20-11-2003,Alm. Salg,6.411,5,Villa,170,1994,,Aktuel værdi
+Høybergvej 596261 Bredebro,ebro,1.115.000,10-11-2003,Alm. Salg,5.114,6,Stuehus,218,1904,,
+Randerup 126261 Bredebro,ebro,345.000,28-10-2003,Alm. Salg,4.312,4,Villa,80,1952,,Aktuel værdi
+Sct Hansvej 586261 Bredebro,ebro,380.000,24-10-2003,Alm. Salg,2.695,5,Villa,141,1978,,Aktuel værdi
+Bunti 226261 Bredebro,ebro,520.000,08-10-2003,Fam. Salg,3.421,6,Stuehus,152,1955,,
+Smedevej 116261 Bredebro,ebro,310.000,06-10-2003,Alm. Salg,4.133,3,Rækkehus,75,1795,,Aktuel værdi
+Sct Hansvej 266261 Bredebro,ebro,750.000,25-09-2003,Alm. Salg,5.474,5,Villa,137,1976,,Aktuel værdi
+Skast 976261 Bredebro,ebro,4.571.851,21-08-2003,Fam. Salg,15.497,8,Stuehus,295,1943,,
+Søndervang 196261 Bredebro,ebro,500.000,01-08-2003,Alm. Salg,4.166,5,Villa,120,1971,,Aktuel værdi
+Byvej 226261 Bredebro,ebro,530.000,17-07-2003,Alm. Salg,4.380,5,Villa,121,1850,,Aktuel værdi
+Gaden 276261 Bredebro,ebro,710.000,16-07-2003,Alm. Salg,4.201,7,Villa,169,1870,,Aktuel værdi
+Vesterende 246261 Bredebro,ebro,550.000,28-06-2003,Alm. Salg,2.235,5,Villa,246,1875,,Aktuel værdi
+Byvej 556261 Bredebro,ebro,30.000,23-06-2003,Alm. Salg,280,4,Villa,107,2008,,Aktuel værdi
+Vestervej 246261 Bredebro,ebro,400.000,16-06-2003,Alm. Salg,1.568,8,Stuehus,255,1871,,
+Søndervang 56A6261 Bredebro,ebro,425.000,15-05-2003,Alm. Salg,5.519,3,Rækkehus,77,1980,,Aktuel værdi
+Brede Bygade 196261 Bredebro,ebro,870.000,13-05-2003,Alm. Salg,5.370,3,Villa,162,1927,,Aktuel værdi
+Storegade 156261 Bredebro,ebro,250.000,20-04-2003,Alm. Salg,-,4,Villa,159,1890,,Aktuel værdi
+Genforeningsvej 56261 Bredebro,ebro,420.417,27-03-2003,Alm. Salg,4.671,4,Villa,90,1955,,Aktuel værdi
+Sct Hansvej 16261 Bredebro,ebro,420.000,21-03-2003,Alm. Salg,3.181,3,Villa,132,1975,,Aktuel værdi
+Abterp 236261 Bredebro,ebro,335.000,19-03-2003,Alm. Salg,2.080,4,Villa,161,1928,,Aktuel værdi
+Harresvej 306261 Bredebro,ebro,4.129.781,04-03-2003,Fam. Salg,22.444,7,Stuehus,184,1912,,
+Høybergvej 206261 Bredebro,ebro,295.000,04-03-2003,Alm. Salg,3.072,4,Villa,96,1950,,Aktuel værdi
+Møllebakken 146261 Bredebro,ebro,500.000,04-03-2003,Fam. Salg,4.545,3,Villa,110,1959,,Aktuel værdi
+Mollerup 116261 Bredebro,ebro,245.000,24-02-2003,Alm. Salg,1.424,5,Villa,172,1918,,Aktuel værdi
+Søndervang 416261 Bredebro,ebro,675.000,06-02-2003,Alm. Salg,4.891,5,Villa,138,1972,,Aktuel værdi
+Højervej 56261 Bredebro,ebro,363.731,03-01-2003,Alm. Salg,2.508,6,Villa,145,1911,,Aktuel værdi
+Østervang 276261 Bredebro,ebro,480.000,28-12-2002,Alm. Salg,5.333,3,Villa,90,1967,,Aktuel værdi
+Lunde 16261 Bredebro,ebro,775.000,19-12-2002,Alm. Salg,5.575,4,Villa,139,1959,,Aktuel værdi
+Vesterende 376261 Bredebro,ebro,480.000,21-11-2002,Alm. Salg,-,6,Villa,139,1966,,Aktuel værdi
+Slippevej 26261 Bredebro,ebro,450.000,14-11-2002,Fam. Salg,4.591,4,Villa,98,1969,,Aktuel værdi
+Vesterende 16261 Bredebro,ebro,725.000,08-11-2002,Alm. Salg,4.707,5,Villa,154,1785,,Aktuel værdi
+Nørhus 36261 Bredebro,ebro,475.000,23-10-2002,Alm. Salg,3.368,4,Villa,141,1948,,Aktuel værdi
+Aaspe 116261 Bredebro,ebro,430.000,09-10-2002,Alm. Salg,3.385,4,Villa,127,1800,,Aktuel værdi
+Vænget 116261 Bredebro,ebro,650.000,13-09-2002,Alm. Salg,4.333,6,Villa,150,1971,,Aktuel værdi
+Skast 66261 Bredebro,ebro,845.000,25-08-2002,Alm. Salg,4.747,4,Villa,178,1825,,Aktuel værdi
+Parkvej 116261 Bredebro,ebro,348.500,19-08-2002,Fam. Salg,3.450,4,Villa,101,1951,,Aktuel værdi
+Nygade 46261 Bredebro,ebro,325.000,15-08-2002,Alm. Salg,4.452,3,Villa,73,1942,,Aktuel værdi
+Lagervej 106261 Bredebro,ebro,454.000,02-08-2002,Alm. Salg,3.661,5,Villa,124,1941,,Aktuel værdi
+Østerende 186261 Bredebro,ebro,390.000,21-07-2002,Alm. Salg,3.333,5,Villa,117,1929,,Aktuel værdi
+Søndervang 59B6261 Bredebro,ebro,470.000,19-07-2002,Alm. Salg,5.875,3,Rækkehus,80,1983,,Aktuel værdi
+Husumvej 26261 Bredebro,ebro,167.617,01-07-2002,Alm. Salg,644,7,Stuehus,260,1853,,
+Vestervej 206261 Bredebro,ebro,380.000,27-06-2002,Alm. Salg,2.533,5,Villa,150,1868,,Aktuel værdi
+Skomagergade 16261 Bredebro,ebro,375.000,25-06-2002,Alm. Salg,4.166,4,Villa,90,1944,,Aktuel værdi
+K L Knudsens Vej 66261 Bredebro,ebro,440.000,20-06-2002,Alm. Salg,3.666,4,Villa,120,1963,,Aktuel værdi
+Vesterende 86261 Bredebro,ebro,645.000,14-06-2002,Alm. Salg,4.923,5,Villa,131,1890,,Aktuel værdi
+Nørby 86261 Bredebro,ebro,370.000,12-06-2002,Alm. Salg,-,3,Stuehus,120,1900,,
+Borg 656261 Bredebro,ebro,475.000,07-06-2002,Alm. Salg,4.567,3,Villa,104,1912,,Aktuel værdi
+Rejsby 96261 Bredebro,ebro,5.000.000,23-05-2002,Fam. Salg,20.833,7,Stuehus,240,1874,,
+Rantzausvej 16261 Bredebro,ebro,450.000,21-05-2002,Alm. Salg,4.128,4,Villa,109,1965,,Aktuel værdi
+Randerup 296261 Bredebro,ebro,300.000,21-05-2002,Alm. Salg,1.492,7,Villa,201,1904,,Aktuel værdi
+Trøjborgvej 56261 Bredebro,ebro,682.368,06-05-2002,Alm. Salg,3.921,5,Villa,174,1953,,Aktuel værdi
+Borg 106261 Bredebro,ebro,200.000,01-05-2002,Alm. Salg,1.333,4,Villa,150,1912,,Aktuel værdi
+Midsommervej 926261 Bredebro,ebro,900.000,30-04-2002,Alm. Salg,5.590,4,Villa,161,1980,,Aktuel værdi
+Skast 256261 Bredebro,ebro,265.000,29-04-2002,Alm. Salg,1.802,6,Villa,147,1927,,Aktuel værdi
+Byvej 406261 Bredebro,ebro,267.000,24-04-2002,Alm. Salg,1.700,3,Villa,157,1897,,Aktuel værdi
+Søndervang 55B6261 Bredebro,ebro,475.000,24-04-2002,Alm. Salg,5.219,4,Rækkehus,91,1980,,Aktuel værdi
+Søndervang 116261 Bredebro,ebro,615.000,23-04-2002,Alm. Salg,4.920,3,Villa,125,1972,,Aktuel værdi
+Ø Gammelby 476261 Bredebro,ebro,335.267,19-04-2002,Alm. Salg,1.949,6,Stuehus,172,1911,,
+Krovej 16261 Bredebro,ebro,490.893,19-03-2002,Alm. Salg,3.011,8,Villa,163,1902,,Aktuel værdi
+Trælborgvej 186261 Bredebro,ebro,608.000,18-03-2002,Alm. Salg,4.641,4,Villa,131,1966,,Aktuel værdi
+Nr Vollum 86261 Bredebro,ebro,448.000,12-03-2002,Alm. Salg,1.493,5,Villa,300,1916,,Aktuel værdi
+Nørrevej 446261 Bredebro,ebro,560.000,28-02-2002,Alm. Salg,4.057,5,Villa,138,1978,,Aktuel værdi
+Kystvej 16261 Bredebro,ebro,295.000,01-02-2002,Alm. Salg,2.950,4,Villa,100,1840,,Aktuel værdi
+Høybergvej 616261 Bredebro,ebro,450.000,21-01-2002,Alm. Salg,3.600,4,Villa,125,1956,,Aktuel værdi
+Vestervej 26261 Bredebro,ebro,280.000,06-01-2002,Alm. Salg,3.218,3,Villa,87,1959,,Aktuel værdi
+Vollum Østermark 66261 Bredebro,ebro,235.000,26-12-2001,Alm. Salg,2.196,4,Stuehus,107,1954,,
+Høybergvej 156261 Bredebro,ebro,400.000,20-12-2001,Alm. Salg,2.857,4,AndenBygningTilKontorHandelLager,140,1970,,Aktuel værdi
+Catharinasvej 66261 Bredebro,ebro,625.000,06-12-2001,Alm. Salg,4.111,5,Villa,152,1971,,Aktuel værdi
+Nørrevej 426261 Bredebro,ebro,300.000,20-11-2001,Alm. Salg,2.678,4,Villa,112,1965,,Aktuel værdi
+Harres 596261 Bredebro,ebro,2.870.169,13-11-2001,Fam. Salg,15.186,4,Stuehus,189,1981,,
+Parkvej 26261 Bredebro,ebro,138.016,05-11-2001,Alm. Salg,766,5,Villa,180,1930,,Aktuel værdi
+Brinkvej 26261 Bredebro,ebro,519.000,02-11-2001,Alm. Salg,4.023,4,Villa,129,1880,,Aktuel værdi
+Møllevej 136261 Bredebro,ebro,107.997,15-10-2001,Alm. Salg,586,5,Stuehus,184,1929,,
+Randerup 566261 Bredebro,ebro,650.000,18-09-2001,Alm. Salg,4.333,4,Villa,150,1932,,Aktuel værdi
+Vesterende 446261 Bredebro,ebro,725.000,17-09-2001,Alm. Salg,6.092,6,Villa,119,1875,,Aktuel værdi
+Gaden 226261 Bredebro,ebro,635.000,17-09-2001,Alm. Salg,4.568,4,Villa,139,1979,,Aktuel værdi
+Skråvej 116261 Bredebro,ebro,480.000,15-09-2001,Alm. Salg,3.243,7,Stuehus,148,1860,,
+Høybergvej 26261 Bredebro,ebro,440.000,14-09-2001,Alm. Salg,2.750,8,Villa,160,1920,,Aktuel værdi
+Kummerlev 156261 Bredebro,ebro,322.571,13-09-2001,Alm. Salg,2.054,7,Stuehus,157,1935,,
+Harres 546261 Bredebro,ebro,3.444.758,11-09-2001,Alm. Salg,15.378,7,Stuehus,224,1929,,
+Skast 786261 Bredebro,ebro,260.000,11-09-2001,Alm. Salg,2.166,5,Villa,120,1867,,Aktuel værdi
+Søndervang 436261 Bredebro,ebro,750.000,10-09-2001,Alm. Salg,4.658,5,Villa,161,1974,,Aktuel værdi
+Brogade 96261 Bredebro,ebro,275.000,06-09-2001,Alm. Salg,3.055,3,Villa,90,1980,,Aktuel værdi
+Skomagergade 46261 Bredebro,ebro,450.000,06-09-2001,Alm. Salg,3.308,4,Villa,136,1974,,Aktuel værdi
+Gaden 506261 Bredebro,ebro,60.000,31-08-2001,Alm. Salg,370,5,Villa,162,1677,,Aktuel værdi
+Kniplestien 66261 Bredebro,ebro,303.291,31-08-2001,Alm. Salg,2.049,4,Villa,148,1860,,Aktuel værdi
+Nørby 246261 Bredebro,ebro,229.016,15-08-2001,Fam. Salg,2.313,4,Stuehus,99,1870,,
+Harknagvej 396261 Bredebro,ebro,365.000,02-08-2001,Alm. Salg,2.239,7,Villa,163,1875,,Aktuel værdi
+Borg 686261 Bredebro,ebro,390.000,22-07-2001,Alm. Salg,2.785,3,Villa,140,1900,,Aktuel værdi
+Byvej 396261 Bredebro,ebro,650.000,30-06-2001,Fam. Salg,4.062,13,Anden beboelse,160,1850,,Aktuel værdi
+Sct Hansvej 526261 Bredebro,ebro,85.000,19-06-2001,Alm. Salg,669,3,Villa,127,2003,,Aktuel værdi
+Rejsby 336261 Bredebro,ebro,510.000,13-06-2001,Alm. Salg,1.984,5,Villa,257,1777,,Aktuel værdi
+Harres 16261 Bredebro,ebro,105.600,13-06-2001,Alm. Salg,-,5,Stuehus,225,1930,,
+Søndervang 206261 Bredebro,ebro,662.322,12-06-2001,Alm. Salg,4.505,5,Villa,147,1972,,Aktuel værdi
+Brede Bygade 626261 Bredebro,ebro,830.000,08-06-2001,Alm. Salg,6.058,5,Villa,137,1986,,Aktuel værdi
+Skast 246261 Bredebro,ebro,110.000,08-06-2001,Alm. Salg,1.527,5,Villa,72,1827,,Aktuel værdi
+Vangvej 36261 Bredebro,ebro,239.762,22-05-2001,Alm. Salg,1.902,5,Villa,126,1870,,Aktuel værdi
+Byvej 566261 Bredebro,ebro,190.000,04-05-2001,Auktion,722,8,Rækkehus,263,1800,,Aktuel værdi
+Trøjborgvej 186261 Bredebro,ebro,4.389.750,27-04-2001,Alm. Salg,29.660,4,Stuehus,148,1930,,
+Ø Gammelby 16261 Bredebro,ebro,231.526,27-04-2001,Alm. Salg,1.193,8,Stuehus,194,1870,,
+Bunti 16261 Bredebro,ebro,115.681,24-04-2001,Alm. Salg,596,6,Stuehus,194,1932,,
+Brede Bygade 496261 Bredebro,ebro,950.000,17-04-2001,Alm. Salg,5.621,5,Villa,169,1972,,Aktuel værdi
+Byvej 26261 Bredebro,ebro,460.000,11-04-2001,Alm. Salg,2.300,6,Villa,200,1900,,Aktuel værdi
+Håndværkervej 36261 Bredebro,ebro,123.464,09-04-2001,Alm. Salg,697,4,Villa,177,2005,,Aktuel værdi
+Østerende 16261 Bredebro,ebro,950.000,27-03-2001,Alm. Salg,3.505,9,Stuehus,271,1777,,
+Høybergvej 146261 Bredebro,ebro,310.000,26-03-2001,Alm. Salg,3.875,4,Villa,80,1830,,Aktuel værdi
+Randerup Østermark 56261 Bredebro,ebro,7.330.000,21-03-2001,Alm. Salg,45.246,6,Stuehus,162,1963,,
+Nygade 66261 Bredebro,ebro,285.000,17-03-2001,Alm. Salg,2.375,6,Villa,120,1947,,Aktuel værdi
+Brede Bygade 476261 Bredebro,ebro,400.000,17-02-2001,Alm. Salg,2.040,6,Villa,196,1951,,Aktuel værdi
+Borg 156261 Bredebro,ebro,300.000,06-02-2001,Alm. Salg,1.271,8,Stuehus,236,1923,,
+Kniplestien 186261 Bredebro,ebro,400.000,22-01-2001,Fam. Salg,2.325,5,Villa,172,1833,,Aktuel værdi
+Randerup 556261 Bredebro,ebro,540.000,10-01-2001,Alm. Salg,2.755,6,Stuehus,196,1947,,
+Skast 426261 Bredebro,ebro,274.933,07-01-2001,Alm. Salg,2.593,3,Villa,106,1952,,Aktuel værdi
+Kirkegade 96261 Bredebro,ebro,315.000,28-12-2000,Alm. Salg,3.500,3,Villa,90,1900,,Aktuel værdi
+Søndervang 166261 Bredebro,ebro,875.000,04-12-2000,Alm. Salg,4.581,7,Villa,191,1973,,Aktuel værdi
+Nørby 196261 Bredebro,ebro,620.000,22-11-2000,Alm. Salg,3.690,6,Villa,168,1930,,Aktuel værdi
+Harres 156261 Bredebro,ebro,50.000,20-11-2000,Alm. Salg,-,5,Villa,201,1890,,Aktuel værdi
+Søndergade 46261 Bredebro,ebro,500.000,27-10-2000,Alm. Salg,3.759,5,Villa,133,1929,,Aktuel værdi
+Spindborg 16261 Bredebro,ebro,260.000,23-10-2000,Alm. Salg,1.969,4,Villa,132,1872,,Aktuel værdi
+Midsommervej 1206261 Bredebro,ebro,732.155,16-10-2000,Alm. Salg,5.631,3,Villa,130,1979,,Aktuel værdi
+Harknagvej 376261 Bredebro,ebro,240.000,13-10-2000,Alm. Salg,2.330,4,Villa,103,1940,,Aktuel værdi
+Harres 266261 Bredebro,ebro,408.771,02-10-2000,Alm. Salg,3.350,5,Villa,122,1879,,Aktuel værdi
+Rantzausvej 186261 Bredebro,ebro,750.000,19-09-2000,Alm. Salg,3.947,4,Villa,190,1974,,Aktuel værdi
+Østerende 66261 Bredebro,ebro,280.000,18-09-2000,Alm. Salg,2.074,4,Villa,135,1936,,Aktuel værdi
+Harres 66261 Bredebro,ebro,507.486,14-09-2000,Alm. Salg,2.371,6,Stuehus,214,1900,,
+Abterp 136261 Bredebro,ebro,1.500.000,13-09-2000,Alm. Salg,7.317,5,Stuehus,205,1877,,
+Vesterende 406261 Bredebro,ebro,255.000,12-09-2000,Alm. Salg,-,4,Villa,162,1848,,Aktuel værdi
+Byvej 176261 Bredebro,ebro,485.000,02-09-2000,Alm. Salg,-,4,Villa,121,1973,,Aktuel værdi
+Søndergade 456261 Bredebro,ebro,505.329,16-08-2000,Alm. Salg,4.075,4,Villa,124,1964,,Aktuel værdi
+Sct Hansvej 496261 Bredebro,ebro,830.000,31-07-2000,Alm. Salg,5.646,5,Villa,147,1979,,Aktuel værdi
+Løgumklostervej 14A6261 Bredebro,ebro,340.000,07-07-2000,Alm. Salg,2.656,5,Villa,128,1954,,Aktuel værdi
+Borg 56261 Bredebro,ebro,230.000,05-07-2000,Alm. Salg,1.277,4,Villa,180,1900,,Aktuel værdi
+Harres 606261 Bredebro,ebro,350.000,29-06-2000,Alm. Salg,-,5,Villa,109,1873,,Aktuel værdi
+Høybergvej 53B6261 Bredebro,ebro,385.000,21-06-2000,Alm. Salg,3.850,4,Villa,100,1949,,Aktuel værdi
+Parkvej 56261 Bredebro,ebro,245.000,15-06-2000,Alm. Salg,3.223,3,Villa,76,1954,,Aktuel værdi
+Østervang 236261 Bredebro,ebro,445.000,07-06-2000,Alm. Salg,5.235,3,Villa,85,1965,,Aktuel værdi
+K L Knudsens Vej 456261 Bredebro,ebro,449.000,02-06-2000,Alm. Salg,3.620,4,Villa,124,1850,,Aktuel værdi
+K L Knudsens Vej 396261 Bredebro,ebro,280.000,29-05-2000,Alm. Salg,3.218,3,Villa,87,1964,,Aktuel værdi
+Ø Gammelby 506261 Bredebro,ebro,250.000,29-05-2000,Alm. Salg,1.428,5,Villa,175,1875,,Aktuel værdi
+Kirkegade 66261 Bredebro,ebro,300.000,01-04-2000,Alm. Salg,3.125,4,Rækkehus,96,1880,,Aktuel værdi
+K L Knudsens Vej 126261 Bredebro,ebro,250.000,28-03-2000,Fam. Salg,925,7,Villa,270,1826,,Aktuel værdi
+Vestervej 116261 Bredebro,ebro,135.000,20-03-2000,Alm. Salg,482,6,Villa,280,2000,,Aktuel værdi
+Strandvej 116261 Bredebro,ebro,385.000,16-03-2000,Fam. Salg,2.319,7,Villa,166,1900,,Aktuel værdi
+Farverhusvej 56261 Bredebro,ebro,385.000,16-03-2000,Alm. Salg,2.789,6,Villa,138,1889,,Aktuel værdi
+K L Knudsens Vej 426261 Bredebro,ebro,544.000,22-02-2000,Fam. Salg,-,6,Stuehus,139,1850,,
+Vesterende 276261 Bredebro,ebro,300.000,20-02-2000,Alm. Salg,-,6,Villa,293,1914,,Aktuel værdi
+Harknagvej 766261 Bredebro,ebro,240.000,20-02-2000,Alm. Salg,3.692,3,Villa,65,1957,,Aktuel værdi
+Bunti 36261 Bredebro,ebro,900.000,26-01-2000,Fam. Salg,6.164,4,Stuehus,146,1927,,
+K L Knudsens Vej 236261 Bredebro,ebro,50.000,12-12-1999,Alm. Salg,297,4,Villa,168,2009,,Aktuel værdi
+Borg 536261 Bredebro,ebro,378.000,02-12-1999,Alm. Salg,2.953,3,Villa,128,1924,,Aktuel værdi
+Borg 576261 Bredebro,ebro,2.325.000,02-12-1999,Fam. Salg,-,4,Stuehus,244,1978,,
+Kystvej 226261 Bredebro,ebro,650.000,01-12-1999,Alm. Salg,5.284,4,Villa,123,1976,,Aktuel værdi
+Byvej 136261 Bredebro,ebro,107.022,16-11-1999,Alm. Salg,578,5,Villa,185,1974,,Aktuel værdi
+Søndergade 48A6261 Bredebro,ebro,645.000,11-10-1999,Alm. Salg,4.300,5,Villa,150,1973,,Aktuel værdi
+Lunde 56261 Bredebro,ebro,1.025.000,17-09-1999,Alm. Salg,3.927,7,Stuehus,261,1951,,
+Nr Vollum 56261 Bredebro,ebro,474.000,17-09-1999,Alm. Salg,3.385,4,Villa,140,1870,,Aktuel værdi
+Midsommervej 916261 Bredebro,ebro,765.000,10-09-1999,Alm. Salg,5.100,4,Villa,150,1980,,Aktuel værdi
+Kystvej 126261 Bredebro,ebro,450.000,09-09-1999,Alm. Salg,3.409,5,Villa,132,1969,,Aktuel værdi
+Ø Gammelby 216261 Bredebro,ebro,75.000,08-09-1999,Alm. Salg,824,3,Villa,91,1860,,Aktuel værdi
+Rantzausvej 296261 Bredebro,ebro,582.000,04-09-1999,Alm. Salg,4.127,5,Villa,141,1977,,Aktuel værdi
+Lunde 36261 Bredebro,ebro,4.300.000,31-08-1999,Alm. Salg,21.500,4,Stuehus,200,1939,,
+Sdr Vollum 56261 Bredebro,ebro,1.950.000,26-08-1999,Alm. Salg,11.818,5,Stuehus,165,1971,,
+Harknagvej 296261 Bredebro,ebro,345.000,19-08-1999,Andet,3.165,6,Villa,109,1890,,Aktuel værdi
+Østerende 86261 Bredebro,ebro,625.000,18-08-1999,Alm. Salg,-,6,Villa,156,1827,,Aktuel værdi
+Vestervang 86261 Bredebro,ebro,475.000,17-08-1999,Alm. Salg,4.656,3,Villa,102,1979,,Aktuel værdi
+Harknagvej 386261 Bredebro,ebro,190.000,28-07-1999,Alm. Salg,1.900,4,Villa,100,1942,,Aktuel værdi
+Aaspe 146261 Bredebro,ebro,60.000,29-06-1999,Alm. Salg,437,3,Villa,137,1677,,Aktuel værdi
+Høybergvej 66261 Bredebro,ebro,110.000,29-06-1999,Alm. Salg,1.250,3,Villa,88,1896,,Aktuel værdi
+Rejsby 366261 Bredebro,ebro,295.000,15-06-1999,Alm. Salg,3.470,3,Villa,85,1739,,Aktuel værdi
+Vestervang 76261 Bredebro,ebro,575.000,02-06-1999,Alm. Salg,4.563,3,Villa,126,1974,,Aktuel værdi
+Løgumklostervej 26261 Bredebro,ebro,253.770,29-05-1999,Alm. Salg,1.714,7,Villa,148,1936,,Aktuel værdi
+Nr Vollum 16261 Bredebro,ebro,250.000,02-05-1999,Alm. Salg,-,4,Villa,90,1900,,Aktuel værdi
+Vesterende 36261 Bredebro,ebro,320.047,20-04-1999,Alm. Salg,3.200,3,Villa,100,1775,,Aktuel værdi
+Vænget 66261 Bredebro,ebro,760.000,10-04-1999,Alm. Salg,-,5,Villa,194,1971,,Aktuel værdi
+Vesterende 496261 Bredebro,ebro,360.000,31-03-1999,Alm. Salg,-,4,Villa,148,1800,,Aktuel værdi
+Kummerlev 136261 Bredebro,ebro,330.000,31-03-1999,Alm. Salg,3.055,3,Villa,108,1959,,Aktuel værdi
+Abterp 46261 Bredebro,ebro,625.000,01-03-1999,Alm. Salg,3.004,6,Villa,208,1932,,Aktuel værdi
+Jepsensvej 56261 Bredebro,ebro,575.000,23-02-1999,Alm. Salg,4.791,4,Rækkehus,120,1947,,Aktuel værdi
+Vollum Østermark 26261 Bredebro,ebro,661.000,16-02-1999,Alm. Salg,3.777,6,Villa,175,1936,,Aktuel værdi
+Trøjborgvej 256261 Bredebro,ebro,2.075.000,15-02-1999,Alm. Salg,14.612,5,Stuehus,142,1930,,
+Søndervang 46261 Bredebro,ebro,700.000,11-02-1999,Alm. Salg,5.185,4,Villa,135,1970,,Aktuel værdi
+Vollum Østermark 126261 Bredebro,ebro,3.600.000,10-02-1999,Alm. Salg,15.859,5,Stuehus,227,1930,,
+Østerende 196261 Bredebro,ebro,435.000,28-01-1999,Alm. Salg,2.091,7,Villa,208,1853,,Aktuel værdi
+Trælborgvej 86261 Bredebro,ebro,400.000,20-12-1998,Fam. Salg,2.857,6,Villa,140,1965,,Aktuel værdi
+Søndervang 66261 Bredebro,ebro,650.000,18-12-1998,Fam. Salg,5.000,3,Villa,130,1972,,Aktuel værdi
+Skast 666261 Bredebro,ebro,290.000,17-12-1998,Fam. Salg,-,6,Villa,151,1941,,Aktuel værdi
+Søndergade 48B6261 Bredebro,ebro,490.000,15-10-1998,Alm. Salg,4.495,3,Villa,109,1975,,Aktuel værdi
+Midsommervej 866261 Bredebro,ebro,88.555,11-10-1998,Alm. Salg,602,4,Villa,147,1999,,Aktuel værdi
+Harres 366261 Bredebro,ebro,464.009,09-10-1998,Andet,2.955,3,Villa,157,1933,,Aktuel værdi
+Byvej 386261 Bredebro,ebro,60.000,25-09-1998,Alm. Salg,500,4,Villa,120,1965,,Aktuel værdi
+Søndergade 296261 Bredebro,ebro,495.000,17-09-1998,Alm. Salg,3.413,3,Villa,145,1950,,Aktuel værdi
+Gaden 216261 Bredebro,ebro,235.000,17-09-1998,Alm. Salg,3.916,2,Villa,60,1837,,Aktuel værdi
+Borg 526261 Bredebro,ebro,410.000,16-09-1998,Fam. Salg,3.445,3,Villa,119,1775,,Aktuel værdi
+Bunti 76261 Bredebro,ebro,350.000,12-09-1998,Alm. Salg,-,5,Villa,153,1846,,Aktuel værdi
+Vesterende 416261 Bredebro,ebro,425.000,01-09-1998,Alm. Salg,-,4,Villa,178,1941,,Aktuel værdi
+Søndervang 226261 Bredebro,ebro,814.000,10-08-1998,Alm. Salg,3.894,5,Villa,209,1969,,Aktuel værdi
+Nr Vollum 126261 Bredebro,ebro,1.386.000,08-07-1998,Alm. Salg,6.105,6,Villa,227,1840,,Aktuel værdi
+Munketoft 26261 Bredebro,ebro,198.000,02-07-1998,Alm. Salg,-,4,Villa,166,1900,,Aktuel værdi
+Skast 676261 Bredebro,ebro,289.500,15-06-1998,Alm. Salg,2.453,4,Villa,118,1885,,Aktuel værdi
+Rejsby 36261 Bredebro,ebro,410.000,28-05-1998,Alm. Salg,-,4,Villa,203,1969,,Aktuel værdi
+Spindborg 36261 Bredebro,ebro,1.325.000,28-05-1998,Alm. Salg,10.950,5,Stuehus,121,1934,,
+Vesterende 306261 Bredebro,ebro,204.880,07-05-1998,Alm. Salg,2.806,3,Villa,73,1850,,Aktuel værdi
+Byvej 236261 Bredebro,ebro,550.000,06-05-1998,Alm. Salg,3.691,4,Villa,149,1978,,Aktuel værdi
+Rantzausvej 196261 Bredebro,ebro,1.050.000,20-04-1998,Alm. Salg,8.400,5,Villa,125,1974,,Aktuel værdi
+Sct Hansvej 196261 Bredebro,ebro,712.000,18-04-1998,Alm. Salg,4.746,7,Villa,150,1977,,Aktuel værdi
+Harres 226261 Bredebro,ebro,280.000,17-04-1998,Alm. Salg,-,5,Villa,165,1827,,Aktuel værdi
+Vesterende 346261 Bredebro,ebro,135.400,15-04-1998,Alm. Salg,-,5,Villa,120,1830,,Aktuel værdi
+Vollum Østermark 46261 Bredebro,ebro,2.765.000,06-04-1998,Fam. Salg,-,4,Stuehus,213,1953,,
+Vestervang 236261 Bredebro,ebro,860.000,30-03-1998,Alm. Salg,4.777,4,Villa,180,1974,,Aktuel værdi
+Ø Gammelby 296261 Bredebro,ebro,175.000,20-03-1998,Alm. Salg,1.023,4,Stuehus,171,1807,,
+Catharinasvej 136261 Bredebro,ebro,440.000,19-03-1998,Alm. Salg,2.820,6,Villa,156,1970,,Aktuel værdi
+Rantzausvænget 106261 Bredebro,ebro,470.000,13-03-1998,Fam. Salg,3.455,4,Villa,136,1980,,Aktuel værdi
+Borg 26261 Bredebro,ebro,295.000,13-03-1998,Alm. Salg,-,5,Stuehus,222,1937,,
+Brede Bygade 456261 Bredebro,ebro,275.000,02-03-1998,Alm. Salg,2.148,4,Villa,128,1944,,Aktuel værdi
+Nørhus 96261 Bredebro,ebro,358.000,26-01-1998,Alm. Salg,4.475,3,Villa,80,1860,,Aktuel værdi
+Løgumklostervej 16261 Bredebro,ebro,586.000,25-11-1997,Alm. Salg,3.595,5,Villa,163,1950,,Aktuel værdi
+Håndværkervej 126261 Bredebro,ebro,800.000,25-11-1997,Fam. Salg,4.624,8,Villa,173,1983,,Aktuel værdi
+Løgumklostervej 46261 Bredebro,ebro,400.000,04-11-1997,Alm. Salg,-,5,Villa,132,1954,,Aktuel værdi
+Jepsensvej 26261 Bredebro,ebro,620.000,03-11-1997,Alm. Salg,3.444,6,Villa,180,1947,,Aktuel værdi
+Skast 696261 Bredebro,ebro,210.000,27-10-1997,Alm. Salg,1.200,7,Villa,175,1908,,Aktuel værdi
+Abterp 116261 Bredebro,ebro,275.000,23-10-1997,Alm. Salg,3.055,3,Villa,90,1965,,Aktuel værdi
+Randerup 276261 Bredebro,ebro,580.000,17-10-1997,Alm. Salg,-,6,Villa,184,1981,,Aktuel værdi
+Østerende 206261 Bredebro,ebro,577.000,16-10-1997,Alm. Salg,3.205,6,Stuehus,180,1857,,
+Byvej 286261 Bredebro,ebro,280.000,23-09-1997,Alm. Salg,3.111,3,Villa,90,1877,,Aktuel værdi
+Stationsvej 46261 Bredebro,ebro,705.000,16-09-1997,Alm. Salg,-,4,Villa,140,1969,,Aktuel værdi
+Stationsvej 4A6261 Bredebro,ebro,522.000,02-09-1997,Alm. Salg,3.262,4,Villa,160,1972,,Aktuel værdi
+Byvej 496261 Bredebro,ebro,62.000,25-08-1997,Auktion,378,5,Villa,164,1777,,Aktuel værdi
+Sct Hansvej 446261 Bredebro,ebro,480.000,14-08-1997,Alm. Salg,3.380,4,Villa,142,1978,,Aktuel værdi
+Stationsvej 136261 Bredebro,ebro,182.737,07-08-1997,Fam. Salg,1.757,4,Villa,104,1953,,Aktuel værdi
+Midsommervej 876261 Bredebro,ebro,810.000,28-07-1997,Alm. Salg,5.436,4,Villa,149,1980,,Aktuel værdi
+Løgumklostervej 206261 Bredebro,ebro,325.000,23-07-1997,Alm. Salg,-,7,Villa,177,1951,,Aktuel værdi
+Nørby 56261 Bredebro,ebro,550.214,27-06-1997,Alm. Salg,6.550,2,Stuehus,84,1900,,
+Sct Hansvej 536261 Bredebro,ebro,555.000,24-05-1997,Alm. Salg,3.936,4,Villa,141,1979,,Aktuel værdi
+Søndervang 726261 Bredebro,ebro,629.000,01-05-1997,Alm. Salg,4.838,3,Villa,130,1971,,Aktuel værdi
+Høybergvej 356261 Bredebro,ebro,350.000,30-04-1997,Alm. Salg,2.892,4,Villa,121,1949,,Aktuel værdi
+Kirkegade 136261 Bredebro,ebro,221.500,18-04-1997,Alm. Salg,-,5,Villa,145,1904,,Aktuel værdi
+Sct Hansvej 306261 Bredebro,ebro,260.000,01-04-1997,Fam. Salg,2.000,4,Villa,130,1977,,Aktuel værdi
+Kystvej 66261 Bredebro,ebro,350.000,17-02-1997,Alm. Salg,1.741,5,Villa,201,1940,,Aktuel værdi
+Løgumklostervej 346261 Bredebro,ebro,300.000,27-01-1997,Alm. Salg,-,4,Villa,199,1952,,Aktuel værdi
+Randerup 616261 Bredebro,ebro,225.000,30-12-1996,Fam. Salg,1.406,6,Villa,160,1951,,Aktuel værdi
+Borg 176261 Bredebro,ebro,360.000,15-12-1996,Alm. Salg,2.686,6,Villa,134,1921,,Aktuel værdi
+Vesterende 516261 Bredebro,ebro,246.500,08-11-1996,Fam. Salg,1.600,3,Villa,154,1857,,Aktuel værdi
+Harres 336261 Bredebro,ebro,354.459,30-10-1996,Alm. Salg,2.048,5,Villa,173,1880,,Aktuel værdi
+Krovej 46261 Bredebro,ebro,707.000,11-10-1996,Alm. Salg,3.034,8,Villa,233,1968,,Aktuel værdi
+Østervang 476261 Bredebro,ebro,743.000,02-10-1996,Alm. Salg,3.316,7,Villa,224,1967,,Aktuel værdi
+Skast 436261 Bredebro,ebro,521.100,02-10-1996,Alm. Salg,-,8,Villa,265,1852,,Aktuel værdi
+Byvej 476261 Bredebro,ebro,430.000,17-09-1996,Alm. Salg,3.006,4,Villa,143,1969,,Aktuel værdi
+Sct Hansvej 246261 Bredebro,ebro,730.000,17-09-1996,Alm. Salg,3.686,6,Villa,198,1975,,Aktuel værdi
+Vesterende 166261 Bredebro,ebro,114.804,30-08-1996,Fam. Salg,933,5,Villa,123,1861,,Aktuel værdi
+Galgemark 76261 Bredebro,ebro,185.000,29-08-1996,Alm. Salg,-,4,Villa,105,1926,,Aktuel værdi
+Søndergade 18B6261 Bredebro,ebro,275.000,06-08-1996,Fam. Salg,2.500,3,Villa,110,1965,,Aktuel værdi
+Borg 596261 Bredebro,ebro,475.000,25-07-1996,Alm. Salg,2.199,6,Stuehus,216,1939,,
+Søndervang 256261 Bredebro,ebro,465.000,08-07-1996,Alm. Salg,4.386,3,Villa,106,1970,,Aktuel værdi
+Vesterende 146261 Bredebro,ebro,345.000,01-07-1996,Alm. Salg,-,5,Villa,164,1844,,Aktuel værdi
+Rantzausvej 226261 Bredebro,ebro,506.000,10-06-1996,Alm. Salg,3.666,5,Villa,138,1973,,Aktuel værdi
+Borg 266261 Bredebro,ebro,100.000,25-05-1996,Alm. Salg,699,4,Stuehus,143,1880,,
+Gemmet 16261 Bredebro,ebro,495.000,15-05-1996,Alm. Salg,3.807,4,Villa,130,1968,,Aktuel værdi
+Søndergade 416261 Bredebro,ebro,500.000,30-04-1996,Alm. Salg,6.172,3,Villa,81,1955,,Aktuel værdi
+Søndervang 186261 Bredebro,ebro,692.000,30-04-1996,Alm. Salg,4.739,5,Villa,146,1972,,Aktuel værdi
+Kummerlev 196261 Bredebro,ebro,1.660.000,24-04-1996,Fam. Salg,7.685,7,Stuehus,216,1927,,
+Skast 656261 Bredebro,ebro,125.000,12-03-1996,Alm. Salg,1.190,3,Villa,105,1910,,Aktuel værdi
+Skast 986261 Bredebro,ebro,1.870.400,12-03-1996,Fam. Salg,8.540,5,Stuehus,219,1923,,
+Rantzausvej 86261 Bredebro,ebro,218.787,11-03-1996,Alm. Salg,2.044,4,Villa,107,1967,,Aktuel værdi
+Farverhusvej 216261 Bredebro,ebro,32.500,22-02-1996,Alm. Salg,218,4,Stuehus,149,1989,,
+Bunti 286261 Bredebro,ebro,92.000,13-02-1996,Alm. Salg,-,7,Stuehus,250,1938,,
+Nørby 156261 Bredebro,ebro,200.000,09-02-1996,Alm. Salg,1.324,7,Stuehus,151,1879,,
+Nørby 176261 Bredebro,ebro,190.000,29-12-1995,Fam. Salg,815,8,Stuehus,233,2002,,
+Harres 256261 Bredebro,ebro,635.000,22-12-1995,Alm. Salg,4.018,5,Villa,158,1850,,Aktuel værdi
+Sct Hansvej 516261 Bredebro,ebro,548.000,06-12-1995,Alm. Salg,-,7,Villa,216,1978,,Aktuel værdi
+Kringlum 16261 Bredebro,ebro,225.000,30-11-1995,Fam. Salg,-,6,Villa,156,1928,,Aktuel værdi
+Søndervang 36261 Bredebro,ebro,606.000,22-11-1995,Alm. Salg,4.040,4,Villa,150,1966,,Aktuel værdi
+Gemmet 166261 Bredebro,ebro,662.000,10-11-1995,Alm. Salg,2.626,6,Villa,252,1965,,Aktuel værdi
+Visbyvej 16261 Bredebro,ebro,200.000,07-11-1995,Alm. Salg,2.000,4,Villa,100,1830,,Aktuel værdi
+Høybergvej 376261 Bredebro,ebro,330.000,20-09-1995,Alm. Salg,2.750,4,Villa,120,1960,,Aktuel værdi
+Vesterende 536261 Bredebro,ebro,400.000,18-09-1995,Alm. Salg,3.030,5,Villa,132,1951,,Aktuel værdi
+Lagervej 16261 Bredebro,ebro,875.000,13-09-1995,Alm. Salg,5.087,7,Lejlighed,172,1937,,Aktuel værdi
+Abterp 386261 Bredebro,ebro,350.000,18-08-1995,Alm. Salg,3.500,3,Stuehus,100,1935,,
+Østervang 436261 Bredebro,ebro,538.000,07-08-1995,Alm. Salg,3.762,4,Villa,143,1970,,Aktuel værdi
+Krovej 256261 Bredebro,ebro,340.000,03-08-1995,Alm. Salg,5.312,3,Stuehus,64,1850,,
+Sct Hansvej 26261 Bredebro,ebro,545.000,26-06-1995,Alm. Salg,4.224,4,Villa,129,1976,,Aktuel værdi
+Vesterende 96261 Bredebro,ebro,125.000,18-06-1995,Alm. Salg,-,3,Villa,90,1850,,Aktuel værdi
+Skast 286261 Bredebro,ebro,65.000,13-06-1995,Alm. Salg,738,4,Villa,88,1845,,Aktuel værdi
+Møllevej 36261 Bredebro,ebro,570.000,23-05-1995,Alm. Salg,3.202,3,Stuehus,178,1900,,
+Svinget 26261 Bredebro,ebro,651.000,09-05-1995,Alm. Salg,2.316,8,Villa,281,1870,,Aktuel værdi
+Brogade 86261 Bredebro,ebro,103.404,04-05-1995,Alm. Salg,-,6,Villa,121,1800,,Aktuel værdi
+Harres 196261 Bredebro,ebro,130.000,01-05-1995,Alm. Salg,-,6,Villa,170,1945,,Aktuel værdi
+Randerup 476261 Bredebro,ebro,135.000,25-04-1995,Fam. Salg,957,5,Villa,141,1884,,Aktuel værdi
+Midsommervej 886261 Bredebro,ebro,756.000,22-04-1995,Alm. Salg,4.176,5,Villa,181,1980,,Aktuel værdi
+Brinkvej 116261 Bredebro,ebro,158.000,19-04-1995,Alm. Salg,897,5,Stuehus,176,1777,,
+Løgumklostervej 106261 Bredebro,ebro,625.000,17-04-1995,Alm. Salg,-,6,Villa,232,1967,,Aktuel værdi
+Gaden 266261 Bredebro,ebro,382.000,01-04-1995,Fam. Salg,2.728,5,Villa,140,1978,,Aktuel værdi
+Aaspe 176261 Bredebro,ebro,200.000,31-03-1995,Alm. Salg,1.369,3,Villa,146,1910,,Aktuel værdi
+Abterpvej 36261 Bredebro,ebro,725.000,10-03-1995,Fam. Salg,2.157,9,Villa,336,1870,,Aktuel værdi
+Borgvej 5A6261 Bredebro,ebro,750.000,02-02-1995,Alm. Salg,4.573,4,Villa,164,1970,,Aktuel værdi
+Vesterende 56261 Bredebro,ebro,310.000,28-01-1995,Alm. Salg,2.480,5,Villa,125,1875,,Aktuel værdi
+Ø Gammelby 76261 Bredebro,ebro,635.531,11-01-1995,Alm. Salg,4.926,5,Stuehus,129,1954,,
+Strandvej 296261 Bredebro,ebro,400.000,14-11-1994,Alm. Salg,2.777,6,Villa,144,1972,,Aktuel værdi
+Randerup 146261 Bredebro,ebro,850.000,01-11-1994,Alm. Salg,5.519,5,Stuehus,154,1930,,
+Søndergade 216261 Bredebro,ebro,380.000,31-10-1994,Alm. Salg,-,5,Villa,124,1943,,Aktuel værdi
+Harres 106261 Bredebro,ebro,290.703,28-10-1994,Alm. Salg,2.253,7,Stuehus,129,1875,,
+Møllevej 16261 Bredebro,ebro,420.000,19-09-1994,Alm. Salg,3.620,5,Stuehus,116,1920,,
+Mølbyvej 116261 Bredebro,ebro,175.000,05-09-1994,Fam. Salg,3.125,2,Villa,56,1950,,Aktuel værdi
+Strandvej 106261 Bredebro,ebro,225.000,26-08-1994,Alm. Salg,2.500,3,Villa,90,1802,,Aktuel værdi
+Sct Hansvej 416261 Bredebro,ebro,660.000,19-08-1994,Alm. Salg,3.055,6,Villa,216,1976,,Aktuel værdi
+Sct Hansvej 226261 Bredebro,ebro,617.000,21-06-1994,Alm. Salg,-,4,Villa,177,1979,,Aktuel værdi
+Mollerup 16261 Bredebro,ebro,320.000,18-06-1994,Alm. Salg,1.361,6,Stuehus,235,1875,,
+Rantzausvej 256261 Bredebro,ebro,540.000,10-06-1994,Alm. Salg,2.596,5,Villa,208,1975,,Aktuel værdi
+Grønagervej 46261 Bredebro,ebro,710.000,27-05-1994,Alm. Salg,3.944,6,Villa,180,1968,,Aktuel værdi
+Ø Gammelby 186261 Bredebro,ebro,85.700,10-05-1994,Alm. Salg,455,7,Stuehus,188,1880,,
+Harres 96261 Bredebro,ebro,150.000,06-05-1994,Fam. Salg,949,5,Stuehus,158,1900,,
+Kystvej 336261 Bredebro,ebro,90.000,03-05-1994,Alm. Salg,857,6,Stuehus,105,1847,,
+Harknagvej 66261 Bredebro,ebro,135.000,27-04-1994,Alm. Salg,1.134,2,Villa,119,1933,,Aktuel værdi
+Østerende 126261 Bredebro,ebro,314.500,29-03-1994,Fam. Salg,1.797,5,Villa,175,1957,,Aktuel værdi
+Ø Gammelby 516261 Bredebro,ebro,2.270.200,14-03-1994,Alm. Salg,8.534,10,Stuehus,266,1886,,
+Brede Bygade 116261 Bredebro,ebro,365.000,04-03-1994,Alm. Salg,2.354,3,Villa,155,1908,,Aktuel værdi
+Nørhus 46261 Bredebro,ebro,181.185,01-03-1994,Fam. Salg,-,5,Villa,243,1870,,Aktuel værdi
+Rantzausvej 56261 Bredebro,ebro,410.000,15-02-1994,Alm. Salg,3.153,5,Villa,130,1966,,Aktuel værdi
+Gemmet 36261 Bredebro,ebro,640.000,02-02-1994,Alm. Salg,3.368,5,Villa,190,1968,,Aktuel værdi
+Ballum Hede 156261 Bredebro,ebro,200.000,24-01-1994,Alm. Salg,1.428,4,Stuehus,140,1827,,
+Borgvej 116261 Bredebro,ebro,184.170,11-01-1994,Alm. Salg,1.173,4,Villa,157,1965,,Aktuel værdi
+Brede Bygade 566261 Bredebro,ebro,518.500,29-12-1993,Fam. Salg,1.722,9,Villa,301,1868,,Aktuel værdi
+Gaden 356261 Bredebro,ebro,485.000,03-12-1993,Alm. Salg,2.552,5,Villa,190,1976,,Aktuel værdi
+Rejsby 196261 Bredebro,ebro,355.000,24-11-1993,Alm. Salg,3.944,3,Villa,90,1850,,Aktuel værdi
+Abterp 206261 Bredebro,ebro,101.962,02-11-1993,Alm. Salg,1.416,2,Villa,72,1932,,Aktuel værdi
+Borg 416261 Bredebro,ebro,144.500,27-10-1993,Andet,982,5,Villa,147,1900,,Aktuel værdi
+Harres 536261 Bredebro,ebro,261.206,14-10-1993,Alm. Salg,-,4,Stuehus,192,2000,,
+Mollerup 76261 Bredebro,ebro,925.000,30-09-1993,Alm. Salg,6.954,5,Stuehus,133,1968,,
+Bunti 156261 Bredebro,ebro,87.500,16-09-1993,Alm. Salg,1.250,4,Sommerhus,70,1860,,Aktuel værdi
+Rejsby 56261 Bredebro,ebro,165.975,31-08-1993,Alm. Salg,1.784,4,Villa,93,1936,,Aktuel værdi
+Skast 46261 Bredebro,ebro,336.418,20-08-1993,Fam. Salg,2.827,4,Stuehus,119,1912,,
+Høybergvej 336261 Bredebro,ebro,305.000,26-07-1993,Alm. Salg,2.479,3,Villa,123,1965,,Aktuel værdi
+Skast 486261 Bredebro,ebro,5.915.000,14-07-1993,Fam. Salg,-,12,Stuehus,553,1877,,
+Galgemark 126261 Bredebro,ebro,650.000,09-07-1993,Alm. Salg,1.911,9,Stuehus,340,1996,,
+Løgumklostervej 86261 Bredebro,ebro,487.000,03-07-1993,Alm. Salg,2.933,6,Villa,166,1949,,Aktuel værdi
+Randerup 396261 Bredebro,ebro,325.000,29-06-1993,Alm. Salg,2.500,5,Stuehus,130,1864,,
+Krovej 186261 Bredebro,ebro,180.000,18-06-1993,Alm. Salg,1.836,4,Villa,98,1876,,Aktuel værdi
+Kringlum 36261 Bredebro,ebro,2.550.000,02-06-1993,Alm. Salg,20.400,4,Stuehus,125,1936,,
+Harres 516261 Bredebro,ebro,337.700,19-05-1993,Alm. Salg,-,7,Stuehus,215,1914,,
+Krovej 326261 Bredebro,ebro,600.000,18-05-1993,Fam. Salg,4.026,4,Stuehus,149,1880,,
+Højervej 46261 Bredebro,ebro,125.000,01-05-1993,Alm. Salg,1.050,4,Villa,119,1827,,Aktuel værdi
+Skast 186261 Bredebro,ebro,1.137.575,26-04-1993,Alm. Salg,5.170,6,Stuehus,220,1894,,
+Møllebakken 106261 Bredebro,ebro,600.000,31-03-1993,Alm. Salg,4.477,4,Villa,134,1964,,Aktuel værdi
+Søndervang 176261 Bredebro,ebro,290.000,19-03-1993,Fam. Salg,2.636,3,Villa,110,1971,,Aktuel værdi
+Kystvej 266261 Bredebro,ebro,398.000,13-03-1993,Alm. Salg,3.061,4,Villa,130,1976,,Aktuel værdi
+Hovedvejen 66261 Bredebro,ebro,452.000,25-02-1993,Fam. Salg,3.766,5,Stuehus,120,1935,,
+Sct Hansvej 576261 Bredebro,ebro,530.000,16-02-1993,Alm. Salg,3.706,5,Villa,143,1979,,Aktuel værdi
+Brede Bygade 236261 Bredebro,ebro,295.000,18-01-1993,Alm. Salg,2.107,6,Villa,140,1929,,Aktuel værdi
+Kniplestien 146261 Bredebro,ebro,410.000,27-11-1992,Alm. Salg,2.411,6,Stuehus,170,1878,,
+Høybergvej 416261 Bredebro,ebro,275.000,16-11-1992,Alm. Salg,2.500,4,Villa,110,1954,,Aktuel værdi
+Skast 316261 Bredebro,ebro,187.500,15-11-1992,Fam. Salg,976,5,Stuehus,192,1851,,
+Parkvej 296261 Bredebro,ebro,1.220.000,12-10-1992,Fam. Salg,6.777,9,Stuehus,180,1856,,
+Rejsby 216261 Bredebro,ebro,468.587,08-10-1992,Alm. Salg,5.206,3,Stuehus,90,1900,,
+Brinkvej 16261 Bredebro,ebro,210.000,02-10-1992,Alm. Salg,-,10,Villa,213,1900,,Aktuel værdi
+Harres 566261 Bredebro,ebro,330.000,01-10-1992,Alm. Salg,-,8,Stuehus,222,1951,,
+Vesterende 506261 Bredebro,ebro,368.000,26-09-1992,Alm. Salg,4.088,4,Villa,90,1777,,Aktuel værdi
+Brede Bygade 376261 Bredebro,ebro,440.000,21-08-1992,Alm. Salg,-,6,Villa,155,1958,,Aktuel værdi
+Brede Bygade 426261 Bredebro,ebro,350.000,13-08-1992,Alm. Salg,3.017,4,Villa,116,1957,,Aktuel værdi
+Vestervang 226261 Bredebro,ebro,625.000,13-07-1992,Fam. Salg,3.612,5,Villa,173,1975,,Aktuel værdi
+Borg 326261 Bredebro,ebro,210.000,13-07-1992,Alm. Salg,1.346,4,Villa,156,1911,,Aktuel værdi
+Høybergvej 636261 Bredebro,ebro,205.000,16-06-1992,Alm. Salg,-,4,Villa,150,1906,,Aktuel værdi
+Ø Gammelby 306261 Bredebro,ebro,250.000,09-06-1992,Fam. Salg,-,4,Villa,153,1870,,Aktuel værdi
+Høybergvej 136261 Bredebro,ebro,186.521,03-06-1992,Alm. Salg,1.711,4,Villa,109,1830,,Aktuel værdi
+Randerup 376261 Bredebro,ebro,200.000,01-06-1992,Alm. Salg,1.538,8,Stuehus,130,1996,,
+Stationsvej 166261 Bredebro,ebro,550.000,21-05-1992,Alm. Salg,4.471,3,Villa,123,1960,,Aktuel værdi
+Midsommervej 1106261 Bredebro,ebro,143.095,17-05-1992,Alm. Salg,794,5,Villa,180,1992,,Aktuel værdi
+Løgumklostervej 166261 Bredebro,ebro,450.000,28-04-1992,Alm. Salg,3.125,4,Villa,144,1947,,Aktuel værdi
+Rantzausvej 356261 Bredebro,ebro,520.000,05-04-1992,Alm. Salg,3.291,6,Villa,158,1975,,Aktuel værdi
+Kystvej 286261 Bredebro,ebro,160.000,27-03-1992,Alm. Salg,1.203,5,Villa,133,1953,,Aktuel værdi
+Trælborgvej 236261 Bredebro,ebro,268.500,22-03-1992,Alm. Salg,1.647,6,Villa,163,1955,,Aktuel værdi
+Brede Bygade 606261 Bredebro,ebro,520.000,19-03-1992,Alm. Salg,4.094,4,Villa,127,1982,,Aktuel værdi
+Harres 326261 Bredebro,ebro,553.459,24-02-1992,Alm. Salg,2.726,5,Stuehus,203,1865,,
+Nygade 156261 Bredebro,ebro,325.000,31-01-1992,Alm. Salg,-,7,Villa,190,1920,,Aktuel værdi
+Parkvej 136261 Bredebro,ebro,140.000,29-01-1992,Alm. Salg,1.060,5,Villa,132,1938,,Aktuel værdi
+Trøjborgvej 306261 Bredebro,ebro,2.500.000,23-01-1992,Alm. Salg,15.151,3,Stuehus,165,1968,,
+Randerup 586261 Bredebro,ebro,325.000,14-01-1992,Alm. Salg,2.559,6,Villa,127,1830,,Aktuel værdi
+Skast 406261 Bredebro,ebro,230.000,09-01-1992,Alm. Salg,2.875,4,Villa,80,1952,,Aktuel værdi

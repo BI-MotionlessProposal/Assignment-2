@@ -1,0 +1,432 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Nørrevejen 15985 Søby Ærø, Ærø,150.000,22-03-2017,Fam. Salg,1.260,4,Villa,119,1895,,Aktuel værdi
+Kulebjergsvej 45985 Søby Ærø, Ærø,1.790.000,06-03-2017,Alm. Salg,13.161,4,Stuehus,136,1928,,
+Ellehøjvej 25985 Søby Ærø, Ærø,800.000,01-03-2017,Alm. Salg,8.000,7,Industri o.l.,100,1945,,Aktuel værdi
+Bromaj 35985 Søby Ærø, Ærø,70.000,08-02-2017,Alm. Salg,357,5,Villa,196,1930,-95 %,Aktuel værdi
+Buevej 265985 Søby Ærø, Ærø,400.000,30-01-2017,Alm. Salg,1.904,6,Villa,210,1908,-19 %,Aktuel værdi
+Kobbelbakken 15985 Søby Ærø, Ærø,950.000,06-12-2016,Alm. Salg,4.112,8,Villa,231,1847,,Aktuel værdi
+Østerbro 205985 Søby Ærø, Ærø,125.000,21-11-2016,Alm. Salg,771,6,Villa,162,1900,-36 %,Aktuel værdi
+Søbygårdsvej 35985 Søby Ærø, Ærø,1.125.000,21-09-2016,Alm. Salg,12.362,4,Villa,91,1797,-2 %,Aktuel værdi
+Østerbro 25A5985 Søby Ærø, Ærø,450.000,15-09-2016,Alm. Salg,3.040,5,Villa,148,1968,-18 %,Aktuel værdi
+Søby Landevej 105985 Søby Ærø, Ærø,500.000,30-08-2016,Alm. Salg,2.347,6,Villa,213,1906,-23 %,Aktuel værdi
+Søbakkevej 75985 Søby Ærø, Ærø,40.000,21-08-2016,Alm. Salg,500,3,Sommerhus,80,1800,-60 %,Aktuel værdi
+Stenagre 45985 Søby Ærø, Ærø,305.000,20-08-2016,Alm. Salg,3.050,3,Stuehus,100,1914,-28 %,
+Nørrebro 85985 Søby Ærø, Ærø,225.000,08-08-2016,Alm. Salg,1.704,6,Villa,132,1903,,Aktuel værdi
+Søbakkevej 115985 Søby Ærø, Ærø,357.000,26-07-2016,Fam. Salg,2.380,5,Villa,150,1924,,Aktuel værdi
+Skæphøjvej 65985 Søby Ærø, Ærø,340.000,21-07-2016,Alm. Salg,2.073,7,Stuehus,164,1907,-13 %,
+Østerbro 485985 Søby Ærø, Ærø,50.000,08-07-2016,Alm. Salg,543,11,Engroshandel,92,1966,,Aktuel værdi
+Øverste Skovbymark 105985 Søby Ærø, Ærø,895.000,27-06-2016,Alm. Salg,7.103,4,Villa,126,1913,-10 %,Aktuel værdi
+Haven 165985 Søby Ærø, Ærø,40.000,15-06-2016,Alm. Salg,219,6,Stuehus,182,1908,,
+Lodsgyden 55985 Søby Ærø, Ærø,175.000,26-05-2016,Alm. Salg,3.240,3,Villa,54,1850,-42 %,Aktuel værdi
+Lærkevej 85985 Søby Ærø, Ærø,275.000,15-04-2016,Alm. Salg,3.235,4,Villa,85,1957,-15 %,Aktuel værdi
+Langebro 65985 Søby Ærø, Ærø,550.000,19-03-2016,Fam. Salg,2.894,6,Villa,190,1904,,Aktuel værdi
+Harevej 35985 Søby Ærø, Ærø,215.000,13-03-2016,Alm. Salg,2.590,4,Stuehus,83,1777,,
+Nørrevejen 35985 Søby Ærø, Ærø,235.000,11-02-2016,Auktion,2.831,3,Villa,83,1900,-15 %,Aktuel værdi
+Skovbygyde 25985 Søby Ærø, Ærø,50.000,06-02-2016,Alm. Salg,500,4,Sommerhus,100,1727,,Aktuel værdi
+Østerbro 135985 Søby Ærø, Ærø,150.000,18-12-2015,Alm. Salg,746,6,Villa,201,1928,-40 %,Aktuel værdi
+Skovbygade 235985 Søby Ærø, Ærø,845.000,04-11-2015,Alm. Salg,5.709,5,Stuehus,148,1800,,
+Søbakkevej 85985 Søby Ærø, Ærø,63.500,04-11-2015,Auktion,729,5,Villa,87,1878,,Aktuel værdi
+Kystvejen 95985 Søby Ærø, Ærø,310.000,23-10-2015,Alm. Salg,4.492,4,Villa,69,1970,-17 %,Aktuel værdi
+Haven 145985 Søby Ærø, Ærø,1.345.000,05-10-2015,Alm. Salg,4.981,5,Villa,270,1913,-10 %,Aktuel værdi
+Søby Nørremarksvej 115985 Søby Ærø, Ærø,450.000,01-10-2015,Alm. Salg,2.903,6,Villa,155,1907,-9 %,Aktuel værdi
+Ellehøjvej 85985 Søby Ærø, Ærø,75.000,01-09-2015,Alm. Salg,1.339,4,Villa,56,1960,-70 %,Aktuel værdi
+Haven 185985 Søby Ærø, Ærø,272.000,26-08-2015,Fam. Salg,3.487,3,Sommerhus,78,1989,,Aktuel værdi
+Østerbro 505985 Søby Ærø, Ærø,225.000,11-08-2015,Alm. Salg,2.250,5,Villa,100,1895,,Aktuel værdi
+Ellehøjvej 235985 Søby Ærø, Ærø,635.000,14-07-2015,Alm. Salg,4.535,5,Villa,140,1975,-6 %,Aktuel værdi
+Biografvej 15985 Søby Ærø, Ærø,175.000,11-06-2015,Alm. Salg,1.620,5,Villa,108,1959,-30 %,Aktuel værdi
+Nørrevænget 105985 Søby Ærø, Ærø,240.000,04-06-2015,Alm. Salg,2.580,3,Villa,93,1942,-4 %,Aktuel værdi
+Havnevejen 115985 Søby Ærø, Ærø,400.000,01-06-2015,Alm. Salg,4.705,3,Villa,85,1923,,Aktuel værdi
+Skjoldnæsvej 45985 Søby Ærø, Ærø,1.100.000,01-06-2015,Alm. Salg,11.458,4,Stuehus,96,1949,,
+Rummes Agre 555985 Søby Ærø, Ærø,125.000,18-05-2015,Alm. Salg,739,5,Villa,169,2016,,Aktuel værdi
+Østerbro 245985 Søby Ærø, Ærø,275.000,29-04-2015,Alm. Salg,2.099,4,Villa,131,1910,-8 %,Aktuel værdi
+Møllemarksvejen 165985 Søby Ærø, Ærø,335.000,24-04-2015,Alm. Salg,3.988,3,Villa,84,1963,-11 %,Aktuel værdi
+Østerbro 385985 Søby Ærø, Ærø,225.000,30-03-2015,Alm. Salg,1.371,5,Villa,164,1934,,Aktuel værdi
+Ellehøjvej 255985 Søby Ærø, Ærø,550.000,26-03-2015,Alm. Salg,3.900,5,Villa,141,1976,-8 %,Aktuel værdi
+Søby Landevej 165985 Søby Ærø, Ærø,116.000,25-03-2015,Alm. Salg,1.008,6,Villa,115,1905,-61 %,Aktuel værdi
+Præstevænget 35985 Søby Ærø, Ærø,300.000,10-02-2015,Alm. Salg,2.013,6,Villa,149,1924,-43 %,Aktuel værdi
+Kærvej 65985 Søby Ærø, Ærø,6.427.400,30-01-2015,Fam. Salg,28.314,5,Stuehus,227,1777,,
+Kappelhøj 195985 Søby Ærø, Ærø,450.000,21-01-2015,Alm. Salg,3.260,5,Villa,138,1981,-9 %,Aktuel værdi
+Havevej 75985 Søby Ærø, Ærø,620.000,12-12-2014,Alm. Salg,4.133,5,Villa,150,1924,-11 %,Aktuel værdi
+Harevej 95985 Søby Ærø, Ærø,495.000,12-12-2014,Alm. Salg,3.300,4,Villa,150,1908,-17 %,Aktuel værdi
+Søbygårdsmarksvej 75985 Søby Ærø, Ærø,600.000,28-11-2014,Alm. Salg,3.488,5,Villa,172,2002,,Aktuel værdi
+Søby Nørremarksvej 55985 Søby Ærø, Ærø,880.000,28-11-2014,Fam. Salg,6.197,5,Stuehus,142,1904,,
+Lebymarksvej 15985 Søby Ærø, Ærø,90.000,27-10-2014,Alm. Salg,937,6,Stuehus,96,1902,,
+Nederste Skovbymark 105985 Søby Ærø, Ærø,797.032,06-10-2014,Alm. Salg,6.930,5,Stuehus,115,1900,,
+Persillestræde 35985 Søby Ærø, Ærø,70.000,02-10-2014,Alm. Salg,933,3,Villa,75,1890,,Aktuel værdi
+Østerbro 35985 Søby Ærø, Ærø,200.000,11-09-2014,Alm. Salg,1.724,4,Villa,116,1890,-20 %,Aktuel værdi
+Sækkemosevej 65985 Søby Ærø, Ærø,93.000,22-08-2014,Alm. Salg,775,4,Villa,120,1890,,Aktuel værdi
+Skjoldnæsvej 25985 Søby Ærø, Ærø,1.400.000,17-07-2014,Alm. Salg,6.666,6,Stuehus,210,1900,,
+Søbygårdsmarksvej 125985 Søby Ærø, Ærø,108.146,25-06-2014,Alm. Salg,1.544,4,Villa,70,1863,,Aktuel værdi
+Nørrebro 145985 Søby Ærø, Ærø,100.000,18-06-2014,Fam. Salg,961,4,Villa,104,1924,,Aktuel værdi
+Buevej 105985 Søby Ærø, Ærø,160.000,10-06-2014,Alm. Salg,2.025,5,Villa,79,1817,,Aktuel værdi
+Søby Nørremarksvej 95985 Søby Ærø, Ærø,960.000,07-05-2014,Alm. Salg,4.507,5,Villa,213,1907,-13 %,Aktuel værdi
+Buevej 65985 Søby Ærø, Ærø,80.001,19-03-2014,Auktion,396,7,Villa,202,1863,-84 %,Aktuel værdi
+Langebro 115985 Søby Ærø, Ærø,338.000,08-02-2014,Alm. Salg,2.600,6,Villa,130,1777,-10 %,Aktuel værdi
+Havnevejen 25985 Søby Ærø, Ærø,90.000,07-02-2014,Fam. Salg,592,7,Villa,152,1888,,Aktuel værdi
+Kommens Agre 65985 Søby Ærø, Ærø,684.979,30-01-2014,Alm. Salg,4.053,7,Villa,169,1976,,Aktuel værdi
+Harevej 15985 Søby Ærø, Ærø,785.000,28-01-2014,Alm. Salg,7.136,6,Stuehus,110,1850,,
+"Skjoldnæsvej 8, 1. TH5985 Søby Ærø", Ærø,1.800.000,14-12-2013,Alm. Salg,23.684,4,Lejlighed,76,1881,,Aktuel værdi
+Søbakkevej 265985 Søby Ærø, Ærø,145.333,13-11-2013,Auktion,1.482,4,Villa,98,1925,,Aktuel værdi
+Godthåb 15985 Søby Ærø, Ærø,300.000,22-10-2013,Fam. Salg,3.529,3,Villa,85,1927,,Aktuel værdi
+"Buevej 8, ST5985 Søby Ærø", Ærø,250.000,19-09-2013,Alm. Salg,1.612,5,Villa,155,1923,,Aktuel værdi
+Langevrætte 65985 Søby Ærø, Ærø,275.000,28-08-2013,Alm. Salg,3.353,3,Sommerhus,82,1870,,Aktuel værdi
+Søbakkevej 305985 Søby Ærø, Ærø,63.001,08-08-2013,Auktion,630,5,Villa,100,1932,,Aktuel værdi
+Lebymarksvej 65985 Søby Ærø, Ærø,92.500,04-08-2013,Fam. Salg,685,5,Sommerhus,135,1877,,Aktuel værdi
+Skovbygade 175985 Søby Ærø, Ærø,106.250,01-06-2013,Alm. Salg,1.051,6,Sommerhus,101,1912,,Aktuel værdi
+Østerbro 225985 Søby Ærø, Ærø,287.500,21-05-2013,Alm. Salg,2.566,4,Villa,112,1904,,Aktuel værdi
+Østerbro 305985 Søby Ærø, Ærø,495.000,01-05-2013,Auktion,2.591,9,Villa,191,1908,-55 %,Aktuel værdi
+Vitsø 105985 Søby Ærø, Ærø,325.000,02-04-2013,Alm. Salg,4.710,2,"Ferie, andet",69,1980,,Aktuel værdi
+Kærvej 2A5985 Søby Ærø, Ærø,850.000,22-01-2013,Fam. Salg,11.333,4,Stuehus,75,1777,,
+Havevej 35985 Søby Ærø, Ærø,60.001,06-12-2012,Auktion,521,5,Villa,115,1963,,Aktuel værdi
+Alleen 195985 Søby Ærø, Ærø,100.000,10-10-2012,Alm. Salg,1.086,5,Villa,92,1942,-66 %,Aktuel værdi
+Søby Vestermark 45985 Søby Ærø, Ærø,800.000,23-08-2012,Auktion,-,4,Villa,214,1894,,Aktuel værdi
+Nørrevejen 45985 Søby Ærø, Ærø,335.000,12-07-2012,Fam. Salg,2.537,5,Villa,132,1880,,Aktuel værdi
+Sækkemosevej 45985 Søby Ærø, Ærø,452.000,27-06-2012,Alm. Salg,3.228,6,Stuehus,140,1900,-7 %,
+Abildvej 15985 Søby Ærø, Ærø,112.000,14-06-2012,Auktion,666,7,Villa,168,1923,-77 %,Aktuel værdi
+Havnevejen 145985 Søby Ærø, Ærø,100.000,14-06-2012,Auktion,526,5,Villa,190,1900,,Aktuel værdi
+Skovbygyde 35985 Søby Ærø, Ærø,570.000,22-04-2012,Alm. Salg,5.700,5,Stuehus,100,1830,-12 %,
+Østerbro 20A5985 Søby Ærø, Ærø,75.000,17-04-2012,Alm. Salg,641,3,Villa,117,1912,,Aktuel værdi
+Kulebjergsvej 15985 Søby Ærø, Ærø,324.487,12-04-2012,Alm. Salg,2.421,4,Villa,134,1966,-7 %,Aktuel værdi
+Kærvej 15985 Søby Ærø, Ærø,150.000,10-04-2012,Fam. Salg,1.546,5,Sommerhus,97,1893,,Aktuel værdi
+Østerbro 425985 Søby Ærø, Ærø,590.000,21-03-2012,Alm. Salg,2.408,6,Villa,245,1932,0 %,Aktuel værdi
+Buevej 35985 Søby Ærø, Ærø,910.000,09-03-2012,Alm. Salg,4.789,7,Villa,190,1898,-17 %,Aktuel værdi
+Nederste Skovbymark 15985 Søby Ærø, Ærø,415.000,08-03-2012,Alm. Salg,5.253,2,Villa,79,1892,-13 %,Aktuel værdi
+Søby Tværvej 45985 Søby Ærø, Ærø,600.000,10-02-2012,Alm. Salg,6.818,4,Villa,88,1965,-14 %,Aktuel værdi
+Nørrevænget 35985 Søby Ærø, Ærø,270.000,23-11-2011,Auktion,3.292,5,Villa,82,1939,-31 %,Aktuel værdi
+Søby Nørremarksvej 175985 Søby Ærø, Ærø,278.550,16-11-2011,Alm. Salg,3.129,4,Villa,89,1934,,Aktuel værdi
+Søbakkevej 105985 Søby Ærø, Ærø,90.000,03-11-2011,Auktion,967,3,Villa,93,1872,,Aktuel værdi
+Abildvej 115985 Søby Ærø, Ærø,470.000,03-10-2011,Alm. Salg,5.465,3,Villa,86,1930,-5 %,Aktuel værdi
+Skovbygade 265985 Søby Ærø, Ærø,575.000,29-09-2011,Alm. Salg,7.187,4,Villa,80,1861,-7 %,Aktuel værdi
+Buevej 225985 Søby Ærø, Ærø,700.000,22-09-2011,Alm. Salg,6.086,3,Villa,115,1827,,Aktuel værdi
+Nederste Skovbymark 75985 Søby Ærø, Ærø,2.000.000,09-09-2011,Alm. Salg,-,10,Villa,473,1931,,Aktuel værdi
+Snorløkke 75985 Søby Ærø, Ærø,680.000,29-08-2011,Alm. Salg,3.930,8,Villa,173,1881,,Aktuel værdi
+Lebyvej 305985 Søby Ærø, Ærø,700.000,26-08-2011,Alm. Salg,3.365,9,Villa,208,1820,,Aktuel værdi
+Leby Landevej 55985 Søby Ærø, Ærø,600.000,11-07-2011,Fam. Salg,4.761,6,Stuehus,126,1864,,
+Havevej 15985 Søby Ærø, Ærø,670.000,11-07-2011,Alm. Salg,5.726,3,Villa,117,1978,-15 %,Aktuel værdi
+Lebyvej 105985 Søby Ærø, Ærø,175.000,16-06-2011,Alm. Salg,1.166,4,Villa,150,1902,-50 %,Aktuel værdi
+Rønnemosevej 25985 Søby Ærø, Ærø,544.000,01-06-2011,Fam. Salg,4.990,4,Villa,109,1902,-16 %,Aktuel værdi
+Skovvejen 25985 Søby Ærø, Ærø,430.000,13-04-2011,Auktion,4.174,4,Villa,103,1827,-38 %,Aktuel værdi
+Skovby Nederst 185985 Søby Ærø, Ærø,975.000,10-02-2011,Alm. Salg,6.331,4,Villa,154,1900,,Aktuel værdi
+Østerbro 365985 Søby Ærø, Ærø,900.000,07-02-2011,Alm. Salg,5.844,5,Villa,154,1938,-5 %,Aktuel værdi
+Skelhave 55985 Søby Ærø, Ærø,850.000,12-01-2011,Alm. Salg,5.345,6,Villa,159,1860,-15 %,Aktuel værdi
+Abildvej 35985 Søby Ærø, Ærø,575.000,04-01-2011,Fam. Salg,7.187,3,Villa,80,1923,0 %,Aktuel værdi
+Langebro 155985 Søby Ærø, Ærø,800.000,22-12-2010,Alm. Salg,6.504,4,Villa,123,1970,,Aktuel værdi
+Søby Landevej 205985 Søby Ærø, Ærø,546.000,22-12-2010,Auktion,-,10,Stuehus,280,1869,,
+Søbygårdsmarksvej 45985 Søby Ærø, Ærø,360.000,08-12-2010,Alm. Salg,3.000,6,Stuehus,120,1868,,
+Buevej 155985 Søby Ærø, Ærø,75.000,18-11-2010,Auktion,438,6,Villa,171,1872,,Aktuel værdi
+Kystvejen 165985 Søby Ærø, Ærø,1.000.000,11-10-2010,Fam. Salg,7.575,4,Villa,132,2003,,Aktuel værdi
+Nørrebro 225985 Søby Ærø, Ærø,530.000,08-10-2010,Fam. Salg,4.274,4,Sommerhus,124,1876,,Aktuel værdi
+Langebro 125985 Søby Ærø, Ærø,800.000,04-10-2010,Alm. Salg,7.692,5,Villa,104,1902,-8 %,Aktuel værdi
+Søbakkevej 185985 Søby Ærø, Ærø,300.000,04-10-2010,Alm. Salg,3.000,3,Villa,100,1950,-18 %,Aktuel værdi
+Søndervejen 155985 Søby Ærø, Ærø,430.000,30-09-2010,Alm. Salg,4.777,3,Villa,90,1961,,Aktuel værdi
+Søbakkevej 285985 Søby Ærø, Ærø,805.434,10-09-2010,Fam. Salg,4.377,7,Villa,184,1850,,Aktuel værdi
+Søbygårdsmarksvej 65985 Søby Ærø, Ærø,60.000,20-08-2010,Alm. Salg,348,5,Villa,172,1800,,Aktuel værdi
+Haven 35985 Søby Ærø, Ærø,1.000.000,11-08-2010,Alm. Salg,6.993,5,Villa,143,1900,,Aktuel værdi
+Ellehøjvej 215985 Søby Ærø, Ærø,995.000,08-08-2010,Alm. Salg,7.370,4,Villa,135,1978,,Aktuel værdi
+Nørrebro 55985 Søby Ærø, Ærø,950.000,24-07-2010,Alm. Salg,6.291,4,Villa,151,1980,-5 %,Aktuel værdi
+Rummes Agre 695985 Søby Ærø, Ærø,435.000,22-06-2010,Alm. Salg,3.020,4,Villa,144,2010,,Aktuel værdi
+Præstevænget 85985 Søby Ærø, Ærø,535.000,20-05-2010,Alm. Salg,6.858,3,Villa,78,1907,-7 %,Aktuel værdi
+Stenagre 95985 Søby Ærø, Ærø,2.650.000,12-05-2010,Alm. Salg,12.990,6,Sommerhus,204,1777,-8 %,Aktuel værdi
+Lebyvej 115985 Søby Ærø, Ærø,125.000,21-04-2010,Alm. Salg,1.225,5,Sommerhus,102,1820,,Aktuel værdi
+Skovbygade 15985 Søby Ærø, Ærø,310.500,18-04-2010,Fam. Salg,2.370,5,Villa,131,1825,,Aktuel værdi
+Langevrætte 85985 Søby Ærø, Ærø,1.500.000,18-12-2009,Alm. Salg,6.849,8,Villa,219,1873,-6 %,Aktuel værdi
+Søbakkevej 95985 Søby Ærø, Ærø,550.000,08-12-2009,Auktion,-,4,Villa,145,1900,-30 %,Aktuel værdi
+Øverste Skovbymark 25985 Søby Ærø, Ærø,450.000,23-11-2009,Alm. Salg,4.639,4,Villa,97,1860,,Aktuel værdi
+Haven 125985 Søby Ærø, Ærø,410.000,09-11-2009,Alm. Salg,4.659,4,Villa,88,1909,-31 %,Aktuel værdi
+Søbakkevej 205985 Søby Ærø, Ærø,525.000,07-11-2009,Alm. Salg,4.772,5,Villa,110,1800,-11 %,Aktuel værdi
+Skæphøjvej 45985 Søby Ærø, Ærø,816.000,28-10-2009,Alm. Salg,6.743,6,Villa,121,1931,-4 %,Aktuel værdi
+Kappelhøj 95985 Søby Ærø, Ærø,160.000,29-09-2009,Alm. Salg,1.103,3,Villa,145,2011,-18 %,Aktuel værdi
+Søbygårdsmarksvej 55985 Søby Ærø, Ærø,1.000.000,24-08-2009,Alm. Salg,-,8,Villa,216,1877,-9 %,Aktuel værdi
+Præstevænget 105985 Søby Ærø, Ærø,800.000,16-08-2009,Fam. Salg,2.318,14,Villa,345,1869,,Aktuel værdi
+Godthåb 25985 Søby Ærø, Ærø,400.000,10-08-2009,Alm. Salg,5.633,3,Villa,71,1920,,Aktuel værdi
+Lodsgyden 15985 Søby Ærø, Ærø,707.500,03-08-2009,Alm. Salg,8.843,3,Villa,80,1880,-11 %,Aktuel værdi
+Ellehøjvej 75985 Søby Ærø, Ærø,1.090.000,18-07-2009,Alm. Salg,9.083,4,Villa,120,1966,-9 %,Aktuel værdi
+Søby Nørremarksvej 15985 Søby Ærø, Ærø,1.100.000,30-06-2009,Alm. Salg,5.238,6,Sommerhus,210,1901,,Aktuel værdi
+Skovbygade 115985 Søby Ærø, Ærø,700.000,26-06-2009,Alm. Salg,8.333,2,Villa,84,1884,,Aktuel værdi
+Nørrevejen 185985 Søby Ærø, Ærø,367.500,12-06-2009,Fam. Salg,9.423,3,Sommerhus,39,1962,,Aktuel værdi
+Skovbygade 95985 Søby Ærø, Ærø,700.000,08-06-2009,Alm. Salg,4.117,6,Villa,170,1907,,Aktuel værdi
+Søbakkevej 125985 Søby Ærø, Ærø,675.000,28-04-2009,Alm. Salg,5.443,5,Villa,124,1890,,Aktuel værdi
+Møllemarksvejen 135985 Søby Ærø, Ærø,800.000,17-03-2009,Alm. Salg,6.666,4,Villa,120,1966,-6 %,Aktuel værdi
+Buevej 205985 Søby Ærø, Ærø,525.000,16-03-2009,Alm. Salg,6.402,4,Villa,82,1913,-5 %,Aktuel værdi
+Kappelhøj 35985 Søby Ærø, Ærø,900.000,11-02-2009,Alm. Salg,8.653,5,Villa,104,1983,-10 %,Aktuel værdi
+Lebyvej 125985 Søby Ærø, Ærø,875.000,23-01-2009,Alm. Salg,9.114,4,Villa,96,1890,13 %,Aktuel værdi
+Søby Midtvej 35985 Søby Ærø, Ærø,695.000,20-12-2008,Alm. Salg,3.309,7,Villa,210,1900,,Aktuel værdi
+Østerbro 175985 Søby Ærø, Ærø,840.000,23-09-2008,Alm. Salg,5.283,5,Villa,159,1901,-4 %,Aktuel værdi
+Østerbro 65985 Søby Ærø, Ærø,800.000,15-08-2008,Alm. Salg,7.843,6,Villa,102,1901,,Aktuel værdi
+Søby Landevej 75985 Søby Ærø, Ærø,1.245.000,08-08-2008,Alm. Salg,8.706,7,Villa,143,1922,-4 %,Aktuel værdi
+Øverste Skovbymark 85985 Søby Ærø, Ærø,297.984,25-07-2008,Alm. Salg,3.973,4,Stuehus,75,1894,,
+Havnevejen 11A5985 Søby Ærø, Ærø,660.000,21-07-2008,Alm. Salg,4.714,4,Villa,140,1970,,Aktuel værdi
+Lærkevej 25985 Søby Ærø, Ærø,925.000,06-06-2008,Alm. Salg,6.166,5,Villa,150,1909,-5 %,Aktuel værdi
+Ellehøjvej 265985 Søby Ærø, Ærø,1.283.000,09-05-2008,Alm. Salg,11.156,4,Villa,115,1980,,Aktuel værdi
+Havnevejen 85985 Søby Ærø, Ærø,510.000,02-04-2008,Alm. Salg,5.000,5,Villa,102,1955,,Aktuel værdi
+Buevej 135985 Søby Ærø, Ærø,300.000,26-03-2008,Alm. Salg,3.260,3,Villa,92,1908,,Aktuel værdi
+Østerbro 55985 Søby Ærø, Ærø,415.000,18-03-2008,Alm. Salg,2.804,6,Villa,148,1867,-28 %,Aktuel værdi
+Alleen 65985 Søby Ærø, Ærø,745.000,10-03-2008,Alm. Salg,5.730,6,Villa,130,1930,,Aktuel værdi
+Haven 65985 Søby Ærø, Ærø,1.050.000,01-03-2008,Alm. Salg,8.203,6,Villa,128,1945,,Aktuel værdi
+Kystvejen 185985 Søby Ærø, Ærø,3.595.000,29-02-2008,Alm. Salg,24.623,6,Villa,146,1978,,Aktuel værdi
+Godthåb 95985 Søby Ærø, Ærø,595.000,22-02-2008,Alm. Salg,2.270,9,Villa,262,1900,0 %,Aktuel værdi
+Søbakkevej 65985 Søby Ærø, Ærø,975.000,22-02-2008,Alm. Salg,6.678,5,Villa,146,1925,-11 %,Aktuel værdi
+Nørrevejen 135985 Søby Ærø, Ærø,950.000,29-01-2008,Alm. Salg,9.313,4,Villa,102,1986,-10 %,Aktuel værdi
+Albertslykke 105985 Søby Ærø, Ærø,1.700.000,02-01-2008,Alm. Salg,8.994,7,Villa,189,1912,-3 %,Aktuel værdi
+Skovbygade 255985 Søby Ærø, Ærø,775.000,26-11-2007,Alm. Salg,6.858,5,Villa,113,1875,-6 %,Aktuel værdi
+Havnevejen 255985 Søby Ærø, Ærø,450.000,19-11-2007,Alm. Salg,4.687,3,Villa,96,1802,,Aktuel værdi
+Alleen 25985 Søby Ærø, Ærø,700.000,28-10-2007,Fam. Salg,3.723,6,Villa,188,1946,,Aktuel værdi
+Nørrevænget 45985 Søby Ærø, Ærø,675.000,10-10-2007,Alm. Salg,4.440,6,Villa,152,1940,,Aktuel værdi
+Østerbro 405985 Søby Ærø, Ærø,450.000,02-10-2007,Alm. Salg,5.232,4,Villa,86,1931,-9 %,Aktuel værdi
+Østerbro 85985 Søby Ærø, Ærø,350.000,19-09-2007,Alm. Salg,-,6,Villa,119,1877,,Aktuel værdi
+Søby Landevej 185985 Søby Ærø, Ærø,2.050.000,10-09-2007,Alm. Salg,6.269,6,Villa,327,1930,-14 %,Aktuel værdi
+Havevej 45985 Søby Ærø, Ærø,490.000,06-09-2007,Fam. Salg,4.900,3,Villa,100,1968,,Aktuel værdi
+Søbygårdsmarksvej 105985 Søby Ærø, Ærø,950.000,30-08-2007,Alm. Salg,6.643,6,Villa,143,1870,,Aktuel værdi
+Lodsgyden 35985 Søby Ærø, Ærø,560.000,25-08-2007,Alm. Salg,6.153,4,Villa,91,1905,-12 %,Aktuel værdi
+Lebymarksvej 55985 Søby Ærø, Ærø,1.275.000,17-08-2007,Alm. Salg,9.042,7,Villa,141,1904,0 %,Aktuel værdi
+Buevej 125985 Søby Ærø, Ærø,595.000,15-08-2007,Alm. Salg,6.761,3,Villa,88,1904,,Aktuel værdi
+Ellehøjvej 145985 Søby Ærø, Ærø,835.000,14-08-2007,Alm. Salg,7.590,3,Villa,110,1974,,Aktuel værdi
+Kappelhøj 235985 Søby Ærø, Ærø,1.300.000,17-07-2007,Alm. Salg,6.598,7,Villa,197,1980,-4 %,Aktuel værdi
+Lebygyde 35985 Søby Ærø, Ærø,475.000,27-06-2007,Alm. Salg,5.277,4,Stuehus,90,1821,0 %,
+Skelhave 15985 Søby Ærø, Ærø,425.000,25-06-2007,Alm. Salg,3.899,3,Sommerhus,109,1807,,Aktuel værdi
+Skelhave 35985 Søby Ærø, Ærø,1.850.000,20-06-2007,Alm. Salg,9.893,5,Villa,187,1900,,Aktuel værdi
+Godthåb 85985 Søby Ærø, Ærø,300.000,14-06-2007,Alm. Salg,3.448,5,Villa,87,1900,-14 %,Aktuel værdi
+Søndervejen 55985 Søby Ærø, Ærø,500.000,13-06-2007,Fam. Salg,6.410,3,Villa,78,1903,,Aktuel værdi
+Østerbro 155985 Søby Ærø, Ærø,502.400,07-06-2007,Alm. Salg,4.446,3,Villa,113,1904,,Aktuel værdi
+Lebygyde 45985 Søby Ærø, Ærø,825.000,03-06-2007,Alm. Salg,5.892,4,Villa,140,1807,-2 %,Aktuel værdi
+Buevej 185985 Søby Ærø, Ærø,810.000,04-05-2007,Alm. Salg,5.436,8,Villa,149,1850,,Aktuel værdi
+Leby Grønvej 75985 Søby Ærø, Ærø,150.000,03-05-2007,Alm. Salg,1.071,5,Sommerhus,140,1830,,Aktuel værdi
+Alleen 225985 Søby Ærø, Ærø,400.000,30-04-2007,Fam. Salg,6.451,5,Villa,62,1926,,Aktuel værdi
+Lebyvej 205985 Søby Ærø, Ærø,695.000,14-03-2007,Alm. Salg,7.897,4,Villa,88,1900,0 %,Aktuel værdi
+Albertslykke 45985 Søby Ærø, Ærø,610.000,07-01-2007,Alm. Salg,3.860,4,Villa,158,1927,,Aktuel værdi
+Søndervejen 25985 Søby Ærø, Ærø,260.000,01-11-2006,Alm. Salg,1.677,3,Villa,155,1977,,Aktuel værdi
+Skovbygade 45985 Søby Ærø, Ærø,275.000,27-10-2006,Alm. Salg,5.978,2,Sommerhus,46,1777,,Aktuel værdi
+Ellehøjvej 195985 Søby Ærø, Ærø,1.085.000,05-10-2006,Alm. Salg,6.095,6,Villa,178,1973,,Aktuel værdi
+Leby Landevej 95985 Søby Ærø, Ærø,480.000,03-10-2006,Alm. Salg,1.745,6,Stuehus,275,1903,,
+Lebymarksvej 45985 Søby Ærø, Ærø,665.000,22-09-2006,Alm. Salg,2.681,4,Villa,248,1899,,Aktuel værdi
+Gammelløkkevej 15985 Søby Ærø, Ærø,695.000,07-09-2006,Alm. Salg,7.020,3,Sommerhus,99,1877,,Aktuel værdi
+Øverste Skovbymark 145985 Søby Ærø, Ærø,495.000,21-08-2006,Andet,-,5,Sommerhus,224,1885,,Aktuel værdi
+Skelhave 1A5985 Søby Ærø, Ærø,1.995.000,27-06-2006,Alm. Salg,19.368,4,Villa,103,1800,,Aktuel værdi
+Skovbygade 355985 Søby Ærø, Ærø,1.920.000,22-06-2006,Alm. Salg,12.151,6,Stuehus,158,1770,,
+Havnevejen 135985 Søby Ærø, Ærø,380.000,14-06-2006,Alm. Salg,4.871,3,Villa,78,1949,,Aktuel værdi
+Søby Vestermark 15985 Søby Ærø, Ærø,476.000,16-03-2006,Fam. Salg,3.500,6,Villa,136,1902,,Aktuel værdi
+Skovby Nederst 65985 Søby Ærø, Ærø,435.000,12-03-2006,Alm. Salg,4.182,6,Sommerhus,104,1917,,Aktuel værdi
+Nørrebro 165985 Søby Ærø, Ærø,700.000,07-03-2006,Alm. Salg,7.526,3,Villa,93,1944,,Aktuel værdi
+Stærmose 65985 Søby Ærø, Ærø,1.125.000,20-02-2006,Alm. Salg,5.090,7,Sommerhus,221,1880,,Aktuel værdi
+Søby Midtvej 75985 Søby Ærø, Ærø,5.200.000,24-01-2006,Alm. Salg,30.952,6,Stuehus,168,1859,,
+Havnevejen 215985 Søby Ærø, Ærø,820.000,12-01-2006,Alm. Salg,4.315,6,Villa,190,1936,,Aktuel værdi
+Alleen 175985 Søby Ærø, Ærø,625.000,12-01-2006,Alm. Salg,5.530,5,Villa,113,1926,,Aktuel værdi
+Søby Vestermark 25985 Søby Ærø, Ærø,600.000,20-12-2005,Fam. Salg,-,6,Stuehus,234,1920,,
+Nørrevænget 25985 Søby Ærø, Ærø,550.000,15-12-2005,Alm. Salg,5.978,5,Villa,92,1960,,Aktuel værdi
+Langevrætte 145985 Søby Ærø, Ærø,1.575.000,09-12-2005,Alm. Salg,6.128,10,Stuehus,257,1896,,
+Leby Kobbel 25985 Søby Ærø, Ærø,245.000,01-12-2005,Alm. Salg,1.225,6,Villa,200,1884,,Aktuel værdi
+Vitsø 255985 Søby Ærø, Ærø,2.200.000,28-11-2005,Alm. Salg,14.193,4,Villa,155,1877,,Aktuel værdi
+Buevej 95985 Søby Ærø, Ærø,998.680,31-10-2005,Alm. Salg,9.887,3,Sommerhus,101,1800,,Aktuel værdi
+Stenagre 25985 Søby Ærø, Ærø,675.000,23-10-2005,Alm. Salg,3.970,5,Villa,170,1910,,Aktuel værdi
+Lodsgyden 2A5985 Søby Ærø, Ærø,267.640,21-10-2005,Alm. Salg,5.352,3,Villa,50,1952,,Aktuel værdi
+Lebygyde 55985 Søby Ærø, Ærø,595.000,14-10-2005,Alm. Salg,5.409,5,Villa,110,1877,,Aktuel værdi
+Buevej 305985 Søby Ærø, Ærø,525.000,07-10-2005,Fam. Salg,3.106,4,Villa,169,1927,,Aktuel værdi
+Skæphøjvej 25985 Søby Ærø, Ærø,575.000,07-09-2005,Alm. Salg,-,3,Villa,112,1907,,Aktuel værdi
+Skovbygade 225985 Søby Ærø, Ærø,425.000,01-09-2005,Alm. Salg,4.722,3,Villa,90,1857,,Aktuel værdi
+Rønnemosevej 45985 Søby Ærø, Ærø,1.725.000,31-08-2005,Alm. Salg,8.582,6,Stuehus,201,1975,,
+Harevej 55985 Søby Ærø, Ærø,810.000,11-08-2005,Alm. Salg,4.050,6,Villa,200,1825,,Aktuel værdi
+Kystvejen 25985 Søby Ærø, Ærø,204.000,08-08-2005,Fam. Salg,1.942,4,Sommerhus,105,1965,,Aktuel værdi
+Lebymarksvej 25985 Søby Ærø, Ærø,317.000,23-07-2005,Fam. Salg,1.981,4,Villa,160,1875,,Aktuel værdi
+Buevej 75985 Søby Ærø, Ærø,403.000,05-07-2005,Alm. Salg,5.757,2,Villa,70,1906,,Aktuel værdi
+Søby Midtvej 95985 Søby Ærø, Ærø,320.000,01-07-2005,Fam. Salg,2.711,4,Villa,118,1909,,Aktuel værdi
+Lærkevej 45985 Søby Ærø, Ærø,600.000,17-06-2005,Alm. Salg,8.000,5,Villa,75,1955,,Aktuel værdi
+Abildvej 85985 Søby Ærø, Ærø,595.000,08-05-2005,Alm. Salg,5.129,4,Villa,116,1963,,Aktuel værdi
+Havnevejen 235985 Søby Ærø, Ærø,600.000,12-04-2005,Alm. Salg,3.076,5,Villa,195,1938,,Aktuel værdi
+Buevej 165985 Søby Ærø, Ærø,250.000,07-04-2005,Alm. Salg,1.865,6,Villa,134,1850,,Aktuel værdi
+Skovby Skolevej 15985 Søby Ærø, Ærø,800.000,16-03-2005,Alm. Salg,-,6,Villa,167,1889,,Aktuel værdi
+Godthåb 115985 Søby Ærø, Ærø,280.500,14-03-2005,Fam. Salg,2.805,3,Villa,100,1905,,Aktuel værdi
+Søndervejen 65985 Søby Ærø, Ærø,265.600,07-03-2005,Alm. Salg,1.289,5,Villa,206,2009,,Aktuel værdi
+Lebygyde 65985 Søby Ærø, Ærø,800.000,29-12-2004,Alm. Salg,-,8,Villa,183,1807,,Aktuel værdi
+Lebyvej 165985 Søby Ærø, Ærø,375.000,26-12-2004,Alm. Salg,3.571,3,Sommerhus,105,1827,,Aktuel værdi
+Skjoldnæsvej 15985 Søby Ærø, Ærø,125.000,06-12-2004,Alm. Salg,-,9,Stuehus,279,1859,,
+Haven 95985 Søby Ærø, Ærø,1.116.617,07-11-2004,Alm. Salg,6.273,7,Stuehus,178,1909,,
+Haven 265985 Søby Ærø, Ærø,826.861,05-11-2004,Alm. Salg,3.724,8,Stuehus,222,1888,,
+Alleen 215985 Søby Ærø, Ærø,350.000,02-11-2004,Alm. Salg,4.166,4,Villa,84,1958,,Aktuel værdi
+Alleen 205985 Søby Ærø, Ærø,150.000,29-10-2004,Alm. Salg,909,6,Villa,165,1952,,Aktuel værdi
+Nørrevænget 85985 Søby Ærø, Ærø,610.000,09-10-2004,Alm. Salg,4.236,5,Villa,144,1942,,Aktuel værdi
+Søby Vestermark 145985 Søby Ærø, Ærø,483.485,04-10-2004,Alm. Salg,3.357,7,Stuehus,144,1892,,
+Haven 115985 Søby Ærø, Ærø,1.107.192,01-10-2004,Alm. Salg,3.678,6,Stuehus,301,1877,,
+Øverste Skovbymark 115985 Søby Ærø, Ærø,500.000,24-09-2004,Alm. Salg,5.050,3,Villa,99,1886,,Aktuel værdi
+Nederste Skovbymark 85985 Søby Ærø, Ærø,1.575.000,09-09-2004,Alm. Salg,6.702,8,Sommerhus,235,1897,,Aktuel værdi
+Lebyvej 95985 Søby Ærø, Ærø,685.000,09-09-2004,Alm. Salg,7.210,4,Villa,95,1872,,Aktuel værdi
+Søby Midtvej 55985 Søby Ærø, Ærø,160.000,01-09-2004,Alm. Salg,3.076,2,Villa,52,1941,,Aktuel værdi
+Skovvejen 155985 Søby Ærø, Ærø,425.000,25-08-2004,Alm. Salg,5.448,5,Villa,78,1959,,Aktuel værdi
+Vester Møllebakke 35985 Søby Ærø, Ærø,485.000,07-08-2004,Alm. Salg,3.849,6,Villa,126,1912,,Aktuel værdi
+Godthåb 75985 Søby Ærø, Ærø,170.000,02-08-2004,Auktion,955,6,Villa,178,1900,,Aktuel værdi
+Lebymarksvej 75985 Søby Ærø, Ærø,289.900,16-06-2004,Alm. Salg,1.494,5,Stuehus,194,1877,,
+Skovbygyde 75985 Søby Ærø, Ærø,500.000,02-04-2004,Alm. Salg,2.127,6,Villa,235,1908,,Aktuel værdi
+Østerbro 75985 Søby Ærø, Ærø,200.000,19-03-2004,Alm. Salg,1.818,4,Villa,110,1873,,Aktuel værdi
+Østerbro 235985 Søby Ærø, Ærø,475.000,19-02-2004,Alm. Salg,2.810,7,Villa,169,1905,,Aktuel værdi
+Østerbro 255985 Søby Ærø, Ærø,340.000,16-11-2003,Alm. Salg,3.090,5,Villa,110,1935,,Aktuel værdi
+Havnevejen 35985 Søby Ærø, Ærø,425.000,11-11-2003,Alm. Salg,2.560,5,Villa,166,1887,,Aktuel værdi
+Søbakkevej 135985 Søby Ærø, Ærø,225.000,07-11-2003,Alm. Salg,2.319,5,Villa,97,1850,,Aktuel værdi
+Leby Landevej 15985 Søby Ærø, Ærø,225.000,31-10-2003,Alm. Salg,1.939,5,Villa,116,1937,,Aktuel værdi
+Langebro 35985 Søby Ærø, Ærø,490.000,24-10-2003,Alm. Salg,3.500,5,Stuehus,140,1892,,
+Buevej 285985 Søby Ærø, Ærø,1.175.000,09-10-2003,Alm. Salg,6.831,7,Villa,172,1850,,Aktuel værdi
+Skovby Skolevej 45985 Søby Ærø, Ærø,820.000,09-10-2003,Alm. Salg,3.904,9,Villa,210,1891,,Aktuel værdi
+Lebygyde 85985 Søby Ærø, Ærø,398.000,17-08-2003,Alm. Salg,3.372,4,Villa,118,1850,,Aktuel værdi
+Østerbro 145985 Søby Ærø, Ærø,125.000,01-07-2003,Alm. Salg,1.388,3,Villa,90,1899,,Aktuel værdi
+Nørrevejen 95985 Søby Ærø, Ærø,374.000,29-06-2003,Fam. Salg,2.690,5,Villa,139,1960,,Aktuel værdi
+Østerbro 27A5985 Søby Ærø, Ærø,575.000,08-06-2003,Alm. Salg,2.521,6,Villa,228,1970,,Aktuel værdi
+Smedegyden 15985 Søby Ærø, Ærø,357.000,01-06-2003,Fam. Salg,3.336,3,Villa,107,1888,,Aktuel værdi
+Alleen 115985 Søby Ærø, Ærø,463.000,30-05-2003,Alm. Salg,-,6,Villa,145,1933,,Aktuel værdi
+Søby Tværvej 2A5985 Søby Ærø, Ærø,270.000,03-04-2003,Alm. Salg,2.842,3,Villa,95,1920,,Aktuel værdi
+Søby Landevej 125985 Søby Ærø, Ærø,1.200.000,25-03-2003,Alm. Salg,4.743,6,Stuehus,253,1875,,
+Skovbygade 205985 Søby Ærø, Ærø,385.000,17-03-2003,Alm. Salg,4.812,3,Sommerhus,80,1870,,Aktuel værdi
+Langebro 45985 Søby Ærø, Ærø,300.000,04-03-2003,Alm. Salg,2.439,3,Villa,123,1904,,Aktuel værdi
+Lebymarksvej 35985 Søby Ærø, Ærø,425.000,28-01-2003,Alm. Salg,5.059,3,Villa,84,2003,,Aktuel værdi
+Lebymarksvej 105985 Søby Ærø, Ærø,382.569,10-01-2003,Alm. Salg,2.391,6,Stuehus,160,1879,,
+Sækkemosevej 15985 Søby Ærø, Ærø,425.000,21-12-2002,Fam. Salg,4.427,1,Stuehus,96,1856,,
+Søby Landevej 95985 Søby Ærø, Ærø,595.000,24-09-2002,Alm. Salg,4.958,5,Villa,120,1907,,Aktuel værdi
+Langebro 55985 Søby Ærø, Ærø,128.000,11-09-2002,Alm. Salg,1.142,5,Sommerhus,112,1870,,Aktuel værdi
+Søndervejen 145985 Søby Ærø, Ærø,147.412,29-08-2002,Auktion,969,6,Sommerhus,152,1896,,Aktuel værdi
+Ellehøjvej 185985 Søby Ærø, Ærø,400.000,14-08-2002,Alm. Salg,5.970,3,Villa,67,1972,,Aktuel værdi
+Søndervejen 135985 Søby Ærø, Ærø,200.000,28-06-2002,Alm. Salg,3.571,2,Sommerhus,56,1968,,Aktuel værdi
+Havnevejen 175985 Søby Ærø, Ærø,335.000,03-06-2002,Alm. Salg,2.042,5,Villa,164,1934,,Aktuel værdi
+Godthåb 65985 Søby Ærø, Ærø,250.000,07-05-2002,Andet,1.436,6,Villa,174,1891,,Aktuel værdi
+Minesvej 15985 Søby Ærø, Ærø,475.000,23-04-2002,Alm. Salg,4.166,5,Villa,114,1923,,Aktuel værdi
+Vester Møllebakke 65985 Søby Ærø, Ærø,425.000,12-04-2002,Alm. Salg,-,8,Kollegium,261,1935,,Aktuel værdi
+Godthåb 35985 Søby Ærø, Ærø,540.000,14-03-2002,Alm. Salg,2.918,8,Villa,185,1931,,Aktuel værdi
+Ellehøjvej 55985 Søby Ærø, Ærø,490.000,10-03-2002,Alm. Salg,4.083,5,Villa,120,1949,,Aktuel værdi
+Alleen 95985 Søby Ærø, Ærø,340.000,01-03-2002,Alm. Salg,4.473,3,Sommerhus,76,1928,,Aktuel værdi
+Østerbro 115985 Søby Ærø, Ærø,280.000,14-01-2002,Alm. Salg,3.218,3,Villa,87,1906,,Aktuel værdi
+Stærmose 15985 Søby Ærø, Ærø,580.000,13-12-2001,Alm. Salg,4.055,4,Villa,143,1789,,Aktuel værdi
+Nørrebro 45985 Søby Ærø, Ærø,310.000,26-11-2001,Alm. Salg,3.604,3,Villa,86,1953,,Aktuel værdi
+Buevej 25985 Søby Ærø, Ærø,250.000,30-10-2001,Alm. Salg,2.840,4,Sommerhus,88,1847,,Aktuel værdi
+Søby Landevej 35985 Søby Ærø, Ærø,825.000,17-09-2001,Fam. Salg,4.388,7,Stuehus,188,1910,,
+Nørrebro 255985 Søby Ærø, Ærø,225.000,23-07-2001,Alm. Salg,-,4,Villa,172,1908,,Aktuel værdi
+Skæphøjvej 15985 Søby Ærø, Ærø,145.229,09-07-2001,Alm. Salg,1.296,4,Villa,112,1904,,Aktuel værdi
+Skovvejen 15985 Søby Ærø, Ærø,170.000,07-07-2001,Alm. Salg,2.297,4,Villa,74,1906,,Aktuel værdi
+Skovbygade 345985 Søby Ærø, Ærø,380.481,03-07-2001,Alm. Salg,-,5,Villa,150,1870,,Aktuel værdi
+Stærmose 25985 Søby Ærø, Ærø,775.000,02-07-2001,Alm. Salg,4.305,6,Villa,180,1817,,Aktuel værdi
+Øverste Skovbymark 165985 Søby Ærø, Ærø,680.000,23-06-2001,Alm. Salg,5.230,5,Stuehus,130,1909,,
+Lebymarksvej 145985 Søby Ærø, Ærø,365.500,06-04-2001,Alm. Salg,2.748,5,Villa,133,1870,,Aktuel værdi
+Nørrevænget 55985 Søby Ærø, Ærø,469.999,25-03-2001,Alm. Salg,4.392,5,Villa,107,1925,,Aktuel værdi
+Havnevejen 155985 Søby Ærø, Ærø,518.217,14-02-2001,Alm. Salg,3.701,5,Villa,140,1942,,Aktuel værdi
+Snorløkke 95985 Søby Ærø, Ærø,560.000,09-01-2001,Alm. Salg,2.170,8,Sommerhus,258,1901,,Aktuel værdi
+Søby Nørremarksvej 135985 Søby Ærø, Ærø,535.000,15-12-2000,Alm. Salg,2.648,5,Villa,202,1870,,Aktuel værdi
+Albertslykke 65985 Søby Ærø, Ærø,383.579,21-11-2000,Alm. Salg,1.469,9,Villa,261,1908,,Aktuel værdi
+Abildvej 105985 Søby Ærø, Ærø,535.499,17-11-2000,Alm. Salg,3.852,7,Villa,139,1962,,Aktuel værdi
+Skovbygade 215985 Søby Ærø, Ærø,479.000,02-11-2000,Alm. Salg,4.129,6,Villa,116,1804,,Aktuel værdi
+Langevrætte 35985 Søby Ærø, Ærø,40.000,16-10-2000,Alm. Salg,-,4,Villa,121,1909,,Aktuel værdi
+Buevej 325985 Søby Ærø, Ærø,250.000,28-09-2000,Alm. Salg,-,5,Villa,102,1904,,Aktuel værdi
+Stenagre 35985 Søby Ærø, Ærø,735.000,13-09-2000,Alm. Salg,-,5,Villa,257,1914,,Aktuel værdi
+Østerbro 445985 Søby Ærø, Ærø,635.000,08-09-2000,Alm. Salg,3.691,5,Villa,172,1965,,Aktuel værdi
+Mosevej 65985 Søby Ærø, Ærø,466.701,08-09-2000,Andet,3.357,7,Villa,139,1971,,Aktuel værdi
+Leby Landevej 25985 Søby Ærø, Ærø,181.000,01-09-2000,Alm. Salg,1.392,5,Villa,130,1900,,Aktuel værdi
+Leby Landevej 45985 Søby Ærø, Ærø,355.548,27-08-2000,Alm. Salg,3.591,5,Villa,99,1931,,Aktuel værdi
+Søby Vestermark 125985 Søby Ærø, Ærø,350.000,16-08-2000,Alm. Salg,3.070,4,Sommerhus,114,1955,,Aktuel værdi
+Nørrebro 65985 Søby Ærø, Ærø,350.000,02-08-2000,Alm. Salg,-,4,Villa,118,1957,,Aktuel værdi
+Skovbygade 55985 Søby Ærø, Ærø,358.268,26-07-2000,Alm. Salg,4.975,4,Villa,72,1843,,Aktuel værdi
+Søby Landevej 115985 Søby Ærø, Ærø,820.000,10-07-2000,Alm. Salg,-,9,Villa,318,1785,,Aktuel værdi
+Øverste Skovbymark 35985 Søby Ærø, Ærø,1.300.000,08-07-2000,Alm. Salg,9.352,5,Stuehus,139,1858,,
+Skovbygade 35985 Søby Ærø, Ærø,250.000,25-05-2000,Alm. Salg,3.164,2,Sommerhus,79,1752,,Aktuel værdi
+Skovbygade 325985 Søby Ærø, Ærø,115.000,13-04-2000,Alm. Salg,-,4,Villa,143,1825,,Aktuel værdi
+Lebygyde 25985 Søby Ærø, Ærø,230.000,16-03-2000,Alm. Salg,3.285,4,Sommerhus,70,1887,,Aktuel værdi
+Røndal 15985 Søby Ærø, Ærø,60.264,10-03-2000,Alm. Salg,634,5,Sommerhus,95,1875,,Aktuel værdi
+Alleen 155985 Søby Ærø, Ærø,530.000,28-02-2000,Alm. Salg,4.140,4,Villa,128,1943,,Aktuel værdi
+Lebyvej 145985 Søby Ærø, Ærø,600.000,22-02-2000,Alm. Salg,3.108,6,Villa,193,1934,,Aktuel værdi
+Søby Vestermark 105985 Søby Ærø, Ærø,1.000.000,16-02-2000,Alm. Salg,7.352,6,Stuehus,136,1923,,
+Alleen 135985 Søby Ærø, Ærø,450.000,06-02-2000,Alm. Salg,4.017,3,Villa,112,1936,,Aktuel værdi
+Haven 75985 Søby Ærø, Ærø,175.000,29-01-2000,Fam. Salg,1.483,4,Sommerhus,118,1877,,Aktuel værdi
+Søndervejen 75985 Søby Ærø, Ærø,221.000,28-01-2000,Fam. Salg,-,3,Villa,109,1904,,Aktuel værdi
+Stærmose 45985 Søby Ærø, Ærø,547.326,18-01-2000,Alm. Salg,3.909,4,Sommerhus,140,1906,,Aktuel værdi
+Godthåb 135985 Søby Ærø, Ærø,305.630,25-11-1999,Alm. Salg,-,8,Villa,180,1902,,Aktuel værdi
+Røndal 75985 Søby Ærø, Ærø,430.000,18-07-1999,Alm. Salg,1.580,6,Sommerhus,272,1915,,Aktuel værdi
+Nørrevejen 145985 Søby Ærø, Ærø,155.000,23-06-1999,Alm. Salg,8.157,2,Sommerhus,19,1960,,Aktuel værdi
+Nørrevejen 25985 Søby Ærø, Ærø,475.000,17-06-1999,Alm. Salg,1.583,9,Villa,300,1849,,Aktuel værdi
+Lebyvej 285985 Søby Ærø, Ærø,80.000,14-06-1999,Alm. Salg,-,6,Villa,164,1820,,Aktuel værdi
+Nederste Skovbymark 55985 Søby Ærø, Ærø,525.000,13-03-1999,Alm. Salg,2.692,6,Stuehus,195,1815,,
+Søbygårdsmarksvej 15985 Søby Ærø, Ærø,330.000,22-11-1998,Alm. Salg,2.037,7,Villa,162,1916,,Aktuel værdi
+Buevej 3A5985 Søby Ærø, Ærø,740.000,18-11-1998,Alm. Salg,4.111,5,Villa,180,1981,,Aktuel værdi
+Nørrebro 125985 Søby Ærø, Ærø,178.791,12-11-1998,Andet,1.364,5,Villa,131,1900,,Aktuel værdi
+Snorløkke 55985 Søby Ærø, Ærø,360.000,01-09-1998,Alm. Salg,4.675,4,Villa,77,1859,,Aktuel værdi
+Haven 135985 Søby Ærø, Ærø,200.000,07-08-1998,Alm. Salg,1.418,5,Sommerhus,141,1927,,Aktuel værdi
+Lebyvej 325985 Søby Ærø, Ærø,450.000,09-07-1998,Alm. Salg,2.662,3,Villa,169,1820,,Aktuel værdi
+Skovbygade 4A5985 Søby Ærø, Ærø,650.832,25-06-1998,Alm. Salg,4.093,5,Villa,159,1979,,Aktuel værdi
+Præstevænget 55985 Søby Ærø, Ærø,450.330,13-05-1998,Fam. Salg,4.690,5,Villa,96,1949,,Aktuel værdi
+Lodsgyden 25985 Søby Ærø, Ærø,275.000,03-05-1998,Fam. Salg,2.272,5,Villa,121,1817,,Aktuel værdi
+Alleen 55985 Søby Ærø, Ærø,282.000,05-04-1998,Alm. Salg,2.820,4,Villa,100,1936,,Aktuel værdi
+Søby Vestermark 85985 Søby Ærø, Ærø,306.000,23-03-1998,Fam. Salg,3.642,1,Stuehus,84,1911,,
+Lebyvej 35985 Søby Ærø, Ærø,172.916,06-03-1998,Alm. Salg,691,8,Villa,250,1927,,Aktuel værdi
+Nørrevænget 8A5985 Søby Ærø, Ærø,300.000,30-01-1998,Alm. Salg,3.409,4,Villa,88,1965,,Aktuel værdi
+Østerbro 105985 Søby Ærø, Ærø,354.463,29-01-1998,Fam. Salg,1.720,6,Villa,206,1895,,Aktuel værdi
+Ellehøjvej 175985 Søby Ærø, Ærø,520.000,23-01-1998,Alm. Salg,3.661,5,Villa,142,1974,,Aktuel værdi
+Østerbro 32A5985 Søby Ærø, Ærø,350.000,17-12-1997,Alm. Salg,2.287,6,Villa,153,1923,,Aktuel værdi
+Østerbro 165985 Søby Ærø, Ærø,160.000,28-11-1997,Alm. Salg,-,5,Villa,128,1909,,Aktuel værdi
+Skovby Nederst 145985 Søby Ærø, Ærø,800.000,21-11-1997,Fam. Salg,5.797,4,Villa,138,1984,,Aktuel værdi
+Nederste Skovbymark 35985 Søby Ærø, Ærø,1.090.000,21-11-1997,Fam. Salg,5.023,7,Stuehus,217,1920,,
+Nørrevænget 75985 Søby Ærø, Ærø,180.000,03-11-1997,Alm. Salg,2.571,3,Villa,70,1850,,Aktuel værdi
+Havnevejen 205985 Søby Ærø, Ærø,425.000,30-10-1997,Alm. Salg,3.102,4,Villa,137,1905,,Aktuel værdi
+Buevej 245985 Søby Ærø, Ærø,240.000,24-10-1997,Alm. Salg,-,5,Villa,110,1775,,Aktuel værdi
+Havevej 55985 Søby Ærø, Ærø,125.000,29-08-1997,Alm. Salg,1.033,5,Villa,121,1947,,Aktuel værdi
+Nørrevænget 125985 Søby Ærø, Ærø,130.000,27-08-1997,Alm. Salg,1.130,4,Villa,115,1903,,Aktuel værdi
+Østerbro 285985 Søby Ærø, Ærø,142.000,14-07-1997,Alm. Salg,1.083,9,Villa,131,1913,,Aktuel værdi
+Snorløkke 35985 Søby Ærø, Ærø,212.500,26-06-1997,Fam. Salg,2.190,4,Villa,97,1904,,Aktuel værdi
+Øverste Skovbymark 95985 Søby Ærø, Ærø,550.000,02-06-1997,Alm. Salg,2.226,6,Stuehus,247,1905,,
+Øverste Skovbymark 65985 Søby Ærø, Ærø,540.953,28-05-1997,Alm. Salg,-,7,Sommerhus,138,1932,,Aktuel værdi
+Søby Nørremarksvej 35985 Søby Ærø, Ærø,570.080,23-05-1997,Alm. Salg,-,5,Villa,207,1902,,Aktuel værdi
+Skovbygade 25985 Søby Ærø, Ærø,370.000,23-04-1997,Alm. Salg,1.480,6,Villa,250,1777,,Aktuel værdi
+Havnevejen 105985 Søby Ærø, Ærø,60.000,10-04-1997,Alm. Salg,487,2,Sommerhus,123,1910,,Aktuel værdi
+Søby Midtvej 25985 Søby Ærø, Ærø,465.622,21-03-1997,Alm. Salg,3.146,5,Villa,148,1927,,Aktuel værdi
+Stærmose 195985 Søby Ærø, Ærø,381.200,04-03-1997,Alm. Salg,2.255,5,Villa,169,1935,,Aktuel værdi
+Lebymarksvej 95985 Søby Ærø, Ærø,20.000,15-02-1997,Alm. Salg,-,8,Villa,251,1915,,Aktuel værdi
+Nederste Skovbymark 25985 Søby Ærø, Ærø,409.300,13-02-1997,Alm. Salg,2.842,5,Villa,144,1886,,Aktuel værdi
+Søbakkevej 15985 Søby Ærø, Ærø,112.500,13-02-1997,Alm. Salg,1.184,4,Villa,95,1907,,Aktuel værdi
+Kobbelbakken 25985 Søby Ærø, Ærø,63.000,09-01-1997,Alm. Salg,630,4,Sommerhus,100,1940,,Aktuel værdi
+Søby Landevej 15985 Søby Ærø, Ærø,337.228,07-11-1996,Alm. Salg,3.832,5,Villa,88,1937,,Aktuel værdi
+Stærmose 55985 Søby Ærø, Ærø,268.671,01-11-1996,Alm. Salg,1.363,8,Villa,197,1905,,Aktuel værdi
+Østerbro 275985 Søby Ærø, Ærø,250.000,16-10-1996,Alm. Salg,1.404,8,Villa,178,1907,,Aktuel værdi
+Søby Landevej 145985 Søby Ærø, Ærø,320.000,07-10-1996,Alm. Salg,2.133,4,Villa,150,1936,,Aktuel værdi
+Søbakkevej 35985 Søby Ærø, Ærø,229.500,09-08-1996,Alm. Salg,2.550,4,Villa,90,1886,,Aktuel værdi
+Stærmose 85985 Søby Ærø, Ærø,315.768,16-07-1996,Andet,1.416,8,Villa,223,1877,,Aktuel værdi
+Nørrevejen 225985 Søby Ærø, Ærø,725.000,26-04-1996,Alm. Salg,3.419,2,Villa,212,1979,,Aktuel værdi
+Østerbro 125985 Søby Ærø, Ærø,203.000,03-04-1996,Alm. Salg,2.306,2,Villa,88,1887,,Aktuel værdi
+Ellehøjvej 275985 Søby Ærø, Ærø,775.000,03-04-1996,Alm. Salg,4.640,4,Villa,167,1973,,Aktuel værdi
+Abildvej 75985 Søby Ærø, Ærø,407.230,31-03-1996,Alm. Salg,-,7,Villa,179,1891,,Aktuel værdi
+Ellehøjvej 155985 Søby Ærø, Ærø,500.000,19-03-1996,Alm. Salg,2.551,5,Villa,196,1975,,Aktuel værdi
+Skovby Nederst 15985 Søby Ærø, Ærø,300.000,09-03-1996,Fam. Salg,2.912,4,Villa,103,1904,,Aktuel værdi
+Abildvej 45985 Søby Ærø, Ærø,263.500,19-02-1996,Fam. Salg,2.142,4,Villa,123,1944,,Aktuel værdi
+Buevej 115985 Søby Ærø, Ærø,900.000,25-01-1996,Alm. Salg,-,5,Villa,132,1893,,Aktuel værdi
+Lebyvej 265985 Søby Ærø, Ærø,40.000,01-11-1995,Alm. Salg,408,5,Villa,98,1850,,Aktuel værdi
+Skovbygyde 55985 Søby Ærø, Ærø,530.000,31-10-1995,Fam. Salg,2.690,6,Villa,197,1928,,Aktuel værdi
+Haven 55985 Søby Ærø, Ærø,200.000,06-10-1995,Alm. Salg,2.739,2,Sommerhus,73,1925,,Aktuel værdi
+Søbygårdsvej 15985 Søby Ærø, Ærø,1.316.435,22-09-1995,Fam. Salg,9.141,7,Stuehus,144,1888,,
+Møllemarksvejen 55985 Søby Ærø, Ærø,450.000,13-09-1995,Alm. Salg,4.326,3,Villa,104,1967,,Aktuel værdi
+Østerbro 95985 Søby Ærø, Ærø,206.000,11-08-1995,Alm. Salg,-,6,Villa,228,1886,,Aktuel værdi
+Alleen 1A5985 Søby Ærø, Ærø,310.000,21-06-1995,Alm. Salg,2.167,7,Villa,143,1926,,Aktuel værdi
+Kommens Agre 75985 Søby Ærø, Ærø,444.324,05-06-1995,Andet,3.526,4,Villa,126,1972,,Aktuel værdi
+Røndal 25985 Søby Ærø, Ærø,272.000,03-05-1995,Fam. Salg,-,3,Stuehus,149,1900,,
+Skovvejen 65985 Søby Ærø, Ærø,440.000,23-04-1995,Fam. Salg,2.485,5,Villa,177,1903,,Aktuel værdi
+Østerbro 315985 Søby Ærø, Ærø,370.000,22-02-1995,Alm. Salg,2.624,5,Villa,141,1962,,Aktuel værdi
+Nørrebro 95985 Søby Ærø, Ærø,50.000,12-01-1995,Alm. Salg,-,3,Villa,68,1870,,Aktuel værdi
+Nørrevejen 205985 Søby Ærø, Ærø,394.348,23-12-1994,Alm. Salg,1.952,7,Villa,202,1983,,Aktuel værdi
+Vitsø 115985 Søby Ærø, Ærø,57.000,15-12-1994,Alm. Salg,1.461,1,Fritid,39,1956,,Aktuel værdi
+Nørrevejen 55985 Søby Ærø, Ærø,300.000,01-11-1994,Fam. Salg,2.205,5,Villa,136,1964,,Aktuel værdi
+Lebyvej 15985 Søby Ærø, Ærø,600.000,23-09-1994,Alm. Salg,3.571,7,Stuehus,168,1798,,
+Lebygyde 15985 Søby Ærø, Ærø,290.000,12-09-1994,Alm. Salg,-,7,Stuehus,204,1848,,
+Kystvejen 2A5985 Søby Ærø, Ærø,730.000,25-08-1994,Alm. Salg,2.851,5,Villa,256,1974,,Aktuel værdi
+Langevrætte 55985 Søby Ærø, Ærø,250.000,02-08-1994,Alm. Salg,3.787,4,Sommerhus,66,1850,,Aktuel værdi
+Søndervejen 235985 Søby Ærø, Ærø,700.000,06-05-1994,Alm. Salg,3.240,6,Villa,216,1974,,Aktuel værdi
+Søbygårdsmarksvej 85985 Søby Ærø, Ærø,112.230,27-04-1994,Andet,1.603,2,Sommerhus,70,1750,,Aktuel værdi
+Røndal 35985 Søby Ærø, Ærø,415.000,08-03-1994,Alm. Salg,4.068,4,Villa,102,1827,,Aktuel værdi
+Abildvej 25985 Søby Ærø, Ærø,169.110,25-01-1994,Fam. Salg,-,6,Villa,95,1924,,Aktuel værdi
+Skovbygade 85985 Søby Ærø, Ærø,195.000,15-11-1993,Alm. Salg,2.378,4,Villa,82,1800,,Aktuel værdi
+Alleen 45985 Søby Ærø, Ærø,400.000,11-11-1993,Fam. Salg,2.000,4,Villa,200,1949,,Aktuel værdi
+Røndal 65985 Søby Ærø, Ærø,170.000,04-11-1993,Alm. Salg,-,5,Sommerhus,136,1834,,Aktuel værdi
+Præstevænget 1A5985 Søby Ærø, Ærø,13.000,16-08-1993,Auktion,116,4,Villa,112,1971,,Aktuel værdi
+Haven 105985 Søby Ærø, Ærø,250.000,07-07-1993,Alm. Salg,2.659,7,Sommerhus,94,1877,,Aktuel værdi
+Skovbygade 305985 Søby Ærø, Ærø,470.000,16-06-1993,Alm. Salg,2.701,5,Villa,174,1864,,Aktuel værdi
+Havnevejen 185985 Søby Ærø, Ærø,272.000,19-05-1993,Fam. Salg,2.385,4,Villa,114,1907,,Aktuel værdi
+Skovvejen 35985 Søby Ærø, Ærø,375.000,28-04-1993,Alm. Salg,1.588,8,Villa,236,1906,,Aktuel værdi
+Nørrebro 155985 Søby Ærø, Ærø,187.500,31-03-1993,Alm. Salg,1.102,7,Villa,170,1906,,Aktuel værdi
+Øverste Skovbymark 55985 Søby Ærø, Ærø,50.777,04-02-1993,Alm. Salg,479,3,Sommerhus,106,1915,,Aktuel værdi
+Havnevejen 165985 Søby Ærø, Ærø,100.000,12-11-1992,Fam. Salg,1.369,3,Villa,73,1908,,Aktuel værdi
+Søby Landevej 55985 Søby Ærø, Ærø,130.000,03-11-1992,Alm. Salg,1.460,5,Villa,89,1930,,Aktuel værdi
+Østerbro 265985 Søby Ærø, Ærø,200.000,29-07-1992,Fam. Salg,2.272,4,Villa,88,1907,,Aktuel værdi
+Østerbro 295985 Søby Ærø, Ærø,350.000,01-07-1992,Fam. Salg,2.187,6,Villa,160,1940,,Aktuel værdi
+Leby Landevej 35985 Søby Ærø, Ærø,143.709,18-04-1992,Alm. Salg,756,8,Stuehus,190,1848,,
+Lodsgyden 45985 Søby Ærø, Ærø,275.000,13-04-1992,Alm. Salg,2.894,4,Villa,95,1905,,Aktuel værdi
+Minesvej 25985 Søby Ærø, Ærø,280.000,07-04-1992,Alm. Salg,2.947,4,Villa,95,1960,,Aktuel værdi
+Skovby Nederst 55985 Søby Ærø, Ærø,699.033,03-04-1992,Fam. Salg,-,7,Stuehus,190,1994,,
+Skovby Nederst 125985 Søby Ærø, Ærø,333.500,03-04-1992,Fam. Salg,4.117,3,Villa,81,1880,,Aktuel værdi
