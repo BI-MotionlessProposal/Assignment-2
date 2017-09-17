@@ -10,6 +10,8 @@
 ### To see the answers
 1. python question3.py
 2. nano result_3_a
-	(Total sales at the end of the file)
 3. bash 4_1_max.sh
 4. bash 4_1_min.sh
+
+Total sales for the qouestion 3b at the end of the file result_3_a
+
