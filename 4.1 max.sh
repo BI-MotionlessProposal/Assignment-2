@@ -3,7 +3,7 @@ max=0
 max2=""
 temp=0
 words=""
-list=$(find . -name '*.csv')	
+list=$(find . -name '/data/*.csv')	
 for file in $list; do
 	temp=`wc ${file}| awk '{print $1}'`
 	words2=`wc ${file}| awk '{print $4}'`
