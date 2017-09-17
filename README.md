@@ -15,3 +15,7 @@
 #### Question 4
 3. bash 4_1_max.sh
 4. bash 4_1_min.sh
+
+To get statistics on the area with most and least  sale records run the 4_1_max.sh and 4_1_min.sh correspondingly. 
+
+The scripts are in the root folder of the project and point to the data folder where the csv files exist.
